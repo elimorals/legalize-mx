@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2002-03-22"
+last_updated: "2004-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA APROBADA: 26 DE MARZO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2004.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -539,23 +539,39 @@ Las dependencias de la administración municipal deberán conducir sus actividad
 
 Para el estudio, planeación y despacho de los diversos asuntos de la administración pública municipal, el Presidente Municipal se auxiliará de las siguientes dependencias:
 
-I. Secretaría de Gobierno Municipal;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-II. Secretaría de Economía y Finanzas;
+I. Secretaría General de Gobierno Municipal;
 
-III. Secretaría de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+II. Secretaría de Economía y Finanzas y Tesorería Municipal;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+III. Secretaría de Desarrollo Sustentable del Municipio de Querétaro;
 
 IV. Secretaría de Desarrollo Social;
 
 V. Secretaría de Administración; y
 
-VI. Secretaría de Servicios Municipales.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-### CAPITULO IV. De la Secretaría de Gobierno Municipal
+VI. Secretaría de Servicios Públicos Municipales; y
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+VII. Secretaría de Obras Públicas Municipales.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO IV. De la Secretaría General de Gobierno Municipal
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 71.
 
-La Secretaría de Gobierno Municipal es la encargada de conducir la política interna del Municipio y le corresponde el despacho de los siguientes asuntos:
+La Secretaría General de Gobierno Municipal es la encargada de conducir la política interna del municipio y le corresponde el despacho de los siguientes asuntos:
 
 I. Proporcionar asesoría jurídica a las dependencias Municipales;
 
@@ -589,13 +605,19 @@ XV. Celebrar los convenios administrativos que por acuerdo del Presidente Munici
 
 XVI. Los demás que le señalen como de su competencia las leyes y reglamentos vigentes.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Gobierno Municipal se auxiliará con las Direcciones de Gobernación y General Jurídica, así como de los departamentos que al efecto se designen.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-### CAPITULO V. De la Secretaría de Economía y Finanzas
+Para el despacho de los asuntos de su competencia, el Secretario de Gobierno Municipal se auxiliará con las Direcciones de Gobernación y General Jurídica, Análisis Político y del Registro Civil Municipal, así como de los departamentos que al efecto se designen.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO V. De la Secretaría de Economía y Finanzas y Tesorería Municipal
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 72.
 
-La Secretaría de Economía y Finanzas, es la encargada de la administración financiera municipal y le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Economía y Finanzas y Tesorería Municipal, es la encargada de la Administración Financiera municipal y le corresponde el despacho de los siguientes asuntos:
 
 I. Proponer y elaborar los proyectos de leyes, de reglamentos y demás disposiciones que se requieran para el manejo de los asuntos fiscales del Municipio, sometiéndolos a la consideración del Presidente Municipal, para turnarse al cabildo para su debida aprobación.
 
@@ -643,21 +665,25 @@ XXII. Establecer medidas de control respecto de los ingresos y egresos de los or
 
 XXIII. Fomentar el turismo nacional e internacional, que coadyuve al fomento económico en la circunscripción municipal.
 
-XIV. (sic) Efectuar la administración de los rastros.
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+XXIV. Efectuar la administración de los rastros.
 
 XXV. Los demás que le señalen las leyes y reglamentos vigentes.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Economía y Finanzas, se auxiliará con las Direcciones Económico-Financieras y de Tesorería, así como de los departamentos que al efecto se designen.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE FEBRERO DE 1999)</small>
+Para el despacho de los asuntos de su competencia, el Secretario de Economía y Finanzas y Tesorería Municipal, se auxiliará con las Direcciones de Egresos e Información Financiera, de Ingresos, de Sistemas de Información y Municipal de Catastro, así como de los departamentos que al efecto se designen.
 
-### CAPITULO VI. Secretaría de Desarrollo Urbano, Obras Públicas y Ecología
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 1999)</small>
+### CAPITULO VI. De la Secretaría de Desarrollo Sustentable del Municipio de Querétaro y Secretaría de Obras Públicas Municipales
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 73.
 
-La Secretaría de Desarrollo Urbano, Obras Públicas y Ecología, es la encargada de la proyección y construcción de las obras públicas municipales, así como de regular el ordenado crecimiento urbano municipal, y le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Desarrollo Sustentable del Municipio de Querétaro, es la encargada de regular el ordenado crecimiento urbano municipal, y le corresponde el despacho de los siguientes asuntos:
 
 I. Ejercer las atribuciones que en materia de planificación urbana y zonificación, consignan en favor de los municipios la fracción V del Artículo 115 de la Constitución Federal, Artículo 86 de la Constitución Política del Estado de Querétaro, preceptos consignados en el Código Urbano vigente en el Estado, el presente Código y demás disposiciones legales y reglamentarias;
 
@@ -685,9 +711,13 @@ XII. Intervenir, conjunta y cordialmente con el Gobierno del Estado, a través d
 
 XIII. Identificar, declarar y conservar zonas, edificaciones o elementos con valor histórico o cultural;
 
-XIV. Recibir y revisar los fraccionamientos por parte del Municipio en coordinación con la Secretaría de Servicios Municipales;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-XV. Proponer ante la Secretaría de Economía y Finanzas la derrama del Impuesto sobre aumento de Valores y Mejoría Específica de la Propiedad;
+XIV. Recibir y revisar los fraccionamientos por parte del municipio en coordinación con la Secretaría de Servicios Públicos Municipales;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+XV. Proponer ante la Secretaría de Economía y Finanzas y Tesorería Municipal la derrama del Impuesto sobre aumento de Valores y Mejoría Específica de la Propiedad;
 
 XVI. Establecer normas técnicas de construcción y de seguridad para las edificaciones públicas y privadas;
 
@@ -697,19 +727,21 @@ XVIII. Coordinar el desarrollo de proyectos municipales de edificaciones y de es
 
 XIX. Ejecutar las acciones derivadas de la celebración de acuerdos de coordinación y cooperación con las instituciones federales, estatales o municipales, según sea el área de su competencia;
 
-XX. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas;
+XX. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
 
-XXI. Dirigir, coordinar y controlar la ejecución de los programas relativos a la construcción y reparación de las obras públicas;
+XXI. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
 
-XXII. Elaborar los proyectos y presupuestos de las obras públicas, debiendo coordinarlos con las dependencias que correspondan;
+XXII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
 
-XXIII. Recibir, tramitar y resolver, el otorgamiento de los permisos de construcción de edificaciones, que cuenten con la aprobación respectiva de la Secretaría de Desarrollo Urbano, Obras Públicas y Ecología;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+XXIII. Recibir, tramitar y resolver, el otorgamiento de los permisos de construcción de edificaciones, que cuenten con la aprobación respectiva de la Secretaría de Desarrollo Sustentable del Municipio de Querétaro;
 
 XXIV. Llevar el registro de los profesionistas autorizados para elaborar planos de construcción de edificaciones;
 
-XXV. Expedir las bases a que deben ajustarse los concursos para la adjudicación de los contratos de obras públicas, y vigilar el cumplimiento de los mismos;
+XXV. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
 
-XXVI. Coordinar la construcción de los inmuebles y monumentos municipales;
+XXVI. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
 
 XXVII. Elaborar el diagnóstico ambiental del Municipio, definiendo en detalle la problemática existente y sus causas;
 
@@ -725,9 +757,29 @@ XXXII. Informar al Presidente Municipal de las secciones en las que se considera
 
 XXXIII. Los demás que le atribuyan las leyes y reglamentos vigentes en el Estado o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Urbano, Obras Públicas y Ecología se auxiliará con la Dirección de Desarrollo Urbano, la Dirección de Obras Públicas y la Dirección de Ecología Municipal, así como de los departamentos que al efecto se designen.
+Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Sustentable del Municipio de Querétaro se auxiliará con la Dirección de Desarrollo Urbano, de Ecología Municipal y de Desarrollo Económico, así como de los departamentos que al efecto se designen.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+ARTICULO 73 bis.- La Secretaría de Obras Públicas Municipales, es la encargada de la proyección y construcción de las obras públicas municipales, y le corresponde el despacho de los siguientes asuntos:
+
+I. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas;
+
+II. Dirigir, coordinar y controlar la ejecución de los programas relativos a la construcción y reparación de las obras públicas;
+
+III. Elaborar los proyectos y presupuestos de las obras públicas, debiendo coordinarlos con las dependencias que correspondan;
+
+IV. Expedir las bases a que deben ajustarse los concursos para la adjudicación de los contratos de obras públicas, y vigilar el cumplimiento de los mismos;
+
+V. Coordinar la construcción de los inmuebles y monumentos municipales;
+
+VI. Realizar las acciones derivadas de la celebración de convenios y acuerdos de coordinación con las instituciones federales, estatales o municipales, de conformidad con su esfera competencial;
+
+VII. Los demás que le atribuyan las leyes y reglamentos vigentes en el Estado o le asigne el Presidente Municipal.
+
+Para el despacho de los asuntos de su competencia, el Secretario de Obras Públicas Municipales se auxiliará con las Direcciones de Obras Públicas, de Mantenimiento y Operación Vial y de Regularización Territorial, así como de los departamentos que al efecto se designen.
 
 ### CAPITULO VII. Secretaría de Desarrollo Social
 
@@ -749,11 +801,15 @@ VI. Proporcionar servicios de prevención, curación, rehabilitación y asistenc
 
 VII. Promover programas de Solidaridad Social, así como dar seguimiento a las acciones de gestoría social que emprenda el Ayuntamiento;
 
-VIII. Promover y realizar estudio e investigaciones que conduzcan al conocimiento total de las características ecológicas del Municipio, para implementar modelos adecuados para el manejo de recursos o para la planeación ambiental del desarrollo, e informar de ellos a la Secretaría de Desarrollo Urbano, Obras Públicas y Ecología para su aplicación;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+VIII. Promover y realizar estudio e investigaciones que conduzcan al conocimiento total de las características ecológicas del municipio, para implementar modelos adecuados para el manejo de recursos o para la planeación ambiental del desarrollo, e informar de ellos a la Secretaría de Desarrollo Sustentable del Municipio de Querétaro para su aplicación;
 
 IX. Promover o efectuar estudios para conocer la organización social de la comunidad, con la finalidad de programar adecuadamente las acciones de educación ambiental e implementar los modelos de utilización de recursos y eficientizar la participación de la comunidad;
 
-X. En coordinación con la Secretaría de Economía y Finanzas Municipales, participar en la formulación del Programa Anual del Gasto Público, en la definición del Presupuesto de Egresos, de Obras del Programa Nacional de Solidaridad;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+X. En coordinación con la Secretaría de Economía y Finanzas Municipales y Tesorería Municipal, participar en la formulación del Programa Anual del Gasto Público, en la definición del Presupuesto de Egresos, de Obras del Programa Nacional de Solidaridad;
 
 XI. Evaluar la programación, la promoción, la documentación y la ejecución de las obras del Programa Nacional de Solidaridad;
 
@@ -765,7 +821,9 @@ XIV. Coadyuvar y valorar el cumplimiento y avance de planes y programas municipa
 
 XV. Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes o le asigne el Presidente Municipal.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Social se auxiliará con las Direcciones de Bienestar Social, Programación y Presupuesto, anticipación Social y Sistemas de Información.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Social se auxiliará con las Direcciones de Participación Social y Vinculación, Desarrollo Integral, del Deporte y Recreación y del Instituto de Cultura del Municipio de Querétaro, así como de los departamentos que al efecto se designen.
 
 ### CAPITULO VIII. Secretaría de Administración
 
@@ -787,7 +845,9 @@ VI. (DEROGADA POR TRANSITORIO PRIMERO DEL REGLAMENTO DE BIENES PATRIMONIO DEL MU
 
 VII. (DEROGADA POR TRANSITORIO PRIMERO DEL REGLAMENTO DE BIENES PATRIMONIO DEL MUNICIPIO DE QUERÉTARO, APROBACIÓN 26 DE MARZO DE 2002)
 
-VIII. Proponer los contratos de celebración de arrendamiento que tengan por objeto proporcionar locales a las oficinas gubernamentales para que sean realizados por la Secretaría de Gobierno Municipal y firmado por los Síndicos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+VIII. Proponer los contratos de celebración de arrendamiento que tengan por objeto proporcionar locales a las oficinas gubernamentales para que sean realizados por la Secretaría General de Gobierno Municipal y firmado por los Síndicos;
 
 IX. Llevar para efectos administrativos el registro y control de las unidades que requieran las dependencias y entidades municipales;
 
@@ -833,13 +893,19 @@ XXIX. Celebrar los convenios administrativos que por acuerdo del Presidente Muni
 
 XXX. Los demás que en las materias de su competencia lo atribuyan al municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
 
-Para el despacho de los asuntos de su competencia, el secretario de Administración se auxiliará con las Direcciones de Desarrollo Organizacional, Recursos Humanos, Recursos Materiales y Servicios de los departamentos que designen al efecto.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-### CAPITULO IX. Secretaría de Servicios Municipales
+Para el despacho de los asuntos de su competencia, el Secretario de Administración se auxiliará con las Direcciones de Recursos Humanos, de Adquisiciones y Contratación de Servicios de Administración Patrimonial y Servicios Administrativos de Organización y de Transportes, así como de los departamentos que designen al efecto.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO IX. De la Secretaría de Servicios Públicos Municipales
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 76.
 
-La Secretaría de Servicios Municipales es la dependencia encargada de prestar a la comunidad los servicios básicos previstos en este precepto, y al efecto le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Servicios Públicos Municipales es la dependencia encargada de prestar a la comunidad los servicios básicos previstos en este precepto, y al efecto le corresponde el despacho de los siguientes asuntos:
 
 I. Planear, realizar, supervisar, controlar y mantener en condiciones de operación los servicios públicos municipales que a continuación se indican:
 
@@ -883,7 +949,13 @@ XI. Efectuar la administración de los mercados y de los panteones municipales;
 
 XII. Registrar las acciones emprendidas y sus alcances, en materia de reforestación, grado de recuperación de ecosistemas restaurados y niveles abatidos de contaminación; y
 
-XIII. Los demás que en las materias de su competencia, el secretario de Servicios municipales se auxiliará de las Direcciones de Operación, la de Mantenimiento y Jefes de Departamento.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+XIII. Los demás que le atribuyan las leyes y reglamentos vigentes en el Estado o le asigne el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de Servicios Públicos Municipales, se auxiliará con las Direcciones Administrativa, de Aseo Público, de Mantenimiento de Infraestructura, de Servicios Complementarios y de Planeación, así como de los departamentos que al efecto se designen.
 
 ### CAPITULO X. De los Organismos Descentralizados
 
@@ -917,93 +989,143 @@ Se considera a una empresa de participación municipal minoritaria, cuando los i
 
 La vigilancia de los organismos descentralizados y las empresas de participación municipal, serán sujetas al control y vigilancia del ayuntamiento y deberán rendir un informe anual ante el mismo, o cuando sea requerido por éste.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-### CAPITULO XI. Del Organo de Control Interno Municipal
+### CAPITULO XI. De la Secretaría de la Contraloría Municipal
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-ARTICULO 83 bis.- La Contraloría Interna Municipal es la unidad administrativa que dentro de la estructura orgánica del Municipio de Querétaro, tiene como función primordial la aplicación del Sistema Municipal de Prevención, Vigilancia, Control y Evaluación, la salvaguarda de los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia de los Servidores Públicos de la Administración Pública Municipal, la aplicación de los procesos de determinación de responsabilidad administrativa y sanciones disciplinarias que prevé la Ley de Responsabilidades de los Servidores Públicos del Estado.
+ARTICULO 83 bis.- La Secretaría de la Contraloría Municipal es la unidad administrativa que dentro de la estructura orgánica del Municipio de Querétaro, tiene como función primordial la aplicación del Sistema Municipal de Prevención, Vigilancia, Control y Evaluación, la salvaguarda de los principios de legalidad, honradez, lealtad, imparcialidad de eficiencia de los Servidores Públicos de la Administración Pública Municipal, la aplicación de los procesos de determinación de responsabilidad administrativa y sanciones disciplinarias que prevé la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-ARTICULO 83 bis 1.- La Contraloría Interna Municipal tiene como finalidad operar el sistema de control y evaluación, que permite que los recursos humanos, materiales y financieros, se administren adecuadamente conforme al plan, programas y presupuesto aprobados, observando las disposiciones legales al respecto.
+ARTICULO 83 bis 1.- La Secretaría de la Contraloría Municipal tiene como finalidad operar el sistema de control y evaluación, que permite que los recursos humanos, materiales y financieros, se administren adecuadamente conforme al plan, programas y presupuesto aprobados, observando las disposiciones legales al respecto.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-ARTICULO 83 bis 2.- El titular de la Contraloría Interna Municipal, será nombrado a propuesta del Presidente Municipal, con aprobación del Ayuntamiento; dependerá funcionalmente de este cuerpo colegiado y operacionalmente del Presidente Municipal; quien se auxiliará del personal que le sea necesario para el desempeño de sus funciones.
+ARTICULO 83 bis 2.- El Secretario de la Contraloría Municipal, será nombrado a propuesta del Presidente Municipal, con aprobación del Ayuntamiento; dependerá funcionalmente de este cuerpo colegiado y operacionalmente del Presidente Municipal; quien se auxiliará del personal que le sea necesario para el desempeño de sus funciones.
 
-El Ayuntamiento analizará y aprobará en su caso las políticas, planes y sistemas que le proponga la Contraloría para el cumplimiento de sus tareas; igualmente aprobará la calendarización y programa de actividades de la Contraloría.
+El Ayuntamiento analizará y aprobará en su caso las políticas, planes y sistemas que le proponga la Contraloría para el cumplimiento de sus tareas; igualmente aprobará la calendarización y programa de actividades de la Secretaría de la Contraloría Municipal.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-ARTICULO 83 bis 3.- Para ser Contralor Interno del Municipio de Querétaro se requiere:
+ARTICULO 83 bis 3.- Para ser Secretario de la Contraloría Municipal de Querétaro se requiere:
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
 
 I. Ser mexicano, en pleno uso de sus derechos, no estar imposibilitado para desempeñar cargo, empleo o comisión pública y no haber sido condenado, en proceso penal, por delito intencional.
 
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
+
 II. Tener título profesional de Contador Público, Actuario, Licenciado en Administración u otro equivalente, y contar con los conocimientos y experiencia suficiente para desempeñar el cargo, a juicio del Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
 
 III. Haber ejercido la práctica profesional, por un período no menor de cinco años;
 
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
+
 IV. Ser de reconocida solvencia moral en la localidad.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-ARTICULO 83 bis 4.- La Contraloría Interna Municipal tendrá las siguientes atribuciones:
+ARTICULO 83 bis 4.- La Secretaría de la Contraloría Municipal tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
 
 I. Inspeccionar el ejercicio del gasto público y su congruencia con los presupuestos de egresos del Municipio;
 
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
+
 II. Vigilar el uso correcto de los recursos patrimoniales del Municipio, los que la Federación les transfiera para su ejercicio y administración y los que el Estado otorgue para los programas;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
 
 III. Proponer al Cabildo para que en el reglamento respectivo, se expida, reformen o adicionen las normas reguladoras del funcionamiento, instrumentos y procedimientos de control de la administración pública municipal;
 
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
+
 IV. Vigilar el cumplimiento de las normas de control y fiscalización, asesorando y apoyando a los organismos de control interno de las dependencias y organismos municipales;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
 
 V. Establecer las bases generales para la realización de auditorías, en las dependencias y entidades municipales;
 
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
+
 VI. Comprobar el cumplimiento de las obligaciones derivadas de las disposiciones, que en materia de planeación, presupuesto, ingreso, financiamiento, inversión, deuda, patrimonio y valores, tenga la administración municipal;
 
-VII. Establecer, métodos, procedimientos y sistemas que permitan el logro de los objetivos encomendados a la Contraloría Interna, así como vigilar su observancia y aplicación;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+VII. Establecer, métodos, procedimientos y sistemas que permitan el logro de los objetivos encomendados a la Secretaría de la Contraloría Municipal, así como vigilar su observancia y aplicación;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
 
 VIII. Asesorar técnicamente a los responsables de unidades administrativas, sobre reformas administrativas relativas a organización, métodos, procedimientos y controles;
 
-IX. Practicar auditorías a petición de la Contraloría de la Federación, Contraloría del Estado, Ayuntamiento, Presidente Municipal, Tesorería del Municipio, a efecto de promover la eficiencia de sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas, iniciando el procedimiento correspondiente a fin de fincar responsabilidad en su caso, por conducto del Ayuntamiento;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-X. Proporcionar información a la Secretaría de la Contraloría y Desarrollo Administrativo Federal o a la Secretaría de la Contraloría del Estado, sobre el destino y uso de los recursos transferidos;
+IX. Practicar auditorías a petición de la Contraloría de la Federación, Contraloría del Estado, Ayuntamiento, Presidente Municipal, Secretaría de Economía y Finanzas y Tesorería Municipal, a efecto de promover la eficiencia de sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas, iniciando el procedimiento correspondiente a fin de fincar responsabilidad en su caso, por conducto del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+X. Proporcionar información a la Secretaría de la Contraloría Municipal y Desarrollo Administrativo Federal o a la Secretaría de la Contraloría del Estado, sobre el destino y uso de los recursos transferidos;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
 
 XI. Vigilar directamente o a través de los órganos de control de las entidades municipales, el cumplimiento de normas y disposiciones sobre: Registro y contabilidad, contratación y pago de personal, contratación e servicios, obra pública, adquisiciones, arrendamientos, uso y conservación de bienes muebles e inmuebles, activos y en general los recursos materiales del municipio;
 
-XII. Emitir opinión sobre proyectos de sistemas de contabilidad y control en materia de programación, presupuesto, administración de recursos humanos, materiales y financieros, contratación de deuda y manejo de fondos y valores que formule la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+XII. Emitir opinión sobre proyectos de sistemas de contabilidad y control en materia de programación, presupuesto, administración de recursos humanos, materiales y financieros, contratación de deuda y manejo de fondos y valores que formule la Secretaría de Economía y Finanzas y Tesorería Municipal;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
 
 XIII. Informar cuando lo requiera el Cabildo, sobre el resultado de la evaluación y responsabilidad de las dependencias y entidades de la administración municipal que hayan sido objeto de investigación;
 
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
+
 XIV. Conocer e investigar los actos ilícitos u omisiones en el cumplimiento de sus funciones de los servidores públicos a fin de que se sancionen administrativamente conforme a la Ley de Responsabilidad de los Servidores Públicos, y en su caso se ejercite la acción correspondiente por conducto del Síndico Municipal;
 
-XV. Atender las quejas de la ciudadanía, relativas al ámbito de su competencia y de acuerdo a las atribuciones conferidas a la Contraloría; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+XV. Atender las quejas de la ciudadanía, relativas al ámbito de su competencia y de acuerdo a las atribuciones conferidas a la Secretaría de la Contraloría Municipal; y
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
 
 XVI. Las demás que expresamente le confieran las leyes y reglamentos.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-ARTICULO 83 bis 5.- El Contralor Interno Municipal, tendrá entre otras obligaciones, las siguientes:
+ARTICULO 83 bis 5.- El Secretario de la Contraloría Municipal, tendrá entre otras obligaciones, las siguientes:
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
 
 I. Elaborar y ejecutar el programa anual de actividades que deberá ser presentado al Ayuntamiento, por conducto del Presidente Municipal, durante el mes de enero de cada año;
 
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
+
 II. Elaborar bimestralmente un informe de las actividades desarrolladas, así como de la ejecución del programa anual de actividades y remitirlo al Presidente Municipal;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
 
 III. Informar al Ayuntamiento, por conducto del Presidente Municipal o Síndicos Municipales de las revisiones administrativas o auditorías realizadas a las dependencias y entidades municipales, así como las observaciones o recomendaciones, derivadas de las mismas y del seguimiento y corrección de ellas;
 
-IV. Desahogar el procedimiento administrativo de investigación a que se refiere el Título Sexto de la Ley de Responsabilidades de los Servidores Públicos, informando al Presidente Municipal de los mismos y de las resoluciones que se dicten.
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
+
+IV. Desahogar el procedimiento administrativo de investigación a que se refiere el Título Sexto de la Ley de Responsabilidades de los Servidores Públicos, informando al Presidente Municipal de los mismos y de las resoluciones que se dicten;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 1999)</small>
 
 V. Vigilar que dentro de la estructura de la administración pública municipal no se contraten a los servidores públicos inhabilitados.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-ARTICULO 83 bis 6.- La contraloría, con autorización expresa del Presidente Municipal, podrá contratar los servicios profesionales de despachos privados de contabilidad, auditoría y fiscalización para coadyuvar en el cumplimiento de sus tareas o para encomendarles en forma integral algunas acciones de la competencia de la propia Contraloría. En este caso, se establecerá por escrito el carácter confidencial de las diligencias y sus resultados deberán informarse al Ayuntamiento.
+ARTICULO 83 bis 6.- La Secretaría de la Contraloría Municipal, con autorización expresa del Presidente Municipal, podrá contratar los servicios profesionales de despachos privados de contabilidad, auditoría y fiscalización para coadyuvar en el cumplimiento de sus tareas o para encomendarles en forma integral algunas acciones de la competencia de la propia Secretaría de la Contraloría Municipal. En este caso, se establecerá por escrito el carácter confidencial de las diligencias y sus resultados deberán informarse al Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-ARTICULO 83 bis 7.- Todos los servidores públicos que integran la Administración Pública Municipal, tendrán la obligación de proporcionar al Contralor Interno, la información y documentación que éste les solicite en el plazo que para el efecto les conceda, a fin de garantizar el cumplimiento de su cometido; en la inteligencia de que la Contraloría en el desempeño de sus funciones procurará que éstas se verifiquen sin entorpecer el funcionamiento normal del servidor público.
+ARTICULO 83 bis 7.- Todos los servidores públicos que integran la Administración Pública Municipal, tendrán la obligación de proporcionar al Secretario de la Contraloría Municipal, la información y documentación que éste les solicite en el plazo que para el efecto les conceda, a fin de garantizar el cumplimiento de su cometido, en la inteligencia de que la Secretaría de la Contraloría Municipal en el desempeño de sus funciones procurará que éstas se verifiquen sin entorpecer el funcionamiento normal del servidor público.
 
 APARTADO TERCERO
 
@@ -2121,7 +2243,9 @@ III. Obtener de la autoridad municipal el número oficial que corresponda a cada
 
 IV. Tener siempre claros y descubiertos los números oficiales, con la obligación de reponerlos cuando falten o se destruyan;
 
-V. Cercar sus lotes baldíos y mantener limpios, evitando la insalubridad y el mal aspecto, en la inteligencia que de no acatar esta disposición, la Secretaría de Desarrollo Urbano y de Obras Públicas Municipales procederá a cercarlo a costa del propietario del inmueble y cobrárselo por conducto de la Tesorería Municipal; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+V. Cercar sus lotes baldíos y mantener limpios, evitando la insalubridad y el mal aspecto, en la inteligencia que de no acatar esta disposición, la Secretaría de Desarrollo Urbano y de Obras Públicas Municipales procederá a cercarlo a costa del propietario del inmueble y cobrárselo por conducto de la Secretaría de Finanzas y Tesorería Municipal; y
 
 VI. Construir letrinas o fosas sépticas en los lugares que carezcan de sistema de drenaje, a fin de no contaminar el agua o el suelo.
 
@@ -2129,9 +2253,11 @@ VI. Construir letrinas o fosas sépticas en los lugares que carezcan de sistema 
 
 En el caso en se divida una propiedad para obtener dos o más predios, o se abran dos o más puertas de acceso a una misma, los dueños o encargados solicitarán de inmediato a la autoridad municipal que les sea dado el nuevo número oficial, mismo que deberá ser colocado al frente en forma inmediata. Por subdivisión de predios se causarán los derechos previstos en la Ley de Ingresos del Municipio.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 194.
 
-En cualquier construcción o reconstrucción, los materiales que se empleen en ella, deberán ser colocadas dentro de las casas o predios. Pero si por falta de espacio tuvieran que hacer uso de la vía pública, deberán recabar la licencia correspondiente de la Secretaría de Desarrollo Urbano y Obras Públicas del Municipio.
+En cualquier construcción o reconstrucción, los materiales que se empleen en ella, deberán ser colocadas dentro de las casas o predios. Pero si por falta de espacio tuvieran que hacer uso de la vía pública, deberán recabar la licencia correspondiente de la Secretaría de Desarrollo Sustentable del Municipio de Querétaro.
 
 ###### ARTICULO 195.
 
@@ -2541,6 +2667,8 @@ Para la debida procedencia de lo relativo a este artículo, se observará lo dis
 
 ### CAPITULO I. Permisos y Licencias
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 247.
 
 Cuando se presenten emergencias ecológicas o contingencias ambientales que no rebasen el territorio del Municipio o no requieran de la acción exclusiva del Estado o la Federación, o en casos de contaminación con repercusiones peligrosas para los ecosistemas, sus componentes o la salud pública, la autoridad municipal como medida de seguridad, podrá ordenar la retención de sustancias o materiales contaminantes correspondientes y promoverá ante las autoridades competentes en los términos de las leyes relativas, la ejecución de las medidas de seguridad que en dichos ordenamientos se establecen.
@@ -2559,7 +2687,7 @@ DE LAS ACTIVIDADES COMERCIALES
 
 ###### ARTICULO 248.
 
-Es competencia del Ayuntamiento y facultad de la Tesorería Municipal llevar a cabo la expedición, control y cancelación o revocación de las licencias y permisos de funcionamiento de establecimientos, así como la inspección y ejecución fiscal, auditorías que le competan y todas las atribuciones que le correspondan de conformidad con las disposiciones de este código y demás reglamentos aplicables.
+Es competencia del Ayuntamiento y facultad de la Secretaría de Finanzas y Tesorería Municipal llevar a cabo la expedición, control y cancelación o revocación de las licencias y permisos de funcionamiento de establecimientos, así como la inspección y ejecución fiscal, auditorías que le competan y todas las atribuciones que le correspondan de conformidad con las disposiciones de este Código y demás reglamentos aplicables.
 
 ###### ARTICULO 249.
 
@@ -2585,11 +2713,15 @@ El ejercicio del comercio se regirá fundamentalmente en las leyes y reglamentos
 
 I. Todos los establecimientos comerciales en el municipio tendrán derecho a abrir al público de lunes a domingo de las 08:00 a las 22:00 horas en forma ininterrumpida salvo las excepciones que contempla el presente apartado;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 II. La Secretaría de Economía y Finanzas y Tesorería Municipal podrá expedir permiso a los establecimientos para que puedan permanecer abiertos al público en horas no comprendidas en los horarios autorizados, previo pago de los derechos correspondientes, con la anuencia por escrito, fundada y motivada, del Delegado Municipal que corresponda y de la Comisión de Desarrollo Rural y Económico, atendiendo al impacto social que se genere en la zona, la ubicación del establecimiento en donde se verificará que se encuentre en áreas comerciales, en vialidades de fácil acceso, con la debida iluminación a las horas que se requiera, en los siguientes casos:
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 a) Podrán otorgarse en ventas nocturnas o promocionales;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 b) En giros con venta de bebidas alcohólicas en envase cerrado, sólo se podrán otorgar hasta un máximo de dos horas.
 
@@ -2659,9 +2791,9 @@ XIII. De las 06:00 horas a las 22:00 horas de lunes a domingo: misceláneas;
 
 XIV. De las 08:00 a las 20:00 horas de lunes a viernes, y sábados de 08:00 a 15:00 horas: todos los giros de talleres automotrices y de servicios, talleres mecánicos y eléctricos, vulcanizadoras, talleres de hojalatería y pintura, ferretería y plomerías, herrería, carpintería, pailerías, talleres de torno, taller de mofles, establecimientos dedicados a la venta e instalación de equipos de carburación a gas LP y similares;
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-XV. Se exceptúa de lo que dispone la fracción anterior, los talleres mecánicos, vulcanizadoras, talleres eléctricos y grúas que sean colindantes a las carreteras y los que estén ubicados dentro de los parques industriales, los que podrán permanecer abiertos las 24:00 horas de lunes a domingo, previa autorización de la Secretaría de Economía y Finanzas y Tesorería Municipal; así como los establecimientos comerciales que sean anexos a gasolineras colindantes a carreteras o parques industriales.
+XV. Se exceptúa de lo que dispone la fracción anterior, los talleres mecánicos, vulcanizadoras, talleres eléctricos y grúas que sean colindantes a las carreteras y lo (sic) que estén ubicados dentro de los parques industriales, los que podrán permanecer abiertos las 24:00 horas de lunes a domingo, previa autorización de la Secretaría de Economía y Finanzas y Tesorería Municipal; así como los establecimientos comerciales que sean anexos a gasolineras colindantes a carreteras o parques industriales.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
@@ -2687,7 +2819,9 @@ III. La Delegación realizará las verificaciones necesarias y procederá en cas
 
 IV. Cuando la Delegación, determine que existen faltas graves o reiteradas, correrá traslado de la queja al comerciante para que éste conteste en un plazo de diez días hábiles y ofrezca las documentales que acrediten su contestación, independientemente de la sanción a que se haya hecho acreedor; y
 
-V. Transcurrido el plazo para que el comerciante dé contestación; se turnará a la Tesorería Municipal, quien con la opinión de la Comisión de Comercio e Industria determinará en caso necesario, la revocación o suspensión temporal de la Licencia de Funcionamiento.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+V. Transcurrido el plazo para que el comerciante dé contestación; se turnará a la Secretaría de Economía y Finanzas y Tesorería Municipal, quien con la opinión de la Comisión de Desarrollo Rural y Económico determinará en caso necesario, la revocación o suspensión temporal de la Licencia de Funcionamiento.
 
 ###### ARTICULO 254.
 
@@ -2713,9 +2847,13 @@ I. Todo comerciante deberá registrarse en el padrón respectivo del Municipio;
 
 II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2000)
 
-III. El traspaso de los derechos sobre las licencias de empadronamiento, cambio de giros mercantiles, anexas y bajas, deberá solicitarse por escrito a la administración del mercado o central de abasto y a la Tesorería Municipal, siendo esta última la que otorgue la autorización correspondiente;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-IV. Los comerciantes de los mercados sobre ruedas, tianguis, etc., deberán solicitar el permiso correspondiente a la Tesorería Municipal cada día que se instalen y con la debida anticipación, y se ubicarán en el lugar que les asigne la autoridad municipal;
+III. El traspaso de los derechos sobre las licencias de empadronamiento, cambio de giros mercantiles, anexas y bajas, deberá solicitarse por escrito a la administración del mercado o Central de Abasto y a la Secretaría de Economía y Finanzas y Tesorería Municipal, siendo esta última la que otorgue la autorización correspondiente;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+IV. Los comerciantes de los mercados sobre ruedas, tianguis, etc., deberán solicitar el permiso correspondiente a la Secretaría de Economía y Finanzas y Tesorería Municipal cada día que se instalen y con la debida anticipación, y se ubicarán en el lugar que les asigne la Autoridad Municipal;
 
 V. Tendrán los comerciantes la obligación de conservar limpio e higiénico el lugar donde realicen sus actividades; y
 
@@ -2875,9 +3013,11 @@ De los centros nocturnos, tabernas, pulquerías, o expendio de bebidas alcohóli
 
 El Ayuntamiento y sus Delegados Municipales, otorgarán las licencias, permisos o autorizaciones en general que se les soliciten, para el funcionamiento de los espectáculos públicos de acuerdo con las disposiciones de este reglamento y demás ordenamientos municipales.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 276.
 
-Los interesados en obtener del Ayuntamiento la licencia o autorización correspondiente para la actividad a que se refiere este ordenamiento, deberán previamente empadronarse en la Tesorería Municipal, salvo disposición en contrario de la autoridad municipal.
+Los interesados en obtener del Ayuntamiento la licencia o autorización correspondiente para la actividad a que se refiere este ordenamiento, deberán previamente empadronarse en la Secretaría de Economía y Finanzas y Tesorería Municipal, salvo disposición en contrario de la Autoridad Municipal.
 
 ###### ARTICULO 277.
 
@@ -2891,7 +3031,9 @@ I. Nombre, domicilio y nacionalidad del solicitante, en caso de extranjero deber
 
 II. Ubicación del local donde pretenda establecerse;
 
-III. Fotocopia de la cédula de empadronamiento expedida por la Tesorería Municipal, en su caso;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+III. Fotocopia de la cédula de empadronamiento expedida por la Secretaría de Economía y Finanzas y Tesorería Municipal, en su caso;
 
 IV. Constancia expedida por la oficina que corresponda, relativa a que el local satisface las condiciones de seguridad y que cuenta con el equipo necesario contra incendio;
 
@@ -2951,7 +3093,9 @@ Para el otorgamiento de licencias a que se refiere este ordenamiento, deberá co
 
 El registro de la licencia deberá revalidarse anualmente, para este efecto, lo (sic) interesados dentro de los tres primeros meses de cada año, deberán presentar solicitud por escrito, acompañada de los siguientes documentos:
 
-I. Fotocopia del comprobante de la tesorería que acredite haber cubierto los derechos correspondientes al periodo anterior; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+I. Fotocopia del comprobante de la Secretaría de Economía y Finanzas y Tesorería Municipal que acredite haber cubierto los derechos correspondientes al periodo anterior; y
 
 II. Fotocopia de la licencia de funcionamiento, así como la patente respectiva.
 
@@ -3541,9 +3685,11 @@ Para el funcionamiento de las salas públicas de cine se solicitará autorizaci�
 
 En el escrito se expresará, además de los datos que se mencionan en el primer capítulo de este código, el número de asientos, localidades y salidas de emergencia con lo que cuente.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 392.
 
-La empresa deberá remitir a la presidencia el programa de las proyecciones que vaya a realizar con la indicación de los honorarios, precio del boleto de acceso, así como la fecha, número y término de las autorizaciones que para las proyecciones públicas haya concedido la Secretaría de Gobernación. Las modificaciones al programa deberán ser comunicadas de la misma forma a la presidencia municipal.
+La empresa deberá remitir a la Presidencia el programa de las proyecciones que vaya a realizar con la indicación de los honorarios, precio del boleto de acceso, así como la fecha, número y término de las autorizaciones que para las proyecciones públicas haya concedido la Secretaría General de Gobierno Municipal. Las modificaciones al programa deberán ser comunicadas de la misma forma a la Presidencia Municipal.
 
 ###### ARTICULO 393.
 
@@ -3847,9 +3993,11 @@ III. El Estudio de Conservación de Áreas y Edificios Patrimoniales.
 
 Para los fines de ordenación y regulación del desarrollo urbano en la zona de protección, las atribuciones que en dicha materia tienen las diversas dependencias serán ejercidas de manera concurrente y coordinada en el ámbito de su jurisdicción y competencia.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 418.
 
-La aplicación del presente apartado es competente del H. Ayuntamiento de Querétaro, a través de su Secretaría de Obras Públicas, en Coordinación con la Delegación del Centro Histórico.
+La aplicación del presente apartado es competente (sic) el H. Ayuntamiento de Querétaro, a través de su Secretaría de Obras Públicas Municipales, en Coordinación con la Delegación del Centro Histórico.
 
 ###### ARTICULO 419.
 
@@ -3903,7 +4051,9 @@ La zona de protección de patrimonio cultural, quedará sujeta a reglamentación
 
 I. Regulación de la utilización del suelo:
 
-a) La Secretaría de Gobierno Municipal, apoyará en los dictámenes técnicos de la Dirección de Obras Públicas y la Comisión de Planeación Urbana, como requisitos previos al trámite de licencias y giros nuevos y refrendos;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+a) La Secretaría General de Gobierno Municipal, apoyará en los dictámenes técnicos de la Dirección de Obras Públicas y la Comisión de Planeación Urbana, como requisitos previos al trámite de licencias y giros nuevos y refrendos;
 
 II. Regulación de la edificación:
 
@@ -4885,7 +5035,9 @@ I. Tiene por objeto unificar los criterios utilizados en el diseño de proyectos
 
 II. La reglamentación contenida es aplicable a los Particulares, los Gobiernos Federal, Estatal y Municipal, así como a los Organismos Descentralizados que realicen mejoras, ampliaciones y nuevas obras en los Sistemas de Alumbrado en áreas públicas, vialidades y exteriores de Templos y Monumentos Históricos, Fuentes, etc., dentro del territorio Municipal.
 
-III. El ciudadano tiene derecho a un servicio oportuno de calidad y excelencia brindado por el Departamento de Alumbrado Público de la Secretaría de Servicios Municipales, para lo cual se procederá en la forma siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+III. El ciudadano tiene derecho a un servicio oportuno, de calidad y excelencia brindado por el Departamento de Alumbrado Público de la Secretaría de Servicios Públicos Municipales, para lo cual se procederá en la forma siguiente:
 
 a) El lapso de tiempo que mediará en la reparación de fallas no excederá de veinticuatro horas entre la demanda ciudadana y la respuesta correspondiente.
 
@@ -4911,51 +5063,91 @@ Los materiales y equipos estarán provistos de una etiqueta de datos, que permit
 
 El nivel de iluminación y de luminancia requerido en una Vía Pública se debe, seleccionar de acuerdo a la clasificación de la misma.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 547.
 
-Compete a la Autoridad Municipal a través de la Jefatura del Departamento de Alumbrado Público de la Secretaría de Servicios Municipales, la administración, conservación mantenimiento y vigilancia del servicio de alumbrado público, por lo que son atribuciones y obligaciones del Titular del Departamento de Alumbrado Público, las siguientes:
+Compete a la autoridad municipal, a través de la Jefatura del Departamento de Alumbrado Público de la Secretaría de Servicios Públicos Municipales, la administración, conservación, mantenimiento y vigilancia del servicio de alumbrado público, por lo que son atribuciones y obligaciones del titular del Departamento de Alumbrado Público las siguientes:
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
 
 I. Coordinar los trabajos con otras Dependencias o Instituciones, cuando se afecten o involucren las instalaciones de Alumbrado Público,
 
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
+
 II. Documentar las modificaciones y/o ampliaciones de las instalaciones cuando éstas se realicen.
 
-III. Rendir los peritajes y avalúos de los daños a las instalaciones de Alumbrado Público y se hará efectivo el cobro a través de la Dirección Jurídica y la Tesorería Municipal, conforme a lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+III. Rendir los peritajes y avalúos de los daños a las instalaciones de alumbrado público y se hará efectivo el cobro a través de la Dirección General Jurídica y Secretaría de Economía y Finanzas y Tesorería Municipal, conforme a lo siguiente:
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
 
 a) El monto del avalúo cubrirá el importe de la reparación del daño y las maniobras.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
+
 b) El daño será subsanado con el importe del pago de la reparación en un término de 30 días posteriores al suceso.
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
 
 IV. Realizar la contratación de Servicios de Energía Eléctrica, a nombre del Ayuntamiento.
 
 Las cargas admisibles en las instalaciones de Alumbrado Público serán aquellas cuya Tarifa corresponda a la señalada en la tarifa 5A indicada en el MANUAL DE PROCEDIMIENTOS exclusivamente.
 
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
+
 V. Será responsable de cumplir y hacer cumplir las disposiciones del presente Apartado y del MANUAL DE PROCEDIMIENTOS.
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
 
 VI. Realizar eficientemente la operación, conservación y mantenimiento de las instalaciones, y queda estrictamente prohibido intervenir en las instalaciones propiedad del Municipio, a personal ajeno al H. Ayuntamiento de Querétaro salvo en los casos en que exista convenios de colaboración en la prestación del servicio o concesión a favor de particulares.
 
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
+
 VII. Asignar y proporcionar a los constructores de obras de iluminación de los espacios públicos previstos en el artículo 544 del presente ordenamiento y conforme (sic) establecido en el MANUAL DE PROCEDIMIENTOS.
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
 
 VIII. Tener permanentemente vigente la carga total instalada del Municipio a través de la actualización del censo de Alumbrado Público; el servicio en su totalidad estará medido, y registrado el consumo mensualmente, para confrontarlo con la facturación que realice la Compañía Suministradora de la Energía Eléctrica en las agencias correspondientes: la Agencia Querétaro Centro, Sur, Norte, el Pueblito y Santa Rosa; con el fin de lograr la equidad entre consumo e importe.
 
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
+
 XI (sic). Promover el empleo de equipos de alta eficiencia, el apagado parcial o total según el caso específico de los circuitos donde sea posible.
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
 
 X. Realizar el retiro y/o redistribución de equipos existentes que por su localización generen niveles de iluminación excesiva, previamente será realizado un estudio luminotécnico y se hará del conocimiento de los vecinos del lugar.
 
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
+
 XI. Realizará reposición y/o instalación de equipos nuevos que sean necesarios en zonas de calles o áreas que presenten penumbras u obscuridad absoluta.
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
 
 XII. Verificará la instalación de medidores en los centros de control de cada uno de los circuitos de todas las Delegaciones, que carezcan del equipo.
 
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
+
 XIII. En la construcción de nuevas obras de Alumbrado Público (Vialidades, Fraccionamientos, Condominios Horizontales y Verticales, Colonias Populares, Comunidades, Ejidos, Templos, Monumentos, etc.) Se exigirá el empleo de equipos de alta eficiencia; luminarias, balastros, lámparas, etc., Que nos permitan reducir el consumo sin afectar la calidad del servicio, respetando las Normas Nacionales Vigentes; además de que se evitará el uso de luminarias incandescentes, fluorescentes, de vapor de mercurio y de aditivos metálicos para vialidades; siendo utilizados exclusivamente en Templos, Monumentos y Alumbrado decorativo.
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
 
 XIV. Con la participación de la Sociedad y todas las áreas del Gobierno Municipal, habrá inspección escrupulosa a fin de que los equipos de alumbrado operen eficientemente.
 
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
+
 XV. Las fotoceldas de control indistintamente de la marca, estarán firmemente instalados y orientados hacia el norte geográfico como lo indican las instrucciones del fabricante.
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
 
 XVI. Ordinariamente serán realizados monitoreos de los parámetros eléctricos de los circuitos distribuidos en el municipio de Querétaro, para verificar la calidad de la energía y las mediciones registradas en los equipos de la Compañía Suministradora de la Energía Eléctrica.
 
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
+
 XVII. Las instalaciones deberán conservarse a lo largo de su vida útil de acuerdo a las consideraciones y características de los materiales indicados en el proyecto que sirvió de base para su ejecución, de tal manera que tanto estética como técnicamente operen en las condiciones más ventajosas.
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1997)</small>
 
 XVIII. Periódicamente serán realizadas auditorías a las Areas de Alumbrado distribuidas en el Municipio, para verificar avances, resultados, eficiencia, administración de recursos humanos y materiales.
 
@@ -4973,9 +5165,13 @@ La prestación del Servicio y los requisitos que deberán prever las nuevas obra
 
 Para la elaboración de los proyectos ejecutivos serán tomados en cuenta todas las especificaciones descritas en el MANUAL DE PROCEDIMIENTOS.
 
-La autorización de proyectos ejecutivos será otorgada por la Secretaría de Servicios a través del Departamento de Alumbrado Público, conforme a lo siguiente:
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-Al término de la obra, se deberá contar con una Constancia de Cumplimiento de Norma expedida por Unidad de Verificación con Registro Vigente en la Entidad y reconocido por Autoridades Municipales. Este documento certificará la ejecución y calidad de las instalaciones con apego estricto a los materiales indicados en el Proyecto Ejecutivo autorizado; en donde intervendrán representantes de la Secretaría de Servicios -Alumbrado Público, Obras Públicas Municipales, la Dirección Jurídica, el Constructor, la Unidad de Verificación y la Junta de Vecinos Beneficiados o Asociación de Colonos cuando existan.
+La autorización de Proyectos Ejecutivos será otorgada por la Secretaría de Servicios Públicos Municipales a través del Departamento de Alumbrado Público conforme a lo siguiente:
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+Al término de las obras, se deberá contar con una Constancia de Cumplimiento de Norma expedida por Unidad de Verificación con Registro vigente en la entidad y reconocida por autoridades municipales. Este documento certificará la ejecución y calidad de las instalaciones con apego estricto a los materiales indicados en el Proyecto Ejecutivo autorizado, en donde intervendrán representantes de la Secretaría de Servicios Públicos Municipales, Alumbrado Público, Obras Públicas Municipales, la Dirección General Jurídica, el Constructor, la Unidad de Verificación y la Junta de Vecinos beneficiados o Asociación de Colonos cuando existan.
 
 Para Recepción de las Obras de Alumbrado Público deberán tenerse en cuenta:
 
@@ -5109,7 +5305,9 @@ Se prohíbe a los locatarios:
 
 I. Traspasar la licencia o permiso de funcionamiento de su local;
 
-II. Cambiar el giro comercial sin previo acuerdo y autorización de la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+II. Cambiar el giro comercial sin previo acuerdo y autorización de la Secretaría de Economía y Finanzas y Tesorería Municipal;
 
 III. Expender bebidas alcohólicas, vender o poseer material flamable o explosivos en el interior del mercado;
 
@@ -5141,9 +5339,11 @@ El rastro existente y los que en el futuro se construyan, en el Municipio de Que
 
 La prestación del servicio estará a cargo del Ayuntamiento a través de la Secretaría correspondiente, siendo el presente apartado la norma que fija las actividades de administración, funcionamiento y explotación de este servicio público.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 566.
 
-Compete al Regidor del ramo y por conducto de la Tesorería Municipal, la vigilancia y supervisión del servicio, incluidos los rastros subsidiarios y conexos que habiendo cumplido los requisitos de ley tengan ese carácter.
+Compete al regidor del ramo y por conducto de la Secretaría de Economía y Finanzas y Tesorería Municipal, la vigilancia y supervisión del servicio, incluidos los rastros subsidiarios y conexos que habiendo cumplido los requisitos de ley tengan ese carácter.
 
 ###### ARTICULO 567.
 
@@ -5183,9 +5383,11 @@ X. HORNOS CREMATORIOS.- Sitios cuya finalidad es la cremación de carnes y esqui
 
 El Ayuntamiento, por medio de la Secretaría del mismo y previo el cumplimiento de los requisitos legales de este apartado y de las demás leyes complementarias, expedirá la autorización correspondiente a los usuarios del rastro.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 569.
 
-La administración del rastro estará a cargo de un administrador que será nombrado y removido por el Presidente Municipal, y tendrá a su cargo el personal de apoyo que garantice la buena prestación de los servicios, cuyo cobro estará a cargo de la Tesorería Municipal.
+La administración del rastro estará a cargo de un administrador que será nombrado y removido por el Presidente Municipal, y tendrá a su cargo el personal de apoyo que garantice la buena prestación de los servicios, cuyo cobro estará a cargo de la Secretaría de Economía y Finanzas y Tesorería Municipal.
 
 ###### ARTICULO 570.
 
@@ -5197,9 +5399,11 @@ El Ayuntamiento vigilará coordinadamente con las autoridades sanitarias, que se
 
 Son usuarios del rastro municipal aquellas personas físicas o morales que realizan actividades de comercio de animales y productos del mar para consumo humano, y que cumpliendo los requisitos de este apartado y demás disposiciones afines, adquieren la categoría de permanentes o temporales, con la autorización del Municipio.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 572.
 
-Para obtener la licencia de acreditación como usuario del rastro municipal, se deberá presentar en el departamento correspondiente de la Tesorería Municipal: solicitud, anexando documentos de identificación, domicilio, actividad o asiento de su (s) negocio (s), autorización sanitaria, o tarjeta de salud y 2 fotografías tamaño credencial y demás requisitos que se soliciten.
+Para obtener la licencia de acreditación como usuario del rastro municipal, se deberá presentar en el departamento correspondiente de la Secretaría de Economía y Finanzas y Tesorería Municipal: solicitud, anexando documentos de identificación, domicilio, actividad o asiento de su (s) negocio (s), autorización sanitaria, o tarjeta de salud y 2 fotografías tamaño credencial y demás requisitos que se soliciten.
 
 ###### ARTICULO 573.
 
@@ -5209,11 +5413,15 @@ I. Registrar debidamente su ganado en la caseta de vigilancia mostrando document
 
 II. Acreditar su condición y someterse a la revisión de vehículos de transporte;
 
-III. Los trámites podrán ser realizados personalmente, por personas de su familia o dependientes laborales a través de carta poder presentando la credencial o autorización correspondiente expedida por la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+III. Los trámites podrán ser realizados personalmente, por personas de su familia o dependientes laborales a través de carta poder presentando la credencial o autorización correspondiente expedida por la Secretaría de Economía y Finanzas y Tesorería Municipal;
 
 IV. Atender al público consumidor en el horario que autorice la administración del rastro, avisando oportunamente los cambios en lugares visibles del establecimiento;
 
-V. En su caso cumplir las sanciones que se les impongan por infracciones a este apartado y demás leyes aplicables, ante la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+V. En su caso cumplir las sanciones que se les impongan por infracciones a este apartado y demás leyes aplicables, ante la Secretaría de Economía y Finanzas y Tesorería Municipal;
 
 VI. Permitir las visitas de inspección que practiquen el Ayuntamiento, Secretaría de Comercio y Secretaría de Salud; y
 
@@ -5243,7 +5451,9 @@ IX. Vender canales y vísceras fuera de los lugares y horarios autorizados;
 
 X. Abandonar canales en las cámaras de refrigeración por más de 72 horas; pasado el término la administración procederá a su venta o incineración según proceda. El producto de la venta será a beneficio del municipio; y
 
-XI. Hacer algún depósito en las cámaras de refrigeración sin autorización de la administración; cuando un usuario no sacrifique a sus animales en los plazos establecidos, el rastro los conservará por cinco días máximo, procurando su alimentación y cuidado que se cobrará en su oportunidad; pasado este período el rastro sacrificará a los animales y del producto de su venta será pagada la manutención y cuidado, devolviendo el excedente a su propietario, quien además se hará acreedor a una sanción administrativa del 5% del valor total de los productos, siendo la Tesorería Municipal la que haga el cobro correspondiente.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+XI. Hacer algún depósito en las cámaras de refrigeración sin autorización de la administración; cuando un usuario no sacrifique a sus animales en los plazos establecidos, el rastro los conservará por cinco días máximo, procurando su alimentación y cuidado que se cobrará en su oportunidad; pasado este período el rastro sacrificará a los animales y del producto de su venta será pagada la manutención y cuidado, devolviendo el excedente a su propietario, quien además se hará acreedor a una sanción administrativa del 5% del valor total de los productos, siendo la Secretaría de Economía y Finanzas y Tesorería Municipal la que haga el cobro correspondiente.
 
 ### CAPITULO V. Del Sacrificio de los Animales
 
@@ -5267,13 +5477,19 @@ VII. Impedir que se altere el orden en el interior y en los aledaños del rastro
 
 VIII. Informar a sus superiores de las actividades desarrolladas periódicamente dentro del rastro municipal, así como de las violaciones que se cometan en contra de las leyes reglamentarias;
 
-IX. Reportar mensualmente a la Tesorería Municipal el volumen de esquilmos y desperdicios, así como el producto de su venta o aprovechamiento;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-X. En el caso de que un usuario incurra en alteraciones a los precios oficiales, procederá a decomisar el o los productos en coordinación con la Secretaría de Comercio, y la Tesorería Municipal;
+IX. Reportar mensualmente a la Secretaría de Economía y Finanzas y Tesorería Municipal el volumen de esquilmos y desperdicios, así como el producto de su venta o aprovechamiento;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+X. En el caso de que un usuario incurra en alteraciones a los precios oficiales, procederá a decomisar el o los productos en coordinación con la Secretaría de Comercio y la Secretaría de Economía y Finanzas y Tesorería Municipal;
 
 XI. Establecer mecanismos para que el abasto de carne y demás productos destinados al consumo humano sea eficiente, efectivo, ágil y expedito;
 
-XII. Proponer al Presidente Municipal, para su trámite y aprobación los contratos de suministro de pastura para alimentación de los animales que permanezcan en los corrales del rastro, debiendo cubrirse los derechos u otras erogaciones con ese motivo a la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+XII. Proponer al Presidente Municipal, para su trámite y aprobación los contratos de suministro de pastura para alimentación de los animales que permanezcan en los corrales del rastro, debiendo cubrirse los derechos u otras erogaciones con ese motivo a la Secretaría de Economía y Finanzas y Tesorería Municipal;
 
 XIII. Vigilar que el servicio sanitario selle la carne para su venta y distribución una vez que se hayan cumplido los requisitos;
 
@@ -5307,9 +5523,11 @@ El horario para el recibo de manifestaciones de matanza, será fijado por la adm
 
 En las solicitudes se deberá expresar el número y especie de animales que se desea sacrificar, la administración formulará un listado que contenga nombre del usuario, número y especie de animales manifestados, así como fecha y hora en que deba realizarse el sacrificio.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 579.
 
-Los propietarios o introductores de animales pagarán diariamente a la caja de la Tesorería Municipal establecida en el rastro, los impuestos y aportaciones con motivo de los servicios solicitados, incluido el peso en las básculas instaladas para tal fin.
+Los propietarios o introductores de animales pagarán diariamente a la caja de la Secretaría de Economía y Finanzas y Tesorería Municipal establecida en el rastro, los impuestos y aportaciones con motivo de los servicios solicitados, incluido el peso en las básculas instaladas para tal fin.
 
 ###### ARTICULO 580.
 
@@ -5375,9 +5593,11 @@ Al igual que en el sacrificio de ganado, la administración del rastro, se reser
 
 (DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 594.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
+Queda estrictamente prohibida la matanza de ganado (hembra) que se encuentren preñadas; el usuario que no respete esta disposición será sancionado con una multa que le imponga la Secretaría de Economía y Finanzas y Tesorería Municipal y hasta la cancelación de su licencia.
 
 ### CAPITULO IX. Del Transporte Sanitario de Carnes
 
@@ -5385,9 +5605,11 @@ Al igual que en el sacrificio de ganado, la administración del rastro, se reser
 
 Concluida la inspección sanitaria, las canales y vísceras se pondrán a disposición de sus propietarios para venta al público.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 596.
 
-El mercado de canales y vísceras deberá contar con perchas y anaqueles necesarios para exhibición; además tratándose de vísceras, con las mesas adecuadas, teniendo la administración las facultades que le otorga este apartado para el alquiler de las mismas, previo pago en la caja de la Tesorería Municipal ubicada en el rastro.
+El mercado de canales y vísceras deberá contar con perchas y anaqueles necesarios para exhibición; además tratándose de vísceras, con las mesas adecuadas, teniendo la administración las facultades que le otorga este apartado para el alquiler de las mismas, previo pago en la caja de la Secretaría de Economía y Finanzas y Tesorería Municipal ubicada en el rastro.
 
 ###### ARTICULO 597.
 
@@ -5785,9 +6007,11 @@ II. Se abrirá la fosa impregnando el lugar de una emulsión acuosa de criolina 
 
 III. Descubierta la fosa o cripta y levantadas las lozas, se perforarán dos orificios en el ataúd, uno en cada extremo, inyectando en uno, cloro naciente para que escape el gas por el otro; después se procederá a la apertura del ataúd, haciendo circular cloro naciente y quienes deban asistir estarán provistos de equipo de seguridad e higiene necesario.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 669.
 
-Si al efectuarse una exhumación por tiempo cumplido, se encuentra todavía el cuerpo en estado de descomposición, no se llevará a cabo aquélla, volviéndose a cubrir la fosa o cripta, dando aviso el administrador del panteón, al Oficial del Registro Civil, para el refrendo correspondiente, cubriendo los familiares para el efecto los derechos en la Tesorería Municipal.
+Si al efectuarse una exhumación por tiempo cumplido, se encuentra todavía el cuerpo en estado de descomposición, no se llevará a cabo aquella, volviéndose a cubrir la fosa o cripta, dando aviso el administrador del panteón, al Oficial del Registro Civil, para el refrendo correspondiente, cubriendo los familiares para el efecto los derechos en la Secretaría de Economía y Finanzas y Tesorería Municipal.
 
 ### CAPITULO VII. Panteón de los Queretanos Ilustres
 
@@ -7427,23 +7651,25 @@ VI. Reconocimiento por el desempeño en investigaciones técnicas y de medicina 
 
 VII. Ingreso en el salón de la fama.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE EL APARTADO OCTAVO NO FUE EXPRESAMENTE ADICIONADO POR EL LEGISLADOR EN SU ACUERDO DE REFORMAS, SIN EMBARGO, SE DESPRENDE CON LA ADICION DE LOS ARTICULOS QUE LO INTEGRAN.</small>
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 APARTADO OCTAVO
 
-DEL INSTITUTO MUNICIPAL DE LA MUJER
+DEL INSTITUTO MUNICIPAL DE EQUIDAD DE GENERO
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-ARTICULO 908 bis.- El Instituto Municipal de la Mujer, es un órgano desconcentrado de la Administración Municipal, que tendrá como objeto poner en marcha una política que promueva la participación plena y efectiva de la mujer en la vida económica, social, política y cultural del Municipio, lo que debe contribuir a consolidar las condiciones para que tome parte en las decisiones, responsabilidades y beneficios del desarrollo en igualdad de condiciones con el varón.
+ARTICULO 908 bis.- El Instituto Municipal de Equidad de Género, es un órgano desconcentrado de la Administración Pública Centralizada Municipal, adscrito a la Secretaría de Desarrollo Social, que tendrá como objeto promover, fomentar y diseñar una política municipal de equidad de género, que en el ámbito educativo, profesional y social, brinde equidad a la participación de hombres y mujeres, a través de un compromiso social de tolerancia, reconocimiento de diferencias e igualdad de oportunidades.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-ARTICULO 908 bis 1.- La acción del Instituto Municipal de la Mujer se conforma por:
+ARTICULO 908 bis 1.- La acción del Instituto Municipal de Equidad de Género se conforma por:
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 1997)</small>
 
 I. Un Consejo Directivo
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 1997)</small>
 
 II. Una Dirección.
 
@@ -7455,9 +7681,9 @@ ARTICULO 908 bis 2.- Las integrantes del Consejo Directivo serán designadas por
 
 ARTICULO 908 bis 3.- La Dirección del Instituto será electa por mayoría del Consejo Directivo. La persona en quien recaiga dicho nombramiento recibirá la denominación de Secretario Técnico, especificándose en el Manual de Organización y Operación Interna las atribuciones de la Dirección.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-ARTICULO 908 bis 4.- El funcionamiento, organización y administración del Instituto Municipal de la Mujer, se regirá por su Manual de Organización y Operación Interna, previa aprobación del mismo por el H. Cabildo del Municipio.
+ARTICULO 908 bis 4.- El funcionamiento y Administración del Instituto Municipal de Equidad de Género, se regirá por el Manual de Organización y Operación Interna, previa aprobación del H. Ayuntamiento.
 
 # LIBRO QUINTO. DE LAS SANCIONES Y LOS RECURSOS ADMINISTRATIVOS
 
@@ -7469,9 +7695,11 @@ DISPOSICIONES GENERALES
 
 Las disposiciones legales que contiene el presente Código Municipal, son de observancia general e interés público, por lo que su inobservancia motivará ser sancionada por la autoridad municipal competente.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 910.
 
-De conformidad con lo establecido en la Ley Orgánica Municipal, podrán las partes interesadas impugnar los actos de autoridad y de funcionarios públicos municipales, mediante la interposición de los recursos administrativos que contempla este libro quinto.
+De conformidad con lo establecido en el título sexto de la Ley de Procedimientos Administrativos para el Estado y Municipios, podrán las partes interesadas impugnar los actos de autoridad y de funcionarios públicos municipales, mediante la interposición del recurso de revisión, siendo optativo agotarlo o acudir a la vía jurisdiccional contenciosa administrativa.
 
 ###### ARTICULO 911.
 
@@ -7491,9 +7719,11 @@ APARTADO SEGUNDO
 
 DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 914.
 
-Las sanciones por violaciones a las disposiciones de este código, serán aplicadas por el Presidente Municipal, quien podrá delegar esta función en el Tesorero Municipal, el Regidor del ramo o la autoridad competente según el caso.
+Las sanciones por violaciones a las disposiciones de este código, serán aplicadas por el Presidente Municipal, quien podrá delegar esta función en el Secretario de Economía y Finanzas y Tesorero Municipal, el Regidor del ramo o la autoridad competente según el caso.
 
 ###### ARTICULO 915.
 
@@ -7857,9 +8087,11 @@ I. Por tratarse de obras de arte arquitectura colonial y contemporánea se aplic
 
 II. Al que pinte, raye, pegue publicidad comercial o de cualquier otra índole, ensucie o maltrate cualquier elemento arquitectónico en parques, jardines, plazas y monumentos, se le impondrán sanciones de veinte a ciento setenta y cinco días de salario mínimo sin quedar exentos de responsabilidad penal, según lo marquen las leyes en cuanto a daños en bienes culturales y de la nación; y además al costo de la reparación total del daño causado.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 965.
 
-La Secretaría de Servicios Municipales, a través del Departamento de Parques y Jardines será la dependencia facultada para cuantificar las multas y sanciones a los que se refiere este capítulo. En los casos de la fracción I del artículo anterior y para efectos de reparación del daño causado a obras de arte de arquitectura colonial o contemporánea, la autoridad municipal deberá solicitar la intervención del I.N.A.H. para su cuantificación.
+La Secretaría de Servicios Públicos Municipales, a través del Departamento de Parques y Jardines será la dependencia facultada para cuantificar las multas y sanciones a los que se refiere este capítulo. En los casos de la fracción I del artículo anterior y para efectos de reparación del daño causado a obras de arte de arquitectura colonial o contemporánea, la autoridad municipal deberá solicitar la intervención del I.N.A.H. para su cuantificación.
 
 ### CAPITULO XIII. Del Alumbrado Público
 
@@ -7897,13 +8129,19 @@ b) La condición socioeconómica del infractor.
 
 c) Las sanciones podrán ser de carácter técnico y/o económicas, según los amerite el caso.
 
-El proceso de ejecución de sanciones será por medio de un escrito dirigido al Jurídico, en donde se indicarán causas y montos; y los infractores cubrirán los importes en la caja de la Tesorería.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+El proceso de ejecución de sanciones será por medio de un escrito dirigido a la Dirección General Jurídica, en donde se indicarán las causas y montos y los infractores cubrirán los importes en la caja de la Secretaría de Economía y Finanzas y Tesorería Municipal.
 
 Será aceptable por parte del Ayuntamiento la contribución de fuentes luminosas de anuncios, canchas, etc., salvo en los casos en que afecten la imagen urbana o la Preservación del Patrimonio Histórico, contravengan disposiciones en materia de Desarrollo Urbano o se Provoque Perturbación y/o deslumbramiento a los transeúntes y conductores que circulen por las vialidades.
 
-El Departamento de Alumbrado Público exhortará por escrito a los propietarios o responsables para que corrijan la anomalía en un plazo de 30 días. De no actar (sic) la disposición se procederá a través de requerimiento y/o clausura temporal por conducto del Jurídico y la Tesorería hasta lograr subsanar la causa del problema.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-Cuando se elaboren convenios o una vez pasado, sean establecidos compromisos posteriores a su vencimiento entre el Gobierno Municipal y Particulares y éstos no se cumplan en el término de 30 días, se procederá a través del Jurídico y la Tesorería con la notificación de embargo, para recuperar el monto de lo establecido en el convenio o compromiso de la obra, acción misma que será realizada por el propio personal del Municipio o de un tercero.
+El Departamento de Alumbrado Público exhortará por escrito a los propietarios o responsables para que corrijan la anomalía en un plazo de 30 días. De no acatar la disposición se procederá a través de requerimiento y/o clausura temporal por conducto de la Dirección General Jurídica y la Secretaría de Economía y Finanzas y Tesorería Municipal hasta lograr subsanar la causa del problema.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
+Cuando se elaboren convenios o una vez pasado, sean establecidos compromisos posteriores a su vencimiento entre el Gobierno Municipal y particulares, y éstos no se cumplan en el término de 30 días, se procederá a notificar por escrito al titular o representante legal de la empresa, de no haber respuesta se procederá a través de la Dirección General Jurídica y la Secretaría de Economía y Finanzas y Tesorería Municipal con la notificación de embargo, para recuperar el monto de lo establecido en el convenio o compromiso de la obra, acción misma que será realizada por el propio personal del Municipio o de un tercero.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
 
@@ -7937,9 +8175,9 @@ Cuando se incurra en los supuestos previstos en las Fracciones II, III, IV, V y 
 
 La sanción a que se refiere el artículo anterior se aplicará independientemente de la responsabilidad civil o penal en que pudiere incurrir el individuo.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-ARTICULO 973 bis.- Contra la imposición de las sanciones descritas en el artículo anterior, son procedentes los Recursos Administrativos de Reconsideración y Revisión en los términos dispuestos por los artículos 995, 996, 997, 998, 999 y 1000 del Apartado Tercero del Libro Quinto del presente Código.
+ARTICULO 973 bis.- Contra la imposición de las sanciones descritas en el artículo anterior, son procedentes los medios de impugnación previstos en el título sexto de la Ley de Procedimientos Administrativos para el Estado y Municipios.
 
 ### CAPITULO XV. Del Rastro Municipal
 
@@ -8015,7 +8253,7 @@ Unicamente el Presidente Municipal está facultado para sancionar al Administrad
 
 ###### ARTICULO 984.
 
-Los afectados por una medida disciplinaria, podrán interponer recurso administrativo en los términos del apartado tercero de este libro.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 985.
 
@@ -8027,15 +8265,19 @@ II. La edad, educación, ilustración, costumbres y conducta del infractor; y
 
 III. Los motivos que lo impulsaron a infringir las disposiciones vigentes y sus condiciones económicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 986.
 
-Los usuarios que se encuentren debidamente acreditados conforme a lo dispuesto por el apartado correspondiente que contravengan las disposiciones administrativas y legales, serán sancionados con multas que serán calificadas por el Tesorero o la autoridad que le corresponda conocer de la sanción cometida por el usuario.
+Los usuarios que se encuentren debidamente acreditados conforme a lo dispuesto por el apartado correspondiente que contravengan las disposiciones administrativas y legales, serán sancionados con multas que serán calificadas por el Secretario de Economía y Finanzas y Tesorero Municipal o la autoridad que le corresponda saber de la sanción cometida por el usuario.
 
 Queda a criterio del C. Presidente Municipal el revocar el permiso de los usuarios que infrinjan reiteradamente las disposiciones referentes al Rastro Municipal, facultándosele para que en tal caso, le suspenda por tiempo indefinido el permiso para operar en las instalaciones e inmediaciones del Rastro Municipal.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 987.
 
-Los usuarios podrán interponer recurso administrativo de acuerdo a lo dispuesto por el apartado tercero del presenten libro.
+Los usuarios que se consideren afectados por los actos administrativos dictados por las autoridades señaladas en el artículo anterior, podrán interponer los medios de impugnación previstos en el título sexto de la Ley de Procedimientos Administrativos para el Estado y Municipios.
 
 ### CAPITULO XVII. Del Sistema Municipal del Deporte y la Recreación
 
@@ -8081,11 +8323,15 @@ En los casos de reincidencia, se duplicará la última multa impuesta, sin que s
 
 Se entiende como reincidencia, cada una se las subsecuentes infracciones de especie semejante, cometidas dentro de los dos años siguientes a la fecha del acta en que se hizo constar la infracción precedente.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 992.
 
-El afectado podrá interponer recurso administrativo en caso de inconformidad por la infracción interpuesta, de acuerdo al procedimiento que para tal efecto prevé el apartado tercero del presente libro.
+Los afectados por la imposición de alguna de las sanciones previstas en el presente capítulo, podrán interponer los medios de impugnación señalados en el título sexto de la Ley de Procedimientos Administrativos para el Estado y Municipios.
 
 ### CAPITULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 993.
 
@@ -8115,129 +8361,75 @@ DE LOS RECURSOS ADMINISTRATIVOS
 
 ###### ARTICULO 995.
 
-La tramitación de Recursos Administrativos que establece el artículo 156 de la Ley Orgánica Municipal, procederá en los términos de este ordenamiento legal, o en su caso, de las disposiciones que para tal efecto establezcan las demás leyes aplicables en la materia del acto impugnado.
+Los particulares que se consideren afectados por los actos administrativos dictados por las autoridades a que se refiere el presente Código, que pongan fin a un procedimiento o instancia, podrán interponer recurso de revisión en términos del título sexto de la Ley de Procedimientos Administrativos para el Estado y Municipios, siendo optativo agotarlo o bien, acudir a la vía jurisdiccional contenciosa administrativa.
+
+Por lo que se refiere a los trámites relacionados a la sustanciación del recurso de revisión a que se refiere este artículo, los particulares y autoridades municipales, sujetarán sus actuaciones a las disposiciones contenidas en la Ley de Procedimientos Administrativos para el Estado y Municipios.
 
 ###### ARTICULO 996.
 
-Los Recursos Administrativos procedentes contra los actos del Presidente u otras autoridades municipales, son:
-
-a) Recurso de Reconsideración; y
-
-b) Recurso de Revisión.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 997.
 
-El Recurso de Reconsideración, procede contra aquellos actos emitidos por el Presidente u otras autoridades municipales, y que afecten algún interés directo de la persona física o moral que lo interponga.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 998.
 
-El Recurso de Revisión, procede contra la resolución dictada con motivo del Recurso de Reconsideración.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 999.
 
-El Recurso de Reconsideración, procederá contra los actos de autoridad siguientes:
-
-I. Los que determinen la existencia de una obligación fiscal, ya sea que la fijen en cantidad líquida o den las bases para su liquidación;
-
-II. Las que nieguen la devolución de un ingreso de los regulados por la Ley de Hacienda de los Municipios, indebidamente percibido por el Municipio de Querétaro;
-
-III. Los que impongan multas por infracción a las normas administrativas de carácter municipal y resultaren, a criterio del agraviado, improcedentes;
-
-IV. Los que causen agravio en materia fiscal, distinto al que se refieren las fracciones anteriores;
-
-V. Los que determinen la clausura de las negociaciones;
-
-VI. Los que determinen la desocupación de áreas o bienes del dominio municipal;
-
-VII. Los que determinen la suspensión o la clausura de las obras;
-
-VIII. Los que construyan créditos por responsabilidad contra servidores públicos, así como en contra de los particulares involucrados en dichas responsabilidades;
-
-IX. Los relativos a la responsabilidad civil extracontractual, reclamada al Municipio de Querétaro;
-
-X. Cuando concurra alguna de las circunstancias que contempla el artículo 157 de la Ley Orgánica Municipal; y
-
-XI. Los que siendo diversos de las anteriores dicten autoridades del Municipio de Querétaro en perjuicio de los particulares, o bien se contemplen en otros ordenamientos legales, como materia de Recurso Administrativo de competencia municipal.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 1000.
 
-La interposición del recurso será optativa para el interesado, antes de acudir ante el Tribunal de lo Contencioso Administrativo del Gobierno del Estado de Querétaro.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ### CAPITULO III. De las Notificaciones
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 1001.
 
-El recurso se interpondrá dentro de los diez días hábiles siguientes, contados a partir de la fecha de notificación del acto que se impugne.
-
-La presentación del recurso se hará por triplicado ante la autoridad municipal correspondiente, teniéndose como fecha de presentación aquella que se contenga en la constancia de recibo.
-
-Si el recurso se interpusiese extemporáneamente, será desechado de plano. Si la extemporaneidad se comprobare en el curso del procedimiento, se sobreseerá.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 1002.
 
-El escrito de recurso interpuesto deberá contener lo siguiente:
-
-I. Autoridad ante quien se promueve;
-
-II. Nombre del recurrente o representante legal, en cuyo caso, deberá acreditar dicha personalidad;
-
-III. Domicilio para recibir notificaciones;
-
-IV. Describir claramente el acto impugnado;
-
-V. Narración de hechos y consideraciones de derecho en que base el recurso interpuesto;
-
-VI. Señalar y anexar copia simple de los documentos en que funde su derecho y acredite el interés jurídico;
-
-VII. Las pruebas necesarias y relacionadas con el recurso de que se trate;
-
-VIII. Señalar en forma breve y clara, los puntos petitorios; y
-
-IX. Firma del recurrente o representante legal.
-
-Para efecto de la fracción VI de este artículo, el agraviado deberá presentar en el momento que se le solicite, de ser necesario, el original del documento en cuestión.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 1003.
 
-De no cumplir con cualquiera de los requisitos señalados en el artículo anterior, se le apercibirá al recurrente para que en un término no mayor de tres días hábiles a partir del de apercibimiento, subsane o cumpla con los requerimientos previstos, de lo contrario se desechará de plano el recurso interpuesto.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 1004.
 
-Cuando el recurrente ignore la autoridad ante quien habrá de presentar su recurso de reconsideración, éste lo podrá dirigir al “H. Ayuntamiento de Querétaro”, para que a su vez se le envíe a la Dirección Jurídica del Municipio para que en coordinación con la autoridad que estime competente, emita la resolución respectiva.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 1005.
 
-Los términos que tiene la autoridad municipal competente para resolver el Recurso de Reconsideración y de Revisión que procedan, será:
-
-a) Reconsideración: Diez días hábiles.
-
-b) Revisión: Quince días hábiles.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 1006.
 
-Los recursos se tendrán por no interpuestos cuando concurra lo dispuesto por cualquiera de los enunciados en el artículo 158 de la Ley Orgánica Municipal.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 1007.
 
-El Recurso de Revisión, habrá de presentarse en los términos de los artículos 1001 y 1002 de este código, ante el H. Ayuntamiento de Querétaro, cuya resolución habrá de ir firmada por el Síndico Municipal y el Director Jurídico del Municipio.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ### CAPITULO IV. De la Improcedencia
 
 ###### ARTICULO 1008.
 
-Las notificaciones que para efectos de procedimiento haya que hacerle al recurrente, se harán en el domicilio que éste haya señalado, de acuerdo a la fracción III del artículo 1002 de este código.
+Las notificaciones que para efectos de procedimiento haya que hacerle al recurrente, se realizarán de conformidad con las disposiciones establecidas en la Ley de Procedimientos Administrativos para el Estado y Municipios.
 
 ###### ARTICULO 1009.
 
-Si el recurrente ya no residiera en el domicilio señalado para oír notificaciones en el momento de efectuar la misma, ésta se podrá hacer por edicto, en los términos del Código de Procedimientos Civiles vigente en el Estado, o en su defecto, por cédula colocada en lugar visible de las oficinas que ocupa el H. Ayuntamiento o la autoridad responsable.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 1010.
 
-Las notificaciones surtirán sus efectos al día hábil siguiente al en que se realicen.
-
-Los términos fijados en los acuerdos o resoluciones comenzarán a correr el día siguiente de la fecha en que aquél surta efectos.
-
-Para el cómputo de los términos a que se refiere este Reglamento, se considerarán días hábiles todos aquellos en que se labore y se dé atención al público por parte de las oficinas municipales.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ### CAPITULO V. De las Pruebas
 
@@ -8251,13 +8443,17 @@ II. Que sean resoluciones dictadas en Recurso de Revisión o en cumplimiento de 
 
 III. Que hayan sido impugnados ante el Tribunal de lo Contencioso Administrativo del Estado de Querétaro;
 
-IV. Que se hayan consentido, entendiéndose por consentidos los actos contra los que no se promovió el recurso correspondiente dentro del término de ley;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
-V. Que sean conexos a otros que hayan sido impugnados por medio de algún recurso o juicio; y
+IV. Que se hayan consentido, entendiéndose por esto, los actos contra los que no se promovió ningún medio de impugnación dentro del término de ley;
+
+V. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
 
 VI. Que hayan sido revocados por la autoridad administrativa.
 
 ### CAPITULO VI. Resolución del Recurso
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 1012.
 
@@ -8271,25 +8467,29 @@ Para el soporte probatorio del recurso, se admitirán toda clase de pruebas, exc
 
 La confesión expresa del recurrente, sin que al efecto ninguna presunción legalmente fundada admita lo contrario, así como los hechos afirmados por la autoridad mediante documentos públicos, harán prueba plena.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 1015.
 
-Las pruebas podrán presentarse acompañadas al escrito interpuesto, o bien, en cualquier momento hasta antes de que la autoridad resuelva el recurso respectivo.
+Las pruebas deberán presentarse en el escrito de interposición del recurso de revisión, sujetándose en todo momento a las disposiciones aplicables de la Ley de Procedimientos Administrativos para el Estado y Municipios.
 
 ###### ARTICULO 1016.
 
-Para los efectos del artículo anterior, a criterio de la autoridad y solo a petición del recurrente, se podrá prorrogar hasta por diez días hábiles el plazo para presentar pruebas, prorrogándose en iguales términos a la autoridad, el tiempo para resolver.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 1017.
 
-La Resolución que la autoridad emita sobre el recurso en cuestión, habrá de notificarse al recurrente en los términos de los artículos 1008 y 1009 de este ordenamiento.
+La Resolución que la autoridad emita sobre el recurso de revisión, habrá de notificarse al recurrente en los términos del artículo 1008 de este ordenamiento y disposiciones aplicables de la Ley de Procedimientos Administrativos para el Estado y Municipios.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 1018.
 
-La resolución que recaiga sobre el recurso interpuesto podrá confirmar, modificar o revocar el acto impugnado.
+La resolución que recaiga sobre el Recurso interpuesto podrá desechar, sobreseer, confirmar, declarar la nulidad del acto administrativo, revocar total o parcialmente la resolución impugnada, modificar u ordenar la rectificación o expedición de un acto administrativo.
 
 ###### ARTICULO 1019.
 
-La autoridad podrá, fundadamente sobreseer o desechar por improcedente el recurso en los casos de los artículos 1001 y 1006 de este código, respectivamente.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 1020.
 
@@ -8319,23 +8519,11 @@ XI. La firma de la autoridad competente.
 
 ###### ARTICULO 1021.
 
-La suspensión de la ejecución de la resolución que recaiga sobre cualquier recurso interpuesto, procederá solamente en los casos del artículo 166 de la Ley Orgánica Municipal.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ###### ARTICULO 1022.
 
-Los recurrentes podrán garantizar el interés fiscal y los daños indicados en la fracción IV del artículo 166 de la Ley Orgánica Municipal, en alguna de las formas siguientes:
-
-I. Depósito de dinero en la Tesorería Municipal de Querétaro;
-
-II. Prenda o hipoteca;
-
-III. Fianza otorgada por institución autorizada, o por persona física o moral de reconocida solvencia, la que no gozará de los beneficios de orden y exclusión; y
-
-IV. Embargo en la vía administrativa.
-
-La garantía deberá comprender, además de las contribuciones adecuadas, los accesorios causados a la fecha de su expedición, así como los que se causen en los doce meses siguientes a su otorgamiento, tratándose de créditos fiscales. En los demás casos la garantía deberá cubrir los posibles daños y perjuicios que se llegaren a causar a terceros o a la comunidad.
-
-En ningún caso las autoridades podrán dispensar el otorgamiento de la garantía.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
 ## TRANSITORIOS
 
@@ -8480,3 +8668,15 @@ PRIMERO. Se derogan (sic) el artículo 75 fracciones VI y VII del Código Munici
 SEGUNDO. El presente reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente ordenamiento.
+
+P.O. 1 DE OCTUBRE DE 2004.
+
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Respecto de las reformas a los artículos 910, 973 Bis, 987, 992 y 995 del Código Municipal de Querétaro, se aplicarán las disposiciones de la Ley de Procedimientos Administrativos para el Estado y Municipios.
+
+CUARTO. Los procedimientos o recursos administrativos, que se hubieren iniciado con anterioridad a la entrada en vigencia de la Ley de Procedimientos Administrativos para el Estado y Municipios, se tramitarán y resolverán conforme a las disposiciones que los originaron.
+
+QUINTO. Notifíquese a los titulares de la Secretaría General de Gobierno Municipal, Secretaría de Administración, Secretaría de Desarrollo Sustentable del Municipio de Querétaro, Secretaría de Obras Públicas Municipales, Secretaría de la Contraloría Municipal, Secretaría de Economía y Finanzas y Tesorería Municipal, Secretaría de Desarrollo Social, Secretaría de Servicios Públicos Municipales e Instituto Municipal de Equidad de Género.
