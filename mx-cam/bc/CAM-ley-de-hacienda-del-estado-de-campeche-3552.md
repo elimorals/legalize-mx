@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "1996-12-31"
+last_updated: "1997-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -1393,13 +1393,11 @@ IV.- Lonchería, Cocktelería, Taquería 28
 
 V.- Centro Recreativo y Deportivo, Casino, Club Social, otros 22
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 52-E.
 
-Por la cesión o transferencia de los derechos de las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas, se causará y pagará el mismo derecho que corresponda al otorgamiento del giro de que se trate, en relación con el artículo 52-A.
-
-La cesión o transferencia de los derechos de las licencias entre ascendientes y descendientes no causará ninguna cuota.
+La cesión o transferencia de los derechos de las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas, no causará ninguna cuota.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -1728,3 +1726,9 @@ P.O. 31 DE DICIEMBRE DE 1996.
 Primero.- El presente decreto entrará en vigor el día primero de enero de mil novecientos noventa y siete.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 11 DE JUNIO DE 1997.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
