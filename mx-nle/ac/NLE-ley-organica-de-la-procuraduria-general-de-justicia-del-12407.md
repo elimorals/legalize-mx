@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-12407"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-09-14"
-last_updated: "2002-10-30"
+last_updated: "2004-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2002.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DEL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 30 DE JULIO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial, el 14 de septiembre de 1998.
 
@@ -841,4 +843,28 @@ LIC. JOSE SANTOS GONZALEZ SUAREZ
 
 P.O. 30 DE OCTUBRE DE 2002.
 
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JULIO DE 2004.
+
+Artículo Primero.- Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León publicada en el Periódico Oficial del Estado de fecha 14 de septiembre 1998, con sus reformas y adiciones.
+
+Artículo Tercero.- Quedan vigentes todas las leyes, reglamentos y demás disposiciones legales, en cuanto no se opongan a la presente Ley.
+
+Artículo Cuarto.- Para el cumplimiento de esta Ley, el Ejecutivo podrá reorganizar la estructura de las dependencia, así como crear, fusionar, escindir o disolver las oficinas y departamentos necesarios, estando facultado para modificar y redistribuir las partidas del Presupuesto de Egresos para el presente ejercicio fiscal, sin exceder los montos autorizados.
+
+Artículo Quinto.- La Dirección de Bienes Asegurados, Recuperados e Instrumentos del Delito iniciará el ejercicio de sus funciones en un plazo de noventa días naturales, contados a partir del siguiente de la entrada en vigor de esta Ley;
+
+Artículo Sexto.-. El personal que en aplicación de esta Ley pase a otra dependencia o entidad, conservará los derechos que haya adquirido en virtud de su relación laboral con la Administración Pública Estatal
+
+Artículo Séptimo.- El cambio de alguna unidad administrativa a otra, se hará incluyendo al personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos, y en general el equipo que hayan venido usando para la atención de los asuntos que tuvieren encomendados conforme a la Ley que se abroga.
+
+Artículo Octavo.- Las unidades administrativas que se crean o modifican en virtud de la aprobación de la presente Ley, seguirán con los trámites de los asuntos relativos a su objeto y que actualmente corresponden a las autoridades que se encuentran en funciones.
+
+Para una mayor información a los gobernados y para facilitar la atención y continuidad de los asuntos que éstos hayan promovido ante la Procuraduría General de Justicia, las dependencias y entidades a que se hace referencia en el párrafo anterior, difundirán ante la ciudadanía los cambios de denominación, ubicación y funciones básicas de las nuevas dependencias o entidades aludidas.
+
+Artículo Noveno.- Cuando en esta Ley se dé una denominación nueva o distinta a alguna unidad administrativa cuyas funciones estén establecidas por otro ordenamiento jurídico, dichas atribuciones se entenderán concedidas a la unidad administrativa que determine la presente Ley y demás disposiciones relativas, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
+
+Artículo Décimo.- El Reglamento de la presente Ley deberá expedirse en un plazo no mayor a ciento veinte días naturales, contados a partir del día siguiente de su entrada en vigor.
