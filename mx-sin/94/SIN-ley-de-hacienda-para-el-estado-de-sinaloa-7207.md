@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1984-04-13"
+last_updated: "1984-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1984.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -1711,7 +1711,11 @@ Las empresas dedicadas a la compraventa de vehículos de motor usados, deberán 
 
 Son solidariamente responsables del pago de este impuesto los enajenantes y las demás personas que intervengan en las operaciones.
 
+> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE CAPITULO Y ARTICULOS QUE LO INTEGRAN, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
+
 ### CAPITULO IX. Impuesto sobre Remuneración del Trabajo Personal
+
+> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
 
 ART. 157.- Son objeto del impuesto a que se refiere este Capítulo:
 
@@ -1727,7 +1731,11 @@ IV.- Los ingresos percibidos por los miembros de las sociedades cooperativas de 
 
 V.- Los ingresos provenientes de pensiones, retiros, subsidios y rentas vitalicias que tengan su origen en cualesquiera de los conceptos comprendidos en las fracciones anteriores, siempre que su monto diario exceda 10 veces el salario mínimo general en la zona económica en que se encuentre el domicilio fiscal de la empresa o institución que lo cubra.
 
+> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
+
 ART. 158.- Los ingresos gravables comprendidos en el Artículo anterior, son los percibidos por personas domiciliadas en el territorio del Estado de Sinaloa y los percibidos por personas que tengan su domicilio fuera de ese territorio, cuando les sean pagados por empresas domiciliadas en el territorio del Estado de Sinaloa, a las que presten sus servicios, salvo que los trabajadores, en este último caso, cubran los impuestos en el lugar donde presten sus servicios.
+
+> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
 
 ART. 159.- Quedan exceptuados del pago del impuesto los siguientes ingresos:
 
@@ -1755,33 +1763,43 @@ XI.- Pagos para gastos funerarios;
 
 XII.- Las cantidades percibidas por concepto de previsión social;
 
-XIII.- Las gratificaciones de fin de año acordadas en forma general a favor de los trabajadores o empleados, cuyo monto no exceda de tres mil quinientos pesos. Tratándose de gratificaciones en exceso de la cifra citada, sólo estará afectada al pago del impuesto la cantidad excedente;
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1984)</small>
+
+XIII.- Las gratificaciones de fin de año, otorgadas en forma general a favor de los trabajadores o empleados, cuyo monto no exceda del equivalente a treinta días de salario mínimo general vigente en la zona económica de la prestación de servicios, en la fecha en que se cause el impuesto. Sólo el excedente estará afectado al pago del impuesto;
 
 XIV.- El importe del salario mínimo general.
+
+> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 1984)</small>
+
+XV.- Las demás cantidades distintas del salario, que perciban los trabajadores y empleados que estén sujetos al salario mínimo general, siempre que no excedan de los mínimo (sic) general, siempre que no excedan de los mínimos señalados por la legislación laboral, calculadas sobre la base del salario mínimo general vigente en la fecha y zona económica de que se trate; excepto el caso previsto por la fracción XIII de este Artículo.
+
+> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
 
 ART. 160.- La base de este impuesto es la totalidad de los ingresos mensuales percibidos por el contribuyente, derivados de las fuentes comprendidas en los Artículos 157 y 158.
 
 Cuando la empresa en que preste sus servicios el causante divida su ejercicio anual en cuatro períodos de cinco semanas y ocho de cuatro semanas, cada uno de esos períodos podrá ser adoptado como base del Impuesto, conforme al párrafo anterior, siempre que al período final se le agreguen los días necesarios para que los días totales coincidan con los del año natural.
 
-ART. 161.- Quienes perciban ingresos en pago de servicios prestados en períodos menores de un mes, causarán el Impuesto a que se refiere este capítulo, de acuerdo con la siguiente:
+(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1984) (N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)
 
-T A R I F A
+ART. 161.- Quienes perciban ingresos gravados en pago de servicios prestados durante períodos menores a un mes de calendario, causarán el impuesto dividiendo el importe de la percepción total entre el número de días en que se hayan devengado. Dicha percepción diaria promedio se multiplicará por el número de días del mes de que se trate y al producto se aplicará la tasa establecida por el Artículo 166. El gravamen que resulte se dividirá entre el número de días del mes de que se trate y el cociente obtenido se multiplicará por el número de días en que se haya devengado el ingreso, determinándose en esta forma el impuesto causado.
 
-Ingreso Tasa
-
-Hasta $ 1,000.00 exento
-
-De $ 1,000.01
-
-a $ 3,500.00 1.00%
-
-A los causantes que perciban ingresos mayores de $ 3,500.00 se les aplicará la tarifa correspondiente a que se refiere el Artículo 166 de esta Ley.
+> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
 
 ART. 162.- Quienes hagan pagos correspondientes a percepciones gravadas por este impuesto, están obligados a retener el impuesto mensual causado y a enterarlo mediante declaración que deberá presentarse ante la Oficina Recaudadora correspondiente a su domicilio, a más tardar el día quince de mes inmediato posterior de aquél en que el causante hubiere percibido los ingresos objeto de este impuesto. La declaración mensual deberá presentarse aún en el caso de que no se efectúen pagos por percepciones gravadas, expresando el motivo de ello.
 
 Están obligados a retener y enterar el impuesto los subcontratistas de obras por los ingresos gravados que perciban sus trabajadores.
 
 Cuando se omita la presentación de la declaración mensual a que se refiere este Artículo, la Oficina Recaudadora provisionalmente podrán hacer efectivo al retenedor un impuesto mensual equivalente al de la última declaración presentada, debiendo hacerse los ajustes necesarios una vez que se presenten las declaraciones omitidas.
+
+> <small>(REFORMADO, [N.DE E. ADICIONADO], P.O. 16 DE NOVIEMBRE DE 1984)</small>
+
+Se faculta a las autoridades fiscales a que se refiere la presente Ley para celebrar, en su caso, convenios a cuota fija con las personas obligadas a retener y enterar el impuesto establecido por el presente Capítulo, siempre que éstas se dediquen a alguna de las siguientes actividades: Agricultura; ganadería; prestación de servicios a agricultores, desde la etapa de preparación de los terrenos para efectuar la siempra (sic) o plantío hasta la de recolección o cosecha, inclusive; así como a la explotación de cualquier tipo de servicio público de autotransporte concesionado a particulares; y, en general con quienes se dediquen a cualquiera otra actividad que así lo amerite.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 16 DE NOVIEMBRE DE 1984)</small>
+
+Los convenios a que se refiere el párrafo anterior podrán celebrarse en forma directa con los retenedores del impuesto o con quienes los representen legalmente y que cuenten con facultades bastantes al efecto conforme a la Ley.
+
+> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
 
 ART. 163.- Los retenedores de este impuesto deberán dar aviso a la Oficina Recaudadora correspondiente a su domicilio, haciendo uso de las formas oficiales aprobadas por la Secretaría de Finanzas, dentro de los 10 días hábiles siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
 
@@ -1801,47 +1819,17 @@ e).- Suspensión temporal de actividades; y
 
 f).- Clausura definitiva o cesación de actividades.
 
+> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
+
 ART. 164.- Los pagaderos de sueldos y salarios de los empleados públicos y trabajadores al servicio de entidades públicas, tienen las obligaciones que establecen el Artículo 162 y les es aplicable lo preceptuado en el Artículo anterior.
+
+> <small>(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)</small>
 
 ART. 165.- Quienes perciban en territorio del Estado sueldos o salarios directamente de personas físicas o jurídicas, domiciliadas fuera del Estado, están obligadas a pagar el impuesto establecido por este Capítulo en la Oficina Recaudadora a que corresponda el lugar en que prestan sus servicios, dentro de los primeros quince días del mes siguiente de aquél a que correspondan sus percepciones gravadas.
 
-ART. 166.- El impuesto se calculará, para los efectos del pago, aplicando a la totalidad de los ingresos mensuales percibidos por los contribuyentes, la siguiente:
+(REFORMADO, P.O. 16 DE NOVIEMBRE DE 1984) (N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA DEROGACION DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)
 
-T A R I F A
-
-Ingreso Mensual Tasa
-
-Hasta $ 3,500.00 exento
-
-De $ 3,500.01
-
-a $ 4,000.00 1.25%
-
-De $ 4,000.01
-
-a $ 5,000.00 1.40%
-
-De $ 5,000.01
-
-a $ 7,000.00 1.60%
-
-De $ 7,000.01
-
-a $ 9,000.00 1.75%
-
-De $ 9,000.01
-
-a $ 11,000.00 1.90%
-
-De $ 11,000.01
-
-en adelante 2.05%
-
-Los porcentajes previstos se aplicarán a la totalidad de los ingresos mensuales, sin deducción de los primeros $ 3,500.00 para determinar el impuesto causado.
-
-Si de la aplicación de la tarifa anterior disminuye, el ingreso total mensual percibido por el causante, a una cantidad inferior a la que resulte de multiplicar por treinta días el salario mínimo general de la zona económica respectiva, se rebajará el monto del impuesto en la cantidad necesaria para que no se reduzca dicho mínimo.
-
-Sobre el impuesto previsto en el (sic) este Capítulo no se causará impuesto adicional alguno.
+ART. 166.- El impuesto se pagará aplicando, sobre la base a que se refiere el Artículo 160, una tasa de 1.37%.
 
 ### CAPITULO X. Impuesto sobre Profesiones y Oficios
 
@@ -5214,3 +5202,25 @@ Las cantidades que el Estado haya entregado provisionalmente a los Municipios a 
 ###### ARTICULO TERCERO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 16 DE NOVIEMBRE DE 1984.
+
+###### ARTICULO PRIMERO.
+
+En los casos no comprendidos dentro de las exenciones al Impuesto sobre Remuneración del Trabajo Personal señalados en la vigente Ley y el presente Decreto, la tasa del 1.37% establecida por éste en el Artículo 166, solamente estará en vigor durante el resto del ejercicio fiscal del presente año y se reducirá en un 50% durante el ejercicio fiscal correspondiente al año de 1985.
+
+###### ARTICULO SEGUNDO.
+
+A partir del 1o. de Enero de 1986, quedará abrogado el Capítulo IX, denominado "Impuesto sobre Remuneración del Trabajo Personal", del Título Segundo, de la Ley de Hacienda del Estado.
+
+###### ARTICULO TERCERO.
+
+Los adeudos que se hubieren causado por concepto del citado impuesto, cuyo pago esté pendiente a la fecha en que entre en vigor la presente reforma, se harán efectivos conforme a la vigente Ley de Hacienda. Los que se causen durante el resto del presente año, a partir de la vigencia del propio Decreto y durante el año de 1985, se harán efectivos con sujeción a la tasa que resulte conforme al Artículo Primero Transitorio mientras no prescriba la acción para su cobro.
+
+###### ARTICULO CUARTO.
+
+El presente Decreto entrará en vigor a partir del día 1o. de Noviembre de mil novecientos ochenta y cuatro.
+
+###### ARTICULO QUINTO.
+
+Publíquese en el Periódico Oficial "El Estado de Sinaloa".
