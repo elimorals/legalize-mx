@@ -4,7 +4,7 @@ identifier: "COL-ley-de-asentamientos-humanos-del-estado-de-colima-11633"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-07"
-last_updated: "1994-05-07"
+last_updated: "1997-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 1994.
 
@@ -159,7 +159,9 @@ III. LA SECRETARIA: la dependencia de la Administración Pública Estatal compet
 
 IV. LA DEPENDENCIA MUNICIPAL: la entidad de la Administración Pública Municipal competente en materia de desarrollo urbano;
 
-V. LA COMISION ESTATAL: la Comisión Estatal de Desarrollo Urbano, órgano de participación social de carácter técnico y consultivo en desarrollo urbano;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+V. LA COMISION ESTATAL: La Comisión Estatal de Desarrollo Urbano, órgano de participación social de carácter técnico, consultivo y determinativo para los casos previstos por esta Ley, en materia de desarrollo urbano;
 
 VI. LA COMISION MUNICIPAL: la Comisión Municipal de Desarrollo Urbano, órgano de participación social de carácter técnico y consultivo en desarrollo urbano, en el ámbito municipal;
 
@@ -483,75 +485,145 @@ VI. Promover la fundación de centros de población solicitando al Gobernador se
 
 VII. Solicitar al Congreso del Estado la asignación de las categorías político- administrativas de las localidades que le corresponda;
 
-VIII. Aprobar y controlar la ejecución de los programas parciales y los proyectos definitivos de urbanización que propongan los particulares, las dependencias y organismos públicos, para el aprovechamiento urbano del suelo;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+VIII. Aprobar y controlar la ejecución de los programas parciales de urbanización que propongan los particulares, las dependencias y organismos públicos, para el aprovechamiento urbano del suelo;
 
 IX. Solicitar al Ejecutivo del Estado la publicación e inscripción en el Registro Público de la Propiedad y del Comercio de los programas municipales de desarrollo urbano;
 
-X. Llevar el registro de los programas municipales de desarrollo urbano, para su difusión, consulta pública, control y evaluación;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XI. Promover la participación social en la formulación, ejecución, evaluación y revisión de los programas municipales de desarrollo urbano;
+X. Promover la participación social en la formulación, ejecución, evaluación y revisión de los programas municipales de desarrollo urbano;
 
-XII. Participar en la gestión y promoción de financiamiento para la realización de acciones de desarrollo urbano;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XIII. Intervenir en la regularización de la tenencia de la tierra;
+XI. Participar en la gestión y promoción de financiamiento para la realización de acciones de desarrollo urbano;
 
-XIV. Promover y determinar conjuntamente con el Gobierno del Estado, con base en los programas de desarrollo urbano, la adquisición y administración de reservas territoriales;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XV. Controlar y evaluar sus programas de inversión pública en materia de desarrollo urbano;
+XII. Intervenir en la regularización de la tenencia de la tierra;
 
-XVI. Promover y ejecutar obras para que los habitantes del Municipio cuenten con una vivienda digna, equipamiento, infraestructura y servicios adecuados;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XVII. Proponer al Ejecutivo del Estado, la celebración de convenios de la Federación que apoyen los objetivos y finalidades propuestas en el Programa Municipal de Desarrollo Urbano;
+XIII. Promover y determinar conjuntamente con el Gobierno del Estado, con base en los programas de desarrollo urbano, la adquisición y administración de reservas territoriales;
 
-XVIII. Solicitar al Gobierno del Estado el apoyo y asesoría que requiera para cumplir con los fines de esta Ley;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XIX. Expedir el dictamen de vocación del suelo, gestionando previamente ante la Secretaría se verifique su congruencia, en los casos previstos en esta Ley;
+XIV. Controlar y evaluar sus programas de inversión publica en materia de desarrollo urbano;
 
-XX. Autorizar los proyectos definitivos de urbanización y controlar su ejecución;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XXI. Expedir las licencias o permisos de urbanización;
+XV. Promover y ejecutar obras para que los habitantes del Municipio cuenten con una vivienda digna, equipamiento, infraestructura y servicios adecuados;
 
-XXII. Autorizar la publicidad que los urbanizadores y promotores inmobiliarios utilicen, con base en el correspondiente proyecto definitivo de urbanización previamente autorizado;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XXIII. Autorizar a los urbanizadores y promotores inmobiliarios el inicio de actos traslativos de dominio o de prestación de servicios respecto de lotes, fincas y departamentos que generen la ejecución de sus proyectos aprobados;
+XVI. Proponer al Ejecutivo del Estado, la celebración de convenios con la Federación que apoyen los objetivos y finalidades propuestas en el Programa Municipal de Desarrollo Urbano;
 
-XXIV. Establecer o ratificar la nomenclatura de colonias, vialidades y sitios;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XXV. Autorizar la fusión, subdivisión y relotificación;
+XVII. Solicitar al Gobierno del Estado el apoyo y asesoría que requiera para cumplir con los fines de esta Ley;
 
-XXVI. Vigilar el cumplimiento de las obligaciones a cargo de los urbanizadores y promotores, requiriendo otorguen las garantías que establece la presente Ley;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XXVII. Vigilar en las urbanizaciones que no hayan sido municipalizadas, que los urbanizadores o promotores presten adecuada y suficientemente los servicios a que se encuentran obligadas conforme a esta Ley y la autorización respectiva;
+XVIII. Acordar la incorporación municipal que permita a los urbanizadores y promotores inmobiliarios el inicio de actos traslativos de dominio o de prestación de servicios respecto de lotes, fincas y departamentos que generen la ejecución de sus proyectos aprobados;
 
-XXVIII. Promover o ejecutar proyectos habitacionales populares o de interés social;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XXIX. Expedir el reglamento para regular las construcciones;
+XIX. Establecer o ratificar la nomenclatura de colonias, vialidades y sitios;
 
-XXX. Otorgar licencias o permisos para construcción, remodelación, ampliación y demolición de inmuebles;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XXXI. Expedir el certificado de habitabilidad;
+XX. Promover o ejecutar proyectos habitacionales populares o de interés social;
 
-XXXII. Establecer el registro de los profesionales que actuarán como peritos y directores responsables de obras, con quienes los urbanizadores podrán contratar la supervisión de las obras de urbanización y edificación, mismos que actuarán en auxilio de la dependencia municipal;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XXXIII. Convenir con el Gobernador del Estado que la Secretaría desempeñe de manera total o parcial, las funciones técnicas que le corresponden en la aplicación de esta Ley y ejecute obras públicas municipales, cuando carezca de los órganos técnicos y administrativos correspondientes o la complejidad de los asuntos lo requiera, por un período que en ningún caso debe exceder de su gestión constitucional;
+XXI. Expedir el reglamento para regular las construcciones;
 
-XXXIV. Coordinarse y asociarse con otros municipios de la entidad para el cumplimiento de los programas de desarrollo urbano;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XXXV. Asesorar y apoyar a las agrupaciones sociales que emprendan acciones dirigidas a la conservación y mejoramiento de sitios, fincas y monumentos del patrimonio urbano y arquitectónico;
+XXII. Convenir con el Gobernador del Estado que la Secretaría desempeñe de manera total o parcial, las funciones técnicas que le corresponden en la aplicación de esta Ley y ejecute obras públicas municipales, cuando carezca de los órganos técnicos y administrativos correspondientes o la complejidad de los asuntos lo requiera, por un período que en ningún caso debe exceder de su gestión constitucional;
 
-XXXVI. Controlar las acciones, obras y servicios que se ejecuten en el Municipio para que sean compatibles con la legislación, programas y zonificación aplicables;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XXXVII. Vigilar el cumplimiento y aplicación de las disposiciones de la presente Ley, tomando las acciones necesarias para impedir se realicen actos de aprovechamiento de predios y fincas, no autorizados o en contravención de las disposiciones legales aplicables;
+XXIII. Coordinarse y asociarse con otros municipios de la entidad para el cumplimiento de los programas de desarrollo urbano;
 
-XXXVIII. Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece esta Ley y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-XXXIX. Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados, y
+XXIV. Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados, y
 
-XL. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+XXV. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
+
+XXVI. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XXVII. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XXVIII. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XXIX. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XXX. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XXXI. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XXXII. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XXXIII. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XXXIV. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XXXV. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XXXVI. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XXXVII. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XXXVIII. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XXXIX. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+XL. (DEROGADA, P.O. 4 DE OCTUBRE DE 1997)
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 22.
 
-Los Ayuntamientos ejercerán las siguientes atribuciones técnicas y administrativas que les confiera esta Ley a través de la Dependencia Municipal.
+Los Ayuntamientos ejercerán las siguientes atribuciones técnicas y administrativas a través de la Dependencia Municipal:
+
+I. Expedir el dictamen de vocación del suelo, gestionando previamente ante la Secretaría se verifique su congruencia, en los casos previstos en esta Ley;
+
+II. Autorizar los proyectos ejecutivos de urbanización y controlar su ejecución;
+
+III. Expedir las licencias o permisos de urbanización;
+
+IV. Autorizar la publicidad que los urbanizadores y promotores inmobiliarios utilicen, con base en el correspondiente programa parcial de urbanización previamente autorizado;
+
+V. Autorizar la fusión, subdivisión y relotificación;
+
+VI. Vigilar el cumplimiento de las obligaciones a cargo de los urbanizadores y promotores, requiriendo otorguen las garantías que establece la presente Ley;
+
+VII. Vigilar en las urbanizaciones que no hayan sido municipalizadas, que los urbanizadores o promotores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a esta Ley y la autorización respectiva;
+
+VIII. Otorgar licencias o permisos para construcción, remodelación, ampliación y demolición de inmuebles;
+
+IX. Expedir el certificado de habitabilidad;
+
+X. Establecer el registro de los profesionales que actuarán como peritos y directores responsables de obras, con quienes los urbanizadores podrán contratar la supervisión de las obras de urbanización y edificación, mismos que actuarán en auxilio de la dependencia municipal;
+
+XI. Asesorar y apoyar a las agrupaciones sociales que emprendan acciones dirigidas a la conservación y mejoramiento de sitios, fincas y monumentos del patrimonio urbano y arquitectónico;
+
+XII. Controlar las acciones, obras y servicios que se ejecuten en el Municipio para que sean compatibles con la legislación, programas y zonificación aplicables;
+
+XIII. Vigilar el cumplimiento y aplicación de las disposiciones de la presente Ley, tomando las acciones necesarias para impedir se realicen actos de aprovechamiento de predios y fincas, no autorizados o en contravención de las disposiciones legales aplicables;
+
+XIV. Llevar el registro de los programas municipales de desarrollo urbano, para su difusión, consulta publica, control y evaluación;
+
+XV. Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece esta Ley y demás disposiciones jurídicas aplicables;
+
+XVI. Autorizar a los urbanizadores y promotores iniciar la promoción de venta de lotes o fincas; y
+
+XVII. Las demás atribuciones técnicas y administrativas que esta Ley le confiere al Ayuntamiento o a la propia Dependencia Municipal.
 
 ### Capítulo V. De las comisiones de participación social
 
@@ -665,7 +737,9 @@ Las asociaciones o patronatos que se integren para promover la conservación y m
 
 I. Se constituirán como asociaciones con participación y reconocimiento del Ayuntamiento;
 
-II.- Sus acciones se precisarán en el programa parcial correspondiente a la zona o proyecto específico del sitio, que se identifiquen como históricos o artísticos. Para ello elaborarán o promoverán se integre el programa parcial o proyecto ejecutivo correspondiente;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+II. Sus acciones se precisarán en el programa parcial correspondiente a la zona o proyecto específico del sitio, que se identifiquen como históricos o artísticos. Para ello elaborarán o promoverán se integre el programa parcial o proyecto ejecutivo correspondiente;
 
 III. Tendrán atribuciones de promoción, asesoría, ejecución y vigilancia de las acciones que se autoricen en los programas y proyectos, y
 
@@ -1021,9 +1095,23 @@ Las evaluaciones y autorizaciones de manifestación de impacto ambiental que oto
 
 La administración del desarrollo urbano, es el proceso de organización, ejecución, control y evaluación de las actividades que realizan las autoridades establecidas en esta Ley, en coordinación con los sectores social y privado de la Entidad, a fin de ordenar y regular los asentamientos humanos y el desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 66.
 
-Una vez formulados los proyectos de programas de desarrollo urbano, establecidos en esta Ley, que deberán contener los elementos y características que se prevén en el mismo, serán remitidos por la dependencia coordinadora a la Comisión Estatal o a la Comisión Municipal respectiva para que emita su opinión.
+En la formulación de los proyectos de programas de desarrollo urbano, o su actualización establecidos en esta Ley, la autoridad competente promoverá la participación social, de acuerdo con las siguientes bases:
+
+I. La Secretaría o la Dependencia Municipal dará aviso del inicio del proceso de planeación, difundiéndolo en los dos periódicos de mayor circulación en el Estado o Municipio;
+
+II. Una vez formulado el proyecto de programa de desarrollo urbano, éste se difundirá de la misma manera;
+
+III. Se establecerá un plazo y un calendario de audiencias publicas, para que los ciudadanos presenten por escrito los planteamientos que consideren respecto del proyecto;
+
+IV. Las respuestas a los planteamientos improcedentes o las modificaciones a que den lugar, deberán fundamentarse y notificarse a los interesados en el domicilio señalado en su escrito, y estarán a consulta de ellos en las oficinas estatales o municipales correspondientes por lo menos quince días previos a la solicitud de aprobación; y
+
+V. El proyecto de programa de desarrollo urbano, que deberá contener los elementos y características que se prevén en el mismo, será remitido por la dependencia coordinadora a la Comisión Estatal o a la Comisión Municipal respectiva para que así mismo emita su opinión.
+
+En el caso de los Programas Parciales de Urbanización, que se promueven a fin de llevar a cabo acciones de crecimiento o renovación urbana, se seguirá el procedimiento que establece el Título Octavo de esta Ley.
 
 ###### ARTICULO 67.
 
@@ -1533,6 +1621,14 @@ En virtud de la concurrencia en la materia de desarrollo urbano, los Ayuntamient
 
 Los Ayuntamientos a través de sus Dependencias Municipales, expedirán los dictámenes de vocación del suelo, respecto de todas las acciones de aprovechamiento urbano del suelo, como las obras, acciones, inversiones y servicios que en materia de desarrollo urbano se pretendan realizar en sus jurisdicciones.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+Para el aprovechamiento del suelo que implique la transformación de terreno rústico en urbanizado, la Dependencia Municipal remitirá copia del dictamen, a las dependencias estatales y federales responsables del patrimonio urbano arquitectónico, a fin de que estas queden enteradas.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+Cuando el promovente considera infundado el contenido del dictamen de vocación del suelo, o se incumplan los tiempos que señala el artículo 135, éste podrá acudir ante la Comisión Estatal a fin de que emita su opinión y la haga saber al Ayuntamiento.
+
 ###### ARTICULO 132.
 
 El Gobierno del Estado a través de la Secretaría, verificará la congruencia de los dictámenes de vocación del suelo en los siguientes casos:
@@ -1585,11 +1681,17 @@ VII. El documento que acredite el pago del derecho por el trámite de verificaci
 
 Por su alcance el dictamen de vocación del suelo, tendrá las siguientes modalidades:
 
-I. De uso y destino, para certificaciones en general y en particular, para los efectos del artículo 12 de esta Ley;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-II. De uso, destino, alineamiento y número oficial, para solicitar autorización de subdividir, fusionar, relotificar o edificar en predios que cuenten con incorporación municipal, y
+I. De uso y destino, para certificaciones en general y en particular, para los efectos del artículo 12 de esta Ley, la Dependencia Municipal expedirá este dictamen en un plazo no mayor a tres días;
 
-III. De uso, destino y trazo, para solicitar autorización de obras de urbanización para expansión o renovación urbana.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+II. De uso, destino, alineamiento y número oficial, para solicitar autorización de subdividir, fusionar, relotificar o edificar en predios que cuenten con incorporación municipal, la Dependencia Municipal expedirá este dictamen en un plazo no mayor a cinco días, y
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+III. De uso, destino y trazo, para solicitar autorización de obras de urbanización para expansión o renovación urbana, la Dependencia Municipal expedirá este dictamen en un plazo no mayor a dos semanas.
 
 ###### ARTICULO 136.
 
@@ -1625,9 +1727,17 @@ Los Notarios Públicos para los efectos del artículo 12 de esta Ley, no requeri
 
 I. En el primer acto traslativo de dominio de lotes y fincas en urbanizaciones autorizadas, donde se deberá cumplir con lo dispuesto en el artículo 335 de esta Ley;
 
-II. En los sucesivos actos traslativos de dominios de predios y fincas, donde sus escrituras incluyan los rubros previstos en el artículo 335 de esta Ley y su adquiriente no pretenda modificar su aprovechamiento, y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-III. En los actos, contratos y convenios relativos a la propiedad, posesión, aprovechamiento o cualquier otra forma jurídica de tenencia de predios o fincas urbanos que cuenten con su incorporación municipal, con uso habitacional unifamiliar consignado en la escritura pública de la que se deriven los antecedentes jurídicos de propiedad o posesión del área o predio y su adquiriente, no pretenda modificar su aprovechamiento o requiera actualizar el uso del predio, conforme los programas de desarrollo urbano vigentes.
+II. En los sucesivos actos traslativos de dominios de predios y fincas, donde sus escrituras incluyan los rubros previstos en el artículo 335 de esta Ley y su adquiriente no pretenda modificar su aprovechamiento;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+III. En los actos, contratos y convenios relativos a la propiedad, posesión, aprovechamiento o cualquier otra forma jurídica de tenencia de predios o fincas urbanos que cuenten con su incorporación municipal, con uso habitacional unifamiliar consignado en la escritura pública de la que se deriven los antecedentes jurídicos de propiedad o posesión del área o predio y su adquiriente, no pretenda modificar su aprovechamiento o requiera actualizar el uso del predio, conforme los programas de desarrollo urbano vigentes; y
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+IV. La fusión de predios, cuando no implique cambio de uso.
 
 ###### ARTICULO 139.
 
@@ -2051,17 +2161,21 @@ I. La mayoría de los que concurran a la reunión de propietarios otorguen su co
 
 II. Tratándose de acciones en zonas declaradas afectas al patrimonio urbano y arquitectónico, no exista oposición formal de las asociaciones o patronatos previstas en la fracción VII del artículo 34 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 196.
 
-Una vez aprobados los proyectos de obras, presupuestos, bases de financiamiento y derrama, el Ayuntamiento procederá a la autorización del Proyecto Definitivo y su declaratoria de utilidad pública, fundada en los programas de desarrollo urbano.
+Una vez aprobados los proyectos de obras, presupuestos, bases de financiamiento y derrama, el Ayuntamiento procederá a la autorización del Proyecto Ejecutivo y su declaratoria de utilidad pública, fundada en los programas de desarrollo urbano.
 
 Este acuerdo será publicado en la forma prevista en el artículo 71 de esta Ley.
 
 ### Capítulo IV. De la ejecución de acciones por colaboración
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 197.
 
-Una vez autorizado el Proyecto Definitivo de la obra propuesta, se procederá a someterla a concurso, mismo que se celebrará siguiendo los procedimientos que establece la Ley de Obras Publicas del Estado.
+Una vez autorizado el Proyecto Ejecutivo de la obra propuesta, se procederá a someterla a concurso, mismo que se celebrará siguiendo los procedimientos que establece la Ley de Obras Publicas del Estado.
 
 ###### ARTICULO 198.
 
@@ -2177,13 +2291,17 @@ Para determinar las cuotas de colaboración y su recaudación, se aplicarán las
 
 La acción por cooperación y mejoras se aplica al financiamiento de obras de urbanización y edificación para destinos, que generen beneficios en forma general o indirecta a los propietarios o poseedores de predios o fincas de un centro de población o zona del mismo.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 220.
 
-El derecho de cooperación, en cada caso, será decretado por el Congreso del Estado a propuesta de los gobiernos estatal o municipales, con fundamento en el Proyecto Definitivo.
+El derecho de cooperación, en cada caso, será decretado por el Congreso del Estado a propuesta de los gobiernos estatal o municipales, con fundamento en el Proyecto Ejecutivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 221.
 
-El Proyecto Definitivo de Urbanización o Edificación correspondiente a las obras que se propongan financiar mediante acciones de cooperación y mejoras, deberá incluir:
+El Proyecto Ejecutivo de Urbanización o Edificación correspondiente a las obras que se propongan financiar mediante acciones de cooperación y mejoras, deberá incluir:
 
 I. La fundamentación y motivo de la obra pública con base en la legislación y programas de desarrollo urbano aplicables;
 
@@ -2413,9 +2531,11 @@ Todo aprovechamiento urbano del suelo deberá proyectarse y realizarse de acuerd
 
 Están obligadas a respetar y cumplir las disposiciones de este ordenamiento las personas físicas o morales propietarias de predios o fincas, quienes se desempeñen como promoventes y sus respectivos peritos, cuando pretendan realizar o realicen obras de urbanización, edificación, infraestructura o servicios en la Entidad, ya sean públicas o privadas, que se ejecuten en terrenos de cualquier régimen de propiedad pública, privada o social.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 254.
 
-Las actividades normadas por la presente Ley sólo deberán realizarse mediante autorización expresa otorgada por el Ayuntamiento, previa expedición de Programa Parcial de Urbanización y su Proyecto Definitivo de Urbanización que se requieran de acuerdo al sistema y modalidades de aprovechamiento que se aplique, y una vez que, en cada caso se hayan otorgado las garantías y verificado los pagos que establezcan las Leyes Hacendarias y de Ingresos Municipales o se garantice el interés fiscal.
+Las actividades normadas por la presente Ley sólo deberán realizarse mediante autorización expresa otorgada por el Ayuntamiento, previa expedición de Programa Parcial de Urbanización y su Proyecto Ejecutivo de Urbanización que se requieran de acuerdo al sistema y modalidades de aprovechamiento que se aplique, y una vez que, en cada caso se hayan otorgado las garantías y verificado los pagos que establezcan las Leyes Hacendarias y de Ingresos Municipales o se garantice el interés fiscal.
 
 ###### ARTICULO 255.
 
@@ -2463,9 +2583,11 @@ I. Obras de urbanización para la expansión urbana: las acciones técnicas de a
 
 II. Obras de urbanización para la renovación urbana: Las acciones técnicas de acondicionamiento del suelo en zonas comprendidas en los centros de población; y las relativas al mejoramiento, saneamiento y reposición de sus elementos, como la vialidad, redes de servicio o del paisaje urbano, pudiendo implicar un cambio en las relaciones de propiedad y tenencia del suelo, que requerirá ratificar su incorporación a la infraestructura municipal.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 261.
 
-Las promociones inmobiliarias que requieran de obras de urbanización y edificación simultáneas, podrán obtener del Ayuntamiento sus respectivas autorizaciones y licencias, siempre y cuando cuenten con el Programa Parcial de urbanización y el Proyecto Definitivo de Urbanización para las áreas y predios donde se proyecte realizar dichas obras.
+Las promociones inmobiliarias que requieran de obras de urbanización y edificación simultáneas, podrán obtener del Ayuntamiento sus respectivas autorizaciones y licencias, siempre y cuando cuenten con el Programa Parcial de urbanización y el Proyecto Ejecutivo de Urbanización para las áreas y predios donde se proyecte realizar dichas obras.
 
 ###### ARTICULO 262.
 
@@ -2521,13 +2643,17 @@ En la materia regulada por la presente Ley no se admite la gestión de negocios,
 
 Cuando el solicitante sea promotor inmobiliario, además de cumplir con los requisitos estipulados en los artículos que anteceden, deberá acompañar a la solicitud las copias de los convenios celebrados con los propietarios de los terrenos o poder suficiente para este trámite, en el caso de urbanizaciones para la expansión urbana; o de terrenos y edificios, en el caso de urbanizaciones para la renovación urbana, donde se acredite su interés en el trámite.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 272.
 
-Para realizar obras de urbanización es indispensable que se haya expedido su correspondiente Programa Parcial de Urbanización y se haya autorizado su Proyecto Definitivo de Urbanización.
+Para realizar obras de urbanización es indispensable que se haya expedido su correspondiente Programa Parcial de Urbanización y se haya autorizado su Proyecto Ejecutivo de Urbanización.
+
+> <small>(REFORMADO PRIMER PARRAFO P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 273.
 
-Toda solicitud para autorizar el Programa Parcial de Urbanización o el Proyecto Definitivo de Urbanización, deberá ir acompañada de la carta de aceptación de los peritos responsables.
+Toda solicitud para autorizar el Programa Parcial de Urbanización o el Proyecto Ejecutivo de Urbanización, deberá ir acompañada de la carta de aceptación de los peritos responsables.
 
 Sólo podrán intervenir como peritos en obras de urbanización, los Arquitectos o Ingeniero Civil con Cédula de Profesión y registrado como perito en el Municipio donde se lleve a cabo la obra.
 
@@ -2571,9 +2697,17 @@ c) Las áreas de cesión para destinos;
 
 d) Medidas de los linderos de los lotes y superficies de cada uno de ellos incluyendo los de cesión;
 
-e) Claves de las manzanas y lotes, en su caso, asignados por la autoridad catastral, y
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-f) Cuadro de cuantificación de áreas, en donde se especifique el número de lotes por manzana sus superficies, así como las correspondientes a vialidades y cesiones.
+e) Claves de las manzanas y lotes, en su caso, asignados por la autoridad catastral;
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+f) Cuadro de cuantificación de áreas, en donde se especifique el número de lotes por manzana sus superficies, así como las correspondientes a vialidades y cesiones; y
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+g) Propuesta de nomenclatura de vialidades y espacios públicos;
 
 IX. El proyecto de asignación de usos y destinos conforme a la propuesta, precisando la localización y límites de las áreas de destinos, y
 
@@ -2613,27 +2747,41 @@ V. Los estudios de la infraestructura urbana y servicios disponibles en la zona,
 
 VI. En su caso, los criterios de conservación patrimonial.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 279.
 
-Cuando el promovente no acredite los requisitos para desempeñarse como urbanizador, la documentación esté incompleta o el proyecto de Programa Parcial no reúna los requisitos generales, se harán las indicaciones por escrito, para que se subsanen las omisiones. El proyecto se regresará a su promovente, con las anotaciones pertinentes a su solicitud.
+Cuando el promovente no acredite los requisitos para desempeñarse como urbanizador, la documentación esté incompleta o el proyecto de Programa Parcial no reúna los requisitos generales, la Dependencia Municipal, dentro de los diez días hábiles siguientes a la recepción de la solicitud, notificará al interesado las deficiencias por escrito, para que en término similar se subsanen las omisiones, de no hacerlo dentro de ese plazo, el proyecto se regresará al promovente con las anotaciones pertinentes a su solicitud.
+
+Si a juicio de la Dependencia Municipal el Programa Parcial es de aprobarse, en un término de cinco días hábiles lo turnará a la Comisión Municipal, para que ésta emita su opinión.
 
 ###### ARTICULO 280.
 
 Con base en el expediente y considerando las observaciones que se presenten conforme el artículo anterior, la Comisión Municipal de Desarrollo Urbano opinará en un plazo de tres semanas de la fecha en que esta reciba la solicitud.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+Si la Comisión Municipal o la Dependencia Municipal incumplen en realizar los trámites a que se refiere el presente y el anterior artículo en los términos señalados, el promovente podrá optar por presentar su solicitud a la Comisión Estatal, a fin de que ésta resuelva al respecto.
+
 ###### ARTICULO 281.
 
 La opinión de la Comisión Municipal de Desarrollo Urbano relativa a autorizar el Programa Parcial de Urbanización y su asignación de usos y destinos deberá remitirse al Presidente Municipal para que se someta a la consideración del Cabildo.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 282.
 
-Una vez formulado y presentado el proyecto de Programa Parcial de Urbanización así como su expediente debidamente integrado, el Ayuntamiento dispondrá de un plazo de seis semanas para emitir la resolución correspondiente al respecto.
+Una vez formulado y presentado el proyecto de Programa Parcial de Urbanización así como su expediente debidamente integrado, el Ayuntamiento dispondrá de un plazo de seis semanas para emitir la resolución correspondiente al respecto, así como confirmar o modificar su nomenclatura.
 
 El acuerdo del Ayuntamiento será notificado al urbanizador.
 
+Transcurrido el plazo que establece este artículo, sin que el Ayuntamiento resuelva sobre la autorización de un proyecto de Programa Parcial de Urbanización, el urbanizador podrá insistir ante el Ayuntamiento, para que resuelva, disponiendo la autoridad Municipal de un plazo perentorio de dos semanas. Si transcurrido ese plazo el Ayuntamiento no acuerda la solicitud, el urbanizador podrá recurrir a la Comisión Estatal para que esta emita opinión técnica al respecto, y si el contenido de ésta fuera favorable a los intereses del urbanizador podrá ser utilizada para plantear la controversia ante las instancias jurisdiccionales competentes.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 283.
 
-Una vez aprobado por el Ayuntamiento el Programa Parcial de Urbanización, deberá ser remitido por este al Titular del Poder Ejecutivo del Estado, para efecto de su publicación en el Periódico Oficial "El Estado de Colima" y su inscripción en los términos de lo previsto en el artículo 71 de la presente Ley.
+Una vez aprobado por el Ayuntamiento el Programa Parcial de Urbanización, deberá ser remitido por este a la Secretaría, para que a través de la Secretaría General de Gobierno sea presentado al Titular del Poder Ejecutivo del Estado, para efecto de su publicación en el Periódico Oficial "El Estado de Colima" y su inscripción en los términos de lo previsto en el artículo 71 de la presente Ley.
 
 ###### ARTICULO 284.
 
@@ -2643,9 +2791,11 @@ El acuerdo del Ejecutivo Estatal que ordene la publicación del Programa Parcial
 
 En el caso de obras de urbanización para la renovación urbana, se duplicarán los plazos para tramitar la autorización del proyecto del Programa Parcial de Urbanización, previstos en los artículos que anteceden.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 286.
 
-El Proyecto Definitivo de Urbanización, se integrará con los siguientes documentos:
+El Proyecto Ejecutivo de Urbanización, se integrará con los siguientes documentos:
 
 I. Plano topográfico del terreno que contenga:
 
@@ -2671,7 +2821,7 @@ e) Proyecto de arbolado para vías y espacios públicos;
 
 f) Proyecto de ubicación de contenedores para depósito de desechos sólidos y demás mobiliario urbano, y
 
-g) Propuesta de nomenclatura de vialidades y espacios públicos.
+g) (DEROGADO, P.O. 4 DE OCTUBRE DE 1997)
 
 III. Plano de lotificación que contenga:
 
@@ -2719,13 +2869,17 @@ a) La autorización de las dependencias y organismos federales, o sus concesiona
 
 b) Las autorizaciones o concesiones para el aprovechamiento de zonas federales y bienes del dominio público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 287.
 
-La propuesta del Proyecto Definitivo de Urbanización se presentará ante la Dependencia Municipal, adjuntando los siguientes elementos:
+La propuesta del Proyecto Ejecutivo de Urbanización se presentará ante la Dependencia Municipal, adjuntando los siguientes elementos:
 
 I. Copia de la autorización del Programa Parcial donde se pretenda realizar la obra;
 
-II. Escritura pública a favor del Ayuntamiento las áreas de cesión para destinos correspondientes a la proposición del Proyecto Definitivo;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+II. La aceptación expresa del urbanizador de escriturar a favor del Ayuntamiento las áreas de cesión para destinos correspondientes a la proposición del Proyecto Ejecutivo;
 
 III. La carta de aceptación de los peritos responsables de su elaboración y ejecución, con autorización legal y registro;
 
@@ -2737,37 +2891,51 @@ VI. La aceptación por otra parte del urbanizador del plazo a partir de la recep
 
 VII. El documento que acredite el pago del derecho correspondiente a este trámite, previsto en la Ley de Ingresos Municipal.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 288.
 
-Cuando el promovente no acredite los requisitos para desempeñarse como urbanizador, la documentación esté incompleta o el Proyecto Definitivo no reúna los requisitos generales, en ese mismo acto y por escrito, se harán las indicaciones para que se subsanen las omisiones. El expediente se regresará a su promovente con las anotaciones pertinentes a su solicitud.
+Cuando la documentación que presente el promovente, esté incompleta o el Proyecto Ejecutivo no reúna los requisitos generales, en ese mismo acto y por escrito, se harán las indicaciones para que se subsanen las omisiones. El expediente se regresará a su promovente con las anotaciones pertinentes a su solicitud.
 
 ###### ARTICULO 289.
 
 Los Ayuntamientos, a fin de resolver las solicitudes de licencias o permisos para realizar obras de urbanización, deberán tomar en cuenta la disponibilidad para la prestación de los servicios públicos y otros elementos que resulten relevantes para el caso.
 
-La Dependencia Municipal acordará en un plazo de dos semanas, autorizando el proyecto. Este acuerdo será notificado al urbanizador.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+La Dependencia Municipal dictará el acuerdo que corresponda, debiendo notificarlo al urbanizador en un plazo de dos semanas.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 290.
 
-Si la Dependencia Municipal niega la autorización del Proyecto Definitivo de Urbanización o determina la necesidad de practicar modificaciones, el urbanizador procederá a realizar las modificaciones o subsanar las deficiencias que le sean advertidas.
+Si la Dependencia Municipal niega la autorización del Proyecto Ejecutivo de Urbanización o determina la necesidad de practicar modificaciones, el urbanizador procederá a realizar las modificaciones o subsanar las deficiencias que le sean advertidas.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 291.
 
-Si el urbanizador considera infundado el acuerdo que niegue la autorización del Proyecto Ejecutivo de Urbanización, podrá recurrir a la Comisión Estatal, quien hará saber su opinión al Presidente Municipal para que éste resuelva en definitiva.
+Si el urbanizador no fue notificado en el plazo que señala el artículo 289, o considera infundado el acuerdo que niegue la autorización del Proyecto Ejecutivo de Urbanización, podrá recurrir a la Comisión Estatal, quien hará saber su opinión al Presidente Municipal para que en base a ella, éste resuelva en definitiva.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 292.
 
-Si el acuerdo de la Dependencia Municipal autoriza el Proyecto Definitivo de Urbanización, el urbanizador podrá solicitar se le expida la licencia o permiso para ejecutar las obras de urbanización, dentro de un plazo máximo de doce meses a partir de la fecha en que se le notifique.
+Si el acuerdo de la Dependencia Municipal autoriza el Proyecto Ejecutivo de Urbanización, el urbanizador podrá solicitar se le expida la licencia o permiso para ejecutar las obras de urbanización, dentro de un plazo máximo de doce meses a partir de la fecha en que se le notifique.
 
-De no verificarse el trámite en ese término, el urbanizador deberá de volver a gestionar la autorización del Proyecto Definitivo de Urbanización.
+De no verificarse el trámite en ese término, el urbanizador deberá de volver a gestionar la autorización del Proyecto Ejecutivo de Urbanización.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 293.
 
-El urbanizador estará obligado a costear por su cuenta todas las obras de urbanización definidas conforme al propio Proyecto Definitivo de Urbanización, incluyendo las obras de infraestructura y equipamiento que correspondan a las áreas de cesión para destinos, determinadas en los reglamentos de zonificación aplicables, de acuerdo a lo señalado en el artículo siguiente.
+El urbanizador estará obligado a costear por su cuenta todas las obras de urbanización definidas conforme al propio Proyecto Ejecutivo de Urbanización, incluyendo las obras de infraestructura y equipamiento que correspondan a las áreas de cesión para destinos, determinadas en los reglamentos de zonificación aplicables, de acuerdo a lo señalado en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 294.
 
-Los urbanizadores ejecutarán o aportarán mediante convenio el equipamiento, las instalaciones y el mobiliario en los destinos, dentro de las áreas o predios a urbanizar, que se precisen en el Proyecto Definitivo de Urbanización, conforme a las normas del Reglamento Estatal de Zonificación.
+Los urbanizadores ejecutarán o aportarán mediante convenio el equipamiento, las instalaciones y el mobiliario en los destinos, dentro de las áreas o predios a urbanizar, que se precisen en el Proyecto Ejecutivo de Urbanización, conforme a las normas del Reglamento Estatal de Zonificación.
 
 ###### ARTICULO 295.
 
@@ -2833,7 +3001,9 @@ En la licencia o permiso de urbanización, se precisará:
 
 I. El urbanizador a quien se expide;
 
-II. La referencia al Proyecto Definitivo de Urbanización;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+II. La referencia al Proyecto Ejecutivo de Urbanización;
 
 III. Los conceptos que ampara y los pagos correspondientes, y
 
@@ -2849,27 +3019,45 @@ Si al solicitar la licencia o permiso el urbanizador no propone al perito confor
 
 Al expedir la licencia o permiso de urbanización, la Dependencia Municipal entregará al urbanizador:
 
-I. La copia certificada y sellada del Proyecto Definitivo de Urbanización, y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+I. La copia certificada y sellada del Proyecto Ejecutivo de Urbanización; y
 
 II. La bitácora autorizada para verificar la supervisión y control de las obras.
 
 Al autorizar la bitácora, la autoridad municipal certificará las firmas de los peritos y directores responsables que intervendrán en la ejecución, supervisión y control de las obras.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 306.
 
-Dentro de las dos semanas siguientes a la expedición de la licencia o permiso de urbanización, se deberá constituir ante la Tesorería Municipal la garantía que asegura la ejecución de las obras de urbanización y el cumplimiento de todas y cada una de las obligaciones que debe asumir en los términos de su Programa Parcial de Urbanización y el Proyecto Definitivo de Urbanización. Esta garantía será del orden del veinte por ciento del valor de las obras, mediante una fianza expedida por una compañía autorizada, por el tiempo necesario para ejecutar la urbanización y su municipalización.
+Dentro de las dos semanas siguientes a la expedición de la licencia o permiso de urbanización, se deberá constituir ante la Tesorería Municipal la garantía que asegura la ejecución de las obras de urbanización y el cumplimiento de todas y cada una de las obligaciones que debe asumir en los términos de su Programa Parcial de Urbanización y el Proyecto Ejecutivo de Urbanización. Esta garantía será del orden del veinte por ciento del valor de las obras, mediante una fianza expedida por una compañía autorizada, por el tiempo necesario para ejecutar la urbanización y su municipalización.
 
 ###### ARTICULO 307.
 
 Cuando el Ayuntamiento autorice que una obra de urbanización se realice por etapas, la garantía a que se refiere el artículo anterior, se constituirá antes de iniciar cada etapa, tomando como base para fijar su monto, el presupuesto de las obras de la etapa por ejecutar; actualizando los precios al momento en que ésta se pretenda iniciar.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 308.
 
-Cuando el urbanizador pretenda iniciar la promoción de venta de lotes o fincas antes de concluir las obras y obtener la incorporación municipal, deberá otorgar una garantía adicional. Esta garantía adicional será del orden del cincuenta por ciento del valor de las obras, mediante una fianza expedida por una compañía autorizada, por el tiempo necesario para ejecutar la urbanización y su integración municipal.
+Cuando el urbanizador pretenda iniciar la promoción de venta de lotes o fincas antes de concluir las obras y obtener la incorporación municipal, deberá obtener la autorización expresa de la Dependencia Municipal, cumpliendo con los siguientes requisitos:
+
+I. Copia de la autorización del Programa Parcial en que se ubiquen, debidamente publicado y registrado;
+
+II. Relación de los lotes o fincas que pretenda promocionar, y
+
+III. Garantía por el cincuenta por ciento del valor de los lotes o fincas que pretenda promocionar, mediante una fianza expedida por una compañía autorizada, por el tiempo necesario para ejecutar las obras, la urbanización y su integración municipal.
+
+Si la Dependencia Municipal se niega a expedir la autorización a que se alude en el presente artículo, el promovente podrá recurrir ante la Comisión Estatal, quien previo análisis del caso hará saber su opinión al Presidente Municipal para que en base a ella, éste resuelva en definitiva.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 309.
 
-El Ayuntamiento sólo permitirá el inicio total o parcial de las obras de urbanización, cuando el urbanizador o promovente haya cumplido con las obligaciones que le señalan los artículos 306 al 308 de esta Ley, y las demás que le hubieren establecido los términos de autorización del Programa Parcial y Proyecto Definitivo de Urbanización correspondientes.
+Una vez autorizado por el Cabildo el Programa Parcial de Urbanización, previa autorización expresa de la Dependencia Municipal, el urbanizador podrá ejecutar trabajos de preparación del terreno, limpieza, despalme y habilitación de accesos.
+
+La Dependencia Municipal sólo permitirá el inicio formal de las obras de urbanización, cuando el urbanizador o promovente haya cumplido con las obligaciones que le señalan los artículos 306 al 308 de esta Ley, y las demás que le hubieren establecido los términos de autorización del Programa Parcial y Proyecto Ejecutivo de Urbanización correspondientes.
 
 La falta de cumplimiento de lo anterior, motivará la cancelación inmediata de la licencia o permiso correspondiente.
 
@@ -2879,29 +3067,37 @@ Ninguna obra de urbanización que afecte en forma directa la vialidad en la zona
 
 La licencia que autorice las obras de urbanización precisará la fecha, lugar y número de señalamientos que se requieran colocar, así como la responsabilidad en que incurra el urbanizador por su incumplimiento.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 311.
 
-El Ayuntamiento deberá realizar la supervisión de la ejecución de las obras de urbanización que realicen los urbanizadores o promoventes, a efecto de verificar que se cumpla con las especificaciones y características autorizadas en el Programa Parcial de Urbanización y el Proyecto Definitivo.
+El Ayuntamiento deberá realizar la supervisión de la ejecución de las obras de urbanización que realicen los urbanizadores o promoventes, a efecto de verificar que se cumpla con las especificaciones y características autorizadas en el Programa Parcial de Urbanización y el Proyecto Ejecutivo.
 
 ###### ARTICULO 312.
 
 La Secretaría cuando practique una inspección a obras de urbanización, comunicará sus observaciones al Gobierno Municipal correspondiente, a fin de enterarlo de posibles anomalías en el proceso de ejecución de las obras.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 313.
 
-La ejecución del proyecto definitivo deberá hacerse bajo la responsabilidad directa de un ingeniero civil o arquitecto, con título legalmente expedido y que cuente con autorización para actuar como perito o director responsable de obra en la localidad donde se ubique la urbanización o edificación; para lo cual, deberá expresar su consentimiento por escrito ante el Ayuntamiento.
+La ejecución del proyecto ejecutivo deberá hacerse bajo la responsabilidad directa de un ingeniero civil o arquitecto, con título legalmente expedido y que cuente con autorización para actuar como perito o director responsable de obra en la localidad donde se ubique la urbanización o edificación; para lo cual, deberá expresar su consentimiento por escrito ante el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 314.
 
-El perito o director responsable designado por el urbanizador para la ejecución de las obras de urbanización, será responsable solidario de todas las acciones y obras a que se refiere el Proyecto Definitivo autorizado.
+El perito o director responsable designado por el urbanizador para la ejecución de las obras de urbanización, será responsable solidario de todas las acciones y obras a que se refiere el Proyecto Ejecutivo autorizado.
 
 ###### ARTICULO 315.
 
 Es obligación del urbanizador o promovente mantener en la obra, en lugar fijo y durante el horario de trabajo, el libro de bitácora debidamente foliado y autorizado por el Ayuntamiento respectivo, hasta la conclusión total de las obras de urbanización.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 316.
 
-El urbanizador o promovente se obliga a realizar y reportar de inmediato las pruebas de calidad de los materiales, mano de obra y acabado de las obras de urbanización respectivas, de acuerdo al proyecto definitivo y a las que en su caso, les sean solicitadas por el Ayuntamiento correspondiente, a efecto de garantizar la buena calidad de las obras.
+El urbanizador o promovente se obliga a realizar y reportar de inmediato las pruebas de calidad de los materiales, mano de obra y acabado de las obras de urbanización respectivas, de acuerdo al proyecto ejecutivo y a las que en su caso, les sean solicitadas por el Ayuntamiento correspondiente, a efecto de garantizar la buena calidad de las obras.
 
 Los originales de los reportes de laboratorio, correspondientes a las pruebas mencionadas en el párrafo anterior, deberán anexarse a la bitácora.
 
@@ -2913,11 +3109,15 @@ El urbanizador o promovente se obliga a observar las indicaciones que se deriven
 
 Cuando existan razones técnicas fundadas y se requiera la modificación del proyecto en sus especificaciones, deberá el urbanizador o promovente, proponerlas por escrito ante el Ayuntamiento correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 319.
 
-El Proyecto Definitivo de Urbanización podrá modificarse, en tanto no contravenga los lineamientos y especificaciones del Programa Parcial de Urbanización, conforme las bases siguientes:
+El Proyecto Ejecutivo de Urbanización podrá modificarse, en tanto no contravenga los lineamientos y especificaciones del Programa Parcial de Urbanización, conforme las bases siguientes:
 
-I. Para cualquier modificación del Proyecto Definitivo de Urbanización, sea a propuesta del urbanizador o de la propia autoridad, al Dependencia Municipal dispondrá se elabore un dictamen especifico que le de sustento;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+I. Para cualquier modificación del Proyecto Ejecutivo de Urbanización, sea a propuesta del urbanizador o de la propia autoridad, la Dependencia Municipal dispondrá se elabore un dictamen específico que le dé sustento;
 
 II. Expedido el dictamen, la Dependencia Municipal lo notificará al urbanizador, para su debido cumplimiento;
 
@@ -2985,7 +3185,9 @@ Cuando para conectar una urbanización en proyecto, con otras zonas urbanizadas,
 
 Una vez concluida la totalidad de las obras de urbanización, el urbanizador o promovente solicitará por escrito al Ayuntamiento, el dictamen técnico de la ejecución de dichas obras para su incorporación municipal.
 
-Este dictamen técnico tendrá por objeto verificar que el urbanizador o promovente, haya cumplido con todas las obligaciones que le señala esta Ley y ejecutado las obras de urbanización, conforme al Programa Parcial de Urbanización y el Proyecto Definitivo autorizado.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+Este dictamen técnico tendrá por objeto verificar que el urbanizador o promovente, haya cumplido con todas las obligaciones que le señala esta Ley y ejecutado las obras de urbanización, conforme al Programa Parcial de Urbanización y el Proyecto Ejecutivo autorizado.
 
 ###### ARTICULO 329.
 
@@ -2993,13 +3195,15 @@ El dictamen técnico correspondiente será expedido por el Ayuntamiento, debién
 
 En el caso de que el dictamen técnico no apruebe la totalidad de las obras de urbanización, el urbanizador o promovente deberá corregir a su costa, las anomalías que se desprendan de dicho dictamen, para que posteriormente solicite ante el Ayuntamiento el dictamen definitivo.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 330.
 
-Con base en el dictamen técnico el Cabildo acordará la incorporación municipal de la urbanización, confirmando o modificando su nomenclatura.
+Con base en el dictamen técnico el Cabildo acordará la incorporación municipal de la urbanización.
 
-Acordada la incorporación municipal el Ayuntamiento se dirigirá a la autoridad competente a efecto de que proceda el reavalúo de la zona, en los términos de la legislación catastral.
+Acordada la incorporación municipal el Ayuntamiento tramitará su publicación en el Periódico Oficial "El Estado de Colima".
 
-El Ayuntamiento tramitará la publicación en el Periódico Oficial "El Estado de Colima" del acuerdo de incorporación municipal de las obras de urbanización.
+Tan pronto quede publicado el acuerdo de incorporación municipal, dentro de los siguientes diez días hábiles, la Dependencia Municipal enterará al Registro Público de la Propiedad y del Comercio, a fin de que procedan los traslados de dominio, así como a la autoridad correspondiente, para que proceda al reavalúo de la zona, en los términos de la legislación catastral. Si pasado el plazo las autoridades de Registro y Catastro no han sido enteradas por la Dependencia Municipal, el promovente podrá acudir ante ellas a fin de que conozcan de la incorporación municipal con los mismos efectos, en dicho caso el Registro Público de la Propiedad y del Comercio y la autoridad catastral harán saber al Ayuntamiento la negligencia de la Dependencia Municipal.
 
 ###### ARTICULO 331.
 
@@ -3027,11 +3231,15 @@ Los urbanizadores y promoventes tendrán las siguientes obligaciones:
 
 I. Cumplir con lo dispuesto en esta Ley, la legislación urbana, los programas de desarrollo urbano y en las autorizaciones respectivas;
 
-II. Ejecutar, en su caso y por su cuenta, en tiempo y especificaciones, las obras de urbanización que le correspondan, de acuerdo con el proyecto definitivo que les hayan autorizado;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+II. Ejecutar, en su caso y por su cuenta, en tiempo y especificaciones, las obras de urbanización que le correspondan, de acuerdo con el proyecto ejecutivo que les hayan autorizado;
 
 III. Otorgar las garantías conducentes a efecto de asegurar la ejecución adecuada de las obras de urbanización y el cumplimiento de cada una de las obligaciones que les correspondan y garantizar la urbanización contra defectos ocultos;
 
-IV. Hacer entrega al Ayuntamiento, cuando así proceda, de los terrenos comprendidos en las áreas de cesión para destinos y el equipamiento, especificados en el programa parcial y el proyecto definitivo;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+IV. Hacer entrega al Ayuntamiento, cuando así proceda, de los terrenos comprendidos en las áreas de cesión para destinos y el equipamiento, especificados en el programa parcial y el proyecto ejecutivo;
 
 V. Pagar en tiempo y forma, las contribuciones que les correspondan, de acuerdo con lo dispuesto en la legislación fiscal;
 
@@ -3043,7 +3251,9 @@ VIII. Atender las observaciones y correcciones que los supervisores autorizados 
 
 IX. Informar por escrito al Ayuntamiento, respecto de cualquier irregularidad o anomalía que se suscite;
 
-X. Solicitar y obtener del Ayuntamiento la autorización para iniciar la promoción de venta de lotes, así como de los departamentos, viviendas y locales, otorgando la garantía adicional prevista en el artículo 308 de esta Ley; y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+X. Solicitar y obtener de la Dependencia Municipal la autorización para iniciar la promoción de venta de lotes, así como de los departamentos, viviendas y locales, otorgando la garantía adicional prevista en el artículo 308 de esta Ley; y
 
 XI. Las demás que le señale esta Ley y otras disposiciones jurídicas aplicables.
 
@@ -3055,9 +3265,13 @@ I. Que se haya cumplido con el procedimiento de incorporación municipal, previs
 
 II. Que se haya hecho publicación textual del acuerdo de Cabildo que formalice la incorporación, conforme lo previsto en el artículo 330;
 
-III. Que se haya constituido la garantía a fin de reponer o corregir las obras que presenten defectos ocultos de construcción, por un plazo no menor de dos años;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-IV. Que se hayan pagado o garantizado las obligaciones que establezcan a su cargo las leyes hacendarias, y
+III. Que se haya constituido la garantía a fin de reponer o corregir las obras que presenten defectos ocultos de construcción, por un plazo no menor de dos años; y (sic)
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+IV. Que se hayan pagado o garantizado las obligaciones que establezcan a su cargo las leyes hacendarias.
 
 V. Que el Ayuntamiento otorgue autorización expresa para realizar tales enajenaciones.
 
@@ -3081,9 +3295,11 @@ VI. En su caso, la declaración del adquirente de que conoce el reglamento autor
 
 Los Notarios Públicos verificarán se incluyan estos rubros en los testimonios que expidan, con lo cual darán cumplimiento a lo ordenado en los artículos 11 y 12 de esta Ley.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 336.
 
-En todo tipo de publicidad comercial donde se oferten predios o fincas, en primera venta, preventa, apartado u otros actos de enajenación se deberá hacer referencia, al acuerdo del Ayuntamiento donde se autoricen las obras de autorización y edificación en su caso, citando el numero y la fecha de la licencia o permiso, y de la autorización expresa de la autoridad municipal para realizar tales enajenaciones, previsto en la fracción X del artículo 333 de esta Ley.
+En todo tipo de publicidad comercial donde se oferten predios o fincas, en primera venta, preventa, apartado u otros actos de enajenación se deberá hacer referencia, al acuerdo del Ayuntamiento donde se autoricen las obras de urbanización y edificación en su caso, citando el numero y la fecha de la licencia o permiso, y de la autorización expresa de la autoridad municipal para realizar tales enajenaciones, previsto en la fracción X del artículo 333 de esta Ley.
 
 ###### ARTICULO 337.
 
@@ -3163,6 +3379,10 @@ II. Exista un aprovechamiento mínimo del cincuenta por ciento del suelo urbaniz
 
 El urbanizador o promovente solicitará al Ayuntamiento correspondiente la municipalización del mismo, acompañando a dicha solicitud un padrón de adquirentes, con nombre, domicilio y clave catastral.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+El Ayuntamiento deberá dar respuesta dentro de los cuarenta y cinco días posteriores a la presentación de la solicitud, si no lo hace así o se niega a municipalizar las obras de urbanización, el promovente podrá recurrir a la Comisión Estatal, quien hará saber su opinión al Ayuntamiento para que en base a ella, éste resuelva en definitiva.
+
 ###### ARTICULO 350.
 
 Habiéndose acordado la municipalización de las obras de urbanización y edificación, procederá la cancelación de la garantía a que se refiere el artículo 306 de esta Ley, quedando el urbanizador liberado de toda responsabilidad, en cuanto a la prestación de los servicios respectivos.
@@ -3175,7 +3395,13 @@ El acto de recepción de las obras de urbanización para su municipalización se
 
 En este acto, el representante de la Dependencia Municipal ratificará el dictamen técnico estableciendo que el urbanizador cumplió con todas las obligaciones a su cargo y por tanto, las obras de urbanización están en condiciones de ser recibidas y municipalizadas.
 
-El representante del Ayuntamiento levantará un acta administrativa donde se hagan constar los hechos de la recepción de las obras, así como la declaración por parte del urbanizador indicando los datos de la fianza que otorgue por un plazo no menor de dos años, obligándose a reponer las obras que presenten defectos ocultos de construcción, conforme la fracción VI del artículo 287 de esta Ley.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+El representante del Ayuntamiento levantará un acta administrativa donde se hagan constar los hechos de la recepción de las obras, así como la declaración por parte del urbanizador indicando los datos de la fianza que otorgue por un plazo no menor de dos años, obligándose a reponer las obras que presenten defectos ocultos de construcción, conforme la fracción VI del artículo 287 de esta Ley. Esta fianza será del cincuenta por ciento del monto de la fianza que se cancela en el artículo anterior, actualizada por el Indice Nacional de Precios al Consumidor.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE OCTUBRE DE 1997)</small>
+
+En los casos del aprovechamiento urbano de tipo campestre, granjas, turísticos y todos aquellos que se encuentren fuera de la estructura urbana, o que así quede establecido en su Programa Parcial correspondiente, el acto de Municipalización tendrá que ser acompañado por la integración formal de la asociación encargada de prestar en lo sucesivo los servicios urbanos de carácter municipal, enterando al Ayuntamiento del monto de las tarifas correspondientes, el cual las autorizará y vigilará su cumplimiento.
 
 ###### ARTICULO 352.
 
@@ -3197,21 +3423,33 @@ Mientras no se realicen las obras a que se refiere el artículo anterior, el Ayu
 
 Las autorizaciones de fusiones, subdivisiones y relotificaciones se otorgarán por el Ayuntamiento, de conformidad con los programas de desarrollo urbano, los reglamentos de zonificación aplicables y las disposiciones de esta Ley.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 356.
 
-Las disposiciones de este capítulo son aplicables a predios rústicos exceptuándose aquellas fusiones, subdivisiones y relotificaciones donde los predios resultantes de la operación tengan una extensión mayor de cinco hectáreas.
+La superficie mínima que garantiza la sustentabilidad de la actividad agropecuaria es de cinco hectáreas, por lo que todas aquellas subdivisiones y relotificaciones de predios donde los productos de la operación sean mayores a esa superficie, seguirán siendo rústicos y no requerirán autorización en los términos de la presente Ley.
+
+Toda subdivisión o relotificación de predios rústicos que implique fracciones menores a cinco hectáreas, o que tienda a aplicar nuevos usos, deberá sujetarse a lo dispuesto por el título octavo de esta ley referente al aprovechamiento urbano del suelo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 357.
 
-Al autorizar subdivisiones y relotificaciones donde los predios resultantes de la operación tengan una extensión igual o menor a diez mil metros, sólo se autorizará si:
+Sólo se autorizarán subdivisiones y relotificaciones si:
 
-I. Se encuentran sobre vialidades existentes y autorizadas sin modificarlas;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+I. El o los predios se encuentran incorporados al sistema municipal;
 
 II. Cuentan con todos los servicios urbanos;
 
-III. Su área haya sido considerada en la cesión para destinos del aprovechamiento que los generó, y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
 
-IV. Tratándose de subdivisiones, no se formen más de cinco lotes, o los que determine el correspondiente Programa Parcial de Urbanización.
+III. No requieren el trazo de vías públicas, y
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+IV. Tratándose de subdivisiones, la superficie del predio no exceda los diez mil metros, o no se formen más de cinco lotes, o los que determine el correspondiente Programa Parcial de Urbanización para los casos previstos en el artículo 299 de esta Ley.
 
 ###### ARTICULO 358.
 
@@ -3229,9 +3467,11 @@ III. Certificado que acredite la solvencia fiscal y la libertad de gravamen de l
 
 Al solicitar el dictamen de vocación del suelo se proporcionará a la Dependencia Municipal el plano catastral de los predios involucrados con su localización referenciada a la zona donde se ubique y la propuesta de fusión, subdivisión o relotificación.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 360.
 
-El Ayuntamiento a través de la Dependencia Municipal, otorgará o negará la autorización de fusión, subdivisión o relotificación con fundamento en el dictamen y expedirá de inmediato el permiso correspondiente, previo pago del derecho que fije la Ley de Ingresos Municipal, procediéndose a informar al Catastro y al Registro Público de la Propiedad y del Comercio.
+El Ayuntamiento a través de la Dependencia Municipal, otorgará o negará la autorización de fusión, subdivisión o relotificación con fundamento en el dictamen y en caso afirmativo expedirá de inmediato el permiso correspondiente, previo pago del derecho que fije la Ley de Ingresos Municipal. La Dependencia municipal procederá a informar al Catastro y al Registro Público de la Propiedad y del Comercio de la nueva lotificación.
 
 ### Capítulo IX. De las edificaciones
 
@@ -3657,6 +3897,32 @@ VIII. El arresto administrativo hasta por 36 horas.
 
 La Secretaría y el Ayuntamiento respectivo, al tener conocimiento de la ejecución de acciones, obras y servicios en materia de desarrollo urbano, no autorizados, ordenarán la suspensión inmediata de las obras, sin perjuicio de las responsabilidades civiles, penales y administrativas en que hubiere incurrido la persona física o moral, pública o privada, que las haya ejecutado.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+La intervención administrativa de la empresa, a que alude el inciso V del artículo anterior, podrá aplicarse tanto a aprovechamientos urbanos autorizados como a los no autorizados, previo acuerdo escrito y fundado del Titular del Poder Ejecutivo, a solicitud de la Secretaría o del Ayuntamiento correspondiente, el cual será notificado al urbanizador o promovente del mismo, o al propietario del predio, que es responsable solidario, sujetándose a los siguientes requisitos:
+
+a) Se aplicará en caso de reincidencia en las violaciones a la Ley, o desobediencias reiteradas a las disposiciones de la autoridad, o cuando al permitir el asentamiento humano en un predio sin la autorización respectiva o sin las obras de urbanización se cause daño al patrimonio de los adquirientes o deterioro en la calidad de vida del asentamiento;
+
+b) Tenderá a proteger primaria y fundamentalmente los intereses legítimos de los adquirientes de los locales viviendas o predios que resulten afectados por el incumplimiento de las disposiciones de la Ley;
+
+c) Se fundará siempre en razones de orden público o de interés general;
+
+d) Procurará ajustar la urbanización intervenida al fiel cumplimiento de las disposiciones derivadas del Programa Parcial de Urbanización, del Proyecto Ejecutivo, de la Ley y del Reglamento de Zonificación. En caso de no existir autorización alguna de inmediato se dispondrá la elaboración del Programa Parcial y Proyecto Ejecutivo correspondiente;
+
+e) Se limitará a cumplimentar, en defensa del responsable los fines normales y habituales de un aprovechamiento urbano del suelo regular;
+
+f) Durará el tiempo necesario para realizar los fines colectivos y de orden público antes expresados;
+
+g) Cesará una vez desaparecidas todas las causas que la motivaron y, en su caso, se devolverán los efectos patrimoniales y numerario remanente al responsable intervenido;
+
+h) Realizará todos los actos que corresponden al responsable intervenido en relación con los locales, viviendas o predios de la urbanización, procediendo, en caso de abstención de aquél, a firmar las escrituras o documentos que sean necesarios para su regularización tanto en relación con las autoridades correspondientes como con los adquirientes; y (sic)
+
+i) Podrá llevar a cabo las obras y servicios que se requieran y demás obligaciones del urbanizador intervenido, directamente o a través de terceros, celebrando para tal efecto los contratos o actos jurídicos que se requieran.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+Todos los gastos que haya necesidad de hacer para llevar a cabo la intervención en los términos precisados, serán a cargo de la urbanización, de su promotor o del propietario de los terrenos, todos los cuales serán solidaria y mancomunadamente responsables y obligados ante el Gobierno del Estado y el Ayuntamiento respecto del pago de dichos gastos, cobrándose además en los mismos términos aquí expuestos, un diez por ciento sobre el valor de los locales, viviendas o predios, según dictamen de perito valuador, por concepto de gastos de administración.
+
 ###### ARTICULO 394.
 
 Serán nulos de pleno derecho, los actos jurídicos, convenios o contratos, que celebren los sujetos de esta Ley, que ejecuten acciones, obras y servicios en materia de desarrollo urbano o que tengan por objeto la venta de los lotes de un fraccionamiento, así como la enajenación de los departamentos, viviendas, casas, locales o áreas de que se componga un inmueble sujeto al régimen de propiedad en condominio, sin que previamente se hubieren satisfecho los siguientes requisitos:
@@ -3714,6 +3980,10 @@ Las anteriores sanciones se aplicarán a los infractores, sin perjuicio de las r
 ###### ARTICULO 403.
 
 Las resoluciones que dicten las autoridades competentes con base en lo dispuesto en esta Ley, podrán ser impugnadas por los afectados mediante el recurso de reconsideración.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 1997)</small>
+
+En caso de las resoluciones negativas del Cabildo a que se refieren los artículos 282, 330 y 349 de la presente Ley, el urbanizador podrá recurrir a la Comisión Estatal para que ésta emita opinión técnica al respecto, y si el contenido de ésta fuera favorable a los intereses del urbanizador, podrá ser utilizada para plantear la controversia ante las instancias jurisdiccionales competentes.
 
 ###### ARTICULO 404.
 
@@ -3864,3 +4134,9 @@ Dado en el Recinto Oficial del Poder Legislativo a los veintiún días del mes d
 Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Colima, a 26 de abril de 1994.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE OCTUBRE DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
