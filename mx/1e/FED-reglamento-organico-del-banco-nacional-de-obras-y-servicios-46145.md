@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-nacional-de-obras-y-servicios-461
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "1996-12-23"
+last_updated: "1998-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46145&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGANICO DEL BANCO NACIONAL DE OBRAS Y SERVICIOS PUBLICOS, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ABRIL DE 1998.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
@@ -71,15 +71,17 @@ La Sociedad tendrá duración indefinida.
 
 ### CAPITULO SEGUNDO. Del Capital Social
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 22 DE ABRIL DE 1998)</small>
 
 ###### ARTICULO 7o.
 
-El Capital Social del Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $260´,000,000.00 (doscientos sesenta millones de pesos 00/100 M. N.).
+El Capital Social del Banco Nacional de Obras y Servicios Públicos, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $500'000,000.00 (quinientos millones de pesos 00/100 M.N.).
 
-Dicho Capital Social estará representado por 171'600,000 Certificados de Aportación Patrimonial de la Serie "A", con valor nominal de $1.00 (un peso 00/100 M. N.) cada uno y por 88'400.00 Certificados de Aportación Patrimonial de la Serie "B", con un valor nominal de $1.00 (un peso 00/100 M. N.) cada uno.
+Dicho Capital Social estará representado por 330'000,000 Certificados de Aportación Patrimonial de la Serie "A", con valor nominal de $1.00 (un peso 00/100 M.N.) cada uno y por 170'000,000 Certificados de Aportación Patrimonial de la Serie "B", con un valor nominal de $1.00 (un peso 00/100 M.N.) cada uno.
 
-El Capital Social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Sociedad, por acuerdo de la Secretaría de Hacienda y Crédito Público y mediante reforma de este Reglamento.
+El Capital Social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Sociedad, por acuerdo de la Secretaría de Hacienda y Crédito Público, y mediante reforma de este Reglamento.
+
+El incremento al capital a que este Acuerdo se refiere, se realizará conforme a lo expresado por los estados financieros de la Institución al 31 de diciembre de 1997.
 
 ###### ARTICULO 8o.
 
@@ -412,3 +414,7 @@ El presente Reglamento Orgánico se expide en la Ciudad de México, Distrito Fed
 D.O.F. 23 DE DICIEMBRE DE 1996.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE ABRIL DE 1998.
+
+UNICO.- El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
