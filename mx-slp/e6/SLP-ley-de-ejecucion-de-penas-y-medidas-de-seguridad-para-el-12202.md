@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-para-el-12202"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-11"
-last_updated: "1997-08-12"
+last_updated: "2000-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2000.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de diciembre de 1995.
 
@@ -413,9 +413,9 @@ IV.- Permiso de salida el fin de semana o diaria con reclusión nocturna o bien,
 
 V.- Trabajar en el exterior y reportarse e informar de sí mismo, en los momentos en que la autoridad así lo determine.
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2000)</small>
 
-Los sentenciados por los delitos de secuestro comprendido en los artículos 325, 326; violación previsto en los artículos 348, 349, 351, 351 Bis y 353; y abigeato previsto en el artículo 375, todos del Código Penal del Estado de San Luis Potosí; no tendrán derecho a las medidas de tratamiento preliberación al establecido en las fracciones III, IV y V de este artículo.
+Los sentenciados por los delitos de homicidio a que se refieren los artículos 111, 112 y 113; parricidio a que se refiere el artículo 127; secuestro a que se refiere el artículo 135, robo de infante o incapaces a que se refiere el artículo 137, trafico de menores a que se refiere el artículo 140, asalto a que se refiere el artículo 144, violación a que se refieren los artículos 150, 152, 153, 154 y 155, corrupción de menores a que se refieren los artículos 181 y 183, robo calificado a que se refiere el artículo 200, abigeato a que se refiere el artículo 216, terrorismo a que se refiere el artículo 251, asociación delictuosa a que se refiere el artículo 265, evasión a que se refieren los artículos 268 y 270; y tortura a que se refiere el artículo 282, todos del Código Penal del Estado de San Luis Potosí; no tendrán derecho a las medidas de tratamiento preliberacional establecidas en las fracciones III, IV y V de este artículo.
 
 ###### ARTICULO 63.
 
@@ -465,9 +465,9 @@ b).- Que el liberado se abstenga del uso de bebidas embriagantes y drogas, a exc
 
 c).- Que se sujete el liberado al tratamiento y a las medidas de orientación y supervisión que le sean dictadas.
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2000)</small>
 
-Los sentenciados por los delitos de secuestro comprendido en los artículos 325, 326; violación previsto en los artículos 348, 349, 351, 351 Bis y 353; y abigeato previsto en el artículo 375, todos del Código Penal del Estado de San Luis Potosí; no tendrán derecho a la libertad preparatoria establecida en este artículo.
+Los sentenciados por los delitos de homicidio a que se refieren los artículos 111, 112 y 113; parricidio a que se refiere el artículo 127; secuestro a que se refiere el artículo 135, robo de infante o incapaces a que se refiere el artículo 137, trafico de menores a que se refiere el artículo 140, asalto a que se refiere el artículo 144, violación a que se refieren los artículos 150, 152, 153, 154 y 155, corrupción de menores a que se refieren los artículos 181 y 183, robo calificado a que se refiere el artículo 200, abigeato a que se refiere el artículo 216, terrorismo a que se refiere el artículo 251, asociación delictuosa a que se refiere el artículo 265, evasión a que se refieren los artículos 268 y 270; y tortura a que se refiere el artículo 282, todos del Código Penal del Estado de San Luis Potosí; no tendrán derecho a la libertad preparatoria establecida en este artículo.
 
 ###### ARTICULO 68.
 
@@ -505,9 +505,9 @@ Por cada dos días de trabajo, se hará remisión de uno de prisión, siempre y 
 
 Para los efectos de la remisión parcial de la pena, se considerará también como trabajo, el desarrollo de actividades artísticas, culturales, deportivas, profesionales, intelectuales y productivas, aprobadas por el Consejo Técnico Interdisciplinario.
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2000)</small>
 
-Los sentenciados por los delitos de secuestro comprendido en los artículos 325, 326; violación previsto en los artículos 348, 349, 351, 351 Bis y 353; y abigeato previsto en el artículo 375, todos del Código Penal del Estado de San Luis Potosí; no tendrán derecho a la remisión parcial de la pena establecida en el artículo 73 de esta ley.
+Los sentenciados por los delitos de homicidio a que se refieren los artículos 111, 112 y 113; parricidio a que se refiere el artículo 127; secuestro a que se refiere el artículo 135, robo de infante o incapaces a que se refiere el artículo 137, trafico de menores a que se refiere el artículo 140, asalto a que se refiere el artículo 144, violación a que se refieren los artículos 150, 152, 153, 154 y 155, corrupción de menores a que se refieren los artículos 181 y 183, robo calificado a que se refiere el artículo 200, abigeato a que se refiere el artículo 216, terrorismo a que se refiere el artículo 251, asociación delictuosa a que se refiere el artículo 265, evasión a que se refieren los artículos 268 y 270; y tortura a que se refiere el artículo 282, todos del Código Penal del Estado de San Luis Potosí; no tendrán derecho a la remisión parcial de la pena establecida en el artículo 73 de esta Ley.
 
 ###### ARTICULO 75.
 
@@ -628,3 +628,13 @@ P.O. 12 DE AGOSTO DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE OCTUBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los procedimientos para la obtención de los beneficios de tratamiento preliberacional, libertad preparatoria o de remisión parcial de la pena que se encuentren tramitando a la entrada en vigor del presente decreto se continuarán hasta su conclusión conforme a los preceptos vigentes al inicio de la tramitación.
