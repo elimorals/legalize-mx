@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "1999-01-30"
+last_updated: "2000-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2000.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -183,7 +183,9 @@ V.- Ser integrante de comisiones del Congreso;
 
 VI.- Participar en los trabajos, deliberaciones y debates de las comisiones;
 
-VII.- Abstenerse de votar en las sesiones del Congreso o de las comisiones de que formen parte, pudiendo razonar su abstención, de no razonarla su voto se sumará a la mayoría;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2000)</small>
+
+VII.- Abstenerse de votar en las sesiones del Congreso o de las Comisiones de que se forme parte, pudiendo razonar su abstención, previamente a la votación;
 
 VIII.- Contar con el documento e insignia que los acredite como Diputados;
 
@@ -371,9 +373,11 @@ El Presidente del Congreso puesto de pie, al igual que los demás Diputados y el
 
 A la sesión de instalación de la Legislatura asistirán como invitados de honor el Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 36.
 
-En el mismo acto, el Presidente citará a sesión del Congreso a las 11:00 horas del día siguiente.
+En el mismo acto, el Presidente citará a sesión del Congreso para ese día, a partir de las 17:00 horas, a efecto de recibir el informe a que se refiere el artículo 31 de la Constitución.
 
 ### CAPITULO II
 
@@ -395,7 +399,9 @@ Corresponde a la Directiva, bajo la autoridad de su Presidente, presidir las ses
 
 En la última sesión de cada mes, el Congreso elegirá para el siguiente, nuevo Presidente y Vicepresidente, quienes asumirán sus cargos en la sesión inmediata a aquella en que hubiesen sido electos.
 
-El Presidente y el Vicepresidente durarán en sus cargos un mes y no podrán ser reelectos para esos cargos en el mismo período ordinario de sesiones.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2000)</small>
+
+El Presidente y Vicepresidente durarán en sus cargos, un mes pudiendo ser reelectos para ese cargo, en el mismo Período Ordinario de Sesiones.
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
@@ -859,6 +865,10 @@ III.- Al Supremo Tribunal de Justicia, en asuntos del ramo de justicia; y
 
 IV.- A los Ayuntamientos, en lo que se relaciona con asuntos de la administración municipal.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2000)</small>
+
+V.- A los ciudadanos en los términos de la Ley respectiva.
+
 ###### ARTICULO 84.
 
 Las iniciativas podrán ser de ley, de decreto, de acuerdo y de acuerdo económico:
@@ -1074,3 +1084,9 @@ En tanto se expide el nuevo Reglamento, de la presente Ley, se seguirá aplicand
 Dado en el Poder Legislativo a los veintinueve días del mes de enero de mil novecientos noventa y nueve.
 
 C. ENRIQUE A. SALAZAR ABAROA, DIPUTADO PRESIDENTE.- Rúbrica.- C. JORGE LUIS PRECIADO RODRIGUEZ, DIPUTADO SECRETARIO.- Rúbrica.- C. JORGE A. GAYTAN GUDIÑO, DIPUTADO SECRETARIO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE MAYO DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
