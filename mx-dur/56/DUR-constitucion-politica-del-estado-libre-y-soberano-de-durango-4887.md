@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1993-12-19"
+last_updated: "1993-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1993.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -431,6 +431,10 @@ Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de l
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
+SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 ###### ARTICULO 38.
 
 El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisionalmente a otro lugar cuando se presenten circunstancias que lo ameriten y así lo acuerden cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
@@ -517,7 +521,7 @@ El Primero de Septiembre de cada año, al inicio de las sesiones del Congreso, e
 
 El Gobernador, dentro de los últimos quince días de su mandato, enviará al Congreso una memoria en la que expondrá la situación prevaleciente en todos los ramos de la administración pública.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ## TITULO TERCERO
 
@@ -777,11 +781,7 @@ VI.- Las demás que le confiere está Constitución.
 
 La Comisión Permanente dará cuenta en la segunda sesión del período ordinario siguiente de la Legislatura, de las labores desarrolladas, presentando al efecto una memoria escrita de sus trabajos, así corno de los expedientes que hubiere formado.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
@@ -807,7 +807,7 @@ b).- El Gobernador provisional cuando hubiere desempeñado el cargo en los dos �
 
 c).- El Gobernador interino cuando haya desempeñado el cargo en los dos últimos años del período, o del ciudadano que con cualquier denominación desempeñe el cargo en ese período por más de tres meses continuos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 1993)</small>
 
 ## TITULO CUARTO
 
@@ -817,17 +817,17 @@ c).- El Gobernador interino cuando haya desempeñado el cargo en los dos último
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCON A.- DE SU ORGANIZACION
+SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 60.
 
-Para ser Gobernador del Estado, se requiere:
+Para ser Gobernador del Estado se requiere:
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1993)</small>
 
-I.- Tener la ciudadanía duranguense por nacimiento y ser hijo de padres mexicanos;
+I.- Tener la ciudadanía duranguense por nacimiento o tener una residencia efectiva en el Estado no menor de doce años anteriores al día de la elección;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -837,9 +837,9 @@ II.- Estar en pleno ejercicio de sus derechos ciudadanos;
 
 III.- Tener treinta años cumplidos para el día de la elección;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1993)</small>
 
-IV.- Tener cuando menos dos años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la elección;
+IV.- Los duranguenses por nacimiento deberán tener por lo menos dos años de residencia efectiva dentro del territorio del Estado, inmediatamente anteriores al día de la elección;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1303,10 +1303,6 @@ La competencia del Supremo Tribunal de Justicia, el funcionamiento del Pleno y d
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
-
 ###### ARTICULO 92.
 
 El Supremo Tribunal de Justicia del Estado se integra por siete Magistrados numerarios y siete Magistrados supernumerarios; éstos últimos suplirán a aquéllos en sus faltas temporales y también, temporalmente, en sus faltas definitivas, a cuyo efecto serán llamados en el orden numérico en que hubieren sido electos.
@@ -1390,6 +1386,10 @@ XI.- Las demás que le confieren esta Constitución y las leyes;
 XII.- (DEROGADA, P.O. 24 DE ABRIL DE 1988)
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCON A.- DE SU ORGANIZACION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1993)</small>
 
 ###### ARTICULO 98.
 
@@ -2164,3 +2164,13 @@ P.O. 19 DE DICIEMBRE DE 1993.
 ###### ARTICULO SEGUNDO
 
 - Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1o. de Septiembre de 1997.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
