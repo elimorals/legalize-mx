@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2000-10-13"
+last_updated: "2001-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -1225,7 +1225,7 @@ De la recusación de un Magistrado, Juez de Primera Instancia o Menor Letrado, c
 
 ###### Artículo 152.
 
-Si en la sentencia se declara que procede la recusación se remitirá al Juez o Magistrado recusado testimonio de dicha sentencia para que éste, a su vez remita los autos al Juez que corresponda. En el Tribunal queda el Magistrado recusado separado del conocimiento del negocio del cual conocerá el magistrado que indique la Ley Orgánica del Poder Judicial, integrándose el Pleno en su caso en la forma que determine la misma Ley. Si se declara no ser bastante la causa, se remitirá testimonio de la resolución al Luez o Magistrado para que continúe conociendo del negocio.
+Si en la sentencia se declara que procede la recusación se remitirá al Juez o Magistrado recusado testimonio de dicha sentencia para que éste, a su vez remita los autos al Juez que corresponda. En el Tribunal queda el Magistrado recusado separado del conocimiento del negocio del cual conocerá el magistrado que indique la Ley Orgánica del Poder Judicial, integrándose el Pleno en su caso en la forma que determine la misma Ley. Si se declara no ser bastante la causa, se remitirá testimonio de la resolución al Juez o Magistrado para que continúe conociendo del negocio.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -5363,9 +5363,9 @@ El Registrador Público de la Propiedad de la ubicación de los bienes dentro de
 
 Son requisitos fundamentales para la procedencia de este Juicio Hereditario Administrativo los siguientes:
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
-I.- Que el valor de los bienes que deje a su muerte el autor de la herencia no excedan de la suma equivalente al doble del salario mínimo general elevado al año, de la zona económica donde se encuentren dichos bienes, y
+I.- Que el valor de los bienes, que deje a su muerte el autor de la herencia no excedan de la cantidad establecida en el Artículo 727 del Código Civil del Estado; y
 
 II.- Que los herederos sean mayores de edad y no haya controversia o disputa, pues tan pronto como se conozca cesará la jurisdicción administrativa para que los interesados ocurran ante la Autoridad Judicial correspondiente.
 
@@ -5975,7 +5975,7 @@ En las sucesiones intestadas o testamentarias que se sometan a la tramitación a
 
 I.- Que los herederos estén de acuerdo en la forma y términos de liquidar el haber hereditario;
 
-II.- Que en los casos de intestado, la denuncia se firme por todos los presuntos herederos o sus representantes legítimos, expresando sus reconocimiento(SIC) entre sí y la designación de albacea;
+II.- Que en los casos de intestado, la denuncia se firme por todos los presuntos herederos o sus representantes legítimos, expresando sus reconocimiento (sic) entre sí y la designación de albacea;
 
 III.- Con la denuncia se exhibirán las actas del Estado Civil que acrediten la defunción del autor de la herencia y el entroncamiento de los comparecientes con éste;
 
@@ -6197,7 +6197,7 @@ Las solicitudes relativas a jurisdicción voluntaria, tratándose de notificacio
 
 ###### Artículo 904.
 
-Cuando fuere necesaria la audiencia de alguna persona, se le citará conforme a derecho advirtiendo en la citación que quedan por tres días las actuaciones en la secretaría del juzgado para que se imponga de ellas y senalándole día y hora para la audiencia a la que concurrirá el promovente, sin que sea obstáculo para la celebración de ella la falta de asistencia de éste.
+Cuando fuere necesaria la audiencia de alguna persona, se le citará conforme a derecho advirtiendo en la citación que quedan por tres días las actuaciones en la secretaría del juzgado para que se imponga de ellas y señalándole día y hora para la audiencia a la que concurrirá el promovente, sin que sea obstáculo para la celebración de ella la falta de asistencia de éste.
 
 ###### Artículo 905.
 
@@ -6537,7 +6537,7 @@ El Juez estará obligado a ampliar el examen de los testigos con las preguntas q
 
 ###### Artículo 943.
 
-Las informaciones se protocalizarán ante el Notario que designe el promovente, quien dará al interesado el testimonio respectivo para su inscripción en el Registro Público de la Propiedad.
+Las informaciones se protocolizarán ante el Notario que designe el promovente, quien dará al interesado el testimonio respectivo para su inscripción en el Registro Público de la Propiedad.
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 1983)</small>
 
@@ -7339,7 +7339,7 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.-Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
@@ -7401,7 +7401,7 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 5 DE ENERO DE 1983.
 
-DECRETO NUM. 49, QUE REFORMA A LOS ARTICULOS 939, 940, 941, 942 Y 943 DEL CODIGO DE PROCEDIEMIENTOS CIVILES VIGENTE EN EL ESTADO Y SE ADICIONA EL ARTICULO 943-BIS.
+DECRETO NUM. 49, QUE REFORMA A LOS ARTICULOS 939, 940, 941, 942 Y 943 DEL CODIGO DE PROCEDIMIENTOS CIVILES VIGENTE EN EL ESTADO Y SE ADICIONA EL ARTICULO 943-BIS.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -7443,17 +7443,17 @@ DECRETO NUM. 240, QUE REFORMA EL ARTICULO 935.
 
 UNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 21 DE ENERO DE 1987.
-
-###### ARTICULO UNICO
-
-- Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
-
 P.O. 25 DE FEBRERO DE 1985.
 
 ###### ARTICULO UNICO
 
 - Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE ENERO DE 1987.
+
+###### ARTICULO UNICO
+
+- Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE AGOSTO DE 1991.
 
@@ -7487,7 +7487,7 @@ Los asuntos que se encuentren en trámite al entrar en vigor estas reformas, seg
 
 P.O. 9 DE FEBRERO DE 1996.
 
-DECRETO NUM. 154, QUE REFORMA EL CODIGO DE PROCEDIEMIENTOS CIVILES DEL ESTADO DE NUEVO LEON, EN SUS ARTICULOS 22, III, FRACCIÓN VIII, 935, 936, 937 Y 938, Y SE ADICIONA UN ARTÍCULO 938 BIS.
+DECRETO NUM. 154, QUE REFORMA EL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON, EN SUS ARTICULOS 22, III, FRACCIÓN VIII, 935, 936, 937 Y 938, Y SE ADICIONA UN ARTÍCULO 938 BIS.
 
 ###### ARTICULO PRIMERO
 
@@ -7556,3 +7556,9 @@ P.O. 26 DE JUNIO DEL 2000.
 P.O. 13 DE OCTUBRE DEL 2000.
 
 ÚNICO: El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 30 DE NOVIEMBRE DE 2001.
+
+###### ARTÍCULO UNICO
+
+- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
