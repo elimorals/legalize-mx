@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1942-01-09"
+last_updated: "1943-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 1943.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -96,7 +96,9 @@ VII.- Los puentes:
 
 a).- Los ya constituídos o que se construyan sobre las líneas divisorias internacionales.
 
-b).- Los ya construídos o que se construyan sobre las vías generales de comunicación.
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 1943)</small>
+
+b).- Los ya construidos o que se construyan sobre vías generales de comunicación o sobre corrientes de jurisdicción federal.
 
 c).- La construcción de puentes se hará previo permiso de la Secretaría de la Defensa Nacional, otorgado por conducto de la Secretaría de Comunicaciones y Obras Públicas;
 
@@ -209,6 +211,10 @@ V.- Las embarcaciones que presten servicio público de cabotaje o de navegación
 VI.- Las aeronaves que hagan servicio internacional en los términos de las convenciones o tratados respectivos;
 
 VII.- Los vehículos destinados al servicio de transporte en los caminos, de acuerdo con los artículos relativos del Capítulo II del Título Segundo que se refiere a explotaciones de caminos.
+
+> <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 1943)</small>
+
+VIII.- Los puentes de carácter provisional y los definitivos de escasa importancia, a juicio de la Secretaría de Comunicaciones.
 
 ###### ARTICULO 10.
 
@@ -1326,7 +1332,9 @@ I.- Los interesados acompañarán a su solicitud el plano topográfico de la loc
 
 II.- Las concesiones para construir y explotar puentes que formen parte de camino particulares, se otorgarán por el mismo plazo señalado en la concesión del camino;
 
-III.- Las concesiones para construir y explotar puentes de carácter provisional, podrán otorgarse por el término improrrogable de cinco años como máximo;
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 1943)</small>
+
+III.- Los permisos para construir y explotar puentes de carácter provisional, podrán otorgarse por el término improrrogable de cinco años como máximo.
 
 IV.- En las concesiones se señalará el plazo en que deban presentarse los planos definitivos de la obra;
 
@@ -4119,6 +4127,10 @@ PRIMERO.- Entretanto se expide el Reglamento de la Comisión Consultativa de Tar
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
 D.O.F. 9 DE ENERO DE 1942.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 13 DE MARZO DE 1943.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
