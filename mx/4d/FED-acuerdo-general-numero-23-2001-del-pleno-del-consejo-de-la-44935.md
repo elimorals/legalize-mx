@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2003-12-16"
+last_updated: "2004-02-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE FEBRERO DE 2004.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -157,7 +157,9 @@ III.- TERCER CIRCUITO:
 
 2.- Cuatro tribunales unitarios con residencia en Guadalajara.
 
-3.- Dieciséis juzgados de distrito especializados en el Estado de Jalisco: nueve en materia penal, con sede en Puente Grande, Municipio de Juanacatlán; tres en materia administrativa y cuatro en materia civil, todos con residencia en Guadalajara.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 2/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2004)</small>
+
+3.- Diecinueve Juzgados de Distrito especializados en el Estado de Jalisco: nueve en materia penal, con sede en Puente Grande, Municipio de Juanacatlán; cinco en materia administrativa y cinco en materia civil, todos con residencia en Guadalajara.
 
 4.- Dos juzgados de distrito en el Estado de Colima, con sede en la ciudad del mismo nombre.
 
@@ -169,9 +171,9 @@ IV.- CUARTO CIRCUITO:
 
 2.- Dos tribunales unitarios con residencia en Monterrey.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 44/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 4/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE FEBRERO DE 2004)</small>
 
-3.- Diez juzgados de Distrito especializados en el Estado de Nuevo León: cuatro en materia penal, tres en materia administrativa, y tres en materias civil y de trabajo, todos con residencia en Monterrey.
+3.- Doce Juzgados de Distrito especializados en el Estado de Nuevo León: cinco en materia penal, tres en materia administrativa, y cuatro en materias civil y de trabajo, todos con residencia en Monterrey.
 
 V.- QUINTO CIRCUITO:
 
@@ -1190,5 +1192,37 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 D.O.F. 16 DE DICIEMBRE DE 2003.
 
 PRIMERO.- Este acuerdo entrará en vigor el cuatro de enero de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE FEBRERO DE 2004.
+
+ACUERDO 1/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO III, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el veintinueve de febrero de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE FEBRERO DE 2004.
+
+ACUERDO 2/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO III, NUMERO 3.
+
+PRIMERO.-Este acuerdo entrará en vigor el uno de marzo de dos mil cuatro.
+
+SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE FEBRERO DE 2004.
+
+ACUERDO 3/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO IV, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de marzo de dos mil cuatro.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE FEBRERO DE 2004.
+
+ACUERDO 4/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO APARTADO IV, NUMERO 3.
+
+PRIMERO.- Este acuerdo entrará en vigor el uno de marzo de dos mil cuatro.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
