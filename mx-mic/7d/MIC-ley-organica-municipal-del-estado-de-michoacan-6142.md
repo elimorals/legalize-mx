@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-6142"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-08-05"
-last_updated: "1984-12-31"
+last_updated: "1992-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1992.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán de Ocampo, el jueves 5 de agosto de 1982.
 
@@ -367,17 +367,21 @@ Los Ayuntamientos son órganos colegiados de elección popular directa encargado
 
 Los Ayuntamientos del Estado tienen personalidad jurídica para todos los efectos legales.
 
-REFORMADO, P.O. 5 DE MARZO DE 1984)
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 13.
 
-Los Ayuntamientos se integrarán con un Presidente Municipal, un Síndico y 5 Regidores electos por el principio de mayoría relativa y hasta dos Regidores electos por el principio de representación proporcional, con excepción de los señalados en el artículo siguiente.
+Los ayuntamientos de los municipios de Apatzingán, Hidalgo, La Piedad, Lázaro Cárdenas, Morelia, Uruapan, Zacapu, Zamora y Zitácuaro, se integrarán con un presidente, un síndico, siete regidores de mayoría relativa y hasta cinco de representación proporcional.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 1984)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 14.
 
-Los Ayuntamientos de los Municipios de Apatzingán, Coalcomán de Vázquez Pallares, Hidalgo, Huetamo, Jacona, Jiquilpan, La Piedad, Lázaro Cárdenas, Los Reyes, Maravatío, Morelia, Pátzcuaro, Puruándiro, Sahuayo, Tacámbaro, Uruapan, Zacapu, Zamora, Zinapécuaro y Zitácuaro, se compondrán de un Presidente, un Síndico y siete Regidores, electos por el principio de representación proporcional.
+Los ayuntamientos de los municipios cabecera de distrito a que no se refiere el artículo anterior, así como los de Jacona, Sahuayo y Zinapécuaro, se integrarán con un presidente, un síndico y seis regidores electos por mayoría relativa y hasta cuatro regidores de representación proporcional.
+
+El resto de los ayuntamientos de los municipios del Estado, se integrarán con un presidente, un síndico, cuatro regidores por mayoría relativa y hasta tres regidores de representación proporcional.
+
+Por el Síndico y por cada regidor propietario se elegirá un suplente.
 
 ###### ARTICULO 15.
 
@@ -1496,3 +1500,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE DICIEMBRE DE 1984.
 
 UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 1992.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
