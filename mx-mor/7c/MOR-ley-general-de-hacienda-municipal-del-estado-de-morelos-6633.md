@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1989-01-25"
+last_updated: "1995-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -37,809 +37,439 @@ LA H. XLII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-# LIBRO PRIMERO. DE LA RELACION TRIBUTARIA
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-## TITULO PRIMERO
+# LIBRO PRIMERO
 
-### CAPITULO UNICO
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-DISPOSICIONES GENERALES.
+## TÍTULO PRIMERO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
+### CAPÍTULO ÚNICO
 
 ###### ARTICULO 1o.
 
-Los impuestos, derechos, productos, aprovechamientos, contribuciones especiales, participaciones y demás ingresos que perciban los Municipios, conforme a las Leyes de Ingresos respectivas se causarán de acuerdo a las disposiciones de esta Ley y demás Leyes Fiscales aplicables.
-
-Las percepciones anteriormente señaladas se establecen anualmente en la Ley de Ingreso Municipal respectiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 2o.
 
-Son ingresos del Municipio los percibidos por concepto de impuestos, derechos, productos, aprovechamientos, contribuciones especiales, participaciones y cualquier otro que incremente su patrimonio.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 3o.
 
-Son impuestos las prestaciones que fija esta Ley en dinero o en especie en forma unilateral y con carácter obligatorio a las personas cuya situación coincida con el hecho generador del crédito fiscal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 4o.
 
-Son derechos las contraprestaciones que se fijan conforme a esta Ley, en pago de servicios administrativos, o de otra índole que se presten.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 5o.
 
-Son productos los ingresos que el Municipio percibe, derivados de la enajenación y arrendamiento o concesión de bienes de su propiedad, así como de los que provengan de las inversiones que el mismo realice en actividades económicas de organismos descentralizados o cuando actúe como persona de derecho privado, así como aquellos derivados de la productividad que obtenga por inversiones en valores.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 6o.
 
-Son aprovechamientos los recargos, gastos de ejecución, multas y demás ingresos, no clasificables como impuestos, derechos o productos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 7o.
 
-Son contribuciones especiales las prestaciones que fija la Ley por el beneficio específico que experimenta el obligado con motivo de la ejecución de una obra pública.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 8o.
 
-Son Participaciones los ingresos que derivan del rendimiento de impuestos y derechos federales que corresponden al Municipio, conforme a las Leyes Federales y convenios de coordinación impositiva, en vigor.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 9o.
 
-Las Leyes y demás disposiciones tributarias o fiscales de carácter general entrarán en vigor el décimo quinto día siguiente al de su publicación en el Periódico Oficial del Estado, salvo que en ellas se establezca una vigencia distinta, en los plazos sobre la vigencia a que este artículo se refiere, se computarán los días inhábiles.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 10.
 
-No podrá exigirse pago alguno que no se encuentre previsto en este ordenamiento, en la Ley de Ingresos del Estado, Ley de Ingresos del Municipio o en una Ley especial que haya sido previamente formulada y notificada su liquidación al contribuyente.
-
-Cuando se establezca un nuevo gravamen en este ordenamiento, en la Ley de Ingresos del Municipio o en alguna Ley especial, para que entre en vigor en el Ejercicio en el que se aprueba por la Legislatura local o en el siguiente, no será necesario que se incluya en la Ley de Ingresos correspondiente al Ejercicio en que entra en vigor.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 11.
 
-La aplicación de las Leyes y demás disposiciones tributarias o fiscales estará a cargo del Presidente Municipal, quien ejercerá estas facultades por conducto de la Tesorería Municipal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 12.
 
-Las Leyes tributarias expedidas, serán de aplicación estricta.
-
-Cuando los vocablos contenidos en la presente Ley y demás disposiciones fiscales o tributarias de carácter general, tengan más de una acepción, se estará en primer término, a la de carácter gramatical y a falta de ésta, a la de carácter técnico jurídico, buscando en todo caso, el equilibrio que debe existir entre los intereses del Municipio y de los particulares.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 13.
 
-La ignorancia de las Leyes, Reglamentos y demás disposiciones fiscales de observancia general, debidamente promulgadas y publicadas, no excusa de su cumplimiento. Sin embargo, en todos los casos en los que el incumplimiento de las obligaciones fiscales pueda atribuirse al alejamiento de las vías de comunicación o a incultura de los habitantes de una región, a insuficiencia económica y a otras causas excluyentes de mala fe, el Presidente Municipal podrá conceder en forma general o en forma especial, términos adicionales para el cumplimiento de las obligaciones fiscales y podrá eximir a los infractores de las sanciones correspondientes a reducir éstas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-## TITULO SEGUNDO. DE LAS OBLIGACIONES TRIBUTARIAS
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO PRIMERO. DE LOS SUJETOS Y DEL DOMICILIO
+## TITULO SEGUNDO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO PRIMERO
 
 ###### ARTICULO 14.
 
-Sujeto pasivo de un crédito fiscal es la persona física o moral, mexicana o extranjera que, de acuerdo con las Leyes, está obligada al pago de una prestación determinada al físico (sic) municipal.
-
-También es sujeto pasivo cualquier agrupación que constituya una unidad económica diversa de la de sus miembros. Para la aplicación de las Leyes fiscales, se asimilan estas agrupaciones a las personas morales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 15.
 
-Son responsables solidarios:
-
-I.- Quienes en los términos de las Leyes estén obligados al pago de la misma prestación fiscal;
-
-II.- Quienes manifiesten su voluntad de asumir responsabilidad solidaria;
-
-III.- Los copropietarios, los coposeedores o los participantes en derechos mancomunados, respecto de los créditos fiscales derivados del bien o derecho en común y hasta el monto del valor de éste. Por el excedente de los créditos fiscales cada uno quedará obligado en la proporción que le corresponda en el bien o derecho mancomunado;
-
-IV.- Las personas a quien se imponga la obligación de retener o recaudar créditos fiscales a cargo de terceros;
-
-V.- Quienes deban recabar documentos en los que conste el pago si no cumplen con esta obligación;
-
-VI.- Los propietarios de negociaciones comerciales, industriales, agrícolas, ganaderas, pesqueras y mineras, créditos o concesiones respecto de las prestaciones fiscales que en cualquier tiempo se hubieran causado en relación con dichas negociaciones, créditos o concesiones, sin que la responsabilidad exceda del valor de los bienes, salvo que se demuestre, proceder fraudulentamente con el fisco municipal, en cuyo caso su responsabilidad solidaria se establecerá hasta por el total del crédito fiscal más sus accesorios.
-
-VII.- Los legatarios y los donatarios a título particular respecto de los créditos fiscales que se hubieren causado en relación con los bienes legados o donados, hasta por el monto de éstos;
-
-VIII.- Los terceros que para garantizar obligaciones fiscales ajenas, constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía cuando así fuere pactado.
-
-IX.- Los funcionarios públicos, Notarios y Corredores Públicos que autoricen algún acto jurídico o den trámite a algún documento si no se cercioran de que se han cubierto los impuestos o derechos respectivos, o no den cumplimiento a las disposiciones correspondientes que regulan el pago de gravamen;
-
-X.- Los adquirentes de propiedades en fraccionamientos regulares, y;
-
-XI.- Las demás que señalen las Leyes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 16.
 
-Están exentos de pagos de impuestos y contribuciones especiales los bienes del dominio público de la Federación, de los Estados y de los Municipios.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 17.
 
-Para los efectos fiscales se considera como domicilio de los sujetos pasivos o responsables solidarios el que establezcan las Leyes tributarias y en su defecto, los siguientes:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-I.- De las personas físicas:
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-El lugar donde se encuentra establecido el principal asiento de su negocio o actividad; a falta de éste, su casa habitación; a falta de los dos anteriores, el lugar en que se hubiere realizado el hecho generador del crédito fiscal.
-
-II.- Tratándose de personas morales; unidades económicas o agrupaciones en general:
-
-El lugar en que esté establecida su administración principal, en su defecto en (sic) lugar en que se encuentre su principal establecimiento; y a falta de éstos, el lugar en que se hubiere realizado el hecho generador del crédito fiscal.
-
-III.- Tratándose de personas físicas, morales, unidades económicas o agrupaciones en general, residentes o establecidos fuera de la Entidad, que realicen actividades gravadas en el Municipio a través de terceros, cualquiera que sea el nombre con el que se les designe, se considerará como su domicilio el de esas terceras personas.
-
-### CAPITULO SEGUNDO. DEL NACIMIENTO DE LAS PRESTACIONES Y DETERMINACION DE LOS CREDITOS FISCALES
+### CAPITULO SEGUNDO
 
 ###### ARTICULO 18.
 
-Las prestaciones fiscales nacen en el momento en que se realice el hecho previsto en esta Ley.
-
-Dichas prestaciones se determinarán y liquidarán conforme a las disposiciones vigentes en el momento de su nacimiento, pero les serán aplicables las normas sobre procedimientos que se expidan con posterioridad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 19.
 
-La declaración de la existencia de prestaciones tributarias y su determinación en cantidad líquida lo harán los sujetos pasivos o responsables solidarios, salvo que este ordenamiento señale expresamente que la determinación corresponda a la autoridad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 20.
 
-Cuando en atención a la naturaleza y características de las operaciones que realicen los sujetos pasivos no sea posible dentro de los procedimientos ordinarios precisar con exactitud el ingreso o actividad gravable, la Tesorería del Municipio procederá en los términos de los Artículos 58 y 61 de esta Ley.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-El caso de oposición del causante, se estará a lo dispuesto en el Artículo 59 de esta Ley.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO TERCERO. DE LA EXTINCION DE LOS CREDITOS FISCALES
+### CAPITULO TERCERO
 
 ###### ARTICULO 21.
 
-El crédito fiscal es la prestación determinada en cantidad líquida y debe pagarse en la fecha o dentro del plazo señalado en las disposiciones respectivas.
-
-A falta de disposición expresa, el pago deberá hacerse dentro de los quince días naturales siguientes:
-
-I.- Al nacimiento de la prestación, si corresponde a los sujetos pasivos o responsables solidarios el determinar en cantidad líquida; y
-
-II.- A la fecha de la notificación de la liquidación si corresponde a la autoridad el formularla.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 22.
 
-La falta de pago de un crédito fiscal en la fecha o plazo establecido en las disposiciones respectivas, determina que el mismo sea exigible.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 23.
 
-El Presidente Municipal podrá conceder prórroga para el pago de los créditos fiscales o autorización para que sean cubiertos en parcialidades cuando se trate de situaciones excepcionales, casos en los cuales el término podrá ser hasta tres años, previo acuerdo de Cabildo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 24.
 
-En los casos a que se refiere el precepto anterior deberá garantizarse el crédito fiscal, salvo cuando, en relación con el monto del crédito fiscal, sea notoria la amplia solvencia del deudor o existan situaciones excepcionales que justifiquen la dispensa.
-
-Durante los plazos concedidos se causarán intereses conforme a la tasa que fije esta Ley, o de la que fije anualmente la Ley de Ingresos del Municipio, cualquiera que sea mayor de las dos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 25.
 
-Cesará la prórroga o la autorización para pagar en parcialidades y el crédito fiscal será inmediatamente exigible:
-
-I.- Cuando desaparezca o resulte insuficiente la garantía del crédito;
-
-II.- Cuando el deudor sea declarado en quiebra o solicite su liquidación judicial;
-
-III.- Cuando deje de cubrirse alguna de las parcialidades; y
-
-IV.- Cuando el interesado, durante la prórroga o la autorización incurra en incumplimiento de pagos derivados de este ordenamiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 26.
 
-Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos por concepto de indemnización al fisco municipal por la falta de pago oportuno.
-
-La tasa de los recargos será del doble de la que se fije conforme a lo dispuesto por el Artículo 24 de este Ordenamiento debiendo causarse por cada mes o fracción que transcurra a partir de la fecha de exigibilidad hasta que se efectúe el pago. Los recargos no excederán de 200% del importe del crédito fiscal de que se trate.
-
-Los créditos retenidos que no se enteren con puntualidad, causarán recargos que ascenderán hasta el 300% del importe del crédito fiscal de que se trate.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 27.
 
-El pago de los créditos fiscales deberá hacerse en efectivo, salvo que las disposiciones aplicables establezcan que se haga en especie.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 28.
 
-Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo, excepcionalmente se aceptará como medio de pago los cheques de cuentas personales de los contribuyentes, pero la falta de pago a su presentación por la institución a cuyo cargo se hubiere librado, por causa imputable al librador, dará derecho a la Tesorería Municipal a exigir el pago del importe del mismo y una indemnización del 20% del importe del cheque, sin menoscabo del pago de los recargos correspondientes.
-
-La indemnización, el importe del cheque y los recargos se harán efectivos mediante el procedimiento administrativo de ejecución.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 29.
 
-Cuando el crédito fiscal esté constituido por diversos conceptos, los pagos que haga el deudor se aplicarán conforme al siguiente orden:
-
-I.- Los gastos de ejecución;
-
-II.- Los recargos y multas; y
-
-III.- Los impuestos, contribuciones especiales y derechos, distintos a los señalados en las fracciones anteriores.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 30.
 
-Podrá hacerse el pago de créditos tributarios bajo protesta cuando la persona que lo haga lo entere con inconformidad e intente, en su oportunidad, los recursos o medios de defensa respectivos.
-
-Las autoridades, a solicitud del interesado expresada en el momento de hacer el pago, deberán hacer constar que el pago se hizo bajo protesto, a falta de esta constancia, bastará que el interesado, previa o simultáneamente al pago, exprese por escrito a la oficina receptora del Municipio que el pago se efectuó bajo protesto.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 31.
 
-El protesto quedará sin efecto y el pago se considerará definitivo, desde la fecha en que se hizo el entero respectivo, cuando no se intenten los medios de defensa respectivos, o fueren rechazados, o sobreseidos, o cuando la resolución que cause estado reconozca la procedencia del pago.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 32.
 
-El fisco municipal estará obligado a devolver las cantidades que hubieren sido pagadas indebidamente, cuando el pago de lo indebido haya tenido su origen en la autodeterminación del sujeto pasivo y que éste formule la reclamación respectiva.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 33.
 
-Cuando el pago hubiese sido hecho bajo protesto como inconformidad de la resolución de la autoridad, que determine la existencia de un crédito fiscal, lo fije en cantidad líquida o de las bases para su liquidación; el derecho a la devolución nace cuando dicha resolución quede insubsistente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 34.
 
-Cuando el sujeto pasivo haya enterado cantidades derivadas de operacions (sic) que no produjeron los ingresos que se gravaron o cuando se hayan enterado cantidades en exceso de las que legalmente se estaba obligado, y siempre que no haya habido repercusión o translación del crédito fiscal, tendrá derecho a la devolución de dichas cantidades.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 35.
 
-Para que se haga la devolución de cantidades pagadas indebidamente, será necesario:
-
-I.- Que se dicte acuerdo de la Tesorería Municipal;
-
-II.- Que el derecho a reclamar la devolución no se haya extinguido.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 36.
 
-Procede la compensación cuando tanto el Municipio como el sujeto pasivo son acreedores y deudores recíprocos por la aplicación de un mismo gravamen y siempre que las deudas del primero sean líquidas y exigibles. La compensación deberá autorizarse por la Tesorería del Municipio a petición del interesado.
-
-Cuando los créditos y las deudas no procedan de la aplicación de los mismos gravámenes, la Tesorería del Municipio apreciará discrecionalmente la conveniencia de autorizar la compensación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 37.
 
-Procederá la condonación total o parcial de créditos fiscales cuando se haya afectado o trate de impedirse se afecte la situación de alguna región del Municipio o de alguna rama de las actividades económicas.
-
-El Presidente Municipal, mediante disposiciones de carácter general determinará el monto o porcentaje de los créditos que se condonen, los sujetos que gozarán del beneficio, la región o las ramas favorecidas, así como los requisitos que deban satisfacerse y el período de vigencia de los beneficios.
-
-El Presidente Municipal, a través de la Tesorería del Municipio queda facultado para:
-
-I.- Reducir la base gravable de las contribuciones, cuando lo estime conveniente como medida de equilibrio fiscal, cuando se trate de ampliación o creación de fuentes de trabajo y previo acuerdo de cabildo.
-
-II.- Celebrar convenios de regularización fiscal por ejercicios anteriores, con lo que podrá condonar total o parcialmente la aplicación de recargos y sanciones a los infractores de la legislación tributaria.
-
-III.- Cancelar en la vía administrativa las exenciones y franquicias fiscales, cuando previa audiencia con el contribuyente, quede comprobado que éste ha dejado de dar cumplimiento a los requisitos condicionales del otorgamiento de ellas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 38.
 
-Las multas que hubieren quedado firmes deberán ser condonadas totalmente si por pruebas presentadas ante las autoridades administrativas o jurisdiccionales, en su caso, demuestre que no se cometió la infracción.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 39.
 
-Las multas por infracción a las disposiciones tributarias podrán ser condonadas parcialmente por la Tesorería Municipal, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 40.
 
-Las facultades del fisco municipal para determinar la existencia de obligaciones tributarias, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracción a las disposiciones fiscales, así como las facultades de verificar el cumplimiento o incumplimiento de dichas disposiciones y los créditos tributarios a favor del mismo fisco por impuestos, contribuciones especiales y derechos, así como los accesorios de éstos y multas de naturaleza tributaria, se extinguen por prescripción o término de cinco años, debiendo de mediar en todo caso, petición expresa y fundada por escrito del contribuyente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 41.
 
-El término de la prescripción empezará a correr a partir:
-
-I.- Del día siguiente al en que hubiese vencido el plazo establecido por las disposiciones fiscales para presentar declaraciones, manifestaciones o avisos.
-
-II.- Del día siguiente al en que se produjo el hecho generador del crédito fiscal, si no existiera obligación de presentar declaraciones, manifestaciones o avisos.
-
-III.- Del día siguiente al en que se hubiere cometido la infracción a las disposiciones fiscales; pero si la infracción fuere de carácter continuo, el término correrá a partir del día siguiente en que hubiere cesado; y
-
-IV.- Del día en que el crédito pudo ser legalmente exigido.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 42.
 
-El término de la prescripción se interrumpe en favor del fisco:
-
-I.- Por cualquier gestión de la autoridad tendiente a la determinación del crédito, a la investigación de infracciones, a la imposición de sanciones o al cobro de los créditos y multas, siempre que haya sido notificada o hecha saber al deudor o infractor; y
-
-II.- Por cualquier acto del deudor o del infractor, expreso o tácito, reconociendo la existencia del crédito; de los hechos constitutivos de las infracciones, o de las sanciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 43.
 
-La obligación del fisco para devolver cantidades pagadas indebidamente, prescribe en el término de dos años.
-
-El plazo se interrumpe por cualquier gestión del particular ante la autoridad fiscal tendiente a la determinación o cobro de dichas cantidades, o por cualquier acto de la autoridad en que se reconozca la existencia de las cantidades que se reclaman.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 44.
 
-De los requisitos señalados en los dos artículos anteriores deberán existir constancia por escrito.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 45.
 
-Prescribe en cinco años la obligación de conservar a disposición de las autoridades fiscales los libros de contabilidad, los registros y documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con los pagos o enteros de los créditos fiscales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 46.
 
-La cancelación de créditos tributarios de las cuentas públicas por incosteabilidad del cobro o por insolvencia del deudor, no libera a éste de su obligación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-## TITULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS SUJETOS
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO PRIMERO. DE LOS SUJETOS PASIVOS Y RESPONSABLES SOLIDARIOS
+## TITULO TERCERO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO PRIMERO
 
 ###### ARTICULO 47.
 
-Los interesados directamente en situaciones reales y concretas que planteen consulta sobre la aplicación o interpretación de las disposiciones tributarias, tendrán derecho a que las autoridades competentes dicten resolución sobre tales consultas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 48.
 
-Toda consulta o petición que se formule a las autoridades fiscales deberá ser resuelta en el plazo que esta Ley fija, o a la falta de término establecido, en noventa días.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 49.
 
-Las resoluciones a los particulares no podrán ser revocados o nulificadas por las autoridades en perjuicio de los interesados, salvo que expresamente se contemple en la resolución correspondiente, o que mediante disposiciones generales se revoquen resoluciones anteriores que afecten a la hacienda municipal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 50.
 
-Los sujetos que habitualmente tengan obligación de pagar, retener o recaudar impuestos, deberán inscribirse en el registro municipal de contribuyentes, dentro de los quince días hábiles siguientes al inicio de sus actividades, salvo que las leyes tributarias señalen otro plazo.
-
-Quedan exceptuadas de la obligación de inscribirse, los sujetos a que alude el Artículo 16 de este Ordenamiento, sin menoscabo de la obligación de retener o de recaudar créditos tributarios en los casos que lo dispongan las Leyes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 51.
 
-Quienes deban registrarse lo harán en las tesorerías municipales de su localidad, las que deberán proporcionarles su cédula de registro.
-
-La cédula de registro que se les otorgue deberá estar colocada en lugar visible del establecimiento y a falta de este conservarse en el domicilio fiscal del interesado, debiendo citarse en toda promoción que se haga ante las autoridades fiscales.
-
-La Tesorería Municipal, conforme a disposiciones reglamentarias, tendrá a su cargo el registro de los sujetos pasivos y de los responsables solidarios, conforme a la técnica que considere adecuada.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 52.
 
-Los sujetos pasivos y los responsables solidarios darán aviso a la Tesorería Municipal dentro de los quince días hábiles siguientes a aquel en que ocurran los siguientes cambios:
-
-I.- Del domicilio, excepción hecha de quienes sólo causen impuestos que deban ser retenidos o recaudados;
-
-II.- De razón o denominación social, al que acompañarán copia de la escritura correspondiente;
-
-III.- De sus actividades, o bien, cuando aumenten o disminuyan el giro de las mismas;
-
-IV.- De la suspensión temporal de las actividades y de la reanudación de las mismas; y
-
-V.- De traspaso de la negociación, clausura definitiva, liquidación o cesación de operaciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 53.
 
-En tratándose de los avisos a que alude la fracción V del Artículo anterior, se deberá señalar el lugar donde se conservarán a disposición de las autoridades fiscales, los libros de contabilidad, registros y documentación comprobatoria de sus operaciones.
-
-En caso de cambio de dicho lugar, deberá igualmente presentarse aviso respectivo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 54.
 
-Los sujetos pasivos y los responsables solidarios que tengan obligación de presentar avisos, declaraciones o manifestaciones lo harán dentro del plazo que señalen las Leyes y a falta de término, lo harán dentro de los quince días hágiles (sic) siguientes a la realización del hecho de que se trate, debiendo devolverse al interesado una copia sellada de su escrito.
-
-Los avisos, declaraciones o manifestaciones se harán en las formas oficiales que deberá proporcionar la Tesorería Municipal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 55.
 
-Los sujetos pasivos están obligados a llevar los libros de contabilidad y registro que satisfagan las siguientes reglas:
-
-I.- Los registros contables previamente a su utilización deberán estar autorizados por la Tesorería Municipal;
-
-II.- Los asientos en la contabilidad deberán efectuarse dentro de los sesenta días naturales siguientes a la fecha en que se realicen las operaciones respectivas;
-
-III.- Los registros y documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con los pagos o enteros de los créditos tributarios, deberán conservarse en el domicilio del sujeto por un plazo de cinco años. En caso de clausura, traspaso o liquidación, el plazo se contará a partir de la fecha de las mismas; y
-
-IV.- Llevar los registros y libros especiales que señale este ordenamiento.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 56.
 
-Los sujetos pasivos que están obligados a registrarse deberán señalar al presentar su aviso de iniciación de actividades, el nombre de la persona o despacho que prestándoles sus servicios de manera independiente sea responsable de llevar su contabilidad o del cumplimiento de sus obligaciones tributarias, así como dar aviso del cambio de esa persona física o moral, dentro de los quince días hábiles siguientes a aquel en que ello ocurra.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-### CAPITULO SEGUNDO. DE LAS AUTORIDADES
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO SEGUNDO
 
 ###### ARTICULO 57.
 
-La Tesorería Municipal promoverá la colaboración de los organismos de contribuyentes y de los Colegios de Profesionistas para el estudio de los problemas de carácter general que aquejan a los particulares en el cumplimiento de sus obligaciones tributarias y buscar la solución de los mismos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 58.
 
-Queda facultada la Tesorería Municipal para cerciorarse del cumplimiento de las obligaciones tributarias y determinar, en su caso, los créditos fiscales omitidos. Para ello, podrá:
-
-I.- Practicar visitas domiciliarias a los sujetos pasivos y responsables solidarios o terceros relacionados con ellos para la revisión de su contabilidad y documentación relacionada con las operaciones gravadas, bienes y mercancías; y
-
-II.- Solicitar a los sujetos pasivos, responsables solidarios o terceros, información relacionada con el cumplimiento de las obligaciones tributarias.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 59.
 
-La Tesorería Municipal para hacer cumplir sus determinaciones, podrá aplicar multas de apremio de $1,000.00 a $50,000.00 y si persiste la desobediencia, podrá consignar los hechos ante la autoridad competente, por desobediencia a un mandato legítimo de autoridad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 60.
 
-Para la comprobación de la situación tributaria del sujeto pasivo se presumirá, salvo prueba en contrario:
-
-I.- Que todo libro, registros, documentación comprobatoria de ingresos o egresos y correspondencia que se encuentre en su poder, corresponde a operaciones celebradas por él;
-
-II.- Que las diferencias entre los activos registrados en contabilidad y las existencias reales corresponden a ingresos o actividades gravables del último ejercicio que se revisa. Para esta comprobación, la autoridad fiscal municipal se asistirá del personal técnico que se requiera.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 61.
 
-Cuando por causas imputables al sujeto pasivo no sea posible determinar su situación tributaria, la Tesorería Municipal la estimará tomando en consideración:
-
-Los impuestos pagados a la Federación o al Estado; la renta del local que ocupa la negociación, despacho o establecimiento, importe de la energía eléctrica consumida, número de empleados que tenga a su servicio y sueldos pagados, libros, documentos e informes que le proporcione el contribuyente, las razones que exponga y pruebas que aporte, y en general, todos aquellos datos conducentes a la determinación de los ingresos realmente percibidos.
-
-Se incurre en esta causal de estimación:
-
-I.- Cuando los libros de contabilidad o registros autorizados se encuentren en blanco, extraviados o atrasados en los términos del Artículo 55 Fracción II de esta Ley.
-
-II.- Cuando no exista documentación que respalde lo que consignan los libros o registros autorizados.
-
-III.- Cuando se omita registrar todas las operaciones.
-
-IV.- Cuando se lleve doble juego de libros de contabilidad o registros con anotaciones distintas, en perjuicio del fisco a los que consignen los autorizados; y
-
-V.- Cuando el sujeto pasivo se niegue a proporcionar información o documentación que permita determinar su situación tributaria.
-
-Lo dispuesto en este precepto no modifica los procedimientos para determinar o estimar la situación fiscal de los sujetos pasivos que contienen otras disposiciones tributarias.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 62.
 
-Para verificar el cumplimiento de las obligaciones tributarias a cargo de los sujetos pasivos o responsables solidarios la Tesorería Municipal podrá ordenar la práctica de visitas domiciliarias, las que se sujetarán a lo siguiente:
-
-I.- La orden de visita deberá constar por escrito, estar firmada por el Tesorero Municipal y contendrá:
-
-a).- El nombre de la persona o personas que deban recibir la visita y el lugar donde ésta deba llevarse a cabo. Cuando se ignore el nombre de la o las personas que deban ser visitadas se señalarán datos suficientes que permitan su identificación.
-
-b).- El nombre de la persona o personas que practicarán las diligencias, las cuales podrán ser sustituidas por la autoridad que expidió la orden, y en este caso se comunicará por escrito al visitado el nombre de los sustitutos, la visita podrá ser realizada conjunta o indistintamente por las personas facultadas para practicar las diligencias.
-
-c).- Las contribuciones de cuya verificación se trate y, en su caso los ejercicios, a los que deberá limitarse la visita. La visita podrá ser de carácter general para verificar el cumplimiento de las disposiciones tributarias durante cierto tiempo o bien, concretarse únicamente a determinados aspectos.
-
-II.- Al iniciarse la visita se entregará la orden al visitado o a su representante y si no estuvieren presentes, a quien se encuentre en el lugar en que debe practicarse la diligencia se le dejará citatorio para que el mencionado visitado o su representante legal los espere a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado, los visitadores acreditarán su personalidad.
-
-Cuando exista peligro de que el visitado o su representante legal se ausenten o puedan realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
-
-III.- Los libros, registros y documentos serán examinados en los domicilios, indicados en la orden de visita. Para tal efecto, el visitado representante legal, deberá mantenerlos a disposición de los visitadores desde el momento de la iniciación de la visita hasta su terminación. La Tesorería Municipal tomará las medidas necesarias para el cumplimiento de este precepto, inclusive el secuestro de libros, registros y documentos para examinarlos en las oficinas de la autoridad fiscal, cuando así se requiera. En este último caso, se levantará acta parcial al respecto.
-
-En los libros, registros y documentos, se pondrá la razón circunstanciada haciendo constar las infracciones u omisiones en que hubiera incurrido el causante y que firmarán las personas que intervienen en la visita:
-
-a).- Cuando únicamente existan libros, registros o sistemas de contabilidad que no estén autorizados;
-
-b).- Cuando se encuentren libros, registros o sistemas de contabilidad autorizados que estén en blanco; y
-
-c).- Cuando se encuentren libros, registros o sistemas de contabilidad cuyos asientos o datos no coincidan con los de los autorizados.
-
-IV.- Los visitadores harán constar en el acta los hechos u omisiones observados y al concluir la visita, cerrarán el acta haciendo constar los resultados en forma circunstanciada. Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones tributarias o sobre la situación financiera del visitado, no producirán efecto de resolución tributaria.
-
-V.- El visitado o la persona con la que se entiende la diligencia, los testigos y los visitadores firmarán el acta.
-
-Si el visitado o los testigos se niegan a firmar, así lo harán constar los visitadores, sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso al visitado o la persona con la que se entienda la diligencia.
-
-VI.- Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión; y
-
-VII.- El visitado o quien lo represente, deberá expresar por escrito dentro de los 45 días naturales siguientes al cierre del acta final, ante la Tesorería Municipal, las razones de su inconformidad, expresada en forma circunstanciada; acompañando las pruebas pertinentes, las que deberán rendir simultáneamente a su inconformidad; el plazo para rendir pruebas podrá ampliarse a instancia justificada del interesado a juicio de la autoridad competente, para darle oportunidad de presentar pruebas supervenientes. Si tampoco se ofrecen éstas, se tendrá al visitado por conforme con los hechos asentados de su conclusión.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 63.
 
-Los hechos afirmados en los dictámenes que formulen Contadores Públicos sobre los estados financieros y su relación con las declaraciones tributarias se presumirán ciertos, salvo prueba en contrario; si se reunen los siguientes requisitos:
-
-I.- Que el Contador Público que dictamine esté registrado en la Tesorería Municipal.
-
-Se inscribirá para estos efectos a las personas que tengan título de Contador Público registrado en la Dirección General de Profesiones de la Secretaría de Educación Pública o en la Dirección de Educación Pública del Estado y que sean miembros de algún cuerpo colegiado de contadores.
-
-II.- Que el dictamen se formule de acuerdo con las disposiciones tributarias, y en su defecto, conforme a las normas y procedimientos de auditoría generalmente aceptados. La Tesorería Municipal podrá cerciorarse mediante revisión o pruebas selectivas del cumplimiento de esta fracción.
-
-III.- Que el Contador Público emita conjuntamento (sic) con su dictamen un informe sobre la revisión de la situación fiscal del contribuyente en el que consigne bajo protesta de decir verdad, los datos y requisitos que fijen en materia tributaria esta Ley y otras disposiciones fiscales tanto federales, estatales como municipales.
-
-Las opiniones e interpretaciones contenidas en los dictámenes serán aceptados o rechazados razonada y fundadamente por la Tesorería Municipal, para determinar la situación de los sujetos pasivos o responsables solidarios y expedir las liquidaciones de impuestos omitidos que corresponde, en forma proporcional y equitativa.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 64.
 
-Cuando el causante niegue lisa y llanamente los hechos que motiven los actos y resoluciones que dicte la autoridad fiscal, corresponde a esta el allegarse pruebas conducentes de acuerdo con las facultades que esta Ley le concede para precisar la situación del contribuyente a fin de que pueda fundamentar sus determinaciones, a menos que la negativa implique una afirmación; en este caso, la carga de la prueba corresponde al contribuyente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 65.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-Dicha reserva no comprenderá los casos que señalen las Leyes tributarias y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias y en general, a otras autoridades cuando para ello exista disposición expresa en cualquier ordenamiento, que imponga al fisco municipal la obligación de proporcionar los datos o informes solicitados.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO TERCERO. DE LOS TERCEROS
+### CAPITULO TERCERO
 
 ###### ARTICULO 66.
 
-La representación de la personalidad del contribuyente se acreditará en términos de la legislación aplicable según su naturaleza, en caso de que exista disposición expresa, se acreditará conforme al derecho común, pero los sujetos pasivos podrán autorizar mediante poder notarial, a la persona o personas que a su nombre reciban notificaciones, ofrezcan y rindan pruebas e interpongan recursos dentro del procedimiento administrativo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 67.
 
-Las personas o Empresas que tengan o hayan tenido relaciones financieras o bancarias con los negocios de sujetos pasivos o responsables solidarios, están obligados a exhibir ante las autoridades fiscales los asientos de contabilidad, la documentación y la correspondencia que se refiere a las operaciones realizadas con aquellos, así como a proporcionar toda información que en relación con dichas personas se les solicite.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 68.
 
-Las autoridades que tengan o hayan tenido relaciones con alguno o algunos de los sujetos pasivos o responsables solidarios, deberán auxiliar a la Tesorería Municipal suministrándole los informes y datos que solicite para la aplicación de las Leyes tributarias.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 69.
 
-Es obligación de las personas o despachos que tengan a su cargo la contabilidad de los sujetos pasivos llevarlos en el orden en que consignen todas las operaciones que se celebren, así como de dar oportuno cumplimiento de las obligaciones tributarias a cargo de dichos sujetos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-## TITULO CUARTO. DE LAS OMISIONES
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO PRIMERO. DE LAS INFRACCIONES
+## TITULO CUARTO
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO PRIMERO
 
 ###### ARTICULO 70.
 
-Son infracciones cuya responsabilidad recae sobre los sujetos pasivos:
-
-I.- No cumplir con las obligaciones que señalan las disposiciones tributarias de inscribirse o hacerlo fuera de los plazos legales;
-
-II.- No citar su número de registro de contribuyentes en las declaraciones, manifestaciones o avisos, promociones, solicitudes o gestiones que hagan ante cualquiera oficina o autoridades;
-
-III.- Obtener o usar más de un número de registro de contribuyentes para el cumplimiento de las obligaciones a su cargo;
-
-IV.- Utilizar interpósita persona para manifestar negociaciones propias para percibir ingresos gravables, dejando de pagar los impuestos correspondientes;
-
-V.- No obtener oportunamente los permisos, placas, tarjetas de registro, libros o cualquier otro documento exigido por las Leyes Fiscales o no tenerlos en lugar que señalan dichas disposiciones;
-
-VI.- No devolver oportunamente a las autoridades que se determinen en las Leyes tributarias, los comprobantes de pago de una prestación tributaria, libros, placas, tarjetas, boletas, o cualquier otro documento cuya devolución sea exigida por dichas leyes;
-
-VII.- Producir, fabricar, transformar, almacenar o expeder (sic) artículos gravados y prestar servicios gravados sin cumplir con las obligaciones que establezcan las leyes tributarias;
-
-VIII.- Favorecer en cualquier forma al contribuyente para que eluda total o parcialmente sus obligaciones fiscales, permitir, sacar o mandar sacar de las fábricas, almacenes, bodegas o de las zonas señaladas por las leyes tributarias, artículos o productos, sin haberse cumplido previamente las obligaciones tributarias relativas;
-
-IX.- Transportar o almacenar productos o efectos gravados por las Leyes tributarias sin haber cumplido con las disposiciones que para esos casos establezcan las leyes;
-
-X.- No presentar para su autorización o hacerlo extemporáneamente, los libros o sistemas de contabilidad, cuando lo exijan las disposiciones tributarias;
-
-XI.- No llevar los sistemas de contabilidad que requieran las disposiciones tributarias, llevarlos en forma distinta como éstas disponen; no hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos, o inexactos, o fuera de los plazos respectivos;
-
-XII.- Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres o cantidades o datos falsos, alterar raspar o tachar en perjuicio del fisco cualquiera anotación, asiento o constancia hecha en la contabilidad, o mandar o consentir que se hagan esas, alteraciones, raspaduras o tachaduras;
-
-XIII.- Destruir o inutilizar los libros o registros contables, cuando no haya transcurrido el plazo durante el cual conforme a la Ley los deben conservar;
-
-XIV.- Llevar doble juego de libros con anotaciones distintas a los libros autorizados;
-
-XV.- No conservar los libros, documentos o correspondencia que le sean dejados en calidad de depositario, por los visitados, al estarse practicando visitas domiciliarias;
-
-XVI.- Faltar a la obligación de extender recibos facturas, o cualesquiera otros documentos que señalen las Leyes tributarias. No exigirlos cuando tengan obligación de hacerlo. No consignar por escrito los actos, contratos o convenios que de acuerdo con las disposiciones tributarias deban constar en esa forma;
-
-XVII.- No presentar o no proporcionar, o hacerlo extemporáneamente los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos o aclararlos en tiempo cuando las autoridades tributarias lo soliciten;
-
-XVIII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la Fracción anterior, falsificados, alterados, incompletos, con errores, que traigan consigo la evasión de una prestación tributaria;
-
-XIX.- No pagar los impuestos, contribuciones y derechos, dentro de los plazos señalados por las leyes tributarias;
-
-XX.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitud, simulaciones, falsificaciones y otras maniobras;
-
-XXI.- Declarar ingresos menores de los percibidos; hacer deducciones falsas; ocultar y omitir bienes existencias que deban figurar en los inventarios en su caso, listarlos a precios inferiores a los reales; no practicar los inventarios y balances que prevengan las disposiciones tributarias o hacerlo fuera de los plazos que éstas dispongan;
-
-XXII.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos e informes que legalmente puedan exigir los inspectores; no mostrar los sistemas de contabilidad; documentos registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia, y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación tributaria del visitado, en relación con el objeto de la visita; y
-
-XXIII.- Faltar en cualquiera otra forma no prevista en las fracciones anteriores al cumplimiento de las obligaciones que les imponen esta Ley y cualquiera otra disposición tributaria, inclusive destruir los sellos oficiales colocados por las autoridades o tratar de impedir que se logren los propósitos para los que fueron colocados.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 71.
 
-Son infracciones cuya responsabilidad recae sobre los responsables solidarios:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-I.- No cumplir las obligaciones que señalan las disposiciones tributarias de inscribirse o registrarse;
-
-II.- No presentar, o hacerlo extemporáneamente, los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones tributarias, no comprobarlos y aclararlos cuando las autoridades tributarias lo soliciten;
-
-III.- Presentar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, falsificados, alterados, incompletos, con errores, que traigan consigo la evasión de una prestación tributaria;
-
-IV.- No enterar, dentro de los plazos que establezcan las disposiciones tributarias, el importe de prestaciones tributarias retenidas, recaudadas o que se debieron retener y recaudar;
-
-V.- No cerciorarse, al transportar artículos gravados, del pago de los créditos tributarios que se hayan causado, cuando las disposiciones legales impongan esa obligación o efectuar el transporte sin la documentación que exijan esas disposiciones;
-
-VI.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos e informes que legalmente pueden exigir los visitadores; no mostrar los sistemas de contabilidad, documentos, registros e impedir el acceso a los almacenes, depósitos, bodegas y cualquiera otra dependencia, y en general no proporcionar los elementos que se requieran para cumplir con el objeto de la visita; y
-
-VII.- Faltar en cualquiera otra forma no prevista en las fracciones anteriores, al cumplimiento de las obligaciones que impone esta Ley y cualquiera otra disposición tributaria, inclusive destruir los sellos oficiales colocados por las autoridades o tratar de impedir que se logren los propósitos para los que fueron colocados.
-
-ARTICULO 71 BIS.- Son infracciones a cargo de personas que tengan fe pública:
-
-I.- Autorizar, asentar en el protocolo, en el libro de registro escrituras, minutas, actos o contratos, sin cumplir o cerciorarse previamente de que se han cumplido las disposiciones tributarias o sin dar los avisos que prevengan las leyes;
-
-II.- Extender a las personas a que se refiere la fracción anterior constancia de haberse cumplido con las disposiciones tributarias en los actos en que intervengan, cuando no proceda su otorgamiento;
-
-III.- No pagar los impuestos, derechos y demás prestaciones fiscales dentro de los plazos señalados y que hubieran recibido como consecuencia de sus funciones.
+ARTICULO 71 BIS.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 72.
 
-Son infracciones cuya responsabilidad recae sobre los terceros:
-
-I.- Consentir o tolerar que se inscriban a su nombre negociaciones ajenas;
-
-II.- Percibir a nombre propio ingresos gravables que correspondan a otra persona cuando esto traiga como consecuencia comisión de créditos tributarios;
-
-III.- No presentar, no exhibir los avisos, informes, datos, declaraciones, documentos, o el no hacerlo dentro del plazo fijado por las disposiciones tributarias, o cuando las autoridades las exijan con apoyo de sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten;
-
-IV.- Presentar los informes, datos y documentos a que se refiere la fracción anterior, incompletos, inexactos, alterados o falsificados;
-
-V.- Autorizar, hacer constar documentos, inventarios, balances, asientos y datos falsos cuando actúen como contadores independientes bajo cualquier función, testigos o peritos;
-
-VI.- Asesorar, aconsejar a los sujetos pasivos para evadir el pago de una prestación fiscal o para infringir las disposiciones tributarias; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan, o expedir dictámenes de estados financieros para efectos tributarios que no reflejen la situación tributaria correcta del sujeto pasivo o responsable solidario;
-
-VII.- Cooperar en cualquier otra forma no prevista en las fracciones anteriores, en la comisión de infracciones tributarias;
-
-VIII.- Adquirir, ocultar, conservar o enajenar, productos, mercancías o artículos a sabiendas de que no se cubrieron los créditos tributarios que en relación con los mismos se hubieran debido pagar;
-
-IX.- Destruir los sellos oficiales colocados por los empleados y funcionarios públicos con la finalidad tributaria e impidan por cualquier maniobra que se logre el propósito para el que fueron colocados;
-
-X.- Poseer, enajenar, poner en circulación, en su caso, adherir en objetos, para el pago de una prestación fiscal: calcomanías, formas numeradas, placas o tarjetones, a sabiendas de que fueron impresas o gravadas sin autorización de la autoridad tributaria competente o bien de que fueron alteradas en su valor, año de emisión, leyenda o clase;
-
-XI.- Recibir o poseer documentos en los que no se haya cumplido con las disposiciones tributarias;
-
-XII.- Tratándose de funcionarios servidores públicos del Municipio, así como de los encargados de servicios públicos u órganos oficiales del mismo:
-
-a).- Dar curso a documentos o libros que carezcan en todo o en parte de los requisitos exigidos por las disposiciones tributarias.
-
-Esta responsabilidad será exigible aún cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución, si les correspondía hacerlo por razón de su cargo;
-
-b).- Las personas a que se refiere la fracción anterior que asienten falsamente que se ha dado cumplimiento a las disposiciones tributarias o que se practicaron visitas de inspección, o asentar hechos falsos en las actas relativas, no practicar las visitas de inspección cuando tengan obligación de hacerlo, alterar documentos que estén en su poder por razón a su cargo;
-
-c).- Las mismas personas a que se alude en las dos fracciones precedentes, incurran en los siguientes hechos u omisiones:
-
-1.- Recibir el pago de una prestación fiscal y no enterar su importe dentro del plazo legal;
-
-2.- No exigir el pago total de las prestaciones tributarias cuando tengan la obligación de hacerlo;
-
-3.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento, de acuerdo con las disposiciones tributarias;
-
-4.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan, revelar los datos declarados por los contribuyentes o aprovecharse de ellos. Los representantes de causantes que integren juntas calificadoras u órganos semejantes, se asimilan a los empleados o funcionarios públicos;
-
-5.- Exigir bajo el título de cooperación u otros semejantes cualquier prestación que no esté expresamente prevista en la ley aún cuando se aplique a la realización de las funciones propias de su cargo;
-
-6.- Inscribir o registrar documentos, instrumentos, libros, en los que no se hayan cumplido las disposiciones tributarias; y
-
-7.- Extender actas, expedir certificados, legalizar firmas, autorizar libros y documentos sin exigir de los interesados el cumplimiento de las obligaciones tributarias;
-
-XIII.- Negarse a proporcionar los elementos que se requieran para comprobar el cumplimiento de las obligaciones tributarias, ya sea por resistirse a las visitas domiciliarias, no suministrar los datos e informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o en cualquier otra forma;
-
-XIV.- No prestar a las autoridades tributarias el auxilio necesario para la determinación y cobro de una prestación en los casos en que la ley les imponga esa obligación;
-
-XV.- Violar otras disposiciones tributarias en forma no prevista en las fracciones precedentes; y
-
-XVI.- Favorecer a los contribuyentes en cualquier forma para que eludan parcial o totalmente sus obligaciones fiscales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 73.
 
-La imposición de las sanciones administrativas por infracción a las disposiciones tributarias compete al tesorero municipal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-Los funcionarios y empleados municipales, que en ejercicio de sus funciones conozcan de hechos y omisiones que puedan entrañar infracción a las disposiciones tributarias los comunicarán a la tesorería municipal, dentro de los diez días siguientes a la fecha en que tenga conocimiento de tales hechos u omisiones.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-La aplicación de las sanciones administrativas que procedan se harán sin perjuicio de que se exija el pago de las prestaciones tributarias respectivas.
-
-No procederá la imposición de sanciones administrativas a que hacen referencia los artículos 70, 71 y 72 de esta Ley cuando el contribuyente, el responsable solidario o el tercero, de manera espontánea y sin mediar intervención de autoridad competente subsana la o las omisiones en que hubiere incurrido.
-
-### CAPITULO SEGUNDO. DE LAS SANCIONES
+### CAPITULO SEGUNDO
 
 ###### ARTICULO 74.
 
-La aplicación de las sanciones previstas en esta ley se ajustarán a las reglas siguientes:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-I.- Las resoluciones en que se impongan sanciones deberán estar debidamente fundadas y motivadas;
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-II.- Para determinar la cuantía, se tomarán en cuenta:
-
-a).- La importancia de la infracción;
-
-b).- Los medios empleados para cometerla;
-
-c).- La capacidad económica del infractor y las demás condiciones personales que se acrediten; y
-
-d).- La conveniencia de destruir prácticas generalizadas, tanto para evadir las prestaciones tributarias como para infringir en cualquier forma las disposiciones fiscales.
-
-III.- Si son varios los responsables, cada uno será sancionado tomando en cuenta lo dispuesto por la fracción anterior;
-
-IV.- Cuando por un acto u omisión se infrinjan diversas disposiciones tributarias se aplicará la sanción que corresponda a la infracción más grave;
-
-V.- En caso de infracciones contínuas y de que no sea posible determinar con exactitud el monto de la prestación evadida, se impondrá multa hasta del triple de la prestación que se determine;
-
-VI.- Cuando la infracción no haya tenido ni pueda haber tenido como consecuencia la evasión de créditos tributarios se podrá imponer el mínimo de la sanción, lo anterior no procede para el caso de reincidencia;
-
-VII.- Cuando las infracciones consistan en hechos u omisiones semejantes, en documentos o libros, y siempre que no hayan tenido como consecuencia la evasión del pago de créditos tributarios, se considerará el conjunto como una sola infracción y se impondrá una multa que no excederá del máximo que fija esta ley para sancionar cada hecho u omisión;
-
-VIII.- Cuando se omite una prestación fiscal que corresponda a los actos y contratos que se hagan constar en escrituras públicas o minutas, la sanción se impondrá exclusivamente a los Notarios y Corredores, y los otorgantes sólo quedarán obligados a pagar los créditos fiscales omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados, la sanción se aplicará entonces solamente a éstos;
-
-IX.- Cuando la liquidación de alguna prestación tributaria esté encomendada a servidores públicos municipales, éstos serán responsables de las infracciones que se cometan y se les aplicarán las sanciones que corresponda, quedando los sujetos pasivos únicamente obligados a pagar, la prestación fiscal omitida, excepto en los casos en que esta Ley o alguna otra ley tributaria disponga que no se podrá exigir al sujeto pasivo dicho pago;
-
-X.- No se impondrán sanciones cuando aún fuera de término, sean pagados espontáneamente los créditos fiscales. No se considera que el entero es espontáneo cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquiera otra gestión efectuada por las mismas.
-
-### CAPITULO TERCERO. DE LA CONDONACION DE MULTAS
+### CAPITULO TERCERO
 
 ###### ARTICULO 75.
 
-La Tesorería Municipal por conducto de su titular podrá condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 76.
 
-Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
-
-I.- El 50% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios antes del cierre del acta final de visita o de que se le notifique el oficio de observaciones. No será aplicable esta fracción cuando en la comisión de la infracción se de alguno de los supuestos de las fracciones III, IV, VIII, XII, XIII, XIV, XV, XVII, XVIII, XX, XXI y XXII del Artículo 70, las Fracciones: III, IV, VI y VII del Artículo 71 y Fracciones: I, II, IV, V, VI, VII, VIII, IX, X, XIII y XIV del Artículo 72, de esta Ley.
-
-II.- EL 100% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después del cierre del acta final de visita o de que se le haya notificado el oficio de observaciones, pero antes de que las autoridades le notifiquen la resolución que determine el monto de las contribuciones que omitió. No será aplicable esta fracción cuando en la comisión de la infracción se de alguno de los supuestos de las fracciones: III, IV, VIII XII, XIII, XIV, XV, XVII, XVIII, XX, XXI y XXII del Artículo 70, las Rracciones (sic) III, IV, VI, y VII del Artículo 71 y Fracciones: I, II, IV, V, VI, VII, VIII, IX, X, XIII y XIV del Artículo 72, de esta Ley.
-
-III.- EL 150% de las contribuciones omitidas en los demás casos.
-
-Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos de las fracciones I y II de este Artículo, aplicarán el por ciento señalado en la fracción III sobre el remanente no pagado de las contribuciones.
-
-El pago de las multas en los términos de las fracciones I y II de este Artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la tesorería municipal.
-
-También se aplicarán las multas a que se refiere este precepto, cuando las infracciones consistan en devoluciones, acreditamientos o compensaciones, indebidos o en cantidad mayor de la que corresponda. En estos casos las multas se calcularán sobre el monto del beneficio indebido.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 77.
 
-En los casos a que se refiere el Artículo anterior, las multas se aumentarán o disminuirán conforme a las siguientes reglas:
-
-I.- Se aumentarán:
-
-a).- En un 20% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor reincida.
-
-b).- En un 60% del monto de las contribuciones omitidas o del beneficio indebido, cuando en la comisión de la infracción se de alguno de los agravantes señalados en las fracciones: III, IV, VIII, XII, XIII, XIV, XV, XVII, XVIII, XX, XXI, y XXII del Artículo 70, las Fracciones: III, IV, VI y VII del Artículo 71 y Fracciones: I, II, IV, V, VI, VII, VIII, IX, X, XIII y XIV del artículo 72, de esta Ley.
-
-c).- En una cantidad igual al 50% del importe de las contribuciones retenidas o recaudadas y no enteradas, cuando se incurra en la agravante a que se refiere la Fracción IV del Artículo 71 de esta Ley.
-
-Tratándose de los casos comprendidos en las Fracciones I y II del Artículo anterior, el aumento de multas, a que se refiere esta fracción, se determinará por la autoridad fiscal correspondiente, aún después de que el infractor hubiera pagado las multas en los términos de los Artículos 70 a 73 inclusive de este Ordenamiento.
-
-II.- Se disminuirán:
-
-a).- En un 25% del monto de las contribuciones omitidas que hayan sido objeto de dictamen, o del beneficio indebido, si el infractor ha hecho dictaminar por Contador Público autorizado sus estados financieros correspondiente al Ejercicio Fiscal en el cual incurrió en la infracción. Para la aplicación de la reducción contenida en este inciso en los casos de las Fracciones I y II del Artículo anterior, el infractor deberá efectuar el pago en los términos de dichas fracciones y solicitar la devolución del monto de la reducción, acreditando los impuestos de este inciso. No se aplicará lo dispuesto en este inciso cuando exista alguno de los agravantes señalados en las fracciones III, IV, VIII, XII, XIII, XIV, XV, XVII, XVIII, XX, XXI, y XXII del Artículo 70, las Fracciones: III, IV, VI, y VII del Artículo 71 y Fracciones: I, II, IV, V, VI, VII, VIII, IX, X, XIII y XIV del Artículo 72, de esta Ley.
-
-b).- En un 20% del monto de la (sic) contribuciones omitidas, o del beneficio indebido, en el caso de la fracción IV del artículo 71 y siempre que el infractor pague o devuelva los mismos con sus accesorios, dentro del mes siguiente a la fecha en que se le notificó la resolución respectiva. Para aplicar la reducción contenida en este inciso no se requiere modificar la resolución que impuso la multa.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 78.
 
-Tratándose de la omisión de contribuciones que hayan derivado de un error aritmético en las declaraciones, se impondrá una multa que será el 20% de las contribuciones omitidas y, en caso de que dichas contribuciones se paguen junto con sus accesorios dentro del mes siguiente a la fecha en que se notificó su determinación, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 79.
 
-Será supletorio de la Ley de Hacienda del Municipio el Código Fiscal de la Federación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-### CAPITULO CUARTO. DE LOS DELITOS
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
+### CAPITULO CUARTO
 
 ###### ARTICULO 80.
 
-Comete el delito de defraudación fiscal quien haga uso de engaños o aprovecha errores para omitir total o parcialmente el pago de algún crédito fiscal, use más de un número de registro de contribuyentes o proporcione datos falsos para su inscripción.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 81.
 
-También comete delito de defraudación fiscal quien:
-
-I.- Mediante la simulación de actos jurídicos omita total o parcialmente el pago de los créditos fiscales;
-
-II.- Consigne en las declaraciones o manifestaciones para efectos fiscales, ingresos menores a los realmente obtenidos o deducciones falsas;
-
-III.- Proporcione con falsedad a las autoridades fiscales que lo requieran, los datos que obren en su poder y que sean necesarios para determinar la producción, el ingreso gravable o los créditos fiscales que cause;
-
-IV.- Oculte a las autoridades fiscales, total o parcialmente, la producción sujeta a créditos fiscales o el monto de las enajenaciones;
-
-V.- No entere a las autoridades fiscales dentro del plazo del requerimiento que se le haga, las cantidades que haya retenido o recaudado de los sujetos pasivos, por concepto de créditos fiscales;
-
-VI.- Lleve doble juego de libros, con anotaciones o registro distintos a los de los libros autorizados;
-
-VII.- Destruya, ordene, o permita la destrucción total o parcial dejando ilegibles los libros de contabilidad que prevengan las leyes fiscales; y
-
-VIII.- Utilice pastas o encuadernación de los libros a que se refiere la fracción anterior, para substituir o cambiar las páginas foliadas.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 82.
 
-Para los fines del Artículo 81 podrá tomarse en cuenta el monto del crédito o créditos fiscales defraudados o que se haya intentado defraudar dentro de los cinco ejercicios fiscales anteriores, aún cuando se trate de créditos diferentes y de diversas acciones u omisiones de las previstas en el mismo Artículo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 83.
 
-Son encubridores de los delitos tipificados en los Artículos 80 y 81, quienes a sabiendas de que la elaboración o el comercio se realizan en las condiciones a que el mismo precepto se refiere, translade (sic), adquieran o permitan el tránsito de los productos o mercancías.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 84.
 
-Comete el delito de uso de calcomanías, formas numeradas o tarjetones falsificados:
-
-I.- El particular o el servidor público que a sabiendas de que fueron impresos o grabados sin autorización de la Tesorería Municipal los posea, enajene, ponga en circulación o, en su caso, las adhiera para pretender haber hecho el pago de alguna prestación fiscal; y
-
-II.- El particular o servidor público que los posea, enajene, ponga en circulación o los utilice para el pago de una prestación fiscal, alterados en su valor, año de emisión, leyenda o clase, a sabiendas de esta circunstancia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 85.
 
-En la averiguación previa a los delitos previstos en los Artículos 80, 81, 82, 83 y 84, se recabará dictamen de peritos designados por la Tesorería Municipal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 86.
 
-También comete delito de defraudación fiscal el Contador Público que al dictaminar para efectos fiscales los estados financieros de un sujeto pasivo; haga constar documentos, inventarios o balances falsos; o suscriba su dictamen sin haber aplicado los procedimientos de auditoría generalmente aceptados, para el examen de los estados financieros.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 87.
 
-Para proceder penalmente por los delitos previstos en esta Ley, será necesario que la Tesorería Municipal declare previamente que el fisco ha sufrido o pudo sufrir perjuicio.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 88.
 
-En cuanto a los delitos tipificados en los Artículos 80, 81, 82, 83, 84, 85 y 86, se requerirá querella de la Tesorería Municipal. A la denuncia o querella ante el Ministerio Público, se acompañará la resolución en que se contenga la liquidación de los créditos fiscales omitidos y la relativa a las sanciones administrativas correspondientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 ###### ARTICULO 89.
 
-Los procesos por los delitos fiscales a que se refiere el Artículo 88, serán sobreseidos si la Tesorería Municipal lo solicita antes de que el Ministerio Público formule conclusiones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
-Dicha Tesorería solo podrá pedir sobreseimiento si el procesado para las prestaciones fiscales originadas por el hecho imputado, o si a juicio de la propia Tesorería ha quedado garantizado el interés fiscal del Municipio.
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
-## TITULO QUINTO. DEL PROCEDIMIENTO ADMINISTRATIVO
+## TITULO QUINTO
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 90.
 
-Se estará a lo dispuesto por el Titulo Quinto de la Ley de Hacienda del Estado en vigor y supletoriamente a lo dispuesto en el Código Fiscal de la Federación.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL PARA EL ESTADO DE MORELOS, P.O. 27 DE DICIEMBRE DE 1995)
 
 # LIBRO SEGUNDO. DE LOS INGRESOS TRIBUTARIOS
 
@@ -1519,6 +1149,10 @@ V.- VENTA DE SUB-PRODUCTOS:
 
 POR LA AUTORIZACION INICIAL A TRAVES DEL REGISTRO, REVALIDACION ANUAL O REPOSICION DE TARJETAS DEL MISMO, A ESTABLECIMIENTOS COMERCIALES, INDUSTRIALES Y DE PRESTACION DE SERVICIOS
 
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 154.
 
 Se causarán derechos por el uso del corral municipal, consistente en la conducción, transportación, depósito de semovientes o de bienes abonados en la vía pública, o cuyo depósito sea ordenado por autoridad competente a la siguiente tarifa:
@@ -1541,19 +1175,1193 @@ Si los semovientes u otros bienes no son retirados del corral previo pago de los
 
 ###### ARTICULO 155.
 
-(DEROGADO, P.O. 25 DE ENERO DE 1989)
+Con objeto de vigilar por el correcto funcionamiento de los establecimientos mercantiles, industriales o de prestación de servicios en general, sólo el H. Ayuntamiento podrá conceder autorización para el funcionamiento y registro de los mismos, a solicitud por escrito de la persona física o moral interesada, en la inteligencia de que dicha autorización podrá ser negada cuando la actividad sea ilícita o atente contra el bien de la comunidad.
+
+Dichas solicitudes deberán ser presentadas cuando menos con cinco días hábiles de anticipación al inicio de sus operaciones, y la resolución se emitirá dentro de los tres días hábiles siguientes a la presentación.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 156.
 
-(DEROGADO, P.O. 25 DE ENERO DE 1989)
+Las cuotas del registro y de revalidación anual, relativas a establecimientos comerciales, industriales y de prestación de servicios se causarán conforme a la siguiente:
+
+ABARROTES SIN VENTA DE VINOS Y LICORES, TIENDAS DE.
+
+Expedición incluyendo registro una sola vez $7,000.00 a $10,000.00
+
+Revalidación de registro anual 4,000.00 a 6,000.00
+
+Reposición cada vez 4,000.00 a 6,000.00
+
+AVES VIVAS COMPRA VENTA DE.
+
+Expedición incluyendo registro una sola vez 3,000.00 a 7,000.00
+
+Revalidación de registro anual 2,000.00 a 4,000.00
+
+Reposición cada vez 2,000.00 a 4,000.00
+
+AGENCIAS DISTRIBUIDORAS, DEPOSITOS Y COMISIONISTAS DE PRODUCTOS ALIMENTICIOS.
+
+Expedición incluyendo registro una sola vez $30,000.00 a $50,000.00
+
+Revalidación de registro anual 15,000.00 a 25,000.00
+
+Reposición cada vez 3,000.00
+
+ACADEMIAS DE BAILE.
+
+Expedición incluyendo registro una sola vez 6,000.00
+
+Revalidación de registro anual 3,000.00 a 4,500.00
+
+Reposición cada vez 2,000.00
+
+ARMERIAS.
+
+Expedición incluyendo registro una sola vez 7,500.00
+
+Revalidación de registro anual 3,000.00 a 6,000.00
+
+Reposición cada vez. 2,000.00
+
+ARTICULOS FOTOGRAFICOS Y DE INGENIERIA.
+
+Expedición incluyendo registro una sola vez. 7,000.00
+
+Revalidación de registro anual 4,000.00
+
+Reposición cada vez 4,000.00
+
+ABARROTES CON VENTA DE VINOS Y LICORES EN BOTELLA CERRADA TIENDA DE.
+
+Expedición incluyendo registro una sola vez $20,000.00 a $25,000.00
+
+Revalidación de registro anual 10,000.00 a 14,000.00
+
+Reposición cada vez 7,000.00
+
+APARATOS ELECTRICOS, TELEVISORES, RADIOS Y MAQUINAS DE COSER.
+
+Expedición incluyendo registro una sola vez $8,000.00 a 20,000.00
+
+Revalidación de registro anual 5,000.00 a 15,000.00
+
+Reposición cada vez 4,000.00
+
+AGENCIAS, DESPACHOS DE GESTION DE NEGOCIOS DE CONTADORES Y ABOGADOS.
+
+Expedición incluyendo registro una sola vez $6,000.00
+
+Revalidación de registro anual 3,000.00
+
+Reposición cada vez 3,000.00
+
+BODEGAS DIVERSAS.
+
+Expedición incluyendo registro una sola vez 6,000.00
+
+Revalidación de registro anual 3,000.00
+
+Reposición cada vez 3,000.00
+
+BOTICAS VETERINARIAS.
+
+Expedición incluyendo registro una sola vez 10,000.00
+
+Revalidación de registro anual 4,000.00 a $9,000.00
+
+Reposición cada vez 3,000.00
+
+BANCOS DE SANGRE.
+
+Expedición incluyendo registro una sola vez 6,000.00
+
+Revalidación de registro anual 3,000.00
+
+Reposición cada vez 3,000.00
+
+BAÑOS PUBLICOS.
+
+Expedición incluyendo registro una sola vez 7,000.00
+
+Revalidación de registro anual 5,000.00
+
+Reposición cada vez 5,000.00
+
+CAFETERIAS CON VENTA O SIN VENTA DE PAN PARA EL CONSUMO INTERIOR EN EL GIRO Y NEVERIAS CON SERVICIO DE MESA Y CON AUTOSERVICIO.
+
+Expedición incluyendo registro una sola vez $6,000.00
+
+Revalidación de registro anual 3,000.00
+
+Reposición cada vez 3,000.00
+
+CABARETS Y DISCOTEQUES.
+
+Expedición incluyendo registro una sola vez 60,000.00 a $100,000.00
+
+Revalidación de registro anual 20,000.00 a 40,000.00
+
+Reposición cada vez 20,000.00 a (sic)
+
+CANTINAS, SALONES DE BAILE Y ESTABLECIMIENTOS SIMILARES.
+
+Expedición incluyendo registro una sola vez $ 40,000.00 a 60,000.00
+
+Revalidación de registro anual 15,000.00 a 35,000.00
+
+Reposición cada vez 10,000.00
+
+CERVEZAS NACIONALES AGENCIAS DISTRIBUIDORAS.
+
+Expedición incluyendo registro una sola vez 30,000.00 a 50,000.00
+
+Revalidación de registro anual 20,000.00 a 30,000.00
+
+Reposición cada vez 12,000.00 a (sic)
+
+CARNICERIAS, VISCERAS, POLLO, CARNES FRIAS.
+
+Expedición incluyendo registro una sola vez 6,000.00 a 10,000.00
+
+Revalidación de registro anual 3,000.00 a 6,000.00
+
+Reposición cada vez 3,000.00
+
+CASAS DE ASISTENCIA, CASA DE HUESPEDES, BUNGALOWS, POSADAS Y ESTABLECIMIENTOS SIMILARES.
+
+Expedición incluyendo registro una sola vez $16,000.00 a $20,000.00
+
+Revalidación de registro anual 5,000.00 a 10,000.00
+
+Reposición cada vez 3,000.00 a 10,000.00
+
+CARBONERIAS Y EXPENDIOS DE PETROLEOS.
+
+Expedición incluyendo registro una sola vez 1,500.00
+
+Revalidación de registro anual 1,200.00
+
+Reposición cada vez 1,200.00
+
+CLUBES DEPORTIVOS CON CANCHA DE TENIS, FRONTENIS, SQUASH Y SIMILARES.
+
+Expedición incluyendo registro una sola vez $10,000.00 a $50,000.00
+
+Revalidación de registro anual 5,000.00 a 25,000.00
+
+Reposición cada vez 5,000.00
+
+CLINICAS, SANATORIOS Y HOSPITALES.
+
+Expedición incluyendo registro una sola vez 20,000.00 a 50,000.00
+
+Revalidación de registro anual $12,000.00 a $20,000.00
+
+Reposición cada vez 5,000.00
+
+CLINICAS VETERINARIAS.
+
+Expedición incluyendo registro una sola vez 6,000.00
+
+Revalidación de registro anual 3,500.00
+
+Reposición cada vez 3,500.00
+
+CERERIAS, VELAS DECORATIVAS Y ARTICULOS RELIGIOSOS.
+
+Expedición incluyendo registro una sola vez 3,000.00
+
+Revalidación de registro anual 2,000.00
+
+Reposición cada vez 2,000.00
+
+CERRAJERIAS.
+
+Expedición incluyendo registro una sola vez 4,000.00 a 8,000.00
+
+Revalidación de registro anual 3,000.00 a 6,000.00
+
+Reposición cada vez 3,000.00
+
+CRISTALERIAS, LOZA, PELTRE, PLASTICOS Y ALUMINIOS.
+
+Expedición incluyendo registro una sola vez 5,000.00 a 10,000.00
+
+Revalidación de registro anual 4,000.00 a 8,000.00
+
+Reposición cada vez 4,000.00 a (sic)
+
+CUADROS Y ARTICULOS DECORATIVOS.
+
+Expedición incluyendo registro una sola vez 6,000.00
+
+Revalidación de registro anual 3,000.00
+
+Reposición cada vez 3,000.00
+
+CAJONES DE ROPA HECHA, TELAS Y BLANCOS.
+
+Expedición incluyendo registro una sola vez 6,000.00 a 10,000.00
+
+Revalidación de registro anual 3,000.00 a 6,000.00
+
+Reposición cada vez 3,000.00 a (sic)
+
+CANTERAS, YESERIAS Y CALERAS.
+
+Expedición incluyendo registro una sola vez 10,000.00 a 20,000.00
+
+Revalidación de registro anual 5,000.00 a 15,000.00
+
+Reposición cada vez 4,000.00 a (sic)
+
+COMPAÑIAS CONSTRUCTORAS.
+
+Expedición incluyendo registro una sola vez 20,000.00 a 50,000.00
+
+Revalidación de registro anual 15,000.00 a 30,000.00
+
+Reposición cada vez 10,000.00
+
+COMPAÑIAS DE FRACCIONAMIENTOS DE TERRENOS.
+
+Expedición incluyendo registro una sola vez 25,000.00 a 50,000.00
+
+Revalidación de registro anual 20,000.00 a 30,000.00
+
+Reposición cada vez 10,000.00
+
+COMISIONISTAS Y ADMINISTRACION DE BIENES RAICES.
+
+Expedición incluyendo registro una sola vez 15,000.00
+
+Revalidación de registro anual 10,000.00 a 15,000.00
+
+Reposición cada vez 5,000.00
+
+CARROS DE SONIDO.
+
+Expedición incluyendo registro una sola vez 3,000.00
+
+Revalidación de registro anual 2,000.00
+
+Reposición cada vez 2,000.00
+
+DEPARTAMENTOS AMUEBLADOS.
+
+Expedición incluyendo registro una sola vez 6,000.00
+
+Revalidación de registro anual 3,000.00
+
+Reposición cada vez 3,000.00
+
+DISTRIBUCION DE MOTOCICLETAS, BICICLETAS Y SUS REFACCIONES.
+
+Expedición incluyendo registro una sola vez $10,000.00
+
+Revalidación de registro anual 4,000.00 a 8,000.00
+
+Reposición cada vez 4,000.00
+
+DISTRIBUIDORAS AUTORIZADAS DE LLANTAS, CAMARAS Y SIMILARES.
+
+Expedición incluyendo registro una sola vez $15,000.00 a 25,000.00
+
+Revalidación de registro anual $10,000.00 a $25,000.00
+
+Reposición cada vez 4,000.00
+
+DISCOTECAS Y ACCESORIOS MUSICALES.
+
+Expedición incluyendo registro una sola vez 6,000.00
+
+Revalidación de registro anual 3,000.00
+
+Reposición cada vez 3,000.00
+
+DISTRIBUIDORAS DE GASES, COMBUSTIBLES, INDUSTRIALES Y DOMESTICOS.
+
+Expedición incluyendo registro una sola vez $25,000.00
+
+Revalidación de registro anual 10,000.00 a 15,000.00
+
+Reposición cada vez 5,000.00
+
+EXPENDIOS DE CARNITAS, MANTECA, BARBACOA Y CHICHARRON.
+
+Expedición incluyendo registro una sola vez $6,000.00
+
+Revalidación de registro anual 3,000.00
+
+Reposición cada vez 3,000.00
+
+EXPENDIO DE HUEVO, LECHE Y SUS DERIVADOS.
+
+Expedición incluyendo registro una sola vez 4,000.00
+
+Revalidación de registro anual 2,000.00
+
+Reposición cada vez 2,000.00
+
+EXPEDICION DE MARISCOS Y PESCADOS.
+
+Expedición incluyendo registro una sola vez 6,000.00 a 20,000.00
+
+Revalidación de registro anual 5,000.00 a 15,000.00
+
+Reposición cada vez 5,000.00
+
+EXPENDIO DE GELATINAS.
+
+Expedición incluyendo registro una sola vez 1,500.00
+
+Revalidación de registro anual 500.00
+
+Reposición cada vez 500.00
+
+EMBOTELLADORAS, DISTRIBUIDORAS, DEPOSITOS Y COMISIONISTAS.
+
+Expedición incluyendo registro una sola vez $20,000.00 a 30,000.00
+
+Revalidación de registro anual 10,000.00 a 20,000.00
+
+Reposición cada vez 6,000.00
+
+EXPENDIOS DE LOTERIAS, PRONOSTICOS DEPORTIVOS Y BUFETES DE POLICIA PRIVADA.
+
+Expedición incluyendo registro $6,000.00
+
+Revalidación de registro anual 3,000.00
+
+Reposición cada vez 3,000.00
+
+ESTABLECIMIENTOS DE COMPRA VENTA DE ABONOS FERTILIZANTES, INSECTICIDAS E IMPLEMENTOS AGRICOLAS.
+
+Expedición incluyendo registro una sola vez $12,000.00
+
+Revalidación de registro anual 6,000.00 a $12,000.00
+
+Reposición cada vez 3,000.00
+
+ESTABLECIMIENTOS DE ORDEÑA.
+
+Expedición incluyendo registro una sola vez 3,000.00
+
+Revalidación de registro anual 1,500.00
+
+Reposición una sola vez 1,500.00
+
+ESTABLECIMIENTOS DE COMPRA-VENTA Y DISTRIBUCION DE AUTOS Y CAMIONES CON VENTA DE REFACCIONES Y SERVICIOS DE TALLER.
+
+Expedición incluyendo registro anual una sola vez $80,000.00 a 100,000.00
+
+Revalidación de registro anual 30,000.00 a 65,000.00
+
+Reposición una sola vez 10,000.00 a (sic)
+
+ESTABLECIMIENTOS DE COMPRA-VENTA Y DISTRIBUCION DE AUTOS Y CAMIONES SIN VENTA DE REFACCIONES Y SERVICIOS DE TALLER.
+
+Expedición incluyendo registro anual una sola vez $50,000.00 a (sic)
+
+Revalidación de registro anual 18,000.00 a $40,000.00
+
+Reposición una sola vez 6,000.00
+
+ESTABLECIMIENTO DE REFACCIONES, ACCESORIOS, LUBRICANTES Y GRASAS AUTOMOTRICES.
+
+Expedición incluyendo registro una sola vez $15,000.00 a $35,000.00
+
+Revalidación de registro anual 10,000.00 a 30,000.00
+
+Reposición una sola vez 4,000.00
+
+ESTABLECIMIENTOS DE COMPRA-VENTA DE PAPEL, VIDRIOS, MATERIALES DE DESECHOS INDUSTRIALES.
+
+Expedición incluyendo registro anual una sola vez $6,000.00
+
+Revalidación de registro anual 3,000.00
+
+Reposición una sola vez 1,500.00
+
+ESTUDIOS FOTOGRAFICOS, FOTOGRAFIAS, REVELADOS, HELIOGRAFICAS, FOTOSTATICAS Y SIMILARES.
+
+Expedición incluyendo registro una sola vez $6,000.00 a $10,000.00
+
+Revalidación de registro anual 3,000.00 a 8,000.00
+
+Reposición una sola vez 3,000.00
+
+EXPENDIOS DE PERIODICOS, REVISTAS, NOVELAS Y CUENTOS.
+
+Expedición incluyendo registro una sola vez $3,000.00
+
+Revalidación de registro anual 2,000.00
+
+Reposición una sola vez 2,000.00
+
+EXPENDIO DE MIEL DE COLMENA.
+
+Expedición incluyendo registro una sola vez 3,000.00
+
+Revalidación de registro anual 1,500.00
+
+Reposición una sola vez 1,500.00
+
+EQUIPOS Y MUEBLES PARA OFICINA.
+
+Expedición incluyendo registro una sola vez 8,000.00 a 50,000.00
+
+Revalidación de registro anual 4,000.00 a 20,000.00
+
+Reposición una sola vez 4,000.00
+
+ESCRITORIOS PUBLICOS.
+
+Expedición incluyendo registro una sola vez 3,000.00
+
+Revalidación de registro una sola vez 2,000.00
+
+Reposición una sola vez 1,500.00
+
+ESTABLECIMIENTOS PRIVADOS DE ENSEÑANZA NO INCORPORADOS A LA SECRETARIA DE EDUCACION PUBLICA.
+
+Expedición incluyendo registro una sola vez $25,000.00
+
+Revalidación de registro anual 12,000.00 a $18,000.00
+
+Reposición una sola vez 6,000.00
+
+ESTABLECIMIENTOS PRIVADOS DE ENSEÑANZA INCORPORADOS A LA SECRETARIA DE EDUCACION PUBLICA.
+
+Expedición incluyendo registro una sola vez $20,000.00
+
+Revalidación de registro anual 10,000.00 a $15,000.00
+
+Reposición una sola vez 5,000.00
+
+ESTACIONAMIENTO PARA AUTOMOVILES.
+
+Expedición incluyendo registro una sola vez 9,000.00 a 15,000.00
+
+Revalidación de registro anual 3,000.00 a 10,000.00
+
+Reposición una sola vez 3,000.00
+
+ESTABLECIMIENTO CON VENTA DE ARTICULOS DIVERSOS COMO ARTICULOS DE PIEL, PERFUMERIAS, ROPA, ETC.
+
+Expedición incluyendo registro una sola vez $10,000.00 a $25,000.00
+
+Revalidación de registro anual 10,000.00 a 20,000.00
+
+Reposición una sola vez 3,000.00 a 5,000.00
+
+EXPENDIOS DE HIELO Y AGUA PURIFICADA.
+
+Expedición incluyendo registro una sola vez 4,000.00
+
+Revalidación de registro anual 2,000.00
+
+Reposición una sola vez 2,000.00
+
+ESTABLECIMIENTOS COMERCIALES CON MATERIAL DE CONSTRUCCION MADERAS Y ARTICULOS DE FERRETERIA.
+
+Expedición incluyendo registro $30,000.00 a $50,000.00
+
+Revalidación de registro anual 15,000.00 a 30,000.00
+
+Reposición una sola vez 5,000.00
+
+EMPRESAS PARTICULARES QUE EXPLOTEN RECURSOS NATURALES DENTRO DEL MUNICIPIO, MEDIANTE CONCESION FEDERAL O ESTATAL, PAGARAN SUS DERECHOS CONFORME A LA SIGUIENTE TARIFA.
+
+Expedición $25,000.00 a $80,000.00
+
+Revalidación 15,000.00 a 25,000.00
+
+Reposición 10,000.00
+
+En situaciones especiales el pago será el que acuerde el H. Ayuntamiento en Cabildo.
+
+FONDAS Y LONCHERIAS CON VENTA DE CERVEZA EXCLUSIVAMENTE EN LOS ALIMENTOS.
+
+Expedición de registro anual $20,000.00 a $40,000.00
+
+Revalidación de registro anual 15,000.00 a 30,000.00
+
+Reposición una sola vez 5,000.00
+
+FONDAS Y LONCHERIAS SIN VENTA DE CERVEZA.
+
+Expedición de registro anual 6,000.00
+
+Revalidación de registro anual 3,000.00
+
+Reposición una sola vez 3,000.00
+
+FABRICAS Y EXPENDIO DE PAN Y PASTELERIAS.
+
+Expedición incluyendo registro una sola vez 6,000.00 a 15,000.00
+
+Revalidación de registro anual 3,000.00 a 12,000.00
+
+Reposición una sola vez 3,000.00
+
+FABRICAS DE LLANTAS PARA AUTOMOVILES, TRACTORES, MOTOCICLETAS, AERONAVES Y SIMILARES.
+
+Expedición incluyendo registro una sola vez $30,000.00 a $50,000.00
+
+Revalidación de registro anual 15,000.00 a 25,000.00
+
+Reposición una sola vez 10,000.00
+
+FABRICAS Y RECONSTRUCTORAS DE MAQUINARIA INDUSTRIAL Y AGRICOLA.
+
+Expedición incluyendo registro una sola vez $15,000.00
+
+Revalidación de registro anual 10,000.00
+
+Reposición una sola vez 4,000.00
+
+FLORERIAS Y VIVEROS.
+
+Expedición incluyendo registro anual una vez 10,000.00 a 15,000.00
+
+Revalidación de registro anual 3,000.00 a 8,000.00
+
+Reposición una sola vez 3,000.00
+
+FORRAJERIAS.
+
+Expedición incluyendo registro anual una vez 8,000.00 a 15,000.00
+
+Revalidación de registro anual 4,000.00 a 8,000.00
+
+Reposición una sola vez 4,000.00
+
+FABRICAS DE HIELO.
+
+Expedición incluyendo registro anual una vez 20,000.00 a 30,000.00
+
+Revalidación de registro anual 12,000.00 a 20,000.00
+
+Reposición una sola vez 6,000.00
+
+FABRICAS DE NIEVE, PALETAS Y HELADOS.
+
+Expedición incluyendo registro anual una vez 10,000.00 a 12,000.00
+
+Revalidación de registro anual 5,000.00 a 10,000.00
+
+Reposición una sola vez 3,000.00
+
+FARMACIAS, BOTICAS, ETC.
+
+Expedición incluyendo registro anual una vez 12,000.00 a 20,000.00
+
+Revalidación de registro anual 4,000.00 a 12,000.00
+
+Reposición una sola vez 4,000.00
+
+FABRICAS DE JABON, DETERGENTES Y VELADORAS.
+
+Expedición $15,000.00 a 30,000.00
+
+Revalidación 12,000.00 a 15,000.00
+
+Reposición 5,000.00
+
+FABRICAS DE CABLES QUE SEAN CONDUCTORES DE ELECTRICIDAD.
+
+Expedición $30,000.00 a 50,000.00
+
+Revalidación 20,000.00 a 30,000.00
+
+Reposición 6,000.00
+
+FERRETERIAS CON MATERIALES DE CONSTRUCCION.
+
+Expedición $20,000.00 a $50,000.00
+
+Revalidación 10,000.00 a 30,000.00
+
+Reposición 8,000.00
+
+FABRICAS DE MOSAICOS, LOSETAS.
+
+Expedición 15,000.00 a 30,000.00
+
+Revalidación 8,000.00 a 15,000.00
+
+Reposición 4,000.00
+
+FABRICAS Y TALLERES DE MUEBLES Y ARTESANIAS, ARTICULOS ARTISTICOS Y DECORATIVOS, ESCULTURALES Y MONUMENTOS.
+
+Expedición $10,000.00 a $20,000.00
+
+Revalidación 8,000.00 a 10,000.00
+
+Reposición 2,5000.00 (sic)
+
+FUNERARIAS Y FUNERALES.
+
+Expedición 20,000.00 a 50,000.00
+
+Revalidación 6,000.00 a 25,000.00
+
+Reposición 5,000.00
+
+GASOLINERIAS.
+
+Expedición 20,000.00 a 50,000.00
+
+Revalidación 15,000.00 a 45,000.00
+
+Reposición 10,000.00
+
+GRANJAS Y PLANTAS AVICOLAS, PORCINAS Y SIMILARES.
+
+Expedición 6,000.00 a 30,000.00
+
+Revalidación 10,000.00 a 25,000.00
+
+Reposición 3,000.00
+
+GIMNASIOS.
+
+Expedición 6,000.00
+
+Revalidación 3,000.00
+
+Reposición 3,000.00
+
+HOTELES, MOTELES Y ESTACIONAMIENTOS SIMILARES.
+
+Expedición 30,000.00 a 100,000.00
+
+Revalidación 12,000.00 a 30,000.00
+
+Reposición 10,000.00
+
+IMPRENTAS, EDITORES, LITOGRAFIAS, OFFSET, SELLOS DE GOMA.
+
+Expedición $6,000.00 a 15,000.00
+
+Revalidación 3,000.00 a 15,000.00
+
+Reposición 3,000.00
+
+INGENIOS AZUCAREROS.
+
+Expedición 200,000.00 a 500,000.00
+
+Revalidación 150,000.00 a 300,000.00
+
+Reposición 150,000.00
+
+JOYERIAS, PLATERIAS, RELOJERIAS Y TIENDAS DE ARTICULOS DE LUJO.
+
+Expedición $25,000.00 a 50,000.00
+
+Revalidación 10,000.00 a 20,000.00
+
+Reposición 4,000.00 a (sic)
+
+JARCERIAS Y SIMILARES.
+
+Expedición 3,000.00
+
+Revalidación 1,500.00
+
+Reposición 1,500.00
+
+LAVANDERIAS, TINTORERIAS, PLANCHADURIAS, AGENCIAS DE RECIBO Y ENTREGA DE ROPA.
+
+Expedición $6,000.00 a $12,000.00
+
+Revalidación 3,000.00 a 10,000.00
+
+Reposición 3,000.00
+
+LAVANDERIAS AUTOMATICAS.
+
+Expedición 8,000.00 a 20,000.00
+
+Revalidación $4,000.00 a $15,000.00
+
+Reposición 4,000.00
+
+LABORATORIOS DE DIAGNOSTICOS, CLINICAS Y RADIOGRAFIAS.
+
+Expedición $15,000.00 a 30,000.00
+
+Revalidación 10,000.00 a 15,000.00
+
+Reposición 4,000.00
+
+MOLINOS DE NIXTAMAL Y EXPENDIOS DE MASA.
+
+Expedición 3,000.00
+
+Revalidación 1,800.00
+
+Reposición 1,800.00
+
+MAQUINARIA Y EQUIPO INDUSTRIAL, AGRICOLA, HERRAMIENTAS Y ACCESORIOS.
+
+Expedición $10,000.00
+
+Revalidación 5,000.00
+
+Reposición 5,000.00
+
+MERCERIAS Y BONETERIAS.
+
+Expedición 4,000.00 a $10,000.00
+
+Revalidación 2,000.00 a 6,000.00
+
+Reposición 2,000.00 a 3,000.00
+
+MATERIAS PRIMAS PARA LA ELABORACION DE NIEVES, PALETAS Y GELATINAS.
+
+Expedición $10,000.00 a 20,000.00
+
+Revalidación 5,000.00 a 12,000.00
+
+Reposición 5,000.00 a (sic)
+
+MUEBLERIAS CON VENTA DE MUEBLES DE OFICINA, APARATOS ELECTRONICOS, MUEBLES PARA EL HOGAR Y COLCHONES.
+
+Expedición $25,000.00 a $50,000.00
+
+Revalidación 20,000.00 a 40,000.00
+
+Reposición 20,000.00 a (sic)
+
+MISCELANEAS Y DULCERIAS.
+
+Expedición 6,000.00
+
+Revalidación 3,000.00
+
+Reposición 3,000.00
+
+MADERERIAS Y SIMILARES.
+
+Expedición 20,000.00 a 50,000.00
+
+Revalidación 10,000.00 a 20,000.00
+
+Reposición 5,000.00
+
+MUEBLES Y ARTICULOS PARA EL HOGAR.
+
+Expedición 10,000.00 a 20,000.00
+
+Revalidación 5,000.00 a 10,000.00
+
+Reposición 3,500.00
+
+MOLINOS DE ARROZ, EMPACADORAS DE FRUTAS.
+
+Expedición 16,000.00 a 40,000.00
+
+Revalidación 10,000.00 a 20,000.00
+
+Reposición 8,000.00
+
+OBRADORES, TOSTADORES Y MOLINOS DE CAFE.
+
+Expedición 10,000.00 a 30,000.00
+
+Revalidación 5,000.00 a 10,000.00
+
+Reposición 3,000.00
+
+OPTICAS.
+
+Expedición 10,000.00 a 25,000.00
+
+Revalidación 10,000.00 a 15,000.00
+
+Reposición 4,000.00
+
+PINTURAS, BARNICES, ESMALTES E IMPERMEABILIZANTES.
+
+Expedición 15,000.00 a 30,000.00
+
+Revalidación 5,000.00 a 15,000.00
+
+Reposición 5,000.00
+
+PRODUCTOS PRENSADOS DE CONCRETO.
+
+Expedición $10,000.00 a $25,000.00
+
+Revalidación 4,000.00 a 10,000.00
+
+Reposición 4,000.00
+
+HORNOS DE TABIQUE, LADRILLO Y TEJA INDUSTRIALIZADO.
+
+Expedición 15,000.00 a 30,000.00
+
+Revalidación 5,000.00 a 15,000.00
+
+Reposición 4,000.00
+
+PAPELERIAS, LIBRERIAS, ARTICULOS ESCOLARES, DISTRIBUCION DE REVISTAS, PERIODICOS Y PUBLICACIONES.
+
+Expedición $12,000.00 a $25,000.00
+
+Revalidación 6,000.00 a 12,000.00
+
+Reposición 3,000.00
+
+PRESTACIONES DE SERVICIOS NO ESPECIFICADOS.
+
+Expedición 6,000.00
+
+Revalidación 3,000.00
+
+Reposición 3,000.00
+
+RESTAURANT CON VENTA DE VINOS DE MESA Y CERVEZAS, EXCLUSIVAMENTE CON ALIMENTOS.
+
+Expedición $12,000.00 a $50,000.00
+
+Revalidación 10,000.00 a 20,000.00
+
+Reposición 5,000.00
+
+RESTAURANT EN HOTELES CON SERVICIO DE CANTINA O BAR.
+
+Expedición $40,000.00 a 80,000.00
+
+Revalidación 30,000.00 a 50,000.00
+
+Reposición 5,000.00
+
+REFRESQUERIAS, NEVERIAS, JUGOS Y LICUADOS.
+
+Expedición 10,000.00 a 30,000.00
+
+Revalidación 3,000.00 a 10,000.00
+
+Reposición 2,000.00
+
+SALCHICHONERIAS, ULTRAMARINOS Y ROSTICERIAS SIN VENTA DE CERVEZA, VINOS Y LICORES.
+
+Expedición $6,000.00 a $12,000.00
+
+Revalidación 3,000.00 a 10,000.00
+
+Reposición 3,000.00
+
+SUPER PANADERIAS.
+
+Expedición 15,000.00 a 20,000.00
+
+Revalidación 5,000.00 a 15,000.00
+
+Reposición 5,000.00 a (sic)
+
+SUPERMERCADOS Y TIENDAS DE AUTOSERVICIO.
+
+Expedición 40,000.00 a 80,000.00
+
+Revalidación 30,000.00 a 50,000.00
+
+Reposición 5,000.00
+
+SALONES DE FIESTA.
+
+Expedición 10,000.00 a 30,000.00
+
+Revalidación 6,000.00 a 20,000.00
+
+Reposición 6,000.00
+
+SALONES DE BOLICHE.
+
+Expedición 10,000.00 a 25,000.00
+
+Revalidación 5,000.00 a 20,000.00
+
+Reposición 5,000.00
+
+SANITARIOS PUBLICOS.
+
+Expedición 3,000.00
+
+Revalidación 2,000.00
+
+Reposición 2,000.00
+
+SALONES DE BELLEZA Y PELUQUERIAS.
+
+Expedición $6,000.00 a $10,000.00
+
+Revalidación 3,000.00 a 9,000.00
+
+Reposición 3,000.00
+
+SARAPERIAS Y REBOCERIAS.
+
+Expedición 3,000.00
+
+Revalidación 2,000.00
+
+Reposición 2,000.00
+
+SALAS DE PROYECCIONES DE PELICULAS Y TEATROS.
+
+Expedición 30,000.00 a 80,000.00
+
+Revalidación 25,000.00 a 50,000.00
+
+Reposición 8,000.00
+
+SUPERFARMACIAS, PERFUMERIAS Y PRODUCTOS DE BELLEZA.
+
+Expedición $12,000.00 a 25,000.00
+
+Revalidación 10,000.00 a 20,000.00
+
+Reposición 8,000.00
+
+TORTILLERIAS AUTOMATICAS Y MANUALES.
+
+Expedición 6,000.00 a 10,000.00
+
+Revalidación 3,000.00 a 6,000.00
+
+Reposición 3,000.00
+
+TIENDAS DE FIERROS Y MUEBLES USADOS.
+
+Expedición 8,000.00 a 10,000.00
+
+Revalidación 4,000.00 a 8,000.00
+
+Reposición 4,000.00
+
+TIENDAS DE REGALOS Y ARTICULOS DE FANTASIA.
+
+Expedición 10,000.00 a 15,000.00
+
+Revalidación 3,000.00 a 10,000.00
+
+Reposición 3,000.00
+
+TIENDAS DE CURIOSIDADES, SOMBREROS DE PALMA, CANASTAS Y HUARACHES.
+
+Expedición $10,000.00 a 15,000.00
+
+Revalidación 3,000.00 a 10,000.00
+
+Reposición 2,000.00
+
+TIENDAS DE ROPA HECHA, TELAS, CALCETINES, BLANCOS Y SIMILARES.
+
+Expedición $10,000.00 a 20,000.00
+
+Revalidación 3,000.00 a 10,000.00
+
+Reposición 3,000.00
+
+TENDAJON CON VENTA DE CERVEZA EN BOTELLA CERRADA.
+
+Expedición 10,000.00 a 20,000.00
+
+Revalidación 8,000.00 a 15,000.00
+
+Reposición 5,000.00
+
+TENDAJON CON VENTA DE CERVEZA EN BOTELLA ABIERTA.
+
+Expedición 20,000.00 a 40,000.00
+
+Revalidación 10,000.00 a 20,000.00
+
+Reposición 5,000.00
+
+TRANSPORTES DE PASAJEROS EN GENERAL.
+
+Expedición 10,000.00 a 50,000.00
+
+Revalidación 5,000.00 a 40,000.00
+
+Reposición 5,000.00 a 15,000.00
+
+TLAPALERIAS, MATERIAL ELECTRICO, Y ARTICULOS DE PLOMERIA EN GENERAL.
+
+Expedición $10,000.00 a $25,000.00
+
+Revalidación 5,000.00 a 15,000.00
+
+Reposición 5,000.00
+
+TALLERES ELECTROMECANICOS, ELECTRONICOS DE:
+
+CARPINTERIA
+
+CROMADO
+
+CURTIDURIA
+
+CRISTALERIA
+
+CONFECCION DE BRASIERES, BORDADOS, CAMISAS, COSTURAS, ESTAMPADOS, PANTALONES, VESTIDOS
+
+HERRERIA, HUARACHES
+
+HOJALATERIA
+
+HILADOS
+
+EBANISTERIA
+
+PINTURA
+
+PLATERIA Y JOYERIA
+
+SOLDADURA
+
+TAPICERIA
+
+TALABARTERIA
+
+TELAS
+
+TEJIDOS
+
+REPARACION DE:
+
+AUTOMOVILES Y CAMIONES
+
+APARATOS ELECTRONICOS
+
+AIRE ACONDICIONADO
+
+CALZADO
+
+COLCHONES
+
+ESTUFAS
+
+LAVADORAS
+
+MAQUINAS DE COCER (SIC)
+
+MAQUINAS CALCULADORAS
+
+MAQUINAS DE ESCRIBIR
+
+MAQUINAS SUMADORAS
+
+MOFLES
+
+MOTOCICLETAS
+
+REFRIGERADORES
+
+Expedición $5,000.00 a $20,000.00
+
+Revalidación 3,000.00 a 15,000.00
+
+Reposición 3,000.00
+
+VINATERIAS Y LONJAS DE DISTRIBUCION CON VENTA DE VINOS Y LICORES.
+
+Expedición $10,000.00 a 25,000.00
+
+Revalidación 6,000.00 a 10,000.00
+
+Reposición 3,000.00
+
+VENTA DE ALMONEDA.
+
+Expedición 10,000.00
+
+Revalidación 4,000.00
+
+Reposición 4,000.00
+
+VULCANIZADORAS, RENOVADORAS, ALINEACION Y BALANCEO Y REPARACION.
+
+Expedición $15,000.00 a 20,000.00
+
+Revalidación 5,000.00 a 15,000.00
+
+Reposición 4,000.00
+
+VIDRIERIAS, LUNAS, CORTINAS Y PERSIANAS.
+
+Expedición 15,000.00 a 25,000.00
+
+Revalidación 10,000.00 a 15,000.00
+
+Reposición 5,000.00
+
+VEHICULOS DE TRANSPORTES, MUDANZAS Y FLETES.
+
+Expedición $10,000.00 a 15,000.00
+
+Revalidación 4,000.00 a 10,000.00
+
+Reposición 4,000.00
+
+ZAPATERIAS, SANDALIAS Y SIMILARES.
+
+Expedición 8,000.00 a 20,000.00
+
+Revalidación 5,000.00 a 15,000.00
+
+Reposición 5,000.00
+
+GIROS NO ESPECIFICADOS.
+
+Expedición $2,000.00 a $50,000.00
+
+Revalidación 1,000.00 a 25,000.00
+
+Reposición 1,000.00 a 10,000.00
+
+COMERCIANTES MAYORISTAS EN ROPA Y SIMILARES, ASI COMO OTROS GIROS COMERCIALES QUE SE ESTABLEZCAN EN TIANGUIS MUNICIPALES O EN VIAS PUBLICAS, SEÑALADOS ESPECIFICAMENTE POR EL H. AYUNTAMIENTO:
+
+Expedición $10,000.00 a $40,000.00
+
+Revalidación anual 8,000.00 a 15,000.00
+
+Reposición cada vez 3,000.00
+
+El Presidente Municipal realizará a través de la dependencia que le corresponda, el censo de contribuyentes a efecto de que éstos cumplan con sus deberes fiscales. El Ayuntamiento no reconocerá el traspaso efectuado entre personas físicas y morales de licencias autorizadas para el expendio y venta de bebidas alcohólicas.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 157.
 
-(DEROGADO, P.O. 25 DE ENERO DE 1989)
+El pago de los derechos establecidos en este capítulo deberá liquidarse de acuerdo con lo siguiente:
+
+a).- El importe del registro inicial de operaciones dentro de los diez días posteriores a la autorización.
+
+b).- La revalidación anual del registro, dentro del mes de enero de cada año.
+
+c).- La reposición del registro, al presentar su solicitud de reposición.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 158.
 
-(DEROGADO, P.O. 25 DE ENERO DE 1989)
+El Presidente municipal, para los efectos de equidad y de justicia contributiva a que se refiere la fracción IV del Artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, concederá de acuerdo a sus facultades y previa inspección, los subsidios a la cuota que establece este capítulo, cuando la situación económica, ubicación, giro o circunstancias similares de los establecimientos así lo ameriten, y podrá conceder que el pago se haga en parcialidades.
 
 ### CAPITULO DECIMO QUINTO. POR LEGALIZACION DE FIRMAS, CERTIFICADOS, CERTIFICACIONES Y COPIAS CERTIFICADAS SIMPLES
 
@@ -1574,6 +2382,10 @@ Si los semovientes u otros bienes no son retirados del corral previo pago de los
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
 
 ### CAPITULO DECIMO SEXTO. POR LICENCIAS DIVERSAS
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 163.
 
@@ -1645,17 +2457,45 @@ Los certificados, certificaciones y copias certificadas que expidan las dependen
 
 ###### ARTICULO 166.
 
-(DEROGADO, P.O. 25 DE ENERO DE 1989)
+La celebración de cualquier tipo de evento de acuerdo con la legislación fiscal vigente, requiere ser autorizado por la autoridad municipal, previo a su desarrollo.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 167.
 
-(DEROGADO, P.O. 25 DE ENERO DE 1989)
+Para otorgar la autorización a que se refiere el Artículo 166, la persona física o moral o unidad económica que pretenda desarrollarlos, estará obligada a cubrir los derechos correspondientes de acuerdo con la siguiente tarifa:
+
+I.- Serenatas o similares, por evento: $150.00
+
+II.- Para el ejercicio de oficios que requieran licencia o permiso de acuerdo con los reglamentos municipales, como aseadores de calzado, fotógrafos, estibadores, billeteros y similares, mensualmente de: $100.00 a 300.00
+
+III.- Grupos de mariachis o conjuntos musicales, mensual de: 1,500.00 a 3,000.00
+
+IV.- Por la celebración en el Municipio de loterías, rifas o sorteos de cualquier clase, ya sea de dinero o de otros bienes, por cada evento de: $200.00 a 8,000.00
+
+V.- Para el expendio de bebidas alcohólicas en bailes, espectáculos, ferias y otros eventos ocasionales, diariamente de: $2,000.00 a 10,000.00
+
+En aquellos casos en que el evento de que se trate propicie el establecimiento de comercios en los que sea natural una generación especial de basura, se cobrará una cuota del 25% sobre el valor de la licencia.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 168.
 
-(DEROGADO, P.O. 25 DE ENERO DE 1989)
+Los causantes de estos derechos deberán enterarlos en la Tesorería Municipal, de acuerdo con las siguientes disposiciones:
+
+a).- A los indicados en las fracciones I, IV y V del Artículo anterior al recibir la licencia o autorización para desarrollar el evento; y
+
+b).- Los indicados en las Fracciones II y III, dentro de los primeros diez días de cada mes, en forma anticipada.
 
 ### CAPITULO DECIMO OCTAVO. POR PUBLICIDAD Y ANUNCIOS EN LA VIA PUBLICA
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 169.
 
@@ -1887,23 +2727,69 @@ La acción del H. Ayuntamiento para el cobro de los derechos de construcción de
 
 ###### ARTICULO 180.
 
-(DEROGADO, P.O. 25 DE ENERO DE 1989)
+Son causantes de este derecho, las personas físicas, morales o unidades económicas que en inmueble de su propiedad o arrendado, establezcan anuncios comerciales o publicitarios. Serán responsables solidarios los propietarios de los inmuebles utilizados.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 181.
 
-(DEROGADO, P.O. 25 DE ENERO DE 1989)
+Quedan exentos del pago de estos derechos las denominaciones sociales pintadas en las fachadas o colocadas sobre muros, siempre que no sean luminosas y que sólo sirvan para identificar el establecimiento.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 182.
 
-(DEROGADO, P.O. 25 DE ENERO DE 1989)
+La expedición de la licencia para colocar o instalar anuncios en la vía pública tendrá las siguientes limitaciones:
+
+I.- No se podrá autorizar la instalación de ningún anuncio dentro de un radio de 150 metros en entronque de carreteras, monumentos, glorietas o vías de ferrocarril.
+
+II.- No se permitirán anuncios en forma de bandera.
+
+III.- No se permitirá la instalación de anuncios sobre azoteas cuando estos excedan de 2.00 metros de altura sobre las mismas.
+
+IV.- Queda prohibida la colocación de mantas, pasacalles y la distribución de volantes y folletines en el primer cuadro de la ciudad, salvo autorización expresa del Presidente Municipal.
+
+V.- Se prohibe la publicidad por medio de carteles, cartulinas, afiches, etc., pegados en las paredes, bardas, postes y lugares similares.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 183.
 
-(DEROGADO, P.O. 25 DE ENERO DE 1989)
+Los derechos que se causarán por la expedición de la licencia para la instalación de anuncios en la vía pública, se regirán por la siguiente tarifa:
+
+I.- Anuncios pintados sobre muros, fachadas, o vehículos bimestralmente, por metro cuadrado o fracción: de $10.00 a $20.00.
+
+II.- Propaganda mural sobre carteleras, bimestralmente por metro cuadrado o fracción: de $15.00 a $35.00.
+
+III.- Anuncios luminosos de cualquier material o instalación, colocados sobre muros, fachadas o azoteas, bimestralmente por metro cuadrado o fracción: $320.00.
+
+IV.- Anuncios no luminosos de cualquier material instalados sobre edificios, bimestralmente por metro cuadrado o fracción: $ 40.00.
+
+V.- Anuncios luminosos donde sólo se mencione la razón social o denominación, bimestralmente: $60.00.
+
+VI.- Anuncios no luminosos, empotrados a muros, fachadas, bardas, etc., de cualquier material bimestralmente: $60.00.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LAS LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1995, QUEDA SIN EFECTOS EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, RESTAURANDOSE EL TEXTO DEL PRESENTE ARTICULO; MODIFICACION QUE ENTRARA EN VIGOR EL 1 DE ENERO DE 1996.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 184.
 
-(DEROGADO, P.O. 25 DE ENERO DE 1989)
+La aplicación de la tarifa establecida en el artículo 183 deberá contemplar la ubicación de acuerdo con la zona fiscal a que corresponda en el Municipio, para lo cual se atenderá a lo siguiente:
+
+ZONA 1 100%
+
+ZONA 2 75%
+
+ZONA 3 50%
+
+ZONA 4 25%.
 
 ### CAPITULO VIGESIMO PRIMERO. POR COMERCIO AMBULANTE O SEMIFIJO
 
@@ -2035,7 +2921,7 @@ El arrendamiento, la explotación, el traspaso y la cesión de bienes de propied
 
 ###### ARTICULO 207.
 
-Son aprovechamientos, los ingresos municipales ordinarios, no clasificados como impuestos, derechos o productos. Quedan comprendidos como tales los siguientes: (sic)
+Son aprovechamientos, los ingresos municipales ordinarios, no clasificados como impuestos, derechos o productos. Quedan comprendidos como tales los siguientes:
 
 ### CAPITULO CUARTO. REINGRESOS
 
@@ -2165,13 +3051,43 @@ PRIMERO.- Este Decreto iniciará su vigencia a partir del 1o. de enero de 1989.
 
 SEGUNDO.- Remítase al Ejecutivo del Estado el presente Decreto, para su Publicación en Periódico Oficial "Tierra y Libertad", Organo del Gobierno del Estado, para los efectos a que hace referencia la Fracción XVII del Artículo 70 de la Constitución Política del Estado.
 
+P.O. 27 DE DICIEMBRE DE 1995.
+
+CODIGO FISCAL PARA EL ESTADO DE MORELOS.
+
+PRIMERO.- El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDO.- Con las salvedades que se indican en el artículo siguiente, quedan abrogadas las disposiciones contenidas en el libro primero de la Ley General de Hacienda del Estado de Morelos y de la Ley General de Hacienda Municipal de esta Entidad y derogadas las demás leyes y disposiciones en cuanto se opongan al presente Código.
+
+TERCERO.- Respecto a la tramitación de los recursos administrativos pendientes, se observarán las siguientes prevenciones:
+
+I.- Tendrán plena validez y efecto los actos y resoluciones dictados durante la tramitación, conforme a las leyes abrogadas y derogadas.
+
+II.- Los asuntos contenciosos administrativos se sujetarán a las disposiciones anteriores, conforme a las leyes abrogadas o derogadas.
+
+III.- Si para la interposición de un recurso o para el ejercicio de algún otro derecho en la tramitación de los asuntos pendientes al iniciar su vigencia este Código, estuviere corriendo algún término y el señalado en él fuere menor que fijado en las disposiciones anteriores, se observará lo dispuesto en este ordenamiento.
+
+IV.- Todos los recursos, consultas y demás actos de los particulares, de las autoridades fiscales o de entre ambos, que se inicien a partir del día en que entre en vigor esté Código, se regularán plenamente por el mismo.
+
+CUARTO.- El Titular del Poder Ejecutivo del Estado instrumentará las adecuaciones que correspondan al reglamento interior de la Secretaría de Hacienda, en cumplimiento de las disposiciones contenidas en este Código, contando para ello con un plazo de noventa días hábiles a partir de la entrada en vigor de este ordenamiento.
+
+P.O. 27 DE DICIEMBRE DE 1995.
+
+LEYES DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MORELOS, POR LAS QUE DEJAN SIN EFECTO EL DECRETO NUMERO 93 PUBLICADO EN EL P.O. DE 25 DE ENERO DE 1989, EN LO QUE SE REFIERE A LOS ARTICULOS 155 A 158, 166 A 168 Y 180 A 184 DEL PRESENTE ORDENAMIENTO.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
 ###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor a partir del siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado.
+Esta Ley entrará en vigor el día primero de enero de mil novecientos noventa y seis.
+
+...
 
 ###### ARTICULO QUINTO.
 
-El titular del Poder Ejecutivo deberá expedir, dentro del término de ciento ochenta días siguientes a la entrada en vigencia de la presente Ley, el Reglamento del Registro Público de Transporte del Estado y dentro de ciento veinte días, contados a partir de la misma fecha anterior, los Reglamentos de Capacitación, de Inspección y Vigilancia, del Consejo Consultivo del Transporte del Estado de Sonora y del Funcionamiento Interior de la Unidad Administrativa de la Secretaría de Infraestructura Urbana y Ecología creada por disposición de esta Ley.
+Se deja sin efecto el decreto número 93 publicado el día 25 de enero de 1989 en el Periódico Oficial "Tierra y Libertad" en lo referente a los artículos 155 al 158 y 166 al 168 en lo relativo a Licencias, Permisos o Autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general; así como los artículos 180 al 184 en referencia a las Licencias, Permisos o Autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas; en concordancia a lo dispuesto en el artículo 10-A de la Ley de Coordinación Fiscal cuyas modificaciones al respecto, inician su vigencia el 1º. De Enero de 1996.
+
+...
 
 ###### ARTÍCULO PRIMERO.
 
