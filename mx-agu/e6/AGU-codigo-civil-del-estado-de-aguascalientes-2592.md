@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1948-10-17"
+last_updated: "1961-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1961.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -863,7 +863,7 @@ DE LOS REQUISITOS PARA CONTRAER MATRIMONIO.
 
 ###### Artículo 143.
 
-El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
+EI matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
 
 (NOTA: EL 2 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 40/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -893,7 +893,7 @@ Si el juez, en el caso de los dos artículos anteriores, se niega a suplir el co
 
 ###### Artículo 150.
 
-El ascendiente o tutor que ha prestado su consentimiento haciéndolo constar ante el Oficial del Registro Civil en forma auténtica, no puede revocarlo después, a menos que obre causa justa para ello.
+EI ascendiente o tutor que ha prestado su consentimiento haciéndolo constar ante el Oficial del Registro Civil en forma auténtica, no puede revocarlo después, a menos que obre causa justa para ello.
 
 ###### Artículo 151.
 
@@ -901,7 +901,7 @@ Si al ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio
 
 ###### Artículo 152.
 
-El Juez o Tribunal Superior, que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, si no por justa causa superveniente.
+EI Juez o Tribunal Superior, que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, si no por justa causa superveniente.
 
 ###### Artículo 153.
 
@@ -911,25 +911,25 @@ I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
 
 II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor o juez, en sus respectivos casos;
 
-III.- El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
+III.- EI parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
-IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
+IV.- EI parentesco de afinidad en línea recta, sin limitación alguna;
 
 V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
 
-VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
+VI.- EI atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
 VII.- La embriaguez habitual, la morfinomanía, eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula, la sífilis, la locura, las enfermedades crónicas e incurables que sean, además, contagiosas o hereditarias; y cualesquiera otra enfermedad o conformación especial que sean contrarias a los fines del matrimonio, bien porque impidan las funciones relativas, o bien porque científicamente hagan prever algún perjuicio grave o degeneración para los descendientes de ese matrimonio. La impotencia no será impedimento cuando exista por la edad o por otra causa cualquiera, en ambos contrayentes y sea conocida de ellos;
 
-VIII.- El idiotismo y la imbecilidad;
+VIII.- EI idiotismo y la imbecilidad;
 
-IX.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
+IX.- EI matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea corateral (sic) desigual.
 
 ###### Artículo 154.
 
-El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dura el lazo jurídico resultante de la adopción.
+EI adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dura el lazo jurídico resultante de la adopción.
 
 ###### Artículo 155.
 
@@ -1079,7 +1079,7 @@ Son nulos los pactos que los esposos hicieren contra las leyes o los naturales f
 
 ###### Artículo 186.
 
-El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador.
+EI dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador.
 
 ###### Artículo 187.
 
@@ -1087,7 +1087,7 @@ La sentencia que declara la ausencia de alguno de los cónyuges, modifica o susp
 
 ###### Artículo 188.
 
-El abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
+EI abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
 
 ###### Artículo 189.
 
@@ -1247,7 +1247,7 @@ Será necesario el consentimiento de ambos cónyuges para la enajenación y grav
 
 ###### Artículo 217.
 
-El marido no puede repudiar ni aceptar la herencia común sin consentimiento de la mujer; pero el juez puede suplir ese consentimiento previa audiencia de ésta.
+EI marido no puede repudiar ni aceptar la herencia común sin consentimiento de la mujer; pero el juez puede suplir ese consentimiento previa audiencia de ésta.
 
 ###### Artículo 218.
 
@@ -1301,7 +1301,7 @@ I.- Las pensiones y réditos devengados, durante el matrimonio, de obligaciones 
 
 II.- Los impuestos y los gastos de conservación y reposición indispensables para la conservación de los bienes propios de cada cónyuge, o los que se hicieren en relación con los bienes del fondo social;
 
-III.- El mantenimiento de la familia, educación de los hijos comunes, y de los entenados, hijos legítimos o menores de edad o impedidos;
+III.- EI mantenimiento de la familia, educación de los hijos comunes, y de los entenados, hijos legítimos o menores de edad o impedidos;
 
 IV.- Los gastos de inventario y los demás que se causen en la liquidación y entrega de los bienes que formaron el fondo social.
 
@@ -1351,11 +1351,11 @@ Ni el marido podrá cobrar a la mujer, ni ésta a aquel, retribución u honorari
 
 ###### Artículo 239.
 
-El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les conceda.
+EI marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les conceda.
 
 ###### Artículo 240.
 
-El marido responde a la mujer y ésta a aquel, de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+EI marido responde a la mujer y ésta a aquel, de los daños y perjuicios que le cause por dolo, culpa o negligencia.
 
 ###### Artículo 241.
 
@@ -13041,9 +13041,11 @@ Los miembros de la asociación tendrán derecho de separarse de ella, previo avi
 
 Los asociados sólo podrán ser excluidos de la sociedad por las causas que señalen los estatutos.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1961)</small>
+
 ###### Artículo 2556.
 
-Los asociados que voluntariamente se separen o que fueren excluidos, perderán todo derecho al haber social.
+Los asociados que voluntariamente se separen o fueren excluídos, perderán todo derecho al haber social, salvo pacto en contrario que se consigne en los Estatutos respectivos.
 
 ###### Artículo 2557.
 
@@ -15096,3 +15098,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 P.O. 17 DE OCTUBRE DE 1948.
 
 UNICO.- Este decreto es especial y de acuerdo con el párrafo 2o. del Artículo 26 de la Constitución Política Local, surte sus efectos desde la fecha de su expedición.
+
+P.O. 22 DE ENERO DE 1961.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
