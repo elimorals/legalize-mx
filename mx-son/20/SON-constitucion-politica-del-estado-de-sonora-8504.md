@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1977-02-02"
+last_updated: "1977-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 2 DE FEBRERO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE FEBRERO DE 1977.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -77,7 +77,7 @@ La Ley Orgánica respectiva contendrá la designación de cada uno de los munici
 
 ###### Artículo 5.
 
-Los municipíos continuarán con la extensión y límites que hasta hoy han tenido, salvo los casos a que se contraen las fracciones XII y XIII del Artículo 64 de esta Constitución.
+Los municipios continuarán con la extensión y límites que hasta hoy han tenido, salvo los casos a que se contraen las fracciones XII y XIII del Artículo 64 de esta Constitución.
 
 ###### Artículo 6.
 
@@ -185,7 +185,9 @@ I. Votar en las elecciones populares del Estado.
 
 II. Poder ser votado para los cargos de elección popular en el Estado y nombrado para cualquier otro empleo o comisión.
 
-III. Asociarse para tratar los asuntos políticos del Estado.
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 1977)</small>
+
+III. Asociarse para tratar los asuntos políticos del Estado y formar partidos políticos en los términos que prevenga la Ley Electoral correspondiente.
 
 IV. Tomar las armas en el Ejército o Guardia Nacional para la defensa de la República, del Estado y de sus instituciones.
 
@@ -319,17 +321,25 @@ Elección de Diputados.
 
 Los Diputados al Congreso del Estado serán electos en su totalidad cada tres años.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 31.
 
-La división del Estado en distritos electorales se hará proporcionalmente al número de habitantes. Los distritos electorales no podrán tener menos de veinticinco mil ni más de cien mil habitantes; y por cada uno de aquéllos se elegirá un diputado propietario y un suplente, en el concepto de que los distritos no podrán ser menos de nueve.
+La división del Estado en Distritos Electorales se hará proporcionalmente al número de habitantes. Los Distritos Electorales no podrán tener menos de veinticinco mil ni más de ciento veinte mil habitantes; y por cada uno de aquellos se elegirá un Diputado Propietario y un Suplente, en el concepto de que los Distritos no podrán ser menos de once. Además se designarán Diputados de Partido de acuerdo con esta Constitución y con lo que disponga la Ley Electoral a quienes resulten nominados de acuerdo con las reglas siguientes:
+
+I. Todo Partido Político que hubiese obtenido su registro conforme a la Ley Electoral del Estado, con un año o más de anterioridad al día de la elección, al obtener cuando menos cinco por ciento de la votación total del Estado, en la elección de Diputados respectiva, tendrá derecho a que se le acredite, de sus candidatos, a un Diputado que se denominará "de partido".
+
+II. Las diputaciones de partido serán acreditadas a los candidatos a diputados, que sin haber alcanzado la mayoría de votos en su Distrito, hayan obtenido el mayor número de sufragios a favor de sus propios partidos. La suplencia corresponderá al respectivo compañero de fórmula.
+
+III. El Partido Político que obtenga uno o más diputados de mayoría no tendrá derecho a que se le acredite Diputado de Partido.
+
+IV. Los diputados de mayoría y de partido, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones.
 
 ###### Artículo 32.
 
 La elección de Diputados será directa, en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, B.O. 21 DE MAYO DE 1960)</small>
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
 
 ###### Artículo 33.
 
@@ -337,25 +347,19 @@ Para ser diputado propietario o suplente al Congreso del Estado se requiere:
 
 I. Ser ciudadano sonorense en ejercicio de sus derechos políticos.
 
-> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
-
 II. Tener veintiún años cumplidos, por lo menos, el día de la elección.
 
-III. Haber residido en el Estado, cuando menos un año inmediatamente anterior al día en que se haga la elección, tratándose de los nativos del mismo; y cinco años inmediatamente anteriores al día de la elección, en el caso contrario.
+III. Haber residido en el Estado, cuando menos un año inmediatamente anterior al día en que se haga la elección, tratándose de los nativos del mismo; y cinco años inmediatamente anteriores al día de la elección, en caso contrario.
 
-IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiese separado definitivamente de su puesto.
+IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiere separado definitivamente de su puesto.
 
-> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1975)</small>
-
-V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario o Subsecretario de Gobierno, Tesorero General del Estado, Presidente Municipal, ni ejercido mando militar alguno en el Distrito Electoral de la elección dentro de los noventa días inmediatamente anteriores al día de la elección.
+V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario o Subsecretario de Gobierno, Tesorero General del Estado, Presidente Municipal ni ejercido mando militar alguno en el Distrito Electoral de la elección dentro de los noventa días inmediatamente anteriores al día de la elección.
 
 VI. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto religioso.
 
-VII. Ser nativo del distrito electoral respectivo, o no siéndolo tener cuando menos un año de residencia en él.
+VII. No haber sido diputado propietario en el período en que se fectúe (sic) la elección. Los suplentes podrán ser electos siempre que no hubiesen estado en ejercicio dentro de dicho período; pero los diputados propietarios no podrán ser electos con el carácter de suplentes.
 
-VIII. No haber sido diputado propietario en el período en que se efectúe la elección. Los suplentes podrán ser electos siempre que no hubiesen estado en ejercicio dentro de dicho período; pero los diputados propietarios no podrán ser electos con el carácter de suplentes.
-
-IX. No haber sido diputado o senador propietario al Congreso de la Unión, dentro del período en que se celebre la elección. Los diputados y senadores suplentes podrán ser electos con el carácter de propietarios siempre que no hubieren estado en ejercicio dentro del período en que se celebre la elección; pero los diputados y senadores propietarios no podrán ser electos con el carácter de suplentes.
+VIII. No haber sido diputado o senador propietario al Congreso de la Unión, dentro del período en que se celebre la elección. Los diputados y senadores suplentes podrán ser electos con el carácter de propietarios siempre que no hubiesen estado en ejercicio en el período en que se celebre la elección; pero los diputados y senadores propietarios no podrán ser electos con el carácter de suplentes.
 
 ###### Artículo 34.
 
@@ -557,7 +561,7 @@ VII. Para dictar leyes relativas a la salubridad pública del Estado.
 
 VIII. Para dictar leyes encaminadas a combatir el alcoholismo en el Estado.
 
-IX. Para determinar el número máximo de ministros de cultos religiosos que puedan ejercer su ministerio en el Estado, en las condiciones del artículo 130 de la Constitución General de la República.
+IX. Para determinar el número máximo de ministros de cultos religiosos que puedan ejercer su ministerio en el Estado en las condiciones del artículo 130 de la Constitución General de la República.
 
 X. Para reglamentar el funcionamiento del Municipio Libre como base de la división territorial y de la organización política y administrativa del Estado.
 
@@ -581,7 +585,9 @@ Para que la supresión tenga efecto se oirá al ayuntamiento o ayuntamientos int
 
 XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la residencia de los Poderes del Estado.
 
-XV. Para computar y calificar los votos emitidos en las elecciones de Gobernador y de Diputados y declarar quiénes han sido electos para los cargos respectivos.
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 1977)</small>
+
+XV. Para computar y calificar los votos emitidos en las elecciones de Gobernador y de diputados y declarar quienes han sido electos para los cargos respectivos; hacer lo propio con los obtenidos por los partidos políticos para los efectos del artículo 31 de esta Constitución, determinando a qué candidatos deberá acreditarse como diputados de partido.
 
 XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador, y para conceder licencias a unos y otro.
 
@@ -1948,6 +1954,10 @@ UNICO.- Esta Ley entrará en vigor tres días después de su publicación en el 
 B.O. 2 DE FEBRERO DE 1977.
 
 UNICO.- Esta ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
+
+B.O. 19 DE FEBRERO DE 1977.
+
+UNICO.- Esta ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
