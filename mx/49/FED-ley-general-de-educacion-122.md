@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2002-12-30"
+last_updated: "2003-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -82,7 +82,11 @@ II.- Favorecer el desarrollo de facultades para adquirir conocimientos, así com
 
 III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país;
 
-IV.- Promover, mediante la enseñanza de la lengua nacional -el español-, un idioma común para todos los mexicanos, sin menoscabo de proteger y promover el desarrollo de las lenguas indígenas;
+> <small>(REFORMADA, D.O.F. 13 DE MARZO DE 2003)</small>
+
+IV.- Promover mediante la enseñanza el conocimiento de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas.
+
+Los hablantes de lenguas indígenas, tendrán acceso a la educación obligatoria en su propia lengua y español.
 
 V.- Infundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones al mejoramiento de la sociedad;
 
@@ -98,7 +102,7 @@ X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia so
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
-XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable así como la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desemvolvimoiento armónico e integral del individuo y la sociedad.
+XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable así como la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad;
 
 XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general.
 
@@ -312,7 +316,7 @@ Los beneficiados directamente por los servicios educativos deberán prestar serv
 
 ###### ARTICULO 25.
 
-El Ejecutivo Federal y gobierno de cada entidad federativa, con sujeción a las disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al financiamiento de la educación publica y de los servicios educativos. El monto anual que el Estado- Federación, entidades federativas y municipios-, destine al gasto en la educación pública y en los servicios educativos, no podra ser menor a 8% del producto interno bruto del país, destinado a este monto, al menos el 1% del producto interno bruto a la investigación científica y al desarrollo tecnológico en las instituciones de Educación Superior Públicas.
+El Ejecutivo Federal y gobierno de cada entidad federativa, con sujeción a las disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al financiamiento de la educación publica y de los servicios educativos. El monto anual que el Estado- Federación, entidades federativas y municipios-, destine al gasto en la educación pública y en los servicios educativos, no podrá ser menor a 8% del producto interno bruto del país, destinado a este monto, al menos el 1% del producto interno bruto a la investigación científica y al desarrollo tecnológico en las instituciones de Educación Superior Públicas.
 
 Los recursos federales recibidos para ese fin por cada entidad federativa no serán transferibles y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades educativas en la propia entidad.
 
@@ -897,3 +901,9 @@ D.O.F. 30 DE DICIEMBRE DE 2002.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE MARZO DE 2003.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
