@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1939-05-25"
+last_updated: "1939-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1939.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1939.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -223,15 +223,19 @@ En cada Distrito Electoral se eligirá (sic) un Diputado Propietario y su respec
 
 Para ser Diputado se requiere:
 
-I. Ser mexicano por nacimiento y ciudadano sinaloense en ejercicio pleno de sus derechos.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 1939)</small>
 
-II. Ser nativo del Distrito Electoral o avecindado en él cuando menos seis meses antes del día de la elección.
+I. Ser mexicano por nacimiento y ciudadano sinaloense también por nacimiento, en ejercicio pleno de sus derechos cívicos.
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 1939)</small>
+
+II. Ser nativo del Distrito Electoral que lo elija, o avecindado en él cuando menos cinco años antes de la fecha de la elección.
 
 III. Ser mayor de veinticinco años en la fecha de la elección.
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1934)</small>
 
-IV. No podrá ser electo y será nula la elección que en su favor recayere: El Gobernador del Estado, el Secretario General del Gobierno del Estado, el Tesorero General del mismo, los Magistrados del Supremo Tribunal de Justicia, los Recaudadores de Rentas, Jueces de 1a. Instancia y demás funcionarios que no sean de elección popular por el Distrito en que se extiendan sus respectivas jurisdicciones legales, así como los militares en servicio activo en el Ejército Nacional, o cualquiera otra persona que tenga mando en la policía o gendarmería del Estado o del Municipio en el Distrito Electoral por el cual pretenda elegirse, a menos que todos ellos se hayan separado de su cargo por renuncia del mismo cuando menos seis meses antes del día de la elección.
+IV. No podrá ser electo y será nula la elección que en su favor recayere: El Gobernador del Estado, el Secretario General del Gobierno del Estado, el Tesorero General del mismo, los Magistrados del Supremo Tribunal de Justicia, los Recaudadores de Rentas, Jueces de 1a. Instancia y demás funcionarios que no sean de elección popular por el Distrito en que se extiendan sus respectivas jurisdicciones legales, así como los militares en servicio activo en el Ejército Nacional, o cualquiera otra persona que tenga mando en la policía o Gerdarmería (sic) del Estado o del Municipio en el Distrito Electoral por el cual pretenda elegirse, a menos que todos ellos se hayan separado de su cargo por renuncia del mismo cuando menos seis meses antes del día de la elección.
 
 ###### Art. 26.
 
@@ -1051,6 +1055,10 @@ III. No haber sido Secretario General del Gobierno, Tesorero General del Estado,
 
 IV. Los Presidentes Municipales y Regidores Propietarios de los Ayuntamientos, no podrán ser electos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación en los términos de esta Constitución, desempeñan las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos popularmente para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietario no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplente, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio en el segundo año del período respectivo.
 
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 1939)</small>
+
+V. Ser originario de la Municipalidad que lo elija, o vecino de ella cuando menos cinco años anteriores a la elección, siempre que sea ciudadano sinaloense por nacimiento y en ejercicio pleno de sus derechos cívicos.
+
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
 
 ###### Art. 117.
@@ -1528,3 +1536,7 @@ La visita anual a que se refiere este Decreto, deberá efectuarse en el curso de
 ###### Art. 2o.
 
 El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
+
+P.O. 20 DE JUNIO DE 1939.
+
+UNICO.- El presente Decreto surte sus efectos legales a partir del día primero de enero de mil novecientos cuarenta.
