@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "1994-08-05"
+last_updated: "1996-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 24 de diciembre de 1992.
 
@@ -84,9 +84,11 @@ A falta de competencia específica de determinada dependencia de la administraci
 
 Son auxiliares en la aplicación y vigilancia de esta ley las autoridades federales, estatales y municipales.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 5o.
 
-Quedan exceptuadas de las disposiciones de esta ley, los servicios que se presten en virtud de una relación o contrato de trabajo, los de las Instituciones y Organizaciones cuya supervisión o vigilancia esté a cargo de las Comisiones Nacionales Bancarias, de Valores o de Seguros y Fianzas; así como los servicios profesionales que no sean de carácter mercantil.
+Quedan exceptuadas de las disposiciones de esta Ley, los servicios que se presten en virtud de una relación o contrato de trabajo, los de las instituciones y organizaciones cuya supervisión o vigilancia esté a cargo de las comisiones nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro; así como los servicios profesionales que no sean de carácter mercantil.
 
 ###### ARTICULO 6o.
 
@@ -1073,3 +1075,13 @@ La autoridad administrativa tomará las precauciones necesarias a efecto de cont
 ###### ARTICULO CUARTO.
 
 Los nuevos proveedores de bienes o servicios deberán cumplir con lo establecido en el artículo 58 dentro del plazo a que se refiere el artículo segundo transitorio de este Decreto.
+
+D.O.F. 23 DE MAYO DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto el artículo 76 de la Ley de los Sistemas de Ahorro para el Retiro, que entrará en vigor el día primero de enero de 2001.
+
+...
