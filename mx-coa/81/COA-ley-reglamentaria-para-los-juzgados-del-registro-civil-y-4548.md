@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-para-los-juzgados-del-registro-civil-y-4548"
 country: "mx"
 rank: "ley"
 publication_date: "1906-01-20"
-last_updated: "1906-01-20"
+last_updated: "1947-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY REGLAMENTARIA PARA LOS JUZGADOS DEL REGISTRO CIVIL Y CAMPOS MORTUORIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY REGLAMENTARIA PARA LOS JUZGADOS DEL REGISTRO CIVIL Y CAMPOS MORTUORIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 1947.
 
 Ley publicada en la versión comercial del Periódico Oficial del Estado de Coahuila, el sábado 20 de enero de 1906.
 
@@ -419,37 +421,57 @@ Por las dispensas de publicaciones ó por la habilitación de edad, se pagará l
 
 Arancel.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1947)</small>
+
 ###### Art. 77.
 
-Los únicos derechos que se cobrarán en los juzgados del estado civil, serán los siguientes:
+El registro de los actos del Estado Civil será enteramente gratuito en las Oficinas respectivas, y sólo se cobrarán honorarios, que percibirán los Oficiales encargados del Registro Civil en la proporción que determine la Ley de Hacienda del Estado, en aquellos casos en que pudiendo practicarse los relacionados actos en las Oficinas del Registro Civil y a horas ordinarias, se verifiquen a solicitud de los interesados fuera de las Oficinas o a horas extraordinarias (con excepción del registro de defunciones que en todo caso será gratuito), con sujeción al siguiente
 
-I. Por el acta de nacimiento, yendo á la casa del recién nacido, $2.00:
+A R A N C E L:
 
-II. Por la presentación para el matrimonio, celebrada fuera del Juzgado y no siendo caso de necesidad, $2.00:
+I.- Por el acta de nacimiento yendo a la casa del recién nacido, $5.00 CINCO PESOS.
 
-III. Por la celebración del matrimonio en la casa de los interesados, de $5.00 á $12.00:
+II.- Por la de presentación para el matrimonio celebrado fuera de la Oficialía, y no siendo caso de necesidad, de $10.00 DIEZ A $20.00 VEINTE PESOS.
 
-IV. Por el oficio de remisión con los recados correspondientes para las publicaciones matrimoniales que se hagan en otro lugar, $1.50:
+III.- Por la celebración del matrimonio en la casa de los interesados, de $20.00 VEINTE a $100.00 CIEN PESOS.
 
-V. Por la copia certificada de cualquiera acta, además del valor del papel en que se extienda, á razón de 50cs. Hoja, $1.00:
+IV.- Por la copia certificada de cualquier acto, además del valor del papel en que se extienda, a razón de $0.50 CINCUENTA CENTAVOS hoja, por cada una de éstas, $2.00 DOS PESOS con excepción de las copias certificadas de las actas de defunción que se expedirán sin costo alguno.
 
-VI. Por cada acta de petición de dispensa de publicaciones, ó de parentesco, y por el informe respectivo, $1.50:
+V.- Por cada informe escrito a solicitud de los interesados, o constancia que se expida, $2.50 DOS PESOS CINCUENTA CENTAVOS.
 
-VII. Por cada anotación que se haga en los registros, á solicitud de los interesados, $0.50.
+VI.- Por cada anotación que se haga en los registros a solicitud de los interesados y por mandamiento judicial, $5.00 CINCO PESOS más $1.00 UN PESO por cada hoja o fracción, si se trata de insersión (sic) de documentos legalizados por Autoridad competente.
 
-VIII. Por cada informe en las solicitudes sobre exhumación de cadáveres cuando fuere pedida á los Jueces, $2.00:
+VII.- Cuando los actos a que se refieren las Fracciones I, II, y III de este Arancel, se verificaren fuera de la Población, cobrarán los Oficiales Encargados del Registro Civil, las distancias que recorrieren a razón de VEINTICINCO CENTAVOS KILOMETRO, ida y vuelta.
 
-IX. Cuando los actos á que se refieren las fracciones 1ª., 2ª. y 3ª. de este arancel se verificaren fuera de la población, cobrarán los Jueces la distancia que recorrieren á razón de veinticinco centavos kilómetro de ida y vuelta, siendo los gastos de transporte por cuenta de los interesados.
+VIII.- Por el acta de reconocimiento de hijos, y de tutela, $5.00 CINCO PESOS; por acta de adopción o emancipación $10.00 DIEZ PESOS; por acta de divorcio de $20.00 VEINTE A $100.00 CIEN PESOS; por ejecutorias que declaren la ausencia, la presunción de muerte ó que se ha perdido la capacidad legal para administrar bienes, de $20.00 VEINTE A $50.00 CINCUENTA PESOS.
 
-X. Por espacios de terrenos para sepulcros á perpetuidad, así como para urnas en lugares de distinción, se pagará á razón de ocho pesos por metro cuadrado, con la excepción contenida en la parte final de la fracción II del artículo 69
+IX.- Por espacio de terreno para sepulcro a perpetuidad, así como para urnas en lugares de distinción, se pagará a razón de $20.00 VEINTE PESOS por metro cuadrado, con excepción de los del Panteón de Santiago de la Ciudad de Saltillo que se enajenan de conformidad con la tarifa respectiva.
 
-XI. Por espacios de terrenos en lugar de distinción por quinquenios, á razón de $1.00 por metro cuadrado.
+X.- Por espacio de terreno en los panteones, en lugar de distinción, por quinquenios, a razón de $5.00 CINCO PESOS por metro cuadrado.
 
-XII. Los espacios para inhumaciones en departamentos de fosa común, gratis.
+XI.- Los espacios para inhumaciones en departamentos de fosa común, por quinquenios, serán gratuitos.
 
-XIII. Por el acta de reconocimiento de hijos, de tutela, de emancipación, de defunción, de supervivencia, yendo á la casa del interesado, $2.00.
+XII.- Los derechos para construir cementerios particulares para usos exclusivos de sus propietarios y familiares, serán de $200.00 DOSCIENTOS A $500.00 QUINIENTOS PESOS, y para la construcción de aquellos, el Gobierno del Estado otorgará concesión, consultando la opinión de la Autoridad Municipal; debiendo repartirse por partes iguales los derechos entre el Estado y el Municipio correspondiente.
 
-XIV. Los derechos para abrir sepulcros particulares fuera de los campos mortuorios, será de $50.00 á $100.00 y los hará efectivos la autoridrd (sic) política que otorgue la concesión, ó el Ejecutivo en su caso, teniendo en cuenta las circunstancias y condiciones del interesado.
+XIII.- Para la construcción y apertura de Campos Mortuorios por particulares o Compañías para lotificación y venta de fosas a perpetuidad, el Gobierno del Estado tomando en cuenta la opinión del R. Ayuntamiento del Municipio respectivo, otorgará la concesión respectiva mediante el pago de $1,000.00 UN MIL A $10,000.00 DIEZ MIL PESOS, llenados que sean por el concesionario los requisitos del Código Sanitario, previa la aprobación de los planos y especificaciones por la Dirección General de Obras Públicas y las tarifas de venta por el mismo Gobierno. El valor de los derechos de concesión se repartirá por partes iguales entre el Estado y el Municipio.
+
+XIV.- El funcionamiento de los cementerios y campos mortuorios a que se refieren las Fracciones XII y XIII estará sujeto a las disposiciones de la presente Ley y del Código Sanitario.
+
+El Oficial del Registro Civil que sin motivo justificado se niegue o retarde la autorización de un acto del Registro del Estado Civil, así como a extender las actas relativas o a expedir copias certificadas de las mismas, será sancionado por el Ejecutivo del Estado, por la primera vez, con una multa de $100.00 CIEN A $500.00 QUINIENTOS PESOS y en caso de reincidencia, con la destitución del cargo. Si la acción u omisión en que consista la falta constituye la comisión de un delito será puesto a disposición del Ministerio Público.
+
+Para los efectos del cobro de honorarios de que habla la primera parte del presente Artículo, las Oficialías del Registro Civil en el Estado, se dividen en seis grupos, por orden de categorías, y los Oficiales del Ramo, percibirán por honorarios los porcentajes señalados a cada categoría, en la forma que señala la Ley de Hacienda y Presupuesto de Egresos del Estado.
+
+Para el exacto cumplimiento de las disposiciones que anteceden los CC. Oficiales del Registro Civil y los CC. Recaudadores de Rentas, se sujetarán al siguiente instructivo.
+
+I.- Los CC. Oficiales del Registro Civil, tratándose de los actos previstos en este Artículo, tomando en consideración la condición económica del interesado, (si se trata de derechos que fije el Arancel con cuota mínima y máxima), expedirá una nota dirigida al C. Recaudador de Rentas de su jurisdicción, con la súplica de que se extienda al interesado el recibo correspondiente, a efecto de autorizarle el acto de que se trate.
+
+II.- En los lugares donde no resida Autoridad Fiscal, el C. Oficial del Registro Civil se proveerá de libros talonarios especiales que debidamente numerados y sellados le serán entregados por el C. Recaudador de Rentas de su adscripción, en que se hará constar el pago de los derechos correspondientes que cause la celebración de los actos previstos en este Artículo.
+
+III.- Cada quince días los CC. Oficiales del Registro Civil harán liquidación con el Recaudador de Rentas de su adscripción, comprobando este Funcionario el número de actos del registro civil celebrados, la expedición de copias certificadas, etc. en relación con las cantidades que por concepto de derechos se causaron, y haciendo pago inmediato del tanto por ciento que le resulte por honorarios según el procentaje (sic) asignado a la categoría de la Oficialía del Registro Civil de que se trate, previo recibo que extenderá el Oficial.
+
+IV.- Si se trata de un Oficial del Registro Civil que resida fuera del lugar donde se encuentre el C. Recaudador de Rentas, deberá hacerse la liquidación cada fin de mes comprendiendo dicha liquidación la inspección del libro talonario a que se hace referencia en el punto segundo de este instructivo. Este sistema se efectuará a razón de que mensualmente los Oficiales del Registro Civil foráneos concurren a la cabecera del Municipio para que el C. Presidente Municipal le otorgue el visto bueno al Corte de Caja Mensual, para fines estadísticos.
+
+V.- Los porcentajes que se establecen, según las categorías señaladas a las Oficialías del Registro Civil, se harán constar en la Ley de Hacienda del Estado y se liquidarán a los Oficiales del Registro Civil, quienes por su cuenta se proveerán de la papelería, útiles de escritorio y demás gastos que demanden la atención del servicio público que les está encomendado.
 
 ### CAPITULO IX.
 
@@ -514,3 +536,11 @@ Miguel Cárdenas.
 Melchor G. Cárdenas,
 
 Secretario.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE ABRIL DE 1947.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 66 POR EL QUE "SE REFORMA EL ARTÍCULO 77 DE LA LEY REGLAMENTARIA PARA LOS JUZGADOS DEL REGISTRO CIVIL Y CAMPOS MORTUORIOS DEL ESTADO".]
+
+ARTICULO TRANSITORIO.- El Presente Decreto surtirá sus efectos a partir del día 15 de Abril próximo.
