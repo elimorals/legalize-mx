@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-18581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-11-26"
-last_updated: "2003-07-11"
+last_updated: "2003-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Gobierno Constitucional del Estado de Puebla el viernes 26 de noviembre de 1999.
 
@@ -287,11 +287,15 @@ La presente Ley tiene por objeto regular la organización y funcionamiento del P
 
 El Congreso del Estado se integrará por el número de Diputados electos según los principios de mayoría relativa y de representación proporcional, que establece el artículo 33 de la Constitución Política del Estado Libre y Soberano de Puebla.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+Los Diputados de mayoría y los asignados conforme al principio de representación proporcional, tendrán iguales derechos y obligaciones.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 3o.
 
-Los Diputados de mayoría y los asignados conforme al principio de representación proporcional, tendrán iguales derechos y obligaciones.
+El Congreso del Estado se renovará en su totalidad cada tres años y comenzará a funcionar el día quince de enero del año siguiente al de las elecciones.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
@@ -301,17 +305,31 @@ El Congreso del Estado tendrá la estructura, organización y funcionamiento que
 
 Esta Ley, sus reformas, adiciones y su Reglamento, no necesitan de la promulgación del Gobernador del Estado, ni podrán vetarse.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 5o.
 
-La residencia del Congreso del Estado será la ciudad de Puebla; celebrará sus Sesiones en el Palacio del Poder Legislativo, y para trasladarse a otro lugar, se requiere del acuerdo de las dos terceras partes de los Diputados presentes.
+La residencia del Congreso del Estado será la Heroica Ciudad de Puebla de Zaragoza; celebrará sus Sesiones en el Palacio del Poder Legislativo, y para trasladarse a otro lugar, se requiere del acuerdo de las dos terceras partes de los Diputados presentes.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 6o.
 
-El Congreso del Estado se renovará en su totalidad cada tres años y comenzará a funcionar el día quince de enero del año siguiente al de las elecciones.
+El Poder Legislativo tendrá y administrará su patrimonio para el desempeño de sus funciones, el cual se integrará por:
+
+I.- Los recursos asignados en el Presupuesto de Egresos, que incluirá el gasto público estimado del Congreso del Estado y todas sus dependencias, incluyendo al Órgano de Fiscalización Superior; el fondo de recursos económicos propios; y los fondos especiales extraordinarios;
+
+II.- Los bienes muebles e inmuebles que se adquieran por cualquier título, en términos de los ordenamientos aplicables;
+
+III.- Los ingresos provenientes de donaciones, aportaciones y subsidios, de conformidad con la legislación aplicable;
+
+IV.- Los Ingresos derivados de los rendimientos financieros, fondos o fideicomisos constituidos como inversiones por el propio Congreso;
+
+V.- Los ingresos derivados de la venta de productos propios; y
+
+VI.- Los ingresos provenientes de las multas que imponga por sí, a través del Órgano de Fiscalización Superior del Estado, o por cualquier otra vía, en términos de las disposiciones aplicables.
+
+Para los efectos de la fracción VI de este artículo, se podrán constituir créditos fiscales a favor del Poder Legislativo del Estado y se turnarán a la Secretaría de Finanzas y Administración, para que mediante el Procedimiento Administrativo de Ejecución a que se refiere el Código Fiscal del Estado, se hagan efectivas y se enteren al Congreso del Estado. Con este fin, el Presidente de la Gran Comisión y el Titular del Poder Ejecutivo, o quien éste designe, podrán celebrar convenios de coordinación administrativa.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
@@ -327,9 +345,25 @@ El Congreso del Estado tendrá cada año, tres períodos ordinarios de Sesiones 
 
 I.- El primero comenzará el día quince de enero, terminará el quince de marzo y se ocupará de estudiar, discutir y votar las iniciativas de ley que se presenten y resolver los demás asuntos que le correspondan conforme a la Constitución;
 
-II.- El segundo comenzará el primero de junio, terminará el treinta y uno de julio y además de conocer de los asuntos mencionados en la fracción anterior, se abocará a examinar y calificar la cuenta de la Hacienda Pública Estatal, correspondiente al año inmediato anterior, la que será presentada por el Ejecutivo, antes del inicio de este período. El Congreso declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados previamente, si los gastos están justificados y si ha lugar o no a exigir responsabilidad; asimismo, se ocupará de revisar la cuenta de la Hacienda Pública Municipal de los Ayuntamientos de la Entidad y la de las Dependencias y Entidades sujetas a esa revisión; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-III.- El tercer período comenzará el quince de octubre y concluirá el quince de diciembre; en éste, el Congreso se ocupará preferentemente de estudiar, discutir y decretar los Presupuestos de Ingresos y Egresos del Estado y los Presupuestos de Ingresos de los Municipios, que deberán regir en el año siguiente. Unos y otros deberán ser presentados por conducto del Ejecutivo del Estado a más tardar el quince de noviembre de cada año. El Gobernador del Estado podrá hacer a los proyectos que presenten los Ayuntamientos, las observaciones que estime pertinentes.
+II.- El segundo comenzará el primero de junio, terminará el treinta y uno de julio, en el que además de conocer de los asuntos mencionados en la fracción anterior, examinará, revisará y calificará la Cuenta de la Hacienda Pública del Estado del año inmediato anterior, que será presentada por el Titular del Ejecutivo antes del inicio de este periodo.
+
+En el caso del último año previo al de conclusión de la administración constitucional del Ejecutivo del Estado, examinará, revisará y calificará la cuenta pública parcial correspondiente a los meses de octubre a diciembre que deberá ser presentada por el Titular del Poder Ejecutivo, dentro de los treinta y un días del mes de enero.
+
+En los casos previstos en los dos párrafos anteriores, el Congreso declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+III.- El tercero comenzará el día quince de octubre y terminará el quince de diciembre, deberá incluir en la agenda legislativa el estudio, la discusión y la aprobación de la Ley de Ingresos del Estado y de cada municipio, que habrán de entrar en vigor al año siguiente, así como de las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones a la propiedad inmobiliaria, las que se elaborarán y enviarán en términos de la legislación respectiva.
+
+El Ejecutivo del Estado y los Ayuntamientos a través de aquél, remitirán sus propias iniciativas de Ley de Ingresos a más tardar el quince de noviembre del ejercicio previo a su vigencia; a su vez, en la misma fecha, el Ejecutivo en forma exclusiva deberá enviar la iniciativa de Ley de Egresos del Estado. En el caso de los Ayuntamientos, deberán remitir, para su análisis y aprobación, junto con su iniciativa de Ley de Ingresos, las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+
+Una vez que sea aprobada la Ley de Ingresos del Estado, el Congreso examinará, discutirá y aprobará la Ley de Egresos del Estado, que habrá de regir en el ejercicio siguiente, y en su caso, examinará, discutirá y aprobará los presupuestos multianuales que el Ejecutivo proponga establecer en la iniciativa respectiva, destinados a la ejecución de inversiones públicas productivas y otras. Los requisitos y formalidades que el Gobierno del Estado debe observar para asumir obligaciones de pago destinadas a la realización de éstas, deben establecerse en la ley respectiva.
+
+Si al iniciar el ejercicio fiscal no han sido aprobadas la Ley de Ingresos del Estado y la Ley de Egresos, o únicamente esta última, o las Leyes de Ingresos de cada Municipio, seguirán vigentes las leyes correspondientes al ejercicio anterior, mismas que serán aplicables provisionalmente, hasta en tanto el Congreso emita las aprobaciones respectivas, sin que para éstas medie receso de éste. El Congreso, hasta en tanto no sea aprobada la Ley de Egresos de Estado, en la legislación respectiva, establecerá las obligaciones del Poder Ejecutivo para garantizar la generalidad, permanencia y continuidad de los servicios públicos, la satisfacción de las necesidades básicas de la población, los derechos de terceros, y evitar generar cargas financieras al Estado.
+
+Asimismo deberá incluir en la agenda legislativa, en el caso del último año previo al de conclusión de la administración constitucional del Ejecutivo del Estado, el examen, revisión y calificación de la cuenta pública parcial correspondiente a los meses de enero a septiembre, que deberá ser presentada por el Titular del Poder Ejecutivo, dentro de los treinta y un días del mes de octubre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
@@ -357,11 +391,11 @@ El Presidente estará facultado para solicitar el auxilio de la fuerza pública,
 
 Ninguna persona podrá portar armas en el interior del Palacio Legislativo, con excepción de lo preceptuado en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 12.
 
-Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre los bienes del Congreso, ni sobre las personas o bienes de los Diputados, en el interior del Recinto Parlamentario.
+Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre los bienes del Congreso, ni sobre las personas o bienes de los Diputados o de los servidores públicos del Poder Legislativo, en el interior del Recinto Parlamentario.
 
 (REUBICADO, P.O. 1 DE AGOSTO DE 2001)
 
@@ -399,7 +433,9 @@ II.- Recibir de la Secretaría General el informe y las constancias de asignaci�
 
 III.- Recibir de la Secretaría General la notificación de las resoluciones que el Tribunal Electoral del Estado haya hecho recaer en los recursos ante él interpuestos, conforme lo establezca el Código de Instituciones y Procesos Electorales del Estado y leyes aplicables;
 
-IV.- Entregar, antes del día diez de enero siguiente al año de la elección, credenciales de identificación y acceso a los Diputados electos que integrarán la nueva Legislatura, cuyas constancias de mayoría y validez, de asignación proporcional o por resolución firme del Tribunal Electoral del Estado, haya recibido la Legislatura;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+IV.- Entregar, antes del día diez de enero siguiente al año de la elección, credenciales de identificación y acceso a los Diputados electos que integrarán la nueva Legislatura, cuyas constancias de mayoría y validez, de asignación proporcional o por resolución firme de los tribunales electorales competentes, haya recibido el Congreso;
 
 V.- Citar a los Diputados electos a junta previa por lo menos cinco días antes del inicio del primer período de Sesiones Ordinarias de la Legislatura entrante; y
 
@@ -467,9 +503,17 @@ XI.- Presentar iniciativas de Leyes, Decretos o Acuerdos;
 
 XII.- Percibir una remuneración que se denominará dieta, así como las demás prestaciones de ley que les permitan desempeñar adecuadamente sus funciones;
 
-XIII.- Formar parte de un grupo parlamentario; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-XIV.- Participar con voz, pero sin voto, en las Sesiones de Comisiones y Comités de los que no formen parte.
+XIII.- Formar parte de un grupo parlamentario;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+XIV.- Participar con voz, pero sin voto, en las reuniones de Comisiones y Comités de los que no formen parte; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+XV.- Asistir a los seminarios o cursos de actualización y especialización organizados por el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
@@ -527,7 +571,9 @@ El Congreso del Estado, en materia de responsabilidad de los servidores público
 
 Dentro de los cinco días anteriores a la fecha en que el Congreso inicie su Período Ordinario de Sesiones o convoque a Sesiones Extraordinarias o Solemnes, deberá tener verificativo una Junta Preparatoria, que presidirá la Comisión Permanente y nombrará a propuesta de los Ciudadanos Diputados, en votación secreta y por planilla, la Mesa Directiva que presidirá las Sesiones.
 
-La Mesa Directiva se integrará por un Presidente, un Vice-presidente, dos Secretarios y dos Pro-secretarios, quienes desde luego tomarán posesión de sus cargos, y durarán en su cargo durante todo el período ordinario para el cual fueron electos, sin que puedan ser elegidos para el período inmediato.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+La Mesa Directiva es el órgano de dirección del Pleno del Congreso y se integrará por un Presidente, un Vice-presidente, dos Secretarios y dos Pro-secretarios, quienes desde luego tomarán posesión de sus cargos, y durarán en su cargo durante todo el periodo ordinario para el cual fueron electos, sin que puedan ser elegidos para el periodo inmediato.
 
 La elección se verificará con las formalidades que señala este Capítulo.
 
@@ -535,7 +581,9 @@ La elección se verificará con las formalidades que señala este Capítulo.
 
 Nombrada la Mesa Directiva, el Presidente hará la siguiente declaratoria:
 
-"LA (número) LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, DECLARA ABIERTO EL (número) PERÍODO DE SESIONES ORDINARIAS (Extraordinarias o Solemnes) CORRESPONDIENTES AL (número) AÑO DE SU EJERCICIO LEGAL."
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+"LA (número) LEGISLATURA DEL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, DECLARA ABIERTO EL (número) PERIODO DE SESIONES ORDINARIAS (extraordinarias o solemnes) CORRESPONDIENTES AL (número) AÑO DE SU EJERCICIO LEGAL."
 
 ###### ARTÍCULO 27.
 
@@ -597,9 +645,21 @@ XIV.- Ordenar el descuento correspondiente a los Diputados que incurran en falta
 
 XV.- Remitir a los otros Poderes del Estado, copia de la memoria a que hace referencia la fracción VI del artículo 17 de esta Ley;
 
-XVI.- Llamar a los Diputados Suplentes en los casos que esta Ley lo determina, y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-XVII.- Las demás que le señalen la Constitución Política del Estado, esta Ley, su Reglamento, o le encomiende el Congreso.
+XVI.- Llamar a los Diputados Suplentes en los casos que esta Ley lo determine;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+XVII.- Proveer lo conducente para dar cumplimiento a las resoluciones de las autoridades jurisdiccionales del Estado y la Federación, cuando para ello no se requiera de un procedimiento especial o resolución del Pleno;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+XVIII.- Dar contestación al informe que en términos del artículo 53 de la Constitución Política del Estado presente el Titular del Poder Ejecutivo del Estado; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+XIX.- Las demás que le señalen la Constitución Política del Estado, esta Ley, su Reglamento, o le encomiende el Congreso.
 
 ###### ARTÍCULO 33.
 
@@ -671,11 +731,17 @@ X.- Las demás que le señale esta Ley, su Reglamento o le encomiende el Preside
 
 ### CAPÍTULO V. DE LA GRAN COMISIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 40.
 
-La Gran Comisión fungirá como Órgano de Gobierno, a fin de optimizar el ejercicio de las funciones legislativas, políticas y administrativas que tiene el Congreso del Estado.
+La Gran Comisión es el órgano colegiado de gobierno, encargado de dirigir y optimizar el ejercicio de las funciones legislativas, políticas y administrativas que tiene el Congreso del Estado.
 
 En la segunda Sesión del Primer Período Ordinario de Sesiones y para todo el ejercicio constitucional de la Legislatura, se elegirán por planilla y en voto secreto, a ocho Diputados con derecho a voz y voto, que integrarán la Gran Comisión, de ella formarán parte cinco Diputados del Grupo Parlamentario mayoritario, dos Diputados de la primera minoría y un Diputado de la segunda minoría; además los Coordinadores de los demás Grupos Parlamentarios con representación en el Congreso del Estado, participarán con voz, pero sin voto. El Presidente será un Diputado del Grupo Parlamentario mayoritario, quien tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+En el supuesto de que exista igual número de Diputados pertenecientes a dos o más partidos políticos, que constituirían la primera minoría, corresponderá ésta a aquel que haya obtenido el mayor número de votos en la elección respectiva de Diputados por el principio de mayoría relativa. Idéntico criterio se seguirá en el caso de que exista igual número de Diputados de los partidos políticos que constituirían la segunda minoría.
 
 ###### ARTÍCULO 41.
 
@@ -687,13 +753,13 @@ II.- Conducir a través de su Presidente o de manera conjunta, las relaciones po
 
 III.- Coordinar las tareas legislativas, políticas y administrativas de la Legislatura;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-IV.- Someter a consideración y acuerdo de la Legislatura, cuando lo estime necesario, los nombramientos o remociones del Secretario General del Congreso del Estado y del Auditor General del Órgano de Fiscalización Superior del Estado, y sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Ley del Órgano de Fiscalización Superior del Estado, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado y demás disposiciones aplicables;
+IV.- Someter a consideración y acuerdo de la Legislatura, cuando lo estime necesario, los nombramientos o remociones del Secretario General del Congreso del Estado y del Auditor General del Órgano de Fiscalización Superior del Estado, y sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Ley del Órgano de Fiscalización Superior del Estado, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado y demás disposiciones aplicables. El Secretario General del Congreso del Estado y el Auditor General del Órgano de Fiscalización Superior, en sus respectivos ámbitos, tendrán igual nivel y jerarquía administrativa para todos los efectos;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-V.- Nombrar y remover a Directores Generales del Congreso del Estado y Auditores Especiales del Órgano de Fiscalización Superior del Estado, quienes otorgarán la protesta de Ley ante ésta; así como resolver sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Ley del Órgano de Fiscalización Superior, Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado y demás disposiciones aplicables;
+V.- Nombrar y remover a Directores Generales del Congreso del Estado y Auditores Especiales del Órgano de Fiscalización Superior del Estado, quienes otorgarán la protesta de Ley ante ésta; así como resolver sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Ley del Órgano de Fiscalización Superior, Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado y demás disposiciones aplicables. Los Directores Generales del Congreso del Estado y los Auditores Especiales del Órgano de Fiscalización Superior, en sus respectivos ámbitos, tendrán igual nivel y jerarquía administrativa para todos los efectos;
 
 VI.- Proponer a la Legislatura, la sustitución de los miembros integrantes de las Comisiones y de los Comités cuando exista causa justificada para ello;
 
@@ -707,13 +773,17 @@ IX.- Celebrar Convenios de Coordinación con las Entidades y Dependencias del Go
 
 X.- Convenir con instancias federales o estatales respecto de la producción y difusión, a través de los medios masivos de comunicación, de programas relativos a las actividades legislativas del Congreso;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-XI.- Asumir y ejercer atribuciones que no estén expresamente señaladas a la Mesa Directiva; y
+XI.- Acordar la realización de Seminarios y Cursos de actualización para los Diputados y los servidores públicos del Congreso;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-XII.- Las demás que le confiera esta Ley o su Reglamento.
+XII.- Asumir y ejercer atribuciones que no estén expresamente señaladas a la Mesa Directiva; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+XIII.- Las demás que le confiera esta Ley o su Reglamento.
 
 ###### ARTÍCULO 42.
 
@@ -745,13 +815,25 @@ IX.- Autorizar por escrito al Secretario General para que los libros u objetos d
 
 X.- Conocer de las resoluciones y sanciones que por responsabilidad administrativa imponga el Comité del Servicio Civil de Carrera Parlamentaria al personal administrativo del Poder Legislativo que no sea nombrado por el Pleno;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-XI.- Presidir el Comité del Servicio Civil de Carrera Parlamentaria a que se refiere el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado; y
+XI.- Presidir el Comité del Servicio Civil de Carrera Parlamentaria a que se refiere el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-XII.- Las demás que le confiera el Pleno del Congreso o la Gran Comisión.
+XII.- Suscribir convenios de coordinación y colaboración administrativa con los otros Poderes del Estado, así como con sus Dependencias y Entidades, para la realización de las actividades que se requieran para el mejor desempeño de las funciones del Congreso del Estado, así como para aquellas que por cualquier circunstancia no pueda asumir de manera inmediata;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+XIII.- Contar con el personal necesario para la eficaz conducción política y administrativa del Congreso, así como para la realización de acciones en beneficio de la sociedad;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+XIV.- Aprobar programas de auditoría del desempeño de los servidores públicos del Congreso, con la finalidad de establecer las bases para el otorgamiento de estímulos; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+XV.- Las demás que le confiera el Pleno del Congreso o la Gran Comisión.
 
 ### CAPÍTULO VI. DE LAS COMISIONES Y COMITÉS
 
@@ -759,7 +841,9 @@ XII.- Las demás que le confiera el Pleno del Congreso o la Gran Comisión.
 
 El Congreso del Estado se organizará con el número de Comisiones Generales y Comités que requiera para el cumplimiento de sus funciones.
 
-Las Comisiones del Congreso son Órganos Colegiados que se integran por Diputados, cuyas funciones son las de analizar y discutir las Iniciativas de Ley, los proyectos de Decreto y demás asuntos que le sean turnados por el Pleno para elaborar en su caso, los Dictámenes correspondientes.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+Las Comisiones del Congreso son Órganos Colegiados que se integran por Diputados, cuyas funciones son las de analizar y discutir las Iniciativas de Ley o de Decretos, proyectos de Acuerdos y demás asuntos que le sean turnados por el Pleno o la Comisión Permanente, según corresponda, para elaborar en su caso, los Dictámenes con Minuta o resoluciones que correspondan.
 
 La competencia de las Comisiones Generales se deriva de su propia denominación, en correspondencia a las respectivas áreas de la administración estatal y municipal, y serán:
 
@@ -809,17 +893,29 @@ XIV.- Desarrollo Económico y Turismo;
 
 XV.- Desarrollo Urbano y Medio Ambiente;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-XVI.- Migración y Asuntos Internacionales; y
+XVI.- Migración y Asuntos Internacionales;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-XVII.- Instructora.
+XVII.- Asuntos Municipales; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+XVIII.- Instructora.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+Los integrantes de las Comisiones Generales y, en su caso, de las Comisiones Especiales, serán designados por el Pleno durante la tercera Sesión del Primer Periodo Ordinario de Sesiones del primer año de su ejercicio constitucional.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 44.
 
-Las Comisiones Generales estarán integradas por siete Ciudadanos Diputados, un Presidente y seis miembros, que se elegirán por planilla a propuesta de la Gran Comisión. Su elección se hará en votación secreta y por mayoría de votos. En su integración estarán representados los Grupos Parlamentarios, de acuerdo a su importancia cuantitativa.
+Las Comisiones Generales estarán integradas por siete Diputados, de los cuales uno fungirá como Presidente, otro como Secretario y los cinco restantes como Vocales.
+
+La elección de las Comisiones Generales se hará por planilla a propuesta de la Gran Comisión, por mayoría de votos y en votación secreta, y en su integración estarán representados los Grupos Parlamentarios, de acuerdo a su importancia cuantitativa.
 
 ###### ARTÍCULO 45.
 
@@ -855,11 +951,15 @@ V.- Informática; y
 
 VI.- Comunicación Social.
 
-Los miembros de los Comités serán designados por el Pleno durante la tercera Sesión del Primer Período Ordinario de Sesiones de la Legislatura.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+Los integrantes de los Comités serán designados por el Pleno durante la tercera Sesión del Primer Periodo Ordinario de Sesiones del primer año de su ejercicio constitucional.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 48.
 
-Los Comités estarán integrados por siete Ciudadanos Diputados, uno será el Presidente, y los seis restantes serán miembros. Se elegirán por planilla a propuesta de la Gran Comisión; su elección se hará en votación secreta y por mayoría de votos. En su integración estarán representados los Grupos Parlamentarios de acuerdo a su importancia cuantitativa.
+Los Comités estarán integrados por siete Diputados, de los cuales uno fungirá como Presidente, otro como Secretario, y los cinco restantes como Vocales. Se elegirán por planilla a propuesta de la Gran Comisión; su elección se hará en votación secreta y por mayoría de votos. En su integración estarán representados los Grupos Parlamentarios de acuerdo a su importancia cuantitativa.
 
 ### CAPÍTULO VII. DE LOS GRUPOS PARLAMENTARIOS
 
@@ -881,13 +981,21 @@ II.- Nombre del Diputado que coordinará al grupo.
 
 Los Grupos Parlamentarios deberán acreditar su formación y designar coordinador en la segunda Sesión del primer año de ejercicio legal de la Legislatura, que podrá ser removido en cualquier tiempo por la mayoría de los integrantes de su grupo, observando lo dispuesto en el artículo anterior.
 
-El Presidente de la Mesa Directiva, comunicará al Pleno las designaciones.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+En el supuesto de que los Diputados pertenecientes a un mismo partido político no llegaren a un acuerdo respecto de aquél que fungirá como coordinador del Grupo Parlamentario respectivo, comunicarán esta situación a la Mesa Directiva y la designación a que se refiere el párrafo anterior podrá realizarse en cualquier momento.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+El Presidente de la Mesa Directiva comunicará al Pleno las designaciones.
 
 ###### ARTÍCULO 52.
 
 Los representantes de cada Grupo Parlamentario serán el conducto para concertar la realización de las tareas legislativas con la Mesa Directiva, la Gran Comisión y la Comisión Permanente.
 
-Los Grupos Parlamentarios dispondrán, según las posibilidades del presupuesto del Congreso, de locales adecuados, asesores, personal y elementos materiales para el cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+Los Grupos Parlamentarios dispondrán de locales adecuados, asesores, personal y elementos materiales para el cumplimiento de sus funciones.
 
 ### CAPÍTULO VIII. DE LA COMISIÓN PERMANENTE
 
@@ -975,7 +1083,9 @@ III.- Poseer título de Licenciado en Derecho, con antigüedad mínima de cinco 
 
 Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Secretaría General contará con las siguientes dependencias técnicas y administrativas:
 
-I.- Dirección General de Apoyo Parlamentario e Informática;
+(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003) (F. DE E., P.O. 23 DE ENERO DE 2004)
+
+I.- Dirección General de Apoyo Parlamentario, Vinculación Institucional e Informática Legislativa;
 
 II.- Dirección General de Asuntos Jurídicos, de Estudios y de Proyectos Legislativos;
 
@@ -985,11 +1095,71 @@ IV.- Dirección General de Coordinación Administrativa; y
 
 V.- Unidad de Relaciones Públicas.
 
-La Secretaría General y las Direcciones Generales contarán con el número de Direcciones, Jefaturas de Departamento y servidores públicos de confianza y de base que sean necesarios para el cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+La Secretaría General y las Direcciones Generales contarán con el número de Coordinaciones, Jefaturas de Departamento y servidores públicos de confianza y de base que sean necesarios para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+### CAPÍTULO XII. DEL CENTRO DE ESTUDIOS SOBRE DESARROLLO ECONÓMICO Y FINANZAS PÚBLICAS
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+###### ARTÍCULO 64.
+
+El Congreso del Estado contará con un órgano de apoyo técnico, de carácter institucional y no partidista, integrado por especialistas en el análisis, organización y manejo de información relacionada con las finanzas públicas y el desarrollo del Estado, denominado CENTRO DE ESTUDIOS SOBRE DESARROLLO ECONOMICO Y FINANZAS PUBLICAS.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+###### ARTÍCULO 65.
+
+El "CENTRO" tendrá las atribuciones siguientes:
+
+I.- Analizar las iniciativas de Ley de Ingresos y de Egresos del Estado, leyes de Ingresos de los Municipios, leyes fiscales, leyes hacendarias y, en general, sobre los aspectos de carácter económico y fiscal competencia del Congreso;
+
+II.- Elaborar los análisis, proyecciones y cálculos que le sean requeridos por la Gran Comisión, las Comisiones Generales y Especiales, Grupos Parlamentarios y Diputados, sobre el tema de las finanzas públicas;
+
+III.- Proporcionar a la Gran Comisión, las Comisiones Generales y Especiales, Grupos Parlamentarios y Diputados, la información que requieran para el ejercicio de sus funciones en materia de finanzas públicas y desarrollo del Estado;
+
+IV.- Asesorar a la Gran Comisión, las Comisiones Generales y Especiales, Grupos Parlamentarios y Diputados, cuando éstos requieran orientación en materia económica, con el propósito de mejorar cualitativa y cuantitativamente los datos requeridos para el desempeño de sus funciones;
+
+V.- Realizar, a petición de la Gran Comisión, las Comisiones Generales y Especiales, Grupos Parlamentarios y Diputados, investigaciones y estudios sobre los temas directamente relacionados con las finanzas públicas y desarrollo del Estado, abarcando los que por su naturaleza tengan relación con éstos; y
+
+VI.- Las demás que le confiera la presente Ley, el Reglamento Interior del Honorable Congreso del Estado y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+###### ARTÍCULO 66.
+
+El "CENTRO" tendrá los siguientes órganos de dirección:
+
+I.- Un Consejo Directivo; y
+
+II.- Un Director General.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+###### ARTÍCULO 67.
+
+El Consejo Directivo del "CENTRO", será el máximo Órgano de Gobierno, y estará integrado por un Presidente, que será el Presidente de la Comisión de Hacienda Pública y Patrimonio Estatal y Municipal, así como con los Presidentes de las Comisiones Generales y Comités que se establezcan en el Reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+###### ARTÍCULO 68.
+
+El "CENTRO" se integrará, además, por los servidores públicos de confianza y de base necesarios para el cumplimiento de sus funciones, de conformidad con la disponibilidad presupuestal.
+
+La estructura Orgánica y funcional del "CENTRO" será determinada en la reglamentación aplicable.
+
+(REUBICADO, P.O. 19 DE DICIEMBRE DE 2003)
+
+## TÍTULO CUARTO. DE LAS INICIATIVAS
 
 ### CAPÍTULO I. DEL DERECHO DE INICIATIVA
 
-###### ARTÍCULO 64.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+###### ARTÍCULO 69.
 
 El derecho de iniciar Leyes y Decretos corresponde:
 
@@ -997,53 +1167,57 @@ I.- Al Gobernador del Estado;
 
 II.- A los Diputados;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
-
 III.- Al Tribunal Superior de Justicia en lo relacionado con la administración de justicia;
-
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
 
 IV.- A los Ayuntamientos en lo relativo a la administración municipal; y
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2001)</small>
+V.- A los ciudadanos del Estado, en términos de lo que establezca la Constitución Política del Estado y la legislación aplicable.
 
-V.- A los ciudadanos del Estado, en los términos que establezca la Constitución Política del Estado y la legislación aplicable.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
-
-###### ARTÍCULO 65.
+###### ARTÍCULO 70.
 
 Las resoluciones del Congreso tendrán el carácter de Ley, Decreto o Acuerdo. Las Leyes y Decretos se sujetarán a los trámites establecidos por los artículos 64 y 140 de la Constitución Política del Estado, cuando se refiera a reformas o adiciones a la misma. Los Acuerdos se tramitarán en los términos señalados por su Reglamento. Las Leyes y Decretos serán firmados por el Presidente, el Vice-presidente y los Secretarios; los Acuerdos sólo por estos últimos.
 
-###### ARTÍCULO 66.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+###### ARTÍCULO 71.
 
 Toda norma jurídica obligatoria y general, dictada por el Congreso del Estado, tendrá el carácter de Ley; las que no tienen el carácter general, serán Decretos y toda resolución adoptada por el Congreso en conclusión a determinado acto jurídico, serán Acuerdos.
 
-###### ARTÍCULO 67.
+(REUBICADO, P.O. 19 DE DICIEMBRE DE 2003)
+
+### CAPÍTULO II. DE LA CONSULTA POPULAR
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+###### ARTÍCULO 72.
 
 Cuando a juicio de la Gran Comisión se requiera conocer la opinión de los ciudadanos, el Congreso del Estado, podrá someter a consulta popular cualquier asunto de su competencia.
 
 La Comisión competente, fijará las bases mediante convocatoria, conducirá los trabajos, realizará el análisis de los resultados y presentará sus conclusiones.
 
-> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2001)</small>
+(REUBICADO, P.O. 19 DE DICIEMBRE DE 2003)
 
-###### ARTÍCULO 68.
+## TÍTULO QUINTO. (REUBICADO, P.O. 19 DE DICIEMBRE DE 2003)
+
+### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
+
+###### ARTÍCULO 73.
 
 El Congreso del Estado establecerá el Servicio Civil de Carrera Parlamentaria, atendiendo a la capacidad, idoneidad, rectitud, probidad, constancia y profesionalismo de sus servidores públicos.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-## TÍTULO CUARTO. DE LAS INICIATIVAS
-
-### CAPÍTULO II. DE LA CONSULTA POPULAR
-
-###### ARTÍCULO 69.
+###### ARTÍCULO 74.
 
 El Servicio Civil de Carrera Parlamentaria tendrá como propósito garantizar la estabilidad y seguridad en el empleo, así como fomentar la vocación de servicio y promover la capacitación permanente del personal.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-###### ARTÍCULO 70.
+###### ARTÍCULO 75.
 
 El Congreso del Estado expedirá y vigilará la exacta observancia del Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado, el que deberá contener, por lo menos:
 
@@ -1053,23 +1227,15 @@ II.- Los principios de estabilidad y permanencia en el trabajo;
 
 III.- El sistema de clasificación y perfiles de puestos;
 
-IV.- El sistema salarial; y
+IV.- El sistema salarial y de estímulos; y
 
 V.- Los programas para la capacitación, actualización y desarrollo de los servidores públicos.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
-###### ARTÍCULO 71.
+###### ARTÍCULO 76.
 
 El Congreso del Estado podrá celebrar convenios de coordinación o colaboración con los demás Poderes o con instituciones públicas o privadas, con el fin de cumplir con los objetivos del Servicio Civil de Carrera Parlamentaria y su Estatuto.
-
-### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
-
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2001)</small>
-
-## TÍTULO QUINTO
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ## TRANSITORIOS
 
@@ -1230,5 +1396,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 La integración de la Comisión General de Migración y Asuntos Internacionales se hará en el Segundo Periodo Ordinario de Sesiones del segundo año de ejercicio legal de la Quincuagésima Quinta Legislatura.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 19 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil cuatro, y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La integración de la Comisión General de Asuntos Municipales se hará en el Primer Periodo Ordinario de Sesiones del tercer año de ejercicio constitucional de la Quincuagésimo Quinta Legislatura.
+
+###### ARTÍCULO TERCERO.
+
+El cargo de Secretario de las Comisiones y Comités de la Quincuagésimo Quinta Legislatura corresponderá al Diputado que esté en segundo lugar en la respectiva lista votada por el Pleno del Congreso al momento de elegir a los integrantes de dichos órganos colegiados.
+
+###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
