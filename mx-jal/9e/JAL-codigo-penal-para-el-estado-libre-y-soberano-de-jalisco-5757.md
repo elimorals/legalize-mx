@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1999-03-18"
+last_updated: "1999-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -695,11 +695,9 @@ La libertad condicional no se concederá a los habituales.
 
 Siempre que el beneficiado con la libertad condicional observe durante ella mala conducta, cometa un nuevo delito o deje de cumplir con alguno de los requisitos expresados en el Artículo 67, se le privará nuevamente de la libertad para que extinga toda la parte de la sanción que se le había impuesto sea cual fuese el tiempo que lleve de estar disfrutando del beneficio, salvo que el nuevo delito sea culposo y se haya reparado el daño.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 1989)</small>
-
 ###### Art. 70.
 
-Las sanciones privativas de libertad, siempre que excedan de un año, se entienden impuestas en calidad de retención, hasta una cuarta parte más de su duración, sin que lleguen a exceder en total de cuarenta años. Así se expresará en la sentencia, sin que su omisión sea obstáculo para hacerla efectiva por el Ejecutivo, si, a juicio del propio Ejecutivo, la conducta del reo fuere negativa en la segunda mitad de la condena.
+(DEROGADO, P.O. 1 DE MAYO DE 1999)
 
 ###### Art. 71.
 
@@ -2087,7 +2085,7 @@ A los agentes del Ministerio Público, de la Policía Investigadora o de las pol
 
 Si se aplica la violencia en la detención, la pena se aumentará de uno a tres años de prisión.
 
-### CAPITULO I. De las Definiciones
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2097,7 +2095,7 @@ Se impondrán de seis meses a seis años de prisión al que exija para sí o par
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO I. De las Definiciones
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3370,3 +3368,7 @@ CUARTO. Se ordena dar profusa difusión periódica al presente decreto en los me
 P.O. 18 DE MARZO DE 1999.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE MAYO DE 1999.
+
+UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
