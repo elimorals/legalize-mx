@@ -4,7 +4,7 @@ identifier: "VER-ley-del-notariado-6779"
 country: "mx"
 rank: "ley"
 publication_date: "1965-06-01"
-last_updated: "1992-04-04"
+last_updated: "1995-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ABRIL DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 1995.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 1 de junio de 1965.
 
@@ -141,9 +141,15 @@ En los Distritos donde no hubiere Notario, el Juez de Primera Instancia que desi
 
 Cada Notaría será atendida por un Notario titular o por quienes deban sustituirlo.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 1995)</small>
+
 ###### ARTICULO 13.
 
-Pueden autorizarse permutas de Notarías siempre que a juicio del Ejecutivo del Estado y del Colegio de Notarios no se perjudique el servicio público.
+Pueden autorizarse permutas de Notarías cuando los solicitantes hayan estado en funciones durante un período mínimo de tres años.
+
+El Ejecutivo del Estado, previa opinión del Colegio de Notarios, autorizará la permuta si a su juicio no se perjudica el servicio público.
+
+Si durante el trámite de autorización cesa en sus funciones el o los permutantes, se tendrá por no solicitada la permuta.
 
 ### Capítulo Tercero. ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
@@ -273,7 +279,9 @@ I.- Ser mexicano por nacimiento.
 
 II.- Haber cumplido 25 años.
 
-III.- Ser licenciado en derecho con cinco años cuando menos de ejercicio profesional debidamente comprobado.
+> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 1995)</small>
+
+III.- Ser licenciado en derecho con cinco años cuando menos de ejercicio profesional y dos de práctica Notarial, debidamente comprobados.
 
 IV.- No tener enfermedad habitual que impida el ejercicio de las facultades intelectuales ni un impedimento físico que se oponga a las funciones de Notario.
 
@@ -281,7 +289,9 @@ V.- Acreditar haber tenido y tener buena conducta.
 
 VI.- Ser vecino del Estado.
 
-VII.- Ser Aspirante al ejercicio del Notariado.
+> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 1995)</small>
+
+VII.- Ser aspirante al ejercicio del Notariado y aprobar el curso de especialización Notarial que imparta el Colegio de Notarios o las Instituciones de Educación Superior.
 
 > <small>(REFORMADA, G.O. 4 DE ABRIL DE 1992)</small>
 
@@ -289,11 +299,15 @@ VIII.- No haber sido condenado por delito cometido con dolo.
 
 IX.- No haber sido separado del ejercicio del Notariado dentro de la República, con causa justificada.
 
-X.- No ser ministro de culto.
+> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 1995)</small>
+
+X.- No ser ministro de culto religioso ni haber desempeñado cargo público en los últimos doce meses anteriores a la fecha de los exámenes de oposición.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 38.
 
-los (sic) requisitos que fijan las fracciones I y II del artículo anterior se comprobarán por los medios que establece el Código Civil para justificar el estado civil de las personas; los de la fracción III, por el título correspondiente inscrito en el Departamento de Profesiones del Estado y por constancias que hagan fe pública; el de la fracción IV, con certificado de dos médicos con título oficial; el de la fracción V, por información testimonial de dos vecinos idóneos y de representación social, recibida con audiencia del Ministerio Público y del Delegado del Colegio de Notarios, quien a su vez puede rendir pruebas en contrario; el de la fracción VI, con certificado expedido por la Presidencia Municipal correspondiente; el de la fracción VII, con la patente respectiva; los de las fracciones VIII, IX y X, no requieren prueba pero su afirmación admite prueba en contrario.
+Los requisitos que fijan las fracciones I y II del artículo anterior se comprobarán por los medios que establece el Código Civil para justificar el estado civil de las personas; los de la fracción III, por el título correspondiente inscrito en el Departamento de Profesiones del Estado y la certificación expedida por Notario Público en funciones y por constancias que hagan fe pública; el de la fracción IV, con certificado de dos médicos con título oficial; el de la fracción V, por información testimonial de dos vecinos idóneos y de representación social, recibida con audiencia del Ministerio Público y del delegado del Colegio de Notarios, quien a su vez puede rendir pruebas en contrario; el de la fracción VI, con certificado expedido por la Presidencia Municipal correspondiente; el de la fracción VII, con la patente respectiva y la constancia de aprobación del curso de especialización; los de las fracciones VIII, IX y X, no requieren prueba pero su afirmación admite prueba en contrario.
 
 ###### ARTICULO 39.
 
@@ -351,9 +365,11 @@ El Jurado comunicará al Colegio de Notarios sobre el resultado de la oposición
 
 Cumplidos los requisitos señalados en los artículos anteriores, el Gobernador del Estado extenderá el nombramiento de Notario al triunfador de la oposición. En el caso de la parte final del artículo 47, extenderá nombramiento en favor del candidato que elija entre los que obtuvieron la mayor calificación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE OCTUBRE DE 1995)</small>
+
 ###### ARTICULO 50.
 
-Cuando no hubiere oposición por no haberse presentado más que una sola solicitud dentro del término señalado en el artículo 40, el Gobernador del Estado podrá expedir el nombramiento en favor del solicitante, previa opinión del Colegio de Notarios.
+Cuando no hubiere oposición por no haberse presentado más de una solicitud dentro del término señalado en el artículo 40, el Gobernador del Estado podrá expedir el nombramiento en favor del solicitante, siempre que, sometido a un examen similar al de oposición, resulte aprobado en los términos de lo dispuesto por el artículo 46 de esta Ley.
 
 > <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
 
@@ -781,11 +797,11 @@ Se prohibe a los Notarios recibir o conservar dinero o documentos que represente
 
 El protocolo está constituído por los libros o volúmenes en los cuales el Notario asienta las escrituras y las actas y por el Apéndice en el que se glosan los documentos relacionados con aquéllos.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 114.
 
-El Notario podrá llevar simultáneamente varios libros de Protocolo abiertos, pero sin exceder de diez. Si fueren más de dos, necesitará autorización de la Secretaría General de Gobierno quien oirá la opinión del Consejo Directivo del Colegio de Notarios.
+El Notario podrá llevar simultáneamente varios libros de protocolo abiertos, pero sin exceder de diez. Si fueren más de dos, necesitará autorización del Departamento de Inspección y Archivo General de Notarías, quien oirá la opinión del Colegio de Notarios. Cuando sea necesario, por causas de interés social, el Titular del Ejecutivo podrá autorizar la apertura de libros de protocolo especiales.
 
 ###### ARTICULO 115.
 
@@ -1308,3 +1324,9 @@ El presente ordenamiento entrará en vigor al día siguiente de su publicación 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+G.O. 7 DE OCTUBRE DE 1995.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a estas reformas y adiciones.
