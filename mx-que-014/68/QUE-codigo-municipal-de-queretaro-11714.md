@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2000-09-01"
+last_updated: "2000-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CODIGO MUNICIPAL DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2000.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -2559,6 +2559,8 @@ DE LAS ACTIVIDADES COMERCIALES
 
 ### CAPITULO II. De las Actividades Comerciales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 248.
 
 Es competencia del Ayuntamiento y facultad de la Tesorería Municipal llevar a cabo la expedición, control y cancelación o revocación de las licencias y permisos de funcionamiento de establecimientos, así como la inspección y ejecución fiscal, auditorías que le competan y todas las atribuciones que le correspondan de conformidad con las disposiciones de este código y demás reglamentos aplicables.
@@ -2581,11 +2583,19 @@ Los particulares no podrán realizar una actividad distinta a la autorizada en l
 
 ###### ARTICULO 252.
 
-El ejercicio del comercio se regirá fundamentalmente en las leyes y reglamentos de la materia y bajo las siguientes condiciones.
+El ejercicio del comercio se regirá fundamentalmente en las leyes y reglamentos de la materia y bajo las siguientes condiciones:
 
-I. Todos los establecimientos comerciales en el Municipio tendrán derecho a abrir al público de lunes a sábado de las 9:00 a las 20:00 horas en forma ininterrumpida salvo las excepciones que contempla el presente apartado;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-II. La presidencia municipal podrá expedir permiso a los establecimientos para que puedan permanecer abiertos al público en horas no comprendidas en los horarios autorizados, previo el pago de los derechos correspondientes;
+I. Todos los establecimientos comerciales en el municipio tendrán derecho a abrir al público de lunes a domingo de las 08:00 a las 22:00 horas en forma ininterrumpida salvo las excepciones que contempla el presente apartado;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+II. La Secretaría de Economía y Finanzas y Tesorería Municipal podrá expedir permiso a los establecimientos para que puedan permanecer abiertos al público en horas no comprendidas en los horarios autorizados, previo pago de los derechos correspondientes, con la anuencia por escrito, fundada y motivada, del Delegado Municipal que corresponda y de la Comisión de Desarrollo Rural y Económico, atendiendo al impacto social que se genere en la zona, la ubicación del establecimiento en donde se verificará que se encuentre en áreas comerciales, en vialidades de fácil acceso, con la debida iluminación a las horas que se requiera, en los siguientes casos:
+
+a) Podrán otorgarse en ventas nocturnas o promocionales;
+
+b) En giros con venta de bebidas alcohólicas en envase cerrado, sólo se podrán otorgar hasta un máximo de dos horas.
 
 III. Inmediatamente después de la hora permitida, los establecimientos deberán cerrar completamente sin que permanezca público en su interior;
 
@@ -2593,29 +2603,95 @@ IV. Cuando en algún establecimiento vendan artículos comprendidos en diversos 
 
 V. La autoridad municipal tendrá la facultad de fijar el horario a los establecimientos no señalados en este apartado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 253.
 
 Quedan exceptuados del horario indicado en la fracción I del artículo anterior, los establecimientos siguientes, los que se sujetarán al horario que se les señala:
 
-I. Las 24 horas del día: agencias de inhumaciones, boticas de guardia y expendios de gasolina y lubricantes, así como estacionamientos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+I. Las 24 horas del día, de lunes a domingo: agencias de inhumaciones, farmacias, expendios de gasolina, gas LP para vehículos automotores, así como estacionamientos, industrias, hoteles, sanatorios, hospitales y tiendas de autoservicio; sujetos a lo que se disponga de conformidad con el artículo 179 de la Ley Orgánica Municipal del Estado de Querétaro;
 
 II. Las boticas, farmacias y droguerías, de acuerdo con la Dirección de Salud en el Estado y la presidencia municipal, elaborarán un rol de guardias nocturnas que deberán cumplirse, así como el de los días festivos y de cierre obligatorio;
 
-III. De las 6:00 a las 16:00 horas: molinos de nixtamal;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-IV. De las 6:00 a las 20:00 horas: expendios de pan, huevos, lecherías, baños, misceláneas y abarrotes, estanquillos y tendajones;
+III. De las 7:00 a las 24:00 horas, de lunes a domingo: las tiendas de conveniencia. Para efecto de esta fracción, se entienda por tienda de conveniencia, aquella negociación mercantil que se establece en un local comercial, con una construcción de 170 m2 a 390 m2, con un área de ventas de 100 m2 a 240 m2 y que expende productos que son hasta un máximo de 15% en bebidas alcohólicas del área de ventas; y con un mínimo de 85% de abarrotes, perecederos y artículos del hogar, sujetos a las restricciones que señala el presente apartado.
 
-V. De las 6:00 a las 24:00 horas: cafés, fondas, restaurantes, pastelerías con servicio de mesa, taquerías y torterías;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-VI. De las 7:00 a las 20:00 horas: los mercados municipales y centrales de abasto;
+IV. De las 05:00 a las 17:00 horas de lunes a domingo: molinos de nixtamal;
 
-VII. De las 8:00 a las 20:00 horas: peluquerías y salones de belleza y los sábados hasta las 23:00 horas;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-VIII. De las 8:00 a las 20:00 horas: neverías, dulcerías, establecimientos para aseo de calzado, tabaquerías, florerías y expendios de refrescos y billetes de lotería;
+V. De las 06:00 a las 23:00 horas de lunes a domingo: expendios de pan, huevo, lecherías, baños públicos, gimnasios, escuelas deportivas, canchas de futbol rápido y clubes;
 
-IX. De las 9:00 a las 21:00 horas: almacenes de abarrotes; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-X. De las 9:00 a las 22:00 horas: billares, boliches, cantinas, cervecerías y vinaterías.
+VI. De las 10:00 a las 20:00 horas: máquinas de videojuegos;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+VII. De las 06:00 a las 03:00 horas del día siguiente, de lunes a domingo: pastelerías con servicio de mesa, cenadurías, torterías, loncherías, taquerías, fondas y pizzerías, restaurantes y restaurant-bar;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+VIII. De las 06:00 a las 20:00 horas de lunes a sábado: los mercados municipales y balnearios; y de 06:00 a las 18:00 horas los domingos;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+IX. De las 04:00 a las 18:00 horas de lunes a domingo; centrales de abasto;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+X. De las 09:00 a las 01:00 hora del día siguiente, de lunes a domingo: boliches, teatros y cines;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+XI. De las 08:00 a las 03:00 horas del día siguiente, de lunes a domingo: salones de fiesta y banquetes; y de 08:00 a las 21:00 horas: salones de fiestas infantiles;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+XII. De las 18:00 horas a las 03:00 horas del día siguiente, de lunes a sábado: centros nocturnos, discotecas, café cantante, peñas y los bares de las 12:00 horas a las 03:00 horas del día siguiente;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+XIII. De las 06:00 horas a las 22:00 horas de lunes a domingo: misceláneas;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+XIV. De las 08:00 a las 20:00 horas de lunes a viernes, y sábados de 08:00 a 15:00 horas: todos los giros de talleres automotrices y de servicios, talleres mecánicos y eléctricos, vulcanizadoras, talleres de hojalatería y pintura, ferretería y plomerías, herrería, carpintería, pailerías, talleres de torno, taller de mofles, establecimientos dedicados a la venta e instalación de equipos de carburación a gas LP y similares;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+XV. Se exceptúa de lo que dispone la fracción anterior, los talleres mecánicos, vulcanizadoras, talleres eléctricos y grúas que sean colindantes a las carreteras y los que estén ubicados dentro de los parques industriales, los que podrán permanecer abiertos las 24:00 horas de lunes a domingo, previa autorización de la Secretaría de Economía y Finanzas y Tesorería Municipal; así como los establecimientos comerciales que sean anexos a gasolineras colindantes a carreteras o parques industriales.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Los establecimiento comerciales, de acuerdo con el horario que les corresponda, estarán cerrados y sin público en su interior, al término del horario autorizado.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Los giros con venta de bebidas alcohólicas en envase cerrado, independientemente de la denominación y localización, sólo podrán vender al público los productos señalados hasta las 22:00 horas, por lo que deberán anunciar en sus establecimientos tal medida.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Los giros con venta de inhalantes nocivos para la salud, como son: cemento, pegamentos y thinner, entre otros, podrán venderlos al público hasta las 20.00 horas, por lo que los establecimientos comerciales, independientemente del giro, deberán anunciar en sus establecimientos la medida que dispone este artículo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 253 bis.- Para ejercer la facultad municipal en la revocación de Licencias y Permisos, se llevará a cabo el siguiente procedimiento a instancia de parte:
+
+I. Si algún particular colindante con el negocio o grupo de vecinos, que sufran un perjuicio directo o tuviesen alguna inconformidad con motivo de irregularidades de dicha negociación mercantil, podrán promover de manera personal o a través de su representante legal o Asociación de Colonos, queja por escrito ante la Delegación que corresponda;
+
+II. La Delegación determinará la procedencia de la queja, y desechará las que sean ociosas, anónimas, que argumenten hechos imposibles o notoriamente inverosímiles de comprobar;
+
+III. La Delegación realizará las verificaciones necesarias y procederá en caso necesario, a amonestar al comerciante o aplicar las sanciones correspondientes;
+
+IV. Cuando la Delegación, determine que existen faltas graves o reiteradas, correrá traslado de la queja al comerciante para que éste conteste en un plazo de diez días hábiles y ofrezca las documentales que acrediten su contestación, independientemente de la sanción a que se haya hecho acreedor; y
+
+V. Transcurrido el plazo para que el comerciante dé contestación; se turnará a la Tesorería Municipal, quien con la opinión de la Comisión de Comercio e Industria determinará en caso necesario, la revocación o suspensión temporal de la Licencia de Funcionamiento.
 
 ###### ARTICULO 254.
 
@@ -2623,13 +2699,11 @@ Las boticas, farmacias y droguerías, están obligadas a prestar servicio noctur
 
 ###### ARTICULO 255.
 
-En el municipio de Querétaro se considera como día de descanso semanal el domingo y por consiguiente, el comercio en general cerrará ese día sus establecimientos, quedando exceptuados los siguientes: foto estudios, boticas, farmacias, droguerías, agencias de bicicletas, expendios de refrescos, neverías, carbonerías, recauderías, carnicerías, cremerías, chocolaterías, florerías, lecherías, panaderías, expendio de huevo, fruterías, tabaquerías, restaurantes, torterías, agencias de inhumaciones, baños, billares, boliches, jarcierías, huaracherías, establecimientos de aseo de calzado, expendios de gasolina y lubricantes, venta de billetes de lotería, venta de periódicos y publicaciones, molinos de nixtamal, tortillerías, estanquillos, tiendas de abarrotes en las que exclusivamente se hagan ventas al menudeo, tendajones, cinematógrafos y teatros, misceláneas de abarrotes, centros de turismo, expendios de objetos típicos nacionales y talleres artesanales.
-
-Los demás establecimientos podrán permanecer abiertos a criterio de la presidencia municipal, previa autorización y pago de los derechos correspondientes.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 256.
 
-Los establecimientos permanecerán cerrados los días que señale la Ley Federal del Trabajo como de descanso obligatorio, pudiendo permanecer abiertos únicamente los siguientes: hoteles, espectáculos públicos, baños, tabaquerías, restaurantes y cafés, loncherías, agencias de inhumaciones, boticas de turno, expendios de gasolina, establecimientos de aseo de calzado, neverías, pescaderías, cremerías. Los expendios de artículos de primera necesidad como carnicerías, panaderías, loncherías, tortillerías y recauderías, deberán permanecer abiertos hasta las 14:00 horas.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 257.
 
@@ -2641,7 +2715,7 @@ En los mercados públicos y centrales de abastos se observarán las disposicione
 
 I. Todo comerciante deberá registrarse en el padrón respectivo del Municipio;
 
-II. Los locales comerciales de los mercados funcionarán de las 7:00 a las 20:00 horas;
+II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2000)
 
 III. El traspaso de los derechos sobre las licencias de empadronamiento, cambio de giros mercantiles, anexas y bajas, deberá solicitarse por escrito a la administración del mercado o central de abasto y a la Tesorería Municipal, siendo esta última la que otorgue la autorización correspondiente;
 
@@ -3874,8 +3948,6 @@ La violación a las normas contenidas en este ordenamiento se sancionará confor
 ###### ARTICULO 428.
 
 Es competencia del Instituto Nacional de Antropología e Historia la expedición de licencias para cualquier tipo de obra en los monumentos arqueológicos e históricos.
-
-ARTICUO 429.- Es competencia del Instituto Nacional de Bellas Artes la expedición de licencias para cualquier tipo de obra en los monumentos artísticos.
 
 ###### ARTICULO 429.
 
@@ -8380,3 +8452,11 @@ Este Reglamento entrará en vigor el día siguiente al de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Se deroga el Apartado Sexto del Libro Cuarto del Código Municipal de Querétaro.
+
+P.O. 22 DE DICIEMBRE DE 2000.
+
+QUINTO.- Las presentes reformas y adiciones, iniciarán su vigencia a partir del primero de enero del siguiente año fiscal 2001.
+
+SEXTO.- Comuníquese a la Secretaría de Gobierno Municipal, Tesorería Municipal y Delegaciones Municipales.
+
+SÉPTIMO.- Publíquese por una sola ocasión en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
