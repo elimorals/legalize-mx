@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1989-12-26"
+last_updated: "1990-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 1990.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1627,9 +1627,13 @@ Para los efectos de este Impuesto, también podrá presentarse peritaje bancario
 
 En todas las operaciones se reducirá el valor del inmueble de la siguiente manera:
 
-I.- La cantidad que represente cinco veces el salario mínimo general diario que corresponda en el lugar en que se encuentre ubicado el inmueble;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 1990)</small>
 
-II.- La cantidad que represente siete veces el salario mínimo general diario que corresponda en el lugar en que se encuentre ubicado el inmueble, cuando éste se destine a la vivienda de interés social, en los términos de la Ley de Vivienda para el Estado de Guanajuato.
+I.- La cantidad que represente cinco veces el salario mínimo general elevado al año, que corresponda en el lugar en que se encuentre ubicado el inmueble;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 1990)</small>
+
+II.- La cantidad que represente siete veces el salario mínimo general elevado al año, que corresponda en el lugar en que se encuentre ubicado el inmueble, cuando éste se destine a la vivienda de interés social, en los términos de la Ley de Vivienda del Estado de Guanajuato.
 
 Para los efectos de este impuesto y se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -2178,3 +2182,11 @@ LIC. LUIS FELIPE SANCHEZ HERNANDEZ
 EL SECRETARIO DE ADMINISTRACION FINANCIERA
 
 C.P. Y M.A. MARCO ANTONIO VERGARA LARIOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
