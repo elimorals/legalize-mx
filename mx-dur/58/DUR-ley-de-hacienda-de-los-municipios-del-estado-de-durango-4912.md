@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1999-12-23"
+last_updated: "2000-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -129,9 +129,9 @@ II.- La propiedad de predios de estados extranjeros; si están ocupados totalmen
 
 III.- Tratándose de expropiación de predios, el Impuesto dejará de causarse en la fecha en que las entidades públicas correspondientes tomen posesión material de dichos predios. Pero, si la expropiación quedare sin efecto, el Impuesto se causará nuevamente a partir de la fecha en que los predios sean entregados a sus propietarios o poseedores.
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
-IV.- No son objeto del Impuesto Predial, sino a partir de la segunda enajenación, la propiedad o posesión de los predios rústicos o urbanos cuya titulación o adquisición del dominio pleno se haya derivado del Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos, implementado por el Ejecutivo Federal.
+IV.- No son objeto del impuesto predial, sino a partir de la segunda enajenación, la propiedad de los predios rústicos o urbanos cuya titulación o adquisición del dominio pleno se haya derivado del programa de certificación de derechos ejidales y titulación de solares urbanos, excluyendo de este beneficio a todos aquellos predios que hayan sido enajenados y/o incluidos en el programa de certificación de derechos ejidales, para uso comercial, industrial y proyectos inmobiliarios no considerados de interés social y popular.
 
 ###### ARTICULO 11.
 
@@ -165,89 +165,29 @@ c).- Los funcionarios, empleados, fedatarios, registradores o cualesquiera otra 
 
 ARTICULO 11 BIS.- No son sujetos pasivos del Impuesto Predial, sino a partir de la segunda enajenación, los propietarios o poseedores de los predios mencionados en la Fracción IV del Artículo 10 de esta Ley.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 12.
 
-Serán bases para el cobro del Impuesto Predial en el Estado.
+La base para el cobro del Impuesto Predial en el Estado, de los predios urbanos y rústicos, será el valor catastral asignado, mediante el procedimiento establecido en la Ley General de Catastro.
 
-I.- Para los predios urbanos:
-
-a).- Por el terreno: la superficie del mismo, o sea el número total de metros cuadrados que tenga el predio, tomando en consideración la población y la zona económica catastral donde se halla (sic) ubicado, según la clasificación que establece el Artículo 13 de esta Ley; y
-
-b).- Por las construcciones; la superficie de las mismas, o sea el número total de metros cuadrados construídos que tenga el predio, tomando en consideración el tipo de las mismas, según la clasificación que establece el Artículo l3 de esta Ley. En caso de que en un predio se encuentren varios tipos de construcciones, las superficies se obtendrán por separado, por cada tipo siendo la base del Impuesto del predio, la suma total de las superficies parciales del mismo.
-
-II.- Para los predios rurales:
-
-a).- Por el terreno: la superficie del mismo o sea el número de hectáreas que tenga tomando en consideración la región productiva catastral donde se encuentra ubicado, según la clasificación que establece el artículo 13 de esta Ley. A su vez, cuando existen varios tipos de producción las superficies se calcularán por separado, siendo la base del Impuesto, la suma total de las diversas superficies clasificadas del mismo.
-
-b).- Por las construcciones: la misma base que establece el inciso b) de la Fracción anterior.
-
-III.- Para los predios ejidales o comunales:
-
-a).- En aquellos cuyas posesiones sean provisionales: durante el primer año, el Impuesto Predial será igual al 1% (uno por ciento) del valor de la producción anual de los mismos; y en cada uno de los años subsecuentes, el Impuesto Predial se incrementará en un 10% (diez por ciento) anual, hasta alcanzar el equivalente del 4% (cuatro por ciento) del valor de la producción anual de los predios;
-
-b).- En aquéllos respecto de los cuales ya se hubiesen ejecutado las Resoluciones Presidenciales respectivas, pagarán por concepto del Impuesto Predial la tasa del 4% (cuatro por ciento) sobre el valor de la producción anual de los predios;
-
-c).- En aquéllos cuyas posesiones sean provisionales o respecto a las cuales ya se hubiesen ejecutado las Resoluciones Presidenciales respectivas, dedicadas a la siembra y producción del maíz y frijol, pagarán únicamente el 1% (uno por ciento) sobre el valor anual de su producción; y
-
-d).- En aquéllos cuyas posesiones sean provisionales o respecto de los cuales ya se hubiesen ejecutado las Resoluciones Presidenciales respectivas dedicados a la explotación de bosques madereros, pagarán el 5% (cinco por ciento) sobre el valor de su producción comercializada.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 13.
 
-Las bases para el cobro del Impuesto Predial que establecen las fracciones I y II del Artículo 12 de esta Ley, se aplicarán conforme a una tasa del 2.0 al millar del valor catastral de los predios urbanos y construcciones; tratándose de predios rústicos y construcciones, la tasa será de 1 al millar del valor catastral en todo el Estado, de conformidad con las siguientes reglas y clasificaciones:
+La tasa aplicable al valor catastral aprobado por el Congreso y asignado por la autoridad catastral, será de 2.0 al millar en predios urbanos y de 1.0 al millar tratándose de predios rústicos.
 
-I.- Terreno de los Predios Urbanos:
+En el municipio de Durango, el pago del impuesto predial de los inmuebles que no están sujetos a tarifa mínima, en tanto el Congreso del Estado no apruebe las tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, se les sumará en el cálculo que establece la contribución, el porcentaje de incremento correspondiente al Índice Nacional de Precios al Consumidor, registrado durante el periodo del 30 de noviembre de 1999 al 30 de noviembre de 2000.
 
-a).- Todas las poblaciones del Estado serán clasificadas por la Dirección General de Catastro, en Grupos Poblacionales, atendiendo a sus características similares y socio-económicas, tales como: su cantidad de habitantes, crecimiento demográfico y el nivel socio-económico de los mismos; las vías de comunicación con otras poblaciones; los servicios públicos, asistenciales, educacionales recreativos y demás con que cuenten; su equipamiento urbano y su potencialidad de desarrollo, entre las más importantes, pudiendo formarse tantos grupos como sea necesario, sin tomar en cuenta su ubicación geográfica ya que una población del Norte del Estado puede coincidir con una del sur del mismo por tener parecidas características.
-
-b).- Como segunda fase, la Dirección General de Catastro establecerá en cada población del Estado, el número que sea necesario de Zonas Económicas Catastrales, tomando en cuenta para realizar esta clasificación, entre los más importantes, los siguientes factores o elementos; la ubicación de la zona con respecto a la Población y a los centros cívicos, comerciales o industriales; los servicios públicos directos con los que cuenta la zona, así como la eficiencia de los mismos, tales como agua potable, energía eléctrica, alumbrado público, drenaje y alcantarillado pavimento, banquetas y guarniciones, servicio de limpia y vigilancia, los servicios públicos indirectos de la zona, tales como transportes, escuelas, mercados, hospitales e clínicas jardines y campos deportivos públicos; el régimen de propiedad, o sea, si cuentan con título o con asentamientos irregulares; el uso o destino predominante de los predios de la zona; y, las características socio-económicas de los habitantes de la misma;
-
-II.- TERRENO DE LOS PREDIOS RURALES.
-
-a).- Para efectos de la asignación del valor catastral por hectáreas de los predios rurales, la Dirección General de Catastro realizará los estudios adecuados y clasificará los terrenos atendiendo a sus características, tales como Topografía, clasificación de la tierra, profundidad, erosión, pedrigosidad, clima, disponibilidad de agua, inundación, salinidad y/o sodicidad, calidad en la tierra, distancias a las vías de comunicación y a los centros urbanos y de consumo infraestructura disponible, características actuales de producción o explotación de recursos; y, de manera fundamental, el uso potencial del terreno de la región.
-
-III.- CONSTRUCCIONES EN EL ESTADO.
-
-a).- Para efectos de la determinación del valor catastral por metro cuadrado, de las construcciones aplicables a todo el Estado, la Dirección General de Catastro realizará los estudios adecuados y clasificará las construcciones en dos grandes grupos: las antiguas y modernas, tomando como base la distinción entre ambas y el haber sido construídas aproximadamente durante la década de los años treinta, en que cambiaron los elementos constructivos y el uso de concreto. A su vez, dentro de estos dos grandes grupos las construcciones se clasificarán por su tipo en función de los elementos constructivos y materiales usados en ellas incluyendo su durabilidad, su calidad, su capacidad térmica y demás características; para lo cual se tomarán en cuenta cuatro grandes rubros: La estructura (cimientos, muros y columnas, entre pisos y techos). Los acabados: (pintura, lambrines, pisos y fachada). Las Instalaciones: (eléctrica, hidráulica, sanitaria y especiales) y las complementarias: (herrería, carpintería, vidriería, cerrajería, muebles sanitarios y en cocina); de donde resultarán las clasificaciones por tipos adecuados para las construcciones habitacionales. Además se clasificarán por separado los tipos de construcción aplicables a los tejabanes y construcciones industriales; existiendo una última clasificación: Las construcciones especiales, que son aquellas cuyas características, elementos constructivos, instalaciones y demás factores de la construcción difieren de la mayoría.
-
-IV.- Los estudios, clasificación y asignación de valores catastrales aplicables al terreno y construcciones de los predios, estarán basadas en el mayor acopio de datos que sea posible, con el objeto de fijar con criterios objetivos y estables, tomando en cuenta la situación económica del Estado y sus habitantes, el costo de instalación y mantenimiento de los servicios públicos; el porcentaje de aumento de los salarios de los habitantes de la entidad; los precios de venta de terrenos, materiales de construcción; y en general de todos los elementos que puedan inferir en los referidos valores catastrales basados en las posibilidades y en el principio de equidad para los contribuyentes.
-
-V.- La mencionada tasa del 2.0 al millar para el pago del Impuesto Predial del terreno y construcciones urbanas, así como la tasa del uno al millar en el caso de predios rústicos y construcciones, será revisada previa solicitud del Ayuntamiento respectivo, mediante estudios de la Dirección General de Catastro, con base en los elementos que establece la fracción anterior.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 14.
 
-El Impuesto Predial anual que pagará el sujeto pasivo tanto en predios urbanos como en rurales, será en suma el resultado de aplicar la tasa establecida del 2.0 al millar, y del uno al millar, del valor catastral del terreno y de la construcción si la hubiere, en forma respectiva.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1996)</small>
+El Impuesto Predial anual que pagará el sujeto pasivo tanto en predios urbanos como en rústicos, será en suma el resultado de aplicar la tasa establecida al valor catastral del terreno y al valor catastral de la construcción, si la hubiere, en forma respectiva, conforme al artículo anterior.
 
 ###### ARTICULO 15.
 
-Para la determinación del valor catastral, la Dirección General de Catastro, ha determinado cinco grupos poblacionales de predios urbanos y cinco grupos de predios rústicos en el Estado, a saber:
-
-GRUPO POBLACIONAL 1.- Que comprende los Municipios de Durango y Gómez Palacio.
-
-GRUPO POBLACIONAL 2.- Que comprende el Municipio de Lerdo.
-
-GRUPO POBLACIONAL 3.- Que comprende los Municipios de Canatlán, Guadalupe Victoria, Nuevo Idea (sic), Poanas, Santiago Papasquiaro, Tepehuanes y Vicente Guerrero.
-
-GRUPO POBLACIONAL 4.- Que comprende los Municipios de Cuencamé, El Oro, Mapimí, Nombre de Dios, Pánuco de Coronado, Peñón Blanco, Súchil, Rodeo y Tlahualilo.
-
-GRUPO POBLACIONAL 5.- Que comprende los Municipios de Canelas, Coneto de Comonfort, Guanaceví, Hidalgo, Indé, Mezquital, Nazas, Ocampo, Otáez, Pueblo Nuevo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis del Cordero, San Pedro del Gallo, Santa Clara, Simón Bolivar, Tamazula y Topia.
-
-Y para la determinación del valor catastral de predios rústicos:
-
-GRUPO A.- Durango.
-
-GRUPO B.- Canatlán, Lerdo, Gómez Palacio, Tlahualilo y Nuevo Ideal.
-
-GRUPO C.- Guadalupe Victoria, Poanas, Santiago Papasquiaro, Tepehuanes y Vicente Guerrero.
-
-GRUPO D.- El Oro, Nombre de Dios, Pánuco de Coronado, Rodeo y Súchil.
-
-GRUPO E.- Canelas, Coneto de Comonfort, Cuencamé, Guanaceví, Hidalgo, Indé, Mapimí, Mezquital, Nazas, Ocampo, Otáez, Peñón Blanco, Pueblo Nuevo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis del Cordero, San Pedro del Gallo, Santa Clara, Simón Bolivar, Tamazula y Topía.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 16.
 
@@ -295,91 +235,51 @@ b).- Cuando se trate de terrenos baldíos sin barda, en un veinte por ciento (20
 
 (DEROGADO, P.O. 3 DE ENERO DE 1993)
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 24.
 
-Las resoluciones o acuerdos de la Dirección General de Catastro con respecto de la clasificación de los predios, con las cuales no estén de acuerdo los contribuyentes podrán ser impugnadas por éstos, mediante, el recurso de reconsideración establecido par esta Ley.
+Las resoluciones o acuerdos de las autoridades catastrales con respecto de la clasificación de los predios, con las cuales no estén de acuerdo los contribuyentes podrán ser impugnadas por estos, en los términos del recurso establecido en la Ley General de Catastro.
 
 ###### ARTICULO 25.
 
-La tramitación del recurso establecido en el Artículo anterior, se sujetará a las siguientes normas:
-
-I.- Se interpondrá directamente ante la Dirección General de Catastro o en sus Delegaciones en el Estado, dentro de los quince días hábiles siguientes o la notificación de la resolución;
-
-II.- En el escrito de inconformidad, el sujeto pasivo expresará con claridad las disposiciones que pretenda recurrir, las cuales serán:
-
-a).- Por error en la superficie del terreno de su predio.
-
-b).- Por error en la superficie de las construcciones de su predio.
-
-c).- Por error en la clasificación por tipo de construcción de las construcciones de su predio.
-
-d) .- Por error en el cálculo de multiplicar la base del Impuesto por la cuota aplicable al terreno, según la Zona Económica Catastral donde se halle ubicado; y en el caso de las construcciones, de la cuota aplicable a éstas.
-
-III.- Junto con el escrito de inconformidad, el recurrente presentará las pruebas u ofrecerá éstas, para que la Dirección General de Catastro esté en aptitud de comprobarlas;
-
-IV.- Admitida la inconformidad, propuesta en tiempo, la Dirección General de Catastro o sus delegaciones recibirán o desahogarán las pruebas ofrecidas en un término que no excederá a los siguientes quince días naturales a la fecha de recepción del escrito de inconformidad y resolverá en cinco días más sobre el recurso, confirmando, modificando o revocando la resolución que se hubiese impugnado.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 26.
 
-La resolución, sobre el recurso de inconformidad será definitiva tratándose de aspectos técnicos sobre los elementos físicos del predio, así como la clasificación de las construcciones.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 27.
 
-Para los efectos de esta Ley se consideran:
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2000)
 
-I.- Predios, los definidos y clasificados por la Ley de Catastro.
-
-La porción o porciones de terreno incluyendo en su caso, sus construcciones, que pertenezcan a un mismo propietario o a varios en copropiedad, a falta de éstos, a uno o más poseedores por cualquier título y cuyos linderos con propiedades ajenas formen un perímetro sin solución de continuidad.
-
-Cuando por cualquier causa, las construcciones permanentes dividan un predio en forma tal que parte o partes de su área queden desvinculadas de éstas construcciones, esa parte o partes se consideran como predios distintos, y, por tanto, serán empadronados por separado y en igual forma se expedirán los recibos de pago del impuesto;
-
-II.- Valor Catastral, el que fije a cada predio la Autoridad a la que la Ley le otorgue esta facultad. Este valor deberá aproximarse lo más posible al valor comercial que tenga el predio en la fecha de su avalúo.
-
-III.- GRUPO POBLACIONAL.- La clasificación de las Poblaciones del Estado, según características similares de desarrollo y socio-económicas de sus habitantes.
-
-IV.- ZONA ECONOMICA CATASTRAL.- El área en que se divide la zona urbana de las poblaciones del Estado, según sus características de ubicación, servicios públios (sic) directos o indirectos, régimen de propiedad, uso predominante de los predios de la zona y características socio-economicas de sus habitantes.
-
-V.- REGION PRODUCTIVA CATASTRAL.- El área en que se divide las zonas rurales del Estado, según sus características de producción actual y uso potencial.
-
-VI.- PREDIO BALDIO.- El que no tenga construcciones permanentes; las bardas, tapias o cercas no se consideran como construcciones permanentes.
-
-VII.- CONSTRUCCION PERMANENTE.- La que está adherida a un predio de manera fija en condiciones tales que no pueda separarse del suelo sin deterioro de la propia construcción o de los demás inmuebles unidos al predio o a la propia construcción.
-
-VIII.- ESTADO DE CONSERVACION DE LAS CONSTRUCCIONES:
-
-a).- Bueno.- Es aquél en que por razón del tiempo en que se efectuó la construcción ésta ha sufrido un deterioro natural, a pesar de haber tenido un mantenimiento adecuado;
-
-b).- Regular.- Es aquel en el cual la construcción no ha tenido mantenimiento o éste ha sido deficiente, provocando una apariencia deteriorada en todos sus acabados, tales como aplanados, pintura, lambrines, pisos y fachadas, así como en sus instalaciones eléctricas hidráulicas y especiales y en sus elementos complementarios, tales como herrería, carpintería y vidriería;
-
-c).- Malo.- Es aquél en el cual la construcción, además de presentar el deterioro que establece el inciso anterior, tiene problemas adicionales por ausencia total de mantenimiento, y un uso descuidado, que se puede apreciar por la destrucción parcial de todos sus elementos constructivos, instalaciones, acabados y complementos, pero continúa siendo habitable, aún cuando sea en condiciones precarias;
-
-d).- Ruinoso.- Es aquél en el cual la construcción por su estado de conservación, representa un riesgo grave y no es recomendable su habitabilidad.
-
-La Dirección General de Catastro determinará el estado de conservación de las construcciones, de acuerdo con las características anteriores, de manera definitiva para cada predio en lo particular.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 28.
 
-La división de predios deberá ser manifestado a la Dirección General de Catastro, por el enajenante y los adquirientes, dentro de un plazo de quince días hábiles siguientes a aquél en que se realice la misma.
+La división de predios deberá ser manifestada a la autoridad catastral, por el enajenante y los adquirientes, dentro de un plazo de quince días hábiles siguientes a aquél en que se realice la misma.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 29.
 
-El Impuesto Predial que se determine con motivo de división de predios, entrará en vigor a partir del bimestre siguiente a la fecha de autorización preventiva de la escritura pública o de la fecha del contrato privado traslativo de dominio, en su caso, en que hubiera hecho constar el acto o contrato que motive la división. La Dirección General de Catastro del Estado, empadronará cada uno de los predios que hubieren resultado de la división de otro.
+El impuesto Predial que se determine con motivo de división de predios, entrará en vigor a partir del bimestre siguiente a la fecha de autorización preventiva de la escritura pública o de la fecha del contrato privado traslativo de dominio, en su caso, en que hubiera hecho constar el acto o contrato que motive la división. La autoridad catastral, empadronará a cada uno de los predios que hubieren resultado de la división de otro.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 30.
 
-La fusión de dos o más predios o partes de predio en uno solo, deberá ser manifestada por el adquiriente a la Dirección General de Catastro del Estado, dentro de un plazo de quince días hábiles siguientes a aquél en que se lleve o cabo.
+La fusión de dos o mas predios o partes de predio en uno solo, deberá ser manifestada por el adquiriente a la autoridad catastral dentro de un plazo de quince días hábiles siguientes a aquél en que se lleve o cabo.
 
 La nueva base del impuesto entrará en vigor a partir del bimestre siguiente a la fecha de la autorización preventiva de la escritura pública o a la fecha del contrato privado traslativo de dominio, en su caso, en que se hubiere hecho constar el acto o contrato que motive la fusión.
 
-La Dirección General de Catastro del Estado empadronará como uno solo, los predios fusionados.
+La autoridad catastral empadronará como uno solo, los predios fusionados.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 31.
 
-La terminación de las nuevas construcciones permanentes, deberá ser manifestado por sus propietarios a la Dirección General de Catastro del Estado. Estas manifestaciones deberán hacerse dentro de los quince días hábiles siguientes a la fecha de terminación de las obras, o a la fecha en que sean ocupadas sin estar todavía terminadas.
+La terminación de las nuevas construcciones permanentes, deberá ser manifestado por sus propietarios a la autoridad catastral. Estas manifestaciones deberán hacerse dentro de los quince días hábiles siguientes a la fecha de terminación de las obras, o a la fecha en que sean ocupadas sin estar todavía terminadas.
 
 ###### ARTICULO 32.
 
@@ -389,71 +289,63 @@ El valor catastral que se fije a los predios, se aplicará como base para los ef
 
 La valuación catastral se hará separadamente para la tierra y para las construcciones permanentes. La suma de los valores resultantes será el valor catastral del predio.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 34.
 
-El Impuesto Predial que debe pagar un predio entrará en vigor por Ios bimestres que falten por vencerse en el ejercicio fiscal correspondiente a partir del siguiente bimestre a la fecha en que ocurrió el hecho o la circunstancia que dió lugar a su empadronamiento conforme a las disposiciones de esta Ley, sin embargo, tratándose de predios que de acuerdo con las disposiciones legales anteriores, vengan pagando el impuesto con una base diferente a la que establece este Capítulo y que hayan tenido cambios que debieron haberse manifestado, el Impuesto Predial que se le asigne, se pondrá en vigor a partir del siguiente bimestre a la fecha de su notificación. En los casos en que la Dirección General de Catastro del Estado, descubra que los datos del predio, tanto por terrenos o por construcciones así como sus respectivas clasificaciones no correspondan a la realidad física del mismo y éstas se modifiquen dando origen a la asignación correcta del Impuesto Predial que le corresponda pagar por terreno o construcción, según su superficie y clasificación, el Impuesto Predial Anual aplicable al predio se ajustará; y en el caso de que el propietario o poseedor ya hubiese cubierto su Impuesto Predial anual correspondiente a dicho predio, podrán cobrársele las diferencias que resulten del nuevo Impuesto Predial que le corresponda.
+El Impuesto Predial que debe pagar por un predio entrará en vigor por Ios bimestres que falten por vencerse en el ejercicio fiscal correspondiente a partir del siguiente bimestre a la fecha en que ocurrió el hecho o la circunstancia que dio lugar a su empadronamiento conforme a las disposiciones de esta Ley, sin embargo, tratándose de predios que de acuerdo con las disposiciones legales anteriores, vengan pagando el impuesto con una base diferente a la que establece este Capítulo y que hayan tenido cambios que debieron haberse manifestado, el Impuesto Predial que se le asigne, se pondrá en vigor a partir del siguiente bimestre a la fecha de su notificación. En los casos en que la autoridad catastral, descubra que los datos del predio, tanto por terrenos o por construcciones así como sus respectivas clasificaciones no correspondan a la realidad física del mismo y éstas se modifiquen dando origen a la asignación correcta del Impuesto Predial que le corresponda pagar por terreno o construcción, según su superficie y clasificación, el Impuesto Predial Anual aplicable al predio se ajustará; y en el caso de que el propietario o poseedor ya hubiese cubierto su Impuesto Predial anual correspondiente a dicho predio, podrán cobrársele las diferencias que resulten del nuevo Impuesto Predial que le corresponda.
 
 ###### ARTICULO 35.
 
 Tratándose de terrenos destinados a cementerios, no se considerará división la entrega de lotes pero dedicarse o sepulturas, pero en estos casos el impuesto se causará sobre la superficie que no hubiere sido enajenada para el fin mencionado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ENERO DE 1993)</small>
-
 ###### ARTICULO 36.
 
-Cuando por cualquier causa una construcción sea demolida, la Dirección General de Catastro del Estado, deberá formular el nuevo avalúo catastral a solicitud del propietario del predio de que se trate.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2000)
 
-I.- Si cualquier autoridad ordena la desocupación total:
-
-a).- Se cambiará la base vigente en la fecha en que se hubiera ordenado la desocupación o demolición para lo cual se deducirá de dicha base la superficie de las construcciones.
-
-b).- Para que se efectué el cambio de la base gravable conforme al inciso anterior, el sujeto pasivo del impuesto deberá presentar a la Dirección General de Catastro del Estado una solicitud escrita a la que deberá acompañarse una copia de la orden dada para la desocupación o demolición total de las construcciones. Dicha solicitud se presentará dentro de los quince días hábiles siguientes al de la desocupación o demolición.
-
-c).- La nueva cuota porcentual del Impuesto predial entrará en vigor a partir del bimestre siguiente a aquél en que se realice la desocupación o demolición de las construcciones y continuará vigente por todo el tiempo que las mismas se encuentren totalmente desocupadas por orden de la autoridad.
-
-d).- Una vez que la Secretaría de Desarrollo Urbano y Obras Públicas del Estado haya autorizado que vuelvan a ocuparse las construcciones, se volverá a poner en vigor la base gravable vigente a la fecha en que se ordenó la desocupación siempre que no se hayan ejecutado nuevas construcciones de las ya existentes pues en ese caso se procederá en los términos del inciso siguiente.
-
-e).- En los casos en que cualquier autoridad hubiese ordenado la demolición total de las construcciones y se hubiera llevado a cabo la edificación de nuevas construcciones permanentes, los sujetos pasivos del impuesto estarán obligados a presentar la manifestación que señala el Artículo 31 de esta Ley, fijándose la nueva cuota porcentual del gravamen de acuerdo con lo dispuesto en el segundo párrafo de dicho Artículo.
-
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 1993)</small>
-
-II.- Señalar el valor catastral que corresponda a cada lote.
-
-III.- (DEROGADA, P.O. 3 DE ENERO DE 1993)
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 37.
 
-Las personas físicas o morales que hubieren solicitado del Gobierno del Estado autorización para fraccionar un terreno, deberán manifestar dicha solicitud a la Dirección General de Catastro.
+Las personas físicas o morales que hubieren solicitado del Ayuntamiento autorización para fraccionar un terreno, deberán manifestar dicha solicitud a la autoridad catastral.
 
-La manifestación se presentará dentro de los quince días hábiles siguientes a aquél en que se hubiera presentado la solicitud, y en ella deberá pedirse el deslinde catastral del terreno por fraccionar, acompañándose para este efecto una copia de la mencionada solicitud y copia de cada uno de los planos y demás documentos relacionados con el fraccionamiento.
+La manifestación se presentara dentro de los quince días hábiles siguientes a aquel en que se hubiera presentado la solicitud, y en ella deberá pedirse el deslinde catastral del terreno por fraccionar, acompañándose para este efecto una copia de la mencionada solicitud y copia de cada uno de los planos y demás documentos relacionados con el fraccionamiento.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 38.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas del Estado deberá comunicar por escrito a la Dirección General de Catastro, las solicitudes de fraccionamientos dentro de los auince (sic) días siguientes a la fecha en que se le hubieren presentado.
+La Dirección Municipal de Desarrollo Urbano y Obras Públicas o su equivalente deberá comunicar, por escrito a la autoridad catastral, las solicitudes de fraccionamientos dentro de los quince días siguientes a la fecha en que se le hubieren presentado.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 39.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas del Estado, deberá comunicar por escrito, a la Dirección General de Catastro del Estado su aprobación a los proyectos de obras de urbanización que le hubiesen presentado los fraccionadores de terrenos. En esta comunicación deberá precisar las superficies destinadas a calles, avenidas, plazas, parques, jardínes, escuelas, mercados, así como las superficies que el fraccionador done (sic) al Gobierno del Estado, al Municipio o a cualquier otra persona de derecho público. Esta comunicación, deberá hacerse dentro del término de quince días siguientes a aquél en que se hubiera dado la aprobación de los proyectos de obras de urbanización.
+La Dirección Municipal de Desarrollo Urbano y Obras Públicas o su equivalente, deberá comunicar por escrito, a la autoridad catastral su aprobación a los proyectos de obras de urbanización que le hubiesen presentado los fraccionadores de terrenos. En esta comunicación deberá precisar las superficies destinadas a calles, avenidas, plazas, parques, jardines, escuelas, mercados, así como las superficies que el fraccionador done al Gobierno del Estado, al Municipio o a cualquier otra persona de derecho público. Esta comunicación deberá hacerse dentro del término de quince días siguientes a aquel en que se hubiera dado la aprobación de los proyectos de obras de urbanización.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 40.
 
-Dentro del plazo de quince días hábiles siguientes a aquél en que la Dirección General de Catastro del Estado reciba la comunicación a que se refiere el Artículo anterior, deberá señalar un número de cuenta a cada una de los lotes de terreno que constituyan el fraccionamiento y enviará a la Secretaria de Desarrollo Urbano y Obras Públicas del Estado una copia de los planos aprobados, en los que se anotarán dichos números de cuenta.
+Dentro del plazo de quince días hábiles siguientes a aquél en que la autoridad catastral reciba la comunicación a que se refiere el Artículo anterior, deberá señalar un número de cuenta a cada una de los lotes de terreno que constituyan el fraccionamiento y enviará a la Dirección Municipal de Desarrollo Urbano y Obras Públicas o su equivalente, una copia de los planos aprobados, en los que se anotarán dichos números de cuenta.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 41.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas del Estado y los fraccionadores de terrenos deberán comunicar por escrito, a la Dirección General de Catastro del Estado, cualquier modificación que se autorice a los planos aprobados con anterioridad. Esta comunicación se hará dentro del término de quince días hábiles siguientes a aquél en que se hubiesen autorizado las modificaciones de los planos deberá acompañarse de un ejemplar del plano en que aparezcan señaladas las modificaciones. En estos casos, la Dirección General de Catastro actuará en consecuencia de acuerdo con las disposiciones relativas de esta Ley.
+La Dirección Municipal de Desarrollo Urbano y Obras Públicas o su equivalente y los fraccionadores de terrenos deberán comunicar por escrito, a la autoridad catastral, cualquier modificación que se autorice a los planos aprobados con anterioridad. Esta comunicación se hará dentro del término de quince días hábiles siguientes a aquél en que se hubiesen autorizado, las modificaciones de los planos deberá acompañarse de un ejemplar del plano en que aparezcan señaladas las modificaciones. En estos casos, la autoridad catastral actuará en consecuencia de acuerdo con las disposiciones relativas de esta ley.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 42.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas del Estado deberá remitir a la Dirección General de Catastro del Estado una copia del acta o actas en que se hubiera hecho constar la terminación de las obras de urbanización del fraccionamiento de que se trate dentro de un plazo de quince días siguientes a aquél en que se (sic) hubieran sido levantadas dichas actas.
+La Dirección Municipal de Desarrollo Urbano y Obras Públicas o su equivalente y los fraccionadores de terrenos deberán comunicar por escrito, a la autoridad catastral, cualquier modificación que se autorice a los planos aprobados con anterioridad. Esta comunicación se hará dentro del término de quince días hábiles siguientes a aquel en que se hubiera hecho constar la terminación de las obras de urbanización del fraccionamiento de que se trate dentro de un plazo de quince días siguientes a aquel en que se hubieran sido (sic) levantadas dichas actas.
 
-Recibidas las copias de las actas a que se refiere el párrafo anterior, la Dirección General de Catastro del Estado deberá:
+Recibidas las copias de las actas a que se refiere el párrafo anterior, la autoridad catastral deberá:
 
-I.- Empadronar los lotes del fraccionamiento, los cuales para los efectos de este capítulo, se consideran como nuevos predios;
+I.- Empadronar los lotes del fraccionamiento, los cuales para los efectos de este Capítulo, se consideran como nuevos predios;
 
-II.- Pedir a la autoridad que corresponda la fijación de la base del impuesto de cada uno de los lotes del fraccionamiento;
+II.- Pedir a la autoridad que corresponda la fijación de la base del impuesto de cada uno de los lotes del fraccionamiento; y
 
 III.- Señalar la cuota porcentual del impuesto que corresponda a cada lote.
 
@@ -463,25 +355,29 @@ Los fraccionadores de terrenos no podrán celebrar contratos de promesa de venta
 
 Si no obstante la prohibición establecida en este Artículo se celebran dichos contratos, los Notarios Públicos no darán la autorización definitiva a las escrituras correspondientes. Además, el Registro Público de la propiedad no inscribirá ninguno de estos contratos, formalizados o no en escrituras públicas.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 44.
 
-Los fraccionadores de terrenos deberán manifestar a la Dirección General de Catastro del Estado, la celebración de todos los contratos a que se refiere el Artículo anterior, dentro de los quince días hábiles a aquél en que ello ocurra.
+Los fraccionadores de terrenos deberá (sic) manifestar a la autoridad catastral, la celebración de todos los contratos a que se refiere el Artículo anterior, dentro de los quince días hábiles a aquél en que ello ocurra.
 
-Si como consecuencia de dichos contratos el fraccionador dá la posesión de los lotes de terreno, la Dirección General de Catastro del Estado empadronará dichos lotes a nombre de los poseedores y orderá (sic) se expidan a sus nombres los recibos de pago correspondientes a cada lote.
+Si como consecuencia de dichos contratos el fraccionador da la posesión de los lotes de terreno, la autoridad catastral empadronará dichos lotes a nombre de los poseedores y ordenará se expidan a sus nombres los recibos de pago correspondientes a cada lote.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 45.
 
-En casos de fraccionamientos que se ejecuten, total o parcialmente, sin autorización del Gobierno del Estado o del Municipio correspondiente, la dependencia que tenga conocimiento del mismo lo manifestará a la Dirección General de Catastro para que ésta empadrone los lotes y establezca la fijación de las bases y cuotas aplicables a los mismos, y el Municipio hará el cobro de los impuestos omitidos en los términos del Artículo 52 sin perjuicio de aplicar a los infractores las sanciones que procedan.
+En casos de fraccionamientos que se ejecuten, total o parcialmente, sin autorización del Ayuntamiento correspondiente, la dependencia que tenga conocimiento del mismo lo manifestará a la autoridad catastral para que ésta empadrone los lotes y establezca la fijación de las bases y cuotas aplicables a los mismos, y el Municipio hará el cobro de los impuestos omitidos en los términos del Artículo 52 sin perjuicio de aplicar a los infractores las sanciones que procedan.
 
 ###### ARTICULO 46.
 
 (DEROGADO, P.O. 3 DE ENERO DE 1993)
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 47.
 
-El Impuesto Predial es anual de acuerdo con lo dispuesto en el Artículo 13 de esta Ley. El importe del Impuesto Predial resultante de aplicar el 2.0 al millar del valor catastral del terrno (sic) urbano y de la construcción, así como del uno al millar en el caso de los predios rústicos y construcciones, será el impuesto anual que cubrirá el predio por concepto de Impuesto Predial; y podrá dividirse en seis partes que se pagarán bimestralmente en los meses de: Enero, Marzo, Mayo, Julio, Septiembre y Noviembre; sin embargo, los pagos podrán hacerse por anualidad anticipada, en este caso dichos pagos se harán durante los meses de enero, Febrero y Marzo del año que corresponda pagar al contribuyente; en estos casos tendrán derecho a una bonificación del quince por ciento (15%), del diez por ciento (10%); y cinco por ciento (5%) respectivamente. El pago por anualidad anticipada del Impuesto Predial no impide el cobro de diferencias que deban hacerse por el Municipio por cambios de bases gravables.
+El impuesto Predial es anual de acuerdo con lo dispuesto en el Artículo 13 de esta Ley. El importe del Impuesto Predial resultante de aplicar la tasa establecida al valor catastral del terreno urbano y al valor catastral de la construcción, así como los predios rústicos y construcciones, será el impuesto anual que cubrirá el predio por concepto de Impuesto Predial; y podrá dividirse en seis partes que se pagarán bimestralmente en los meses de: Enero, Marzo, Mayo, Julio, Septiembre y Noviembre; sin embargo, los pagos podrán hacerse por anualidad anticipada, en este caso dichos pagos se harán durante los meses de Enero, Febrero y Marzo del año que corresponda pagar al contribuyente; en estos casos tendrán derecho a una bonificación del quince por ciento (15%), del diez por ciento (10%); y cinco por ciento (5%) respectivamente, el Pago por anualidad anticipada del Impuesto Predial no impide el cobro de diferencias que deban hacerse por el Municipio por cambios de bases gravables.
 
 ###### ARTICULO 48.
 
@@ -493,23 +389,27 @@ El Impuesto Predial es anual de acuerdo con lo dispuesto en el Artículo 13 de e
 
 El Impuesto Predial mínimo anual para los predios rústicos o urbanos en su caso, en el Estado, será de tres días de salario mínimo general diario vigente.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 50.
 
 El Municipio tendrá acción real para el cobro del impuesto predial y de las prestaciones accesorias de éste.
 
-En consecuencia, el procedimiento económico coactivo de ejecución fiscal afectará a los predios directamente, cualquiera que sea el propietario o poseedor, salvo el caso de los predios ejidales o comunales, mismos que están exentos del Impuesto predial cuando exista resolución presidencial, en los cuales el procedimiento económico coactivo de ejecución fiscal sólo podrán ejercitarse sobre las cosechas que correspondan individualmente a los ejidatarios o comuneros que no hayan cubierto la cuota que les corresponde y hasta por el 25% (veinticinco por ciento de la producción anual de sus parcelas.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 51.
 
 Los notarios no podrán autorizar, en forma definitiva escrituras en que hagan constar contratos o resoluciones judiciales o administrativas, cuyo objeto sean predios ubicados en el Estado, mientras no le sea exhibida constancia de no adeudo del Impuesto Predial y de multas, en su caso respecto de dichos predios, expedida por la Oficina Recaudadora correspondiente.
 
-Sin embargo, si por causas no imputables al enajenante, la Dirección General de Catastro del Estado no hubiese empadronado el predio, comprendido el terreno y las construcciones, en su caso, el Municipio podrá autorizar a los Notarios para que otorguen la autorización definitiva, sin que les sea exhibida la constancia de no adeudo a que se refiere este Artículo. Si el terreno estuviera empadronado, pero no las construcciones, por causas imputables a la Dirección General de Catastro del Estado, los Notarios Públicos podrán autorizar en forma definitiva las escrituras respectivas si se les exhibe constancia de no adeudo del Impuesta predial y de multas, en los términos de este Artículo, respecto de dicho terreno. En este caso, si las construcciones ya hubieren sido terminadas, los interesados exhibirán el aviso de terminación de construcción al Notario y éste deberá mencionar en las declaraciones del traslado de dominio la fecha de presentación y el número con el que quedó registrado el aviso en el Municipio correspondiente.
+Sin embargo, si por causas no imputables al enajenante, la autoridad catastral no hubiese empadronado el predio, comprendido el terreno y las construcciones, en su caso, el Municipio podrá autorizar a los Notarios para que otorguen la autorización definitiva, sin que les sea exhibida la constancia de no adeudo a que se refiere este Artículo. Si el terreno estuviera empadronado, pero no las construcciones, por causas imputables a la autoridad catastral, los Notarios Públicos podrán autorizar en forma definitiva las escrituras respectivas si se les exhibe constancia de no adeudo del Impuesto predial y de multas, en los términos de este Artículo, respecto de dicho terreno.
+
+En este caso, si las construcciones ya hubieren sido terminadas, los interesados exhibirán el aviso de terminación de construcción al Notario y este deberá mencionar en las declaraciones del traslado de dominio la fecha de presentación y el número con el que quedó registrado el aviso en el Municipio correspondiente.
 
 Lo dispuesto en este Artículo sólo surtirá efectos en relación con el impuesto mencionado y las multas que se apliquen por violaciones al presente Capítulo.
 
-No obstante, lo dispuesto en el párrafo anterior, los Notarios no otorgarán autorizaciones definitivas de escrituras, cuando el predio de que se trate reporte adeudos por conceptos distintos del impuesto predial, mientras no se les compruebe que se han verificado los pagos respectivos.
+No obstante, lo dispuesto en el párrafo anterior, los Notarios no otorgarán autorizaciones definitivas de escrituras, cuando el predio de que se trate reporte adeudo por conceptos distintos del impuesto predial, mientras no se les compruebe que se han verificado los pagos respectivos.
 
-Las constancias de no adeudo y las autorizaciones que se expidan a los Notarios, tendrán vigencia en el bimestre en que se (sic) hubiesen sido expedidos y en el siguiente al de su expedición.
+Las constancias de no adeudo y las autorizaciones que se expidan a los Notarios, tendrán vigencia en el bimestre en que hubiesen sido expedidos y en el siguiente al de su expedición.
 
 ###### ARTICULO 52.
 
@@ -525,9 +425,11 @@ Los recibos de pago que expida el Municipio, tratándose del impuesto sobre la p
 
 Toda estipulación privada, relativa al pago del impuesto predial, que se oponga a lo dispuesto en este Capitulo, se tendrá como inexistente jurídicamente, y, por tanto, no producirá efecto legal alguno en perjuicio de la Hacienda Pública del Municipio.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 55.
 
-Las manifestaciones y avisos de los particulares y Notarios Públicos, que exige este Capítulo deberán hacerse en las formas que apruebe la Dirección General de Catastro del Estado y se presentarán en la Oficina Recaudadora del lugar de ubicación de los predios.
+Las manifestaciones y avisos de los particulares y Notarios Públicos, que exige este Capítulo deberán hacerse en las formas que apruebe la autoridad catastral y se presentarán en la Oficina Recaudadora del lugar de ubicación de los predios.
 
 ###### ARTICULO 56.
 
@@ -545,9 +447,11 @@ Las manifestaciones que exige este Capítulo respecto de contratos de promesa de
 
 Los Notarios Públicos que autoricen dichas escrituras tendrán obligación de manifestar también esos contratos, resoluciones o actos a la oficina recaudadora correspondiente dentro del mismo plazo que establece el párrafo anterior pudiendo emplear para este efecto la manifestación que formulen en relación con el impuesto sobre traslación de dominio de bienes inmuebles que establece esta Ley.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 59.
 
-La dependencia encargada de Obras Públicas del Municipio correspondiente tendrá obligación de comunicar a la Dirección General de Catastro del Estado, las fechas de terminación de construcciones permanentes o ampliaciones de construcciones permanentes, o las fechas en que éstas se ocupen o aprovechen en cualquier forma, sin estar terminada.
+La Dirección Municipal de Desarrollo Urbano y Obras Públicas o su equivalente tendrá obligación de comunicar a la autoridad catastral, las fechas de terminación de construcciones permanentes, o ampliaciones de construcciones permanentes, o las fechas en que estas se ocupen o aprovechen en cualquier forma, sin estar terminada.
 
 ###### ARTICULO 60.
 
@@ -557,21 +461,19 @@ Las comunicaciones a que se refiere el Artículo anterior se harán por escrito 
 
 Los sujetos del Impuesto estarán obligados a manifestar a la Oficina Recaudadora correspondiente, los cambios de su domicilio, dentro de los quince días hábiles siguientes a aquél en que se efectúen, si no lo hicieren se tendrá como domicilio, para los efectos de este Capítulo el que hubieran señalado anteriormente, o, en su defecto el predio mismo.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
-
 ###### ARTICULO 62.
 
-Para los efectos de esta Ley, la Dirección General de Catastro del Estado, tendrá sus oficinas centrales en la Ciudad de Victoria de Durango, Dgo.; y una Delegación Regional en la Ciudad de Gómez Palacio, Dgo., la cual abarcará los Municipios de: Gómez Palacio, Lerdo, Mapimí y Tlahualilo.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2000)
 
 ### CAPITULO II
 
 SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO , P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 63.
 
-Están obligados al pago del Impuesto sobre Traslación de Dominio de Bienes Inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, o bien, en el suelo y las construcciones adheridas a él, ubicados en el Estado, así como los derechos relacionados con los mismos a que esta Ley se refiere. El valor del inmueble podrá ser el valor de adquisición del mismo deducido el valor que se tomó como base para el pago del impuesto a que se refiere esta Ley.
+Están obligados al pago del Impuesto sobre Traslación de Dominio de Bienes Inmuebles establecido en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, o bien, en el suelo y las construcciones adheridas a él, ubicados en el Estado, así como los derechos relacionados con los mismos a que esta Ley se refiere.
 
 Tratándose de fideicomisos irrevocables se cobrará el Impuesto al celebrarse esta operación, con cargo al fideicomitente, en la inteligencia de que al ejecutarse los fines del fideicomiso se reconocerá el pago anterior y por lo tanto no volverá a causarse el Impuesto, salvo que la tasa de éste haya aumentado, en cuyo caso se cobrará la diferencia entre la tasa anterior y la que esté vigente.
 
@@ -581,17 +483,9 @@ Tratándose de fideicomisos revocables se causará con cargo al fideicomitente a
 
 Tratándose de fideicomisos revocables, deberá garantizarse mediante el pago provisional, el impuesto correspondiente a la traslación de dominio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
-ARTICULO 63 BIS.- No están obligados al pago del impuesto establecido en esta ley, las adquisiciones de inmuebles que realice la federación, el estado y los municipios, para formar parte del dominio público; los partidos políticos, siempre y cuando dichos inmuebles sean para su propio uso; los que adquieran los estados extranjeros en caso de reciprocidad; y, las donaciones por parentesco entre ascendientes y descendientes en la línea directa y en primer grado; en este último caso, en el Municipio de Gómez Palacio, si se causará el pago del impuesto que establece esta ley.
-
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1992)</small>
-
-Tampoco se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1993)</small>
-
-Gozarán de la misma exención todas las adquisiciones que realicen las Asociaciones Religiosas constituidas en los términos de la Ley de la materia, siempre que, en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
+ARTICULO 63 BIS.- No están obligados al pago del impuesto establecido en esta Ley, las adquisiciones de inmuebles que realice la Federación, el Estado y los Municipios, para formar parte del dominio público; y las donaciones por parentesco entre ascendientes y descendientes en línea directa y en primer grado; en este último caso, en el Municipio de Gómez Palacio, si se causará el pago del Impuesto que establece esta ley.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 1993)</small>
 
@@ -669,27 +563,51 @@ III.- Del 1º de Enero de 1994 en adelante, se aplicará la tasa del 2%.
 
 IV.- En el Municipio de Gómez Palacio, Dgo., a partir del 1o. de enero de 1999, el Impuesto sobre la Traslación de Dominio será calculado con una tasa del 3%, exceptuando la vivienda de interés social, la cual estará exenta siempre que su valor no exceda de $150,000.00. El terreno, cubrirá el impuesto que le corresponda.
 
+V.- N. DE E. MEDIANTE DECRETO No. 351, PUBLICADO EN EL P.O. EL 24 DE DICIEMBRE DE 2000, SE ELIMINA LA ADICION DE LA FRACCION V AL PRESENTE ARTICULO, INCLUIDA EN EL DECRETO No. 347 DE LA MISMA FECHA.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 68.
 
-Los sujetos pasivos de este impuesto presentarán en la Oficina Recaudadora del lugar de ubicación de los bienes, previa revisión que haga la Dirección General de Catastro o su Delegación correspondiente, una declaración por quintuplicado, y se hará en las formas que el efecto apruebe la Dirección General de Catastro del Estado debiendo acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el Documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
+Los sujetos pasivos de este impuesto presentarán en la Oficina Recaudadora del lugar de ubicación de los bienes, previa revisión que haga la autoridad catastral, una declaración por quintuplicado, acompañada de avalúo y plano expedidos por la autoridad catastral y avalúo de mercado expedido por perito valuador registrado y autorizado en el padrón municipal correspondiente y se hará en las formas que al efecto apruebe la autoridad catastral debiendo acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el Documento que se formule deberá presentarse en el numero de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 I.- Nombres y domicilios de los contratantes o del adquirente en su caso;
 
-II.- Fecha en que se otorgó la escritura pública, de la celebración del contrato privado, o en que se dictó la sentencia o la resolución que aprobó el remate y la fecha en que hayan quedado firmes;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
+II.- Fecha en que se otorgó la escritura pública, de la celebración del contrato privado, o que se dictó la sentencia o la resolución que aprobó el remate y la fecha en que hayan quedado firmes;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 III. Nombre del notario ante quien se haya otorgado la escritura, mención de que se trata de contrato privado o indicación de que autoridad dictó la resolución;
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
 IV.- Naturaleza del acto o concepto de la adquisición;
 
-V.- Ubicación, nomenclatura, superficie del terreno y de la construcción en su caso;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
+V.- Ubicación y nomenclatura oficial, superficie del terreno y de la construcción en su caso;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 VI.- Antecedentes de propiedad del inmueble en el Registro Público de la propiedad;
 
-VII.- El valor catastral determinado por la Dirección de Catastro y el valor de la operación del inmueble motivo del traslado de dominio;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
-VIII.- Número de la cuenta o clave catastral del impuesto predial;
+VII.- El valor catastral determinado por la autoridad catastral, el valor de mercado y el valor de operación del inmuebIe motivo del traslado de dominio.
 
-IX.- La liquidación del impuesto de traslación de dominio y de los derechos de inscripción en el Registro Público de la propiedad;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
+VIII.- Número de la cuenta o clave catastral del impuesto predial.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
+IX.- La liquidación del impuesto de traslación de dominio y de los derechos de inscripción en el Registro Público de la Propiedad; y,
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 X.- Los demás datos que exija la forma oficial en que deberán hacerse las declaraciones.
 
@@ -709,17 +627,23 @@ A la declaración deberá acompañarse además de los documentos señalados en l
 
 Cuando lo estime necesario esta oficina podrá solicitar de los notarios públicos o de los declarantes, que le proporcionen una copia autorizada de la escritura en que se hubiera hecho constar el traslado de dominio de que se trata.
 
-Las declaraciones a que se refiere este Artículo se harán en las formas oficiales que apruebe la Dirección General de Catastro y se presentarán dentro de un plazo de veinte días hábiles contados: a) A partir de la fecha de la autorización preventiva de la escritura pública o de la fecha del contrato privado, en su caso; b) Cuando se trate de cesión de derechos hereditarios efectuada antes de que se haga la adjudicación de bienes en el juicio sucesorio, a partir de la fecha de la adjudicación; c) Tratándose de compraventa con reserva de dominio o cualesquiera otros contratos traslativos de dominio sujetos a condición suspensiva, a partir de la fecha de la autorización preventiva de la escritura pública en que se haga constar el cumplimiento de la condición para que la transmisión se opere; o de la fecha del documento privado en que se expresa dicha circunstancia; d) Tratándose de la adquisición de la propiedad de bienes inmuebles en virtud de prescripción o de remate judicial o administrativo; el plazo será de sesenta días contados a partir de la fecha en que hubieren quedado firmes las resoluciones respectivas.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
+
+Las declaraciones a que se refiere este Artículo se harán en las formas oficiales que apruebe la autoridad catastral y se presentarán dentro de un plazo de veinte días hábiles contados: a) A partir de la fecha de la autorización preventiva de la escritura pública o de la fecha del contrato privado en su caso; b) Cuando se trate de cesión de derechos hereditarios efectuada antes de que se haga la adjudicación de bienes en el juicio sucesorio, a partir de la fecha de la adjudicación; c) Tratándose de compraventa con reserva de dominio o cualesquiera otros contratos traslativos de dominio sujetos a condición suspensiva, a partir de la fecha de la autorización preventiva de la escritura pública en que se haga constar el cumplimiento de la condición para que la transmisión se opere; o de la fecha del documento privado en que se expresa dicha circunstancia; d) Tratándose de la adquisición de la propiedad de bienes inmuebles en virtud de prescripción o de remate judicial o administrativo; el plazo será de sesenta días contados a partir de la fecha en que hubieren quedado firmes las resoluciones respectivas.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 69.
 
-Recibida la declaración de traslación de dominio y los anexos a ésta, la Dirección General de Catastro o la Delegación correspondiente verificará dentro de un término de diez días si dichas declaraciones reúnen los requisitos legales y si está correcta la liquidación del impuesto, en caso contrario requerirá al interesado o al Notario Público correspondiente, mediante oficio que se notificará conforme a lo dispuesto en esta Ley, para que dentro de un término de los 15 días siguientes haga las declaraciones o correcciones que procedan.
+Recibida la declaración de traslación de dominio y los anexos a ésta, la autoridad catastral verificará dentro de un término de diez días si dichas declaraciones reúnen los requisitos legales y si esta correcta la liquidación del impuesto, en caso contrario requerirá al interesado o al Notario Público correspondiente, mediante oficio que se notificará conforme a lo dispuesto en esta Ley, para que dentro de un término de los 15 días siguientes haga las declaraciones o correcciones que procedan.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 70.
 
-El pago del impuesto sobre traslación de dominio de bienes inmuebles se hará dentro de los quince días hábiles siguientes a aquel en que la Dirección de Catastro o su Delegación correspondiente hubiere aprobado la declaración a que se refiere el Artículo anterior, el pago del Impuesto a que este artículo se refiere, se pondrá (sic) efectuar aún cuando aparezcan adeudos vencidos en la constancia a que alude el art 69, peron (sic) en estos casos los Notarios no autorizarán definitivamente la Esc. respectiva ni el Registro Público de la Propiedad inscribirá el documento traslativo de dominio, hasta que se compruebe que esos adeudos han sido pagados.
+El pago del impuesto sobre traslación de dominio de bienes inmuebles se hará dentro de los quince días hábiles siguientes a aquel en que la autoridad catastral hubiere aprobado la declaración a que se refiere el Artículo anterior. EI pago del Impuesto a que este artículo se refiere, se podrá efectuar aún cuando aparezcan adeudos vencidos en la constancia a que alude el artículo 69, pero en estos casos los Notarios no autorizarán definitivamente la Escritura respectiva ni el Registro Público de la Propiedad inscribirá el documento traslativo de dominio, hasta que se compruebe que esos adeudos han sido pagados.
 
-Los notarios podrán expedir dentro de igual plazo una nota complementaria o rectificar la que hubiesen expedido, cuando en la declaración que se hubiera presentado para el pago del impuesto no se hubiera determinado éste correctamente.
+Los notarios podrán expedir dentro de igual plazo una nota complementaria o rectificar la que hubiesen expedido, cuando en la declaración que se hubiera presentado para el pago del impuesto no se hubiera determinado este correctamente.
 
 ARTICULO 7l.- La oficina recaudadora hará constar el pago en todos los ejemplares de las declaraciones que se distribuirán en la siguiente forma; el cuadruplicado y el quintuplicado se entregarán a la persona que haga el pago del Impuesto; el original quedará en poder de dicha oficina junto con los anexos de la declaración y el triplicado se remitirá a la Dirección General de Catastro. Si se trata de actos o contratos traslativos de dominio que se hagan constar en la escritura pública, el original deberá agregarse al apéndice respectivo.
 
@@ -751,13 +675,11 @@ El Registro Público de la Propiedad no inscribirá ningún acto, contrato o doc
 
 En los casos de nuda propiedad, el Registro Público de la Propiedad no podrá cancelar la inscripción del desmembramiento de la propiedad ni inscribir el derecho consolidado si no se le comprueba previamente que se pagó la diferencia del impuesto que resulte entre lo cubierto por la transmisión de la nuda propiedad y el impuesto calculado sobre la traslación íntegra del dominio.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 76.
 
-Para los efectos del Impuesto Traslativo de dominio, la Dirección General de Catastro del Estado establecerá anualmente valores catastrales para los predios urbanos y rústicos, así como para las construcciones existentes en el Estado.
-
-Cada municipio celebrará con la Dirección General de Catastro del Estado un Convenio de Colaboración en Materia de Administración Tributaria Municipal e Implementación de un Catastro Integral en los primeros cuarenta y cinco días de cambio de administración municipal, para los efectos de la asistencia técnica y administrativa otorgada por la Dirección General de Catastro del Estado. Estos Convenios serán autorizados por el Honorable Cabildo de cada Ayuntamiento y señalarán el apoyo que cada municipio brindará a la Dirección General de Catastro del Estado, en apoyo a su asesoría y gastos administrativos.
+Cuando los municipios del Estado de Durango no cuenten con infraestructura, capacidad técnica y administrativos necesarias, podrán celebrar con el Gobierno del Estado un Convenio de Colaboración en Materia de Administración Tributaria Municipal e Implementación de un Catastro Integral en los primeros cuarenta y cinco días de cambio de administración municipal, para los efectos de la asistencia técnica y administrativa otorgada por la Dirección General de Catastro del Estado. Estos convenios serán autorizados por el Honorable Cabildo de cada Ayuntamiento y señalarán el apoyo que cada municipio brindará al Gobierno del Estado, en apoyo a su asesoría y gastos administrativos.
 
 ### CAPITULO III
 
@@ -2563,7 +2485,7 @@ III.- De 1 a 100 salarios mínimos en los siguientes casos:
 
 9.- A los que se nieguen a proporcionar sin cause (sic) justificada los informes que el Departamento Municipal de Agua Potable y Alcantarillado les pida en relación con el servicio de agua potable.
 
-10.- A las funcionarios o empleados que conceden licencia para construcciones sin que se les presente el comprobante oficial de haber quedado instalada la toma de agua en el predio en que vaya a construir.
+10.- A los funcionarios o empleados que conceden licencia para construcciones sin que se les presente el comprobante oficial de haber quedado instalada la toma de agua en el predio en que vaya a construir.
 
 11.- Al que por emplear mecanismo para succionar agua de las tuberías de distribución ocasione deficiencias en el servicio o desperfectos en las instalaciones.
 
@@ -3550,3 +3472,23 @@ P.O. 23 DE DICIEMBRE DE 1999.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día primero de Enero del año 2000.
+
+P.O. 24 DE DICIEMBRE DE 2000.
+
+DECRETO No. 347.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día primero de Enero del año 2001.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2000.
+
+DECRETO No. 351.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
