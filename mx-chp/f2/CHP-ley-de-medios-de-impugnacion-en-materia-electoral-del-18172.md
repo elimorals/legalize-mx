@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-medios-de-impugnacion-en-materia-electoral-del-18172"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-24"
-last_updated: "2000-10-24"
+last_updated: "2005-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS, PUBLICADA EN EL PERIODICO OFICIAL EL 17 DE MARZO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el martes 24 de octubre de 2000.
 
@@ -886,3 +888,13 @@ DADO EN EL PALACIO LEGISLATIVO EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A L0S 
 DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS VEINTICUATRO DIAS DEL MES DE OCTUBRE DEL AÑO DOS MIL.
 
 ROBERTO ALBORES GUILLEN, GOBERNADOR DEL ESTADO.- JORGE MARIO LESCIEUR TALAVERA, SECRETARIO DE GOBIERNO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE MARZO DE 2005.
+
+Artículo Primero.- La presente Ley de Procedimientos Electorales del Estado de Chiapas, entrará en vigor un día después de su publicación en el Periódico Oficial del Gobierno del Estado de Chiapas.
+
+Artículo Segundo.- La sustanciación de los recursos en materia electoral en trámite al entrar en vigor la presente ley, serán resueltos de conformidad con las disposiciones legales vigentes al momento de su interposición.
+
+Artículo Tercero.- Se abroga la Ley de Medios de Impugnación en Materia Electoral para el Estado de Chiapas y se derogan todas las disposiciones que se opongan a la presente ley.
