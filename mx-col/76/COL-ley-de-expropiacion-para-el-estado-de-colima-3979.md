@@ -4,7 +4,7 @@ identifier: "COL-ley-de-expropiacion-para-el-estado-de-colima-3979"
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-12"
-last_updated: "1992-09-12"
+last_updated: "1999-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 12 de septiembre de 1992.
 
@@ -133,25 +133,37 @@ Corresponden al Juez de lo Civil dictar la resolución correspondiente para dete
 
 ### CAPITULO IV. DE LAS NOTIFICACIONES
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTICULO 10.
 
 Las notificaciones y citaciones se realizarán en el término de tres días a partir de la fecha en que se dicte la resolución correspondiente.
 
-Cuando deban hacerse en el territorio del Estado las llevarán a cabo el personal que comisione el Director General de Gobierno, y fuera de él pero dentro de la República, por conducto de un Notario Público que tenga jurisdicción en el domicilio del notificado.
+Cuando deban hacerse en el territorio del Estado las llevarán a cabo el personal que comisione el Director General de Gobierno y fuera de él pero dentro de la República, por conducto de un Notario Público que pueda actuar en la demarcación en que se encuentre el domicilio del notificado, sujetándose a las formalidades consignadas en el presente capítulo.
 
 ###### ARTICULO 11.
 
 Las notificaciones se realizarán personalmente, por cédula o por edictos, de conformidad con lo que se establece en los siguientes artículos.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTICULO 12.
 
-La primera notificación se hará personalmente al titular de los derechos o a su representante o procurador, en su domicilio. De no encontrarlo el notificador, dejará citatorio con la persona que se encuentre para hora fija dentro de las veinticuatro horas siguientes. Si no espera el citado se le hará la notificación por cédula.
+La primera notificación se hará personalmente al titular de los derechos o a su representante o procurador, en su domicilio. Requiriéndosele para que en un plazo de cinco días hábiles, señale domicilio en el territorio del Estado de Colima en donde deberán hacerse las subsecuentes notificaciones, apercibiéndosele que de no hacerlo las notificaciones se realizarán mediante publicación en el periódico oficial "El Estado de Colima".
 
-La cédula y la documentación anexa se entregarán, en caso que así proceda, a los parientes o domésticos de la persona a notificarse, o a cualquier otra que viva o se encuentre en la casa. La cédula deberá contener como mínimo una transcripción del acuerdo que ordene iniciar el procedimiento respectivo.
+De no encontrarlo el notificador, dejará citatorio con la persona que se encuentre para que espere, en el domicilio designado, a hora fija dentro de las siguientes 24 horas, y si no espera, se le notificará por cédula.
+
+En todo caso, si existiera negativa del interesado o de la persona con quien se entienda la notificación, a recibir ésta o el citatorio, la diligencia la hará el notificador por medio de cédula que fijará en la puerta del domicilio en que se actúe, asentando razón de tal circunstancia. En igual forma se procederá si no ocurrieren al llamado del notificador.
+
+> <small>(F. DE E., P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+Si el domicilio en que hubiere de practicarse la notificación se encontrare cerrado, la persona que deba practicar la diligencia regresará en el mismo término establecido en el segundo párrafo de este artículo; y si nuevamente se encontrare cerrado, lo hará constar en acta circunstanciada y la notificación se llevará a cabo mediante edicto que se publique por una sola vez en el Periódico Oficial "El Estado de Colima" y en uno de los de mayor circulación del lugar en que se actúe.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 13.
 
-De toda notificación la persona que la practique levantará acta circunstanciada, que firmará con asistencia de dos testigos.
+Cuando se lleve a efecto una notificación en el territorio del Estado, la persona que la practique levantará acta circunstanciada, que firmará con asistencia de dos testigos.
 
 ###### ARTICULO 14.
 
@@ -306,3 +318,11 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los siete días del mes de septiembre de 1992.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE DELGADO MAGAÑA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE NOVIEMBRE DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
