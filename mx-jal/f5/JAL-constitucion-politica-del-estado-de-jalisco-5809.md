@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1922-09-16"
+last_updated: "1924-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1922.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 1924.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -85,11 +85,11 @@ El Supremo Poder del Estado se divide, para su ejercicio, en Legislativo, Ejecut
 
 El Poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1924)</small>
+
 ###### Art. 8º.
 
-El Congreso del Estado se compondrá de Diputados electos popularmente cada dos años.
-
-Los individuos a quienes las juntas computadoras de las cabeceras de Distrito Electoral, expidan credenciales, declarando que han obtenido mayoría de votos para Diputados, instalados en Colegio Electoral, calificarán la elección declarando quienes son Diputados conforme a la ley. Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral son irrevocables.
+El Congreso del Estado se compondrá de Diputados electos popularmente cada cuatro años.
 
 ###### Art. 9º.
 
@@ -606,3 +606,9 @@ Firmados: Presidente, M. Bouquet Jr., Diputado por el Primer Distrito.- Vice-Pre
 P.O. 16 DE SEPTIEMBRE DE 1922.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+
+P.O. 26 DE SEPTIEMBRE DE 1924.
+
+###### ARTICULO UNICO.
+
+Esta ley empezará a regir en la elección de la próxima XXIX Legislatura y los períodos que se señala se contarán a partir del día 1o. de febrero de mil novecientos veinticinco.
