@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1993-05-31"
+last_updated: "1994-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MAYO DE 1994.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -146,9 +146,11 @@ C).- Comisión Interna de Administración y Programación.
 
 La Junta, como órgano máximo de Gobierno, tendrá a su cargo la programación estratégica del Instituto, la supervisión de la marcha del mismo y el control de sus actividades, para lo cual deberá definir en el Programa Institucional y en los Programas Operativos Anuales, los objetivos, metas, prioridades y estrategias del Instituto, así como garantizar la conexión del proceso de programación con los de presupuestación, evaluación y control.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 5o.
 
-La Junta se compondrá de once miembros: cinco serán los respectivos titulares de las Secretarías siguientes: Programación y Presupuesto, Hacienda y Crédito Público, Salud, Desarrollo Urbano y Ecología y Trabajo y Previsión Social; el Director General que al efecto designe el Presidente de la República, y los cinco restantes que serán designados por la Federación.
+La Junta se compondrá de once miembros: cuatro serán los respectivos titulares de las secretarías siguientes: Hacienda y Crédito Público, Desarrollo Social, Salud, y Trabajo y Previsión Social; uno más nombrado por el Secretario de Hacienda y Crédito Público; el Director General que al efecto designe el Presidente de la República; y cinco designados por la Federación.
 
 El Presidente de la República designará de entre los miembros de la Junta representantes del Gobierno Federal, a quien deba presidirla.
 
@@ -186,7 +188,9 @@ I.- Planear las operaciones y servicios del Instituto;
 
 II.- Examinar para su aprobación y modificación del programa institucional; los programas operativos anuales de acuerdo con lo establecido en la Ley de Planeación; los estados financieros del Instituto, así como los programas y presupuestos correspondientes a sus recursos propios adicionales;
 
-III.- Decidir el manejo y erogación de sus recursos propios y las inversiones del Instituto, así como determinar las reservas actuariales y financieras que deban constituirse para asegurar el otorgamiento de los seguros, prestaciones y servicios que determina la Ley, y el cumplimiento de sus fines;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+III.- Decidir el manejo y erogaciones de sus recursos propios y las inversiones del Instituto, excepto tratándose del Sistema de Ahorro para el Retiro, y determinar las reservas actuariales y financieras que deban constituirse para asegurar el otorgamiento de los seguros, prestaciones y servicios que determina la Ley, así como el cumplimiento de sus fines;
 
 IV.- Conocer y aprobar en su caso, en el primer bimestre del año, el informe pormenorizado del estado que guarde la administración del Instituto;
 
@@ -232,9 +236,13 @@ A).- Examinar y en su caso aprobar, dentro de los tres últimos meses del año, 
 
 B).- Examinar y en su caso aprobar, en el primer bimestre del año, el informe de actividades de la Comisión Ejecutiva del Fondo y, dentro de los cuatro primeros meses del año, los estados financieros que resulten de la operación en el último ejercicio;
 
-C).- Establecer las reglas para el otorgamiento de créditos y para la operación de los depósitos relacionados con el Fondo;
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1994)</small>
 
-D).- Examinar y aprobar anualmente el presupuesto de gastos de administración, operación y vigilancia del Fondo, los que no deberán exceder de uno y medio por ciento de los recursos totales que maneje;
+C).- Establecer las reglas para el otorgamiento de créditos;
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1994)</small>
+
+D).- Examinar y aprobar anualmente el presupuesto de gastos de administración, operación y vigilancia del Fondo, los que no deberán exceder del 0.75 por ciento de los recursos totales que maneje;
 
 E).- Determinar las reservas que deben constituirse para asegurar la operación del Fondo y el cumplimiento de los demás fines y obligaciones del mismo. Estas reservas deberán invertirse en valores de Instituciones Gubernamentales;
 
@@ -294,13 +302,21 @@ I.- En el primer bimestre del año, conocer y aprobar, en su caso, el informe an
 
 II.- Dentro de los cuatro primeros meses del año, examinar y en su caso aprobar los estados financieros del Fondo de la Vivienda, que resulten de la operación en el último ejercicio;
 
-III.- En el tercer bimestre del año, conocer y aprobar en su caso, los estados financieros del Instituto, así como considerar si se propondrán al Ejecutivo Federal proyectos de reformas a la Ley;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+III.- En el tercer bimestre del año, conocer y aprobar en su caso, los estados financieros del Instituto;
 
 IV.- En el cuarto bimestre del año, determinar las reservas actuariales y financieras que deban constituirse conforme a la Ley, tomando en cuenta el informe que al efecto rinda la Comisión de Vigilancia de acuerdo con lo dispuesto por la fracción V del artículo 173 de dicho ordenamiento y autorizar los anteproyectos de los programas de inversiones y operativo anual del Instituto;
 
 V.- En el quinto bimestre del año, aprobar el anteproyecto de presupuesto del Instituto y del Fondo de la Vivienda; y
 
-VI.- En el sexto bimestre del año, aprobar el programa de trabajo de la Comisión de Vigilancia y, autorizar o en su caso ajustar el programa institucional, conforme a la Ley de Planeación.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+VI.- En el sexto bimestre del año, aprobar el programa de trabajo de la Comisión de Vigilancia y, autorizar o en su caso ajustar el programa institucional, conforme a la Ley de Planeación; y
+
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+VII.- Considerar en el tercero y quinto bimestres del año, si se propondrán al Ejecutivo Federal proyectos de reformas a la Ley.
 
 ###### ARTICULO 16.
 
@@ -318,7 +334,15 @@ V.- Firmar las actas de las sesiones;
 
 VI.- Fungir como asesor permanente de los Comités; y
 
-VII.- Las demás que le encomiende la Junta.
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+VII.- Realizar el análisis de los asuntos que se deban someter a la consideración de la Junta para verificar su presentación dentro de la normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+VIII.- Mantener actualizado el registro de los acuerdos emitidos por la Junta y establecer un sistema de seguimiento de los mismos; y
+
+IX.- Las demás que le encomiende la Junta.
 
 ###### ARTICULO 17.
 
@@ -394,9 +418,15 @@ El Director General será auxiliado por los Subdirectores Generales, el Vocal Ej
 
 Asimismo, se auxiliará de los Coordinadores Generales, Delegados y demás servidores públicos que designe.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 23.
 
-El Director General asistirá a las reuniones a las que sea convocado para tratar asuntos de interés institucional, así como a aquellas en las que exista competencia concurrente con otras Dependencias o Entidades de la Administración Pública Federal.
+El Director General podrá designar un representante que asistirá a las reuniones a las que sea convocado para tratar asuntos de interés institucional, así como a aquéllas en las que exista competencia concurrente con otras dependencias o entidades de la Administración Pública Federal.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1994)</small>
+
+Tratándose del Comité Técnico del Sistema de Ahorro para el Retiro que establece la Ley, asistirá el representante que al efecto designe el Director General.
 
 ###### ARTICULO 24.
 
@@ -404,11 +434,11 @@ El Director General podrá delegar cualquiera de sus facultades en otros servido
 
 ### CAPITULO CUARTO. DE LA COMISION EJECUTIVA
 
-> <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1994)</small>
 
 ###### ARTICULO 25.
 
-El órgano del Instituto para la operación del Fondo de la Vivienda será la Comisión Ejecutiva que estará integrada por nueve miembros; uno designado por la Junta, a propuesta del Director General, el cual hará las veces de Vocal Ejecutivo de la Comisión; un Vocal nombrado por cada una de las Secretarías siguientes: Programación y Presupuesto, Desarrollo Urbano y Ecología, Hacienda y Crédito Público, Trabajo y Previsión Social; y cuatro Vocales más nombrados a propuesta de la Federación.
+El órgano del Instituto para la operación del Fondo de la Vivienda será la Comisión Ejecutiva, que estará integrada por nueve miembros: uno designado por la Junta, a propuesta del Director General, quien hará las veces de Vocal Ejecutivo de la Comisión; dos vocales nombrados por la Secretaría de Hacienda y Crédito Público; un vocal nombrado por la Secretaría de Desarrollo Social; un vocal nombrado por la Secretaría del Trabajo y Previsión Social; y cuatro vocales que serán nombrados a propuesta de la Federación.
 
 ###### ARTICULO 26.
 
@@ -422,15 +452,19 @@ Los Vocales podrán ser removidos libremente por quien los haya propuesto.
 
 La Comisión Ejecutiva tendrá las atribuiciones (sic) y funciones siguientes:
 
-I.- Decidir, a propuesta del Vocal Ejecutivo, las inversiones de los recursos y financiamientos del Fondo;
+I.- (DEROGADA, D.O.F. 27 DE MAYO DE 1994)
 
 II.- Resolver sobre las operaciones del Fondo, excepto aquellas que por su importancia ameriten acuerdo expreso de la Junta, la que deberá acordar lo conducente dentro de los 15 días siguientes a la fecha en que se haga la petición correspondiente;
 
 III.- Examinar y, en su caso, aprobar y presentar a la Junta, los presupuestos de ingresos y egresos, los planes de labores y financiamientos, así como los estados financieros y el informe de labores formulados por el Vocal Ejecutivo;
 
-IV.- Presentar a la Junta para su aprobación el presupuesto de gastos de administración, operación y vigilancia del Fondo, los que no deberán exceder del 1.5 % de los recursos totales que administre;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
 
-V.- Proponer a la Junta las reglas para el otorgamiento de créditos, así como para la operación de los depósitos a que se refiere la Ley;
+IV.- Presentar a la Junta para su aprobación, el presupuesto de gastos de administración, operación y vigilancia del Fondo, los que no deberán exceder del 0.75 por ciento de los recursos totales que administre;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+V.- Proponer a la Junta las reglas para el otorgamiento de créditos;
 
 > <small>(F. DE E., D.O.F. 5 DE SEPTIEMBRE DE 1988)</small>
 
@@ -492,7 +526,9 @@ V.- Presentar a la Comisión Ejecutiva, a más tardar el último día de septiem
 
 VI.- Presentar a la consideración de la Comisión Ejecutiva un informe mensual sobre las actividades de la propia Comisión;
 
-VII.- Presentar a la Comisión Ejecutiva para su consideración y en su caso aprobación, los proyectos concretos de financiamiento.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+VII.- Presentar a la Comisión Ejecutiva para su consideración, y en su caso aprobación, los programas de financiamientos y créditos a que se refieren las fracciones I y II del artículo 103 de la Ley, a ser subastados y otorgados, según corresponda, por el Instituto;
 
 VIII.- Proponer al Director General los nombramientos y remociones del personal técnico y administrativo de la Comisión, dando la intervención que en derecho corresponda al Sindicato del Instituto; y
 
@@ -502,9 +538,11 @@ Para la atención de los asuntos de su competencia el Vocal Ejecutivo se auxilia
 
 ### CAPITULO QUINTO. DE LA COMISION DE VIGILANCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 33.
 
-La Comisión de Vigilancia se compondrá de siete miembros, un representante de cada una de las Secretarías siguientes: de la Contraloría General de la Federación, que será el Comisario designado por la misma; de Programación y Presupuesto y de Hacienda y Crédito Público; uno del Instituto designado por el Director General, con derecho a voz pero sin voto y que actuará como Secretario Técnico, y tres designados por la Federación.
+La Comisión de Vigilancia se compondrá de siete miembros: uno de la Secretaría de la Contraloría General de la Federación, que será el Comisario designado por la misma; dos de la Secretaría de Hacienda y Crédito Público; uno del Instituto, designado por el Director General, con derecho a voz pero sin voto y que actuará como Secretario Técnico; y tres designados por la Federación.
 
 La Junta cada seis meses designará de entre los miembros de la Comisión de Vigilancia representantes del Estado a quien deba presidirla. La Presidencia será rotativa y nunca recaerá en el representante del Instituto.
 
@@ -690,7 +728,9 @@ V.- Dictaminar los asuntos relativos a accidentes y enfermedades del trabajo, as
 
 VI.- Coordinar el Programa de Servicios Integrales de Retiro a Jubilados y Pensionistas;
 
-VII.- Promover la integración y funcionamiento de las comisiones de seguridad e higiene de las Dependencias y Entidades sujetas al régimen de la Ley y de una Comisión Consultiva Nacional y de Comisiones Consultivas Estatales de Seguridad e Higiene del Sector Público Federal; así como lo relativo a los comités de protección civil del Instituto.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+VII.- Promover la integración y funcionamiento de las Comisiones Mixtas de Seguridad e Higiene de las dependencias y entidades sujetas al régimen de la Ley y de una Comisión Consultiva Nacional y de Comisiones Consultivas Estatales de Seguridad e Higiene del Sector Público Federal;
 
 VIII.- Realizar estudios, investigaciones y estadísticas sobre accidentes y enfermedades del trabajo; sugerir en el ámbito de competencia del Instituto las medidas preventivas de seguridad e higiene en el trabajo y desarrollar en coordinación con la Subdirección General Médica las acciones inherentes a medicina del trabajo.
 
@@ -750,7 +790,9 @@ X.- Las demás que señalen otras disposiciones aplicables.
 
 La Subdirección General de Servicios Sociales y Culturales tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar, coordinar y controlar la operación de sistemas de alimentación económica en el trabajo, de estancias para el bienestar y desarrollo infantil, de multifamiliares, de servicios funerarios, turísticos, culturales, deportivos y recreativos de los derechohabientes del Instituto, así como de los talleres de manufactura del mismo;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+I.- Planear, organizar, normar, coordinar y controlar la operación de sistemas de alimentación económica en el trabajo, de estancias para el bienestar y desarrollo infantil, de servicios funerarios, turísticos, culturales, deportivos y recreativos para los derechohabientes del Instituto, así como de los talleres de terapia ocupacional para pensionados y jubilados;
 
 II.- Estudiar, proponer y aplicar las normas que se aprueben para el funcionamiento de los servicios sociales y culturales que proporciona el Instituto a sus derechohabientes;
 
@@ -822,41 +864,65 @@ III.- Proponer políticas en materia de personal en coordinación con el Sindica
 
 IV.- Diseñar y operar el sistema de capacitación interna para los trabajadores del Instituto;
 
-V.- Formular y operar el programa de mantenimiento de los vehículos propiedad del Instituto y proponer la baja o reemplazo de los mismos;
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
 
-VI.- Establecer normas para el control del inventario de los bienes muebles que integran el activo fijo del Instituto;
+V.- Prestar los servicios de limpieza interior y exterior de los inmuebles del Instituto, así como formular y operar el programa de conservación de áreas verdes y plantas de ornato de los citados inmuebles, con base en la legislación aplicable;
 
-VII.- Proporcionar los servicios necesarios a las diferentes unidades operativas del Instituto, relativos a la recepción y despacho de la correspondencia, archivo y registro de expedientes;
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1994)</small>
 
-VIII.- Diseñar los sistemas para captar, analizar, procesar y difundir la información que se genere en el Instituto;
+VI.- Formular y operar el programa de mantenimiento de vehículos propiedad del Instituto y proponer la baja o reemplazo de los mismos;
 
-IX.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a informática;
+VII.- Establecer normas para el control del inventario de los bienes muebles que integran el activo fijo del Instituto;
 
-X.- Representar al Instituto ante la Secretaría de Programación y Presupuesto en asuntos de informática;
+VIII.- Proporcionar los servicios necesarios a las diferentes unidades operativas del Instituto, relativos a la recepción y despacho de la correspondencia, archivo y registro de expedientes;
 
-XI.- Proporcionar y difundir programas de capacitación para los derechohabientes del Instituto; y
+IX.- Diseñar los sistemas para captar, analizar, procesar y difundir la información que se genere en el Instituto;
 
-XII.- Las demás que señalen otras disposiciones aplicables.
+X.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a informática;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+XI.- Representar al Instituto ante la Secretaría de Hacienda y Crédito Público, en asuntos de informática;
+
+XII.- Proporcionar y difundir programas de capacitación para los derechohabientes del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+XIII.- Normar, controlar y coordinar la operación interna del Sistema de Ahorro para el Retiro establecido en favor de los trabajadores del Instituto; y
+
+XIV.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 51.
 
 La Subdirección General de Obras y Mantenimiento tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar, coordinar y controlar el diseño, construcción, conservación, mantenimiento y equipamiento de las unidades físicas pertenecientes al Instituto;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
 
-II.- Programar, convocar y celebrar en materia de obras públicas, las subastas o concursos de las obras y servicios, de conformidad con las disposiciones legales aplicables;
+I.- Planear, organizar, normar, coordinar y controlar el diseño, construcción, conservación, mantenimiento y equipamiento de las unidades físicas pertenecientes al Instituto; estructurando éstas de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del ambiente y el equilibrio ecológico;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+II.- Programar, convocar y celebrar las licitaciones o concursos que tengan por objeto la adjudicación de contratos de obra pública, servicios relacionados con la misma, servicios de conservación y mantenimiento de equipos e inmuebles, excepto los de informática, con base en la legislación aplicable;
 
 III.- Formular y ejecutar los programas de inversión en construcción de obras y reserva territorial del Instituto, de conformidad con las disposiciones legales aplicables;
 
 IV.- Atender y otorgar el mantenimiento preventivo y correctivo, así como la conservación de los bienes que integren la infraestructura física del Instituto;
 
-V.- Realizar estudios y programar la adquisición de terrenos y bienes inmuebles para ampliar la reserva territorial e infraestructura del Instituto,
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+V.- Realizar estudios, programar y llevar a cabo los trámites para la adquisición de terrenos y bienes inmuebles que tengan por objeto ampliar la reserva territorial e infraestructura del Instituto, de conformidad con las disposiciones legales aplicables;
 
 VI.- Realizar y mantener actualizado el registro general de los bienes inmuebles y el inventario del equipo médico e industrial propiedad del Instituto, en coordinación con las Subdirecciones Generales de Administración y Jurídica;
 
-VII.- Establecer las normas y especificaciones técnicas para la operación de las unidades físicas pertenecientes al Instituto, en coordinación con las áreas a cuyo cargo se encuentre la utilización de las mismas; y
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
 
-VIII.- Las demás que señalen otras disposiciones aplicables.
+VII.- Establecer las normas y especificaciones técnicas para la operación de las unidades físicas pertenecientes al Instituto, en coordinación con las áreas a cuyo cargo se encuentre la utilización de las mismas;
+
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+VIII.- Llevar a cabo los procedimientos administrativos de rescisión de los contratos que celebre y con apoyo de la Subdirección General Jurídica, ejercer las acciones que en derecho procedan para recuperar los adeudos originados con motivo de las rescisiones o finiquitos de los contratos celebrados, cumpliendo con la normatividad vigente; y
+
+IX.- Las demás que señalen otras disposiciones aplicables.
 
 > <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 1989)</small>
 
@@ -864,9 +930,13 @@ ARTICULO 51 A.- La Subdirección General de Finanzas tendrá las funciones sigui
 
 I.- Planear, organizar, normar, coordinar y controlar los sistemas institucionales de programación, presupuestación, contabilidad, tesorería y evaluación programática;
 
-II.- Participar en la formulación, implantación y evaluación del Programa Institucional, de conformidad con los lineamientos sectoriales y globales establecidos, así como proponer los ajustes que resulten necesarios;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
 
-III.- Representar al Instituto ante la Secretaría de Programación y Presupuesto en asuntos de planeación, programación, presupuestación, contabilidad, tesorería y evaluación programática;
+II.- Coordinar la formulación, implantación y evaluación del programa institucional, de conformidad con los lineamientos sectoriales y globales establecidos, así como proponer los ajustes que resulten necesarios;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+III.- Representar al Instituto ante la Secretaría de Hacienda y Crédito Público en asuntos de planeación, programación, presupuestación, contabilidad, tesorería y evaluación programática;
 
 IV.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a planeación, programación, presupuestación, contabilidad, tesorería y evaluación programática;
 
@@ -880,7 +950,9 @@ VIII.- Coordinar la formulación y adecuación del presupuesto de egresos del In
 
 IX.- Determinar la cuantificación de los adeudos al Instituto y promover su oportuna recuperación, así como vigilar su aplicación de acuerdo a los programas y prioridades autorizados;
 
-X.- Diseñar y operar los sistemas de recuperación de adeudos, previa aprobación de la Junta;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+X.- Diseñar y operar en los términos del artículo 22 de la Ley del Instituto los sistemas de recuperación de adeudos, previa autorización de la Junta. En el caso de adeudos por concepto de cuotas y aportaciones al Instituto, solicitar a la Tesorería de la Federación la correspondiente retención sobre transferencias y participaciones a entidades paraestatales, gobiernos estatales y municipales, respectivamente, de acuerdo con los convenios de incorporación voluntaria;
 
 XI.- Proponer y operar los sistemas para el control de las operaciones derivadas tanto de la captación de ingresos como de la movilización de fondos;
 
@@ -954,31 +1026,65 @@ VII.- Las demás que señalen otras disposiciones aplicables.
 
 La Coordinación General de Delegaciones tendrá las funciones siguientes:
 
-I.- Apoyar a las Subdirecciones Generales en su relación con las delegaciones y distribuir la información que corresponda a cada Subdirección;
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
 
-II.- Constituirse en el conducto formal de comunicación entre las delegaciones, los órganos de gobierno y unidades administrativas centrales;
+I.- Coadyuvar en la implantación de las políticas, estrategias y líneas de acción que establezca el Director General para la operación de las delegaciones;
 
-III.- Auxiliar en forma conjunta con la Subdirección General de Finanzas a las delegaciones en la elaboración de los anteproyectos del Programa-Presupuesto y opinar ante las unidades administrativas centrales correspondientes, respecto a su viabilidad y congruencia con los Planes y Programas de Desconcentración;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+II.- Apoyar a las unidades administrativas centrales en su relación con las delegaciones, y dar seguimiento al cumplimiento de los compromisos de intercambio de información entre ambos niveles de administración;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+III.- Constituirse en un conducto de comunicación entre las delegaciones, los órganos de gobierno y unidades administrativas centrales;
 
 IV.- Evaluar conjuntamente con las unidades administrativas centrales la operación administrativa, técnica y financiera de las delegaciones, de acuerdo con las disposiciones relativas;
 
-V.- Coadyuvar en el otorgamiento de la asistencia técnica y de capacitación para poner en práctica los lineamientos generales que establezca el director general para la operación de las delegaciones;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
 
-VI.- Instrumentar, proponer y promover los criterios y lineamientos, para una adecuada coordinación entre las delegaciones con las representaciones federales, estatales y municipales de los sectores público, social y privado;
+V.- Auxiliar en forma conjunta con la Subdirección General de Finanzas a las delegaciones en la elaboración y propuesta de los anteproyectos y proyectos de sus programas-presupuesto y remitir a las unidades centrales las necesidades de las delegaciones, así como emitir opinión sobre las solicitudes de ampliación presupuestal que presenten las mismas;
 
-VII.- Coadyuvar a la solución de aquellos asuntos que se generen en las delegaciones, informando oportunamente al director general y a las áreas administrativas competentes;
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
 
-VIII.- Captar, analizar, sistematizar y difundir a las áreas correspondientes, oportunamente, la información que se genere en las delegaciones;
+VI.- Apoyar al Director General en el establecimiento y conducción de las relaciones institucionales con las autoridades de los estados, municipios y gobiernos del Distrito Federal;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+VII.- Proponer y promover, previa aprobación del Director General, los criterios y lineamientos para la coordinación de las delegaciones con las representaciones federales, estatales y municipales, así como de los sectores social y privado;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+VIII.- Coadyuvar con las unidades administrativas en la solución de aquellos asuntos que se generen en las delegaciones, informando de ellos al Director General;
 
 IX.- Llevar el registro de las supervisiones y evaluaciones que efectúen las áreas administrativas a las delegaciones, conforme a las instrucciones del director general, en el ámbito de competencia de las mismas áreas;
 
-X.- Auxiliar al Director General con motivo de las giras de trabajo que tenga que realizar a las delegaciones, así como informarle oportunamente de la situación que guarde la delegación correspondiente;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
 
-XI.- Captar y analizar las cargas de trabajo de las Delegaciones y proponer las medidas respectivas para incrementar la eficiencia administrativa de las mismas;
+X.- Proponer al Director General, previa consideración de las sugerencias planteadas por las unidades administrativas, las modificaciones a la estructura orgánica y de funcionamiento de las delegaciones;
 
-XII.- Proponer al Director General las modificaciones a la estructura orgánica y al funcionamiento y operación de las delegaciones; y
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
 
-XIII.- Las demás que señalen otras disposiciones aplicables.
+XI.- Conocer de las supervisiones que efectúen las unidades administrativas y de las auditorías a las delegaciones, y apoyar a estas últimas en la atención de las recomendaciones que deriven de dichas acciones;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+XII.- Organizar y participar en las giras de trabajo que realice el Director General a las delegaciones, e informarle sobre la situación operativa y la problemática que guarde la delegación correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+XIII.- Someter a la aprobación del Director General esquemas de regionalización de las delegaciones para facilitar su coordinación y el apoyo a su gestión administrativa;
+
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+XIV.- Coordinar las reuniones nacionales y regionales de delegados que se efectúen, así como concertar la participación de las unidades administrativas en las mismas, informando de sus resultados al Director General;
+
+> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+XV.- Coadyuvar con la Subdirección General Jurídica en la actualización de los instrumentos jurídico-normativos que rigen la operación del nivel desconcentrado de las delegaciones del Instituto, así como proponer las modificaciones del caso a dichos instrumentos; y
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+
+XVI.- Las demás que señalen otras disposiciones aplicables o le encomiende el Director General.
 
 ### CAPITULO SEPTIMO. DE LA DESCONCENTRACION ADMINISTRATIVA
 
@@ -1006,11 +1112,13 @@ Al frente de cada Delegación habrá un Delegado nombrado por la Junta, a propue
 
 Para la atención de los asuntos, el Delegado se auxiliará por el número de subdelegados que se considere necesario, designados por el Director General, así como el personal administrativo que se requiera a fin de proporcionar los seguros, prestaciones y servicios a que se refiere la Ley.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1994)</small>
+
 ###### ARTICULO 59.
 
-En cada Delegación se establecerá un Comité de Programación y Evaluación cuyo objeto será el de conocer la problemática en el otorgamiento de los seguros, prestaciones y servicios previstos en la ley, y proponer las medidas que resulten necesarias para la solución de la misma; así como opinar sobre aquellos asuntos que le sean sometidos por el Delegado.
+En cada delegación funcionará un Consejo Consultivo, cuyo objeto será colaborar con el delegado en el análisis de los seguros, prestaciones y servicios del Instituto y formular propuestas sobre los programas de la delegación que contribuyan a alcanzar la excelencia en el otorgamiento de los mismos.
 
-Su integración, organización y funcionamiento será de conformidad al Reglamento de Delegaciones y demás disposiciones que al efecto se expidan.
+Su integración, organización y funcionamiento será de conformidad con el Reglamento de las Delegaciones del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y demás disposiciones que al efecto se expidan.
 
 ### CAPITULO OCTAVO. DE LA COMISION INTERNA DE ADMINISTRACION Y PROGRAMACION
 
@@ -1039,6 +1147,10 @@ IV.- Establecer subcomisiones o grupos de trabajo específicos.
 Por cada miembro propietario de la Junta se nombrará un suplente, el cual lo substituirá en sus faltas temporales, y tratándose de los representantes del Estado, el suplente será el Subsecretario o funcionario de nivel equivalente que ellos designen.
 
 Las faltas temporales del Presidente de la Junta serán suplidas por uno de los representantes del Estado que se elija por los presentes en la sesión respectiva. En caso de falta definitiva, la nueva designación se hará por el Presidente de la República.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1994)</small>
+
+El Secretario de la Junta será suplido en sus ausencias temporales, por el Prosecretario de dicho Organo de Gobierno.
 
 ###### ARTICULO 63.
 
@@ -1111,3 +1223,21 @@ D.O.F. 31 DE MAYO DE 1993.
 PRIMERO.- Estas reformas entrarán en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y, en su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 27 DE MAYO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Acuerdo en el Diario Oficial de la Federación y, en su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
+
+###### ARTICULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el artículo 9o., fracción XX, inciso D), que entrará en vigor a partir del 1o. de enero de 1997.
+
+###### ARTICULO TERCERO.
+
+El presupuesto de gastos de administración, operación y vigilancia del Fondo de la Vivienda a que se refieren los artículos 9o., fracción XX, inciso D), y 27, fracción IV que se reforman, para los años de 1994, 1995 y 1996 no deberá exceder, respectivamente, del 1.10%, 0.90% y 0.80% de los recursos totales que maneje el propio Fondo.
+
+###### ARTICULO CUARTO.
+
+Se extinguen los Comités de Programación y Evaluación a que se refería el artículo 59 del presente Estatuto y se instalan en su lugar los Consejos Consultivos Delegacionales, creados por el Acuerdo de la Junta Directiva número 14.1182.93 de fecha 29 de noviembre de 1993, publicado en el Diario Oficial de la Federación el día 3 de enero de 1994.
