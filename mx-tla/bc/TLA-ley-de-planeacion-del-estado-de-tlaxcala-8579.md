@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-planeacion-del-estado-de-tlaxcala-8579"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-04"
-last_updated: "1984-04-04"
+last_updated: "1999-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE PLANEACION DEL ESTADO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el 4 de abril de 1984.
 
@@ -61,11 +61,13 @@ V.- Las bases para promover y garantizar la participación democrática de los d
 
 VI.- Los medios para que el Ejecutivo del Estado, coordine las actividades de planeación, programación y ejecución entre los Gobiernos Federal, Estatal y Municipales.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 3o.
 
-El Gobernador del Estado, al enviar cada año los proyectos de Ley de Ingresos y Presupuesto de Egresos, relacionará sus iniciativas con los programas y actividades de gobierno y que den cumplimiento con el Plan de Desarrollo Estatal.
+El Gobernador del Estado, al enviar al Congreso su informe anual sobre la situación general que guarda la administración pública, hará referencia expresa a las acciones adoptadas en los términos del Plan de Desarrollo Estatal y separadamente enviará el Informe Anual de Ejecución del Plan de Desarrollo Estatal y en el mismo se señalarán las acciones de gestión pública desarrolladas por las distintas dependencias y entidades de la administración, los avances y resultados alcanzados en la consecución de los objetivos previstos, la expresión de las desviaciones en que se hayan incurrido y los obstáculos enfrentados, así como las metas previstas para el siguiente año de ejecución del Plan.
 
-Asimismo, el Gobernador al informar al Congreso de la situación general que guarda la Administración Pública, hará mención expresa de las acciones adoptadas para la ejecución del Plan Estatal de Desarrollo y de sus avances y resultados.
+Al enviarse anualmente los proyectos de Ley de Ingresos y Presupuesto de Egresos, a la Legislatura Estatal, el Gobernador mencionará en las exposiciones de motivos correspondientes la relación de las políticas de ingresos y de gastos con el cumplimiento del Plan de Desarrollo Estatal y sus programas, así como la consecución de sus objetivos.
 
 ###### ARTICULO 4o.
 
@@ -235,13 +237,25 @@ El Plan de Desarrollo Estatal deberá comprender:
 
 I.- Objetivos y metas socioeconómicas, estrategias y prioridades del desarrollo integral.
 
-II.- Previsiones de los recursos humanos, materiales y económico financieros que serán asignados.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1999)</small>
 
-III.- Unidades responsables de la ejecución de los programas.
+II.- Leyes y ordenamientos normativos cuya expedición o modificación se estime pertinente para alcanzar los objetivos y metas que se proponen.
 
-IV.- Planes y Programas Sectoriales, regionales, institucionales, Municipales y Especiales pactados con la Federación.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1999)</small>
 
-V.- Planes, programas y proyectos sectoriales, regionales e institucionales, a corto, mediano y largo plazo.
+III.- Previsiones de los recursos humanos, materiales y económico-financieros que serán asignados.
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1999)</small>
+
+IV.- Unidades responsables de la ejecución de los programas.
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 1999)</small>
+
+V.- Planes y Programas Sectoriales, Regionales e Institucionales, a corto, mediano y largo plazo.
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 1999)</small>
+
+VI.- Planes, Programas y Proyectos Sectoriales, Regionales e Institucionales a corto, mediano y largo plazo.
 
 ###### ARTICULO 28.
 
@@ -302,3 +316,11 @@ Dado en la Sala de Sesiones del Poder Legislativo del Estado Libre y Soberano de
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tlaxcala de Xicohténcatl, a los dieciséis días del mes de marzo de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado.- Lic. Tulio Hernández Gómez.- Rúbrica.- El Secretario de Gobierno.- Lic. Carlos Hernández García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE JUNIO DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
