@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2002-12-11"
+last_updated: "2003-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2003.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -113,11 +113,13 @@ Los diputados electos que no hubieren asistido a la junta, rendirán protesta co
 
 ### CAPITULO III. DE LAS COMISIONES Y COMITES
 
+(REFORMADO, G.G. 19 DE AGOSTO DE 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
+
 ###### Artículo 13.
 
-Los cargos de los miembros de las comisiones de dictamen, se incluirán en la propuesta de integración que formule la Gran Comisión, y serán un presidente, un secretario, un prosecretario y cuatro miembros.
+Los cargos de los miembros de las comisiones legislativas, se incluirán en la propuesta de integración que formule la Gran Comisión, y serán un presidente, un secretario, un prosecretario y seis miembros.
 
-Para su integración se considerará a los diputados de las diferentes fracciones legislativas.
+Para su integración se considerará a los diputados de los diferentes grupos parlamentarios.
 
 ###### Artículo 14.
 
@@ -201,41 +203,39 @@ Los cargos dentro de los comités, su organización y funcionamiento, se regular
 
 ### CAPITULO IV. DE LAS FRACCIONES LEGISLATIVAS
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 28.
 
-Los diputados cuya elección se origine por igual filiación de partido podrán constituirse en fracción legislativa.
+Los diputados cuya elección se origine por igual filiación de partido podrán constituirse en grupo parlamentario.
 
 ###### Artículo 29.
 
-Las fracciones legislativas se tendrán por constituidas cuando presenten al Presidente de la Gran Comisión los siguientes documentos:
-
-I.- Acta en la que conste la decisión de sus miembros de constituirse en fracción, especificando el nombre del partido político del que provienen;
-
-II.- La lista de sus integrantes;
-
-III.- El nombre del diputado que haya sido electo su coordinador, y en su caso, subcoordinador.
-
-Sólo podrá ser integrada una fracción por cada partido político representado en la Legislatura.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2003)
 
 ###### Artículo 30.
 
-Los diputados que dejen de pertenecer a una fracción legislativa, podrán ser considerados como diputados independientes, debiéndoseles guardar las consideraciones que a todos los legisladores, y apoyándolos en lo individual, conforme a las posibilidades de la Legislatura, para que puedan desempeñar sus funciones de representación popular.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2003)
 
 ###### Artículo 31.
 
-Los coordinadores de las fracciones legislativas, facilitarán la comunicación con la directiva de la Legislatura, la Diputación Permanente o la Gran Comisión, para apoyar el desarrollo de los trabajos legislativos.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2003)
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 32.
 
-Las fracciones legislativas podrán proponer que la Legislatura o la Diputación Permanente, en su caso, se pronuncien acerca de cuestiones de interés general.
+Los grupos parlamentarios podrán proponer que la Legislatura o la Diputación Permanente, en su caso, se pronuncien acerca de cuestiones de interés general.
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 33.
 
-Las fracciones legislativas coadyuvarán al mejor desarrollo del proceso legislativo y facilitarán la participación de los diputados en sus funciones, así como para la formación de criterios comunes en las discusiones y deliberaciones en que participen sus integrantes.
+Los grupos parlamentarios coadyuvarán al mejor desarrollo del proceso legislativo y facilitarán la participación de los diputados en sus funciones, así como para la formación de criterios comunes en las discusiones y deliberaciones en que participen sus integrantes.
 
 ###### Artículo 34.
 
-Las fracciones legislativas en proporción a su representación, dispondrán para sus integrantes, de locales adecuados en las instalaciones del Poder Legislativo, así como de los asesores, personal y los elementos materiales necesarios para el cumplimiento de sus funciones, de acuerdo con las posibilidades y presupuesto de la Legislatura.
+(DEROGADO, G.G. 19 DE AGOSTO DE 2003)
 
 ### CAPITULO V. DE LAS SESIONES
 
@@ -663,11 +663,13 @@ En caso de moción suspensiva, se escuchará al solicitante para que la funde y 
 
 Agotado el turno de oradores, el presidente consultará a la Asamblea si se estima suficientemente discutido el asunto; en caso afirmativo se pasará a votación de inmediato y en caso contrario concluirá la discusión con un orador en contra y en su caso uno en pro. De igual forma se procederá en las discusiones en lo particular.
 
+(REFORMADO, G.G. 19 DE AGOSTO DE 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2004)
+
 ###### Artículo 108.
 
-Aprobado un proyecto de ley o decreto, el presidente, lo remitirá al Comité de Corrección de Estilo, salvo que sea dispensado el trámite.
+Aprobado un proyecto de ley o decreto, el presidente, lo remitirá a la Secretaría de Asuntos Parlamentarios para su revisión.
 
-En su caso, concluida la revisión por el comité, la secretaría hará la remisión al Ejecutivo para los efectos procedentes.
+Concluida la revisión por la Secretaría de Asuntos Parlamentarios, la Secretaría hará la remisión al Ejecutivo para los efectos procedentes.
 
 ###### Artículo 109.
 
@@ -957,9 +959,11 @@ El contenido del "Diario de Debates", deberá ser recopilado para su publicació
 
 La Gran Comisión dará la difusión necesaria al "Diario de Debates", disponiendo al efecto su distribución, debiendo conservar ejemplares para la biblioteca del Poder Legislativo. Los diputados recibirán un ejemplar.
 
+(REFORMADO, G.G. 19 DE AGOSTO DE 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2004)
+
 ###### Artículo 147.
 
-Las características y formas del "Diario de Debates", serán fijadas por el Presidente de la Gran Comisión, con la previa opinión del comité de Biblioteca y Asuntos Editoriales.
+Las características y formas del "Diario de Debates", serán fijadas por el Presidente de la Gran Comisión, con la previa opinión de la Secretaría de Asuntos Parlamentarios.
 
 ### CAPITULO XIV. DE LAS DEPENDENCIAS DEL PODER LEGISLATIVO
 
@@ -967,13 +971,17 @@ Las características y formas del "Diario de Debates", serán fijadas por el Pre
 
 La Contaduría General de Glosa se regirá por lo dispuesto en su ley orgánica y su reglamento.
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 149.
 
-La Oficialía Mayor estará a cargo de un titular denominado Oficial Mayor que será nombrado por la Legislatura a propuesta de la Gran Comisión.
+La Secretaría de Asuntos Parlamentarios estará a cargo de un titular denominado Secretario de Asuntos Parlamentarios que será nombrado por la Legislatura a propuesta de la Gran Comisión.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 150.
 
-Para ser Oficial Mayor se requiere:
+Para ser Secretario de Asuntos Parlamentarios se requiere:
 
 I.- Ser ciudadano del Estado en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -981,13 +989,17 @@ II.- No haber sido condenado mediante sentencia ejecutoria, por delito grave o d
 
 III.- Poseer título de licenciado en derecho, con antigüedad mínima de tres años.
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 151.
 
-La organización administrativa de la Oficialía Mayor será la que determine la Gran Comisión y la establecida en el manual de organización.
+La organización administrativa de la Secretaría de Asuntos Parlamentarios será la que determine la Gran Comisión y la establecida en el manual de organización.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 152.
 
-Corresponden a la Oficialía Mayor, las siguientes funciones:
+Corresponden a la Secretaría de Asuntos Parlamentarios, las siguientes atribuciones:
 
 I.- Auxiliar a los secretarios de la directiva de la Legislatura en el ejercicio de sus funciones;
 
@@ -1001,7 +1013,9 @@ V.- Formular y preparar la documentación que se requiera para el funcionamiento
 
 VI.- Presentar para su firma las resoluciones y correspondencia del presidente y secretarios de la Legislatura y de la Diputación Permanente, así como remitir en tiempo y forma las leyes, decretos o acuerdos para su promulgación y publicación;
 
-VII.- Proporcionar a las comisiones, comités, fracciones legislativas y diputados en particular, los apoyos y atención que requieran, para el adecuado cumplimiento de sus funciones legislativas;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2003)</small>
+
+VII.- Proporcionar a las comisiones, comités, grupos parlamentarios y diputados en particular, los apoyos y atención que requieran, para el adecuado cumplimiento de sus funciones legislativas;
 
 VIII.- Atender los servicios de estenografía y/o taquigrafía, grabación, sonido y cualquier otro mecanismo técnico autorizado;
 
@@ -1019,7 +1033,15 @@ XIV.- Llevar el control de expedientes, iniciativas, leyes, decretos y acuerdos 
 
 XV.- Formar la colección de decretos y leyes que se publiquen en los Periódicos Oficiales de la Federación y del Estado;
 
-XVI.- Las demás que le señale la directiva de la Legislatura, la Diputación Permanente y la Gran Comisión.
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2003)</small>
+
+XVI.- Coordinar y supervisar las actividades realizadas por los secretarios técnicos de las comisiones legislativas y comités en apoyo a sus integrantes;
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2003)</small>
+
+XVII.- Coordinar y supervisar las actividades realizadas por la Coordinación Jurídica de la Legislatura; y
+
+XVIII.- Las demás que le señale la directiva de la Legislatura, la Diputación Permanente y la Gran Comisión.
 
 ###### Artículo 153.
 
@@ -1069,17 +1091,23 @@ XVI.- Las demás que le señalen los ordenamientos legales o que determine la Gr
 
 La Contraloría contará con las unidades administrativas y el presupuesto necesario para el eficiente y oportuno ejercicio de sus funciones.
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 157.
 
-La Dirección General de Administración, es la dependencia del Poder Legislativo encargada de la administración de la Legislatura.
+La Secretaría de Administración y Finanzas, es la dependencia del Poder Legislativo encargada de la administración de la Legislatura.
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 158.
 
-La Dirección General de Administración, tendrá como titular un Director General, nombrado por la Legislatura a propuesta de la Gran Comisión.
+La Secretaría de Administración y Finanzas, tendrá como titular un Secretario, nombrado por la Legislatura a propuesta de la Gran Comisión.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 159.
 
-Para ser Director General de Administración se requiere:
+Para ser Secretario de Administración y Finanzas se requiere:
 
 I.- Ser ciudadano del Estado en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -1087,9 +1115,11 @@ II.- No haber sido condenado mediante sentencia ejecutoria, por delito grave o d
 
 III.- Poseer título profesional en cualquier ramo de la administración o afín a sus funciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 160.
 
-La Dirección General de Administración, tendrá las siguientes funciones:
+La Secretaría de Administración y Finanzas, tendrá las siguientes atribuciones:
 
 I.- Planear, organizar, coordinar y controlar el desarrollo del personal y los recursos financieros y materiales con los que cuente el Poder Legislativo;
 
@@ -1133,15 +1163,17 @@ XX.- Elaborar los instrumentos técnico administrativos que sean necesarios para
 
 XXI.- Las demás que le señalen los ordenamientos legales aplicabies (sic) y las que determine la Gran Comisión o su presidente.
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 161.
 
-La Dirección General de Administración, contará con las unidades administrativas que determine la Gran Comisión y que serán las necesarias para cumplir con sus funciones y se establecerán en el respectivo manual de organización.
+La Secretaría de Administración y Finanzas, contará con las unidades administrativas que determine la Gran Comisión y que serán las necesarias para cumplir con sus funciones y se establecerán en el respectivo manual de organización.
 
-> <small>(ADICIONADO, G.G. 9 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 162.
 
-La Dirección General de Comunicación Social, es la Dependencia del Poder Legislativo encargada de la Comunicación Social de la Legislatura.
+La Dirección General de Comunicación Social, es la Dependencia del Poder Legislativo encargada de la Comunicación Social de la Legislatura y de la coordinación de las respectivas áreas de Comunicación Social de los grupos parlamentarios.
 
 > <small>(ADICIONADO, G.G. 9 DE MARZO DE 1999)</small>
 
@@ -1161,27 +1193,181 @@ ll. No haber sido condenado mediante sentencia ejecutoria, por delito grave o do
 
 III. Poseer conocimiento profesional en cualquier ramo de comunicación o afin a sus funciones.
 
-> <small>(ADICIONADO, G.G. 9 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 165.
 
-La Dirección General de Comunicación Social, tendrá las siguientes funciones:
+La Dirección General de Comunicación Social, tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
 
 I. Organizar, coordinar y controlar el desarrollo del Proceso de Comunicación entre la Legislatura, los medios y la ciudadanía;
 
+> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
+
 II. Proponer las subdirecciones, jefaturas, departamentos y personal requerido para el cumplimiento de sus actividades;
+
+> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
 
 III. Definir y establecer objetivos, políticas y procedimientos en materia de comunicación;
 
-IV. Administrar a través de la Dirección General de Administración, el presupuesto anual asignado por el Comité de Comunicación Social, para cada Fracción;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2003)</small>
+
+IV. Administrar en coordinación con la Secretaría de Administración y Finanzas, el presupuesto anual autorizado por el Comité de Comunicación Social;
+
+> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
 
 V. Brindar apoyo a las Dependencias del Poder Legislativo para la difusión de actividades legislativas;
 
+> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
+
 VI. Apoyar a la Gran Comisión en el acopio y difusión de información legislativa;
+
+> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
 
 VII. Elaborar el proyecto de presupuesto anual de egresos de la Dirección General de Comunicación Social;
 
+> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
+
 VIII. Elaborar el proyecto de presupuesto anual para cada Fracción, que no excederá del cincuenta por ciento del presupuesto total de la Dirección General de Comunicación Social.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
+###### Artículo 166.
+
+La Coordinación Jurídica tendrá las siguientes atribuciones:
+
+l. Planear las actividades que en el ámbito jurídico deba desarrollar la Legislatura, sus órganos de gobierno y de dirección, a fin de someterlos a la consideración del Secretario de Asuntos Parlamentarios;
+
+> <small>(F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+II. Elaborar y sustanciar los procedimientos administrativos que le instruyan la Ley Orgánica del Poder Legislativo del Estado de México, el reglamento y el Secretario de Asuntos Parlamentarios;
+
+III. Elaborar los recursos y promociones legales que requiera la Legislatura así como las contestaciones de demanda de amparo y cualesquiera que le instruya el Secretario de Asuntos Parlamentarios;
+
+IV. Representar con el Secretario de Asuntos Parlamentarios a la Legislatura en los casos en que le sea otorgado poder bastante, para los fines en que éste sea expedido;
+
+V. Elaborar los proyectos de reglamentos internos de la Legislatura que sean necesarios;
+
+VI. Revisar los proyectos de iniciativa de ley y reglamentos que le someta a consideración el Secretario de Asuntos Parlamentarios;
+
+VII. Brindar asesoría y apoyo técnico a los órganos de gobierno y de dirección que el Secretario de Asuntos Parlamentarios le instruya; y
+
+VIII. Las demás que le señalen los ordenamientos legales aplicables y las que determine la Gran Comisión, su presidente o el Secretario de Asuntos Parlamentarios.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
+###### Artículo 167.
+
+Los secretarios técnicos de las comisiones legislativas y de los comités dependerán del presidente de cada comisión o comité y corresponde su coordinación al Secretario de Asuntos Parlamentarios. Estos secretarios estarán encargados de verificar y sugerir las alternativas y mecanismos apropiados para el buen desarrollo de las tareas legislativas de los diputados integrados en comisiones y comités dentro de la legislatura.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
+###### Artículo 168.
+
+Para ser secretario técnico de una comisión legislativa o de un comité se requiere:
+
+l. Ser mexiquense o contar con una residencia efectiva en el Estado no menor a 6 meses;
+
+II. No haber sido condenado por sentencia ejecutoriada por delito intencional que merezca pena corporal;
+
+IlI. Contar con más de 22 años cumplidos a la fecha del registro;
+
+IV. No ser ministro de algún culto religioso;
+
+V. No ser Juez, Magistrado ni integrante del Consejo de la Judicatura del Poder Judicial, servidor público federal, estatal o municipal;
+
+VI. Acreditar experiencia académica o laboral en el Área que el aspirante esté interesado;
+
+VII. Estar inscrito en el padrón electoral correspondiente y contar con la credencial para votar respectiva;
+
+VIII. No formar parte del personal profesional electoral del Instituto;
+
+IX. No ser consejero electoral en los Consejos General, Distritales o Municipales del Instituto, ni Director General, Secretario General o director del mismo;
+
+X. Ser de reconocida honorabilidad;
+
+XI. Tener licenciatura en cualquiera de las siguientes profesiones, técnicas o acreditar la equiparación en: derecho (administración pública, laboral, constitucional, legislación municipal, legislación electoral, penal, civil, etc.); salud; protección civil; artesanías; asistencia social; ecología; previsión y seguridad social; en el ámbito industrial, comercial o minero; administración; contaduría; ciencias políticas; ingeniería; arquitectura; planeación; agronomía; mercadotecnia o turismo.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
+###### Artículo 169.
+
+Los secretarios técnicos serán elegidos mediante el proceso de selección siguiente:
+
+l. La documentación para ocupar el puesto de secretario técnico, se recibirá durante un periodo de 10 días hábiles contados a partir de la fecha de publicación de la convocatoria;
+
+II. El Secretarlo de Asuntos Parlamentarios recibirá las solicitudes y documentación correspondiente y, en un plazo no mayor de 15 días hábiles, aplicará los exámenes de selección;
+
+III. Analizados los perfiles de cada aspirante, el Secretario de Asuntos Parlamentarios, propondrá al Presidente de la Gran Comisión, una terna para que los Presidentes de las Comisiones respectivas los entrevisten y designen a la persona que ocupará el cargo de secretario técnico;
+
+IV. En un plazo que no deberá exceder de 3 días hábiles, el Presidente de la Comisión formulará su designación y, una vez electos, se procederá a darlos de alta y a tomarles protesta;
+
+> <small>(F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+V. La designación realizada por el Presidente de la Comisión, será publicada en medios de comunicación y en la Gaceta del Gobierno.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
+###### Artículo 170.
+
+Los secretarios técnicos de las comisiones legislativas y de los comités tendrán las siguientes atribuciones:
+
+I. Brindar la asesoría y apoyo técnico en las sesiones de las comisiones y comités a los diputados que las integren;
+
+II. Elaborar los proyectos legislativos que les instruyan las comisiones y en su caso, los comités correspondientes;
+
+III. Informar al Secretario de Asuntos Parlamentarios de los acuerdos recaídos en las sesiones de las comisiones legislativas o comités según corresponda; así como los proyectos legislativos o de estudio que tengan a su cargo;
+
+IV. Auxiliar al secretario de la comisión o del comité en la elaboración de la minuta de los acuerdos de cada una de las sesiones que lleven a cabo, a fin de darle puntual seguimiento y preparar la documentación técnica de apoyo para la siguiente reunión, debiendo someterla a consideración previa del presidente de la comisión legislativa o del comité respectivo; y
+
+> <small>(F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+V. Las demás que le señale la Ley Orgánica del Poder Legislativo, el reglamento, el presidente de la comisión o comité respectivo y el Secretario de Asuntos Parlamentarios.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
+###### Artículo 171.
+
+Los secretarios técnicos seleccionados, podrán ser removidos a propuesta del presidente de la comisión o por lo menos a sugerencia de dos diputados de distinto partido político y diferente al del presidente de la comisión.
+
+La propuesta de remoción deberá ser suscrita por todos los integrantes de la comisión o comité respectivo, y dirigida al Secretario de Asuntos Parlamentarios.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
+###### Artículo 172.
+
+El Secretario de Asuntos Parlamentarios turnará la promoción a la Gran Comisión para su sustanciación, dentro de los tres días hábiles siguientes a su recepción.
+
+La Gran Comisión, a través de su secretario, notificará al presidente de la comisión o comité respectivo y al secretario técnico que se pretenda remover, que tienen un plazo de cinco días hábiles para que aleguen por escrito, lo que a su derecho convenga, a efecto de que la Gran Comisión emita la resolución definitiva al término del plazo señalado.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
+###### Artículo 173.
+
+En caso de que el fallo de la Gran Comisión determine la remoción del secretario técnico, el Secretario de Asuntos Parlamentarios cumplimentará la resolución de la Gran Comisión para buscar de entre el directorio de candidatos al puesto de secretario técnico, una terna que contenga el nombre de los aspirantes que hubieren obtenido las mejores puntuaciones para suplir a aquel que fue removido. El secretario técnico elegido de la terna por el presidente de la comisión o comité deberá asumir sus funciones a partir de los cinco días hábiles siguientes a la elección.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
+###### Artículo 174.
+
+En caso de no existir candidatos para constituir la terna a la que se refiere el artículo anterior el Secretario de Asuntos Parlamentarios preparará el proyecto de convocatoria extraordinario para que el presidente de la Gran Comisión la revise y en su caso la publique en la gaceta del gobierno.
+
+El procedimiento de selección para nuevos candidatos se ajustará a un plazo de ocho días hábiles, contados a partir de la publicación de la convocatoria.
+
+El secretario técnico elegido de la terna por el presidente de la comisión o comité deberá asumir sus funciones a partir de los cinco días hábiles siguientes a la elección.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
+###### Artículo 175.
+
+Los secretarios técnicos de las comisiones o de los comités, tendrán derecho de preferencia para continuar en su cargo, cuando el presidente de la comisión legislativa o comité respectivo aproveche su experiencia y los propongan ante la Gran Comisión, y ésta los ratifique.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
+###### Artículo 176.
+
+El Instituto de Estudios Legislativos tendrá las atribuciones que le señale su reglamento.
 
 ## TRANSITORIOS
 
@@ -1222,3 +1408,17 @@ G.G. 11 DE DICIEMBRE DE 2002.
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 19 DE AGOSTO DE 2003.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el día cinco de septiembre del año dos mil tres, salvo las reformas y adiciones correspondientes a los grupos parlamentarios y secretarios técnicos, y las derogaciones relacionadas con las fracciones legislativas que entrarán en vigor al día siguiente de la publicación del presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+> <small>(F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+TERCERO.- Cuando se haga referencia en un ordenamiento legal a la Oficialía Mayor o a la Dirección General de Administración del Poder Legislativo se entenderá que se hace a la Secretaría de Asuntos Parlamentarios y a la Secretaría de Administración y Finanzas, respectivamente, adecuándose en forma automática. Lo propio se aplicará con sus titulares. Asimismo, todas aquellas disposiciones de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México y del Reglamento del Poder Legislativo del Estado Libre y Soberano de México, en las que se mencionan los términos fracción ó fracciones legislativas y comisiones de dictamen, se entenderá que corresponde a Grupo ó Grupos Parlamentarios y Comisiones Legislativas, respectivamente, adecuándose su denominación en forma automática.
+
+CUARTO.- El Oficial Mayor y el Director General de Administración desempeñarán, el cargo de Secretario de Asuntos Parlamentarios y Secretario de Administración y Finanzas, respectivamente, de manera provisional, adecuando su denominación.
+
+QUINTO.- La convocatoria para nombrar Secretarios Técnicos de las comisiones y de los comités de la "LV" Legislatura será publicada el jueves veintiocho de agosto del dos mil tres.
