@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2004-12-18"
+last_updated: "2005-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2005.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -853,7 +853,9 @@ IX. Las demás que les sean encomendadas a través de los procedimientos y facul
 
 ###### Artículo 106.
 
-1. Además de las Atribuciones que señala la Ley Orgánica del Poder Legislativo el Secretario General del Congreso tendrá las siguientes obligaciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MARZO DE 2005)</small>
+
+1. Además de las atribuciones que señala la Ley Orgánica del Poder Legislativo el Secretario General del Congreso tendrá las siguientes obligaciones:
 
 I. Coordinar previo acuerdo con la Comisión de Administración sus actividades y verificar que el personal a su cargo desempeñe sus funciones con apego a la normatividad aplicable;
 
@@ -933,9 +935,15 @@ XXX. Integrar de manera ordenada y sistemática, la información de carácter fi
 
 XXXI. Atender oportunamente los requerimientos de información y difusión de la situación administrativa del Congreso a efecto de cumplir las disposiciones contenidas en materia de Transparencia y Acceso a la Información Publica;
 
-XXXII. Disponer lo conducente a efecto de diseñar, desarrollar y mantener los sistemas informáticos que permitan una adecuada operación y actualización, con base en los requerimientos que los usuarios presenten, y que logren eficientar el desarrollo en la administración de los recursos de comunicación electrónica del Congreso; y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XXXIII. Las demás que señale este reglamento o acuerde la Asamblea.
+XXXII. Disponer lo conducente a efecto de diseñar, desarrollar y mantener los sistemas informáticos que permitan una adecuada operación y actualización, con base en los requerimientos que los usuarios presenten, y que logren eficientar el desarrollo en la administración de los recursos de comunicación electrónica del Congreso;
+
+(ADICIONADA, P.O. 17 DE MARZO DE 2005) (F. DE E., P.O. 14 DE MAYO DE 2005)
+
+XXXIII. Foliar con el número progresivo anual que corresponda, las iniciativas presentadas en la Asamblea y acusar de recibo a los autores; y
+
+XXXIV. Las demás que señale este reglamento o acuerde la Asamblea.
 
 ###### Artículo 107.
 
@@ -2012,3 +2020,7 @@ ENRIQUE GARCÍA HERNÁNDEZ
 P.O. 18 DE DICIEMBRE DE 2004.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 17 DE MARZO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
