@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1980-09-25"
+last_updated: "1980-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1980.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -159,6 +159,22 @@ La soberanía del Estado reside esencial y originariamente en el pueblo, y se ej
 
 El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo y popular, como previene el Pacto Federal.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal, y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+En los procesos electorales estatales y municipales los partidos políticos deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+Los partidos políticos tendrán derecho a participar en las elecciones estatales y municipales.
+
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ### CAPITULO II. Del Territorio del Estado
@@ -217,27 +233,31 @@ Se deposita el ejercicio del Poder Legislativo en una asamblea que se denominar�
 
 #### SECCION I. De la Formación del Poder Legislativo
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 1977)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
 ###### Artículo 20.
 
-El Congreso del Estado se compondrá de representantes del pueblo electos directamente cada tres años y se complementará, además, con diputados del partido, apegándose, en ambos casos, a lo que disponga la Ley Electoral, y, en el segundo, además, a las reglas siguientes:
+El Congreso del Estado se compondrá de representantes del pueblo, electos en su totalidad cada tres años.
 
-1. Todo partido político nacional que hubiere obtenido su registro conforme a la Ley Federal Electoral y la Ley Electoral del Estado, por lo menos con un año de anterioridad al día de la elección, al obtener el nueve por ciento de la votación total en el Estado, en la elección de diputados respectiva, tendrá derecho a que se le acredite de sus candidatos a un diputado y hasta tres como máximo, si su porcentaje asciende al quince y al veinte por ciento más de los votos obtenidos, respectivamente.
+Por cada diputado propietario, se elegirá un suplente.
 
-2. El partido político que obtenga un diputado de mayoría o más, no tendrá derecho a que se le acredite ninguno de partido;
+Estará integrado por dieciocho diputados electos según el principio de votación mayoría relativa mediante el sistema de distritos electorales uninominales y hasta seis diputados más que serán electos según el principio de representación proporcional, mediante el sistema de listas de candidatos, votadas en una circunscripción plurinominal que comprenderá la totalidad de los distritos electorales del Estado.
 
-3. Los diputados de partido serán acreditados por riguroso orden, de acuerdo con el número decreciente de sufragios que hayan logrado en relación con los demás candidatos del mismo partido en todo el Estado; y
-
-4. Los diputados de mayoría y los de partido, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
 ###### Artículo 21.
 
-Se elegirá un diputado propietario y un suplente por cada distrito electoral, el que se compondrá de ciento cincuenta mil habitantes o de una fracción no menor de ochenta mil.
+Para la elección de los diputados de mayoría relativa, el Estado se dividirá en dieciocho distritos electorales uninominales, cuya denominación y demarcación territorial señalará la Ley, teniendo en cuenta el último censo general de población.
 
-En ningún caso el número de distritos electorales podrá ser menor de once.
+En la elección de los seis diputados, según el principio de representación proporcional y el sistema de listas de candidatos, se constituirá una circunscripción electoral plurinominal integrada por la totalidad de los distritos electorales uninominales del Estado, sujetándose a las bases generales siguientes y a lo que en particular disponga la Ley:
+
+I. Para obtener el registro de su lista el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos la tercera parte de los dieciocho distritos uninominales.
+
+II. Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que: A) No haya obtenido cuatro o más constancias de mayoría y B) Que alcance por lo menos el 1.5% del total de la votación emitida para las listas de candidatos en la circunscripción plurinominal.
+
+III. Al partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, le serán asignados por el principio de representación proporcional el número de diputados de su lista de diputados que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal. La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+
+IV. En el caso de que dos o más partidos con derecho a participar en la distribución de las listas de candidatos obtengan en su conjunto cinco o más constancias de mayoría, sólo serán objeto de reparto el 50% de los curules que deben asignarse por el principio de representación proporcional.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -263,7 +283,9 @@ II.- Tener veintiún años cumplidos el día de la elección.
 
 No podrán ser electos diputados:
 
-I.- Los ciudadanos que tengan mando de fuerza pública en el distrito por el que pretendan ser electos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+I.- Los ciudadanos que tengan mando de fuerza pública en el Estado;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
@@ -275,13 +297,17 @@ IV.- Los ministros de cualquier culto religioso.
 
 Los ciudadanos enumerados en las fracciones I, II y III pueden ser electos, siempre que se separen de sus cargos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
 ###### Artículo 25.
 
-El Congreso calificará las elecciones de sus miembros y resolverá las dudas que se susciten sobre ellas.
+El Congreso del Estado calificará la elección de sus miembros a través de un colegio electoral, que se integrará por los cinco presuntos diputados que de acuerdo con las constancias de mayoría que registre la Comisión Estatal Electoral hubieran obtenido mayor número de votos y además, en su caso, hasta por dos presuntos diputados que resultaren electos en la circunscripción plurinominal que obtuviesen la votación más alta.
 
-Su resolución será definitiva e inatacable.
+Procede el recurso de reclamación ante el Supremo Tribunal de Justicia del Estado contra las resoluciones del Colegio Electoral del Congreso.
+
+Si el Supremo Tribunal de Justicia considera que se cometieron violaciones sustanciales en el desarrollo del proceso electoral o en la calificación misma, lo hará del conocimiento de dicho Congreso para que emita una nueva resolución, misma que tendrá el carácter de definitiva e inatacable.
+
+La Ley fijará los requisitos de procedencia y el trámite a que se sujetará este recurso.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -294,6 +320,10 @@ Las sesiones del Colegio Electoral se iniciarán treinta días antes de la insta
 ###### Artículo 27.
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y no podrán ser reconvenidos por ellas.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+El Presidente del Congreso velará por el respeto al fuero constitucional de los miembros del mismo y por la inviolabilidad del recinto en donde se reúnan a sesionar.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -359,11 +389,11 @@ El primer nombre corresponde a las resoluciones que versen sobre materia de inte
 
 Las resoluciones administrativas del Congreso tendrán el carácter de acuerdos.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
 ###### Artículo 35.
 
-Las sesiones del Congreso serán públicas o secretas, según lo determine el reglamento respectivo.
+Las sesiones del Congreso serán públicas o secretas, según lo determine su Ley Orgánica.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -436,6 +466,14 @@ Las votaciones de las leyes o decretos serán nominales; las de los acuerdos ser
 ###### Artículo 42.
 
 Las leyes o decretos se comunicarán al Ejecutivo firmados por el Presidente y los secretarios, y los acuerdos sólo por éstos. Las leyes o decretos se promulgarán en esta forma: "El Congreso de Michoacán de Ocampo decreta": (Texto de la Ley o decreto).
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+El Congreso expedirá la Ley orgánica que regulará su estructura y funcionamiento internos.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo del Estado para tener vigencia.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -519,9 +557,9 @@ XXIII.- Designar Gobernador interino del Estado cuando la separación del Titula
 
 XXIV.- Conocer de las acusaciones que se hagan a los funcionarios públicos de que habla esta Constitución, por delitos oficiales, y erigirse en Gran Jurado para declarar si ha o no lugar a proceder contra los que gozan de fuero constitucional, cuando sean acusados por delitos del orden común;
 
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
-XXV.- Expedir el reglamento interior del Congreso y dictar resoluciones económicas relativas a su régimen interno;
+XXV.- Expedir la Ley Orgánica del Congreso y dictar resoluciones económicas relativas a su régimen interno;
 
 XXVI.- Comunicarse con el Ejecutivo por medio de comisiones de su seno;
 
@@ -539,7 +577,9 @@ XXXII.- Expedir todas las leyes que sean necesarias a fin de hacer efectivas las
 
 XXXIII.- Las demás que le confiera expresamente esta Constitución.
 
-Las resoluciones del Colegio Electoral y de Gran Jurado serán definitivas e inatacables.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+Las resoluciones del Gran Jurado serán definitivas e inatacables.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -821,7 +861,7 @@ El Gobernador podrá autorizar que comparezca ante el Congreso los titulares de 
 
 ###### Artículo 65.
 
-La promulgación y la orden de publicación de las leyes se harán constar mediante la firma del Gobernador del Estado y del Secretario de Gobierno. Todos los decretos reglamentos; órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por el Gobernador del Estado, el Secretario de Gobierno y los titulares de las dependencias básicas a que el asunto corresponda; requisito sin el cual no serán obligatorios.
+La promulgación y la orden de publicación de las leyes se harán constar mediante la firma del Gobernador del Estado y del Secretario de Gobierno. Todos los decretos, reglamentos, órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por el Gobernador del Estado, el Secretario de Gobierno y los titulares de las dependencias básicas a que el asunto corresponda; requisito sin el cual no serán obligatorios.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
@@ -1252,6 +1292,18 @@ El Ayuntamiento tendrá personalidad jurídica para todos los efectos legales.
 ###### Artículo 114.
 
 Los Ayuntamientos se compondrán de un Presidente y de tantos regidores como determine la ley, pero éstos no podrán ser menos de cinco. Habrá también un Síndico que será electo por el Ayuntamiento de entre los individuos que lo forman.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+En la elección del Ayuntamiento de la capital del Estado y de los municipios cuya población sea de trescientos mil o más habitantes, se establecerá en la Ley el principio de representación proporcional, de conformidad con las bases siguientes:
+
+I. Al partido político cuya planilla hubiera obtenido el mayor número de votos tendrá derecho a que se le acrediten a quienes encabecen como Presidente Municipal y síndico del Ayuntamiento, respectivamente.
+
+II. Las regidurías que integren el cabildo, se dividirán entre la votación total emitida para todas las planillas presentadas por lo partidos políticos contendientes, a fin de obtener un cociente electoral.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1980)</small>
+
+La Ley determinará los demás procedimientos que regirán el principio de representación proporcional.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1860,3 +1912,7 @@ UNICO.- Este Decreto entrará en vigor a los 15 quince días siguientes al de su
 P.O. 25 DE SEPTIEMBRE DE 1980.
 
 UNICO.- El Decreto respectivo entrará en vigor a los 5 días siguientes a su publicación del Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 1980.
+
+UNICO. Este Decreto entrará en vigor a los 5 cinco días de su publicación en el Periódico Oficial del Estado.
