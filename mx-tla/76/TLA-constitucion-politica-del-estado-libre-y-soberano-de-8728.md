@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1987-12-01"
+last_updated: "1993-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1993.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -259,7 +259,21 @@ La ciudad de Tlaxcala de Xicohténcatl es la Capital del Estado y en ésta resid
 
 Las Leyes Orgánicas de los Poderes determinarán los casos en que los órganos subsidiarios de las mismas podrán residir fuera de la Capital.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
+(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE NOVIEMBRE DE 1993) ARTICULO 21.- Los Municipios integrantes del Estado son: Amaxac de Guerrero, Apetatitlán de Antonio Carvajal, Apizaco, Atlangatepec, Altzayanca, Calpulalpan, Cuapiaxtla, Cuaxomulco, Chiautempan, Muñoz de Domingo Arenas, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, Mazatecochco de José María Morelos, Contla de Juan Cuamatzi, Tepetitla de Lardizábal, Sanctórum de Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Acuamanala de Miguel Hidalgo, Nativitas, Panotla, San Pablo del Monte, Santa Cruz Tlaxcala, Tenancingo, Teolocholco, Tepeyanco, El Carmen Tequexquitla, Terrenate, Tetla de la Solidaridad, Tetlatlahuca, Tlaxcala, Tlaxco, Tocatlán, Totolac, Zitlaltepec de Trinidad Sánchez Santos, Tzompantepec, Xalóstoc, Xaltócan, Papalotla de Xicohténcatl, Xicohtzinco, Yauhquemecan y Zacatelco.
+
+(REFORMADO, P.O. 1 DE FEBRERO DE 1984) (F. DE E. P.O. 12 DE ENERO DE 1994)
+
+Para crear nuevos Municipios se requerirá:
+
+I.- Que cuenten con una población mayor de 30,000 habitantes, y
+
+II.- Demostrar conforme lo solicite el Congreso del Estado:
+
+a).- Ser autosuficientes económicamente, y
+
+b).- Contar con la infraestructura mínima de servicios.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO VI. DEL PODER EJECUTIVO
 
@@ -1688,3 +1702,9 @@ En tanto se expida el Código Electoral del Estado, todos los asuntos del orden 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones, Leyes y Reglamentos que se opongan al contenido de las Reformas, Adiciones y Derogación de Artículos, objeto del presente Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
