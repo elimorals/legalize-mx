@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-3391"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-10-26"
-last_updated: "2000-06-07"
+last_updated: "2000-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 26 de octubre de 1991.
 
@@ -114,6 +114,22 @@ Para el estudio, planeación y despacho de los asuntos de la Administración Pú
 ###### Artículo 10.
 
 Las dependencias a que se refiere el Artículo 9o. integran la administración pública centralizada, con igualdad de rango.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+El Gobernador del Estado está facultado para crear, con base en las atribuciones que le confiere esta ley, el o los gabinetes especializados que estime convenientes para la buena marcha de la administración pública.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+Los gabinetes especializados son instancias gubernamentales de coordinación que proponen y evalúan la política del Gobierno Estatal en materias que son de la competencia concurrente de varias dependencias o entidades de la Administración Pública Estatal, para consideración del titular del Poder Ejecutivo Estatal, quien los presidirá.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+Para su funcionamiento, cada gabinete especializado contará con un secretariado técnico, y sus atribuciones, así como su demás estructura, serán las que determine el o los acuerdos que al efecto emita el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+Los acuerdos que dicte el Ejecutivo Estatal en el seno de los gabinetes especializados tendrán el carácter de prioritarios en la operación general de cada una de las dependencias y entidades que los conformen.
 
 ###### Artículo 11.
 
@@ -815,6 +831,28 @@ La organización, estructura y funcionamiento de la Procuraduría General de Jus
 
 Los titulares de las dependencias señaladas en el artículo 9º de la Ley Orgánica de la Administración Pública del Estado, incluido el Procurador General de Justicia, quedan facultados para que, en representación del Gobierno del Estado, suscriban convenios, contratos y demás actos jurídicos, dentro de la órbita de sus atribuciones, con la Federación, con los otros Estados de la República, con los HH. Ayuntamientos de los Municipios de la entidad y con personas físicas y morales.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 29 Ter.
+
+La Secretaría Técnica tiene a su cargo:
+
+I.- Realizar y coordinar, en los términos de la presente ley, las acciones de apoyo técnico y asesoría del Ejecutivo Estatal;
+
+II.- Proporcionar al Ejecutivo Estatal el apoyo y la asesoría que no estén expresamente encomendados a otras áreas del Poder Ejecutivo;
+
+III.- Hacer el seguimiento del debido cumplimiento de los acuerdos y órdenes gubernamentales;
+
+IV.- Verificar la realización de los programas e instrucciones que expresamente le señale el titular del Ejecutivo Estatal, cuando abarquen más de una dependencia;
+
+V.- Coordinar y llevar a cabo el seguimiento de los acuerdos que se tomen en el seno del o de los gabinetes especializados, poniendo a consideración del Gobernador del Estado la situación que guarde el cumplimiento de los mismos;
+
+VI.- Vigilar y supervisar las acciones que lleven a cabo el o los gabinetes especializados conforme a los lineamientos que determine el titular del Ejecutivo Estatal y comunicar al Gobernador del Estado la situación que guarden dichas acciones;
+
+VII.- Proveer los mecanismos de coordinación con la Unidad de Asesoría Jurídica y con la Coordinación de Comunicación Social, ambas del Poder Ejecutivo, para asegurar la aplicación uniforme de los criterios que fije el Ejecutivo Estatal; y
+
+VIII.- Las demás que le encomiende expresamente el titular del Ejecutivo Estatal.
+
 ### CAPITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
 ###### Artículo 30.
@@ -867,21 +905,23 @@ Los Convenios, Contratos y demás Actos Jurídicos que celebre el Gobierno del E
 
 Para que los acuerdos, decretos, órdenes y disposiciones obliguen, deberán ser publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 38.
 
 Como unidades de asesoría y apoyo el titular del Poder Ejecutivo contará con las siguientes:
 
-- Secretaría Particular;
+I.- Secretaría Particular;
 
-- Coordinación General de Asesores;
+II.- Secretaría Técnica;
 
-- Coordinación de Comunicación Social y Relaciones Públicas;
+III.- Coordinación General de Asesores;
 
-- Unidad de Asesoría Jurídica; y
+IV.- Coordinación de Comunicación Social y Relaciones Públicas;
 
-- Representación del Gobierno del Estado en el Distrito Federal.
+V.- Unidad de Asesoría Jurídica; y
+
+VI.- Representación del Gobierno del Estado en el Distrito Federal.
 
 T R A N S I T O R I O S:
 
@@ -972,3 +1012,9 @@ P.O. 7 DE JUNIO DE 2000.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 19 DE DICIEMBRE DE 2000
+
+Artículo Primero.- El presente decreto entrará en vigor el día 1 de enero del año 2001, previa su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
