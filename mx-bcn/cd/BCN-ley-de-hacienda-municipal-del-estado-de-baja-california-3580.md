@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1997-12-26"
+last_updated: "1998-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1998.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -625,13 +625,17 @@ IV.- La base del Impuesto es la siguiente:
 
 1.- Tratándose de predios urbanos o rústicos, el mayor de los siguientes valores:
 
-a).- El declarado por el contribuyente.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
-b).- Valor Catastral.
+a).- El valor catastral que resulte de la aplicación de la Tabla de Valores Catastrales Unitarios, Base del Impuesto Predial, autorizada para cada Municipio.
 
-c).- Valor de la operación de transmisión de dominio.
+b).- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 1998)
 
-d).- El valor de avalúo que practique la autoridad Fiscal Municipal.
+c).- (DEROGADO, P.O. 6 DE NOVIEMBRE DE 1998)
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+d).- El valor de avalúo que practique la autoridad fiscal municipal, cuando éste no se encuentre contemplado en la Tabla de Valores Catastrales Unitarios, Base del Impuesto Predial.
 
 2.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentra construido el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Oficina de Catastro determinará el valor catastral que le corresponda a cada uno y éste entrará en vigor a partir del mes siguiente a la fecha en que se haya autorizado, previamente la Escritura de Constitución del Condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron.
 
@@ -649,33 +653,51 @@ Los efectos de esta Fracción no serán aplicables:
 
 VI.- La cuota del Impuesto que resulte con base en los avalúos y modificaciones entrará en vigor a partir del mes siguiente a la fecha en que éstos se hayan notificado. En los casos mencionados en la Fracción IV, número 1, Inciso b) de éste Artículo, entrará en vigor a partir del mes siguiente a la fecha de celebración del contrato respectivo, aunque no se otorgue en Escritura Pública.
 
-VIII (sic).- El pago del Impuesto deberá cubrirse anualmente durante los dos primeros meses del año en la Oficina Recaudadora Municipal que corresponda, mediante declaración obligatoria que deberá presentar el contribuyente utilizando las formas que al efecto apruebe la Tesorería Municipal.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
-El pago anticipado del Impuesto, no impide el cobro de diferencias que resulten por cambios en las bases gravables o variación de las cuotas del impuesto.
+VII.- El pago del Impuesto deberá cubrirse anualmente durante los dos primeros meses del año en la Oficina Recaudadora Municipal que corresponda, mediante declaración obligatoria que deberá presentar el contribuyente utilizando las formas que al efecto apruebe la Tesorería Municipal. El pago anticipado del Impuesto, no impide el cobro de diferencias que resulten por cambios en las bases gravables o variación de las cuotas del impuesto.
 
-IX.- Los inmuebles responden preferentemente del pago del Impuesto Predial, aún cuando pasen a propiedad o posesión de terceros.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
-X.- Están exentos del pago del Impuesto Predial:
+VIII.- Los inmuebles responden preferentemente del pago del Impuesto Predial, aún cuando pasen a propiedad o posesión de terceros.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+IX.- Están exentos del pago del Impuesto Predial:
 
 1.- Los predios pertenecientes a la Federación, al Estado y a los Municipios a que se refiere el último párrafo de la Fracción IV del Artículo 115 de la Constitución Federal de la República.
 
-XI.- Los Notarios, Jueces y demás funcionarios autorizados por la Ley para dar Fé Pública, no autorizarán ningún contrato o acto que tenga por objeto la enajenación o gravamen de un inmueble o derechos reales sobre el mismo, mientras no se les compruebe con el certificado respectivo que están al corriente en el pago del Impuesto Predial. Si por causas no imputables al enajenante, las autoridades fiscales del Estado, no han empadronado o catastrado el predio, la Tesorería Municipal, podrá permitir a los notarios que otorguen la mencionada autorización definitiva, sin que les sea exhibido el certificado a que se refiere este Artículo.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
-XII.- Los Notarios o las autoridades ante quienes se celebren contratos o actos por virtud de los cuales se transmita la propiedad o la posesión de un predio, están obligados a dar aviso a la oficina de Catastro y a la Recaudación de Rentas del lugar de su ubicación, dentro del término de treinta días siguientes a la fecha de la celebración del acto o contrato respectivo.
+X.- Los Notarios, Jueces y demás funcionarios autorizados por la Ley para dar Fé Pública, no autorizarán ningún contrato o acto que tenga por objeto la enajenación o gravamen de un inmueble o derechos reales sobre el mismo, mientras no se les compruebe con el certificado respectivo que están al corriente en el pago del Impuesto Predial. Si por causas no imputables al enajenante, las autoridades fiscales del Estado, no han empadronado o catastrado el predio, la Tesorería Municipal, podrá permitir a los notarios que otorguen la mencionada autorización definitiva, sin que les sea exhibido el certificado a que se refiere este Artículo.
 
-XIII.- En el plazo de 15 días, los contribuyentes deberán manifestar a la Recaudación de Rentas de la jurisdicción de los predios, la terminación de nuevas construcciones y de ampliaciones y de modificaciones a las construcciones que tenga cada predio, así como el valor de las mismas.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+XI.- Los Notarios o las autoridades ante quienes se celebren contratos o actos por virtud de los cuales se transmita la propiedad o la posesión de un predio, están obligados a dar aviso a la oficina de Catastro y a la Recaudación de Rentas del lugar de su ubicación, dentro del término de treinta días siguientes a la fecha de la celebración del acto o contrato respectivo.
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+XII.- En el plazo de 15 días, los contribuyentes deberán manifestar a la Recaudación de Rentas de la jurisdicción de los predios, la terminación de nuevas construcciones y de ampliaciones y de modificaciones a las construcciones que tenga cada predio, así como el valor de las mismas.
 
 Igualmente en el mismo plazo, los contratantes deberán manifestar a la Recaudación de Rentas correspondiente a la ubicación de los predios, la celebración de cualquier contrato en cuya virtud se cambie el poseedor o propietario.
 
 Tratándose de construcciones o de contratos no manifestados, se hará el recobro del impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo que el interesado pruebe que la omisión data de fecha posterior.
 
-XIV.- Para los efectos el Impuesto Predial, el contribuyente está obligado a manifestar su domicilio ante la Oficina Recaudadora de Rentas de la ubicación del predio dentro de los 15 días siguientes a la fecha en que se adquiera el carácter de contribuyente.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
-En caso de no cumplir con esta obligación, se tendrá como su domicilio, para todos los efectos legales el lugar donde se localice y en defecto de este, el de la ubicación del predio si no es baldío; de serlo, será notificado por edictos.
+XIII.- Para los efectos el Impuesto Predial, el contribuyente está obligado a manifestar su domicilio ante la Oficina Recaudadora de Rentas de la ubicación del predio dentro de los 15 días siguientes a la fecha en que se adquiera el carácter de contribuyente.
 
-XV.- Las sociedades, agrupaciones, empresas o personas físicas que exploten bosques de comunidades agrarias o de sociedades cooperativas agrícolas, están obligadas a exhibir a las autoridades fiscales del Municipio, las guías contratos o documentos que sean necesarios para definir o establecer el Impuesto Predial correspondiente y su monto.
+En caso de no cumplir con esta obligación, se tendrá como su domicilio, para todos los efectos legales el lugar donde se localice y en defecto de éste, el de la ubicación del predio si no es baldío; de serlo, será notificado por edictos.
 
-XVI.- Para los efectos de este Impuesto se tomarán en cuenta las definiciones que sobre las distintas clases de predio y construcciones contiene la Ley de Catastro.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+XIV.- Las sociedades, agrupaciones, empresas o personas físicas que exploten bosques de comunidades agrarias o de sociedades cooperativas agrícolas, están obligadas a exhibir a las autoridades fiscales del Municipio, las guías contratos o documentos que sean necesarios para definir o establecer el Impuesto Predial correspondiente y su monto.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 6 DE NOVIEMBRE DE 1998, PÁGINA 105.]</small>
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+XV.- Para los efectos de este Impuesto se tomarán en cuenta la (sic) definiciones que sobre las distintas clases de predios y construcciones contiene la Ley del Catastro Inmobiliario del Estado de Baja California.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -2224,3 +2246,7 @@ SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE
 ###### ARTICULO PRIMERO.
 
 Las presentes reformas entrarán en vigor el día 1o de Enero de 1998, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 1998.
+
+UNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
