@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-congreso-del-estado-de-michoacan-5991"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-03-03"
-last_updated: "1983-03-03"
+last_updated: "1986-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL CONGRESO DE MICHOACAN
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1986
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el día 3 de marzo de 1983.
 
@@ -43,9 +43,11 @@ LEY ORGANICA DEL CONGRESO DE MICHOACAN
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+REFORMADO, P.O. 17 DE ABRIL DE 1986)
+
 ###### ARTICULO 1o.
 
-La presente Ley establece las bases para la organización y funcionamiento del Poder Legislativo del Estado de Michoacán de Ocampo, conforme a lo dispuesto en la Constitución Política del Estado.
+La presente Ley es de observancia general y reglamenta el Capítulo II del Título Tercero de la Constitución Política del Estado y tiene por objeto establecer las bases para la organización y funcionamiento del Poder Legislativo del Estado de Michoacán de Ocampo, conforme a lo dispuesto en la Constitución.
 
 ###### ARTICULO 2o.
 
@@ -73,9 +75,13 @@ El Congreso tendrá cada año un período de sesiones ordinarias que comenzará 
 
 El 15 de septiembre del año en que hubiere elecciones se instalará el Congreso y a ese acto concurrirá el Gobernador del Estado, el Presidente del Supremo Tribunal de Justicia y los miembros que formen ese cuerpo.
 
-## TITULO SEGUNDO. ORGANOS Y DEPENDENCIAS AUXILIARES DEL CONGRESO Y SUS FUNCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 1986)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+## TITULO SEGUNDO. ORGANOS DEL CONGRESO Y SUS FUNCIONES
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 1986)</small>
+
+### CAPITULO I. ORGANOS DEL CONGRESO
 
 ###### ARTICULO 8o.
 
@@ -97,21 +103,15 @@ VII. Diputación Permanente.
 
 ###### ARTICULO 9o.
 
-Son Dependencias Auxiliares del Congreso:
-
-I. Comités;
-
-II. Oficialía Mayor;
-
-III. Tesorería; y,
-
-IV. Contaduría General de Glosa.
+(DEROGADO, P.O. 17 DE ABRIL DE 1986)
 
 ### CAPITULO II. COMISION INSTALADORA
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 10.
 
-El Congreso del Estado, antes de cerrar su último período constitucional de sesiones ordinarias, nombrará de entre sus miembros, una Comisión denominada Instaladora, que estará integrada por cinco diputados que fungirán el primero como Presidente, el segundo y tercero como Secretarios y los dos últimos como suplentes primero y segundo, quienes sólo entrarán en funciones en caso de falta absoluta de cualesquiera de los tres propietarios.
+La Comisión denominada Instaladora, estará por los miembros de la Diputación Permanente, los cuales serán electos de acuerdo a lo señalado en el Capítulo VIII de la presente Ley.
 
 ###### ARTICULO 11.
 
@@ -137,21 +137,23 @@ II. Acto continuo, el Presidente de la Mesa Directiva de la Comisión Instalador
 
 III. Hecha la elección de la Mesa Directiva del Colegio Electoral y anunciados los resultados por la Comisión Instaladora, el Presidente de ésta, invitará a los integrantes de aquélla a tomar su lugar en el presidium; hará entrega por inventario de los paquetes electorales, informes y constancias en su poder, dando por concluidas las funciones de la Comisión.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 14.
 
-Para la constitución del Congreso los diputados electos se reunirán el día treinta de agosto a partir de las once horas. El acto será presidido por la Mesa Directiva del Colegio Electoral y se desarrollará conforme al procedimiento siguiente:
+Los diputados electos celebrarán una reunión previa el día treinta de agosto a las once horas. Será presidida por la Mesa Directiva del Colegio Electoral y se desarrollará conforme al procedimiento siguiente:
 
 I. El Secretario del Colegio Electoral dará lectura a la lista de los diputados que hayan resultado electos y, comprobado el quórum, se dará la palabra al Presidente del Colegio Electoral;
 
-II. El Presidente del Colegio Electoral pedirá a los diputados asistentes se pongan en pie y dirá: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de diputado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado y si así no lo hiciese, la Nación y el Estado me lo demanden";
+II. El Presidente del Colegio Electoral pedirá a los diputados asistentes se pongan en pie y dirá: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de diputado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado y si así no lo hiciere, la Nación y el Estado me lo demanden";
 
-III. El Presidente del Colegio Electoral, tomará a los demás miembros integrantes del Congreso la misma protesta, así como a los diputados que se presenten con posterioridad;
+El Presidente del Colegio Electoral, tomará a los demás miembros integrantes del Congreso la misma protesta.
 
-IV. Acto seguido declarará que el Colegio Electoral ha concluido sus funciones, e invitará a los diputados a elegir la Mesa Directiva del Congreso en escrutinio secreto y por mayoría de votos de acuerdo con la Ley;
+III. Acto seguido declarará que el Colegio Electoral ha concluido sus funciones, e invitará a los diputados a elegir la Mesa Directiva del Congreso en escrutinio secreto y por mayoría de votos de acuerdo con la Ley, misma que entrará en funciones en la fecha de instalación de la Legislatura.
 
-V. Dado a conocer el resultado del escrutinio por el Secretario del Colegio Electoral, los integrantes de la Mesa Directiva pasarán a ocupar su sitio en el presidium y el Presidente dirá en voz alta: "El Congreso del Estado de Michoacán de Ocampo, se declara legítimamente constituido"; y,
+IV. Dado a conocer el resultado del escrutinio por el Secretario del Colegio Electoral, los integrantes de la Mesa Directiva pasarán a ocupar su sitio en el presidium y el Presidente dirá en voz alta: "El Congreso del Estado de Michoacán de Ocampo, se declara legítimamente constituido"; y,
 
-VI. Se nombrarán ese mismo día dos comisiones de tres individuos cada una, incluyendo a los Secretarios, que tendrán por objeto participar aquella declaración al Gobernador y al Supremo Tribunal de Justicia del Estado.
+V. Se nombrarán ese mismo día dos comisiones de tres diputados cada una, incluyendo a los Secretarios, que tendrán por objeto participar aquella declaración a los titulares de los Poderes Ejecutivo y Judicial del Estado.
 
 ### CAPITULO III. MESA DIRECTIVA
 
@@ -173,9 +175,11 @@ Diez días antes de la apertura del segundo y tercer período ordinario de sesio
 
 Cuando se hubiese convocado a periodo extraordinario el Congreso designará, en la primera sesión al Presidente y Vicepresidente, quienes fungirán durante dicho periodo.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 19.
 
-Los integrantes de la Mesa Directiva sólo podrán ser removidos de sus cargos por las causas y en la forma prevista en las disposiciones reglamentarias.
+Los integrantes de la Mesa Directiva sólo podrán ser removidos de sus cargos por faltas a esta Ley, a sus disposiciones reglamentarias y a los acuerdos del Congreso.
 
 ###### ARTICULO 20.
 
@@ -198,6 +202,10 @@ IV. Conducir los debates y las deliberaciones de las sesiones;
 V. Cumplimentar los asuntos incluidos en el orden del Día para las sesiones, tomando en consideración las proposiciones de la Gran Comisión;
 
 VI. Conceder permisos económicos a los diputados para faltar a sesión, sin que pueda dar más de dos para faltar en la misma sesión;
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 1986)</small>
+
+VI. Bis. Designar al diputado que le auxilie en los trabajos de la Mesa Directiva, cuando en una sesión se encontrasen ausentes el Secretario y el prosecretario
 
 VII. Requerir a los diputados faltistas a concurrir a las sesiones y proponer, en su caso, las medidas o sanciones que correspondan de acuerdo a la Ley y sus reglamentos;
 
@@ -261,7 +269,9 @@ Los grupos Parlamentarios se tendrán por constituidos cuando presenten a la Mes
 
 I. Acta en la que conste la decisión de sus miembros de constituirse en grupo, con la especificación del nombre del partido y lista de sus integrantes, y
 
-II. Nombre del diputado que haya sido electo líder del grupo parlamentario.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1986)</small>
+
+II. Nombre del diputado que haya sido electo Coordinador del grupo parlamentario.
 
 ###### ARTICULO 26.
 
@@ -269,27 +279,35 @@ La documentación antes mencionada deberá entregarse en la segunda sesión del 
 
 El Presidente una vez examinada la documentación en sesión ordinaria de Cámara, hará la declaratoria de constitución de los grupos, y a partir de ese momento ejercerán las atribuciones previstas por esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 27.
 
-La designación de los líderes de los Grupos Parlamentarios, será regulada por las normas estatutarias y lineamientos de los respectivos partidos políticos, en el marco de las disposiciones de esta Ley.
+La designación de los coordinadores de los grupos parlamentarios, será regulada por las normas estatutarias y lineamientos de los respectivos partidos políticos, en el marco de las disposiciones de esta Ley.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
 
 ###### ARTICULO 28.
 
-Los líderes de los grupos parlamentarios serán los conductos para realizar las tareas de coordinación con la Mesa Directiva, las comisiones y comités de la Cámara.
+Los coordinadores de los grupos parlamentarios serán los conductos para realizar las tareas de coordinación con la Mesa Directiva, las Comisiones y Comités del Congreso.
 
 ### CAPITULO V. GRAN COMISION
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 29.
 
-Al inicio de una Legislatura; los diputados deberán nombrar un Cuerpo Colegiado que se denominará Gran Comisión, misma que se Integrará con cinco diputados electos según el principio de mayoría relativa. La elección se hará por mayoría de votos, en escrutinio y mediante cédula.
+Al inicio de una Legislatura, los diputados deberán nombrar un Cuerpo Colegiado que se denominará Gran Comisión, mismo que se integrará con cinco diputados electos. La elección se hará por mayoría de votos, en escrutinio y mediante cédula.
 
-Constituida ésta, sus integrantes designarán una Mesa Directiva que estará compuesta por un Presidente, que será el líder del grupo parlamentario mayoritario, un Secretario y un Vocal, que serán designados por mayoría de votos.
+Constituida ésta, sus integrantes designarán una Mesa Directiva que estará compuesta por un Presidente, que será el Coordinador del grupo parlamentario mayoritario, un Secretario y un Vocal, que serán designados por mayoría de votos.
 
 ###### ARTICULO 30.
 
 La Gran Comisión tendrá a su cargo las funciones siguientes:
 
-I. Formular opiniones y dictaminar sobre los asuntos concernientes a los Distritos Electorales, tomando en consideración las propuestas de los diputados;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1986)</small>
+
+I. Formular opiniones sobre los asuntos presentados al Congreso, tomando en consideración las propuestas de los diputados, de acuerdo al Distrito que representan.
 
 II. Proponer al Congreso la designación del Oficial Mayor, del Tesorero y Contador General de Glosa;
 
@@ -361,9 +379,13 @@ II. De Vigilancia; y,
 
 III. De Investigación.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 38.
 
-Las Comisiones de Dictamen Legislativo y las de Vigilancia se constituyen con carácter definitivo y durarán en el cargo tres años.
+Las Comisiones de Dictamen Legislativo y las de Vigilancia se constituyen con carácter definitivo y durarán en su cargo tres años.
+
+Podrán ser reestructuradas total o parcialmente por razones que deberá calificar el Congreso y a propuesta de la Gran Comisión.
 
 ###### ARTICULO 39.
 
@@ -479,17 +501,21 @@ La comprobación del quórum y las votaciones se llevarán a cabo por los medios
 
 ### CAPITULO VII. GRAN JURADO
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 54.
 
-El Congreso conocerá de las acusaciones que se hagan a los funcionarios públicos por delitos oficiales. Se erigirá en Gran Jurado para declarar si ha o no lugar a proceder contra los que gozan de fuero constitucional, cuando sean acusados por delitos del orden común.
+El Congreso conocerá de las acusaciones que se hagan a los servidores públicos por delitos en que incurran en el desempeño de su cargo. Se erigirá en Gran Jurado para declarar si ha o no lugar a proceder contra los que gocen de fuero constitucional, cuando sean acusados por delitos del orden común, de acuerdo con lo señalado en el Título Cuarto de la Constitución Política del Estado y demás leyes relativas.
 
 ###### ARTICULO 55.
 
 Los diputados son responsables por los delitos comunes que cometan durante el tiempo de su encargo y por delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones, pero no podrán ser detenidos ni ejercitarse en su contra la acción penal hasta que, seguido el procedimiento constitucional, se decida su separación del cargo y sujeción a la acción de los tribunales comunes.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 56.
 
-El Gran Jurado se sujetará, en todo, a lo establecido por la Constitución Política del Estado, esta Ley y las disposiciones reglamentarias que ambas emanen. Sus resoluciones serán inatacables.
+El Gran Jurado se sujetará, en todo, a lo establecido en la Constitución Política del Estado, en la presente Ley y en las demás disposiciones relativas. Sus resoluciones serán inatacables.
 
 ### CAPITULO VIII. DIPUTACION PERMANENTE
 
@@ -507,9 +533,13 @@ La designación se hará la víspera de la clausura de sesiones ordinarias y sus
 
 El día de la clausura de las sesiones ordinarias del Congreso e inmediatamente después de esta ceremonia, los diputados que hubieren sido nombrados como miembros de la Diputación Permanente, se reunirán en el salón de sesiones y nombrarán por mayoría de votos dos secretarios y dos vocales, hecha la elección, la directiva tomará posesión de su cargo y lo participará al Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 60.
 
-Las Sesiones de la Diputación Permanente tendrán lugar una vez por semana en los días y horas que el Presidente de la misma indique formalmente. Si hubiese necesidad de celebrar algunas otras sesiones fuera de los días estipulados, se llevarán a cabo previa convocatoria por parte del Presidente.
+Las Sesiones de la Diputación Permanente tendrán lugar una vez por semana en los días y horas que previamente se hubiere acordado. Si hubiese necesidad de celebrar algunas otras sesiones fuera de los días estipulados, se llevarán a cabo previa convocatoria por parte del Presidente.
+
+En las faltas del Presidente, será substituido por un Secretario y la ausencia de estos será suplida por cualquiera de los vocales.
 
 ###### ARTICULO 61.
 
@@ -531,13 +561,19 @@ La Diputación Permanente no suspenderá sus trabajos durante los periodos extra
 
 De conformidad con lo dispuesto por la Constitución Política del Estado, la Diputación Permanente, designará al Gobernador Provisional, en los casos de falta absoluta o temporal de éste, durante el receso del Congreso. En la misma sesión resolverá convocar a los integrantes de la Legislatura a un periodo extraordinario de sesiones, para el efecto de que se designe Gobernador Interino o sustituto. La Convocatoria no podrá ser modificada por el Gobernador Provisional.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 66.
 
-Si el Congreso se halla reunido en un periodo Extraordinario de sesiones y ocurre la falta absoluta o temporal del titular del Poder Ejecutivo local, la Comisión Permanente de inmediato ampliará el objeto de la convocatoria a fin de que el Congreso este en aptitud de nombrar al interino o substituto, según proceda.
+Si el Congreso se halla reunido en un periodo Extraordinario de sesiones y ocurre la falta absoluta o temporal del titular del Poder Ejecutivo local, la Diputación Permanente de inmediato ampliará el objeto de la convocatoria a fin de que el Congreso esté en aptitud de nombrar al interino o substituto, según proceda.
 
 ###### ARTICULO 67.
 
 La Diputación Permanente en el último día de su ejercicio en cada periodo, deberá tener formado un inventario para el Congreso. Dicho inventario se turnará a la Secretaría respectiva y contendrá las memorias, oficios, comunicaciones y otros documentos que hubiese recibido durante el receso.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 1986)</small>
+
+Durante el último año de ejercicio la Diputación Permanente, deberá constituirse en Comisión Instaladora, a efecto de dar cumplimiento a lo dispuesto en el Capitulo II del Titulo Segundo de la presente Ley.
 
 ###### ARTICULO 68.
 
@@ -565,9 +601,13 @@ I. De Biblioteca y Archivo;
 
 II. De Asuntos Editoriales;
 
-III. Coordinador de Gestoría; y,
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1986)</small>
 
-IV. Relaciones Públicas.
+III. De Gestoría; y,
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1986)</small>
+
+IV. De Relaciones Públicas.
 
 Estos Comités dispondrán de su propio reglamento y serán designados a propuesta de la Gran Comisión. Su integración, actividad y funcionamiento se sujetará a las disposiciones reglamentarias y dispondrán de un local adecuado con el personal necesario para el desempeño de sus funciones.
 
@@ -585,7 +625,9 @@ El oficial Mayor y los empleados de la Secretaría tendrán las atribuciones que
 
 La Oficialía Mayor es la dependencia que tendrá a su cargo:
 
-I. Atender las relaciones de trabajo entre el Poder Legislativo y sus trabajadores de conformidad con los ordenamientos respectivos;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1986)</small>
+
+I. Cumplir con la Ley que rige las relaciones laborales entre el Poder Legislativo y sus trabajadores;
 
 II. Efectuar el trámite de nombramientos, remociones, licencias y permisos de funcionarios y empleados del Poder Legislativo;
 
@@ -595,11 +637,13 @@ IV. Las demás que señale esta Ley y su reglamento.
 
 ### CAPITULO IV. TESORERIA
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 75.
 
-La Tesorería es la dependencia del Congreso que manejará el presupuesto aprobado para el mismo, en los términos de esta Ley y de las disposiciones reglamentarias.
+La Tesorería es la dependencia del Congreso del Estado que manejará el presupuesto aprobado para el mismo en los términos de esta Ley y de las disposiciones reglamentarias.
 
-Estará presidida por un Tesorero y contará con el personal suficiente para la realización de sus funciones.
+Estará a cargo de un tesorero y contará con el personal suficiente para la realización de sus funciones.
 
 ### CAPITULO V. CONTADURIA GENERAL DE GLOSA
 
@@ -681,9 +725,11 @@ IX. Rendir al Congreso del Estado cada tres meses de acuerdo con el artículo 13
 
 X. Las demás que le correspondan de acuerdo con esta Ley, el reglamento y las disposiciones que dicte la Cámara de Diputados.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 82.
 
-El personal de la Contaduría se integrará con trabajadores de base y de confianza, conforme a lo dispuesto por el Estatuto Jurídico de los Trabajadores del Estado.
+El personal de la Contaduría se integrará con trabajadores de base y de confianza, conforme a lo dispuesto por la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y de sus municipios.
 
 REVISION DE LA CUENTA PUBLICA
 
@@ -727,9 +773,11 @@ Las entidades conservarán en su poder los libros de registro de contabilidad, a
 
 RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 90.
 
-Para los efectos de esta Ley, incurre en responsabilidad toda persona física o moral que intencionalmente por culpa, cause daño o perjuicio a la hacienda pública estatal o municipal.
+Para los efectos de esta Ley, incurren en responsabilidad los servidores públicos que señala el Título Cuarto de la Constitución Política del Estado y demás leyes relativas; así como toda persona física o moral que intencionalmente o por culpa, cause daño o perjuicio a la hacienda pública estatal o municipal.
 
 ###### ARTICULO 91.
 
@@ -741,25 +789,37 @@ Las responsabilidades que conforme a esta Ley se finquen, tienen por objeto resa
 
 Las responsabilidades administrativas se financiarán independientemente de las que procedan por otras leyes o de las sanciones de carácter penal que imponga la autoridad judicial.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### ARTICULO 93.
 
 Las responsabilidades serán imputables:
 
-I. A los empleados o funcionarios de las entidades por la incorrecta aplicación de las leyes fiscales o a los funcionarios o empleados de la Contaduría cuando no formulen observaciones sobre las irregularidades que detecten;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1986)</small>
 
-II. A los funcionarios o empleados de las entidades por la indebida aplicación de las partidas presupuestales, falta de documentos justificativos o comprobatorios del gasto, por notoria negligencia administrativa; a empresas privadas o a los particulares que, en relación con el gasto del Gobierno estatal o municipal o de otra entidad, hayan incurrido en el incumplimiento de las obligaciones contraidas por actos ejecutados, convenios o contratos celebrados; y,
+I. A los servidores públicos mencionados en los artículos 104 y 108 de la Constitución Política del Estado, por la incorrecta aplicación de las leyes fiscales o a los funcionarios o empleados de la Contaduría cuando no formulen observaciones sobre las irregularidades que detecten;
 
-III. A los empleados y funcionarios de las entidades y dependencias, cuando no remitan documentación justificativa y comprobatoria de la cuenta pública o no rindan la información solicitada o dejen de rendir informes sobre la solventación de pliegos de observaciones y recomendaciones formulados y remitidos por el Congreso o la Contaduría General de Glosa.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1986)</small>
+
+II. A los servidores públicos a que alude la fracción anterior, por la indebida aplicación de las partidas presupuestales, falta de documentos justificativos o comprobatorios del gasto, por notoria negligencia administrativa; a empresas privadas o a los particulares que, en relación con el gasto del Gobierno estatal o municipal o de otra entidad, hayan incurrido en el incumplimiento de las obligaciones contraídas por actos ejecutados, convenios o contratos celebrados; y,
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1986)</small>
+
+III. A los servidores públicos señalados en la fracción I de este artículo, cuando no remitan documentación justificativa y comprobatoria de la cuenta pública o no rindan la información solicitada o dejen de rendir informes sobre el desvanecimiento de los pliegos de observaciones y recomendaciones formulados y remitidos por el Congreso o la Contaduría General de Glosa.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
 
 ###### ARTICULO 94.
 
-Los créditos resultantes de aplicación de responsabilidades a las personas físicas o morales, tendrán el carácter de fiscales y se harán efectivos a través del procedimiento económico-coactivo establecido en las leyes fiscales.
+Los créditos resultantes de la aplicación de responsabilidades a las personas físicas o morales, tendrán el carácter de fiscales y se harán efectivos a través del procedimiento económico-coactivo establecido en las leyes fiscales y en las demás disposiciones relativas.
 
 PRESCRIPCION
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+
 ###### Artículo 95.
 
-El fincamiento de responsabilidades prescribirá en el término de cinco años, contados a partir de la fecha en que se hayan cometido los actos u omisiones en que consistan, o de la última actuación que tienda a determinar la responsabilidad.
+El fincamiento de responsabilidades prescribirá en los términos establecidos por la Ley de Responsabilidades de los Servidores Públicos, el Código Penal del Estado y demás leyes aplicables.
 
 ## TRANSITORIOS
 
@@ -772,3 +832,11 @@ El Ejecutivo del Estado dispondrá se publique en el Periódico oficial del Esta
 PALACIO DEL PODER LEGISLATIVO. Morelia, Michoacán, a 3 de febrero de 1983.- DIPUTADO PRESIDENTE.- Abelardo Gaona González.- DIPUTADO SECRETARIO.- Lic. Jerjes Aguirre Avellaneda.- DIPUTADO SECRETARIO. - Raúl Tovar Ortiz. Firmados.
 
 En cumplimiento por lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente DECRETO en la Residencia del Poder Ejecutivo de la Ciudad de Morelia, Michoacán, a los 23 veintitrés días del mes de febrero de 1983.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, Ing. Cuauhtémoc Cárdenas Solórzano.- EL SECRETARIO DE GOBIERNO, Dr. Roberto Robles Garnica.- Firmados.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ABRIL DE 1986.
+
+###### ARTÍCULO UNICO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
