@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1967-05-20"
+last_updated: "1970-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 1967.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 1970.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -108,7 +108,9 @@ IV. Los que obtengan del Congreso del Estado Carta de Naturalización coahuilens
 
 Son ciudadanos coahuilenses:
 
-I. Los varones y las mujeres nacidos en el Estado de Coahuila, que tengan 18 años si son casados o 21 si no lo son, y tengan modo honesto de vivir.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 1970)</small>
+
+I. Los varones y las mujeres nacidos en el Estado de Coahuila que hayan cumplido 18 años y tengan un modo honesto de vivir.
 
 II. Los mexicanos por nacimiento que reunan la calidad de ciudadanos mexicanos, que tengan en el Estado una vecindad continua de 10 años y que ejerzan algún arte u oficio, comercio, industria, trabajo, profesión o modo honesto de vivir.
 
@@ -1783,3 +1785,7 @@ P.O. 12 DE OCTUBRE DE 1966.
 P.O. 20 DE MAYO DE 1967.
 
 UNICO:- Este decreto entrará en vigor cinco días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MARZO DE 1970.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
