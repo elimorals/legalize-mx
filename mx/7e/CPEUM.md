@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1949-02-10"
+last_updated: "1951-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE FEBRERO DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE FEBRERO DE 1951.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -804,6 +806,8 @@ Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias qu
 
 DE LAS FACULTADES DEL CONGRESO.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
 ###### Art. 73.
@@ -860,19 +864,19 @@ Cada Municipalidad de los Territorios estará a cargo de un Ayuntamiento de elec
 
 3a.- Los Gobernadores de los Territorios acordarán con el Presidente de la República, por el conducto que determine la ley.
 
-> <small>(REFORMADA, D.O.F. 21 DE SEPTIEMBRE DE 1944)</small>
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
-4ª.- Los nombramientos de los Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, serán hechos por el Presidente de la República, y sometidos a la aprobación de la Cámara de Diputados, la que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si la Cámara no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados nombrados por el Presidente de la República. En el caso de que la Cámara de Diputados no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento, que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación de la Cámara en el siguiente período ordinario de sesiones. En este periodo de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Presidente de la República someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados.
+4ª.- Los nombramientos de los Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, serán hechos, por el Presidente de la República y sometidos a la aprobación de la Cámara de Diputados, la que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si la Cámara no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados nombrados por el Presidente de la República. En el caso de que la Cámara de Diputados no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación de la Cámara, en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Presidente de la República someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados.
 
-En los casos de faltas temporales por más de tres meses, de los Magistrados, serán éstos substituídos mediante nombramiento que el Presidente de la República someterá a la aprobación de la Cámara de Diputados, y en sus recesos, a la de la Comisión Permanente, observándose, en su caso, lo dispuesto en las cláusulas anteriores.
+En los casos de faltas temporales por más de tres meses de los Magistrados, serán éstos sustituídos mediante nombramiento que el Presidente de la República someterá a la aprobación de la Cámara de Diputados y en sus recesos, a la de la Comisión Permanente, observándose en su caso, lo dispuesto en las cláusulas anteriores.
 
-En los casos de faltas temporales que no excedan de tres meses la Ley Orgánica determinará la manera de hacer la substitución. Si faltare un Magistrado por defunción, renuncia o incapacidad, el Presidente de la República someterá un nuevo nombramiento a la aprobación de la Cámara de Diputados. Si la Cámara no estuviere en sesiones, la Comisión Permanente dará su aprobación provisional, mientras se reúne aquella y da la aprobación definitiva.
+En los casos de faltas temporales que no excedan de tres meses, la Ley Orgánica determinará la manera de hacer la substitución. Si faltare un Magistrado por defunción, renuncia o incapacidad, el Presidente de la República someterá un nuevo nombramiento a la aprobación de la Cámara de Diputados. Si la Cámara no estuviere en sesiones, la Comisión Permanente dará su aprobación provisional, mientras se reúne aquélla y da la aprobación definitiva.
 
-Los Jueces de Primera Instancia, menores y correccionales del Distrito Federal y de los Territorios, serán nombrados por el Tribunal Superior de Justicia del Distrito Federal, deberán tener los requisitos que la ley señale y serán substituidos, en sus faltas temporales, en los términos que la misma ley determine.
+Los jueces de primera instancia, menores y correccionales y los que con cualquiera otra denominación se creen en el Distrito Federal y en los Territorios, serán nombrados por el Tribunal Superior de Justicia del Distrito Federal; deberán tener los requisitos que la ley señale y serán substituídos, en sus faltas temporales, en los términos que la misma ley determine.
 
-La remuneración que los Magistrados y Jueces perciban por sus servicios no podrá ser disminuida durante su encargo.
+La remuneración que los Magistrados y jueces perciban por sus servicios no podrá ser disminuída durante su encargo.
 
-Los Magistrados y los Jueces a que se refiere esta base podrán ser privados de sus puestos cuando observen mala conducta de acuerdo con la parte final del artículo 111, o previo el juicio de responsabilidad correspondiente.
+Los Magistrados y los jueces a que se refiere esta base, durarán en sus encargos seis años, pudiendo ser reelectos; en todo caso, podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, o previo el juicio de responsabilidad correspondiente.
 
 5a.- El Ministerio Público en el Distrito Federal y en los Territorios estará a cargo de un Procurador General, que residirá en la ciudad de México, y del número de agentes que determine la ley, dependiendo dicho funcionario directamente del Presidente de la República, quien lo nombrará y removerá libremente.
 
@@ -1244,13 +1248,15 @@ Los secretarios del Despacho, luego que esté abierto el período de sesiones or
 
 DEL PODER JUDICIAL.
 
-> <small>(REFORMADO, D.O.F. 21 DE SEPTIEMBRE DE 1944)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 ###### Art. 94.
 
-Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales de Circuito y en Juzgados de Distrito, cuyo número y atribuciones fijará la ley. La Suprema Corte de Justicia de la Nación, se compondrá de veintiún Ministros y funcionará en Tribunal Pleno o dividida en Salas, en los términos que disponga la ley. Las audiencias del Tribunal Pleno o de las Salas serán públicas, excepción hecha de los casos en que la moral o el interés público exijan que sean secretas. Las sesiones serán celebradas en la forma y términos que establezca la ley respectiva. La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito y los Jueces de Distrito, no podrá ser disminuida durante su encargo.
+Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales de Circuito, Colegiados en materia de amparo y unitarios en materia de apelación y en juzgados de Distrito. La Suprema Corte de Justicia de la Nación se compondrá de veintiún Ministros y funcionará en Tribunal Pleno o en Salas. Habrá además, cinco Ministros Supernumerarios. Las audiencias del Tribunal Pleno o de las Salas serán públicas, excepción hecha de los casos en que la moral o el interés público exijan que sean secretas. Los períodos de sesiones de la Suprema Corte, funcionamiento del Pleno y de las Salas, las atribuciones de los Ministros supernumerarios y el número y competencia de los Tribunales de Circuito y de los Jueces de Distrito se regirán por esta Constitución y lo que dispongan las leyes. En ningún caso los Ministros supernumerarios integrarán el Pleno. La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito y los jueces de Distrito, no podrá ser disminuída durante su encargo.
 
-Los Ministros de la Suprema Corte, los Magistrados de Circuito y los Jueces de Distrito podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111 o previo el juicio de responsabilidad correspondiente.
+Los Ministros de la Suprema Corte de Justicia podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, previo el juicio de responsabilidad correspondiente.
 
 ###### Art. 95.
 
@@ -1276,19 +1282,29 @@ V.- Haber residido en el país durante los últimos cinco años, salvo el caso d
 
 Los nombramientos de los Ministros de la Suprema Corte, serán hechos por el Presidente de la República y sometidos a la aprobación de la Cámara de Senadores, la que otorgará o negará esa aprobación, dentro del improrrogable término de diez días. Si la Cámara no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Senado, no podrán tomar posesión los Magistrados de la Suprema Corte nombrados por el Presidente de la República. En el caso de que la Cámara de Senadores no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de dicha Cámara, en el siguiente período ordinario de sesiones. En este periodo de sesiones, dentro de los primeros diez días, el Senado deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Senado desecha el nombramiento, cesará desde luego en sus funciones el Ministro provisional, y el Presidente de la República someterá nuevo nombramiento a la aprobación del Senado, en los términos señalados.
 
-> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 ###### Art. 97.
 
-Los Magistrados de Circuito y los Jueces de Distrito, serán nombrados por la Suprema Corte de Justicia de la Nación y tendrán los requisitos que exija la Ley.
+Los Magistrados de Circuito y los jueces de Distrito serán nombrados por la Suprema Corte de Justicia de la Nación, tendrán los requisitos que exija la ley y durarán cuatro años en el ejercicio de su encargo, al término de los cuales, si fueran reelectos, o promovidos a cargos superiores, sólo podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, o previo el juicio de responsabilidad correspondiente.
+
+> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
 
 La Suprema Corte de Justicia podrá cambiar de lugar a los Jueces de Distrito, pasándolos de un distrito a otro, o fijando su residencia en otra población, según lo estime conveniente para el mejor servicio público. Lo mismo podrá hacer tratándose de los Magistrados de Circuito.
 
+> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
+
 Podrá también la Suprema Corte de Justicia de la Nación nombrar Magistrados de Circuito y Jueces de Distrito Supernumerarios que auxilien las labores de los Tribunales o Juzgados donde hubiere recargo de negocios, a fin de obtener que la Administración de Justicia sea pronta y expedita; y nombrará a alguno o algunos de sus miembros, o a algún Juez de Distrito o Magistrado de Circuito o designará uno o varios Comisionados Especiales, cuando así lo juzgue conveniente, o lo pidiere el Ejecutivo Federal, o alguna de las Cámaras de la Unión, o el Gobernador de algún Estado, únicamente para que averigue la conducta de algún Juez o Magistrado Federal, o algún hecho o hechos que constituyan la violación de alguna garantía individual, o la violación del voto público, o algún otro delito castigado por la Ley Federal.
+
+> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
 
 Los Tribunales de Circuito y Juzgados de Distrito serán distribuídos entre los Ministros de la Suprema Corte, para que éstos los visiten periódicamente, vigilen la conducta de los Magistrados y Jueces que los desempeñen, reciban las quejas que hubiere contra ellos y ejerzan las demás atribuciones que señala la Ley. La Suprema Corte de Justicia nombrará y removerá a su Secretario y demás empleados que le corresponda, con estricta observancia de la ley respectiva. En igual forma procederán los Magistrados de Circuito y Jueces de Distrito, por lo que se refiere a sus respectivos Secretarios y empleados.
 
+> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
+
 La Suprema Corte de Justicia cada año designará uno de sus miembros como Presidente, pudiendo éste ser reelecto.
+
+> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
 
 Cada Ministro de la Suprema Corte de Justicia, al entrar a ejercer su encargo, protestará ante el Senado, y en sus recesos, ante la Comisión Permanente, en la siguiente forma:
 
@@ -1298,15 +1314,19 @@ Ministro: “Sí protesto”.
 
 Presidente: “Si no lo hiciereis así, la Nación os lo demande”.
 
+> <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 1940)</small>
+
 Los Magistrados de Circuito y los Jueces de Distrito protestarán ante la Suprema Corte y ante la autoridad que determina la Ley.
 
-> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 ###### Art. 98.
 
-Las faltas temporales de un Ministro de la Suprema Corte de Justicia de la Nación que no excedan de un mes, no se suplirán, si aquélla tuviere quórum para sus sesiones; pero si no lo tuviere, o si la falta excediere de un mes, el Presidente de la República someterá el nombramiento de un Ministro provisional a la aprobación del Senado, o en su receso a la de la Comisión Permanente, observándose en su caso, lo dispuesto en la parte final del artículo 96.
+La falta temporal de un Ministro de la Suprema Corte de Justicia de la Nación que no exceda de un mes, será suplida en la Sala correspondiente por uno de los supernumerarios. Si la falta excediere de ese término, el Presidente de la República someterá el nombramiento de un Ministro provisional a la aprobación del Senado, o, en su receso, a la de la Comisión Permanente, y se observará en su caso, lo dispuesto en la parte final del artículo 96.
 
-Si faltare un Ministro por defunción, renuncia o incapacidad, el Presidente de la República someterá un nuevo nombramiento a la aprobación del Senado. Si el Senado no estuviere en funciones, la Comisión Permanente dará su aprobación mientras se reúne aquél y da la aprobación definitiva.
+Si faltare un Ministro por defunción, renuncia o incapacidad, el Presidente de la República someterá un nuevo nombramiento a la aprobación del Senado. Si el Senado no estuviere en funciones, la Comisión Permanente dará su aprobación, mientras se reúne aquél y da la aprobación definitiva.
 
 > <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -1376,47 +1396,87 @@ Corresponde sólo a la Suprema Corte de Justicia de la Nación, conocer de las c
 
 Corresponde también a la Suprema Corte de Justicia dirimir las competencias que se susciten entre los tribunales de la Federación, entre éstos y los de los Estados, o entre los de un Estado y los de otro.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+
 ###### Art. 107.
 
-Todas las controversias de que habla el artículo 103, se seguirán a instancia de la parte agraviada, por medio de procedimientos y formas del orden jurídico que determinará una ley que se ajustará a las bases siguientes:
+Todas las controversias de que habla el artículo 103 se sujetarán a los procedimientos y formas del orden jurídico que determine la ley, de acuerdo con las bases siguientes:
 
-I.- La sentencia será siempre tal, que sólo se ocupe de individuos particulares, limitándose a ampararlos y protegerlos en el caso especial sobre el que verse la queja, sin hacer una declaración general respecto de la ley o acto que la motivare.
+I.- El juicio de amparo se seguirá siempre a instancia de parte agraviada.
 
-II.- En los juicios civiles o penales, salvo los casos de la regla IX, el amparo sólo procederá contra las sentencias definitivas respecto de las que no proceda ningún recurso ordinario por virtud del cual puedan ser modificadas o reformadas, siempre que la violación de la ley se cometa, en ellas, o que, cometida durante la secuela del procedimiento, se haya reclamado oportunamente y protestado contra ella por negarse su reparación, y que cuando se haya cometido en primera instancia, se haya alegado en la segunda, por vía de agravio.
+II.- La sentencia será siempre tal, que sólo se ocupe de individuos particulares, limitándose a ampararlos y protegerlos en el caso especial sobre el que verse la queja, sin hacer una declaración general respecto de la ley o acto que la motivare.
 
-La Suprema Corte, no obstante esta regla, podrá suplir la deficiencia de la queja en un juicio penal, cuando encuentre que ha habido en contra del quejoso una violación manifiesta de la ley, que lo ha dejado sin defensa o que se le ha juzgado por una ley que no es exactamente aplicable al caso, y que sólo por torpeza no se ha combatido debidamente la violación.
+Podrá suplirse la deficiencia de la queja, cuando el acto reclamado se funde en leyes declaradas inconstitucionales por la jurisprudencia de la Suprema Corte de Justicia.
 
-III.- En los juicios civiles o penales sólo procederá el amparo contra la violación de las leyes del procedimiento, cuando se afecten las partes substanciales de él y de manera que su infracción deje sin defensa al quejoso.
+Podrá también suplirse la deficiencia de la queja en materia penal y la de la parte obrera en materia de trabajo, cuando se encuentre que ha habido en contra del agraviado, una violación manifiesta de la ley, que lo ha dejado sin defensa, y en materia penal, además cuando se le haya juzgado por una ley que no es exactamente aplicable al caso.
 
-IV.- Cuando el amparo se pida contra la sentencia definitiva, en el juicio civil, sólo procederá, además del caso de la regla anterior, cuando, llenándose los requisitos de la regla segunda, dicha sentencia sea contraria a la letra de la ley aplicable al caso o a su interpretación jurídica, cuando comprenda personas, acciones, excepciones o cosas que no han sido objeto del juicio, o cuando no las comprenda todas por omisión o negativa expresa.
+III.- En materias judicial, civil o penal y del trabajo el amparo sólo procederá:
 
-Cuando se pida el amparo contra resoluciones no definitivas, según lo dispuesto en la fracción anterior, se observarán estas reglas en lo que fuere conducente.
+a).- Contra sentencias definitivas o laudos respecto de los cuales no proceda ningún recurso ordinario por virtud del cual puedan ser modificados o reformados, ya sea que la violación de la ley se cometa en ellos, o que, cometida durante la secuela del procedimiento, afecte a las defensas del quejoso trascendiendo al resultado del fallo; siempre que en materia judicial, civil o penal, se hubiere reclamado oportunamente y protestado contra ella por negarse su reparación y que cuando cometida en primera instancia, se haya alegado en la segunda, por vía de agravio.
 
-V.- En los juicios penales, la ejecución de la sentencia definitiva contra la que se pide amparo, se suspenderá por la autoridad responsable, a cuyo objeto el quejoso le comunicará, dentro del término que fija la ley y bajo la protesta de decir verdad, la interposición del recurso, acompañando dos copias, una para el expediente y otra que se entregará a la parte contraria.
+b).- Contra actos en juicio, cuya ejecución sea de imposible reparación, fuera de juicio o después de concluído una vez agotados los recursos que en su caso procedan.
 
-VI.- En juicios civiles, la ejecución de la sentencia definitiva, sólo se suspenderá si el quejoso da fianza de pagar los daños y perjuicios que la suspensión ocasionare, a menos que la otra parte diese contrafianza para asegurar la reposición de las cosas al estado que guardaban si se concediese el amparo, y pagar los daños y perjuicios consiguientes. En este caso se anunciará la interposición del recurso, como indica la regla anterior.
+c).- Contra actos que afecten a personas extrañas al juicio.
 
-VII.- Cuando se quiera pedir amparo contra una sentencia definitiva, se solicitará de la autoridad responsable copia certificada de las constancias que el quejoso señalare, la que se adicionará con las que indicare la otra parte dando en ella la misma autoridad responsable, de una manera breve, clara, las razones que justifiquen el acto que se va a reclamar, de las que se dejará nota en los autos.
+IV.- En materia administrativa, el amparo procede contra resoluciones que causen agravio no reparable mediante algún recurso, juicio o medio de defensa legal. No será necesario agotar éstos cuando la ley que los establezca exija para otorgar la suspensión del acto reclamado, mayores requisitos que los que la Ley Reglamentaria del Juicio de Amparo requiera como condición para decretar esa suspensión.
 
-VIII.- Cuando el amparo se pida contra una sentencia definitiva, se interpondrá directamente ante la Suprema Corte, presentándole el escrito con la copia de que se habla en la regla anterior, o remitiéndolo por conducto de la autoridad responsable o del Juez de Distrito del Estado a que pertenezca. La Corte dictará sentencia sin más trámite ni diligencia que el escrito en que se interponga el recurso, el que produzca la otra parte y el Procurador General o el Agente que al efecto designare, y sin comprender otra cuestión legal que la que la queja contenga.
+V.- Salvo lo dispuesto en la fracción siguiente, el amparo contra sentencias definitivas o laudos, por violaciones cometidas en ellos, se interpondrá directamente ante la Suprema Corte de Justicia, la cual pronunciará sentencia sin más trámite que el escrito en que se intente el juicio, la copia certificada de las constancias que el agraviado señale, la que se adicionará con las que indicare el tercer perjudicado, el escrito de éste, el que produzca, en su caso, el Procurador General de la República o el Agente que al efecto designare y el de la autoridad responsable.
 
-IX.- Cuando se trate de actos de autoridad distinta de la judicial, o de actos de ésta ejecutados fuera de juicio o después de concluído; o de actos en el juicio cuya ejecución sea de imposible reparación o que afecte a personas extrañas al juicio, el amparo se pedirá ante el Juez de Distrito bajo cuya jurisdicción esté el lugar en que el acto reclamado se ejecute o trate de ejecutarse, limitándose la tramitación al informe de la autoridad, a una audiencia para la cual se citará en el mismo auto en que se mande pedir el informe y que se verificará a la mayor brevedad posible, recibiéndose en ella las pruebas que las partes interesadas ofrecieren, y oyéndose los alegatos, que no podrán exceder de una hora cada uno, y a la sentencia que se pronunciará en la misma audiencia. La sentencia causará ejecutoria, si los interesados no ocurrieren a la Suprema Corte dentro del término que fija la ley, y de la manera que expresa la regla VIII.
+VI.- El amparo contra sentencias definitivas o laudos, se interpondrá directamente ante el Tribunal Colegiado de Circuito bajo cuya jurisdicción esté el domicilio de la autoridad que pronuncie la sentencia o laudo, cuando la demanda se funde en violaciones substanciales cometidas durante la secuela del procedimiento o se trate de sentencias en materia civil o penal, contra las que no proceda recurso de apelación, cualesquiera que sean las violaciones alegadas.
 
-La violación de las garantías de los artículos 16, 19 y 20 se reclamará ante el Superior Tribunal que la cometa o ante el juez de Distrito que corresponde, pudiéndose recurrir en uno y otro casos a la Corte, contra la resolución que se dicte.
+Siempre que el (sic) interponerse amparo contra sentencias definitivas en materias civil o penal o laudos en materia del trabajo, se aleguen violaciones substanciales cometidas durante la secuela del procedimiento y violaciones cometidas en la sentencia o laudo respectivos, se reclamarán conjuntamente, presentándose la demanda ante el Tribunal Colegiado de Circuito que corresponda, el cual sólo decidirá sobre las violaciones substanciales durante el procedimiento, y si la sentencia fuere desfavorable al agraviado, remitirá el expediente a la Suprema Corte de Justicia, para que resuelva sobre las violaciones cometidas en sentencias o laudos.
 
-Si el Juez de Distrito no residiere en el mismo lugar en que reside la autoridad responsable, la ley determinará el juez ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
+Para la interposición y tramitación del amparo ante los Tribunales Colegiados de Circuito, se observará lo dispuesto en la fracción precedente. Cumplido ese trámite, se pronunciará sentencia conforme al procedimiento que disponga la ley.
 
-X.- La autoridad responsable será consignada a la autoridad correspondiente, cuando no suspenda el acto reclamado, debiendo hacerlo, y cuando admita fianza que resultare ilusoria o insuficiente, siendo en estos dos últimos casos solidaria la responsabilidad penal y civil de la autoridad, con el que ofreciere la fianza y el que la prestare.
+VII.- El amparo contra actos en juicio, fuera de juicio o después de concluído o que afecten a personas extrañas al juicio, contra leyes y contra actos de autoridad administrativa, se interpondrá ante el Juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos pronunciándose en la misma audiencia la sentencia.
 
-XI.- Si después de concedido el amparo, la autoridad responsable insistiere en la repetición del acto reclamado o tratare de eludir la sentencia de la autoridad federal, será inmediatamente separada de su cargo y consignada ante el Juez de Distrito que corresponda, para que la juzgue.
+VIII.- Contra las sentencias que pronuncien en amparo los jueces de Distrito, procede revisión. De ella conocerá la Suprema Corte de Justicia en los siguientes casos:
 
-XII.- Los alcaides y carceleros que no reciban copia autorizada del auto de formal prisión de un detenido, dentro de las setenta y dos horas que señala el artículo 19, contadas desde que aquél esté a disposición de su juez, deberán llamar la atención de éste sobre dicho particular, en el acto mismo de concluir el término, y si no reciben la constancia mencionada, dentro de las tres horas siguientes lo pondrán en libertad.
+a).- Cuando se impugne una ley por su inconstitucionalidad o se trate de los casos comprendidos en las fracciones II y III del artículo 103.
 
-Los infractores del artículo citado y de esta disposición, serán consignados inmediatamente a la autoridad competente.
+b).- Cuando la autoridad responsable en amparo administrativo sea federal.
 
-También será consignado a la autoridad o agente de ella, el que, verificada una aprehensión, no pusiere al detenido a disposición de su juez, dentro de las veinticuatro horas siguientes.
+c).- Cuando se reclamen, en materia penal, solamente la violación del artículo 22 de esta Constitución.
 
-Si la detención se verificare fuera del lugar en que resida el juez, al término mencionado se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y el en que se verificó la detención.
+En los demás casos conocerán de la revisión los Tribunales Colegiados de Circuito y sus sentencias no admitirán recurso alguno.
+
+IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito, no admiten recurso alguno, a menos que decidan sobre la inconstitucionalidad de una ley o establezca la interpretación directa de un precepto de la Constitución, caso en que serán recurribles ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales.
+
+La resolución del Tribunal Colegiado de Circuito no será recurrible, cuando se funde en la jurisprudencia que haya establecido la Suprema Corte de Justicia sobre la constitucionalidad de una ley o la interpretación directa de un precepto de la Constitución.
+
+X.- Los actos reclamados podrán ser objeto de suspensión en los casos y mediante las condiciones y garantías que determine la ley, para lo cual, se tomarán en cuenta la naturaleza de la violación alegada, la dificultad de reparación de los daños y perjuicios que pueda sufrir el agraviado con su ejecución, los que la suspensión origine a terceros perjudicados y el interés público.
+
+Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal, al comunicarse la interposición del amparo, y en materia civil, mediante fianza que dé el quejoso, para responder de los daños y perjuicios que tal suspensión ocasionare, la cual quedará sin efecto, si la otra parte da contrafianza para asegurar la reposición de las cosas al estado que guardaban, si se concediese el amparo, y a pagar los daños y perjuicios consiguientes.
+
+XI.- La suspensión se pedirá ante la autoridad responsable, cuando se trate de amparos directos ante la Suprema Corte de Justicia o los Tribunales Colegiados de Circuito, en cuyo caso el agraviado le comunicará, a la propia autoridad responsable, dentro del término que fije la ley y bajo protesta de decir verdad, la interposición del amparo, acompañando dos copias de la demanda, una para el expediente y otra que se entregará a la parte contraria. En los demás casos, conocerán y resolverán sobre la suspensión los Juzgados de Distrito.
+
+XII.- La violación de las garantías de los artículos 16, en materia penal, 19 y 20 se reclamará ante el superior del Tribunal que la cometa, o ante el Juez de Distrito que corresponda, pudiéndose recurrir, en uno y otro caso, las resoluciones que se pronuncien, en los términos prescritos por la fracción VIII.
+
+Si el Juez de Distrito no residiere en el mismo lugar que reside la autoridad responsable, la ley determinará el juez ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
+
+XIII.- La ley determinará los términos y casos en que sea obligatoria la jurisdicción de los Tribunales del Poder Judicial de la Federación, así como los requisitos para su modificación.
+
+Si los Tribunales Colegiados de Circuito sustentan tesis contradictorias en los juicios de amparo materia de su competencia, los Ministros de la Suprema Corte de Justicia, el Procurador General de la República o aquellos Tribunales, podrán denunciar la contradicción ante la Sala que corresponda, a fin de que decida cuál es la tesis que debe prevalecer.
+
+Cuando las Salas de la Suprema Corte de Justicia sustenten tesis contradictorias en los juicios de amparo materia de su competencia cualquiera de esas Salas o el Procurador General de la República, podrán denunciar la contradicción ante la misma Suprema Corte de Justicia, quien decidirá, funcionando en Pleno, qué tesis debe observarse. Tanto en este caso como en el previsto en el párrafo anterior, la resolución que se dicte será solo para el efecto de la fijación de la jurisprudencia y no afectará las situaciones jurídicas concretas derivadas de las sentencias contradictorias en el juicio en que fuerons (sic) pronunciadas.
+
+XIV.- Cuando el acto reclamado proceda de autoridades civiles o administrativas y siempre que no esté reclamada la constitucionalidad de una ley, se sobreserá (sic) por inactividad de la parte agraviada en los casos y términos que señale la ley reglamentaria de este artículo.
+
+XV.- El Procurador General de la República o el Agente del Ministerio Público Federal que al efecto designare, será parte en todos los juicios de amparo; pero podrán abstenerse de intervenir en dichos juicios, cuando el caso de que se trate carezca a su juicio, de interés público.
+
+XVI.- Si concedido el amparo la autoridad responsable insistiere en la repetición del acto reclamado o tratare de eludir la sentencia de la autoridad federal, será inmediatamente separada de su cargo y consignada ante el Juez de Distrito que corresponda.
+
+XVII.- La autoridad responsable será consignada a la autoridad correspondiente, cuando no suspenda el acto reclamado debiendo hacerlo, y cuando admita fianza que resulte ilusoria o insuficiente, siendo en estos dos últimos casos, solidaria la responsabilidad civil de la autoridad con el que ofreciere la fianza y el que la prestare.
+
+XVIII.- Los alcaides y carceleros que no reciban copia autorizada del auto de formal prisión de un detenido, dentro de las setenta y dos horas que señala el artículo 19, contadas desde que aquél esté a disposición de su juez, deberán llamar la atención de éste sobre dicho particular, en el acto mismo de concluir el término y si no reciben la constancia mencionada, dentro de las tres horas siguientes lo pondrán en libertad.
+
+Los infractores del artículo citado de esta disposición serán consignados inmediatamente a la autoridad competente.
+
+También será consignado a la autoridad o Agente de ella, el que, realizada una aprehensión, no pusiere al detenido a disposición de su juez, dentro de las veinticuatro horas siguientes.
+
+Si la detención se verificare fuera del lugar en que reside el juez, al término mencionado se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y el en que se efectuó la detención.
 
 ## TITULO CUARTO.
 
@@ -2201,3 +2261,45 @@ La presente adición a la fracción I del artículo 27 de la Constitución Gener
 D.O.F. 10 DE FEBRERO DE 1949.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+D.O.F. 19 DE FEBRERO DE 1951.
+
+###### ARTICULO PRIMERO.
+
+Las reformas a los artículos 94, 97 párrafo primero, 98 y 107, entrarán en vigor a los noventa días siguientes al de su publicación en el "Diario Oficial" de la Federación. Sin embargo, dentro de esos noventa días, deberá procederse al nombramiento de los Ministros Supernumerarios, de los nuevos Magistrados de los Tribunales Colegiados de Circuito y de todos los Magistrados de los Tribunales Unitarios de Circuito y de los Jueces de Distrito, con arreglo a las disposiciones que establece la Constitución y estas reformas.
+
+###### ARTICULO SEGUNDO.
+
+Cuando estas designaciones recaigan en Magistrados o Jueces del Poder Judicial de la Federación, que lleven actualmente más de cuatro años ininterrumpidos en el desempeño de su encargo, ya sea que se les reelija o que sean promovidos a cargos superiores, sólo podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, ó previo el juicio de responsabilidad correspondiente.
+
+###### ARTICULO TERCERO.
+
+Los magistrados de Circuito y los Jueces de Distrito, actualmente en ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
+
+###### ARTICULO CUARTO.
+
+Los Ministros Supernumerarios a que se refiere el artículo 94, constituídos temporalmente en Sala Auxiliar resolverán, en el plazo que les fije el Pleno de la Suprema Corte de Justicia, el acervo de amparos civiles directos, cualesquiera que sean las violaciones alegadas, excepción hecha de los promovidos dentro de los tres meses anteriores a la fecha en que entren en vigor las presentes reformas o de los en que ya exista proyecto de resolución del Ministro relator correspondiente. Entretanto, aquellos Ministros no desempeñarán las funciones que como Supernumerarios les atribuyen estas reformas y las que les encomienden la Ley de Amparo o la Ley Orgánica del Poder Judicial de la Federación, y, no obstante lo dispuesto en el artículo 94 deberá integrar el Pleno en el caso del párrafo final de la fracción XIII del artículo 107 sólo cuando la contradicción haya surgido entre tesis sustentadas por la Sala Auxiliar y por alguna de las otras cuatro.
+
+Los amparos en revisión, penales, civiles, administrativos o del trabajo, que actualmente radican en la Suprema Corte de Justicia y que conforme a estas reformas sean de la competencia de los Tribunales Colegiados de Circuito, pasarán al conocimiento del Tribunal Colegiado de Circuito que corresponda.
+
+###### ARTICULO QUINTO.
+
+Las Salas correspondientes de la Suprema Corte de Justicia resolverán los amparos directos, penales o del trabajo, por violaciones cometidas durante la secuela del procedimiento, que se hayan promovido con anterioridad a la fecha en que entren en vigor las presentes reformas y que, en lo sucesivo, de acuerdo con la fracción VI del artículo 107, serán de la competencia de los Tribunales Colegiados de Circuito.
+
+###### ARTICULO SEXTO.
+
+Queda facultada la Suprema Corte de Justicia de la Nación, para dictar todas las otras medidas transitorias que sean necesarias, para la efectividad e inmediato cumplimiento de las presentes reformas.
+
+###### ARTICULO SEPTIMO.
+
+La reforma al artículo 73, fracción VI, Base Cuarta, párrafo último, entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO OCTAVO.
+
+Los Magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales y los jueces del fuero común del mismo Distrito y Territorios Federales, actualmente en el ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
+
+###### ARTICULO NOVENO.
+
+El Tribunal Superior de Justicia del Distrito y Territorios Federales designará, dentro de los treinta días siguientes a la fecha en que hayan tomado posesión de sus cargos los Magistrados que lo componen, a los jueces del fuero común del Distrito y Territorios Federales.
