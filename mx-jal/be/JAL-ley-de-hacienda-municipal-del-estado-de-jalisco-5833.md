@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "1996-08-22"
+last_updated: "1996-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1996.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1342,6 +1342,10 @@ Los establecimientos que realicen diversas actividades concretas deberán obtene
 ###### Art. 139.
 
 Las licencias otorgadas por la Autoridad Municipal no conceden a sus titulares derechos permanentes ni definitivos; en tal virtud, la autoridad que las expida podrá en cualquier momento en los casos que señala esta Ley, acordar su revocación sin derecho a devolución de cantidad alguna.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1996)</small>
+
+En el caso de giros restringuidos (sic) sobre venta y consumo de bebidas alcohólicas, se seguirá el procedimiento de revocación establecido en el artículo 316 bis de la presente ley.
 
 ###### Art. 140.
 
@@ -2681,6 +2685,24 @@ IV. Dentro de los cinco días siguientes de transcurrido el término probatorio,
 
 V. Dicha resolución, invariablemente, deberá ser notificada al interesado y, cuando en ésta se determine la revocación, se le concederá un término de setenta y dos horas para que suspenda sus actividades. De no hacerlo, se procederá a la clausura del Giro.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1996)</small>
+
+Art. 316 bis. La revocación de las licencias o permisos para operar los giros restringidos establecidos en la fracción I del artículo 4° de la Ley sobre Venta y Consumo de Bebidas Alcohólicas, deberá sujetarse al siguiente procedimiento:
+
+I. Cuando el Presidente Municipal tenga conocimiento de la existencia de cualquiera de las causas señaladas en el artículo 315 de esta ley, o en su caso de alguna de las que se encuentran establecidas en el artículo 38 de la Ley sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Jalisco, iniciará mediante acuerdo escrito, el procedimiento de revocación;
+
+II. Dicho acuerdo se le notificará en forma personal al interesado concediéndole un plazo de cinco días, contados a partir de la fecha de la notificación, a fin de que comparezca para hacer valer lo que a su interés convenga, y ofrecer las pruebas que estime adecuadas;
+
+III. En caso de que el interesado no comparezca, se le tendrá por conforme con las causas que se le atribuyan, y se resolverá en definitiva;
+
+IV. Las pruebas que ofrezca el interesado deberán desahogarse, en un término que no exceda de diez días, a partir de su ofrecimiento;
+
+V. Dentro de los quince días siguientes de transcurrido el término probatorio, el Presidente Municipal dictaminará sobre la procedencia de la revocación y someterá el acuerdo al Consejo Municipal de Giros Restringuidos (sic) sobre Venta y Consumo de Bebidas Alcohólicas, para su análisis y sanción definitiva. Dicha resolución será notificada al interesado;
+
+VI. Cuando el interesado sea el responsable de las causales de la revocación, se le concederá un término de setenta y dos horas para que suspenda sus actividades. De no hacerlo, se procederá a la clausura del giro, y
+
+VII. Cuando las causales de la revocación no sean imputables al interesado, se le concederá el término que acuerde el Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas, para que suspenda sus actividades o en su caso, cambie el domicilio del establecimiento o local donde las realice.
+
 ###### Art. 317.
 
 Contra la revocación de Licencias, no procederá el Recurso de Reconsideración que establece esta Ley.
@@ -2828,3 +2850,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 22 DE AGOSTO DE 1996.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE OCTUBRE DE 1996.
+
+ÚNICO.- El presente decreto entrará en vigor ocho días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
