@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-18581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-11-26"
-last_updated: "2001-08-01"
+last_updated: "2002-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Gobierno Constitucional del Estado de Puebla el viernes 26 de noviembre de 1999.
 
@@ -763,17 +763,25 @@ Las Comisiones del Congreso son Órganos Colegiados que se integran por Diputado
 
 La competencia de las Comisiones Generales se deriva de su propia denominación, en correspondencia a las respectivas áreas de la administración estatal y municipal, y serán:
 
-I.- Gobernación, Justicia, Puntos Constitucionales y Protección Civil;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2002)</small>
+
+I.- Gobernación, Justicia y Puntos Constitucionales;
 
 II.- Hacienda Pública y Patrimonio Estatal y Municipal;
 
-III.- Desarrollo Rural, Económico y Turismo;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2002)</small>
+
+III.- Desarrollo Rural;
 
 IV.- Desarrollo Social;
 
-V.- Comunicaciones, Transportes, Desarrollo Urbano, Ecología y Medio Ambiente;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2002)</small>
 
-VI.- Salud;
+V.- Comunicaciones y Transportes;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2002)</small>
+
+VI.- Salud y Grupos con Capacidad Disminuida;
 
 VII.- Educación, Cultura y Deporte;
 
@@ -785,11 +793,25 @@ X.- Equidad y Género;
 
 XI.- Asuntos Indígenas;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2002)</small>
 
 XII.- Inspectora del Órgano de Fiscalización Superior;
 
-XIII.- Instructora.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2002)</small>
+
+XIII.- Seguridad Pública y Protección Civil;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2002)</small>
+
+XIV.- Desarrollo Económico y Turismo;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2002)</small>
+
+XV.- Desarrollo Urbano y Medio Ambiente; y
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2002)</small>
+
+XVI.- Instructora.
 
 ###### ARTÍCULO 44.
 
@@ -809,11 +831,25 @@ El Congreso del Estado, para su funcionamiento administrativo, tendrá los Comit
 
 I.- Administración del Patrimonio y de los Recursos Materiales, Técnicos y Humanos;
 
-II.- Archivo, Biblioteca e Informática;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2002)</small>
 
-III.- Asuntos Editoriales, y
+II.- Archivo y Biblioteca;
 
-IV.- Gestoría y Quejas.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2002)</small>
+
+III.- Asuntos Editoriales y Crónica Parlamentaria;
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2002)</small>
+
+IV.- Gestoría y Quejas;
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2002)</small>
+
+V.- Informática; y
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2002)</small>
+
+VI.- Comunicación Social.
 
 Los miembros de los Comités serán designados por el Pleno durante la tercera Sesión del Primer Período Ordinario de Sesiones de la Legislatura.
 
@@ -1114,3 +1150,67 @@ CUARTO.- El Oficial Mayor del Congreso del Estado que se encuentre en funciones 
 Asimismo, los Directores Generales de Apoyo Parlamentario, y de Estudios y Proyectos Legislativos que se encuentren en funciones al entrar en vigor el presente Decreto, continuarán ejerciendo sus atribuciones como Director General de Apoyo Parlamentario e Informática y Director General de Asuntos Jurídicos, de Estudios y de Proyectos Legislativos, respectivamente, subrogándose en todas los derechos y obligaciones inherentes a sus cargos.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE FEBRERO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los integrantes de las actuales Comisiones Generales de Gobernación, Justicia, Puntos Constitucionales y Protección Civil; Desarrollo Rural, Económico y Turismo; Comunicaciones, Transportes, Desarrollo Urbano, Ecología y Medio Ambiente; y de Salud a que se refiere el presente Decreto, integrarán las Comisiones Generales de Gobernación, Justicia y Puntos Constitucionales; Desarrollo Rural; de Comunicaciones y Transportes; y de Salud y Grupos con Capacidad Disminuida, respectivamente.
+
+###### ARTÍCULO TERCERO.
+
+Los integrantes de los actuales Comités de Archivo, Biblioteca e Informática y de Asuntos Editoriales a que se refiere el presente Decreto, integrarán el Comité de Archivo y Biblioteca, así como el de Asuntos Editoriales y Crónica Parlamentaria, respectivamente.
+
+###### ARTÍCULO CUARTO.
+
+La integración de las Comisiones Generales de Seguridad Pública y Protección Civil; Desarrollo Económico y Turismo; y de Desarrollo Urbano y Medio Ambiente, así como de los Comités de Informática y de Comunicación Social, se hará en el Primer Período Ordinario de Sesiones del primer año de ejercicio legal de la Quincuagésima Quinta Legislatura.
+
+###### ARTÍCULO QUINTO.
+
+A partir de que se encuentren integradas las Comisiones Generales y los Comités a que se refiere el presente Decreto, los asuntos que hayan quedado en trámite de resolución a cargo de las mismas y que correspondan al ámbito de sus atribuciones, se distribuirán de la siguiente forma:
+
+COMISIONES GENERALES NUEVAS COMISIONES
+
+VIGENTES GENERALES
+
+Comisión de Gobernación, Comisión de Gobernación,
+
+Justicia, Puntos Constitucionales Justicia y Puntos Constitucionales
+
+y Protección Civil
+
+Comisión de Desarrollo Rural, Comisión de Desarrollo Rural
+
+Económico y Turismo
+
+Comisión de Comunicaciones, Comisión de Comunicaciones
+
+Transportes, Desarrollo Urbano, y Transportes
+
+Ecología y Medio Ambiente
+
+Comisión de Salud Comisión de Salud y Grupos
+
+con Capacidad Disminuida
+
+COMITÉS VIGENTES NUEVOS COMITÉS
+
+Comité de Archivo, Biblioteca Comité de Archivo y Biblioteca
+
+e Informática
+
+Comité de Asuntos Editoriales Comité de Asuntos Editoriales
+
+y Crónica Parlamentaria
+
+###### ARTÍCULO SEXTO.
+
+En todas las disposiciones legales o administrativas, resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia de este Decreto, en que se haga referencia a las Comisiones Generales o Comités que modifican su denominación, se entenderán referidos a los nuevos órganos colegiados, en términos del artículo transitorio anterior.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
