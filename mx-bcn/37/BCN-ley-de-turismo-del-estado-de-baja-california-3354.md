@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-3354"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-07"
-last_updated: "1995-07-07"
+last_updated: "2002-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2002.
 
-Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 7 de julio de 1995.
+Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes7 de julio de 1995.
 
 ERNESTO RUFFO APPEL.
 
@@ -159,7 +159,29 @@ La Secretaría en coordinación con los organismos del sector serán los encarga
 
 La Secretaría apoyará ante las dependencias respectivas y el Gobierno Federal, el otorgamiento de financiamientos para el desarrollo de proyectos y ejecución de obras de infraestructura turística.
 
-De la misma forma gestionará ante las autoridades correspondientes el otorgamiento de facilidades y estímulos fiscales a los inversionistas de la actividad turística aprovechando los mecanismos ya existentes.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2002)</small>
+
+De la misma forma gestionará ante las autoridades correspondientes el otorgamiento de facilidades beneficios y estímulos a los inversionistas de la actividad turística, aprovechando los mecanismos ya existentes, para aquellos prestadores de servicios turísticos que inviertan en:
+
+I.- Remodelación, ampliación, equipamiento, rehabilitación y desarrollo de la infraestructura o servicios turísticos;
+
+II.- Adquisición de equipos que contribuyan al ahorro de energía eléctrica y agua, así como para el tratamiento de aguas de desecho o disposición final de residuos de cualquier tipo;
+
+III.- Promoción estatal, nacional o internacional de paquetes de atractivo turístico por cuenta propia;
+
+IV.- Mantenimiento de accesos, paradores, sitios de interés histórico de los alrededores del establecimiento en donde se presten los servicios turísticos;
+
+V.- Realización o promoción de visitas a lugares de interés turístico dentro del Municipio en donde se encuentre el prestador de servicios turísticos;
+
+VI.- Las demás que establezca la Secretaría o que tenga relación con las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2002)</small>
+
+Para el ejercicio de procedencia de lo señalado en este artículo, la Secretaría verificará física y documentalmente el monto y destino de las inversiones, sobre las cuales levantará acta circunstanciada a la que anexará los documentos o instrumentos que correspondan.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2002)</small>
+
+El otorgamiento de los beneficios y estímulos que estipula este artículo no dará lugar al pago de contraprestación alguna a cargo del prestador de servicios turísticos, debiendo este último facilitar el acceso y la documentación que resulte pertinente.
 
 ###### ARTICULO 21.
 
@@ -448,3 +470,9 @@ LIC. ERNESTO RUFFO APPEL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE FEBRERO DE 2002.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
