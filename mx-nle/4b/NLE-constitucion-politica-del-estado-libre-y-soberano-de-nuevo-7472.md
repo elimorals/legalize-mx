@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1991-06-19"
+last_updated: "1991-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1991.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1601,9 +1601,15 @@ Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se 
 
 En todo juicio del orden criminal tendrá el acusado las siguientes garantías:
 
-(REFORMADA, P.O. 6 DE JUNIO DE 1951)(REPUBLICADA, P.O. 4 DE JULIO DE 1951)
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 1991)</small>
 
-I.- Inmediatamente que lo solicite será puesto en libertad bajo fianza que fijará el Juez tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión, sin más requisito que poner la suma de dinero respectiva, a disposición de la autoridad u otorgar caución hipotecaria o personal bastante para asegurarla, bajo la responsabilidad del Juez en su aceptación. En ningún caso la fianza o caución será mayor de $100,000.00 (CIEN MIL PESOS M. N.), a no ser que se trate de un delito que represente para su autor un beneficio económico o cause a su víctima un daño patrimonial, pues en estos casos la garantía será, cuando menos, hasta tres veces mayor al beneficio obtenido o al daño ocasionado.
+I.- Inmediatamente que lo solicite será puesto en libertad bajo fianza que le fijará el Juez tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito incluyendo sus modalidades merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión, sin más requisito que poner la suma de dinero respectiva a disposición de la autoridad u otorgar caución bastante para asegurarla bajo la responsabilidad del Juez de su aceptación.
+
+La caución no excederá de la cantidad equivalente a la percepción durante dos años del salario mínimo general vigente en el lugar en se cometió el delito, sin embargo la autoridad judicial, en virtud de la especial gravedad del delito, las circunstancias personales del imputado o de la víctima, mediante resolución motivada, podrán incrementar el monto de la caución hasta la cantidad equivalente a la percepción durante cuatro años de salario mínimo vigente en el lugar en que se cometió el delito.
+
+Si el delito es intencional y representa para su autor un beneficio económico o causa a la víctima daño y perjuicio patrimonial, la garantía será cuando menos tres veces mayor al beneficio obtenido o a los daños y perjuicios patrimoniales causados.
+
+Si el delito es preterintencional o imprudencial bastará que se garantice la reparación de los daños y perjuicios patrimoniales y se estará a lo dispuesto en los dos párrafos anteriores.
 
 II.- No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incomunicación o cualquiera otro medio que tienda a aquel objeto.
 
@@ -2066,5 +2072,9 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 19 DE JUNIO DE 1991.
 
 DECRETO NÚMERO 207, QUE REFORMA EL ARTÍCULO 3.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 1991.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
