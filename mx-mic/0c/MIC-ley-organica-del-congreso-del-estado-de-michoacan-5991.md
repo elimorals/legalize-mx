@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-congreso-del-estado-de-michoacan-5991"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-03-03"
-last_updated: "1992-03-26"
+last_updated: "1995-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL CONGRESO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1992
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1995.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el día 3 de marzo de 1983.
 
@@ -67,13 +67,17 @@ El Presidente del Congreso o de la Diputación Permanente, podrán solicitar el 
 
 Ninguna autoridad podrá dictar mandamiento alguno que afecte los bienes del Congreso, ni ejecutar resoluciones judiciales o administrativas sobre las personas o bienes de los diputados en el interior del recinto parlamentario.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 6o.
 
-El Congreso tendrá cada año un período de sesiones ordinarias que comenzará el quince de septiembre y terminará el quince de febrero y podrá prorrogarse de acuerdo con el artículo 31 de la Constitución Política del Estado.
+El Congreso del Estado tendrá cada año dos Periodos de Sesiones Ordinarias. El primero se inicia el quince de diciembre de cada año y terminará el quince de marzo del año siguiente; el segundo dará comienzo el quince de junio y terminará el quince de septiembre del mismo año.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 7o.
 
-El 15 de septiembre del año en que hubiere elecciones se instalará el Congreso y a ese acto concurrirá el Gobernador del Estado, el Presidente del Supremo Tribunal de Justicia y los miembros que formen ese cuerpo.
+El quince de diciembre de año en que hubiere elecciones se instalará el Congreso y a este acto concurrirá el Gobernador del Estado, el Presidente del Supremo Tribunal de Justicia y los miembros que formen ese cuerpo.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ABRIL DE 1986)</small>
 
@@ -113,45 +117,45 @@ VII. Diputación Permanente.
 
 La Comisión denominada Instaladora, estará por los miembros de la Diputación Permanente, los cuales serán electos de acuerdo a lo señalado en el Capítulo VIII de la presente Ley.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 11.
 
-La Comisión Instaladora del Colegio Electoral tendrá a su cargo:
-
-I. Recibir las constancias de los presuntos diputados que remita la Comisión Estatal Electoral, la lista e informe de los que tienen derecho a figurar en el Colegio Electoral; así como también los paquetes electorales tanto de las elecciones de mayoría relativa como por representación proporcional;
-
-II. Entregar las credenciales respectivas a los presuntos diputados que compondrán el Colegio Electoral; y,
-
-III. Entregar por inventario a la mesa directiva del Colegio Electoral, las constancias y paquetes mencionados en la fracción I de este artículo.
+La Comisión Instaladora recibirá las Constancias de los Diputados Electos que remita el Consejo General del Instituto Electoral de Michoacán, o en su caso las resoluciones del Tribunal Electoral del Estado y los citará para que estén presentes a las once horas del día doce de diciembre, recabando constancias de enterados.
 
 ###### ARTICULO 12.
 
-La Comisión Instaladora, al entregar las credenciales a los presuntos diputados que integren el Colegio Electoral, los citará para que estén presentes a las once horas del día quince de agosto, recabando constancia de enterados.
+(DEROGADO, P.O. 8 DE MAYO DE 1995)
 
 ###### ARTICULO 13.
 
-El día y hora indicados en el artículo anterior, presentes en el Salón de Sesiones, la Comisión Instaladora y los miembros del Colegio Electoral, se procederá a la constitución formal de éste. Al efecto:
+(DEROGADO, P.O. 8 DE MAYO DE 1995
 
-I. La Comisión Instaladora, por conducto de uno de sus Secretarios, dará lectura a la lista e informes recabados de la Comisión Estatal Electoral, a que se refiere el artículo 11 fracción I de esta Ley;
-
-II. Acto continuo, el Presidente de la Mesa Directiva de la Comisión Instaladora exhortará a los presuntos diputados a que, en escrutinio secreto y por mayoría de votos, elijan la Mesa Directiva del Colegio Electoral, que se integrará con un Presidente y un Secretario; y,
-
-III. Hecha la elección de la Mesa Directiva del Colegio Electoral y anunciados los resultados por la Comisión Instaladora, el Presidente de ésta, invitará a los integrantes de aquélla a tomar su lugar en el presidium; hará entrega por inventario de los paquetes electorales, informes y constancias en su poder, dando por concluidas las funciones de la Comisión.
-
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 14.
 
-Los diputados electos celebrarán una reunión previa el día treinta de agosto a las once horas. Será presidida por la Mesa Directiva del Colegio Electoral y se desarrollará conforme al procedimiento siguiente:
+El día y hora indicados en el artículo once, presentes en el Salón de Sesiones, la Comisión Instaladora y los Diputados Electos, procederán a la constitución formal de la Legislatura que habrá de entrar en funciones, mediante el procedimiento siguiente:
 
-I. El Secretario del Colegio Electoral dará lectura a la lista de los diputados que hayan resultado electos y, comprobado el quórum, se dará la palabra al Presidente del Colegio Electoral;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1995)</small>
 
-II. El Presidente del Colegio Electoral pedirá a los diputados asistentes se pongan en pie y dirá: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de diputado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado y si así no lo hiciere, la Nación y el Estado me lo demanden";
+I. La Comisión Instaladora, por conducto de uno de sus Secretarios, dará lectura a la lista de Diputados Electos remitida por el del Consejo General del Instituto Electoral de Michoacán, o en su caso las resoluciones del Tribunal Electoral del Estado;
 
-El Presidente del Colegio Electoral, tomará a los demás miembros integrantes del Congreso la misma protesta.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1995)</small>
 
-III. Acto seguido declarará que el Colegio Electoral ha concluido sus funciones, e invitará a los diputados a elegir la Mesa Directiva del Congreso en escrutinio secreto y por mayoría de votos de acuerdo con la Ley, misma que entrará en funciones en la fecha de instalación de la Legislatura.
+II. Acto continuo, el Presidente de la mesa directiva de la Comisión instaladora exhortará a los diputados electos a que, en escrutinio secreto y por mayoría de votos, elijan la mesa directiva del Congreso, misma que entrará en funciones en la fecha de instalación de la Legislatura;
 
-IV. Dado a conocer el resultado del escrutinio por el Secretario del Colegio Electoral, los integrantes de la Mesa Directiva pasarán a ocupar su sitio en el presidium y el Presidente dirá en voz alta: "El Congreso del Estado de Michoacán de Ocampo, se declara legítimamente constituido"; y,
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1995)</small>
+
+III. Dado a conocer el resultado del escrutinio por el Secretario de la Comisión Instaladora, pasarán a ocupar su sitio en el Presidium los integrantes de la mesa directiva del Congreso. El Presidente pedirá a los diputados electos asistentes se pongan en pie y dirá:
+
+"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado, y si así no lo hiciese, la Nación y el Estado me lo demanden".
+
+El Presidente de la mesa directiva, tomará a los demás diputados electos la misma protesta.
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1995)</small>
+
+IV. Acto seguido el Presidente de la Mesa Directiva dirá en voz alta: " El Congreso del Estado Libre y Soberano de Michoacán de Ocampo se declara legítimamente constituido",
 
 V. Se nombrarán ese mismo día dos comisiones de tres diputados cada una, incluyendo a los Secretarios, que tendrán por objeto participar aquella declaración a los titulares de los Poderes Ejecutivo y Judicial del Estado.
 
@@ -169,7 +173,9 @@ El Presidente y Vicepresidente durarán en su cargo un mes y no podrán ser reel
 
 En la última sesión de cada mes con excepción del último en cada período, el Congreso elegirá para el siguiente mes al Presidente y Vicepresidente quienes asumirán su cargo en la sesión siguiente a la en que hubieran sido designados.
 
-Diez días antes de la apertura del segundo y tercer período ordinario de sesiones de cada Legislatura los diputados designarán en sesión previa al Presidente y Vicepresidente, para el mes de septiembre que corresponda; en la misma sesión serán nombrados los Secretarios y Prosecretarios.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 1995)</small>
+
+Cinco días antes de la apertura de los Períodos de Sesiones Ordinarios del Segundo y Tercer año de ejercicio legal de cada Legislatura, los diputados designarán en Sesión previa al Presidente y Vicepresidente; en la misma sesión serán nombrados los Secretarios y Prosecretarios.
 
 ###### ARTICULO 18.
 
@@ -307,13 +313,17 @@ La Gran Comisión tendrá a su cargo las funciones siguientes:
 
 > <small>(REFORMADA, P.O. 17 DE ABRIL DE 1986)</small>
 
-I. Formular opiniones sobre los asuntos presentados al Congreso, tomando en consideración las propuestas de los diputados, de acuerdo al Distrito que representan.
+I. Formular opiniones sobre los asuntos presentados al Congreso, tomando en consideración las propuestas de los diputados, de acuerdo al Distrito que representan;
 
-II. Proponer al Congreso la designación del Oficial Mayor, del Tesorero y Contador General de Glosa;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1995)</small>
+
+II. Proponer al Congreso la designación del Oficial Mayor, del Tesorero, del Contador de Glosa y Director Jurídico;
 
 III. Proponer a los integrantes de las Comisiones y Comités;
 
-IV. Proponer el proyecto de presupuesto anual de las comisiones;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 1995)</small>
+
+IV. Proponer el proyecto de presupuesto anual del Congreso;
 
 V. Coordinar la realización de las funciones de las Comisiones, proporcionando a éstas el apoyo técnico y la asesoría necesaria para ello, así como requerirlas para que informen con oportunidad sobre los asuntos de su competencia;
 
@@ -323,7 +333,15 @@ VII. Prestar cooperación a la Mesa Directiva y a su Presidente en la conducció
 
 VIII. Vigilar las funciones de las dependencias auxiliares del Congreso y proveer a través de ellas lo necesario para el trabajo de las Comisiones y Comités, y
 
-IX. Las demás que le confieran esta Ley y las disposiciones reglamentarias.
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 1995)</small>
+
+IX.- Proponer al Congreso la designación de los Magistrados que integrarán el Tribunal Electoral del Estado, en los términos establecidos por el Código Electoral del Estado,
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 1995)</small>
+
+X.- Proponer al Congreso la designación del Presidente y los consejeros ciudadanos que integrarán el Consejo General del Instituto Electoral de Michoacán, en los términos previstos por el Código Electoral del Estado;
+
+XI. Las demás que le confieran esta Ley y las disposiciones reglamentarias.
 
 ###### ARTICULO 31.
 
@@ -426,6 +444,8 @@ Programación, Presupuesto y Cuenta Pública,
 Derechos Humanos,
 
 Ecología,
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1990)</small>
 
 Asuntos Indígenas.
 
@@ -591,9 +611,11 @@ La Diputación Permanente se sujetará, además de lo establecido en esta Ley, a
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 69.
 
-El Congreso del Estado tendrá como dependencias auxiliares: Los Comités, la Oficialía Mayor, la Tesorería, y la Contaduría General de Glosa.
+El Congreso del Estado tendrá como dependencias auxiliares: Los Comités, la Oficialía Mayor, la Tesorería, La Contaduría General de Glosa y la Dirección Jurídica.
 
 ###### ARTICULO 70.
 
@@ -697,9 +719,21 @@ REVISION DE LA CUENTA PUBLICA
 
 Las demás entidades pondrán en sus oficinas principales u otras correspondientes a disposición de la Contaduría General de Glosa cuando esta así lo requiera, los libros, documentos y registros comprobatorios y justificativos de las operaciones realizadas, así como los programas y subprogramas correspondientes para la evaluación de su cumplimiento.
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1995)</small>
+
+### CAPITULO VI. DIRECCION JURIDICA
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 1995)</small>
+
 ###### ARTICULO 85.
 
-(DEROGADO POR ARTICULO PRIMERO TRANSITORIO DE LA LEY ORGANICA DE LA CONTADURIA GENERAL DE GLOSA, P.O. 28 DE JULIO DE 1986)
+La dirección Jurídica es la dependencia del Congreso del Estado que asesora a los Órganos del Congreso en el ejercicio de sus funciones y tendrá además las siguientes atribuciones:
+
+I.- Dar seguimiento a los procesos Legislativos del Congreso del Estado;
+
+II. Auxiliar en coordinación con la Secretaría a la Mesa Directiva del Congreso, a la Gran Comisión y a la Diputación Permanente en la preparación y desarrollo de las Sesiones; y
+
+III. Las demás que le confiera la Gran Comisión del Congreso.
 
 ###### ARTICULO 86.
 
@@ -788,3 +822,7 @@ UNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 26 DE MARZO DE 1992.
 
 UNICO. Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE MAYO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
