@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2003-01-10"
+last_updated: "2003-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2003.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -219,23 +219,27 @@ e).- Asociarse individual y libremente para tomar parte en forma pacífica en lo
 
 V.- En su condición de padres, deben ser asistidos en la forma que la Legislación lo disponga para la protección y cuidado de los hijos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 9.
 
 Son obligaciones de los habitantes del Estado:
 
-I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución General de la República y en la presente.
+I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución General de la República y en la presente;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución General de la República, las que señala la presente Constitución y las que establezca la Ley.
+II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución General de la República, las que señala la presente Constitución y las que establezca la Ley;
 
-III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución General de la República, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado.
+III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución General de la República, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado;
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
 
 IV.- Sin son padres de familia, tienen la obligación de educar, proteger y alimentar a sus hijos, propiciando un ambiente familiar armónico y afectivo, que garantice su desarrollo integral.
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+V.- Cuidar y conservar el medio ambiente para mejorar las condiciones de vida de la población.
 
 ###### ARTICULO 10.
 
@@ -279,11 +283,11 @@ No pueden reunirse dos o más poderes en una sola persona o corporación ni depo
 
 El ejercicio del Poder Legislativo se deposita en una Asamblea de representantes del pueblo, que se denomina Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 14.
 
-El Congreso del Estado estará integrado por Diputados que se elegirán cada tres años, electos mediante sufragio universal, libre, secreto, directo, personal e intransferible; dieciséis serán electos en forma directa mediante el principio de mayoría relativa, uno por cada Distrito Electoral en que se divida el territorio del Estado, y en su caso, hasta nueve Diputados asignados por el principio de representación proporcional. Por cada Diputado Propietario se elegirá un Suplente.
+El Congreso del Estado estará integrado por Diputados que se elegirán cada tres años; electos mediante sufragio universal, libre, secreto, directo, personal e intransferible; dieciséis serán electos en forma directa mediante el principio de mayoría relativa, uno por cada Distrito Electoral en que se divida el territorio del Estado, y en su caso, hasta nueve Diputados electos por el principio de representación proporcional en una circunscripción estatal. Por cada Diputado Propietario se elegirá un Suplente.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -293,71 +297,55 @@ Todos los Diputados tendrán idéntica categoría e igualdad de obligaciones y g
 
 Los Diputados, como representantes del pueblo, podrán auxiliar a sus representados y a las comunidades del Estado en sus demandas sociales y de orden administrativo de interés general, a fin de lograr su oportuna solución, por lo que las autoridades administrativas del Estado y los Ayuntamientos deberán atender su intervención y ver por la oportuna resolución de sus promociones.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 15.
 
-La asignación de los Diputados por el principio de representación proporcional, se hará de acuerdo con el procedimiento que se establezca en la Ley, y atendiendo a las definiciones y bases siguientes:
+La asignación de los Diputados por el principio de representación proporcional que le correspondan a cada partido político o coalición, se hará de acuerdo con el procedimiento que se establezca en la Ley, y atendiendo lo siguiente:
 
 I.- Para que los partidos políticos o coaliciones tengan este derecho deberán:
 
-a).- Participar con candidatos a Diputados por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales; y
+a).- Participar con candidatos a Diputados por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales;
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+b).- Haber obtenido por lo menos el cuatro por ciento de la votación estatal emitida en la elección de Diputados por el principio de representación proporcional, y
 
-b).- Haber obtenido por lo menos el cuatro por ciento de la votación estatal emitida en la elección de Diputados;
+c).- Haber obtenido el registro de la lista de candidatos a Diputados por el principio de representación proporcional;
 
-II.- Definiciones:
+II.- El Instituto Estatal Electoral una vez verificados los requisitos de la fracción anterior, asignará un Diputado a cada partido político o coalición que tenga derecho a ello.
 
-a).- Votación estatal emitida: es el número total de votos sufragados en la elección de Diputados menos los votos nulos y los emitidos a favor de personas no registradas como candidatos;
+En caso de que el número de partidos políticos o coaliciones sea mayor que el de diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse;
 
-b).- Votación estatal válida: es igual, a la suma de los votos obtenidos por los partidos políticos o coaliciones que hayan logrado por lo menos el dos por ciento;
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
 
-c).- Votación estatal de cada partido: es el número total de votos obtenidos por cada partido político o coalición en el Estado, en la elección de Diputados;
+III.- Si después de asignadas las diputaciones señaladas en la fracción anterior, aún quedasen diputaciones por asignar, se otorgarán a los partidos políticos o coaliciones, en los siguientes términos:
 
-d).- Porcentaje de votación estatal de cada partido político o coalición: es el resultado que se obtiene de multiplicar la votación estatal de cada partido político o coalición por cien y dividiéndolo entre la votación estatal válida;
+a).- Se obtendrá el porcentaje de votación de los partidos políticos o coaliciones que reúnan los requisitos que señala la fracción I de este artículo, mediante el siguiente procedimiento:
 
-e).- Expectativa de integración al Congreso de cada partido político o coalición: es el resultado que se obtiene de multiplicar el Porcentaje de votación estatal de cada partido político o coalición por el número total de integrantes del Congreso y dividiéndolo entre cien;
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
 
-f).- Diputaciones obtenidas de mayoría por cada partido político o coalición: equivale al número de diputaciones que por el principio de mayoría relativa haya obtenido cada partido político o coalición; y
+1.- Realizará la sumatoria de los votos obtenidos por los partidos políticos o coaliciones, en la elección de Diputados por el principio de representación proporcional, que reúnan los requisitos, y
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+2.- La votación de cada partido se dividirá entre la sumatoria obtenida en el numeral anterior y se multiplicará por cien;
 
-g) Determinación de asignación a la representación proporcional para cada partido político o coalición: se obtiene de restar a la expectativa de integración al Congreso de cada partido político o coalición, el número de diputaciones obtenidas de mayoría, y en su caso, la asignación hecha conforme al inciso c) de la fracción III de este Artículo;
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
+b).- Se procederá a multiplicar el porcentaje de la votación obtenido por los partidos políticos o coaliciones, en la elección de Diputados por el principio de representación proporcional de cada partido político o coalición, por veinticinco;
 
-III.- El Instituto Estatal Electoral asignará las diputaciones por el principio de representación proporcional, a los partidos políticos o coaliciones con derecho a ello, mediante el procedimiento que se establezca en la Ley y atendiendo a las bases siguientes:
+c).- Al resultado obtenido en el inciso anterior se le restarán las diputaciones obtenidas de mayoría y la asignada conforme a la fracción anterior;
 
-a).- Determinará qué partidos políticos o coaliciones cumplen con lo estipulado en la fracción I de este Artículo;
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
 
-b).- Determinará el porcentaje de votación estatal de cada partido político o coalición;
+d).- Se asignará una diputación de representación proporcional por cada número entero que se haya obtenido en la operación señalada en el inciso anterior, procediendo en estricto orden de prelación conforme al porcentaje obtenido, de cada partido político o coalición, en los términos del párrafo segundo de la fracción II de este artículo e inciso a) de esta fracción, y
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+e).- Hechas las asignaciones anteriores, si aún existieren diputaciones por asignar, éstas se otorgarán a los que conserven los restos mayores, una vez deducidas las que se asignaron en el inciso d) anterior;
 
-c) Primeramente asignará un Diputado a todo aquel partido político o coalición que tenga derecho a ello, y no haya obtenido constancia de mayoría alguna.
+> <small>(F. DE E., P.O. 2 DE ENERO DE 2004)</small>
 
-En caso de que el número de partidos políticos o coaliciones sea mayor que el de Diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse, y
+IV.- Ningún partido político o coalición podrá tener más de dieciséis Diputados por ambos principios, y
 
-d).- Posteriormente y en el supuesto de que existieran aún diputaciones por asignar, se procederá de la manera siguiente:
+(F. DE E., P.O. 2 DE ENERO DE 2004) (F. DE E., P.O. 12 DE MARZO DE 2004) (F. DE E., P.O. 7 DE MAYO DE 2004)
 
-1.- Determinará la expectativa de integración al Congreso de cada partido político o coalición;
-
-2.- Determinará el número de diputaciones que le corresponda a cada partido político o coalición conforme a lo establecido en el inciso g) de la fracción II de este Artículo;
-
-3.- (DEROGADO, P.O. 6 DE OCTUBRE DE 1997)
-
-4.- Asignará a los partidos políticos o coaliciones, alternadamente, tantas diputaciones como números enteros haya obtenido en la operación realizada conforme al inciso g) de la fracción II de este Artículo; y
-
-5.- Si después de efectuadas las operaciones anteriores aún quedasen diputaciones por asignar, se otorgarán a los partidos políticos o coaliciones que conserven los restos mayores, después de deducir los números enteros que sirvieron como base en la asignación anterior.
-
-IV.- En ningún caso un partido político o coalición podrá contar con más de dieciséis diputaciones por ambos principios;
-
-V.- (DEROGADA, P.O. 6 DE OCTUBRE DE 1997) ,y (sic)
-
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
-
-VI.- La asignación de los Diputados que le corresponda a cada partido político o coalición, la hará el Instituto Estatal Electoral de entre los candidatos a la diputación de mayoría relativa de cada uno de ellos y que no haya obtenido la constancia respectiva, de acuerdo a una relación de los mismos que se haga en base al porcentaje obtenido de la votación distrital válida, en orden descendente.
+V.- La asignación de los Diputados por el principio de representación proporcional que le corresponda a cada partido político o coalición, la hará el Instituto Estatal Electoral, en orden de prelación, de la lista que registre cada partido político o coalición, en los términos que señala la Ley.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -601,9 +589,15 @@ c).- Preparar y cumplir el proceso de entrega recepción de una Legislatura a ot
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1998)</small>
 
-XXXV.- Formar su reglamento interior y expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos a los Poderes del Estado.
+XXXV.- Formar su reglamento interior y expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos a los Poderes del Estado;
 
-### CAPITULO IV.
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+XXXVI. - Elaborar y aprobar el Plan de Desarrollo Legislativo, en los términos de esta Constitución.
+
+### CAPITULO IV.. DE LA PLANEACION LEGISLATIVA
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 28.
 
@@ -709,17 +703,21 @@ Los asuntos que sean materia de acuerdo económico, se sujetarán a los trámite
 
 Los proyectos de ley y los decretos aprobados por el Congreso, se remitirán al Ejecutivo firmados por el Presidente y el Secretario o los Secretarios del Congreso.
 
-> <small>(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ### CAPITULO II.. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
 ###### ARTICULO 38.
 
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2001)
+El Plan de Desarrollo Legislativo se aprobará en el segundo período de sesiones del inicio de una Legislatura y deberá contener la Agenda Legislativa Básica, la cual se elaborará bajo los principios de economía funcional, eficiencia y democrático.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 39.
 
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2001)
+El Plan de Desarrollo Legislativo se elaborará, controlará y coordinará conforme a los procedimientos y plazos que establezca la Ley.
+
+El Plan de Desarrollo Legislativo, se elaborará sin perjuicio del derecho contenido en el Artículo 28 de esta Constitución.
 
 ## TITULO CUARTO
 
@@ -1673,7 +1671,7 @@ Las sanciones económicas no podrán exceder de tres tantos de los beneficios ob
 
 ###### ARTICULO 95.
 
-No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el párrafo Primero del Artículo 94, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el Párrafo Primero del Artículo 94, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el Artículo 94, se procederá de acuerdo con lo dispuesto en dicho Precepto.
 
@@ -1941,29 +1939,29 @@ Por esta sola vez los términos a que se refieren los artículos 18 y 42 de esta
 
 Mexicali, B. Cfa., 15 de Agosto de 1953.
 
+LIC. EVARISTO BONIFAZ GOMEZ,
+
 Dip. Presidente,
 
-LIC. EVARISTO BONIFAZ GOMEZ
+MIGUEL CALETTE ANAYA,
 
 Dip. Vicepresidente,
-
-MIGUEL CALETTE ANAYA
 
 DIPUTADOS:
 
 DR. FRANCISCO DUEÑAS MONTES
 
-AURELIO CORRALES Jr.
+AURELIO CORRALES JR.
 
 LIC. FRANCISCO H. RUIZ JR.
 
-Dip. Secretario,
-
 LIC. ALEJANDRO LAMADRID JR.
 
-Dip. Prosecretario,
+Dip. Secretario,
 
-CELEDONIO APODACA BARRERA
+CELEDONIO APODACA BARRERA,
+
+Dip. Prosecretario.
 
 En tal virtud y con fundamento en los artículos 7 siete del Decreto de 10 diez de noviembre de 1952 mil novecientos cincuenta y dos publicado en el Diario Oficial de la Federación (número 17 del Tomo CXCV), correspondiente al día 21 veintiuno del mismo mes y Primero Transitorio de la Constitución del Estado de Baja California, promúlguese por Bando Solemne y publíquese en el Periódico Oficial y en los lugares públicos.
 
@@ -1971,11 +1969,11 @@ Dado en el Palacio del Poder Ejecutivo en Mexicali, Estado de Baja California a 
 
 El Gobernador Provisional del Estado,
 
-LIC. ALFONSO GARCIA GONZALEZ
+LIC. ALFONSO GARCIA GONZALEZ.
 
-El Secretario General de Gobierno
+El Secretario General de Gobierno,
 
-LIC. JOSE ELIAS CASTRO
+LIC. JOSE ELIAS CASTRO.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
@@ -2476,3 +2474,31 @@ UNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publ
 P.O. 10 DE ENERO DE 2003.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE NOVIEMBRE DE 2003.
+
+DECRETO No. 214 POR EL QUE SE APRUEBA LA REFORMA AL ARTICULO 9 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 14 DE NOVIEMBRE DE 2003.
+
+DECRETO No. 215 POR EL QUE SE APRUEBA LA INICIATIVA QUE ADICIONA UNA FRACCION XXXVI AL ARTICULO 27 Y MODIFICA LA DENOMINACION DEL CAPITULO IV Y REFORMA LOS ARTICULOS 38 Y 39, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 14 DE NOVIEMBRE DE 2003.
+
+DECRETO No. 237 POR EL QUE SE REFORMAN LOS ARTICULOS 14 Y 15 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA.
+
+###### ARTÍCULO PRIMERO.
+
+Una vez aprobada la presente reforma por el Poder Legislativo envíense a los Ayuntamientos de la entidad en cumplimiento del artículo 112 de la Constitución Política del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez obtenido el voto aprobatorio de los Ayuntamientos hágase la declaratoria correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
