@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2002-02-26"
+last_updated: "2003-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2003.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -721,17 +721,19 @@ II.- Auxilio de la fuerza publica.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 78.
 
-Las facultades del superior jerárquico y de la dirección para imponer las sanciones que esta Ley prevé, se sujetaran a lo siguiente:
+Las facultades del superior jerárquico y de la Contraloría Gubernamental para imponer las sanciones que prevé esta ley, se sujetarán a lo siguiente:
 
-I.- Prescribirán en un año, si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en Ciudad Victoria, o si la responsabilidad no fuese estimable en dinero.
+I.- Prescribirán en un año las responsabilidades cuando el beneficio obtenido o el daño causado por el infractor no excede de quinientas veces el salario mínimo diario vigente en la capital del Estado, o si la responsabilidad no fuese estimable en dinero.
 
-El plazo de prescripción se contará a partir del momento en que la Autoridad competente tenga conocimiento de la causal de responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
+II.- Prescribirán en dos años las responsabilidades cuando el beneficio obtenido o el daño causado por el infractor exceda de quinientas veces el salario mínimo diario vigente en la capital del Estado, y no se trate de los supuestos previstos en la siguiente fracción; y
 
-II.- En los demás casos, preiscribirán (sic) en tres años.
+III.- Prescribirán en tres años las responsabilidades consideradas como graves. Se estiman como graves las responsabilidades administrativas que sean equiparables a las conductas previstas en el Título Octavo, Capítulos II, III, IV, V, VI, VII, VIII, IX, X, XI, XII y XIII, del Código Penal para el Estado, excepto los supuestos señalados en los artículos 217 fracción I, 219 fracción I, 221 fracción I y 223 fracción I de ese ordenamiento. También se consideran como graves las responsabilidades equiparables a las conductas previstas en el Título Noveno, Capítulo Único, de dicho ordenamiento.
+
+El plazo de prescripción se contará a partir del día siguiente a aquel en que hubiere ocurrido en la causa de responsabilidad, o a partir del momento en que hubiese cesado, si fue de carácter continuo.
 
 ## TITULO CUARTO
 
@@ -912,3 +914,7 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan las disposiciones que se opongan a los preceptos de este Decreto.
 
 Artículo Tercero.- La presentación de la declaración inicial de situación patrimonial de los Diputados a la LVIII Legislatura del Estado y de sus funcionarios se hará ante la Gran Comisión dentro del plazo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado. En el supuesto de que ya se hubiere realizado ante la Contraloría Gubernamental, esta dependencia la remitirá a la Gran Comisión dentro de los siete días siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 22 DE MAYO DE 2003
+
+Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
