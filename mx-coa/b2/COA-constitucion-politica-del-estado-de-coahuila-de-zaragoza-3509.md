@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1973-05-16"
+last_updated: "1974-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 1973.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 1974.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -284,27 +284,41 @@ Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominar�
 
 El Congreso del Estado se compondrá cuando menos de nueve diputados electos en su totalidad cada tres años por los ciudadanos Coahuilenses.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 1951)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1974)</small>
 
 ###### Artículo 34.
 
-La elección de Diputados se hará dividiendo en Distritos Electorales el Estado. Se elegirá un Diputado Propietario y un Suplente por cada ochenta mil habitantes, o por cada fracción que pase de cuarenta mil, sirviendo de base el último censo practicado.
+La elección de Diputados se hará dividiendo en distritos Electorales el Estado. Se elegirá un diputado propietario y un suplente por cada 100,000 habitantes, o por cada fracción que pase de 50,000, sirviendo como base el último censo practicado.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1974)</small>
 
 ###### Artículo 35.
 
-La elección para diputados será directa y en los términos que disponga la Ley Electoral.
+La elección para diputados será directa, con sujeción a lo dispuesto en el artículo anterior, y se complementará, además, con diputados de partido, apegándose en ambos casos a lo que disponga la Ley Electoral y, en el segundo, a las siguientes reglas:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1938)</small>
+I. Todo Partido Político Nacional o Estatal, que en la elección de diputados respectiva, obtengan el cuatro por ciento de la votación total registrada en el Estado, tendrá derecho a que se acrediten, de sus candidatos, a un diputado, y a uno más, hasta dos como máximo, si obtiene el ocho por ciento o más de los votos emitidos.
+
+II. Si un Partido Político Nacional o Estatal logra mayoría de sufragios en dos o más distritos electorales, no tendrá derecho a que le sean reconocidos diputados de partido; pero si la mayoría la obtiene un solo distrito, tendrá derecho a que se le acredite un diputado de partido, siempre que obtenga cuando menos el cuatro por ciento mencionado en la fracción anterior.
+
+III. Los diputados de partido serán acreditados por riguroso orden de acuerdo con el número decreciente de sufragios que hayan logrado en relación a los demás candidatos del mismo partido en todo el Estado.
+
+IV. Solamente podrán acreditar diputados en los términos de este artículo, los Partidos Políticos Nacionales o Estatales que hubieren obtenido su registro conforme a la Ley Electoral Federal y a la Ley Electoral del Estado de Coahuila, por lo menos con un año de anterioridad al día de la elección.
+
+V. Los diputados de mayoría y los de partido, siendo representantes del pueblo de Coahuila como lo establece el artículo 33, tendrán la misma categoría e iguales derechos y obligaciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1974)</small>
 
 ###### Artículo 36.
 
-Para ser Diputado Propietario o Suplente se requiere:
+Para ser diputado propietario o suplente se requiere:
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 1967)</small>
 
 I. Ser Ciudadano coahuilense y avecindado en el Estado cuando menos tres años continuos inmediatamente anteriores al día de la elección.
 
-II. Tener veinticinco años cumplidos.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1974)</small>
+
+II. Tener 21 años cumplidos el día de la elección.
 
 III. No estar en ejercicio activo en el Ejército Nacional ni tener mando en la Policía del Distrito, en que se pretenda su elección, cuando menos noventa días antes de ella.
 
@@ -340,13 +354,17 @@ Los Diputados recibirán las dietas que les haya señalado la Legislatura anteri
 
 Los Diputados, en funciones, sólo desempeñarán cargos de la Federación, del Estado o del Municipio, con licencia de la Legislatura o de la Diputación Permanente, pero entonces cesarán en su cargo, mientras dure la nueva comisión.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1974)</small>
+
 ###### Artículo 44.
 
-Los Diputados tendrán las juntas preparatorias necesarias para el examen y calificación de sus respectivas elecciones, y resolverán las dudas que ocurran respecto de ellas. El año en que deba renovarse el Congreso, concurrirán a Junta Pública los Diputados nuevamente electos y los individuos de la Diputación Permanente, seis días antes del señalado para comenzar las sesiones ordinarias, funcionando de Presidente y Secretario de esta Asamblea, los que lo fueren de dicha Diputación. Esta expondrá su dictamen sobre la legitimidad de las credenciales y calidad de los Diputados y las dudas que se suscitaren sobre estos dos puntos, se resolverán definitivamente por la misma Asamblea a pluralidad de votos, sin que lo tengan los individuos de la Diputación Permanente.
+Los diputados efectuarán las juntas preparatorias que fueren necesarias para el examen y calificación de sus respectivas elecciones. El año en que deba renovarse el Congreso, concurrirán a junta pública los diputados electos y los miembros de la Diputación Permanente, seis días antes del señalado para el comienzo de las sesiones ordinarias, fungiendo como Presidente y Secretarios de esta Asamblea los que lo fueren de dicha Diputación. La Diputación Permanente emitirá su dictamen sobre la legitimidad de las credenciales y calidad de los Diputados electos por mayoría de sufragios y determinará los Diputados de Partido que deban acreditarse como arreglo al artículo 35 de esta Constitución. Las dudas que se suscitaren sobre las dos cuestiones anteriores, serán resueltas en forma definitiva por la Asamblea de Diputados de elección directa, a mayoría de votos, sin que en la votación intervengan los miembros de la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1974)</small>
 
 ###### Artículo 45.
 
-Si los miembros de la Diputación Permanente no concurrieren, los Diputados que deban formar el nuevo Congreso procederán por sí solos al examen y calificación de sus respectivas elecciones, resolviendo sobre ellas a pluralidad de votos.
+Si los miembros de la Diputación Permanente no concurrieren, los diputados que deban formar el nuevo Congreso, electos por mayoría de sufragios, procederán a examinar y calificar sus respectivas elecciones y acreditar los Diputados de Partido que proceda, conforme al artículo 35 de esta Constitución, resolviendo ambos asuntos a mayoría de votos.
 
 ### CAPITULO II.
 
@@ -1374,7 +1392,7 @@ Se suprime en el Estado el recurso de casación en materia criminal y en asuntos
 
 ### CAPITULO UNICO.
 
-De la Inviolavilidad (sic) y Reforma de la Constitución.
+De la Inviolavilidad (sic) y reforma de la Constitución.
 
 ## TITULO SEPTIMO.
 
@@ -1809,3 +1827,9 @@ P.O. 16 DE MAYO DE 1973.
 PRIMERO.- Se derogan todas las disposiciones legales que se opongan a este decreto.
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 1974.
+
+PRIMERO.- Se derogan todas las disposiciones legales que se opongan a este decreto.
+
+SEGUNDO.- El presente decreto entrará en vigor 30 días después de su publicación en el Periódico Oficial del Estado.
