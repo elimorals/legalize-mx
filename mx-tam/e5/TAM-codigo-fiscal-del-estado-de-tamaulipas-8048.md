@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "1991-12-28"
+last_updated: "1993-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1993.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -79,7 +79,7 @@ A las actividades derivadas de la administración de las contribuciones federale
 
 Las contribuciones se clasifican en impuestos, derechos y contribuciones especiales, los que se definen de la siguiente manera:
 
-I.- Impuestos son las contribuciones establecidas en ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II y III de este artículo.
+I.- Impuestos son las contribuciones establecidas en ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II y III de este Artículo.
 
 II.- Derechos son las contraprestaciones establecidas en Ley por los servicios que presta el Estado en sus funciones de derecho público, así como por el uso o aprovechamiento de los bienes de dominio público del Estado.
 
@@ -87,7 +87,7 @@ III.- Contribuciones especiales son las prestaciones cuyo presupuesto de hecho s
 
 Cuando sean organismos descentralizados estatales quienes presten los servicios señalados en la fracción II del mismo, las contribuciones correspondientes tendrán la naturaleza de derechos.
 
-Los recargos, las sanciones, los gastos de ejecución y de cobranza y de indemnización a que se refiere el antepenúltimo párrafo del artículo 22 de este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluídos los accesorios, con excepción de lo dispuesto en el artículo 1o.
+Los recargos, las sanciones, los gastos de ejecución y de cobranza y de indemnización a que se refiere el antepenúltimo párrafo del artículo 22 de este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con excepción de lo dispuesto en el artículo 1o.
 
 ###### ARTICULO 4.
 
@@ -121,11 +121,9 @@ Dichas contribuciones se determinarán conforme a las disposiciones vigentes en 
 
 Corresponde a los contribuyentes la determinación de las contribuciones a su cargo, salvo disposición expresa en contrario. Si las autoridades fiscales deben hacer la determinación, los contribuyentes les proporcionarán la información necesaria dentro de los 15 días siguientes a la fecha de su causación.
 
-Cuando para determinar las contribuciones y sus accesorios, se haga referencia al salario mínimo, deberá entenderse como el salario mínimo general diario vigente en la Capital del Estado, en la fecha en que se causen y las cantidades que resulten, se ajustarán de conformidad con lo siguiente:
+> <small>(REFORMADO P.O. 6 DE ENERO DE 1993)</small>
 
-Desde $ 0.01 a $ 1,000 a centenas de pesos.
-
-De $ 1,000.01 en adelante a miles de pesos.
+Cuando para determinar las contribuciones y sus accesorios, se haga referencia al salario mínimo deberá entenderse como el relativo al mínimo general vigente en la capital del Estado, en la fecho (sic) en que se causen.
 
 Para efectuar el ajuste, las cantidades se aumentarán o disminuirán según sea el caso, a la unidad de ajuste más próxima; cuando la cantidad se encuentre a la misma distancia de dos unidades, el ajuste se hará a la más baja.
 
@@ -311,7 +309,9 @@ IV.- La indemnización a que se refiere el penúltimo párrafo del artículo 22 
 
 Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
 
-Para determinar los créditos fiscales cuyo importe sea o comprenda fracciones del peso, se efectuarán ajustando su monto a la unidad más próxima. Tratándose de cantidades terminadas hasta en cincuenta centavos, el ajuste se hará a la unidad inmediata inferior.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1993)</small>
+
+Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso, no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad del peso inmediato inferior, y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad del peso inmediato superior.
 
 ###### ARTICULO 22.
 
@@ -459,7 +459,7 @@ Los comprobantes que se deben expedir a las personas que adquieran bienes o usen
 
 ###### ARTICULO 31.
 
-Las personas obligadas a llevar contabilidad deberán conservarlas en su domicilio fiscal a disposición de las autoridades fiscales.
+Las personas obligadas a llevar contabilidad deberán conservarla en su domicilio fiscal a disposición de las autoridades fiscales.
 
 Las personas que no están obligadas a llevar contabilidad deberán conservar en su domicilio a disposición de las autoridades, toda documentación relacionada con el cumplimiento de sus obligaciones fiscales.
 
@@ -859,7 +859,7 @@ Al valor de los actos o actividades estimados presuntivamente por alguno de los 
 
 ###### ARTICULO 62.
 
-Para comprobar los ingresos así como el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente correspondan a operaciones realizadas por éste cuando:
+Para comprobar los ingresos así como el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente correspondan a operaciones realizadas por éste cuando:
 
 I.- Se refieren al contribuyente designado por su nombre, denominación o razón social.
 
@@ -1039,7 +1039,7 @@ I.- El 50% de las contribuciones omitidas, cuando el infractor las pague junto c
 
 II.- El 100% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después del cierre del acta final de la visita, pero antes de que las autoridades le notifiquen la resolución que determine el monto de las contribuciones que omitió.
 
-No será aplicable lo dispuesto en las fracciones I y II de este Artículo cuando en la comisión de la infracción se den algunos de los supuestos de la fracción II del artículo 75.
+No será aplicable lo dispuesto en las fracciones I y II de este artículo cuando en la comisión de la infracción se den algunos de los supuestos de la fracción II del artículo 75.
 
 III.- Hasta el 150% de las contribuciones omitidas en los demás casos.
 
@@ -1181,7 +1181,7 @@ Son infracciones a las disposiciones fiscales, en que pueden incurrir los funcio
 
 I.- No exigir el pago total de las contribuciones y sus accesorios; recaudar, permitir u ordenar que se reciba el pago en forma diversa a la prevista en las disposiciones fiscales.
 
-II.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales a que se practicaron visitas en el domicilio fiscal o incluir en las actas relativas datos falsos.
+II.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas en el domicilio fiscal o incluir en las actas relativas datos falsos.
 
 III.- Exigir una prestación que no esté prevista en las disposiciones fiscales, aun cuando se aplique a la realización de las funciones públicas.
 
@@ -1351,11 +1351,11 @@ Se impondrá sanción de tres meses a seis años de prisión, al que altere en s
 
 ###### ARTICULO 110.
 
-Las sanciones previstas en los dos artículos que preceden, se aplicarán aún cuando el autor del delito no se haya propuesto obtener algún beneficio.
+Las sanciones previstas en los dos artículos que preceden, se aplicarán aun cuando el autor del delito no se haya propuesto obtener algún beneficio.
 
 ###### ARTICULO 111.
 
-Se impondrá sanción de tres meses a seis años de prisión, al particular o empleado público que, a sabiendas de que una forma valorada o numerada, una placa, tarjetón o cualquier otro medio de control fiscal, fue falsificado, lo posea, venda, o ponga en circulación, en su caso, adhiera en documentos, objetos o libros, para ostentar el pago de alguna prestación fiscal.
+Se impondrá sanción de tres meses a seis años de prisión al particular o empleado público que, a sabiendas de que una forma valorada o numerada, una placa, tarjetón o cualquier otro medio de control fiscal, fue falsificado, lo posea, venda, o ponga en circulación, en su caso, adhiera en documentos, objetos o libros, para ostentar el pago de alguna prestación fiscal.
 
 ###### ARTICULO 112.
 
@@ -1403,7 +1403,7 @@ III.- Afecten el interés jurídico de terceros, en los casos a que se refiere e
 
 ###### ARTICULO 118.
 
-La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal Fiscal del Estado, el recurso de oposición al procedimiento administrativo de ejecución, deberá agotarse previamente a la promoción del juicio respectivo ante dicho Tribunal. Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que corresponda.
+La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal Fiscal del Estado, el recurso de oposición al procedimiento administrativo de ejecución, deberá agotarse previamente a la promoción de juicio respectivo ante dicho Tribunal. Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que corresponda.
 
 ###### ARTICULO 119.
 
@@ -1441,7 +1441,7 @@ III.- Constancia de notificación del acto impugnado, excepto cuando el promoven
 
 IV.- Las pruebas documentales que ofrezca y el dictamen pericial, en su caso.
 
-Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos, y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
+Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
 
 La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
 
@@ -1527,7 +1527,7 @@ El recurrente podrá decidir esperar la resolución expresa o impugnar hasta ant
 
 ###### ARTICULO 131.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
+La resolución del recurso se fundará en Derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
 
 La resolución expresará con claridad los actos que se modifiquen y si la modificación es parcial, se indicará el monto del crédito fiscal correspondiente.
 
@@ -1663,11 +1663,11 @@ En todo caso de negativa o violación a la suspensión del procedimiento adminis
 
 Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante el procedimiento administrativo de ejecución.
 
-Los accesorios que se generen con posterioridad al inicio del procedimiento administrativo de ejecución relacionados con el crédito fiscal inicial, se harán efectivos sin necesidad de nuevo requerimiento, ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de liquidaciones respectivas.
+Los accesorios que se generen con posterioridad al inicio del procedimiento administrativo de ejecución relacionados con el crédito fiscal inicial, se harán efectivos sin necesidad de nuevo requerimiento, ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas.
 
 Se podrá practicar embargo precuatorio para garantizar el interés fiscal, antes de la fecha en el que el crédito fiscal esté determinado o sea exigible, cuando a juicio de la autoridad hubiera peligro de que el obligado se ausente, enajene u oculte sus bienes, o realice cualquier maniobra tendiente a evadir el cumplimiento. Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
 
-El embargo quedará sin efecto si la autoridad no emite, dentro del plazo de un año contado desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de este capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de la resolución y de la notificación de la misma en el expediente de ejecución. (sic) Si el particular garantiza el interés fiscal en los términos del artículo 139, se levantará el embargo.
+El embargo quedará sin efecto si la autoridad no emite, dentro del plazo de un año contado desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de este capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de la resolución y de la notificación de la misma en el expediente de ejecución. Si el particular garantiza el interés fiscal en los términos del artículo 139, se levantará el embargo.
 
 El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al tiempo de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución.
 
@@ -1803,15 +1803,17 @@ Cuando los bienes señalados para la traba estuvieran ya embargados por otras au
 
 Las controversias que surjan entre el fisco estatal y el fisco federal sobre preferencia en el cobro de los créditos a que éste Código se refiere, se decidirán tomando en cuenta las garantías constituidas y conforme a las siguientes reglas:
 
-I.- Los créditos fiscales por impuestos sobre la propiedad raíz serán preferentes tratándose de los frutos de los bienes inmuebles respectivos o del producto de la venta de éstos, y
+I.- Los créditos fiscales por impuestos sobre la propiedad raíz serán preferentes tratándose de los
+
+frutos de los bienes inmuebles respectivos o del producto de la venta de éstos, y
 
 II.- En los demás casos, la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
 
 Para determinar la preferencia respecto de los créditos, en casos diversos de los anteriores, se estará a las siguientes reglas:
 
-I.- Los créditos fiscales del gobierno estatal son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria y prendaria, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los trabajadores de acuerdo con la ley federal del trabajo.
+I.- (Sic) Los créditos fiscales del gobierno estatal son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria y prendaria, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los trabajadores de acuerdo con la ley federal del trabajo.
 
-II.- Para que sea aplicable la excepción a que se refiere la fracción anterior, será requisito indispensable que las garantías hipotecarias y, en su caso, las prendarias, se encuentren debidamente inscritas en el registro público que corresponda.
+II.- (Sic) Para que sea aplicable la excepción a que se refiere la fracción anterior, será requisito indispensable que las garantías hipotecarias y, en su caso, las prendarias, se encuentren debidamente inscritas en el registro público que corresponda.
 
 III.- La vigilancia y exigibilidad por la cantidad liquidada del derecho del crédito fiscal cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer la reclamación de preferencia.
 
@@ -1819,7 +1821,7 @@ III.- La vigilancia y exigibilidad por la cantidad liquidada del derecho del cr�
 
 El embargo de créditos será notificado directamente por la oficina ejecutora a los deudores del embargado, para que no hagan el pago de las cantidades respectivas a éste sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
 
-Si en el cumplimiento de lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el registro público que corresponda, la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes a la notificación, firme la escritura de pago y cancelación o el documento en que debe constar el finiquito.
+Si en el cumplimiento de lo dispuesto en el primer párrafo de este Artículo, se paga un crédito cuya cancelación deba anotarse en el registro público que corresponda, la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes a la notificación, firme la escritura de pago y cancelación o el documento en que debe constar el finiquito.
 
 En caso de abstención del titular de los créditos embargados, transcurrido el plazo indicado, el Tesorero General del Estado o la autoridad que éste designe, firmará la escritura o documentos relativos que corresponda, para los efectos procedentes.
 
@@ -2106,3 +2108,11 @@ Se derogan las disposiciones que se opongan a lo previsto por este Código.
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los seis días del mes de diciembre de mil novecientos noventa y uno.- El Gobernador Constitucional del Estado, ING. AMERICO VILLAREAL GUERRA.- El Secretario General de Gobierno, LIC. ANIBAL PEREZ VARGAS.- Rúbricas.
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 6 DE ENERO DE 1993
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
