@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-responsabilidades-de-los-servidores-publicos-del-26101"
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-30"
-last_updated: "2002-09-30"
+last_updated: "2004-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 30 de septiembre de 2002.
 
@@ -75,9 +75,11 @@ No podrá imponerse dos veces por una sola conducta, sanciones de la misma natur
 
 ### CAPITULO II. DE LA RESPONSABILIDAD POLITICA
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 5º.
 
-Incurren en responsabilidad política el Gobernador del Estado, los Diputados a la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados Unitarios, el Magistrado Presidente y los Magistrados del Tribunal Electoral, los Titulares de la Administración Pública Central, Jueces del Fuero Común, el Titular del Organo Superior de Fiscalización, Directores Generales o sus equivalentes de los Organismos Descentralizados del Estado o de los Municipios, Empresas de Participación Estatal o Municipal Mayoritaria o Fideicomisos Públicos del Estado o Municipios y Miembros de los Ayuntamientos; el Consejero Presidente y los Consejeros Electorales del Consejo General, así como el Secretario General del Instituto Electoral de Quintana Roo, por actos u omisiones que perjudiquen los intereses públicos fundamentales o afecten su buen despacho, de acuerdo a lo establecido en el Artículo 170 de la Constitución Política del Estado.
+Incurren en responsabilidad política el Gobernador del Estado, los Diputados a la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados Unitarios, el Magistrado Presidente y los Magistrados del Tribunal Electoral, los Titulares de la Administración Pública Central, Jueces del Fuero Común, el Titular del Órgano Superior de Fiscalización, Directores Generales o sus equivalentes de los Organismos Descentralizados del Estado o de los Municipios, Empresas de Participación Estatal o Municipal Mayoritaria o Fideicomisos Públicos del Estado o Municipios y Miembros de los Ayuntamientos; el Consejero Presidente y los Consejeros Electorales del Consejo General, así como el Secretario General del Instituto Electoral de Quintana Roo, por actos u omisiones que perjudiquen los intereses públicos fundamentales o afecten su buen despacho, de acuerdo a lo establecido en el Artículo 160 de la Constitución Política del Estado.
 
 ###### ARTICULO 6º.
 
@@ -225,11 +227,13 @@ Si la votación fuere en el sentido de que no es responsable el servidor públic
 
 ### CAPITULO II. DE LA DECLARATORIA DE PROCEDENCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 27.
 
-La Legislatura conocerá mediante el procedimiento de Declaratoria de Procedencia, de las denuncias y querellas de los particulares o requerimientos del Ministerio Público, a fin de que pueda procederse por la vía penal en contra de los servidores públicos a que se refiere el Artículo 170 de la Constitución Política del Estado.
+La Legislatura conocerá mediante el procedimiento de Declaratoria de Procedencia, de las denuncias y querellas de los particulares o requerimientos del Ministerio Público, a fin de que pueda procederse por la vía penal en contra de los servidores públicos a que se refiere el Artículo 160 de la Constitución Política del Estado.
 
-También conocerá por medio de este procedimiento, de las Declaratorias de Procedencia que le permitan las Cámaras del Honorable Congreso de la Unión, en términos del Artículo 111 de la Constitución Política de los Estados Unidos Mexicanos
+También conocerá por medio de este procedimiento, de las Declaratorias de Procedencia que le permitan las Cámaras del Honorable Congreso de la Unión, en términos del Artículo 111 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 28.
 
@@ -255,7 +259,9 @@ Cuando no exista querella, denuncia o requerimiento del Ministerio Público, si 
 
 Para proceder penalmente contra el Gobernador del Estado, Diputados y Magistrados del Tribunal Superior de Justicia del Estado, en los términos del Artículo 111 de la Constitución Política de los Estados Unidos Mexicanos; la Legislatura del Estado, al recibir de las Cámaras del H. Congreso de la Unión la declaración correspondiente, procederá, conforme a sus atribuciones y en los términos de la Constitución Política del Estado, a declarar si procede la homologación de la Declaratoria del Congreso de la Unión y consecuentemente el retiro de la protección que la propia Constitución Política del Estado otorga a tales servidores públicos, a fin de que sean enjuiciados penalmente.
 
-Cuando se siga proceso penal a un servidor público de los mencionados en el Artículo 170 de la Constitución Política del Estado, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, la Legislatura Estatal a través del Presidente de la Mesa Directiva o de la Diputación Permanente, en su caso, librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se resuelve si ha lugar a proceder.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2004)</small>
+
+Cuando se siga proceso penal a un servidor público de los mencionados en el Artículo 160 de la Constitución Política del Estado, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, la Legislatura Estatal a través del Presidente de la Mesa Directiva o de la Diputación Permanente, en su caso, librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se resuelve si ha lugar a proceder.
 
 ### CAPITULO III
 
@@ -319,9 +325,11 @@ Todo lo no previsto por esta Ley y en las discusiones y votaciones se observará
 
 En el juicio político a que se refiere esta Ley, los acuerdos y determinaciones de la Legislatura se tomarán en sesión pública, excepto en la que se presente la acusación o cuando las buenas costumbres o el interés general, exijan que la audiencia sea secreta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 43.
 
-Cuando en el curso del procedimiento incoado a un servidor público de los mencionados en el Artículo 170 de la Constitución Política del Estado Libre y Soberano de Quintana Roo; se presente nueva denuncia en su contra, se procederá respecto a ella de acuerdo a lo dispuesto en esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando de ser posible, la acumulación procesal.
+Cuando en el curso del procedimiento incoado a un servidor público de los mencionados en el Artículo 160 de la Constitución Política del Estado Libre y Soberano de Quintana Roo; se presente nueva denuncia en su contra, se procederá respecto a ella de acuerdo a lo dispuesto en esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando de ser posible, la acumulación procesal.
 
 Si la acumulación fuese procedente, la comisión formulará en un solo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
 
@@ -882,3 +890,9 @@ VICTOR M. ALCERRECA SANCHEZ
 LA SECRETARIA DE LA CONTRALORIA DEL ESTADO DE QUINTANA ROO
 
 LIC. SONIA LETICIA ELÍAS CORAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 4 DE JUNIO DE 2004.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
