@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1998-08-12"
+last_updated: "1998-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 1998.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -615,6 +615,22 @@ XXXVII.- Las demás que le confieren las leyes y reglamentos.
 
 Los regidores y el síndico tienen facultades de inspección y vigilancia, en los ramos a su cargo, por lo que no podrán dar órdenes a los funcionarios, empleados municipales y público en general. Los Regidores sólo podrán ejercitar funciones ejecutivas cuando actúen como cuerpo colegiado en las sesiones del Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+Para el desempeño de sus funciones, el Síndico contará con un cuerpo de colaboradores cuyo número será determinado conforme al presupuesto que anualmente le sea asignado. Para todos los efectos legales, se entiende que el Síndico es el superior jerárquico de sus colaboradores y que estos son empleados municipales.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+En todo caso, los servidores públicos encargados de auxiliar al Síndico en materias técnicas o científicas, deberán acreditar los siguientes requisitos.
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II.- Tener grado de Licenciatura o autorización para ejercer como práctico, en los términos del artículo 64 de la Ley de Profesiones para el Estado.
+
+III.- Gozar de buena reputación;
+
+IV.- No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, salvo que se trate de delitos contra la propiedad u otro tipo que lastime seriamente la buena fama en concepto público; en cuyo caso, inhabilitará para el cargo cualquiera que haya sido la pena.
+
 ###### ARTICULO 31.
 
 El día de su instalación el Ayuntamiento determinará el número de Comisiones necesarias para el cumplimiento de sus funciones, así como los integrantes de las mismas. Cada Comisión se podrá integrar con uno o tres miembros, conforme al reglamento interior y serán permanentes. El Ayuntamiento podrá crear comisiones especiales, para conocer de un asunto determinado, dichas comisiones serán transitorias.
@@ -675,6 +691,10 @@ I.- Autorizar en unión del Presidente Municipal, el Síndico y Tesorero, el mov
 
 II.- Intervendrá en todos los actos, contratos, remates y enajenaciones que se refieran al patrimonio municipal.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+La autorización que expida el Síndico, de acuerdo a la fracción primera, no limita de ninguna forma el ejercicio de sus atribuciones, ni exime de responsabilidad a los encargados de dichos actos.
+
 ###### ARTICULO 36.
 
 La Comisión de Obras Públicas y Servicios Públicos intervendrá en las cuestiones relativas a la construcción y mantenimiento de obras públicas, aseo, alineamiento de calles y predios, alumbrado público, nomenclatura de calles, pavimentación, mejoramiento ambiental, ornato de calles, plazas, caminos, edificios, monumentos y demás lugares públicos municipales; asimismo, vigilará que la prestación de los servicios públicos municipales se realice eficazmente y que los concesionarios cumplan con las obligaciones pactadas en los contratos de concesión.
@@ -684,6 +704,26 @@ La Comisión de Obras Públicas y Servicios Públicos intervendrá en las cuesti
 ARTICULO 36 A.- Los síndicos municipales tendrán a su cargo la vigilancia del patrimonio municipal.
 
 En el Presupuesto de Egresos de cada municipio deberán preverse recursos suficientes para que el Síndico pueda cumplir con eficacia las funciones que le corresponden.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+El Síndico podrá practicar revisiones a los documentos que habrán de conformar la cuenta pública. Cada cuatro meses deberá presentar al Ayuntamiento un informe de las revisiones efectuadas. La falta de cumplimiento de este precepto será causa de responsabilidad.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+Para los efectos del párrafo anterior, los titulares de la Administración Municipal a que se les requiera información, deberán de proporcionarla inmediatamente.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+Las revisiones que practique la sindicatura contendrán el análisis de las partidas de ingresos y egresos, y en los casos que así lo considere hará una revisión legal, física, numérica o contable del gasto público municipal pudiéndose extender al examen de la exactitud y justificación de los cobros y pagos hechos, cuidando que todas las cantidades estén debidamente comprobadas conforme a precios y tarifas autorizadas o de mercado según proceda.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+Si al hacer la revisión encontrare irregularidades de cualquier tipo, el Síndico solicitará a la dependencia que corresponda, que en un plazo de 10 días hábiles rinda ante él, las aclaraciones pertinentes, si no le son remitidas o no fueren suficientes para justificar las irregularidades, el Síndico rendirá inmediatamente al Ayuntamiento un informe detallado para que éste determine las responsabilidades administrativas, civiles o penales que correspondan.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+En los casos no previstos con respecto al Síndico le serán aplicables, en lo conducente, las disposiciones relativas a los regidores.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
@@ -713,9 +753,21 @@ XI.- Revisar la situación de los rezagos fiscales para que éstos sean liquidad
 
 XII.- Asociarse a cualquier comisión encomendada a los Regidores cuando la importancia de la misma y los intereses del Municipio, así lo ameriten;
 
-XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y
+XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y (sic)
 
-XIV.- Las demás que establezcan las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+XIV.- Nombrar y remover libremente a sus colaboradores, previo informe que proporcione al Ayuntamiento. La opinión de este en ningún caso será vinculante;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+XV.- Solicitar datos, informes y documentación en general a fin de hacer las compulsas necesarias con las empresas o entidades, privadas o públicas, participantes en las actividades que se revisan;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)</small>
+
+XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente;
+
+XVII.- Las demás que establezcan las leyes y reglamentos.
 
 ### CAPITULO VI. DE LAS JUNTAS MUNICIPALES Y LAS COMISARIAS DE POLICIA
 
@@ -2798,3 +2850,7 @@ P.O. 12 DE AGOSTO DE 1998.
 PRIMERO.- El presente decreto entrará en vigor al día 10 de Octubre de 1998.
 
 SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de Turuachi, se estará a lo estipulado por el Artículo 44 del Código Municipal para el Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 1998.
+
+Artículo Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
