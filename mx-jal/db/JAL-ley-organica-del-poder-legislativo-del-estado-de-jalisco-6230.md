@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1992-01-16"
+last_updated: "1992-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO, REGLAMENTARIA DEL TITULO TERCERO DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1992.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -323,9 +323,11 @@ El Congreso elegirá también en los mismos términos del Artículo 26, Comision
 
 Las Comisiones que designe el Presidente para dar cumplimiento al ceremonial cuando se hagan necesarias, tendrán carácter transitorio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
 ###### Artículo 31.
 
-El Congreso deberá designar por lo menos las siguientes Comisiones de carácter permanente:
+El Congreso deberá designar, por lo menos, las siguientes Comisiones de carácter permanente:
 
 I. Estudios Legislativos, Puntos Constitucionales y Reglamentos;
 
@@ -341,11 +343,15 @@ VI. Inspección;
 
 VII. Responsabilidades;
 
-VIII. Educación Pública y Bellas Artes;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+VIII. Educación Pública;
 
 IX. Calificadora de Asuntos Electorales;
 
-X. Asuntos Agrarios;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+X. Desarrollo Agrícola Forestal;
 
 XI. Trabajo y Previsión Social;
 
@@ -353,7 +359,11 @@ XII. Peticiones;
 
 XIII. Tesorería;
 
-XIV. Obras Públicas;
+7
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+XIV. Desarrollo Urbano;
 
 XV. Higiene y Salud Pública;
 
@@ -372,6 +382,50 @@ XIX. De Asistencia Social; y
 > <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 1983)</small>
 
 XX. De Protección y Mejoramiento Ambiental
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+XXI. Desarrollo Pecuario;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+XXII. Desarrollo Pecuario;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+XXIII. Fomento Turístico;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+XXIV. Fomento Artesanal;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+XXV. Vialidad y Tránsito;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+XXVI. Comunicaciones y Transportes;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+XXVII. Derechos Humanos,
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+XXVIII. Asuntos Indígenas;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+XXIX. Cultura; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+XXX.Planeación del Desarrollo.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+En el trabajo de las Comisiones, podrán intervenir los Diputados que no formen parte de las mismas, quienes podrán participar únicamente con voz.
 
 Además de las Comisiones citadas, el Congreso podrá designar otras, también de carácter permanente, mediante el acuerdo de las dos terceras partes de los integrantes de la Legislatura, que tendrán las facultades que expresamente les señale el acuerdo que las creó.
 
@@ -529,9 +583,11 @@ Con la formulación del Reglamento Interior de la Contaduría Mayor de Hacienda.
 
 Corresponde a la Comisión de Responsabilidades, el conocimiento de los asuntos en los que el Congreso deba resolver, erigiéndose en jurado de acusación y de sentencia, conforme lo preceptuado por el Art. 49, de la Constitución Política del Estado; o en jurado de procedencia, conforme a lo dispuesto por el Art. 50 de la propia Constitución, y con sujeción a los procedimientos que establece el título IX de esta Ley.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
 ###### Artículo 39.
 
-Corresponde a la Comisión de Educación Pública y Bellas Artes el conocimiento de los asuntos que se relacionen con la educación pública del Estado, con la Universidad de Guadalajara y con los casos previstos por las Fracciones XXI y XXII del Artículo 23 de la Constitución Política del Estado.
+Corresponde a la Comisión de Educación Pública, el conocimiento de los asuntos que se relacionen con la Educación Pública del Estado y con la Universidad de Guadalajara.
 
 ###### Artículo 40.
 
@@ -563,9 +619,11 @@ VI. Dictaminar sobre las propuestas que hubiesen presentado los partidos políti
 
 Para conocer de los dictámenes relativos a esta Comisión, el Congreso deberá previamente erigirse en Colegio Electoral.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
 ###### Artículo 41.
 
-Corresponde a la Comisión de Asuntos Agrarios el conocimiento de los asuntos relacionados con los planes de desarrollo agropecuario de explotación rural y mejoramiento de los ejidatarios y pequeños propietarios agrícolas o ganaderos, que sean de la competencia del Estado de conformidad con las disposiciones de la Ley de Reforma Agraria.
+Corresponde a la Comisión de Desarrollo Agrícola y Forestal, el conocimiento de los asuntos, relacionados con la normatividad que se derive de los planes de desarrollo agrícola, mejoramiento de los ejidatarios y pequeños propietarios agrícolas, que sean competencia del Estado, de conformidad con las disposiciones de la Legislación Agraria y demás aplicables; así como el estudio y dictamen de los asuntos que deba conocer el Congreso en materia de conservación, protección, restauración y aprovechamiento de los recursos forestales, con base en la Legislación Forestal y en los convenios que de la misma se deriven.
 
 ###### Artículo 42.
 
@@ -599,11 +657,19 @@ VI. Remitir y rendir cuentas de las sanciones administrativas impuestas por el C
 
 VII. Formular, dentro de la segunda quincena de noviembre, el presupuesto de egresos del Congreso que regirá durante el siguiente año.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 45.
 
-Corresponde a la Comisión de Obras Públicas, el estudio y dictamen de los asuntos que deba conocer el Congreso en materia de habitación popular, vivienda rural, urbanismo y planes reguladores.
+Corresponde a la Comisión de Desarrollo Urbano, el conocimiento de los asuntos relativos a la normatividad necesaria para establecer las bases legales al Gobierno del Estado y a los Ayuntamientos de los Municipios a efecto de que dichas Entidades, en el ámbito de su competencia:
+
+I. Formulen, aprueben y administren la zonificación y planes de desarrollo urbano;
+
+II. Participen en la creación y administración de reservas territoriales, y en la elaboración de los programas de vivienda;
+
+III. Controlen y vigilen la utilización del suelo; y
+
+IV. Intervengan en la regularización de la tenencia de la tierra urbana.
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1992)</small>
 
@@ -656,6 +722,84 @@ II. Los que se refieren a los planes de desarrollo asistencial que sean de compe
 ###### Artículo 47-C.
 
 Corresponde a la Comisión de Protección y Mejoramiento Ambiental el conocimiento de los Asuntos relacionados con la prevención y control de la contaminación, así como la conservación y restauración del ambiente en el estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+###### Artículo 47-D.
+
+Corresponde a la Comisión de Desarrollo Pecuario, el conocimiento de los asuntos relacionados con los planes y programas de desarrollo pecuario, que sean de competencia del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+###### Artículo 47-E.
+
+Corresponde a la Comisión de Desarrollo Pesquero, conocer de los asuntos que conciernan a este ramo, que sean competencia del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+###### Artículo 47-F.
+
+Corresponde a la Comisión de Fomento Turístico, conocer dfe los asuntos relacionados con:
+
+I. La normatividad relativa a la planeación y programación de la actividad turística del Estado;
+
+II. Los convenios que celebre el Gobierno del Estado con los de otras Entidades Federativas, para incrementar el turismo y mejorar los servicios correlativos en el Estado; y
+
+III. Las bases normativas para concesionar la explotación de rutas y recorridos tutísticos, de competencia estatal.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+###### Artículo 47-G.
+
+Corresponde a la Comisión de Fomento Artesanal, el conocimiento de los asuntos que se refieran a la normatividad y a los planes y programas para impulsar, ampliar y descentralizar la actividad artesanal a los municipios de la entidad, o a las diversas regiones en que se divida el Estado; así como lo relativo a las reformas o adiciones a las normas ya existentes sobre artesanías, que sean competencia de la Entidad.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+###### Artículo 47-H.
+
+Corresponde a la Comisión de Vialidad y Tránsito, el conocimiento de los asuntos. Legislativos relacionados con el control y el orden de la circulación vehicular y peatonal en las vías públicas del Estado y de los Municipios de la Entidad; con los convenios que celebre el Gobierno del Estado con los Ayuntamientos o los Concejos de los Municipios para asumir las funciones que les corresponden de acuerdo con la Ley de Tránsito del Estado; así como con los que impliquen modificaciones, reformas o adiciones a la mencionada Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+###### Artículo 47-I.
+
+Corresponde a la Comisión de Comuncaciones y Transportes, el conocimiento de los asuntos de normatividad legislativa relacionados con la construcción y funcionamiento de las vías de comunicación estatales; con la prestación directa o concesionada del transporte de personas y cosas utilizando las referidas vías estatales de comunicación; y con la modificación, reforma o adición de las normas relativas, vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+###### Artículo 47-J.
+
+Corresponde a la Comisión de Derechos Humanos, el conocimiento de los asuntos relacionados con la normatividad aplicable en el Estado, para la protección, defensa y conservación, de los derechos humanos de los individuos y grupos sociales que regula la Constitución Política de los Estados Unidos Mexicanos, así como dictaminar sobre las propuestas para integrar los organismos de la materia, en el ámbito de la competencia Estatal.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+###### Artículo 47-K.
+
+Corresponde a la Comisión de Asuntos Indígenas, conocer de las iniciativas relacionadas con:
+
+I. El desarrollo socio-económico de los grupos indígenas existentes en el Estado, o asentados en el territorio de la entidad;
+
+II. La creación de organismos e instituciones públicas que tengan como objetivos la protección, preservación y desarrollo de sus lenguas, culturas, usos y costumbres, recursos y formas de organización social;
+
+III. Con los planes y programas de difusión de la cultura indígenas del Estado, o que en ellos se incluya la protección de la ecología del lugar donde se ubiquen dichos grupos; y
+
+IV. Las demás que, en relación con la materia, se le turnen por acuerdo de la asamblea.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+###### Artículo 47-L.
+
+Corresponde a la Comisión de Cultura, el conocimiento de los asuntos relacionados con la conservación, el fomento y estímulo de las manifestaciones de creatividad artística e intelectual, en el Estado; y, conjuntamente con la de Educación, dictaminar el otorgamiento de recompensas a quienes hayan prestado s4ervicios de importancia a la humanidad o al Estado, y declarar beneméritos de éste a quienes hubiesen distinguido en la prestación de servicios eminentes a la Nación y al Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1992)</small>
+
+###### Artículo 47-M.
+
+Corresponde a la Comisión para la Planeación del Desarrollo, conocer de los asuntos relacionados con:
+
+I. El conocimiento de los asuntos referentes a la normatividad de las acciones requeridas para llevar a cabo la Planeación del Desarrollo del Estado; y
+
+II. La normatividad que se derive de la programación sectorial, regional y especial que de esta se derive, incluyendo los proyectos específicos que planeen realizar.
 
 ###### Artículo 48.
 
@@ -1739,6 +1883,12 @@ DECRETO QUE REFORMA ART. 90.
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
+P.O. 10 DE OCTUBRE DE 1989
+
+DECRETO QUE REFORMA ART. 90.
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
 P.O. 10 DE ABRIL DE 1990
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
@@ -1748,3 +1898,7 @@ P.O. 9 DE ABRIL DE 1991
 Artículo Primero. Se deroga la Ley Orgánica de la Contaduría Mayor de Hacienda y su Reglamento, expedidos por el congreso del Estado de Jalisco el 22 de julio de 1972, mediante Decretos números 8844 y 8845, y publicados en el Periódico Oficial El Estado de Jalisco los días 12 y 15 de agosto de 1972, respectivamente, en lo que se opongan al presente Decreto, y en tanto se expida el Reglamento Interior.
 
 Artículo Segundo. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 3 DE OCTUBRE DE 1992
+
+Unico. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
