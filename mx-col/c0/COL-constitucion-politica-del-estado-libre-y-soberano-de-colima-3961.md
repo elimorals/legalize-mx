@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1966-01-22"
+last_updated: "1967-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1967.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -1017,11 +1017,9 @@ De la Educación Pública.
 
 ###### Artículo 104.
 
-El Estado se dividirá para su administración Política y Judicial en nueve Municipios, teniendo por cabeceras (sic) cada uno la población que lleva su nombre y son los siguientes: Colima, Manzanillo, Villa de Alvarez, Minatitlán, Comala, Tecomán, Ixtlahuacán, Coquimatlán y Cuauhtémoc.
+El Estado se dividirá para su Administración Política en diez Municipios, teniendo por cabecera cada uno la población que lleva su nombre y son los siguientes: Colima, Cuauhtémoc, Villa de Alvarez, Coquimatlán, Comala, Tecomán, Manzanillo, Ixtlahuacán, Minatitlán y Armería.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1964)</small>
-
-Tratándose de elecciones para Diputados Propietarios y Suplentes al Congreso Local, los Municipios de Villa de Alvarez y Minatitlán, formarán un solo Distrito Electoral, así también los Municipios de Tecomán e Ixtlahuacán. A su vez, el Municipio de Cuauhtémoc y la Zona Rural del Municipio de Colima, integrarán un solo Distrito Electoral.
+Tratándose de elecciones para Diputados Propietarios y Suplentes al Congreso Local, los Municipios de Villa de Alvarez, Minatitlán, formarán un solo Distrito Electoral, así como también los Municipios de Tecomán e ixtlahuacán.- A su vez, el Municipio de Cuauhtémoc y la Zona Rural del Municipio de Colima, integrarán un solo Distrito Electoral, comprendiendo el Primer Distrito Electoral, únicamente la ciudad de Colima.- Igualmente los Municipios de Manzanillo y Armería formarán un solo Distrito Electoral.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1949)</small>
 
@@ -1041,7 +1039,7 @@ Las congregaciones que tengan menos de doscientos habitantes, se considerarán a
 
 ## TITULO IX.. DE LA DIVISION POLITICA DEL ESTADO. (SIC)
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE Y 5 DE NOVIEMBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1967)</small>
 
 ###### Artículo 107.
 
@@ -1704,3 +1702,11 @@ P.O. 22 DE ENERO DE 1966.
 ###### ARTICULO UNICO.
 
 Este Decreto empezará a surtir sus efectos a partir de la fecha de su expedición.
+
+P.O. 3 DE JUNIO DE 1967.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
+
+###### ARTICULO PRIMERO.
+
+La presente Reforma entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
