@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1999-02-15"
+last_updated: "1999-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1998.
-
-ULTIMA MODIFICACION MISCELANEA FISCAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -84,6 +82,14 @@ a) Reciban servicios personales independientes, o usen o gocen temporalmente bie
 
 b) Adquieran desperdicios para ser utilizados como insumo de su actividad industrial o para su comercialización.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+c) Reciban servicios de autotransporte terrestre de bienes, prestados por personas físicas o morales.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+d) Reciban servicios prestados por comisionistas, cuando éstos sean personas físicas.
+
 III. Sean personas físicas o morales que adquieran bienes tangibles, o los usen o gocen temporalmente, que enajenen u otorguen residentes en el extranjero sin establecimiento permanente o base fija en el país.
 
 No efectuarán la retención a que se refiere este artículo las personas físicas o morales que estén obligadas al pago del impuesto exclusivamente por la importación de bienes.
@@ -127,6 +133,10 @@ b).- Medicinas de patente y productos destinados a la alimentación a excepción
 2.- Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos, así como los concentrados, polvos, jarabes, esencias o extractos de sabores que al diluirse permitan obtener refrescos.
 
 3.- Caviar, salmón ahumado y angulas.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+4.- Saborizantes, microencapsulados y aditivos alimenticios.
 
 > <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
 
@@ -214,65 +224,83 @@ La Federación, el Distrito Federal, los Estados, los Municipios, los organismos
 
 La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos descentralizados y las instituciones públicas de seguridad social, tendrán la obligación de pagar el impuesto únicamente por los actos que realicen que no den lugar al pago de derechos, salvo que se trate de derechos estatales o municipales por el servicio o suministro de agua potable.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-La Federación y sus organismos descentralizados efectuarán igualmente la retención en los términos del artículo 1o.-A de esta Ley cuando adquieran bienes, los usen o gocen temporalmente o reciban servicios, de personas físicas, o de residentes en el extranjero sin establecimiento permanente o base fija en el país en el supuesto previsto en la fracción III del mismo artículo. Los Estados, el Distrito Federal y los Municipios, así como sus organismos descentralizados no efectuarán la retención a que se refiere este párrafo.
+La Federación y sus organismos descentralizados efectuarán igualmente la retención en los términos del artículo 1o.-A de esta Ley cuando adquieran bienes, los usen o gocen temporalmente o reciban servicios, de personas físicas, o de residentes en el extranjero sin establecimiento permanente o base fija en el país en el supuesto previsto en la fracción III del mismo artículo. También se efectuará la retención en los términos del artículo 1o.-A de esta Ley, en los casos en que la Federación y sus organismos descentralizados reciban servicios de autotransporte terrestre de bienes prestados por personas morales. Los Estados, el Distrito Federal y los Municipios, así como sus organismos descentralizados no efectuarán la retención a que se refiere este párrafo.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 Para los efectos de este impuesto, se consideran residentes en territorio nacional, además de los señalados en el Código Fiscal de la Federación, las personas físicas o las morales residentes en el extranjero que tengan uno o varios establecimientos en el país, por todos los actos o actividades que en los mismos realicen.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 4o.
 
-El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley, la tasa que corresponda según sea el caso. Se entiende por impuesto acreditable un monto equivalente al del impuesto al valor agregado que hubiera sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación de bienes o servicios, en el mes o en el ejercicio al que corresponda.
+El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley, la tasa que corresponda según sea el caso. Se entiende por impuesto acreditable el monto que resulte conforme al siguiente procedimiento:
 
-Para que sea acreditable el impuesto al valor agregado deberán reunirse los siguientes requisitos:
+I.- El contribuyente determinará las adquisiciones que hubiera efectuado en el periodo por el que se determina el pago provisional, en el periodo por el que se realice el ajuste a los pagos provisionales o en el ejercicio, según corresponda, de materias primas y productos terminados o semiterminados, a que se refieren los artículos 22, fracción II, primer párrafo y 108, fracción II, primer párrafo, de la Ley del Impuesto sobre la Renta, según corresponda, que identifique exclusivamente con la enajenación de bienes o con la prestación de servicios, en territorio nacional, cuando por estos actos o actividades esté obligado al pago del impuesto establecido en esta Ley o les sea aplicable la tasa del 0%, incluso cuando dichas adquisiciones las importe.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+Asimismo, el contribuyente identificará el monto equivalente al del impuesto al valor agregado que le hubiera sido trasladado y el propio impuesto que él hubiese pagado con motivo de la importación, por las adquisiciones señaladas en el párrafo anterior, efectuadas en el periodo de que se trate, que sean deducibles para efectos del impuesto sobre la renta.
 
-I. Que corresponda a bienes o servicios estrictamente indispensables para la realización de actos distintos de la importación, por los que se deba pagar el impuesto establecido en esta Ley o a los que se les aplique la tasa del 0%. Para los efectos de esta Ley, se consideran estrictamente indispensables las erogaciones efectuadas por el contribuyente que sean deducibles para los fines del impuesto sobre la renta, aun cuando no se esté obligado al pago de este último impuesto. Tratándose de erogaciones parcialmente deducibles para fines del impuesto sobre la renta, únicamente será acreditable el impuesto trasladado en la proporción en que dichas erogaciones sean deducibles para fines del citado impuesto sobre la renta.
+Los dispuesto en el párrafo anterior no será aplicable tratándose del monto equivalente al del impuesto al valor agregado que hubiera sido trasladado al contribuyente ni del propio impuesto que él hubiese pagado en la importación, con motivo de sus gastos, inversiones, adquisiciones de títulos valor, certificados o cualquier otro título, que representen o amparen la propiedad de bienes diferentes de los señalados en el primer párrafo de esta fracción.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+No será aplicable lo dispuesto en el primer y segundo párrafo de esta fracción, tratándose de la enajenación de bienes tangibles cuando éstos se exporten y de la prestación de servicios que se considere exportada en los términos del artículo 29, fracción IV, inciso b) de esta Ley. En estos casos se aplicará lo dispuesto en el cuarto párrafo de este artículo.
 
-El impuesto trasladado al contribuyente correspondiente a los gastos efectuados con motivo de la importación, se podrá acreditar en la proporción en que sea acreditable el impuesto pagado en esa importación.
+II.- El contribuyente determinará las adquisiciones que hubiera efectuado en el periodo por el que se determina el pago provisional, en el periodo por el que se realice el ajuste a los pagos provisionales o en el ejercicio, según corresponda, de materias primas y productos terminados o semiterminados, a que se refieren los artículos 22, fracción II, primer párrafo y 108, fracción II, primer párrafo, de la Ley del Impuesto sobre la Renta, según corresponda, que identifique exclusivamente con la enajenación de bienes o con la prestación de servicios, en territorio nacional, cuando por estos actos o actividades no esté obligado al pago del impuesto establecido en esta Ley, incluso cuando dichas adquisiciones las importe.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+Asimismo, el contribuyente identificará el monto equivalente al del impuesto al valor agregado que le hubiera sido trasladado y el propio impuesto que él hubiese pagado con motivo de la importación, por las adquisiciones señaladas en el párrafo anterior efectuadas, en el periodo de que se trate, que sean deducibles para efectos del impuesto sobre la renta.
 
-Tratándose de inversiones o gastos en períodos preoperativos, se podrá estimar el destino de los mismos y acreditar el impuesto que corresponda a las actividades por las que se vaya a estar obligado al pago del impuesto. Si de dicha estimación resulta diferencia de impuesto por error en el cálculo de gastos o inversiones, que no exceda del 10% del impuesto pagado, no se cobrarán recargos cobrarán recargos (sic), siempre que el pago se efectúe espontáneamente.
+III.- Del monto equivalente al total del impuesto al valor agregado que hubiera sido trasladado al contribuyente y del propio impuesto que él hubiese pagado con motivo de la importación, en el periodo por el que se determina el pago provisional, en el periodo por el que se realice el ajuste a los pagos provisionales o en el ejercicio, según se trate, correspondiente a erogaciones deducibles para efectos del impuesto sobre la renta, adicionado con el monto a que se refiere el sexto párrafo de este artículo, se disminuirán los montos del impuesto identificados en los términos de las fracciones I y II que anteceden y, en su caso, el que se hubiera identificado con la exportación de conformidad con el cuarto párrafo de este artículo y el que se hubiera identificado de conformidad con el quinto párrafo del mismo.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+La cantidad que resulte en los términos del párrafo anterior se multiplicará por el factor que resulte en el periodo por el que se determina el pago provisional, en el periodo por el que se realice el ajuste a los pagos provisionales o en el ejercicio, según corresponda, determinado de conformidad con el procedimiento previsto en el siguiente párrafo.
 
-Cuando se esté obligado al pago del impuesto al valor agregado o cuando sea aplicable la tasa del 0% sólo por una parte de los actos o actividades, únicamente se acreditará el impuesto correspondiente a dicha parte. Dicho acreditamiento se determinará aplicando al total del impuesto acreditable conforme esta Ley, el porcentaje que el valor de los actos o actividades por los que sí deba pagarse el impuesto o se aplique la tasa del 0% represente en el valor total de los que el contribuyente realice en su ejercicio.
+El factor a que se refiere el párrafo anterior se determinará dividiendo el valor de los actos o actividades por los que se deba pagar el impuesto establecido en esta Ley y el de aquéllos a los que se les aplique la tasa del 0%, correspondientes al periodo por el que se determina el pago provisional, al periodo por el que se realice el ajuste a los pagos provisionales o al ejercicio, según corresponda, entre el valor total de los actos o actividades realizados por el contribuyente en dichos periodos o ejercicio, según corresponda. Para efectos de este párrafo, el contribuyente no incluirá en los valores antes señalados:
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+a).- Las importaciones de bienes o servicios.
 
-Tratándose de la exportación, el contribuyente podrá acreditar exclusivamente el impuesto identificado con dicho acto o actividad. En su caso, el acreditamiento del impuesto que corresponda a sus demás actos o actividades estará a lo dispuesto en el párrafo anterior, sin considerar el valor que corresponda a las exportaciones en la determinación del porcentaje.
+b).- Las enajenaciones de sus activos fijos y gastos y cargos diferidos a que se refiere el artículo 42 de la Ley del Impuesto sobre la Renta, así como la enajenación del suelo, salvo que sea parte del activo circulante del contribuyente, aun cuando se haga a través de certificados de participación inmobiliaria.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+c).- Los dividendos percibidos en moneda, en acciones, en partes sociales o en títulos de crédito, siempre que en este último caso su enajenación no implique la transmisión de dominio de un bien tangible o del derecho para adquirirlo, salvo que se trate de personas morales que perciban ingresos preponderantemente por este concepto.
 
-Tratándose del impuesto que se hubiese trasladado al contribuyente en la enajenación de bienes cuyo destino sea el otorgarlos, directa o indirectamente, para el uso o goce temporal de personas que realicen preponderantemente actividades exentas del pago del impuesto en los términos de la presente Ley, dicho impuesto será acreditable en la proporción que represente cada una de las contraprestaciones que se reciban por el otorgamiento del uso o goce, respecto del valor de los bienes otorgados en uso o goce, a que se refiere el artículo 12 de esta Ley, hasta agotar dicho acreditamiento.
+d).- Las enajenaciones de acciones o partes sociales, documentos pendientes de cobro y títulos de crédito, siempre que su enajenación no implique la transmisión de dominio de un bien tangible o del derecho para adquirirlo.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+e).- Las enajenaciones de moneda nacional y extranjera, así como la de piezas de oro o de plata que hubieran tenido tal carácter y la de piezas denominadas “onza troy”.
 
-II.- Que haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes a que se refiere la fracción III del artículo 32 de esta Ley.
+f).- Los intereses percibidos ni la ganancia cambiaria.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+g).- Las exportaciones de bienes tangibles y de servicios prestados por residentes en el país que se consideren exportados en los términos del artículo 29, fracción IV, inciso b) de esta Ley.
 
-III.- Que hayan sido efectivamente erogados los pagos por la adquisición de bienes o servicios de que se trate, en los términos de los artículos 24, fracción IX y 136, fracción X de la Ley del Impuesto sobre la Renta, cuando el impuesto haya sido trasladado por contribuyentes sujetos a los regímenes establecidos en el Título II-A o en las Secciones II y III del Capítulo VI del Título IV de la citada Ley.
+h).- Las enajenaciones realizadas a través de arrendamiento financiero. En estos casos el valor que se deberá excluir para efectos de la determinación del factor a que se refiere esta fracción, será el valor del bien objeto de la operación que se consigne expresamente en el contrato respectivo.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+i).- Las enajenaciones de bienes adquiridos por dación en pago o adjudicación judicial o fiduciaria, siempre que dichas enajenaciones sean realizadas por contribuyentes que por disposición legal no puedan conservar en propiedad los citados bienes.
 
-IV.- Que, tratándose del impuesto trasladado que se hubiese retenido conforme al artículo 1o.-A, dicha retención se entere en los términos y plazos establecidos en esta Ley.
+j).- Los que se deriven de operaciones financieras derivadas a que se refiere el artículo 16-A del Código Fiscal de la Federación.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, administradoras de fondos para el retiro, arrendadoras financieras, sociedades de ahorro y préstamo, uniones de crédito, empresas de factoraje financiero, casas de bolsa, casa de cambio, sociedades financieras de objeto limitado y las sociedades para el depósito de valores, para calcular el factor a que se refiere esta fracción no deberán excluir los conceptos señalados en los incisos d), e), f) y j) que anteceden.
+
+IV.- El monto identificado en términos de la fracción I de este artículo y, en su caso, del cuarto párrafo del mismo, adicionado con el monto que resulte en los términos de la fracción III que antecede, será el impuesto acreditable del periodo por el que se determina el pago provisional, del periodo por el que se realiza el ajuste a los pagos provisionales o del ejercicio, según corresponda.
+
+Tratándose de erogaciones parcialmente deducibles para fines del impuesto sobre la renta, únicamente se considerará para los efectos de la determinación del impuesto acreditable, el monto equivalente al del impuesto que hubiera sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación, en la proporción en que dichas erogaciones sean deducibles para fines del citado impuesto sobre la renta.
+
+Respecto de inversiones o gastos en periodos preoperativos, se podrá estimar el destino de los mismos y acreditar el impuesto que corresponda a las actividades por las que se vaya a estar obligado al pago del impuesto. Si de dicha estimación resulta diferencia de impuesto que no exceda del 10% del impuesto pagado, no se cobrarán recargos, siempre que el pago se efectúe espontáneamente.
+
+El contribuyente determinará las adquisiciones que hubiera efectuado en el periodo por el que se determina el pago provisional, en el periodo por el que se realice el ajuste a los pagos provisionales o en el ejercicio, según corresponda, de materias primas, productos terminados o semiterminados, así como los gastos e inversiones, incluso de importaciones, que identifique exclusivamente con la exportación de bienes tangibles y con los servicios que preste que se consideren exportados en los términos del artículo 29, fracción IV, inciso b) de esta Ley. El contribuyente identificará el monto equivalente al del impuesto al valor agregado que le hubiera sido trasladado y el propio impuesto que él hubiese pagado con motivo de la importación, por dichas adquisiciones, gastos e inversiones, siempre que sean deducibles para efectos del impuesto sobre la renta.
+
+El contribuyente identificará el monto equivalente al del impuesto al valor agregado que le hubiese sido trasladado en la enajenación de bienes cuyo destino sea el otorgarlos, directa o indirectamente, para el uso o goce temporal de personas que realicen preponderantemente actos o actividades por las que no se esté obligado al pago del impuesto establecido en esta Ley.
+
+El monto del impuesto identificado conforme al párrafo anterior en el periodo por el que se determina el pago provisional, en el periodo por el que se realiza el ajuste a los pagos provisionales o en el ejercicio, según corresponda, se multiplicará por el factor que resulte de dividir cada contraprestación que se reciba en el periodo que corresponda por el otorgamiento del uso o goce de esos bienes, entre el valor de los bienes otorgados en uso o goce, a que se refiere el artículo 12 de esta Ley. El resultado que se obtenga será el monto que se podrá adicionar en los términos de la fracción III, primer párrafo de este artículo, hasta agotar el monto del impuesto al valor agregado que en las mencionadas enajenaciones le hubiera sido trasladado al contribuyente.
+
+Para que el impuesto al valor agregado sea acreditable en los términos de este artículo, adicionalmente deberán reunirse los siguientes requisitos:
+
+a).- Que haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes a que se refiere la fracción III del artículo 32 de esta Ley.
+
+b).- Que hayan sido efectivamente erogados los pagos por la adquisición de bienes o servicios de que se trate, en los términos de los artículos 24, fracción IX y 136, fracción X de la Ley del Impuesto sobre la Renta, cuando el impuesto haya sido trasladado por contribuyentes sujetos a los regímenes establecidos en el Título II-A o en las Secciones II y III del Capítulo VI del Título IV de la citada Ley.
+
+c).- Que, tratándose del impuesto trasladado que se hubiese retenido conforme al artículo 1o.-A, dicha retención se entere en los términos y plazos establecidos en esta Ley.
 
 El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión de sociedades el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando esta última desaparezca, se estará a lo dispuesto en el penúltimo párrafo del artículo 14-A del Código Fiscal de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 1995)</small>
-
-Para acreditar el impuesto al valor agregado en la importación de bienes tangibles, cuando se hubiera pagado la tasa del 10%, el contribuyente deberá poder comprobar que los bienes fueron utilizados o enajenados en la región fronteriza.
+Para que sea acreditable en los términos de este artículo el impuesto al valor agregado en la importación de bienes tangibles, cuando se hubiera pagado la tasa del 10%, el contribuyente deberá comprobar que los bienes fueron utilizados o enajenados en la región fronteriza.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -283,6 +311,10 @@ Los contribuyentes sujetos al régimen establecido en el Título II-A o en la Se
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 Los contribuyentes que en los términos de los artículos 67-G y 119-J de la Ley del Impuesto sobre la Renta, dejen de tributar conforme al régimen simplificado o al régimen simplificado a las actividades empresariales, para hacerlo de conformidad con el Título II o Título IV, Capítulo VI, Sección I de la citada Ley, acreditarán o, en su caso, trasladarán el impuesto derivado de las operaciones a crédito efectuadas con anterioridad a la fecha en que dejaron de tributar en los citados regímenes, que no se hayan considerado como entradas o salidas en los mismos, en la fecha en que efectivamente se efectúe su pago o cobro, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Para efectos de este artículo se considerará impuesto acreditable el que corresponda en términos del artículo 4o. de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -306,21 +338,49 @@ Los contribuyentes efectuarán pagos provisionales mediante declaración que pre
 
 Las sociedades escindidas efectuarán los pagos provisionales a su cargo, a partir del mes en que ocurra la escisión, en los mismos plazos en que la sociedad escindente los realizaba en el ejercicio en que se escindió. En el caso de la sociedad que surja con motivo de una fusión, ésta efectuará los pagos provisionales a su cargo, a partir del mes en que ocurra la fusión, en los mismos plazos en que los efectuaba la sociedad que le hubiera aportado activos en mayor cuantía.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el periodo por el que se efectúa el pago, a excepción de las importaciones de bienes tangibles, y las cantidades por las que proceda el acreditamiento. En su caso, el contribuyente disminuirá del impuesto que corresponda al total de sus actividades, el impuesto que se le hubiere retenido.
+El pago provisional será la diferencia entre el impuesto que corresponda al total de las actividades realizadas en el periodo por el que se efectúa el pago, a excepción de las importaciones de bienes tangibles, y las cantidades por las que proceda el acreditamiento determinadas en los términos del artículo 4o. de esta Ley. En su caso, el contribuyente disminuirá del impuesto que corresponda al total de sus actividades, el impuesto que se le hubiere retenido en dicho periodo.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-El impuesto del ejercicio, deducidos los pagos provisionales se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio. Las sociedades que tengan el carácter de controladoras en los términos del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta, presentarán la declaración anual dentro de los cuatro meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que de este impuesto se les solicite, en las declaraciones del impuesto sobre la renta.
+Los contribuyentes que de conformidad con esta Ley estén obligados a efectuar pagos provisionales mensuales, efectuarán en el primer mes de la segunda mitad del ejercicio el ajuste del impuesto correspondiente a los pagos provisionales, conforme a lo siguiente:
+
+I. Al impuesto que corresponda al total de los actos o actividades realizados por el contribuyente desde el inicio del ejercicio y hasta el último día de la primera mitad del mismo, a excepción de las importaciones de bienes tangibles, se le adicionará el monto de cada uno de los saldos a favor del impuesto al valor agregado que resulten en las declaraciones de pago provisional del ejercicio, cuya devolución se hubiera solicitado en el mismo.
+
+II. Al monto del impuesto al valor agregado acreditable correspondiente al periodo comprendido desde el inicio del ejercicio y hasta el último día de la primera mitad del mismo, se le adicionará el monto de los pagos provisionales del impuesto al valor agregado del ejercicio efectuados con anterioridad, el impuesto que se le hubiere retenido en los términos de esta Ley durante el periodo antes citado y, en su caso, el saldo a favor del impuesto al valor agregado que resulte en la declaración del ejercicio inmediato anterior, por el que no se hubiera solicitado la devolución.
+
+Para determinar el impuesto al valor agregado acreditable a que se refiere el párrafo anterior, se aplicará el procedimiento previsto en el artículo 4o. de esta Ley, considerando para tal efecto el monto equivalente al del impuesto que le hubiera sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación, en el periodo comprendido desde el inicio del ejercicio y hasta el último día de la primera mitad del mismo. Asimismo, el contribuyente determinará el factor a que se refiere la fracción III del citado artículo, considerando el valor de los actos o actividades realizados durante el periodo a que se refiere este párrafo.
+
+En ningún caso podrá solicitarse la devolución del saldo a favor que se hubiera adicionado en los términos del primer párrafo de esta fracción.
+
+III. El contribuyente comparará los montos determinados en las fracciones I y II que anteceden. En caso de que el monto obtenido en términos de la fracción I de este artículo resulte mayor que el determinado en términos de la fracción II del mismo, la diferencia será el impuesto a cargo por el ajuste que deberá enterarse con el pago provisional correspondiente al mes en que el mismo se efectúe. En el caso de que el monto de la fracción II de este artículo resulte mayor que el determinado en los términos de la fracción I del mismo, la diferencia será el saldo a favor por el ajuste.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+Para determinar el impuesto del ejercicio se aplicará el siguiente procedimiento:
+
+a) A los valores de los actos o actividades realizados en el ejercicio, se les aplicará la tasa que corresponda de conformidad con esta Ley.
+
+b) Se sumarán los montos de los saldos a favor del impuesto al valor agregado que resulten en las declaraciones de pago provisional del ejercicio y en el ajuste a los pagos provisionales, cuya devolución se hubiera solicitado.
+
+c) Al monto del impuesto al valor agregado acreditable del ejercicio que resulte en los términos del artículo 4o. de esta Ley, se le adicionará el monto de los pagos provisionales del citado impuesto que correspondan al mismo ejercicio, el impuesto pagado correspondiente al ajuste a que se refiere la fracción III de este artículo, el impuesto que se hubiera retenido al contribuyente en términos de esta Ley durante dicho ejercicio y, en su caso, el saldo a favor del impuesto al valor agregado que resulte en la declaración del ejercicio inmediato anterior, por el que no se hubiera solicitado su devolución.
+
+En ningún caso podrá solicitarse la devolución del saldo a favor que se hubiera adicionado en los términos de este inciso.
+
+d) La cantidad que resulte en los términos del inciso a) de este artículo, se adicionará con el monto que se determine de conformidad con el inciso b) que antecede y se disminuirá con el monto que se determine conforme al inciso anterior. El resultado que se obtenga de esta operación será el impuesto del ejercicio.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+El impuesto del ejercicio se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio. Las sociedades que tengan el carácter de controladoras en los términos del párrafo noveno del artículo 57-A de la Ley del Impuesto sobre la Renta, presentarán la declaración anual dentro de los cuatro meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que de este impuesto se les solicite, en las declaraciones del impuesto sobre la renta.
 
 Tratándose de importación de bienes tangibles el pago se hará como lo establece el artículo 28. Para los efectos de esta Ley son bienes tangibles los que se pueden tocar, pesar o medir; e intangibles los que no tienen al menos una de estas características.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 6o.
 
-Cuando en la declaración de pago provisional resulte saldo a favor, el contribuyente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor.
+Cuando en la declaración de pago provisional resulte saldo a favor, el contribuyente podrá acreditarlo contra el impuesto a su cargo que le corresponda en los meses siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor. Cuando en las declaraciones de los pagos provisionales correspondientes al periodo del ajuste a los pagos provisionales, resulte un saldo a favor, el contribuyente podrá solicitar su devolución, siempre que sea sobre el total del saldo a favor y se efectúe la solicitud de devolución a más tardar en el mes siguiente de la primera mitad del ejercicio, o en su caso acreditarlo, siempre que el acreditamiento se efectúe a más tardar en la declaración de pago provisional del último mes del periodo por el que se realiza el ajuste. Cuando resulte saldo a favor por el ajuste a los pagos provisionales en los términos de la fracción III del artículo 5o. de esta Ley o en las declaraciones de los pagos provisionales correspondientes a la segunda mitad del ejercicio, el contribuyente podrá solicitar su devolución, siempre que sea sobre el total del saldo a favor y la solicitud de devolución se efectúe a más tardar en el mes siguiente al del cierre del ejercicio, o en su caso, acreditarlo, siempre que el acreditamiento se efectúe a más tardar en la declaración correspondiente al último mes del ejercicio. Asimismo, cuando en las declaraciones de pagos provisionales trimestrales resulte saldo a favor, el contribuyente podrá solicitar su devolución, siempre que sea sobre el total del saldo a favor y la solicitud de devolución se efectúe a más tardar en el mes siguiente al del cierre del ejercicio, o en su caso acreditarlo, siempre que el acreditamiento se efectúe a más tardar en la declaración correspondiente al último pago provisional del ejercicio.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -336,7 +396,9 @@ Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones 
 
 El contribuyente que reciba la devolución de bienes enajenados u otorgue descuentos o bonificaciones con motivo de la realización de actos gravados por esta Ley, deducirá en la siguiente o siguientes declaraciones de pagos provisionales el monto de dichos conceptos del valor de los actos o actividades por los que deba pagar el impuesto, siempre que expresamente se haga constar que el impuesto al valor agregado que se hubiere trasladado se cancela o se restituye, según sea el caso.
 
-El contribuyente que reciba el descuento, la bonificación o devuelva los bienes enajenados, disminuirá el impuesto cancelado o restituido de las cantidades acreditables o que tuviere pendientes de acreditamiento. Si no tuviere impuesto pendiente de acreditar del cual disminuir el impuesto cancelado o restituido, lo pagará al presentar la declaración de pago provisional que corresponda al periodo en que reciba el descuento, la bonificación o efectúe la devolución.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+El contribuyente que reciba el descuento, la bonificación o devuelva los bienes que le hubieran sido enajenados, respecto de los cuales hubiera identificado el impuesto al valor agregado en los términos del artículo 4o., fracción I, segundo párrafo de esta Ley o del cuarto párrafo del citado artículo, disminuirá el impuesto cancelado o restituido del monto del impuesto acreditable; cuando el monto del impuesto acreditable resulte inferior al monto del impuesto que se cancele o restituya, el contribuyente pagará la diferencia entre dichos montos al presentar la declaración de pago provisional que corresponda al periodo en que reciba el descuento, la bonificación o efectúe la devolución. Cuando el monto equivalente al del impuesto al valor agregado que le hubiese sido trasladado al contribuyente respecto de los actos o actividades que sean objeto de la devolución, descuento o bonificación, se hubiera considerado dentro del monto al que se le aplique el factor a que se refiere la fracción III del artículo 4o. de esta Ley, el monto del impuesto cancelado o restituido se disminuirá de dicho monto correspondiente al periodo en el que se reciba el descuento, la bonificación o se efectúe la devolución; cuando el monto a que se refiere la fracción III del artículo 4o. de esta Ley, correspondiente al periodo en el que se recibe la bonificación, descuento o se realiza la devolución, sea menor que el monto que se deba cancelar o restituir, al excedente se le aplicará el factor a que se refiere la citada fracción III del artículo 4o. de esta Ley, correspondiente al periodo en que se recibe la bonificación, descuento o se efectúa la devolución, y el resultado deberá pagarse en la declaración de pago provisional que corresponda al periodo en que se reciba el descuento, la bonificación o se efectúe la devolución.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -850,15 +912,15 @@ Tratándose de bienes exportados temporalmente y retornados al país con increme
 
 Tratándose de importación de bienes tangibles, el pago tendrá el carácter de provisional y se hará conjuntamente con el del impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los bienes en depósito fiscal en los almacenes generales de depósito, sin que contra dicho pago se acepte el acreditamiento.
 
-> <small>(REFORMADO, D.O.F. 3O DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 Cuando se trate de bienes por los que no se esté obligado al pago del impuesto general de importación, los contribuyentes efectuarán el pago del impuesto que esta Ley establece, mediante declaración que presentarán ante la aduana correspondiente.
 
-> <small>(REFORMADO, D.O.F. 3O DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 El impuesto al valor agregado pagado al importar bienes dará lugar a acreditamiento en los términos y con los requisitos del artículo 4o. de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 3O DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede hecho el pago que corresponde conforme a esta Ley.
 
@@ -1694,11 +1756,29 @@ D.O.F. 15 DE FEBRERO DE 1999.
 
 > <small>N. DE E. LAS ACTUALIZACIONES CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.</small>
 
-## Transitorio
+D.O.F. 31 DE DICIEMBRE DE 1999.
 
-UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
+Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado
 
-D.O.F. 15 DE MAYO DE 1997.
+Artículo Séptimo. En relación con las modificaciones a que se refiere el Artículo Sexto de esta Ley, se estará a lo siguiente:
+
+I. La reforma al artículo 3o., tercer párrafo y la adición de los incisos c) y d) a la fracción II del artículo 1o.-A, de la Ley del Impuesto al Valor Agregado, entrarán en vigor el 1o. de abril del año 2000.
+
+II. Los contribuyentes que en los términos de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 1999 hayan estado obligados a presentar la declaración por dicho ejercicio, podrán optar por aplicar lo dispuesto en los artículos 4o., 4o.-A, 5o., 6o. y 7o. de la Ley citada vigente hasta el 31 de diciembre de 1999, durante el periodo comprendido del 1o. de enero al 31 de marzo de 2000, siempre que cumplan con lo siguiente:
+
+a) Considerarán que el ejercicio de 1999 comprende el periodo del 1o. de enero de 1999 al 31 de marzo de 2000. Para estos efectos, considerarán el valor de los actos o actividades realizados, los pagos provisionales efectuados, el monto equivalente al del impuesto al valor agregado que les hubiera sido trasladado y el propio impuesto que hubiesen pagado con motivo de la importación, correspondientes a dicho periodo.
+
+b) Deberán presentar la declaración del ejercicio a que se refiere el inciso anterior, a más tardar el último día del mes siguiente a aquél en que en los términos de lo dispuesto en la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 1999, se deba presentar la declaración del ejercicio.
+
+c) Los contribuyentes del impuesto al valor agregado que ejerzan la opción establecida en esta fracción, considerarán que el ejercicio de 2000 comprende el periodo del 1o. de abril al 31 de diciembre de 2000.
+
+d) La Secretaría de Hacienda y Crédito Público emitirá las reglas de carácter general que en su caso resulten necesarias para la debida aplicación de la opción a que se refiere la presente fracción.
+
+III. Durante el ejercicio fiscal de 2000 el Impuesto al Valor Agregado sobre el servicio o suministro de agua para uso doméstico que se efectúe en dicho ejercicio, se causará a la tasa del cero por ciento.
+
+## TRANSITORIO
+
+Único. La presente Ley entrará en vigor el 1o. de enero de 2000.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
