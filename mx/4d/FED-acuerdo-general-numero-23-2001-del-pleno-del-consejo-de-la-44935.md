@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2003-05-29"
+last_updated: "2003-06-27"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2003.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -335,7 +335,9 @@ XX.- VIGESIMO CIRCUITO:
 
 2.- Dos tribunales unitarios con sede en Tuxtla Gutiérrez.
 
-3.- Seis juzgados de distrito en el Estado de Chiapas: tres con residencia en Tuxtla Gutiérrez y tres con sede en Tapachula.
+> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 39/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE JUNIO DE 2003)</small>
+
+3.- Seis juzgados de Distrito en el Estado de Chiapas: cuatro con residencia en Tuxtla Gutiérrez y dos con sede en Tapachula.
 
 XXI.- VIGESIMO PRIMER CIRCUITO:
 
@@ -345,7 +347,7 @@ XXI.- VIGESIMO PRIMER CIRCUITO:
 
 3.- Seis juzgados de distrito en el Estado de Guerrero: uno con residencia en Chilpancingo, cuatro con sede en Acapulco y uno con residencia en Iguala.
 
-> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
@@ -1080,3 +1082,11 @@ D.O.F. 29 DE MAYO DE 2003.
 PRIMERO.- Este acuerdo entrará en vigor el dos de junio de dos mil tres.
 
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 27 DE JUNIO DE 2003.
+
+PRIMERO.- El presente acuerdo entrará en vigor el dos de julio de dos mil tres.
+
+SEGUNDO.- Las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal atenderán la situación laboral del personal adscrito al Juzgado Quinto de Distrito en el Estado de Chiapas, con residencia en Tapachula, que cambia de residencia a la ciudad de Tuxtla Gutiérrez.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
