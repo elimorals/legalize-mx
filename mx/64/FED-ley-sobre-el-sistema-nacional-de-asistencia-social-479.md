@@ -4,7 +4,7 @@ identifier: "FED-ley-sobre-el-sistema-nacional-de-asistencia-social-479"
 country: "mx"
 rank: "ley"
 publication_date: "1986-01-09"
-last_updated: "1986-01-09"
+last_updated: "2004-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=479&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1985-12-20"
 
 LEY SOBRE EL SISTEMA NACIONAL DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL, PUBLICADA EN EL D.O.F. DE 2 DE SEPTIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 9 de enero de 1986.
 
@@ -378,3 +380,13 @@ SEGUNDO.- Se abroga el "Decreto por el que el Sistema Nacional para el Desarroll
 México, D. F., a 19 de diciembre de 1985.- Sen. Socorro Díaz Palacios, Presidenta.- Dip. Fernando Ortiz Arana, Presidente.- Sen. Luis José Dorantes Segovia, Secretario.- Dip. Reyes R. Flores Zaragoza, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de mil novecientos ochenta y cinco.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.- El Secretario de Salud, Guillermo Soberón Acevedo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 2 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga la Ley sobre el Sistema Nacional de Asistencia Social publicada en el Diario Oficial de la Federación de 9 de enero de 1986, así como las demás disposiciones que se opongan a lo dispuesto por esta Ley.
+
+TERCERO.- Para los efectos de la regulación del Directorio Nacional de Asistencia Social y del Servicio Nacional de Información, las disposiciones reglamentarias correspondientes se emitirán en un plazo de seis meses a partir de la fecha de entrada en vigor de la presente Ley.
