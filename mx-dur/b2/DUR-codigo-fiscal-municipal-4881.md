@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-municipal-4881"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-03-20"
-last_updated: "1988-06-26"
+last_updated: "1990-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1990.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 20 de marzo de 1988.
 
@@ -161,6 +161,28 @@ Para que sea aplicable la excepción a que se refiere el párrafo anterior, ser�
 
 II.- Que la vigilancia y exigibilidad por cantidad líquida del Derecho del Crédito cuya preferencia se invoque, se compruebe en forma fehaciente al hacerse valor la reclamación de preferencia.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 1990)</small>
+
+ARTICULO 16o BIS.- En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de Enero, el 5 de Febrero, el 21 de Marzo, el 1o. de Mayo, el 5 de Mayo el 16 de Septiembre, el 12 de Octubre, el 1o. y 20 de Noviembre, el 1o. de Diciembre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de Diciembre, así como los días en que rindan su informe Anual de Actividades los Ejecutivos del Estado y de los Municipios.
+
+Tampoco se contarán en dichos plazos, los días en que tengan vacaciones las autoridades fiscales municipales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos, esos días se considerarán hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
+
+En los plazos establecidos por períodos y aquellos en que se señale una fecha determinada para su extinción se computarán todos los días.
+
+Cuando los plazos se fijen por mes o por año, sin especificar que sean calendario, se entenderá que en el primer caso el plazo concluye el mismo día del mes de calendario posterior a aquel en que se inició y el segundo, el término vencerá el mismo día del siguiente año de calendario a aquel en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término, será el primer día hábil del siguiente mes de calendario.
+
+No obstante lo dispuesto en los párrafos anteriores, si el último día de plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil.
+
+Lo dispuesto en este Artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones.
+
+Las autoridades fiscales podrán habilitar los días inhábiles, esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 1990)</small>
+
+ARTICULO 16o BIS-1.- La práctica de diligencias por las Autoridades Fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 7:30 y las 18:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez.
+
+Las Autoridades Fiscales para la práctica de visitas domiciliarias del procedimiento administrativo de ejecución y de notificaciones podrán habilitar los días y horas inhábiles cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días y horas inhábiles. Tratándose de contribuyentes sujetos al reglamento sobre venta y consumo de bebidas embriagantes, se considerarán hábiles todos los días del año y las 24 horas del día.
+
 ## TITULO II
 
 ### CAPITULO UNICO. DE LAS AUTORIDADES FISCALES
@@ -239,7 +261,7 @@ I.- Ordenar la baja de establecimientos comerciales, industriales o de prestaci�
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 1988)</small>
 
-II.- Condonar parcialmente hasta un 50% las multas por infracciones a las disposiciones fiscales y recargos debiendo recaer escrito debidamente motivado sobre el particular;
+II.- Condonar parcialmente hasta un 50% las multas por infracciones a las disposiciones fiscales y recargos debiendo recaer escrito debidamente motivado sobre el particular,
 
 III.- Condonar las multas administrativas, únicamente cuando el infractor sea persona insolvente o cuando la infracción sea leve y no haya mediado mala fé ni intención de eludir las obligaciones correspondientes;
 
@@ -251,7 +273,7 @@ VI.- Autorizar la matanza de ganado, aves y otras especies, fuera de los rastros
 
 VII.- Otorgar las licencias de funcionamiento de giros;
 
-VIII.- Acordar la revocación de Iicencias de funcionamiento de giros, de conformidad al procedimiento que se establece en la presente Ley; y (sic9
+VIII.- Acordar la revocación de Iicencias de funcionamiento de giros, de conformidad al procedimiento que se establece en la presente Ley; y (sic)
 
 > <small>(ADICIONADA, P.O. 26 DE JUNIO DE 1988)</small>
 
@@ -589,9 +611,19 @@ III.- Cuando deje de cubrirse alguna de las parcialidades; y
 
 IV.- Cuando deje de cumplir sus obligaciones fiscales.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 55o.
 
-Cuando no se pague un crédito fiscal en la fecha o dentro de los plazos señalados en las disposiciones fiscales, deberán cubrirse recargos en concepto de indemnización al fisco municipal por falta de pago oportuno, en la forma y términos como lo establecen las Leyes de Ingresos Municipales.
+Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos por concepto de indemnización al fisco municipal por la falta de pago oportuno. Dichos recargos se calcularán en los términos que establece la Ley de Ingresos del Municipio respectivo.
+
+Los recargos se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el cuarto párrafo de este Artículo, los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
+
+Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudatoria, ésta deberá aceptar el pago y procederá a exigir el remanente.
+
+El cheque recibido por las Autoridades Fiscales que sea presentado en tiempo y al momento de su presentación carezca de fondos, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este Artículo. En este caso, los recargos se empezarán a computar a partir del inicio del tercer mes siguiente al día en que se debió haber hecho el pago. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución sin perjuicio de la responsabilidad penal que en su caso procediere.
+
+Cuando el contribuyente pague en forma espontánea, las contribuciones omitidas y los recargos, dichos recargos no excederán del 100% del monto de las contribuciones.
 
 ###### ARTICULO 56o.
 
@@ -633,7 +665,9 @@ II.- Que se dicte acuerdo de la Tesorería Municipal.
 
 III.- Que el derecho para reclamar la devolución no se haya extinguido.
 
-IV.- Cuando se pida la devolución ésta deberá efectuarse dentro del plazo de 90 días siguientes a la fecha en que quede reconocido el derecho de peticionario. Si dentro de dicho plazo no se efectúa la devolución, el fisco municipal deberá pagar interés al 8.5% mensual, computados desde que se constituya hasta la fecha en que se devuelva la cantidad respectiva.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 1990)</small>
+
+IV.- Cuando se pida la devolución ésta deberá efectuarse dentro del plazo de 90 días siguientes a la fecha en que quede reconocido el derecho de peticionario. Si dentro de dicho plazo no se efectúa la devolución, el Fisco Municipal deberá pagar intereses en los términos que se establezcan en la Ley de Ingreso Municipal respectiva, computados desde que se constituya hasta la fecha en que se devuelva la cantidad de que se trata.
 
 ###### ARTICULO 61o.
 
@@ -2072,3 +2106,13 @@ EL SECRETARIO GENERAL DE GOBIERNO. LIC. GUSTAVO RIVERA RAMOS. Rúbrica.
 P.O. 26 DE JUNIO DE 1988.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ENERO DE 1990.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1o. de Enero de 1990.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
