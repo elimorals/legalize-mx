@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-pensiones-civiles-para-el-estado-de-michoacan-22008"
 country: "mx"
 rank: "ley"
 publication_date: "1980-05-08"
-last_updated: "1980-05-08"
+last_updated: "1983-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1983.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 8 de mayo de 1980.
 
@@ -371,9 +371,11 @@ c) Reparación o ampliación de las mismas; y
 
 d) Redención de gravámenes que soporten tales inmuebles.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 39.
 
-La Dirección de Pensiones otorgará préstamos hipotecarios en los términos de esta Ley, atendiendo a su capacidad económica y dando preferencia a los créditos de menor cuantía. Los préstamos serán hasta por trescientos mil pesos, cantidad que podrá ser aumentada a solicitud del interesado y por acuerdo de la Junta.
+La Dirección de Pensiones otorgará préstamos hipotecarios en los términos de esta Ley, atendiendo a su capacidad económica y dando preferencia a los créditos de menor cuantía. Los préstamos serán hasta por quinientos mil pesos, cuando el interesado requiera de una cantidad mayor deberá presentar una distinta solicitud a la Junta, la que acordará lo procedente.
 
 ###### ARTICULO 40.
 
@@ -381,9 +383,11 @@ La Dirección formulará tablas para determinar las cantidades máximas que pued
 
 En los casos en que el servidor público justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, éste podrá sobrepasar el máximo fijado para su sueldo en forma proporcional, pero en ningún caso rebasará el importe de aquél.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 41.
 
-Los préstamos hipotecarios se cubrirán mediante amortizaciones quincenales que incluirán capital e intereses y el plazo para la redención total del crédito no será mayor de quince años.
+Los préstamos hipotecarios se cubrirán mediante amortizaciones quincenales que incluirán capital e intereses y el plazo para la redención total del crédito no será mayor de diez años. A solicitud del interesado la Junta podrá conceder prórroga del plazo hasta quince años.
 
 ###### ARTICULO 42.
 
@@ -394,6 +398,10 @@ Cuando el servidor público no estuviere de acuerdo con el avaluó practicado po
 ###### ARTICULO 43.
 
 Los préstamos hipotecarios que se hagan a servidores públicos causarán un interés mínimo del nueve por ciento anual, sobre saldos insolutos, el que podrá ser revisado anualmente y modificado por acuerdo de la Junta, cuando las condiciones económicas así lo requieran, pero no rebasará el tipo de interés que cobren las instituciones bancarias en préstamos similares.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1983)</small>
+
+Este tipo de interés se incrementará automáticamente en un cincuenta por ciento, cuando el servidor público se separe voluntariamente de su empleo, si esto ocurre en la primera mitad del plazo al que haya sido pactado el crédito.
 
 ###### ARTICULO 44.
 
@@ -421,7 +429,9 @@ I.- El servidor público entrará en posesión de la habitación sin más formal
 
 II.- Pagados el capital e intereses se otorgará la escritura que proceda;
 
-III.- El plazo para cubrir el precio de inmueble no excederá de quince años.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1983)</small>
+
+III.- El plazo para cubrir el precio del inmueble no excederá de diez años. A solicitud del interesado la Junta podrá conceder prórroga del plazo hasta quince años.
 
 IV.- Si el servidor público hubiere pagado sus abonos con regularidad durante cinco años o más y se viere imposibilitado de continuar cubriéndolos, tendrá derecho a que la Dirección remate en pública subasta el inmueble entre los servidores públicos, y que del producto, una vez pagado el crédito insoluto, se le entregue el remanente;
 
@@ -447,15 +457,15 @@ El arrendamiento de casas de la Dirección de servidores públicos se regirá po
 
 Tienen preferencia las operaciones a que refieren los artículos 31 y 37. La Junta Directiva podrá autorizar la inversión de los fondos excedentes en la construcción de inmuebles, adquisición de casas, terrenos, cédulas hipotecarias o bonos financieros para incrementar su patrimonio y, sólo mediante decreto del H. Congreso del Estado podrá efectuar cualquier otro tipo de inversión que esté debidamente garantizada.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 50.
 
-Cuando no sea posible atender todas las solicitudes que presenten los servidores públicos para las operaciones comprendidas en los artículos 31 y 37, se considerará como preferente, en igualdad de las demás condiciones, al que tenga mayor tiempo de servicios.
+Cuando no sea posible atender todas las solicitudes, que presenten los servidores públicos para las operaciones comprendidas en los artículos 31 y 37, se considerará como preferente en igualdad de las demás condiciones, al que tenga mayor tiempo de contribuir al fondo.
 
 ###### ARTICULO 51.
 
-El servidor público podrá ir depositando en la Dirección, cantidades para constituir un fondo destinado a la adquisición de casa habitación. Estos depositos serán preferidos, en igualdad de condiciones de antigüedad a los servidores públicos no depositantes, para los efectos de la adquisición de casas construídas por la Dirección.
-
-Los depósitos así constituídos podrán ser retirados en cualquier momento, perdiendo su prioridad el servidor público que lo verifique.
+(DEROGADO, P.O. 31 DE ENERO DE 1983)
 
 ###### ARTICULO 52.
 
@@ -471,13 +481,19 @@ Esta franquicia quedará insubsistente si los inmuebles fueren enajenados por lo
 
 El derecho a jubilación se adquiere cuando el servidor público se encuentra dentro de los supuestos consignados en esta Ley y satisfaga los requisitos que la misma establece.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 54.
 
-Tienen derecho a jubilación los servidores públicos que tengan treinta años o más de servicio e igual tiempo de contribuir al fondo, sesenta años de edad y dejen de laborar.
+Tienen derecho a la jubilación los servidores públicos que tengan 30 años o más de servicio e igual tiempo de contribuir al fondo en los términos de esta ley, cualquiera que sea su edad y dejen de laborar.
 
 La jubilación dará derecho al pago de una cantidad equivalente al cien por ciento del sueldo básico y su percepción comenzará a partir del día siguiente a aquél en que el servidor público hubiese disfrutado del mismo, por haber causado baja.
 
 En el otorgamiento de jubilaciones y pensiones se preferirá a los servidores públicos de más antigüedad, y en caso de igualdad en el servicio, al de mayor edad.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1983)</small>
+
+ARTICULO 54 BIS.- La jubilación será forzosa cuando los servidores públicos tengan 30 años o mas de contribuir al fondo de pensiones y 60 años o más de edad, pudiendo continuar en el trabajo cuando así convenga al servicio público, previo acuerdo de la Junta Directiva de Pensiones.
 
 ###### ARTICULO 55.
 
@@ -556,6 +572,10 @@ Si el servidor público no fuere restituido a su empleo o no se le asignare otro
 ###### ARTICULO 63.
 
 Los servidores públicos contribuyentes al fondo, en el caso de que sean jubilados o pensionados, no tendrán derecho a la devolución de los descuentos con que hayan contribuido al mismo.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1983)</small>
+
+La misma norma será aplicada en los casos de servidores públicos jubilados o pensionados por el H. Congreso del Estado.
 
 ###### ARTICULO 64.
 
@@ -688,3 +708,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 Lic. Ausencio Chávez Hernández.
 
 Firmado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE ENERO DE 1983.
+
+UNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
