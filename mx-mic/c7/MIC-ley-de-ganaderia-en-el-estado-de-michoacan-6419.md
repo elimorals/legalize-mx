@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ganaderia-en-el-estado-de-michoacan-6419"
 country: "mx"
 rank: "ley"
 publication_date: "1954-12-30"
-last_updated: "1973-11-01"
+last_updated: "1976-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE GANADERIA EN (SIC) ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1976.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Michoacán, el 30 de diciembre de 1954.
 
@@ -85,7 +85,7 @@ II.- Dictar las disposiciones que estime prudentes, a fin de evitar la salida de
 
 III.- Servir de intermediaria entre los propietarios de ganados que lo soliciten y las Instituciones de Crédito Ganadero o las Autoridades correspondientes, para obtener refacciones; ayudar en las gestiones relacionadas con ganadería que promovieren en otras oficinas gubernamentales.
 
-IV.- Llevar los libros de estadística que sean necesarios para conocer el progreso o decadencia de la industria ganadera y por consiguiente basar en estos las medidas que al efecto se dicten.
+IV.- Llevar los libros de estadística que sean necesarios para conocer el progreso o decadencia de la industria ganadera y por consiguiente basar en éstos las medidas que al efecto se dicten.
 
 V.- Estar en comunicación con la Sub Secretaría de Ganadería de la Secretaría de Agricultura y Ganadería a fin de aprovechar las enseñanzas que dicha dependencia imparta y difundirlas en todo el Estado en forma que estime más eficaz.
 
@@ -187,7 +187,7 @@ XI.- Además, las que le confiere esta Ley y sus Reglamentos.
 
 ###### ARTICULO 17.
 
-Para mayor efectividad de las garantías concedidas a la industria ganadera y observancia de la presente Ley, se establecerá en cada Municipalidad un Cuerpo de Policía Ganadera Honoraria compuesto de cinco a cincuenta miembros, según la extensión e importancia del Municipio, que reconocerá como superior inmediato al Inspector de Ganadería, y como Jefe nato al C. Gobernador Constitucional del Estado. Sus atribuciones son:
+Para mayor efectividad de las garantías concedidas a la industria ganadera y observancia de la presente Ley, se establecerá en cada Municipalidad un Cuerpo de Policía Ganadera Honoraria compuesto de cinco a cincuenta miembros, según la extensión e importancia del Municipio, que reconocerá como superior inmediato al Inspector de Ganadería, y como Jefe nato al C. Gobernador Constitucional del Estado. Sus atribuc9iones son:
 
 I.- Vigilar el cumplimiento fiel de las disposiciones que la presente Ley contiene, dentro de su jurisdicción;
 
@@ -203,7 +203,7 @@ VI.- Cuidar de que en las congregaciones, ranchos y rancherías, esté en forma 
 
 VII.- Dar oportuno aviso al inspector de Ganadería respectivo, de los incendios de agostaderos, destrucción de acotamientos y demás hechos que perjudiquen a la ganadería;
 
-VIII.- Denunciar ante el propio Inspector los animales mostrencos, orejanos, atropellados o muertos por algún accidente, que encontraren en el desempeño de su comisión;
+VIII.- Denunciar ante el propio inspector los animales mostrencos, orejanos, atropellados o muertos por algún accidente, que encontraren en el desempeño de su comisión;
 
 IX.- Las demás que le confiere esta Ley y sus Reglamentos.
 
@@ -269,13 +269,17 @@ m).- Las demás que le confiera esta Ley.
 
 Las Asociaciones Ganaderas Locales y las Uniones Ganaderas Regionales, tendrán personalidad jurídica y el Estado les dará todo el apoyo que requieran para la realización de sus finalidades.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1976)</small>
+
 ###### ARTICULO 25.
 
-Los ganaderos deberán recabar anualmente de las Asociaciones Ganaderas Locales una tarjeta de identificación; en ella además de la media filiación del interesado, se anotarán el fierro, marca, venta, tatuaje o aretes correspondientes a su patente. Esta tarjeta deberá registrarse en la Presidencia Municipal respectiva sin cuyo requisito no es válida. El registro será gratuito.
+Los ganaderos deberán recabar cada dos años una credencial de identificación; en ella se fijará una fotografía de frente del interesado y se anotará el fierro, tatuaje, aretes o identificación del ganado correspondiente a su patente.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1976)</small>
 
 ###### ARTICULO 26.
 
-Las tarjetas de identificación serán proporcionadas por el Gobierno del Estado a las Uniones Ganaderas Regionales, para que las distribuya por conducto de las Asociaciones Locales, previo pago de la cantidad cinco pesos por cada tarjeta. El producto que se obtenga, ingresará en la siguiente forma: un peso al Erario del Estado, dos pesos a la Unión Regional respectiva y dos pesos a las Asociaciones locales.
+Las credenciales de identificación serán proporcionadas a los ganaderos por el Gobierno del Estado, a través de la Dirección General de Agricultura y Ganadería previa solicitud y pago de la cantidad de veinte pesos por cada credencial. El producto que se obtenga se distribuirá en la siguiente forma: ocho pesos al Erario del Estado, seis pesos a la Unión Regional respectiva y seis pesos a las Asociaciones locales.
 
 ###### ARTICULO 27.
 
@@ -293,17 +297,17 @@ Las Uniones y Asociaciones Ganaderas, deberán registrarse en la Dirección de A
 
 ### CAPITULO VII.. DE LA PROPIEDAD DE GANADOS Y PIELES
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1976)</small>
+
 ###### ARTICULO 30.
 
-La propiedad de los ganados se acredita:
+La propiedad del ganado se acredita:
 
-a).- Tratándose de ganado mayor, con el fierro, marca de fuego, señales de sangre en la oreja, tatuajes o aretes; para ganado menor, con señales de sangre.
+a). Tratándose de ganado mayor, con el fierro, marca de fuego, señales de sangre en la oreja, tatuajes o aretes; para ganado menor, con señales de sangre. La forma de identificación deberá estar autorizada por el Registro Estatal de Fierros del Gobierno del Estado y amparada con la Patente Unica que expedirá la Dirección General de Agricultura y Ganadería y se entregará a través de la Presidencia Municipal respectiva, o el certificado de su existencia.
 
-b).- Con escritura pública o privada, facturas, papel de venta, adjudicación testamentaria, resolución judicial u otra constancia legal en que aparezca que el criador transmite el derecho de propiedad y lo han obtenido todos los adquirientes posteriores, y así sucesivamente. En esos documentos deberán consignarse los fierros, marcas, señales, tatuajes y aretes.
+b). Con escritura pública o privada, facturas, adjudicaciones en procedimiento sucesorio u otro tipo de resolución judicial. En esos documentos deberán consignarse los fierros, marcas, señales, tatuajes y/o aretes; así como el número de recibo con que se cubrió el impuesto estatal.
 
-c).- De los ganados adquiridos para matanza, con factura o papel de venta en que consten dibujados los fierros, marcas y señales, aparte de los demás requisitos exigidos en estos incisos, salvo que quien lleve el ganado a la matanza, sea el mismo criador, en cuyo caso bastará la presentación de la patente que corresponda.
-
-d).- En todos los casos, con la correspondiente patente de registro o el certificado de su existencia.
+c). Del ganado adquirido para matanza, con factura en la que consten dibujados los fierros, marcas y señales, aparte de los demás requisitos exigidos en esta Ley y su Reglamento, salvo que quien lleve el ganado a la matanza, sea el mismo criador, en cuyo caso bastará la presentación de la patente que corresponda.
 
 ###### ARTICULO 31.
 
@@ -313,9 +317,11 @@ Las crías de animales pertenecen al dueño de la madre y no al del padre, salvo
 
 La propiedad de las crías de los animales sin marca que se encuentren en terreno de dominio particular, se definirá de acuerdo con lo dispuesto en el Código Civil, salvo el caso de que no hayan pasado dos años desde que el dueño del terreno empezó a tener cría de la especie de que se trata. En este último caso se considerarán los animales mostrencos.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1976)</small>
+
 ###### ARTICULO 33.
 
-La propiedad de los ganados se transferirá por los medios que establece el derecho común y en los documentos en que se haga constar la operación se hará una reseña pormenorizada de los animales que se enajenen, así como de las marcas de fuego, las señales de sangre, los tatuajes o aretes correspondientes. Las constancias o "papel de venta", serán visados por la Autoridad Municipal y por la Asociación Ganadera Local.
+La propiedad del ganado se transferirá por los medios que establece el derecho común y en los documentos en que se haga constar la operación se hará una reseña pormenorizada de los animales que se enajenen, así como de las marcas de fuego, las señales de sangre, los tatuajes o aretes correspondientes. Las constancias o facturas serán autorizadas por la autoridad municipal y por la Asociación Ganadera local.
 
 ###### ARTICULO 34.
 
@@ -351,25 +357,35 @@ Para mejor inteligencia de las disposiciones que el presente capítulo contiene,
 
 Por patente se entiende el documento que se expida con motivo del registro de fierros y señales.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1976)</small>
+
 ###### ARTICULO 39.
 
-Es obligatorio para los propietarios de ganado mayor usar fierro; quedan exentos de esta obligación los dueños de ganado estabulado. Es voluntario, el uso de tatuajes, aretes, marcas, ventas y señales de sangre.
+Es obligatorio para los propietarios de ganado mayor usar fierro. Se exceptúan de esta obligación los dueños de ganado estabulado, previa autorización de la Dirección General de Agricultura y Ganadería. Es voluntario, el uso de tatuajes, aretes, marcas, y señales de sangre.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1976)</small>
 
 ###### ARTICULO 40.
 
-Los fierros, marcas, ventas, tatuajes, aretes y señales de sangre deben registrarse en la Presidencia Municipal del lugar en que estén los semovientes, antes de ponerse en uso y trasladarse o clausurarse cuando se trasmita totalmente la propiedad de un negocio o se extinga éste.
+Los fierros, marcas, tatuajes, aretes y señales de sangre deben inscribirse en el Registro Estatal de Fierros y en la Presidencia Municipal del lugar en que se encuentren los semovientes antes de ponerse en uso, y trasladarse o cancelarse cuando se trasmita totalmente la propiedad de un negocio o se extinga éste.
 
-Las figuras de fuego, los tatuajes, los aretes y las señales de sangre deberán usarse exclusivamente por su dueño, sancionándose los casos en que distinta persona haga uso total o parcial de éllos.
+Las figuras de fuego, los tatuajes, los aretes y las señales de sangre deberán usarse exclusivamente por su dueño, sancionándose los casos en que distinta persona haga uso total o parcial de ellos.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1976)</small>
 
 ###### ARTICULO 41.
 
-El registro de fierros, marcas, ventas, tatuajes, aretes y señales se asentará en tres libros -un original, un duplicado y un triplicado- que autorizará anualmente la Dirección de Agricultura y Ganadería; se escribirán con tinta indeleble y sin raspaduras ni abreviaturas; se enumerarán progresivamente y antes de firmarse se harán las salvaduras correspondientes. Los registros de fierros, marcas, ventas y señales sólo se pueden asentar en los libros de que habla este artículo.
+El registro de fierros, marcas, tatuajes, aretes y señales se asentarán en tres libros -un original, un duplicado y un triplicado- autorizados por la Dirección General de Agricultura y Ganadería, previa solicitud del interesado al Registro Estatal de Fierros, el que dará la autorización y clave correspondiente para que se asiente en el Registro del Municipio; se escribirán con tinta indeleble y sin raspaduras ni abreviaturas; se enumerarán progresivamente, y antes de firmarse se harán las salvaduras correspondientes.
 
-Una vez hecho el registro de fierros, marcas, tatuajes, aretes, ventas y señales, la Autoridad Municipal competente expedirá copia del mismo que servirá de patente.
+Los registros de fierros, marcas, y señales, sólo se pueden asentar en los libros de que habla este artículo y en el Registro Estatal de Fierros.
+
+La autoridad municipal, al recibir la patente única, hará la anotación respectiva en los libros de fierros y patentes a que se refiere esta disposición.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1976)</small>
 
 ###### ARTICULO 42.
 
-Todos los libros de registro de fierros, marcas, ventas y señales, serán visados en su primera y última fojas por la Dirección General de Agricultura y Ganadería y autorizadas las intermedias con el sello de la Oficina. Uno de los libros quedará en el Archivo de la Presidencia Municipal, otro se remitirá a fin de año, al Archivo General del Estado y el tercero a la Asociación Ganadera Local.
+Todos los libros de registro de fierros y patentes, marcas y señales, serán visados en su primera y última foja por el Registro Estatal de Fierros de la Dirección General de Agricultura y Ganadería, y autorizadas las intermedias con el sello de la oficina. Uno de los libros quedará en el archivo de la Presidencia Municipal; otro se remitirá a fin de año, a la Dirección General de Agricultura y Ganadería; y el tercero a la Asociación Ganadera local.
 
 ###### ARTICULO 43.
 
@@ -383,9 +399,11 @@ Las figuras a fuego y señales de sangre no registradas, carecen de valor legal,
 
 El uso de fierros, marcas, ventas y señales no registrados, será sancionado en forma que previene esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1976)</small>
+
 ###### ARTICULO 46.
 
-Temporalmente los propietarios de ganado tendrán libertad para usar fierros del tamaño que en la actualidad acostumbran, pero las Autoridades Municipales y las Asociaciones Ganaderas, en un plazo máximo de tres años, harán que todos los ganaderos adopten fierros con medidas máximas de 10 cms. de largo por 8 de ancho y medio aproximadamente de grueso en sus líneas. Los fierros que presenten para nuevo registro, deberán ajustarse a las medidas anteriormente señaladas.
+Los fierros que se presenten para su registro deberán tener medidas máximas de 10 centímetros de largo por 8 centímetros de ancho, y medio centímetro, aproximadamente, de grueso en sus líneas.
 
 ###### ARTICULO 47.
 
@@ -403,19 +421,25 @@ Los contraventores de este artículo serán castigados, por primera vez, con mul
 
 Los casos de ganado trasherrado o de alteración del fierro legítimo, se presumen delictuosos y serán consignadas a la Autoridad Judicial a fin de que proceda, de acuerdo con sus atribuciones, recogiendo los animales de que se trata e imponiendo las sanciones a que haya lugar.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1976)</small>
+
 ###### ARTICULO 50.
 
-La Presidencia Municipal sólo registrará los fierros, tatuajes, aretes, marcas y señales de sangre que al efecto sean solicitados por conducto y con aprobación de la Asociación Ganadera Local.
+La Presidencia Municipal sólo anotará los fierros, tatuajes, aretes, marcas y señales de sangre autorizados por el Registro Estatal de Fierros.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1976)</small>
 
 ###### ARTICULO 51.
 
-Las Presidencias Municipales no registrarán ninguna marca de herrar, diseño o figura igual o de fácil alteración o de estrecha semejanza a otra ya registrada en el Municipio.
+El Registro Estatal de Fierros, no registrará ninguna marca de herrar, diseño o figura igual o de fácil alteración o de estrecha semejanza a otra ya registrada.
+
+Si se hubiese hecho algún registro contraviniendo esta disposición, el interesado afectado, o la Presidencia Municipal, deberán hacer las observaciones que estimen pertinentes ante la Dirección General de Agricultura y Ganadería, la cual resolverá lo procedente.
 
 ###### ARTICULO 52.
 
 Los animales que se encuentran trasherrados y el fierro modificado o encimado, serán recogidos por las Presidencias Municipales, los Jefes de Tenencia, Encargados del Orden o Asociación Ganadera Local, y consignados a la autoridad competente para que se averigue el móvil de ese hecho, y en su caso, se castiguen las personas responsables.
 
-Los gastos que origine el cuidado y manutención de estos animales, serán cobrados a los Ayuntamientos, Jefes de Tenencia a Encargados del Orden a reserva de que sean reintegrados por el o los que resulten responsables, o deducidos del dinero producto del remate, según la resolución que se dicte.
+Los gastos que origine el cuidado y manutención de estos animales, serán cobrados a los Ayuntamientos, Jefes de Tenencia a Encargados del Orden a reserva de que sean reintegrados por él o los que resulten responsables, o deducidos del dinero producto del remate, según la resolución que se dicte.
 
 ###### ARTICULO 53.
 
@@ -481,7 +505,7 @@ En los poblados donde no sea necesario un rastro, debido al poco consumo de carn
 
 ###### ARTICULO 66.
 
-Para ser Administrador o Encargado de un rastro, es necesario que se reúnan los mismos requisitos que para ser Inspector de Ganadería.
+Para ser Administrador o Encargado de un Rastro, es necesario que se reúnan los mismos requisitos que para ser Inspector de Ganadería.
 
 ###### ARTICULO 67.
 
@@ -533,7 +557,7 @@ Toda conducción de ganado deberá ampararse con un documento que se denominará
 
 ###### ARTICULO 76.
 
-Las guías estarán numeradas progresivamente y las proporcionará la Dirección de Agricultura y Ganadería a las asociaciones ganaderas locales, anotando en su registro especial la cantidad y números de las formas que se entreguen a cada uno.
+Las guías estarán numeradas progresivamente y las proporcionará la Dirección de Agricultura y Ganadería a Inspectores del ramo, anotando en su registro especial la cantidad y números de las formas que se entreguen a cada uno.
 
 > <small>(REFORMADO, P.O. 01 DE NOVIEMBRE DE 1973)</small>
 
@@ -693,7 +717,7 @@ Los propietarios o arrendatarios de potreros o agostaderos o agricultores colind
 
 ###### ARTICULO 100.
 
-El incumplimiento a lo dispuesto en el artículo anterior, será sancionado por la Autoridad Municipal respectiva, con la intervención de la Asociación Ganadera Local, con multa de cincuenta o quinientos pesos, que ingresarán por partes iguales a la Hacienda Municipal, del Estado y de la Asociación Ganadera.
+El incumplimiento a lo dispuesto en el artículo anterior, será sancionado por la Autoridad Municipal respectiva, con la intervención de la Asociación Ganadera Local, con multa de cincuenta o quinientos pesos, que ingresarán por partes iguales a la hacienda Municipal, del Estado y de la Asociación Ganadera.
 
 ###### ARTICULO 101.
 
@@ -773,7 +797,7 @@ Se declara de interés público y por lo tanto obligatorio, la prevención y com
 
 ###### ARTICULO 119.
 
-Se declara obligatorio para todos los habitantes del Estado, la denuncia de la aparición o existencia de cualquier enfermedad que ataque a las especies animales. La denuncia se hará al inspector de Ganadería más próximo, a la Autoridad Municipal y a la Asociación Ganadera Respectiva.
+Se declara obligatorio para todos los habitantes del Estado, la denuncia de la aparición o existencia de cualquier enfermedad que ataque a las especies animales. La denuncia se hará al Inspector de Ganadería más próximo, a la Autoridad Municipal y a la Asociación Ganadera respectiva.
 
 ###### ARTICULO 120.
 
@@ -855,7 +879,7 @@ Se declara obligatoria la campaña contra la garrapata.
 
 ###### ARTICULO 134.
 
-Los propietarios o encargados de ganado donde exista garrapata, deberán desinfectarlo de preferencia en tanques construidos según el modelo aprobado por el Ejecutivo del Estado. Los pequeños propietarios podrán bañar su ganado en los tanques más próximos mediante convenio con los propietarios de estos. El Gobierno del Estado en cooperación con el Federal y los municipios, Uniones o Asociaciones Ganaderas, construirán tanques de esta naturaleza en los lugares que juzgue conveniente, los ganaderos poseedores de más de trescientas cabezas de ganado vacuno, tendrán la obligación de construir en su finca un baño garrapaticida.
+Los propietarios o encargados de ganado donde exista garrapata, deberán desinfectarlo de preferencia en tanques construidos según el modelo aprobado por el Ejecutivo del Estado. Los pequeños propietarios podrán bañar su ganado en los tanques más próximos mediante convenio con los propietarios de éstos. El Gobierno del Estado en cooperación con el Federal y los municipios, Uniones o Asociaciones Ganaderas, construirán tanques de esta naturaleza en los lugares que juzgue conveniente, los ganaderos poseedores de más de trescientas cabezas de ganado vacuno, tendrán la obligación de construir en su finca un baño garrapaticida.
 
 ###### ARTICULO 135.
 
@@ -969,6 +993,16 @@ P.O. 21 DE ENERO DE 1957.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial.
 
-P.O. 01 DE NOVIEMBRE DE 1973
+P.O. 01 DE NOVIEMBRE DE 1973.
 
 UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE FEBRERO DE 1976.
+
+###### ARTICULO PRIMERO.
+
+Los libros de registro de fierros, marcas, ventas y señales que daten de 1954 a la fecha, y que existan en el Archivo General y Público, deberán remitirse a la Dirección General de Agricultura y Ganadería.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
