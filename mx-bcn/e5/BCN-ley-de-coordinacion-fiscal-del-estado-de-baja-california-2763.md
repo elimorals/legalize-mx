@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-coordinacion-fiscal-del-estado-de-baja-california-2763"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "1989-11-30"
+last_updated: "2000-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. SE ABROGA EL DECRETO No. 172, PUBLICADO EN EL PERIODICO OFICIAL DE FECHA 20 DE AGOSTO DE 1989, POR LO CUAL LOS ARTICULOS 3o. Y 4o. QUEDAN EN LOS TERMINOS DEL TEXTO ORIGINAL DE FECHA 31 DE DICIEMBRE DE 1987.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 1987.
 
@@ -53,49 +51,77 @@ II.- Fijar las reglas de colaboración administrativa entre autoridades fiscales
 
 III.- Constituir los órganos en materia de coordinación fiscal, estatal y municipal, así como dar las bases de su organización y funcionamiento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 2o.
 
-Para los efectos de esta Ley, son participaciones federales, las asignaciones que correspondan a los municipios en los ingresos federales, de conformidad con la Ley de Coordinación Fiscal de la Federación.
+Para los efectos de esta Ley, son participaciones federales, las asignaciones que correspondan a los Municipios en los ingresos federales, de conformidad con la Ley de Coordinación Fiscal de la Federación; y participaciones estatales los ingresos que deban percibir de la recaudación derivada de fuentes estatales.
 
 ### CAPITULO II
 
 DE LAS PARTICIPACIONES FEDERALES Y ESTATALES A LOS MUNICIPIOS.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 3o.
 
-De las cantidades que perciba el Estado, dentro del ejercicio de que se trate, por concepto de participaciones federales derivadas de los Fondos General de Participaciones y Financiero Complementario previsto en la Ley de Coordinación Fiscal Federal, los Municipios recibirán el Equivalente al 20% de dicha cantidad, así como del 20% del total que perciba el Estado por concepto de participación federal derivada de la Recaudación del Impuesto sobre Tenencia o uso de vehículos que se obtenga en el Territorio Estatal y el 100% del Fondo de Fomento Municipal. Dichas cantidades serán distribuidas entre los mismos, en los términos de la presente Ley.
+De las cantidades que perciba el Estado por concepto de participaciones federales, dentro del ejercicio de que se trate, derivadas del Fondo General de Participaciones y de la reserva de contingencia a que se refiere la Ley de Coordinación Fiscal Federal, los Municipios recibirán el equivalente al 20%, así como el 20% del total que reciba el Estado por concepto de participación federal derivada de la recaudación de los Impuestos sobre Tenencia o Uso de Vehículos, Especial Sobre Producción y Servicios, y Sobre Automóviles Nuevos, que se obtengan en el Territorio Estatal y el 100% del Fondo de Fomento Municipal.
 
-(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1989).
+Los ingresos que correspondan a los Municipios de acuerdo con el párrafo anterior, serán distribuidos entre los mismos, en los términos de la presente Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 4o.
 
-Con el 20%, del total que perciba el Estado, derivado de los Fondos General de Participaciones y Financiero Complementario, el Gobierno del Estado, constituirá un Fondo Unico de Participaciones Federales a los Municipios el cual se incrementará con el 100% del Fondo de Fomento Municipal. Las cantidades que ha cada Municipio corresponda serán distribuidas de acuerdo a las siguientes reglas:
+Con el 20%, del total que perciba el Estado, derivado del Fondo General de Participaciones y de la reserva de contingencia, así como el 20% del Impuesto Especial Sobre Producción y Servicios, el Gobierno del Estado constituirá un Fondo Básico de Participaciones Federales a los Municipios, el cual se incrementará con el 100% del Fondo de Fomento Municipal, y será distribuido entre los Municipios de acuerdo a las siguientes reglas:
 
-I.- El 50%, en proporción a la recaudación obtenida en el Municipio de que se trate, por concepto de Impuesto (sic) Federales Coordinados e Impuestos Federales recaudados en las Oficinas Federales de Hacienda correspondientes, durante el año inmediato anterior a aquel para el que se hace el cálculo.
+I.- El 70%, en proporción directa a la suma de la recaudación del Impuesto Predial y de los derechos por servicio de consumo de agua potable, que obtenga cada Municipio, durante el año anterior para el cual se efectúan el cálculo.
 
-II.- El 50%, restante, en proporción a su población. El dato de población se tomará de la última información oficial que al iniciarse cada ejercicio haya dado a conocer el Consejo Estatal de Población.
+II.- El 30% restante, en proporción al número de habitantes que tanga (sic) de cada Municipio, el cual se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al inicio de cada ejercicio fiscal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 5o.
 
-La (sic) participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de reducciones salvo lo dispuesto por el Artículo 9o. de la Ley Federal de Coordinación Fiscal. Se calcularán para cada ejercicio fiscal y serán entregadas por conducto de la Secretaría de Finanzas del Estado, a más tardar dentro de los cinco días siguientes a aquél en que el Estado las reciba como anticipo o derivadas de ajustes cuatrimestrales.
+Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de reducciones salvo lo dispuesto, por el Artículo 9°. de la Ley Federal de Coordinación Fiscal. Se calcularán para cada ejercicio fiscal y serán entregadas por conducto de la Secretaría de Planeación y Finanzas, a más tardar dentro de los cinco días siguientes a aquel en que el Estado las reciba como pagos provisionales o derivadas de los ajustes cuatrimestrales y del ajuste definitivo anual.
 
 El retraso dará lugar al pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones, de conformidad con lo establecido por el Ordenamiento Federal a que se refiere el primer párrafo de este Artículo.
 
 La liquidación definitiva se determinará a más tardar dentro de los seis meses siguientes al cierre de cada ejercicio fiscal, tomando en cuenta las cantidades que se hubieren afectado provisionalmente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 6o.
 
-El 20%, del total que perciba el Estado por concepto de participación federal derivada de la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos, que se obtenga en el Territorio Estatal, será distribuído en proporción a la recaudación obtenida en cada uno de los municipios en el ejercicio de que se trate, por el mismo concepto.
+El 20% del total que reciba el Estado por concepto de participación federal derivada de la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos, que se obtenga en Territorio Estatal, será distribuido en proporción a la recaudación obtenida en cada uno de los municipios durante el ejercicio fiscal anterior, por el mismo concepto.
+
+El 20% del total de la recaudación del Impuesto Sobre Automóviles Nuevos, se distribuirá a los Municipios aplicando el factor que les corresponda en la distribución del Impuesto Sobre Tenencia o Uso de Vehículos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 7o.
 
-Del total de los impuestos estatales que se recauden durante el ejercicio, con excepción del Impuesto adicional para la Educación Media y Superior, los municipios recibirán el 20%, distribuído en proporción a lo recaudado en cada uno de los mismos durante el ejercicio de que se trata, por el mismo concepto.
+Del total de los impuestos estatales que se recauden durante el ejercicio, con excepción del Impuesto Adicional para la Educación Media y Superior, los Municipios recibirán el 20%, distribuido en proporción a la recaudación obtenida en cada uno de los Municipios en el ejercicio fiscal anterior, por el mismo concepto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 7o.
+
+BIS.- Con el 9% del total de la recaudación de los impuestos estatales, el Estado constituirá el Fondo Compensatorio, que se distribuirá durante el año 2001 de la siguiente manera:
+
+28.59% al Municipio de Mexicali.
+
+55.88% al Municipio de Tijuana.
+
+15.53% al Municipio de Tecate.
+
+A partir del año 2002, el importe que corresponda a cada Municipio en los términos del párrafo anterior, se actualizará con el factor de inflación que corresponda a cada mes del ejercicio de que se trate. En caso de que el porcentaje del incremento de la recaudación sea mayor de la inflación, el remanente se distribuirá entre todos los Municipios del Estado, en proporción inversa a las participaciones por habitante que tenga cada Municipio, como resultado de la suma de las participaciones que conforme a esta Ley corresponda a los Municipios.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 8o.
 
-Las participaciones estatales, así como las derivadas de la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos, se calcularán mensualmente y serán entregadas por conducto de la Secretaría de Finanzas del Estado, a más tardar el décimo quinto día del mes siguiente a aquel en que el Estado las recaude.
+Las participaciones estatales, así como las derivadas de la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos y del Impuesto Sobre Automóviles Nuevos, se calcularán mensualmente y serán entregadas por conducto de la Secretaría de Planeación y Finanzas, a más tardar el décimo quinto día del mes siguiente a aquel en que el Estado las recaude.
 
 ###### ARTICULO 9o.
 
@@ -105,17 +131,21 @@ La compensación entre el derecho de los Municipios a recibir participaciones y 
 
 Las deudas de los Municipios derivadas de ajustes en participaciones no están sujetas a lo dispuesto en este artículo y serán objeto de compensación.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 10o.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, publicará anualmente en el periódico oficial del Estado y en el periódico de mayor circulación en la Entidad, las participaciones que hubieren correspondido a cada uno de los Municipios, durante el ejercicio fiscal del año inmediato anterior.
+El Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas, publicará anualmente en el Periódico Oficial del Estado y en el periódico de mayor circulación en la Entidad, las participaciones que hubieren correspondido a cada uno de los Municipios, durante el ejercicio fiscal del año inmediato anterior.
 
 ### CAPITULO III
 
 DE LA COLABORACION ADMINISTRATIVA ENTRE MUNICIPIO Y ESTADO.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 11.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y los Ayuntamientos de los Municipios, podrán celebrar convenios de colaboración administrativa respecto de gravámenes Estatales y Municipales, así como en materia de ingresos federales coordinados previa autorización de la Secretaría de Hacienda y Crédito Público y del Congreso del Estado, para ejercer las siguientes funciones operativas:
+El Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas y los Ayuntamientos de los Municipios, podrán celebrar convenios de colaboración administrativa respecto de gravámenes Estatales y Municipales, así como en materia de ingresos federales coordinados previa autorización de la Secretaría de Hacienda y Crédito Público, para ejercer las siguientes funciones operativas:
 
 I.- Registro Federal de Contribuyentes.
 
@@ -145,25 +175,45 @@ Dichos convenios se publicarán en el Periódico Oficial del Estado.
 
 DE LOS ORGANISMOS EN MATERIA DE COORDINACION.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 12.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y los Ayuntamientos de la Entidad, por medio de sus órganos hacendarios, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Distribución de Participaciones a que se refiere esta Ley, y de la colaboración administrativa entre ambos niveles de Gobierno, para lo cual se crea la Comisión Permanente de Funcionarios Fiscales Estatales y Municipales.
+El Consejo de Coordinación Hacendaria, tiene por objeto vigilar el desarrollo y perfeccionamiento de los sistemas de distribución de las participaciones federales y estatales que corresponden a los Municipios, así como los programas de Colaboración Administrativa en Materia Fiscal, que se establezcan entre ambos órdenes de Gobierno.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 13.
 
-La Comisión Permanente de Funcionarios Fiscales Estatales y Municipales se integrará con el Titular de la Secretaría de Finanzas y los Titulares de los Organos Hacendarios Municipales de la Entidad.
+El Consejo de Coordinación Hacendaria, se integrará por:
 
-Será presidida por el citado titular de la Secretaría de Finanzas, quien tendrá a su cargo la convocatoria para sesionar, en la que se señalarán los asuntos a tratarse.
+I.- El Ejecutivo del Estado, por conducto del Secretario de Planeación y Finanzas, quien lo presidirá, y tendrá a su cargo, la convocatoria para sesionar y la designación de la persona que deberá asumir el cargo de Secretario del Consejo.
+
+El Secretario de Planeación y Finanzas, podrá ser suplido por el funcionario que de acuerdo con las disposiciones legales, le competa el o los asuntos que se vayan a tratar en las sesiones del Consejo.
+
+II.- El Congreso del Estado, por conducto del Presidente de la Comisión de Hacienda y Administración, o por la persona que la propia comisión designe, siempre y ciando (sic) sea integrante de la misma.
+
+III.- Los Municipios del Estado, por conducto de los Tesoreros de cada uno de los Ayuntamientos, los cuales podrán ser suplidos con la autoridad fiscal inmediata inferior, o por el funcionario que aquellos designen.
+
+El Consejo de Coordinación Hacendaria, fungirá como un órgano de consulta, análisis técnico y consenso de los temas que regula la presente Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 14.
 
-Son facultades de la Comisión Permanente de Funcionarios Fiscales, las siguientes:
+Son facultades del Consejo de Coordinación Hacendaria las siguientes:
 
-I.- Vigilar la distribución de las participaciones a que se refiere esta Ley y su liquidación, tanto de pagos provisionales como de diferencias correspondientes a los ajustes cuatrimestrales y anuales que formule la Secretaría de Finanzas del Estado.
+I.- Proponer al Ejecutivo del Estado, las medidas que estime convenientes para mejorar el sistema de distribución de participaciones federales y estatales a los Municipios y para el mejoramiento de la colaboración administrativa entre el Estado y los Ayuntamientos.
 
-II.- Vigilar el cumplimiento de los convenios de colaboración administrativa que celebren los Municipios con el Estado y en caso de violación a los mismos, emitir opinión al respecto y determinar las medidas correctivas.
+II.- Vigilar que la distribución de las participaciones de los Municipios se haga conforme a esta Ley.
 
-III.- Las demás que le sean encomendadas por el Secretario de Finanzas del Estado y los Titulares de los Organos Hacendarios de los Municipios.
+III.- Opinar sobre la razonabilidad de los factores, indicadores, procedimientos, fórmulas, y coeficientes utilizados para determinar la distribución de las participaciones estatales y federales a los Municipios previstos en esta Ley, y en su caso, proponer al Ejecutivo del Estado las medidas a que se refiere la fracción I de este artículo.
+
+IV.- Opinar sobre el cumplimiento o incumplimiento de los Convenios de Colaboración Administrativa que celebren los Municipios con el Estado, y proponer las recomendaciones que en su caso procedan.
+
+V.- Aprobar el reglamento para el funcionamiento del propio Consejo de Colaboración Hacendaria, y de cualquier otro órgano que en esta materia pudiera crearse.
+
+VI.- Formular las Actas de las Sesiones del Consejo de Coordinación Hacendaria, y vigilar el cumplimiento de los Acuerdos tomados en cada sesión.
 
 ## TRANSITORIOS
 
@@ -214,3 +264,17 @@ P.O. 30 DE NOVIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto, entrará en vigor el mismo día al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
+
+P.O. 31 DE DICIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1° de Enero del 2001.
+
+###### ARTICULO SEGUNDO.
+
+Para efectos del Artículo 7° BIS, Impuestos Estatales, son los Impuestos Sobre Actividades Mercantiles e Industriales, Sobre Remuneraciones al Trabajo Personal, Sobre Diversiones y Espectáculos Públicos, Sobre Compraventa y Operaciones Similares, Sobre Servicios de Hospedaje, Sobre Loterías, Rifas, Sorteos, Juegos Permitidos y Concursos, con excepción del Impuesto Adicional para la Educación Media y Superior.
+
+###### ARTICULO TERCERO.
+
+Para efecto del cálculo de las participaciones federales y estatales que correspondan a cada Municipio, a más tardar durante el mes de junio del ejercicio fiscal al que corresponden las participaciones, se efectuará el cálculo del ajuste definitivo sobre la distribución de las participaciones antes señaladas sobre la base de la recaudación real del último ejercicio fiscal terminado.
