@@ -4,7 +4,7 @@ identifier: "SON-ley-que-reglamenta-las-funciones-de-la-direccion-de-8448"
 country: "mx"
 rank: "ley"
 publication_date: "1972-11-25"
-last_updated: "1972-11-25"
+last_updated: "2003-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY QUE REGLAMENTA LAS FUNCIONES DE LA DIRECCION DE PREVENCION Y READAPTACION SOCIAL DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO QUINTO TRANSITORIO DEL DECRETO NO. 53 QUE REFORMA DIVERSOS ARTICULOS DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE SONORA, PUBLICADA EN LA SECCION SEGUNDA DEL BOLETIN OFICIAL DEL ESTADO DE SONORA, EL JUEVES 18 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Primer Alcance Número 43, del Boletín Oficial del Estado de Sonora, el sábado 25 de noviembre de 1972.
 
@@ -118,3 +120,35 @@ EL OFICIAL PRIMERO EN FUNCS.
 DE (SIC) SECRETARIO DE GOBIERNO
 
 René Esquer.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS QUE REFORMAN LA PRESENTE LEY.</small>
+
+P.O. 18 DE DICIEMBRE DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de Enero de 2004.
+
+###### ARTICULO SEGUNDO.
+
+En el caso de las atribuciones de las dependencias que conforme a este Decreto pasen a ser competencia del Secretario Ejecutivo, la reasignación deberá efectuarse incluyendo al personal a su servicio, presupuesto, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que las dependencias hayan utilizado para la atención de las atribuciones de que se trate.
+
+El Ejecutivo del Estado, por conducto de la Secretaria de Hacienda, con la participación del Secretario Ejecutivo, deberá concluir el traspaso a que se refiere el párrafo anterior, en un plazo no mayor de seis meses, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Los asuntos que con motivo de la entrada en vigor de este Decreto deban pasar de las dependencias correspondientes al Secretario Ejecutivo, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas de este último estén en condiciones de continuar su tramitación, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+###### ARTICULO CUARTO.
+
+El Ejecutivo del Estado deberá expedir el Reglamento Interior del Secretario Ejecutivo y el de la Policía Estatal de Seguridad Pública, en un plazo no mayor de seis meses, contados a partir de la entrada en vigor de este Decreto.
+
+###### ARTICULO QUINTO.
+
+Se abrogan la Ley que Reglamenta las Funciones de la Dirección de Prevención y Readaptación Social y el Decreto que crea el Centro de Ciencias Penales del Estado de Sonora, publicados en los Boletines Oficiales del Gobierno del Estado de fecha 26 de noviembre de 1972 y 23 de diciembre de 1991, respectivamente.
+
+###### ARTICULO SEXTO.
+
+Las funciones que la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad otorga a la Dirección de Prevención y Readaptación Social, serán asumidas por el Secretario Ejecutivo a través de la Dirección General del Sistema Estatal Penitenciario.
+
+Asimismo, las funciones que la Ley de Tránsito del Estado de Sonora otorga a la Coordinación Estatal de Seguridad Pública y Tránsito serán asumidas por el Secretario Ejecutivo.
