@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2000-12-19"
+last_updated: "2001-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -273,13 +273,17 @@ XIII. Secretaría de Medio Ambiente para el Desarrollo Sustentable;
 
 XIV. Contraloría del Estado, y
 
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+
+XV. Procuraduría de Desarrollo Urbano.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 1998)</small>
 
-XV. Procuraduría General de Justicia.
+XVI. Procuraduría General de Justicia.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
-La Procuraduría General de Justicia y la Universidad de Guadalajara, se regirán por sus respectivas leyes.
+La Procuraduría General de Justicia, la Universidad de Guadalajara y La Procuraduría de Desarrollo Urbano se regirán por sus respectivas leyes.
 
 ###### Art. 24.
 
@@ -1642,3 +1646,13 @@ SEGUNDO. El Programa Permanente para la Divulgación de la Legislación del Esta
 TERCERO. Las disposiciones contenidas en los artículos Primero y Segundo del presente decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
 
 CUARTO. Envíese copia certificada del presente proyecto del dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que conste las discusiones que hubiera provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
+
+P.O. 13 DE MARZO DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Quien actualmente funja como Procurador de Desarrollo Urbano del Estado de Jalisco deberá cumplir su encargo por los seis años, iniciando este término a partir del día en que tomó protesta ante la soberanía de este Poder Legislativo.
+
+CUARTO.- Las reformas y adiciones de los ordenamientos señalados en los artículos primero y segundo de este decreto entrarán en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
