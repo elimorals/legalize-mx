@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-expropiacion-para-el-estado-de-mexico-6022"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-17"
-last_updated: "1996-01-17"
+last_updated: "1997-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE EXPROPIACION PARA EL ESTADO DE MEXICO
 
-LEY DE EXPROPIACION PARA EL ESTADO DE MEXICO
+LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE FEBRERO DE 1997.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 1996.
 
@@ -273,95 +273,55 @@ Si el propietario no ejercita su derecho a la reversión dentro del plazo a que 
 
 ### CAPITULO III. DEL RECURSO ADMINISTRATIVO DE REVOCACION
 
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
+
 ###### Artículo 32.
 
-Contra el decreto de expropiación, podrá promoverse, ante la Secretaría General de Gobierno, el recurso administrativo de revocación.
+Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
 ###### Artículo 33.
 
-El plazo para promover el recurso de revocación será de quince días hábiles contados a partir del siguiente a aquél en que se haya notificado el decreto que se recurre.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 34.
 
-El recurso administrativo de revocación deberá contener:
-
-I. Nombre y domicilio del recurrente;
-
-II. El decreto expropiatorio impugnado;
-
-III. La fecha en que le fue notificado o tuvo conocimiento del decreto expropiatorio;
-
-IV. Los hechos y preceptos legales que sustenten la impugnación del decreto expropiatorio;
-
-V. Las pruebas que ofrezca el recurrente, conducentes a los hechos, con excepción de la confesional de posiciones de las autoridades y organismos auxiliares y fideicomisos; y
-
-VI. La firma del recurrente.
-
-Quedará a cargo del recurrente la presentación de testigos, dictámenes y documentos en la fecha que se fije al efecto.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 35.
 
-La Secretaría General de Gobierno substanciará el recurso administrativo de revocación por conducto de la Dirección Jurídica y Consultiva la que citará a una audiencia para desahogar las pruebas ofrecidas y lo resolverá dentro de los quince días hábiles siguientes a la fecha del desahogo de las pruebas.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 36.
 
-La interposición del recurso de revocación no suspende la ejecución del decreto expropiatorio.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 37.
 
-El recurso se tendrá por no interpuesto cuando:
-
-I. Se presente fuera del plazo;
-
-II. No se acompañe la documentación que acredite la personalidad del recurrente cuando esta fuere necesaria; y
-
-III. No sea firmado o lo haga persona distinta de quien deba hacerlo, a menos que se corrija la omisión antes del vencimiento del plazo para interponerlo.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 38.
 
-Cuando el recurrente incurra en algunas de las omisiones previstas en las fracciones II y III, del artículo anterior, la autoridad lo prevendrá para que las subsane dentro del término de tres días hábiles, en caso de incumplimiento se tendrá por no interpuesto.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 39.
 
-El recurso administrativo de revocación, se desechará por improcedente cuando:
-
-I. Se interponga en contra de un decreto de expropiación que sea materia de otro recurso que se encuentre pendiente de resolución, promovido por el mismo recurrente y por los mismos actos;
-
-II. Se interponga en contra de un decreto de expropiación que no afecte los intereses jurídicos del promovente;
-
-III. El decreto de expropiación se haya consentido expresamente; y
-
-IV. Se esté tramitando ante los tribunales algún medio de defensa promovido por el recurrente, que pueda modificar, revocar o nulificar el decreto de expropiación.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 40.
 
-El recurso administrativo de revocación será sobreseído cuando:
-
-I. El promovente se desista expresamente del recurso;
-
-II. Durante el procedimiento sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
-
-III. Por falta de objeto o materia del decreto expropiatorio; y
-
-IV. No se pruebe la existencia del decreto expropiatorio.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 41.
 
-La autoridad competente, al resolver el recurso, podrá:
-
-I. Desecharlo por improcedente o sobreseerlo;
-
-II. Confirmar el decreto expropiatorio; y
-
-III. Resolver la invalidez total o parcial del decreto expropiatorio.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 42.
 
-la autoridad, al resolver el recurso, deberá fundar la resolución, limitarse al estudio de los agravios hechos valer por el recurrente, invocar disposiciones legales aplicables y estar a lo solicitado por éste.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 43.
 
-Cuando uno de los agravios expresados por el recurrente sea suficiente para resolver la invalidez del decreto expropiatorio, bastará con el análisis respectivo, sin necesidad de estudiar los restantes.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 T R A N S I T O R I O S
 
@@ -392,3 +352,27 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. HECTOR XIMENEZ GONZALEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 7 DE FEBRERO DE 1997.
+
+Artículo Primero.- Publíquese el presente Código en la «Gaceta del Gobierno».
+
+Artículo Segundo.- Este Código entrará en vigor a los 30 días naturales siguientes al de su publicación en la «Gaceta del Gobierno».
+
+Artículo Tercero.- Se abroga la Ley de Justicia Administrativa del Estado de México, publicada en la «Gaceta del Gobierno» el 31 de diciembre de 1986.
+
+Artículo Cuarto.- Se derogan los siguientes artículos: 67, 74, 78, del 108 al 166, 168 y 169 del Código Fiscal del Estado de México; 66, 71, 75, del 104 al 162 y del 164 a 166 del Código Fiscal Municipal del Estado de México; del 155 al 159 de la Ley Orgánica Municipal del Estado de México; 50, 66, 67 y del 100 al 102 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios; 133, 135, 141, 144 y 145 de la Ley de Asentamientos Humanos del Estado de México; 62, 63, 70 y del 85 al 88 de la Ley de Protección al Ambiente del Estado de México; del 288 al 296 y del 298 al 307 de la Ley de Salud del Estado de México; 46, 52 y del 54 al 57 de la Ley de Protección Civil del Estado de México; 53 de la Ley de Catastro del Estado de México; 31 y 88 último párrafo de la Ley de Hacienda Municipal del Estado de México; 39 de la Ley de Aportaciones de Mejoras del Estado de México; del 37 al 39 de la Ley sobre la Prestación de los Servicios de Agua Potable y Alcantarillado en el Estado de México; 43 y 45 de la Ley de Turismo del Estado de México; 42 y 43 de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos, Mantenimientos y Almacenes del Estado de México; del 144 al 146 de la Ley de Seguridad Social para los Servidores Públicos del Estado y Municipios; 29 y 37 de la Ley para el Fomento Económico del Estado de México; del 33 al 43 de la Ley de Expropiación para el Estado de México; 61 y 62 de la Ley Agrícola y Forestal del Estado de México; y 112 y 113 de la Ley de Fomento Ganadero del Estado de México.
+
+Artículo Quinto.- Se reforman los artículos 167 del Código Fiscal del Estado de México, 163 del Código Fiscal Municipal del Estado de México, 154 de la Ley Orgánica Municipal del Estado de México, 65 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, 143 de la Ley de Asentamientos Humanos del Estado de México, 84 de la Ley de Protección al Ambiente del Estado de México, 297 de la Ley de Salud del Estado de México, 136 último párrafo de la Ley Orgánica del Notariado del Estado de México, 57 de la Ley de Tránsito y Transportes del Estado de México, 53 de la Ley de Protección Civil del Estado de México, 43 de la Ley de Catastro del Estado de México, 38 de la Ley de Aportaciones de Mejoras del Estado de México, 57 de la Ley de Obras Públicas del Estado de México, 36 de la Ley sobre la Prestación de los Servicios de Agua Potable y Alcantarillado en el Estado de México, 44 de la Ley de Turismo del Estado de México, 41 de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos, Mantenimientos y Almacenes del Estado de México, 45 de la Ley Protectora de Animales del Estado de México, 143 de la Ley de Seguridad Social para los Servidores Públicos del Estado y Municipios, 38 de la Ley para el Fomento Económico del Estado de México, 32 de la Ley de Expropiación para el Estado de México, 63 de la Ley Agrícola y Forestal del Estado de México y 114 de la Ley de Fomento Ganadero del Estado de México, para que cada uno quede con el texto siguiente: «Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México».
+
+Artículo Sexto.- Se derogan las normas legales y reglamentarias de igual o menor jerarquía que sean contrarias a las disposiciones del presente Código.
+
+Artículo Séptimo.- Los procedimientos y recursos administrativos, así como los juicios contencioso administrativos que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales anteriores al mismo.
+
+Artículo Octavo.- Los actuales magistrados del Tribunal de lo Contencioso Administrativo podrán ser jubilados de acuerdo a la ley de la materia, dentro de los 120 días naturales siguientes a la entrada en vigor de este ordenamiento. Recibirán las prestaciones que establezca la legislación, excepto que regresen a ejercer sus funciones.
+
+Artículo Noveno.- Con la finalidad de que los magistrados del Tribunal de lo Contencioso Administrativo puedan sustituirse en forma escalonada, seis serán nombrados por cinco años y seis por diez años.
+
+Artículo Décimo.- Las secciones de la sala superior del Tribunal se integrarán dentro de los 120 días naturales posteriores a la entrada en vigor del presente Código. En tanto se integran estas secciones, sus atribuciones se ejercerán por la sala superior, con su estructura anterior.
