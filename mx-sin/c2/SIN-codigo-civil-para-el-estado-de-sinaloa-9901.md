@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1951-06-12"
+last_updated: "1954-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1954.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -12155,7 +12155,9 @@ Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hab
 
 El arrendador puede exigir la rescisión del contrato:
 
-I.- Por falta de pago de la renta en los términos prevenidos en el artículo 2336 para los contratos de fincas rústicas. Tratándose de fincas urbanas, por falta de pago de la renta correspondiente a dos meses; pero si la finca urbana está destinada a habitación se requerirá la falta de pago de tres meses.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1954)</small>
+
+I.- Por falta de pago de la renta en los términos prevenidos en el artículo 2336 para los contratos de fincas rústicas. Tratándose de fincas urbanas, por falta de pago de la renta correspondiente a dos meses; pero si la finca urbana está destinada a habitación se requerirá la falta de pago de tres meses. En este último caso, si apareciere que con anterioridad a la presentación de la demanda de rescisión se iniciarán diligencias de consignación en pago de rentas, sólo procederá la rescisión si previamente se declara fundada la oposición a la consignación.
 
 II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2307.
 
@@ -15244,3 +15246,7 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos legales a partir de 
 P.O. 12 DE JUNIO DE 1951.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir del día quince del presente mes.
+
+P.O. 20 DE JULIO DE 1954.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
