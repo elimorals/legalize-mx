@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-de-seguridad-publica-del-estado-de-nuevo-10651"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-24"
-last_updated: "1998-02-02"
+last_updated: "2000-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de mayo de 1996.
 
@@ -57,9 +57,13 @@ En el Estado, la seguridad pública, comprenderá de manera integral, las accion
 
 I.- La policía preventiva;
 
-II.- La policía judicial;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-III.- El Ministerio Público;
+II.- El Ministerio Público;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+III.- La Policía Ministerial;
 
 IV.- Las autoridades judiciales;
 
@@ -70,6 +74,14 @@ VI.- Las autoridades administrativas de formación a la carrera policial;
 VII.- Los servicios privados de seguridad y otros auxiliares en seguridad pública; y
 
 VIII.- Otras autoridades relacionadas con la seguridad pública.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+Las autoridades de Seguridad Pública del Estado dictarán las medidas conducentes para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador, Secretario General de Gobierno, Procurador General de Justicia y Subprocurador del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+Los servidores públicos señalados en el párrafo anterior tendrán derecho a que los Cuerpos de Seguridad Pública del Estado otorguen protección a su integridad física y a la de su familia durante el ejercicio de su encargo y hasta los dos años siguientes a la conclusión del mismo, término que será prorrogable a juicio de la autoridad competente tomando en consideración las circunstancias particulares del caso.
 
 ###### Artículo 5o.
 
@@ -123,9 +135,13 @@ III.- Los Presidentes Municipales de los Municipios de Monterrey, Guadalupe, San
 
 IV.- El Director General de Seguridad Pública en el Estado;
 
-V.- El Director de la Policía Judicial del Estado;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-VI.- Los Representantes o Delegados en el Estado, de la Secretaría de la Defensa Nacional, la Procuraduría General de la República, la Policía Federal de Caminos y Puertos; y
+V.- El Director de la Policía Rural;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+VI.- Los representantes o Delegados en el Estado de la Secretaría de la Defensa Nacional, la Procuraduría General de la República y la Policía Federal Preventiva; y
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1998)</small>
 
@@ -577,6 +593,322 @@ El Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, pro
 
 El Consejo notificará a las autoridades competentes los reportes, a fin de que se actúe conforme al párrafo anterior.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+## TITULO QUINTO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO I. DE LA POLICIA PREVENTIVA
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 62.
+
+Son autoridades de la Policía Preventiva del Estado de Nuevo León:
+
+El Gobernador del Estado;
+
+El Secretario General de Gobierno;
+
+El Sub-secretario de Seguridad Pública;
+
+El Procurador General de Justicia;
+
+El Director de Seguridad Pública del Estado;
+
+El Director de la Policía Rural;
+
+Los Presidentes Municipales; y
+
+Los Directores y funcionarios de los diversos cuerpos de policía del Estado.
+
+Al Titular del Poder Ejecutivo del Estado le compete proteger la seguridad de las personas, sus bienes y derechos; así como mantener la paz, la tranquilidad y el orden público en todo el Estado, por conducto de las Dependencias que conforme a la Ley Orgánica de la Administración Pública deban ejercer esa atribución.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 63.
+
+El servicio de seguridad pública que proporcione la policía preventiva se regirá por los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 64.
+
+El Ejecutivo del Estado podrá celebrar convenios con los municipios del Estado, previa aprobación de los Ayuntamientos correspondientes, para que de manera directa se haga cargo en forma temporal de la prestación del servicio público de policía preventiva, o bien se preste coordinadamente entre ambos niveles de gobierno, conforme a las prescripciones del artículo 6 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 65.
+
+A la Policía Preventiva comprenderá, entre otras acciones que determinen ésta y las demás leyes, las siguientes:
+
+I.- Prevenir y evitar la comisión de delitos y demás actos contrarios a la seguridad de las personas y a su patrimonio;
+
+II.- Vigilar el cumplimiento estricto de las leyes y reglamentos de policía y buen gobierno;
+
+III.- Mantener el orden y la tranquilidad en los lugares públicos;
+
+IV.- Auxiliar a las autoridades para que en el ámbito de su competencia se dé cumplimiento a las leyes y reglamentos de la materia;
+
+V.- Colaborar en las labores preventivas y de auxilio en los casos de desastres naturales o los causados por la actividad humana.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 66.
+
+Los integrantes de la policía preventiva están obligados a cumplir los siguientes deberes:
+
+I.- Respetar en forma estricta el orden jurídico y los derechos humanos;
+
+II.- Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
+
+III.- Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su raza, religión, sexo, condición económica o social, preferencia sexual, ideología política o por algún otro motivo;
+
+IV.- Abstenerse en todo momento y bajo cualquier circunstancia de infligir, tolerar o permitir actos de tortura u otros tratos o sanciones crueles, inhumanos o degradantes, aun cuando se trate de orden superior o se argumenten circunstancias especiales, como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra de naturaleza similar. Si se tiene conocimiento de estos hechos lo denunciará inmediatamente a la autoridad competente;
+
+V.- Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar, indebidamente, las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
+
+VI.- Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción;
+
+VII.- Abstenerse de realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+
+VIII.- Velar por la vida e integridad física de las personas detenidas, en tanto se ponen a disposición del Ministerio Público o de la autoridad competente;
+
+IX.- Participar en operativos de coordinación con otras corporaciones policiacas, así como brindarles, en su caso, el apoyo que conforme a Derecho proceda;
+
+X.- Obedecer las órdenes de los superiores jerárquicos y cumplir con todas sus obligaciones, siempre y cuando sean conforme a Derecho;
+
+XI.- Ser respetuoso con sus subordinados y ejemplo de honradez, disciplina, honor, lealtad a las instituciones y fiel observante de la legalidad;
+
+XII.- Preservar el secreto de los asuntos que por razón del desempeño de su función conozcan, con las excepciones que determinen las leyes; y
+
+XIII.- Las demás acciones u omisiones que establezca el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 67.
+
+En consideración a la naturaleza del servicio público que prestan los integrantes de los cuerpos de policía preventiva, tienen prohibido:
+
+I.- Participar en actos públicos en los cuales se denigre a la institución, a los Poderes del Estado o a las instituciones jurídicas que rigen en el país;
+
+II.- Abandonar el servicio o no realizar la comisión que se le haya ordenado, así como presentarse fuera de las horas señaladas para el servicio o comisión;
+
+III.- Tomar parte activa en calidad de participante en manifestaciones, mítines u otras reuniones de carácter público de igual naturaleza, así como realizar o participar de cualquier forma, por causa propia o por solidaridad con causa ajena, en cualquier movimiento o huelga, paro o actividad similar que implique o tienda a la suspensión o ineficacia del servicio;
+
+IV.- Revelar los datos u órdenes secretas que reciba de sus superiores;
+
+V.- Rendir informes falsos a sus superiores respecto de los servicios o comisiones que le fueren encomendados;
+
+VI.- Valerse de su investidura para cometer cualquier acto que no sea de su competencia;
+
+VII.- Incitar en cualquier forma a la comisión de delitos o faltas administrativas;
+
+VIII.- Cometer cualquier acto de indisciplina o abuso de autoridad en el servicio o fuera de él;
+
+IX.- Desobedecer las órdenes emanadas de las autoridades judiciales, especialmente en los casos relacionados con la libertad de las personas;
+
+X.- Expedir órdenes cuya ejecución constituya un delito. El subalterno que las cumpla y el superior que las expida serán responsables conforme a la Ley;
+
+XI.- Permitir la participación de personas que se ostenten como policías sin serlo, en actividades que deban ser desempeñadas por miembros de la policía preventiva;
+
+XII.- Salvar conductos al tratar asuntos del servicio;
+
+XIII.- Poner en libertad a los presuntos responsables de algún delito, sin haberlos puesto a disposición del Ministerio Público;
+
+XIV.- Solicitar o recibir regalos o dádivas de cualquier especie, así como aceptar ofrecimiento o promesa, por acciones u omisiones del servicio y, en general, realizar cualquier acto de corrupción;
+
+XV.- Presentarse o desempeñar su servicio o comisión bajo los efectos de alguna droga, en estado de ebriedad, con aliento alcohólico o ingiriendo bebidas alcohólicas; así como presentarse uniformado en casas de prostitución o centros de vicio y otros análogos a los anteriores, sin justificación en razón del servicio;
+
+XVI.- Realizar colecta de fondos o rifas durante el servicio;
+
+XVII.- Utilizar en forma negligente o indebida, dañar, vender o pignorar el armamento que se le proporcione para la prestación del servicio; y
+
+XVIII.- Las demás acciones u omisiones que establezca el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 68.
+
+La Dirección de Seguridad Pública y la Dirección de Policía Rural son las unidades administrativas, de carácter operativo, que prestarán directamente el servicio público de seguridad en las zonas urbanas y rurales del Estado, respectivamente, en los términos de lo previsto en esta Ley y su Reglamento. Se organizarán conforme al Reglamento que expida el Titular del Poder Ejecutivo, en el que se indicarán, entre otros aspectos, la estructura administrativa y operativa, clasificación de mandos y comandos y sus funciones específicas. Los Directores serán designados y removidos por el Titular del Poder Ejecutivo del Estado.
+
+Asimismo las autoridades municipales expedirán sus Reglamentos respectivos.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 69.
+
+La carrera policiaca se establece con carácter obligatorio y permanente para los integrantes de las instituciones policiales, en virtud de que es el elemento básico para su formación. En el Reglamento de esta Ley se establecerán los requisitos y procedimientos de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, promoción y separación del servicio, así como su evaluación.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 70.
+
+Todo el personal adscrito a la Dirección de Seguridad Pública y Dirección de Policía Rural del Estado, y demás corporaciones que realice labores de policía preventiva deberá capacitarse, previamente a su ingreso al servicio.
+
+El personal administrativo recibirá la capacitación y adiestramiento que determine el Reglamento de esta Ley.
+
+Los municipios del Estado procurarán que el personal de su policía preventiva acuda a la Academia Estatal de Policía para recibir la instrucción correspondiente, previa celebración de los convenios de cooperación respectivos, en los que se estipulen los términos, condiciones, modalidades y compensaciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO II. DE LA ACADEMIA ESTATAL DE POLICIA
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 71.
+
+El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, tendrá a su cargo la Academia Estatal de Policía, como unidad de capacitación y especialización, responsable de la instrucción de los integrantes de los cuerpos de seguridad pública de carácter preventivo del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 72.
+
+La instrucción que imparta la Academia Estatal de Policía se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez, haciendo especial énfasis en los procedimientos y estrategias para combatir la corrupción. Para tal efecto, la formación que imparta la Academia inculcará en los integrantes de las instituciones policiacas el cumplimiento de los deberes y prohibiciones indicados en los artículos 66 y 67 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 73.
+
+La Academia Estatal de Policía podrá proporcionar instrucción al personal de los cuerpos de seguridad pública de otros estados y de sus municipios, previa la celebración de convenios en los que se pacten los términos, condiciones, modalidades y compensaciones correspondientes. Así mismo, acreditará la capacitación del personal de los prestadores de servicios privados de seguridad, conforme a los términos y condiciones que establezca el Reglamento.
+
+El Titular del Poder Ejecutivo del Estado podrá coordinarse con el Gobierno Federal y con los demás estados y sus municipios, para homologar procedimientos y equivalencias de los contenidos mínimos de los planes y programas para la formación de los integrantes de las instituciones policiales.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 74.
+
+Para el cumplimiento de sus objetivos, la Academia contará con un Consejo Técnico integrado por un representante, respectivamente, de la Secretaría General de Gobierno, Procuraduría General de Justicia, Secretaría de Finanzas y Tesorería General del Estado, Secretaría de Educación y del Consejo de Coordinación de Seguridad Pública del Estado.
+
+El Consejo será de naturaleza consultiva y estará facultado para examinar y dar opinión sobre los planes y programas de estudio y de otros proyectos académicos, así como sobre la organización y funcionamiento de la Academia, entre otras facultades de igual carácter que le señale el Reglamento.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 75.
+
+El Director de la Academia deberá reunir los requisitos que señale el Reglamento y será nombrado y removido libremente por el Gobernador del Estado.
+
+La Academia contará con una planta docente seleccionada conforme al procedimiento que determine el Reglamento, bajo los principios de idoneidad, capacidad académica, honradez y vocación de servicio.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO III. DE LA NATURALEZA DEL SERVICIO Y REGIMEN LABORAL
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 76.
+
+El personal que integra los Cuerpos de Seguridad Pública del Estado y Municipios es de confianza, incluyendo a los que prestan los servicios en los Centros de Readaptación Social, protección Civil y Academia Estatal de Policía, en los términos de la Ley del Servicio Civil del Estado de Nuevo León.
+
+Por la naturaleza del servicio, sus integrantes están destinados a mantener la tranquilidad y el orden públicos, a proteger los intereses de la sociedad y de los individuos que la componen y, en general, a cumplir con la función que les encomiende la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León y los demás ordenamientos jurídicos aplicables, velando en todo momento por el irrestricto respeto a los derechos humanos y el combate a todo tipo de corrupción.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 77.
+
+Los nombramientos, derechos y obligaciones de carácter laboral de los integrantes de la policía preventiva del Estado y Municipios, se sujetarán a las disposiciones de esta Ley y de su Reglamento y, en lo no previsto, a lo indicado en la Ley del Servicio Civil del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 78.
+
+Las prestaciones relacionadas con la seguridad social de los integrantes de la policía preventiva se sujetará a las prescripciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León. En el caso de la policía preventiva de los municipios se observará, en su caso, lo dispuesto en la fracción II del Artículo 3 de la Ley citada.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 79.
+
+Adicionalmente a las prestaciones que señale la Ley aplicable, el Ejecutivo del Estado, previo el cumplimiento de los requisitos que señale el Reglamento de esta Ley, podrá otorgar una compensación adicional a los integrantes de la policía preventiva que resulten lesionados o incapacitados para continuar prestando sus funciones habituales; en cuyo caso, de ser posible, se les destinará a realizar labores administrativas.
+
+De igual manera, en los términos que indique el Reglamento de esta Ley, cuando ocurra un deceso o incapacidad total permanente como causa directa del cumplimiento del deber, se podrá otorgar una casa de interés social a sus dependientes económicos, en caso de que no tengan una en propiedad, así como una compensación que cubra los gastos funerarios y becas para la educación de los hijos menores de edad.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 80.
+
+El Ejecutivo del Estado, por conducto de la Dependencia competente tramitará los ascensos del personal, conforme a lo establecido en el Artículo 83 de la Ley, teniendo en cuenta los expedientes u hojas de servicios de los actuales miembros, respetando los derechos adquiridos.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 81.
+
+El ascenso o la promoción al grado inmediato superior, sólo se considerará dentro de la misma especialidad o servicio, excepto en los casos en los que no haya interesados para cubrir la vacante. Sólo se concederá el ascenso cuando haya plaza disponible. Los beneficios provenientes de un ascenso sólo pueden ser renunciados por aquellos a quienes corresponda el derecho de ascender. La renuncia al ascenso no implica la pérdida del empleo, cargo o comisión que desempeñe.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 82.
+
+Por ningún motivo se concederán ascensos a los individuos que se encuentren:
+
+a) Inhabilitados por sentencia judicial ejecutoriada;
+
+b) Disfrutando de licencia para asuntos particulares;
+
+c) Sujetos a un proceso penal;
+
+d) Desempeñando un cargo de elección popular; y
+
+e) En cualquier otro supuesto previsto en otras leyes.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 83.
+
+Los ascensos se concederán, teniendo en cuenta las circunstancias siguientes:
+
+a) Perfil y Capacidad;
+
+b) Antigüedad en la corporación;
+
+c) Conducta;
+
+d) Antigüedad como servidor público;
+
+e) Méritos especiales; y
+
+f) A través de los cursos de ascenso correspondiente.
+
+Cuando haya igualdad en las dos primeras, las segundas serán las que se tomen en cuenta y, en último caso, será decisión del Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 84.
+
+La antigüedad para los elementos de la Dirección de Seguridad Pública se contará desde la fecha en que hayan causado alta en cualquiera de las dependencias del Gobierno del Estado, en forma ininterrumpida.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 85.
+
+No se computará como tiempo de servicio:
+
+a) El de las licencias ordinarias y extraordinarias, cuando se concedieron para asuntos particulares;
+
+b) El de las comisiones fuera del servicio de la Policía; y
+
+c) El de las suspensiones, en los casos en que éstas sean obstáculos para la concesión del ascenso.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO IV. DE LA COMISION DE HONOR Y JUSTICIA
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 86.
+
+Para el conocimiento, trámite y resolución de las quejas que se presenten en relación con la actuación de los integrantes de la policía preventiva, se crea la Comisión de Honor y Justicia, como un órgano de carácter administrativo, dependiente de la Secretaría General de Gobierno, integrado por cinco miembros designados por el Titular del Poder Ejecutivo del Estado.
+
+La Comisión de Honor y Justicia sólo tendrá competencia tratándose de los servidores públicos adscritos a la Dirección de Seguridad Pública y Dirección de Policía Rural del Estado. En cada municipio, en los términos de su Reglamento de Policía y Buen Gobierno, se crearán comisiones con iguales fines.
+
+(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000) (F. DE E., P.O. 30 DE OCTUBRE DE 2000)
+
+###### Artículo 87.
+
+La substanciación del procedimiento de responsabilidad administrativa y la aplicación de sanciones a los miembros de los cuerpos de seguridad pública, se ceñirá a las prescripciones de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+
+La Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública del Estado y las comisiones análogas de los municipios, remitirán a la Secretaría de la Contraloría General del Estado copia de las resoluciones mediante las cuales se impongan sanciones por responsabilidad administrativa, para el efecto de inscribirlas en el Registro de Servidores Públicos sancionados e inhabilitados o para efectos laborales en los términos de la Ley del Servicio Civil del Estado de Nuevo León.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO
@@ -626,3 +958,17 @@ ESTEBAN TOMAS GONZALEZ ARDINES
 P.O. 2 DE FEBRERO DE 1998.
 
 ÚNICO:- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor 30-treinta días siguientes a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de los Cuerpos de Seguridad Pública del Estado de Nuevo León, publicada en el Periódico Oficial del Estado de fecha 19 de enero de 1983 y sus reformas, así como cualquiera otras disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de esta Ley, dentro de un plazo no mayor a ciento ochenta días naturales, contados a partir de la fecha de entrada en vigor de este Decreto.
