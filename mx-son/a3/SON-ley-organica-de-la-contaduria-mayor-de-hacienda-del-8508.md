@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-contaduria-mayor-de-hacienda-del-8508"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-03-04"
-last_updated: "1985-03-04"
+last_updated: "1994-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE ABRIL DE 1994.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 4 de marzo de 1985.
 
@@ -107,7 +107,9 @@ VII.- Ordenar visitas e inspecciones, practicar auditorías, solicitar informes 
 
 VIII.- Solicitar a los auditores externos de las entidades de la Administración Pública Paraestatal o Paramunicipal, copias de los informes o dictámenes de las auditorías por ellos practicadas y las aclaraciones, en su caso, que se estimen pertinentes.
 
-IX.- Elaborar y rendir al Congreso, a través de la Comisión de Vigilancia, los informes sobre el resultado de las revisiones de las cuentas públicas del Estado y de los Municipios, durante el mes de mayo del año de la presentación de las mismas. Estos informes contendrán, enunciativamente;
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE ABRIL DE 1994)</small>
+
+IX.- Elaborar y rendir al Congreso, en los términos del artículo 42 de la Constitución Política del Estado, a través de la Comisión de Vigilancia, los informes sobre el resultado de las revisiones de las cuentas públicas del Estado y de los revisiones de las cuentas públicas del Estado y de los Municipios. Estos informes contendrán enunciativamente:
 
 a) La calificación acerca de si las cuentas públicas están presentadas de acuerdo con las normas y procedimientos de contabilidad generalmente aceptados.
 
@@ -209,7 +211,9 @@ II.- Proponer a la Contaduría Mayor de Hacienda, cuando lo estime conveniente p
 
 III.- Analizar los informes sobre los resultados de la revisión a que se refiere el artículo 8o, fracción V y proceder en los términos de las leyes relativas.
 
-IV.- Presentar al Congreso del Estado, dentro de los diez primeros días del mes de junio, el dictamen de las cuentas públicas que le presente la Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, B.O. 28 DE ABRIL DE 1994)</small>
+
+IV.- Presentar al Congreso del Estado el dictamen de las cuentas públicas que le presente la Contaduría Mayor de Hacienda.
 
 V.- Someter a la consideración del Congreso del Estado el presupuesto anual de la Contaduría Mayor de Hacienda.
 
@@ -351,7 +355,7 @@ La Ley entrará en vigor a partir de la fecha de su publicación en el Boletín 
 
 ###### ARTÍCULO SEGUNDO.
 
-Se abrogan la ley que establece con carácter permanente la Oficina de Glosa y reglamenta la organización y funcionamiento y el Reglamento de la Sección Mayor de Glosa; asimismo, se derogan cualesquiera otras disposiciones que se opongan a la presente ley.
+Se abrogan la ley que establece con carácter permanente la Oficina de Glosa y reglamenta la organización y funcionamiento y el Reglamento de la Sección Mayor de Glosa; asímismo, se derogan cualesquiera otras disposiciones que se opongan a la presente ley.
 
 ###### ARTÍCULO TERCERO.
 
@@ -394,3 +398,9 @@ Dr. Samuel Ocaña García.
 EL SECRETARIO DE GOBIERNO.
 
 Lic. Carlos Gámez Fimbres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS QUE REFORMAN LA PRESENTE LEY.</small>
+
+B.O. 28 DE ABRIL DE 1994.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previa aprobación por los Ayuntamientos de Sonora a la iniciativa de Ley que reforma el artículo 42 de la Constitución Política del Estado de Sonora.
