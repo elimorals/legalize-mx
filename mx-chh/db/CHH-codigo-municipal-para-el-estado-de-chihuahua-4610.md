@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1996-12-28"
+last_updated: "1997-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1997.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2091,6 +2091,10 @@ Los avalúos a que se refieren los párrafos anteriores deberán comprender el t
 
 La tasa del impuesto es del dos por ciento sobre la base gravable, sin que en ningún caso pueda incrementarse con impuestos adicionales o contribuciones especiales. Tratándose de acciones de vivienda nueva de interés social o popular, la tasa será la que se determine en las leyes de ingresos.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 1997)</small>
+
+En aquellos Municipios en que así lo determinen sus leyes de ingresos, cuando la base gravable no exceda de 365 veces el salario mínimo general diario, vigente en la Capital del Estado, la tasa del impuesto será del 0%.
+
 #### SECCION II. DECLARACIONES Y PAGO DEL IMPUESTO
 
 ###### ARTICULO 160.
@@ -2551,7 +2555,7 @@ La suspensión, podrá ser solicitada en cualquier tiempo ante la autoridad ejec
 
 La tramitación de los recursos administrativos, en contra de actos de las autoridades municipales, se sujeta al procedimiento siguiente:
 
-I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieren desahogado por causas no imputables a él y las supervenientes;
+I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieran desahogado por causas no imputables a él y las supervenientes;
 
 II.- El escrito deberá presentarse dentro de los quince días siguientes, al en que surta efectos la notificación del acto que se impugna. No será admisible la interposición de recursos por medio del correo;
 
@@ -2652,3 +2656,9 @@ SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de La
 P.O. 28 DE DICIEMBRE DE 1996.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
