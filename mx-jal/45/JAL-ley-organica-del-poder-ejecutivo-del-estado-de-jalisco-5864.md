@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "1998-01-10"
+last_updated: "2000-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -205,7 +205,11 @@ XX. El apoyo, control y vigilancia en la prestación de los servicios de salud y
 
 XXI. La promoción de la participación social en asuntos de interés colectivo; y
 
-XXII. Las demás atribuciones generales que le confieran las leyes, reglamentos y decretos vigentes.
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+XXII. La prevención y disminución de la contaminación ambiental y el establecimiento de políticas, estrategias y programas para el aprovechamiento y uso sustentable de los recursos naturales; y
+
+XXIII. Las demás atribuciones generales que le confieran las leyes, reglamentos y decretos vigentes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ENERO DE 1998)</small>
 
@@ -261,13 +265,17 @@ XI. Secretaría de Administración;
 
 XII. Secretaría de Seguridad Pública, Prevención y Readaptación Social;
 
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+XIII. Secretaría de Medio Ambiente para el Desarrollo Sustentable;
+
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XIII. Contraloría del Estado, y
+XIV. Contraloría del Estado, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 1998)</small>
 
-XIV. Procuraduría General de Justicia.
+XV. Procuraduría General de Justicia.
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -549,17 +557,15 @@ XI. Formular y operar en lo procedente, conjuntamente con la Federación los pla
 
 XI Bis. Evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
-XII. Evaluar los proyectos que se formulen utilizando indicadores que muestren su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
+XII. Evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social y aseguren el cumplimiento de las disposiciones en materia de impacto ambiental y de riesgo para la población;
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
 XIII. Expedir conjuntamente con la Secretaría de Finanzas y la Contraloría, ambas del Estado; las bases a que deban sujetarse los concursos para la ejecución de obras en la entidad, así como adjudicar, cancelar y vigilar el cumplimiento de los contratos de obra celebrados por la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
-
-XIV. En coordinación con la Secretaría de Desarrollo Rural y otorgando la participación que corresponda a los gobiernos municipales existentes en la entidad, elaborar las declaraciones de áreas naturales protegidas de interés estatal y promover la autorización, registro y aplicación conforme dispongan las leyes en materia de equilibrio ecológico y protección al ambiente; y
+XIV. (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2000)
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -581,17 +587,21 @@ III. Elaborar y vigilar el cumplimiento de los Programas en materia de desarroll
 
 IV. Proyectar y ejecutar el programa de obra pública rural del Gobierno del Estado, con la participación de manera concertada con Municipios, Comunidades y Organizaciones;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
-V. En coordinación con la Secretaría de Desarrollo Urbano y otorgando la participación que correspondan a los gobiernos municipales existentes en la entidad, promover las declaratorias de áreas naturales protegidas de interés estatal, conforme dispongan las leyes en materia de equilibrio ecológico y protección al ambiente;
+V. En coordinación con la Secretaría de Medio Ambiente para el Desarrollo Sustentable y otorgando la participación que corresponda a los gobiernos municipales, participar en las declaratorias de Areas Naturales Protegidas de Interés Estatal, conforme dispongan las leyes en materia de equilibrio ecológico y protección al ambiente;
 
 VI. Fomentar y ejecutar los programas de desarrollo agrícola, ganadero, forestal, de la fauna, pesquero y agroindustrial del Estado;
 
-VII. Ejecutar proyectos y sus obras para aprovechar los recursos hidrológicos y naturales renovables del Estado, en forma racional y sostenida, integrados a las ramas del sector;
+> <small>(REFORMADA P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+VII. Ejecutar proyectos y sus obras para aprovechar los recursos hidrológicos y naturales renovables del Estado, en forma sustentable, integrados a las ramas del sector;
 
 VIII. Realizar los proyectos y la construcción o reconstrucción de la infraestructura productiva rural, necesarios para apoyar las actividades agrícolas, ganaderas y forestales, en el Estado, ya sea en forma directa o a través de la contratación o subcontratación de los servicios de empresas públicas, privadas o del sector social;
 
-IX. Evaluar los proyectos que se formulen, utilizando indicadores, que muestren su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+IX. Evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social y aseguren el cumplimiento de las disposiciones en materia de impacto ambiental y de riesgo para la población;
 
 X. Coordinar las actividades operativas de los organismos distritales de desarrollo rural, e implementar los mecanismos requeridos para la eficiente operación de los planes y programas que en materia agropecuaria, forestal e hidráulica, se establezcan en la Entidad;
 
@@ -623,13 +633,13 @@ VIII. Apoyar los programas de investigación tecnológica industrial y fomentar 
 
 IX. Difundir las actividades industriales y comerciales, a través de ferias, exposiciones, convenciones y demás eventos promocionales;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
-X. Promover, fomentar y participar, en su caso, en la creación de parques, corredores y ciudades industriales en el Estado, así como evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social, su impacto ecológico y de riesgo para la población;
+X. Promover, fomentar y participar, en su caso, en la creación de parques, corredores y ciudades industriales en el Estado, así como evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social y aseguren el cumplimiento de las disposiciones en materia de impacto ambiental y de riesgo para la población;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
-XI. Elaborar, en coordinación con las Secretarías de Desarrollo Rural y de Turismo, los programas de desarrollo de la agroindustria, silvicultura, piscicultura, turismo y otras actividades productivas en el Estado;
+XI. Elaborar, en coordinación con las Secretarías de Desarrollo Rural, de Medio Ambiente para el Desarrollo Sustentable y de Turismo, los programas de desarrollo de la agroindustria, silvicultura, piscicultura, turismo y otras actividades productivas en el Estado;
 
 XII. Ejercer, por acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia industrial, comercial y de abasto, contengan los convenios celebrados con la administración pública federal;
 
@@ -637,53 +647,185 @@ XIII. Promover y apoyar el desarrollo del comercio exterior;
 
 XIV. Promover y fomentar, en los términos de las leyes de la materia, la inversión nacional y la extranjera, las coinversiones y la instalación de empresas dedicadas a la producción compartida multinacional, de conformidad a las disposiciones de la materia;
 
-XV. Participar, en coordinación con las autoridades competentes, en la planeación y programación de las obras e inversiones públicas del Estado, tendientes a promover la industria, el comercio y la racional explotación de los recursos minerales del Estado; y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+XV. Participar, en coordinación con las autoridades competentes, en la planeación y programación de las obras e inversiones públicas del Estado, tendientes a promover la industria, el comercio y la explotación sustentable de los recursos minerales del Estado; y
 
 XVI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 1994)</small>
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+###### Art. 33 Bis.
+
+La Secretaría de Medio Ambiente para el Desarrollo Sustentable es la dependencia responsable de normar y formular la política ambiental estableciendo los criterios y los programas para el desarrollo sustentable del Estado, fomentando la protección, conservación y restauración de los recursos naturales de la entidad y la prevención y disminución de la contaminación ambiental, de conformidad con la distribución de competencias que establecen las leyes federales y estatales aplicables en la materia. A esta Secretaría le corresponden particularmente el despacho de los siguientes asuntos:
+
+I. Planear la conducción de la política ambiental del Estado en congruencia con las disposiciones legales, los planes y programas que se establezcan por la Federación, con la participación que corresponda, a otras dependencias del Poder Ejecutivo Estatal y particularmente a los gobiernos municipales;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+II. Participar en la elaboración del Plan Estatal de Desarrollo, definiendo las políticas de protección, restauración y conservación de los recursos naturales de la entidad, fomentando el aprovechamiento sustentable de los recursos naturales y culturales ante la sociedad, así como la prevención y disminución de la contaminación ambiental, de conformidad a las estrategias de planeación ambiental, en coordinación con las demás dependencias del Poder Ejecutivo del Estado;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+III. Fomentar la elaboración y aplicación de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como para disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales, gestionando la participación que le corresponda a otras dependencias del Poder Ejecutivo Estatal y a los gobiernos municipales, en congruencia con las disposiciones federales;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+IV. Proponer y coordinar las acciones y medidas necesarias de protección al ambiente con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Estado, en acuerdo con el gobierno federal, las dependencias del Poder Ejecutivo Estatal y los gobiernos municipales, de conformidad con la distribución de competencias existente;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+V. Promover y certificar el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales y de prevención y disminución de la contaminación ambiental;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+VI. Gestionar con las dependencias federales, estatales y municipales correspondientes, el otorgamiento de incentivos y estímulos en favor de los particulares que contribuyan a la protección ambiental y el equilibrio de los ecosistemas de la entidad;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+VII. Gestionar ante las dependencias federales, estatales y municipales, los particulares y la sociedad organizada, según les corresponda, su participación en la realización, aprobación y acatamiento del ordenamiento ecológico regional del territorio estatal, asegurando su observancia permanente;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+VIII. Participar en coordinación con la Secretaría de Desarrollo Urbano y los gobiernos municipales, en la regulación ambiental de los asentamientos humanos;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+IX. Evaluar el impacto ambiental de aquellas obras y actividades que no sean competencia de la Federación o de los gobiernos municipales, emitir los dictámenes correspondientes y asegurar su cumplimiento;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+X. Elaborar las propuestas de modificaciones y adecuaciones que resulten pertinentes a las disposiciones reglamentarias y normativas en materia ambiental, atendiendo los lineamientos existentes en materia de mejora regulatoria;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XI Asegurar el cabal cumplimiento de las disposiciones estatales en materia ambiental a través de los procedimientos administrativos que correspondan, imponiendo las medidas de seguridad, correctivas o de urgente aplicación y sanciones procedentes;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XII. Promover en coordinación con la Secretaría de Educación y la Secretaría de Cultura, la incorporación de contenidos ambientales en la política educativa del Estado y en los planes y programas de estudios, así como la formación de actitudes y valores de protección y conservación del patrimonio natural, así como concertar institucionalmente la capacitación de todos los sectores de la sociedad, con actividades dinámicas de información y educación ambiental, para contribuir, de manera acelerada a integrar las acciones de mejoramiento del ambiente, encauzadas hacia el desarrollo sustentable del Estado;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XIII. Estructurar y mantener actualizada la información ambiental del Estado, en coordinación con las dependencias y organismos del Poder Ejecutivo Estatal que correspondan, con la participación de los gobiernos municipales;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XIV. Fomentar ante los particulares la realización de procesos voluntarios de autorregulación y auditorías ambientales, supervisando su ejecución, con el apoyo que corresponda de los gobiernos municipales;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XV. En coordinación con las autoridades federales, estatales y municipales y otorgando la participación que corresponda a las Universidades, centros de investigación y los particulares, promover las declaratorias de las áreas naturales protegidas de interés estatal, y aprobar los programas de aprovechamiento conforme lo dispongan las leyes en materia de equilibrio ecológico y protección al ambiente y las demás disposiciones aplicables;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XVI. Conformar y planear la operación del Sistema Estatal de Areas Naturales Protegidas en el Estado, con la participación que corresponda a los gobiernos municipales;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XVII. Participar con las autoridades federales, estatales y municipales que correspondan, de conformidad a la distribución de competencias que establecen las leyes en materia de equilibrio ecológico y protección al ambiente, en la formulación y desarrollo de programas y acciones de fomento para el aprovechamiento y uso sustentable de los recursos naturales de la entidad y prevenir, controlar y reducir la contaminación de la atmósfera, suelo y aguas;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XVIII. Evaluar la calidad del ambiente y operar sistemas de monitoreo atmosférico, de suelos y de aguas de jurisdicción estatal, con la cooperación de los gobiernos municipales y las instituciones de investigación y educación superior;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XIX. Promover la participación social y de la comunidad científica en la formulación y aplicación de la política ambiental, y emitir opiniones a la Secretaría de Promoción Económica para la concertación de acciones e inversiones con los sectores social y privado dirigidas a la protección y restauración del ambiente;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XX. Ejecutar y resolver los actos administrativos de inspección y vigilancia que dispongan las leyes estatales en materia de equilibrio ecológico y protección al ambiente, y resolver los recursos de revisión que formulen los particulares de conformidad a las disposiciones aplicables;
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XXI. Ejercer, por Acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia ambiental, contengan los convenios celebrados con la Administración Pública Federal y los gobiernos municipales; y
+
+> <small>(F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)</small>
+
+XXII.- Las demás que le confieran esta Ley y otras disposiciones legales aplicables.
+
+(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
 ###### Art. 34.
 
-La Secretaría de Turismo, es la dependencia responsable de planear, promover y fomentar el desarrollo turístico en el Estado, cuidando el óptimo y racional aprovechamiento y preservación de los recursos naturales y culturales.
+La Secretaría de Turismo, es la dependencia responsable de planear, promover y fomentar el desarrollo turístico en el Estado, asegurando, en coordinación con las dependencias correspondientes, el aprovechamiento sustentable y la preservación de los recursos naturales y culturales.
 
 Corresponde a esta Secretaría:
 
-I. Participar en la elaboración del Plan Estatal de Desarrollo, respecto a la definición de las políticas para la promoción de las actividades turísticas; formular, revisar y ejecutar el Programa Estatal para el Desarrollo Turístico, directa o concertadamente con los sectores interesados y evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
+(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
+
+I. Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de las políticas para la promoción de las actividades turísticas; formular, revisar y ejecutar el Programa Estatal para el Desarrollo Turístico, directa o concertadamente con los sectores interesados y evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social y aseguren el cumplimiento de las disposiciones en materia de impacto ambiental y de riesgo para la población;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
 
 II. Establecer en el Estado las delegaciones locales y regionales que sean necesarias, así como promover la creación de oficinas de promoción turística en el interior del país y en el extranjero;
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
+
 III. Coadyuvar en el ámbito de su competencia, con las autoridades federales, estatales y municipales, en los servicios e instalaciones de transportación aérea, hospedaje, alimentos y bebidas, agencias de viajes y guías turistas, para la mejor prestación de los servicios que se ofertan al turista;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
 
 IV. Auxiliar en el control, vigilancia y funcionamiento de los servicios de información y ayuda para los turistas, a través de módulos de información y servicios de carretera;
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
+
 V. Apoyar y estimular la formación de personal que requiere la actividad turística, con el objeto de lograr la calidad total de los servicios turísticos;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
 
 VI. De acuerdo al convenio de descentralización, aplicar las disposiciones reglamentarias establecidas en la Ley Federal de Turismo y sus Reglamentos;
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
+
 VII. Participar y fomentar la celebración de convenios por parte del Ejecutivo del Estado con el Gobierno de la Federación y los Ayuntamientos, que sean necesarios para incrementar el turismo y mejorar los servicios que se ofrecen;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
 
 VIII. Estimular la formación de organismos de carácter social y privado que tiendan a fomentar el turismo;
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
+
 IX. Promover, dirigir y realizar la propaganda y publicidad en materia de turismo;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
 
 X. Gestionar ante la dependencia correspondiente, el otorgamiento de concesiones para la explotación de rutas y circuitos con vehículos adecuados, sobre la base de garantizar plenamente la seguridad y la economía de los turistas y dentro de las rutas de jurisdicción estatal;
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
+
 XI. Propiciar e incrementar todas aquellas celebraciones tradicionales y folklóricas que sirvan de atracción al turismo;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
 
 XII. Impulsar el turismo social a fin de que la cultura y recreación sanas, sean accesibles a las personas de menores ingresos económicos;
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
+
 XIII. Promover y participar en la realización de eventos que, atraigan visitantes al Estado, ya sea a nivel nacional o internacional;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
 
 XIV. Promover y fomentar la inversión nacional y extranjera necesarias para impulsar el adecuado desenvolvimiento del turismo;
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
+
 XV. Apoyar y asesorar a los sectores privado y social, en las gestiones de crédito y asistencia técnica que deban realizar ante las dependencias y organizaciones federales, cuando se trate de inversiones que contribuyan al fomento y desarrollo del turismo;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
 
 XVI. Realizar y coordinar los estudios e investigaciones para el desarrollo de la actividad turística, así como formular la estadística estatal en esa materia, coordinadamente con las dependencias federales, estatales y municipales que corresponda;
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
+
 XVII. Estimular la creación de organismos de carácter tripartito, a (sic) con los sectores público, privado y social, con el fin de celebrar convenios de concertación que promuevan y fomenten el desarrollo turístico de la Entidad, conjuntando los recursos económicos y técnicos disponibles;
 
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
+
 XVIII. Promover en coordinación con autoridades federales y estatales, la mejor capacitación turística a nivel básico, medio y superior de prestadores de servicios directos e indirectos; y,
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 1994)</small>
 
 XIX. Las demás que le confiera esta ley y otras disposiciones legales aplicables.
 
@@ -723,7 +865,9 @@ VIII. Mantener por sí, o en coordinación con los Gobiernos Federal y Municipal
 
 IX. Fomentar y coordinar el desarrollo de la investigación científica, social y tecnológica, en la Entidad;
 
-X. Promover, coordinar y fomentar los programas de educación para la salud y mejoramiento del ambiente, aprobados para el Estado;
+(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
+
+X. Promover y fomentar, en coordinación con las Secretarías de Salud y de Medio Ambiente para el Desarrollo Sustentable, los programas de educación para la salud y mejoramiento ambiental, aprobados para el Estado;
 
 XI. Coordinar, organizar y fomentar la enseñanza y la práctica de los deportes en el Estado, así como la participación en torneos y justas deportivas nacionales e internacionales;
 
@@ -823,9 +967,9 @@ IV. Otorgar, revocar y modificar, de conformidad con lo dispuesto por la Secreta
 
 V. Proponer las políticas y programas relativos a la construcción y mantenimiento de obras de transporte y vialidad;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 4 DE NOVIEMBRE DE 2000)
 
-VI. Dirigir, coordinar y controlar la ejecución de programas relativos a la construcción y reparación de las obras de transporte y vialidad, así como evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social, así como su impacto ecológico y de riesgo para la población;
+VI. Dirigir, coordinar y controlar la ejecución de programas relativos a la construcción y reparación de las obras de transporte y vialidad, así como evaluar los proyectos que se formulen, utilizando indicadores que muestren su factibilidad económica y social y aseguren el cumplimiento de las disposiciones en materia de impacto ambiental y de riesgo para la población;
 
 VII. Realizar los estudios necesarios sobre tránsito de vehículos, a fin de lograr una mejor utilización de las vías y de los medios de transporte correspondientes, que conduzcan a la más eficaz protección de la vida y a la seguridad, a la protección del ambiente, comodidad y rapidez en el transporte de personas y de carga;
 
@@ -1067,7 +1211,7 @@ Su funcionamiento será regulado por reglamento interior o mediante acuerdo admi
 
 A efecto de atender a las tareas de concertación social y coordinación gubernamental en materias altamente prioritarias, el Ejecutivo dispondrá lo necesario, para el efecto de regular adecuadamente la operación y permitir el adecuado funcionamiento, entre otras, de las siguientes instancias:
 
-I. Comisión Estatal de Ecología;
+I. (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2000)
 
 II. Comisión Estatal Editorial, órgano de asesoría de la Unidad Editorial del Gobierno del Estado;
 
@@ -1209,19 +1353,17 @@ A) (DEROGADO, P.O. 20 DE AGOSTO DE 1992)
 
 B) Comisión para el Desarrollo Urbano Regional de Guadalajara;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
-C) Consejo Estatal de Seguimiento y Evaluación del Acuerdo de Coordinación para el ordenamiento de los aprovechamientos hidráulicos y saneamientos de la Cuenca Lerma-Chapala;
+C) Consejo Estatal de Seguimiento y Evaluación del Acuerdo de Coordinación para el Ordenamiento de los Aprovechamientos Hidráulicos y Saneamiento de la Cuenca Lerma Chapala, con la participación que corresponda a la Secretaría de Medio Ambiente para el Desarrollo Sustentable;
 
 D) Comité Estatal de Reservas Territoriales para el Desarrollo Urbano, e Industrialización y Regularización de la Tenencia de la Tierra;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1992)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
-E) Sistema para el Control y Preservación de la calidad del agua de la cuenca Lerma-Chapala-Santiago, en el territorio del Estado de Jalisco;
+E) Sistema para el Control y Preservación de la Calidad del Agua de la Cuenca Lerma-Chapala Santiago, en el territorio del Estado de Jalisco, con la participación que corresponda a la Secretaria de Medio Ambienta para el Desarrollo Sustentable;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1992)</small>
-
-F) Comisión Estatal de Ecología;
+F) (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2000)
 
 G) Sistema de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta, Jalisco;
 
@@ -1239,9 +1381,11 @@ K) Consejo de la Zona Metropolitana de Guadalajara.
 
 III. Secretaría de Desarrollo Rural:
 
-A) Consejo Forestal y de la Fauna del Estado de Jalisco;
+A) (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2000)
 
-B) Comité Estatal de Conservación de Reservas Ecológicas;
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+B) Comité Estatal de Conservación de Reservas Ecológicas, con la participación que corresponda a la Secretaría de Medio Ambiente para el Desarrollo Sustentable;
 
 C) Comité de Comunicaciones Vecinales del Estado de Jalisco; y
 
@@ -1456,3 +1600,23 @@ TERCERO.- Para la debida integración y estructuración de la Secretaría de Seg
 CUARTO.- En el proceso de instalación y creación de la Secretaría de Seguridad Pública, Prevención y Readaptación Social, se preservarán íntegramente los derechos laborales de los servidores públicos del Estado que deban ser transferidos de una dependencia o entidad a otra, debiendo sujetarse a lo dispuesto por la Ley de Servidores Públicos del Estado de Jalisco y sus Municipios; y
 
 QUINTO.- El Ejecutivo de la Entidad, emitirá el reglamento interior de la Secretaría de Seguridad Pública, Prevención y Readaptación Social, en un plazo no mayor de treinta días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2000.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", previas las adecuaciones correspondientes en la Ley Estatal de Equilibrio Ecológico y la Protección al Ambiente.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. Se abroga el Decreto número 13592, publicado en el Periódico Oficial "El Estado de Jalisco" el 30 de mayo de 1989, por el cual se crea la Comisión Estatal de Ecología y sus subsecuentes reformas.
+
+CUARTO. Se creará una Unidad Presupuestal destinada a la Secretaría de Medio Ambiente para el Desarrollo Sustentable, siendo obligación de la Secretaría de Finanzas la realización de las trasferencias y movimientos que sean necesarios para la consecución de sus fines.
+
+QUINTO. Para la debida integración y estructuración de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, las Secretarías de Finanzas y de Administración, así como las dependencias involucradas, deberán prestar todo el auxilio y apoyo técnico que se les requiera, conforme a las disposiciones legales aplicables y a los programas y presupuestos vigentes.
+
+SEXTO. En el proceso de instalación y creación de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, se preservarán íntegramente los derechos laborales de los servidores públicos del Estado que deban ser transferidos de una dependencia o entidad a otra, debiendo sujetarse a lo dispuesto por la Ley de Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+SÉPTIMO. Todos los recursos materiales, financieros y humanos de la Comisión Estatal de Ecología pasarán a formar parte de la Secretaría de Medio Ambiente para el Desarrollo Sustentable.
+
+OCTAVO. La Secretaría de Medio Ambiente para el Desarrollo Sustentable se subroga en todos los derechos y obligaciones que hasta la fecha haya contraído la Comisión Estatal de Ecología.
+
+NOVENO. Todas las funciones que legalmente le han sido atribuidas a la Comisión Estatal de Ecología serán ejercidas, a partir de la entrada en vigor del presente Decreto, por la Secretaría de Medio Ambiente para el Desarrollo Sustentable.
