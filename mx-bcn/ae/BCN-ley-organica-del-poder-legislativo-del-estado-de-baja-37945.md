@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2003-01-14"
+last_updated: "2003-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2003.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -97,13 +97,15 @@ Los Períodos, se constituyen por la realización de una serie continuada de ses
 
 La Sesión, es la reunión oficial, en el Recinto Parlamentario, o en el que se habilite como tal, conforme al Reglamento, de los integrantes del Pleno del Congreso del Estado, cada uno de los períodos ordinarios; igualmente se denomina sesión a las que realicen las Comisiones, en la Sala de Juntas de las mismas o en la que se acuerde, para tratar todo lo inherente al desarrollo de sus funciones, establecidas en esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 10.
+
+La presente Ley sólo podrá ser modificada, reformada, abrogada o derogada mediante el voto de las dos terceras partes de los miembros del Congreso.
 
 Para los efectos de esta Ley y sus Reglamentos se entenderá por:
 
-I.- Constitución Local: La Constitución Política del Estado Libre y Soberano de Baja
-
-California;
+I.- Constitución Local: La Constitución Política del Estado Libre y Soberano de Baja California;
 
 II.- Ley: La Ley Orgánica del Poder Legislativo del Estado de Baja California;
 
@@ -427,11 +429,11 @@ La Mesa Directiva del Congreso del Estado, se integrará con un Presidente, Vice
 
 La integración de la Mesa Directiva se comunicará al Ejecutivo del Estado, al Presidente de Tribunal Superior de Justicia del Estado, a los Ayuntamientos de los Municipios del Estado, a las Cámaras del Congreso de la Unión, a los Congresos de las demás Entidades Federativas y a la Asamblea de Representantes del Distrito Federal, así como a las demás autoridades que se determine.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 42.
 
-Para la integración de la Mesa Directiva, la Comisión de Régimen Interno y Prácticas Parlamentarias presentará al Pleno del Congreso la propuesta de Diputados que integrarán la misma. En sesión de Congreso, celebrada con anticipación al inicio del período correspondiente, el Pleno elegirá a la Mesa Directiva mediante mayoría simple de votación por cédula.
+Para la integración de la Mesa Directiva, la Comisión de Régimen Interno y Prácticas Parlamentarias presentará al Pleno del Congreso la propuesta de Diputados que integrarán la misma. En sesión de Congreso, celebrada con anticipación al inicio del período correspondiente, el Pleno elegirá a la Mesa Directiva mediante mayoría simple.
 
 ###### ARTICULO 43.
 
@@ -607,17 +609,19 @@ II.- De Legislación y Puntos Constitucionales;
 
 III.- De estudios Hacendarios y Presupuesto;
 
-IV.- De Vigilancia de la Oficialía Mayor;
+IV.- (DEROGADA, P.O. 31 DE ENERO DE 2003)
 
 V.- De Fiscalización del Gasto Público y,
 
 VI.- De Vigilancia de Administración y Finanzas.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 57.
 
-Las Comisiones de Legislación y Puntos Constitucionales, de Estudios Hacendarios y Presupuesto, de Vigilancia de la Oficialía Mayor, de Fiscalización del Gasto Público, de Vigilancia de Administración y Finanzas y de las demás comisiones que se integren con carácter de definitivas, funcionarán para toda una Legislatura y los Diputados que las integren durarán en sus encargos por un término de toda la Legislatura, pudiendo ser separados de sus cargos o de las mismas, únicamente por la causa prevista en el Artículo 20 de esta Ley.
+Las Comisiones de Legislación y Puntos Constitucionales, de Estudios Hacendarios y Presupuesto, de Fiscalización del Gasto Público, de Vigilancia de Administración y Finanzas y de las demás comisiones que se integren con carácter de definitivas, funcionarán para toda una Legislatura y los Diputados que las integren durarán en sus encargos por el término de toda la Legislatura, pudiendo ser separados de sus cargos o de las mismas, únicamente por la causa prevista en el Artículo 20 de esta Ley.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
 
 Las Comisiones Definitivas se integrarán durante los primero 30 días del primer año de ejercicio constitucional de la Legislatura, a propuesta de la Comisión de Régimen Interno y Prácticas Parlamentarias, la cual deberá quedar integrada en la primera sesión ordinaria de la Legislatura entrante.
 
@@ -635,15 +639,13 @@ El Congreso podrá aumentar el número de las Comisiones Ordinarias, según lo e
 
 La Comisión de Régimen Interno y Prácticas Parlamentarias, la integrarán los Diputados Coordinadores de los Grupos Parlamentarios y le corresponde desarrollar los siguientes trabajos:
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2003)</small>
 
-I.- Auxiliar a la Mesa Directiva a organizar los trabajos del Congreso del Estado;
+I.- Auxiliar a la Mesa Directiva a organizar los trabajos del Congreso del Estado y elaborar el calendario de sesiones de cada período para ser presentado en la primera sesión del último mes del período a concluir;
 
 II.- Suscribir los acuerdos de los Grupos Parlamentarios relativos a los asuntos que se van a desahogar en las sesiones del Pleno del Congreso, dejando a salvo los derechos de los diputados en lo individual, para que planteen cualquier asunto de su interés;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2003)</small>
-
-III.- Aprobar y proponer al Pleno la integración, remoción o substitución de los Diputados miembros de las Comisiones definitivas y ordinarias, en éstos dos últimos casos sólo por lo previsto en el artículo 20 de esta Ley;
+III.- (DEROGADA, P.O. 31 DE ENERO DE 2003)
 
 IV.- Llevar un registro de criterios parlamentarios y velar por su observancia, debiéndolos entregar a la Presidencia;
 
@@ -657,9 +659,11 @@ VII.- Las demás que le confieran esta Ley, sus Reglamentos y los acuerdos del P
 
 Para el ejercicio de sus funciones esta Comisión será auxiliada por los titulares de los órganos técnicos administrativos del Congreso, cuando así lo requiera.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 60.
 
-Las Comisiones ordinarias y definitivas se integrarán por no menos de tres y no más de seis Diputados, electos por el Pleno del Congreso a propuesta de la Comisión de Régimen Interno y Prácticas Parlamentarias, cuidando que en ellas se encuentren representados los diferentes Grupos Parlamentarios, así como los Diputados no coordinados, tanto en las Presidencias como en las Secretarías.
+Las Comisiones ordinarias y definitivas se integrarán por no menos de tres y no más de seis Diputados. La Comisión de Régimen Interno y Prácticas Parlamentarias cuidará que en ellas se encuentren representados los diferentes Grupos Parlamentarios, así como los Diputados no coordinados, tanto en las Presidencias como en las Secretarías.
 
 Los Diputados podrán formar parte de hasta un máximo de tres Comisiones Definitivas y un mínimo de dos Ordinarias.
 
@@ -711,11 +715,15 @@ XIII.- Nombrar y remover libremente al Director de Asuntos Jurídicos Legislativ
 
 XIV.- Los acuerdos del Ejecutivo del Estado para asociarse en empresas de participación estatal mayoritaria o minoritaria o para asociarse a los intereses de los particulares en los términos de las leyes que rijan en la materia en que trata;
 
-XV.- Proponer al Pleno del Congreso del Estado las políticas de organización y funciones de dicha Comisión, así como las de la Dirección de Asuntos Jurídicos Legislativos que deban incorporarse al Reglamento Interior; y,
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2003)</small>
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2003)</small>
+XV.- Presentar para su aprobación, las políticas de organización y funciones que reciba de las diversas Comisiones;
 
-XVI.- Los demás que le confiera la Constitución Local, esta Ley, sus Reglamentos y los acuerdos emanados del Congreso del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2003)</small>
+
+XVI.- El conocimiento, estudio y elaboración de Dictámenes para la desincorporación de bienes muebles e inmuebles de dominio público, para su enajenación, cambio de destino o desafectación de dichos bienes cuando estén destinados a un servicio público o sean de uso común, solicitada por las Entidades, exceptuando a los Ayuntamientos, y
+
+XVII.- Los demás que le confiera la Constitución Local, esta Ley, sus Reglamentos y los acuerdos emanados del Congreso del Estado.
 
 ###### ARTICULO 63.
 
@@ -759,17 +767,13 @@ III.- De Orden Hacendario, el conocimiento, estudio y Dictamen de los siguientes
 
 Para el cumplimiento de sus atribuciones, la Comisión de Estudios Hacendarios y Presupuesto solicitará a la Contaduría Mayor de Hacienda el estudio, análisis y opinión de los asuntos que le encomiende así como la elaboración de los anteproyectos de dictamen que le correspondan, en los términos de este artículo.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE ENERO DE 2003)</small>
+
+La Comisión de Estudios Hacendarios y Presupuesto, presentará a la Comisión de Legislación y Puntos Constitucionales, la propuesta de su organización y funcionamiento para incorporarse al Reglamento Interior.
 
 ###### ARTICULO 66.
 
-La Comisión de Vigilancia de la Oficialía Mayor, tendrán (sic) las siguientes atribuciones:
-
-I.- Presentar a la Comisión de Legislación y Puntos Constitucionales, para su incorporación al Reglamento Interior las normas de organización y funciones de dicha Comisión;
-
-II.- Elaborar y remitir a la Comisión de Vigilancia de Administración y Finanzas el anteproyecto de presupuesto anual de la Oficialía Mayor, cuidando que el monto que se proponga sea suficiente para el cumplimiento de las funciones de este Órgano técnico; y,
-
-III.- Supervisar el cumplimiento en el desempeño de las áreas de Apoyo Parlamentario del Congreso, evaluando y proponiendo medidas técnicas que tiendan a eficientar la Práctica Parlamentaria y de Protocolo, Editorial, Biblioteca, Registro Parlamentario e Informática Legislativa.
+(DEROGADO, P.O. 31 DE ENERO DE 2003)
 
 ###### ARTICULO 67.
 
@@ -787,11 +791,13 @@ II.- De Orden Patrimonial:
 
 a).- Supervisar el inventario y control de los bienes muebles e inmuebles del Gobierno del Estado, organismos descentralizados, paraestatales y todos aquellos sujetos a fiscalización por el Congreso del Estado.
 
-b).- Desincorporación de bienes muebles e inmuebles de dominio público, para su enajenación, cambio de destino o desafectación de dichos bienes cuando estén destinados a un servicio público o sean de uso común, solicitada por las Entidades, exceptuando a los Ayuntamientos;
+b).- (DEROGADO, P.O. 31 DE ENERO DE 2003)
 
 III.- En los términos de la fracción XIII del artículo 27 de la Constitución Política del Estado de Baja California:
 
-a).- Vigilar el funcionamiento de la Contaduría Mayor de Hacienda, así como proponer las políticas de organización y funcionamiento que debe regir a dicho Organo Técnico;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2003)</small>
+
+a).- Vigilar el funcionamiento de la Contaduría Mayor de Hacienda, así como proponer las políticas de organización y funcionamiento que deban regular a dicho Organo Técnico;
 
 IV.- Proponer a la Comisión de Legislación y Puntos Constitucionales las políticas, manuales de organización y funciones de la Contaduría Mayor de Hacienda así como las de dicha Comisión, para incorporarse al Reglamento Interior;
 
@@ -811,15 +817,27 @@ ARTICULO 67 TER.- Corresponde a la Comisión de Vigilancia de Administración y 
 
 I.- Presentar a la Comisión de Legislación y Puntos Constitucionales; las políticas, manuales de organización y funciones de la Oficialía Mayor y de la Dirección de Programación y Gasto Interno, así como las de dicha Comisión, para incorporarse al Reglamento Interior;
 
-II.- Recepcionar para su estudio e integración al Presupuesto General del Poder Legislativo, los anteproyectos de Presupuesto de Egresos elaborados por la (sic) Comisiones de Vigilancia de la Oficialía Mayor y de Fiscalización del Gasto Público, considerando en todo momento los acuerdos y montos aprobados por dichas comisiones para la elaboración del anteproyecto de que se trate;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2003)</small>
 
-III.- Solicitar opinión a las Comisiones de Legislación y Puntos Constitucionales y Ordinaria de Comunicación Social y Relaciones Públicas, respecto de las necesidades presupuestales de los Órganos Técnicos denominados; Dirección de Asuntos Jurídicos Legislativos y de Comunicación Social y Relaciones Públicas y elaborar el anteproyecto de presupuesto de la Dirección de Programación y Gasto Interno del Congreso:
+II.- Recepcionar para su estudio e integración al Presupuesto General del Poder Legislativo, el anteproyecto de Presupuesto de Egresos elaborado por la Comisión de Fiscalización del Gasto Público, considerando en todo momento los acuerdos y montos aprobados por dicha Comisión para la elaboración del anteproyecto de que se trate;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2003)</small>
+
+III.- Solicitar opinión a las Comisiones de Legislación y Puntos Constitucionales y Ordinaria de Comunicación Social y de Relaciones Públicas, respecto de las necesidades presupuestales de los Órganos Técnicos denominados, Dirección de Asuntos Jurídicos Legislativos y Dirección de Comunicación Social, así como elaborar el anteproyecto de presupuesto de la Oficialía Mayor y de la Dirección de Programación y Gasto Interno del Congreso;
 
 IV.- Elaborar y someter a la consideración del Pleno del Congreso, el Proyecto de Presupuesto anual del Poder Legislativo, cuidando que el monto del presupuesto que se proponga sea suficiente para que cada uno de los Órganos Técnicos del Congreso, cumplan con las atribuciones y obligaciones que disponen las Leyes, por conducto de la Comisión de Régimen Interno y Prácticas Parlamentarias;
 
-V.- Evaluar el avance presupuestal y programático de cada uno de los Órganos Técnicos del Congreso; y,
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2003)</small>
 
-VI.- Nombrar y remover libremente al Oficial Mayor y al Director de Programación y Gasto Interno, así como al personal de dichos Órganos Técnicos, los cuales deberán reunir los requisitos señalados en el Reglamento Interior.
+V.- Evaluar el avance presupuestal y programático de cada uno de los Órganos Técnicos del Congreso;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2003)</small>
+
+VI.- Nombrar y remover libremente al Oficial Mayor y al Director de Programación y Gasto, así como al personal de dichos órganos técnicos, los cuales deberán reunir los requisitos señalados en el Reglamento Interior; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2003)</small>
+
+VII.- Supervisar el desempeño de las áreas de apoyo Parlamentario, evaluando y proponiendo medidas que tiendan a eficientizar el Registro Parlamentario, Biblioteca del Congreso e Informática Legislativa.
 
 ###### ARTICULO 68.
 
@@ -951,8 +969,6 @@ La Contraloría Interna es el órgano técnico-administrativo, dependiente y aux
 
 ARTICULO 83 QUATER.- La Dirección de Comunicación Social es el órgano técnico cuya función será, atender, estudiar, diseñar y ejecutar las estrategias de comunicación social para el Poder Legislativo del Estado; así como difundir las actividades legislativas, fortalecer la imagen del Congreso y de los Diputados en sus relaciones con los medios de comunicación, de conformidad con esta Ley y el Reglamento Interior.
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2003)</small>
-
 ARTICULO 83 QUINQUIES.- Al frente de la Dirección de Comunicación Social del Congreso del Estado, como titular estará un Director de Comunicación Social, quien será nombrado y removido libremente por la Comisión Ordinaria de Comunicación Social y Relaciones Públicas del Congreso del Estado, siendo expedido su nombramiento en los términos de la presente Ley.
 
 El Director de Comunicación Social deberá permanecer en el ejercicio de sus funciones, hasta que sea designado su sucesor.
@@ -969,13 +985,25 @@ La Contraloría Interna del Congreso del Estado se integra por:
 
 I.- El Presidente de la Mesa Directiva del Congreso del Estado;
 
-II.- El Presidente de la Comisión de Fiscalización del Gasto Público, y
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2003)</small>
 
-III.- El Presidente de la Comisión de Vigilancia de Administración y Finanzas.
+II.- El Presidente de la Comisión de Régimen Interno y Prácticas Parlamentarias;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2003)</small>
+
+III.- El Presidente de la Comisión de Fiscalización del Gasto Público; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2003)</small>
+
+IV.- El Presidente de la Comisión de Vigilancia de Administración y Finanzas.
 
 En los casos que se solicite, será auxiliada por el Contador Mayor de Hacienda, por el Oficial Mayor o por el Director de Programación y Gasto del Congreso del Estado.
 
 Contarán para el ejercicio de sus funciones con un Contralor cuyo nombramiento será expedido por la Comisión de Régimen Interno y Prácticas Parlamentarias, a propuesta de los integrantes de la Contraloría Interna.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE ENERO DE 2003)</small>
+
+La Contraloría Interna propondrá a la Comisión de Legislación y Puntos Constitucionales las políticas, manuales de organización y funciones de dicho órgano, para incorporarse al Reglamento Interior.
 
 > <small>N. DE E. SE HACE DEL CONOCIMIENTO DEL USUARIO QUE EL PRESENTE ARTICULO NO FUE DEROGADO EXPRESAMENTE NI SEÑALADO EN EL CONTENIDO DE LA REFORMA PUBLICADA EN EL P.O. 14 DE ENERO DE 2003.</small>
 
@@ -1535,15 +1563,29 @@ Cuando se objetare por más de dos ocasiones el resultado de la votación econó
 
 Los Diputados en las votaciones nominales y económicas tienen la obligación de votar a favor o en contra, en caso de abstención deberán razonar ésta.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 156.
 
-Las votaciones para elegir Diputados que ocuparán algún cargo en la Mesa Directiva, se realizarán por medio de cédulas, que serán distribuidas por el Oficial Mayor y se depositarán de manera personal en una ánfora transparente, colocada al frente del Presidente. Los Diputados serán llamados por el Secretario a depositar su voto en orden alfabético. Los Diputados podrán o no firmar la cédula que contenga su voto.
+Las votaciones para elegir Diputados que ocuparán algún cargo en la Mesa Directiva, se realizarán conforme a la propuesta que presente la Comisión de Régimen Interno y Prácticas Parlamentarias de acuerdo a lo previsto por el artículo 148 de la Presente Ley.
 
-Concluida la votación el Secretario sacará las cédulas de la ánfora las clasificará en paquetes que contengan los nombres iguales de las fórmulas votadas, hará el cómputo de los votos y lo dará a conocer al Presidente, quien hará la declaratoria correspondiente.
+Concluida la votación, el Secretario hará el cómputo de los votos y lo dará a conocer al Presidente, quien hará la declaratoria correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 157.
 
-En las votaciones por cédula, se entenderá que el voto es nulo; cuando la misma esté en blanco; cuando el voto sea a favor de alguna persona que no sea integrante del Congreso del Estado; y cuando no correspondan los nombres de los Diputados a las fórmulas propuestas.
+Para llevar a cabo una votación por cédula, se estará a lo siguiente:
+
+I.- El Oficial Mayor, distribuirá a los Diputados las cédulas correspondientes y colocará una ánfora transparente en la tribuna frente al Presidente;
+
+II.- El Secretario de la Mesa Directiva por instrucciones del Presidente, llamará a los Diputados a depositar su voto en orden alfabético. Los Diputados podrán o no firmar la cédula que contenga su voto;
+
+III.- Concluida la votación el Secretario extraerá las cédulas de la ánfora, hará el computo de los votos y lo dará a conocer al Presidente; y,
+
+IV.- El Presidente hará la declaratoria correspondiente.
+
+En las votaciones por cédula se entenderá que el voto es nulo, cuando la misma este en blanco o, cuando el voto no corresponda a los nombres o a las fórmulas propuestas.
 
 ###### ARTICULO 158.
 
@@ -1662,3 +1704,17 @@ PRIMERO.- Remítanse las presentes reformas, derogaciones y adiciones a la Ley O
 SEGUNDO.- En los términos del artículo 34 párrafo segundo de la Constitución Política del Estado Libre y Soberano de Baja California, hágasele saber al Ejecutivo del Estado que, por lo urgente del caso, el término que aprueba el Congreso para su derecho a observar se resuelve sea de tres días.
 
 TERCERO.- Cualquier controversia que se origine en la interpretación de esta Ley y sus reformas, con anterioridad a la creación de los Reglamentos Interior y de Procedimientos y Prácticas Parlamentarias, se resolverán mediante la opinión que emita la Comisión de Legislación y Puntos Constitucionales misma que será sometida por la Comisión de Régimen Interno y Prácticas Parlamentarias al Pleno del Congreso del Estado, en los términos de la fracción V del artículo 59 de la Ley Orgánica del Poder Legislativo.
+
+P.O. 31 DE ENERO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+En los términos del artículo 34, párrafo segundo de la Constitución Política del Estado Libre y Soberano de Baja California, infórmese al Ejecutivo del Estado que por la urgencia del caso, el término que aprueba el Congreso para su derecho a observar las presentes reformas, se resuelve sea de tres días.
+
+###### ARTICULO TERCERO.
+
+Dentro de los ciento ochenta días siguientes a la entrada en vigor de las presentes reformas, el Congreso del Estado aprobará los Reglamentos a que se refiere la Ley Orgánica del Poder Legislativo del Estado de Baja California.
