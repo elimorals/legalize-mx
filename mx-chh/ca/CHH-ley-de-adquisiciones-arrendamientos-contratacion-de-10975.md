@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "1997-12-06"
+last_updated: "2000-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIOS Y OBRA PUBLICA DEL ESTADO DE CHIHUAHUA
+LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1997.
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -771,6 +773,8 @@ Los entes públicos estarán obligados a mantener los bienes adquiridos o arrend
 
 Para ello, en los actos o contratos de adquisiciones, arrendamientos o servicios, deberán estipular las condiciones que garanticen su correcta operación y funcionamiento; el aseguramiento del bien o bienes de que se trate para garantizar su integridad hasta el momento de su entrega y, en caso de ser necesario, la capacitación del personal que operará los equipos.
 
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
+
 ### Capítulo III. De los Procedimientos y Contratos de Obra Pública
 
 ###### Artículo 64.
@@ -1317,10 +1321,24 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE DICIEMBRE DE 1997.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2000.
+
+PRIMERO.- La presente Ley entrará en vigor a los veinte días siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones referentes a la Obra Pública y Servicios relacionados con la misma contenidos en la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua, publicada en el Periódico Oficial del Estado del 13 de septiembre de 1997 y sus posteriores reformas y se derogan en general todas aquellas que se opongan a la presente Ley.
+
+TERCERO.- Se derogan los artículos 1335 y 1336 del Código Administrativo del Estado.
+
+CUARTO.- El Reglamento, deberá expedirse dentro de los ciento veinte días naturales posteriores a la entrada en vigor de esta Ley.
+
+QUINTO.- Todas las disposiciones administrativas expedidas en las materias, así como las licitaciones, actos, contratos o convenios celebrados con anterioridad a la entrada en vigor de la presente Ley, se seguirán aplicando y/o cumpliendo, respectivamente, conforme a la normatividad anterior a la presente, hasta su conclusión.
+
+SEXTO.- En el ámbito del Poder Ejecutivo, las Dependencias y Organismos deberán adecuar en lo conducente y en su caso, sus estructuras administrativas para la correcta aplicación de esta Ley.
