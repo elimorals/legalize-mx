@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-el-derecho-de-autor-1867"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1948-01-14"
-last_updated: "1948-12-31"
+last_updated: "1952-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1867&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1947-12-31"
 
 LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1948.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ENERO DE 1952.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de enero de 1948.
 
@@ -699,9 +699,11 @@ V.- Al que use el título o cabeza de un periódico, revista, noticiero cinemato
 
 VI.- Al que publique una obra protegida por el derecho de editor o reproductor que ampara el artículo 26 de esta Ley, sin el consentimiento del titular del derecho.
 
+> <small>(REFORMADO, D.O. 9 DE ENERO DE 1952)</small>
+
 ###### ARTICULO 114.
 
-No se aplicará la pena que establece el artículo anterior para el caso previsto en la fracción I, a quienes, sin solicitar el consentimiento del titular del derecho de autor, ejecuten, representen o difundan para el público obras musicales, dramáticas, dramático-musicales, coreográficas o pantomímicas cuando cubran los derechos que se causen por representación o ejecución. En el caso de que estos derechos no hayan sido pagados oportunamente, el usuario deberá cubrir al titular una cantidad equivalente al doble de ellos.
+En ningún caso se entenderá que el titular del Derecho de Autor ha dado autorización para la representación, recitación, exposición, ejecución, exhibición o difusión públicas de sus obras por la mera celebración de convenios sobre tarifas entre los usuarios y las Sociedades de Autores, ni por el hecho de que la Secretaría de Educación Pública expida tarifas para esas utilizaciones. Cuando el usuario pague previamente el monto que fijen las tarifas a la Sociedad de Autores correspondiente, se entenderá autorizado para los casos, períodos de tiempo y demás circunstancias previstos (sic) en ellas por cada cuota. La utilización de la obra sin hacer previamente ese pago, hace incurrir al usuario en la sanción prevista en la fracción I del artículo que antecede. Las tarifas que expida la Secretaría de Educación Pública sobre representación, recitación, exposición, ejecución, exhibición o difusión públicas, tendrán aplicación a falta de contratos que regulen la utilización de que se trate.
 
 ###### ARTICULO 115.
 
@@ -757,15 +759,15 @@ Los tribunales federales conocerán de las controversias que se susciten con mot
 
 Las acciones civiles que se ejerciten con fundamento en esta Ley se tramitarán y decidirán sumariamente conforme a los procedimientos establecidos en los Códigos de Procedimientos Civiles, Federal o Locales, según el caso.
 
+> <small>(REFORMADO, D.O. 9 DE ENERO DE 1952)</small>
+
 ###### ARTICULO 124.
 
-Los titulares del derecho de autor, acreditados conforme a los artículos 28 ó 99, podrán ocurrir al Ministerio Público Federal o a las policías federales o locales, por sí o por medio de representante acreditado, solicitando su intervención para impedir la edición, distribución o venta de obras científicas o literarias, la reproducción, distribución o venta de obras artísticas cuando estos actos se ejecuten sin autorización del titular del derecho de autor o del Ejecutivo Federal en los casos del artículo 30, ó sin haber cubierto el derecho de representación o el de ejecución conforme a los convenios o tarifas que lo fijen.
+Los titulares del Derecho de Autor acreditados conforme a los artículos 28 ó 99, por sí o por medio de representante acreditado, y las Sociedades de Autores de la rama respectiva, podrán solicitar del Ministerio Público Federal o de las policías federales y locales, que practiquen las providencias necesarias para impedir la utilización de las obras por cualquiera de los medios enunciados en el artículo 1°, cuando esa utilización se esté llevando a cabo sin autorización del titular del derecho de autor, o del Ejecutivo Federal en los casos del artículo 30, o sin haber hecho previamente el pago en el caso del artículo 114.
 
-Cuando se trate de representaciones o ejecuciones, la intervención de la policía se limitará a asegurar las cantidades que se reciban por concepto de entradas con deducción de los gastos ordinarios, sin que por ningún motivo pueda impedirse la representación o ejecución. Las cantidades aseguradas serán enviadas al Banco de México a disposición de las autoridades judiciales que vayan a conocer del caso.
+Las autoridades que ejecuten las providencias mencionadas, darán cuenta dentro de las veinticuatro horas siguientes al Ministerio Público Federal, quien se avocará del conocimiento del asunto, para seguir la investigación correspondiente, y en su caso, ejercitar la acción penal.
 
-Las Autoridades que ejecuten las providencias mencionadas en este artículo, darán cuenta dentro de las veinticuatro horas siguientes al Ministerio Público Federal, quien se avocará del conocimiento del asunto. Si encuentra elementos suficientes para presumir la comisión de un delito, procederá al seguramiento en los términos del artículo 127, en caso contrario dejará sin efecto las providencias tomadas.
-
-Las policías preventivas y judiciales de las entidades federativas y de los municipios obrarán como auxiliares en su actuación conforme a lo dispuesto por la Ley Orgánica del Ministerio Público Federal.
+Las policías preventivas y judiciales de las entidades federativas y de los municipios, obrarán como auxiliares en los términos de la Ley Orgánica del Ministerio Público Federal.
 
 ###### ARTICULO 125.
 
@@ -844,3 +846,9 @@ D.O. 31 DE DICIEMBRE DE 1948.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL ARTÍCULO 7º DE LA LEY FEDERAL SOBRE DERECHO DE AUTOR”.]
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
+
+D.O. 9 DE ENERO DE 1952.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE MODIFICA LOS ARTÍCULOS 114 Y 124 DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR".]
+
+UNICO.- Este decreto entrará en vigor a los tres días después de su publicación en el "Diario Oficial" de la Federación.
