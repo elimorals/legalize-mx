@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1971-02-09"
+last_updated: "1974-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 1971.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 1974.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -565,7 +565,9 @@ VI.- Crear y suprimir empleos públicos del Estado y señalar, aumentar o dismin
 
 VII.- Nombrar y remover a los empleados de su dependencia, concederles licencia en los términos de Ley y aceptarles sus renuncias;
 
-VIII.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribunales del Estado, o indulto, remisión o conmutación de penas impuestas por los mismos Tribunales;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1974)</small>
+
+VIII.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribunales del Estado;
 
 IX.- Expedir su reglamento interior;
 
@@ -755,7 +757,7 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 ###### ARTICULO 70.
 
-El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviese reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de 60 días; en tal caso, el Secretario General de Gobierno se encargará del despacho del Poder Ejecutivo.
+El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de 60 días; en tal caso, el Secretario General de Gobierno se encargará del despacho del Poder Ejecutivo.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -775,9 +777,9 @@ V.- Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expe
 
 VI.- Nombrar y remover libremente:
 
-A).- Al Secretario General de Gobierno y demás funcionarios y empleados de la Administración Pública, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes.
+A).- Al Secretario General de Gobierno y demás funcionarios y empleados de la Administración Pública, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes;
 
-B).- Al Tesorero General del Estado y demás empleados del ramo de Hacienda;
+B).- Al Tesorero General del Estado y demás empleados del ramo de Hacienda.
 
 VII.- Exigir el mejor cumplimiento de sus deberes a todas las autoridades administrativas del Estado, aplicando las penas a que se hagan acreedoras, en los términos que prevengan las Leyes o Decretos especiales;
 
@@ -817,7 +819,9 @@ XXIV.- Fomentar el turismo y promover el desarrollo industrial y agropecuario de
 
 XXV.- Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular;
 
-XXVI.- Todas las demás atribuciones y obligaciones provenientes de la Constitución Federal, de la del Estado y de las leyes que de ellas emanen.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1974)</small>
+
+XXVI.- Conceder, conforme a las leyes, indulto, remisión o conmutación de penas impuestas por los Tribunales del Estado, y todas las demás atribuciones y obligaciones provenientes de la Constitución Federal, de la del Estado y de las leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1552,5 +1556,9 @@ P.O. 11 DE ABRIL DE 1970.
 UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 9 DE FEBRERO DE 1971.
+
+UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE ENERO DE 1974.
 
 UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
