@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2004-03-06"
+last_updated: "2004-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -805,9 +805,21 @@ IX. Comunicar al Ayuntamiento cuando pretenda ausentarse del Municipio por más 
 
 X. Pasar diariamente al funcionario encargado de la Hacienda Municipal, en forma directa o a través del servidor público que prevean los reglamentos, noticia detallada de las multas que impusiere y vigilar que en ningún caso, omita esa dependencia expedir recibo de los pagos que se efectúen;
 
-XI. Vigilar que el destino y monto de los caudales municipales se ajusten a los presupuestos de egresos y de la correcta recaudación, custodia y administración de los impuestos, derechos, productos, aprovechamientos, participaciones y demás ingresos propios del Municipio, así como ejercer la facultad económico coactiva para hacer efectivos los créditos fiscales, por conducto de las dependencias municipales correspondientes; y
+IX. Comunicar al Ayuntamiento cuando pretenda ausentarse del Municipio por más de setenta y dos horas, y hasta por quince días consecutivos. Cuando la ausencia exceda de este término, debe solicitar la autorización correspondiente al Ayuntamiento;
 
-XII. Las demás que establezcan las Constituciones federal, estatal y demás leyes y reglamentos.
+X. Pasar diariamente al funcionario encargado de la Hacienda Municipal, en forma directa o a través del servidor público que prevean los reglamentos, noticia detallada de las multas que impusiere y vigilar que en ningún caso, omita esa dependencia expedir recibo de los pagos que se efectúen;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
+
+XI. Vigilar que el destino y monto de los caudales municipales se ajusten a los presupuestos de egresos y de la correcta recaudación, custodia y administración de los impuestos, derechos, productos, aprovechamientos, participaciones y demás ingresos propios del Municipio, así como ejercer la facultad económico coactiva para hacer efectivos los créditos fiscales, por conducto de las dependencias municipales correspondientes;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
+
+XII. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
+
+XIII. Las demás que establezcan las Constituciones federal, estatal y demás leyes y reglamentos.
 
 ###### Artículo 48.
 
@@ -835,13 +847,21 @@ I. Asistir puntualmente a las sesiones del Ayuntamiento y dar cuenta en las mism
 
 II. Acordar con el Presidente Municipal los asuntos especiales que se les hubiesen encomendado y los correspondientes a sus comisiones;
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
-III. Asistir a las reuniones del Ayuntamiento y cumplir con el trabajo de sus comisiones;
+III. Asistir a las reuniones de las Comisiones y cumplir con el trabajo encomendado en éstas;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
 IV. Acatar en todo momento las decisiones del Ayuntamiento; y
 
-V. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
+
+V. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+
+VI. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
 
 ###### Artículo 50.
 
@@ -889,9 +909,17 @@ IV. Revisar la situación de los rezagos fiscales para que estos sean liquidados
 
 V. Cuidar que la recaudación de los impuestos y la aplicación de los gastos se hagan cumpliendo los requisitos legales y conforme a la Ley de Ingresos y al presupuesto respectivo;
 
-VI. Conocer de las condonaciones o reducciones de créditos fiscales que realicen el Presidente Municipal y el funcionario encargado de la Hacienda Municipal; y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
 
-VII. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
+VI. Conocer de las condonaciones o reducciones de créditos fiscales que realicen el Presidente Municipal y el funcionario encargado de la Hacienda Municipal;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2004)</small>
+
+VII. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a la ley, quedando estrictamente prohibido percibir por sus servicios bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración, cualquiera que sea su denominación; y
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
+
+VIII. Las demás que establezcan las Constituciones Federal, Estatal y demás leyes y reglamentos.
 
 ###### Artículo 53.
 
@@ -1133,11 +1161,11 @@ Además de los ingresos que forman parte de la Hacienda Municipal, los municipio
 
 El ejercicio de las aportaciones federales para fines específicos debe preverse en los presupuestos de egresos de los municipios y formará parte de la cuenta pública municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 79.
 
-El Congreso del Estado debe aprobar las leyes de ingresos de los municipios y revisar y fiscalizar sus cuentas públicas. Los presupuestos de egresos deben ser aprobados por los Ayuntamientos, con base en sus ingresos disponibles, planes municipales de desarrollo, a los criterios de racionalidad, austeridad y disciplina presupuestal, a los principios de razonabilidad, motivación, certeza y proporcionalidad y a las siguientes reglas:
+El Congreso del Estado debe aprobar las leyes de Ingresos de los municipios y revisar y fiscalizar sus cuentas públicas. Los presupuestos de egresos deben ser aprobados por los Ayuntamientos, con base en sus ingresos disponibles, planes municipales de desarrollo, a los principios de de (sic) racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad y proporcionalidad y a las siguientes reglas:
 
 I. Los Ayuntamientos deben elaborar y aprobar sus presupuestos de egresos, a más tardar, el día 15 de diciembre del año anterior al en que deben regir, considerando su actividad económica preponderante, la extensión de su territorio, las actividades prioritarias de sus habitantes, la amplitud de sus servicios públicos, la forma de distribución de la población, la prioridad de la obra pública y sus endeudamientos;
 
@@ -1145,15 +1173,23 @@ Los recursos que integran la hacienda municipal deben ser ejercidos en forma dir
 
 II. Los presupuestos de egresos de los municipios, deben contener:
 
-a) Una información detallada de la situación hacendaria del Municipio durante el último ejercicio fiscal, con las condiciones previstas para el próximo;
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+a) La información detallada de la situación hacendaria del Municipio durante el último ejercicio fiscal, con las condiciones previstas para el próximo;
 
 b) La estimación de los ingresos que se estimen recaudar, para el próximo ejercicio fiscal;
 
-c) Previsiones de egresos en relación a cada ramo para el sostenimiento de las actividades oficiales, obras o servicios públicos, en el siguiente ejercicio fiscal;
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
-d) Las plantillas de personal en las que se especifiquen los empleos públicos del municipio y se señale el total de las percepciones económicas a que tenga derecho cada uno de los servidores públicos municipales, para efectos de la fiscalización de la cuenta pública; y
+c) Las previsiones de egresos en relación a cada ramo para el sostenimiento de las actividades oficiales, obras o servicios públicos, en el siguiente ejercicio fiscal;
 
-e) Los informes financieros y datos estadísticos que se estimen convenientes para la mejor determinación de la política hacendaria y del programa de gobierno y administración pública municipal.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+d) Las plantillas de personal en las que se especifiquen los empleos públicos del municipio y se señale el total de las percepciones económicas a que tenga derecho cada uno de los servidores públicos municipales, sin que se realice la incorporación, bajo ninguna circunstancia, de bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración que deben recibir legalmente los servidores públicos, cualquiera que sea su denominación, para efectos de la fiscalización de la cuenta pública; y
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
+
+e) Los informes financieros y datos estadísticos que se estimen convenientes para la mejor determinación de la política hacendaria y del programa de gobierno y administración pública municipal; y
 
 III. Las previsiones de egresos se deben clasificar conforme a su naturaleza de acuerdo con las siguientes bases:
 
@@ -1181,9 +1217,9 @@ Si en el curso del ejercicio se observa que determinadas partidas tienen una asi
 
 Estas modificaciones se deben hacer en forma compensatoria, de tal manera que no se llegue a aumentar la suma total del presupuesto, excepto que sus ingresos sean mayores a los previstos.
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
-Para los efectos del inciso d) de la fracción II del presente artículo, los Ayuntamientos tomarán en cuenta las recomendaciones hechas por el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios.
+Para los efectos del inciso d) de la fracción II del presente artículo, los Ayuntamientos deben recibir, estudiar y analizar las recomendaciones que sobre percepción salarial emita el Comité Técnico de Transparencia y Valoración Salarial, así mismo deben responder al mismo en el término de treinta días hábiles, contados a partir de que reciban la notificación oficial de las mismas, fundando, motivando su posición ante las mismas, procediendo de conformidad con la ley estatal en materia de servidores públicos.
 
 ###### Artículo 80.
 
@@ -2016,3 +2052,9 @@ Décimo Tercero. Las obligaciones laborales del Municipio de Tepatitlán de More
 Décimo Cuarto. En tanto entran en vigor las disposiciones reglamentarias expedidas por el Concejo Municipal de Capilla de Guadalupe se observarán en lo conducente las correspondientes al municipio de Tepatitlán de Morelos.
 
 Décimo Quinto. En Congreso del Estado tendrá facultad para dictar las normas interpretativas y aclaratorias del presente Decreto necesarias para resolver cualquier controversia que su aplicación motive.
+
+P.O. 26 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
