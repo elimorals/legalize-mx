@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-861
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-27"
-last_updated: "1999-07-21"
+last_updated: "2000-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8619&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-08-26"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 2000.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el martes 27 de agosto de 1996.
 
@@ -62,6 +62,10 @@ Contraloría Interna.
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1997)</small>
 
 Unidad Especializada en Delincuencia Organizada.
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2000)</small>
+
+Unidad Especializada contra el Lavado de Dinero.
 
 Dirección General de Comunicación Social.
 
@@ -133,11 +137,11 @@ Instituto de Capacitación.
 
 Agregadurías.
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2000)</small>
 
 ###### Artículo 3.
 
-Son Agentes del Ministerio Público de la Federación el Procurador, los Subprocuradores, el Fiscal Especializado para la Atención de Delitos contra la Salud, el Fiscal Especializado para la Atención de Delitos Electorales, el Visitador General, el Titular de la Unidad Especializada en Delincuencia Organizada, los Directores Generales de lo Contencioso y Consultivo, de Asuntos Legales Internacionales, de Amparo, de Constitucionalidad y Documentación Jurídica, de Normatividad Técnico-Penal, de Control de Procedimientos Penales "A", "B" y "C", del Ministerio Público Especializado "A", "B" y "C", de Visitaduría, de Inspección Interna, de Protección a los Derechos Humanos y los Delegados Estatales, así como todos aquellos servidores públicos a quienes se les confiera dicha calidad.
+Son Agentes del Ministerio Público de la Federación el Procurador; los Subprocuradores; el Fiscal Especializado para la Atención de Delitos contra la Salud; el Fiscal Especializado para la Atención de Delitos Electorales; el Visitador General; el Titular de la Unidad Especializada en Delincuencia Organizada; el Titular de la Unidad Especializada contra el Lavado de Dinero; los Directores Generales de lo Contencioso y Consultivo, de Asuntos Legales Internacionales, de Amparo, de Constitucionalidad y Documentación Jurídica, de Normatividad Técnico Penal, de Control de Procedimientos Penales "A", "B" y "C", del Ministerio Público Especializado "A", "B" y "C", de Visitaduría, de Inspección Interna, de Protección a los Derechos Humanos y los Delegados Estatales, así como aquellos servidores públicos a los que se les confiera dicha calidad.
 
 ###### Artículo 4.
 
@@ -473,13 +477,43 @@ El Titular y los Agentes del Ministerio Público de la Federación adscritos a l
 
 Artículo 19 bis-1. Al Titular, Agentes del Ministerio Público de la Federación, de la Policía Judicial Federal, los Peritos y demás servidores públicos de la Unidad Especializada en Delincuencia Organizada les será aplicable lo dispuesto en los artículos 11 bis-1, 11 bis-2 y 11 bis-3 del presente Reglamento.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 17 DE JULIO DE 2000)</small>
+
+### CAPÍTULO SEXTO TER. DE LA UNIDAD ESPECIALIZADA CONTRA EL LAVADO DE DINERO
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2000)</small>
+
+Artículo 19 ter. Al frente de la Unidad Especializada contra el Lavado de Dinero, habrá un titular quien tendrá las facultades siguientes:
+
+I. Ejercer las atribuciones previstas en los artículos 8o. y 13 de la Ley Orgánica de la Procuraduría General de la República, respecto de los delitos previstos en el artículo 400 bis del Código Penal Federal y los conexos a éstos;
+
+II. Ejercer la facultad de atracción para la investigación y persecución de delitos del fuero común que tengan conexidad con delitos federales;
+
+III. Establecer y mantener, en coordinación con la Unidad Administrativa competente, comunicación con autoridades de otros países, así como con organizaciones internacionales para intercambiar información que resulte necesaria para la prevención, investigación y persecución de los delitos previstos en el artículo 400 bis del Código Penal Federal;
+
+IV. Proponer políticas y estrategias de acción para combatir los delitos previstos en el artículo 400 bis del Código Penal Federal, en coordinación con las autoridades competentes;
+
+V. Participar, en coordinación con la Unidad Administrativa competente, en la formulación de anteproyectos de iniciativas de leyes, tratados, decretos, reglamentos y demás instrumentos normativos que se relacionen con los delitos previstos en el artículo 400 bis del Código Penal Federal;
+
+VI. Establecer, en coordinación con la Unidad Administrativa competente, los sistemas de información y estadística de los delitos previstos en el artículo 400 bis del Código Penal Federal;
+
+VII. Aprobar en definitiva los dictámenes sobre el no ejercicio de la acción penal y la reserva de la averiguación previa, en los asuntos de su competencia;
+
+VIII. Establecer mecanismos de coordinación con otras unidades administrativas, para conocer de los procedimientos que se relacionen con los delitos previstos en el artículo 400 Bis del Código Penal Federal, y
+
+IX. Las demás que sean consecuencia natural de sus funciones y necesarias para el buen funcionamiento de la Unidad Especializada contra el Lavado de Dinero.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2000)</small>
+
+Artículo 19 ter-1. El Titular de la Unidad Especializada contra el Lavado de Dinero será nombrado por el Procurador General de la República y deberá cumplir con los requisitos establecidos en los artículos 22 de la Ley Orgánica de la Procuraduría General de la República y 7, 11 bis-1 y 11 bis-2 de este Reglamento.
+
+La Unidad Especializada estará integrada por el Titular, Agentes del Ministerio Público de la Federación, de la Policía Judicial Federal, Peritos y demás personal administrativo necesario para el desempeño de sus funciones, de conformidad con la disponibilidad presupuestal y los manuales de organización, y a quienes les serán aplicables en lo conducente lo dispuesto en los artículos 11 bis-1, 11 bis-2 y 11 bis-3 del presente Reglamento.
+
 ### CAPÍTULO SÉPTIMO. DE LAS DIRECCIONES GENERALES
 
 ### CAPÍTULO OCTAVO. DE LOS ÓRGANOS DESCONCENTRADOS
 
 > <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1997)</small>
-
-### CAPÍTULO NOVENO. DE LOS CONSEJOS
 
 ###### Artículo 20.
 
@@ -945,9 +979,7 @@ VI. Intervenir, a petición del Ministerio Público, en las investigaciones de c
 
 VII. Coordinar y vigilar las comunicaciones con la Organización Internacional de Policía Criminal, las oficinas centrales nacionales y otras autoridades competentes.
 
-### CAPÍTULO DÉCIMO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1998)</small>
+### CAPÍTULO NOVENO. DE LOS CONSEJOS
 
 ###### Artículo 45.
 
@@ -1010,6 +1042,10 @@ DE LAS AGREGADURÍAS
 ###### Artículo 50.
 
 La Procuraduría contará con Agregadurías que serán órganos desconcentrados, coordinados por el Subprocurador Jurídico y de Asuntos Internacionales. Los Agregados a representaciones diplomáticas o consulares omisiones especiales, serán representantes del Ministerio Público de la Federación y estarán sujetos a las mismas obligaciones que los miembros del personal de carrera del Servicio Exterior, en los términos de la Ley del Servicio Exterior Mexicano, salvo en los casos en que deba guardar el secreto indagatorio e instructorio al que está obligado el Ministerio Público de la Federación.
+
+### CAPÍTULO DÉCIMO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1998)</small>
 
 ###### Artículo 51.
 
@@ -1302,3 +1338,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las reformas a los artículos 2o., por lo que hace a la sustitución de la denominación de la Dirección General de Administración de Bienes Asegurados por la de Dirección General de Control y Registro de Aseguramientos Ministeriales; 38, y 42, fracción III, así como la derogación del artículo 55 del Reglamento de la Ley Orgánica de la Procuraduría General de la República, a que se refiere el presente Decreto, entrarán en vigor el día 18 de agosto de 1999.
 
 TERCERO. Una vez que entren en vigor las disposiciones a que se refiere el artículo transitorio anterior, las menciones a la Dirección General de Administración de Bienes Asegurados que contengan los acuerdos, circulares, instructivos y demás normas administrativas de la Procuraduría General de la República, se entenderán referidas a la Dirección General de Control y Registro de Aseguramientos Ministeriales.
+
+D.O.F. 17 DE JULIO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que los acuerdos, circulares, instructivos y demás disposiciones administrativas hagan a la Unidad Administrativa facultada para conocer del delito de operaciones con recursos de procedencia ilícita, se entenderán hechas a la Unidad Especializada contra el Lavado de Dinero.
+
+TERCERO.- La Unidad Especializada contra el Lavado de Dinero también conocerá de los delitos previstos en el artículo 115 bis del Código Fiscal de la Federación, vigente hasta la entrada en vigor del Decreto de reforma, publicado en el Diario Oficial de la Federación el 13 de mayo de 1996, de conformidad con los artículos segundo y tercero transitorios del mencionado Decreto.
