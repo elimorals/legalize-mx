@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-145
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-12"
-last_updated: "1991-12-12"
+last_updated: "2000-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS, PRESEAS Y CONDECORACIONES POR PARTE DEL GOBIERNO DEL ESTADO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 12 de diciembre de 1991.
 
@@ -261,13 +261,31 @@ I. Condecoración "López Cotilla": Se concederá a miembros distinguidos del ma
 
 II. Condecoración "Ignacio L. Vallarta": Se otorgará a distinguidos jurisconsultos y destacados cultivadores de las ciencias sociales;
 
-III. Condecoración "Ramón Corona": Se concederá a servidores públicos, militares o ciudadanos que se distingan, en grado sobresaliente, por sus servicios a la sociedad y al Estado, mediante actos de heroísmo, altruísmo y cultivo de valores humanos;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+III. Condecoración "Ramón Corona": Se concederá a militares o ciudadanos que se distingan en grado sobresaliente, por sus servicios a la sociedad y al Estado, mediante actos de heroísmo, altruismo y cultivo de valores humanos;
 
 IV. Condecoración "José Clemente Orozco": Se concederá a quienes hayan destacado en el campo artístico;
 
 V. Condecoración "Valentín Gómez Farías" al mérito político, que se otorgará a estadistas y ciudadanos de relieve nacional e internacional, que se hayan hecho acreedores al respeto, la admiración, la gratitud o el reconocimiento del Estado de Jalisco, o que por razón de su propia proyección hayan enaltecido el nombre de México o hayan hecho al Estado objeto de grandes y señalados beneficios; y
 
-VI. Condecoración Cadete Francisco Márquez: Se concederá a los atletas y a las personas que se han distinguido por su labor o actuación en favor del desarrollo del deporte de Jalisco.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+VI. Condecoración "Francisco Márquez": Se concederá a los Servidores Públicos que se distingan por su heroísmo y lealtad institucional en el desempeño de su labor al servicio de la comunidad en las siguientes Instituciones Públicas:
+
+a) Seguridad Pública;
+
+b) Bomberos;
+
+c) Vialidad y Transporte.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+VII. Condecoración "Angel Romero Llamas": Se concederá a los Jaliscienses que se distingan como deportistas destacados en activo y se hayan hecho acreedores a la admiración, respeto y reconocimiento por causa de la proyección deportiva que realicen o hayan realizado por la misma población de Jalisco;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+VIII. Condecoración "José Ma. Vigil": Se concederá a las personas que se distingan en las Letras, en Biblioteconomía y Archivonomía.
 
 ###### Art. 30.
 
@@ -306,3 +324,11 @@ Lic. Guillermo Cosío Vidaurri
 El Secretario General de Gobierno
 
 Lic. Enrique Romero González
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE DICIEMBRE DE 2000.
+
+PRIMERO.- La Comisión Dictaminadora, propone un Acuerdo Económico, en el cual se hará la propuesta el Ejecutivo para que al C. Octavio de la Vega Galindo, en su momento, se le otorgue la presea que propone en su iniciativa el Diputado Manuel Castelazo Mendoza.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
