@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-estimulos-sociales-y-economicos-de-la-policia-39"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-03-26"
-last_updated: "1993-03-26"
+last_updated: "2005-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1993-03-24"
 
 REGLAMENTO DE ESTIMULOS SOCIALES Y ECONOMICOS DE LA POLICIA JUDICIAL FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO DECIMO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO DE CARRERA DE PROCURACION DE JUSTICIA FEDERAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 26 DE ENERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 26 de marzo de 1993.
 
@@ -308,3 +310,135 @@ La primera etapa de evaluación para la asignación de estímulos económicos se
 UNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de marzo de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+D.O.F. 26 DE ENERO DE 2005.
+
+PRIMERO.- Este Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- De conformidad con los artículos 31, fracción II, incisos b) y f), 32, fracción II, incisos b) y f), y 33, fracción II, incisos b) y f), todos de la Ley Orgánica de la Procuraduría General de la República, los agentes del Ministerio Público de la Federación, de la Policía Federal Investigadora y peritos, que no sean de designación especial, y a la entrada en vigor de este Reglamento se encuentren laborando en la Procuraduría, deberán acreditar los procesos de evaluación de control de confianza y del desempeño, así como el examen de conocimientos, de acuerdo con los programas que para tal efecto establezca la Procuraduría para permanecer en el Servicio y, en tratándose de Policías deberán presentar, además, el examen de aptitud física, el cual será aplicado y evaluado por el Instituto y, consecuentemente, asumir la categoría o nivel que les corresponda conforme a este ordenamiento; si no acreditan, no se presentan o se niegan a practicar cualquiera de los procesos de evaluación referidos, procederá la separación del Servicio en los términos de las disposiciones aplicables.
+
+No se requerirá la nueva evaluación de control de confianza referida en el párrafo que antecede, cuando los servidores públicos hayan practicado y aprobado la misma después del 25 de julio de 2003.
+
+En todo caso, se respetará la antigüedad y prestaciones de los miembros del Servicio de Carrera.
+
+TERCERO.- De conformidad con el artículo Segundo Transitorio del presente ordenamiento, los Agentes del Ministerio Público de la Federación del Servicio de Carrera de Procuración de Justicia Federal, ocuparán las categorías y niveles siguientes:
+
+a) Los Agentes del Ministerio Público de la Federación con categoría de Asistente, como Fiscal Ejecutivo Asistente.
+
+b) Los Agentes del Ministerio Público de la Federación con categoría de Adjunto, como Fiscal Ejecutivo Adjunto.
+
+c) Los Agentes del Ministerio Público de la Federación con categoría de Titular, como Fiscal Ejecutivo Titular.
+
+d) Los Agentes del Ministerio Público de la Federación con categoría de Jefe de Unidad Fiscal Especializada, como Fiscal Coordinador Mixto o Especializado. Serán especializados si realizan sus funciones en alguna de las unidades administrativas a que se refieren los artículos 28 o 29 del Reglamento de la Ley.
+
+CUARTO.- De conformidad con el artículo Segundo Transitorio del presente ordenamiento, los Agentes de la Policía Federal Investigadora del Servicio de Carrera de Procuración de Justicia Federal, ocuparán las categorías y niveles siguientes:
+
+a) Los Agentes de la Policía Federal Investigadora, con categoría de Agente "C", como Investigador "C".
+
+b) Los Agentes de la Policía Federal Investigadora, con categoría de Agente "B", como Investigador "B".
+
+c) Los Agentes de la Policía Federal Investigadora, con puesto de Investigador de Delitos Federales, como Investigador "B".
+
+d) Los Agentes de la Policía Federal Investigadora, con categoría de Agente "A", como Investigador "A".
+
+e) Los Agentes de la Policía Federal Investigadora, con categoría de Primer y Segundo Subcomandante, como Supervisor Investigador Oficial.
+
+f) Los Agentes de la Policía Federal Investigadora, con categoría de Primer y Segundo Comandante, como Supervisor Investigador Jefe, y
+
+g) Los Agentes de la Policía Federal Investigadora, con categoría de Comandante en Jefe, como Supervisor Investigador General.
+
+QUINTO.- De conformidad con el artículo Segundo Transitorio del presente ordenamiento, los Peritos Técnicos y Profesionales del Servicio de Carrera de Procuración de Justicia Federal, ocuparán la categoría de Perito Ejecutivo Profesional "B" o Perito Ejecutivo Técnico "B", según corresponda.
+
+SEXTO.- Los Agentes, Policías y Peritos, que se encuentren en funciones al momento de la entrada en vigor del presente Reglamento, en virtud de designación especial del Procurador, si lo requieren las necesidades del servicio y siempre que exista disponibilidad presupuestal, podrán ocupar la categoría vacante en el Servicio de Carrera correspondiente al cargo que desempeñen, siempre que cumplan con los requisitos de ingreso previstos en los artículos 31, 32 o 33 de la Ley Orgánica, según corresponda, así como en el numeral 44 de este ordenamiento, con excepción de la fracción VI de dicho artículo y, además, los adicionales que establezca el Consejo en la convocatoria correspondiente.
+
+El Consejo aprobará la incorporación al servicio mediante resolución que será irrecurrible.
+
+SÉPTIMO.- Los mandos medios y superiores que por necesidades del servicio, a la entrada en vigor del presente Reglamento realicen funciones de dirección, coordinación o supervisión de Agentes, Policías o Peritos, siempre que estos últimos realicen las atribuciones inherentes a su naturaleza, si la disponibilidad presupuestal lo permite, podrán ingresar a la categoría vacante en el Servicio de Carrera equivalente al cargo que desempeñen, siempre que cumplan con los requisitos previstos en los artículos 31, 32 o 33 de la Ley Orgánica, según corresponda y, además, con lo que establezca el Consejo en la convocatoria respectiva, en las siguientes categorías y niveles:
+
+I. En las áreas con personal ministerial:
+
+a) Los Jefes de Departamento, como Fiscal Ejecutivo Asistente;
+
+b) Los Subdirectores de Área, como Fiscal Supervisor Mixto o Especializado;
+
+c) Los Subdelegados de Procedimientos Penales, como Fiscal Coordinador Mixto;
+
+d) Los Directores de Área o Directores Ejecutivos, como Fiscal Coordinador Mixto o Especializado;
+
+e) Los Delegados en las entidades federativas, como Fiscal Jefe Mixto, y
+
+f) Los Directores Generales, como Fiscal Jefe Mixto o Especializado.
+
+Serán especializados si realizan sus funciones en alguna de las unidades administrativas a que se refieren los artículos 28 o 29 del Reglamento de la Ley.
+
+II. En las áreas con personal policial:
+
+a) Los Jefes de Departamento, como Supervisor Investigador Oficial;
+
+b) Los Subdirectores de Área, como Supervisor Investigador Jefe;
+
+c) Los Jefes Regionales, como Supervisor Investigador General;
+
+d) Los Directores de Área o Directores Generales Adjuntos, como Comisario Investigador Coordinador;
+
+e) Los Directores Generales de las áreas de Planeación Policial, de Despliegue Regional, de Asuntos Policiales Internacionales e INTERPOL, de Intercepción y de Erradicación, como Comisario Investigador Jefe, y
+
+f) El titular de la Unidad de Operaciones y los Directores Generales de las áreas de Análisis Táctico, de Investigación Policial y de Operaciones Especiales, como Comisario Investigador General.
+
+III. En las áreas con personal pericial:
+
+1. Profesionales:
+
+a) Los Jefes de Departamento, como Ejecutivo "A";
+
+b) Los Subdirectores de Área, como Coordinador;
+
+c) Los Directores de Área, como Jefe Delegacional, y
+
+d) Los Directores Ejecutivos, como Jefe Regional.
+
+2. Técnicos:
+
+a) Los Jefes de Departamento, como Técnico Supervisor, y
+
+b) Los Subdirectores de Área, como Técnico Coordinador.
+
+Para efectos de este artículo, se comprenden a las plazas homólogas o equivalentes.
+
+El Consejo aprobará la incorporación al Servicio de Carrera mediante resolución que será irrecurrible.
+
+OCTAVO.- Los Agentes, Policías y Peritos no incorporados al Servicio de Carrera que se encuentren en funciones en virtud de un nombramiento interino, al momento de la entrada en vigor del presente Reglamento, podrán incorporarse al Servicio de Carrera y ocupar definitivamente la plaza interina o alguna otra de la misma categoría que se encuentre vacante, siempre que:
+
+I. Cumplan los requisitos previstos en la respectiva fracción II de los artículos 31, 32 o 33 de la Ley Orgánica, según corresponda;
+
+II. Acrediten los exámenes de conocimientos y el oral de oposición, previstos en los artículos 42 y 52, fracción II, del presente ordenamiento, y
+
+III. No gocen de licencia médica o de licencia temporal sin goce de sueldo.
+
+Los miembros del Servicio de Carrera que ocupen de manera interina una plaza superior a la de su categoría, podrán ocupar definitivamente alguna de las plazas vacantes de la categoría que ejerzan interinamente, siempre que cumplan los requisitos a que se refieren las fracciones anteriores; en la inteligencia de que, para concursar por la nueva plaza, deberán renunciar de manera irrevocable a la que les corresponda. El Consejo dispondrá libremente de las plazas a que los miembros del Servicio hayan renunciado en términos de este artículo.
+
+Los miembros del Servicio de Carrera que ocupen interinamente una plaza superior a la de su categoría y que no concursen por la ocupación definitiva de ésta, deberán acreditar los requisitos que establece el artículo segundo transitorio de este Reglamento, para permanecer como miembros del Servicio con la categoría o nivel que les corresponda conforme a este ordenamiento.
+
+El Consejo podrá fijar requisitos adicionales a los anteriores para que los servidores públicos que ocupen plazas de forma interina puedan concursar por la definitividad en ellas.
+
+El Consejo aprobará la incorporación al Servicio mediante resolución que será irrecurrible.
+
+NOVENO.- De conformidad con los lineamientos que establezca el Consejo, el personal sustantivo que cubra los requisitos aplicables, deberá asumir las categorías y niveles previstos en el presente ordenamiento, en un plazo máximo de un año contado a partir de la entrada en vigor del mismo.
+
+De conformidad con las necesidades del Servicio y con los lineamientos que establezca el Consejo, los mandos medios y superiores, el personal de designación especial y el interino que esté laborando a la entrada en vigor de este Reglamento y cumpla los requisitos aplicables, deberán incorporarse a las categorías y niveles previstos en el presente ordenamiento, en un plazo máximo de un año seis meses contado a partir de la entrada en vigor del mismo.
+
+El Consejo dictará los lineamientos necesarios para que el personal referido en los artículos anteriores ocupe las categorías y niveles que les correspondan en los términos y condiciones señaladas por este Reglamento, en los plazos a que se refiere el presente artículo. Asimismo, emitirá los lineamientos para resolver los casos no previstos en este ordenamiento.
+
+Las plazas correspondientes a las categorías existentes hasta antes de la entrada en vigor de este Reglamento se suprimirán paulatinamente, en la medida en que sean ocupadas las relativas a las nuevas categorías y niveles.
+
+DÉCIMO.- Las personas que con motivo de una resolución judicial ejecutoria se reincorporen como agente, policía o perito, serán reinstalados en los términos y condiciones aplicables a su plaza al momento de su separación. Para ocupar las categorías y niveles señalados en este ordenamiento, deberán cubrir los requisitos de ingreso y permanencia señalados en el presente Reglamento.
+
+DÉCIMO PRIMERO.- Las adscripciones, comisiones, permisos o licencias que a la entrada en vigor del presente Reglamento se encuentren vigentes, continuarán en sus términos, conforme a las disposiciones vigentes a la fecha en que se hayan autorizado y a las necesidades del servicio, salvo disposición expresa en contrario.
+
+DÉCIMO SEGUNDO.- Se abrogan los Reglamentos de Estímulos Sociales y Económicos del Ministerio Público Federal y de la Policía Judicial Federal, publicados en el Diario Oficial de la Federación el 17 de mayo de 1993 y 26 de marzo de 1993, respectivamente.
+
+DÉCIMO TERCERO.- Los procedimientos y los recursos que a la entrada en vigor del presente Reglamento se estén desahogando conforme a las Normas de Organización y Funcionamiento del Órgano Auxiliar de Instrucción del Consejo de Profesionalización de la Procuraduría General de la República, aprobadas el 31 de octubre de 2003 y publicadas en el Diario Oficial de la Federación el dos de febrero de 2004, se continuarán hasta su conclusión con base en las mismas.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente.
