@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1995-03-29"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1998.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -169,45 +169,65 @@ Una vez suspendida o perdida la calidad de ciudadano sinaloense, sólo se recobr
 
 ### CAPITULO III. DE LAS ELECCIONES
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 1998)</small>
 
 ###### Art. 14.
 
-Las elecciones populares serán directas, se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, se verificarán el segundo domingo del mes de noviembre del año que corresponda y con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
+Las elecciones de Gobernador del Estado, de Diputados del Congreso del Estado y de los Presidentes Municipales y Regidores de los Ayuntamientos, se realizarán mediante sufragio universal, libre, secreto y directo. Se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, se verificarán el segundo domingo del mes de noviembre del año que corresponda y con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
 
-Los partidos políticos son entidades de interés público. La Ley determinará las formas específicas y condiciones de la intervención de los partidos nacionales y estatales en el proceso electoral, así como las prerrogativas que les correspondan y las reglas a que se sujetará el financiamiento de los mismos y sus campañas electorales.
+Los partidos políticos son entidades de interés público. La Ley garantizará que los partidos políticos, en forma equitativa, reciban financiamiento público para su sostenimiento y desarrollo de actividades tendientes a la obtención del sufragio universal, de acuerdo a las disponibilidades presupuestales, y tengan acceso a los medios de comunicación social; señalará las reglas a que se sujetará su financiamiento, privilegiando los recursos públicos sobre los de origen privado; fijará los criterios para determinar los límites a las erogaciones de los partidos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos sus recursos, y señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones. La ley determinará las formas específicas y condiciones de la intervención de los partidos nacionales y estatales en el proceso electoral, en las elecciones estatales y municipales.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
 
 Los Partidos Políticos Nacionales que hayan obtenido su registro definitivo podrán participar en las elecciones estatales y municipales.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 1998)</small>
 
 ###### Art. 15.
 
-La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, en cuya integración concurre el Poder Legislativo, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la ley. En su ejercicio serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad. Será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones y tendrá a su cargo la preparación, desarrollo, vigilancia y calificación de los procesos electorales, así como la información de los resultados.
+La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, en cuya integración concurre el Poder Legislativo, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la ley. En su ejercicio serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad. Será autoridad en la materia, profesional en su desempeño, autónomo en su funcionamiento, independiente en sus decisiones y tendrá a su cargo la preparación, desarrollo, vigilancia y calificación de los procesos electorales, así como la información de los resultados.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1995)</small>
 
 El Organismo público señalado ejercerá sus funciones en todo el territorio del Estado y estará conformado por un Consejo Estatal, así como por los Consejos Distritales, Consejos Municipales y Mesas Directivas de Casilla correspondientes. La ley determinará las funciones de cada uno de ellos y la debida corresponsabilidad de los partidos políticos y de los ciudadanos.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1995)</small>
+
 El Consejo Estatal se integrará por un presidente, por consejeros ciudadanos, consejeros del Poder Legislativo y representantes de los partidos políticos. El presidente y los consejeros ciudadanos serán nombrados por el Congreso del Estado por el voto de las dos terceras partes de sus integrantes en los términos previstos por la Ley. Los representantes de los partidos políticos tendrán derecho sólo a voz.
 
-La ley establecerá un sistema de medios de impugnación de los que conocerán el organismo público autónomo a que se refiere el primer párrafo de este artículo y el Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas del proceso electoral y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad. En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+
+La ley establecerá un sistema de medios de impugnación con los plazos convenientes para el desahogo de todas las instancias impugnativas, de los que conocerán el organismo público autónomo a que se refiere el primer párrafo de este artículo y el Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas del proceso electoral y garantizará que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1995)</small>
 
 El organismo público autónomo de referencia, conforme a las disposiciones de la ley, declarará la validez de las elecciones de Diputados y Regidores por ambos principios y Presidentes Municipales, y otorgará las constancias de mayoría y asignación respectivas, las que podrán ser impugnadas, en los términos que señala la ley.
 
-Para cada proceso electoral se instalará el Tribunal Estatal Electoral que funcionará en pleno y sus sesiones de resolución serán públicas, en los términos que establezca la ley; será autónomo y máxima autoridad jurisdiccional en su materia y tendrá competencia para resolver en forma definitiva e inatacable las impugnaciones que se hagan, con excepción de las que se presenten en relación con la elección de Gobernador del Estado, en donde la última instancia para su calificación será el Colegio Electoral del Congreso del Estado.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
 
-Contará con tres salas regionales que funcionarán en pleno y una Sala de Reconsideración en la forma que lo disponga la ley. Esta última será competente para resolver las impugnaciones que se interpongan en contra de las resoluciones del propio pleno del Tribunal, mediante el recurso respectivo en el que los partidos políticos hagan valer agravios debidamente fundados por los que se pueda modificar el resultado de la elección. Los fallos de esta sala serán definitivos e inatacables. La ley establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
+El Tribunal Estatal Electoral funcionará en pleno y sus sesiones de resolución serán públicas, en los términos que establezca la ley; será autónomo y máxima autoridad jurisdiccional en su materia y tendrá competencia para resolver en forma definitiva y firme las impugnaciones que se hagan en período no electoral y durante el proceso electoral; realizará el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiese obtenido el mayor número de votos.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+
+Contará con tres salas regionales que funcionarán en pleno durante el proceso electoral y una Sala de Reconsideración permanente, en la forma que lo disponga la ley. Esta última será competente para, resolver como sala unitaria, en período no electoral, las impugnaciones que se presenten contra los actos y resoluciones del Consejo Estatal Electoral, así como para resolver durante el proceso electoral los recursos que se interpongan respecto de la elección de Gobernador del Estado y en contra de la asignación de Diputados por el principio de Representación Proporcional que realice el Consejo Estatal Electoral. Los fallos de esta sala serán definitivos y firmes. La ley establecerá los presupuestos, requisitos de procedencia y el trámite para los medios de impugnación.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1989)</small>
 
 ###### Art. 16.
 
-Ningún Ciudadano podrá ser detenido ni en la víspera ni el día de las elecciones por delitos leyes (sic), faltas u omisiones.
+Ningún Ciudadano podrá ser detenido ni en la víspera ni el día de las elecciones por delitos leyes, (sic) faltas u omisiones.
 
 Ninguna autoridad podrá impedir ni estorbar la verificación de las elecciones debiendo limitar su intervención a sólo los casos de alteración del orden público, sin perjuicio de proceder como corresponda, después de terminada la elección. Todo acto ilegal de parte de cualquiera autoridad en materia de elecciones populares será causa grave de responsabilidad.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 1998)</small>
+
+La ley tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 1998)</small>
+
+La ley en materia electoral deberá modificarse, promulgarse y publicarse por lo menos noventa días antes de que inicie el proceso electoral en que vaya a aplicarse, y durante el mismo no podrá haber modificaciones legales fundamentales.
 
 ## TITULO IV
 
@@ -267,25 +287,23 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 El Congreso del Estado se compondrá de representantes electos popularmente cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
 
 ###### Art. 24.
 
-El Congreso del Estado se integrará con 40 diputados, 24 de ellos electos por el sistema de mayoría relativa en distritos electorales uninominales y 16 diputados electos de acuerdo con el principio de representación proporcional, mediante el sistema de listas regionales votadas en circunscripciones plurinominales.
+El Congreso del Estado se integrará con 40 Diputados, 24 de ellos electos por el sistema de mayoría relativa en distritos electorales uninominales y 16 Diputados electos de acuerdo con el principio de representación proporcional, mediante el sistema de lista de candidatos votada en circunscripción plurinominal.
 
-La demarcación territorial de los Distritos electorales uninominales se fijará teniendo en cuenta la población total del Estado. En todo caso, cada Municipio tendrá cuando menos un distrito electoral uninominal.
+La demarcación territorial de los distritos electorales uninominales se fijará teniendo en cuenta la población total del Estado. En todo caso, cada Municipio tendrá cuando menos un distrito electoral uninominal.
 
-Para la elección de los 16 diputados según el principio de representación proporcional y el sistema de listas regionales, el territorio del Estado se dividirá en hasta tres circunscripciones plurinominales. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
+Para la elección de los 16 Diputados según el principio de representación proporcional y el sistema de listas de candidatos, el territorio del Estado se podrá dividir de una a tres circunscripciones plurinominales. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
 
-Para que un partido político obtenga el registro de sus listas regionales para la elección de diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos diez distritos uninominales, de ellos mínimamente tres deberán estar en cada circunscripción plurinominal.
+Para que un partido político obtenga el registro de sus listas para la elección de diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos diez distritos uninominales, de ellos, en su caso, mínimamente tres deberán estar en cada circunscripción plurinominal.
 
-Todo partido político que como mínimo alcance el 1.5 por ciento del total de la votación emitida para la elección de diputados en cada circunscripción, tendrá derecho, cuando menos, a que se le asigne un diputado de representación proporcional.
+Todo partido político que alcance entre el 2 y el 5 por ciento del total de la votación emitida para la elección de Diputados en el Estado, tendrá derecho a que se le asigne un Diputado de representación proporcional.
 
-El número de diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos efectivos obtenidos en cada circunscripción, mediante la aplicación de la fórmula electoral y procedimiento de asignación que señale la Ley. En toda (sic) caso la asignación se hará siguiendo el orden que tuvieren los candidatos en las listas correspondientes.
+El número de Diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos efectivos obtenidos, mediante la aplicación de la fórmula electoral y procedimiento de asignación que señale la Ley. En todo caso la asignación se hará siguiendo el orden que tuvieren los candidatos en la lista o listas correspondientes.
 
-En ningún caso un partido político podrá contar con más de 26 diputados por ambos principios.
-
-Ningún partido político que haya obtenido el 60% o menos de la votación estatal emitida podrá contar con más de 24 diputados por ambos principios.
+En ningún caso un partido político podrá contar con más de 24 diputados por ambos principios.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 1995)</small>
 
@@ -301,7 +319,9 @@ I. Ser Sinaloense por nacimiento o ciudadano sinaloense por vecindad con residen
 
 II. Ser nativo del Municipio donde se encuentre el Distrito Electoral que lo elija o avecindado en él cuando menos seis meses antes de la fecha de la elección.
 
-Para poder figurar como candidato en las listas de las circunscripciones electorales plurinominales, se requerirá ser originario de alguno de los municipios que comprenda la circunscripción en la cual se realice la elección, o vecino de ella con residencia efectiva de más de seis meses anteriores a la fecha en que la misma se celebre.
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+
+Para poder figurar como candidato en la lista de la circunscripción electoral plurinominal, se requerirá, en su caso, ser originario de alguno de los municipios que comprenda la circunscripción en la cual se realice la elección, o vecino de ella con residencia efectiva de más de seis meses anteriores a la fecha en que la misma se celebre.
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 1974)</small>
 
@@ -493,9 +513,9 @@ X. Decretar la traslación provisional de los Poderes del Estado, fuera de la ci
 
 XI. Convocar a toda clase de elecciones para servidores públicos del Estado y Municipios, cuando fuere conducente.
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 1998)</small>
 
-XII. Erigirse en Colegio Electoral para calificar la elección de Gobernador del Estado en la forma que determine la ley. Su resolución será definitiva e inatacable.
+XII. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo que hubiere hecho el Tribunal Estatal Electoral.
 
 XIII. Elegir al ciudadano que deba substituir al Gobernador del Estado, con el carácter de Substituto, o de Interino, en los términos que esta Constitución señala.
 
@@ -2614,6 +2634,12 @@ P.O. 29 DE MARZO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE ENERO DE 1998.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO PRIMERO.
 
