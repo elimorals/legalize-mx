@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-codigo-fiscal-de-la-federacion-362"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1984-02-29"
+last_updated: "1987-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=362&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DEL CODIGO FISCAL DE LA FEDERACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JULIO DE 1987.
 
-Reglamento Publicado en el Diario Oficial de la Federación el miércoles 29 de febrero de 1984.
+Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -77,6 +77,10 @@ II.- La cantidad obtenida conforme a la fracción anterior, se dividirá entre e
 
 III.- El valuador podrá efectuar ajustes al valor a que se refiere la fracción anterior cuando existan razones que así lo justifiquen, las cuales deberán señalarse expresamente en el avalúo. Una vez presentado el avalúo no podrán efectuarse estos ajustes.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 1987)</small>
+
+Si el avalúo debe realizarse en poblaciones donde no se cuente con los servicios de instituciones de crédito, de la Comisión de Avalúos de Bienes Nacionales, de corredor público o de instituciones o empresas dedicadas a la compraventa y subasta de bienes, podrá designarse a personas o instituciones versadas en la materia.
+
 ###### ARTICULO 5o.
 
 Para los efectos del penúltimo párrafo del artículo 11 del Código, cuando el contribuyente entre en liquidación y deba garantizar el interés fiscal, el monto de la garantía será igual al promedio anual de las contribuciones que se causaron por ejercicio considerando para estos efectos las que pagó o que le hubieran determinado las autoridades fiscales, correspondientes a los últimos tres ejercicios de doce meses. En este caso no se garantizarán los recargos.
@@ -113,6 +117,10 @@ Para los efectos del artículo 20 del Código, el pago de impuestos, así como d
 
 El cheque mediante el cual se paguen las contribuciones y sus accesorios deberá expedirse a favor de la Tesorería de la Federación; tratándose de contribuciones que administren las entidades federativas a favor de su Tesorería u órgano equivalente y, en el caso de aportaciones de seguridad social recaudadas por un organismo descentralizado, a favor del propio organismo, anotando en el cheque el registro del contribuyentes en dicho organismo. El cheque deberá librarse a cargo de instituciones de crédito que se encuentren dentro de la población donde esté establecida la autoridad recaudadora de que se trate. La Secretaría mediante disposiciones de carácter general, podrá autorizar que el cheque se libre a cargo de instituciones de crédito que se encuentren en poblaciones distintas a aquélla en donde esté establecida la autoridad recaudadora.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 1987)</small>
+
+Podrá hacerse el pago de créditos fiscales con cheques personales del contribuyente que cumplan con los requisitos que este artículo señala, por conducto de los notificadores ejecutores en el momento de realizarse cualquier diligencia del procedimiento administrativo de ejecución. En el acta respectiva se harán constar los datos de identificación y valor del cheque y el número del recibo oficial que se expida.
+
 ###### ARTICULO 9o.
 
 No se causarán recargos de conformidad con el artículo 21 del Código, cuando el contribuyente al pagar contribuciones en forma extemporánea compense un saldo a su favor, hasta por el monto de dicho saldo, siempre que éste se haya originado con anterioridad a la fecha en que debió pagarse la contribución de que se trate.
@@ -147,7 +155,9 @@ I.- Cambio de nombre, denominación o razón social.
 
 II.- Cambio de domicilio fiscal.
 
-III.- Alta, aumento, disminución o baja de obligaciones fiscales.
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 1987)</small>
+
+III.- Aumento o disminución de obligaciones, suspensión o reanudación de actividades.
 
 IV.- Liquidación o apertura de sucesión.
 
@@ -223,27 +233,43 @@ Cuando el nuevo domicilio fiscal del contribuyente o retenedor quede dentro de l
 
 Cuando en las formas de declaración se prevea el señalamiento de cambio de domicilio fiscal y así se manifieste, se considerará presentando el aviso a que se refiere este artículo al presentarse dicha declaración ante la autoridad recaudadora correspondiente.
 
+> <small>(REFORMADO, D.O.F. 8 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 21.
 
-Se presentará el aviso de alta, aumento, disminución o baja de obligaciones fiscales a que se refiere la fracción III del artículo 14 de este Reglamento, en los siguientes supuestos:
+Se presentarán los avisos a que se refiere la fracción III del artículo 14 de este Reglamento, en los siguientes supuestos:
 
-I.- De alta, cuando se esté obligado a presentar declaraciones periódicas sin que antes se tuviera esta obligación. No será necesario presentar este aviso cuando esta situación coincida con la solicitud de inscripción en el registro federal de contribuyentes.
-
-II.- De aumento, cuando:
+I.- De aumento, cuando:
 
 a).- Se esté obligado a presentar declaraciones periódicas distintas de las que se venían presentando;
 
 b).- Se opte por pagar el impuesto sobre la renta conforme a bases especiales de tributación.
 
-III.- De disminución, cuando se deje de estar obligado a presentar alguna de las declaraciones periódicas que se venían presentando.
+II.- De disminución, cuando se deje de estar sujeto a cumplir con alguna o algunas obligaciones periódicas y se deba seguir presentando declaración por otros conceptos.
 
-IV.- De baja, cuando se deje de estar obligado a presentar todas las declaraciones periódicas que se venían presentando. No será necesario dar este aviso cuando se tengan que presentar los avisos de liquidación o sucesión o el de cancelación en el registro federal de contribuyentes a que se refieren las fracciones IV y V del artículo 14 de este Reglamento.
+III.- De suspensión, cuando el contribuyente interrumpa las actividades por las cuales está obligado a presentar declaraciones periódicas, siempre y cuando no deba cumplir con otras obligaciones fiscales de pago, por sí mismo o por cuenta de terceros. En este último caso, el aviso que deberá presentar es el establecido en la fracción anterior.
 
-El aviso de alta, aumento, disminución o baja de obligaciones fiscales deberá hacerse ante la autoridad recaudadora correspondiente dentro del mes siguiente al día en que se realicen las situaciones jurídicas o de hecho que los motiven,
+No será necesario dar este aviso, cuando se tengan que presentar los avisos de liquidación, sucesión o de cancelación a que se refieren las fracciones IV y V del artículo 14 de este Reglamento.
 
-Cuando la disminución o baja de obligaciones se origine debido a que ya no se tiene obligación de presentar la declaración anual que señala el Título IV de la Ley del Impuesto sobre la Renta, se presentará el aviso a que se refiere este artículo en vez de la declaración.
+Además deberá estarse a lo siguiente:
 
-Para los efectos de las fracciones II y III de este artículo, se considera que no hay aumento o disminución de obligaciones fiscales cuando se modifiquen los formularios en que deban presentarse las declaraciones o cuando por disposición legal se modifiquen los plazos para efectuar pagos.
+a).- Este aviso, durante su vigencia, libera al contribuyente de la obligación de presentar declaraciones periódicas, excepto cuando se trate de obligaciones pendientes.
+
+Si durante la suspensión de actividades el contribuyente realiza actos accidentales que generen el pago de contribuciones, se presentará la declaración respectiva conforme a la ley, por ese solo hecho.
+
+b).- Durante el período de suspensión de actividades, el contribuyente no queda relevado de dar los demás avisos previstos en este Reglamento.
+
+c).- Los Contribuyentes que reanuden actividades, no podrán presentar dentro del mismo ejercicio fiscal nuevo aviso de suspensión.
+
+d).- El aviso de suspensión a que se refiere esta disposición deberá presentarse ante la autoridad recaudadora correspondiente a más tardar en la fecha en que el contribuyente hubiere estado obligado a presentar declaración en caso de haber realizado actividades.
+
+IV.- De reanudación, cuando se vuelva a estar obligado a presentar alguna de las declaraciones periódicas, debiendo presentarse conjuntamente con la primera de éstas.
+
+El aviso de aumento o disminución de obligaciones fiscales deberá presentarse ante la autoridad recaudadora correspondiente, dentro del mes siguiente al día en que se realicen las situaciones jurídicas o de hecho que los motiven.
+
+Cuando la disminución de obligaciones se origine debido a que ya no se tiene obligación de presentar la declaración anual que señala el Título IV de la Ley del Impuesto sobre la Renta, se presentará el aviso a que se refiere este artículo.
+
+Para los efectos de las fracciones I y II de este artículo, se considera que no hay aumento o disminución de obligaciones fiscales cuando se modifiquen los formularios en que deban presentarse las declaraciones o cuando por disposición legal se modifiquen los plazos para efectuar pagos.
 
 ###### ARTICULO 22.
 
@@ -315,11 +341,15 @@ Cuando se adopte el sistema de registro manual o mecánico, el contribuyente deb
 
 Este artículo no libera a los contribuyentes de la obligación de llevar los libros que establezcan las leyes u otros reglamentos.
 
+> <small>(REFORMADO, D.O.F. 8 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 28.
 
-Los contribuyentes que adopten el sistema de registro manual, deberán llevar sus libros diario, mayor y los que estén obligados a llevar por otras disposiciones fiscales, debidamente encuadernados, empastados y foliados, debiendo presentarlos para su sellado ante la autoridad recaudadora correspondiente, previamente a su utilización. Cuando se terminen dichos libros, deberán presentarse conjuntamente con los nuevos, a efecto de que estos últimos sean también sellados.
+Los contribuyentes que adopten el sistema de registro manual, deberán llevar sus libros diario, mayor y los que estén obligados a llevar por otras disposiciones fiscales, debidamente encuadernados, empastados y foliados, debiendo presentar los dos primeros mencionados ante la autoridad recaudadora correspondiente para su sellado previamente a su utilización. Cuando se terminen dichos libros, diario y mayor, deberán presentarse conjuntamente con los nuevos, a efecto de que estos últimos sean también sellados.
 
-Cuando el contribuyente adopte los sistemas de registro mecánico o electrónico, las fojas que se destinen a formar los libros diario y o mayor, deberán encuadernarse, empastarse y foliarse consecutivamente; dicha encuadernación podrá hacerse dentro de los tres meses siguientes al cierre del ejercicio, presentándose los libros de referencia para su sellado y control de folios ante la autoridad recaudadora correspondiente a más tardar a la fecha en que deba presentarse la declaración del ejercicio del impuesto sobre la renta, debiendo contener dichos libros el nombre, domicilio fiscal y clave de registro federal de contribuyentes; tratándose del sistema de registro mecánico las fojas que se destinen a formar el libro diario deberán presentarse para su sellado previamente a su utilización.
+Los contribuyentes que conforme a las disposiciones fiscales lleven contabilidad simplificada, presentarán para su sellado ante la autoridad citada el libro de ingresos, egresos y de registro de inversiones y deducciones.
+
+Cuando el contribuyente adopte los sistemas de registro mecánico o electrónico, las fojas que se destinen a formar los libros diario y/o mayor, deberán encuadernarse, empastarse y foliarse consecutivamente; dicha encuadernación podrá hacerse dentro de los tres meses siguientes al cierre del ejercicio, presentándose los libros de referencia para su sellado y control de folios ante la autoridad recaudadora correspondiente a más tardar a la fecha en que deba presentarse la declaración del ejercicio del impuesto sobre la renta, debiendo contener dichos libros el nombre, domicilio fiscal y clave de registro federal de contribuyentes; tratándose del sistema de registro mecánico las fojas que se destinen a formar el libro diario deberán presentarse para su sellado previamente a su utilización.
 
 ###### ARTICULO 29.
 
@@ -483,9 +513,35 @@ Se considerará actividad preponderante aquella por la que la totalidad de ingre
 
 Cuando en los términos del artículo 32 del Código se presente una declaración complementaria, ésta deberá formularse llenando íntegramente la forma oficial, inclusive con los datos que no se modifican, señalando además que se trata de una declaración complementaria de la original e indicando la fecha y oficina en que ésta haya sido presentada.
 
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 1987)</small>
+
+###### ARTICULO 44
+
+BIS.- Las autoridades fiscales cancelarán de plano los requerimientos que hayan formulado a los contribuyentes o retenedores exigiendo la presentación de avisos o de declaraciones para el pago de contribuciones presuntamente omitidas, así como las multas que se hubiesen impuesto con motivo de dichas supuestas omisiones, con la sola exhibición por los interesados del documento que acredite que el aviso o la declaración fueron presentados.
+
+Si el documento respectivo se exhibe en el momento de la diligencia de notificación del requerimiento, el notificador ejecutor suspenderá la citada diligencia, tomará nota circunstanciada de dicho documento y dará cuenta al titular de la oficina requirente de la solicitud de cancelación. Dicho titular resolverá sobre la cancelación del requerimiento o de la multa, en su caso. Si el documento exhibido no fuere el idóneo, se repetirá la diligencia en la forma que proceda.
+
 ### CAPITULO III. De las Facultades de las Autoridades Fiscales
 
 #### SECCION PRIMERA. De los Dictámenes de Contadores Públicos
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 1987)</small>
+
+###### ARTICULO 44
+
+BIS-1.- Para efectos del artículo 33 del Código Fiscal de la Federación y con el objeto de que las acciones de simplificación adquieran el carácter de conducta administrativa permanente, la Secretaría de Hacienda y Crédito Público llevará a cabo un Programa de Prevención y Resolución de Asuntos del Contribuyente, consistente en la ejecución sistemática y permanente de acciones para:
+
+1.- Mantener consulta formal y sostenida con los organismos y asociaciones representativos de los contribuyentes.
+
+2.- Conocer los puntos de vista de los contribuyentes respecto de las cuestiones fiscales, para procurar claridad en el diseño e instrumentación de los procedimientos administrativos.
+
+3.- Investigar la operación de los procedimientos administrativos que originen problemas recurrentes, para sugerir las recomendaciones correctivas que correspondan.
+
+4.- Proporcionar a los contribuyentes apoyo directo en la resolución de los asuntos individuales y específicos que confronten en la realización de trámites administrativos ante las autoridades fiscales.
+
+5.- Coordinar las acciones internas de simplificación administrativa de la Subsecretaría de Ingresos.
+
+La ejecución del programa se encomendará a un Síndico que actuará bajo las reglas que dicte la Secretaría de Hacienda y Crédito Público sin interferir en las funciones de la autoridad fiscal.
 
 ###### ARTICULO 45.
 
@@ -938,3 +994,15 @@ Los contribuyentes que terminaron su ejercicio fiscal en el año de 1983, podrá
 Se abrogan, el Reglamento para el Cobro y Aplicación de Honorarios por Notificación de Créditos, el Reglamento del Artículo 85 del Código Fiscal de la Federación y el Reglamento del Registro Federal de Contribuyentes, publicados en el Diario Oficial de la Federación los días 31 de diciembre de 1973, 11 de abril de 1980 y 17 de junio de 1980, respectivamente.
 
 Dado en la residencia del Poder Ejecutivo Federal, a los veintiocho días del mes de febrero de mil novecientos ochenta y cuatro.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE JULIO DE 1987.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Las reformas a los artículos 14 y 21 del Reglamento del Código Fiscal de la Federación entrarán en vigor el día 1o. de septiembre de 1987, debiendo publicarse previamente el Acuerdo que dé a conocer el formulario para los avisos de suspensión o reanudación de actividades a que dichos preceptos se refieren.
