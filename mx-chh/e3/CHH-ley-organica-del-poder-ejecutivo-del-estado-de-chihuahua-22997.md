@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "1999-07-03"
+last_updated: "2002-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -116,6 +116,14 @@ El Gobernador del Estado contará, además, con las unidades de asesoría y de a
 ###### ARTICULO 7o.
 
 Las dependencias y entidades de la administración pública centralizada y paraestatal conducirán sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades de la planeación estatal del desarrollo, establezca el Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
+
+ARTICULO 7 BIS.- Los titulares de las dependencias y entidades de la Administración Pública Centralizada y Paraestatal, deberán proporcionar en forma oportuna y veraz, la información del ramo, relacionada con su función, que les solicite el Congreso del Estado, a través del Pleno o de sus comisiones y comités, que resulte necesaria para que puedan cumplir con sus atribuciones, en los términos de la Ley Orgánica del Poder Legislativo. Asimismo, facilitarán la información que les sea requerida por los diputados en lo particular, cuando el Congreso se encuentre en receso, de acuerdo a lo previsto por el artículo 65, fracción IV, de la Constitución Política del Estado
+
+El incumplimiento de esta obligación constituye una falta administrativa que acarreará las responsabilidades y sanciones que resulten conforme a los procedimientos previstos por la Ley de Responsabilidades de los Servidores Públicos, salvo en el caso de la excepción prevista en el siguiente párrafo.
+
+Cuando la dependencia a quien se requiera la información tenga alguna razón justificada para rehusarla, lo hará saber por escrito al solicitante, fundando y motivando su negativa.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1150,3 +1158,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Para el cumplimiento de las nuevas facultades conferidas mediante el presente decreto, se faculta el Ejecutivo para reorganizar la estructura orgánica de la Secretaría de Comunicaciones y Obras Públicas y redistribuir las partidas del Presupuesto de Egresos, sin excederse del monto total autorizado para el presente ejercicio.
+
+P.O. 22 DE MAYO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
