@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-atencion-integral-para-personas-con-discapacidad-en-1456
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-11"
-last_updated: "2002-01-30"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ATENCION INTEGRAL PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 11 de febrero de 1998.
 
@@ -77,19 +77,21 @@ Rehabilitación: Proceso orientado a permitir que una persona con discapacidad a
 
 Equiparación de oportunidades: Proceso mediante el cual, el nivel físico, la vivienda, el transporte, los servicios sociales y sanitarios, la capacitación y el empleo, la vida cultural y social, incluidas todas las instalaciones deportivas y de recreo se hacen accesibles para todos.
 
-Prevención: La adopción de medidas tendientes a impedir que se produzcan deficiencias físicas y mentales.
+(REFORMADO, P.O. 10 DE JULIO DE 2002)(F. DE E., P.O. 24 DE JULIO DE 2002)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+Prevención: la adopción de las medidas necesarias tendientes a impedir que se produzcan deficiencias físicas y mentales.
 
-Secretaría: A la dependencia de la administración central o descentralizada encargada de coordinar y dirigir la política de salud.
+(REFORMADO, P.O. 10 DE JULIO DE 2002)(F. DE E., P.O. 24 DE JULIO DE 2002)
+
+Dependencia u organismo: entidad de la Administración Pública Estatal encargada de llevar a cabo los asuntos relacionados con la misma.
 
 Organismo Coordinador: El Consejo Coordinador de Atención Integral para Personas con Discapacidad.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 4.
 
-La aplicación de esta Ley compete a la Secretaría, al Sistema para el desarrollo Integral de la Familia del Estado de Morelos y a los municipios dentro del ámbito de la competencia, con la participación del sector privado y social de la entidad.
+La aplicación de esta Ley compete a la dependencia de la Administración Pública Estatal encargada de los asuntos de esta materia.
 
 ## TITULO SEGUNDO. ORGANISMO COORDINADOR
 
@@ -127,11 +129,11 @@ ARTICULO 6 b.- (DEROGADO, P.O. 30 DE ENERO DE 2002)
 
 ### CAPITULO II. DE LAS ATRIBUCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 7.
 
-La Secretaría, además de las establecidas por la Ley Orgánica de la Administración Pública tendrán las siguientes atribuciones:
+La dependencia de la Administración Pública Estatal encargada en la materia, además de las establecidas por la Ley Orgánica de la Administración Pública, tendrá las siguientes atribuciones:
 
 I.- Impulsar las acciones necesarias para desarrollar los programas que se establezcan y lograr la atención integral y desarrollo de las personas con discapacidad;
 
@@ -197,9 +199,9 @@ VI.- Promover la participación del sector privado en la captación de recursos 
 
 VII.- Recibir, analizar y enviar a las instancias competentes las quejas y sugerencias de las personas con discapacidad en relación con la atención que reciban de las instituciones públicas;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2001)</small>
+(REFORMADA, P.O. 10 DE JULIO DE 2002)(F. DE E., P.O. 24 DE JULIO DE 2002)
 
-VIII.- Rendir ante la Secretaría los informes anuales y los que le sean requeridos en cuanto al desempeño de sus funciones, programas y metas alcanzadas;
+VIII.- Rendir ante la dependencia encargada de los asuntos, los informes anuales y los que le sean requeridos en cuanto al desempeño de sus funciones, programas y metas alcanzadas;
 
 IX.- Conocer el manejo del presupuesto que se destina anualmente a programas y acciones en el rubro de discapacidad, las cuotas de recuperación, además de los gastos erogados y del flujo de efectivo;
 
@@ -433,9 +435,11 @@ Para el cumplimiento de lo dispuesto en esta Ley relativa a las calcomanías, la
 
 Se concertará la disminución o excepción en el pago del servicio de transporte público, otorgado por las empresas de autotransporte local, estatal y foráneo a favor de las personas con discapacidad, con previa identificación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 41.
 
-El Ejecutivo del Estado a través de la Secretaría General de Gobierno, vigilará que en las instalaciones para la presentación de espectáculos públicos, tales como estadios, cines, teatros y otros o instalaciones provisionales, se reserven áreas preferentes y espacios adecuados para las personas con discapacidad, distinguiéndolos con el logotipo universal de las personas con discapacidad.
+El Ejecutivo del Estado a través de la Secretaría de Gobierno, vigilará que en las instalaciones para la presentación de espectáculos públicos, tales como estadios, cines teatros y otros o instalaciones provisionales, se reserven áreas preferentes y espacios adecuados para las personas con discapacidad, distinguiéndolos con el logotipo universal de las personas con discapacidad.
 
 Los estacionamientos tendrán zonas preferentes para los vehículos en los que viajen personas con discapacidad.
 
@@ -483,11 +487,11 @@ El Ejecutivo del Estado, otorgará estímulos y el reconocimiento al mérito ciu
 
 ### CAPITULO I. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 50.
 
-La inobservancia a los preceptos de esta Ley, su reglamento y disposiciones que de ella emanen, constituyen infracción y serán sancionadas administrativamente a petición de parte o de oficio, por la Secretaría.
+La inobservancia a los preceptos de esta Ley, su reglamento y disposiciones que de ella emanen, constituyen infracción y serán sancionadas administrativamente a petición de parte o de oficio, por la dependencia encargada de estos asuntos.
 
 ###### ARTICULO 51.
 
@@ -541,53 +545,31 @@ En el caso de que la transgresión pueda constituir un delito, los hechos se har
 
 ### CAPITULO II. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 56.
 
-Contra las resoluciones de las autoridades en que se impongan las sanciones contenidas en esta Ley, procederá el recurso de inconformidad, que se interpondrá dentro de los quince días hábiles siguientes a la fecha de su notificación.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+Contra las resoluciones de las autoridades en que se impongan las sanciones contenidas en esta Ley, procederá el recurso de impugnación, en los términos previstos en la Ley de Procedimiento Administrativo para el Estado de Morelos.
 
 ###### ARTICULO 57.
 
-El recurso de inconformidad se interpondrá por escrito ante el titular de la Secretaría.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### ARTICULO 58.
 
-En el escrito en el que se interponga el recurso se señalará:
-
-I.- El nombre y domicilio del recurrente y, en su caso, el de la persona que promueva en su nombre y representación, acreditando debidamente la personalidad con que comparece si ésta no se tenía justificada ante la autoridad que conozca del asunto;
-
-II.- La fecha en que bajo protesta de decir verdad, manifieste el recurrente que tuvo conocimiento de la resolución recurrida;
-
-III.- El acto o resolución que se impugna;
-
-IV.- Los agravios que, a juicio del recurrente le cause la resolución o el acto impugnado;
-
-V.- La mención de la autoridad que haya dictado la resolución u ordenado o ejecutado el acto;
-
-VI.- Las pruebas que el recurrente ofrezca en relación con el acto o la resolución impugnada, acompañando los documentos que se relacionen con éste, no podrá ofrecerse como prueba la confesión de la autoridad; y,
-
-VII.- La solicitud de suspensión del acto o resolución impugnada.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### ARTICULO 59.
 
-Al recibir el recurso, la autoridad del conocimiento verificará si éste fue interpuesto en tiempo, admitiéndolo a trámite o rechazándolo, para el caso de que lo admita, decretará la suspensión si fuese procedente y desahogará las pruebas que procedan en un plazo que no exceda de quince días hábiles contados a partir de la notificación del proveído de admisión.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### ARTICULO 60.
 
-La ejecución de la resolución impugnada se podrá suspender cuando se cumplan los siguientes requisitos:
-
-I.- Lo solicite el interesado;
-
-II.- No se pueda seguir perjuicio al interés general;
-
-III.- No se trate de infractores reincidentes; y,
-
-IV.- Que de ejecutarse la resolución, pueda causar daños de difícil reparación para el recurrente.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ###### ARTICULO 61.
 
-Transcurrido el término para el desahogo de las pruebas, si las hubiere; se dictará resolución en la que se confirme, modifique o revoque la resolución recurrida o el acto combatido. Dicha resolución se notificará al interesado, personalmente o por correo certificado.
+(DEROGADO, P.O. 10 DE JULIO DE 2002)
 
 ## TRANSITORIOS
 
@@ -666,3 +648,9 @@ Artículo Cuarto.- A partir de la iniciación de la vigencia del presente Decret
 P.O. 30 DE ENERO DE 2002.
 
 Artículo Único.- Aprobado que sea el presente Decreto por el Pleno túrnese al Ejecutivo para su publicación e iniciación de vigencia en el Periódico Oficial del Estado denominado "Tierra y Libertad" Órgano de difusión del Estado.
+
+P.O. 10 DE JULIO DE 2002.
+
+Primero.- Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
