@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1998-01-07"
+last_updated: "1999-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -819,625 +819,313 @@ Cuando en esta Ley se tomen como base para el pago de los créditos a cargo de l
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
 ### CAPITULO PRIMERO. DEL IMPUESTO PREDIAL
+
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
 #### SECCION PRIMERA. OBJETO DEL IMPUESTO
 
 ###### ARTICULO 166.
 
-Es objeto del impuesto predial:
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
-I.- La propiedad de predios urbanos y rústicos;
-
-II.- La posesión de predios urbanos y rústicos;
-
-a).- Cuando no exista propietario;
-
-b).- Cuando se derive de contratos de promesa de venta, de venta con reserva de dominio y de promesa de venta o venta de certificados de participación inmobiliaria, de vivienda, de simple uso de cualquier otro título similar que autorice la ocupación material del inmueble y que origine algún derecho posesorio, aún cuando los mencionados contratos, certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso;
-
-c).- Cuando exista desmembración de la propiedad de manera que una persona tenga la nuda propiedad y otra el usufructo;
-
-III.- La posesión de predios que por cualquier título concedan la Federación, los Estados o Municipios;
-
-IV.- La propiedad ejidal y comuncal (sic);
-
-V.- La propiedad de plantas de beneficio y establecimientos metalúrgicos;
-
-VI.- La propiedad o posesión de predios comprendidos en la extensión territorial del Estado de Morelos cualquiera que sea su uso o destino.
-
-Para efectos de este impuesto los predios denominados suburbanos se equiparan a los urbanos.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
 #### SECCION SEGUNDA. SUJETO DEL IMPUESTO
 
 ###### ARTICULO 167.
 
-Son sujetos del impuesto:
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-I.- Los propietarios o poseedores de predios a que se refieren las Fracciones I, II, III, V y VI del Artículo anterior;
-
-II.- Los fideicomitentes mientras sean poseedores del predio, aún cuando todavía no se les transmita la propiedad, o los terceros adquirentes por cualquier acto derivado de un fideicomiso; y
-
-III.- Los ejidatarios y los comuneros.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 168.
 
-Son responsables solidarios en el pago del impuesto:
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
-I.- Los adquirentes, por cualquier título, de predios a que aluden las Fracciones I, II y III, del Artículo 166;
-
-II.- Los propietarios de predios que hubiesen prometido en venta o hubieran vendido con reserva de dominio bajo cualquier modalidad con que se denomine, en el caso a que se refiere el inciso b) de la Fracción II del Artículo 166;
-
-III.- Los núcleos de población ejidal, comunal y los ejidatarios, los integrantes de Colonias agrícolas y pecuarias y sociedades de crédito agrícolas y pecuarias, en lo que respecta a los terrenos que posean mancomunadamente; y
-
-IV.- Los empleados de la Secretaría de Finanzas del Estado que expidan certificados de no adeudo del impuesto predial;
-
-V.- Los que industrialicen o procesen productos del campo.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
 #### SECCION TERCERA. BASE Y TASAS
 
 ###### ARTICULO 169.
 
-La base del impuesto es el valor catastral de los predios objeto del mismo.
-
-Cuando el avalúo catastral resulte inferior al avalúo bancario o al precio de enajenación, servirá de valor catastral del predio el que resulte más alto entre estos tres.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 170.
 
-El impuesto se causará anualmente conforme a la siguiente:
-
-TARIFA
-
-I.- PREDIOS URBANOS.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
-
-A).- Sobre los primeros N$ 50,000.00 del valor catastral 2 al millar
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
-
-B).- Sobre el excedente 3 al millar
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
-
-Cuando se trate viviendas nuevas de interés social o popular, ya sea para usos propios o de terceros, el impuesto que resulte de aplicar las tasas a que aluden los incisos A y B que preceden, se multiplicará por 0.80. En estos casos el contribuyente deberá exhibir ante la autoridad fiscal respectiva, el permiso de ocupación expedido por la autoridad municipal competente.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
-
-Para los efectos del párrafo anterior, se entiende por vivienda de interés social aquélla cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por 15 el salario mínimo general elevado al año, vigente en el área geográfica del Estado de Morelos. Por vivienda popular, aquélla cuyo valor, al término de su construcción, no rebase la cantidad que resulte de multiplicar por 25 el salario mínimo general elevado al año, vigente en el área geográfica del Estado de Morelos.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
-
-II.- Predios rústicos 2 al millar
-
-Los contribuyentes de este impuesto respecto a predios urbanos deberán pagar una cuota mínima anual hasta del 1.00% del salario mínimo anual vigente y por predios rústicos una cuota mínima anual hasta del 0.6% del salario mínimo anual vigente, aún cuando como consecuencia de alguna exención o aplicación de esta tarifa deban cubrir una cantidad menor.
-
-Tratándose de predios rústicos, sólo deberá incluirse la propiedad o posesión de los terrenos y de las construcciones permanentes que no sean utilizadas directamente por propio destino en fines agrícolas, ganaderos o forestales para cuyos casos se estará a lo dispuesto en otros artículos de este ordenamiento así como a la Ley Federal de la Reforma Agraria.
-
-Los predios ubicados en zonas no catastradas serán objeto de avalúo por parte de la administración o recaudación de rentas que corresponda, el cual será provisional, sujeto a ratificación o rectificación de la Dirección General de Catastro del Estado. El contribuyente podrá inconformarse contra dicho avalúo, en un plazo que no excederá de diez días naturales posteriores a su notificación. Para el caso de que no se interponga el recurso de inconformidad o no se rectifique, el avalúo será definitivo.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
-
-Estos avalúos se denominan administrativos y entrarán en vigor desde el momento de su notificación respectiva.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 171.
 
-Cuando se trate de predios ejidales o comunales se observará estrictamente el régimen fiscal que establece la Ley Federal de la Reforma Agraria, en sus artículos del 106 al 108 inclusive, en consecuencia.
-
-I.- De acuerdo con la Fracción III del Artículo 106 de la Ley antes citada, se causará el impuesto predial sobre las mismas bases y con las mismas tasas señaladas para el impuesto predial rústico; pero la cuota asignada no podrá exceder del 5% de la producción anual, valorizada ésta según los precios rurales. Además se tendrá presente que, de acuerdo con la fracción IV del mismo artículo mientras sea operante una posesión provisional sólo se pagará en el primer año, el 25% del impuesto predial correspondiente, y en lo subsecuente se aumentará con un 10% cada año, hasta alcanzar la cuota total o hasta que se ejecute la resolución presidencial, a partir de lo cual, se pagará la cuota integra que corresponde.
-
-II.- De acuerdo con la Fracción VI del mismo Artículo 106, el impuesto predial deben enterarlo los Comisariados Ejidales quienes quedan facultados para cobrar a los ejidatarios las cuotas que le (sic) corresponde; en la inteligencia de que, a los que no les paguen, de acuerdo con la fracción VII del Artículo citado, le será aplicable el procedimiento económico-coactivo sobre las cosechas que le pertenezcan individualmente, pero únicamente hasta por el 25% de la producción anual de sus parcelas.
-
-III.- De acuerdo con la fracción V del mismo artículo 106, se tendrá en cuenta que la responsabilidad fiscal por las tierras de uso común corresponde al núcleo de población y obliga a todos los ejidatarios.
-
-IV.- Las anteriores limitaciones no son aplicables a la zona o porciones de los ejidos y terrenos comunales, sustraídos al uso y explotación que le son propios. Cuando en forma ilegal constituyenz onas (sic) urbanas, urbanizadas o litificadas (sic) para usos urbanos, será aplicable a cada predio el impuesto predial urbano, suburbano que le corresponda de acuerdo con el artículo 170 de esta Ley, a efecto de lograr la regularización de estas anómalas situaciones, en beneficio de los propios ocupantes de esos predios y del fisco, en estos casos el impuesto predial y sanciones aplicables se exigirá al poseedor o detentador de cada predio y la acción fiscal se ejercerá en su contra, con embargo de bienes muebles o inmuebles de su propiedad.
-
-V.- Las Empresas industriales azucareras retendrán a cuenta del impuesto predial causado en relación con los predios destinados al cultivo de la caña en la zona de abastecimiento respectivo, $ 0.50 por tonelada en caña recibida; entregando al causante un recibo de la cantidad retenida, cuyo importe será aplicado al pago del impuesto predial.
-
-La obligación de retención del impuesto predial en los términos del artículo 168 fracción V, corresponde a todas las Empresas establecidas en el Estado que industrialicen productos agrícolas, ganaderos en el mismo, tales como arroz, cacahuate, jitomate, cebolla, etc.
-
-El Ejecutivo del Estado por conducto del Secretario de Finanzas fijará mediante decreto reglamentario, la unidad de producción y la cuantía de la retención aplicable a dicha unidad.
-
-Las Empresas retenedoras entregarán a los contribuyentes los recibos de las retenciones efectuadas que servirán a éstos de comprobantes para la bonificación de las cantidades retenidas al efectuar el pago del impuesto predial.
-
-Las Empresas retenedoras deberán hacer el pago de las cantidades retenidas ante la Secretaría de Finanzas, dentro de los 15 días siguientes, a aquel en que hayan efectuado la retención.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 172.
 
-Cuando se trate de predios bajo el régimen de condominios dentro del valor catastral se incluirán las áreas comunes.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
 DE LAS EXENCIONES
 
 ###### ARTICULO 173.
 
-Sólo estarán exentos los bienes del dominio público de la Federación, del Estado y de los Municipios de acuerdo a lo dispuesto por el Artículo 115 de la Constitución Política del Estado Libre y Soberano del Morelos.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 174.
 
-En los casos de contribuyentes que gocen de subsidios o exenciones otorgados con anterioridad a la vigencia de esta Ley, y siempre y cuando en el acuerdo de referencia correspondiente, se hubiese cumplido estrictamente con las disposiciones legales que le dieron lugar y de que el plazo concedido en la franquicia permanezca vigente será aplicable la exención o subsidio concedidos.
-
-Procede la cancelación de todo acuerdo que no se ajuste a disposición legal, inclusive aquellos otorgados al amparo de la vigencia de los artículos 174 y 174 Bis de la anterior Ley de Hacienda del Estado, ya derogada.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 175.
 
-Respecto a predios no edificados o no bardeados el impuesto que corresponda será aumentado con el 25% desde el bimestre siguiente a contar de un año de la fecha de su adquisición.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
-En el caso de fraccionamientos será aplicable el aumento a que se refiere el párrafo anterior, aún cuando los lotes no hubieren sido objeto de contrato que transmita su propiedad o permita su posesión, desde el bimestre siguiente de la fecha en que se cumpla un año de la autorización del fraccionamiento, salvo que mediante acuerdo expreso y por escrito ante autoridad competente se garantice a satisfacción los servicios de limpia y recolección de basura, inclusive la que se encuentre dentro de los lotes por vender.
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
 #### SECCION CUARTA. DEFINICIONES
 
 ###### ARTICULO 176.
 
-Para los efectos del impuesto predial se considerará:
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
-I.- PREDIO:
-
-a).- La porción o porciones de terrenos incluyendo en su caso sus construcciones, que pertenezcan a un mismo propietario p a (sic) varios en copropiedad cualquiera que sea la figura jurídica con que se le designe y cuyos linderos con propiedades ajenas formen un perímetro sin solución de continuidad.
-
-Cuando por cualquier causa, construcciones permanentes dividan un predio en forma tal que parte o partes de su área queden desvinculadas de los otros, esa parte o partes se considerarán como predios distintos y, por tanto, serán empadronados por separado y en igual forma se expedirán los recibos de pago del impuesto, siempre y cuando se cumpla con los preceptos de la Ley de Fraccionamientos, condominios y conjuntos habitacionales del Estado de Morelos, así como los preceptos aplicables de esta Ley de Hacienda.
-
-Cuando en un predio ajeno se levanten construcciones permanentes, se considerará para los efectos fiscales, que tales construcciones son del dueño del suelo; y
-
-b).- Los lotes en que se hubiere fraccionado un terreno.
-
-II.- Predio no edificado:
-
-a).- El que no tenga construcciones;
-
-b).- El que tenga construcciones provisionales;
-
-c).- El que tenga construcciones en ruinas; y
-
-d).- El que tenga como edificación únicamente los muros que circunden los predios que colinden con la vía pública.
-
-III.- Predio edificado, el que tenga construcciones permanentes;
-
-IV.- Predio urbano, el ubicado dentro del perímetro que la Secretaría de Finanzas del Estado la autoridad municipal y la Secretaría de Desarrollo Urbano y Ecología determinan como zona urbana;
-
-V.- Predio rústico, el ubicado fuera del perímetro que las autoridades indicadas en la Fracción anterior determinen como zona urbana;
-
-VI.- Construcción permanente, aquella que esté adherida a un predio de manera fija, en condiciones tales que no pueda separarse del suelo sin deterioro de la propia edificación o de los objetos unidos a ella, y que consten de cimientos, muros y techos;
-
-VII.- Construcción provisional, la que por su tipo de construcción, según la época en que hubiere sido realizada revele su aprovechamiento transitorio y tenga una productividad económica notoriamente inferior a la que corresponda al valor del terreno. En los casos dudosos, la Secretaría de Finanzas determinará si las construcciones son o no provisionales;
-
-VIII.- Construcciones en ruinas, las que por su deterioro físico o por sus malas condiciones de estabilidad, no permitan su uso en forma alguna. En los casos dudosos resolverá la Secretaría de Finanzas del Estado;
-
-IX.- Valor catastral, el que fija a cada predio la Dirección General de Catastro en el Estado, el cual deberá aproximarse lo más posible al valor comercial que tenga el predio en la fecha de su avalúo;
-
-X.- Renta, el precio de arrendamiento de los predios o el que estime el sujeto del impuesto o valúe la Dirección General de Catastro en el Estado;
-
-XI.- Catastro, los registros o padrones fiscales de la propiedad raíz en que se contengan los planos generales y parciales relativos a esa propiedad y los datos particulares de cada predio, como ubicación, linderos, colindancias, superficie, forma del polígono, valor catastral, número de cuenta, nombre del actual propietario y de los anteriores, destino y otros relacionados con los predios;
-
-XII.- Jardín la superficie de terreno cubierto por plantas de ornato, o zona arbolada, ó área verde;
-
-XIII.- Vía pública, las superficies de terreno ocupadas por calles, avenidas, calzadas, callejones, cerradas, privadas y sus confluencias o cruceros; y
-
-XIV.- Manzana, la superficie de terreno delimitado por la vía pública.
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
 #### SECCION QUINTA. VALOR CATASTRAL
 
 ###### ARTICULO 177.
 
-El valor catastral, será determinado por la Dirección General de Catastro en el Estado, el cual podrá ser provisional o definitivo.
-
-Todos los predios del Estado, aún los que estén beneficiados por exenciones en los términos de los Artículos 173 y 174 de esta Ley deberán ser objeto del avalúo.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 178.
 
-Se considera que el valor catastral es provisional;
-
-I.- Cuando existan predios o construcciones no registrados;
-
-II.- Cuando se divida un predio;
-
-III.- Cuando fusionen dos o más predios; y
-
-IV.- Cuando los predios deriven de fraccionamiento o subdivis ones (sic) no autorizadas;
-
-V.- Cuando los predios se encuentren en zonas no catastradas.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 179.
 
-Tratándose de predios o construcciones no registrados, la Dirección General de Catastro en el Estado determinará el valor provisional tomando en cuenta los valores aprobados por la (sic) regiones catastrales con las que presenten mayor similitud.
-
-Este valor surtirá efectos a partir de la fecha de su registro salvo que por causa imputable al sujeto el predio no se encuentre registrado, caso en el cual el valor catastral provisional surtirá sus efectos desde la fecha en que debió de haberse efectuado dicho registro, sin exceder de cinco años, siguiendo las disposiciones contenidas por los Artículos 40 y 41 de esta Ley.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 180.
 
-Mientras se practica la valuación correspondiente a cada porción del predio dividido, previamente autorizado en la división, se tendrá provisionalmente como valor catastral para cada una de esas porciones su precio de adquisición. Si el propietario del predio dividido conserva una, varias o todas las porciones del mismo predio, provisionalmente se tendrá como valor catastral de ellas el que manifieste para cada una de esas porciones.
-
-Este valor surtirá sus efectos a partir del bimestre siguiente a la autorización de la división del predio.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 181.
 
-En caso de fusión de dos o más predios en uno solo el valor catastral provisional será la suma de los predios catastrales fusionados, previamente autorizados en la fusión.
-
-La nueva cuota del impuesto entrará en vigor a partir del bimestre siguiente a la fecha de autorización de la fusión.
-
-La Secretaría de Finanzas del Estado, empadronará como uno solo, predios fusionados ordenará la expedición del recibo de pago correspondiente a ese empadronamiento.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 182.
 
-Si la fusión comprende parte de predios mientras se practica la valuación correspondiente a esta, se tendrá provisionalmente como base gravable, por lo que a ella se refiere, el valor catastral de las superficies fusionadas o en caso de enajenación el precio de adquisición.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 183.
 
-El valor catastral será definitivo cuando se efectúe el avalúo de los predios por la Dirección General de Catastro en el Estado.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 184.
 
-Tratándose de predios derivados de fraccionamientos no autorizados por la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales, se asignará como valor catastral provisional el precio de venta por metro cuadrado, multiplicado por la superficie total de las áreas vendibles del fraccionamiento.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 185.
 
-El valor catastral definitivo de los predios deberá actualizarse, en los siguientes casos:
-
-I.- Cuando el avalúo del predio tenga una antigüedad de más de dos años;
-
-II.- Cuando en el predio se hagan construcciones, reconstrucciones o ampliaciones de las construcciones ya existentes;
-
-III.- Cuando la totalidad del predio o parte del predio sea objeto de traslado de dominio en cuyo caso se formulará avalúo a la presentación del aviso correspondiente para los efectos de la fracción II, del artículo 237;
-
-IV.- Cuando el predio aumente de valor con motivo de algún fraccionamiento próximo que se lleve a cabo, así como la apertura o ampliación de calles, la construcción de jardines o edificios públicos, aunque el avalúo vigente tenga una antigüedad de menos de dos años;
-
-V.- Cuando se realicen obras o mejoras determinantes en la situación de productividad del predio, tales como obras de irrigación, nuevas vías de comunicación que faciliten el transporte de los productos o los centros de consumo; y
-
-VI.- Cuando se presente cualquiera otra causa de aumento extraordinario de valor.
-
-Los avalúos comprenderán tanto el terreno como las construcciones permanentes existentes en él.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 186.
 
-La valuación catastral se hará separadamente para el terreno y para las construcciones permanentes.
-
-La suma de los valores resultantes será el valor catastral del predio, como lo establece la Fracción IX del artículo 176.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 187.
 
-Para la mejor valorización de los predios en particular, la Dirección General de Catastro en el Estado, tendrá además las siguientes facultades:
-
-I.- Revisar y confrontar las declaraciones presentadas por los contribuyentes con los datos que obren en su poder;
-
-II.- Calificar las declaraciones y exigir a los interesados que las aclaren, comprueben o ratifiquen cuando sea necesario;
-
-III.- Efectuar inspecciones oculares.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 188.
 
-Hecho el avalúo de los predios, la Secretaría de Finanzas del Estado determinará la cuota anual con base en las disposiciones de esta Ley y la porción bimestral que deba cubrir cada causante, a quien se hará la notificación correspondiente. La cuota así determinada se pagará a partir del bimestre siguiente a la fecha de la notificación al causante, excepto en los casos en que esta Ley disponga otra cosa.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 189.
 
-La cuota del impuesto entrará en vigor a partir del día siguiente a la fecha en que ocurrió el hecho o circunstancia que dio lugar a la práctica del avalúo conforme a las disposiciones de este capítulo.
-
-En los casos de revaluos (sic) a que se refiere el Artículo 185 de esta Ley, la cuota entrará en vigor a partir del bimestre siguiente a la fecha de la terminación de nuevas construcciones, reconstrucciones, y de ampliaciones de construcciones ya existentes, o a la de su ocupación en caso de que se aprovechen sin estar terminadas, o de la notificación del avalúo en los demás casos, salvo que de otra manera se disponga en esta Ley. En los casos de traslación de dominio, el reavalúo, cuando proceda entrará en vigor el bimestre siguiente a dicha traslación.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 190.
 
-La división de un predio deberá ser autorizada por la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales en los términos de la Ley respectiva y manifestada por el interesado a la Dirección General de Catastro en el Estado de Morelos.
-
-La cuota definitiva del impuesto predial que resulte en la valuación catastral de las porciones de un predio dividido, entrará en vigor a partir del bimestre siguiente a la fecha de la división del predio, de la autorización preventiva de la escritura pública o de la fecha del contrato privado traslativo de dominio, o promesa de venta, en su caso, en que se hubiera hecho constar el acto o contrato que motive la división. Por tanto, se cobrarán o devolverán las diferencias que resulten entre la cuota provisional y la definitiva.
-
-La Secretaría de Finanzas del Estado y la Dirección General de Catastro empadronará cada uno de los predios que hubieren resultado de la división de otro y ordenará la expedición de los recibos de pago correspondientes a cada empadronamiento.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 191.
 
-La fusión de dos o más predios en uno solo que deberá ser autorizado previamente por la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales, será manifestada a la Secretaría de Finanzas y la Dirección General de Catastro por el adquirente o propietario dentro de los quince días siguientes al otorgamiento de la autorización.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 192.
 
-La terminación de nuevas construcciones permanentes de reconstrucciones y de ampliaciones de construcciones permanentes ya existentes, deberán ser manifestadas por sus propietarios a la Secretaría de Finanzas del Estado y a la Dirección General de Catastro dentro de los quince días hábiles siguientes a la fecha de la terminación de las obras o a la fecha en que sean ocupadas por sus propietarios o por terceros, sin estar todavía terminadas.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 193.
 
-La Secretaría de Finanzas del Estado, por conducto de la Dirección General de Catastro ordenará la valuación catastral de la totalidad del predio como lo ordena el Artículo 185 de esta Ley. En los casos de traslación de dominio, de terminación de nuevas construcciones permanentes o de reconstrucciones tratándose de ampliaciones de reconstrucciones permanentes que no excedan del 20% de la superficie total construida, únicamente se valuarán las ampliaciones, sumándose éste avalúo catastral al de las construcciones ya existentes. En ambos casos se aplicarán los valores aprobados en la fecha de la traslación de dominio, de terminación de las obras de su ocupación sin estar terminadas.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 194.
 
-Las valuaciones catastrales se harán con arreglo a las disposiciones de éste capítulo y a los instructivos que la Secretaría de Finanzas del Estado por conducto de la Dirección General de Catastro expida al efecto. La Secretaría de Finanzas del Estado cuando así proceda y por conducto de la Dirección General de Catastro ordenará por escrito las valuaciones catastrales que se practicarán por peritos valuadores y que se identificarán con credencial oficial.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 195.
 
-Los valuadores deberán presentarse en hora y días hábiles en el predio que deba ser objeto de la valuación y mostrará a los ocupantes tanto la orden para la valuación como su credencial.
-
-Si los ocupantes se opusieren en cualquier forma a la valuación, el valuador informará a la autoridad superior a efecto de que se requiera por escrito a los ocupantes para que permitan la práctica de la valuación.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 196.
 
-Si no obstante el requerimiento a que se refiere el artículo anterior los ocupantes del predio no permitiesen la valuación, ésta se hará de todas maneras con base en los elementos de que disponga y sin perjuicio de imponer al infractor las sanciones correspondientes.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 197.
 
-Los valuadores formularán los avalúos catastrales en las formas que apruebe la Secretaría de Finanzas del Estado.
-
-Un extracto del avalúo y la liquidación del impuesto se notificará a los interesados.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 198.
 
-Cuando por cualquier razón las construcciones permanentes de un predio deban ser desocupadas o demolidas por resolución de la autoridad competente, para determinar la cuota del impuesto se seguirán las reglas siguientes:
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
-I.- Si se ordena la desocupación total:
-
-a).- Se cambiará la base vigente en la fecha en que se hubiere ordenado la desocupación, para lo cual se deducirá de dicha base el valor de las construcciones;
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-b).- Para que se efectúe el cambio de la base gravable conforme al inciso anterior, el sujeto del impuesto deberá presentar a la Secretaría de Finanzas del Estado o a la Dirección General de Catastro una solicitud por escrito a la que deberá acompañarse una copia de la orden dada por la autoridad para la desocupación total del edificio. Dicha solicitud se presentará dentro de los quince días hábiles siguientes a la fecha de la desocupación;
-
-c).- La nueva cuota del impuesto predial entrará en vigor a partir del bimestre siguiente a la fecha de la desocupación del inmueble y continuará vigente por todo el tiempo que el edificio se encuentre totalmente desocupado por orden de dicha dependencia;
-
-d).- Una vez que la autoridad competente haya autorizado que vuelva a ocuparse el edificio se volverá a poner en vigor la base gravable vigente en la fecha en que se ordenó la desocupación, siempre que no hayan ejecutado nuevas construcciones o reconstrucciones de construcciones ya existentes, pues en ese caso se procederá en los términos del inciso siguiente;
-
-e).- En los casos en que la autoridad ordene la demolición total del edificio y se lleve a cabo la edificación de nuevas construcciones permanentes, los sujetos del impuesto estarán obligados a presentar la manifestación que señala el artículo 192, fijándose la nueva cuota del gravamen de acuerdo con lo dispuesto en el artículo 194.
-
-II.- Si se ordena la desocupación parcial:
-
-a).- El impuesto se causará sobre el último valor catastral del terreno, vigente en la fecha en que la autoridad hubiese ordenado la desocupación parcial, más el valor que la autoridad competente asigne a las construcciones aprovechables y respecto de las cuales no se hubiera ordenado su desocupación;
-
-b).- Para que se efectúe el cambio de la base gravable conforme al inciso anterior, el sujeto del impuesto deberá presentar a la Secretaría de Finanzas del Estado o a la Dirección General de Catastro una solicitud por escrito a la que deberá acompañar copia de la orden de la autoridad para la desocupación parcial del edificio;
-
-c).- La nueva cuota del impuesto predial entrará en vigor a partir del primer bimestre siguiente a la fecha de la desocupación del inmueble y continuará vigente por todo el tiempo que el edificio se encuentre parcialmente desocupado por orden de dicha dependencia;
-
-d).- Una vez que la autoridad competente haya autorizado que vuelva a ocuparse el edificio, se volverá a poner en vigor la base gravable vigente en la fecha en que se ordenó la desocupación, siempre que no se hayan ejecutado nuevas construcciones o reconstrucciones de construcciones ya existentes, pues en ese caso se procederá en los términos del inciso siguiente; y
-
-e).- En los casos en que la autoridad hubiere ordenado la demolición parcial del edificio posteriormente se hubiera llevado a cabo la edificación de una nueva construcción permanente, los sujetos del impuesto estarán obligados a presentar la manifestación que señala el artículo 192. La nueva base gravable se obtendrá sumando el valor catastral del terreno y las construcciones aprovechables que se hubiesen señalado conforme al inciso a) de esta fracción, el valor que se asigne a la nueva construcción de acuerdo con el Artículo 193.
-
-III.- Si el inmueble es demolido voluntariamente por su propietario, se procederá en los siguientes términos:
-
-a).- Cuando la demolición sea total, el impuesto se causará exclusivamente sobre el valor del terrero según avalúo catastral que practique desde luego la autoridad fiscal. Si la demolición es parcial, al valor del terreno se agregará el que asigne la propia autoridad a lo que quede de la consturcción (sic); y
-
-b).- La nueva cuota del impuesto predial entrará en vigor a partir del bimestre siguiente a la fecha en que se hubiere terminado (sic) demolición.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-Para los efectos de este artículo el propietario del predio estará obligado a dar aviso de la demolición a la Secretaria de Finanzas del Estado o a la Dirección General de Catastro, dentro de los quince días hábiles siguientes a la demolición.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
 #### SECCION SEXTA. FRACCIONAMIENTOS
 
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
 ###### ARTICULO 199.
 
-La Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado, deberá enviar a la Dirección General de Catastro, copias de las solicitudes para fraccionar terrenos que le sean formuladas por personas físicas o morales, dentro de los diez días hábiles siguientes a su recepción, a fin de que proceda al deslinde catastral correspondiente, previo el pago de los derechos correspondientes, así como para que estas comuniquen a aquéllas las observaciones u objeciones que considere pertinentes, dentro de un plazo que no excederá de un mes.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 200.
 
-Efectuado el deslinde catastral y una vez que la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales apruebe el plano del fraccionamiento, enviará copia del mismo a la Dirección General de Catastro.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 201.
 
-En el plano aprobado se deberán delimitar las superficies lotificadas, y las destinadas a calles, avenidas, plazas, parques, jardines, escuelas, mercados, así como las superficies que el fraccionador done al Estado de Morelos, o al Municipio del Estado, según corresponde para servicios públicos.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 202.
 
-Dentro de los quince días hábiles siguientes a aquél en que la Dirección General de Catastro reciba la documentación a que se refieren los artículos anteriores, señalará la clave catastral a cada uno de los lotes del terreno que constituyan el fraccionamiento.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 203.
 
-La Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales y el fraccionador deberán comunicar por escrito, a la Dirección General de Catastro, cualquier modificación que se autorice a los planos aprobados. Esta comunicación se hará dentro de los quince días hábiles siguientes a la fecha en que se hubieren autorizado las modificaciones y deberá acompañarse un ejemplar del plano en que estas aparezcan señaladas, para que la Dirección proceda en los términos de las disposiciones de este Capítulo.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 204.
 
-Una vez que el convenio para la autorización del fraccionamiento sea elevado a escritura pública, que el fraccionador pague los derechos correspondientes, otorgue las garantías estipuladas para la ejecución de las obras y cumpla con las demás obligaciones a su cargo establecidas en el convenio, la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado, autorizará, por escrito, la enajenación de los lotes correspondientes, debiendo enviar dentro de un plazo que no excederá de diez días hábiles, copia de dicho documento a la Dirección General de Catastro.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 205.
 
-La Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales, dará aviso a la Dirección General de Catastro y a la Secretaría de Finanzas de la terminación de las obras de urbanización del fraccionamiento de que se trate, dentro de los quince días hábiles siguientes.
-
-Recibido el aviso a que se refiere el párrafo anterior, la Secretaría de Finanzas del Estado y la Dirección General de Catastro, en cuanto a cada una competa, deberán:
-
-I.- Empadronar los lotes del fraccionamiento los cuales se considerarán como nuevos predios.
-
-II.- Valuar cada uno de los lotes del fraccionamiento.
-
-III.- Determinar el impuesto que corresponde a cada lote ordenado (sic) la expedición del recibo correspondiente al empadronamiento respectivo.
-
-En caso de que el avalúo de los lotes resulte inferior al precio de enajenación, servirá este de valor catastral para efectos del impuesto.
-
-El impuesto que corresponda a cada lote, entrará en vigor a partir del bimestre siguiente a la fecha en que sea practicado el avalúo provisional catastral o se celebre la enajenación, si el precio es mayor.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 206.
 
-Si previamente no se ha obtenido la autorización para enajenar los lotes, los fraccionadores no podrán celebrar contratos de venta, de promvesa (sic) de venta, de venta con reserva de dominio y de venta o promesa de venta de certificados de participación inmobiliaria, de vivienda, de simple uso de cualquier otro título similar que autorice la ocupación material de los lotes y que origine algún derecho posesorio, aún cuando los mencionados contratos, certificados o títulos se hayan celebrado o expedido con motivo de fideicomisos.
-
-Si a pesar de la prohibición establecida en este artículo se celebran dichas operaciones, los Notarios Públicos no autorizarán las escrituras correspondientes y el registro público de la propiedad no las inscribirá, consten o no, en escritura pública.
-
-Cuando el fraccionador lleve a cabo algunas de las operaciones que menciona el párrafo primero de este artículo, sin haber obtenido la autorización para enajenar los lotes del fraccionamiento, el giro del impuesto predial de todos y cada uno de ellos se hará a partir de la fecha de la primera operación en los términos de los artículos 178 fracción II y 179 de esta Ley.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 207.
 
-En todo caso, los fraccionadores de terrenos deberán manifestar a la Secretaría de Finanzas del Estado y a la Dirección General de Catastro, la celebración de cada una de las operaciones a que se refiere el artículo anterior, dentro de los quince días hábiles siguientes a la misma, acompañando copia del contrato o promesa.
-
-Si como consecuencia de dichos contratos o promesa el fraccionador da la posesión de los lotes a los adquirentes, la Secretaría de Finanzas del Estado y la Dirección General de Catastro empadronarán dichos lotes a nombre de los poseedores y ordenarán se expidan a su nombre los recibos de pago correspondientes.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 208.
 
-En los casos de fraccionamientos que se ejecuten total o parcialmente, sin la autorización de la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado, la Dirección General de Catastro, ordenará desde luego las valuaciones a que se refiere este Capítulo y la Secretaría de Finanzas del Estado, hará el recobro de los impuestos omitidos en los términos de esta Ley, sin perjuicio de aplicar a los infractores las sanciones que correspondan conforme a la Ley y Reglamento de fraccionamientos, condominios y conjuntos habitacionales del Estado de Morelos, procediendo de inmediato al embargo de los terrenos en garantía de los créditos y del adecuado cumplimiento de la introducción de servicios, prohibiendo la ejecución de obra alguna.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
 #### SECCION SEPTIMA. CATASTRO
 
 ###### ARTICULO 209.
 
-Todo predio ubicado en el Estado de Morelos, deberá estar inscrito en el Catastro, el cual se integrará con los siguientes padrones:
-
-I.- Gráfico, constituido por:
-
-a).- El plano general catastral del Estado de Morelos; y,
-
-b).- Los planos parciales catastrales del Estado de Morelos.
-
-II.- Numérico, que registrará:
-
-a).- El número de cuenta del predio;
-
-b).- El nombre del sujeto del impuesto;
-
-c).- La ubicación del predio;
-
-d).- El monto de la base gravable;
-
-e).- la cuota del impuesto, y
-
-f).- Los demás datos que se estimen necesarios.
-
-III.- Alfabético, que registrará:
-
-a).- El nombre del sujeto del impuesto;
-
-b).- La nacionalidad del sujeto del impuesto;
-
-c).- El domicilio del sujeto del impuesto;
-
-d).- El número de cuenta del predio, y,
-
-e).- Los demás datos que se estimen necesarios.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-IV.- De exenciones y subsidios que tendrá coordinadamente con la Dirección de Contribuciones del Estado y que registrará:
-
-a).- El número de cuenta del predio;
-
-b).- El nombre del sujeto del impuesto;
-
-c).- La ubicación del predio;
-
-d).- El fundamento legal de la exención;
-
-e).- La fecha de iniciación de la vigencia de la exención o subsidio y la fecha de su terminación o anulación en su caso, y
-
-f).- Los demás datos que se estimen necesarios.
-
-Los predios registrados en el Padrón de exenciones y subsidios también se registrarán en los otros Padrones.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 210.
 
-El Catastro del Estado de Morelos, se fundará en el levantamiento de planos generales y parciales del propio Estado y en la delimitación, medición y avalúo de los predios en particular.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 211.
 
-Los instructivos que al efecto se expidan determinarán la forma de construir el plano general catastral y todos los demás que sean necesarios.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 212.
 
-Los trabajos de deslinde y medición de predios, rectificación o aclaración de linderos podrán hacerse ante la presencia de los propietarios o poseedores del predio y de los propietarios o poseedores de los predios colindantes; pero estos no podrán intervenir en la ejecución de esos trabajos, pudiendo solamente hacer las observaciones que estimen convenientes.
-
-El resultado de dichos trabajos catastrales y, en su caso, las observaciones de los interesados, se harán constar en acta circunstanciada levantada por triplicado y que firmará el personal que hubiera intervenido en dichos trabajos, pudiendo firmar también, si lo consideran conveniente, el propietario o poseedor, en su caso, del predio deslindado y medido, y los propietarios o poseedores en su caso, de los predios colindantes. El original y una copia del acta se archivará en la Dirección General de Catastro y la otra copia se entregará al propietario o poseedor, en su caso del predio deslindado.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 213.
 
-En caso de desavenencia entre los propietarios o poseedores del predio y los propietarios o poseedores de los predios colindantes, se procurará un acuerdo entre ellos y si no se logra, la Secretaría de Finanzas del Estado, por conducto de la Dirección General de Catastro, fijará los límites para los fines fiscales, sin perjuicio de las acciones que correspondan a los afectados ante los tribunales competentes.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 214.
 
-Para cualquier otro supuesto en relación con la función del Catastro o con la Dirección General de Catastro, se estará a lo dispuesto por la Ley y Reglamento de Catastro.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
 #### SECCION OCTAVA. PAGO DEL IMPUESTO
 
 ###### ARTICULO 215.
 
-La cuota del impuesto predial es anual, de acuerdo con lo dispuesto en el Artículo 170, pero su importe se pagará bimestralmente, durante los meses de enero, marzo, mayo, julio, septiembre y noviembre. Sin embargo, el pago podrá hacerse por anualidad anticipada con una deducción que fijará la Secretaría de Finanzas. No obstante lo dispuesto en el primer párrafo de este artículo, el pago de la cuota mínima que señala el Artículo 170 se hará en una sola exhibición en el mes de enero de cada año y las cuotas de $1,501.00 a $2,500.00 se dividirán en dos exhibiciones que se deberán enterar durante los meses de enero y julio.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 216.
 
-La forma y lugar de pago del impuesto predial, se regirán por las disposiciones relativas del título segundo del libro primero de esta Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 1998)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 217.
 
-De conformidad con lo dispuesto en los artículos 167 y 168, la Secretaría de Hacienda, tendrá acción para el cobro del impuesto predial y de las prestaciones accesorias a éste, conforme a lo establecido en los convenios que al efecto suscriba con los ayuntamientos.
-
-En consecuencia, el procedimiento de ejecución fiscal que establece el Libro Primero de esta Ley, afectará a los predios directamente cualquiera que sea el propietario o poseedor.
-
-> <small>(F. DE E., P.O. 28 DE MARZO DE 1984)</small>
-
-No quedan comprendidas en esta disposición las multas que se impongan por la Comisión de infracciones al presente Capítulo, pues dichas sanciones se consideran personales para todos los efectos legales.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 218.
 
-Se prohíbe a los Notarios Públicos autorizar, en forma definitiva, escrituras en que hagan constar contratos o resoluciones judiciales o administrativas, cuyo objeto sea predios ubicados en el Estado de Morelos, mientras no les sea exhibido certificado de no adeudo del impuesto predial, respecto de dichos predios, expedido por la Secretaría de Finanzas del Estado, así como el recibo oficial del pago del predial al bimestre en que se efectúa la escritura.
-
-Sin embargo, si por causas no imputables al enajenante, la propia Secretaría de Finanzas no hubiese empadronado el predio comprendido el terreno y las construcciones, en su caso, el Secretario de Finanzas podrá facultar por escrito a los Notarios para que otorguen dicha autorización definitiva, sin que les sea exhibido el certificado de no adeudo a que se refiere este Artículo. Si el terreno estuviera empadronado, pero no las construcciones por causas imputables a la Secretaría, o a la Dirección General de Catastro, los Notarios Públicos no podrán autorizar en forma definitiva las escrituras respectivas mientras no quede regularizado el padrón correspondiente y cubiertos correctamente los impuestos respectivos, hecho lo cual, pedirán les sea exhibido nuevos certificados de no adeudo y recibo de contribucione (sic) actualizado en sus pagos.
-
-Lo dispuesto en este artículo sólo surtirá efectos en relación con el impuesto predial.
-
-No obstante esto, los Notarios no otorgarán autorizaciones definitivas de escrituras, cuando el predio de que se trate reporte adeudos por conceptos distintos del impuesto predial, pues entonces, se aplicará la disposición relativa del artículo de esta Ley.
-
-Los certificados de no adeudo y las autorizaciones que se expidan a los Notarios tendrán vigencia en el bimestre en que hubiesen sido expedidos.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 219.
 
-En los casos de predios no empadronados en la Dirección General de Catastro, o de nuevas construcciones permanentes, de reconstrucciones y de ampliaciones permanentes ya existentes que no hayan sido manifestadas oportunamente conforme al Artículo 192 de esta Ley, la Secretaría de Finanzas, hará el recobro por cinco años atrás a la fecha del descubrimiento del preido (sic), construcciones, reconstrucciones o ampliaciones, salvo que el interesado pruebe que tales hechos o actos datan de fecha posterior, en cuyo caso el recobro del impuesto se hará a partir de esta fecha en adelante y la cuota se aplicará de acuerdo con lo dispuesto en este Capítulo.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 220.
 
-Los recibos de pago que expide la Secretaría de Finanzas del Estado, tratándose del impuesto predial, sólo tendrán efectos en relación con este mismo impuesto y con el bimestre que amparan, sin que sean pruebas de que se hayan pagado los bimestres de los cinco años anteriores.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 221.
 
-Toda estipulación privada, relativa al pago del impuesto predial, que se oponga a lo dispuesto en este Capítulo se tendrá como inexistente jurídicamente y, por tanto, no producirá efecto legal alguno.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
 #### SECCION NOVENA. DISPOSICIONES GENERALES
 
 ###### ARTICULO 222.
 
-Las manifestaciones y avisos de los particulares y Notarios Públicos, que exige este Capítulo, deberán hacerse en la forma que apruebe la Dirección General de Catastro y acompañar los documentos y planos que exija en las mismas.
-
-No se eximen de la obligación anterior a los propietarios o poseedores de predios que, por disposición de esta Ley o de otras estén exentos del pago del impuesto predial.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 223.
 
-Cuando en las manifestaciones o avisos exigidos por este Capítulo, no se expresen los datos o no se acompañen de los documentos o planos también requeridos, la Dirección General de Catastro dará un plazo de quince días naturales para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
-
-Si transcurre dicho plazo y no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Secretaría de Finanzas recibirá informe de la Dirección y tendrá por no presentadas las manifestaciones o avisos sin perjuicio de imponer al infractor las sanciones que procedan.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 224.
 
-Las manifestaciones que eixge (sic) este Capítulo, respecto de contratos de promesa de venta, de venta con reserva de dominio, así como de venta y de cualesquiera otros contratos, resoluciones administrativas o judiciales o actos que transmita el dominio de predios o de lotes de terrenos que formen parte de fraccionamientos, deberán presentarse dentro de los quince días hábiles siguientes de la fecha de autorización preventiva de la escritura pública correspondiente, de la celebración del contrato correspondiente, o de la resolución administrativa o judicial, o de la fecha del documento de que se trata. También se consideran comprendidas en este artículo, las manifestaciones de división o fusión de predios en que no se opere traslado de dominio alguno, porque las porciones del predio dividido no salgan del dominio del propietario o porque los predios fusionados sean de un sólo propietario.
-
-Los Notarios Públicos que autoricen dichas escrituras, tendrán obligación de manifestar también esos contratos o promesas, resoluciones o actos a la Secretaría de Finanzas del Estado y a la Dirección General de Catastro dentro del mismo término que establece el párrafo anterior, pudiendo emplear para este efecto la manifestación que formulen en relación con el impuesto sobre la traslación de dominio de bienes inmuebles que establece esta Ley.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 225.
 
-Las autoridades municipales del Estado tendrán la obligación de proporcionar a la Dirección General de Catastro una relación de los permisos de construcción otorgados así como comunicar la fecha de terminación de construcciones permanentes, de reconstrucciones o ampliaciones de construcciones permanentes o las fechas en que estas se ocupen o aprovechen en cualquier forma, sin estar terminadas, dentro de los quince días naturales posteriores a la terminación del mes que corresponda.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 226.
 
-Las comunicaciones a que se refiere el artículo anterior, se harán por escrito dentro de los quince días naturales siguientes a la fecha en que la Dirección General de Catastro reciba copia de las manifestaciones que otorgue la autoridad municipal de terminación o de ocupación de las construcciones, reconstrucciones o ampliaciones que deben presentar los constructores, de acuerdo con las disposiciones legales y reglamentarias relativas.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 227.
 
-Los sujetos del impuesto estarán obligados a manifestar a la Secretaría de Finanzas del Estado y a la Dirección General de Catastro, los cambios de su domicilio, dentro de los quince días naturales siguientes a aquél en que se efectúen. Si no lo hicieren, se tendrá como domicilio, para los efectos de este Capítulo, el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 228.
 
-Las oficinas públicas, los Notarios, así como las empresas fraccionadoras y las que se dediquen a la explotación de bienes raíces en cualquier forma, están obligados a auxiliar a las oficinas catastrales suministrándoles los datos e informes que se les soliciten.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 229.
 
-Los Notarios, las Oficinas Públicas, las empresas fraccionadoras, las que se dediquen a la explotación de bienes raíces y los particulares, están obligados a proporcionar a la Dirección General de Catastro, dentro de un plazo de quince días hábiles, los datos relativos a las modificaciones que sufra la propiedad en virtud de los contratos celebrados cualesquiera que sea la forma en que se denominen o de los actos o contratos en que hayan intervenido.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 230.
 
-Contra las resoluciones que fijen el impuesto predial, sobre la base del valor catastral definitivo, procederá el recurso administrativo correspondiente.
-
-Los Peritos de las partes deberán ser Ingenieros o Arquitectos Titulados, o corredores Públicos Titulados.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 231.
 
-Para que la Secretaría de Finanzas pueda expedir certificados de no adeudo del impuesto predial, se requiere:
-
-a).- Que el predio esté al corriente en el pago del impuesto, y,
-
-b).- Que no exista inconformidad alguna pendiente de resolver en relación con los avalúos y en general, con las bases del impuesto predial.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ### CAPITULO SEGUNDO. DEL IMPUESTO ESTATAL SOBRE ACTIVIDADES COMERCIALES Y DE SERVICIOS
 
@@ -1649,193 +1337,71 @@ Los miembros de los Consejos de Administración, Comisarios, Representantes Gene
 
 Los adquirentes o usufructuarios, por cualquier título de establecimiento en los cuales de (sic) perciban ingresos gravados por este impuesto tienen esponsabilidad (sic) solidaria de los créditos insolutos.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
 ### CAPITULO TERCERO. IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
-
 ###### ARTICULO 260.
 
-Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles establecido en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicados en el Estado de Morelos, así como los derechos relacionados con los mismos a que esta Ley se refiere. El impuesto se calculará aplicando la tasa del dos por ciento al valor del inmueble.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 261.
 
-Para los efectos de éste capítulo, se entiende por adquisición la que derive de:
-
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación de toda clase que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges;
-
-II.- La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad;
-
-III.- La promesa de adquirir, cuando el futuro comprador entre en posesión de los bienes o el futuro vendedor reciba el precio de la venta o parte de él, antes de que se celebre el contrato prometido o cuando se pacte alguna de estas circunstancias;
-
-IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente;
-
-V.- Fusión de Sociedades;
-
-VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones, sociedades civiles o mercantiles;
-
-VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
-
-VIII.- Prescripción positiva e información de dominio judicial o administrativa;
-
-IX.- La cesión de derechos del heredero, legatario o copropietario en la parte relativa y en proporción a los inmuebles.
-
-Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos y legatarios;
-
-X.- Enajenación a través de Fideicomiso entendiéndose por enajenación la que se realiza en los siguientes casos:
-
-A).- En el acto en que el Fideicomitente designa o se obliga a designar Fideicomisario diverso de él, y siempre que no tenga derecho a readquirir del fiduciario los bienes;
-
-B).- En el acto en que el fideicomitente pierda el derecho a readquirir los bines del fiduciario, si se hubiera reservado el derecho;
-
-XI.- La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualesquiera de los siguientes momentos:
-
-A).- En el acto en el que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bines en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones;
-
-B).- En el acto en que el fideicomitente ceda sus derechos, si entre éstos se incluye el de que los bienes se transmitan a sus (sic) favor;
-
-XII.- La división de la copropiedad y la división o disolución de la sociedad conyugal, por parte que se adquiera en demasía del por ciento que le correspondía al copropietario o cónyuge;
-
-XIII.- La celebración del contrato de permuta, en cuyo caso se considerará que efectúan dos adquisiciones.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 262.
 
-El valor del inmueble que se considerará para los efectos del artículo doscientos sesenta de esta Ley, será el que resulte más alto de entre el valor o precio de adquisición, el valor catastral y el valor que resulte del avalúo practicado por persona o institución autorizada.
-
-En la determinación del valor del Inmueble, se incluirá el valor de las construcciones que en sus (sic) caso tenga, independientemente de los derechos que sobre éstas tengan terceras personas.
-
-Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique persona autorizada por la Secretaría de Hacienda y Crédito Público. En la constitución, adquisición o extinción del Usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio o valor que se hubiese pactado, sino el del avalúo a que se refiere éste párrafo.
-
-Para los fines de esta ley, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del cincuenta por ciento del valor de la propiedad.
-
-El Gobierno del Estado, a través de la Secretaría de Programación y Finanzas o de quien haga sus veces, establecerá las reglas de carácter general para la práctica de avalúos. Para los efectos de este impuesto, los avalúos que se emitan tendrán una vigencia de seis meses contados a partir de la fecha en que se realicen. No producirán efectos fiscales los avalúos que no reúnan los requisitos a que se refiere este artículo.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 263.
 
-El Estado, por conducto de las autoridades fiscales, se reserva el derecho de revisar los avalúos que emitan para la celebración de las operaciones que grava esta Ley. En consecuencia, las autoridades fiscales quedan facultadas para practicar u ordenar se practique avalúo sobre el o los inmuebles materia de las operaciones debiendo referirlo a la fecha de adquisición. Este nuevo avalúo deberá ser tomado en cuenta por la autoridad fiscal y prevalecerá sobre los avalúos y anteriores y aún sobre el precio pactado, en el supuesto:
-
-Cuando el valor resultante de dicho acto de fiscalización exceda en más de un diez por ciento de aquel o aquellos que hayan servido originalmente para determinar la base gravable de este impuesto. En este supuesto, la autoridad fiscal con base en el nuevo avalúo, procederá a determinar las diferencias de impuesto que resulten.
-
-Cuando por el avalúo practicado, ordenado o tomado en consideración por las autoridades fiscales, resulten diferencias de impuesto, los fedatarios no serán responsables solidarios por las mismas.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 264.
 
-El pago del Impuesto deberá hacerse mediante declaración, en las formas que para el efecto apruebe la Secretaría de Programación y Finanzas, las cuales se presentarán dentro de los quince días hábiles siguientes, a aquel en que se realicen cualesquiera de los supuestos que a continuación se señalan:
-
-I.- Cuando se constituya o adquiera el usufructo o nuda propiedad. En el caso de usufructo temporal, cuando este extinga;
-
-II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente;
-
-III.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos de las fracciones X y XI del artículo doscientos sesenta y uno de esta Ley;
-
-IV.- Tratándose de resoluciones judiciales sobre prescripción positiva o negativa, o resoluciones judiciales o administrativas de adjudicación por remate, al momento de la protocolización o de la inscripción, si la protocolización, en términos de la ley aplicable, no es indispensable;
-
-V.- En los contratos de compraventa, aún en los que el enajenante se reserve el dominio, así como los de promesa de compraventa, cuando se celebre el contrato respectivo;
-
-VI.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura o se inscriban en el Registro Público para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquiriente el dominio conforme a las leyes aplicables.
-
-El contribuyente podrá pagar el impuesto por anticipado.
-
-A la declaración a que se refiere este artículo deberá acompañarse la documentación que en la misma se señale.
-
-Tratándose de enajenaciones a plazos, la autoridad fiscal queda facultada para fijar las reglas que permitan el pago del impuesto en parcialidades.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
-
-ARTICULO 2654 (SIC).- En las adquisiciones que se hagan constar en escritura pública, los notarios, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad lo que harán constar en la escritura y lo enterarán mediante declaración en la oficina autorizada que corresponda a la ubicación del inmueble.
-
-En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la oficina autorizada que corresponda a la ubicación del inmueble.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 265.
 
-La base del impuesto será:
-
-I.- Para los bienes muebles: el valor m´s (sic) alto entre el que tengan en el mercado y el de la factura o del acto o contrato del que derive la traslación de dominio; y
-
-II.- Para los bienes inmuebles: El valor que resulte mayor entre el avalúo que con tal motivo formule la Secretaría de Finanzas a travez (sic) de la Dirección General de Catastro, el valor de la operación y el avalúo practicado por una sociedad nacional de crédito, o corredor público titulado.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 266.
 
-Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto a enterar, incluso en tratándose de fideicomisos con inmuebles, en los que el fedatario considere que no se causa el impuesto en los términos de este artículo.
-
-Los fedatarios no estarán obligados a enterar el impuesto, cuando consignen en escritura pública operaciones por las que ya se hubiere pagado el impuesto y acompañen a su declaración copia de aquella con la que se efectuó dicho pago.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 267.
 
-Las obligaciones a cargo del contribuyente, derivadas de este impuesto y sus accesorios, se extinguen en el plazo de cinco años contados a partir del día siguiente de aquel en el que el Estado tenga conocimiento por conducto de sus dependencias fiscales, o a partir de que se cumplan los supuestos del artículo 264 de esta Ley.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 268.
 
-Son sujetos del Impuesto.
-
-I.- El adquiriente de el o los bienes inmuebles, a través de cualesquiera de las figuras jurídicas señaladas en el artículo 261 de esta Ley;
-
-II.- Son obligados solidarios: El enajenante, cedente, donante, promitente vendedor, el aportante del inmueble en su caso, el deudor en el caso de daciones en pago, el administrador, liquidador o interventor, el usufructuario, el nudo propietario, las sucesiones por conducto de su albacea, el copropietario, y el cónyuge que por virtud de división o disolución sus derechos decrezcao (sic) o se extingan, los permutantes, así como la fiduciaria, en el caso de fideicomisos, y el fedatario, éste último en el caso de que no entere el impuesto.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 269.
 
-Cuando la adquisición de los bienes inmuebles se produzca por resoluciones de autoridades no ubicadas en el Estado de Morelos, el pago del Impuesto se hará dentro de los Treinta Días Naturales siguientes a la fecha en que se haya formalizado la adquisición ante fedatario.
-
-Cuando dicha adquisición opere en virtud de actos o contratos celebrados fuera del territorio de la República Mexicana, o bien a través de resoluciones dictadas por autoridades extranjeras, el impuesto deberá ser cubierto dentro del plazo de noventa días hábiles, contados a partir de la fecha en que surtan sus efectos en la República Mexicana.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 270.
 
-No se pagará el impuesto establecido en este capítulo, en las adquisiciones de inmuebles que hagan la Federación, el Distrito Federal, los Estados y los Municipios, para formar parte de los bienes de dominio público, así como las que hagan los partidos políticos nacionales, siempre y cuando dichos inmuebles se destinen para el ejercicio de sus funciones específicas.
-
-Tampoco se pagará el impuesto en las adquisiciones de Inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 271.
 
-No causarán este impuesto:
-
-I.- La adjudicación de bienes por disolución de la sociedad conyugal, siempre que no acrezca el por ciento que originalmente les correspondía a los cónyuges;
-
-II.- La participación o división de la copropiedad, siempre que las partes adjudicadas no excedan de las porciones que pro-indiviso correspondía a cada uno de los copropietarios;
-
-III.- Los actos o contratos traslativos de dominio en los que intervenga el Instituto de Vivienda en el Estado de Morelos como adquiriente, por lo que a él se refiere;
-
-IV.- Los actos constitutivos de fideicomiso de administración o garantía.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 272.
 
-Los fedatarios no podrán autorizar definitivamente las escrituras en que consten los actos que grava esta ley, hasta en tanto no le sea devuelta, por la autoridad competente, la declaración en la que se manifestó la operación o se realizó el pago del impuesto a que este capítulo se refiere, según el caso.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 273.
 
-El encargado del Registro Público de la Propiedad no registrará la operación traslativa de dominio si no se le exhibe el documento que contenga la declaración de este impuesto, debidamente sellado por la autoridad fiscal respectiva.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
-ARTICULO 273 BIS.- Cuando las operaciones se celebren fuera del Estado, sobre los bienes situados dentro de sus límites, el impuesto se pagará antes de ratificarse el contrato ante Notario si debe llenarse este requisito o en caso contrario antes de inscribir la Escritura o Contrato en el Registro Público. Si el contrato o promesa no debe ser registrado, el impuesto se pagará dentro de los treinta días siguientes a la celebración de la operación.
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 1991)</small>
+ARTICULO 273 BIS.- (DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 274.
 
-En los casos en que se hubiere pagado el Impuesto Federal Sobre Adquisición de Bienes Inmuebles, por la celebración de contratos de promesa de compraventa o contratos privados de compraventa, al elevarse a escritura pública no se causará el impuesto a que se refiere este capítulo.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ### CAPITULO CUARTO. DEL IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITAL Y OTROS INGRESOS
 
@@ -4719,8 +4285,6 @@ Los certificados de insolvencia no causarán los derechos fijados en la tarifa.
 
 ### CAPITULO NOVENO. POR APROBACION, AUTORIZACION Y SUPERVISION DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS HABITACIONALES
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
-
 ###### ARTICULO 433.
 
 Los derechos por servicios catastrales se causan conforme a la siguiente:
@@ -4901,77 +4465,23 @@ Los avalúos practicados por la Dirección del Catastro a solicitud de parte int
 
 (DEROGADO, P.O. 3 DE ENERO DE 1990)
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 1999)</small>
+
 ### CAPITULO DECIMO. POR SERVICIOS DE ARCHIVO Y NOTARIALES
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 436.
 
-Estos derechos se causarán conforme a la siguiente:
-
-TARIFA
-
-I.- Por la revisión general del proyecto, el 1% sobre el presupuesto de las obras de urbanización autorizado por la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales;
-
-II.- Por tramitación, análisis, estudio y aprobación de proyectos:
-
-A).- De planos de condominios por cada unidad: 1 día de salario.
-
-B).- De planos de fraccionamientos de terreno con calles, sobre el importe del presupuesto de obras a ejecutar que apruebe la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado de Morelos: 3%
-
-C.- De planos de conjuntos habitacionales por cada unidad: 1 día y medio de salario:
-
-3 lotes 10 días de salario
-
-4 lotes 20 días de salario
-
-5 lotes o más 30 días de salario
-
-D).- De condominios: sobre el importe del presupuesto de las obras a realizar que apruebe la Comisión Reguladora o la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales: 3%
-
-E).- Por apertura de calles, de manzanas de la zona urbana de las poblaciones o en fraccionamientos: sobre el importe de la obra de urbanización determinada por la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales: 5%
-
-F).- Por la ampliación del plano para la terminación de obras de urbanización y construcciones:
-
-Hasta 6 meses 10%
-
-De más de 6 meses hasta un año 20%
-
-De más de 1 año hasta dos años 40%
-
-III.- Por licencias:
-
-A).- De división por cada fracción: Separar en zona urbana 5 días de salario; en zona rural el 50% de la cuota anterior.
-
-B).- De relotificación de fraccionamientos: 3% sobre el importe de las obras de urbanización que al efecto determine la Comisión Reguladora de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado, y de acuerdo a la clasificación del uso del suelo que establezca el Plan de Desarrollo correspondiente.
-
-C).- De fusión de lotes: por cada predio 5 días de salario.
-
-IV.- Por regularizaciones: se cobrará con base al dictamen de la Comisión Reguladora de Fraccionamientos, Condominios y Conjuntos Habitacionales, la que deberá considerar ubicación, valor, servicios municipales y capacidad económica;
-
-V.- Construcción de casas en serie dentro de fraccionamientos sobre el importe del presupuesto de obras por ejecutar que determine la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales: 2%;
-
-VI.- Por supervisión: Adicional a lo dispuesto en las anteriores fracciones sobre el importe del presupuesto de obras por ejecutar: el 1%;
-
-VII.- Cooperación para aulas, por cada lote en fraccionamientos: 5 días de salario;
-
-VIII.- Cooperación para obras públicas; en los casos de regularización de fraccionamientos, condominios y conjuntos habitacionales, divisiones y subdivisiones, el 2% sobre el monto de las obras a realizar que determine la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 437.
 
-Son contribuyentes de los derechos establecidos en el artículo anterior, las personas físicas o morales que soliciten y en su caso obtengan las aprobaciones y licencias de los proyectos de obras solicitadas, conforme a las leyes respectivas.
-
-Los derechos se pagarán dentro de los diez días hábiles siguientes a la notificación de la liquidación que formule la Secretaría de Programación y Finanzas, por conducto de su Dirección General de Ingresos y cuyo importe será enterado en la Administración de Rentas.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 438.
 
-Cuando la resolución sea en sentido negativo, respecto de la aprobación de anteproyectos y proyectos de las obras que prevee (sic) la Ley correspondiente.
-
-Las cantidades que se paguen como anticipo conforme al Artículo 385 de esta Ley, quedarán a beneficio del erario del Estado o del Municipio respectivo de conformidad con lo que se establece en la Ley de Coordinación Fiscal. De ser afirmativa la resolución, las cantidades enteradas como anticipo se tomarán a cuenta del pago definitivo que proceda.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 1999)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -5556,3 +5066,11 @@ P.O. 7 DE ENERO DE 1998.
 PRIMERO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "Tierra y Libertad" Organo de Difusión del Gobierno del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Ejecutivo para los efectos a que se refiere el artículo 47 de la Constitución Política del Estado de Morelos.
+
+P.O. 17 DE NOVIEMBRE DE 1999.
+
+PRIMERO.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
