@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-competencia-economica-112"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "1992-12-24"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCE"
 
 LEY FEDERAL DE COMPETENCIA ECONOMICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -282,7 +282,9 @@ La Comisión tendrá el personal necesario para el despacho eficaz de sus asunto
 
 Los comisionados serán designados por el titular del Ejecutivo Federal y deberán cumplir los siguientes requisitos:
 
-I.- Ser ciudadanos mexicanos, profesionales en materias afines al objeto de esta ley, mayores de treinta y cinco años de edad y menores de setenta y cinco; y
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I.- Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad, estar en pleno goce de sus derechos civiles y políticos, profesionales en materias afines al objeto de esta ley, mayores de treinta y cinco años de edad y menores de setenta y cinco; y
 
 II.- Haberse desempeñado en forma destacada en cuestiones profesionales, de servicio público o académicas sustancialmente relacionadas con el objeto de esta ley.
 
@@ -425,3 +427,9 @@ En lo que no se opongan a la presente ley, continuarán en vigor las disposicion
 México, D.F., a 18 de diciembre de 1992.- Dip. Salvador Abascal Carranza, Presidente.- Sen. Carlos Sales Gutiérrez, Presidente.- Dip. Luis Pérez Díaz, Secretario.- Sen. Roberto Suárez Nieto, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de diciembre de mil novecientos noventa y dos. Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
