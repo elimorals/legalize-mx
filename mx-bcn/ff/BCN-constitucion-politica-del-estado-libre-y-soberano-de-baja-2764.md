@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2002-05-24"
+last_updated: "2002-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -185,9 +185,9 @@ La Ley garantizará al Procurador su independencia y autonomía en el desempeño
 
 La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá una función jurisdiccional por lo que carece de facultades para modificar por si misma las resoluciones de la autoridad ni suspender las actuaciones administrativas objeto de queja. Sus resoluciones consistirán en recomendaciones, proposiciones, solicitudes y recordatorios de plazos y deberes legales dirigidas a los servidores públicos.
 
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
-Toda persona tiene derecho a gozar de un medio ambiente adecuado para su desarrollo y bienestar. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de este derecho.
+Toda persona tiene el derecho a la práctica del deporte, a la cultura física y a gozar de un medio ambiente adecuado para su desarrollo y bienestar. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
 
 ### CAPITULO V.. DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES
 
@@ -2434,3 +2434,7 @@ P.O. 24 DE MAYO DE 2002.
 PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- La designación del Magistrado Presidente del Tribunal Superior de Justicia del Poder Judicial del Estado de Baja California por dos años, deberá recaer preferentemente en aquellos Magistrados que de acuerdo con su respectivo nombramiento, se encuentre vigente para el período que fueron electos por el Congreso del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2002.
+
+UNICO.- La presente reforma y adición entrará en vigor al día siguiente al de su promulgación en el Periódico Oficial Órgano del Gobierno del Estado.
