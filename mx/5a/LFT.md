@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1982-12-31"
+last_updated: "1983-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -1206,33 +1206,19 @@ La ley que cree dicho organismo regulará los procedimientos y formas conforme a
 
 El organismo a que se refieren los artículos 138 y 139, tendrá a su cargo la coordinación y el financiamiento de los programas de construcción de casas habitación destinadas a ser adquiridas en propiedad por los trabajadores.
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 141.
 
 Las aportaciones al Fondo Nacional de la Vivienda son gastos de previsión social de las empresas y se aplicarán en su totalidad a constituir depósitos en favor de los trabajadores que se sujetarán a las bases siguientes:
 
-I.- Cuando un trabajador reciba financiamiento del Fondo Nacional de la Vivienda, el 40% del importe de los depósitos que en su favor se hayan acumulado hasta esa fecha se aplicará de inmediato como pago inicial del crédito concedido.
+I.- En caso de incapacidad total permanente, de jubilación o de muerte del trabajador, se entregará el total de los depósitos constituidos a él o a sus beneficiarios con una cantidad adicional igual a dichos depósitos, en los términos de la Ley a que se refiere el Artículo 139.
 
-II.- Durante la vigencia del crédito, se continuará aplicando el 40% de la aportación patronal al pago de los abonos subsecuentes que deba hacer el trabajador.
+II. Cuando el trabajador deje de estar sujeto a una relación de trabajo y cuente con 50 o más años de edad, tendrá derecho a que se le haga entrega del total de los depósitos que se hubieren hecho a su favor, en los términos de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
-III.- Una vez liquidado el crédito otorgado a un trabajador, se continuará aplicando el total de las aportaciones empresariales para integrar un nuevo depósito en su favor.
+III. En caso de que el trabajador hubiere recibido crédito del Instituto, las cantidades a que tuviere derecho en los términos de las fracciones anteriores, se aplicarán a la amortización del crédito, salvo en los casos de incapacidad total permanente o de muerte, en los términos del artículo 145 si después de hacer la aplicación de dichas cantidades a la amortización del crédito quedare saldo a favor del trabajador se le entregará a éste el monto correspondiente.
 
-> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1982)</small>
-
-IV. En caso de incapacidad total permanente, de jubilación o de muerte del trabajador, se entregará el total de los depósitos constituidos a él o a sus beneficiarios con una cantidad adicional igual a dichos depósitos, en los términos de la Ley a que se refiere el artículo 139;
-
-> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1982)</small>
-
-V. Cuando el trabajador deje de estar sujeto a una relación de trabajo y cuente con 50 o más años de edad, tendrá derecho a que se le haga entrega del total de los depósitos que se hubieren hecho a su favor, en los términos de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
-
-> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 1982)</small>
-
-VI. En el caso de que los trabajadores hubieren recibido crédito del Instituto, la devolución de los depósitos a que se refieren las fracciones IV y V anteriores, se hará con deducción de las cantidades que se hubieran aplicado al pago de dicho crédito en los términos de las fracciones I y II de este artículo; y la cantidad adicional a que se refiere la fracción IV anterior, será igual al monto del saldo resultante.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1982)</small>
-
-Para la devolución de los depósitos y cantidades adicionales, bastará que la solicitud por escrito, se acompañe con las pruebas pertinentes.
+Para la devolución de los depósitos y cantidades adicionales bastará que la solicitud por escrito se acompañe con las pruebas pertinentes.
 
 > <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
 
@@ -1422,23 +1408,37 @@ En cada empresa se constituirán Comisiones Mixtas de Capacitación y Adiestrami
 
 Las autoridades laborales cuidarán que las Comisiones Mixtas de Capacitación y Adiestramiento se integren y funcionen oportuna y normalmente, vigilando el cumplimiento de la obligación patronal de capacitar y adiestrar a los trabajadores.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 153-K.
 
-La Secretaría del Trabajo y Previsión Social podrá convocar a los patrones, sindicatos y trabajadores libres que formen parte de las mismas ramas industriales o actividades, para constituir Comités Nacionales de Capacitación y Adiestramiento de tales ramas industriales o actividades, los cuales tendrán el carácter de órganos auxiliares de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento a que se refiere esta Ley.
+La Secretaría del Trabajo y Previsión Social podrá convocar a los Patrones, Sindicatos y Trabajadores libres que formen parte de las mismas ramas industriales o actividades, para constituir Comités Nacionales de Capacitación y Adiestramiento de tales ramas Industriales o actividades, los cuales tendrán el carácter de órganos auxiliares de la propia Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 Estos Comités tendrán facultades para:
 
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
 I.- Participar en la determinación de los requerimientos de capacitación y adiestramiento de las ramas o actividades respectivas;
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 II.- Colaborar en la elaboración del Catálogo Nacional de Ocupaciones y en la de estudios sobre las características de la maquinaria y equipo en existencia y uso en las ramas o actividades correspondientes;
 
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
 III.- Proponer sistemas de capacitación y adiestramiento para y en el trabajo, en relación con las ramas industriales o actividades correspondientes;
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 IV.- Formular recomendaciones específicas de planes y programas de capacitación y adiestramiento;
 
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
 V.- Evaluar los efectos de las acciones de capacitación y adiestramiento en la productividad dentro de las ramas industriales o actividades específicas de que se trate; y,
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 VI.- Gestionar ante la autoridad laboral el registro de las constancias relativas a conocimientos o habilidades de los trabajadores que hayan satisfecho los requisitos legales exigidos para tal efecto.
 
@@ -1476,7 +1476,9 @@ El registro de que trata el artículo 153-C se otorgará a las personas o instit
 
 I.- Comprobar que quienes capacitarán o adiestrarán a los trabajadores, están preparados profesionalmente en la rama industrial o actividad en que impartirán sus conocimientos;
 
-II.- Acreditar satisfactoriamente, a juicio de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento, tener conocimientos bastantes sobre los procedimientos tecnológicos propios de la rama industrial o actividad en la que pretendan impartir dicha capacitación o adiestramiento; y,
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+II.- Acreditar satisfactoriamente, a juicio de la Secretaría del Trabajo y Previsión Social, tener conocimientos bastantes sobre los procedimientos tecnológicos propios de la rama industrial o actividad en la que pretendan impartir dicha capacitación o adiestramiento; y
 
 III.- No estar ligadas con personas o instituciones que propaguen algún credo religioso, en los términos de la prohibición establecida por la fracción IV del Artículo 3o. Constitucional.
 
@@ -1500,7 +1502,9 @@ IV.- Señalar el procedimiento de selección, a través del cual se establecerá
 
 V.- Especificar el nombre y número de registro en la Secretaría del Trabajo y Previsión Social de las entidades instructoras; y,
 
-VI.- Aquellos otros que establezcan los criterios generales de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento que se publiquen en el "Diario Oficial" de la Federación.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+VI.- Aquellos otros que establezcan los criterios generales de la Secretaría del Trabajo y Previsión Social que se publiquen en el Diario Oficial de la Federación.
 
 Dichos planes y programas deberán ser aplicados de inmediato por las empresas.
 
@@ -1516,17 +1520,19 @@ Dentro de los sesenta días hábiles que sigan a la presentación de tales plane
 
 Cuando el patrón no dé cumplimiento a la obligación de presentar ante la Secretaría del Trabajo y Previsión Social los planes y programas de capacitación y adiestramiento, dentro del plazo que corresponda, en los términos de los artículos 153-N y 153-O, o cuando presentados dichos planes y programas, no los lleve a la práctica, será sancionado conforme a lo dispuesto en la fracción IV del artículo 878 de esta Ley, sin perjuicio de que, en cualquiera de los dos casos, la propia Secretaría adopte las medidas pertinentes para que el patrón cumpla con la obligación de que se trata.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 153-T.
 
-Los trabajadores que hayan sido aprobados en los exámenes de capacitación o adiestramiento en los términos de este Capítulo, tendrán derecho a que la entidad instructora les expida las constancias respectivas, mismas que, autentificadas por la Comisión Mixta de Capacitación y Adiestramiento de la empresa, se harán del conocimiento de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento, por conducto del correspondiente Comité Nacional o, a falta de éste, a través de las autoridades del trabajo, a fin de que aquélla las registre y las tome en cuenta al formular el padrón de trabajadores capacitados que corresponda, en los términos de la fracción IV del artículo 539.
+Los trabajadores que hayan sido aprobados en los exámenes de capacitación y adiestramiento en los términos de este Capítulo, tendrán derecho a que la entidad instructora les expida las constancias respectivas, mismas que, autentificadas por la Comisión Mixta de Capacitación y Adiestramiento de la Empresa, se harán del conocimiento de la Secretaría del Trabajo y Previsión Social, por conducto del correspondiente Comité Nacional o, a falta de éste, a través de las autoridades del trabajo a fin de que la propia Secretaría las registre y las tome en cuenta al formular el padrón de trabajadores capacitados que corresponda, en los términos de la fracción IV del artículo 539.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983) (F. DE E. 13 DE ABRIL DE 1984)
 
 ###### Artículo 153-U.
 
-Cuando implantado un programa de capacitación, un trabajador se niegue a recibir ésta, por considerar que tiene los conocimientos necesarios para el desempeño de su puesto y del inmediato superior, deberá acreditar documentalmente dicha capacidad o presentar y aprobar, ante la entidad instructora, el examen de suficiencia que señale la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento.
+Cuando implantado un programa de capacitación, un trabajador se niegue a recibir ésta, por considerar que tiene los conocimientos necesarios para el desempeño de su puesto y del inmediato superior, deberá acreditar documentalmente dicha capacidad o presentar y aprobar, ante la entidad instructora, el examen de suficiencia que señale la Secretaría del Trabajo y Previsión Social.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 En este último caso, se extenderá a dicho trabajador la correspondiente constancia de habilidades laborales.
 
@@ -1536,7 +1542,9 @@ En este último caso, se extenderá a dicho trabajador la correspondiente consta
 
 La constancia de habilidades laborales es el documento expedido por el capacitador, con el cual el trabajador acreditará haber llevado y aprobado un curso de capacitación.
 
-Las empresas están obligadas a enviar a la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento para su registro y control, listas de las constancias que se hayan expedido a sus trabajadores.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Las empresas están obligadas a enviar a la Secretaría del Trabajo y Previsión Social para su registro y control, listas de las constancias que se hayan expedido a sus trabajadores.
 
 Las constancias de que se trata surtirán plenos efectos, para fines de ascenso, dentro de la empresa en que se haya proporcionado la capacitación o adiestramiento.
 
@@ -2294,7 +2302,7 @@ III. El tráfico de drogas enervantes.
 
 Son causas especiales de rescisión de las relaciones de trabajo:
 
-I. La recepción de carga o pasaje fuera de los lugares señalados por la empresa para estos fines; y
+l. La recepción de carga o pasaje fuera de los lugares señalados por la empresa para estos fines; y
 
 II. La negativa a efectuar el viaje contratado o su interrupción, sin causa justificada.
 
@@ -2958,7 +2966,7 @@ La Inspección del Trabajo vigilará el cumplimiento de las normas a que se refi
 
 ### CAPITULO II. Sindicatos, Federaciones y Confederaciones
 
-###### Artículo 353- A.
+###### Artículo 353-A.
 
 Para los efectos de este Capítulo, se entiende por:
 
@@ -3022,7 +3030,7 @@ En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de 
 
 Son causas especiales de rescisión de la relación de trabajo, sin responsabilidad para el patrón, además de la que establece el artículo 47, las siguientes:
 
-I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353.D;
+I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353-D;
 
 II.- La violación de las normas técnicas o administrativas necesarias para el funcionamiento de la Unidad Médica Receptora de Residentes en la que se efectúe la residencia;
 
@@ -4656,17 +4664,19 @@ III.- Organizar, promover y supervisar la capacitación y el adiestramiento de l
 
 IV.- Registrar las constancias de habilidades laborales.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 538.
 
-El Servicio Nacional del Empleo, Capacitación y Adiestramiento estará a cargo de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento, como organismo desconcentrado dependiente de la Secretaría del Trabajo y Previsión Social.
+El Servicio Nacional del Empleo, Capacitación y Adiestramiento estará a cargo de la Secretaría del Trabajo y Previsión Social, por conducto de las unidades administrativas de la misma, a las que competan las funciones correspondientes, en los términos de su Reglamento Interior.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 539.
 
-De conformidad con lo que dispone el artículo que antecede y para los efectos del 537, a la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento corresponden las siguientes actividades:
+De conformidad con lo que dispone el artículo que antecede y para los efectos del 537, a la Secretaría del Trabajo y Previsión Social corresponden las siguientes actividades:
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 I.- En materia de promoción de empleos:
 
@@ -4686,6 +4696,8 @@ g) Proponer la celebración de convenios en materia de empleo, entre la Federaci
 
 h) En general, realizar todas aquéllas que las leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
 
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
+
 II.- En materia de colocación de trabajadores:
 
 a) Encauzar a los demandantes de trabajo hacia aquellas personas que requieran sus servicios, dirigiendo a los solicitantes más adecuados, por su preparación y aptitudes, hacia los empleos que les resulten más idóneos;
@@ -4699,6 +4711,8 @@ d) Intervenir, en coordinación con las respectivas Unidades Administrativas de 
 e) Proponer la celebración de convenios en materia de colocación de trabajadores, entre la Federación y las Entidades Federativas; y,
 
 f) En general, realizar todas aquéllas que las leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 III.- En materia de capacitación o adiestramiento de trabajadores:
 
@@ -4720,53 +4734,61 @@ h) Establecer coordinación con la Secretaría de Educación Pública para impla
 
 i) En general, realizar todas aquéllas que las leyes y reglamentos encomienden a la Secretaría del Trabajo y Previsión Social en esta materia.
 
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
+
 IV.- En materia de registro de constancias de habilidades laborales:
 
 a) Establecer registros de constancias relativas a trabajadores capacitados o adiestrados, dentro de cada una de las ramas industriales o actividades; y,
 
 b) En general, realizar todas aquéllas que las leyes y reglamentos confieran a la Secretaría del Trabajo y Previsión Social en esta materia.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983) (F. DE E. 13 DE ABRIL DE 1984)
 
 ###### Artículo 539-A.
 
-Para el cumplimiento de sus funciones en relación con las empresas o establecimientos que pertenezcan a ramas industriales o actividades de jurisdicción federal, la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento será asesorada por un Consejo Consultivo integrado por representantes del Sector Público, de las organizaciones nacionales de trabajadores y de las organizaciones nacionales de patrones, a razón de cinco miembros por cada uno de ellos con sus respectivos suplentes.
+Para el cumplimiento de sus funciones en relación con las empresas o establecimientos que pertenezcan a ramas industriales o actividades de jurisdicción federal, la Secretaría del Trabajo y Previsión Social será asesorada por un Consejo Consultivo integrado por representantes del Sector Público, de las organizaciones nacionales de trabajadores y de las organizaciones nacionales de patrones, a razón de cinco miembros por cada uno de ellos con sus respectivos suplentes.
 
-Por el Sector Público participarán sendos representantes de la Secretaría del Trabajo y Previsión Social, de la Secretaría de Educación Pública, de la Secretaría de Comercio, de la Secretaría de Patrimonio y Fomento Industrial y del Instituto Mexicano del Seguro Social.
+Por el Sector Público participarán sendos representantes de la Secretaría del Trabajo y Previsión Social; de la Secretaría de Educación Pública; de la Secretaría de Comercio y Fomento Industrial; de la Secretaría de Energía, Minas e Industria Paraestatal y del Instituto Mexicano del Seguro Social.
 
-Los representantes de las organizaciones obreras y de las patronales serán designados conforme a las bases que expida la Secretaría del Trabajo y Previsión Social.
+Los representantes de las organizaciones obreras y de las patronales, serán designados conforme a las bases que expida la Secretaría del Trabajo y Previsión Social.
 
-El Consejo Consultivo será presidido por el Secretario del Trabajo y Previsión Social; fungirá como Secretario del mismo, el Coordinador General de la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento; y su funcionamiento se regirá por el reglamento que expida el propio Consejo.
+El Consejo Consultivo será presidido por el Secretario del Trabajo y Previsión Social; fungirá como Secretario del mismo, el funcionario que determine el Titular de la propia Secretaría; y su funcionamiento se regirá por el Reglamento que expida el propio Consejo.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983) (F. DE E., 13 DE ABRIL DE 1984)
 
 ###### Artículo 539-B.
 
-Cuando se trate de empresas o establecimientos sujetos a jurisdicción local y para la realización de las actividades a que se contraen las fracciones III y IV del artículo 539, la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento, será asesorada por Consejos Consultivos Estatales de Capacitación y Adiestramiento.
+Cuando se trate de empresas o establecimientos sujetos a jurisdicción local y para la realización de las actividades a que se contraen las fracciones III y IV del artículo 539, la Secretaría del Trabajo y Previsión Social será asesorada por Consejos Consultivos Estatales de Capacitación y Adiestramiento.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 Los Consejos Consultivos Estatales estarán formados por el Gobernador de la Entidad Federativa correspondiente, quien los presidirá; sendos representantes de la Secretaría del Trabajo y Previsión Social, de la Secretaría de Educación Pública y del Instituto Mexicano del Seguro Social; tres representantes de las organizaciones locales de trabajadores y tres representantes de las organizaciones patronales de la Entidad. El representante de la Secretaría del Trabajo y Previsión Social fungirá como Secretario del Consejo.
 
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+
 La Secretaría del Trabajo y Previsión Social y el Gobernador de la Entidad Federativa que corresponda expedirán, conjuntamente, las bases conforme a las cuales deban designarse los representantes de los trabajadores y de los patrones en los Consejos Consultivos mencionados y formularán, al efecto, las invitaciones que se requieran.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 Los Consejos Consultivos se sujetarán en lo que se refiere a su funcionamiento interno, al reglamento que al efecto expida cada uno de ellos.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 539-C.
 
-Las autoridades laborales estatales auxiliarán a la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento para el desempeño de sus funciones, de acuerdo a lo que establecen los artículos 527-A y 529.
+Las autoridades laborales estatales auxiliarán a la Secretaría del Trabajo y Previsión Social, para el desempeño de sus funciones, de acuerdo a lo que establecen los artículos 527-A y 529.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 539-D.
 
-El servicio para la colocación de los trabajadores será invariablemente gratuito para ellos y será proporcionado, según el régimen de aplicación de esta Ley, por la Unidad Coordinadora del Empleo, Capacitación y Adiestramiento o por los órganos competentes de las Entidades Federativas, de conformidad con lo establecido por la fracción II del artículo 539, en ambos casos.
+El servicio para la colocación de los trabajadores será invariablemente gratuito para ellos y será proporcionado, según el régimen de aplicación de esta Ley, por la Secretaría del Trabajo y Previsión Social o por los órganos competentes de las Entidades Federativas, de conformidad con lo establecido por la fracción II del artículo 539, en ambos casos.
 
-> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 539-E.
 
-Podrán participar en la prestación del servicio a que se refiere el artículo anterior, otras dependencias oficiales, instituciones docentes, organizaciones sindicales o patronales, instituciones de beneficencia y demás asociaciones civiles que no persigan fines de lucro. En estos casos, lo harán del conocimiento de la Secretaría del Trabajo y Previsión Social para fines de registro y control y para que la citada Dependencia, a través de la Unidad respectiva, esté en posibilidad de coordinar las acciones en esta materia.
+Podrán participar en la prestación del servicio a que se refiere el artículo anterior, otras dependencias oficiales, instituciones docentes, organizaciones sindicales o patronales, instituciones de beneficencia y demás asociaciones civiles que no persigan fines de lucro. En estos casos, lo harán del conocimiento de la Secretaría del Trabajo y Previsión Social para fines de registro y control y para que esté en posibilidad de coordinar las acciones en esta materia.
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
@@ -5148,7 +5170,7 @@ III. Las Comisiones dispondrán de un término que vencerá el quince de noviemb
 
 Dentro del mismo término podrán solicitar de la Dirección Técnica de la Comisión Nacional investigaciones y estudios complementarios; y
 
-IV. Los Presidentes de las Comisiones, dentro de los cinco días siguientes a la fecha de la resolución, ordenarán su publicación y remitirán el expediente a la Comisión Nacional.
+lV. Los Presidentes de las Comisiones, dentro de los cinco días siguientes a la fecha de la resolución, ordenarán su publicación y remitirán el expediente a la Comisión Nacional.
 
 ###### Artículo 572.
 
@@ -5878,7 +5900,7 @@ III. No informar oportunamente al Presidente de la Junta de la conducta irregula
 
 > <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
 
-IV.- No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
+IV. No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
 
 V. Las demás que establezcan las leyes.
 
@@ -6652,7 +6674,7 @@ La Junta, conforme a lo establecido en esta Ley, está obligada a expedir a la p
 
 El Pleno de la Junta Federal de Conciliación y Arbitraje o el de las Juntas Locales de Conciliación y Arbitraje, podrá acordar que los expedientes concluidos de manera definitiva sean dados de baja previa certificación de la microfilmación de los mismos o de su conservación a través de cualquier otro procedimiento técnico científico que permita su consulta.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 725.
 
@@ -7226,7 +7248,7 @@ Tratándose de personas morales la confesional se desahogará por conducto de su
 
 Las partes podrán también solicitar que se cite a absolver posiciones personalmente a los directores, administradores, gerentes y, en general, a las personas que ejerzan funciones de dirección y administración, en la empresa o establecimiento, así como a los miembros de la directiva de los sindicatos, cuando los hechos que dieron origen al conflicto les sean propios y se les hayan atribuido en la demanda o contestación, o bien que por razones de sus funciones les deban ser conocidos.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 788.
 
@@ -9513,3 +9535,19 @@ D.O.F. 31 DE DICIEMBRE DE 1982.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente del de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1983.
+
+DECRETO DE REFORMAS A LA LEY FEDERAL DEL TRABAJO (ARTICULOS 153-K, PRIMER PARRAFO; 153-P, ETC.).
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1983.
+
+DECRETO DE REFORMAS EL ARTICULO 141 DE LA LEY FEDERAL DEL TRABAJO.
+
+PRIMERO.- Las solicitudes de entrega de depósitos presentadas con anterioridad a estas reformas y pendientes de ser resueltas, se atenderán en los términos de las disposiciones legales anteriores a las propias reformas. Las solicitudes de entrega de depósitos presentadas con posterioridad a la iniciación de vigencia de la Reforma al Artículo 141 de la Ley Federal del Trabajo, se resolverán atendiendo a la norma vigente en el momento en que el derecho en que se funde se volvió exigible.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, las aportaciones que se efectúen a favor de los trabajadores ya acreditados, se aplicarán íntegramente a constituir su fondo de ahorro.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
