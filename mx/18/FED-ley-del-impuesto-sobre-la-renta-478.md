@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1984-12-31"
+last_updated: "1985-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1985.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -110,11 +110,9 @@ Las personas físicas que realicen actividades empresariales, podrán acreditar 
 
 Cuando el impuesto acreditable se encuentre dentro de los límites a que se refieren los párrafos que anteceden y no pueda acreditarse total o parcialmente, el acreditamiento podrá efectuarse en el ejercicio inmediato anterior y en los cuatro siguientes. Para los efectos de este acreditamiento se aplicarán en lo conducente, las disposiciones sobre pérdidas del Capítulo III del Título II de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
 ###### ARTICULO 7o.
 
-Cuando el contribuyente no perciba el ingreso en efectivo sino en otros bienes o servicios, se tomará en consideración el valor de éstos en moneda nacional en la fecha de la percepción según las cotizaciones o valores en el mercado, o en defecto de ambos el de avalúo. Lo dispuesto en este artículo no es aplicable tratándose de moneda extranjera.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1985)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -570,9 +568,11 @@ Tratándose de donativos otorgados a instituciones que proporcionan el servicio 
 
 II.- Que cuando esta Ley permita la deducción de inversiones se proceda en los términos de la Sección III de este Capítulo.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-III.- Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales y que tratándose de contribuyentes que en el ejercicio inmediato anterior hubieran obtenido ingresos acumulables superiores a cien millones de pesos, efectúen mediante cheque nominativo del contribuyente, los pagos en dinero cuyo monto exceda de dos veces el salario mínimo general de su zona económica vigente el 1o. de enero del año de que se trate, elevado al mes. excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere este párrafo cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
+III.- Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que en el caso de contribuyentes que en el ejercicio inmediato anterior hubieran obtenido ingresos acumulables superiores a cien millones de pesos, efectúen mediante cheque nominativo del contribuyente, los pagos en dinero cuyo monto exceda de dos veces el salario mínimo general de su zona económica vigente el 1o. de enero del año de que se trate, elevado al mes, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere este párrafo cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 Que tratándose de la distribución de dividendos o utilidades en efectivo, se paguen con cheque nominativo no negociable del contribuyente, expedido a nombre del accionista o socio y se cumpla con las obligaciones de retención e información que respecto de dichos dividendos o utilidades establece esta Ley.
 
@@ -624,9 +624,9 @@ XVIII.- Que el importe de las mercancías en existencia que por el deterioro u o
 
 XIX.- Que tratándose de remuneraciones a empleados o a terceros que estén condicionadas al cobro de los abonos en las enajenaciones a plazos o en los contratos de arrendamiento financiero en los que hayan intervenido, se deduzcan en el ejercicio en que dichos abonos o ingresos se cobren, siempre que se satisfagan los demás requisitos de esta Ley.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-XX.- Que tratándose de pagos por el uso o goce temporal de automóviles cuyo factor exceda de 9.0 en los términos del artículo 6o. de la Ley del Impuesto sobre Tenencia o Uso de Vehículos o de motocicletas distintas de las comprendidas en la fracción I del artículo 15 de la citada Ley, sólo se deduzca el 70% de los mismos.
+XX.- Que tratándose de pagos por el uso o goce temporal de automóviles cuyo factor exceda de 9.0, en los términos del artículo 5o. de la Ley del Impuesto sobre Automóviles Nuevos, o de motocicletas distintas de las comprendidas en la fracción I del artículo 15 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, sólo se deduzca el 70% de los mismos.
 
 XXI.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1983)
 
@@ -1604,9 +1604,9 @@ VI.- Llevar un registro de las utilidades de cada ejercicio en donde se identifi
 
 VII.- Formular un estado de posición financiera y levantar inventario de existencias a la fecha en que termine el ejercicio, de acuerdo con las disposiciones reglamentarias respectivas.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-VIII.- Presentar en las oficinas autorizadas dentro de los tres meses siguientes a la fecha en que termine el ejercicio, declaración en la que se determine el resultado fiscal del mismo y el monto del impuesto de éste, en dicha declaración también se determinará la utilidad fiscal y el monto que corresponda a la participación de los trabajadores en las utilidades de la empresa. Asimismo se acompañará un ejemplar de la determinará (sic) la utilidad fiscal y el monto que corresponda a la participación de los trabajadores en las utilidades de la empresa. Asimismo se acompañará un ejemplar de la declaración del ejercicio del impuesto al valor agregado y en su caso, un ejemplar del aviso a que se refiere el último párrafo del artículo 31 de la Ley Aduanera.
+VIII.- Presentar declaración en la que se determine el resultado fiscal del ejercicio y el monto del impuesto de este, ante las oficinas autorizadas dentro de los tres meses siguientes a la fecha en que termine dicho ejercicio. En dicha declaración también se determinarán la utilidad fiscal y el monto que corresponda a la participación de los trabajadores en las utilidades de la empresa.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1615,6 +1615,14 @@ En el caso de fusión de sociedades, la sociedad que subsista o la que surja con
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 IX.- Llevar un registro de deudas, créditos y efectivo en moneda extranjera en el que se distinga por moneda de cada país y por tipo de cuenta, considerando, tratándose de efectivo y de créditos exigibles a la vista, a los primeros que se enajenen como los últimos que se adquirieron.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+X.- Presentar en el mes de febrero de cada año ante las oficinas autorizadas, declaración en la que proporcionen información de las operaciones efectuadas en el año de calendario anterior con los cincuenta principales clientes y con los cincuenta principales proveedores. Deberán proporcionar, además, en su caso, información de las personas a las que les hubieran efectuado retenciones de impuesto sobre la renta en el mismo año de calendario.
+
+Cuando el contribuyente lleve su contabilidad mediante el sistema de registro electrónico, la información a que se refiere esta fracción deberá proporcionarse en dispositivos magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general. Dichos dispositivos serán devueltos al contribuyente por las autoridades fiscales dentro de los seis meses siguientes a su presentación. Tratándose de contribuyentes que lleven su contabilidad mediante sistema manual o mecanizado o cuando su equipo de cómputo no pueda procesar los dispositivos en los términos señalados por la mencionada Secretaría, la información deberá proporcionarse en las formas que al efecto apruebe dicha dependencia.
+
+Tratándose de las declaraciones a que se refieren los artículos 83 fracción V, 86 último párrafo, 92 tercer párrafo y 123 fracción III de esta Ley, la información sobre las retenciones efectuadas y las personas a las cuales las hicieron, deberá proporcionarse también en dispositivos magnéticos procesados en los términos del párrafo anterior.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -1900,6 +1908,18 @@ III.- Presentar en las oficinas autorizadas en el mes de marzo de cada año, dec
 
 Cuando los integrantes sean contribuyentes en los términos del Título II de esta Ley, en la declaración se deberá considerar, además, la parte proporcional que les corresponda de los ingresos que no se hayan considerado para determinar el remanente distribuible, así como la parte proporcional del impuesto que se haya pagado por dichos ingresos, y en su caso, se señalarán los ingresos a que se refiere la fracción I del artículo 10 de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+Asimismo, deberán presentar en el mes de febrero de cada año ante las oficinas autorizadas, declaración en la que proporcionen información de las operaciones efectuadas en el año de calendario anterior, con los cincuenta principales clientes y con los cincuenta principales proveedores. Deberán proporcionar, además, en su caso, información de las personas a las que les hubieran efectuado retenciones de impuesto sobre la renta en el mismo año de calendario.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+Cuando la persona moral de que se trate lleve su contabilidad mediante el sistema de registro electrónico, la información a que se refiere el párrafo anterior deberá proporcionarse en dispositivos magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general. Dichos dispositivos serán devueltos al contribuyente por las autoridades fiscales dentro de los seis meses siguientes a su presentación. Tratándose de las personas morales a que se refiere este Título, que lleven su contabilidad mediante sistema manual o mecanizado o cuando su equipo de cómputo no pueda procesar los dispositivos en los términos señalados por la mencionada Secretaría, la información deberá proporcionarse en las formas que al efecto apruebe dicha dependencia.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+Tratándose de las declaraciones a que se refieren los artículos 69 cuarto párrafo, 83 fracción V, 86 último párrafo, 92 tercer párrafo y 123 fracción III de esta Ley, la información sobre las retenciones efectuadas y las personas a las cuales las hicieron, deberá proporcionarse también en dispositivos magnéticos procesados en los términos del párrafo anterior.
+
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 IV.- Proporcionar a sus integrantes, constancia en la que se señale el monto del remanente distribuible, del ingreso no acumulable por enajenación de bienes que a cada uno de ellos corresponda y del monto de los pagos provisionales acreditables. La constancia deberá proporcionarse a más tardar en el mes de febrero del siguiente año.
@@ -2164,9 +2184,9 @@ Quienes hagan pagos por los conceptos a que se refiere este Capítulo están obl
 
 La retención se calculará deduciendo de la totalidad de ingresos obtenidos en un mes de calendario, el salario mínimo general de la zona económica del contribuyente multiplicado por el número de días a que corresponda el pago, y aplicándole al resultado la siguiente:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-T A R I F A
+TARIFA
 
 (VEASE TABLA ANEXA)
 
@@ -2276,9 +2296,9 @@ Las personas físicas que obtengan ingresos por la prestación de un servicio pe
 
 Los contribuyentes que obtengan ingresos de los señalados en este Capítulo efectuarán pagos provisionales a cuenta del impuesto anual, durante los meses de mayo, septiembre y enero del siguiente año, mediante declaración que presentarán ante las oficinas autorizadas. El pago provisional se determinará deduciendo de la totalidad de ingresos obtenidos en el cuatrimestre, el monto de las deducciones a que se refiere el artículo 85 correspondientes al mismo periodo y el salario mínimo general de la zona económica del contribuyente elevado al cuatrimestre, y aplicándole al resultado la siguiente:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-T A R I F A
+TARIFA
 
 (VEASE TABLA ANEXA)
 
@@ -2596,6 +2616,10 @@ IV.- Las comisiones y mediaciones pagadas por el adquirente.
 
 Los contribuyentes que obtengan ingresos de los señalados en este Capítulo, cubrirán como pago provisional a cuenta del impuesto anual, el 20% del ingreso percibido sin deducción alguna. El pago provisional se hará mediante declaración que presentarán ante las oficinas autorizadas dentro de los 15 días siguientes a la obtención del ingreso. Tratándose del supuesto a que se refiere la fracción IV del artículo 104, el plazo se contará a partir de la notificación que efectúen las autoridades fiscales.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+En operaciones consignadas en escritura pública, en las que el valor del bien de que se trate se determine mediante avalúo, el pago provisional se hará mediante declaración, que se presentará dentro de los quince días siguientes a la fecha en que se firme la escritura o minuta. Los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán mediante la citada declaración en las oficinas autorizadas.
+
 ### CAPITULO VII. De los Ingresos por Dividendos y en General por las Ganancias Distribuidas por Sociedades Mercantiles
 
 #### SECCION IV. De las Deducciones para Instituciones de Crédito, de Seguros y de Fianzas
@@ -2746,17 +2770,23 @@ VII.- Formular un estado de posición financiera y levantar inventario de existe
 
 Cuando el contribuyente deje de realizar actividades empresariales deberá formular estado de posición financiera a la fecha en que ocurra esta circunstancia.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-VIII.- En la declaración anual que se presente determinarán la utilidad fiscal y el monto que corresponda a la participación de los trabajadores en las utilidades de la empresa. Asimismo acompañarán un ejemplar de la declaración del ejercicio del impuesto al valor agregado.
+VIII.- En la declaración anual que se presente determinarán la utilidad fiscal y el monto que corresponda la participación de los trabajadores en las utilidades de la empresa.
+
+Asimismo, en el mes de febrero de cada año deberán presentar en las oficinas autorizadas, declaración en la que proporcionen información de las operaciones efectuadas en el año de calendario anterior con los cincuenta principales clientes y con los cincuenta principales proveedores. Deberán proporcionar, además. en su caso, información de las personas a las que les hubieran efectuado retenciones de impuesto sobre la renta en el mismo año de calendario.
+
+Cuando el contribuyente lleve su contabilidad mediante el sistema de registro electrónico, la información a que se refiere el párrafo anterior deberá proporcionarse en dispositivos magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general. Dichos dispositivos serán devueltos a contribuyente por las autoridades fiscales dentro de los seis meses siguientes a su presentación. Tratándose de contribuyentes que lleven su contabilidad mediante sistemas manual o mecanizado o cuando su equipo de cómputo no pueda procesar los dispositivos en los términos señalados por la mencionada Secretaría, la información deberá proporcionarse en las formas que al efecto apruebe dicha dependencia.
+
+Tratándose de las declaraciones a que se refieren los artículos 83 fracción V y 123 fracción III de esta Ley, la información sobre las retenciones efectuadas y las personas a las cuales las hicieron deberá proporcionarse también en dispositivos magnéticos procesados en los términos del párrafo anterior.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 IX.- Llevar un registro de deudas, créditos y efectivo en moneda extranjera en el que se distinga por moneda de cada país y por tipo de cuenta, considerando tratándose de efectivo y de créditos exigibles a la vista, a los primeros que se enajenen como los últimos que se adquirieron.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-Las obligaciones señaladas en las fracciones IV y V, así como la de levantar inventario de existencias al 31 de diciembre de cada año a que se refiere la fracción VII, de este artículo, no serán aplicables tratándose de contribuyentes cuya actividad preponderante sea agrícola, ganadera o de pesca, peluquerías, salones de belleza y estética y panaderías.
+Las obligaciones señaladas en las fracciones IV y V, así como la de levantar inventario de existencias al 31 de diciembre de cada año a que se refiere la fracción VII de este artículo no serán aplicables tratándose de contribuyentes cuya actividad preponderante sea agrícola, ganadera o de pesca, peluquerías, salones de belleza, estéticas, panaderías, así como tratándose de otras actividades que señale la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -2772,13 +2802,15 @@ Quienes obtengan en forma esporádica ingresos de los señalados en este Capítu
 
 Lo dispuesto en este artículo no es aplicable tratándose de enajenación de bienes inmuebles.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 115.
 
-Los contribuyentes menores pagarán el impuesto por los ingresos a que se refiere este Capítulo de conformidad con la estimación de ingresos que al efecto les practiquen las autoridades fiscales y únicamente deberán cumplir con las siguientes obligaciones:
+Las personas físicas que realicen actividades empresariales y no se encuentren en alguno de los supuestos a que se refiere el artículo 115-A de esta Ley, podrán optar por pagar el impuesto que corresponda a dicha actividad, conforme al régimen de contribuyentes menores, siempre que reúnan los siguientes requisitos:
 
-I.- Estar inscritos en el registro federal de contribuyentes.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+I.- Que en el año de calendario anterior hubieran obtenido ingresos de los señalados en este Capítulo, que no hubieren excedido de $11.500,000.00 o de $8.000,000.00, cuando en este último caso el coeficiente de utilidad que corresponda a la actividad preponderante del contribuyente conforme al artículo 62 de esta Ley, sea mayor del 15%.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -2792,13 +2824,25 @@ III.- Expedir comprobantes de sus operaciones.
 
 IV.- Efectuar pagos bimestrales a cuenta del impuesto anual, los cuales deberán hacerse dentro del bimestre al cual correspondan ante las oficinas autorizadas.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-V.- Conservar en el lugar y durante el plazo que señala el Código Fiscal de la Federación, la documentación comprobatoria del cumplimiento de las obligaciones fiscales.
+Se podrán considerar contribuyentes menores por el año en que inicien la realización de actividades empresariales, las personas que manifiesten estimar que en dicho año obtendrán ingresos de los comprendidos en este Capítulo que no excederán de las cantidades señaladas en la fracción I, o bien que las autoridades fiscales les estimen ingresos que no excedan a las cantidades de referencia; cuando en el año citado realicen operaciones por un período menor de doce meses para determinar el monto de ingresos se dividirá el manifestado o estimado entre el número de días que comprenda el período y se multiplicará por 365 días. Dichas personas deberán declarar bajo protesta de decir verdad si obtienen ingresos diversos a los señalados en este capítulo, por los que efectúen la deducción del salario mínimo general que les corresponda.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-VI.- Presentar declaración anual en los términos del último párrafo del artículo 139 de esta Ley.
+Los copropietarios que realicen actividades empresariales y las personas que participen de la utilidad de una asociación en participación, podrán optar por ser contribuyentes menores siempre que la negociación reúna las condiciones señaladas en este artículo y los contribuyentes no realicen otras actividades empresariales.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+Se podrá optar porque las sucesiones sean contribuyentes menores, solamente cuando el autor de la sucesión lo haya sido y ésta se encuentre en los supuestos señalados en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+Quienes anteriormente no reunieron las condiciones para ser contribuyentes menores no podrán optar por considerarse como tales aun cuando posteriomente si la reúnan.
+
+V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)
+
+VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)
 
 > <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2812,91 +2856,83 @@ VI.- Presentar declaración anual en los términos del último párrafo del art�
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 115-A.
 
-Para los efectos del artículo 115 de esta Ley, se entienden por contribuyentes menores a aquellos que no se encuentren en alguno de los supuestos a que se refiere el artículo 115-B de esta Ley y siempre que reúnan los requisitos siguientes:
+No podrán optar por ser contribuyentes menores en los términos del artículo 115 de esta Ley, quienes obtengan la mayor parte de sus ingresos por las siguientes actividades:
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 I.- Que en el año de calendario anterior obtengan ingresos de los señalados en este capítulo, que no excedan de $7,250,000.00 o de $5,000,000.00 cuando en este último caso el coeficiente de utilidad que corresponda a la actividad preponderante del contribuyente conforme al artículo 62 de esta Ley sea mayor de 15%.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
 II.- Que para explotar la negociación no empleen a más de tres personas o que cuando se emplee un número mayor, en conjunto cubran como máximo el equivalente a tres jornadas individuales de 8 horas de trabajo.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 III.- Que la negociación esté establecida en una superficie que no exceda de cincuenta metros cuadrados, cuando el inmueble no sea propiedad del contribuyente o de cien metros cuadrados cuando sea de su propiedad. Lo dispuesto en esta fracción no es aplicable cuando la negociación esté establecida en una población hasta de trescientos mil habitantes.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
 IV.- Que no tengan más de un establecimiento fijo, salvo que estén ubicados en mercados públicos o se trate de puestos semifijos.
 
-Para los efectos de la fracción I de este artículo, únicamente se podrán considerar contribuyentes menores por el año en que inicien la realización de actividades empresariales, las personas que manifiesten considerar que en dicho año obtendrán ingresos de los comprendidos en esta (sic) Capítulo que no excederán de las cantidades señaladas en la fracción I, o bien, que las autoridades fiscales les estimen ingresos que no excedan a las cantidades de referencia; cuando en el año citado realicen operaciones por un período menor de doce meses, para determinar el monto de ingresos se dividirá el manifestado o estimado entre el número de días que comprenda el período y se multiplicará por 365. Dichas personas deberán declarar bajo protesta de decir verdad si obtienen ingresos diversos de los señalados en este Capítulo, por los que efectúen la deducción del salario mínimo general que les corresponda.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-Los copropietarios que realicen actividades empresariales y las personas que participen de la utilidad de una asociación en participación, podrán considerarse contribuyentes menores, siempre que la negociación reúna las condiciones señaladas en este artículo y los contribuyentes no realicen otras actividades empresariales.
+> <small>(DEROGADO ANTEPENULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-Las sucesiones podrán considerarse contribuyentes menores solamente cuando el autor de la sucesión lo haya sido y ésta se encuentre en los supuestos señalados en este artículo.
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-Quienes en el año de calendario anterior no reunieron las condiciones para ser contribuyentes menores, no podrán considerarse como tales, aún cuando en el año de que se trate sí las reúnan, salvo que cumplan con los requisitos que establezca el Reglamento de esta Ley.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 115-B.
 
-No podrán considerarse contribuyentes menores en los términos del artículo 115-A de esta Ley, quienes obtengan la mayor parte de sus ingresos por las siguientes actividades:
+Los contribuyentes que en los términos de esta Ley opten por ser menores, por los ingresos a que se refiere este Capítulo, deberán cumplir con lo siguiente:
 
-I.- La enajenación de:
+I.- Estar inscritos en el Registro Federal de Contribuyentes.
 
-a) Aparatos científicos o fotográficos, incluyendo sus accesorios y componentes.
+II.- Llevar contabilidad simplificada de sus operaciones de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley.
 
-b) Artículos deportivos.
+III.- Expedir comprobante simplificados de sus operaciones los cuales únicamente deberán contener los siguientes requisitos:
 
-c) Maquinaria.
+a).- Nombre, denominación o razón social, domicilio fiscal y clave del registro federal de contribuyentes de quien lo expida.
 
-d) Muebles metálicos, de mimbre, de bambú o ratán, así como equipos para oficina.
+b).- Número de folio, lugar y fecha de expedición.
 
-II.- La prestación de servicios en:
+c).- Importe total de la operación.
 
-a) Laboratorios de análisis clínicos, radiológicos, dentales y de ultrasonido, así como hospitales, clínicas o sanatorios.
+En los casos en los que los contribuyentes utilicen en sus operaciones máquinas registradoras podrán expedir como comprobantes simplificados, la copia de la parte de los registros de auditoría de dichas máquinas en las que aparezca el importe de la operación de que se trata.
 
-b) Boliches, frontones o salones de patinaje.
+IV.- Efectuar pagos bimestrales a cuenta del impuesto anual, los cuales deberán hacerse dentro del bimestre al cual correspondan ante las oficinas autorizadas.
 
-c) Centros nocturnos o salones de baile, a excepción de los que únicamente operen una o dos veces por semana.
+V.- Conservar en el lugar y durante el plazo que señala el Código Fiscal de la Federación, la documentación comprobatoria del cumplimiento de las obligaciones fiscales.
 
-d) Agencias de viajes, hoteles, moteles o balnearios, a excepción de casas de huéspedes.
+VI.- Presentar declaración anual en los términos del último párrafo del artículo 139 de esta Ley.
 
-Tampoco podrán ser considerados contribuyentes menores las personas que realicen actividades empresariales consistentes en: producción y venta de pan; espectáculos públicos con establecimiento fijo; arrendamiento de vehículos el autotransporte de carga; o la construcción, enajenación u otorgamiento del uso o goce temporal, de inmuebles: distribución autorizada de llantas nuevas, de cemento o varilla, así como los que se dediquen en establecimiento fijo a la comercialización de vehículos.
-
-III.- Quienes en el año de calendario anterior obtuvieron más de 25% de los ingresos a que se refiere este Capítulo por concepto de comisión, mediación, agencia, representación, correduría, consignación, distribución u otorgamiento del uso o goce temporal de bienes muebles.
-
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ANTES ARTICULO 115-A], D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 115-C.
 
-Las personas físicas que sean contribuyentes menores en los términos del artículo 115-A de esta Ley, cuando dejen de estar en los supuestos señalados en dicho artículo para ser considerados como tales, para los efectos del ejercicio de las facultades de comprobación y determinación y cobro de contribuciones omitidas, se seguirán considerando como contribuyentes menores durante el año en que dejen de estar en los supuestos señalados y el siguiente. Por el año en que dejaron de ser contribuyentes menores cumplirán con sus obligaciones fiscales conforme al artículo 115 de esta Ley y ante las mismas autoridades fiscales: a partir del siguiente año cumplirán con todas las obligaciones señaladas en el artículo 112 de esta Ley, con las siguientes modalidades:
+Los contribuyentes que en los términos de esta Ley opten por ser menores podrán cambiar su opción en cuyo caso deberán presentar aviso ante la autoridad de la Federación que deba recaudar el impuesto establecido en esta Ley y que corresponda a su domicilio, así como ante la autoridad de la entidad federativa respectiva, dentro del bimestre en el cual cambie su opción.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Se considerará que se cambia la opción en los términos del párrafo anterior, cuando los contribuyentes expidan comprobantes de sus operaciones que además de los requisitos señalados en los incisos a), b) y c) de la fracción III del artículo 115-B de esta Ley, contengan el nombre, denominación o razón social y domicilio de la persona a favor de quien se expidan o trasladen en dichos comprobantes el impuesto al valor agregado en forma expresa y por separado del precio, o señalen cantidad y clase de mercancías o descripción del servicio que amparen, número y fecha del documento aduanero así como aduana por la cual se realizó la importación, tratándose de ventas de primera mano de mercancías de importación.
 
-I.- Continuarán pagando el impuesto mediante estimación actualizada conforme a los ingresos reales ante las mismas autoridades fiscales, durante el año inmediato posterior a aquél en que dejaron de ser contribuyentes menores, debiendo prestar la declaración anual a que se refiere el último párrafo del artículo 139 de esta Ley.
+Los contribuyentes que los términos de los párrafos anteriores cambien su opción o bien dejen de estar en los supuestos establecidos por esta Ley para optar por ser menores, por el año de calendario en que ello ocurra, cumplirán con las obligaciones a que se refiere el artículo 112 de la misma. En el caso de que hubieran efectuado pagos provisionales de este impuesto conforme a estimativa, los mismos se acreditarán contra el pago definitivo que les corresponda pagar conforme al régimen general de Ley.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Los contribuyentes que dejen de ser menores sin que medie el ejercicio de las facultades de comprobación de las autoridades fiscales, podrán deducir sus inversiones en el primer año en que paguen su impuesto conforme el régimen general de la Ley, considerando el valor de mercado que tengan los bienes a partir del 1o. de enero de dicho año, e iniciarán su deducción a partir del mismo año; cuando los contribuyentes mencionados en este párrafo aporten los bienes a una sociedad mercantil, no estarán obligados a pagar el impuesto que resulte de su enajenación.
 
-II.- Llevarán contabilidad simplificada de sus operaciones de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, durante los dos años siguientes a aquél en que dejaron de ser contribuyentes menores.
+Conjuntamente con la declaración anual que presenten por el primer año de calendario en que tributen conforme al régimen general de la Ley, deberán presentar un aviso en el que informen sobre el monto de enajenación de los bienes a que se refiere el párrafo anterior y el valor de mercado que tengan dichos bienes al 1o. de enero del año citado.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+Se entenderá que no ha mediado el ejercicio de las facultades de comprobación de las autoridades fiscales cuando el aviso haya sido presentado antes de que dichas autoridades efectúen requerimiento, visita, excitativa o cualesquier otra gestión tendiente a comprobar la situación fiscal del contribuyente.
 
-III.- No estarán obligados a cumplir con lo dispuesto en las fracciones II, IV, V y VII del referido artículo 112, durante el periodo señalado en la fracción anterior; tampoco cumplirán con lo señalado en su fracción VIII, por el año a que se refiere la fracción I de este artículo.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Las personas a que se refiere este artículo, que dejen de ser contribuyentes menores sin que medie el ejercicio de las facultades de comprobación de las autoridades fiscales, podrán deducir sus inversiones a partir del segundo año a aquél en que dejaron de ser contribuyentes menores, considerando el valor de mercado que tengan los bienes en ese año e iniciando su deducción a partir del mismo; cuando los contribuyentes mencionados en este párrafo aporten los bienes a una sociedad mercantil, no estarán obligados a pagar el impuesto que resulte de su enajenación; en ambos casos los contribuyentes deberán presentar un aviso informando el monto de sus ingresos y el valor de los bienes. Se entenderá que no ha mediado el ejercicio de las facultades de comprobación de las autoridades fiscales, cuando el aviso haya sido presentado antes de que dichas autoridades efectúen requerimiento, visita, excitativa o cualesquier otra gestión tendiente a comprobar la situación fiscal del contribuyente.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
-
-Para los efectos de los pagos provisionales que estos contribuyentes deben efectuar durante el segundo año posterior a aquel en que dejaron de ser contribuyentes menores, se deberá enterar como pago provisional cuatrimestral una cantidad igual al doble del último pago efectuado mediante estimación, siempre que las autoridades fiscales no les efectúen nueva estimación.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 116.
 
-Para estimar los ingresos de los contribuyentes menores, las autoridades fiscales tomarán en cuenta:
+Las autoridades fiscales podrán estimar los ingresos de los contribuyentes menores, para lo cual tomarán en cuenta:
 
 Importe de compras efectuadas; inventarios de mercancías, de maquinaria y equipo; monto de la renta del local en que estén establecidos los negocios; número de trabajadores que tengan a su servicio y sueldos de que disfruten; pagos de cuotas al Instituto Mexicano del Seguro Social; impuesto pagados a la Federación, Distrito Federal, Estados o Municipio; cantidades que hayan cubierto por concepto de energía eléctrica y teléfonos; retiros en efectivo y en especie efectuados por el propietario del negocio para la atención de sus necesidades personales y de su familia; zona comercial en que se encuentre ubicado el negocio; informaciones recabadas de terceros y en general, todos los elementos de juicio que puedan utilizarse para la estimación de los ingresos por actividades empresariales.
 
@@ -2912,13 +2948,13 @@ Para los efectos del párrafo anterior, se podrá reducir los coeficientes de ut
 
 Las autoridades fiscales podrán modificar el monto del impuesto estimado a pagar por el contribuyente, aplicándole a los ingresos estimados del año de calendario anterior, el factor que en su caso señale anualmente el Congreso de la Unión.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 117.
 
-La estimación hecha por las autoridades fiscales se mantendrá indefinidamente hasta que las propias autoridades formulen una nueva.
+La estimación hecha por las autoridades fiscales para un determinado año de calendario, se entenderá que se continúa para el siguiente, sin perjuicio de la obligación que tienen los contribuyentes de presentar declaración o manifestar los incrementos en sus ingresos en los términos de esta Ley, así como de lo dispuesto en el último párrafo del artículo anterior.
 
-Cuando de las comprobaciones que lleven a cabo las autoridades fiscales aparezca que el total de ingresos percibidos por el contribuyente por actividades empresariales es superior en más de un 20% de los ingresos estimados o manifestados, el monto del impuesto estimado quedará sin efecto y el contribuyente estará obligado a pagar las diferencias que procedan más los recargos de ley y sanciones correspondientes; si el contribuyente solicita espontáneamente a las autoridades fiscales la ratificación de la estimación, pagará el impuesto que corresponda a partir del bimestre en que haya solicitado la rectificación, quedando librado de pagar las diferencias correspondientes a bimestres anteriores.
+Cuando de las comprobaciones que lleven a cabo las autoridades fiscales aparezca que el total de ingresos percibidos por el contribuyente por actividades empresariales es superior en más de un 20% a los ingresos estimados o manifestados, el monto del impuesto estimado quedará sin efecto y el contribuyente estará obligado a pagar las diferencias que procedan más los recargos y sanciones correspondientes. Si el contribuyente solicita espontáneamente a las autoridades fiscales la rectificación de la estimación y ésta resulta superior en más del 20% mencionado pagará el impuesto que proceda más los recargos correspondientes, salvo cuando en la rectificación el contribuyente no rebase los límites de ingresos señalados en la fracción I del artículo 115 de esta Ley, en cuyo caso quedará liberado de pagar las diferencias correspondientes a bimestres anteriores.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -3110,9 +3146,9 @@ IV.- Acompañar a su declaración anual, la constancia a que se refiere la fracc
 
 Se consideran ingresos por intereses para los efectos de este Capítulo, los obtenidos de personas residentes en el país, por los conceptos siguientes:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-I.- Los provenientes de toda clase de bonos, obligaciones, cédulas hipotecarias, certificados de participación inmobiliaria amortizables y certificados de participación ordinarios, salvo lo dispuesto en el último párrafo de este artículo, siempre que sean de los que se coloquen entre el gran público inversionista, conforme a la reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
+I.- Los provenientes de toda clase de bonos u obligaciones, incluyendo descuentos, primas y premios asimilados a los rendimientos de tales bonos u obligaciones, cédulas hipotecarias, certificados de participación inmobiliarios, certificados amortizables y certificados de participación ordinarios, salvo lo dispuesto en el último párrafo de este artículo, siempre que sean de los que se colocan entre el gran público inversionista, conforme a las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -3121,6 +3157,10 @@ II.- Los percibidos con motivo de certificados, aceptaciones, títulos de crédi
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 III.- Los obtenidos por la ganancia en la enajenación, así como los premios y primas, con motivo de bonos, valores y otros títulos de crédito, siempre que sean de los que se coloquen entre el gran público inversionista, conforme a las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público. No se considerarán como ingresos por intereses la ganancia que derive de la enajenación de títulos de crédito cuyo plazo de vigencia sea superior a seis meses.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+También se considerará como interés la ganancia cambiaria que resulte por la fluctuación de moneda extranjera incluyendo la correspondiente al principal, en el ejercicio en que se devengue, tratándose de operaciones efectuadas en moneda extranjera pagaderas en moneda nacional, que en los términos de este artículo originen el pago de intereses.
 
 Cuando los ingresos provenientes de certificados de participación ordinarios no sean intereses, se estará a lo dispuesto en los demás Capítulo de este Título.
 
@@ -3298,9 +3338,9 @@ II.- Que cuando esta Ley permita la deducción de inversiones se proceda en los 
 
 III.- Que se resten una sola vez, aún cuando estén relacionadas con la obtención de diversos ingresos.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-IV.- Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales y que tratándose de contribuyentes que en el año de calendario inmediato anterior hubieran obtenido ingresos acumulables superiores a cien millones de pesos, efectúen mediante cheque nominativo del contribuyente, los pagos en dinero cuyo monto exceda de dos veces el salario mínimo general de su zona económica vigente el 1o. de enero del año de que se trate, elevado al mes, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere esta fracción, cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zona rurales.
+IV.- Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales relativos a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que en el caso de contribuyentes que en el año de calendario inmediato anterior hubieran obtenido ingresos acumulables superiores a cien millones de pesos efectúen mediante cheque nominativo del contribuyente, los pagos en dinero cuyo monto exceda de dos veces el salario mínimo general de su zona económica vigente el 1o. de enero del año de que se trate, elevado al mes, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere esta fracción, cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
 
 V.- Que estén debidamente registradas en contabilidad tratándose de personas obligadas a llevarla.
 
@@ -3336,9 +3376,9 @@ La pérdida podrá deducirse a elección del contribuyente, en el año de calend
 
 La pérdida no podrá deducirse en el año de calendario en que se sufra cuando resulte con motivo del cumplimiento anticipado de deudas concertadas originalmente a determinado plazo, o cuando por cualquier medio se reduzca este o se aumente el monto de los pagos parciales. En este caso, la pérdida se deducirá tomando en cuenta las fechas en las que debió cumplirse la deuda en los plazos y montos originalmente convenidos.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-XVIII.- Que tratándose de pagos por el uso o goce temporal de automóviles cuyo factor exceda de 9.00 en los términos del artículo 6o. de la Ley del Impuesto sobre Tenencia o Uso de Vehículos o motocicletas distintas de las señaladas en la fracción I del artículo 15 de la citada Ley, sólo se deduzca el 70% de los mismos.
+XVIII.- Que tratándose de pagos por el uso o goce temporal de automóviles cuyo factor excede de 9.0 en los términos del artículo 5o. de la Ley del Impuesto sobre Automóviles Nuevos, o motocicletas distintas de las señaladas en la fracción I del artículo 15 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, sólo se deduzca el 70% de los mismos.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -3472,7 +3512,7 @@ Los requisitos de las deducciones establecidas en el Capítulo XI de este Títul
 
 Las personas físicas calcularán su impuesto anual sumando, después de efectuar las deducciones autorizadas por este Título, todos sus ingresos, salvo aquéllos por los que no se esté obligado al pago del impuesto y por los que ya se pagó impuesto definitivo. Al resultado se le aplicará la siguiente:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 TARIFA
 
@@ -3888,21 +3928,21 @@ Las inversiones a que se refiere el párrafo anterior no podrán efectuarse en m
 
 Los activos fijos o las acciones nominativas y partes sociales que den lugar al goce del estímulo fiscal a que se refiere este artículo, deberán permanecer durante cinco años en propiedad del contribuyente; en caso contrario deberá pagar la diferencia de impuestos y recargos correspondientes.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 165.
 
-Los contribuyentes a que se refiere el Título IV de esta Ley que efectúen depósitos en las cuentas personales especiales para el ahorro que al efecto autorice la Secretaría de Hacienda y Crédito Público, podrán restar el importe de los mismos únicamente en la declaración del año de calendario en que se efectuaron dichos depósitos, de la cantidad a la que se le aplicaría, de no hacer esta reducción, la tarifa del artículo 141 de esta Ley.
+Los contribuyentes a que se refiere el Título IV de esta Ley, que efectúen depósitos en las cuentas personales especiales para el ahorro o bien realicen pagos de primas de contratos de seguros que tengan como base planes de pensiones relacionados con la edad, jubilación o retiro que al efecto autorice la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general, podrán restar el importe de los mismos únicamente en la declaración del año de calendario en que se efectuaron los depósitos o pagos de referencia, de la cantidad a la que se le aplicaría, de no hacer la reducción respectiva, la tarifa del articulo 141 de esta Ley.
 
-Los depósitos a que se refiere el párrafo anterior, en el año de calendario de que se trate, no podrán exceder de dos veces el salario mínimo general de la zona económica del Distrito Federal elevado al año, salvo que el contribuyente enajene su casa habitación y siempre que la haya habitado cuando menos los dos últimos años anteriores a la enajenación, caso en el que podrá depositar además hasta el importe de la enajenación percibido en el año de que se trate, que no haya invertido conforme a lo previsto en el inciso b) de la fracción XV del artículo 77 de esta Ley.
+Los depósitos o pagos a que se refiere el párrafo anterior, en el año de calendario de que se trate, no podrán exceder por ambos conceptos del equivalente a dos veces el salario mínimo general de la zona económica del Distrito Federal, elevado al año, excepto tratándose de cuentas especiales para el ahorro, cuando el contribuyente enajene su casa habitación y siempre que la haya habitado cuando menos los dos últimos años anteriores a la enajenación, caso en el que podrá depositar además hasta el importe de la enajenación percibido en el año de que se trate, que no haya invertido conforme a lo prevista en el inciso b) de la fracción XV del artículo 77 de esta Ley.
 
-Las cantidades que se depositen en las cuentas personales, a que se refiere este artículo, así como los intereses que las mismas generen, deberán considerarse como ingresos acumulables del contribuyente en la declaración correspondiente al año de calendario en que sean retirados de las mencionadas cuentas. En ningún caso la tasa de impuestos aplicable a los retiros, será mayor que la tasa del impuesto, que hubiera correspondido al contribuyente en el año en que efectuó los depósitos, de no haberlos realizado.
+Las cantidades que se depositen en las cuentas personales, o se paguen por los contratos de seguro, a que se refiere este artículo, así como los intereses, reservas, sumas o cualquier cantidad que obtengan por concepto de dividendos, indemnizaciones o préstamos que deriven de las cuentas o de los contratos de seguros respectivos, deberán considerarse como ingresos acumulables del contribuyente en la declaración correspondiente al año de calendario en que sean recibidos o retirados de las cuentas especiales o del contrato de seguro de que se trate. En ningún caso la tasa aplicable a las cantidades acumulables en los términos de este párrafo, será mayor que la tasa de impuesto que hubiera correspondido al contribuyente en el año en que efectuó los depósitos o pagos de las primas, de no haberlos realizado.
 
-En los casos de fallecimiento de titular de la cuenta personal especial para el ahorro a que se refiere este artículo, el beneficiario designado no estará obligado a acumular a sus ingresos, los retiros que efectúe de la citada cuenta.
+En los casos de fallecimiento del titular de la cuenta personal especial para el ahorro o del asegurado, a que se refieren este artículo, el beneficiario designado no estará obligado a acumular a sus ingresos, los retiros que efectúe de la cuenta o contrato, según sea el caso.
 
-> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
+Las instituciones de seguro que efectúen pagos en virtud de contratos de seguro de los señalados en este artículo, deberán retener por concepto de pago provisional el 55% de las cantidades respectivas.
 
-Las personas que hubieran contraído matrimonio bajo régimen de sociedad conyugal, podrán considerar la cuenta como de ambos cónyuges en la proporción que les corresponda, o bien de uno solo de ellos, en cuyo caso los depósitos y retiros se considerarán en su totalidad de dicha persona. Esta opción se deberá ejercer para cada cuenta al momento de su apertura y no podrá variarse.
+Las personas que hubieran contraído matrimonio bajo régimen de sociedad conyugal, podrán considerar la cuenta especial a que se refiere este artículo, como de ambos cónyuges en la proporción que les corresponda, o bien de uno solo de ellos, en cuyo caso los depósitos y retiros se considerarán en su totalidad de dicha persona. Esta opción se deberá ejercer para cada cuenta al momento de su apertura y no podrá variarse.
 
 ###### ARTICULO 10.
 
@@ -5709,6 +5749,282 @@ IV.- El procedimiento ESTABLECIDO en el artículo 12 de la Ley vigente a partir 
 > <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
 
 Tratándose del ejercicio de iniciación de operaciones que hubiera comenzado durante el año de 1985 y termine durante el año de 1986, excepto en los casos a que se refiere el artículo 161 de la Ley, se deberán efectuar por los cuatrimestres o trimestres comprendidos parcial o totalmente en el año de 1986.
+
+D.O.F. 31 DE DICIEMBRE DE 1985.
+
+Disposiciones Transitorias
+
+###### ARTICULO OCTAVO.
+
+Para la aplicación de los artículos de la Ley del Impuesto sobre la Renta que se reforman conforme a lo establecido por el artículo anterior, se estará a las siguientes disposiciones transitorias:
+
+I.- Los contribuyentes del impuesto sobre la renta cuyo ejercicio fiscal haya terminado a más tardar en el mes de noviembre de 1985, deberán acompañar a su declaración de dicho ejercicio, las declaraciones del impuesto al valor agregado y del impuesto especial sobre producción y servicios que, en su caso, presenten por el mismo ejercicio.
+
+II.- Quienes durante 1985 fueron contribuyentes menores y están en posibilidad de optar por dicho régimen en el año de 1986, se entenderá que ejercen la opción, siempre que paguen el primer bimestre como tales, y en los comprobantes que expidan no incluyan alguno de los requisitos a que se refiere el segundo párrafo del artículo 115-C de la Ley del Impuesto sobre la Renta.
+
+III.- La reforma al artículo 115-C, entrará en Vigor el 1o. de marzo de 1986.
+
+Disposiciones de Vigencia Anual.
+
+###### ARTICULO NOVENO.
+
+Durante el año de 1986 se aplicarán en materia del impuesto sobre la renta las siguientes disposiciones:
+
+I.- Los contribuyentes que durante el año de 1986 obtengan certificados de promoción fiscal, podrán determinar su utilidad o pérdida fiscal ajustadas del ejercicio, restándole a la utilidad fiscal además de los conceptos que establece la fracción I del artículo 10 o el primer párrafo del artículo 109 de la Ley, según sea el caso, el importe de los certificados de promoción fiscal que se hubieran obtenido en el ejercicio, o bien, sumándole a la pérdida fiscal el importe de dichos certificados de promoción fiscal y la deducción adicional establecida en el artículo 51 de la misma.
+
+Para el cálculo de los pagos provisionales a que se refieren los artículos 12 y 111 de la Ley, los contribuyentes a que se refiere el párrafo anterior deberán determinar el factor de utilidad fiscal ajustada, disminuyendo de los ingresos señalados en los artículos 12 fracción I y 111 fracción I de la Ley, además de los conceptos señalados en dichas disposiciones, el importe de los certificados de promoción fiscal obtenidos en el mismo ejercicio. Asimismo, para los efectos de lo dispuesto en los artículos 12 fracción II y 111
+
+fracción II de la propia Ley, se restara también el importe de los mencionados certificados de los ingresos señalados en dichas fracciones.
+
+II.- Las sociedades nacionales de crédito por los intereses que paguen a los contribuyentes del Título II de la Ley del Impuesto sobre la Renta, correspondientes a títulos de crédito que sean de los que se colocan entre el gran público inversionista conforme a las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público, deberán retener el impuesto que les correspondería si los pagaran a contribuyentes personas físicas.
+
+Los contribuyentes del Título II de la Ley mencionada, podrán acreditar contra el impuesto que les corresponda pagar, el monto de la retención que les hubiera sido efectuada en los términos de esta fracción.
+
+III.- Para los efectos de la fracción XIX del artículo 77 de la Ley, en el año de 1986, la tasa de interés será del 20%.
+
+IV.- El factor a que se refieren los artículos 116 de la Ley del Impuesto sobre la Renta y 37 de la Ley del Impuesto al Valor Agregado será de 1.70 para el año de 1986.
+
+V.- Para los efectos del artículo 126, fracción I de la Ley, por el ejercicio fiscal de 1986, se establece la cantidad de $2.100,000.00.
+
+VI.- Los contribuyentes a que se refiere el artículo 163 de la Ley de la materia, por los bienes a que se refiere dicho artículo que adquieran durante el año de 1986, incluyendo el mobiliario y el equipo de oficina nuevo de fabricación nacional, así como bienes para el transporte, para efectuar su deducción en vez de aplicar los porcientos a que se refieren las fracciones I y II de dicho artículo, en el primer ejercicio en que se deduzca la inversión, solamente podrán deducir el 25% de su monto original cualquiera que sea la zona del territorio nacional o la rama de actividades donde se realice la actividad empresarial de que se trate.
+
+VII.- Los contribuyentes que conforme a esta fracción se consideren pequeñas o medianas empresas que realicen actividades agrícolas, ganaderas o de pesca, durante el ejercicio de 1986, continuarán pagando el impuesto sobre la renta en los términos en que lo hubieran efectuado durante el ejercicio de 1985.
+
+Para los efectos de esta fracción, en ningún caso las sociedades mercantiles que realicen actividades agrícolas, ganaderas o de pesca, se considerarán pequeñas o medianas empresas.
+
+Tratándose de personas físicas que se dediquen a las actividades mencionadas en esta fracción, se considerarán pequeñas o medianas empresas, cuando se encuentren en alguno de los siguientes supuestos:
+
+a).- Las que se dediquen a la agricultura o a la ganadería bovina, cuando la totalidad de ingresos obtenidos en el ejercicio de 1985, hubieran provenido exclusivamente de las actividades señaladas en esta fracción y no excedan de 400 veces la cuota diaria del salario mínimo general correspondiente al Distrito Federal el 1o. de enero de 1986, multiplicado por 365.
+
+b).- Los contribuyentes que se dediquen a la pesca o a la ganadería distinta de la mencionada en el inciso anterior, cuando los ingresos obtenidos en el ejercicio de 1985, no excedan de 200 veces la cuota diaria del salario mínimo general correspondiente al Distrito Federal al 1o. de enero de 1986, multiplicado por 365.
+
+c).- En el caso de contribuyentes que se dediquen a actividades avícolas, cuando sus instalaciones les permitan tener en explotación permanente durante el año de 1986, hasta 100,000 aves. En el caso de contribuyentes que realicen actividades porcícolas, cuando sus instalaciones les permitan tener una producción permanente que en el citado año no rebase la cantidad de 5,000 cerdos.
+
+Los contribuyentes personas físicas que durante 1986 inicien actividades de las señaladas en esta fracción, podrán optar por pagar el impuesto conforme a las bases especiales de tributación que al efecto establezca la Secretaría de Hacienda y Crédito Público, cuando estimen que se encontrarán en alguno de los supuestos establecidos en los incisos que anteceden. Si al finalizar el ejercicio, no se encuentran en los supuestos establecidos en los incisos a), b) y c) de esta fracción, para ser considerados pequeñas o medianas empresas, deberán pagar el impuesto sobre la renta conforme al régimen general de Ley, acreditando contra el impuesto del ejercicio los pagos que hubieran efectuado bajo el régimen de bases especiales.
+
+Las contribuyentes a que se refiere esta fracción deberán llevar contabilidad simplificada de sus operaciones en los términos del Código Fiscal de la Federación y su reglamento, salvo que realicen otras actividades por las que conforme a las disposiciones fiscales deban llevar contabilidad conforme a lo previsto por el artículo 28 del citado Código.
+
+Para los efectos de esta fracción, tratándose de copropiedades o de sociedad conyugal, se considerarán pequeñas o medianas empresas cuando la totalidad de ingresos de sus integrantes, la capacidad instalada o producción en conjunto de los mismos, no exceda los límites señalados anteriormente.
+
+VIII.- Los contribuyentes que se dediquen a la aerofumigación agrícola, por el ejercicio de 1986, podrán optar por determinar su utilidad fiscal correspondiente a dicha actividad, en los términos previstos en el artículo Trigésimo Segundo Transitorio de la Ley que Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales y que Modifica el Decreto de Carácter Mercantil, publicada en el Diario Oficial de la Federación el día 30 de diciembre de 1983; excepto por lo que se refiere a la deducción por concepto de inversiones en equipo, adquiridas en los años de 1982 o 1983, las cuales se podrán deducir de acuerdo con la siguiente:
+
+TABLA
+
+Año de Adquisición
+
+del bien Factor aplicable
+
+1982 2.28
+
+1983 1.15
+
+No podrá efectuarse deducción alguna por concepto de inversiones en equipo adquirido antes del 1o. de enero de 1982.
+
+Los contribuyentes a que se refiere esta fracción podrán llevar contabilidad simplificada en los términos del Código Fiscal de la Federación y su reglamento y pagarán el impuesto mediante declaración que presentarán durante el mes de marzo de 1987 referida al año de 1986.
+
+IX.- Los contribuyentes que se dediquen al autotransporte, por el ejercicio de 1986, podrán optar por pagar el impuesto sobre la renta conforme a las bases especiales de tributación fijadas por unidad por la Secretaría de Hacienda y Crédito Público.
+
+Las cuotas que determine la propia Secretaría serán publicadas en el Diario oficial de la Federación y se pagarán en tres partes iguales mediante declaraciones que presentarán los contribuyentes ante las oficinas autorizadas durante los meses de mayo, septiembre y enero del siguiente año. Las cuotas que fije la mencionada Secretaría para el ejercicio de 1986, se incrementarán en un 60% a las establecidas por unidad para el ejercicio de 1985.
+
+No podrán tributar conforme a las bases especiales de tributación a que se refiere esta fracción, los permisionarios y concesionarios de transporte de carga en los siguientes casos:
+
+a).- Cuando realicen otras actividades empresariales y se presten a sí mismos el servicio de transporte de carga.
+
+b).- Las sociedades que presten servicios de transporte de carga a alguno de sus socios o a otra sociedad de la que sea accionista la prestadora del servicio o alguno de sus propios socios.
+
+c).- Cuando el ingreso obtenido por otras actividades empresariales sea mayor que el percibido por el servicio de autotransporte.
+
+X.- Se autoriza a la Secretaría de Hacienda y Crédito Público además de lo previsto en la fracción anterior, para que en el año de 1986, mediante reglas generales, establezca bases en materia del impuesto sobre la renta para determinar la utilidad fiscal de los contribuyentes que se dediquen a las siguientes actividades:
+
+1.- Introducción de ganado, aves, pescado y mariscos.
+
+2.- Comisionistas en ganadería y pieles en crudo.
+
+3.- Cooperativistas dedicados a la captura de camarón.
+
+4.- Expendedores de revistas y periódicos.
+
+5.- Expendedores de billetes de lotería.
+
+6.- De agencias de Pronósticos para la Asistencia Pública.
+
+7.- De molinos de nixtamal.
+
+8.- Elaboración y venta de tortillas.
+
+9.- Porteadores de equipaje.
+
+10.- Músicos y trovadores ambulantes.
+
+11.- Fotógrafos ambulantes.
+
+12.- Vendedores ambulantes de billetes de lotería.
+
+13.- Servicio público de pasajeros, denominado servicio de taxi.
+
+XI.- Para los efectos del artículo 51 de la Ley del impuesto sobre la Renta, para las declaraciones que deban presentarse durante el año de 1986 se aplicarán los siguientes factores:
+
+a).- Para la fracción I del citado precepto:
+
+1) Por el año de calendario de 1972 0.05
+
+2) Por el año de calendario de 1973 0.12
+
+3) Por el año de calendario de 1974 0.24
+
+4) Por el año de calendario de 1975 0.15
+
+5) Por el año de calendario de 1976 0.16
+
+6) Por el año de calendario de 1977 0.29
+
+7) Por el año de calendario de 1978 0.18
+
+8) Por el año de calendario de 1979 0.18
+
+9) Por el año de calendario de 1980 0.26
+
+10) Por el año de calendario de 1981 0.28
+
+11) Por el año de calendario de 1982 0.59
+
+12) Por el año de calendario de 1983 1.02
+
+13) Por el año de calendario de 1984 0.59
+
+14) Por el año de calendario de 1985 0.60
+
+b).- Para las fracciones II, III y IV 0.60
+
+XII.- Cuando la Ley autorice el ajuste del costo comprobado de adquisición y en su caso el importe de las inversiones hechas en construcciones, mejoras y ampliaciones en inmuebles, se aplicará la siguiente:
+
+TABLA DE AJUSTE
+
+Cuando el tiempo El factor
+
+transcurrido sea correspondiente será
+
+Hasta 1 año 1.00
+
+Más de 1 año hasta 2 años 1.60
+
+Más de 2 años hasta 3 años 2.54
+
+Más de 3 años hasta 4 años 4.60
+
+Más de 4 años hasta 5 años 9.14
+
+Más de 5 años hasta 6 años 11.77
+
+Más de 6 años hasta 7 años 15.28
+
+Más de 7 años hasta 8 años 18.34
+
+Más de 8 años hasta 9 años 21.31
+
+Más de 9 años hasta 10 años 25.71
+
+Más de 10 años hasta 11 años 32.70
+
+Más de 11 años hasta 12 años 36.39
+
+Más de 12 años hasta 13 años 43.89
+
+Más de 13 años hasta 14 años 53.26
+
+Más de 14 años hasta 15 años 56.23
+
+Más de 15 años hasta 16 años 59.02
+
+Más de 16 años hasta 17 años 61.73
+
+Más de 17 años hasta 18 años 65.57
+
+Más de 18 años hasta 19 años 67.23
+
+Más de 19 años hasta 20 años 69.20
+
+Más de 20 años hasta 21 años 72.70
+
+Más de 21 años hasta 22 años 74.52
+
+Mas de 22 años hasta 23 años 79.15
+
+Más de 23 años hasta 24 años 82.42
+
+Más de 24 años hasta 25 años 85.28
+
+Más de 25 años hasta 26 años 89.02
+
+Más de 26 años hasta 27 años 93.40
+
+Más de 27 años hasta 28 años 98.24
+
+Más de 28 años hasta 29 años 104.09
+
+Más de 29 años hasta 30 años 112.18
+
+Más de 30 años hasta 31 años 121.03
+
+Más de 31 años hasta 32 años 135.22
+
+Más de 32 años hasta 33 años 150.58
+
+Más de 33 años hasta 34 años 150.04
+
+Más de 34 años hasta 35 años 164.40
+
+Más de 35 años hasta 36 años 193.96
+
+Más de 36 años hasta 37 años 201.09
+
+Más de 37 años hasta 38 años 205.70
+
+Más de 38 años hasta 39 años 206.50
+
+Más de 39 años hasta 40 años 222.92
+
+Más de 40 años hasta 41 años 294.03
+
+Más de 41 años hasta 42 años 306.08
+
+Más de 42 años hasta 43 años 421.14
+
+Más de 43 años hasta 44 años 490.96
+
+Más de 44 años hasta 45 años 535.59
+
+Más de 45 años hasta 46 años 539.23
+
+Más de 46 años hasta 47 años 566.95
+
+Más de 47 años hasta 48 años 579.93
+
+Más de 48 años hasta 49 años 608.87
+
+Más de 49 años en adelante 760.54
+
+XIII.- Las disposiciones de la Ley del Impuesto sobre la Renta, que se reforman y adicionan conforme al artículo Décimo de la Ley que Establece, Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1984, en vez de iniciar su vigencia a partir del 1o. de enero de 1986, estarán vigentes a partir del 1o. de enero de 1987.
+
+Asimismo se dispone que quedarán derogados a partir del 1o. de enero de 1987, los preceptos de la mencionada Ley del Impuesto sobre la Renta que, de conformidad con el citado ARTICULO DECIMO, habrían de quedar derogados a partir del 1o. de enero de 1986.
+
+XIV.- Para los efectos de la fracción IX del artículo 22 de la Ley, no serán deducibles en los ejercicios que se inicien en los años de 1985 y 1986, los dividendos o utilidades distribuidos en efectivo o en bienes incluyendo los reembolsos generados por revaluación, de activos y de su capital o de otros conceptos que reflejen el efecto de la inflación en los estados financieros de la sociedad.
+
+XV.- Quienes efectúen en el año de 1986 pagos a personas físicas por concepto de reembolso de dividendos o utilidades distribuidos mediante la entrega de acciones o parte sociales de la misma sociedad o los que se reinvirtieron dentro de los 30 días siguientes a su distribución en la suscripción o pago de aumento de capital en la misma sociedad, deberán realizar las retenciones siguientes sin deducción alguna;
+
+a).- El 15% tratándose de las capitalizadas o reinvertidas antes del 1o. de enero de 1973.
+
+b).- El 21% cuando su capitalización o reinversión se haya realizado entre el 1o. de enero de 1973 y el 31 de diciembre de 1982.
+
+c).- El 55% tratándose de las capitalizadas o reinvertidas con posterioridad al 31 de diciembre de 1982. En este caso, el ingreso percibido será acumulable en los términos del artículo 120 de la Ley, y el impuesto retenido se acreditará contra el impuesto determinado en la declaración anual del contribuyente, salvo que se trate de los supuestos a que se refiere el artículo 122 de la Ley, vigente hasta el 31 de diciembre de 1986, en los que el impuesto retenido se considerará como pago definitivo.
+
+No serán deducibles los dividendos a que se refiere esta fracción, excepto los señalados en el inciso c).
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1986.
 
 ###### ARTICULO 69.
 
