@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1939-05-27"
+last_updated: "1940-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 1939.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1940.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -683,17 +683,17 @@ El Secretario General, mientras funcione con este carácter, no podrá ejercer l
 
 Del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1939)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1940)</small>
 
 ###### Artículo 67.
 
-El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Tribunal para Menores, Jueces Menores y demás Autoridades que designe la Ley Orgánica del Poder Judicial.
+El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Tribunal para Menores y demás Autoridades que designe la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1940)</small>
 
 ###### Artículo 68.
 
-El Supremo Tribunal de Justicia se compone de dos Magistrados Propietarios, un Supernumerario y dos Suplentes de los primeros.
+El Supremo Tribunal de Justicia se compone de un Magistrado Propietario, un Supernumerario y un Suplente del primero.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
@@ -719,17 +719,17 @@ V.- Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 Los magistrados del Supremo Tribunal de Justicia, serán nombrados por la Legislatura en funciones de Colegio Electoral y por mayoría de votos. La elección se hará en escrutinio secreto y en caso de empate, se repetirá la votación hasta que se obtenga la mayoría indicada.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1940)</small>
 
 ###### Artículo 71.
 
-Los Jueces de Primera Instancia y los Menores, serán nombrados por el Supremo Tribunal de Justicia y tendrán los requisitos que fije el artículo 69 de esta Constitución, a excepción del título de Abogado para los Jueces Menores, que será dispensado cuando las circunstancias lo requieran.
+Los Jueces de Primera Instancia y demás autoridades que designe la Ley Orgánica del Poder Judicial, serán nombrados por el Supremo Tribunal de Justicia y tendrán, estas últimas los requisitos que fija el artículo 69 de esta Constitución, a excepción del Título de Abogado que será dispensado cuando las circunstancias lo requieran.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1940)</small>
 
 ###### Artículo 72.
 
-Los Presidentes de las Juntas Municipales y los Comisarios, serán nombrados conforme a lo dispuesto en el Título VII de esta Constitución.
+Los Presidentes de las Juntas Municipales y los Comisarios serán nombrados conforme a lo dispuesto en el Título VII de esta Constitución.
 
 ###### Artículo 73.
 
@@ -743,13 +743,13 @@ I.- Formar su reglamento interior.
 
 II.- Conocer, de acuerdo con lo dispuesto en el artículo 123, de los procesos que por delitos oficiales se animen contra el Gobernador, los Diputados, el Procurador de Justicia, los Magistrados, Secretario de Gobierno, Director General de Rentas y Munícipes.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1940)</small>
 
-III.- Consignar a los Jueces de Primera Instancia y Menores, a la Autoridad competente por delitos comunes o responsabilidades oficiales en que incurran a solicitud del Procurador General de Justicia.
+III.- Consignar a los Jueces de Primera Instancia y demás que designe la Ley Orgánica del Poder Judicial, a la autoridad competente, por delitos comunes o responsabilidades oficiales en que incurran, a solicitud del Procurador General de Justicia.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1940)</small>
 
-IV.- Conceder licencia a los Jueces de Primera Instancia, Menores y a los Empleados inferiores, de su dependencia y resolver acerca de la renuncia de los mismos.
+IV.- Conceder licencias a los Jueces de Primera Instancia y a las demás autoridades que designe la Ley Orgánica del Poder Judicial, así como a los empleados inferiores de su dependencia; y resolver acerca de la renuncia de los mismos.
 
 V.- (DEROGADA, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 1932)
 
@@ -763,9 +763,9 @@ VIII.- Conocer en Segunda Instancia, de todos los negocios civiles y criminales 
 
 IX.- Ejercitar el derecho de iniciar leyes ante el Congreso Local y nombrar en su caso el representante a que se refiere el artículo 45 de la Constitución.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1940)</small>
 
-X.- Nombrar y remover a los Empleados del Supremo Tribunal de Justicia, Juzgados de Primera Instancia y Menores, y tomarles la protesta respectiva en los términos prevenidos por la Ley.
+X.- Nombrar y remover a los empleados del Supremo Tribunal de Justicia, Juzgados de Primera Instancia y demás que designe la Ley Orgánica del Poder Judicial, y Tomarles la protesta respectiva en los términos de Ley.
 
 (REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -841,9 +841,9 @@ I.- Por los Ayuntamientos que residirán en las Cabeceras de los Municipios, sus
 
 II.- Por las Juntas Municipales que residirán en los pueblos, estarán integradas por tres miembros que serán nombrados por el Ayuntamiento respectivo y tendrán los requisitos que marca el artículo 89. Por cada miembro de la Junta Municipal se nombrará un suplente.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1940)</small>
 
-III.- Por los Comisarios Municipales que residirán en las rancherías. Los Comisarios y demás empleados inferiores, serán nombrados por los Ayuntamientos respectivos.
+III.- Por los Comisarios Municipales que residirán en las Rancherías. Los Comisarios y demás empleados inferiores serán nombrados por los Ayuntamientos respectivos.
 
 (REFORMADO, P.O. 6 DE JULIO DE 1935) (F. DE E., P.O. 20 DE JULIO DE 1935)
 
@@ -1456,6 +1456,20 @@ Las presentes reformas y derogación entrarán en vigor cinco días después de 
 ###### Artículo 2º.
 
 Se derogan todas las disposiciones legales que se opongan al cumplimiento de las presentes reformas y derogación.
+
+P.O. 7 DE DICIEMBRE DE 1940.
+
+###### Artículo 1º.
+
+Las presentes reformas entrarán en vigor el día primero de enero de 1941.
+
+###### Artículo 2º.
+
+Sin embargo, el nombramiento de Magistrados se hará antes del día 27 del actual y los funcionarios designados rendirán la protesta legal y tomarán posesión de su cargo en la fecha que fija el artículo que precede.
+
+###### Artículo 3º.
+
+El nombramiento de Jueces deberá hacerse el día primero de enero próximo, de acuerdo con lo que disponga la Ley Orgánica del Poder Judicial que comenzará a regir en la propia fecha, en la cual los Jueces deberán tomar posesión de sus respectivos cargos, previa la protesta correspondiente.
 
 ###### Artículo 2.
 
