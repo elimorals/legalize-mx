@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1986-01-29"
+last_updated: "1986-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 1986.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -1715,7 +1715,7 @@ Son solidariamente responsables del pago de este impuesto los enajenantes y las 
 
 ### CAPITULO IX. ART. 157.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
-ART. 158.-(ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
+ART. 158.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
 ART. 159.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
@@ -3593,6 +3593,10 @@ c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantida
 
 d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 100.00.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
+
+En el tramo comprendido entre La Curva y la Carretera a Eldorado o viceversa, la cantidad de $ 100.00.
+
 > <small>(F. DE E., P.O. 19 DE JUNIO DE 1985)</small>
 
 II.- Automóviles de hasta diez pasajeros con remolque y camiones sencillos de hasta una tonelada tipo pick-up y panel con remolque:
@@ -3605,6 +3609,10 @@ c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantida
 
 d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 150.00.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
+
+En el tramo comprendido entre La curva y la Carretera a Eldorado o Viceversa. La cantidad de $ 150.00.
+
 III.- Omnibuses:
 
 a).- En el tramo comprendido entre Las Brisas Alhuey o viceversa, la cantidad de $ 150.00.
@@ -3614,6 +3622,10 @@ b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad 
 c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 300.00.
 
 d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 150.00.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
+
+En el tramo comprendido entre La Curva y La Carretera a Eldorado o viceversa. La cantidad de $ 150.00.
 
 IV.- Camiones de carga de dos ejes:
 
@@ -3625,6 +3637,10 @@ c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantida
 
 d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 200.00.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
+
+En el tramo comprendido entre La Curva y La Carretera a Eldorado o viceversa. La cantidad de $ 200.00.
+
 V.- Camiones de carga o tractores con semiremolque (sic) de tres ejes:
 
 a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de $ 200.00.
@@ -3634,6 +3650,10 @@ b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad 
 c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 400.00.
 
 d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 200.00.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
+
+En el tramo comprendido entre La Curva y La Carretera a Eldorado o viceversa. La cantidad de $ 200.00.
 
 VI.- Camiones de carga o tractores con remolque de cuatro ejes:
 
@@ -3645,6 +3665,10 @@ c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantida
 
 d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 250.00.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
+
+En el tramo comprendido entre La Curva y la Carretera a Eldorado o viceversa, la cantidad de $ 250.00.
+
 VII.- Camiones de carga o tractores con remolque de cinco ejes:
 
 a).- En el tramo comprendido entre Las Brisas y Alhuey o viceversa, la cantidad de $ 250.00.
@@ -3654,6 +3678,10 @@ b).- En el tramo comprendido entre Alhuey y La Reforma o viceversa, la cantidad 
 c).- En el tramo comprendido entre La Reforma y San Blas o viceversa, la cantidad de $ 550.00
 
 d).- En el tramo comprendido entre San Blas y La Curva o viceversa, la cantidad de $ 250.00.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 1986)</small>
+
+En el tramo comprendido entre La Curva y la Carretera a Eldorado o viceversa, la cantidad de $ 250.00.
 
 Por cada eje excedente, la cuota se incrementará en un 10%.
 
@@ -5238,3 +5266,9 @@ P.O. 29 DE ENERO DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto empezará a surtir sus efectos el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE AGOSTO DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
