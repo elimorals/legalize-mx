@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1950-06-14"
+last_updated: "1952-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 1950.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 1952.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -91,11 +91,11 @@ Corresponden a la jurisdicción del Municipio de Huitzilac, los siguientes centr
 
 Corresponden a la jurisdicción del Municipio de Jantetelco, los siguientes centros de población: Amayuca, Chalcatzingo, Jantetelco Cabecera del Municipio y Tenango.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1950)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1952)</small>
 
 ###### Art. 13.
 
-Corresponde a la jurisdicción del Municipio de JIUTEPEC, los siguientes centros de población: Atlacomulco, Cliserio Alanís, Tejalpa, Progreso, Parres y JIUTEPEC, Cabecera del Municipio.
+Corresponden a la Jurisdicción del Municipio de Jiutepec, Morelos, los siguientes Centros de población: Jiutepec, Cabecera del Municipio, Atlacomulco, Cliserio Alanís, Tejalpa, Progreso y Tlalhuapan.
 
 ###### Art. 14.
 
@@ -254,6 +254,14 @@ P.O. 14 DE JUNIO DE 1950.
 Primero. Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Remítase el presente Decreto al Ejecutivo del Estado, para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local.
+
+P.O. 31 DE DICIEMBRE DE 1952.
+
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON ESTE ORDENAMIENTO.
+
+PRIMERO.- El presente Decreto surtirá sus efects (sic) legales a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Remítase al Ejecutivo del Estado, para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 555.- POR EL QUE SE ADICIONA Y MODIFICA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
 
