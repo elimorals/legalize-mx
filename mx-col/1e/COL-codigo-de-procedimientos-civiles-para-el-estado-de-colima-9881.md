@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1999-09-18"
+last_updated: "2000-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2000.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -487,7 +487,13 @@ ART. 63.- Dentro de los tres días de haberse hecho saber una corrección discip
 
 ART. 64.- Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos el domingo y aquellos que las leyes declaren festivos.
 
-Se entienden horas hábiles las que median desde la salida a la puesta del sol. En los juicios sumarios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos posesorios, diferencias domésticas, y los demás que determinen las leyes, no hay día ni horas hábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+Se entienden horas hábiles las comprendidas entre las siete y las diecinueve horas. En los juicios sobre alimentos, impedimentos de matrimonio, y en general, todas las cuestiones familiares que reclamen la intervención judicial; así como en los juicios sumarios sobre servidumbres legales, interdictos posesorios y los demás que determinen las leyes no hay ni días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
+
+> <small>(REFORMADO [ N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2000)</small>
+
+En las diligencias o actuaciones en materia familiar, que se practiquen fuera del juzgado, se observará lo dispuesto por el artículo 14 de la Ley para la Prevención y Atención a la Violencia Intrafamiliar.
 
 > <small>(F. DE E., P.O. 9 DE ABRIL DE 1955)</small>
 
@@ -1125,63 +1131,87 @@ La liquidación se hace con un escrito de cada parte y la resolución del Juez, 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE JUNIO DE 1975)</small>
 
+(REPUBLICADA, P.O. 25 DE MARZO DE 2000)
+
 ### CAPITULO III. Separación de personas como acto prejudicial
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 204.- El que intente demandar, denunciar o querellarse contra su cónyuge, puede solicitar su separación al Juez de lo Civil.
+ART. 204.- El cónyuge que pretenda iniciar juicio o presentar denuncia o querella, puede solicitar su separación al juez de lo familiar. De este acto prejudicial también podrán hacer uso los incapaces y las personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 205.- Sólo los Jueces de lo Civil pueden decretar la separación de que habla el artículo anterior, a no ser que por circunstancias especiales no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
+ART. 205.- Tratándose de incapaces y personas con discapacidad grave que les impida solicitar por si mismos su separación, serán representados por el Ministerio Público, cuando los causantes del maltrato sean sus padres, tutores, representantes legales o de quien o de quienes dependan.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 206.- La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funda, el domicilio para su habitación, la existencia de hijos menores y de las demás circunstancias del caso.
+ART. 206.- Sólo los jueces de primera instancia pueden decretar la separación de que hablan los dos artículos anteriores, a no ser que por circunstancias especiales no pueda ocurrirse al juez competente, pues entonces el juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 207.- El Juez podrá, si lo estima conveniente, practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución.
+ART. 207.- La solicitud puede ser escrita o verbal. Si la urgencia del caso lo amerita, el juez debe proceder con la mayor diligencia.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 208.- Presentada la solicitud, el Juez sin más trámite, salvo lo dispuesto en el artículo anterior, resolverá sobre su procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación atendiendo a las circunstancias de cada caso en particular.
+ART. 208.- El juez podrá realizar las diligencias que a su juicio sean necesarias antes de dictar la resolución. En caso de violencia intrafamiliar, tomará en cuenta los dictámenes y opiniones que hubieren elaborado las instituciones públicas o privadas dedicadas a la atención de asuntos de esta naturaleza.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+En su resolución, el juez dictará las siguientes disposiciones:
 
-ART. 209.- El Juez podrá variar las disposiciones decretadas cuando exista causa justa que lo amerite o en vista de lo que los cónyuges, de común acuerdo o individualmente le soliciten, si lo estima partinente (sic) según las circunstancias del caso.
+I.- Separar al cónyuge o al agresor, en su caso;
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+II.- Señalar el domicilio para el cónyuge, la persona incapaz o con discapacidad grave, en su caso, así como designar a la persona que tendrá la guarda y cuidado de estos;
 
-ART. 210.- En la resolución se señalará el término de que dispondrá el solicitante para presentar la demanda o la acusación, que podrá ser de quince días hábiles contados a partir del día siguiente de efectuada la separación. A juicio del Juez, podrá concederse por una sola vez una prórroga por igual término.
+III.- Apremiar a las partes para que se abstengan de molestar, hostigar, perseguir, amenazar, coaccionar o llevar a cabo cualquier otra conducta que interfiera con el ejercicio de la guarda y cuidado provisional sobre los menores, si existiesen;
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+IV.- Apremiar la parte que tenga a su cargo el cuidado de los menores o del incapaz, para que no lo oculte o cambie de domicilio;
 
-ART. 211.- En la misma resolución ordenará la notificación al otro cónyuge, previniéndole que se abstenga de impedir la separación o causar molestias a su cónyuge, bajo apercibimiento de procederse en su contra en los términos a que hubiere lugar.
+V.- Ordenar a las partes se abstengan de disponer o realizar actos de transmisión de dominio de los bienes que constituya la sociedad conyugal o sus gananciales si los hubiere. Dispondrá también que se deberá presentar un informe financiero mensual al juzgado, cuando se ejerzan actos de administración de un negocio, comercio o industria, siempre y cuando se trate de una controversia de divorcio o liquidación de la sociedad conyugal; y
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+VI.- Dictar las medidas necesarias a fin de evitar molestias o riesgos a la parte solicitante, observando las disposiciones de la Ley para la Prevención y Atención a la Violencia Intrafamiliar.
 
-ART. 212.- El Juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el artículo 165 del Código Civil y las propuestas, si las hubiere, de los cónyuges.
+Las disposiciones decretadas por el juez, podrán ser variadas en virtud de causa justa o por acuerdo de las partes en conflicto, ratificado ante la presencia judicial.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+Asimismo, atentas las circunstancias del caso, podrán limitarse a disponer la permanencia de la parte solicitante del acto prejudicial, en el domicilio conyugal o familiar, previniendo a la otra parte para que se abstenga de concurrir al mismo, pudiendo el juez dictar otras disposiciones que estime pertinentes o variar las decretadas a petición de parte o por acuerdo de los cónyuges o miembros de la familia siempre que el acuerdo sea ratificado ante la presencia judicial.
 
-ART. 213.- La inconformidad de alguno de los cónyuges sobre la resolución o disposiciones decretadas, se tramitará en los términos del artículo 431 sin ulterior recurso.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+ART. 209.- Practicado todo lo prevenido en los artículos anteriores, el juez, procederá a trasladar al solicitante al domicilio que se le haya designado.
 
-ART. 214.- Si al vencimiento del plazo concedido no se acredita al Juez que se ha presentado la demanda, la denuncia o la querella, cesarán los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de las 24 horas siguientes:
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+ART. 210.- En el mismo acto de la diligencia y una vez realizado el apremio a que se refiere la fracción III del artículo 208 que antecede, el juez, apercibirá al causante de la separación de que se procederá en su contra en caso de desacato.
 
-ART. 215.- El cónyuge que se separó tendrá en todo tiempo el derecho de volver al domicilio conyugal, siempre y cuando no se hayan tramitado las diligencias a que se refieren los Artículos anteriores.
+ART. 211.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 216.- Si el juez que decretó la separación no fuere el que deba conocer del negocio principal, remitirá las diligencias practicadas al que fuere competente, quien confirmará, en su caso, la decisión dictada con motivo de la separación, siguiendo el juicio su curso legal.
+ART. 212.- Si hubiere hijos menores de edad, serán puestos al cuidado de la persona que de común acuerdo los cónyuges hubieren designado. En defecto de ese acuerdo, el juez resolverá provisionalmente, debiendo en todo caso quedar al cuidado de la madre los hijos menores de 7 años.
 
-ART. 217.- (DEROGADO, P.O. 14 DE JUNIO DE 1975)
+Cualquier reclamación sobre el cuidado de los hijos, se substanciará en los términos del Título Décimo Sexto, Capítulo Unico, de este Código.
 
-ART. 218.- (DEROGADO, P.O. 14 DE JUNIO DE 1975)
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 213.- En la resolución que al respecto se dicte, se señalará el término de 15 días de que dispondrá el solicitante para presentar la demanda, denuncia o querella, contados a partir del día siguiente de efectuada la separación, pudiendo conceder el juez a su juicio una prórroga por igual término.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 214.- Al solicitante de cualquier acto prejudicial se le dará copia certificada de las diligencias practicadas.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 215.- El cónyuge que se separó tendrá en todo tiempo el derecho de volver al domicilio conyugal.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 216.- Las pretensiones que se formulen por las partes, respecto a la variación de la medida o cualquier otro incidente a que ésta pueda dar lugar, serán resueltas por el juez, el que podrá citar a las partes en cualquier tiempo ya sea conjunta o separadamente. Podrá también variar sus determinaciones a petición de parte, si las circunstancias lo ameritan, bajo su responsabilidad y sin substanciación especial.
+
+> <small>(REFORMADO [N. DE E., ADICIONADO], P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 217.- Si al vencimiento del plazo concedido no se acredita que se ha presentado la demanda, denuncia o querella, cesarán los efectos de la separación y el juez deberá notificar a las partes que quedan en libertad de reunirse si así lo deciden, debiendo explicarles claramente, cuales son las consecuencias legales si éstas deciden no reunirse, así como los términos de prescripción de las acciones en materia familiar.
+
+> <small>(REFORMADO [N. DE E., ADICIONADO], P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 218.- Si el juez que decretó la medida prejudicial no fuere el que deba conocer del negocio principal remitirá en el término de cuarenta y ocho horas las diligencias practicadas al que lo fuere, quien confirmará la medida, siguiendo el procedimiento su curso legal.
 
 ### CAPITULO IV. De la preparación del juicio arbitral
 
@@ -1967,7 +1997,7 @@ ART. 429.- Se tramitarán sumariamente:
 
 I.- (DEROGADA, P.O. 10 DE AGOSTO DE 1985)
 
-II.- Los juicios de alimentos, ya sean provisionales o los que se deban con el carácter de estabilidad por contrato, por testamento, o por disposición de la ley; ya tengan por objeto el pago o sólo el aseguramiento.
+II.- (DEROGADA, P.O. 25 DE MARZO DE 2000)
 
 III.- Los juicios que versen sobre cualquiera cuestión relativa a los contratos de arrendamiento o alquiler, depósito y comodato, aparcería, transportes y hospedajes;
 
@@ -1975,11 +2005,11 @@ IV.- Los juicios que tengan por objeto la firma de una escritura, la elevación 
 
 V.- Los cobros judiciales de honorarios debidos a peritos y a los abogados, médicos, notarios, ingenieros y demás personas que ejerzan una profesión mediante título expedido por autoridad competente;
 
-VI.- La calificación de impedimentos de matrimonio y la responsabilidad por incumplimiento de promesa matrimonial;
+VI.- (DEROGADA, P.O. 25 DE MARZO DE 2000)
 
 VII.- La constitución necesaria del patrimonio de familia y la oposición de terceros con interés legítimo para que se haga esa constitución y en general, cualquiera controversia que sobre dicho patrimonio se suscitare. No habiendo contienda, todo lo relativo al patrimonio familiar se substanciará en jurisdicción voluntaria;
 
-VIII.- Las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposiciones de maridos, padres y tutores, y, en general, todas las cuestiones familiares que reclamen la intervención judicial;
+VIII.- (DEROGADA, P.O. 25 DE MARZO DE 2000)
 
 IX.- La rendición de cuentas por tutores, administradores y por todas aquellas personas a quienes la ley o el contrato imponen esa obligación;
 
@@ -2001,7 +2031,11 @@ XVII.- En general, las cuestiones que por su naturaleza requieran celeridad o lo
 
 ART. 430.- Todas las contiendas entre partes cuya tramitación no esté prevista en este título, se ventilarán en juicio ordinario.
 
-ART. 431.- En los casos de las fracciones VI, VIII y XVI no se requieren más solemnidades que oír a las partes, primero al denunciante o al actor, en seguida a los demandados, recibir en ese orden sus pruebas en el acto mismo, y dictar allí la resolución concisa. Si no estuviere el secretario, procederá el juez, con dos testigos de asistencia. Todo el juicio se hará constar en una sola acta, cuando termine en un sólo día.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 431.- En el caso de la fracción XVI del artículo 429, no se requieren mas solemnidades que oír a las partes; primero al denunciante o al actor; enseguida a los demandados; recibir en este orden sus pruebas en el acto mismo y dictar allí la resolución. Si no estuviere el secretario, procederá el juez con dos testigos de asistencia.
+
+Todo el juicio se hará constar en una sola acta.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
@@ -2037,37 +2071,21 @@ ART. 439.- Los incidentes surgidos en los juicios ordinarios o sumarios se trami
 
 ### CAPITULO II. De los juicios por alimentos
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+ART. 439 A.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
-ART. 439 A.- Los juicios que versen sobre pagos o aseguración de alimentos se tramitarán conforme a las reglas generales de los juicios sumarios y las especiales siguientes:
+ART. 439 B.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+ART. 439 C.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
-ART. 439 B.- Si al promoverse el juicio se demanda también la fijación y aseguramiento de alimentos provisionales, el juez sin correr traslado a la contraparte, ordenará desde luego que el demandante acredite suficientemente la urgencia y la necesidad de la medida y que justifique aproximadamente el caudal o las posibilidades económicas de quien debe darlas.
+ART. 439 D.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+ART. 439 E.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
-ART. 439 C.- En vista de los títulos presentados para fundar la demanda y una vez satisfechos los extremos señalados por el Artículo anterior, el juez, si estima fundada la solicitud dictará resolución fijando la suma en que deben consistir los alimentos provisionales y mandará abonarlos, por mensualidades adelantadas, mientras se resuelve en definitiva.
+ART. 439 F.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
+ART. 439 G.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
-ART. 439 D.- Contra la resolución en que se otorguen los alimentos provisionales, no habrá más recurso que el de responsabilidad. Contra la que los niegue, procederá la queja.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 439 E.- Inmediatamente que se dicte sentencia otorgando los alimentos provisionales, se requerirá al que deba cubrirlos por el pago de la primera mensualidad y si no lo verifica en el acto de la diligencia se procederá a embargarle bienes bastantes a cubrir su importe. Hecho el embargo o pago, se emplazará en forma al demandado para que conteste la demanda dentro del término de cinco días y seguir el juicio por sus demás trámites legales.
-
-(ADICIONADO, P.O. 10 DE AGOSTO DE 1985) (F. DE E., P.O. 24 DE AGOSTO DE 1985)
-
-ART. 439 F.- La venta de los bienes embargados se tramitarán por cuerda separada en la forma y trámites prevenidos para los remates. Lo mismo se hará con las subsecuentes mensualidades, en el caso de que no se paguen y para garantizarlas se embarguen bienes.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 439 G.- En el caso del Artículo 275 del Código Civil, se observarán las disposiciones relativas de este procedimiento y las contenidas en el Título Décimo Primero.
-
-> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 439 H.- Si se trata de alimentos provisionales que deban abonarse sólo mientras dure el procedimiento en los juicios de divorcio necesario, acreditados en forma incidental los extremos señalados por el Artículo 439 B el juez procederá, en lo relativo, como se previene en esta Capítulo, sin perjuicio de los derechos que conceda a las partes la ejecutoria de divorcio para reclamar alimentos.
+ART. 439 H.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
 > <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
@@ -4355,19 +4373,25 @@ ART. 936.- Los gastos generales del apeo se harán por el que lo promueva. Los q
 
 ART. 937.- Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
 
-I.- La autorización judicial que soliciten los emancipados por razón del matrimonio, para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2000)</small>
 
-II.- El permiso para contraer con su marido o para obligarse solidariamente a ser su fiadora, que solicite la mujer casada; y
+I.- La habilitación para comparecer en juicio que solicite el menor de más de 16 años cuando compruebe que los padres o ascendientes que ejerzan la patria potestad están ausentes, se ignore su paradero o se nieguen a representarlo, sólo se le concederá autorización cuando fuere demandado o se le siguiera perjuicio grave de no promover juicio y comprobare buena conducta y aptitud para el manejo de sus negocios;
 
-III.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 448 del Código Civil.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2000)</small>
 
-> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 1975)</small>
+II.- La solicitud de emancipación o habilitación de edad que hagan los mayores de 16 años sujetos a la patria potestad o tutela, si demostraren buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
 
-IV.- El permiso para que los cónyuges celebren contrato entre ellos o para obligarse solidariamente o ser fiador uno del otro en los casos del artículo 175 del Código Civil.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2000)</small>
+
+III.- La autorización judicial que soliciten los emancipados por razón de matrimonio para enajenar o gravar bienes raíces o para comparecer en juicio. En este último caso, se les nombrará un tutor especial;
+
+IV.- (DEROGADA, P.O. 25 DE MARZO DE 2000)
 
 V.- (sic)
 
-ART. 938.- Podrá decretarse el depósito: de menores o incapacitados que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
+> <small>(REFORMADO PRIMER PARRAFO P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 938.- Podrá decretarse la guarda y cuidado de menores o incapacitados que se hallen sujetos a la patria potestad o a la tutela, que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
 
@@ -4375,41 +4399,157 @@ El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad
 
 En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
 
-TITULO ESPECIAL
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2000)</small>
+
+TITULO DECIMOSEXTO
+
+De las controversias del orden familiar
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2000)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 939.- Todos los problemas inherentes a la familia se consideran de orden público e interés social, por constituir aquella la base de la integración de la sociedad.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 940.- El juez de lo familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, alimentos y de cuestiones relacionadas con la violencia intrafamiliar, pudiendo decretar las medidas necesarias que tiendan a preservar la familia y proteger a sus miembros.
+
+En todos los asuntos de orden familiar, los jueces y tribunales están obligados a suplir la deficiencia en las promociones de las partes.
+
+En los asuntos familiares, con la salvedad de las prohibiciones legales relativas a los alimentos, el juez deberá exhortar a los interesados a lograr un avenimiento y resolver sus diferencias mediante convenio, con el que pueda evitarse la controversia y darse por terminado el procedimiento.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 941.- No se requieren formalidades especiales para acudir ante el juez de lo familiar, cuando se le solicite la declaración, preservación, restitución o constitución de un derecho, o se alegue la violación del mismo o el desconocimiento de una obligación, cuando se trate de alimentos, calificación de impedimento de matrimonio o las diferencias que surjan entre marido y mujer, sobre administración de bienes comunes, educación de hijos, oposición de padres y tutores y en general, de todas las cuestiones familiares que requieran la intervención judicial.
+
+Esta disposición no es aplicable en los casos de divorcio o pérdida de la patria potestad y la liquidación de la sociedad conyugal.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 942.- En los casos a que se refiere el primer párrafo del artículo anterior, podrá acudirse al juez de lo familiar por escrito o por comparecencia personal, exponiendo de manera breve y concisa los hechos urgentes de que se trate. Con las copias del escrito o comparecencias respectivas y de los documentos que en su caso se presenten, se correrá traslado a la parte demandada, la que deberá comparecer en la misma forma, dentro del término de cinco días. En dichas comparecencias, las partes deberán ofrecer las pruebas que a su derecho convenga. El juez las calificará y admitirá.
+
+Al ordenar el traslado a que se refiere el párrafo anterior, el juez, en la misma pieza de autos, deberá señalar día y hora para la celebración de la audiencia respectiva. Tratándose de alimentos, ya sean provisionales, o los que se deban por contrato, testamento o disposición de la ley, el juez fijará, a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional, mientras se resuelve el juicio por sentencia definitiva.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 943.- En la audiencia, las partes desahogarán las pruebas calificadas por el juez como procedentes, las que no tendrán mas limitación que la de no ser contrarias a la moral, a las buenas costumbres o estén prohibidas por la ley.
+
+Será optativo para las partes acudir asesoradas. En caso de que una de las partes se encuentre asesorada y la otra no, el juez solicitará la intervención de un defensor de oficio, el que deberá acudir de inmediato a enterarse del asunto, gozando de un término de tres días para hacerlo, difiriéndose la celebración de la audiencia por un término igual.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 944.- La audiencia se celebrará con o sin asistencia de las partes. Para resolver el problema que se le plantee, el juez se cerciorará de la veracidad de los hechos y los evaluará personalmente o con el auxilio de profesionistas o instituciones especializadas en la materia, quienes presentarán un dictamen en la audiencia respectiva y podrán ser interrogados por el juez y por las partes. La valoración de pruebas se hará conforme a lo dispuesto por el Capítulo Séptimo del Título Sexto de este Código. El juez, al dictar su resolución, expresará en todo caso los medios de prueba en que se haya fundado.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 945.- El juez y las partes podrán interrogar a los testigos y peritos, en relación con los hechos controvertidos, pudiendo hacerles todas las preguntas que estimen convenientes y tengan relación con lo declarado y los puntos materia de litigio.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 946.- La audiencia a que se refiere este Capítulo se efectuará dentro de los 30 días, contados a partir de la fecha del auto que ordene el traslado, debiéndose proveer la demanda o comparecencia inicial, dentro del improrrogable término de tres días.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 947.- Si por cualquier circunstancia, la audiencia no puede celebrase el día y hora señalados, se verificará dentro de los ocho días siguientes. Las partes están obligadas a presentar a sus testigos y peritos.
+
+Cuando manifiesten, bajo protesta de decir verdad, no estar en posibilidad de hacerlo, el juez ordenará al actuario, cite a los primeros y haga saber su designación a los segundos, convocándolos para la audiencia respectiva en la que rendirán su testimonio o dictamen. La citación se hará con el apercibimiento legal de que de no comparecer sin causa justificada, se les impondrá un arresto administrativo hasta de 36 horas.
+
+En caso de que el señalamiento de domicilio de los testigos y peritos hecho por el oferente de la prueba, resulte inexacto o se compruebe que se solicitó ésta con el único propósito de retrasar el procedimiento, se impondrá a aquél una multa por el equivalente de hasta 30 días de salario mínimo vigente en el Estado, sin perjuicio de que se dé vista al Ministerio Público para los efectos legales procedentes.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 948.- La sentencia que se pronuncie deberá ser breve y concisa y se dictará en la audiencia misma o más tardar dentro de los ocho días siguientes a su celebración.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 949.- La apelación deberá interponerse en la forma y términos previstos por el Capítulo I del Título Decimosegundo.
+
+Cuando la tramitación del juicio se hubiere regido por las disposiciones generales de este Código, éstas se aplicarán a los recursos interpuestos; en todo caso, si la parte recurrente careciere de abogado, el tribunal solicitará la intervención de un defensor de oficio, quien gozará de un plazo de tres días para enterarse del asunto y hacer valer los agravios o derechos que asistan a la parte que asesore.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 950.- Salvo los casos previstos por el artículo 699 de este Código, en los que el recurso de apelación procede en ambos efectos, en los demás casos sólo se admitirá en el efecto devolutivo.
+
+Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin el otorgamiento de fianza.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 951.- Los autos que no fueren apelables y los decretos, pueden ser revocados por el juez que los dictó.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 952.- La recusación no impedirá que el juez adopte las medidas provisionales sobre cuidado y guarda de personas, alimentos y menores.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 953.- Ninguna excepción dilatoria podrá impedir que se adopten las medidas provisionales urgentes. Tanto en este caso como en el del artículo anterior, hasta después de tomadas dichas medidas, se dará trámite a la cuestión planteada.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 954.- Los incidentes se decidirán con un escrito de cada parte y sin suspensión de procedimientos. Si se promueven pruebas, deberán ofrecerse en los escritos respectivos, señalando los puntos sobre los que versen y se citará a una audiencia dentro del plazo improrrogable de ocho días; en ella se recibirán las pruebas, se oirán brevemente los alegatos y se dictará resolución dentro de los tres días siguientes.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 955.- En todo lo no previsto y en cuanto no se oponga a lo señalado en este Capítulo, se aplicarán las reglas generales establecidas en este Código.
+
+> <small>N. DE E. EL PRESENTE TITULO, QUE ANTERIORMENTE COMPRENDIA LOS ARTICULOS 1 A 47, CUYA DENOMINACION ERA "TITULO ESPECIAL", COMPRENDE ACTUALMENTE LOS ARTICULOS 956 AL 1002.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+TITULO DECIMOSEPTIMO
 
 De la Justicia de Paz
 
-ART. 1o.- Se establecen en el Estado de Colima los juzgados de paz que fija la Ley Orgánica del Poder Judicial con las jurisdicciones que en la misma se determinan.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 2o.- Conocerán los jueces de paz de los juicios cuya cuantía no exceda de doscientos pesos.
+ART. 956.- Se establecen en el Estado de Colima los juzgados de paz que fija la Ley Orgánica del Poder Judicial con las jurisdicciones que en la misma se determinan.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 957.- Conocerán los jueces de paz de los juicios cuya cuantía no exceda de doscientos pesos.
 
 Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aún cuando se reclamen en ella.
 
 Cuando se trate de arrendamiento, o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las prestaciones de un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
-ART. 3o.- Si se dudare del valor de la cosa demandada o del interés del pleito, antes de expedirse la cita para el demandado, el juez oirá el dictamen de un perito que él mismo nombrará a costa del actor.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 958.- Si se dudare del valor de la cosa demandada o del interés del pleito, antes de expedirse la cita para el demandado, el juez oirá el dictamen de un perito que él mismo nombrará a costa del actor.
 
 Aun cuando esto se hubiere hecho, el demandado, en el acto del juicio, podrá pedir que se declare que el negocio no es de la jurisdicción de paz por exceder en doscientos pesos su cuantía, y, n (sic) en tal caso el juez oirá lo que ambas partes expongan y la opinión de los peritos que presenten, resolviendo en seguida. Si declarare ser competente, se continuará la audiencia como lo establecen los artículos 20 a 23.
 
-ART. 4o.- Cuando el juez, en cualquier estado del negocio, encuentre que éste no es de su competencia por exceder de los límites que se fijan en el artículo primero, o en razón de corresponder a juez de diversa jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al juez correspondiente.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 5o.- Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de él, cuando se trate de arrendamiento o de acciones reales sobre bienes inmuebles. Conocerá también de aquellos en que el demandado sea citado en lugar que se encuentre comprendido también en la municipalidad.
+ART. 959.- Cuando el juez, en cualquier estado del negocio, encuentre que éste no es de su competencia por exceder de los límites que se fijan en el artículo primero, o en razón de corresponder a juez de diversa jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al juez correspondiente.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 960.- Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de él, cuando se trate de arrendamiento o de acciones reales sobre bienes inmuebles. Conocerá también de aquellos en que el demandado sea citado en lugar que se encuentre comprendido también en la municipalidad.
 
 En caso de duda será competente, por razón del territorio, el juez de paz que haya prevenido y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; el hecho de haber conocido, indebidamente, de casos correspondientes a otros municipios, será motivo de corrección disciplinaria que impondrá el Presidente del Supremo Tribunal de Justicia, mediante queja del agraviado.
 
-ART. 6o.- Cuando el juez de paz recibiere inhibitoria de otro juzgado del Estado o territorio en que se promueva competencia por razón de la cuantía, y creyere debido sostener la suya, el mismo día lo comunicará así al competidor y remitirá su expediente con el oficio inhibitorio, sin necesidad de informe especial al Supremo Tribunal de Justicia.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 961.- Cuando el juez de paz recibiere inhibitoria de otro juzgado del Estado o territorio en que se promueva competencia por razón de la cuantía, y creyere debido sostener la suya, el mismo día lo comunicará así al competidor y remitirá su expediente con el oficio inhibitorio, sin necesidad de informe especial al Supremo Tribunal de Justicia.
 
 El Supremo Tribunal de Justicia, sin otro trámite, decidirá la competencia en una audiencia que se celebrará dentro de las cuarenta y ocho horas siguientes al recibo de los documentos, y a la cual será citado el Ministerio Público, sin que sea necesaria su asistencia para que se verifique la vista.
 
 Emplazamiento y citaciones
 
-ART. 7o.- A petición del actor se citará al demandado para que comparezca dentro del tercer día. En la cita, que en presencia del actor será expedida y entregada a la persona que deba de llevarla, se expresará, por lo menos, el nombre del actor, lo que demande, la causa de la demanda, la hora que se señale para el juicio y la advertencia de que las pruebas se presentarán en la misma audiencia.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 962.- A petición del actor se citará al demandado para que comparezca dentro del tercer día. En la cita, que en presencia del actor será expedida y entregada a la persona que deba de llevarla, se expresará, por lo menos, el nombre del actor, lo que demande, la causa de la demanda, la hora que se señale para el juicio y la advertencia de que las pruebas se presentarán en la misma audiencia.
 
 Debe llevarse en los juzgados de paz un libro de registro en que se asentarán, por días y meses, los nombres de actores y demandados, y el objeto de las demandas.
 
 Puede el actor presentar su demanda por escrito.
 
-ART. 8o.- La cita del emplazamiento se enviará al demandado por medio del Comisario del juzgado o de algún gendarme, al lugar que el actor designe para ese fin y que podrá ser:
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 963.- La cita del emplazamiento se enviará al demandado por medio del Comisario del juzgado o de algún gendarme, al lugar que el actor designe para ese fin y que podrá ser:
 
 I.- La habitación del demandado, su despacho, su establecimiento mercantil o su taller;
 
@@ -4417,27 +4557,43 @@ II.- El lugar en que trabaje u otro que frecuente y en que ha de creerse que se 
 
 III.- La finca o departamento arrendado, cuando se trate de desocupación.
 
-ART. 9o.- El comisario o gendarme que lleve la cita se cerciorará de que el demandado se encuentra en el lugar designado y le entregará la cita personalmente. Si no lo encontrare y el lugar fuere alguno de los enumerados en las fracciones I o III del artículo anterior, cerciorándose de este hecho, dejará la cita con la persona de mayor confianza que encuentre. Si no se encontrare al demandado, y el lugar no fuere de los numerados en las fracciones I o III no se le dejará la cita, debiéndose expedir de nuevo cuando lo promueva el actor.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 10.- Cuando no se conociere el lugar en que el demandado viva o tenga el principal asiento de sus negocios, o cuando viviendo o trabajando en un lugar se negaren él o las personas requeridas a recibir el emplazamiento, se podrá hacer la notificación en el lugar en donde se encuentre.
+ART. 964.- El comisario o gendarme que lleve la cita se cerciorará de que el demandado se encuentra en el lugar designado y le entregará la cita personalmente. Si no lo encontrare y el lugar fuere alguno de los enumerados en las fracciones I o III del artículo anterior, cerciorándose de este hecho, dejará la cita con la persona de mayor confianza que encuentre. Si no se encontrare al demandado, y el lugar no fuere de los numerados en las fracciones I o III no se le dejará la cita, debiéndose expedir de nuevo cuando lo promueva el actor.
 
-ART. 11.- El actor tiene el derecho de acompañar al comisario o al gendarme que lleve la cita para hacerle las indicaciones que faciliten la entrega.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 12.- Las citas se extenderán en esqueletos impresos tomados de libros talonarios. Un duplicado se agregará al expediente respectivo.
+ART. 965.- Cuando no se conociere el lugar en que el demandado viva o tenga el principal asiento de sus negocios, o cuando viviendo o trabajando en un lugar se negaren él o las personas requeridas a recibir el emplazamiento, se podrá hacer la notificación en el lugar en donde se encuentre.
 
-ART. 13.- El comisario o gendarme que entregue la cita recogerá, en una libreta especial, recibo de ella, el cual, si no supiere o no pudiere firmar la persona que debiera hacerlo, será firmado por alguna otra presente, en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 966.- El actor tiene el derecho de acompañar al comisario o al gendarme que lleve la cita para hacerle las indicaciones que faciliten la entrega.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 967.- Las citas se extenderán en esqueletos impresos tomados de libros talonarios. Un duplicado se agregará al expediente respectivo.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 968.- El comisario o gendarme que entregue la cita recogerá, en una libreta especial, recibo de ella, el cual, si no supiere o no pudiere firmar la persona que debiera hacerlo, será firmado por alguna otra presente, en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
 
 En el juzgado habrá el número necesario de libretas para que pueda llevar una cada encargado de entregar citas.
 
-ART. 14.- En los casos a que se refiere el artículo 10, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o no pudiere firmar, lo hará en su ruego, un testigo; si no quisiera firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de dos a cinco pesos.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 969.- En los casos a que se refiere el artículo 10, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o no pudiere firmar, lo hará en su ruego, un testigo; si no quisiera firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de dos a cinco pesos.
 
 En la libreta se asentará la razón de lo ocurrido.
 
-ART. 15.- Los peritos, testigos y, en general, terceros que no constituyan parte pueden ser citados por correo, telégrafo y aún teléfono, cerciorándose el secretario, previamente, de la exactitud de la dirección de la persona citada.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 970.- Los peritos, testigos y, en general, terceros que no constituyan parte pueden ser citados por correo, telégrafo y aún teléfono, cerciorándose el secretario, previamente, de la exactitud de la dirección de la persona citada.
 
 Identidad de las partes
 
-ART. 16.- Cuando se presente como actor o como reo alguien que no sea personalmente conocido por el juez ni por el secretario, se procederá a su identificación por medio de declaración oral, o carta de conocimiento de persona caracterizada y de arraigo, por documento bastante, o por cualquier otro medio que fuere suficiente a juicio del juez.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 971.- Cuando se presente como actor o como reo alguien que no sea personalmente conocido por el juez ni por el secretario, se procederá a su identificación por medio de declaración oral, o carta de conocimiento de persona caracterizada y de arraigo, por documento bastante, o por cualquier otro medio que fuere suficiente a juicio del juez.
 
 No será necesaria la identificación aunque se trate de personas desconocidas, cuando por la naturaleza o circunstancias del caso no hubiere peligro de suplantación de la persona.
 
@@ -4445,13 +4601,21 @@ El que se presente como actor o como reo usando el nombre de otro para hacerse p
 
 Del juicio
 
-ART. 17.- Si al anunciarse el despacho del negocio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de uno a diez pesos, que aplicará al reo por vía de indemnización, y, sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 18.- Si al ser llamado a contestar la demanda no estuviere presente el demandado, y constare que fue debidamente citado, lo cual comprobará el juez con especial cuidado, se dará por contestada la demanda en sentido afirmativo y se continuará la audiencia. Cuando se presente durante ella el demandado, continuará ésta con su intervención, según el estado en que se halle, y no se le admitirá prueba sobre ninguna excepción, si no demostrare el impedimento de caso fortuito o fuerza mayor que le impidiera presentarse a contestar la demanda.
+ART. 972.- Si al anunciarse el despacho del negocio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de uno a diez pesos, que aplicará al reo por vía de indemnización, y, sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
 
-ART. 19.- Si al anunciarse el despacho del negocio no estuvieren presentes el actor ni el demandado, se tendrá por no expedida la cita y podrá expedirse de nuevo si el actor lo pidiere. Lo mismo se observará cuando no concurra el demandado y aparezca que no fue citado debidamente.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 20.- Concurriendo al juzgado las partes, en virtud de la citación, se abrirá la audiencia y en ella se observarán las siguientes prevenciones:
+ART. 973.- Si al ser llamado a contestar la demanda no estuviere presente el demandado, y constare que fue debidamente citado, lo cual comprobará el juez con especial cuidado, se dará por contestada la demanda en sentido afirmativo y se continuará la audiencia. Cuando se presente durante ella el demandado, continuará ésta con su intervención, según el estado en que se halle, y no se le admitirá prueba sobre ninguna excepción, si no demostrare el impedimento de caso fortuito o fuerza mayor que le impidiera presentarse a contestar la demanda.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 974.- Si al anunciarse el despacho del negocio no estuvieren presentes el actor ni el demandado, se tendrá por no expedida la cita y podrá expedirse de nuevo si el actor lo pidiere. Lo mismo se observará cuando no concurra el demandado y aparezca que no fue citado debidamente.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 975.- Concurriendo al juzgado las partes, en virtud de la citación, se abrirá la audiencia y en ella se observarán las siguientes prevenciones:
 
 I.- Expondrán oralmente sus pretensiones, por su orden, el actor su demanda y el reo su contestación, y exhibirán los documentos u objetos que estimen conducentes a su defensa, y presentarán a los testigos y peritos que pretendan sean oídos;
 
@@ -4467,15 +4631,23 @@ VI.- En cualquier estado de la audiencia y, en todo caso, antes de pronunciar el
 
 VII.- El juez oirá las alegaciones de las partes para lo cual concederá hasta diez minutos a cada una, y, en seguida, pronunciará su fallo en presencia de ellas, de una manera clara y sencilla.
 
-ART. 21.- Las sentencias se dictarán a verdad sabida, sin necesidad de sujetarse a las reglas sobre estimación de las pruebas, sino apreciando los hechos según los jueces lo creyeren debido en conciencia.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 22.- Debe el juez observar escrupulosamente lo dispuesto por el artículo 141 de este Código (de Procedimientos Civiles), aún en negocios mercantiles. No se impondrán multas por temeridad. Los gastos de ejecución serán a cargo del condenado.
+ART. 976.- Las sentencias se dictarán a verdad sabida, sin necesidad de sujetarse a las reglas sobre estimación de las pruebas, sino apreciando los hechos según los jueces lo creyeren debido en conciencia.
 
-ART. 23.- Contra las resoluciones pronunciadas por los jueces de paz no se dará más recurso que el de responsabilidad.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 977.- Debe el juez observar escrupulosamente lo dispuesto por el artículo 141 de este Código (de Procedimientos Civiles), aún en negocios mercantiles. No se impondrán multas por temeridad. Los gastos de ejecución serán a cargo del condenado.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 978.- Contra las resoluciones pronunciadas por los jueces de paz no se dará más recurso que el de responsabilidad.
 
 Ejecución de las sentencias
 
-ART. 24.- Los jueces de paz tienen obligación de proveer a la eficaz e inmediata ejecución de sus sentencias, y, a ese efecto, dictarán todas las medidas necesarias, en la forma y términos que a su juicio fueren procedentes, sin contrariar las reglas siguientes:
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 979.- Los jueces de paz tienen obligación de proveer a la eficaz e inmediata ejecución de sus sentencias, y, a ese efecto, dictarán todas las medidas necesarias, en la forma y términos que a su juicio fueren procedentes, sin contrariar las reglas siguientes:
 
 I.- Si al pronunciarse la sentencia estuvieren presentes ambas partes, el juez las interrogará acerca de la forma que cada una proponga para la ejecución y procurará que lleguen a un avenimiento a ese respecto;
 
@@ -4483,35 +4655,59 @@ II.- El condenado podrá proponer fianza de persona abonada para garantizar el p
 
 III.- Llegado el caso, el ejecutor, asociado de la parte que obtuvo y sirviendo de mandamiento en forma la sentencia condenatoria, procederá al secuestro de bienes conforme a los artículos que siguen.
 
-ART. 25.- El secuestro podrá recaer en toda clase de muebles, con excepción de los vestidos, muebles de uso común e instrumentos y útiles de trabajo en cuanto sean enteramente indispensables, a juicio del ejecutor, y de los sueldos y pensiones del Erario. El embargo de sueldos o salarios sólo se harán cuando la deuda reclamada fuere por alimentos, o por responsabilidad proveniente de delitos, graduándola el ejecutor, equitativamente en atención al importe de los sueldos y a las necesidades del ejecutado y su familia.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 26.- La elección de los bienes en que hubiere de recaer el secuestro será hecha por el ejecutor, prefiriendo los más realizables, y teniendo en cuenta lo que expongan las partes.
+ART. 980.- El secuestro podrá recaer en toda clase de muebles, con excepción de los vestidos, muebles de uso común e instrumentos y útiles de trabajo en cuanto sean enteramente indispensables, a juicio del ejecutor, y de los sueldos y pensiones del Erario. El embargo de sueldos o salarios sólo se harán cuando la deuda reclamada fuere por alimentos, o por responsabilidad proveniente de delitos, graduándola el ejecutor, equitativamente en atención al importe de los sueldos y a las necesidades del ejecutado y su familia.
 
-ART. 27.- Si no se hallare el condenado en su habitación, despacho, taller o establecimiento, la diligencia se practicará con la persona que se encuentre, y si no hubiere nadie, con un vecino y el gendarme del punto.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 28.- En caso necesario, previa orden especial y escrita del juez, se podrán practicar cateos y romper cerraduras en cuanto fuere indispensable para encontrar bienes bastantes.
+ART. 981.- La elección de los bienes en que hubiere de recaer el secuestro será hecha por el ejecutor, prefiriendo los más realizables, y teniendo en cuenta lo que expongan las partes.
 
-ART. 29.- Si el secuestro recayere en créditos o rentas, la ejecución consistirá en notificar al que deba de pagarlos que los entregue al juzgado luego que se venzan o sean exigibles. Cualquier fraude o acto malicioso para impedir la eficacia del secuestro, como anticipar el pago, o aparecer despedido el empleado, o rescindido el contrato, hará personal y directamente responsable al notificado y, en consecuencia, a él se le exigirá el pago de lo sentenciado, a reserva de que a su vez lo exija a la parte condenada.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 30.- El remate de bienes muebles se hará en la forma que determina el artículo 597 del Código de Procedimientos Civiles. Si se tratare de bienes raíces se anunciará el remate por medio de avisos que se fijen en los lugares de costumbre y en la puerta del juzgado, y se hará previa citación de los acreedores que resulten del certificado de gravámenes que sin causa de derechos expedirá el registrador público de la propiedad. El avalúo se hará por medio de cualquiera clase de pruebas que el juez podrá allegar de oficio.
+ART. 982.- Si no se hallare el condenado en su habitación, despacho, taller o establecimiento, la diligencia se practicará con la persona que se encuentre, y si no hubiere nadie, con un vecino y el gendarme del punto.
 
-ART. 31.- Si atendidas las circunstancias y la naturaleza de los bienes, el juez estimare que deben de pignorarse los muebles antes de venderse, los mandará trasladar al Monte de Piedad y los pignorará en la mayor suma posible, pero que no exceda de la necesaria para cubrir la cantidad a cuyo pago se haya condenado y los gastos de traslación. Si la cantidad prestada bastare para cubrir dichos gastos, se entregará el billete de empeño al ejecutado y, en caso contrario, el empeño se hará en el concepto de que el objeto salga a remate en la almoneda más próxima, y el billete se retendrá en el juzgado hasta que el acreedor quede íntegramente pagado o hasta que los objetos pignorados se realicen, entregándose entonces al deudor la demasía que hubiere.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 983.- En caso necesario, previa orden especial y escrita del juez, se podrán practicar cateos y romper cerraduras en cuanto fuere indispensable para encontrar bienes bastantes.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 984.- Si el secuestro recayere en créditos o rentas, la ejecución consistirá en notificar al que deba de pagarlos que los entregue al juzgado luego que se venzan o sean exigibles. Cualquier fraude o acto malicioso para impedir la eficacia del secuestro, como anticipar el pago, o aparecer despedido el empleado, o rescindido el contrato, hará personal y directamente responsable al notificado y, en consecuencia, a él se le exigirá el pago de lo sentenciado, a reserva de que a su vez lo exija a la parte condenada.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 985.- El remate de bienes muebles se hará en la forma que determina el artículo 597 del Código de Procedimientos Civiles. Si se tratare de bienes raíces se anunciará el remate por medio de avisos que se fijen en los lugares de costumbre y en la puerta del juzgado, y se hará previa citación de los acreedores que resulten del certificado de gravámenes que sin causa de derechos expedirá el registrador público de la propiedad. El avalúo se hará por medio de cualquiera clase de pruebas que el juez podrá allegar de oficio.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 986.- Si atendidas las circunstancias y la naturaleza de los bienes, el juez estimare que deben de pignorarse los muebles antes de venderse, los mandará trasladar al Monte de Piedad y los pignorará en la mayor suma posible, pero que no exceda de la necesaria para cubrir la cantidad a cuyo pago se haya condenado y los gastos de traslación. Si la cantidad prestada bastare para cubrir dichos gastos, se entregará el billete de empeño al ejecutado y, en caso contrario, el empeño se hará en el concepto de que el objeto salga a remate en la almoneda más próxima, y el billete se retendrá en el juzgado hasta que el acreedor quede íntegramente pagado o hasta que los objetos pignorados se realicen, entregándose entonces al deudor la demasía que hubiere.
 
 Los gastos de traslación serán pagados, desde luego, por el ejecutor, tomándose su importe de la cantidad prestada.
 
-ART. 32.- Todos los actos del ejecutor serán revisables, sea de oficio o a petición de parte, por el juez, quien podrá modificarlos o revocarlos según lo creyere justo.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 33.- Cuando la sentencia condene entregar cosa determinada, para obtener su complimiento se podrán emplear los medios de apremio que autoriza el artículo 73 de este Código, y si fuere necesario el cateo, se podrá autorizar, previa orden especial y escrita, que se rompan cerraduras en cuanto fuere posible, para encontrar la cosa.
+ART. 987.- Todos los actos del ejecutor serán revisables, sea de oficio o a petición de parte, por el juez, quien podrá modificarlos o revocarlos según lo creyere justo.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 988.- Cuando la sentencia condene entregar cosa determinada, para obtener su complimiento se podrán emplear los medios de apremio que autoriza el artículo 73 de este Código, y si fuere necesario el cateo, se podrá autorizar, previa orden especial y escrita, que se rompan cerraduras en cuanto fuere posible, para encontrar la cosa.
 
 Si ni aún así se obtuviere la entrega, el juez fijará la cantidad que como reparación se deba entregar a la parte que obtuvo, procediéndose a exigir su pago con arreglo a los artículos 24 al 31.
 
-ART. 34.- Si la sentencia condena a hacer, el juez señalará al que fué condenado un plazo prudente para el cumplimiento, y se estará en todo a lo dispuesto en el artículo 516 de este Código (de Procedimientos Civiles).
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 989.- Si la sentencia condena a hacer, el juez señalará al que fué condenado un plazo prudente para el cumplimiento, y se estará en todo a lo dispuesto en el artículo 516 de este Código (de Procedimientos Civiles).
 
 Si el hecho consistiere en el otorgamiento de un contrato, o la celebración de un acto jurídico, el juez lo ejecutará en rebeldía del condenado.
 
-ART. 35.- El tercero que considere perjudicados sus derechos al ejecutarse la sentencia, ocurrirá al juez de paz, presentando sus pruebas, y el juez, con audiencia inmediata de las partes, resolverá si subsiste o no el secuestro, o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa ni sobre otros hechos controvertidos.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 36.- Los juicios de desocupación de predios o localidades arrendadas se substanciarán conforme a las reglas establecidas para los demás juicios, sin tener, en caso alguno, periodo de lanzamiento.
+ART. 990.- El tercero que considere perjudicados sus derechos al ejecutarse la sentencia, ocurrirá al juez de paz, presentando sus pruebas, y el juez, con audiencia inmediata de las partes, resolverá si subsiste o no el secuestro, o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa ni sobre otros hechos controvertidos.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 991.- Los juicios de desocupación de predios o localidades arrendadas se substanciarán conforme a las reglas establecidas para los demás juicios, sin tener, en caso alguno, periodo de lanzamiento.
 
 Cuando la sentencia condene a la desocupación se concederá para ésta un término de ocho a veinte días, según la importancia de la cosa arrendada, a juicio del juez, pero, desde luego, se procederá al aseguramiento de bienes suficientes a cubrir el importe de las rentas a cuyo pago se hubiere condenado.
 
@@ -4519,37 +4715,59 @@ La desocupación de predios rústicos podrá decretarse hasta los sesenta días.
 
 Incidentes
 
-ART. 37.- Las cuestiones incidentales que se susciten ante los jueces de paz se resolverán juntamente con la principal, a menos que por su naturaleza sea forzoso decidirlas antes, o que se promuevan después de la sentencia, pero en ningún caso se formará artículo, sino que se decidirán de plano.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 992.- Las cuestiones incidentales que se susciten ante los jueces de paz se resolverán juntamente con la principal, a menos que por su naturaleza sea forzoso decidirlas antes, o que se promuevan después de la sentencia, pero en ningún caso se formará artículo, sino que se decidirán de plano.
 
 La conexidad sólo procede cuando se trate de juicios que se sigan ante el mismo juez de paz, y se resolverá luego que se promuevan, sin necesidad de audiencia especial ni otra actuación. Queda abolida la práctica de promover acumulaciones de autos llevados ante juzgados de paz diferentes.
 
-ART. 38.- Las promociones de nulidad de actuaciones por falta o defecto de citación o notificación, deben ser despachadas de plano
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 993.- Las promociones de nulidad de actuaciones por falta o defecto de citación o notificación, deben ser despachadas de plano
 
 Reglas generales
 
-ART. 39.- Las disposiciones de este título se aplicarán también en los juicios sobre actos mercantiles, sin que a ello obsten las disposiciones que en contrario hay en el Código de Comercio.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 40.- En los negocios de la competencia de los juzgados de paz, únicamente se aplicarán las disposiciones de este Código (de Procedimientos Civiles) y de la Ley Orgánica del Poder Judicial, en lo que fuere indispensable para complementar las disposiciones de este título y que no se opongan directa ni indirectamente a éstas.
+ART. 994.- Las disposiciones de este título se aplicarán también en los juicios sobre actos mercantiles, sin que a ello obsten las disposiciones que en contrario hay en el Código de Comercio.
 
-ART. 41.- Ante los jueces de paz no será necesaria la intervención de abogados ni se exigirá ritualidad alguna ni forma determinada en las promociones o alegaciones que se hagan.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 42.- El despacho de los juzgados de paz comenzará diariamente a las nueve de la mañana y se podrá interrumpir de las trece a las dieciséis horas, y continuará hasta la hora necesaria para cumplir todos los negocios citados y que se hayan presentado durante el curso del día, pudiendo retirarse el personal después, cuando ya no tenga asunto pendiente y fueren cuando menos las diecinueve horas.
+ART. 995.- En los negocios de la competencia de los juzgados de paz, únicamente se aplicarán las disposiciones de este Código (de Procedimientos Civiles) y de la Ley Orgánica del Poder Judicial, en lo que fuere indispensable para complementar las disposiciones de este título y que no se opongan directa ni indirectamente a éstas.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 996.- Ante los jueces de paz no será necesaria la intervención de abogados ni se exigirá ritualidad alguna ni forma determinada en las promociones o alegaciones que se hagan.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 997.- El despacho de los juzgados de paz comenzará diariamente a las nueve de la mañana y se podrá interrumpir de las trece a las dieciséis horas, y continuará hasta la hora necesaria para cumplir todos los negocios citados y que se hayan presentado durante el curso del día, pudiendo retirarse el personal después, cuando ya no tenga asunto pendiente y fueren cuando menos las diecinueve horas.
 
 Respecto de las actuaciones ante jueces de paz, no hay días ni horas inhábiles.
 
-ART. 43.- Las audiencias serán publicas. Si en la hora señalada para una audiencia no se hubiere terminado el negocio o negocios anteriores, las personas citadas deberán permanecer hasta que llegue su turno al asunto respectivo, siguiéndose rigurosamente para la vista de los negocios el orden que les corresponda, según la lista del día que se fijará en los tableros del juzgado desde la víspera.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 998.- Las audiencias serán publicas. Si en la hora señalada para una audiencia no se hubiere terminado el negocio o negocios anteriores, las personas citadas deberán permanecer hasta que llegue su turno al asunto respectivo, siguiéndose rigurosamente para la vista de los negocios el orden que les corresponda, según la lista del día que se fijará en los tableros del juzgado desde la víspera.
 
 Cuando fuere necesario esperar alguna persona a quien hubiere llamado a la audiencia, o conceder tiempo a los peritos para que examinen las cosas acerca de las que hayan de emitir dictamen, u ocurriera algún otro caso que lo exija, a juicio del juez, se suspenderá la audiencia por un término prudente, no mayor de una hora, y si fuere enteramente indispensable, dispondrá el juez la continuación para el día siguiente, a más tardar. La violación de este precepto amerita corrección disciplinaria, que impondrá el superior, y será anotada en el expediente que a cada funcionario judicial corresponda.
 
-ART. 44.- Para cada asunto se formará un breve expediente con los documentos relativos a él y, en todo caso, con el acta de la audiencia, en la que muy sucintamente se relatarán los puntos principales y se asentará la sentencia, así como lo relativo a su ejecución. Bastará que las actas sean autorizadas por el juez y el secretario o los testigos de asistencia en su caso; pero los interesados tendrán el derecho de firmarlas también, pudiendo sacar copias de ellas, cuya exactitud certificará, el secretario previo cotejo, si así se pidiere. El condenado que estuviere presente firmará, en todo caso, el acta, a menos de no saber o estar físicamente impedido; si fuere posible se imprimirán sus huellas digitales.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 999.- Para cada asunto se formará un breve expediente con los documentos relativos a él y, en todo caso, con el acta de la audiencia, en la que muy sucintamente se relatarán los puntos principales y se asentará la sentencia, así como lo relativo a su ejecución. Bastará que las actas sean autorizadas por el juez y el secretario o los testigos de asistencia en su caso; pero los interesados tendrán el derecho de firmarlas también, pudiendo sacar copias de ellas, cuya exactitud certificará, el secretario previo cotejo, si así se pidiere. El condenado que estuviere presente firmará, en todo caso, el acta, a menos de no saber o estar físicamente impedido; si fuere posible se imprimirán sus huellas digitales.
 
 En los asuntos de menos de cincuenta pesos no se requiere ni la formación de expediente, bastando con asentar en el libro de gobierno el asunto de la demanda y la contestación que se diere, sucintamente relatada, y los puntos resolutivos de la sentencia con los preceptos legales que le sirvieron de fundamento.
 
-ART. 45.- Los documentos y objetos presentados por las partes les serán devueltos al terminar la audiencia, tomándose razón.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 46.- Para la facilidad y rapidez en el despacho, las citas, órdenes, actas y demás documentos necesarios, se extenderán en esqueletos impresos que tendrán los huecos que su objeto requiera, y los cuales se llenarán haciendo constar, en breve extracto, lo indispensable para la exactitud y precisión del documento. Cuando por motivos especiales fuere necesario hacer constar más de lo que cupiere en el hueco correspondiente, se escribirá al reverso del documento, o en hojas que se agregarán a él. El Presidente del Supremo Tribunal de Justicia fijará cada año, en el mes de diciembre, los modelos de los esqueletos que se hayan de emplear en el año siguiente, oyendo, al efecto, a los jueces de paz, a los que convocarán a las juntas que estimen necesarias, y cuidarán de la impresión y distribución de los esqueletos en cantidad necesaria.
+ART. 1000.- Los documentos y objetos presentados por las partes les serán devueltos al terminar la audiencia, tomándose razón.
 
-ART. 47.- Los jueces de paz no son recusables; pero deben excusarse cuando estén impedidos y, en tal caso, el negocio pasará al otro juzgado de la misma municipalidad, si lo hubiere, y si no, al que corresponda en el número de municipalidad. Si los jueces impedidos no se excusaren, a queja de parte, el superior impondrá corrección disciplinaria y hará la anotación en el expediente del funcionario.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 1001.- Para la facilidad y rapidez en el despacho, las citas, órdenes, actas y demás documentos necesarios, se extenderán en esqueletos impresos que tendrán los huecos que su objeto requiera, y los cuales se llenarán haciendo constar, en breve extracto, lo indispensable para la exactitud y precisión del documento. Cuando por motivos especiales fuere necesario hacer constar más de lo que cupiere en el hueco correspondiente, se escribirá al reverso del documento, o en hojas que se agregarán a él. El Presidente del Supremo Tribunal de Justicia fijará cada año, en el mes de diciembre, los modelos de los esqueletos que se hayan de emplear en el año siguiente, oyendo, al efecto, a los jueces de paz, a los que convocarán a las juntas que estimen necesarias, y cuidarán de la impresión y distribución de los esqueletos en cantidad necesaria.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+
+ART. 1002.- Los jueces de paz no son recusables; pero deben excusarse cuando estén impedidos y, en tal caso, el negocio pasará al otro juzgado de la misma municipalidad, si lo hubiere, y si no, al que corresponda en el número de municipalidad. Si los jueces impedidos no se excusaren, a queja de parte, el superior impondrá corrección disciplinaria y hará la anotación en el expediente del funcionario.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -4622,3 +4840,13 @@ P.O. 18 DE SEPTIEMBRE DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los trámites de adopción pendientes de resolver a la fecha de entrada en vigor de este Decreto, deberán continuarse de conformidad con las disposiciones anteriores, salvo que los promoventes soliciten por escrito al Juez durante el procedimiento, que se apliquen las nuevas disposiciones.
+
+P.O. 25 DE MARZO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTICULO SEGUNDO.
+
+Los juicios que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de este Decreto, se seguirán substanciando y se resolverán conforme a las disposiciones vigentes al momento de su inicio.
