@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1980-10-27"
+last_updated: "1980-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1011,9 +1011,11 @@ Los miembros del Ayuntamiento se renovarán cada tres años, tomando posesión l
 
 La falta de miembros de Ayuntamiento o de Alcaldes Judiciales, durante su ejercicio, se cubrirá por los mismos Ayuntamientos a mayoría absoluta de votos, requiriéndose cuando menos la asistencia de dos terceras partes del número total de concejales, erigidos en Asamblea Electoral; dándose aviso al Ejecutivo del resultado de la elección.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+
 ###### Art. 125.
 
-Los Ayuntamientos, por conducto del Ejecutivo, enviarán a la Diputación Permanente, en el mes de Febrero de cada año, las cuentas giradas durante el año anterior, con sus comprobantes, a fin de que el Congreso en su segundo período de sesiones las revise, previo el informe del mismo Ejecutivo.
+Los Ayuntamientos por conducto del Ejecutivo enviarán a la Diputación Permanente las cuentas giradas durante el año anterior, a fin de que el H. Congreso en su Segundo Período Ordinario de Sesiones las revise, previo el informe del mismo Ejecutivo.
 
 ###### Art. 126.
 
@@ -1674,3 +1676,7 @@ UNICO:- La presente reforma entrará en vigor al siguiente día de su publicaci�
 P.O. 27 DE OCTUBRE DE 1980.
 
 UNICO:- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1980.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
