@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2004-06-09"
+last_updated: "2004-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -297,9 +297,9 @@ I.- El Gobernador del Estado.
 
 II.- El Secretario de Gobierno y los otros Secretarios del Despacho del Ejecutivo.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
 
-III.- Los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado y el Procurador General de Justicia;
+III.- Los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Comisionados de la Comisión de Acceso a la IOnformación Pública y el Procurador General de Justicia;
 
 > <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -473,13 +473,13 @@ XIV.- Promover e impulsar la educación pública y el engrandecimiento de todos 
 
 XV.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo, que hubiere hecho la autoridad electoral correspondiente.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
 
-XVI.- Recibir del Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, Consejeros de la Judicatura del Estado, Presidente de la Comisión Estatal de Derechos Humanos, Comisionados Ciudadanos de la Comisión Estatal Electoral, Magistrados del Tribunal Electoral del Estado y Diputados, en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las Leyes que de ambas emanen.
+XVI.- Recibir del Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, Consejeros de la Judicatura del Estado, Presidente de la Comisión Estatal de Derechos Humanos, Comisionados de la Comisión de Acceso a la Información Pública, Comisionados Ciudadanos de la Comisión Estatal Electoral, Magistrados del Tribunal Electoral del Estado y Diputados, en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ellas emanen.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
 
-XVII.- Aceptar las renuncias del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, Consejeros de la Judicatura del Estado, Comisionados Ciudadanos de la Comisión Estatal Electoral, Magistrados del Tribunal Electoral del Estado y Presidente de la Comisión Estatal de Derechos Humanos, cuando se funden en una imposibilidad justificada;
+XVII.- Aceptar las renuncias del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, Consejeros de la Judicatura del Estado, Comisionados de la Comisión de Acceso a la Información Pública, Comisionados Ciudadanos de la Comisión Estatal Electoral, Magistrados del Tribunal Electoral del Estado y Presidente de la Comisión Estatal de Derechos Humanos, cuando se funden en una imposibilidad justificada;
 
 XVIII.- Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar éstos en su caso, y pedir al Congreso de la Unión su aprobación.
 
@@ -791,9 +791,9 @@ I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con vecindad en e
 
 II.- Tener cuando menos treinta años cumplidos el día de la elección.
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
 
-III.- No desempeñar el cargo de Secretario de Despacho del Ejecutivo, Magistrado del Tribunal Superior de Justicia o del Tribunal de lo Contencioso Administrativo, Consejero de la Judicatura del Estado, Procurador General de Justicia, Presidente de la Comisión Estatal de Derechos Humanos, Comisionado Ciudadano de la Comisión Estatal Electoral, Magistrado del Tribunal Electoral del Estado, Servidor Público o Militar en servicio activo.
+III.- No desempeñar el cargo de Secretario del Despacho del Ejecutivo, Magistrado del Tribunal Superior de Justicia o del Tribunal de lo Contencioso Administrativo, Consejero de la Judicatura del Estado, Procurador General de Justicia, Presidente de la Comisión Estatal de Derechos Humanos, Comisionado Ciudadano de la Comisión Estatal Electoral, Magistrado del Tribunal Electoral del Estado, Comisionado de la Comisión de Acceso a la Información Pública, Servidor Público o Militar en servicio activo.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -1055,9 +1055,9 @@ El Presidente del Tribunal Superior de Justicia también será el Presidente del
 
 Las personas que sean consideradas para ser Consejeros de la Judicatura deberán haberse distinguido por su honestidad, capacidad y aptitud profesional para el desempeño de la función. Los funcionarios del Poder Judicial del Estado, excepto el Presidente del Tribunal Superior de Justicia, no podrán ser Consejeros de la Judicatura, salvo si se separan del cargo cien días naturales antes de su elección o designación.
 
-(REFORMADO, P.O. 9 DE JUNIO DE 2004) (F. DE E., P.O. 18 DE JUNIO DE 2004)
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
 
-Los Consejeros de la Judicatura del Estado no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Salvo el Presidente del Consejo, los demás Consejeros durarán en su cargo cinco años improrrogables y serán sustituidos de manera escalonada.
+Los Consejeros de la Judicatura del Estado no representan a quien los designa, por lo que ejercerá (sic) su función con independencia e imparcialidad. Salvo el Presidente del Consejo, los demás Consejeros durarán en su cargo cinco años improrrogables y serán sustituidos de manera escalonada.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -1309,9 +1309,9 @@ de los Servidores Públicos
 
 Para los efectos de lo preceptuado en este Título, se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los servidores o empleados y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, ya sea del Estado o los Municipios; quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-Los ciudadanos que conformen los organismos electorales y los que fueren designados para integrar el Tribunal Electoral a que se refiere la Ley Electoral, estarán con motivo del desempeño de su encargo, sujetos a las responsabilidades de los servidores públicos a que se refieren este artículo y las leyes reglamentarias
+Los ciudadanos que conformen los organismos electorales, los que fueren designados para integrar el Tribunal Electoral a que se refiere la Ley Electoral y los Comisionados de la Comisión de Acceso a la Información Pública, estarán con motivo del desempeño de su encargo, sujetos a las responsabilidades de los servidores públicos a que se refieren este artículo y las leyes reglamentarias
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
@@ -1363,11 +1363,11 @@ La Ley determinará los casos y las circunstancias en los que se deba sancionar 
 
 Se concede acción popular para formular denuncias ante el Congreso del Estado, respecto de las conductas a que se refiere el artículo que antecede, debiendo presentarse por escrito y fundarse con elementos de prueba que hagan presumir la ilicitud de la conducta del servidor público.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos de Juicio Político los Diputados al Congreso del Estado, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces, el Procurador General de Justicia, los Secretarios del Despacho del Ejecutivo, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; así como los Presidentes Municipales, Regidores y Síndicos.
+Podrán ser sujetos de Juicio Político los Diputados al Congreso del Estado, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Comisionados de la Comisión de Acceso a la Información Pública, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces, el Procurador General de Justicia, los Secretarios del Despacho del Ejecutivo, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; así como los Presidentes Municipales, Regidores y Síndicos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
@@ -1383,11 +1383,11 @@ Las declaraciones y resoluciones tanto del Congreso como del Tribunal Superior d
 
 Las sanciones consistirán en la destitución del servidor público y en su caso la inhabilitación temporal para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
 ###### Art. 112.
 
-Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, los Consejeros de la Judicatura, el Procurador General de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Secretarios del Despacho del Ejecutivo, así como los Presidentes Municipales, Regidores y Síndicos por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus integrantes y previa audiencia del indiciado, si ha o no lugar a proceder contra él.
+Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, los Comisionados de la Comisión de Acceso a la Información Pública, los Consejeros de la Judicatura, el Procurador General de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Secretarios del Despacho del Ejecutivo, así como los Presidentes Municipales, Regidores y Síndicos por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus integrantes y previa audiencia del indiciado, si ha o no lugar a proceder contra él.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
@@ -2928,3 +2928,7 @@ Artículo Tercero.- A partir del día siguiente al de la publicación del presen
 Artículo Cuarto.- El Consejo de la Judicatura se integrará con el Presidente del Tribunal Superior de Justicia y dos Consejeros, a partir de la fecha en que concluya el encargo del actual Consejero en funciones designado por el Pleno del Tribunal Superior de Justicia, o bien, al separarse este Consejero de su cargo por cualquier causa. Los Consejeros designados por el Titular del Poder Ejecutivo y por el H. Congreso del Estado, que en esa fecha se encuentren en funciones, continuarán en su cargo hasta completar el período para el que hubieren sido originalmente designados.
 
 Artículo Quinto.- Los asuntos en trámite ante el Tribunal Superior de Justicia a la fecha de entrada en vigor del presente Decreto, y que correspondan a las atribuciones que están siendo asignadas al Consejo de la Judicatura en esta reforma, serán concluidos por dicho Tribunal.
+
+P.O. 21 DE JUNIO DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
