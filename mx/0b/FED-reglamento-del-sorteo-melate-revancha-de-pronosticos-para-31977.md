@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-revancha-de-pronosticos-para-31977
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-02"
-last_updated: "2002-10-02"
+last_updated: "2003-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31977&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-09-26"
 
 REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 18 DE JUNIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 2 de octubre de 2002.
 
@@ -364,3 +366,11 @@ El presente Reglamento, fue revisado y aprobado en su contenido por la Secretar�
 México, D.F., a 26 de septiembre de 2002.
 
 Presidente Suplente del H. Consejo Directivo Lic. Luis Manuel Gutiérrez Levy Rúbrica. Secretario del H. Consejo Directivo Lic. Eduardo Antonio Ancona González Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 18 DE JUNIO DE 2003.
+
+Primero.- Este reglamento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el reglamento del concurso "Melate-Revancha" de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el 2 de octubre de 2002.
