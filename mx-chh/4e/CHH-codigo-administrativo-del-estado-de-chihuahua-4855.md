@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1981-05-30"
+last_updated: "1981-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1981.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -959,9 +959,33 @@ Por cada seis días de trabajo, disfrutará el trabajador cuando menos de un dí
 
 Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos, después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 93.
 
-Serán días de descanso obligatorio los que señale el Calendario Oficial del Estado o así se determinen por acuerdo expreso del Gobernador.
+Son días de descanso obligatorio:
+
+1o. de enero,
+
+5 de febrero,
+
+21 de marzo,
+
+1o. de mayo,
+
+16 de septiembre,
+
+12 de octubre,
+
+20 de noviembre,
+
+1o. de diciembre cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal.
+
+25 de diciembre,
+
+Los que se determinen por acuerdo expreso del Gobernador del Estado.
+
+Por lo que se refiere al Poder Judicial se estará a lo dispuesto en el Código de Procedimientos Civiles.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 1979)</small>
 
@@ -972,6 +996,18 @@ Los trabajadores disfrutarán de un período anual de vacaciones, de veinte día
 Cuando por cualquier motivo un trabajador no pudiere hacer uso de las vacaciones en el período señalado, disfrutará de ellas durante los diez siguientes días a la fecha en que haya desaparecido la causa que impidiere el disfrute de este descanso, pero en ningún caso los trabajadores que laboren en períodos de vacaciones tendrán derecho a doble pago de sueldos. Tampoco serán acumulables los sueldos o las vacaciones.
 
 El trabajador tendrá derecho a que se le pague una prima no menor a dos días y medio de salario, al disfrutar cada período vacacional.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 1981)</small>
+
+ARTICULO 94 BIS.- Los trabajadores al servicio de los Poderes Legislativo, Ejecutivo y Judicial que tengan una antiguedad mínima de un año, disfrutarán de una gratificación de fin de año de 40 días de sueldo, que les deberá ser cubierta en dos partes iguales, la primera antes del 15 de diciembre del año a que corresponda la gratificación y la segunda, a más tardar, el 15 de enero del año siguiente.
+
+Los trabajadores con antiguedad menor de un año, pero con más de tres meses de servicios, tendrán derecho a la gratificación en forma proporcional, sobre las siguientes bases:
+
+a).- 30 días de sueldo a quienes hayan ingresado antes del 1o. de abril del año a que corresponda la gratificación.
+
+b).- 20 días a quienes hayan ingresado antes del 1o. de julio del año a que corresponda la gratificación.
+
+c).- 10 días a los que hayan ingresado antes del 1o. de octubre del año a que corresponda la gratificación.
 
 ###### ARTICULO 95.
 
@@ -2001,7 +2037,7 @@ Las actas del Registro Civil sólo se asentarán en los libros a que se refiere 
 
 ###### ARTICULO 232.
 
-Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año conluido.
+Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año concluido.
 
 ###### ARTICULO 233.
 
@@ -10537,9 +10573,9 @@ ECONOMIA
 
 ## TITULO PRIMERO
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1452.
 
@@ -10559,9 +10595,9 @@ VI.- Fundar y mantener organismos coordinados, establecimientos públicos descen
 
 ## TITULO SEGUNDO
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+### CAPITULO VII. DE LAS CONURBACIONES
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1453.
 
@@ -10631,7 +10667,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10709,7 +10745,7 @@ Los notarios públicos y los funcionarios que actúen por receptoría sólo podr
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10999,13 +11035,13 @@ VII.- Intervenir en los casos a que se refiere el artículo 1491 en lo que afect
 
 VIII.- Las demás que les otorgue el presente título y las disposiciones legales relativas.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11131,9 +11167,9 @@ IV.- La duración.
 
 Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título, se podrán utilizar en forma compatible con su destino o uso previsto, hasta la fecha señalada en que deberán aplicarse dichos predios a los usos y destinos que la autoridad haya determinado.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11149,9 +11185,7 @@ En todo lo relativo a la estructura vial y sistema de transporte en el Estado, s
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1504.
 
@@ -11247,9 +11281,15 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+DECIMA PRIMERA PARTE
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1515.
 
@@ -11289,7 +11329,7 @@ II.- A la introducción de los servicios públicos.
 
 Una vez determinados los jefes de familia beneficiados, la presidencia municipal otorgará los títulos de propiedad correspondientes, los que deberán inscribirse en el Registro Público de la Propiedad respectivo sin causar derechos al fisco del Estado.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 #### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
@@ -11335,11 +11375,7 @@ V.- La dotación de servicios públicos como: agua, drenaje, electricidad, recol
 
 Para la construcción de viviendas deberá mediar solicitud del interesado ante el ayuntamiento que satisfaga los requisitos previstos por este Título, el Código Municipal y demás disposiciones aplicables. Los fondos de vivienda y demás organismos e instituciones del sector público, al igual que los particulares están obligados al cumplimiento de las normas legales y reglamentarias que regulen esta materia.
 
-(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
-
-DECIMA PRIMERA PARTE
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 #### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
 
@@ -11385,7 +11421,7 @@ En el caso de que los propietarios o poseedores no cumplan con las obligaciones 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11455,7 +11491,7 @@ Se consideran afectos al patrimonio cultural del Estado: los edificios, monument
 
 Para la conservación del patrimonio a que se refiere el artículo anterior, el plan estatal y los reglamentos de este Título, considerarán las medidas y disposiciones que impiden el menoscabo o la degradación de dicho patrimonio, estableciendo disposiciones que reduzcan el empleo de idiomas, giros y modismos extranjeros, y que excluyan la adopción de estilos arquitectónicos, deformantes de los valores tradicionales de la ciudad.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO I. DE LAS COMPETENCIAS
 
@@ -11509,7 +11545,7 @@ Se atenderá el crecimiento de los centros de población mediante la determinaci
 
 A partir de la publicación de los planes de desarrollo urbano prevista en el artículo 1480, las áreas y predios en ellos comprendidos quedarán sujetos a las normas de la misma.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO II. DE LOS PROCEDIMIENTOS
 
@@ -12648,3 +12684,7 @@ P.O. 30 DE MAYO DE 1981.
 PRIMERO.- Este Decreto entrará en vigor en toda la Entidad veinte días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Para los efectos del artículo 56-Bis de la Ley Orgánica del Poder Judicial del Estado, los Juzgados de Primera Instancia seguirán conociendo, hasta su conclusión, de las controversias del orden familiar conforme al procedimiento iniciado, siempre que en las mismas se haya practicado el emplazamiento al demandado o demandados. En caso contrario, remitirán los expedientes respectivos al Juez de lo Familiar que corresponda, para su tramitación conforme a las disposiciones del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 1981.
+
+ARTICULO TRANSITORIO.- Las presentes disposiciones entrarán en vigor a partir del 1o. de enero de 1982.
