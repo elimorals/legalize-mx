@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-comunicaciones-y-12533"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-05-17"
-last_updated: "1998-03-20"
+last_updated: "1999-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 17 de mayo de 1996.
 
@@ -47,9 +47,11 @@ REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS DEL ESTA
 
 La Secretaría de Comunicaciones y Obras Públicas es la dependencia de la Administración Pública Estatal encargada de auxiliar al titular del Ejecutivo en el desarrollo, fomento y conservación de las vías de comunicación de jurisdicción estatal en el control y vigilancia de los servicios de transporte, así como en la planeación, conservación y ejecución de las obras públicas en el Estado, con las funciones y atribuciones que expresamente le encomienda la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, así como otras leyes, reglamentos, decretos, acuerdos y órdenes del Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 2o.
 
-Al frente de la Secretaría habrá un Secretario quien tendrá a su cargo el despacho de los asuntos encomendados a la Secretaría y que, para el efecto, se auxiliará de las siguientes unidades administrativas:
+Al frente de la Secretaría habrá un Secretario quien tendrá a su cargo el despacho de los asuntos encomendados a la Secretaría y que, para el efecto, se auxiliará de las siguientes unidades administrativas
 
 Dirección General de Obras Públicas
 
@@ -61,27 +63,23 @@ Dirección General Administrativa
 
 Dirección de Construcción de Obra Pública
 
-Dirección Técnica
+Secretaría Técnica
 
 Dirección de Diseño y Proyectos
 
 Dirección de Construcción de Caminos
 
-Dirección de Conservación de Caminos
+Dirección de Comunicaciones
 
-Dirección de Comunicaciones y Transportes
-
-Dirección Técnica Operativa
+Dirección de Transportes
 
 Dirección de Concursos y Contratos
 
-Dirección de Evaluacion y Seguimeiento
-
 Dirección de Administración
 
-> <small>(ADICIONADA, P.O. 20 DE MARZO DE 1998)</small>
-
 Dirección Jurídica
+
+Dirección de Informática
 
 Los manuales de organización precisarán la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas a que se refiere este artículo.
 
@@ -131,7 +129,9 @@ XIII.- Coordinar, vigilar y controlar el funcionamiento de los órganos desconce
 
 XIV.- Supervisar, vigilar, controlar y coordinar a las entidades agrupadas a su sector;
 
-XV.- Otorgar, conforme a las disposiciones aplicables y en el ámbito de su competencia, las concesiones y demás actos administrativos previstas en las leyes de la materia;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+XV.- Otorgar, conforme a las disposiciones aplicables y en el ámbito de su competencia, las concesiones y demás actos administrativos previstos en las leyes de la materia;
 
 XVI.- Resolver las dudas que se susciten internamente con motivo de la interpretación del presente Reglamento; y
 
@@ -237,13 +237,21 @@ XI.- Las demás que se le confieran y las que le señalen las disposiciones lega
 
 Corresponde al Director General de Comunicaciones y Transportes, previo acuerdo con el Secretario:
 
-I.- Integrar y mantener actualizado, con los datos que conforme a las disposiciones legales correspondan, el inventario de los transportes públicos que prestan sus servicios en el Estado;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
 
-II.- Participar, en el ámbito de su competencia, en la instalación de señalamientos viales, en coordinación con las dependencias y entidades Federales, Estatales y Municipales correspondientes;
+I.- Integrar y mantener actualizado el padrón del transporte público en el Estado, con los datos que, conforme a las disposiciones legales correspondan;
 
-III.- Vigilar, en coordinación con las autoridades competentes en la materia, el cumplimiento de las disposiciones legales de comunicaciones y transporte público local;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
 
-IV.- Vigilar, coordinar, supervisar y, en su caso, controlar el funcionamiento del transporte público de pasajeros y de carga de competencia estatal;
+II.- Participar en el ámbito de su competencia y en coordinación con las dependencias y entidades Federales, Estatales y Municipales correspondientes, en la instalación de dispositivos viales;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+III.- Vigilar, en coordinación con las autoridades competentes en la materia, el cumplimiento de las disposiciones legales de comunicaciones y transporte público;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+IV.- Vigilar, coordinar, supervisar y, en su caso, controlar en el ámbito de su competencia, los servicios de transporte en la entidad;
 
 V.- Diseñar y, en su caso, proponer al Secretario la implementación de programas y sistemas tendientes a eficientar el transporte público de pasajeros;
 
@@ -251,17 +259,45 @@ VI.- Adoptar las medidas necesarias para prevenir el incumplimiento de las dispo
 
 VII.- Inspeccionar periódicamente las condiciones en que se presten los servicios públicos de transporte, para lo cual, en su caso, podrá solicitar el auxilio y cooperación de las autoridades municipales que correspondan;
 
-VIII.- Someter a la consideración del Secretario para su correspondiente aprobación, el otorgamiento de concesiones y permisos para la prestación del servicio público de transporte, su renovación o cancelación cuando proceda;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
 
-IX.- Someter a la consideración del Secretario los itinerarios, rutas y documentos necesarios para la prestación del servicio de transporte público, así como, sus modificaciones para su correspondiente aprobación;
+VIII.- Someter a la consideración del Secretario para su correspondiente aprobación, el otorgamiento de concesiones para la prestación del servicio público de transporte, su renovación o cancelación cuando proceda;
 
-X.- Establecer los mecanismos necesarios a efecto de implementar la medicina preventiva en el autotransporte y vigilar el cumplimiento de la misma;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
 
-XI.- Expedir la documentación relativa a la circulación de vehículos del servicio público de transporte en el Estado;
+IX.- Expedir los permisos para prestar los servicios de transporte a que se refieren las disposiciones legales conducentes, así como renovarlas o cancelarlas cuando proceda;
 
-XII.- Planear, en coordinación con la Dirección General de Caminos, el tránsito y la vialidad en las vías públicas de jurisdicción estatal, ejecutando las acciones necesarias para su mejoramiento; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
 
-XIII.- Las demás que se le confieran y las que le señalen las disposiciones legales relativas, así como las que le competen a las unidades administrativas que se le hubieren adscrito.
+X.- Someter a la consideración del Secretario para su aprobación, los itinerarios, rutas y documentos necesarios para la prestación del servicio público de transporte, así como, en su caso, sus modificaciones;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+XI.- Establecer los mecanismos necesarios a efecto de implementar la medicina preventiva en el servicio público de transporte y vigilar el cumplimiento de la misma;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+XII.- Expedir la documentación relativa a la circulación de vehículos del servicio público de transporte en el Estado;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+XIII.- Custodiar y mantener bajo su responsabilidad las placas y demás documentos de control vehicular que, conforme a la legislación correspondiente, competa otorgar a la Secretaría;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+XIV.- Supervisar, en el ámbito de su competencia y en coordinación con las autoridades fiscales competentes, el cobro que por concepto de derechos vehiculares del transporte público estatal se lleve a cabo por las mismas;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+XV.- Autorizar los permisos provisionales que, para circular sin placas en las vías públicas, expida el Director de Transportes;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+XVI.- Planear, en coordinación con la Dirección General de Caminos, el tránsito y la vialidad en las vías públicas de jurisdicción estatal, ejecutando las acciones necesarias para su mejoramiento; y
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+XVII.- Las demás que se le confieran y las que le señalen otras disposiciones aplicables, así como las que le competan a las unidades administrativas que se le hubieren adscrito.
 
 ###### ARTICULO 11.
 
@@ -293,15 +329,21 @@ XII.- Llevar y mantener actualizado el inventario de los activos de la Secretar�
 
 XIII.- Las demás que se le confieran y las que le señalen las disposiciones legales relativas, así como las que le competan a las unidades administrativas que se le hubieren adscrito.
 
-### CAPITULO IV. DE LAS DIRECCIONES DE AREA
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JUNIO DE 1999)</small>
+
+### CAPITULO IV. DE LAS DIRECCIONES DE AREA Y DE LA SECRETARIA TECNICA
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 12.
 
-Al frente de las Direcciones de Area habrá un Director, quien se auxiliará de los Subdirectores de área, Jefes de departamento, Jefes de oficina, de sección y de mesa, así como del personal técnico y administrativo requerido, atendiendo a la organización interna de las Direcciones Generales y que así sea previsto y autorizado por el presupuesto de egresos correspondiente.
+Al frente de las Direcciones de Area y de la Secretaría Técnica habrá un Director y un Secretario Técnico, respectivamente, quienes se auxiliarán de los subdirectores de área, Jefes de departamento, Jefes de oficina, de sección y de mesa, así como del personal técnico y administrativo requerido, atendiendo a la organización interna de las Direcciones Generales y que así sea previsto y autorizado por el presupuesto de egresos correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 13.
 
-Corresponden a los Directores de Area, previo acuerdo con el Director General de su adscripción, las siguientes atribuciones generales:
+Corresponden a los Directores de Area y al Secretario Técnico, previo acuerdo, en su caso, con el Director General de su adscripción, las siguientes atribuciones generales:
 
 I.- Planear, programar, presupuestar, organizar, dirigir, controlar y evaluar el funcionamiento de las áreas administrativas bajo su responsabilidad;
 
@@ -345,21 +387,25 @@ VII.- Coordinar y supervisar el adecuado funcionamiento de las delegaciones o re
 
 VIII.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 15.
 
-Corresponde al Director Técnico, previo acuerdo con el Director General de Obras Públicas:
+Corresponde al Secretario Técnico, previo acuerdo con su superior jerárquico:
 
-I.- Diseñar, en el ámbito de su competencia y en coordinación con la unidad que corresponda las obras públicas que planee realizar el Gobierno del Estado y programar su construcción;
+I.- Brindar la asesoría técnica que le sea requerida por el Secretario o por la unidades administrativas adscritas a la dependencia;
 
-II.- Supervisar, en la esfera de su competencia, que la programación de las obras públicas se ejecute de conformidad con los lineamientos y programas aprobados en el seno del Comité de Planeación para el Desarrollo del Estado (COPLADE);
+II.- Revisar, en el ámbito de su competencia, que las bases de licitación y las convocatorias para las licitaciones de obra pública se apeguen a las disposiciones legales aplicables;
 
-III.- Presupuestar los proyectos de obra pública elaborados y proporcionados por las dependencias y entidades de la Administración Pública Estatal;
+III.- Revisar, en la esfera de su competencia, los procedimientos de licitación para la adjudicación de obras públicas;
 
-IV.- Revisar, en el ámbito de su competencia, la información proporcionada por la Dirección de Construcción para la elaboración de los proyectos y presupuestos correspondientes a los distintos programas de obra;
+IV.- Proporcionar la asesoría técnica que le sea solicitada por las dependencias ejecutoras de obras públicas;
 
-V.- Brindar asesoría técnica cuando le sea solicitada, tratándose de construcciones especiales; y
+V.- Practicar las diligencias que le sean encomendadas por el Secretario en los términos de las disposiciones aplicables;
 
-VI.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
+VI.- Participar, en el ámbito de su competencia, en la elaboración de anteproyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones que tiendan a regular la esfera de competencia de la Secretaría; y
+
+VII.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría o su superior jerárquico inmediato.
 
 ###### ARTICULO 16.
 
@@ -421,99 +467,77 @@ VI.- Las demás que las disposiciones legales le atribuyan, así como aquellas q
 
 ###### ARTICULO 19.
 
-Corresponde al Director de Conservación de Caminos, previo acuerdo con el Director General de Caminos:
+(DEROGADO, P.O. 4 DE JUNIO DE 1999)
 
-I.- Coordinar a las unidades administrativas adscritas a la Dirección General en la supervisión y control de obras en materia de caminos;
-
-II.- Supervisar el cumplimiento de las disposiciones conducentes al derecho de vía y, en su caso, analizar los proyectos que se presenten para su utilización;
-
-III.- Dirigir y coordinar los programas que para la conservación de la red de carreteras y caminos de jurisdicción estatal se implementen;
-
-IV.- Conservar la información general y estadística de las obras que en materia de caminos se lleve a cabo en la entidad;
-
-V.- Gestionar ante las autoridades competentes, las afectaciones correspondientes al derecho de vía;
-
-VI.- Analizar las inversiones por obra y por programa, así como de conservación de caminos; y
-
-VII.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 20.
 
-Corresponde al Director de Comunicaciones y Transportes, previo acuerdo con el Director General de Comunicaciones y Transportes:
+Corresponde al Director de Comunicaciones, previo acuerdo con el Director General de Comunicaciones y Transporte:
 
-I.- Desempeñar las comisiones que le encomiende el Director General y notificarle sobre el resultado de las mismas;
+I.- Desempeñar las comisiones que le encomiende el Director General y notificarle sobre los resultados de las mismas;
 
-II.- Recibir las quejas y sugerencias que los particulares presenten en relación a los servicios de comunicaciones y transportes en el Estado, así como gestionar su resolución ante las autoridades e instituciones que correspondan;
+II.- Recibir, analizar y atender las peticiones formuladas por las dependencias y entidades de la Administración Pública Estatal, así como por particulares relativas a los servicios de comunicaciones en el Estado y, en su caso, gestionar su resolución ante las autoridades e instituciones que correspondan;
 
-III.- Atender las peticiones formuladas por autoridades estatales o municipales, ciudadanos y prestadores de los servicios de transporte público en la entidad;
+III.- Coordinar, en unión de las autoridades competentes y, en su caso, con los particulares, la ejecución de los programas en materia de comunicaciones;
 
-IV.- Turnar las peticiones recibidas a las dependencias y entidades a las que corresponda conocer, dando seguimiento a su tramitación;
+IV.- Establecer y mantener comunicación con las autoridades Federales, Estatales y Municipales, con el propósito de unificar criterios administrativos en la materia de su competencia;
 
-V.- Establecer y mantener comunicación con las autoridades Federales, Estatales y Municipales, a fin de unificar criterios administrativos en materia de comunicaciones y transportes;
+V.- Supervisar, en el ámbito de su competencia, que los procedimientos para la expedición de licencias para conducir se realicen en los términos de las disposiciones jurídicas aplicables;
 
-VI.- Supervisar, en el ámbito de su competencia y en coordinación con las autoridades respectivas, el cobro que por concepto de derechos vehiculares del autotransporte público estatal se lleve a cabo por las autoridades correspondientes;
+VI.- Supervisar y ejecutar, en la esfera de su competencia, los programas y presupuestos que se requieran para el adecuado funcionamiento de las unidades administrativas adscritas a la Dirección General; y
 
-VII.- Supervisar la elaboración de la documentación vehicular que corresponda;
+VII.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
 
-VIII.- Custodiar y mantener bajo su responsabilidad las placas y demás documentos que conforme a la legislación en la materia de autotransporte corresponda otorgar a la Secretaría; y
-
-IX.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 21.
 
-Corresponde al Director Técnico Operativo, previo acuerdo con el Director General de Comunicaciones y Transportes:
+Corresponde al Director de Transportes, previo acuerdo con el Director General de Comunicaciones y Transportes:
 
 I.- Desempeñar las comisiones que le encomiende el Director General y notificarle sobre los resultados de los mismas (sic);
 
 II.- Realizar los estudios tendientes a mejorar la calidad en la prestación de los servicios de transporte público;
 
-III.- Elaborar programas tendientes a apoyar las campañas de seguridad vial que se implementen en la entidad;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+III.- Coordinar y supervisar las revisiones físico mecánicas de los vehículos del transporte público conforme a las especificaciones y normas aplicables;
 
 IV.- Analizar las solicitudes para el otorgamiento o la prórroga de concesiones o permisos para la prestación del servicio público de transporte de competencia estatal;
 
-V.- Realizar los estudios que sobre vialidad y transporte le sean solicitados;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+V.- Expedir, previa autorización del Director General, permisos provisionales a los conductores del servicio particular en los términos de las disposiciones legales correspondientes;
 
 VI.- Supervisar los operativos de inspección periódica que se lleven a cabo a los medios de transporte en la entidad;
 
 VII.- Vigilar el exacto cumplimiento de las condiciones y obligaciones que se establezcan en las concesiones o permisos;
 
-VIII.- Elaborar los proyectos de itinerarios, horarios, rutas y tarifas para el servicio público de transporte de jurisdicción estatal; y
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 1999)</small>
 
-IX.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
+VIII.- Coordinar la impartición de cursos de capacitación a los operadores del servicio público de transporte;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+IX.- Elaborar los proyectos de itinerarios, horarios, rutas y tarifas para el servicio público de transporte de jurisdicción estatal;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+X.- Coordinar y supervisar la correcta aplicación de los procedimientos para la aplicación de las sanciones a los conductores del servicio particular o público por la (sic) infracciones que cometan en las vías públicas de competencia estatal;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+XI.- Implementar y supervisar operativos de inspección y vigilancia de los servicios de transporte en la entidad;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 1999)</small>
+
+XII.- Diseñar e instrumentar, en coordinación con las autoridades de tránsito municipales, programas permanentes de educación y seguridad vial; y
+
+XIII.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
 
 ###### ARTICULO 22.
 
-Corresponde al Director de Evaluación y Seguimiento, previo acuerdo con el Director General Administrativo:
-
-I.- Conocer de los avances físicos y financieros de las obras;
-
-II.- Dar seguimiento a los acuerdos y resoluciones que emita la Secretaría;
-
-III.- Coordinar y, en su caso, participar en las reuniones en que intervenga la Secretaría;
-
-IV.- Brindar información y orientación a los representantes de los sectores privados y social que soliciten la intervención de la Secretaría; y
-
-V.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
-
-###### ARTICULO 23.
-
-Corresponde al Director de Administración previo acuerdo con el Director General Administrativo:
-
-I.- Supervisar la correcta y eficaz administración de los recursos asignados a la Secretaría;
-
-II.- Realizar los trámites administrativos que conforme a las disposiciones legales se requieran en materia de personal, ante las dependencias y entidades que correspondan;
-
-III.- Proporcionar, previa autorización, la información que sea solicitada por autoridades fiscales en relación a las actividades realizadas por la Secretaría con proveedores y contratistas;
-
-IV.- Vigilar el cumplimiento de la normatividad establecida en materia fiscal y administrativa en relación con los pagos que corresponda efectuar a la Secretaría;
-
-V.- Elaborar las solicitudes de pago y gastos de la Secretaría;
-
-VI.- Establecer los procesos de control presupuestal que se requieran;
-
-VII.- Llevar los estados de cuenta de los programas de inversión que realice la Secretaría; y
-
-VIII.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
+(DEROGADO, P.O. 4 DE JUNIO DE 1999)
 
 ###### ARTICULO 23.
 
@@ -558,6 +582,26 @@ VII.- Compilar las leyes, reglamentos, decretos, acuerdos y demás disposiciones
 IX (SIC).- Elaborar los informes previos y justificados que deban rendir a las autoridades federales el Secretario o los Directores de las unidades administrativas que corresponden a la Secretaría, cuando la misma sea señalada como autoridad responsable o bien tenga el carácter de tercero perjudicado; y
 
 X.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 23 Bis-A.
+
+Corresponde al Director de Informática, previo acuerdo con el Director General Administrativo:
+
+I.- Proporcionar el soporte técnico de los sistemas de informática para agilizar y hacer eficiente el manejo de la información para las actividades que requiera la Secretaría;
+
+II.- Llevar a cabo el análisis y el diseño de los programas que se requieran para mejorar los procedimientos para el manejo de los sistemas de la dependencia;
+
+III.- Evaluar y proponer a su superior jerárquico la adopción de sistemas de hardware y software que satisfagan las necesidades de la Secretaría;
+
+IV.- Controlar y programar el mantenimiento preventivo y correctivo del equipo de informática asignado a la Secretaría;
+
+V.- Proporcionar la asesoría y la capacitación que se requiera para el manejo de los sistemas de informática de la Secretaría;
+
+VI.- Desarrollar proyectos a corto, mediano y largo plazo respecto de las necesidades de actualización y mejora de quipos (sic) y sistemas; y
+
+VII.- Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría y su superior jerárquico inmediato.
 
 ### CAPITULO V. DE LOS ORGANOS DESCONCENTRADOS
 
@@ -626,3 +670,9 @@ P.O. 20 DE MARZO DE 1998.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 4 DE JUNIO DE 1999.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a este decreto.
