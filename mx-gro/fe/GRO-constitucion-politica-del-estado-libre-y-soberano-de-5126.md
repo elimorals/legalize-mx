@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1988-10-21"
+last_updated: "1988-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1988.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -489,13 +489,17 @@ El Poder Legislativo se ejerce por una Cámara de Diputados que se denomina "CON
 
 La elección de los miembros del Congreso Local será directa y en los términos que disponga la Ley Electoral respectiva.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1988)</small>
 
 ###### ARTICULO 29.
 
-El Congreso del Estado se compondrá por catorce Diputados electos, según el principio de votación mayoritaria relativa conforme al número de Distritos Electorales y hasta por doce Diputados de Representación Proporcional, que serán asignados en los términos y condiciones que establece la Ley Electoral del Estado. A ningún Partido Político se le podrán asignar más de veinte Diputados.
+El Congreso del Estado se compondrá por 24 Diputados electos según el principio de votación mayoritaria relativa, conforme al número de Distritos Electorales y hasta por 12 Diputados de Representación Proporcional que serán asignados en los términos y condiciones que establece la Ley Electoral del Estado y en lo conducente el Artículo 54 de la Constitución General de la República. Por cada Diputado Propietario se elegirá un Suplente.
 
-Los Diputados de Mayoría y de Representación Proporcional, tendrán la misma categoría legal e iguales derechos y obligaciones.
+Los Diputados de mayoría y los de representación proporcional tendrán la misma categoría legal e iguales derechos y obligaciones, concurriendo a la integración y a las resoluciones del H. Congreso, las cuales se tomarán invariablemente conforme al principio de mayoría de los asistentes a sesión.
+
+En congruencia con el artículo 41 de la Constitución General de la República los Partidos políticos son Entidades de interés público y tendrán los derechos y disfrutarán de las prerrogativas que las leyes otorguen.
+
+El registro de los Partidos políticos se ajustará a lo que las leyes dispongan, pudiendo conservar el mismo por el plazo que las propias leyes establezcan aquellos partidos políticos que lo hayan perdido ante las autoridades federales.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -587,11 +591,11 @@ El día veinticuatro de marzo del año de renovación del Poder Legislativo se i
 
 El mismo veinticuatro de marzo, después de instalada la Legislatura iniciará su primer Período Ordinario de Sesiones en los términos del artículo 41 de la presente Constitución.
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1988)</small>
 
 ###### ARTICULO 40.
 
-Para que el Congreso pueda instalarse y ejercer sus funciones se necesita por lo menos la asistencia de las dos terceras partes del número total de sus miembros, pero los presentes, deberán reunirse el día señalado en el artículo anterior y compeler a los ausentes para que concurran de inmediato, apercibiéndolos que de no hacerlo se llamará al suplente respectivo, salvo los casos de impedimento justificado. Si el suplente correspondiente tampoco se presentara a la brevedad requerida se declarará vacante el puesto y se convocará a nuevas elecciones.
+Para que el Congreso pueda instalarse y ejercer sus funciones se necesita por lo menos la mayoría del número total de sus miembros, debiendo reunirse el día señalado en el artículo anterior y compeler a los ausentes para que concurran de inmediato, apercibiéndolos que de no hacerlo se llamará al suplente respectivo, salvo los casos de impedimento justificado. Si el suplente correspondiente tampoco se presentara a la brevedad requerida se declarará vacante el puesto y se convocará a nuevas elecciones.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 1987)</small>
 
@@ -831,11 +835,11 @@ IV.- A los Ayuntamientos en el ámbito de su competencia.
 
 La discusión y aprobación de las Leyes y Decretos se hará con estricto apego a la Ley Orgánica del Poder Legislativo, pero las Iniciativas de Ley enviadas por el Jefe del Ejecutivo pasarán desde luego a la Comisión que deba dictaminar con arreglo a la propia Ley.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1988)</small>
 
 ###### ARTICULO 52.
 
-Para la discusión y votación de todo proyecto de Ley o Decreto se necesita la presencia de las dos terceras partes de los miembros del Congreso; para su aprobación se requiere la mayoría de votos de los diputados que estuvieren presentes, habiendo quórum.
+Para la discusión y aprobación en su caso, de todo proyecto de Ley o Decreto se necesita la votación de la mayoría de los Diputados presentes.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -969,7 +973,7 @@ II.- El Gobernador Interino, el Provisional o el Ciudadano que bajo cualquier de
 
 En las faltas temporales del Gobernador que no excedan de treinta días, se encargará del despacho el funcionario que el Jefe del Ejecutivo designe.
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+(REFORMADO, P.O. 31 DE ENERO DE 1984) (F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ARTCULO (SIC) 69.- Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviese hecha y declarada el primero de abril, cesará sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo en calidad de Gobernador Interino, el que designe el Congreso del Estado, o en su falta con el carácter de Provisional, el que designe la Comisión Permanente.
 
@@ -979,7 +983,7 @@ Si la falta temporal se convierte en absoluta, se procederá conforme al siguien
 
 Si el Congreso no estuviere reunido, la Comisión Permanente citará a los miembros ausentes a una sesión extraordinaria que se llevará a efecto dentro de las veinticuatro horas siguientes, procediendo en consecuencia.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1988)</small>
 
 ###### ARTICULO 69.
 
@@ -989,7 +993,7 @@ En caso de falta absoluta del Gobernador ocurrida en los dos primeros años del 
 
 ###### ARTICULO 70.
 
-En caso de falta absoluta del Gobernador ocurrida en los dos primeros años del periodo respectivo, si el Congreso estuviere en sesiones se constituirá inmediatamente en Colegio Electoral y con la presencia de las dos terceras partes del número total de sus miembros cuando menos, nombrarán en escrutinio secreto y por mayoría de votos, al Gobernador Interino.
+En caso de falta absoluta del Gobernador ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones se constituirá inmediatamente en Colegio Electoral y con la presencia de la mayoría del número total de sus miembros, cuando menos nombrarán en escrutinio secreto y por mayoría de votos, al gobernador interino.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1517,7 +1521,7 @@ La educación que proporcione el Estado será gratuita y lo puede hacer por sí 
 
 El sistema estatal de enseñanza ajustará sus planes y programas de estudio al sistema federal, estableciendo para el efecto la coordinación necesaria con las autoridades educativas federales. Tratándose de la educación superior, se procurará el desarrollo del Estado o la región, sin perjuicio de aprovechar los conocimientos, las experiencias o los medios de las instituciones federales o de otras entidades.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 110.
 
@@ -1701,13 +1705,21 @@ Para que las reformas o adiciones lleguen a ser parte de la Constitución, deben
 
 I.- Presentar iniciativa suscrita por los Diputados o por el Gobernador;
 
-II.- Discutir y aprobar las reformas o adiciones o ambas, por cuando menos las dos terceras partes de la totalidad de los miembros del Congreso.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 1988)</small>
 
-III.- Aprobar las reformas o adiciones o ambas, por un mínimo de las dos terceras partes de la totalidad de los Ayuntamientos.
+II.- Discutir y aprobar las reformas o adiciones o ambas, por la mayoría de los Diputados presentes.
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 1988)</small>
+
+III.- Aprobar las reformas o adiciones o ambas, por la mayoría de la totalidad de los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1988)</small>
 
 Si el Jefe del Ejecutivo veta las reformas o adiciones éstas no podrán ser discutidas nuevamente hasta el siguiente período de sesiones del Congreso.
 
-Si el Congreso insistiere en sostener sus reformas o adiciones, éstas no volverán a discutirse sino hasta la siguiente Legislatura; y en caso de que ésta las aprobara de nueva cuenta, el Gobernador las promulgará sin ningún otro trámite.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1988)</small>
+
+Si el Congreso insistiere en sostener sus reformas adicionales, éstas no volverán a discutirse sino hasta la siguiente Legislatura; y en caso de que ésta las aprobara de nueva cuenta, el Gobernador las promulgará sin ningún otro trámite.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1773,7 +1785,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 ## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
@@ -2388,3 +2400,7 @@ El presente Decreto entrará en vigor a partir de la fecha de su publicación en
 P.O. 21 DE OCTUBRE DE 1988.
 
 UNICO.- El presente Decreto de reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Guerrero, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 1988.
+
+UNICO.- El presente Decreto de Reformas y Adiciones a la Constitución Política del Estado Libre y Soberano de Guerrero, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
