@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1985-10-30"
+last_updated: "1987-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 1987.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -111,7 +111,9 @@ Son ciudadanos del Estado todos los Nuevoleoneses mayores de 18 años de edad, s
 
 Los derechos de los Ciudadanos Mexicanos residentes en el Estado son:
 
-I.- Elegir a los mandatarios del Estado.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1987)</small>
+
+I.- Votar en las elecciones populares.
 
 II.- Ser votados para cualquier cargo de elección, si reúnen las condiciones que exigen las leyes.
 
@@ -163,53 +165,61 @@ III.- Por sublevación contra las instituciones o contra las Autoridades Constit
 
 Corresponde exclusivamente a la Legislatura del Estado rehabilitar en sus derechos de ciudadano nuevoleonés a los que los hayan perdido; pero es requisito indispensable para esto que la persona a quien se conceda esa gracia goce de los derechos de ciudadano mexicano.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE ABRIL DE 1987)</small>
+
 ###### ARTICULO 28.
 
 El Estado de Nuevo León comprende el Territorio de lo fué (sic) provincia del Nuevo Reyno de León, con los límites que marcan los convenios relativos con los Estados vecinos, y continúa dividido en las siguientes Municipalidades: Monterrey, (Capital del Estado), Abasolo, Agualeguas, Apodaca, Arramberri, Allende, Bustamante, Cadereyta Jiménez, Carmen, Cerralvo, Ciénega de Flores, China, Dr. Arroyo, Dr. Coss, Dr. González, Galeana, García, Garza García, Gral. Bravo, Gral. Escobedo, Gral. Terán, Gral. Treviño, Gral. Zaragoza, Gral. Zuazua, Guadalupe, Higueras, Hualahuises, Iturbide, Juárez, Lampazos, de Naranjo, Linares, Los Ramones, Los Aldamas, Los Herreras, Marín, Mier y Noriega, Mina, Montemorelos, Parás, Pesquería Chica, Rayones, Sabinas Hidalgo, Salinas Victoria, San Nicolás Hidalgo, San Nicolás de los Garzas, Santa Catarina, Santiago, Vallecillo, Villaldama y las Congregaciones de Colombia y Melchor Ocampo, con las demás Municipalidades que se formen en lo sucesivo.
 
-## TITULO III.
+## TITULO III.. Del Proceso Electoral
 
-De las Elecciones.
-
-(REFORMADO, P.O. 14 DE DICIEMBRE DE 1966)(REPUBLICADO, P.O. 18 DE ENERO DE 1967)
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
 ###### Art. 41.
 
-La renovación del personal que integra los Poderes Legislativo, Ejecutivo y los Ayuntamientos en el Estado, se verificará por medio de elecciones populares directas en las fechas, términos y con los requisitos que determinará una ley reglamentaria.
+El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los órganos del poder público. La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos del Estado, se realizará en elecciones populares, mediante la emisión del sufragio universal, libre, secreto y directo.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
 ###### Art. 42.
 
-Los ciudadanos nuevoleoneses, reunidos en sus respectivas secciones en los días señalados para las elecciones populares, forman asambleas electorales y ejercen el principal de sus derechos políticos. Las forman también el Congreso o la Diputación Permanente, en su caso, al ocuparse de las funciones electorales que esta Constitución o las leyes les encomienden. Una vez instaladas estas asambleas, ninguna autoridad puede darles órdenes, impedir sus funciones ni intervenir en sus actos, sino cuando se perturbe el orden público, fuera de los casos especificados en la ley, con relación a las facultades de las mesas electorales. En caso de perturbación del orden público, las Autoridades deben limitarse a restablecerlo, garantizando el ejercicio del sufragio a todos los ciudadanos, sin perjuicio de que concluída la elección se proceda como corresponda.
+Los partidos políticos son entidades de interés público. Tienen como finalidad promover la organización y participación de los ciudadanos en la vida política, y permitir el acceso de éstos a la integración de los órganos de representación popular. Los partidos políticos nacionales y estatales con registro gozarán de personalidad jurídica para todos los efectos legales.
+
+El Gobierno del Estado garantizará en todo tiempo la libertad de los partidos políticos para la difusión de sus principios y programas y gozarán de financiamiento público para el cumplimiento de sus fines.
+
+Los partidos políticos que actúen en la entidad, deberán respetar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, y las Leyes que de ellas emanen.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
 ###### Art. 43.
 
-Fuera del caso de delito infraganti, ningún ciudadano puede ser arrestado el día de las elecciones ni la víspera. En caso de delito infraganti la autoridad tomará las providencias necesarias para la aprehensión del delincuente, una vez que haya depositado su voto.
+Corresponde a los Poderes del Estado, a los partidos políticos y a los ciudadanos, la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará la participación de los mismos en dichos procesos y en la integración y funcionamiento de los organismos electorales.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1976)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
 ###### Art. 44.
 
-La Ley Electoral del Estado de Nuevo León, reglamentaria de la Constitución Política Local en la materia, determinará las obligaciones, facultades y derechos de los partidos políticos, garantizando ampliamente sus derechos: dispondrá detalladamente la forma, procedimientos y demás requisitos con que deban celebrarse las elecciones, en el concepto de que cada asamblea electoral resolverá las dudas que se ofrezcan sobre la calidad de sus propios miembros; dividirá el Estado en Distritos Electorales, señalando los Municipios que correspondan a cada uno; establecerá los derechos y obligaciones de los votantes; designará quienes no tienen derecho de votar, precisará los casos de nulidad de una elección, acordándose los trámites a que debe sujetarse el procedimiento para pedirla y resolverla, y establecerá las penas que deben aplicarse a los infractores de sus disposiciones.
+Para resolver las controversias que se susciten en los procesos electorales habrá un Tribunal de la materia, cuya integración, competencia y alcance de sus resoluciones serán definidas por la Ley respectiva. En lo referente a la calificación y nulidad de las elecciones, el Congreso del Estado ejercerá las facultades que esta misma Constitución y las leyes establecen.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
 ###### Art. 45.
 
-El censo electoral se levantará cada seis años y precisamente en el que corresponda a la elección de Gobernador.
+La Ley Electoral del Estado, reglamentaria de esta Constitución en la materia, regulará y garantizará el desarrollo de los procesos electorales; el ejercicio del sufragio; los derechos, obligaciones, organización y funciones de los partidos, asociaciones políticas y organismos electorales; la preparación, desarrollo, vigilancia, cómputo y calificación de las elecciones; el procedimiento de lo contencioso electoral; y en general las demás disposiciones relativas al proceso electoral.
+
+El Gobierno del Estado, con la participación de los partidos políticos y de los organismos electorales competentes, procurará la actualización permanente del padrón electoral del Estado.
 
 ## TITULO IV.
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1985)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
 ###### Art. 46.
 
-Se deposita el ejercicio del Poder Legislativo en un Congreso que se renovará cada tres años, compuesto de 26 Diputados electos por mayoría relativa y hasta 8 Diputados electos por minoría, que se asignarán de acuerdo con las bases y formas que señala la Ley Reglamentaria correspondiente.
+Se deposita el Poder Legislativo en un Congreso que se renovará cada tres años, compuesto por veintiséis diputados electos por mayoría relativa, votados en Distritos Electorales Uninominales, y hasta catorce electos por el principio de representación proporcional, designados de acuerdo a las bases y formas que establece la Ley Electoral.
 
-La circunscripción de los 26 Distritos Electorales, serán la que resulte de dividir el total de la población en el Estado, entre los Distritos señalados y por cada uno de ellos se elegirá por mayoría realtiva un Diputado Propietario y un Suplente. También las asignaciones de Diputados de Minoría se harán mediante la misma fórmula de Propietario y Suplente.
-
-Los Diputados electos por mayoría relativa y los Diputados de Minoría, tendrán la misma categoría e iguales facultades y obligaciones.
+Los Diputados de mayoría relativa y de representación proporcional tendrán la misma categoría e iguales facultades y obligaciones.
 
 ###### Art. 47.
 
@@ -267,7 +277,7 @@ Los Diputados propietarios no podrán ser electos para el período inmediato con
 
 ###### Art. 50.
 
-Prefieren al cargo de Diputado los populares de los Supremos Poderes de la Unión y el de Gobernador.
+Prefieren al cargo de Diputados los populares de los Supremos Poderes de la Unión y el de Gobernador.
 
 Concurriendo el cargo de Diputado en una misma persona con cualquiera otro de los no especificados en este artículo, el electo optará por el que quiera.
 
@@ -371,9 +381,9 @@ XIII.- Revisar y aprobar en su caso, cada año y cuando lo juzgue conveniente, l
 
 XIV.- Promover e impulsar la educación pública y el engrandecimiento de todos los ramos de prosperidad en general.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 1976)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1987)</small>
 
-XV.- Computar los votos de que hubieren obtenido los candidatos para los cargos de Gobernador y Diputados; hacer lo propio con los obtenidos por los partidos políticos para los efectos del artículo 46 de esta Constitución; decidir los empates o indecisiones que resulten; resolver las dudas que se ofrezcan sobre la nulidad de las expresadas elecciones y sobre la calidad de los electos; y calificar la verdadera imposibilidad que aleguen los elegidos para no aceptar dichos cargos.
+XV.- Calificar la elección de Gobernador y Diputados; asignar de acuerdo con las bases y formas de la Ley reglamentaria las diputaciones de representación proporcional; y calificar la imposibilidad que aleguen los elegidos para no aceptar dichos cargos.
 
 XVI.- Recibir al Gobernador, Magistrados y Diputados, en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ambas emanen.
 
@@ -501,11 +511,11 @@ III.- Conceder ni abrogarse en ningún caso facultades extraordinarias.
 
 IV.- Consentir en que funcionen como Autoridades las que debiendo ser electas popularmente según esta Constitución, no tengan tal origen.
 
-> <small>(REFORMADO, P.O. 1o. DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
 ###### Art. 65.
 
-La víspera de su receso, en cada período de sesiones ordinarias, la Legislatura nombrará a pluralidad absoluta de votos una Diputación Permanente compuesta de cuatro Diputados en ejercicio.
+Al finalizar el período de sesiones ordinarias la legislatura nombrará una diputación permanente compuesta por ocho diputados.
 
 ###### Art. 66.
 
@@ -632,6 +642,14 @@ El efecto de la declaración de que ha lugar a proceder contra el inculpado, ser
 En demanda del orden civil que se entable contra cualquier servidor público no se requerirá declaración de procedencia.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+
+###### Artículo 121.
+
+Una Ley reglamentaria establecerá el número de Regidores y Síndicos que juntamente con el Presidente Municipal, compongan los Ayuntamientos. En la elección de los Ayuntamientos de todos los Municipios se seguirá el sistema mixto de mayoría relativa y de representación proporcional en la forma y términos que la Ley Electoral establezca.
+
+###### Artículo 152.
+
+Las leyes de que hablan los artículos 45, 63 Fracción XIX, 94 y 121 son Constitucionales y en su reforma se guardarán las mismas reglas que en las de cualquier artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso.
 
 ## TITULO V.
 
@@ -827,7 +845,7 @@ Si la falta absoluta o impedimento perpetuo del Gobernador acaeciere dentro de l
 
 ###### Art. 92.
 
-Nunca se concederá al Ejecutivo licencia con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses. Si concluídala (sic) licencia no se presentare el Gobernador, será llamado por la Legislatura o Diputación; y si no compareciere dentro de diez días, cesará en su cargo, procediéndose como lo disponen los artículos 90 y 91 en sus respectivos casos; salvo lo dispuesto en el artículo 89.
+Nunca se concederá al Ejecutivo licencia con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses. Si concluída la licencia no se presentare el Gobernador, será llamado por la Legislatura o Diputación; y si no compareciere dentro de diez días, cesará en su cargo, procediéndose como lo disponen los artículos 90 y 91 en sus respectivos casos; salvo lo dispuesto en el artículo 89.
 
 ###### Art. 93.
 
@@ -1105,7 +1123,7 @@ Los Municipios podrán celebrar convenios con el Estado para que éste se haga c
 
 Los Municipios están investidos de personalidad jurídica y manejarán su patrimonio conforme a la Ley.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
 
 ###### Art. 121.
 
@@ -1321,6 +1339,8 @@ Para que las adiciones o reformas propuestas sean aprobadas, y se tengan como pa
 
 Para las adiciones o reformas a que se refieren los artículos anteriores se guardarán las mismas reglas que quedan prescritas respecto de las leyes comunes, excepto el derecho de observaciones que no podrá ejercer el Gobernador, según la fracción III del art. 86.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+
 ###### Art. 152.
 
 Las leyes de que hablan los arts. 44, 63 fracción XIX, 94, y 121 son Constitucionales y en su reforma se guardarán las mismas reglas que en las de cualquier artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso.
@@ -1385,7 +1405,7 @@ El C. Ministro Fiscal continuará ejerciendo las funciones que le encomiendan la
 
 ###### Art. 5o.
 
-El actual período constitucional comenzará a contarse: para el Gobernador y los Magistrados del Superior Tribunal de Justicia, desde el cuatro de octubre de mil novecientos quince, hasta el cuatro de octubre de mil novecientos diecinueve; para los Diputados, desde el veinte de junio del presente año hasta el quince de septiembre de mil novecientos diecinueve; y para los Jueces de Letras, desde igual fecha que los últimamente citados hasta el cuatro de octubre de mil novecientos diecinueve.
+El actual período constitucional comenzará a contarse: para el Gobernador y los Magistrados del Superior Tribunal de Justicia, desde el cuatro de Octubre de mil novecientos quince, hasta el cuatro de octubre de mil novecientos diecinueve; para los Diputados, desde el veinte de junio del presente año hasta el quince de septiembre de mil novecientos diecinueve; y para los Jueces de Letras, desde igual fecha que los últimamente citados hasta el cuatro de octubre de mil novecientos diecinueve.
 
 ###### Art. 6o.
 
@@ -1923,7 +1943,7 @@ PRIMERO.- Como consecuencia de esta Reforma Constitucional, el Reglamento vigent
 
 SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero de 1985, previa la publicación en el Periódico Oficial del Estado.
 
-P.O. 1 DE MARZO DE 1985.
+P.O. 1o. DE MARZO DE 1985.
 
 ###### ARTICULO UNICO
 
@@ -1932,3 +1952,9 @@ P.O. 1 DE MARZO DE 1985.
 P.O. 30 DE OCTUBRE DE 1985.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O.13 DE ABRIL DE 1987.
+
+###### ARTICULO UNICO
+
+- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
