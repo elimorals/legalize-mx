@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-sobre-la-renta-434"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1992-11-05"
+last_updated: "2003-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=434&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 1992.
+> <small>N. DE E. EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL IMPUESTO SOBRE LA RENTA PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 17 DE OCTUBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 29 de febrero de 1984.
 
@@ -38,8 +40,6 @@ Que en tal virtud, se hace necesaria la expedición de un nuevo Reglamento en el
 REGLAMENTO DE LA LEY DEL IMPUESTO SOBRE LA RENTA
 
 ## TITULO I. Disposiciones Generales
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE MAYO DE 1990)</small>
 
 ### Capítulo Unico
 
@@ -202,6 +202,8 @@ IV.- (DEROGADA, D.O.F. 15 DE MAYO DE 1990)
 ###### ARTICULO 7o-H.
 
 Para los efectos del inciso b) de la fracción IV del artículo 7o-B de la Ley se considerarán créditos las cuentas por cobrar a plazo menor de un mes a cargo de personas morales no contribuyentes o de personas físicas, contratadas con los contribuyentes que componen el sistema financiero en la realización de operaciones propias de su actividad.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE MAYO DE 1990)</small>
 
 ## TITULO II. De las Personas Morales
 
@@ -2820,3 +2822,83 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 D.O.F. 5 DE NOVIEMBRE DE 1992.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE OCTUBRE DE 2003.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley del Impuesto sobre la Renta de 29 de febrero de 1984 y se dejan sin efecto en lo que se opongan a este Reglamento las disposiciones de carácter administrativo, reglas, consultas e interpretaciones de carácter general contenidas en circulares o publicadas en el Diario Oficial de la Federación en materia del impuesto sobre la renta.
+
+TERCERO. Para aplicar la reducción del impuesto a que se refiere la fracción LXVII Artículo Segundo de las Disposiciones Transitorias de la Ley para 2002, los contribuyentes que además de dedicarse a la edición de libros realicen otras actividades deberán cumplir con los siguientes requisitos:
+
+I. Distinguir en su contabilidad los ingresos obtenidos por la edición y enajenación de sus libros, de los ingresos obtenidos por otras actividades, de tal manera que permita conocer la utilidad de cada actividad.
+
+II. Para los efectos de la fracción anterior, las deducciones que no se identifiquen por actividad, se prorratearán entre las deducciones de los libros editados por el contribuyente y de las otras actividades, en proporción a los ingresos obtenidos por cada actividad.
+
+La reducción se calculará aplicando la tasa contenida en el artículo 10 de la Ley a la utilidad fiscal que corresponda a la enajenación de libros editados por el propio contribuyente y se considerará como monto de la reducción, el por ciento establecido en la citada fracción LXVII para el ejercicio fiscal de que se trate, sobre la cantidad obtenida.
+
+CUARTO. Para los efectos del cuarto párrafo del artículo 154 de la Ley, el análisis del costo promedio por acción, a que se refiere el inciso c) de la fracción II del artículo 204 de este Reglamento, deberá contener, en su caso, la determinación del saldo de la cuenta de utilidad fiscal neta reinvertida a la fecha de adquisición y de enajenación de las acciones, en la proporción que corresponda al enajenante por las acciones adquiridas en la misma fecha, con base en las constancias que deben emitir las sociedades emisoras de las acciones, así como, la determinación de la diferencia de los saldos de la cuenta de utilidad fiscal neta reinvertida a la fecha de adquisición y de enajenación y los factores de actualización aplicados.
+
+QUINTO. Para los efectos de lo dispuesto por la fracción XLV del Artículo Segundo de las Disposiciones Transitorias de la Ley, publicada en el Diario Oficial de la Federación el 1 de enero de 2002, artículos 24 y 25 de la Ley vigente y fracción I del Artículo Segundo de las Disposiciones Transitorias de 2003, los contribuyentes del impuesto que optaron por diferir parte de dicho gravamen conforme a lo dispuesto por el artículo 10 de la Ley vigente hasta el 31 de diciembre de 2001, podrán actualizar el saldo de la cuenta de utilidad fiscal neta reinvertida, que se determine aplicando el siguiente procedimiento:
+
+I. Determinarán las utilidades fiscales netas reinvertidas correspondientes a los ejercicios comprendidos desde el 1 de enero de 1999 o bien, desde el ejercicio de inicio de operaciones cuando éste haya ocurrido después del año citado, y hasta el 31 de diciembre de 2001, conforme a las disposiciones de la Ley vigente en el mismo ejercicio. A la utilidad fiscal neta reinvertida determinada en el ejercicio de que se trate, se le restará el importe de los dividendos o utilidades distribuidos durante dicho ejercicio, conforme a lo dispuesto por la Ley vigente en el ejercicio de que se trate, cuando dichos dividendos provengan del saldo de dicha cuenta.
+
+II. El saldo de la cuenta al último día de cada ejercicio, determinado conforme al párrafo anterior, sin incluir la utilidad fiscal neta reinvertida del ejercicio de que se trate, se actualizará por el periodo comprendido desde el mes en el que se efectuó la última actualización y hasta el último mes del ejercicio de que se trate. Cuando se hayan distribuido dividendos o utilidades con posterioridad a la actualización prevista en este párrafo, el saldo de la cuenta que se tenga a la fecha de la distribución, se actualizará por el periodo comprendido desde el mes en el que se efectuó la última actualización y hasta el mes en el que se hayan distribuido dichos dividendos o utilidades. El saldo determinado se actualizará por el periodo comprendido desde el mes en el que se efectuó la última actualización y hasta el 31 de diciembre de 2001.
+
+III. Cuando la suma del impuesto pagado en el ejercicio de que se trate, en los términos del segundo párrafo del artículo 10 de la Ley vigente en el mismo ejercicio, más las partidas no deducibles para los efectos del impuesto y, en su caso, la participación de los trabajadores en las utilidades de las empresas, correspondientes al ejercicio citado, sean mayores que el resultado fiscal de dicho ejercicio, la diferencia se restará del saldo de la cuenta de utilidad fiscal neta reinvertida actualizada conforme a la fracción anterior, que se tenga al 31 de diciembre de 2001. Para estos efectos la diferencia que se determine se actualizará por el periodo comprendido desde el último mes del ejercicio en el que se determinó y hasta el 31 de diciembre de 2001.
+
+El saldo de la cuenta de utilidad fiscal neta reinvertida que se tenga al 31 de diciembre de 2001, disminuido de la diferencia que, en su caso, se determine conforme al párrafo anterior, se actualizará por el periodo comprendido desde dicho mes y hasta el 31 de diciembre de 2002.
+
+Dicho saldo se disminuirá con el monto de los dividendos o utilidades, actualizados, que se hayan distribuido durante el ejercicio de 2002. Los dividendos o utilidades se actualizarán desde el mes en el que se distribuyeron y hasta el 31 de diciembre de 2002.
+
+El saldo de la cuenta de utilidad fiscal neta reinvertida que se tenga al 31 de diciembre de 2002 determinado conforme a este artículo, se actualizará por el periodo comprendido desde el mes en el que se efectuó la última actualización y hasta el mes en el que se disminuya dicha cuenta por la distribución de dividendos o utilidades provenientes de la misma, que efectúen los contribuyentes a partir de 2003.
+
+SEXTO. Para los efectos del artículo 89 de la Ley, los contribuyentes que hubieran iniciado sus actividades antes del 1o. de enero de 2002, podrán considerar como saldo inicial de la cuenta de capital de aportación, el saldo que de dicha cuenta hubieren determinado al 31 de diciembre de 2001, conforme al artículo 120 de la Ley vigente hasta dicha fecha.
+
+SÉPTIMO. Para los efectos del artículo 88 de la Ley, los contribuyentes que hubieran iniciado sus actividades antes del 1 de enero de 2002, podrán determinar el saldo inicial de la cuenta de utilidad fiscal neta conforme a las reglas de carácter general que emita el SAT.
+
+OCTAVO. Los contribuyentes que con anterioridad al 1 de enero de 2002 hubiesen adquirido acciones consideradas como colocadas entre el gran público inversionista de conformidad con las disposiciones de la Ley vigente hasta el 31 de diciembre de 2001 y que enajenen dichas acciones con posterioridad a dicha fecha, podrán determinar el monto original ajustado de las acciones aplicando el procedimiento establecido en el artículo 24 de la Ley, en lugar del procedimiento que para tales efectos establece la fracción LI del Artículo Segundo de las Disposiciones Transitorias de la citada Ley.
+
+La opción a que se refiere el párrafo anterior se deberá ejercer por todas las acciones que tenga el contribuyente al 31 de diciembre del 2001.
+
+NOVENO. Para los efectos del Artículo Segundo fracción VIII de las Disposiciones Transitorias de la Ley publicadas en el Diario Oficial de la Federación el 30 de diciembre del 2002, los contribuyentes podrán optar por aplicar lo dispuesto en el artículo 25 de la Ley vigente a partir del 1 de enero del 2003, para enajenaciones de acciones por las cuales ya se hubiera calculado el costo promedio con anterioridad al 1 de abril del 2002, siempre que apliquen lo dispuesto en este artículo y consideren como costo comprobado de adquisición en la subsecuente enajenación de dichas acciones el costo promedio por acción que determinen conforme a lo siguiente:
+
+I. Considerarán como fecha de adquisición de las acciones que se enajenen, el 31 de marzo de 2002 y como costo comprobado de adquisición de dichas acciones, el monto original ajustado determinado al 31 de marzo de 2002 de las acciones que tenía a esa fecha de la misma emisora, aplicando las disposiciones vigentes al 31 de diciembre de 2001, disminuido de lo siguiente:
+
+a) Las pérdidas fiscales actualizadas pendientes de disminuir que la persona moral de que se trate tuvo al 1 de enero de 2002, que correspondan al número de acciones que tuvo el contribuyente al 31 de marzo de 2002.
+
+A las pérdidas fiscales pendientes de disminuir al 1 de enero de 2002, no se les disminuirá el monto que de dichas pérdidas se aplicó para efectos de los pagos provisionales correspondientes a los meses de enero, febrero y marzo de 2002.
+
+b) Los reembolsos actualizados pagados por la persona moral de que se trate, que correspondan al número de acciones que haya tenido el contribuyente al 31 de marzo de 2002.
+
+c) La diferencia actualizada que se determine en cada uno de los ejercicios de que se trate, cuando la suma del impuesto del ejercicio correspondiente al resultado fiscal y las partidas no deducibles de la persona moral de que se trate, sea mayor a su resultado fiscal del mismo ejercicio, que corresponda al número de acciones que tuvo el contribuyente al 31 de marzo de 2002. Para estos efectos no se considerarán dentro de las partidas no deducibles las provisiones para la creación o el incremento de reservas complementarias de activo o de pasivo que se constituyan con cargo a las adquisiciones o gastos del ejercicio y las reservas que se creen para indemnizaciones al personal, para pagos de antigüedad y cualquiera otras de naturaleza análoga.
+
+Las pérdidas a que se refiere el inciso a) y la diferencia que se menciona en el inciso c), de esta fracción, se actualizarán por el periodo comprendido desde el mes en el que se efectuó la última actualización y hasta el 31 de marzo de 2002. Los reembolsos pagados a que se refiere el inciso b) de esta fracción, se actualizarán por el periodo comprendido desde el mes en el que se pagaron y hasta el 31 de marzo de 2002.
+
+Las pérdidas fiscales, los reembolsos y la diferencia, a que se refieren los incisos a), b) y c) de esta fracción, de la persona moral de que se trate, se asignarán al contribuyente en la proporción que represente el número de acciones que tuvo al 31 de marzo de 2002 de dicha persona moral, correspondientes al ejercicio en el que se obtuvo la pérdida, se pague el reembolso o se determine la diferencia citada, según corresponda, en el total de acciones en circulación que tuvo la persona moral mencionada, en el ejercicio de que se trate.
+
+El número de acciones que el contribuyente tuvo al 31 de marzo de 2002, se agrupará de acuerdo al ejercicio en el que fueron adquiridas, considerando que las primeras acciones adquiridas fueron las primeras que se enajenaron o reembolsaron, según corresponda.
+
+Para estos efectos, se considerarán las pérdidas fiscales de ejercicios terminados, los reembolsos pagados y la diferencia, a que se refieren los incisos a), b) y c) de esta fracción, obtenidas, pagados o determinadas, respectivamente, durante el periodo comprendido desde la fecha de adquisición de las acciones y hasta el 31 de marzo de 2002, de las acciones que conforman la tenencia accionaria a dicha fecha.
+
+Asimismo, se considerará que las primeras pérdidas que se disminuyeron de la utilidad fiscal fueron las primeras que se generaron, que el primer reembolso que se pagó corresponde a las acciones que primero se adquirieron y que la primera diferencia que se determinó, se aplicó en la primera enajenación.
+
+II. Al resultado obtenido conforme a la fracción anterior, se le adicionará el monto de las pérdidas fiscales que la persona moral emisora de las acciones haya obtenido en ejercicios anteriores a la fecha en la que el contribuyente adquirió las acciones de que se trate y que dicha persona moral haya disminuido de su utilidad fiscal durante el periodo comprendido desde el mes en el que el contribuyente adquirió dichas acciones y hasta el 31 de marzo de 2002.
+
+Las pérdidas a que se refiere el párrafo anterior, se asignarán al contribuyente en la proporción que represente el número de acciones que haya tenido de dicha persona moral al 31 de marzo de 2002, correspondientes al ejercicio en el que la citada persona moral disminuyó dichas pérdidas, respecto del total de acciones en circulación que tuvo la persona moral mencionada, en el ejercicio de que se trate.
+
+III. El resultado obtenido conforme a la fracción anterior, se considerará como monto original ajustado de las acciones que se tuvieron al 31 de marzo de 2002.
+
+IV. El costo promedio por acción se determinará dividiendo el monto a que se refiere la fracción III de este artículo, entre el número de acciones que tuvo el contribuyente al 31 de marzo de 2002 de la misma emisora y será el costo comprobado de adquisición en la subsecuente enajenación de dichas acciones.
+
+Cuando durante el periodo de tenencia de las acciones a que se refiere el primer párrafo de este artículo, el número de acciones en circulación de la persona moral emisora de que se trate, hubiera aumentado o disminuido sin que hubiera variado el importe de su capital social, los contribuyentes podrán optar por aplicar lo dispuesto en este artículo siempre que el costo del total de las acciones que se reciban sea igual al que tenía el paquete accionario que se sustituye. Lo dispuesto en este párrafo es aplicable tratándose de capitalización de otras partidas del capital contable.
+
+La opción a que se refiere este artículo se deberá ejercer por todas las acciones que tuvo el contribuyente al 31 de marzo de 2002 por las que ya se hubiere calculado el costo promedio a que se refiere el primer párrafo de este artículo.
+
+Lo dispuesto en este artículo será aplicable en el caso de fusiones o escisiones efectuadas con anterioridad al 1 de abril de 2002.
+
+Los contribuyentes que hubiesen enajenado acciones entre el 1 de abril de 2002 y la entrada en vigor del presente artículo, que opten por aplicar lo dispuesto en la misma, deberán efectuar un nuevo cálculo para determinar el costo promedio por acción de dichas acciones, aplicando para tales efectos el procedimiento señalado en este artículo. En el caso de que resulte impuesto a cargo del contribuyente, éste se deberá enterar debidamente actualizado y con los recargos correspondientes, mediante declaración complementaria que se deberá presentar a más tardar el día 17 del mes siguiente a aquel en el que se ejerza la opción a que se refiere el presente artículo. En este caso, el adquirente no estará obligado a efectuar retención alguna por el impuesto que resulte a cargo en los términos de este párrafo.
+
+DÉCIMO. Lo establecido en el artículo 277 de este Reglamento, será aplicable sólo para las inversiones realizadas a partir del ejercicio de 2002.
+
+DÉCIMO PRIMERO. Para los efectos del artículo 277 de este Reglamento, las empresas maquiladoras podrán aplicar, en lugar de los por cientos señalados en los artículos 220 y 221 de la Ley, los que se establecen en el "Decreto por el que se otorga un Estímulo Fiscal en Materia de Deducción Inmediata de Bienes Nuevos de Activo Fijo", publicado en el Diario Oficial de la Federación el 20 de junio de 2003.
