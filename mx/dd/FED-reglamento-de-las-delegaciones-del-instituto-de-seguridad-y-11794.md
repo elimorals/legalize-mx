@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-delegaciones-del-instituto-de-seguridad-y-117
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-01"
-last_updated: "2002-04-19"
+last_updated: "2002-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11794&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1997-09-18"
 
 REGLAMENTO DE LAS DELEGACIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2002.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 1 de octubre de 1997.
 
@@ -653,9 +653,11 @@ VIII.- Opinar sobre el manual de organización y funcionamiento de los Consejos 
 
 El Consejo Consultivo estará integrado por el Delegado, quien lo presidirá; los Subdelegados; los Jefes de las Unidades de la Delegación; un representante del gobierno de la entidad federativa, quien será designado por el Gobernador o Jefe de Gobierno; el Secretario General de la Sección correspondiente de la Federación en la entidad; el Secretario General de la correspondiente Sección del Sindicato, y un representante de la organización mayoritaria de jubilados y pensionados legalmente constituida en la entidad federativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 33.
 
-El Consejo Consultivo sesionará por lo menos una vez al mes y cuantas veces sea necesario para la debida atención de los asuntos de su competencia. A las sesiones, el presidente podrá invitar a servidores públicos del Instituto que tengan competencia en los asuntos a tratar.
+El Consejo Consultivo sesionará por lo menos una vez cada dos meses y cuantas veces sea necesario para la debida atención de los asuntos de su competencia. A las sesiones, el presidente podrá invitar a servidores públicos del Instituto que tengan competencia en los asuntos a tratar.
 
 Las demás reglas específicas de organización y funcionamiento del Consejo Consultivo, serán expedidas por el Director General en el correspondiente manual.
 
@@ -916,3 +918,7 @@ D.O.F. 19 DE ABRIL DE 2002.
 PRIMERO.- Las presentes Reformas del Reglamento de Delegaciones del ISSSTE, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- En su oportunidad inscríbanse las presentes reformas en el Registro Público de Organismos Descentralizados.
+
+D.O.F. 28 DE NOVIEMBRE DE 2002.
+
+Unico.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
