@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-6941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-11-20"
-last_updated: "1993-11-20"
+last_updated: "1994-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1994.
 
 Ley publicada en el Periódico Oficial, Organo del Gobierno Constitucional del Estado Libre y Soberano de Oaxaca, el Sábado 20 de Noviembre de 1993.
 
@@ -941,39 +941,39 @@ Los cuerpos de seguridad pública municipales, deberán observar la normatividad
 
 La justicia en los Municipios del Estado se impartirá a tráves de los alcaldes, que serán nombrados de conformidad con el artículo 117 de la Constitución Política Local, durarán en el desempeño de su cargo un año a partir de la fecha de su nombramiento el cual podrá prorrogarse por acuerdo del cabildo hasta el término de la gestión.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+
 ###### ARTICULO 95.
 
 Son atribuciones de los Alcaldes:
 
-I.- Conocer de asuntos de jurisdicción voluntaria, y de aquellos no contenciosos que soliciten las partes.
+(SIC) Conocer de los asuntos de jurisdicción voluntaria y de aquellos no contenciosos de su competencia que soliciten las partes con excepción de las informaciones de dominio y ad-perpetuam;
 
-II.- Auxiliar a los Tribunales y jueces del Estado; por ende, desempeñar las funciones que unos y otros les encomienden, lo mismo en materia civil que en materia penal y para tal cometido, los alcaldes se ajustarán al mandato judicial o de los tribunales;
+II.- Auxiliar a los tribunales y jueces del Estado; por ende, desempeñar las funciones que unos y otros les encomienden, lo mismo en materia civil que en materia penal y para tal cometido, los alcaldes se ajustarán al mandato judicial respectivo.
 
-III.- Conocerá como instancia conciliatoria:
+III.- Conocer como instancia conciliatoria:
 
-a).- De todos aquellos asuntos de carácter meramente administrativo;
+a).- De los asuntos civiles y mercantiles cuyo monto no exceda del importe de cincuenta salarios mínimos generales, vigente en la Zona Centro del Estado de Oaxaca, en el momento de la presentación de la reclamación.
 
-b).- De los asuntos civiles y mercantiles, cuyo monto no exceda de cincuenta días el salario mínimo vigente en la fecha y lugar de los hechos;
+El procedimiento conciliatorio previsto en la presente Ley será potestativo para las partes.
 
-c).- De los delitos que se persigan por querella cualquiera que sea su punibilidad, excepto la de prisión cuando esta exceda de dos años; pero no aplicarán sanción penal alguna.
-
-IV.- Calificar y sancionar las faltas cometidas en contra de los bandos de policía y buen gobierno, reglamentos y otras disposiciones administrativas municipales.
-
-No se podrá formular querella o demanda judicial alguna sin hacer constar que se ha intentado la conciliación ante el alcalde en los asuntos de su competencia.
-
-El resultado de la conciliación o avenimiento de las partes se hará constar en acta circunstanciada, señalando la indemnización que se hubiese pactado, la reparación del daño, forma de pago y en su caso su aseguramiento, así como la multa impuesta cuando fuere procedente. Esta última deberá ser enterada en la tesorería municipal y se aplicará preferentemente a la mejora de la administración de justicia.
-
-Los acuerdos que se tomen tendrán la categoría de cosa juzgada para todos los efectos legales procedentes.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 96.
 
-En el juicio conciliatorio, el Alcalde seguirá el procedimiento siguiente:
+El procedimiento conciliatorio se sujetará a las siguientes normas:
 
-a).- El demandante o peticionario comparecerá ante él y le manifestará su interés de interponer demanda, petición o querella en contra de alguna persona y solicitará se le cite a juicio de conciliación para el día y hora que señale el Alcalde; ésta extenderá una boleta de citación expresando la causa y señalando día y hora para que comparezcan las partes; ésta boleta se hará llegar al domicilio del demandado; si éste no compareciere, se expedirá nuevo citatorio con el correspondiente apercibimiento, y de no comparecer, se entregará constancia de ello al demandante para los efectos de la fracción IV, segundo párrafo del artículo anterior.
+a).- El reclamante acudirá por escrito o por comparecencia ante el juez municipal, precisando las pretensiones que reclame de su contraria, solicitando lo cite a su presencia para los efectos de la audiencia conciliatoria prevista en este precepto.
 
-b).- Presentes el demandado y el demandante, el primero expondrá el motivo de la causa y enseguida el demandado contestará cuanto tenga a bien exponer se procederá al desahogo de las pruebas que hubieren ofrecido las partes en ese acto.
+b).- El alcalde o juez municipal, con la copia de la reclamación correrá traslado a la contraparte, citándolo a su presencia para que comparezca a la audiencia de conciliación, la que se verificará en un término no mayor de diez días naturales a partir de la fecha en que se reciba la solicitud; si por cualquier circunstancia la audiencia no puede celebrarse en la fecha indicada, se verificará dentro de los siguientes ocho días naturales.
 
-c).- Si las partes se conformasen, se anotará así en el acta, firmando o estampando huella digital en ella al calce y margen los que hayan intervenido y el Alcalde les entregará certificación de la misma, previa su lectura.
+Si cualquiera de las partes no comparece después de haber sido citada personalmente por segunda vez, se entenderá que no desea la conciliación y se mandará archivar el asunto como concluído.
+
+c).- En la Junta de Conciliación, el juez municipal exhortará a las partes a conciliar intereses, escuchando brevemente al reclamante y luego a su contraria, para que aleguen lo que a su derecho corresponda.
+
+El resultado de la conciliación o avenimiento de las partes se hará constar en acta circunstanciada, señalando la indemnización que se hubiere pactado, forma de pago y en su caso, su aseguramiento.
+
+Los acuerdos que se tomen tendrán carácter de cosa juzgada para todos los efectos procedentes y su ejecución en caso de incumplimiento corresponderá a los jueces de primera instancia.
 
 ###### ARTICULO 97.
 
@@ -1795,9 +1795,11 @@ T R A N S I T O R I O S :
 
 Se abroga la Ley Orgánica Municipal del Estado de Oaxaca de fecha treinta y uno de enero de mil novecientos ochenta y cuatro, publicada en el alcance al número 5 del Periódico Oficial del Gobierno del Estado, de fecha 2 de febrero de 1984, así como sus reformas y todas las disposiciones legales que se opongan a la ley.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+
 ###### ARTICULO SEGUNDO.
 
-Para los efectos del Título Sexto Capítulo Unico de esta ley que contempla la justicia municipal los alcaldes o jueces municipales que tengan de su conocimiento, en asuntos o juicios de carácter contencioso diversos a los que se establecen en esta ley, en un término de treinta días los harán llegar al Tribunal Superior de Justicia para que se designe a al juez del conocimiento.
+Los alcaldes o jueces municipales seguirán tramitando hasta su conclusión los asuntos de los cuales venían conociendo hasta antes del 21 de diciembre de 1983, conforme a las disposiciones legales vigentes en la epoca en que se iniciaron.
 
 ###### ARTICULO TERCERO.
 
@@ -1814,3 +1816,9 @@ Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplim
 Oaxaca de Juárez, Oax., 25 de junio de 1993. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. DIODORO CARRASCO ALTAMIRANO. Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO. LIC. AGUSTIN MARQUEZ URIBE. Rúbrica.
 
 Y lo comunico a usted para su conocimiento y fines consiguientes. SUFRAGIO EFECTIVO. NO REELECCIÓN. "EL RESPETO AL DERECHO AJENO ES LA PAZ". Oaxaca de Juárez, Oax., 25 de junio de 1993. EL SECRETARIO GENERAL DE GOBIERNO. LIC. AGUSTIN MARQUEZ URIBE. RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE MARZO DE 1994.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
