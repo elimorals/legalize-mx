@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-11932"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-30"
-last_updated: "1998-05-26"
+last_updated: "2001-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11932&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1798 +21,1070 @@ state: "SLP"
 ---
 # LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
+LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2001.
 
-Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 2 de agosto de 1982.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 30 de agosto de 1996.
 
-CUAUHTEMOC CARDENAS SOLORZANO, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+HORACIO SANCHEZ UNZUETA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANOD E SAN LUIS POTOSI, A SUS HABITANTES SABED:
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente DECRETO:
+QUE LA QUINCUAGESIMA CUARTA LEGISLATURA DEL ESTADO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-EL CONGRESO DE MICHOACAN DE OCAMPO
+DECRETO 650
 
-DECRETA:
+LA QUINCUAGESIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI DECRETA LO SIGUIENTE:
 
-NUMERO 175
+...
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
+LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-## TITULO PRIMERO. ADMINISTRACION DE JUSTICIA EN GENERAL
-
-ORGANOS AUXILIARES
-
-### CAPITULO I. ADMINISTRACION DE JUSTICIA EN GENERAL
-
-###### ARTICULO 1o.
-
-La presente Ley tiene por objeto regular la organización y funcionamiento de la administración de justicia dentro del Estado de Michoacán. Por tanto, los órganos de dicha administración juzgarán de los asuntos civiles, familiares y penales del Fuero Común, aplicando las leyes del mismo Fuero y haciendo que se ejecute lo Juzgado en la parte que les corresponda. De los asuntos del orden federal conocerán cuando la Ley de la materia los faculte expresamente para ello.
-
-###### ARTICULO 2o.
-
-Son órganos de la administración de justicia:
-
-I. El Supremo Tribunal de Justicia del Estado;
-
-II. Los Juzgados de Primera Instancia;
-
-III. Los Juzgados Municipales;
-
-IV. Los Juzgados de Tenencia;
-
-V. Los Jurados; y
-
-VI. Los Arbitros.
-
-###### ARTICULO 3o.
-
-La competencia de los órganos de la administración de justicia se determinará por las disposiciones de esta Ley, del Código de Procedimientos Civiles y del Código Procesal Penal.
-
-###### ARTICULO 4o.
-
-Son auxiliares de los órganos encargados de administrar justicia:
-
-I. La Dirección de Prevención y Readaptación Social del Estado;
-
-II. Los Consejos Tutelares;
-
-III. Los Médicos Legistas;
-
-IV. Los Intérpretes y Peritos;
-
-V. Los Depositarios y Síndicos de Concursos;
-
-VI. Los Notarios, en las funciones que les encomienda el Código de Procedimientos Civiles:
-
-VII. Los Cuerpos Policíacos tanto del Estado como de los Municipios: y
-
-VIII. Los demás a quienes las leyes confieran ese carácter.
-
-Los auxiliares a que se refiere este artículo estarán obligados a desempeñar las funciones que les encomienden los órganos de la administración de justicia y sus superiores tendrán la obligación de facilitarles el ejercicio de dichas funciones.
-
-###### ARTICULO 5o.
-
-El Supremo Tribunal de Justicia se integra por dieciocho magistrados propietarios y el mismo número de supernumerarios. De los propietarios, uno será Presidente y los demás formarán Salas Unitarias, designadas por número ordinal y conforme a la materia que les corresponda conocer.
-
-###### ARTICULO 6o.
-
-El Supremo Tribunal de Justicia funcionará en Pleno con los dieciocho magistrados propietarios que lo integran, pero bastará la presencia de doce para que pueda sesionar.
-
-Los magistrados supernumerarios serán llamados para que integren el Pleno, en los casos y en la forma señalados por la Constitución Política del Estado y por esta Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2000)</small>
-
-###### ARTICULO 7o.
-
-Las sesiones del Pleno serán públicas y tendrán el carácter de ordinarias o extraordinarias. Las ordinarias se celebrarán cuando menos una vez a la semana, en los términos que fije el Reglamento Interior del Supremo Tribunal de Justicia, y las extraordinarias, cuando lo juzgue necesario el Presidente o lo soliciten por lo menos siete de los magistrados en funciones. Por cada sesión se levantará un acta que firmarán el Presidente, los demás magistrados que hubiesen ocurrido a ella, y el secretario.
-
-Podrán celebrarse sesiones privadas cuando se dé alguno de los presupuestos de las extraordinarias.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-## TITULO SEGUNDO. INTEGRACION Y FUNCIONAMIENTO DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-### CAPITULO II. ORGANOS
-
-###### ARTICULO 8o.
-
-Corresponde al Supremo Tribunal de Justicia conocer en Pleno:
-
-I. (DEROGADA, P.O. 27 DE FEBRERO DE 1992)
-
-II. Del recurso de revisión contra las resoluciones de los tribunales de lo contencioso-administrativo del Estado, en los casos que señala el artículo 67 de la propia Constitución;
-
-III. De las excusas y recusaciones de los magistrados y secretarios del Supremo Tribunal, en los asuntos de la competencia del Pleno;
-
-IV. De las excusas extraordinarias que planteen los jueces de primera instancia, en asuntos del orden penal;
-
-V. De las excusas del Presidente del Supremo Tribunal, propuestas durante la tramitación de los asuntos de la competencia del Pleno;
-
-VI. De las controversias que se susciten entre Ias salas del Supremo Tribunal sobre jurisdicción, competencia, acumulación, excusas y recusaciones;
-
-VII. Del recurso de reclamación contra las providencias o acuerdos del Presidente del Supremo Tribunal, dictados durante la tramitación de los asuntos de la competencia del Pleno;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-VIII. De las excitativas de justicia que se promuevan contra los magistrados; y jueces de primera instancia; y
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-IX. De la denuncia sobre contradicción de tesis sustentadas por las Salas del Supremo Tribunal de Justicia del Estado, en los asuntos de su competencia. Dicha denuncia podrá presentarse por cualquiera de esas Salas, las partes que intervinieron en los asuntos en que tales tesis hubieran sido sustentadas o el Procurador General de Justicia del Estado, decidiendo el Supremo Tribunal de Justicia, que tesis debe observarse. La resolución que se dicte no afectará las situaciones jurídicas concretas derivadas de las sentencias contradictorias en los asuntos en que fueron pronunciadas; y
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-X. De cualquier otro asunto de la competencia del Supremo Tribunal, cuyo conocimiento no corresponda a las Salas del mismo por disposición expresa de la Ley.
-
-###### ARTICULO 9o.
-
-El Pleno del Supremo Tribunal tendrá, además, las atribuciones siguientes:
-
-I. Elegir al Presidente del Supremo Tribunal;
-
-II. Determinar, en la primera sesión de cada período constitucional, las adscripciones permanentes de los magistrados propietarios, teniendo en cuenta su especialización o experiencia profesional;
-
-III. Cambiar de adscripción a los magistrados propietarios con arreglo a lo dispuesto en la fracción. anterior, cuando se elija nuevo Presidente o cuando por falta absoluta de alguno de ellos se haga nueva designación por el Congreso; tratándose de magistrados inamovibles conforme a la Constitución Política del Estado, se requerirá su consentimiento para que puedan ser cambiados de adscripción;
-
-IV. Nombrar a los jueces de primera instancia, municipales y de tenencia, adscribiéndolos a los juzgados en que deban ejercer sus funciones;
-
-V. Nombrar y remover a los titulares de las dependencias administrativas que menciona el artículo 48 de esta Ley, a los notificadores del Supremo Tribunal, y a los secretarios y empleados de los juzgados municipales y de tenencia;
-
-VI. Admitir o desechar las renuncias que hagan de sus cargos los funcionarios y empleados que haya nombrado;
-
-VII. Designar a los magistrados que formarán las comisiones permanentes y las transitorias;
-
-VIII. Aprobar cada año el proyecto de Presupuesto de Egresos del Poder Judicial;
-
-IX. Fijar los honorarios del magistrado supernumerario que hubiese conocido de algún asunto;
-
-X. Examinar y aprobar, en su caso, las cuentas de gastos que formule el Presidente;
-
-XI. Expedir su Reglamento Interior y todos los que sean necesarios conforme a las disposiciones de esta Ley;
-
-XII. Fijar el horario de trabajo y los períodos de vacaciones para los funcionarios y empleados del Poder Judicial;
-
-XIII. Dictar las medidas que estime convenientes para la buena marcha de la administración de justicia, así como para que ésta sea expedita, pronta y cumplida;
-
-XIV. Ordenar la práctica de investigaciones sobre la conducta de los jueces, funcionarios y empleados del Poder Judicial, procediendo como corresponda de acuerdo con los resultados de la investigación;
-
-XV. Conceder licencias, con o sin goce de sueldo, a los funcionarios y empleados del Poder Judicial, conforme a las disposiciones de esta Ley;
-
-XVI. Sancionar en los términos del artículo 101, a las personas en él mencionadas, por las faltas de respeto que ante el Pleno o el Presidente cometan al Supremo Tribunal, a alguno de sus miembros, o a cualquier otro funcionario o empleado del Poder Judicial del Estado;
-
-XVII. Cambiar de adscripción, para los efectos de la fracción XIII de este articulo, a los jueces de primera instancia y municipales, así como a los secretarios y actuarios de los juzgados cuyo nombramiento dependa del Pleno. Por tanto, en estos nombramientos no se expresará el juzgado en que se ejercerán las funciones;
-
-XVIII. Imponer a los magistrados, así como a los jueces, funcionarios y empleados cuyo nombramiento dependa del Pleno, las sanciones señaladas en esta Ley;
-
-XIX. Distribuir los juzgados de primera instancia entre los magistrados propietarios, para que los visiten en los términos que fije el Reglamento respectivo;
-
-XX. Facultar a los secretarios de los juzgados, cuando tengan título de licenciado en derecho, para que desempeñen las funciones de jueces en las faltas de éstos;
-
-XXI. Autorizar a los jueces para que nombren empleados interinos, cuando las faltas de los titulares excedan de un mes; y
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-XXII. Cambiar la residencia de los juzgados de primera instancia supernumerarios, según lo estime conveniente para el mejor servicio público; y
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-XXIII. Para aumentar o disminuir el número de juzgados de primera instancia o municipales en todo el Estado, conforme lo requiera el recargo de trabajo previo acuerdo del Pleno que deberá ser publicado, por una sola vez en el Periódico Oficial del Estado, con las disposiciones relativas a la distribución de expedientes.
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-XXIV. Las demás que ésta u otras leyes o sus Reglamentos no reserven al Presidente o a los Titulares de las Salas.
-
-###### ARTICULO 10.
-
-Para la resolución de los asuntos a que se refiere el artículo 8o. de esta Ley, se observarán las reglas siguientes:
-
-I. Agotado el trámite legal, la Presidencia turnará el expediente dentro del término de cinco días al magistrado relator, cuidando que la materia del asunto corresponda a la especialidad del magistrado;
-
-II. El relator deberá formular dentro de los quince días siguientes, en forma de sentencia, proyecto de resolución, del cual distribuirá copia entre los demás magistrados en funciones. Sólo cuando por la importancia del asunto o por lo voluminoso del expediente estime que el mencionado lapso no es suficiente para formular proyecto, el Pleno se lo ampliará por el tiempo que sea necesario;
-
-III. Hecha la distribución del proyecto, la Secretaría General de Acuerdos del Supremo Tribunal listará el asunto cuando menos un día antes al de la sesión ordinaria en que será visto;
-
-IV. El día de la sesión, la Secretaría dará cuenta con el proyecto en el orden de la lista y la Presidencia lo pondrá a discusión, salvo que el Pleno acuerde que se aplace la vista del mismo para mejor estudio;
-
-V. Si a juicio de los magistrados presentes estuviese suficientemente discutido el asunto, la Secretaría tomará la votación y la Presidencia, acto continuo, declarará el sentido de la resolución; pudiendo formular su voto particular el magistrado que no estuviere conforme con la misma;
-
-VI. Si el proyecto no fuere aprobado, pero el magistrado relator aceptare las adiciones o reformas propuestas por la mayoría, él mismo redactará la resolución en los términos de la discusión; si no las acepta, se designará a un magistrado de la mayoría para que la redacte;
-
-VII. Concluida la sesión, la Secretaría elaborará y firmará una lista de los asuntos que se hubiesen tratado, expresando el sentido de la resolución dictada en cada uno de ellos; debiendo fijar tal lista en la forma señalada por la fracción VIII del articulo 51; y
-
-VIII. Las resoluciones serán firmadas dentro del término de quince días por el Presidente, los demás magistrados que hubiesen concurrido a la sesión, y el secretario.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-El recurso de reclamación a que se refiere la fracción I del artículo 8o., se substanciará y resolverá conforme a la Ley Electoral del Estado. Las excitativas de justicia a que alude la fracción VIII del propio artículo 8º., se tramitarán y resolverán conforme al Título Octavo, Capítulo I, de la presente ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2003)</small>
-
-###### ARTICULO 11.
-
-Las resoluciones de que habla el artículo anterior se tomarán por mayoría de votos de los magistrados presentes, incluido el Presidente. Si el Pleno funciona con menos de dieciocho magistrados y no se obtuviere mayoría, el proyecto continuará discutiéndose en la siguiente sesión, a la que ningún magistrado dejará de asistir; llamándose oportunamente, en el caso de falta o impedimento de los propietarios, a los supernumerarios que los substituyan.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-Ningún magistrado podrá abstenerse de votar, sino cuando tenga impedimento legal o no haya estado presente durante la discusión del asunto.
-
-###### ARTICULO 12.
-
-Cuando antes de ser firmada una resolución de las mencionadas en los artículos anteriores, hubiere cambio de alguno o algunos de los magistrados que la pronunciaron, será autorizada válidamente por los que luego integren el Pleno si el proyecto del relator fue aprobado, pero deberán hacerse constar las circunstancias que hubiesen concurrido. Si el proyecto no hubiere sido aprobado y fuere necesario redactar la resolución, el nuevo Tribunal designará al magistrado que deba engrosarla, lo cual hará de acuerdo con el acta de la sesión y las constancias del expediente.
-
-## TITULO TERCERO. JUZGADOS DE PRIMERA INSTANCIA
-
-### CAPITULO III. AUXILIARES
-
-###### ARTICULO 13.
-
-Para las determinaciones o acuerdos que el Pleno tome en los términos del artículo 9o., o cuando falte en las actas la firma de los magistrados que hubiesen intervenido en las sesiones, regirán, en lo conducente, las disposiciones de los artículos 11 y 12, excepto que no pueda obtenerse la mayoría de votos a que se refiere el primero de estos artículos, pues en tal caso, y siempre que no se trate de los supuestos contemplados en las fracciones I, X y XI del artículo 9o., el Presidente del Supremo Tribunal tendrá voto de calidad.
-
-###### ARTICULO 14.
-
-El Presidente del Supremo Tribunal de Justicia tendrá la representación legal de éste; será electo en la sesión siguiente al 16 de septiembre, en que inicia el período constitucional, en las anualidades subsecuentes la elección se hará al cumplirse un año de la designación o, a más tardar, en los siguientes diez días.
-
-###### ARTICULO 15.
-
-El Presidente del Supremo Tribunal tendrá las atribuciones siguientes:
-
-I. Convocar y presidir las sesiones del Pleno; conservar en ellas el orden, y dirigir los debates;
-
-II. Proponer al Tribunal en Pleno, o dictar por sí mismo, las medidas a que se refiere la fracción XIII del artículo 9o., pidiendo para ese efecto, a los funcionarios y empleados del Poder Judicial, los informes que estime necesarios;
-
-III. Promover oportunamente los nombramientos de funcionarios y empleados que deba hacer al Pleno;
-
-IV. Nombrar y remover a los empleados de la Presidencia, así como a los que deban estar adscritos a los titulares de las dependencias administrativas que menciona el artículo 48;
-
-V. Tramitar los asuntos cuyo conocimiento corresponda al Supremo Tribunal en Pleno, hasta dejarlos en estado de resolución, excepto los juicios que se inicien con motivo de responsabilidad civil exigible a magistrados. En caso de que el Presidente estimare dudoso o trascendental un trámite, lo someterá a la consideración del Pleno para que éste resuelva lo que corresponda;
-
-VI. Ejecutar los acuerdos del Supremo Tribunal y llevar la correspondencia oficial de éste;
-
-VII. Dictar las medidas que estime pertinentes para que en las oficinas del Poder Judicial se cumpla con el horario de trabajo, y en general todas aquellas que exijan el buen servicio y la disciplina, inclusive las urgentes en los asuntos administrativos de la competencia del Pleno. En este último caso, las medidas tendrán el carácter de provisionales hasta que el Pleno resuelva en definitiva lo que proceda;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-VIII. Distribuir entre las salas los asuntos que fueren de su competencia, con sujeción a lo establecido en esta Ley; y entre los magistrados, para que formulen proyecto de resolución, los de la competencia del Pleno. Para este último efecto, llevará un turno acorde con lo dispuesto por la fracción I del artículo 10;
-
-IX. Recibir quejas administrativas sobre las faltas que los funcionarios o empleados del Poder Judicial cometan en el despacho de los asuntos; dictando, si las faltas fueren leves, las providencias oportunas para su corrección o remedio inmediato; si fueren graves, informará al Pleno para que éste dicte el acuerdo correspondiente;
-
-X. (DEROGADA, P.O. 30 DE DICIEMBRE DE 1985)
-
-XI. Elaborar el proyecto de Presupuesto de Egresos del Poder Judicial y someterlo a la consideración del Pleno, para su envío al Congreso del Estado;
-
-XII. Acordar las erogaciones que deban hacerse con cargo a las partidas del Presupuesto de Egresos, a excepción de las relativas a sueldos fijos; debiendo informar de ellas, cada mes, al Supremo Tribunal;
-
-XIII. Llevar el turno de los magistrados supernumerarios y llamar a los que deban suplir en sus ausencias temporales o accidentales a los propietarios;
-
-XIV. Cuidar que la Oficialía Mayor del Supremo Tribunal lleve con escrupulosidad las hojas de servicio de todos los funcionarios y empleados del Poder Judicial;
-
-XV. Legalizar la firma de los funcionarios del Poder Judicial del Estado, cuando la ley exija este requisito;
-
-XVI. Conceder licencias en los términos de esta Ley a los funcionarios y empleados del Poder Judicial;
-
-XVII. Dictar las disposiciones que sean necesarias para la conservación e higiene de los edificios que ocupen las salas, juzgados y dependencias del Supremo Tribunal, sin perjuicio de las facultades que las leyes y reglamentos confieran a los magistrados, jueces y jefes de oficina;
-
-XVIII. Comunicar al Gobernador del Estado, y al Congreso o a la Diputación Permanente, las faltas definitivas de los magistrados o las temporales que deban ser suplidas por nuevo nombramiento;
-
-XIX. Presidir la Comisión de Gobierno y Administración;
-
-XX. Representar al Poder Judicial ante los otros poderes del Estado, así como en los actos oficiales, salvo que por disposición de la ley tal representación corresponda al Tribunal Pleno;
-
-XXI. Llamar ante su presencia a los jueces del Estado, cuando lo estime pertinente, para atender los problemas de la administración de justicia;
-
-XXII. Pedir a los propios jueces o a sus secretarios, cuando ello sea necesario para conocer la marcha de la administración de justicia, copia de actuaciones o los expedientes relativos; cuidando que en estos casos no se interrumpan los términos legales ni el regular procedimiento dentro de los expedientes;
-
-XXIII. Aumentar temporalmente el número de empleados de los Organos del Poder Judicial, cuando lo requiera el recargo de trabajo;
-
-XXIV. Autorizar a la Oficialía Mayor la adquisición de equipo para las oficinas del Poder Judicial; y
-
-XXV. Las demás que determinen las leyes y reglamentos.
-
-## TITULO CUARTO. JUZGADOS MUNICIPALES
-
-### CAPITULO I. INTEGRACION
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2003)</small>
-
-###### ARTICULO 16.
-
-Las partes interesadas podrán reclamar las providencias y acuerdos que el Presidente del Supremo Tribunal dicte durante la tramitación de los asuntos de la competencia del Pleno, siempre que la reclamación se presente por escrito, con motivo fundado, y dentro de los tres días siguientes a aquél en que se haya hecho la notificación respectiva. Presentado el escrito, se dictará resolución dentro del término de quince días.
-
-###### ARTICULO 17.
-
-En su informe anual de labores, el Presidente del Supremo Tribunal dará a conocer los puntos más importantes de las actividades realizadas por el Poder Judicial durante el período respectivo, con relación al movimiento de asuntos civiles, familiares y penales; tesis sobresalientes sustentadas por los tribunales; deficiencias de la legislación que hayan sido observadas por magistrados y jueces; iniciativas de leyes presentadas al Congreso por el Supremo Tribunal, movimiento del personal encargado de administrar justicia, y aplicación de las partidas del Presupuesto de Egresos durante el período que abarque el informe.
-
-###### ARTICULO 18.
-
-El Supremo Tribunal de Justicia funcionará con ocho salas civiles y nueve penales.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-###### ARTICULO 19.
-
-Las Salas Civiles Primera, Segunda, Tercera, Cuarta, Quinta, Sexta, Séptima y Octava, conocerán, por turno, según el orden en que se reciba cada expediente:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-I. De los recursos de apelación y de queja contra las resoluciones que dicten los jueces de lo civil y de lo familiar del Distrito Judicial de Morelia, así como contra las que pronuncien los jueces de primera instancia de los demás Distritos Judiciales en materia civil como familiar; también de los recursos de apelación interpuestos contra las resoluciones de los jueces civiles y de primera instancia del Estado, en asuntos mercantiles;
-
-II. Del recurso de apelación, cuando proceda conforme al Código de Comercio, contra las resoluciones que los jueces municipales dicten en juicios mercantiles;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-III. Del recurso de apelación, cuando proceda, contra los laudos que se dicten en los asuntos que puedan comprometerse en árbitros conforme a la Ley;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-IV. De los juicios de responsabilidad que se promuevan contra los jueces civiles, familiares o de primera instancia;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-V. De las cuestiones de competencia y acumulación que se susciten, tanto en asuntos civiles, como familiares entre los jueces del Estado, conforme al Código de Procedimientos Civiles;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-VI. De la revisión de oficio de sentencias dictadas en juicio sobre rectificación de actas del estado civil y sobre nulidad de matrimonio, por las causas expresadas en los artículos 199, 200, 203, 207 a 209, del Código Civil;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-VII. De las recusaciones con causa tanto en asuntos de derecho civil, mercantil y familiar, de los jueces civiles, familiares y de primera instancia;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-VIII. De los conflictos que con motivo de excusas y recusaciones sin causa, se susciten tanto en asuntos civiles como familiar, entre los jueces civiles, familiares, entre los jueces civiles, familiares y de primera instancia, así como los que deriven de excusas en materia mercantil.
-
-Las mismas salas conocerán, en orden ascendente, de las excusas y recusaciones con causa de sus titulares, tanto en asuntos de derecho civil, mercantil y familiar, excepto de las mencionadas en el artículo 8° fracción III de esta Ley.
-
-Si se trata del magistrado de la Octava Sala Civil, conocerá el de la Primera Sala Civil.
-
-###### ARTICULO 20.
-
-(DEROGADA, P.O. 29 DE DICIEMBRE DE 1986)
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2003)</small>
-
-###### ARTICULO 21.
-
-La Salas Penales Primera, Segunda, Tercera, Cuarta, Quinta, Sexta, Séptima, Octava y Novena, conocerán por turno, conforme al orden en que se reciba cada expediente:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-I. De los recursos de apelación y de queja contra las resoluciones que en asuntos penales dicten los jueces de primera instancia;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-II. Del recurso de revisión contra sentencias penales que hayan causado ejecutoria;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-III. De las cuestiones de competencia, acumulación, excusas y recusaciones con causa a que se refiere el Código Procesal Penal; y
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-IV. De las quejas que por incumplimiento de exhortos en materia penal se formulen contra los jueces de primera instancia.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2003)</small>
-
-###### ARTICULO 22.
-
-Los ocho primeros magistrados supernumerarios conocerán de los asuntos de derecho civil, familiar y mercantil, en el orden de su designación, cuando todos los magistrados propietarios de las salas a que se refiere el artículo 19 de esta Ley, sean recusados o se encuentren impedidos. Si todos los magistrados de las salas penales, son recusados o se hallan impedidos, los otros nueve magistrados supernumerarios conocerán, en el orden de su designación de los asuntos correspondientes a esta materia.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-El magistrado supernumerario designado en último término, sólo entrará en funciones cuando el presidente del Supremo Tribunal sea recusado o esté impedido para recusado o esté impedido para intervenir en los asuntos del Pleno, siempre que su presencia sea legalmente indispensable conforme a lo previsto por el artículo 11 de esta Ley.
-
-> <small>(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-###### ARTICULO 23.
-
-En el Supremo Tribunal de Justicia habrá comisiones permanentes y transitorias. Serán permanentes, las de Gobierno y Administración, Hacienda, Justicia Municipal, Legislación, Archivo del Poder Judicial, Publicaciones Oficiales, y Escalafón. Cualquiera otra comisión designada para fines concretos y específicos será transitoria.
-
-###### ARTICULO 24.
-
-Las comisiones permanentes, que se desempeñarán durante un año, estarán inegradas (sic) por tres magistrados propietarios que se designarán en la misma sesión en que se elija Presidente del Supremo Tribunal, excepto la de Escalafón, que se Constituirá por dos magistrados y dos representantes sindicales. Las transitorias se integrarán por el número de magistrados propietarios que determine el Pleno, y serán designadas cada vez que este lo estime pertinente.
-
-###### ARTICULO 25.
-
-Las comisiones permanentes tendrán las funciones que señalen los reglamentos, y, las transitorias, las que determine el Pleno.
-
-###### ARTICULO 26.
-
-Para la administración de justicia en primera instancia, el Estado se divide en veintitrés distritos que tendrán las siguientes denominaciones y circunscripciones territoriales
-
-I. DISTRITO DE APATZINGAN, con jurisdicción en los municipios de Aguililla, Apatzingan, Buenavista, Múgica, Parácuaro y Tepalcatepec;
-
-II. DISTRITO DE ARIO, con jurisdicción en los municipios de Ario, Churumuco, La Huacana y Nuevo Urecho;
-
-III. DISTRITO DE ARTEAGA, con jurisdicción en los municipios de Arteaga y Tumbiscatío;
-
-IV. DISTRITO DE COAHUAYANA, con jurisdicción en los municipios de Aquila y Coahuayana;
-
-V. DISTRITO DE COALCOMAN, con jurisdicción en los municipios de Coalcomán de Vázquez Pallares y Chinicuila;
-
-VI. DISTRITO DE HIDALGO, con jurisdicción en los municipios de Hidalgo e Irimbo;
-
-VII. DISTRlTO DE HUETAMO, con jurisdicción en los municipios de Huetamo, San Lucas y Tiquicheo de Nicolás Romero;
-
-VIII. DISTRITO DE JIQUILPAN, con jurisdicción en los municipios de Chavinda, Jiquilpan, Marcos Castellanos, Pajacuarán, Venustiano Carranza y Villamar;
-
-IX. DISTRITO DE LA PIEDAD, con jurisdicción en los municipios de Churintzio, La Piedad, Numarán, Penjamillo, Tlazazalca y Zináparo;
-
-X. DISTRITO DE LAZARO CARDENAS, con jurisdicción en el municipio de Lázaro Cárdenas;
-
-XI. DISTRITO DE LOS REYES, con jurisdicción en los municipios de Cotija, Los Reyes, Peribán, Tingüindín y Tocumbo;
-
-XII. DISTRlTO DE MARAVATIO, con jurisdicción en Ios municipios de Aporo, Contepec, Epitacio Huerta, Maravatío, Senguio y Tlalpujahua;
-
-XIII. DISTRITO DE MORELIA, con jurisdicción en los municipios de Acuitzio, Copándaro, Cuitzeo, Charo, Chucándiro, Huandacareo, Huiramba, Lagunillas, Madero, Morelia, Santa Ana Maya, Tarímbaro y Tzitzio;
-
-XIV. DISTRlTO DE PATZCUARO, con jurisdicción en los municipios de Erongarícuaro, Pátzcuaro, Quiroga, Salvador Escalante y Tzintzuntzan;
-
-XV. DlSTRITO DE PURUANDIRO, con jurisdicción en los municipios de Angamacutiro, Huaniqueo, José Sixto Verduzco, Morelos y Puruándiro;
-
-XVI. DISTRITO DE SAHUAYO, con jurisdicción en los municipios de Briseñas, Régules y Sahuayo;
-
-XVII. DISTRITO DE TACAMBARO, con jurisdicción en los municipios de Carácuaro, Nocupétaro, Tacámbaro y Turicato;
-
-XVIII. DISTRITO DE TANHUATO, con jurisdicción en los municipios de Tanhuato, Vista Hermosa y Yurécuaro;
-
-XIX. DISTRITO DE URUAPAN, con jurisdicción en los municipios de Charapan, Gabriel Zamora, Nahuatzen, Paracho, Nuevo Parangaricutiro, Tancítaro, Taretan, Tingambato, Uruapan y Ziracuaretiro;
-
-XX. DISTRITO DE ZACAPU, con jurisdicción en los municipios de Coenéo, Jiménez, Panindícuaro y Zacapu;
-
-XXI. DISTRITO DE ZAMORA, con jurisdicción en los municipios de Cherán, Chilchota, Ecuandureo, Ixtlán, Jacona, Purépero, Tangamandapio, Tangancicuaro y Zamora;
-
-XXII. DISTRITO DE ZINAPECUARO, con jurisdicción en los municipios de Alvaro Obregón, Indaparapeo, Queréndaro y Zinapécuaro; y
-
-XXIII. DISTRITO DE ZITACUARO, con Jurisdicción en los municipios de Angangueo, Juárez, Jungapeo, Ocampo, Susupuato, Tuxpan, Tuzantla y Zitácuaro.
-
-###### ARTICULO 27.
-
-En el Distrito de Morelia, habrá cinco juzgados de primera instancia de lo civil, dos de lo familiar y seis de lo penal; en el de Uruapan, dos de lo civil y tres de lo penal; en los de Apatzingán y Zamora, dos de lo civil y dos de lo penal. Los juzgados de lo civil de estos últimos tres Distritos, conocerá, indistintamente, de asuntos de lo civil y de lo familiar.
-
-Los juzgados de lo penal de los distritos de Morelia, Apatzingán, Uruapan y Zamora, tendrán la competencia y las atribuciones que les confieran las leyes.
-
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 1986)</small>
-
-En el Distrito de Lázaro Cárdenas, habrá tres juzgados de primera instancia, en los de Hidalgo, La Piedad, Los Reyes, Pátzcuaro, Tacámbaro y Zitácuaro, habrá dos juzgados de primera instancia, y en los demás Distritos Judiciales, habrá por lo menos uno. Estos juzgados conocerán, indistintamente, de asuntos de lo civil, de lo familiar y de lo penal.
-
-Cuando en un mismo distrito judicial existan dos o más juzgados de primera instancia, éstos serán designados por número ordinal, empezando por el "Primero"; pero en donde los haya para conocer por materias, llevarán numeración independiente.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-El Supremo Tribunal de Justicia podrá nombrar jueces de primera instancia supernumerarios, que auxilien las labores de los juzgados donde hubiere recargo de negocios, a fin de obtener que la administración de justicia sea pronta y expedita. En tal caso, creerá los juzgados correspondientes y determinará su residencia, competencia, atribuciones y forma de distribución de los asuntos.
-
-### CAPITULO II. TRIBUNAL PLENO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2003)</small>
-
-###### ARTICULO 28.
-
-Los juzgados de lo civil del distrito de Morelia conocerán de los asuntos siguientes:
-
-I. De los actos prejudiciales, providencias precautorias y de jurisdicción voluntaria, no relacionados con el Derecho Familiar;
-
-II. De los juicios sucesorios, cualquiera que sea su naturaleza, y de las cuestiones que con ellos se vinculen, excepto las relacionadas con la desafectación de los bienes del patrimonio de familia;
-
-III. De los juicios de petición de herencia, impugnación de testamento o de la capacidad para heredar, así como de todos aquellos que sean acumulables a los juicios sucesorios conforme a las disposiciones del Código de Procedimientos Civiles, excepto los relacionados con el patrimonio de familia;
-
-IV. De las acciones sobre bienes inmuebles, comprendidas tanto las que se refieran a la propiedad, a la posesión plenaria, a la prescripción positiva, o a cualquier otro derecho real, como las que tengan por objeto discutir la validez o nulidad de las informaciones ad perpetuam para suplir título escrito de dominio o la posesión de un derecho real, siempre que dichas acciones no estén relacionadas con el patrimonio de familia;
-
-V. De las acciones reales o personales sobre bienes muebles, cuando su valor exceda de veinte mil pesos y no deban conocer de ellas los juzgados de lo familiar;
-
-VI. De los de jurisdicción contenciosa, común o concurrente, cuya cuantía exceda de veinte mil pesos y no sean del conocimiento exclusivo de los juzgados de lo familiar;
-
-VII. De los de jurisdicción común o concurrente relativos a concursos, quiebras y suspensión de pagos;
-
-VIII. De los interdictos, excepto los relacionados con la posesión del estado civil;
-
-IX. De las reconvenciones, pero solamente de aquellas que se refieran a cuestiones de las que les corresponda conocer conforme a las disposiciones de este artículo;
-
-X. De los exhortos, suplicatorias, requisitorias y despachos cuya diligenciación no esté reservada a los juzgado de lo familiar; y
-
-XI. De los demás que esta u otras leyes no reserven a los juzgados de lo familiar o municipales.
-
-###### ARTICULO 29.
-
-Los juzgados de lo familiar del distrito de Morelia conocerán de los asuntos siguientes:
-
-I. De los actos prejudiciales, providencias precautorias y de jurisdicción voluntaria, relacionados con el Derecho Familiar;
-
-II. De los que tengan por objeto acciones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, curatela, adopción, divorcio, ausencia y presunción de muerte, o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen;
-
-III. De los interdictos sobre posesión del estado civil, para que se mantenga o restituya en ella a quien la disfrute;
-
-IV. De los relativos al régimen de bienes en el matrimonio, al patrimonio de familia, al parentesco, a los alimentos, a la paternidad y maternidad, a la patria potestad, a la interdicción, a la capacidad de la persona y a cualesquiera otra acción del estado civil, inclusive las derivadas del parentesco, de la patria potestad, del estado de interdicción, de la tutela, de la curatela, de la ausencia y de la presunción de muerte;
-
-V. De las reconvenciones, pero únicamente de aquellas que versen sobre cuestiones de las que les corresponda conocer conforme a las disposiciones de este articulo;
-
-VI. De los exhortos, suplicatorias, requisitorias despachos, relacionados con el Derecho Familiar; y
-
-VII. De los que afecten los derechos de menores incapacitados, y en general, de los que se refieran a cuestiones familiares que reclamen la intervención judicial.
-
-###### ARTICULO 30.
-
-Además de las facultades y atribuciones mencionadas en esta o en otras leyes, y de las que la Constitución Política del Estado les señala, corresponde a los titulares de los juzgados de primera instancia:
-
-I. Dar aviso al Supremo Tribunal, de los asuntos que inicien y de los que concluyan, así como de aquellos que por cualquier causa reciban de otros juzgados o dejen de conocer; y
-
-II. Cumplir y hacer que el personal cumpla con sus funciones, con el horario de trabajo y con las disposiciones que dicten el Pleno o el Presidente del Supremo Tribunal, coleccionando y conservando en el juzgado las disposiciones respectivas.
-
-### CAPITULO III. PRESIDENCIA DEL SUPREMO TRIBUNAL
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1995)</small>
-
-###### ARTICULO 31.
-
-Cuando en un mismo distrito se establezcan dos o más juzgados de primera instancia, cada uno de ellos, si tienen jurisdicción penal, estará de turno durante dos semanas para conocer de las causas o averiguaciones penales que deban iniciarse en ese lapso; si tienen jurisdicción para conocer de asuntos civiles o familiares, las demandas se les distribuirán equitativamente, siguiendo el orden de su presentación. Para ese efecto, tendrán una oficina común que recibirá las consignaciones o las demandas; las registrará por orden numérico riguroso, y las turnará de inmediato al juzgado que corresponda.
-
-El mismo turno existirá para la diligenciación de exhortos, y para conocer de los asuntos que por excusa, recusación o incompetencia provengan de otro juzgado.
-
-### CAPITULO IV. SALAS DEL SUPREMO TRIBUNAL
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2003)</small>
-
-###### ARTICULO 32.
-
-Por cada juzgado de primera instancia se designará un juez a propuesta del Presidente del Supremo Tribunal de Justicia, de alguno de los magistrados propietarios, o de la Comisión de Gobierno y Administración; pudiendo hacerse una o más proposiciones. Cuando no se obtuviere mayoría de votos, se observará en lo conducente el artículo 13 de esta Ley.
-
-En igual forma se hará la designación de la persona que deba substituir al juez de primera instancia suspendido o que obtenga licencia por más de un mes.
-
-###### ARTICULO 33.
-
-En la cabecera del Municipio de Morelia habrá dos Juzgados municipales y en las demás cabeceras uno. Por cada juzgado de la capital y de las cabeceras de Apatzingán, Hidalgo, Tacámbaro, Pátzcuaro, Los Reyes, Uruapan, La Piedad, Lázaro Cárdenas, Zacapu, Zamora y Zitácuaro se designará un Juez Propietario y, en los restantes, además, un suplente.
-
-Todos Juzgados Municipales tendrán jurisdicción civil y penal.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1991)</small>
-
-### CAPITULO IV BIS
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 1o.
-
-bis. Cada Sala elegirá, de entre los magistrado que la componen, un Presidente que durará en su encargo un uño y podrá ser reelecto. La elección se hará en la primera sesión de cada período constitucional.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 2o.
-
-bis. Son atribuciones de los Presidentes de las Salas:
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-I. Dirigir los debates y conservar el orden durante las audiencias;
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-II. Regular el turno de los asuntos entre los magistrados que integren la Sala y autorizar las listas de los que deban resolverse en las sesiones;
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-III. Dictar los trámites que procedan en los asuntos de la competencia de la Sala respectiva.
-
-Las providencias y acuerdos de los Presidentes de las Salas pueden ser reclamados ante la Sala respectiva, dentro del término de tres días, siempre que la reclamación sea presentada por parte legítima y con motivo fundado.
-
-En caso de que el presidente de la Sala estime dudoso o trascendental algún trámite, dispondrá que el secretario respectivo de cuenta a la misma, para que ésta decida lo que estime procedente;
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-IV. Llevar la correspondencia oficial de la Sala;
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-V. Vigilar la regularidad de las labores de la Sala y las de los secretarios y empleados correspondientes, dictando al efecto los acuerdos oportunos.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-VI. Corregir las faltas en que incurran los empleados de la sea cuando, a su juicio, no sean de aquellas cuyo conocimiento competa el Presidente del Supremo Tribunal o al Pleno, pues, en estos casos, las pondrá en conocimiento de dicho Presidente;
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-VII. Dar aviso al Presidente del Supremo Tribunal de Justicia de los casos en que haya necesidad de completar la integración de la Sala conforme a esta Ley; y
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-VIII. Ejercer las demás facultades que determine el Reglamento Interior del Supremo Tribunal o que provengan de cualquier otra disposición.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 3o.
-
-bis. Las audiencias de las Salas se celebrarán por lo menos una vez a la semana y serán públicas, salvo los casos en que la moral o el interés público exijan que sean privadas.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 4o.
-
-bis. Las resoluciones de las Salas se tomaran por unanimidad o mayoría de votos de los magistrados presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal o cuando no hayan estado presentes durante la discusión del asunto de que se trate. Para la firma de las actas y de las resoluciones, en su caso, se estará a lo que disponen los artículos 12 y 13 de esta Ley.
-
-Si no estuvieren presentes los cinco magistrados, por ausencia accidental de alguno de ellos, solamente se pedirá a la Presidencia del Supremo Tribunal que designe al Magistrado Supernumerario a quien corresponda el turno para que integre la Sala cuando ésta, por virtud de la ausencia, no pueda funcionar legalmente dentro de un plazo de diez días.
-
-Si estando presentes los cinco magistrados que integran la Sala, no hubiere mayoría en la votación de algún asunto, continuará la discusión en la sesión siguiente; y si al repetirse la votación tampoco se obtuviese, se entenderá desechado el proyecto y el Presidente de la Sala pasará el asunto a otro magistrado para que en el plazo que le fije la misma, presente un nuevo proyecto de resolución de acuerdo con las exposiciones hechas durante las discusiones.
-
-Si a pesar de lo previsto en el párrafo anterior, no hubiere mayoría en la votación del asunto, el Presidente del Supremo Tribunal nombrará a un magistrado supernumerario para que concurra a la sesión siguiente a emitir su voto en el asunto que se está discutiendo. Si con motivo de la intervención de dicho magistrado, tampoco hubiere mayoría, pasará el asunto al Supremo Tribunal de Justicia, funcionando en Pleno, para que resuelva lo procedente. Será magistrado ponente ante el Pleno, el que lo hubiere sido por última vez en el asunto ante la Sala.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 5o.
-
-bis. Las Salas conocerán de las excusas, impedimentos o recusaciones de los magistrados que las integran, siempre que no se refieran a más de uno de ellos, pues en tal caso, la calificación se hará por el Pleno.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 6o.
-
-bis. Si la excusa, el impedimento o la recusación procedieren, solamente se pedirá al Pleno que designe otro u otros magistrados, cuando, por virtud de la excusa, impedimento o recusación en determinado asunto de que conozca alguna Sala, ésta no pueda funcionar legalmente dentro de un plazo de diez días.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 7o.
-
-bis. Las Salas del Supremo Tribunal de Justicia tendrán la facultad que al Pleno confiere el artículo 9o. fracción XVI de esta Ley, en los asuntos de sus respectivas competencias.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 8o.
-
-bis. La jurisprudencia que establezca el Supremo Tribunal de Justicia, funcionando en Pleno, es obligatoria para el mismo, para las salas y para los jueces de primera instancia, municipales y de tenencia. La que establezcan las Salas, solo será obligatoria para la que la sustente y para los jueces de primera instancia, municipales y de tenencia.
-
-Las ejecutorias constituirán jurisprudencia, siempre que lo resuelto en ellas se sustente en cinco sentencias no interrumpidas por otra en contrario y que hayan sido aprobadas por lo menos por nueve magistrados, si se trata de jurisprudencia del Pleno, o por cuatro magistrados en los casos de jurisprudencia de las Salas.
-
-También constituyen jurisprudencia las tesis que diluciden las contradicciones de sentencias de Salas.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-###### Artículo 9o.
-
-bis. La jurisprudencia se interrumpe, dejando de tener carácter obligatorio, siempre que se pronuncie ejecutoria en contrario por nueve magistrados, si se trata de la sustentada por el Pleno; por cuatro, si es de una Sala.
-
-En todo caso, en la ejecutoria respectiva deberán expresarse las razones en que se apoye la interrupción las cuales se referirán a las que tuvieron en consideración para establecer la jurisprudencia relativa.
-
-Para la modificación de la jurisprudencia se observarán las mismas reglas establecidas por esta Ley para su formación.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-Artículo 10 bis. La jurisprudencia del Pleno y de las Salas no será obligatoria cuando se oponga a la de la Suprema Corte de Justicia o a la del Tribunal Colegiado de Circuito que tenga jurisdicción en el Estado.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-Artículo 11 bis. En el caso previsto por el artículo 8o. bis, el Pleno o la Sala aprobarán la tesis jurisprudencial y ordenarán su publicación en el boletín judicial correspondiente. Lo mismo deberá hacerse con las tesis que interrumpan o modifiquen la jurisprudencia.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-Artículo 12 bis. Cuando las Salas del Supremo Tribunal de Justicia sustenten tesis contradictorias en los asuntos de su competencia, cualquiera de esas Salas, el Procurador General de Justicia del Estado o las partes que intervinieron en los asuntos en que tales tesis hubieren sido sustentadas, podrán denunciar la contradicción ante el mismo Supremo Tribunal de Justicia, el que decidirá, funcionando en Pleno, qué tesis debe observarse. El Procurador General de Justicia del Estado, por sí o por conducto del agente que al efecto designe, podrá, si lo estima pertinente, exponer su parecer dentro del plazo de diez días.
-
-La resolución que se dicte no afectará las situaciones jurídicas concretas derivadas de las sentencias contradictorias en los asuntos en que fueron pronunciadas.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-Artículo 13 bis. Cuando las partes invoquen en un asunto la jurisprudencia del Pleno o de las Salas del Supremo Tribunal, lo harán por escrito, expresando el sentido de aquella y señalando con precisión las ejecutorias que la sustenten.
-
-###### ARTICULO 34.
-
-En materia civil, los Juzgados Municipales de las cabeceras distritales de Apatzingán, Hidalgo, Tacámbaro, Pátzcuaro, Los Reyes, Morelia, Uruapan, La Piedad, Lázaro Cárdenas, Zacapu, Zamora y Zitácuaro, conocerán de los asuntos siguientes:
-
-I. De los que se susciten en la cabecera municipal en que residan y dentro del territorio que comprenda el Distrito Judicial correspondiente que no excedan del importe de ciento ochenta y dos días de salario mínimo general vigente en el lugar;
-
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 1991)</small>
-
-II. Los restantes Juzgados Municipales del Distrito Judicial conocerán de los asuntos que se susciten dentro del mismo Municipio y que no excedan del importe de veinte días de salario mínimo vigente en el lugar;
-
-III. En general de todos aquellos asuntos para los que tengan competencia, conforme al Código de Procedimientos Civiles del Estado u otras leyes, salvo los de arrendamiento, caundo su cuantía exceda del importe de veinte días de salario mínimo general vigente en el lugar.
-
-###### ARTICULO 35.
-
-En materia penal, los juzgados municipales conocerán de los asuntos que señala el Código Procesal Penal.
-
-### CAPITULO V. COMISIONES
-
-###### ARTICULO 36.
-
-Los titulares de los juzgados municipales estarán obligados a diligenciar los exhortos que les sean sobrecartados por los juzgados de primera instancia de su distrito judicial.
-
-###### ARTICULO 37.
-
-Para los jueces municipales regirá lo dispuesto en los artículos 30 y 32 de esta Ley, y para los de Morelia, además, lo dispuesto en el artículo 31.
-
-###### ARTICULO 38.
-
-Los jueces municipales con titulo de licenciado en derecho durarán en su cargo tres años, y los que no lo tengan un año. Al concluir su período, continuarán ejerciendo el cargo hasta que se presenten los nombrados para substituirlos. Tal período se computará, para los titulados, a partir del dieciséis de septiembre de cada año en que haya renovación de poderes del Estado, y, para los no titulados, a partir del día de su designación.
-
-###### ARTICULO 39.
-
-Los jueces municipales actuarán con el secretario respectivo; sólo por falta de éste de quien lo substituya legalmente, con dos testigos de asistencia.
-
-###### ARTICULO 40.
-
-En cada tenencia habrá un juzgado que conocerá de los asuntos civiles cuya cuantía no exceda de un mil pesos. Por cada juzgado se designarán dos jueces propietarios y dos suplentes, que durarán en su cargo un año, computado a partir de la fecha de su nombramiento. Al concluir el período para el cual fueron designados, continuarán en sus cargos hasta que se presenten las personas nombradas para substituirlos.
-
-###### ARTICULO 41.
-
-Los jueces primeros de tenencia actuarán en enero, marzo, mayo, junio, septiembre y noviembre de cada año; los segundos en febrero, abril junio, agosto, octubre y diciembre, y continuarán conociendo de los asuntos como si se tratare del mismo juez.
-
-###### ARTICULO 42.
-
-Los jueces de tenencia actuarán con dos testigos o con secretario si lo designa el Supremo Tribunal.
-
-###### ARTICULO 43.
-
-Los jueces de tenencia deberán reunir, en lo conducente, los requisitos que señala el artículo 50 de esta Ley.
-
-###### ARTICULO 44.
-
-Para los jueces de tenencia regirá lo dispuesto por los artículos 30 y 32 de esta Ley, y, para los juzgados de tenencia, la prohibición contenida en el último párrafo del artículo 34.
-
-Ningún juez de tenencia podrá ser separado de su cargo sino por causa justificada.
-
-###### ARTICULO 45.
-
-Los árbitros tendrán las funciones y conocerán de los asuntos que señala el Código de Procedimientos Civiles del Estado.
-
-###### ARTICULO 46.
-
-Los jurados se integrarán y funcionarán con arreglo a lo establecido en el Código Procesal Penal.
-
-###### ARTICULO 47.
-
-Los jueces de primera instancia con jurisdicción penal deberán pedir oportunamente, al Presidente Municipal de la cabecera de su respectivo distrito, las listas previas y definitivas de las personas que desempeñarán el cargo de jurados.
-
-La remuneración a los jurados no será inferior al salario mínimo que rija en el municipio donde estén domiciliados.
-
-###### ARTICULO 48.
-
-El Supremo Tribunal de Justicia se auxiliará de las siguientes dependencias: Secretaría General de Acuerdos, Subsecretaría de Acuerdos, Oficialía Mayor e Instituto de Especialización Judicial; pudiendo el Supremo Tribunal, para el mejor desempeño de sus funciones, crear cualquier otra dependencia mediante acuerdo administrativo.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-###### ARTICULO 49.
-
-La Presidencia y las Salas del Supremo Tribunal de Justicia, así como las dependencias a que se refiere el artículo anterior, tendrán el número de empleados que autorice el Presupuesto de Egresos; pero en las salas habrá, necesariamente una Secretaría de Acuerdos, una Secretaría Auxiliar y una Oficialía y un Notificador.
-
-###### ARTICULO 50.
-
-Para ser funcionario o empleado del Supremo Tribunal, de la Presidencia o de las salas, se requiere:
-
-I. Ser mexicano en ejercicio de sus derechos;
-
-II. Gozar de buena conducta, opinión y fama;
-
-III. No estar sujeto a proceso por delito doloso o preterintencional: y
-
-IV. Exhibir constancia médica reciente sobre su buen estado de salud.
-
-Los titulares de la Secretaría General de Acuerdos, de la Subsecretaría de Acuerdos y del Instituto de Especialización Judicial, así como los de la Secretaría de Acuerdos y de la Secretaría Auxiliar de las salas, deberán tener, además, título de licenciado en derecho debidamente registrado.
-
-###### ARTICULO 51.
-
-La Secretaría General de Acuerdos tendrá las funciones y obligaciones siguientes:
-
-I. Concurrir a las sesiones del Pleno; redactar las actas y cuidar que éstas sean firmadas y archivadas;
-
-II. Cumplir los acuerdos e instrucciones del Presidente;
-
-III. Autorizar con su firma las resoluciones y actuaciones del Pleno y del Presidente, con arreglo a las leyes;
-
-IV. Cumplir las comisiones administrativas que le confieran el propio Pleno o el Presidente;
-
-V. Recibir los escritos dirigidos al Presidente o al Pleno, asentando en ellos tanto el día y hora en que se reciban, como los nombres y apellidos de quienes los presenten, recabando, cuando proceda, la ratificación correspondiente;
-
-VI. Dar cuenta al Presidente con los escritos que reciba, dentro de las veinticuatro horas hábiles siguientes a la de su presentación. En caso de urgencia le informará de inmediato;
-
-VII. Redactar la correspondencia oficial conforme a lo acordado por el Presidente;
-
-VIII. Fijar fuera de su oficina, en lugar visible y de fácil acceso, la lista de las resoluciones del Pleno o de la Presidencia que deban ser notificadas con arreglo a las leyes procesales;
-
-IX. Expedir, previa autorización del Presidente, copias simples o certificadas de los documentos que obren en las oficinas del Supremo Tribunal, cuya expedición no esté encomendada a otros funcionarios;
-
-X. Controlar, dirigir y vigilar las funciones de responsabilidad oficial, de notificación, de turno y de trabajo social;
-
-XI. Reunir los datos necesarios para redactar el proyecto de informe anual del Presidente; y
-
-XII. Las demás que le encomienden los Reglamentos que expida el Supremo Tribunal.
-
-### CAPITULO I. DIVISION TERRITORIAL
-
-###### ARTICULO 52.
-
-La Subsecretaría de Acuerdos tendrá las funciones y obligaciones siguientes:
-
-I. Las que señala el artículo anterior, en ausencia o por excusa o recusación del Secretario General de Acuerdos;
-
-II. Auxiliar al propia (Sic) Secretario en las funciones que esta Ley o los Reglamentos le encomienden; y
-
-II. Las demás que determinen el Pleno o la Presidencia.
-
-###### ARTICULO 53.
-
-A la Oficialía Mayor corresponderá la atención y despacho de los asuntos siguientes:
-
-I. Vigilar el cumplimiento de las disposiciones legales y estatutarias que rijan las relaciones entre el Poder Judicial y sus trabajadores;
-
-II. Tramitar los nombramientos, remociones, renuncias y licencias de los propios trabajadores;
-
-III. Elaborar y mantener actualizado el escalafón de los trabajadores del Poder Judicial;
-
-IV. Hacer el censo de recursos humanos del propio Poder y mantenerlo al corriente;
-
-V. Llevar las hojas de servicio de los funcionarios y empleados del Poder Judicial, asentando en ellas tanto las notas laudatorias como las relativas a correcciones disciplinarias y aquellas que se declaren fundadas. lnderectiblemente agregará el certificado de salud a que se refiere la fracción IV del artículo 50, y, cuando para desempeñar el cargo se requiera título profesional, copia certificada de éste;
-
-VI. Cuidar que los empleados de las oficinas administrativas desempeñen con eficiencia sus labores y guarden en ellas el orden y compostura debidos, informando al Presidente de las faltas que cometan cuando el caso lo amerite;
-
-VII. Controlar, dirigir y vigilar las funciones de administración, contabilidad, estadística, personal y servicios generales;
-
-VIII. Expedir copias simples o certificadas de los documentos que obren en los expedientes del personal del Poder Judicial;
-
-IX. Proveer a las salas, juzgados y demás oficinas, de los elementos y materiales de trabajo necesarios para el desempeño de sus funciones;
-
-X. Adquirir los bienes y procurar los servicios que requieran las oficinas del Poder Judicial, para el mejor desempeño de su función de administrar justicia;
-
-XI. Levantar y mantener actualizado el inventario de recursos materiales;
-
-XII. Llevar el control del ejercicio presupuestal del Poder Judicial; y
-
-XIII. Las demás que le encomienden los Reglamentos.
-
-## TITULO QUINTO. JUZGADOS DE TENENCIA
-
-### CAPITULO II. DISTRIBUCION Y COMPETENCIA DE LOS JUZGADOS DE PRIMERA INSTANCIA
-
-> <small>(REFORMADO, PRIMER PARRAFO, P.O. 10 DE ABRIL DE 1986)</small>
-
-###### ARTICULO 54.
-
-El Instituto de Especialización Judicial tendrá la finalidad de preparar y capacitar al personal del Poder Judicial y a quienes aspiren a ocupar algún cargo en el mismo.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-###### ARTICULO 55.
-
-Las Secretarías de Acuerdos de cada sala, tendrán las facultades y obligaciones siguientes:
-
-I. Cuidar que los demás empleados asistan con puntualidad al despacho y cumplan con sus deberes, poniendo en conocimiento de su superior las faltas que notaren;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-II. Recibir los escritos que se dirijan a la sala y dar cuenta con ellos al magistrado en la forma y términos que señalan el Código Procesal Penal y el Código de Procedimientos Civiles;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-III. Intervenir, conforme a la Ley, en todas las diligencias que practique el magistrado;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-IV. Redactar las resoluciones que determine el magistrado;
-
-V. Formar y autorizar la lista de las resoluciones que se dicten, de la cual conservarán una copia en el archivo y enviarán otra a la Secretaría General de Acuerdos del Supremo Tribunal;
-
-VI. Asentar en los expedientes las razones y certificaciones que procedan, sin necesidad de mandato judicial;
-
-VII. Guardar los escritos, expedientes y resoluciones que por su naturaleza o por disposición de la ley, no deban ser conocidos antes de practicarse alguna actuación;
-
-VIII. Controlar el sello de la sala y hacer uso de él de acuerdo con sus atribuciones;
-
-IX. Redactar la correspondencia oficial conforme a los acuerdos que reciban de su superior y dirigir las labores de la oficina;
-
-X. Expedir las copias simples que soliciten las partes en los negocios y autorizar las certificadas que se expidan por mandanto judicial;
-
-XI. Tener a su cargo y bajo su responsabilidad el archivo de la sala;
-
-XII. Cuidar que el oficial asiente, en los libros de registro, los datos que procedan;
-
-XIII. Reunir los datos estadísticos necesarios para los informes que deban proporcionarse;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-XIV. Encargarse del despacho en los términos de esta Ley;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-XV. Autorizar con su firma las resoluciones y actuaciones del magistrado; y
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-XVI. Las demás que determinen las leyes, los reglamentos o el Magistrado.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-###### ARTICULO 56.
-
-Las Secretarías Auxiliares de las salas elaborarán los proyectos de resolución que les encomiende el magistrado.
-
-> <small>(REFORMADAO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-###### ARTICULO 57.
-
-Las Oficialías de cada sala tendrán las facultades y obligaciones siguientes:
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-I.Cumplimentar las resoluciones del magistrado, cuando ello deba tener lugar fuera del local de la sala y no esté encomendado especialmente a otro empleado;
-
-II. Llevar los libros de registro, anotando en ellos los datos que sean necesarios; y
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-III. Realizar las demás actividades que le encomiende el magistrado o el secretario de acuerdos.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-### CAPITULO UNICO. DISTRIBUCION Y COMPETENCIA DE LOS JUZGADOS MUNICIPALES
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 1991)</small>
-
-###### ARTICULO 58.
-
-A los notificadores de las Salas del Supremo Tribunal corresponde hacer los emplazamientos, notificaciones personales, citaciones y ejecutar las resoluciones que se les ordenen, en los asuntos de que conozcan las Salas Unitarias; asi como también los que sean de la competencia de la Presidencia o del Pleno, para cuyo efecto el Presidente comisionará cualquiera de ellos, conforme a la materia de que se trate.
-
-###### ARTICULO 59.
-
-Las demás dependencias, funcionarios y empleados del Supremo Tribunal, de la Presidencia y de las salas, desempeñarán las labores y comisiones que fijen los reglamentos o les encomienden sus superiores.
-
-###### ARTICULO 60.
-
-Los juzgados de Primera Instancia tendrán Secretarías y Actuarías. El número de éstas y el de los empleados que los juzgados requieran para su mejor funcionamiento, se fijará conforme a lo que permita el Presupuesto de Egresos.
-
-###### ARTICULO 61.
-
-Los Secretarios y Actuarios, así como los demás empleados de los juzgados de primera instancia, deberán reunir los requisitos que señala el artículo 50 de esta Ley; procurándose que los secretarios y actuarios tengan título de Licenciado en Derecho.
-
-###### ARTICULO 62.
-
-A las Secretarías corresponde:
-
-I. Cuidar que los empleados desempeñen sus funciones con eficiencia, orden y compostura, informando al juez de las faltas que cometan;
-
-II. Ejercer por si mismas, o por conducto de los demás empleados, la vigilancia necesaria para evitar la pérdida de documentos, expedientes y objetos que estén al cuidado del personal;
-
-III. Redactar las resoluciones que les indique el juez;
-
-IV. Guardar con sigilo los escritos, expedientes y resoluciones que por su naturaleza, por disposición de la ley o del juez, no deban ser conocidos por las partes o por otras personas;
-
-V. Cuidar que se formulen por triplicado las listas de resoluciones, y, en la fecha de éstas, remitir un tanto a la Secretaría del Supremo Tribunal; conservar otro en el archivo del juzgado, y con el tercero hacer la publicación en la forma establecida por la ley;
-
-VI. Organizar y tener a su cargo el archivo del juzgado;
-
-VII. Recabar recibo de los expedientes que entreguen conforme a la ley y previo el acuerdo respectivo;
-
-VIII. Controlar el sello del juzgado y hacer uso de él de acuerdo con sus atribuciones;
-
-IX. Substituir al juez en los casos que determine esta ley;
-
-X. Expedir las copias simples que soliciten las partes en los negocios, y autorizar las certificados que se expidan por mandato judicial; y
-
-XI. Las demás que por disposición de ley o del juez les correspondan.
-
-###### ARTICULO 63.
-
-A las Actuarías corresponde:
-
-I. Practicar los emplazamientos, notificaciones y citaciones que procedan conforme a la ley;
-
-II. Llevar los libros de registro, anotando en ellos los datos respectivos; y
-
-III. Desempeñar las demás actividades que les encomienden los jueces o los secretarios.
-
-###### ARTICULO 64.
-
-Los demás empleados auxiliarán a los jueces, secretarios y actuarios, en las labores que los mismos les encomienden.
-
-###### ARTICULO 65.
-
-Los juzgados municipales tendrán Secretarías y Actuarías. El número de éstas y el de los empleados que los juzgados requieran para su mejor funcionamiento, se fijará conforme a lo que permita el Presupuesto de Egresos.
-
-###### ARTICULO 66.
-
-Los Secretarios y Actuarios, así como los demás empleados de los juzgados municipales, deberán reunir, en lo conducente, los requisitos que fija el artículo 50 de esta Ley.
-
-## TITULO SEXTO. ARBITROS Y JURADOS
-
-### CAPITULO UNICO. DISTRIBUCION Y COMPETENCIA DE LOS JUZGADOS DE TENENCIA
-
-###### ARTICULO 67.
-
-Los secretarios y actuarios de los juzgados municipales tendrán, respectivamente, las facultades y obligaciones previstas en los artículos 62 y 63.
-
-A falta de actuarios, los secretarios ejercerán las funciones de aquellos.
-
-###### ARTICULO 68.
-
-Los demás empleados de los juzgados municipales auxiliarán a los jueces, secretarios y actuarios, en las labores que los mismos les encomienden.
-
-###### ARTICULO 69.
-
-Las excitativas de justicia tienen por objeto competer a los magistrados y a los jueces para que administren pronta y cumplida justicia, cuando aparezca que han dejado transcurrir los términos legales sin dictar las resoluciones que correspondan.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-###### ARTICULO 70.
-
-Las excitativas de justicia contra los magistrados y los jueces de primera instancia se promoverán por escrito ante el Presidente del Supremo Tribunal, quien pedirá informe con justificación a dichos funcionarios y les señalará un término que no excederá de cinco días para que lo rindan. La falta de informe establece la presunción de ser cierta la omisión motivo de la excitativa, y se sancionará con multa de cien a quinientos pesos.
-
-El Presidente, concluido el término, dictará resolución o dará cuenta al Pleno para que éste resuelva lo que proceda. La resolución, será engrosada por el Presidente.
-
-## TITULO SEPTIMO. DEPENDENCIAS DEL PODER JUDICIAL
-
-### CAPITULO UNICO. DISPOSICIONES GENERALES
-
-###### ARTICULO 71.
-
-Las excitativas de Justicia contra los jueces municipales y de tenencia se promoverán por escrito ante los de primera instancia del distrito respectivo. Cuando haya dos o más jueces de primera instancia, conocerá de la excitativa el que esté de turno con arreglo a lo dispuesto en el artículo 31.
-
-En estos casos se seguirá, en lo conducente, el procedimiento señalado por el artículo anterior.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-###### ARTICULO 72.
-
-El Pleno del Supremo Tribunal y los jueces de primera instancia, resolverán las excitativas con informe o sin él dentro de los tres días siguientes al vencimiento del plazo señalado para rendirlo. Cuando a juicio de estas autoridades haya mediado motivo racional e insuperable para el no pronunciamiento de la resolución, la excitativa será declarada improcedente.
-
-###### ARTICULO 73.
-
-Cuando la excitativa de justicia sea procedente, se impondrá al responsable amonestación por escrito o multa de uno a diez días, de sueldo, y se le fijará un término para dictar resolución, el cual no excederá de diez días.
-
-Si la excitativa se denegare por carecer de fundamento, la autoridad que la resuelva aplicará al peticionario multa de cien a mil pesos.
-
-### CAPITULO I. EN EL SUPREMO TRIBUNAL DE JUSTICIA
-
-###### ARTICULO 74.
-
-Para los efectos de esta Ley, las ausencias son accidentales si el funcionario o empleado no acude a su trabajo sin licencia previa. Son ausencias temporales, las motivadas por licencia, suspensión de empleo, vacaciones o incapacidad por enfermedad.
-
-Son ausencias definitivas, las originadas por renuncia, abandono de empleo, destitución o muerte.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-###### ARTICULO 75.
-
-Las ausencias temporales y definitivas de los magistrados se suplirán con arreglo con lo dispuesto en el artículo 74 de la Constitución Política del Estado, y, las accidentales, por los Secretarios de acuerdos de las Salas, quienes estarán facultados para continuar la tramitación de los asuntos, no así para resolver cuestiones incidentales o definitivas, salvo los incidentesde libertad provisional bajo caución. La misma facultad tendrán los secretarios tratándose de ausencias temporales y definitivas de los magistrados, en tanto no se presenten las personas que deban substituir a éstos.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-###### ARTICULO 76.
-
-El Presidente del Supremo Tribunal será substituido en las ausencias accidentales, temporales y en las causas de impedimento, por Presidente Substituto que el Pleno haya designado; si también este último faltare, será substituido por el magistrado de mayor antigüedad en el Tribunal y si hubiere dos o más con la misma antigüedad, el que tenga mayor tiempo en el servicio dentro del Poder Judicial del Estado. El presidente Substituto en todo caso continuará adscrito a su Sala.
-
-En las ausencias definitivas del Presidente, el Presidente Substituto ejercerá el cargo hasta que el congreso del Estado nombre el nuevo magistrado.
-
-Una vez que éste tome posesión, se elegirá al Presidente que completará el período para el cual el substituto fue electo.
-
-###### ARTICULO 77.
-
-En las ausencias accidentales, en las temporales y en las definitivas en tanto no se haga nueva designación, operarán las siguientes substituciones:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-I. La del Secretario General de Acuerdos del Supremo Tribunal, por el Subsecretario de Acuerdos; y en ausencia de ambos, por el escribiente de mayor antigüedad en la Secretaría de la Presidencia;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-II. La de los Secretarios de Acuerdos de las salas y de los notificadores de éstas, por los oficiales de las mismas;
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-III. La de los Oficiales de las Salas, los escribientes que determinen los magistrados;
-
-IV. La de los jueces de primera instancia, por los secretarios de los juzgados; y en los que hubiere dos o más, por el de mayor antigüedad en el servicio;
-
-V. La de los jueces municipales de Morelia, por los secretarios de los juzgados respectivos, conforme a lo previsto en la fracción anterior;
-
-VI. La de los demás jueces municipales, así como la de los de tenencia propietarios, por sus suplentes, y, a falta de éstos, por los secretarios;
-
-VII. La de los secretarios de los juzgados, por otro de ellos si hubiere dos o más; si sólo hubiere uno, por los actuarios; y, a falta de éstos, por uno de los escribientes con mayor antigüedad en el servicio; y
-
-VIII. La de los actuarios de los juzgados, por el escribiente de mayor antigüedad, y a falta de éste, por los secretarios, siguiendo la regla de la fracción IV de este artículo.
-
-###### ARTICULO 78.
-
-Si los secretarios de los juzgados que substituyan a los jueces son licenciados en derecho, podrán ser autorizados por el Pleno para fallar en definitiva; de lo contrario, no dictarán resoluciones que pongan fin a la instancia, salvo en los casos de desistimiento y cuando el Ministerio Público formule conclusiones no acusatorias.
-
-En cualquiera de estos casos, los secretarios actuarán con otros de igual categoría si los hubiere; si no los hay, con los actuarios, y, a falta de éstos, con testigos de asistencia.
-
-###### ARTICULO 79.
-
-En los casos no previstos por esta Ley, será substituto el empleado de mayor jerarquía o antigüedad en el servicio.
-
-## TITULO OCTAVO
-
-EXCITATIVAS DE JUSTICIA. AUSENCIAS Y SUBSTITUCIONES. LICENCIAS Y VACACIONES. FALTAS Y SANCIONES. DISPOSICIONES COMPLEMENTARIAS.
-
-### CAPITULO II. EN LOS JUZGADOS DE PRIMERA INSTANCIA
-
-###### ARTICULO 80.
-
-Las percepciones de los substitutos no serán incrementadas, excepto cuando los secretarios de los juzgados sean autorizados para fallar en definitiva y los jueces substituidos obtuvieren licencia sin goce de sueldo, pues en este caso, los secretarios percibirán el sueldo del juez.
-
-### CAPITULO III. LICENCIAS Y VACACIONES
-
-###### ARTICULO 81.
-
-Las licencias de los magistrados se regirán por lo que dispone el artículo 44, fracción XXI, de la Constitución Política del Estado.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-###### ARTICULO 82.
-
-Los Jueces de Primera Instancia, los Magistrados, el Presidente del Supremo Tribunal y el Pleno, podrán conceder licencias con goce de sueldo en los siguientes casos:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-I. Los jueces de primera instancia, y los magistrados, a sus subalternos, hasta por cinco días;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-II. El Presidente del Supremo Tribunal, a los jueces del Estado y a los funcionarios y empleados cuyo nombramiento dependa de la Presidencia o del Pleno, hasta por diez días; y a los demás empleados del Poder Judicial, por más de cinco y hasta por diez días; y,
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-III. El Pleno del Supremo Tribunal, a los jueces y demás funcionarios y empleados del Poder Judicial, por más de diez días y hasta quince.
-
-IV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1986)
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-###### ARTICULO 83.
-
-Las licencias sin goce de sueldo podrán concederse en los términos del artículo anterior, ampliándose la facultad del Presidente del Tribunal para conceder aquellas que no excedan de un mes, y, la facultad del Pleno, para concederlas hasta por seis mese, incluso al personal de las Salas.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-## TITULO NOVENO. DE LA DIRECCIÓN ADMINISTRATIVA Y DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-### CAPITULO I. DE LA DIRECCIÓN ADMINISTRATIVA E INTEGRACIÓN DEL FONDO AUXILIAR
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-###### ARTICULO 128.
-
-La Dirección Administrativa dependerá de la Presidencia del Supremo Tribunal y se integrará con un director y el personal que a juicio del Presidente se requiera para la atención de los servicios de la misma. Las atribuciones de la Dirección serán determinadas por el Pleno del Supremo Tribunal de Justicia y el reglamento respectivo.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-###### ARTICULO 129.
-
-El Fondo Auxiliar para la Administración de Justicia, se integra con:
-
-I. Fondos propios constituidos por:
-
-a) El monto de las cauciones otorgadas para garantizar la libertad provisional bajo caución, que se hagan efectivas en los casos señalados por los artículos respectivos del Código Procesal Penal.
-
-b) El monto de las cauciones otorgadas para obtener el beneficio de la suspensión condicional de la ejecución de la sanción, que se hagan efectivas en los casos previstos por las disposiciones correspondientes del Código Penal.
-
-c) Las multas que por cualquier causa se impongan por los tribunales judiciales del fuero común.
-
-d) Los intereses que se generen por las inversiones que se hagan de los depósitos en dinero o en valores que efectúen ante los tribunales judiciales del fuero común.
-
-e) Los objetos o instrumentos materia del delito que sean de uso lícito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas de los Códigos Penal y Procesal Penal.
-
-f ) Los muebles y valores depositados por cualquier motivo ante los tribunales de justicia del fuero común que no fueren retirados por, el depositario o por quien tenga derecho a ellos, dentro de los términos a que se refiere el inciso anterior y computados éstos a partir de la fecha en la que se pudo solicitar la devolución o entrega, teniéndose como tal fecha la de la notificación respectiva.
-
-g) El monto de la reparación del daño cuando la parte ofendida no lo reclame o renuncie al mismo.
-
-II. Fondos ajenos constituidos por depósitos en efectivo o en valores, que por cualquier causa se realicen o se hayan realizado ante los tribunales del fuero común en el Estado.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-###### ARTICULO 130.
-
-Para los efectos de la fracción II del artículo anterior, el tribunal o cualquier órgano de éste que por cualquier motivo reciba un depósito de dinero o en valores, deberá remitirlo o integrarlo al Fondo Auxiliar, por conducto de la Presidencia conforme al trámite que señale el instrumento girado por el Supremo Tribunal de Justicia.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-###### ARTICULO 131.
-
-Las cantidades que se reciban en el renglón de Fondos Ajenos, serán reintegrados a los depositantes o beneficiarios, según proceda mediante orden por escrito del Titular del Tribunal ante el que se haya constituido el depósito.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-###### ARTICULO 132.
-
-Transcurridos los plazos legales en los casos de los incisos a) y f) de la fracción I del artículo 129 de esta Ley, sin reclamación de parte legítima, los objetos, instrumentos, muebles o valores respectivos, pasan a formar parte del Fondo Auxiliar.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-### CAPITULO II. DE LA ADMINISTRACIÓN Y DESTINO DEL FONDO AUXILIAR
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-###### ARTICULO 133.
-
-El Presidente del Supremo Tribunal de Justicia, tendrá a su cargo y bajo su responsabilidad el manejo y administración del Fondo Auxiliar, conforme a las siguientes bases:
-
-I. Deberá invertir las cantidades que integran el Fondo Auxiliar, en la adquisición de títulos de renta fija o a plazo fijo, en representación del Supremo Tribunal de Justicia, quien será el titular de los certificados y documentos que expidan las instituciones de crédito con motivo de las inversiones que se hagan.
-
-II. En el informe que deba rendir el Presidente del Supremo Tribunal de Justicia, de acuerdo con lo ordenado por el artículo 78 de la Constitución Política del Estado, se incluirá la cuenta debidamente justificada de los ingresos de las inversiones as como de las erogaciones efectuadas durante cada periodo de su gestión.
-
-III. Con cargo al Fondo Auxiliar y previo acuerdo del Pleno del Supremo Tribunal de Justicia, podrá aumentar, a base de honorarios, el número de los empleados que por necesidades del incremento en las labores de las salas, juzgados y Dirección Administrativa, lo requieran, cuando no, estén contemplados en el presupuesto de egresos del Poder Judicial.
-
-IV. El Pleno del Supremo Tribunal de Justicia o el Presidente ordenarán la práctica de auditorías que consideren necesarias, para verificar que el manejo del Fondo Auxiliar se realice de manera conveniente.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-###### ARTICULO 134.
-
-El patrimonio del Fondo Auxiliar se destinará a sufragar los gastos que se originen con motivo de:
-
-I. La adquisición de mobiliario, equipo y libros de consulta que se necesiten en las Salas del Supremo Tribunal de Justicia y en los juzgados del fuero común en el Estado, que no estén autorizados en su presupuesto.
-
-II. El pago del importe del arrendamiento de locales, que se hagan necesario para la ubicación de los juzgados; así como para el acondicionamiento de éstos y de los existentes, cuyo gasto no esté autorizado en el presupuesto del Poder Judicial.
-
-III. La capacitación, mejoramiento especialización profesional del personal del Poder Judicial del Estado.
-
-IV. El otorgamiento de estímulos y recompensas económicas, autorizados por el Pleno del Supremo Tribunal de Justicia a la planta de servidores públicos del Poder Judicial del Estado.
-
-V. La participación de magistrados y jueces en congresos de Derecho.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-###### ARTICULO 135.
-
-Independientemente de las visitas ordinarias y extraordinarias que se efectúan a los juzgados, previstas en la ley, el Presidente del Supremo Tribunal de Justicia podrá acordar visitas especiales a los mismos, por parte del magistrados y auditores, para la revisión y manejo de los valores y depósitos a su cargo.
-
-> <small>(ADICIONADO EN SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-### CAPITULO III. EN LOS JUZGADOS MUNICIPALES
-
-###### ARTICULO 84.
-
-Las licencias, con o sin goce de sueldo, sólo podrán concederse una vez al año, quedando abolida la práctica de concederlas sucesivamente; las que otorguen el Presidente o el Pleno del Supremo Tribunal a los funcionarios y empleados cuyo nombramiento no dependa de aquellos, deberán estar precedidas de la anuencia del titular de la oficina respectiva, quien si no estuviere de acuerdo en que se concedan, expresará los motivos de su inconformidad.
-
-## TITULO DECIMO. DEL DEPARTAMENTO DE COMPUTACION E INFORMATICA
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+###### ARTICULO 1º.
 
-###### ARTICULO 136.
+Las disposiciones de esta ley son de orden público e interés social y tienen como objeto, regular la prestación del servicio de transporte público en el Estado y establecer las bases para la protección y la seguridad de la población en la materia.
 
-El Departamento de Computación e Informática del Poder Judicial del Estado, dependerá de la Presidencia del Supremo Tribunal y tendrá como funciones, las siguientes:
+###### ARTICULO 2º.
 
-I. La captura de datos procedentes de los juzgados de primera instancia y de las salas del Supremo Tribunal de Justicia, relativos a los diversos juicios, procedimientos y procesos que ante ellos se tramiten con el fin de efectuar un seguimiento de los mismos, por medio del sistema de computación.
+La prestación del servicio público de transporte corresponde al Estado, quien podrá prestarlo por sí mismo o concesionarlo mediante concurso a personas físicas y morales, de conformidad con lo establecido por la presente ley.
 
-II. Con base en los registros computarizados que se obtengan, proporcionar a las partes interesadas o autorizadas, información actualizada del estado procesal de los asuntos en que intervengan.
+###### ARTICULO 3º.
 
-III. Mantener y conservar actualizados registros estadísticos de juicios, procedimientos y procesos por materia, por juzgados, por salas, o bien por naturaleza especifica.
+El titular del Ejecutivo del Estado está facultado para emitir el Programa Estatal de Transporte, en donde se especificarán los objetivos, metas, estrategias y líneas de acción en materia de transporte público. En el propio programa se establecerán los sistemas integrales de rutas de transporte colectivo de carácter municipal, intermunicipal y estatal, entendiéndose por éstos la definición de itinerarios que concreten un mejor servicio, atendiendo al origen y destino de los usuarios y coadyuven a una mayor rentabilidad del servicio de transporte urbano de pasajeros, así como a dar fluidez al tránsito en el área que involucren los sistemas y a disminuir la contaminación ambiental.
 
-IV. La computarización de las acciones del Supremo Tribunal de Justicia en áreas de administración, contabilidad, recursos humanos y materiales y otros que se requieran.
+Los sistemas a que se refiere el párrafo precedente serán operados por el Estado, a través de los organismos específicos que al efecto se constituyan o mediante concesión otorgada a terceros.
 
-V. El registro computarizado y la informática de todas aquellas actividades de apoyo al servicio de la administración de justicia, que se determine por la Presidencia del Supremo Tribunal.
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
+Los ayuntamientos, conforme a las disposiciones de esta Ley participarán con el Ejecutivo del Estado, en la elaboración y aplicación de los programas y sistemas a que se refieren los párrafos precedentes, en lo que afecte al ámbito territorial del municipio correspondiente.
 
-###### ARTICULO 137.
+> <small>(REFORMADO, 21 DE MARZO DE 2001)</small>
 
-Para una mejor eficiencia del servicio de computación e informática, el Presidente del Supremo Tribunal de Justicia, autorizará el establecimiento de las oficinas que fueren necesarias, dependientes del Departamento de computación e Informática tanto en la Capital del Estado como en los distritos judiciales que se requieran, de acuerdo con las posibilidades presupuestales, determinado, en su caso, los lugares en donde técnicamente sea conveniente establecerlos según las necesidades del servicio y volumen de trabajo.
+###### ARTICULO 4º.
 
-### CAPITULO I. EXCITATIVAS DE JUSTICIA
+El titular del Ejecutivo del Estado, con la participación del Ayuntamiento que corresponda según sea el caso, por sí o a través de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, podrá establecer modalidades de uso de las concesiones y permisos del transporte público, fijando los itinerarios, tarifas, horarios, frecuencias, sitios, terminales, tipos de vehículos, desplazamiento de enlaces, enrolamientos, fusiones y escisiones o cualquier otra especificación del servicio, escuchando las recomendaciones del Consejo Estatal de Transporte en beneficio del interés público.
 
-###### ARTICULO 85.
+###### ARTICULO 5º.
 
-Para que una licencia pueda concederse deberá existir motivo justificado a juicio de la autoridad que la conceda y tener, quien la solicite, por lo menos seis meses de servicio.
+Cuando se presenten circunstancias de fuerza mayor o de caso fortuito, el titular del Ejecutivo del Estado dictará las disposiciones que considere necesarias para prestar el servicio y resguardar la seguridad de la población en materia de transporte.
 
-### CAPITULO II. AUSENCIAS Y SUBSTITUCIONES
+###### ARTICULO 6º.
 
-###### ARTICULO 86.
+Para los efectos de la presente ley, se entiende por servicio público de transporte de personas, equipajes y cosas el que se efectúa por medio de vehículos autorizados que cubren itinerarios determinados por la propia autoridad en las calles y caminos de jurisdicción estatal y que se presta directamente a la población por el Ejecutivo o por personas físicas o morales a las que éste otorgue concesiones o permisos para tal efecto, mediante el pago de una retribución en numerario.
 
-Los magistrados del Supremo Tribunal podrán dejar de asistir al despacho hasta por quince días, Sin mengua de su sueldo; pero para ello será necesario que obtengan autorización del Pleno o del Presidente; si se trata de este últitmo (sic), bastará con que lo comunique al magistrado que deba substituirlo.
+###### ARTICULO 7º.
 
-> <small>(ADICIONADO, ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+El Ejecutivo del Estado deberá llevar a cabo y coordinar, en los términos de esta ley, programas de información, orientación y asesoría a transportistas, permisionarios, concesionarios y usuarios del transporte público, en relación con el servicio del transporte, asicomo sobre los derechos y obligaciones de unos y otros; así mismo, llevará a cabo campañas de orientación y de concientización a usuarios y prestadores del servicio para la prevención de accidentes.
 
-La autorización a que se refiere este artículo no será concedida al mismo tiempo a más de tres magistrados, salvo cuando el Supremo Tribunal acuerde trasladarse en Pleno fuera de la ciudad de Morelia o cuando los magistrados tengan que ausentarse para desempeñar alguna comisión relacionada con el servicio.
+## TITULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
-###### ARTICULO 87.
+### CAPITULO UNICO
 
-Los funcionarios y empleados del Poder Judicial disfrutarán de dos períodos de vacaciones al año, de diez días hábiles cada uno, siempre que tengan más de seis meses de servicio.
+###### ARTICULO 8º.
 
-###### ARTICULO 88.
+Son autoridades en materia de transporte:
 
-Al fijar los períodos de vacaciones, se tomarán las medidas necesarias para que en los juzgados que tramiten asuntos penales no se suspendan totalmente las labores y en ninguno se deje de atender los negocios urgentes.
+I.- El titular del Ejecutivo del Estado;
 
-### CAPITULO IV. FALTAS Y SANCIONES
+II.- El Secretario General de Gobierno;
 
-###### ARTICULO 89.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
 
-Son faltas de los magistrados, jueces, funcionarios y empleados del Poder Judicial:
+III.- Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas; y
 
-I. No asistir a sus labores; llegar tarde a las oficinas respectivas o ausentarse de ellas durante el horario de trabajo, sin causa justificada;
+IV.- El Director General de Comunicaciones y Transportes.
 
-II. Desempeñar otros cargos para los que están impedidos con arreglo a esta Ley, o realizar actividades docentes o administrativas en las horas de labores;
+###### ARTICULO 9º.
 
-III. Demorar indebidamente el despacho de los negocios o las labores propias de sus cargos;
+Compete al titular del Ejecutivo del Estado:
 
-IV. Dirigir o aconsejar a las personas en los negocios judiciales, o asesorarías en los procedimientos administrativos:
+> <small>(REFORMADA, 21 DE MARZO DE 2001)</small>
 
-V. No guardar la debida discreción en los asuntos de que conozcan por razón de su cargo;
+I.- Definir la política y los programas en materia de transporte con la participación de los ayuntamientos, en lo que corresponda al ámbito territorial de los municipios respectivos.
 
-VI. Sacar indebidamente de sus oficinas expedientes o documentos oficiales;
+II.- Emitir el Programa Estatal de Transporte;
 
-VII. Solicitar o recibir indebidamente dinero o cualquier otra dádiva; aceptar o hacer una promesa para realizar o dejar de hacer algo lícito o ilícito relacionado con sus funciones; y
+III.- Otorgar, cancelar, modificar, suspender o declarar la nulidad de las concesiones o permisos para la prestación del servicio público de transporte, en cualquiera de sus modalidades;
 
-VIII. Las demás que por negligencia, malicia o cualquier otro motivo redunden en perjuicio de la administración de justicia.
+IV.- Otorgar los permisos temporales y emergentes, de prestación del servicio público de transporte;
 
-###### ARTICULO 90.
+V.- Celebrar convenios de coordinación con la Federación, las entidades federativas y los municipios, así como con los sectores social y privado para la mejor prestación de los servicios de transporte en el Estado;
 
-También son faltas de los magistrados y jueces:
+VI.- Convocar a concurso para el otorgamiento de concesiones para la prestación del servicio público de transporte en cualquiera de sus modalidades; y
 
-I. No excusarse de conocer negocios para los cuales tengan impedimento legal;
-
-II. No ordenar oportunamente la libertad de los detenidos, cuando ésta haya sido acordada conforme a la ley;
-
-III. Dictar resoluciones o trámites innecesarios que sólo tiendan a dilatar el procedimiento;
-
-IV. Admitir fianzas o contrafianzas de personas cuya solvencia no se hubiere acreditado suficientemente;
-
-V. Decretar un embargo o su ampliación sin que se reúnan los requisitos legales;
-
-VI. No sancionar las faltas de sus subalternos cuando sean de su conocimiento y estén acreditadas, o entorpecer su esclarecimiento;
-
-VII. No comunicar a la Presidencia del Supremo Tribunal de Justicia las sanciones que impongan a sus subalternos;
-
-VIII. No dar al Presidente del Supremo Tribunal el aviso a que se refiere el artículo 117, o salir por más de tres días del lugar en que residan para practicar alguna diligencia sin la autorización a que se contrae dicho precepto; y
-
-IX. Ausentarse del lugar de su residencia, sin la autorización respectiva, en días y horas de trabajo.
-
-###### ARTICULO 91.
-
-Se consideran faltas de los magistrados, además:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1986)</small>
-
-I. No asistir a las sesiones del Pleno o de las Salas Tribunal o desintegrar el quórum, sin causa justificada; y
-
-II. Intervenir en el nombramiento del personal subalterno de los juzgados de primera instancia, o hacer presión ante los jueces para que el nombramiento recaiga en persona determinada.
-
-###### ARTICULO 92.
-
-Además de las definidas en el artículo 89, son faltas de los secretarios y oficiales de las salas, de los secretarios y actuarios de los juzgados, y de los notificadores del Supremo Tribunal, en lo conducente:
-
-I. No asentar oportunamente en autos las certificaciones que procedan de oficio o por mandato judicial;
-
-II. Dilatar indebida o maliciosamente los emplazamientos, notificaciones, embargos o diligencias de cualquier clase que les fueren encomendadas;
-
-III. Hacer a las partes, por cédula o instructivo emplazamientos, notificaciones o citaciones fuera del lugar designado en autos; o no cerciorarse, en el caso de los emplazamientos, de que el interesado vive en la casa donde se practique la diligencia;
-
-IV. Embargar o asegurar bienes de persona o corporación que no sea la designada en el auto respectivo, si en el momento de la diligencia se les demuestra que esos bienes son de tercero; o ejecutar, maliciosamente, lanzamiento de persona o corporación distinta a la señalada en el mandamiento correspondiente. En todo caso, deberán expedir recibo de la documentación que les exhiba el opositor, la cual agregarán a los autos para dar cuenta a quien hubiere ordenado la diligencia;
-
-V. No remitir oportunamente a la Secretaría del Supremo Tribunal las listas a que se refieren los artículos 55 fracción V y 62 fracción V;
-
-VI. No dar cuenta, dentro del término legal, con las promociones y documentos dirigidos a su superior;
-
-VII. No informar a sus inmediatos superiores de las faltas que cometan los empleados subalternos en el desempeño de su cargo;
-
-VIII. No permitir el examen de los expedientes, sin causa justificada, a las partes o a las personas que puedan consultarlos con arreglo a la ley; y
-
-IX. Demorar injustificadamente el envío de los autos o testimonios para el trámite de los recursos de apelación y de queja.
-
-###### ARTICULO 93.
-
-Los jueces, funcionarios y empleados del Poder Judicial, incurrirán en falta si desobedecen las resoluciones u órdenes legítimas de sus superiores; si no las atienden con la debida oportunidad, o si no guardan respeto a aquellos en el ejercicio de sus funciones.
-
-###### ARTICULO 94.
-
-Las sanciones aplicables al personal del Poder Judicial, son:
-
-I. Amonestación por escrito;
-
-II. Multa de uno a diez días de sueldo;
-
-III. Suspensión hasta por seis meses; y
-
-IV. Destitución del cargo o empleo.
-
-###### ARTICULO 95.
-
-Se destituirá a los jueces, funcionarios y empleados:
-
-I. En los casos de las fracciones II, IV y VII del artículo 89; II del artículo 90, y IV del artículo 92;
-
-II. Si cometen por segunda vez alguna de las faltas señaladas en las fracciones IV, V y VI infine del artículo 90, y II y III del artículo 92; y
-
-III. Cuando la gravedad de la falta lo amerite, a juicio de quien deba aplicar la sanción.
-
-###### ARTICULO 96.
-
-Cuando se cometa alguna falta prevista en esta u otras leyes, que no deba sancionarse con destitución, será aplicada cualquiera otra de las sanciones mencionadas en el artículo 94, según la gravedad del acto u omisión.
-
-###### ARTICULO 97.
-
-Las sanciones serán impuestas por quien haya expedido el nombramiento respectivo, salvo lo que dispone el artículo siguiente.
-
-###### ARTICULO 98.
-
-El Presidente o el Pleno impondrán a los funcionarios y empleados del Supremo Tribunal, cualquiera que sea la oficina a la que estén adscritos y sea cual fuere la autoridad que les haya expedido el nombramiento, las sanciones que procedan por las faltas señaladas en la fracción I del artículo 89. A juicio del Presidente, las sanciones que imponga serán sometidas a la consideración del Pleno para que éste las confirme, revoque o modifique.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
-###### ARTICULO 99.
-
-Siempre que se impongan sanciones, se informará por escrito a la Oficialía Mayor del Supremo Tribunal para que la comunicación se agrega al expediente del empleado y se haga la anotación respectiva en su hoja de servicio.
-
-###### ARTICULO 100.
-
-Las faltas de los magistrados se sancionarán conforme a las fracciones I y lI del artículo 94.
-
-###### ARTICULO 101.
-
-Cuando personas distintas de las partes, de sus representantes o abogados y de los agentes del Ministerio Público, falten al respeto a los funcionarios o empleados del Poder Judicial ante los magistrados en lo individual o ante los jueces, serán sancionados por éstos, según corresponda, con multa de cien a mil pesos. Si el infractor no paga la multa, sufrirá arresto hasta por tres días.
-
-###### ARTICULO 102.
-
-La imposición de las multas se comunicará a los recaudadores de rentas del Estado para que las hagan efectivas en un plazo de tres días, contados a partir de la fecha en que reciban el oficio respectivo; y el arresto, en su caso, al jefe policiaco del lugar.
-
-###### ARTICULO 103.
-
-Las sanciones a que se refiere este capítulo, que se entenderán impuestas sin perjuicio de la responsabilidad penal en que se incurra, sólo se aplicarán cuando no estén previstas en las leyes procesales respectivas.
-
-###### ARTICULO 104.
-
-Contra las determinaciones que se tomen con fundamento en los artículos de este capítulo, no cabe recurso alguno.
-
-### CAPITULO VI (SIC). DISPOSICIONES COMPLEMENTARIAS
-
-###### ARTICULO 105.
-
-Los funcionarios y empleados del Poder Judicial, antes de tomar posesión de sus cargos, rendirán, ante la autoridad que los haya nombrado, protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ambas emanen; también protestarán desempeñar leal y patrióticamente dichos cargos.
-
-Los magistrados rendirán la protesta en los términos del artículo 73 de la Constitución Política del Estado.
-
-Los jueces municipales y de tenencia, así como el personal que labore con ellos, podrán rendir la protesta ante el Presidente del Supremo Tribunal o ante el funcionario que éste señale.
-
-###### ARTICULO 106.
-
-Cuando los jueces, funcionarios o empleados, no tomen posesión del cargo dentro de los tres días hábiles siguientes al de la designación, ésta quedará sin efecto.
-
-###### ARTICULO 107.
-
-El Procurador General de Justicia concurrirá a las sesiones del Pleno, cuando a juicio del Supremo Tribunal deba oírse su opinión para resolver los problemas de la administración de justicia.
-
-###### ARTICULO 108.
-
-Los secretarios y actuarios del Poder Judicial, así como los notificadores del Supremo Tribunal, tendrán fe pública en todo lo relativo al ejercicio de sus cargos y podrán requerir el auxilio de la fuerza pública para hacer cumplir las determinaciones judiciales. Las mismas facultades corresponderán a los oficiales de las salas en el caso que menciona la fracción I del artículo 57.
-
-###### ARTICULO 109.
-
-Los funcionarios y empleados del Poder Judicial, en funciones, estarán impedidos para ser apoderados judiciales, albaceas, tutores, curadores, árbitros, síndicos y depositarios judiciales, así como para ejercer la profesión de agente de negocios, o la de abogacía si no es en causa propia.
-
-Los magistrados y jueces, los secretarios de las salas y los funcionarios encargados de las dependencias a que se refiere el artículo 48, así como los secretarios y actuarios de los juzgados, estarán impedidos, además, para desempeñar otro cargo o empleo de la Federación, del Estado, del Municipio o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia.
-
-Solamente el Pleno del Supremo Tribunal tendrá facultad para calificar los impedimentos a que se refiere este artículo, y para otorgar, tratándose de actividades docentes fuera del horario de labores, la dispensa del impedimento.
-
-###### ARTICULO 110.
-
-Los nombramientos que expidan las autoridades del Poder Judicial no podrán recaer en sus cónyuges, parientes consanguíneos en línea recta sin limitación de grados, colaterales dentro del cuarto grado y afines dentro del segundo.
-
-###### ARTICULO 111.
-
-En los casos no previstos por esta Ley, el Supremo Tribunal de Justicia, los magistrados y los jueces de primera instancia, respectivamente, determinarán qué cargos o empleos son incompatibles con los que desempeñen las personas a quienes expidan nombramiento.
-
-###### ARTICULO 112.
-
-Las labores del Poder Judicial se suspenderán los sábados y domingos, los días de descanso que señalen las leyes, y los festivos que con el mismo fin determine el Supremo Tribunal, procurando que coincidan con los del calendario cívico del Poder Ejecutivo. En estos casos, el Supremo Tribunal dictará los acuerdos necesarios para que no se suspendan las diligencias que se hayan decretado, así como para que se practiquen aquellas en que hubiere causa urgente que las exija.
-
-###### ARTICULO 113.
-
-Para que un funcionario o empleado del Poder Judicial pueda abandonar la residencia del Tribunal o dependencia a que esté adscrito, o dejar de desempeñar las funciones o las labores a su cargo, deberá obtener la licencia correspondiente.
-
-###### ARTICULO 114.
-
-El abandono de empleo, que para los efectos de esta ley consistirá en la inasistencia a las labores por más de tres días consecutivos, sin causa justificada o sin permiso, deberá hacerse constar en acta circunstanciada y hará cesar los efectos del nombramiento respectivo.
-
-###### ARTICULO 115.
-
-Los funcionarios y empleados del Poder Judicial prestarán a éste sus servicios, fuera del horario de trabajo, cuando sea necesario y lo ordenen sus superiores; pudiendo el Pleno o el Presidente del Supremo Tribunal, en estos casos, otorgarles estímulos o recompensas con cargo a la correspondiente partida del Presupuesto de Egresos.
-
-###### ARTICULO 116.
-
-Ni el Pleno ni los magistrados harán recomendaciones a los jueces para que dicten resoluciones en determinado sentido, o que les restrinjan su criterio en la aplicación de las leyes.
-
-###### ARTICULO 117.
-
-Cuando los magistrados o los jueces tengan que salir del lugar de su residencia para practicar diligencias, podrán hacerlo siempre que la ausencia no exceda de tres días; pero avisarán al Presidente del Supremo Tribunal sobre el objeto y naturaleza de la diligencia, así como de la salida y del regreso. Cuando la ausencia deba ser mayoría solicitarán autorización del Presidente, quien resolverá lo que proceda o dará cuenta al Pleno, si lo estima necesario, para que este lo haga.
-
-###### ARTICULO 118.
-
-Cuando por acuerdo del Pleno del Presidente del Supremo Tribunal, los funcionarios o empleados del Poder Judicial deban trasladarse fuera del lugar de su residencia para realizar cualquier actividad oficial, tendrán derecho a recibir los correspondientes viáticos.
-
-###### ARTICULO 119.
-
-El Juez, funcionario o empleado del Poder Judicial que sea declarado formalmente preso o sujeto a proceso por delito doloso o preterintencional, será suspendido en el ejercicio de su cargo por la autoridad que lo hubiere nombrado, luego que ésta tenga conocimiento del auto respectivo. Si la sentencia firme fuere absolutoria, el funcionario o empleado se presentará a reanudar sus labores dentro de los tres días hábiles siguientes al en que aquella cause ejecutoria; si no lo hace, o si la sentencia fuere condenatoria, cesarán definitivamente los efectos de su nombramiento.
-
-###### ARTICULO 120.
-
-Los funcionarios y empleados del Poder Judicial presentarán sus renuncias ante la autoridad que los haya nombrado, y sólo hasta que las mismas les sean admitidas podrán separarse de sus cargos.
-
-###### ARTICULO 121.
-
-Los magistrados, jueces y jefes de cualquier dependencia del Poder Judicial, serán responsables de que los empleados desempeñen sus labores con eficiencia, orden y compostura; cuando les corresponda, sancionarán a quienes falten a estas normas y otorgarán, a quienes se distingan notoriamente en su observancia, notas laudatorias, comunicándolo a la Oficialía Mayor del Supremo Tribunal para los efectos del artículo 53, fracción V.
-
-###### ARTICULO 122.
-
-Los funcionarios a que se refiere el artículo anterior recibirán y entregarán las oficinas por inventario, levantando acta por triplicado que firmarán los entrantes y salientes, con el secretario si lo tuvieren en ellas se especificará la entrega de expedientes, libros, mobiliario, valores y demás objetos. Un ejemplar se conservará en el archivo de la dependencia de que se trate, otro deberá remitirse a la Secretaría del Supremo Tribunal de Justicia, y el último se dará a la persona que sea substituida.
-
-###### ARTICULO 123.
-
-Los jueces de primera instancia enviarán oportunamente al Supremo Tribunal de Justicia, para los efectos de la responsabilidad oficial, los procesos penales concluidos por resolución que no haya sido recurrida. Los expedientes se remitirán al Archivo Judicial si el Pleno, previo el estudio respectivo, determina que no existe falta que sancionar; en caso contrario, impondrá la sanción que sea procedente conforme a la ley. Si la falta cometida constituye delito, se denunciarán los hechos al Ministerio Público.
-
-###### ARTICULO 124.
-
-Los empleados de base tendrán derecho a que se les ascienda por escalafón, en los términos que fije el reglamento respectivo; sin perjuicio de que, en casos excepcionales, pueda otorgarse nombramiento a persona que hubiese prestado sus servicios al Poder Judicial con eficiencia y probidad notorias, o bien a personas que sean acreedoras del mismo por su honorabilidad, competencia y antecedentes.
-
-Cuando reúnan los requisitos legales para ello, los jueces de tenencia y los municipales tendrán derecho a que se les ascienda, respectivamente, a jueces municipales y de primera instancia. También estos ascensos se harán conforme al párrafo anterior y a lo que disponga el reglamento.
-
-###### ARTICULO 125.
-
-A los jueces de primera instancia, así como a los demás funcionarios y empleados que no tengan derecho a ascensos escalafonarios, el Supremo Tribunal, en los términos del artículo anterior, podrá comisionarlos o nombrarlos para que desempeñen otros cargos de mayor categoría dentro del Poder Judicial; entendiéndose por mayor categoría, en el caso de los jueces, la importancia de los juzgados en razón de su ubicación y del número y tipo de asuntos de los que conozcan.
-
-###### ARTICULO 126.
-
-Los jueces del Estado, al quedar firmes las sentencias mencionadas en el artículo 119, darán aviso de ello a la autoridad que hubiese expedido el nombramiento, siempre que tengan conocimiento de que el sentenciado es funcionario o empleado del Poder Judicial. La falta de este aviso no exime al funcionario o empleado suspendido de la obligación de presentarse a reanudar sus labores en los términos que señala el citado artículo 119.
-
-###### ARTICULO 127.
-
-Cuando a algún juez, funcionario o empleado del Poder Judicial, se le designe o elija para ocupar otro cargo público de la Federación, del Estado o del Municipio que no sea de base, tendrá derecho a que se le conceda licencia sin goce de sueldo por todo el tiempo que dure el nuevo nombramiento siempre que esa duración no sea mayor que la de su nombramiento en el Poder Judicial.
-
-> <small>(ADICIONADA CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 1989)</small>
-
-## TRANSITORIOS
-
-###### ARTICULO 1o.
-
-Esta Ley entrará en vigor el día 30 de agosto de 1982, previa su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO 2o.
-
-Desde esa misma fecha, quedará derogada la Ley Orgánica del Poder Judicial expedida el 8 de agosto de 1980, con las salvedades del artículo siguiente. No se comprenden en esta derogación: el artículo cuarto transitorio de la ley que se deroga, ni los artículos segundo, tercero, cuarto y quinto transitorios del Decreto de Reformas número 42, publicado en el Periódico Oficial el 15 de junio de 1981.
-
-###### ARTICULO 3o.
-
-En tanto se expiden los Reglamentos del Archivo del Poder Judicial, de Visitas y de la Biblioteca, continuarán vigentes los artículos 12 fracción XXI, 17 fracción IX, 41 fracciones IV y VI, y 56 fracción III de la Ley que se deroga, así como los capítulos XI, XV, XVI y XVII de la misma.
-
-###### ARTICULO 4o.
-
-El Supremo Tribunal de Justicia fijará oportunamente la fecha de la instalación de la quinta sala civil; asimismo fijará la fecha en que empezarán a funcionar tres juzgados de primera instancia de lo civil y dos de lo familiar en el distrito de Morelia, y otro juzgado de primera instancia en el distrito de Lázaro Cárdenas. El acuerdo respectivo será publicado con la debida oportunidad en el Periódico Oficial.
-
-###### ARTICULO 5o.
-
-Una vez instalada la quinta sala civil, el Supremo Tribunal dictará las reglas conforme a las cuales se distribuirán, entre las cinco salas civiles, los asuntos que obren en las cuatro ya existentes; mientras tanto, los asuntos seguirán tramitándose y resolviéndose en las salas donde radican.
-
-###### ARTICULO 6o.
-
-Al empezar a funcionar, en el distrito de Morelia, tres juzgados de primera instancia de lo civil y dos de lo familiar, el Supremo Tribunal determinará cuál o cuáles de los juzgados civiles ya existentes cambiarán de denominación y dictará, conforme a lo dispuesto en el artículo anterior, las reglas que se observarán para la distribución de los asuntos entre ellos.
-
-###### ARTICULO 7o.
-
-Se faculta al Supremo Tribunal de Justicia para que dicte las reglas conforme a las cuales se remitirán, de los juzgados de primera instancia a los municipales, y de éstos a los de tenencia, los asuntos que por razón de cuantía o materia no son ya de su competencia; entre tanto, se observará la regla señalada en el 5o. de estos artículos transitorios. El acuerdo que sobre el particular dicte el Supremo Tribunal, será igualmente publicado con la debida oportunidad en el Periódico Oficial.
-
-###### ARTICULO 8o.
-
-Para la efectividad y cumplimiento de la presente Ley, el Supremo Tribunal expedirá a la brevedad posible su Reglamento Interior, así como los del Archivo del Poder Judicial, de Visitas, de la Biblioteca y de Escalafón, igualmente expedirá, al instalar el Instituto de Especialización Judicial, el reglamento de éste.
-
-###### ARTICULO 9o.
-
-El Supremo Tribunal establecerá las bases que regirán el turno de los juzgados y el funcionamiento, cuando la tengan, de su oficina común de correspondencia.
+VII.- Las demás atribuciones que le otorga esta ley.
 
 ###### ARTICULO 10.
 
-El propio Supremo Tribunal fijará las normas conforme a las cuales se aplicarán las sanciones señaladas en el articulo 94 de esta Ley, por impuntualidad de los funcionarios y empleados del Poder Judicial a sus labores, por no asistir a ellas, o por ausentarse de las mismas durante el horario de trabajo.
+Es atribución del Secretario General de Gobierno observar que se cumplan los acuerdos y disposiciones que de conformidad con la presente ley, dicte el titular del Ejecutivo en materia de transporte.
 
-El Ejecutivo del Estado dispondrá se publique y observe.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 1998)</small>
 
-PALACIO DEL PODER LEGISLATIVO, Morelia, Michoacán de Ocampo, a 22 de junio de 1982.
+###### ARTICULO 11.
 
-DIPUTADO PRESIDENTE.- DR. EDUARDO PLIEGO MARGAIN.- DIPUTADO SECRETARIO. LIC. JERJES AGUIRRE AVELLANEDA.- DIPUTADO SECRETARIO.- ING. EFRAIN CARDOSO MEDINA.- (Firmados).
+Compete al Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas:
 
-Por tanto mando, se publique y observe.
+I.- Aplicar la política general sobre materia de transporte urbano;
 
-PALACIO DEL PODER EJECUTIVO.- Morelia, Mich, a 12 de julio de 1982.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ING. CUAUHTEMOC CARDENAS SOLORZANO.- EL SECRETARIO DE GOBIERNO.- DR. ROBERTO ROBLES GARNICA.- (Firmados).
+II.- Formular el proyecto del Programa Estatal de Transporte;
+
+III.- Participar en la celebración de convenios en materia de transporte público con los Gobiernos Federal y Municipal, así como con el sector social y privado;
+
+IV.- Emitir opinión técnica, previa al otorgamiento de concesiones que realice el titular del Ejecutivo;
+
+V.- Autorizar, con acuerdo del titular del Ejecutivo, las tarifas, rutas, horarios, itinerarios, tablas de distancia, terminales, paraderos y todo aquello relacionado con la operación eficiente del servicio de transporte público en las vías de comunicación de jurisdicción estatal;
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+Previo a la autorización a que se refiere el párrafo precedente, la Secretaría tomará en cuenta para la determinación de los conceptos antes señalados, la participación de los ayuntamientos que corresponda según el ámbito territorial de aplicación de los mismos.
+
+VI.- Coordinar los servicios de transporte público de jurisdicción municipal, intermunicipal y estatal y proponer las modalidades que se estimen convenientes;
+
+VII.- Tomar las medidas necesarias para evitar la suspensión del servicio de transporte público y aplicar las sanciones que le competan de conformidad con lo establecido por la presente ley;
+
+VIII.- Presentar las denuncias y querellas ante el Ministerio Público en los casos en que proceda, respecto a la materia;
+
+IX.- Organizar los servicios emergentes de transporte público, cuando las circunstancias lo ameriten;
+
+X.- Tramitar por sí o a través de la Dirección General de Comunicaciones y Transportes, lo referente al otorgamiento, cancelación, nulidad, suspensión, refrendo o modificación de las concesiones o permisos otorgados por el Ejecutivo;
+
+XI.- Autorizar los convenios que los concesionarios celebren entre sí, fijando las bases para la unión, combinación y enlace entre los distintos medios de transporte;
+
+XII.- Revisar el proyecto de las actas constitutivas de sociedades de transportistas para la prestación del servicio público de transporte, así como las modificaciones a las mismas.
+
+XIII.- Vigilar el cumplimiento de las condiciones establecidas en las concesiones, permisos y autorizaciones para la prestación del servicio público de transporte; y
+
+XIV.- Imponer las sanciones que le competan de conformidad con el artículo 84 de la presente ley.
+
+###### ARTICULO 12.
+
+Al Director General de Comunicaciones y Transportes, le compete:
+
+I.- Participar en la aplicación de la política y de los programas en materia de transporte;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+II.- Coadyuvar con el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas en la formulación del proyecto del Programa Estatal de Transporte;
+
+III.- Proporcionar la información o la cooperación técnica que le sea requerida internamente o por otras dependencias, de acuerdo con las políticas establecidas al respecto;
+
+IV.- Coordinarse con los titulares de las demás direcciones generales para el mejor despacho de los asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2001)</small>
+
+V. Controlar los servicios del transporte público de jurisdicción municipal, intermunicipal y Estatal, y proponer las modalidades que se estimen convenientes con la participación de los ayuntamientos involucrados.
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2001)</small>
+
+VI. Revisar con acuerdo del Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas, rutas, itinerarios, horarios, terminales, paraderos, o tablas de distancia y formular los trabajos técnicos correspondientes atendiendo las recomendaciones de los Consejos Estatal y Municipales cuando sea el caso.
+
+VII.- Someter a revisión periódica las condiciones físicas y mecánicas de los vehículos dedicados a la prestación del servicio de transporte público;
+
+VIII.- Fijar y aprobar las especificaciones de las unidades destinadas al transporte público y, previa consulta y opinión de la Junta Estatal de Caminos, otorgar los certificados y autorizaciones especiales o provisionales que sean necesarios;
+
+IX.- Exigir a los concesionarios o permisionarios de transporte público, la constitución de los fondos de garantía o la contratación del seguro que cubra la responsabilidad objetiva en que pudiera incurrir el transportista;
+
+X.- Aprobar los formatos relativos a los boletos, recibos, porte o factura que con motivo de la prestación de los servicios del transporte público, expidan los concesionarios a los usuarios;
+
+XI.- Vigilar el cumplimiento de las disposiciones legales establecidas en materia de medicina preventiva en el transporte;
+
+XII.- Establecer y desarrollar los programas de capacitación para el personal que intervenga en la operación del transporte público;
+
+XIII.- Atender y resolver los asuntos relacionados con la protección a los viajeros y sus pertenencias, así como de los riesgos y daños que pudieran sufrir con motivo de su traslado en los distintos medios de transporte;
+
+XIV.- Atender y resolver las quejas y reclamaciones presentadas por los usuarios en contra de los prestadores del servicio de transporte público;
+
+XV.- Llevar el registro de los operadores y unidades del servicio de transporte público y verificar que los mismos cumplan con los requisitos establecidos por la presente ley; y
+
+XVI.- Imponer las sanciones que le competan de conformidad con la presente ley.
+
+## TITULO TERCERO. DE LOS SISTEMAS DE TRANSPORTE PUBLICO
+
+### CAPITULO UNICO
+
+###### ARTICULO 13.
+
+Para efectos de la presente ley, el servicio de transporte público se ordenará bajo los siguientes sistemas:
+
+I.- Urbano.- Servicio sujeto a rutas regulares de circulación con paradas, terminales, horarios y frecuencias fijos y tarifas autorizadas, con las modalidades siguientes:
+
+a) Servicio colectivo.- Es el que se presta con vehículos de una capacidad de diez hasta cuarenta asientos, pudiendo admitir en estos últimos, únicamente hasta quince pasajeros adicionales al número de asientos con que cuente la unidad;
+
+b) Servicio de alquiler en sitio.- Se presta a través de vehículos con capacidad hasta de cinco pasajeros incluido el operador, a tarifas autorizadas según distancia de recorrido, obligados a iniciar su servicio a través de su base sin que puedan aceptar pasaje distinto al que solicitó el servicio; y
+
+c) Servicio de ruleteo.- Se presta a través de vehículos con capacidad hasta de cinco pasajeros incluido el operador, a tarifas autorizadas según distancia, sin aceptar pasaje distinto hasta el término del recorrido convenido.
+
+II.- Interurbano.- Servicio sujeto a rutas regulares de circulación dentro de dos o más poblaciones o zonas conurbadas, con paradas, terminales y horarios fijos, pudiendo ser servicio de primera o de segunda clase, según la clasificación señalada en la fracción III de este artículo.
+
+III.- Foráneo.- Servicio sujeto a rutas regulares de circulación por vías de jurisdicción Estatal de una población a otra, con paradas, terminales y horarios fijos, pudiendo ser:
+
+a).- Servicio de primera clase.- El que se presta con vehículos de una capacidad de hasta cuarenta asientos, quedando prohibido admitir mayor número de pasajeros que los correspondientes al número de asientos con que cuenta la unidad, contando la misma con asientos acojinados y reclinables, servicio sanitario y aire acondicionado, cubriendo rutas de central a central sin hacer paradas intermedias;
+
+b).- Servicio de segunda clase.- El que se presta con vehículos de una capacidad de hasta cuarenta y dos asientos pudiendo admitir hasta quince pasajeros adicionales en la unidad, permitiéndose paradas intermedias que queden fuera de las zonas urbanas y suburbanas de la población de origen; y
+
+c).- Servicio de ruta colectivo tipo combi o pesero.- Es el que se presta en vehículo cerrado con capacidad de ocho a diez usuarios, en condiciones óptimas de seguridad, comodidad e higiene, con ruta fija y tarifa aprobada.
+
+IV.- Rural.- Es aquél que se presta fuera de la circunscripción urbana y suburbana, pero dentro del territorio estatal, entre una comunidad y otra o a la vía de entronque por donde circulen servicios urbanos, suburbanos o foráneos, quedando prohibido invadir otras rutas ya concesionadas.
+
+V.- De servicios especiales.- Es aquél que se presta a tarifa autorizada y mediante contrato entre el concesionario y el usuario, para cubrir una necesidad eventual o permanente de desplazamiento de pasaje, pudiendo ser:
+
+a).- Servicio de turismo.- Se presta a pasajeros cuya finalidad exclusiva o fundamental sea el esparcimiento o el conocimiento de lugares de interés que existan en la entidad y se suministrará en vehículos con características similares a los utilizados en el sistema colectivo para viajes menores de doscientos kilómetros y del sistema foráneo de primera clase para cualquier distancia, respetando en ambos casos la capacidad de pasaje según el número de asientos;
+
+b).- Servicio de transporte escolar.- Se presta a estudiantes y maestros, consistiendo en el traslado de su domicilio o lugares predeterminados a la escuela y su retorno al lugar de origen, realizándose en vehículos de diez hasta cuarenta y dos asientos para un número igual de pasajeros, con ventanas protegidas y con puertas de ascenso y descenso; y
+
+c).- Servicio de transporte de trabajadores.- Se presta a empleados de una empresa o institución, consistiendo en el traslado de su domicilio o lugares predeterminados, al centro de trabajo y su retorno al lugar de origen, realizándose en vehículos de diez hasta cuarenta y dos pasajeros.
+
+VI.- Servicio de carga.- Se da en vehículos acondicionados para ello, en vías de jurisdicción estatal e interurbana a tarifa autorizada bajo las siguientes modalidades:
+
+a).- Muebles y mudanzas, en vehículos con capacidad de setecientos cincuenta kilogramos en adelante para trasladar enseres domésticos, industriales o de oficina;
+
+b).- Transporte de materiales para construcción, en vehículos con capacidad de setecientos cincuenta kilogramos en adelante;
+
+c).- Transporte de grúa en vehículos acondicionados con elevador y plataforma de carga o equipados con mecanismo de remolque; y
+
+d).- Transporte especial en vehículos acondicionados para traslados de materiales que requieran un manejo especial por sus condiciones físicas y químicas.
+
+###### ARTICULO 14.
+
+El servicio de transporte mixto de carga y pasaje en camionetas será autorizado únicamente para los caminos donde no haya cualquiera de los servicios a que se refieren las fracciones I, II, III y IV del Artículo 13 de esta ley.
+
+###### ARTICULO 15.
+
+Los propietarios y conductores de vehículos particulares, no podrán prestar servicio a terceros a título oneroso.
+
+## TITULO CUARTO. DE LAS CONCESIONES Y PERMISOS
+
+### CAPITULO PRIMERO. De la asignación de concesiones y permisos
+
+###### ARTICULO 16.
+
+Para efectos de la presente ley se entenderá por concesión el acto administrativo discrecional, unilateral y exclusivo del titular del Poder Ejecutivo, para otorgar, mediante concurso, a personas físicas o morales la prestación del servicio público de transporte.
+
+Las concesiones para los servicios especiales de transporte y servicio de carga a que se refieren las fracciones V y VI del Artículo 13 de esta ley, podrán ser otorgadas directamente por el titular del Ejecutivo del Estado sin someterse a concurso, siempre y cuando se cumplan los requisitos que marca esta ley.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 17.
+
+El número de concesiones será determinado por el Titular del Poder Ejecutivo del Estado, de acuerdo a las necesidades de los usuarios, en congruencia con el desarrollo social y económico de la Entidad, previo estudio que formulen las dependencias y los organismo auxiliares competentes, con la opinión de los Consejos Estatal y Municipales que corresponda.
+
+(REFORMADO, P.O. 26 DE MAYO DE 1998) (F. DE E., P.O. 24 DE MARZO DE 1999)
+
+###### ARTICULO 18.
+
+Las concesiones tendrán una vigencia indefinida, pero deberán ser refrendadas anualmente por la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas a través de la Dirección General de Comunicaciones y Transportes. La inobservancia de esta disposición será motivo de suspensión.
+
+###### ARTICULO 19.
+
+Las concesiones y permisos para explotar los servicios públicos de transporte son personalísimas e intransferibles, salvo en caso de fallecimiento o incapacidad permanente total o parcial del concesionario, en que la concesión será otorgada al beneficiario que el propio concesionario señale, sin sujetarse al procedimiento de concurso señalado por esta ley, siempre y cuando el beneficiario cumpla con los requisitos exigidos por la misma. Tratándose de procedimiento legal, la concesión será otorgada a quien determine la autoridad judicial.
+
+El beneficiario deberá hacer uso de este derecho dentro de los treinta días siguientes al fallecimiento, o fecha de expedición del certificado de incapacidad o determinación de la autoridad y cumplir con los requisitos exigidos para el otorgamiento de la concesión, excepto cuando se trate de resolución judicial.
+
+###### ARTICULO 20.
+
+Las concesiones y permisos únicamente se otorgarán a personas de nacionalidad mexicana, físicas o morales, según el servicio de que se trate, creadas o constituidas conforme a las leyes del país.
+
+Las concesiones y permisos para la prestación del servicio público de transporte a que se refiere el Artículo 13, fracciones I, inciso a), II y III, incisos a) y b), de la presente ley, únicamente se otorgarán a personas morales.
+
+Tratándose de las fracciones V y VI del Artículo 13 de esta ley, las concesiones se podrán otorgar a personas físicas o morales.
+
+Las concesiones y permisos para la prestación de los demás sistemas y modalidades de servicio de transporte público que señala esta ley, sólo se otorgarán a personas físicas.
+
+###### ARTICULO 21.
+
+Tratándose de concesiones o permisos susceptibles de ser otorgados a personas físicas, solamente se podrá otorgar una por titular.
+
+Tratándose de personas morales, se podrán otorgar en su caso una o más concesiones de ruta o sistemas integrales de rutas, debiendo especificarse en dichas concesiones, el número de unidades con las que contará en congruencia con las necesidades del servicio. Estas concesiones se otorgarán a nombre de la empresa respectiva, por lo que las mismas serán indivisibles entre sus socios.
+
+La concesión de ruta no implicará la exclusividad de la persona moral sobre la misma, de manera que podrá otorgarse concesión de una misma ruta a dos o más empresas.
+
+###### ARTICULO 22.
+
+Las sociedades para la prestación del servicio público de transporte, deberán tener su domicilio social en el Estado y acreditar representante autorizado para responder de cualquier asunto que se relacione con esta ley.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
+Cualquier modificación al Acta Constitutiva de tales sociedades deberá ser notificada oportunamente a la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas.
+
+###### ARTICULO 23.
+
+Para obtener una concesión del servicio público del transporte se requiere:
+
+I.- Participar en el concurso que para tal efecto se convoque, conforme a las bases que se señalen en la convocatoria respectiva;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+II.- Presentar al titular del Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas del Estado, la solicitud debidamente requisitada dentro del plazo que se señale en la convocatoria;
+
+III.- Tratándose de personas morales, acreditar la existencia legal de la sociedad y las facultades con que cuenten sus representantes ;
+
+IV.- Demostrar capacidad de inversión para la compra, arrendamiento o financiamiento de unidades, instalaciones e infraestructura que se requieran para la prestación del servicio;
+
+V.- Demostrar capacidad administrativa y técnica para atender satisfactoriamente la prestación del servicio de que se trate;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+VI.- Tratándose de personas físicas, someterse al estudio socioeconómico que al efecto practique la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas; y
+
+VII.- Cuando se trate de personas que con anterioridad hayan prestado el servicio público de transporte, deberán comprobar que lo prestaron con eficiencia y que no incurrieron en violaciones graves a la ley.
+
+###### ARTICULO 24.
+
+En relación al servicio público de transporte interurbano, cuando se trate de solicitud de ampliación de ruta o rutas de las ya concesionadas, los interesados deberán acompañar a la solicitud estudios técnicos sobre los siguientes puntos:
+
+I.- Distancia entre la vía que se proyecte y las ya establecidas;
+
+II.- El impacto de la ampliación de la ruta en el desarrollo del área de que se trate; y
+
+III.- Aforo en el área de influencia del proyecto de ampliación.
+
+Tratándose de ampliación de ruta o rutas, los interesados, deberán cumplir con los requisitos que establecen los artículos 22 y 23 y en igualdad de circunstancias tendrán prioridad los titulares de las mismas.
+
+###### ARTICULO 25.
+
+Para facilitar el desplazamiento de las personas con discapacidad, se adoptarán en el transporte público colectivo las medidas de adecuación necesarias, tales como rampas o mecanismos especiales para permitir la entrada y salida de las mismas.
+
+El Ejecutivo del Estado, al otorgar las concesiones para la prestación del servicio público de transporte colectivo, observará que en cada ruta, por lo menos un diez por ciento de las unidades correspondientes a la misma, reúnan las especificaciones señaladas en el párrafo anterior.
+
+###### ARTICULO 26.
+
+En la concesión o permiso se indicará el nombre del titular, la clase de servicio para el que se otorga, la ruta para la que se expide y la descripción del vehículo o vehículos con que deba prestarse.
+
+###### ARTICULO 27.
+
+Las unidades de transporte que se utilicen para el servicio colectivo de pasajeros o de automóviles de alquiler serán de modelo no anterior a diez años, de fabricación nacional o internados legalmente al país y deberán cumplir los requisitos que establecen las normas ecológicas y las de tránsito.
+
+### CAPITULO SEGUNDO. Del procedimiento de concurso
+
+###### ARTICULO 28.
+
+El otorgamiento de concesiones en los casos que estipula esta ley, se realizará atendiendo los estudios técnicos que al efecto se elaboren y convocando a un concurso, que deberá celebrarse conforme a las siguientes bases:
+
+I.- Se convocará mediante una publicación en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación de la localidad de que se trate o en su defecto de la capital del Estado; dicha publicación se hará con treinta días de anticipación a la fecha fijada para la celebración del concurso;
+
+II.- La convocatoria deberá contener:
+
+a).- El sistema o modalidad del servicio público de que se trate y los términos y condiciones en que se otorgará la concesión;
+
+b).- Los requisitos para obtener la concesión y la forma de cumplimentarlos;
+
+c).- Plazo para la presentación de propuestas y entrega de documentos;
+
+d).- En su caso, señalará el requisito de instalación de terminales, bodegas, estaciones intermedias, talleres u otros similares relativos a la calidad en la prestación del servicio;
+
+e).- Características técnicas que debe tener el equipo para cubrir el servicio que se concursa; y
+
+f).- Garantías que se deban cubrir.
+
+III.- Treinta días después de celebrado el concurso se emitirá el fallo, que deberá ser publicado en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación de la Entidad o la localidad de que se trate.
+
+###### ARTICULO 29.
+
+Las concesiones se otorgarán a los concursantes que garanticen la prestación del servicio en las mejores condiciones, atendiendo en su orden a los siguientes criterios:
+
+I.- Tratándose de personas morales, se otorgará a la empresa que compruebe que realizará una mayor y mejor inversión para prestar en condiciones óptimas el servicio concursado, comprendiendo en ello, la capacitación del personal, la calidad de las unidades, los servicios y obras accesorias; y
+
+II.- Tratándose de personas físicas, se preferirá en su orden:
+
+a).- A quienes de acuerdo con los resultados del estudio socioeconómico que para el efecto se realice, justifiquen la solvencia para el desempeño del servicio;
+
+b).- A quienes tengan mayor antigüedad como operadores en el servicio de transporte público de que se trate; y
+
+c).- A quienes tengan mayor antigüedad como solicitantes.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 1997)</small>
+
+En ningún caso se otorgarán concesiones a quienes habiéndolas tenido se les hayan cancelado o las hayan enajenado bajo cualquier figura jurídica.
+
+###### ARTICULO 30.
+
+La publicación de la convocatoria surtirá efectos de notificación para quienes pudieran resultar afectados.
+
+En su caso, la impugnación que se haga de la convocatoria, deberá ser presentada ante la autoridad que la emitió, dentro de los quince días siguientes a la publicación de la misma.
+
+Transcurrido el plazo mencionado sin que se hayan presentado impugnaciones, la convocatoria tendrá el carácter de definitiva y continuará el procedimiento señalado en la misma, hasta la emisión del fallo respectivo.
+
+En caso de presentarse impugnación, se citará al quejoso a una audiencia dentro de los cinco días hábiles siguientes a la recepción de la misma, la cual se celebrará en el lugar que se notifique y en ella se expondrán las razones que motiven la impugnación y se presentarán las pruebas conducentes, debiendo la autoridad desahogarlas dentro de los cinco días hábiles siguientes a dicha audiencia y resolver dentro del término de tres días hábiles siguientes.
+
+En la tramitación de la impugnación sólo se admitirán las pruebas documental y pericial.
+
+### CAPITULO TERCERO. De la expedición de Permisos
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 1998)</small>
+
+###### ARTICULO 31.
+
+.- El titular del Ejecutivo del Estado, por sí o a través de la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, podrá expedir permisos provisionales para la prestación del servicio público de transporte únicamente en los siguientes casos:
+
+I.- Para la prestación temporal de un servicio especial;
+
+II.- Por la sustitución temporal de vehículos en cualquier clase de servicios;
+
+III.- Por extrema urgencia; y
+
+IV.- Con el objeto de comprobar la necesidad de aumentar el servicio o cambiar algún itinerario, en cualquier clase de servicio.
+
+Los permisos tendrán una duración de hasta treinta días y podrán ser renovables por una sola vez, hasta por un término similar.
+
+Si los permisionarios incurren en alguna de las causales que señala el artículo 32 de está ley, les será revocado el permiso, previa audiencia sin sujetarse al procedimiento que para el caso señala la presente ley.
+
+Los permisos provisionales expedidos fuera de los casos establecidos serán nulos, lo mismo se observará cuando se expidan por una autoridad no facultada para ello o cuando estando facultada, los expida sin cumplir con los requisitos exigidos por esta ley.
+
+### CAPITULO CUARTO. De las causas de cancelación y nulidad de concesiones
+
+###### ARTICULO 32.
+
+El titular del Ejecutivo del Estado tendrá facultad para cancelar en cualquier momento las concesiones, por las siguientes causas:
+
+I.- Por realizar un servicio distinto al expresamente concesionado;
+
+II.- Por prestar el servicio en forma notoriamente deficiente;
+
+III.- Por no prestar el servicio en forma habitual sin causa justificada, ni autorización previa;
+
+IV.- Por carecer los vehículos de los requisitos de seguridad señalados en la presente ley;
+
+V.- Tratándose de personas físicas por ser titular de más concesiones a la autorizada para la prestación del servicio público de transporte;
+
+VI.- Por rentar o enajenar la concesión o permiso;
+
+VII.- Por usar duplicidad de documentos para prestar el servicio concesionado;
+
+VIII.- Por prestar el servicio fuera de la ruta que exprese la concesión;
+
+IX.- Por suspensión del servicio sin causa justificada, ni autorización previa;
+
+X.- Por violación de las tarifas autorizadas;
+
+XI.- Por la comisión dolosa de parte del concesionario de algún hecho delictuoso con motivo del servicio que presta, mediando sentencia definitiva;
+
+XII.- Por no garantizar a usuarios y a terceros los daños que se puedan causar con motivo del ejercicio del servicio;
+
+XIII.- Por transferir de cualquier forma las placas y tarjeta de circulación;
+
+XIV.- Por no respetar los itinerarios establecidos por la autoridad competente para la ruta concesionada;
+
+XV.- Por implantar o utilizar relojes checadores o cualquier otro sistema tendiente a obligar a los operadores, a cubrir la ruta concesionada en un lapso que contravenga lo establecido por la autoridad de la materia;
+
+XVI.- Por transportar sin autorización materiales que requieran permisos especiales;
+
+XVII.- Tratándose de personas morales, por no prestar a sus operadores la capacitación a que se refiere la presente ley;
+
+XVIII.- Por comprobarse que se presentaron documentos falsos para obtener la concesión; y
+
+XIX.- Cuando el Ejecutivo del Estado en virtud del interés público, decida volver a prestar el servicio por sí mismo.
+
+###### ARTICULO 33.
+
+Serán nulas las concesiones que se otorguen fuera del procedimiento de concurso y sin cumplir con los requisitos que señala esta ley, excepto el caso previsto en el segundo párrafo del Artículo 16.
+
+### CAPITULO QUINTO. De los procedimientos de cancelación
+
+y nulidad de concesiones
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 1998)</small>
+
+###### ARTICULO 34.
+
+A petición de parte interesada o cuando a juicio del titular del Ejecutivo del Estado, existan elementos que hagan presumible la existencia de una causa para cancelar o declarar la nulidad de la concesión, se instaurará el procedimiento respectivo ante la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, quien lo tramitará por sí o a través de la Dirección General de Comunicaciones y Transportes, emplazando al titular de la concesión o permiso, a fin de que en un término de cinco días hábiles contados a partir del día siguiente al en que surta efectos la notificación, comparezca ante la autoridad del conocimiento a expresar mediante escrito lo que a su derecho convenga ofreciendo en el mismo acto las pruebas que considere procedentes.
+
+En la tramitación de este procedimiento serán admisibles todas las pruebas excepto la confesional y las que atenten contra la moral y el derecho.
+
+En caso de que el titular de la concesión no comparezca en el término concedido, a pesar de haber sido legalmente emplazado, se considerarán tácitamente aceptados por él, los hechos que dieron origen a la radicación del procedimiento respectivo y se turnará el expediente al titular del Ejecutivo Estatal para que emita la resolución correspondiente dentro de los diez días hábiles siguientes al en que reciba el mismo.
+
+Cuando el titular de la concesión comparezca dentro del procedimiento respectivo, la autoridad del conocimiento realizará la calificación de las pruebas que en su caso ofrezca y fijará un término que no podrá ser mayor de diez días hábiles para el desahogo de aquéllas que hayan sido admitidas.
+
+Concluida la fase de desahogo de pruebas o cuando éstas no hayan sido ofrecidas por el compareciente, se citará a una audiencia de alegatos en la cual se oirá al concesionario, debiéndose asentar en el expediente un extracto de sus alegatos. La audiencia deberá celebrarse dentro de los cinco días siguientes a la conclusión de la fase probatoria.
+
+###### ARTICULO 35.
+
+Agotadas las fases anteriores, se turnará el expediente al titular del Ejecutivo del Estado, quien con base en las constancias que obren en el mismo resolverá en definitiva dentro de un término de diez días hábiles contados a partir de aquél en que se reciba el expediente. La resolución que emita será irrecurrible en los términos de la presente ley.
+
+### CAPITULO SEXTO. De los derechos y obligaciones de los
+
+concesionarios y permisionarios
+
+###### ARTICULO 36.
+
+Constituyen derechos de los concesionarios y permisionarios los siguientes:
+
+I.- Explotar el servicio público de transporte en la forma y términos que establece esta ley;
+
+II.- Cobrar a los usuarios las cantidades correspondientes a las tarifas autorizadas; y
+
+III.- Proponer programas y acciones a las autoridades del transporte para el mejoramiento de este servicio público.
+
+###### ARTICULO 37.
+
+Los concesionarios y permisionarios deberán cumplir con las disposiciones relativas a la revisión de las unidades o vehículos con que presten el servicio público en los términos que señale esta ley.
+
+###### ARTICULO 38.
+
+Los concesionarios y permisionarios deberán llevar a cabo la reposición de los vehículos con que presten el servicio en los siguientes casos:
+
+I.- Cuando el modelo no corresponda a lo establecido por esta ley, atendiendo las diferentes clases o modalidades de servicio; y
+
+II.- Cuando por las condiciones físicas, mecánicas o de operación de los vehículos destinados al servicio público de transporte en cualquiera de sus modalidades, no puedan prestar el mismo en forma eficiente y segura.
+
+En este caso se requerirá del dictamen pericial expedido por un técnico designado por la autoridad competente.
+
+Si del dictamen se desprende que mediante reparaciones pueden ser subsanadas las deficiencias presentadas por los vehículos, se otorgará un plazo no mayor de cuarenta y cinco días al concesionario o permisionario para que proceda a su reparación. Posteriormente la unidad será revisada por el personal técnico que designe la autoridad competente, a fin de que emita nuevo dictamen y en el caso de que éste sea favorable, se expida la autorización correspondiente para que nuevamente entre la unidad en circulación. En caso contrario ésta será retirada del servicio en forma definitiva y se dará un término improrrogable de noventa días para que el concesionario o permisionario la substituya atendiendo los requisitos previstos en esta ley. Si ésto no es acatado se cancelará la concesión.
+
+###### ARTICULO 39.
+
+Las personas morales concesionarias deberán rendir a la Dirección General de Comunicaciones y Transportes del Gobierno del Estado un informe semestral sobre los elementos materiales, humanos y de operación de que dispongan para la prestación del servicio, así como los datos estadísticos que reflejen la demanda y oferta del mismo.
+
+###### ARTICULO 40.
+
+Los titulares de las concesiones y permisos están obligados a vigilar que sus operadores del servicio público de transporte cumplan con los requisitos establecidos en esta ley, así como a mantener sus unidades en las condiciones de servicio y operación señaladas en la misma y usar en éstas los colores que se establezcan en cada caso.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1997)</small>
+
+La publicidad de productos comerciales y la fijación de cualquier clase de propaganda en los vehículos con los cuales se preste el servicio público de transporte, deberá ser sometida en todo caso a la sanción y aprobación de la Dirección General de Comunicaciones y Transportes, la cual por ningún motivo, autorizará publicidad o propaganda que lesionen la moral o las buenas costumbres. La Dirección General de Comunicaciones y Transportes señalará los espacios que forzosamente deberán ser destinados a la identificación de la unidad y a los mensajes de carácter social.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1997)</small>
+
+Lo dispuesto en el párrafo precedente no exime a los concesionarios o permisionarios de la obligación de cumplir con las exigencias que al respecto establezcan otros ordenamientos.
+
+###### ARTICULO 41.
+
+Los concesionarios y permisionarios están obligados a asegurar la vida e integridad física de los pasajeros, así como las pertenencias que transporten, mediante pólizas contratadas con compañías aseguradoras legalmente autorizadas. En la misma forma deberán asegurar los daños personales y patrimoniales a terceros.
+
+> <small>(REFORMADO P.O. 26 DE MAYO DE 1998)</small>
+
+Los montos de las garantías serán determinados por la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas.
+
+###### ARTICULO 42.
+
+Los concesionarios y permisionarios deberán hacer entrega a los usuarios, del boleto, recibo, porte o factura, que ampare el importe del servicio contratado e incluya el seguro correspondiente.
+
+###### ARTICULO 43.
+
+Los concesionarios y permisionarios deberán colocar en lugar visible y en tamaño apropiado, en las terminales, así como en el interior y en el exterior de las unidades, letreros con los números telefónicos de la autoridad en materia de transporte del Gobierno del Estado, donde el usuario pueda exponer sus quejas respecto al servicio; asimismo, deberán incluirse los números telefónicos de los servicios de emergencia más importantes.
+
+###### ARTICULO 44.
+
+Los concesionarios y permisionarios deberán registrar, ante la Dirección General de Comunicaciones y Transportes, todo vehículo de motor destinado a la prestación del servicio público de transporte en el Estado, satisfaciendo los siguientes requisitos:
+
+I.- Formular solicitud de alta del vehículo, proporcionando los datos que le sean requeridos por la Dirección General de Comunicaciones y Transportes;
+
+II.- Presentar los documentos que acrediten la propiedad o tenencia legal del vehículo;
+
+III.- Aprobar la revisión, por parte del personal de inspección designado al efecto, de los sistemas eléctrico y mecánico del vehículo o vehículos con que presten el servicio; y
+
+IV.- Obtener el juego de placas y tarjeta de circulación correspondiente y pagar los derechos relativos al otorgamiento del permiso o concesión.
+
+###### ARTICULO 45.
+
+Los concesionarios y permisionarios deberán vigilar que sus vehículos de transporte público porten siempre sus placas, en el área adecuada del propio vehículo y la tarjeta de circulación, debiendo notificar inmediatamente cualquier extravío a la dependencia correspondiente, con el objeto de que se tramite de inmediato la reposición.
+
+###### ARTICULO 46.
+
+Las personas morales que presten el servicio público de transporte colectivo, están obligadas a proporcionar capacitación y adiestramiento en forma gratuita a los conductores.
+
+###### ARTICULO 47.
+
+Los concesionarios y permisionarios están obligados a conservar y mantener en buenas condiciones mecánicas, de higiene, de seguridad y de funcionamiento el vehículo o vehículos con que presten el servicio, realizando el mantenimiento que sea necesario para ello, debiendo presentarlos para su revisión ante la Dirección General de Comunicaciones y Transportes en las fechas que la misma determine.
+
+Asimismo, deberán de proveer en forma gratuita como mínimo dos uniformes cada seis meses a los choferes de los vehículos con los que se preste el servicio y dispondrán de un extinguidor en cada unidad, previendo que siempre esté en condiciones de usarse, así como de un botiquín que contenga los medicamentos y materiales de curación indispensables para prestar los primeros auxilios.
+
+###### ARTICULO 48.
+
+Los concesionarios y permisionarios deberán observar que los vehículos de servicio público de transporte sean abastecidos de combustible sin pasaje a bordo y en horarios fuera de servicio.
+
+###### ARTICULO 49.
+
+Los concesionarios y permisionarios están obligados a vigilar que las unidades con que presten el servicio público de transporte, circulen por las vías que integran las rutas autorizadas, las que una vez iniciadas deberán concluirse íntegramente, ya que por ningún motivo podrá interrumpirse el servicio, salvo caso fortuito o fuerza mayor, debidamente justificados.
+
+###### ARTICULO 50.
+
+Los concesionarios y permisionarios deben respetar las tarifas generales y especiales que autoricen las autoridades competentes para la prestación del servicio público de transporte en sus diversas modalidades.
+
+###### ARTICULO 51.
+
+Los concesionarios y permisionarios están obligados a prestar los servicios de emergencia, cuando así lo determine el titular del Ejecutivo del Estado, en los casos a que se refiere el Artículo 5o. de esta ley.
+
+### CAPITULO SÉPTIMO. De los itinerarios y tarifas
+
+###### ARTICULO 52.
+
+Para los efectos de esta ley se entiende por:
+
+I.- Itinerario: El recorrido que debe hacer un vehículo en las vías públicas del Estado, con paradas entre los puntos extremos e intermedios que determine la concesión.
+
+II.- Tarifa: La cuota autorizada a cargo del usuario, por el uso del servicio público de transporte y que podrá ser:
+
+a) Genérica.- La que tiene aplicación indistinta para todos los usuarios del servicio público del transporte; y
+
+b) Especial.- Para los usuarios que por sus condiciones particulares son sujetos de un tratamiento especial, tal es el caso de niños, estudiantes, senectos, jubilados y personas con discapacidad, a los que deberá hacerse, durante todos los días del año un cincuenta por ciento de descuento en la tarifa genérica autorizada para el servicio de transporte colectivo.
+
+III.- Horario: El señalamiento de la hora de inicio de la prestación del servicio y conclusión del mismo.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 53.
+
+Las tarifas serán determinadas por el Titular del Ejecutivo del Estado, escuchando las recomendaciones del Consejo Estatal de Transporte y la del Ayuntamiento del Municipio que corresponda según sea el caso, de acuerdo a la clase de servicio, rutas e itinerarios del transporte público en sus diversas modalidades, atendiendo a la necesidad y rentabilidad del servicio, al interés público y a la capacidad de pago de los usuarios.
+
+Las tarifas podrán ser modificadas cuando varíen las condiciones y circunstancias que dieron origen a las anteriores, de conformidad con los estudios que se realicen y atendiendo las recomendaciones del Consejo Estatal y de los ayuntamientos de los municipios en que vayan a aplicarse.
+
+Tratándose de las tarifas de transporte urbano, el incremento podrá ser anual y se tomarán como base para su determinación el Indice Nacional de Precios al Consumidor y el porcentaje anual de incremento al salario mínimo de la zona de que se trate, sin que éste exceda en ningún caso el término medio aritmético que resulte de la suma de ambos índices.
+
+## TITULO QUINTO. DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS Y OPERADORES
+
+### CAPITULO PRIMERO. De los derechos y obligaciones de los usuarios
+
+###### ARTICULO 54.
+
+Es obligación ciudadana auxiliar a menores de edad, personas con discapacidad, senectos y mujeres embarazadas dándoles preferencia en la ocupación de los asientos y áreas especiales del transporte público.
+
+###### ARTICULO 55.
+
+Los usuarios del transporte público deberán pagar las tarifas autorizadas.
+
+###### ARTICULO 56.
+
+Los usuarios del transporte público tendrán derecho a ser transportados en forma segura y digna desde el lugar de ascenso hasta el sitio de su destino de acuerdo a las rutas del servicio público y lugares preestablecidos para el descenso de pasaje; tratándose de automóviles de sitio, taxis o de turismo, el servicio deberá de ser desde el lugar abordado hasta el lugar solicitado.
+
+Los usuarios del transporte público de carga tendrán derecho a que sus bienes sean transportados desde el lugar de su embarque hasta el sitio solicitado, bajo la responsabilidad del concesionario o permisionario que preste el servicio.
+
+###### ARTICULO 57.
+
+Por ningún motivo se transportarán pasajeros en los estribos de ascenso y descenso de las unidades de transporte público colectivo.
+
+### CAPITULO SEGUNDO. De los operadores del transporte público y sus obligaciones
+
+###### ARTICULO 58.
+
+Para ser operador del servicio público de transporte se requiere:
+
+I.- Tener licencia vigente de chofer de transporte público;
+
+II.- No estar imposibilitado para el desempeño de la función de operador por resolución judicial; y
+
+III.- Aprobar los exámenes psicométrico y físico que practique la autoridad correspondiente, cada seis meses.
+
+###### ARTICULO 59.
+
+Son obligaciones de los conductores de vehículos del servicio público, las siguientes:
+
+I.- Portar la licencia que lo acredite como chofer para el servicio de transporte público y la identificación personal que para estos efectos expida la Dirección General de Comunicaciones y Transportes, que contendrá su nombre y fotografía reciente, la que deberá estar a la vista del público en las horas de servicio;
+
+II.- Participar en los cursos de capacitación que establece la presente ley;
+
+III.- Tratar con respeto y con dignidad a los usuarios y peatones;
+
+IV.- No ingerir bebidas alcohólicas, ni hacer uso de drogas, enervantes o cualquier substancia tóxica, ni estar bajo sus efectos durante el horario de servicio;
+
+V.- Acatar las disposiciones de tránsito;
+
+VI.- Permitir las verificaciones que realicen autoridades competentes, respecto de las unidades del servicio público del transporte;
+
+VII.- Respetar las rutas, itinerarios, horarios y tarifas autorizadas;
+
+VIII.- No transportar mayor número de personas que las que expresamente autoriza para cada servicio la presente ley; y
+
+IX.- Usar los uniformes que les proporcionen los concesionarios y permisionarios.
+
+###### ARTICULO 60.
+
+Los operadores del transporte público deberán conducir las unidades que se les confieran para ese objeto, con responsabilidad absoluta, observando todos los dispositivos y señalamientos de tránsito y vialidad, extremando las precauciones en cruceros, accesos a vías de preferencia, así como en zonas que indican la velocidad máxima, respetando y dando preferencia de paso a los peatones.
+
+###### ARTICULO 61.
+
+Los operadores del transporte público, en caso de provocaciones y agresiones de personas o grupos, que impidan la prestación del servicio público, deberán dar aviso de inmediato a las autoridades competentes.
+
+###### ARTICULO 62.
+
+Los operadores de vehículos del servicio público de transporte, tendrán obligación de esperar y no arrancar la unidad hasta que suban o bajen los usuarios y se encuentren dentro de la unidad o bien fuera de la misma y una vez cerradas las puertas.
+
+###### ARTICULO 63.
+
+Los operadores de vehículos destinados al transporte de carga, deberán verificar que en las unidades no se transporte mayor peso que el que corresponda a la capacidad y condiciones físicas y mecánicas de las mismas.
+
+###### ARTICULO 64.
+
+Queda prohibido a los operadores del transporte público producir con sus vehículos o instalar dentro de los mismos cualquier tipo de equipo que emita ruidos o sonidos que molesten u ofendan la dignidad de los usuarios.
+
+###### ARTICULO 65.
+
+Queda prohibido a los operadores de transporte público entorpecer la marcha de columnas militares, escolares, desfiles cívicos, cortejos fúnebres y en general toda marcha permitida, así como cruzar sus filas.
+
+(F. DE ERRATAS, P.O. 3 DE SEPTIEMBRE DE 1996)
+
+###### ARTICULO 66.
+
+El incumplimiento de las obligaciones a que se refiere este capítulo, será sancionado conforme a lo señalado en el artículo 84 de esta ley.
+
+## TITULO SEXTO. DE LA INSPECCION Y VIGILANCIA DEL TRANSPORTE PUBLICO
+
+### CAPITULO UNICO
+
+###### ARTICULO 67.
+
+Corresponde a la Dirección General de Comunicaciones y Transportes controlar y vigilar la prestación del servicio público de transporte de pasajeros y carga, así como realizar periódicamente la inspección técnica de los medios de transporte a que se refiere esta ley.
+
+###### ARTICULO 68.
+
+Los concesionarios, permisionarios y operadores, están obligados a proporcionar a los inspectores de la Dirección General de Comunicaciones y Transportes previo acreditamiento como tales, los informes y datos que sean necesarios para su cometido.
+
+###### ARTICULO 69.
+
+Los inspectores de transporte público para realizar la inspección del boletaje, cobro de tarifas, horarios, itinerarios, uso de uniformes, gafete de los operadores y estado físico de las unidades de transporte público, deberán portar identificación emitida por el funcionario competente de la Dirección General de Comunicaciones y Transportes.
+
+###### ARTICULO 70.
+
+Los inspectores en ejercicio de su responsabilidad, no podrán recoger documentos de ninguna clase a los operadores del servicio público de transporte de pasajeros o de carga.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MARZO DE 2001)</small>
+
+## TITULO SÉPTIMO. DE LOS CONSEJO ESTATAL Y MUNICIPAL
+
+### CAPITULO PRIMERO. De la Integración del Consejo Estatal de Transporte
+
+###### ARTICULO 71.
+
+El Consejo Estatal de Transporte es un órgano auxiliar del Poder Ejecutivo del Estado y tendrá a su cargo el estudio y discusión de los problemas de transporte público de la entidad y recomendar las acciones conducentes para su mejoramiento.
+
+###### ARTICULO 72.
+
+El Consejo Estatal de Transporte estará integrado de la siguiente manera:
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+I.- El Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas;
+
+II.- Por el Director General de Comunicaciones y Transportes;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2001)</small>
+
+III. Por un representante de cada uno de los ayuntamientos que se encuentren involucrados en el asunto a tratar;dos;
+
+IV.- Por un representante del sector industrial del Estado;
+
+V. Por un representante del sector comercial del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+VI.- Por un representante de cada uno de los Sindicatos y Federaciones que existan constituidos legalmente en la Entidad y que determine la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas;
+
+VII.- Por un representante de cada una de las organizaciones de concesionarios del transporte público en la entidad;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+VIII.- Por un representante de las instituciones de Educación Media, Media Superior y Superior, así como los representantes de las Asociaciones de Estudiantes de estas Instituciones que determine la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas; y
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 1998)</small>
+
+IX.- Por un representante de las Asociaciones de Profesionistas y de ciudadanos que determine la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
+###### ARTICULO 73.
+
+.- El Consejo será presidido por el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas. El Director de Comunicaciones y Transportes fungirá como Secretario.
+
+### CAPITULO SEGUNDO. De las atribuciones del Consejo
+
+###### ARTICULO 74.
+
+El Consejo Estatal de Transporte tendrá las siguientes atribuciones:
+
+I.- Analizar la problemática del servicio de transporte público en el Estado;
+
+II.- Proponer al Titular del Ejecutivo del Estado, programas y acciones de carácter técnico y financiero convenientes para mejorar la prestación del servicio de transporte público;
+
+III.- Llevar un registro de los principales indicadores y estadísticas en materia de servicio de transporte público;
+
+IV.- Opinar sobre la fijación de las tarifas del servicio de transporte público;
+
+V.- Establecer mecanismos de coordinación, comunicación e intercambio de información, con entidades públicas y privadas relacionadas con el servicio de transporte público; y
+
+VI.- Opinar sobre la elaboración del Programa Estatal de Transporte Público.
+
+###### ARTICULO 75.
+
+El Presidente del Consejo Estatal de Transporte tendrá las siguientes atribuciones:
+
+I.- Representar legalmente al Consejo;
+
+II.- Convocar a reunión a sus integrantes;
+
+III.- Proponer el orden del día de las sesiones; y
+
+IV.- Fungir como relator de los proyectos, solicitudes y demás asuntos que se presenten dentro del Consejo.
+
+###### ARTICULO 76.
+
+El Consejo sesionará en forma ordinaria cada seis meses y de manera extraordinaria cuando así lo convoque el Presidente del mismo o lo soliciten la mayoría de sus miembros.
+
+El quórum se integrará con la mitad más uno de los miembros del Consejo y los acuerdos se tomarán por unanimidad o mayoría. En caso de empate el presidente tendrá voto de calidad.
+
+El secretario levantará el acta que corresponda en cada sesión. Los cargos conferidos a los miembros del Consejo serán de carácter honorífico.
+
+###### ARTICULO 77.
+
+Para el desarrollo de las actividades y el cumplimiento de sus atribuciones, el Consejo Estatal de Transporte podrá recibir aportaciones del Gobierno del Estado, los ayuntamientos, instituciones, organizaciones y particulares en general.
+
+###### ARTICULO 78.
+
+El Consejo rendirá al Ejecutivo del Estado un informe semestral sobre el estado y situación del servicio público de transporte de personas, así como los informes parciales que se estimen necesarios.
+
+###### ARTICULO 79.
+
+Las resoluciones emitidas por el Consejo Estatal de Transporte tendrán carácter de recomendación y serán presentadas al titular del Ejecutivo para que resuelva lo conducente.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+1. En cada Municipio del Estado se integrará un Consejo Municipal de Transporte, como un órgano de consulta permanente que habrá de intervenir a través de su representante dentro del Consejo Estatal de Transporte, en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial, de conformidad con lo establecido en esta Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+2. Los Consejos Municipales de Transporte estarán integrados de la siguiente manera:
+
+I.- Un Presidente, que será el Presidente Municipal;
+
+II.- Un Coordinador, que será el Secretario del Ayuntamiento;
+
+III.- Un Secretario Técnico, que será el Delegado que asigne la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, y
+
+IV.- Los Vocales que sean necesarios y que serán los representantes de las dependencias y entidades de la administración pública municipal que determine el Presidente, cuyas áreas de competencia se relacionen con los objetivos del Consejo, por designación expresa del Presidente.
+
+Podrán formar parte del Consejo Municipal de Transporte, los representantes de organizaciones sociales involucradas en el transporte público, así como los representantes de instituciones educativas y demás miembros de la comunidad interesados en participar en las tareas del Consejo, a invitación expresa del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+3. Los Consejos Municipales de Transporte a través de su representante, se coordinarán con el Ejecutivo del Estado a través de la Secretaría y la Dirección General de Comunicaciones y Transportes, para resolver cualquier problema en esta materia en el Municipio.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+4. Los Consejos Municipales de Transporte tendrán las siguientes funciones:
+
+I.- Actuar como órgano de consulta en el ámbito municipal en materia de transporte;
+
+II.- Promover la integración y realización de nuevas rutas e itinerarios, en sus diversas modalidades y a la clase del servicio, relacionadas con el transporte público en sus jurisdicciones municipales;
+
+III.- Vincular las necesidades municipales en materia de transporte con el Ejecutivo del Estado;
+
+IV.- Analizar el transporte en el Municipio para determinar las bases y acciones de los posibles incrementos de tarifas, y proponerlos al Ejecutivo del Estado a través del Consejo Estatal, y
+
+V.- Las que le señalen el reglamento de esta Ley y las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+5. La operación de los Consejos Municipales de Transporte será determinada por cada Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+6. Compete al Consejo Municipal la identificación y elaboración de los estudios necesarios, tendientes a prevenir la operación del transporte de acuerdo a sus necesidades.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+7. El Consejo sesionará en forma ordinaria un mes antes de que sesione el Consejo Estatal, y de manera extraordinaria cuando así lo convoque el Presidente del mismo, o lo soliciten la mayoría de sus miembros.
+
+El quórum se integrará con la mitad más uno de los miembros del Consejo y los acuerdos se tomarán por mayoría de sus asistentes. En caso de empate el Presidente tendrá voto de calidad.
+
+El Secretario levantará el acta que corresponda en cada sesión; los cargos conferidos a los miembros del Consejo serán de carácter honorífico.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+8. El Ayuntamiento podrá presentar al Ejecutivo del Estado, un informe anual sobre el estado y situación que guarde el servicio público de transporte de personas en el Municipio, así como los informes que se estime necesarios.
+
+> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2001)</small>
+
+###### ARTICULO 79.
+
+9. La (sic) resoluciones emitidas por el Consejo Municipal de Transporte, tendrán carácter de recomendación y serán presentadas al Consejo Estatal del Transporte Público, para que resuelva lo conducente.
+
+###### ARTICULO 79.
+
+10. Los Consejos Estatal y Municipales de Transporte, tendrán a cargo el estudio y discusión de los problemas de transporte público de la Entidad, y podrán recomendar las acciones para su mejoramiento.
+
+## TITULO OCTAVO. DE LA CAPACITACION
+
+### CAPITULO UNICO
+
+###### ARTICULO 80.
+
+Los concesionarios y permisionarios están obligados a capacitar al personal que opere el servicio colectivo de transporte público, acorde a las disposiciones que impone la presente ley.
+
+###### ARTICULO 81.
+
+Los capacitadores del personal que opere el servicio colectivo de transporte público, deberán reunir el siguiente perfil profesional:
+
+I.- Contar con carrera profesional o técnica en cualquier especialidad vinculada al transporte y en relaciones humanas; y
+
+II.- Tener un mínimo de tres años de experiencia dentro del ramo.
+
+###### ARTICULO 82.
+
+La capacitación que se imparta deberá atender a las siguientes bases:
+
+I.- Los concesionarios están obligados a organizar la impartición de un curso por año en forma gratuita como mínimo para los operadores, de por lo menos cinco días, con veinticinco horas efectivas de clase;
+
+II.- Los temas que deberán impartirse y formar los programas de estudio serán preferentemente:
+
+a) Relaciones humanas;
+
+b) Calidad en el servicio al usuario;
+
+c) Ingeniería de transporte;
+
+d) Ingeniería de tránsito;
+
+e) Urbanismo; y
+
+f) Ordenamientos legales aplicables.
+
+III.- Al finalizar el curso, los capacitados deberán ser examinados para acreditar el nivel de rendimiento, desempeño y cumplimiento de los programas; y
+
+IV.- Los capacitados recibirán la constancia que acredite su evaluación.
+
+###### ARTICULO 83.
+
+Para coordinar la capacitación a que se refiere este capítulo, se crea el Programa Integral de Capacitación a cargo de la Dirección General de Comunicaciones y Transportes.
+
+La capacitación es obligatoria y comprenderá a los concesionarios, permisionarios y operadores del servicio de transporte público.
+
+El Programa Integral de Capacitación será permanente.
+
+## TITULO NOVENO. DE LAS SANCIONES
+
+### CAPITULO UNICO
+
+###### ARTICULO 84.
+
+Las autoridades en materia de transporte atendiendo a la gravedad de la falta calificada por las mismas, podrán imponer las siguientes sanciones a los concesionarios y permisionarios que incumplan lo previsto por la presente ley:
+
+I.- Apercibimiento por escrito;
+
+II.- Multa de diez a doscientos días de salario mínimo vigente en la Entidad;
+
+III.- Suspensión temporal hasta por noventa días de la prestación del servicio público de transporte de que se trate; y
+
+IV.- Cancelación de la concesión o permiso.
+
+Las sanciones a que se refieren las fracciones I y II de este artículo, serán impuestas por el Director General de Comunicaciones y Transportes, escuchando previamente al infractor.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
+En los casos en que proceda la sanción a que se refiere la fracción III de este artículo, será impuesta por la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas.
+
+Para la imposición de la sanción a que se contrae la fracción IV del presente artículo, se observará el procedimiento establecido por los artículos 34 y 35 de la presente ley, siendo impuesta la misma por el titular del Ejecutivo del Estado.
+
+Las citadas sanciones administrativas se impondrán sin perjuicio de la responsabilidad en que se pudiera haber incurrido por la comisión de un ilícito.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1997)</small>
+
+La infracción a lo dispuesto por el artículo 15 de esta ley, se sancionará con multa de doscientos días de salario mínimo vigente en la Entidad y se amonestará al infractor para que no reincida en dicha conducta; quedando facultada la Dirección General de Comunicaciones y Transportes para retirar de la circulación las unidades utilizadas al efecto, a fin de evitar que se continúe prestando indebidamente el servicio.
+
+## TITULO DECIMO. DE LOS RECURSOS
+
+### CAPITULO PRIMERO. Del recurso de Revocación
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 1998)</small>
+
+###### ARTICULO 85.
+
+Las resoluciones y acuerdos que en materia de transporte público emitan el Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas y el Director General de Comunicaciones y Transportes podrán ser combatidas a través del recurso de revocación que se interponga ante las propias autoridades dentro del término de tres días hábiles siguientes al que surta efecto su notificación.
+
+Las resoluciones y acuerdos que sobre la materia dicten el titular del Ejecutivo del Estado y el Secretario General de Gobierno, serán irrecurribles en los términos de la presente ley.
+
+En la tramitación del recurso de revocación serán admisibles todas las pruebas, excepto la confesional.
+
+Al interponer el recurso de revocación, deberá el inconforme formular los agravios correspondientes y ofrecer las pruebas que estime pertinentes, exhibiendo las documentales.
+
+Admitido el recurso, la autoridad fijará un término de diez días hábiles para el desahogo de las pruebas calificadas de procedentes y una vez concluido el mismo, pronunciará su resolución dentro de los cinco días hábiles siguientes.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
+Las resoluciones que emita la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas con motivo de la interposición del recurso de revocación, serán irrecurribles en los términos de la presente ley.
+
+### CAPITULO SEGUNDO. Del recurso de Revisión
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1998)</small>
+
+###### ARTICULO 86.
+
+El fallo que pronuncie la Dirección General de Comunicaciones y Transportes al resolver el recurso de revocación, podrá ser impugnado ante la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, mediante el recurso de revisión, dentro de los tres días hábiles siguientes al en que surta efecto su notificación.
+
+Al interponer el recurso, el inconforme deberá formular los agravios, que a su criterio, le cause la resolución combatida. Admitido el recurso, la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas podrá pedir los informes que considere pertinentes a la Dirección General de Comunicaciones y Transportes y en su caso, recibidos los mismos, citará al recurrente a una audiencia de alegatos que deberá celebrarse dentro de los tres días hábiles siguientes a la admisión del recurso.
+
+La Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas emitirá la resolución correspondiente dentro del término de cinco días hábiles siguientes a la celebración de la audiencia de alegatos. En contra de tal resolución no será procedente ningún recurso en términos de la presente ley.
+
+## TRANSITORIOS
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Transporte Público del Estado publicada en el Periódico Oficial con fecha tres de febrero de mil novecientos ochenta y cuatro, así como las demás disposiciones legales y reglamentarias que se opongan a esta ley.
+
+TERCERO.- El Consejo Estatal del Transporte iniciará sus funciones en un término no mayor de noventa días, contados a partir de la publicación de la presente ley en el Periódico Oficial del Estado.
+
+CUARTO.- Los concesionarios que actualmente utilicen unidades de transporte público de modelo anterior a diez años, contarán con un plazo de trescientos sesenta y cinco días naturales contados a partir de la entrada en vigor de la presente ley, para renovarlas por un modelo no menor de diez años. Después de este término, si continúan prestando el servicio con las unidades anteriores, éstas serán retiradas de la circulación.
+
+QUINTO.- Todos los procedimientos en materia de transporte público que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente ley, se resolverán conforme a lo dispuesto por lo anterior.
+
+Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
+
+DADO en el Salón de Sesiones del H. Congreso del Estado a los dieciséis días del mes de julio de mil novecientos noventa y seis.
+
+DIP. PRESIDENTE, JOSE ANTONIO HERRAN CABRERA.- DIP. SECRETARIO, EDUARDO MUÑIZ WERGE, DIP. SECRETARIO, RODOLFO LOERA ISAIS.- RÚBRICAS.
+
+POR TANTO, MANDO SE CUMPLA Y EJECUTE EL PRESENTE DECRETO Y QUE TODAS LAS AUTORIDADES LO HAGAN CUMPLIR Y GUARDAR Y AL EFECTO SE IMPRIMA, PUBLIQUE Y CIRCULE A QUIENES CORRESPONDA.
+
+DADO EN EL PALACIO DE GOBIERNO, SEDE DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, A LOS VEINTIOCHO DIAS DEL MES DE AGOSTO DE MIL NOVECIENTOS NOVENTA Y SEIS.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. HORACIO SANCHEZ UNZUETA.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+LIC. FERNANDO SILVA NIETO.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 30 DE DICIEMBRE DE 1985.
+P.O. 28 DE MAYO DE 1997.
 
-###### ARTÍCULO PRIMERO.
+PRIMERO.- El titular del Ejecutivo del Estado, atendiendo a las circunstancias específicas de cada caso y considerando la opinión del Director General de Comunicaciones y Transportes, podrá mediante resolución debidamente motivada, autorizar la transferencia o regularización de uno concesión o servicio público, cuando a su juicio resulte necesaria esa medida para la mayor eficacia y seguridad jurídica en la prestación de los mismos. En todos los casos deberá acreditarse que dicha concesión o servicio público estuvo operando antes del 30 de agosto de 1996.
 
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+En lo relativo a la transferencia o regularización de concesiones o servicios públicos, se deberá instaurar por la Dirección General de Comunicaciones y Transportes el procedimiento administrativo correspondiente, a fin de que el titular del Ejecutivo del Estado cuente con los elementos de convicción suficientes para emitir la resolución que en derecho proceda al respecto; serán aplicables en lo conducente las formalidades procesales establecidas en el artículo 34 de la Ley de Transporte Público del Estado.
 
-###### ARTÍCULO SEGUNDO.
+La solicitud para la regularización señalada en los párrafos anteriores, se recibirán en la Dirección General de Comunicación y Transporte únicamente durante los dos meses siguientes a la publicación del presente decreto en el Periódico Oficial del Estado.
 
-El Pleno del Supremo Tribunal de Justicia fijará oportunamente la fecha de instalación y funcionamiento de las Salas Colegiadas; determinará la adscripción de los magistrados que las integrarán observando al efecto lo dispuesto en el artículo 9o. fracción II, de esta Ley, y ordenará que los nombres de los componentes de cada Sala sean publicados en el Periódico Oficial del Estado.
+Unicamente serán válidas las resoluciones de transferencia o regularización que emita el titular del Ejecutivo del Estado durante los seis meses siguientes, contados a partir de la publicación del presente decreto en el Periódico Oficial del Estado.
 
-Por esta única vez, cada Sala elegirá a su Presidente tan luego como se haga la adscripción de los magistrados y, concluido el presente período constitucional, se estará a lo que establece el artículo 1o. bis. de este Decreto.
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO TERCERO.
+P.O. 26 DE MAYO DE 1998.
 
-Una vez instaladas las Salas Colegiadas, los asuntos existentes en las actuales Salas Unitarias serán remitidos por ésta a aquéllas, conforme a las siguientes bases:
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-a) Los asuntos que al entrar en vigor este Decreto, están citados para sentencia en las Salas Unitarias Primera, Segunda, Tercera y Cuarta, pasarán a la Segunda Sala Colegiada para su resolución;
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-b) Los asuntos existentes en las Salas Unitarias Quinta, Sexta, Séptima, Octava y Novena, cuya audiencia final se haya celebrado con anterioridad a la fecha en que entre en vigor este Decreto, pasarán a la Segunda Sala Colegiadas para su resolución;
+P.O. 21 DE MARZO DE 2001.
 
-c) Los asuntos no comprendidos en el inciso a) de este artículo, pasarán, de las Salas Unitarias Primera, Segunda, Tercera y Cuarta, a la Primera Sala Colegiada para su conocimiento y resolución; y
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado. Por lo que corresponda a la integración de los Consejos Municipales de Transporte, los Presidentes Municipales contarán con un plazo para su integración, de quince días naturales a partir de la vigencia del presente.
 
-d) Los asuntos no comprendidos en el inciso b) de este artículo, pasarán, de las Salas Unitarias Quinta, Sexta, Séptima, Octava y Novena, a la Tercera Sala Colegiada. para su conocimiento y resolución.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-###### ARTÍCULO CUARTO.
-
-La remisión de los asuntos a que se refiere el artículo anterior, se hará mediante lista por separado que firmarán el Magistrado y Secretario de Acuerdos de la respectiva Sala Unitaria, como constancia de entrega, y el Presidente y Secretario de Acuerdos de la Sala Colegiada correspondiente, como constancia de recibo. Las listas se publicarán en los estrados de las Salas.
-
-###### ARTÍCULO QUINTO.
-
-La Segunda Sala Colegiada no ejercerá las funciones específicas que le señala el artículo 20 de esta Ley, sino hasta que termine con el rezago de los asuntos a que se refieren los incisos a) y b) del Artículo Tercero Transitorio del presente Decreto; mientras tanto, los asuntos mencionados en el artículo 20 serán tramitados y resueltos por la Primera Sala Colegiada.
-
-###### ARTÍCULO SEXTO.
-
-Con las publicaciones a que se refieren los Artículos Transitorios Segundo y Cuarto de este Decreto, se tendrá por hecha, pala todos los efectos legales, la notificación personal de que los asuntos de que se trate han quedado radicados en la Sala Colegiada respectiva.
-
-###### ARTÍCULO SEPTIMO.
-
-El Código Procesal Penal, el Código de Procedimientos Civiles y demás disposiciones legales, no serán aplicables en lo que se opongan al presente Decreto.
-
-###### ARTÍCULO OCTAVO.
-
-En tanto se instalan las Salas Colegiadas, los asuntos seguirán tramitándose y resolviéndose en las Salas Unitarias donde radican.
-
-###### ARTÍCULO NOVENO.
-
-Se faculta al Pleno del Supremo Tribunal para que en cualquier tiempo distribuya a otra u otras Salas Colegiadas el trabajo de alguna que estuviere retrasada en sus funciones, y, en general, para dictar todas las medidas necesarias a fin de obtener la efectividad en el cumplimiento de las presentes reformas y adiciones.
-
-###### ARTÍCULO DECIMO.
-
-Las facultades y obligaciones señaladas por las leyes a los Magistrados de las Salas Unitarias, en cuanto al trámite y resolución de los asuntos, se entenderán reservadas a los presidentes de las Salas Colegiadas o a éstas, según el caso.
-
-P.O. 10 DE ABRIL DE 1986.
-
-###### ARTICULO PRIMERO.
-
-Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-El Supremo Tribunal de Justicia, fijara oportunamente la fecha en que empezarán a funcionar los otros dos juzgados de primera instancia de lo civil y los otros dos de lo penal en el Distrito de Morelia; uno más de lo penal en el Distrito de Uruapan y un mixto más en los Distritos de Hidalgo, Lázaro Cárdenas, Los Reyes, Pátzcuaro y Tacámbaro; mientras que empiecen a funcionar los nuevos juzgados, los asuntos seguirán tramitándose y resolviéndose en los que actualmente radican.
-
-###### ARTICULO TERCERO.
-
-El Supremo Tribunal de Justicia, determinará la denominación de los Juzgados de nueva creación observando lo dispuesto por el párrafo cuarto del artículo 27 de la Ley Orgánica del Poder Judicial del Estado, y dictará las reglas conforme a las cuales se distribuirán, en los Distritos donde se crean los nuevos juzgados, los asuntos que obren en los juzgados ya existentes.
-
-###### ARTICULO CUARTO.
-
-Los acuerdos que dicte el Supremo Tribunal de Justicia en aplicación de este decreto, serán publicados en el Periódico Oficial del Estado.
-
-P.O. 29 DE DICIEMBRE DE 1986.
-
-###### ARTICULO PRIMERO.
-
-Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-El Pleno del Supremo Tribunal de Justicia, fijará oportunamente la fecha de instalación y funcionamiento de las Salas Unitarias; determinará la adscripción de los Magistrados, observando al efecto lo dispuesto en los artículos 5°, 9° fracción II y 18 de esta Ley, y ordenará que los nombres de los Magistrados propietarios de cada Sala, sean publicados en el Periódico Oficial del Estado.
-
-###### ARTICULO TERCERO.
-
-Una vez instaladas las Salas Unitarias, los asuntos existentes en las actuales Salas Colegiadas serán remitidos por sus respectivos Presidentes a aquellas, conforme a las siguientes bases:
-
-a) Los asuntos que al entrar en vigor este Decreto, estén citados para sentencia en la Primera Sala Colegiada, serán distribuidos en forma proporcional entre las ocho Salas Civiles para su resolución;
-
-b) Los negocios que se encuentren en trámite ante la Primera Sala Colegiada, serán remitidos a las Salas Unitarias Civiles en la siguiente forma:
-
-Los expedientes cuyo número de registro terminen en "1" a la Primera; en "2" a la Segunda; en "3" a la Tercera; en "4" a la cuarta; "5" a la Quinta; en "6" a la Sexta; en "7" a la Séptima y en "8" a la Octava. Los terminados en "9" se repartirán proporcionalmente entre las Salas Primera, Segunda, Tercera y Cuarta; y los que terminen en "0" de igual forma entre las Salas Quinta, Sexta, Séptima y Octava, para la continuación de su trámite y resolución;
-
-c) Los asuntos que al entrar en vigor este Decreto, se encuentren en la Segunda Sala Colegiada, tanto los que estén citados para sentencia, como en trámite, serán remitidos por su Presidente a las Salas Unitarias Civiles, en la misma forma y términos a que se refieren los incisos a) y b), de este artículo, a fin de que continúe el trámite y se dicte resolución;
-
-d) Los asuntos existentes en la Tercera Sala Colegiada al entrar en vigor este Decreto, en los cuales se hayan celebrado la audiencia final, serán distribuidos en forma proporcional entre las siete Salas Penales, para su resolución;
-
-e) Los asuntos que se encuentran en trámite ante la Tercera Sala Colegiada, al entrar en vigor el presente Decreto, serán enviados a las Salas Unitarias Penales conforme a las siguientes reglas:
-
-Los expedientes con número de registro terminado en "1" a la Primera; en "2" a la Segunda; en "3" a la Tercera; en "4" a la cuarta; en "5" a la Quinta; en "6" a la Sexta; en "7" a la Séptima. Los que terminen en "8" se distribuirán proporcionalmente entre las Salas Primera y Segunda; en "9" entre las Salas Quinta, Sexta y Séptima, para la continuación de su trámite y resolución;
-
-###### ARTICULO CUARTO.
-
-La remisión de los asuntos a que se refiere el artículo anterior, se hará mediante lista por separado que firmarán el Magistrado Presidente y Secretario de Acuerdos de la respectiva Sala Unitaria, como constancia de entrega, y el Presidente y Secretario de Acuerdos de la Sala Colegiada correspondiente, como constancia de recibo. Las listas se publicarán en los estrados de la Sala Unitaria.
-
-###### ARTICULO QUINTO.
-
-En los asuntos que al entrar en vigor el presente Decreto, se encuentre en trámite recurso de reclamación contra providencias o acuerdos de los Presidentes de las Salas Colegiadas, serán resueltos por el Magistrado de la Sala Unitaria que se hubiere avocado a su conocimiento.
-
-###### ARTICULO SEXTO.
-
-Las ejecutorias de amparo directo, o indirecto o de queja, que sean recibidas cuando ya se encuentre en funcionamiento las Salas Unitarias, se remitirán por la Oficina de Turno, junto con los autos relativos, en su caso, al Magistrado de la Sala Unitaria a quien corresponda conocer del asunto, de acuerdo con las disposiciones del Artículo Tercero Transitorio, para que le dé el trámite legal que proceda.
-
-###### ARTICULO SEPTIMO.
-
-Los cuadernos de amparo directo o indirecto y los de queja relativos a esta materia, serán remitidos por los Presidentes de las Salas Colegiadas, al Magistrado de la Sala Unitaria a quien le corresponda en su caso conocer del asunto del cual deriven esos amparos y quejas, aplicándose las reglas previstas en los Artículos Tercero y Cuarto Transitorios; también enviará copia de esa remisión a la oficina de Turno, para fines de control, en los términos y para los efectos señalados en el Artículo Sexto Transitorio.
-
-###### ARTICULO OCTAVO.
-
-Recobran su aplicabilidad todas las disposiciones legales del Código Procesal Penal, del Código de Procedimientos Civiles y demás que contengan otros ordenamientos, relativas al funcionamiento de las Salas Unitarias, que el Artículo Séptimo Transitorio del Decreto Legislativo número 280, publicado en el Periódico Oficial del Estado, el día 30 de Diciembre de 1985, Mil Novecientos Ochenta y Cinco, declaró no aplicables en lo que se opusieran al citado Decreto.
-
-###### ARTICULO NOVENO.
-
-Mientras se instalan y funcionan las Salas Unitarias, los asuntos seguirán tramitándose y resolviéndose en las Salas Colegiadas en donde radican, conforme a las disposiciones que las rigen.
-
-###### ARTICULO DECIMO.
-
-Se faculta al Pleno del Supremo Tribunal de Justicia del Estado, para resolver cualquier cuestión no prevista en estos Transitorios.
-
-P.O. 30 DE NOVIEMBRE DE 1989.
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Todos los depósitos efectuados ante la Tesorería General del Estado a disposición de las autoridades judiciales de Michoacán, deberán serán transferidos al Supremo Tribunal de Justicia del Estado, a fin de que inicie la formación del patrimonio del Fondo Auxiliar para la Administración de Justicia.
-
-El Supremo Tribunal de Justicia, canjeará los certificados de depósito correspondientes, por las constancias que se establezcan conforme al modelo que al efecto apruebe el Pleno del Supremo Tribunal de Justicia, para que exista una substitución inmediata.
-
-###### ARTICULO TERCERO.
-
-Todas las autoridades judiciales del Estado, a cuyo favor se encuentren constituidos depósitos en efectivo, por cualquier concepto, deberán endosarlos a nombre del Supremo Tribunal de Justicia del Estado, cuidando de que se haga la substitución de los certificados de depósito correspondientes, de acuerdo con lo establecido en el transitorio inmediato anterior.
-
-###### ARTICULO CUARTO.
-
-El Supremo Tribunal de Justicia del Estado, directamente o por conducto de las salas o juzgados de primera instancia, en su caso, cubrirán a la vista, el importe de los depósitos que tengan que devolverse a personas físicas o jurídicas, en cumplimiento de la orden de pago, librada por la autoridad en cuyo favor se hicieron o transmitieron por endoso los certificados respectivos.
-
-###### ARTICULO QUINTO.
-
-Se deroga en parte el Decreto número 99, de 24 de noviembre de 1970, publicado en el Periódico Oficial del Estado, correspondiente al 14 de diciembre de 1970, únicamente por cuanto se refiere a los depósitos en efectivo que se tengan que efectuar en lo sucesivo, a favor de las autoridades judiciales del Estado.
-
-###### ARTICULO SEXTO.
-
-Se derogan todas las disposiciones legales que se opongan a las previstas por este Decreto.
-
-P.O. 7 DE MARZO DE 1991
-
-###### ARTICULO PRIMERO.
-
-El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Todos los asuntos de las materias civil y mercantil en proceso, a la fecha de entrar en vigor este Decreto, proseguirán regidos por las disposiciones anteriores al mismo, el cual regulará únicamente los asuntos que se inicien con posterioridad a su vigencia.
-
-###### ARTICULO TERCERO.
-
-Se derogan todas las disposiciones legales que se opongan a las previstas por este Decreto.
-
-P.O. 27 DE FEBRERO DE 1992
-
-PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
-
-P.O. 9 DE OCTUBRE DE 1995
-
-PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Por esta única vez, en este año en que se inicia período constitucional, la designación del Presidente del Supremo Tribunal de Justicia se hará a más tardar dentro de los ocho días posteriores al de la publicación del presente Decreto.
-
-P.O. 13 DE MARZO DE 2000.
-
-PRIMERO.- El presente Decreto, iniciará su vigencia el día siguiente hábil al de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto en este Decreto.
-
-TERCERO.- El Supremo Tribunal de Justicia, dictará las reglas conforme a las cuales se distribuirán entre las ocho salas penales, los asuntos que obran en las siete ya existentes y/o los asuntos seguirán tramitándose y resolviéndose en las Salas a las que compete su conocimiento.
-
-P.O. 9 DE JULIO DE 2003.
-
-###### ARTÍCULO PRIMERO
-
-El presente Decreto iniciará su vigencia el día hábil siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO
-
-Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto en este Decreto.
-
-###### ARTÍCULO TERCERO
-
-El Pleno del Supremo Tribunal de Justicia del Estado dispondrá oportunamente el día de inicio de actividades de la Novena Sala Penal.
-
-###### ARTÍCULO CUARTO
-
-El Supremo Tribunal de Justicia del Estado dictará las reglas conforme a las cuales se distribuirán entre las nueve salas penales los asuntos de nuevo ingreso; en tanto, los ya radicados seguirán tramitándose y resolviéndose en las Salas a las que compete su conocimiento.
+TERCERO. El tercer párrafo del artículo 53 de este Decreto entrará en vigor el día quince de enero del año dos mil dos.
