@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-1934-1936-1433
 country: "mx"
 rank: "ley_organica"
 publication_date: "1934-08-31"
-last_updated: "1934-08-31"
+last_updated: "1934-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1433&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,11 @@ issue_date: "1934-08-27"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION -(1934-1936)-
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 1 DE OCTUBRE DE 1934.]</small>
-
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE NOVIEMBRE DE 1934 EN EL D.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 9 DE NOVIEMBRE DE 1934.]
 
 Ley publicada en la Sección Tercera del Diario Oficial, el viernes 31 de agosto de 1934.
 
@@ -83,9 +81,11 @@ La Suprema Corte de Justicia tendrá un secretario general de acuerdos, un subse
 
 El Presidente de la Suprema Corte de Justicia será suplido en sus faltas accidentales o en las temporales que no excedan de quince días, por los demás Ministros en el orden de su designación. En las faltas que excedan de dicho término, la Suprema Corte elegirá al Ministro que deba substituirlo.
 
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
 ###### ARTICULO 8°
 
-La Suprema Corte de Justicia de la Nación tendrá dos períodos de sesiones cada año; el primero comenzará el día dos de enero y terminará el quince de junio; el segundo comenzará el día primero de julio y terminará le (sic) quince de diciembre.
+La Suprema Corte de Justicia de la Nación tendrá dos períodos de sesiones cada año; el primero comenzará el día dos de enero y terminará el quince de junio; el segundo comenzará el día primero de julio y terminará el quince de diciembre.
 
 Al clausurar la Suprema Corte de Justicia cada período de sesiones, designará uno o más Ministros que provean y despachen durante el receso todos los asuntos de trámite o resolución de notoria urgencia que no correspondan en definitiva al Pleno o a las Salas, y dicten las órdenes o medidas provisionales también de carácter urgente, que exija el buen servicio de la justicia federal; debiendo dar cuenta al Presidente de la Suprema Corte al reanudar ésta sus sesiones, para que someta a la consideración del Pleno o de la Comisión de Gobierno y Administración, según fuere procedente, las resoluciones, órdenes o medidas provisionales dictadas durante el receso.
 
@@ -183,7 +183,9 @@ XXVI.- Ordenar la práctica de investigaciones para averiguar la conducta de alg
 
 XXVII.- Tomar las providencias oportunas e imponer las correcciones a que hubiere lugar, en caso de faltas graves en el despacho de los negocios, ya sean cometidas en la Suprema Corte, o en los Tribunales de Circuito o Juzgados de Distrito, por los Magistrados o Jueces respectivos o por los empleados de aquélla o dependientes de dichos funcionarios y hacer la consignación que proceda, si apareciere que se ha cometido algún delito.
 
-XVIII (SIC).- Las demás que determinen las leyes.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+XXVIII.- Las demás que determinen las leyes.
 
 ###### ARTICULO 13.
 
@@ -203,7 +205,9 @@ VI.- Dictar las medidas que exijan el buen servicio y la disciplina en las ofici
 
 VII.- Conceder licencias económicas, hasta por quince días, a los funcionarios y empleados cuyo nombramiento corresponda a la Suprema Corte.
 
-VIII.- Promover oportunamente los nombramientos de funcionarios y empleados que deba hacer la Suprema Corte, en caso de vacante, y formular las propuestas respectivas, previo dictamen de la Comisión de Gobierno y Administración, cuando se trate de nombramientos que deban hacerse por escalafón, en los términos del artículo 37 de esta ley.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+VIII.- Promover oportunamente los nombramientos de funcionarios y empleados que deba hacer la Suprema Corte, en caso de vacante, y formular las propuestas respectivas, previo dictamen de la Comisión de Gobierno y Administración, cuando se trate de nombramientos que deban hacerse por escalafón, en los términos del artículo 84 de esta ley.
 
 IX.- Recibir quejas sobre las faltas que ocurran en el despacho de los negocios, tanto de la competencia del Pleno como de alguna de las Salas, o de los Tribunales de Circuito o de los Juzgados de Distrito.
 
@@ -223,7 +227,9 @@ XIV.- Turnar al Ministro inspector del circuito que corresponda, los asuntos que
 
 XV.- Legalizar las firmas de los funcionarios del Poder Judicial de la Federación, en los casos en que la ley exija ese requisito.
 
-XVI.- Ejercer las atribuciones que le asigne el Reglamento interior de la Suprema Corte.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+XVI.- Ejercer las atribuciones que le asigne el Reglamento Interior de la Suprema Corte.
 
 ###### ARTICULO 14.
 
@@ -245,7 +251,9 @@ Las audiencias serán públicas, salvo los casos en que la moral o el interés p
 
 Las resoluciones de las Salas se tomarán por mayoría de votos de los Ministros presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal o cuando no hayan estado presentes durante la discusión del asunto de que se trate.
 
-Si no hubiere mayoría en la votación de algún asunto, estando presentes los cinco Ministros que integran la Sala, continuará la discusión en la sesión o sesiones siguientes hasta que se obtenga; y si dentro de tres sesiones no se obtuviese mayoría, se pasará el asunto al Pleno para que, substituyéndose a la Sala, dicte la resolución que corresponda.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+Si no hubiere mayoría en la votación de algún asunto, estando presentes los cinco Ministros que integran la Sala, continuará la discusión en la sesión o sesiones siguientes hasta que se obtenga; y si dentro de tres sesiones no se obtuviere mayoría, se pasará el asunto al Pleno para que, substituyéndose a la Sala, dicte la resolución que corresponda.
 
 Si la Sala no estuviere integrada se suspenderá la discusión del asunto, entretanto se integra.
 
@@ -301,7 +309,9 @@ X.- De los demás asuntos que la ley le encargue expresamente.
 
 Corresponde conocer a la Segunda Sala:
 
-I.- De los recursos que la ley conceda ante la Suprema Corte de Justicia, contra las resoluciones dictadas por los Jueces de Distrito en los juicios de amparo a que se refiere la fracción II del artículo 38 de esta Ley.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+I.- De los recursos que la ley conceda ante la Suprema Corte de Justicia, contra las resoluciones dictadas por los Jueces de Distrito en los juicios de amparo a que se refieren las fracciones II a IV del artículo.
 
 II.- De los juicios de amparo que se promuevan en única instancia contra las sentencias definitivas dictadas por las autoridades judiciales, en las controversias de que tratan las fracciones I y II del mismo artículo 38.
 
@@ -323,7 +333,9 @@ I.- De los recursos que conceda la ley ante la Suprema Corte, contra las resoluc
 
 II.- De los juicios de amparo que se promuevan en única instancia, contra las sentencias definitivas dictadas en los asuntos judiciales del orden civil.
 
-III.- De las controversias que se susciten entre tribunales federales de diversos circuitos en los asuntos a que se refieren las fracciones I, II, III, IV y VI del artículo (sic) de esta Ley.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+III.- De las controversias que se susciten entre tribunales federales de diversos circuitos en los asuntos a que se refieren las fracciones I, II, III, IV y VI del artículo 39 de esta Ley.
 
 IV.- De las competencias que se susciten entre Juzgados de Distrito, con motivo de los amparos a que se refiere la fracción V del mismo artículo 39.
 
@@ -361,7 +373,9 @@ IX.- Ejercer las demás facultades que determine el Reglamento Interior de la Su
 
 Son atribuciones de la Comisión de Gobierno y Administración.
 
-I.- Formar cada año el anteproyecto del presupuesto de egresos del Poder Judicial de la Federación, para someterlo a la consideración de la Suprema Corte.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+I.- Formar cada año el anteproyecto del presupuesto de egresos del Poder Judicial de la Federación, para someterlo a la aprobación de la Suprema Corte.
 
 II.- Manejar las partidas del Presupuesto de Egresos, ordenando las ministraciones de dinero conforme a las necesidades del Poder Judicial de la Federación.
 
@@ -401,7 +415,9 @@ Cuando un Magistrado de Circuito esté impedido de conocer de un negocio, conoce
 
 Los Tribunales de Circuito conocerán:
 
-I.- De la tramitación y fallo en apelación cuando este recurso proceda en los negocios sujetos en primera instancia a los Jueces de Distrito.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+I.- De la tramitación y fallo en apelación, cuando este recurso proceda, de los negocios sujetos en primera instancia a los Jueces de Distrito.
 
 II.- Del recurso de denegada apelación.
 
@@ -422,6 +438,10 @@ El personal de cada uno de los Juzgados de Distrito se compondrá de un Juez y d
 Para ser Juez de Distrito, se requiere: ser mexicano por nacimiento, en pleno ejercicio de sus derechos; mayor de veinticinco años, abogado con título expedido por autoridad o corporación legalmente facultada para ello; ser de buena conducta y tener tres años cuando menos de ejercer la profesión.
 
 Los secretarios y actuarios deberán ser mexicanos en pleno ejercicio de sus derechos, mayores de edad, abogados con título expedido por autoridad o corporación legalmente facultada para ello y de buena conducta.
+
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+La Suprema Corte podrá dispensar el requisito del título a los actuarios.
 
 Los secretarios, actuarios y demás empleados de los Juzgados de Distrito, serán nombrados por los Jueces de que dependan.
 
@@ -473,7 +493,9 @@ II.- De los amparos pedidos conforme a la fracción IX del artículo 107 de la C
 
 III.- De los amparos pedidos contra leyes y demás disposiciones de observancia general cuando no se reclame acto concreto de aplicación por parte de alguna autoridad, y siempre que con la simple expedición de aquéllas se cree, modifique o extinga en perjuicio del quejoso una situación concreta de derecho.
 
-IV.- De los amparos pedidos contra de actos de autoridad distinta de la judicial, salvo en los casos a que aluden las fracciones II y IV del artículo anterior.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+IV.- De los amparos pedidos contra de actos de autoridad distinta de la judicial, salvo en los casos a que aluden las fracciones II y III del artículo anterior.
 
 ###### ARTICULO 39.
 
@@ -497,17 +519,21 @@ VII.- De todos los demás asuntos que conforme a la ley competen a los Jueces de
 
 Cuando ante un Juez de Distrito del Distrito Federal se presente una demanda de amparo que no quede comprendida en los casos que esta ley le encomienda, sin proveer sobre la admisión de ella la enviará al Juez que esté en turno entre los que deban conocer de la misma. Este resolverá sobre la admisión de la demanda y no podrá declarar su incompetencia sino en los términos establecidos por la Ley Reglamentaria de los artículos 103 y 104 constitucionales.
 
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
 ###### ARTICULO 41.
 
-Fuera del Distrito Federal, los Jueces de Distrito conocerán de todos los asuntos a que aluden los artículos 37 y 39 de esta Ley.
+Fuera del Distrito Federal, los Jueces de Distrito conocerán de todos los asuntos a que aluden los artículos 37 a 39 de esta Ley.
 
 ###### ARTICULO 42.
 
 Cuando un Juez de Distrito falte accidentalmente o temporalmente, la Suprema Corte de Justicia nombrará a la persona que haya de substituirlo y mientras esto se efectúa, el secretario del Juzgado practicará las diligencias urgentes, pero sin llegar a resolver en definitiva, a menos que la Suprema Corte lo autorice para desempeñar las funciones del Juez ausente.
 
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
 ###### ARTICULO 43.
 
-Cuando un Juez de Distrito tenga impedimento para conocer de determinado negocio y sino hubiere otro en el mismo lugar, le substituirá el Juez de Distrito del lugar más inmediato a la residencia del impedido, dentro del mismo Circuito, tomando en cuenta la facilidad en las comunicaciones. Mientras se remiten los autos, el secretario respectivo practicará las diligencias urgentes.
+Cuando un Juez de Distrito tenga impedimento para conocer de determinado negocio y no hubiere otro en el mismo lugar, le substituirá el Juez de Distrito del lugar más inmediato a la residencia del impedido, dentro del mismo Circuito, tomando en cuenta la facilidad en las comunicaciones. Mientras se remiten los autos, el secretario respectivo practicará las diligencias urgentes.
 
 ###### ARTICULO 44.
 
@@ -591,7 +617,9 @@ II.- De las responsabilidades por delitos o faltas oficiales de los funcionarios
 
 Los jurados podrán excusarse en los casos siguientes:
 
-I.- Cunado (sic) sean empleados de empresas de servicios públicos.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+I.- Cuando sean empleados de empresas de servicios públicos.
 
 II.- Cuando sean estudiantes inscritos en las escuelas oficiales o en instituciones universitarias.
 
@@ -601,7 +629,9 @@ IV.- Cuando padezcan enfermedad que no les permita trabajar.
 
 V.- Cuando sean mayores de sesenta años.
 
-IV (SIC).- Cuando hayan desempeñado el cargo de jurado durante el año anterior, sin que se les hubiese aplicado alguna corrección disciplinaria por falta de asistencia.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+VI.- Cuando hayan desempeñado el cargo de jurado durante el año anterior, sin que se les hubiese aplicado alguna corrección disciplinaria por falta de asistencia.
 
 Estas excusas se alegarán ante el Presidente de Debates, el que las calificará de plano.
 
@@ -615,9 +645,11 @@ I.- Tribunales para menores; y
 
 II.- Consejos de vigilancia.
 
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
 ###### ARTICULO 58.
 
-Habrá tribunal para menores en cada una de las capitales de los Estados y, además, en los lugares en que sin ser capitales de Estados resida el Juez de Distrito.
+Habrá tribunal para menores en cada una de las capitales de los Estados y, además, en los lugares en que sin ser capitales de Estados resida un Juez de Distrito.
 
 ###### ARTICULO 59.
 
@@ -637,9 +669,11 @@ Cuando en el mismo lugar resida más de un Juez de Distrito, integrará el tribu
 
 En las capitales de los Estados en donde no resida Juez de Distrito, éste y el secretario serán substituidos por el Juez y secretario del Juzgado Penal de Primera Instancia o del Mixto correspondiente. Si hubiese varios jueces del ramo penal, integrará el tribunal para menores el que designe el Juez de Distrito de la jurisdicción.
 
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
 ###### ARTICULO 61.
 
-En donde resida un tribunal para menores habrá un Consejo de vigilancia, que será presidido por el miembro de mayor categoría de la Beneficencia Pública o en su defecto, Privada, en el lugar, y se integrarán con el número de vecinos de la localidad que se estime necesario el que no podrá ser menor de diez. Donde no exista Beneficencia, el Consejo será presidido por la primera autoridad municipal.
+En donde resida un tribunal para menores habrá un Consejo de vigilancia, que será presidido por el miembro de mayor categoría de la Beneficencia Pública o en su defecto, Privada, en el lugar, y se integrará con el número de vecinos de la localidad que se estime necesario el que no podrá ser menor de diez. Donde no exista Beneficencia, el Consejo será presidido por la primera autoridad municipal.
 
 Los demás miembros del Consejo de vigilancia deberán reunir los siguientes requisitos:
 
@@ -695,7 +729,9 @@ II.- Los Juzgados de Distrito en Aguascalientes, Campeche, Colima, Chiapas, Guan
 
 III.- El Juzgado de Distrito en Nayarit, además de ejercer jurisdicción en el Estado de este nombre, la ejercerá en las Islas Marías.
 
-IV.- El Juzgado de Distrito en Coahuila, ejercerá jurisdicción en los municipios de Saltillo, Ramos Arizpe, General Cepeda Arteaga, Monclova, Villa Frontera, San Buenaventura, Nadadores, Cuatro Ciénegas, Ocampo, Salinas, Múzquiz, San Juan de Salinas, Juárez, Progreso, Escobedo, Abasolo, Sierra Mojada, Lamadrid, Sacramento, Candela, Castaños, Piedras Negras, Villa Acuña, Zaragoza, Allende, Morelos, Jiménez, Guerrero, Villa Unión, Hidalgo y Nave, del Estado de Coahuila.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+IV.- El Juzgado de Distrito en Coahuila, ejercerá jurisdicción en los municipios de Saltillo, Ramos Arizpe, General Cepeda Arteaga, Monclova, Villa Frontera, San Buenaventura, Nadadores, Cuatro Ciénegas, Ocampo, Sabinas, Múzquiz, San Juan de Salinas, Juárez, Progreso, Escobedo, Abasolo, Sierra Mojada, Lamadrid, Sacramento, Candela, Castaños, Piedras Negras, Villa Acuña, Zaragoza, Allende, Morelos, Jiménez, Guerrero, Villa Unión, Hidalgo y Nave, del Estado de Coahuila.
 
 V.- El Juzgado de Distrito en La Laguna, ejercerá jurisdicción en los municipios de Torreón, Matamoros, Viesca, Parras y San Pedro, del Estado de Coahuila, y en los de Mapimí, Gómez Palacio, Lerdo, Nazas, San Pedro del Gallo, San Luis del Cordero, San Juan de Guadalupe y San Bartolo, del Estado de Durango.
 
@@ -711,15 +747,23 @@ X.- El Juzgado Segundo de Distrito en Tamaulipas, la ejercerá en los municipios
 
 XI.- Los Juzgados de Distrito en Baja California, ejercerán jurisdicción en los Territorios respectivos.
 
-XII.- Los Juzgados Primero y Segundo de Distrito en Veracruz, ejercerán jurisdicción en todo el Estado del mismo nombre, con excepción de los municipios de Puerto México, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán, Jáltipan, Moloacán, Oteapen, Pajapam, Santa Lucrecia, Zaragoza, Mecayapan, Oluta, San Juan Evangelista, Sayula, Soconusco, Soteapan, Texistepéc, Citlaltepetl, Pánuco, Villa Cuauhtémoc, Tamalín, Tampico Alto, Tantima, Chiconamel, Contla, Ixcatepec, Platón Sánchez, Tempoal, Huayacocotla, Llamatlán, Ixthuatlán, Santa Cruz de Juárez, Tlachichilco, Zacualpan, Zontecomatlán, Tecaxtepec, Amatlán, Castillo de Teayo, Chinampa, Tamiahua, Temapache, Tepetzintla, Tihuatlán, Cuahuitlán, Coatzintlá, Coyutla, Coxquihuí, El Espinal, Gutiérrez Zamora, Mecatlán, Santo Domingo, Tecolutla, Zozocolov, Ozuluama, Tantoyuca, Chicontepec, Tuxpan y Papantla.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
 
-XIII.- El Juzgado Tercero de Distrito en Veracruz, ejercerá en jurisdicción en las (sic) municipios de Amatlán, Castillo de Teayo, Chinampa, Tamiahua, Tancoco, Temapache, Tepetzintla, Tihuatlán, Citlaltépetl, Pánuco, Villa Cuauhtémoc, Tamalín, Tampico Alto, Tantima, Chiconamel, Contla, Ixcatepec, Platón Sánchez, Tempoal, Huayacocotla, IIamatlán, Ixhuatlán, Santa Cruz de Juárez, Tlalchichilco, Zacualpan, Zontecomatlán, Texcatepec, Cuahuitlán, Cuatzintla, Coyutla, Coxquihuí, El Espinal, Guitérrez Zamora, Mecatlán, Santo Domingo, Tecolutla, Zozocolco, Ozulnama, Tantoyuca, Chicontepec, Tuxpan y Papantla, del estado de Veracruz.
+XII.- Los Juzgados Primero y Segundo de Distrito en Veracruz, ejercerán jurisdicción en todo el Estado del mismo nombre, con excepción de los municipios de Puerto México, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán, Jáltipan, Moloacán, Oteapen, Pajapam, Santa Lucrecia, Zaragoza, Mecayapan, Oluta, San Juan Evangelista, Sayula, Soconusco, Soteapan, Texistepéc, Citlaltepetl, Pánuco, Villa Cuauhtémoc, Tamalín, Tampico Alto, Tantima, Chiconamel, Contla, Ixcatepec, Platón Sánchez, Tempoal, Huayacocotla, Llamatlán, Ixthuatlán, Santa Cruz de Juárez, Tlachichilco, Zacualpan, Zontecomatlán, Tecaxtepec, Amatlán, Castillo de Teayo, Chinampa, Tamiahua, Tancoco, Temapache, Tepetzintla, Tihuatlán, Cuahuitlán, Coatzintlá, Coyutla, Coxquihuí, El Espinal, Gutiérrez Zamora, Mecatlán, Santo Domingo, Tecolutla, Zozocolov, Ozuluama, Tantoyuca, Chicontepec, Tuxpan y Papantla.
 
-XIV.- La jurisdicción del Juzgado de Distrito en Oaxaca, comprenderá todo el territorio del Estado, con excepción de los municipios de El Barrio, San Miguel Chimalpa, Santa María Chimalpa, El Espinal, San Juan Guichicove, San Francisco Ixhuatlán, Asunción, Ixtaltepec, San Jerónimo Ixtepec, Juchitlán de Zaragoza, San Dionisio del Mar, Reforma, Matías Romero, Miltepec, Santa María Petapa, Santo Domingo Petapa, San Pedro Tapanatepec, Unión Hidalgo, Santa María Xadani, Santo Domingo Zanatepec, Santiago Astata, San Blas, Atempa, San Pedro Comitancillo, Santo Domingo Chihuitlán, Santiago Guevea, Santa María Guienagati, San Pedro Huamekula, San Pedro Huilotepec, Santa María Jalapa del Marqués, Santiago Lachiguiri, Santiago Lasllaga, San Mateo del Mar, San Juan Mazatlán, Santa María Mixtequilla, Salina Cruz, Santo Domingo Tehuantepec, San Miguel Tenango, Magdalena Tequisistlán, Magdalena Tlacotepec, Santa María Totolapilla, Acatlán de Pérez Figueroa, San José Chiltepec, San José Independencia, San Pedro Ixcatlán, Santa María Jacatepec, San Felipe, Jalapa de Díaz, San Lucas Ojitlán, San Pedro Uzumacín, San Miguel Soyaltepec, Tuxtepec, Usila, San Felipe y San Juan Bautista (Valle Nacional), del Estado de Oaxaca.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+XIII.- El Juzgado Tercero de Distrito en Veracruz, ejercerá jurisdicción en las (sic) municipios de Amatlán, Castillo de Teayo, Chinampa, Tamiahua, Tancoco, Temapache, Tepetzintla, Tihuatlán, Citlaltépetl, Pánuco, Villa Cuauhtémoc, Tamalín, Tampico Alto, Tantima, Chiconamel, Contla, Ixcatepec, Platón Sánchez, Tempoal, Huayacocotla, IIamatlán, Ixhuatlán, Santa Cruz de Juárez, Tlalchichilco, Zacualpan, Zontecomatlán, Texcatepec, Cuahuitlán, Cuatzintla, Coyutla, Coxquihuí, El Espinal, Guitérrez Zamora, Mecatlán, Santo Domingo, Tecolutla, Zozocolco, Ozulnama, Tantoyuca, Chicontepec, Tuxpan y Papantla, del estado de Veracruz.
+
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+XIV.- La jurisdicción del Juzgado de Distrito en Oaxaca, comprenderá todo el territorio del Estado, con excepción de los municipios de El Barrio, San Miguel Chimalapa, Santa María Chimalapa, El Espinal, San Juan Guichicovi, San Francisco Ixhuatlán, Asunción, Ixtaltepec, San Jerónimo Ixtepec, Juchitlán de Zaragoza, San Dionisio del Mar, Reforma, Matías Romero, Miltepec, Santa María Petapa, Santo Domingo Petapa, San Pedro Tapanatepec, Unión Hidalgo, Santa María Xadani, Santo Domingo Zanatepec, Santiago Astata, San Blas, Atempa, San Pedro Comitancillo, Santo Domingo Chihuitlán, Santiago Guevea, Santa María Guienagati, San Pedro Huamelula, San Pedro Huilotepec, Santa María del Mar, Jalapa del Marqués, Santiago Lachiguiri, Santiago Loayaga, San Mateo del Mar, San Juan Mazatlán, Santa María Mixtequilla, Salina Cruz, Santo Domingo Tehuantepec, San Miguel Tenango, Magdalena Tequisistlán, Magdalena Tlacotepec, Santa María Totolapilla, Acatlán de Pérez Figueroa, San José Chiltepec, San José Independencia, San Pedro Ixcatlán, Santa María Jacatepec, San Felipe, Jalapa de Díaz, San Lucas Ojitlán, San Pedro Uzumacín, San Miguel Soyaltepec, Tuxtepec, Usila, San Felipe y San Juan Bautista (Valle Nacional), del Estado de Oaxaca.
 
 XV.- La Jurisdicción del Juzgado de Distrito en el Istmo de Tehuantepec, comprenderá los municipios del Estado de Oaxaca exceptuados en la fracción que antecede, y los de Puerto México, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán. Jáltipan, Moloacán, Oteapan, Pajapam, Santa Lucrecia, Zaragoza, Mecayapan, Oluta, San Juan Evangelista, Sayula, Soconusco, Soteapan, Acayucan, Minatitlán y Texistepec, del Estado de Veracruz.
 
-### CAPITULO VII (SIC). Impedimentos
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+### CAPITULO VIII. Impedimentos
 
 ###### ARTICULO 67.
 
@@ -739,7 +783,9 @@ VI.- Haber sido procesado el funcionario, su cónyuge o parientes en los grados 
 
 VII.- Tener pendiente de resolución un asunto semejante al que se trate o tenerlo su cónyuge o sus parientes en los grados expresados en la fracción I.
 
-VII (SIC).- Seguir algún negocio en que sea juez árbitro o arbitrador alguno de los interesados.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+VIII.- Seguir algún negocio en que sea juez árbitro o arbitrador alguno de los interesados.
 
 IX.- Asistir durante la tramitación del asunto a convite que le diere o costare algunos de los interesados; tener mucha familiaridad o vivir en familia con alguno de ellos.
 
@@ -795,9 +841,11 @@ Cuando la ausencia deba durar más tiempo, dichos funcionarios deberán solicita
 
 Los nombramientos de secretarios, actuarios y demás empleados que hagan los Magistrados de Circuito y los Jueces de Distrito, no podrán recaer en los ascendientes, descendientes o cónyuge del que los haga, ni en sus parientes dentro del cuarto grado por consanguinidad o dentro del segundo por afinidad.
 
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
 ###### ARTICULO 73.
 
-Cuando tengan que practicarse diligencias fuera de las oficinas de la Suprema Corte, las practicará el Ministro, secretario o actuario que al efecto comisione el Pleno o la Sala que conozca del asunto que las motive; las diligencias que hayan de practicarse fuera de los Tribunales de Circuito y de los Juzgados de Distrito, lo serán por los secretarios o actuarios que comisionen al efecto el Magistrado o Juez respectivo.
+Cuando tengan que practicarse diligencias fuera de las oficinas de la Suprema Corte, las practicará el Ministro, secretario o actuario que al efecto comisione el Pleno o la Sala que conozca del asunto que las motive; las diligencias que hayan de practicarse fuera de los Tribunales de Circuito y de los Juzgados de Distrito, lo serán por los secretarios o actuarios que comisione al efecto el Magistrado o Juez respectivo.
 
 ###### ARTICULO 74.
 
@@ -817,9 +865,11 @@ Cuando los Jueces de Distrito tengan que practicar diligencias fuera del lugar d
 
 En los asuntos del orden penal, podrán autorizarlos para resolver sobre la formal prisión, sujeción a proceso o libertad por falta de elementos para procesar, según fuere procedente, y para practicar las demás diligencias en los términos que disponga el Código Federal de Procedimientos Penales.
 
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
 ###### ARTICULO 77.
 
-Los funcionarios del Poder Judicial de la Fedareción (sic) y sus respectivos secretarios y actuarios en funciones, están impedidos:
+Los funcionarios del Poder Judicial de la Federación y sus respectivos secretarios y actuarios en funciones, están impedidos:
 
 I.- Para desempeñar otro cargo o empleo de la Federación, de los Estados, del Distrito o de los Territorios Federales, de los Municipios o de los particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia.
 
@@ -833,9 +883,11 @@ Para que los funcionarios del Poder Judicial de la Federación y sus respectivos
 
 Los Ministros designados conforme al artículo 8°, podrán disfrutar de vacaciones, dentro de los dos primeros meses del período inmediato de sesiones, procurándose que no se interrumpan las labores de las Salas.
 
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
 ###### ARTICULO 79.
 
-Los Magistrados de Circuito y los Jueces de Distrito disfrutarán cada año de dos períodos de vacaciones que (sic) quince días cada uno, en las épocas que determine la Suprema Corte.
+Los Magistrados de Circuito y los Jueces de Distrito disfrutarán cada año de dos períodos de vacaciones de quince días cada uno, en las épocas que determine la Suprema Corte.
 
 ###### ARTICULO 80.
 
@@ -853,9 +905,11 @@ Se establece en el Distrito Federal el Boletín Judicial Federal, en el que se p
 
 El Boletín Judicial Federal dependerá directamente de la Comisión de Gobierno y Administración.
 
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
 ###### ARTICULO 84.
 
-Las vacantes que ocurran en los cargos de Magistrado de Circuito, Juez de Distrito y demás funcionarios del Poder Judicial de la Federación, con excepción de los secretarios adscriptos a los Ministros, serán cubiertos por escalafón, en los términos del artículo siguiente y teniendo en cuenta la capacidad (sic) aptitud de los funcionarios respectivos, la importancia de los servicios de interés general que hayan prestado en el desempeño de sus respectivos cargos, la conducta que hayan observado en el ejercicio de los mismos y, en igualdad de todas las circunstancias anteriores el tiempo que hayan servido a la Nación, sin perjuicio de que, en casos excepcionales, puedan cubrirse las vacantes por personas que, aunque sin prestar sus servicios en el Poder Judicial de la Federación o en el Ministerio Público Federal, sean merecedoras de ello por su honorabilidad, competencia y antecedentes.
+Las vacantes que ocurran en los cargos de Magistrado de Circuito, Juez de Distrito y demás funcionarios del Poder Judicial de la Federación, con excepción de los secretarios adscriptos a los Ministros, serán cubiertas por escalafón, en los términos del artículo siguiente y teniendo en cuenta la capacidad (sic) aptitud de los funcionarios respectivos, la importancia de los servicios de interés general que hayan prestado en el desempeño de sus respectivos cargos, la conducta que hayan observado en el ejercicio de los mismos y, en igualdad de todas las circunstancias anteriores el tiempo que hayan servido a la Nación, sin perjuicio de que, en casos excepcionales, puedan cubrirse las vacantes por personas que, aunque sin prestar sus servicios en el Poder Judicial de la Federación o en el Ministerio Público Federal, sean merecedoras de ello por su honorabilidad, competencia y antecedentes.
 
 ###### ARTICULO 85.
 
@@ -907,15 +961,21 @@ Las notificaciones surtirán sus efectos:
 
 I.- Las comprendidas en la fracción I del artículo 3° transitorio, desde la hora en que se haya entregado el oficio a la autoridad responsable o en que se haya dejado en su oficina, si la autoridad se hubiese negado a recibirlo, cuando la notificación tenga que hacerse en el mismo lugar del juicio; y en el supuesto contrario, pasados los días que invierta el correo en llegar al lugar en que la autoridad resida. En el primer caso, el empleado que entregue o deje el oficio recogerá el recibo o hará constar la negativa de la autoridad en un libro talonario, agregando a los autos la parte principal. En el segundo caso, se mandará el oficio bajo cubierta certificada con acuse de recibo, para agregar éste a los autos luego que se obtenga.
 
-II.- En los casos de las fracciones II, III, IV y V del mismo artículo 3°, al día siguiente de aquel en que se haya hecho la notificación personal, entregado el oficio por el correo, fijada la lista o efectuada la publicación en el Boletín Judicial Federal, respectivamente.
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
+
+II.- En los casos de las fracciones II, III, IV y V del mismo artículo 3°, al día siguiente de aquel en que se haya hecho la notificación personal, entregado el oficio por el correo, fijado la lista o efectuado la publicación en el Boletín Judicial Federal, respectivamente.
+
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
 
 ###### ARTICULO 6°.
 
-Entretanto se expiden los nuevos Códigos Federal de Procedimientos Civiles y de Comercio, las notificaciones que por disposición expresa, no sean personales conforme a los vigentes y que deban hacerse por los tribunales de la Federación, se llevarán a cabo de acuerdo con lo establecido en los artículos 3° fracciones IV y V, y 4° transitorios de esta Ley y surtirán sus efectos en los términos de la fracción II del artículo 5° transitorio.
+Entretanto se expiden los nuevos Códigos Federal de Procedimientos Civiles y de Comercio, las notificaciones que deban hacerse por los tribunales de la Federación, salvo las que por disposición expresa de los Códigos vigentes deban ser personales, se llevarán a cabo de acuerdo con lo establecido en los artículos 3° fracciones IV y V, y 4° transitorios de esta Ley y surtirán sus efectos en los términos de la fracción II del artículo 5° transitorio.
+
+> <small>(F. DE E., D.O. 9 DE NOVIEMBRE DE 1934)</small>
 
 ###### ARTICULO 7°.
 
-Al entrar en vigor la presente Ley, los Juzgados Primero y Segundo de Distrito en el Distrito Federal se convertirán en Primero y Segundo de Distrito en el Distrito Federal en Materia Penal; los Juzgados Tercero y Cuarto, en Primero y Segundo, en el Distrito Federal en Materia Administrativa; y los Quinto y Sexto, en Juzgados Primero y Segundo de Distrito en el Distrito Federal en Materia Civil.
+Al entrar en vigor la presente Ley, los Juzgados Primero y Segundo de Distrito en el Distrito Federal se convertirán en Primero y Segundo de Distrito en el Distrito Federal en Materia Penal; los Juzgados Tercero y Cuarto, en Primero y segundo en el Distrito Federal en Materia Administrativa; y los Quinto y Sexto, en Juzgados Primero y Segundo de Distrito en el Distrito Federal en Materia Civil.
 
 Con excepción de los juicios civiles y penales en que se haya hecho ya la citación para sentencia, todos los demás asuntos serán remitidos por los Jueces, que conforme a esta Ley ya no deban conocer de ellos, al competente del mismo número del que haga la remisión, con simple aviso a la Suprema Corte, tratándose de juicios de amparo.
 
@@ -955,7 +1015,7 @@ Mientras dure el recargo de trabajo en la Suprema Corte de Justica, circunstanci
 
 Se deroga la Ley Orgánica del Poder Judicial de la Federación de 11 de diciembre de 1928 y todas las demás disposiciones que se opongan a la presente.
 
-En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su publicación y observancia, promulgo la presente Ley, en el Palacio del Poder Ejecutivo Federal de la ciudad de México, a los veintisiete días del mes de agosto de mil novecientos treinta y cuatro.- A. L. Rodríguez.-Rúbrica.- El Subsecretario de Gobernación, Encargado del Despacho, Juan G. Cabral.– Rúbrica.- El Secretario de Estado y del Despacho de la Economía Nacional, Primo Villa Michel.- Rúbrica.- Al C. Subsecretario de Gobernación, Encargado del Despacho.- Presente.”
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su publicación y observancia, promulgo la presente Ley, en el Palacio del Poder Ejecutivo Federal de la ciudad de México, a los veintisiete días del mes de agosto de mil novecientos treinta y cuatro.- A. L. Rodríguez.-Rúbrica.- El Subsecretario de Gobernación, Encargado del Despacho, Juan G. Cabral.- Rúbrica.- El Secretario de Estado y del Despacho de la Economía Nacional, Primo Villa Michel.- Rúbrica.- Al C. Subsecretario de Gobernación, Encargado del Despacho.- Presente."
 
 Lo que comunico a usted para su conocimiento y demás fines.
 
