@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1937-07-17"
+last_updated: "1937-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE JULIO DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1937.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -515,9 +515,9 @@ XV. Para computar los votos emitidos en las elecciones de Gobernador y declarar 
 
 XVI. Para conceder licencias y aceptar la renuncia al Gobernador del Estado.
 
-> <small>(REFORMADA, B.O. 4 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1937)</small>
 
-XVII. Para constituirse en Colegio Electoral y elegir al C. que deba substituir al Gobernador en sus faltas absolutas, y en sus faltas temporales cuando éstas excedan de un mes.
+XVII. Para constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador, en sus faltas temporales o absolutas.
 
 > <small>(REFORMADA, B.O. 4 DE AGOSTO DE 1928)</small>
 
@@ -693,15 +693,15 @@ El ciudadano que hubiere sido nombrado en definitiva Gobernador Provisional para
 
 El nombrado Gobernador Provisional durante la primera mitad del período, podrá ser electo por el Congreso como Interino para terminar el período, si dentro de la segunda mitad de éste, vuelve a ocurrir nueva falta absoluta.
 
-> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1937)</small>
 
 ###### Artículo 74.
 
-Cuando la falta de Gobernador fuere por más de un mes, por cualquier causa, el Congreso designará un Gobernador Interino para que funcione mientras dura la falta. Si la falta, de temporal se convierte en absoluta, se procederá como lo dispone el artículo anterior.
+Cuando la falta de Gobernador fuere temporal por cualquier causa, el Congreso si estuviere reunido, o en su defecto la Diputación Permanente, designará un Gobernador, Interino, para que funcione mientras dure la falta. Si la falta, de temporal se convierte en absoluta, se procederá como lo dispone el artículo anterior.
 
-El nombrado Gobernador Interino en el caso de falta temporal no quedará inhabilitado para ser electo en el período inmediato, siempre que no hubiere funcionado dentro del año anterior al de la elección.
+El nombrado Gobernador Interino en el caso de falta temporal, no quedará inhabilitado para ser electo en el período inmediato siempre que no hubiere funcionado dentro del año anterior al de la elección.
 
-El Gobernador Interino, nombrado en definitiva para terminar el período constitucional no podrá ser electo para el período siguiente.
+El Gobernador Interino, nombrado en definitiva para terminar el período constitucional, no podrá ser electo para el período siguiente.
 
 ###### Artículo 75.
 
@@ -717,19 +717,13 @@ El cargo de Gobernador no es renunciable sino por causa grave que calificará el
 
 El Gobernador, al tomar posesión de su encargo, rendirá ante el Congreso o ante la Diputación Permanente en los recesos de aquél, la protesta que previene el Artículo 157 de esta Constitución.
 
-> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1937)</small>
 
 ### CAPÍTULO XVIII. DE LAS DONACIONES PARA AUXILIAR A LA POBLACIÓN
 
 ###### Artículo 78.
 
-El Gobernador no podrá ausentarse de la Capital del Estado por más de diez días, sin permiso del Congreso o de la Diputación Permanente, cuando aquel no estuviere reunido.
-
-El mismo funcionario podrá ausentarse del territorio del Estado hasta por diez días, dando aviso al Congreso del Estado o a la Diputación Permanente, quedando en funciones de Gobernador Interino el Secretario de Gobierno.
-
-Si la ausencia del Gobernador excede de diez días hasta un mes, necesitará permiso del Congreso del Estado o de la Diputación Permanente, de acuerdo con la fracción I del artículo 66, debiendo una vez concedido éste, asumir las funciones de Gobernador Interino el propio Secretario de Gobierno.
-
-Si la ausencia del Gobernador excede de un mes, el Congreso designará quien lo substituya.
+El Gobernador no podrá ausentarse de la Capital por más de diez días, ni salir del territorio del Estado, sin previo permiso del Congreso o de la Diputación Permanente, cuando aquél no esté reunido.
 
 ###### Artículo 79.
 
@@ -1447,7 +1441,7 @@ La presente Constitución será promulgada por bando solemne, en esta Villa, el 
 
 ###### Artículo 2.
 
-Las Leyes, Decretos, Circulares y Disposiciones de observancia general, que se han estado aplicando hasta hoy, continuarán en vigor, en todo aquello en que no contravengan a esta Constitución.
+Las Leyes, Decretos, Circulares y Disposiciones de observancia general que se han estado aplicando hasta hoy, continuarán en vigor, en todo aquello en que no contravengan a esta Constitución.
 
 ###### Artículo 3.
 
@@ -1536,6 +1530,10 @@ B.O. 28 DE ABRIL DE 1934.
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
 B.O. 17 DE JULIO DE 1937.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 29 DE DICIEMBRE DE 1937.
 
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
