@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "1992-07-15"
+last_updated: "1992-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1992.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -1769,9 +1769,11 @@ El uso de una licencia para separarse temporalmente del cargo, no suspende ni ex
 
 Los Magistrados del Supremo Tribunal de Justicia y los Jueces de Primera Instancia del Estado durarán en su encargo tres años, al término de los cuales si los primeros fueren reelectos por el Congreso del Estado y los segundos ratificados por las dos terceras partes del número total de los Magistrados del Supremo Tribunal, serán inamovibles.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1992)</small>
+
 ###### ARTICULO 185.
 
-Los Magistrados y los Jueces Inamovibles, no podrán ser cambiados del lugar u oficina de su adscripción sin su consentimiento expreso.
+Los magistrados inamovibles no podrán ser cambiados de la Oficina de su Adscripción sin su consentimiento expreso.
 
 ###### ARTICULO 186.
 
@@ -2060,3 +2062,9 @@ P.O. 15 DE JULIO DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
