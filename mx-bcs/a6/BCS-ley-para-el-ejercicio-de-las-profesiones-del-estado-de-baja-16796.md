@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-el-ejercicio-de-las-profesiones-del-estado-de-baja-167
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-10"
-last_updated: "2000-07-10"
+last_updated: "2004-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 ENERO DE 2004.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 10 de julio de 2000.
 
@@ -321,13 +321,15 @@ Los profesionistas en el Estado, pueden organizarse y constituirse para el ejerc
 
 Todo profesionista podrá solicitar su incorporación en alguna de las agrupaciones de profesionistas de la rama a que corresponda. Las agrupaciones de profesionistas decidirán sobre su admisión conforme a lo que establezcan sus estatutos.
 
+(REFORMADO, B.O. 31 ENERO DE 2004) (F. DE E., B.O. 17 DEMARZO DE 2004)
+
 ###### Artículo 33.
 
-Por cada licenciatura, Normal, profesional, especialidad, maestría o doctorado, podrán constituirse en el Estado un colegio de profesionistas y una o varias organizaciones civiles con carácter municipal.
+Por cada licenciatura, normal, profesional, especialidad, maestría o doctorado, podrán constituirse en el Estado un colegio de profesionistas y una o varias organizaciones civiles con carácter municipal.
 
-Las agrupaciones de profesionistas a nivel licenciatura, normal, especialidad, maestría o doctorado, adoptarán el nombre que elijan pero que denote la rama profesional de que se trate, cuando se refiera a los colegios de profesionistas de alcance estatal, deberán iniciar con la palabra "colegio" y terminar con "Baja California Sur".
+Las agrupaciones de profesionistas a nivel licenciatura, normal, especialidad, maestría o doctorado, adoptarán el nombre que elijan pero que denote la rama profesional de que se trate, cuando se refiera a los colegios de profesionistas de alcance estatal, deberán iniciar con la palabra "Colegio" y terminar con "Baja California Sur".
 
-No se podrá autorizar que más de una agrupación de profesionistas se ostenten con el mismo nombre o razón social en el Estado, aunque exista la mínima deferencia en el calificativo de su nombre.
+No se podrá autorizar que más de una agrupación de profesionistas se ostenten con el mismo nombre o razón social en el Estado, aunque exista la mínima diferencia en el calificativo de su nombre.
 
 ###### Artículo 34.
 
@@ -418,6 +420,10 @@ XXIII. Efectuar todo aquello que tienda a la superación profesional de sus miem
 ###### Artículo 41.
 
 La Dirección podrá suspender o cancelar el registro de las agrupaciones de profesionistas, mediante resolución debidamente fundada y motivada, cuando éstas incumplan con las leyes, reglamentos y demás disposiciones aplicables; cuando no cumplan con sus estatutos, o por resolución judicial.
+
+(ADICIONADO, B.O. 31 ENERO DE 2004) (F. DE E., B.O. 17 DEMARZO DE 2004)
+
+Para tomar la resolución correspondiente, la Dirección de Profesiones deberá citar a la agrupación profesional de que se trate, haciéndole saber por escrito el inicio del procedimiento respectivo, las imputaciones que se le hacen, las pruebas que existen en su contra, otorgándoles la oportunidad de defensa, así como de aportar pruebas a su favor, en los términos establecidos en la presente Ley el reglamento que para tales efectos se expida.
 
 ### CAPITULO IX. De las Instituciones de Educación Superior; y de los Títulos que expidan
 
@@ -571,7 +577,9 @@ XXIII. Hacer del conocimiento del Ministerio Público de los actos u omisiones q
 
 XXIV. Promover la celebración de convenios de colaboración, instituciones de educación superior, profesional técnica o de enseñanza normal, para efecto de participar en programas de becas y actividades tendientes a lograr la titulación, registro y autorización en forma expedita; y
 
-XXV. Llevar un registro y padrón de los profesionistas extranjeros que ejerzan en el estado, autorizar y vigilar su ejercicio profesional, de acuerdo a nuestras leyes vigentes y a convenios y tratados internacionales;
+(REFORMADA, B.O. 31 ENERO DE 2004) (F. DE E., B.O. 17 DE MARZO DE 2004)
+
+XXV. Supervisar y verificar, mediante un registro estatal, que los profesionistas extranjeros, que ejerzan en el Estado, cumplan cabalmente con las disposiciones legales locales y federales vigentes, así como los convenios y tratados internacionales, debiendo la Dirección de Profesiones informar a la autoridad migratoria que corresponda de los casos irregulares, dictando medidas inmediatas que procedan conforme a las leyes aplicables.
 
 XXVI. Las demás que se encuentren establecidas en esta Ley y su Reglamento y en otras disposiciones legales aplicables.
 
@@ -730,3 +738,21 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 SECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR MANUEL GULUARTE CASTRO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 31 ENERO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+> <small>(F. DE E., B.O. 17 DE MARZO DE 2004)</small>
+
+###### ARTICULO TERCERO.
+
+El Ejecutivo del Estado, deberá instalar el Consejo Consultivo a que se refiere el Artículo 52 de la Ley para el Ejercicio de las Profesiones del Estado de Baja California Sur, así como a través de la Secretaría de Educación Pública, emitir el reglamento a que se refiere el Artículo 41 de la misma ley, en un plazo no mayor de noventa días.
