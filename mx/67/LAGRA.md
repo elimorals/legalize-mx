@@ -4,7 +4,7 @@ identifier: "LAGRA"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-26"
-last_updated: "1992-02-26"
+last_updated: "1993-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAGRA"
 
 LEY AGRARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JULIO DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 26 de febrero de 1992.
 
@@ -1230,9 +1230,13 @@ Los tribunales suplirán la deficiencia de las partes en sus planteamientos de d
 
 Los tribunales agrarios, además, conocerán en la vía de jurisdicción voluntaria de los asuntos no litigiosos que les sean planteados, que requieran la intervención judicial, y proveerán lo necesario para proteger los intereses de los solicitantes.
 
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
 ###### Artículo 166.
 
-Los tribunales agrarios proveerán las diligencias precautorias necesarias para proteger a los interesados. Asi mismo, podrán acordar la suspensión del acto de autoridad en materia agraria que pudiera afectarlos en tanto se resuelve en definitiva. La suspensión se regulará aplicando en lo conducente lo dispuesto en el Libro Primero, Titulo Sexto, Capítulo II del Código Federal de Procedimientos Civiles.
+Los tribunales agrarios proveerán las diligencias precautorias necesarias para proteger a los interesados. Asimismo, podrán acordar la suspensión del acto de autoridad en materia agraria que pudiere afectarlos en tanto se resuelve en definitiva. La suspensión se regulará aplicando en lo conducente lo dispuesto en el Libro Primero, Título Segundo, Capítulo III de la Ley de Amparo.
+
+En la aplicación de las disposiciones de ese ordenamiento para efectos de la suspensión del acto de autoridad en materia agraria, los tribunales agrarios considerarán las condiciones socioeconómicas de los interesados para el establecimiento de la garantía inherente a la reparación del daño e indemnización que pudiere causarse con la suspensión, si la sentencia no fuere favorable para el quejoso.
 
 ###### Artículo 167.
 
@@ -1248,11 +1252,15 @@ Cuando el tribunal agrario recibiere inhibitoria de otro en que se promueva comp
 
 ### Capítulo II. Emplazamientos
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JULIO DE 1993)</small>
+
 ###### Artículo 170.
 
-El actor puede presentar su demanda por escrito o por simple comparecencia, en cuyo caso el Tribunal la formulará por escrito en forma breve y concisa.
+El actor puede presentar su demanda por escrito o por simple comparecencia; en este caso, se solicitará a la Procuraduría Agraria coadyuve en su formulación por escrito de manera concisa. En su actuación, dicho organismo se apegará a los principios de objetividad e imparcialidad debidas.
 
-Recibida la demanda, se emplazará al demandado para que comparezca a contestarla a más tardar durante la audiencia. En el emplazamiento se expresará, por lo menos, el nombre del actor, lo que demanda, la causa de la demanda y la fecha y la hora que se señale para la audiencia, la que deberá tener lugar dentro de un plazo no menor a cinco días ni mayor a diez días, contados a partir de la fecha en que se practique el emplazamiento, y la advertencia de que en dicha audiencia se desahogarán las pruebas.
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+Recibida la demanda, se emplazará al demandado para que comparezca a contestarla a más tardar durante la audiencia. En el emplazamiento se expresará, por lo menos, el nombre del actor, lo que demanda, la causa de la demanda y la fecha y hora que se señale para la audiencia, la que deberá tener lugar dentro de un plazo no menor a cinco ni mayor a diez días, contado a partir de la fecha en que se practique el emplazamiento, y la advertencia de que en dicha audiencia se desahogarán las pruebas, salvo las que no puedan ser inmediatamente desahogadas, en cuyo caso se suspenderá la audiencia y el tribunal proveerá lo necesario para que sean desahogadas, en un plazo de quince días.
 
 Atendiendo a circunstancias especiales de lejanía o apartamiento de las vías de comunicación y otras que hagan difícil el acceso de los interesados al tribunal, se podrá ampliar el plazo para la celebración de la audiencia hasta por quince días más.
 
@@ -1274,6 +1282,30 @@ El secretario o actuario que haga el emplazamiento se cerciorará de que el dema
 
 Cuando no se conociere el lugar en que el demandado viva o tenga el principal asiento de sus negocios, o cuando viviendo o trabajando en un lugar se negaren la o las personas requeridas a recibir el emplazamiento, se podrá hacer la notificación en el lugar donde se encuentre.
 
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+Previa certificación de que no pudo hacerse la notificación personal y habiéndose comprobado fehacientemente que alguna persona no tenga domicilio fijo o se ignore dónde se encuentre y hubiere que emplazarla a juicio o practicar por primera vez en autos una notificación personal, el tribunal acordará que el emplazamiento o la notificación se hagan por edictos que contendrán la resolución que se notifique, en su caso una breve síntesis de la demanda y del emplazamiento y se publicarán por dos veces dentro de un plazo de diez días, en uno de los diarios de mayor circulación en la región en que esté ubicado el inmueble relacionado con el procedimiento agrario y en el periódico oficial del Estado en que se encuentre localizado dicho inmueble, así como en la oficina de la Presidencia Municipal que corresponda y en los estrados del tribunal.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+Las notificaciones practicadas en la forma antes prevista surtirán efectos una vez transcurridos quince días, a partir de la fecha de la última publicación por lo que, cuando se trate de emplazamiento, se deberá tomar en cuenta este plazo al señalar el día para la celebración de la audiencia prevista en el artículo 185.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+Si el interesado no se presenta dentro del plazo antes mencionado, o no comparece a la audiencia de ley, las subsecuentes notificaciones se le harán en los estrados del tribunal.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+Sin perjuicio de realizar las notificaciones en la forma antes señalada, el tribunal podrá, además, hacer uso de otros medios de comunicación masiva, para hacerlas del conocimiento de los interesados.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+Quienes comparezcan ante los tribunales agrarios, en la primera diligencia judicial en que intervengan, o en el primer escrito, deben señalar domicilio ubicado en la población en que tenga su sede el tribunal respectivo, o las oficinas de la autoridad municipal del lugar en que vivan, para que en ese lugar se practiquen las notificaciones que deban ser personales, las que, en caso de que no esté presente el interesado o su representante, se harán por instructivo. En este caso, las notificaciones personales así practicadas surtirán efectos legales plenos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+Cuando no se señale domicilio para recibir notificaciones personales, éstas se harán en los estrados del tribunal.
+
 ###### Artículo 174.
 
 El actor tiene el derecho de acompañar al secretario o actuario que practique el emplazamiento para hacerle las indicaciones que faciliten la entrega.
@@ -1292,9 +1324,11 @@ Los peritos, testigos y, en general, terceros que no constituyan parte pueden se
 
 ### Capítulo III. Del Juicio Agrario
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JULIO DE 1993)</small>
+
 ###### Artículo 178.
 
-La copia de la demanda se entregará al demandado o a la persona con quien se practique el emplazamiento respectivo. El demandado contestará la demanda a más tardar en la audiencia, pudiendo hacerlo por escrito o mediante su comparecencia. En este último caso, el Tribunal deberá formularla por escrito en forma breve y concisa.
+La copia de la demanda se entregará al demandado o a la persona con quien se practique el emplazamiento respectivo. El demandado contestará la demanda a más tardar en la audiencia, pudiendo hacerlo por escrito o mediante su comparecencia. En este último caso, el tribunal solicitará a la Procuraduría Agraria que coadyuve en su formulación por escrito en forma concisa. En su actuación, dicho organismo se apegará a los principios de objetividad e imparcialidad debidas.
 
 En la tramitación del juicio agrario los Tribunales se ajustarán al principio de oralidad, salvo cuando se requiera de constancia escrita o mayor formalidad, o así lo disponga la ley.
 
@@ -1305,6 +1339,10 @@ Será optativo para las partes acudir asesoradas. En caso de que una de las part
 ###### Artículo 180.
 
 Si al ser llamado a contestar la demanda, no estuviere presente el demandado y constare que fue debidamente emplazado, lo cual comprobará el tribunal con especial cuidado, se continuará la audiencia. Cuando se presente durante ella el demandado, continuará ésta con su intervención según el estado en que se halle y no se le admitirá prueba sobre ninguna excepción si no demostrare el impedimento de caso fortuito o fuerza mayor que le impidiera presentarse a contestar la demanda.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+Confesada expresamente la demanda en todas sus partes y explicados sus efectos jurídicos por el magistrado, y cuando la confesión sea verosímil, se encuentre apoyada en otros elementos de prueba y esté apegada a derecho, el tribunal pronunciará sentencia de inmediato; en caso contrario, continuará con el desahogo de la audiencia.
 
 ###### Artículo 181.
 
@@ -1338,7 +1376,13 @@ IV. El magistrado podrá hacer libremente las preguntas que juzgue oportunas a c
 
 V. Si el demandado no compareciere o se rehusara a contestar las preguntas que se le hagan, el tribunal podrá tener por ciertas las afirmaciones de la otra parte, salvo cuando se demuestre que no compareció por caso fortuito o fuerza mayor a juicio del propio tribunal; y
 
-VI. En cualquier estado de la audiencia y en todo caso antes de pronunciar el fallo, el tribunal exhortará a las partes a una composición amigable. Si se lograra la aveniencia, se dará por terminado el juicio y se suscribirá el convenio respectivo. En caso contrario, el tribunal oirá los alegatos de las partes, para lo cual concederá el tiempo necesario a cada una y en seguida pronunciará su fallo en presencia de ellas de una manera clara y sencilla.
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 1993)</small>
+
+VI. En cualquier estado de la audiencia y en todo caso antes de pronunciar el fallo, el tribunal exhortará a las partes a una composición amigable. Si se lograra la aveniencia, se dará por terminado el juicio y se suscribirá el convenio respectivo, el que una vez calificado y, en su caso, aprobado por el tribunal, tendrá el carácter de sentencia. En caso contrario, el tribunal oirá los alegatos de las partes, para lo cual concederá el tiempo necesario a cada una y en seguida pronunciará su fallo en presencia de ellas de una manera clara y sencilla.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+En caso de que la audiencia no estuviere presidida por el magistrado, lo actuado en ella no producirá efecto jurídico alguno.
 
 ###### Artículo 186.
 
@@ -1373,6 +1417,18 @@ Los tribunales agrarios están obligados a proveer a la eficaz e inmediata ejecu
 I. Si al pronunciarse la sentencia estuvieren presentes ambas partes, el tribunal las interrogará acerca de la forma que cada una proponga para la ejecución y procurará que lleguen a un avenimiento a ese respecto; y
 
 II. El vencido en juicio podrá proponer fianza de persona arraigada en el lugar o de institución autorizada para garantizar la obligación que se le impone, y el tribunal, con audiencia de la parte que obtuvo, calificará la fianza o garantía según su arbitrio y si la aceptare podrá conceder un término hasta de quince días para el cumplimiento y aún mayor tiempo si el que obtuvo estuviera conforme con ella. Si transcurrido el plazo no hubiere cumplido, se hará efectiva la fianza o garantía correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+Si existiera alguna imposibilidad material o jurídica para ejecutar una sentencia relativa a tierras de un núcleo de población, la parte que obtuvo sentencia favorable podrá aceptar la superficie efectivamente deslindada, en cuyo caso la sentencia se tendrá por ejecutada, dejándose constancia de tal circunstancia en el acta que levante el actuario.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+En caso de inconformidad con la ejecución de la parte que obtuvo sentencia favorable, se presentarán al actuario los alegatos correspondientes, los que asentará junto con las razones que impidan la ejecución, en el acta circunstanciada que levante.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 1993)</small>
+
+Dentro de los quince días siguientes al levantamiento del acta de ejecución, el tribunal del conocimiento dictará resolución definitiva sobre la ejecución de la sentencia y aprobará el plano definitivo.
 
 ### Capítulo V. Disposiciones Generales
 
@@ -1412,7 +1468,9 @@ Para la facilidad y rapidez en el despacho, los emplazamientos, citatorios, órd
 
 El recurso de revisión en materia agraria procede contra la sentencia de los tribunales agrarios que resuelvan en primera instancia sobre:
 
-I.- Cuestiones relacionadas con los límites de tierras suscitadas entre dos o más núcleos de población ejidales o comunales, o concernientes a límites de las tierras de uno o varios núcleos de población con uno o varios pequeños propietarios o sociedades mercantiles; o
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 1993)</small>
+
+I.- Cuestiones relacionadas con los límites de tierras suscitadas entre dos o más núcleos de población ejidales o comunales, o concernientes a límites de las tierras de uno o varios núcleos de población con uno o varios pequeños propietarios, sociedades o asociaciones;
 
 II.- La tramitación de un juicio agrario que reclame la restitución de tierras ejidales; o
 
@@ -1481,3 +1539,11 @@ De manifestarse las colonias en favor de la adquisición del dominio pleno de su
 México, D.F., a 23 de febrero de 1992.- Dip. María Esther Scherman Leaño, Presidente.- Sen. Víctor Manuel Tinoco Rubí, Presidente.- Dip. Fernando Ordorica Pérez, Secretario.- Sen. Antonio Melgar Aranda, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal a los veintitrés días del mes de febrero de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 9 DE JULIO DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para la resolución de asuntos relativos a ampliación o dotación de tierras, bosques y aguas, y creación de nuevos centros de población, a que se refiere el artículo tercero transitorio del Decreto por el que se reforma el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 6 de enero de 1992, el Tribunal Superior Agrario podrá contar con una Sala Auxiliar, integrada por el mismo número de magistrados y procedimiento para su nombramiento que los que actualmente constituyen el referido Tribunal. El funcionamiento de la Sala Auxiliar se regulará por lo previsto en el Reglamento Interior de los Tribunales Agrarios y su vigencia no podrá exceder del tiempo necesario para la resolución de los asuntos que le sean turnados por el Presidente del Tribunal Superior.
