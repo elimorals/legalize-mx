@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1982-02-27"
+last_updated: "1982-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1982.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -59,13 +59,13 @@ El Estado de Tabasco es parte integrante de los Estados Unidos Mexicanos.
 
 El Territorio del Estado es el que de hecho y por derecho le pertenece.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 3°.
 
 El Estado de Tabasco se integra con los Municipios siguientes:
 
-Balancán, Cárdenas, Centla, Centro, Comalcalco, Cunduacán, Emiliano Zapata, Huimanguillo, Jalapa, Jalpa, Jonuta, Macuspana, Nacajuca, Paraíso, Tacotalpa, Teapa, y Tenosique, con la extensión y límites que de hecho y por derecho les corresponde.
+Balancán, Cárdenas, Centla, Centro, Comalcalco, Cunduacán, Emiliano Zapata, Huimanguillo, Jalapa, Jalpa de Méndez, Jonuta, Macuspana, Nacajuca, Paraíso, Tacotalpa, Teapa, y Tenosique, con la extensión y límites que de hecho y por derecho les corresponde.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -177,6 +177,8 @@ El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judici
 
 ## TITULO III. DEL PODER LEGISLATIVO
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+
 ### CAPITULO III. INSTALACION Y PERIODOS DE SESIONES DEL CONGRESO
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
@@ -234,8 +236,6 @@ Los Diputados al Congreso del Estado no podrán ser reelectos para el período i
 Los Diputados, durante el período de su cargo, no podrán desempeñar, con excepción de los docentes, ninguna comisión ni empleo de la Federación, del Estado o del Municipio, por los cuales se disfrute sueldo, sin previa licencia de la Cámara, en cuyo caso cesarán en sus funciones mientras dure la nueva ocupación.
 
 La infracción de este precepto se castigará con la pérdida del cargo de Diputado.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 18.
 
@@ -368,6 +368,8 @@ Las leyes o decretos aprobados por el Congreso se enviarán al Ejecutivo, quien 
 El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto con sus observaciones al Congreso, quien deberá discutirlo de nuevo y de aprobarlo, lo enviará para su promulgación.
 
 Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras partes de los Diputados presentes, el proyecto tendrá el carácter de ley o decreto y será devuelto al Ejecutivo para su inmediata promulgación.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO VII. CONTADURIA MAYOR DE HACIENDA
 
@@ -1326,3 +1328,13 @@ SEGUNDO.- Toda norma que se oponga a esta reforma y adiciones constitucionales q
 TERCERO.- Estas reformas y adiciones han sido aprobadas en los términos del artículo 83 de la Constitución Política del Estado, por la mayoría de las autoridades que constituyen los Ayuntamientos de esta Entidad Federativa.
 
 CUARTO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE DICIEMBRE DE 1982.
+
+PRIMERO.- Esta reforma ha sido aprobada, en los términos del artículo 83 de la Constitución Política del Estado, por la mayoría de las autoridades que presiden los HH. Ayuntamientos del Estado de Tabasco.
+
+SEGUNDO.- Con la asistencia de los representantes de los Tres Poderes del Estado, los miembros del H. Ayuntamiento Constitucional del Municipio de Jalpa de Méndez, en sesión pública que se efectuará a partir de las doce horas del día veinte de noviembre próximo, deberán colocar la impresión que contenga el texto del presente Decreto, en la Sala de Juntas del Cabildo.
+
+TERCERO.- Para mayor publicidad, promúlguese el presente Decreto por Bando Solemne en la ciudad de JALPA DE MENDEZ, TABASCO, a partir de las nueve horas del día veinte de noviembre del presente año.
+
+CUARTO.- Este Decreto surte sus efectos legales a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
