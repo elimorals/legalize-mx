@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1941-01-18"
+last_updated: "1941-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 1941.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 1941.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -714,7 +714,7 @@ X. Visitar y hacer visitar, cuando lo juzgue conveniente, las Oficinas de Rentas
 
 XI. Remitir al Congreso los antecedentes relativos a delitos oficiales o del orden común cometidos por algún funcionario o empleado que goce fuero constitucional.
 
-XII. Suspender a los ayuntamientos o a los miembros de estos en el ejercicio de sus funciones y tomar en consideración las renuncias de los mismos, dando parte en ambos casos al Congreso o la diputación Permanente, para que resuelva y nombre los substitutos, si fuere necesario.
+XII. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 1941)
 
 XIII. Suspender o distituir (sic) al Procurador General de Justicia del Estado y a los Agentes del Ministerio Público por delitos o faltas que cometan en el desempeño de sus funciones, y ponerlos, cuando proceda a disposición de la autoridad que deba juzgarlos.
 
@@ -1666,7 +1666,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 20 DE ABRIL DE 1938.
 
-EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TEL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 P.O. 15 DE JUNIO DE 1938.
 
@@ -1677,5 +1677,9 @@ P.O. 23 DE DICIEMBRE DE 1939.
 UNICO.- A partir de la vigencia de la presente reforma, el Tribunal Superior de Justicia del Estado procederá a hacer los nombramientos de Jueces Locales Letrados que establezcan las Leyes, de manera que el período del funcionamiento de estos Jueces coincida con el de los de Primera Instancia, aunque por esta vez sea necesario para tal efecto, que se designe un período menor para los Jueces Locales Letrados.
 
 P.O. 18 DE ENERO DE 1941.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 17 DE SEPTIEMBRE DE 1941.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
