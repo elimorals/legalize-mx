@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1965-08-11"
+last_updated: "1967-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE AGOSTO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE FEBRERO DE 1967.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -425,7 +425,9 @@ Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebran
 
 El día trece de Octubre de cada año asistirá el Gobernador a la sesión que en ese día deberá celebrar el Congreso, ante quien rendirá, en el acto, un informe sobre el estado que guarda la Administración Pública en sus diversos ramos.
 
-El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere el día primero de septiembre, en el acto de la toma de posesión del Gobernador electo para el siguiente período.
+> <small>(REFORMADO, B.O. 8 DE FEBRERO DE 1967)</small>
+
+El último año de su ejercicio constitucional el Gobernador rendirá el Informe a que este precepto se refiere, el día 25 de agosto, en sesión especial que para el efecto celebrará el Congreso del Estado.
 
 ###### Artículo 47.
 
@@ -753,11 +755,11 @@ VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cua
 
 Las funciones de Gobernador son incompatibles con cualquier cargo o empleo de la Federación o del Estado.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 8 DE FEBRERO DE 1967)</small>
 
 ###### Artículo 72.
 
-El Gobernador durará en su encargo seis años. Tomará posesión el día primero de septiembre posterior a la elección previa formal protesta ante el Congreso, de guardar y hacer guardar la Constitución General de la República y la presente Constitución, así como las leyes que de ellas emanen y cumplir leal y patrióticamente las obligaciones de su encargo.
+El Gobernador durará en su encargo seis años. Tomará posesión el día 13 de septiembre posterior a la elección, previa formal protesta ante el Congreso de guardar y hacer guardar la Constitución General de la República y la presente Constitución, así como las leyes que de ella emanen y cumplir leal y patrióticamente las obligaciones de su encargo.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1854,6 +1856,20 @@ UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicació
 B.O. 11 DE AGOSTO DE 1965.
 
 UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 8 DE FEBRERO DE 1967.
+
+###### ARTICULO PRIMERO.
+
+Para el presente período gubernamental, que terminará el día 31 de agosto de 1967, el actual Gobernador deberá rendir su último Informe de Gobierno, ante el Congreso del Estado, el día 25 de agosto del mismo año, en sesión especial que para ese efecto se celebre.
+
+###### ARTICULO SEGUNDO.
+
+Por esta sola ocasión, el Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
+
+###### ARTICULO TERCERO.
+
+La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
