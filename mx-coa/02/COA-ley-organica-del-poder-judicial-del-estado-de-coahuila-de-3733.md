@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "1991-01-15"
+last_updated: "1991-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "COA"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
+LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE ENERO DE 1991.]
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -463,11 +461,23 @@ Corresponde conocer a la Primera Sala:
 
 I.- De los recursos de apelación contra sentencias definitivas pronunciadas por los Jueces de Primera Instancia, en materia civil;
 
-II.- En única instancia, de las demandas de responsabilidad civil presentadas contra los magistrados de los Tribunales Unitarios y jueces de Primera Instancia;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1991)</small>
 
-III.- De los recursos de apelación que deba conocer el Tribunal Unitario, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite; y
+II.- De los recursos de Apelación contra resoluciones que se dicten en los asuntos a que se refiere la fracción anterior, que de ser revocadas deban tener como consecuencia que el Tribunal ad quem decida sobre el fondo del negocio;
 
-IV.- De los demás asuntos que le encomienden las leyes.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1991)</small>
+
+III.- En primera instancia de las causas civiles en que el Estado sea parte;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1991)</small>
+
+IV.- En única instancia, de las demandas de responsabilidad civil presentadas contra los Magistrados de los Tribunales Unitarios de Distrito y Jueces de Primera Instancia;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 1991)</small>
+
+V.- De los Recursos de Apelación que deba conocer el Tribunal Unitario de Distrito, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite; y
+
+VI.- De los demás asuntos que le encomienden las leyes.
 
 ###### ARTICULO 23.
 
@@ -581,13 +591,15 @@ Tratándose de Juzgados Penales, éstos conocerán por riguroso turno semanal.
 
 En los Juzgados de Primera Instancia, habrá un juez que será el titular del órgano, el número de Secretarios, Actuarios y empleados que requieran, conforme a las necesidades del servicio y que autorice el Presupuesto de Egresos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 33.
 
-Los jueces de Primera Instancia, en Materia Civil conocerán:
+Los jueces de Primera Instancia en Materia Civil, conocerán:
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1991)</small>
 
-I.- De los asuntos civiles de jurisdicción contenciosa, común y concurrente; excepto si se controvierten cuestiones relacionadas con el patrimonio de familia, en los cuales la competencia corresponde a los jueces de lo Familiar.
+I.- De los asuntos civiles de jurisdicción contenciosa, común y concurrente; excepto los mercantiles que correspondan al conocimiento de un Juez de Conciliación, en los términos de esta Ley y aquéllos en que se controviertan cuestiones relacionadas con el patrimonio de familia, en los cuales la competencia corresponde a los Jueces de lo Familiar.
 
 II.- De los juicios hereditarios y de sus conexidades, así como de las acciones de petición de herencia;
 
@@ -771,7 +783,13 @@ Si no se lograra la conciliación, los jueces emitirán opinión a verdad sabida
 
 En caso contrario, reservarán el derecho a los interesados.
 
-Los convenios celebrados ante los jueces de Conciliación tendrán efecto de sentencia ejecutoriada.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1991)</small>
+
+Los convenios celebrados ante los Jueces de Conciliación tendrán efecto de sentencia ejecutoriada y en caso de que no sea voluntariamente cumplida, será ejecutada por el propio Juez del Conocimiento.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1991)</small>
+
+El Juez de Conciliación cuando sólo exista uno o el Juez Primero de Conciliación, cuando haya varios en la cabecera de los Distritos Judiciales, así como los jueces de conciliación de las cabeceras municipales que satisfagan el requisito previsto en la Fracción V del Artículo 87, conocerá además, dentro de la circunscripción territorial de su municipio, de los Juicios Mercantiles cuya cuantía no exceda de 183 días de salario mínimo general vigente en la fecha y lugar en que se presente la demanda.
 
 II.- Dar aviso al Ministerio Público, de los hechos que se presuman delictuosos ocurridos dentro del territorio en que actúen;
 
@@ -1167,9 +1185,11 @@ El médico y el pedagogo deberán prestar, preferentemente sus servicios, en las
 
 Por cada titular se designará un supernumerario, quien deberá reunir los mismos requisitos que aquel, para suplirlo en sus faltas temporales o en caso de impedimento o excusa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 87.
 
-Para ser designado juez de conciliación, se requiere:
+Para ser designado Juez de Conciliación, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento y coahuilense, en el pleno ejercicio de sus derechos políticos y civiles;
 
@@ -1179,7 +1199,9 @@ III.- Gozar de buena reputación y no haber sido condenado por delito intenciona
 
 IV.- Tener residencia efectiva durante los últimos cinco años, en el lugar donde habrá de ejercerse la función; y
 
-V.- De preferencia, tener conocimientos en materia de derecho.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 1991)</small>
+
+V.- De preferencia, tener conocimientos en Materia de Derecho. El Juez de Conciliación cuando sólo exista uno o el Juez Primero de Conciliación cuando haya varios en la cabecera de los Distritos Judiciales, deberán contar con título de abogado, requisito que también deberán satisfacer, de ser posible, los que se designen en las cabeceras municipales.
 
 ###### ARTICULO 88.
 
@@ -1791,11 +1813,13 @@ IV.- Por destitución, mediante resolución firme.
 
 ## TITULO NOVENO. DEL PROCEDIMIENTO PARA SUPLIR LAS FALTAS TEMPORALES Y ABSOLUTAS DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 165.
 
-Las faltas temporales del Presidente del Tribunal, cuando no excedan de 15 días, serán suplidas por el decano de los magistrados.
+Las faltas temporales de los Presidentes del Tribunal y de las Salas, cuando no excedan de 15 días, serán suplidas por el Magistrado Decano correspondiente.
 
-Si la ausencia del Presidente excede de 15 días, la sustitución se hará por acuerdo del Pleno, y en igual forma se suplirá la ausencia definitiva, en cuyo caso el designado concluirá el período legal correspondiente.
+Si la ausencia excede de 15 días, la sustitución se hará por acuerdo del Pleno, y en igual forma se suplirá la ausencia definitiva, en cuyo caso el designado concluirá el período legal respectivo.
 
 ###### ARTICULO 166.
 
@@ -2613,4 +2637,22 @@ EL SECRETARIO DE GOBIERNO.
 
 LIC. JOSE FUENTES GARCIA.
 
-(RUBRICA).
+(RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE MAYO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+> <small>(F. DE E., P.O. 17 DE ABRIL DE 1992)</small>
+
+###### ARTICULO TERCERO.
+
+Los asuntos de naturaleza mercantil que no rebasen su cuantía a los 182 días de salario mínimo y que se encuentren actualmente en trámite en los juzgados civiles serán resueltos por estos.
