@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-justicia-administrativa-y-del-tribunal-de-lo-5160"
 country: "mx"
 rank: "ley"
 publication_date: "1987-07-07"
-last_updated: "1997-12-12"
+last_updated: "1999-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE JUSTICIA ADMINISTRATIVA Y DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 7 de julio de 1987.
 
@@ -291,7 +291,9 @@ El Magistrado que teniendo impedimento para conocer de un negocio, deje de hacer
 
 Los Magistrados del Tribunal que se consideren impedidos para conocer de algún asunto, harán la manifestación a que se refiere el Artículo anterior, ante la Sala Superior. Esta calificará de plano el impedimento y cuando proceda, se designará la persona que deba substituir al Magistrado impedido.
 
-En caso de que alguno de los Magistrados de la Sala Superior se manifestara impedido, los dos restantes calificarán el impedimento. Si lo admitieren, la Sala procederá a designar a algún Magistrado de las Salas Regionales para que substituya al impedido e integre la Sala Superior en la nueva vista del negocio.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+
+En caso de que alguno de los Magistrados de la Sala Superior se manifestara impedido, los cuatro restantes calificarán el impedimento. Si lo admitieren, la Sala procederá a designar a algún Magistrado de las Salas Regionales para que substituya al impedido e integre la Sala Superior en la nueva vista del negocio.
 
 ### CAPITULO IV. DE LA DEMANDA
 
@@ -819,11 +821,11 @@ Las tesis jurisprudenciales sustentadas por la Sala Superior, así como aquellas
 
 El Tribunal de lo Contencioso Administrativo, es un órgano dotado de plena autonomía para dictar sus fallos, con la organización y competencia que esta Ley establece.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 88.
 
-El Tribunal de lo Contencioso Administrativo se integrará de una Sala Superior con tres Magistrados, por 7 Salas Regionales y Magistrados Supernumerarios, éstos y las Salas Regionales podrán aumentarse cuando el servicio lo requiera, a juicio de la Sala Superior.
+El Tribunal de lo Contencioso Administrativo se integrará de una Sala Superior con cinco Magistrados; por siete Salas Regionales y Magistrados Supernumerarios, éstos y las Salas Regionales podrán aumentarse cuando el servicio lo requiera, a juicio de la Sala Superior.
 
 ###### ARTICULO 89.
 
@@ -1140,3 +1142,13 @@ El presente Decreto entrará en vigor a partir de la fecha de su publicación en
 P.O. 12 DE DICIEMBRE DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ABRIL DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El nombramiento de las personas que ocuparán las dos magistraturas que se crean, se ajustará al procedimiento constitucional establecido, para aprobación del H. Congreso del Estado.
