@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2004-11-09"
+last_updated: "2005-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2005.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -675,7 +675,7 @@ d) Dirección de Servicios Generales, responsable del mantenimiento de los biene
 
 (ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
 
-3. El Secretario General podrá en cualquier momento delegar sus funciones en forma general o especial a sus servidores subalternos, siempre que lo consigne por escrito y con apego a las disposiciones reglamentarias, sin perjuicio de que las ejerza directamente cuando las estime pertinente.
+3. El Secretario General podrá en cualquier momento delegar sus funciones en forma general o especial a sus servidores subalternos, siempre que lo consigne por escrito y con apego a las disposiciones reglamentarias, sin perjuicio de que las ejerza directamente cuando lo estime pertinente.
 
 ###### Artículo 51.
 
@@ -1461,13 +1461,21 @@ VI. Las políticas, planes y programas para la difusión y fortalecimiento de la
 
 ###### Artículo 108.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2005)</small>
 
-1. Las iniciativas y los asuntos turnados a las comisiones deben dictaminarse en un plazo no mayor a sesenta días naturales, contados a partir de la fecha de su recepción, salvo:
+1. Las iniciativas y los asuntos turnados a las comisiones deben dictaminarse en un plazo no mayor a sesenta días naturales, contados a partir de la fecha de su recepción, salvo que:
+
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 I. La iniciativa o asunto requiera, a juicio de la comisión, plazo mayor; caso en el que pueda solicitar a la Asamblea autorice la prórroga para dictaminar, dentro de un plazo no mayor a treinta días naturales seguidos a la concesión, o
 
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
 II. Se trate de juicios políticos o de procedencia de juicio penal, en cuyo caso se regirán por los términos y plazos que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2005)</small>
+
+III.- Se trate de acuerdos legislativos, que se dictaminarán dentro de los treinta días naturales, contados a partir de la fecha de su recepción.
 
 2. Las iniciativas provenientes de los ciudadanos conforme a la fracción V del artículo 28 de la Constitución Política del Estado, que se presenten conforme al procedimiento que señala la ley de la materia, deben ser dictaminadas en el plazo que determina la ley estatal en materia de participación ciudadana.
 
@@ -2562,3 +2570,7 @@ DECRETO NO. 20690 QUE REFORMA DIVERSOS ARTICULOS
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- La Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, deberá presentar en un plazo no mayor a 120 días naturales, la iniciativa de reformas al Reglamentos, de la Ley Orgánica del Poder Legislativo del Estado, que resulten necesarias para adecuarlo al presente decreto.
+
+P.O. 5 DE FEBRERO DE 2005.
+
+UNICO.- El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
