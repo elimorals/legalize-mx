@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-742
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-07-31"
-last_updated: "1991-12-16"
+last_updated: "1992-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1992.
 
 Ley publicada en el Periódico Oficial, el Miércoles 31 de Julio de 1991.
 
@@ -49,13 +49,15 @@ La presente Ley tiene por objeto organizar y regular el funcionamiento de la Adm
 
 El Gobernador del Estado, Titular del Poder Ejecutivo y Jefe de la Administración Pública, tendrá las atribuciones que le señalen: la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León, la presente Ley, y las demás leyes, reglamentos y disposiciones jurídicas vigentes en el Estado.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE1992)</small>
+
 ###### ARTICULO 3o.
 
 Son facultades exclusivas del Ejecutivo:
 
 Proponer en los términos del Artículo 63o., Fracción VIII de la Constitución Política del Estado, la creación de las dependencias necesarias para el despacho de los asuntos de orden administrativo y la eficaz atención de los servicios públicos así como, en su caso, la supresión de las mismas. Dentro de las disposiciones presupuestales de la Ley de Egresos, y con fundamento en la presente Ley, crear y modificar su estructura administrativa.
 
-Asimismo, nombrar y remover libremente a los titulares de las Dependencias a que se refiere el artículo 16 de esta Ley y a otros funcionarios y empleados de confianza, con excepción del Secretario de Finanzas y Tesorero General del Estado, que será propuesto en los términos del artículo 85, Fracción XXIV de la Constitución Política del Estado.
+Asimismo, nombrar y remover libremente a los titulares de las Dependencias a que se refiere el artículo 16 de esta Ley; a los titulares de los organismos y entidades que integran el sector paraestatal y a los demás funcionarios y empleados, observando lo prescrito en la Fracción III del artículo 85 de la Constitución Política Local.
 
 ###### ARTICULO 4o.
 
@@ -77,9 +79,11 @@ Todos los Reglamentos, Decretos, Acuerdos y demás disposiciones que expida el G
 
 El Gobernador del Estado expedirá los Reglamentos interiores, acuerdos, circulares y otras disposiciones que tiendan a regular el funcionamiento de las dependencias del Ejecutivo y autorizará la expedición de los manuales administrativos.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 9o.
 
-Los nombramientos de los servidores públicos los hará el Secretario de Administración, por acuerdo del Ejecutivo del Estado, observando en su caso la Ley del Servicio Civil y demás disposiciones jurídicas vigentes en el Estado.
+Sin perjuicio de lo dispuesto en el tercer párrafo del artículo 3º. de esta ley, el Secretario General de Gobierno expedirá los nombramientos respectivos, por acuerdo del Ejecutivo del Estado, observando en su caso, la Ley del Servicio Civil y demás disposiciones vigentes en el Estado.
 
 ###### ARTICULO 10o.
 
@@ -109,11 +113,11 @@ La. estructura organizacional interna de cada una de las dependencias y de los o
 
 ## TITULO TERCERO. DE LA COMPETENCIA DE LAS DEPENDENCIAS DEL EJECUTIVO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE1992)</small>
 
 ###### ARTICULO 16o.
 
-Para el Estudio y Despacho de los asuntos en los diversos ramos de la Administración Pública Estatal auxiliarán al Titular del Ejecutivo las siguientes dependencias:
+Para el estudio y despacho de los asuntos en los diversos ramos de la administración pública estatal auxiliarán al titular del Ejecutivo las siguientes dependencias:
 
 I.- Secretaría General de Gobierno;
 
@@ -123,7 +127,9 @@ del Estado;
 
 III.- Procuraduría General de Justicia;
 
-IV.- Secretaría de Administración y Presupuesto;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE1992)</small>
+
+IV.- Secretaría de Educación;
 
 V.- Secretaría de Desarrollo Económico;
 
@@ -139,15 +145,15 @@ VIII.- Secretaría de la Contraloría General; y
 
 IX.- Secretaría del Trabajo.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE1992)</small>
 
-Adscritas directamente al Ejecutivo existirán las Unidades de apoyo y asesoría:
+Adscritas directamente al Ejecutivo existirán las siguientes unidades de apoyo y asesoría:
 
-COORDINACIÓN DE PLANEACIÓN Y CONTROL DE GESTIÓN;
+Coordinación para el desarrollo municipal;
 
-COORDINACIÓN PARA EL DESARROLLO MUNICIPAL Y
+Coordinación de comunicación social; y
 
-COORDINACIÓN DE COMUNICACIÓN SOCIAL;
+Coordinación de Administración.
 
 ###### ARTICULO 17o.
 
@@ -261,7 +267,17 @@ XIX.- Recibir, revisar y reclamar, en su caso, las participaciones en impuestos 
 
 XX.- Elaborar los estudios de planeación financiera de las dependencias del Gobierno y de los organismos del sector paraestatal;
 
-XXI.- Las demás que le señales las leyes y reglamentos vigentes.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE1992)</small>
+
+XXI.- Recibir los programas operativos anuales elaborados por las dependencias y entidades de la Administración Publica Estatal y con vista a los mismos, formular el Programa Anual del Gasto Publico;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 1992)</small>
+
+XXII.- Elaborar los programas estatales de Inversión y someterlos al Ejecutivo para su aprobación, observando congruencia con los planes y estrategias de Gobierno; y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 1992)</small>
+
+XXIII.- Las demás que le señalen las leyes reglamentos, y otras disposiciones vigentes.
 
 ###### ARTICULO 19o.
 
@@ -301,59 +317,7 @@ XV.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 20o.
 
-A la secretaría de Administración y Presupuestos le corresponde el despacho de los siguientes asuntos:
-
-I.- Integrar los programas operativos anuales elaborados por las dependencias y entidades de la Administración Pública Estatal y, en coordinación con la Secretaría de Finanzas y Tesorería General del Estado, así como con la Coordinación de Planeación y Control de Gestión, participar en la formulación del Programa Anual del gasto Público y en la definición del Presupuesto de Egresos del Estado;
-
-II.- Dirigir y vigilar el cumplimiento de las leyes y reglamentos en relación a las funciones de recursos humanos, recursos materiales y servicios, así como vigilar la organización y el funcionamiento de las dependencias que ejerzan las atribuciones anteriores;
-
-III.- Tramitar todo lo relativo a nombramientos, promociones, cambios de adscripción, licencias, renuncias, bajas y jubilaciones de los servidores públicos, así como manejar y pagar la nómina estatal, excepto en lo que se previene en el artículo 23, fracción X de esta Ley;
-
-IV.- En coordinación con los titulares de las Secretarías y Coordinaciones, planear y programar la selección, contratación y capacitación del personal y llevar los registros del mismo; controlar su asistencia y vacaciones; otorgar becas y otros estímulos y promover actividades socioculturales y deportivas para los servidores públicos;
-
-V.- Mantener al corriente el escalafón y el tabulador de los trabajadores al servicio del Estado, así como programar los estímulos y recompensas para dicho personal;
-
-VI.- Administrar y regular el otorgamiento y pago de las pensiones;
-
-VII.- Planear y ejecutar programas para introducir a la administración Pública en la cultura de la calidad total;
-
-VIII.- Previa determinación del Titular del Ejecutivo, realizar todos los actos necesarios a fin de coordinar las acciones derivadas del Convenio Unico de Desarrollo celebrado entre el Estado y el Gobierno Federal;
-
-IX.- Programar y realizar las adquisiciones y el suministro de materiales, bienes muebles e inmuebles, equipos y servicios para los fines del Gobierno;
-
-X.- Implementar y mantener actualizado el inventario de los bienes muebles e inmuebles propiedad del estado;
-
-XI.- Programar y prestar los servicios generales a las dependencias del Ejecutivo y proporcionar las bases generales para el suministro de servicios del sector paraestatal;
-
-XII.- Establecer programas para la conservación y el mantenimiento de los bienes muebles e inmuebles del Gobierno del Estado;
-
-XIII.- Para la provisión de los servicios que maneja esta Secretaría, deberán establecerse esquemas descentralizados de administración;
-
-XIV.- Celebrar contratos de arrendamiento que tengan por objeto proporcionar locales a las oficinas gubernamentales y dar las bases generales para los contratos de arrendamiento que con el mismo fin celebren las entidades y organismos del sector paraestatal;
-
-XV.- intervenir en los términos de las leyes de la materia, en la celebración de contratos de compra-venta, comodato, donación y demás en loe que se afecte el patrimonio del Gobierno del Estado;
-
-XVI.- Dirigir y organizar los Talleres Gráficos del Gobierno del Estado;
-
-XVII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 1991) (F. DE E., 25 DE DICIEMBRE DE 1991)
-
-XVIII.- Presidir el Comité de Adquisiciones de la Administración Pública Estatal;
-
-XIX.- Elaborar, en coordinación con la Coordinación de Planeación y Control de Gestión, el Reglamento Interno de la Administración Pública y los de los organismos paraestatales;
-
-XX.- Elaborar, en coordinación con la Coordinación de Planeación y Control de Gestión, los manuales de sistemas y procedimientos de la Administración Pública Estatal y Paraestatal;
-
-XXI.- Llevar el registro del Padrón de contratistas, proveedores y prestadores de servicios de la Administración pública Estatal;
-
-XXII.- Las demás que señalen las leyes y reglamentos.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
-
-XXIII.- Integrar los programas estatales de inversión y someterlos al Ejecutivo para su aprobación, observando su congruencia con los planes y estrategias de Gobierno;
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
-
-XXIV.- Las demás que señalen las Leyes y Reglamentos.
+(DEROGADO, P.O. 3 DE JULIO DE 1992)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 1991)</small>
 
@@ -411,7 +375,9 @@ I.- Diseñar y aplicar planes y programas para el desarrollo urbano, considerand
 
 II.- Aprobar, modificar o rechazar los planes y proyectos de fraccionamientos, conjuntos habitacionales, centros de población y, en general, de uso de espacio y edificaciones y construcción, en los términos de Ley;
 
-III.- Construir y administrar las reservas territoriales públicas, estratégicas, para la vivienda popular, en los equipamientos sociales y el cuidado del ambiente;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE1992)</small>
+
+III.- Conservar y administrar las reservas territoriales publicas estratégicas para el cuidado del medio ambiente;
 
 IV.- Regularizar los asentamientos humanos y urbanizar los que sean susceptibles de ello;
 
@@ -421,11 +387,17 @@ VI.- Proponer, en su caso, ante las autoridades hacendarías competentes, la der
 
 VII.- Realizar los estudios técnicos catastrales.
 
-VIII.- A solicitud de los muncipios, brindar la asesoría técnica, para la formulación de los planes de desarrollo urbano, de equilibrio ecológico, de vivienda y obras públicas, cuya elaboración les competa;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE1992)</small>
 
-IX.- Celebrar convenios de coordinación y asistencia técnica con las entidades y organismos que apoyen los planes de desarrollo urbano, ecológico, de edificación y de vivienda;
+VIII.- Brindar la asesoría técnica que soliciten los municipios, para la formulacion de los planes que les competa elaborar sobre desarrollo urbano, equilibrio ecológico y obras publicas;
 
-X.- Dirigir, coordinar y controlar, la ejecución de los programas de obras públicas, transporte, vialidad , agua y cuidado del ambiente, utilizando las mejores tecnologías disponibles y sistemas de construcción atendiendo los lineamientos de los planes que correspondan;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE1992)</small>
+
+IX.- Celebrar convenios de coordinación y asistencia técnica con las entidades y organismos que apoyen los planes de desarrollo urbano, ecológico, y edificación;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE1992)</small>
+
+X.- Dirigir, coordinar y controlar la ejecución de los programas de obras públicas, transporte, vialidad, agua y cuidado del ambiente, conforme a los lineamientos de cada uno, utilizando las mejores tecnologías y sistemas de construcción disponibles;
 
 XI.- Ejecutar y conservar las obras públicas por sí mismo, por conducto del Gobierno Federal, municipios, organismos descentralizados, empresas de participación estatal o personas físicas o morales de los sectores social y privado;
 
@@ -457,63 +429,87 @@ XXIV.- Apoyar los programas de cuidado del medio ambiente en el ámbito de su co
 
 XXV.- Las que le señalen las demás leyes y reglamentos.
 
-###### ARTICULO 23o.- A.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE1992)</small>
 
-la Secretaría de Desarrollo Social (SIC) le corresponde el despacho de los siguientes asuntos:
+###### ARTICULO 23o.
 
-I.- A partir de un enfoque de calidad total, planear, desarrollar, dirigir y vigilar la educación a cargo del Gobierno del Estado y de los particulares incorporados al Estado, en todos los tipos, niveles y modalidades, así como celebrar los convenios correspondientes para el desarrollo educativo de la Entidad;
+A la Secretaría de Desarrollo Social (SIC) corresponde el despacho de los siguientes asuntos:
 
-II.- Aplicar y vigilar el cumplimiento de las disposiciones que en materia educativa señala la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado, así como las relativas a la Ley Federal y Local de educación y de los Acuerdos del Ejecutivo;
+I.- Coordinar el Sistema Estatal de Salud;
 
-III.- Establecer y aplicar las normas a que debe ajustarse la revalidación de estudios, diplomas, grados y la incorporación de las escuelas particulares, en congruencia con lo que establezca la Ley Estatal de Educación;
+II.- Ejercer las funciones que a las entidades federativas señale la Ley Federal de Salud, así como las que en virtud de convenios, sean descentralizadas por la Secretaria de Salud al Gobierno de Salud al Gobierno del Estado;
 
-IV.- Coordinar con las Universidades e Instituciones de educación superior el servicio social de pasantes, la orientación vocacional y otros aspectos educativos que se acuerden con dichas Instituciones, con absoluto respeto a las políticas educativas de las mismas;
+III.- Proponer al Ejecutivo del Estado, las políticas y los programas de coordinación con las autoridades federales y municipales en materia de salud, prevención especifica y atención medica social;
 
-V.- Promover la creación de institutos de investigación científica y tecnológica, el establecimiento de laboratorios, observatorios, planetarios y demás centros que requiere el desarrollo educativo, social y productivo del Estado;
+IV.- Organizar, controlar y mantener los Centros de Salud que se establezcan en el Estado;
 
-VI.- Otorgar becas para los estudiantes del Estado, de escasos recursos económicos o de más altas calificaciones, en los términos que al efecto se establezcan;
+V.- Realizar campañas tendientes a prevenir y erradicar enfermedades y epidemias en territorio del Estado, coordinándose al efecto con los municipios del mismo;
 
-VII.- Tener a su cargo todo lo relacionado con el registro de profesiones, colegios o asociaciones profesionales, títulos y certificados, conforme a la reglamentación correspondiente;
+VI.- Proponer, programar, difundir, promover y fomentar las políticas y programas relativos a la beneficiencia privada, así como evaluar las acciones y programas de esas instituciones;
 
-VIII.- Crear, por acuerdo del Ejecutivo, las escuelas oficiales del Estado;
+VII.- Proponer al Ejecutivo la supresión de institución de asistencia social que no cumplan con su objeto en los términos de ley, o que carezcan de los recursos suficientes;
 
-IX.- Crear y organizar sistemas de enseñanza especial e integración para niños, adolescentes y jóvenes que lo requieran, para incorporarlos a la vida productiva;
+VIII.- Llevar a cabo en materia de asistencia social, las funciones normativas que establezcan las Leyes;
 
-X.- Establecer un esquema para el desarrollo profesional del personal del sistema educativo estatal; integrar la nómina y mantener actualizados los niveles, puestos, salarios y curriculums y efectuar el pago de los sueldos y salarios que correspondan;
+IX.- Formular, en conjunto con la Coordinación de Administración, los catálogos del patrimonio histórico estatal, de sus monumentos y del acervo pictórico del Estado;
 
-XI.- Coordinar el Sistema Estatal de Salud;
+X.- Organizar y administrar museos históricos, arqueológicos y artísticos, pinacotecas y galerías, a efecto de cuidar la integridad, mantenimiento y conservación de tesoros históricos del patrimonio cultural del Estado;
 
-XII.- Ejercer las funciones que a las entidades federativas señale la Ley Federal de Salud, así como las que en virtud de convenios, sean descentralizadas por la Secretaría de Salud al Gobierno del Estado;
+XI.- Organizar por si misma, o con el apoyo de los sectores privado y social, exposiciones artísticas, ferias, certámenes, concursos, audiciones, representaciones teatrales y exhibiciones científicas de interés cultural;
 
-XIII.- Proponer al Ejecutivo del Estado, las políticas y los programas de coordinación con las autoridades federales y municipales en materia de salud, prevención específica y atención médica social;
+XII.- Organizar y administrar instalaciones deportivas; determinar y organizar la participación oficial del Estado en competencias deportivas, regionales y nacionales, organizar desfiles atléticos y todo genero de eventos deportivos;
 
-XIV.- Organizar, controlar y mantener los Centros de Salud que se establezcan en el Estado;
+XIII.- Planear, diseñar e implementar por si mismo, o en coordinación con instituciones publicas o privadas, la infraestructura humana y material necesario que el deporte de la entidad requiera;
 
-XV.- Realizar campañas tendientes a prevenir y erradicar enfermedades en territorio del Estado, coordinándose al efecto con los municipios del mismo;
+XIV.- Autorizar, previo acuerdo del Gobernador, las modificaciones y reformas a los estatutos de las instituciones de beneficiencia privada o asistencia social, así como el cambio de su objeto social y liquidación;
 
-XVI.- Proponer, programar, difundir, promover y fomentar las políticas y programas relativos a la beneficiencia privada, así como evaluar las acciones y programas de esas instituciones;
+XV.- Promover y gestionar ante los tribunales competentes, el despacho de los asuntos en que tenga interés la beneficiencia privada;
 
-XVII.- Proponer al Ejecutivo la suspensión de instituciones de asistencia social que no cumplan con su objeto en los términos de ley, o que carezcan de los recursos suficientes;
+XVI.- Impulsar y coordinar los programas de concertacion social en proyectos de beneficio para la comunidad;
 
-XVIII.- llevar a cabo en materia de asistencia social, las funciones normativas que establezcan las leyes;
+XVII.- Dirigir, coordinar y controlar la ejecución de los programas de vivienda, utilizando la mejor tecnología disponible;
 
-XIX.- Organizar y desarrollar la educación artística que se imparta en las escuelas e instituciones oficiales e incorporadas, para la enseñanza y difusión de las bellas artes y de las artes populares;
+XVIII.- Construir y administrar las reservas territoriales publicas, estratégicas para la vivienda popular y los equipamiento sociales;
 
-XX.- Formular, en coordinación con la Secretaría de Administración y Presupuesto, los catálogos del patrimonio histórico estatal, de sus monumentos y del acervo pictórico del estado;
+XIX.- Brindar la asesoría técnica que soliciten los municipios, para la formulacion de los planes que les competa elaborar sobre vivienda;
 
-XXI.- Organizar y administrar museos históricos, arqueológicos y artísticos, pinacotecas y galerías, a efecto de cuidar la integridad, mantenimiento y conservación de tesoros históricos del patrimonio cultural del Estado;
+XX.- Celebrar convenios de coordinación y asistencia técnica con las entidades y organismos que apoyen planes de vivienda; y
 
-XXII.- organizar por sí misma, o con el apoyo de los sectores privado y social, exposiciones artísticas, ferias, certámenes, concursos, audiciones, representaciones teatrales y exhibiciones científicas de interés cultural;
+XXI.- Las demás que le señalen las leyes, reglamentos y otras disposiciones vigentes.
 
-XXIII.- Organizar y administrar instalaciones deportivas; determinar y organizar la participación oficial del Estado en competencias deportivas, regionales y nacionales, organizar desfiles atléticos y todo género de eventos deportivos;
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE1992)</small>
 
-XXIV.- Planear, diseñar e implementar por sí mismo, o en coordinación con instituciones públicas o privadas, la infraestructura humana y material necesaria que el deporte de la entidad requiera;
+###### ARTICULO 23o.
 
-XXV.- Autorizar, previo acuerdo del Gobernador, las modificaciones y reformas a los estatutos de las instituciones de beneficiencia privada o asistencia social, así como el cambio de su objeto social y liquidación;
+BIS.- A la Secretaria de Educación le corresponde el despacho de los siguientes asuntos:
 
-XXVI.- Promover y gestionar ante los tribunales competentes, el despacho de los asuntos en que tenga interés la beneficiencia privada;
+I.- A partir de un enfoque de calidad total, planear, desarrollar, dirigir y vigilar la educación a cargo del Gobierno del Estado y de los particulares incorporados al Estado, en todos los tipos, niveles y modalidades, así como celebrar los convenios conducentes al desarrollo educativo de la Entidad, buscando siempre la mas alta participación de la comunidad y la de los padres o tutores de los alumnos;
 
-XXVII.- Las demás que señalen las leyes y reglamentos.
+II.- Aplicar y vigilar el cumplimiento de las disposiciones que en materia educativa contienen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes federal y local de educación, así como los Acuerdos del Ejecutivo;
+
+III.- Promover y desarrollar la edición de libros y demás recursos didácticos; el diseño de recursos y programas informaticos y tecnológicos, para apoyar la educación; así como el establecimiento de bibliotecas y librerías;
+
+IV.- Establecer y aplicar las normas a que debe ajustarse la revalidación de estudios, diplomas, grados y la incorporación de las escuelas particulares, en congruencia con lo que establezca la Ley Estatal de Educación;
+
+V.- Coordinar con las Universidades e Instituciones de educación superior, con absoluto respeto a las políticas educativas de las mismas, el servicio social de pasantes, la orientación vocacional y otros aspectos educativos;
+
+VI.- Promover la creación de institutos de investigación científica y tecnológica, el establecimiento de laboratorios, observatorios, planetarios y demás centros que requiere el desarrollo educativo, social y productivo del Estado;
+
+VII.- Otorgar becas para los estudiantes del Estado, de escasos recursos económicos o de mas altas calificaciones, en los términos que al efecto se establezcan;
+
+VIII.- Tener a su cargo todo lo relacionado con el registro de profesiones, colegios o asociaciones profesionales, títulos y certificados, conforme a la reglamentación correspondiente;
+
+IX.- Crear, por acuerdo del Ejecutivo, las escuelas oficiales del Estado;
+
+X.- Crear y organizar sistemas de enseñanza especial e integración para niños, adolescentes y jóvenes que lo requieran, para incorporarlos a la vida productiva;
+
+XI.- Establecer un esquema para el desarrollo profesional del personal del sistema educativo estatal; integrar la nomina y mantener actualizados los niveles, puestos, salarios y curriculum y efectuar el pago de los sueldos y salarios que correspondan;
+
+XII.- Organizar y desarrollar la educación artística que se imparta en las escuelas e instituciones oficiales e incorporadas, para la enseñanza y difusión de las bellas artes y de las artes populares;
+
+XIII.- Establecer programas de deporte y educación física en los planteles escolares; y
+
+XIV.- Las demás que le señalen las leyes, reglamentos y otras disposiciones vigentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 1991)</small>
 
@@ -567,47 +563,61 @@ V.- Por acuerdo del Ejecutivo, llevar la política laboral del Estado, y
 
 VI.- Las demás que señalen las Leyes y Reglamentos.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE1992)</small>
+
 ###### ARTICULO 25o.
 
-A la Coordinación de Planeación y Control de Gestión corresponde el despacho de los siguientes asuntos:
+A la Coordinación de Administración le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
+I.- Velar por el cumplimiento de las leyes, reglamentos y demás disposiciones aplicables en relación a las funciones de recursos humanos, recursos materiales y servicios, así como coordinar la organización y vigilar el funcionamiento de las dependencias que ejerzan dichas atribuciones;
 
-I.- Formular en coordinación con las dependencias del Ejecutivo las estrategias de Gobierno para el Desarrollo del Estado, proponer al Ejecutivo los criterios de asignación de recursos y evaluar su cumplimiento;
+II.- Tramitar todo lo relativo a nombramientos, promociones, cambios de adscripción, licencias, renuncias, bajas y jubilaciones de los servidores públicos, así como maneja y pagar la nomina estatal, excepto lo previsto en la fracción XI del articulo 23 Bis, de esta Ley;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
+III.- Coordinadamente con los titulares de las Secretarias y Coordinaciones, planear y programar la selección, contratación y capacitación del personal y llevar los registros del mismo; controlar su asistencia y vacaciones; otorgar becas y otros estímulos y promover actividades socioculturales y deportivas para los servidores públicos;
 
-II.- Elaborar los planes regionales y sectoriales de desarrollo;
+IV.- Mantener al corriente el escalafón y el tabulador de los trabajadores al servicio del Estado, así como programar los estímulos y recompensas para dicho personal;
 
-III.- (DEROGADA, P.O. 16 DE DICIEBRE DE 1991)
+V.- Administrar y regular el otorgamiento y pago de las pensiones;
 
-IV.- Coordinar el Sistema Estatal de Planeación del Desarrollo;
+VI.- Programar y realizar las adquisiciones y el suministro de materiales, bienes muebles e inmuebles, equipos y servicios para los fines del Gobierno;
 
-V.- Promover la participación de los sectores social y privado en la formulación de los planes y programas de desarrollo;
+VII.- LLevar el registro de proveedores y prestadores de servicios de la Administración Publica Estatal ;
 
-VI.- Establecer la coordinación de los planes y programas de desarrollo del Gobierno Estatal con los del Gobierno Federal y los de los municipios de la Entidad;
+VIII.- Presidir el Comité de Adquisiciones de la Administración Publica Estatal;
 
-VII.- Establecer las políticas, normas, sistemas y procedimientos para la elaboración de los programas operativos anuales de las dependencias y entidades de la Administración Pública Estatal;
+IX.- Actualizar el inventario de los bienes muebles e inmuebles propiedad del Estado;
 
-VIII.- Integrar, en coordinación con la Secretaría de Finanzas y Tesorería General del Estado y la Secretaría de Administración y Presupuesto, el Anteproyecto Anual del Presupuesto de Egresos;
+X.- Programar y prestar los servicios generales a las dependencias del Ejecutivo y proporcionar las bases generales para el suministro de servicios del sector paraestatal;
 
-IX.- Establecer y operar un sistema de evaluación y control de gestión del funcionamiento de la Administración Pública Estatal;
+XI.- Establecer programas para la conservación y el mantenimiento de los bienes muebles e inmuebles del Gobierno del Estado;
 
-X.- Someter al acuerdo del Ejecutivo, las políticas, estratégicas y programas relativos al desarrollo de la informática en la Administración Pública Estatal;
+XII.- Para la provisión de los servicios deberán establecerse esquemas descentralizados de administración;
 
-XI.- Dictar las normas técnicas y criterios de aplicación a que deba sujetarse la planeación, programación y evaluación de las acciones que en materia de informática, lleven a cabo las dependencias de la Administración Pública Estatal y brindarles la asesoría correspondiente;
+XIII.- Celebrar los contratos de arrendamiento que tengan por objeto proporcionar locales a las oficinas gubernamentales y dar las bases generales para los contratos de arrendamiento que con el mismo fin celebren las entidades y organismos del sector paraestatal;
 
-XII.- Mantener al día el catálogo de sistemas y procedimientos organizacionales y administrativos de las dependencias de la Administración Pública Estatal y realizar los estudios necesarios para su mejoramiento permanente;
+XIV. Intervenir en los términos de las leyes de la materia, en la celebración de contrato de compra-venta, comodato, donación y demás en los que se afecte el patrimonio del Gobierno del Estado
 
-XIII.- Promover la celebración de convenios y acuerdos de asistencia con otros gobiernos, organismos y agencias internacionales, para apoyar los proyectos para el desarrollo del Estado;
+XV.- Dirigir y organizar los Talleres Gráficos del Gobierno del Estado;
 
-XVI.-Planear, dirigir, coordinar y evaluar estudios y programas de modernización administrativa;
+XVI.- Elaborar el Reglamento interno de la Administración Publica y de los organismos paraestatales;
 
-XV.- Dar opinión sobre la creación, modificación o supresión de dependencias de la Administración Pública y de los organismos del sector paraestatal;
+XVII.- Elaborar los manuales de sistemas y procedimientos de la Administración Publica y realizar los estudios necesarios para su mejoramiento continuo;
 
-XVI.- Emitir su opinión sobre los proyectos de leyes, reglamentos, que modifiquen la estructura orgánica del Gobierno y los sistemas y procedimientos administrativos de las dependencias gubernamentales;
+XVIII.- Planear, dirigir, coordinar y evaluar programas de modernización administrativa y calidad total;
 
-XVII.- Las demás que le asigne el Ejecutivo del Estado;
+XIX.- Mantener actualizado el catalogo de sistemas y procedimientos organizacionales y administrativos de las dependencias de la Administración Publica Estatal y realizar los estudios necesarios para su mejoramiento permanente.
+
+XX.- Emitir su opinión sobre la creación, modificación o supresion de dependencias de la Administración Publica y de los organismos del sector paraestatal;
+
+XXI.- Emitir su opinión sobre los proyectos de leyes, reglamentos o cualquiera otra disposición que modifique la estructura orgánica del Gobierno y los sistemas y procedimientos administrativos de las dependencias gubernamentales;
+
+XXII.- .Someter al Ejecutivo las políticas, estrategias y programas relativos al desarrollo de
+
+la informática en la Administración Publica Estatal;
+
+XXIII.- Dictar las normas técnicas y criterios de aplicación a que deba sujetarse la planeación, programación y evaluación de las acciones, que en materia de informática lleven a cabo las dependencias de la Administración Publica Estatal y otorgar la asesoría correspondiente; y
+
+XXIV.- Las demás que le señalen las leyes, reglamentos y otras disposiciones vigentes.
 
 ###### ARTICULO 26o.
 
@@ -774,3 +784,17 @@ P.O. 16 DE DICIEMBRE DE 1991.
 ###### ARTICULO SEGUNDO
 
 - Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 1992.
+
+###### ARTICULO PRIMERO
+
+- Este decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Las atribuciones y demás facultades que otras leyes, reglamentos y disposiciones otorguen a la Secretaria de Administración y Presupuesto en materia administrativa, se entienden conferidas a la Coordinación de Administración y en materia de Presupuesto a la Secretaria de Finanzas y Tesorería General del Estado.
+
+###### ARTICULO TERCERO
+
+- Las atribuciones de la Secretaria de Desarrollo Social en materia educativa, contempladas en otras leyes, reglamentos, acuerdos y disposiciones, se entienden conferidas a la Secretaria de Educación.
