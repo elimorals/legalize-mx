@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2002-12-04"
+last_updated: "2002-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 2002.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -649,11 +649,11 @@ La vigilancia consistirá en ejercer sobre el sentenciado observación y orienta
 
 ### CAPITULO I. Reglas generales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PARRAFO PRIMERO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 51.
 
-Dentro de los límites fijados por la ley, los jueces y tribunales aplicarán las sanciones establecidas para cada delito, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del delincuente. Cuando se trate de punibilidad alternativa el juez podrá imponer, motivando su resolución, la sanción privativa de libertad cuando ello sea ineludible a los fines de justicia, prevención general y prevención especial.
+Dentro de los límites fijados por la ley, los jueces y tribunales aplicarán las sanciones establecidas para cada delito, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del delincuente; particularmente cuando se trate de indígenas se considerarán los usos y costumbres de los pueblos y comunidades a los que pertenezcan.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE ENERO DE 1985)</small>
 
@@ -673,7 +673,9 @@ III.- Las circunstancias de tiempo, lugar, modo u ocasión del hecho realizado;
 
 IV.- La forma y grado de intervención del agente en la comisión del delito, así como su calidad y la de la víctima u ofendido;
 
-V.- La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a un grupo étnico indígena, se tomarán en cuenta, además, sus usos y costumbres;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+V. La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a algún pueblo o comunidad indígena, se tomarán en cuenta, además, sus usos y costumbres;
 
 VI.- El comportamiento posterior del acusado con relación al delito cometido; y
 
@@ -1065,7 +1067,7 @@ I.- El juez o Tribunal, en su caso, al dictar sentencia de condena o en la hipó
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
-a).- Que la condena se refiera a pena de prisión que no exceda de cuatro años;
+a) Que la condena se refiera a pena de prisión que no exceda de cuatro años;
 
 > <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
@@ -1363,6 +1365,8 @@ Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en el juicio s
 
 ### CAPITULO I. Traición a la patria
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ## TITULO SEXTO. De los menores
@@ -1394,6 +1398,8 @@ Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en el juicio s
 > <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO II. Espionaje
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1437,6 +1443,8 @@ XIV.- Acepte del invasor un empleo, cargo o comisión y dicte, acuerde o vote pr
 
 XV.- Cometa, declarada la guerra o rotas las hostilidades, sedición, motín, rebelión, terrorismo, sabotaje o conspiración.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 124.
@@ -1450,6 +1458,8 @@ II.- En caso de una invasión extranjera, contribuya a que en los lugares ocupad
 III.- Acepte del invasor un empleo, cargo o comisión, o al que, en el lugar ocupado, habiéndolo obtenido de manera legítima lo desempeñe en favor del invasor; y
 
 IV.- Con actos no autorizados ni aprobados por el gobierno, provoque una guerra extranjera con México, o exponga a los mexicanos a sufrir por esto, vejaciones o represalias.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1467,6 +1477,8 @@ Se aplicarán las mismas penas a los extranjeros que intervengan en la comisión
 
 ### CAPITULO III. Sedición
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 127.
@@ -1477,11 +1489,15 @@ La misma pena se impondrá al extranjero que en tiempo de paz proporcione, sin a
 
 Se aplicará la pena de prisión de cinco a cuarenta años y multa hasta de cincuenta mil pesos al extranjero que, declarada la guerra o rotas las hostilidades contra México, tenga relación o inteligencia con el enemigo o le proporcione información, instrucciones o documentos o cualquier ayuda que en alguna forma perjudique o pueda perjudicar a la Nación Mexicana.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 128.
 
 Se aplicará la pena de prisión de cinco a veinte años y multa hasta de cincuenta mil pesos, al mexicano que, teniendo en su poder documentos o informaciones confidenciales de un gobierno extranjero, los revele a otro gobierno, si con ello perjudica a la Nación Mexicana.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1492,6 +1508,8 @@ Se impondrá la pena de seis meses a cinco años de prisión y multa hasta de ci
 > <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO IV. Motín
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1505,6 +1523,8 @@ A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a o
 
 ### CAPITULO V. Rebelión
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 131.
@@ -1516,6 +1536,8 @@ A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a o
 > <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO VI. Terrorismo
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1531,6 +1553,8 @@ II.- Reformar, destruir o impedir la integración de las instituciones constituc
 
 III.- Separar o impedir el desempeño de su cargo a alguno de los altos funcionarios de la Federación mencionados en el artículo 2o. de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación, del Distrito Federal y de los Altos Funcionarios de los Estados.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 133.
@@ -1539,11 +1563,15 @@ Las penas señaladas en el artículo anterior se aplicarán al que residiendo en
 
 Al funcionario o empleado público de los Gobiernos Federal o Estatales, o de los Municipios, de organismos públicos descentralizados, de empresas de participación estatal, o de servicios públicos, federales o locales, que teniendo por razón de su cargo documentos o informes de interés estratégico, los proporcione a los rebeldes, se le aplicará pena de cinco a cuarenta años de prisión y multa de cinco mil a cincuenta mil pesos.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 134.
 
 Se aplicará la pena de dos a veinte años de prisión y multa de cinco mil a cincuenta mil pesos a los que, no siendo militares en ejercicio, con violencia y uso de armas, atenten contra el Gobierno de alguno de los Estados de la Federación, contra sus instituciones constitucionales o para lograr la separación de su cargo de alguno de los altos funcionarios del Estado, cuando interviniendo los Poderes de la Unión en la forma prescrita por el artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, los rebeldes no depongan las armas.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1560,6 +1588,8 @@ a) Oculte o auxilie a los espías o exploradores de los rebeldes, sabiendo que l
 b) Mantenga relaciones con los rebeldes, para proporcionarles noticias concernientes a las operaciones militares u otras que les sean útiles.
 
 III.- Voluntariamente sirva un empleo, cargo o comisión en lugar ocupado por los rebeldes, salvo que actúe coaccionado o por razones humanitarias.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1585,6 +1615,8 @@ No se aplicará pena a los que depongan las armas antes de ser tomados prisioner
 
 ### CAPITULO VII. Sabotaje
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 139.
@@ -1596,6 +1628,8 @@ Se aplicará pena de uno a nueve años de prisión y multa hasta de diez mil pes
 > <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO VIII. Conspiración
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1621,6 +1655,8 @@ Se impondrá pena de uno a nueve años de prisión y multa hasta de diez mil pes
 
 ### CAPITULO II. Violación de inmunidad y de neutralidad
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 142.
 
 Al que instigue, incite o invite a la ejecución de los delitos previstos en este Título se le aplicará la misma penalidad señalada para el delito de que se trate, a excepción de lo establecido en el segundo párrafo del artículo 130, en el segundo párrafo del artículo 131 y en la fracción I del artículo 135, que conservan su penalidad específica.
@@ -1640,6 +1676,8 @@ Además de las penas señaladas en este Título, se impondrá a los responsables
 ###### ARTICULO 144.
 
 Se consideran delitos de carácter político los de rebelión, sedición, motín y el de conspiración para cometerlos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -1670,6 +1708,8 @@ III.- Los corsarios que, en caso de guerra entre dos o más naciones, hagan el c
 Se impondrán de quince a treinta años de prisión y decomiso de la nave, a los que pertenezcan a una tripulación pirata.
 
 ### CAPITULO II. Genocidio
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
 
@@ -1798,6 +1838,8 @@ II.- A aquel a quien se hubiere prohibido ir a determinado lugar o a residir en 
 > <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 Si el sentenciado lo fuere por delito grave así calificado por la ley, la sanción antes citada será de uno a cuatro años de prisión.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -1957,6 +1999,8 @@ Asimismo se impondrán de tres a veinte años de prisión y de cien a cuatrocien
 
 Cuando se cometiere por servidor público de alguna corporación policial, cualquiera de los delitos que contemplan este artículo y el 168, se le impondrán, además de las penas señaladas en estos artículos, la destitución del empleo y se le inhabilitará de uno a diez años para desempeñar cargo o comisión públicos. Si quien cometiere los delitos mencionados fuere miembro de las Fuerzas Armadas Mexicanas en situación de retiro, de reserva o en activo, se le impondrá además, la baja definitiva de la Fuerza Armada a que pertenezca y se le inhabilitará de uno a diez años para desempeñar cargo o comisión públicos.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 171.
@@ -1978,6 +2022,8 @@ Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinari
 > <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 ### CAPITULO V. Ultrajes a las insignias nacionales
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 173.
 
@@ -2033,6 +2079,8 @@ Al que desobedeciere el mandato de arraigo domiciliario o la prohibición de aba
 
 El que sin excusa legal se negare a comparecer ante la autoridad a dar su declaración, cuando legalmente se le exija, no será considerado como reo del delito previsto en el artículo anterior, sino cuando insista en su desobediencia después de haber sido apremiado por la autoridad judicial o apercibido por la administrativa, en su caso, para que comparezca a declarar.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 180.
@@ -2087,6 +2135,8 @@ Cuando varias personas de común acuerdo procuren impedir la ejecución de una o
 
 Al que quebrante los sellos puestos por orden de la autoridad pública se le aplicarán de treinta a ciento ochenta jornadas de trabajo en favor de la comunidad.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 188.
 
 Cuando de común acuerdo, quebrantaren las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, pagarán una multa de veinte a doscientos pesos.
@@ -2110,6 +2160,8 @@ Al que cometa un delito en contra de un servidor público o agente de la autorid
 ###### ARTICULO 191.
 
 Al que ultraje el escudo de la República o el pabellón nacional, ya sea de palabra o de obra, se le aplicará de seis meses a cuatro años de prisión o multa de cincuenta a tres mil pesos o ambas sanciones, a juicio del juez.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 192.
 
@@ -2369,6 +2421,8 @@ ARTICULO 201 BIS 3.- Al que promueva, publicite, invite, facilite o gestione por
 
 Las mismas penas se impondrán a quien realice las acciones a que se refiere el párrafo anterior, con el fin de que persona o personas obtengan relaciones sexuales con menores de dieciocho años.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ### CAPITULO III BIS. Desaparición forzada de personas
@@ -2490,6 +2544,8 @@ Cuando alguno de los delitos comprendidos en este artículo se cometa en los sup
 ###### ARTICULO 210.
 
 Se impondrán de treinta a doscientas jornadas de trabajo en favor de la comunidad, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce o ha recibido con motivo de su empleo, cargo o puesto.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 211.
 
@@ -2673,6 +2729,8 @@ Al que cometa el delito de coalición de servidores públicos se le impondrán d
 
 ### CAPITULO II. Falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 217.
@@ -2702,6 +2760,8 @@ Cuando el monto a que asciendan las operaciones a que hace referencia este Artí
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ### CAPITULO IV. Falsificación de documentos en general
 
@@ -2783,7 +2843,7 @@ I.- El servidor público que por sí, o por interpósita persona solicite o reci
 
 II.- El que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva a alguna de las personas que se mencionan en la fracción anterior, para que cualquier servidor público haga u omita un acto justo o injusto relacionado con sus funciones.
 
-Al que comete el delito de cohecho se le impondrán las siguiente sanciones:
+Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
 
 Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
 
@@ -3049,6 +3109,8 @@ TITULO DECIMOSEXTO
 
 Delitos contra el estado civil y bigamia
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 234.
 
 Al que cometa el delito de falsificación de moneda, se le impondrá de cinco a doce años de prisión y hasta quinientos días multa.
@@ -3151,6 +3213,8 @@ IV.- Al que falsifique los punzones, matrices, planchas o cualquier otro objeto 
 
 V.- Al que falsifique las marcas de inspección de pesas y medidas.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 242.
@@ -3173,11 +3237,15 @@ VII.- Al que procurándose los verdaderos sellos, punzones, marcas, etc., haga u
 
 VIII.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones I, II, V y VI de éste.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
 
 ARTICULO 242 bis.- Se impondrá prisión de uno a cinco años y multa de doscientos a dos mil pesos, al que en cualquier forma altere las señales, marcas de sangre o de fuego, que se utilizan para distinguir el ganado, sin autorización de la persona que los tenga legalmente registradas ante la autoridad competente.
 
 ### CAPITULO II. Allanamiento de morada y asalto
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 243.
 
@@ -3653,6 +3721,8 @@ Se aplicará esta misma sanción en caso de incesto entre hermanos.
 
 ### CAPITULO III. Calumnia
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 273.
@@ -3831,9 +3901,13 @@ Al que infiera una lesión que no ponga en peligro la vida del ofendido y tarde 
 
 En estos casos, el delito se perseguirá por querella, salvo en el que contempla el artículo 295, en cuyo caso se perseguirá de oficio.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 290.
 
 Se impondrán de dos a cinco años de prisión y multa de cien a trescientos pesos, al que infiera una lesión que deje al ofendido cicatriz en la cara, perpetuamente notable.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 291.
 
@@ -4043,6 +4117,8 @@ II.- Prohibirles ir a determinado lugar, Municipio, Distrito o Estado, o residir
 
 ### CAPITULO V. Despojo de cosas inmuebles o de aguas
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 323.
@@ -4054,6 +4130,8 @@ Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea 
 (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
 ### CAPITULO VI. Daño en propiedad ajena
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 325.
 
@@ -4176,6 +4254,8 @@ Al que encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a 
 ###### ARTICULO 341.
 
 Al que habiendo atropellado a una persona, culposa o fortuitamente, no le preste auxilio o no solicite la asistencia que requiere, pudiendo hacerlo se le impondrá de quince a sesenta jornadas de trabajo en favor de la comunidad, independientemente de la pena que proceda por el delito que con el atropellamiento se cometa.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -4363,6 +4443,8 @@ Los escritos, estampas, pinturas o cualquiera otra cosa que hubiere servido de m
 
 En tal caso, se hará en el documento una anotación sumaria de la sentencia pronunciada contra el acusado.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 363.
 
 Siempre que sea condenado el responsable de una injuria, de una difamación o de una calumnia, si lo solicita la persona ofendida, se publicará la sentencia en tres periódicos a costa de aquél. Cuando el delito se cometa por medio de un periódico, los dueños, gerentes o directores de éste, tengan o no responsabilidad penal, estarán obligados a publicar el fallo, imponiéndoseles multa de cien pesos por cada día que pase sin hacerlo, después de aquel en que se les notifique la sentencia. El importe de la multa no podrá exceder de diez mil pesos.
@@ -4375,7 +4457,7 @@ Siempre que sea condenado el responsable de una injuria, de una difamación o de
 
 ### CAPÍTULO V. Disposiciones comunes a los delitos contra el ambiente
 
-> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
+(REFOMADO, D.O.F. 6 DE FEBRERO DE 2002)
 
 ###### ARTICULO 364.
 
@@ -4396,6 +4478,8 @@ Si el agente espontáneamente libera a la víctima dentro de los tres días sigu
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 II.- Al que de alguna manera viole, con perjuicio de otro, los derechos y garantías establecidos por la Constitución General de la República en favor de las personas.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 365.
 
@@ -4481,7 +4565,7 @@ En los demás casos en que espontáneamente se libere al secuestrado, sin lograr
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
-ARTICULO 366 BIS.- Se impondrá pena de dos a diez años de prisión y de doscientos a mil días multa, al que en relación con las conductas sancionadas por el artículo anterior y fuera de las causas de exclusión del delito previstas por la ley:
+ARTICULO 366 bis.- Se impondrá pena de dos a diez años de prisión y de doscientos a mil días multa, al que en relación con las conductas sancionadas por el artículo anterior y fuera de las causas de exclusión del delito previstas por la ley:
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
 
@@ -4915,11 +4999,15 @@ ARTICULO 388 bis.- Al que se coloque en estado de insolvencia, con el objeto de 
 
 En caso de quiebra se atenderá a lo previsto por la ley especial.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 389.
 
 Se equipara al delito de fraude y se sancionará con prisión de seis meses a diez años y multa de cuatrocientos a cuatro mil pesos, el valerse del cargo que se ocupe en el gobierno, en una empresa descentralizada o de participación estatal, o en cualquiera agrupación de carácter sindical, o de sus relaciones con los funcionarios o dirigentes de dichos organismos, para obtener dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo, un ascenso o aumento de salario en tales organismos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1972)</small>
 
@@ -6058,3 +6146,7 @@ SEGUNDO.- Los artículos del Título Vigésimo Quinto del Código Penal Federal,
 D.O.F. 4 DE DICIEMBRE DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE DICIEMBRE DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
