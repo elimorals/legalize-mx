@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1990-12-01"
+last_updated: "1992-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE MARZO DE 1992.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1219,37 +1219,41 @@ III. Cuando a solicitud de la Legislatura el Gobierno tenga que informar sobre a
 
 Los Titulares de las Dependencias del Poder Ejecutivo y Empresas Descentralizadas, mientras estén en ejercicio de sus funciones, no podrán desempeñar los oficios de Apoderado o Abogado de negocios ajenos.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 1992)</small>
+
 ###### Artículo 101.
 
-El Tribunal Superior de Justicia, se compondrá de doce Magistrados Numerarios y tres Supernumerarios, los que serán designados en la forma que previenen los artículos 70 Fracción XI Bis y 89 Fracción XXVII de esta Constitución.
+El Tribunal Superior de Justicia se compondrá del número de Magistrados que determine la Ley Orgánica del Poder Judicial, los que serán designados en la forma que previenen los Artículos 70, fracción XI bis y 89, fracción XXVII, de esta Constitución.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 Los Magistrados del Tribunal Superior de Justicia serán inamovibles transcurridos seis años de ejercicio. Sólo podrán ser privados de sus cargos por la Legislatura del Estado, a petición del Ejecutivo, por faltas u omisiones graves en el desempeño de sus funciones; porque observen mala conducta y estén incapacitados física o mentalmente.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+
 La Ley Reglamentaria correlativa determinará las causas de suspensión o cesación de los nombramientos de los Funcionarios Judiciales sujetos a la inamovilidad.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1992)</small>
 
 ###### Art. 102.
 
 Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1939)</small>
+I. Ser ciudadano del Estado, mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
-I.- Ser ciudadano del Estado, mexicano por nacimiento e hijo de mexicanos por nacimiento, en el pleno goce de sus derechos civiles y políticos.
+II. Tener más de treinta y cinco años y menos de sesenta y cinco, el día de la designación;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1947)</small>
+III. Tener título profesional debidamente registrado de Abogado o Licenciado en Derecho, expedido por la autoridad o institución legalmente facultada para ello y haber ejercido dicha profesión, cuando menos cinco años;
 
-II.- Tener más de treinta años de edad.
+IV. Gozar de buena reputación y no haber sido declarado penalmente responsable, mediante sentencia ejecutoriada, de delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama, estará inhabilitado para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1935)</small>
+V. No haber sido sancionado por actos u omisiones que constituyan responsabilidad administrativa, en el desempeño de un cargo público;
 
-III. Poseer título profesional de abogado, expedido por la autoridad o corporación legalmente facultada para ello; y haber ejercido cinco años cuando menos, dicha profesión;
+VI. Haber residido en el Estado los últimos cinco años anteriores a la designación, salvo el caso de ausencia en servicio de la República o del Estado, en cuyo caso su reintegración al Estado deberá ser de al menos seis meses anteriores a la designación; y
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+VII. Estar capacitado física y mentalmente para el desempeño del cargo.
 
-IV.- No haber sido sentenciado ejecutoriamente por delito intencional que amerite pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial.
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
-
-V.- ser de honradez y probidad notoria y estar capacitado física y mentalmente para el desempeño del cargo.
+El nombramiento se otorgará preferentemente a los que hayan sido Jueces de Primera Instancia.
 
 ###### Art. 103.
 
@@ -1267,9 +1271,11 @@ Para cubrir las faltas absolutas de los Magistrados, los substitutos designados 
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 1975)</small>
 
-#### SECCION PRIMERA. DEL EJERCICIO DEL PODER JUDICIAL
+#### SECCION CUARTA. DE LA JUSTICIA ADMINISTRATIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 1982)</small>
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 1992)</small>
+
+Artículo 99 a).- Las Leyes del Estado podrán instituir Tribunales de lo Contencioso Administrativo, dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública estatal o municipal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
 
 ###### Artículo 106.
 
@@ -1285,73 +1291,51 @@ Aunque los Magistrados no se presenten a tomar posesión de sus cargos en el té
 
 El Tribunal Superior de Justicia funcionará en Tribunal Pleno y en Salas, las cuales estarán integradas por tres Magistrados cada una.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1992)</small>
+
 ###### Art. 109.
 
-Corresponde al Tribunal Pleno:
+Corresponde al Pleno del Tribunal Superior de Justicia:
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+I. Iniciar Leyes y Decretos en todo lo relativo a la Administración de Justicia;
 
-I.- Iniciar leyes en todo lo relativo a la Administración de Justicia.
+II. Nombrar a los Jueces y recibir la protesta a que se refiere el Artículo 171, de la presente Constitución;
 
-II.- (DEROGADA, P.O. 30 DE ABRIL DE 1984)
+III. Resolver con arreglo a la Ley Orgánica respectiva, las solicitudes de licencia de los Jueces;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 1982)</small>
+IV. Decretar los ceses y suspensiones de los Jueces;
 
-III.- Nombrar a los Jueces de Primera Instancia y Municipales y recibir la protesta a que se refiere el Artículo 171 de la presente Constitución.
+V. Cambiar la adscripción a los Jueces acordando su traslado, cuando así lo exija la mejor Administración de Justicia;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 1982)</small>
+VI. Determinar el ámbito territorial en el que ejercerán su competencia a los Jueces cuando así se requiera;
 
-IV.- Decretar los ceses de los Jueces de Primera Instancia y Municipales.
+VII. Nombrar a los servidores públicos del Poder Judicial que determine expresamente la Ley Orgánica respectiva y removerlos cuando a su juicio hubiere causa justificada;
 
-V.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
+VIII. Dirimir los conflictos de competencia que se susciten entre las Salas del Tribunal;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+IX. Expedir y en su caso, modificar el Reglamento Interior del Tribunal; y
 
-VI.- Dirimir las competencias de jurisdicción que se susciten ente los Jueces del Estado.
+X. Ejercer las atribuciones que le señalen la Ley Orgánica del Poder Judicial y demás ordenamientos legales.
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
-
-VII.- Elaborar el Reglamento Interior del Tribunal.
-
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 1982)</small>
-
-VIII.- Conceder Licencias a los Jueces de Primera Instancia y Municipales con arreglo a la Ley Orgánica respectiva.
-
-IX. Ejercer las demás atribuciones que le señale la ley orgánica respectiva.
-
-X.- (DEROGADA, P.O. 2 DE OCTUBRE DE 1943)
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1975)</small>
-
-XI.- Remover a los Jueces, acordando su traslado a otro Distrito Judicial, cuando así lo exija el servicio Público, a juicio del Tribunal.
-
-> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1955)</small>
-
-XII.- Nombrar a todos los funcionarios y empleados del Ramo Judicial, a propuesta de los Titulares de las dependencias correspondientes y removerlos cuando a juicio del Tribunal hubiere causa motivada.
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1970)</small>
-
-XIII.- Conocer de los demás asuntos que le confieran las leyes.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1992)</small>
 
 ###### Art. 110.
 
-Corresponde a las Salas del Tribunal Superior de Justicia:
+Corresponde a las Salas del Tribunal Superior de Justicia conocer y resolver:
 
-I. Conocer en segunda Instancia de los negocios y causas que determinen las leyes respectivas;
+I. En segunda instancia, de los asuntos que determinen los ordenamientos legales aplicables;
 
-II. Hacer la revisión de todos los procesos del orden penal que determinen las leyes;
+II. La revisión de todos los procesos del orden penal, que determinen los ordenamientos legales de la materia;
 
-III.- (DEROGADA, P.O. 30 DE ABRIL DE 1984)
+III. Los conflictos de competencia que se susciten entre los jueces del Estado; y
 
-IV.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
+IV. Los demás asuntos que les confieran las Leyes.
 
-V. Conocer de los demás asuntos que les confieran las leyes.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1982)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1992)</small>
 
 ###### Art. 111.
 
-Para el mejor despacho de los asuntos de la Competencia del Tribunal Superior de Justicia, la Primera, Segunda y Tercera Salas Civiles conocerán de los asuntos Civiles y Mercantiles la Primera y Segunda Penales de los asuntos de ese ramo de la competencia del propio Tribunal.
+Para el despacho de los asuntos de la competencia del Tribunal Superior de Justicia, las Salas Civiles conocerán de los asuntos de carácter civil y mercantil; las Salas de lo Familiar de los correspondientes a este ramo; y las Salas Penales de los asuntos de esta materia. El tribunal Superior de Justicia contará, además, con las Salas Auxiliares que determine la Ley Orgánica, que conocerán de los asuntos que expresamente les encomiende el Pleno.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 1982)</small>
 
@@ -1363,33 +1347,15 @@ Todo negocio Judicial sea Penal o del Orden Civil no podrá tener más de dos In
 
 (DEROGADO, P.O. 1 DE ENERO DE 1955)
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1982)</small>
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1992)</small>
 
 ###### Art. 114.
 
-Los Magistrados, Jueces de Primera Instancia y Jueces Municipales están impedidos para el ejercicio de la abogacía y no podrán desempeñar cualquier otro cargo, empleo y comisión oficiales, que sean remunerados e incompatibles con su función.
+Los Magistrados y Jueces estarán impedidos para el ejercicio de la abogacía, salvo en causa propia, en términos de la Ley y no podrán desempeñar ningún otro cargo, empleo o comisión de carácter público, que sea remunerado e incompatible con su función.
 
-#### SECCION TERCERA BIS. DE LOS JUECES MUNICIPALES
+#### SECCION TERCERA. DE LOS JUECES DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1982)</small>
-
-Art. 118 a).- En cada Municipio, la Administración de Justicia estará a cargo de uno o más Funcionarios designados por el Tribunal Superior de Justicia, que se denominarán Jueces Municipales y que durarán en su encargo dos años.
-
-La Ley Orgánica relativa determinará el número de Jueces Municipales que deba haber en cada Municipio.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1982)</small>
-
-Art. 118 b).- Para ser Juez Municipal se requiere:
-
-Ser ciudadano mexicano, mayor de edad, sin antecedentes penales y en ejercicio de sus derechos civiles.
-
-En los casos de Cabeceras Distritales Judiciales o en las poblaciones en que haya más de trescientos mil habitantes, los Jueces Municipales deberán ser Licenciados o Pasantes en Derecho, en la medida que las circunstancias de cada lugar lo permitan.
-
-Art. 118 c).- (DEROGADO, P.O. 13 DE MARZO DE 1982)
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 1982)</small>
-
-Art. 118 d).- Los Jueces Municipales ejercerán sus funciones dentro de los Municipios a que pertenezcan respectivamente y con la competencia que le señale la Ley Orgánica del Poder Judicial y demás Ordenamientos aplicables.
+(REFORMADO, P.O. 30 DE ABRIL DE 1984) (F. DE E., P.O. 30 DE ABRIL DE 1984)
 
 ###### Art. 115.
 
@@ -1411,13 +1377,31 @@ Los Jueces de Primera Instancia, para los efectos de su nombramiento, deberán r
 
 En cada Distrito Judicial habrá un Juez, o los Jueces necesarios de Primera Instancia, que conocerán de los asuntos civiles y penales que correspondan a la jurisdicción de su Distrito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE MARZO DE 1992)</small>
+
+#### SECCION TERCERA BIS. DE LOS JUECES DE CUANTIA MENOR
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1992)</small>
+
+Artículo 118 a).- Los Jueces de Cuantía menor tendrán la competencia que les señale la Ley Orgánica del Poder Judicial y demás ordenamientos aplicables y ejercerán su jurisdicción en el ámbito territorial que determine el Pleno del Tribunal Superior de Justicia, en cada caso.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1992)</small>
+
+Art. 118 b).- Para ser Juez de Cuantía Menor, se requiere:
+
+I. Cumplir con los requisitos establecidos en las fracciones I, IV, V, VI y VII del Artículo 102 , de esta Constitución;
+
+II. Tener menos de sesenta y cinco años del día de su designación; y
+
+III. Ser Abogado o Licenciado en Derecho, con Título legalmente expedido por instituto facultada para ello y registrado por autoridad competente y tener experiencia en el ejercicio de la profesión, de un año como mínimo.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 1992)</small>
+
+Artículo 118 c).- El Tribunal Superior de Justicia nombrará a los Jueces de Cuantía Menor, quienes durarán en su cargo tres años.
+
+Art. 118 d).- (DEROGADO, P.O. 19 DE MARZO DE 1992)
 
 #### SECCION CUARTA. DEL MINISTERIO PUBLICO
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
-
-#### SECCION PRIMERA. DE LA CONSTITUCION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1443,33 +1427,17 @@ Todos los funcionarios del Ministerio Público, constituirán un cuerpo, cuyas r
 
 > <small>(REFORMADO, P.O. 9 MARZO DE 1976)</small>
 
-#### SECCION SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
+#### SECCION PRIMERA. DEL EJERCICIO DEL PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 1982)</small>
-
-###### Art. 101.
-
-El Tribunal Superior de Justicia se compondrá de dieciseis Magistrados los que serán designados en la forma que previenen los Artículos 70 Fracción XI bis y 89 fracción XXVII de esta Constitución.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
-
-Los Magistrados del Tribunal Superior de Justicia serán inamovibles transcurridos seis años de ejercicio. Sólo podrán ser privados de sus cargos por la Legislatura del Estado, a petición del Ejecutivo, por faltas u omisiones graves en el desempeño de sus funciones; porque observen mala conducta y estén incapacitados física o mentalmente.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
-
-La Ley Reglamentaria correlativa determinará las causas de suspensión o cesación de los nombramientos de los Funcionarios Judiciales sujetos a la inamovilidad.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 1992)</small>
 
 ###### Art. 100.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Cuerpo Colegiado que se denominará Tribunal Superior de Justicia, en los Jueces de Primera Instancia y Jueces Municipales.
+Se deposita el ejercicio del Poder Judicial en un Cuerpo Colegiado, que se denominará Tribunal Superior de Justicia del Estado, en los Jueces de Primera Instancia y en los Jueces de Cuantía Menor.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+#### SECCION SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-Las Leyes del Estado podrán instituir Tribunales de lo contencioso-administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Estadual o Municipal y los Particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y las demás instituciones jurídicas necesarias para proveer el alcance de sus objetivos.
-
-#### SECCION TERCERA. DE LOS JUECES DE PRIMERA INSTANCIA
-
-(REFORMADO, P.O. 30 DE ABRIL DE 1984) (F. DE E., P.O. 30 DE ABRIL DE 1984)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE MARZO DE 1992)</small>
 
 ###### Artículo 111.
 
@@ -1497,7 +1465,9 @@ El Tribunal Superior de Justicia nombrará a los Jueces de Primera Instancia, lo
 
 ### CAPITULO SEGUNDO. DE LOS AYUNTAMIENTOS
 
-#### SECCION SEGUNDA. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
+#### SECCION PRIMERA. DE LA CONSTITUCION DE LOS AYUNTAMIENTOS
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
 ###### Art. 135.
 
@@ -1555,7 +1525,7 @@ II. Los Funcionarios y Empleados Públicos dependientes de la Federación.
 
 III. Los Ministros de cualquier culto.
 
-#### SECCION TERCERA. DE LOS PRESIDENTES MUNICIPALES
+#### SECCION SEGUNDA. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
 
 ###### Art. 142.
 
@@ -1631,7 +1601,7 @@ III. Imponer contribuciones que no estén especificadas en su respectiva ley de 
 
 IV. Conceder licencias para juegos de azar.
 
-#### SECCION CUARTA. DEL DESPACHO DE LOS ASUNTOS MUNICIPALES
+#### SECCION TERCERA. DE LOS PRESIDENTES MUNICIPALES
 
 ###### Art. 155.
 
@@ -1649,7 +1619,7 @@ IV.- (DEROGADA, P.O. 4 DE ABRIL DE 1981)
 
 V.- Asumir la representación jurídica del Municipio en los casos señalados por la Ley.
 
-#### SECCION QUINTA
+#### SECCION CUARTA. DEL DESPACHO DE LOS ASUNTOS MUNICIPALES
 
 ###### Art. 156.
 
@@ -1667,7 +1637,7 @@ III. Todas las demás que determinen las respectivas leyes reglamentarias.
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 4 DE ABRIL DE 1981)</small>
 
-#### SECCION SEXTA. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS MUNICIPALES
+#### SECCION QUINTA
 
 ###### Art. 157.
 
@@ -1693,7 +1663,7 @@ III. Todas las demás que determinen las respectivas leyes reglamentarias.
 
 (DEROGADO, P.O. 4 DE ABRIL DE 1981)
 
-#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DEL ESTADO
+#### SECCION SEXTA. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS MUNICIPALES
 
 ###### Art. 163.
 
@@ -1797,7 +1767,7 @@ El desempeño de las funciones de Procurador General, Sub Procurador General, Su
 
 ### CAPITULO SEGUNDO. BASES DE LA ORGANIZACION DE LA HACIENDA PUBLICA DEL ESTADO
 
-#### SECCION SEGUNDA. DIRECCION GENERAL DE HACIENDA
+#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DEL ESTADO
 
 ###### Art. 177.
 
@@ -1811,7 +1781,7 @@ II. De las contribuciones de carácter general que decrete la Legislatura.
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 1 DE ENERO DE 1955)</small>
 
-#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DE LOS MUNICIPIOS
+#### SECCION SEGUNDA. DIRECCION GENERAL DE HACIENDA
 
 ###### Art. 178.
 
@@ -2149,7 +2119,7 @@ G.G. 10 DE NOVIEMBRE DE 1923.
 
 ### CAPITULO TERCERO. BASES DE ORGANIZACIÓN DE LA HACIENDA PUBLICA DE LOS MUNICIPIOS
 
-#### SECCION SEGUNDA. DE LAS TESORERIAS MUNICIPALES
+#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DE LOS MUNICIPIOS
 
 ###### Art. 183.
 
@@ -2166,6 +2136,8 @@ II. De las contribuciones que para cada Municipio decrete la Legislatura.
 III. De otros ingresos que perciban conforme a la Ley.
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 1 DE ENERO DE 1955)</small>
+
+#### SECCION SEGUNDA. DE LAS TESORERIAS MUNICIPALES
 
 ###### Art. 184.
 
@@ -2664,3 +2636,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 P.O. 1 DE DICIEMBRE DE 1990
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
+
+P.O. 19 DE MARZO DE 1992
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
