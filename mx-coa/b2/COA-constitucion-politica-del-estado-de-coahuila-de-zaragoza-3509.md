@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1938-01-12"
+last_updated: "1938-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 1938.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 1938.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -148,7 +148,9 @@ II. Inscribirse en el padrón de su respectivo Municipio, manifestando la propie
 
 III. Contribuir a los gastos públicos del Municipio, del Estado y de la Federación en la forma proporcional y equitativa que dispongan las leyes correspondientes.
 
-IV. Adquirir la educación primaria elemental y hacer que la reciban los menores de edad que estén bajo su potestad o cuidado.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1938)</small>
+
+IV. Adquirir la educación primaria y hacer que la reciban los menores de edad que estén bajo su potestad o cuidado.
 
 V. Cooperar en cuanto les sea posible al engrandecimiento y prosperidad del Estado y a la defensa de la independencia del territorio, la honra, derechos o intereses de la República en general y particular del Estado.
 
@@ -158,7 +160,9 @@ Los habitantes del Estado tienen, además de los derechos concedidos en el Capí
 
 I. A ser amparados y protegidos por las leyes que serán aplicadas con igualdad a todas la personas, siempre que se encuentren colocadas en la misma situación jurídica.
 
-II. A ser instruidos en los establecimientos de enseñanza sostenidos por cuenta de los fondos públicos, cumpliendo con las condiciones que establezcan las leyes respectivas.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1938)</small>
+
+II. A ser educados en los establecimientos de enseñanza sostenidos con los fondos públicos cumpliendo con las obligaciones que establezcan las leyes respectivas.
 
 III. A ejercer el derecho de petición ante las autoridades del Estado debiendo éstas contestar dentro de un plazo máximo de 15 días, contados desde la fecha en que se recibe la petición, siempre que se hagan conforme a la ley y cuando ésta no marque término.
 
@@ -934,6 +938,8 @@ Todo empleado de hacienda que maneje caudales del Estado, otorgará en garantía
 
 De la Instrucción Pública.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1938)</small>
+
 ###### Artículo 108.
 
 La institución del Ministerio Público representa los intereses de la sociedad conforme a las atribuciones que le confiere esta Constitución y demás leyes.
@@ -998,27 +1004,37 @@ Del Gobierno y Administración Interior del Estado.
 
 ###### Artículo 116.
 
-La Instrucción Pública del Estado estará bajo el patronato y vigilancia de la Autoridad; pero la Dirección de este ramo quedará encomendada a un Consejo de Educación, cuyo funcionamiento se regirá en la forma que establezcan las leyes reglamentarias respectivas.
+La educación que imparta el Estado tendrá el carácter que señala el artículo tercero de la Constitución General de la República y será gratuita. La educación primaria será obligatoria y comprenderá seis años.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1938)</small>
 
 ###### Artículo 117.
 
-La enseñanza primaria, tanto oficial como particular será laica y de acuerdo con lo prescrito en el artículo 3º. de la Constitución General de la República.
+El Estado reconoce a la juventud el derecho de que se le complete su educación en instituciones sostenidas con los fondos públicos, sin más limitación que las posibilidades económicas al alcance del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1938)</small>
 
 ###### Artículo 118.
 
-La educación primaria elemental será obligatoria. La que se imparta en los establecimientos oficiales, será además gratuita.
+Sólo el Estado y el Gobierno Federal impartirán educación. El Estado podrá autorizar que la impartan los particulares en los aspectos no controlados por la Federación, siempre que los mismos se ajusten a las normas establecidas por el artículo tercero de la Constitución General de la República.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1938)</small>
 
 ###### Artículo 119.
 
-El Estado tendrá la obligación de establecer o hacer que se establezcan escuelas permanentes en todos los lugares, cuya población escolar pase de quince niños.
+El Estado podrá retirar en cualquier tiempo el reconocimiento de validez oficial a los estudios hechos en los planteles particulares que haya autorizado.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1938)</small>
 
 ###### Artículo 120.
 
-Los profesores de las escuelas no podrán ser removidos de sus puestos, sino por causa justificada, a juicio del Consejo de Educación, o ascenso en el desempeño de sus funciones.
+Es facultad del Estado la formación de planes, programas, métodos y demás condiciones de la función educacional, facultándose al Poder Ejecutivo para la expedición de los ordenamientos respectivos.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1938)</small>
 
 ###### Artículo 121.
 
-Los sueldos y gastos de instrucción pública se pagarán de preferencia sobre los demás, excepción hecha de los destinados a la seguridad del Estado.
+La organización y conducción de la función social educativa, estará a cargo de un Consejo.
 
 ### CAPITULO I.
 
@@ -1625,3 +1641,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 12 DE ENERO DE 1938.
 
 Artículo Transitorio.- Desde la promulgación del presente Decreto desaparecerá la Cuarta Sala del Supremo Tribunal de Justicia del Estado, cuyos asuntos serán encomendados a las tres Salas restantes.
+
+P.O. 26 DE MARZO DE 1938.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
