@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1982-12-27"
+last_updated: "1985-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1985.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -224,11 +224,17 @@ VIII.- Los puentes de carácter provisional y los definitivos de escasa importan
 
 El Gobierno Federal tendrá facultad para construir o establecer vías generales de comunicación por sí mismo o en cooperación con las autoridades locales. La construcción o establecimiento de estas vías podrá encomendarse a particulares, en los términos del artículo 134 de la Constitución Federal.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+
+ARTICUL0 11.- La prestación de los servicios públicos de los sistemas telegráficos, radio-telegráficos y el de correos queda reservada exclusivamente al Gobierno Federal.
+
+También quedan reservados en forma exclusiva al Gobierno Federal, el establecimiento de los sistemas de satélites, su operación y control y la prestación de servicios de conducción de señales por satélite, así como las estaciones terrenas con enlaces internacionales para comunicación vía satélite.
+
+La instalación, operación y control de estaciones terrenas para la recepción de señales por satélite, y el aprovechamiento de éstas se llevarán a cabo conforme a las bases que para tal efecto fije la Secretaría de Comunicaciones y Transportes, de acuerdo con esta Ley y sus reglamentos.
+
 ###### ARTICULO 11.
 
-La prestación de los servicios públicos de los sistemas telegráficos y radiotelegráficos queda reservada exclusivamente el Gobierno Federal.
-
-En también monopolio del Gobierno Federal, la explotación del servicio público de correos, conforme a las bases del artículo 443 de esta ley.
+Queda abrogada la Ley para el Servicio de Practicaje en los puertos, ríos, canales, lagos y lagunas de la República, de 7 de enero de 1925. El Ejecutivo Federal expedirá desde luego el Reglamento del Capítulo IX del Libro 3º de esta Ley.
 
 ###### ARTICULO 12.
 
@@ -272,11 +278,11 @@ Cualquiera operación que se hiciere contra lo preceptuado en este artículo, se
 
 Las acciones, obligaciones o bonos emitidos por las empresas de vías generales de comunicación y medios de transporte que fueren adquiridos por un Gobierno o Estado extranjeros, desde el momento de la adquisición quedará sin efecto ni valor alguno para el tenedor de ellos.
 
-> <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1944)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 20.
 
-En las concesiones se fijarán las bases a que deben sujetarse las empresas de vías generales de comunicación, para establecer las tarifas de los servicios que prestan al público. Con sujeción a dichas bases, la Secretaría de Comunicaciones y Obras Públicas podrá modificar las tarifas, cuando el interés público lo exija, oyendo previamente a las empresas afectadas y siempre que al hacerlo, no se comprometa la costeabilidad misma de la explotación. Cuando las empresas interesadas lo soliciten, y siempre que justifiquen ampliamente la necesidad de la medida, la propia Secretaría de Comunicaciones y Obras Públicas podrá modificar las tarifas rebasando los tipos máximos que para el efecto se hayan señalado en las concesiones.
+En las concesiones se fijarán las bases a que deben sujetarse los prestadores de servicios de vías generales de comunicación, para establecer las tarifas de los servicios que prestan al público. Con sujeción a dichas bases, la Secretaría de Comunicaciones y Transportes podrá modificar las tarifas cuando el interés público lo exija, oyendo previamente a los prestadores del servicio afectados, siempre que al hacerlo no se comprometa la costeabilidad misma de la explotación. Cuando los prestadores de los servicios lo soliciten, y siempre que justifiquen ampliamente la necesidad de la medida, la propia Secretaría podrá modificar las tarifas.
 
 ### CAPITULO IV. Derechos de expropiación, uso de bienes nacionales y otras franquicias
 
@@ -504,7 +510,15 @@ No deberá explotarse una vía general de comunicación, objeto de concesión o 
 
 Llenados los requisitos exigidos para la explotación, se otorgará desde luego la autorización para su funcionamiento.
 
-> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1941)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+
+ARTlCULO 49.- Compete exclusivamente a la Secretaría de Comunicaciones y Transportes el estudio y aprobación, revisión, modificación, cancelación o registro, en su caso, de itinerarios, horarios, reglamentos de servicio, tarifas y sus elementos de aplicación, y de los demás documentos que los prestadores de servicios de vías generales de comunicación sometan a su estudio, en cumplimiento de esta ley y de sus reglamentos. Sólo podrán intervenir otras autoridades en dichos estudios, cuando la Secretaría de Comunicaciones y Transportes lo solicite.
+
+Para los efectos de este artículo se integrará una comisión consultiva de tarifas, en los términos del reglamento respectivo. Para la aprobación de las tarifas definitivas y sus reglas de aplicación, se escuchará previamente la opinión de esta comisión.
+
+La Secretaría de Comunicaciones y Transportes podrá fijar tarifas provisionales, que estarán vigentes durante noventa días naturales.
+
+Al concluir este plazo, si no se han fijado las nuevas tarifas se reanudará la vigencia de las anteriores a las provisionales.
 
 ###### ARTICULO 49.
 
@@ -564,7 +578,9 @@ I.- Las tarifas y los elementos de su aplicación, como tablas de distancias, cl
 
 II.- Las tarifas se formularán y aplicarán observando perfecta igualdad de tratamiento, excepto en los casos en que esta ley autorice lo contrario.
 
-III.- Las tarifas y sus modificaciones comenzarán a regir después de ser aprobadas por la Secretaría de Comunicaciones, y pasados treinta días de su publicación, si se alteran las cuotas o las condiciones en el sentido de la alza, y hasta quince días, si la alteración es en el sentido de la baja.
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
+
+III.- Las tarifas y sus modificaciones entratán (sic) en vigor una vez aprobadas o registradas en la fecha que expresamente señale la Secretaría de Comunicaciones y Transportes. La propia Secretaría ordenará los casos en que por su importancia las tarifas deban ser publicadas en el Diario Oficial de la Federación.
 
 Cuando se trate de tarifas unidas con líneas extranjeras, la Secretaría, de acuerdo con las empresas, modificarán los plazos señalados en el párrafo anterior.
 
@@ -668,9 +684,11 @@ Las empresas de transportes están obligadas a suministrar oportuna y preferente
 
 Ninguna autoridad administrativa podrá impedir o dificultar el cumplimiento de las obligaciones relativas a la ejecución de los servicios públicos que esta ley y sus reglamentos imponen a las empresas de vías generales de comunicación, ni limitar la jurisdicción de la Secretaría de Comunicaciones en esta materia, excepto en los casos a que se refiere el Código Sanitario vigente, cuando se trate de la acción extraordinaria que en materia de salubridad debe ejercer el propio Departamento.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+
 ###### ARTICULO 66.
 
-Al recibir mercancías para su transporte, las empresas porteadoras extenderán al remitente una carta de porte o conocimiento, en los términos que establezcan esta ley y sus reglamentos o, en su defecto, las disposiciones del Código de Comercio.
+En el momento de la contratación del servicio correspondiente, los prestadores de servicios de vías generales de comunicación expedirán a los usuarios, carta de porte, conocimiento de embarque, boleto, factura o documento similar que contengan las condiciones en que se prestará el servicio, de conformidad con lo dispuesto por esta ley y sus reglamentos.
 
 ###### ARTICULO 67.
 
@@ -1060,37 +1078,37 @@ Los concesionarios o permisionarios de servicios de transportes federales, está
 
 La infracción al presente artículo, será sancionada por la Secretaría de Comunicaciones y Transportes en los términos de esta Ley, sus reglamentos y las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
-###### Artículo 127.
+###### ARTICULO 127.
 
-Los concesionarios o permisionarios de servicios públicos de transporte de pasajeros en las vías generales de comunicación están obligados a asegurar a los viajeros y a sus pertenencias de los riesgos que puedan sufrir con motivo de la prestación del servicio. El seguro que al efecto se establezca cubre cualquier responsabilidad objetiva, del transportista y amparará los daños y perjuicios causados al viajero en su persona y en su equipaje y demás objetos de su propiedad o posesión que se registren en el momento de abordar el transporte.
+Los concesionarios o permisionarios de servicios públicos de transporte de pasajeros en las vías generales de comunicación, están obligados a proteger a los viajeros y sus pertenencias, de los riesgos que pueden sufrir con motivo de la prestación del servicio. La protección que al efecto se establezca, deberá ser suficiente para cubrir cualquier responsabilidad objetiva del transportista y amparará los daños y perjuicios causados al viajero en su persona o en su equipaje y demás objetos de su propiedad o posesión, que se registren desde que aborde hasta que descienda del vehículo.
 
-La Secretaría de Comunicaciones y Transportes vigilará que las pólizas del seguro cubran todos los riesgos relativos.
+La protección de referencia podrán efectuarla los concesionarios o permisionarios por medio de un contrato de seguro o mediante la constitución de un fondo de garantía sujeto al cumplimiento de los requisitos, modalidades y disposiciones que en cada caso dicte la Secretaría de Comunicaciones y Transportes, quien vigilará que se cubran los riesgos relativos.
 
 Las empresas y personas físicas autorizadas por los gobiernos de los Estados y del Distrito Federal para operar el transporte público de pasajeros sólo podrán prestar el servicio y transitar en las vías de jurisdicción federal en los términos de esta Ley, si previamente han garantizado su responsabilidad por los riesgos que puedan sufrir los viajeros que transporten.
 
-El monto de la prima del Seguro del Viajero quedará comprendida dentro del importe de la tarifa del transporte.
+El monto de la prima del seguro o la cantidad que deba destinarse a la constitución del fondo de garantía según el caso, quedarán comprendidos dentro del importe de las tarifas de transporte.
 
-La indemnización por la pérdida de la vida del asegurado será por la cantidad mínima de cien mil pesos, y se pagará a sus herederos legales. La Secretaría de Comunicaciones y Transportes fijará cada dos años, dentro de los primeros 15 días del mes de enero, la cantidad por la que deba asegurarse a cada viajero, así como el monto de la indemnización que deba percibirse de acuerdo con las incapacidades y lesiones que se causaren y los daños que resienta en sus pertenencias, teniendo en cuenta para ello las condiciones de la economía nacional.
+La indemnización por la pérdida de la vida del pasajero será por una cantidad mínima equivalente a setecientas treinta veces el salario mínimo vigente en el Distrito Federal, y se pagará a sus herederos legales. La Secretaría de Comunicaciones y Transportes fijará, dentro de los primeros quince días del mes de enero, la cantidad por la que deba protegerse a cada viajero, así como el monto de la indemnización que deba percibirse de acuerdo con las incapacidades y lesiones que se causaren y los daños que resienta en sus pertenencias.
 
-El seguro a que tienen derecho los viajeros deberá cubrir totalmente por un período que no exceda de 90 días, los gastos que se originen por la asistencia médica, la hospitalización y los aparatos de prótesis y ortopedia, pero no podrán exceder del monto que corresponda a la indemnización por muerte.
+La indemnización por concepto de lesiones a que tienen derecho los viajeros, deberá cubrir totalmente los pagos que se originen por la asistencia médica, la hospitalización y los aparatos de prótesis y ortopedia, pero no podrán exceder del monto que corresponda a la indemnización por muerte.
 
-Mientras dure la inhabilitación, antes de que sea declarada la incapacidad, el viajero tendrá derecho al pago del salario mínimo vigente en la zona donde la victima del accidente preste sus servicios, o en caso de cesantía donde éste resida, que se cubrirá íntegro el primer día hábil de cada semana.
+Mientras dure la inhabilitación, antes de que sea declarada la incapacidad, el pasajero tendrá derecho al pago del salario mínimo vigente en la zona donde la víctima del accidente preste sus servicios, o en caso de cesantía donde ésta resida, que se cubrirá íntegro el primer día hábil de cada semana.
 
 Al declararse la incapacidad permanente, si resulta total, se concederá al accidentado como pago por rehabilitación, la indemnización que corresponda a muerte.
 
 La Secretaría de Comunicaciones y Transportes dispondrá administrativamente lo conducente para fijar el monto de las indemnizaciones, produzcan o no incapacidad parcial.
 
-Los aparatos de prótesis que requiera el viajero para su rehabilitación, serán cubiertos por la Aseguradora en un plazo no mayor de 30 días, contados a partir de la notificación al obligado, de la prescripción médica que determine el uso de tales aparatos. El pago por cualquier indemnización se hará en un plazo no mayor de treinta días.
+Los aparatos de prótesis que requiera el viajero para su rehabilitación, serán cubiertos por la aseguradora o por el prestador de servicio, en el plazo que fije la autoridad médica competente. El pago por cualquier indemnización se hará en un plazo no mayor de treinta días.
 
-Los viajeros que hagan uso de pases para transportarse gratuitamente o los que estén exentos del pago del transporte, pagarán en efectivo la prima correspondiente del seguro para tener derecho a sus beneficios. En caso contrario, el transportista será responsable de esta omisión.
+Los viajeros que hagan uso de pases para transportarse gratuitamente o los que estén exentos del pago del transporte, pagarán en efectivo la cantidad correspondiente para que puedan disfrutar de los beneficios del seguro o del fondo de garantía. La falta de pago de esta cantidad, se considerará imputable al transportista.
 
-Cuando se trate de viajes internacionales, se aplicará la prima del seguro únicamente por lo que corresponda al recorrido en territorio nacional, pero si se viaja por transporte de matrícula nacional el viajero estará amparado hasta el lugar de su destino.
+Cuando se trate de viajes internacionales, se aplicará la protección únicamente por lo que corresponda al recorrido en territorio nacional, pero si se viaja por transporte de matrícula nacional el viajero estará amparado hasta el lugar de su destino.
 
-Los transportistas que incumplan la obligación de asegurar a los viajeros, independientemente de las sanciones a que se hicieran acreedores por esta omisión, deberán pagar las indemnizaciones correspondientes en los términos establecidos en este precepto. La Secretaría de Comunicaciones y Transportes podrá garantizar con bienes propiedad de los responsables el cumplimiento de estas disposiciones.
+Los transportistas que incumplan la obligación de proteger a los viajeros, independientemente de las sanciones a que se hicieran acreedores por esta omisión deberán pagar las indemnizaciones correspondientes en los términos establecidos en este precepto. La Secretaría de Comunicaciones y Transportes vigilará que los responsables garanticen con bienes de su propiedad el cumplimiento de estas disposiciones.
 
-La Secretaría de Comunicaciones y Transportes resolverá administrativamente todas las controversias que se originen en relación con el seguro del viajero, sin perjuicio de las facultades que correspondan a la Comisión Nacional Bancaria y de Seguros y a otras autoridades.
+La Secretaría de Comunicaciones y Transportes resolverá administrativamente todas las controversias que se originen en relación con el seguro del viajero o con el fondo de garantía, sin perjuicio de las facultades que correspondan a la Comisión Nacional Bancaria y de Seguros y a otras autoridades.
 
 ###### ARTICULO 128.
 
@@ -5000,7 +5018,7 @@ Se suspenderán hasta por seis meses las licencias del personal técnico aeroná
 
 La Secretaría de Comunicaciones revocará las licencias del personal aeronáutico cuando a su juicio y por contumacia, así lo merezcan.
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 565.
 
@@ -5449,3 +5467,13 @@ A las personas que a la fecha de entrada en vigor de este Decreto hayan obtenido
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE ENERO DE 1985.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Mientras se expiden los reglamentos relativos a los artículos 11 y 127 que se reforman, seguirán aplicándose las disposiciones administrativas que se hubieren expedido en relación con dichos preceptos.
