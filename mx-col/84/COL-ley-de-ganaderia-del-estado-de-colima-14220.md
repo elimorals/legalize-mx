@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ganaderia-del-estado-de-colima-14220"
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-10"
-last_updated: "1999-04-10"
+last_updated: "2002-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14220&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE GANADERIA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2002.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 10 de abril de 1999.
 
@@ -92,6 +92,10 @@ g) Secretaría, a la Secretaría de Desarrollo Rural.
 h) Programa Estatal, al Programa Estatal de Desarrollo Pecuario.
 
 i) Unión, a la Unión Ganadera Regional.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2002)</small>
+
+j) Secretaría de Agricultura y Ganadería, a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 ###### ARTICULO 6º.
 
@@ -179,7 +183,9 @@ I.- Elaborar, ejecutar, coordinar y evaluar el Programa Estatal de Desarrollo Pe
 
 II.- Coordinar y controlar las actividades pecuarias, conforme las disposiciones de esta ley y las Previsiones del Programa Estatal;
 
-III.- Establecer y mantener actualizado el registro de organizaciones que fomenten y protejan la actividad pecuaria en la Entidad;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2002)</small>
+
+III.- Establecer y mantener actualizado el registro de organizaciones que fomenten y protejan la actividad pecuaria en la entidad, con la participación de los municipios;
 
 IV.- Colaborar con las dependencias de la Administración Pública Federal, en la aplicación dentro del Estado de la legislación de la materia;
 
@@ -203,7 +209,15 @@ XIII.- Nombrar a los inspectores y auxiliares de los rastros municipales;
 
 XIV.- Aplicar las sanciones establecidas por esta Ley y su Reglamento, por las infracciones que se denuncien, comunicando a la Secretaría de Finanzas las multas que imponga para su liquidación y ejecución en su caso;
 
-XV.- Las demás que le otorgue esta Ley, su reglamento, los convenios o acuerdos que celebre el titular del Poder Ejecutivo del Estado y demás disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2002)</small>
+
+XV.- Promover la creación de granjas pecuarias de acuerdo con las necesidades de la ganadería local, en las regiones que estime conveniente, en coordinación con el gobierno federal y los productores;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2002)</small>
+
+XVI.- Llevar la estadística del registro o inventario ganadero, así como de la infraestructura pecuaria existente; y
+
+XVII.- Las demás que le otorgue esta Ley, su reglamento, los convenios o acuerdos que celebre el titular del Poder Ejecutivo del Estado y demás disposiciones legales aplicables.
 
 ###### ARTICULO 19.
 
@@ -273,11 +287,13 @@ Corresponde a los Ayuntamientos, expedir las credenciales de identificación a l
 
 Los Médicos Veterinarios Zootecnistas, Ingenieros Agrónomos Zootecnistas, Técnicos Pecuarios y otros profesionistas legalmente titulados, que deseen ejercer su profesión en el Estado de Colima, sin perjuicio de los requisitos que para ello les sean exigidos por otras dependencias oficiales, deberán manifestarlo así al Gobierno del Estado, quien por conducto de la Secretaría, llevará un registro de dichos profesionistas.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 29.
 
-El ejercicio de las profesiones a que se refiere el artículo anterior será libre; pero, estarán obligados a notificar a la Secretaría y a la Secretaría de Agricultura, Ganadería y Desarrollo Rural, los casos de enfermedades transmisibles que hayan atendido y las vacunas que hubieren aplicado contra alguna enfermedad en especial, especificando el número de cabezas enfermas o vacunadas, el número de defunciones, clase de producto empleado y enfermedad contra la que se haya aplicado el tratamiento preventivo.
+El ejercicio de las profesiones a que se refiere el artículo anterior será libre; pero estarán obligados a notificar a la Secretaría y a la Secretaría de Agricultura y Ganadería, los casos de enfermedades transmisibles que hayan atendido y la vacunas que hubieran aplicado contra alguna enfermedad en especial, especificando el número de cabezas enfermas o vacunadas, el número de defunciones, clase de producto empleado y enfermedad contra la que se haya aplicado el tratamiento preventivo.
 
-Los Médicos Veterinarios Zootecnistas, deberán contar con autorización expresa de la Secretaría de Agricultura, Ganadería y Desarrollo Rural, para la expedición de certificados zoosanitarios y de movilización de productos y subproductos de origen animal.
+Los médicos veterinarios zootecnistas, deberán contar con autorización expresa de la Secretaría de Agricultura y Ganadería, para la expedición de certificados zoosanitarios y de movilización de productos y subproductos de origen animal.
 
 ###### ARTICULO 30.
 
@@ -577,9 +593,11 @@ Toda persona que pretenda movilizar animales, deberá contar con un certificado 
 
 En los certificados zoosanitarios y guías de tránsito, se asentarán los datos siguientes: Número de cabezas y especies de que se trate, cantidad y clase del producto, nombres y direcciones del remitente y del consignatario, medio de movilización, ruta que seguirá y constancia de que en la zona de donde procede, no existe enfermedad transmisible en el ganado, así como sexo, color y fierro de cada animal movilizado.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 83.
 
-Los inspectores de ganado, la autoridad en su caso y los médicos veterinarios zootecnistas autorizados por la Secretaría de Agricultura, Ganadería y Desarrollo Rural, al expedir una guía para el tránsito dentro del Estado o un certificado sanitario, lo harán bajo su más estricta responsabilidad, debiendo comprobar que los animales y los productos que se pretendan amparar, correspondan con la solicitud presentada.
+Los inspectores de ganado, la autoridad en su caso y los médicos veterinarios zootecnistas autorizados por la Secretaría de Agricultura y Ganadería, al expedir una guía para el tránsito dentro del Estado o un certificado sanitario, lo harán bajo su más estricta responsabilidad, debiendo comprobar que los animales y los productos que se pretenden amparar, correspondan con la solicitud presentada.
 
 ###### ARTICULO 84.
 
@@ -591,9 +609,11 @@ II.- Cuando la movilización sea mediante el arreo, los animales extraños que s
 
 III.- En ningún caso deberán ser movilizados animales enfermos.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 85.
 
-Si algún animal se enferma durante una movilización, será detenida toda la partida, quedando sujeta a control sanitario.
+Si algún animal enferma durante una movilización y existe el riesgo de que por tratarse de una enfermedad contagiosa pueda afectarse la ganadería del Estado, será detenida toda la partida quedando sujeta a control sanitario por el tiempo que determine la Secretaría.
 
 ###### ARTICULO 86.
 
@@ -632,6 +652,10 @@ Queda prohibido el tránsito de los animales procedentes de lugares que estén d
 ###### ARTICULO 94.
 
 Los productos de origen animal destinados a la alimentación del hombre, animales o bien para uso industrial, sin perjuicio del certificado zoosanitario que ampare su movilización, podrán ser objeto de examen y verificación de su sanidad, así como de retención en caso necesario.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2002)</small>
+
+Cuando a juicio de las autoridades competentes exista causa justificada para ello, la carne de ganado sacrificado fuera de la entidad que se introduzca con fines de comercialización, deberá ser presentada al rastro que indique la Secretaría, a fin de revisar los documentos de procedencia y a la inspección del producto por las autoridades sanitarias, quienes determinarán con base en los estudios y análisis practicados, si se autoriza o no la venta para consumo humano.
 
 ###### ARTICULO 95.
 
@@ -733,9 +757,11 @@ El Gobierno del Estado por conducto de la Secretaría, propugnará por establece
 
 El sistema estatal de mejoramiento genético, contará con centros de fomento pecuario, donde se utilizarán las técnicas más modernas.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 115.
 
-La Secretaría, en coordinación con la Unión y la Secretaría de Agricultura, Ganadería y Desarrollo Rural, determinará qué especies y número de animales integrarán cada una de las unidades a que se refiere el artículo anterior, así como el lugar de ubicación y zona de influencia de las mismas.
+La Secretaría, en coordinación con la Secretaría de Agricultura y Ganadería, y la Unión, determinarán qué especies y número de animales integrarán cada uno de los centros a que se refiere el artículo anterior, así como el lugar de ubicación y zona de influencias de las mismas.
 
 ###### ARTICULO 116.
 
@@ -751,9 +777,11 @@ La Secretaría organizará, cuando menos anualmente, cursos elementales sobre le
 
 ### CAPITULO XIX. DE LA CLASIFICACIÓN DE LOS PRODUCTOS Y SUBPRODUCTOS PECUARIOS
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 119.
 
-Los productos y subproductos pecuarios serán clasificados conforme a las Normas Oficiales Mexicanas y Zoosanitarias que se expidan para tal efecto, sin perjuicio de las normas que en clasificación de carnes o grados de calidad, establezcan las Secretarías de Agricultura, Ganadería y Desarrollo Rural, de Comercio y Fomento Industrial o cualquier otra autoridad del orden federal.
+Los productos o subproductos pecuarios, serán clasificados conforme a las Normas Oficiales Mexicanas y Zoosanitarias, que expidan para tal efecto, sin perjuicio de las normas que en clasificación a carnes o grados de calidad, establezcan las Secretarías de: Agricultura y Ganadería, y de Economía, o cualquier otra autoridad del orden federal.
 
 ###### ARTICULO 120.
 
@@ -896,3 +924,11 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 8 días del mes de abril de mil novecientos noventa y nueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA.- Rúbrica.- EL SECRETARIO DE DESARROLLO RURAL, ING. LORENZO HERNÁNDEZ ARREGUÍN.- Rubrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE ENERO DE 2002.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
