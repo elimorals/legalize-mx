@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "1992-06-22"
+last_updated: "1997-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 1997.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -159,9 +159,17 @@ Son autoridades sanitarias en el Estado:
 
 I. El Gobernador del Estado;
 
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 1997)</small>
+
 II. La Secretaría de Salud Pública del Estado;
 
-III. Los Ayuntamientos, en la esfera de su jurisdicción.
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 1997)</small>
+
+III. Los Servicios de Salud de Sonora; y
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 1997)</small>
+
+IV. Los ayuntamientos, en la esfera de su jurisdicción.
 
 ###### ARTICULO 6o.
 
@@ -865,7 +873,7 @@ IV. Promover y apoyar el saneamiento básico;
 
 V.- Asesorar con criterios de ingeniería sanitaria en obras públicas y privadas, excepto lo relativo a los establecimientos de salud;
 
-VI.- Ejercer la verificación y control sanitario en materia de salubridad general, en los términos del acuerdo respectivo, de las vías generales de comunicación, incluyendo los servicios auxiliares, obras, construcciones, ferrocarriles, aeronaves y vehículos terrestres destinados al transporte de carga y pasajeros.
+VI. (DEROGADA, B.O. 10 DE MARZO DE 1997)
 
 ###### ARTICULO 92.
 
@@ -1297,6 +1305,8 @@ IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, 
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 145.
 
 Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
@@ -1399,7 +1409,7 @@ Corresponde a la autoridad municipal, con base en lo que dispongan los Bandos de
 
 ###### ARTICULO 155.
 
-Compete al Estado, a través de la Secretaría y en los términos a que se refieren los artículos 15 y 16, Fracción I, de esta ley, el control sanitario de las materias a que se refiere el artículo 4 de este ordenamiento.
+Compete al Estado a través de la Secretaría y en los términos a que se refiere el artículo 16, fracción I, de esta ley, el control sanitario de las materias a que se refiere el artículo 4o. de este ordenamiento.
 
 ###### ARTICULO 156.
 
@@ -1461,7 +1471,7 @@ La Secretaría verificará que los mercados y centros de abastos provisionales o
 
 ###### ARTICULO 164.
 
-Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales, y el ejercicio de sus actividades se sujetará a lo que dispongan esta ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas técnicas correspondientes.
+Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales, y el ejercicio de sus actividades se sujetará a lo que dispongan esta ley, los reglamentos respectivos, y otras disposiciones legales aplicables, y las normas técnicas correspondientes.
 
 ### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
 
@@ -2075,7 +2085,7 @@ Se consideran medidas de seguridad aquellas disposiciones que dicten la Secretar
 
 ###### ARTICULO 273.
 
-Son medidas de seguridad sanitaria, las siguientes:
+Son medidas de seguridad sanitarias, las siguientes:
 
 I. El aislamiento;
 
@@ -2295,7 +2305,7 @@ La Secretaría y los Municipios, con base en los resultados de la visita o del i
 
 ###### ARTICULO 300.
 
-Las autoridades sanitarias, para hacer cumplir sus determinaciones podrán emplear cualesqiera de los siguientes medios de apremio:
+Las autoridades sanitarias, para hacer cumplir sus determinaciones podrán emplear cualesquiera de los siguientes medios de apremio:
 
 I. Multa, desde diez hasta quinientas veces el salarios (sic) mínimo general diario vigente en la zona económica de que se trate, que se duplicará en caso de reincidencia.
 
@@ -2411,7 +2421,9 @@ Las pruebas ofrecidas que procedan, se admitirán por el área competente que de
 
 En el caso de que el recurso fuera admitido, la unidad, sin resolver en lo relativo a la admisión en las pruebas que se ofrezcan, emitirá una opinión técnica del asunto dentro de un plazo de treinta días hábiles contados a partir del auto admisorio, y de inmediato remitirá el recurso y el expediente que contenga los antecedentes del caso, al área competente de la autoridad sanitaria que corresponda y que deba continuar el trámite del recurso.
 
-El Titular del Poder Ejecutivo y, en su caso, los Ayuntamientos, resolverán los recursos que se interpongan con base en esta ley. Esta facultad podrá ser delegada en acuerdo que se publique en el Boletín Oficial del Gobierno del Estado.
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 1997)</small>
+
+El titular del Poder Ejecutivo y, en su caso, los ayuntamientos, por conducto de las autoridades administrativas que correspondan, resolverán los recursos que se interpongan con base en esta ley.
 
 ###### ARTICULO 317.
 
@@ -2496,3 +2508,15 @@ LIC. MANLIO FABIO BELTRONES RIVERA
 EL SECRETARIO DE GOBIERNO
 
 LIC. ROBERTO SANCHEZ CEREZO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE MARZO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley.
