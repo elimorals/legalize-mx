@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2002-12-14"
+last_updated: "2003-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -435,6 +435,8 @@ Los derechos deberán pagarse previamente a la prestación del servicio, expedic
 
 ### CAPITULO II. DE LOS DERECHOS EN PARTICULAR
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 54.
 
 Corresponde a las leyes y reglamentos específicos el determinar las características y condiciones de los servicios públicos municipales, la regulación de las actividades para las cuales se requiera licencia, permiso o registro, así como la naturaleza de los bienes de dominio público sujetos a uso o explotación, por los cuales deban pagarse derechos. Asimismo, serán las leyes y reglamentos correspondientes los que establezcan las conductas que se consideran infracción por las cuales debe cubrirse una sanción.
@@ -447,7 +449,7 @@ Los municipios podrán prestar algunos de estos servicios directamente, o bien, 
 
 ###### ARTICULO 56.
 
-Los servicios por los cuales los municipios podrán establecer tarifas para el cobro de derechos, son: agua potable; aseo público; panteones; rastro; planeación; tránsito y seguridad; registro civil; salubridad; estacionamientos; reparación, conservación y mantenimiento de pavimentos; publicidad y anuncios; monitoreo vehicular; nomenclatura urbana; licencias para venta de bebidas alcohólicas de baja graduación; expedición de copias, certificaciones y constancias diversas; y servicios catastrales. Asimismo, cualquier otro servicio que lleve a cabo el Municipio y por el cual no esté expresamente prohibido su cobro.
+Los servicios por los cuales los municipios podrán establecer tarifas para el cobro de derechos, son: agua potable; aseo público; panteones; rastro; planeación; tránsito y seguridad; registro civil; salubridad; estacionamientos; reparación, conservación y mantenimiento de pavimentos; publicidad y anuncios; monitoreo vehicular; nomenclatura urbana; licencias para ventas de bebidas alcohólicas de baja graduación; expedición de copias, certificaciones y constancias diversas; servicios catastrales; y supervisión de alumbrado público. Asimismo, cualquier otro servicio que lleve a cabo el municipio y por el cual no esté expresamente prohibido su cobro.
 
 ###### ARTICULO 57.
 
@@ -516,6 +518,10 @@ Las autoridades municipales podrán asimismo cobrar derechos por la expedición 
 ###### ARTICULO 72.
 
 Los servicios catastrales consisten en la emisión de avalúos catastrales, certificación física de medidas y colindancias de un predio, certificación de registro en el Padrón Catastral Municipal, copias de planos de región catastral o de manzana, y otras certificaciones sobre el padrón catastral.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 72 BIS. El servicio de supervisión de alumbrado público consistente en la expedición de certificaciones y cuantificación de daños en esta materia, y el de verificación y levantamiento de campo de las instalaciones de alumbrado público; en todo caso tratándose de los fraccionamientos que se pretendan entregar al municipio.
 
 ## TITULO CUARTO
 
@@ -728,6 +734,12 @@ P.O. 14 DE DICIEMBRE DE 2002.
 PRIMERO. El presente Decreto entrará en vigencia el día uno de enero de 2003.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 ###### ARTICULO 82.
 
