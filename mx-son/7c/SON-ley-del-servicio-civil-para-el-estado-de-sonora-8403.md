@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "1983-01-03"
+last_updated: "1992-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,105 +21,41 @@ state: "SON"
 ---
 # LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
+LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1992.
 
-Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de agosto de 1994.
+Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
-Al margen izquierdo un Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder ejecutivo.
+EL C. LIC. ALEJANDRO CARRILLO MARCOR, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE SONORA, a sus habitantes, sabed:
 
-JORGE CARRILLO OLEA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:
+Que el H. Congreso del Estado, se ha servido dirigirme la siguiente L E Y :
 
-Que el H. Congreso del Estado se ha servido enviarme para su promulgación, lo siguiente:
+N U M E R O 40
 
-LA HONORABLE CUADRAGESIMA SEXTA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA (SIC) FACULTADES QUE LE OTORGA EL ARTICULO 40, FRACCION II DE LA CONSTITUCION POLITICA LOCAL Y
+EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
 
-CONSIDERANDO
-
-I.- Que en la sesión de fecha dieciocho de agosto del año en curso, se aprobó por esta soberanía, la iniciativa de Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos, presentada por el Titular del Poder Ejecutivo.
-
-II.- La Ley aprobada en su conjunto, sistematiza adecuadamente las atribuciones que competen al Poder Ejecutivo del Estado, a través de la Procuraduría General de Justicia.
-
-Transforma el órgano de representación social, encasillado cotidianamente a la persecusión (sic) de los delitos; por un ente que coadyuve a la Ciudadanía en materia Jurídica; se convierta en un órgano promotor de medidas e instrumentos que mejoren la impartición de justicia; que fomente la participación de grupos calificados de la sociedad en la Planeación democrática, implementando programas y acciones dentro de su ámbito de competencia; en suma, que toda su actuación y su servicio se disemine verdaderamente hacia la población, con mayor sensibilidad y el respeto irrestricto a las garantías constitucionales y a los derechos humanos.
-
-Considerando como aspectos innovadores, o que si bien no siendo nuevos, se resaltan y regulan con mayor severidad para convertirlos en compromisos y realidad social, destacan:
-
-a).- La vigilancia del orden Constitucional y de la legalidad, al reiterar que el ejercicio de la acción penal se funde en la comprobación plena de los elementos del tipo penal y de la probable responsabilidad del indiciado;
-
-b).- La atención y orientación de la ciudadanía que acude ante la representación social, planteando cuestiones que exceden de la competencia del Ministerio Público, a efecto de que sean atendidos por quienes legalmente corresponda;
-
-c).- Proponer a la consideración del titular del Poder Ejecutivo, medidas que tiendan al mejoramiento en la administración de justicia; o la denuncia ante el Poder Judicial, de las contradicciones en tesis sustentadas por las Salas;
-
-d).- Intervenir en el estudio, promoción y ejecución de programas y acciones en materia de procuración de justicia;
-
-e).- Ejercer la representación del Estado en determinados juicios y en todos los negocios en que éste sea parte o tenga interés jurídico; pudiendo proporcionar este apoyo y patrocinio a los propios ayuntamientos, siempre que éstos lo soliciten y lo apruebe el superior jerárquico de la Procuraduría;
-
-f).- Adoptar procedimientos administrativos para la debida selección del personal que ocupará los cargos de Agente del Ministerio Público, Policía Judicial y Perito;
-
-g).- Reiterar el carácter de auxiliar y subordinación que la policía judicial tiene respecto al Ministerio Público; estableciendo correcciones disciplinarias por faltas administrativas, independientemente de la responsabilidad pública o penal en que incurran tales elementos.
-
-h).- La supresión de la emisión indiscriminada de las constancias indentificados (sic) como "Cartas de Antecedentes no Penales", supeditando su expedición cuando exista mandamiento de autoridad competente o cuando resulte indispensable para el ejercicio de derechos o el cumplimiento de obligaciones previstos en Ley;
-
-i).- La tutela del órgano de representación social, de los derechos colectivos e individuales de la población, con especial atención a los Indígenas, a los menores y a los incapaces.
-
-j).- La ingerencia de la Procuraduría en asuntos o cuestiones de carácter Municipal, o bien derivados entre los Poderes del Gobierno Estatal, planteados en los Artículos 1º fracciones III y VII, 5º Fracciones I, III, V y VI; 9º y 25 de la propia Ley.
-
-Medidas todas que atienden un reclamo popular en materia de Procuración de Justicia.
-
-Por las anteriores consideraciones, este H. Congreso ha tenido a bien expedir la siguiente:
-
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
+LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTICULO 1º.
+###### ARTICULO 1o.
 
-La Procuraduría General de Justicia del Estado de Morelos es la Dependencia del Poder Ejecutivo en la que se integra la Institución del Ministerio Público y sus Organos Auxliares (sic) Directos, para el despacho de los asuntos que aquélla y a su Titular en su caso, atribuyen los Artículo 79-A y 79-B de la Constitución Política del Estado de Morelos, el presente ordenamiento y las demás disposiciones legales aplicables.
+Esta ley es de observancia general para los trabajadores del servicio civil y para los titulares de todas las entidades y dependencias públicas en que prestan sus servicios.
 
-###### ARTICULO 2º.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
-La Institución del Ministerio Público, presidida por el Procurador General y éste personalmente, en los términos del Artículo 79-B de la Constitución Política del Estado, tendrán las siguientes atribuciones; que ejercerán conforme a lo establecido en el Artículo 11° de esta Ley:
+###### ARTICULO 2o.
 
-I.- Salvaguardar los principios de constitucionalidad y legalidad en el ámbito de su competencia;
+Servicio civil es el trabajo que se desempeña en favor del Estado, de los municipios, de las instituciones que a continuación se enumeran: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, Sistema Estatal para el Desarrollo Integral de la Familia; así como de los otros organismos descentralizados, cuando el ordenamiento jurídico de su creación así lo disponga.
 
-II.- Promover la pronta, expedita y debida procuración de justicia e intervenir en los actos que sobre esta materia, prevenga la legislación de planeación y desarrollo;
+###### ARTICULO 3o.
 
-III.- (DEROGADA, P.O. 14 DE JULIO DE 1999)
+Trabajador del servicio civil de la entidad pública correspondiente, es toda persona que preste sus servicios mediante designación legal y siempre que sus retribuciones estén consignadas en los presupuestos respectivos o se paguen con cargo a alguna de sus partidas.
 
-IV.- Tutelar los derechos colectivos e individuales de la Población y procurar el respeto a las garantías individuales;
+###### ARTICULO 4o.
 
-V.- (DEROGADA, P.O. 14 DE JULIO DE 1999)
-
-VI.- Investigar y perseguir los delitos del Orden Común;
-
-VII.- Representar al Gobierno previo acuerdo del Gobernador, en los actos en que deberá intervenir el Estado ante la Federación, otros Estados o ante los Municipios, cuando se trate de asuntos relacionados con la procuración de justicia;
-
-VIII.- Dar cumplimiento a las Leyes en asuntos concernientes a las atribuciones de la Institución con la intervención que, en su caso, corresponda a otras dependencias, y;
-
-IX.- Las demás que las Leyes determinen.
-
-###### ARTICULO 3º.
-
-La salvaguarda del orden Constitucional y la legalidad comprende:
-
-I.- La intervención del Ministerio Público en todos los juicios en que sea parte el Estado, promoviendo la estricta observancia de la Ley y la protección del interés público, conforme a lo dispuesto por el Artículo 79-A de la Constitución Política del Estado;
-
-II.- Proponer al Gobernador las Iniciativas de Reformas a la Ley, necesarias para la exacta observancia de la Constitución;
-
-III.- Vigilar la aplicación de la Ley en todos los lugares de detención, prisión o reclusión de inculpados, sin perjuicio de las atribuciones de las autoridades competentes en materia de ejecución de sanciones y medidas de seguridad.
-
-Cuando los particulares presenten quejas por actos de autoridades que no constituyan delito, la Procuraduría las pondrá en conocimiento de las autoridades competentes y orientará al interesado sobre la atención que legalmente corresponda.
-
-###### ARTICULO 4º.
-
-La promoción de la pronta, expedita y debida procuración de justicia y la intervención en los actos que sobre esta materia prevé la legislación acerca de planeación del Desarrollo comprende:
-
-I.- Participar conforme al Arículo (sic) 119 Fracción III de la Constitución Política del Estado, la Ley Estatal de Planeación, los planes y programas de la administración pública, en el estudio, promoción y ejecución, en su caso, de los programas y acciones que correspondan a la Procuración de Justicia;
-
-II.- Proponer al Gobernador, las medidas que convengan para el mejoramiento de la procuración de justicia, escuchando la opinión de los funcionarios encargados de dichos servicios públicos, previa obscultación de la opinión de las personas, instituciones y sectores que por su actividad, funciones o especialidad, puedan o deban aportar elementos de juicio sobre la materia correspondiente;
-
-III.- Denunciar ante el Tribunal Superior de Justicia del Estado las contradicciones que se observen en las Tesis sustentadas por las salas de dicho tribunal, a efecto de que el pleno resuelva lo procedente.
+Los trabajadores se dividen en dos grupos: de confianza y de base.
 
 ###### ARTICULO 5o.
 
@@ -129,15 +65,21 @@ I.- Al servicio del Estado:
 
 a) En el Poder Ejecutivo:
 
-El Secretario y el Subsecretario de Gobierno; los Directores Ejecutivos del Desarrollo Económico y Social y de Asuntos Rurales; el Oficial Mayor; el Tesorero, el Subtesorero y el Cajero General; los agentes y subagentes fiscales; los recaudadores de rentas y los auditores o inspectores fiscales; los presidentes, secretarios y actuarios de las Juntas Locales de Conciliación y Arbitraje; los magistrados, secretarios y actuarios del Tribunal Contencioso Administrativo; el Procurador y el Subprocurador General de Justicia; el Secretario General de la Procuraduría, los agentes y subagentes del Ministerio Público, así como sus secretarios; el cuerpo de defensores de oficio; el Secretario Particular del Gobernador y el personal a su servicio; los ayudantes personales y agentes confidenciales del Gobernador; en la Dirección de Educación Pública, el Director, el Secretario y los jefes de departamento y de sección; los oficiales del registro civil y encargados del Registro Público de la Propiedad y de Comercio; los miembros de la Policía Judicial del Estado y el personal de vigilancia de los centros de prevención y readaptación social; los médicos legistas; los procuradores e inspectores del trabajo; y en general, los directores, subdirectores, jefes y subjefes de departamento, secretarios generales, administradores o vocales administrativos, contadores, coordinadores, asesores y delegados.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Los Secretarios y Subsecretarios; el Pagador General; los Agentes y Subagentes Fiscales; los Recaudadores de Renta y los Auditores e Inspectores Fiscales; los Presidentes, Secretarios y Actuarios de las Juntas Locales de Conciliación y de Conciliación y Arbitraje; el Magistrado, Secretarios y Actuarios del Tribunal de lo Contencioso Administrativo; el Procurador General de Justicia del Estado y Subprocuradores; Agentes del Ministerio Público, así como sus Secretarios; el cuerpo de Defensores de Oficio; el Secretario Particular del Gobernador y el personal a su servicio; los ayudantes personales del Gobernador; los Oficiales del Registro Civil y los Encargados de las Oficinas del Registro Público de la Propiedad; los miembros de la Policía Judicial del Estado y el personal de vigilancia de los Centros de Prevención y Readaptación Social y del Consejo Tutelar para Menores; los Médicos Legistas e integrantes de los servicios periciales; los Procuradores e Inspectores del Trabajo; el personal secretarial que esta a cargo de los Directores Generales, Subdirectores, Secretarios del ramo y demás funcionarios análogos en ese nivel; los Directores, Subdirectores, Secretarios Generales, Administradores y Vocales Administrativos, Contadores, Coordinadores, Asesores y Delegados, Secretarios Particulares y sus Auxiliares, Jefes de Ayudantes, Secretarios Privados, Jefes de Departamento y de Sección y, en general, todos aquellos funcionarios o empleados que realicen labores de inspección, auditoría, supervisión, fiscalización, mando y vigilancia o que por la índole de sus actividades laboren en contacto directo con el titular del Ejecutivo, o con los titulares de las dependencias.
 
 b) En el Poder Legislativo:
 
-El Oficial Mayor y el Contador Mayor de Glosa.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+El Oficial Mayor, Contador Mayor de Hacienda, Directores, Subdirectores, Jefes de Departamento y personal de la Contaduría Mayor de Hacienda.
 
 c) En el Poder Judicial:
 
-Los secretarios general y auxiliares del Supremo Tribunal de Justicia; los secretarios proyectistas adscritos a los Magistrados; los jueces de primera instancia, locales y menores y los secretarios y actuarios de juzgado.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Los Secretarios General y Auxiliares del Supremo Tribunal de Justicia y de las Salas Regionales; los Secretarios Proyectistas adscritos a los Magistrados; los Jueces de Primera Instancia y Locales; los Secretarios y Actuarios de Tribunal y de Juzgado; los Oficiales de Partes y los Archivistas; el Oficial Mayor del Supremo Tribunal; Directores, Subdirectores, Jefes de Departamento y el personal de apoyo administrativo y asesoría de los Magistrados y Jueces.
 
 II.- Al servicio de los municipios:
 
@@ -145,77 +87,33 @@ El Secretario del Ayuntamiento, el Oficial Mayor, el Tesorero Municipal, el cont
 
 III.- Al servicio de otras entidades públicas:
 
-Los secretarios generales; directores, subdirectores, jefes y subjefes de dependencias o departamentos; gerentes, auditores, tesoreros, cajeros, pagadores y en general, los que disponga la ley que rija el organismo de que se trate.
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
+Los Secretarios Generales; Directores, Coordinadores, Subdirectores, Jefes y Subjefes de Departamento; Gerentes, Auditores, Tesoreros, Cajeros, Pagadores, y, en general, los que disponga el ordenamiento jurídico que rija el organismo de que se trate.
 
 IV.- Los demás que se determinen en otras leyes.
 
-###### ARTICULO 6º.
+###### ARTICULO 6o.
 
-La Tutela de los derechos colectivos e individuales de la población y la vigilancia al respeto de las garantías individuales, comprende:
+Son trabajadores de base los no incluídos en el precepto anterior y que, por ello, no podrán ser removidos de sus cargos sin causa justificada. Los de nuevo ingreso no serán inamovibles sino después de seis meses de servicios sin nota desfavorable en su expediente; los titulares de la entidad en que presten sus servicios podrán removerlos libremente sin expresión de causa y sin responsabilidad.
 
-I.- Implementar las acciones necesarias, para que en el Estado de Morelos, se respeten las garantías constitucionales y los derechos colectivos e individuales de la Población;
+No adquirirán la calidad de trabajadores de base, los interinos, eventuales, temporales y los que sean contratados para obra o por tiempo determinado, aún cuando la prestación del servicio se prolongue más de seis meses y por varias ocasiones.
 
-II.- Brindar orientación y asistencia a las víctimas de los delitos;
+###### ARTICULO 7o.
 
-III.- Proteger a los indígenas, menores e incapaces, mediante la Tutela Jurídica correspondiente, en cualquier juicio o procedimiento legal en que tengan intervención como parte directa o como terceros interesados;
+Los trabajadores de confianza no quedan comprendidos en el presente ordenamiento. Estos y los titulares de los poderes y entidades públicos únicamente disfrutarán de las medidas protectoras del salario y de los beneficios de la seguridad social.
 
-IV.- Asesorar y patrocinar a la ciudadanía que así lo requiera en los juicios que se sigan ante cualquier autoridad jurisdiccional, excepto en materia penal;
+###### ARTICULO 8o.
 
-V.- Garantizar el respeto a los Derechos Humanos de toda persona que se encuentre en el Estado de Morelos, realizando revisiones en forma sistemática, en establecimientos de policía, separos o centros penitenciarios.
+Todos los trabajadores deberán ser de nacionalidad mexicana y deberán saber leer y escribir; sólo podrán ser sustituídos por extranjeros cuando no existan mexicanos que puedan desarrollar eficientemente el servicio respectivo.
 
-###### ARTICULO 7º.
+Si se trata de trabajadores de base la substitución será decidida por el funcionario a quien corresponda expedir el nombramiento oyendo al Sindicato; en caso de desacuerdo, decidirá el Tribunal.
 
-(DEROGADO, P.O. 14 DE JULIO DE 1999)
+###### ARTICULO 9o.
 
-###### ARTICULO 8º.
+Son irrenunciables los derechos que la presente ley otorga.
 
-La investigación y persecución de los delitos, comprenden;
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1999)</small>
-
-I.- En la averiguación previa: la recepción de denuncias, acusaciones o querellas, conforme lo disponen los artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos y 79 de la Constitución del Estado; así como la práctica de todos los actos conducentes a la comprobación del cuerpo del delito y la probable responsabilidad del inculpado, como elementos que funden el ejercicio de la acción penal, incluyendo el libramiento de la orden de aprehensión en los casos excepcionales contemplados en el párrafo V del artículo 16 de la Constitución Federal; comprende también la protección al ofendido en los términos legales aplicables, el Ministerio Público solicitará a la autoridad jurisdiccional las medidas precautorias de arraigo o de aseguramiento patrimonial que resulten indispensables para los fines a la averiguación previa y en su caso, para el debido desarrollo del proceso.
-
-II.- Ante las autoridades jurisdiccionales, conforme a la competencia de éstas, el Ministerio Público solicitará las órdenes de aprehensión, de comparecencia o de cateo, así como los exhortos y las medidas precautorias procedentes, aportará las pruebas conducentes al esclarecimiento de los hechos y de la responsabilidad que corresponda, planteando, en su caso, las excluyentes de responsabilidad penal o las causas de extinción de la pretención (sic) punitiva de que tengan conocimieno (sic). Formulará conclusiones y exigirá la reparación patrimonial que corresponda al ofendido, solicitando la aplicación de las penas y medidas que procedan. En los casos en que las resoluciones causen agravios a los intereses jurídicos de la sociedad, interpondrá los recursos ordinarios que resulten pertinentes.
-
-###### ARTICULO 9º.
-
-La representación del Gobierno del Estado en los actos que deba intervenir, ante la Federación, los Estados, o Municipios, que se ejercerá previo acuerdo del Gobernador, comprende:
-
-I.- La promoción y celebración de convenios con apego a las disposiciones aplicables y sin perjuicio de la competencia de otras autoridades, sobre apoyo y asesoría recíprocos en materia policial, técnico jurídica, pericial y de formación de personal, para la procuración de justicia;
-
-II.- La promoción y celebración de acuerdo con arreglo a las disposiciones aplicables, para efectos de auxilio al Ministerio Público por parte de autoridades locales.
-
-###### ARTICULO 10º.
-
-El cumplimiento a las Leyes y acuerdos de alcance nacional o estatal en asuntos concernientes a las atribuciones de la Institución, comprende:
-
-I.- Proponer al Gobernador los instrumentos de alcance nacional, regional y estatal en materia de colaboración policiaca o judicial;
-
-II.- La intervención en los procedimientos de extradición de delincuentes.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1999)</small>
-
-###### ARTICULO 11º.
-
-El Procurador intervendrá por sí o por conducto de agentes del Ministerio Público en el ejercicio de las atribuciones a que se refieren los artículos anteriores, según lo preceptuado en el reglamento y acuerdo que dicte el Procurador. El reglamento prevendrá la distribución de los asuntos entre las unidades técnicas y administrativas de la dependencia. El Procurador deberá intervenir personalmente en los supuestos a que se refieren los artículos 3 fracción II, 4 fracción II; 9 y 10 fracción I de este ordenamiento.
-
-###### ARTICULO 12º.
-
-En el cumplimiento de sus atribuciones, el Ministerio Público requerirá informes, documentos, opiniones y elementos de prueba, a las entidades de la administración pública estatal y a otras autoridades, o personas que puedan proporcionarlas para el debido ejercicio de sus funciones.
-
-###### ARTICULO 13º.
-
-Para hacer cumplir sus determinaciones y mantener el orden en las diligencias de averiguación previa, el Ministerio Público podrá emplear cualquiera de las siguientes medidas de apremio:
-
-I.- APERCIBIMIENTO;
-
-II.- RETIRO DE LA DILIGENCIA AL INDISCIPLINADO;
-
-III.- MULTA HASTA DE CIEN VECES EL SALARIO MINIMO VIGENTE EN EL ESTADO;
-
-IV.- AUXILIO DE LA FUERZA PUBLICA; Y
-
-V.- ARRESTO ADMINISTRATIVO HASTA POR TREINTA Y SEIS HORAS.
+Las actuaciones y certificaciones que hubieren de hacerse con motivo de la aplicación de la presente ley no causarán impuesto alguno.
 
 ###### ARTICULO 10.
 
@@ -223,7 +121,7 @@ En la interpretación de esta ley se tomarán en consideración los principios d
 
 ## TITULO SEGUNDO. DERECHOS Y OBLIGACIONES INDIVIDUALES DE LOS TRABAJADORES
 
-### CAPITULO I. ATRIBUCIONES
+### CAPITULO I
 
 ###### ARTICULO 5°.
 
@@ -289,171 +187,7 @@ La aceptación del nombramiento obliga al trabajador a cumplir con los deberes i
 
 En ningún caso el cambio de titular de la entidad pública o de una de sus dependencias, o el cambio de otros funcionarios, podrá afectar los derechos de los trabajadores de base a su servicio o bajo sus órdenes.
 
-### CAPITULO II. BASES DE ORGANIZACION
-
-###### ARTICULO 14º.
-
-La Procuraduría General de Justicia del Estado, será conducida por el Procurador, Jefe de la Institución del Ministerio Público y de sus Organos Auxiliares directos, conforme a lo señalado en el Artículo 79-B de la Constitución del Estado.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2002)</small>
-
-La Procuraduría contará con Subprocuradores sustitutos del Procurador, Visitador General, Coordinaciones Generales, Direcciones Generales y Unidades Administrativas y Técnicas, Coordinaciones y Direcciones, así como órganos desconcentrados para el despacho de los asuntos que los Artículos del 2 al 11 de esta Ley pone a cargo de la Dependencia, en el número y con la competencia que determina el Reglamento de Esta Ley y el presupuesto de Egresos autorice.
-
-El Ejecutivo determinará las entidades que deban quedar sujetas a la coordinación de la Procuraduría General de Justicia.
-
-###### ARTICULO 15º.
-
-Los Subprocuradores auxiliarán al Procurador en las funciones que esta Ley y su reglamento les encomiendan y por delegación que haga el Titular.
-
-Los Subprocuradores resolverán los casos en que resulte el no ejercicio de la acción penal o la formulación de conclusiones no acusatorias, así como respecto de las demás consultas que haga el Ministerio Público a propósito de solicitudes o promociones cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado, antes de que se pronuncie sentencia.
-
-###### ARTICULO 16º.
-
-Son auxiliares directos del Ministerio Público:
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2002)</small>
-
-I.- La Policía Ministerial; y
-
-II.- Los Servicios Periciales de la Procuraduría.
-
-Asimismo son Auxiliares del Ministerio Público:
-
-A).- La policía preventiva, que debe obedecer y ejecutar las órdenes que reciba del Ministerio Público en el ejercicio de sus funciones;
-
-B).- Las Autoridades Municipales, en los asuntos del ámbito de la competencia de la Procuraduría, y;
-
-C).- Los funcionarios de otras dependencias del Ejecutivo, en los casos a que se refiere el Artículo 26º de esta Ley.
-
-También lo serán, las autoridades de la Federación o de los Estados, en los términos previstos en la Ley y en los convenios de Cooperación.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1999)</small>
-
-###### ARTICULO 17º.
-
-El Procurador General de Justicia será nombrado conforme a lo dispuesto por los artículos 40 fracción XXXVII y 79-B de la Constitución Local.
-
-El Procurador General de Justicia será removido conforme a lo dispuesto en los artículos 40 fracción LIII y 79-B de la Constitución Local.
-
-En caso de falta absoluta del Procurador General o en tanto se hace la designación por el Poder Legislativo, el Gobernador del Estado podrá nombrar a una persona que se encargue temporalmente del cargo.
-
-Cuando sea renovado el Poder Ejecutivo, por elección directa o por el Congreso del Estado, su titular podrá solicitar al Poder Legislativo la designación de un nuevo Procurador.
-
-El Procurador designado invariablemente deberá tener los mismos requisitos que para ser Magistrado del Tribunal Superior exige el artículo 90 de la Constitución del Estado.
-
-###### ARTICULO 18º.
-
-En la designación del personal del Ministerio Público, de la Policía Judicial y los Servicios Periciales de la Procuraduría, se atenderá a las siguientes disposiciones, sin perjuicio de las normas complementarias contenidas en el reglamento de esta Ley o en los acuerdos internos que se expidan, con fundamento en la propia Ley y en dicho reglamento.
-
-Para ser Agente del Ministerio Público se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos. En igualdad de circunstancias, se preferirá a los ciudadanos morelenses;
-
-II.- Acreditar que se ha observado buena conducta y no haber sido sentenciado ejecutoriamente como responsable de algún delito; y
-
-III.- Ser Licenciado en Derecho, con autorización para el ejercicio de la profesión.
-
-El Procurador podrá designar agentes especiales, para que intervengan con la misma representación social, en los asuntos que a juicio de aquél, sea útil esta intervención. La designación recaerá en juristas que cuenten con el mayor prestigio personal y profesional.
-
-Los agentes especiales actuarán en procedimientos civiles, penales o de amparo, según las reglas de este juicio constitucional, o en otros de la incumbencia de la Procuraduría según el encargo específico que en cada caso se haga.
-
-El Procurador podrá designar, también visitadores especiales o asesores en aquellos asuntos que lo juzgue conveniente; debiendo reunir las personas designadas iguales características de prestigio personal o profesional que la de los agentes especiales.
-
-Para los fines previstos en los párrafos anteriores, se dará preferencia a quienes hubiesen desempeñado el cargo de Magistrado del Tribunal Superior de Justicia, Procurador o Subprocurador, sin perjuicio de tomarse en cuenta a otras personas que por sus antecedentes, conocimientos y experiencia, puedan coadyuvar al buen despacho de la procuración de justicia.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2002)</small>
-
-Para ser Coordinador General o Coordinador de Zona de la Policía Ministerial se requiere:
-
-a) Ser originario del Estado de Morelos o tener una residencia efectiva mínima de diez años en la Entidad;
-
-b) Haber observado buena conducta, tener un modo honesto de vida y no haber sido condenado por delito intencional;
-
-c) Acreditar estudios mínimos de bachillerato o equivalente, y estudios en las áreas de investigación policial y criminalística, preferentemente con grado de licenciatura;
-
-d) No tener antecedentes de violaciones graves o sistemáticos a los derechos humanos;
-
-e) No ser adicto al consumo de drogas, enervantes o psicotrópicas o alcohólico consentudinario (sic);
-
-f) No haber causado baja por responsabilidad administrativa o penal durante el desempeño de servicios policíacos; y,
-
-g) Haber aprobado los exámenes correspondientes que practique el Colegio Estatal de Seguridad Pública del Estado de Morelos.
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2002)</small>
-
-Para ser Comandante o Agente de la Policía Ministerial del Estado, se requiere:
-
-a) Ser originario del Estado de Morelos o tener una residencia efectiva mínima de cinco años en el mismo;
-
-b) Haber observado buena conducta, tener un modo honesto de vida y no haber sido condenado por delito intencional;
-
-c) Acreditar estudios mínimos de bachillerato o equivalente;
-
-d) Haber aprobado los exámenes correspondientes y, de preferencia, haber aprobado el curso básico para Policía Ministerial impartido por el Colegio Estatal de Seguridad Pública.
-
-e) No ser adicto al consumo de drogas enervantes o psicotrópicas o alcohólico consuetudinario; y,
-
-f) No haber causado baja por responsabilidad administrativa o penal durante el desempeño de servicios policiacos.
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2002)</small>
-
-En ningún caso podrá causar alta como mando o Agente de la Policía Ministerial del Estado la persona que no apruebe los exámenes y de la que no se hayan obtenido sus antecedentes en los Sistemas Nacional y Estatal de Seguridad Pública o en cualquiera otra institución o dependencia que puediere (sic) tenerlos.
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2002)</small>
-
-Todo servidor público o empleado de la Procuraduría General de Justicia del Estado que arroje resultados positivos en los exámenes toxicológicos a que periódicamente deberá someterse, será sujeto al procedimiento de responsabilidad administrativo correspondiente, teniendo como sanción, en caso de responsabilidad plenamente probada, la destitución, y no podrá ser reincorporado bajo ninguna circunstancia.
-
-Para ser Perito Oficial de la Procuraduría se requiere tener la ciudadanía mexicana, en pleno ejercicio de sus derechos; acreditar el conocimiento necesario en la técnica o ciencia que corresponda y contar con una antigüedad de tres años en el ejercicio profesional además de tener una buena reputación profesional y de conducta.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2002)</small>
-
-###### ARTICULO 19º.
-
-Para ingresar o pertenecer al servicio de la Institución en cualquier categoría de Agentes del Ministerio Público, de la Policía Ministerial o de Servicios Periciales, los interesados deberán acreditar, en su caso, los requisitos a que se refiere el artículo anterior y aprobar los exámenes de ingreso participando en el curso de oposición o de méritos a los que se convoque, los servidores de la Institución están obligados a seguir los cursos que se establezcan para su mejoramiento profesional.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1999)</small>
-
-Los Agentes del Ministerio Público y miembros de las instituciones policiales, se regirán por sus propias leyes, tal como lo dispone el artículo 123 de la Constitución General en su apartado B fracción XIII.
-
-###### ARTICULO 20º.
-
-El Procurador expedirá los acuerdos y circulares, manuales de organización y de procedimientos, conducentes al buen despacho de las funciones de la dependencia y resolverá, por si o por conducto del funcionario que determine sobre el ingreso, promoción, adscripción, renuncias, sanciones, estímulos y suplencias de sus subalternos, sin perjuicio de la disposición (sic) que regulan las relaciones laborales entre el ejecutivo y sus trabajadores.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2002)</small>
-
-###### ARTICULO 21º.
-
-El Procurador o los Subprocuradores, por delegación de aquél, podrá adscribir, discrecionalmente al personal de la institución en el desempeño de las funciones que le competen y encomendar a sus subalternos según su calidad como Agente del Ministerio Público de la Policía Ministerial o como Perito de la Institución, el estudio, dictamen y actuaciones que estimen pertinentes.
-
-###### ARTICULO 22º.
-
-El personal de la Procuraduría podrá auxiliar a otras autoridades, cuando legalmente lo requieran, para el desempeño de actividades compatibles de las funciones de aquél, sin quedar comisionados o adscritos a otras dependencias o entidades, previo acuerdo del Procurador y por Delegación de éste, de los Subprocuradores, que se emitirá discrecionalmente, tomando en cuenta necesidades, y posibilidades de la Procuraduría.
-
-###### ARTICULO 23º.
-
-El Procurador ejercerá autoridad jerárquica sobre los auxiliares directos mencionados en el Artículo 16º. de esta Ley, sin perjuicio de la autonomía técnica que corresponda a los peritos en el estudio de los asuntos que se sometan a su conocimiento y en la emisión de los dictámenes respectivos; asimismo, el Ministerio Público ordenará la actividad de los auxiliares a que se refieren los Incisos A) B) y C) del Artículo 16 de este ordenamiento, exclusivamente en lo que corresponde a las actuaciones que se practiquen en auxilio de la Institución.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2002)</small>
-
-###### ARTICULO 24º.
-
-La Policía Ministerial actuará bajo la autoridad y mando inmediato del Ministerio Público, en términos de lo expuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, auxiliándolo en la investigación de los delitos; para este efecto, podrá recibir denuncias y querellas, solo cuando por la urgencia del caso, no sea posible la representación directa de aquéllos ante el Ministerio Público; pero la Policía Ministerial deberá de dar cuenta sin demora a la representación social para que ésta determine lo que legalmente corresponda, conforme a las instrucciones que se le dicten a la Policía Ministerial, desarrollará las diligencias que deban practicarse durante la averiguación previa y exclusivamente para los fines de ésta. Cumplirá las citaciones, notificaciones, presentaciones y detenciones que se le ordenen; debiendo ejecutar las ordenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial.
-
-###### ARTICULO 25º.
-
-El Procurador con la autorización del Gobernador, convendrá con las autoridades Municipales sobre la forma que deban desarrollarse las funciones de auxilio local al Ministerio Público.
-
-###### ARTICULO 26º.
-
-Los auxiliares del Ministerio Público, deberán dar aviso inmediato a éste, en todos los casos, sobre los asuntos que intervenga con tal carácter.
-
-###### ARTICULO 27º.
-
-El Procurador determinará a que servidor público de la misma institución, corresponden las suplencias, en caso de falta, excusa o ausencia del encargado de una agencia del Ministerio Público, cuando no sea posible cubrirla con otros agentes de la misma Procuraduría.
-
-###### ARTICULO 28º.
-
-El Gobernador podrá modificar o transformar la estructura administrativa a que se refiere el Artículo 14º. de esta Ley, en los términos previstos por el reglamento y escuchando la opinión que al respecto emita el Procurador General. Sujetándose al Presupuesto de Egresos respectivo.
+### CAPITULO II. DE LAS HORAS DE TRABAJO Y LOS DESCANSOS LEGALES
 
 ###### ARTICULO 19.
 
@@ -513,43 +247,7 @@ Las vacaciones son irrenunciables e intransferibles; quienes no hagan uso de ell
 
 Los trabajadores tendrán obligación de participar en las actividades conmemorativas de actos relevantes de la historia y la vida nacional, estatal o municipal, que organicen los titulares de la entidad pública en que presten sus servicios. El tiempo que empleen en estas actividades, les será compensado en su jornada legal.
 
-### CAPITULO III. DISPOSICIONES GENERALES
-
-###### ARTICULO 29º.
-
-En el ejercicio de sus funciones, el personal de la Procuraduría, observará las obligaciones inherentes a su calidad de Servidor Público, de acuerdo con sus atribuciones específicas y con la diligencia necesaria para la pronta y eficaz procuración de Justicia.
-
-###### ARTICULO 30º.
-
-Los Agentes del Ministerio Público no son recusables, pero deben excusarse del conocimiento de los negocios en que intervengan, cuando exista alguna de las causas de impedimento que la Ley señala, en los casos de Magistrados del Tribunal Superior de Justicia.
-
-###### ARTICULO 31º.
-
-Los Agentes del Ministerio Público, no podrán desempeñar otro puesto oficial, de conformidad y con las salvedades previstas en lo dispuesto por el artículo 130 de la Constitución Política del Estado, ni podrán ejercer la abogacía, sino en causa propia, de su cónyuge o concubina o de sus parientes consanguíneos en línea recta, de sus hermanos, o de su adoptante o adoptado. Tampoco podrán ejercer como, apoderados judiciales, tutor, curador o albacea, a menos que tengan carácter de heredero o legatario. No podrán ser depositario judicial, síndico, administrador, interventor en quiebra o concurso, ni corredor, comisionista, árbitro o arbitrador.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2002)</small>
-
-###### ARTICULO 32º.
-
-La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público, de la Policía Ministerial, dará lugar al empleo de medidas de apremio a la imposición de correcciones y sanciones, según el caso, en los términos que prevenga esta Ley y el Código de Procedimientos Penales.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1999)</small>
-
-Los miembros de las instituciones policiales, podrán ser removidos de su cargo, si no cumplen con los requisitos que las leyes vigentes en el momento de la remoción señalen para permanecer en dichas instituciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y, en su caso, sólo procederá la indemnización.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2002)</small>
-
-###### ARTICULO 33º.
-
-Se podrá imponer al personal de la Procuraduría, por las faltas en que incurran en el servicio las correcciones disciplinarias previstas en la Ley de Responsabilidades de los Servidores Públicos, mediante el procedimiento que dicha Ley previene, en el caso de elementos de la Policía Ministerial, se aplicarán las mismas sanciones, o bien, a juicio del Coordinador General de la Corporación y bajo su responsabilidad, arresto constitucional que no podrá rebasar un plazo mayor de treinta y seis horas; retención en el servicio o privación de permisos de salida, hasta por quince días, si la gravedad de la falta lo amerita.
-
-> <small>(REFORMADO, 7 DE AGOSTO DE 2002)</small>
-
-###### ARTICULO 34º.
-
-Cuando se impute la comisión de un delito a un Agente del Ministerio Público, Agente de la Policía Ministerial y demás personal de la Procuraduría, el Juez que conozca el asunto pedirá al Procurador que lo ponga a su disposición, sin perjuicio de que se adopten las medidas cautelares que corresponden para evitar que el inculpado se sustraiga a la acción de la justicia. El Procurador se atendrá a lo dispuesto por el órgano jurisdiccional. La detención que se practique en contravención a este precepto será sancionada en los términos que prevenga el Código Penal.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2002)</small>
+### CAPITULO III. DE LOS SALARIOS
 
 ###### ARTICULO 31.
 
@@ -581,9 +279,9 @@ El total de descuentos no podrá exceder del 30% del salario, excepto en los cas
 
 Las horas de trabajo extraordinario se pagarán con un ciento por ciento más del salario asignado para las horas de jornada ordinaria.
 
-###### ARTICULO 35°.
+###### ARTICULO 35.
 
-El Ministerio Público, o la Policía Ministerial, solo expedirán constancias de actuaciones o registros que obren en su poder cuando exista mandamiento de autoridad competente, que funde y motive su requerimiento, o cuando resulte indispensable la expedición de dicha constancia para el ejercicio de derechos o el cumplimiento de obligaciones previstas en la Ley.
+Cuando el salario se pague por unidad de obra, se considerará salario diario promediando el del último mes.
 
 ###### ARTICULO 36.
 
@@ -715,9 +413,11 @@ En los casos a que se refiere esta fracción el trabajador será suspendido en s
 
 ## TITULO TERCERO. DEL ESCALAFON
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 3 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 43.
 
-Se entiende por escalafón el sistema organizado en cada entidad o dependencia, conforme a las bases establecidas en este título, para efectuar las promociones de ascensos de los trabajadores y autorizar las permutas.
+Se entiende por escalafón el sistema organizado en cada entidad o dependencia, conforme a las bases establecidas en este título, para efectuar las promociones de ascensos de los trabajadores y autorizar las permutas. Tratándose de personal docente al servicio del ramo educativo, las permutas serán substituídas por los cambios de adscripción y conforme al reglamento de éstos.
 
 ###### ARTICULO 44.
 
@@ -807,9 +507,11 @@ Para la defensa de sus intereses comunes o el mejoramiento de las condiciones ge
 
 Las coaliciones de trabajadores únicamente podrán formalizarse en sindicatos, constituidos por un número de veinte trabajadores o más.
 
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 61.
 
-En los tres Poderes del Estado se reconocerán únicamente dos sindicatos: uno de burócratas y otro de maestros como organización autónoma especializada. En cada Municipio y en cada una de las demás entidades públicas comprendidas en esta ley, sólo habrá un sindicato y si concurren varios grupos de trabajadores, el Tribunal otorgará el reconocimiento al mayoritario. Para fines de organización interna, los sindicatos podrán constar de diversas secciones, pero éstas no gozarán de personalidad jurídica.
+En los tres poderes del Estado se reconocerán únicamente dos sindicatos: uno de burócratas y otro de trabajadores de la educación. En cada Municipio y en cada una de las demás entidades públicas comprendidas en esta ley, sólo habrá un sindicato y si concurren varios grupos de trabajadores, el Tribunal otorgará el reconocimiento al mayoritario. Para fines de organización interna, los sindicatos podrán constar de diversas secciones, pero éstas no gozarán de personalidad jurídica.
 
 ###### ARTICULO 62.
 
@@ -1329,67 +1031,21 @@ Para representar o asesorar a los trabajadores y a sus sindicatos habrá un Proc
 
 T R A N S I T O R I O S
 
-###### ARTICULO 1º.
+###### ARTICULO 1o.
 
-Esta Ley empezará a regir al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+Esta ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
-###### ARTICULO 2º.
+###### ARTICULO 2o.
 
-Queda abrogada la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos, de fecha diecisiete de agosto de mil novecientos ochenta y ocho.
+Se abroga la Ley número 29 del Servicio Civil del Estado de Sonora, de fecha 20 de enero de 1947, así como las reformas y adiciones de que fue objeto y todos los acuerdos, reglamentos y disposiciones que se opongan a la presente ley.
 
-###### ARTICULO 3º.
+###### ARTICULO 3o.
 
-Quedan sin efecto, el Reglamento, los Acuerdos y Circulares anteriores a la vigencia de la presente Ley.
+Las disposiciones de la presente ley que impliquen erogaciones pecuniarias, entrarán en vigor, respecto de aquellas dependencias, Municipios o entidades que a la fecha no otorgan las prestaciones respectivas, a partir del próximo ejercicio fiscal, salvo los casos en que las condiciones precarias de su erario no lo permitan, a juicio del Congreso.
 
-###### ARTICULO 4º.
+###### ARTICULO 4o.
 
-El Ejecutivo del Estado deberá expedir el Reglamento de esta Ley en un término de sesenta días hábiles.
-
-Salón de Sesiones del Honorable Congreso del Estado de Morelos, a los dieciocho días del mes de agosto de mil novecientos noventa y cuatro.
-
-EL C. PRESIDENTE DE LA MESA DIRECTIVA DEL H. CONGRESO DEL ESTADO.
-
-C. DIP. HECTOR PLASCENCIA AYALA
-
-SECRETARIO
-
-C. DIP. PROFR. ROBERTO S. ARTEAGA REYNOSA
-
-SECRETARIO
-
-C. DIP. DELFINO TOLEDANO ALFARO
-
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Cuernavaca Capital del Estado de Morelos, a los veintidós días del mes de agosto de mil novecientos noventa y cuatro.
-
-SUFRAGIO EFECTIVO. NO REELECCION.
-
-GOBERNADOR DEL ESTADO
-
-JORGE CARRILLO OLEA
-
-SECRETARIO GENERAL DE GOBIERNO
-
-GUILLERMO MALO VELASCO
-
-PROCURADOR GENERAL DE JUSTICIA
-
-JORGE ARTURO GARCIA RUBI
-
-Rúbricas.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 14 DE JULIO DE 1999.
-
-PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por el artículo 44 y 70 fracción XVII de la Constitución Política del Estado de Morelos.
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
-
-TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-P.O. 7 DE AGOSTO DE 2002.
+Los reglamentos a que estén sujetas las Comisiones Mixtas de Escalafón continuarán en vigor sin necesidad de sujetarse a la aprobación del Tribunal; pero las modificaciones que se hagan a estos reglamentos o los de nueva creación, estarán sujetos al requisito señalado en el artículo 52 para que adquieran vigencia legal.
 
 ###### ARTICULO 5o.
 
@@ -1437,10 +1093,18 @@ Dr. Samuel Ocaña García.
 
 Firmado.
 
-###### ARTÍCULO PRIMERO.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+B.O. 3 DE ENERO DE 1983.
 
-###### ARTÍCULO SEGUNDO.
+UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+B.O. 28 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
