@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1974-08-21"
+last_updated: "1974-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-> <small>N. DE E. EN LA EDICION CON QUE SE CUENTA DEL PRESENTE ORDENAMIENTO, EL ORIGINAL NO SE ENCUENTRA LEGIBLE.</small>
-
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1974.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -3017,7 +3015,7 @@ El notario, en relación con los libros del protocolo llevará una carpeta por c
 
 Los documentos del apéndice, se arreglarán por legajos, poniéndose en cada uno de ellos el número que corresponde a la escritura o acta a que se refieren y en cada no de los documentos se pondrá una letra que lo señale y distinga de los otros que forman el legajo.
 
-De los expediente que se protocolicen por mandato judicial, se agregará una copia certificada al apéndice del volumen respectivo y se considerarán como un solo documento.
+De los expedientes que se protocolicen por mandato judicial, se agregará una copia certificada al apéndice del volumen respectivo y se considerarán como un solo documento.
 
 ###### ARTICULO 406.
 
@@ -4147,7 +4145,7 @@ A las cinco de la tarde o antes, si ya hubieren votado todos los electores de la
 
 ###### ARTICULO 550.
 
-Una vez cerrada la votación se procederá a numerar, por orden, las boletas sobrantes y a inutilizarlas por medio de dos rayas diagonales con tinta. En seguida se llenarán los ejemplares de los esqueletos del modelo aprobado por la Comisión Estatal Electoral, consignando los número con cifra y letra, y los firmarán los miembros de la Mesa y los representantes de partidos o candidatos allí presentes.
+Una vez cerrada la votación se procederá a numerar, por orden, las boletas sobrantes y a inutilizarlas por medio de dos rayas diagonales con tinta. En seguida se llenarán los ejemplares de los esqueletos del modelo aprobado por la Comisión Estatal Electoral, consignando los números con cifra y letra, y los firmarán los miembros de la Mesa y los representantes de partidos o candidatos allí presentes.
 
 A continuación se reunirán en un solo expediente por su orden, los documentos siguientes:
 
@@ -6193,21 +6191,21 @@ Se reconoce como planteles de enseñanza preparatoria y profesional de las profe
 
 Los títulos profesionales expedidos por las autoridades de un Estado serán reconocidos, siempre que su otorgamiento se haya sujetado a sus leyes respectivas, de conformidad con la fracción V del Artículo 121 de la Constitución Federal.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 871.
 
-También serán reconocidos los títulos que expidan las escuelas, facultades e Institutos incorporados o dependientes de la Universidad Autónoma de México y las demás Universidades, escuelas e Instituciones que hayan obtenido reconocimiento o autorización de la Secretaría de Educación Pública, y en su caso, de las autoridades competentes de los Estados, del Distrito y de los Territorios Federales.
+También serán reconocidos los títulos que expidan las escuelas, facultades e institutos incorporados o dependientes de la Universidad Autónoma de México y las demás universidades, escuelas e instituciones que hayan obtenido reconocimiento o autorización de la Secretaría de Educación Pública, y en su caso, de las autoridades competentes de los Estados, del Distrito y de los Territorios Federales.
 
-El Ejecutivo del Estado podrá celebrar un convenio de coordinación con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública para unificar el registro profesional entre esta Entidad y el Distrito Federal, de acuerdo con las siguientes bases:
+El Ejecutivo del Estado podrá celebrar un convenio de coordinación con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, para unificar el registro profesional entre esta Entidad y el Distrito Federal, de acuerdo con las siguientes bases:
 
 I.- Instituir un solo servicio de registro de títulos profesionales y grados académicos para la expedición de cédulas personales con efectos de patente para el ejercicio profesional y de identidad en las actividades profesionales.
 
-II.- Reconocer para el ejercicio profesional en el Estado, la cédula expedida por la Secretaría de Educación Pública.
+II.- Reconocer para el ejercicio profesional en el Estado, la cédula expedida por la Secretaría de Educación Pública;
 
 III.- Intercambiar la información que se requiera; y
 
 IV.- Las demás que tiendan al debido cumplimiento del objeto del convenio.
-
-> <small>N. DE E. SE TRANSCRIBEN EN FORMA LITERAL LOS TRANSITORIOS QUE APARECEN EN LA EDICION DEL PRESENTE ORDENAMIENTO, NO OBSTANTE QUE NO OBSERVAN EL ORDEN CORRESPONDIENTE.</small>
 
 ###### ARTICULO 872.
 
@@ -10559,15 +10557,9 @@ El acuerdo de expropiación deberá contener las consideraciones necesarias para
 
 Los acuerdos de expropiación se ejecutarán por conducto de la Dirección de Gobernación, siempre que los expropiados se nieguen a cumplirlos voluntariamente. Deberán inscribirse en el Registro Público de la Propiedad.
 
-## TRANSITORIOS
-
 # LIBRO UNICO. REGIMEN PATRIMONIAL DEL ESTADO
 
-## ARTICULOS TRANSITORIOS
-
-PRIMERO.- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- La celebración del convenio entre el Ejecutivo del Estado y la Secretaría de Educación Pública suspenderá la vigencia de las disposiciones del Código Administrativo del Estado que se opongan a su cumplimiento, la que concluirá al darse por terminado el convenio.
+## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
 
@@ -10634,3 +10626,11 @@ LIC. OSCAR FLORES.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAMIRO COTA MARTÍNEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 21 DE DICIEMBRE DE 1974.
+
+PRIMERO.- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La celebración del convenio entre el Ejecutivo del Estado y la Secretaría de Educación Pública suspenderá la vigencia de las disposiciones del Código Administrativo del Estado que se opongan a su cumplimiento, la que concluirá al darse por terminado el convenio.
