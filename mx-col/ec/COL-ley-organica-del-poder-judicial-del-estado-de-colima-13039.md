@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-13039"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-08"
-last_updated: "1990-11-24"
+last_updated: "1991-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1991.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de octubre de 1988.
 
@@ -99,15 +99,19 @@ El Ejecutivo del Estado facilitará el ejercicio de las funciones a que se refie
 
 ## TITULO SEGUNDO. DIVISION TERRITORIAL
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 5.
 
-El Estado de Colima se divide para los efectos de esta Ley, en los siguientes Partidos Judiciales:
+El Estado de Colima, se divide para los efectos de esta Ley, en los siguientes partidos judiciales:
 
-I.- El Primero con residencia en la Ciudad de Colima, comprende los Municipios de Colima, Cuauhtémoc, Comala, Coquimatlán y Villa de Alvarez;
+I.- El Primero, con residencia en la Ciudad de Colima, comprende los Municipios de Colima, Cuauhtémoc Y Coquimatlán;
 
-II.- El Segundo, con residencia en la Ciudad de Tecomán, comprende los Municipios de Tecomán, Armería e Ixtlahuacán; y
+II.- El Segundo, con residencia en la Ciudad de Tecomán, comprende los Municipios de Tecomán, Armería e Ixtlahuacán;
 
-III.- El Tercero, con residencia en la Ciudad de Manzanillo, comprende los Municipios de Manzanillo y Minatitlán.
+III.- El Tercero, con residencia en la Ciudad de Manzanillo, comprende el Municipio de Manzanillo; y
+
+IV.- El Cuarto, con residencia en la Población de Villa de Alvarez, comprende los Municipios de Villa de Alvarez, Comala, y Minatitlán.
 
 ## TITULO TERCERO. ORGANIZACION DE LOS TRIBUNALES
 
@@ -1462,3 +1466,9 @@ P.O. 24 DE NOVIEMBRE DE 1990.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se faculta al H. Supremo Tribunal de Justicia del Estado para que disponga las providencias administrativas necesarias a fin de cumplimentarlo.
+
+P.O. 2 DE FEBRERO DE 1991.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su aprobación, y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se faculta al Pleno del Supremo Tribunal de Justicia del Estado, para que a partir de la Vigencia de este Decreto disponga las medidas administrativas necesarias para el establecimiento de los Organos Jurisdiccionales que se deriven de la presente reforma.
