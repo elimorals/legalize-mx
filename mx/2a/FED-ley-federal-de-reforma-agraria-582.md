@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-reforma-agraria-582"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1971-04-16"
-last_updated: "1974-12-23"
+last_updated: "1974-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=582&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-03-22"
 
 LEY FEDERAL DE REFORMA AGRARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1974.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 16 de abril de 1971.
 
@@ -1063,9 +1063,11 @@ Si la expropiación de las aguas implica la desaparición de la productividad de
 
 Las expropiaciones de bienes ejidales y comunales para obras de servicios social o público a que se refieren las fracciones I, II, III y IV del artículo 112 de esta ley, solo procederán a favor de los gobiernos federal, local o municipal, o de los organismos públicos descentralizados del gobierno federal, los que ocuparán los predios expropiados mediante el pago o depósito del importe de la indemnización correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 117.
 
-Las expropiaciones de bienes ejidales y comunales que tengan por objeto crear fraccionamientos urbanos o suburbanos, se harán indistintamente a favor del Banco Nacional de Obras y Servicios Públicos, S. A., del Instituto Nacional para el desarrollo de la Comunidad Rural y de la Vivienda Popular o del Departamento del Distrito Federal, según lo determine el Decreto respectivo, el cual podrá facultar a dichos organismos para efectuar el fraccionamiento y venta de los lotes urbanizados. En este último caso, hechas las deducciones por concepto de intereses y gastos de administración en los términos del artículo siguiente, las utilidades netas quedaran a favor del Fondo Nacional de Fomento Ejidal, el que entregará a los ejidatarios afectados la proporción dispuesta en el artículo 122.
+Las expropiaciones de bienes ejidales o comunales que tengan por objeto crear fraccionamientos urbanos o suburbanos, se harán indistintamente a favor del Banco Nacional de Obras y Servicios Públicos, S. A., del Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Vivienda Popular, o del Departamento del Distrito Federal y, cuando el objeto sea la regularización de las áreas en donde existan asentamientos humanos irregulares se harán en su caso, en favor de la Comisión para la Regularización de la Tenencia de la Tierra, según se determine en el Decreto respectivo, el cual podrá facultar a dichas dependencias para efectuar el fraccionamiento y venta de los lotes urbanizados o regularizados. Hechas las deducciones por concepto de intereses y gastos de administración en los términos del artículo siguiente, las utilidades quedarán a favor del Fondo Nacional de Fomento Ejidal, el que entregará a los ejidatarios afectados la proporción dispuesta en el artículo 122.
 
 A cuenta de las utilidades previsibles del fraccionamiento, con autorización del Departamento de Asuntos Agrarios y Colonización, podrán entregarse a los ejidatarios o comuneros expropiados, anticipos en efectivo.
 
@@ -1105,7 +1107,17 @@ Si la expropiación es total y trae como consecuencia la desaparición del núcl
 
 I.- Si la causa de la expropiación es alguna de las señaladas en las fracciones I, II, III, IV, V, VII y VIII del artículo 112 el monto de la indemnización se destinará a adquirir tierras equivalentes en calidad y extensión a las expropiadas, donde se reconstituirá el núcleo agrario. Sin embargo, si las dos terceras partes de los ejidatarios decidieran en Asamblea General convocada al efecto, no adquirir tierras, sino crear en el mismo poblado fuentes de trabajo permanentes conectadas o no con la agricultura, la misma asamblea formulará un plan de inversiones que someterá a la aprobación del Departamento de Asuntos Agrarios y Colonización, cuya base será el importe de la indemnización; y
 
-II.- Si se trata de expropiaciones originadas por las causas señaladas en la fracción VI del artículo 112 los miembros de los ejidos tendrán derecho a recibir dos lotes tipo urbanizados y el equivalente de dos veces el valor comercial de sus tierras agrícolas o el veinte por ciento de las utilidades netas del fraccionamiento. En cualquier caso esta indemnización en efectivo deberá destinarse a los fines señalados y bajo las condiciones prescritas en la fracción anterior.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+II.- Si se trata de expropiaciones originadas por las causas señaladas en la fracción VI del artículo 112, los miembros de los ejidos tendrán derecho a recibir cada uno, dos lotes tipo urbanizados, el equivalente al valor comercial agrícola de sus tierras y el veinte por ciento de las utilidades netas del fraccionamiento.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Tratándose de las expropiaciones cuyo objeto sea la regularización de la tenencia de la tierra, la indemnización cubrirá el equivalente, de dos veces el valor comercial agrícola de las tierras expropiadas y el veinte por ciento de las utilidades netas resultantes de la regularización, en la medida y plazos en que se capten los recursos provenientes de la misma.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+En cualquier caso la indemnización en efectivo deberá destinarse a los fines señalados y bajo las condiciones previstas en la fracción I de este artículo.
 
 ###### ARTICULO 123.
 
@@ -3520,3 +3532,7 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1974.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
