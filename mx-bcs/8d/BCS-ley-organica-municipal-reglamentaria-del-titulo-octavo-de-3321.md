@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1991-12-10"
+last_updated: "1992-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1992.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -97,15 +97,11 @@ Esta Ley Orgánica Municipal es obligatoria para todos los habitantes de los mun
 
 ### CAPITULO PRIMERO. DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1992)</small>
 
 ###### Artículo 11.
 
-El Gobierno de cada Municipio estará encomendado a un Ayuntamiento que se integrará por un Presidente, un Síndico y diez Regidores electos por sufragio universal, directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con dos Regidores electos por el Principio de Representación Proporcional, con las siguientes excepciones: El Ayuntamiento de Comondú, que se integrará con un Presidente, un Síndico y doce Regidores electos por el Sistema de Mayoría Relativa y hasta con tres Regidores electos por el Principio de Representación Proporcional y; el Ayuntamiento de la Capital del Estado, que se integrará con un Presidente, un Síndico y catorce Regidores electos por el Sistema de Mayoría Relativa y hasta con cuatro por el Principio de Representación Proporcional, en los términos que señala la Ley Electoral del Estado.
-
-Por cada miembro Propietario del Ayuntamiento, habrá un Suplente.
-
-Cada Ayuntamiento será electo para un Período de tres años de ejercicio en sus cargos y se renovará en su totalidad al terminar el mismo.
+El Gobierno de cada Municipio estará encomendado a un Ayuntamiento que se integrarán (sic) en base a lo dispuesto por el Artículo 135 de la Constitución Política del Estado de Baja California Sur.
 
 ###### Artículo 12.
 
@@ -1386,3 +1382,9 @@ B.O. 10 DE DICIEMBRE DE 1991.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE JUNIO DE 1992.
+
+###### ARTICULO UNICO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
