@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-municipal-para-el-estado-de-zacatecas-8238"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-29"
-last_updated: "1989-12-27"
+last_updated: "1991-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1991.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sabado 29 de diciembre de 1984.
 
@@ -293,31 +293,17 @@ En la constitución, adquisición, o extinción de usufructos o de la nuda propi
 
 En los casos en que se transmita la nuda propiedad del inmueble la base del impuesto será 50% del valor que se determine de conformidad con lo señalado en las fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 32.
 
-El impuesto se calculará aplicando la tasa del 2% al valor del inmueble.
+El impuesto se claculará (sic) aplicando la tasa del 2% al valor del inmueble.
 
-Cuando el inmueble forme parte de departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1989)</small>
-
-En operaciones que tengan por objeto la enajenación de unidades habitacionales de vivienda social, ya sea por su superficie, características de construcción o financiamiento, la reducción será hasta de 10 veces el salario mínimo general elevado al año.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1989)</small>
-
-Para los efectos del párrafo anterior, se observará el valor que la Dirección de Catastro y Registro Público del Estado le asigne a la vivienda social en la entidad.
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1991)</small>
 
 ###### ARTICULO 33.
 
-La reducción a que se refiere el artículo anterior, se realizará conforme a lo siguiente:
-
-I.- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de veinticuatro meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquiriente, deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el inmueble objeto de la operación colinda con otro que hubiere adquirido con anterioridad para que se ajuste al monto de la reducción, y pagará en su caso las diferencias de impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
-
-II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble la reducción se hará en la proporción que corresponda a dicha parte.
-
-III.- Tratándose de usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
-
-IV.- No se considerarán departamentos habitacionales los que por sus características originales se destinen a servicios domésticos, portería o guarda de artículos aun cuando se utilicen para otros fines.
+Tratándose de operaciones que tengan por objeto la adquisición de unidades habitacionales con una superficie hasta de ciento cinco metros cuadrados y hasta sesenta metros de construcción con predominio de las siguientes características: cimientos de piedra, muros de adobe, block o tabique, aplanados de mezcla, pintura vinílica, techo de bóveda con vigas prefabricadas o loza maciza de 10 cms., pisos de cemento o loseta vinílica, la tasa será del 0%.
 
 #### SECCION CUARTA. DEL PAGO
 
@@ -357,9 +343,13 @@ B) En el caso en que el fideicomitente ceda sus derechos si entre éstos se incl
 
 El pago del impuesto se efectuará a los tres años de la muerte del autor de la sucesión, si transcurrido dicho plazo, no se hubiere llevado a cabo la adjudicación.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 1991)</small>
+
 ###### ARTICULO 38.
 
-Si el impuesto no se cubre dentro del plazo establecido en el artículo 34, el contribuyente pagará un sanción equivalente al 2% sobre el valor que haya servido de base para el pago del propio impuesto. No obstante que el acto jurídico a que se refiere el aviso no esté gravado, se tendrá la obligación de presentarlo en los términos de Ley. La presentación extemporánea de este aviso se sancionará con multa equivalente al 2% del valor real del inmueble.
+Si el impuesto no se cubre dentro del plazo establecido en el artículo 34, se aplicará una sanción del 1% sobre el valor que sirva de base para el pago de impuesto.
+
+No obstante que el acto jurídico a que se refiere el aviso no esté gravado, se tendrá la obligación de presentarlo en los términos de Ley. En caso de no hacerlo, se aplicará la sanción a la que se hace referencia en el párrafo anterior.
 
 ###### ARTICULO 39.
 
@@ -404,6 +394,10 @@ Previamente al otorgamiento de las escrituras, los notarios deberán solicitar p
 ###### ARTICULO 43.
 
 No se pagará el impuesto en las adquisiciones de bienes inmuebles que hagan la Federación, el Estado o los Municipios para formar parte del dominio público y los partidos políticos en los términos de la Ley Federal de Organizaciones Políticas y procesos electorales, así como las adquisiciones por los estados extranjeros en caso de reciprocidad.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 1991)</small>
+
+Tampoco se pagará el Impuesto en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
 ### CAPITULO TERCERO. DEL IMPUESTO SOBRE ANUNCIOS Y PROPAGANDA
 
@@ -619,7 +613,7 @@ EL DIRECTOR GENERAL DE GOBIERNO
 
 LIC. RAUL RODRIGUEZ SANTOYO.
 
-> <small>N. DE E. A CONTINUACIÓN DE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 9 DE ENERO DE 1988
 
@@ -628,3 +622,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 27 DE DICIEMBRE DE 1989
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 1 DE MAYO DE 1991
+
+###### ARTICULO PRIMERO.
+
+Durante los años de 1991, 1992 y 1993 se aplicarán las tasas del 8%, del 6%, y del 4%, respectivamente, en lugar de la tasa establecida en artículo 32 de la Ley de Hacienda Municipal.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día 1º de julio de mil novecientos noventa y uno.
