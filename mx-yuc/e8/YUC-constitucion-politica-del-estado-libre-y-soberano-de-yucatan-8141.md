@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1975-03-26"
+last_updated: "1975-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE MARZO DE 1975.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE OCTUBRE DE 1975.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -239,7 +239,7 @@ Los Poderes Públicos del Estado residirán en la ciudad de Mérida. El Ejecutiv
 
 ### CAPITULO II. De la Elección e Instalación del Congreso
 
-> <small>(REFORMADO, D.O.25 DE ENERO DE 1971)</small>
+> <small>(REFORMADO, D.O.24 DE OCTUBRE DE 1975)</small>
 
 ###### Artículo 18.
 
@@ -259,11 +259,9 @@ Los Diputados son inviolables por las opiniones que manifiesten en el desempeño
 
 ###### Artículo 20.
 
-El Congreso del Estado de Yucatán se compondrá de Representantes electos en su totalidad cada tres años y su elección será popular directa.
+El Congreso del Estado de Yucatán, se compondrá de Representantes electos en su totalidad cada tres años y su elección será popular directa.
 
-La elección de los componentes del Congreso del Estado que debe iniciar sus funciones el primero de enero de mil novecientos setenta y cuatro, se hará para el periodo de dos años, reanudándose para las siguientes elecciones el periodo de tres años que establece el párrafo anterior de este artículo.
-
-Las personas que hubiesen desempeñado las funciones de Diputado, no podrán ser reelectas para el periodo inmediato siguiente. Los Diputados Suplentes podrán ser electos para el periodo inmediato siguiente con el carácter de Propietarios, siempre que no hubiesen estado en ejercicio; pero los Propietarios no podrán ser electos para dicho periodo ni con el carácter de suplentes.
+Las personas que hubiesen desempeñado las funciones de Diputado no podrán ser reelectos para el periodo inmediato siguiente. Los Diputados Suplentes podrán ser electos para el periodo inmediato siguiente con el carácter de Propietario, siempre que no hubiesen estado en ejercicio; pero los Propietarios, no podrán ser electos para dicho periodo ni con el carácter de Suplentes.
 
 > <small>(REFORMADO, D.O.24 DE SEPTIEMBRE DE 1974)</small>
 
@@ -905,7 +903,7 @@ De las sanciones que impongan las autoridades municipales, resolverá definitiva
 
 De los Municipios del Estado.
 
-> <small>(REFORMADO, D.O.25 DE ENERO DE 1971)</small>
+> <small>(REFORMADO, D.O.24 DE OCTUBRE DE 1975)</small>
 
 ###### Artículo 74.
 
@@ -943,11 +941,9 @@ VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administra
 
 ###### Artículo 76.
 
-El Estado de Yucatán, adopta para su régimen interior la forma de Gobierno Republicano, democrático, representativo, popular, teniendo como base de su división territorial y de su organización política y administrativa, los municipios, regidos por Ayuntamientos, sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermediaria. Los Ayuntamientos se compondrán de Concejales, que serán electos en su totalidad, popularmente, por elección directa, cada tres años, en la forma que la Ley prescriba. Uno de los Concejales será electo con carácter de Presidente.
+El Estado de Yucatán adopta para su régimen interior la forma de Gobierno republicano, democrático, representativo, popular, teniendo como base de su división territorial y de su organización política y administrativa, los municipios regidos por Ayuntamientos, sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermediaria, los Ayuntamientos se compondrán de Concejales, que serán electos en su totalidad popularmente, por elección directa cada tres años en la forma que la Ley prescribe. Uno de los Concejales será electo con carácter de Presidente.
 
-La elección de los Concejales que integran los Ayuntamientos del Estado para el periodo constitucional que debe iniciarse el primero de enero de mil novecientos setenta y cuatro, se hará por un periodo de dos años, reanudándose para las siguientes elecciones el periodo de tres años que establece el párrafo anterior de este artículo.
-
-En las elecciones Municipales participarán las mujeres en igualdad de condiciones, que los varones, con el derecho de votar y ser votadas.
+En las elecciones municipales participarán las mujeres en igualdad de condiciones que los varones, con el derecho de votar y ser votadas.
 
 > <small>(REFORMADO, D.O. 2 DE OCTUBRE DE 1946)</small>
 
@@ -1490,6 +1486,12 @@ UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación e
 D.O. 26 DE MARZO DE 1975.
 
 UNICO.- Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 24 DE OCTUBRE DE 1975.
+
+PRIMERO.- Para los efectos del debido cumplimiento de las normas constitucionales que se modifican en este Decreto, los componentes actuales de este Congreso y de los Ayuntamientos del Estado, cesarán en el ejercicio de sus funciones, el día treinta y uno de diciembre del año en curso, como establecieron en su oportunidad las propias disposiciones.
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 ###### ARTICULO PRIMERO.
 
