@@ -4,7 +4,7 @@ identifier: "SON-ley-que-instituye-el-registro-estatal-de-electores-8398"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-03"
-last_updated: "1990-09-03"
+last_updated: "1993-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY QUE INSTITUYE EL REGISTRO ESTATAL DE ELECTORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES; DE LA LEY ELECTORAL PARA L ESTADO DE SONARA PUBLICADA EN EL PERIODICO OFICIAL EL 15 DE NOVIEMBRE DE 1993.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la sección I del Boletín Oficial del Gobierno del Estado de Sonora, el lunes 3 de septiembre de 1990.
 
@@ -423,7 +425,7 @@ III.- Apellido paterno, apellido materno y nombre completo;
 
 IV.- Domicilio;
 
-V Sexo;
+V.- Sexo;
 
 VI.- Edad y año de registro; y
 
@@ -486,3 +488,17 @@ RODOLFO FELIX VALDES
 EL SECRETARIO DE GOBIERNO
 
 HECTOR PARRA ENRIQUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE NOVIEMBRE DE 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO QUINTO.
+
+Se abroga la Ley No. 211, que Instituye el Registro Estatal de Electores, publicada en el Boletín Oficial del Gobierno del Estado, el 3 de septiembre de 1990.
