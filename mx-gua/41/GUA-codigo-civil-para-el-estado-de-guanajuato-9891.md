@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2001-12-21"
+last_updated: "2002-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DEL 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -211,7 +211,7 @@ Las sucursales establecidas en lugares distintos de donde radica la casa matriz,
 
 ###### Art. 35.
 
-Las reglas sobre domicilios establecidas en los artículos que preceden no privan a las persona físicas o morales del derecho de designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
+Las reglas sobre domicilios establecidas en los artículos que preceden no privan a las personas físicas o morales del derecho de designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
 
 ## Título Cuarto. Del Registro Civil
 
@@ -2107,7 +2107,7 @@ Si fueren varios los que deban dar los alimentos y todos tuvieren posibilidad de
 
 ###### Art. 367.
 
-Si sólo algunos tuvieran posibilidad, entre ellos se repartirá el importe de los alimentos, y si uno sólo la tuviere, el cumplirá únicamente la obligación.
+Si sólo algunos tuvieran posibilidad, entre ellos se repartirá el importe de los alimentos, y si uno sólo la tuviere, él cumplirá únicamente la obligación.
 
 ###### Art. 368.
 
@@ -2541,7 +2541,7 @@ III. A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ###### Art. 446.
 
-La adopción es un acto jurídico por el cual se confiere a uno o varios menores o incapacitados, aún cuando éstos sean mayor de edad, la posesión de estado de hijo del o de los adoptantes y a éstos los deberes inherentes a la relación de parentesco.
+La adopción es un acto jurídico por el cual se confiere a uno o varios menores o incapacitados, aún cuando éstos sean mayores de edad, la posesión de estado de hijo del o de los adoptantes y a éstos los deberes inherentes a la relación de parentesco.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
 
@@ -2931,7 +2931,7 @@ Estas medidas se tomarán a instancias de las personas interesadas, del menor cu
 
 ###### Art. 495.
 
-Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o Ileguen a la mayor edad, todos los bienes y frutos que les pertenecen.
+Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
 ### Capítulo III. De la tutela legítima de los menores
 
@@ -2981,7 +2981,7 @@ I. Por la incapacidad declarada judicialmente;
 
 II. Por la ausencia declarada en forma;
 
-lII. Por la sentencia condenatoria que imponga esta suspensión.
+III. Por la sentencia condenatoria que imponga esta suspensión.
 
 ###### Art. 501.
 
@@ -12589,6 +12589,14 @@ El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en
 
 Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor ni de registro. La hipoteca constituída para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+Se podrán ceder los créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro Público, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá notificar por escrito la sesión (sic) al deudor. En cualquier caso, a requerimiento del deudor hipotecario, el acreedor primitivo podrá informarle a quién cedió el crédito.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor del o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
+
 ###### Art. 2421.
 
 La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice, y cuando ésta no tuviere término para su vencimiento, la hipoteca no podrá durar más de diez años.
@@ -15994,3 +16002,9 @@ El presente Decreto entrará en vigor el cuarto día siguiente al de su publicac
 P.O. 21 DE DICIEMBRE DE 2001.
 
 Artículo Unico.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2002.
+
+Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Las reformas y adiciones del presente Decreto, solo serán aplicables respecto de los créditos que se contraten posteriormente a la entrada en vigor del mismo.
