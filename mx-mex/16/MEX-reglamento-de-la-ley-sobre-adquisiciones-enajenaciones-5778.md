@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-sobre-adquisiciones-enajenaciones-5778"
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-02-19"
-last_updated: "1986-02-19"
+last_updated: "2000-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, MANTENIMIENTOS Y ALMACENES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE ADQUISICIONES DE BIENES MUEBLES Y SERVICIOS DEL ESTADO DE MEXICO, PUBLICADA EN LA SECCION TERCERA DE LA G.G. DE 22 DE MARZO DE 2000, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 19 de febrero de 1986.
 
@@ -684,3 +686,21 @@ EL SECRETARIO DE ADMINISTRACION
 Dr. Carlos F. Almada López.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 22 DE MARZO DE 2000.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- Esta ley entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO.- Se abroga la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos, Mantenimientos y Almacenes, publicada en la "Gaceta del Gobierno" el día dos de febrero de mil novecientos ochenta y dos; y su Reglamento.
+
+CUARTO.- El titular del Poder Ejecutivo expedirá, en el ámbito de su competencia, las disposiciones reglamentarias correspondientes.
+
+QUINTO.- Los actos relacionados con las adquisiciones, arrendamientos y servicios, que se encuentren en trámite al entrar en vigor esta ley, se decidirán conforme a las disposiciones legales anteriores a la misma.
+
+SEXTO.- Los comités de adquisiciones de las instituciones públicas se instalarán dentro de los sesenta días hábiles posteriores a la entrada en vigor de la presente ley. En tanto se instalan, sus funciones las realizarán los comités de adquisiciones integrados conforme a la estructura anterior.
+
+SEPTIMO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente ley.
