@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-caja-de-ahorros-y-prestamos-de-la-policia-1237
 country: "mx"
 rank: "reglamento"
 publication_date: "1922-01-26"
-last_updated: "1922-01-26"
+last_updated: "1922-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12376&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1921-12-19"
 
 REGLAMENTO DE LA CAJA DE AHORRO Y PRESTAMOS DE LA POLICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 1922.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 26 de enero de 1922.
 
@@ -116,23 +116,37 @@ La administración del CASINO DE LA POLICIA, de conformidad con su Reglamento in
 
 Pensiones y Retiros
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1922)</small>
+
 ###### ARTICULO 12o.
 
-Conforme a las disposiciones de la Ordenanza General para los Cuerpos de Policía, la Caja de Ahorros concederá pensiones y retiros a los miembros de las Gendarmerías y Cuerpo de Bomberos, sujetándose en todo a las prevenciones de dicha Ordenanza.
+La Caja de Ahorros y Préstamos de la Policía del Gobierno del Distrito Federal, con aprobación del Gobernador del Distrito, y previa información del Inspector General de Policía, otorgará pensiones vitalicias y bienales a los miembros de las Gendarmerías y Cuerpo de Bomberos de la ciudad de México, que causaren baja, o a sus beneficiarios, por las causas siguientes:
+
+Vitalicias
+
+I.- Por veinte años de servicios consecutivos en la Institución de Policía;
+
+II.- Por enfermedad incurable (previa certificación facultativa), contraída por causas del servicio y, por lo mismo, imposibilitados para el trabajo;
+
+III.- Por inutilizarse para el trabajo al ejecutar cualquier acto del servicio.
+
+Bienales
+
+I.- Por muerte de los pensionados vitalicios, sus beneficiarios seguirán percibiendo la misma pensión hasta completar el importe de dos años;
+
+II.- Por muerte al ejecutar cualquier acto del servicio, sus beneficiarios serán pensionados por dos años, o hasta completar su importe si éste no hubiere sido cubierto en el período citado.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1922)</small>
 
 ###### ARTICULO 13o.
 
-La Caja de Ahorros pagará las citadas pensiones y retiros en la forma siguiente:
+El valor de las pensiones a que se refieren las cláusulas del artículo anterior, será el siguiente:
 
-I.- Por decenas vencidas y previa exhibición de tarjetas de identificación de los interesados (vitalicias) o de sus beneficiarios (Bienales) y que la Caja de Ahorros costeará;
+I.- Comandantes 1os. y 2os., setenta y cinco pesos mensuales ($75.00);
 
-II.- Personalmente a los interesados, a sus beneficiarios, o a terceras personas, mediante carta poder, siempre que los poderdantes residieren en el Distrito Federal, pero deberán presentarse en la Caja de Ahorros, cada fin de mes, para refrendar sus cartas-poder;
+II.- Oficiales y Suboficiales, sesenta pesos mensuales ($60.00);
 
-III.- Si los poderdantes estuvieren imposibilitados para cumplimentar lo dispuesto en la cláusula anterior, un empleado de la Caja de Ahorros los visitará mensualmente, no siendo necesario en este caso, el refrendo de la carta poder;
-
-IV.- El importe de las pensiones o retiros no cobrado en un período no mayor de un año pero mayor de un mes será pagado íntegro en un (sic) sola vez y DIRECTAMENTE a los pensionados y en caso de imposibilidad para presentarse en la Caja de Ahorros, un empleado de ésta hará el pago en el domicilio de los interesados;
-
-V.- No se pagarán pensiones ni retiros por medio de giros, ni en ninguna otra forma fuera de los prescritos.
+III.- Gendarmes y Bomberos, cuarenta y cinco pesos mensuales ($45.00).
 
 ###### ARTICULO 14o.
 
@@ -144,21 +158,27 @@ II.- Hijos;
 
 III.- Padres.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1922)</small>
+
 ###### ARTICULO 15o.
 
-Los miembros de la Policía a que se refiere el artículo anterior, que carecieren de los familiares de referencia, podrán hacer constar como sus beneficiarios a estas personas, familiares o no que vivan a expensas de los solicitantes de pensiones, si llenaren los requisitos siguientes:
+Los miembros de las Gendarmerías o Cuerpo de Bomberos de la ciudad de México, que de conformidad con cualquiera de las tres cláusulas de la primera parte del artículo 12, consideren con derecho a una pensión vitalicia, la solicitarán por escrito ante el C. Gobernador del Distrito Federal, acompañando una copia de su hoja de servicios autorizada por el C. Inspector General de Policía, y haciendo constar en su solicitud los nombres de los beneficiarios en el orden siguiente:
 
-I.- Mujeres: si son solteras o viudas;
+I.- Esposas;
 
-II.- Hombres: si son menores de edad.
+II.- Hijos;
+
+III.- Padres.
 
 ###### ARTICULO 16o.
 
 Los beneficiarios de los miembros de las Gendarmerías de a Pie, Montada o Cuerpo de Bomberos que, se consideraren con derecho a una pensión bienal la solicitarán por escrito ante el Gobernador del Distrito Federal acompañando el comprobante del caso autorizado por el Inspector General de Policía.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1922)</small>
+
 ###### ARTICULO 17o.
 
-Los miembros de las Gendarmerías de a Pie, Montada o Cuerpo de Bomberos con obligación de declarar beneficiarios, en sus contratos de enganche, o en sus solicitudes de pensión tendrán el derecho de cambiarlos, manifestándolo por escrito a la Inspección General de Policía, si se tratare de los contratos de enganche, o a la Caja de Ahorros si se tratare de pensiones.
+Los beneficiarios de los miembros de las Gendarmerías o Cuerpo de Bomberos de la ciudad de México que de conformidad con la cláusula II de la segunda parte del artículo 12, se consideren con derecho a una pensión bienal, la solicitarán por escrito ante el Gobernador del Distrito, acompañando los comprobantes del caso, a que se refiere la citada cláusula II, autorizados por el Inspector General de Policía.
 
 ###### ARTICULO 18o.
 
@@ -284,7 +304,9 @@ Préstamos Mercantiles a Empleados del Gobierno del Distrito y sus dependencias
 
 Las personas que comprobaren estar en servicio activo, en alguna oficina del Gobierno del Distrito, o de alguna de sus dependencias, tendrá derecho a un préstamo de la Caja de Ahorros, de CIEN A QUINIENTOS PESOS en las condiciones siguientes:
 
-I.- El pagaré será mancomunado por el solicitante del préstamo y un comerciante solvente, a juicio del Director Gerente de la Caja de Ahorros, y radicado en el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1922)</small>
+
+I.- El pagaré será mancomunado por el solicitante del préstamo y un comerciante, banquero, industrial o propietario solvente, a juicio del Director Gerente de la Caja de Ahorros, y radicado en el Distrito Federal;
 
 II.- El plazo será de uno a seis meses, forzosos para la Caja de Ahorros, únicamente;
 
@@ -312,7 +334,9 @@ Préstamos hipotecarios
 
 Los préstamos hipotecarios, se harán de cantidades de MIL A CINCO MIL PESOS, en las condiciones siguientes:
 
-I.- Sobre inmuebles que valgan, cuando menos, el doble del préstamo, según avalúo de un perito Ingeniero nombrado por la Caja de Ahorros, y cuyos honorarios cubrirá el solicitante caso de que se formalice la operación;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1922)</small>
+
+I.- Sobre inmuebles, que valgan cuando menos el doble del préstamo, según avalúo de un Perito Ingeniero, nombrado por la Caja de Ahorros;
 
 II.- Los inmuebles deberán estar ubicados, en toda su extensión, en el Distrito Federal, con excepción de los terrenos no fincados sobre los que se podrá constituir garantía hipotecaria, siempre que estuvieren ubicados precisamente dentro del perímetro de la Municipalidad de México;
 
@@ -326,7 +350,9 @@ VI.- Los plazos serán de UNO a CINCO AÑOS, forzosos únicamente para la Caja d
 
 VII.- El interés anual, será de dieciocho por ciento pagadero en mensualidades adelantadas;
 
-VIII.- Se aceptarán abonos al capital, no menores de cien pesos pero si no estuvieren cubiertos los réditos se aplicarán estos abonos en todo caso, sobre capitales insolutos;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1922)</small>
+
+VIII.- Se aceptarán abonos al capital, no menores de cien pesos y siempre que estuvieren cubiertos los réditos, aplicándose éstos, en todo caso, sobre capitales insolutos;
 
 IX.- Los pagos se harán precisamente en las Oficinas de la Caja de Ahorros, sin necesidad de previo cobro;
 
@@ -357,6 +383,10 @@ III.- No se descontarán documentos cuyo vencimiento exeda (sic) de noventa día
 IV.- El tipo del descuento será de dos por ciento mensual, aplicado totalmente al celebrarse la operación;
 
 V.- En todo caso el tipo del descuento, se aplicará sobre treinta días, aunque el plazo del vencimiento fuere menor.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1922)</small>
+
+ARTICULO 38o BIS.- No podrá celebrarse ninguna operación de préstamos a empleados, hipotecarios o de descuento, si no es previa aprobación escrita del Gobierno del Distrito Federal.
 
 Depósitos en cuenta corriente
 
@@ -424,7 +454,9 @@ VI.- Las anotaciones de las bajas, en las listas de Revista de Administración, 
 
 (f) Desertor;
 
-VII.- Los gendarmes y bomberos o sus beneficiarios, con derecho a sus depósitos, podrán retirarlos con sólo exhibir en la Caja de Ahorros y firmada por el Inspector General de Policía una constancia que exprese el nombre, número o clase del interesado y la fecha y causa de la baja;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1922)</small>
+
+VII.- Los gendarmes y bomberos, o sus beneficiarios, con derecho a sus depósitos, podrán retirarlos con sólo exhibir en la Caja de Ahorros, firmada por el Comandante respectivo, una constancia que exprese el nombre, número y causa de la baja de éstos;
 
 VIII.- Si los gendarmes o bomberos que hubieren perdido sus depósitos, de conformidad con la cláusula V demostraren tener derecho a la rehabilitación de su cuenta de depósito, si siguieren en el servicio, o a la devolución de valores por haber causado baja legalmente, la Caja de Ahorros les rehabilitará su cuenta o los (sic) devolverá sus valores, respectivamente, previa liquidación de sus adeudos.
 
@@ -436,13 +468,21 @@ Constituirán un depósito a la orden del Gobierno del Distrito, las cantidades 
 
 I.- Las pagadurías antes de verificar los descuentos, a que se refiere la cláusula anterior, comunicarán a la Caja de Ahorros los nombres de los responsables, con indicación de las prendas y su valor, que será proporcionado al período de tiempo que hubieren estado en uso;
 
-II.- El valor de las prendas de que dispusieren los gendarmes y bomberos, al causar deserción, se acreditará previo aviso mensual del Gobierno del Distrito a la “Cuenta de Prendas” con cargo a las de los Depósitos de los desertores después de liquidados los adeudos que éstos tuvieron en la Caja de Ahorros;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1922)</small>
+
+II.- El valor de las prendas de que dispusieren los gendarmes y bomberos al causar deserción, se acreditará previo aviso trimestral del Gobierno del Distrito, a la “Cuenta de Prendas” con cargo a la de los depósitos de los desertores, después de liquidados los adeudos que éstos debieren a la Caja de Ahorros;
 
 III.- Las listas de desertores con prendas (que servirán de base para hacer la operación a que se refiere la cláusula anterior) deberán contener las fechas de deserción y las de dotación de las prendas, así como el valor de éstas, proporcionado el período de tiempo que hubieren estado en uso;
 
-IV.- Mensualmente se hará la operación de referencia y se remitirá al Gobierno del Distrito una copia del movimiento de la Cuenta de Prendas;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1922)</small>
+
+IV.- Trimestralmente se hará la operación de referencia y se remitirá al Gobierno del Distrito una copia del movimiento de la Cuenta de Prendas;
 
 V.- Los gendarmes y bomberos, que estuvieren a descuento, por extravío de prendas, podrán saldar el valor de éstas, en un solo pago, directamente en la Caja de Ahorros la que lo participará a la Pagaduría respectiva.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1922)</small>
+
+ARTICULO 42o BIS.- Las aplicaciones de depósitos de fianza, al “Fondo de Prendas,” en los casos de deserciones con prendas, se harán en la totalidad del que tenía en su favor el desertor, no obstante que la cantidad que se hubiere llevado en prendas fuere menor, a fin de que resulte compensado el Gobierno del Distrito en los casos en que los desertores se llevan mayor cantidad en prendas que la que alcanzan a cubrir con sus depósitos de fianza.
 
 Procesados
 
@@ -452,9 +492,13 @@ Las pagadurías respectivas, remitirán a la Caja de Ahorros en cada período de
 
 I.- Si los procesados fueren absueltos, tendrán derecho a su depósito con sólo exhibir la boleta de libertad por no acusación o absolución y el aviso de la corporación de sueltos expedida por el Juez respectivo, boleta que les será devuelta, con la anotación de haber sido pagado el depósito;
 
-II.- Si los procesados fueren sentenciados, perderán sus depósitos, los que se reintegrarán a la Tesorería General del Gobierno del Distrito;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1922)</small>
 
-III.- Si los procesados absueltos hubieren fallecido sin haber retirado su depósito, lo podrán hacer sus beneficiarios especificados, con sólo exhibir los documentos a que se refiere la fracción I, pero transcurrido un plazo de 90 días sin que se hiciere dicho cobro, esos medios haberes quedarán a beneficio de la Caja de Ahorros;
+II.- Si los procesados fueren sentenciados, perderán sus depósitos en favor de la Caja de Ahorros;
+
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1922)</small>
+
+III.- Si los procesados absueltos hubieren fallecido sin haber retirado sus depósitos, lo podrán hacer sus beneficiarios, con sólo exhibir los documentos a que se refiere la fracción I;
 
 IV.- A falta de beneficiarios especificados, se observarán las reglas establecidas en el artículo 18o. si el caso ameritare una pensión, pues respecto al derecho a este depósito, no se tomarán en cuenta, ni la edad, ni el estado civil de los interesados.
 
@@ -550,9 +594,11 @@ El Cajero antes de entregar o recibir valores revisará los documentos relativos
 
 La Contabilidad se llevará por partida doble, forma bancaria, siendo autorizados por el Gobernador del Distrito, los libros prevenidos por el Código de Comercio.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1922)</small>
+
 ###### ARTICULO 58o.
 
-En el libro de Caja se asentarán las operaciones diariamente, con cargo a las cuentas de la nomenclatura del Libro Mayor, rindiendo a la Dirección y Gerencia también diariamente, un Corte de Caja de primera operación y uno de segunda operación dentro de los tres días siguientes al último de cada mes, acompañado de listas de las operaciones relativas a cuentas personales.
+En el Libro de Caja se asentarán operaciones diariamente, con cargo o crédito a las cuentas de nomenclatura del “Mayor,” rindiendo la Dirección y Gerencia, también diariamente, un Corte de Caja de primera operación y uno de segunda operación, dentro de los tres días siguientes al último de cada mes, acompañado de listas de las operaciones relativas a cuentas personales.
 
 ###### ARTICULO 59o.
 
@@ -582,9 +628,11 @@ Se llevará cuenta del movimiento de entrada y salida de implementos de escritor
 
 Los empleados extenderán un vale por cada volumen que solicitaren del Archivo.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1922)</small>
+
 ###### ARTICULO 66o.
 
-El Director Gerente, el Contador y el Cajero, deberán extender fianza que caucione su manejo por una cantidad equivalente al sueldo de dos años de que disfruten según el presupuesto de la Caja de Ahorros, pero la prima correspondiente será reintegrada anualmente por la Caja de Ahorros a los interesados con cargo a “Gastos Generales.”
+El Director Gerente, el Contador y el Cajero, deberán extender fianza que cauciones su manejo por una cantidad equivalente al sueldo de dos años de que disfruten según el presupuesto de la Caja de Ahorros; pero la prima correspondiente será pagada por la Caja de Ahorros, con cargo a gastos generales.
 
 ###### ARTICULO 67o.
 
@@ -603,3 +651,11 @@ Sufragio Efectivo. No Reelección.
 México, D. F., a 19 de diciembre de 1921.- El Gobernador del Distrito, C. Gasca,- Rúbrica.- El Secretario General, A. Vázquez del Mercado, Rúbrica.
 
 Al C. . . . .
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 17 DE JULIO DE 1922.
+
+PRIMERO.- Las presentes adiciones y reformas comenzarán a surtir sus efectos desde la fecha, con excepción de las referentes a traspasos de fianzas a prendas, contenidas en el artículo 42 bis, que empezará a surtir sus efectos desde el día primero de junio último.
+
+SEGUNDO.- La Gerencia de la Caja de Ahorros y Préstamos de la Policía, procederá desde luego a hacer una edición oficial de los Estatutos y Reglamento de dicha Institución, ya consideradas las adiciones y reformas a que se refiere el presente.
