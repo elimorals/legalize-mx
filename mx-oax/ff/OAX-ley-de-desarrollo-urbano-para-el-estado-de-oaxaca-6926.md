@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-urbano-para-el-estado-de-oaxaca-6926"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-20"
-last_updated: "1993-02-20"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 20 de febrero de 1993.
 
@@ -181,9 +181,11 @@ Los planes de desarrollo urbano, programas, declaratorias, provisiones, usos, re
 
 Los notarios y el Registro Público de la Propiedad, cuando autoricen o registren operaciones o documentos sobre conversión de propiedad ejidal a dominio pleno y de éste al régimen ejidal, así como la adquisición de tierra por sociedades mercantiles o civiles deberán sujetarse a lo dispuesto por el artículo anterior.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 21.
 
-Para los efectos de esta Ley se entiende por Secretaría, a la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas.
+Para los efectos de esta Ley se entiende por Secretaría, a la Secretaría de Obras Públicas.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES, DE LA COMISIÓN ESTATAL DE DESARROLLO URBANO Y DE LA PARTICIPACIÓN CIUDADANA
 
@@ -753,7 +755,9 @@ III.- Se proyecte o funde un centro de población y se prevea su expansión en t
 
 El Gobernador del Estado sancionará y en su caso expedirá la declaratoria de conurbación, de conformidad con el pacto celebrado en los términos del artículo anterior y se publicará como lo establece la presente Ley.
 
-Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación intermunicipal convocará por conducto del Secretario de Desarrollo Urbano, Comunicaciones y Obras Públicas a los Presidentes Municipales correspondientes para constituir dentro de los treinta días siguientes, una Comisión intermunicipal de carácter permanente, que ordene y regule el desarrollo urbano en dicha zona.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+
+Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación intermunicipal convocará por conducto del Secretario de Obras Públicas a los Presidentes Municipales correspondientes para constituir dentro de los treinta días siguientes, una Comisión intermunicipal de carácter permanente, que ordene y regule el desarrollo urbano en dicha zona.
 
 La Comisión de conurbación será presidida por el Secretario mencionado.
 
@@ -1057,7 +1061,7 @@ El Ejecutivo del Estado a través de la Dependencia o Entidad correspondiente, e
 
 ###### ARTICULO 105.
 
-La regularización de la tenencia de la tierra urbana que realice el Ejecutivo del Estado en coordinación con los Ayuntamientos, se sujetará a las siguientes Normas (sic):
+La regularización de la tenencia de la tierra urbana que realice el Ejecutivo del Estado en coordinación con los Ayuntamientos, se sujetará a las siguientes Normas:
 
 I.- La regularización de la tenencia de la tierra procederá conforme al Plan o Programa de Desarrollo Urbano aplicable;
 
@@ -1079,7 +1083,7 @@ DE LA FUSIÓN, SUBDIVISIÓN, RELOTIFICACIÓN Y FRACCIONAMIENTO DE TERRENOS.
 
 ###### ARTICULO 107.
 
-Para los efectos de esta Ley, se entiende por fusión a la unión en un solo predio de (sic) dos o más terrenos colindantes.
+Para los efectos de esta Ley, se entiende por fusión a la unión en un solo predio de dos o más terrenos colindantes.
 
 ###### ARTICULO 108.
 
@@ -1511,7 +1515,7 @@ Todos los proyectos relativos a la estructura vial deberán corresponder a la es
 
 ###### ARTICULO 166.
 
-La Secretaría y el Ayuntamiento respectivo determinará (sic):
+La Secretaría y el Ayuntamiento respectivo determinará:
 
 I.- Los proyectos de redes viales y el establecimiento de los servicios e instalaciones correspondientes, así como sus aracterísticas (sic);
 
@@ -1782,3 +1786,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. AGUSTIN MARQUEZ URIBE.
 
 Al C.....
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
