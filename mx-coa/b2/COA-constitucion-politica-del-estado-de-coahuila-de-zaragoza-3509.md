@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1954-07-28"
+last_updated: "1956-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,13 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 1954.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 1956.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
+
+GUSTAVO ESPINOSA MIRELES, Gobernador Constitucional del Estado, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes, sabed:
+
+Que el Congreso del mismo ha decretado lo siguiente:
 
 GUSTAVO ESPINOSA MIRELES, Gobernador Constitucional del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes, sabed:
 
@@ -352,11 +356,11 @@ Si los miembros de la Diputación Permanente no concurrieren, los Diputados que 
 
 De las Sesiones del Congreso.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1956)</small>
 
 ###### Artículo 46.
 
-La Legislatura tendrá cada año un período ordinario de Sesiones que comenzará el 20 de noviembre y terminará el 31 de marzo del siguiente año. Podrá cerrar sus sesiones antes de ese día o prolongarlas hasta por tres meses, si lo estima conveniente, siendo necesario en estos casos la aprobación de las dos terceras partes de los Diputados presentes.
+La Legislatura tendrá cada año un período ordinario de sesiones que comenzará el 15 de noviembre y terminará el 31 de Marzo del siguiente año. Podrá cerrar sus sesiones antes de ese día o prolongarlas hasta por tres meses, si lo estima conveniente, siendo necesario en estos casos, la aprobación de las dos terceras partes de los Diputados presentes.
 
 ###### Artículo 47.
 
@@ -366,9 +370,11 @@ El Congreso podrá reunirse en sesiones extraordinarias cada vez que fuere convo
 
 Las sesiones extraordinarias deberán cerrarse precisamente antes del día en que deban celebrarse las ordinarias, aún cuando no hayan sido despachados los asuntos que motivaron la convocatoria, los que se resolverán de preferencia en el período ordinario.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1956)</small>
+
 ###### Artículo 49.
 
-El Gobernador del Estado asistirá a la apertura de las sesiones ordinarias y leerá un informe sobre el estado y las necesidades de la Administración. El Presidente de la Cámara le contestará en términos generales.
+El Gobernador del Estado asistirá cada dos años a la apertura de las sesiones ordinarias y leerá un informe sobre el estado y las necesidades de la Administración. El Presidente de la Cámara le contestará en términos generales.
 
 ###### Artículo 50.
 
@@ -786,11 +792,13 @@ II. Publicar, circular y hacer cumplir, las Leyes y Decretos del Congreso del Es
 
 III. Cuidar de la observancia de la Constitución General, la particular del Estado y de las leyes que de ella emanen.
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 1956)</small>
 
-IV. Concurrir cada año al Acto de Apertura del Período de Sesiones Ordinarias del Congreso y presentar en este acto un Informe sobre el Estado de la Administración.
+IV. Concurrir cada dos años al Acto de Apertura del Período de Sesiones Ordinarias del Congreso y presentar en este acto un Informe sobre el Estado de la Administración.
 
-V. Presentar al día siguiente de la apertura del período de sesiones ordinarias del Congreso, por medio de la Secretaría del Ejecutivo y del Estado, una memoria del estado de la Administración Pública en todos sus ramos.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 1956)</small>
+
+V. Presentar al día siguiente de la apertura del período de sesiones ordinarias del Congreso, en el año en que no le corresponda leer informe personal, una Memoria en que coste el Estado de la Administración Pública durante ese año Fiscal.
 
 VI. Presentar al Congreso dentro de los primeros cuatro meses del año fiscal, la cuenta general del año anterior.
 
@@ -1530,11 +1538,11 @@ Los funcionarios públicos que entren a ejercer su encargo después del día se�
 
 No podrán formar parte de un mismo Ayuntamiento dos munícipes que sean parientes por consanguinidad, dentro del segundo grado.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 1956)</small>
 
 ###### Artículo 193.
 
-Si se interrumpe el orden Constitucional en el Estado y durante la interrupción fenecieren o se declararen fenecidos, conforme a la Ley, los Períodos Constituciones del Gobernador, Magistrados y Diputados, el que ejerza provisionalmente el Gobierno, convocará a elecciones inmediatamente que pasen las circunstancias que hayan determinado la interrupción, y los individuos que resultaren electos, sólo funcionarán el tiempo que falte para concluir el período respectivo; pero si las elecciones debieran verificarse después de los primeros años del ejercicio Constitucional interrumpido, éstas se harán por un período completo, computándose para el Gobernador y Magistrados, desde el primero de diciembre del año en que deban tomar posesión de su cargo y para los Diputados desde el veinte de noviembre anterior.
+Si se interrumpe el orden Constitucional en el Estado y durante la interrupción fenecieren o se declaren fenecidos, conforme a la Ley, los Períodos Constituciones del Gobernador, Magistrados y Diputados, el que ejerza provisionalmente el Gobierno, convocará a elecciones inmediatamente que pasen las circunstancias que hayan determinado la interrupción, y los individuos que resultaren electos, sólo funcionarán el tiempo que falte para concluir el período respectivo; pero si las elecciones debieran verificarse después de los primeros años del ejercicio Constitucional interrumpido, éstas se harán por un período completo, computándose para el Gobernador y Magistrados, desde el primero de diciembre del año en que deban tomar posesión de su cargo y para los Diputados desde el quince de noviembre anterior.
 
 ###### Artículo 194.
 
@@ -1756,8 +1764,14 @@ P.O. 16 DE MAYO DE 1951.
 
 ###### ARTICULO SEGUNDO
 
-- " " A fin de dar cumplimiento a lo dispuesto en el Artículo 142 de la Constitución Política Local, los Magistrados que se designen para iniciar sus labores el 1o. de Diciembre de 1953, durarán cuatro años en el ejercicio de su encargo "" (sic).
+- " " A fin de dar cumplimiento a lo dispuesto en el Artículo 142 de la Constitución Política Local, los Magistrados que se designen para iniciar sus labores el 1o. de Diciembre de 1953, durarán cuatro años en el ejercicio de su encargo"" (sic).
 
 P.O. 28 DE JULIO DE 1954.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 25 DE ABRIL DE 1956.
+
+###### ARTICULO UNICO
+
+- Las reformas a los Artículos 46, y 193 de la Constitución Política Local, entrarán en vigor a partir del 15 de noviembre de 1961 por lo que la Legislatura que se elija para sustituir a la actual, iniciará su período el 20 de noviembre de 1958 para terminarlo el 14 de noviembre de 1961.
