@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-de-los-servidores-publicos-del-6355"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-27"
-last_updated: "1986-07-21"
+last_updated: "1991-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 04 DE MARZO DE 1991.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 27 de septiembre de 1984.
 
@@ -45,7 +45,9 @@ Esta Ley tiene por objeto reglamentar el Título Cuarto de la Constitución Pol�
 
 I. Los sujetos de responsabilidad en el servicio público;
 
-II. Las obligaciones en el servicio público;
+> <small>(REFORMADA, P.O. 04 DE MARZO DE 1991)</small>
+
+II. La Contraloría General y la Oficialía Mayor de los Poderes Legislativo y Judicial.
 
 III. Las responsabilidades y sanciones en el servicio público;
 
@@ -407,11 +409,13 @@ XVI. Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener be
 
 XVII. Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o las personas a que se refiere la fracción XIII;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 04 DE MARZO DE 1991)</small>
 
-XVIII. Presentar con oportunidad y veracidad, su declaración de situación patrimonial ante la Oficialía Mayor del Poder Ejecutivo, en el caso de los servidores públicos adscritos a las Dependencias del Poder Ejecutivo, Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos; a la Oficialía Mayor del Congreso del Estado, cuando se trate de servidores públicos del Poder Judicial y a la Contaduría General de Glosa, en los casos de los servidores públicos de los municipios, en los términos que señala la Ley;
+XVIII. Presentar con oportunidad y veracidad, su declaración de situación patrimonial ante la Contraloría General, en el caso de los servidores públicos adscritos a las dependencias del Poder Ejecutivo, Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos; a la Oficialía Mayor del Congreso del Estado, cuando se trate de servidores públicos del Poder Legislativo; a la Oficialía Mayor del Supremo Tribunal de Justicia del Estado, cuando se trate de servidores públicos del Poder Judicial; y a la Contaduría General de Glosa, en los casos de los servidores públicos de los Municipios, en los términos que señala la Ley;
 
-XIX. Atender con diligencia las instrucciones, requerimientos y resoluciones administrativas que reciban de la Oficialía Mayor, en el caso de los servidores públicos de la administración pública; de la Oficialía Mayor del Supremo Tribunal en el caso de los servidores públicos del Poder Judicial y a la Oficialía Mayor del Congreso en el caso de los servidores públicos del Poder Legislativo; de los ayuntamientos y presidentes municipales en el caso de los Municipios, siempre y cuando conforme a la Ley dependan de los funcionarios citados;
+> <small>(REFORMADA, P.O. 04 DE MARZO DE 1991)</small>
+
+XIX. Atender con diligencia las instrucciones, requerimientos y resoluciones administrativas que reciban de la Contraloría General en el caso de los servidores públicos de la Administración Pública; de la Oficialía Mayor del Supremo Tribunal de Justicia, en el caso de los servidores públicos del Poder Judicial; y de la Oficialía Mayor del Congreso, en el caso de los servidores públicos del Poder Legislativo; de los Ayuntamientos y Presidentes Municipales en el caso de los Municipios, siempre y cuando conforme a la Ley, dependan de los funcionarios citados;
 
 XX. Informar al superior jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo y en los términos de las normas que al efecto se expidan;
 
@@ -421,9 +425,11 @@ XXII. Los demás que le impongan las leyes, reglamentos y demás disposiciones.
 
 ### CAPITULO VII. Sanciones Administrativas y Procedimiento para Aplicarlas
 
+> <small>(REFORMADO, P.O. 04 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 45.
 
-En las dependencias y entidades de la Administración Pública se establecerán unidades a las que el público tenga fácil acceso, para que cualquier interesado, pueda presentar quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos, con las que la Oficialía Mayor iniciará en el término de ocho días, el procedimiento disciplinario correspondiente. De igual forma los Ayuntamientos en sus respectivos ámbitos instalarán las unidades para que el interesado pueda presentar sus quejas y denuncias.
+En las dependencias y entidades de la Administración Pública, se establecerán unidades a las que el público tenga fácil acceso, para que cualquier interesado, pueda presentar quejas o denuncias por incumplimiento de las obligaciones de los servidores públicos, con las que la Contraloría General iniciará en el término de ocho días, el procedimiento disciplinario correspondiente. De igual forma, los Ayuntamientos en sus respectivos ámbitos, instalarán las unidades para que el interesado pueda presentar sus quejas y denuncias.
 
 ###### ARTICULO 46.
 
@@ -433,9 +439,13 @@ Establecerá también los órganos y sistemas para identificar, investigar y det
 
 Lo propio hará, conforme a la legislación respectiva y por lo que hace a su competencia, el Poder Legislativo.
 
+> <small>(REFORMADO, P.O. 04 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 47.
 
-Los servidores públicos de la Administración Pública, que incurran en responsabilidades por incumplimiento de las obligaciones que señala el Artículo 44 de esta Ley, serán sancionados conforme al presente Capítulo por la Oficialía Mayor del Ejecutivo.
+Los servidores públicos de la Administración Pública, que incurran en responsabilidades por incumplimiento de las obligaciones que señala el Artículo 44 de esta Ley, serán sancionados conforme al presente capítulo por la Contraloría General.
+
+La Tesorería General del Estado podrá practicar embargo en bienes del presunto responsable, para garantizar el monto de la responsabilidad, en tanto la Contraloría General determine definitivamente la cantidad a cubrir.
 
 ###### ARTICULO 48.
 
@@ -477,55 +487,67 @@ VII. El monto, beneficio, daño o perjuicio económicos, derivados del incumplim
 
 Para la aplicación de las sanciones a que hace referencia el artículo 48 de esta Ley, se observarán las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
 
-I. El apercibimiento, la amonestación y la suspensión del empleo, cargo o comisión, por un período no mayor de 3 días, serán aplicables por el superior jerárquico del servidor público, debiendo en todos los casos, notificar a la Oficialía Mayor del Poder Ejecutivo, Legislativo o Judicial, según corresponda, para efecto de que se asienten en el expediente del servidor respectivo. De igual forma se hará con los servidores públicos municipales, comunicándolo al Presidente Municipal; en todo caso, deberá enviarse copia de los comunicados al Sindicato respectivo, cuando se trate de servidor público sindicalizado.
+I. El apercibimiento, la amonestación y la suspensión del empleo, cargo o comisión, por un período no mayor de tres días, serán aplicables por el superior jerárquico del servidor público debiendo en todos los casos, notificar a la Contraloría General y a la Oficialía Mayor del Poder Legislativo o Judicial según corresponda, para efecto de que se asienten en el expediente del servidor respectivo. De igual forma se hará con los servidores públicos municipales, comunicándolo al Presidente Municipal; en todo caso, deberá enviarse copia de los comunicados al sindicato respectivo, cuando se trate de servidor público sindicalizado.
 
 Se entiende por superior jerárquico, en la Administración Pública, a los titulares de las Dependencias del Ejecutivo que menciona la Ley Orgánica de la Administración Pública y en el caso de las entidades, al director general o su equivalente.
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 04 DE MARZO DE 1991)</small>
 
-II. La suspensión por un período mayor de 3 días y la destitución o cese del empleo, cargo o comisión de los servidores públicos, se aplicará mediante acuerdo del superior jerárquico y de la Oficialía Mayor del Poder correspondiente, en los términos de esta Ley, de la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y sus Municipios, de las condiciones generales de trabajo y de los reglamentos respectivos;
+II. La suspensión por un período mayor de tres días y la destitución o cese del empleo, cargo o comisión de los servidores públicos, se aplicará mediante acuerdo del superior jerárquico, con la Contraloría General o con la Oficialía Mayor de los Poderes Legislativo y Judicial, en los términos de esta Ley, de la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y sus Municipios, de las Condiciones Generales de Trabajo y de los reglamentos respectivos;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 04 DE MARZO DE 1991)</small>
 
-III. Las sanciones económicas serán solicitadas por el superior jerárquico y aplicadas por la Oficialía Mayor del Poder de que se trate, por el Presidente Municipal en el caso de los Ayuntamientos y por el Director o su equivalente, en las entidades de la Administración Pública.
+III. Las sanciones económicas, serán solicitadas por la Contraloría General y por el superior jerárquico y aplicadas por la Tesorería General y la Oficialía Mayor de los Poderes Legislativo o Judicial, por el Presidente Municipal en el caso de los Ayuntamientos y por el Director o su equivalente en las Entidades de la Administración Pública;
 
-Para la determinación del monto de las sanciones económicas, se estará a lo que establezca la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y de sus Municipios, los reglamentos y las condiciones generales de trabajo en vigor.
+Para la determinación del monto de las sanciones económicas, se estará a lo que establezca la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y de sus Municipios, los Reglamentos y las Condiciones Generales de Trabajo en vigor;
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 04 DE MARZO DE 1991)</small>
 
-IV. La inhabilitación de 1 a 6 años para el ejercicio de empleos, cargos o comisiones en el servicio público, será aplicada por la Oficialía Mayor del poder que corresponda, o por la Contaduría General de Glosa, según sea el caso.
+IV. La inhabilitación de uno a seis años para el ejercicio de empleos, cargos o comisiones en el servicio público, será aplicada por la Contraloría General o por la Oficialía Mayor de los Poderes Legislativo y Judicial, o por la Contaduría General de Glosa, según el caso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 51.
 
-Todo servidor público deberá denunciar por escrito a la Oficialía Mayor del Poder que corresponda o a la Presidencia Municipal, en el caso de los servidores públicos municipales, los hechos que, a su juicio, sean causa de responsabilidad administrativa imputables a servidores públicos bajo su dirección.
+Todo servidor público deberá denunciar por escrito a la Contraloría General y a la Oficialía Mayor de los Poderes Legislativo o Judicial, o a la Presidencia Municipal en el caso de los servidores públicos municipales, los hechos que, a su juicio, sean causa de responsabilidad administrativa, imputables a servidores públicos bajo su dirección.
 
-La Oficialía Mayor correspondiente determinará si existe o no responsabilidad administrativa por el incumplimiento de las obligaciones de los servidores públicos y aplicará las sanciones disciplinarias correspondientes.
+> <small>(REFORMADO SEGUNDO PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+
+La Contraloría General o la Oficialía Mayor de los Poderes Legislativo o Judicial, según corresponda, determinará si existe o no, responsabilidad administrativa por el incumplimiento de las obligaciones de los servidores públicos y aplicara las sanciones disciplinarias correspondientes.
 
 En lo que se refiere a organismos públicos descentralizados, empresas de participación estatal y demás entidades de la administración pública, la denuncia a que se refiere el primer párrafo de este artículo, será recibida por el director o su equivalente del organismo correspondiente, quien determinará si existe o no responsabilidad administrativa por incumplimiento de obligaciones y aplicará las sanciones disciplinarias que correspondan.
 
+> <small>(REFORMADO, P.O. 04 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 52.
 
-Si la Oficialía Mayor del Poder correspondiente, el Ayuntamiento o la dirección o equivalente de las Entidades de la Administración Pública tienen conocimiento de hechos cometidos por servidores públicos, que impliquen responsabilidad penal, darán vista de ello a la autoridad competente para conocer del ilícito, informando además al superior jerárquico en caso de que exista.
+Si la Contraloría General, la Oficialía Mayor de los Poderes Legislativo o Judicial, el Ayuntamiento o la Dirección o equivalente de las Entidades de la Administración Pública, tienen conocimiento de hechos cometidos por servidores públicos, que impliquen responsabilidad penal, darán vista de ello a la autoridad competente para conocer del ilícito, informando además, al superior jerárquico, en caso de que exista.
 
 ###### ARTICULO 53.
 
 Para la aplicación de las sanciones administrativas se seguirá el siguiente procedimiento:
 
-I. El superior jerárquico, la Oficialía Mayor que corresponda o el Presidente Municipal, citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, el día y hora en que tendrá verificativo dicha audiencia y sus derechos a ofrecer pruebas y alegar en la misma lo que a su derecho e intereses convenga, por sí o por medio de su defensor. Si el servidor público es de base podrá estar presente el representante sindical.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+
+I. La Contraloría General, la Oficialía Mayor de los Poderes Legislativo o Judicial, el superior jerárquico o el Presidente Municipal, citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, el día y hora en que tendrá verificativo dicha audiencia y sus derechos a ofrecer pruebas y alegar en la misma lo que a su derecho e intereses convenga, por si o por medio de su defensor. Si el servidor público es de base, podrá estar presente el representante sindical.
 
 También se citará a la audiencia al representante de la dependencia o entidad que para tal efecto se designe.
 
 Entre la fecha de la citación y la audiencia, deberá mediar un plazo no menor de cinco días ni mayor de quince días hábiles.
 
-II. Al concluir la audiencia o dentro de los quince días hábiles siguientes, la Oficialía Mayor correspondiente, el Presidente Municipal o el superior jerárquico, resolverán sobre la existencia o no de responsabilidades en caso de que existan éstas, impondrá al infractor las sanciones administrativas correspondientes y notificará la resolución dentro de las veinticuatro horas siguientes al interesado, a su jefe inmediato y al representante sindical en caso de servidores públicos de base.
+> <small>(REFORMADA, P.O. 04 DE MARZO DE 1991)</small>
+
+II. Al concluir la audiencia o dentro de los quince días hábiles siguientes, la Contraloría General y la Oficialía Mayor de los Poderes Legislativo o Judicial, el superior jerárquico o el Presidente Municipal, resolverán sobre la existencia o no, de responsabilidades, en caso de que existan éstas, impondrá al infractor las sanciones administrativas correspondientes y notificará la resolución al interesado, a su jefe inmediato y al representante sindical en caso de servidores públicos con base.
 
 III. Si en la audiencia la autoridad correspondiente encontrara que no cuenta con elementos suficientes para resolver, o advierte elementos que impliquen nuevas responsabilidades administrativas a cargo del presunto responsable o de otros servidores o personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 54.
 
-Las resoluciones que dicte el superior jerárquico, la Oficialía Mayor correspondiente o el Presidente Municipal, en las que imponga sanciones administrativas a los servidores públicos, podrán ser impugnadas por éstos ante la propia autoridad, mediante recurso de revocación que podrá interponerse dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida. La tramitación de este recurso se sujetará al siguiente procedimiento:
+Las resoluciones que dicte la Contraloría General, la Oficialía Mayor de los Poderes Legislativo o Judicial, el superior jerárquico o el Presidente Municipal, en las que imponga sanciones administrativas a los servidores públicos, podrán ser impugnadas por éstos ante la propia autoridad, mediante recurso de revocación que podrá interponerse dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación de la resolución recurrida. La tramitación de este recurso se sujetará al siguiente procedimiento:
 
 I. Se iniciará mediante escrito en el que deberán expresarse los agravios que a juicio del servidor público le cause la resolución, acompañando copias de ésta y constancias de la notificación de la misma, así como la proposición de las pruebas que considere necesario rendir;
 
@@ -533,7 +555,9 @@ II. La autoridad correspondiente acordará sobre las pruebas ofrecidas, desechan
 
 Las pruebas admitidas se desahogarán en un plazo de cinco días hábiles, mismo que podrá ampliarse a solicitud del servidor público o de la autoridad, una sola vez por otro período de cinco días hábiles.
 
-III. Concluido el período probatorio, el superior jerárquico, el Oficial Mayor o el Presidente Municipal, según corresponda, emitirán resolución, misma que deberá comunicar por escrito al interesado.
+> <small>(REFORMADA, P.O. 04 DE MARZO DE 1991)</small>
+
+III. Concluido el período probatorio, la Contraloría General o el Oficial Mayor de los Poderes Legislativo o Judicial, el superior jerárquico, o el Presidente Municipal, emitirá resolución, misma que deberá comunicar por escrito al interesado.
 
 ###### ARTICULO 55.
 
@@ -551,23 +575,25 @@ Las resoluciones administrativas que dicte el Tribunal de Conciliación y Arbitr
 
 La ejecución de las sanciones administrativas impuestas en resolución firme, se llevará a cabo de inmediato en los términos que disponga la resolución. La suspensión, destitución o inhabilitación que se imponga a servidores públicos de confianza, surtirán efectos al notificarse la resolución y se considerará de orden público; tratándose de servidores públicos de base, la suspensión y la destitución se sujetará a lo previsto en la Ley de los Trabajadores al Servicio del Estado y de sus Municipios y a las condiciones generales de trabajo pactadas.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1986)</small>
+> <small>(REFORMADO, P.O. 04 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 59.
 
-Las facultades del superior jerárquico y de las Oficialías Mayores, el Director o su equivalente en las entidades de la Administración Pública o las Presidencias Municipales para imponer sanciones administrativas que esta Ley prevé, prescribirán en dos meses, contados a partir de la fecha en que sea determinada la responsabilidad del servidor público.
+Las facultades de la Contraloría General, de la Oficialía Mayor de los Poderes Legislativo y Judicial, del superior jerárquico, del Director o su equivalente o de las Presidencias Municipales, para imponer sanciones administrativas que esta Ley preve, prescribirán en seis meses, contados a partir de la fecha en que sea determinada la responsabilidad del servidor público.
 
 ### CAPITULO VIII. Registro Patrimonial de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1986)</small>
+> <small>(REFORMADO, P.O. 04 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 60.
 
-La Oficialía Mayor del Poder correspondiente, llevará el registro de la situación patrimonial de los servidores públicos estatales y la Contaduría General de Glosa, de los servidores públicos municipales.
+La Contraloría General y la Oficialía Mayor, de los Poderes Legislativo y Judicial, llevarán el registro de la situación patrimonial de los servidores públicos estatales, la Contaduría General de Glosa, la de los servidores públicos municipales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 61.
 
-Tienen obligación de presentar declaración anual de situación patrimonial ante la Oficialía Mayor correspondiente o ante la Contaduría General de Glosa, según el caso, bajo protesta de decir verdad:
+Tienen obligación de presentar declaración anual de situación patrimonial ante la Contraloría General, ante la Oficialía Mayor de los Poderes Legislativo y Judicial, la Contaduría General de Glosa, según el caso, bajo protesta de decir verdad:
 
 I. En el Poder Legislativo: Los Diputados, el Oficial Mayor, el Tesorero, el Contador General de Glosa y los Visitadores;
 
@@ -603,9 +629,11 @@ IV. Durante el mes de enero de cada año, deberán presentar declaración anual 
 
 Si transcurrido el plazo a que hacen referencia las fracciones I, III y IV, no se hubiere presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo. Para la fracción II, la sanción consistirá en inhabilitación, conforme a lo establecido en el Artículo 48 fracción VI de esta Ley, en ambos casos, previa declaración de la autoridad correspondiente.
 
+> <small>(REFORMADO, P.O. 04 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 63.
 
-Las Oficialías Mayores y la Contaduría General de Glosa, expedirán las normas y formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+La Contraloría General, la Oficialía Mayor de los Poderes Legislativo y Judicial y la Contaduría General de Glosa, expedirán las normas y formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
 
 ###### ARTICULO 64.
 
@@ -613,17 +641,23 @@ En la declaración de situación patrimonial se manifestarán los bienes inmuebl
 
 En las declaraciones anuales se manifestarán tan sólo las modificaciones al patrimonio, con fecha y valor de adquisición o venta. En todo caso, se indicará el medio por el que se hizo la adquisición.
 
-Tratándose de bienes muebles la Oficialía Mayor o la Contaduría General de Glosa, según corresponda, decidirán mediante acuerdo, las características que deba tener la declaración.
+> <small>(REFORMADO TERCER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+
+Tratándose de bienes muebles la Contraloría General, la Oficialía Mayor de los Poderes Legislativo o Judicial o la Contaduría General de Glosa, según corresponda, decidirán mediante acuerdo, las características que deba tener la declaración.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 65.
 
-Cuando los signos de riqueza exteriores sean ostensibles y notoriamente mayores que los ingresos lícitos que pudiera tener el servidor, la Oficialía Mayor que corresponda, según la ubicación del servidor o la Contaduría General de Glosa podrán ordenar, fundando y motivando su acuerdo, la práctica de auditorías o visitas de inspección. Cuando estos actos requieran de orden de la autoridad judicial, la Oficialía correspondiente o la Contaduría, en su caso, hará la solicitud correspondiente.
+Cuando los signos de riqueza exteriores sean ostensibles y notoriamente mayores que los ingresos lícitos que pudiera tener el servidor, la Contraloría General, la Oficialía Mayor o los Poderes Legislativo y Judicial, según la ubicación del servidor o la Contaduría General de Glosa, podrán ordenar, fundando y motivando su acuerdo, la práctica de auditorías o visitas de inspección. Cuando estos actos requieran de orden de la autoridad judicial, la Contraloría General, la Oficialía Mayor de los Poderes Legislativo o Judicial o la Contaduría General de Glosa en su caso hará la solicitud correspondiente.
 
 Previamente a la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan las actuaciones y se le presentarán las actas en que aquellas consten, para que exponga lo que a su derecho convenga.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 66.
 
-El servidor público a quien se practique visita de investigación o auditoría, podrá interponer inconformidad ante la Oficialía Mayor correspondiente en el caso de servidores públicos de los Poderes Estatales o ante la Contaduría General de Glosa, en el caso de servidores públicos municipales, contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días hábiles siguientes a la conclusión de aquellas, en que se expresarán los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días hábiles siguientes a la presentación del recurso.
+El servidor público a quien se practique visita de investigación o auditoría, podrá interponer inconformidad ante la Contraloría General, la Oficialía Mayor de los Poderes Legislativo o Judicial en el caso de servidores públicos de los Poderes Estatales o ante la Contaduría General de Glosa, en el caso de servidores públicos municipales, contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días hábiles siguientes a la conclusión de aquellas, en que se expresarán los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días hábiles siguientes a la presentación del recurso.
 
 Todas las actas que se levanten con motivo de la visita deberán ir firmadas por el servidor público y los testigos que para tal efecto se designen.
 
@@ -643,9 +677,11 @@ Durante el desempeño de su empleo, cargo o comisión, los servidores públicos 
 
 Se castigarán como cohecho las conductas de los servidores públicos que violen lo dispuesto en este artículo y serán sancionados en los términos de la legislación penal.
 
+> <small>(REFORMADO, P.O. 04 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 70.
 
-La Oficialía Mayor correspondiente o la Contaduría General de Glosa, hará al Ministerio Público, en su caso, declaratoria de que el servidor público sujeto a investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo, a fin de que se integre la averiguación correspondiente.
+La Contraloría General, la Oficialía Mayor de los Poderes Legislativo o Judicial o la Contaduría General de Glosa, hará al Ministerio Público, en su caso, declaratoria de que el servidor público sujeto a investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivo del mismo, a fin de que se integre la averiguación correspondiente.
 
 T R A N S I T O R I O S
 
@@ -674,3 +710,9 @@ Para el caso específico de las fracciones III y IV del Artículo 62, estas refo
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 04 DE MARZO DE 1991.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente.
