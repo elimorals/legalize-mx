@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2002-01-31"
+last_updated: "2004-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -439,6 +439,10 @@ XXX. Aplicar las sanciones administrativas, medidas correctivas y de seguridad c
 XXXI. Otorgar y revocar los permisos, licencias y las autorizaciones establecidas en la presente Ley;
 
 XXXII. Clausurar o suspender las obras o actividades y, en su caso solicitar la revocación y cancelación de las licencias de construcción y uso de suelo cuando se transgredan las disposiciones de esta Ley y demás aplicables;
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2004)</small>
+
+La manifestación de construcción dejará de surtir sus efectos, cuando los promoventes hubieren declarado con falsedad o transgredido las disposiciones de esta Ley y demás aplicables. Asimismo, se declarará la nulidad del registro, que dejará de surtir sus efectos, independientemente de las sanciones administrativas, penales y civiles que correspondan.
 
 XXXIII. Emitir las resoluciones que pongan fin al procedimiento de inspección y vigilancia, así como cualquier resolución que sea necesaria de conformidad con la Ley;
 
@@ -1202,9 +1206,9 @@ La autoridad estará obligada a informar al denunciante sobre el trámite que re
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN, RESTAURACIÓN Y APROVECHAMIENTO SUSTENTABLE DE LOS RECURSOS NATURALES
 
-### CAPÍTULO II. ÁREAS VERDES
+### CAPÍTULO II BIS. ÁREAS DE VALOR AMBIENTAL
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 85.
 
@@ -1246,9 +1250,11 @@ V. Elaborar los programas de reforestación y restauración con especies nativas
 
 Compete a las delegaciones conforme a lo previsto en esta Ley y demás disposiciones legales aplicables, el ejercicio de las acciones administrativas que procedan en los casos de invasión de áreas verdes de su competencia, así como de las que corresponden a la Secretaría previa la celebración del convenio respectivo. El reglamento determinará los lineamientos para la ejecución de las acciones administrativas derivadas de la invasión de áreas verdes, áreas de valor ambiental y áreas naturales protegidas, así como en predios del dominio público y de particulares en suelo de conservación.
 
-### CAPÍTULO II BIS. ÁREAS DE VALOR AMBIENTAL
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE ENERO DE 2002)</small>
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+### CAPÍTULO II. ÁREAS VERDES
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
 ### CAPÍTULO III. ÁREAS NATURALES PROTEGIDAS
 
@@ -1327,8 +1333,6 @@ La remoción o retiro de árboles dentro de las áreas verdes requerirá autoriz
 ###### ARTÍCULO 90.
 
 En caso de dañar negativamente un área verde o jardinera pública, el responsable deberá reparar los daños causados, sin perjuicio de la aplicación de las sanciones procedentes si no cuenta con la autorización respectiva, salvo tratándose de afectación accidental o necesaria para salvaguardar la integridad de las personas y sus bienes o para el acceso o uso de inmuebles, en cuyos casos no se aplicará sanción alguna, pero sí se solicitará que en un lugar lo más cercano posible se restituya un área similar a la afectada, con las especies adecuadas.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE ENERO DE 2002)</small>
 
 ### CAPÍTULO IV. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL AGUA
 
@@ -2562,7 +2566,11 @@ I. Amonestación con apercibimiento;
 
 II. Multa por el equivalente desde veinte hasta cien mil días de salario mínimo general vigente en la región, al momento de imponer la sanción;
 
-III. Clausura temporal o definitiva, parcial o total, y la revocación de permisos y licencias otorgadas;
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+
+III. Clausura o retiro parcial o total, la demolición de construcciones y la revocación de permisos y licencias otorgadas.
+
+En el caso del registro de manifestación de construcción se declarará la nulidad del mismo, independientemente de las sanciones previstas en esta fracción.
 
 IV. Arresto administrativo hasta por treinta y seis horas; y
 
@@ -2580,7 +2588,7 @@ III. La reincidencia, si la hubiere.
 
 ###### ARTÍCULO 215.
 
-Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer además de la sanción o sanciones que procedan conforme al presente capitulo, una multa adicional que no exceda de los límites máximos señalados.
+. Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer además de la sanción o sanciones que procedan conforme al presente capitulo, una multa adicional que no exceda de los límites máximos señalados.
 
 Para el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto inicialmente impuesto, sin exceder del doble del máximo permitido, así como la clausura definitiva.
 
@@ -2687,3 +2695,7 @@ CUARTO. El Jefe de Gobierno del Distrito Federal, en cumplimiento a la fracción
 Protegida que conforme a lo dispuesto en el presente Decreto corresponderá a las áreas o zonas que hayan sido establecidas con anterioridad a la entrada en vigor del mismo, cuando así sea procedente, de conformidad a sus características y objetivos.
 
 QUINTO. Para los efectos de este Decreto, se considerará Zona de Preservación Ecológica el área natural protegida denominada "Bosque de Tlalpan". El Jefe de Gobierno enviará a la Asamblea Legislativa del Distrito Federal la propuesta por el cual se modifica la categoría de esta área natural protegida, en cumplimiento a la fracción IX del artículo 8º de la Ley Ambiental del Distrito Federal, dentro de los siguientes 90 días naturales a partir de la entrada en vigor del presente decreto.
+
+G.O. 29 DE ENERO DE 2004.
+
+PRIMERO.- En tanto se expidan las disposiciones administrativas que deriven de las presentes adiciones y modificaciones seguirán en vigor aquellas que no las contravengan.
