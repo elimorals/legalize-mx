@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-servicio-de-transporte-de-pasajeros-en-14749
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-23"
-last_updated: "1999-08-23"
+last_updated: "2000-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14749&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-08-18"
 
 REGLAMENTO PARA EL SERVICIO DE TRANSPORTE DE PASAJEROS EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE OCTUBRE DE 2000.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 23 de agosto de 1999.
 
@@ -536,7 +536,7 @@ Los interesados en prestar el transporte especial de pasajeros en motocicletas a
 
 ### Capitulo Séptimo
 
-#### Sección I. Del Equipamiento Auxiliar
+#### Sección II. De los Vehículos
 
 ###### Artículo 53.
 
@@ -584,7 +584,7 @@ VIII. La infraestructura existente.
 
 Por lo que se refiere al equipamiento auxiliar previsto en las fracciones I, III a VI, VII y IX, del artículo 53 de este Reglamento, éste deberá ubicarse en los lugares precisados en sus respectivos permisos y deberá contar con las características en materia de seguridad, espacios para vehículos, paradas de ascenso y descenso de pasajeros, higiene, comodidad, vialidades, en su caso, y señalización necesaria, para garantizar la adecuada prestación del servicio.
 
-#### Sección II. De los Vehículos
+#### Sección I. Del Equipamiento Auxiliar
 
 ###### Artículo 56.
 
@@ -598,15 +598,13 @@ Las unidades deberán contener dispositivos especiales para personas con discapa
 
 Los autobuses y trolebuses, así como por vehículos de emergencia podrán utilizar los carriles exclusivos y de contraflujo de las vías primarias, debiendo llevar las luces encendidas permanentemente además de luces esteroscópicas.
 
+> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2000)</small>
+
 ###### Artículo 59.
 
 La Secretaría llevará a cabo programas anuales de revista vehicular, independientemente de la supervisión de la operación del servicio que se realice permanentemente con el propósito de que los vehículos cumplan con los requerimientos señalados en el programa correspondiente.
 
-La revista deberá realizarse cada tres años para:
-
-I. Vehículos nuevos, y
-
-II. Los vehículos con sistemas alternos de combustión de gasolina o diesel.
+Los vehículo (sic) nuevos cuyo modelo corresponda al año de la revista vehicular, deberán realizarla el primer año y quedarán exentos de la inspección vehicular (revista), los dos años siguientes.
 
 ## TITULO SEGUNDO. DE LAS TARIFAS DEL TRANSPORTE PÚBLICO DE PASAJEROS
 
@@ -823,3 +821,11 @@ II. Las Normas que Reglamentan el Funcionamiento del Tren Subterráneo (metro) d
 Quinto.- Las modificaciones que con motivo de la publicación de este Reglamento deban realizarse a los Manuales, Instructivos y demás instrumentos de carácter jurídico y administrativos deberán expedirse y publicarse a más tardar en los 180 días siguientes a la entrada en vigor de este Reglamento.
 
 Dado en la Residencia del Jefe de Gobierno del Distrito Federal. Ciudad de México, a los dieciocho días del mes de agosto de mil novecientos noventa y nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, A. JOEL ORTEGA CUEVAS.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 5 DE OCTUBRE DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del distrito federal.
+
+SEGUNDO.- Se derogan las disposiciones administrativas y reglamentarias que se opongan al presente Decreto.
