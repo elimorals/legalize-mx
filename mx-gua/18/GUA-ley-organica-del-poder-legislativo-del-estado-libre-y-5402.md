@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-libre-y-5402"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-02-24"
-last_updated: "1999-12-24"
+last_updated: "2001-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2001.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 24 de febrero de 1995.
 
@@ -849,7 +849,9 @@ III.- LOS QUE SE REFIERAN A LA CREACION DE IMPUESTOS EXTRAORDINARIOS O ESPECIALE
 
 IV.- LOS REFERENTES A LA APROBACION DEL PRESUPUESTO DE EGRESOS DEL ESTADO;
 
-V.- LOS RELACIONADOS CON LA APROBACION DE LA CUENTA PUBLICA DEL ESTADO Y DE LOS MUNICIPIOS. DEBIENDO PRESENTAR EL DICTAMEN CORRESPONDIENTE, AL PLENO DEL CONGRESO, EN EL PLAZO QUE ESTABLEZCAN LAS LEYES APLICABLES;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2001)</small>
+
+V.- LOS RELACIONADOS CON LA REVISION DE LA CUENTA PUBLICA DEL ESTADO Y DE LOS MUNICIPIOS, DEBIENDO PRESENTAR EL DICTAMEN DE REVISION CORRESPONDIENTE AL PLENO DEL CONGRESO, EN EL PLAZO QUE ESTABLEZCAN LAS LEYES APLICABLES;
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1998)</small>
 
@@ -2738,3 +2740,9 @@ P.O. 24 DE DICIEMBRE DE 1999.
 Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Dentro de los 120 días siguientes a la entrada en vigor del presente decreto, la Comisión de Régimen Interno llevará a cabo las acciones conducentes para la Instalación del Instituto de Investigaciones Legislativas.
+
+P.O. 12 DE JUNIO DE 2001.
+
+SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+
+Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
