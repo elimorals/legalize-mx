@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-del-examen-de-oposicion-para-ocupar-el-cargo-de-1969
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-03-29"
-last_updated: "1991-03-29"
+last_updated: "1998-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "GRO"
 
 REGLAMENTO DEL EXAMEN DE OPOSICION PARA OCUPAR EL CARGO DE JUEZ DE PRIMERA INSTANCIA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1998.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 29 de marzo de 1991.
 
@@ -60,9 +60,11 @@ VII.- El Jurado Examinador: El Cuerpo de Magistrados que designe el Consejo de A
 
 Los aspirantes a ocupar el cargo de Juez de Primera Instancia del Estado, deberán presentarse a acreditar el examen de oposición correspondiente en los términos del presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 4o.
 
-El examen de oposición será de dos tipos: Escrito y Oral.
+La forma de los exámenes será determinada por el Consejo de Administración del Instituto para el Mejoramiento Judicial.
 
 ###### ARTICULO 5o.
 
@@ -74,9 +76,11 @@ El examen de oposición tendrá por objetivo: seleccionar de entre los aspirante
 
 DE LA CONVOCATORIA
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 7o.
 
-El Tribunal a través del Director del Instituto convocará a los interesados en oponer por la titularidad de un Juzgado de Primera Instancia, mediante publicación por tres días consecutivos en un Periódico o Periódicos de los de mayor circulación en el Estado y en avisos o convocatorias que se fijarán en lugares visibles de las instalaciones del Tribunal.
+El Tribunal, a través del Director del Instituto, convocará a los interesados en oponer por la titularidad de un Juzgado de Primera Instancia, mediante publicación en dos Periódicos de los de mayor circulación en el Estado y en avisos o convocatorias que se fijarán en lugares visibles de las instalaciones del Tribunal.
 
 ###### ARTICULO 8o.
 
@@ -142,15 +146,19 @@ En el examen de oposición, será Jurado Examinador el responsable del manejo de
 
 El Jurado Examinador, emitirá su fallo, el cual deberá ser por mayoría o por unanimidad de votos e inapelable. Se remitirá el resultado a la Presidencia, con el fin de darse cuenta al Pleno para su conocimiento y efectos consiguientes.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
+
 ###### ARTICULO 20o.
 
-En el caso de que dos o más concursantes obtengan la más alta calificación, que no sea menor de 7 (siete), en igualdad de circunstancias, se estará a lo dispuesto en el último párrafo del Artículo 34 de la Ley Orgánica del Poder Judicial; y cuando dos o más concursantes estén en el supuesto que señala dicha disposición, tendrá preferencia el que haya cursado y aprobado las materias que se impartan en el Instituto y tenga mayor antigüedad al servicio del Poder Judicial del Estado.
+En el caso de que dos o más concursantes obtengan la más alta calificación, que no sea menor de 8 puntos en la escala de 0 a 10, y cuando estén en igualdad de circunstancias, tendrá preferencia el que haya concursado y aprobado las materias que se impartan en el Instituto y tenga mayor antigüedad al servicio del Poder Judicial del Estado.
 
 ###### ARTICULO 21o.
 
 A los concursantes se les hará saber el resultado dentro de los cinco días hábiles posteriores al acuerdo de Pleno, que dará a conocer el nombramiento del nuevo Juez que hubiere resultado seleccionado.
 
-Los demás concursantes que hubieren aprobado el examen, con calificación mínima de 7 (siete) constituirán una reserva y, cuando se presenten vacantes, sin necesidad de convocarse a examen de oposición, podrán ser nombrados Jueces.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1998)</small>
+
+Los demás concursantes que hubieran aprobado el examen, con calificación de 8 puntos en una escala de 0 a 10, constituirán una reserva y cuando se presenten vacantes sin necesidad de convocarse a examen de oposición podrán ser nombrados jueces.
 
 ## TRANSITORIOS
 
@@ -177,3 +185,17 @@ El Secretario Gral. de Acuerdos.
 LIC. ALFONSO VELEZ CABRERA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE FEBRERO DE 1998.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL DEL ESTADO DE GUERRERO.
+
+SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+...
+
+SEGUNDO.- Hágase del conocimiento este acuerdo a la ciudadanía y publíquese en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Cúmplase. Dado en el Salón de Plenos del Tribunal Superior de Justicia del Estado, en la Ciudad de Chilpancingo, Guerrero, el día cuatro de diciembre de mil novecientos noventa y siete.
