@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1973-03-14"
+last_updated: "1973-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1973.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -11235,11 +11235,15 @@ ARTICULO 3,017.- La inscripción definitiva de un derecho que haya sido anotado 
 
 De quiénes pueden pedir el registro y de la calificación registral
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1973)</small>
 
-ARTICULO 3,018.- La inscripción o anotación de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en el derecho que se va a inscribir o a anotar, o por el notario a que haya autorizado la escritura de que se trate.
+ARTICULO 3,018.- Cuando vaya a otorgarse una escritura en que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo, sea inscribible, el Notario o autoridad ante quien vaya a otorgarse podrá a su criterio, o deberá a solicitud de quien pretenda adquirir un derecho, dar al Registro un primer aviso preventivo al solicitarle certificado sobre la existencia de la inscripción en favor del titular registral o sobre los gravámenes que reporte el inmueble o derecho o la libertad de los mismos. Dicho aviso, deberá mencionar la operación y finca de que se trate, los nombres de los interesados, y el antecedente registral. El registrador con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente una anotación de primer aviso preventivo que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud.
 
-Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
+Una vez firmada una escritura que produzca cualesquiera de las consecuencias mencionadas en el párrafo precedente, el Notario o Autoridad ante quien se otorgó dará el Registro, dentro de las cuarenta y ocho horas siguientes un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá vigencia por un término de noventa días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo mencionado en este párrafo se dé dentro del término de treinta días a que se contrae el párrafo anterior, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de este plazo sólo surtirá efectos desde la fecha y hora de su presentación.
+
+Si el testimonio respectivo se presentare al Registro dentro de cualquiera de los términos a que se contraen los dos párrafos anteriores, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiese sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presentare después, su registro sólo surtirá efectos desde la fecha de su presentación.
+
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior, fuere privado, deberán dar exclusivamente el segundo aviso preventivo que menciona este Artículo, el Notario, el registrador, la Autoridad Municipal o el Juez de Paz que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes y el mencionado aviso producirá los mismos efectos que el dado por el Notario.
 
 > <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
@@ -11980,3 +11984,11 @@ D.O.F. 14 DE MARZO DE 1973.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 1973.
+
+PRIMERO.- Las presentes reformas entrarán en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO.- Al entrar en vigor el Decreto de 31 de Diciembre de 1951, publicado en el "Diario Oficial" el 18 de Enero de 1952, el Artículo 3018 que se reforma en este Decreto, tomará el número que le corresponda.
+
+TERCERO.- Se derogan las disposiciones legales que se opongan al contenido de este Decreto.
