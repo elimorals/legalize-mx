@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1977-04-20"
+last_updated: "1977-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE ABRIL DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 1977.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -735,41 +735,23 @@ IX.- Las demás que le confieran las leyes.
 
 88.- Corresponde al Tribunal Superior de Justicia y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en los de orden federal, en los casos que expresamente se la concedan las leyes.
 
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 1977)</small>
+
 89.- El desempeño de la función jurisdiccional corresponde a:
 
 I.- El Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
+II.- Los Jueces de Primera Instancia;
 
-II.- Los jueces de Primera Instancia en el Ramo Penal;
+III.- Los Jueces Menores;
 
-> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
+IV.- Los Jueces de Paz;
 
-III.- Los jueces de Primera Instancia en el Ramo Civil;
+V.- Los Arbitros;
 
-> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
+VI.- El Jurado Popular; y
 
-IV.- Los jueces Menores;
-
-> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
-
-V.- Los jueces de lo Familiar;
-
-> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
-
-VI.- Los jueces Mixtos de Paz;
-
-> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
-
-VII.- Los Arbitros;
-
-> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
-
-VIII.- El Jurado Popular;
-
-> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
-
-IX.- Los demás funcionarios y auxiliares de la administración de justicia.
+VII.- Los demás funcionarios y auxiliares de la Administración de Justicia.
 
 90.- El Tribunal Superior de Justicia del Estado se integra con tres Magistrados Numerarios y los Supernumerarios que señale la ley orgánica respectiva, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
 
@@ -1352,3 +1334,9 @@ Artículo Unico. Este decreto entrará en vigor a partir del día siguiente de s
 B.O. 20 DE ABRIL DE 1977.
 
 Artículo Unico: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE MAYO DE 1977.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado.
