@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1986-07-05"
+last_updated: "1986-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1986.
-
-(DECRETO NUM. 316)
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1986.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -571,7 +569,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución.
 
-XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
+XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -747,7 +745,7 @@ Si por no haberse verificado las elecciones o por cualquiera otra causa, el Cong
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 1986)</small>
 
-### CAPITULO V
+### CAPITULO V.
 
 De la Iniciativa y Formación de Leyes, Decretos y Acuerdos.
 
@@ -1019,9 +1017,9 @@ XXXI. Pedir al Congreso, o a la Comisión Permanente, si aquel no estuviere reun
 
 XXXII. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 1983)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 1986)</small>
 
-XXXIII.- Concurrir a la apertura de los períodos de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la Administración Pública cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre ésta, en Sesión Pública Extraordinaria del Congreso, que se verificará el último domingo del mes de enero de cada año.
+XXXIII.- Concurrir a la apertura de los períodos de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración pública cuando lo estime conveniente o así lo solicite el Congreso, pero deberá rendir un informe completo sobre ésta en Sesión Pública Extraordinaria del Congreso, que se verificará el último domingo del mes de enero de cada año. El informe correspondiente al año de 1987 deberá rendirlo el 14 de diciembre de 1986.
 
 XXXIV. Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad.
 
@@ -2254,3 +2252,7 @@ P.O. 5 DE JULIO DE 1986.
 DECRETO No. 316.
 
 UNICO.- Este Decreto inicia su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 1986.
+
+UNICO.- El presente Decreto entrará en vigor a partir de su expedición.
