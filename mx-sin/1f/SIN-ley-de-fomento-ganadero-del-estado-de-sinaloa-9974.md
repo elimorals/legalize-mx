@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-fomento-ganadero-del-estado-de-sinaloa-9974"
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-01"
-last_updated: "1970-12-01"
+last_updated: "1972-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE FOMENTO GANADERO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 1972.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 1o. de diciembre de 1970.
 
@@ -343,7 +343,7 @@ Para transportar pieles, cueros, carne y demás productos derivados del ganado, 
 
 ###### ARTICULO 56.
 
-Todo envío de ganado fuera de la Entidad ya sea para fines comerciales o zootécnicos, deberá ser autorizado por el Ejecutivo a través de la Unión Regional Ganadera de Sinaloa, escuchando la opinión de la Dirección del Desarrollo Económico de Sinaloa y de la Comisión Estatal de Fomento Ganadero.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 1972
 
 ###### ARTICULO 57.
 
@@ -774,3 +774,11 @@ LIC. FRANCISCO L. IRIZAR LOPEZ
 EL SECRETARIO GENERAL DE GOBIERNO ENCARGADO DEL DESPACHO POR MINISTERIO DE LEY
 
 LIC. FRANCISCO RODOLFO ALVAREZ FARBER
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 1972.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
