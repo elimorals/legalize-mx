@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1928-05-12"
+last_updated: "1928-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1928.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -181,9 +181,11 @@ El censo electoral se levantará cada cuatro años y precisamente en el que corr
 
 Del Poder Legislativo.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE1928)</small>
+
 ###### Art. 46.
 
-Se deposita el ejercicio del Poder Legislativo en un Congreso compuesto de un número no menor de quince Diputados, electos cada dos años por los Distritos Electorales. Por cada Distrito Electoral se nombrará un Diputado Propietario y un Suplente; y cuando el censo del Estado pase de cuatrocientos mil habitantes se nombrará por cada exceso de treinta mil, o fracción mayor de quince mil, un Diputado Propietario y el Suplente respectivo.
+Se deposita el ejercicio del Poder Legislativo en un Congreso compuesto de un número no menor de ocho CC. Diputados, electos cada dos años por los Distritos Electorales. Por cada Distrito Electoral se nombrará un Diputado Propietario y un Suplente; y cuando el Censo del Estado pase de cuatrocientos mil habitantes, se nombrará por cada exceso de cuarenta mil, o fracción mayor de veinte mil, un Diputado Propietario y el Suplente respectivo.
 
 ###### Art. 47.
 
@@ -1222,5 +1224,9 @@ DECRETO NÚMERO 62.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 12 DE MAYO DE 1928.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 31 DE OCTUBRE DE 1928.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
