@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1965-02-13"
+last_updated: "1970-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1970.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -885,11 +885,11 @@ ART. 92.- Extendida el acta de tutela, se anotará la de nacimiento del incapaci
 
 ART. 93.- En los casos de emancipación por efecto del matrimonio, no se formará acta separada; el oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
 
-ART. 94.- Las actas de emancipación por decreto judicial se formarán insertando a la letra la resolución del juez que autorizó la emancipación. Se anotará el acta de nacimiento, expresando al margen de ella haber quedado emancipado el menor, citando la fecha de la emancipación y el número y foja del acta respectiva.
+ART. 94.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 
-ART. 95.- Si en la oficina en que se registró la emancipación no existe el acta de nacimiento del emancipado, el oficial del Registro Civil remitirá copia del acta de emancipación al del lugar en que se registró el nacimiento, para que haga la anotación correspondiente.
+ART. 95.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 
-ART. 96.- La omisión del registro de emancipación no quita a ésta sus efectos legales, pero sujeta al responsable a la pena señalada en el artículo 81.
+ART. 96.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 
 ### CAPITULO VII. De las actas de matrimonio
 
@@ -1093,7 +1093,9 @@ ART. 147.- Cualquiera condición contraria a la perpetuación de la especie o a 
 
 ART. 148.- Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los presidentes municipales pueden conceder dispensas de edad por causas graves y justificadas.
 
-ART. 149.- El hijo o la hija que no hayan cumplido veintiún años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1970)</small>
+
+ART. 149.- El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
 
 ART. 150.- Faltando padres y abuelos, se necesita el consentimiento de los tutores; faltando éstos, el Juez de Primera Instancia de la residencia del menor suplirá el consentimiento.
 
@@ -1359,7 +1361,9 @@ ART. 237.- La menor edad de dieciséis años en el hombre y de catorce en la muj
 
 I.- Cuando haya habido hijos;
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los veintiún años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1970)</small>
+
+II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años; y ni él ni el otro cónyuge hubieren intentado la nulidad.
 
 ART. 238.- La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tenga conocimiento del matrimonio.
 
@@ -1749,11 +1753,13 @@ ART. 346.- Las acciones civiles que se intenten contra el hijo por los bienes qu
 
 ART. 347.- La acción que compete al hijo para reclamar su estado, es imprescriptible para él y sus descendientes.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1970)</small>
+
 ART. 348.- Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
 
-I.- Si el hijo ha muerto antes de cumplir veinticinco años;
+I.- Si el hijo ha muerto antes de cumplir veintidós años;
 
-II.- Si el hijo cayó en demencia antes de cumplir los veinticinco años y murió después en el mismo estado.
+II.- Si el hijo cayó en demencia antes de cumplir los veintidós años y murió después en el mismo estado.
 
 ART. 349.- Los herederos podrán continuar la acción intentada por el hijo, a no ser que éste se hubiere desistido formalmente de ella o nada hubiere promovido judicialmente durante un año contado desde la última diligencia.
 
@@ -2025,7 +2031,9 @@ Al efecto, el precio de la venta se depositará en una institución de crédito,
 
 ART. 438.- El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-I.- Por la emancipación o la mayor edad de los hijos;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1970)</small>
+
+I.- Por la emancipación derivada del matrimonio o la mayor edad de los hijos;
 
 II.- Por la pérdida de la patria potestad;
 
@@ -2047,7 +2055,9 @@ ART. 443.- La patria potestad se acaba:
 
 I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II.- Con la emancipación;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1970)</small>
+
+II.- Con la emancipación, derivada del matrimonio;
 
 III.- Por la mayor edad del hijo.
 
@@ -2095,7 +2105,9 @@ III.- Los sordo-mudos que no saben leer ni escribir;
 
 IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
 
-ART. 451.- Los menores de edad emancipados tienen incapacidad legal para los actos que se mencionan en el artículo relativo del capítulo I del título décimo de este libro.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1970)</small>
+
+ART. 451.- Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionen en el artículo relativo al capítulo I de (sic) título décimo de este libro.
 
 ART. 452.- La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
 
@@ -2609,7 +2621,9 @@ ART. 624.- Designarán por sí mismos al curador, con aprobación judicial:
 
 I.- Los comprendidos en el artículo 496, observándose lo que allí se dispone respecto de esos nombramientos;
 
-II.- Los menores de edad emancipados, en el caso previsto en la fracción III del artículo 643.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1970)</small>
+
+II.- Los menores de edad emancipados por razón del matrimonio, en el caso previsto en la fracción II del artículo 643.
 
 ART. 625.- El curador de todos los demás individuos sujetos a tutela será nombrado por el juez.
 
@@ -2673,27 +2687,29 @@ ART. 640.- Tampoco pueden alegarla los menores, si han presentado certificados f
 
 ### CAPITULO I. De la emancipación
 
-ART. 641.- El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1970)</small>
 
-ART. 642.- Los mayores de dieciocho años que estén sujetos a patria potestad o tutela, tienen derecho a que se les emancipe si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
+ART. 641.- El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor no recaerá en la patria potestad.
 
-Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentran en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
+ART. 642.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1970)</small>
 
 ART. 643.- El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
 
-I.- Del consentimiento del que lo emancipó para contraer matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad y ha muerto, o está incapacitado legalmente al tiempo en que el emancipado intente casarse, necesita éste el consentimiento del ascendiente a quien corresponda darlo, y en su defecto, el del juez;
+I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
 
-II.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
+II.- De un tutor para negocios judiciales.
 
-III.- De un tutor para los negocios judiciales.
+ART. 644.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 
-ART. 644.- Hecha la emancipación, no puede ser revocada.
-
-ART. 645.- Fuera del caso a que se refiere el artículo 641 la emancipación siempre será decretada por el juez y la resolución correspondiente se remitirá al Oficial del Registro Civil para que levante el acta respectiva.
+ART. 645.- (DEROGADO, P.O. 30 DE MAYO DE 1970)
 
 ### CAPITULO II. De la mayor edad
 
-ART. 646.- La mayor edad, comienza a los veintiún años cumplidos.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 1970)</small>
+
+ART. 646.- La mayor edad comienza a los dieciocho años cumplidos.
 
 ART. 647.- El mayor de edad dispone libremente de su persona y de de (sic) sus bienes.
 
@@ -9574,3 +9590,9 @@ Este decreto empezará a surtir sus efectos legales a partir de su publicación 
 P.O. 13 DE FEBRERO DE 1965.
 
 Este Decreto empezará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MAYO DE 1970.
+
+###### ARTICULO UNICO.
+
+El presente Decreto surtirá sus efectos a los tres días de su publicación en el Periódico Oficial del Estado.
