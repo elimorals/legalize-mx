@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-para-los-aspirantes-al-cargo-de-juez-de-primera-9738
 country: "mx"
 rank: "reglamento"
 publication_date: "1987-02-14"
-last_updated: "1987-02-14"
+last_updated: "1988-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 REGLAMENTO PARA LOS ASPIRANTES AL CARGO DE JUEZ DE PRIMERA INSTANCIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 1988.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 14 de febrero de 1987.
 
@@ -69,25 +69,33 @@ b).- Tener más de 25 años de edad, que acreditará acompañando copia certific
 
 c).- Ser de buena conducta y no tener antecedentes penales, lo que deberá justificar con el certificado expedido por la Procuraduría General de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1988)</small>
+
 ###### ARTICULO 8o.
 
-La Presidencia convocará a los interesados en sustentar los exámenes de oposición para la titularidad de un Juzgado de Primera Instancia, mediante publicación de avisos que se fijarán en lugares visibles del Tribunal, así como en los estrados de todos los Juzgados del Estado. Asimismo, se hará la publicación en un periódico de los de mayor circulación de cada una de las cabeceras judiciales siguientes: Victoria, Mante, H. Matamoros, Reynosa, Nuevo Laredo, Tampico y Madero.
+La documentación a que se refiere el Artículo anterior deberá ser presentada por el aspirante en la Presidencia del Supremo Tribunal de Justicia del Estado y si el Presidente no encuentra objeción a la misma, se admitirá al solicitante para los efectos de su participación en el examen.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 9o.
 
-En la convocatoria se indicará la fecha y hora del examen e igualmente se indicará para qué Juzgado o Juzgados se solicitan concursantes, a fin de que se presenten los interesados; los que deberán reunir como requisitos indispensables los ya mencionados en el Artículo 7o. de este Reglamento, así como los siguientes: a).- Conocimiento serio y amplio del Derecho Positivo; b).- Cultura jurídica; c).- Cultura General; d).- Capacidad de mando y, e).- Capacidad de organización. También se hará saber si la vacante o vacantes corresponden a Juzgado Civil, a Juzgado Penal o a Juzgado Mixto.
+Además de los requisitos mencionados en los Artículos precedentes, los aspirantes deberán demostrar tener conocimientos de cultura jurídica y cultura general, así como capacidad de mando y de organización.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 10.
 
-La documentación a que se refiere el Artículo 7o. de este Reglamento deberá ser presentada por el aspirante, en la Presidencia del Supremo Tribunal de justicia del Estado por lo menos con diez días naturales de anticipación al examen. Esta documentación será analizada por la Presidencia y si no se encuentra objeción a la misma, se admitirá al solicitante para los efectos de su participación en el examen, el cual se sustentará conforme a lo previsto por el Artículo 36, fracción VII, de la Ley Orgánica del Poder Judicial.
+La Presidencia enviará a las cabeceras judiciales, para la publicación del caso, un aviso que contenga los nombres de los aspirantes, que se fijará en los estrados de los Juzgados y tendrá por objeto dar oportunidad a la población para proporcionar al Tribunal la información de alguna causa grave, misma que deberá demostrarse, que constituya un impedimento para que los aspirantes sean tomados en cuenta.
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 11.
 
-La Presidencia enviará a la cabecera judicial respectiva para la publicación del caso, un aviso que contenga los nombres de los aspirantes, que se fijará en los Estrados del correspondiente Juzgado y en uno de los periódicos de mayor circulación de dicha cabecera judicial. La publicación se llevará a cabo cinco días antes de la fecha en que se efectuarán los exámenes del caso y tendrá por objeto dar oportunidad a la población para proporcionar al Tribunal la información de alguna causa grave, que deberá demostrarse, que constituya un impedimento que contraríe los requisitos básicos para que los aspirantes sean tomados en cuenta.
+Los exámenes se practicarán el día, hora y lugar que señale el Pleno del Supremo Tribunal de Justicia.
 
 ###### ARTICULO 12.
 
-Los exámenes se desarrollarán el día, hora y lugar señalados en la convocatoria.
+(DEROGADO, P.O. 23 DE ENERO DE 1988)
 
 ###### ARTICULO 13.
 
@@ -136,3 +144,9 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 En lo no previsto, será el Pleno del Tribunal quien decida cómo debe procederse.
 
 Aprobado conforme acuerdo del Pleno del Supremo Tribunal de Justicia del Estado, el día diez de febrero de mil novecientos ochenta y siete.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE ENERO DE 1988.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TAMAULIPAS.
