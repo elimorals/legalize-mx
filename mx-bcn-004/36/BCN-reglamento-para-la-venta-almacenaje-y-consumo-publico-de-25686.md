@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2004-01-09"
+last_updated: "2004-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -361,6 +361,8 @@ La venta, almacenaje y consumo público de bebidas alcohólicas en los diferente
 
 I.- De los giros:
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2004, SE ADVIERTE QUE NO APARECE EL CONTENIDO DEL TEXTO.</small>
+
 A).- ABARROTES.- Establecimientos cuya actividad predominante es la venta de mercancías diversas y alimentos no preparados, comercializados a través de mostrador, susceptible de vender bebidas alcohólicas, en envase cerrado, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 21:00 horas;
 
 B).- MERCADO.- Establecimiento mercantil cuya actividad predominante incluye la venta de despensas alimenticias, mercancías diversas y alimentos no preparados, comercializados a través de autoservicio, susceptible de vender bebidas alcohólicas, en envase cerrado, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 22:00 horas;
@@ -372,6 +374,8 @@ D).- TIENDAS DE AUTOSERVICIO.- Establecimientos cuya actividad predominante incl
 E).- LICORERÍA.- Establecimiento mercantil cuya actividad es la venta de bebidas alcohólicas en envase cerrado al menudeo y mercancías relacionadas con su consumo externo, cuyo horario será de lunes a domingo desde las 09:00 horas y hasta las 24:00 horas;
 
 F).- DEPÓSITO.- Establecimiento mercantil cuya actividad exclusiva sea la venta en envase cerrado de bebidas alcohólicas clasificadas en los incisos a), c), e) y f), de la fracción V, del artículo 6 de la Ley de la materia, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 22:00 horas, no obstante, para efecto de distribución y suministro de productos a establecimientos legalmente establecidos, se podrá efectuar fuera de estos horarios;
+
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2004, SE ADVIERTE QUE NO APARECE EL CONTENIDO DEL TEXTO.</small>
 
 G).- AGENCIAS y SUBAGENCIAS.- Establecimientos que funcionan como centros de distribución de una empresa productora de bebidas alcohólicas, para su posterior distribución o venta al mayoreo, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 22:00 horas, no obstante, para efecto de distribución y suministro de productos a establecimientos legalmente establecidos, se podrá efectuar fuera de estos horarios;
 
@@ -1260,3 +1264,9 @@ P.O. 9 DE ENERO DE 2004.
 PRIMERO.- La presente reforma y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberán publicarse en un periódico de mayor circulación en la localidad para el conocimiento de los vecinos
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma y adición.
+
+P.O. 3 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Las presentes reformas entran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá publicarse en un periódico de mayor circulación para conocimiento de los vecinos de la localidad.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes reformas.
