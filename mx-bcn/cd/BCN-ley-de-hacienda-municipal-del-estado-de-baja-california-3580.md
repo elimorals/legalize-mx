@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2001-11-09"
+last_updated: "2002-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2002.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -611,7 +611,9 @@ b).- Cuando se derive de Contratos de Promesa de Venta o Venta de Certificados d
 
 c).- Cuando exista desmembración de la propiedad de manera que una persona tenga la nuda propiedad y otra el usufructo.
 
-d).- Cuando la ejerzan los particulares sobre inmuebles propiedad de la Federación, Estado, Municipios u Organismos Descentralizados y sujetos a exención.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+
+d) Cuando la ejerzan entidades paraestatales o particulares, sobre inmuebles propiedad de la Federación del Estado o Municipios, para utilizarlos bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 II.- Son sujetos del Impuesto:
 
@@ -677,9 +679,9 @@ VIII.- Los inmuebles responden preferentemente del pago del Impuesto Predial, a�
 
 IX.- Están exentos del pago del Impuesto Predial:
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
 
-1.- Los predios pertenecientes a la Federación, al Estado y a los Municipios, en los términos a que se refiere el segundo párrafo del inciso c) de la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+1.- Los bienes inmuebles de dominio público propiedad de la Federación, del Estado o de los Municipios, con excepción de lo dispuesto en la fracción I inciso d) de esta (sic) artículo.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -757,7 +759,9 @@ El valor del inmueble podrá ser el valor de adquisición del mismo disminuido c
 
 Para los fines de este artículo, se considera que el usufructo y la nuda propiedad tiene un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
-La deducción a que se refiere el párrafo anterior, se realizará conforme a lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2002)</small>
+
+La deducción a que se refiere el párrafo quinto de la fracción III de este artículo, se realizará conforme a lo siguiente:
 
 a).- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la deducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir la verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiera adquirido con anterioridad, para que se ajuste el monto de la deducción, y pagará en su caso, la diferencia de impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
 
@@ -859,19 +863,19 @@ Este impuesto se causará sobre el monto de los impuestos, derechos y rezagos a 
 
 Los ingresos que de este impuesto se recaben, serán destinados exclusivamente a la construcción de áreas o unidades deportivas, a su mantenimiento y a programas deportivos y educacionales.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1955)</small>
-
 ###### ARTICULO 76.
 
-Los permisos para la operación en horas extraordinarias de cafés cantantes o cabarets o cantinas, sólo podrán ser concedidos por el Gobernador del Estado en los términos de la Ley de Hacienda Estatal y reglamento correspondiente.
+(DEROGADO, P.O. 25 DE OCTUBRE DE 2002)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1958)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 77.
 
-Todas las licencias, permisos, placas, tarjetas y constancias de empadronamiento expedidas por el Municipio estarán sujetas a revalidación anual mediante el pago de los derechos correspondientes.
+Las licencias, permisos, placas, tarjetas y constancias de empadronamiento expedidas por los Municipios, estarán sujetas a revalidación anual mediante el pago de los derechos correspondientes, y en los términos que señalen sus respectivos reglamentos.
 
-Los derechos sobre expedición y revalidación de licencias y permisos para la operación en horas extraordinarias a que se refieren los artículos 62 y 76 de esta Ley, serán recaudados por las Oficinas Recaudadoras del Gobierno Municipal al realizar tales actos de otorgamiento, el Estado.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2002)</small>
+
+Los derechos sobre expedición y revalidación de licencias y permisos, que corresponda autorizar a los Municipios, serán enterados en sus oficinas recaudadoras.
 
 Además de los previstos en esta Ley, se requiere permiso fiscal, mediante el pago de los derechos correspondientes, en los siguientes casos:
 
@@ -2308,3 +2312,15 @@ P.O. 9 DE NOVIEMBRE DE 2001.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor el día primero del mes de diciembre del año dos mil uno.
+
+P.O. 25 DE OCTUBRE DE 2002.
+
+DECRETO No. 102
+
+UNICO: La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE OCTUBRE DE 2002.
+
+DECRETO No. 103
+
+UNICO: La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
