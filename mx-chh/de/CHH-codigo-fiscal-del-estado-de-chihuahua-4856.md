@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1997-12-31"
+last_updated: "1998-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1998.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -373,13 +373,9 @@ II.- Si es a los sujetos pasivos o responsables solidarios a quien corresponde d
 
 III.- Si se trata de obligaciones derivadas de contratos o concesiones que no señalen la fecha de pago, éste deberá hacerse dentro de los quince días siguientes a la fecha de su celebración u otorgamiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
 
-44.- El pago de los créditos fiscales deberá hacerse precisamente en efectivo y en las Oficinas Recaudadores del Estado, salvo que las disposiciones aplicables establezcan que se hagan en especie.
-
-Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo.
-
-También se admitirá como medio de pago, los cheques de cuentas personales de los causantes que cumplan con los requisitos que para hacer uso de esta forma de pago establezcan las disposiciones fiscales o en su defecto las que fije la Tesorería General del Estado.
+44.- El pago de los créditos fiscales, impuestos, derechos, productos y aprovechamientos deberá hacerse en efectivo o a través de los siguientes medios: Giros postales, telegráficos o bancarios, cheques certificados, cheques de caja, cheques de cuentas personales y tarjetas de crédito o débito de los contribuyentes que cumplan con los requisitos que para tal efecto establezca la Dirección de Ingresos de la Dirección General de Finanzas y Administración. El pago deberá efectuarse en las oficinas recaudadoras del Estado o en los establecimientos que autorice la Dirección General de Finanzas y Administración.
 
 La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Tesorería General del Estado a exigir del librador el pago del importe del mismo y una indemnización del 20% del valor del cheque. Esta indemnización y el cobro del cheque se notificará y se hará efectiva mediante los procedimientos establecidos en este Código, para los demás créditos fiscales.
 
@@ -387,9 +383,7 @@ La autoridad fiscal recibirá el pago hecho por el sujeto pasivo, responsable so
 
 Las manifestaciones y declaraciones de los notarios, jueces que actúen por receptoría y contadores, salvo el caso del artículo 81, se entenderán hechas bajo su estricta responsabilidad, siendo solidariamente responsables del pago del impuesto omitido sin perjuicio de las sanciones a que se hagan acreedores en los términos de este mismo Código.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
-
-Cuando se omita la presentación de declaraciones para el pago de impuestos propios o retenidos, transcurridos diez días a partir del siguiente al en que se haya vencido el plazo en que el causante o retenedor debió presentarlas, la Tesorería General del Estado podrá hacerle efectivo un impuesto igual al de la última declaración con las modificaciones que en su caso hubiere tenido con motivo de la revisión. Este impuesto podrá ser rectificado por la Tesorería General del Estado. Los contribuyentes o retenedores, por su parte, continuarán obligados a presentar las declaraciones omitidas, caso en el impuesto pagado se acreditará contra el que resulte de dicha declaración, que podrá ser objeto de revisión.
+Cuando se omita la presentación de declaraciones para el pago de impuestos propios o retenidos, transcurridos diez días a partir del siguiente al en que se haya vencido el plazo en que el contribuyente o retenedor debió presentarlas, la Dirección General de Finanzas y Administración podrá hacerle efectivo un impuesto igual al de la última declaración con las modificaciones que en su caso hubiere tenido con motivo de la revisión. Este impuesto podrá ser rectificado por la Dirección General de Finanzas y Administración. Los contribuyentes o retenedores por su parte, continuarán obligados a presentar las declaraciones omitidas, caso en el que el impuesto pagado se acreditará contra el que resulte de dicha declaración, que podrá ser objeto de revisión.
 
 45.- La falta de pago de un crédito fiscal en la fecha o término establecido en las disposiciones respectivas, determina que el crédito sea exigible.
 
@@ -1789,7 +1783,7 @@ h).- Prestaciones de servicio de comedor, bono de transporte, uniformes de traba
 
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
 
-i).- Los provenientes de los fondos de ahorro cuando las aportaciones de la empresa sean iguales a las de los trabajadores. En los casos en que el patrón aporte una cantidad superior, el excedente será considerado para integrar la base gravable del impuesto;
+i).- Los provenientes de los fondos de ahorro cuando las aportaciones de la empresa sean igualesa a las de los trabajadores. En los casos en que el patrón aporte una cantidad superior, el excedente será considerado para integrar la base gravable del impuesto;
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
@@ -4576,6 +4570,12 @@ P.O. 27 DE DICIEMBRE DE 1997.
 El presente Decreto entrará en vigor a partir del día primero de enero de mil novecientos noventa y ocho.
 
 P.O. 31 DE DICIEMBRE DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ENERO DE 1998.
 
 ###### ARTICULO UNICO.
 
