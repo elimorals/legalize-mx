@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2001-12-26"
+last_updated: "2002-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1281,9 +1281,9 @@ h).- Remuneraciones a personas discapacitadas invidentes, con deficiencia total 
 
 II.- Las erogaciones que efectúen:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-a).- La Federación, Estados y Municipios. Los organismos descentralizados, fideicomisos y demás entidades paraestatales, deberán cubrir el impuesto a su cargo.
+a) El Estado y los Municipios. La Federación, los Organismos Descentralizados, Fideicomisos y demás Entidades Paraestatales, deberán cubrir el impuesto a su cargo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -2761,9 +2761,9 @@ f) De construcción, certificados.... 3 cuotas
 
 XII.- Por asignación de número de expediente catastral a planos de fraccionamientos 2.5 cuotas
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-XIII.- Por servicios de control vehicular:
+XIII.- Por servicios de control vehicular, que se prestan al inscribir un vehículo y por el refrendo anual de dichos servicios:
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2811,13 +2811,11 @@ a) La expedida con vigencia de un año ….. 1.45 cuotas
 
 b) La expedida con vigencia de dos años 2.25 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-XVI.- Por expedición o reposición de placas a los vehículos mencionados en la fracción XIII en los incisos a) y b).... 5 cuotas
+XVI.- Por alta y expedición o reposición de placas a los vehículos mencionados en la fracción XIII, incisos a) y b) ….. 5 cuotas
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Por expedición o reposición de placas a los vehículos mencionados en la fracción XIII, inciso c) 1.5 cuotas
+Por alta y expedición o reposición de placas a los vehículos mencionados en la fracción XIII, inciso c) ….. 1.5 cuotas
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2999,6 +2997,8 @@ X.- Por expedición de certificaciones relativas a los derechos patrimoniales de
 
 ## TITULO CUARTO. De los Productos
 
+(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
+
 ### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
@@ -3026,8 +3026,6 @@ VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
 IX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
-
-(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 278.
 
@@ -3546,3 +3544,7 @@ P.O. 26 DE DICIEMBRE DE 2001.
 Artículo Primero.- El presente Decreto entrará en vigor el día 1° de Enero de 2002.
 
 Artículo Segundo.- Para los efectos de lo dispuesto en el artículo 276, fracción XVI, de esta Ley, las placas de circulación identificadas en fondo blanco y franja color arena con caracteres en color verde, con emblema de la Entidad (Cerro de la Silla) en la parte superior izquierda, escudo del Estado centrado en la parte inferior para el servicio privado y fondo blanco con caracteres y línea perimetral negra y franja naranja, tratándose del servicio público, tendrán una vigencia hasta el último día del mes de agosto del 2002, por lo que el canje respectivo deberá realizarse antes de que concluya dicha vigencia, de acuerdo a lo establecido por la Norma Oficial Mexicana NOM-001-SCT-2-2000 publicada en fecha 26 de Enero del 2001 en el Diario Oficial de la Federación.
+
+P.O. 27 DE DICIEMBRE DE 2002
+
+Artículo Único.- El presente Decreto entrará en vigor el día 1° de Enero del año 2003.
