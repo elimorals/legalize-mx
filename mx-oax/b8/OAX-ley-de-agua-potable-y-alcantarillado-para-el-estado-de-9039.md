@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "2005-01-12"
+last_updated: "2005-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -763,7 +763,9 @@ I.- Un Consejo de Administración;
 
 II.- Un Director General; y
 
-III.- Un Comisario Público, designado por la contraloría estatal en los términos de la ley de responsabilidades de los servidores públicos del estado y del municipio.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+III.- Un Comisario Público, designado por la Secretaría de la Contraloría Estatal en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y del Municipio.
 
 ###### ARTÍCULO 54.
 
@@ -1678,3 +1680,7 @@ SEGUNDO.- Los recursos humanos, materiales y financieros a cargo del Instituto E
 P.O. 12 DE ENERO DE 2005.
 
 UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Ley.
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
