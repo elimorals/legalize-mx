@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-crea-el-fondo-adicional-para-el-mejoramiento-de-la-1195
 country: "mx"
 rank: "ley"
 publication_date: "1980-11-11"
-last_updated: "1987-09-08"
+last_updated: "2001-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY QUE CREA EL FONDO ADICIONAL PARA EL MEJORAMIENTO DE LA ADMINISTRACION DE JUSTICIA EN EL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2001.
 
 Ley Publicada en el Periódico Oficial del Estado de Puebla, el martes 11 de noviembre de 1980.
 
@@ -119,15 +119,11 @@ El Consejo Técnico o el Honorable Tribunal Superior de Justicia en Pleno, orden
 
 ### CAPITULO TERCERO. Del destino del fondo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2001)</small>
 
 ###### Art. 16.
 
-Los ingresos propios del Fondo se destinarán a la adquisición de mobiliario y equipo para las oficinas y dependencias del Tribunal, a la capacitación profesional y técnica de sus integrantes y a los estímulos económicos que acuerde el Consejo Técnico a propuesta del Presidente del Tribunal Superior de Justicia.
-
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 1987)</small>
-
-El monto de los recursos que se destinan en términos del párrafo anterior, en ningún caso podrá exceder del 35% (treinta y cinco por ciento) de los productos que genera el patrimonio total del Fondo.
+Los ingresos propios del Fondo, así como el total de los productos que generen los mismos, se destinarán a la adquisición de mobiliario y equipo para las oficinas y dependencias del Tribunal, a la capacitación profesional y técnica de sus integrantes, a los estímulos que acuerde el Consejo Técnico a propuesta del Presidente del Tribunal Superior de Justicia y a todo aquello que mejore la Administración de Justicia.
 
 ###### Art. 17.
 
@@ -158,3 +154,9 @@ P.O. 8 DE SEPTIEMBRE DE 1987.
 ## [N. DE E. TRANSITORIO DEL “DECRETO DEL H. CONGRESO DEL ESTADO, POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 16 DE LA LEY QUE CREO EL FONDO ADICIONAL PARA EL MEJORAMIENTO DE LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO”.]
 
 UNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE MARZO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
