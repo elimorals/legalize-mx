@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1983-12-28"
+last_updated: "1984-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1984.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -293,13 +293,17 @@ La capital del Estado de Nayarit, es la ciudad de Tepic, y en ella residirán ha
 
 El Poder Legislativo del Estado se depositará en una asamblea que se denominará: CONGRESO DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 1984)</small>
 
 ###### Art. 26.
 
-El Congreso del Estado se integrará con 15 Diputados, electos por mayoría y hasta 5 Diputados, asignados por minoría. Por cada Diputado electo por mayoría, se elegirá un suplente. Los suplentes de los Diputados por minoría se determinarán de acuerdo con el artículo 32 de esta Constitución.
+El Congreso del Estado se integrará con 17 Diputados Electos por Mayoría y hasta 5 Diputados, asignados por Minoría. Por cada Diputado electo por Mayoría, se elegirá un suplente. Los suplentes de los Diputados por Minoría se determinarán de acuerdo con el Artículo 32 de esta Constitución.
 
-La demarcación territorial de los 15 distritos electorales, será la que resulte de dividir la población total del Estado, entre el número de los Distritos Electorales señalados, considerando regiones geográficas de la Entidad.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1984)</small>
+
+La demarcación territorial de los 17 Distritos Electorales, será la que resulte de dividir la población total del Estado, entre el número de los Distritos Electorales señalados, considerando regiones geográficas de la Entidad.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 Las elecciones de Diputados serán calificadas por un Colegio Electoral, que se integrará con cuatro presuntos Diputados electos por mayoría y dos presuntos Diputados asignados por minoría, que serán aquellos que hayan obtenido la votación más alta en la elección o asignación respectiva. Sesionarán en la sede del Poder Legislativo y su resolución será definitiva e inatacable.
 
@@ -1571,7 +1575,7 @@ P.O. 24 DE AGOSTO DE 1938.
 
 UNICO.- El presente Decreto surte sus efectos desde la fecha de su publicación, en el Periódico Oficial del Estado, y deroga todas las disposiciones que se opongan a su cumplimiento.
 
-P.O. 7 DE ENERO DE 1939
+P.O. 7 DE ENERO DE 1939.
 
 UNICO.- El presente Decreto surte sus efectos a partir del día primero de enero de mil novecientos treinta y nueve.
 
@@ -1725,7 +1729,7 @@ P.O. 25 DE JUNIO DE 1980.
 
 UNICO.- Este Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-P.O. 16 DE JULIO DE 1980.
+P.O. 16 DE JULIO DE 1980
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -1768,3 +1772,7 @@ Se derogan todas las disposiciones que contravengan el presente Decreto.
 ###### ARTICULO TERCERO.
 
 Publíquese en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 18 DE FEBRERO DE 1984.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
