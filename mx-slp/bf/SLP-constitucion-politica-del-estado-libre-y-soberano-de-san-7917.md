@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1943-11-04"
+last_updated: "1948-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-> <small>N. DE E. EL H. XXXVII CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI APROBO EL DECRETO No. 42, QUE REFORMA LA CONSTITUCION POLITICA VIGENTE EN EL ESTADO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, PRESENTANDOSE POR TAL MOTIVO SOLO EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 4 DE NOVIEMBRE DE 1943.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1948.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -757,7 +755,9 @@ IV.- De los negocios civiles y criminales comunes como tribunal de apelación o 
 
 V.- Declarar si ha o no lugar a formación de causa contra los jueces de primera instancia;
 
-VI.- Expedir títulos de abogados y notarios cuando el peticionario compruebe haber hecho, con arreglo a la ley, los estudios preparatorios y profesionales;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1948)</small>
+
+VI.- Registrar títulos de Abogado y Notarios cuando el peticionario compruebe haber hecho con arreglo a la Ley, los estudios preparatorios y profesionales que le (sic) misma establece;
 
 VII.- Nombrar y remover libremente a los secretarios y a todos los demás empleados de sus secretarías;
 
@@ -1146,3 +1146,7 @@ PRIMERO:- Las reformas que incluye la presente Constitución, desde luego se pub
 SEGUNDO:- En tanto se expida la ley orgánica del artículo 100 de esta Constitución, regirá el decreto número 35, de 23 de febrero de 1934, expedido por la XXXIII Legislatura.
 
 TERCERO:- Quedan derogadas todas las leyes o disposiciones que se opongan a la presente Constitución reformada.
+
+P.O. 19 DE SEPTIEMBRE DE 1948.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
