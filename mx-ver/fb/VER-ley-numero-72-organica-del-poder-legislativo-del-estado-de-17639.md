@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2004-08-24"
+last_updated: "2004-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -561,7 +561,9 @@ A los Diputados que no formen, no se inscriban o dejen de pertenecer a un Grupo 
 
 La Junta de Coordinación Política es el órgano de Gobierno del Congreso del Estado, encargado de vigilar el óptimo ejercicio de las funciones legislativas, políticas y administrativas. La Junta funcionará de manera colegiada y se integrará con los Coordinadores de los Grupos Legislativos y, en caso de no poder constituirse en Grupo Legislativo, el partido respectivo acreditará ante la Junta a un diputado con voz pero sin voto.
 
-El Coordinador del Grupo Legislativo que cuente con la mayoría absoluta en el Congreso, será el Presidente de la Junta por toda la Legislatura; pero si ningún Grupo Legislativo alcanza dicha mayoría, la responsabilidad de presidir la Junta tendrá una duración anual. Esta encomienda se desempeñará sucesivamente por los Coordinadores de los Grupos, en orden decreciente conforme al número de Diputados que los integren.
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2004)</small>
+
+El Coordinador del Grupo Legislativo que cuente con el mayor número de diputados en el Congreso será el presidente de la Junta por toda la Legislatura; si dos o más Grupos Legislativos se encuentran en esta situación, la responsabilidad de presidir la Junta se desempeñará sucesivamente por los Coordinadores de esos Grupos, por períodos legislativos equivalentes y en el orden que ellos determinen.
 
 ###### Artículo 32.
 
@@ -587,9 +589,11 @@ V. Asignar, en los términos de esta ley, los recursos humanos, materiales y fin
 
 VI. Las demás que señalen esta ley y demás normatividad interior.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 34.
 
-La Junta deberá instalarse, a más tardar, en la segunda Sesión Ordinaria que celebre el Congreso al inicio de la Legislatura. Sesionará por lo menos una vez a la semana durante los Períodos de Sesiones y con la periodicidad que acuerde durante los recesos. La Junta adoptará sus decisiones por mayoría absoluta, mediante el sistema de voto ponderado, en el cual los respectivos Coordinadores representarán tantos votos como integrantes tenga su Grupo Legislativo.
+La Junta deberá instalarse, a más tardar, en la segunda Sesión Ordinaria que celebre el Congreso al inicio de la Legislatura. Sesionará por lo menos una vez a la semana durante los Períodos de Sesiones y con la periodicidad que acuerden durante los recesos. La Junta adoptará sus decisiones por mayoría, mediante el sistema de voto ponderado, en el cual los respectivos Coordinadores representarán tantos votos como integrantes tenga su Grupo Legislativo.
 
 A las reuniones de la Junta concurrirá el Secretario General del Congreso, con voz pero sin voto, quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
 
@@ -619,7 +623,9 @@ El Presidente de la Mesa Directiva preside la Junta de Trabajos Legislativos y s
 
 La Junta de Trabajos Legislativos deberá quedar integrada a más tardar al día siguiente de que se haya constituido la Junta de Coordinación Política. Se reunirá por los menos cada quince días en períodos de Sesiones y cuando así lo determine durante los recesos; en ambos casos, a convocatoria de su Presidente o a solicitud de los Coordinadores de al menos dos Grupos Legislativos.
 
-La Junta adoptará sus resoluciones por consenso; en caso de no alcanzarse éste, se tomarán por mayoría absoluta mediante el sistema de voto ponderado de los Coordinadores de los Grupos Legislativos. El Presidente de la Junta sólo votará en caso de empate.
+> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2004)</small>
+
+La Junta adoptará sus resoluciones por consenso; en caso de no alcanzarse éste, se tomarán por mayoría mediante el sistema de voto ponderado de los Coordinadores de los Grupos Legislativos. El Presidente de la Junta sólo votará en caso de empate.
 
 Como Secretario de la Junta actuará el Secretario General del Congreso, quien asistirá a las reuniones con voz pero sin voto, preparará los documentos necesarios, levantará el acta correspondiente y llevará el registro de los acuerdos.
 
@@ -1154,3 +1160,11 @@ G.O. 24 DE AGOSTO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
