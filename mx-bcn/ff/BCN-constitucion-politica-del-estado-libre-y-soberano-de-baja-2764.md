@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1998-02-20"
+last_updated: "1998-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 1998.
 
-Constitución publicada en el Periódico Oficial del Estado de Baja California, el domigno 16 de agosto de 1953.
+Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
 Alfonso García González,
 
@@ -164,6 +164,10 @@ La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en t
 ###### ARTICULO 7.
 
 El Estado de Baja California acata plenamente y asegura a todos sus habitantes las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos, así como los demás derechos que otorga esta Constitución.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 1998)</small>
+
+El Estado garantizará de manera subsidiaria la protección nutricional de los menores, estableciendo los apoyos y lineamientos necesarios a cargo de las instituciones públicas, en los términos que determine la ley.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 1992)</small>
 
@@ -1992,3 +1996,13 @@ Aprobado que sea este Dictamen por la Honorable Asamblea, envíese a los Ayuntam
 ###### ARTICULO SEGUNDO.
 
 Agotado el trámite y pronunciada la declaratoria señalada por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las disposiciones de esta reforma, no afectarán la situación jurídica de los servidores públicos nombrados con anterioridad a su vigencia.
+
+P.O. 20 DE MARZO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+Aprobado que sea el presente Dictamen anexo el acta de debates correspondiente, se remita para consulta los Ayuntamientos del Estado, al efecto de que cumplimenten a lo dispuesto en el párrafo primero del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, se envíe al Ejecutivo el Dictamen de la presente Reforma Constitucional para su publicación, la cuál entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
