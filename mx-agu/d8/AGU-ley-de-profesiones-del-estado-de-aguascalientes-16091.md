@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-profesiones-del-estado-de-aguascalientes-16091"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-25"
-last_updated: "1999-07-25"
+last_updated: "2000-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROFESIONES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 25 de julio de 1999.
 
@@ -61,7 +61,9 @@ IV.- Profesionista: es toda persona física que obtenga un título en los nivele
 
 V.- Título Profesional: es el documento expedido por instituciones públicas o privadas debidamente autorizadas o reconocidas por las autoridades competentes, que acredita el resultado de una profesión;
 
-VI.- Cédula Profesional: es la patente que otorga el Estado para el ejercicio profesional;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2000)</small>
+
+VI.- Cédula Profesional: Es el documento con efectos de patente para el ejercicio profesional, que otorga la Secretaría de Educación Pública y las autoridades de las Entidades Federativas, con sujeción a sus leyes;
 
 VII.- Colegios de Profesionistas: las asociaciones de profesionistas debidamente registradas ante el Instituto;
 
@@ -105,7 +107,9 @@ I.- Vigilar el ejercicio profesional, en los términos de esta Ley;
 
 II.- Registrar los títulos y grados académicos de los profesionistas que pretendan ejercer en el Estado, previo cumplimiento de los requisitos establecidos;
 
-III.- Difundir a través de los medios masivos de comunicación, en el mes de enero de cada año, el listado de las profesiones que requieren título para su ejercicio en el Estado;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2000)</small>
+
+III.- Difundir a través de los medios masivos de comunicación, y solicitar que se publique en el Periódico Oficial del Estado en el mes de enero de cada año, el listado de las profesiones que requieren título para su ejercicio en el Estado;
 
 IV.- Realizar las investigaciones necesarias para comprobar la legitimidad de los documentos que respalden los trámites de los particulares ante el Instituto;
 
@@ -341,7 +345,9 @@ Para ejercer en el Estado de Aguascalientes, el profesionista deberá cumplir co
 
 I.- Estar en pleno goce y ejercicio de sus derechos;
 
-II.- Poseer título legalmente expedido; y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2000)</small>
+
+II.- Poseer título y cédula profesional legalmente expedidos;
 
 III.- Estar inscrito en el Registro Público Profesional.
 
@@ -419,11 +425,13 @@ Los profesionistas que hayan realizado los estudios respectivos en el extranjero
 
 ### CAPITULO IV. De los Colegios de Profesionistas
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 24.
 
-Los profesionistas titulados y los pasantes en el Estado, pueden organizarse y constituirse para el ejercicio de sus derechos y defensa de sus intereses de carácter profesional, en agrupaciones de profesionistas, en los términos de esta Ley.
+Los profesionistas titulados pueden organizarse y constituirse para el ejercicio de sus derechos y defensa de sus intereses de carácter profesional, en agrupaciones de profesionistas, en los término (sic) de esta Ley.
 
-Los pasantes conservarán la calidad de colegiados durante el tiempo de vigencia de la cédula respectiva.
+Los pasantes tendrán la calidad de aspirantes a colegiados durante el tiempo de vigencia de la cédula respectiva.
 
 ###### ARTICULO 25.
 
@@ -513,9 +521,11 @@ Los Colegios de Profesionistas podrán elaborar su propio Código de Ética Prof
 
 ### CAPITULO V. Del Servicio Social Profesional
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 33.
 
-El Servicio Social Profesional consistirá en las actividades que se realicen de manera individual o a través de los Colegios de Profesionistas, con el propósito de brindar un beneficio social a la población, así como de apoyo a la ciencia, la técnica y la cultura.
+El Servicio Social Profesional voluntario, consistirá en las actividades que se realicen de manera individual, en el propósito de brindar un beneficio social a la población, así como de apoyo a la ciencia, la técnica y la cultura.
 
 ###### ARTICULO 34.
 
@@ -704,3 +714,25 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE MARZO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+Se abroga el Reglamento para el Registro de Títulos Profesionales del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado, el dieciocho de noviembre de mil novecientos cuarenta y cinco.
+
+###### ARTICULO SEGUNDO.
+
+Se reconocen los Colegios de Profesionistas del Estado, que a la fecha de entrada en vigor de estas reformas, se encuentren registrados ante la Dirección general de Profesiones de la Secretaría de Educación Pública.
+
+###### ARTICULO TERCERO.
+
+Se reconoce la vigencia y validez de las cédulas profesionales expedidas por la Dirección General de Profesiones de la Secretaría de Educación Pública, y por las Autoridades competentes en otras Entidades Federativas, con apego a sus Leyes.
+
+El registro de Títulos y grados académicos para la expedición de cédulas o patentes de ejercicio estará a cargo de la Dirección General de Profesiones de la Secretaría de Educación Pública, de conformidad con el convenio celebrado por el Ejecutivo Federal y Estatal para coordinar y unificar el Registro profesional, publicado en el Periódico Oficial del Estado de fecha 11 de agosto de 1974 y en el Diario Oficial de la Federación de fecha 30 de agosto de mil novecientos setenta y cuatro.
+
+###### ARTICULO CUARTO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
