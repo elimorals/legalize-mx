@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1935-08-31"
+last_updated: "1943-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,9 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1935.
+> <small>N. DE E. COMO CONSECUENCIA DEL ESTUDIO DEL PROCESO LEGISLATIVO DEL DECRETO QUE MODIFICA EL PRESENTE CODIGO, SE DESPRENDE LA DEROGACION DE LOS TITULOS Y CAPITULOS COMPRENDIDOS DENTRO DEL ARTICULADO DEROGADO POR EL LEGISLADOR, YA QUE EN EL ARTICULO TERCERO DE LAS DISPOSICIONES GENERALES DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE QUIEBRAS Y SUSPENSION DE PAGOS FUE OMISO AL NO INDICAR EL ESTADO QUE GUARDARIAN ESTOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ABRIL DE 1943.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -4208,6 +4210,8 @@ La capa deberá satisfacerse en la misma proporción y tiempo que los fletes rig
 
 Los fletadores y cargadores no podrán hacer, para el pago del flete y demás gastos, abandono de las mercaderías averiadas por vicio propio ó caso fortuito. Procederá sin embargo el abandono si el cargamento consistiere en líquidos y se hubieren derramado no quedando en los envases sino una cuarta parte de su contenido.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+
 ### CAPÍTULO VI.
 
 Del conocimiento.
@@ -5524,9 +5528,13 @@ Los peritos que el juez ó los interesados nombren, según los casos, procederá
 
 # LIBRO CUARTO.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+
 ## TITULO PRIMERO.
 
 DE LAS QUIEBRAS.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO III.
 
@@ -5534,37 +5542,33 @@ De los efectos del estado de quiebra.
 
 ###### Art. 945.
 
-Todo comerciante que cesa de hacer sus pagos se haya en estado de quiebra.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 946.
 
-Se puede declarar la quiebra del comerciante retirado del comercio, siempre que no hayan pasado cinco años de ese acontecimiento, y que la suspensión de pagos haya tenido lugar mientras ejercía el comercio ó en el año próximo siguiente.
-
-También se puede declarar la quiebra del comerciante muerto, dentro del año que sigue al fallecimiento.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 947.
 
-La cesión de bienes hecha por un comerciante ante los tribunales civiles hará presumir el estado de quiebra, y formalizada que sea se procederá conforme á las prescripciones de este Libro, sin que el cedente goce de ninguno de los privilegios que en este caso concede el derecho civil.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 948.
 
-La quiebra de una sociedad colectiva ó de una cooperativa con responsabilidadilimitada(sic) y solidaria, importa la de todos sus miembros, y la de una sociedad en comandita solamente la de los comanditados. En todas las demás sociedades, la quiebra no afecta á sus miembros en particular.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 949.
 
-Si quebrare en el extranjero una negociación mercantil que tuviere en la República una ó más sucursales, se pondrán éstas en liquidación, sin perjuicio de que se declaren también en quiebra esas sucursales, si tal fuere legalmente su estado. Esta quiebra, tanto para su declaración como para sus demás efectos, se sujetará á las disposiciones de este Código.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 950.
 
-Los cómplices de los fallidos responsables de quiebra culpable ó fraudulenta, aun cuando no sean comerciantes, estarán sujetos á las prescripciones de este Libro por lo que respecta á la responsabilidad civil, y al Código Penal respectivo por la criminal en que incurran.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 951.
 
-Procederá la declaración de quiebra:
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-I. Cuando la pida el mismo quebrado;
-
-II. A solicitud fundada del acreedor legítimo.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO IV.
 
@@ -5572,143 +5576,45 @@ De la época de la quiebra.
 
 ###### Art. 952.
 
-Los comerciantes ó negociaciones mercantiles se reputarán en estado de quiebra en los siguientes casos:
-
-I. Si de hecho suspendieren el pago de sus deudas comerciales ó civiles, siempre que sean líquidas, de plazo cumplido, y consten en instrumento público ó en documento privado reconocido, ó bien si ejecutados por uno ó más acreedores no se encontraren bienes bastantes en que trabar ejecución;
-
-II. Si tuvieren en su pasivo, comparado con su activo, un exceso de un veinticinco por ciento;
-
-III. Si hicieren á favor de los acreedores abandono de sus bienes por medio de la cesión respectiva;
-
-IV. Si se ocultaren ó ausentaren sin dejar el establecimiento ó negociación de su propiedad á cargo de una persona que pueda cubrir, así los créditos vencidos de su pasivo, como los que en lo sucesivo se vencieren.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 953.
 
-La quiebra es fortuita, culpable ó fraudulenta.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 954.
 
-La quiebra es fortuita si al hacer su calificación no se encontrare comprendida en ninguno de los casos previstos en los dos artículos siguientes.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 955.
 
-La quiebra es culpable:
-
-I. Si los gastos domésticos y personales del fallido hubieren sido excesivos con relación á su capital líquido, á su rango social y al número de personas de su familia;
-
-II. Si los gastos de su establecimiento ó negociación son mucho mayores que los debidos, atendiendo á su capital, su movimiento y demás circunstancias análogas;
-
-III. Si ha perdido fuertes sumas en el juego, en operaciones de mero azar ó en combinaciones de Bolsa sobre títulos, valores ó mercancías;
-
-IV. Si con intención de retardar su quiebra el fallido hubiere comprado á plazo mercancías para venderlas con menor precio que el corriente, contraído préstamos, puesto en circulación valores de crédito ó empleado otros atributos ruinosos para hacerse de fondos;
-
-V. Si después de la suspensión de pagos hubiese pagado á un acreedor de plazo cumplido con perjuicio de los otros;
-
-VI. Si no conservase las cartas que se le hubiesen dirigido con relación á sus negocios, siempre que hicieren falta para algún punto relativo á las operaciones de la quiebra;
-
-VII. Si hubiere dado fianzas ó contraído por cuenta ajena obligaciones desproporcionadas con la situación de su fortuna, sin tomar valores equivalentes en garantía de su responsabilidad;
-
-VIII. Si hubiere recibido el préstamo, con ó sin interé (sic), alguna cantidad en mercancías por un precio mayor que el de plaza, alguna suma de dinero con un tipo mayor en un uno por ciento más mensual que el corriente, en los seis meses anteriores á su quiebra;
-
-IX. Si dentro de los tres días siguientes á la suspensión de pago no hiciere la manifestación respectiva; si refiriéndose ésta á una sociedad no contuviese el nombre de todos y cada uno de los socios solidarios, ó si hubiere en inexactitud en la relación de los hechos;
-
-X. Si no estando legítimamente impedido no se presentare personalmente al juzgado ó á los síndicos en los casos en que tenga obligación de hacerlo.
-
-XI. Si constare que en el período trascurrido desde el último inventario hasta la declaración de la quiebra, hubo tiempo en que el quebrado debía, por obligación directa, doble cantidad del haber líquido que le resultaba en el inventario.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 956.
 
-La quiebra es fraudulenta:
-
-I. Si el fallido no tuviere libros ó inventarios, ó si teniéndolos no hubieren sido llevados los libros en la forma prescrita en este Código, ó si los inventarios no fueran exactos y completos de tal suerte que no manifiesten la verdadera situación del activo y del pasivo, ó los inutilizare, alterare ú ocultare;
-
-II. Si hubiere omitido la inscripción de los documentos que consigna el art. 21;
-
-III. Si fuere declarado en quiebra por segunda vez sin haber cumplido las obligaciones que hubiere contraído por un convenio precedente;
-
-IV. Si hubiere otorgado escrituras públicas ó documentos privados en que se constituyere deudor sin expresar la causa de deber ó valor determinado, á no ser que el uno y el otro aparezcan comprobados así en su libros como en el movimiento de los fondos de la negociación;
-
-V. Si hubiere ocultado dinero, efectos, créditos ú otros bienes, de cualquiera naturaleza que sean;
-
-VI. Si antes ó después de declarada la quiebra hubiere comprado para sí, en nombre de un tercero, algunos bienes ó créditos, ó hubiere enajenado los suyos sin recibir su importe;
-
-VII. Si hubiere simulado enajenaciones, ó formado, ó reconocido deudas supuestas;
-
-VIII. Si no comprobare la existencia ó salida del activo de su último inventario, ó la de dinero ó valores de cualquiera otra especie que hubieren entrado en su poder con posterioridad á la fracción de ese documento;
-
-IX. Si se ausentaré ó fugare sin dejar en su establecimiento persona que cubra las deudas vencidas y las que se vayan venciendo;
-
-X. Si supusiere deudas, gastos ó pérdidas, ó exagerase su monto, ó de cualquier otro modo hiciere aparecer en favor ó en contra de sus bienes acciones ú obligaciones que en realidad no existan;
-
-XI. Si hubiere dispuesto para si ó aplicado á sus negocios propios mercancías ó fondos que le estuvieren encomendados en administración, depósito ó comisión;
-
-XII. Si careciendo de autorización hubiere negociado letras ó mandatos á la orden que obrasen en su poder para su cobranza, remisión ú otro objeto distinto sin hacer entrega de los fondos producidos por esas operaciones;
-
-XIII. Si comisionado para la venta de mercancías ó de efectos de comercio, ó para el cobro de algunos créditos, ocultare completamente ó por algún tiempo su enajenación ó pago al comitente;
-
-XIV. Si hubiere descontado letras con su propio giro á cargo de personas en cuyo poder no tuviere fondos ó que no le hubieren autorizado para librar contra ellas;
-
-XV. Si con perjuicio de sus acreedores, atento el mal estado de sus negocios, hubiere anticipado en cualquiera época ó forma que sea el pago de una deuda no exigible hasta después de la declaración de la quiebra;
-
-XVI. Si con posterioridad á las diligencias promovidas sobre el estado de quiebra ó á la declaración de ésta, hubiere percibido ó aplicado á sus propios usos dinero, mercancías ó créditos de la masa, ó los hubiere invertido en otros objetos;
-
-XVII. Si teniendo el fallido posibilidad de cubrir puntualmente las partidas de su pasivo se presentare en quiebra con intención de negociar los crédito de su cargo á fin de obtener alguna utilidad en su descuento;
-
-XVIII. Si después del último inventario y dos meses antes de la declaración de quiebra, apareciere, en el pasivo con relación al activo un exceso de un veinticinco por ciento sin haberse hecho la manifestación relativa la estado de quiebra;
-
-XIX. Si no hubiere hecho inventarios en las épocas prevenidas en este Código, en las fijadas en los estatutos sociales ó en los contratos que sobre el particular se estipularen;
-
-XX. Si el fallido practicare cualquiera otra operación que fraudulentamente disminuya su activo ó aumente su pasivo;
-
-XXI. Si el fallido fuere corredor.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 957.
 
-Se reputan cómplices de la quiebra fraudulenta:
-
-I. Los que habiéndose confabulado con el quebrado para suponer créditos contra él ó aumentar el valor de los que efectivamente tenga contra sus valores ó bienes, sostengan esta suposición en el juicio de examen y calificación de los créditos, ó en cualquiera junta de acreedores de la quiebra;
-
-II. Los que para anteponerse en la graduación á otros acreedores y de acuerdo con el quebrado, alteren la naturaleza ó fecha del crédito, aun cuando esto se verifique antes de hacerse la declaración de quiebra, sostengan esta suposición en el juicio de examen y calificación de los créditos, ó en cualquiera junta de acreedores de la quiebra;
-
-III. Los que auxilien al fallido para ocultar ó sustraer bienes, antes ó después de la declaración de la quiebra;
-
-IV. Los que con noticia de la declaración de quiebra ocultaren los muebles ó inmuebles, documentos ó papeles del fallido, ó los entregare á éste y no á los síndicos;
-
-V. Los que negaren á los administradores de la quiebra los efectos que de la pertenencia del quebrado existieren en su poder;
-
-VI. Los que después de la declaración de la quiebra admitieren cesiones ó endosos del fallido;
-
-VII. Los acreedores legítimos que celebren convenios privados con el fallido con perjuicio de la masa;
-
-VIII. Los corredores que después de declarada la quiebra intervengan en cualquiera operación del fallido;
-
-IX. Los que ayudaren maliciosamente al quebrado en cualquiera especie de suposición, sustracción ú ocultación.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 958.
 
-La quiebra del comerciante cuya verdadera situación no pueda deducirse de sus libros, se presumirá fraudulenta, salvo prueba en contrario.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 959.
 
-El marido ó la mujer, y los ascendientes consanguíneos, ó afines del fallido que sin su consentimiento hubieren sustraído ú ocultado bienes pertenecientes á la quiebra no se reputarán como cómplices de la quiebra fraudulenta, pero si serán considerados como reos de robo.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 960.
 
-Los cómplices de los fallidos, sin perjuicio de que se les imponga la pena respectiva, serán condenados civilmente:
-
-I. A la pérdida de cualquier derecho que tengan á la masa;
-
-II. A reintegrar á la misma los bienes, derechos y acciones en cuya ocultación ó sustracción tuvieren complicidad.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 961.
 
-La quiebra culpable ó fraudulenta se perseguirá:
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-I. Por acusación del Ministerio público, previa la calificación hecha por sentencia irrevocable;
-
-II. Por querella del síndico, si para entablarla fuera autorizado por la mayoría de los acreedores;
-
-III. Por querella de uno ó varios de éstos, quienes seguirán á sus expensas el juicio criminal, sin acción á ser reintegrados por la masa ni de gastos ni de costas, cualquiera que sea el resultado de sus gestiones.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO V.
 
@@ -5716,131 +5622,93 @@ Del convenio de los quebrados con sus acreedores.
 
 ###### Art. 962.
 
-Una vez declarada la quiebra, el fallido conserva el dominio pleno y la administración de los bienes que no sean susceptibles de embargo, la administración de los personales de sus hijos y de su esposa, á no ser que ésta obtenga separación de los suyos. En todos los demás bienes, presentes y futuros, pierde la administración en favor de la masa, y conserva el dominio, pero estrictamente limitado con arreglo á las disposiciones de este Código.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 963.
 
-No son susceptibles de embargo:
-
-I. El lecho cuotidiano (sic) y los vestidos, muebles comunes y de uso indispensable del deudor, de su mujer y de sus hijos, no siendo de lujo á juicio del juez;
-
-II. Los instrumentos y útiles necesarios para el arte ú oficio á que el deudor este dedicado;
-
-III. Los bueyes ú otros animales propios para la labranza, en cuanto fueren necesarios para el servicio de la finca á que estén destinados;
-
-IV. Los libros de las personas que ejerzan profesiones literarias, en cuanto fueren necesarias para el ejercicio de ellas, á juicio del juez, á cuyo efecto oirá el informe de un perito nombrado por él;
-
-V. Los instrumentos de los médicos, de los cirujanos y de los ingenieros, en cuanto fueren necesarios para el ejercicio de sus profesiones, á juicio del juez, á cuyo efecto oirá el informe de un perito nombrado por él;
-
-VI. Las armas y caballos de los militares en actual servicio indispensables para éste conforme á las leyes relativas;
-
-VII. Los efectos propios para el fomento de las negociaciones industriales en cuanto fueren necesarios para su servicio y movimiento, á juicio del juez, á cuyo efecto oirá el informe de un perito nombrado por él;
-
-VIII. Las mieses hasta antes de la cosecha;
-
-IX. El derecho de usufructo, pero no los frutos de éste;
-
-X. Los derechos de uso y habitación;
-
-XI. Las pensiones de alimentos en los casos del artículo 1,027 del Código de Procedimientos Civiles del Distrito Federal;
-
-XII. Las servidumbres, á no ser que se embargue el fundo á cuyo favor estén constituidas; pero en la de aguas pueden ser embargadas éstas cuando ya estén en el predio dominante;
-
-XIII. La renta vitalicia en los términos establecidos en los artículos 2,799 á 2,801 del Código Civil del Distrito Federal, los sueldos y emolumentos de los empleados y funcionarios públicos, sean civiles ó militares, y las asignaciones de los pensionistas del Erario.
-
-Las prevenciones de este artículo no son renunciables.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 964.
 
-Se reputarán pertenecer al fallido, excluyéndosele de su administración, los bienes cuya propiedad aparezca ser de su mujer y que se encuentren en los siguientes casos:
-
-I. Los muebles adquiridos durante el matrimonio, cualquiera que sea el régimen bajo el cual se haya celebrado, por presumirse que no se han comprado con fondos pertenecientes á su esposa;
-
-II. Los muebles del uso del marido y las alhajas, cuadros y muebles preciosos, sean del marido ó de la mujer.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 965.
 
-La mujer tendrá derecho á reivindicar el dominio de los bienes á que alude el artículo anterior, si sobre el hecho de haberle pertenecido antes del matrimonio ó de haberlos comprados durante él, con dinero suyo, rindiere prueba plena con citación y audiencia del síndico.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 966.
 
-La parte que corresponda al fallido en los productos de los bienes de su esposa y de sus hijos, deducidas sus cargas legales, entre los que se computará la mitad de gananciales ó la parte que señalen las capitulaciones matrimoniales, pertenecerá á la masa del concurso, y el deudor común estará obligado á ponerla á disposición del síndico cada dos meses, bajo pena, si no lo hiciere, de ser intervenida su administración.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 967.
 
-La declaración de quiebra surte todos los efectos civiles y penales del arraigo para el fallido, quien no podrá separase del lugar del juicio sin que lo autorice á ello la mayoría de los acreedores y sin dejar apoderado suficientemente instruído.
-
-El fallido que se separe del lugar del juicio sin llenar previamente esos dos requisitos, será considerado como reo del delito de desobediencia á la autoridad.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 968.
 
-La declaración de quiebra no priva al fallido del ejercicio de sus derechos civiles, salvo en los casos expresamente exceptuados.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 969.
 
-Si el fallido repudiare una herencia ó legado, podrá el síndico, previa autorización judicial, aceptar la una ó el otro por cuenta de la masa á nombre del deudor y en su lugar y caso. El derecho de repudiar no se anula sino en favor de los acreedores y hasta la suma que falte para cubrir el pasivo y los gastos del concurso.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 970.
 
-El fallido no podrá comparecer en juicio ni como actor ni como reo con motivo de los intereses concursados, pues sólo podrá ejercitar las acciones que se refieran á su persona ó que tengan por objeto derechos inherentes á ella. Las que se intenten sobre los bienes del fallido tendrán que ejercitarse contra el síndico, de quien podrá ser coadyuvante el quebrado siempre que obtenga de la mayoría de los acreedores permiso para ello.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 971.
 
-El fallido, declarada que sea la quiebra, dejara de desempeñar los mandatos ó comisiones que se le hubieren conferido antes de ella, y sus mandatarios ó comisionistas cesarán desde el día en que llegue á su noticia la suspensión de los pagos, poniéndose desde luego en liquidación las operaciones relativas para que se exija el pago de lo que se adeude á la masa y se considere lo que ella pueda reportar al tiempo de la graduación y del pago.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 972.
 
-La administración que pierde y las modificaciones al dominio que sufre el fallido conforme al art. 962 pasan á la masa. Ésta queda representada por el síndico, quien recibe, por virtud de su nombramiento, todas las facultades de un mandatario general, sin más limitaciones que las especificadas en este Libro.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 973.
 
-En el caso de que el comerciante muera después de haberse presentado en quiebra ó que su sucesión sea la que manifieste dicho estado, sus albaceas ó herederos tendrán, en curso y en los procedimientos de la quiebra, los derechos y obligaciones que le corresponderían al fallido si viviera, con excepción sólo de las responsabilidades penales.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 974.
 
-En virtud de la declaración de quiebra se tendrán por vencidas todas las deudas del quebrado que estuvieren pendientes, haciéndose sobre su importe en aquellas deudas que no devenguen intereses y cuyo pago se anticipe, un descuento de seis por ciento anual desde el día del pago hasta el del cumplimiento de la obligación.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 975.
 
-Cesan con respecto á la masa de los bienes del concurso las responsabilidades por fianzas legítimamente otorgadas por el fallido, y solo se consideraran como créditos contra el concurso, en el lugar y grado que corresponda, las cantidades adeudadas á causa de ellas hasta el día de la declaración del estado de quiebra.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 976.
 
-La declaración de quiebra suspende el curso de las cuentas corrientes, las que se pondrán desde luego en liquidación para exigir ó cubrir su saldo en la manera y forma que corresponda.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 977.
 
-La declaración de quiebra suspende, sólo con relación á la masa, el curso de los intereses de los créditos, menos los estipulados en aquellos que estén garantizados con hipoteca ó prenda, debiendo cubrirse únicamente con el producto de los bienes que estén afectos á esa responsabilidad.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 978.
 
-Son nulas todas las operaciones que el fallido haya hecho en cualquier tiempo antes de la declaración de la quiebra defraudando á sabiendas los derechos de sus acreedores, siempre que la persona con quien contrato haya tenido previo conocimiento del fraude.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 979.
 
-Serán nulos los contratos y operaciones hechos á título gratuito, en favor de ascendientes y descendientes, ó en cumplimiento de obligaciones no vencidas ó no realizadas, si dichos contratos ú operaciones se hicieren treinta días antes de la fecha en que el fallido dejó de pagar la primera obligación cuya falta de pago le constituya en quiebra.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 980.
 
-El acreedor que dentro de la época de que habla el artículo anterior refaccione su crédito para tener por él hipoteca, prenda ú otra seguridad, sólo tendrá tal garantía por el importe de la refacción si ésta resultare válida conforme á las prescripciones de este Código.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 981.
 
-Siempre que se decrete la devolución de cualquier objeto ó cantidad, se entenderá, aun cuando no se exprese, que deben devolverse también sus productos líquidos ó intereses correspondientes al tiempo en que se disfrutó de la cosa ó del dinero.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 982.
 
-Salvo lo dispuesto en el art. 949, la declaración de quiebra pronunciada en país extranjero no puede invocarse contra los acreedores que el fallido tenga en la República, ni para disputarles los derechos que pretendan tener sobre los bienes existentes dentro del territorio, ni para anular los contratos que hayan celebrado con el fallido .
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 983.
 
-Se acumularán á los autos de la quiebra todos los juicios pendientes contra el fallido, excepto los siguientes:
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-I. Aquellos en que ya esté pronunciada ó notificada la sentencia definitiva de la primera instancia;
-
-II. Los que procedan de créditos hipotecarios ó prendarios;
-
-III. Los que tengan por objeto remates para pagar deudas de Bancos ó de Instituciones de Crédito.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO VI.
 
@@ -5848,263 +5716,165 @@ De la graduación.
 
 ###### Art. 984.
 
-Por regla general, en una negociación mercantil se señala como época de la quiebra la de la formación de los inventarios ó balances que aclaren dicho estado, siempre que se hayan hecho, por lo menos, cada año.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 985.
 
-Si antes de la facción del inventario respectivo un suceso imprevisto, pero verdaderamente notorio, pusiese al comerciante en la posibilidad de cumplir con sus compromisos, desde entonces se considerará que tiene lugar la quiebra.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 986.
 
-Si un comerciante suspendiere el pago de sus deudas civiles y no tuviere bienes bastantes para cubrirlas independientemente de los que forman su negociación mercantil, ó no pudiere saldarlas con los bienes de ésta sin suspender el pago de sus obligaciones de comercio, desde ese momento se considerará que ha tenido lugar la quiebra; pero no se tendrá por tal la suspensión del pago de una ó más de sus deudas civiles si pueden cubrirse sin producir la quiebra de la negociación mercantil.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 987.
 
-En todos los casos puede modificarse la época de la quiebra según las constancias de autos y las consideraciones de justicia que de ella resulten.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO VII.
 
 De la rehabilitación.
 
-Art. 1,009. El juez que haya cenocido (sic) en el juicio sobre quiebra, puede conceder rehabilitación al fallido mediante las condiciones que expresan los artículos siguientes.
+Art. 1,009. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,010. Los fallidos de primera clase serán rehabilitados protestando en forma legal atender al pago de sus deudas insolutas tan luego como su situación se los permita.
+Art. 1,010. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,011. Los de segunda clase serán también rehabilitados bajo la misma condición, siempre que aseguren su cumplimiento con alguna garantía que sea aceptada por sus acreedores.
+Art. 1,011. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,012. Los de primera y segunda clase que por convenio legal con sus acreedores deban continuar en la administración de sus bienes por sólo éste hecho se entienden rehabilitados.
+Art. 1,012. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,013. Los fallidos con excepción de los fraudulentos, quedan de hecho rehabilitados desde el momento en que hayan pagado totalmente á sus acreedores.
+Art. 1,013. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,014. Los fallidos fraudulentos, luego que cumplan la pena á que hayan sido sentenciados, ó que hayan sido indultados de ella ó que la hayan prescrito, quedarán en la situación de los de segunda clase.
+Art. 1,014. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,015. Con la rehabilitación del quebrado cesarán todas las interdicciones legales que produce la declaración de quiebra.
+Art. 1,015. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ###### Art. 988.
 
-El quebrado y sus acreedores podrán hacer los convenios que estimen oportunos, antes de la presentación en quiebra ó de su declaración, y en cualquier estado del juicio posterior al reconocimiento de créditos y á la calificación de la quiebra.
-
-No gozarán de este derecho los quebrados fraudulentos y los que hayan quebrantado el arraigo de que trata el art. 967.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 989.
 
-Los convenios judiciales entre los acreedores y el quebrado han de ser hechos en junta de acreedores debidamente constituída.
-
-Los pactos particulares entre el quebrado y cualquiera de sus acreedores serán nulos: el acreedor que los hiciere perderá sus derechos en la quiebra, y el quebrado, por este solo hecho, será calificado de culpable cuando no mereciere ser considerado como quebrado fraudulento.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 990.
 
-Los acreedores singularmente privilegiados, los privilegiados y los hipotecarios, podrán abstenerse de tomar parte en la resolución de la junta sobre el convenio, y absteniéndose, ésta no les parará (sic) perjuicio en sus respectivos derechos.
-
-Si por el contrario, prefiriesen tener voz y voto en el convenio propuesto, serán comprendidos en las esperas ó quitas que la junta acuerde, sin perjuicio del lugar y grado que les corresponda al título de su crédito.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 991.
 
-La proposición de convenio se discutirá y pondrá á votación, formando resolución el voto de un número de acreedores que compongan la mitad y uno más de los concurrentes, siempre que su interés en la quiebra cubra las tres quintas partes del total pasivo, deducido el importe de los créditos de los acreedores comprendidos en el párrafo primero del artículo anterior, que hubiesen usado del derecho consignado en dicho párrafo.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 992.
 
-Dentro de los ocho días siguientes á la celebración de la junta en que se hubiere acordado el convenio, los acreedores disidentes y los que no hubieren concurrido á la junta, podrán oponerse á la aprobación del mismo.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 993.
 
-Las únicas causas en que podrá fundarse la oposición al convenio serán:
-
-I. Defectos en las formas prescritas para la convocación, celebración y deliberación de la junta;
-
-II. Falta de personalidad ó representación en alguno de los votantes, siempre que su voto decida la mayoría en número ó cantidad;
-
-III. Inteligencias fraudulentas entre el deudor y uno ó más acreedores, ó de los acreedores entre sí, para votar á favor del convenio;
-
-IV. Exageración fraudulenta de créditos para procurar la mayoría de cantidad;
-
-V. Inexactitud fraudulenta en el balance general de los negocios del fallido ó en los informes de los síndicos para facilitar la admisión de las proposiciones del deudor.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 994.
 
-Aprobado el convenio por el juez de los autos mediante auto que será apelable en ambos efectos por cualquiera acreedor, sea cual fuere el monto de su crédito y salvo lo dispuesto en el artículo 990, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior á la declaración de quiebra si hubieren sido citados en forma legal, ó si habiéndoseles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en este Código, aun cuando no estén comprendidos en el balance ni hayan sido parte en el procedimiento.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 995.
 
-En virtud del convenio, no mediando pacto expreso en contrario, los créditos quedarán extinguidos en la parte de que se hubiere hecho remisión al quebrado, aun cuando le quedare algún sobrante de los bienes de la quiebra ó posteriormente llegare á mejor fortuna.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 996.
 
-Si el deudor convenido faltare al cumplimiento de lo estipulado, cualquiera de sus acreedores podrá pedir la rescisión del convenio y la continuación de la quiebra ante el juez ó tribunal que hubiere conocido de la misma.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 997.
 
-En el caso de no haber mediado el convenio de que habla el artículo 995, los acreedores que no sean satisfechos íntegramente con lo que perciban del haber de la quiebra hasta el término de la liquidación de ésta, conservarán acción por lo que se les reste en deber sobre los bienes que ulteriormente adquiera ó pueda adquirir el quebrado.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO VIII.
 
 Disposiciones generales relativas á las quiebras, en las sociedades mercantiles.
 
-Art. 1,016. Las quiebras que conforme al art. 948 importan la de las sociedades y la de los partícipes de ellas, exigen, sin embargo, que se sigan con separación las liquidaciones respectivas.
+Art. 1,016. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,017. La quiebra de uno ó más socios no produce por sí sola la de la sociedad.
+Art. 1,017. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,018. En las sociedades á que se refiere el art. 948 pueden los acreedores ajustar convenios con uno solo ó con sólo una parte de los deudores ilimitada y solidariamente responsables, en cuyo caso el síndico administra todo el activo social, con excepción de los bienes particulares del socio ó socios convencionados.
+Art. 1,018. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Pero ni se podrá aplicar parte alguna de este activo al cumplimiento de las obligaciones que nazcan de la convención ó arreglo, ni quedarán rehabilitados los socios convencionados, mientras no justifiquen que la masa de la quiebra á pagado todas sus deudas.
+Art. 1,019. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-El socio ó socios convencionados quedan libres con respecto á los acreedores de toda obligación solidaria.
+Art. 1,020. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,019. En las sociedades colectivas los acreedores particulares de los socios cuyos créditos fueren anteriores á la constitución de la sociedad, concurrirán con los acreedores de ésta, colocándose en el lugar y grado que les corresponda según la naturaleza de sus respectivos créditos, conforme á lo dispuesto en los arts. 1,002 y 1,003 de este Código.
+Art. 1,021. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Los acreedores posteriores sólo tendrán derecho á cobrar sus créditos del remanente, si lo hubiere, después de satisfechas las deudas sociales salvo siempre la preferencia otorgada por las leyes á los créditos hipotecarios.
+Art. 1,022. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,020. Si los socios comanditarios ó de compañías anónimas no hubieren entregado al tiempo de la declaración de la quiebra el total de las cantidades que se obligaron á poner en la sociedad el administrador ó administradores la quiebra tendrán derecho para reclamarles los dividendos pasivos que sean necesarios, dentro del límite de su respectiva responsabilidad, á menos que las acciones sean al portador.
+Art. 1,023. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,021. Los socios comanditarios, los de sociedades anónimas y los de cuentas en participación, que á la vez sean acreedores de la quiebra, no figurarán en el pasivo de la misma, más que por la diferencia que resulte á su favor después de cubiertas las cantidades que estuvieren obligados á poner en el concepto tales socios.
+Art. 1,024. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,022. El convenio, en la quiebra de sociedades anónimas que no se hayan en liquidación, podrán tener por objeto la continuación ó el traspaso de la empresa con la condiciones que se fijen en el mismo convenio.
+Art. 1,025. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,023. Las compañías estarán representadas durante la quiebra según lo hubieren previsto para este caso los Estatutos; en su defecto, por los directores, gerentes, administradores ó liquidadores, y á falta de todo estos por un agente del Ministerio público, distinto del designado para representar acreedores ausentes.
-
-Art. 1,024. Si la sociedad fallida á emitido obligaciones al portador, los tenedores de ellas serán admitidos al pasivo de la quiebra, pero con deducción de todo lo pagado como amortización ó reembolso sobre el capital de dichas obligaciones.
-
-Art. 1,025. En la quiebra de un socio de sociedad cooperativa, se observará lo dispuesto en el artículo 251 de éste Código.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ###### Art. 998.
 
-Las mercancías, efectos y cualquiera otra especie de bienes que existan en la masa de la quiebra cuya propiedad no se hubiere trasferido al quebrado por un título legal é irrevocable, se considerarán de dominio ajeno y se pondrán á disposición de sus legítimos dueños previo el reconocimiento de su derecho en junta de acreedores ó en sentencia firme, reteniendo la masa los derechos que en dichos bienes pudieren corresponder al quebrado, en cuyo lugar quedará sustituída aquélla siempre que cumpliere las obligaciones anexas á los mismos.
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ###### Art. 999.
 
-Se considerarán comprendidos en el precepto del artículo anterior para los efectos señalados en el:
+(DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-I. Los bienes dotales inestimados y los estimados que se conservaren en poder del marido, si constare su recibo por escritura pública inscrita con arreglo al art. 21 de este Código;
+Art. 1,000. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-II. Los bienes parafernales que la mujer hubiere adquirido por título de herencia legado ó donación, bien se hayan conservado en la forma que los recibió, bien se hayan subrogado ó invertido en otros, con tal que la inversión ó subrogación se haya inscrito en el Registro mercantil;
+Art. 1,001. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-III. El patrimonio del hijo que esté bajo la patria potestad, ó del pupilo que esté bajo la tutela del comerciante, si se cumplió oportunamente con el registro que exige el citado art. 21;
+Art. 1,002. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-IV. Los bienes y efectos que el quebrado tuviere en depósito, administración, arrendamiento, alquiler ó usufructo;
+Art. 1,003. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-V. Las mercaderías que el quebrado tuviere en su poder, por comisión de compra, venta, tránsito ó entrega;
+Art. 1,004. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-VI. Las letras de cambio ó pagares que sin endoso ó expresión que transmitiore (sic) su propiedad, se hubieren remitido para su cobranza al quebrado, y las que hubiere adquirido por cuenta de otro, libradas ó endosadas directamente en favor del comitente;
+Art. 1,005 (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-VII. Los caudales remitidos fuera de cuenta corriente al quebrado y que éste tuviere en su poder para entregar á persona determinada en nombre y por cuenta del comitente ó para satisfacer obligaciones que hubieren de cumplirse en el domicilio de aquél;
+Art. 1,006. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-VIII. Las cantidades que estuvieren debiendo al quebrado por ventas hechas de cuenta ajena, y las letras ó pagares de igual procedencia que obraren en su poder, aunque no estuvieren extendidas en favor del dueño de las mercancías vendidas, siempre que se pruebe que la obligación procede de ellas y que existían en poder del quebrado por cuenta del propietario para hacerlas efectivas y remitirle los fondos á su tiempo, lo cual se presumirá de derecho si la partida no estuviere pasada en cuenta corriente entre ambos;
+Art. 1,007. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-IX. Los géneros vendidos al quebrado á pagar al contado y no satisfechos en todo ó en parte, ínterin existan embalados en los almacenes del quebrado, ó en los términos en que se hizo la entrega y en estado de distinguirse específicamente por las marcas ó números de los fardos ó bultos;
+Art. 1,008. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-X. Las mercancías que el quebrado hubiere comprado al fiado, mientras no se le hubiere hecho la entrega material de ellas en sus almacenes ó en paraje convenido para hacerla, y aquellas cuyos conocimientos ó cartas de porte se le hubieren remitido después de cargadas de orden y por cuenta y riesgo del comprador;
-
-XI. Los valores ú objetos dados en prenda constituída ó en escritura pública, ó en póliza otorgada ante corredor, ó en el título llamado Bono de prenda, á que se refiere el artículo 341, á menos que la mayoría de los acreedores resuelva recobrar dichos valores ú objetos satisfaciendo íntegramente el crédito á que estuvieren afectos.
-
-Si la masa no hiciere uso de este derecho, y se tratare de un Bono de prenda, se aplicarán las disposiciones del cap. II., tít. IV del Lib. 2°. de este Código.
-
-Si las prendas fueren de otra clase, el acreedor prendario podrá enajenarlas con intervención del corredor, ó en su defecto en remate judicial.
-
-El sobrante que resultare después de extinguido el crédito, será entregado á la masa.
-
-Si por el contrario, aun resultase un saldo contra el quebrado, el acreedor prendario ocupara en la graduación por ese saldo, el lugar de cualquier otro acreedor común mercantil;
-
-XII. En las quiebras de los Bancos de emisión el importe de los billetes que estén circulando.
-
-Art. 1,000. Con el producto de los bienes de la quiebra, hechas las deducciones que prescriben los artículos anteriores, se pagará á los acreedores con arreglo á lo establecido en los artículos siguientes.
-
-Art. 1,001. La graduación de créditos se hará dividiéndolos en dos secciones: la primera comprenderá los créditos que hayan de ser satisfechos con el producto de los bienes muebles de la quiebra, y la segunda los que hayan de pagarse con el producto de los inmuebles.
-
-Art. 1,002. La prelación de los acreedores de la primera sección se establecerá por el orden siguiente:
-
-I. Los acreedores singularmente privilegiados, por este orden:
-
-A. El Fisco sea federal, local ó municipal;
-
-B. Los gastos para la seguridad de los bienes administración de la casa fallida y demás diligencias judiciales y extrajudiciales en beneficio común, siempre que hayan sido hechos con la autorización debida;
-
-C. Los gastos funerarios si la declaración de quiebra ha tenido lugar después del fallecimiento;
-
-D. Los gastos funerarios del fallido que ha muerto posteriormente á la declaración de quiebra, sólo tendrán privilegio si se han vivificado por los síndicos ó administradores de la quiebra ó por su acuerdo y con autorización del juez;
-
-E. Los gastos de la enfermedad que haya causado la muerte del deudor común en caso de quiebra declarada después del fallecimiento;
-
-F. Los acreedores por trabajo personal, comprendiendo á los dependientes de comercio por los seis últimos meses anteriores á la quiebra;
-
-G. Los arrendamientos vencidos con todo lo que exista el fundo arrendado, inclusa la cosecha del año, tratándose de heredades;
-
-H. Los acreedores alimenticios, ó sean los que hubieren suministrado alimentos al quebrado ó á su familia;
-
-II. Los privilegiados que tuvieren consignado un derecho preferente en este Código;
-
-III. Los acreedores comunes por operaciones mercantiles;
-
-IV. Los acreedores por contratos comprendidos en el derecho civil, sea cual fuere el título ó causa del crédito.
-
-Art. 1,003. La prelación en el pago á los acreedores de la segunda sección se sujetará al orden siguiente:
-
-I. Los acreedores con derecho real, en los términos y por el orden que establece el derecho civil;
-
-II. Los acreedores singularmente privilegiados y demás enumerados en el artículo anterior, por el orden establecido en el mismo artículo.
-
-Art. 1,004. La sumas (sic) que los acreedores hipotecarios percibieren de los bienes muebles, realizados que sean, serán abonadas en cuenta de lo que hubieren de percibir por la venta de inmuebles, y si hubiesen percibido el total de su crédito, se tendrá por saldado y se pasará á pagar al que siga por orden de fechas.
-
-Art. 1,005. Con excepción de los hipotecarios, los acreedores percibirán sus créditos, sin distinción de fechas, á prorrata dentro de cada clase y con sujeción al orden establecido en los artículos 1,002 y 1,003.
-
-Quedan á salvo, no obstante las disposiciones anteriores, los privilegios establecidos en este Código sobre cosa terminada, en cuyo caso, si concurrieren varios acreedores de la misma clase, se observará la regla general.
-
-Art. 1,006. No se pasará á distribuir el producto de la venta entre los acreedores de un grado, letra ó número de los fijados en los artículos 1,002 y 1,003, sin que queden completamente saldados los créditos del grado, letra ó número anteriores según el orden de prelación que establecen los mismos artículos.
-
-Art. 1,007. Los acreedores hipotecarios ya voluntarios, ya legales, cuyos créditos no quedasen cubiertos con la venta de los inmuebles que les estuviesen hipotecados, serán, considerados en cuanto al resto en el número cuatro del art. 1,002.
-
-Art. 1,008. Respecto de los acreedores marítimos hipotecarios ó comunes, se observarán las reglas establecidas en el Libro tercero.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO IX.
 
 De las quiebras de las compañías y empresas de ferrocarriles y demás obras públicas.
 
-Art. 1,026. Las compañías y empresas de ferrocarriles y demás obras de servicio público general, local ó municipal, que se hallaren en la imposibilidad de saldar sus obligaciones, podrán presentarse al juez en estado de suspensión de pagos.
+Art. 1,026. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-También podrá hacerse la declaración de suspensión de pagos á instancia de uno ó más acreedores legítimos, entendiéndose por tales, para los efectos de este artículo, los que hayan obtenido mandamiento de ejecución y en el embargo no encuentren bienes libres bastantes para el pago, o los que acrediten que estas empresas o compañías han suspendido de una manera general el pago corriente de sus obligaciones .
+Art. 1,027. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,027. Por ninguna acción judicial podrán interrumpirse el servicio de explotación de ferrocarriles ni de ninguna otra obra pública.
+Art. 1,028. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,028. La compañía o empresa que se presentare en estado de suspensión de pagos, solicitando convenio con sus acreedores, deberá acompañar á su solicitud el balance de su activo y pasivo.
+Art. 1,029. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Para los efectos relativos al convenio, se dividirán los acreedores en tres grupos: el primero comprenderá á los créditos del trabajo personal y los procedentes de expropiaciones, obras y material; y el segundo los de las obligaciones hipotecarias emitidas por el capital que las mismas representen y por los cupones y amortización vencidos y no pagados, computándose los cupones y amortización por su valor total y las obligaciones, según el tipo de emisión, dividiéndose este grupo en tantas secciones cuantas hubieren sido las emisiones de obligaciones hipotecarias, y el tercero todos los demás créditos, cualquiera que sea su naturaleza y orden de prelación entre sí y con relación á los grupos anteriores.
+Art. 1,030. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,029. Si la compañía o empresa no presentare el balance en la forma determinada en el artículo anterior ó la declaración de suspensión de pagos hubiese sido solicitada por acreedores que justifiquen las condiciones exigidas en el párrafo segundo del artículo 952, el juez mandará que se forme el balance en el término de quince días pasados los cuales sin presentarlo, se hará de oficio en igual término y á costa de la compañía o empresa deudora
+Art. 1,031. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,030. La declaración de suspensión de pagos hecha por el juez producirá los efectos siguientes:
+Art. 1,032. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-I. Suspenderá los procedimientos ejecutivos y de apremio;
+Art. 1,033. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-II. Obligará á las compañías á consignar en alguna institución de crédito ó casa de comercio en su defecto, los sobrantes, cubiertos que sean los gastos de administración, explotación y construcción;
+Art. 1,034. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-III. Impondrá á las compañías y empresas el deber de presentar al juez, dentro del término de cuatro meses, una proposición de convenio para el pago de los acreedores, aprobada previamente en junta ordinaria ó extraordinaria por los accionistas, si la compañía ó empresa deudora estuviere constituída por acciones.
+Art. 1,035. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,031. El convenio quedará aprobado por los acreedores si lo aceptan los que representan tres quintas partes de cada uno de los grupos ó secciones señalados en el artículo 1,028.
+Art. 1,036. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Se entenderá igualmente aprobado por los acreedores, si no habiendo concurrido dentro del primer plazo señalado al efecto, número bastante para formar la mayoría de que antes se trata, lo aceptaren en una segunda convocatoria acreedores que representaren los dos quintos del total de cada uno de los dos primeros grupos y de sus secciones siempre que no hubiere oposición que exceda de otros dos quintos de cualquiera de dichos grupos ó secciones ó del total pasivo.
-
-Art. 1,032. Dentro de los quince días siguientes á la publicación del computo de los votos, si éste hubiere sido favorable al convenio, los acreedores disidentes y los que no hubieren concurrido podrán hacer oposición al convenio por defectos en la convocación de los acreedores y en las adhesiones de éstos, ó por cualquiera de las causas determinadas en los números II al V del artículo 993.
-
-Art. 1,033. Aprobado el convenio sin oposición ó desestimada ésta por sentencia firme será obligatorio para la compañía ó empresa deudora y para todos los acreedores cuyos créditos daten de época anterior á la suspensión de pagos si hubieren sido citados en forma legal, ó si habiéndoseles notificado el convenio, no hubieren reclamado contra él en los términos prevenidos por el derecho común.
-
-Art. 1,034. Procederá la declaración de quiebra de las compañías y empresas, cuando ellas lo solicitaren, ó á instancia de acreedor legítimo, siempre que en este caso se justificaré alguna de las condiciones siguientes:
-
-I. Si trascurrieren cuatro meses desde la declaración de suspensión de pagos sin presentar al juez la proposición de convenio;
-
-II. Si el convenio fuere desaprobado por sentencia firme, ó no se reuniesen suficientes adhesiones para su aprobación en los dos plazos á que se refiere el artículo 1,031;
-
-III. Si aprobado el convenio, no se cumpliere por la compañía ó empresa deudora, siempre que en este caso lo soliciten acreedores que representen al menos la vigésima parte del pasivo.
-
-Art. 1,035. Hecha la declaración de quiebra, si subsistiere la concesión, se pondrá en conocimiento del Gobierno ó de la corporación que la hubiere otorgado, y se constituirá un consejo de incautación, compuesto de un presidente nombrado por dicha autoridad, dos vocales designados por la compañía ó empresa, uno por cada grupo ó sección de acreedores, y tres á pluralidad de todo éstos.
-
-Art. 1,036. El consejo de incautación organizará provisionalmente el servicio de la obra pública, la administrará y la explotará estando además obligado:
-
-I. A consignar con carácter de depósito necesario los productos en alguna institución de crédito ó casa de comercio en su defecto, después de deducidos y pagados los gastos de administración y explotación;
-
-II. A entregar en la misma institución ó casa de comercio, y en el concepto también de depósito necesario, las existencias en metálico ó valores que tuviere la compañía ó empresa al tiempo de la incautación;
-
-III. A exhibir los libros y papeles pertenecientes á la compañía ó empresa cuando proceda y lo decrete el juez.
-
-Art. 1,037. En la graduación y pago de los acreedores, se observará lo dispuesto en capítulo VI de este título.
+Art. 1,037. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ### CAPÍTULO I.
 
@@ -7250,69 +7020,57 @@ Art. 1,376. Si la tercería, cualquiera que sea, se interpone ante un juez de pa
 
 Disposiciones generales.
 
-Art. 1,415. El juicio de quiebra puede iniciarse:
+Art. 1,415. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-I. A instancias del deudor, ya sea que solicite liquidación judicial, ó ya que haga abandono de su activo;
+Art. 1,416. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-II. Por solicitud de uno o varios acreedores, conforme á las fracciones I, II y IV del art. 952.
+Art. 1,417. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,416. En cualquiera de los dos casos previstos en el artículo anterior, el juez que conozca de la quiebra proveerá sobre la conservación de los bienes de la masa, nombrando al efecto un sindico provisional y un interventor.
+Art. 1,418. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,417. El nombramiento del interventor y de síndico provisionales debe recaer en persona de notoria honradez y respetabilidad, y que sean, ó abogados con título oficial, ó comerciantes con matrícula en el respectivo Registro de Comercio.
+Art. 1,419. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,418. El síndico provisional ó definitivo, desde su nombramiento representará legítimamente á la negociación fallida, judicial y extrajudicialmente.
+Art. 1,420. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,419. El síndico provisional se limitará á recibir la negociación con sus libros y pertenencias, suspendiendo todo pago que no sea el corriente de contribuciones, rentas, dependientes y gastos menores, y no pudiendo hacer ventas sino al contado y á los precios de plaza.
+Art. 1,421. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,420. Si el síndico provisional comprendiere que hay necesidad de realizar algunos efectos ó valores porque pudieran perderse, disminuir su precio ó que se perjudicara de cualquiera otra manera la negociación que está á su cargo, podrá verificar los contratos correspondientes con autorización del juez, quien la dará previa audiencia del Ministerio público en el plazo que le señale según la urgencia del caso.
+Art. 1,422. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,421. Ni el sindico ni el interventor provisionales podrán ser removidos antes de que así lo acuerde la junta general de acreedores en la siguiente á la de rectificación de créditos .
+Art. 1,423. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,422. Las atribuciones del interventor serán: vigilar la conducta del síndico, dando cuenta al juez de todos los actos en que puedan resultar perjudicados los intereses de los acreedores ó los derechos que las leyes les conceden, y cuidando de que nunca deje el síndico pasar los términos que para cualquiera de sus funciones haya establecido la ley; asistir á la formación del inventario consecutivo al aseguramiento de bienes y ser oído en el caso previsto en el artículo 1,420 y cuando el síndico decida entablar judicialmente alguna acción. El interventor definitivo tendrá además, el encargo de dictaminar sobre el crédito del síndico cuando éste sea acreedor de la masa.
+Art. 1,424. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,423. Los interventores, para el exacto cumplimiento de las atribuciones que les confiere el artículo anterior, tendrán la más amplia libertad de examinar los libros correspondencia y demás papeles de la quiebra.
+Art. 1,425. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,424. Es voluntaria la aceptación de los cargos de síndico ó de interventor provisionales; pero una vez aceptados, no pueden renunciarse sino por causa muy grave á juicio del juez que la calificará de plano y sin más recurso que el de responsabilidad.
+Art. 1,426. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,425. Si por renuncia, ó por muerte, ó por cualquier otro impedimento legal cesaren en sus funciones el síndico ó interventor provisionales, el juez los reemplazará inmediatamente.
+Art. 1,427. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,426. El síndico puede emplear abogado en los casos en que él no lo sea y que se requiera el conocimiento de la ciencia legal, y los honorarios de éste debidamente justificados y aprobados por el juez, se pagarán de la masa de la quiebra.
+Art. 1,428. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,427. Los síndicos percibirán como único honorario:
-
-I. Ocho porciento de productos de la venta de los bienes de la quiebra, si no excediere de 25,000 pesos;
-
-II. Cuatro por ciento por el exceso hasta 200,000 pesos;
-
-III. Dos porciento por cualquier mayor exceso.
-
-Art. 1,428. El interventor provisional cobrará los derechos que á los procuradores señalen los aranceles vigentes.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO II.
 
 Del aseguramiento de bienes.
 
-Art. 1,429. Si el juicio de quiebra se ha iniciado ó por las instancias del deudor ó por alguno de los motivos expresados en el artículo 1,415, fracción II, el juez proveerá auto que contendrá:
+Art. 1,429. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-I. El nombramiento de síndico é interventor provisionales y el mandamiento para asegurar los bienes, libros, correspondencia y documentos del deudor, así como la orden al correo para que se entregue la correspondencia del mismo al síndico;
+Art. 1,430. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-II. La prohibición de hacer pagos ó entregar efectos el deudor común, y la orden á éste de entregar los bienes de su negociación al síndico, bajo el apercibimiento de segunda paga, en el primer caso, y de declarar, en el segundo, al deudor culpable de ocultación;
+Art. 1,431. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-III. La orden de publicar el auto tres veces consecutivas en el periódico oficial del Estado, ó Distrito ó Territorio Federal, y de registrarlo en el Registro de Comercio.
+Art. 1,432. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,430. El funcionario que haga las veces de ejecutor, procederá inmediatamente á recoger la aceptación y protesta del síndico y del interventor nombrados, y tan luego como llene ese requisito, sellará, asociado del interventor y del síndico, las puertas de los almacenes, bodegas y despachos del deudor, y los libros y papeles de comercio, y muebles susceptibles de embargo que se hallen en el domicilio del mismo deudor.
+Art. 1,433. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,431. El ejecutor asentará en los autos la razón de haberse practicado las diligencias de que trata el artículo anterior, para cuya práctica se tendrán siempre por formalmente habilitados los días y horas inhábiles.
+Art. 1,434. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,432. Si el deudor tuviere sucursales ó establecimientos fuera del Territorio ó partido jurisdiccional del juez de la quiebra, se practicarán por medio de exhortos las diligencias prevenidas en el artículo 1,430.
+Art. 1,435. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,433. Al día siguiente de puestos los sellos, el síndico comenzará á hacer el inventario, previa citación del interventor y del deudor, y ante el escribano de los autos ó quien haga sus veces. Si en inventariar los bienes de una pieza fuere preciso emplear más de un día concluídas las horas hábiles, se volverán á sellar las puertas, asentándose siempre razón, por principio de diligencia, del estado en que se encuentre el sello que haya habido necesidad de levantar.
+Art. 1,436. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,434. Si al practicar el inventario se encontrase alguno de los efectos mencionados en el artículo 1,420, se procederá como allí se determina. Si se encontraren algunos objetos no susceptibles de embargo, se entregarán al deudor.
-
-Art. 1,435. Serán inventariados de preferencia los muebles y objetos necesarios para la continuación del giro mercantil del deudor.
-
-Art. 1,436. El síndico irá recibiendo los efectos á medida que se inventaríen, y al efecto firmará diariamente el acta de inventario, de que se levantarán dos tantos: el principal se unirá á los autos y el duplicado quedará en poder del síndico para su resguardo.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ## TITULO SEGUNDO.
 
@@ -7350,201 +7108,169 @@ Art. 1,390. Dentro de los quince días siguientes á la citación para sentencia
 
 De la rectificación de créditos.
 
-Art. 1,437. Concluído el inventario y sin necesidad de gestión del síndico, el juez proveerá auto mandado que se le presenten los justificantes de los créditos dentro de diez días, si residen los acreedores á menos de 200 kilómetros del lugar del juicio; de veinte si residen á menos de 400; y de treinta si residen á mayor distancia, dentro de la República.
+Art. 1,437. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,438. A los que residan en la América del Norte ó en las Antillas, se les concederán dos meses; á los que residan en Europa ó en la América Central, tres meses; á los que residan en la América Meridional, cuatro meses; y cinco á los que residan en cualquiera otra parte.
+Art. 1,438. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,439. La notificación á que aluden los dos artículos anteriores, se hará por medio de cédula, despacho ó exhorto á los acreedores cuyo domicilio sea conocido, y por tres publicaciones consecutivas en el periódico oficial á los de domicilio desconocido.
+Art. 1,439. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-A los acreedores ausentes los reemplazará en todo caso, mientras se presentan, un agente del Ministerio público.
+Art. 1,440. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,440. Los acreedores presentarán al juez los títulos justificativos de sus créditos, ó si aquellos no existen, la cuenta de lo que se les deba, pormenorizada y con expresión de la causa, dentro del término legal acompañando copias literales de ellos, para que cotejadas se ponga á su pie una nota de quedar los originales en poder del juzgado, devolviendo en esta forma las copias á los interesados para su resguardo.
+Art. 1,441. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,441. Los jueces á medida que reciban los documentos de los acreedores, los pasarán á los síndicos, quienes los confrontarán con las constancias que ministren los papeles, registros y libros del fallido y extenderán su informe individual sobre cada crédito, con arreglo á lo que resulte del cotejo y á las demás noticias que llegaren á su conocimiento.
+Art. 1,442. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,442. En los ocho días siguientes al vencimiento del plazo señalado para la presentación de los títulos, formarán los síndicos un estado general de los créditos á cargo de la quiebra, que se hayan presentado á comprobación con la oportuna referencia por orden de números de los documentos presentados por su respectivo interesado, y pasarán este estado al juzgado, dando copia al deudor, su apoderado ó gestor para su inteligencia.
+Art. 1,443. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,443. Con vista de este informe el juez resolverá quienes y por que cantidad tienen derecho de votar en el examen y admisión de créditos.
+Art. 1,444. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,444. Esta resolución deja salvo el derecho de todos y cada uno de los acreedores á la quiebra, el del interesado en el crédito controvertido, y el del deudor, para que se sintieren agraviados, usen de él en justicia como les convenga ante el juzgado que conoce de la quiebra, quedando, entretanto, privado de voz activa en la quiebra el acreedor cuyo crédito no sea reconocido.
+Art. 1,445. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,445. El juez declarará cerrado el estado de créditos y señalará día, que será el cuarto después de que se le haya presentado el estado general, para la junta de examen y reconocimiento de ellos. A consecuencia de esta diligencia, serán considerados en mora para los efectos que prescribe el art. 1,464, los acreedores que comparezcan posteriormente.
+Art. 1,446. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,446. Reunidos el Ministerio público y los acreedores que hubieren ocurrido, ó sus representantes con poder legalmente extendido según la cuantía del crédito, en el día señalado para la junta de examen y reconocimiento de créditos, se hará la lectura general de éstos, de los documentos respectivos de comprobación, del informe de los síndicos sobre cada uno de ellos, y de la resolución judicial.
+Art. 1,447. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,447. Con vista de estos documentos, y oyendo las reclamaciones ú observaciones que los acreedores concurrentes y el fallido por sí ó su apoderado ó gestor estimaren oportunas sobre cada una de las partidas, y las satisfacciones que puedan convenirle al interesado en el crédito, ó á quien le represente se resolverá con aprobación del juzgado sobre la exclusión de cada crédito por mayoría de votos, la cual, para excluir al crédito, deberá consistir cuando menos en las tres cuartas partes de acreedores con los dos tercios de créditos, ó en los dos tercios de acreedores con las tres cuartas de créditos, computándose solamente las personas y créditos de los concurrentes. Si para la exclusión del crédito no hubiere la mayoría expresada, el crédito se reputará admitido para los efectos legales, salvo los recursos de los artículos 1,451 y 1,452.
+Art. 1,448. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,448. El juez convocará todas las juntas que sean necesarias para la calificación de los créditos; pero no podrán emplearse más de veinte días contados desde el en que se celebre la primera junta.
+Art. 1,449. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,449. Los créditos admitidos como legítimos, se anotarán en sus títulos, en estos términos: "N; admitido al pasivo de N; por la cantidad de ...." Esta nota se firmará por el juez y por los síndicos.
+Art. 1,450. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,450. Al acreedor cuyo crédito sea excluído se le devolverán sus títulos para los usos que le convengan.
+Art. 1,451. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,451. En la resolución de la junta de que trata el artículo 1,447 se observará lo dispuesto en el artículo 1,444.
+Art. 1,452. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,452. En caso de reclamación por cualquier acreedor contra el acuerdo de la junta en que se declare reconocido un crédito, serán de su cargo los gastos del procedimiento; pero si judicialmente se declara excluído el crédito, le serán abonados íntegramente por la masa, mediante su cuenta justificada.
+Art. 1,453. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,453. Pasados diez días después de la celebración de la junta en que el crédito que se reclama fue admitido ó desechado, no se admitirá instancia alguna contra lo acordado en la junta, ni en ningún caso ni tiempo podrá hacerla un acreedor contra la resolución que haya sido conforme á su voto.
+Art. 1,454. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,454. En las reclamaciones que se hagan por algún acreedor ó por el deudor contra el reconocimiento de algún crédito, se entenderá la sustanciación únicamente con el interesado en el crédito impugnado. Y las demandas de cualquier acreedor sobre que se reconozcan los créditos que la junta hubiere desechado se sustanciarán con los síndicos, que estarán en este caso obligados á sostener, por cuenta de la masa, el acuerdo de la junta.
+Art. 1,455. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,455. Siempre que hubiere contradicción el juez designará un día dentro de los ocho siguientes á la interposición de la reclamación, para que el actor comparezca á deducir sus derechos, sobre los que pronunciará definitivamente en un juicio verbal, en el que no habrá más expediente escrito que el que se forme de la acta que se extenderá del mismo, de los documentos y de las declaraciones de los testigos presentados por las partes.
+Art. 1,456. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,456. Todo juicio sobre legitimación de créditos se concluirá dentro de quince días, contados desde el señalado para la comparecencia del actor, á menos que para su decisión sea necesario tener presentes algunos documentos ó pruebas que no puedan presentarse en el término señalado, para cuyo solo caso podrá prorrogarse en cuanto fuere necesario sin excederse nunca del término de sesenta días.
+Art. 1,457. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,457. La ausencia de cualquiera de los litigantes no impedirá la decisión del juicio, y así se les hará saber en su primera comparecencia.
+Art. 1,458. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,458. Cualquier recurso de apelación ó nulidad que se interponga, se terminará por el superior en el mismo tiempo, y se procederá del mismo modo que en la primera instancia.
+Art. 1,459. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,459. El término de los quince días, en estos casos, se contará desde la mejora del recurso ante el tribunal superior.
+Art. 1,460. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,460. El inferior en ningún caso suspenderá el curso de las diligencias, sino en la parte en que se hubiere interpuesto el recurso; ni remitirá al superior las actuaciones originales sino después de haberse fenecido el juicio en todas sus partes.
+Art. 1,461. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,461. Todo acreedor cuya legitimidad haya sido declarada por sentencia judicial, tendrá derecho á votar en las juntas mientras la sentencia no se revoque por otra que cause ejecutoria.
+Art. 1,462. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,462. Los acreedores que por gozar de los términos señalados en los arts. 1,437 y 1,438, no hubieren presentado sus títulos antes de que el síndico forme el estado general de que habla el art. 1,442, podrán presentar después los justificantes de sus créditos sin perder su prelación y privilegios, siempre que lo hagan dentro de los términos que señalan dichos arts. 1,437 y 1,438.
+Art. 1,463. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,463. En el caso previsto por el artículo anterior, el juez pasará los justificantes al síndico para los efectos del art. 1,441, y por el término de ocho días. Con vista del informe del síndico y dentro de otros cuatro días, el juez resolverá sobre los dos puntos á que se contrae el art. 1,443, y después se celebrarán las juntas que fueren necesarias para el reconocimiento de los créditos.
+Art. 1,464. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,464. Los acreedores que no presentaren los documentos justificativos de sus créditos en los diversos plazos que para todos, según sus casos, se han prescrito en la presente ley, perderán el privilegio que tengan, y quedarán reducidos á la clase de acreedores comunes para percibir las porciones que les corresponda bajo esta calidad en los dividendos que estuvieren aún por hacerse cuando intentaren su reclamación, procediendo el reconocimiento de la legitimidad de sus créditos, que se hará judicialmente á expensas de los mismos acreedores morosos, con citación y audiencia de los síndicos.
+Art. 1,465. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Si los acreedores morosos no gozaren de privilegios, perderán la tercera parte de lo que deberían percibir por razón de su crédito.
-
-Art. 1,465. Si cuando se presenten los acreedores morosos á reclamar sus derechos estuviere ya repartido todo el haber de la quiebra no serán oídos,
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO IV.
 
 De la liquidación judicial.
 
-Art. 1,466. Todo comerciante que de hecho haya suspendido sus pagos, puede solicitar, dentro de los tres días siguientes, el beneficio de la liquidación judicial.
+Art. 1,466. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,467. Con la demanda respectiva acompañará el deudor un estado en que manifieste exacta y específicadamente su activo y su pasivo, el nombre y domicilio de sus acreedores y los motivos que le obligaron á suspender los pagos.
+Art. 1,467. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,468. Con vista de la demanda del deudor, el juez de plano proveerá un auto en términos del artículo 1,429, y se observarán todas las prevenciones contenidas en el capítulo anterior hasta dejar cerrado el examen de reconocimiento de créditos.
+Art. 1,468. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,469. Dentro de los diez días siguientes á haberse cerrado el examen de créditos, el juez citará junta general de acreedores, y en ella se oirán las indicaciones del deudor y del síndico sobre la posibilidad de llegar á un convenio en la forma y términos del cap. V., tít. I, Libro IV de este Código.
+Art. 1,469. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,470. Si los acreedores y el deudor se convencionaren y en la convención se observan todos y cada uno de los requisitos prescritos por las leyes, la liquidación judicial quedará terminada y el deudor puesto de nuevo al frente de su giro y en libre posesión de sus bienes en los términos del propio convenio.
+Art. 1,470. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,471. Si no se convencionaren el deudor y los acreedores, se seguirán los procedimientos de la quiebra hasta la liquidación y pago de los créditos.
+Art. 1,471. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Los acreedores, á pluralidad de votos nombrarán, síndico é interventor definitivos.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO V.
 
 Del abandono de activo.
 
-Art. 1,472. El deudor cuyo pasivo exceda del activo está obligado, dentro de los tres días siguientes á la suspensión de pagos, á manifestarlo al juez de su domicilio, acompañando un estado con los requisitos establecidos en el art. 1,467.
+Art. 1,472. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,473. Con vista de esa gestión se observará lo dispuesto en los artículos del 1,468 al 1,471.
+Art. 1,473. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO VI.
 
 Del concurso necesario.
 
-Art. 1,474. Si el juicio de quiebra se iniciare por el segundo de los medios establecidos en el art. 1,415 habrá lugar al concurso necesario.
+Art. 1,474. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,475. En consecuencia, el concurso necesario se podrá iniciar:
+Art. 1,475. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-I. Por el hecho de que al irse á ejecutar una sentencia pasada en autoridad de cosa juzgada, no se encuentren bienes suficientes del deudor comerciante pues en este caso el juez, á petición de parte ó de oficio, abrirá el juicio de quiebra;
+Art. 1,476. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-II. Cuando entablado el juicio ejecutivo correspondiente sobre pago de una letra de cambio, un mandato á la orden ó al portador, una escritura pública ó póliza ante corredor, ó cualquiera otro título que traiga aparejada ejecución, no se encuentren bienes suficientes del deudor, ó éste no deposite ó afiance el importe de la demanda;
+Art. 1,477. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-III. Cuando siguiéndose un juicio contra un comerciante por deudas civiles, al trabarse la ejecución respectiva, ya para cumplir una sentencia ejecutoriada, ya al proceder á un embargo en juicio ejecutivo, no se encontraren bienes suficientes independientes de los que forman su negociación mercantil, ó no bastaren éstos, ni depositare ó afianzare el monto de la demanda;
+Art. 1,478. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-IV. Por el hecho de presentarse un billete de Banco protestado, cualquiera que haya sido la causa por la que se rehusó su pago, sino fué la de falsedad. Si se alego esta causa, y en el juicio criminal respectivo se probó y sentenció que el billete no era falso se podrá pedir que se inicie el juicio de quiebra, presentando el testimonio de la sentencia, cuando al iniciarse el juicio criminal el Banco no hubiere depositado el importe del billete argüido de falso;
+Art. 1,479. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-V. Cuando resultare de hecho la quiebra de un Banco, por el estado de operaciones que debe publicar mensualmente; en cuyo caso deberá abrirse el juicio respectivo á petición de cualquiera de sus acreedores;
+Art. 1,480. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-VI. Cuando en cualquier corte de caja extraordinario que mande hacer la Secretaria de Hacienda, resultare que el Banco está en quiebra, pues con el simple aviso del Ministerio el juez procederá á iniciar el juicio;
+Art. 1,481. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-VII. En el caso de fuga ó alzamiento del deudor;
+Art. 1,482. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-VIII. Siempre que en las actuaciones de un juicio aparezca el estado de quiebra; pues el juez de ellas, de oficio ó á petición de parte, deberá abrir el juicio correspondiente;
+Art. 1,483. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-IX. En los demás casos expresamente determinados en este Código.
+Art. 1,484. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,476. En los casos especificado en el artículo anterior, el juez hará desde luego la declaración del estado de quiebra y se procederá con arreglo á lo dispuesto en el capítulo II de este título.
-
-Art. 1,477. En los demás casos en que alguno ó algunos de los acreedores pidan la declaración de estado de quiebra, el juez mandará correr traslado por tres días al deudor, y si éste ofreciese pruebas, se señalará un término para recibirlas que no pase de quince días, concluído el cual se resolverá sobre la declaración de estado de quiebra. Esta decisión solo será apelable en el efecto devolutivo.
-
-Art. 1,478. Si se hiciese la declaración de estado de quiebra en los casos que determina el art. 1,475, el comerciante ó sociedad que sean objeto de ella podrán pedir que se revoque, dentro de los tres días siguientes á dicha declaración, siguiéndose en ese caso por cuerda separada los trámites que marca el artículo anterior.
-
-Art. 1,479. Los comerciantes ó sociedades que hubieren hecho la manifestación respectiva á su estado de quiebra, no podrán pedir su revocación, á no ser que aleguen algún error en la apreciación de sus negocios.
-
-Art. 1,480. Los acreedores, aun los garantizados con privilegio, hipoteca ó prenda, podrán pedir por cuerda separada el que se revoque dicha declaración, aun cuando el fallido haya manifestado ya su estado ó haya consentido el auto judicial respectivo.
-
-Art. 1,481. No podrá alegarse como fundamento para revocar la declaración de estado de quiebra, un convenio con los acreedores, aun cuando el acuerdo de éstos apareciere unánime.
-
-Art. 1,482. Pasado el término para solicitar la revocación, se presumirá que el deudor común y demás interesados han consentido en la declaración de estado de quiebra, y en la época señalada á la suspensión de pagos.
-
-Art. 1,483. Solamente en el caso de que se compruebe plenamente que el comerciante ó sociedad á que se atribuye el estado de quiebra están al corriente en sus pagos y que entre su pasivo y su activo no hay una diferencia que lo determine, procederá la revocación.
-
-Art. 1,484. Ejecutoriada la declaración de estado de quiebra, se procederá conforme á los artículos 1,468 al 1,471.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO VII.
 
 De la administración de la quiebra.
 
-Art. 1,485. No convecionándose el deudor y sus acreedores, el síndico, ayudado del interventor, administrará en los términos de este Libro y del anterior, los bienes del deudor común, procediendo á la liquidación de los mismos bienes y á la graduación de los créditos.
+Art. 1,485. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,486. Dentro del mes siguiente á la fecha en que se sepa que no hay convenio entre los acreedores y el deudor, el síndico procurará la venta de toda la negociación, y si esto no fuese posible, de los bienes que la constituyan pudiendo en uno y otro caso hacer la venta hasta con un quebranto de veinticinco por ciento del valor que tengan en los últimos inventarios; y si no los hubiere, del avalúo que se haga por un corredor de primera clase nombrado por el juez; ó si no lo hubiere por uno de inferior clase, ó un comerciante acreditado á falta de corredores.
+Art. 1,486. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,487. Transcurrido el primer mes se sacarán á remate los bienes del fallido, anunciándose con cinco días de anticipación. En la primera diligencia de remate no se admitirán posturas que bajen de las dos terceras partes de su precio de inventario ó avalúo. Los bienes que no se vendieren se sacarán á segundo remate á los cinco días, no pudiéndose admitir postura que baje del 40 porciento de su precio.
+Art. 1,487. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Los bienes que quedaren después del segundo remate se sacarán á tercero dentro de diez días, vendiéndose en la cantidad que diere el mejor postor.
+Art. 1,488. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-En estos remates no se admitirá postura que no sea al contado.
+Art. 1,489. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Los acreedores tienen en estos remates el derecho de hacer postura.
+Art. 1,490. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,488. Las cantidades que realizaren los síndicos ó que produjeren estos remates se depositaran en sacos cerrados y sellados en el Banco ó Institución de crédito, ó casa de comercio más respetable agregándose al cuaderno del síndico el billete ó recibo de depósito correspondientes.
-
-Art. 1,489. A más tardar, seis meses después de la celebración de la primera junta, presentará el síndico el proyecto de graduación de créditos; y si no lo verificare, será removido, nombrándose nuevo síndico que tendrá el plazo de un mes para presentar dicho proyecto.
-
-En caso de remoción, siempre se dejarán á salvo las acciones que nazcan de la culpabilidad ó negligencia del síndico.
-
-Art. 1,490. En el caso de que al darse la sentencia de graduación hubiere en litigio algunos bienes que no han podido entrar en la quiebra, los acreedores insolutos nombrarán un síndico especial que termine los juicios y realice los bienes. Este síndico devengará honorarios simples de procurador, que les serán pagados por los acreedores que los nombraron.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO VIII.
 
 De la graduación.
 
-Art. 1,491. Dentro del mismo mes fijado en el art. 1,486, el síndico, á quien se habrán pasado los autos al efecto, formará el proyecto de graduación sujetándose á lo dispuesto en el cap. VI, tít. I, Libro cuarto de este Código; y teniendo presente que no obstante lo dispuesto en el art. 1,037, y conforme á lo que ordena el art. 1,028, los créditos procedentes de obras y material rodante se considerarán comprendidos en la frac. II del art. 1,002.
+Art. 1,491. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,492. Presentando el proyecto el juez citará á junta general de acreedores para dentro de los diez días siguientes, y en ella se discutirán, una á una, las proposiciones con que termine el proyecto del síndico.
+Art. 1,492. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,493. Si el síndico fuere acreedor de la masa, el interventor, dentro de los diez días fijados en el artículo anterior, y tomando apuntes, si los necesita, en la secretaría del juzgado emitirá el dictamen de que trata el art. 1,422, el cual dictamen será discutido y votado con el del síndico en los términos que dispone el artículo precedente.
+Art. 1,493. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,494. Si en la junta á que se refieren los dos artículos anteriores, hubiere inconformidad sobre la preferencia de alguno ó algunos de los créditos, se citará á nueva junta con término de 20 días, y en ella los acreedores disentientes podrán dejar apuntes de su alegato de buen derecho, con vista de las cuales, ó en su defecto, de las actas de las dos enunciadas juntas, resolverá el juez lo que estime arreglado á derecho en la sentencia de graduación.
+Art. 1,494. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,495. Respecto de los créditos cuya legitimidad se dispute, cuyos juicios conforme al art. 983 se considerarán acumulados al juicio principal, seguirá la sustanciación hasta antes de la sentencia, en el juicio que corresponda.
+Art. 1,495. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,496. Cuando los diversos juicios á que se refiere el artículo anterior se hallen en estado de sentencia se dictará auto citando para sentencia de graduación en el concurso, la que se pronunciará en un término que no exceda de dos meses.
+Art. 1,496. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,497. La sentencia de graduación contendrá:
+Art. 1,497. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-I. La resolución de que ha habido quiebra, y de qué clase;
+Art. 1,498. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-II. La determinación de la época de la quiebra;
-
-III. La designación de los créditos legítimos su monto, clase y graduación;
-
-IV. La aplicación del producto de la quiebra al pago de créditos;
-
-V. La resolución de los incidentes pendientes.
-
-Art. 1,498. El recurso de apelación procede en ambos efectos contra la sentencia, siempre que dentro del término de tres días lo interpongan ó el representante del Ministerio público, ó el deudor común, ó cualquier acreedor que represente un interés mayor de tres mil pesos.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO IX.
 
 De la segunda instancia.
 
-Art. 1,499. Presentados los autos al tribunal respectivo, mandará hacerlo saber al apelante y al síndico, quienes podrán pedir dentro de tres días que el juicio se reciba á prueba, en cuyo caso se concederá para ésta un término de ocho días.
+Art. 1,499. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-Art. 1,500. Pasados los tres días de que habla el artículo anterior, sino se hubiere promovido prueba ó fenecido el término de ésta, se citará á la vista para dentro de ocho días, durante los cuales estarán los autos y las pruebas en la secretaría para que se instruyan las partes.
-
-La sentencia se pronunciará en la misma audiencia en que se verifique la vista, no admitiéndose contra ella más recurso que el de casación ó nulidad, que se interpondrá y sustanciará conforme á las respectivas leyes y Códigos de Procedimientos civiles.
+Art. 1,500. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
 ## TITULO TERCERO.
 
@@ -7646,9 +7372,13 @@ Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes em
 
 Art. 1,414. Cualquier incidente que se suscitare en el juicio mercantil ejecutivo, se decidirá por el juez sin sustanciar artículo, pero sin perjuicio del derecho de los interesados para que se les oiga en audiencia verbal siempre que así lo pidieren.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+
 ## TITULO CUARTO.
 
 DEL PROCEDIMIENTO ESPECIAL EN LAS QUIEBRAS.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ## TRANSITORIOS.
 
@@ -7740,6 +7470,10 @@ Esta ley entrará en vigor en la fecha de su publicación.
 
 Se deroga el título VII, del Libro II del Código de Comercio de 15 de septiembre de 1889 y todas las disposiciones legales que se opongan a la presente ley.
 
+D.O.F. 20 DE ABRIL DE 1943.
+
+DISPOSICIONES GENERALES
+
 ###### ARTICULO 1°.
 
 Esta Ley entrará en vigor en la fecha de su publicación.
@@ -7747,3 +7481,49 @@ Esta Ley entrará en vigor en la fecha de su publicación.
 ###### ARTICULO 2°.
 
 Sus disposiciones regirán los efectos jurídicos de los actos anteriores a su vigencia, siempre que su aplicación no resulte retroactiva.
+
+###### ARTICULO 3°.
+
+Quedan derogados los artículos 945 a 1037 y 1415 a 1500 del Código de Comercio de 15 de septiembre de 1889.
+
+###### ARTICULO 4°.
+
+Quedan igualmente derogados los artículos relativos a quiebras comprendidos en la Ley General de Instituciones de Seguros.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON EL CODIGO.
+
+DISPOSICIONES TRANSITORIAS
+
+###### ARTICULO 1°.
+
+La presente ley entrará en vigor a los tres meses de su publicación en el "Diario Oficial".
+
+###### ARTICULO 2°.
+
+Los procedimientos de quiebras, de liquidación judicial y de suspensión de pagos que estén en tramitación en la fecha de la publicación de la presente ley, si no quedasen concluidos en los dos meses siguientes a dicha fecha, suspenderán su tramitación y los jueces competentes tomarán las medidas necesarias en el transcurso del mes siguiente para que a la entrada en vigor de esta ley, continúen su tramitación con arreglo a la misma.
+
+###### ARTICULO 1°.
+
+El Ministerio Público será oído en todos los actos previos a la formulación de resoluciones judiciales, tanto en el procedimiento de quiebras como en el de suspensión de pagos.
+
+Los jueces notificarán oportunamente al Ministerio Público, y le darán traslado de aquellos documentos que sean necesarios para dicho objeto.
+
+###### ARTICULO 2°.
+
+Serán inaplicables a los comerciantes quebrados o declarados en suspensión de pagos, los artículos 391 a 394 del Código Penal para el Distrito y Territorios Federales.
+
+###### ARTICULO 3°.
+
+La Secretaría de Hacienda y Crédito Público, la Comisión Nacional Bancaria y los demás organismos que tengan intervención en la preparación de las listas de personas aptas para el desempeño de la sindicatura, darán cumplimiento a lo que ésta ley dispone sobre el particular, para que antes de que transcurran dos meses a partir de la publicación de esta ley, queden preparadas las listas de síndicos y comunicadas por conducto regular a los tribunales y juzgados de la Federación.
+
+###### ARTICULO 4°.
+
+A aquellos matrimonios contraídos bajo los regímenes vigentes, con arreglo a la legislación anterior, a la Ley de Relaciones Familiares y al Código Civil del Distrito Federal, se les aplicarán las disposiciones del Código de Comercio vigente, en el caso de quiebra de uno o ambos cónyuges.
+
+###### ARTICULO 5°.
+
+En aquellos Estados de la República en los que no estén en vigor disposiciones equivalentes a las del Código Civil del Distrito Federal sobre regímenes matrimoniales en caso de quiebra de uno de los cónyuges, se aplicarán las disposiciones indicadas en el artículo anterior.
+
+###### ARTICULO 6°.
+
+Las referencias de esta Ley al Código de Procedimientos Civiles, se entienden hechas respecto del Código de Procedimientos Civiles del Distrito y Territorios Federales. Esta supletoriedad es excepcional y sólo se refiere a los preceptos expresamente reglamentados por esta ley. También es temporal, en tanto que no se promulgue el Código de Procedimientos Mercantiles.
