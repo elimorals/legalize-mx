@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1957-08-14"
+last_updated: "1960-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE AGOSTO DE 1957.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE MAYO DE 1960.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -225,7 +225,7 @@ V. Los que por sentencia ejecutoriada sean condenados a pena corporal o a suspen
 
 VI. Los que por causa de enfermedad mental tuvieren en suspenso el ejercicio de sus derechos civiles.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+((REFORMADO, B.O. 5 DE MAYO DE 1954)
 
 ###### Artículo 20.
 
@@ -333,7 +333,7 @@ La división del Estado en distritos electorales se hará proporcionalmente al n
 
 La elección de Diputados será directa, en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 21 DE MAYO DE 1960)</small>
 
 ###### Artículo 33.
 
@@ -345,19 +345,17 @@ II. Tener veinticinco años cumplidos el día de la elección.
 
 III. Haber residido en el Estado, cuando menos un año inmediatamente anterior al día en que se haga la elección, tratándose de los nativos del mismo; y cinco años inmediatamente anteriores al día de la elección, en el caso contrario.
 
-IV. No haber desempeñado puesto alguno de elección popular durante el período constitucional en que se efectúe la elección.
+IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiese separado definitivamente de su puesto.
 
-V. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiese separado definitivamente de su puesto.
+V. No habr (sic) sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno, Tesorero General del Estado, Presidente Municipal, ni ejercido mando militar alguno en el Distrito Electoral de la elección, dentro de los noventa días inmediatamente anteriores al día de la elección.
 
-VI. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno, Tesorero General del Estado ni ejercido mando militar alguno en el distrito electoral de la elección, dentro del año inmediatamente anterior al día de la elección.
+VI. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto religioso.
 
-VII. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto religioso.
+VII. Ser nativo del distrito electoral respectivo, o no siéndolo tener cuando menos un año de residencia en él.
 
-VIII. Ser nativo del distrito electoral respectivo, o no siéndolo tener cuando menos un año de residencia en él.
+VIII. No haber sido diputado propietario en el período en que se efectúe la elección. Los suplentes podrán ser electos siempre que no hubiesen estado en ejercicio dentro de dicho período; pero los diputados propietarios no podrán ser electos con el carácter de suplentes.
 
-IX. No haber sido diputado propietario en el período en que se efectúa la elección. Los suplentes podrán ser electos siempre que no hubiesen estado en ejercicio dentro de dicho período; pero los diputados propietarios no podrán ser electos con el carácter de suplentes.
-
-X. No haber sido diputado o senador propietario al Congreso de la Unión, dentro del período en que se celebre la elección. Los diputados y senadores suplentes podrán ser electos con el carácter de propietarios siempre que no hubieren estado en ejercicio dentro del período en que se celebre la elección; pero los diputados y senadores propietarios no podrán ser electos con el carácter de suplentes.
+IX. No haber sido diputado o senador propietario al Congreso de la Unión, dentro del período en que se celebre la elección. Los diputados y senadores suplentes podrán ser electos con el carácter de propietarios siempre que no hubieren estado en ejercicio dentro del período en que se celebre la elección; pero los diputados y senadores propietarios no podrán ser electos con el carácter de suplentes.
 
 ###### Artículo 34.
 
@@ -1347,19 +1345,17 @@ El Presidente Municipal y demás miembros del Ayuntamiento durarán en sus cargo
 
 Los cargos de Presidente Municipal y de concejal serán obligatorios, pero no gratuitos, y sólo serán renunciables por causa justificada que calificará el ayuntamiento.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 21 DE MAYO DE 1960)</small>
 
 ###### Artículo 134.
 
-Para ser Presidente Municipal o concejal de un ayuntamiento se requiere:
+Para ser Presidente Municipal o concejal de un Ayuntamiento se requiere:
 
-I. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos.
+I. Ser ciudadano mexicano por nacimiento y ciudadano sonorense nativo del Estado en el pleno ejercicio de sus derechos políticos.
 
-II. Ser vecino del municipio que lo nombre.
+II. Ser vecino del Municipio que lo nombre.
 
-III. No haber desempeñado ningún cargo público de elección popular, dentro del período constitucional en que se efectúe la elección.
-
-IV. No desempeñar ningún cargo público en el municipio donde se hace la elección, ya dependa aquél del Estado o de la Federación; no estar en servicio activo en el ejército, ni tener mando de fuerzas en el mismo municipio, a menos de que, quien esté comprendido en tales casos, se separe definitivamente de su empleo o cargo seis meses antes de la elección.
+III. No desempeñar ningún cargo público en el municipio donde se hace la elección, ya dependa aquél del Estado o de la Federación; no estar en servicio activo en el ejército, ni tener mando de fuerzas en el mismo municipio, a menos de que, quien está comprendido en tales casos, se separe definitivamente de su empleo o cargo noventa días antes de la elección.
 
 ###### Artículo 134 Bis.
 
@@ -1623,9 +1619,9 @@ Los Funcionarios y Empleados del Estado y Municipales de las poblaciones fronter
 
 (DEROGADO, B.O. 5 DE MAYO DE 1954)
 
-> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 21 DE MAYO DE 1960)</small>
 
-Artículo 162 A. Todo funcionario o empleado público que por razón de sus funciones no esté impedido para ocupar puestos de elección popular, deberá sin embargo, separarse de su cargo seis meses antes de la fecha de la elección, para poder ser electo.
+Artículo 162 A. Todo funcionario o empleado público que por razón de sus funciones no esté impedido para ocupar puestos de elección popular, deberá sin embargo, separarse de su cargo noventa días antes de la fecha de la elección, para poder ser electo.
 
 Artículo 162 C. (DEROGADO, B.O. 5 DE MAYO DE 1954)
 
@@ -1830,6 +1826,10 @@ UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el
 B.O. 14 DE AGOSTO DE 1957.
 
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 21 DE MAYO DE 1960.
+
+UNICO.- Las presentes reformas entrarán en vigor a partir de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
