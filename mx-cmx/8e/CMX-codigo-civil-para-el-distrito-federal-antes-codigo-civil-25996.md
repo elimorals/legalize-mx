@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1992-07-23"
+last_updated: "1993-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 1993.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -29,7 +29,7 @@ El C. Presidente Constitucional de la República se ha servido dirigirme el decr
 
 "PLUTARCO ELIAS CALLES, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la Unión por Decretos de 7 de enero y de 6 de diciembre de 1926 y de 3 de enero de 1928, expido el siguiente
+Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la Unión por Decretos de 7 de enero y de 6 de diciembre de 1926 y de 3 de enero de 1928, expido el siguiente:
 
 (REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)(REPUBLICADA, D.O.F. 31 DE DICIEMBRE DE 1974)
 
@@ -9529,7 +9529,9 @@ ARTICULO 2,397.- Las partes no pueden, bajo pena de nulidad, convenir de anteman
 
 ARTICULO 2,398.- Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente, una, a conceder el uso o goce temporal de una cosa, y la otra, a pagar por ese uso o goce un precio cierto.
 
-El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación; de quince para las fincas destinadas al comercio y de veinte para las fincas destinadas al ejercicio de una industria.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
+
+El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación y de veinte años para las fincas destinadas al comercio o a la industria.
 
 ARTICULO 2,399.- La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente, con tal que sea cierta y determinada.
 
@@ -9545,9 +9547,11 @@ ARTICULO 2,404.- Se prohibe a los Magistrados, a los Jueces y a cualesquiera otr
 
 ARTICULO 2,405.- Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
-ARTICULO 2,406.- El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
-ARTICULO 2,407.- Si el predio fuere rústico y la renta pasare de cinco mil pesos anuales, el contrato se otorgará en escritura pública.
+ARTICULO 2,406.- El contrato de arrendamiento debe otorgarse por escrito. La falta de esta formalidad se imputará al arrendador.
+
+ARTICULO 2,407.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
 ARTICULO 2,408.- El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
 
@@ -9561,7 +9565,9 @@ ARTICULO 2,411.- Los arrendamientos de bienes nacionales, municipales o de estab
 
 ARTICULO 2,412.- El arrendador está obligado, aunque no haya pacto expreso:
 
-I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias y en estado de servir para el uso convenido; y si no hubo convenio expreso, para aquél a que por su misma naturaleza estuviere destinada;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1993)</small>
+
+I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias y en estado de servir para el uso convenido; y si no hubo convenio expreso, para aquél a que por su misma naturaleza estuviere destinada; así como en condiciones que ofrezcan al arrendatario la higiene y seguridad del inmueble;
 
 II.- A conservar la cosa arrendada en el mismo estado, durante el arrendamiento, haciendo para ello todas las reparaciones necesarias;
 
@@ -9655,7 +9661,9 @@ ARTICULO 2,446.- Si la misma cosa se ha dado en arrendamiento separadamente a do
 
 Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
-ARTICULO 2,447.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2,304 y 2,305.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
+
+ARTICULO 2,447.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, en caso de venta sea preferido en los términos del artículo 2448-J de este Código.
 
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
@@ -9669,29 +9677,27 @@ ARTICULO 2,447.- En los arrendamientos que han durado más de cinco años y cuan
 
 Del arrendamiento de fincas urbanas destinadas a la Habitación
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
-ARTICULO 2,448.- Las disposiciones de este Capítulo son de orden público e interés social. Por tanto son irrenunciables y en consecuencia, cualquier estipulación en contrario se tendrá por no puesta.
+ARTICULO 2,448.- Las disposiciones contenidas en los artículos 2448-A, 2448-B, 2448-G y 2448-H son de orden público e interés social, por tanto son irrenunciables y en consecuencia cualquier estipulación en contrario se tendrá por no puesta.
 
 > <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ARTICULO 2,448 A.- No deberá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas por la Ley de la materia.
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
-ARTICULO 2,448 B.- El arrendador que no haga las obras que ordene la autoridad sanitaria correspondiente como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los inquilinos sufren por esa causa.
+ARTICULO 2,448 B.- El arrendador que no haga las obras que ordene la autoridad correspondiente como necesarias para que una localidad sea habitable, higiénica y segura es responsable de los daños y perjuicios que los inquilinos sufran por esa causa.
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
-ARTICULO 2,448 C.- La duración mínima de todo contrato de arrendamiento de fincas urbanas destinadas a la habitación será de un año forzoso para arrendador y arrendatario, que será prorrogable, a voluntad del arrendatario, hasta por dos años más siempre y cuando se encuentre al corriente en el pago de las rentas.
+ARTICULO 2,448 C.- La duración mínima de todo contrato de arrendamiento de fincas urbanas destinadas a la habitación será de un año forzoso para arrendador y arrendatario, salvo convenio en contrario.
 
 > <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ARTICULO 2,448 D.- Para los efectos de este Capítulo la renta deberá estipularse en moneda nacional.
 
-> <small>(F. DE E., D.O.F. 29 DE MARZO DE 1985)</small>
-
-La renta sólo podrá ser incrementada anualmente; en su caso, el aumento no podrá exceder del 85 por ciento del incremento porcentual, fijado al salario mínimo general del Distrito Federal, en el año en el que el contrato se renueve o se prorrogue.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
@@ -9737,59 +9743,41 @@ Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hi
 
 No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+ARTICULO 2,448 I.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
-ARTICULO 2,448 I.- Para los efectos de este capítulo, el arrendatario, si está al corriente en el pago de la renta tendrá derecho a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento del inmueble. Asimismo, tendrá el derecho del tanto en caso de que el propietario quiera vender la finca arrendada.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+ARTICULO 2,448 J.- En el caso de que el propietario del inmueble arrendado decida enajenarlo, el o los arrendatarios tendrán derecho a ser preferidos a cualquier tercero en los siguientes términos:
 
-ARTICULO 2,448 J.- El ejercicio del derecho del tanto se sujetará a las siguientes reglas:
+I.- En todos los casos el propietario deberá dar aviso por escrito al arrendatario de su deseo de vender el inmueble, precisando el precio, términos, condiciones y modalidades de la compra-venta;
 
-I.- En todos los casos el propietario deberá dar aviso en forma indubitable al arrendatario de su deseo de vender el inmueble, precisando el precio, términos, condiciones y modalidades de la compra-venta.
+II.- El o los arrendatarios dispondrán de quince días para dar aviso por escrito al arrendador de su voluntad de ejercitar el derecho de preferencia que se consigna en este artículo en los términos y condiciones de la oferta, exhibiendo para ello las cantidades exigibles al momento de la aceptación de la oferta, conforme a las condiciones señaladas en ésta;
 
-II.- El o los arrendatarios dispondrán de 15 días para notificar en forma indubitable al arrendador su voluntad de ejercitar el derecho del tanto en los términos y condiciones de la oferta.
+III.- En caso de que el arrendador cambie cualquiera de los términos de la oferta inicial estará obligado a dar un nuevo aviso por escrito al arrendatario, quien a partir de ese momento dispondrá de un nuevo plazo de quince días. Si el cambio se refiere al precio, el arrendador sólo estará obligado a dar este nuevo aviso cuando el incremento o decremento del mismo sea de más de un diez por ciento;
 
-III.- En caso de que el arrendador cambie cualquiera de los términos de la oferta inicial estará obligado a dar un nuevo aviso en forma indubitable al arrendatario, quien a partir de ese momento dispondrá de un nuevo plazo de 15 días para los efectos del párrafo anterior. Si el cambio se refiere al precio, el arrendador sólo está obligado a dar este nuevo aviso cuando el incremento o decremento del mismo sea de más de un diez por ciento.
+IV.- Tratándose de bienes sujetos al régimen de propiedad en condominio, se aplicarán las disposiciones de la ley de la materia; y
 
-IV.- Tratándose de bienes sujetos al régimen de propiedad en condominio, se aplicarán las disposiciones de la Ley de la materia.
+V.- La compra-venta realizada en contravención de lo dispuesto en este artículo otorgará al arrendatario el derecho de demandar daños y perjuicios, sin que la indemnización por dichos conceptos pueda ser menor a un 50% de las rentas pagadas por el arrendatario en los últimos doce meses. La acción antes mencionada prescribirá sesenta días después de que tenga conocimiento el arrendatario de la realización de la compraventa respectiva.
 
-V.- Los notarios deberán cerciorarse del cumplimiento de este artículo previamente a la autorización de la escritura de compra-venta.
+En caso de que el arrendatario no cumpla con las condiciones establecidas en las fracciones II o III de este artículo, precluirá su derecho.
 
-VI.- La compra-venta y su escrituración realizadas en contravención de lo dispuesto en este artículo serán nulas de pleno derecho y los Notarios incurrirán en responsabilidad en los términos de la Ley de la materia. La acción de nulidad a que se refiere esta fracción prescribe a los seis meses contados a partir de que el arrendatario tuvo conocimiento de la realización del contrato.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
-En caso de que el arrendatario no dé el aviso a que se refieren las fracciones II y III de este artículo precluirá su derecho.
+ARTICULO 2,448 K.- Si varios arrendatarios hicieren uso del derecho de preferencia a que se refiere el artículo anterior, será preferido el que tenga mayor antigüedad arrendando parte del inmueble y, en caso de ser igual, el que primero exhiba la cantidad exigible en los términos de la fracción II del artículo anterior, salvo convenio en contrario.
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+ARTICULO 2,448 L.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
-ARTICULO 2,448 K.- El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la Ley para que sea fiador.
+ARTICULO 2,449.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
-Tratándose del arrendamiento de viviendas de interés social es potestativo para el arrendatario dar fianza o sustituir esa garantía con el depósito de un mes de renta.
+ARTICULO 2,450.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+ARTICULO 2,451.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
-ARTICULO 2,448 L.- En todo contrato de arrendamiento para habitación deberán transcribirse íntegras las disposiciones de este capítulo.
-
-> <small>N. DE E. POR DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES DE ARRENDAMIENTO PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 1985, EL LEGISLADOR REFORMO EL CAPITULO IV DEL TITULO SEXTO DE LA SEGUNDA PARTE DEL LIBRO CUARTO DEL PRESENTE CODIGO, SIN MODIFICAR EL PRESENTE ARTICULO, POR LO QUE SE ENCUENTRA EN VIGOR AUN CUANDO EXISTE CONTRADICCION DE SU CONTENIDO CON LOS ARTICULOS ADICIONADOS AL CITADO CAPITULO.</small>
-
-ARTICULO 2,449.- El arrendador que no haga las obras que ordene el Departamento de Salubridad Pública como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los inquilinos sufran por esa causa.
-
-> <small>N. DE E. POR DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES DE ARRENDAMIENTO PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 1985, EL LEGISLADOR REFORMO EL CAPITULO IV DEL TITULO SEXTO DE LA SEGUNDA PARTE DEL LIBRO CUARTO DEL PRESENTE CODIGO, SIN MODIFICAR EL PRESENTE ARTICULO, POR LO QUE SE ENCUENTRA EN VIGOR AUN CUANDO EXISTE CONTRADICCION DE SU CONTENIDO CON LOS ARTICULOS ADICIONADOS AL CITADO CAPITULO.</small>
-
-ARTICULO 2,450.- El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para que sea fiador.
-
-Si la renta no excede de veinticinco pesos mensuales, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
-
-> <small>N. DE E. POR DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES DE ARRENDAMIENTO PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 1985, EL LEGISLADOR REFORMO EL CAPITULO IV DEL TITULO SEXTO DE LA SEGUNDA PARTE DEL LIBRO CUARTO DEL PRESENTE CODIGO, SIN MODIFICAR EL PRESENTE ARTICULO, POR LO QUE SE ENCUENTRA EN VIGOR AUN CUANDO EXISTE CONTRADICCION DE SU CONTENIDO CON LOS ARTICULOS ADICIONADOS AL CITADO CAPITULO.</small>
-
-ARTICULO 2,451.- No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2,449.
-
-> <small>N. DE E. POR DECRETO DE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES RELACIONADAS CON INMUEBLES DE ARRENDAMIENTO PUBLICADO EN EL D.O.F. DE 7 DE FEBRERO DE 1985, EL LEGISLADOR REFORMO EL CAPITULO IV DEL TITULO SEXTO DE LA SEGUNDA PARTE DEL LIBRO CUARTO DEL PRESENTE CODIGO, SIN MODIFICAR EL PRESENTE ARTICULO, POR LO QUE SE ENCUENTRA EN VIGOR AUN CUANDO EXISTE CONTRADICCION DE SU CONTENIDO CON LOS ARTICULOS ADICIONADOS AL CITADO CAPITULO.</small>
-
-ARTICULO 2,452.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos, y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
+ARTICULO 2,452.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
 ### CAPITULO V. Del arrendamiento de fincas rústicas
 
-ARTICULO 2,453.- El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
+ARTICULO 2,453.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
 ARTICULO 2,454.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por semestres vencidos.
 
@@ -9893,7 +9881,9 @@ ARTICULO 2,515.- El comodato termina por la muerte del comodatario.
 
 ### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
-ARTICULO 2,478.- Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
+
+ARTICULO 2,478.- Todos los arrendamientos que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso por escrito dado a la otra parte con quince días de anticipación, si el predio es urbano, y con un año si es rústico.
 
 ARTICULO 2,479.- Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2,456, 2,457 y 2,458.
 
@@ -9929,39 +9919,55 @@ VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad públic
 
 VIII.- Por evicción de la cosa dada en arrendamiento.
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
-ARTICULO 2,484.- Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2,478 y 2,479.
+ARTICULO 2,484.- Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado. Si no se ha señalado tiempo, se observará lo que disponen los artículos 2478 y 2479.
 
-ARTICULO 2,485.- Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres de la zona en que se trate, han sufrido una alza después de que se celebró el contrato de arrendamiento.
+ARTICULO 2,485.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
-Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido.
+ARTICULO 2,486.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
-ARTICULO 2,486.- Si después de terminado el arrendamiento y su prórroga, si la hubo, continua el arrendatario sin oposición en el goce y uso del predio, y éste es rústico, se entenderá renovado el contrato por otro año.
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
 
-ARTICULO 2,487.- En el caso del artículo anterior, si el predio fuere urbano, el arrendamiento continuará por tiempo indefinido, y el arrendatario deberá pagar la renta que corresponda al tiempo que exceda al del contrato, con arreglo a lo que pagaba.
+ARTICULO 2,487.- Si después de terminado el plazo por el que se celebró el arrendamiento, el arrendatario continúa sin oposición en el uso y goce del bien arrendado, continuará el arrendamiento por tiempo indeterminado, estando obligado el arrendatario a pagar la renta que corresponda por el tiempo que exceda conforme a lo convenido en el contrato; pudiendo cualquiera de las partes solicitar la terminación del contrato en los términos del artículo 2478. Las obligaciones contraídas por un tercero con objeto de garantizar el cumplimiento del arrendamiento, cesan al término del plazo determinado, salvo convenio en contrario.
 
-ARTICULO 2,488.- Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hablan los dos artículos anteriores, cesan las obligaciones otorgadas por un tercero para la seguridad del arrendamiento, salvo convenio en contrario.
+ARTICULO 2,488.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
 ARTICULO 2,489.- El arrendador puede exigir la rescisión del contrato:
 
-I.- Por la falta de pago de la renta en los términos prevenidos en los artículos 2,452 y 2,454;
+> <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1993)</small>
+
+I.- Por falta de pago de la renta en los términos previstos en la fracción I del artículo 2425;
 
 II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2,425;
 
 III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2,480.
 
-ARTICULO 2,490.- En los casos del artículo 2,445, el arrendatario podrá rescindir el contrato cuando la pérdida del uso fuere total, y aun cuando fuere parcial si la reparación durare más de dos meses.
+> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1993)</small>
 
-ARTICULO 2,491.- Si el arrendatario no hiciere uso del derecho que para rescindir el contrato le concede el artículo anterior, hecha la reparación, continuará en el uso de la cosa, pagando la misma renta hasta que termine el plazo del arrendamiento.
+IV.- Por daños graves a la cosa arrendada imputables al arrendatario; y
+
+> <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1993)</small>
+
+V.- Por variar la forma de la cosa arrendada sin contar con el consentimiento expreso del arrendador, en los términos del artículo 2441.
+
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
+
+ARTICULO 2,490.- El arrendatario puede exigir la rescisión del contrato:
+
+I.- Por contravenir el arrendador la obligación a que se refiere la fracción II del artículo 2412 de este ordenamiento;
+
+II.- Por la pérdida total o parcial de la cosa arrendada en los términos de los artículos 2431, 2434 y 2445; y
+
+III.- Por la existencia de defectos o vicios ocultos de la cosa, anteriores al arrendamiento y desconocidos por el arrendatario.
+
+ARTICULO 2,491.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
 ARTICULO 2,492.- Si el arrendador, sin motivo fundado, se opone al subarriendo que con derecho pretenda hacer al (sic) arrendatario, podrá éste pedir la rescisión del contrato.
 
 ARTICULO 2,493.- Si el usufructuario no manifestó su calidad de tal al hacer el arrendamiento, y por haberse consolidado la propiedad con el usufructo, exige el propietario la desocupación de la finca, tiene el arrendatario derecho para demandar al arrendador la indemnización de daños y perjuicios.
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
-
-ARTICULO 2,494.- En el caso del artículo anterior se observará lo que dispone el artículo 2,486, si el predio fuere rústico, y si fuere urbano, lo que previene el artículo 2,487.
+ARTICULO 2,494.- (DEROGADO, D.O.F. 21 DE JULIO DE 1993)
 
 ARTICULO 2,495.- Si el predio dado en arrendamiento fuere enajenado judicialmente, el contrato de arrendamiento subsistirá, a menos que aparezca que se celebró dentro de los sesenta días anteriores al secuestro de la finca, en cuyo caso el arrendamiento podrá darse por concluído.
 
@@ -11839,9 +11845,7 @@ III.- Los contratos de arrendamiento de bienes inmuebles, por un período mayor 
 
 IV.- Los demás títulos que la ley ordene expresamente que sean registrados.
 
-(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
-
-No se inscribirán las escrituras en las que se trasmita la propiedad de un inmueble dado en arrendamiento, a menos de que en ellas conste expresamente que se cumplió con lo dispuesto en los artículos 2448 I y 2448 J de este Código en relación con el derecho del tanto correspondiente al arrendatario.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -12425,7 +12429,7 @@ UNICO.- Este Decreto entrará en vigor tres días después de la fecha de su pub
 
 D.O.F. 17 DE ENERO DE 1970.
 
-DECRETO QUE REFORMA LA FRACCION VIII DEL ARTICULO 511 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+DECRETO QUE REFORMA LA FRACCIÓN VIII DEL ARTICULO 511 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 ###### ARTICULO UNICO.
 
@@ -12588,3 +12592,11 @@ D.O.F. 23 DE JULIO DE 1992.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actualmente se encuentra (sic) en trámite ante los tribunales competentes, en sus resoluciones que se dicten respecto de los motivos que les dieron origen y causa, deberán apegarse al texto de los artículos reformados, debiendo declarar en sus puntos resolutivos el tipo de incapacidad que padezca la persona.
+
+D.O.F. 21 DE JULIO DE 1993.
+
+PRIMERO.- El presente decreto entrará en vigor a los 90 días de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las disposiciones contenidas en el presente decreto, no serán aplicables a los contratos de arrendamiento celebrados con anterioridad a la entrada en vigor del mismo.
+
+TERCERO.- Los juicios y procedimientos judiciales y administrativos actualmente en trámite, se seguirán rigiendo por las disposiciones vigentes con anterioridad a la entrada en vigor del presente decreto.
