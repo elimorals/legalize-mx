@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1994-12-23"
+last_updated: "1995-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 1995.
 
 Constitución Publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -289,25 +289,21 @@ La elección será libre, directa y sujeta a los principios de mayoría relativa
 
 Los Diputados Propietarios no podrán ser reelectos para el período inmediato, ni aún como Suplentes. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietarios, si no hubieren ejercido el cargo.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
 
-El Congreso del Estado, se integra con veinte diputados, electos según el principio de mayoría relativa, mediante el sistema de Distritos Uninominales, y hasta por once diputados electos según el principio de representación proporcional, de acuerdo al sistema de listas votadas en una circunscripción plurinominal, conforme lo determinará la legislación electoral.
+El Congreso del Estado, se integrará con veinticuatro diputados electos según el principio de mayoría relativa, mediante el sistema de distritos uninominales y hasta por dieciséis diputados electos según el principio de representación proporcional, de acuerdo al sistema de listas votadas en una circunscripción plurinominal, conforme lo determine la Legislación Electoral.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1994)</small>
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 1995)</small>
 
-La Ley establecerá los mecanismos que garanticen mediante el voto, que los distritos electorales predominantemente indígenas tengan en el Congreso la representación correspondiente.
+Tendrán derecho a la asignación de Diputados de Representación Proporcional aquellos partidos políticos que hayan alcanzado el 1.5% uno punto cinco por ciento de la votación total del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
 
-El partido político que obtenga mas del cincuenta por ciento de la votación emitida, tendrá derecho a tres diputados de representación proporcional y los restantes se adjudicarán a aquellos partidos que habiendo alcanzado cuando menos el 1.5%, uno punto cinco por ciento, obtengan una mayor proporción de votos.
+La legislación respectiva determinará las reglas y el procedimiento a que se sujetará la asignación de Diputados de Representación Proporcional, en los que invariablemente deberá asegurarse que se mantenga la representación del partido que haya resultado favorecido en la asignación de Diputaciones Plurinominales.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
 
-La legislación respectiva determinará las reglas y el procedimiento a que se sujetará la asignación de diputados de representación proporcional.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1994)</small>
-
-Ningún partido tendrá derecho a que le sean reconocidos mas de veintidós diputados, aun cuando hubiere obtenido un porcentaje superior de votos.
+Ningún partido tendrá derecho a que le sean reconocidos mas de veintiséis diputados, por ambos principios aún cuando hubiere obtenido un porcentaje de votos superior.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -369,17 +365,19 @@ D) Los funcionarios federales; y
 
 E) Los militares en servicio activo y quienes tengan mando de la Policía en el Distrito donde se efectúe la elección.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 19.
 
-Los ciudadanos y los partidos políticos, con el apoyo de los Poderes del Estado tienen a su cargo la organización y vigilancia de las elecciones. Los Comités Distritales Electorales, declararán la validez de las elecciones de diputados. El Congreso del Estado, a través de un Colegio Electoral integrado con todos sus diputados, calificará las elecciones de Gobernador y Ayuntamientos, y sus fallos serán definitivos e inapelables.
+Los ciudadanos, los partidos políticos y los Poderes Ejecutivo, Legislativo y Judicial son corresponsables en la integración de los organismos electorales, así como de la preparación, desarrollo y vigilancia de los procesos electorales, a través de un organismo público, dotado de personalidad jurídica y patrimonio propios y un tribunal electoral, ambos con plena autonomía y con carácter de permanentes que serán además encargados de la calificación de las elecciones en el ámbito de sus respectivas competencias.
 
-La legislación electoral, establecerá medios de impugnación, para garantizar que los actos de los organismos electorales, se ajusten a lo dispuesto por esta Constitución y las Leyes que de ella emanen; de las impugnaciones conocerá la Comisión Electoral y el Tribunal Electoral del Estado.
+La certeza, legalidad, objetividad, imparcialidad y profesionalismo, serán principios rectores en el ejercicio de la función estatal de organizar las elecciones.
 
-El Tribunal tendrá competencia y organización para funcionar en plenos y en salas. Sus sesiones serán publicas. Estará integrado por cinco magistrados numerarios, uno de los cuales fungirá como Presidente y dos Magistrados supernumerarios que harán las veces de jueces instructores y serán nombrados por el Congreso del Estado o por la Comisión Permanente, en los recesos de aquél, a mas tardar el 25 de octubre del año anterior a la elección, la propuesta en lista de cuando menos el doble de Magistrados del Tribunal Electoral será hecha por el Tribunal Superior de Justicia del Estado.
+La Legislación Electoral establecerá medios de impugnación para garantizar que los actos de los organismos electorales, se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen; de las impugnaciones conocerán el Consejo Estatal Electoral y el Tribunal Electoral del Estado.
 
-Las resoluciones del Tribunal serán de pleno derecho y contra ellas no procederá juicio ni recurso alguno. Sus fallos serán definitivos e inapelables.
+El Tribunal tendrá competencia y organización para funcionar en Pleno y en Salas. Sus sesiones serán publicas, estará integrado por cinco magistrados numerarios, uno de los cuales fungirá como Presidente y dos Magistrados supernumerarios que harán las veces de jueces instructores y serán nombrados por el Congreso del Estado o por la Comisión Permanente, en los recesos de éste, a mas tardar el 25 de octubre del año anterior a la elección, a propuesta condensada de los partidos políticos. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción y contra ellas no procederá juicio ni recurso alguno. Sus fallos serán definitivos e inatacables.
+
+En los procesos electorales locales los partidos políticos deberán contar, en forma equitativa, con un mínimo de elementos para sus actividades, tendientes a la obtención del sufragio popular. La Ley establecerá las reglas a que se sujetarán el financiamiento de los Partidos Políticos y sus campañas electorales.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -403,13 +401,11 @@ También incurrirán en responsabilidad, que la misma Ley sancionara, los partid
 
 Los Diputados que no concurran a una sesión sin causa justificada, o sin el permiso del Diputado Presidente del Congreso, no tendrán derecho a la dieta correspondiente.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 22.
 
-El Congreso del Estado deberá quedar instalado el día primero de noviembre del año de la elección, debiendo iniciar su primer período ordinario de sesiones ese mismo día de ese mismo mes, terminando el dos de febrero; y el otro período ordinario, el 2 de mayo, terminando el 31 de julio; en los cuales se ocupará del estudio, discusión y votación de las iniciativas de Ley que se le presenten y demás asuntos que le corresponde conforme a esta Constitución. Habrá además en el año en que se verifiquen las elecciones ordinarias de Gobernador, un período extraordinario de sesiones, para el solo acto de erigirse en Colegio Electoral y hacer el cómputo de votos emitidos en la elección de Gobernador y Ayuntamientos, así como de la declaratoria respectiva en favor de la persona que hubiere obtenido la mayoría de sufragios.
-
-Dicho período será convocado por la Comisión Permanente tan pronto como tenga la mayoría de los expedientes electorales del Estado.
+El Congreso del Estado deberá quedar instalado el día primero de noviembre del año de la elección, debiendo iniciar su primer período ordinario de sesiones ese mismo día de ese mismo mes, terminando el 2 de febrero; y el otro período ordinario, el 2 de mayo, terminando el 31 de julio; en los cuales se ocupará del estudio, discusión y votación de las iniciativas de Ley que se le presenten y demás asuntos que le corresponden conforme a esta Constitución.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -561,7 +557,9 @@ XXVIII.- Crear o suprimir Municipios dentro de los ya existentes, una vez que se
 
 XXIX.- Examinar la cuenta pública que le presente el Ejecutivo y los Ayuntamientos, debiendo comprender dicho examen no solo la conformidad con las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
 
-XXX.- Expedir convocatoria para elecciones extraordinarias a fin de cubrir las vacantes que ocurran en los Poderes del Estado que sean de elección popular, y en los Ayuntamientos cuando estos desaparecieren por alguna circunstancia.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 1995)</small>
+
+XXX.- Expedir convocatoria para elecciones extraordinarias a fin de cubrir las vacantes que ocurran en los Poderes del Estado que sean de elección popular, y en los ayuntamientos cuando estos desaparecieren por alguna circunstancia, así como en aquellos casos en que el tribunal electoral declare la nulidad de cualquiera de las elecciones;
 
 XXXI.- Pedir la protección de los Poderes de la Unión en caso de trastorno o sublevación interior, si no lo hubiere hecho antes el Ejecutivo del Estado;
 
@@ -577,17 +575,13 @@ XXXIV.- Publicar su Memoria anual de labores;
 
 XXXV.- Dirimir los conflictos que se susciten entre el Ejecutivo y el Supremo Tribunal de Justicia del Estado, salvo que se trate de controversias sobre la constitucionalidad de sus actos, las que están reservadas a la Suprema Corte de Justicia de la Nación;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
-
-XXXVI.- Erigirse en Colegio Electoral para calificar las elecciones de gobernador y ayuntamientos y declararlos electos, asimismo hará la declaración de electos en el caso de los Senadores al Congreso de la Unión, conforme a la Constitución General de la República y la Legislación Federal Electoral;
+XXXVI.- (DEROGADA, P.O. 29 DE ABRIL DE 1995)
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
 
 XXXVII.- Recibir del Gobernador, Diputados y Magistrados la protesta a que se refiere el Artículo 37 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-XXXVIII.- Decidir sobre la validez de las elecciones de los Ayuntamientos;
+XXXVIII.- (DEROGADA, P.O. 29 DE ABRIL DE 1995)
 
 XXXIX.- Suspender hasta por tres meses previa garantía de audiencia, a los miembros de los Ayuntamientos por si o a petición del Ejecutivo cuando sea indispensable hacerlo para la práctica de alguna averiguación, y en su caso, separarlos del cargo previa formación de causa, cuando abusen de sus facultades;
 
@@ -595,9 +589,7 @@ XL.- Conocer, como Jurado de acusación, de los procedimientos que por delitos o
 
 XLI.- Erigirse en jurado para declarar si ha o no lugar para proceder contra alguno de los funcionarios públicos que gocen de fuero constitucional, cuando sean acusados por delitos del orden común;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1994)</small>
-
-XLII.- Conocer y resolver, en los términos del Artículo 19 de esta Constitución y de la Legislación Federal Electoral, de los casos de nulidad de elecciones; así como de cualquier otro conflicto que se suscite con motivo de éstas;
+XLII.- (DEROGADA, P.O. 29 DE ABRIL DE 1995)
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -679,21 +671,23 @@ Se deposita el Poder Ejecutivo en un ciudadano que se denominará "GOBERNADOR DE
 
 La elección de Gobernador será directa y en los términos que disponga el Código Electoral.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 35.
 
-Para ser Gobernador se requiere:
+Para ser Gobernador, se requiere:
 
-I.- Ser ciudadano chiapaneco por nacimiento e hijo de padres mexicanos por nacimiento, en pleno goce de sus derechos;
+I.- Ser ciudadano chiapaneco por nacimiento, en pleno goce de sus derechos, con residencia efectiva en el Estado no menor a cinco años e hijo de padres mexicanos;
 
-II.- Tener 30 años cumplidos el día de la elección;
+II.- Tener 30 o más años de edad el día de la elección;
 
-III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
+III.- No pertenecer al estado eclesiástico ni ser ministro de algún culto o haberse separado por lo menos con cinco años de antelación a la fecha de la elección o designación;
 
-IV.- No tener empleo, cargo o comisión de la Federación o del Estado, y de ser así renunciar y estar separado de ellos cuando menos 90 días antes de la elección; y
+IV.- No tener empleo, cargo o comisión de la Federación o del Estado, y de ser así renunciar y estar separado de ellos cuando menos 90 días antes de la elección;
 
-V.- No esta (sic) comprendido en alguna de las causas establecidas en el Artículo 36 en su párrafo segundo.
+V.- No haber ocupado anteriormente el cargo de Gobernador Constitucional por elección popular;
+
+VI.- No haber ocupado en el período inmediato anterior el cargo de gobernador provisional, interino o sustituto.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 1994)</small>
 
@@ -705,9 +699,7 @@ V.- No esta (sic) comprendido en alguna de las causas establecidas en el Artícu
 
 El Gobernador electo por sufragio popular en elecciones ordinarias entrará a ejercer su cargo el 8 de diciembre y durará en él 6 años.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-Quien haya sido electo o desempeñado el cargo de Gobernador, en cualquier caso o modalidad, no podrá volver a desempeñar el cargo.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE ABRIL DE 1995)</small>
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -751,11 +743,11 @@ Cuando la ausencia del Gobernador sea por más de 30 días y el Congreso estuvie
 
 Si la falta temporal se convirtiera en absoluta, se procederá en los términos del artículo anterior.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 40.
 
-Será Gobernador Constitucional el ciudadano que obtenga la mayoría de votos emitidos en la elección y que sea calificada y declarada válida por el Congreso.
+Será Gobernador Constitucional el ciudadano que obtenga la mayoría de votos emitidos en la elección y que sea calificada y declarada valida en los términos de la Ley Reglamentaria.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -1071,15 +1063,19 @@ Un Presidente, un Síndico Propietario y un Suplente; seis regidores propietario
 
 Un Presidente, un Síndico Propietario y un Suplente; ocho Regidores Propietarios y cuatro Suplentes de mayoría relativa en aquellos municipios cuya población sea de más de 100,000 habitantes.
 
-Además de los regidores electos por el sistema de mayoría relativa, en los municipios con población hasta de cien mil habitantes, los ayuntamientos se integrarán con un regidor más; hasta doscientos mil habitantes, con dos regidores mas y de más de doscientos mil habitantes con tres regidores mas, los que serán electos según el principio de representación proporcional. La Ley Reglamentaria determinará las fórmulas y procedimientos para la asignación de estas Regidurías.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1995)</small>
+
+Además de los regidores electos por el sistema de mayoría relativa, en los municipios con población hasta de siete mil quinientos habitantes, los ayuntamientos se integrarán con dos regidores más; más de siete mil quinientos uno hasta cien mil habitantes, con cuatro regidores mas y, de cien mil uno en adelante con seis regidores mas. Los que serán electos según el principio de representación proporcional. La Ley Reglamentaria determinará las fórmulas y procedimientos para la asignación de estas Regidurías.
 
 Los agentes y delegados municipales serán nombrados y removidos en Sesión Plenaria por el Ayuntamiento del que dependan.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 60.
 
-La integración y atribuciones de los Ayuntamientos se sujetarán a las siguientes bases:
+La integración y atribuciones de los Ayuntamientos se sujetará a las siguientes bases:
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 I.- Para ser miembro de un Ayuntamiento se requiere:
 
@@ -1095,13 +1091,21 @@ E) No prestar servicios a gobiernos o instituciones extranjeros; y
 
 F) Los demás que establezca la legislación respectiva.
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+
 II.- Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, durarán en su cargo tres años y no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación desempeñen las funciones propias de esos cargos, cualquiera que sea el nombre que se les dé, tampoco podrán ser electos para el siguiente período. Todos los funcionarios antes mencionados cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato como suplentes, pero los que tengan carácter de suplentes y no hayan estado en ejercicio podrán ser electos como propietarios para el siguiente período, los Ayuntamientos deberán tomar posesión el día primero de enero, siguiente a su elección. La prohibición anterior comprende a todos los miembros del Ayuntamiento sin importar el cargo que hayan desempeñado.
 
-III.- Corresponde al Congreso del Estado calificar la validez de las elecciones de Ayuntamientos de conformidad con los procedimientos y términos que determinen las leyes;
+III.- (DEROGADA, P.O. 29 DE ABRIL DE 1995)
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 IV.- Si por cualquier circunstancia no se hubiese efectuado la elección del Ayuntamiento en la fecha prevista o fuera declarada nula la elección, el Congreso del Estado tendrá la facultad para decidir la celebración de elecciones extraordinarias o para designar un Concejo Municipal integrado por un mínimo de tres y un máximo de cinco personas.
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+
 V.- El Congreso del Estado establecerá las bases normativas conforme a las cuales los Ayuntamientos ejercerán la facultad de expedir los bandos de policía y buen gobierno, así como los Reglamentos, Circulares y Disposiciones Administrativas de observancia general dentro de sus respectivas jurisdicciones.
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 VI.- Los Municipios de la entidad con el concurso del Poder Ejecutivo del Estado, cuando así sea necesario y lo establezcan las leyes, tendrán a su cargo los siguientes servicios públicos:
 
@@ -1123,6 +1127,8 @@ H) Seguridad pública; e
 
 I) Los demás que determine el Congreso del Estado, tomando en cuenta las condiciones territoriales y socioeconómicas y la capacidad administrativa y financiera de cada municipio.
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+
 VII.- Los Municipios administrarán libremente su hacienda, la cual se integrará con los rendimientos de los bienes que les pertenezcan, así como con las contribuciones y demás ingresos que el Congreso del Estado establezca a su favor, y en todo caso:
 
 A) Percibirán las contribuciones, incluyendo las tasas adicionales que establezca el Congreso del Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles. Los Ayuntamientos podrán celebrar convenios de participación con el titular del Ejecutivo del Estado, con objeto de que éste ultimo se haga cargo de alguna de las funciones relacionadas con la administración de esas contribuciones;
@@ -1133,21 +1139,39 @@ C) Los ingresos que se deriven de la prestación de los servicios públicos a su
 
 El Congreso del Estado tendrá la facultad de establecer las contribuciones referidas en los incisos a) y c), sin que pueda en ningún caso concederse exenciones o subsidios a favor de personas físicas o morales, ni de instituciones oficiales o privadas, respecto de dichas contribuciones pues únicamente los bienes del dominio publico de la Federación, de los Estados o de los Municipios, estarán exentos del pago de las mencionadas contribuciones.
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+
 VIII.- Podrá igualmente el Congreso establecer las contribuciones sobre los servicios a que aluden los incisos a), b), c) y g) de la fracción VI de este Artículo;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 IX.- Para dar cumplimiento a las atribuciones contenidas en el presente Artículo, se celebrarán convenios de fortalecimiento municipal entre el titular del Ejecutivo Estatal y los Ayuntamientos de cada Municipio, los que deberán ser sancionados por el Congreso del Estado;
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+
 X.- Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos, con la sanción del Congreso del Estado y con sujeción a la Ley podrán coordinarse para mejorar la prestación de los servicios públicos que tengan a su cargo;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 XI.- Es facultad del Congreso del Estado, aprobar las Leyes de Ingresos para los municipios y revisar sus cuentas públicas;
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+
 XII.- Los Ayuntamientos tendrán la facultad de aprobar sus propios presupuestos;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 XIII.- Los Ayuntamientos deberán remitir cada año al Congreso del Estado, en su primer período de sesiones ordinarias, para su sanción y publicación en su caso, los presupuestos por programa que deban desarrollar en el siguiente ejercicio, y en el segundo período de sesiones ordinarias deberán enviar las cuentas del ejercicio anterior;
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+
 XIV.- El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, o en su caso la Comisión Permanente podrán suspender Ayuntamientos, declarar su desaparición y suspender o revocar el mandato a algunos de sus miembros, por alguna de las causas graves establecidas en la Ley Orgánica Municipal;
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+
 XV.- El caso de renuncia o falta definitiva de algunos de los miembros del Ayuntamiento, el Congreso del Estado o la Comisión Permanente designará, de entre los miembros del Ayuntamiento que quedaren, las sustituciones procedentes. En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta definitiva de la mayoría de sus miembros, el Congreso del Estado o la Comisión Permanente designará, de las propuestas que para tal efecto haga el Gobernador del Estado, un Consejo Municipal integrado por un mínimo de tres y un máximo de cinco personas que deberán cumplir los mismo (sic) requisitos señalados por este artículo; y
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
 
 XVI.- El Congreso del Estado designará entre los vecinos más sobresalientes por sus méritos morales, culturales y sociales los Consejos Municipales encargados de concluir los períodos respectivos.
 
@@ -2124,3 +2148,13 @@ P.O. 23 DE DICIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 El presente decreto de reforma a la Constitución Política del Estado de Chiapas entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ABRIL DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El nombramiento de magistrados a que se refiere el Artículo 19 de la Constitución Política Local, por esta única ocasión, deberá realizarse en el mes de mayo de 1995.
