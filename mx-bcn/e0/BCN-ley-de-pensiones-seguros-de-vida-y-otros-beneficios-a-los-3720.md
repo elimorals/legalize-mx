@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-pensiones-seguros-de-vida-y-otros-beneficios-a-los-3720"
 country: "mx"
 rank: "ley"
 publication_date: "1960-05-20"
-last_updated: "1960-05-20"
+last_updated: "1962-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION, DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1962.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 20 de mayo de 1960.
 
@@ -107,6 +107,24 @@ El Estado o los Municipios, en su caso, harán la cesión gratuita de tales terr
 
 Para gozar de los beneficios consignados en este Artículo, se requiere que por lo que toca al establecido en el inciso a), el Veterano no tenga en propiedad un terreno agrícola y en lo que concierne al señalado en el inciso b), que no tenga el Veterano en propiedad, algún lote urbano.
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1962)</small>
+
+VIII.- El Gobierno del Estado otorgará a los Veteranos de la Revolución un subsidio permanente que equivalga al importe de las contribuciones prediales que se encuentren causando los bienes inmuebles de su exclusiva propiedad ubicados en el Estado de Baja California.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1962)</small>
+
+IX.- El subsidio anterior abarcará los adeudos que reportan dichos inmuebles a la fecha en que entre en vigor la presente Ley.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 1962)</small>
+
+X.- Serán sujetos del beneficio previsto en los incisos que preceden las personas que por haber reunido los requisitos indispensables establecidos en esta Ley se encuentren reconocidos y disfrutando de sus prerrogativas, quedando condicionado a:
+
+a).- Que el subsidio a que se contraen los dos primeros incisos de este Decreto se extinguirá al fallecimiento de su beneficiario.
+
+b).- Que por la razón anterior no tendrá dicho subsidio el carácter de hereditario por lo que el cónyuge, descendientes o ascendientes y demás parientes colaterales no podrán ejercitar ninguna acción o derechos tendiente a obtener las prerrogativas de este Decreto.
+
+c).- Que el beneficio a que se contrae este Decreto será aplicable únicamente a los bienes presentes que tengan las personas que reúnen las condiciones del Artículo Tercero de la misma en pleno uso de los derechos establecidos en la Ley y que estén debidamente inscritos en el Registro Público de la Propiedad y Comercio de la localidad donde se encuentren ubicados.
+
 ###### ARTICULO 8o.
 
 Los hijos de los Veteranos beneficiados por esta Ley, tienen preferencia, en igualdad de condiciones, para gozar de becas que conceda el Estado o los Municipios, hasta por la cantidad de $ 100.00 mensuales como máximo.
@@ -164,3 +182,11 @@ Ing. Eligio Esquivel Méndez.
 El Srio. General de Gobierno.
 
 José Luis Noriega.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE DICIEMBRE DE 1962.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
