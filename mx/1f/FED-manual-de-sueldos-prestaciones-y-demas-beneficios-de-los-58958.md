@@ -4,7 +4,7 @@ identifier: "FED-manual-de-sueldos-prestaciones-y-demas-beneficios-de-los-58958"
 country: "mx"
 rank: "manual"
 publication_date: "2004-02-27"
-last_updated: "2004-02-27"
+last_updated: "2004-03-31"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58958&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,11 +18,11 @@ scjn_last_update: "2004-03-31"
 ---
 # MANUAL DE SUELDOS, PRESTACIONES Y DEMAS BENEFICIOS DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DE LA FEDERACION, CON EXCEPCION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL TRIBUNAL ELECTORAL, PARA EL EJERCICIO FISCAL DOS MIL CUATRO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MARZO DE 2004 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE AUTORIZA EL MANUAL DE SUELDOS, PRESTACIONES Y DEMÁS BENEFICIOS DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DE LA FEDERACIÓN, CON EXCEPCIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL TRIBUNAL ELECTORAL, PARA EL EJERCICIO FISCAL DOS MIL CUATRO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 31 DE MARZO DE 2004.</small>
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 5 de marzo de 2004.
 
@@ -63,8 +63,6 @@ Se podrán otorgar compensaciones a los servidores públicos del Poder Judicial 
 ###### ARTICULO 5.
 
 El Pleno del Consejo de la Judicatura Federal conforme a sus atribuciones podrá autorizar el pago de prestaciones diferentes a las otorgadas de manera regular y permanente al personal del Consejo de la Judicatura Federal.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MARZO DE 2004 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTICULO 6.
 
