@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1948-01-22"
+last_updated: "1948-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1948.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1225,7 +1225,7 @@ II.- Que el padre lo haya tratado como a hijo nacido de su matrimonio, proveyend
 
 III.- Que el presunto padre tenga la edad exigida por el artículo 356.
 
-ART. 339.- Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideraran como hijos de matrimonio.
+ART. 339.- Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideran como hijos de matrimonio.
 
 ART. 340.- No basta el dicho de la madre para excluir la paternidad al marido. Mientras que éste viva, únicamente él podrá reclamar contra la filiación del hijo concebido durante el matrimonio.
 
@@ -1463,7 +1463,7 @@ ART. 413.- A falta de padres, ejercerán la patria potestad sobre el hijo recono
 
 ART. 414.- La patria potestad sobre el hijo adoptivo, la ejercerán únicamente las personas que lo adopten.
 
-ART. 415.- Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
+ART. 415.- Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quiénes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
 ART. 416.- Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen, sin permiso de ellos o decreto de la autoridad competente.
 
@@ -1475,9 +1475,9 @@ Las autoridades, en caso contrario, auxiliarán a esas personas, haciendo uso de
 
 ART. 419.- El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
 
-### CAPITULO II.
+### CAPITULO II.. De los efectos de la patria potestad
 
-De los efectos de la patria potestad respecto de los bienes del hijo.
+respecto de los bienes del hijo.
 
 ART. 420.- Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
@@ -1537,9 +1537,9 @@ Estas medidas se tomarán a instancias de las personas interesadas, del menor cu
 
 ART. 437.- Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
-### CAPITULO III.
+### CAPITULO III.. De los Modos de acabarse y suspenderse la
 
-De los Modos de acabarse y suspenderse la patria potestad.
+patria potestad.
 
 ART. 438.- La patria potestad se acaba:
 
@@ -6927,11 +6927,13 @@ ART. 2249.- El donatario responde solo del cumplimiento de las cargas que se le 
 
 ART. 2250.- En cualquier caso de rescisión o revocación del contrato de donación se observará lo dispuesto en los artículos 2243 y 2244.
 
-ART. 2251.- La donación puede ser revocada por ingratitud;
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1948)</small>
 
-I.- Si el donatario comete algún delito contra la persona la honra o los bienes del donante o de los ascendientes, descendientes o cónyuge de éste;
+ART. 2251.- La donación puede ser revocada por ingratitud, en cualquier tiempo y sin que sea aplicable el artículo 2240, en los siguientes casos:
 
-II.- Si el donatario rehúsa socorrer, según el valor de la donación, al donante que ha venido a pobreza.
+I.- Si el donatario comete algún acto o delito contra la persona, honra o los bienes del donante o de los ascendientes, descendientes o cónyuge de éste;
+
+II.- Si el donatario rehusa socorrer, según el valor de la donación, al donante que ha venido a pobreza.
 
 ART. 2252.- Es aplicable a la revocación de las donaciones hechas por ingratitud lo dispuesto en los artículos del 2242 al 2245.
 
@@ -7663,7 +7665,7 @@ ART. 2479.- El mandante puede eixgir (sic) la devolución del instrumento o escr
 
 El mandante que descuide exigir los documentos que acrediten los poderes, del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
 
-ART. 3480 (sic).- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
+ART. 3480 (SIC).- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
 
 ART. 2481.- Aunque el mandato termine por la muerte del mandante, debe el mandatario continuar en la administración, entre tanto los herederos proveen por sí mismos a los negocios, siempre que de lo contrario pueda resultar algún perjuicio.
 
@@ -9216,3 +9218,11 @@ Por tanto mando se imprima, publique, circule y se comunique a quienes correspon
 Dado en el Palacio del Poder Ejecutivo del Estado en Victoria de Durango, Dgo., a los trece días del mes de diciembre de mil novecientos cuarenta y siete.
 
 José Ramón Valdez.- El Secretario Gral. de Gobierno, Lic. Fernando Arenas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 12 DE DICIEMBRE DE 1948.
+
+###### ARTICULO UNICO.
+
+Esta reforma entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
