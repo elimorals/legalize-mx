@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transito-del-estado-de-zacatecas-8266"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-18"
-last_updated: "1989-01-18"
+last_updated: "1992-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSITO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1992.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 18 de enero de 1989.
 
@@ -277,11 +277,21 @@ X.- Prestar al Gobierno del Estado en forma gratuita los servicios especiales de
 
 Cuando se haga necesario otorgar concesiones para la prestación del servicio público de transporte cuya ruta incluya territorios de otras entidades, el Ejecutivo del Estado podrá celebrar los convenios respectivos.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 1992)</small>
+
 ###### ARTICULO 27.
 
-Los derechos derivados de una concesión no serán suceptibles (sic) de gravarse transferirse o negociarse en forma alguna y en caso de muerte, será transferible a sus herederos.
+Los derechos derivados de una concesión no serán suceptibles (sic) de gravarse, transferirse o negociarse, salvo en los casos siguientes:
 
-Será el Ejecutivo del Estado quien a petición de los interesados y previo estudio de la situación, autorice lo conducente.
+I.- Muerte del concesionario;
+
+II.- Tener el concesionario más de 60 años de edad o 55 en el caso del que él mismo durante un periódo mínimo de 8 años haya conducido personalmente el vehículo motivo de la concesión;
+
+III.- Padecer el concesionario incapacidad permanente o enfermedad que le impida la prestación del servicio por más de un año.
+
+En los casos anteriores los concesionarios o sus derechohabientes deberán presentar solicitud acompañada de los documentos justificativos del caso para que sea el Ejecutivo del Estado quien autorice lo conducente.
+
+En tal caso, se dará preferencia en el traspaso a los trabajadores organizados, utilizando el criterio preferente que priva al otorgamiento de las concesiones.
 
 ###### ARTICULO 28.
 
@@ -420,3 +430,11 @@ LIC. GENARO BORREGO ESTRADA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ROGELIO HERNANDEZ QUINTERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE ENERO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
