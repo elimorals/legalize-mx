@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-bienes-nacionales-416"
 country: "mx"
 rank: "ley_general"
 publication_date: "1982-01-08"
-last_updated: "1985-01-21"
+last_updated: "1987-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 1987.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 8 de enero de 1982.
 
@@ -58,7 +58,9 @@ II. Los señalados en los artículos 27, párrafos cuarto, quinto y octavo, y 42
 
 III. Los enumerados en la fracción II del artículo 27 Constitucional, con excepción de los comprendidos en la fracción II, del artículo 3o. de esta ley;
 
-IV. El suelo del mar territorial y el de las aguas marítimas interiores;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
+
+IV. El lecho y el subsuelo del mar territorial y de las aguas marinas interiores;
 
 V. Los inmuebles destinados por la Federación a un servicio público, los propios que de hecho utilice para dicho fin y los equiparados a éstos, conforme a la ley;
 
@@ -82,19 +84,25 @@ XII. Las pinturas murales, las esculturas y cualquier obra artística incorporad
 
 Son bienes de dominio privado:
 
-I. Las tierras y aguas no comprendidas en el artículo 2o. de esta ley que sean susceptibles de enajenación a los particulares;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
+
+I. Las tierras y aguas de propiedad nacional no comprendidas en el artículo 2o. de esta ley que se(sic) sean susceptibles de enajenación a los particulares;
 
 II. Los nacionalizados conforme a la fracción II del artículo 27 constitucional, que no se hubieren construido o destinado a la administración, propaganda o enseñanza de un culto religioso;
 
-III. Los bienes ubicados dentro del Distrito Federal, considerados por la legislación común como vacantes;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
+III. Los bienes ubicados dentro del Distrito Federal, declarados vacantes conforme a la legislación común;
 
-IV. Los que hayan formado parte de entidades de la Administración Pública Paraestatal, que se extingan; en la proporción que corresponda a la Federación;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
-V. Los bienes muebles al servicio de las dependencias de los Poderes de la Unión, no comprendidos en la fracción XI del artículo anterior; y
+IV. Los que hayan formado parte del patrimonio de las entidades de la Administración Pública Paraestatal, que se extingan o liquiden, en la proporción que corresponda a la Federación;
 
-VI. Los demás inmuebles y muebles que por cualquier título jurídico adquiera la Federación.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
+
+V. Los bienes muebles de propiedad federal al servicio de las dependencias de los Poderes de la Unión, no comprendidos en la fracción XI del artículo anterior;
+
+VI. Los demás inmuebles y muebles que por cualquier título jurídico adquiera la Federación;
 
 VII. Los bienes muebles e inmuebles que la Federación adquiera en el extranjero.
 
@@ -108,21 +116,17 @@ También se considerarán bienes inmuebles del dominio privado de la Federación
 
 Los bienes a que se refiere el artículo anterior pasarán a formar parte del dominio público cuando sean destinados al uso común, a un servicio público o a alguna de las actividades que se equiparan a los servicios públicos, o de hecho se utilicen en esos fines.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 5o.
 
-Los bienes de dominio público estarán sujetos exclusivamente a la jurisdicción de los poderes federales, en los términos prescritos por esta ley; pero si estuvieren ubicados dentro del territorio de un Estado, se requerirá para ello la aprobación de la legislatura respectiva, salvo que se trate de bienes adquiridos por la Federación y destinados al servicio público o al uso común con anterioridad al 1o. de mayo de 1917, o de los señalados en los artículos 2o., fracciones II y IV, y 29, fracciones I al XI y XIV, de esta ley. Una vez otorgado, el consentimiento será irrevocable.
+Los bienes de dominio público estarán sujetos exclusivamente a la jurisdicción de los poderes federales, en los términos prescritos por esta ley; pero si estuvieren ubicados dentro del territorio de algún Estado, será necesario el consentimiento de la legislatura respectiva, salvo que se trate de bienes destinados al servicio público o al uso común y adquiridos por la Federación con anterioridad al 1o. de mayo de 1917, o de los señalados en los Artículos 2o., fracciones II y IV, y 29, fracciones I al XI y XIV, de esta Ley. Una vez otorgado, el consentimiento será irrevocable.
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
+El decreto o acuerdo mediante el cual el Gobierno Federal adquiera, afecte o destine un bien para un servicio público o para el uso común, deberá comunicarse a la legislatura local correspondiente. Surtirá efectos de notificación a la propia legislatura del estado a partir de su publicación en el Diario Oficial de la Federación.
 
-El Decreto mediante el cual el Gobierno Federal afecte un bien a la realización de fines o servicios públicos, surtirá efectos de notificación a la legislatura del Estado a partir de su publicación en el Diario Oficial de la Federación. En tanto la Legislatura resuelve, se reputará que dicho bien se halla sujeto al régimen de los de dominio público.
+Se presumirá que la legislatura local de que se trate ha dado su consentimiento, cuando no dicte resolución alguna dentro de los cuarenta y cinco días posteriores al de la publicación en el Diario Oficial de la Federación, excepto cuando esté en receso, caso en el cual el término se computará a partir del día en que inaugure su período inmediato de sesiones. La negativa expresa de la Legislatura correspondiente, dejará dichos bienes sujetos a la jurisdicción local.
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
-
-Tratándose de bienes inmuebles que sean utilizados en fines de utilidad pública se presumirá que la legislatura local ha dado su consentimiento, cuando no dicte resolución alguna dentro de los treinta días posteriores a aquél en que reciban la respectiva comunicación del Ejecutivo Federal, excepto cuando esté en receso, caso en el cual el término se computará a partir del día en que inaugure su periodo inmediato de sesiones. Se estará a lo dispuesto por el artículo 120 Constitucional.
-
-La negativa expresa de una legislatura, exclusivamente para lo relacionado con la jurisdicción local, dejará colocado al inmueble en la situación jurídica de los de dominio privado. Establecida la jurisdicción federal, los Estados no podrán gravar los bienes del dominio público en ninguna forma, ni tendrán eficacia alguna respecto de ellos las disposiciones generales o individuales que emanen de cualesquiera de sus autoridades, a menos que obren en auxilio o por encargo de las federales.
-
-Establecida la jurisdicción federal, los Estados no podrán gravar los bienes de dominio público en ninguna forma, ni tendrán eficacia alguna respecto de ellos las disposiciones generales o individuales que emanen de cualesquiera de sus autoridades, a menos que obren en auxilio o por encargo de las federales.
+El carácter de bienes de dominio público de la Federación, de los inmuebles de que se trata, no se verá alterado en cualquiera de los supuestos a que se refiere este artículo.
 
 ###### ARTICULO 6o.
 
@@ -136,7 +140,7 @@ II. En las materias que dicho Código no regule, a las disposiciones de carácte
 
 Sólo los tribunales de la Federación serán competentes para conocer de los juicios civiles, penales o administrativos, así como de los procedimientos judiciales no contenciosos que se relacionen con bienes nacionales, sean de dominio público o de dominio privado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 8o.
 
@@ -144,111 +148,73 @@ Salvo lo que dispongan otras leyes que rijan materias especiales respecto del pa
 
 I. Poseer, vigilar, conservar o administrar los inmuebles de propiedad federal destinados o no a un servicio público, o a fines de interés social o general, los que de hecho se utilicen para dichos fines y los equiparados a éstos conforme a la ley, así como las plazas, paseos y parques públicos construidos en inmuebles federales;
 
-II. Administrar en términos de ley y ejercer la posesión de la Nación sobre las playas marítimas, la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier depósito de aguas marítimas y demás zonas federales que no estén expresamente encomendadas a otra dependencia;
+II. Administrar en términos de ley y ejercer la posesión de la Nación sobre las playas marítimas, la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier depósito de aguas marítimas y de más(sic) zonas federales que no estén expresamente encomendadas a otra dependencia;
 
-III. Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes inmuebles de dominio público;
+III. Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes inmuebles de dominio público, así como tratándose de concesión, rescatarlas en los términos previstos en el artículo 26;
 
-IV. Intervenir en la adquisición, control, administración, enajenación, permuta, inspección y vigilancia de los bienes inmuebles federales, y en su caso celebrar los contratos relativos para el uso, aprovechamiento y explotación de los mismos; de acuerdo con las bases, criterios y lineamientos de política que establezcan;
+IV. Determinar y conducir la política inmobiliaria de la Federación; dictar normas técnicas, autorizar y, en su caso, realizar la construcción, reconstrucción y conservación de los edificios públicos, monumentos, obras de ornato y las demás que realice la Federación por sí o en cooperación con otros países, con los estados y municipios, con entidades paraestatales o con los particulares, excepto las encomendadas expresamente por la ley a otras dependencias;
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
+V. Determinar las normas y establecer las directrices aplicables para que conforme a los programas a que se refiere esta ley intervenga en representación del Gobierno Federal, en las operaciones de compra-venta, donación, gravamen, afectación u otras por las que la Federación adquiera o enajene la propiedad, el dominio o cualquier derecho real sobre inmuebles, así como participar en la adquisición, control, administración, enajenación, permuta, inspección y vigilancia de los referidos inmuebles federales, y en su caso celebrar los contratos relativos para su uso, aprovechamiento y explotación, en los mismos términos;
 
-V. Determinar las normas y establecer las directrices aplicables para que conforme a los programas a que se refiere esta ley, intervenga en representación del Gobierno Federal, en las operaciones de compra-venta, donación, gravamen, afectación u otras por las que la Federación adquiera o enajene la propiedad, el dominio o cualquier derecho real sobre inmuebles. En los mismos términos, autorizar los actos jurídicos que celebren las entidades paraestatales de la Administración Pública Federal, por los que se adquiera o transmita la propiedad sobre inmuebles;
+VI. Autorizar y revisar las operaciones inmobiliarias que realicen los organismos descentralizados respecto de bienes de dominio público. Cuando se trate de enajenaciones, dichos bienes serán previamente desincorporados del dominio público;
 
-VI. Evaluar y revisar las operaciones inmobiliarias a que se refiere esta ley; que realicen las entidades paraestatales;
+VII. Proponer al titular del Ejecutivo Federal la participación estatal en empresas o asociaciones, o la constitución de fideicomisos dentro de cuyo objeto social o fines se encuentre la realización de operaciones inmobiliarias;
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
-
-VII. Proponer al titular del Ejecutivo Federal la participación estatal en empresas o asociaciones, o la constitución de fideicomisos dentro de cuyo objeto social o fines se encuentre la realización de operaciones inmobiliarias. La Secretaría de Programación y Presupuesto tendrá siempre en los contratos de fideicomiso que celebre el Gobierno Federal, el carácter de fideicomitente;
-
-> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1984)</small>
-
-VIII. Aprobar y registrar los contratos de arrendamiento que con el carácter de arrendatarias celebren las dependencias de la administración pública federal, o los que como arrendadoras o arrendatarias celebren las entidades paraestatales, respecto de bienes inmuebles; revisar periódicamente dichos contratos y vigilar el cumplimiento, de conformidad con las políticas que determine la Secretaría de Desarrollo Urbano y Ecología. La celebración de los contratos a que se refiere esta fracción deberá basarse en la justipreciación de renta que realice la Comisión de Avalúos de Bienes Nacionales;
+VIII. Fijar la política del Gobierno Federal en materia de arrendamiento. Los contratos de arrendamiento que celebren las dependencias de la Administración Pública Federal, deberán basarse en la justipreciación de rentas que realice la Comisión de Avalúos de Bienes Nacionales;
 
 IX. Mantener al corriente el avalúo de los bienes inmuebles nacionales y reunir, revisar y determinar las normas y procedimientos para realizarlo;
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
+X. Solicitar de la Procuraduría General de la República el ejercicio de la acción reivindicatoria de los bienes de la Nación;
 
-X. Solicitar de la Procuraduría General de la República el ejercicio de la acción reivindicatoria de los bienes de la Nación; y
+XI. Ejercer a nombre y representación del Gobierno Federal la facultad o derecho de reversión, respecto de la propiedad inmobiliaria federal, salvo disposición legal en contrario;
 
-XI. Ejercer a nombre y representación del Gobierno Federal la facultad o derecho de reversión, respecto de la propiedad inmobiliaria federal, salvo disposición legal en contrario.
+XII. Prestar asesoría a las entidades y dependencias de la Administración Pública Federal que lo soliciten, en la materia inmobiliaria propia de su competencia; y
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+XIII. Celebrar acuerdos o convenios de coordinación o concertación con las demás dependencias y entidades de la Administración Pública Federal, con los gobiernos de los estados y municipios y con las personas físicas o morales de los sectores privado y social, para conjuntar recursos y esfuerzos para la eficaz realización de las acciones que en materia inmobiliaria están a su cargo.
 
-La Secretaría de Relaciones Exteriores será competente para adquirir, administrar y conservar las propiedades de la Nación en el extranjero. El Ejecutivo Federal, por conducto de la Secretaría de Desarrollo Urbano y Ecología, determinará la forma y términos en que se llevará a cabo el control y aprovechamiento de dichos bienes, de conformidad con esta ley y sus reglamentos.
+La Secretaría de Relaciones Exteriores será competente para adquirir, administrar y conservar así como enajenar las propiedades de la Nación en el extranjero. La Secretaría de Desarrollo Urbano y Ecología, determinará la forma y términos en que se llevará a cabo el control y aprovechamiento de dichos bienes, de conformidad con esta ley y sus reglamentos.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 9o.
 
-Quedan sujetos a las disposiciones de esta ley y de sus reglamentos los actos de adquisición, administración uso, aprovechamiento, explotación y enajenación de bienes inmuebles federales; así como la ejecución de las obras de construcción, reconstrucción, modificación, adaptación, conservación, mantenimiento y demolición que sobre ellos se realicen, sin perjuicio de las disposiciones de la Ley de Obras Públicas.
+Quedan sujetos a las disposiciones de esta Ley y sus reglamentos los actos de adquisición, administración, uso, aprovechamiento, explotación y enajenación de bienes inmuebles federales; así como la ejecución de las obras de construcción, reconstrucción, modificación, adaptación, conservación, mantenimiento y demolición que sobre ellos se realicen, sin perjuicio de las disposiciones de la Ley de Obras Públicas
 
-Asimismo, quedan sujetos a las disposiciones de esta ley y de sus reglamentos, los actos de adquisición, aprovechamiento y de transmisión de dominio de bienes inmuebles que realicen las entidades paraestatales.
+Las operaciones inmobiliarias, incluso las enajenaciones que realicen las entidades de la Administración Pública Federal que tengan por objeto principal la adquisición, desarrollo, fraccionamiento o comercialización de inmuebles, se sujetarán a lo dispuesto en sus respectivas leyes, decretos o acuerdos de creación y a las reglas generales que al efecto expida la Secretaría de Desarrollo Urbano y Ecología, las cuales deberán publicarse en el Diario Oficial de la Federación.
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
-
-Se entiende por dependencias las que integran la Administración Pública Federal Centralizada y por entidades las que componen la Administración Pública Federal Paraestatal, en los términos de la Ley Orgánica de la Administración Pública Federal.
-
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
-
-Las Dependencias y Entidades de la Administración Pública Federal, deberán sujetar la adquisición, utilización y aprovechamiento de sus bienes inmuebles a la prelación que señale la Secretaría de Desarrollo Urbano y Ecología, en base a los lineamientos establecidos en el Plan Nacional de Desarrollo y sus programas sectoriales.
-
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
-
-Respecto a los actos de adquisición, enajenación y demás operaciones inmobiliarias, que realicen las Instituciones y Sociedades Nacionales de Crédito, sólo estarán sujetos a las disposiciones de esta Ley, aquellos relativos a los inmuebles destinados a la prestación directa de sus servicios.
-
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
-
-Las entidades de la Administración Pública Federal que tengan por objeto principal la adquisición, desarrollo y comercialización de inmuebles, se sujetarán respecto de sus adquisiciones y enajenaciones, a lo dispuesto en sus respectivas leyes, decretos o acuerdos de creación y a las reglas generales que deberán observar en las operaciones inmobiliarias que al efecto emita la Secretaría de Desarrollo Urbano y Ecología.
-
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 10.
 
-El Ejecutivo Federal por conducto de la Secretaría de Desarrollo Urbano y Ecología ejercerá los actos de adquisición, control, ministración, transmisión de dominio, inspección y vigilancia de inmuebles a que se refiere esta ley y sus reglamentos, con las excepciones que en dichos ordenamientos se consignan. Para los efectos de este Artículo, las dependencias y entidades de la Administración Pública Federal, así como las demás personas que usen o tengan a su cuidado inmuebles federales, deberán proporcionar a dicha dependencia los informes, datos, documentos y demás facilidades que se requieran. Asimismo, la Secretaría de Desarrollo Urbano y Ecología, examinará periódicamente la documentación y demás información jurídica y contable relacionada con las operaciones inmobiliarias que realicen las entidades paraestatales, a fin de determinar el cumplimiento de esta ley y de las disposiciones que de ella emanen.
+El Ejecutivo Federal por conducto de la Secretaría de Desarrollo Urbano y Ecología ejercerá los actos de adquisición, control, administración, transmisión de dominio, inspección y vigilancia de inmuebles federales a que se refiere esta Ley y sus reglamentos, con las excepciones que en dichos ordenamientos se consignan. Para los efectos de este artículo las dependencias y entidades de la Administración Pública Federal, así como las demás personas que usen o tengan a su cuidado inmuebles federales, deberán proporcionar a dicha dependencia los informes, datos, documentos y demás facilidades que se requieran. Asimismo, la Secretaría de Desarrollo Urbano y Ecología, examinará periódicamente la documentación y demás información jurídica y contable relacionada con las operaciones inmobiliarias que realicen los organismos descentralizados en relación con bienes de dominio público, a fin de determinar el cumplimiento de esta Ley y de las disposiciones que de ella emanen.
 
-Las entidades paraestatales de la Administración Pública Federal deberán formular dentro de un plazo que les fije la Secretaría de Desarrollo Urbano y Ecología y de acuerdo a las normas y procedimientos que ésta apruebe, los inventarios de los bienes inmuebles que integren su patrimonio. Estos inventarios deberán mantenerse permanentemente actualizados y a disposición de la citada dependencia.
-
-El Gobierno Federal y las entidades paraestatales pagarán el uno al millar sobre el monto de los precios por las adquisiciones o enajenaciones onerosas de inmuebles que celebren. Con las cantidades que se recauden se integrará un fondo que se aplicará al financiamiento de los programas de desarrollo inmobiliario que realice la Secretaría de Desarrollo Urbano y Ecología, especialmente los relativos a la constitución de reservas territoriales para atender los requerimientos de inmuebles para el servicio directo de las dependencias y entidades paraestatales, así como para la realización de programas de interés social. El pago a que se refiere este párrafo deberá efectuarse en la Tesorería de la Federación, previamente a la formalización de cada contrato.
-
-No quedan sujetas al pago a que se refiere el párrafo anterior las entidades paraestatales que determine el Ejecutivo Federal en los reglamentos de esta ley, atendiendo a la naturaleza de sus actividades.
-
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
-
-###### ARTICULO 10.
-
-El Ejecutivo Federal por conducto de la Secretaría de Desarrollo Urbano y Ecología ejercerá los actos de adquisición, control, ministración, transmisión de dominio, inspección y vigilancia de inmuebles a que se refiere esta ley y sus reglamentos, con las excepciones que en dichos ordenamientos se consignan. Para los efectos de este Artículo, las dependencias y entidades de la Administración Pública Federal, así como las demás personas que usen o tengan a su cuidado inmuebles federales, deberán proporcionar a dicha dependencia los informes, datos, documentos y demás facilidades que se requieran. Asimismo, la Secretaría de Desarrollo Urbano y Ecología, examinará periódicamente la documentación y demás información jurídica y contable relacionada con las operaciones inmobiliarias que realicen las entidades paraestatales, a fin de determinar el cumplimiento de esta ley y de las disposiciones que de ella emanen.
-
-Las entidades paraestatales de la Administración Pública Federal deberán formular dentro de un plazo que les fije la Secretaría de Desarrollo Urbano y Ecología y de acuerdo a las normas y procedimientos que ésta apruebe, los inventarios de los bienes inmuebles que integren su patrimonio. Estos inventarios deberán mantenerse permanentemente actualizados y a disposición de la citada dependencia.
-
-El Gobierno Federal y las entidades paraestatales pagarán el uno al millar sobre el monto de los precios por las adquisiciones o enajenaciones onerosas de inmuebles que celebren. Con las cantidades que se recauden se integrará un fondo que se aplicará al financiamiento de los programas de desarrollo inmobiliario que realice la Secretaría de Desarrollo Urbano y Ecología, especialmente los relativos a la constitución de reservas territoriales para atender los requerimientos de inmuebles para el servicio directo de las dependencias y entidades paraestatales, así como para la realización de programas de interés social. El pago a que se refiere este párrafo deberá efectuarse en la Tesorería de la Federación, previamente a la formalización de cada contrato.
-
-No quedan sujetas al pago a que se refiere el párrafo anterior las entidades paraestatales que determine el Ejecutivo Federal en los reglamentos de esta ley, atendiendo a la naturaleza de sus actividades.
+Las dependencias del Ejecutivo Federal y los organismos descentralizados tratándose de inmuebles de dominio público, pagarán el uno al millar sobre el monto de los precios por las adquisiciones o enajenaciones onerosas, de inmuebles que celebren de conformidad con esta ley. Con las cantidades que se recauden se integrará un fondo que se aplicará al financiamiento de los programas de desarrollo inmobiliario que realice la Secretaría de Desarrollo Urbano y Ecología, especialmente los relativos a la constitución de reservas territoriales para atender los requerimientos de inmuebles para el servicio directo de las dependencias y entidades paraestatales, así como para la realización de programas de interés social. El pago a que se refiere este párrafo deberá efectuarse en la Tesorería de la Federación, previamente a la formulación de cada contrato.
 
 ### CAPITULO II. De las Adquisiciones de Bienes Inmuebles
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 11.
 
-Las dependencias y entidades de la Administración Pública Federal, deberán presentar a la Secretaría de Desarrollo Urbano y Ecología para su autorización, un programa anual, calendarizado, que contenga sus necesidades inmobiliarias para el cumplimiento de las funciones a su cargo.
+Las dependencias de la Administración Pública Federal, deberán presentar a la Secretaría de Desarrollo Urbano y Ecología, un programa anual, calendarizado, que contenga sus necesidades inmobiliarias para tener información que funde las políticas y decisiones en la materia.
 
 En todos los casos, la Secretaría de Desarrollo Urbano y Ecología, verificará que el uso para el que se requieran los inmuebles, sea compatible con las disposiciones vigentes en materia de desarrollo urbano.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 12.
 
-Para satisfacer los requerimientos de inmuebles que planteen las dependencias y entidades paraestatales, la Secretaría de Desarrollo Urbano y Ecología deberá:
+Para satisfacer los requerimientos de inmuebles que planteen las dependencias de la Administración Pública Federal, la Secretaría de Desarrollo Urbano y Ecología, con base en la información a que se refiere el artículo 94, deberá:
 
-I. Cuantificar y cualificar los requerimientos, atendiendo a las características de los inmuebles siolicitados(sic) y a su localización;
+I. Cuantificar y calificar los requerimientos, atendiendo a las características de los inmuebles solicitados y a su localización;
 
 II. Revisar el inventario y catálogo de la propiedad inmueble federal, para determinar la existencia de inmuebles disponibles o, en su defecto, la necesidad de adquirir otros inmuebles;
 
-III. Destinar, en su caso, a la dependencia o entidad interesada los inmuebles federales disponibles; y
+III. Destinar a la dependencia interesada los inmuebles federales disponibles; y
 
 IV. De no ser posible lo anterior, adquirir los inmuebles con cargo a la partida presupuestal autorizada de la dependencia interesada y realizar las gestiones necesarias para la firma, registro y archivo de la escritura de propiedad correspondiente.
 
-La autorización de destinos o adquisiciones de inmuebles, se hará siempre y cuando correspondan a los programas anuales aprobados, exista autorización de inversión en su caso, y no se disponga de inmuebles federales adecuados para satisfacer los requerimientos específicos. Procederá la negativa cuando no se cumplan los requisitos señalados.
-
-Tratándose de las entidades paraestatales, la Secretaría tendrá en la adquisición de inmuebles la intervención correspondiente en los términos de esta ley y sus reglamentos.
+La autorización de destino o adquisición de inmuebles, se hará siempre y cuando correspondan a los programas anuales aprobados, exista autorización de inversión en su caso, y no se disponga de inmuebles federales adecuados, para satisfacer los requerimientos específicos. Procederá la negativa cuando no se cumplan los requisitos señalados.
 
 ###### ARTICULO 13.
 
@@ -272,15 +238,15 @@ Cuando a campesinos de escasos recursos económicos se entreguen terrenos de rie
 
 En los casos a que se refieren los dos párrafos anteriores, la dependencia que corresponda, dará la intervención previa que compete a la Secretaría de Desarrollo Urbano y Ecología, conforme a esta ley.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 15.
 
-Las dependencias y entidades de la Administración Pública Federal sólo podrán arrendar bienes inmuebles para su servicio cuando no sea posible o conveniente su adquisición. Dichas instituciones deberán acreditar tales supuestos ante la Secretaría de Desarrollo Urbano y Ecología.
+Las dependencias de la Administración Pública Federal sólo podrán arrendar bienes inmuebles para su servicio cuando no sea posible o conveniente su adquisición. Dichas dependencias están obligadas a acreditar tales supuestos ante la Secretaría de Desarrollo Urbano y Ecología.
 
 Tanto la adquisición como el arrendamiento de inmuebles para oficinas públicas, así como la construcción, reconstrucción, adaptación, conservación y mantenimiento de las mismas, requerirán la autorización previa de los estudios y/o proyectos o programas, por parte de la Secretaría de Desarrollo Urbano y Ecología, independientemente de la competencia o intervención que les corresponda a otras dependencias.
 
-El Ejecutivo Federal, por conducto de la Secretaría de Desarrollo Urbano y Ecología, determinará en el marco de la Administración Pública Federal, la duración y contenido de los contratos de arrendamiento. Asimismo, definirá las normas y criterios técnicos para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles destinados a oficinas de las instituciones públicas federales.
+El Ejecutivo Federal, por conducto de la Secretaría de Desarrollo Urbano y Ecología, determinará las normas y criterios técnicos para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles destinados a oficinas públicas federales.
 
 ### CAPITULO III. De los Bienes de Dominio Público
 
@@ -292,27 +258,23 @@ Se regirán sin embargo, por el derecho común, los aprovechamientos accidentale
 
 Ninguna servidumbre pasiva puede imponerse, en los términos del derecho común, sobre los bienes de dominio público. Los derechos de tránsito, de vista, de luz, de derrames y otros semejantes sobre dichos bienes se rigen exclusivamente por las leyes y reglamentos administrativos.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 17.
 
 Corresponde al Ejecutivo Federal:
 
-I. Declarar, cuando ello sea preciso, que un bien determinado forma parte del dominio público, por estar comprendido en alguna de las disposiciones de esta ley;
+I. Declarar, cuando ello sea preciso, que un bien determinado forma parte del dominio público, por estar comprendido en alguna de las disposiciones de esta ley o por haber estado bajo el control y administración del Gobierno Federal;
 
 II. Incorporar al dominio público, mediante decreto, un bien que forme parte del dominio privado, siempre que su posesión corresponda a la Federación;
 
-III. Desincorporar del dominio público, en los casos en que la ley lo permita, y asimismo mediante decreto, un bien que haya dejado de ser útil para fines de servicio público;
+III. Desincorporar del dominio público, en los casos en que la Ley lo permita y asimismo mediante decreto, un bien que haya dejado de ser útil para fines de servicio público;
 
-IV. Dictar las reglas a que deberá sujetarse la policía, vigilancia y aprovechamiento de los bienes de dominio público y tomar las medidas administrativas encaminadas a obtener, mantener o recuperar la posesión de ellos, así a remover cualquier obstáculo creado natural o artificialmente para su uso o destino;
+IV. Dictar las reglas a que deberá sujetarse la policía, vigilancia y aprovechamiento de los bienes de dominio público y tomar las medidas administrativas encaminadas a obtener, mantener o recuperar la posesión de ellos, así como procurar la remoción de cualquier obstáculo creado natural o artificialmente para el uso y destino. La Procuraduría General de la República y a través de la Secretaría de Gobernación, las Secretarías de la Defensa Nacional y de Marina, prestarán el auxilio necesario cuando formalmente se les requiera, con el fin de salvaguardar los intereses patrimoniales de la Federación.
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
+V. En general, dictar las disposiciones que demande el cumplimiento de esta ley o de las demás específicas a que estén sometidos los bienes de dominio público.
 
-V.- Anular administrativamente los acuerdos, concesiones, permisos o autorizaciones otorgados por autoridades, funcionarios o empleados que carezcan de la competencia necesaria para ello, o los que se dicten con violación de un precepto legal o por error, dolo o violencia, que perjudiquen o restrinjan los derechos de la Nación, sobre los bienes del dominio público o los intereses legítimos de tercero; y
-
-VI. En general, dictar las disposiciones que demande el cumplimiento de esta ley o de las demás específicas a que estén sometidos los bienes de dominio público.
-
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
-
-Las facultades que este artículo señala se ejercerán por conducto de la Secretaría de Desarrollo Urbano y Ecología, dándose en el caso de la fracción V, la intervención que corresponde a la dependencia a la que por ley corresponde el ramo.
+Las facultades que este artículo señala se ejercerán por conducto de la Secretaría de Desarrollo Urbano y Ecología.
 
 ###### ARTICULO 18.
 
@@ -324,9 +286,13 @@ Las resoluciones a que se refiere el artículo 17, podrán ser reclamadas ante l
 
 I. Quien sufra un perjuicio individual, directo y actual, podrá oponerse por escrito ante la misma autoridad que haya dictado la providencia;
 
-II. Esta instancia deberá promoverse dentro de los 30 días siguientes al de la notificación al opositor o al del inicio de la ejecución, cuando no haya habido notificación:
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
-III. Salvo casos urgentes, de evidente interés público a juicio de la autoridad, ésta, interpuso el recurso, deberá suspender la ejecución de la resolución impugnada, previo el otorgamiento la garantía bastante que al recurrente se señale y tomar las medidas adicionales que fueren necesarias para salvaguardar de los intereses nacionales;
+II. La oposición a que se refiere la fracción anterior deberá promoverse dentro de los 30 días siguientes al de la notificación o al inicio de la ejecución, cuando el opositor no hubiere sido notificado.
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
+
+III. A juicio de la autoridad responsable y siempre que no se trate de asuntos de evidente interés público, interpuesto al recurso, dicha autoridad deberá suspender la ejecución de la resolución impugnada previo el otorgamiento de garantía bastante que al recurrente se señale. En este evento la autoridad tomará las medidas que fueren necesarias para salvaguardar los intereses de la Nación;
 
 IV. Interpuesto el recurso, se comunicará al tercero interesado, si lo hubiere, y se concederá un término de treinta días, para pruebas. Es admisible toda clase de pruebas salvo la confesional;
 
@@ -338,17 +304,13 @@ VII. Dentro de los diez días siguientes, se dictará la resolución que corresp
 
 VIII. Las resoluciones se comunicarán a los interesados por correspondencia registrada con acuse de recibo o de otra manera fehaciente.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 20.
 
-Las concesiones sobre bienes de dominio público no crean derechos reales; otorgan simplemente frente a la adminitración(sic) y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones, de acuerdo con las reglas y condiciones que establezcan las leyes.
+Las concesiones sobre bienes de dominio público no crean derechos reales; otorgan simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones, de acuerdo con las reglas y condiciones que establezcan las leyes y el acto o título de la concesión.
 
-Los concesionarios deberán cubrir en la Tesorería de la Federación el monto de los productos que de acuerdo a la cuota aplicable corresponda, así como un 5% adicional sobre el importe mensual de tales productos, en concepto de derechos para el financiamiento de los servicios de inspección y vigilancia.
-
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
-
-Las concesiones sobre inmuebles de dominio público podrán otorgarse hasta por un plazo de veinte años, el cual podrá ser prorrogado hasta por plazos equivalentes a los señalados originalmente, a juicio de la Secretaría atendiendo, tanto para el otorgamiento de la concesión como para la prórroga, lo siguiente:
-
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
+Salvo lo establecido en otras leyes las concesiones sobre inmuebles de dominio público podrán otorgarse hasta por un plazo de 20 años, el cual podrá ser prorrogado hasta por plazos equivalentes a los señalados originalmente, a juicio de la Secretaría, atendiendo tanto para el otorgamiento de la concesión como para la prórroga a lo siguiente:
 
 I. El monto de la inversión que el concesionario pretenda aplicar;
 
@@ -362,7 +324,7 @@ V. El cumplimiento por parte del concesionario de las obligaciones a su cargo, y
 
 VI. La reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
 
-Al término del primer plazo de la concesión, las obras, instalaciones y los bienes dedicados a la explotación de la concesión revertirán en favor de la Nación. En caso de prórroga o de otorgamiento de una nueva concesión, para la fijación del monto de los productos se deberán considerar, además del terreno, las obras, instalaciones y demás bienes dedicados a la explotación de la concesión.
+Al término del primer plazo de la concesión, las obras, instalaciones y los bienes dedicados a la explotación de la concesión revertirán en favor de la Nación. En caso de prórroga o de otorgamiento de una nueva concesión, tendrá preferencia el concesionario original y para la fijación del monto de los derechos se deberán considerar, además del terreno, las obras, instalaciones y demás bienes dedicados a la explotación de la concesión.
 
 ###### ARTICULO 21.
 
@@ -374,13 +336,17 @@ II. Renuncia del concesionario;
 
 III. Desaparición de su finalidad o del bien objeto de la concesión.
 
-IV. Revocación;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
+
+IV. Nulidad, revocación y caducidad;
 
 V. Declaratoria de rescate;
 
 > <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1984)</small>
 
 VI. Cualquiera otra prevista en las leyes, reglamentos, disposiciones administrativas o en la concesión misma, que a juicio de la Secretaría de Desarrollo Urbano y Ecología haga imposible o inconveniente su continuación.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 22.
 
@@ -390,9 +356,13 @@ I. Dejar de cumplir con el fin para el que fue otorgada la concesión, o dar al 
 
 II. Dejar de cumplir con las condiciones a que se sujete el otorgamiento de la concesión o infringir lo dispuesto en esta ley y sus reglamentos;
 
-III. Dejar de pagar en forma oportuna los productos que se hayan fijado en la concesión; y
+III. Dejar de pagar en forma oportuna los productos que se hayan fijado en la concesión;
 
-IV. Las demás previstas en esta ley, en sus reglamentos o en las propias concesiones.
+IV. Realizar obras no autorizadas;
+
+V. Dañar ecosistemas como consecuencia del uso, aprovechamiento o explotación; y
+
+VI. Las demás previstas en esta ley, en sus reglamentos o en las propias concesiones.
 
 ###### ARTICULO 23.
 
@@ -410,7 +380,9 @@ Respecto de las concesiones, permisos o autorizaciones que corresponda otorgar a
 
 I. Inscribir en el Registro Público de la Propiedad Federal los documentos en que conste el derecho de reversión de la Federación; gestionando ante el Registro Público de la Propiedad que corresponda, se efectúe la inscripción de los mismos, y se hagan las anotaciones marginales necesarias;
 
-II. Autorizar cuando sea procedente en coordinación con la dependencia que corresponda, la enajenación parcial de los inmuebles a que se refiere este artículo. En este caso, el plazo de vigencia de las concesiones, permisos o autorizaciones respectivos deberá reducirse en proporción a la importancia y valor de la superficie desafectada, objeto de la enajenación que se autorice;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
+
+II. Autorizar cuando sea procedente en coordinación con la dependencia que corresponda, la enajenación parcial de los inmuebles a que se refiere este artículo. En este caso, el plazo de vigencia de las concesiones, permisos o autorizaciones respectivos deberá reducirse en proporción al valor de los inmuebles cuya enajenación parcial se autorice;
 
 III. Autorizar en coordinación con la Dependencia que corresponda, la imposición de gravámenes sobre los inmuebles destinados o afectos a los fines de la concesión, permiso o autorización. En este caso los interesados deberán otorgar fianza a favor del Gobierno Federal por una cantidad igual a la del gravamen, a fin de garantizar el derecho de reversión.
 
@@ -418,17 +390,17 @@ III. Autorizar en coordinación con la Dependencia que corresponda, la imposici�
 
 En los casos de nulidad, modificación, revocación o caducidad de las concesiones a que se refiere el primer párrafo de este Artículo y que se produzcan antes del término previsto en aquéllos, el derecho de reversión de los inmuebles afectos, se ejercerá en la parte proporcional al tiempo transcurrido de la propia concesión, excepto cuando la ley de la materia disponga la reversión total de los bienes afectos a la misma.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 25.
 
-Los derechos y obligaciones derivados de las concesiones sobre inmuebles de dominio público, sólo podrán cederse, con la autorización previa y expresa de la Secretaría de Desarrollo Urbano y Ecología, exigiendo al cesionario que reúna los mismos requisitos y condiciones que se tuvieron en cuenta para el otorgamiento de la concesión respectiva.
+Las concesiones sobre inmuebles de dominio público no podrán ser objeto, en todo o en parte, de subconcesión, arrendamiento, comodato, gravamen o cualquier acto o contrato por virtud del cual una persona distinta al concesionario goce de los derechos derivados de tales concesiones y en su caso de las instalaciones o construcciones autorizadas en el título respectivo.
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
-
-Las concesiones sobre inmuebles de dominio público no podrán ser objeto, en todo o en parte, de su concesión, arrendamiento, gravamen o cualquier acto o contrato por virtud del cual una persona distinta del concesionario goce de los derechos derivados de tales concesiones.
+Los derechos y obligaciones derivados de las concesiones sobre inmuebles de dominio público, sólo podrán cederse, con la autorización previa y expresa de la autoridad que las hubiere otorgado, exigiendo al cesionario que reúna los mismos requisitos y condiciones que se tuvieron en cuenta para el otorgamiento de la concesión respectiva.
 
 Cualquier operación que se realice en contra del tenor de este artículo será nula de pleno derecho y el concesionario perderá en favor de la Nación los derechos que deriven de la concesión y los bienes afectos a ella.
+
+Sin perjuicio de las sanciones a que se hagan acreedores los concesionarios por permitir que un tercero aproveche o explote bienes de dominio público, las cantidades que éstos obtengan, se considerarán créditos fiscales.
 
 ###### ARTICULO 26.
 
@@ -440,19 +412,23 @@ En la declaratoria de rescate se establecerán las bases generales que servirán
 
 Si el afectado estuviese conforme con el monto de la indemnización, la cantidad que se señale por este concepto tendrá carácter definitivo. Si no estuviere conforme, el importe de la indemnización se determinará por la autoridad judicial, a petición del interesado quien deberá formularla dentro del plazo de quince días, contados a partir de la fecha en que se le notifique la resolución que determine el monto de la indemnización.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 27.
 
 Las concesiones sobre bienes de dominio directo, cuyo otorgamiento autoriza el artículo 27 Constitucional, se regirán por lo dispuesto en las leyes reglamentarias respectivas.
 
-En todo caso, sin embargo el Ejecutivo tendrá facultad para negarla:
+Sin embargo, el Ejecutivo Federal tendrá facultad para negar la concesión en los siguientes casos:
 
 I. Si el solicitante no cumple con lo que tales leyes dispongan;
 
-II. Si se creare un acaparamiento contrario al interés social;
+II. Si se crea un acaparamiento contrario al interés social;
 
 III. Si la Federación decide emprender una explotación directa de los recursos de que se trate;
 
-IV. Para crear reservas nacionales.
+IV. Si los bienes de que se trate están programados para la creación de reservas nacionales; o
+
+V. Si existe algún motivo fundado de interés público.
 
 ###### ARTICULO 28.
 
@@ -464,13 +440,13 @@ Son bienes de uso común:
 
 I. El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el derecho internacional.
 
-II. El mar territorial hasta una distancia de doce millas marinas (22,224 metros), de acuerdo con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen y el Derecho Internacional. Salvo lo dispuesto en el párrafo siguiente, la anchura del mar territorial se medirá a partir de la línea de bajamar a lo largo de las costas y de las islas que forman parte del territorio nacional.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
+II. El mar territorial hasta una distancia de doce millas marinas (22,224 metros), de acuerdo con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Mar y sus reglamentos y el derecho internacional;
 
-En los lugares en que la costa del territorio nacional tenga profundas aberturas y escotaduras o en las que haya una franja de islas a lo largo de la costa situadas en su proximidad inmediata, podrá adoptarse como método para trazar la línea de base desde la que ha de medirse el mar territorial el de las líneas de base rectas que unan los puntos más adentrados en el mar. El trazado de esas líneas de base no se apartará de una manera apreciable de la dirección general de la costa, y las zonas de mar situadas del lado de tierra de esas líneas, estarán suficientemente vinculadas al dominio terrestre para estar sometidas al régimen de las aguas interiores. Estas líneas podrán trazarse hacia las elevaciones que emerjan en bajamar, cuando sobre ellas existan faros o instalaciones que permanezcan constantemente sobre el nivel del agua, o cuando tales elevaciones estén total o parcialmente a una distancia de la costa firme o de una isla que no exceda de la anchura del mar territorial. Las instalaciones permanentes más adentradas en el mar, que formen parte integrante del sistema portuario, se considerarán como parte de la costa para los efectos de la delimitación del mar territorial;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
-III. Las aguas marítimas interiores, o sea aquellas situadas en el interior de la línea de base del mar territorial o de la línea que cierra las bahías;
+III. Las aguas marinas interiores, conforme a la Ley Federal del Mar;
 
 IV. Las playas marítimas, entendiéndose por tales las partes de tierra que por virtud de la marea cubre y descubre el agua, desde los límites de mayor reflujo hasta los límites de mayor flujo anuales;
 
@@ -498,11 +474,13 @@ XIV. Los monumentos arqueológicos inmuebles, y
 
 XV. Los demás bienes considerados de uso común por otras leyes.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 30.
 
 Todos los habitantes de la República pueden usar de los bienes de uso común, sin más restricciones que las establecidas por las leyes y reglamentos administrativos.
 
-Para aprovechamientos especiales sobre los bienes de uso común, se requiere concesión otorgada con las condiciones y requisitos que establezcan las leyes.
+Para aprovechamientos especiales sobre los bienes de uso común, se requiere concesión o permiso otorgados con las condiciones y requisitos que establezcan las leyes.
 
 ###### ARTICULO 31.
 
@@ -524,7 +502,9 @@ Los propietarios que tengan derecho a demandar la reversión de los bienes expro
 
 Están destinados a un servicio público, y por tanto, se hayan comprendidos en la fracción V del artículo 2o.:
 
-I. Los inmuebles utilizados por los Poderes Legislativo, Ejecutivo y Judicial de la Federación;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
+
+I. Los inmuebles utilizados por los Poderes Legislativo y Judicial de la Federación, así como por el Poder Ejecutivo y sus dependencias.
 
 II. Los inmuebles destinados al servicio de los Poderes Legislativo y Judicial;
 
@@ -534,9 +514,11 @@ IV. Los predios rústicos directamente utilizados en los servicios de la Federac
 
 V. Los inmuebles de propiedad federal destinados al servicio de los Gobiernos de los Estados y Municipios;
 
-> <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
-VI. Los inmuebles que constituyen el patrimonio de los organismos públicos de carácter Federal, directamente utilizados para la prestación de sus servicios; y
+VI. Los inmuebles que formen parte del patrimonio de los organismos descentralizados de carácter federal, siempre que se destinen a infraestructura, reservas, unidades industriales, o estén directamente asignados o afectos a la exploración, explotación, transformación, distribución o que utilicen en las actividades específicas que tengan encomendadas conforme a sus respectivos objetos, relacionados con la explotación de recursos naturales y la prestación de servicios.
+
+No quedan comprendidos entre los bienes a que se refiere el párrafo anterior los inmuebles que los organismos descentralizados utilicen para oficinas administrativas, o en general para propósitos distintos a los de su objeto.
 
 > <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1984)</small>
 
@@ -556,29 +538,27 @@ II. Los afectos, mediante convenio que se publicará en el Diario Oficial de la 
 
 Los bienes a que se refiere la fracción VI del artículo 34, excepto los que, por disposición constitucional sean inalienables, sólo podrán gravarse con autorización expresa del Ejecutivo Federal, que se dictará por conducto de la Secretaría de Desarrollo Urbano y Ecología, cuando, a juicio de ésta, así convenga para el mejor financiamiento de las obras o servicios a cargo de la institución propietaria.
 
-Constituido el gravamen, los acreedores podrán ejercitar, cuando proceda, todas las acciones que les correspondan de acuerdo con el derecho común.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 25 DE MAYO DE 1987)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 37.
 
-El destino de inmuebles al servicio de las distintas dependencias o entidades de la Administración Pública Federal o de los Gobiernos Estatales o Municipales, se hará mediante decreto del Ejecutivo Federal, que será refrendado únicamente por la Secretaría de Desarrollo Urbano y Ecología.
+El destino de inmuebles federales para el servicio de las distintas dependencias o entidades de la Administración Pública Federal o de los gobiernos estatales o municipales, se formalizará mediante acuerdo de la Secretaría de Desarrollo Urbano y Ecología.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
-
-La Secretaría de Desarrollo Urbano y Ecología para la formulación del proyecto de decreto de destino, deberá atender las características y vocación de aprovechamiento del inmueble, la compatibilidad entre el uso para el que se requiere el bien y las disposiciones vigentes en materia de derecho urbano; y tratándose de inmuebles que tengan un valor arqueológico, artístico o histórico, el dictamen de la Secretaría de Educación Pública, por conducto del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura, según corresponda.
+La Secretaría de Desarrollo Urbano y Ecología para la formulación del acuerdo de destino, deberá atender las características y vocación de aprovechamiento del inmueble, la compatibilidad entre el uso para el que se requiere el bien y las disposiciones vigentes en materia de desarrollo urbano; y tratándose de inmuebles que tengan un valor arqueológico, artístico o histórico, el dictamen de la Secretaría de Educación Pública, por conducto del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura, según corresponda.
 
 El destino de los inmuebles federales no transmite la propiedad de los mismos, ni otorga derecho real alguno sobre ellos.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+Para cambiar el uso o aprovechamiento de los inmuebles destinados en los términos de esta Ley, las destinatarias deberán solicitarlo a la Secretaría de Desarrollo Urbano y Ecología, la que podrá autorizarlo considerando las razones que para ello se le expongan, así como los aspectos señalados en el segundo párrafo de este artículo.
 
-Para cambiar el uso o aprovechamiento de los inmuebles destinados en los términos de esta ley, las destinatarias deberán solicitarlo a la Secretaría de Desarrollo Urbano y Ecología, la que podrá autorizarlo considerando las razones que para ello se le expongan; así como los aspectos señalados en el segundo párrafo de este artículo.
-
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 38.
 
 Las destinatarias deberán iniciar la utilización de los inmuebles que se les den a su servicio, dentro de un término de seis meses contados a partir del momento en que se ponga a su disposición el bien.
+
+La conservación y mantenimiento de los referidos inmuebles estará a cargo de las propias destinatarias.
 
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
 
@@ -590,17 +570,11 @@ Las destinatarias deberán utilizar los inmuebles de una manera óptima, atendie
 
 En caso de que las propias destinatarias no requieran usar la totalidad del inmueble, lo deberán hacer del conocimiento de la Secretaría de Desarrollo Urbano y Ecología y poner a su disposición las áreas libres.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 40.
 
-Cuando se autorice a alguna entidad paraestatal a enajenar alguno de los inmuebles que integran su patrimonio, las dependencias y entidades de la Administración Pública Federal gozarán del derecho de preferencia para adquirir tales bienes. Para los efectos de este artículo, la Secretaría de Desarrollo Urbano y Ecología boletinará los gastos de los inmuebles de que se trate, a fin de que dentro de un término de treinta días naturales se ejerza el derecho concedido.
-
-Las entidades paraestatales, únicamente podrán adquirir, poseer o administrar los inmuebles que sean estrictamente necesarios para el cumplimiento de su objeto o fines, por lo que deberán comunicar a la Secretaría de Desarrollo Urbano y Ecología las características de los bienes que no les sean necesarios promoviendo su enajenación en los términos de esta ley.
-
-El Ejecutivo Federal por conducto de la Secretaría de Desarrollo Urbano y Ecología podrá requerir la entrega de inmuebles no autorizados por las entidades paraestatales, mediante la compensación que se convenga entre la entidad propietaria y la dependencia o entidad paraestatal adquirente, con la intervención de la citada Secretaría.
-
-Las entidades paraestatales de la Adminisstración Pública Federal que tengan a su disposición inmuebles federales cuyo uso o aprovechamiento no se tenga previsto para el cumplimiento de las funciones o la realización de programas autorizados deberán hacerlo del conocimiento de la Secretaría de Desarrollo Urbano y Ecología a fin de que, de acuerdo con los objetivos de la política inmobiliaria federal, se comunique a las dependencias y entidades la disponibilidad de los mismos, para su utilización en otros servicios públicos o para otros programas de beneficio e interés social.
+Las entidades paraestatales de la Administración Pública Federal, que tengan a su disposición inmuebles federales cuyo uso o aprovechamiento no se tenga previsto para el cumplimiento de las funciones o la realización de programas autorizados, deberán hacerlo del conocimiento de la Secretaría de Desarrollo Urbano y Ecología a fin de que, de acuerdo con los objetivos de la política inmobiliaria federal, se comunique a las dependencias y entidades la disponibilidad de los mismos, para su utilización en otros servicios públicos o para otros programas de beneficio e interés social.
 
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
 
@@ -702,7 +676,9 @@ Tanto en el macizo continental como en las islas que integran el territorio naci
 
 I. Cuando la costa presente playas, la zona federal marítimo terrestre estará constituida por la faja de veinte metros de ancho de tierra firme, transitable y contigua a dichas playas o, en su caso, a las riberas de los ríos, desde la desembocadura de éstos en el mar, hasta el punto, río arriba donde llegue el mayor flujo anual.
 
-II. Cuando la costa carezca de playas y presente formaciones rocosas o acantilados, la faja de veinte metros de zona federal marítimo terrestre, se contará desde el punto en la parte superior de dichos acantilados o formaciones rocosas en que pueda transitarse libremente y en forma continua. Para los efectos de esta ley, la totalidad de la superficie de los cayos y arrecifes ubicados en el mar territorial se considera como zona federal marítimo terrestre.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
+
+II. Cuando la costa carezca de playas y presente formaciones rocosas o acantilados, la Secretaría de Desarrollo Urbano y Ecología determinará la zona federal marítimo terrestre dentro de una faja de 20 metros contigua al litoral marino. Para los efectos de esta ley la totalidad de la superficie de los cayos y arrecifes ubicados en el mar territorial, se considerarán como zona federal marítimo terrestre;
 
 III. En el caso de lagos, lagunas o esteros que se comuniquen directa o indirectamente con el mar o respecto de cualquier otro depósito de agua marítima, la faja de veinte metros de zona federal marítimo terrestre se contará a partir del punto a donde llegue el mayor embalse anual o límite de la pleamar o, en su caso, con base en las reglas señaladas en la fracción anterior.
 
@@ -737,6 +713,10 @@ A la Secretaría de Desarrollo Urbano y Ecología corresponderá la posesión, d
 En las autorizaciones que la Secretaría de Desarrollo Urbano y Ecología otorgue a particulares para realizar obras tendientes a ganar terrenos al mar se establecerán los requisitos, condiciones técnicas y plazo para su realización, el monto de la inversión que se efectuará, el uso o aprovechamiento que se les dará, así como las condiciones de venta de la superficie total o parcial susceptible de enajenarse, en las que se considerará, en su caso, las inversiones realizadas por el particular en las obras.
 
 Las Secretarías de Desarrollo Urbano y Ecología y de Comunicaciones y Transportes, podrán autorizar la construcción de canales y dársenas para el desarrollo de las marinas, a fin de impulsar el desarrollo turístico de determinada zona de nuestros litorales. Para tales efectos, la Secretaría de Desarrollo Urbano y Ecología determinará las modalidades a que se sujetará el otorgamiento de concesiones para la ocupación de la zona federal marítimo terrestre y, en cada caso, podrá reducir su anchura. Como el mismo fin, la Secretaría de Comunicaciones y Transportes fijará las condiciones necesarias para garantizar el libre tránsito en la zona de protección, para la conservación y reparación de los canales y dársenas; así como para la aprobación y supervisión de los proyectos de construcción de las obras relativas.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 1987)</small>
+
+El área que resulte de la reducción que determine la Secretaría de Desarrollo Urbano y Ecología de la zona federal marítimo terrestre, no podrá ser adquirida por accesión por los propietarios colindantes.
 
 ###### ARTICULO 54.
 
@@ -776,21 +756,19 @@ III. Enajenación a título oneroso, para la adquisición de otros inmuebles que
 
 IV. Donación en favor de los Gobiernos de los Estados o de los Municipios, para que utilicen los inmuebles en los servicios públicos locales, en fines educativos o de asistencia social;
 
-V. Arrendamiento o donación en favor de asociaciones o instituciones privadas que realicen actividades de interés social y que no persigan fines de lucro;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
+
+V. Arrendamiento, donación o comodato en favor de asociaciones o instituciones privadas que realicen actividades de interés social y que no persigan fines de lucro;
 
 VI. Enajenación a título oneroso, en favor de personas de derecho privado que requieran disponer de dichos inmuebles para la creación, fomento o conservación de una empresa que beneficie a la colectividad; y
 
 VII. Enajenación o donación en los demás casos en que se justifique en los términos de esta ley.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 59.
 
-La transmisión de dominio a título gratuito u oneroso, de los bienes inmuebles propiedad del Gobierno Federal o aquellos que formen parte del patrimonio de los organismos descentralizados federales, que tengan a su servicio directo, sólo podrá autorizarse mediante Decreto del Ejecutivo Federal.
-
-La enajenación de los inmuebles a que se refiere el párrafo anterior, así como la que pretendan hacer las empresas y fideicomisos públicos con el fin de solucionar problemas de índole habitacional, urbano o de regularización de la tenencia de la tierra, sólo se autorizará mediante la aprobación previa, por parte de la Secretaría de Desarrollo Urbano y Ecología, de los programas de urbanización, lotificación y fraccionamiento o regularización, debiendo notificarse de inmediato a la Secretaría de Hacienda y Crédito Público, y a la de Programación y Presupuesto, las condiciones de autorización para los efectos procedentes. El incumplimiento de los programas dentro de los plazos y condiciones previstos en las autorizaciones, dará lugar a la revocación del decreto o de la propia autorización a que se refiere el Artículo 64o. de la Ley; tratándose de regularización, el incumplimiento de los plazos o condiciones cuando no sean imputables a los grupos o personas cuya tenencia se regulariza, no causará la revocación del decreto o de las autorizaciones.
-
-Las enajenaciones de inmuebles que realicen las entidades de la Administración Pública Federal, que tenga por objeto principal el fraccionamiento o comercialización de inmuebles, se sujetarán a lo dispuesto en sus leyes, decretos o acuerdos de creación que rijan su organización y funcionamiento, así como a las reglas generales que al efecto expida la Secretaría de Desarrollo Urbano y Ecología, mismas que deberán publicarse en el Diario Oficial de la Federación.
+La transmisión de dominio a título gratuito u oneroso, de los bienes inmuebles propiedad del Gobierno Federal o aquéllos que formen parte del patrimonio de los organismos descentralizados que sean de dominio público, sólo podrá autorizarse mediante decreto del Ejecutivo Federal.
 
 ###### ARTICULO 60.
 
@@ -804,11 +782,15 @@ En los casos de donación a que se refieren las fracciones IV y V del artículo 
 
 Si el donatario no iniciare la utilización del bien en el fin señalado dentro del plazo previsto, o si habiéndolo hecho diere al inmueble un uso distinto, sin contar con la previa autorización de la Secretaría de Desarrollo Urbano y Ecología, tanto el bien como sus mejoras revertirán en favor de la Federación. Cuando la donataria sea una asociación o institución privada, también procederá la reversión del bien y sus mejoras en favor de la Nación, si la donataria desvirtúa la naturaleza o el carácter no lucrativo de sus fines, si deja de cumplir con su objeto o si se extingue. Las condiciones a que se refiere este artículo se insertarán en la escritura de enajenación respectiva.
 
-La enajenación a título gratuito de inmuebles a favor de organizaciones sindicales, sólo procederá mediante la presentación de programas que señalen: uso principal de inmueble, tiempo previsto para la iniciación y conclusión de obras, y planes de financiamiento. En el caso de incumplimiento de los programas dentro de los plazos previstos, tanto el bien donado como sus mejoras revertirán en favor de la Federación.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
+
+La enajenación a título gratuito de inmuebles a favor de organizaciones sindicales constituidas y reconocidas por la legislación laboral, sólo procederá mediante la presentación de programas que señalen: uso principal del inmueble, tiempo previsto para la iniciación y conclusión de obras, y planes de financiamiento. En el caso de incumplimiento de los programas dentro de los plazos previstos, tanto el bien donado como sus mejoras revertirán en favor de la Federación.
 
 ###### ARTICULO 62.
 
 La enajenación de bienes con el fin de aplicar su importe a la adquisición de inmuebles para los servicios públicos de la Federación, en el caso previsto en la fracción III del artículo 58, se hará en subasta pública. La convocatoria se publicará con quince días de anticipación, por lo menos, en el Diario Oficial de la Federación y en uno de los periódicos de mayor circulación en la entidad de ubicación de los bienes.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 63.
 
@@ -820,45 +802,37 @@ II. Fijar el monto de la indemnización por la expropiación de inmuebles que re
 
 III. Fijar el monto de la indemnización en los casos en que la Federación rescate concesiones sobre inmuebles de dominio público;
 
-IV. Justipreciar los productos que la Federación deba cobrar cuando concesione inmuebles federales, con excepción de los relativos a zona federal marítimo terrestre.
+IV. Valuar los inmuebles federales materia de concesión, con excepción de los relativos a zona federal marítimo terrestre, para el efecto de determinar el monto de los derechos;
 
-V. Justipreciar las rentas que la Federación o las entidades paraestatales deban cobrar cuando tengan el carácter de arrendadoras.
+V. Justipreciar las rentas que la Federación deba cobrar cuando tenga el carácter de arrendadora;
 
-VI.- Justipreciar las rentas que deban pagar las dependencias y entidades de la Administración Pública Federal, cuando tengan el carácter de arrendatarias;
+VI. Justipreciar las rentas que deba pagar la Federación cuando tenga el carácter de arrendataria;
 
-VII. Valuar los bienes vacantes que se adjudiquen a la Administración Pública Federal; y
+VII. Valuar los bienes vacantes que se adjudiquen a la Federación; y
 
 VIII. Practicar los demás avalúos y justipreciaciones que señalen las leyes y reglamentos.
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
-
 El precio de los inmuebles que se vayan a adquirir, así como el monto de indemnizaciones o rentas, no podrá ser superior al señalado en el dictamen respectivo.
 
-En los casos de enajenaciones, permutas o arrendamientos de inmuebles federales o de entidades paraestatales, el importe del precio del producto o de la renta, respectivamente no podrá ser inferior al señalado en el dictamen respectivo.
+En los casos de enajenaciones, permutas o arrendamientos de inmuebles federales, el importe del precio del producto o de la renta, respectivamente no podrá ser inferior al señalado en el dictamen respectivo.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+El Ejecutivo Federal determinará la forma de integración y funcionamiento de la Comisión de Avalúos de Bienes Nacionales así como las normas, procedimientos, índices y coeficientes conforme a los cuales realizará sus valuaciones y justipreciaciones.
 
-El Ejecutivo Federal determinará en los reglamentos correspondientes, la forma de integración y funcionamiento de la Comisión de Avalúos de Bienes Nacionales y las normas, procedimientos, índices y coeficientes a que se sujetarán las valuaciones y justipreciaciones que realice.
+Las entidades de la Administración Pública Federal deberán realizar sus adquisiciones y ventas de inmuebles con base en avalúos de la Comisión de Avalúos de Bienes Nacionales o de sociedades nacionales de crédito.
 
-La Comisión de Avalúos de Bienes Nacionales deberá practicar los avalúos de los inmuebles cuya administración o facultades de disposición corresponda a la Administración Pública Federal.
-
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 64.
 
-Para la enajenación de inmuebles que formen parte del patrimonio de los organismos descentralizados y que tengan a su servicio directo, se requerirá de Decreto Presidencial.
+Para la enajenación de inmuebles de dominio público que formen parte del patrimonio de los organismos descentralizados, se requerirá de decreto presidencial en el que se autorice su desincorporación y enajenación.
 
-Para la enajenación de inmuebles del patrimonio de los organismos descentralizados, diversos a los señalados en el párrafo anterior, de las empresas de participación estatal mayoritaria o de los fideicomisos públicos de carácter federal, se requerirá de la autorización de la Secretaría de Desarrollo Urbano y Ecología, la cual deberá ser emitida dentro de un plazo de cuarenta y cinco días, dando en todo caso aviso de las autorizaciones concedidas a la Secretaría de Programación y Presupuesto, para los efectos procedentes.
+El decreto correspondiente deberá ser publicado en el Diario Oficial de la Federación.
 
-Dentro de las enajenaciones o programas que en materia inmobiliaria hagan los organismos mencionados, se dará preferencia a aquellos que pretenden la regularización de la tenencia de la tierra.
-
-La enajenación de inmuebles que realicen las Entidades de la Administración Pública Federal, que tengan por objeto principal el fraccionamiento o comercialización de inmuebles y la de aquéllos a que se refiere la Fracción VIII del Artículo 3o. de esta Ley, se sujetarán a las reglas generales que al efecto expida la Secretaría de Desarrollo Urbano y Ecología.
-
-Tanto el Decreto como la autorización correspondiente, deberán ser publicados en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 65.
 
-El Ejecutivo Federal podrá autorizar la enajenación de inmuebles fuera de subasta, siempre que se cumplan las condiciones y requisitos establecidos en esta ley y sus disposiciones reglamentarias; y se fije el precio en la forma prevista por el artículo 63. El decreto respectivo será publicado en el Diario Oficial de la Federación.
+El Ejecutivo Federal podrá autorizar la enajenación de inmuebles federales fuera de subasta, siempre que se cumplan las condiciones y requisitos establecidos en esta ley y sus disposiciones reglamentarias, y se fije el precio en la forma prevista por el artículo 63. El decreto respectivo será publicado en el Diario Oficial de la Federación.
 
 > <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
 
@@ -872,9 +846,7 @@ El Gobierno Federal se reservará el dominio de los bienes hasta el pago total d
 
 La Secretaría de Desarrollo Urbano y Ecología, podrá extender los beneficios a que alude el primer párrafo de este Artículo, a las personas físicas o morales que pretenden llevar a cabo proyectos habitacionales de interés social, resolver las necesidades de vivienda a las personas de escasos recursos económicos en una zona o área determinada o a la regularización de la tenencia de la tierra. Dicha dependencia en todo caso se deberá asegurar del cumplimiento de los objetivos señalados.
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
-
-Las Entidades de la Administración Pública Federal cuyo objeto principal sea el fraccionamiento o comercialización de los inmuebles podrán efectuar enajenaciones a plazos en los términos de sus leyes, decretos o acuerdos de creación siempre que se ajusten a las reglas generales que al efecto expida la Secretaría de Desarrollo Urbano y Ecología.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
 
@@ -892,33 +864,35 @@ Mientras no esté totalmente pagado el precio, los compradores de inmuebles fede
 
 En los contratos respectivos deberá estipularse que la falta de pago de tres mensualidades de los abonos a cuenta del precio y de sus intereses en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, dará origen a la rescisión del contrato.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 69.
 
 Los actos, negocios jurídicos, convenios y contratos que realicen las dependencias y entidades paraestatales con violación de lo dispuesto en esta ley, serán nulos de pleno derecho.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+Tratándose de inmuebles federales o de dominio público de los organismos descentralizados objeto de alguno de los actos o contratos que sean nulos conforme a este artículo, la Secretaría de Desarrollo Urbano y Ecología, podrá recuperarlos administrativamente y determinar su aprovechamiento conforme a la política inmobiliaria del Gobierno Federal, o entregarlos al organismo descentralizado que corresponda según sea el caso.
 
-Tratándose de inmuebles federales o de las entidades paraestatales objeto de alguno de los actos o contratos que sean nulos conforme a este artículo, la Secretaría de Desarrollo Urbano y Ecología podrá recuperarlos administrativamente y determinar su aprovechamiento conforme a la política inmobiliaria del Gobierno Federal, o entregarlos a la entidad paraestatal que corresponda, según sea el caso.
-
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 70.
 
-Los decretos que autoricen la transmisión de dominio a título gratuito u oneroso, de inmuebles de propiedad federal o de propiedad de los organismos descentralizados, llevarán siempre el refrendo de los Secretarios de Desarrollo Urbano y Ecología y de Programación y Presupuesto.
+Los decretos que autoricen la transmisión de dominio a título gratuito u oneroso, de inmuebles de propiedad federal serán refrendados por los Secretarios de Desarrollo Urbano y Ecología y de Programación y Presupuesto. Igual formalidad requerirán los decretos relativos a la autorización de operaciones inmobiliarias que celebren los organismos descentralizados, siempre que se trate de bienes de dominio público.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 71.
 
-Los bienes de dominio privado pueden ser objeto de todos los contratos que regula el derecho común se exceptúan solamente los de comodato y las donaciones no autorizadas en esta ley.
+Los bienes de dominio privado pueden ser objeto de todos los contratos que regula el derecho común con excepción de la donación y del comodato, salvo en los casos en que estos contratos estén autorizados expresamente en esta ley.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 72.
 
-Los actos jurídicos relacionados con inmuebles en los que sea parte el Gobierno Federal y que en los términos de esta Ley requieran la intervención de notario, se celebrarán ante los Notarios del Patrimonio Inmueble Federal que nombrará la Secretaría de Desarrollo Urbano y Ecología, entre los autorizados legalmente para ejercer el notariado. El nombramiento se sujetará a las condiciones y trámites que se establezcan en los términos de esta Ley y su reglamentación.
+Los actos jurídicos relacionados con inmuebles en los que sea parte el Gobierno Federal y que en los términos de esta ley requieran la intervención de notario, se celebrarán ante los notarios del Patrimonio Inmueble Federal que nombrará la Secretaría de Desarrollo Urbano y Ecología, entre los autorizados legalmente para ejercer el notariado.
 
-Los Notarios del Patrimonio Inmueble Federal llevarán protocolo especial para los actos jurídicos de este ramo, y sus respectivos apéndices e índices de instrumentos y con los demás requisitos que la Ley exija para la validez de los actos notariales. Estos protocolos especiales serán autorizados por las autoridades locales competentes y por la Secretaría de Desarrollo Urbano y Ecología, quien podrá realizar revisiones o requerir información periódica sobre los mismos.
+Los notarios del Patrimonio Inmueble Federal llevarán protocolo especial para los actos jurídicos de este ramo, y sus respectivos apéndices e índices de instrumentos y con los demás requisitos que la Ley exija para la validez de los actos notariales. Estos protocolos especiales serán autorizados por las autoridades locales competentes y por la Secretaría de Desarrollo Urbano y Ecología, quien podrá realizar revisiones o requerir información periódica sobre los mismos.
 
-Ningún Notario del Patrimonio Inmueble Federal podrá autorizar una escritura de adquisición o enajenación de bienes inmuebles en que sea parte el Gobierno Federal, sin que la intervención o aprobación previa de la Secretaría de Desarrollo Urbano y Ecología, quien determinará libremente quienes deban hacerlo.
+Ningún notario del Patrimonio Inmueble Federal podrá autorizar una escritura de adquisición o enajenación de bienes inmuebles en que sea parte el Gobierno Federal, sin la intervención o aprobación previa de la Secretaría de Desarrollo Urbano y Ecología, quien determinará libremente quiénes deban hacerlo.
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
@@ -926,29 +900,27 @@ Ningún Notario del Patrimonio Inmueble Federal podrá autorizar una escritura d
 
 Los actos jurídicos sobre bienes inmuebles en los que intervengan las entidades de la Administración Pública Federal, podrán celebrarse ante los notarios públicos de su elección con residencia en la localidad o entidad federativa en que se ubique el inmueble de que se trate, y con sujeción a lo que disponga esta Ley y las de la materia correspondiente. La Secretaría de Desarrollo Urbano y Ecología excepcionalmente y en cada caso que así lo amerite, a solicitud de las entidades paraestatales, podrá habilitar notarios de diferente circunscripción; y en todo caso, vigilará que los actos notariales hayan cumplido las disposiciones legales, ejerciendo para ello las atribuciones que le correspondan.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 74.
 
-No se requerirá intervención de Notario en los casos siguientes:
-
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
+No se requerirá intervención de notario en los casos siguientes:
 
 I. Donaciones que se efectúen en favor del Gobierno Federal;
 
-II. Donaciones que efectúe el Gobierno Federal en favor de los Gobiernos Estatales o Municipales; y
+II. Donaciones que efectúe el Gobierno Federal en favor de los Gobiernos Estatales y Municipales;
 
-III. Enajenaciones que realicen las entidades paraestatales a personas de escasos recursos para resolver necesidades de vivienda de interés social.
+III. Enajenaciones que realicen las entidades paraestatales a personas de escasos recursos para resolver necesidades de vivienda de interés social;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE ENERO DE 1985)</small>
+IV. Donaciones que realicen los Gobiernos de los Estados o de los Municipios en favor de entidades de la Administración Pública Federal, para la prestación de servicios públicos a su cargo;
 
-IV.- Donaciones que realicen los Gobiernos de los Estados o de los Municipios en favor de entidades de la Administración Pública Federal, para la prestación de servicios públicos a su cargo.
+V. Donaciones que efectúe el Gobierno Federal en favor de entidades paraestatales; y
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+VI. Adquisiciones y enajenaciones a título oneroso que realice el Gobierno Federal con las entidades paraestatales.
 
-En los casos a que se refieren las fracciones I y II, el documento que consigne el contrato respectivo tendrá el carácter de escritura pública. En los casos a que se refiere la fracción III, se requerirá que la Secretaría de Desarrollo Urbano y Ecología autorice los contratos respectivos, para que éstos adquieran el carácter de escritura pública.
+En los casos a que se refieren las fracciones I, II, V y VI, el documento que consigne el contrato respectivo tendrá el carácter de escritura pública. En los casos a que se refiere la fracción III, se requerirá que la Secretaría de Desarrollo Urbano y Ecología autorice los contratos respectivos, para que éstos adquieran el carácter de escritura pública.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
-
-En los demás casos en que intervengan Notarios del Patrimonio Inmueble Federal, la Secretaría de Desarrollo Urbano y Ecología, tomando como base el arancel que establezca los honorarios de los Notarios, determinará el porcentaje de reducción de tales honorarios, tomando en cuenta el uso público o interés social al que pretendan aplicarse los inmuebles que sean objeto de la operación, sin que dicha reducción pueda ser inferior al 50%.
+En los demás casos en que intervengan notarios del Patrimonio Inmueble Federal, la Secretaría de Desarrollo Urbano y Ecología, tomando como base el arancel que establezca los honorarios de los notarios, determinará el porcentaje de reducción de tales honorarios, tomando en cuenta el uso público o interés social al que pretendan aplicarse los inmuebles que sean objeto de la operación, sin que dicha reducción pueda ser inferior al 50%.
 
 ###### ARTICULO 75.
 
@@ -1042,11 +1014,17 @@ Los encargados del Registro Público de la Propiedad Federal están obligados a 
 
 Se inscribirán en el Registro Público de la Propiedad Federal:
 
-I. Los Títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, la posesión y los demás derechos reales pertenecientes al Gobierno Federal o a los organismos descentralizados sobre bienes inmuebles;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
-II. Los contratos de arrendamiento sobre inmuebles de propiedad federal o de los organismos descentralizados, cuyo plazo sea de cinco años o mayor;
+I. Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, la posesión y los demás derechos reales pertenecientes al Gobierno Federal o respecto de los bienes inmuebles de dominio público de los organismos descentralizados.
 
-III. Las resoluciones de ocupación y sentencias relacionadas con inmuebles federales o que integran el patrimonio de los organismos descentralizados, que pronuncie la autoridad judicial;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
+
+II. Los contratos de arrendamiento sobre inmuebles de propiedad federal, cuyo plazo sea de cinco años o más;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
+
+III. Las resoluciones de ocupación y sentencias relacionadas con inmuebles federales o de los organismos descentralizados en relación a bienes de dominio público que pronuncie la autoridad judicial;
 
 IV. Las informaciones ad-perpetuam promovidas por el Ministerio Público Federal, para acreditar la posesión y el dominio de la Nación, sobre bienes inmuebles;
 
@@ -1068,11 +1046,15 @@ En los casos a que se refieren las fracciones III, IV y V de este artículo, no 
 
 No se hará inscripción de los bienes de dominio público, salvo que se trate de los señalados en la fracción V del artículo 2o. de esta ley o en otras leyes.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 87.
 
-El Registro Público de la Propiedad correspondiente al lugar de ubicación de cada inmueble, deberá inscribir los documentos a que se refieren los artículos 14, párrafos Segundo, 17 fracción I, 67, 72, 74 y 85 de esta ley.
+Los documentos a que se refieren los artículos 14, párrafo segundo, 17 fracción I, 67, 72, 74 y 85 de esta Ley, deberán inscribirse en el Registro Público de la Propiedad correspondiente al lugar de ubicación de los inmuebles de que se trate.
 
 En caso de oposición entre los datos del Registro Público de la Propiedad Federal y los del de la ubicación de los bienes, en las relaciones con terceros, se dará preferencia al primero, si se trata de bienes de dominio público, y al segundo, si de bienes de dominio privado.
+
+La Secretaría de Desarrollo Urbano y Ecología en los acuerdos de coordinación que celebre de manera general o especial con los gobiernos de los estados, instrumentará la comunicación entre el Registro Público de la Propiedad Federal a su cargo y los registros públicos de la propiedad de las entidades federativas para que agilicen la inscripción de los títulos.
 
 ###### ARTICULO 88.
 
@@ -1102,21 +1084,25 @@ El sistema de captación, almacenamiento y procesamiento de datos para el desemp
 
 ### CAPITULO VIII. Del Catálogo e Inventario de los Bienes y Recursos de la Nación
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 93.
 
-Las Secretarías de Programación y Presupuesto, de Energía, Minas e Industria Paraestatal y de Desarrollo Urbano y Ecología, en sus respectivos ámbitos de competencia tendrán a su cargo la elaboración y actualización de los catálogos e inventarios generales de los bienes de la Nación, a cuyo efecto compilarán, revisarán y determinarán las normas y procedimientos que las dependencias y entidades de la Administración Pública Federal deberán llevar a cabo.
+Las Secretarías de Programación y Presupuesto, de Energía, Minas e Industria Paraestatal y de Desarrollo Urbano y Ecología, en sus respectivos ámbitos de competencia, determinarán las normas y procedimientos para la elaboración de los catálogos e inventarios generales de los bienes de la Nación.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 94.
 
-Para los efectos que señala el artículo anterior, las dependencias y entidades de la Administración Pública Federal, las demás instituciones públicas y privadas y los particulares que, por cualquier concepto usen, posean, administren o tengan a su cuidado bienes y recursos propiedad de la Nación, estarán obligadas a proporcionar los datos y los informes que les soliciten las Secretarías mencionadas, así como a remitirles los inventarios de dichos bienes y darles todas las facilidades necesarias. Las Secretarías citadas concentrarán sistematizarán y catalogarán los datos e informes de referencia y con ellos elaborarán los catálogos e inventarios a que se refiere el artículo anterior.
+Las dependencias y entidades de la Administración Pública Federal y las demás instituciones públicas y privadas que por cualquier concepto, usen, administren o tengan a su cuidado bienes y recursos propiedad de la Nación, tendrán a su cargo la elaboración y actualización de los catálogos e inventarios de dichos bienes. También estarán obligadas a proporcionar los datos y los informes que les soliciten las Secretarías que se mencionan en el artículo anterior.
 
-> <small>(F. DE E., D.O.F. 12 DE FEBRERO DE 1982)</small>
+El Sistema Nacional de Información Inmobiliaria será coordinado por la Secretaría de Desarrollo Urbano y Ecología y tendrá por objeto la integración de los datos de identificación física, y antecedentes jurídicos y administrativos de los inmuebles federales que por cualquier concepto usen, administren o tengan a su cuidado las dependencias y entidades de la Administración Pública Federal y las demás instituciones públicas o privadas.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 95.
 
-Los catálogos e inventarios a que se refiere este capítulo comprenderán todos los datos físicos, documentos e informes necesarios para la plena identificación de los bienes de la Nación, en los términos del reglamento que al efecto se expida.
+La Secretaría de la Contraloría General de la Federación, en el ámbito de su competencia vigilará que las dependencias y entidades de la Administración Pública Federal y las demás instituciones públicas y privadas proporcionen a la Secretaría de Desarrollo Urbano y Ecología, la información a que se refiere el artículo que antecede.
 
 ### CAPITULO IX. Sanciones
 
@@ -1126,9 +1112,13 @@ Los catálogos e inventarios a que se refiere este capítulo comprenderán todos
 
 Se sancionará con prisión de dos años a doce años y multa de trescientas a quinientas veces el salario mínimo general diario vigente para el Distrito Federal a quien, vencido el término señalado en la concesión, permiso o autorización que se haya otorgado para la explotación, uso o aprovechamiento de un bien de dominio público, no lo devolviere a la autoridad correspondiente dentro del término de treinta días siguientes a la fecha del requerimiento administrativo que le sea formulado.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 97.
 
-La misma pena se impondrá a quien, a sabiendas de que un bien pertenece a la Nación, lo explote, use o aproveche sin haber obtenido previamente concesión, permiso, autorización, o celebrado contrato con la autoridad competente.
+La misma pena se impondrá a quien, a sabiendas de que un bien pertenece a la Nación, lo explote, use o aproveche sin haber obtenido previamente, concesión, permiso, autorización, o celebrado contrato con la autoridad competente.
+
+Las obras e instalaciones que sin concesión o permiso se realicen en los bienes de propiedad federal, se perderán en beneficio de la Nación. En su caso, la Secretaría de Desarrollo Urbano y Ecología ordenará que las obras o instalaciones sean demolidas por cuenta del infractor, sin que proceda indemnización o compensación alguna.
 
 ###### ARTICULO 98.
 
@@ -1141,6 +1131,12 @@ En los casos a que se refieren los dos artículos que anteceden independientemen
 A los notarios públicos que autoricen actos o contratos en contra de las disposiciones de esta Ley o sus reglamentos, independientemente de la responsabilidad civil o penal en que incurran, la Secretaría de Desarrollo Urbano y Ecología, podrán sancionarlos con multa de veinte a cinco mil veces el salario mínimo general diario vigente, para el Distrito Federal.
 
 Respecto de los notarios del patrimonio inmueble federal, la Secretaría de Desarrollo Urbano y Ecología, podrá además cancelarles la autorización que les hubiere otorgado para actuar con tal carácter.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 1987)</small>
+
+###### ARTICULO 100.
+
+En caso de duda sobre la interpretación de las disposiciones de esta Ley, se estará a lo que resuelva, para efectos administrativos internos del Ejecutivo Federal, la Secretaría de Desarrollo Urbano y Ecología.
 
 ## TRANSITORIOS
 
@@ -1185,3 +1181,13 @@ El presente Decreto entrará en vigor treinta días naturales después de su pub
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a lo dispuesto por este Decreto.
+
+D.O.F. 25 DE MAYO DE 1987.
+
+PRIMERO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para los efectos de la adecuada aplicación de las reformas a los artículos 34, fracción VI, y 85, fracción I, en un plazo que no excederá de 270 días contados a partir de que las mismas entren en vigor, los organismos descentralizados deberán realizar, si no lo hubieren hecho, las gestiones conducentes ante el Registro Público de la Propiedad Federal a fin inscribir aquellos inmuebles que formen parte de su patrimonio y que, conforme a esta Ley, sean del dominio público de la Federación, así como a cancelar la inscripción de aquéllos que dejan de tener tal carácter.
+
+Respecto a los inmuebles que por virtud de las reformas a que se refiere el párrafo anterior dejan de considerarse de dominio público de la Federación, y por ello quedan afectos al pago en las contribuciones municipales, los organismos descentralizados, tomando en cuenta sus previsiones presupuestales, dentro del plazo a que se refiere el párrafo anterior, con la intervención de los gobiernos Federal y de las entidades federativas, celebrarán convenios con los municipios sobre los términos y condiciones para proceder a dicho pago.
+
+TERCERO.- Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
