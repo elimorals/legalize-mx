@@ -4,7 +4,7 @@ identifier: "GUA-ley-reglamentaria-del-articulo-7o-de-la-constitucion-21645"
 country: "mx"
 rank: "ley"
 publication_date: "1959-08-16"
-last_updated: "1960-11-24"
+last_updated: "1974-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY REGLAMENTARIA DEL ARTICULO 4o. DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1960.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1974.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato el 16 de agosto de 1959.
 
@@ -313,6 +313,10 @@ Los casos de reincidencia se sancionarán con prisión de un mes a cinco años y
 
 Hay reincidencia siempre que el práctico infraccionario insistiere en ejercer actividades propias de una profesión para la cual se requiere título, sin llenar previamente, los requisitos que señala el artículo 4o. transitorio de este Decreto.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1974)</small>
+
+ARTICULO OCTAVO (SIC).- Se faculta al Gobernador del Estado para celebrar convenio de coordinación con el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, para la unificación del Registro Profesional.
+
 Lo tendrá entendido el Ciudadano Gobernador Constitucional del Estado y dispondrá que se imprima, publique, circule y se le dé el debido cumplimiento. Guanajuato, Gto., 29 de julio de 1959.- Lic. José Campos Ortiz. D.P.- Joaquín Malagón Villagómez D.S.- Octaviano Castañeda. D.S."- Rúbricas.
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
@@ -336,3 +340,9 @@ P.O. 24 DE NOVIEMBRE DE 1960.
 Artículo Primero.- No se harán efectivas las sanciones que señala el artículo 8o. de la presente Ley, mientras esté corriendo el plazo de prórroga a que se refieren los artículos reformados.
 
 Artículo Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 1974.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
