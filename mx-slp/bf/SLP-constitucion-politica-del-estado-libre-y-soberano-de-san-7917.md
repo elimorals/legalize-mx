@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1996-11-20"
+last_updated: "1999-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-> <small>N. DE E. LA QUINCUAGESIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI APROBO EL DECRETO No. 657, QUE REFORMA LA CONSTITUCION POLITICA VIGENTE EN EL ESTADO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, PRESENTANDOSE POR TAL MOTIVO SOLO EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 20 DE NOVIEMBRE DE 1996.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 1999.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -379,11 +377,13 @@ Corresponde a los ciudadanos, partidos políticos y al Consejo Estatal Electoral
 
 La ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además, establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 31.
 
-El Consejo Estatal Electoral es un organismo autónomo con personalidad jurídica y patrimonio propios, encargado de vigilar el cumplimiento de las disposiciones constitucionales y reglamentarias de la materia electoral, así como de preparar, desarrollar y vigilar los procesos electorales estatales y municipales, y se integrará conforme lo disponga la ley respectiva. El Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, designará a los consejeros ciudadanos que lo integran y de entre ellos nombrará al Presidente de este Organismo.
+El Consejo Estatal Electoral es un organismo de carácter permanente, autónomo, independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propios, encargado de vigilar el cumplimiento de las disposiciones constitucionales y reglamentarias de la materia electoral, así como de preparar, desarrollar y vigilar los procesos electorales estatales y municipales, y se integrará conforme lo disponga la ley respectiva. El Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, designará a los consejeros ciudadanos que lo integran y de entre ellos nombrará al Presidente de este Organismo.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 La calificación de las elecciones de Gobernador, Diputados locales y Ayuntamientos corresponderá al Consejo Estatal Electoral, conforme lo disponga la ley de la materia.
 
@@ -393,7 +393,9 @@ La calificación de las elecciones de Gobernador, Diputados locales y Ayuntamien
 
 Para resolver las impugnaciones que se presenten en los procesos electorales, se instituirá un Tribunal Electoral, como órgano especializado del Poder Judicial del Estado, que será la máxima autoridad jurisdiccional en la materia.
 
-El procedimiento ante el Tribunal Electoral será de doble instancia y los Magistrados que lo integren serán nombrados por el voto de las dos terceras partes de los Diputados presentes del Congreso del Estado o, en sus recesos, por la Diputación Permanente, a propuesta del Supremo Tribunal de Justicia, de conformidad con lo establecido por la ley. Las salas de primera instancia podrán ser regionales y en el número que determine el Pleno del Supremo Tribunal de Justicia.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1999)</small>
+
+El procedimiento ante el Tribunal Electoral será de doble instancia, excepto tratándose de la Segunda Votación en la elección de Ayuntamiento, que será uninstancial, y los Magistrados que lo integren serán nombrados por el voto de las dos terceras partes de los Diputados presentes del Congreso del Estado o, en sus recesos, por la Diputación Permanente, a propuesta del Supremo Tribunal de Justicia, de conformidad con lo establecido por la ley. Las salas de primera instancia podrán ser regionales y en el número que determine el Pleno del Supremo Tribunal de Justicia.
 
 El Presidente de cada Sala será electo por los integrantes de la misma.
 
@@ -717,7 +719,9 @@ XXXIV.- Nombrar, a propuesta del Pleno del Supremo Tribunal de Justicia, a los M
 
 XXXV.- Calificar las renuncias de los Magistrados de los Tribunales señalados en las fracciones anteriores, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la presente Constitución;
 
-XXXVI.- Nombrar al Presidente del Consejo Estatal Electoral y al de la Comisión Estatal de Derechos Humanos, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la presente Constitución;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 1999)</small>
+
+XXXVI.- Nombrar al Presidente del Consejo Estatal Electoral, al de la Comisión Estatal de Derechos Humanos y al del Tribunal Estatal de Conciliación y Arbitraje, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la presente Constitución;
 
 XXXVII.- Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado que le someta el titular del Ejecutivo;
 
@@ -1533,11 +1537,11 @@ No estarán impedidos los ciudadanos a que se refiere la fracción II si se sepa
 
 Para erigir o suprimir un Municipio, Delegación o Cabecera Municipales, el Congreso del Estado tomará en cuenta, además de lo previsto en el artículo 57, fracción XXVI, de la presente Constitución, el cumplimiento de los requisitos que prevenga la Ley Orgánica del Municipio Libre.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 120.
 
-En las Delegaciones Municipales la autoridad será ejercida por un Delegado Municipal, quien será electo de conformidad con lo que establece la Ley, la cual señalará sus atribuciones y responsabilidades.
+En las Delegaciones Municipales la autoridad será ejercida por un Delegado Municipal, quien será designado por el respectivo Ayuntamiento, conforme a lo establecido en la Ley Orgánica del Municipio Libre, la cual señalará sus atribuciones y responsabilidades.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1559,23 +1563,39 @@ II.- No prestar los servicios públicos que tiene a su cargo o prestarlos en for
 
 III.- Cualquier otra consignada en las leyes.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 122.
 
-En caso de declararse suspendido o desaparecido un Ayuntamiento, el Congreso designará, de entre los vecinos, un Concejo Municipal, que concluirá el período respectivo, salvo que proceda conforme a la ley celebrar nuevas elecciones. El mismo procedimiento se observará si ocurre la renuncia o falta absoluta de la mayoría de sus integrantes, si no procediere que entren en funciones los suplentes.
+En caso de declararse suspendido o desaparecido un Ayuntamiento, el Congreso designará, de entre los vecinos, un Concejo Municipal, que concluirá el período respectivo, si la causal se da después de un año de ejercicio del período constitucional para el que fue electo; en caso de que esta circunstancia se presente dentro del primer año del ejercicio constitucional, el Concejo Municipal designado gobernará el municipio hasta en tanto se celebre la respectiva elección extraordinaria de Ayuntamiento y tome posesión la planilla que haya resultado electa. El mismo procedimiento se observará si ocurre la renuncia o falta absoluta de la mayoría de sus integrantes, si no procediere que entren en funciones los suplentes.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Igualmente, el Congreso del Estado designará un Concejo Municipal que concluirá el período respectivo, determinando los cargos correspondientes, en los siguientes casos:
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 I.- Si al comenzar un período los integrantes del Ayuntamiento electo no se presentan a tomar posesión de su encargo;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 II.- Cuando no se hayan celebrado elecciones;
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 III.- Cuando las elecciones se hubieran anulado;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 IV.- Cuando ninguna planilla hubiese sido declarada electa, una vez efectuada la segunda votación a que se refiere el artículo 35 de la presente Constitución; y
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 V.- Cuando por cualquier otra causa no logre integrarse legalmente el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 1999)</small>
+
+En todos los casos señalados en este artículo, invariablemente si el supuesto se da dentro del primer año del período constitucional correspondiente, el Consejo Estatal Electoral deberá convocar a la elección extraordinaria de Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2012,3 +2032,15 @@ OCTAVO.- Los procesos de referéndum a que se refiere el artículo 38 sólo podr
 NOVENO.- Los nombramientos de los magistrados de la Sala de Primera Instancia del Tribunal Estatal de lo Contencioso Electoral, quedarán sin efecto a partir de la entrada en vigor del presente Decreto.
 
 DECIMO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo cumplimiento a lo establecido en el artículo 120 de la Constitución Política del Estado que se reforma.
+
+P.O. 29 DE SEPTIEMBRE DE 1999.
+
+DECRETO NUMERO 364.
+
+UNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 1999.
+
+DECRETO NUMERO 365.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
