@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2003-12-26"
+last_updated: "2004-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -149,9 +149,9 @@ Se tendrá como base del impuesto:
 
 I.- El valor catastral del predio y de las construcciones, apartamento o local en condominio, los del régimen de tiempo compartido y multipropiedad, determinado por la autoridad catastral municipal de acuerdo con los lineamientos previstos por la Ley de Catastro Municipal, el Reglamento de Catastro Municipal y el Manual de Valuación Catastral de los Municipios.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
-II.- El valor de operación, en caso de que el predio sea objeto de contrato, convenio o de algún acto jurídico y siempre que el valor resulte superior al valor registrado o determinado conforme a la fracción anterior.
+II.- El valor de operación, en caso de que el predio sea objeto de contrato, convenio o de algún acto jurídico y siempre que el valor resulte superior al valor registrado o determinado conforme a la fracción anterior; salvo en los casos traslativos de dominio donde el bien inmueble sea para vivienda de interés social, la base del impuesto será el valor catastral determinado, y
 
 III.- El valor fiscal registrado en los padrones de contribuyentes.
 
@@ -175,15 +175,15 @@ c) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2000)
 
 La base modificada surtirá efectos:
 
-I.- A partir del bimestre siguiente a aquel en que se produzca el hecho, acto o contrato que le dé origen.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+I.- A partir del bimestre siguiente al hecho, acto o contrato que le dé origen;
 
-II.- A partir del bimestre siguiente al en que se notifique nuevo avalúo cuando éste sea efectuado por haber transcurrido el plazo de un año en predios urbanos y rústicos.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+II.- A partir del bimestre siguiente en que se notifique nuevo avalúo, y
 
-III.- A partir del bimestre siguiente al en que se modifique nuevo avalúo cuando éste sea efectuado por haber transcurrido el plazo de un año en predios urbanos y rústicos.
+III.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -233,11 +233,11 @@ Los beneficiarios de las exenciones deberán manifestar a la misma autoridad cua
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1988)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 14.
 
-La Tesorería Municipal determinará el monto del impuesto a pagar de conformidad con el avalúo catastral determinado del bien inmueble y con la aplicación a la tarifa que al efecto establezca la Ley de Ingresos de los Municipios.
+La Tesorería Municipal determinará el monto del impuesto a pagar de conformidad con el avalúo catastral determinado del bien inmueble y con aplicación de la tasa que al efecto establezca la Ley de Ingresos Municipal respectiva.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -427,17 +427,13 @@ La base del impuesto será:
 
 I.- Tratándose de bienes inmuebles:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
-a) El valor que resulte de actualizar el precio pactado por el factor que se obtenga de dividir el índice Nacional de Precios al Consumidor del mes inmediato anterior a aquel que sea exigible el pago entre el mencionado índice correspondiente al mes anterior a aquel en que se efectuó la adquisición o el valor conforme avalúo con fines fiscales elaborado por peritos valuadores y autorizados por la Secretaría de Finanzas y Administración del Gobierno del Estado, catastral o de operación el que resulte más alto.
+a) El valor más alto que resulte de considerar entre el avalúo catastral, el avalúo con fines fiscales elaborado por peritos valuadores, autorizados por la Secretaría de Finanzas y Administración del Gobierno del Estado y el valor de operación.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
-Tratándose de bienes inmuebles adquiridos con créditos de interés social, Fondo de la Vivienda del Banco de México, o construidos por créditos de INFONAVIT, FOVISSSTE, FONHAPO, Banco Nacional del Ejército y de la Armada o Instituciones similares, Federales, Estatales o Municipales, la reducción será de ocho veces el salario mínimo general, elevado al año, de la zona económica en la que se encuentre ubicado el inmueble.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-a) BIS. El valor del inmueble podrá ser el valor de adquisición del mismo, disminuído con el valor que se tomó como base para calcular el impuesto en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto de referencia, caso contrario, se estará a lo dispuesto por el inciso A) de esta fracción.
+a) BIS. (DEROGADO, P.O. 24 DE DICIEMBRE DE 2004)
 
 b) El 50 por ciento del valor determinado conforme al inciso a) cuando se transmita la nuda propiedad. El 50 por ciento restante, se pagará al ser transmitido el usufructo.
 
@@ -447,21 +443,23 @@ d) En los casos de transmisión por herencia, el valor determinado conforme al i
 
 e) Tratándose de cesión de derechos hereditarios o disolución de copropiedad el valor de la parte proporcional del bien o bienes que corresponda a los derechos que se transmitan o en que se incrementen las correspondientes porciones de los copropietarios, o coherederos, determinado de acuerdo con lo señalado en el inciso a) de esta Fracción.
 
-f) En los casos de prescripción positiva, será el valor más alto que resulte entre el avalúo catastral y el bancario en su caso.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2004)</small>
+
+f) En los casos de prescripción positiva, será el valor más alto que resulte entre el avalúo catastral y el avalúo con fines fiscales en su caso.
 
 > <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1991)</small>
 
 II.- En caso de reducción de capital, disolución o liquidación de las Sociedades a que se refiere el artículo 1o. de la Ley General de Sociedades Mercantiles, el impuesto gravitará sobre el exceso de los bienes inmuebles distintos a los aportados o sobre el exceso de la aportación si el pago se hace en numerario.
 
-Cuando del inmueble formen parte departamentos habitacionales o locales comerciales la reducción del salario mínimo se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
-Para efectuar la reducción a que se refiere este artículo se aplicará el salario mínimo correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el artículo 28.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 31.
 
-El impuesto se causará y pagará aplicando la tasa de hasta el 2% sobre la base determinada por esta Ley.
+El impuesto se causará y pagará aplicando la tasa que se determine en la Ley de Ingresos Municipal respectiva, misma que no rebasará el 2% sobre la base determinada para el efecto.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -487,9 +485,9 @@ Tratándose de operaciones con inmuebles se acompañarán con el aviso los sigui
 
 a) Deslinde catastral con superficie, medidas y colindancias, así como el valor catastral respectivo determinado por las autoridades catastrales, mismas que aplicarán los valores unitarios de suelo y construcciones vigentes en la fecha de operación.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
-b) Avalúo con fines fiscales elaborado por perito valuador y autorizado por la Secretaría de Finanzas y Administración del Estado, a excepción de las adquisiciones a través de créditos hipotecarios y dación en pago, que podrá ser avalúo bancario.
+b) Avalúo con fines fiscales elaborado por perito valuador autorizado por la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
 c) Certificado de no adeudo predial.
 
@@ -787,9 +785,11 @@ La dependencia, funcionario o empleado que presten el servicio por el cual se pa
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable de su pago, sin perjuicio de las sanciones que procedan y destitución de su cargo sin responsabilidad para el municipio.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 57.
 
-Están exentos del pago de derechos, la Federación, el Estado y los Municipios, salvo disposición expresa en contrario.
+Todas las personas físicas y morales, públicas o privadas, están obligadas al pago de derechos municipales. Unicamente los Municipios del Estado estarán exentos del pago de esta contribución; así como las personas que esta Ley exente de manera expresa.
 
 #### SECCION SEGUNDA. Derechos de cooperación para obras públicas
 
@@ -1624,3 +1624,9 @@ El presente Decreto entrará en vigor el día primero de enero de 2001.
 P.O. 26 DE DICIEMBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2004.
+
+Primero.- El presente Decreto entrará en vigor el día primero de enero del año dos mil cinco.
+
+Segundo.- Publíquese el presente en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
