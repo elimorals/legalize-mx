@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-13127"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-11-12"
-last_updated: "2000-08-16"
+last_updated: "2000-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial, el día 12 de Noviembre de 1997.
 
@@ -387,9 +387,11 @@ El Presidente y el Vicepresidente durarán en su ejercicio un mes y no podrán s
 
 El Presidente de la mesa directiva, hará respetar el fuero constitucional de los diputados y velará por la inviolabilidad del recinto parlamentario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 27.
 
-Son atribuciones del presidente de la mesa directiva:
+Son atribuciones del Presidente de la Mesa Directiva:
 
 a) Presidir las sesiones del Congreso.
 
@@ -432,6 +434,10 @@ s) Designar las comisiones de cortesía que considere pertinentes.
 t) Dar contestación al informe del titular del ejecutivo estatal cuando éste le de lectura ante el pleno.
 
 u) Las demás que se deriven de esta Ley, su reglamento y de las disposiciones o acuerdos que emita el Congreso.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+v).- Representar o en su caso designar al servidor público que intervenga a nombre del Gobierno del Estado, en los actos cívicos u oficiales cuando le corresponda al Congreso del Estado.
 
 ###### ARTICULO 28.
 
@@ -493,11 +499,11 @@ b) Los diputados cuyo partido político no integren grupo parlamentario y estén
 
 Por cada diputado con representación en esta comisión habrá un suplente.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 34.
 
-La Comisión se conformará por un Presidente, un Secretario y los Vocales a que haya lugar; mismos que serán designados por sus integrantes, quienes durarán en el cargo seis meses, presidiendo la Comisión de manera rotativa entre los diferentes grupos parlamentarios; pasando este tiempo el Presidente pasará a ser Vocal y el Vocal ocupará la Secretaria de dicha Comisión.
+La Comisión se conformará por un Presidente, un Secretario y los Vocales a que haya lugar; mismos que serán designados por el voto de la mayoría de sus integrantes, quienes durarán en el cargo seis meses, presidiendo la Comisión de manera rotativa entre los diferentes grupos parlamentarios; pasando este tiempo el Presidente pasará a ser Vocal y el Vocal ocupará la Secretaria de dicha Comisión.
 
 ###### ARTICULO 35.
 
@@ -506,6 +512,8 @@ La Comisión quedará constituida en la sesión de instalación de la legislatur
 ###### ARTICULO 36.
 
 La Comisión de Régimen Interno y Concertación Política deberá reunirse cuando menos una vez al mes; las convocatorias serán emitidas por su presidente, a iniciativa propia o a solicitud de uno o más coordinadores de los grupos parlamentarios.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 37.
 
@@ -529,9 +537,9 @@ e) Recibir de las dependencias del Congreso sus propuestas de presupuesto para l
 
 f) Proponer al pleno del Congreso a los integrantes de las Comisiones Permanentes y Especiales, y en su caso, nombrar a quienes los sustituyan cuando así proceda.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-g) Proponer al pleno la designación del Contador Mayor de Hacienda, Oficial Mayor, Tesorero y Director del Instituto de Investigaciones Legislativas del Congreso del Estado. Para el caso del Contador Mayor de Hacienda, será propuesto por el Grupo Parlamentario que ocupe el segundo lugar en el número de Legisladores; para el caso del Oficial Mayor será propuesto por el Grupo Parlamentario que ocupe el Tercer lugar en el número de Legisladores; para el caso del Tesorero será propuesto por el Grupo Parlamentario con mayor número de Legisladores en el Congreso; para el caso del Director del Instituto de Investigaciones Legislativas será propuesto por consenso de los integrantes de la Comisión de Régimen Interno y Concertación Política;
+g) Designar, por mayoría de votos de los Diputados que la integran, al Tesorero, Contador Mayor de Hacienda y Oficial Mayor. Para el caso del Tesorero será propuesto por el Grupo Parlamentario con mayor número de Legisladores en el Congreso; para el caso del Contador Mayor de Hacienda, será propuesto por el Grupo Parlamentario que ocupe el segundo lugar en el número de Legisladores; para el caso del Oficial Mayor será propuesto por el Grupo Parlamentario que ocupe el Tercer lugar en el número de Legisladores; para el caso del Director del Instituto de Investigaciones Legislativas será designado por consenso de los integrantes de la Comisión de Régimen Interno y Concertación Política;
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -573,11 +581,11 @@ Se denominarán comisiones ordinarias, las que se constituyan con carácter defi
 
 Las comisiones especiales serán aquellas que se establezcan de manera transitoria, funcionaran en términos de las facultades que el Congreso les otorgue y conocerán específicamente de los hechos que hayan motivado su conformación.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 41.
 
-Las Comisiones se integrarán de manera plural por tres diputados de los diferentes grupos parlamentarios, uno fungirá como Presidente, otro como Secretario y el tercero como Vocal; la Presidencia de la Comisión de Hacienda, Presupuesto y Cuenta Pública será a propuesta del grupo parlamentario que ocupe el segundo lugar en número de Diputados; la Presidencia de la Comisión de Puntos Constitucionales y Legislación será a propuesta del grupo parlamentario que ocupe el tercer lugar en número de Diputados; el resto de las Comisiones será a propuesta de la Comisión de Régimen Interno y Concertación Política, debiendo quedar constituidas en la tercera sesión del inicio de la Legislatura.
+Las Comisiones se integrarán de manera plural por tres diputados de los diferentes grupos parlamentarios, uno fungirá como Presidente, otro como Secretario y el tercero como Vocal; la Presidencia de la Comisión de Gobernación y Gran Jurado será a propuesta del grupo parlamentario que tenga el mayor número de Diputados; la Presidencia de la Comisión de Hacienda, Presupuesto y Cuenta Pública será a propuesta del grupo parlamentario que ocupe el segundo lugar en número de Diputados; la Presidencia de la Comisión de Puntos Constitucionales y Legislación será a propuesta del grupo parlamentario que ocupe el tercer lugar en número de Diputados; el resto de las Comisiones será a propuesta de la Comisión de Régimen Interno y Concertación Política, debiendo quedar constituidas en la tercera sesión del inicio de la Legislatura.
 
 ###### ARTICULO 42.
 
@@ -843,6 +851,8 @@ c) Coadyuvar con las políticas y programas educativos sobre ecología y preserv
 
 ### CAPITULO I. DE LOS ORGANOS ADMINISTRATIVOS DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 61.
 
 En la última sesión de cada periodo ordinario, el Congreso nombrará por escrutinio secreto y mayoría de votos, una Diputación Permanente, conforme a lo dispuesto por el artículo 53 de la Constitución Política del Estado y tendrá las atribuciones que le confieren los artículos 54, 55 y 56 de la misma.
@@ -871,15 +881,21 @@ Los Grupos Parlamentarios se tendrán por constituidos, cuando presenten ante la
 
 Cualquier modificación a la estructura original de los grupos Parlamentarios, deberá hacerse del conocimiento de la Mesa Directiva, quien dará cuenta de ello al pleno.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 66.
 
-Los recursos económicos de que dispondrán los Grupos Parlamentarios del Congreso, serán del 10% del total del presupuesto anual del Poder Legislativo, mismos que se asignarán mensualmente de la siguiente forma:
+Los recursos económicos de que dispondrán los Grupos Parlamentarios del Congreso, serán del 15% del total del presupuesto anual del Poder Legislativo, mismos que se asignarán mensualmente de la siguiente forma:
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 A) 60% en forma igualitaria a todos los grupos parlamentarios;
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
 B) 40% en relación al número de curules obtenidos en el Congreso.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 Los recursos humanos de asesoría y apoyo técnico y administrativo se asignarán de manera proporcional a cada grupo parlamentario. Los espacios físicos se asignarán de acuerdo al número de diputados con los que cuente cada grupo parlamentario o fracción en el Congreso.
 
@@ -889,19 +905,23 @@ Los recursos humanos de asesoría y apoyo técnico y administrativo se asignará
 
 Para su funcionamiento el Congreso contará con los Órganos siguientes:
 
-1. Contaduría Mayor de Hacienda
+1.- Contaduría Mayor de Hacienda;
 
-2. Oficialía Mayor
+2.- Oficialía Mayor;
 
-3. Tesorería
+3.- Tesorería;
 
-4. Instituto de Investigaciones Legislativas
+4.- Instituto de Investigaciones Legislativas;
 
-5. Direcciones, departamentos, unidades administrativas y técnicas.
+5.- Dirección de Radio, Televisión y Comunicación; y
+
+6.- Direcciones, departamentos, unidades administrativas y técnicas necesarias para su función;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 68.
 
-Para ocupar el cargo de Oficial Mayor, Tesorero, y Director del Instituto de Investigaciones Legislativas se requiere:
+Para ocupar el cargo de Oficial Mayor, Tesorero, Director del Instituto de Investigaciones Legislativas y Director de Radio, Televisión y Comunicación, se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos.
 
@@ -965,9 +985,7 @@ k)Apoyar a los Secretarios, durante las sesiones, para verificar el quórum, có
 
 l)Preparar los elementos necesarios para celebrar la sesión de instalación de cada nueva Legislatura, en los términos previstos en esta Ley;
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
-
-m) Administrar los servicios del archivo, que comprende los de formación, clasificación y custodia de expedientes del Pleno y las Comisiones; y desahogo de las consultas y apoyo documental a los órganos de la Cámara y a los Legisladores;
+m) (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2000)
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1009,25 +1027,55 @@ f)Pagar los sueldos y salarios a los trabajadores y empleados del Congreso del E
 
 g)Las demás que la presente Ley y su reglamento señalen.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTÍCULO 75.
 
-El Instituto de Investigaciones Legislativas depende del Congreso y apoyará la función legislativa del Congreso.
+El Instituto de Investigaciones Legislativas depende del Congreso y apoyará su función legislativa y parlamentaria.
 
 Para su funcionamiento, el Instituto contará con un Director General.
 
 Son atribuciones de Instituto:
 
-a) Realizar investigaciones documentales y de campo relacionadas con la materia legislativa.
+I.- Realizar investigaciones documentales y de campo relacionadas con la materia legislativa;
 
-b) Editar publicaciones que contribuyan a la divulgación de estudios y legislativos.
+II.- Editar publicaciones que contribuyan a la divulgación de estudios y asuntos legislativos o parlamentarios;
 
-c) Organizar y conservar el centro de informática jurídica del Congreso.
+III.- Organizar y conservar el centro de informática jurídica del congreso;
 
-d) Organizar e incrementar el acervo bibliográfico de la biblioteca del Congreso del Estado.
+IV.- Organizar, administrar y conservar el archivo histórico del Congreso del Estado referente a todo el producto legislativo y parlamentario de cada legislatura;
 
-e) Asesorar y apoyar a las comisiones de trabajo cuando estas lo soliciten.
+V.- Asesorar y apoyar a las comisiones de trabajo cuando estas lo soliciten, y
 
-f) Las demás que se deriven de esta ley y su reglamento le confieran.
+VI.- Las demás que se deriven de esta Ley y que su Reglamento le confieran.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+###### ARTÍCULO 76.
+
+Son atribuciones del Director de Radio, Televisión y Comunicación del Congreso del Estado las siguientes:
+
+I.- Operar y administrar las estaciones de radio y televisión a cargo del Congreso;
+
+II.- Acordar con la Comisión de Régimen Interno y Concertación Política los planes y programas de trabajo que se requieran;
+
+III.- Celebrar con la aprobación de la Comisión de Régimen Interno y Concertación Política los convenios de cooperación, coproducción e intercambio con las dependencias y entidades de la Federación, del Estado y de los Municipios de la entidad o instituciones culturales y de educación superior, para difundir programas y acciones que favorezcan el desarrollo del Estado de Morelos, así como los que se requieran con empresas de radio y de televisión nacionales y extranjeras en los términos de la Ley Federal de Radio y Televisión;
+
+IV.- Procurar la participación de la población del Estado para que la producción y transmisión que genere o auspicie, tenga un contenido eminentemente democrático y popular;
+
+V.- Apoyar, como instrumento de divulgación, los programas y acciones del Comité de Planeación para el Desarrollo del Estado de Morelos;
+
+VI.- Celebrar por acuerdo de la Comisión de Régimen Interno y Concertación Política, convenios con los sectores social y privado de la entidad para auspiciar la producción y transmisión de programas de radio y televisión que informen sobre la potencialidad económica de los distintos sectores de la población como forma de propiciar el desarrollo del Estado;
+
+VII.- Promover de forma prioritaria la producción y transmisión de programas de radio y televisión que contribuyan a elevar el nivel de vida de la población del Estado de Morelos;
+
+VIII.- Definir y establecer con acuerdo de la Comisión de Régimen Interno y Concertación Política, los criterios y políticas de los programas radiofónicos y de televisión que difunda el Congreso del Estado;
+
+IX.- Encargarse del área de comunicación social del propio Congreso;
+
+X.- Elaborar y someter a la Consideración de la Comisión de Régimen Interno y Concertación Política su reglamento interior, y
+
+XI.- Las demás que se deriven de la presente ley, de su reglamento interior o de los acuerdos de la Comisión de Régimen Interno y Concertación Política.
 
 ## TRANSITORIOS
 
@@ -1138,3 +1186,31 @@ La disposición contenida en el artículo 66 de este Decreto, iniciará su vigen
 ###### ARTICULO TERCERO.
 
 Para efectos de su divulgación, publíquese en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 1 DE SEPTIEMBRE DE 2000.
+
+DECRETO 1196
+
+PRIMERO.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ejecutivo para los efectos de su promulgación y publicación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, denominado "Tierra y Libertad" órgano de difusión del Estado.
+
+P.O. 1 DE SEPTIEMBRE DE 2000.
+
+DECRETO 1217
+
+PRIMERO.- EL presente Decreto iniciará su vigencia al día siguiente de que dé inició la reforma constitucional que transfiere al Congreso del Estado el sistema Morelense de Radio y Televisión.
+
+SEGUNDO.- La Dirección de Radio, Televisión y Comunicación deberá elaborar su reglamento interior en un plazo máximo de 60 días.
+
+TERCERO.- En el presupuesto de egresos del año 2001, deberán establecerse de forma específica la partida presupuestal que le corresponde a la Dirección de Radio, Televisión y Comunicación y de los demás órganos que auxilien la función del Congreso del Estado.
+
+CUARTO.- Iniciada la vigencia a que se refiere el Artículo Primero Transitorio del presente Decreto, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 1 DE SEPTIEMBRE DE 2000.
+
+DECRETO 1222
+
+PRIMERO.- EL presente Decreto, entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
