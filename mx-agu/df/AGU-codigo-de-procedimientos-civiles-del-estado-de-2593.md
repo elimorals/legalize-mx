@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2000-06-19"
+last_updated: "2001-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2001.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -1242,6 +1242,14 @@ Solamente los jueces de lo Civil o de lo Familiar podrán decretar el depósito 
 Presentada la solicitud, el juez hará ordenar su ratificación sin que éste presente el otro cónyuge. Hecha la ratificación, autorizará la separación del marido; o en el caso de la mujer, designará desde luego la persona que haya de encargarse del depósito y trasladándose al domicilio los muebles necesarios para vivir separada, tomando en cuenta si van a vivir a su lado sus hijos, así como su ropa. Si hubiere cuestión sobre cuáles cosas deban entregarse al cónyuge que se separa, el juez, teniendo en cuenta las circunstancias de las personas, resolverá de plano y sin ulterior recurso, las que haya de llevarse el interesado.
 
 La mujer podrá presentar solicitud de depósito verbalmente y si la urgencia del caso amerita, el juez deberá proceder con toda rapidez.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+
+ARTICULO 188 BIS.- El Juez podrá practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución. En el caso de violencia familiar tomará en cuenta los dictámenes, informes y opiniones que hubieren realizado las instituciones públicas o privadas dedicadas a atender asuntos de esta índole.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+
+ARTICULO 188 TER.- El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros.
 
 ###### ARTICULO 189.
 
@@ -5540,3 +5548,7 @@ Tratándose de la prueba pericial en juicios civiles ya iniciados, la reforma s�
 ###### ARTICULO CUARTO.
 
 Si para el ejercicio de un derecho procesal estuviere corriendo un término y el señalado en esta reforma fuere menor que el señalado en el anterior, se observará lo dispuesto en este último.
+
+P.O. 5 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
