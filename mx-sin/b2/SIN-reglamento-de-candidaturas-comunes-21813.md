@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-candidaturas-comunes-21813"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-01"
-last_updated: "2001-08-01"
+last_updated: "2001-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE CANDIDATURAS COMUNES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 1 de agosto de 2001.
 
@@ -51,9 +51,11 @@ Corresponde exclusivamente a los partidos políticos o a las coaliciones el dere
 
 El registro de candidatos comunes se realizará en los plazos establecidos por el artículo 111 de la Ley Electoral del Estado de Sinaloa.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 5.
 
-La solicitud de registro de candidaturas comunes, además de satisfacer los requisitos señalados en el artículo 113 de la Ley Electoral, deberá acompañarse del documento donde se asiente el consentimiento expreso de los partidos o coaliciones que las postulen en el caso de que otro partido o coalición hubiera solicitado previamente el registro del o los mismos candidatos.
+La solicitud de registro de candidaturas comunes, además de satisfacer los requisitos señalados en el artículo 113 de la Ley Electoral, deberá acompañarse del documento donde se asiente el consentimiento expreso de los partidos o coaliciones que las postulen, en el caso de que otro partido o coalición hubiera solicitado previamente el registro del o los mismos candidatos.
 
 ### CAPITULO III. DE LA PERSONALIDAD DE LOS PARTIDOS POLÍTICOS
 
@@ -63,28 +65,36 @@ Los partidos políticos o coaliciones que presenten candidaturas comunes conserv
 
 ### CAPITULO IV. DE LA VALIDEZ DEL VOTO
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 7.
 
-Para determinar la validez o nulidad de los votos en caso de candidaturas comunes, se observarán las reglas que al respecto prevé el artículo 166 de la Ley Electoral del Estado:
+El voto del elector será válido, para el candidato, fórmula, planilla o lista si el elector marca dentro del cuadro o cuadros que comprenda (n) la candidatura común, y pueda desprenderse a simple vista de la boleta, sin ninguna duda, que el elector votó a favor de dicha candidatura común.
 
-I. El voto será válido si el elector pone la marca dentro de uno de los cuadros en que se encuentren comprendidos el nombre del candidato o candidatos y el emblema del partido, de tal modo que de la simple vista se desprenda, de manera indubitable, que votó a favor de determinado candidato o formula.
-
-II. Será nulo cualquier voto emitido en forma distinta a la señalada, y, (sic)
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2001)</small>
 
 ###### ARTICULO 8.
 
-Tratándose de candidaturas comunes de mayoría relativa el voto se sumará para el candidato, y no así para los partidos políticos que lo postularon.
+Tratándose de las candidaturas comunes de mayoría relativa el voto habrá de sumarse tanto a dichos candidatos comunes como al partido político que los postula. En el caso en que el sufragante hubiese cruzado dos o más de los emblemas que aparecen en la boleta electoral el voto será válido para los candidatos comunes.
 
 ###### ARTICULO 9.
 
 Queda estrictamente prohibido sumar o ceder votos obtenidos por un partido, coalición o candidato a favor de partidos, coaliciones o candidatos que no formaron parte del registro común.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 10.
 
-Una vez concluidas las sesiones de escrutinio y cómputo en los Consejos Distritales y Consejos Municipales, dentro del acta circunstanciada de la declaración de validez de la elección y en la constancia de mayoría, se hará constar el total de votos obtenidos por el o los candidatos comunes, sumando los votos de los partidos que los hayan postulado.
+Una vez concluido el escrutinio y cómputo en la casilla deberá consignarse en el acta respectiva el total de los votos obtenidos por el o los candidatos comunes. Igualmente, dentro del acta de cómputo distrital o municipal y en el acta circunstanciada de la declaración de validez de la elección se hará constar la sumatoria de votos obtenidos por cada partido que participa con candidatos comunes más los votos recibidos por si mismos por el o los candidatos comunes.
 
 ## ARTÍCULO TRANSITORIO
 
 UNICO. El presente Reglamento iniciará su vigencia a partir de su publicación en el Periódico Oficial El Estado de Sinaloa.
 
 EL PRESENTE REGLAMENTO FUE ACORDADO POR MAYORÍA DE VOTOS EN LA SESIÓN ORDINARIA DEL 27 DE JULIO DEL PRESENTE AÑO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE AGOSTO DE 2001.
+
+UNICO.- El presente Reglamento iniciará su vigencia a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
