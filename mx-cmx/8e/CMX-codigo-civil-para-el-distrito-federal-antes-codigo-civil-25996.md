@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2000-05-25"
+last_updated: "2002-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ENERO DE 2002.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -3543,13 +3543,25 @@ El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsab
 
 La tutela se desempeñará por el tutor con intervención del curador, del Juez de lo Familiar, del Consejo Local de Tutelas y del Ministerio Público, en los términos establecidos en este Código.
 
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 455.
 
-Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
+La Tutela se ejercerá por un solo tutor, excepto cuando por concurrir circunstancias especiales en la misma persona del pupilo o de su patrimonio, convenga separar como cargos distintos el de tutor de la persona y de los bienes.
+
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 456.
 
-El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela hasta de tres incapaces. Si éstos son hermanos, o son coherederos o legatarios de la misma persona, puede nombrarse un solo tutor y un curador a todos ellos, aunque sean más de tres.
+Las personas físicas podrán desempeñar el cargo de tutor o curador hasta de tres incapaces. Sí estos son hermanos o son coherederos o legatarios de la misma persona, puede nombrarse un solo tutor y curador a todos ellos, aunque sean más de tres.
+
+> <small>(ADICIONADO, G.O. 17 DE ENERO DE 2002)</small>
+
+###### ARTICULO 456 Bis.
+
+Las personas morales que no tengan finalidad lucrativa y cuyo fin primordial sea la protección y atención a las personas a que se refiere el artículo 450, fracción II de este Código, podrán desempeñarse como tutores del número de personas que su capacidad lo permita, siempre que cuenten con el beneplácito de los ascendientes del Pupilo o así lo determine el juicio de interdicción y que la persona sujeta a Tutela carezca de bienes.
+
+Cuando la Tutela se decida por medio de Juicio del Interdicción, (sic) se presentará, por parte de la persona moral, informe anual pormenorizado del desempeño del cargo conferido, ante el Juez, el cual se hará de forma individualizada por cada persona. De igual forma se presentará informe en los casos de Tutela Testamentaria o dativa a los ascendientes del Pupilo.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -3581,9 +3593,13 @@ Los Jueces del Registro Civil, las autoridades administrativas y las judiciales 
 
 La tutela es testamentaria, legítima o dativa.
 
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 462.
 
-Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+Ninguna Tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles del Distrito Federal, el estado y grado de capacidad de la persona que va a quedar sujeta a ella.
+
+Tratándose de mayores de edad a que se refiere el artículo 450, fracción II de este Código, el Juez con base en dos diagnósticos médicos y/o psicológicos, escuchando la opinión de los parientes más cercanos de quien vaya a quedar bajo Tutela, emitirá la sentencia donde se establezcan los actos jurídicos de carácter personalísimo, que podrá realizar por sí mismo, determinándose con ello la extensión y límites de la Tutela.
 
 ###### ARTICULO 463.
 
@@ -3651,11 +3667,25 @@ El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea 
 
 Si fueren varios los menores podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 457.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 475.
 
-El padre o la madre que ejerza la tutela de un hijo sujeto a interdicción, puede nombrarle tutor testamentario si el otro ha fallecido o no puede legalmente ejercer la tutela.
+El ascendiente que ejerza la Tutela de un hijo sujeto a interdicción en los supuestos de la fracción II del artículo 450 de este Código, podrá nombrar tutor testamentario, sí el otro ascendiente ha fallecido o no puede legalmente ejercer la Tutela.
+
+Podrán ser tutores testamentarios las personas morales sin fines de lucro y cuyo objeto primordial sea la protección y atención de las personas con discapacidad intelectual o mental.
+
+> <small>(ADICIONADO, G.O. 17 DE ENERO DE 2002)</small>
+
+###### ARTICULO 475 Bis.
+
+El ascendiente que ejerza la patria potestad o Tutela de una persona a que se refiere el artículo 450, fracción II, de este Código, que se encuentre afectado, por una enfermedad crónica o incurable, o que por razones médicas se presuma que su muerte se encuentra cercana o cierta, podrá sin perder sus derechos, designar un tutor y un curador para el Pupilo, prevaleciendo dicha designación a todas aquellas hechas anteriormente, aún las que se encuentren realizadas en: testamentos anteriores. Dicho tutor entrará en su encargo en cualquiera de los siguientes casos:
+
+a) La muerte del ascendiente,
+
+b) Discapacidad mental del ascendiente, o
+
+c) Debilitamiento físico. En este supuesto será necesario el consentimiento del ascendiente.
 
 ###### ARTICULO 476.
 
@@ -4117,6 +4147,8 @@ El curador y el Consejo Local de Tutelas deberán vigilar el cumplimiento a lo o
 
 ### CAPITULO XIV. Del curador
 
+> <small>(REFORMADO, G.O. 17 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 535.
 
 Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto en el caso del artículo 492.
@@ -4577,9 +4609,11 @@ Si la tutela hubiera fenecido durante la minoridad, el menor podrá ejercitar la
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
 
-###### ARTICULO 618.
+###### Artículo 618.
 
-Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador, excepto en los casos de tutela a que se refieren los artículos 492 y 500.
+Todos los individuos sujetos a Tutela, ya sea testamentaria, legítima o dativa, además de tutor tendrán un curador, excepto en los casos de Tutela a los que se refieren los artículos 492 y 500 de este Código.
+
+La Curatela podrá conferirse a personas morales sin fines de lucro y cuyo objeto primordial sea la protección y atención de las personas a que se refiere el artículo 450, fracción II de este Código. En ningún caso la Tutela y la Curatela podrán recaer en la misma persona.
 
 ###### ARTICULO 619.
 
@@ -13239,7 +13273,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 D.O.F. 11 DE NOVIEMBRE DE 1943.
 
-DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES.
+DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES
 
 ###### ARTICULO 1o.
 
@@ -13333,7 +13367,7 @@ SEGUNDO (sic).- Se derogan las disposiciones legales que se opongan al presente 
 
 D.O.F. 17 DE ENERO DE 1970.
 
-DECRETO QUE REFORMA LOS ARTICULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCION III, 398, 403, 405 FRACCION I Y 406 FRACCIONES I Y II DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+DECRETO QUE REFORMA LOS ARTICULOS 77, 78, 79, 363, 368, 390, 391, 397 FRACCION III, 398, 403, 405 FRACCIÓN I Y 406 FRACCIONES I Y II DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 UNICO.- Este Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
 
@@ -13602,3 +13636,9 @@ G.O. 25 DE MAYO DE 2000.
 Artículo Primero.- El presente Decreto entrará en vigor el primero de junio del año 2000.
 
 Artículo Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 17 DE ENERO DE 2002.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación.
