@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-13565"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-09"
-last_updated: "1987-11-09"
+last_updated: "1991-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TRANSPORTE COLECTIVO "METRORREY"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 9 de noviembre de 1987.
 
@@ -119,6 +119,10 @@ VIII.- Dos Dirigentes de la clase trabajadora. Invariablemente estarán represen
 
 IX.- Tres Representantes designados respectivamente por la Cámara de Comercio, Delegación Nuevo León; por la Cámara de la Industria de Transformación y por el Consejo de las Instituciones.
 
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 1991)</small>
+
+X.- Los C.C. Presidentes Municipales del Area Metropolitana por donde circule el sistema colectivo de transporte METRO.
+
 ###### ARTICULO 6o.
 
 El desempeño de los miembros del Consejo de Administración será honorífico, por lo tanto, no recibirán retribución alguna por los servicios que presten. Por cada miembro propietario se designará un suplente.
@@ -149,7 +153,7 @@ IV.- Proponer en cada caso el orden del día que se deberá desahogar en la sesi
 
 V.- Las demás facultades que le sean expresamente señaladas por el Presidente del Consejo de Administración y por el Reglamento Interior del Organismo.
 
-###### ARTICULO 9o.
+###### Artículo 9o.
 
 El Consejo de Administración se reunirá por lo menos una vez al mes y cuantas veces fuere convocado por el Presidente. El Consejo de Administración funcionará legalmente con la asistencia de la mitad más de uno de sus miembros y sus resoluciones serán validas cuando fueren adoptadas por el voto de la mayoría de los presentes.
 
@@ -236,3 +240,9 @@ LIC. JORGE A. TREVIÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. LUCAS DE LA GARZA GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MAYO DE 1991.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
