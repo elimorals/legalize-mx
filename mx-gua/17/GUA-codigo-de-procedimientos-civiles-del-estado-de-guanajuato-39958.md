@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1989-12-19"
+last_updated: "1991-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 1991.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -1739,7 +1739,9 @@ I.- El documento o documentos que acrediten el carácter con que se presenta en 
 
 II.- El número de copias simples necesario para correr traslado a las demás partes, tanto de la demanda principal o incidental como de los documentos que con ella se acompañen.
 
-No se dará entrada a la promoción si no se acompañan las copias. Esta disposición es aplicable a todos los casos en que haya de correrse traslado de la promoción.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1991)</small>
+
+Si no se adjuntan las copias referidas, se requerirá al promovente para que dentro del término de 3 días presente las omitidas; si no las exhibiere, el Juez o Tribunal que conozca del negocio tendrá por no interpuesta la promoción. Esta disposición es aplicable a todos en que haya que correrse traslado de la promoción.
 
 ###### Art. 283.
 
@@ -4906,6 +4908,12 @@ El presente Decreto entrará en vigor el cuarto día siguiente al de su publicac
 Los Juicios Civiles que hayan sido abiertos a prueba antes de entrar en vigor el presente Decreto, en cuanto al ofrecimiento y desahogo de la prueba pericial se tramitarán conforme a las disposiciones vigentes al haber sido abiertos a prueba.
 
 P.O. 19 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE MARZO DE 1991.
 
 ###### ARTICULO UNICO.
 
