@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-contaduria-mayor-de-hacienda-de-la-13158"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-27"
-last_updated: "1999-01-27"
+last_updated: "1999-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13158&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL D
 
 TEXTO ORIGINAL.
 
-Ley publicada en la Gaceta Oficial del Distrito Federal el 27 de enero de 1999.
+Ley publicada en la Gaceta Oficial del Distrito Federal el 27 de enero de 1999 y republicada el 8 de febrero de 1999.
 
 CUAUHTÉMOC CÁRDENAS SOLÓRZANO, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
 
@@ -533,3 +533,5 @@ QUINTO.- Los trabajadores de la Contaduría no serán afectados en forma alguna 
 SEXTO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a quince de enero de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA.- DIP. ANA LUISA CARDENAS PEREZ, PRESIDENTE.- DIP. RICARDO MOLINA TEODORO, SECRETARIO.- DIP. MARGARITA SALDAÑA HERNANDEZ, SECRETARIA.- FIRMAS.
+
+En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, fracción II inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los cuatro días del mes de febrero de mil novecientos noventa y nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO, FIRMA.- LA SECRETARIA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE FINANZAS, ANTONIO ORTIZ SALINAS.- FIRMA.
