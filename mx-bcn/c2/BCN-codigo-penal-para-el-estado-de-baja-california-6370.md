@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1994-07-08"
+last_updated: "1994-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1994.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -327,27 +327,35 @@ En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de é
 
 Si el Estado no logra el pago de la multa a través del procedimiento económico coactivo se estará a lo dispuesto por el artículo anterior.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### Artículo 32.
 
-Carácter de la Pena.- La reparación del daño que deba ser hecha por el responsable de un delito, tiene el carácter de pena pública.
+Naturaleza de la reparación del daño.- La reparación del daño que deba ser hecha por el responsable de un delito, tiene el carácter de pena pública y será exigible de oficio por el Ministerio Público en el proceso penal, con la intervención que corresponda al ofendido y su representante legal.
 
-Esta será exigible al reo por el ofendido, su representante o el Ministerio Público ante el juez de la causa y se tramitará en forma de incidente o bien el la vía civil en los términos que fije la Ley correspondiente
-
-Cuando la misma reparación sea exigible a terceros, tendrá el carácter de responsabilidad civil y se tramitará conforme a las disposiciones del Código de Procedimientos Penales.
+Cuando la misma reparación sea exigible a terceros, tendrá el carácter de responsabilidad civil y se tramitará en forma incidental, conforme a las disposiciones del Código de Procedimientos Penales.
 
 Cuando la reparación del daño sea cubierta por cualquier vía, su pago excluirá la reclamación por otra diversa.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### Artículo 33.
 
-Formas de la reparación del daño.- La reparación del daño comprende:
+Contenido de la reparación del daño.- La reparación del daño comprende:
 
-I.- La restitución de la cosa obtenida por el delito, con sus frutos y accesiones, y el pago, en su caso, de deterioros y menoscabos. Si la restitución no fuere posible, el pago del precio correspondiente; y
+I.- La restitución de la cosa obtenida por el delito, incluyendo sus frutos y accesiones y, si no fuese posible, el pago de su valor actualizado por el Juez o el ejecutor fiscal al momento en que se realice su liquidación, atendiendo a las pruebas aportadas y a los índices inflacionarios publicados por el Banco de México.
 
-II.- El resarcimiento del daño material y moral causados, así como la indemnización del perjuicio ocasionado.
+Tratándose de bienes fungibles, el juez podrá condenar a la entrega de un objeto igual al que fue materia del delito, sin necesidad de recurrir a la prueba pericial.
+
+II.- La reparación del daño material y la indemnización de los perjuicios derivados directa y racionalmente del delito.
+
+III.- La reparación del daño moral sufrido por la víctima o las personas con derecho a la reparación.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 34.
 
-Reglas para la fijación de la reparación del daño.- La reparación será fijada por los jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas en el proceso, y atendiendo también a la capacidad económica del obligado a pagarla. En caso de lesiones y homicidio y a falta de pruebas específicas respecto el daño causado, los jueces tomarán como base la tabulación de indemnizaciones que fije la Ley Federal del Trabajo y el salario mínimo vigente en la región; esta disposición será aplicable aún cuando el ofendido sea menor de edad o incapacitado.
+Reglas para la fijación de la reparación del daño material.- La reparación será fijada por los jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas recabadas en el proceso, pero la capacidad económica del obligado solo se tomará en cuenta para la reparación del daño moral. En caso de lesiones y homicidio, a falta de pruebas específicas sobre el daño efectivamente causado, los jueces tomarán como base la tabulación prevista en la Ley Federal del Trabajo para estos casos y el salario mínimo legal en la región; esta disposición será aplicable aún cuando el ofendido sea menor de edad, esté incapacitado o no realice trabajo remunerado.
 
 ###### Artículo 35.
 
@@ -355,9 +363,13 @@ Personas con derecho a la reparación del daño.- Tienen derecho a la reparació
 
 I.- El ofendido;
 
-II.- Sus descendientes, cónyuge, concubino o concubina;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-III.- Sus ascendientes;
+II.- A falta de éste, sus dependientes económicos, sean o no herederos; y
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+III.- Los herederos que no hayan dependido del ofendido, en la proporción que señale el derecho sucesorio;
 
 IV.- Sus herederos; y
 
@@ -369,9 +381,11 @@ En caso de concurrencia, serán preferidos en el orden que antecede.
 
 Preferencia al pago de la sanción pecuniaria.- La obligación de pagar el importe de la sanción pecuniaria es preferente y se cubrirá primero que cualquier otra de las obligaciones personales que se hubieren contraído con posterioridad al delito.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### Artículo 37.
 
-Procedencia oficiosa de la reparación del daño.- La reparación del daño proveniente del delito se exigirá de oficio por el Ministerio Público, en los casos en que proceda.
+Ejecución de la garantía otorgada.- Al momento de dictar sentencia, el juez tomará en consideración la caución otorgada para garantizar la reparación del daño, ordenando que se haga efectiva sí el condenado no cubre voluntariamente su importe, en el plazo de quince días a partir de que se declare ejecutoriada la sentencia, o solicita y garantiza su pago en parcialidades ante la misma autoridad judicial.
 
 ###### Artículo 38.
 
@@ -421,17 +435,21 @@ IV.- Los dueños de mecanismos, instrumentos, aparatos, vehículos o substancias
 
 V.- El Estado y los Municipios por los delitos que sus funcionarios o empleados cometan culposamente con motivo o en el desempeño de su servicio.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### Artículo 45.
 
-Subsidiaridad del pago de la reparación del daño.- La reparación del daño podrá exigirse indistinta o conjuntamente al acusado o al tercero obligado.
+Solidaridad del pago de la reparación del daño.- La reparación del daño podrá exigirse en forma solidaria y mancomunada al acusado o al tercero obligado.
 
 ###### Artículo 46.
 
 Terceros con derecho a la reparación del daño.- Además, quienes hubieran erogado gastos que conforme a esta Ley deban ser a cargo del obligado ala (sic) reparación del daño, tendrán derecho a que se les resarzan, así como también los perjuicios derivados de estos gastos.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### Artículo 47.
 
-Aseguramiento oficioso de objetos.- Los automóviles, camiones y otros objetos de uso lícito con que se cometa el delitos, propiedad del acusado se asegurarán de oficio por la autoridad judicial para garantizar el pago de la reparación del daño y solamente se levantará el aseguramiento o no se llevará a cabo si se otorga caución bastante en los términos de ley.
+Aseguramiento oficioso de los instrumentos del delito culposo.- Los automóviles, camiones y otros objetos de uso lícito con que se cometan delitos culposos, si son propiedad del acusado se asegurarán de oficio por el Ministerio Público o la autoridad judicial, según la fase procesal, para garantizar el pago de la reparación del daño, dejándolos en depósito del inculpado, cuando no exista riesgo de ocultamiento o traslado. Solamente podrá negarse el aseguramiento o levantarse, en su caso, si se otorga caución bastante en forma legal.
 
 ### CAPITULO VI. SUSPENSION, PRIVACION E INHABILITACION DE DERECHOS, FUNCIONES O EMPLEOS
 
@@ -943,9 +961,11 @@ III.- Desde el día en que se realizó la última conducta, tratándose de delit
 
 IV.- Desde la cesación de la consumación en el delito permanente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### Artículo 114.
 
-Prescripción de la pretensión punitiva, según el tipo de pena señalada al delito.- La pretensión punitiva prescribirá en un plazo igual al término medio aritmético de la pena privativa que señale la Ley para el delito de que se trate, pero en ningún caso será menor de tres años.
+Prescripción de la pretensión punitiva.- La pretensión punitiva prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad, señalada para el delito de que se trate, pero en ningún caso será menor de tres años ni mayor de quince.
 
 Si el delito sólo mereciere multa, la pretensión punitiva prescribirá en un año.
 
@@ -953,11 +973,13 @@ Si además de la pena de prisión el delito mereciere otra accesoria o una alter
 
 En los demás casos, la pretensión punitiva prescribirá en dos años.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### Artículo 115.
 
-Prescripción de la pretensión punitiva en caso de delito de querella.- La pretensión punitiva que nazca de un delito que sólo pueda perseguirse por querella del ofendido o algún otro acto equivalente, prescribirá en un año, contado a partir del día en que quienes puedan formular la querella o el acto equivalente tengan conocimiento del delito, y en tres, fuera de esta circunstancia.
+Prescripción de la pretensión punitiva en los delitos de querella.- La pretensión punitiva que nazca de un delito que solo pueda perseguirse por querella del ofendido o algún otro acto equivalente, prescribirá en un año desde que el ofendido tenga conocimiento del delito, y en tres, independientemente de esta circunstancia.
 
-Pero si llenado el requisito inicial de la querella o del acto equivalente, ya se hubiese deducido la acción ante los Tribunales, se observarán las reglas señaladas por la Ley para los delitos que se persiguen de oficio.
+Llenado el requisito procesal de la querella o del acto equivalente, se aplicarán las reglas de los delitos perseguibles de oficio.
 
 ###### Artículo 116.
 
@@ -983,19 +1005,19 @@ Lo prevenido en los párrafos anteriores de este artículo no comprende el caso 
 
 Plazos para la prescripción.- Los plazos para la prescripción de la potestad para ejecutar las penas y medidas de seguridad, serán continuos y correrán desde el día siguiente a aquél en que el sentenciado se substraiga a la acción de la justicia, si las penas o medidas de seguridad fueren privativas o restrictivas de la libertad, y si no lo son desde la fecha de la sentencia ejecutoria.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### Artículo 120.
 
-Lapso de prescripción de la potestad de ejecutar las diversas penas.- La potestad para ejecutar la pena privativa de libertad prescribirá en un lapso igual al fijado en la sentencia, pero no podrá ser inferior a tres años.
+Prescripción de la facultad para ejecutar las penas y las medidas de seguridad.- La potestad para ejecutar la pena privativa de libertad, prescribirá en un lapso igual al fijado en la sentencia, pero no podrá ser inferior a tres años.
 
-Cuando se hubiere cumplido parte de la pena privativa de la libertad, se necesitará para la prescripción un tiempo igual al que falte para el cumplimiento de la condena, tomando en cuenta los límites fijados en el párrafo anterior.
+Cuando se hubiese cumplido parte de la pena privativa de la libertad, se necesitará para la prescripción el mismo tiempo que falte para el cumplimiento de la pena, que no será menor a tres años. La prescripción de la pena de prisión correrá desde que el condenado se evada.
 
-La potestad para ejecutar la pena de multa prescribirá en un año; la de las demás sanciones prescribirán en un plazo igual al que deberían durar, sin que pueda ser inferior a dos años; y las que no tengan temporalidad, prescribirán en dos años. Los plazos serán contados a partir de la fecha en que el sentenciado se sustraiga a la acción de la justicia.
+La multa prescribirá en un año y la reparación del daño en cinco, a partir de que se declare ejecutoriada la sentencia. Las demás penas que no tengan temporalidad prescribirán en dos años, a partir de la sentencia firme.
 
-Cuando se imponga una medida de seguridad conjuntamente con una pena privativa de libertad, el plazo para la prescripción de la potestad de ejecutarla será igual a la que corresponda a la pena.
+La suspensión de derechos y cualquier otra pena o medida de seguridad determinadas en función de tiempo, prescribirá en el plazo señalado en la sentencia, a partir de que el individuo recupere su libertad por cualquier causa legal. Cuando no vaya acompañada de la pena de prisión, la prescripción se contará a partir de la sentencia ejecutoriada.
 
-Tratándose de inimputables la potestad de ejecutar la mediada de seguridad prescribirá en un plazo igual al que corresponda a la pena.
-
-Las demás medidas de seguridad prescribirán en un lapso de tres años.
+Las medidas de seguridad aplicables a inimputables, prescribirán en un plazo igual al máximo de la pena prevista para el delito. Las demás medidas de seguridad prescribirán en tres años contados a partir de la sentencia firme.
 
 ###### Artículo 121.
 
@@ -1577,6 +1599,10 @@ II.- De dos a cuatro años de prisión y de cien a doscientos días multa, cuand
 
 III.- De cuatro a doce años de prisión y de doscientos hasta quinientos días multa, cuando el valor de lo robado exceda de quinientas veces el salario.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+Cuando el valor de lo robado no exceda de 40 días de salario mínimo y se trate de un delincuente primario, que haya admitido su responsabilidad durante la averiguación previa y restituya el objeto materia del delito o su importe, el Ministerio Público suspenderá el ejercicio de la acción penal, siempre que el inculpado no haya empleado violencia sobre las personas y no se trate de las hipótesis previstas en el artículo 208 fracciones I y II de este Código, apercibiéndole formalmente, dejando constancia, de que en caso de cometer un nuevo robo dentro del término de tres años, se ejercitará acción penal por éste y el último delito cometido.
+
 ###### Artículo 202.
 
 Cuantía indeterminada.- Para estimar la cuantía del robo se estará únicamente al valor intrínseco del objeto del apoderamiento; pero si por alguna circunstancia no fuere estimable en dinero, o si por su naturaleza no fuere posible fijar su valor, se aplicará prisión de tres días hasta cinco años.
@@ -1735,6 +1761,10 @@ Es aplicable a lo dispuesto en esta fracción lo determinado en los párrafos se
 
 Las instituciones y organismos auxiliares de crédito, las de fianza y las de seguros, así como los organismos oficiales y descentralizados autorizados legalmente para operar con inmuebles, quedan exceptuadas de las obligaciones de constituir el depósito a que se refiere la fracción VIII.
 
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+X.- Al fiador que habiendo garantizado la libertad caucional de un inculpado, caiga deliberadamente en insolvencia para impedir que se haga efectiva la caución, a raíz de la revocación del beneficio.
+
 ###### Artículo 220.
 
 Fraude equiparado.- Se equipara al fraude el que por sí o por interpósita persona, cause perjuicio público o privado al fraccionar y transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, propio o ajeno con o sin construcciones, sin el previo permiso de las autoridades administrativas competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en el señalados. Este delito se sancionará aún en el caso de falta de pago total o parcial.
@@ -1819,11 +1849,11 @@ V.- Montes, bosques, pastos, o cultivos de cualquier género.
 
 Acumulación.- Si además de los daños directos resulta consumado algún otro delito, se aplicarán las reglas de la acumulación.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### Artículo 231.
 
-Daño culposo.- También es punible el daño causado culposamente.
-
-Cuando se cometa con motivo de tránsito de vehículos se perseguirá por querella de parte, salvo cuando el conductor se encuentre en cualquiera de los casos de excepción que precisa el artículo 144 fracción II de este Código.
+Daño culposo.- También es punible el daño culposo, pero solo se perseguirá a querella de parte, a no ser que se trate de daños producidos por tránsito de vehículos y el conductor se encuentre en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o cualquier substancia de efectos similares.
 
 ### CAPITULO III. PROVOCACION DE UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
 
@@ -1860,6 +1890,8 @@ No se impondrá pena alguna o se dejará de aplicar la impuesta, cuando el oblig
 Insolvencia dolosa para cumplir las obligaciones alimentarias.- Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la Ley determina, se le impondrá prisión de seis meses a tres años. El Juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
 
 ### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULO
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 237.
 
@@ -2029,11 +2061,17 @@ Pena adicional para el delito cometido por medio de vehículo, motor o maquinari
 
 ###### Artículo 255.
 
-Tipo y punibilidad.- A quien maneje un vehículo de motor, en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras substancias que impidan o perturben su adecuada conducción, se le impondrá de tres días a un año de prisión y hasta cuarenta días multa y la medida de tratamiento que proceda según el caso.
+Tipo y punibilidad.- A quien maneje un vehículo de motor en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, no será castigado la primera vez cuando no haya provocado daño en las personas o en las cosas, pero el Ministerio Público le apercibirá formalmente, dejando constancia, de que si incurre nuevamente en este ilícito dentro del plazo de un año, será consignado a la autoridad judicial.
+
+> <small>(F. DE E., P.O. 23 DE SEPTIEMBRE DE 1994)</small>
+
+Cuando se cause daño a las personas o a las cosas o si dentro de este plazo, contado a partir del apercibimiento, el sujeto incurre en la misma conducta prevista en el párrafo anterior, se le impondrá prisión de seis meses a dos años seis meses, multa de cincuenta a trescientos veces el salario mínimo y suspensión hasta por seis meses del derecho a conducir vehículos de motor.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 256.
 
-Agravación de la punibilidad.- Si este delito se comete por conductores de vehículos de transporte escolar o de servicio público de pasajeros o de carga, al prestar el servicio, se impondrá de seis meses a dos años de prisión o trabajo en favor de la comunidad de tres a seis meses, sin perjuicio de la medida de tratamiento que proceda.
+Agravación de la pena.- Si el delito se comete por conductores de vehículos destinados al transporte escolar o al servicio público de pasajeros o de carga, se impondrá, la primera vez, de uno a tres años de prisión, multa de cincuenta a trescientos días y suspensión de uno a seis meses en el ejercicio de esta profesión. En caso de que el mismo conductor vuelva a incurrir en la comisión de este ilícito, dentro del plazo de un año contado a partir de que se cumpla la suspensión, la pena será de dos a cinco años de prisión, multa de cien a quinientos veces el salario mínimo y pérdida definitiva del derecho a ejercer la profesión de conductor, además del decomiso del vehículo cuando sea propiedad del responsable.
 
 ### CAPITULO VIII. ULTRAJES A INSIGNIAS PUBLICAS
 
@@ -2299,6 +2337,8 @@ Abandono de funciones.- Las mismas penas del artículo anterior se impondrán al
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
 ###### Artículo 292.
 
 Punibilidad.- Al que cometa el delito de abuso de autoridad se le impondrán de dos a ocho años de prisión y hasta cuatrocientos días multa.
@@ -2539,7 +2579,7 @@ II.- Al que, para eludir la práctica de una diligencia judicial o una notificac
 
 ###### Artículo 323.
 
-Tipos y sanción.- Se impondrá de uno a tres años de prisión y hasta cien días multa, a los funcionarios empleados o auxiliares de la administración de justicia que cometan alguno de los delitos siguientes:
+Tipos y sanciones principales.- Se aplicará de uno a seis años de prisión y hasta cien días multa, a cualquier servidor público que cometa alguno de los siguientes delitos en contra de la Administración de Justicia:
 
 I.- Conocer de negocios para los cuales tengan impedimento legal o abstenerse de conocer de los que les corresponda, sin tener impedimento legal para ello;
 
@@ -2553,11 +2593,45 @@ V.- Dictar u omitir una resolución de fondo un acto de trámite, violando algú
 
 VI.- Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a alguien una ventaja indebida;
 
-VII.- Retardar o entorpecer dolosamente la administración de justicia.
+VII.- Retardar o entorpecer dolosamente la administración de justicia;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+VIII.- Detener a un individuo durante la averiguación previa fuera de los casos de flagrancia y urgencia administrativa, o no ponerlo a disposición del Ministerio Público en forma inmediata;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+IX.- Prolongar la detención por más de cuarenta y ocho horas o el doble, si se trata de crimen organizado, de una persona sometida a averiguación previa, sin hacer la consignación a la autoridad judicial o dejarla en libertad, según proceda;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+X.- No poner a disposición de la autoridad judicial al indiciado, inmediatamente después de ejecutada una orden de aprehensión, o realizar ésta mediante violencia o maltrato innecesario;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+XI.- Ordenar la aprehensión de un individuo por un delito que no amerite pena de prisión, o no ordenar su libertad decretando la sujeción a proceso, cuando aparezca que el delito merece sanción alternativa o no privativa de libertad;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+XII.- Ordenar la incomunicación de un detenido o negar injustificadamente que su familia o defensor lo visiten;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+XIII.- No dictar auto de formal prisión o de libertad de un detenido, dentro de las setenta y dos horas siguientes a que lo pongan a su disposición, o antes de concluir la ampliación de este término;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+XIV.- Negarse injustificadamente, el custodio penitenciario, a dejar en libertad a un detenido, cuando habiendo transcurrido el término legal para resolver la situación procesal del indiciado, no haya recibido en las siguientes tres horas, copia autorizada del auto de formal prisión;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+
+XV.- Obtener cualquier cantidad o beneficio económico de los internos o sus familiares, a cambio de proporcionarles servicios o cualquier satisfactor de los que otorga gratuitamente el Estado a las personas privadas de libertad, o algún tipo de privilegio penitenciario.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 324.
 
-Extensión a todos los servidores públicos.- Las disposiciones anteriores se aplicarán a todos los funcionarios o empleados de la administración pública, cuando en el ejercicio de su encargo ejecute los hechos o incurran en las omisiones expresadas en los propios artículos.
+Suspensión y privación de funciones públicas.- Los servidores públicos que incurran en cualquiera de los delitos previstos en el artículo anterior, serán suspendidos en sus funciones por el término de uno a tres años. En caso de reincidencia, serán privados definitivamente del derecho a ejercer cualquier función pública.
 
 ###### Artículo 325.
 
@@ -2998,3 +3072,9 @@ P.O. 8 DE JULIO DE 1994.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 1994.
+
+PRIMERO.- Las presentes Reformas y Adiciones al Código Penal y de Procedimientos Penales entrarán en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
