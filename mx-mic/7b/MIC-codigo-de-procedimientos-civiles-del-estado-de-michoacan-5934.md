@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1953-04-06"
+last_updated: "1953-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1953.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -7111,9 +7111,15 @@ El que trate de reconocer a un hijo natural por el medio establecido en la fracc
 
 De las diligencias a que se refiere el artículo anterior se levantará el acta correspondiente, la que se archivará después de remitirse testimonio de ella al encargado del Registro Civil, para los efectos del artículo 79 del Código Civil.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 1953.)</small>
+
 ###### Artículo 1393.
 
-(DEROGADO, P.O. 6 DE ABRIL DE 1953)
+La información testimonial sobre posesión de estado de hijo legítimo a que se refiere el párrafo segundo del artículo 59 del Código Civil, se recibirá con citación del Ministerio Público y de los hermanos o medios hermanos del que pretenda el registro, si los hubiere.
+
+La información comprenderá los hechos a que se refiere el artículo 301 del mismo Código.
+
+Ofrecida y aprobada la información el Juez remitirá testimonio de las diligencias al encargado de la Oficina del Registro Civil para que se haga la inscripción correspondiente.
 
 ###### Artículo 1394.
 
@@ -7652,3 +7658,7 @@ P.O. 6 DE ABRIL DE 1953.
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 24 DE SEPTIEMBRE DE 1953.
+
+Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
