@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-legislativo-del-estado-de-sonora-11847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-06-01"
-last_updated: "1998-06-01"
+last_updated: "2004-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MAYO DE 2004.
 
 Ley publicada en la Segunda Sección del Boletín Oficial del Gobierno del Estado de Sonora, el lunes 1 de junio de 1998.
 
@@ -877,6 +877,10 @@ Estas dependencias tendrán las direcciones y unidades administrativas necesaria
 
 Los titulares de la Oficialía Mayor y Contraloría Interna, así como los directores y subdirectores de dichas dependencias serán nombrados y removidos por el Congreso a propuesta de la Comisión de Régimen Interno y Concertación Política.
 
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2004)</small>
+
+Queda prohibido acordar la entrega en numerario o bienes en especie a diputados o servidores públicos de confianza de primer nivel del Poder Legislativo, a título de bono, indemnización, compensación o cualquier otro concepto semejante o análogo, por motivo de la conclusión anticipada u ordinaria de sus funciones en el Congreso del Estado.
+
 ### CAPITULO II. DE LA OFICIALIA MAYOR
 
 ###### ARTICULO 118.
@@ -1066,3 +1070,9 @@ Con fundamento en el artículo 64, fracción XXXI de la Constitución Política 
 Remítase al Boletín Oficial para su publicación.
 
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 28 de mayo de 1998.- DIPUTADO PRESIDENTE.- C. JUAN MANUEL AVILA FELIX.- RUBRICA.- DIPUTADO SECRETARIO.- C. PATRICIA ALONSO RAMIREZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. VALENTINA RUIZ LIZARRAGA.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 20 DE MAYO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
