@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-contraloria-20017"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-26"
-last_updated: "2001-02-26"
+last_updated: "2001-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE CONTRALORIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el día 26 de febrero de 2001.
 
@@ -43,9 +43,13 @@ Para el ejercicio de las funciones y despacho de los asuntos que le competen, la
 
 I.- Secretario;
 
-II.- Dirección General de Auditoría Gubernamental;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2001)</small>
 
-III.- Dirección General de Inspección y Vigilancia y
+II.- Subsecretario;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2001)</small>
+
+III.- Dirección General de Auditoría Gubernamental;
 
 IV.- Dirección General de Responsabilidades y Situación Patrimonial.
 
@@ -117,13 +121,83 @@ XXIV.- Expedir copias certificadas de los documentos que obran en los archivos d
 
 XXV.- Las demás que otras disposiciones legales vigentes en el Estado expresamente le confieran, así como aquéllas que con el carácter de no delegables les señale el Gobernador del Estado.
 
-### CAPITULO III. DE LAS DIRECCIONES GENERALES
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2001)</small>
+
+### CAPITULO II BIS. DE LAS FUNCIONES DEL SUBSECRETARIO
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2001)</small>
 
 ###### Artículo 7.
 
-Durante las ausencias temporales del Secretario, el despacho y resolución de los asuntos de su competencia, estarán a cargo del Director General de la Dependencia que designe el Gobernador del Estado.
+Al frente de la Subsecretaría de Contraloría habrá un Subsecretario quien se auxiliará de los Directores Generales, Directores y Subdirectores de Area, Encargados de Departamento, así como del personal técnico y administrativo que se determine en el Manual de Organización por acuerdo del Secretario y las necesidades que el servicio requiera siempre y cuando se ajuste al presupuesto autorizado.
 
-### CAPITULO IV. DE LOS ORGANOS DESCONCENTRADOS
+Durante las ausencias temporales del Secretario, el despacho y resolución de los asuntos de su competencia, estarán a cargo del Subsecretario.
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2001)</small>
+
+Artículo 7 BIS.- Corresponde al Subsecretario de Contraloría:
+
+I.- Acordar con el Secretario el despacho de los asuntos que le sean encomendados;
+
+II.- Someter a la aprobación del Secretario los estudios y proyectos que elabore;
+
+III.- Desempeñar y mantener informado al Secretario de las comisiones que le encomiende y por acuerdo expreso, representar a la Secretaría cuando el Titular o el Reglamento lo determine;
+
+IV.- Contribuir a la formulación, ejecución, control y evaluación de los programas a mediano plazo de la Secretaría en la parte que le corresponda;
+
+V.- Coordinar con otros servidores públicos de la Secretaría las labores que le hayan sido encomendadas;
+
+VI.- Suscribir los documentos relativos al ejercicio de sus atribuciones y aquéllos que le sean señalados por delegación o le correspondan por suplencia;
+
+VII.- Proporcionar la información o la cooperación que le sean requeridas por otras Dependencias del Ejecutivo Estatal, previo acuerdo con el Secretario;
+
+VIII.- Dar trámite administrativo a las medidas que procuren el cumplimiento de los preceptos constitucionales por parte del Poder Ejecutivo;
+
+IX.- Diseñar y operar el sistema de control y evaluación Gubernamental, precisando y difundiendo las bases de operación a las Dependencias y Entidades de la Administración Pública Estatal;
+
+X.- Requerir de las Dependencias y Entidades de la Administración Pública Estatal, la información financiera mensual y anual de acuerdo a los lineamientos y formas de presentación previamente establecidas, así como la información estadística necesaria para sus funciones;
+
+XI.- Evaluar las políticas, los planes, los programas y acciones que regulen el funcionamiento del Sistema de Control y Evaluación en las Dependencias y Entidades de la Administración Pública y en su caso proponer las medidas correctivas que procedan;
+
+XII.- Promover medidas que tiendan a incrementar la eficiencia, eficacia y congruencia en el desempeño de acciones de control en las Dependencias y Entidades de la Administración Pública Estatal;
+
+XIII.- Operar los sistemas y mecanismos necesarios para evaluar el cumplimiento de estrategias, objetivos y metas fijadas en los programas de las Dependencias y Entidades de la Administración Pública Estatal, así como los programas contenidos en los convenios y acuerdos de coordinación suscritos con el Gobierno Federal y los Municipios;
+
+XIV.- Evaluar las actividades y políticas públicas de las Dependencias y Entidades de la Administración Pública Estatal, con el objeto de promover la eficiencia en sus operaciones y su congruencia con el Plan Estatal de Desarrollo y los Programas Sectoriales y Regionales que de él se derivan;
+
+XV.- Elaborar los informes de la evaluación global de la Gestión Pública Estatal;
+
+XVI.- Evaluar la planeación, presupuestación, asignación y aplicación de los recursos públicos en los programas de inversión coordinados entre Federación, Estado y Municipios;
+
+XVII.- Diseñar y elaborar el sistema integral de información Gubernamental que permita evaluar el avance y cumplimiento de los objetivos y metas de los programas de las Dependencias y Entidades de la Administración Pública Estatal;
+
+XVIII.- Establecer y supervisar la aplicación de las normas y lineamientos para el funcionamiento, coordinación, información periódica y evaluación de los órganos internos de control de las Dependencias y Entidades de la Administración Pública Estatal y Municipal;
+
+XIX.- Asesorar y apoyar a los órganos internos de control de las Dependencias y Entidades de la Administración Pública Estatal, así como a los órganos municipales de control;
+
+XX.- Fijar los lineamientos que deberán observar las Dependencias y Entidades de la Administración Pública Estatal, en materia de modernización, desarrollo y simplificación administrativa;
+
+XXI.- Formular con la participación que les corresponda a las Dependencias y Entidades de la Administración Pública Estatal, el Programa Estatal de Modernización de la Gestión Pública y el Programa de Simplificación Administrativa, así como evaluar y vigilar su cumplimiento;
+
+XXII.- Proponer al Secretario las bases y lineamientos para la designación de los delegados y comisarios de las Dependencias y Entidades de la Administración Pública Estatal;
+
+XXIII.- Formular en coordinación con las Direcciones Generales de la Secretaría, las bases y criterios para la elaboración de los informes que efectúen los delegados y comisarios e integrar y evaluar los reportes que presenten sobre los resultados de la Gestión Pública Estatal;
+
+XXIV.- Expedir las normas que regulen la integración y funcionamiento de los delegados y comisarios, así como coordinar su actuación y evaluar su desempeño;
+
+XXV.- Diseñar y elaborar las bases de integración y funcionamiento de la Unidad de Control y Evaluación del Comité de Planeación para el Desarrollo del Estado de Hidalgo;
+
+XXVI.- Analizar el contenido de los informes derivados de la práctica de auditorías internas a las Dependencias y Entidades de la Administración Pública del Estado y conforme a los resultados, proponer las acciones que se estimen pertinentes;
+
+XXVII.- Revisar la aplicación de los recursos que la Federación y el Estado transfieran a los Municipios;
+
+XXVIII.- Elaborar programas de capacitación sobre normas y técnicas de auditoría, con el fin de promover la eficiencia y la eficacia en sus funciones;
+
+XXIX.- Expedir las normas que regulen el funcionamiento de los auditores externos y áreas de control interno de las Dependencias y Entidades de la Administración Pública del Estado y
+
+XXX.- Las demás que le confieran el presente Reglamento, otras disposiciones legales vigentes y el Secretario en el ámbito de sus atribuciones.
+
+### CAPITULO III. DE LAS DIRECCIONES GENERALES
 
 ###### Artículo 8.
 
@@ -201,43 +275,7 @@ XVI.- Las demás que le confiera el presente Reglamento, otras disposiciones leg
 
 ###### Artículo 12.
 
-Corresponde a la Dirección General de Control de la Gestión Pública:
-
-I.- Diseñar y operar el sistema de Control y Evaluación Gubernamental, precisando y difundiendo las bases de operación a las dependencias y entidades de la administración pública estatal;
-
-II.- Requerir de las dependencias y entidades de la administración pública estatal, la información financiera mensual y anual de acuerdo a los lineamientos y formas de presentación previamente establecidas, así como la información estadística necesaria para sus funciones;
-
-III.- Evaluar las políticas, los planes, los programas y acciones que regulen el funcionamiento del sistema de control y evaluación en las dependencias y entidades de la Administración Pública y en su caso, proponer las medidas correctivas que procedan;
-
-IV.- Promover medidas que tiendan a incrementar la eficiencia, eficacia y congruencia en el desempeño de acciones de control en las dependencias y entidades de la administración pública estatal;
-
-V.- Operar los sistemas y mecanismos necesarios para evaluar el cumplimiento de estrategias, objetivos y metas fijadas en los programas de las dependencias y entidades de la Administración Pública Estatal, así como los programas contenidos en los convenios y acuerdos de coordinación suscritos con el Gobierno Federal y los municipios;
-
-VI.- Evaluar las actividades y políticas públicas de las dependencias y entidades de la Administración Pública Estatal, con el objeto de promover la eficiencia en sus operaciones y su congruencia con el plan estatal de desarrollo y los programas sectoriales y regionales que de él se derivan;
-
-VII.- Elaborar los informes de la evaluación global de la gestión pública estatatal;
-
-VIII.- Evaluar la planeación, presupuestación, asignación y aplicación de los recursos públicos en los programas de inversión coordinados entre federación, estado y municipios;
-
-IX.- Diseñar y elaborar el sistema integral de información gubernamental que permita evaluar el avance y cumplimiento de los objetivos y metas de los programas de las dependencias y entidades de la Administración Pública Estatal;
-
-X.- Establecer y supervisar la aplicación de las normas y lineamientos para el funcionamiento, coordinación, información periódica y evaluación de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal y Municipal;
-
-XI.- Asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal, así como a los órganos municipales de control;
-
-XII.- Fijar los lineamientos que deberán observar las dependencias y entidades de la Administración Pública Estatal, en materia de modernización, desarrollo y simplificación administrativa;
-
-XIII.- Formular con la participación que les corresponda a las dependencias y entidades de la Administración Pública Estatal, el Programa Estatal de Modernización de la Gestión Pública y el Programa de Simplificación administrativa, así como evaluar y vigilar su cumplimiento;
-
-XIV.- Proponer al Secretario, las bases y lineamientos para la designación de los delegados y comisarios de las dependencias y entidades de la administración pública estatal;
-
-XV.- Formular, en coordinación con las otras Direcciones General de la Secretaría, las bases y criterios para la elaboración de los informes que efectúan los delegados y comisarios, e integrar y evaluar los reportes que presenten sobre los resultados de la gestión pública estatal;
-
-XVI.- Expedir las normas que regulen la integración y funcionamiento de los delegados y comisarios, así como coordinar su actuación y evaluar su desempeño;
-
-XVII.- Diseñar y elaborar las bases de integración y funcionamiento de la unidad de control y evaluación del Comité de Planeación para el Desarrollo del Estado de Hidalgo y
-
-XVII.- Las demás que le confiere el presente Reglamento, otras disposiciones legales vigentes y el Secretario en el ámbito de sus funciones.
+(DEROGADO, P.O. 19 DE MARZO DE 2001)
 
 ###### Artículo 13.
 
@@ -319,6 +357,8 @@ XXII.- Dar seguimiento y verificar el avance en el cumplimiento de los compromis
 
 XXIII.- Las demás que le confiera el presente Reglamento, otras disposiciones legales vigentes y el Secretario en el ámbito de sus atribuciones.
 
+### CAPITULO IV. DE LOS ORGANOS DESCONCENTRADOS
+
 ###### Artículo 15.
 
 Para el despacho de los asuntos de su competencia la Secretaría podrá contar con órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y a los que se otorgarán facultades específicas para resolver sobre determinada materia o para la prestación de servicios dentro del ámbito territorial que se señale en los instrumentos jurídicos que lo constituyan, los cuales deberán de publicarse en el Periódico Oficial del Estado.
@@ -340,3 +380,11 @@ Dado en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Pachuca de
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE MARZO DE 2001.
+
+Primero.- El presente Decreto Gubernamental entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Ordenamiento.
