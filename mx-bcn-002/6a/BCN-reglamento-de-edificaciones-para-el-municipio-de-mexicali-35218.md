@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-edificaciones-para-el-municipio-de-mexicali-35218
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-18"
-last_updated: "1998-12-18"
+last_updated: "2003-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2003.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 18 de diciembre de 1998.
 
@@ -861,9 +861,11 @@ REGULAR COMPACTO
 
 Podrá permitirse para un departamento, habitación, oficina o condominio, que sus cajones de estacionamiento correspondientes se dispongan en fila, un máximo de dos vehículos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 129.
 
-Los estacionamientos deberán acondicionarse y señalizarse conforme a lo siguiente:
+los estacionamientos deberán acondicionarse conforme a los siguientes:
 
 I.- Cuando se encuentren ubicados en zonas urbanizadas, deberán ser
 
@@ -873,7 +875,11 @@ II.- Los cajones deberán contar con topes de concreto o de material resistente,
 
 III.- Deberá señalizarse la delimitación de los cajones, el sentido de la circulación vehicular y zonas de estacionamiento prohibido;
 
-IV.- Los cajones, topes y logotipos de piso para personas con discapacidad, serán de color azul, debiendo instalarse el señalamiento vertical correspondiente;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2003)</small>
+
+IV.- los cajones topes y logotipos de piso para personas con discapacidad, serán de color azul, debiendo instalarse el señalamiento vertical correspondiente.
+
+Además, dichos cajones contarán con un espacio extra para que las personas con discapacidad puedan instalar sus sillas de ruedas, andaderas u otras herramientas afines, de acuerdo a la normatividad que expida la Dirección de Administración Urbana,
 
 V.- Cuando la circulación sea en un solo sentido, se deberá contar con señalamiento vertical;
 
@@ -1914,3 +1920,9 @@ ATENTAMENTE
 EL SECRETARIO DE XV AYUNTAMIENTO DE MEXICALI
 
 LIC. BERNARDO H. MARTINEZ AGUIRRE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE NOVIEMBRE DE 2003.
+
+[LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º. DEL CÓDIGO CIVIL VIGENTE FEDERAL.]
