@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-procuraduria-general-de-la-republica-2581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-05-10"
-last_updated: "1998-01-23"
+last_updated: "1999-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-05-07"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 10 de mayo de 1996.
 
@@ -149,7 +149,9 @@ a) Recibir denuncias o querellas sobre acciones u omisiones que puedan constitui
 
 b) Investigar los delitos del orden federal con la ayuda de los auxiliares a que se refiere el artículo 19 de esta Ley, y otras autoridades, tanto federales como de las entidades federativas, en los términos de los convenios de colaboración;
 
-c) Practicar las diligencias necesarias para la acreditación de los elementos del tipo penal del delito y la probable responsabilidad del indiciado, así como para la reparación de los daños y perjuicios causados;
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
+c) Practicar las diligencias necesarias para la acreditación del cuerpo del delito y la probable responsabilidad del indiciado, así como para la reparación de los daños y perjuicios causados;
 
 d) Ordenar la detención y, en su caso, retener a los probables responsables de la comisión de delitos, en los términos previstos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -187,7 +189,9 @@ Cuando el Ministerio Público de la Federación tenga conocimiento por sí o por
 
 II. Ante los órganos jurisdiccionales:
 
-a) Ejercer la acción penal ante el órgano jurisdiccional competente por los delitos del orden federal cuando exista denuncia, acusación o querella, estén acreditados los elementos del tipo penal del delito de que se trate y la probable responsabilidad de quien o quienes en él hubieren intervenido, solicitando las órdenes de aprehensión o de comparecencia, en su caso;
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
+a) Ejercer la acción penal ante el órgano jurisdiccional competente por los delitos del orden federal cuando exista denuncia o querella, esté acreditado el cuerpo del delito de que se trate y la probable responsabilidad de quien o quienes en él hubieren intervenido, solicitando las órdenes de aprehensión o de comparecencia, en su caso;
 
 b) Solicitar al órgano jurisdiccional las órdenes de cateo, las medidas precautorias de arraigo, de aseguramiento o embargo precautorio de bienes, los exhortos, o la constitución de garantías para los efectos de la reparación de los daños y perjuicios, salvo que el inculpado los hubiese garantizado previamente;
 
@@ -838,3 +842,9 @@ PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 18 DE MAYO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán referidas al Código Penal Federal.
