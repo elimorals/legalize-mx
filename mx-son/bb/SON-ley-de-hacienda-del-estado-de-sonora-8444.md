@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2001-12-31"
+last_updated: "2002-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -231,9 +231,9 @@ I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL D
 
 II.- Tratándose de predios rústicos:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
-a).- El valor de la producción comercializada por ciclo productivo, proveniente de terrenos ejidales o comunales aprovechados para la producción agropecuaria, silvícola o acuícola.
+a).- El valor de la producción comercializada de cada cultivo por ciclo productivo, proveniente de terrenos ejidales o comunales aprovechados para la producción agropecuaria, silvícola o acuícola.
 
 b).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
 
@@ -369,11 +369,11 @@ b).- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL 
 
 #### Sección Octava. Pago Del Impuesto
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 52.
 
-Tratándose de predios ejidales aprovechados para la producción agropecuaria, silvícola o acuícola, el pago se hará al efectuarse la venta de los productos y en su defecto, dentro de los veinte días siguientes a la fecha en que éstos se hubieren cosechado.
+Tratándose de predios ejidales aprovechados para la producción agropecuaria, silvícola o acuícola, el pago se hará al efectuarse la venta de los productos y en su defecto, dentro de los veinte días siguientes a la fecha en que éstos se hubieran cosechado, debiéndose anexar a la declaración de que se trate la copia del permiso de siembra y copia de la factura o liquidación correspondiente.
 
 ###### Artículo 53.
 
@@ -545,9 +545,9 @@ II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
 III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 1979)
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
-IV.- Los obtenidos por las empresas porteadoras de personas, que operen con concesión estatal o municipal;
+IV.- Los obtenidos por personas físicas o morales que en cualquiera de las modalidades previstas en la Ley de Transporte Para el Estado de Sonora, operen el servicio público de transporte en el ámbito estatal o municipal; y
 
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -1595,9 +1595,9 @@ La tasa del impuesto, será:
 
 I.- Cuando por la naturaleza de la operación o por las condiciones pactadas no fuere posible determinar el valor de los bienes muebles, al realizarse la operación $1,000.00;
 
-> <small>(REFORMADA, B.O. 3 DE MARZO DE 1983)</small>
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
-II.- Sobre la base determinada conforme a la fracción I del Artículo Anterior, el 4%;
+II.- Sobre la base determinada conforme a la fracción I del artículo anterior, el 2%;
 
 III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
@@ -1841,7 +1841,9 @@ I.- Quienes por cualquier titulo, adquieran la propiedad, tenencia o uso de veh�
 
 II.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
 
-III.- Los funcionarios de las oficinas de tránsito que autoricen altas o cambios de placas sin haberse cerciorado que se haya pagado el impuesto.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+III.- Los servidores públicos que en el Estado autoricen altas o cambios de placas sin haberse cerciorado que se haya pagado el impuesto.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -1915,11 +1917,15 @@ III.- Los automóviles, que estén al servicio de los cuerpos diplomáticos y co
 
 IV.- Los que tengan para su venta los distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
 
+> <small>(ADICIONADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+V.- Los vehículos de la Federación, del Estado y de los municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, limpia, recolección de basura, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
+
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo, deberá pagar el impuesto correspondiente dentro de los quince días siguientes a aquél en que tenga lugar el hecho de que se trata.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
-Artículo 212 F.- Los tenedores o usuarios de los vehículos a que se refieren las Fracciones I y II del Articulo anterior, para gozar del beneficio que el mismo restablece, deberán comprobar ante la Tesorería General del Estado que se encuentran comprendidos en dichos supuestos.
+Artículo 212 F.- Los tenedores o usuarios de los vehículos (sic) que se refieren las fracciones I, II y V del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas que se encuentran comprendidos en dichos supuestos.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -2017,11 +2023,11 @@ Están obligados a recaudar el impuesto los sujetos que perciban los pagos grava
 
 No causan este impuesto los pagos que se realicen por concepto de:
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
-I.- Contraprestaciones a que se refiere el Artículo 213 del presente ordenamiento, cubiertas por la Federación, el Gobierno del Estado de Sonora y sus Municipios.
+I.- Contraprestaciones a que se refiere el artículo 213 del presente ordenamiento, cubiertas por el Estado de Sonora y los municipios del Estado.
 
-Tratándose de organismos descentralizados de la Federación, del Estado de Sonora y de sus Municipios, solo estarán exentos cuando realicen actividades con fines no lucrativos;
+Tratándose de organismos descentralizados del Estado de Sonora y de los municipios del Estado, sólo estarán exentos cuando realicen actividades con fines no lucrativos;
 
 > <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -2038,8 +2044,6 @@ IV.- Contraprestaciones cubiertas por instituciones o asociaciones con fines no 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará del pago de este impuesto por el monto equivalente a un salario mínimo elevado al mes por cada trabajador hasta un máximo de cinco trabajadores. Por el excedente se pagará el impuesto en los términos del Artículo 216 de este Capítulo. Para acogerse a este beneficio se deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere.
-
-(DEROGADO SEGUNDO PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)(F. DE E., B.O. 21 DE ENERO DE 2002)
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -2075,7 +2079,7 @@ XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre
 
 Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración mensual dentro de los primeros veinte días del mes siguiente a aquél en que se causó, ante la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio del contribuyente o de quién perciba los pagos cuando quién los efectúa resida fuera del Estado.
 
-Tratándose de contribuyentes que tengan hasta veinte trabajadores, deberán efectuar el pago mediante declaración trimestral dentro de los primeros veinte días de los meses de abril, julio, octubre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero y cuarto trimestre del año, según corresponda.
+> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
 Los contribuyentes dedicados a actividades agrícolas, silvícolas o de pesca, previa autorización de la Secretaría de Finanzas, podrán efectuar el pago del impuesto dentro de los veinte días inmediatos posteriores al término de sus respectivos ciclos productivos, siempre que los productos no hayan sido objeto de transformación industrial.
 
@@ -2083,11 +2087,13 @@ Los contribuyentes dedicados a actividades agrícolas, silvícolas o de pesca, p
 
 Son obligaciones a cargo de los sujetos que realizan los pagos gravados por este impuesto:
 
-I.- Empadronarse en la Oficina Recaudadora de su jurisdicción;
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos respectivos, dentro de los 30 días siguientes a aquél en que se realicen las erogaciones por remuneración al trabajo personal;
 
-II.- Presentar las declaraciones correspondientes para el pago del impuesto;
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+II.- Presentar las declaraciones correspondientes para el pago del impuesto así como los demás avisos correspondientes al Registro Estatal de Contribuyentes;
 
 > <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -2105,9 +2111,17 @@ Tratándose del establecimiento de varias sucursales de una misma empresa, en el
 
 IV.- Los contribuyentes que dejen de causar este impuesto, presentarán por una sola vez la declaración correspondiente sin impuesto a cargo, acompañada por la constancia de baja del trabajador presentada ante el Seguro Social, dejando en blanco el apartado correspondiente. En este caso se presumirá que no existe impuesto a pagar en las declaraciones posteriores que no sean presentadas;
 
-> <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
-V.- Las demás que impongan otras disposiciones fiscales.
+V.- Las personas físicas que tengan registrados varios establecimientos con distintas actividades deberán presentar una sola declaración del impuesto en la oficina recaudadora o institución autorizada al efecto, correspondiente a su domicilio fiscal. En dicha declaración deberán incluirse las erogaciones en forma desglosada de cada uno de los establecimientos;
+
+> <small>(ADICIONADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+VI.- Los contribuyentes que tengan registrados trabajadores y cuyo impuesto a pagar resulte en cero, presentarán por una sola vez la declaración correspondiente sin impuesto a cargo, dejando en blanco el apartado correspondiente. En este caso se presumirá que no existe impuesto a pagar en las declaraciones posteriores que no sean presentadas, debiendo únicamente presentar las correspondientes a los meses de enero y diciembre de los ejercicios fiscales posteriores;
+
+> <small>(ADICIONADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+VII.- Las demás que impongan otras disposiciones fiscales.
 
 ###### Artículo 221.
 
@@ -2120,6 +2134,14 @@ I.- Empadronarse en la oficina recaudadora de su jurisdicción, cuando la percep
 II.- Retener el impuesto que se cause conforme a las disposiciones contenidas en esta Sección y expedir al contribuyente constancia de la retención mediante el formato de retención de impuestos, autorizado por la Secretaría de Finanzas, así como enterar el impuesto mediante declaración dentro de los veinte días siguientes al mes de aquel en que se haya obtenido la remuneración en la oficina recaudadora de su jurisdicción; y
 
 III.- Las demás que impongan otras disposiciones fiscales.
+
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 221 Bis.
+
+Las personas físicas o morales que contraten la prestación de servicios con empresas para que éstas les proporcionen a los trabajadores, deberán presentar ante la oficina recaudadora de su jurisdicción dentro de los diez días siguientes a dicha contratación, información sobre el nombre, Registro Estatal de Contribuyentes y domicilio, de la prestadora de servicios de que se trate.
+
+Las autoridades fiscales podrán requerir a las personas físicas o morales la presentación de la información a que se refiere el párrafo anterior, a fin de que en un plazo máximo de diez días cumplan con lo solicitado.
 
 #### Sección Segunda. Del Impuesto a la Prestación de Servicios bajo la Dirección y Dependencia de un Tercero
 
@@ -2925,7 +2947,9 @@ Cuando el solicitante acredite su calidad de jubilado o pensionado y sea el bene
 
 I.- Derechos por expedición, transferencia, canje o revalidación de placas de transporte privado para un solo vehículo de su propiedad.
 
-II.- Derechos por expedición de licencias para conducir.
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+II.- Derechos por expedición de licencias para conducir con vigencia de dos años.
 
 III.- Derechos por los servicios que presta el Registro Público de la Propiedad y,
 
@@ -3589,6 +3613,10 @@ a).- Por expedición, transferencia o canje. $350.00
 
 b).- Por revalidación anual. $258.00
 
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+Por los servicios a que se refieren los incisos a) y b) anteriores, tratándose de los vehículos de la Federación, del Estado y de los municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, limpia, recolección de basura, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos, se aplicarán las cuotas correspondientes reducidas en un 50%; para tales efectos deberá presentarse al momento de la prestación del servicio, constancia del organismo o institución indicados, que compruebe que el vehículo se encuentra comprendido en dichos supuestos.
+
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 2.- De servicio público local: que deberán ostentar
@@ -3623,13 +3651,13 @@ especificaciones anteriores,
 
 5.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
-6.- Por expedición de permisos para circular
+6.- Por expedición de permisos para circular sin
 
-sin placas o sin tarjeta de circulación
+placas o sin tarjeta de circulación y calcomanía,
 
-y calcomanía, hasta por diez días. N$ 60.00
+hasta por treinta días. N$ 60.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -3699,6 +3727,10 @@ Por dos años $105.00
 
 Por tres años $124.00
 
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+Por los servicios a que se refieren los incisos a), b) y d), anteriores, la Secretaría de Finanzas del Estado cuando a su juicio existan circunstancias que así lo determinen, podrá expedir licencias para conducir con vigencia de un año, en cuyo caso se aplicarán las cuotas correspondientes a la vigencia de 2 años, reducidas en un 50%.
+
 2.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 1982)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
@@ -3728,6 +3760,10 @@ Por 6 meses $253.00
 Por 1 año $454.00
 
 Por 2 años $726.00
+
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+A las reposiciones de licencias se les aplicará el mismo importe de los derechos que cause la expedición de las licencias nuevas.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -3777,11 +3813,25 @@ La expedición, transferencia o canje, así como la expedición de las licencias
 
 La Secretaría de Finanzas del Estado podrá emitir normatividad simplificando los trámites o reduciendo los requisitos a que se refiere el párrafo anterior, a fin de facilitar el cumplimiento de las obligaciones de los solicitantes de los servicios.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 319.
 
-A las reposiciones de licencias se les aplicará el mismo importe de los derechos que cause la expedición de las licencias nuevas.
+Los servicios relativos a información en materia vehicular proporcionada a los propios contribuyentes, causarán derechos conforme a las siguientes cuotas:
+
+1.- Por expedición de constancias de adeudo o
+
+de no adeudo de créditos fiscales $50.00
+
+2.- Por verificación y validación o certificación de
+
+pago del Impuesto Sobre Tenencia o Uso de
+
+Vehículos, Federal o Estatal. $50.00
+
+3.- Por confirmación de pagos y/o bajas relativas
+
+al padrón vehicular. $50.00
 
 ### Capitulo Décimo Cuarto. Otros Servicios
 
@@ -3988,6 +4038,16 @@ unidad:
 a). Pasaje $148.00 por cada período hasta 30 días.
 
 b). Carga N$100.00 por cada período hasta 30 días.
+
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+17.- Por expedición de constancia e información
+
+contenida en el Registro Público de Transporte del Estado.
+
+a).- Por cada hoja $41.00
+
+b).- Por la búsqueda $41.00
 
 ### Capítulo Unico
 
@@ -4477,17 +4537,29 @@ Los servicios que se presten por las Oficialías del Registro Civil, causarán l
 
 I.- Por las inscripciones de:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 23 DE DICIEMBRE DE 2002)</small>
 
-1.- Nacimientos gratuitos
+1.- Nacimientos.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+1.1.- Sin la entrega de la copia al interesado. Gratuita
 
-2.- Reconocimiento de hijos gratuita
+1.2.- Con la entrega de la copia al interesado. $32.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 23 DE DICIEMBRE DE 2002)</small>
 
-3.- Defunciones gratuita
+2.- Reconocimiento de hijos.
+
+2.1.- Sin la entrega de la copia al interesado. Gratuita
+
+2.2.- Con la entrega de la copia al interesado. $32.00
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+3.- Defunciones
+
+3.1.- Sin la entrega de la copia al interesado. Gratuita
+
+3.2.- Con la entrega de copia al interesado. $32.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -4532,6 +4604,12 @@ II.- Por la expedición de actas del Registro Civil en las Oficialías:
 1.2.- Transcripción del libro
 
 (Mecanografiada) N$ 20.00
+
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+1.3.- Impreso del libro a través del servicio
+
+telefónico denominado Avitel (medio electrónico) $43.00
 
 > <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
 
@@ -4943,6 +5021,14 @@ desarrollos turísticos, industriales o campestres,
 
 fuera del límite del centro de población $3,500.00
 
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2002)</small>
+
+18.- Por el refrendo en el Registro Estatal a los
+
+prestadores de Servicios de estudio de impacto
+
+ambiental. $1,062.00
+
 III.- Servicios Prestados por la Secretaría de Salud Pública del Estado.
 
 1.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
@@ -5008,8 +5094,6 @@ K).- Otros N$ 160.00
 17.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
 18.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
-
-> <small>(DEROGADO ULTIMO PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -5482,6 +5566,16 @@ B.O. 31 DE DICIEMBRE DE 2001.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor a partir del 1° de enero de 2002, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la aplicación de la presente Ley.
+
+B.O. 23 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1° de enero de 2003, previa su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTICULO SEGUNDO.
 
