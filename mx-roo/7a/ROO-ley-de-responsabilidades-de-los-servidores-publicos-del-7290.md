@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-responsabilidades-de-los-servidores-publicos-del-7290"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-15"
-last_updated: "1990-03-15"
+last_updated: "2002-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ROO"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUINTANA ROO
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUINTANA ROO
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUINTANA ROO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 30 DE SEPTIEMBRE DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 15 de marzo de 1990.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. 30 DE SEPTIEMBRE DE 2002 (ABROGADA).
+
+Ley publicada en el Periódico Oficial el 15 de marzo de 1990.
 
 DECRETO NUMERO: 73
 
@@ -792,3 +794,35 @@ DR. MIGUEL BORGE MARTIN
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. JUAN MANUEL MERCADER RODRIGUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo expedida mediante el decreto número 73 publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo en fecha 15 de marzo de 1990.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo establecido por este ordenamiento.
+
+###### ARTICULO CUARTO.
+
+La Legislatura del Estado, establecerá dentro de su estructura orgánica, en un plazo no mayor de de 180 días, los órganos competentes a que hacen referencia los artículos 52, 53 y 83 de esta Ley.
+
+###### ARTICULO QUINTO.
+
+Los procedimientos y recursos que se hayan iniciado bajo la vigencia de la Ley de Responsabilidades que se abroga, se tramitarán y resolverán conforme a las disposiciones de dichas Ley.
+
+###### ARTICULO SEXTO.
+
+Los procedimientos de juicio político que se hayan iniciado antes de la vigencia de esta Ley se tramitarán y resolverán conforme a las disposiciones de la Ley Orgánica del Poder Legislativo del Estado.
+
+###### ARTICULO SEPTIMO.
+
+En tanto se establezca una Ley de Procedimiento Administrativo que coadyuve con el procedimiento establecido en esta Ley, se estará a la suplencia del Código Civil y de Procedimientos Civiles vigentes en el Estado.
