@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1997-10-03"
+last_updated: "1997-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -63,73 +63,93 @@ El Estado es Libre y Soberano en todo lo concerniente a su régimen interior, si
 
 Todo Poder Público dimana del pueblo y se instituye para beneficio de éste.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-Los partidos políticos son entidades de interés público. La Ley determinará las formas específicas de su intervención en el proceso electoral.
+Los partidos políticos son entidades de interés público. La Ley determinará las formas específicas de su intervención en el proceso electoral. Los Partidos Políticos Nacionales tendrán derecho a participar en las elecciones estatales y municipales en los términos que establezca la Ley.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-Los partidos políticos dispondrán de tiempos en forma igualitaria en los medios de comunicación para participar en debates de acuerdo con las formas y procedimientos que establezca la Ley.
+La Ley establecerá los mecanismos apropiados para que se propicie el acceso de los partidos políticos a los medios de comunicación social en condiciones de equidad, de acuerdo a la disponibilidad presupuestal.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-Los partidos políticos gozarán de financiamiento público permanente y de campaña electoral, para la realización de sus fines; el monto, los medios de justificación del gasto y los plazos o modalidades de las entregas; así como los topes en los gastos de sus campañas electorales, se establecerán en la Ley.
+Los partidos políticos de acuerdo a las disponibilidades presupuestales, recibirán en forma equitativa, financiamiento público permanente y de campaña electoral, para la realización de sus fines. La Ley establecerá los medios de justificación del gasto y los plazos o modalidades de las entregas, así como los procedimientos para la fiscalización del origen y aplicación de los recursos que ejerzan los partidos políticos en Baja California; igualmente señalará las bases bajo las cuales se determinarán los límites o topes a las erogaciones de los partidos políticos en sus campañas electorales, los montos máximos a que se sujetarán las aportaciones pecuniarias de sus simpatizantes, incluyendo las sanciones que se deriven por el incumplimiento a las disposiciones que se expidan en esta materia.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-La organización de las elecciones estatales se realizará a través de un organismo público autónomo e independiente denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, a cuya integración concurren el Poder Ejecutivo, los partidos políticos y los ciudadanos, según lo disponga la Ley. En el ejercicio de esa función pública, serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
+La organización de las elecciones estatales y municipales es una función pública que se realiza a través de un organismo público autónomo e independiente denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, a cuya integración concurren los ciudadanos y los partidos políticos, según lo disponga la Ley. En el ejercicio de esta función pública, serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-El organismo público agrupará para su desempeño, en forma integral y directa, además de las que determine la Ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos.
+El Instituto Estatal Electoral agrupará para su desempeño, en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos y prerrogativas de los partidos políticos, al padrón electoral y Listas Nominales de Electores, impresión de materiales electorales, preparación de la Jornada Electoral, cómputos, otorgamiento de constancias de mayoría, y asignaciones por el principio de representación proporcional. Así como lo relativo a la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Asimismo, tendrá a su cargo en los términos que señale esta Constitución y la Ley, la realización de los procesos de Plebiscito, y Referéndum.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos normativos, directivos o ejecutivos, de vigilancia y técnicos. El órgano superior normativo, denominado Consejo Estatal Electoral, se integrará por un Consejero Presidente designado por el Poder Ejecutivo; Consejeros Ciudadanos elegidos por el Poder Legislativo y por representantes acreditados paritariamente por los partidos políticos, sólo con derecho a voz.
+El Instituto Estatal Electoral será autoridad en la materia, autónomo en su funcionamiento e independiente en sus decisiones y profesional en su desempeño; contará en su estructura con órganos normativos, directivos o ejecutivos, de vigilancia y técnicos. El órgano superior normativo, denominado Consejo Estatal Electoral, se integrará por siete Consejeros Ciudadanos electos por mayoría calificada del Poder Legislativo, en la forma y mediante el procedimiento que señale la Ley, y representantes de los partidos políticos acreditados paritariamente, con voz pero sin voto, y un Secretario Fedatario. Los Consejeros Ciudadanos designarán de entre ellos mismos, con la aprobación de las dos terceras partes de sus integrantes a quien fungirá como Consejero Presidente. En caso de que transcurridas tres rondas de votaciones ninguno de los Consejeros alcanzare la votación requerida, la elección se hará por mayoría calificada del Poder Legislativo. La renovación del Consejo Estatal Electoral será en forma parcial, cuatro de los Consejeros cada tres años. El Consejero Presidente durará en su encargo tres años pudiendo ser reelecto.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-Los órganos normativos inferiores serán los Consejos Municipales Electorales y Consejos Distritales Electorales, se integrarán por un Consejero Presidente nombrado por el órgano superior, por Consejeros Ciudadanos nombrados por el Congreso del Estado y por representantes acreditados por los partidos políticos, en la forma que establezca la Ley. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las mesas directivas de casillas estarán integradas por ciudadanos.
+Los órganos normativos inferiores serán los Consejos Distritales Electorales que se integrarán por siete Consejeros Ciudadanos nombrados por las dos terceras partes de los integrantes del órgano superior normativo; así como por representantes acreditados por los partidos políticos, con voz pero sin voto, en la forma que establezca la Ley y, un Secretario Fedatario.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-Los órganos directivos o ejecutivos serán la Dirección General del Instituto Estatal Electoral y la Dirección General del Registro Estatal de Electores del Instituto Estatal Electoral, quienes serán nombrados por el órgano superior normativo a propuesta del Consejero Presidente, con la aprobación de las dos terceras partes de sus integrantes, mediante el procedimiento que señale la Ley.
+Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-Los consejeros ciudadanos de los órganos normativos deberán satisfacer los requisitos que señala la Ley y serán elegidos por el voto de las dos terceras partes de los integrantes del Congreso del Estado, de las propuestas que resulten de la convocatoria pública que el propio Congreso del Estado formule. La Ley señalará las reglas y el procedimiento correspondientes. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la Ley. La Ley establecerá un sistema de medios de impugnación de los que conocerá el Tribunal de Justicia Electoral. Dicho sistema dará definitividad a las distintas etapas del proceso electoral y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad. Además, este sistema deberá observar la garantía de audiencia y los principios de publicidad, gratuidad, economía y concentración procesal.
+La Ley fijará el régimen de responsabilidades a que estarán sujetos los Consejeros Ciudadanos y los titulares de los órganos ejecutivos.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-En materia electoral, la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnada.
+La Ley determinará las reglas para la organización y funcionamiento de los órganos del Instituto Estatal Electoral, así como las relaciones de mando entre éstos. Las relaciones de trabajo de los servidores del Instituto Estatal Electoral, se regirán por la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-El Tribunal de Justicia Electoral será un órgano autónomo y máxima autoridad jurisdiccional electoral. El Poder Legislativo, garantizará su debida integración.
+Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos. Las Mesas Directivas de Casilla estarán integradas por ciudadanos.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-El Tribunal de Justicia Electoral, tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral estatal y las que establece el Artículo 20 de la Constitución.
+Los órganos directivos o ejecutivos serán la Dirección General del Instituto Estatal Electoral y la Dirección General de Registro Estatal de Electores del Instituto Estatal Electoral, quienes serán nombrados por el órgano superior normativo a propuesta del Consejero Presidente, con la aprobación de las dos terceras partes de sus integrantes, mediante el procedimiento que señale la Ley.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-Expedirá su reglamento interior y realizará las demás atribuciones que le confiere la Ley.
+Los Consejeros Ciudadanos del órgano superior normativo deberán satisfacer los requisitos que señala la Ley, y serán electos de las propuestas que resulten de la convocatoria pública que formule el Congreso del Estado. La Ley señalará las reglas y el procedimiento correspondiente. Conforme a los mismos requisitos y procedimientos se designarán a los Consejeros Ciudadanos Supernumerarios, en orden de prelación. Asimismo, la Ley fijará los requisitos y el procedimiento para la elección de los Consejeros Ciudadanos que integren los Consejos Distritales Electorales.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-El Tribunal de Justicia Electoral funcionará en pleno o en salas y sus sesiones de resolución serán públicas en los términos que establezca la Ley.
+Los Consejeros Ciudadanos del Consejo Estatal Electoral durarán en su cargo tres años, pudiendo ser reelectos para un período inmediato; no podrán tener empleo, cargo o comisión en la Administración Pública, salvo las actividades académicas o docentes. La retribución que perciban será determinada en la Ley, igual impedimento es aplicable a los titulares de los órganos directivos o ejecutivos del Instituto Estatal Electoral.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-El Tribunal de Justicia Electoral se organizará en los términos que señale la Ley. Para el ejercicio de su competencia contará con cuerpos de magistrados y jueces instructores, los cuales serán independientes y responderán sólo al mandato de la Ley. Los Magistrados del Tribunal deberán satisfacer los requisitos que establezca la Ley, que no podrán ser menores de los que señala esta Constitución para ser Magistrado del Tribunal Superior de Justicia del Estado. Serán electos por el voto de las dos terceras partes de los integrantes del Congreso del Estado, previa convocatoria pública que emita el propio Congreso del Estado.
+No podrán ser Consejeros Ciudadanos del Consejo Estatal Electoral quienes hayan sido registrados como candidatos a cargos de elección popular durante los seis años anteriores a la publicación de la convocatoria respectiva o hayan ocupado cargos de dirigencia de algún partido político dentro de igual tiempo, a la fecha en que deban ser electos; así como los que hayan ocupado cargos de primer y segundo nivel en la Administración Pública Federal, Estatal o Municipal durante el año anterior al que deban ser electos.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-Para cada proceso electoral se integrará una Sala de Segunda Instancia con tres Magistrados, que serán nombrados en los mismos términos que señala el párrafo anterior. Esta Sala será competente para resolver las impugnaciones a que se refiere el párrafo tercero del Artículo 20 de esta Constitución.
+Los Consejeros Ciudadanos del Consejo Estatal Electoral no podrán ocupar cargos públicos de primer y segundo nivel en la Administración Pública Estatal o Municipal, sino transcurrido un año después de haberse separado del cargo.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+El Secretario Fedatario, será nombrado por las dos terceras partes del Consejo Estatal Electoral a propuesta del Consejero Presidente. Los Consejos Distritales Electorales nombrarán a los respectivos Secretarios Fedatarios, mediante la misma votación calificada a propuesta de cada uno de los Consejeros Presidentes. En ambos casos la Ley establecerá los requisitos que deberán reunir para su designación.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+Para garantizar el principio de legalidad de los actos y resoluciones electorales se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos de la fracción III del Artículo 68 de ésta Constitución. Además, este sistema deberá observar la garantía de audiencia y los principios de publicidad, gratuidad, economía y concentración procesal.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+En materia electoral, la interposición de los medios de impugnación constitucionales y legales no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+La Ley electoral establecerá las faltas y sanciones administrativas, que se deriven de su incumplimiento o inobservancia. El Código Penal tipificará los delitos electorales y las penas que se deriven.
 
 ### CAPITULO III.. DE LOS SIMBOLOS OFICIALES
 
@@ -159,15 +179,29 @@ La Procuraduría de los Derechos Humanos y Protección Ciudadana no ejercerá un
 
 ### CAPITULO V.. DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 8.
 
 Son derechos de los habitantes del Estado:
 
-I.- Si son mexicanos, los que les concede la Constitución General de la República y la presente;
+I.- Si son mexicanos, los que conceda la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanan y la presente;
 
-II.- Si además de mexicanos, son ciudadanos, votar y ser votados en las elecciones populares, así como desempeñar cualquier empleo, cargo o función del Estado o de los Ayuntamientos, cuando la persona tenga las condiciones que la Ley exija para cada caso;
+II.- Ejercer el derecho de petición de manera respetuosa y pacífica, teniendo la autoridad la obligación de contestar en breve término; en materia política sólo ejercerán este derecho los ciudadanos mexicanos;
 
-III.- Si son extranjeros, gozar de las garantías individuales y sociales, así como de los derechos establecidos en la Constitución General de la República, la presente y en las disposiciones legales que de ellas emanen. En ningún caso, los extranjeros tendrán derechos políticos.
+III.- Si son extranjeros, gozarán de las garantías individuales y sociales, así como de los derechos establecidos en la Constitución General de la República, la presente y en las disposiciones legales que de ellas emanen. En ningún caso los extranjeros gozarán de derechos políticos; y
+
+IV.- Si además de mexicanos, son ciudadanos tendrán los siguientes:
+
+a).- Votar en las elecciones para integrar los órganos de elección popular de la entidad;
+
+b).- Participar en los términos de esta Constitución y de la Ley en los procesos de Plebiscito y Referéndum;
+
+c).- Ser votados siempre que reúnan los requisitos que determina esta Constitución y las leyes;
+
+d).- Desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando la persona reúna las condiciones que exija la Ley para cada caso; y
+
+e).- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado; así como al partido político de su preferencia o asociación de que se trate.
 
 ###### ARTICULO 9.
 
@@ -209,13 +243,17 @@ No pueden reunirse dos o más poderes en una sola persona o corporación ni depo
 
 El ejercicio del Poder Legislativo se deposita en una Asamblea de representantes del pueblo, que se denomina Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 14.
 
-El Congreso del Estado estará integrado por Diputados que se elegirán cada tres años; quince serán electos en forma directa mediante el principio de mayoría relativa, uno por cada Distrito Electoral en que se divida el territorio del Estado, y en su caso, hasta diez Diputados asignados por el principio de representación proporcional. Por cada Diputado Propietario se elegirá un Suplente.
+El Congreso del Estado estará integrado por Diputados que se elegirán cada tres años, electos mediante sufragio universal, libre, secreto, directo, personal e intransferible; dieciséis serán electos en forma directa mediante el principio de mayoría relativa, uno por cada Distrito Electoral en que se divida el territorio del Estado, y en su caso, hasta nueve Diputados asignados por el principio de representación proporcional. Por cada Diputado Propietario se elegirá un Suplente.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 Todos los Diputados tendrán idéntica categoría e igualdad de obligaciones y gozarán de las mismas prerrogativas.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
 Los Diputados, como representantes del pueblo, podrán auxiliar a sus representados y a las comunidades del Estado en sus demandas sociales y de orden administrativo de interés general, a fin de lograr su oportuna solución, por lo que las autoridades administrativas del Estado y los Ayuntamientos deberán atender su intervención y ver por la oportuna resolución de sus promociones.
 
@@ -229,7 +267,9 @@ I.- Para que los partidos políticos o coaliciones tengan este derecho deberán:
 
 a).- Participar con candidatos a Diputados por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales; y
 
-b).- Haber obtenido por lo menos el dos por ciento de la votación estatal emitida en el (sic) elección de Diputados;
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+b).- Haber obtenido por lo menos el cuatro por ciento de la votación estatal emitida en la elección de Diputados;
 
 II.- Definiciones:
 
@@ -245,19 +285,23 @@ e).- Expectativa de integración al Congreso de cada partido político o coalici
 
 f).- Diputaciones obtenidas de mayoría por cada partido político o coalición: equivale al número de diputaciones que por el principio de mayoría relativa haya obtenido cada partido político o coalición; y
 
-g).- Determinación de asignación a la representación proporcional para cada partido político o coalición: se obtiene de restar a la expectativa de integración al Congreso de cada partido político o coalición, el número de diputaciones obtenidas de mayoría.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-III.- El Consejo Estatal Electoral asignará las diputaciones por el principio de representación proporcional, a los partidos políticos o coaliciones con derecho a ello, mediante el procedimiento que se establezca en la Ley y atendiendo a las bases siguientes:
+g) Determinación de asignación a la representación proporcional para cada partido político o coalición: se obtiene de restar a la expectativa de integración al Congreso de cada partido político o coalición, el número de diputaciones obtenidas de mayoría, y en su caso, la asignación hecha conforme al inciso c) de la fracción III de este Artículo;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+III.- El Instituto Estatal Electoral asignará las diputaciones por el principio de representación proporcional, a los partidos políticos o coaliciones con derecho a ello, mediante el procedimiento que se establezca en la Ley y atendiendo a las bases siguientes:
 
 a).- Determinará qué partidos políticos o coaliciones cumplen con lo estipulado en la fracción I de este Artículo;
 
 b).- Determinará el porcentaje de votación estatal de cada partido político o coalición;
 
-c).- Primeramente asignará un Diputado a todo aquel partido político o coalición que tenga derecho a ello, y no haya obtenido constancia de mayoría alguna.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-Posteriormente se asignará otro Diputado por el principio de representación proporcional, al partido político o coalición que cumpliendo con los requisitos señalados en la Fracción I de este Artículo, haya obtenido el seis por ciento de la votación estatal emitida.
+c) Primeramente asignará un Diputado a todo aquel partido político o coalición que tenga derecho a ello, y no haya obtenido constancia de mayoría alguna.
 
-En el caso de que el número de partidos políticos o coaliciones sea mayor que el de Diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse;
+En caso de que el número de partidos políticos o coaliciones sea mayor que el de Diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse, y
 
 d).- Posteriormente y en el supuesto de que existieran aún diputaciones por asignar, se procederá de la manera siguiente:
 
@@ -265,7 +309,7 @@ d).- Posteriormente y en el supuesto de que existieran aún diputaciones por asi
 
 2.- Determinará el número de diputaciones que le corresponda a cada partido político o coalición conforme a lo establecido en el inciso g) de la fracción II de este Artículo;
 
-3.- Se le restará de su expectativa de integración al Congreso, la asignación efectuada conforme al inciso c) de esta fracción, al partido político o coalición que la haya obtenido;
+3.- (DEROGADO, P.O. 6 DE OCTUBRE DE 1997)
 
 4.- Asignará a los partidos políticos o coaliciones, alternadamente, tantas diputaciones como números enteros haya obtenido en la operación realizada conforme al inciso g) de la fracción II de este Artículo; y
 
@@ -273,9 +317,11 @@ d).- Posteriormente y en el supuesto de que existieran aún diputaciones por asi
 
 IV.- En ningún caso un partido político o coalición podrá contar con más de dieciséis diputaciones por ambos principios;
 
-V.- Los partidos políticos o coaliciones podrán registrar una fórmula adicional para el caso de que tuvieren derecho al número máximo señalado en la fracción anterior; y
+V.- (DEROGADA, P.O. 6 DE OCTUBRE DE 1997) ,y (sic)
 
-VI.- La asignación de los diputados que le corresponda a cada partido político o coalición, la hará el Consejo Estatal Electoral de entre los candidatos a la diputación de mayoría relativa de cada uno de ellos y que no hayan obtenido la constancia respectiva, de acuerdo a una relación de los mismos que se haga en base al porcentaje obtenido de la votación distrital, válida, en orden descendente y colocando al final la fórmula señalada en la fracción anterior.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+VI.- La asignación de los Diputados que le corresponda a cada partido político o coalición, la hará el Instituto Estatal Electoral de entre los candidatos a la diputación de mayoría relativa de cada uno de ellos y que no haya obtenido la constancia respectiva, de acuerdo a una relación de los mismos que se haga en base al porcentaje obtenido de la votación distrital válida, en orden descendente.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -293,9 +339,9 @@ Para ser electo Diputado Propietario o Suplente, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos e hijo de madre o padre mexicanos.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad m mexicana invariablemente, con Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad;
+Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo.
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1979)</small>
 
@@ -335,29 +381,19 @@ VII.- Los ministros de cualquier culto religioso, a menos que se separen en los 
 
 El Congreso se renovará totalmente cada tres años y se instalará el día 1ro. de octubre posterior a la elección.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 20.
 
-El Instituto Estatal Electoral de acuerdo con lo que establezca la Ley, declarará la validez de la elección de Diputados, otorgará las constancias de mayoría a las fórmulas de candidatos que la hayan obtenido y hará la asignación de Diputados por el principio de representación proporcional, de acuerdo con el procedimiento que para tal efecto establece el Artículo 15 de esta Constitución y la Ley.
+El Instituto Estatal Electoral, de acuerdo con lo que establezca la Ley, otorgará las constancias de mayoría a las fórmulas de candidatos que la hayan obtenido y hará la asignación de Diputados por el principio de representación proporcional, de acuerdo con el procedimiento que para tal efecto establece el Artículo 15 de esta Constitución y la Ley.
 
-La declaración de validez, el otorgamiento de las constancias de mayoría y la asignación de Diputado de representación proporcional que se mencionan en el párrafo anterior, podrán ser impugnadas ante la Sala de Primera Instancia del Tribunal de Justicia Electoral, en los términos que señale la Ley.
+El otorgamiento de las constancias de mayoría y la asignación de Diputados de representación proporcional que se mencionan en el párrafo anterior, podrán ser impugnadas ante el Tribunal de Justicia Electoral, en los términos que señale la Ley.
 
-Las resoluciones de la Sala de Primera Instancia a que se refiere el párrafo que antecede, exclusivamente podrán ser revisadas por la Segunda Sala del Tribunal de Justicia Electoral, mediante el recurso que los partidos políticos podrán interponer, cuando hagan valer agravios debidamente fundados por los que se pueda modificar el resultado de la elección. Los fallos de esta sala serán definitivos e inatacables. La Ley establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 21.
 
-El Congreso del Estado en Pleno se erigirá en Colegio Electoral para calificar y hacer el cómputo total de votos para las elecciones de Gobernador; asimismo para hacer la declaración de validez de las elecciones de los Ayuntamientos. Estos actos deberán realizarse a más tardar quince días antes de la toma de posesión respectiva.
-
-Las resoluciones del Colegio Electoral serán definitivas e inatacables.
-
-Para producir la declaración correspondiente, ineludiblemente se observarán los resultados oficiales de los cómputos municipales, y en su caso, las resoluciones recaídas sobre los recursos correspondientes emitidas por el Tribunal de Justicia Electoral.
-
-Hecho el cómputo respectivo y observando las resoluciones del Tribunal de Justicia Electoral, el Congreso del Estado declarará la validez de las elecciones de Gobernador y Ayuntamientos.
-
-Los Procedimientos correspondientes serán establecidos en las Leyes respectivas.
+El Congreso del Estado, designará a los Consejeros Ciudadanos del Consejo Estatal Electoral, mediante el voto de las dos terceras partes de sus integrantes, en la forma y términos que establezca la Ley.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -409,13 +445,13 @@ V.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de 
 
 VI.- Dar las bases para que el Ejecutivo celebre empréstitos, con las limitaciones que establece la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar los contratos respectivos y reconocer y autorizar el pago de las deudas que contraiga el Estado;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-VII.- Hacer el cómputo total de votos en la elección de Gobernador, calificar dicha elección y declarar electo a quien haya obtenido mayoría;
+VII.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo que hubiere hecho el Instituto Estatal Electoral;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-VIII.- Calificar la validez de las elecciones de los Ayuntamientos y declarar electa a la planilla que haya obtenido la mayoría;
+VIII.- Expedir el Bando Solemne para dar a conocer en el Municipio respectivo la declaración de munícipes electos que hubiere hecho el Instituto Estatal Electoral;
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -429,15 +465,17 @@ X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución;
 
 XI.- Aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como el Presupuesto de Egresos del Estado;
 
-XII.- Revisar anualmente las cuentas del Estado y de los Municipios y examinarlas cuando se estime conveniente;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+XII.- Revisar, analizar, auditar, dictaminar y discutir anualmente para su aprobación o desaprobación las cuentas públicas anuales del Gobierno del Estado, Municipios, Organismos e Instituciones Descentralizados, Empresas de Participación Estatal, Fideicomisos y demás Entidades que administren recursos públicos o cuando lo estime conveniente;
 
 XIII.- Vigilar por medio de una Comisión de su seno el funcionamiento de la Contaduría Mayor de Hacienda;
 
 XIV.- Nombrar y remover al Contador Mayor de Hacienda y a los empleados de esa dependencia;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-XV.- Nombrar a tres Consejeros integrantes al Consejo de la Judicatura del Estado;
+XV.- Nombrar a tres Consejeros integrantes al Consejo de la Judicatura del Estado, y a los Magistrados del Tribunal de Justicia Electoral Numerarios y Supernumerarios en orden de prelación, del Poder Judicial;
 
 XVI.- Designar, en los términos que previene esta Constitución, al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas;
 
@@ -445,11 +483,13 @@ XVI.- Designar, en los términos que previene esta Constitución, al ciudadano q
 
 XVII.- Convocar a elecciones, cuando fuere necesario conforme a lo establecido en la Ley;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-XVIII.- Resolver acerca de las renuncias de los Diputados, del Gobernador y de los representantes al Consejo de la Judicatura designados por el Congreso del Estado;
+XVIII.- Resolver acerca de las renuncias de los Diputados, del Gobernador, los Magistrados del Tribunal de Justicia Electoral del Poder Judicial, y de los representantes al Consejo de la Judicatura designados por el Congreso del Estado;
 
-XIX.- Otorgar licencias a los diputados y al Gobernador para separarse de sus cargos; y a los Magistrados del Tribunal Superior de Justicia cuando esto sea por más de dos meses;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+XIX.- Otorgar licencias a los Diputados y al Gobernador para separarse de sus cargos; y a los Magistrados del Poder Judicial cuando ésto sea por más de dos meses;
 
 XX.- Aprobar o reprobar los convenios que el Gobrenador (sic) celebre con las vecinas Entidades de la Federación respecto a la cuestión de límites, y someter tales convenios a la ratificación del Congreso de la Unión;
 
@@ -469,7 +509,9 @@ Conocer de las imputaciones que se hagan a los servidores públicos a que se ref
 
 XXV.- Erigirse en Jurado de Sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del Artículo 93 de esta Constitución;
 
-XXVI.- Fijar y Modificar la extensión del territorio que corresponda a los municipios, por voto de las dos tercias partes de los diputados presentes, suprimir alguno o crear otro nuevo;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+XXVI.- Fijar y modificar la extensión del territorio que corresponda a los municipios, por voto de las dos terceras partes de los Diputados presentes. Con esa misma mayoría, suprimir o crear nuevos municipios, previa consulta que se haga a los ciudadanos residentes en ellos mediante Plebiscito, y tomando en cuenta los factores geográficos, demográficos y socioeconómicos de la región;
 
 XXVII.- Conceder amnistía por delitos de carácter político de la competencia de los tribunales del Estado, cuando la pena no exceda de tres años de prisión, no se trate de reincidentes y siempre que sea acordada por dos tercias partes de los diputados presentes;
 
@@ -501,9 +543,19 @@ I.- A los diputados;
 
 II.- Al Gobernador;
 
-III.- Al Tribunal Superior en asuntos relacionados con la organización y funcionamiento de la administración de justicia;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+III.- Al Tribunal Superior en asuntos relacionados con la organización y funcionamiento de la administración de Justicia; así como al Tribunal de Justicia Electoral en asuntos inherentes a la materia electoral;
 
 IV.- A los Ayuntamientos.
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+V.- Al Instituto Estatal Electoral, exclusivamente en materia electoral; y
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+VI.- A los ciudadanos residentes en el Estado, en los términos que establezca la Ley.
 
 ###### ARTICULO 29.
 
@@ -549,9 +601,15 @@ Todo proyecto de ley al que no hubiere hecho observaciones el Ejecutivo dentro d
 
 Los proyectos de ley que hubieren sido objetados por el Ejecutivo, conforme a esta Constitución, y que hayan sido ratificados por el Congreso, deberán ser promulgados en un término que no exceda de cinco días, a contar de la fecha en que hayan sido remitidos nuevamente al Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+Las leyes que expida el Congreso del Estado, excepto las de índole tributario o fiscal, podrán ser sometidas a Referéndum, conforme lo disponga la Ley.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 35.
 
-El Gobernador del Estado no podrá hacer observaciones cuando el Congreso actúe en funciones de Colegio Electoral o como Jurado sobre los decretos que manden abrir o cerrar sus sesiones.
+El Gobernador del Estado no podrá hacer observaciones sobre los decretos que manden abrir o cerrar sesiones del Congreso o los emitidos por éste cuando actúe en funciones de Jurado de Sentencia.
 
 ###### ARTICULO 36.
 
@@ -587,9 +645,7 @@ IV.- Otorgar o negar su aprobación a los nombramientos de los Magistrados que h
 
 V.- Emitir dictamen sobre los asuntos que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten para dar cuenta al Congreso;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
-
-VI.- Recibir los expedientes electorales relativos a las elecciones de Gobernador y Ayuntamientos, para el sólo efecto de entregarlos al Colegio Electoral;
+VI.- (DEROGADA, P.O. 6 DE OCTUBRE DE 1997)
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -619,7 +675,9 @@ Para ser Gobernador del Estado se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento e hijo de madre o padre mexicanos.
 
-Aquellos ciudadanos candidatos a Gobernador del Estado, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con el Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad;
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+Aquellos ciudadanos candidatos a Gobernador del Estado cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo;
 
 II.- Tener 35 años cumplidos el día de la elección;
 
@@ -647,9 +705,11 @@ No podrán ser electos Gobernador del Estado: el Secretario de Gobierno, el Teso
 
 Los impedimentos para volver a ocupar el cargo de Gobernador son los que consigna el Artículo 115 de la Constitución General de la República.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
 ###### ARTICULO 44.
 
-El Gobernador será electo directa y popularmente cada seis años y entrará a ejercer sus funciones el día primero del mes de noviembre posterior a la elección.
+El Gobernador será electo cada seis años, mediante el sufragio universal, libre, secreto, directo, personal e intransferible y entrará a ejercer sus funciones el día primero del mes de Noviembre posterior a su elección.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -795,87 +855,93 @@ Las audiencias serán públicas, excepto aquellas que la moral o el interés col
 
 Las Corporaciones Policíacas, están obligadas a garantizar la plena ejecución de las resoluciones judiciales.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 57.
 
-El Poder Judicial del Estado, se ejercerá por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados de Paz, Jurados y Consejo de la Judicatura Local, denominado Consejo de la Judicatura del Estado de Baja California.
+El Poder Judicial del Estado se ejercerá por el Tribunal Superior de Justicia, Tribunal de Justicia Electoral, Juzgados de Primera Instancia, Juzgados de Paz, Jurados y por el Consejo de la Judicatura del Estado de Baja California.
 
-La remuneración de los Magistrados del Tribunal Superior de Justicia, Jueces de Primera Instancia, Jueces de Paz, Jurados y Consejeros de la Judicatura del Estado, no podrá ser disminuida durante el tiempo de su gestión.
+La representación del Poder Judicial recae en el presidente del Tribunal Superior de Justicia, el cual se elegirá y desempeñará sus funciones en los términos y por el período que la Ley señale.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1989)</small>
+La Ley garantizará la independencia de los Magistrados, Consejeros y Jueces en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
+
+Corresponde al Tribunal de Justicia Electoral como máxima autoridad jurisdiccional electoral estatal, y órgano especializado del Poder Judicial garantizar el cumplimiento del principio de legalidad de los actos y resoluciones electorales.
+
+Para garantizar su independencia económica, el Poder Judicial del Estado contará con su presupuesto propio, el que administrará y ejercerá en los términos que fije la Ley respectiva.
+
+El presupuesto del Poder Judicial, no podrá ser inferior al aprobado por el Congreso para el ejercicio anual anterior y alcanzará por lo menos, el 2% del total del Presupuesto de Egresos para el ejercicio correspondiente a las dependencias del Gobierno del Estado. El Congreso podrá reducir, por causa justificada y fundada, el porcentaje indicado.
+
+Las partidas extraordinarias y de emergencia que se determinen como tales, no se tomarán en cuenta para fijar el porcentaje a que se refiere este Artículo.
+
+Contará igualmente, con los recursos que se señalen para el Fondo de Administración de Justicia en las leyes respectivas, administrado por el Consejo de la Judicatura del Estado.
+
+La remuneración de los Magistrados del Poder Judicial a excepción de los Magistrados electorales, así como de los jueces de primera Instancia, Jueces de Paz, Jurados y Consejeros de la Judicatura del Estado, no podrá ser disminuida durante el tiempo de su gestión.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 58.
 
-El Tribunal Superior de Justicia estará integrado por trece Magistrados Propietarios como mínimo y seis Suplentes. Funcionará en los términos que disponga la Ley. Los Magistrados en Pleno, designarán a uno de sus miembros como Presidente, que durará un año en su cargo, pudiendo ser reelecto.
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
-
-###### ARTICULO 59.
+El Tribunal Superior de Justicia estará integrado por trece Magistrados Propietarios como mínimo, y seis Suplentes. Funcionará en los términos que disponga la Ley. Los Magistrados en Pleno, designarán a uno de sus miembros como Presidente, que durará un año en su cargo, pudiendo ser reelecto.
 
 El nombramiento de los Magistrados del Tribunal Superior de Justicia, será hecho por selección del Consejo de la Judicatura del Estado, previa convocatoria pública y examen de méritos a los aspirantes que cumplan los requisitos y los procedimientos establecidos por la Ley.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+Los Magistrados del Tribunal Superior de Justicia, durarán en su encargo un período de seis años a partir de la fecha a que alude el Artículo 44 de esta Constitución, pudiendo ser ratificados, sin perjuicio de ser privados de sus cargos en los términos que determine la Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado. La terminación de la función de los Magistrados será automática al vencer el período por el cual fueron designados, su ratificación sólo procederá previo dictamen en ese sentido que emita el Consejo de la Judicatura del Estado.
+
+El Tribunal de Justicia Electoral se integrará con tres Magistrados Numerarios y hasta dos Supernumerarios, que desempeñarán su encargo por tres años, pudiendo ser ratificados, eligiéndose de entre ellos al Presidente, en sesión de Pleno.
+
+Los Magistrados Electorales serán electos por el voto de las dos terceras partes de los integrantes del Congreso del Estado, previa convocatoria que éste emita; en la forma que determine su Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+###### ARTICULO 59.
+
+Los Tribunales del Poder Judicial resolverán las controversias que en el ámbito de su competencia se les presenten.
+
+La competencia del Tribunal Superior de Justicia, su funcionamiento en Pleno y en Salas; de los Jueces de Primera Instancia, Jueces de Paz, Jurados y Consejeros de la Judicatura del Estado se regirá por lo que dispongan la Ley Orgánica del Poder Judicial y, de conformidad con las bases que esta Constitución establece. De la misma forma y de conformidad con lo señalado en este ordenamiento se establecerá la competencia y el funcionamiento del Tribunal de Justicia Electoral.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 60.
 
-Los Magistrados del Tribunal Superior de Justicia, durarán en su cargo un período de seis años a partir de la fecha que alude el Artículo 44 de ésta Constitución, pudiendo ser ratificados, sin perjuicio de ser privados de sus cargos en los términos que determine la Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Para ser nombrado Magistrado del Poder Judicial, se requiere como mínimo:
 
-La terminación de la función de los magistrados será automática al vencer el período para el cual fueron designados, su ratificación sólo procederá previo dictamen en ese sentido que emita el Consejo de la Judicatura del Estado.
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
-
-###### ARTICULO 61.
-
-Las competencias y funciones que correspondan al Presidente del Tribunal Superior de Justicia, a los Magistrados y al Pleno del Tribunal, al Presidente del Consejo de la Judicatura, a los Consejeros y al Pleno del Consejo Local, así como a los Jueces de Primera Instancia, de Paz, y Jurados, serán determinados por la ley Orgánica del Poder Judicial.
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
-
-###### ARTICULO 62.
-
-Para ser nombrado Magistrado del Tribunal Superior de Justicia, se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+I.- Ser ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
 II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+III.- Poseer el día de la designación, con antigüedad mínima de diez años, Título Profesional de Licenciado en Derecho, expedido por autoridad o institución legalmente facultada para ello;
 
-III.- Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho, expedido por Autoridad o Institución Legalmente facultado para ello;
+IV.- Haber realizado por lo menos durante tres años, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación de normas jurídicas;
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de mas de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+V.- Tener residencia mínima de cinco años en el Estado, anteriores al día de su designación;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+VI.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena de mas de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
 
-V.- Haber residido en el país durante los dos años anteriores al día de la designación.
+VII.- No haber ocupado el cargo de Gobernador del Estado, Titular en una Secretaría o Procurador de Justicia, durante el año previo al día de la designación.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-VI.- No haber ocupado el cargo del Titular en una Secretaría, del Procurador de Justicia o Gobernador del Estado de Baja California, durante el año previo al día de la designación.
+###### ARTICULO 61.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+Cuando ocurra la falta definitiva de un Magistrado del Tribunal Superior de Justicia, el Consejo de la Judicatura procederá a hacer un nuevo nombramiento ajustándose a lo que establece esta Constitución y la ley respectiva. De igual forma se procederá en los casos de sus renuncias. Las licencias por más de dos meses, se someterán a la aprobación del Congreso del Estado.
+
+Los Magistrados Suplentes del Tribunal Superior de Justicia, cubrirán las faltas temporales de los propietarios, de acuerdo a lo que establece la Ley Orgánica del Poder Judicial del Estado.
+
+A la falta temporal de un Magistrado del Tribunal de Justicia Electoral, se llamará al Magistrado Supernumerario conforme al orden de prelación que haya señalado el Congreso del Estado al momento de la designación. En caso de ausencia definitiva se obrará de igual forma, hasta en tanto se proceda a la elección del Magistrado Numerario. En caso de ausencias definitivas, renuncias y licencias por más de dos meses, el Pleno del Tribunal acordará que por conducto de su Presidente se haga del conocimiento del Congreso Local, para su aprobación.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+###### ARTICULO 62.
+
+Los Jueces de Primera Instancia y de Paz que autorice la Ley Orgánica del Poder Judicial, serán designados por el Consejo de la Judicatura del Estado; durarán tres años en el cargo, deberán tener treinta años de edad, como mínimo al día de la elección, Título Profesional de Abogado o Licenciado en Derecho, debidamente registrado, cinco años de ejercicio profesional, tener residencia mínima en el Estado de cinco años anteriores al día de su designación y aprobar el examen de méritos correspondiente. Sólo podrán ser reelectos, cuando se distingan en el ejercicio en el ejercicio de sus funciones por medio de una labor ecuánime y efectiva, para el mejoramiento de la Administración de Justicia.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 63.
 
-Cuando ocurra la falta definitiva de un Magistrado, el Consejo de la Judicatura procederá a hacer un nuevo nombramiento, ajustándose a lo establecido en el Artículo 59 de esta Constitución y a la Ley respectiva.
-
-Los Magistrados Suplentes, cubrirán las faltas temporales de los Propietarios, de acuerdo a lo que establece la Ley Orgánica del Poder Judicial del Estado.
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
-
-###### ARTICULO 64.
-
-Los Jueces de Primera Instancia y de Paz que autorice la Ley Orgánica del Poder Judicial, serán designados por el Consejo de la Judicatura del Estado; durarán tres años en el cargo, deberán tener treinta años de edad, como mínimo al día de la elección, Título Profesional de Abogado o Licenciado en Derecho, debidamente registrado, cinco años de ejercicio profesional y aprobar el examen de méritos correspondiente. Sólo podrán ser reelectos, cuando se distingan en el ejercicio de sus funciones por medio de una labor ecuánime y efectiva, para el mejoramiento de la Administración de Justicia.
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
-
-###### ARTICULO 65.
-
 Corresponde al Tribunal Superior de Justicia:
 
-I.- Conocer de los negocios civiles y penales del fuero común como Tribunal de Apelación o de última instancia ordinaria;
+I.- Conocer de los negocios civiles y penales del fuero común, como Tribunal de Apelación o de última instancia ordinaria;
 
 II.- Resolver las cuestiones de competencia y las de acumulación que se susciten entre los Jueces, de conformidad a las leyes respectivas;
 
@@ -883,37 +949,53 @@ III.- Resolver sobre las recusaciones y excusas de Magistrados y Secretarios del
 
 IV.- Conocer de los juicios de responsabilidad que hayan de seguirse a los Funcionarios Públicos que gocen de fuero, previa declaración que se haga de haber lugar a formación de causa;
 
-V.- Consignar ante la autoridad competente a los jueces y demás funcionarios o empleados del Poder Judicial, por delitos comunes o responsabilidades oficiales en que incurran;
+V.- Consignar ante la autoridad competente a los jueces y demás funcionarios o empleados del Poder Judicial, por delitos comunes o responsabilidades oficiales en que incurran, y
 
-VI.- Ejercer las demás atribuciones que les señale esta Constitución y las Leyes ordinarias.
+VI.- Ejercer las demás atribuciones que les señale esta Constitución y las Leyes Ordinarias.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+###### ARTICULO 64.
+
+La vigilancia, administración y disciplina del Poder Judicial del Estado, incluyendo al Tribunal Superior de Justicia estará a cargo del Consejo de la Judicatura del Estado en los términos que establezcan las leyes, y conforme a las bases que señale esta Constitución.
+
+La vigilancia, administración, disciplina y carrera judicial del Tribunal de Justicia Electoral estará a cargo del Pleno del mismo Tribunal, auxiliado en los términos que la Ley establezca por la Comisión de Administración, órgano que se integra por los Magistrados del Tribunal de Justicia Electoral, presidido por el Presidente del mismo, y dos miembros del Consejo de la Judicatura, a estos últimos que se les denominará Comisionados.
+
+Esta Comisión tiene el carácter de permanente y sesionará válidamente con la presencia de sus integrantes, adoptando sus decisiones por mayoría de los miembros. En caso de empate el Presidente tiene voto de calidad.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+###### ARTICULO 65.
+
+El Presidente del Tribunal Superior de Justicia, tendrá la representación del Consejo de la Judicatura del Estado, y las funciones que fija la Ley Orgánica respectiva.
+
+El Consejo de la Judicatura se integrará por siete miembros, de los cuales uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo y quien tendrá voto de calidad en caso de empate; el Presidente del Tribunal de Justicia Electoral; un Magistrado del Tribunal Superior y un Juez de Primera Instancia, electos mediante insaculación; tres Consejeros elegidos por el Congreso del Estado, por mayoría calificada, estos tres últimos, deberán ser personas que se hayan distinguido por su capacidad, honestidad, y honorabilidad en el ejercicio de las actividades jurídicas. Los Consejeros deberán reunir los requisitos que para ser Magistrados establece la Ley.
+
+El Consejo funcionará en Pleno o por Comisiones, el Pleno resolverá sobre la designación, adscripción, remoción y renuncia de Magistrados, Jueces, Secretarios de Acuerdos y Actuarios del Tribunal Superior de Justicia, así como de los demás asuntos que la ley determine. Salvo el Presidente del Consejo, los demás Consejeros durarán cinco años en su cargo a partir de su nombramiento y no podrán ser nombrados para un nuevo período.
+
+Los consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Octavo de esta Constitución.
+
+La Ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones de conformidad con lo que establezca la Ley.
+
+El Consejo de la Judicatura del Estado elaborará el presupuesto global del Poder Judicial, que comprenderá el del Tribunal Superior de Justicia y del Tribunal de Justicia Electoral, de los Juzgados y demás órganos judiciales, remitiéndolo para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 66.
 
-La vigilancia, administración y disciplina del Poder Judicial del Estado, incluyendo al Tribunal Superior de Justicia, estará a cargo del Consejo de la Judicatura del Estado en los términos que conforme a las bases que señala esta Constitución, establezcan las leyes. El Presidente del Tribunal Superior de Justicia, tendrá la representación de este alto cuerpo, y las funciones que fija la Ley Orgánica respectiva.
-
-El Consejo de la Judicatura se integrará por seis miembros, de los cuales uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo y quien tendrá voto de calidad en caso de empate; un Magistrado, un Juez de Primera Instancia, electos mediante insaculación; tres Consejeros elegidos por el Congreso del Estado, por mayoría calificada, estos tres últimos, deberán ser personas que se hayan distinguido por su capacidad, honestidad, y honorabilidad en el ejercicio de las actividades jurídicas. Los consejeros deberán reunir los requisitos que para ser Magistrados establece la Ley.
-
-El Consejo funcionará en pleno o por comisiones el Pleno resolverá sobre la designación, adscripción, remoción y renuncia de Magistrados, Jueces, Secretarios de Acuerdos y Actuarios, así como de los demás asuntos que la Ley determine. Salvo el Presidente del Consejo, los demás Consejeros durarán cinco años en su cargo a partir de su nombramiento, y no podrán ser nombrados para un nuevo período.
-
-Los Consejeros ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Octavo de esta Constitución.
-
-La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
-
-El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones de conformidad con lo que establezca la ley.
-
-El Consejo de la Judicatura del Estado elaborará el Presupuesto Global del Poder Judicial, que comprenderá el del Tribunal Superior de Justicia, de los Juzgados y demás Organos Judiciales remitiéndolo para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
-
-###### ARTICULO 67.
-
-Los Magistrados, Jueces, Secretarios de Acuerdos, Actuarios del Poder Judicial y Miembros del Consejo de la Judicatura del Estado, durante el tiempo de su encargo, aún cuando tengan carácter de Interinos, no podrán aceptar ni desempeñar empleo en la Federación, Estado o Municipios ni de particulares, salvo los cargos docentes, o en asociaciones científicas, literarias o de beneficencia.
+Los Magistrados, Jueces, Secretarios de Acuerdos, Actuarios del Poder Judicial y miembros del Consejo de la Judicatura del Estado, durante el tiempo de su encargo, aún cuando tengan carácter de Interinos, no podrán aceptar ni desempeñar empleo en la Federación, Estado o Municipios ni de particulares, salvo los cargos docentes, o en asociaciones científicas, literarias o de beneficencia, con excepción de los Magistrados electorales en que se estará a lo que establezca la Ley.
 
 La infracción a lo previsto en el párrafo anterior, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, independientemente de las demás sanciones que las leyes prevean.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+###### ARTICULO 67.
+
+Los Consejeros de la Judicatura, Magistrados, Jueces y demás funcionarios del Poder Judicial, serán responsables de los delitos y faltas en que incurran durante el ejercicio de su cargo.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ### CAPITULO UNICO.. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
@@ -921,7 +1003,27 @@ La infracción a lo previsto en el párrafo anterior, será sancionada con la p�
 
 ###### ARTICULO 68.
 
-Los Consejeros de la Judicatura, Magistrados, Jueces y demás Funcionarios del Poder Judicial, serán responsables de los delitos y faltas en que incurran durante el ejercicio de su cargo.
+El Tribunal de Justicia Electoral será la máxima autoridad jurisdiccional electoral estatal y órgano especializado del Poder Judicial del Estado. Será autónomo en su funcionamiento e independiente en sus decisiones. El Poder Legislativo, garantizará su debida integración.
+
+El Tribunal de Justicia Electoral, tendrá competencia para resolver, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral estatal.
+
+El Tribunal de Justicia Electoral funcionará en Pleno y en Unica Instancia. Sus sesiones de resolución serán públicas en los términos que establezca la Ley.
+
+El Tribunal de Justicia Electoral resolverá en forma definitiva y firme en los términos de esta Constitución y de la Ley de la Materia, sobre:
+
+I.- Las impugnaciones en las elecciones de Diputados, Munícipes y Gobernador;
+
+II.- Las impugnaciones de actos y resoluciones de la autoridad electoral local distintas a las señaladas en la fracción anterior;
+
+III.- Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar y ser votado y de afiliación libre y pacífica para tomar parte en los asuntos políticos del Estado; y
+
+IV.- Las demás que señale la Ley.
+
+La organización y competencia del Tribunal de Justicia Electoral, así como los procedimientos para la resolución de los asuntos de su competencia, y los mecanismos para fijar criterios obligatorios en la materia, serán los que determine la ley.
+
+El Tribunal de Justicia Electoral, por conducto de su Presidente, presentará su proyecto de presupuesto al Presidente del Tribunal Superior de Justicia para su inclusión agregada al proyecto de presupuesto del Poder Judicial.
+
+El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas para su adecuado funcionamiento.
 
 ### CAPITULO UNICO.. PREVENCIONES GENERALES
 
@@ -961,11 +1063,11 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 El Gobierno de los Municipios se ejercerá por los Ayuntamientos que radicarán en las cabeceras de las Municipalidades.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 77.
 
-Los Ayuntamientos se compondrán de munícipes electos por votación popular directa, por el principio de mayoría relativa y el sistema de representación proporcional. No habrá ninguna autoridad intermedia entre estos organismos y el Gobierno del Estado.
+Los Ayuntamientos se compondrán de munícipes, electos por el sufragio universal, libre, secreto, directo, personal e intransferible, y mediante los principios de mayoría relativa y de representación proporcional. No habrá ninguna autoridad intermedia entre estos organismos y el Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -987,37 +1089,61 @@ II.- Para que los partidos políticos o coaliciones tengan derecho a la asignaci
 
 a).- Haber obtenido el registro de planilla completa de candidatos a munícipes en el Municipio que corresponda;
 
-b).- Haber obtenido por lo menos el uno punto cinco por ciento de la votación validamente emitida en la elección de munícipes correspondiente; y
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-c).- No haber obtenido la constancia de mayoría respectiva.
+b).- Haber obtenido por lo menos el tres por ciento de la votación emitida en la elección de munícipes correspondiente; y
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+c).- No haber obtenido la constancia de mayoría respectiva, y
 
 III.- La asignación de Regidores mediante el principio de representación proporcional se sujetará, a lo que disponga la Ley respectiva y mediante el siguiente procedimiento:
 
-a).- Determinará qué partidos políticos o coaliciones cumplen con lo estipulado en la fracción anterior;
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-b).- Primeramente se asignará un Regidor a cada partido político o coalición con derecho a la representación proporcional.
+a).- El Instituto Estatal Electoral determinará que partidos políticos o coaliciones cumplen con lo estipulado en la fracción anterior;
 
-Posteriormente se asignará un Regidor a aquellos partidos políticos o coalición que habiendo cumplido con los requisitos de la Fracción II de este Artículo, hayan alcanzado el seis por ciento de la votación municipal emitida.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-En caso de que el número de partidos políticos o coaliciones sean mayores que las Regidurías por asignar, éstas se asignarán en orden descendente hasta agotarlas;
+b).- Primeramente asignará un Regidor a cada partido político o coalición con derecho a la representación proporcional.
+
+En caso de que el número de partidos políticos sea mayor que el Regidurías por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarlas;
 
 c).- Si después de efectuada la operación indicada en el inciso anterior aún hubiera Regidurías por asignar, se realizarán las siguientes operaciones:
 
 1.- Se sumarán los votos de los partidos políticos o coaliciones con derecho a la representación proporcional, que servirá como base para obtener los nuevos porcentajes de participación a que se refiere el numeral siguiente;
 
-2.- Se deberá obtener el nuevo porcentaje de cada partido político o coalición, que tenga derecho a la asignación mediante el cociente natural que se obtiene multiplicando la votación municipal de cada partido político por cien, y dividiendo el resultado entre la suma de los votos de los partidos políticos participantes;
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-3.- Se obtendrá la expectativa de integración al Ayuntamiento de cada partido político o coalición, con derecho a ello mediante el cociente natural que se obtiene multiplicando el nuevo porcentaje municipal de cada partido político o coalición, por el número de Regidurías de representación proporcional que corresponda y dividiéndolo entre cien.
+2.- Se deberá obtener el nuevo porcentaje de cada partido político o coalición, que tenga derecho a la asignación mediante el cociente natural que se obtiene multiplicando la votación municipal de cada partido político o coalición por cien, y dividiendo el resultado entre la suma de los votos de los partidos políticos o coaliciones participantes;
 
-4.- Se le restará a cada partido político o coalición de su expectativa de integración al Ayuntamiento, la asignación efectuada conforme al inciso b) de esta fracción.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-d).- Se asignarán a cada partido político o coalición tantas Regidurías como números enteros se hayan obtenido de la operación realizada en el numeral cuatro del inciso anterior; y
+3.- Se obtendrá la expectativa de integración al Ayuntamiento de cada partido político o coalición, con derecho a ello mediante el cociente natural que se obtiene multiplicando el porcentaje obtenido en el numeral anterior de cada partido político o coalición por el número de Regidurías de representación proporcional que corresponda, según la fracción I de este Artículo, dividiéndolo entre cien, y
 
-e).- En caso de que aún hubieran Regidurías por repartir, se asignarán a los partidos políticos o coaliciones que conserven los restos mayores, después de deducir las asignaciones que se indican en el inciso anterior.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+4.- Se le restará de la expectativa de integración al Ayuntamiento a cada partido político o coalición, la asignación efectuada en los términos del inciso b) de esta fracción;
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+d).- Se asignará a cada partido político o coalición alternadamente, tantas Regidurías como números enteros se hayan obtenido de la operación realizada en el numeral 4 del inciso anterior;
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+e).- En caso de que aún hubieren más Regidurías por repartir, se asignarán a los partidos políticos o coaliciones que conserven los restos mayores, después de deducir las asignaciones efectuadas en el inciso anterior, y
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+f).- La asignación de las Regidurías de representación proporcional que correspondan a cada partido político o coalición, la hará el Instituto Estatal Electoral de la Lista de candidatos a Regidores que haya registrado cada partido político o coalición, en el orden que los mismos fueron registrados.
 
 Los integrantes de los Ayuntamientos contarán con sus respectivos suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+Los conceptos que señala el Artículo 15 de esta Constitución, serán aplicables para el desarrollo de la fórmula de asignación aquí prevista.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 79.
 
@@ -1027,7 +1153,9 @@ Para ser miembro de un Ayuntamiento, con la salvedad de que el Presidente Munici
 
 I.- Ser ciudadano mexicano por nacimiento e hijo de madre o padre mexicanos.
 
-Aquellos ciudadanos candidatos a Munícipes Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con el Certificado que expida en su caso, la Secretaría de Relaciones Exteriores del Gobierno Federal, fechado con anterioridad al día en que cumplan 21 años de edad;
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+Aquellos ciudadanos candidatos a munícipes Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, fechado con anterioridad al período que se exige de residencia efectiva para ser electo;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -1217,11 +1345,11 @@ La Ley Penal sancionará con el decomiso y con la privación de la propiedad de 
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado respecto de las conductas a las que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 93.
 
-Podrán ser sujetos de Juicio Político los Diputados del Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Oficial Mayor del Gobierno del Estado, Titulares de las Secretarías del Ejecutivo del Estado, Procurador General de Justicia del Estado, Procurador de los Derechos Humanos, Magistrados del Tribunal de lo Contencioso Administrativo, Jueces, Presidentes Municipales, Regidores, Síndicos Municipales y demás miembros de los Ayuntamientos de Elección Popular, Consejos Municipales, Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos.
+Podrán ser sujetos de Juicio Político los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Oficial Mayor del Gobierno del Estado, Titulares de las Secretarías del Ejecutivo del Estado, Procurador General de Justicia del Estado, Procurador de los Derechos Humanos, Magistrados del Tribunal de lo Contencioso Administrativo, Jueces, Presidentes Municipales, Regidores, Síndicos Municipales y demás miembros de los Ayuntamientos de Elección Popular, Consejos Municipales, Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1235,11 +1363,11 @@ Para la aplicación de las sanciones a que se refiere este precepto, el Congreso
 
 El Congreso del Estado concurriendo cuando menos las dos terceras partes del número total de sus miembros, se erigirá en Jurado de Sentencia una vez practicadas las diligencias correspondientes con audiencias del acusado, emitirá el fallo correspondiente tomado por acuerdo de las dos terceras partes del número total de diputado (sic). En ese caso no votarán quienes hayan integrado la Comisión Instructora.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 ###### ARTICULO 94.
 
-Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Procurador General de Justicia del Estado, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado, por la comisión de delitos durante el tiempo de su encargo el Congreso declarará por las dos terceras partes de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de miembros presentes en sesión cuando se refiera a los demás Servidores Públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Procurador General de Justicia del Estado, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado, por la comisión de delitos durante el tiempo de su encargo el Congreso declarará por las dos terceras partes de sus integrantes si se trata del Gobernador o Presidentes Municipales, o por mayoría absoluta de miembros presentes en sesión cuando se refiera a los demás Servidores Públicos aquí mencionados, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1249,9 +1377,9 @@ Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento 
 
 Si el Congreso del Estado declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
-En el caso de que el Gobernador del Estado, Diputados, Magistrados del Tribunal Superior de Justicia, y Consejeros de la Judicatura del Estado, sean declarados responsables en Juicio Político por la Cámara de Senadores del Congreso de la Unión o sujetos de declaración de procedencia por la Cámara de Diputados del mismo Congreso, la Legislatura del Estado determinará las sanciones de las señaladas en el Artículo 93 que deban imponerse al acusado si se está en el primer caso, o decretará la separación del Servidor Público de que se trate del cargo que ocupa y lo hará saber así a la autoridad que haya solicitado la remoción del Fuero Constitucional.
+En el caso de que el Gobernador del Estado, Diputados, Magistrados del Poder Judicial del Estado y Consejeros de la Judicatura del Estado, sean declarados responsables en Juicio Político por la Cámara de Senadores del Congreso de la Unión o sujetos de declaración de procedencia por la Cámara de Diputados del mismo Congreso, la Legislatura del Estado determinará las sanciones de las señaladas en el Artículo 93 que deban imponerse al acusado si se está en el primer caso, o decretará la separación del Servidor Público de que se trate del cargo que ocupa y lo hará saber así a la Autoridad que haya solicitado la remoción del Fuero Constitucional.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1405,7 +1533,9 @@ Esta Constitución sólo podrá adicionarse o reformarse con los siguientes requ
 
 Si transcurriere un mes después de que se compruebe que ha sido recibido el proyecto de que se trata, sin que los Ayuntamientos remitieran al Congreso el resultado de la votación, se entenderá que aceptan la adición o reforma.
 
-Las adiciones o reformas hechas a la Constitución Política de los Estados Unidos Mexicanos, que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y promulgadas sin necesidad de algún otro trámite.
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+Las reformas o adiciones efectuadas a esta Constitución, aprobadas de conformidad al procedimiento señalado, podrán ser sometidas a Referéndum, de conformidad a las disposiciones que la Ley establezca.
 
 ###### ARTICULO 113.
 
@@ -1782,3 +1912,37 @@ Aprobada que sea esta iniciativa por esta Honorable Asamblea, envíese a los Ayu
 ###### ARTICULO SEGUNDO.
 
 Agotado el trámite y pronunciada la declaratoria señalada por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, las presentes reformas entrarán en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE OCTUBRE DE 1997.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, previo cumplimiento del procedimiento que prescribe el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Los derechos y obligaciones de los trabajadores del Tribunal de Justicia Electoral que se integra al Poder Judicial del Estado, serán respetados conforme a la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California y demás disposiciones legales aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Las Leyes Electorales Estatales, deberán reformarse, promulgarse y publicarse por lo menos noventa días antes de que se inicie el proceso electoral en que vayan a aplicarse, y durante el mismo no podrá haber modificaciones legales, con fundamento en el Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO CUARTO.
+
+A más tardar el día 11 de Diciembre de 1997, deberán ser nombrados los Consejeros Ciudadanos Numerarios y Supernumerarios, que sustituirán a los actuales Consejeros Ciudadanos, conforme a esta reforma Constitucional, mediante el voto de las dos terceras partes de los Diputados integrantes del Pleno del Congreso del Estado.
+
+###### ARTÍCULO QUINTO.
+
+A más tardar el día 11 de Diciembre de 1997, deberán ser nombrados los Magistrados Numerarios y los Supernumerarios del Tribunal de Justicia Electoral, que desempeñarán su encargo por tres años, y por el voto de las dos terceras partes de los Diputados Integrantes del Congreso del Estado.
+
+###### ARTÍCULO SEXTO.
+
+En tanto se hacen los nombramientos o se reforma la Ley de la materia, el Consejo Estatal Electoral y los Consejos Distritales Electorales, del Instituto Estatal Electoral, seguirán ejerciendo las competencias y funciones que actualmente les señala la Ley de Instituciones y Procesos Electorales para el Estado de Baja California.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto se expiden o reforman las Leyes correspondientes, el Tribunal de Justicia Electoral, seguirá ejerciendo las competencias y funciones que actualmente le señala la Ley de Instituciones y Procesos Electorales para el Estado de Baja California.
+
+###### ARTÍCULO OCTAVO.
+
+Un Distrito Local Electoral de los dieciséis que tenga el Estado de Baja California, tendrá cabecera en el Municipio de Playas de Rosarito.
