@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "1987-07-19"
+last_updated: "1988-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1988.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -933,11 +933,11 @@ DE LA NULIFICACION, RECTIFICACION, MODIFICACION, ACLARACION Y REPOSICION DE ACTA
 
 La nulificación, rectificación o modificación de un acta del Registro Civil, así como su reposición, no puede hacerse sino mediante sentencia ejecutoria, salvo reconocimiento que voluntariamente haga un progenitor de su hijo, el cual se sujetará a las prescripciones de este Código.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1988)</small>
 
 ###### Artículo 129.
 
-Hay lugar a pedir la nulificación, en todo o en parte, de un acta del Registro Civil cuando el suceso registrado no haya ocurrido, o cuando haya habido falsedad en alguno de los elementos esenciales que lo constituyan.
+Ha lugar a pedir la nulificación de una acta del Registro Civil, cuando el suceso registrado conste en otra acta de fecha anterior, de todo o parte de ella, cuando el suceso registrado no haya ocurrido o cuando haya habido falsedad en alguno de los elementos esenciales que lo constituyan.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -967,7 +967,11 @@ II.- Las que se mencionan en el acta como relacionadas con el estado civil de al
 
 III.- Los herederos de las personas comprendidas en las dos fracciones anteriores;
 
-IV.- Los que según los Artículos 372, 373 y 374, pueden continuar o intentar o apersonarse en la acción de que en ellos se trata.
+IV.- Los que según los Artículos 372, 373 y 374, pueden continuar o intentar o apersonarse en la acción de que en ellos se trata;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 1988)</small>
+
+V.- El Ministerio Público.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -1843,11 +1847,15 @@ El divorcio así obtenido no surtirá efectos legales si se comprueba que los c�
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 1988)</small>
+
 ###### Artículo 295.
 
 Los cónyuges que se encuentren en el caso del párrafo último del artículo anterior, están obligados a presentar al Juzgado un convenio en que fijen los siguientes puntos:
 
-I.- Designación de la persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio y, en general, el arreglo de la situación de aquéllos;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 1988)</small>
+
+I.- Designación del cónyuge que ejercerá en forma exclusiva la patria potestad y a quien serán confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio y, en general, el arreglo de la situación de aquellos;
 
 II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
@@ -1905,17 +1913,25 @@ V.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a
 
 VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos; el juez, con audiencia del otro cónyuge, resolverá inmediatamente designando la persona en caso de no ser aceptada la propuesta.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1988)</small>
 
 ###### Artículo 305.
 
-La sentencia de divorcio fijará la situación de los hijos cuando la causa del divorcio estuviere comprendida en la Fracción V del Artículo 289 de la siguiente manera: Los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda y si no los hubiere se nombrará tutor. En caso de que el divorcio tenga como causa lo señalado en las Fracciones VI y VII del Artículo 289, los hijos siempre quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de los hijos.
+En la sentencia de divorcio se designará al cónyuge, ascendiente o tutor que ejercerá en forma exclusiva la patria potestad y a quien serán confiados los hijos del matrimonio, conforme a las siguientes reglas:
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1979)</small>
+I.- Si la causa del divorcio estuviere comprendida en cualquiera de las fracciones excepto la VI, VII y XVII del Artículo 289, los hijos quedarán bajo la patria potestad y custodia del cónyuge no culpable, pero a la muerte de éste, el cónyuge culpable los recuperará excepto si la causa del divorcio fue de las comprendidas en las fracciones III, IV, V y XV, en cuyo caso los menores quedarán bajo la patria potestad y custodia del ascendiente que corresponda o del tutor nombrado si no lo hubiere.
+
+Si los dos cónyuges fueren culpables, los hijos quedarán bajo la patria potestad y custodia del ascendiente que corresponda o del tutor nombrado si no lo hubiere;
+
+II.- En el caso de que el divorcio tenga como causa las comprendidas en las fracciones VI y VII del Artículo 289, los hijos quedarán bajo la patria potestad y custodia del cónyuge sano y en caso de la muerte de éste, bajo la del ascendiente que corresponda o del tutor nombrado si no lo hubiere;
+
+III.- Si el divorcio tuviere por causa la prevista en la fracción XVII del Artículo 289, los padres de común acuerdo designarán al que ejercerá en forma exclusiva la patria potestad a quien serán confiados los hijos del matrimonio.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1988)</small>
 
 ###### Artículo 306.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, en el caso de que el divorcio tenga como causal la señalada por la Fracción V del Artículo 289, los hijos podrán ser beneficiados por cualquier providencia que se dicte en su favor a petición de los abuelos, tíos o hermanos mayores.
+Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, éstos podrán ser beneficiados por cualquier providencia que se dicte en su favor a petición de los abuelos, tíos o hermanos mayores.
 
 ###### Artículo 307.
 
@@ -8291,6 +8307,8 @@ La aceptación en ningún caso produce confusión de los bienes del autor de la 
 
 DE LA PARTICION.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1988)</small>
+
 ###### Artículo 1560.
 
 No podrá ser albacea el que no tenga la libre disposición de sus bienes.
@@ -8729,7 +8747,7 @@ DE LA RESCISION Y NULIDAD DE LAS PARTICIONES.
 
 ###### Artículo 1648.
 
-Aprobados el inventario y la cuenta de administración, el albacea debe hacer en seguida (sic) la partición de la herencia.
+Aprobado el inventario el albacea debe hacer en seguida (sic) la partición de la herencia.
 
 ###### Artículo 1649.
 
@@ -15372,3 +15390,7 @@ TERCERO.- Se derogan las disposiciones legales que se opongan al contenido de es
 P.O. 19 DE JULIO DE 1987.
 
 UNICO.- Este Decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE AGOSTO DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
