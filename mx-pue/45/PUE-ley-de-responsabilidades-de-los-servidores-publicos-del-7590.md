@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7590"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-29"
-last_updated: "1984-06-29"
+last_updated: "1986-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1986.
 
 Ley publicada en la Primera Sección del Periódico Oficial, el viernes 29 de junio de 1984.
 
@@ -313,7 +313,9 @@ El Juez practicará las diligencias que se le encomienden al respecto, con estri
 
 Tanto el inculpado como el denunciante o querellante, podrán solicitar de las oficinas o establecimientos públicos las copias certificadas de documentos que pretendan ofrecer como prueba ante la Comisión respectiva o ante el Congreso del Estado.
 
-Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren la Comisión, o el Congreso del Estado, a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario vigente en la Capital del Estado, sanción que se hará efectiva si la Autoridad no las expidiere. Si resultase falso que el interesado hubiere solicitado las constancias, la multa se hará efectiva en su contra.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1986)</small>
+
+Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren la Comisión, o el Congreso del Estado, a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario vigente en la Capital del Estado, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiere solicitado las constancias, la multa se hará efectiva en su contra.
 
 Por su parte, la Comisión o el Congreso del Estado solicitarán las copias certificadas de constancias que estime necesarias para el procedimiento, y si la autoridad de quien las solicitasen no las remite dentro del plazo discrecional que se le señale, se le impondrá la multa a que se refiere el párrafo anterior.
 
@@ -327,9 +329,11 @@ Dictada la resolución definitiva en el procedimiento, los documentos y expedien
 
 No podrán votar en ningún caso los Diputados que hubiesen presentado la imputación contra el servidor público, ni aquéllos que hayan aceptado el cargo de defensor, aún cuando lo renuncien después de haber comenzado a ejercerlo.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1986)</small>
+
 ###### Artículo 42.
 
-En lo no previsto por esta Ley, en relación con las discusiones y votaciones se observarán, en lo aplicable, las reglas que establecen la Constitución del Estado, y la Ley Orgánica y Reglamentaria del Poder Legislativo, para discusión y votación de las Leyes. En todo caso, las votaciones deberán ser nominales formular, aprobar o reprobar las conclusiones o dictámenes de las Comisiones y para resolver incidental o definitivamente en el procedimiento.
+En todo lo no previsto en el Título Segundo de esta Ley, en relación con las discusiones y votaciones se observarán, en lo aplicable, las reglas que establecen la Constitución del Estado y la Ley Orgánica y Reglamentaria del Poder Legislativo, para discusión y votación de las Leyes. En todo caso, las votaciones deberán ser nominales para formular, aprobar o reprobar las conclusiones o dictámenes de las Comisiones y para resolver incidental o definitivamente en el procedimiento.
 
 ###### Artículo 43.
 
@@ -353,9 +357,11 @@ Las declaraciones o resoluciones aprobadas por el Congreso del Estado con arregl
 
 Recibida por el Congreso del Estado la notificación de las declaratorias de las Cámaras del Congreso de la Unión relativa al Gobernador del Estado, Diputados Locales y Magistrados del Tribunal Superior de Justicia de la Entidad, a que se refiere el artículo 111 de la Constitución General de la República, procederá como lo dispone la presente Ley.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1986)</small>
+
 ###### Artículo 48.
 
-En todo lo relativo al procedimiento no previsto en esta Ley, así como en la apreciación y valoración de las pruebas, se observarán las disposiciones del Código de Procedimientos en materia de Defensa Social del Estado. Asimismo, se aplicarán, en lo conducente, las del Código de Defensa Social del Estado.
+En todo lo no previsto en los procedimientos que se contemplan en los Títulos Segundo y Tercero de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán las disposiciones del Código de Procedimientos en Materia de Defensa Social del Estado. Asimismo, se aplicarán en lo conducente, las del Código de Defensa Social del Estado.
 
 ## TITULO TERCERO. RESPONSABILIDAD (SIC) ADMINISTRATIVAS
 
@@ -385,7 +391,9 @@ VII.- Respetar a sus superiores, cumpliendo las disposiciones que éstos dicten 
 
 VIII.- Comunicar por escrito al titular las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
 
-IX.- Abstenerse de ejercer las funciones de un empleo, cargo o comisión después de concluido el período para el cual se le designó o de haber cesado, por cualquiera otra causa, en el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1986)</small>
+
+IX.- Abstenerse de ejercer las funciones de su empleo, cargo o comisión después de concluido el período para el cual se le asignó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones. Debiendo en todo caso entregar a quien su superior jerárquico designe, todos los recursos patrimoniales que haya tenido a su disposición, así como los documentos y asuntos relacionados con sus funciones en un término no mayor de cinco días hábiles, contados a partir de la fecha de su separación, debiendo levantarse acta administrativa circunstanciada ante el Organo de Control que corresponda.
 
 X.- Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores por más de tres días continuos o quince discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando no estén justificadas;
 
@@ -519,6 +527,10 @@ VII.- Tratándose de Presidentes Municipales, Regidores y Síndicos, la aplicaci
 
 VIII.- Respecto a los servidores públicos municipales, distintos a los precisados en la fracción anterior, las sanciones y acciones a que se refiere este artículo, corresponde aplicarlas y ejercitarlas a los Ayuntamientos por conducto del Presidente Municipal, independientemente del monto de las sanciones económicas respectivas.
 
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 1986)</small>
+
+IX.- Cuando el superior jerárquico o la autoridad competente en términos de esta Ley, no aplique las sanciones administrativas impuestas, en un término de 30 días hábiles, contados a partir de la fecha de su notificación, la Secretaría cuando lo considere pertinente, podrá aplicar tales sanciones.
+
 ###### Artículo 63.
 
 Todo Servidor Público deberá denunciar por escrito a la Contraloría Interna de su dependencia los hechos que, a su juicio, sean causa de responsabilidad administrativa, imputables a servidores públicos sujetos a su dirección.
@@ -547,9 +559,11 @@ Si de las investigaciones y auditorías que realice la Secretaría apareciera la
 
 Si se trata de responsabilidad mayor, cuyo conocimiento solo compete a la Secretaria, esta se avocara directamente al asunto informando de ello al Titular de la dependencia y a la Contraloria Interna de la misma, para que practique o coadyuve en el procedimiento de determinacion de responsabilidades.
 
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 1986)</small>
+
 ###### Artículo 67.
 
-La dependencia, los Ayuntamientos y la Secretaría, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en el Estado.
+La Dependencia, los Ayuntamientos y la Secretaría, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en la Capital del Estado.
 
 ###### Artículo 68.
 
@@ -577,11 +591,11 @@ El titular de la dependencia o Entidad y los Ayuntamientos podrán designar un r
 
 Las resoluciones y acuerdos que se dicten durante el procedimiento a que se refiere este capítulo constarán por escrito, y se asentarán en el registro respectivo.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1986)</small>
+
 ###### Artículo 72.
 
-La Secretaría expedirá constancias que acrediten la no existencia de registro de inhabilitación.
-
-Lo dispuesto en el párrafo anterior, es aplicable a los Ayuntamientos.
+La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán llevar un registro actualizado de los servidores públicos que hayan sido inhabilitados para desempeñar empleos, cargos o comisiones en el servicio público, en términos de esta Ley y expedirán además las constancias que acrediten la no existencia de registro de inhabilitación.
 
 ###### Artículo 73.
 
@@ -665,7 +679,9 @@ Tienen obligación de presentar declaración de situación patrimonial, en los t
 
 I.- En el Congreso del Estado, los Diputados, Oficial Mayor, Tesorero, y Contador General de Glosa;
 
-II.- En el Poder Ejecutivo Estatal, todos los servidores públicos, desde el nivel de Jefes de Departamento hasta el Gobernador del Estado y quienes manejen, recauden o administen (sic) fondos y recursos estatales;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1986)</small>
+
+II.- En el Poder Ejecutivo Estatal, todos los Servidores Públicos de confianza y los comprendidos desde el nivel de Jefes de Departamento, hasta el Gobernador del Estado y quienes manejen, recauden o administren fondos y recursos estatales;
 
 III.- En la Procuraduría General de Justicia del Estado desde el Procurador General hasta los jefes de departamento, incluyendo a los Agentes del Ministerio Público y Policías Judiciales;
 
@@ -679,6 +695,10 @@ VII.- En el Poder Judicial Estatal, Magistrados, Jueces, Secretarios, Oficiales 
 
 VIII.- En la Secretaría, todos los servidores públicos de confianza.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1986)</small>
+
+La Secretaría, previo acuerdo del Gobernador del Estado, podrá determinar cuales Servidores Públicos del Poder Ejecutivo Estatal, además de los señalados en este Artículo deberán presentar su declaración patrimonial y de modificaciones a la misma, dentro de los plazos previstos en los Artículos 83 y 84 de esta Ley.
+
 ###### Artículo 83.
 
 La declaración de situación patrimonial deberá presentarse en los siguientes plazos:
@@ -691,9 +711,11 @@ II.- Dentro de los treinta días naturales siguientes a la conclusión del encar
 
 Los servidores públicos durante los meses de enero y febrero de cada año, deberán presentar declaración sobre la modificación que haya sufrido o no su situación patrimonial, en el año anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 1986)</small>
+
 ###### Artículo 85.
 
-Si transcurridos los plazos a que hacen referencia los dos artículos anteriores, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo, previa declaración de la Secretaría, substanciando el procedimiento administrativo que establece el título tercero de esta Ley, cuya declaratoria se comunicará al superior jerárquico y en su caso, al Tribunal Superior de Justicia y a la Congreso del Estado, para que procedan en los términos de Ley.
+Transcurridos los plazos a que hacen referencia los Artículos 83 fracción I y 84 de esta Ley, sin que los Servidores Públicos hubiesen presentado la declaración de situación patrimonial correspondiente, sin causa justificada, la autoridad competente, como medida de apremio, podrá aplicar al Servidor Público omiso multa económica que no excederá de cien veces el salario mínimo vigente en la Capital del Estado y si en un término de diez días hábiles, contados a partir de la fecha de la imposición de dicha medida de apremio persiste en su omisión, quedará sin efecto el nombramiento respectivo, previa declaratoria de la Secretaría, substanciado el procedimiento administrativo que establece el Título Tercero de esta Ley, cuya declaratoria se comunicará al superior jerárquico y en su caso, al Tribunal Superior de Justicia y al Congreso del Estado, para que procedan en los términos de Ley.
 
 Para el caso de que se omita la declaración contemplada en la fracción II del artículo 83, procede la aplicación de una sanción económica hasta por cincuenta días del salario mínimo vigente en la Capital del Estado, y en su caso, inhabilitación hasta por un año.
 
@@ -776,3 +798,15 @@ Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
 El Gobernador hará publicar y cumplir la presente disposición.- Dado en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los veintiocho días del mes de junio de mil novecientos ochenta y cuatro.- Diputado Presidente.- Lic. Humberto Gutiérrez Manzano.- Rúbrica.- Diputada Secretaria.- Lic. Enoé González Cabrera.- Rúbrica.- Diputado Secretario.- Gabino Bonifacio Delegado Morales.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los veintiocho días del mes de junio de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Melquiades Morales Flores.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JULIO DE 1986.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se Derogan todas las disposiciones que se opongan al presente Ordenamiento.
