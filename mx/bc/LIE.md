@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "1999-01-19"
+last_updated: "2001-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIE"
 
 LEY DE INVERSION EXTRANJERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2001.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -84,11 +84,7 @@ Las reglas sobre la participación de la inversión extranjera en las actividade
 
 Para efectos de determinar el porcentaje de inversión extranjera en las actividades económicas sujetas a límites máximos de participación, no se computará la inversión extranjera que, de manera indirecta, sea realizada en dichas actividades a través de sociedades mexicanas con mayoría de capital mexicano, siempre que éstas últimas no se encuentren controladas por la inversión extranjera.
 
-## TITULO SEGUNDO
-
-DE LA ADQUISICION DE BIENES INMUEBLES, LA EXPLOTACION DE MINAS Y AGUAS,
-
-Y DE LOS FIDEICOMISOS
+## TITULO SEGUNDO. DE LA ADQUISICION DE BIENES INMUEBLES, LA EXPLOTACION DE MINAS Y AGUAS, Y DE LOS FIDEICOMISOS
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -190,9 +186,9 @@ k) Sociedades financieras de objeto limitado;
 
 l) Sociedades a las que se refiere el artículo 12-Bis de la Ley del Mercado de Valores;
 
-m) Acciones representativas del capital fijo de sociedades de inversión;
+m) (DEROGADO, D.O.F. 4 DE JUNIO DE 2001)
 
-n) Sociedades operadoras de sociedades de inversión;
+n) (DEROGADO, D.O.F. 4 DE JUNIO DE 2001)
 
 o) Administradoras de fondos para el retiro;
 
@@ -368,9 +364,7 @@ c) En el caso de las personas a que se refiere la fracción I del artículo ante
 
 Toda solicitud que cumpla con los requisitos mencionados, deberá otorgarse dentro de los quince días hábiles siguientes a la fecha de su presentación. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada.
 
-La Secretaría deberá remitir a la Secretaría de Relaciones Exteriores una copia de las
-
-solicitudes y de las autorizaciones que otorgue con base en este artículo.
+La Secretaría deberá remitir a la Secretaría de Relaciones Exteriores una copia de las solicitudes y de las autorizaciones que otorgue con base en este artículo.
 
 ###### ARTICULO 18.
 
@@ -656,7 +650,7 @@ Tercero.- Se derogan:
 
 I. .
 
-II. Los artículos 5, fracción X, y 7, fraccción IV, inciso s) de la Ley de Inversión Extranjera, y
+II. Los artículos 5, fracción X, y 7, fracción IV, inciso s) de la Ley de Inversión Extranjera, y
 
 III. Todas las disposiciones que se opongan a la presente Ley.
 
@@ -690,9 +684,21 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA 
 
 DECRETO POR EL QUE SE EXPIDE LA LEY DE PROTECCION AL AHORRO BANCARIO, Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LAS LEYES DEL BANCO DE MEXICO, DE INSTITUCIONES DE CREDITO, DEL MERCADO DE VALORES Y PARA REGULAR LAS AGRUPACIONES FINANCIERAS.
 
-PRIMERO.- El articulo segundo del presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El artículo segundo del presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Se derogan los incisos a), b), c) y d) de la fracción III del articulo 7o. de la Ley de Inversión Extranjera.
+SEGUNDO.- Se derogan los incisos a), b), c) y d) de la fracción III del artículo 7o. de la Ley de Inversión Extranjera.
+
+D.O.F. 4 DE JUNIO DE 2001.
+
+ARTICULOS TRANSITORIOS DE LA LEY DE SOCIEDADES DE INVERSION
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+PRIMERO. El presente Decreto por el que se expide la Ley de Sociedades de Inversión, entrará en vigor seis meses después de la fecha de su publicación en el Diario Oficial de la Federación, con excepción de los artículos 61 y sexto transitorio, cuya vigencia iniciará a partir de la publicación respectiva, para los efectos establecidos en este último artículo.
+
+....
+
+SEGUNDO. A la entrada en vigor de este Decreto ..., y se derogan los incisos m) y n) del artículo 7 de la Ley de Inversión Extranjera.
 
 ## TITULO CUARTO. DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS
 
