@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-notariado-para-el-estado-de-queretaro-11922"
 country: "mx"
 rank: "ley"
 publication_date: "1976-10-28"
-last_updated: "1992-12-30"
+last_updated: "1993-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA PERIODICO OFICIA: 30 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA PERIODICO OFICIAL: 20 DE MAYO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 28 de octubre de 1976.
 
@@ -208,6 +208,8 @@ Los jueces repelarán, de plano, toda promoción que viole la disposición conte
 ###### ARTICULO 27.
 
 El Notario que deseare desempeñar alguno de los cargos cuya incompatibilidad con el ejercicio del Notariado se establece en el Artículo 25, deberá obtener previamente la licencia respectiva del Ejecutivo, para separarse de dicho ejercicio.
+
+(EN SUSPENSO, P.O. 20 DE MAYO DE 1993)
 
 ###### ARTICULO 28.
 
@@ -673,7 +675,7 @@ Al final de cada testimonio se hará constar su calidad de ser primero, segundo 
 
 Se salvarán las testaduras y entrerrenglonaduras de la manera prescrita para las escrituras. Las Hojas del testimonio serán foliadas y rubricadas por el Notario. El sello se imprimirá al margen de cada hoja.
 
-Cuando en una escritura aparezca consignado un acto jurídico del que resulte la existencia de pluralidad de acreedores, el Notario expedirá simultáneamente un primer testimonio para cada acreedor, haciendo constar al calce de cada uno de ellos, el nombre del acreedor de que se trate.
+Cuando en una escritura aparezca consignado un acto jurídico del que resulte la existencia de pluralidad de acreedores, el Notario expedirá simultáneamente un primer testimonio para cada acreedor de que se trate.
 
 ###### ARTICULO 90.
 
@@ -725,11 +727,11 @@ IV.- Si ha sido redactada en idioma extranjero;
 
 V.- Si se omitió la constancia relativa a la lectura;
 
-VI.- Si no se hizo constar, en caso de que alguno de los interesados sea sordo o sordomudo que esté leyó por él mismo instrumento o que se cercioró de su contenido por algún medio, si no sabe o no puede leer;
+VI.- Si no se hizo constar, en caso de que alguno de los interesados sea sordo o sordomudo, que esté leyó por él mismo instrumento o que se cercioró de su contenido por algún medio, si no sabe o no puede leer;
 
 VII.- Si carecieren de las firmas de las partes, testigos o intérpretes que supieren escribir y pudieran firmar y, en caso contrario, cuando se omita hacer mérito de esta circunstancia;
 
-VIII.- Si no está autorizada preventivamente con la firma y sello del Notario o falta la nota "ante mi" o la razón de la autorización definitiva;
+VIII.- Si no está autorizada preventivamente con la firma y sello del Notario o falta la nota "ante mí" o la razón de la autorización definitiva;
 
 IX.- Si ésta autorizada, cuando debiere tener la razón de "no paso", según el Artículo 77;
 
@@ -809,7 +811,7 @@ El Juez que instruya un proceso en contra de cualquier Notario, dará aviso a la
 
 ###### ARTICULO 105.
 
-Tan luego como el Ejecutivo tenga conocimiento de que un Notario adolece de impedimento físico, procederá a designar dos médicos para que dictaminen acerca de la naturaleza del padecimiento y determine, si esta imposibilitado para actuar y la probable duración del mismo.
+Tan luego como el Ejecutivo tenga conocimiento de que un Notario adolece de impedimento físico, procederá a designar dos médicos para que dictaminen acerca de la naturaleza del padecimiento y determinen si esta imposibilitado para actuar y la probable duración del mismo.
 
 Siempre que se promueva judicialmente la interdicción de algún Notario, el Juez respectivo comunicará el hecho, por escrito a la Secretaría General de Gobierno y al Consejo de Notarios.
 
@@ -1158,3 +1160,13 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente.
+
+P.O. 20 DE MAYO DE 1993
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado, " La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones jurídicas que se opongan a la presente Ley, quedan sin efecto mientras dure la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
