@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1995-08-12"
+last_updated: "1997-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1997.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -423,7 +423,17 @@ La multa, tratándose de obreros o jornaleros, no deberá exceder del importe de
 
 109.- Contra cualquiera providencia en que se imponga alguna corrección disciplinaria, se oirá en audiencia al interesado si éste lo pidiere dentro de las veinticuatro horas siguientes a la en que tuvo conocimiento de la corrección. En vista de lo que aquél manifieste, el funcionario que la hubiere impuesto resolverá sin más trámite, en la misma audiencia, lo que estime procedente. Contra esta resolución no cabrá recurso alguno.
 
-110.- Los tribunales, para hacer cumplir sus determinaciones, podrán emplear, por su orden, los siguientes medios de apremio: a).- Multa de cincuenta a quinientos pesos; b).- El auxilio de la fuerza pública; c).- Arresto hasta por quince días. Si agotados los medios de apremio, no se obtuviera el cumplimiento de la resolución que motivó el uso de ellos, el rebelde será consignado al Procurador General de Justicia como autor de desobediencia a un mandato legítimo de autoridad.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
+
+110.- Los tribunales, para hacer cumplir sus determinaciones, podrán emplear, por su orden, los siguientes medios de apremio:
+
+a).- Multa de uno a cinco salarios mínimos del área geográfica correspondiente a la Ciudad de Chihuahua.
+
+b).- El auxilio de la fuerza pública; y,
+
+c).- Arresto hasta por treinta y seis horas.
+
+Si agotados los medios de apremio, no se obtuviera el cumplimiento de la resolución que motivó, el uso de ellos, el rebelde será consignado al Ministerio Público como autor del delito de desobediencia y resistencia de particulares.
 
 Contra la resolución que ordene que se haga uso de un medio de apremio, cabrá el recurso de apelación en el efecto devolutivo.
 
@@ -3982,3 +3992,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO SEPTIMO.
 
 Las reformas a los Códigos Civil y de Procedimientos Civiles, entraran en vigor al día siguiente de la publicación del presente decreto en el Periódico Oficial del Estado.
+
+P.O. 8 DE MARZO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
