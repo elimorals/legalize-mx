@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-instituto-oaxaqueno-de-las-culturas-9066"
 country: "mx"
 rank: "ley"
 publication_date: "1993-03-13"
-last_updated: "1994-09-24"
+last_updated: "2004-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DEL INSTITUTO OAXAQUEÑO DE LAS CULTURAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1994.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 30 DE NOVIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de marzo de 1993.
 
@@ -320,3 +322,25 @@ P.O. 24 DE SEPTIEMBRE DE 1994.
 PRIMERO.- El presente decreto deroga todas las disposiciones que se opongan al mismo.
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2004.
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado. La presente Ley entrará en vigor el día 01 de diciembre de 2004.
+
+SEGUNDO.- Se abroga la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, contenida en el alcance al número 49 del Periódico Oficial publicado el 1 de diciembre de 1992, así como todas sus reformas y adiciones.
+
+TERCERO.- En todos los casos en que por la aplicación de esta ley se modifique la dependencia de adscripción de los trabajadores, sus correspondientes derechos laborales serán respetados en los términos de las disposiciones legales, reglamentarias y estatutarias relativas.
+
+CUARTO.- Cuando una oficina pase de una dependencia a otra, el traspaso se hará incluyendo los recursos humanos y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración y de la Contraloría.
+
+QUINTO.- Se abroga el Decreto número 98, aprobado por la Quincuagésima Quinta Legislatura, publicado en el Periódico Oficial el 13 de Marzo de 1993, que contiene la Ley del Instituto Oaxaqueño de las Culturas.
+
+Los recursos humanos y materiales, obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscritos por el Instituto Oaxaqueño de las Culturas, se entenderán subrogadas y contraídas por la Secretaría de Cultura.
+
+SEXTO.- Cuando en diversas disposiciones legales, se haga referencia a la CONTRALORIA GENERAL, se entenderán que se refiere a la SECRETARIA DE LA CONTRALORIA; la SECRETARIA DE DESARROLLO INDUSTRIAL Y COMERCIAL, a la SECRETARIA DE ECONOMIA; la SECRETARIA DE DESARROLLO TURISTICO, a la SECRETARIA DE TURISMO; a la SECRETARIA DE DESARROLLO AGROPECUARIO Y FORESTAL, a la SECRETARIA DE DESARROLLO RURAL, a la SECRETARIA DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS, a la SECRETARIA DE OBRAS PUBLICAS. El mismo criterio se aplicará para los titulares de dichas dependencias. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscritos por las dependencias que por virtud de esta Ley cambian de denominación, se entenderán subrogadas y contraídas por su correlativa.
+
+SEPTIMO.- Las facultades, atribuciones y deberes encargados a la Secretaría de Transporte, serán atendidos por la Coordinación General del Transporte, en lo que refiere a sus funciones normativas de concesiones de transporte público; las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscritos por la Secretaría del Transporte, se entenderán subrogadas y contraídas por la Coordinación General del Transporte.
+
+La Dirección de Tránsito del Estado, mantendrá las funciones establecidas en la Ley de Tránsito Reformada y quedará adscrita a la Secretaría de Protección Ciudadana, con sus recursos humanos y materiales.
+
+OCTAVO.- El Congreso del Estado contará con un término de ciento veinte días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento de la presente Ley.
