@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-procuraduria-general-de-justicia-del-6956"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-12-31"
-last_updated: "1983-12-31"
+last_updated: "1993-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 1983.
 
@@ -59,33 +59,43 @@ DE LA ORGANIZACION DE LA PROCURADURIA GENERAL DE JUSTICIA.
 
 DE LOS INTEGRANTES DE LA PROCURADURIA.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
+
 ###### ARTICULO 3o.
 
-La Procuraduría General de Justicia se integra por:
+La Procuraduría General de Justicia estará integrada por los siguientes servidores públicos y autoridades administrativas:
 
-I.- El Procurador General de Justicia.
+I.- Procurador General de Justicia.
 
-II.- Uno o más Subprocuradores.
+II.- Subprocurador de Averiguaciones Previas y Consignaciones.
 
-III.- Un Director de Averiguaciones Previas y Consignaciones.
+III.- Subprocurador de Control de Procesos.
 
-IV.- Un Director de Control de Procesos.
+IV.- Director de Averiguaciones Previas y Consignaciones.
 
-V.- Un Director de Servicios Periciales.
+V.- Un Director de Control de Procesos.
 
-VI.- Un Director y un Subdirector de la Policía Judicial.
+VI.- Director Jurídico Consultivo.
 
-VII.- Un Visitador General, Agente del Ministerio Público Auxiliar.
+VII.- Director de Derechos Humanos.
 
-VIII.- Los Agentes del Ministerio Público Auxiliares del Procurador, Adscritos e Investigadores que requiera la Institución, para el cabal logro de sus objetivos.
+VIII.- Director de Servicios a la Comunidad y Participación Ciudadana.
 
-IX.- Un Departamento de Servicios Sociales y Participación Ciudadana.
+IX.- Director de Servicios Periciales.
 
-X.- Un Departamento de Capacitación.
+X.- Director y SubDirectores de la Policía Judicial del Estado.
 
-XI.- Los demás Jefes de Oficina y Personal Subalterno que se requiera a juicio del Procurador.
+XI.- Visitador General, Visitadores, Agentes del Ministerios Público Auxiliares.
 
-XII.- El Cuerpo de Agentes de la Policía Judicial y empleados adscritos a ésta.
+XII.- Delegados Regionales, Agentes del Ministerio Público Auxiliares.
+
+XIII.- Agentes del Ministerio Público Auxiliares del Procurador, Investigadores Adscritos y Fiscales Especiales que requiera la Institución.
+
+XIV.- Cuerpo de Agentes de la Policía Judicial.
+
+XV.- Jefes de Departamento y Oficina, así como todo el personal que se requiera para el cabal logro de sus objetivos.
+
+XVI.- Departamento de capacitación.
 
 ###### ARTICULO 4o.
 
@@ -139,21 +149,23 @@ El C. Procurador deberá dictar resolución tomando en cuenta las pruebas y los 
 
 Por lo que hace a los demás empleados de la Procuraduría, en cuanto a remoción de sus cargos, se acatará lo que dispone la Ley del Servicio Civil para los Empleados del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
+
 ###### ARTICULO 15.
 
-El personal del Ministerio Público será suplido de la manera siguiente:
+El personal del Ministerio Público, será suplido de la siguiente manera:
 
-I.- El Procurador General de Justicia, por los Subprocuradores, según su orden numérico.
+I.- El Procurador General de Justicia, en su orden, por los Subprocuradores de Averiguaciones Previas y de Control de Procesos, y a falta de ellos, por el Director de Averiguaciones Previas y consignaciones.
 
-II.- Los Subprocuradores, uno por otro en su orden numérico y, a falta o excusa de alguno, por el Agente del Ministerio Público Auxiliar del Procurador que éste designe.
+II.- Los Subprocuradores serán sustituidos, uno por el otro, o en su caso, por el Director que designe el Procurador.
 
-III.- Los Agentes Auxiliares del Procurador por quien dentro de ellos designe el mismo Procurador.
+III.- Los Directores y Jefes de Unidades Administrativas, serán suplidos por los funcionarios que designe el Procurador.
 
-IV.- Los Agentes del Ministerio Público adscritos e Investigadores por su Secretario o por el Agente que designe el Procurador.
+IV.- Los Agentes Auxiliares del Procurador y Fiscales Especiales, por quien dentro de ellos éste designe.
 
-V.- El Director de la Policía Judicial, por el Subdirector de la misma.
+V.- Los Agentes del Ministerio Público adscritos o Investigadores, por su Secretario o por el Agente designado por el Procurador.
 
-VI.- El personal restante, por la designación que haga el Procurador en cada caso.
+VI.- El personal restante, por la designación que haga el Procurador de cada caso.
 
 ###### ARTICULO 16.
 
@@ -245,15 +257,51 @@ XXI.- Recibir las manifestaciones de bienes de los funcionarios y empleados del 
 
 XXII.- Dispensar la autopsia en los casos a que se refiere el artículo 33, Tercer Párrafo del Código de Procedimientos Penales del Estado.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 1993)</small>
+
+###### ARTICULO 23 Bis.
+
+Los Visitadores y las Delegaciones Regionales, son áreas adscritas al Titular de la Institución, dependiendo de él en forma directa.
+
 ###### ARTICULO 24.
 
-El Procurador discrecionalmente puede delegar en los Sub-Procuradores funciones de supervisión y control de las diversas Dependencias que integran la Procuraduría, conforme a una división del trabajo congruente con las necesidades del servicio, así como la resolución respecto del no ejercicio de la acción penal y la revisión de conclusiones de no acusación, contrarias a las constancias procesales y de homicidio, cuando el Agente que la haya formulado sea lego, independientemente de las que se mencionan a continuación:
+Son atribuciones de cada Subprocurador las siguientes:
 
-I.- Revisar y resolver las consultas que presenten los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia del Estado y Juzgados de Primera Instancia.
+I.- Acordar con el Procurador el despacho de los asuntos relevantes de las áreas adscritas a su cargo y responsabilidad;
 
-II.- Practicar visitas a las Agencias del Ministerio Público adscritas y de Investigaciones, informando al Procurador del resultado de las mismas.
+II.- Desempeñar las funciones o comisiones que el Procurador les delegue o encomiende manteniéndolo informado sobre el desarrollo de sus actividades;
 
-III.- Supervisar el trabajo de la Dirección General de Averiguaciones y de control de procesos y dar cuenta al C. Procurador para que éste acuerde lo prcoedente (sic).
+III.- Someter a la aprobación del Procurador aquellos estudios o proyectos que se elaboren en las áreas de su responsabilidad y que así lo ameriten;
+
+IV.- Vigilar que en los asuntos de su competencia se dé cumplimiento a los ordenamientos legales y a las disposiciones que resulten aplicables;
+
+V.- Coordinar las labores encomendadas a su cargo y establecer mecanismos de integración e inter-relación que propicien el óptimo desarrollo de las responsabilidades que son competencia de la Procuraduría;
+
+VI.- Planear, programar, organizar, dirigir y controlar el funcionamiento de las áreas que le están adscritas;
+
+VII.- Formular los anteproyectos de programas y de presupuesto que le corresponda;
+
+VIII.- Dictar las medidas necesarias de mejoramiento administrativo en las áreas que le están adscritas y proponer al Procurador la delegación en Servidores Públicos Subalternos, de atribuciones que le hayan encomendado;
+
+IX.- Recibir en acuerdo ordinario a los Directores Visitadores, Delegados Regionales y Jefe de la Unidad Administrativa que le estén adscritos; y en acuerdo extraordinario a cualquier otro servidor público, así como conceder audiencia al público;
+
+X.- Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia;
+
+XI.- Proporcionar la información, datos o la cooperación técnica que le sean requeridos por otras dependencias;
+
+XII.- Intervenir en la contratación, desarrollo, capacitación, promoción y adscripción del personal a su cargo, así como en la contratación del servicio externo que fuere necesario; autorizar, dentro del ámbito de su competencia, licencias de conformidad con las necesidades del servicio; y participar directamente o a través de su representante, en los casos de sanciones, remoción y cese del personal de su responsabilidad, de conformidad con las disposiciones legales aplicables y de las condiciones generales de trabajo de la Procuraduría; y,
+
+XIII.- Las demás que le confieran otras disposiciones o el Procurador.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 1993)</small>
+
+###### ARTICULO 24 Bis.
+
+Las Direcciones de Averiguaciones Previas, Servicios Periciales y Policía Judicial, son las áreas adscritas a la Sub'Procuraduría de Averiguaciones Previas y por consiguiente, dependen de la misma.
+
+Las Direcciones de Control de Procesos, Jurídica Consultiva, Derechos Humanos, Servicios a la Comunidad y Participación Ciudadana, estarán adscritas a la Sub'Procuraduría de Control de Procesos.
+
+Igualmente, a cargo de esta última Sub'Procuraduría, estará el Control de las órdenes de aprehensión que libre el Organo Judicial.
 
 ###### ARTICULO 25.
 
@@ -321,6 +369,8 @@ V.- Recabar copias de los autos dictados por los jueces del Estado, de las promo
 
 VI.- Las demás que le encomiende el Procurador.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE MARZO DE 1993)</small>
+
 ###### ARTICULO 29.
 
 A cargo de la Dirección de Servicios Periciales habrá un Director y los peritos deberán contar con el Título legalmente expedido y registrado en la rama profesional sobre la que dictaminarán. Si se trata de actividades no reglamentadas en la Ley se acreditarán los conocimientos por cualquier medio y deberá contarse con una práctica mínima de dos años.
@@ -367,9 +417,9 @@ c).- Las Autoridades Judiciales del Estado.
 
 En caso de que se solicite el servicio por otra Autoridad o Institución, se prestará cuando lo acuerde el Procurador o los Subprocuradores, sin perjuicio de la atención preferente que deba darse a las Autoridades antes citadas.
 
-### CAPITULO I.
+### CAPITULO IX.
 
-DE LA AVERIGUACION PREVIA.
+DE LOS AGENTES DEL MINISTERIO PUBLICO ADSCRITOS.
 
 ### CAPITULO IV.
 
@@ -423,19 +473,27 @@ La Policía Judicial en el ejercicio de sus funciones cumplirá órdenes expresa
 
 DE LOS SUBPROCURADORES.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
+
 ###### ARTICULO 35.
 
 Los Cuerpos de Seguridad y demás Autoridades destinadas a mantener la tranquilidad y el orden público en la Entidad, sean estatales o municipales, son auxiliares de la Policía Judicial y tendrán la obligación de obedecer y ejecutar todas las órdenes que ésta les dicte en ejercicio de sus funciones.
 
-### CAPITULO II.
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 1993)</small>
 
-DEL EJERCICIO DE LA ACCION PENAL.
+### CAPITULO X.
+
+DE LOS DELEGADOS REGIONALES.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
 
 ###### ARTICULO 36.
 
-La Visitaduría General se compondrá de:
+La Visitaduría se compondrá de:
 
-I.- Un Visitador General, Agente del Ministerio Público.
+I.- Un Visitador General y los Visitadores, Agente del Ministerio Público, que requiera la Institución.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 1993)</small>
 
 ### CAPITULO III.
 
@@ -443,7 +501,7 @@ DEL DIRECTOR DE AVERIGUACIONES PREVIAS Y CONSIGNACIONES.
 
 ###### ARTICULO 37.
 
-Son atribuciones del Visitador General:
+Son atribuciones de los Visitadores:
 
 I.- Practicar desde el punto de vista técnico, jurídico y administrativo, las visitas generales o especiales que el Procurador determine a las diversas Agencias del Ministerio Público en el Estado.
 
@@ -453,9 +511,9 @@ III.- Dar cuenta al Procurador o a los Subprocuradores, de la visita y sus resul
 
 IV.- Desempeñar las comisiones especiales que el Procurador le encomiende y las demás que le señalen las Leyes.
 
-### CAPITULO III.
+### CAPITULO XI.
 
-DE LA VIGILANCIA DE LA LEGALIDAD.
+DEL DEPARTAMENTO DE CAPACITACION.
 
 ###### ARTICULO 38.
 
@@ -473,9 +531,9 @@ c).- Sobre la formulación de conclusiones no acusatorias o contrarias a las con
 
 III.- Intervenir en los demás asuntos en materia penal, civil o familiar que determine el Procurador.
 
-### CAPITULO UNICO.
+### CAPITULO I.
 
-DE LAS CORRECCIONES DISCIPLINARIAS Y DE LOS MEDIOS DE APREMIO.
+DE LA AVERIGUACION PREVIA.
 
 ###### ARTICULO 39.
 
@@ -521,31 +579,71 @@ Los Agentes del Ministerio Público adscritos a los Juzgados Mixtos de Primera I
 
 Los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia, tendrán las mismas facultades y atribuciones que los adscritos, compatibles con la naturaleza de sus funciones.
 
-### CAPITULO UNICO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 1993)</small>
 
-DISPOSICIONES GENERALES.
+### CAPITULO II.
+
+DEL EJERCICIO DE LA ACCION PENAL.
 
 ###### ARTICULO 43.
 
-EL Departamento de Servicios Sociales y Participación Ciudadana, se integra por:
+Habrá los Delegados Regionales que requiera la Institución.
 
-I.- Un jefe.
-
-II.- El personal administrativo que autorice el presupuesto.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
 
 ###### ARTICULO 44.
 
-Sos (sic) atribuciones del Jefe del Departamento de Servicios Sociales y Participación Ciudadana:
+Los Delegados Regionales tendrán las siguientes atribuciones:
 
-I.- Proporcionar a todas las personas orientación y asistencia y canalizarlas, y en su caso, a las instituciones que correspondan, instruyéndolas acerca de los derechos y obligaciones que tienen respecto de éstas y de la Procuraduría General de Justicia del Estado.
+I.- En materia de Averiguación Previa:
 
-II.- Atender a los particulares, menores y adultos, con problemas de conducta, y a los familiares de los mismos, con el objeto de prevenir acciones u omisiones delictivas o antisociales.
+A).- Supervisar y vigilar que los Agentes del Ministerio Publico de su zona:
 
-III.- Promover y organizar la Participación Ciudadana en las actividades de la Procuraduría, con el fin de hacer más efectiva la procuración de la justicia.
+a) Tipifiquen correctamente los hechos presuntivamente delictivos;
 
-IV.- Coordinarse con las Asociaciones de Profesionales, Escuelas, Facultades, Universidades y con quien corresponda para convenir la forma de la Participación Ciudadana en la procuración de justicia.
+b) Recaben las pruebas conducentes para acreditar el cuerpo del delito y la presunta responsabilidad, como elementos que funden el ejercicio de la acción penal;
 
-V.- Las demás que le señalen las Leyes y Reglamentos.
+c) Ordenar que se examine a los detenidos con Peritos Médicos que emitan dictamen respecto de su integridad física, en el momento en que son puestos a disposición del Agente del Ministerio Público y al quedar en libertad, o a disposición de la autoridad jurisdiccional;
+
+d) Hagan saber a los detenidos las garantías y derechos que les corresponden esencialmente el derecho que tienen para designar personas que los defiendan, para obtener la libertad caucional cuando proceda y resuelvan cuanto antes la situación jurídica de aquellos;
+
+e) Apliquen o soliciten debidamente las medidas cautelares que legalmente procedan;
+
+f) Atiendan que, los instrumentos y objetos relacionados con los delitos, así como aquellos que presenten huellas o vestigios de éstos, sean debidamente asegurados para evitar su alteración, destrucción o desaparición;
+
+g) Remitan en consulta las averiguaciones previas cuando corresponda;
+
+B).- Acordar con los Agentes del Ministerio Público:
+
+a) Las consultas sobre el no ejercicio de la acción penal; y,
+
+b) Las resoluciones de libertad y de acumulación.
+
+II.- En materia de Proceso Penal:
+
+A) Supervisar y vigilar que los Agentes del Ministerio Publico de su zona:
+
+a) Busquen y recaben las pruebas que deban aportar al procedimiento;
+
+b) Estén atentos al cumplimiento de las órdenes de aprehensión, comparecencia y reaprehensión;
+
+c) Formulen correctamente sus conclusiones y si hubiere motivo para elaborar las no acusatorias, consulten a la Dirección de Control de Procesos, en forma rápida y eficaz;
+
+d) Impugnen las resoluciones que sean contrarias a las disposiciones legales que rijan en la materia.
+
+III.- En materia de Asuntos Civiles:
+
+A) Supervisar y vigilar que los Agentes del Ministerio Público de su zona:
+
+a) Provean todo aquello que sea necesario para proteger a los menores e incapaces en los juicios civiles o familiares que se tramiten ante los Tribunales respectivos, en los que aquellos sean parte o de alguna manera puedan resultar afectados;
+
+b) Cumplan con todas y cada una de las disposiciones legales en defensa de los derechos de aquellas personas a quienes representan en los Juicios Civiles; y,
+
+c) Cumplan con todas y cada una de las disposiciones que las leyes les atribuyen en los procedimientos civiles.
+
+### CAPITULO III.
+
+DE LA VIGILANCIA DE LA LEGALIDAD.
 
 ###### ARTICULO 45.
 
@@ -560,6 +658,14 @@ II.- El personal docente y auxiliar necesario.
 El objetivo del Departamento de Capacitación será la preparación permanente del personal de la Procuraduría en sus diversos aspectos, conforme a programas elaborados de acuerdo a los recursos y necesidades de la Institución, y participar en los programas de selección e integración del personal de la misma.
 
 La participación como alumno o profesor en las actividades del Departamento será obligatoria para el personal de la Procuraduría, cuando lo determine el Procurador.
+
+### CAPITULO UNICO.
+
+DE LAS CORRECCIONES DISCIPLINARIAS Y DE LOS MEDIOS DE APREMIO.
+
+### CAPITULO UNICO.
+
+DISPOSICIONES GENERALES.
 
 ## TITULO TERCERO.
 
@@ -595,6 +701,104 @@ DEL DIRECTOR DE CONTROL DE PROCESOS.
 
 Para los efectos del Artículo anterior, el Ministerio Público utilizará los servicios de la Policía Judicial y de los Servicios Periciales a que se refiero (sic) esta Ley.
 
+### CAPITULO IV (1) BIS.
+
+DEL DIRECTOR JURIDICO CONSULTIVO.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 1993)</small>
+
+ARTICULO 28 (1) Bis.- Al frente de la Dirección Jurídica Consultiva estará un Director, quien tendrá las siguientes atribuciones:
+
+I.- Realizar los estudios y emitir las opiniones y dictámenes derivados de las consultas de carácter jurídico que le sean formuladas por el Procurador o por los Titulares de las diferentes áreas de la Institución.
+
+II.- Estudiar los problemas generales y especiales sobre legislación, reglamentación y elaboración de otras disposiciones administrativas, relacionadas con las funciones de la Institución.
+
+III.- Formular proyectos de instructivos, acuerdos y circulares.
+
+IV.- Coordinar con los Subprocuradores y Directores de la Institución, así como los Jefes de área, los estudios necesarios para el asesoramiento del Procurador.
+
+V.- Atender las consultas jurídicas formuladas por las diferentes áreas de la Procuraduría o por las diferentes dependencias del gobierno.
+
+VI.- Representar jurídicamente al Procurador ante las autoridades administrativas y judiciales en aquellos asuntos en que sea parte o tenga intereses que deducir, relacionados con el patrimonio de la Procuraduría.
+
+VII.- Vigilar e intervenir en la secuela de los procesos, con excepción de los de naturaleza penal, en los que el Estado tenga interés o sea parte, llevando un control de los mismos a fin de que se cumplan las normas, términos y plazos procesales. En consecuencia, queda facultado para ejercitar acciones, oponer excepciones e interponer los recursos que procedan.
+
+VIII.- Las demás que le señalen las disposiciones legales y las que le confiera el Procurador.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE MARZO DE 1993)</small>
+
+### CAPITULO IV (2) BIS.
+
+DEL DIRECTOR DE DERECHOS HUMANOS.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 1993)</small>
+
+ARTICULO 28 (2) Bis.- La Dirección de Derechos Humanos estará a cargo de un Director.
+
+Sus facultades serán:
+
+I.- Efectuar los análisis y emitir opiniones sobre las recomendaciones y quejas que se reciban, de la Comisión Nacional y Estatal de Derechos Humanos, formulando los oficios de respuesta y de instrucciones concernientes en su caso, sometiéndolos a la aprobación y firma del Procurador.
+
+II.- Hacer consulta directa de las Averiguaciones Previas y Procesos, así como de otros asuntos relacionados con las recomendaciones, quejas y convenios de amigable composición, de cuyo cumplimiento se trate, recabando si es necesario, copias simples o certificadas de constancias para apoyar los informes de avance o de cumplimiento total que deba rendir el Procurador a las Comisiones Nacional y Estatal de Derechos Humanos.
+
+III.- Poner en conocimiento del Superior Jerárquico, para que haga los apremios pertinentes, cuando un servidor público incurra en omisiones, deficiencias o retardos en los trámites necesarios para el cumplimiento de una recomendación o de algún convenio de amigable composición, como también en la rendición de cualquier informe que se solicite por dichos organismos.
+
+IV.- Preparar los proyectos de informe o de cualquier comunicación que deba suscribir el Procurador.
+
+V.- Elaborar mensualmente la relación de los nuevos casos recibidos, de los que estén pendientes de resultado final y de los concluidos.
+
+VI.- Llevar un registro de las recomendaciones, quejas y convenios de amigable composición anotando todos aquellos datos que sean necesarios para su identificación.
+
+VII.- Organizar y manejar el archivo correspondiente, así como elaborar los informes y reseñas estadísticas.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE MARZO DE 1993)</small>
+
+### CAPITULO IV (3) BIS.
+
+DEL DIRECTOR DE SERVICIOS A LA COMUNIDAD Y PARTICIPACION CIUDADANA.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 1993)</small>
+
+ARTICULO 28 (3) Bis.- La Dirección de Servicios a la Comunidad y Participación Ciudadana, estará a cargo de un Director.
+
+Son atribuciones del Director las siguientes:
+
+I.- Establecer el sistema de atención a detenidos que se encuentren a disposición del Ministerio Público o en las instalaciones de la dependencia, lo que hará mediante módulos correspondientes, vigilando el respeto irrestricto a sus derechos humanos y a las garantías individuales;
+
+II.- Coordinar y supervisar las actividades que realizan en los módulos de orientación, información y quejas de la dependencia;
+
+III.- Promover la coordinación con otras dependencias y entidades del sector público, ampliando y facilitando el acceso de la comunidad a los servicios que requiera;
+
+IV.- Proporcionar a todas las personas la orientación que soliciten, canalizándolas a las dependencias y entidades adecuadas, con propósito tutelar, asistencial, preventivo y educacional, e instruyéndolas acerca de los derechos y obligaciones que tienen frente a la Institución del Ministerio Público;
+
+V.- Proporcionar orientación legal y social en relación a la procuración e impartición de justicia;
+
+VI.- Dirigir, controlar y vigilar el cumplimiento de programas de orientación al público, de quejas y atención a las víctimas y detenidos;
+
+VII.- Informar y difundir temas jurídicos y sociales de interés para la comunidad en procuración de justicia;
+
+VIII.- Promover la participación y concertación social, así como la colaboración comunitaria para el apoyo de los servicios que presta la Institución;
+
+IX.- Colaborar y apoyar las acciones de organización de la comunidad así como reuniones de integración interna de los servidores públicos de la Institución;
+
+X.- Proponer o instrumentar mecanismos de participación ciudadana, a través de Organismos de Colaboración Comunitaria;
+
+XI.- Dar atención, orientación y canalización procedentes a la víctima del delito y a sus familiares, así como a los familiares del sujeto activo del mismo;
+
+XII.- Definir, promover y desarrollar programas de prevención del delito;
+
+XIII.- Realizar foros de consulta popular para el análisis y evaluación de la opinión ciudadana, así como visitas de grupos sociales a la Institución;
+
+XIV.- Programar y desarrollar jornadas de asesoramiento para Auxiliares del Ministerio Público en el cumplimiento de sus funciones;
+
+XV.- Atender las quejas por actos u omisiones de las autoridades, en relación a procuración de justicia y ponerlas en formal conocimiento de quien competa su solución;
+
+XVI.- Atender, evaluar y analizar el contenido de las quejas que se presenten contra servidores públicos que (sic) la Institución por incumplimiento de sus obligaciones y someterlas a la consideración y resolución de la autoridad a quien competa;
+
+XVII.- Atender, evaluar y analizar las denuncias que presente la Contraloría del Gobierno del Estado contra Funcionarios y Servidores Públicos por el incumplimiento de sus obligaciones, dándole el seguimiento que merecen y sometiéndolas a la consideración y resolución de la autoridad competente;
+
+XVIII.- Las demás que le confiere el Procurador.
+
 ### CAPITULO V.
 
 DE LA DIRECCION DE SERVICIOS PERICIALES.
@@ -605,23 +809,13 @@ DE LA DIRECCION DE LA POLICIA JUDICIAL.
 
 ### CAPITULO VII.
 
-DE LA VISITADURIA GENERAL.
+DE LA VISITADURIA.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1993)</small>
 
 ### CAPITULO VIII.
 
 DE LOS AGENTES DEL MINISTERIO PUBLICO AUXILIARES DEL PROCURADOR.
-
-### CAPITULO IX.
-
-DE LOS AGENTES DEL MINISTERIO PUBLICO ADSCRITOS.
-
-### CAPITULO X.
-
-DEL DEPARTAMENTO DE SERVICIOS SOCIALES Y PARTICIPACION CIUDADANA.
-
-### CAPITULO XI.
-
-DEL DEPARTAMENTO DE CAPACITACION.
 
 ###### ARTICULO 51.
 
@@ -996,3 +1190,11 @@ EL SECRETARIO GENERAL DE DESPACHO,
 C.P. JESUS MARTINEZ ALVAREZ.- Rúbrica.
 
 Al C. ...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE MARZO DE 1993.
+
+PRIMERO.- Quedan derogadas las disposiciones de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Oaxaca de 29 de junio de 1983, publicada en el Periódico Oficial de 31 de diciembre del mismo año, en cuanto se opongan a las adiciones, reformas y modificaciones contenidas en el presente Decreto.
+
+SEGUNDO.- Estas adiciones, reformas y modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
