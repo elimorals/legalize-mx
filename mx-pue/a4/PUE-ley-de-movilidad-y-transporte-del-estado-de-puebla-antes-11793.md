@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2001-09-14"
+last_updated: "2002-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -721,11 +721,13 @@ Las personas físicas que aspiren a prestar el Servicio Público de Transporte, 
 
 Las personas morales debidamente constituidas, que aspiren a prestar el Servicio Público de Transporte, se les otorgarán el número de concesiones para satisfacer el servicio de que se trate, previo estudio técnico que al efecto realice la Secretaría.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 70.
 
-Las concesiones que se otorguen a las personas físicas o jurídicas para prestar el Servicio Público de Transporte, tendrán una vigencia indefinida; sin embargo, la autoridad o la comisión respectiva certificará cada tres años, la validez de las mismas. Lo anterior no libera al concesionario de la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad de fabricación, ni de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Desarrollo Social, en términos de la Ley de Ingresos del Estado.
+Las concesiones que se otorguen a las personas físicas o jurídicas para prestar el servicio público de transporte, tendrán una vigencia indefinida; sin embargo, la Autoridad o la comisión respectiva certificarán cada tres años, la validez de las mismas. Lo anterior no libera al concesionario de la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad en las rutas urbanas y doce años de antigüedad en las rutas suburbanas y foráneas, ni de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Desarrollo Social, en términos de la Ley de Ingresos del Estado.
+
+La Autoridad impondrá sanciones a los concesionarios que no cumplan con lo anterior.
 
 ###### ARTICULO 71.
 
@@ -1178,3 +1180,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 16 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor el día primero de enero de dos mil tres.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de lo dispuesto en el artículo 70 de la Ley del Transporte para el Estado de Puebla, a partir del día primero de enero de dos mil tres no deberán circular aquellos vehículos que incumplan con la antigüedad exigida, estando facultada la autoridad correspondiente para instrumentar programas y celebrar convenios que, en un plazo que no exceda de doce meses, contados a partir de la entrada en vigor del presente Decreto, tiendan al mejor cumplimiento de esta disposición.
