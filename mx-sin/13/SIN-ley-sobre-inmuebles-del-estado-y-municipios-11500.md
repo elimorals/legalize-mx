@@ -4,7 +4,7 @@ identifier: "SIN-ley-sobre-inmuebles-del-estado-y-municipios-11500"
 country: "mx"
 rank: "ley"
 publication_date: "1932-01-21"
-last_updated: "1943-05-20"
+last_updated: "2001-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY SOBRE INMUEBLES DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Sinaloa, el jueves 21 de enero de 1932.
 
@@ -139,9 +139,11 @@ También deben considerarse como bienes destinados al servicio público, las lí
 
 El Ejecutivo del Estado y los Ayuntamientos, al determinar a determinado servicio público algún terreno o edificio que no esté de hecho utilizándose para alguno de los fines que enumeran los artículos 13o. y 14o., lo harán por medio de decreto que se dicte con las formalidades legales.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 16o.
 
-El cambio de destino de cualquier inmueble consagrado a servicio público, así como la declaración de que un terreno o edificio de los que hablan los artículos 13o. al 15o. queda impropio para todo servicio público, deberá también hacerse por vía de decreto legalmente expedido.
+El cambio de destino de cualquier inmueble consagrado al servicio público así como la declaración de que un terreno o edificio de los que hablan los artículos del 13 al 15 queda impropio para todo servicio público, deberá también hacerse por vía de decreto legalmente expedido. En el caso de los bienes inmuebles del Estado, el Decreto será aprobado por el H. Congreso del Estado; y, respecto a los inmuebles de los municipios, por el Ayuntamiento correspondiente, en este caso con el voto de las dos terceras partes de sus integrantes.
 
 ###### Artículo 17o.
 
@@ -189,7 +191,9 @@ Los inmuebles destinados al uso común, por disposición de la Ley, o a un servi
 
 La enajenación de los bienes de que habla el artículo anterior, ya sea por medio de venta, permuta, cesión u otro título, requiere para su validez:
 
-I.- La aprobación del Congreso del Estado.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
+I.- La aprobación del Congreso del Estado, cuando se trate de inmuebles del Estado; y, el acuerdo del Ayuntamiento correspondiente, cuando sean bienes de los municipios, en este caso con el voto de las dos terceras partes de sus integrantes.
 
 II.- La publicación en el Periódico Oficial de las condiciones de la enajenación.
 
@@ -197,13 +201,13 @@ II.- La publicación en el Periódico Oficial de las condiciones de la enajenaci
 
 Por regla general toda enajenación de bienes que dependan del Estado o de los Municipios, se hará en pública subasta, sobre la base del avalúo practicado por dos peritos nombrados por el Gobernador del Estado o por los Ayuntamientos y previa aprobación del respectivo cuaderno de condiciones.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 27o.
 
-Los bienes inmuebles de que se ocupa esta Ley, son también susceptibles de enajenarse fuera de subasta pública, cuando así lo determinen expresamente las leyes, o en aquellos casos en que por razones de urgencia o por tratarse de bienes de poco valor o de contratos donde la venta estuviese ligada con distintos actos u operaciones, lo acordare así el Ejecutivo del Estado o los Municipios, con aprobación del Congreso.
+Los bienes inmuebles de que se ocupa esta Ley, son también susceptibles de enajenarse fuera de subasta pública, cuando así lo determinen expresamente las leyes, o en aquellos casos en que por razones de urgencia o por tratarse de bienes de poco valor o de contratos donde la venta estuviese ligada con distintos actos u operaciones, lo acordare así el Ejecutivo del Estado con aprobación del Congreso, o los municipios con la conformidad del Ayuntamiento correspondiente, en este caso con el voto de las dos terceras partes de sus integrantes.
 
-> <small>(ADICIONADO, P.O. 20 DE MAYO DE 1943)</small>
-
-Si los bienes inmuebles hubieren sido adjudicados al Estado, ya sea en casos de procedimientos económicos coactivos, o por herencias o bien en virtud de resoluciones judiciales que declaren vacantes dichos bienes, según las leyes que rijan esos actos, serán también susceptibles de enajenarse en subasta pública o fuera de almoneda, a juicio del C. Gobernador, sin que se requiera autorización expresa del Congreso del Estado, siempre que sean vendidos a un precio no menor de su valor fiscal.
+Si los bienes inmuebles hubieren sido adjudicados al Estado o a los Municipios, ya sea en casos de procedimientos económicos coactivos, o por herencias o bien en virtud de resoluciones judiciales que declaren vacantes dichos bienes, según leyes que rijan estos actos, serán también susceptibles de enajenarse en subasta pública o fuera de almoneda, a juicio del C. Gobernador o de los Ayuntamientos, según sea el caso, sin que se requieran las autorizaciones a que se refiere el artículo 25 de esta ley, siempre que sean vendidos a un precio no menor de su valor catastral.
 
 T R A N S I T O R I O S
 
@@ -232,3 +236,7 @@ JOSÉ C. PARRA.
 P.O. 20 DE MAYO DE 1943.
 
 Artículo único. Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el "Periódico Oficial del Gobierno del Estado".
+
+P.O. 21 DE DICIEMBRE DE 2001.
+
+Artículo Único.- El presente decreto se publicará en el Periódico Oficial "El Estado de Sinaloa" e iniciará su vigencia el primero de enero del año 2002.
