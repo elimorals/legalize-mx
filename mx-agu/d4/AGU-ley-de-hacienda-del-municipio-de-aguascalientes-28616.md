@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "1994-11-13"
+last_updated: "1995-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1995.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -783,37 +783,41 @@ Si transcurrido dicho plazo, no se expresan los datos o no se presentan los docu
 
 DEL OBJETO
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 62.
 
-Es objeto de este impuesto:
+El valor del inmueble será el que resulte mayor entre el valor de adquisición o el valor catastral del mismo, disminuido con el valor que se tome como base para calcular el impuesto a que se refiere esta ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
 
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al construir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges.
+Para los efectos de esta Ley, se entiende por adquisición la que derive de:
 
-II.- La compra-venta en la que el vendedor se reserva la propiedad, aun cuando la transferencia de ésta opere con posterioridad;
+I.- Todo acto por el que se trasmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges.
 
-III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido;
+II.- La compra-venta en la que el vendedor se reserva la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
 
-IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden;
+III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido.
 
-V.- Fusión de sociedades;
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III, que anteceden.
 
-VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
+V.-Fusión y escisión de propiedades.
 
-VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
 
-VIII.- Prescripción positiva;
+VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal.
 
-IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
+VIII.- Prescripción positiva.
 
-Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios;
+IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en la proporción a los inmuebles. Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios.
 
-X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación; y
+X.- Enajenación a través de fideicomiso.
 
-XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge.
+XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del por ciento que le correspondía al copropietario o cónyuge.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
+
+Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+
+En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo a que se refiere este artículo.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
@@ -869,33 +873,37 @@ Este impuesto se liquidará y recaudará de conformidad con las cuotas y tasas q
 
 DEL PAGO
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 66.
 
-El pago de este impuesto se hará dentro del plazo de treinta días, contados a partir de la fecha en que se hubiere celebrado el acto o contrato, protocolizado las diligencias o causado ejecutoria la resolución por virtud de la cual se adjudiquen los bienes. Si la operación se efectúa fuera del Estado, el plazo para el pago del impuesto será de sesenta días.
+El pago del impuesto deberá hacerse dentro de los quince días siguientes a aquel en el que se realice cualquiera de los supuestos que a continuación se señalan:
+
+I.- Cuando se constituya o se adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
+
+II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma, si trascurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente.
+
+III.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal de la Federación.
+
+IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
+
+V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en Registro Público, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos o esta formalidad, al adquirirse el dominio conforme a las leyes.
 
 El contribuyente podrá pagar el impuesto por anticipado.
-
-En caso de rescisión tendrá derecho a la devolución del impuesto.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 DE LAS EXENCIONES
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 67.
 
 No se pagará el impuesto establecido en esta ley:
 
-1.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
+1.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios, para formar parte del dominio público; los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso y las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
-2.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan estos al enajenante.
-
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1994)</small>
-
-3.- Las asociaciones religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, siempre y cuando la adquisición se realice antes del 31 de diciembre de 1994.
+2.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
@@ -1666,3 +1674,17 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 13 DE NOVIEMBRE DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE MAYO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Se derogan los Artículos 62 y 66 de la Ley de Hacienda del Municipio de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Los artículos 62 y 66 de la Ley de Hacienda del Municipio de Aguascalientes, que se crean con la presente reforma, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO TERCERO.
+
+Las Asociaciones Religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el importe sobre adquisición de inmuebles, únicamente por lo que ve a las adquisiciones que realice hasta el 31 de diciembre de 1995.
