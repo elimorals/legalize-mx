@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1988-11-02"
+last_updated: "1988-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE NOVIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1988.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -99,7 +99,9 @@ V.- QUINTO CIRCUITO:
 
 2.- Juzgados primero y segundo de Distrito en el estado de Sonora, con residencia en la ciudad de Hermosillo;
 
-3.- Juzgado Tercero de Distrito en el Estado de Sonora, con residencia en la ciudad de Nogales;
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO NUMERO 12/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 22 DE DICIEMBRE DE 1988)</small>
+
+3. Juzgados Tercero y Cuarto de Distrito en el estado de Sonora, con residencia en la ciudad de Nogales;
 
 4.- Juzgado Cuarto de Distrito en el Estado de Sonora, con residencia en Ciudad Obregón;
 
@@ -307,7 +309,9 @@ VII.- Los Juzgados Primero y Segundo de Distrito en el estado de Sonora, con res
 
 5.- Distrito de Guaymas, que comprende las siguientes municipalidades: Guaymas, con las Comisarías de La Misa, Ortiz, Pótam, Vicam, Torian, y San Ignacio Río Muerto; y Empalme.
 
-VIII.- El Juzgado Tercero de Distrito en el estado de Sonora, con residencia en Nogales, ejercerá jurisdicción en el territorio que sigue:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 12/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 22 DE DICIEMBRE DE 1988)</small>
+
+VIII.- Los Juzgados Tercero y Cuarto de Distrito en el estado de Sonora, con residencia en la ciudad de Nogales, ejercerán jurisdicción en el territorio que sigue:
 
 1.- Distrito de Agua Prieta, que comprende las siguientes municipalidades: Agua Prieta, con las Comisarías de Colonia Morelos y El Pozo Morelos; Fronteras, con las Comisarías de Cuquiárachi y Esquela; El Tigre, y Casa de Teras, pertenecientes a la municipalidad en Nacozari de García; Bavispe, con la Comisaría de San Miguel de Bavispe; Bacerac y Huachinera;
 
@@ -319,15 +323,17 @@ VIII.- El Juzgado Tercero de Distrito en el estado de Sonora, con residencia en 
 
 5.- Distrito de Nogales, que comprende las siguientes municipalidades de Nogales y Santa Cruz;
 
-IX.- El Juzgado Cuarto de Distrito en el Estado de Sonora, con residencia en Ciudad Obregón, ejercerá jurisdicción en el territorio que sigue:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO CUARTO DEL ACUERDO NUMERO 12/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 22 DE DICIEMBRE DE 1988)</small>
+
+IX.- El Juzgado Quinto de Distrito en el estado de Sonora, con residencia en Ciudad Obregón, ejercerá jurisdicción en el territorio que sigue:
 
 1.- Distrito de Cajeme, que comprende las siguientes municipalidades: Cajeme, con las Comisarías de Cócorit, Esperanza, Providencia, Pueblo Yaqui y Comuripa; Bácum y Rosario, con las Comisarías de Cedros, Nurí, La Dura y Movas;
 
-2.- Distrito de Alamos, que comprende las siguientes municipalidades: Alamos, con las Comisarías de Tapizuelas; Basiroa, Gerocoa, Minas Nuevas, Los Tanques, Macoyahui, San Bernardo, Los Camotes, Maquipo, Potrero de Reuter, Potrero de Alcántar, El Limón, El Cupis, La Laborcita, Conicárit, Los Muertos, Cochibampo, El Chinal, Palos Chinos, Guirocoba y El Tábelo;
+2.- Distrito de Alamos, que comprende las siguientes municipalidades: Alamos, con las Comisarías de Tapizuelas; Basiroa, Gerocoa, Minas Nuevas, Los Tanques, Macoyahui, San Bernardo, Los Camotes, Maquipo, Potrero de Reuter, Potrero de Alcántar, El Limón, El Cupis, La Laborcita, Conicárit, Los Muertos, Cochibampo, El Chinal, Palos Chinos, Guirocoba y el Tábelo;
 
 3.- Distrito de Huatabampo, que comprende las municipalidades: Etchojoa, con las Comisarías de la Villa, Basconcobe, Bacobampo, Chucarit, San Pedro y Villa Juárez; y Huatabampo, con las Comisarías de Citabaro, La Galera, Júpare, Yavaros, Moroncarit y Agiabampo;
 
-4.- Distrito de Navojoa, que comprende las siguientes municipalidades: Navojoa, con las Comisarías de Pueblo Viejo, Tesia, Camoa, San Ignacio, Bacabachi, Fundición, Rosales y Mesiaca; y Quiriego, con la Comisaría de Batacosa;
+4.- Distrito de Navojoa, que comprende las siguientes municipalidades: Navojoa, con las Comisarías de Pueblo Viejo, Tesia, Campa, San Ignacio, Bacabachi, Fundición, Rosales y Mesiaca, y Quiriego, con la Comisaría de Batacosa;
 
 X.- El Juzgado de Distrito en Materia Agraria en el Estado de Sonora, con residencia en la ciudad de Hermosillo, ejercerá jurisdicción en los Distritos que se señalan en las fracciones VII y IX, con sus respectivas municipalidades y comisarías;
 
@@ -462,3 +468,9 @@ UNICO.- Este acuerdo entrará en vigor el día de su publicación en el Diario O
 D.O.F. 2 DE NOVIEMBRE DE 1988.
 
 UNICO.- El presente acuerdo entrará en vigencia al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 1988.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de los Juzgados de Distrito mencionados en este acuerdo para su cumplimiento y comuníquese a todos los Tribunales Colegiados y Unitarios y a los Juzgados de Distrito en el país, para su conocimiento.
