@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2000-06-08"
+last_updated: "2000-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE AGOSTO DE 2000.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -3276,6 +3276,18 @@ ARTICULO 281 QUATER.- El servidor público que en el ejercicio de sus funciones 
 
 ARTICULO 281 QUINTUS.- No se considerarán como causas excluyentes de responsabilidad del delito de tortura el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en las investigaciones o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
 
+> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2000)</small>
+
+ARTICULO 281 SEXTUS.- Comete el delito de desaparición forzada de personas, el servidor público del Distrito Federal que, con motivo de sus atribuciones, detenga y mantenga oculta a una o varias personas o bien, autorice, apoye o consienta que otros lo hagan, sin reconocer la existencia de tal privación, o negándose al informar de manera precisa sobre su paradero, impidiendo con ello el ejercicio de los recursos legales y de las garantías procesales pertinentes.
+
+A quien cometa el delito de desaparición forzada de personas se le sancionará con prisión de 15 a 40 años, multa de trescientos a quinientos días multa, así como con la destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por dos tantos de la pena de prisión impuesta.
+
+Al particular que por orden, autorización o con apoyo de un servidor público participe en los actos descritos en el primer párrafo, se le impondrá una pena de prisión de ocho a quince años y multa de trescientos a quinientos días multa.
+
+Estas penas podrán ser disminuidas hasta en una tercera parte, cuando quien hubiere participado en la comisión del delito, suministre información que permita esclarecer los hechos; y hasta en una mitad, cuando contribuya a lograr la aparición con la vida de la víctima.
+
+La acción penal derivada de la desaparición forzada de personas y la pena que se imponga judicialmente al responsable de la misma, no estarán sujetas a prescripción.
+
 TITULO DECIMOCTAVO
 
 Delitos contra la paz y seguridad de las personas
@@ -3620,27 +3632,33 @@ Al que hiciere abortar a una mujer, se le aplicarán de uno a tres años de pris
 
 Si el aborto lo causare un médico, cirujano, comadrón o partera, además de las sanciones que le correspondan conforme al anterior artículo, se le suspenderá de dos a cinco años en el ejercicio de su profesión.
 
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2000)</small>
+
 ###### ARTICULO 332.
 
-Se impondrán de seis meses a un año de prisión, a la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar, si concurren estas tres circunstancias:
+Se impondrán de uno a tres años de prisión a la mujer que voluntariamente practique su aborto o consienta en que otro la haga abortar.
 
-I.- Que no tenga mala fama;
-
-II.- Que haya logrado ocultar su embarazo, y
-
-III.- Que éste sea fruto de una unión ilegítima.
-
-Faltando alguna de las circunstancias mencionadas, se le aplicarán de uno a cinco años de prisión.
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 333.
 
-No es punible el aborto causado sólo por imprudencia de la mujer embarazada, o cuando el embarazo sea resultado de una violación.
+El delito de aborto sólo se sancionará cuando se haya consumado.
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2000)</small>
 
 ###### ARTICULO 334.
 
-No se aplicará sanción: cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
+No se aplicará sanción:
+
+I.- Cuando el embarazo sea resultado de una violación, o de una inseminación artificial no consentida.
+
+II.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de afectación grave a su salud a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora;
+
+III.- Cuando a juicio de dos médicos especialistas exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales, al límite que puedan poner en riesgo la sobrevivencia del mismo, siempre que se tenga el consentimiento de la mujer embarazada.
+
+IV.- Que sea resultado de una conducta culposa de la mujer embarazada.
+
+En los casos contemplados en las fracciones I, II y III los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencia y efectos; así como de los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
 
 ### CAPITULO VII. Abandono de personas
 
@@ -5511,3 +5529,17 @@ DECRETO DE REFORMAS Y ADICIONES AL CODIGO PENAL PARA EL DISTRITO FEDERAL.
 PRIMERO.- Estas reformas y adiciones entrarán en vigor a los treinta días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 24 DE AGOSTO DE 2000.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CODIGO PENAL PARA EL DISTRITO FEDERAL Y DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL.
+
+UNICO.- El presente decreto entrará en vigor treinta días después de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 24 DE AGOSTO DE 2000.
+
+DECRETO POR EL QUE SE ADICIONAN EL ARTICULO 281 SEXTUS AL CAPITULO UNICO DEL TITULO DECIMOSEPTIMO BIS DEL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
