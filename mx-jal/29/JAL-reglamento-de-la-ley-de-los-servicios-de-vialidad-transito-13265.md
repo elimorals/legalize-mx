@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-los-servicios-de-vialidad-transito-1326
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-03"
-last_updated: "2003-01-23"
+last_updated: "2003-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2003
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2003
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 3 de diciembre de 1998.
 
@@ -128,7 +128,19 @@ XXXVI.- Vialidad Secundaria: Son las que permiten el movimiento del tránsito en
 
 XXXVII.- Vía Rápida: Vialidad que permite la libre circulación de vehículos con intersecciones a desnivel con otras vías de circulación;
 
-XXXVIII.- Vías Públicas: Superficie del dominio público que se utilizan para el tránsito de personas, semovientes y vehículos.
+XXXVIII.- Vías Públicas: Superficie del dominio público que se utilizan para el tránsito de personas, semovientes y vehículos;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2003)</small>
+
+XXXIX.- Zona Prohibida para vehículos pesados:
+
+a) Los carriles centrales de las avenidas.
+
+b) El tercer carril del lado izquierdo.
+
+c) El segundo carril cuando no sea usado exclusivamente para rebasar.
+
+d) Los lugares en donde se encuentren señalamientos prohibitivos de circulación a vehículos pesados.
 
 ### CAPÍTULO II. DE LA NORMATIVIDAD COMPLEMENTARIA
 
@@ -630,9 +642,13 @@ VI.- Para obtener el canje de placas o el refrendo de tarjeta de circulación y 
 
 Para los efectos del último párrafo del artículo 43 de la Ley, los vehículos según su tipo se clasifican de la siguiente manera:
 
-I.- Ligeros: Aquellos que tienen una capacidad de carga de hasta tres mil kilogramos de peso correspondiendo a esta categoría los siguientes: Bicicletas, triciclos, bicimotos, motonetas, motocicletas, carretas, calandrias, vehículos tubulares, automóviles, vagonetas, pick up, panel, u otros vehículos similares hasta de quince; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2003)</small>
 
-II.- Pesados: Aquellos que tienen una capacidad de carga superior a los tres mil kilogramos de peso correspondiendo a esta categoría los siguientes: autobús, minubús, midibus, volteo, revolvedora, pipa, estacas, tubular, torton, trailer, remolque y doble semi-remolque, trilladoras, trascabos, montacargas, grúas, vehículos agrícolas y camiones con remolque.
+I. Ligeros: Aquellos que tienen una capacidad de carga de hasta tres mil kilogramos de peso correspondiendo a esta categoría los siguientes: Bicicletas, triciclos, bicimotos, motonetas, motocicletas, carretas, calandrias, vehículos tubulares, automóviles, vagonetas, pick up, panel, u otros vehículos similares hasta de doce plazas de pasajeros; y
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2003)</small>
+
+II. Pesados: Aquellos que tienen una capacidad de carga superior a los tres mil kilogramos de peso correspondiendo a esta categoría los siguientes: autobús, minibús, midibus, volteo, revolvedora, pipa, estacas, tubular, torton, trailer, remolque y doble semi-remolque, trilladoras, trascabos, montacargas, grúas, vehículos agrícolas y camiones con remolque.
 
 Se entiende por peso bruto vehicular el peso real del vehículo expresado en kilogramos, sumado al de su máxima capacidad de carga conforme a las especificaciones del fabricante y al del tanque de combustible lleno a su capacidad.
 
@@ -1701,3 +1717,9 @@ P.O. 23 DE ENERO DE 2003.
 PRIMERO.- Se derogan las disposiciones reglamentarias y administrativas que se opongan a lo previsto en el presente acuerdo.
 
 SEGUNDO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 16 DE AGOSTO DE 2003.
+
+PRIMERO.- Se derogan las disposiciones reglamentarias y administrativas que se opongan a lo previsto en el presente acuerdo.
+
+SEGUNDO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
