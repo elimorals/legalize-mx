@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1985-01-14"
+last_updated: "1985-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1985.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1362,7 +1362,9 @@ VI.- Conceder licencia hasta por treinta días al Presidente de la República y 
 
 VII.- Ratificar los nombramientos que el Presidente de la República haga de ministros, agentes diplomáticos, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga.
 
-VIII.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
+VIII.- Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores federales.
 
 IX.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
 
@@ -3475,3 +3477,9 @@ D.O.F. 14 DE ENERO DE 1985.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE FEBRERO DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
