@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1995-05-24"
+last_updated: "1995-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1995.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -689,19 +689,21 @@ Ese mismo carácter tendrán las resoluciones del Congreso del Estado erigido en
 
 #### SECCION SEGUNDA. De la Instalación de la Legislatura y su Funcionamiento
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
 
 ###### ARTICULO 41.
 
 Los diputados electos que cuenten con su constancia de mayoría y validez expedida por el Instituto Estatal Electoral o resolución a su favor del Tribunal Estatal Electoral, concurrirán a la instalación de la Legislatura del Estado de conformidad con lo dispuesto en el artículo 47 de esta Constitución y la Ley Orgánica del propio Congreso.
 
-Para tal efecto deberán presentar dentro de los días diez y doce de septiembre del año de la elección, ante el Oficial Mayor de la Cámara de Diputados, la constancia o resolución de referencia, para su registro, toma de razón y entrega de la credencial de acceso a la sesión de instalación que tendrá verificativo a las once horas del día quince de septiembre del año de la elección, en cuya fecha se hará la elección de Presidente, Vicepresidente y Secretarios en los términos de su Ley Orgánica y Reglamento.
+Para tal efecto, deberán presentar dentro de los días diez y doce de noviembre del año de la elección, ante el Oficial Mayor de la Cámara de Diputados, la constancia o resolución de referencia, para su registro, de razón y entrega de la credencial de acceso a la sesión de instalación que tendrá verificativo a las once horas del día quince de noviembre del año de la elección, en cuya fecha se hará la elección de Presidente, Vicepresidente y Secretarios en los términos de su Ley Orgánica y Reglamento.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
 
 ###### ARTICULO 42.
 
-La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el primer período de sesiones dará principio el día diez y seis de septiembre, y el segundo, el primero de abril del año siguiente; y no podrán prolongarse más que hasta el diez y seis de diciembre y el treinta de junio, respectivamente.
+La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el primer período de sesiones dará principio el día 15 de noviembre y el segundo, el 1o. de junio del año siguiente; y no podrán prolongarse más que hasta el día 30 de abril y 30 de septiembre respectivamente.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
 Se reunirá, además, en períodos extraordinarios siempre que sea convocada por la Diputación Permanente o por el Ejecutivo; pero si éste hiciere la convocatoria, no se efectuará antes de diez días de la fecha de la publicación de aquella.
 
@@ -873,7 +875,9 @@ XX. Dar bases generales conforme a las cuales el Ejecutivo pueda concertar empr�
 
 XXI. Dictar las disposiciones necesarias para liquidar y amortizar las deudas que tuviere el Estado;
 
-XXII. Convocar a elecciones de Gobernador y Diputados en los períodos constitucionales o cuando por cualquiera causa hubiere falta absoluta de esos Servidores Públicos;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
+
+XXII. Convocar a elecciones de Gobernador, Diputados y Concejales Municipales, en los períodos constitucionales o cuando por cualquier causa hubiere falta absoluta de esos servidores públicos;
 
 XXIII. Erigirse en Colegio Electoral para hacer la computación de votos en la elección de Gobernador, y hacer la declaración que corresponda;
 
@@ -2674,6 +2678,14 @@ TERCERO.- Las disposiciones contenidas en el párrafo tercero del artículo 25 e
 P.O. 24 DE MAYO DE 1995.
 
 UNICO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL MISMO DÍA DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 14 DE SEPTIEMBRE DE 1995.
+
+PRIMERO.- La reforma a los artículos 41 y 42 de la Constitución Política del Estado Libre y Soberano de Oaxaca, entrará en vigor en el proceso electoral local del año de 1998.
+
+SEGUNDO.- La reforma a la fracción XXII del artículo 59 de la Constitución Política del Estado Libre y Soberano de Oaxaca, entrará en vigor, a partir de la aprobación de este decreto.
+
+TERCERO.- Se autoriza a los integrantes de la Quincuagésima Sexta Legislatura del Estado, a que, para su período constitucional, amplíen el término del mismo, venciendo su período el día 15 de noviembre de 1998.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
