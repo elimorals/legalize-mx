@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1972-01-08"
+last_updated: "1972-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ENERO DE 1972.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 1972.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1269,13 +1269,11 @@ Las Leyes del Estado podrán instituir Tribunales de lo contencioso-administrati
 
 ### CAPITULO PRIMERO. DE LAS AUTORIDADES ENCARGADAS DE LA ADMINISTRACION PUBLICA DE LOS MUNICIPIOS
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 133.
 
-La Administración Pública Interior de los Municipios se hará por los Ayuntamientos, por los Presidentes Municipales y por los Jueces Menores Municipales.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 1 DE ENERO DE 1955)</small>
+La Administración Pública interior de los Municipios se ejercerá por los Ayuntamientos, los Presidentes Municipales, los Jueces Menores Municipales y Jueces Populares.
 
 ###### Art. 134.
 
@@ -1415,9 +1413,11 @@ III. Imponer contribuciones que no estén especificadas en su respectiva ley de 
 
 IV. Conceder licencias para juegos de azar.
 
-#### SECCION QUINTA. DE LOS JUECES MENORES MUNICIPALES
+#### SECCION QUINTA
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1966)</small>
+DE LOS JUECES MENORES MUNICIPALES Y JUECES POPULARES.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 155.
 
@@ -1429,13 +1429,13 @@ II. Ejecutar dentro del Municipio las leyes Federales y del Estado y todas las d
 
 III. Ser el órgano de comunicación de los Ayuntamientos que presiden con los demás Ayuntamientos y con el Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1972)</small>
 
-IV.- Ejecutar con arreglo a las leyes las resoluciones dictadas por los Jueces Menores Municipales.
+IV. Ejecutar con arreglo a las Leyes, las resoluciones dictadas por los Jueces Menores Municipales y los Jueces Populares.
 
 #### SECCION SEXTA. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS MUNICIPALES
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 156.
 
@@ -1451,15 +1451,15 @@ II.- Autorizar con su firma en unión de la del Presidente Municipal, las dispos
 
 III. Todas las demás que determinen las respectivas leyes reglamentarias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION PRIMERA. DE LA HACIENDA PUBLICA DEL ESTADO
 
 ###### Art. 157.
 
-La Administración de Justicia en cada Municipio, estará a cargo de uno o más funcionarios de elección popular directa que se denominarán Jueces Menores Municipales, con residencia en la Cabecera Municipal cuando sólo sea un Juez y en la Cabecera y en las poblaciones que estime conveniente el Tribunal Superior de Justicia oyendo el parecer del respectivo Ayuntamiento, cuando sean más de uno.
+La Administración de Justicia en cada Municipio estará a cargo de uno o más funcionarios de elección popular directa, que se denominarán Jueces Menores Municipales, y de los Jueces Populares que serán nombrados por el Ayuntamiento correspondiente, auscultando la opinión de los diversos sectores de la población. Estos últimos sólo funcionarán cuando en concepto del propio Ayuntamiento y atentas las necesidades y capacidad económica del Municipio lo requiera, y en el número que sean necesarios; los primeros con residencia en la Cabecera Municipal cuando sólo sea un Juez y en la Cabecera y Poblaciones que estime necesario el Tribunal Superior de Justicia, oyendo el parecer del correspondiente Ayuntamiento cuando sea más de uno; los segundos con residencia en la Cabecera Municipal y localidades que estime conveniente el propio Ayuntamiento.
 
-La Ley Orgánica relativa determinará el número de Jueces Menores Municipales que deba haber en cada municipio.
+La Ley Orgánica correctiva determinará el número de Jueces Menores Municipales que deba haber en cada Municipio.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1966)</small>
 
@@ -1467,37 +1467,47 @@ La Ley Orgánica relativa determinará el número de Jueces Menores Municipales 
 
 Por cada Juez Menor Municipal Propietario habrá dos Suplentes que llevarán su respectivo número de orden. Cuando ocurra falta absoluta o temporal del Juez Propietario y de los Jueces Suplentes, la Legislatura o la Diputación Permanente hará la designación de un substituto a propuesta del Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
+
+Por cada Juez Popular habrá un Suplente que por falta absoluta o temporal substituirá al Propietario.
+
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
 ###### Art. 159.
 
 Los Jueces Menores Municipales Propietarios y Suplentes serán electos al mismo tiempo que los Ayuntamientos y durarán tres años en su encargo.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1966)</small>
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
+
+Los Jueces Populares serán nombrados dentro del primer mes del ejercicio constitucional de cada Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 160.
 
 Para ser Juez Menor Municipal se requiere:
 
-Ser Ciudadano Mexicano y vecino del municipio en ejercicio de sus derechos; los Jueces Menores Municipales de los municipios que sean Cabeceras Distritales Judiciales y los de Naucalpan y de Netzahualcóyotl, deberán ser Abogados o Pasantes de Derecho.
+Ser ciudadano mexicano, mayor de edad y vecino del Municipio, en ejercicio de sus derechos; los Jueces Menores Municipales de los Municipios que sean Cabeceras Distritales Judiciales y los que tengan más de 300,000 habitantes, deberán ser Licenciados en Derecho o pasantes de Derecho, este último requisito operará en la medida en que las circunstancias de cada lugar lo permitan.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+Para ser Juez Popular se requieren los mismos requisitos, excepto el de tener título de Licenciado en derecho o Pasante.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 161.
 
-Los Jueces Menores Municipales se considerarán como auxiliares de los Jueces y Tribunales del Estado y desempeñarán las funciones que uno y otros les encarguen, con arreglo a las leyes, lo mismo en materia civil que en materia penal.
+Los Jueces Menores Municipales y Jueces Populares se considerarán como auxiliares de los Jueces y Tribunales del Estado y desempeñarán las funciones que unos y otros les encarguen, con arreglo a las Leyes, lo mismo en materia civil que en materia penal.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
 
 ###### Art. 162.
 
-Los Jueces Menores Municipales aplicarán dentro de los Municipios a que pertenezcan y con la competencia que les señale la Ley Orgánica del Poder Judicial, las leyes civiles y penales que para todo el territorio del Estado expida la Legislatura del mismo, ajustando todos sus actos a las leyes de procedimiento que expida también la expresada Legislatura.
+Los Jueces Menores Municipales y Jueces Populares ejercerán sus funciones dentro de los Municipios y Localidades a que pertenecen respectivamente, con la competencia que les señale la Ley Orgánica del Poder Judicial, la Ley Orgánica Municipal y demás Leyes del Estado.
 
 #### SECCION SEGUNDA. DIRECCION GENERAL DE HACIENDA
 
 ###### Art. 163.
 
-Los Presidentes y Jueces Menores Municipales son responsables por los delitos y faltas oficiales que cometan durante el tiempo de su encargo.
+Los Presidentes y Jueces Menores Municipales, así como los Jueces Populares, son responsables por los delitos y faltas oficiales que cometen durante el tiempo de su encargo.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
@@ -2067,9 +2077,15 @@ DECRETO NUMERO 30, POR EL QUE SE REFORMA LA FRACCION XXII DEL ARTICULO 89 DE LA 
 
 Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
 
+G.G. 2 DE OCTUBRE DE 1943.
+
+DECRETO NUMERO 2, POR EL QUE SE DEROGA LA FRACCION X DEL ARTICULO 109, SE ABROGA EL ARTICULO PRIMERO DEL DECRETO NUMERO 59 DE 18 DE OCTUBRE DE 1941, EN LA PARTE QUE DEROGO LA FRACCION XVI AL ARTICULO 70 Y LA VII DEL ARTICULO 73 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
 G.G. 8 DE ENERO DE 1944.
 
-DECRETO NUMERO 31, POR EL QUE SE REFORMAN LOS ARTICULOS 40 FRACCION VI, 88 FRACCION V REFORMADA, 178 AL 182, 192 AL 194 Y 210 Y 211 Y SE SUPRIME EL RUBRO DE LA SECCION SEGUNDA CAPITULO SEGUNDO, TITULO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NUMERO 30, POR EL QUE SE REFORMA LA FRACCION XXII DEL ARTICULO 89 DE LA CONSTITUCION POLITICA LOCAL.
 
 ###### Art. 1o.
 
@@ -2086,6 +2102,14 @@ Se faculta al Ejecutivo del Estado para organizar y reglamentar el funcionamient
 G.G. 8 DE ENERO DE 1944.
 
 DECRETO NUMERO 32, POR EL QUE SE REFORMAN LOS ARTICULOS 101 Y 104, ACTUALMENTE VIGENTES DE LA CONSTITUCION PARTICULAR DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 8 DE ENERO DE 1944.
+
+DECRETO NUMERO 31, POR EL QUE SE REFORMAN LOS ARTICULOS 40 FRACCION VI, 88 FRACCION V REFORMADA, 178 AL 182, 192 AL 194 Y 210 Y 211 Y SE SUPRIME EL RUBRO DE LA SECCION SEGUNDA CAPITULO SEGUNDO, TITULO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 ###### ARTICULO SEGUNDO.
 
@@ -2122,28 +2146,6 @@ G.G. 17 DE OCTUBRE DE 1945.
 Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
 
 G.G. 20 DE ABRIL DE 1946.
-
-###### ARTICULO SEGUNDO.
-
-El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
-
-G.G. 31 DE DICIEMBRE DE 1947.
-
-DECRETO NUMERO 11, POR EL QUE SE REFORMA EL ARTICULO 159 REFORMADO, DE LA CONSTITUCION POLITICA LOCAL.
-
-Artículo Transitorio.- Los Jueces Conciliadores actualmente en funciones, terminarán su periodo el 31 de diciembre de 1948.
-
-G.G. 31 DE DICIEMBRE DE 1947.
-
-DECRETO NUMERO 12, POR EL QUE SE MODIFICAN LOS ARTICULOS 71, 72, 101, 102 FRACCION II, III, 158, 218 FRACCION III, SE DEROGA LA FRACCION IV DEL ARTICULO 218 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
-
-G.G. 15 DE SEPTIEMBRE DE 1948.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
-
-G.G. 4 DE ENERO DE 1950.
 
 ###### ARTICULO UNICO.
 
@@ -2204,3 +2206,29 @@ G.G. 8 DE ENERO DE 1972.
 ###### ARTICULO TERCERO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta del Gobierno del Estado.
+
+G.G. 16 DE DICIEMBRE DE 1972.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en la "Gaceta del Gobierno" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 31 DE DICIEMBRE DE 1947.
+
+DECRETO NUMERO 11, POR EL QUE SE REFORMA EL ARTICULO 159 REFORMADO, DE LA CONSTITUCION POLITICA LOCAL.
+
+Artículo Transitorio.- Los Jueces Conciliadores actualmente en funciones, terminarán su periodo el 31 de diciembre de 1948.
+
+G.G. 31 DE DICIEMBRE DE 1947.
+
+DECRETO NUMERO 12, POR EL QUE SE MODIFICAN LOS ARTICULOS 71, 72, 101, 102 FRACCION II, III, 158, 218 FRACCION III, SE DEROGA LA FRACCION IV DEL ARTICULO 218 DE LA CONSTITUCION PARTICULAR DEL ESTADO.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 15 DE SEPTIEMBRE DE 1948.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 4 DE ENERO DE 1950.
