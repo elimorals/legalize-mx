@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-medios-de-impugnacion-en-materia-electoral-12027
 country: "mx"
 rank: "ley"
 publication_date: "1998-05-09"
-last_updated: "1998-05-09"
+last_updated: "2001-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de mayo de 1998.
 
@@ -71,15 +71,17 @@ I.- Revocación;
 
 II.- Aclaración;
 
-III.- Reposición;
+II.- (DEROGADA, P.O. 10 DE MAYO DE 2001)
 
-IV.- Inconformidad y
+III.- (DEROGADA, P.O. 10 DE MAYO DE 2001)
 
 V.- Revisión.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2001)</small>
+
 ###### Artículo 5.
 
-Corresponde a los órganos del Instituto Estatal Electoral conocer y resolver los recursos de revocación y aclaración. Los demás medios de impugnación previstos en el artículo anterior al Tribunal Electoral, en la forma y términos establecidos en esta ley.
+Corresponde a los órganos del Instituto Estatal Electoral conocer y resolver el recurso de revocación. Los demás medios de impugnación previstos en el artículo anterior al Tribunal Electoral, en la forma y términos establecidos en esta ley.
 
 ###### Artículo 6.
 
@@ -583,191 +585,217 @@ Las elecciones que en las etapas de resultados, declaración de validez o en su 
 
 #### SECCIÓN PRIMERA. PROCEDENCIA
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2001)</small>
+
 ###### Artículo 61.
 
-El recurso de revocación procede en contra de actos o resoluciones dictados por los órganos electorales, que no tengan recurso específico para su impugnación, así como también toda resolución pronunciada por el Consejo General del Instituto Estatal Electoral que afecten las prerrogativas, determinen suspensión provisional o definitiva de la acreditación o registro de un partido político estatal. Podrá interponerse durante los procesos electorales o fuera de éstos.
+El recurso de revocación procede en contra de:
+
+I.- El acuerdo que determine la integración de las mesas directivas de casilla y su ubicación, así como el nombramiento de quienes los substituirán en caso de excusa o, impedimento;
+
+II.- Los actos o resoluciones dictados por los órganos electorales, que no tengan recurso específico para su impugnación y
+
+III.- Toda resolución pronunciada por el Consejo General del Instituto Estatal Electoral que afecten las prerrogativas, determinen suspensión provisional o definitiva de la acreditación o registro de un partido político estatal.
+
+Podrá interponerse durante los procesos electorales o fuera de éstos.
 
 #### SECCIÓN SEGUNDA. COMPETENCIA
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2001)</small>
+
 ###### Artículo 62.
 
-Es competente para substanciarlo y resolverlo el órgano electoral que ejecutó el acto o dictó la resolución impugnada.
+Es competente para substanciarlo y resolverlo el órgano electoral que ejecutó el acto, dictó el acuerdo o la resolución impugnada.
 
 #### SECCIÓN TERCERA. LEGITIMACIÓN
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2001)</small>
+
 ###### Artículo 63.
 
-Están legitimados para promoverlo los partidos políticos a través de sus representantes debidamente acreditados ante el órgano competente.
+Están legitimados para promoverlo los partidos políticos y coaliciones a través de sus representantes debidamente acreditados ante el órgano competente y los ciudadanos que hayan sido designados para integrar mesas directivas de casilla.
 
 #### SECCIÓN CUARTA. TÉRMINO
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2001)</small>
+
 ###### Artículo 64.
 
-Se interpondrá dentro de las cuarenta y ocho horas siguientes a partir de la realización del acto o de la notificación de la resolución que se impugna.
+Se interpondrá dentro de las setenta y dos horas siguientes a partir de la realización del acto, acuerdo o de la notificación de la resolución que se impugna.
 
-#### SECCIÓN QUINTA. SUBSTANCIACIÓN
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE MAYO DE 2001)</small>
+
+#### SECCIÓN QUINTA
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2001)</small>
 
 ###### Artículo 65.
 
-Recibido el recurso de revocación por el órgano competente, se seguirá el procedimiento siguiente:
+Recibido el recurso por el Presidente del Consejo que corresponda:
 
-a).- El presidente del órgano electoral lo turnará al secretario quien revisará que el recurso reúna todos lo requisitos de procedencia;
+I.- Lo turnará al Secretario General para el efecto de que mediante la revisión que practique al recurso y sus anexos si los hubiere, compruebe que cumple con todos los requisitos de procedibilidad;
 
-b).- En caso contrario, proyectará su desechamiento, que someterá a votación del órgano respectivo;
+II.- Cuando no reúna los requisitos de procedibilidad, el secretario emitirá un proyecto para desechar el recurso y lo someterá a la consideración del consejo;
 
-c).- Satisfechos los requisitos de procedencia, se dictará auto admisorio, mismo que deberá ser notificado en los términos del capítulo correspondiente y
+III.- Cuando hayan sido satisfechos los requisitos de procedencia, se dictará un auto admisorio que deberá ser notificado en los términos del Capítulo XI y
 
-d).- El secretario del órgano proyectará la resolución definitiva que someterá a votación del órgano para su discusión y aprobación.
+IV.- Substanciado que fuese el recurso, el secretario emitirá un proyecto de resolución que someterá a la consideración del consejo para su aprobación o modificación.
 
 #### SECCIÓN SEXTA. RESOLUCIÓN
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2001)</small>
+
 ###### Artículo 66.
 
-El recurso de revocación deberá resolverse dentro de las setenta y dos horas siguientes a su interposición.
+El recurso de revocación deberá resolverse dentro de los tres días siguientes a su interposición.
+
+Para el caso de recurso en la integración o ubicación de mesas directivas de casilla, los consejeros electorales del órgano de que se trate, emitirán su resolución dentro de las setenta y dos horas siguientes al momento en que lo recepcionaron y si no lo hicieren el interesado podrá acudir por escrito ante el Consejo General, que resolverá de manera definitiva y firme dentro de las setenta y dos horas siguientes.
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2001)</small>
 
 ###### Artículo 67.
 
-La resolución de fondo que recaiga al recurso de revocación, tendrá como efectos, confirmar, revocar o modificar el acto o la resolución impugnada.
+La resolución de fondo que recaiga al recurso de renovación, tendrá como efectos, confirmar, revocar o modificar el acto, acuerdo o la resolución impugnada.
 
 ###### Artículo 68.
 
 La resolución que se dicte en este recurso, será recurrible ante el Tribunal Electoral mediante el recurso de revisión.
 
-### CAPÍTULO II. RECURSO DE ACLARACIÓN
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE MAYO DE 2001)</small>
 
-#### SECCIÓN PRIMERA. PROCEDENCIA
+### CAPÍTULO II
+
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 10 DE MAYO DE 2001)</small>
+
+#### SECCIÓN PRIMERA
 
 ###### Artículo 69.
 
-Durante los procesos electorales, podrá interponerse el recurso de aclaración contra la integración de las mesas directivas de casilla o la ubicación de las mismas.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
-#### SECCIÓN SEGUNDA. COMPETENCIA
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 10 DE MAYO DE 2001)</small>
+
+#### SECCIÓN SEGUNDA
 
 ###### Artículo 70.
 
-Será competente para substanciarlo y resolverlo el Consejo Distrital o Municipal correspondiente.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
-#### SECCIÓN TERCERA. LEGITIMACIÓN
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 10 DE MAYO DE 2001)</small>
+
+#### SECCIÓN TERCERA
 
 ###### Artículo 71.
 
-Están legitimados para promoverlo los ciudadanos o los partidos políticos a través de sus representantes debidamente acreditados ante el órgano electoral de que se trate.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
-#### SECCIÓN CUARTA. TÉRMINO
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 10 DE MAYO DE 2001)</small>
+
+#### SECCIÓN CUARTA
 
 ###### Artículo 72.
 
-Deberá interponerse dentro de los tres días naturales siguientes a la primera publicación a que se refiere el artículo 103 de la Ley Electoral del Estado.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
-#### SECCIÓN QUINTA. SUBSTANCIACIÓN Y RESOLUCIÓN
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE MAYO DE 2001)</small>
+
+#### SECCIÓN QUINTA
 
 ###### Artículo 73.
 
-Recibido el recurso por el Consejo Distrital o Municipal Electoral, el Secretario procederá a substanciarlo con las constancias necesarias y hecho esto proyectará la resolución que someterá a votación de los consejeros electorales para su discusión y aprobación.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
 ###### Artículo 74.
 
-Los consejeros electorales del órgano de que se trate, emitirán su resolución dentro de las setenta y dos horas siguientes al momento en que lo recepcionaron y si no lo hicieren el interesado podrá acudir por escrito ante el consejo general, quien resolverá de manera definitiva y firme dentro de las setenta y dos horas siguientes.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
 ###### Artículo 75.
 
-Los efectos de la resolución del recurso de aclaración son:
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
-a).- Confirmar la ubicación de la casilla e integración de las mesas directivas de la misma;
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE MAYO DE 2001)</small>
 
-b).- Cambiar la ubicación de la casilla y
+### CAPÍTULO III
 
-c).- Nombrar nuevo funcionario para integrar la Mesa Directiva de Casilla.
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 10 DE MAYO DE 2001)</small>
 
-### CAPÍTULO III. DEL RECURSO DE REPOSICIÓN
-
-#### SECCIÓN PRIMERA. PROCEDENCIA
+#### SECCIÓN PRIMERA
 
 ###### Artículo 76.
 
-El recurso de reposición es procedente para impugnar:
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
-I.- La negativa de inscripción en el padrón electoral;
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 10 DE MAYO DE 2001)</small>
 
-II.- Cuando se niegue la entrega de la credencial para votar con fotografía;
-
-III.- Cuando habiendo obtenido la credencial para votar con fotografía, el ciudadano no aparezca en la lista nominal de electores de la sección correspondiente a su domicilio y
-
-IV.- La exclusión del ciudadano de la lista nominal de electores de la sección correspondiente a su domicilio.
-
-#### SECCIÓN SEGUNDA. COMPETENCIA
+#### SECCIÓN SEGUNDA
 
 ###### Artículo 77.
 
-Durante los procesos electorales la Sala de Primera Instancia del Tribunal Electoral será competente para substanciar y resolver el recurso de reposición.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
-Entre dos procesos electorales, será competente para substanciar y resolver dicho recurso, el Pleno del Tribunal Electoral.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE MAYO DE 2001)</small>
 
-#### SECCIÓN TERCERA. LEGITIMACIÓN
+#### SECCIÓN TERCERA
 
 ###### Artículo 78.
 
-Tratándose de las fracciones I al III del artículo 76 de esta ley, estarán legitimados para promoverlo únicamente los ciudadanos directamente interesados.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
 ###### Artículo 79.
 
-Por lo que se refiere a la fracción IV del artículo 76 de esta ley, estarán legitimados los ciudadanos y los partidos políticos a través de sus representantes debidamente acreditados ante el Consejo General del Instituto Estatal Electoral.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
-#### SECCIÓN CUARTA. TÉRMINO
+> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 10 DE MAYO DE 2001)</small>
+
+#### SECCIÓN CUARTA
 
 ###### Artículo 80.
 
-El recurso de reposición se interpondrá dentro de las cuarenta y ocho horas contadas a partir del momento en que quede legalmente notificada la negativa de que se trate.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
-#### SECCIÓN QUINTA. SUBSTANCIACIÓN
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE MAYO DE 2001)</small>
+
+#### SECCIÓN QUINTA
 
 ###### Artículo 81.
 
-Recibido el recurso durante los procesos electorales, el Presidente de la Sala de Primera Instancia lo turnará al magistrado instructor que corresponda, quien procederá a dictar el auto de admisión o a proyectar la resolución de desechamiento para someterla a la consideración del pleno de la sala, en términos de los artículos 28 y 29 de esta ley.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
 ###### Artículo 82.
 
-Admitido el recurso, el magistrado instructor lo substanciará y presentará al pleno de la sala el proyecto de resolución.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
 ###### Artículo 83.
 
-Si durante la substanciación se actualiza alguna causal de sobreseimiento, el magistrado instructor proyectará la resolución que someterá a la consideración del pleno de la sala.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
 ###### Artículo 84.
 
-Interpuesto el recurso entre dos procesos electorales, el Presidente del Tribunal lo turnará al magistrado instructor que corresponda, quien procederá en los términos de los artículos precedentes de este capítulo.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
-#### SECCIÓN SEXTA. RESOLUCIÓN
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE MAYO DE 2001)</small>
+
+#### SECCIÓN SEXTA
 
 ###### Artículo 85.
 
-Durante los procesos electorales, el recurso de reposición será resuelto por la Sala de Primera Instancia, dentro de los cinco días siguientes a su recepción en el Tribunal Electoral.
-
-La resolución que al efecto emita la Sala de Primera Instancia, será recurrible mediante el recurso de revisión.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
 ###### Artículo 86.
 
-Entre dos procesos electorales, el recurso de reposición será resuelto por el pleno del tribunal, dentro de los cinco días siguiente (sic) a su recepción.
-
-La resolución que dicte el pleno del tribunal será definitiva y firme.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
 ###### Artículo 87.
 
-La resolución de fondo pronunciada en este recurso, podrá tener los siguientes efectos:
-
-a).- Confirmar el acto o resolución impugnado; o
-
-b).- Revocar el acto o resolución impugnada.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
 ###### Artículo 88.
 
-Las notificaciones que deban practicarse al recurrente de este medio de impugnación y al tercero interesado, deberán realizarse personalmente en el domicilio señalado para tal efecto, en la ciudad de Pachuca, Hgo.
-
-Cuando el recurrente o tercero interesado no hayan señalado domicilio, las notificaciones se practicarán por cédula que se fijará en los estrados del tribunal.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
 ###### Artículo 89.
 
-Las autoridades deberán ser notificadas en términos del artículo 49 de esta ley.
+(DEROGADO, P.O. 10 DE MAYO DE 2001)
 
 ### CAPÍTULO IV. DEL RECURSO DE INCONFORMIDAD
 
@@ -785,9 +813,11 @@ III.- Impugnar lo (sic) resultados consignados en las actas de cómputo distrita
 
 IV.- Impugnar la declaración de validez de la elección y consecuentemente el otorgamiento de la constancia de mayoría.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2001)</small>
+
 ###### Artículo 91.
 
-Será requisito indispensable para la procedencia de este recurso, que se formule escrito de protesta, cuando se hagan valer causas de nulidad de la votación recibida en una o varias casillas, para impugnar los resultados consignados en el acta única de la jornada electoral de las mismas y tendrá por objeto establecer la existencia de presuntas violaciones suscitadas durante la jornada electoral.
+Será potestativo para lo partidos políticos, la formulación del escrito de protesta, cuando se hagan valer causas de nulidad de la votación recibida en una o varias casillas, para impugnar los resultados consignados en el acta única de la jornada electoral de las mismas, y tendrá por objeto establecer la existencia de presuntas violaciones suscitadas durante la jornada electoral.
 
 ###### Artículo 92.
 
@@ -841,11 +871,13 @@ c).- La relación que guarde el recurso con otras impugnaciones y
 
 d).- Las copias firmadas de recibido de los escritos de protesta presentados durante la jornada electoral.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2001)</small>
+
 ###### Artículo 99.
 
 El recurso deberá interponerse ante el Consejo General, Distrital o Municipal, según el cómputo que se impugne.
 
-El consejo respectivo inmediatamente, notificará por estrados a los partidos políticos acreditados sobre la interposición del recurso y de las pruebas exhibidas, para que dentro del término de cuarenta y ocho horas comparezcan ante la Sala de Primera Instancia del Tribunal Electoral, a deducir lo que a su derecho convenga.
+El consejo respectivo inmediatamente, notificará de manera personal a los partidos políticos acreditados sobre la interposición del recurso y de las pruebas exhibidas, para que dentro del término de setenta y dos horas comparezcan ante la Sala de Primera Instancia del Tribunal Electoral, a deducir lo que a su derecho convenga.
 
 ###### Artículo 100.
 
@@ -905,7 +937,7 @@ El recurso de revisión es procedente para impugnar:
 
 I.- La resolución dictada por los órganos del instituto en el recurso de revocación;
 
-II.- La resolución dictada por la Sala de Primera Instancia en el recurso de reposición y
+II.- (DEROGADA, P.O. 10 DE MAYO DE 2001)
 
 III.- La resolución dictada por la Sala de Primera Instancia en el recurso de inconformidad.
 
@@ -921,23 +953,27 @@ Entre dos procesos electorales, será competente para substanciarlo y resolverlo
 
 #### SECCIÓN TERCERA. LEGITIMACIÓN
 
+> <small>(REFORMADo, P.O. 10 DE MAYO DE 2001)</small>
+
 ###### Artículo 112.
 
 Están legitimados para interponer este recurso:
 
 I.- Los partidos políticos a través de la representación que interpuso el recurso de revocación cuya resolución impugna;
 
-II.- El ciudadano y partidos políticos a través de su representante debidamente acreditado ante el Consejo General del Instituto Estatal Electoral, tratándose del recurso de reposición;
+II.- (DEROGADA, P.O. 10 DE MAYO DE 2001)
 
 III.- Los partidos políticos a través de quien en ese momento tenga la misma representación de quien interpuso el recurso de inconformidad y cuya resolución se impugna y
 
-IV.- El partido político que haya participado como tercero interesado en el recurso de inconformidad, a través de su representante debidamente acreditado con tal carácter ante el consejo electoral de que se trate.
+IV.- Los partidos políticos que hayan participado en la elección, a través de su representante debidamente acreditado con tal carácter ante el Consejo Electoral de que se trate, en los casos que se impugne la resolución del recurso de inconformidad.
 
 #### SECCIÓN CUARTA. TÉRMINO
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2001)</small>
+
 ###### Artículo 113.
 
-Deberá interponerse dentro de las cuarenta y ocho horas siguientes a la notificación de la resolución que se impugna.
+Deberá interponerse dentro de las setenta y dos horas siguientes a la notificación de la resolución que se impugna.
 
 Los demás partidos políticos que participaron en la elección podrán comparecer como terceros interesados, dentro del término de cuarenta y ocho horas contadas a partir de la notificación del acuerdo que admita el recurso.
 
@@ -1010,3 +1046,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO:
 
 LIC. JESUS MURILLO KARAM.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE MAYO DE 2001.
+
+PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN, EN EL PERIÓDICO OFICIAL DE GOBIERNO DEL ESTADO.
+
+SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
