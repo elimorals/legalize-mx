@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1985-01-14"
+last_updated: "1985-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1985.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -2564,7 +2564,9 @@ III.- Las obligaciones y otros títulos legalmente emitidos por sociedades o emp
 
 Al que introduzca a la República o pusiere en circulación en ella los documentos falsos de que habla el artículo anterior, se le aplicará la sanción señalada por el artículo 239, y se le aplicará también en su caso, la parte final del artículo 236.
 
-### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones o uniformes
+### CAPITULO VII
+
+Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones, uniformes, grados jerárquicos, divisas, insignias y siglas.
 
 > <small>(REFORMADO, D.O.F. 30 DE ENERO DE 1947)</small>
 
@@ -2718,6 +2720,8 @@ II.- Al que para eludir la práctica de una diligencia judicial o una notificaci
 
 III.- Al funcionario o empleado público que, en los actos propios de su cargo, atribuyere a una persona título o nombre a sabiendas de que no le pertenece.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1985)</small>
+
 ### CAPITULO III. Juegos prohibidos
 
 ###### ARTICULO 250.
@@ -2740,7 +2744,9 @@ e).- Con objeto de lucrar, se una a profesionistas legalmente autorizados con fi
 
 III.- Al extranjero que ejerza una profesión reglamentada sin tener autorización de autoridad competente o después de vencido el plazo que aquélla le hubiere concedido.
 
-IV.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1985)</small>
+
+IV.- Al que usare condecoraciones, uniformes, grados jerárquicos, divisas, insignias y siglas a las que no tengan derecho. Podrá aumentarse la pena hasta la mitad más de su duración y cuantía, cuando sean de uso exclusivo de las Fuerzas Armadas Mexicanas.
 
 ### CAPITULO I. Atentados al pudor, estupro y violación
 
@@ -4455,3 +4461,9 @@ D.O.F. 14 DE ENERO DE 1985.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE ENERO DE 1985.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los seis meses de su publicación en el Diario Oficial de la Federación.
