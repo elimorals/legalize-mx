@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-el-financiamiento-publico-por-concepto-de-52008
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-21"
-last_updated: "1999-01-30"
+last_updated: "2003-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO PARA EL FINANCIAMIENTO PÚBLICO POR CONCEPTO DE ACTIVIDADES ESPECÍFICAS QUE REALICEN LOS PARTIDOS POLÍTICOS REGISTRADOS ANTE EL CONSEJO ELECTORAL DEL ESTADO, COMO ENTIDADES DE INTERÉS PÚBLICO Y FORMAS DE ORGANIZACIÓN POLÍTICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2003.
 
 Reglamento publicado en la Secc. III al No. 13 del Periódico Oficial del Estado de Jalisco, el martes 21 de octubre de 1997.
 
@@ -160,9 +160,11 @@ Los partidos políticos deberán designar ante la Dirección de Administración 
 
 Los partidos políticos podrán sustituir libremente a sus representantes designados con anticipación de por lo menos tres días hábiles a la fecha en que deba hacerse la ministración.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 20.
 
-Los remanentes de financiamiento público por actividades específicas no ministrados a más tardar el quince de marzo del año siguiente al ejercido, serán reintegrados a la Secretaría de Finanzas del Estado.
+Los remanentes del financiamiento no ministrados a más tardar el 15 de marzo del año siguiente del ejercicio, pasarán a formar parte del patrimonio del Consejo Electoral y será su órgano de dirección quien deberá aprobar el destino del mismo.
 
 ## TRANSITORIOS
 
@@ -177,3 +179,15 @@ P.O. 14 DE MARZO DE 1998.
 P.O. 30 DE ENERO DE 1999.
 
 > <small>[N. DE E. EL ACUERDO PUBLICADO EN EL PERÍODICO OFICIAL DE FECHA 30 DE ENERO DE 1999, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2003.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO.- Se modifica el artículo 20 del REGLAMENTO PARA EL FINANCIAMIENTO POR CONCEPTO DE ACTIVIDADES ESPECIFICAS QUE REALICEN LOS PARTIDOS POLITICOS REGISTRADOS ANTE EL CONSEJO ELECTORAL DEL ESTADO, COMO ENTIDADES DE INTERES PUBLICO Y FORMAS DE ORGANIZACIÓN POLÍTICA, para quedar en términos del considerando VI del presente acuerdo.
+
+SEGUNDO.- Las modificaciones señaladas en el presente acuerdo entrarán en vigor a partir del día siguiente al de su aprobación.
+
+TERCERO.- Notifíquese a los partidos políticos acreditados o registrados ante el Consejo Electoral del Estado de Jalisco.
+
+CUARTO.- Publíquese en el Periódico Oficial El Estado de Jalisco.
