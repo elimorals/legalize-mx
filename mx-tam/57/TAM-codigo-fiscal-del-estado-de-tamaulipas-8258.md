@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8258"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "1981-12-30"
+last_updated: "1983-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 1981.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 1983.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de Diciembre de 1976.
 
@@ -501,7 +501,7 @@ VIII.- Cuando se omita una prestación fiscal que corresponda a los actos o cont
 
 IX.- Cuando la liquidación de alguna prestación fiscal esté encomendada a funcionarios o empleados del Estado o de los Municipios, éstos serán responsables de las infracciones que se cometan y se les aplicarán las sanciones que correspondan, quedando únicamente obligados los causantes a pagar la prestación omitida excepto en los casos en que este Código o alguna Ley fiscal disponga que no se podrá exigir al causante dicho pago;
 
-X.- La Tesorería General se abstendrá de imponer sanciones, cuando se enteren en forma espontánea los impuestos o derechos no cubiertos dentro de los plazos señalados por las disposicionesfiscales (sic). No se considerará que el entero es espontáneo cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquiera otra gestión efectuada por las mismas; y
+X.- (DEROGADA, P.O. 1 DE ENERO DE 1983) (F. DE E., P.O. 5 DE FEBRERO DE 1983)
 
 XI.- La Tesorería General dejará de imponer sanciones cuando se haya incurrido en infracción por hechos ajenos a la voluntad del infractor, circunstancia que éste deberá probar a satisfacción de la mencionada Tesorería.
 
@@ -2295,7 +2295,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veinticuatro días del mes de diciembre de mil novecientos setenta y seis.- ENRIQUE CARDENAS GONZALEZ.- Secretario General de Gobierno, Lic. Homero Pérez Alvarez.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 P.O. 9 DE DICIEMBRE DE 1978.
 
@@ -2314,3 +2314,7 @@ PRIMERO.- Las obligaciones derivadas de los artículos que se reforman o derogan
 SEGUNDO.- Tratándose de los contratos de promesa a que se refiere el Artículo 98, fracción III, de la Ley de Hacienda, celebrados con anterioridad al 1o. de enero de 1982, causarán el impuesto establecido en el Capítulo II, Título I, del citado ordenamiento, al celebrarse el contrato prometido.
 
 TERCERO.-El presente decreto surtirá sus efectos a partir del 1º. de enero de 1982.
+
+P.O. 1 DE ENERO DE 1983.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
