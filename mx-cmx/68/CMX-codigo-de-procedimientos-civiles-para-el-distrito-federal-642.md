@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1975-12-30"
+last_updated: "1983-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1983.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -422,15 +422,17 @@ Las actuaciones judiciales se practicarán en días y horas hábiles. Son días 
 
 Se entienden horas hábiles las que median desde las siete hasta las diecinueve horas. En los juicios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos posesorios, diferencias domésticas y los demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ARTICULO 65
 
-Las copias simples de los documentos que se presenten, confrontadas y autorizadas por el secretario, correrán en los autos, quedando los originales en el tribunal, donde podrá verlos la parte contraria, si lo pidiere.
+El escrito por el cual se inicie un procedimiento deberá ser presentado en la oficialía de partes común a los juzgados de la rama de que se trate, para ser turnado al juzgado que corresponda; los interesados pueden presentar una copia simple del escrito citado, a fin de que dicha oficialía de partes se los devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba. Los escritos subsecuentes se presentarán ante el Juez que conozca del procedimiento, durante las horas de labores del juzgado correspondiente, pudiendo los interesados exhibir una copia de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el Tribunal. Los escritos subsecuentes que se presenten fuera de las horas de labores del juzgado del conocimiento, pero dentro de las horas hábiles, deberán presentarse anta la oficialía de partes común de los juzgados de la rama que corresponda al Juez del conocimiento. Las copias simples de los documentos que se presenten, confrontadas y autorizadas por el Secretario, correrán en los autos, quedando los originales en el tribunal, donde podrá verlos la parte contraria, si lo pidiere.
 
-Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el tribunal.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ARTICULO 66
 
-El secretario hará constar el día y la hora en que se presente un escrito y dará cuenta con él, a más tardar, dentro de veinticuatro horas; bajo la pena de diez pesos de multa, sin perjuicio de las demás que merezca conforme a las leyes.
+El Secretario dará cuenta con los escritos presentados, a más tardar dentro de las veinticuatro horas de su presentación, bajo la pena de cubrir por concepto de multa, el importe de un día del salario que perciba sin perjuicio de las demás que merezca conforme a las leyes.
 
 ARTICULO 67
 
@@ -872,9 +874,11 @@ ARTICULO 135
 
 Los términos que por disposición expresa de la Ley, o por la naturaleza del caso no son individuales, se tienen por comunes para las partes.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ARTICULO 136
 
-Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales contadas de las veinticuatro a las veinticuatro.
+Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, sin perjuicio de que las actuaciones judiciales se sujeten al horario que establece el artículo 64.
 
 ARTICULO 137
 
@@ -1020,15 +1024,19 @@ ARTICULO 151
 
 Es juez competente aquel al que los litigantes se hubieren sometido expresa o tácitamente, cuando se trate de fuero renunciable.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ARTICULO 152
 
-Hay sumisión expresa cuando los interesados renuncian clara y terminantemente el fuero que la ley les concede y designan con toda precisión el juez a quien se someten.
+Hay sumisión expresa cuando los interesados renuncian clara y terminantemente el fuero que la ley les concede, y se sujetan a la competencia del juez en turno del ramo correspondiente.
 
 ARTICULO 153
 
 Se entienden sometidos tácitamente:
 
-I.- El demandante, por el hecho de ocurrir al juez entablando su demanda;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+I.- El demandante, por el hecho de ocurrir al juez en turno, entablando su demanda;
 
 II.- El demandado, por contestar la demanda o por reconvenir al actor;
 
@@ -1064,7 +1072,9 @@ Los tribunales declarados competentes harán que las cosas se restituyan al esta
 
 ARTICULO 156
 
-Es juez competente:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+Es Juez competente:
 
 I.- El del lugar que el deudor haya designado para ser requerido judicialmente de pago;
 
@@ -1074,9 +1084,11 @@ II.- El del lugar señalado en el contrato para el cumplimiento de la obligació
 
 III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles.
 
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 IV.- El del domicilio del demandado, si se trata del ejercicio de una acción sobre bienes muebles, o de acciones personales o del estado civil.
 
-Cuando sean varios los demandados y tuvieren diversos domicilios será competente el juez del domicilio que escoja el actor.
+Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el juez que se encuentre en turno del domicilio que escoja el actor;
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
 
@@ -1088,7 +1100,7 @@ a).- De las acciones de petición de herencia;
 
 b).- De las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
-c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria.
+c).- De las acciones de nulidad, rescisión y evicción de la partición hereditaria;
 
 VII.- En los concursos de acreedores el juez del domicilio del deudor;
 
@@ -1244,11 +1256,11 @@ Cuando un juez o magistrado se excuse sin causa legítima, cualquiera de las par
 
 ### CAPITULO II. De la recusación
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ARTICULO 172
 
-Cuando los Magistrados, Jueces o Secretarios no se inhibieren a pesar de existir alguno de los impedimentos expresados, procede la recusación, que siempre se fundará en causa legal. Unicamente procederá la recusación sin causa contra los Jueces, cuando la interponga el demandado precisamente al contestar la demanda.
+Cuando los Magistrados, Jueces o Secretarios no se inhibieren a pesar de existir alguno de los impedimentos expresados, procede la recusación, que siempre se fundará en causa legal.
 
 ARTICULO 173
 
@@ -1290,11 +1302,11 @@ ARTICULO 178
 
 En los procedimientos de apremio y en el juicio que empieza por ejecución no se dará curso a ninguna recusación, sino practicado el aseguramiento, hecho el embargo o desembargo, en su caso, o expedida y fijada la cédula hipotecaria. Tampoco se admitirá la recusación, empezada la audiencia de pruebas y alegatos.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ARTICULO 179
 
-Las recusaciones con causa pueden interponerse durante el juicio desde el escrito de la contestación de la demanda hasta diez días antes de dar principio a la audiencia de ley, a menos que, comenzada la audiencia o hecha la citación, hubiere cambiado el personal del juzgado.
+Las recusaciones pueden interponerse durante el juicio desde el escrito de la contestación de la demanda hasta diez días antes de dar principio a la audiencia de ley, a menos que, comenzada la audiencia, o hecha la citación, hubiere cambiado el personal del juzgado.
 
 ### CAPITULO V. De los efectos de la recusación
 
@@ -1340,11 +1352,11 @@ ARTICULO 188
 
 Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ARTICULO 189
 
-Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta de dos mil pesos si fuere un Juez de lo Civil o de lo Familiar; y hasta de tres mil si fuere un Magistrado. No se dará curso a ninguna recusación si al interponerla, el recusante no exhibe billete de depósito o en efectivo por el máximo de la multa, la que en su caso se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario, al fisco.
+Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta de 15 días de salario mínimo general diario vigente en el Distrito Federal, si fuere un Juez de lo Civil o de lo Familiar; y hasta de 30 días de salario mínimo general diario vigente en el Distrito Federal, si fuere un Magistrado. No se dará curso a ninguna recusación si al interponerla, el recusante no exhibe billete de depósito o caución en efectivo por el máximo de la multa.
 
 ARTICULO 190
 
@@ -1504,11 +1516,11 @@ ARTICULO 212
 
 En la misma resolución ordenará la notificación al otro cónyuge, previniéndole que se abstenga de impedir la separación o causar molestias a su cónyuge, bajo apercibimiento de procederse en su contra en los términos a que hubiere lugar.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ARTICULO 213
 
-El juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el artículo 165 del Código Civil y las propuestas, si las hubiere, de los cónyuges.
+El juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el artículo 165 del Código Civil, las propuestas de los cónyuges, si las hubiere y lo dispuesto por la fracción VI del artículo 282 del mismo Código Civil.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1848,11 +1860,11 @@ ARTICULO 273
 
 Las excepciones supervenientes se harán valer hasta antes de la sentencia y dentro del tercer día de que tenga conocimiento la parte. Se substanciarán incidentalmente; su resolución se reserva para la definitiva.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ARTICULO 274
 
-Confesada (sic) la demanda en todas sus partes o manifestando el actor su conformidad con la contestación de ella, se citará para sentencia.
+Confesada la demanda en todas sus partes o manifestando el actor su conformidad con la contestación de ella, se citará para sentencia, previa ratificación del escrito correspondiente ante el Juez de los Autos, si se trata de juicio de divorcio, sin perjuicio de lo previsto en la parte final del artículo 271.
 
 ARTICULO 275
 
@@ -2702,9 +2714,11 @@ ARTICULO 405
 
 La reclamación de nulidad de la confesión por error o violencia, se tramitará incidentalmente y se decidirá en la definitiva.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ARTICULO 406
 
-La confesión hecha en la demanda, en la contestación o en cualquier otro acto del juicio, hará prueba plena sin necesidad de ratificación ni ser afrecida (sic) como prueba.
+La confesión hecha en la demanda, en la contestación o en cualquier otro acto del juicio hará prueba plena sin necesidad de ratificación ni de ser ofrecida como prueba, salvo lo dispuesto por el artículo 274 para los juicios de divorcio.
 
 ARTICULO 407
 
@@ -4004,7 +4018,7 @@ ARTICULO 651
 
 Se admitirá la apelación extraordinaria que contra la sentencia interpusiere el litigante rebelde conforme al capítulo segundo título décimotercero.
 
-## TITULO OCTAVO. Del juicio arbitral
+## TÍTULO OCTAVO. Del juicio arbitral
 
 Reglas generales
 
@@ -4144,9 +4158,11 @@ Para la ejecución de autos y decretos, se acudirá también al juez de primera 
 
 Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al Tribunal Superior, sujetándose en todos sus procedimientos a lo dispuesto para los juicios comunes.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ARTICULO 633
 
-Es competente para todos los actos relativos al juicio arbitral en lo que se refiere a jurisdicción que no tenga el árbitro, y para la ejecución de la sentencia y admisión de recursos, el juez designado en el compromiso; a falta de éste, el del lugar del tribunal de arbitraje y si hubiere varios jueces, el de número más bajo.
+Es competente para todos los actos relativos al juicio arbitral en lo que se refiere a jurisdicción que no tenga el árbitro; y para la ejecución de la sentencia y admisión de recursos, el Juez designado en el compromiso, a falta de este el que esté en turno.
 
 ARTICULO 634
 
@@ -4276,11 +4292,11 @@ ARTICULO 672
 
 Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los procedimientos del juicio principal continuarán hasta vender y hacer pago al acreedor con los bienes no comprendidos en la misma tercería.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ARTICULO 673
 
-Si la tercería, cualquiera que sea, se interpone ante un Juez de Paz y el interés de ella excede del que la Ley somete a su jurisdicción, aquel ante quien se interponga, remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda y decidirá la tercería, sujetándose en la sustanciación a lo prevenido en los artículos anteriores.
+Si la tercería, cualquiera que sea se interpone ante un Juez de Paz y el interés de ella excede del que la ley somete a su jurisdicción, aquel ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez competente en turno para conocer del negocio que representa mayor interés. El juez correspondiente correrá traslado de la demanda y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
 
 TITULO DECIMOPRIMERO
 
@@ -4538,9 +4554,7 @@ Las apelaciones de interlocutorias o autos se substanciarán con sólo un escrit
 
 En estas apelaciones los términos a que se refiere el artículo 704 se reducirán a tres días.
 
-ARTICULO 716
-
-La revisión de las sentencias recaídas en los juicios sobre ratificación de actas del estado civil y sobre nulidad de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entre tanto sin ejecutarse ésta.
+ARTICULO 716 (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
 
 ### CAPITULO II. De la apelación extraordinaria
 
@@ -4566,9 +4580,7 @@ El Juez podrá desechar la apelación cuando resulte de autos que el recurso fue
 
 Declarada la nulidad, se volverán los autos al inferior para que reponga el procedimiento en su caso.
 
-ARTICULO 719
-
-Este mismo recurso se da de las sentencias pronunciadas por los jueces de paz y será tribunal de apelación el juez de primera instancia que corresponda o siendo varios el que elija el recurrente y en su silencio el de número inferior.
+ARTICULO 719 (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
 
 ARTICULO 720
 
@@ -6012,13 +6024,15 @@ ARTICULO 940
 
 Todos los problemas inherentes a la familia se consideran de orden público, por constituir aquella la base de la integración de la sociedad.
 
-> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ARTICULO 941
 
-El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores y de alimentos, decretando las medidas que tienda (sic) a preservarla y a proteger a sus miembros.
+El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
 
-En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
+En todos los asuntos del orden familiar los Jueces y Tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de derecho.
+
+En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
 
 > <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -6094,11 +6108,11 @@ Los autos que no fueren apelables y los decretos, pueden ser revocados por el ju
 
 Son procedentes en materia de recursos, igualmente los demás previstos en este Código y su tramitación se sujetará a las disposiciones generales del mismo y además de los casos ya determinados expresamente en esta Ley, para lo no previsto al respecto, se sujetará a las disposiciones generales correspondientes.
 
-> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ARTICULO 953
 
-La recusación con causa o sin ella, no podrá impedir que el Juez adopte las medidas provisionales sobre depósito de personas, alimentos y menores.
+La recusación no podrá impedir que el Juez adopte las medidas provisionales sobre el depósito de personas, alimentos y menores.
 
 > <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -6130,41 +6144,31 @@ ARTICULO 1
 
 En el Distrito Federal habrá los juzgados de paz que determine la Ley Orgánica de los Tribunales de Justicia del Fuero Común.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
 ARTICULO 2
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+Conocerán los Jueces de Paz, en materia civil, de los juicios cuya cuantía no exceda de 182 veces el salario mínimo diario general vigente en el Distrito Federal. Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aun cuando se reclamen en ella. Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las prestaciones de un año, a no ser que se trate de prestaciones vencidas, en cuyo caso se estará a su monto total.
 
-Conocerán los Jueces de Paz, en materia civil o mercantil de los juicios cuya cuantía no exceda de cinco mil pesos.
-
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
-
-Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aun cuando se reclamen en ella.
-
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
-
-Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las prestaciones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ARTICULO 3
 
-Si se dudare del valor de la cosa demandada o del interés del pleito antes de expedirse la cita para el demandado, el juez oirá el dictamen de un perito que él mismo nombra a costa del actor.
+Si se durare (sic) del valor de la cosa demandada o del interés del pleito, antes de expedirse la cita para el demandado, el juez oirá el dictamen de un perito que él mismo nombrará a costa del actor.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+Aun cuando ésto se hubiere hecho, el demandado, en el acto del juicio, podrá pedir que se declare que el negocio no es de la jurisdicción de paz, por exceder su cuantía del monto a que se refiere el artículo inmediato anterior.
 
-Aún cuando esto se hubiere hecho, el demandado, en el acto del juicio, podrá pedir que se declare que el negocio no es de la jurisdicción de paz, por exceder de cinco mil pesos su cuantía y, en tal caso, el juez oirá lo que ambas partes expongan y la opinión de los peritos que presenten, resolviendo en seguida. Si declarare ser competente, se continuará la audiencia como lo establecen los artículos 20 al 23.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ARTICULO 4
 
-Cuando el juez, en cualquier estado del negocio, encuentre que éste no es de su competencia por exceder de los límites que se fija en el artículo primero o en razón de corresponder a juez de diversa jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al juez correspondiente.
+Cuando el juez, en cualquier estado del negocio, encuentre que éste no es de su competencia por exceder de los límites que se fijan en el artículo 2o., o en razón de corresponder a juez de diversa jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al juez competente.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ARTICULO 5
 
-Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de su jurisdicción, cuando se trate de arrendamiento o de acciones reales sobre bienes inmuebles. Conocerán también de aquéllos en que el demandado pueda ser citado en algún lugar que se encuentre comprendido dentro del perímetro de la Delegación.
-
-En caso de duda será competente, por razón del territorio, el Juez de Paz que ha prevenido, y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; por el hecho de haber conocido indebidamente de casos correspondiente (sic) a otras Delegaciones, será motivo de corrección disciplinaria que impondrá el Presidente del Tribunal Superior de Justicia, mediante queja del agraviado.
-
-Cuando en una Delegación Política existan dos o más juzgados, éstos tendrán jurisdicción territorial en toda la delegación.
+Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de su jurisdicción, cuando se trate de arrendamiento o de acciones reales sobre bienes inmuebles. Conocerán también de aquellos en que el demandado pueda ser citado en algún lugar que se encuentre comprendido dentro del perímetro de su jurisdicción. En caso de duda será competente, por razón del territorio, el Juez de Paz que ha prevenido, y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; por el hecho de haber conocido indebidamente de casos correspondientes a otras jurisdicciones, será motivo de corrección disciplinaria que impondrá el Presidente del Tribunal Superior de Justicia, mediante queja del agraviado.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -6180,7 +6184,7 @@ Emplazamiento y citaciones
 
 ARTICULO 7
 
-A petición del actor se citará al demandado para que comparezca dentro del tercero día. En la cita que en presencia del actor será expedida y entregada a la persona que deba llevarla se expresará por lo menos el nombre del actor, lo que demande, la causa de la demanda, la hora que se señale para el juicio y la advertencia de que las pruebas se presentarán en la misma audiencia.
+A petición del actor se citará al demandado para que comparezca dentro del tercero día. En la cita que en presencia del actor será expedida y entregada a la persona que deba de llevarla se expresará por lo menos el nombre del actor, lo que demande, la causa de la demanda, la hora que se señale para el juicio y la advertencia de que las pruebas se presentarán en la misma audiencia.
 
 Debe llevarse en los juzgados de paz un libro de registro en que se asentarán por días y meses los nombres de actores y demandados y el objeto de las demandas.
 
@@ -6647,3 +6651,27 @@ Los asuntos de cuantía inferior a cinco mil pesos, que se presenten en los juzg
 ###### ARTICULO SEPTIMO.
 
 El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 27 DE DICIEMBRE DE 1983.
+
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL; DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL; DE LA LEY ORGANICA DE LOS TRIBUNALES DE JUSTICIA DEL FUERO COMUN DEL DISTRITO FEDERAL; Y DEL CODIGO DE COMERCIO.
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigor el día 1o. de octubre de 1984.
+
+###### ARTICULO SEGUNDO.
+
+La tramitación de los juicios iniciados antes de la fecha prevista para la entrada en vigor de este Decreto se regirá por las disposiciones que se modifican o derogan mediante dicho ordenamiento.
+
+D.O.F. 27 DE DICIEMBRE DE 1983.
+
+DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES CONTENIDAS EN EL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL, Y EN EL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
+
+###### ARTICULO PRIMERO.
+
+El presente Ordenamiento entrará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+La tramitación de los juicios iniciados antes de la fecha prevista para la entrada en vigor de este Decreto se regirá por las disposiciones que se modifican o derogan mediante dicho Ordenamiento.
