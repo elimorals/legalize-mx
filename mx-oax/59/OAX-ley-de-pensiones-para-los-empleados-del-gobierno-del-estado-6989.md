@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-empleados-del-gobierno-del-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "1958-06-07"
-last_updated: "1963-08-17"
+last_updated: "1968-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1968.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 7 de junio de 1958.
 
@@ -153,7 +153,7 @@ El hecho de contribuir al Fondo de Pensiones no da derecho alguno de propiedad a
 
 ###### ARTICULO 18.
 
-Los cajeros pagadores y tesoreros encargados de cubrir sueldos a los trabajadores, quedan obligados a efectuar los descuentos que la Oficina de Pensiones les ordene. La falta de cumplimiento a estas órdenes, así como el de no remitir al día siguiente a la propia Oficina de Pensiones los descuentos que hayan hecho por cuenta de ella, se considerarán como faltas graves y darán motivo a imposición de sanciones reglamentarias, y aun del cese de los infractores, sin perjuicio de consignarlos a las Autoridades competentes si el caso así lo requiere.
+Los cajeros pagadores y tesoreros encargados de cubrir sueldos a los trabajadores, quedan obligados a efectuar los descuentos que la Oficina de Pensiones les ordene. La falta de cumplimiento a estas órdenes, así como el de no remitir al día siguiente a la propia Oficina de Pensiones los descuentos que hayan hecho por cuenta de élla, se considerarán como faltas graves y darán motivo a imposición de sanciones reglamentarias, y aun del cese de los infractores, sin perjuicio de consignarlos a las Autoridades competentes si el caso así lo requiere.
 
 ###### ARTICULO 19.
 
@@ -285,7 +285,7 @@ Cuando se designe a la concubina y siempre que no haya esposa, no podrá excluir
 
 Las designaciones a que este artículo se refiere, podrán en todo tiempo ser substituidas por otras a voluntad del trabajador pensionista, dentro de las limitaciones establecidas por esta Ley.
 
-Para el otorgamiento de pensiones a los deudos del trabajador o pensionista, se tendrán en cuenta las designaciones hechas por éste, y a falta de ellas, se seguirá el orden establecido en el artículo 51 de esta Ley.
+Para el otorgamiento de pensiones a los deudos del trabajador o pensionista, se tendrán en cuenta las designaciones hechas por éste, y a falta de éllas, se seguirá el orden establecido en el artículo 51 de esta Ley.
 
 ###### ARTICULO 40.
 
@@ -359,7 +359,7 @@ I.- El cónyuge supérstite, los hijos, o ambos, si concurren uno y otros, por p
 
 II.- A falta de cónyuge supérstite, los hijos. Para los efectos de esta Ley, tendrán el mismo derecho los hijos sean o no de matrimonio o adoptivos, siempre que comprueben legalmente su parentesco.
 
-La concubina, siempre que no exista esposa, tendrá los derechos reservados a ella, si concurren las circunstancias siguientes:
+La concubina, siempre que no exista esposa, tendrá los derechos reservados a élla, si concurren las circunstancias siguientes:
 
 a).- Que tanto el trabajador como la concubina hayan permanecido libres del matrimonio durante el concubinato.
 
@@ -407,39 +407,39 @@ DEL MONTO DE LAS PENSIONES.
 
 El monto de las pensiones se fijará como sigue:
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1963)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 1968)</small>
 
-I.- Para el trabajador comprendido en la fracción I del artículo 35, el tanto por ciento del sueldo actual que corresponda según los años de servicio, conforme a la tabla siguiente:
+I.- Para el trabajador comprendido en la fracción I del artículo 35, el tanto por ciento del sueldo que corresponda según los años de servicios, conforme a la tabla siguiente:
 
-15 años de servicios 40%
+15 años de servicios 50%
 
-16 " " " 42.5%
+16 " " " 53%
 
-17 " " " 45%
+17 " " " 56%
 
-18 " " " 47.5%
+18 " " " 60%
 
-19 " " " 50%
+19 " " " 63%
 
-20 " " " 52.5%
+20 " " " 66%
 
-21 " " " 55%
+21 " " " 70%
 
-22 " " " 60%
+22 " " " 73%
 
-23 " " " 65%
+23 " " " 76%
 
-24 " " " 70%
+24 " " " 80%
 
-25 " " " 75%
+25 " " " 83%
 
-26 " " " 80%
+26 " " " 86%
 
-27 " " " 85%
+27 " " " 90%
 
-28 " " " 90%
+28 " " " 93%
 
-29 " " " 95%
+29 " " " 96%
 
 30 " " " 100%
 
@@ -479,7 +479,7 @@ Si a la muerte del trabajador o del que haya pasado a ser pensionista, fueren va
 
 ###### ARTICULO 61.
 
-Si varias personas disfrutaren de una pensión y falleciere alguna de ellas o perdiere sus derechos, se reducirá su importe en la proporción correspondiente, quedando esa diferencia a favor del Fondo de Pensiones.
+Si varias personas disfrutaren de una pensión y falleciere alguna de éllas o perdiere sus derechos, se reducirá su importe en la proporción correspondiente, quedando esa diferencia a favor del Fondo de Pensiones.
 
 ### CAPITULO IX.
 
@@ -928,3 +928,7 @@ Las anteriores formas entrarán en vigor a partir de la promulgación de este De
 ###### ARTICULO SEGUNDO.
 
 Las pensiones otorgadas hasta la fecha serán revisables para ajustarlas a las disposiciones que por este decreto se modifican, únicamente en el caso de que puedan resultar beneficiados los pensionistas.
+
+P.O. 6 DE JULIO DE 1968.
+
+Único.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
