@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1949-02-16"
+last_updated: "1950-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE FEBRERO DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1950.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -101,7 +101,7 @@ No se considerarán instituciones de seguros sujetas a la presente ley, las asoc
 
 ###### ARTICULO 5°.
 
-Las compañías extranjeras de seguros podrán tener en la República sucursales para efectuar alguna o algunas de las operaciones de seguros enumeradas en la fracción II del artículo 1° de esta Ley, siempre que reúnan los siguientes requisitos:
+Las compañías extranjeras de seguros podrán tener en la República sucursales para efectuar alguna o algunas de las operaciones de seguros enumeradas en la fracción II del artículo 1°. de esta Ley, siempre que reúnan los siguientes requisitos:
 
 I.- Cumplir con los preceptos sobre sociedades extranjeras contenidos en la Ley General de Sociedades Mercantiles;
 
@@ -361,7 +361,7 @@ Los poderes que las instituciones de seguros otorguen, no requerirán otras inse
 
 ###### ARTICULO 20.
 
-El capital mínimo con que deberán contar las sociedades anónimas que se organicen, para operar como instituciones de seguros, será de quinientos mil pesos para cada uno de los ramos a que se refieren los incisos “a”, “b”, “c”, “d”, “e” y “h”, de la fracción II del artículo 1° y de trescientos mil pesos para cada uno de los ramos a que se refieren los incisos “f”, “g” e “i”, de la propia fracción. Cuando una misma institución se proponga practicar varias de las operaciones a que se refiere dicha fracción, deberá tener un capital, por lo menos, igual a la suma de los capitales mínimos requeridos para cada uno de los ramos en que desee operar.
+El capital mínimo con que deberán contar las sociedades anónimas que se organicen, para operar como instituciones de seguros, será de quinientos mil pesos para cada uno de los ramos a que se refieren los incisos “a”, “b”, “c”, “d”, “e” y “h”, de la fracción II del artículo 1°. y de trescientos mil pesos para cada uno de los ramos a que se refieren los incisos “f”, “g” e “i”, de la propia fracción. Cuando una misma institución se proponga practicar varias de las operaciones a que se refiere dicha fracción, deberá tener un capital, por lo menos, igual a la suma de los capitales mínimos requeridos para cada uno de los ramos en que desee operar.
 
 > <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1935)</small>
 
@@ -371,7 +371,7 @@ Las responsabilidades que contraiga cualquier institución de seguros, sin rease
 
 ###### ARTICULO 21.
 
-El capital de las sucursales de instituciones extranjeras a que se refiere el artículo 5° deberá ser, por lo menos, de quinientos mil pesos para cada uno de los ramos del seguro a que se refiere la fracción II del artículo 1°. Lo dispuesto en el artículo 32, regirá respecto del capital de las sucursales de empresas extranjeras, en la inteligencia de que dichas sucursales mantendrán siempre en disponibilidad, dentro de la República, en los términos que esta ley establece, todos los bienes, títulos, créditos o valores que constituyan la inversión de su capital, de las reservas técnicas y de previsión y de su fondo legal de reserva.
+El capital de las sucursales de instituciones extranjeras a que se refiere el artículo 5°. deberá ser, por lo menos, de quinientos mil pesos para cada uno de los ramos del seguro a que se refiere la fracción II del artículo 1°. Lo dispuesto en el artículo 32, regirá respecto del capital de las sucursales de empresas extranjeras, en la inteligencia de que dichas sucursales mantendrán siempre en disponibilidad, dentro de la República, en los términos que esta ley establece, todos los bienes, títulos, créditos o valores que constituyan la inversión de su capital, de las reservas técnicas y de previsión y de su fondo legal de reserva.
 
 ###### ARTICULO 22.
 
@@ -565,7 +565,7 @@ En el reaseguro o coaseguro entre instituciones autorizadas, se dará preferenci
 
 > <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
-Tratándose de los ramos a que se refieren los incisos “a”, “b”, “c”, “d”, “f” y “h”, de la fracción II del artículo 1° de esta ley, podrá practicarse el reaseguro sin limitación en el país o en el extranjero.
+Tratándose de los ramos a que se refieren los incisos “a”, “b”, “c”, “d”, “f” y “h”, de la fracción II del artículo 1°. de esta ley, podrá practicarse el reaseguro sin limitación en el país o en el extranjero.
 
 > <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1936)</small>
 
@@ -751,7 +751,7 @@ I.- La reserva media de primas correspondiente a las pólizas en vigor en el mom
 
 II.- La parte de las primas de tarifa no devengada a la fecha de la valuación para los seguros temporales renovables, dentro del período de cada año en vigor y en el ramo de vida.
 
-III.- El 45% de las primas correspondientes a las pólizas emitidas, menos devoluciones y cancelaciones, durante el año a cuyo final se hace el cálculo, para los seguros a que se refieren los incisos “b” a “i”, de la fracción II del artículo 1° de esta ley.
+III.- El 45% de las primas correspondientes a las pólizas emitidas, menos devoluciones y cancelaciones, durante el año a cuyo final se hace el cálculo, para los seguros a que se refieren los incisos “b” a “i”, de la fracción II del artículo 1°. de esta ley.
 
 ###### ARTICULO 66.
 
@@ -847,7 +847,7 @@ Las reservas para obligaciones pendientes deberán ser constituídas en efectivo
 
 ###### ARTICULO 76.
 
-La reserva de previsión para el ramo de seguros a que se refiere el inciso “a” de la fracción II del artículo 1° de esta ley, se constituirá con el 1% de las primas cobradas durante el año, deducción hecha de las cedidas por concepto de reaseguro. Si el 10% de la utilidades netas que arroje el estado de pérdidas y ganancias formulado de acuerdo con esta ley, es mayor que el importe de la suma a que se refiere el párrafo anterior, las instituciones aseguradoras deberán constituír como reserva de previsión, precisamente este 10% de las utilidades.
+La reserva de previsión para el ramo de seguros a que se refiere el inciso “a” de la fracción II del artículo 1°. de esta ley, se constituirá con el 1% de las primas cobradas durante el año, deducción hecha de las cedidas por concepto de reaseguro. Si el 10% de la utilidades netas que arroje el estado de pérdidas y ganancias formulado de acuerdo con esta ley, es mayor que el importe de la suma a que se refiere el párrafo anterior, las instituciones aseguradoras deberán constituír como reserva de previsión, precisamente este 10% de las utilidades.
 
 Para el cálculo de la reserva de previsión en los términos del párrafo anterior, las instituciones aseguradoras no deberán incluir como deducción en su Estado de Pérdidas y Ganancias el 1% de las primas cobradas.
 
@@ -954,6 +954,10 @@ X.- Inversiones correspondientes a las reservas por pólizas expedidas en paíse
 XI.- Primas netas pendientes de cobro que no tengan más de 30 días de vencidas en la fecha del balance o de la estimación, cuando se trate de instituciones que practiquen el ramo de la vida. No podrán considerarse como inversiones de las reservas los intereses vencidos y pendientes de cobro de bonos, préstamos o rentas de bienes raíces.
 
 Las inversiones de las reservas técnicas estarán afectas a las obligaciones contraídas por la institución por las pólizas emitidas, y no podrán disponer de ellas, total ni parcialmente, sino para cumplir las obligaciones contraídas y las que resulten por virtud de sentencia ejecutoriada de los Tribunales de la República, a favor de los asegurados o beneficiarios, de acuerdo con esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1950)</small>
+
+El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público podrá, mediante disposiciones de carácter general, modificar, reformar y variar los renglones, objetos y límites de inversión de las instituciones de seguros, así como señalar otros nuevos, para satisfacer necesidades de orden social o de interés público.
 
 > <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 1949)</small>
 
@@ -1157,7 +1161,7 @@ Cuando una institución de seguros no tenga invertido su capital y reservas, en 
 
 Las instituciones de seguros deberán rendir a la Secretaría de Hacienda y Crédito Público la siguiente información, autorizada por los funcionarios o apoderados de las mismas:
 
-I.- Durante el mes de enero de cada año, un informe sobre las operaciones practicadas del 1° de enero al 31 de diciembre del año inmediato anterior, que contendrá por lo menos:
+I.- Durante el mes de enero de cada año, un informe sobre las operaciones practicadas del 1°. de enero al 31 de diciembre del año inmediato anterior, que contendrá por lo menos:
 
 a).- Una hoja de trabajo;
 
@@ -1738,3 +1742,9 @@ Se concede un plazo de un año, contado a partir de la vigencia de esta Ley, par
 ###### ARTICULO SEGUNDO.
 
 Las presentes reformas y adiciones entrarán en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1950.
+
+###### ARTICULO UNICO.
+
+La presente adición entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
