@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-y-promocion-al-turismo-del-estado-de-23771"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-27"
-last_updated: "2002-02-27"
+last_updated: "2002-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO Y PROMOCION AL TURISMO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de febrero de 2002.
 
@@ -129,7 +129,9 @@ II. Las negociaciones que ofrezcan servicios de turismo receptivo o egresivo, ta
 
 III. Guías de turistas, de conformidad con la clasificación que se establezca en las disposiciones;
 
-IV. Los arrendadores de automóviles, embarcaciones de todo tipo y demás bienes muebles e inmuebles destinados a la realización de actividades turísticas;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+IV. Los arrendadores de automóviles, las empresas de transporte terrestre de pasajeros de servicio regular y el especializado en turismo, embarcaciones de todo tipo y demás bienes muebles e inmuebles destinados a la realización de actividades turísticas;
 
 V. Restaurantes, cafeterías, bares, discotecas con pistas de baile, centros nocturnos, casinos, palenques y establecimientos similares que presten servicios a turistas;
 
@@ -329,7 +331,15 @@ VIII. Un representante de la Asociación de Hoteles del Estado;
 
 IX. Tres representantes del Consejo Empresarial Turístico; y
 
-X. Un representante del sector obrero.
+X. Un representante del sector obrero;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
+
+XI. Un representante del sector de transporte de pasajeros de servicio regular y,
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
+
+XII. Un representante del sector de transporte especializado en turismo.
 
 Las resoluciones que tomen serán válidas cuando se voten por mayoría simple.
 
@@ -664,3 +674,9 @@ SECRETARIO DE DESARROLLO ECONÓMICO.
 MARCOS MANUEL SUÁREZ GERARD.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE MAYO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de publicación oficial del Gobierno del Estado.
