@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-tribunal-federal-de-justicia-fiscal-y-1776"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-12-15"
-last_updated: "1996-12-30"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1776&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-12-13"
 
 LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -65,9 +65,11 @@ Los magistrados del Tribunal Fiscal de la Federación únicamente podrán ser pr
 
 En los recesos de la Cámara de Senadores, los nombramientos que haga el Presidente de la República se someterán a la aprobación de la Comisión Permanente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### Artículo 4o.
 
-Para ser magistrado del Tribunal Fiscal de la Federación se requiere ser mexicano por nacimiento, mayor de 35 años, de notoria buena conducta, licenciado en derecho con título registrado expedido cuando menos 10 años antes de dicha fecha y con 7 años de práctica en materia fiscal.
+Para ser magistrado del Tribunal Fiscal de la Federación se requiere ser mexicano por nacimiento, que no se adquiera otra nacionalidad, estar en pleno goce y ejercicio de sus derechos civiles y políticos, ser mayor de 35 años, de notoria buena conducta, licenciado en derecho con título registrado expedido cuando menos 10 años antes de dicha fecha y con 7 años de práctica en materia fiscal.
 
 Es causa de retiro forzoso de un magistrado, padecer incapacidad física o mental para desempeñar el cargo y en el caso de los magistrados de las Salas Regionales, cumplir 70 años.
 
@@ -592,3 +594,7 @@ Artículo Décimo Séptimo.- En relación con las modificaciones a que se refier
 TRANSITORIO DE LA LEY QUE ESTABLECE Y MODIFICA DIVERSAS LEYES FISCALES
 
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
