@@ -4,7 +4,7 @@ identifier: "COA-reglamento-para-la-venta-y-consumo-de-cerveza-en-el-estado-4256
 country: "mx"
 rank: "reglamento"
 publication_date: "1956-02-29"
-last_updated: "1956-02-29"
+last_updated: "1956-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO PARA LA VENTA Y CONSUMO DE CERVEZA EN EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 1956.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el miércoles 29 de febrero de 1956.
 
@@ -39,61 +39,117 @@ Disposiciones Generales.
 
 Para los efectos de este Reglamento se considera cerveza la bebida fermentada elaborada con malta de cebada, lúpulo, levadura y agua, así como la bebida fermentada que se fabrique con infusiones de cualquier semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares, con adición de lúpulo o sucedáneos de éste, siempre que su graduación alcohólica no exceda de un 5 %, calculada por su peso.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE AGOSTO DE 1956)</small>
+
 ###### ARTICULO 2o.
 
-La venta de cerveza en envase cerrado o abierto, únicamente podrá hacerse en los lugares y establecimientos siguientes:
+La venta de cerveza en envase cerrado o abierto únicamente podrá hacerse en los lugares y establecimientos siguientes:
 
-l.- Puestos.
+I.- Puestos.
 
 II.- Centros públicos, que no sean planteles educativos, templos, cementerios, teatros, carpas, circos y cinematógrafos.
 
-III.- Misceláneas, estanquillos, tendajones y similares en que se vendan preferentemente artículos alimenticios o comestibles.
+III.- Miscelaneas, estanquillos, tendajones y similares en que se vendan preferentemente artículos alimenticios y comestibles.
 
 IV.- Tiendas de abarrotes.
 
 V.- a).- Baños con servicio de alberca,
 
-b).- Boliches.
+b).- Boliches,
 
-e).- Cabarets o cafés cantantes,
+c).- Cabarets o cafés cantantes,
 
-d).- Cafés.
+d).- Cafés,
 
-e).- Cantinas.
+f).- Casinos,
 
-f).- Casinos.
+g).- Clubes,
 
-g).- Clubes.
+h).- Hospederías cuyos alquileres sean por lapsos mayores de veinticuatro horas,
 
-h).- Hospederías cuyos alquileres sean por lapsos mayores de veinticuatro horas.
+i).- Fondas,
 
-i).- Fondas.
+j).- Loncherías,
 
-j).- Loncherías.
+k).- Ostionerías,
 
-k).- Ostionerías.
+l).- Restaurantes,
 
-l).- Restaurantes.
+m).- Rosticerías,
 
-m).- Rosticerías.
+n).- Salchichonerías,
 
-n).- Salchichonerías.
+ñ).- Salones de baile,
 
-ñ).- Salones de baile.
-
-o).- Taquerías.
+o).- Taquerías,
 
 p).- Torterías.
 
-VI.- Cervecerías o sean los expendios exclusivos de cerveza a que se refiere el Capítulo II de este Reglamento.
+VI.- Cervecerías o sean los expendios exclusivos de cerveza a que se se (sic) refiere el Capítulo II de este Reglamento.
 
 VII.- En los demás lugares o establecimientos que a solicitud escrita y fundada, autorice el Ejecutivo del Estado por conducto de la Tesorería General.
 
 Solamente en los casos a que se refieren las fracciones VI y VII de este artículo, se requerirá de la licencia que expida el Ejecutivo del Estado, por conducto de la Tesorería General.
 
-No se podrá vender cerveza en los establecimientos a que se refiere este artículo, sin previamente estar empadronados en las Recaudaciones de Renta del Estado.
+No se podrá vender cerveza en los establecimientos a que se refiere este artículo, sin previamente estar empadronados en las Recaudaciones de Rentas del Estado.
 
-Los Establecimientos a que se refieren las fracciones I, II, III, IV y V, podrán expender cerveza en botella cerrada o. abierta previo aviso a la Recaudación de Rentas de su Jurisdicción, debiendo pagar los derechos de verificación que correspondan, los cuales serán cubiertos en la misma fecha en que se presente el aviso.
+Los Establecimientos a que se refieren las fracciones I, II, III, IV y V, podrán expender cerveza en botella cerrada o abierta previo aviso a la Recaudación de Rentas de su Jurisdicción, debiendo pagar los derechos de verificación que correspondan, los cuales serán cubiertos en la misma fecha en que se presente el aviso.
+
+Los derechos de verificación a que se refiere el párrafo que antecede, sobre la venta y consumo de cerveza en el Estado de Coahuila, deberán cubrirse en las Recaudaciones de Rentas por los negocios que en seguida se mencionan:
+
+Puestos.- Centros Públicos que no sean planteles educativos, templos, cementerios, teatros, carpas, circos y cinematógrafos.- Misceláneas, estanquillos, tendajones y similares en que se vendan preferentemente artículos alimienticios (sic) o comestibles.- Tiendas de Abarrotes.- Baños con servicio de alberca.- Boliches.- Cabarets o Cafés Cantantes.- Cafés, Cantinas.- Casinos.- Clubes.- Hospederías.- Fondas, Loncherías.- Ostionerías.- Restaurantes.- Rosticerías, Salchichonerías.- Salones de baile.- Taquerías.- Torterias.
+
+T A R I F A :
+
+Para los Municipios de Acuña, Monclova, Piedras Negras, Sabinas, San Juan de Sabinas, Saltillo y Torreón.
+
+ANUAL
+
+Categoría "A" de $ 75.00 a $ 100.00
+
+Categoría "B" de " 50.00 a " 75.00
+
+Categoría "C" de " 25.00 a " 50.00
+
+En el resto de los Municipios del Estado.
+
+Categoría "A" de $ 50.00 a $ 75.00
+
+Categoría "B" de " 30.00 a " 50.00
+
+Categoría "C" de " 20.00 a " 40.00
+
+Estos derechos de verificación no eximen al causante del pago mensual del Impuesto sobre Ingresos Mercantiles.
+
+C E R V E C E R I A S .
+
+(Expendios exclusivos en la venta de cerveza).
+
+Los derechos de empadronamiento y expedición de licencia de funcionamiento se pagarán conforme a la siguiente:
+
+T A R I F A :
+
+Para los Municipios de Acuña, Monclova, Piedras Negras, Sabinas, San Juan de Sabinas, Saltillo y Torreón.
+
+ANUAL
+
+Categoría "A" de $ 150.00 a $ 300.00
+
+Categoría "B" de " 100.00 a " 200.00
+
+Categoría "C" de " 50.00 a " 100.00
+
+En el resto de los Municipios del Estado.
+
+Categoría "A" de $ 100.00 a $ 200.00
+
+Categoría "B" de " 60.00 a " 120.00
+
+Categoría "C" de " 40.00 a " 80.00
+
+Estos derechos de Empadronamiento y expedición de licencias de funcionamiento, no eximen al causante del pago mensual del Impuesto sobre Ingresos Mercantiles.
+
+DE LOS DERECHOS QUE SE COBREN POR LA VERIFICACION, EMPADRONAMIENTO Y EXPEDICION DE LICENCIAS DE FUNCIONAMIENTO, TENDRAN UNA PARTICIPACION LOS MUNICIPIOS DEL 20%.
 
 ###### ARTICULO 3o.
 
@@ -311,7 +367,7 @@ Los derechos de propiedad sobre las cervecerías podrán ser cedidos, Pero en ni
 
 ###### ARTICULO 29.
 
-El traspaso de cervecerías requerirá:
+EI traspaso de cervecerías requerirá:
 
 I.- Que el cedente dentro de los quince días siguientes a la fecha del traspaso, dé aviso a la Tesorería General por conducto de la Recaudación de Rentas de su Jurisdicción.
 
@@ -488,3 +544,9 @@ ROMAN CEPEDA FLORES
 EL SRIO. DEL EJVO. DEL EDO.
 
 LIC. NEFTALI DAVILA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE AGOSTO DE 1956.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE COAHUILA.
