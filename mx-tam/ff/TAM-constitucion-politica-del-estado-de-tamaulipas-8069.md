@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1942-01-28"
+last_updated: "1943-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 1943.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -725,11 +725,11 @@ Ninguna resolución del Congreso tendrá otro carácter que el de ley, decreto o
 
 ### CAPITULO I. Del Ejecutivo
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 1942)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1943)</small>
 
 ###### Art. 77.
 
-El Poder Ejecutivo se deposita en un funcionario que se denominará "GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS", siendo su elección directa cada cuatro años, el primer domingo de Noviembre en los términos que señale la Ley Electoral.
+El Poder Ejecutivo se deposita en un funcionario que se denominará "Gobernador Constitucional del Estado de Tamaulipas", siendo su elección directa cada seis años, el primer domingo de noviembre en los términos que señale la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
 
@@ -787,11 +787,11 @@ V.- Los Magistrados del Supremo Tribunal, Procurador General de Justicia, ni el 
 
 VI.- Los que estén sujetos a un proceso criminal por delito que merezca pena corporal, a contar de la fecha del auto de formal prisión.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1943)</small>
 
 ###### Art. 80.
 
-El día cinco de febrero inmediato a la elección entrará el C. Gobernador a ejercer sus funciones por cuatro años y nunca podrá volver a desempeñar este cargo ni por nueva elección ni con el carácter de provisional o interino.
+El día cinco de febrero inmediato a la elección entrará el C. Gobernador a ejercer sus funciones por seis años y nunca podrá volver a desempeñar ese cargo ni por nueva elección ni con el carácter de provisional o interino.
 
 ###### Art. 81.
 
@@ -1694,3 +1694,13 @@ P.O. 3 DE DICIEMBRE DE 1941.
 P.O. 28 DE ENERO DE 1942.
 
 Unico. Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MARZO DE 1943.
+
+###### Artículo 1º.
+
+Se abroga el Decreto 223 de fecha 13 de enero de 1942.
+
+###### Artículo 2º.
+
+Este Decreto principiará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
