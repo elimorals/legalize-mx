@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2000-03-30"
+last_updated: "2003-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO PENAL DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DICIEMBRE DE 2003.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -117,9 +117,11 @@ Delito continuado es aquél que se comete con pluralidad de conductas procedente
 
 ### CAPÍTULO III. DELITOS GRAVES
 
+> <small>(REFORMADO, P.O. 1 DICIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 13.
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el artículo 211; incesto, previsto por el artículo 227; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; comercio ilícito de bebidas alcohólicas en su modalidad de venta o distribución, previsto por el artículo 245, primer párrafo; violación, previsto por los artículos 313, 315 y 316; usura, previsto por el artículo 328; robo, previsto por el artículo 330, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; robo calificado previsto en el artículo 335 fracciones II, III, IV, VIII, IX y XI, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333, y fracciones I, VI, VII, X, XII y XIII del mismo artículo independientemente del monto de lo robado; robo con violencia previsto en el artículo 336; robo de ganado mayor previsto por el artículo 339; robo de ganado menor previsto en el artículo 340 cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; daño en propiedad ajena doloso, previsto por el artículo 350 cuando el importe de lo dañado sea el establecido en la fracción IV del artículo 333; lesiones, previsto por los artículos 360, 361, 362 y 363; homicidio doloso, previsto por el artículo 368 en relación con el 372, 378 y 384; y homicidio en razón del parentesco o relación, previsto por el artículo 394.
+Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el artículo 211; incesto, previsto por el artículo 227; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; comercio ilícito de bebidas alcohólicas en su modalidad de venta o distribución, previsto por el artículo 245, primer párrafo; tortura, previsto en la Ley para Prevenir y Sancionar la Tortura; violación, previsto por los artículos 313, 315 y 316; usura, previsto por el artículo 328; robo, previsto por el artículo 330, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; robo calificado previsto en el artículo 335 fracciones II, III, IV, VIII, IX y XI, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333, y fracciones I, VI, VII, X, XII y XIII del mismo artículo independientemente del monto de lo robado; robo con violencia previsto en el artículo 336; robo de ganado mayor previsto por el artículo 339; robo de ganado menor previsto en el artículo 340 cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; daño en propiedad ajena doloso, previsto por el artículo 350 cuando el importe de lo dañado sea el establecido en la fracción IV del artículo 333; lesiones, previsto por los artículos 360, 361, 362 y 363; homicidio doloso, previsto por el artículo 368 en relación con el 372, 378 y 384; y homicidio en razón del parentesco o relación, previsto por el artículo 394.
 
 Quienes cometan algún delito grave de los señalados en el párrafo anterior, no tendrán derecho a la libertad provisional bajo caución, a que hace referencia el Código de Procedimientos en Materia Penal.
 
@@ -135,7 +137,7 @@ Son autores o partícipes del delito:
 
 I. Los que intervienen en su concepción, preparación o ejecución;
 
-II Los que instigan o compelen a su ejecución;
+II. Los que instigan o compelen a su ejecución;
 
 III. Los que dolosamente hagan tomar una resolución a otro para cometerlo;
 
@@ -2555,7 +2557,7 @@ Además de la sanción de prisión, al culpable se le privará de los derechos d
 
 III. Por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancias que ellos le proporcionen. Además de la sanción de prisión el condenado será destituido del cargo o empleo público o suspendido por el término de cinco años en el ejercicio de dicha profesión, y
 
-IV. Por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en ella depositada.
+IV .Por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en ella depositada.
 
 TÍTULO DECIMONOVENO
 
@@ -3304,3 +3306,9 @@ C. VÍCTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CODIGO.</small>
+
+P.O. 1 DICIEMBRE DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
