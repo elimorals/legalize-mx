@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-tribunal-de-lo-contencioso-administrativo-del-7704"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "1988-10-27"
+last_updated: "1991-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 08 DE AGOSTO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado "La Sombra de Arteaga" el 26 de diciembre de 1985
 
@@ -31,7 +31,7 @@ LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERETARO
 
 LIC. MARIANO PALACIOS ALCOCER, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
-LA CUADRAGÉSIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL ...ha tenido a bien expedir la siguiente:
+LA CUADRAGÉSIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL... ha tenido a bien expedir la siguiente:
 
 LEY DEL TRIBUNAL DE LO CONTENCIOSO
 
@@ -55,7 +55,9 @@ El Tribunal de lo Contencioso Administrativo residirá en la Ciudad Capital del 
 
 El Magistrado Propietario y los Supernumerarios serán nombrados por la Legislatura del Estado o la Diputación Permanente, en su caso.
 
-Los Magistrados propietarios y Supernumerarios durarán en sus funciones tres años, en los mismos término para que los magistrados del Tribunal Superior de Justicia señala el Artículo 105 de la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 08 DE AGOSTO DE 1991)</small>
+
+Los Magistrados propietarios y supernumerarios durarán en sus funciones tres años, podrán ser reelectos, en cuyo caso sólo podrán ser removidos por incurrir en los supuestos que se establecen en el título séptimo de la Constitución Política del Estado.
 
 El Magistrado Propietario no podrá ser removido sino en los casos y de acuerdo con el procedimiento aplicable para los Magistrados del Tribunal Superior de Justicia del Estado.
 
@@ -87,11 +89,11 @@ Las faltas temporales del Magistrado Propietario y las definitivas, entre tanto 
 
 Las licencias del Magistrado Propietario por un término que exceda de un mes por año con goce de sueldo o de tres meses sin sueldo, solamente podrá concederlas el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 08 DE AGOSTO DE 1991)</small>
 
 ###### ARTICULO 7.
 
-El Tribunal para el despacho de los negocios, tendrá un Secretario, un Oficial Mayor y defensores jurídicos gratuitos y el personal auxiliar que determine anualmente el Presupuesto de Egresos del Estado, el Oficial Mayor suplirá al Secretario en sus faltas temporales.
+El Tribunal, para el despacho de los negocios, tendrá un Secretario de Acuerdos, un Oficial Mayor, defensores jurídicos gratuitos y el personal auxiliar que determine anualmente el presupuesto de egresos del Estado, el Oficial Mayor suplirá al Secretario en sus faltas temporales.
 
 ###### ARTICULO 8.
 
@@ -119,9 +121,11 @@ IV.- Si ha dictado la resolución impugnada o ha intervenido con cualquier cará
 
 V.- Si tiene amistad estrecha o enemistad con alguna de las partes, sus patronos o apoderados.
 
+> <small>(REFORMADO, P.O. 08 DE AGOSTO DE 1991)</small>
+
 ###### ARTICULO 12.
 
-Manifestada la causa de impedimento o alegada por alguna de las partes, pasará el asunto al conocimiento del Tribunal Superior de Justicia del Estado para que califique la excusa. Cuando se ofrezca prueba, el Tribunal Superior de Justicia la recibirá en una audiencia que citará al efecto dentro de los tres días siguientes a la promoción y resolverá. Si encuentra procedente la excusa lo comunicará al Tribunal de lo Contencioso y conocerá del asunto el Magistrado Supernumerario.
+Manifestada la causa de impedimento, pasará el asunto al conocimiento del Tribunal Superior de Justicia del Estado para que califique la excusa.
 
 ###### ARTICULO 13.
 
@@ -151,9 +155,9 @@ I.- Los actos Administrativos que las autoridades del Estado, Municipios o de lo
 
 II.- Las resoluciones definitivas dictadas por los órganos fiscales del Estado, Municipios o de los organismos descentralizados de ambos, cuando éstos últimos actúen como autoridades fiscales en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación; nieguen la devolución de un ingreso indebidamente percibido o cualquier otra que cause agravio en materia fiscal;
 
-III.- La falta de contestación de las mismas autoridades dentro de un término de quince días, a las promociones presentadas ante ellas por los particulares, a menos que la Leyes y Reglamentos fijen otros plazos o la naturaleza del asunto lo requiera.
+> <small>(REFORMADA, P.O. 08 DE AGOSTO DE 1991)</small>
 
-En materia fiscal, las instancias o peticiones que se formulen deberán ser resueltas en el término que la Ley fije y, a falta de éste, en el de noventa días; el silencio de las autoridades se considerará como resolución negativa cuando no den respuesta en el término que corresponda;
+III.- De los juicios que se promueven en contra de las negativas fictas en materia fiscal y administrativa configuradas por el silencio de la autoridad a la petición de un particular en el plazo que la ley fija, a falta de termino, será de noventa días.
 
 IV.- Los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a un particular y que causen una lesión a la Hacienda Pública del Estado, de los Municipios o de los organismos descentralizados de ambos;
 
@@ -174,6 +178,10 @@ II.- Incumplimiento u omisión de las formalidades legales;
 III.- Violación de la Ley o no haberse aplicado la debida, y
 
 IV.- Arbitrariedad, desproporción, desigualdad, injusticia manifiesta o cualquiera otra causa similar.
+
+> <small>(ADICIONADA, P.O. 08 DE AGOSTO DE 1991)</small>
+
+V.- Desvío de poder tratándose de sanciones o actos discrecionales .
 
 DEL PROCEDIMIENTO
 
@@ -197,7 +205,7 @@ Las actuaciones del Tribunal y los ocursos, informes o contestaciones deberán e
 
 Cuando las Leyes o Reglamentos establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo o intentar desde luego el juicio ante el Tribunal; o bien, si está haciendo uso de dicho recurso o medio de defensa, previo desistimiento de los mismos, podrá acudir al Tribunal, ejercitando la acción ante éste, se extingue el derecho para ocurrir o otro medio de defensa ordinario.
 
-En materia Fiscal, deberán agotarse los recursos previstos en la Ley de Hacienda, en el Código Fiscal u otras Leyes de la Materia.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 08 DE AGOSTO DE 1991)</small>
 
 ###### ARTICULO 20.
 
@@ -205,7 +213,9 @@ El Tribunal, para hacer cumplir sus determinaciones o para imponer el orden en �
 
 I.- Amonestación;
 
-II.- Multas hasta de veinte veces el salario mínimo general vigente en la Ciudad de Querétaro, que se duplicará en caso de reincidencia.
+> <small>(REFORMADA, P.O. 08 DE AGOSTO DE 1991)</small>
+
+II.- Multas de 5 a 50 veces el salario mínimo diario vigente en la ciudad de Querétaro, que se duplicará en caso de reincidencia.
 
 III.- Arresto hasta por veinticuatro horas, y
 
@@ -233,11 +243,19 @@ II.- El demandado, tendrá este carácter:
 
 a).- Las Autoridades del Poder Ejecutivo, de los municipios o de los organismos con funciones administrativas de autoridad de carácter estatal o municipal que dicten, ordenen, ejecuten o traten de ejecutar la resolución o acto administrativo que se impugne.
 
-b).- La Secretaría de Finanzas, aunque no sea actora o demanda, siempre que se trate de asuntos de materia fiscal estatal. Su representación estará a cargo del Secretario de Finanzas o, en su caso, de la Tesorería municipal, los cuales podrán delegar la representación en agentes hacendarios los que estarán adscritos al Tribunal.
+> <small>(REFORMADO, P.O. 08 DE AGOSTO DE 1991)</small>
 
-c).- El particular a quien favorezca la resolución cuya nulidad pida la autoridad administrativa conforme a lo dispuesto en el artículo 14, fracción IV de esta ley, y
+b).- El particular a quien favorezca la resolución cuya nulidad pida la autoridad administrativa conforme a lo dispuesto por el artículo 14, fracción V de esta ley.
 
-III.- El tercero perjudicado, o sea cualquier persona cuyos intereses puedan verse afectados por las resoluciones del Tribunal.
+> <small>(REFORMADA, P.O. 08 DE AGOSTO DE 1991)</small>
+
+III.- El ayuntamiento o el titular de la dependencia estatal o del organismo descentralizado a quien se encuentre subordinada la autoridad mencionada en el inciso A) de la fracción segunda cuando no tengan el carácter de demandado.
+
+Estarán representados por el secretario del ramo para el caso de la administración pública centralizada; los organismos descentralizados por lo que indiquen sus respectivas leyes, y el ayuntamiento, por el síndico municipal.
+
+> <small>(ADICIONADA, P.O. 08 DE AGOSTO DE 1991)</small>
+
+IV.- El tercero perjudicado que será cualquier persona cuyos intereses puedan verse afectados por las resoluciones del Tribunal.
 
 ###### ARTICULO 24.
 
@@ -309,7 +327,7 @@ Las notificaciones que no fueren hechas en la forma que establecen las disposici
 
 Este incidente se substanciará en una sola audiencia, en la que se recibirán las pruebas de las partes, se oirán sus alegatos, que no excederán de media hora para cada una y se dictará la resolución que fuere procedente.
 
-Declarada la nulidad, se repondrá el procedimiento a partir de la notificación irregular y al empleado responsable se le impondrá una multa de cincuenta a mil pesos, según la gravedad de la irregularidad. En caso de reincidencia, será destituido el empleado, sin responsabilidad para el Estado, después de que se le oiga y se reciban las pruebas que desee aportar en su defensa, si quisiere.
+Declarada la nulidad, se repondrá el procedimiento a partir de la notificación irregular y al empleado responsable se le impondrá una multa de cincuenta a mil pesos, según la gravedad de la irregularidad. En caso de reincidencia, será destituido el empleado, sin responsabilidad para el Estado, después de que se le oiga y se reciban las pruebas que desee a portar en su defensa, si quisiere.
 
 ###### ARTICULO 33.
 
@@ -339,17 +357,23 @@ I.- Nombre y domicilio del actor y, en su caso, de quien promueva en su nombre;
 
 II.- La resolución o acto administrativo impugnado;
 
-III.- La autoridad, autoridades o partes demandadas.
+> <small>(REFORMADA, P.O. 08 DE AGOSTO DE 1991)</small>
+
+III.- La autoridad o autoridades demandadas, en su caso, el titular del organismo centralizado; el titular del órgano de la administración pública o del ayuntamiento correspondiente.
 
 IV.- El nombre y domicilio del tercero perjudicado, si lo hubiere;
 
 V.- La pretensión que se deduce;
 
-VI.- La fecha en la que se tuvo conocimiento del acto impugnado;
+> <small>(REFORMADA, P.O. 08 DE AGOSTO DE 1991)</small>
 
-VII.- La descripción de los hechos y, de ser posible, los fundamentos de derechos;
+VI.- La fecha de notificación del acto impugnado o la de su conocimiento.
 
-VIII.- Las pruebas documentales que el actor deba ofrecer con su firma. SI no supiere o no pudiere firmar, lo hará un tercero a su ruego, poniendo el primero la huella digital.
+> <small>(REFORMADA, P.O. 08 DE AGOSTO DE 1991)</small>
+
+VII.- La descripción de los hechos y los agravios que se causen con la resolución o actos impugnados.
+
+VIII.- Las pruebas documentales que el actor deba ofrecer con su firma. Si no supiere o no pudiere firmar, lo hará un tercero a su ruego, poniendo el primero la huella digital.
 
 El actor deberá acompañar una copia de la demanda para cada una de las demás partes y una más cuando se pide la suspensión del procedimiento; podrá anexarla con los escritos, datos, documentos y demás elementos que considere necesarios, entre los que se encuentran los justificativos de su personalidad.
 
@@ -369,7 +393,9 @@ Las partes demandadas y el tercero perjudicado en su contestación se referirán
 
 El demandante tendrá derecho a ampliar la demanda dentro de los diez días siguientes a la fecha en que surta efectos el acuerdo recaído a la contestación de la demanda cuando se impugne una negativa ficta, siempre y cuando las autoridades demandadas introduzcan elementos desconocidos por el actor en su contestación.
 
-Cuando las partes ofrezcan prueba pericial o testimonial, deberán indicar desde luego los nombres de los peritos o testigos y acompañar los interrogatorios.
+> <small>(REFORMADO, P.O. 08 DE AGOSTO DE 1991)</small>
+
+Cuando las partes ofrezcan prueba pericial o testimonial, deberán indicar desde luego los nombres de los peritos o testigos y acompañar los interrogatorios. El Magistrado requerirá a las partes cuando no se adjunten estos documentos mediante notificación personal, para que los presenten dentro de un plazo de 5 días, apercibiéndolos de que en caso de no hacerlo en tiempo, se tendrán por no ofrecidas.
 
 ###### ARTICULO 39.
 
@@ -397,7 +423,7 @@ No se otorgará la suspensión si se sigue en perjuicio de un evidente interés 
 
 Cuando los actos materia de impugnación hubieren sido ejecutados y afecten a los particulares de escasos recursos económicos, impidiendo el ejercicio de su única actividad personal de subsistencia y entre tanto se pronuncie la resolución que corresponda, el magistrado podrá dictar las medidas cautelares que estime pertinentes para preservar el medio de la subsistencia del quejoso, siempre que no se lesionen derechos de terceros.
 
-La suspensión será revocable en cualquier momento del juicio si varían las condiciones en las cuales se otorgó.
+La suspensión será revocable en cualquier momento del juicio se varían las condiciones en las cuales se otorgó.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1988)</small>
 
@@ -465,7 +491,13 @@ IX.- Cuando hayan cesado los efectos del acto impugnado o éste no pueda surtir 
 
 X.- Contra autos de las Autoridades Administrativas del Estado que deban ser revisados de oficio y la Ley que los rija fije plazo al efecto, y
 
-XI.- En los demás casos en que la improcedencia resulte de alguna disposición de esta ley.
+> <small>(REFORMADA, P.O. 08 DE AGOSTO DE 1991)</small>
+
+XI.- Contra actos que sean materia de otra queja administrativa que este en trámite o que se encuentre pendiente de resolución, promovida por el mismo actor contra la misma o mismas autoridades y por el propio motivo de queja, aunque las violaciones reclamadas sean diversas que indique dos instancias, y para este caso el quejoso podrá optar por cual desea continuar antes de presentar su queja ante órgano jurisdiccional
+
+> <small>(ADICIONADA, P.O. 08 DE AGOSTO DE 1991)</small>
+
+XII.- En los demás casos en que la improcedencia resulte de alguna disposición de esta ley.
 
 ###### ARTICULO 48.
 
@@ -485,11 +517,13 @@ DE LAS PRUEBAS
 
 En el escrito de demanda y en el de contestación deberán ofrecerse las pruebas; las supervenientes podrán ofrecerse cuando aparezcan y hasta en la audiencia respectiva.
 
+> <small>(REFORMADO, P.O. 08 DE AGOSTO DE 1991)</small>
+
 ###### ARTICULO 50.
 
-Se admitirán toda clase de pruebas, excepto la confesión de las autoridades y las que fueren contrarias a la moral y al derecho. Aquellas que ya se hubieren rendido ante las autoridades demandadas, deberán ponerse a disposición del Tribunal con el expediente respectivo, a petición de parte.
+Se admitirán toda clase de pruebas excepto la confesión de las autoridades y las que fueren contrarias a la moral y al derecho. Puede ofrecerse como prueba el expediente administrativo integrado ante la autoridad o autoridades demandadas, las que deberán acompañarlo al juicio, en caso de no hacerlo se presumirán ciertos los hechos afirmados por el actor, relacionados con dicho expediente.
 
-No se considerará incluida en la prohibición anterior la petición de informes a las autoridades de hechos que consten en sus expedientes o en documentos agregados a ellos.
+No se considerará incluida en la excepción anterior la petición de informes a las autoridades de hechos que consten en sus expedientes o los documentos agregados a ellos.
 
 ###### ARTICULO 51.
 
@@ -549,15 +583,15 @@ La recepción de las pruebas se hará en la audiencia y se sujetará a las sigui
 
 I.- Se admitirán las relacionadas con los puntos controvertidos que se hubieren ofrecido en la demanda y la contestación, así como las supervenientes;
 
-II.- Se desecharán aquéllas que el actor debió rendir y no aportó ante las Autoridades en el procedimiento administrativo que dio originen a la resolución que se impugna, salvo las supervenientes y aquéllas que, habiendo sido ofrecidas ante la Autoridad demandada, no fueron recibidas por causas no imputables al oferente;
+II.- Se desecharán aquéllas que el actor debió rendir y no aportó ante las Autoridades en el procedimiento administrativo que dio originen a la resolución que se impugna, salvo las superveniente y aquéllas que, habiendo sido ofrecidas entre la Autoridad demandada, no fueron recibidas por causas no imputables al oferente;
 
 III.- Si se ofrece prueba pericial, cada parte y el Tribunal, en caso de discordia, podrán nombrar un perito, quien dictaminará por escrito u oralmente.
 
 Las partes y el tribunal podrán formular observaciones a los peritos y hacerles las preguntas que estimen pertinentes en relación con los puntos sobre los que dictaminen;
 
-IV.- Cuando se hubieren presentado interrogatorios por las partes, referentes a la prueba testimonial, las preguntas deberán tener relación directa con los puntos controvertidos y deberán ser formuladas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El Tribunal deberá cuidar que se cumplan estas condiciones, impidiendo preguntas que las contraríen. La protesta y examen de los testigos se hará en presencia de las partes. Al formularse las repreguntas, se seguirán las mismas reglas. El Tribunal podrá hacer las preguntas que estime necesarias; no será impedimento para intervenir como testigo el hecho de desempeñar un cargo o empleo público;
+IV.- Cuando se hubieren presentado interrogatorios por las partes, referentes a la prueba testimonial, las preguntas deberán tener relación directa con los puntos controvertidos y deberán ser formuladas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. EL Tribunal deberá cuidar que se cumplan estas condiciones, impidiendo preguntas que las contraríen. La protesta y examen de los testigos se hará en presencia de las partes. Al formularse las repreguntas, se seguirán las mismas reglas. El Tribunal podrá hacer las preguntas que estime necesarias; no será impedimento para intervenir como testigo el hecho de desempeñar un cargo o empleo público;
 
-V.- No se requerirá hacer constar en el acta las exposiciones de las partes sobre los documentos, ni las preguntas o repreguntas hechas a los testigos, bastando que se asienten las respuestas.
+V.- No se requerirá hacer constar en el acta las exposiciones de las partes o sobre los documentos ni las preguntas o repreguntas hechas a los testigos, bastando que se asienten las respuestas.
 
 ###### ARTICULO 60.
 
@@ -662,3 +696,13 @@ P.O. 27 DE OCTUBRE DE 1988
 ###### ARTICULO UNICO.
 
 Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", la cual entrará en vigor al día siguiente de su publicación.
+
+P.O. 8 DE AGOSTO DE 1991
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan a esta ley.
+
+###### ARTICULO SEGUNDO.
+
+Esta ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "La Sombra de Arteaga".
