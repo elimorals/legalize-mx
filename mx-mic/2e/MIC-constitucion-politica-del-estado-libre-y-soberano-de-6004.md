@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1931-01-15"
+last_updated: "1933-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1931.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1933.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -129,9 +129,11 @@ De la formación del Poder Legislativo.
 
 El ejercicio del Poder Legislativo del Estado, se deposita en una asamblea de representantes del Pueblo que se denominará: "CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO".
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1933)</small>
+
 ###### Artículo 21.
 
-Los diputados al Congreso del Estado serán electos en su totalidad cada dos años. Por cada diputado propietario se eligirá un suplente.
+Los Diputados al Congreso del Estado serán electos en su totalidad cada dos años, y no podrán ser reelectos para el período inmediato siguiente: Por cada Diputado Propietario se elegirá un suplente, q´ (sic) tampoco podrá ser electo propietario para el período inmediato siguiente, si hubiere estado en ejercicio de sus funciones.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 1928)</small>
 
@@ -413,9 +415,11 @@ De la formación y duración del Poder Ejecutivo.
 
 El Poder Ejecutivo del Estado se deposita en un solo individuo que se llamará "GOBERNADOR DEL ESTADO" y su elección será directa en los términos que dispone la Ley Electoral.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1933)</small>
+
 ###### Artículo 52.
 
-El Gobernador del Estado entrará a ejercer sus funciones previa protesta ante la Legislatura Local o ante la Comisión Permanente, el 16 de septiembre; durará en su encargo cuatro años y no podrá ser reelecto para el período siguiente.
+El Gobernador del Estado entrará a ejercer sus funciones, previa protesta ante la Legislatura Local o ante la Comisión Permanente el 16 de septiembre y durará en su encargo cuatro años. El ciudadano que haya desempeñado el cargo de Gobernador Constitucional, Substituto, Interino o Provicional (sic), en ningún otro tiempo ni por concepto alguno, podrá volver a desempeñar la función de Gobernador del Estodo (sic).
 
 ###### Artículo 53.
 
@@ -613,9 +617,11 @@ II.- Tener veinticinco años cumplidos.
 
 III.- Poseer título profesional de Abogado, expedido por la autoridad o corporación legalmente facultada para ello y no estar suspenso en el ejercicio de su profesión.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1933)</small>
+
 ###### Artículo 70.
 
-El Tribunal Supremo de Justicia se renovará en su totalidad cada cuatro años, que se contarán desde el 16 de septiembre de 1916. Si por alguna circunstancia no se reuniere en dicho tiempo, continuarán ejerciendo las funciones judiciales los individuos qne (sic) la formen hasta que tomen posesión los nuevamente nombrados.
+El Tribunal Supremo de Justicia se renovará en su totalidad cada cuatro años, que se contarán desde el 16 de septiembre de 1916.- Ninguno de los Magistrados podrá ser reelecto para el período inmediato siguiente de su funcionamiento.- Si por alguna circunstancia no se reuniere en dicho tiempo, continuarán ejerciendo las funciones judiciales los individuos que lo forman hasta que tomen posesión los nuevamente electos.
 
 ###### Artículo 71.
 
@@ -1392,3 +1398,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 15 DE ENERO DE 1931.
 
 Habiendo quedado satisfechos todos los requisitos exigidos por el artículo 175 de la Constitución Local para quedar debidamente hecha la reforma del artículo 68 de la misma, la modificación del citado artículo, contenida en la presente ley, entrará en vigor el día 16 de enero del año de 1931.
+
+P.O. 27 DE FEBRERO DE 1933.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
