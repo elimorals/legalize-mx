@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "1985-12-31"
+last_updated: "1986-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -123,9 +123,9 @@ En los casos de prestación de servicios en los que el derecho deba determinarse
 
 Cuando no se llenen los requisitos legales para el otorgamiento del permiso o se haya establecido alguna prohibición, el pago de los derechos por los servicios o por el otorgamiento del uso o aprovechamiento de bienes del dominio público a que se refiere esta ley, no implica necesariamente el otorgamiento del mismo, en cuyo caso los derechos que se hayan pagado serán sin perjuicio de las multas que procedan.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-Los derechos que esta Ley establezca que se encuentran destinados a un fin específico estarán sujetos a las reglas administrativas que establezcan los sistemas, procedimientos e instrucciones para la disposición de los ingresos y la concentración de los excedentes que emita la Secretaría de Hacienda y Crédito Público.
+Los derechos que esta Ley establezca que se encuentran destinados a un fin específico estarán sujetos a las reglas administrativas que establezcan los sistemas, procedimientos e instrucciones para la disposición de los ingresos y la concentración de los excedentes que emita la Secretaría de Hacienda y Crédito Público, debiendo informar mensualmente las dependencias u organismos a dicha Secretaría la recaudación total obtenida por esos conceptos.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -154,6 +154,10 @@ V.- Legalización de firmas 300.00
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 VI.- Por cualquier otra certificación o expedición de constancia distinta de las señaladas en las fracciones que anteceden 400.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+VII.- Por la prestación de servicios fuera de la población donde radique la autoridad que los proporciona, una cantidad equivalente a las prestaciones laborales a que los empleados tengan derecho por el desempeño de su trabajo fuera del lugar de su adscripción, incluidos los gastos de pasaje por el viaje redondo.
 
 Por la expedición de documentos o copias certificadas de los mismos que sean solicitados por la Federación, el Distrito Federal, Estados y Municipios de asuntos oficiales y de su competencia, siempre que esta solicitud no derive de la petición de un particular, así como por la expedición de copias certificadas para la substanciación del juicio de amparo, no se pagarán derechos.
 
@@ -585,7 +589,7 @@ Los diputados y senadores del Congreso de la Unión no pagarán el derecho a que
 
 #### SECCION SEGUNDA. Registro Nacional de Valores e Intermediarios
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 22.
 
@@ -651,9 +655,9 @@ b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
 c).- Certificados de importación de armas, municiones, detonantes, explosivos y artificios químicos............ 5,000.00
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-d).- Certificados de matrícula a mexicanos........ 400.00
+d).- Certificados de matrícula a mexicanos……….. 5,000.00
 
 e).- Certificados de petición de parte............. 1,000.00
 
@@ -671,13 +675,15 @@ k).- Copias certificadas de actas del registro civil............. 300.00
 
 l).- Patentes provisionales de navegación.............. 5,000.00
 
-V.- Refrendo de certificados de matrícula a mexicanos.......... 150.00
+V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 23.
 
 Los derechos por la prestación de servicios notariales por cónsules mexicanos, se pagarán conforme a las siguientes cuotas:
 
-I.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1983)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+I.- Por la renuncia de derechos hereditarios……….. $10,000.00
 
 II.- Por los mandatos o substitución de los mismos:
 
@@ -705,17 +711,29 @@ IV.- Por la razón y autorización del sobre que contenga un testamento ordinari
 
 V.- Por la expedición de segundo o subsecuentes testimonios (por foja)………..300.00
 
-VI.- Por la extinción de obligaciones se pagara el 50% de las cuotas señaladas en las fracciones I, II y III que anteceden.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+VI.- Por la recepción del testamento ológrafo............ 8,000.00
 
-VII.- Por otros servicios notariales............. 1,500.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+VII.- Por la extinción de obligaciones contenidas en un mandato y por la revocación de testamentos, se pagará el 50% de los derechos contenidos en las fracciones II, III, IV y VI de este artículo.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+VIII.- Por otros servicios notariales……… 5,000.00
 
 Siempre que una escritura notarial contenga diversos contratos o actos, los derechos se fijarán por cada uno de los contratos o actos principales y en un 50% por los accesorios o complementarios.
 
 En los casos en que de conformidad con el artículo 72 de la Ley del Notariado para el Distrito Federal, el cónsul tenga que poner a las escrituras la anotación de "No pasó", se pagarán íntegramente el valor de los derechos; pero si esa escritura se repite ante el mismo cónsul, por la nueva escritura se pagará únicamente el 50% de los mismos.
 
 En los casos o contratos en que se determina capital o suerte principal, no se comprenderán los réditos o cualesquiera otras prestaciones accesorias que se estipulen.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 23-A.
+
+Cuando los servicios a que se refieren los artículos 22 y 23 de esta Ley sean prestados en territorio nacional, se pagará el 50% de los derechos correspondientes.
 
 ###### ARTICULO 24.
 
@@ -783,13 +801,21 @@ VII.- Para la celebración de contratos de arrendamiento hasta por diez años o 
 
 VIII.- A extranjeros para adquirir en la República el dominio de tierras, aguas y sus accesiones. 50,000.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-IX.- Por la recepción y examen de cada solicitud de permiso, o de reposición de éste. 1,000.00
+IX.- A sociedades o asociaciones extranjeras por el establecimiento de sucursales o agencias en territorio nacional:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+a).- Por la inscripción de sus estatutos. 100,000.00
 
-X.- Los no especificados en las fracciones anteriores. 1,500.00
+b).- Por la inscripción de las modificaciones de sus estatutos. 60,000.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+X.- Por la recepción y examen de cada solicitud de permiso, o de reposición de éste. 3.500.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+XI.- Los no especificados en las fracciones anteriores. 6,000.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -797,11 +823,9 @@ X.- Los no especificados en las fracciones anteriores. 1,500.00
 
 Por los servicios que se presten en materia de nacionalidad y naturalización, a que se refiere el artículo 30 de la Constitución Política de los Estados Unidos Mexicanos, se pagará el derecho de trámite de nacionalidad y naturalización, conforme a las siguientes cuotas:
 
-I.- En los certificados de los casos comprendidos en las fracciones I, II y III del apartado A de dicho precepto constitucional:
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-a) Por la recepción, examen y expedición de cada certificado……….. $ 1,000.00
-
-b) Por reposición de documentos........... $ 1,000.00
+I.- Por la reposición de los certificados a que se refieren las fracciones I, II y III del Apartado A de dicho precepto Constitucional………. $ 2,500.00
 
 II.- En las cartas de naturalización a las que se refiere la fracción I del apartado B del citado precepto constitucional:
 
@@ -859,9 +883,9 @@ II.- Las sociedades nacionales de crédito, instituciones de banca de desarrollo
 
 III.- Las demás entidades y establecimientos, sujetos a la inspección y vigilancia de la Comisión, de acuerdo por lo dispuesto por la Ley Reglamentaria del Servicio Público de Banca y Crédito, deberán pagar un derecho cuya cuota determinará la Secretaría de Hacienda y Crédito Público, a propuesta de la señalada Comisión tomando en cuenta la estimación de la incidencia que en el presupuesto de esta última, tenga el ejercicio de tales funciones.
 
-El pago de los derechos establecidos en este artículo se efectuará en el Banco de México y quedarán afectados a la Comisión Nacional Bancaria y de Seguros.
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-Las cuotas a que se refiere este artículo y el presupuesto de egresos de la Comisión no figurarán en el presupuesto de Egresos de la Federación.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -877,11 +901,9 @@ III.- Para fijar las cuotas a los almacenes generales de depósito, la Comisión
 
 IV.- Las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Seguros, de acuerdo a lo dispuesto por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, deberán pagar un derecho cuya cuota determinará la Secretaría de Hacienda y Crédito Público, a propuesta de la señalada Comisión, tomando en cuenta la estimación de la incidencia que en el presupuesto de esta última, tenga el ejercicio de tales funciones.
 
-El pago de los derechos establecidos en este artículo, se efectuará en el Banco de México, y quedaran afectados a la Comisión Nacional Bancaria y de Seguros.
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 1986)</small>
-
-Las cuotas a que se refiere este artículo y el presupuesto de egresos de la Comisión, no figurará en el presupuesto del Gobierno Federal.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 30.
 
@@ -899,9 +921,11 @@ Las sociedades mutualistas pagarán las cuotas de inspección y vigilancia calcu
 
 La Secretaría de Hacienda y Crédito Público, a propuesta de la Comisión Nacional Bancaria y de Seguros, podrá determinar las cuotas que, en su caso, deban pagar las demás personas y entidades sujetas a la inspección y vigilancia de dicha Comisión, tomando en cuenta la estimación de la incidencia que en su presupuesto tenga el ejercicio de tales funciones.
 
-Las cuotas serán pagadas por mensualidades adelantadas en el Banco de México, S.A., y quedarán afectadas a la Comisión Nacional Bancaria y de Seguros.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-Las cuotas a que se refiere este artículo y el presupuesto de egresos de la Comisión, no figurarán en el presupuesto del Gobierno Federal.
+Los derechos a que se refiere este artículo se pagarán por mensualidades adelantadas.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 31.
 
@@ -919,325 +943,217 @@ Las cuotas determinadas conforme al presente artículo deberán manifestarse a l
 
 Las cuotas que se recauden por los derechos a que se refiere este artículo se depositarán en cuenta especial en el Banco de México, S.A., y quedarán afectados a la Secretaría de Hacienda y Crédito Público.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 31-A.
+
+El pago de los derechos establecidos en los artículo 29 al 31, se efectuará en el Banco de México, destinándose los ingresos que se recauden a la Comisión Nacional Bancaria y de Seguros, para cubrir sus gastos de operación, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado y, en su caso, las erogaciones extraordinarias que acuerden las autoridades competentes. La parte de los ingresos que exceda de los conceptos señalados, se aplicará para complementar las cuotas que deban pagar las instituciones y entidades sujetas a la inspección y vigilancia de dicha Comisión, en el siguiente ejercicio fiscal, en lo términos de esta Ley y las disposiciones correspondientes de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 #### SECCION QUINTA. Acuñación de Moneda Metálica y Desmonetización de Billetes
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
+###### ARTICULO 31-B.
+
+Por el estudio y tramitación de cada solicitud de inscripción y autorización establecida en los artículos 32 y 33-A se pagará el derecho del Mercado de Valores, conforme a las siguientes cuotas:
+
+I.- Inscripción de valores en el Registro Nacional de Valores e Intermediarios……… $ 500,000.00
+
+II.- Inscripción de Intermediarios en el Registro Nacional de Valores e Intermediarios………… $ 1'000,000.00
+
+III.- Valuadores de activos fijos………… $ 150,000.00
+
+IV.- Sociedades Operadoras de Sociedades de Inversión……….. $200,000.00
+
+Los derechos a que se refiere la fracción I, no se pagarán cuando se trate de los valores de renta fija cuya inscripción sea de oficio.
+
 ###### ARTICULO 32.
 
-Por la inscripción en el Registro Nacional de Valores e Intermediarios, se pagará el derecho de registro de valores, e intermediarios conforme a lo siguiente:
+Por la inscripción en el Registro Nacional de Valores e intermediarios, se pagará el derecho de registro de valores e intermediarios conforme a lo siguiente:
 
-1.- Sección de valores:
+I.- Sección de Valores:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+a).- Acciones y obligaciones emitidas por sociedades de anónimas……… 3 al millar respecto del monto total de la emisión.
 
-a).- Acciones y obligaciones emitidas por sociedades anónimas............ 2 al millar respecto del monto total de la emisión.
+b).- Certificados de aportación patrimonial o acciones emitidas por instituciones de crédito, de seguros, de fianzas u organizaciones auxiliares del crédito…….. 3 al Millar respecto del monto total de la emisión.
 
-b).- Valores emitidos en México o por personas morales mexicanas, respecto de los cuales se haga oferta pública en el extranjero............. $ 200,000.00 por emisión.
+c).- Títulos de crédito y otros documentos que sean objeto de oferta pública que otorguen a sus titulares derechos de crédito, de propiedad o de participación en el capital de personas morales, emitidos por sociedades anónimas y otras entidades………. 3 al millar respecto del monto total de la emisión.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+d).- Títulos de crédito y otros documentos respecto de los cuales se realice oferta pública, que otorguen a sus titulares derechos de crédito.(Inscripción con vigencia máxima de un año)........... 1.5 al millar respecto del monto de la emisión autorizada para circular.
 
-c).- Documentos respecto de los cuales se realice oferta pública que otorguen a sus titulares derechos de crédito, de propiedad o de participación en el capital de personas morales, emitidos por sociedades anónimas y otras entidades............ 2 al millar pecto (sic) del monto total de la emisión.
+e).- Pagarés, documentos con garantía fiduciaria y otros valores distintos de los señalados en esta fracción........ 4 al millar anual, respecto del monto total de la emisión en proporción al plazo de su vigencia.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+f).- Bonos u obligaciones emitidos o garantizados por instituciones de crédito, de seguros, de fianzas u organizaciones auxiliares del crédito............. 3 al millar respecto del monto total de la emisión.
 
-d).- Documentos respecto de los cuales se realice oferta pública que otorguen a sus titulares derechos de crédito (inscripción con vigencia máxima de un año)………. 1 al millar respecto del monto de emisión autorizada para circular.
+g).- Otros títulos suscritos o emitidos por instituciones de crédito, representativos de un pasivo a su cargo, por clase de valor……….. $ 3'000,000.00
 
-e).- Valores de renta fija emitidos por instituciones de crédito para ser materia de oferta pública en el extranjero................ $ 200,000.00 por emisión.
+h).- Valores emitidos por el gobierno federal, por emisión............. $ 3'000,000.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+i).- Certificados, pagarés y otros valores de Tesorería emitidos por el gobierno federal..................... $ 3'000,000.00
 
-f).- Acciones y valores de renta fija emitidos o garantizados por instituciones de seguros, de crédito y organismos auxiliares de crédito.......... 2 al millar respecto del monto total de la emisión.
+Por el total de emisiones que se lleven a cabo en un ejercicio fiscal, según clase de valor.
 
-g).- Otros títulos suscritos o emitidos por instituciones de crédito, representativo de un pasivo a su cargo............. $ 250,000.00 por emisión.
+j).- Acciones de sociedades de inversión……….. 2 al millar respecto del monto total del capital pagado.
 
-h).- Valores emitidos por el Gobierno Federal.............. $ 200,000.00 por emisión.
+k).- Valores emitidos por organismos descentralizados del gobierno federal........... 3 al millar respecto del monto total de la emisión.
 
-i).- Certificados de Tesorería emitidos por el Gobierno Federal................. $ 200,000.00 por el total de emisiones que se lleven a cabo en un ejercicio fiscal.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-j).- Valores emitidos en moneda nacional por organismos descentralizados del Gobierno Federal............. 2 al millar respecto del monto total de la emisión.
-
-k).- Valores emitidos en moneda extranjera por organismos descentralizados del Gobierno Federal............. $ 200,000.00 por emisión.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-l).- Valores emitidos por los Estados y Municipios, así como por sus entidades descentralizadas.......... 2 al millar respecto del monto total de la emisión.
-
-m).- Valores de renta fija emitidos o garantizados por instituciones nacionales de crédito y organizaciones auxiliares nacionales de crédito.............. $ 200,000.00 por emisión.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-n).- Pagaré, documentos con garantía fiduciaria y otros valores distintos de los señalados en esta fracción........... 2 al millar anual respecto del monto total de la emisión en proporción al plazo de su vigencia.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-ñ).- Acciones de sociedades de inversión........... 2 al millar respecto del monto de capital pagado.
+l).- Valores emitidos por los Estados y Municipios, así como por sus entidades descentralizadas........... 2 al millar respecto del monto total de la emisión.
 
 II.- Sección de intermediarios:
 
-a).- Personas físicas............. $ 20,000.00
+a).- Casa de bolsa............. $ 50'000,000.00
 
-b).- Personas morales............. $ 50,000.00
+b).- Por la apertura de oficinas de casa de bolsa, por cada oficina………. $ 1'000,000.00
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+III.- Sección Especial:
 
-Por la apertura de sucursales de agentes de valores personas morales, se pagarán derechos conforme a la cuota de $10,000.00, por cada sucursal.
+a).- Valores emitidos en México o por personas morales mexicanas, respecto de los cuales se haga oferta pública en el extranjero, por emisión............. $ 3'500,000.00
+
+b).- Valores de renta fija emitidos por instituciones de crédito para ser materia de oferta pública en el extranjero, por emisión……….. $ 3'500,000.00
+
+c).- Valores de renta fija emitidos por organismos descentralizados del Gobierno Federal, respecto de los cuales se haga oferta pública en el extranjero, por emisión............. $ 3'500,000.00
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 33.
 
-Por el refrendo de la inscripción en el Registro Nacional de Valores e Intermediarios y los servicios de inspección y vigilancia que proporciona la Comisión Nacional de Valores a los agentes y bolsas de valores, así como a los emisores de valores inscritos en el citado Registro, se pagarán anualmente derechos conforme a las cuotas siguientes:
+Por el refrendo de la inscripción en el Registro Nacional de Valores e Intermediarios y los servicios de inspección y vigilancia que proporciona la Comisión Nacional de Valores a las casas de bolsa y bolsas de valores, así como a los emisores de valores inscritos en el citado Registro, se pagarán derechos de refrendo de inscripción y de inspección y vigilancia conforme a lo siguiente:
 
-I.- Sección de valores.
+I.- Sección Valores:
+
+a).- Refrendo de inscripción y servicio de inspección y vigilancia:
+
+1.- Sociedades anónimas con sólo acciones inscritas............ Uno y medio al millar respecto del capital social más reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 3'000,000.00
+
+2.- Sociedades anónimas con acciones y obligaciones inscritas, pagarán por éstas últimas........... Uno al millar respecto al monto en circulación de la emisión, sin que los derechos a pagar por este concepto excedan de $ 1'500,000.00.
+
+3.- Sociedades anónimas con sólo obligaciones inscritas; sociedades u otras entidades que emitan títulos de crédito y otros documentos que sean objeto de oferta pública o de intermediación en el mercado de valores, que otorguen a sus titulares derechos de crédito, de propiedad o de participación en el capital de personas morales; organismos descentralizados del Gobierno Federal, Gobiernos de los Estados y Municipios, así como organismos o empresas en que participen los mismos..........Uno y medio al millar respecto al monto en circulación de la emisión, sin que los derechos a pagar por este concepto excedan de $ 3'000,000.00.
+
+4.- Sociedades de Inversión......... Uno al millar, sin que los derechos a pagar por este concepto excedan de $ 3'000,000.00.
+
+5.- Otros refrendos de inscripción y servicios de inspección y vigilancia distintos a los señalados en este inciso a).............. $ 816,000.00
+
+b).- Refrendo de Inscripción de:
+
+1.- Instituciones de Crédito y organizaciones auxiliares del crédito con certificados de aportación patrimonial o acciones inscritas.......... Uno y medio al millar respecto del capital exhibido y reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 2'000,000.00.
+
+2.- Instituciones de crédito emisoras de bonos y obligaciones............ $ 33,000.00 durante la vigencia de cada emisión.
+
+3.- Instituciones de crédito que emitan o intervengan en la emisión de valores de renta fija y que no afecten directamente su pasivo.......... Uno al millar respecto al monto en circulación, sin que los derechos a pagar por este concepto excedan de $ 1'000,000.00.
+
+4.- Instituciones de crédito que emitan o suscriban otros títulos representativos de un pasivo a su cargo............ $ 1'360,000.00 durante la vigencia de la emisión.
+
+5.- Instituciones de seguros y fianzas emisoras de acciones............. Uno y medio al millar respecto del capital exhibido y reservas del capital, sin que los derechos a pagar por este concepto excedan de $ 1'000,000.00
+
+6.- Otros refrendos de inscripción distintos a los señalados en este inciso…….. $ 816,000.00
+
+II.- Sección de Intermediarios:
+
+Refrendo de inscripción y servicios de inspección y vigilancia.
+
+a).- Casas de bolsa.............. $ 10'000,000.00
+
+b).- Oficinas de casas de bolsa, por cada oficina............... $ 1'000,000.00
+
+III.- Sección Especial:
 
 a).- Refrendo de inscripción y servicios de inspección y vigilancia de:
 
-1).- Sociedades anónimas con sólo acciones inscritas:
-
-Capital social más reservas de capital en millones de pesos. Cuota
-
-1.0 a 9.9 $ 10,000.00
-
-10.0 a 19.9 15,000.00
-
-20.0 a 29.9 20,000.00
-
-30.0 a 39.9 25,000.00
-
-40.0 a 49.9 30,000.00
-
-50.0 a 59.9 35,000.00
-
-60.0 a 69.9 40,000.00
-
-70.0 a 79.9 45,000.00
-
-80.0 a 89.9 50,000.00
-
-90.0 a 99.9 55,000.00
-
-100.0 a 199.9 80,000.00
-
-200.0 a 299.9 100,000.00
-
-300.0 a 399.9 120,000.00
-
-400.0 a 599.9 150,000.00
-
-600.0 en adelante 200,000.00
-
-2).- Sociedades anónimas con acciones y obligaciones inscritas, pagarán por estas últimas:
-
-Monto en circulación de la emisión, en millones de pesos. Cuota
-
-1.0 a 9.9 $ 5,000.00
-
-10.0 a 19.9 7,500.00
-
-20.0 a 29.9 10,000.00
-
-30.0 a 39.9 12,000.00
-
-40.0 a 49.9 15,000.00
-
-50.0 a 59.9 17,500.00
-
-60.0 a 69.9 20,000.00
-
-70.0 a 79.9 22,500.00
-
-80.0 a 89.9 25,000.00
-
-90.0 a 99.9 27,500.00
-
-100.0 a 199.9 40,000.00
-
-200.0 a 299.9 50,000.00
-
-300.0 a 399.9 60,000.00
-
-400.0 a 599.9 75,000.00
-
-600.0 en adelante 100,000.00
-
-3).- Sociedades anónimas con sólo obligaciones inscritas; sociedades u otras entidades que emitan documentos respecto de los cuales se realice oferta pública, que otorguen a sus titulares derechos de propiedad, de crédito o de participación en el capital de personas morales; organismos descentralizados del Gobierno Federal, gobiernos de los Estados y municipios, así como organismos o empresas en que participen los mismos:
-
-Monto en circulación de la emisión en millones de pesos. Cuota
-
-1.0 a 9.9 $ 10,000.00
-
-10.0 a 19.9 15,000.00
-
-20.0 a 29.9 20,000.00
-
-30.0 a 39.9 25,000.00
-
-40.0 a 49.9 30,000.00
-
-50.0 a 59.9 35,000.00
-
-60.0 a 69.9 40,000.00
-
-70.0 a 79.9 45,000.00
-
-80.0 a 89.9 50,000.00
-
-90.0 a 99.9 55,000.00
-
-100.0 a 199.9 80,000.00
-
-200.0 a 299.9 100,000.00
-
-300.0 a 399.9 120,000.00
-
-400.0 a 599.9 150,000.00
-
-600.0 en adelante 200,000.00
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-4.- Sociedades anónimas y organismos descentralizados emisores de valores colocados en el extranjero, durante la vigencia de la emisión $50,000.00
-
-5).-Sociedades de inversión:
-
-Capital exhibido y reservas de capital, en millones de pesos. Cuota
-
-1.0 a 9.9 $ 10,000.00
-
-10.0 a 19.9 15,000.00
-
-20.0 a 29.9 20,000.00
-
-30.0 a 39.9 25,000.00
-
-40.0 a 49.9 30,000.00
-
-50.0 a 59.9 35,000.00
-
-60.0 a 69.9 40,000.00
-
-70.0 a 79.9 45,000.00
-
-80.0 a 89.9 50,000.00
-
-90.0 a 99.9 55,000.00
-
-100.0 a 199.9 80,000.00
-
-200.0 a 299.9 100,000.00
-
-300.0 a 399.9 120,000.00
-
-400.0 a 599.9 150,000.00
-
-600.0 a más 200,000.00
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-6.- Otros refrendos de inscripción y servicio de inspección y vigilancia distintos de los señalados en esta fracción 50,000.00
+1.- Sociedades anónimas emisoras de valores colocados en el extranjero, durante la vigencia de la emisión............ $ 816,000.00
 
 b).- Refrendo de inscripción de:
 
-a) Instituciones de crédito y Organizaciones Auxiliares con acciones inscritas:
+1.- Organismos descentralizados emisores de valores colocados en el extranjero, durante la vigencia de la emisión.......... $ 816,000.00
 
-Capital exhibido y reservas de capital, en millones de pesos. Cuota
+2.- Instituciones de crédito emisoras de valores colocados en el extranjero, durante la vigencia de la emisión........... $ 816,000.00
 
-1.0 a 24.9 $ 10,000.00
+IV.- Bolsas de Valores: Cuota anual por concepto de inspección y vigilancia........... $ 10'000,000.00
 
-25.0 a 49.9 15,000.00
+V.- Las certificaciones de las inscripciones, suspensiones, cancelaciones y anotaciones marginales que obren en los legajos del Registro y de los demás contenidos en sus apéndices así como certificaciones de no existir asientos de ninguna especie o de especie determinada sobre valores específicos o correspondientes a algún intermediario, y en general por cualquier certificación, por cada una de ellas……… $ 15,000.00
 
-50.0 a 99.9 20,000.00
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-100.0 a 199.9 40,000.00
+###### ARTICULO 33-A.
 
-200.0 a 499.9 60,000.00
+Por los servicios de autorización y de inspección y vigilancia que proporciona la Comisión Nacional de Valores, se pagarán derechos de autorización y de inspección y vigilancia, conforme a las siguientes cuotas:
 
-500.0 a 699.9 80,000.00
+I.- Por la autorización de valuadores profesionales de activos fijos de Sociedades Anónimas:
 
-700.0 a más 100,000.00
+a).- Autorización para personas físicas:
 
-2).- Instituciones de crédito emisoras de valores de renta fija e inscritos que afecten directamente su pasivo............. $ 2,000.00 durante la vigencia de la emisión.
+1.- Área de inmuebles industriales.......... $ 500,000.00
 
-3).- Instituciones de crédito que emitan o intervengan en la emisión de valores de renta fija y que no afecten directamente su pasivo; de acuerdo al saldo en circulación.
+2.- Área de Maquinaria y equipo........... $ 500,000.00
 
-Monto en circulación en millones de pesos. Cuota
+b).- Autorización de personas morales:
 
-1.0 a 99.9 $ 10,000.00
+1.- Área de Inmuebles industriales............ $ 1'500,000.00
 
-100.0 a 199.9 20,000.00
+2.- Área de Maquinaria y equipo......... $ 1'500,000.00
 
-200.0 a 499.9 30,000.00
+c).- Inspección y vigilancia anual de personas físicas:
 
-500.0 a 999.9 40,000.00
+1.- Área de Inmuebles industriales.......... $ 250,000.00
 
-1,000.0 a más 50,000.00
+2.- Área de Maquinaria y equipo............ $ 250,000.00
 
-4).- Instituciones de crédito emisoras de valores de renta fija colocados en el
+d).- Inspección y vigilancia anual de personas morales:
 
-extranjero............... $ 50,000.00 durante la vigencia de la emisión.
+1.- Área de Inmuebles Industriales.......... $ 750,000.00
 
-5).- Instituciones de crédito que emitan o suscriban otros títulos representativos de un pasivo a su cargo.............. $ 50,000.00 durante la vigencia de la emisión.
+2.- Área de Maquinaria y equipo............ $ 750,000.00
 
-6).- Instituciones de seguros que tengan sus acciones inscritas:
+II.- Sociedades operadoras de sociedades de inversión:
 
-Capital exhibido y reservas de capital en millones de pesos. Cuota
+a).- Por la autorización.............. $ 5'000,000.00
 
-1.0 a 19.9 $ 20,000.00
+b).- Por cada apertura de oficinas…….... $ 500,000.00
 
-20.0 a 39.9 25,000.00
+c).- Por la inspección y vigilancia anual de la sociedad........... $ 1'000,000.00
 
-40.0 a 59.9 30,000.00
+d).- Por la inspección y vigilancia anual, por cada oficina.......... $ 200,000.00
 
-60.0 a más 40,000.00
+III.- Sociedades en que las casas de bolsa sean accionistas y que presten a éstas servicios, o cuyo objeto sea auxiliar o complementario de las actividades que realicen, por concepto de inspección y vigilancia anual......... $ 500,000.00
 
-II.- Sección de intermediarios:
+IV.- Fondo de apoyo y garantía del mercado de valores, por concepto de inspección y vigilancia anual........... 1 al millar respecto de su activo neto, considerado a valor de mercado.
 
-Refrendo de inscripción y servicios de inspección y vigilancia por:
+V.- Instituciones para el Depósito de Valores, por concepto de inspección y vigilancia anual............. $ 10'000,000.00
 
-a).- Personas físicas............... $ 10,000.00
-
-b).- Personas morales............. 50,000.00
-
-c).- Sucursales de personas morales, por cada sucursal………… 10,000.00
-
-III.- Bolsas de valores:
-
-Cuota anual, por concepto de inspección y vigilancia............. $ 400,000.00
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-IV.- Las certificaciones de las inscripciones, suspensiones, cancelaciones y anotaciones marginales que obren en los legajos del Registro y de los demás contenidos en sus apéndices, así como certificaciones de no existir asientos de ninguna especie o de especie determinada sobre valores específicos o correspondientes a algún intermediario, y en general por cualquier certificación, por cada una de ellas............ 500.00
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 34.
 
-Para el efecto de determinar las cuotas de los derechos establecidos en el artículo anterior, cuando el cálculo respectivo deba hacerse con base en el capital social y reservas de capital, por el primero se entenderá el monto exibido (sic) y en su caso la prima sobre acciones, y por la segunda, la reserva legal y las demás que por estatutos o voluntariamente hayan constituido la asamblea de accionistas como adición al capital y provenientes de las utilidades.
+Para el efecto de determinar el monto de los derechos establecidos en esta Sección, cuando el cálculo respectivo deba hacerse con base en el capital social y reservas de capital, por el primero se entenderá el monto exhibido y en su caso la prima sobre acciones, y por las segundas, la reserva legal y las demás que por estatutos o voluntariamente hayan constituido la asamblea de accionistas como adición al capital y provenientes de las utilidades.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-Para la determinación de las cuotas, servirán de base los estados financieros dictaminados de los emisores de valores correspondientes al penúltimo ejercicio en relación con aquél que cubran los derechos respectivos; cuando se deba efectuar el cálculo de acuerdo al monto en circulación de los títulos o valores, éste se determinará al 30 de octubre del ejercicio inmediato anterior a aquél en que sea exigible el pago, fecha que también servirá de referencia para efectuar las determinaciones relativas a sucursales de agentes de valores personas morales.
+Para la determinación de los derechos, servirán de base los estados financieros dictaminados de los emisores de valores correspondientes al penúltimo ejercicio en relación con aquel que cubran los derechos respectivos; cuando se deba efectuar el cálculo de acuerdo al monto en circulación de los títulos o valores, así como del activo neto considerado a valor de mercado, ambos se determinarán al 30 de octubre del ejercicio inmediato anterior a aquel en que sea exigible el pago, fecha que también servirá de referencia para efectuar las determinaciones relativas a oficinas de casas de bolsa y sociedades operadoras de sociedades de inversión.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 En el caso de obligaciones y otros títulos representativos de un pasivo a cargo del emisor, la cuota aplicable se causará sobre el monto en circulación del total de emisores que tenga la sociedad.
 
-> <small>(F. DE E., D.O.F. 21 DE MAYO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 35.
 
-Los derechos de inscripción a que se refiere el artículo 32 de esta Ley, deberán pagarse dentro de los tres días siguientes al otorgamiento de la inscripción en el Registro Nacional de Valores e Intermediarios.
+Los derechos por inscripción o autorización a que se refieren los artículos 32 y 33-A, fracciones I y II, de esta Ley, respectivamente, deberán pagarse dentro de los tres días siguientes al otorgamiento de la inscripción en el Registro Nacional de Valores e Intermediarios, o de la autorización relativa.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Los derechos que se causen por el refrendo anual de la inscripción en el Registro, a que se refiere el párrafo anterior, así como los derivados de los servicios de inspección y vigilancia que presta la Comisión Nacional de Valores, deberán ser cubiertos en un solo pago que se efectuará durante el primer bimestre del ejercicio fiscal del contribuyente.
+Los derechos que se causen por el refrendo anual de la inscripción en el Registro a que se refiere el párrafo anterior, así como los derivados de los servicios de inspección y vigilancia que presta la Comisión Nacional de Valores, deberán ser cubiertos en un solo pago que se efectuará durante el primer bimestre de cada año de calendario.
 
 ###### ARTICULO 36.
 
 Las bolsas de valores se abstendrán de inscribir valor alguno, mientras el emisor de que se trate no les exhiba la documentación que acredite el cumplimiento de la obligación de pago a que aluden los artículos precedentes.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 37.
 
-El pago de los derechos a que se refiere esta sección se efectuará en la Comisión Nacional de Valores y quedará afecto a la propia Comisión.
+Los ingresos que se obtengan por los derechos a que se refiere esta Sección, se destinarán a la Comisión Nacional de Valores, para cubrir sus gastos de operación, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que exceda del límite señalado en este artículo, no tendrán fin específico.
+
+Los derechos relativos al mercado de valores que hayan sido pagados, no serán devueltos aun cuando el trámite a que correspondan no llegue a cumplirse por alguna circunstancia imputable al contribuyente o termine en forma adversa a éste.
 
 #### SECCION SEXTA. Máquinas Registradoras de Comprobación Fiscal
 
@@ -1391,11 +1307,11 @@ Los interesados dispondrán de 3 días hábiles para el retiro de sus mercancía
 
 Los almacenistas serán responsables de cualquier omisión en el cobro de los derechos de almacenaje, originada por la inexactitud del lugar en que los efectos hayan estado depositados, así como por la indebida entrega de mercancías que ya estén abandonadas, o no se haya pagado, parcial o totalmente el derecho de almacenaje.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 49.
 
-Por los servicios de trámite aduanero de importación prestados a petición del contribuyente, se pagará el derecho de trámite aduanero que será igual al dos al millar del valor que tengan los bienes para efectos del impuesto general de importación. El pago de este derecho se hará conjuntamente con el citado impuesto general de importación y se destinará por la Secretaría de Hacienda y Crédito Público para mejorar el funcionamiento de la administración aduanera.
+Por los servicios de trámite aduanero de importación prestados a petición del contribuyente, se pagará el derecho de trámite aduanero que será igual al seis al millar del valor que tengan los bienes para efectos del impuesto general de importación. El pago de este derecho se hará conjuntamente con el citado impuesto general de importación y se destinará, el dos al millar del citado derecho, a la Secretaría de Hacienda y Crédito Público para mejorar el funcionamiento de la administración aduanera; el cuatro al millar restante, no tendrá destino específico.
 
 Cuando por la importación de mercancías no se deba pagar dicho impuesto general, el derecho se determinará sobre el valor normal de las citadas mercancías, las que no deberán retirarse del depósito ante la aduana sin que el derecho de trámite sea enterado.
 
@@ -1435,9 +1351,11 @@ La Secretaría de Hacienda y Crédito Público determinará la forma de pago de 
 
 Para los efectos de la fracción I del artículo 50 de esta Ley, en ningún caso la cantidad que resulte de aplicar las tasas a que se refiere dicha fracción, podrá ser inferior a un día de sueldo de los empleados que hayan sido designados para prestar el servicio.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 50-B.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1984)
+Para los efectos de los artículos 49 y 50 de esta Ley, Petróleos Mexicanos no estará obligado al pago de los derechos de trámite aduanero a que se refieren dichos preceptos por el aprovisionamiento de combustible a embarcaciones de matrícula extranjera arrendados por dicho organismo para la realización de los fines que le son propios.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1531,9 +1449,9 @@ j).- Cambio de capacidad.............. 200.00
 
 k).- Cambio de todas aquellas partes que modifiquen substancialmente la estructura original de los vehículos............... 200.00
 
-l).- Aviso de robo............. 200.00
+l).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
-m).- Recuperación de vehículo robado.............. 50.00
+m).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 n).- Aviso de baja por destrucción o explotación definitiva............... 50.00
 
@@ -1765,9 +1683,11 @@ Por sustentar el examen para actuar como perito, a que se refiere el Reglamento 
 
 Cuando por causas no imputables a los solicitantes de asignaciones o concesiones mineras, fuere necesario reponer o modificar algún registro o trámite, no se pagarán los derechos correspondientes a la reposición o modificación.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 61.
 
-Los derechos a que se refieren los artículos 57 al 59 de esta Ley, se destinarán a los gastos que requieran la Dirección General de Minas, las Delegaciones Regionales de Minería y las Agencias de Minería, para su mejor funcionamiento.
+Los ingresos que se obtengan por los derechos a que se refieren los artículos 57 al 59 de esta Ley, se destinarán a la dependencia prestadora del servicio, para cubrir sus gastos de operación hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que exceda el limite señalado, no tendrá fin específico.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -1933,13 +1853,13 @@ III.- Por el registro y expedición del título en caso de:
 
 a).- Nueva solicitud............ 2.000.00
 
-> <small>(REFORMADO,D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-b).- Una marca que haya caducado o extinguido y sea solicitada por su titular dentro del año inmediato posterior a la fecha de caducidad o extinción y se aplique de uno a nueve productos o servicios de una misma clase.......... 66,500.00
+b).- Una marca que haya caducado, extinguido o cancelado voluntariamente y sea solicitada por su titular dentro del año inmediato posterior a la fecha de caducidad, extinción o cancelación voluntaria y se aplique de uno a nueve productos o servicios de una misma clase....... 237,000.00
 
-> <small>(REFORMADO,D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-c).- Una marca que haya caducado o extinguido y sea solicitada por su titular dentro del año inmediato posterior a la fecha de caducidad o extinción y se aplique a diez o más productos o servicios de una misma clase, o bien, a toda una clase......... 100,000.00
+c).- Una marca que haya caducado, extinguido o cancelado voluntariamente y sea solicitada por su titular dentro del año inmediato posterior a la fecha de caducidad, extinción o cancelación voluntaria y se aplique a diez o más productos o servicios de una misma clase, o bien, a toda una clase.......... 357,000.00
 
 IV.- Por el registro de la fusión de titulares o de la transmisión de los derechos que confiere una marca o que puedan derivarse de una solicitud en trámite, por el registro de usuario autorizado o de modificación de contrato de autorización de uso, por el cambio de nombre del solicitante o del titular de una marca. por cada uno de los actos enunciados $1.000.00
 
@@ -2099,15 +2019,11 @@ Por los servicios que presta la Comisión Nacional de Inversiones Extranjeras, s
 
 Cuota
 
-> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-I.- Transmisión de acciones o partes Una cuota fija de $250.00 más el 1 al millar
+I.- Transmisión de acciones o partes sociales Una cuota fija de $ 425.00 más el 2 al millar
 
-sociales entre inversionistas extranjeros, sobre el monto de la operación sin exceder de la
-
-sobre el monto de la operación hasta de cuota de $20,000.00
-
-$250,000.00
+entre inversionistas extranjeros sobre el monto de la operación.
 
 II.- Apertura, ampliación o relocalización de
 
@@ -2125,21 +2041,21 @@ IV.- Iniciación de nuevas líneas de productos,
 
 por cada una 5,000.00
 
-V.- Suscripción y pago de aumentos de 1 al millar sobre el monto de la operación, sin
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-capital por parte de inversionistas extranjeros exceder de la cuota de $50,000.00
+V.- Suscripción y pago de aumentos de 2 al millar sobre el monto de la operación.
+
+capital por parte de inversionistas extranjeros
 
 en sociedades mexicanas
 
-> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-VI.- Adquisición por inversionistas extranjeros Una cuota fija de $250.00 más el 1 al millar
+VI.- Adquisición por inversionistas extranjeros Una cuota fija de $ 425.00 más el 2 al millar
 
-de acciones emitidas por sociedades sobre el monto de la operación, sin exceder de
+de acciones emitidas por sociedades sobre el monto de la operación.
 
-mexicana, sobre el monto de la operación la cuota de $20,000.00
-
-hasta de $250,000.00
+mexicanas
 
 VII.- Constitución de fideicomisos en los que 1 al millar sobre el monto de la operación, sin
 
@@ -2151,13 +2067,17 @@ inmuebles, condominios tiempo completo o
 
 miembros de clubes ubicados en el extranjero 100,000.00
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 IX.- Replanteamientos o reconsideraciones a
 
-resoluciones específicas, por solicitud 2,500.00
+resoluciones específicas o condiciciones 8,500.00
 
-X.- Adquisición de activos fijos, sobre el Una cuota fija de 125.00 más el 1 al millar sobre
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-monto de la operación hasta de 250,000.00 el monto de la operación, sin exceder de la cuota de $10,000.00
+X.- Adquisición de activos fijos Una cuota fija de $ 425.00 más el 2 al millar
+
+sobre el monto de la operación.
 
 XI.- Constituciones de sociedades con
 
@@ -2184,6 +2104,16 @@ c) Para cumplir con compromisos:
 2) Por la segunda prórroga 7,500.00
 
 3) Por la tercera prórroga o subsecuentes 10,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+XIV.- Por aumento de capital social por 2.5 al millar sobre el monto de la inversión.
+
+inversión de extranjeros en empresas
+
+mexicanas utilizando el sistema de sustitución
+
+de deuda pública por inversión
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -2435,6 +2365,14 @@ Por el suministro de agua en bloque proveniente de obras hidráulicas, se pagar�
 
 Este derecho no se aplicará a los distritos y unidades de riego.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+Los contribuyentes del derecho por suministro de agua en bloque, calcularán sus pagos provisionales con base en el presupuesto señalado en el primer párrafo de este artículo y en su declaración del ejercicio calcularán el derecho anual conforme al presupuesto ejercido durante ese año por la Secretaría de Agricultura y Recursos Hidráulico, según el sistema de agua que corresponda y deducirán sus pagos provisionales.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+Cuando el presupuesto ejercido a que se refiere el párrafo anterior sea inferior al presupuesto autorizado inicialmente, los contribuyentes podrán compensar su saldo a favor contra el segundo pago provisional a su cargo correspondiente al siguiente ejercicio, o bien, solicitar su devolución.
+
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 83-A.
@@ -2451,15 +2389,15 @@ Por los servicios de riego y drenaje que se proporcionen en los distritos y unid
 
 Las cuotas por el servicio de riego y drenaje en los distritos y unidades de riego, serán en la cantidad necesaria para cubrir los costos de operación y mantenimiento de las obras de infraestructura en cada distrito o unidades de riego. Los Comités Directivos de cada distrito de riego o las asociaciones de usuarios de las unidades de riego propondrán para su aprobación a la Secretaría de Hacienda y Crédito Público, en consulta con la Secretaría de Agricultura y Recursos Hidráulicos, las cuotas calculadas por el volumen que deben cubrir los usuarios.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 83-C.
 
-Los ingresos que se obtengan por los derechos que se establecen en los artículos 83 y 83-B de esta Ley, se destinarán a la Secretaría de Agricultura y Recursos Hidráulicos.
+Los ingresos que se obtengan por los derechos que se establecen en el artículo 83 de esta Ley, se destinarán a la Secretaría de Agricultura y Recursos Hidráulicos.
 
-Tratándose del derecho por suministro de agua, los ingresos se aplicarán a cubrir los gastos de operación y conservación de las obras hidráulicas hasta el monto que señale el presupuesto que hubiera sido autorizado para tal efecto, los ingresos que excedan no tendrán un fin específico.
+Tratándose del derecho por suministro de agua, los ingresos se aplicarán a cubrir los gastos de operación y conservación de las obras hidráulicas hasta el monto que señale el presupuesto que hubiera sido autorizado para tal efecto; los ingresos que excedan no tendrán un fin específico.
 
-En el caso del derecho de riego, los ingresos se aplicarán a cubrir los gastos de operación, conservación y mantenimiento del distrito o unidad de riego en que se obtengan.
+Los ingresos que se obtengan por los derechos a que se refiere el artículo 83-B, se destinarán a la dependencia, órgano u organismo que proporcione los servicios de riego, para cubrir sus gastos de operación, conservación, mantenimiento e inversión hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que exceda el limite señalado en este artículo, no tendrá fin específico.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -2731,31 +2669,13 @@ a).- Por llamada............ 190.00
 
 b).- Por enlace, se aplicarán las mismas cuotas para el servicio télex internacional que establece esta Ley.
 
-(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984) (F. DE E., D.O 4 DE MARZO DE 1985)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-III.- Servicio internacional de telecarta, por suscriptor télex.
+III.- Por elaboración del mensaje, por cada página............. 500.00
 
-País o lugar Por las primeras Por cada grupo de 50 palabras
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-de destino 50 palabras o menos de texto adicional
-
-1.- Alaska, Estados Unidos de
-
-América $ 713.00 $ 420.00
-
-2.- Canadá 789.00 420.00
-
-3.- Estados Unidos de
-
-América 661.00 315.00
-
-4.- Hawai, Estados Unidos de
-
-América 600.00 390.00
-
-Los contribuyentes que utilicen el servicio télex público o fonotelegrafía, pagarán las mismas cuotas del inciso anterior, más $300.00 por el servicio del puesto público.
-
-Para los efectos de esta fracción, el contribuyente que solicite el servicio deberá pagar los derechos por cada llamada que realice.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -2765,283 +2685,171 @@ Por el servicio de recepción de mensajes nacionales e internacionales en las ca
 
 El pago del derecho a que se refiere este artículo se efectuará en el momento en que el destinatario reciba el mensaje.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 94.
 
-Por el servicio nacional e internacional de transmisión de señales de datos en modo duplex durante 24 horas diarias, por períodos no menores de un mes permitiendo que el contribuyente conmute sus señales, se pagará el derecho de transmisión de señales de datos conforme a las siguientes cuotas:
+Por el servicio nacional e internacional a través de la red pública de transmisión de señales de datos TELEPAC, se pagará el derecho de transmisión de señales de datos conforme a las siguientes cuotas:
 
-A.- Servicio nacional. Cuota
+A.- Servicio Permanente.
 
-I.- Por suscripción, por contribuyente $ 10,000.00
+I.- Por suscripción............. $ 12,000.00
 
-II.- Por conexión de la terminal al sistema por puerto:
+II.- Por cada cambio de identificador de red asignado............ $ 4,500.00
 
-> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
+III.- Por conexión:
 
-Cuotas por Puerto
+a).- Por puerto
 
-Velocidad en bits Por enlace Por red
+1.- Por enlace dedicado............ $ 20,500.00
 
-por segundo local conmutada
+2.- Por red conmutada............ $ 5,100.00
 
-De 50 a 1,200 $ 3,000.00
+IV.- Por cada identificador de red asignado, mensualmente........... $ 7,000.00
 
-De 2,400 a 9,600 12,000.00
+V.- Por uso de puerto mensualmente:
 
-III.- Por tiempo de conexión.
+a).- Modalidad asíncrona:
 
-> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
+1.- Por enlace dedicado........... $ 17,000.00
 
-Cuotas por minuto
+2.- Por red conmutada............. $ 1,700.00
 
-Velocidad en bits Por enlace Por red
+b).- Modalidad síncrona::
 
-por segundo local conmutada
+1.- Por enlace dedicado............ $ 34,000.00
 
-De 50 a 9,600 $ 6.00 $ 6.00
+B.- Servicio nacional por enlace dedicado o por red conmutada, mensualmente:
 
-IV.- Por cada cantidad de información.
+I.- Por cantidad de información por kilosegmento............ $ 280.00
 
-Cuotas por kilopaquete
+II.- Por tiempo de conexión, por minuto............ $ 10.00
 
-Velocidad en bits Por enlace Por red
+C.- Servicio Internacional, por enlace dedicado o por red conmutada, mensualmente:
 
-por segundo local conmutada
+País o lugar Por tiempo de Por cantidad de
 
-De 50 a 9,600 $ 200.00 $ 200.00
+de destino conexión por minuto. información, por
 
-V.- Por uso de puerto.
+kilosegmento.
 
-Velocidad en bits Por enlace Por red
+a) Europa $ 123.50 $ 8,800.00
 
-por segundo local conmutada
+b) Africa, Asia y Oceanìa $ 161.50 $ 13,200.00
 
-De 50 a 1,200 modalidad
+c) Centroamèrica,
 
-asícrona $ 10,000.00 $ 1,000.00
+Sudamèrica y el Caribe $ 123.50 $ 8,800.00
 
-De 2,400 a 9,600
+d) Estados Unidos de
 
-modalidad síncrona 20,000.00 2,000.00
+América y Canadá $ 104.50 $ 5,500.00
 
-B.- Servicio internacional.
+D.- Servicios opcionales.
 
-I.- Por tiempo de conexión.
+I.- Por emisión de informes detallados............ $ 10,000.00
 
-Cuotas por Minuto
+II.- Por grupo cerrado de abonados:
 
-País o lugar Por enlace local Por red conmutada
+Cuota por instalación Cuota mensual
 
-de destino 50 a 9,600 bits 50 a 1,200 bits
+a) Por cada estación $ 8,670.00 $ 4,000.00
 
-por segundo por segundo
+III.- Por circuitos virtuales
 
-a).- Europa $ 28.00 $ 28.00
+permanentes, por cada uno. $ 30,000.00 $ 10,000.00
 
-b).- Africa, Asia y
+E.- Para la aplicación de las cuotas a que se refiere este artículo, se observarán las siguientes reglas:
 
-Oceanía 35.00 35.00
+I.- Las velocidades de transmisión para el acceso a TELEPAC, serán las siguientes:
 
-c).- Centroamérica,
+a).- Para enlaces vía red conmutada de 300 a 1,200 bits por segundo.
 
-Sudamérica y el Caribe 28.00 28.00
+b).- Para enlaces dedicados de 300 a 9,600 bits por segundo.
 
-d).- Estados Unidos de
+II.- Para el uso de puerto, se utilizarán los siguientes tipos de transmisión:
 
-América y Canadá 23.00 23.00
+a).- Modalidad asíncrona de 300 a 1,200 bits por segundo.
 
-II.- Por cantidad de información:
+b).- Modalidad síncrona de 2,400 a 9,600 bits por segundo.
 
-Cuotas por kilopaquete
+III.- Si la terminal del contribuyente se encuentra ubicada en una población donde no existe un nodo de la red de transmisión de datos, el acceso podrá efectuarse por medio de una llamada telefónica de larga distancia al nodo más cercano o por medio de un circuito de larga distancia a dicho nodo, para lo cual el contribuyente deberá pagar por separado los cargos correspondientes a la llamada telefónica de larga distancia o las cuotas que para el establecimiento de un circuito que para servicio de conducción de señales de datos por microondas, establece esta Ley.
 
-País o lugar Por enlace local Por red conmutada
-
-de destino 50 a 9,600 bits 50 a 1,200 bits
-
-por segundo por segundo
-
-a).- Europa $ 2,400.00 $ 2,400.00
-
-b).- Africa, Asia y
-
-Oceanía 3,600.00 3,600.00
-
-c).- Sudamérica,
-
-Centroamérica y el Caribe 2,.400.00 2,400.00
-
-d).- Estados Unidos de
-
-América y Canadá 1,500.00 1,500.00
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Por enlace Por red
-
-Local Conmutada
-
-C.- Por cada cambio
-
-de identificador de
-
-red asignado $ 2,647.00 $ 2,647.00
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Si la terminal del contribuyente, se encuentra ubicada en una población donde no existe un nodo de la red de transmisión de datos, éste podrá tener acceso a ella por medio de un enlace de larga distancia sin incrementar el derecho correspondiente, por enlace local señalado en este artículo. Los cargos por enlace de larga distancia no están incluidos en las cuotas de este derecho.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Cuando el contribuyente opere su terminal a una velocidad de hasta 1,200 bits por segundo, podrá conectarla a la red de transmisión de datos a través de las redes conmutadas telefónica o télex, en vez de hacerlo por medio del enlace local o de larga distancia, en cuyo caso los cargos adicionales por enlace corresponderán a los que resulten de aplicar las cuotas por conferencia telefónica o mensaje, respectivamente, local o de larga distancia, según sea el caso.
-
-D.- Por el servicio internacional de transmisión de mensajes financieros, se pagará el derecho conforme a las cuotas establecidas en este artículo que correspondan.
-
-E.- Para la aplicación de los derechos a que se refiere este artículo, los términos empleados tienen el siguiente significado:
-
-Baud.- Unidad de rapidez de modulación o de velocidad telegráfica.
-
-Bit.- Unidad de cantidad de información, dígito binario.
-
-Octeto.- Es la cantidad de información de un carácter compuesto por ocho bits.
-
-Kilocteto.- Mil veinticuatro octetos.
-
-Kilopaquete.- Ciento veintiocho kiloctetos.
-
-El contribuyente al contratar el servicio pagará los derechos por suscripción y conexión de su terminal; los demás derechos se aplicarán de conformidad con el uso del servicio y se pagarán por mes vencido, de acuerdo a las cuotas señaladas por el mismo.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Para efectos de la aplicación de lo dispuesto en los Apartados A fracción IV y B fracción II de este artículo, la cantidad de información cursada durante el mes calendario se acumulará y en caso de existir fracción de kilopaquete, ésta se ajustará a la unidad inmediata superior. El contribuyente al solicitar el servicio pagará los derechos por suscripción y conexión indicados en el Apartado A fracciones I y II.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 95.
 
-Por el servicio nacional de consulta a bancos de datos, se pagará el derecho de consulta de datos conforme a las siguientes cuotas:
+Por el servicio permanente internacional de transmisión de mensajes financieros SWIFT, se pagará mensualmente el derecho de transmisión de mensajes, conforme a las siguientes cuotas:
 
-I.- Servicio nacional permanente de consulta a información sobre reservaciones de espacios a través de la red de transmisión de señales de datos.
+I.- Por tiempo de conexión, por minuto o fracción............. $ 104.50
 
-Por acceso: Cuota por mes
+II.- Por cantidad de información por kilosegmento o fracción.......... $ 13,604.00
 
-Velocidad en bits Enlace Red
+III.- Por acceso, por puerto.......... $ 17,000.00
 
-por segundo local conmutada
-
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984) (F. DE E. D.O. 4 DE MARZO DE 1985)
-
-De 50 a 9,600 $ 23,500.00 $ 23,500.00
-
-Adicionalmente a la cuota anterior, los contribuyentes de este servicio cubrirán las cuotas del servicio de transmisión de señales de datos para el servicio nacional, según proceda.
-
-II.- Servicio nacional permanente de consulta a información meteorológica que se prestará mediante la red de meteorología.
-
-Por acceso: Cuota por mes
-
-Velocidad en bits Enlace
-
-por segundo local
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Hasta 1,200 $ 53,000.00
-
-Esta cuota no incluye el enlace local entre la terminal y el banco de datos.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 96.
 
-Por el servicio de conducción unidireccional de señales de televisión, imagen monocromática o a color y sonido asociado a larga distancia a través de la red de microondas, se pagará el derecho de conducción de señales conforme a las siguientes cuotas:
+Por el servicio nacional de conducción unidireccional de señales de televisión, imagen y audio asociado punto a punto, por el sistema de microondas, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
 
-I.- Servicio permanente que se presta para conducir una señal entre las mismas estaciones de recepción o entrega de la red, conforme a los mismos horarios y enlaces, durante todos los días del mes:
+I.- Servicio permanente que se presta para conducir una señal durante todos los días del mes, conforme a los mismo horarios y enlaces, mensualmente:
 
-> <small>(REFORMADO ENCABEZADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+a).- Por cada derivación, por cada hora o fracción diaria............ $ 31,500.00
 
-Cuotas mensuales
+b).- Por enlace, por cada hora o fracción diaria y por cada kilómetro:
 
-De las 6:00 De las 14:00
+1.- Por cada uno de los primeros 500 kilómetros.......... $ 900.00
 
-a las 14:00 a las 2:00
+2.- Por cada uno de los siguientes 500 kilómetros a partir de 501 kilómetros.......... $ 600.00
 
-Horas Horas
+3.- Por cada kilómetro adicional a partir de 1,001 kilómetros.......... $ 400.00
 
-a) Por cada derivación,
+c).- Por cada enlace internacional, por cada hora o fracción diaria........... $ 25,500.00
 
-por cada hora o fracción
+II.- Servicio recurrente que se presta para conducir una señal conforme a los mismos horarios y enlaces con una periodicidad no mayor de una semana entre cada servicio, proporcionándose únicamente en forma adicional a los servicios permanentes, por cada día:
 
-diaria $ 7,960.00 $ 11,940.00
+a) Por cada derivación, por cada hora o fracción........... $ 2,400.00
 
-b) Por enlace, por cada
+b) Por enlace, por cada hora o fracción y por cada kilómetro:
 
-hora o fracción diaria
+1.- Por cada uno de los primeros 500 kilómetros........... $ 70.00
 
-y por cada kilómetro
+2.- Por cada uno de los siguientes 500 kilómetros a partir de 501 kilómetros.......... $ 45.00
 
-o fracción 134.00 201.00
+3.- Por cada kilómetro adicional a partir de 1,001 kilómetros......... $ 30.00
 
-c) Por enlace internacional,
+c) Por cada enlace internacional, por cada hora o fracción diaria......... $ 2,000.00
 
-por cada uno, por cada
-
-hora o fracción diaria 10,500.00 15,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-II.- Servicio recurrente que se presta para conducir una señal entre las mismas terminales de recepción o entrega, conforme a los mismos horarios y enlaces con una periodicidad no mayor de una semana entre cada servicio y se suministrará únicamente en forma adicional a los servicios permanentes que estén contratados.
-
-Cuotas por Cuota mensual
-
-cada día de
-
-la semana
-
-a) Por cada derivación, por cada
-
-hora o fracción diaria $ 900.00
-
-b) Por enlace, por cada hora o
-
-fracción diaria y por cada
-
-kilómetro o fracción 15.00
-
-c) Por enlace internacional,
-
-por cada hora o fracción diaria $ 6,000.00
-
-III.- Servicio eventual que se prestará para conducir una señal por una sola vez entre las estaciones de recepción y entrega de la red y conforme al horario y enlace definidos para esa ocasión.
-
-Cuota por cada ocasión
+III.- Servicio eventual que se presta para conducir una señal por una sola vez, conforme al horario y enlace definido para esa ocasión:
 
 a) Por cada derivación:
 
-1) Por los primeros 10 minutos $ 1,195.00
+1.- Por los primeros 10 minutos............. $ 3,000.00
 
-2) Por cada minuto adicional 40.00
+2.- Por cada minuto adicional........... $ 110.00
 
-b) Por enlace:
+b) Por cada enlace:
 
-1) Por los primeros 10 minutos y por cada kilómetro
+Por los primeros Por cada minuto
 
-o fracción $ 19.00
+10 minutos. adicional.
 
-2) Por cada minuto adicional y por cada kilómetro
+1.- Por cada uno de los primeros 500 kilómetros $ 90.00 $ 3.00
 
-o fracción 0.65
+2.- Por cada uno de los siguientes 500 kilómetros
 
-3) Por conexión internacional, por cada una y por
+a partir de 501 kilómetros $ 60.00 $ 2.00
 
-cada ocasión 19,890.00
+3.- Por cada kilómetro adicional a partir de 1,001
 
-En el caso de que en una estación de la red se soliciten varias derivaciones de la misma señal por contribuyente distinto de aquel que solicitó la conducción de dicha señal en esta estación, se podrán hacer siempre que éste último dé su autorización para ello y se aplicará la cuota correspondiente, según se trate del servicio permanente, recurrente o eventual.
+Kilómetros $ 45.00 $ 1.50
 
-Cuando en algunas ocasiones el servicio permanente o el recurrente se utilice en exceso del horario contratado se aplicará a la ampliación de horario los cargos correspondientes al servicio eventual.
+c) Por cada conexión internacional .............. $ 50,000.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+En el caso de que en una estación de la red se soliciten varias derivaciones de la misma señal por contribuyente distinto de aquél que solicitó la conducción de dicha señal en esta estación, se podrán hacer siempre que este último dé su autorización para ello y se aplicará la cuota correspondiente, según se trate del servicio permanente, recurrente o eventual.
 
-La longitud que servirá de base para la aplicación de las cuotas por enlace de los servicios de conducción de señales a través del sistema nacional de microondas, será la distancia aérea entre las estaciones de dicho sistema en que se conduzca la señal, determinada por el método geodésico de Jeppesen para cálculo de distancias a partir de coordenadas geográficas.
+La longitud de los enlaces a que se refiere este artículo, se determinará en forma individual para cada enlace, tomando como referencia el punto en que se origina la señal y el punto en que se entrega ésta, aun cuando se trate del mismo contribuyente.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -3099,13 +2907,15 @@ II.- Por la segunda señal, solo de imagen se aplicará el 50% de las cuotas que
 
 III.- Por la señal de sonido asociado a la de imagen de la fracción anterior, se aplicarán tres veces las cuotas por el servicio de conducción de una señal de voz.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 99.
 
-Por el servicio permanente de conducción de señales de voz dúplex o semidúplex entre dos o más estaciones de la red de microondas, durante 24 horas diarias, por períodos no menores de una mes, con un ancho de banda mínima de 2,700 hertz y máximo de 3,100 hertz, permitiendo que el contribuyente conmute su señal y sin incluir el enlace local, se pagará el derecho de conducción de señales conforme a las siguientes cuotas:
+Por el servicio nacional de conducción de señales de voz, punto a punto, dúplex o semidúplex por el sistema de microondas, con un ancho de banda mínimo de 2,700 hertz y máximo de 3,100 hertz, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
 
-I.- Servicio general de larga distancia:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+I.- Servicio permanente de larga distancia que se presta para conducir una señal conforme a los mismo enlaces, durante todos los días del mes, por circuito unitario, punto a punto, mensualmente:
 
 Cuota por mes
 
@@ -3139,81 +2949,25 @@ c).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1984)
 
 d).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1985)
 
-II.- Las cuotas del servicio permanente de conducción de señales de voz correspondientes al inciso b) de la fracción I de este artículo, serán aplicables al circuito unitario en grado de voz punto a punto.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-a).- Por los diferentes grupos de circuitos en grado de voz punto a punto, se aplicará a la cuota del circuito unitario los siguientes descuentos:
+II.- Por los diferentes grupos de circuitos, en grado de voz punto a punto, se aplicará a la cuota del circuito unitario, los siguientes descuentos:
 
-Descuento sobre la
+a) Por grupo de 12 circuitos............. 9%
 
-cuota del circuito de
+b) Por supergrupo de 60 circuitos............ 18%
 
-voz unitario
+c) Por supergrupo maestro de 300 circuitos……… 25%
 
-1.- Por grupo 12 circuitos 10%
+d) Por supergrupo maestro de 900 circuitos………. 40%
 
-2.- Por super grupo 60 circuitos 20%
+e) Por banda base de 960, 1800 y 2700 circuitos……… 54%
 
-3.- Por grupo maestro 300 circuitos 28%
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-4.- Por super grupo maestro 900 circuitos 60%
+III.- Para la determinación de las cuotas a que se refiere este artículo, la longitud que servirá de base para la aplicación de las cuotas de los circuitos en grado de voz desde un grupo hasta en banda base, a que se refiere este artículo se determinará acumulativamente para el total de los enlaces en cada uno de estos agrupamientos.
 
-III.- Servicio de conducción de señales de voz y música de larga distancia para la radiodifusión.
-
-a).- Servicio permanente de conducción de señales de voz, se aplicarán las cuotas para esta clase de servicio de la fracción I, de este artículo.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-b).- Servicio permanente de conducción de señales de música a través de canales con un ancho de banda de 10 a 12 kilohertz, se aplicarán las cuotas de la fracción I, multiplicadas por tres.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-c).- Servicio eventual que se prestará por conducir una señal de voz por una sola vez entre las estaciones de recepción y entrega de la red, conforme al horario y enlaces definidos para esa ocasión, por cada ocasión de un día o más.
-
-Cuotas
-
-Porciento de la cuota
-
-mensual del servicio permanente
-
-1.- Primero y segundo día, por cada día 10.00%
-
-2.- Del tercero al décimo día, por cada día 5.00%
-
-3.- Del décimo primer día en adelante, por cada día 4.00%
-
-La suma de estas cuotas no será superior al importe de la cuota mensual del servicio permanente.
-
-4.- (DEROGADO, D.O.F. 31 DE DICIMBRE DE 1985)
-
-5.- (DEROGADO, D.O.F. 31 DE DICIMBRE DE 1985)
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-d).- Por cada ocasión de menos de un día, por los primeros 10 minutos........ Se aplicará treinta veces la cuota por minuto del servicio nacional de conferencia telefónica diurna de larga distancia teléfono a teléfono.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-e).- Por cada minuto adicional............ Se aplicará la cuota por minuto del servicio nacional de conferencia telefónica diurna de larga distancia teléfono a teléfono.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-f).- En el servicio eventual de conducción de señales de música a través de canales con un ancho de banda de 10 a 12 Kilohertz, se pagarán las cuotas del inciso c) de esta fracción, multiplicadas por tres.
-
-IV.- Para la aplicación de las cuotas a que se refiere este artículo, se observarán las siguientes reglas:
-
-a).- La longitud que servirá de base para la aplicación de las cuotas por enlace será la distancia aérea entre las estaciones de la red en que se conduzca la señal, calculada en los términos de procedimiento a que alude el artículo 96 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-b).- La longitud de los enlaces punto a punto y multipunto, se determinará individualmente para cada uno de ellos, aun cuando se trate del mismo contribuyente.
-
-c).- (DEROGADO PRIMER PARRAFO, 31 DE DICIEMBRE DE 1985)
-
-> <small>(DEROGADO SEGUNDO PARRAFO, 31 DE DICIEMBRE DE 1985)</small>
-
-La longitud que servirá de base para la aplicación de las cuotas de los circuitos en grado de voz desde un grupo hasta en banda base a que alude la fracción II, inciso a) de este artículo, se determinará acumulativamente y se facturará al total de la distancia en cada uno de estos agrupamientos.
-
-d).- En el supuesto de que en una estación de la red se solicite la distribución de las misma señal, la cuota correspondiente se aplicará tantas veces como derivaciones se hayan pedido.
+IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -3223,51 +2977,79 @@ V.- Para los circuitos urbanos, se pagarán las cuotas autorizadas a los concesi
 
 Cuando la dependencia prestadora del servicio no lo proporcione por la red de microondas sino por otro sistema, procederá el derecho establecido en este artículo.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 100.
 
-Por el servicio a larga distancia, de conducción de señales de facsímil o de telefotografía dúplex o semidúplex, entre dos o más estaciones de la red de microondas, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
+Por el servicio nacional de conducción de señales unidireccionales de teleaudición, voz y música para radiodifusión, por el sistema de microondas, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
 
-I.- Para conducción de señales de facsímil o telefotografía de un solo tipo o alternadas con telegrafía se aplicarán las cuotas del servicio permanente de conducción de señales de voz, incrementadas en un 25%.
+I.- Por el servicio permanente de larga distancia que se presta para conducir una señal conforme a los mismos enlaces durante todos los días del mes, se aplicarán las mismas cuotas del servicio permanente de conducción de señales de voz que señala esta Ley.
 
-II.- Por el servicio de mensajes de facsímil:
+II.- Por el servicio eventual de larga distancia, que se presta para conducir una señal, por una sola vez, conforme al enlace definido por cada ocasión de un día o más.
 
-a).- Por el servicio de transmisión de mensajes del público a un contribuyente del servicio de facsímil, por cada página........... $160.00
+a) Por cada circuito en grado de voz:
 
-b).- Por el servicio de recepción de mensajes de facsímil de un contribuyente al público, por cada mensaje........... 177.00
+Porciento de la cuota
 
-No se incluye la cuota correspondiente a la llamada telefónica de larga distancia.
+mensual del servicio
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+permanente.
+
+1.- Primero y segundo día, por cada día 10%
+
+2.- Del tercero al décimo día, por cada día 5%
+
+3.- Del décimo primer día en adelante por cada día 4%
+
+La suma de estas cuotas no será superior al importe de la cuota mensual del servicio permanente.
+
+b).- Por cada señal con duración de menos de un días, por ocasión:
+
+1.- Por los primeros 10 minutos, se aplicará 30 veces la cuota por minuto del servicio nacional de conferencia telefónica diurna de larga distancia teléfono a teléfono.
+
+2.- Por cada minuto adicional, se aplicará la cuota por minuto del servicio nacional de conferencia telefónica diurna de larga distancia teléfono a teléfono.
+
+III.- Para la aplicación de las cuotas a que se refiere este artículo, se observarán las siguientes reglas:
+
+a).- Cuando la misma señal se conduzca a varios puntos, la longitud de los enlaces entre ellos, se determinará de manera tal que el enlace entre cada par de puntos se efectúe por el circuito físico disponible.
+
+b).- Por los circuitos urbanos, se pagarán las cuotas autorizadas a los concesionarios del servicio público de conferencias telefónicas.
 
 ###### ARTICULO 100-A.
 
-Por el servicio de conducción de señales de facsímil, en forma digital, de México a los Estados Unidos de Norteamérica, se pagará el derecho de conducción de señales conforme a la cuota de $706.00 por página transmitida.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
-La cuota anterior incluye únicamente la conducción electrónica del documento. El enlace entre el equipo de transmisión y las oficinas del usuario, serán por cuenta de éste.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 101.
 
-Por el servicio permanente a larga distancia de conducción de señales de datos, dúplex o semidúplex entre dos o más estaciones de la red de microondas durante 24 horas diarias, por períodos no menores de un mes, se pagará mensualmente el derecho de conducción de señales conforme a lo siguiente:
+Por el servicio nacional de conducción de señales de datos y facsímil, punto a punto, dúplex o semidúplex, con velocidades hasta de 9,600 bits por segundo por el sistema de microondas, se pagará mensualmente el derecho de conducción de señales, conforme a las siguientes cuotas:
 
-I.- Por cada señal de datos, se aplicarán las cuotas correspondientes del servicio permanente de conducción de señales de voz, incrementadas en los siguientes porcentajes de acuerdo a las velocidades de transmisión:
+I.- Servicio permanente de larga distancia que se presta para conducir una señal, conforme a los mismo enlaces, durante todos los días del mes, por circuito unitario, mensualmente:
 
-a).- Hasta 2400 bits por segundo 25%
+a).- Por derivación, por cada una......... $ 3,750.00
 
-b).- Hasta 4800 bits por segundo 100%
+b).- Por enlace:
 
-c).- Hasta 9600 bits por segundo 150%
+1.- Por cada uno de los primeros 75 kilómetros............. $ 700.00
 
-II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)
+2.- Por cada uno de los siguientes 255 kilómetros a partir de 76 kilómetros……... $ 375.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+3.- Por cada uno de los siguientes 300 kilómetros a partir de 301 kilómetros……… $ 200.00
+
+4.- Por cada uno de los siguientes 600 kilómetros a partir de 601 kilómetros……… $ 140.00
+
+5.- Por cada kilómetro adicional a partir de 1,201 kilómetros.......... $ 95.00
+
+6.- Por cada enlace internacional, el 10% de la cuota por enlace respectivo, más............ $ 38,000.00
+
+II.- Por los circuitos urbanos se pagarán las cuotas autorizadas a los concesionarios del servicio público de conferencias telefónicas.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 102.
 
-Por el servicio permanente, general a larga distancia de conducción de señales telegráficas dúplex o semidúplex, entre dos o más estaciones de la red de microondas, durante 24 horas diarias, por períodos no menores de un mes, para velocidades de 50, 75, 100 y 200 bauds, permitiendo que el usuario conmute su señal, sin incluir el enlace local, se pagará el derecho de conducción de señales conforme a las siguientes cuotas:
+Por el servicio nacional permanente de conducción de señales telegráficas punto a punto, dúplex o semidúplex, por el sistema de microondas, para velocidades de 50, 75, 100, 150 y 200 bauds, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
 
 A.- Por la primera señal:
 
@@ -3301,13 +3083,11 @@ a partir de 601 kilómetros 20.00
 
 6.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1985)
 
-c).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1984)
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-d) Por conexión:
+c).- Por cada enlace internacional el 10% de la cuota por enlace respectivo más......... 15,300.00
 
-1) Por cada conexión 1,717.00
-
-2) Por cada reconexión 586.00
+d) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 (REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 4 DE MARZO DE 1985)
 
@@ -3327,19 +3107,21 @@ B.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1985)
 
 C.- Para la aplicación de las cuotas a que este artículo se refiere, se observarán las siguientes reglas:
 
-I.- La longitud que servirá de base para la aplicación de las cuotas por enlace será la distancia aérea entre las estaciones de la red en que se conduzca la señal, calculada en los términos del procedimiento a que alude el artículo 96 de esta Ley.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+I.- Por los circuitos urbanos, se pagarán las cuotas autorizadas a los concesionarios del servicio público de conferencias telefónicas.
 
 II.- La longitud de los enlaces punto a punto se determinará individualmente para cada uno de ellos, aun cuando se trate del mismo contribuyente.
 
 III.- En el caso de que la señal se conduzca de manera tal que los enlaces constituyan una cadena, derivando la señal en las estaciones de la red, la longitud total de los enlaces se determinará por la distancia acumulada de todos los que constituyan la cadena, de acuerdo con las posibilidades físicas de continuidad de la red para el establecimiento de la cadena.
 
-IV.- En el caso de que en una estación de la red, se solicite la distribución de la misma señal, el derecho correspondiente se pagará tantas veces como derivaciones se hayan pedido.derecho correspondiente se pagará tantas veces como derivaciones se hayan pedido.
+IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1986)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 103.
 
-Por el servicio permanente a larga distancia destinado a la prensa nacional, agencia noticiosas e informativas nacionales, de conducción de señales telegráficas, dúplex o semidúplex, entre 2 o más estaciones de la red de microondas, durante 24 horas diarias, por períodos no menores de un mes, para velocidades de 50, 75 y 100 bauds, permitiendo que el usuario conmute su señal y sin incluir el enlace local, se pagará mensualmente el derecho de conducción de señales conforme a las siguientes cuotas:
+Por el servicio permanente a larga distancia destinado a la prensa nacional, agencias noticiosas e informativas nacionales, de conducción de señales telegráficas punto a punto, dúplex o semidúplex, por el sistema de microondas, para velocidades de 50, 75 y 100 bauds, se pagará mensualmente el derecho de conducción de señales, conforme a las siguientes cuotas:
 
 A.- Por la primera señal:
 
@@ -3367,599 +3149,523 @@ B.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1985)
 
 C.- Para la aplicación de las cuotas a que este artículo se refiere, se observarán las mismas reglas que señala el apartado C del artículo 102 de esta Ley, relativo al servicio permanente general a larga distancia de conducción de señales telegráficas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 103-A.
 
-Para los efectos de los artículos 96 y del 98 al 103 y del 108 al 112 de esta Ley, cuando el contribuyente solicite servicios internacionales que requieran la conexión de los sistemas nacionales con otros del extranjero, pagará, además del servicio por el tramo nacional conforme a las cuotas a que se refieren dichos artículos, por el tramo internacional las cantidades equivalentes que la Secretaría de Comunicaciones y Transportes tenga que pagar para poder proporcionar el servicio. Estas cantidades adicionales serán exigibles los días en que surtan sus efectos las notificaciones que realice esa Secretaría y se pagará dentro de los 5 días siguientes a dichas fechas.
+Para los efectos de los artículos 96, del 98 al 103, 106, 108, 109, 111, 112-A y 112-B, cuando un contribuyente solicite servicios internacionales que requieran de la conexión de los sistemas nacionales con otros del extranjero, pagará además del servicio por el tramo nacional conforme a las cuotas estipuladas en esta Ley, las cantidades equivalentes a las que la Dependencia prestadora del servicio tenga que pagar para poder proporcionar el servicio, en su tramo internacional.
 
-Los contribuyentes podrán acudir a las oficinas de la dependencia prestadora del servicio, durante esos días, para que se les exhiba la documentación en que consten las erogaciones efectuadas por dicha Secretaría.
+Lo anterior tendrá efectos tanto para los sistemas terrestres de microondas como para los que se proporcionen por satélite, incluyendo los servicios complementarios del exterior, que permitan junto con el Sistema Nacional de Telecomunicaciones proporcionar el servicio completo.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 104.
 
-Por el servicio nacional permanente de teleinformática, en la modalidad de reservación de espacios proporcionado durante 24 horas diarias, se pagará el derecho de teleinformática, conforme a las siguientes cuotas:
+Por el servicio nacional permanente de telerreservaciones en la modalidad de reservación de espacios, se pagará el derecho de telerreservaciones conforme a las siguientes cuotas:
 
-Cuotas
+I.- En aeronaves de reacción, por la reservación de asientos en vuelos nacionales, la que resulte de aplicar el 1.3 % al precio promedio de los boletos de viaje sencillo en el servicio normal de la Ciudad de México a Acapulco, a Guadalajara y a Monterrey.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+II.- En hoteles, por la reservación de cada habitación y por cada día…….. $ 655.00
 
-I.- En aeronaves de equipo de reacción, reservación
+III.- En autobuses foráneos, por la reservación de asientos, por cada pasajero.......... $ 230.00
 
-de asientos, por cada pasajero $ 110.00
+IV.- En ferrocarriles, por la reservación de asientos, por cada pasajero……. $ 180.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+V.- En transbordadores, por la reservación a asientos, por cada pasajero…….. $ 230.00
 
-Para los efectos de esta fracción, se considerarán como pasajeros a los que hayan abordado en aeronaves de equipo de reacción para vuelos nacionales e internacionales, de conformidad con el documento que contiene los pasajeros transportados por cada vuelo de las líneas aéreas validado por la dependencia prestadora del servicio.
+VI.- Por la conexión al sistema de telerreservación de agencias de viajes:
 
-El aviso de cobro se formulará mensualmente a las empresas de transporte aéreo, aplicando la cuota antes estipulada considerando el número de pasajeros abordados al día último de cada mes.
+a).- Por conexión........... $ 175,000.00
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+b).- Por cada terminal, mensualmente………… $ 27,000.00
 
-II.- En hoteles, reservación por cada habitación y por cada día............ $ 160.00
+Para los efectos de la fracción I de este artículo, se considerarán como pasajeros a los que hayan abordado en aeronaves de equipo de reacción para vuelos nacionales e internacionales, de conformidad con el documento que contiene los pasajeros transportados por cada vuelo de las líneas aéreas validado por la dependencia prestadora del servicio.
 
-El aviso de cobro se formulará mensualmente a los hoteles y empresas que hayan hecho la reservación aplicando la cuota antes estipulada al número de habitaciones reservadas por día, contabilizadas al último día de cada mes.
+Los avisos de cobro por los servicios a que se refieren las fracciones I a V, de este artículo, se formularán mensualmente a las empresas transportistas, u hoteleras que hayan hecho la reservación, aplicando la cuota correspondiente al número de asientos y habitaciones, según correspondan, contabilizados al último día de cada mes. Tratándose de la fracción VI, el aviso de cobro del primer mes o fracción, se formulará conjuntamente con la cuota inicial por conexión.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-III.- En autobuses foráneos, reservación de asientos, por cada pasajero............ $ 150.00
-
-El aviso de cobro se formulará mensualmente a las líneas de autobuses foráneos y empresas que hayan hecho la reservación aplicando la cuota antes estipulada al número de asientos reservados, contabilizados al día último de cada mes.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 105.
 
-Por el servicio nacional de conducción unidireccional de señales de televisión, imagen monocromática o a color y audio asociados, teleaudición y distribución de señales de datos por satélite, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
+Por el servicio nacional de conducción unidireccional de señales de televisión, imagen y audio asociado, por satélite, punto a punto o a multipunto, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
 
-A.- Servicio de televisión.
+I.- Servicio permanente para 24 horas diarias, durante todos los días del mes, que se presta para conducir una señal conforme a los mismo enlaces, mensualmente:
 
-I.- Servicio permanente que se proporcione durante 24 horas diarias:
+a).- Segmento espacial:
 
-a).- Imagen monocromática o a color y audio asociado, por emisión de la señal, incluyendo una recepción, mensualmente:
+Ancho de banda Tipo de banda Potencia en el satélite
 
-Ancho de Banda Cuota
+(Megahertz) (pire en dBW)
 
-1.- 18 megahertz $ 37.618,000.00
+1. 18 C 28.8 $ 36.692,000.00
 
-2.- 36 megahertz $ 70.952,000.00
+2. 36 C 32.8 $ 73.384,000.00
 
-3.- 72 megahertz $ 137.620,000.00
+3. 36 Ku 36.4 $ 80.723,000.00
 
-b).- Por cada recepción adicional, se aplicarán los siguientes porcentajes, sobre las cuotas anteriores:
+b).- Segmento Terrestre:
 
-Porcentaje de
+1.- Por emisión............ $ 1'380,000.00
 
-Ancho de Banda la Cuota Básica
+2.- Por cada recepción............. $ 380,000.00
 
-1.- 18 megahertz 1.73%
+II.- Servicio permanente para menos de 24 horas diarias, durante todos los días del mes, que se presta para conducir una señal conforme a los mismos horarios y enlaces, mensualmente, por hora o fracción:
 
-2.- 36 megahertz 0.92%
+a).- Segmento espacial:
 
-3.- 72 megahertz 0.47%
+Ancho de banda Tipo de banda Potencia en el satélite
 
-c).- Por cada audio adicional en la subportadora, incluyendo una recepción, mensualmente:
+(megahertz) (pire en dBW)
 
-Ancho de Banda Cuota
+1. 18 C 28.8 $ 3.058,000.00
 
-1.- 18 megahertz $ 343,500.00
+2. 36 C 32.8 $ 6.115,000.00
 
-2.- 36 megahertz $ 687,000.00
+3. 36 Ku 36.4 $ 6.727,000.00
 
-3.- 72 megahertz $ 1.030,500.00
+b).- Segmento terrestre:
 
-d).- Por cada recepción adicional, se aplicarán los siguientes porcentajes sobre las cuotas anteriores:
+1.- Por emisión............ $ 115,000.00
 
-Porcentaje de
+2.- Por cada recepción............ $ 32,000.00
 
-Ancho de Banda la Cuota Básica
+III.- Servicio eventual, que se presta para conducir una señal por una sola vez conforme al horario y enlace definidos para esa ocasión, por la primera hora o fracción:
 
-1.- 18 megahertz 15.4%
+a).- Segmento espacial:
 
-2.- 36 megahertz 7.68%
+Ancho de banda Tipo de banda Potencia en el satélite
 
-3.- 72 megahertz 5.12%
+(megahertz) (pire en dBW)
 
-II.- Servicio permanente que se proporcione en horarios diarios, menores a 24 horas:
+1. 18 C 28.8 $ 153,000.00
 
-a).- Imagen monocromática o a color y audio asociado, por un período mínimo de contratación de dos horas diarias:
+2. 36 C 32.8 $ 306,000.00
 
-Ancho de Banda Cuota Mensual
+3. 36 Ku 36.4 $ 336,000.00
 
-1.- 18 megahertz $ 6.270,000.00
+b).- Segmento terrestre:
 
-2.- 36 megahertz $ 11.825,000.00
+1.- Por emisión............ $ 5,800.00
 
-3.- 72 megahertz $ 22.937,000.00
+2.- Por cada recepción............ $ 1,600.00
 
-Por cada hora o fracción adicional a las dos horas contratadas, se pagará el 50% de la cuota correspondiente anterior.
+c).- Por cada media hora adicional a la hora inicial, se pagará el 50% de las cuotas anteriores.
 
-Estas cuotas incluyen una recepción.
+IV.- Los canales de audio adicionales al asociado, para cada una de las modalidades consignadas en este artículo, se pagarán conforme a las cuotas correspondientes al servicio nacional de conducción de señales de teleaudición por satélite, que menciona esta ley.
 
-b).- Por cada recepción adicional, se aplicarán los siguientes porcentajes sobre las cuotas anteriores:
+V.- Para la aplicación de las cuotas a que se refiere este artículo se observarán las siguientes reglas:
 
-Porcentaje de
+a).- Las mismas cuotas del segmento terrestre se aplican a las emisiones y recepciones en banda C y Ku para los 18 y 36 megahertz.
 
-Ancho de Banda la Cuota Básica
+b).- La prestación del servicio permanente de 24 horas y de menos de 24 horas será por un período mínimo de un mes.
 
-1.- 18 megahertz 1.04%
+c).- En el caso del servicio de menos de 24 horas, el contribuyente al solicitar el servicio señalará el horario deseado para todos los días del mes. El período mínimo de servicio será de dos horas diarias.
 
-2.- 36 megahertz 0.55%
+d).- Para el servicio eventual, el período mínimo de contratación es de una hora.
 
-3.- 72 megahertz 0.283%
+VI.- Los términos empleados tienen el siguiente significado:
 
-c).- Por cada audio adicional en la subportadora, por un tiempo mínimo de contratación de dos horas diarias.
+a).- PIRE.- Es el valor de la potencia isotrópica radiada efectiva, medida en Decibeles-Watt.
 
-Ancho de Banda Cuota Mensual
+b).- dBW.- Decibeles-Watt.
 
-1.- 18 megahertz $ 57,500.00
-
-2.- 36 megahertz $ 114,500.00
-
-3.- 72 megahertz $ 172,000.00
-
-Estas cuotas incluyen una recepción.
-
-d).- Por cada recepción adicional, se aplicarán los siguientes porcentajes de las cuotas anteriores:
-
-Porcentaje de
-
-Ancho de Banda la cuota básica
-
-1.- 18 megahertz 15.4%
-
-2.- 36 megahertz 7.68%
-
-3.- 72 megahertz 5.12%
-
-III.- Servicio Eventual.
-
-a).- Por un período mínimo de contratación de una hora, por ocasión:
-
-Cuota
-
-Ancho de Banda por ocasión
-
-1.- 18 megahertz $ 157,000.00
-
-2.- 36 megahertz $ 296,000.00
-
-3.- 72 megahertz $ 573,000.00
-
-Por cada media hora adicional a la hora contratada, se pagará el 50% de la cuota correspondiente anterior.
-
-En las cuotas que se establecen en esta fracción están incluidas la emisión de la señal y una recepción.
-
-b).- Por cada recepción adicional, se aplicarán los siguientes porcentajes sobre las cuotas anteriores, tanto para la primera hora como para las medias horas consecutivas:
-
-Porcentaje
-
-sobre la
-
-Ancho de banda cuota básica
-
-1.- 18 megahertz 1.27%
-
-2.- 36 megahertz 0.68%
-
-3.- 72 megahertz 0.35%
-
-B.- Por el servicio de teleaudición, para canales a un sólo destino o destinos múltiples.
-
-1.- Servicio permanente.
-
-Ancho de banda Cuota mensual
-
-1.- 4 kilohertz $ 200,000.00
-
-2.- 8 kilohertz $ 400,000.00
-
-3.- 12 kilohertz $ 600,000.00
-
-En las cuotas anteriores, está incluida la emisión de la señal y una recepción.
-
-Por cada recepción adicional se aplicará el 25.0% de las cuotas anteriores, para cada uno de los anchos de banda mencionados.
-
-II.- Servicio eventual.
-
-Servicio eventual que se prestará para conducir una señal de voz por una sola vez, entre las estaciones de recepción y entrega de la red, conforme al horario y enlaces definidos, por cada ocasión de un día o más:
-
-Cuotas porcentajes de
-
-la cuota mensual del
-
-servicio permanente.
-
-a).- Primero y segundo día,
-
-por cada día 10.00%
-
-b).- Del tercero al décimo
-
-día, por cada día 5.00%
-
-c).- Del décimo primer día
-
-en adelante, por cada día 4.00%
-
-La suma de estas cuotas no será superior al importe de la cuota mensual del servicio permanente.
-
-C.- Servicio de distribución de señales de datos.
-
-I.- Por cada emisión de la señal -puerto- de la estación terrena al satélite, de acuerdo a las velocidades que se señalan, se pagarán las siguientes cuotas:
-
-Velocidades en Cuota
-
-Bits por segundo mensual
-
-De 50 a 300 $ 312,500.00
-
-De 1200 1.250,000.00
-
-De 2400 2.500,000.00
-
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 1986)</small>
-
-De 4500 5.000,000.00
-
-De 7200 7.500,000.00
-
-De 9600 10.000,000.00
-
-De 19200 20.000,000.00
-
-II.- Por cada recepción de la señal, se pagará mensualmente la cantidad de $5,000.00.
-
-III.- Por cada activación que se realice o cambio en la configuración de cada receptor, se pagará la cantidad de $25,000.00.
-
-Las cuotas anteriores no incluyen la renta del equipo receptor de la señal, ni el equipo terminal de datos, ni la cuota adicional que fije el propietario de la señal al receptor de la misma.
-
-Para la aplicación de las cuotas a que se refiere este artículo, el servicio sólo comprende la conducción de las señales desde la estación terrena emisora a las estaciones terrenas receptoras. Las cuotas anteriores, no incluyen el enlace local entre las instalaciones del usuario y las de la dependencia prestadora del servicio.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 106.
 
-Por el servicio nacional de conducción de señales voz y telegrafía, dúplex o semidúplex por satélite, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
+Por el servicio internacional de conducción de señales unidireccionales de televisión, imagen y audio asociado, por satélite, punto a punto o a multipunto, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
 
-I.- Por el servicio de voz, con un ancho de banda de 4 kilohertz:
+I.- Servicio permanente que se presta para conducir una señal conforme a los mismos enlaces durante las 24 horas diarias todos los días del mes.
 
-Cuota Mensual
+a).- Por emisión o recepción de señal, mensualmente......... $ 15'826,000.00
 
-a).- Servicio punto a punto
+b) Por la atención de servicios en multipunto, por cada receptor, por una sola vez.... $ 158,000.00
 
-Por conducción de la señal, por cada circuito $ 280,500.00
+II.- Servicio eventual que se presta para conducir una señal por una sola vez conforme al horario y enlace definidos para esa ocasión.
 
-La cuota anterior incluye la emisión de la señal y una recepción.
+a).- Por la emisión o recepción de la señal:
 
-b).- Servicio punto a multipunto.
+1.- Por los primeros 10 minutos............ $ 231,000.00
 
-Por conducción de la señal, por cada circuito 280,500.00
+2.- Por cada minuto adicional............ $ 7,800.00
 
-La cuota anterior incluye la emisión de la señal y una recepción.
+b).- Por la atención de servicios en multipunto, por cada receptor.......... $ 30,000.00
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 1986)</small>
+III.- Para la aplicación de las cuotas a que se refiere este artículo, se observarán las siguientes reglas:
 
-Por cada recepción adicional, se aplicará el 10.7% de la cuota anterior.
+a).- Cuando la señal se conduce a multipunto, la cuota por emisión o recepción del inciso a) de las fracciones I y II, anteriores, se dividirá proporcionalmente entre los contribuyentes que solicitaron el servicio, y adicionalmente se les aplicará a cada uno de ellos la cuota por atención, del servicio que señala el inciso b) de las fracciones I y II de este artículo, según corresponda.
 
-II.- Por los diferentes grupos de circuitos en grado de voz, punto a punto, se aplicará a la cuota del circuito unitario, los siguientes descuentos:
+b).- El servicio comprende la conducción desde la Torre Central de Telecomunicaciones a la estación terrena emisora y de ésta al satélite o viceversa.
 
-Por Agrupación Descuento de la
+c).- Las cuotas que señala este artículo corresponden al segmento terrestre. La cuota por el segmento espacial se sujetará a lo establecido en el artículo 103-A de esta Ley.
 
-de Circuitos Tarifa Básica
-
-a Nivel de
-
-Banda Base
-
-1.- Por grupo de 12 circuitos 10%
-
-2.- Por grupo de 60 circuitos 20%
-
-3.- Por grupo de 900 circuitos 28%
-
-4- Por grupo de más de 900 circuitos 40%
-
-III.- Por el servicio de datos:
-
-Se aplicarán las cuotas a que se refiere la fracción I de este artículo, incrementadas en un 25%.
-
-IV.- Por el servicio de telegrafía:
-
-Se aplicarán las cuotas proporcionales a las del presente artículo, entre los usuarios que participen en el uso de un portador.
-
-V.- Servicio interactivo de distribución de señales de datos:
-
-a).- Por cada emisión de la señal -puerto- de la estación terrena al satélite, de acuerdo a las velocidades que se indican:
-
-Velocidad en
-
-Bits por Segundo Cuota Mensual
-
-1.- 2400 $ 3.000,000.00
-
-2.- 4800 6.000,000.00
-
-3.- 9600 12.000,000.00
-
-4.- 14400 18.000,000.00
-
-5.- 19200 24.000,000.00
-
-b).- Por cada antena receptora-transmisora del usuario integrada al sistema, se pagará mensualmente una cuota de $15,000.00.
-
-c).- Por activación o cambio de configuración de cada antena receptora, se pagará una cuota inicial de $25,000.00 por única vez.
-
-Las cuotas a que se refiere esta fracción, no incluyen la renta del equipo receptor de la señal, ni el equipo terminal de datos, ni la cuota adicional que fije el propietario de la señal al receptor de la misma.
-
-Para la aplicación de las cuotas a que se refiere esta fracción, el servicio sólo comprende la conducción de las señales desde la estación terrena emisora a las estaciones terrenas receptoras. Las cuotas anteriores no incluyen el enlace local entre las instalaciones del usuario y las de la dependencia prestadora del servicio.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 107.
 
-Por el servicio nacional e internacional permanente de conducción de señales digitales a través de canales no codificados, de transmisión digital por satélite, se pagará el derecho de conducción de señales conforme a las siguientes cuotas:
+Por el servicio nacional permanente de conducción de señales digitales, por satélite, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas.
 
-Cuota Mensual
+I.- Servicio permanente que se presta para conducir una señal conforme a los mismos enlaces durante todos los días del mes, por canal digital de 4,800 bits por segundo, mensualmente.
 
-Por Servicio Por Servicio
+a).- Segmento espacial............ $ 74,000.00
 
-Nacional Internacional
+b).- Segmento terrestre........... $ 47,500.00
 
-I.- Para baja y mediana capacidad.
+II.- Para canales digitales con velocidades de información agregada del contribuyente, con uso de codificación para corrección de error por adelanto con relación de 1/2:
 
-Para una velocidad de información
+a).- Segmento espacial, por canal con velocidad de información agregada en kilobits por segundo, mensualmente:
 
-nominal de contribuyente de:
+1.- De 9.6........... $ 112,000.00
 
-a).- Por cada canal de 64 kilobits por
+2.- De 19.2............ $ 166,000.00
 
-segundo $ 3.650,000.00 $ 1.320,900.00
+3.- De 32.0............. $ 220,000.00
 
-b).- Por cada canal de 128 kilobits por
+4.- De 64.0............ $ 275,000.00
 
-segundo $ 7.300,000.00 $ 3.400,000.00
+5.- De 128.0............ $ 550,000.00
 
-c).- Por cada canal de 256 kilobits por
+6.- De 256.0............. $ 1'100,000.00
 
-segundo $ 11.200,000.00 $ 5.100,000.00
+7.- De 512.0............ $ 2'201,000.00
 
-II.- Para alta capacidad:
+8.- De 768.0............ $ 3'301,000.00
 
-Para una información nominal
+9.- De 1544.0............ $ 4'126,000.00
 
-del contribuyente de:
+10.- De 2048.0............ $ 5'501,000,00
 
-a).- Por cada canal de 768 kilobits por
+11.- De 4096.0........... $ 11'003,000.00
 
-segundo $ 16.260,000.00 $ 6.630,000.00
+12.- De 8048.0........... $ 22'005,000.00
 
-b).- Por cada canal de 1.544 megabitz por
+III.- Para servicios con codificación diferente a la corrección por adelanto de 1/2, se aplicarán los siguientes factores de ajuste a la cuota básica indicada para cada velocidad de información, en el inciso a) de esta fracción.
 
-segundo $ 22.625,000.00 $ 8.500,000.00
+Relación de corrección Factor de
 
-En el caso de servicio internacional, las cuotas comprenderán únicamente la conducción de la señal de la estación terrena al satélite o viceversa. No incluye los cargos por el servicio del segmento espacial del satélite de comunicaciones.
+de error por adelanto ajuste
 
-Para el servicio internacional, se estará a lo establecido en el artículo 103-A de esta Ley.
+3/4 1.5
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+7/8 2.0
+
+Sin codificación 4.0
+
+El acceso al satélite deberá efectuarse en la modalidad de portadora individual por canal acceso múltiple por división en frecuencia.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 108.
 
-Por el servicio internacional permanente de conducción unidireccional de señales de televisión, imagen monocromática o a color, y sonido asociado, por satélite, se pagará el derecho de conducción de señales conforme a las siguientes cuotas:
+Por el servicio internacional de conducción de señales digitalizadas, a través de circuitos dúplex digitales, con velocidad de información nominal de contribuyente con uso de codificación para corrección de error por adelanto con relación de 1/2, por satélite, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
 
-I.- Servicio permanente durante las 24 horas diarias.
+I.- Servicio permanente que se presta para conducir una señal conforme a los mismo enlaces, durante todos los días del mes, por el segmento terrestre, por circuito, para velocidad de información en kilobits por segundo, mensualmente:
 
-Cuota Mensual
+1.- De 64........... $ 647,000.00
 
-a).- Por emisión o recepción de la señal $ 11.304,000.00
+2.- De 128............. $ 1'293,000.00
 
-b).- Para emisiones multidestino, por cada estación
+3.- De 256............ $ 2'585,000.00
 
-terrena receptora, se pagará un cargo adicional fijo,
+4.- De 512............ $ 5'170,000.00
 
-por cada servicio de 113,000.00
+5.- De 768............ $ 7'755,000.00
 
-El Servicio comprende la conducción de la señal desde la Torre Central de Telecomunicaciones, a la estación terrena transmisora y la transmisión de la señal al satélite. No incluye el segmento espacial del satélite para comunicaciones ni el enlace local.
+6.- De 1544............ $ 9'696,000.00
 
-Lo dispuesto en este artículo, se sujetará a lo establecido en el artículo 103-A de esta Ley."
+7.- De 2048........... $ 12'926,000.00
 
-II.- Por el servicio internacional de distribución unidireccional de señales de datos, se pagará conforme a lo siguiente:
+8.- De 4096............ $ 25'351,000.00
 
-a).- Por cada emisión de la señal (puerto) de la estación terrena al satélite, de acuerdo a las velocidades que se señalan:
+9.- De 8448........... $ 51'702,000.00
 
-Velocidades en Bits
+II.- Servicio eventual que se presta para conducir una señal, por una sola vez, conforme al enlace definido por cada ocasión:
 
-por Segundo Cuota Mensual
+Porciento de la
 
-300 $ 275,000.00
+cuota mensual del
 
-1200 $ 1'012,142.85
+servicio permanente.
 
-2400 $ 1'861,785.71
+a).- Por cada circuito:
 
-4800 $ 3'426,071.42
+1.- Primero y segundo días por cada día 10%
 
-7200 $ 5'139,107.14
+2.- Del tercero al décimo día, por cada día 5%
 
-9600 $ 6'304,285.71
+3.- Del décimo primer día, en adelante, por cada día 4%
 
-14400 $ 8'699,642.85
+La suma de esta cuota no será superior al importe de la cuota mensual del servicio permanente.
 
-b).- Por cada recepción de la señal se pagará mensualmente la cuota de $3 571.43.
+III.- Para la aplicación de las cuotas a que se refiere este artículo, se observarán las siguientes reglas:
 
-c).- Por cada activación que se realice o cambio en la configuración de cada receptor, se pagará la cuota de $8,928.57.
+a).- El servicio comprende la conducción de señales desde la Torre Central de Telecomunicaciones a la estación terrena emisora y de ésta al satélite y viceversa.
 
-Por la utilización del segmento espacial y los servicios complementarios que se proporcionen del exterior, que permiten, junto con el sistema terrestre de telecomunicaciones proporcionar el servicio a que se refiere este artículo, se pagará además una cantidad equivalente a la que la dependencia prestadora del servicio tenga que pagar para poder prestar dicho servicio y será exigible conforme a lo dispuesto en el artículo 105 de esta Ley.
+b).- Las cuotas que señala este artículo corresponden al segmento terrestre. La cuota por el segmento espacial se sujetará a lo establecido en el artículo 103-A de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+Para los servicios internacionales de conducción de señales de televisión, teleaudición, voz y datos en los que para su prestación se utilice al satélite nacional, se pagarán los derechos por utilización del segmento espacial que resulten de aplicar las mismas cuotas que se encuentren vigentes en el mercado internacional para este tipo de servicios por satélite.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 109.
 
-Por el servicio internacional eventual, de conducción unidireccional de señales de televisión imagen monocromática o a color y sonido asociado, por satélite, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
+Por el servicio nacional e internacional de conducción de señales de datos en forma unidireccional, punto-multipunto por satélite, IMFOSAT, utilizando la técnica de acceso múltiple por codificación, se pagará el derecho de conducción de señales conforme a las siguientes cuotas:
 
-Por los primeros Por cada
+A.- Servicio nacional.
 
-10 minutos minuto adicional
+I.- Por cada canal, por emisión de la señal, mensualmente:
 
-1 (sic).- De imagen monocromática o
+Velocidad en bits por segundo
 
-a color $ 125,000.00 $ 4,200.00
+a) De 50 a 300....................... $ 391,000.00
 
-II.- Sonido asociado 12,500.00 420.00
+b) De 1200....................... $ 1'565,000.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+c) De 2400....................... $ 3'130,000.00
 
-III.- Para emisiones multidestino, por cada estación terrena receptora, se pagará adicionalmente, por cada servicio............ 17,647.00
+d) De 4800....................... $ 6'260,000.00
 
-IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1984)
+e) De 9600 ...................... $ 12'520,000.00
 
-El servicio eventual será el que se presta para conducir la señal por una sola vez, conforme al horario y puntos de emisión y recepción definidos para cada ocasión.
+II.- Por recepción de la señal:
 
-El servicio a que se refiere este artículo comprende la conducción de las señales de la Torre Central de Telecomunicaciones a la Estación Terrena de Tulancingo y viceversa. No incluye al satélite para comunicaciones ni el enlace local.
+a) Por cada estación terrena, mensualmente...................... $ 8,000.00
 
-Por la utilización del segmento espacial y los servicios complementarios que se proporcionen del exterior, que permitan, junto con el sistema terrestre de telecomunicaciones proporcionar el servicio a que se refiere este artículo se pagará además una cantidad equivalente a la que la Secretaría de Comunicaciones y Transportes tenga que pagar para poder prestar dicho servicio y será exigible conforme a lo dispuesto en el artículo 105 de esta Ley.
+b) Por cada activación de la estación terrena receptora o cambio en su configuración, por única vez............ 25,000.00
 
-Si el servicio se prolonga por un tiempo mayor del señalado en la solicitud, el contribuyente deberá pagar de inmediato los derechos que correspondan al servicio prestado en exceso al solicitado.
+B.- Servicio Internacional:
 
-Cuando el contribuyente, una vez iniciado el servicio, solicita su suspensión anticipadamente al vencimiento del plazo contratado, no tendrá derecho a percibir bonificación alguna.
+I.- Por cada canal, por emisión de la señal mensualmente:
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Velocidad en bits por segundo
+
+a) De 50 a 300................... $ 359,000.00
+
+b) De 1200................... $ 1'435,000.00
+
+c) De 2400................... $ 2'870,000.00
+
+d) De 4800................... $ 5'740,000.00
+
+e) De 9600................... $ 11'480,000.00
+
+f) De 14400................... $ 17'221,000.00
+
+II.- Por recepción de la señal:
+
+a) Por cada estación terrena receptora, mensualmente............ $ 10,000.00
+
+b) Por cada activación de la estación terrena receptora o cambio en su configuración, por única vez.......... $ 25,000.00
+
+C.- Para los efectos de aplicación de cuotas a que se refiere el presente artículo, se observarán las siguientes reglas:
+
+I.- En el caso del servicio internacional, las cuotas no incluyen lo correspondiente al segmento espacial del satélite internacional, para lo cual se estará sujeto a las condiciones establecidas en el artículo 103-A de esta Ley.
+
+II.- Las cuotas a que se refiere este artículo, no incluyen el costo de las estaciones terrenas receptoras, el equipo periférico, ni la cuota que fije el propietario de la información al receptor de la misma.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 110.
 
-Por el servicio internacional de conducción de señales de voz dúplex o semidúplex, por satélite, con un ancho de banda mínimo de 2,700 hertz y máxima de 3,100 hertz, permitiendo que el contribuyente conmute la señal y sin incluir el enlace local, se pagará el derecho de conducción de señales conforme a las siguientes cuotas:
+Por el servicio nacional permanente de conducción de señales de voz, punto a punto por satélite, que se presta por conducir una señal conforme a los mismos enlaces durante todos los días del mes, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
 
-I.- Servicio permanente que se prestará para conducir señales durante 24 horas diarias y períodos no menores de un mes por cada señal, mensualmente.......... $ 440,000.00
+I.- Por canal telefónico.
 
-II.- Servicio eventual que se prestará para conducir señales de voz por una sola vez conforme a los días y puntos de emisión o recepción definidos para esta ocasión, por cada señal en ocasión de un día o más:
+a) Por segmento espacial, mensualmente:
 
-Porciento de la cuota
+Banda C Banda Ku
 
-mensual del servicio
+1.- Multicanalización por división en frecuencia,
 
-permanenete
+acceso múltiple por división en frecuencia $ 74,000.00 $ 82,000.00
 
-a).- Primero y segundo días, por cada día 10.00%
+2.- Portadora individual por canal, acceso
 
-b).- Del tercero al décimo día, por cada día 5.00%
+múltiple por división en frecuencia $ 82,000.00 $ 90,000.00
 
-c).- Del decimoprimer día en adelante, por cada día 4.00%
+b).- Por segmento terrestre, mensualmente $ 47,500.00
 
-La suma de estas cuotas nunca será superior al importe de la cuota mensual del servicio permanente.
+II.- Para la aplicación de las cuotas a que se refiere este artículo, se observarán las siguientes reglas:
 
-d).- Por cada señal en ocasión de menos de un día:
+a).- Un canal telefónico, por satélite, de 4 kilohertz, es la unidad de medida que corresponde de la capacidad del segmento espacial y terrestre, para una calidad de servicio de voz acorde con las normas técnicas adoptadas por la dependencia prestadora del servicio. Dos canales dispuestos adecuadamente conforman un circuito telefónico.
 
-1.- Por los primeros 10 minutos, se aplicará 30 veces la cuota por minuto del servicio internacional de conferencia telefónica diurna teléfono a teléfono.
+b).- El acceso al satélite podrá efectuarse en las siguientes modalidades:
 
-2.- Por cada minuto adicional, se aplicará la cuota por minuto del servicio internacional de conferencia telefónica diurna de larga distancia teléfono a teléfono.
+1.- Multicanalización por división en frecuencia-acceso múltiple por división en frecuencia.
 
-Cuota por
+2.- Portadora individual por canal-acceso múltiple por división en frecuencia.
 
-minuto
-
-III.- Por el servicio permanente denominado de asignación por
-
-demanda que se prestará para conducir señales durante
-
-24 horas diarias y períodos no menores de un mes por cada señal $ 14.00
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-IV.- Por el servicio unidireccional de señales de audio por cada canal de hasta:
-
-Ancho de Banda Cuota Mensual
-
-8 kilohertz $ 411,700.00
-
-12 kilohertz 617,600.00
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-V.- Para el pago del derecho a que se refiere este artículo se observarán las siguientes reglas:
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-a).- El servicio comprende la conducción de la señal en el tramo terrestre desde la torre central de telecomunicaciones a la estación terrena en Tulancingo y viceversa. No incluye al satélite para comunicaciones ni el enlace local.
-
-b).- Si el contribuyente, una vez iniciado el servicio, solicita se deje de prestar anticipadamente al vencimiento del plazo contratado, no tendrá derecho a percibir bonificación alguna.
-
-Por la utilización del segmento espacial y los servicios complementarios que se proporcionen del exterior, que permiten, junto con el sistema terrestre de telecomunicaciones proporcionar el servicio a que se refiere este artículo, se pagará además una cantidad equivalente a la que la Secretaría de Comunicaciones y Transportes tenga que pagar para poder prestar dicho servicio y será exigible conforme a lo dispuesto en el artículo 105 de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 111.
 
-Por el servicio internacional de conducción de señales de datos dúplex o semidúplex, por satélite, con un ancho de banda máximo de 4 kilohertz y velocidades de información hasta 4800 bits por segundo, permitiendo que el contribuyente conmute su señal y sin incluir el enlace local, se pagará el derecho de conducción de señales conforme a las cuotas estipuladas para el servicio internacional de conducción de señales de voz por satélite, incrementadas en 25%.
+Por el servicio internacional de conducción de señales de voz punto a punto, por satélite con un ancho de banda mínimo de 2,700 hertz y máximo de 3,100 hertz, se pagará el derecho de conducción de señales conforme a las siguientes cuotas:
 
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985) (F. DE E., D.O.F. 24 DE ENERO DE 1986)
+I.- Servicio permanente que se presta para conducir una señal, conforme a los mismos enlaces durante todos los días del mes, por cada circuito, por segmento terrestre, mensualmente................. $ 1'166,000.00
 
-Para velocidades de transmisión de información que se proporcione en el rango de más de 4800 a 9600 bits por segundo, se pagará el 100% de la cuota establecida por cada circuito de voz adicional.
+II.- Servicio eventual que se presta para conducir una señal, por una sola vez, conforme al enlace definido por cada ocasión:
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+Porciento de la
 
-Para los servicios internacionales de conducción de señales de televisión, voz y datos en los que para su presentación se utilice al satélite nacional, se pagarán los derechos por utilización de segmento espacial que resulten de aplicar las mismas cuotas que se encuentren vigentes en el mercado internacional para este tipo de servicios por satélite.
+cuota mensual del
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+servicio permanente
+
+a).- Por cada circuito.
+
+1.- Primero y segundo días, por cada día 10%
+
+2.- Del tercero al décimo día, por cada día 5%
+
+3.- Del décimo primer día en adelante, por cada día 4%
+
+La suma de esta cuota no será superior al importe de la cuota mensual del servicio permanente.
+
+b).- Para servicios con duración de menos de un día, por ocasión:
+
+1.- Por los primeros 10 minutos, se aplicará 30 veces la cuota por minuto del servicio internacional de conferencia telefónica diurna de larga distancia teléfono a teléfono.
+
+2.- Por cada minuto adicional, se aplicará la cuota por minuto del servicio internacional de conferencia telefónica diurna de larga distancia teléfono a teléfono.
+
+III.- Por el servicio permanente de asignación por demanda, por cada circuito, por minuto o fracción........... $ 70.00
+
+IV.- Para la aplicación de las cuotas a que se refiere este artículo, se observarán las siguientes reglas:
+
+a).- El servicio comprende la conducción de señales desde la Torre Central de Telecomunicaciones a la estación terrena emisora y de ésta al satélite y viceversa.
+
+b).- Las cuotas que señala este artículo corresponden al segmento terrestre, la cuota por el segmento espacial se sujetará a lo establecido en el artículo 103-A de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 112.
 
-Por el servicio internacional de conducción de señales telegráficas dúplex o semidúplex, por satélite para velocidad de 50, 75, 100, 150 y 200 bauds, permitiendo que el contribuyente conmute su señal y sin incluir el enlace local se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
+Por el servicio nacional de conducción de señales de teleaudición, voz y música para radiodifusión, punto a punto o a multipunto, por satélite, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
 
-I.- Servicio permanente que se prestará para conducir señales telegráficas durante 24 horas diarias y períodos no menores de un mes:
+I.- Servicio permanente que se presta para conducir una señal conforme a los mismos enlaces, durante todos los días del mes.
 
-a).- Por cada señal a velocidad de 50 bauds, por mes........... $ 176,000.00
+a).- Por segmento espacial, mensualmente:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+Canal con ancho de banda.
 
-b).- Por cada señal a velocidad de 75 bauds, por mes… ....302,500.00
+1.- De 4 kilohertz........................ $ 103,000.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+2.- De 7.5 kilohertz...................... $ 411,000.00
 
-c).- Por cada señal a velocidad de 100 bauds, por mes….... 330,000.00
+3.- De 12 kilohertz...................... $ 617,000.00
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+4.- De 15 kilohertz...................... $ 823,000.00
 
-d).- Por cada señal a velocidad de 150 bauds, por mes...... 385,000.00
+b).- Segmento terrestre, independientemente del ancho de banda utilizando, mensualmente:
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+1.- Por emisión........................... $ 47,500.00
 
-e).- Por cada señal a velocidad de 200 bauds, por mes...... 440,000.00
+2.- Por cada recepción.................. $ 24,000.00
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 4 DE MARZO DE 1985)
+II.- Servicio eventual que se presta para conducir una señal, por una sola vez, conforme al enlace definido por cada ocasión de un día o más.
 
-II.- Servicio eventual que se prestará para conducir señales telegráficas una sola vez conforme a los días y puntos de emisión o recepción definidos para esa ocasión, de un día o más, por cada ocasión:
+Por ciento de la cuota
+
+mensual del servicio
+
+permanente.
+
+a).- Primero y segundo día, por cada día 10%
+
+b).- Del tercero al décimo día, por cada día 5%
+
+c).- Del décimo primer día en adelante, por cada día 4%
+
+La suma de estas cuotas no será superior al importe de la cuota mensual del servicio permanente.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 112-A.
+
+Por el servicio internacional de conducción unidireccional de señales de teleaudición, voz y música, para radiodifusión, punto a punto o a multipunto, por satélite, se pagará el derecho de conducción de señales conforme a las siguientes cuotas:
+
+I.- Servicio permanente que se presta para conducir una señal conforme a los mismos enlaces, durante todos los días del mes, por la emisión o recepción, por cada canal, mensualmente:
+
+a).- Canal con ancho de banda de 4 kilohertz........................... $ 350,000.00
+
+b).- Canal en ancho de banda de 8 kilohertz.......................... $ 700,000.00
+
+c).- Canal en ancho de banda de 12 kilohertz……………… $ 1'050,000.00
+
+II.- Por la atención de servicios en multipunto, por cada receptor, por una sola vez...... $ 35,000.00
+
+III.- Servicio eventual que se presta para conducir una señal, por una sola vez conforme al enlace definido por cada ocasión de un día o más:
 
 Porciento de la cuota
 
 mensual del servicio
 
-permanente
+permanente.
 
-a).- Primero y segundo día, por cada día 10.00%
+a).- Por la emisión o recepción, por cada canal:
 
-b).- Del tercero al décimo día, por cada día 5.00%
+1.- Primero y segundo día, por cada día 10%
 
-c).- Del decimoprimer día en adelante, por cada día 4.00%
+2.- Del tercero al décimo día, por cada día 5%
 
-La suma de estas cuotas nunca será superior al importe de la cuota mensual del servicio permanente.
+3.- Del décimo primer día en adelante, por cada día 4%
 
-III.- Para la aplicación de las cuotas a que este artículo se refiere, se observarán las siguientes reglas:
+La suma de estas cuotas no será superior al importe de la cuota mensual del servicio permanente.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+IV.- Para la aplicación de las cuotas a que se refiere este artículo, se observarán las siguientes reglas:
 
-a).- El servicio a que se refiere este artículo comprende la conducción de las señales de la torre central de telecomunicaciones a la estación terrena de Tulancingo y de ésta al satélite y viceversa. No incluye el cargo por el servicio del segmento espacial.
+a).- Cuando la señal se conduce a multipunto, la cuota de la fracción I, por emisión o recepción, se dividirá proporcionalmente entre los contribuyentes que contrataron el servicio, adicionalmente se les aplicará a cada uno de ellos la cuota por atención del servicio que señala la fracción II de este artículo, según corresponda.
 
-b).- Si el contribuyente, una vez iniciado el servicio, pide se deje de prestar anticipadamente al vencimiento del plazo contratado, no tendrá derecho a percibir bonificación alguna.
+b).- El servicio comprende la conducción de señales desde la Torre Central de Telecomunicaciones a la estación terrena emisora y de ésta al satélite o viceversa.
 
-Por la utilización del segmento espacial los servicios complementarios que se proporcionen del exterior, que permiten, junto con el sistema terrestre de telecomunicaciones proporcionar el servicio a que se refiere este artículo, pagará además una cantidad equivalente a la que la Secretaría de Comunicaciones y Transportes tenga que pagar para poder prestar dicho servicio y será exigible conforme a lo dispuesto en el artículo 105 de esta Ley.
+c).- Las cuotas que señala este artículo corresponden al segmento terrestre, la cuota por el segmento espacial se sujetará a lo establecido en el artículo 103-A de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 112-B.
+
+Por el servicio internacional de conducción de señales de telegrafía punto a punto, dúplex o semidúplex, por satélite, para velocidades de 50, 75, 100, 150 y 200 bauds, se pagará el derecho de conducción de señales, conforme a las siguientes cuotas:
+
+I.- Por el servicio permanente que se presta para conducir una señal, conforme a los mismos enlaces durante todos los días del mes, por el segmento terrestre, mensualmente:
+
+a).- Por cada circuito:
+
+1.- A velocidad de 50 bauds................... $ 350,000.00
+
+2.- A velocidad de 75 bauds................... $ 385,000.00
+
+3.- A velocidad de 100 bauds.................. $ 420,000.00
+
+4.- A velocidad de 150 bauds.................. $ 490,000.00
+
+5.- A velocidad de 200 bauds………….$ 560,000.00
+
+II.- Servicio eventual que se presta para conducir una señal por una sola vez, conforme a los mismos enlaces definidos por cada ocasión de un día o más, por cada circuito:
+
+Porciento de la cuota
+
+mensual del servicio
+
+permanente.
+
+a).- Por el primero y segundo días, por cada día 10%
+
+b).- Del tercero al décimo día, por cada día 5%
+
+c).- Del décimo primer día en adelante, por cada día 4%
+
+La suma de estas cuotas no será superior al importe de la cuota mensual del servicio permanente.
+
+III.- Para la aplicación de las cuotas a que se refiere este artículo, se observarán las siguientes reglas:
+
+a).- El servicio comprende la conducción de señales desde la Torre Central de Telecomunicaciones a la estación terrena emisora y de ésta al satélite y viceversa.
+
+b).- Las cuotas que señala este artículo corresponden al segmento terrestre. La cuota por el segmento espacial se sujetará a lo establecido en el artículo 103-A de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 113.
 
-Por el servicio telegráfico internacional en sus modalidades de mensajes ordinarios, urgentes y giros telegráficos, se pagará el derecho de telégrafos internacionales, conforme a las siguientes cuotas:
+Por el servicio telegráfico internacional en sus modalidades de mensajes de fonotelegrafía, giros, expedición de tarjeta de cuenta transferida y registro de direcciones cablegráficas, se pagará el derecho de telegrafía internacional, conforme a las siguientes cuotas:
 
 I.- Mensajes ordinarios:
 
@@ -3991,71 +3697,45 @@ II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)
 
 III.- Por el servicio telegráfico internacional en cualquiera de sus modalidades, que se reciban por teléfono en la oficina de fonotelegrafía, en cualquier horario, se pagará por la transmisión de mensajes el 30% adicional a las cuotas señaladas en las fracciones I y II de este artículo.
 
-IV.- Por el servicio de giros telegráficos:
+IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1986)
 
-Importe de giro Cuota por giro
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-$ 10,500.00 o menos $ 1,666.95
+V.- Por la expedición de tarjetas de cuenta transferida para el uso del servicio telex y del telegráfico internacional en cualquiera de las modalidades indicadas en esta Ley; a partir de la fecha de su expedición, por cada una, $ 1,700.00 anuales.
 
-$ 10,501.00 hasta $ 21,000.00 $ 1,876.60
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-$ 21,001.00 hasta $ 63,000.00 $ 2,505.68
+VI.- Por las direcciones cablegráficas registradas en el servicio telegráfico internacional, en cualquier modalidad de mensaje por cada una, anualmente $ 3,400.00.
 
-$ 63,001.00 hasta $ 105,000.00 $ 3,344.40
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-$ 105,001.00 hasta $ 210,000.00 $ 4,392.80
+VII.- Por la expedición de copias certificadas de telegramas, por cada una $ 1,000.00.
 
-$ 210,001.00 hasta $ 315,000.00 $ 5,871.04
-
-> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
-
-por cada $105,000.00 o fracción adicional,
-
-mayor de $315,000.00 $ 1,048.40
-
-Además de las cuotas anteriores, si el contribuyente requiere enviar algún mensaje, pagará adicionalmente el derecho por éste, conforme a las cuotas por palabra adicional establecidas en la fracción I, inciso c) de este artículo.
-
-V.- Por la expedición de tarjetas de cuenta transferida para el uso del servicio télex y del telegráfico internacional en cualquiera de las modalidades indicadas en las fracciones I, II y III de este artículo, a partir de la fecha de su expedición, $1,000.00 anuales.
-
-VI.- Por las direcciones telegráficas registradas en el servicio telegráfico internacional, en cualquier modalidad de mensaje:
-
-Cuota anual
-
-Por cada dirección telegráfica registrada $ 2,000.00
-
-VII.- Por el servicio de respuesta pagada, en servicio telegráfico internacional, se pagará el derecho de telégrafos internacionales conforme a las cuotas señaladas en las fracciones I, II y III de este artículo.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 114.
 
-Por el servicio de transmisión o recepción de señales radiotelefónicas o radiotelegráficas a corto, mediano y largo alcance, sin incluir el enlace local, se pagará el derecho de transmisión o recepción de señales conforme a las siguientes cuotas:
+Por el servicio de transmisión o recepción de señales radiotelefónicas o radiotelegráficas, se pagará el derecho de transmisión o recepción de señales, conforme a las siguientes cuotas:
 
-I.- Servicio radiotelefónico, permanente que se presta por períodos mensuales conforme al mismo horario diario que haya elegido el contribuyente.
+I.- Servicio permanente que se presta para conducir una señal, durante 24 horas diarias, durante todos los días del mes, conforme al horario diario que haya elegido el contribuyente, mensualmente.
 
-Cuota por Cuota mensual
+Cuota por emisión Cuota por recepción.
 
-cada por 24 horas
+a).- Servicio radiotelefónico $ 612,000.00 $ 153,000.00
 
-hora diaria diarias
+b).- Servicio radiotelegráfico $ 306,000.00 $ 76,500.00
 
-a).- Emisión largo alcance $ 800.00 $ 300,000.00
+II.- Servicio permanente que se presta para conducir una señal, para menos de 24 horas diarias, durante todos los días del mes, conforme al horario diario que haya elegido el contribuyente.
 
-b).- Recepción largo alcance 200.00 75,000.00
+Cuota por emisión Cuota por recepción.
 
-II.- Servicio radiotelegráfico permanente que se presta por períodos mensuales conforme al mismo horario diario que haya elegido el contribuyente.
+a).- Servicio radiotelefónico, por cada
 
-Cuota por Cuota mensual
+hora diaria $ 1,600.00 $ 410.00
 
-cada por 24 horas
+b).- Servicio radiotelegráfico, por cada
 
-hora diaria diarias
-
-a) Emisión largo alcance $ 400.00 $ 150,000.00
-
-b) Recepción largo alcance 100.00 37,500.00
-
-El pago de los derechos por estos servicios se hará por adelantado de acuerdo con la cantidad que resulte de aplicar las cuotas procedentes de las fracciones I y II al número de horas por día, que haya pedido el contribuyente y por un mes o la cuota mensual correspondiente. Las horas deben ser las mismas todos los días del mes y éste se considerará siempre de 30 días.
+hora diaria $ 800.00 $ 200.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -4103,7 +3783,7 @@ Tasa costera (no incluye la llamada telefónica de larga distancia):
 
 2.- Por cada minuto o fracción adicional.............. 45.00
 
-3.- Por cada aviso previo o preparación de la conferencia a solicitud del contribuyente……... 90.00
+3.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 II.- Servicio a embarcaciones extranjeras.
 
@@ -4115,7 +3795,7 @@ Tasa costera (no incluye la llamada telefónica de larga distancia):
 
 2.- Por cada minuto o fracción adicional............ 85.00
 
-3.- Por cada aviso previo o preparación de la conferencia a solicitud del contribuyente…….... 170.00
+3.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 Para efectos de este apartado para embarcaciones nacionales o extranjeras, el contribuyente pagará una cuota mínima correspondiente a una conferencia de 3 minutos, salvo los casos en que el Reglamento Internacional de Radiocomunicaciones Marítimas, establezca que se trata de un servicio exento de pago o sujeto a cuota reducida.
 
@@ -4169,9 +3849,9 @@ Prioridad Proceso UTI
 
 II.- Por tiempo de conexión.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-a).- Acceso a puerto compartido a través de red conmutada o enlace local, cuotas por hora.
+a).- Acceso a puerto compartido a través de red conmutada o enlace dedicado, cuotas por hora.
 
 Velocidad Horario Horario
 
@@ -4183,9 +3863,9 @@ Hasta 1,200 $ 2,000.00 $ 1,200.00
 
 Las fracciones de hora se cobran en forma proporcional.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-b).- Acceso a puerto compartido a través de enlace local de terminales síncronas para procesamiento en lote diferido.
+b).- Acceso a puerto compartido a través de enlace dedicado de terminales síncronas para procesamiento en lote diferido.
 
 Velocidad Cuotas
 
@@ -4229,39 +3909,35 @@ Página adicional $ 2.20
 
 El servicio de almacenamiento por bloque será por un período mínimo de 2 meses.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 IV.- Monto del derecho.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
 a).- Pago mínimo mensual.
 
-Cuando la aplicación de las cuotas de las fracciones I, II y III, anteriores a la utilización del servicio que haya hecho el contribuyente en un mes, sea inferior a $20,000.00 se pagará el derecho en esa cantidad.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+Cuando la aplicación de las cuotas de las fracciones I, II y III, anteriores a la utilización del servicio que haya hecho el contribuyente en un mes, sea inferior a $ 27,500.00 se pagará el derecho por esta cantidad.
 
 b).- Reducciones.
 
-Cuando el contribuyente contrate el servicio por un plazo mínimo de un año y el monto del derecho por la aplicación de las cuotas de las fracciones I, II y III, anteriores a la utilización del servicio que haya hecho en un mes, sea mayor de $300,000.00, le serán aplicables las siguientes reducciones:
+Cuando el contribuyente contrate el servicio por un periodo mínimo de un año y el monto del derecho por la aplicación de las cuotas de las fracciones I, II y III, anteriores a la utilización del servicio que haya hecho en un mes, sea mayor de $ 414,000.00 le serán aplicables las siguientes reducciones:
 
-> <small>(REFORMADO ENCABEZADO , D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 Monto del derecho Reducción
 
-Hasta $ 300,000.00 0%
+Hasta $ 414,000.00 0%
 
-$ 300,001.00 a $ 450,000.00 15% del excedente de $ 300,000.00
+$ 414,001.00 a $ 621,000.00 15% del excedente de $ 414,000.00
 
-$ 450,001.00 a $ 650,000.00 $ 22,500.00 más 18% del excedente de $ 450,000.00
+$ 621,001.00 a $ 869,400.00 $ 31,050.00 más 18% del excedente de $ 621,000.00
 
-$ 650,001.00 a $ 900,000.00 $ 58,500.00 más 21% del excedente de $ 650,000.00
+$ 869,001.00 a $1'217,200.00 $ 78,246.00 más 21% del excedente de $ 869,400.00
 
-$ 900,001.00 a $1'200,000.00 $ 111,000.00 más 25% del excedente de $ 900,000.00
+$1'217,201.00 a $1'618,800.00 $ 150,080.00 más 25% del excedente de $1'217,200.00
 
-$1,200,001.00 a $1'600,000.00 $ 186,000.00 más 30% del excedente de $1'200,000.00
+$1,618,801.00 a $2'153,000.00 $ 251,000.00 más 30% del excedente de $1'618,800.00
 
-$1,600,001.00 y más $ 306,000.00 más 35% del excedente de $1'600,000.00
+$2,153,001.00 o más $ 409,000.00 35% del excedente de $2'153,000.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -4325,7 +4001,9 @@ Prioridad Diferimiento del proceso Factor
 
 II.- Por tiempo de conexión.
 
-a).- Acceso a puerto compartido a través de red conmutada o enlace local.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+a).- Acceso a puerto compartido a través de red conmutada o enlace dedicado.
 
 Cuotas por hora
 
@@ -4341,7 +4019,9 @@ en baud Nivel Primario Secundario
 
 4 4,300.00 2,200.00
 
-b).- Acceso a puerto conversacional lógico, a través de red conmutada o enlace local.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+b).- Acceso a puerto conversacional lógico, a través de red conmutada o enlace dedicado.
 
 Velocidad Cuotas por mes para
 
@@ -4357,7 +4037,9 @@ en baud Nivel todos los horarios
 
 Los contratos de servicio por puerto conversacional lógico, se celebrarán por un plazo mínimo de 6 meses.
 
-c).- Acceso a puerto dedicado a través de enlace local.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+c).- Acceso a puerto dedicado a través de enlace dedicado.
 
 Velocidad Cuotas por mes para
 
@@ -4391,17 +4073,11 @@ b).- Almacenamiento por bloque.
 
 > <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
 
-Nivel Primer Segundo Tercer Cuarto Cuotas
+Cuotas mensuales Cuotas por página-día
 
-bloque bloque bloque bloque por
+Primer Segundo Tercer Cuarto en exceso de bloque
 
-página-día
-
-en exceso
-
-de bloque
-
-suscrito
+Nivel Bloque bloque bloque bloque suscrito
 
 1 $ 63,500.00 $ 52,500.00 $ 42,500.00 $ 40,000.00 $ 2.20
 
@@ -4435,37 +4111,29 @@ El contribuyente deberá suscribir, con dos semanas de anticipación al inicio d
 
 El contrato de servicio de paquete de disco, se celebrará por plazo mínimo de 6 meses.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 IV.- Monto del derecho.
 
-a).- Cargo mínimo mensual.
+a).- Pago mínimo mensual.
 
-Cuando la aplicación de las cuotas de las fracciones I, II y III, anteriores a la utilización del servicio que haya hecho el contribuyente en un mes, sea inferior a $2'000,000.00, se pagará el monto del derecho por esta cantidad.
+Cuando la aplicación de las cuotas de las fracciones I, II y II, anteriores a la utilización del servicio que haya hecho el contribuyente en un mes, sea inferior a $ 2'760,000.00 se pagará el monto del derecho por esta cantidad.
 
-b).- Cuando el contribuyente contrate el servicio por un plazo mínimo de un año y el monto del derecho por la aplicación de las cuotas de las fracciones I, II y III, anteriores a la utilización del servicio que haya hecho en un mes, sea mayor de $4'000,000.00, le serán aplicables las siguientes reducciones:
+b).- Cuando el contribuyente contrate el servicio por un plazo mínimo de un año y el monto del derecho por la aplicación de las cuotas de las fracciones I, II y III, anteriores a la utilización del servicio que haya hecho en un mes, sea mayor de $ 5'520,000.00, le serán aplicables las siguientes reducciones:
 
-Monto del Derecho Reducción
+Monto del Derecho Descuentos
 
-Hasta $ 4'000,000.00 0%
+Hasta $ 5'520,000.00 0%
 
-$ 4'000,001.00a $ 8'000,000.00 21% del excedente
+$ 5'520,001.00 a $11'040,000.00 21% del excedente de $ 5'520,000.00
 
-de $ 4'000,000.00
+$11'040,001.00 a $19'320,000.00 $1'159,200.00 26% del excedente de $11'040,000.00
 
-$ 8'000,001.00 a $14'000,000.00 $840,000.00 más 26% del
+$19'320,001.00 a $28'980,000.00 $3'284,400.00 32% del excedente de $19'320,001.00
 
-excedente de $ 8'000,000.00
+$28'980,001.00 a $40'572,000.00 $6'375,600.00 39% del excedente de $28'980,000.00
 
-$14'000,001.00 a $21'000,000.00 $2'400,500.00 más 32% del
-
-excedente de $14'000,000.00
-
-$21'000,001.00 a $30'000,000.00 $4'640,000.00 más 39% del
-
-excedente de $21'000,000.00
-
-$30'000,001.00 y más $8'150,000.00 más 45% del
-
-excedente de $30'000,000.00
+$40'572,001.00 y más $10'954,400.00 45% del excedente de $40'572,000.00
 
 Las tarifas que se establecen en este artículo, presentan para cada uno de los elementos del servicio, cuatro niveles de cuotas:
 
@@ -4575,115 +4243,29 @@ II.- Horario secundario: Todas las otras horas de operación.
 
 III.- El contribuyente será responsable de proporcionar los dispositivos remotos de entrada y salida compatibles y los servicios necesarios de comunicación apropiados para enlazarse con el sistema y pagar todas las cuotas asociadas con aquellos.
 
-IV.- El servicio a puerto dedicado a través de enlace local, debe ser contratado por un mínimo de un mes. Los módems y las líneas serán contratadas por separado.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-V.- En los casos en que el acceso a este servicio sea a través de la Red Pública de Transmisión de Datos (RPTD), el contribuyente se obliga a cubrir, además de la facturación por el mismo, la que resulte por la utilización de dicha Red, de acuerdo a sus tarifas.
+IV.- El servicio a puerto dedicado a través de enlace dedicado, deberá ser contratado por un mínimo de un mes. Los módems y las líneas serán contratadas por separado.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+V.- En los casos en que el acceso a este servicio sea a través de la Red Pública de Transmisión de Datos (TELEPAC) el contribuyente se obliga a cubrir, además de la cuenta a pagar por el mismo, la que resulte por la utilización de dicha Red, de acuerdo a sus tarifas.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 115-F.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1984)
+Para efectos de aplicación de lo dispuesto en los artículos 96, 98, 99, 100, 101 y 102 de esta Ley, la longitud que servirá de base para la aplicación de las cuotas por enlace, será la distancia aérea entre las estaciones del sistema de microondas en que se conduzca la señal, determinada por el método geodésico de Jeppesen, para cálculos de distancia a partir de coordenadas geográficas.
 
 ###### ARTICULO 115-G.
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1984)
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 115-H.
 
-Por el equipo complementario que se proporcione al contribuyente, de los servicios de transmisión de datos, consulta a información meteorológica, procesamiento remoto de datos y cualquier otro que requiera utilizar estos equipos, se pagará el derecho por el uso de equipo, conforme a las siguientes cuotas:
-
-I.- Equipo terminal.
-
-Modelo y Cuota por hora
-
-descripción Cuota en centros de
-
-de la terminal mensual servicio
-
-a).- Terminal marca terminet 200 o su
-
-equivalente con impresión por matriz de punto
-
-y densidad de impresión variable, sin pedestal,
-
-hasta 1,200 baud.
-
-1.- con cartucho $ 49,950.00 $ 833.00
-
-2.- sin cartucho 33,500.00 560.00
-
-b).- Terminal marca terminet 1,232 o su
-
-equivalente con impresión por banda de
-
-caracteres, con pedestal, hasta 1,200 baud.
-
-1.- con cartucho 50,000.00 834.00
-
-2.- sin cartucho 34,000.00 567.00
-
-c).- Terminal marca olivetti TC-485 o su
-
-equivalente con impresión por matriz
-
-de puntos, con unidad de cartucho y pedestal
-
-hasta 300 baud $ 51,760.00 $ 863.00
-
-d).- Terminal marca televideo 910 o su
-
-equivalente de 1,920 caracteres en despliegue
-
-visual hasta 1,200 baud $ 8,175.00 $ 135.00
-
-e).- Terminal de video marca croméco 3,101 o
-
-su equivalente para meteorología con
-
-velocidad de operación de pantalla de 19,200
-
-baud y velocidad de transmisión de 1,200
-
-baud $ 7,000.00
-
-La cuota anterior, no incluye el enlace entre la terminal y el banco de datos.
-
-II.- Equipo modem.
-
-Cuota
-
-mensual
-
-a).- Modem asíncrono de 300 bauds para red conmutada $ 2,050.00
-
-b).- Modem dúplex completo de 1,200bauds, 2 hilos con igualador
-
-automático para red conmutada o enlace local 5,950.00
-
-c).- Modem síncrono de 2,400 bauds para enlace local, 4 hilos 6,580.00
-
-d).- Modem síncrono de 9,600 bauds, para enlace local, 4 hilos 21,750.00
-
-Cuando se utilice el equipo terminal instalada en los centros de servicio, se deberá reservar ésta con una anticipación de 24 horas, indicando qué equipo se requiere y el período aproximado de uso.
-
-La cuota por estos equipos se aplicará a partir de su registro de entrada, hasta su desocupación. No se cobran fracciones de hora, se permite una tolerancia de 5 minutos.
-
-Los modem sólo se proporcionarán conjuntamente con las terminales.
-
-Las cuotas anteriores, incluyen el mantenimiento.
-
-III.- Por instalación.
-
-Cuota
-
-a).- Por conexión inicial o por cambios de domicilio dentro
-
-del mismo edificio $ 2,830.00
-
-b).- Reconexión por suspensión del servicio 1,415.00
-
-c).- Por cambio de número 1,415.00
+Para los efectos de la determinación de los derechos a que se refiere esta Sección, las fracciones de las unidades de medición que sirvan de base para la aplicación de las cuotas se considerarán unidades completas.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -4697,23 +4279,21 @@ Por servicios de telecomunicaciones distintos de los señalados en esta sección
 
 Para los efectos de esta Sección Primera, cuando el contribuyente solicite servicios de técnicos y operadores el derecho correspondiente se incrementará con las prestaciones laborales a que los empleados tengan derecho por el desempeño de su trabajo fuera del lugar de su adscripción, incluidos los gastos de pasaje por viaje de ida y vuelta.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-###### ARTICULO 115.-K.
+###### ARTICULO 115-K.
 
-Por la suscripción, conexión y reconexión de los servicios a que se refiere esta Sección, se pagará el derecho de suscripción y conexión, conforme a las siguientes cuotas:
+Por la conexión y reconexión de los servicios a que se refiere esta sección, se pagará el derecho de conexión y reconexión, conforme a la cuota de $ 4,500.00.
 
-I.- Por suscripción............. $ 1,765.00
+Cuando en algún precepto de esta Sección se establezcan cuotas por estos servicios, no se pagará el derecho conforme a este artículo.
 
-II.- Por conexión o reconexión............. 2,647.00
+Por los servicios de esta Sección que requieran de enlaces locales o circuitos urbanos, se pagarán las cuotas autorizadas a los concesionarios del Servicio Público de conferencias telefónicas.
 
-Cuando en algún precepto de esta Sección se establezcan cuotas por estos servicios no se pagará el derecho conforme a este artículo.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 115-L.
 
-En los eventos en los que se requiera ampliación de capacidad de infraestructura de telecomunicaciones existente o adecuar instalaciones específicas para tal fin y así poder proporcionar servicios relacionados con dichos eventos especiales, se pagarán los derechos a que se refieren los artículos 105 a 107 incrementados en 50% y en 100% en los demás artículos de esta Sección a excepción de los artículos 95, 101, 104, 114 y 115.
+En los eventos en los que se requiera ampliación de capacidad de infraestructura de telecomunicaciones existente o adecuar instalaciones específicas para tal fin y así poder proporcionar servicios relacionados con dichos eventos especiales, se pagarán los derechos a que se refiere esta sección, incrementados en un 100%, a excepción de los artículos 91, 92, 93, 103-A, 113, 114, 115, y del 115-A al 115-E.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -4747,9 +4327,17 @@ Las anteriores cuotas incluyen la entrega y conexión al sistema del exterior, m
 
 Por la utilización de los servicios complementarios que se proporcionen del exterior que permitan, junto con el sistema nacional de telecomunicaciones, proporcionar los servicios a que se refiere este artículo se pagará además una cantidad equivalente a la que la Dependencia prestadora del servicio tenga que pagar para poder prestar dichos servicios y será exigible conforme a lo dispuesto en el artículo 105 de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 115-N.
+
+Los ingresos que se obtengan por los derechos a que se refiere esta Sección, a excepción de los señalados en el siguiente párrafo, se destinarán a la dependencia, órgano u organismo que proporcione los servicios de telecomunicaciones, para cubrir sus gastos de operación, conservación, mantenimiento e inversión, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que exceda el límite señalado en este artículo no tendrá fin específico.
+
+Los ingresos que se obtengan por los derechos a que se refieren los artículos 91, 92, 93 y 113 de esta Ley, a excepción de aquéllos que se deben pagar en moneda extranjera por servicios internacionales a otras administraciones, se destinarán al organismo público descentralizado Telégrafos Nacionales, para cubrir sus gastos de operación, conservación, mantenimiento e inversión hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este párrafo no tendrán fin específico.
+
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION TERCERA. Estudios Faunísticos
+#### SECCION TERCERA. Estudios de Flora y Fauna
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -4773,7 +4361,13 @@ b).- Telegramas ordinarias distintos de los anteriores:
 
 2.- Por cada palabra excedente 5.00
 
-II.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1983)
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+c).- Telemensaje, por cada depósito de mensajes de hasta 300 palabras.......... $ 700.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+II.- Teleimpreso, por cada página tamaño carta u oficio, incluyendo el servicio entrega a domicilio, cuando éste se encuentre ubicado dentro de la ciudad en la que se reciba la señal...... $ 1,000.00
 
 III.- Telegramas urgentes, o con acuse de recibo.
 
@@ -4879,21 +4473,43 @@ II.- Por cada autorización correspondiente a:
 
 a).- La instalación inicial del sistema $ 181,000.00
 
-b).- La modificación semestral de sistemas para servicios profesionales de procesamiento remoto de datos que ya cuentan con autorización de instalación y operación 56,500.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+b).- La modificación de sistemas para servicios profesionales de procesamiento remoto de datos que ya cuentan con autorización de instalación y operación 102,000.00
 
 c).- Cambios de ubicación 10,000.00
 
-d).- La operación de cada uno de los equipos que integran las unidades centrales de procesamiento remoto de datos autorizados en forma inicial o en futuras modificaciones, se pagará anualmente sobre el valor de los mismos 1%
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-e).- La operación de mini-computadores y computadores personales autorizados en forma inicial o en modificaciones posteriores, ya sea que estén ubicados en el centro de computo principal o en las estaciones terminales remotas de los usuarios, se pagará anualmente sobre el valor de los mismos 1%
+d).- La operación de cada uno de los equipos que integran los centros de procesamiento remoto de datos autorizados en forma inicial o de aquéllos equipos que sean instalados en futuras modificaciones, sobre el valor de los mismos, anualmente 1%
 
-f).- La operación de cada uno de los equipos auxiliares, complementarios, de comunicaciones y terminales de datos de cualquier tipo que hayan sido autorizados en forma inicial o en modificaciones posteriores, se pagará anualmente sobre el valor de los mismos 5%
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-g).- Por cada línea o circuito privado punto a punto, con cruce fronterizo para transmisión de voz o de datos, sin enlace a la red del servicio público telefónico, se aplicará la cuota indicada en el Artículo 127, Fracción IV, Inciso c).
+e).- La operación de otros computadores que dependan del centro señalado en el inciso anterior, incluyendo los de tipo personal que haya sido autorizados en forma inicial, así como aquellos equipos que sean adicionados en futuras modificaciones y que estén ubicados en el centro de cómputo principal o en las estaciones terminales remotas de los suscriptores que formen parte del sistema, sobre el valor de los mismos, anualmente 1%
 
-Las cuotas señaladas en los incisos d), e) y f) de la fracción II de este artículo se aplicarán al valor consignado en la factura o documento legal que ampare el valor de adquisición de los equipos que constituyan el sistema.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-En sistemas privados que sean autorizados por la Secretaría de Comunicaciones y Transportes para utilizar su capacidad de cómputo sobrante en la prestación de servicios profesionales de procesamiento remoto de datos, las cuotas aplicables en los incisos d), e) y f) que anteceden, serán en aquellos equipos que intervengan en la prestación de los servicios profesionales señalados.
+f).- La operación de cada uno de los equipos auxiliares, complementarios de comunicaciones y terminales de datos de cualquier tipo que formen parte del sistema en el centro de proceso o en las estaciones terminales remotas que hayan sido autorizadas en forma inicial, así como aquellos equipos que sean adicionados en futuras modificaciones, sobre el valor de los mismos, anualmente 5%
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+g).- Por cada línea o circuito privado que cruce fronterizo para transmisión de voz o de datos, sin enlace a la red del servicio público telefónico, se aplicará la cuota indicada en el artículo 127, fracción IV, inciso c).
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+h).- La operación provisional de los equipos que se indican a continuación, incluyendo el uso de la red telefónica conmutada para respaldo o pruebas, sobre el valor de los mismos, diariamente:
+
+1.- Para los equipos indicados en los incisos d) y e)........... 0.005%
+
+2.- Para los equipos indicados en el inciso f)........... 0.05%
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+El valor de los equipos a que se refieren los incisos d), e), f) y h) de la fracción II de este artículo será el consignado en la factura o documento legal que ampare la enajenación de los equipos que constituyan el sistema.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+En sistemas privados que sean autorizados para utilizar su capacidad de cómputo sobrante en la prestación de servicios profesionales de procesamiento remoto de datos, pagarán los derechos señalados en los incisos d), e), f) y h) que anteceden, por aquellos equipos que intervengan en la prestación de los servicios profesionales señalados.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -4907,19 +4523,35 @@ II.- Por cada autorización correspondiente a:
 
 a).- La instalación inicial del sistema............. 181,000.00
 
-b).- La modificación semestral de los sistemas para servicios profesionales de comunicación de datos que ya cuentan con autorización de instalación y operación.............. 56,500.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+b).- La modificación de los sistemas para servicios profesionales de comunicación de datos que ya cuentan con autorización de instalación y operación........... 102,000.00
 
 c).- Cambios de ubicación……….. 10,000.00
 
-d).- La operación de cada uno de los equipos que integran los centros de distribución de información para la consulta o captura de datos en sistemas para servicios profesionales que han sido autorizados en forma inicial o en futuras modificaciones se pagará anualmente sobre el valor de los mismos............ 1%
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-e).- La operación de mini-computadores y computadores personales autorizados en forma inicial o en modificaciones posteriores, ya sea que estén ubicados en el centro principal o en las estaciones terminales remotas de los usuarios, se pagará anualmente sobre el valor de los mismos........... 1%
+d).- La operación de cada uno de los equipos que forman parte del centro de proceso para la comunicación de datos, incluyendo cualquier tipo de computador que esté ubicado en él domicilio de los suscriptores y que forme parte del sistema para servicios profesionales que haya sido autorizado en forma inicial, así como aquellos equipos que sean adicionados en futuras modificaciones, sobre el valor de los mismos, anualmente.......... 1%
 
-f).- La operación de cada uno de los equipos auxiliares, complementarios, de comunicaciones y terminales de datos de cualquier tipo que hayan sido autorizados en forma inicial o en modificaciones posteriores, se pagará anualmente sobre el valor de los mismos............. 5%
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-g).- Por cada línea o circuito privado punto a punto con cruce fronterizo para transmisión de voz o de datos, sin enlace a la red del servicio público telefónico, se aplicará la cuota indicada en el Artículo 127, Fracción IV, Inciso c).
+e).- La operación de cada uno de los equipos auxiliares, complementarios y de comunicaciones que se encuentren instalados en el centro de proceso para comunicación de datos y en las estaciones terminales remotas, incluyendo todo tipo de terminal de datos que esté operando en forma remota y que hayan sido autorizados en forma inicial, así como aquellos equipos que sean adicionados en futuras modificaciones, sobre el valor de los mismos, anualmente........ 5%
 
-Las cuotas señaladas en los Incisos d), e) y f) de la Fracción II de este Artículo se aplicarán al valor consignado en la factura o documento legal que ampare el valor de adquisición de los equipos que constituyan el sistema.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+f).- La operación provisional de los equipos que se indican a continuación, incluyendo el uso de la red telefónica conmutada para respaldo o pruebas, sobre el valor de los mismos, diariamente:
+
+1.- Para los equipos indicados en el inciso d)....... 0.005%
+
+2.- Para los equipos indicados en el inciso e)........ 0.05%
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+g).- Por cada línea o circuito privado con cruce fronterizo para transmisión de voz o de datos, sin enlace a la red de servicio público telefónico, se aplicará la cuota indicada en el artículo 127, fracción IV, inciso c).
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+El valor de los equipos a que se refieren los incisos d), e) y f) de la fracción II de este artículo será el consignado en la factura o en el documento legal que ampare la enajenación de los equipos que constituyen el sistema.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -4953,11 +4585,21 @@ c).- Instalación de centrales manuales o automáticas; sustitución de centrale
 
 5.- De 10,001 en adelante, por cada serie hasta de 10,000 líneas........... 5,000.00
 
-d).- Instalación de líneas físicas de larga distancia, por cada circuito........... 3,000.00
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Por el estudio técnico de la solicitud a que se refiere este inciso, por cada central...... 100,000.00
 
-e).- Instalación de equipos múltiples o de onda portadora sobre líneas físicas, considerando la capacidad máxima del equipo en canales telefónicos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+d).- Instalación de líneas físicas de larga distancia:
+
+1.- Estudio técnico de la solicitud, por cada circuito.................... 15,000.00
+
+2.- Por otorgamiento de autorización, por cada circuito.................. 30,000.00
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+e).- Instalación de equipos múltiples o de onda portadora sobre líneas físicas, considerando la capacidad máxima del equipo en canales telefónicos, por cada equipo:
 
 1.- Hasta de 12 canales........... 2,500.00
 
@@ -4965,11 +4607,17 @@ e).- Instalación de equipos múltiples o de onda portadora sobre líneas físic
 
 3.- De más de 24 canales........... 5,000.00
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-f).- Instalación de un sistema de radio enlaces de estaciones terminales o repetidoras, cambio de equipo, de ubicación o de ruta del sistema, de frecuencias o inversión del sentido de éstas, se pagará el derecho conforme a las siguientes cuotas:
+Por el estudio técnico de la solicitud a que se refiere este inciso, por cada equipo........ 30,000.00
 
-Estudio técnico de la solicitud, por cada estación terminal o repetidora........ $ 1,000.00
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+f).- Instalación de un sistema de radioenlace de estaciones terminales o repetidoras, cambio de equipo, de antena de ubicación o de ruta del sistema, de frecuencias o inversión del sentido de éstas, por canal de radiofrecuencia.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+Estudio técnico de la solicitud, por cada estación terminal o repetidora........... $ 50,000.00
 
 Otorgamiento de autorización del enlace o sistema, por cada estación terminal o repetidora y por canal de radiofrecuencia con capacidad máxima de:
 
@@ -4995,15 +4643,31 @@ Otorgamiento de autorización del enlace o sistema, por cada estación terminal 
 
 g).- Estudio y autorización de planes y programas de expansión.......... 5,000.00
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+h).- Instalación de equipo tasador telefónico rural............... 15,000.00
+
 IV.- Instalaciones de los usuarios del servicio público telefónico:
 
 a).- Por cada aparato o cambio de domicilio, incluyendo las extensiones que del mismo se deriven........... $ 50.00
 
-b).- Por cambio de lugar de cada aparato, dentro del mismo edificio 20.00
+b).- Por cambio de lugar de cada aparato, dentro del mismo edificio......... 20.00
 
-c).- Por cada línea de enlace, troncal, entre el conmutador local y la central telefónica pública 100.00
+c).- Por cada línea de enlace, troncal, entre el conmutador local y la central telefónica pública........... 100.00
 
 Los derechos a que se refiere la fracción IV de este artículo los pagará el usuario del servicio por conducto de los concesionarios del servicio público telefónico.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+V.- Instalación de un sistema de radioenlace de multiacceso de estación base, estación terminal, cambio de equipo, de ubicación o de ruta del sistema, de frecuencias o inversión del sentido de éstas:
+
+a).- Estudio técnico de la solicitud.............. $ 50,000.00
+
+b).- Otorgamiento de autorización:
+
+1.- Por estación base................... $ 25,000.00
+
+2.- Por estación terminal................. 15,000.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -5227,13 +4891,13 @@ I.- Para sistemas o redes con enlace nacional:
 
 a).- Estudio de la solicitud inicial.......... $ 8,000.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-b).- Estudio de la solicitud para modificar sistemas o instalaciones existentes……….. 15,000.00
+b).- Estudio de la solicitud para modificar sistemas, redes o instalaciones existentes. $ 27,000.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-c).- Instalación y operación de cada uno de los equipos que integran la unidad central de procesamiento remoto de datos, anualmente, sobre el valor de los mismos............. 0.4%
+c).- Instalación y operación de cada uno de los equipos que integran el centro de procesamiento remoto de datos, anualmente, sobre el valor de los mismos................ 0.4%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -5251,9 +4915,13 @@ f).- Por cada uno de los equipos terminales remotos de datos sean o no inteligen
 
 inteligentes y miniprocesadores, a los centros de procesamiento indicados en los incisos c) y d), de esta fracción, anualmente, sobre el valor de los mismos............... 3%
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-g).- Autorización provisional de operación o enlace temporal de la red telefónica pública con fines de respaldo o urgencia, diariamente, sobre el valor de los equipos utilizados............. 0.05%
+g).- Operación provisional de los equipos que se indican a continuación, incluyendo el uso de la red telefónica conmutada para respaldo o prueba, sobre el valor de los mismos, diariamente:
+
+1.- Para los equipos indicados en los incisos c) y d)………… 0.005%
+
+2.- Para los equipos indicados en los incisos e) y f)………… 0.05%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -5271,9 +4939,9 @@ a).- Estudio de la solicitud inicial.......... 16,000.00
 
 b).--Estudio de la solicitud para modificar sistemas o instalaciones existentes.............. $ 30,000.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-c).- Instalación y operación de cada uno de los equipos que integran la unidad central de procesamiento remoto de datos, ubicados en el país, anualmente, sobre el valor de los mismos………… 0.8%
+c).- Instalación y operación de cada uno de los equipos que integran el centro de procesamiento remoto de datos, ubicados en el país, anualmente, sobre el valor de los mismos........... 0.8%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -5289,17 +4957,21 @@ e).- Instalación y operación de cada uno de los equipos auxiliares, complement
 
 f).- Por cada uno de los equipos terminales remotos de datos, sean o no inteligentes y estén o no enlazados a través de controladores o concentradores inteligentes y miniprocesadores, a los centros de procesamiento indicados en los incisos c) y d) de esta fracción o con enlace directo internacional, anualmente, sobre el valor de los mismos........... 6%
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-g).- Por autorización provisional de operación o enlace temporal a la red telefónica pública con fines de respaldo o urgencia, diariamente, sobre el valor de los equipos utilizados………. 0.08%
+g).- Operación provisional de los equipos que se indican a continuación, sobre el valor de los mismos, diariamente:
+
+1.- Para los equipos indicados en los incisos c) y d)………. 0.008%
+
+2.- Para los equipos indicados en los incisos e) y f)………. 0.08%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 h).- Por cambios de ubicación. $ 8,000.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-i).- Por cada línea o circuito privado punto a punto con cruce fronterizo para transmisión de voz o de datos sin enlace a la red del servicio público telefónico, se aplicará la cuota indicada en el artículo 127, fracción IV, inciso c).
+i).- Por cada línea o circuito privado con cruce fronterizo para transmisión de voz o de datos sin enlace a la red de servicio público telefónico, se aplicará la cuota indicada en el artículo 127 fracción IV, inciso c).
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)
 
@@ -5363,7 +5035,9 @@ b).- Por el otorgamiento del permiso o autorización.......... $ 1,600.00
 
 c).- Por cada autorización correspondiente a:
 
-1.- Sustitución de equipo multilínea o distribuidor automático de llamadas, se aplicarán las cuotas de la fracción I.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+1.- Sustitución de equipo multilínea o distribuidor automático de llamadas, se aplicarán las cuotas de la fracción II.
 
 2.- Cambio de ubicación........... $ 500.00
 
@@ -5373,51 +5047,113 @@ d).- Por equipos o sistemas que operen a la vez como conmutador telefónico y co
 
 III.- Líneas físicas o circuitos privados de propiedad federal, estatal, municipal o de particulares, enlazadas o no a la red del servicio público telefónico.
 
-a).- Por el estudio técnico y económico de la solicitud............ $ 1,500.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+a).- Por el estudio técnico de la solicitud..... $ 9,800.00
 
-b).- Por el otorgamiento del permiso o autorización.......... $ 2,400.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-c).- Por cada circuito, una cuota anual de............ 600.00
+b).- Por el otorgamiento del permiso o autorización............. 9,800.00
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+c).- Por cada línea o circuito, una cuota anual de............ 3,900.00
 
 d).- Por cada autorización correspondiente a:
 
-1.- Cambio del trazo de la línea o del número de circuitos............ $1,500.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+1.- Cambio de trayectoria de la línea o del número de circuitos........... $ 9,800.00
 
 2.- Sustitución de los equipos conectados a la línea........... 1,000.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-IV.- Línea o circuito privado punto a punto con cruce fronterizo para transmisión de voz o de datos, sin enlace a la red del servicio público telefónico:
+IV.- Línea o circuito privado con cruce fronterizo para transmisión de voz o de datos, sin enlace a la red del servicio público telefónico:
 
 a).- Por estudio técnico de la solicitud.............. $ 1,500.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-b).- Por el otorgamiento del permiso o autorización.......... $ 2,400.00
+b).- Por el otorgamiento del permiso o autorización.......... 2,400.00
 
-c).- Por cada circuito, una cuota anual de............ 4,000.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+c).- Por cada línea o circuito, anualmente............. 26,000.00
 
 d).- Por sustitución de los equipos conectados a la linea........... 1,000.00
 
 V.- Las cuotas que resulten de aplicar la cuota del inciso c) de las fracciones III y IV corresponden a una anualidad; al otorgarse el permiso, se determinará la proporción que corresponda al período que falte para concluir el año calendario respectivo.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-VI.- Por canalización y cableado telefónico, con enlace a la red del servicio público telefónico, se pagará conforme a las siguientes cuotas:
+VI.- Por el estudio técnico de la solicitud por cableado telefónico con enlace a la red del servicio público telefónico:
 
 a).- En edificios:
 
-1.- Por el estudio técnico de la solicitud........ $ 2,000.00
+1.- Hasta de 50 líneas directas y 70 líneas locales............ $ 10,000.00
 
-2.- Por los trámites para la expedición del permiso o autorización........ 5,000.00
+2.- De más de 50 líneas directas y más de 70 líneas locales............ 15,000.00
 
-b).- En fraccionamientos y unidades habitacionales:
+b).- En fraccionamientos, unidades habitacionales y centros comerciales, independientemente de la cuota del inciso anterior:
 
-1.- Por el estudio técnico de la solicitud..... $ 4,000.00
+1.- Hasta 50 líneas directas y 70 líneas locales......... $ 20,000.00
 
-2.- Por los trámites para la expedición del permiso o autorización......... 7,000.00
+2.- De más de 50 líneas directas y más de 70 líneas locales, hasta de 300 líneas directas y 400 líneas locales.......... 35,000.00
+
+3.- De más de 300 líneas directas y más de 400 líneas locales.......... 50,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+VII.- Por el otorgamiento de la autorización:
+
+a).- En edificios............. $ 25,000.00
+
+b).- En fraccionamientos, unidades habitacionales y centros comerciales, independientemente de la cuota del inciso anterior............... 50,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+VIII.- Por tubería y canalización telefónicas, con enlace a la red del servicio público telefónico:
+
+a).- Por el estudio técnico de la solicitud:
+
+1.- En edificios.................. $ 25,000.00
+
+.2.- En fraccionamientos, unidades habitacionales y centros comerciales, independientemente de la cuota del inciso anterior.............. 50,000.00
+
+b).- Por el otorgamiento de la autorización:
+
+1.- En edificios................ $ 20,000.00
+
+2.- En fraccionamientos, unidades habitacionales y centros comerciales, independientemente de la cuota del inciso anterior............ 40,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+IX.- Por instalar, operar y enlazar a la red del servicio telefónico un tasador telefónico privado:
+
+a).- Por el estudio técnico de la solicitud considerando la capacidad máxima de líneas directas o extensiones a controlar, por tasador:
+
+1.- Hasta de 10 líneas..................... $ 3,600.00
+
+2.- De 11 hasta 25 líneas................... 11,000.00
+
+3.- De 26 hasta 50 líneas................... 18,000.00
+
+4.- De 51 hasta 100 líneas.................. 21,500.00
+
+5.- De 101 hasta 200 líneas................. 25,500.00
+
+6.- De 201 hasta 300 líneas................. 29,000.00
+
+7.- De más de 300 líneas................... 32,500.00
+
+b).- Por el otorgamiento de la autorización………. 5,400.00
+
+c).- Por cada autorización correspondiente a:
+
+1.- Sustitución del tasador, se aplicarán las cuotas del inciso a).
+
+2.- Cambio de domicilio.................. 1,800.00
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -5463,11 +5199,21 @@ II.- Hotel............ 100,000.00
 
 III.- Distintos a los anteriores.............. 60,000.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+IV.- Por cada derivación adicional al sistema primario............ 10,000.00.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 128-B.
+
+Por la autorización a los concesionarios y permisionarios de servicios de Telecomunicaciones, para el establecimiento y operación de estaciones terrenas receptoras para enlaces nacionales descendentes, se pagará anualmente el derecho de autorización para estaciones terrenas, conforme a la cuota de $ 100,000.00.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 129.
 
-Por las autorizaciones para establecer sistemas y redes privadas no sujetas a procesamiento remoto de datos, se pagará el derecho por las autorizaciones para los servicios telefónicos o de comunicación de datos conforme a las siguientes cuotas:
+Por las autorizaciones para establecer sistemas y redes privadas de telefonía y de comunicación de datos, se pagará el derecho de autorizaciones para los servicios telefónicos o de comunicación de datos conforme a las siguientes cuotas:
 
 I.- Para sistemas o redes con enlace nacional:
 
@@ -5477,9 +5223,13 @@ b).- Estudio de la solicitud
 
 para modificar sistemas o redes previamente autorizadas............ 15,000.00
 
-c).- Por la instalación y operación de cada uno de los equipos, aparatos y demás accesorios que integran la parte central del sistema o red, incluyendo procesadores personales ubicados en el mismo o en las estaciones terminales remotas, se pagará anualmente sobre el valor de los equipos........... 0.6%
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-d).- Por la instalación y operación de cada uno de los equipos, aparatos y demás accesorios de las estaciones terminales remotas del sistema o red, se pagará anualmente sobre el valor de los equipos……….. 3%
+c).- Por la instalación y operación de los equipos que forman parte del centro de proceso del sistema o red de comunicación de datos, anualmente sobre el valor de los equipos.............. 0.6%
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+d) Por la instalación y operación de cada uno de los equipos, aparatos y demás accesorios que integran el sistema o red de telefonía o de comunicación de datos, anualmente sobre el valor de los equipos……….. 3%
 
 e).- Por operar con el carácter de provisional, enlazar temporalmente a la red del servicio público telefónico con fines de respaldo o urgencia equipos de datos o de telefonía que pertenezcan al sistema o red, se pagará diariamente sobre el valor de los equipos utilizados……….. 0.05%
 
@@ -5491,13 +5241,17 @@ a).- Estudio de la solicitud inicial .............. 36,000.00
 
 b).- Estudio de la solicitud para modificar sistemas o redes previamente autorizadas............ 30,000.00
 
-c).- Por la instalación y operación de cada uno de los equipos, aparatos y demás accesorios que integran la parte central del sistema o red incluyendo procesadores personales contenidos en el mismo o en las estaciones terminales remotas y que estén ubicados en el país, se pagará anualmente sobre el valor de los equipos............ 1%
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+c).- Por la instalación y operación de los equipos que forman parte del centro de proceso del sistema o red de comunicación de datos ubicados en el país, anualmente sobre el valor de los equipos............ 1%
 
 d).- Por la instalación y operación de cada uno de los equipos, aparatos y demás accesorios de las estaciones terminales remotas ubicados en el país y que pertenezcan al sistema o a la red, se pagará anualmente sobre el valor de los equipos............. 6%
 
 e).- Por operar con el carácter de provisional, enlazar temporalmente a la red del servicio público telefónico con fines de respaldo o urgencia equipos de datos o de telefonía que pertenezcan al sistema o red y que estén ubicados en el país, se pagará diariamente sobre el valor de los equipos utilizados........... 0.08%
 
-f).- Por cada línea o circuito privado punto a punto con cruce fronterizo para transmisión de voz o de datos, se aplicará la cuota indicada en el Artículo 127, Fracción IV, inciso c).
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+f).- Por cada línea o circuito privado con cruce fronterizo para transmisión de datos sin enlace a la red del servicio público telefónico, se aplicará la cuota indicada en el artículo 127, fracción IV inciso c)
 
 g).- Por cambios de ubicación............... $ 8,000.00
 
@@ -5559,7 +5313,7 @@ d).- Por cada línea o circuito punto a punto con cruce fronterizo para transmis
 
 Por la inspección inicial, verificación y vigilancia de sistemas de telefonía, se pagará el derecho por la inspección de sistemas de telefonía conforme a las siguientes cuotas:
 
-1.- Servicio público:
+I.- Servicio público:
 
 a).- Centrales telefónicas con capacidad máxima de:
 
@@ -5573,9 +5327,9 @@ a).- Centrales telefónicas con capacidad máxima de:
 
 5.- De 10,001 en adelante, por cada serie hasta de 10,000 líneas.............. 10,000.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-b).- Instalaciones de equipos terminales de ondas portadoras sobre líneas físicas, de sistemas de modulación por impulsos codificados (MIC) y múltiplex en general, considerando la capacidad máxima de los equipos en canales telefónicos de:
+b).- Instalación de equipo terminal de ondas portadoras sobre líneas físicas de sistemas por impulsos codificados, y múltiplex en general, considerando la capacidad máxima de los equipos en canales telefónicos, por cada uno:
 
 1.- Hasta 12 canales telefónicos............. $ 2,000.00
 
@@ -5597,7 +5351,7 @@ c).- Por cada estación terminal o repetidora de sistema de radioenlaces telefó
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-6.- De más de 1,800 hasta 2,700 canales telefónicos........... $ 7,200.00
+6.- De más de 1,800 hasta 2,700 canales telefónicos........... 7,200.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -5609,9 +5363,17 @@ d).- Radiotelefónico móvil:
 
 2.- Por cada estación o terminal móvil............. 500.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-e).- Por cada equipo tasador telefónico rural.......... $ 1,500.00
+e).- Por cada equipo tasador telefónico rural…….. $ 6,100.00
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+f).- Sistema de radioenlace de multiacceso:
+
+1.- Por estación base o central................ $ 25,000.00
+
+2.- Por estación terminal fija................. 10,000.00
 
 II.- Sistemas e instalaciones privadas:
 
@@ -5649,9 +5411,9 @@ b).- Equipo multilínea o distribuidor automático de llamadas enlazadas a la re
 
 c).- Para equipos o sistemas que operan a la vez como conmutador telefónico y como distribuidor automático de llamadas, la cuota a cubrir será el 75% de la suma de las cuotas correspondientes a ambos tipos de equipos.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-d).- Equipos tasadores telefónicos privados a la red del servicio público telefónico, con capacidad máxima en líneas de extensión de:
+d).- Equipos tasadores telefónicos privados enlazados a la red del servicio público telefónico, con capacidad máxima en líneas de extensión de:
 
 1.- Hasta 10 líneas.......... $ 500.00
 
@@ -5675,7 +5437,35 @@ a).- Por cada línea o circuito de larga distancia para servicio público: $ 2,0
 
 b).- Por cada línea privada de propiedad federal, estatal, municipal o de particulares, enlazada o no a la red del servicio público telefónico............ 1,000.00
 
-c).- Por cada línea privada punto a punto con cruce fronterizo para transmisión de voz o datos, sin enlace a la red del servicio público telefónico............. 2,000.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+c).- Por cada línea privada con cruce fronterizo para transmisión de voz o datos, sin enlace a la red del servicio público telefónico.......... 30,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+IV.- Por cableado telefónico:
+
+a).- En edificios:
+
+1.- Hasta de 50 líneas directas y 70 líneas locales.............. $ 25,000.00
+
+2.- De más de 50 líneas directas y 70 líneas locales.............. 35,000.00
+
+b).- En fraccionamientos, unidades habitacionales y centros comerciales, independientemente de la cuota del inciso anterior:
+
+1.- Hasta de 50 líneas directas y 70 líneas locales............. $ 50,000.00
+
+2.- De 51 hasta 300 líneas directas y de 71 hasta 400 líneas locales............ 75,000.00
+
+3.- De más de 300 líneas directas y más de 400 líneas locales.......... 100,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+V.- Tubería y canalización telefónica:
+
+a).- En edificios............... $ 25,000.00
+
+b).- En fraccionamientos, centros comerciales y unidades habitacionales, independientemente de la cuota del inciso anterior............. 75,000.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -5715,11 +5505,17 @@ III.- Distintos de los anteriores............. 20,000.00
 
 Por la inspección inicial, de estaciones terrenas receptoras para enlaces nacionales descendentes, se pagará el derecho por la inspección en sistemas especiales de telecomunicación, conforme a la cuota de $20,000.00.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 133-D.
+
+Por la verificación de sistemas, los concesionarios y permisionarios de vías generales de comunicación de sistemas especiales de telecomunicaciones, en servicio público o sistemas privados, pagarán el derecho por la verificación de sistemas, conforme a la cuota de $ 100,000.00.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 134.
 
-Por la inspección inicial, de sistemas, se pagarán derechos por la inspección de sistemas conforme a las siguientes cuotas:
+Por la verificación inicial de los sistemas, a que se refieren los artículos 120-A, 129 y 129-A de esta Ley, pagarán el derecho por la verificación del sistema conforme a las siguientes cuotas:
 
 I.- Servicios profesionales:
 
@@ -5739,35 +5535,19 @@ a).- Por cada uno de los equipos que forman parte del sistema central, conmutado
 
 b).- Por cada minicomputador o procesador personal que forme parte del sistema y que esté ubicado en el centro principal o en las estaciones terminales remotas............ 10,000.00
 
-c).- Por cada equipo terminal de datos, de comunicaciones, complementario o auxiliar que forme parte del sistema............. 550.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-> <small>(F. DE E., D.O.F. 24 DE ENERO DE 1986)</small>
+c).- Por cada equipo terminal de datos, de comunicaciones, complementario o auxiliar que forme parte del sistema, incluyendo a equipos facsímil.......... 1,000.00
 
-d).- Por cada línea o circuito con cruce fronterizo para transmisión de enlace a la red del servicio público telefónico.......... 7,200.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+d).- Por cada línea o circuito con cruce fronterizo para transmisión de voz o datos sin enlace a la red del servicio público telefónico, se aplicarán las cuotas señaladas en el artículo 132, fracción III.
 
 e).- Por cada dispositivo o aparato telefónico considerando la capacidad máxima del sistema........... 180.00
 
-III.- Cableado telefónico:
+III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1986)
 
-a).- En edificios:
-
-1.- Hasta de 50 directos y 70 locales............. 10,000.00
-
-2.- De más de 50 directos y más de 70 locales............ 12,000.00
-
-b).- En fraccionamientos, centros comerciales y unidades habitacionales:
-
-1.- Hasta de 50 directos y 70 locales............. 10,000.00
-
-2.- De más de 50 directos y más de 70 locales hasta de 300 directos y 400 locales………. 15,000.00
-
-3.- De más de 300 directos y más de 400 locales........... 25,000.00
-
-IV.- Tuberías y canalización telefónicas:
-
-a).- En edificios............ 10,000.00
-
-b).- En fraccionamientos, centros comerciales y unidades habitacionales............. 25,000.00
+IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -5809,11 +5589,11 @@ I.- Visita ordinaria, la que se realiza anualmente y que tiene por objeto verifi
 
 II.- Visita extraordinaria, la que se realiza cada vez que se autoriza una modificación a las instalaciones, equipos o aparatos señalados en la concesión o en el permiso respectivo, así como a aquéllas que como resultados de irregularidades de visitas iniciales u ordinarias tenga que realizarse, para verificar el correcto funcionamiento de la estación.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 138.
 
-Por expedición de certificados de homologación cuando se realicen pruebas y mediciones en muestras físicas de equipos, aparatos, dispositivos y accesorios de telecomunicación, se pagará derecho por homologación en materia de telecomunicaciones, conforme a las siguientes cuotas:
+Por expedición de certificados de homologación o registro para equipos, aparatos, dispositivos y accesorios de telecomunicación, se pagará el derecho por homologación o registro en materia de telecomunicaciones, conforme a las siguientes cuotas:
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -5867,33 +5647,29 @@ XII.- Equipos de más de $5'000,000.00 hasta $12'500,000.00 una cuota fija de $3
 
 XIII.- Equipos de más de $12'500,000.00............. 3%
 
-El por ciento a que se refiere este articulo se aplicará al valor total de los equipos de telecomunicación considerando su capacidad máxima.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 4 DE MARZO DE 1985)
+El porciento a que se refiere este artículo, se aplicará al valor total de los equipos de telecomunicación considerando su capacidad máxima, con excepción de las centrales telefónicas públicas, para los cuales se tomará como base la capacidad de 10,000 líneas.
 
-Las cantidades que se señalan como precio de los equipos a que se refiere este artículo, se incrementarán en la misma proporción que se incrementen las cuotas de este derecho con el factor a que se refiere el artículo 1o., segundo párrafo de esta Ley.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+El valor del equipo que servirá de base para la aplicación de la cuota, será el precio unitario de venta al público de dicho equipo, estimado sobre su capacidad máxima.
 
 ###### ARTICULO 139.
 
-Por el certificado de registro. cuando no se requiera realizar pruebas y mediciones a consideración de la Secretaría de Comunicaciones y Transportes, se pagará el derecho por registro en materia de telecomunicaciones conforme a la cuota del 75% del derecho señalado en el artículo anterior
-
-El valor del equipo sobre su capacidad máxima que servirá de base para la aplicación de la cuota, será el precio vigente de venta al público registrado en la Secretaría de Comercio.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 140.
 
-Por la expedición de certificados de homologación o de registro, para equipos que operan en la banda compartida de 26,960 a 27,410 megahertz, se pagará el derecho de certificado de homologación conforme a la cuota de $ 1,300.00 por cada equipo.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 141.
 
-Los certificados de homologación o de registro clase "A", se otorgarán previa solicitud del interesado después de los certificados clase "B" y se cobrará por su expedición el 25% de los derechos señalados en los artículos 138 y 139 de esta Ley, siempre que no se requiera hacer pruebas y mediciones y que no se hayan modificado las características técnicas y operativas autorizadas, en caso contrario se procederá a expedir nuevos certificados clase "B".
+Por la expedición de los certificados de homologación o de registro clase "A", que se expidan a solicitud del interesado después de los certificados clase "B", se pagará el 100% de los derechos señalados en las fracciones I a VI y el 50% de lo señalado en las fracciones VII a XIII del artículo 138 de esta Ley, siempre, que no hayan modificado las características técnicas y operativas autorizadas.
 
-Los certificados de homologación y de registro expedidos conforme a los artículos 138 y 139 de esta Ley, se denominarán clase "B" y tendrán vigencia de un año a partir de la fecha de su expedición.
+Los certificados de homologación y de registro a que se refiere el artículo 138 de esta Ley, se denominarán clase "B" y tendrán vigencia de un año a partir de la fecha de su expedición.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -6011,11 +5787,29 @@ III.- Por cada 100 gramos o fracción distintos a los que se refiere la fracció
 
 B.- Bultos conteniendo mercancías, conforme al doble de las cuotas a que se refiere el apartado C del artículo 142 de esta Ley. Por los libros e impresos, así como diarios y publicaciones periódicas con peso mínimo de 60 gramos, se pagará el 75% del derecho que resulte de conformidad con este apartado.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 143-A.
+
+Por los servicios de correo acelerado en el régimen interior de la República, se pagará el derecho de correo, por pieza, conforme a las siguientes cuotas:
+
+Servicio Servicio
+
+Local Foráneo
+
+I.- Hasta 100 gramos $ 1,000.00 $ 2,500.00
+
+II.- De más de 100 y hasta 500 gramos $ 1,500.00 $ 3,000.00
+
+III.- De más de 500 y hasta 1,000 gramos $ 2,000.00 $ 3,500.00
+
+Para los efectos de aplicación de este artículo por servicio local se entenderá aquél que se presta para conducir piezas postales dentro de la misma población. Por servicio foráneo se entenderá a aquél que se presta para conducir piezas postales de una población a otra.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 144.
 
-Por los servicios de correo que presta la Secretaría de Comunicaciones y Transportes en el interior de la República, distintos de los señalados en los demás artículos de esta Sección, se pagará el derecho de correo conforme a la (sic) siguientes cuotas:
+Por los servicios de correo que se prestan en el régimen interior de la República, distintos de los señalados en los demás artículos de esta Sección, se pagará el derecho de correo conforme a las siguientes cuotas:
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -6041,9 +5835,9 @@ a).- Solicitado en el momento del depósito.......... 50,00
 
 b).- Solicitado posteriormente a la fecha del depósito......... 135.00
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-IV. Seguro postal, además del franqueo correspondiente, por cada $100.00 o fracción del valor declarado............ 5.00
+IV.- Seguro postal, además del tranqueo correspondiente, por cada $ 1,000.,00 o fracción del valor declarado.......... 50.00
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -6055,9 +5849,15 @@ b).- Solicitado con posterioridad a la fecha de su expedición........ 37.00
 
 VI.- Reexpedición de correspondencia a población diferente: se pagará el derecho correspondiente al nuevo destino.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-VII.- Almacenaje de toda correspondencia a partir del undécimo día hábil de haberse notificado al destinatario, diariamente……….. 50.00
+VII.- Almacenaje de toda correspondencia a partir del undécimo día hábil de haberse notificado al destinatario, diariamente:
+
+a).- Hasta 100 grs.............. $ 100.00
+
+b).- De más de 100 grs. hasta 500 grs…….... 150.00
+
+c).- De más de 500 grs............... 200.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -6073,31 +5873,35 @@ a).- Solicitado expresamente para situación de fondos, una cuota de $ 20.00 y a
 
 b).- Expedidos para cubrir el valor de cada reembolso, una cuota de $ 40.00 y además el 4% sobre el valor del giro expedido.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 X.- Premios por vales:
 
-a).- Con valor hasta de $ 25.00 $ 0.50
+a).- Con valor hasta de $ 50.00.......... $ 5.00
 
-b).- Con valor hasta de 50.00 1.00
+b).- Con valor hasta de 100.00............ 10.00
 
-c).- Con valor de 100.00 3.00
+c).- Con valor de 500.00.............. 15.00
 
-d).- Con valor de 500.00 15.00
+d).- Con valor de 1,000.00............ 25.00
 
-e).- Con valor de 1,000.00 30.00
+e).- Con valor de 5,000.00.......... 120.00
 
-f).- Con valor de 5,000.00 150.00
+f).- Con valor de 10,000.00........... 240.00
+
+g).- Con valor de 20,000.00........... 480.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 XI.- Permiso para envío de correspondencia con derechos por cobrar por bimestre o fracción........... 250.00
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 XII.- Alquiler de cajas de apartado:
 
-a).- Tamaño chico, cada una, por doce meses......... 250.00
+a).- Tamaño chico, cada una por bimestre o fracción............ $ 1,000.00
 
-b).- Tamaño cuádruple, cada una, por doce meses.......... 1,000.00
+b).- Tamaño cuádruple cada una, por bimestre o fracción......... 3,000.00
 
 XIII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1984)
 
@@ -6137,11 +5941,11 @@ XVIII.- Devolución de bultos registrados, bultos con reembolso y bultos asegura
 
 XIX.- Por el envío de llaves de hotel cuando carezcan de las estampillas correspondientes, el destinatario pagará el doble de las cuotas que se establecen en el apartado A del Artículo 142 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 145.
 
-Por los servicios de correo internacional en vías de superficie, aéreas y servicios adicionales que presta la Secretaría de Comunicaciones y Transportes, se pagará el derecho de correo conforme a las siguientes cuotas:
+Por los servicios de correo internacional en vías de superficie, aéreas y servicios adicionales, se pagará el derecho de correo conforme a las siguientes cuotas:
 
 A.- Vías de superficie.
 
@@ -6215,7 +6019,9 @@ II.- Aviso de recepción, por pieza............ 110.00
 
 III.- Aviso de pago de giros, por pieza............. 75.00
 
-IV.- Almacenaje, por cada paquete de más de 500 gramos, a partir del undécimo día hábil de haberse notificado al destinatario, diariamente........ 40.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+IV.- Almacenaje, por cada paquete de más de 500 gramos, a partir del undécimo día hábil de haberse notificado al destinatario, diariamente…….. 200.00
 
 V.- Reclamaciones y trámites extraordinarios........... 80.00
 
@@ -6223,9 +6029,13 @@ VI.- Petición de devolución, reexpedición o modificación de dirección......
 
 VII.- Presentación a la aduana, por pieza:
 
-a).- Envíos de correspondencia, importación.......... $ 160.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-b).- Envíos de correspondencia, exportación........... 40.00
+a).- Envíos de correspondencia y encomiendas, importación........... $ 1,000.00
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+b).- Envíos de correspondencia y encomiendas, exportación........... 300.00
 
 c).- Encomiendas, importación….... 200.00
 
@@ -6237,9 +6047,17 @@ IX.- Tarjeta de identidad postal de la Unión Postal Universal.......... 65.00
 
 X.- Cupones respuesta.......... 90.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-XI.- Entrega de encomiendas postales, por pieza......... 30.00
+XI.- Por las mercancías procedentes del extranjero que se reciban por la vía postal, se pagará el 3% sobre el valor base para el impuesto general de importación.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+Para efectos de aplicación de las cuotas de los derechos señalados en el apartado A de este artículo, las mismas se incrementarán cuatrimestralmente, en la misma proporción en que se incrementen las tasas básicas que fija el Convenio Postal Universal, conforme al valor del franco oro.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+Las cuotas de los derechos establecidos en la fracción III del apartado B de este artículo, se incrementarán cuatrimestralmente en la misma proporción a que se refiere el párrafo anterior.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -6268,6 +6086,10 @@ La correspondencia del servicio internacional estará exenta del pago del derech
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 No se pagará el derecho de correo por la correspondencia de cecogramas para invidentes hasta por paquetes de 7 kilogramos, así como en los casos que señalan los párrafos segundo y tercero del artículo 23 de la Ley de Amparo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+No pagarán el derecho de correo la correspondencia entre bibliotecas públicas que contenga libros, así como los envíos de libros que en forma gratuita a éstas, hagan las empresas editoriales residentes en México.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -6673,11 +6495,7 @@ C.- Servicios extraordinarios de control de tránsito aéreo, proporcionado a op
 
 D.- Servicios diversos proporcionados a operadores regionales, alimentadores, taxi aéreo, vuelos comerciales regulares o no regulares, nacionales e internacionales, escuelas de aviación, aeronaves privadas y oficiales.
 
-I.- Despacho de aeronaves, que incluye asesoramiento para la elaboración del plan de vuelo e información meteorológica y de Notam's:
-
-1.- Vuelos por instrumentos.......... $ 800.00
-
-2.- Vuelo visual.......... 300.00
+I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -6694,6 +6512,12 @@ III.- Monitoreo de frecuencia control dé tránsito aéreo por frecuencia, cada 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 IV.- Por la información consistente en mapas de precisión constante, de superficie y de vientos superiores, fucas, facas TFMX 1, 2, 3, fotosatélite, por cada una............. 340.00
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 151-A.
+
+Los ingresos que se obtengan por los derechos a que se refieren los artículos 150 y 151 de esta Ley, se destinarán al órgano desconcentrado que proporcione los servicios a la navegación en el espacio aéreo mexicano, para cubrir sus gastos de operación, conservación, mantenimiento e inversión, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este artículo, no tendrán fin específico.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -7891,6 +7715,10 @@ No se pagará el derecho a que se refiere este artículo por las embarcaciones q
 
 Los derechos que se cobren por la prestación de los servicios a que se refiere este artículo, se destinarán a la Dirección General de Marina Mercante.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+Los ingresos que se obtengan por los derechos a que se refiere este artículo, se destinarán a la dependencia que proporcione el servicio, para cubrir sus gastos de operación, conservación, mantenimiento e inversión, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que excedan el límite señalado en este artículo, no tendrán fin específico.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 171.
@@ -7997,6 +7825,26 @@ II.- Por el otorgamiento del permiso............. 1,200.00
 
 Estos derechos se pagarán independientemente de los que correspondan conforme al Título II de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 173-B.
+
+Por los servicios que a continuación se señalan, se pagará el derecho de zona marítima terrestre, conforme a las siguientes cuotas:
+
+I.- Por la recepción y estudio de la solicitud de concesión............ $ 15,000.00
+
+II.- Por el deslinde y levantamiento topográfico de la zona sujeta a concesión, por metro cuadrado............ $ 1,000.00
+
+III.- Por la renovación de la concesión............. $ 50,000.00
+
+IV.- Por la cesión de la concesión entre particulares........... $ 100,000.00
+
+V.- Por la verificación de cumplimiento de obligaciones derivadas del título de concesión….......….. $ 20,000.00
+
+Cuando la zona marítimo terrestre se utilice para la agricultura, ganadería o pesca, las cuotas señaladas en este artículo, se reducirán en un 50%.
+
+Este derecho se pagará independientemente del que corresponda por el uso o aprovechamiento de la zona marítimo terrestre conforme al Título II de esta Ley.
+
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 174.
@@ -8007,15 +7855,27 @@ Cuando la zona marítimo terrestre se utilice para la agricultura, ganadería o 
 
 Este derecho se pagará independientemente del que corresponda conforme al Título II de esta ley.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN , D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 174-A.
 
 Por los servicios que a continuación se señalan, se pagará el derecho pro servicio de flora y fauna conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-I.- Por el registro y refrendo anual de clubes o asociaciones cinegéticas........ 3,000.00
+I.- Por el registro y refrendo anual:
+
+a).- De clubes o asociaciones cinegéticas, por socio.............. $ 1,000.00
+
+b).- De criaderos y granjas de especies silvestres, por cada uno........... 10,000.00
+
+c).- De ranchos cinegéticos, por cada uno……….. 50,000.00
+
+d).- De ejidos cinegéticos, por cada uno............. 15,000.00
+
+e).- De mascotas de fauna silvestre, por cada uno............. 10,000.00
+
+No se pagará por el refrendo anual del registro a que se refiere el inciso e) de esta fracción.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -8025,11 +7885,19 @@ a).- Para organizadores de expediciones cinegéticas, por temporada y por entida
 
 b).- Para taxidermistas.......... 2,000.00
 
-c).- Individuales para el entrenamiento de aves y perros de presa....... $ 1,000.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-d).- Para colecta científica realizada en el país por extranjeros residentes en el extranjero........ 15,000.00
+c).- Individuales para entrenamiento:
 
-e).- Para guías cinegéticos, por temporada.......... $ 5,000.00
+1.- De aves................. 8,000.00
+
+2.- De perros de presa.............. 20,000.00
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+d).- Para colecta científica realizada en el país por extranjeros............ 200,000.00
+
+e).- Para guías cinegéticos, por temporada.......... 5,000.00
 
 f).- Para comercialización ambulante de aves canoras y de ornato......... 1,000.00
 
@@ -8039,9 +7907,29 @@ h).- Para comerciantes en mayoreo de aves canoras y de ornato.......... 15,000.0
 
 i).- Para transportación de aves canoras y de ornato............. 1,500.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-j).- Trámite de solicitudes de permisos de importación, cualquiera que sea su resolución, por cada solicitud......... 500.00
+j).- Trámite de solicitudes de permisos de importación definitiva, cualquiera que sea su resolución:
+
+1.- De trofeos de caza, por cada uno......... 15,000.00
+
+2.- De animales de fauna silvestre para fines comerciales:
+
+De especies mayores, por cada uno........... 50,000.00
+
+De especies menores, por cada uno........... 25,000.00
+
+3.- De animales de fauna silvestre para fines no comerciales:
+
+De especies mayores.............. 16,000.00
+
+De especies menores.............. 8,000.00
+
+4.- De aves canoras, por cada uno.......... 100.00
+
+5.- Distintas de los anteriores, por cada trámite............. 8,000.00
+
+Tratándose de solicitudes de permisos de importación provisional, el contribuyente pagará el 50% de los derechos anteriores.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -8059,11 +7947,11 @@ m).- Para capturadores de aves canoras o de ornato........... 2,000.00
 
 Los colectores científicos nacionales acreditados por su Institución, no están obligados al pago del derecho por servicio de flora y fauna a que se refiere la fracción II, inciso d) de este artículo.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 174-B.
 
-Por los estudios faunísticos, incluidos planificación y manejo de fauna silvestre, se acuerdo al siguiente agrupamiento de las entidades federativas, se pagará el derecho por estudios faunísticos, por hectárea, conforme a las siguientes cuotas:
+Por los estudios de flora y fauna silvestre, incluyendo su planificación, manejo y dictamen de impacto ambiental, se pagará el derecho de flora y fauna, por hectáreas, conforme a las siguientes cuotas:
 
 I.- Distrito Federal, México, Morelos, Puebla, Tlaxcala, Hidalgo y Querétaro............ $60.00
 
@@ -8072,6 +7960,12 @@ II.- Jalisco, Michoacán, Aguascalientes, Guanajuato, Nuevo León, San Luis Poto
 III.- Baja California, Baja California Sur, Colima, Chihuahua, Durango, Coahuila, Sonora, Nayarit, Tamaulipas, Veracruz, Tabasco, Guerrero, Oaxaca, Chiapas, Campeche, Yucatán, Quintana Roo y Sinaloa.......... 100.00
 
 IV.- Por supervisión anual por hectárea.......... 30.00
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 174-C.
+
+Los ingresos que se obtengan por los derechos a que se refiere la Sección Primera de este Capítulo, y los contenidos en las fracciones II y V del artículo 173-B del mismo, se destinarán a la autoridad prestadora del servicio, para cubrir sus gastos de operación, conservación y mantenimiento, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado. La parte de los ingresos que exceda el límite señalado, no tendrá fin específico.
 
 #### SECCION UNICA. Inspección y Vigilancia
 
@@ -8242,6 +8136,118 @@ c) Gráfica manual o mecánica para uso diverso a publicación impresa, no fotog
 d) Tridimensional que sintetice los valores ópticos del monumento en igual o diferente material, sin que se pierda su identidad o se aprovechen elementos que lo identifiquen en diversa escala y material, por pieza……… 4,000.00
 
 e) En serie, pago anual adicional sin límite de cantidad de los conceptos anteriores.. 6,000.00
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 178-A.
+
+Por los permisos para filmación y tomas fotográficas de monumentos arqueológicos e históricos, museos y zonas de monumentos arqueológicos, se pagará el derecho de filmación y tomas fotográficas, conforme a las siguientes cuotas:
+
+A.- Filmaciones:
+
+I.- Con fines comerciales, por día............. $ 100,000.00
+
+II.- Con fines culturales, para instituciones dedicadas exclusivamente a estudios de cualquiera de las especialidades antropológicas, por día.......... $ 25,000.00
+
+B.- Tomas fotográficas.
+
+I.- Con fines comerciales, por día............ $ 50,000.00
+
+II.- Con fines culturales, para instituciones dedicadas a estudios de cualquiera de las especialidades antropológicas, por día........... $ 30,000.00
+
+III.- Por topografía publicada, independientemente de los derechos señalados en las fracciones anteriores:
+
+1.- De 1 a 1,000 ejemplares................. $ 2,500.00
+
+2.- De 1,001 a 5000 ejemplares.............. 7,500.00
+
+3.- De 5,001, a 10,000 ejemplares............... 15,000.00
+
+4.- De 10,001 a 20,000 ejemplares.............. 30,000.00
+
+5.- De 20,001 ejemplares en adelante, además del derecho anterior $ 2,500.00 por cada serie subsecuente de 1,000 ejemplares.
+
+El derecho a que se refiere la fracción III de este Apartado se pagará cuando las tomas fotográficas se realicen con tripié o equipo de iluminación.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 178-B.
+
+Por los permisos para la reproducción de fotografías propiedad del Instituto Nacional de Antropología e Historia, se pagará el derecho de reproducción fotográfica, por cada fotografía, conforme a las siguientes cuotas:
+
+I.- Para exposiciones:
+
+a).- Con fines comerciales o publicitarios............ $ 4,500.00
+
+b).- Con fines culturales.................. 1,500.00
+
+c).- Distintos de los anteriores............. 3,000.00
+
+II.- Para investigación:
+
+a).- Personal.................. $ 450.00
+
+b).- De instituciones públicas............... 750.00
+
+c).- Distintas de las anteriores............. 1,500.00
+
+III.- Para ser utilizadas como guía o modelo:
+
+a).- Para pinturas o esculturas............ $ 3,000.00
+
+b).- Para restauraciones de inmuebles.......... 1,000.00
+
+c).- Distintos de los anteriores.......... 2,000.00
+
+IV.- Para publicaciones:
+
+a).- Libros y folletos de distribución gratuita, de acuerdo a su tiraje:
+
+1.- De 1 a 1,000 ejemplares............. $ 500.00
+
+2.- De 1,001, a 5,000 ejemplares........... 1,000.00
+
+3.- De 5,001 a 10,000 ejemplares.......... 2,000.00
+
+4.- De 10,001 a 20,000 ejemplares......... 3,000.00
+
+5.- De 20,001 ejemplares en adelante, además del derecho anterior $ 1,000.00 por cada serie subsecuente de 1,000 ejemplares.
+
+b).- Libros y folletos, distintos de los anteriores, de acuerdo a su tiraje:
+
+1.- De 1 a 1,000 ejemplares............. $ 1,500.00
+
+2.- De 1,001, a 5,000 ejemplares............ 3,000.00
+
+3.- De 5,001 a 10,000 ejemplares........... 4,500.00
+
+4.- De 10,001, 20,000 ejemplares........... 6,000.00
+
+5.- De 20,001 ejemplares en adelante, además del derecho anterior, $ 1,500.00 por cada serie subsecuente de 1,000 ejemplares.
+
+c).- Para carteles y postales, de acuerdo a su tiraje:
+
+1.- De 1 a 1,000 ejemplares............. $ 5,000.00
+
+2.- De 1,001 a 5,000 ejemplares............ 10,000.00
+
+3.- De 5,001 a 10,000 ejemplares............ 15,000.00
+
+4.- De 10,001 a 20,000 ejemplares............ 20,000.00
+
+5.- De 20,001 a 30,000 ejemplares............ 25,000.00
+
+6.- De 30,001 ejemplares en adelante, además del derecho anterior $ 5,000.00 por cada serie subsecuente de 1,000 ejemplares.
+
+V.- Para audiovisuales:
+
+a).- Con fines comerciales o publicitarios………. $ 4,500.00
+
+b).- Con fines culturales............... 1,500.00
+
+c).- Distintos de los anteriores............ 2,000.00
+
+VI.- Video para televisión comercial con fines culturales.............. $ 7,500.00
 
 ###### ARTICULO 179.
 
@@ -8513,6 +8519,10 @@ XXVII.- Comprobación del uso de los personajes a que se refiere la fracción an
 
 No se pagará el derecho por registro de autores a que se refiere este artículo, por el registro de los libros de texto editados por la Federación, las entidades federativas, los municipios o por sus organismos descentralizados.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+Para los efectos de la aplicación de lo señalado en la fracción X, de este artículo, cuando se presenten para su examen y estudio contratos impresos que confieran, modifiquen, transmitan, graven o extingan derechos patrimoniales de autor o que autoricen modificaciones a una obra en los cuales no exista variación en sus cláusulas y se trate de un mismo contratante, únicamente se pagará el derecho correspondiente por la presentación del primer contrato.
+
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 #### SECCION TERCERA. Otros Servicios
@@ -8553,9 +8563,9 @@ XI.- Consultas y Constancias de archivo......... 500.00
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION PRIMERA. Distritos de Riego
+#### SECCION PRIMERA. Registro Sanitario
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 186.
 
@@ -8707,9 +8717,9 @@ XXVI.- Registro de actas constitutivas de las asociaciones de padres de familia.
 
 ### CAPITULO XI. De la Secretaría de la Reforma Agraria
 
-#### SECCION SEGUNDA. Aguas Distintas de las de Distritos de Riego
+#### SECCION SEGUNDA. Servicios de Laboratorio
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 187.
 
@@ -8747,9 +8757,9 @@ No se pagará esta cuota por la expedición de constancias que interesen a los n
 
 XIII.- Por la designación o cambio de sucesores 50.00
 
-#### SECCION UNICA. Espectro Radioeléctrico
+#### SECCION TERCERA. Fomento y Análisis Sanitario
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 188.
 
@@ -8791,9 +8801,9 @@ Los derechos a que se refiere el artículo que antecede, se pagarán dentro de l
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-#### SECCION PRIMERA. Del derecho sobre hidrocarburos
+#### SECCION CUARTA. Otros Servicios
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 190.
 
@@ -8831,9 +8841,13 @@ No se pagará el derecho que se establece en este artículo, por la información
 
 > <small>(ADICIONADA [N. DE E. ANTES DEROGADA], D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-#### SECCION SEGUNDA. Del derecho adicional sobre hidrocarburos
+#### SECCION PRIMERA. Distritos de Riego
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+
+#### SECCION SEGUNDA. Aguas Distintas de las de Distritos de Riego
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 191.
 
@@ -8845,6 +8859,14 @@ Las oficinas pagadoras de las dependencias de la administración pública federa
 
 ### CAPITULO XIII. De la Secretaría de Pesca
 
+#### SECCION UNICA. Espectro Radioeléctrico
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+#### SECCION PRIMERA. Del derecho sobre hidrocarburos
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 192.
 
 Por los permisos de excepción para la pesca, por cada embarcación extranjera y por cada viaje hasta de 60 días, se pagará el derecho de pesca conforme a la cuota
@@ -8852,6 +8874,10 @@ Por los permisos de excepción para la pesca, por cada embarcación extranjera y
 de $ 15,000.00.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION SEGUNDA. Del derecho adicional sobre hidrocarburos
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 193.
 
@@ -8911,7 +8937,9 @@ V.- Para excursiones de pesca deportiva procedentes del extranjero, por cada int
 
 Si son menores de cinco días se pagará la cuota señalada por día.
 
-### CAPITULO I. Bosques
+### CAPITULO XIV. De la Secretaría de Salud
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 195.
 
@@ -8943,6 +8971,212 @@ Los derechos a que se refiere este artículo únicamente se pagarán cuando los 
 
 No se pagarán los derechos a que se refiere la fracción I de este artículo, cuando la guía ampare embarques de especies no reservadas a cooperativas y sean menores de 500 kilogramos.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 195-A.
+
+Por el registro sanitario, su renovación o modificación de los productos que a continuación se señalan, se pagará por cada producto el derecho de registro sanitario conforme a las siguientes cuotas:
+
+I.- Alimentos y bebidas no alcohólicas de alto o normal valor nutritivo............. $ 40,000.00
+
+II.- Alimentos y bebidas no alcohólicas de bajo valor nutritivo......... $ 100,000.00
+
+III.- Bebidas alcohólicas o tabaco............. $ 200,000.00
+
+IV.- Nuevos medicamentos............ $ 100,000.00
+
+V.- Medicamentos ya registrados cuyos componentes sean modificados........... $ 50,000.00
+
+VI.- Medicamentos derivados de medicina homeopática o de medicina herbolaria..... $ 30,000.00
+
+VII.- Productos de perfumería, belleza y aseo personal.......... $ 100,000.00
+
+VIII.- Plaguicidas, fertilizantes y substancias tóxicas........... $ 100,000.00
+
+IX.- Fuentes de radiación o equipos regulados por la dependencia prestadoras del servicio, que generen residualmente contaminación............ $ 200,000.00
+
+X.- Equipos de purificación de agua o de aire……….. $ 30,000.00
+
+XI.- Equipos anticontaminantes............ $ 30,000.00
+
+XII.- Por los no especificados en las fracciones anteriores............ $ 50,000.00
+
+Por la modificación al registro de los productos señalados en este artículo, se pagará el 75% del derecho que corresponda al registro.
+
+Por la importación de los productos a que se refiere este artículo, se pagará la cuota correspondiente incrementada en un 100%. Asimismo por los alimentos, bebidas alcohólicas y no alcohólicas en variedades o presentaciones que a juicio de la dependencia prestadora del servicio no difieran en cuanto a marca, fórmula básica y técnica de elaboración, se pagará el derecho con la cuota que corresponda a un solo producto por cada tres variedades o presentaciones del mismo producto.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 195-B.
+
+Por los servicios de laboratorios que proporciona la dependencia prestadora del servicio, se pagará el derecho de laboratorio, conforme a las siguientes cuotas:
+
+I.- Por el análisis de cada muestra que requiera, para su estudio, de los servicios de laboratorio del tercer nivel.......... $ 20,000.00
+
+II.- Por el análisis de cada muestra que requiera, para su estudio de los servicios de laboratorio del segundo nivel.......... $ 10,000.00
+
+III.- Por el análisis de cada muestra que requiera, para su estudio, de los servicios de laboratorio del primer nivel........... $ 5,000.00
+
+IV.- Por el análisis de cada muestra que requiera, para su estudio, de los servicios de laboratorio del nivel cero............. $ 1,000.00
+
+Los análisis señalados comprenderán la toma de muestras para verificar las condiciones sanitarias de los manejadores de los productos, de los utensilios, equipo e instalaciones y del propio producto.
+
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la dependencia prestadora del servicio, determinará el nivel de los servicios de laboratorio señalados en este artículo.
+
+Los ingresos que se obtengan por el derecho de laboratorio a que se refiere este artículo se destinarán a la dependencia prestadora del servicio, para cubrir los gastos de operación, conservación, mantenimiento e inversión, hasta el monto que señale el presupuesto de egresos que hubiera sido autorizado para tal efecto. La parte de los ingresos que excedan el límite señalado, no tendrá fin específico.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 195-C.
+
+Por los servicios de verificación o fomento sanitario, para evaluar, supervisar o asesorar sobre las condiciones sanitarias de las actividades, productos y servicios, cuando se realice a solicitud de los particulares, se pagará el derecho de fomento sanitario, conforme a lo siguiente:
+
+I.- El 1% sobre el valor de los bienes a verificar.
+
+II.- Tratándose de actividades o servicios:
+
+a).- De bajo riesgo sanitario...................$ 50,000.00
+
+b).- De riesgo medio sanitario..................$ 100,000.00
+
+c).- De alto riesgo sanitario.................. $ 150,000.00
+
+Las cuotas comprendidas en esta fracción se pagarán por cada día que requiera el desarrollo de la evaluación, supervisión o asesoría sanitaria respectiva.
+
+No se pagará el derecho a que se refiere este artículo por los servicios de evaluación, supervisión o asesoría sanitaria que soliciten las entidades de la administración pública y organismos descentralizados de la Federación, las Entidades Federativas o los Municipios, para sus propios servicios públicos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 195-D.
+
+Por los estudios y análisis sanitarios que se realicen a petición de los particulares para determinar las condiciones sanitarias de las actividades, productos de los servicios, se pagará el derecho de análisis sanitarios, conforme a las siguientes cuotas:
+
+I.- Estudios sanitarios de carácter interdisciplinarios que requieren de la intervención de servicios de salud del tercer nivel.
+
+a).- De alto riesgo sanitario................$ 150,000.00
+
+b).- De riesgo medio sanitario............... $ 100,000.00
+
+c).- De riesgo bajo sanitario................ $ 50,000.00
+
+II.- Estudios sanitarios interdisciplinarios que requieran de la intervención de servicios de salud del segundo o primer nivel.
+
+a).- De alto riesgo sanitario............... $ 30,000.00
+
+b).- De riesgo medio sanitario.............. $ 25,000.00
+
+c).- De riesgo bajo sanitario............... $ 20,000.00
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 195-E.
+
+Por la expedición de los certificados y dictámenes de los productos, servicios, uso y consumo de agua potable e industrial, se pagará el derecho de certificados sanitarios, conforme a las siguientes cuotas:
+
+I.- Libre venta para exportación de alimentos, bebidas y medicamentos......... $ 5,000.00
+
+II.- De control de calidad para exportación de alimentos, bebidas, medicamentos; tabaco, aparatos y equipo médico; productos de perfumería, belleza o aseo; plaguicidas o fertilizantes............ $ 10,000.00
+
+III.- De transportes, de riesgo alto o medio, directo o indirecto, para la salud humana.. $ 40,000.00
+
+IV.- De transportes de riesgo bajo, directo o indirecto, para la salud humana…….. $ 20,000.00
+
+V.- Sobre pozos de agua para abastecimiento privado, para determinar su calidad sanitaria……… $ 100,000.00
+
+VI.- Sobre la calidad sanitaria fisicoquímica y bactereológica del agua de uso y consumo humano............. $ 50,000.00
+
+VII.- Sobre las condiciones sanitarias de las plantas, equipos e instalaciones de tratamiento de agua de uso y consumo humano o industrial, que utilicen como fuente de abastecimiento los pozos de carácter privado............ $ 150,000.00
+
+VIII.- Equipos e instalaciones para el proceso del agua para uso y consumo humano e industrial............. $ 100,000.00
+
+IX.- Otros no especificados en las fracciones anteriores............. $ 10,000.00
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 195-F.
+
+Por la expedición del permiso para realizar publicidad elaborada en el país o en el extranjero, cuya difusión se pretenda realizar en el territorio nacional para los alimentos, bebidas alcohólicas o no alcohólicas, tabaco, medicamentos, aparatos o equipos médicos, productos de perfumería, belleza o aseo personal, plaguicidas, fertilizantes o los procedimientos de embellecimiento, se pagará el derecho de permiso sanitario, conforme a las siguientes cuotas:
+
+I.- Televisión................................$ 150,000.00
+
+II.- Cine.....................................$ 50,000.00
+
+III.- Radio...................................$ 40,000.00
+
+IV.- Prensa...................................$ 10,000.00
+
+V.- Folletos, catálogos, carteles, murales y otros medios publicitarios similares..........$ 10,000.00
+
+VI.- Prensa médica u otros medios.............$ 10,000.00
+
+VII.- Diccionario, catálogo, folleto o similar a especialidades farmacéuticas, exclusivo para información técnica.............. $ 10,000.00
+
+Los derechos que se establecen en esta fracción, se pagarán por cada tipo de mensaje que comprenda la autorización que se otorgue, según el medio publicitario que se utilice de los señalados en esta fracción.
+
+Por la publicidad de bebidas alcohólicas, tabaco, substancias tóxicas, plaguicidas y de alimentos de bajo valor nutritivo se pagará el derecho a que se refiere este artículo conforme al doble de las cuotas señaladas en las fracciones I, II, III, IV, V y VI.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 195-G.
+
+Por la expedición de permisos sanitarios para la importación de alimentos, bebidas, medicamentos, productos de perfumería, belleza y aseo personal, así como tabacos, se pagará el derecho de permiso sanitario conforme a la cuota que resulte de aplicar la tasa del 1% sobre el valor de los bienes a importar.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 195-H.
+
+Cuando los servicios a que se refiere este capítulo sean proporcionados por las Entidades Federativas, con motivo de los convenios de colaboración en materia de salud celebrados con la Federación, los ingresos que obtengan tendrán la naturaleza de derechos, los cuales se determinarán y pagarán conforme a lo dispuesto en este Ley.
+
+Los ingresos que se obtengan por el cobro de los derechos a que se refiere este artículo, se destinarán en un 90% a la Entidad Federativa que lo recaude para la operación, conservación, mantenimiento e inversiones necesarias para prestar el servicio. El 10% de la recaudación serán ingresos de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 195-I.
+
+Por la expedición, renovación o modificación de las autorizaciones y dictámenes sanitarios relacionados con los establecimientos, instalaciones, equipos y transportes de material radioactivo o fuentes de radiación, de uso médico, industrial o de investigación, se pagará el derecho de autorización o permiso sanitario, conforme a las siguientes cuotas:
+
+I.- Dictamen sanitario de instalaciones donde se utilicen fuentes de radiación o material radioactivo.............. $ 250,000.00
+
+II.- Dictamen sanitario de establecimientos e instalaciones donde se distribuyen o comercialicen fuentes de radiación o material radioactivo........... $ 250,000.00
+
+III.- Dictamen sanitario de vehículos que transporten fuentes de radiación para uso industrial............. $ 100,000.00
+
+IV.- Dictamen sanitario de construcciones de establecimientos e instalaciones donde se utilicen fuentes de radiación o material radioactivo............. $ 250,000.00
+
+V.- Dictamen sanitario para la importación de material radioactivo o fuentes de radiación y por cada unidad curie........... $ 2,000.00
+
+Los institutos de investigación de la Federación, Entidades Federativas y Municipios, que empleen material radioactivo o fuentes de radiación para el desarrollo de sus programas, pagarán el 50% de la cuota del derecho a que se refiere este artículo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 195-J.
+
+Por la expedición, renovación o modificación de las autorizaciones y dictámenes sanitarios relacionados con los establecimientos, instalaciones, equipos, transportes, redes de distribución de gas licuado de petróleo en cuya composición química predominen los hidrocarburos butano y propano o sus mezclas y que contienen propileno o butileno, gas natural y gases peligrosos, de alto riesgo sanitario, se pagará el derecho de autorización o permiso sanitario, conforme a las siguientes cuotas:
+
+I.- Dictamen de predios donde se pretenda construir, ampliar o reubicar plantas o bodegas conforme a su capacidad total:
+
+a).- Hasta 100,000 litros de agua o 10,000 metros cuadrados de área de almacenamiento….……. $ 250,000.00
+
+b).- De 100,000 y hasta un millón de litros de agua o mayores a 10,000 metros cuadrados de área de almacenamiento.............. $ 500,000.00
+
+c).- De más de un millón de litros de agua………… $ 2'000,000.00
+
+II.- Dictamen de plantas y bodegas para evaluar su uso y funcionamiento:
+
+a).- Hasta 100,000 litros de agua o 10,000 metros cuadrados de área de almacenamiento.………. $ 250,000.00
+
+b).- De 100,000 y hasta un millón de litros de agua o superiores a 10,000 metros cuadrados de área de almacenamiento.............. $ 500,000.00
+
+c).- De más de un millón de litros de agua………. $ 2'000,000.00
+
+III.- Dictamen de vehículos repartidores y transportadores en auto-tanques y vehículos, por cada unidad transportadora............. $ 50,000.00
+
+IV.- Supervisión técnica de equipos e instalaciones por prueba hidrostática o de ultrasonido en tanques válvulas y líneas del sistema............. $ 750,000.00
+
+V.- Inspección y dictamen de redes de distribución, para evaluar su uso y funcionamiento................ $ 500,000.00
+
+### CAPITULO I. Bosques
+
 ### CAPITULO II. Pesca
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
@@ -8961,15 +9195,11 @@ No se pagarán los derechos a que se refiere la fracción I de este artículo, c
 
 ### CAPITULO VI. Carreteras y Puentes
 
+## TITULO II. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
+
 ### CAPITULO VII. Aeropuertos
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-## TITULO II. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
-
-### CAPITULO VIII. Agua
-
-> <small>(DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 196.
 
@@ -9013,9 +9243,9 @@ El pago del derecho a que este artículo se refiere, se hará previamente al apr
 
 Los derechos a que se refiere este capítulo, quedan afectados en 50% a la Secretaría de Agricultura y Recursos Hidráulicos para fines de forestación y reforestación.
 
-### CAPITULO IX. Uso o goce de Inmuebles
+### CAPITULO VIII. Agua
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 199.
 
@@ -9033,9 +9263,9 @@ Lo dispuesto en este artículo, no modificará los convenios o acuerdos celebrad
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO X. Fauna Silvestre
+### CAPITULO IX. Uso o goce de Inmuebles
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 200.
 
@@ -9051,11 +9281,11 @@ Tratándose de embarcaciones que realicen tráfico mixto, se pagará el 90% de l
 
 Las personas físicas y las morales que usen los puertos nacionales, pagarán por cada embarcación en tráfico de cabotaje que entre a los mismos, por cada tonelada de registro bruto o fracción, el derecho de puerto de cabotaje conforme a la cuota de $8.0.5.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 202.
 
-Por las embarcaciones que en tráfico marítimo atraquen en muelles propiedad de la Federación se pagará el derecho de atraque, por cada hora o fracción mayor de 15 minutos y por cada metro de eslora o fracción, conforme a las siguientes cuotas:
+Por las embarcaciones que atraquen en muelles propiedad de la Federación se pagará el derecho de atraque, por cada hora o fracción mayor de 15 minutos y por cada metro de eslora o fracción, conforme a las siguientes cuotas:
 
 I.- Por embarcación comercial....... $ 4.60
 
@@ -9065,6 +9295,10 @@ II.- Por yate......... 3.20
 
 III.- Por yate arrejerado........... 2.20
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+IV.- Por embarcación local comercial............. 27.00
+
 Para los efectos de este artículo, se entiende por yate toda embarcación que exclusivamente está destinada al placer personal de sus propietarios o poseedores, sin perseguir fines de lucro.
 
 > <small>(REFORMADO PARRAFO PRIMERO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
@@ -9073,11 +9307,13 @@ Para los efectos de este artículo, se entiende por yate toda embarcación que e
 
 El derecho de puerto y el de atraque se pagará ante las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
 
-Cuando una embarcación entre a puerto o salga de él remolcando a otra, el derecho de puerto se calculará de manera independiente, como si entraran o salieran separadas.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+En el caso de embarcaciones que utilicen dos o más puertos que se encuentren integrados en una unidad operativa, pagarán el derecho de puerto de altura o de cabotaje, según sea el caso, únicamente cuando entren al primero de los puertos que formen la unidad.
 
-Las autoridades portuarias antes de expedir el despacho de salida de una embarcación, verificarán el pago de los derechos a que se refiere esta sección.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+Las embarcaciones extranjeras que estén autorizadas para realizar tráfico de cabotaje, pagarán el derecho de puerto de cabotaje, de conformidad con las cuotas que establece el artículo 201 de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -9099,11 +9335,11 @@ VI.- Las que lleguen para limpiar sus fondos, para ser reparadas o para matricul
 
 VII.- Las embarcaciones nacionales dedicadas exclusivamente a la pesca comercial.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 204-A.
 
-Los ingresos que se obtengan por el derecho de atraque que se establece en este Capítulo, se destinarán a la Comisión Nacional Coordinadora de Puertos en aquellos casos en que la conservación y el mantenimiento de las instalaciones de atraque se realice por entidades públicas coordinadas por ésta para cubrir los gastos de operación, conservación, mantenimiento e inversión de los puertos que administra, hasta el monto que señale el presupuesto de egresos que hubiera sido autorizado para tal efecto.
+Los ingresos que se obtengan por los derechos que se establecen en este Capítulo, se destinarán a la Comisión Nacional Coordinadora de Puertos en aquellos casos en que la conservación y el mantenimiento de las instalaciones portuarios y de atraque se realicen por entidades públicas coordinadas por ésta para cubrir los gastos de operación, conservación, mantenimiento e inversión de los puertos que administra, hasta el monto que señale el presupuesto de egresos que hubiera sido autorizado para tal efecto.
 
 Los ingresos que se recauden por concepto de derechos de atraque en los puertos que administra el Sistema Portuario Tampico-Altamira, se destinarán a éste para los fines a que se hace referencia en el párrafo anterior.
 
@@ -9123,9 +9359,9 @@ II.- Mercancías de importación......... 30.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-### CAPITULO XI. Espacio Aéreo
+### CAPITULO X. Fauna Silvestre
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 206.
 
@@ -9213,1583 +9449,173 @@ El pago del derecho sobre sal, deberá realizarse en las oficinas que al efecto 
 
 A la declaración se deberá acompañar las facturas de venta de primera mano de sal o especificar los volúmenes de sal utilizados por el productor por otros procesos industriales, tratándose de autoconsumo.
 
-### CAPITULO XII. Hidrocarburos
+### CAPITULO XI. Espacio Aéreo
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-### CAPITULO XIII. Minería
+### CAPITULO XII. Hidrocarburos
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 212.
 
 Las personas físicas o las morales que usen las carreteras y puentes federales que se mencionan en esta sección, pagarán derechos conforme a las cuotas que para cada caso se establecen.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-Cuando el organismo que tenga a su cargo la administración de las carreteras y de los puentes federales ponga en operación carreteras o puentes distintos de los que prevé esta Ley, las cuotas que deberán aplicarse para el pago del derecho a que se refiere este Capítulo, serán las que se estén cobrando a los usuarios de los mismos, señalados en las fracciones I de los artículos 213 y 214 de esta Ley, respectivamente. Tratándose de las clases 9 y 10, se aplicarán las cuotas a que se refieren las fracciones XXX y XXXII del artículo 214 de la misma Ley.
+Cuando el organismo que tenga a su cargo la administración de las carreteras y de los puentes federales ponga en operación carreteras o puentes distintos de los que prevé esta Ley, las cuotas que deberán aplicarse para el pago del derecho a que se refiere este Capítulo serán las que estén cobrando a los usuarios de los mismos, señaladas en los artículo 213 fracción V y 214 fracción II de esta Ley. Tratándose de las clases 3 y 4, se aplicarán las cuotas a que se refieren las fracciones III y IV del artículo 214 de la misma Ley, respectivamente.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-Cuando se aumente el número de vías en una carretera, el derecho que se pagará será conforme a las cuotas establecidas en la fracción I del artículo 213 de esta Ley, de acuerdo al número de kilómetros.
+Cuando se aumente el número de vías en una carretera, el derecho que se pagará será conforme a las cuotas establecidas en la fracción V del artículo 213 de esta Ley, de acuerdo al número de kilómetros.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 213.
 
-Por el uso de las carreteras, según el tipo de vehículo, se pagará el derecho de carretera conforme a las cuotas que a continuación se señalan:
+Por el uso de las carreteras, según la clase, de vehículo, se pagará el derecho carretera conforme a las cuotas que a continuación se señalan:
 
-I.- AUTOPISTA MEXICO CUERNAVACA
+I.- Autopistas: Indios Verdes-San Cristóbal, Tepexpan-Teotihuacán, Oacalco-Cuautla, Tepoztlán-Oacalco, La Pera-Tepoztlán y Orizaba-Fortín de las Flores.
 
-CLASE 1 - $ 60.00
+Clase
 
-2 - 80.00
+1 $ 300.00
 
-3 - 80.00
+2 $ 600.00
 
-4 - 100.00
+II.- Autopistas: México-Chalco, Río Frío-San Martín, San Martín-Puebla, Puebla-Amozoc, Los Médanos-La Misión, Orizaba-Córdoba y Chapalilla-Compostela (residente).
 
-5 - 120.00
+Clase
 
-6 - 140.00
+1 $ 450,00
 
-7 - 180.00
+2 $ 900,00
 
-8 - 60.00
+III.- Autopistas: Cuernavaca-Amacuzac (Intermedia), México-Teotihuacan-Tizayuca, Tepoztlán-Cuautla, Tijuana-Rosarito, Salamanca-Irapuato y Cosoleacaque-Nuevo Teapa.
 
-II.- AUTOPISTA CUERNAVACA - AMACUZAC
+Clase
 
-(COMPLETA)
+1 $ 600,00
 
-CLASE 1 - $ 50.00
+2 $ 1,200.00
 
-2 - 60.00
+IV.- Autopistas: Cuernavaca-Amacuzac (Completa), Querétaro-Celaya, México-Río Frío, Río Frío-Puebla, Rosarito-La Misión, La Misión-Ensenada y Guadalajara-Zapotlanejo.
 
-3 - 60.00
+Clase
 
-4 - 70.00
+1 $ 900.00
 
-5 - 80.00
+2 $ 1,800.00
 
-6 - 100.00
+V.- Autopistas: México, Cuernavaca, Amacuzac-Iguala y Chapalilla-Compostela (normal).
 
-7 - 120.00
+Clase
 
-8 - 50.00
+1 $ 1,000.00
 
-III.- AUTOPISTA CUERNAVACA - AMACUZAC
+2 $ 2,000.00
 
-(INTERMEDIA)
+VI.- Autopistas: Puebla-Acatzingo, Acatzingo-Esperanza, Esperanza-Orizaba y Apaseo-Salamanca.
 
-CLASE 1 - $ 30.00
+Clase
 
-2 - 40.00
+1 $ 1,200.00
 
-3 - 40.00
+2 $ 2,400.00
 
-4 - 45.00
+VII.- Autopistas: México-Querétaro (Casetas Tepotzotlán; Palmillas; Jorobas-Huehuetoca y Polotitlán) y Apaseo-Irapuato.
 
-5 - 50.00
+Clase
 
-6 - 60.00
+1 $ 1,500.00
 
-7 - 70.00
+2 $ 3,000.00
 
-8 - 30.00
+VIII.- Autopistas: Acatzingo-Orizaba.
 
-IV.- AUTOPISTA AMACUZAC - IGUALA
+Clase
 
-CLASE 1 - $ 60.00
+1 $ 2,500.00
 
-2 - 80.00
+2 $ 5,000.00
 
-3 - 80.00
+Para los efectos de este artículo, en los tramos carreteros Indios Verdes-San Cristóbal, Méxio-Teotihuacán-Tizayuca, y México-Chalco, así como en la caseta Jorobas-Huehuetoca, los contribuyentes de la clase 1, pagarán el 70% de las cuotas correspondientes.
 
-4 - 90.00
-
-5 - 100.00
-
-6 - 120.00
-
-7 - 150.00
-
-8 - 60.00
-
-V.- AUTOPISTA MEXICO - QUERETARO
-
-(COMPLETA)
-
-CLASE 1 - $ 180.00
-
-2 - 240.00
-
-3 - 240.00
-
-4 - 280.00
-
-5 - 300.00
-
-6 - 320.00
-
-7 - 400.00
-
-8 - 180.00
-
-VI.- AUTOPISTA MEXICO - QUERETARO
-
-(TEPOTZOTLAN)
-
-CLASE 1 - $ 90.00
-
-2 - 120.00
-
-3 - 120.00
-
-4 - 140.00
-
-5 - 150.00
-
-6 - 160.00
-
-7 - 200.00
-
-8 - 90.00
-
-VII.- AUTOPISTA MEXICO - QUERETARO
-
-(PALMILLAS)
-
-CLASE 1 - $ 90.00
-
-2 - 120.00
-
-3 - 120.00
-
-4 - 140.00
-
-5 - 150.00
-
-6 - 160.00
-
-7 - 200.00
-
-8 - 90.00
-
-VIII.- AUTOPISTA MEXICO - QUERETARO
-
-(JOROBAS-HUEHUETOCA)
-
-CLASE 1 - $ 90.00
-
-2 - 120.00
-
-3 - 120.00
-
-4 - 140.00
-
-5 - 150.00
-
-6 - 160.00
-
-7 - 200.00
-
-8 - 90.00
-
-IX.- AUTOPISTA MEXICO - QUERETARO
-
-(POLOTITLAN)
-
-CLASE 1 - $ 90.00
-
-2 - 120.00
-
-3 - 120.00
-
-4 - 140.00
-
-5 - 150.00
-
-6 - 160.00
-
-7 - 200.00
-
-8 - 90.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-X.- AUTOPISTA QUERETARO-IRAPUATO
-
-CLASE 1 - $ 500.00
-
-2 - 650.00
-
-3 - 650.00
-
-4 - 750.00
-
-5 - 800.00
-
-6 - 850.00
-
-7 - 1,100.00
-
-8 - 500.00
-
-XI.- AUTOPISTA MEXICO - PUEBLA
-
-CLASE 1 - $ 100.00
-
-2 - 120.00
-
-3 - 120.00
-
-4 - 150.00
-
-5 - 180.00
-
-6 - 200.00
-
-7 - 260.00
-
-8 - 100.00
-
-XII.- AUTOPISTA MEXICO - CHALCO
-
-CLASE 1 - $ 20.00
-
-2 - 30.00
-
-3 - 30.00
-
-4 - 35.00
-
-5 - 40.00
-
-6 - 45.00
-
-7 - 60.00
-
-8 - 20.00
-
-XIII.- AUTOPISTA MEXICO - RIO FRIO
-
-CLASE 1 - $ 50.00
-
-2 - 60.00
-
-3 - 60.00
-
-4 - 75.00
-
-5 - 90.00
-
-6 - 100.00
-
-7 - 130.00
-
-8 - 50.00
-
-XIV.- AUTOPISTA RIO FRIO - PUEBLA
-
-CLASE 1 - $ 50.00
-
-2 - 60.00
-
-3 - 60.00
-
-4 - 75.00
-
-5 - 90.00
-
-6 - 100.00
-
-7 - 130.00
-
-8 - 50.00
-
-XV.- AUTOPISTA RIO FRIO - SAN MARTIN
-
-CLASE 1 - $ 25.00
-
-2 - 30.00
-
-3 - 30.00
-
-4 - 40.00
-
-5 - 45.00
-
-6 - 50.00
-
-7 - 65.00
-
-8 - 25.00
-
-XVI.- AUTOPISTA SAN MARTIN - PUEBLA
-
-CLASE 1 - $ 25.00
-
-2 - 30.00
-
-3 - 30.00
-
-4 - 40.00
-
-5 - 45.00
-
-6 - 50.00
-
-7 - 65.00
-
-8 - 25.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-XVII.- AUTOPISTA MEXICO- TEOTIHUACAN-TIZAYUCA.
-
-CLASE 1 - $ 150.00
-
-2 - 220.00
-
-3 - 220.00
-
-4 - 260.00
-
-5 - 300.00
-
-6 - 340.00
-
-7 - 450.00
-
-8 - 150.00
-
-> <small>(F. DE E., D.O.F. 21 DE MAYO DE 1982)</small>
-
-XVIII.- AUTOPISTA INDIOS VERDES - SAN CRISTOBAL
-
-CLASE 1 - $ 15.00
-
-2 - 20.00
-
-3 - 20.00
-
-4 - 25.00
-
-5 - 30.00
-
-6 - 35.00
-
-7 - 40.00
-
-8 - 15.00
-
-XIX.- AUTOPISTA TEPEXPAN - TEOTIHUACAN
-
-CLASE 1 - $ 10.00
-
-2 - 15.00
-
-3 - 15.00
-
-4 - 15.00
-
-5 - 20.00
-
-6 - 25.00
-
-7 - 30.00
-
-8 - 10.00
-
-XX.- AUTOPISTA LA PERA - CUAUTLA
-
-CLASE 1 - $ 40.00
-
-2 - 55.00
-
-3 - 55.00
-
-4 - 60.00
-
-5 - 70.00
-
-6 - 80.00
-
-7 - 100.00
-
-8 - 40.00
-
-XXI.- AUTOPISTA OACALCO - CUAUTLA
-
-CLASE 1 - $ 15.00
-
-2 - 20.00
-
-3 - 20.00
-
-4 - 25.00
-
-5 - 30.00
-
-6 - 35.00
-
-7 - 40.00
-
-8 - 15.00
-
-XXII.- AUTOPISTA TEPOZTLAN - OACALCO
-
-CLASE 1 - $ 15.00
-
-2 - 20.00
-
-3 - 20.00
-
-4 - 25.00
-
-5 - 30.00
-
-6 - 35.00
-
-7 - 40.00
-
-8 - 15.00
-
-XXIII.- AUTOPISTA TEPOZTLAN - CUAUTLA
-
-CLASE 1 - $ 30.00
-
-2 - 40.00
-
-3 - 40.00
-
-4 - 45.00
-
-5 - 50.00
-
-6 - 60.00
-
-7 - 75.00
-
-8 - 30.00
-
-XXIV.- AUTOPISTA LA PERA - TEPOZTLAN
-
-CLASE 1 - $ 10.00
-
-2 - 15.00
-
-3 - 15.00
-
-4 - 15.00
-
-5 - 20.00
-
-6 - 20.00
-
-7 - 20.00
-
-8 - 10.00
-
-XXV.- AUTOPISTA PUEBLA - ORIZABA
-
-CLASE 1 - $ 200.00
-
-2 - 250.00
-
-3 - 250.00
-
-4 - 300.00
-
-5 - 350.00
-
-6 - 400.00
-
-7 - 450.00
-
-8 - 200.00
-
-XXVI.- AUTOPISTA PUEBLA - AMOZCO
-
-CLASE 1 - $ 25.00
-
-2 - 35.00
-
-3 - 35.00
-
-4 - 40.00
-
-5 - 45.00
-
-6 - 50.00
-
-7 - 60.00
-
-8 - 25.00
-
-XXVII.- AUTOPISTA PUEBLA - ACATZINGO
-
-CLASE 1 - $ 60.00
-
-2 - 80.00
-
-3 - 80.00
-
-4 - 90.00
-
-5 - 100.00
-
-6 - 110.00
-
-7 - 130.00
-
-8 - 60.00
-
-XXVIII.- AUTOPISTA ACATZINGO - ESPERANZA
-
-CLASE 1 - $ 70.00
-
-2 - 80.00
-
-3 - 80.00
-
-4 - 100.00
-
-5 - 120.00
-
-6 - 130.00
-
-7 - 150.00
-
-8 - 70.00
-
-XXIX.- AUTOPISTA ESPERANZA - ORIZABA
-
-CLASE 1 - $ 70.00
-
-2 - 90.00
-
-3 - 90.00
-
-4 - 110.00
-
-5 - 130.00
-
-6 - 160.00
-
-7 - 170.00
-
-8 - 70.00
-
-XXX.- AUTOPISTA ACATZINGO - ORIZABA
-
-CLASE 1 - $ 140.00
-
-2 - 170.00
-
-3 - 170.00
-
-4 - 210.00
-
-5 - 250.00
-
-6 - 290.00
-
-7 - 320.00
-
-8 - 140.00
-
-XXXI.- AUTOPISTA TIJUANA - ENSENADA
-
-(COMPLETA)
-
-CLASE 1 - $ 120.00
-
-2 - 140.00
-
-3 - 140.00
-
-4 - 170.00
-
-5 - 200.00
-
-6 - 230.00
-
-7 - 250.00
-
-8 - 120.00
-
-XXXII.- AUTOPISTA TIJUANA - ROSARITO
-
-CLASE 1 - $ 30.00
-
-2 - 35.00
-
-3 - 35.00
-
-4 - 50.00
-
-5 - 50.00
-
-6 - 60.00
-
-7 - 70.00
-
-8 - 30.00
-
-XXXIII.- AUTOPISTA ROSARITO - LA MISION
-
-CLASE 1 - $ 40.00
-
-2 - 45.00
-
-3 - 45.00
-
-4 - 50.00
-
-5 - 60.00
-
-6 - 70.00
-
-7 - 70.00
-
-8 - 40.00
-
-XXXIV.- AUTOPISTA LA MISION - ENSENADA
-
-CLASE 1 - $ 50.00
-
-2 - 60.00
-
-3 - 60.00
-
-4 - 70.00
-
-5 - 90.00
-
-6 - 100.00
-
-7 - 110.00
-
-8 - 50.00
-
-XXXV.- AUTOPISTA LOS MEDANOS - LA MISION
-
-CLASE 1 - $ 20.00
-
-2 - 30.00
-
-3 - 30.00
-
-4 - 35.00
-
-5 - 35.00
-
-6 - 40.00
-
-7 - 40.00
-
-8 - 20.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-XXXVI.- AUTOPISTA PUEBLA-ESPERANZA
-
-CLASE 1 - $ 300.00
-
-2 - 350.00
-
-3 - 350.00
-
-4 - 400.00
-
-5 - 500.00
-
-6 - 600.00
-
-7 - 700.00
-
-8 - 300.00
-
-XXXVII.- AUTOPISTA APASEO - SALAMANCA
-
-CLASE 1 - $ 70.00
-
-2 - 85.00
-
-3 - 85.00
-
-4 - 100.00
-
-5 - 120.00
-
-6 - 140.00
-
-7 - 170.00
-
-8 - 70.00
-
-XXXVIII.- AUTOPISTA SALAMANCA - IRAPUATO
-
-CLASE 1 - $ 30.00
-
-2 - 35.00
-
-3 - 35.00
-
-4 - 50.00
-
-5 - 60.00
-
-6 - 70.00
-
-7 - 80.00
-
-8 - 30.00
-
-XXXIX.- AUTOPISTA GUADALAJARA-ZAPOTLANEJO
-
-CLASE 1 - $ 40.00
-
-2 - 60.00
-
-3 - 60.00
-
-4 - 70.00
-
-5 - 80.00
-
-6 - 90.00
-
-7 - 100.00
-
-8 - 40.00
-
-XL.- AUTOPISTA ORIZABA - CORDOBA
-
-CLASE 1 - $ 25.00
-
-2 - 30.00
-
-3 - 30.00
-
-4 - 40.00
-
-5 - 45.00
-
-6 - 50.00
-
-7 - 60.00
-
-8 - 25.00
-
-XLII.- AUTOPISTA ORIZABA-FORTIN DE LAS
-
-FLORES
-
-CLASE 1 - $ 15.00
-
-2 - 20.00
-
-3 - 20.00
-
-4 - 25.00
-
-5 - 25.00
-
-6 - 25.00
-
-7 - 30.00
-
-8 - 15.00
-
-XLII.- AUTOPISTA CHAPALILLA-COMPOSTELA
-
-Normal Residente
-
-CLASE 1 $ 60.00 $ 20.00
-
-2 80.00 25.00
-
-3 80.00 25.00
-
-4 100.00 30.00
-
-5 110.00 35.00
-
-6 120.00 40.00
-
-7 135.00 45.00
-
-8 60.00 20.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-XLIII.- AUTOPISTA COSOLEACAQUE NUEVO TEAPA
-
-CLASE 1 - $ 130.00
-
-2 - 170.00
-
-3 - 170.00
-
-4 - 210.00
-
-5 - 250.00
-
-6 - 290.00
-
-7 - 370.00
-
-8 - 130.00
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 214.
 
-Por el uso de los puentes, según el tipo de vehículo o si el uso se efectúa por peatones, se pagará el derecho de puente conforme a las cuotas que a continuación se mencionan:
+Por el uso de los puentes, según la clase de vehículo o si el uso se efectúa por peatones, se pagará el derecho de puentes, conforme a las cuotas que a continuación se señalan:
 
-I.- PUENTE COLORADO.
+I.- Puentes: Cadereyta, San Juan Valentín Gómez Farías, Culiacán, La Piedad, Tuxpan, Pánuco y Chairel.
 
-Normal Residente
+Clase
 
-CLASE 1 - $ 25.00 $ 12.00
+1 $ 300.00
 
-2 - 30.00 15.00
+2 $ 600.00
 
-3 - 30.00 15.00
+II.- Puentes: Colorado, Miguel Alemán, Sinaloa, La Antigua, Ameca, Nautla, Tecolutla, Papaloapan, Caracol, Grijalba y Usumacinta.
 
-4 - 35.00 17.00
+Clase
 
-5 - 40.00 20.00
+1 $ 450.00
 
-6 - 45.00 22.00
+2 $ 900.00
 
-7 - 50.00 25.00
+3 $ 150.0
 
-8 - 10.00 5.00
+III.- Puentes: Paso del Norte, Matamoros, Camargo, Piedras Negras, Acuña, Reynosa, Laredo I y II, Antonio Dovali Jaime y Alvarado.
 
-II.- PUENTE SINALOA.
+Clase
 
-Normal Residente
+1 $ 600.00
 
-CLASE 1 - $ 20.00 $ 10.00
+2 $ 1,200.00
 
-2 - 25.00 12.00
+3 $ 150.00
 
-3 - 25.00 12.00
+IV.- Puentes: Las Flores, Ojinaga, Coatzacoalcos y Tlacotalpan.
 
-4 - 30.00 15.00
+Clase
 
-5 - 35.00 17.00
+1 $ 750.00
 
-6 - 40.00 20.00
+2 $ 1,500.00
 
-7 - 45.00 22.00
+3 $ 150.00
 
-8 - 10.00 5.00
+4 $ 750.00
 
-III.- PUENTE TUXPAN.
+V.- Puentes: Rodolfo Robles.
 
-Normal Residente
+Clase
 
-CLASE 1 - $ 15.00 $ 7.00
+1 $ 1,050.00
 
-2 - 20.00 10.00
+2 $ 2,100.00
 
-3 - 20.00 10.00
+3 $ 150.00
 
-4 - 30.00 15.00
+4 $ 1,050.00
 
-5 - 40.00 20.00
+Unicamente se pagará el derecho que establece este artículo, por la clase 3 en los puentes Miguel Alemán; Paso del Norte; Matamoros; Camargo; Piedras Negros; Acuña; Reynosa; Laredo I y II; Las Flores, Rodolfo Robles y Ojinaga.
 
-6 - 50.00 25.00
-
-7 - 60.00 30.00
-
-8 - 10.00 5.00
-
-IV.- PUENTE PANUCO.
-
-Normal Residente
-
-CLASE 1 - $ 10.00 $ 5.00
-
-2 - 15.00 7.00
-
-3 - 15.00 7.00
-
-4 - 15.00 7.00
-
-5 - 20.00 10.00
-
-6 - 25.00 12.00
-
-7 - 30.00 15.00
-
-8 - 5.00 2.00
-
-V.- PUENTE CHAIREL.
-
-Normal Residente
-
-CLASE 1 - $ 10.00 $ 5.00
-
-2 - 15.00 7.00
-
-3 - 15.00 7.00
-
-4 - 15.00 7.00
-
-5 - 20.00 10.00
-
-6 - 25.00 12.00
-
-7 - 30.00 15.00
-
-8 - 5.00 2.00
-
-VI.- PUENTE CULIACAN. Normal
-
-CLASE 1 - $ 15.00
-
-2 - 25.00
-
-3 - 25.00
-
-4 - 30.00
-
-5 - 40.00
-
-6 - 50.00
-
-7 - 60.00
-
-8 - 5.00
-
-VII.- PUENTE
-
-MATAMOROS. Normal Residente
-
-CLASE 1 - $ 30.00 $ 15.00
-
-2 - 50.00 25.00
-
-3 - 50.00 25.00
-
-4 - 60.00 30.00
-
-5 - 70.00 35.00
-
-6 - 80.00 40.00
-
-7 - 100.00 50.00
-
-8 - 15.00 7.00
-
-9 - 10.00 5.00
-
-VIII.- PUENTE ALVARADO.
-
-Normal Residente
-
-CLASE 1 - $ 30.00 $ 15.00
-
-2 - 40.00 20.00
-
-3 - 40.00 20.00
-
-4 - 50.00 25.00
-
-5 - 60.00 30.00
-
-6 - 80.00 40.00
-
-7 - 100.00 50.00
-
-8 - 10.00 5.00
-
-IX.- PUENTE
-
-PAPALOAPAN. Normal Residente
-
-CLASE 1 - $ 20.00 $ 10.00
-
-2 - 25.00 12.00
-
-3 - 25.00 12.00
-
-4 - 25.00 12.00
-
-5 - 30.00 15.00
-
-6 - 40.00 20.00
-
-7 - 50.00 25.00
-
-8 - 10.00 5.00
-
-X.- PUENTE CARACOL. Normal Residente
-
-CLASE 1 - $ 20.00 $ 10.00
-
-2 - 25.00 12.00
-
-3 - 25.00 12.00
-
-4 - 25.00 12.00
-
-5 - 30.00 15.00
-
-6 - 40.00 20.00
-
-7 - 50.00 25.00
-
-8 - 10.00 5.00
-
-XI.- PUENTE CAMARGO. Normal Residente
-
-CLASE 1 - $ 30.00 $ 15.00
-
-2 - 50.00 25.00
-
-3 - 50.00 25.00
-
-4 - 60.00 30.00
-
-5 - 70.00 35.00
-
-6 - 80.00 40.00
-
-7 - 100.00 50.00
-
-8 - 15.00 7.00
-
-9 - 10.00 5.00
-
-XII.- PUENTE MIGUEL
-
-ALEMAN. Normal Residente
-
-CLASE 1 - $ 20.00 $ 10.00
-
-2 - 30.00 15.00
-
-3 - 30.00 15.00
-
-4 - 40.00 20.00
-
-5 - 50.00 25.00
-
-6 - 60.00 30.00
-
-7 - 80.00 40.00
-
-8 - 15.00 7.00
-
-9 - 10.00 5.00
-
-XIII.- PUENTE AMECA.
-
-Normal Residente
-
-CLASE 1 - $ 25.00 $ 12.00
-
-2 - 30.00 15.00
-
-3 - 30.00 15.00
-
-4 - 40.00 20.00
-
-5 - 45.00 22.00
-
-6 - 50.00 25.00
-
-7 - 60.00 30.00
-
-8 - 10.00 5.00
-
-XIV.- PUENTE NAUTLA. Normal
-
-CLASE 1 - $ 20.00
-
-2 - 25.00
-
-3 - 25.00
-
-4 - 25.00
-
-5 - 30.00
-
-6 - 35.00
-
-7 - 40.00
-
-8 - 10.00
-
-XV.- PUENTE GRIJALVA.
-
-Normal Residente
-
-CLASE 1 - $ 25.00 $ 12.00
-
-2 - 30.00 15.00
-
-3 - 30.00 15.00
-
-4 - 35.00 17.00
-
-5 - 40.00 20.00
-
-6 - 55.00 22.00
-
-7 - 50.00 25.00
-
-8 - 10.00 5.00
-
-XVI.- PUENTE
-
-USUMACINTA. Normal
-
-CLASE 1 - $ 35.00
-
-2 - 50.00
-
-3 - 50.00
-
-4 - 55.00
-
-5 - 60.00
-
-6 - 65.00
-
-7 - 70.00
-
-8 - 15.00
-
-XVII.- PUENTE
-
-CADEREYTA. Normal
-
-CLASE 1 - $ 15.00
-
-2 - 20.00
-
-3 - 20.00
-
-4 - 30.00
-
-5 - 35.00
-
-6 - 35.00
-
-7 - 40.00
-
-8 - 5.00
-
-XVIII.- PUENTE
-
-LA PIEDAD. Normal
-
-CLASE 1 - $ 15.00
-
-2 - 20.00
-
-3 - 20.00
-
-4 - 20.00
-
-5 - 25.00
-
-6 - 30.00
-
-7 - 35.00
-
-8 - 5.00
-
-XIX.- PUENTE
-
-TECOLUTLA. Normal
-
-CLASE 1 - $ 25.00
-
-2 - 30.00
-
-3 - 30.00
-
-4 - 35.00
-
-5 - 40.00
-
-6 - 45.00
-
-7 - 50.00
-
-8 - 10.00
-
-XX.- PUENTE DE
-
-LAS FLORES. Normal Residente
-
-CLASE 1 - $ 40.00 $ 20.00
-
-2 - 50.00 25.00
-
-3 - 50.00 25.00
-
-4 - 60.00 30.00
-
-5 - 70.00 30.00
-
-6 - 80.00 40.00
-
-7 - 100.00 50.00
-
-8 - 20.00 10.00
-
-9 - 10.00 5.00
-
-XXI.- PUENTE
-
-SAN JUAN. Normal
-
-CLASE 1 - $ 15.00
-
-2 - 20.00
-
-3 - 20.00
-
-4 - 25.00
-
-5 - 30.00
-
-6 - 35.00
-
-7 - 40.00
-
-8 - 5.00
-
-XXII.- PUENTE OJINAGA. Normal Residente
-
-CLASE 1 - $ 40.00 $ 20.00
-
-2 - 50.00 25.00
-
-3 - 50.00 25.00
-
-4 - 60.00 30.00
-
-5 - 70.00 35.00
-
-6 - 80.00 40.00
-
-7 - 100.00 50.00
-
-8 - 15.00 7.00
-
-9 - 10.00 5.00
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-XXIII.- PUENTE PASO
-
-DEL NORTE. Normal Residente
-
-CLASE 1 - $ 30.00 $ 15.00
-
-2 - 40.00 20.00
-
-3 - 40.00 20.00
-
-4 - 50.00 25.00
-
-5 - 60.00 30.00
-
-6 - 70.00 35.00
-
-7 - 80.00 40.00
-
-8 - 15.00 7.00
-
-9 - 5.00 5.00
-
-XXIV.- PUENTE
-
-RODOLFO ROBLES. Normal
-
-CLASE 1 - $ 60.00
-
-2 - 70.00
-
-3 - 70.00
-
-4 - 80.00
-
-5 - 90.00
-
-6 - 100.00
-
-7 - 120.00
-
-8 - 30.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-9 - 35.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-10 - 150.00
-
-XXV.- PUENTE VALENTIN
-
-GOMEZ FARIAS. Normal
-
-CLASE 1 - $ 15.00
-
-2 - 20.00
-
-3 - 20.00
-
-4 - 25.00
-
-5 - 30.00
-
-6 - 35.00
-
-7 - 40.00
-
-8 - 5.00
-
-XXVI.- PUENTE
-
-PIEDRAS NEGRAS. Normal Residente
-
-CLASE 1 - $ 30.00 $ 15.00
-
-2 - 50.00 25.00
-
-3 - 50.00 25.00
-
-4 - 60.00 30.00
-
-5 - 70.00 35.00
-
-6 - 80.00 40.00
-
-7 - 100.00 50.00
-
-8 - 20.00 10.00
-
-9 - 10.00 5.00
-
-XXVII.- PUENTE
-
-TLACOTALPAN. Normal
-
-CLASE 1 - $ 40.00
-
-2 - 50.00
-
-3 - 50.00
-
-4 - 60.00
-
-5 - 70.00
-
-6 - 80.00
-
-7 - 100.00
-
-8 - 20.00
-
-XXVIII.- PUENTE ACUÑA.
-
-Normal Residente
-
-CLASE 1 - $ 30.00 $ 15.00
-
-2 - 30.00 15.00
-
-3 - 40.00 20.00
-
-4 - 50.00 25.00
-
-5 - 60.00 30.00
-
-6 - 80.00 40.00
-
-7 - 100.00 50.00
-
-8 - 20.00 10.00
-
-9 - 10.00 5.00
-
-XXIX.- PUENTE REYNOSA.
-
-Normal Residente
-
-CLASE 1 - $30.00 $ 15.00
-
-2 - 40.00 20.00
-
-3 - 40.00 20.00
-
-4 - 40.00 20.00
-
-5 - 60.00 30.00
-
-6 - 80.00 40.00
-
-7 - 100.00 50.00
-
-8 - 20.00 10.00
-
-9 - 10.00 5.00
-
-XXX.- PUENTE LAREDO I Y II.
-
-Normal Residente
-
-CLASE 1 - $ 30.00 $ 15.00
-
-2 - 50.00 25.00
-
-3 - 50.00 25.00
-
-4 - 50.00 25.00
-
-5 - 70.00 35.00
-
-6 - 80.00 40.00
-
-7 - 100.00 50.00
-
-8 - 30.00 15.00
-
-9 - 10.00 5.00
-
-XXXI.- PUENTE PANTEPEC.
-
-Normal
-
-CLASE 1 - $ 20.00
-
-2 - 25.00
-
-3 - 25.00
-
-4 - 30.00
-
-5 - 40.00
-
-6 - 50.00
-
-7 - 60.00
-
-8 - 10.00
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-XXXII.- PUENTE COATZACOALCOS I
-
-Normal Residente
-
-CLASE 1 - $ 40.00 $ 20.00
-
-2 - 50.00 25.00
-
-3 - 50.00 25.00
-
-4 - 55.00 27.00
-
-5 - 60.00 30.00
-
-6 - 70.00 35.00
-
-7 - 90.00 45.00
-
-8 - 20.00 10.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-10 (sic) 170.00
-
-XXXIII.- PUENTE LA
-
-ANTIGÜA Normal
-
-CLASE 1 - $ 20.00
-
-2 - 25.00
-
-3 - 25.00
-
-4 - 30.00
-
-5 - 35.00
-
-6 - 40.00
-
-7 - 45.00
-
-8 - 10.00
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-XXXIV.- PUENTE COATZACOALCOS II
-
-CLASE 1 - $ 180.00
-
-2 - 220.00
-
-3 - 220.00
-
-4 - 250.00
-
-5 - 270.00
-
-6 - 270.00
-
-7 - 400.00
-
-8 - 90.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 215.
 
-Para los efectos de los artículos 213 y 214 de esta Ley, los vehículos tendrán la siguiente clasificación:
+Para los efectos del pago de los derechos a que se refieren los artículos 213 y 214 de esta Ley, los vehículos y peatones tendrán la siguiente clasificación:
 
-1 Automóviles, turismos, pick-Ups y panels.
+1.- Automóviles, turismos, pick-ups con o sin remolque y motocicletas, por cada vehículo.
 
-2 Automóviles, turismos, pick-Ups y panels con remolque o trailer.
+2.- Autobuses de pasajeros, camiones de carga o tractores con semirremolque o remolque de dos ejes, por cada eje excedente se aplicará el 50% de la cuota.
 
-3 Autobuses de pasajeros.
+3.- Peatones, por cada uno.
 
-4 Camiones de carga de 2 ejes.
+4.- Ferrocarril, por cada máquina y vagón que lo componga.
 
-5 Camiones de carga o tractores con semirremolque de 3 ejes.
-
-6 Camiones de carga o tractores con remolque de 4 ejes.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-7 Camiones de carga o tractores hasta de 5 ejes.
-
-8 Motocicletas.
-
-El número 9 se utiliza para señalar que el usuario del puente es un peatón.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-10.- Ferrocarril, por cada máquina y vagón que lo componga.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Las personas físicas y las morales pagarán los derechos de carreteras y de puentes en las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-Tratándose de camiones de carga o tractores con remolque, de más de 5 ejes, la cuota que le corresponda a la clasificación 7, se incrementará en un 10% por cada eje excedente de 5.
+Los contribuyentes pagarán los derechos de carreteras y de puentes en las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 216.
 
@@ -10805,13 +9631,17 @@ No se pagarán los derechos de carretera y de puente, por los vehículos militar
 
 Asimismo no pagarán los derechos a que este artículo se refiere los diputados y senadores del Congreso de la Unión.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 218.
 
-El organismo que tenga a su cargo la administración de las carreteras y de los puentes a que se refiere este Capítulo, deberá fijar en lugar visible para los usuarios de los mismos, por lo menos las cuotas vigentes de los derechos de carretera y de puentes para la clase 1, 2 y 9 a que se refiere el artículo 215 de esta Ley.
+El organismo que tenga a su cargo la administración de las carreteras y de los puentes a que se refiere este Capítulo, deberá fijar en lugar visible para los usuarios de los mismos, por lo menos las cuotas vigentes de los derechos de carreteras y de puentes para las clases 1 y 3 a que se refiere el artículo 215 de esta Ley.
 
-Los ingresos que se obtengan por los derechos que se establecen en este Capítulo, quedan afectados al organismo a que se refiere el párrafo anterior.
+Los ingresos que se obtengan por los derechos a que se refiere esta sección se destinarán al organismo que tenga a su cargo la administración de las carreteras y los puentes, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado, para cubrir sus gastos de operación, conservación, mantenimiento e inversión. Los ingresos que excedan el límite señalado, no tendrán fin específico.
+
+### CAPITULO XIII. Minería
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 219.
 
@@ -10881,7 +9711,9 @@ superficiales o extraídas del subsuelo a
 
 excepción de las del mar 4.50 2.30 1.20 0.60
 
-Cuando la extracción de aguas del subsuelo se realice en zonas vedadas o de acuíferos sobreexplotados, se pagará el 75% de la cuota que se aplique en el sistema de agua potable del municipio de la extracción o del más cercano a ésta, a excepción de las que se extraigan dentro de la cuenca del Valle de México, en cuyo caso la cuota se determinará conforme a lo siguiente:
+> <small>(REFORMADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+Cuando la extracción de aguas del subsuelo se realice en zonas vedadas o de acuíferos sobreexplotados, se pagará el 75% de la cuota que se aplique en el sistema de agua potable del municipio de la extracción o del más cercano a ésta, a excepción de las que se extraigan dentro del Distrito Federal y los Estados de Guanajuato, Hidalgo, México, Michoacán, Morelos, Puebla y Querétaro, en cuyo caso la cuota se determinará conforme a lo siguiente:
 
 I.- Por las aguas extraídas de pozos, independientemente del destino que se les dé, $105.00 por metro cúbico de agua.
 
@@ -11031,17 +9863,21 @@ ZONA 4. Estado de Campeche: Carmen y Palizada; Estado de Chiapas; Estado de Dura
 
 Están obligadas a pagar el derecho por el uso o goce de inmuebles, las personas físicas y las morales que usen o gocen la zona federal marítimo-terrestre, los diques, cauces, vasos, zonas de corrientes, depósitos de propiedad nacional y otros inmuebles del domina público distintos de los señalados en otros Capítulos de este Título, conforme a lo que a continuación se señala:
 
-I.- Por el uso o goce, el 5% anual del valor comercial de terrenos de calidad semejante ubicada en la región.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-II.- Por la extracción de materiales, por metro cúbico, el 5% del valor comercial que tengan en la región o en el mercado más cercano.
+I.- El 10% anual del valor del inmueble colindante.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-III.- De $ 25.00 mensuales por hectárea, cuando en el mismo se realicen actividades agropecuarias:
+II.- El 5% anual del valor del inmueble colindante, cuando se destine para protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-IV.- De $ 1.00 mensuales por metro cuadrado, cuando el uso o goce consista en la realización de labores e investigación científica o de actividades pesqueras.
+III.- De $ 250.00 mensuales por hectárea, cuando en el mismo se realicen actividades agropecuarias.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+IV.- De $ 10.00 mensuales por metro cuadrado cuando el uso o goce consista en la realización de labores de investigación científica o de actividades pesqueras.
 
 > <small>(DEROGADO PENULTIMO PARRAFO [N. DE E. ULTIMO PARRAFO], D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -11089,11 +9925,11 @@ II.- Incrementar el valor catastral con la cantidad que resulte de aplicarle el 
 
 Cuando las autoridades fiscales hagan las valuaciones a que se refiere este artículo, proporcionarán al contribuyente un extracto del avalúo.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 236.
 
-Están obligadas a pagar el derecho por extracción de materiales, las personas físicas y las morales que extraigan materiales de los cauces, vasos y zonas de corrientes, así como de los depósitos de propiedad nacional, conforme a la cuota que resulte de aplicar el 5% al valor que tengan estos materiales en la región o en el mercado más cercano.
+Están obligadas a pagar el derecho por extracción de materiales, las personas físicas y las morales que extraigan materiales de los cauces, vasos y zonas de corrientes, así como de los depósitos de propiedad nacional, conforme a la cuota que resulte de aplicar el 10% al valor que tengan estos materiales en la región o en el mercado más cercano.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -11177,9 +10013,9 @@ XI.- Guajolote silvestre......... 6,000.00
 
 XII.- Jabalí labios blancos…..... 9,000.00
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-XIII.- Perdiz............ 3,000.00
+XIII.- Perdiz o Tinamú.................... 9,600.00
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -11205,6 +10041,14 @@ XVIII.- Otras aves de acuerdo al calendario cinegético........... 10,000.00
 
 XIX.- Otros pequeños mamíferos de acuerdo al calendario cinegético…….. 10,000.00
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+XX.- Borrego audat........................ 30,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+XXI.- Jabali africano o warthog........... 30,000.00
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 El pago del derecho de caza deportiva se hará previamente a la expedición del permiso correspondiente mediante declaración que se presentará a las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público. En el caso de que se capturen animales en exceso de los que señala el permiso respectivo o sin éste, se cobrará el derecho que corresponda independientemente de que se imponga las sanciones a que haya lugar.
@@ -11217,11 +10061,17 @@ No se cobrarán derechos cuando se trate de animales para los que no se requiera
 
 Cuando la caza o captura de una especie esté vedada por las disposiciones en vigor, se pagará el derecho de caza deportiva conforme a las cuotas que a continuación se señalan según el riesgo de extinción de la especie, independientemente de las sanciones que procedan:
 
-I.- Aguila arpía, real o dorada; ballena jorobada o gris; berrendo; cochito; cóndor de California; elefante marino; foca fina de Guadalupe; lobo marino; halcón café o peregrino; guacamaya roja o verde; lobo mexicano; manatí; oso gris; pavon o guan cornudo y tapir, por cada uno........... $ 1.500,000.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-II.- Aguila solitaria; caimán; carpintero real o imperial; cocodrilo del río; loro cabeza amarilla, cabeza azul o tehuano; mono aullador o rugidor, nutria marina; ocelote; perro de las praderas; quetzal; teporingo o zacatuche; tortuga lora, verde o golfina; tucán y zopilote rey, por cada uno.......... $ 1.000,000.00
+I.- Aguila arpía, real o dorada, ballena jorobada o gris; berrendo; cochito; cóndor de california; elefante marino, foca fina de guadalupe; lobo marino; halcón pradera y peregrino; guacamaya roja o verde; lobo mexicano; manatí; oso gris; pavón o guan cornudo y tapir, por cada uno........ $ 2'400,000.00
 
-III.- Aguila calva o cabeza blanca; caracará; halcón aplomado; flamenco; guacamaya; monstruo de gila o escorpión; tigrillo; tortuga de Mapimí o del desierto; tucán verde, por cada uno…...... $ 500,000.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+II.- Aguila solitaria; caimán; carpintero real o imperial; cocodrilo de río y de pantano; loro cabeza amarilla, cabeza azul o tehuano; mono aullador o zarahuato y araña; nutria marina y de río; ocelote; perro de las praderas; quetzal; teporingo o zacatuche; tortuga lora, verde o golfina; tucán pico de canoa y de collar y zopilote rey, por cada uno........... $ 1'600,000.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+III.- Aguila calva o cabeza blaca; halcón aplomado; flamenco; guacamaya enana; monstruo de gila o escorpión; tigrillo; tortuga de mapimí o del desierto y tucan verde, por cada uno.. $ 800,000.00
 
 IV.- Oso hormiguero, pelícano café y oca salvaje por cada uno....... $ 250,000.00
 
@@ -11461,9 +10311,21 @@ Para los efectos de este artículo, la cuota por enlace radiotelefónico de equi
 
 Para redes o sistemas de enlaces fijos radioeléctricos multicanales entre dos estaciones terminales con o sin estaciones repetidoras, que se utilicen en el servicio telefónico público, el derecho por el uso del espectro radioeléctrico se determinará para cada canal de radiofrecuencia y por cada red o sistema, considerando la distancia en kilómetros entre las dos estaciones terminales y las características de emisión, la que se convertirá en factor de conformidad a lo establecido en el artículo 252 de esta Ley.
 
-El derecho a pagar será la cantidad que resulte de multiplicar 650.0 por el número de kilómetros entre las dos estaciones terminales, cuyo valor mínimo para este fin será de 50 kilómetros.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+El derecho a pagar será la cantidad que resulta de multiplicar 650.0 por el número de kilómetros entre las dos estaciones terminales, cuyo valor mínimo para ese fin será de 50 kilómetros y por el factor a que se refiere el párrafo anterior.
 
 Como canal de radiofrecuencia se entenderá una frecuencia de transmisión y otra de recepción.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 245-B.
+
+Tratándose de sistemas o redes de enlaces multiacceso entre estaciones terminales a través de una o más estaciones base con o sin repetidor, cuando se utilice una frecuencia de transmisión y otra de recepción, se pagará por el uso del espectro radioeléctrico, considerando la distancia en kilómetros de las estaciones terminales, el número de estaciones terminales de la red y las características de emisión que se convertirán en factor de conformidad con el artículo 252 de esta Ley.
+
+Para calcular el derecho, se multiplicará 33.0 por el número de kilómetros del radio de acción de las estaciones terminales, cuyo valor mínimo será de 50 kilómetros y por el número de horas de operación y por el factor de emisión; el resultado se sumará al producto que se obtenga de multiplicar 650.0 por el número de estaciones terminales de la red; la cantidad obtenida será el derecho a pagar.
+
+Para los efectos de este artículo, el horario autorizado tendrá como referencia el de la Ciudad de México, el mínimo de horas que se tomará en cuenta será de 24 horas.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -11643,39 +10505,13 @@ de la Emisión kilohertz megahertz
 
 5M75C3FNN, 250KF3EGN 2.09
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 252.
 
-Para los efectos de los artículos 244 y 245 de esta Ley, los factores de las características de emisión, se determinarán conforme a lo siguiente:
+Para los efectos de los artículos 244 y 245 de esta Ley, los factores de las características de emisión se determinarán conforme a lo siguiente:
 
-F a c t o r de E m i s i o n e s
-
-CaracterísticaNúmero
-
-de Emisión de Canales 240 a 420 890 a 960 2 a 3 3 a 6 6 a 7 7 a 11 11 a 13
-
-mega mega giga giga giga giga giga
-
-hertz hertz hertz hertz hertz hertz hertz
-
-120F9 12 2.14
-
-300F9 24 2.50
-
-600F9 60 2.78 2.30 1.66 1.50
-
-1600F9 72 2.70 2.06 1.90 1.78 1.68
-
-3700F9 120 3.04 2.40 2.24 2.11 2.03 1.90
-
-16300F9 300 3.00 2.84 2.72 2.62 2.52
-
-17000F9 960 3.02 2.86 2.74 2.65 2.54
-
-20000F9 1800 3.08 2.92 2.80 2.72 2.60
-
-23300F9 2700 2.98 2.86 2.77 2.67
+(VEASE ARCHIVO ANEXO)
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -11697,11 +10533,23 @@ IV.- Las cuotas son aplicables a los concesionarios que presten servicios al pú
 
 Lo dispuesto en este artículo no es aplicable a los derechos establecidos en los artículos 243 al 243-D y 246 de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 253-A.
+
+Para los efectos de la determinación de los derechos a que se refieren los artículos 239 a 242, 242-B, 242-C, 243, 244, 245-A y 246-B de esta Ley, el resultado obtenido de la aplicación de los mecanismos que en los mismos se señalan se multiplicará por 2.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 253-B.
+
+Los ingresos que se obtengan por el cobro de los derechos a que se refiere esta Sección, se destinarán a la dependencia administradora del bien, hasta el monto que señale el presupuesto de egresos que le hubiere sido autorizado para cubrir sus gastos de operación, conservación, mantenimiento e inversión. La parte de los ingresos que exceda el límite señalado, no tendrá fin específico.
+
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 254.
 
-Por la extracción de petróleo crudo y gas natural en territorio nacional, Petróleos Mexicanos pagará el derecho sobre hidrocarburos que será el 31% del valor del petróleo crudo y del gas natural extraídos en cada ejercicio.
+Por la extracción de petróleo crudo y gas natural en territorio nacional, Petróleos Mexicanos pagará el derecho sobre hidrocarburos que será el 29.3% del valor del petróleo crudo y del gas natural extraído en cada ejercicio.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -11917,11 +10765,15 @@ II.- Se pague parcial o totalmente el precio.
 
 III.- Se expida el documento que ampare la enajenación.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 274.
 
-Para los efectos de este Capítulo, se considerará pequeño minero al contribuyente que en el año de calendario anterior hubiera obtenido ingresos brutos por ventas de minerales por menos de ciento cincuenta millones de pesos y que no formen parte de un conjunto de diversas unidades mineras y metalúrgicas que pertenezcan a la misma persona o grupo de personas o cuando una u otra sean titulares de la mayoría del capital social de empresas mineras. No se considerará como grupo minero, cuando los ingresos brutos del mismo obtenidos por la venta de minerales, no hayan excedido de la cantidad señalada en este artículo.
+Para los efectos de este Capítulo, se considerará pequeño minero al contribuyente que en el año de calendario anterior hubiera obtenido ingresos brutos por venta de minerales hasta por 1,000 salarios mínimos correspondientes a la zona económica del Distrito Federal elevados al año siempre que no forme parte de un conjunto de diversas unidades mineras y metalúrgicas que pertenezcan a la misma persona o grupo de personas o cuando una u otra sean titulares de la mayoría del capital social de empresas minoritarias. No se considerará como grupo minero, cuando los ingresos brutos del mismo obtenidos por la venta de minerales, no hayan excedido de el límite antes señalado.
+
+Por mediano nivel minero se entenderá al contribuyente que en el año de calendario anterior hubiera obtenido ingresos brutos por ventas de minerales por más de 1,000 salarios mínimos correspondientes a la zona económica del Distrito Federal elevados al año, pero sin rebasar los 3,500 salarios mínimos.
+
+Por gran minero se entenderá al contribuyente que no se encuentre comprendido en las disposiciones anteriores.o.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -12482,3 +11334,135 @@ XII.- Durante el 1o. de febrero de 1986 y hasta el 30 de septiembre del mismo a�
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1986.
+
+D.O.F. 31 DE DICIEMBRE DE 1986.
+
+Disposiciones Transitorias
+
+###### ARTICULO DECIMO SEPTIMO.
+
+Para los efectos de los artículos de la Ley Federal de Derechos que se reforman y adicionan, conforme a lo dispuesto en el artículo anterior, se estará a las disposiciones transitorias siguientes:
+
+I.- Las reformas al artículo 25 de la Ley Federal de Derechos, entrarán en vigor a partir del 1o. de febrero e 1987.
+
+II.- Los incrementos a que se refieren los dos últimos párrafos del artículo 145 de esta Ley entrarán en vigor a partir del 1o. de junio de 1987.
+
+III.- Las reformas a los artículos 213 y 214, de la Ley Federal de Derechos, entrarán en vigor a partir del 1o. de febrero de 1987.
+
+Disposiciones con Vigencia Durante el año de 1987.
+
+###### ARTICULO DECIMO OCTAVO.
+
+Durante el año de 1987 se aplicarán en materia de derechos las siguientes disposiciones:
+
+I.- Para los efectos del artículo 1o. de la Ley Federal de Derechos, las cuotas de los derechos que a continuación se señalan se incrementarán en las fechas que se indican, aplicándoles el factor que para cada caso se menciona:
+
+A.- Disposiciones Generales.
+
+Las cuotas de los derechos a que se refiere el artículo 5o. con el factor del 2.05 a partir del 1o. de febrero y con el factor de 1.5 a partir de 1o. de julio.
+
+B.- Titulo Primero de la Ley.
+
+a).- Las cuotas de los derechos a que se refiere el Capítulo I con el factor de 2.05 a partir del 1o. de febrero y con el factor de 1.5 a partir del 1o. de junio.
+
+b).- Las cuotas de los derechos a que se refiere la Sección Primera del Capítulo II con el factor de 1.5 a partir del 1o. de enero y con el factor de 1.25 a partir del 1o. de junio y 1o. de noviembre; las de la Sección Segunda con el factor de 6 a partir del 16 de enero; las de la Sección Tercera con el factor de 2.05 a partir del 1o. de febrero y con factor de 1.2 a partir del 1o. de junio.
+
+c).- Las cuotas de los derechos a que se refiere la Sección Segunda del Capítulo III con el factor de 1.4 a partir del 1o. de junio; las de la Sección Tercera con el factor de 2.05 a partir del 1o. de febrero y con el factor de 1.4 a partir del 1o. de julio; las de la Sección Cuarta con el factor 2.05 a partir del 1o. de marzo y con el factor de 1.4 a partir del 1o. de agosto.
+
+d).- Las cuotas de los derechos a que se refiere el Capítulo IV con el factor de 2.05 a partir del 1o. de abril y con el factor de 1.3 a partir del 1o. de junio.
+
+e).- Las cuotas de los derechos a que se refiere el Capítulo V con el factor de 2.05 a partir del 1o. de febrero y con el factor de 1.3 a partir del 1o. de junio.
+
+f).- Las cuotas de los derechos a que se refiere la Sección Primera del Capítulo VI, en su artículo 62, fracción I, inciso a) y fracción II, con el factor de 11.54 a partir del 16 de enero y las de la fracción I, incisos b) y c), con el factor de 7.69 a partir del 1o. de enero; las de la Sección Segunda, Tercera, Cuarta, Quinta, Sexta, Séptima y Octava con el factor de 2.05 a partir del 1o. de marzo y con el factor 1.4 a partir del 1o. de julio.
+
+g).- Las cuotas de los derechos a que se refiere la Sección Primera del Capítulo VII con el factor de 2.05 a partir del 1o. de febrero y con el factor de 1.3 a partir del 1o. de junio; las de la Sección Tercera con el factor de 2 a partir del 1o. de febrero.
+
+h).- Las cuotas de los derechos a que se refiere la Sección Primera del Capítulo VIII con el factor de 1.5 a partir del 1o. de febrero, con el factor de 1.4 a partir del 1o. de junio y con el factor de 1.3 a partir del 1o. de octubre, excepto el inciso b), de la fracción I del artículo 97 y la fracción I del artículo III, las que se incrementarán con el factor de 1.25 el 1o. de febrero, con el factor de 1.2 a partir del 1o. de junio y con el factor de 1.2 a partir del 1o. de octubre, las cuotas contenidas en el artículo 104 se incrementarán con el factor de 1.5 a partir del 1o. de junio, así como las contenidas en los artículos 105, 107, 109, Apartado A, 110 y 112, las cuales se incrementarán con el factor de 1.2 a partir del 1o. de junio y con el factor de 1.3 a partir del 1o. de octubre; las cuotas de los derechos contenidas en el artículo 92 fracción III, 94 Apartado A, fracción IV, Apartado B, fracción I y Apartado D, 106 fracción I, 113 fracción VII, 115-A, 115-B y 115-D, no se incrementarán; las de la Sección Segunda con el factor de 2 a partir del 1o. de febrero, excepto las cuotas contenidas en las fracciones I, inciso c) y II del artículo 116, y con el factor de 1.3 a partir del 1o. de agosto; las de la Sección Tercera con el factor de 2.05 a partir del 1o. de abril y con el factor de 1.25 a partir del 1o. de diciembre; las de la Sección Cuarta, en sus artículos 142, 143 y 144 con el factor de 2.1 a partir del 1o. de febrero y con el factor de 1.5 a partir del 1o. de octubre, el artículo 143-A con el factor de 1.5 a partir del 1o. de octubre; en su artículo 145 Apartados A y B fracción III con el factor de 2.5 a partir del 1o. de febrero; el artículo 145 Apartado C se incrementará con el factor de 2.5 a partir del 1o. de febrero y con el factor de 1.5 a partir del 1o. de octubre; las de la Sección Quinta con el factor de 2.05 a partir del 1o. de abril y con el factor de 1.5 a partir del 1o. de agosto; las de la Sección Sexta con el factor del 1.6 a partir del 1o. de abril y con el factor de 1.4 a partir del 1o. de octubre, a excepción de los artículos 151 y 152, los cuales se incrementarán con el factor de 1.5 a partir del 1o. de febrero y con el factor del 1.4 a partir del 1o. de agosto, la cuota contenida en el Apartado B del artículo 151 se incrementará con el factor de 1.71 a partir del 1o. de febrero con el factor de 1.4 a partir del 1o. de agosto, las de la Sección Séptima con el factor de 1.6 a partir del 1o. de febrero y con el factor de 1.4 a partir del 1o. de agosto, con excepción del artículo 169 que se incrementará con el factor de 2 a partir del 1o. de abril y con el factor de 1.5 a partir del 1o. de octubre; las de la Sección Octava y Novena con el factor de 1.5 a partir del 1o. de marzo y con el factor de 1.4 a partir del 1o. de julio de 1987.
+
+i).- Las cuotas de los derechos a que se refiere la Sección Primera del Capítulo IX con el factor de 2.05 a partir del 1o. de febrero y con el factor de 1.6 a partir del 1o. de agosto; las de la Sección Segunda a excepción del artículo 173-B con el factor de 1.6 a partir del 1o. de marzo y con el factor de 1.5 a partir del 1o. de octubre; las de la Sección Tercera, con el factor de 3 a partir del 1o. de marzo, con excepción de la fracción II, inciso f) del artículo 174-A, que se incrementará con el factor de 2 a partir del 1o. de marzo y las fracciones I y II, incisos c) y j) se incrementarán con el factor de 1.5 a partir del 1o. de julio.
+
+j).- Las cuotas de los derechos a que se refiere el Capítulo X con el factor de 2.05 a partir del 16 de febrero y con el factor de 1.5 a partir del 1o. de julio, a excepción del Artículo 175 en cuyo caso se incrementará con el factor de 3.0 a partir del 16 de febrero y de la Sección Segunda, en la cual se incrementarán las cuotas con el factor de 1.6 a partir del 16 de enero y 1o. de agosto.
+
+k).- Las cuotas de los derechos a que se refiere el Capítulo XI con el factor de 2.05 a partir del 1o. de marzo y con el factor de 1.5 a partir del 1o. de agosto.
+
+I).- Las cuotas de los derechos establecidas en el Capítulo XIII, con el factor de 2.05 a partir del 1o. de febrero y con el factor de 1.5 a partir del 1o. de julio.
+
+m).- Las cuotas de los derechos a que se refiere el Capítulo XIV con el factor de 1.5 a partir del 1o. de julio.
+
+C.- Titulo Segundo de la Ley.
+
+a).- Las cuotas de los derechos establecidos en el Capítulo I con el factor de 2.05 a partir del 1o. de febrero y con el factor de 1.5 a partir del 1o. de junio.
+
+b).- Las cuotas de los derechos establecidas en el Capítulo II con el factor de 2.5 a partir del 1o. de febrero y con el factor de 1.5 a partir del 1o. de julio.
+
+c).- Las cuotas de los derechos de muelle a que se refiere el artículo 205, con el factor de 1.5 a partir del 1o. de abril y con el factor de 1.4 a partir del 1o. de agosto.
+
+d).- Las cuotas de los derechos establecidos en el Capítulo V, con el factor de 2.05 a partir del 1o. de febrero y con el factor de 1.5 a partir del 1o. de junio.
+
+e).- Las cuotas de los derechos establecidos en el Capítulo VI, con el factor de 1.3 a partir del 1o. de junio y con el factor de 1.2 a partir del 1o. de diciembre.
+
+f).- Las cuotas de los derechos establecidos en el Capítulo VIII, con el factor de 2.05 a partir del 1o. de febrero y con el factor de 1.3 a partir del 1o. de junio.
+
+g).- Las cuotas de los derechos a que se refiere el artículo 237 con el factor de 2.05 a partir del 1o. de abril y con el factor de 1.4 a partir del 1o. de agosto.
+
+h).- Las cuotas del derecho a que se refiere el artículo 237-A, con el factor de 4 a partir del 1o. de marzo.
+
+i).- Las cuotas de los derechos establecidos en el Capítulo X, con el factor de 2.2 a partir del 1o. de julio a excepción de las establecidas en el artículo 238-A, las cuales se incrementarán en un 200%, o sea aplicado el factor de 3.0 a partir del 1o. de marzo.
+
+j).- Las cuotas de los derechos establecidos en el Capítulo XI, con el factor de 2.05 a partir del 16 de enero y con el factor de 1.4 a partir del 1o. de junio, a excepción del artículo 246 que se incrementará con el factor de 5 a partir del 1o. de enero.
+
+II.- Los servicios a que se refiere el artículo 3o., quinto párrafo, de la Ley Federal de Derechos, para el año de 1987, son:
+
+A.- Telex internacional.
+
+B.- Telegráfico internacional.
+
+C.- Telecomunicaciones a través de satélites internacionales en lo que se refiere a las cantidades que la Secretaría de Comunicaciones y Transportes tenga que pagar por la utilización del segmento espacial y los servicios complementarios del exterior.
+
+D.- Comunicaciones Marítimas por satélite.
+
+E.- Conducción internacional de señales por satélite y por otros medios.
+
+F.- Transmisión internacional de señales de datos.
+
+G.- Conducción de señales de México al extranjero correspondiente al tramo nacional.
+
+H.- Los prestados por oficinas de la Federación en el extranjero.
+
+I.- Los siguientes derechos: pesca comercial, puerto, atraque, desembarco, sal destinada a la exportación y caza deportiva.
+
+III.- Cuando esta Ley establezca como base del derecho el valor que tengan los bienes, se ajustará al valor original del bien aplicando el factor correspondiente, conforme al número de años transcurridos entre su adquisición y la fecha en que debe pagar el derecho de acuerdo con la tabla de ajuste contenida en el Artículo Quinto, fracción XI del Decreto que Reforma, Adiciona y Deroga Diversas Disposiciones de la Ley del Impuesto sobre la Renta.
+
+Tratándose de los valores de adquisición de los inmuebles señalados en el artículo 233 de la Ley Federal de Derechos, el ajuste a que se refiere el párrafo anterior se realizará a partir de la fecha en que se expidió la concesión o el permiso de uso del inmueble del dominio público.
+
+IV.- Para los efectos del artículo 83-B de la Ley Federal de Derechos, durante 1987 los usuarios de Distritos de Riego con superficie regable mayor de 50,000 hectáreas en los que la tenencia media de la tierra por usuarios sea mayor de 5 hectáreas, así como los usuarios de los Distritos de Riego con superficie regable menor de 50,000 hectáreas en las que la parcela media por usuario sea mayor de 6 hectáreas, deberán cubrir mediante el pago de cuotas por el servicio de riego y drenaje, el 100% de sus necesidades presupuestales para la realización de programas normales de operación y mantenimiento de sus obras de infraestructura.
+
+En el año de 1987, los Distritos de Riego con superficie regable mayor de 50,000 hectáreas con parcela media por usuario menor de 5 hectáreas y los que aun teniendo superficie regable menor, cuenten con parcela media por usuario de 3 a 6 hectáreas, deberán ser autosuficientes en el 80% de sus necesidades presupuestales para los programas normales de operación y mantenimiento de sus obras.
+
+Los Distritos de Riego en los que la parcela media por usuario sea menor de 3 hectáreas, durante el año de 1987 deberán ser autosuficientes en el 60% de sus necesidades presupuestales para los programas de operación y mantenimiento de sus obras.
+
+La Secretaría de Hacienda y Crédito Público en consulta con la Secretaría de Agricultura y Recursos Hidráulicos, publicará cuales son los Distritos de Riego que se encuentran comprendidos dentro de cada uno de los supuestos anteriores.
+
+Si en el año de 1987 la escasez de agua derivada de sequía o insuficiencia de los acuíferos subterráneos, las catástrofes sufridas por fenómenos hidrometeorológicos o por plagas, o cualquier otra causa de fuerza mayor, afectan el programa de un Distrito de Riego, impidiendo a los agricultores sembrar con cultivos de riego la totalidad de sus parcelas registradas en el padrón de usuarios, por lo menos una vez durante un ciclo agrícola completo, la autosuficiencia presupuestal para la operación, conservación y mantenimiento de sus obras, se reducirán en proporción igual a la disminución del programade (sic) riego. También se podrán reducir los porcentajes de autosuficiencia a que se refieren los párrafos anteriores, cuando la situación económica del Distrito de Riego no permita alcanzar dichos porcentajes, si así lo constatan las Secretarías de Hacienda y Crédito Público y de Agricultura y Recursos Hidráulicos, a petición del Comité Directivo del Distrito de Riego.
+
+V.- Las cuotas de los derechos a que se refieren las Secciones Primera y Segunda del Capítulo II, del Título I de la Ley Federal de Derechos, así como las cuotas de los derechos a que se refieren los Apartados C y D del artículo 151 de la citada Ley, se ajustarán a medios millares de pesos.
+
+Las cuotas de los derechos a que se refieren los artículos 213 y 214 de la Ley Federal de Derechos, se ajustarán a medias centenas de pesos cuando la cuota aplicable sea hasta de $ 1,000.00 y a centenas de pesos cuando la cuota aplicable exceda de esta cantidad, a partir de $ 10,000.00 se aplicará la tabla de ajuste a que se refiere el artículo 6o.
+
+Para efectuar los ajustes a que se refiere la fracción anterior, las cuotas se aumentarán o disminuirán, según sea el caso a la unidad de ajuste más próxima; cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste se disminuirá a la más baja.
+
+Esta regla no se aplicará a las cuotas que sean menores de $ 500.00, tratándose de lo dispuesto en el primer párrafo de esta fracción y de $ 50.00 por lo que se refiere al segundo párrafo, mismas que se ajustarán a estas cantidades, respectivamente.
+
+VI.- El derecho a que se refiere el artículo 173 de la Ley Federal de Derechos, sólo se pagará cuando se trate de aquéllos parques que cuenten con el control que permite el acceso exclusivamente a las personas que lo hayan pagado.
+
+VII.- Tratándose del derecho por el uso de aeropuertos en vuelos internacionales, se seguirán aplicando las mismas disposiciones que estuvieron vigentes durante 1986.
+
+VIII.- El pago del derecho de caza deportiva a que se refiere el artículo 238 de esta Ley, por la temporada de caza 1986-1987, se realizará conforme a las cuotas vigentes durante 1986. Asimismo, los contribuyentes residentes en México pagarán durante esa temporada el 50% de dichas cuotas, a excepción de las fracciones XVII y XIX del citado precepto, caso en el cual se aplicará el 10% de la cuota a que se refiere dicha fracción.
+
+IX.- Para la determinación del derecho de minería a que se refiere el artículo 263 de la Ley Federal de Derechos, las tasas se reducirán en 80% en el caso de los pequeños mineros; en 40% para los medianos mineros, y en 20% para los grandes mineros, de conformidad a lo señalado en el artículo 274 de la citada Ley.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1987.
