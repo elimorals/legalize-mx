@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-de-los-servidores-publicos-5503"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-08"
-last_updated: "1984-06-08"
+last_updated: "1992-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 8 de junio de 1984.
 
@@ -393,9 +393,15 @@ XIX.- Atender con diligencia las instrucciones, requerimientos o resoluciones qu
 
 XX.- Informar al superior jerárquico de todo acto, u omisión de los servidores públicos sujetos a su dirección que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo, y en los términos de las normas que al efecto se expidan;
 
-XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y
+XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y (sic)
 
-XXII.- Las demás que le impongan las leyes y reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 1992)</small>
+
+XXII.- Proporcionar en forma veraz y en los términos que el ordenamiento legal correspondiente establezca, toda la información solicitada por la Comisión de Derechos Humanos del Estado, a fin de que ésta pueda cumplir con las facultades y obligaciones que le correspondan por la Ley, y
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1992)</small>
+
+XXIII.- Las demás que le impongan las Leyes y Reglamentos.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Contraloría, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Contraloría, el subalterno deberá practicarla directamente informando a su superior acerca de este acto.
 
@@ -756,3 +762,9 @@ Por lo tanto mando se imprima, publique y circule para su debido cumplimiento, e
 Dado en el Palacio del Poder Ejecutivo, en la Ciudad de Pachuca de Soto, Estado de Hidalgo, a los cuatro días del mes de junio de mil novecientos ochenta y cuatro.
 
 El Gobernador Constitucional del Estado.- GUILLERMO ROSSELL DE LA LAMA.- El Secretario General de Gobierno.- EFRAIN ARISTA RUIZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE JULIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
