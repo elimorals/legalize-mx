@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1931-03-21"
+last_updated: "1931-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 1931.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 1931.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -91,9 +91,11 @@ De la Soberanía y del Poder Público del Estado.
 
 La Soberanía del Estado de Campeche reside esencialmente en el pueblo campechano, el cual la ejerce por medio del poder público del Estado, que emana directamente de él, y se instituye exclusivamente para su beneficio.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1931)</small>
+
 ###### Art. 16.
 
-El poder público del Estado se divide, para su ejercicio, en legislativo, ejecutivo y judicial, y jamás podrán reunirse los tres, ni dos de ellos, en una sola persona o corporación, salvo el caso de facultades extraordinarias concedidas al Ejecutivo, en caso de invasión, alteración del orden o peligro público. Tampoco podrá depositarse el Legislativo en menos de quince individuos.
+El Poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial, y jamás podrán reunirse los tres, ni dos de ellos, en una sola persona o corporación, salvo el caso de facultades extraordinarias concedidas al Ejecutivo en caso de invasión, alteración del orden o peligro público. Tampoco podrá depositarse el Legislativo en menos de siete ciudadanos.
 
 ###### Art. 17.
 
@@ -643,7 +645,11 @@ IV. Los Municipios serán investidos de personalidad jurídica, para todos los e
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1923)</small>
 
-V. La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión el primero de enero, durará en su encargo dos años y no podrá ser nuevamente electo sino dos años después de haber cesado en sus funciones.
+V. La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión el primero de enero, durará en su encargo dos años y no podrá ser nuevamente electo sino dos años después de haber cesado en sus funciones;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1931)</small>
+
+VI. Los componentes de los Ayuntamientos, Juntas y Comisarías Municipales, tomarán posesión igualmente el primero de enero, durarán dos años en sus respectivos encargos y no podrán ser nuevamente electos sino dos años después de haber cesado en sus funciones.
 
 ### CAPITULO XI.
 
@@ -972,3 +978,7 @@ P.O. 21 DE MARZO DE 1931.
 Artículo segundo: Las anteriores reformas surtirán sus efectos legales a partir de las próximas elecciones para Diputados al Congreso del Estado deberán efectuarse el siete de junio del año en curso.
 
 Artículo tercero: Publíquese por bando solemne en las cabeceras Municipales el día y hora que a bien tenga señalar el Ejecutivo del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 1931.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
