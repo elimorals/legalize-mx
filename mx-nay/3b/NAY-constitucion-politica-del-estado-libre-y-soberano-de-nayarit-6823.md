@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1980-06-21"
+last_updated: "1980-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -661,9 +661,9 @@ Para ser Gobernador se requiere:
 
 I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del Estado o con vecindad efectiva en él, no menor de cinco años inmediatamente anteriores al día de la elección.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 1975)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1980)</small>
 
-II. Tener 30 años de edad cumplidos el día de la elección y no más de 65.
+II. Tener 30 años cumplidos el día de la elección.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
@@ -1317,7 +1317,7 @@ DIPUTADO POR EL 14º DISTRITO ELECTORAL.
 
 Pablo Retes, Z., Vice-Presidente, Diputado por el Primer Distrito Electoral.- Marcos Esmerio, Diputado por el Segundo Distrito Electoral.- M.L. Urbina, Diputado por el Tercer Distrito Electoral.- Francisco Amézquita, Diputado por el Cuarto Distrito Electoral.- F. R. Pérez, Diputado por el Quinto Distrito Electoral.- Manuel Guzmán, Diputado Suplente por el Sexto Distrito Electoral.- Fidencio Estrada, Diputado por el Séptimo Distrito Electoral.- José María Ledón, Diputado por el Octavo Distrito Electoral.- J. Aguiar Béjar, Diputado Suplente por el Décimo Distrito Electoral.- Francisco N. Arroyo, Diputado por el Décimosegundo Distrito Electoral.- Antonio de P. Monroy, Diputado por el Décimotercero Distrito Electoral.- Mig. C. Madrigal, Diputado por el Décimoquinto Distrito Electoral.- F. R. Corona, Primer Secretario, Diputado por el Noveno Distrito Electoral.- Alfredo Robles, Segundo Secretario, Diputado por el Décimo Primero Distrito Electoral.
 
-Por lo tanto mando se imprima, publique por Bando Solemne, circule y sé le dé el más exacto cumplimiento.
+Por lo tanto mando se imprima, publique por Bando Solemne, circule y se le dé el más exacto cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo en Tepic, Nay., a los cinco días del mes de febrero de mil novecientos diez y ocho.
 
@@ -1598,3 +1598,7 @@ P.O. 21 DE JUNIO DE 1980.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Las Instituciones de Educación Superior, dotadas de autonomía, deberán presentar en el mes de abril su Informe anual, a que se refiere la Fracción XXVI del Artículo 47 de la Constitución Política del Estado.
+
+P.O. 25 DE JUNIO DE 1980
+
+UNICO.- Este Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
