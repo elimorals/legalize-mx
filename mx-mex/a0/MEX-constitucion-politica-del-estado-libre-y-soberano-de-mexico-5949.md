@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1943-10-02"
+last_updated: "1944-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE OCTUBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ENERO DE 1944.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -325,7 +325,9 @@ V. Los Jefes de la Guardia Nacional que estuvieren en servicio activo durante el
 
 Para los efectos de esta fracción y de la anterior, se entenderá por período electoral el transcurrido desde los trabajos preparatorios o promulgación de la convocatoria, en su caso, hasta el día de la elección;
 
-VI. El Gobernador, el Secretario General del Gobierno, el Oficial Mayor, los Magistrados del Tribunal Superior, los Procuradores de Justicia y de Hacienda y el Tesorero General del Estado, a menos de separarse de sus cargos respectivos, noventa días antes de la elección;
+> <small>(REFORMADA, G.G. 8 DE ENERO DE 1944)</small>
+
+VI. El Gobernador, el Secretario General de Gobierno, el Oficial Mayor, los Magistrados del Tribunal Superior, el Procurador de Justicia y el Director General de Hacienda del Estado, a menos de separarse de sus cargos respectivos, noventa días antes de la elección;
 
 VII. Los Presidentes Municipales y los Secretarios de Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por los distritos donde ejerzan su autoridad, así como los Administradores de Rentas y Tesoreros Municipales, por los distritos donde desempeñen sus funciones, con la misma excepción a que se refiere la fracción anterior.
 
@@ -725,9 +727,9 @@ III. Convocar a la Legislatura a sesiones extraordinarias por conducto de la Dip
 
 IV. Enviar cada vez que lo crea conveniente, al Secretario General de Gobierno para que concurra a las discusiones de la Legislatura, tomando parte en ellas con voz pero sin voto;
 
-> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADA, G.G. 8 DE ENERO DE 1944)</small>
 
-V. Nombrar y remover libremente al Secretario General de Gobierno, al Tesorero General, al Contador de la Tesorería, al Procurador General de Hacienda, al Procurador General de Justicia y a los demás empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes que de ella se deriven;
+V. Nombrar y remover libremente al Secretario General de Gobierno, al Oficial Mayor, al Director General de Hacienda, a los Jefes de los Departamentos de Ingresos y Egresos de la citada Dirección y a los demás empleados del Estado, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes que de ella se deriven.
 
 VI. Ejercitar todos los derechos que asigna a la Nación el artículo 27 de la Constitución Federal, siempre que por el texto mismo de ese artículo o por las disposiciones federales que de él se deriven no deban considerarse como reservados al Gobierno Federal o concedidos a los Cuerpos municipales, de acuerdo con el artículo 11 transitorio de dicha Constitución y ajustando sus procedimientos a las leyes que al efecto se dicten, tan pronto como sean expedidas;
 
@@ -799,9 +801,9 @@ XX. Fomentar la organización de instituciones de utilidad social para infundir 
 
 XXI. Asumir por medio de la Dirección de Educación Pública que establece el artículo 223 de esta Constitución, la dirección técnica de todos los establecimientos oficiales de Educación Pública en el Estado, los que funcionarán con arreglo a las leyes respectivas.
 
-> <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADA, G.G. 8 DE ENERO DE 1944)</small>
 
-XXII. Asumir, por el mismo conducto, la Dirección Administrativa de los Establecimientos de Enseñanza que deben ser sostenidos por los fondos generales del Estado.
+XXII. Asumir, por el mismo conducto, la Dirección Administrativa de los Establecimientos de Enseñanza que deben ser sostenidos por los fondos generales del Estado, con excepción del Instituto Científico y Literario, que funcionará de acuerdo con lo que disponga la Ley de Autonomía.
 
 XXIII. Asumir la representación política y civil del Municipio para los efectos de los artículos 12, 15 y 17 de esta Constitución;
 
@@ -923,11 +925,11 @@ V. Ser de una honradez y probidad notorias.
 
 No podrán reunirse en el Tribunal Superior de Justicia, dos o más Magistrados que sean parientes entre sí, en línea recta, o por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 104.
 
-Las faltas temporales por licencia, enfermedad, ausencia o impedimento de los Magistrados, se suplirán por los Jueces de Primera Instancia, en los términos que establece la Ley Orgánica respectiva; las faltas absolutas por fallecimiento o renuncia, serán cubiertas en la forma prevista por esta Constitución.
+Las faltas temporales por licencia, enfermedad, ausencia o impedimento de los Magistrados propietarios se suplirán por los supernumerarios y en defecto de éstos, por licencia, enfermedad, ausencia o impedimento, por los Jueces de Primera Instancia, en los términos que establezca la Ley Orgánica respectiva; las faltas absolutas por fallecimiento o renuncia serán cubiertas en la forma prevista por esta Constitución.
 
 ###### Art. 105.
 
@@ -1067,11 +1069,11 @@ Para ser Procurador General, se requieren los mismos requisitos que para ser Mag
 
 #### SECCION SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 101.
 
-El Tribunal Superior de Justicia se compondrá de seis magistrados propietarios que serán electos libremente por la Legislatura y durarán en su cargo cuatro años.
+El Tribunal Superior de Justicia se compondrá de seis Magistrados propietarios y dos supernumerarios, que serán electos en la forma que previenen los artículos 70 fracción XI, 73 fracción VII y 89 fracción XXVII de esta Constitución y durarán en su cargo cuatro años.
 
 ###### Art. 100.
 
@@ -1267,7 +1269,9 @@ Los Jueces Conciliadores se considerarán como auxiliares de los Jueces y Tribun
 
 Los Jueces Conciliadores aplicarán dentro de los Municipios a que pertenezcan y con la competencia que les señalen las leyes de organización de Tribunales, las leyes civiles y penales que para todo el territorio del Estado expida la Legislatura del mismo, ajustando todos sus actos a las leyes de procedimientos que expida también la expresada Legislatura.
 
-#### SECCION SEGUNDA. DE LA TESORERIA GENERAL
+#### SECCION SEGUNDA. DIRECCION GENERAL DE HACIENDA
+
+> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 163.
 
@@ -1353,29 +1357,45 @@ I. De los bienes que correspondan al Estado como persona civil;
 
 II. De las contribuciones de carácter general que decrete la Legislatura.
 
+> <small>(REFORMADA SU DENOMINACION, G.G. 8 DE ENERO DE 1944)</small>
+
 #### SECCION SEGUNDA. DE LAS TESORERIAS MUNICIPALES
 
 ###### Art. 178.
 
-La recaudación de las contribuciones del Estado estará a cargo de una oficina que se llamará Tesorería General y que residirá en el mismo lugar en que resida el Poder Ejecutivo.
+La defensa de la Hacienda Pública del Estado y de los Municipios; la recaudación de las contribuciones y el pago que demande el sostenimiento de los servicios públicos estará a cargo de una Oficina que se denominará "Dirección General de Hacienda en el Estado" y residirá en el mismo lugar que tenga asiento el Poder Ejecutivo.
+
+> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 179.
 
-La Tesorería General estará a cargo de un Tesorero dependiente del Poder Ejecutivo.
+La Dirección General de Hacienda en el Estado estará a cargo de un Director General de Hacienda, que será nombrado libremente por el Ejecutivo del Estado.
+
+> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 180.
 
-Para la recaudación de las contribuciones y para el pago de los gastos, el Tesorero General deberá sujetarse estrictamente a las leyes de presupuestos y demás relativas.
+La Dirección General de Hacienda para su funcionamiento se dividirá en dos Departamentos o sean de Ingresos y Egresos y los demás servicios que fueren necesarios para su mejor organización.
 
-> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 181.
 
-Entre los gastos a que se refiere el artículo anterior, se considerarán todos los relativos a la administración de justicia del Estado, inclusive la alimentación de los reos que estén a disposición de sus Tribunales, y los clasificados como "Gastos Generales del Distrito," que comprenden exclusivamente los servicios de cárcel y hospital de los mismos.
+El Director General de Hacienda asumirá la dirección técnica y administrativa de los Departamentos de Ingresos, Egresos y demás oficinas de su dependencia.
+
+> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 182.
 
-Todos los pagos que efectúe el Tesorero General se harán mediante orden escrita firmada por el Gobernador y por el Secretario General de Gobierno, en la que se deberá expresar la partida del Presupuesto a cargo de la cual se hace el pago, pues las asignaciones respectivas se aplicarán únicamente al objeto a que están destinadas.
+Son atribuciones del Director General de Hacienda:
+
+I.- Promover lo necesario para que los contribuyentes paguen sus respectivas contribuciones, con estricto arreglo a las leyes relativas.
+
+II.- Cuidar de que la administración de los bienes y rentas de la Hacienda Pública, se haga con estricto arreglo a las leyes que las impongan.
+
+III.- Representar a la Hacienda Pública en todos los juicios en que ella tenga interés. Cuando estén radicados fuera del Estado, nombrará el agente o agentes que estime necesarios.
+
+IV. Efectuará todos los pagos que demanden los servicios públicos de los tres Poderes del Estado, inclusive alimentación de reos o disposición de los Tribunales del Estado o sobre los que haya recaído sentencia, sujetándose en todos los casos estrictamente, a las Leyes de Egresos y demás disposiciones relativas.
 
 ## TITULO SEGUNDO. BASES DE LA ORGANIZACION DE LA HACIENDA PUBLICA
 
@@ -1443,7 +1463,7 @@ XV. En cualquier taller, establecimiento industrial, mercantil o agrícola, debe
 
 ## TITULO CUARTO. BASES DE LA LEGISLACION AGRARIA
 
-### CAPITULO QUINTO. DE LA PROCURADURIA GENERAL DE HACIENDA
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES SOBRE LA PROPIEDAD
 
 ###### Art. 197.
 
@@ -1463,7 +1483,7 @@ No podrán dictarse leyes, decretos ni disposiciones que obliguen a los heredero
 
 Se fija como término máximo para la prescripción de la propiedad raíz en el Estado, el de veinte años.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES SOBRE LA PROPIEDAD
+### CAPITULO SEGUNDO. DE LA EJECUCION DE LOS PARRAFOS III, X Y XI DEL ARTICULO 27 DE LA CONSTITUCION FEDERAL
 
 ###### Art. 201.
 
@@ -1505,13 +1525,17 @@ El Estado tendrá en todo tiempo derecho de rectificar los valores con que apare
 
 De acuerdo con lo dispuesto en el párrafo segundo y en la parte segunda de la fracción VI del párrafo séptimo del artículo 27 de la Constitución Federal, el Gobierno del Estado sólo podrá expropiar por causa de utilidad pública y mediante indemnización; con ese objeto la Ley Reglamentaria respectiva determinará los casos en que sea de utilidad pública la ocupación de la propiedad privada y de acuerdo con esa Ley la autoridad administrativa hará la declaración correspondiente. El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las oficinas recaudadoras, ya sea que este valor haya sido manifestado por el propietario, o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
 
+> <small>(ADICIONADO, G.G. 8 DE ENERO DE 1944)</small>
+
 ###### Art. 210.
 
-(DEROGADO, G.G. 20 DE DICIEMBRE DE 1941)
+En los casos del párrafo tercero del artículo 27 de la Constitución Federal, o del primer inciso del párrafo octavo del mismo artículo 27 y de acuerdo con lo dispuesto en el párrafo décimo del propio artículo, el Ejecutivo del Estado, hará la declaración motivada respectiva y la remitirá al Director General de Hacienda del Estado para que proceda a promover el respectivo juicio de expropiación, por medio del Agente que corresponda.
+
+> <small>(ADICIONADO, G.G. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 211.
 
-(DEROGADO, G.G. 20 DE DICIEMBRE DE 1941)
+El juicio a que se refiere el artículo anterior, se seguirá ante el Juez de Primera Instancia del Distrito judicial en que se encuentre la propiedad, materia de la expropiación, siendo parte en él, el Director General de Hacienda del Estado, por sí o por medio de sus Agentes, y el dueño de dicha propiedad.
 
 ###### Art. 212.
 
@@ -1533,7 +1557,9 @@ De acuerdo con lo dispuesto en el párrafo segundo y en la parte segunda de la f
 
 Las indemnizaciones por expropiación, cuando se trate de las restituciones o dotaciones de que habla el párrafo noveno del artículo 27 de la Constitución Federal, se pagarán con arreglo al Decreto general de seis de enero de mil novecientos quince; cuando se trate del fraccionamiento de los latifundios, las expropiaciones, se pagarán con arreglo al inciso d del párrafo undécimo del citado artículo 27 de la Constitución Federal; y cuando se trate de cualquiera otra expropiación, se pagarán con arreglo a las leyes que al efecto se expidan.
 
-### CAPITULO SEGUNDO. DE LA EJECUCION DE LOS PARRAFOS III, X Y XI DEL ARTICULO 27 DE LA CONSTITUCION FEDERAL
+### CAPITULO TERCERO
+
+DE LA INSTITUCION DEL NOTARIADO Y DEL REGISTRO PUBLICO.
 
 ###### Art. 217.
 
@@ -1559,9 +1585,9 @@ Las leyes que se expidan sobre Registro Público de la Propiedad, prescribirán 
 
 Los certificados que por veinte años expidan las oficinas de los Registros Públicos de la Propiedad, darán a los títulos notariales que abarquen ese tiempo, el carácter de firmes, de definitivos y de seguros contra los particulares y contra los Poderes Públicos, con arreglo a las leyes respectivas, salvo caso de falsedad.
 
-### CAPITULO TERCERO
+### CAPITULO CUARTO
 
-DE LA INSTITUCION DEL NOTARIADO Y DEL REGISTRO PUBLICO.
+DISPOSICIONES FUNDAMENTALES DEL ENJUICIAMIENTO CIVIL DEL ESTADO.
 
 ###### Art. 221.
 
@@ -1569,9 +1595,9 @@ DE LA INSTITUCION DEL NOTARIADO Y DEL REGISTRO PUBLICO.
 
 ## TITULO QUINTO. DE LA LEGISLACION DE EDUCACION PUBLICA
 
-### CAPITULO CUARTO
+### CAPITULO PRIMERO. DE LA EDUCACION PUBLICA EN GENERAL
 
-DISPOSICIONES FUNDAMENTALES DEL ENJUICIAMIENTO CIVIL DEL ESTADO.
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
 
 ###### Art. 222.
 
@@ -1611,9 +1637,7 @@ La enseñanza primaria a que se refiere el artículo 225, es obligatoria para to
 
 La enseñanza Normal será protegida preferentemente por el Estado, como un medio de cumplir con la obligación ineludible que tienen tanto él como el Municipio, de impartir y difundir la enseñanza primaria obligatoria. Se establecerán escuelas "Prácticas Normales" a cargo de los Ayuntamientos. Una ley determinará la organización de dichas escuelas.
 
-### CAPITULO PRIMERO. DE LA EDUCACION PUBLICA EN GENERAL
-
-> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 1921)</small>
+### CAPITULO SEGUNDO. DE LAS ESCUELAS ESPECIALES PARA LOS INDIGENAS
 
 ###### Art. 230.
 
@@ -1629,7 +1653,9 @@ Las escuelas especiales de indígenas serán establecidas y sostenidas por el Es
 
 # LIBRO QUINTO. DE LA PERMANENCIA DE LA CONSTITUCION
 
-### CAPITULO SEGUNDO. DE LAS ESCUELAS ESPECIALES PARA LOS INDIGENAS
+### CAPITULO PRIMERO. DE LAS REFORMAS DE LA CONSTITUCION
+
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 1939)</small>
 
 ###### Art. 233.
 
@@ -1640,10 +1666,6 @@ La presente Constitución puede ser adicionada y reformada. Para que las adicion
 En las discusiones relativas a las reformas o adiciones a la Constitución, se guardarán las reglas prescritas para la formación de las leyes, excepción hecha de la relativa a observaciones por parte del Ejecutivo que en este caso no podrá hacer dicho Poder.
 
 ### CAPITULO SEGUNDO. DE LA INVIOLABILIDAD DE LA CONSTITUCION
-
-### CAPITULO PRIMERO. DE LAS REFORMAS DE LA CONSTITUCION
-
-> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 1939)</small>
 
 ###### Art. 235.
 
@@ -1771,23 +1793,23 @@ Las cuentas de un Ayuntamiento serán glosadas preventivamente por el que lo sub
 
 Para la revisión de las cuentas de la inversión de los caudales públicos del Estado y Municipales, habrá en la residencia de la Legislatura del Estado y dependiente de ésta, una oficina que se llamará Contaduría General de Glosa, la que tendrá las atribuciones que determinen las leyes.
 
+> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
+
 ###### Art. 192.
 
-Para la defensa de los intereses de la Hacienda pública del Estado y de los Municipios, se establece la Procuraduría General de Hacienda, a cargo de un Procurador.
+Todos los pagos que efectúe el Director General de Hacienda se harán mediante orden escrita formada por el Gobernador y por el Secretario General de Gobierno, en la que se deberá expresar la partida del Presupuesto a cargo de la cual se hace el pago, pues las asignaciones respectivas se aplicarán únicamente al objeto a que están destinadas.
+
+> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 193.
 
-El Procurador de Hacienda será nombrado libremente por el Ejecutivo.
+El Director General de Hacienda será responsable de que las participaciones que la Federación otorgue al Estado, sean concentradas con toda oportunidad en la Caja de la Dirección General a su cargo.
+
+> <small>(REFORMADO, G.G. 8 DE ENERO DE 1944)</small>
 
 ###### Art. 194.
 
-Serán atribuciones del Procurador:
-
-I. Promover lo necesario para que los contribuyentes paguen sus respectivas contribuciones, con estricto arreglo a las leyes que las impongan;
-
-II. Cuidar de que la administración de los bienes y rentas de la Hacienda pública, se haga con estricto arreglo a las leyes relativas;
-
-III. Representar a la Hacienda pública en todos los juicios en que ella tenga interés. Cuando estén radicados fuera del Estado nombrará el agente o agentes que estime necesarios.
+El Director General de Hacienda no producirá resolución alguna, sin previo acuerdo superior.
 
 ###### Art. 1.
 
@@ -1854,3 +1876,35 @@ G.G. 2 DE OCTUBRE DE 1943.
 DECRETO NUMERO 2, POR EL QUE SE DEROGA LA FRACCION X DEL ARTICULO 109, SE ABROGA EL ARTICULO PRIMERO DEL DECRETO NUMERO 59 DE 18 DE OCTUBRE DE 1941, EN LA PARTE QUE DEROGO LA FRACCION XVI AL ARTICULO 70 Y LA VII DEL ARTICULO 73 DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL VIGENTE.
+
+G.G. 8 DE ENERO DE 1944.
+
+DECRETO NUMERO 30, POR EL QUE SE REFORMA LA FRACCION XXII DEL ARTICULO 89 DE LA CONSTITUCION POLITICA LOCAL.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 8 DE ENERO DE 1944.
+
+DECRETO NUMERO 31, POR EL QUE SE REFORMAN LOS ARTICULOS 40 FRACCION VI, 88 FRACCION V REFORMADA, 178 AL 182, 192 AL 194 Y 210 Y 211 Y SE SUPRIME EL RUBRO DE LA SECCION SEGUNDA CAPITULO SEGUNDO, TITULO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+###### Art. 1o.
+
+Las reformas de los artículos anteriores entrarán en vigor el día primero de enero de mil novecientos cuarenta y cuatro.
+
+###### Art. 2o.
+
+Se derogan todas las Leyes y disposiciones que se opongan a las reformas de los artículos a que se refiere el presente Decreto.
+
+###### Art. 3o.
+
+Se faculta al Ejecutivo del Estado para organizar y reglamentar el funcionamiento de la Dirección General de Hacienda.
+
+G.G. 8 DE ENERO DE 1944.
+
+DECRETO NUMERO 32, POR EL QUE SE REFORMAN LOS ARTICULOS 101 Y 104, ACTUALMENTE VIGENTES DE LA CONSTITUCION PARTICULAR DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor en la fecha de su publicación en la "Gaceta del Gobierno".
