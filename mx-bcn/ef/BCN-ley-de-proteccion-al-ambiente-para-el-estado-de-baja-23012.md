@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2001-11-30"
+last_updated: "2002-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2002.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -2175,9 +2175,11 @@ Hasta en tanto se expidan las disposiciones reglamentarias de esta ley, seguirá
 
 Los procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California, se tramitarán y resolverán conforme a las disposiciones de dicha Ley que se abroga.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2002)</small>
+
 ###### ARTÍCULO QUINTO
 
-Los municipios deberán adecuar sus reglamentos, ordenanzas, bandos de policía y gobierno, y demás disposiciones derivadas de la presente Ley, debiéndolos expedir en los doscientos diez días hábiles siguientes a la entrada en vigor de este ordenamiento.
+Los municipios deberán adecuar sus reglamentos, ordenanzas, bandos de policía y gobierno, y demás disposiciones derivadas de la presente Ley, debiéndolos expedir dentro de los trescientos sesenta y cinco días naturales siguientes a la entrada en vigor de este ordenamiento.
 
 En el caso de los municipios que no cuenten con disposiciones reglamentarias a que se refiere el párrafo anterior ni con la unidad de gestión ambiental a través de la cual presten los servicios administrativos y técnicos ambientales, la Secretaría aplicará temporalmente las disposiciones que en la materia les correspondan.
 
@@ -2228,3 +2230,9 @@ EUGENIO ELORDUY WALTHER
 EL SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO BORBON VILCHES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE JULIO DE 2002.
+
+UNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
