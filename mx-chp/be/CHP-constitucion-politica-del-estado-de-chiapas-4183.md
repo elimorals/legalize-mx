@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1972-08-23"
+last_updated: "1972-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1972.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -389,13 +389,13 @@ El Poder Legislativo será ejercido por un Congreso de Diputados electos popular
 
 Los Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1961)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1972)</small>
 
 ###### ARTICULO 13.
 
-Para la elección de Diputados, el Estado se dividirá en tantos Distritos Electorales cuantos demande el censo de su población, designándose uno por cada ciento cuarenta mil habitantes o fracción que exceda de setenta mil, sin que su número sea menor de nueve.
+Para la elección de Diputados, el Estado se dividirá en tantos Distritos Electorales cuantos demande el censo de su población, designándose uno por cada doscientos mil habitantes o fracción que exceda de sesenta mil.
 
-Cada Distrito Electoral elegirá un Diputado Propietario y un Suplente.
+Cada Distrito Electoral eligirá (sic) un Diputado Propietario y un Suplente.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
 
@@ -1552,3 +1552,9 @@ Este Decreto entrará en vigor a partir de la fecha de su publicación en el Per
 P.O. 23 DE AGOSTO DE 1972.
 
 UNICO.- Este decreto comenzará a regir desde la fecha de su publicasión (sic) en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1972.
+
+Artículo 1/o.- Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente decreto.
+
+Artículo 2/o.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
