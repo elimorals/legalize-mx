@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-coordinacion-fiscal-del-estado-de-sinaloa-6461"
 country: "mx"
 rank: "ley"
 publication_date: "1990-01-15"
-last_updated: "1991-03-15"
+last_updated: "1996-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1996.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 15 de enero de 1990.
 
@@ -61,9 +61,11 @@ V.- Constituir los organismos en materia de coordinación fiscal.
 
 En cumplimiento a lo dispuesto por los Artículos 2o., 2o.-A y 6o. de la Ley de Coordinación Fiscal Federal en vigor, la Legislatura del Estado, mediante las presentes disposiciones, establece los plazos, montos y bases aplicables para la distribución de las participaciones federales que corresponde a los Municipios en el Fondo Municipal de Participaciones.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1996)</small>
+
 ###### ARTICULO 3.
 
-El Fondo Municipal de Participaciones se integrará con el 20% de los recursos que perciba el Estado procedentes del Fondo General de Participaciones y de la Recaudación del Impuesto sobre Tenencia o Uso de Vehículos y por el 100% del Fondo de Fomento Municipal, en los términos de la Ley de Coordinación Fiscal Federal.
+El fondo municipal de participaciones se integrará con el 20% de los recursos que perciba el Estado procedentes del Fondo General de Participaciones, de la participación de la recaudación del Impuesto Especial sobre Producción y Servicios en Bebidas Alcohólicas y Tabacos Labrados así como de la recaudación del Impuesto Sobre Tenencia o uso de Vehículos y por el 100% del Fondo de Fomento Municipal en los términos de la Ley de Coordinación Fiscal Federal.
 
 ###### ARTICULO 4.
 
@@ -179,7 +181,7 @@ La Comisión permanente de Tesoreros Municipales y Funcionarios Fiscales se cons
 
 I.- Proponer las medidas, programas y acciones que estime convenientes para mejorar y/o actualizar en su caso, el sistema de coordinación fiscal en el Estado de Sinaloa.
 
-II.- Analizar y emitir un dictámen sobre la distribución y liquidación de los pagos provisionales y de diferencias, con cargo al Fondo Municipal de Participaciones.
+II.- Analizar y emitir un dictamen sobre la distribución y liquidación de los pagos provisionales y de diferencias, con cargo al Fondo Municipal de Participaciones.
 
 III.- Efectuar en forma permanente estudios sobre Legislación Fiscal, así como estudiar los reglamentos del funcionamiento de la propia comisión y de la Comisión Coordinadora de Capacitación y Asesoría Fiscal.
 
@@ -278,5 +280,13 @@ Lic. Juan Burgos Pinto
 P.O. 15 DE MARZO DE 1991.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE AGOSTO DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
