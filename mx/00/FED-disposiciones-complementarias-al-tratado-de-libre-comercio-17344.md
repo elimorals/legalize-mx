@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-al-tratado-de-libre-comercio-1734
 country: "mx"
 rank: "otro"
 publication_date: "1994-12-30"
-last_updated: "1994-12-30"
+last_updated: "1996-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17344&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,36 +19,32 @@ issue_date: "1994-12-27"
 ---
 # DISPOSICIONES COMPLEMENTARIAS AL TRATADO DE LIBRE COMERCIO (REPUBLICA DE BOLIVIA,1994)
 
-RESOLUCION POR LA QUE SE DAN A CONOCER LOS FORMATOS DE CERTIFICADO DE ORIGEN Y DECLARACION DE ORIGEN PARA LOS EFECTOS DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA DE BOLIVIA
+RESOLUCION QUE MODIFICA A LA DIVERSA, POR LA QUE SE DAN A CONOCER LOS FORMATOS DE CERTIFICADO DE ORIGEN Y DECLARACION DE ORIGEN PARA LOS EFECTOS DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA DE BOLIVIA
 
-Resolución publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de diciembre de 1994.
+Resolución publicada en el Diario Oficial de la Federación, el viernes 10 de mayo de 1996.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
 
-Con fundamento en los artículos 16 y 31 de la Ley Orgánica de la Administración Pública Federal, artículo 6-02 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Bolivia, 1o., y 116 fracción XXV de la Aduanera, y
+RESOLUCION QUE MODIFICA A LA DIVERSA, POR LA QUE SE DAN A CONOCER LOS FORMATOS DE CERTIFICADO DE ORIGEN Y DECLARACION DE ORIGEN PARA LOS EFECTOS DEL TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA DE BOLIVIA.
+
+Con fundamento en los artículos 16 y 31 de la Ley Orgánica de la Administración Pública Federal, 6-02, 6-11 y 18-01 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Bolivia, 1o., y 144 fracción XXIII y XXV de la Ley Aduanera, y
 
 CONSIDERANDO
 
-Que con fecha 10 de septiembre de 1994 se firmó el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Bolivia, mismo que se aprobó por el Senado de la República con fecha 16 de diciembre de 1994 y que entrará en vigor el 1o. de enero de 1995.
+Que de conformidad con lo dispuesto en los artículos 6-11 y 18-01 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Bolivia, las Partes acordaron modificar el instructivo para el llenado del certificado de origen.
 
-Que el artículo 6-02 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Bolivia, así como el anexo a dicho artículo prevén el establecimiento de un formato común para el certificado de origen y declaración de origen, por lo que
+Que resulta conveniente dar a conocer los cambios efectuados al instructivo para el llenado del certificado de origen.
 
 Esta Secretaría resuelve:
 
-UNICO.- Se dan a conocer los formatos de certificado de origen y declaración de origen, para los efectos de lo dispuesto en el artículo 6-02 del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Bolivia.
+UNICO. Se modifica el campo número 5 del instructivo para el llenado del certificado de origen, contenido en la Resolución por la que se dan a conocer los formatos de certificado de origen y declaración de origen para los efectos del Tratado de Libre Comercio entre los Estados Unidos Mexicanos y la República de Bolivia, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1994, para quedar como sigue:
+
+“Campo No. 5: Proporcione una descripción completa de cada bien. La descripción deberá ser suficiente para relacionarla con la descripción contenida en la factura, así como la descripción que corresponda al bien en el Sistema Armonizado. En caso de que el certificado ampare una sola importación, deberá indicarse la cantidad y unidad de medida de cada bien, incluyendo el número de serie, cuando éste exista, así como el número de factura, tal como aparece en la factura comercial. En caso de desconocerse, deberá indicarse otro número de referencia único, como el número de orden de embarque. Cuando el bien descrito haya sido objeto de un dictamen anticipado, indique el número de referencia y fecha de emisión del dictamen anticipado.”
 
 ## TRANSITORIO
 
-UNICO.- La presente Resolución entrará en vigor el 1o. de enero de 1995.
-
-Atentamente.
+UNICO.- La presente Resolución entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Sufragio Efectivo. No Reelección.
 
-México, D.F., a 27 de diciembre de 1994. En ausencia del C. Secretario de Hacienda y Crédito Público y del C. Subsecretario del Ramo, con apoyo en lo dispuesto en el artículo 124 del Reglamento Interior de esta Secretaría.- El Subsecretario de Ingresos, Pedro Noyola de Garagorri.- Rúbrica.
-
-TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y LA REPUBLICA DE BOLIVIA
-
-CERTIFICADO DE ORIGEN
-
-(VEASE ARCHIVO ANEXO)
+México, D.F., a 3 de mayo de 1996.- En ausencia del C. Secretario de Hacienda y Crédito Público y del C. Subsecretario del Ramo, con apoyo en lo dispuesto en el artículo 124 del Reglamento Interior de esta Secretaría, el Subsecretario de Ingresos, Tomás Ruiz.- Rúbrica.
