@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1995-11-18"
+last_updated: "1996-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1996.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -7255,7 +7255,7 @@ La Junta Local de Caminos se integrará y funcionará con arreglo a las disposic
 
 ###### ARTICULO 1281.
 
-Corresponde al Estado la reglamentación, control y vigilancia de la instalación de anuncios u obras con fines de publicidad en las siguientes circunscripciones:
+Corresponde al Estado la reglamentación control y vigilancia de la instalación de anuncios u obras con fines de publicidad en las siguientes circunscripciones:
 
 a).- En el derecho de vía de los caminos del Estado de Chihuahua:
 
@@ -9131,21 +9131,21 @@ II.- Enajenar bienes inmuebles; y
 
 III.- Celebrar contratos de obra, servicios profesionales y saneamiento.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
+(REFORMADO, P.O. 27 DE JULIO DE 1996) (F. DE E., P.O. 17 DE AGOSTO DE 1996)
 
 ###### ARTICULO 1563.
 
-Las Juntas Municipales tienen un Consejo Directivo integrado por un Presidente, un Secretario, un Tesorero y cinco Vocales, que serán designados:
+Las Juntas Municipales tienen un consejo directivo integrado por un presidente, un secretario, un tesorero y cinco vocales, que serán designados:
 
-I.- El Presidente por el Gobernador del Estado, en terna propuesta por el Ayuntamiento;
+I.- El presidente por el gobernador del Estado, en un plazo no mayor de quince días naturales a partir de la recepción de la terna propuesta por el ayuntamiento, y de no recibirse respuesta en tiempo, el ayuntamiento queda facultado para hacer la designación;
 
-II.- El Secretario por el Ayuntamiento;
+II.- El secretario por el ayuntamiento;
 
-III.- El Tesorero por la Junta Central; y
+III.- El tesorero por el ayuntamiento en un plazo no mayor de quince días a partir de la terna propuesta por la Junta Central, y de no recibirse una respuesta en tiempo, la Junta Central queda facultada para hacer la designación;
 
-IV.- Un Vocal por cada una de las siguientes entidades:
+IV.- Un vocal por cada una de las siguientes entidades:
 
-a).- Programa de Desarrollo Urbano del Estado.
+a).- Programa de Desarrollo Urbano del Estado;
 
 b).- Servicios Coordinados de Salud Pública;
 
@@ -9153,9 +9153,11 @@ c).- Cámara de Propietarios de Bienes Raíces;
 
 d).- Cámara de Comercio; y
 
-e).- Cámara de la Industria de Transformación.
+e).- Cámara de la Industria de la Transformación.
 
-Los cargos serán honorarios con excepción del Presidente y el Tesorero, quienes serán funcionarios de tiempo completo.
+Los cargos serán honorarios con excepción del presidente y el tesorero, quienes serán funcionarios de tiempo completo.
+
+En aquellos municipios en donde no se cuente con alguna de las Cámaras mencionadas en incisos anteriores, se considerarán en su lugar representantes de las organizaciones de productores, profesionistas o de servicio social con mayor membresía en el Municipio.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1982)</small>
 
@@ -10828,3 +10830,13 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 Artículo Primero.- La vigencia de la presente Ley iniciará a partir del primero de enero de mil novecientos noventa y seis.
 
 Artículo Segundo.- Se deroga el capítulo de los Asentamientos Humanos del Código Administrativo del Estado, y todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 27 DE JULIO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado
+
+###### ARTICULO SEGUNDO.
+
+En las Juntas Municipales de Agua y Saneamiento, cuyo Consejo Directivo haya cumplido el encargo a la fecha de entrada en vigor del presente Decreto, por el término establecido por el Artículo 1569 del Código Administrativo del Estado, el Consejo se renovará en los términos de este Decreto, contando las autoridades correspondientes para hacer las propuestas, con treinta días naturales a partir de su entrada en vigor.
