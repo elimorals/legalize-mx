@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2004-01-29"
+last_updated: "2004-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE FEBRERO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -76,7 +76,9 @@ Esta ley se aplicará en el territorio del Distrito Federal en los siguientes ca
 
 I. En la prevención y control de la contaminación atmosférica proveniente de fuentes fijas o móviles que de conformidad con la misma estén sujetas a la jurisdicción local;
 
-II. En la prevención y control de la contaminación de las aguas localizadas en el Distrito Federal, que de conformidad con el párrafo quinto del artículo 27 constitucional no son consideradas aguas nacionales, así como tratándose de aguas nacionales que hayan sido asignadas al Distrito Federal;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+II. En la prevención y control de la contaminación de las aguas de competencia local conforme a la ley federal en la materia;
 
 III. En la conservación y control de la contaminación del suelo;
 
@@ -138,11 +140,11 @@ VIII. La elaboración y aplicación de planes y programas que contengan polític
 
 En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en otras leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados con las materias que regula este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 5º.
 
-Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas Nacionales y la Ley Forestal, así como las siguientes:
+Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas nacionales, la Ley General de Desarrollo Forestal Sustentable, la Ley de Residuos Sólidos del Distrito Federal y la Ley de Aguas del Distrito Federal, así como las siguientes:
 
 ACTIVIDAD RIESGOSA: toda acción u omisión que ponga en peligro la integridad de las personas o del ambiente, en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen, de conformidad con las normas oficiales mexicanas, los criterios o listados en materia ambiental que publiquen las autoridades competentes en el Diario Oficial de la Federación y la Gaceta Oficial del Distrito Federal;
 
@@ -283,6 +285,10 @@ RESTAURACIÓN DEL EQUILIBRIO ECOLÓGICO: Conjunto de actividades tendientes a la
 RIESGO AMBIENTAL: Peligro al que se expone el ecosistema como consecuencia de la realización de actividades riesgosas;
 
 SECRETARÍA: Secretaría del Medio Ambiente del Gobierno del Distrito Federal;
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+SERVICIOS AMBIENTALES: Aquellos derivados de los ecosistemas o sus elementos, cuyos valores o beneficios son económicos, ecológicos o socioculturales y que inciden directamente en la protección y mejoramiento del medio ambiente, propiciando una mejor calidad de vida de los habitantes y que justifican la necesidad de desarrollar acciones para promover la preservación, recuperación y uso racional de aquellos elementos relevantes para la generación de estos servicios en beneficio de las generaciones presentes y futuras;
 
 > <small>(REFORMADO Y REUBICADO, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -432,7 +438,9 @@ XXVII. Ejercer todas aquellas acciones tendientes a la conservación y restaurac
 
 XXVIII. Hacer efectivas las obligaciones derivadas de la Ley General, esta Ley, y disposiciones que de éstas emanen, en el ámbito de su competencia; y en su caso, hacer uso de las medidas de seguridad;
 
-XXIX. Ordenar la realización de visitas de inspección para verificar el cumplimiento de los preceptos de esta Ley, su reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, declaratorias de áreas naturales protegidas, programas de manejo, las condicionantes que en materia ambiental se impongan, así como todas las disposiciones legales aplicables al suelo de conservación;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+XXIX. Ordenar la realización de visitas de inspección para verificar el cumplimiento de los preceptos de esta ley, su reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, declaratorias de áreas naturales protegidas, programas de manejo, las condicionantes que en materia de impacto y riesgo ambiental se impongan, así como todas las disposiciones legales aplicables al suelo de conservación;
 
 XXX. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondientes por infracciones a la Ley General, en materias de competencia local, esta Ley y sus reglamentos;
 
@@ -454,7 +462,15 @@ XXXVI. Interpretar y aplicar para efectos administrativos las disposiciones de e
 
 XXXVII. Elaborar, publicar y aplicar, en el ámbito de las atribuciones del Distrito Federal y con la participación que corresponda a las demás autoridades competentes, los programas y medidas para prevenir, controlar y minimizar las contingencias ambientales o emergencias ecológicas;
 
-XXXVIII. Establecer y actualizar el registro de emisiones contaminantes, así como el registro obligatorio de las fuentes fijas de la competencia del Distrito Federal y el registro de descargas de aguas residuales que se viertan en los sistemas de drenaje y alcantarillado o a cuerpos receptores de la competencia del Distrito Federal;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+XXXVIII. Establecer y actualizar el registro de emisiones y transferencia de contaminantes, así como el registro de las fuentes fijas de la competencia del Distrito Federal y el registro de descargas de aguas residuales que se viertan en los sistemas de drenaje y alcantarillado o a cuerpos receptores de la competencia del Distrito Federal.
+
+La Secretaría debe integrar el registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales, y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente, cuya información se integrará con los datos e información contenida en las autorizaciones, cédulas, informes, reportes, licencias, permisos, y concesiones en materia ambiental que se tramiten ante la Secretaría o autoridades competentes del Distrito Federal y sus demarcaciones territoriales.
+
+Las personas físicas y morales responsables de fuentes contaminantes, están obligadas a proporcionar la información, datos y documentos necesarios para la integración del registro, mismo que será integrado con datos desagregados por sustancia y fuente, anexa nombre y dirección de los establecimientos sujetos a registro.
+
+La información registrada será pública y tendrá efectos declarativos. La Secretaría permitirá el acceso a dicha información en los términos de esta Ley y demás disposiciones jurídicas aplicables y la difundirá de manera preactiva.
 
 XXXIX Establecer y operar de manera directa, o indirectamente a través de autorización, el sistema de monitoreo de la contaminación ambiental, así como los sistemas de verificación de fuentes de competencia local, y determinar las tarifas máximas aplicables por concepto de dichas verificaciones;
 
@@ -470,9 +486,15 @@ XLIV. Promover el establecimiento y la aplicación de programas de educación am
 
 XLV. Regular y determinar la restauración ambiental de las áreas que hayan sido objeto de explotación de minerales u otros depósitos del subsuelo;
 
-XLVI. Verificar el cumplimiento de las Normas Oficiales Mexicanas y de las normas ambientales para el Distrito Federal; y
+XLVI. Verificar el cumplimiento de las Normas Oficiales Mexicanas y de las normas ambientales para el Distrito Federal; y (sic)
 
-XLVII. Las demás que le confieren esta y otras Leyes, así como las que se deriven de los instrumentos de coordinación celebrados y que se celebren.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+XLVII. Crear y regular el Sistema de Certificación y Acreditación Ambiental, que tendrá por objeto determinar la conformidad sobre el cumplimiento de la normatividad ambiental, así como los esfuerzos adicionales de las personas a favor del medio ambiente;
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+XLVIII. Las demás que le confieren esta y otras leyes, así como las que se deriven de los instrumentos de coordinación celebrados y que se celebren.
 
 ###### ARTÍCULO 10.
 
@@ -490,9 +512,17 @@ III. Promover la participación de la ciudadanía en materia ambiental;
 
 IV. Implementar acciones de conservación y restauración del equilibrio ecológico, así como la protección al ambiente desde las delegaciones;
 
-V. Difundir los programas y estrategias relacionadas con el equilibrio ecológico y la protección al ambiente; y
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-VI. Coadyuvar con la Secretaría en la verificación del cumplimiento de las disposiciones en materia ambiental.
+V. Difundir los programas y estrategias relacionadas con el equilibrio ecológico, la protección al ambiente y la contingencia o emergencia ambiental;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VI. Ordenar la realización de visitas de inspección para vigilar el cumplimiento de los preceptos de esta Ley, su Reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, así como todas las disposiciones legales aplicables al Suelo de Conservación existente dentro de su demarcación territorial, en términos de los lineamientos y acreditaciones que emita la Secretaría; y
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VII. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondientes por infracciones a esta Ley y sus reglamentos.
 
 ###### ARTÍCULO 11.
 
@@ -634,7 +664,9 @@ VII. Coordinarán y promoverán acciones e inversiones con los sectores sociales
 
 Las personas, en los términos de la presente Ley, están obligadas a:
 
-I. Prevenir y evitar daños al ambiente;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+I. Prevenir y evitar daños al ambiente y, en su caso, reparar los daños que hubieran causado;
 
 II. Minimizar los daños al ambiente que no puedan prevenir o evitar, en cuyo caso estarán obligadas a reparar los daños causados;
 
@@ -772,19 +804,33 @@ La Secretaría, en el ámbito de su competencia emitirá normas ambientales las 
 
 I. Los requisitos o especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de una actividad humana que pudiera afectar la salud, la conservación del medio ambiente, la protección ecológica o provocar daños al ambiente y los recursos naturales;
 
-II. Los requisitos, condiciones o limites permisibles en la operación, recolección, transporte, almacenamiento, reciclaje, tratamiento, industrialización o disposición final de residuos sólidos e industriales no peligrosos;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+II. Los requisitos, condiciones o límites permisibles en la operación, recolección, transporte, almacenamiento, reciclaje, tratamiento, industrialización o disposición final de residuos sólidos;
 
 III. Los requisitos, condiciones, parámetros y límites permisibles para el tratamiento y aprovechamiento de aguas residuales provenientes de actividades domésticas, industriales, comerciales, agrícolas, acuícolas, pecuarias o de cualquier otra actividad humana y que, por el uso recibido, se les hayan incorporado contaminantes;
 
-IV Las condiciones de seguridad, requisitos y limitaciones en el manejo de residuos sólidos o industriales no peligrosos que presenten riesgo para el ser humano, para el equilibrio ecológico o para el ambiente;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-V. Los requisitos, condiciones, parámetros y limites permisibles para la protección, el manejo, el aprovechamiento y la restauración de los recursos naturales en suelo de conservación; y
+IV. Las condiciones de seguridad, requisitos y limitaciones en el manejo de residuos sólidos que presenten riesgo para el ser humano, para el equilibrio ecológico o para el ambiente;
 
-VI. Los requisitos, condiciones, parámetros y limites permisibles para la protección, el manejo, el aprovechamiento y la restauración de los recursos naturales en las Áreas Naturales Protegidas de competencia del Distrito Federal.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+V. Los requisitos, condiciones, parámetros y límites permisibles para la protección, el manejo, el aprovechamiento y la restauración de los recursos naturales en suelo de conservación;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VI. Los requisitos, condiciones, parámetros y límites permisibles para la protección, el manejo, el aprovechamiento y la restauración de los recursos naturales en las Áreas Naturales Protegidas de competencia del Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VII. Los requisitos y condiciones para la incorporación voluntaria de personas físicas y morales a los programas de prácticas de producción sustentable, así como los procesos para su certificación.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 37.
 
-Las normas ambientales para el Distrito Federal podrán determinar requisitos, condiciones, parámetros y límites más restrictos que los previstos en las Normas Oficiales Mexicanas y deberán referirse a materias que sean de competencia local.
+Las normas ambientales para el Distrito Federal podrán determinar requisitos, condiciones, parámetros y límites más estrictos que los previstos en las Normas Oficiales Mexicanas y deberán referirse a materias que sean de competencia local.
 
 ###### ARTÍCULO 38.
 
@@ -798,17 +844,11 @@ La sociedad, las instituciones de investigación y educación superior, las orga
 
 Una vez publicada una norma ambiental para el Distrito Federal en la Gaceta Oficial, será obligatoria. Las normas ambientales para el Distrito Federal señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 41.
 
-La elaboración, aprobación y expedición de las normas ambientales para el Distrito Federal, así como sus modificaciones, se sujetarán al siguiente procedimiento:
-
-I. La Secretaría publicará el proyecto de norma o de su modificación en la Gaceta Oficial, a efecto de que dentro del plazo correspondiente, los interesados presenten sus comentarios;
-
-II. Al término del plazo a que se refiere la fracción anterior, la Secretaría estudiará los comentarios recibidos y, en su caso, procederá a modificar el proyecto;
-
-III. Se ordenará la publicación en la Gaceta Oficial de las respuestas a los comentarios recibidos así como de las modificaciones al proyecto, cuando menos 15 días naturales antes de la publicación de la norma ambiental para el Distrito Federal; y
-
-IV. Transcurridos los plazos anteriores, la Secretaría publicará las normas ambientales para el Distrito Federal o sus modificaciones en la Gaceta Oficial.
+Una vez publicada una norma ambiental para el Distrito Federal en la Gaceta Oficial, será obligatoria. Las normas ambientales para el Distrito Federal señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
 
 ###### ARTÍCULO 42.
 
@@ -826,13 +866,17 @@ III. Desarrollo tecnológico y de ecotecnias; y
 
 IV. Procesos productivos y de consumo.
 
-### CAPÍTULO VI. EVALUACIÓN DEL IMPACTO AMBIENTAL
+> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE FEBRERO DE 2004)</small>
+
+### CAPÍTULO VI. EVALUACIÓN DE IMPACTO AMBIENTAL
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 44.
 
-La evaluación del impacto ambiental es el procedimiento a través del cual la autoridad evalúa los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de programas, obras y actividades de desarrollo dentro del territorio del Distrito Federal, a fin de evitar o reducir al mínimo efectos negativos sobre el ambiente, prevenir futuros daños al ambiente y propiciar el aprovechamiento sustentable de los recursos naturales.
+La evaluación de impacto ambiental es el procedimiento a través del cual la autoridad evalúa los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de programas, obras y actividades de desarrollo dentro del territorio del Distrito Federal, a fin de evitar o reducir al mínimo efectos negativos sobre el ambiente, prevenir futuros daños al ambiente y propiciar el aprovechamiento sustentable de los recursos naturales.
 
-El procedimiento de evaluación del impacto ambiental se inicia mediante la presentación del documento denominado manifestación de impacto ambiental ante la Secretaría y concluye con la resolución que esta última emita. La elaboración de la manifestación de impacto ambiental se sujetará a lo que establecen la presente Ley y su reglamento.
+El procedimiento de evaluación de impacto ambiental se inicia mediante la presentación del documento denominado manifestación de impacto ambiental ante la Secretaría y concluye con la resolución que esta última emita. La elaboración de la manifestación de impacto ambiental se sujetará a lo que establecen la presente Ley y su reglamento.
 
 ###### ARTÍCULO 45.
 
@@ -892,23 +936,39 @@ XVII. Construcción de estaciones de gas y gasolina.
 
 El reglamento de la presente Ley y, en su caso, los acuerdos administrativos correspondientes precisarán, respecto del listado anterior, los casos y modalidades para la presentación de las manifestaciones de impacto ambiental y riesgo, así como la determinación de las obras o actividades que, no obstante estar previstas en los supuestos a que se refiere este artículo, por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos o no causen o puedan causar riesgos, y que por lo tanto no deban sujetarse al procedimiento de evaluación del impacto ambiental previsto en este ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 47.
 
-Para obtener autorización en materia de impacto ambiental, los interesados, previo al inicio de cualquier obra o actividad, deberán presentar ante la Secretaría, una manifestación de impacto ambiental, en la modalidad que corresponda en los términos del reglamento, pero en todo caso deberá contener, por lo menos:
+Para obtener autorización en materia de impacto ambiental, los interesados, previamente al inicio de cualquier obra o actividad, deberán presentar ante la Secretaría, una manifestación de impacto ambiental, en la modalidad que corresponda en los términos del reglamento, pero en todo caso deberá contener por lo menos:
 
-I. Nombre, denominación o razón social, nacionalidad, domicilio y dirección de quien pretenda llevar a cabo la obra o actividad objeto de la manifestación;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-II. Descripción de la obra o actividad proyectada, desde la etapa de selección del sitio para la ejecución de la obra en el desarrollo de la actividad; la superficie de terreno requerido; el programa de construcción, montaje de instalaciones y operación correspondiente; el tipo de actividad, volúmenes de producción previstos, e inversiones necesarias; la clase y cantidad de recursos naturales que habrán de aprovecharse, tanto en la etapa de construcción como en la operación de la obra o el desarrollo de la actividad; el programa para el manejo de residuos, tanto en la construcción y montaje como durante la operación o desarrollo de la actividad; y el programa para el abandono de las obras o el cese de las actividades;
+I. Nombre, denominación o razón social, nacionalidad, domicilio y dirección de quien pretenda llevar a cabo la obra o actividad objeto de la manifestación y nombre, denominación o razón social, nacionalidad, domicilio y dirección de la persona física o moral responsable de elaborar la manifestación de impacto ambiental;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+II. Descripción de la obra o actividad proyectada, desde la etapa de selección del sitio para la ejecución de la obra o el desarrollo de la actividad, la superficie de terreno requerido; el programa de construcción, montaje de instalaciones y operación correspondiente; el tipo de actividad, volúmenes de producción previstos, e inversiones necesarias para la ejecución del proyecto y monto destinado a la instrumentación de medidas de prevención, mitigación y compensación de impactos ambientales; la clase y cantidad de recursos naturales que habrán de aprovecharse, tanto en la etapa de construcción como en la operación de la obra o el desarrollo de la actividad, el programa para el manejo de residuos, tanto en la construcción y montaje como durante la operación o desarrollo de la actividad; y, en su caso el programa para el abandono de las obras o el cese de las actividades;
 
 III. Aspectos generales del medio natural y socioeconómico del área donde pretenda desarrollarse la obra o actividad;
 
-IV. Vinculación con las normas y regulaciones sobre uso del suelo en el área correspondiente; Identificación y descripción de los impactos ambientales que ocasionaría la ejecución del proyecto o actividad, en sus distintas etapas; y
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-V. Medidas de prevención y mitigación para los impactos ambientales identificados en cada una de las etapas.
+IV. Vinculación con las normas y regulaciones sobre uso del suelo en el área correspondiente;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+V. Identificación y descripción de los impactos ambientales que ocasionaría la ejecución del proyecto o actividad, en sus distintas etapas, y
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VI. Medidas de prevención y mitigación para los impactos ambientales identificados en cada una de las etapas.
 
 Cuando se trate de actividades consideradas riesgosas en los términos de esta Ley, la manifestación deberá incluir el estudio de riesgo correspondiente, el cual será considerado al evaluarse el impacto ambiental.
 
-Si después de la presentación de una manifestación de impacto ambiental se realizan modificaciones al proyecto de los planes y programas, obras o actividades respectivas, los interesados deberán hacerlas del conocimiento de la Secretaría, a fin de que ésta, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en los términos de lo dispuesto en esta Ley.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+Si después de la presentación de una manifestación de impacto ambiental se realizan modificaciones al proyecto de los programas, obras o actividades respectivas, los interesados deberán hacerlas del conocimiento de la Secretaría, a fin de que ésta, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en los términos de lo dispuesto en esta Ley.
 
 ###### ARTÍCULO 48.
 
@@ -924,9 +984,11 @@ Los promoventes de la obra o actividad podrán requerir que se mantenga en reser
 
 La autoridad competente, podrá llevar a cabo una consulta pública, conforme a las bases de la Ley de Participación Ciudadana y al Reglamento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 51.
 
-El promovente deberá publicar, a su costa, en un diario de circulación nacional, un resumen del proyecto. Las personas que participen en la consulta pública, podrán presentar a la Secretaría por escrito sus observaciones o comentarios, dentro de los cinco días hábiles siguientes a que ésta haya sido convocada.
+Los promoventes de obras o actividades que requieran una manifestación de impacto ambiental en modalidad específica, o que deban someterse a consulta pública por determinación de la Secretaría, deberán publicar, a su costa, en un diario de circulación nacional, un resumen del proyecto. Las personas que participen en la consulta pública, podrán presentar a la Secretaría por escrito sus observaciones o comentarios, dentro de los cinco días hábiles siguientes a que ésta haya sido convocada.
 
 Una vez presentados las observaciones y comentarios, la Secretaría los ponderará y los considerará al momento de resolver sobre la autorización en materia de impacto ambiental.
 
@@ -942,33 +1004,49 @@ Al realizar la evaluación del impacto ambiental, la autoridad se ajustará, ent
 
 Una vez evaluada la manifestación de impacto ambiental, la autoridad competente emitirá, debidamente fundada y motivada, la resolución correspondiente, en la que podrá:
 
-I. Autorizar la instrumentación de los planes y programas, así como la realización de la obra o actividad de que se trate, en los términos solicitados;
+> <small>(REFORMADA G.O. 10 DE FEBRERO DE 2004)</small>
 
-II. Autorizar la instrumentación de los planes y programas, así como la realización de la obra o actividad de que se trate, sujetándose a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la ejecución del proyecto, así como en caso de accidentes;
+I. Autorizar la instrumentación de los programas, así como la realización de la obra o actividad de que se trate, en los términos solicitados;
+
+> <small>(REFORMADA G.O. 10 DE FEBRERO DE 2004)</small>
+
+II. Autorizar la instrumentación de los programas, así como la realización de la obra o actividad de que se trate, sujetándose a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la ejecución del proyecto, así como en caso de accidentes;
 
 III. Negar la autorización solicitada, cuando:
 
 a) Se contraponga con lo establecido en esta Ley, su reglamento, las normas oficiales mexicanas, las normas ambientales del Distrito Federal, los planes y programas de ordenamiento ecológico y de desarrollo urbano y demás disposiciones legales aplicables;
 
-b) La obra o actividad que afecte a la población en su salud o una o más especies amenazadas, o en peligro de extinción o a las zonas intermedias de salvaguarda y elementos que contribuyen al ciclo Hidrológico o algún o algunos ecosistemas en particular; y
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+b) La obra o actividad afecte a la población en su salud o una o más especies amenazadas, o en peligro de extinción o a las zonas intermedias de salvaguarda y elementos que contribuyen al ciclo hidrológico o algún o algunos ecosistemas en particular; y
 
 c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate.
 
-La Secretaría podrá exigir el otorgamiento de garantías respecto del cumplimiento de las condicionantes establecidas en la autorización, en aquellos casos expresamente señalados en el reglamento de la Ley, cuando durante la realización de las obras puedan producirse daños graves a los ecosistemas o al ambiente. La Secretaría deberá emitir la resolución correspondiente en un plazo de quince días hábiles, a partir de que se integre la información necesaria. Transcurrido este plazo sin que la autoridad emita la resolución se entenderá que la realización de la obra o actividad ha sido negada.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-En todos los casos de la manifestación de impacto ambiental, la autoridad deberá establecer un sistema de seguimiento.
+La Secretaría podrá exigir el otorgamiento de garantías respecto del cumplimiento de las condicionantes establecidas en la autorización, en aquellos casos expresamente señalados en el reglamento de la Ley, cuando durante la realización de las obras puedan producirse daños graves a los ecosistemas o al ambiente.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+La Secretaría deberá emitir la resolución correspondiente en un plazo de quince días hábiles, a partir de que se integre la información necesaria. Transcurrido este plazo sin que la autoridad emita la resolución se entenderá que la realización de la obra o actividad ha sido negada.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+En todos los casos de autorizaciones de impacto ambiental, la autoridad deberá establecer un sistema de seguimiento del cumplimiento de las disposiciones y medidas de prevención, mitigación y compensación de impactos ambientales que hubiere establecido en las resoluciones correspondientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 54.
 
-Las personas que presten servicios de evaluación del impacto ambiental, serán responsables ante la autoridad competente, de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo que elaboren. Los prestadores de servicios declararán bajo protesta de decir verdad que en dichos documentos se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas. En caso de incumplimiento o exista falsedad en la información proporcionada será acreedor a las sanciones correspondientes y la cancelación del tramite de evaluación.
+Las personas que presten servicios de evaluación de impacto ambiental, serán responsables ante la autoridad competente, de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo, que elaboren. Los prestadores de servicios declararán bajo protesta de decir verdad que en dichos documentos se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
 
-Asimismo, los informes preventivos, las manifestaciones de impacto ambiental y los estudios de riesgo podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales; en este caso, la responsabilidad respecto del contenido del documento corresponderá a quienes lo suscriban.
+En caso de incumplimiento o exista falsedad en la información proporcionada, el prestador de servicios será corresponsable con el promovente y se hará acreedor a las sanciones correspondientes y la Secretaría procederá a negar la autorización solicitada o a la cancelación del trámite de evaluación correspondiente.
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 55.
 
-Las obras o actividades a que se refiere el artículo 46 que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, o no causen desequilibro ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente, no estarán sujetas a la evaluación de impacto ambiental. En estos casos, el responsable de la obra o actividad deberá presentar a la Delegación el documento denominado informe preventivo, en los supuestos establecidos en el reglamento, o bien, determinar las obras o actividades de que se trate requieran la presentación de una manifestación de impacto ambiental, previo de iniciar la obra o actividad.
+Las obras o actividades a que se refiere el artículo 46 que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, o no causen desequilibrio (sic) ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente, no estarán sujetas a la evaluación de impacto ambiental. En estos casos, el responsable de la obra o actividad deberá presentar a la Delegación el documento denominado informe preventivo, en los supuestos establecidos en el reglamento, o bien, podrá consultar a la Secretaría si las obras o actividades de que se trate requieran la presentación de una manifestación de impacto ambiental, antes de iniciar la obra o actividad.
 
 ###### ARTÍCULO 56.
 
@@ -982,11 +1060,33 @@ El informe preventivo deberá contener:
 
 I. Datos generales de quien pretenda realizar la obra o actividad proyectada, o en su caso, de quien hubiere ejecutado los proyectos o estudios previos correspondientes;
 
-II. Documentos que determinen el uso de suelo autorizado para el predio;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-III. Descripción de la obra o actividad proyectada; y
+II. Documentos que determinen el uso de suelo autorizado o permitido para el predio;
 
-IV. Descripción de los materiales o productos que vayan a emplearse en la ejecución de la obra o actividad proyectada, y los que en su caso vayan a obtenerse como resultado de dicha obra o actividad, incluyendo emisiones a la atmósfera, descargas de aguas residuales, tipo de residuos y procedimientos para su disposición final.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+III. Descripción de la obra o actividad proyectada;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+IV. Descripción de los materiales o productos que vayan a emplearse en la ejecución de la obra o actividad proyectada, y los que en su caso vayan a obtenerse como resultado de dicha obra o actividad, incluyendo emisiones a la atmósfera, descargas de aguas residuales, tipo de residuos y procedimientos para su disposición final;
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+V. Monto de la inversión requerida para ejecutar la obra o actividad, así como porcentaje de ésta que se destinará a la instrumentación de medidas de prevención, mitigación y compensación de impactos ambientales;
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VI. Programa calendarizado de ejecución de la obra o actividad;
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VII. Medidas contempladas para la prevención o mitigación de impactos ambientales que pudieran ocasionarse con la realización de la obra o actividad; y
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VIII. En su caso, el estudio de riesgo si se tratase de acciones que lo ameriten sin requerir una manifestación de impacto ambiental.
 
 ###### ARTÍCULO 58.
 
@@ -998,9 +1098,11 @@ En aquellos casos que por negligencia, dolo o mala fe se ingrese el informe prev
 
 Las autorizaciones, licencias o permisos otorgados en contravención a lo dispuesto en esta Ley, serán nulos de pleno derecho y los servidores públicos que los hayan otorgado serán sancionados de conformidad con la Ley de Responsabilidades de los Servidores Públicos correspondiente, para cuyo efecto la Secretaría informará el hecho de inmediato a la autoridad competente, lo anterior sin perjuicio de otras sanciones que pudieran aplicarse.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 60.
 
-La persona que construya una obra nueva, amplíe una existente, o explote recursos naturales sin contar previamente con la autorización de impacto ambiental respectiva o que contando con ésta incumpla los requisitos y condiciones establecidos en la misma o en esta Ley, estará obligada a reparar los daños ecológicos que con tal motivo hubiere causado a los recursos naturales o al ambiente, sin perjuicio de la aplicación de las sanciones respectivas.
+La persona que construya una obra nueva, amplíe una existente, o explote recursos naturales sin contar previamente con la autorización de impacto ambiental respectiva o que contando con ésta incumpla los requisitos y condiciones establecidos en la misma o en esta Ley, estará obligada a reparar los daños ambientales que con tal motivo hubiere causado a los recursos naturales o al ambiente, sin perjuicio de la aplicación de las medidas de seguridad y sanciones respectivas.
 
 ###### ARTÍCULO 61.
 
@@ -1024,9 +1126,23 @@ Los responsables de los establecimientos industriales, mercantiles, de servicios
 
 Los productores, empresas u organizaciones empresariales podrán convenir con la Secretaría el establecimiento de procesos voluntarios de autorregulación mediante los cuales se comprometan a reducir sus emisiones por debajo de los límites establecidos por las normas oficiales mexicanas y las normas ambientales para el Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 64 Bis.
+
+Los responsables de vehículos o flotillas podrán suscribir convenios de autorregulación en los que se comprometan a actualizar la tecnología de dichos vehículos o hacer conversiones a combustibles alternos en los términos que la Secretaría establezca.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 64 Bis 1.
+
+Los convenios de autorregulación que se suscriban serán obligatorios y su incumplimiento será motivo para la cancelación de los estímulos y de las exenciones otorgados, independientemente de las sanciones aplicables conforme la presente Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 65.
 
-Una vez firmado el convenio a que se refiere el artículo anterior, y siempre que lo solicite el interesado, mediante el llenado de un cuestionario y la presentación de los documentos requeridos al efecto, podrá solicitar la realización de una visita de inspección voluntaria a la empresa.
+Una vez firmado o firmados los convenios de autorregulación y siempre que lo solicite el interesado, mediante el llenado de un cuestionario y la presentación de los documentos requeridos al efecto, podrá solicitar la realización de una visita de inspección voluntaria a la empresa.
 
 Integrado el expediente, la Secretaría revisará la información y documentación aportadas, así como el resultado de la inspección realizada y emitirá un certificado de bajas emisiones siempre y cuando se encuentren por debajo de los límites establecidos por las normas oficiales mexicanas y las normas ambientales para el Distrito Federal.
 
@@ -1046,11 +1162,15 @@ IV. Promover y concertar, en apoyo a la pequeña y mediana industria, los mecani
 
 La Secretaría podrá eximir de la obligación de realizar verificaciones en determinados periodos, a las empresas que realicen auditorías ambientales voluntarias, en los casos en que así lo considere conveniente. En todo caso esa circunstancia deberá constar en resolución por escrito, debidamente fundada y motivada.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 68.
 
-Sin perjuicio de lo dispuesto en los artículos precedentes, la Secretaría podrá en todo momento, de oficio o a petición fundada y motivada de cualquier interesado, realizar auditorias ambientales obligatorias para cerciorarse del cumplimiento a las disposiciones de la presente Ley.
+Sin perjuicio de lo dispuesto en los artículos precedentes, la Secretaría podrá en todo momento, de oficio o a petición fundada y motivada de cualquier interesado, ordenar la realización de auditorías ambientales en forma obligatoria para cerciorarse del cumplimiento de las disposiciones de la presente Ley.
 
-### CAPÍTULO IX. ESTÍMULOS
+### CAPÍTULO IX. INSTRUMENTOS ECONÓMICOS
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 69.
 
@@ -1062,11 +1182,21 @@ II. El manejo y la administración de las áreas naturales protegidas;
 
 III. El desarrollo de programas vinculados con inspección y vigilancia en las materias a que se refiere esta Ley;
 
-IV. El pago de servicios ambientales que sean proporcionados por los ecosistemas;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-V. El desarrollo de programas de educación e investigación en materia ambiental y para el fomento y difusión de experiencias y prácticas para la protección, conservación y aprovechamiento de los recursos naturales y el ambiente; y
+IV. La retribución por proteger, restaurar o ampliar los servicios ambientales;
 
-VI. La supervisión del cumplimiento de los convenios con los sectores productivo y académico.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+V. El desarrollo de programas de educación e investigación en materia ambiental y para el fomento y difusión de experiencias y prácticas para la protección, conservación y aprovechamiento de los recursos naturales y el ambiente;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VII. (SIC) La supervisión del cumplimiento de los convenios con los sectores productivo y académico, y
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VII. (SIC) La reparación de daños ambientales.
 
 ###### ARTÍCULO 70.
 
@@ -1076,15 +1206,61 @@ I. Las herencias, legados y donaciones que reciba;
 
 II. Los recursos destinados para ese efecto en el Presupuesto de Egresos del Distrito Federal;
 
-III. Los productos de sus operaciones y de la inversión de fondos; y
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-IV. Los demás recursos que se generen por cualquier otro concepto.
+III. Los productos de sus operaciones y de la inversión de fondos;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+IV. Los relativos al pago de contribuciones o cualquier tipo de ingresos por servicios ambientales y por la realización acciones de compensación de los efectos negativos sobre el ambiente y los recursos naturales que se establezcan en la normatividad aplicable;
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+V. El monto de las multas que se impongan por fracciones (sic) a las disposiciones ambientales;
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VI. Los recursos derivados de los instrumentos económicos y de mercado correspondientes a programas y proyectos de reducción de emisiones de gases de efecto invernadero; y
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VII. Los demás recursos que se generen por cualquier otro concepto.
 
 ###### ARTÍCULO 71.
 
 El Jefe de Gobierno emitirá un acuerdo que establezca la integración del consejo técnico del fondo ambiental, su organización y sus reglas de funcionamiento.
 
+(REUBICADO, REFORMADA SU DENOMINACION, G.O. 10 DE FEBRERO DE 2004)
+
 ### CAPÍTULO X. INVESTIGACIÓN Y EDUCACIÓN AMBIENTALES
+
+###### ARTÍCULO 71 Bis.
+
+La Secretaría diseñará, desarrollará y aplicará instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental, y mediante los cuales se buscará:
+
+I. Promover un cambio en la conducta de las personas que realicen actividades industriales, comerciales y de servicios, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y de desarrollo sustentable;
+
+II. Fomentar la incorporación de información confiable y suficiente sobre las consecuencias, beneficios y costos ambientales al sistema de precios de la economía;
+
+III. Otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio ecológico. Asimismo, deberán procurar que quienes dañen el ambiente, hagan un uso indebido de recursos naturales o alteren los ecosistemas, asuman los costos respectivos;
+
+IV. Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de la política ambiental; y
+
+V. Procurar su utilización conjunta con otros instrumentos de política ambiental, en especial cuando se trate de observar umbrales o límites en la utilización de ecosistemas, de tal manera que se garantice su integridad y equilibrio, la salud y el bienestar de la población.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 71 Bis 1.
+
+Se consideran instrumentos económicos los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asumen los beneficios y costos ambientales que generen sus actividades económicas, incentivándolas a realizar acciones que favorezcan el ambiente.
+
+Se consideran instrumentos económicos de carácter fiscal, los estímulos fiscales que incentiven el cumplimiento de los objetivos de la política ambiental. En ningún caso, estos instrumentos se establecerán con fines exclusivamente recaudatorios.
+
+Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la preservación, protección, restauración o aprovechamiento sustentable de los recursos naturales y el ambiente, así como al financiamiento de programas, proyectos, estudios e investigación científica y tecnológica para la preservación del equilibrio ecológico y protección al ambiente.
+
+Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien, que establecen los límites de aprovechamiento de recursos naturales, o de construcción en áreas naturales protegidas o en zonas cuya preservación y protección se considere relevante desde el punto de vista ambiental.
+
+Las prerrogativas derivadas de los instrumentos económicos de mercado serán transferibles, no gravables y quedarán sujetos al interés público y al aprovechamiento sustentable de los recursos naturales.
 
 ###### ARTÍCULO 72.
 
@@ -1092,11 +1268,31 @@ La Secretaría promoverá el otorgamiento de estímulos fiscales, financieros y 
 
 I. Adquieran, instalen y operen las tecnologías, sistemas, equipos y materiales o realicen las acciones que acrediten prevenir o reducir las emisiones contaminantes establecidos por las normas oficiales mexicanas y las ambientales para el Distrito Federal, o prevenir y reducir el consumo de agua o de energía, o que incorporen sistemas de recuperación y reciclamiento de las aguas de desecho o que utilicen aguas tratadas o de reuso para sus funciones productivas, de conformidad con los programas que al efecto se establezcan;
 
-II. Realicen desarrollos tecnológicos y de ecotecnias viables cuya aplicación demuestre prevenir o reducir las emisiones contaminantes, la producción de grandes cantidades (sic) desechos sólidos municipales, el consumo de agua o el consumo de energía, en los términos de los programas que al efecto se expidan;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+II. Realicen desarrollo (sic) tecnológicos y de ecotecnias viables cuya aplicación demuestre prevenir o reducir las emisiones contaminantes, la producción de grandes cantidades de residuos sólidos urbanos, el consumo de agua o el consumo de energía, en los términos de los programas que al efecto se expidan;
 
 III. Integren organizaciones civiles con fines de desarrollo sustentable, que acrediten su personalidad jurídica ante la Secretaría; y
 
 IV. Lleven a cabo actividades que garanticen la conservación sustentable de los recursos naturales.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 72 Bis.
+
+Se consideran prioritarias, para efectos del otorgamiento de los estímulos fiscales que se establezcan conforme al Código Financiero del Distrito Federal, las actividades relacionadas con:
+
+I. La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar la contaminación o deterioro ambiental, así como el uso eficiente de recursos naturales y de energía;
+
+II. La investigación e incorporación de sistemas de ahorro de energía y de utilización de fuentes de energía menos contaminantes;
+
+III. El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
+
+IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas;
+
+V. El establecimiento, manejo y vigilancia de áreas naturales protegidas; y
+
+VI. En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
 ### CAPÍTULO XI. INFORMACIÓN AMBIENTAL
 
@@ -1194,11 +1390,17 @@ III. Los datos que permitan identificar al presunto infractor o localizar la fue
 
 IV. Las pruebas que en su caso ofrezca el denunciante.
 
-En situaciones de emergencia o una vez ratificada la denuncia y en su caso, desahogadas las pruebas, la Procuraduría procederá a realizar la visita de verificación correspondiente en los términos de la Ley de Procedimiento Administrativo del Distrito Federal y su Reglamento de Verificación Administrativa, a efecto de determinar la existencia o no de la infracción motivo de la denuncia.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-Una vez calificada el acta levantada con motivo de la visita de verificación referida en el artículo anterior, la Procuraduría procederá a dictar la resolución que corresponda conforme a derecho.
+Una vez ratificada la denuncia y en su caso, desahogadas las pruebas, la Procuraduría podrá, en los términos de su Ley Orgánica, realizar la visita de inspección correspondiente en los términos de esta Ley, a efecto de determinar la existencia o no de la infracción motivo de la denuncia.
 
-Sin perjuicio de la resolución señalada en el Artículo precedente, la Procuraduría dará contestación, debidamente fundada y motivada, a la denuncia en un plazo de treinta días hábiles a partir de su ratificación, la que deberá notificar personalmente al denunciante y en la cual se informará del resultado de la verificación, de las medidas que se hayan tomado y, en su caso, de la imposición de la sanción respectiva.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+Una vez calificada el acta levantada con motivo de la visita de inspección referida en el artículo anterior, la Procuraduría procederá a dictar la resolución que corresponda conforme a derecho.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+Sin perjuicio de la resolución señalada en el Artículo precedente, la Procuraduría dará contestación, debidamente fundada y motivada, a la denuncia en un plazo de treinta días hábiles a partir de su ratificación, la que deberá notificar personalmente al denunciante y en la cual se informará del resultado de la inspección, de las medidas que se hayan tomado y, en su caso, de la imposición de la sanción respectiva.
 
 ###### ARTÍCULO 84.
 
@@ -1288,15 +1490,17 @@ La Secretaría solicitará a la Secretaría de Desarrollo Urbano y Vivienda el e
 
 Las delegaciones procurarán el incremento de áreas verdes de su competencia, en proporción equilibrada con los usos de suelo distintos a áreas verdes, espacios abiertos y jardinados o en suelo de conservación existentes en su demarcación territorial, e incorporarlos a los programas delegacionales de desarrollo urbano.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 88.
 
-El mantenimiento, mejoramiento, podas, fomento y conservación de las áreas verdes del Distrito Federal, deberá realizarse con las técnicas y especies apropiadas.
+El mantenimiento, mejoramiento, restauración, rehabilitación, fomento y conservación de las áreas verdes del Distrito Federal, deberá realizarse con las técnicas y especias (sic) apropiadas.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 88 Bis.
 
-Las delegaciones celebrarán convenios con los vecinos de las áreas verdes de su competencia, para que participen en su cuidado y mantenimiento, así como en la ejecución de programas y acciones de forestación, reforestación, recreativos y culturales, proporcionando mecanismos de apoyo en especie, cuando sea necesario.
+La Secretaría y las Delegaciones podrán celebrar convenios con los vecinos de las áreas verdes de su competencia, para que participen en su mantenimiento, mejoramiento, restauración, fomento y conservación; así como en la ejecución de acciones de forestación, reforestación, recreativas y culturales, proporcionando mecanismos de apoyo en especie, cuando sea necesario y promoverán su intervención en la vigilancia de tales áreas.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -1410,7 +1614,7 @@ Corresponde al Jefe de Gobierno del Distrito Federal el establecimiento de las �
 
 Las categorías de áreas naturales protegidas de competencia del Distrito Federal son:
 
-I. (DEROGADA, G.O. 31 DE ENERO DE 2002)
+I. (DEROGADA, G.O. 31 DE ENERO DE 2002) (REPUBLICADA, G.O. 10 DE FEBRERO DE 2004)
 
 II. Zonas de Conservación Ecológicas;
 
@@ -1420,7 +1624,9 @@ IV. Zonas Ecológicas y Culturales;
 
 V. Refugios de vida silvestre;
 
-VI. (DEROGADA, G.O. 31 DE ENERO DE 2002)
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VI. Zonas de Protección Especial;
 
 > <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -1462,7 +1668,7 @@ Las Reservas Ecológicas Comunitarias son aquellas establecidas por pueblos, com
 
 La Secretaría promoverá la expedición de la declaratoria correspondiente, mediante la cual se establecerá el programa de manejo del área por parte del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en la presente Ley.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 92 Bis 5.
 
@@ -1668,6 +1874,8 @@ Queda estrictamente prohibido el relleno, secado o uso diferente al que tienen, 
 
 ### CAPÍTULO VIII. APROVECHAMIENTO DE LOS RECURSOS ENERGÉTICOS
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 111.
 
 Para la conservación, restauración, protección y aprovechamiento sustentable del suelo en el territorio del Distrito Federal, se considerarán los siguientes criterios:
@@ -1705,6 +1913,8 @@ VII. La formulación del programa de ordenamiento ecológico; y
 VIII. La evaluación del impacto ambiental de las obras o proyectos que en su caso se sometan a consideración de la Secretaría.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 113.
 
@@ -1756,6 +1966,12 @@ Toda persona que derribe un árbol en la vía pública o en bienes de dominio p�
 
 En la autorización se determinará el destino de los esquilmos o productos del derribo o poda de los árboles en vía pública o bienes de dominio público.
 
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 120 Bis.
+
+Las acciones de inspección e imposición de medidas de seguridad, correctivas o de urgente aplicación y sanciones, respecto a las disposiciones previstas en este capítulo sobre poda, derribo y trasplante de árboles, corresponden a las Delegaciones Políticas en su respectiva circunscripción territorial, sin perjuicio de las atribuciones conferidas a otras autoridades por cuestiones diversas.
+
 ###### ARTÍCULO 121.
 
 La Secretaría establecerá en los programas respectivos las medidas necesarias para evitar los incendios forestales.
@@ -1764,7 +1980,7 @@ La Secretaría establecerá en los programas respectivos las medidas necesarias 
 
 ###### ARTÍCULO 122.
 
-La Secretaría propondrá ante el Jefe de Gobierno del Distrito Federal, la celebración de acuerdos y convenios para el establecimiento de programas que permitan el ahorro de energía y su utilización eficiente, así como el desarrollo de diferentes de energía y tecnologías alternas, conforme a los principios establecidos en la presente Ley.
+La Secretaría celebrará acuerdos y convenios para el establecimiento de programas que permitan el ahorro de energía y su utilización eficiente, así como para el desarrollo de diferentes fuentes de energía, incluidas las fuentes renovables, conforme a los principios establecidos en la presente Ley.
 
 ## TÍTULO QUINTO. DE LA PREVENCIÓN, CONTROL Y ACCIONES CONTRA LA CONTAMINACIÓN AMBIENTAL
 
@@ -1772,7 +1988,7 @@ La Secretaría propondrá ante el Jefe de Gobierno del Distrito Federal, la cele
 
 ###### ARTÍCULO 123.
 
-Todas las personas están obligadas a cumplir con los requisitos y límites de emisiones contaminantes a la atmósfera, agua, suelo, subsuelo, redes de drenaje y alcantarillado y cuerpos receptores del Distrito Federal establecidos por las normas aplicables o las condiciones particulares de descarga que emita la Secretaría de Medio Ambiente. Quedan comprendidos también en esta prohibición, la generación de contaminantes visuales y las emisiones de ruido, vibraciones, energía térmica, lumínica y olores, de acuerdo con las disposiciones jurídicas aplicables.
+Todas las personas están obligadas a cumplir con los requisitos y límites de emisiones contaminantes a la atmósfera, agua, suelo, subsuelo, redes de drenaje y alcantarillado y cuerpos receptores del Distrito Federal establecidos por las normas aplicables o las condiciones particulares de descarga que emita la Secretaría, así como a utilizar los equipos, dispositivos y sistemas de reducción de emisiones que determine dicha dependencia. Quedan comprendidos la generación de residuos sólidos, de contaminantes visuales y de la emisión de contaminantes de ruido, vibraciones, energía térmica, lumínica y olores, de acuerdo con las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO V. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
 
@@ -1794,17 +2010,21 @@ Queda prohibido emitir o descargar contaminantes a la atmósfera, el agua y los 
 
 En todas las descargas de contaminantes a la atmósfera, al agua y los suelos, deberán ser observadas las previsiones de la Ley General, esta Ley, sus disposiciones reglamentarias, así como las normas oficiales mexicanas y normas ambientales del Distrito Federal que al efecto se expidan.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 127.
 
-La Secretaría, en los términos que señalen el reglamento de esta Ley, integrará y mantendrá actualizado, un inventario de emisiones a la atmósfera, descargas de aguas residuales, materiales y residuos; coordinará la administración de los registros que establece la Ley y creará un sistema consolidado de información basado en las autorizaciones, licencias o permisos que en la materia se otorguen.
+La Secretaría, en los términos que señalen el reglamento de esta Ley, integrará y mantendrá actualizado, un inventario de emisiones a la atmósfera, descargas de aguas residuales, materiales y residuos, el registro de emisiones y transferencia de contaminantes y coordinará la administración de los registros que establece la Ley y creará un sistema consolidado de información basado en las autorizaciones, licencias o permisos que en la materia se otorguen.
 
 ###### ARTÍCULO 128.
 
 La Secretaría en coordinación con las autoridades federales y locales, establecerá un sistema de información relativo a los impactos en la salud provocados por la exposición a la contaminación del aire, agua y suelo.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 129.
 
-La Secretaría podrá emitir lineamientos y criterios obligatorios para que la actividad de la administración pública del Distrito Federal en materia de obra pública y de adquisiciones de bienes muebles tome en consideración los aspectos de conservación ambiental, así como de ahorro de energía eléctrica y agua y de mínima generación de todo tipo de desechos.
+La Secretaría podrá emitir lineamientos y criterios obligatorios para que la actividad de la administración pública del Distrito Federal en materia de obra pública y de adquisiciones de bienes muebles tome en consideración los aspectos de conservación ambiental, así como de ahorro de energía eléctrica y agua y de mínima generación de todo tipo de residuos sólidos y de aguas residuales.
 
 ### CAPÍTULO VI. DE LAS CONTINGENCIAS AMBIENTALES
 
@@ -1820,7 +2040,9 @@ Para la protección a la atmósfera se considerarán los siguientes criterios:
 
 I. Las políticas y programas de las autoridades ambientales deberán estar dirigidas a garantizar que la calidad del aire sea satisfactoria en el Distrito Federal; y
 
-II. Las emisiones de todo tipo de contaminantes a la atmósfera, sean de fuentes fijas o móviles, deben ser reducidas y controladas, para asegurar una calidad del aire satisfactoria para la salud y bienestar de la población y el mantenimiento del equilibrio ecológico.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+II. Las emisiones de todo tipo de contaminantes a la atmósfera, sean de fuentes fijas o móviles, deben ser prevenidas, reguladas, reducidas y controladas, para asegurar una calidad del aire satisfactoria para la salud y bienestar de la población y el mantenimiento del equilibrio ecológico.
 
 ###### ARTÍCULO 132.
 
@@ -1852,97 +2074,103 @@ VI. Establecer y operar sistemas de monitoreo de la calidad del aire en el Distr
 
 VII. Expedir normas ambientales del Distrito Federal para regular las emisiones provenientes de fuentes fijas y móviles que no sean de jurisdicción federal, y las medidas de tránsito, y en su caso, la suspensión de circulación, en casos graves de contaminación;
 
-VIII. Tomar las medidas necesarias para prevenir, regular y controlar las contingencias ambientales por contaminación atmosférica;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-IX. Aplicar las normas oficiales mexicanas y normas ambientales del Distrito Federal para la protección de la atmósfera, en las materias y supuestos de su competencia;
+VIII. Elaborar y emitir un Pronóstico de la Calidad del Aire, en forma diaria, en función de los sistemas meteorológicos;
 
-X. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+IX. Expedir normas ambientales del Distrito Federal para regular las emisiones provenientes de fuentes fijas y móviles que no sean de jurisdicción federal, y las medidas de tránsito, y en su caso, la suspensión de circulación, en casos graves de contaminación;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+X. Tomar las medidas necesarias para prevenir, regular y controlar las contingencias ambientales por contaminación atmosférica;
 
 XI. Establecer y operar sistemas de verificación de emisiones de automotores en circulación, y en su caso, expedir la constancia de verificación de emisiones;
 
-XII. Proponer el monto de las tarifas que deberán cubrirse por los servicios de verificación de automotores en circulación;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-XIII. Llevar un registro de los centros de verificación de automotores en circulación, y mantener un informe actualizado de los resultados obtenidos;
+XII. Aplicar las normas oficiales mexicanas y normas ambientales del Distrito Federal para la protección de la atmósfera en las materias y supuestos de su competencia;
 
-XIV. Entregar, cuando proceda, a los propietarios de vehículos automotores, el documento que acredite que dicha fuente no rebasa los limites máximos permisibles de emisión, conforme a las normas oficiales mexicanas y normas ambientales para el Distrito Federal; y
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-XV. Fomentar la participación de la sociedad en el desarrollo de programas para impulsar alternativas de transporte que reduzcan el uso de vehículos particulares.
+XIII. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+XIV. Establecer y operar sistemas de verificación de emisiones de automotores en circulación, y en su caso, expedir la constancia de verificación de emisiones;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+XV. Proponer el monto de las tarifas que deberán cubrirse por los servicios de verificación de automotores en circulación;
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+XVI. Llevar un registro de los centros de verificación de automotores en circulación, y mantener un informe actualizado de los resultados obtenidos;
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+XVII. Entregar, cuando proceda, a los propietarios de vehículos automotores, el documento que acredite que dicha fuente no rebasa los límites máximos permisibles de emisión, conforme a las normas oficiales mexicanas y normas ambientales para el Distrito Federal; y
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+XVIII. Fomentar la participación de la sociedad en el desarrollo de programas para impulsar alternativas de transporte que reduzcan el uso de vehículos particulares.
 
 ###### ARTÍCULO 134.
 
 Para prevenir y controlar la contaminación de la atmósfera, las Delegaciones, tomarán las medidas necesarias en coordinación con la Secretaría.
 
-#### SECCIÓN II. CONTROL DE EMISIONES PROVENIENTES DE FUENTES FIJAS
+> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE FEBRERO DE 2004)</small>
+
+#### SECCIÓN II. CONTROL DE EMISIONES CONTAMINANTES PROVENIENTES DE FUENTES FIJAS
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 135.
 
-Para la operación y funcionamiento de las fuentes fijas de jurisdicción local que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá licencia local de funcionamiento que expedirá la Secretaría a los interesados que demuestren cumplir con los requisitos y límites determinados en las normas correspondientes y cumplir además con las siguientes obligaciones:
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción local que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá la Licencia Ambiental Única del Distrito Federal que expedirá la Secretaría a los interesados que demuestren cumplir con los requisitos y límites determinados en las normas correspondientes y cumplir además con las siguientes obligaciones:
 
 I. Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que no rebasen los niveles máximos permisibles establecidos en las normas oficiales mexicanas y las normas ambientales locales correspondientes;
 
-II. Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-III. Instalar plataformas y puertos de muestreo;
+II. Integrar un inventario anual de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+III. Instalar plataformas y puertos de muestreo en chimeneas para realizar la medición de emisiones en campo, de acuerdo a lo establecido en las normas correspondientes;
 
 IV. Medir sus emisiones contaminantes a la atmósfera, registrar los resultados en el formato que determine la Secretaría y remitir a ésta la información que se determine en el reglamento, a fin de demostrar que opera dentro de los limites permisibles;
 
-V. Llevar una bitácora de operación y mantenimiento de sus equipos de proceso y de control;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+V. Llevar una bitácora de operación y mantenimiento de sus equipos de combustión, de proceso y de control;
 
 VI. Dar aviso anticipado a la Secretaría del inicio de operación de sus procesos, en el caso de paros programados y de inmediato en el caso de que éstos sean circunstanciales, si ellos pueden provocar contaminación; y
 
-VII. Dar aviso inmediato a la Secretaría en el caso de falla del equipo de control.
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-La Secretaría, de conformidad con lo que establezca el reglamento de esta Ley, determinará los casos de fuentes fijas que por los niveles de emisión de contaminantes quedará (sic) exentos del cumplimiento de las obligaciones a que se refiere este artículo.
+VII. Dar aviso inmediato a la Secretaría en el caso de falla del equipo o sistema de control.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+La Secretaría, de conformidad con lo que establezca el reglamento de esta Ley, determinará los casos de fuentes fijas que por los niveles de emisión de contaminantes quedarán exentos del cumplimiento de las obligaciones a que se refiere este artículo.
 
 ###### ARTÍCULO 136.
 
-Para obtener la licencia local de funcionamiento a que se refiere el artículo anterior, los responsables de las fuentes, deberán presentar a la Secretaría, solicitud por escrito acompañada de la siguiente información y documentación:
-
-I. Datos generales del solicitante;
-
-II. Ubicación de la fuente;
-
-III. Descripción del proceso;
-
-IV. Distribución de maquinaria y equipo;
-
-V. Materias primas o combustibles que se utilicen en su proceso y forma de almacenamiento;
-
-VI. Transporte de materias primas o combustibles al área de proceso;
-
-VII. Transformación de materias primas o combustibles;
-
-VIII. Productos, subproductos y desechos que vayan a generarse;
-
-IX. Almacenamiento, transporte y distribución de productos y subproductos;
-
-X. Cantidad y naturaleza de los contaminantes a la atmósfera esperados;
-
-XI. Equipos para el control de la contaminación a la atmósfera que vayan a utilizarse; y
-
-XII. Programa de acciones para el caso de contingencias atmosféricas, que contenga las medidas y acciones que se llevarán a cabo cuando las condiciones meteorológicas de la región sean desfavorables; o cuando se presenten emisiones de contaminantes extraordinarias no controladas.
-
-La información a que se refiere este articulo deberá presentarse en el formato que determine la Secretaría, quien podrá requerir la información adicional que considere necesaria y verificar en cualquier momento, la veracidad de la misma.
-
-Presentada la solicitud e integrado el expediente, la Secretaría deberá emitir en un plazo de treinta días hábiles su resolución fundada y motivada, en la que autorice o niegue la licencia local de funcionamiento. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
+(DEROGADO, G.O. 10 DE FEBRERO DE 2004)
 
 ###### ARTÍCULO 137.
 
-La licencia local de funcionamiento a que se refiere el artículo 135, deberá contener:
-
-I. Los limites máximos permisibles de emisión por tipo de contaminante a que deberá sujetarse la fuente emisora, en que por sus características especiales de construcción o por sus peculiaridades en los procesos que comprenden no puedan encuadrarse dentro de las normas oficiales mexicanas o normas ambientales para el Distrito Federal;
-
-II. La periodicidad con que deberá llevarse a cabo la medición y el monitoreo de las emisiones;
-
-III. La periodicidad con que deberá remitirse a la Secretaría el inventario de emisiones;
-
-IV. Las medidas y acciones que deberán llevarse a cabo en el caso de una contingencia; y
-
-V. El equipo y aquellas otras condiciones que la Secretaría determine, para prevenir y controlar la contaminación de la atmósfera.
+(DEROGADO, G.O. 10 DE FEBRERO DE 2004)
 
 ###### ARTÍCULO 138.
 
 En materia de prevención y control de la contaminación atmosférica producida por fuentes fijas, la Secretaría establecerá las medidas preventivas y correctivas para reducir las emisiones contaminantes; y promoverá ante los responsables de operación de las fuentes, la aplicación de nuevas tecnologías con el propósito de reducir sus emisiones a la atmósfera.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+Los responsables de las fuentes fijas podrán solicitar su exención al Programa de Contingencias Ambientales Atmosféricas, a través del formato que determine la Secretaría y que además demuestre cumplir con el marco normativo vigente y programas de contingencias correspondientes, así mismo podrán solicitarla todas las fuentes fijas que operen y apliquen tecnologías encaminadas a la reducción de sus emisiones a la atmósfera.
 
 #### SECCIÓN III. CONTROL DE EMISIONES PROVENIENTES DE FUENTES MÓVILES
 
@@ -1950,17 +2178,23 @@ En materia de prevención y control de la contaminación atmosférica producida 
 
 La Secretaría podrá limitar la circulación de vehículos automotores en el Distrito Federal, incluyendo los que cuenten con placas expedidas por la Secretaría de Comunicaciones y Transportes, por otras entidades federativas o por el extranjero, para prevenir y reducir las emisiones contaminantes, en los términos de las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 140.
 
-Los propietarios o poseedores de vehículos automotores en circulación matriculados en el Distrito Federal, deberán someter sus unidades a la verificación de emisiones contaminantes, en los centros de verificación autorizados por la Secretaría dentro del periodo que le corresponda en los términos del programa de verificación vehicular obligatoria que al efecto se expida y, en su caso, sustituir los dispositivos de reducción de contaminantes cuando terminen su vida útil.
+Los propietarios o poseedores de vehículos automotores en circulación matriculados en el Distrito Federal, deberán someter sus unidades a la verificación de emisiones contaminantes, en los centros de verificación autorizados por la Secretaría dentro del periodo que le corresponda en los términos del programa de verificación vehicular obligatoria que al efecto se expida y, en su caso, reparar los sistemas de emisión de contaminantes y sustituir los equipos y dispositivos que no funcionen adecuadamente, en los términos que determine el Programa de Verificación correspondiente.
 
 ###### ARTÍCULO 141.
 
 El propietario o poseedor del vehículo deberá pagar al centro de verificación respectivo, la tarifa autorizada por la Secretaría en los términos del programa de verificación vehicular obligatoria para el Distrito Federal.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 142.
 
-Los propietarios o poseedores que se presenten a verificar sus vehículos fuera de los plazos señalados en el programa correspondiente, serán sancionados en los términos de este ordenamiento.
+El propietario o poseedor de un vehículo que no haya realizado la verificación dentro del periodo que le corresponda, de acuerdo al calendario establecido en el programa de verificación vehicular obligatoria que al efecto se expida, podrá trasladarse en un término de treinta días únicamente a un taller mecánico o a un Centro de Verificación, previo pago de la multa correspondiente, independientemente de la multa que establezca el Reglamento de Tránsito del Distrito Federal.
+
+En caso que no se apruebe la verificación dentro del plazo señalado, o si durante el mismo el vehículo circula hacia un lugar distinto al taller o al Centro de Verificación, se duplicará la multa, una vez pagada, contará con un nuevo plazo de treinta días naturales a partir de su imposición para agredir (sic) dicho cumplimiento. De no presentarse éste dentro del plazo citado se duplicará la segunda multa señalada.
 
 ###### ARTÍCULO 143.
 
@@ -1974,15 +2208,19 @@ El propietario o poseedor del vehículo que incumpla con las normas oficiales me
 
 La Secretaría, en coordinación con las Secretarías de Transporte y Vialidad, y de Seguridad Pública podrán restringir y sujetar a horarios nocturnos el tránsito vehicular y las maniobras respectivas en la vía pública de los vehículos de carga, a fin de agilizar la circulación vehicular diurna y reducir, de esta forma, las emisiones contaminantes generadas por las fuentes móviles. Para estos efectos, el Jefe de Gobierno del Distrito Federal publicará el Acuerdo correspondiente en la Gaceta Oficial.
 
-La Secretaría podrá acreditar a fabricantes, distribuidores y talleres autorizados para la instalación de dispositivos de reducción de emisiones contaminantes y de sistemas de gas, conforme a las convocatorias que al efecto emita.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+La Secretaría podrá otorgar permisos, autorizaciones y acreditaciones a fabricantes, distribuidores, importadores y talleres, para el servicio de diagnóstico, reparación, comercialización e instalación de dispositivos y equipos de reducción de emisiones contaminantes y de sistemas de gas, conforme a las convocatorias que al efecto emita, en las que se incluyan las condiciones y características a que deba sujetarse su actividad.
 
 ###### ARTÍCULO 146.
 
 Los vehículos que transporten en el Distrito Federal materiales o residuos peligrosos, deberán cumplir con los requisitos y condiciones establecidos en esta Ley y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 147.
 
-Los vehículos que presten el servicio público de transporte de pasajeros o carga en el Distrito Federal, deberán utilizar las fuentes de energía, sistemas y equipos que determine la Secretaría en coordinación con la Secretaría de Transporte y Vialidad, para prevenir o minimizar sus emisiones contaminantes.
+Los vehículos matriculados en el Distrito Federal, así como de servicio público de transporte de pasajeros o carga que requieran de sistemas, dispositivos y equipos para prevenir o minimizar sus emisiones contaminantes, lo harán conforme a las características o especificaciones que determine la Secretaría.
 
 ###### ARTÍCULO 148.
 
@@ -2068,55 +2306,33 @@ VI. Establecer y aplicar las medidas necesarias para prevenir y reducir al míni
 
 Queda prohibido descargar aguas residuales en cualquier cuerpo o corriente de agua.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 157.
 
-Las fuentes fijas que descarguen aguas residuales distintas a las domésticas, deberán contar con permiso de descarga expedido por la Secretaría.
+Las fuentes que descarguen aguas residuales distintas a las domésticas, deberán tramitar la Licencia Ambiental Única para el Distrito Federal.
 
 ###### ARTÍCULO 158.
 
-Para obtener el permiso de descarga que se señala en el artículo anterior, el responsable de la fuente generadora de las aguas residuales deberá presentar a la Secretaría una solicitud por escrito, acompañándola de la siguiente información:
-
-I. Nombre, domicilio y giro o actividad de la persona física o moral que realice la descarga;
-
-II. Relación de insumos utilizados en los procesos y servicios que generan las descargas de aguas residuales;
-
-III. Planos y descripción de los procesos y servicios de los puntos de descarga;
-
-IV. Volumen y régimen de los distintos puntos de descarga, así como su caracterización físico-química y bacteriológica de la descarga;
-
-V. Nombre y ubicación del sistema receptor;
-
-VI. Plano de localización de las instalaciones para su manejo y control;
-
-VII. Descripción de los sistemas y procesos para el tratamiento de aguas residuales; y
-
-VIII. Descripción de la forma de cumplimiento con las normas correspondientes.
-
-La solicitud deberá acompañarse de la memoria técnica que fundamente la información a que se refiere el presente artículo.
-
-Presentada la solicitud e integrado el expediente, la Secretaría debe emitir en un plazo de treinta días hábiles su resolución fundada y motivada, en la que autorice o niegue el permiso correspondiente. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
+(DEROGADO, G.O. 10 DE FEBRERO DE 2004)
 
 ###### ARTÍCULO 159.
 
-Los permisos de descarga de aguas residuales contendrán:
+(DEROGADO, G.O. 10 DE FEBRERO DE 2004)
 
-I. Ubicación y descripción de la descarga en cantidad y calidad;
-
-II. Los parámetros, así como las concentraciones y cargas máximas permisibles, y en su caso, las condiciones particulares de descarga del permisionario;
-
-III. Obligaciones generales y específicas a las que se sujetará el permisionario para prevenir y controlar la contaminación del agua; y
-
-IV. Forma y plazos en que cumplirá con las condiciones y especificaciones técnicas que señale la Secretaría, para los puntos de descarga autorizados, incluida la construcción de las obras e instalaciones para el manejo y tratamiento de las aguas residuales.
-
-El permiso tendrá una vigencia anual, al término de la cual deberá renovarse.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 160.
 
-Se exceptúa de la obligación de contar con el permiso a que se refiere el artículo anterior a las descargas provenientes de los siguientes usos:
+Se exceptúa de la obligación de contar con la Licencia Ambienta (sic) Única para el Distrito Federal a las descargas provenientes de los siguientes usos:
 
-I. Domésticos, siempre y cuando no se realicen otras actividades industriales o comerciales;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-II. Servicios análogos a los de tipo doméstico, que determine la norma correspondiente; y
+I. Domésticos, siempre y cuando no se relacionen con otras actividades industriales, de servicios, de espectáculos o comerciales, dentro del predio del establecimiento;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+II. Servicios análogos a los de tipo doméstico, que determine la norma correspondiente, siempre y cuando se demuestre cumplir con lo establecido en las normas oficiales mexicanas y normas ambientales para el Distrito Federal, y
 
 III. Aquellos que determinen las normas ambientales para el Distrito Federal.
 
@@ -2138,7 +2354,9 @@ I. Corresponde al Gobierno y a la sociedad prevenir la contaminación del suelo;
 
 II. Deben ser controlados los residuos que constituyan la principal fuente de contaminación de los suelos;
 
-III. Es necesario prevenir y reducir la generación de residuos sólidos e industriales no peligrosos, incorporando técnicas, ecotecnias y procedimientos para su reuso y reciclaje;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+III. Es necesario prevenir y reducir la generación de residuos, incorporando técnicas, ecotecnias y procedimientos para su reuso y reciclaje;
 
 IV. Promover y fomentar la instrumentación de sistemas de agricultura, que no degraden ni contaminen; y
 
@@ -2148,13 +2366,19 @@ V. En los suelos contaminados, deberán llevarse a cabo las acciones necesarias 
 
 Los criterios para la prevención y control de la contaminación del suelo deberán considerarse en:
 
-I. La expedición de normas para el funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos e industriales no peligrosos, a fin de evitar riesgos y daños a la salud y al ambiente;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+I. La expedición de normas para el funcionamiento de los sistemas de recolección, almacenamiento, transporte, acopio, alojamiento, reuso, tratamiento y disposición final de residuos sólidos, a fin de evitar riesgos y daños a la salud y al ambiente;
 
 II. La ordenación y regulación del desarrollo urbano, turístico, industrial y agropecuario;
 
-III. La generación, manejo, tratamiento y disposición final de residuos sólidos e industriales no peligrosos, así como en las autorizaciones y permisos que al efecto se otorguen;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-IV. La autorización y operación de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de residuos sólidos e industriales no peligrosos; y
+III. La generación, manejo, tratamiento y disposición final de residuos, así como en las autorizaciones y permisos que al efecto se otorguen;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+IV. La autorización y operación de los sistemas de recolección, almacenamiento, transporte, acopio, alojamiento, reuso, tratamiento y disposición final de residuos sólidos peligrosos; y
 
 V. El otorgamiento de todo tipo de autorizaciones para la fabricación, comercialización, utilización y en general la realización de actividades relacionadas con plaguicidas, fertilizantes y sustancias tóxicas.
 
@@ -2182,53 +2406,71 @@ Quienes realicen obras o actividades en las que se generen residuos de construcc
 
 #### SECCIÓN I. RESIDUOS NO PELIGROSOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 169.
 
-Durante las diferentes etapas del manejo de residuos sólidos e industriales no peligrosos, se prohibe:
+Durante las diferentes etapas del manejo de residuos sólidos, se prohíbe:
 
 I. El depósito o confinamiento en sitios no autorizados;
 
 II. El fomento o creación de basureros clandestinos;
 
-III. El depósito o confinamiento de residuos sólidos e industriales no peligrosos en suelos de conservación ecológica o áreas naturales protegidas;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+III. El depósito o confinamiento de residuos sólidos en suelo de conservación ecológica o áreas naturales protegidas;
 
 IV. La quema de dichos residuos sin los mecanismos de prevención de generación de contaminantes adecuados, ni de su autorización;
 
-V. La dilución o mezcla de residuos sólidos o industriales no peligrosos o peligrosos en cualquier líquido y su vertimiento al sistema de alcantarillado o sobre los suelos con o sin cubierta vegetal;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-VI. La mezcla de residuos peligrosos con residuos sólidos o industriales no peligrosos;
+V. La dilución o mezcla de residuos sólidos o peligrosos en cualquier líquido y su vertimiento al sistema de alcantarillado o sobre los suelos con o sin cubierta vegetal;
 
-VII. El transporte inadecuado de desechos sólidos e industriales no peligrosos; y
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VI. La mezcla de residuos peligrosos con residuos sólidos;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VII. El transporte inadecuado de residuos sólidos; y
 
 VIII. El confinamiento o depósito final de residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las normas oficiales mexicanas o las normas ambientales para el Distrito Federal.
 
 La mezcla de residuos no peligrosos con peligrosos, se considerará como un residuo peligroso.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 170.
 
-Es responsabilidad de la Secretaría elaborar programas para reducir la generación de residuos no peligrosos.
+Es responsabilidad de la Secretaría elaborar programas para reducir la generación de residuos.
 
-La generación, la separación, el acopio, el almacenamiento, transporte y disposición final de los residuos sólidos e industriales no peligrosos, estarán sujetas al Reglamento de ésta Ley y a la normatividad correspondiente.
+La generación, la separación, el acopio, el almacenamiento, transporte y disposición final de los residuos sólidos, estarán sujetas al Reglamento de esta Ley y a la normatividad correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 171.
 
-En materia de residuos no peligrosos, corresponde a la Secretaría:
+En materia de residuos sólidos, corresponde a la Secretaría:
 
 I. Expedir normas ambientales para el Distrito Federal en materia de generación y manejo;
 
-II. Autorizar, en los términos del reglamento respectivo, la instalación y operación, por parte del generador, de sistemas para el tratamiento, recuperación, separación, reciclaje, incineración y disposición final fuera de la instalación donde se generen dichos residuos;
+II. (DEROGADA, G.O. 10 DE FEBRERO DE 2004)
 
 III. Inspeccionar y vigilar el cumplimiento de esta ley, su reglamento, las normas oficiales mexicanas y las normas ambientales para el Distrito Federal en materia de generación y manejo, y en su caso imponer las sanciones que correspondan; y
 
 IV. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por la generación, manejo, tratamiento y disposición final.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 172.
 
-Para la obtención de las autorizaciones a que se refiere en la fracción II del artículo anterior, los interesados deberán presentar la solicitud correspondiente ante la Secretaría en los formatos que ésta determine para tal efecto. Una vez presentada la solicitud la Secretaría deberá resolver en un plazo no mayor a treinta días hábiles, transcurrido el cual se entenderá negada la autorización.
+Para la obtención de la autorización como generador de residuos sólidos, los interesados deberán presentar la solicitud de Licencia Ambiental Única para el Distrito Federal ante la Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 173.
 
-Cuando la generación, manejo y disposición final de residuos sólidos e industriales no peligrosos produzca contaminación del suelo, independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a:
+Cuando la generación, manejo y disposición final de residuos sólidos produzca contaminación del suelo, independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a:
 
 I. Llevar a cabo las acciones necesarias para recuperar y restablecer las condiciones del suelo; y
 
@@ -2238,9 +2480,11 @@ La responsabilidad a que se refiere este precepto es de carácter objetivo y par
 
 Son responsables solidarios por los daños que se produzcan tanto el generador como las empresas que presten los servicios de manejo, transporte y disposición final de los residuos sólidos e industriales no peligrosos.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 174.
 
-Los residuos no peligrosos que sean usados, tratados o reciclados, en un proceso distinto al que los generó, dentro del mismo predio, serán sujetos a un control interno por parte del generador, de acuerdo con lo que establezca el reglamento de la presente Ley.
+Los residuos no peligrosos que sean usados, tratados o reciclados, en un proceso distinto al que los generó, dentro del mismo predio, serán sujetos a un control interno por parte del generador, de acuerdo con lo que establezca la normatividad correspondiente.
 
 #### SECCIÓN II. REGLAS COMPLEMENTARIAS EN MATERIA DE RESIDUOS PELIGROSOS
 
@@ -2264,9 +2508,11 @@ En caso de que se detecten irregularidades o violaciones en el manejo de los res
 
 #### SECCIÓN III. ACTIVIDADES RIESGOSAS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 176.
 
-El reglamento de esta Ley y las normas ambientales para el Distrito Federal, establecerán la clasificación de las actividades que deban considerarse riesgosas, en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, de los materiales que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento.
+El reglamento de esta Ley y las normas ambientales para el Distrito Federal, establecerán la clasificación de las actividades que deban considerarse riesgosas, en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, de los materiales que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento, así como los casos en los que por las sustancias que maneje el establecimiento, deba tramitar su Licencia Ambiental Única para el Distrito Federal.
 
 Para el establecimiento de esta clasificación, se deberá considerar la opinión de las autoridades competentes.
 
@@ -2276,9 +2522,11 @@ Quienes realicen actividades riesgosas, que por sus características no estén s
 
 Una vez presentado el estudio de riesgo y el programa de prevención de accidentes, la Secretaría deberá resolver sobre su autorización en los plazos que establezca el reglamento.
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 178.
 
-Sin perjuicio de lo dispuesto en la presente Ley en materia de estudios de riesgo, las personas que realicen actividades riesgosas no reservadas a la Federación, deberán observar las medidas preventivas, de control y correctivas establecidas en las normas oficiales o determinadas por las autoridades competentes conforme a la Ley de Protección Civil para el Distrito Federal y las demás disposiciones aplicables, para prevenir y controlar accidentes que puedan afectar la integridad de las personas o del ambiente.
+Sin perjuicio de lo dispuesto en la presente Ley en materia de evaluación de impacto ambiental y riesgo, las personas que realicen actividades riesgosas no reservadas a la Federación, deberán observar las medidas preventivas, de control y correctivas establecidas en las normas oficiales o determinadas por las autoridades competentes conforme a la ley de Protección Civil para el Distrito Federal y las demás disposiciones aplicables, para prevenir y controlar accidentes que puedan afectar la integridad de las personas o del ambiente.
 
 ###### ARTÍCULO 179.
 
@@ -2288,7 +2536,9 @@ La Administración Pública del Distrito Federal publicará en la Gaceta Oficial
 
 Para evitar o reducir los riesgos ambientales con motivo de la realización de actividades riesgosas, corresponde a la Secretaría:
 
-I. Evaluar y, en su caso aprobar, los estudios de riesgo ambiental, así como los programas para la prevención de accidentes y atención a contingencias;
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+I. Evaluar y, en su caso aprobar, los estudios de riesgo ambiental;
 
 II. Establecer condiciones de operación y requerir la instalación de equipos o sistemas de seguridad;
 
@@ -2320,6 +2570,8 @@ La Secretaría o las Delegaciones propondrán al Jefe de Gobierno el establecimi
 
 ### CAPÍTULO III. DE LOS LABORATORIOS AMBIENTALES
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 182.
 
 La Secretaría emitirá Programas de Contingencia Ambiental en los que se establecerán las condiciones ante las cuales es procedente la determinación de estado de contingencia, así como las medidas aplicables para hacerles frente.
@@ -2342,9 +2594,13 @@ En situación de contingencia ambiental, los responsables de fuentes de contamin
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ## TÍTULO SEXTO. DE LOS PRESTADORES DE SERVICIOS AMBIENTALES
 
 ### CAPÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 187.
 
@@ -2366,6 +2622,8 @@ En ningún caso podrá prestar servicios ambientales directamente o a través de
 
 ### CAPÍTULO III. MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 191.
 
 La Secretaría, atendiendo a las necesidades de los servicios de verificación de fuentes móviles de su competencia, expedirá, previa convocatoria pública, autorizaciones a los interesados que cumplan los requisitos correspondientes. Para tal efecto, la Secretaría publicará las convocatorias en la Gaceta Oficial, en las cuales se determinarán los elementos materiales y humanos y demás condiciones que deberán reunir los centros de verificación para obtener la autorización, las normas y procedimientos de verificación que se deberán observar, así como el número y ubicación de las instalaciones de los verificadores ambientales.
@@ -2374,9 +2632,29 @@ La Secretaría, atendiendo a las necesidades de los servicios de verificación d
 
 Quienes realicen verificaciones de vehículos automotores y entreguen los documentos que acrediten su aprobación sin contar con la autorización correspondiente, serán sancionados en los términos de esta Ley y las demás disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+Será revocada la autorización a los centros de verificación vehicular que presten el servicio de verificación a un vehículo, realizando pruebas trampeadas con la finalidad de modificar los resultados para lograr la aprobación de emisiones de algún vehículo, como son:
+
+I.- Alterar el equipo o la toma de la muestra;
+
+II.- Verificar un vehículo para aprobar otro;
+
+III.- Capturar la información de identidad de un vehículo que no corresponda al que realmente efectuó la prueba; y
+
+IV.- Usar cualquier dispositivo o sistema no autorizado.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 193.
 
-Los centros de verificación vehicular deberán obtener y mantener vigente una fianza para garantizar el cumplimiento de las obligaciones y condiciones establecidas en esta Ley, su Reglamento, el Programa de Verificación Vehicular, la autorización y circulares correspondientes, así como el buen uso de la documentación que acredite la verificación de los vehículos y el pago de multas correspondientes por verificaciones extemporáneas, expedida por compañía autorizada por el equivalente a dos mil días de salario mínimo. La fianza deberá permanecer en vigor durante el tiempo que dure la autorización.
+Los centros de verificación vehicular deberán obtener y mantener vigentes las siguientes pólizas de:
+
+I. Fianza para garantizar el cumplimiento de las obligaciones y condiciones establecidas en esta Ley, su Reglamento, el programa de Verificación Vehicular, la autorización y circulares correspondientes, expedida por compañía autorizada por el equivalente a once mil quinientos días de salario mínimo general vigente.
+
+II.- Fianza que garantice el buen uso, posesión, manejo extravío, destrucción, pérdida por cualquier motivo o deterioro de la constancia de verificación que se utilice en el Programa de Verificación Vehicular vigente; así como la devolución oportuna del remanente de la documentación oficial, al término de cada uno de los periodos de verificación o en el caso de que el Centro de Verificación Vehicular deje de prestar el servicio y cuidado de los documentos referidos, considerando que el valor unitario deberá ser de 3 días de salario mínimo general vigente, por un monto total y cantidad que se considere conveniente. La vigencia de esta fianza deberá renovarse durante el tiempo en que permanezca en vigor la autorización.
+
+III.- Seguro que ampare la constancia de verificación que se utilice en el Programa de Verificación Vehicular vigente, contra los riesgos de incendio, inundación, robo con violencia y/o asalto y terremoto, considerando que el valor unitario deberá ser de 3 días de salario mínimo general vigente, por un monto total y cantidad que se considere conveniente. La vigencia de este seguro deberá renovarse durante el tiempo en que permanezca en vigor la autorización.
 
 ###### ARTÍCULO 194.
 
@@ -2466,15 +2744,25 @@ IV. Llevar un registro con la información de las operaciones de mantenimiento y
 
 V. Dar aviso a la Secretaría cuando dejen de prestar el servicio de suministro y mantenimiento de equipos y programas de cómputo;
 
-VI. Presentar y mantener en vigor una fianza de tres mil días de salario mínimo, para garantizar el cumplimiento de las obligaciones y la confidencialidad de los sistemas de seguridad, durante la vigencia de la autorización, misma que se hará efectiva en los casos que la prestación del servicio contravenga las disposiciones aplicables; y
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
-VII. Prestar sus servicios de conformidad con lo (sic) contratos autorizados por la Secretaría.
+VI. Presentar y mantener en vigor una fianza de tres mil días de salario mínimo, para garantizar el cumplimiento de las obligaciones y la confidencialidad de los sistemas de seguridad, durante la vigencia de la autorización, misma que se hará efectiva en los casos que la prestación del servicio contravenga las disposiciones aplicables;
+
+> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VII. Prestar sus servicios de conformidad con los contratos autorizados por la Secretaría; y
+
+> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+
+VIII. Dar una póliza de fianza a los centros de verificación, para garantizar el cumplimiento por sus servicios que incluya mano de obra y refacciones.
 
 ### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
 
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 200.
 
-La Secretaría establecerá los lineamientos para autorizar laboratorios ambientales de análisis de contaminantes en el aire, agua, suelo, subsuelo, materiales o residuos, atendiendo las acreditaciones de las Entidades Mexicanas de Acreditación de conformidad con la Ley Federal sobre Metrología y Normalización.
+La Secretaría establecerá los lineamientos y procedimientos para autorizar laboratorios ambientales de análisis de contaminantes en el aire, agua, suelo, subsuelo, materiales o residuos, atendiendo las acreditaciones y reconocimientos que de conformidad con la Ley Federal sobre Metrología y Normalización, hayan obtenido dichos laboratorios.
 
 ## TÍTULO SÉPTIMO. MEDIDAS DE CONTROL, DE SEGURIDAD Y SANCIONES
 
@@ -2482,133 +2770,283 @@ La Secretaría establecerá los lineamientos para autorizar laboratorios ambient
 
 ###### ARTÍCULO 201.
 
-Las disposiciones de este título se aplicarán en los procedimientos de verificación, inspección, vigilancia, medidas de seguridad y sanciones en los asuntos previstos en esta Ley, así como en materia del recurso de inconformidad en contra de los actos y resoluciones emitidos por las autoridades ambientales previstas en este ordenamiento.
+Las disposiciones contenidas en el presente título, se aplicarán en los procedimientos que lleven a cabo las autoridades ambientales competentes para comprobar el cumplimiento de las disposiciones contenidas en la presente Ley, y en los reglamentos, decretos, normas ambientales, acuerdos, y demás disposiciones jurídicas que de la misma se deriven. Asimismo, dichas disposiciones serán observadas en la imposición de medidas de seguridad, correctivas, de urgente aplicación y sanciones.
 
-En las materias anteriormente señaladas, se aplicarán supletoriamente las disposiciones de la Ley de Procedimiento Administrativo del Distrito Federal.
+Los procedimientos en materia de inspección y vigilancia ambiental estarán sujetos a los principios de prevención de daños ambientales, oportunidad en la detección de ilícitos y justa reparación de los daños ocasionados al ambiente y sus elementos.
+
+Serán de aplicación supletoria al presente Título, en el orden que se indica, las disposiciones de la Ley de Procedimiento Administrativo y del Código de Procedimientos Civiles, del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 201 Bis.
+
+La Secretaría organizará y coordinará el servicio de inspección y vigilancia ambiental del Distrito Federal, con el propósito de establecer los criterios y lineamientos que se habrán (sic) observarse por las distintas unidades administrativas del gobierno del Distrito Federal que realicen acciones para verificar el cumplimiento de las disposiciones jurídicas señaladas en el artículo 201 de esta Ley, así como para fortalecer la capacitación y profesionalización de los servidores públicos que participen en dichas tareas.
 
 ### CAPÍTULO VI. DE LA RESPONSABILIDAD POR EL DAÑO AMBIENTAL
 
 ###### ARTÍCULO 202.
 
-Las autoridades ambientales a que se refiere el artículo 6° de esta Ley, de conformidad con la distribución de competencias que esta ley establece, podrán realizar actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento.
+Para verificar el cumplimiento de las disposiciones de esta Ley y sus reglamentos, las autoridades ambientales competentes deberán realizar según corresponda, visitas domiciliarias o actos de inspección, a través de personal debidamente autorizado por la Secretaría. Asimismo, dichas autoridades podrán iniciar procedimientos de inspección en los casos a que se refieren los artículos 195, último párrafo, y 202 Bis.
+
+Al realizar las visitas domiciliarias o los actos de inspección, dicho personal deberá contar con el documento oficial que lo acredite o autorice a practicar la actuación correspondiente, así como con la orden escrita debidamente fundada y motivada expedida por la autoridad competente.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 202 Bis.
+
+Las autoridades ambientales competentes podrán requerir a los obligados o a otras autoridades, información relacionada con el cumplimiento de las disposiciones jurídicas a que se refiere el artículo 201.
+
+Cuando de la información recabada por las autoridades ambientales competentes se desprenda la presunción fundada de violación o incumplimiento de la normatividad ambiental que corresponda, dichas autoridades podrán instaurar el respectivo procedimiento administrativo de inspección, debiendo emplazar al mismo al probable infractor, de conformidad con lo dispuesto en el artículo 207 de este ordenamiento.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 202 Bis 1.
+
+Para llevar a cabo las visitas domiciliarias la autoridad ambiental competente expedirá una orden escrita, fundada y motivada en la que se señalará la persona a visitar; el domicilio donde se practicará la inspección, el objeto de la diligencia y su alcance.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+ARTÍCULO 202 BIS 2.- Los actos de inspección a que se refiere el artículo 202 de esta Ley, tendrán por objeto verificar el cumplimiento de las disposiciones jurídicas señaladas en el artículo 201, cuando se trate del transporte por cualquier medio de bienes o recursos naturales, o del aprovechamiento, extracción, posesión y afectación de los bienes o recursos naturales regulados por estas disposiciones jurídicas, siempre que no sea posible identificar a la persona responsable de los hechos a verificar y el lugar exacto donde se realizan los mismos.
+
+Para llevar a cabo los actos de inspección en los supuestos antes señalados, la autoridad ambiental competente expedirá una orden escrita, fundada y motivada, en la que se indique que está dirigida al propietario, poseedor u ocupante del medio de transporte, bien o recurso natural de que se trate, o al responsable del aprovechamiento, extracción, posesión o afectación de los bienes o recursos naturales respectivos. Asimismo, se señalará el lugar o zona donde se practicará la diligencia lo cual quedará satisfecho al indicarse los puntos físicos de referencia, las coordenadas geográficas o cualquier otro dato que permita la ubicación concreta del lugar o la zona donde se practicará el acto de inspección; así como el objeto de la diligencia y su alcance.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 203.
 
-El personal autorizado, al realizar las visitas de inspección, deberá contar con el documento oficial que lo acredite o autorice a practicar la inspección, así como la orden escrita debidamente fundada y motivada, expedida por la autoridad competente, en la que se precisará el lugar o la zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de esta.
+Las visitas domiciliarias o los actos de inspección podrán entenderse con cualquier persona que se encuentre en el lugar o bien a inspeccionar, sin que ello afecte la validez de la diligencia. El personal autorizado deberá exhibirle a la persona con quien se entienda la diligencia, la credencial vigente con fotografía, expedida por la Secretaría que lo acredite para realizar la visita o acto correspondiente. Además, le deberá exhibir y entregar la orden respectiva con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
 
-Al iniciar la inspección se identificará debidamente con la persona con quien se entienda la diligencia, exhibirá la orden respectiva y entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
+En caso de que la persona con quien se entienda la diligencia se niegue a designar los testigos de asistencia o los que designe no acepten fungir como testigos, el personal autorizado para practicar la verificación podrá designarlos haciendo constar esta situación en el acta administrativa que al efecto se levante sin que esta circunstancia invalide los efectos de la actuación.
 
-En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de inspección.
+Cuando en el domicilio, lugar o zona donde se practique la diligencia de inspección, no existan personas que puedan fungir como testigos de asistencia, se podrá llevar a cabo la visita correspondiente siempre que la persona con la que se entienda la misma manifieste su consentimiento para ello, situación que se hará constar en el acta que se levante al efecto, lo cual no afectará la validez de la actuación.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 204.
 
-La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección, en los términos previstos en la orden escrita a que se refiere este capítulo, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones aplicables, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a ley, debiendo la autoridad mantener absoluta reserva si así lo solicita el interesado, salvo caso de requerimiento judicial.
+La persona con quien se entienda una visita domiciliaria o acto de inspección, estará obligada a permitir al personal autorizado el acceso al lugar o lugares donde se deba practicar la diligencia, en los términos previstos en la orden escrita correspondiente, así como a proporcionar al personal que ejecute la visita, toda clase de información que conduzca a cumplir con el objeto de la orden respectiva, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a las disposiciones jurídicas aplicables, debiendo la autoridad mantenerlos en absoluta reserva sí así lo solicita el interesado, salvo que la información sea pública en los términos de la Ley de Acceso a la Información Pública del Distrito Federal o de cualquier otro ordenamiento jurídico aplicable.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 205.
 
-La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
+La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar una visita domiciliaria o un acto de inspección, así como cualquier otra actuación que determine con motivo de los procedimientos que inicie.
+
+Lo anterior, sin perjuicio de las sanciones o medios de apremio que procedan para las personas que obstaculicen o se opongan a la práctica de la diligencia de que se trate.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 205 Bis.
+
+Las visitas domiciliarias y actos de inspección que practiquen las autoridades ambientales serán ordinarios o extraordinarias. Serán ordinarias las que se inicien en días y horas hábiles, y extraordinarias las que se inicien en días y horas inhábiles.
+
+Para la práctica de visitas domiciliarias o actos de inspección extraordinarias, la autoridad ambiental ordenadora deberá habilitar los días y/o las horas inhábiles en que se practicará la diligencia, señalando las razones que se tiene para ello.
+
+Las visitas domiciliarias o actos de inspección podrán iniciarse en días y horas hábiles, y concluir en días y horas inhábiles; y viceversa, lo cual no afectará la validez de la diligencia.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 206.
 
-De toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia.
+De toda visita o acto de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, así como la información referida en el artículo 103 de la Ley de Procedimiento Administrativo del Distrito Federal.
 
-Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule sus observaciones con relación a los hechos u omisiones asentados en el acta respectiva y para que ofrezca las pruebas que considere convenientes, sin perjuicio de que pueda ejercer estos derechos en el plazo a que se refiere el artículo siguiente.
+Concluida la visita domiciliaria o acto de inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule sus observaciones con relación a los hechos u omisiones asentados en el acta respectiva y para que ofrezca las pruebas que considere convenientes; además, se le hará saber al interesado que puede ejercer ese derecho dentro de un plazo de cinco días hábiles contados a partir del día siguiente a la fecha en que concluya la diligencia.
 
-A continuación, se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y el personal autorizado, quien entregará copia del acta al interesado.
+A continuación, se procederá a firmar el acta por la persona con quien se entendió la actuación, por los testigos y el personal que practicó la diligencia, quien entregará copia del acta al interesado.
 
-Si la persona con la que se entendió la diligencia o los testigos se negaren a firmar el acta, o se negaré el interesado a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez.
+Si la persona con la que se entendió la diligencia o los testigos se negaren a firmar el acta, o se negare la persona con la que se entendió la actuación a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 206 Bis.
+
+Una vez iniciada una visita domiciliaria o acto de inspección, será procedente la suspensión de la diligencia, cuando:
+
+I. Se suscite algún accidente que imposibilite materialmente su continuación;
+
+II. Las circunstancias de tiempo impidan su continuación; o
+
+III. Lo acuerden las personas que intervengan en la actuación, en razón de la complejidad o amplitud de los hechos a verificar.
+
+En aquellos casos en los que se suspenda una visita domiciliaria o acto de inspección, se hará constar tal situación en el acta correspondiente, sin que en el momento se tenga por concluida la actuación; además se señalará la fecha y hora en que se continuará con la diligencia, que deberá ser al día siguiente, salvo casos excepcionales debidamente justificados, en los cuales se podrá reanudar en un plazo máximo de cinco días hábiles. El acta respectiva deberá ser firmada por todas las personas que intervengan en la diligencia.
+
+Cuando la persona con la que se entienda la diligencia o los testigos de asistencia no se presentaren en la fecha y hora fijada en el acta para la continuación de la diligencia, el personal de la autoridad ambiental que practique la verificación podrá reanudar la misma con la persona que se encuentre en el lugar y con otros testigos de asistencia, que serán nombrados en la forma que se señala en el artículo 203 de la presente Ley; situación que se hará constar en el acta respectiva y ello no afectará la validez de la diligencia.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 207.
 
-Recibida el acta de inspección por la autoridad ordenadora, ésta requerirá al interesado, mediante acuerdo debidamente fundado y motivado, por notificación personal o correo certificado con acuse de recibo, para que implemente de inmediato las medidas correctivas o aquellas de urgente aplicación, necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda, y para que en el término de diez días hábiles manifieste lo que a su derecho convenga y ofrezca las pruebas que considere convenientes.
+Cuando de las actas levantadas en las visitas domiciliarias o actos de inspección se desprendan actos, hechos u omisiones que constituyan presuntas violaciones o incumplimiento de las disposiciones referidas en el artículo 201 de esta Ley, o en los supuestos a que se refieren los artículo (sic) 195 y 202 Bis, la autoridad ambiental ordenadora emplazará al probable responsable, mediante acuerdo fundado y motivado, para que dentro del plazo de diez días hábiles manifiesto (sic) lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes en relación con las probables infracciones, daños o afectaciones que se le imputen.
+
+Asimismo, la autoridad ambiental podrá ordenar al presunto infractor, en el acuerdo de emplazamiento respectivo, la ejecución de medidas correctivas o de urgente aplicación necesarias para subsanar las irregularidades, daños o afectaciones detectadas en la visita domiciliaria o acto de inspección, en cuyo caso se señalará el plazo y demás especificidades que deberán ser observadas por los responsables.
+
+El emplazamiento al procedimiento administrativo deberá hacerse dentro del término de quince días, contados a partir del día en que se hubiere cerrado la visita domiciliaria o acto de inspección.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 207 Bis.
+
+Las personas a las que se les hubiesen ordenado las medidas correctivas o de urgente aplicación, deberán informar a la autoridad ambiental ordenadora, dentro de un plazo de diez días hábiles, contados a partir del día siguiente a la fecha en que concluya el plazo que se les hubiere señalado para su cumplimiento, sobre las acciones realizadas al efecto, anexando en su caso las pruebas que sustenten su informe.
+
+La autoridad ambiental ordenadora podrá otorgar una sola prórroga para el cumplimiento de las medidas correctivas o de urgente aplicación, en los siguientes supuestos:
+
+I. Cuando existan elementos de prueba en el expediente respectivo que acrediten la imposibilidad material para cumplir con las mismas en el plazo señalado originalmente; o
+
+II. Se acredite la existencia de causas ajenas a la voluntad de las personas obligadas, que hubieran impedido o imposibilitado su cumplimiento.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 208.
 
-Transcurrido el término a que se refiere el artículo anterior y dentro de los veinte días hábiles siguientes, la autoridad emitirá la resolución administrativa correspondiente, debidamente fundada y motivada, misma que se notificará al interesado, y en la cual se señalarán o en su caso ratificarán o adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerla y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
+Transcurrido el plazo para que la persona o personas interesadas manifiesten lo que a su derecho convenga y ofrezcan las pruebas que consideren para su defensa, sin que éstas hubiesen hecho uso de su derecho, o cuando se hubiere hecho uso de tal derecho y ya no existan diligencias pendientes de desahogo, la autoridad ambiental correspondiente, emitirá la resolución administrativa dentro de los veinte días hábiles siguientes.
+
+La resolución administrativa referida en el párrafo que antecede deberá estar debidamente fundada y motivada, y se notificará a la persona o personas interesadas personalmente o por correo certificado con acuse de recibo.
+
+En dicha resolución administrativa se tendrán por cumplidas, o en su caso se ratificarán o adicionarán, las medidas correctivas o de urgente aplicación que correspondan.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 208 Bis.
+
+Si durante la tramitación de un procedimiento de inspección se allegaran al expediente respectivo, elementos de prueba que acrediten la existencia de hechos diversos a los que dieron origen a tal actuación, que puedan constituir presuntas infracciones o violaciones a la normatividad referida en el artículo 201 de este ordenamiento, la autoridad ambiental que tramita el expediente podrá iniciar un nuevo procedimiento e integrar otro expediente por tales hechos, con un desglose de copias certificadas de las constancias que para ello se requieran.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+ARTÍCULO 208 Bis (sic).- Durante el procedimiento y antes de que se dicte resolución, las autoridades administrativas y los presuntos infractores podrán convenir la realización de las acciones de restauración o compensación de daños necesarias para la corrección de las irregularidades detectadas por las propias autoridades ambientales , siempre que ello no afecte el cumplimiento de disposiciones jurídicas.
+
+En todo caso las autoridades ambientales competentes deberán cuidar que se garantice debidamente la ejecución de los convenios por parte de quienes asuman obligaciones de restauración o compensación.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 209.
 
 Dentro de los cinco días hábiles siguientes al vencimiento del plazo otorgado al infractor para subsanar las deficiencias e irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento o resolución respectiva.
 
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 209 Bis.
+
+De conformidad con lo que establezca el reglamento de este ordenamiento, las autoridades ambientales podrán aplicar mecanismos alternativos para la solución de conflictos derivados de infracciones a las disposiciones jurídicas a que se refiere el artículo 201 del mismo. Dentro de dichos mecanismos, se podrán considerar la mediación, el arbitraje y la conciliación.
+
+En ningún caso los mecanismos alternativos de solución de conflictos pueden implicar eximir de responsabilidad a los responsables de violaciones o incumplimientos de la normatividad ambiental y tendrán por objeto resarcir daños al ambiente y a los recursos naturales.
+
+El reglamento conciliará la aplicación de los mecanismos anotados y los procedimientos de verificación que instauren las autoridades ambientales.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 210.
 
-Corresponde a la Secretaría realizar la vigilancia de las actividades en vía pública, áreas naturales protegidas y suelo de conservación para prevenir y sancionar la comisión de infracciones a la presente Ley. Los vigilantes asignados a esta función deberán estar debidamente acreditados en los términos del reglamento de esta Ley y en sus actuaciones observarán, en lo aplicable, las disposiciones relativas a los actos de inspección y verificación.
+Corresponde a la Secretaría y a las delegaciones realizar la vigilancia de las actividades en vía pública, áreas naturales protegidas y suelo de conservación para prevenir y sancionar la comisión de infracciones a la presente Ley. Los vigilantes ecoguardas asignados a esta función deberán estar debidamente acreditados por la Secretaría en los términos del reglamento de esta Ley y en sus actuaciones observarán, en lo aplicable, las disposiciones relativas a las visitas domiciliarias y actos de inspección señaladas en este Título.
 
 ### CAPÍTULO VII. DE LOS DELITOS AMBIENTALES
 
 ###### ARTÍCULO 211.
 
-De existir riesgo ambiental inminente de desequilibrio ecológico, casos de contaminación con repercusiones peligrosas para la salud, para los ecosistemas, sus componentes, u operación indebida de programas de cómputo y equipos, que alteren la verificación vehicular, permitiendo la circulación de vehículos que emitan contaminantes excediendo la norma, la Secretaría, en forma fundada y motivada, podrá ordenar inmediatamente alguna o algunas de las siguientes medidas de seguridad:
+De existir riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los ecosistemas o a los recursos naturales, casos de contaminación con repercusiones peligrosas para la salud, para los ecosistemas o sus componentes, operación indebida de programas de cómputo y equipos, o se realicen obras o actividades sin contar con la autorización de impacto ambiental o riesgo debiendo sujetarse ala (sic) obtención previa de ésta, la autoridad ambiental competente, en forma fundada y motivada, podrá ordenar inmediatamente alguna o algunas de las siguientes medidas de seguridad:
 
-I. La neutralización o cualquier acción análoga que impida que las sustancias contaminantes generen los efectos previstos en el primer párrafo de este artículo;
+I. La neutralización o cualquier acción análoga que impida que materiales, sustancias o residuos contaminantes, generen los efectos previstos en el primer párrafo de este artículo;
 
-II. El aseguramiento de materiales, residuos o sustancias contaminantes, autotransportes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de la medida de seguridad en los casos de relleno de barrancas, humedales y zonas intermedias de salvaguarda y el vertimiento de sustancias peligrosas en aguas residuales;
+II. El aseguramiento precautorio de materiales, sustancias o residuos contaminantes; así como de vehículos, utensilios, instrumentos, equipo, herramientas y cualquier bien directamente relacionado con la conducta que da lugar a la imposición de la medida de seguridad;
 
-III. Asegurar, aislar, suspender o retirar temporalmente en forma parcial o total, según corresponda, los bienes, equipos y actividades que generen el peligro o daño;
+III. El Aislamiento o retiro temporal, en forma parcial o total, de los bienes, equipos o actividades que generen el riesgo inminente a que se refiere el primer párrafo de este artículo;
 
-IV. La clausura temporal, parcial o total, de las fuentes contaminantes, así como de las instalaciones en que se manejen o se desarrollen las actividades que den lugar a los supuestos a que se refiere el primer párrafo de este articulo; o
+IV. La clausura temporal, parcial o total, de las fuentes contaminantes, de obras y actividades, así como de las instalaciones en que se desarrollen los hechos que den lugar a los supuestos a que se refiere el primer párrafo de este artículo;
 
-V. Suspensión de obras y actividades.
+V. La suspensión temporal de obras o actividades;
+
+VI. La suspensión temporal de permisos, licencias, concesiones o autorizaciones; y
+
+VII. La realización de las demás acciones que sean necesarias para evitar que continúe suscitándose el riesgo inminente o los demás supuestos a que se refiere el primer párrafo del presente artículo.
+
+Las medidas de seguridad previstas en las fracciones II y IV de este artículo, también serán procedentes cuando se ejecuten obras y actividades sin el permiso, licencia, autorización o concesión correspondientes.
 
 La autoridad podrá solicitar el auxilio de la fuerza pública para ejecutar cualquiera de las acciones anteriores.
 
-En todo caso, la autoridad deberá hacer constar en el acto que al efecto emita las razones por las cuales se considera que los hechos en cuestión constituyen riesgo inminente de desequilibrio ecológico, contaminación con repercusiones peligrosas u operación indebida de la verificación vehicular.
+En todo caso, la autoridad deberá hacer constar en el documento en el que ordene las medidas de seguridad, las razones por las cuales considera que se actualiza el supuesto de procedencia de las mismas.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 211 Bis.
+
+Las personas responsables de los hechos que dan lugar a la imposición de las medidas de seguridad deberán acatar las mismas, sin perjuicio de que las autoridades ambientales realicen las acciones que se requieran para la debida observancia y ejecución de las referidas medidas de seguridad, supuesto en el cual, las personas responsables de los hechos que dieron lugar a la determinación de tales medidas, deberán cubrir los gastos que hubiesen sufragado las autoridades ambientales, por lo que, dichos gastos tendrán el carácter de un crédito fiscal.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 212.
 
-Cuando la autoridad ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
+Cuando la autoridad ordene alguna de las medidas de seguridad previstas en el artículo 211 de esta Ley, indicará al interesado, cuando procedan, las acciones que debe llevar a cabo para subsanar o corregir los hechos que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se dejen sin efectos o se ordene el retiro de las medidas de seguridad impuestas.
 
 ###### ARTÍCULO 213.
 
-. Las violaciones a los preceptos de esta Ley, su reglamento, las normas ambientales del Distrito Federal y demás disposiciones que de ella emanen, serán sancionadas administrativamente por la autoridad, con una o más de las siguientes sanciones:
+Cada una de las infracciones a esta Ley, su reglamento, las normas ambientales del Distrito Federal y demás disposiciones que de ella emanen, serán sancionadas administrativamente por la autoridad, con una o más de las siguientes sanciones:
 
 I. Amonestación con apercibimiento;
 
-II. Multa por el equivalente desde veinte hasta cien mil días de salario mínimo general vigente en la región, al momento de imponer la sanción;
+II. Multa por el equivalente desde veinte hasta cien mil días de salario mínimo general vigente en el Distrito Federal;
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2004)</small>
+III. Clausura temporal o definitiva, parcial o total de las fuentes contaminantes, de las obras y actividades, así como de las instalaciones en que se desarrollen los hechos que den lugar a la imposición de la sanción;
 
-III. Clausura o retiro parcial o total, la demolición de construcciones y la revocación de permisos y licencias otorgadas.
+IV. Arresto administrativo hasta por treinta y seis horas;
 
-En el caso del registro de manifestación de construcción se declarará la nulidad del mismo, independientemente de las sanciones previstas en esta fracción.
+V. Reparación del daño ambiental;
 
-IV. Arresto administrativo hasta por treinta y seis horas; y
+VI. Decomiso de los materiales, sustancias o residuos contaminantes; así como de vehículos, utensilios, instrumentos, equipo, herramientas y cualquier bien directamente relacionado con la conducta que da lugar a la imposición de la sanción;
 
-V. Reparación del daño ambiental.
+VII. Demolición de las obras e instalaciones relacionadas con la conducta que da lugar a la imposición de la sanción; y
+
+VIII. Suspensión temporal o revocación de permisos, licencias, concesiones y/o autorizaciones.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 214.
 
-Para la imposición de las sanciones por infracciones a esta Ley, se tomará en cuenta:
+Para la imposición de las sanciones por infracciones a esta Ley, se tomarán en cuenta:
 
-I. La gravedad de la infracción, considerando los siguientes criterios: impacto a la salud o al ambiente;
+I. Los daños o afectaciones que se hubiesen propiciado o se puedan generar a los recursos naturales, con motivo de los hechos constitutivos de las infracciones de que se trate;
 
-II. Las condiciones económicas del infractor; y
+II. Las condiciones económicas de la persona infractora para determinar que no sea ruinosa o desproporcionada una multa;
 
-III. La reincidencia, si la hubiere.
+III. La reincidencia, si la hubiere; y
+
+IV. El cumplimiento o incumplimiento de medidas correctivas o de seguridad.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 215.
 
-. Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer además de la sanción o sanciones que procedan conforme al presente capitulo, una multa adicional que no exceda de los límites máximos señalados.
+Cuando se trate de segunda o posterior inspección para constatar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer, además de la sanción o sanciones que procedan conforme al presente capítulo, una multa adicional que no exceda de los límites máximos señalados.
 
-Para el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto inicialmente impuesto, sin exceder del doble del máximo permitido, así como la clausura definitiva.
+Para el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto inicialmente impuesto, así como la clausura definitiva.
 
-Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que esta no hubiese sido desvirtuada.
+Se considere reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 216.
 
-. En el caso en que el infractor realice las medidas correctivas o las de urgente aplicación, o subsane las irregularidades en que hubiere incurrido, previamente a la imposición de una sanción y siempre que lo haga del conocimiento de la autoridad dentro del plazo a que se refiere el artículo 207, ésta deberá considerar tal situación como atenuante de la infracción cometida.
+En el caso en que el infractor realice las medidas correctivas o de urgente aplicación, o subsane las irregularidades en que hubiere incurrido, previamente a la imposición de una sanción y siempre que lo haga del conocimiento de la autoridad competente, ésta considerará tal situación como atenuante al momento de dictar la resolución respectiva.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 217.
 
-Cuando se aplique como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla, procederá a levantar acta circunstanciada de la diligencia.
+Cuando se aplique como sanción la clausura temporal o definitiva, el personal comisionado para ejecutarla, procederá a levantar un acta circunstanciada de la diligencia correspondiente.
 
-En los casos en que se imponga como sanción la clausura temporal, la autoridad ambiental deberá indicar al infractor las medidas correctivas y las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+En los casos en que se imponga como sanción la clausura temporal, la autoridad ambiental deberá indicar al infractor las medidas correctivas y las acciones que en su caso debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización a efecto de que sea susceptible el levantamiento de dicha clausura.
+
+> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 217 Bis.
+
+En el caso de que se imponga como sanción la demolición de obras e instalaciones, sin necesidad de recurrir a ningún otro proceso o procedimiento, las autoridades ambientales correspondientes deberán indicar a los infractores los plazos y condiciones para llevar a cabo las acciones respectivas. Si una vez transcurrido dicho plazo o cumplidas las condiciones no se realiza la demolición respectiva, las propias autoridades ambientales podrán realizarlas a costa del infractor, sin que proceda la indemnización ni compensación alguna. Los gastos derivados de las labores de demolición o retiro de materiales llevados a cabo por las autoridades ambientales, constituirán créditos fiscales a favor de las autoridades del Gobierno del Distrito Federal, a cargo de los propios infractores.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 218.
 
-Cuando las autoridades competentes en los términos de esta Ley tengan conocimiento de constancias que se presuman apócrifas, la Administración Pública del Distrito Federal hará la denuncia correspondiente por conducto de la dependencia competente, por los ilícitos que resulten. Los documentos apócrifos serán considerados nulos de pleno derecho. Las autoridades competentes implementarán los mecanismos de información para consulta del público respecto de certificaciones, permisos, licencias y autorizaciones que emitan, en los términos del reglamento de esta Ley.
+Cuando las autoridades ambientales, en los términos de esta Ley tengan conocimiento de constancias que se presuman apócrifas, harán la denuncia correspondiente por los ilícitos que resulten. Los documentos apócrifos serán considerados nulos de pleno derecho. Las autoridades competentes implementarán los mecanismos de información para consulta del público respecto de certificaciones, permisos, licencias y autorizaciones que emitan, en los términos de las disposiciones jurídicas vigentes al respecto.
 
-En el caso de aquellas constancias, certificados, certificaciones, permisos, licencias, autorizaciones o documentos oficiales que hayan sido emitidos con error, dolo o mala fe, la Administración Pública del Distrito Federal, por conducto de la dependencia competente, revocará el acto de que se trate, o en su caso, promoverá el procedimiento de lesividad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal, independientemente de las responsabilidades administrativas o penales que resulten.
+En el caso de aquellas constancias, certificados, certificaciones, permisos, licencias, autorizaciones o documentos oficiales que hayan sido emitidos con error, dolo o mala fe, la Administración Pública del Distrito Federal, por conducto de la dependencia competente, revocará el acto de que se trate, independientemente de las responsabilidades administrativas o penales que resulten.
 
 ###### ARTÍCULO 219.
 
@@ -2699,3 +3137,7 @@ QUINTO. Para los efectos de este Decreto, se considerará Zona de Preservación 
 G.O. 29 DE ENERO DE 2004.
 
 PRIMERO.- En tanto se expidan las disposiciones administrativas que deriven de las presentes adiciones y modificaciones seguirán en vigor aquellas que no las contravengan.
+
+G.O. 10 DE FEBRERO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
