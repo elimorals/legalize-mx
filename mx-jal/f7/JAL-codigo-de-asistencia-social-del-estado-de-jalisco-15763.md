@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2003-12-18"
+last_updated: "2003-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -1465,15 +1465,17 @@ Para los efectos de este ordenamiento, se consideran instituciones de asistencia
 
 La capacidad jurídica de las instituciones de asistencia social privada está circunscrita a los términos marcados por el objeto de su institución, por las disposiciones contenidas en el Código Civil del Estado de Jalisco y por el presente Código.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 92.
 
-Las instituciones de asistencia social privada deberán constituirse, para efectos legales, como fundaciones o asociaciones de acuerdo a lo que prevé la legislación civil en el Capítulo de las Personas Jurídicas.
+Las personas jurídicas que se dediquen a la asistencia social privada, antes de iniciar sus labores, deberán contar con la anuencia del Instituto, debiendo constituirse como fundaciones o asociaciones de acuerdo a lo que prevé la legislación civil en el capítulo de las personas jurídicas.
 
-En los casos no previstos en este título será aplicable el Código Civil del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 93.
 
-El Instituto realizará el registro, análisis y propuesta de la constitución de aquella institución de asistencia social privada (sic) pretenda integrarse al Sistema de Asistencia Social.
+El instituto realizará el análisis de la solicitud de todas las personas jurídicas de asistencia social privada, integrando al Sistema de Asistencia Social a aquellas que, cumpliendo con todos los requisitos exigidos, así se constituyan.
 
 ###### Artículo 94.
 
@@ -2563,7 +2565,7 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO II. De los Conciliadores
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 216.
 
@@ -2577,9 +2579,9 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De los Conciliadores
 
 ###### Artículo 219.
 
@@ -2617,7 +2619,7 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO V (SIC). DE LA ESTADISTICA Y EVALUACION
 
@@ -3023,9 +3025,173 @@ La falta de decoro o respeto en el trato con los adultos mayores, por parte de i
 
 El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la violación a sus derechos por parte de sus familiares, ciudadanos en general o instituciones lucrativas o no, públicas o privadas, se sancionará conforme a la ley respectiva.
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+# LIBRO OCTAVO. DE LA DONACION DE ALIMENTOS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+## TITULO UNICO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+### CAPITULO I. Del Objeto y de las Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 256.
+
+El presente Libro tiene por objeto fomentar, encausar y regular las donaciones gratuitas para la satisfacción de las carencias alimentarias de la población más necesitada del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 257.
+
+Queda prohibido el desperdicio irracional e injustificado de productos alimenticios, cuando estos sean susceptibles de donación para su aprovechamiento altruista por alguna persona jurídica privada de beneficencia reconocida oficialmente por el Instituto.
+
+Los donadores quedarán exentos de la responsabilidad señalada en el párrafo anterior, cuando habiendo dado cuenta a los donatarios, éstos no acudan oportunamente a recoger los alimentos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 258.
+
+Son beneficiarios de las disposiciones de este libro las personas que en el Estado carecen de los medios necesarios para satisfacer sus necesidades alimentarias básicas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 259.
+
+La Secretaría de Salud Jalisco, supervisará la distribución higiénica de los alimentos en las personas jurídicas dedicadas a la donación de alimentos e implementará programas de capacitación y asesoría en la materia.
+
+Así mismo deberá elaborar programas alimentarios considerando las estadísticas y zonas con población en riesgo de desnutrición para encauzar las acciones a dichas zonas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 260.
+
+Los Sistemas para el Desarrollo Integral de la Familia, promoverán la asistencia alimentaria altruista, coordinarán los esfuerzos públicos y privados, así mismo, (sic).
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+### CAPITULO II. De los Bancos de Alimentos
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+### CAPITULO IV. De los Estímulos y Sanciones
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 261.
+
+Los bancos de alimentos son todas aquellas personas jurídicas públicas o privadas de beneficencia que tengan por objeto recibir en donación alimentos, almacenarlos o distribuirlos con la finalidad de satisfacer las carencias alimentarias de la población necesitada del Estado. Estas personas jurídicas estarán sujetas a la legislación sanitaria estatal y federal, además deberán:
+
+I. Tener establecimientos que reúnan las condiciones sanitarias adecuadas para el manejo de alimentos;
+
+II. Tener personal capacitado y equipo para conservar, manejar y transportar higiénicamente los alimentos;
+
+III. Cumplir con las normas oficiales mexicanas y los lineamientos técnicos que al efecto se expidan;
+
+IV. Distribuir los alimentos oportunamente;
+
+V. No comercializar con los alimentos;
+
+VI. Destinar las donaciones a personas de escasos recursos económicos o en situación de necesidad;
+
+VII. Evitar desvíos o mal uso de los alimentos en perjuicio de las personas de escasos recursos, productores, comerciantes o de la hacienda pública;
+
+VIII. Informar anualmente al Instituto de los donativos recibidos y de los aplicados;
+
+IX. Observar las disposiciones administrativas y medidas de control que dicte el Instituto en materia de donación de alimentos mediante instrucciones de carácter general; y
+
+X. Las demás que determine la ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 262.
+
+Se consideran Bancos de Alimentos con reconocimiento oficial a aquellos que obtengan su inscripción con tal carácter ante el Instituto, para tal fin, el Instituto llevará un registro de éstos, los que para obtenerlo deberán:
+
+I. Establecer en sus estatutos que sus directivos no percibirán retribución lucrativa por el desempeño de sus cargos;
+
+II. Que en caso de liquidación, su patrimonio pasará a formar parte de otra personas (sic ) jurídica similar o en su defecto al Instituto; y
+
+III. Contar con un manual de funcionamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 263.
+
+Los bancos de alimentos podrán solicitar una cuota de recuperación que no exceda del diez por ciento del valor comercial del producto, siempre y cuando el beneficiario tenga posibilidades de cubrirla.
+
+La imposibilidad de pagar la cuota de recuperación no será motivo para negar el suministro de alimentos al beneficiario.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 264.
+
+Las cuotas de recuperación y balances financieros de las operaciones de los bancos de alimentos deberán reportarse anualmente al Instituto.
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+### CAPITULO III. De los Donantes de Alimentos
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 265.
+
+Son donantes de alimentos todas aquellas personas físicas o jurídicas que con fines altruistas entregan productos comestibles a los bancos de alimentos para su distribución entre la población más necesitada.
+
+Los productos comestibles a los que se refiere el párrafo anterior deberán reunir las condiciones necesarias de calidad e higiene a fin de ser aptos para el consumo de los beneficiarios.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 266.
+
+Los donantes de alimentos pueden suprimir la marca de los objetos que donen cuando así lo estimen conveniente, conservando los datos que identifiquen la caducidad y descripción del producto. No obstante lo anterior, si alguna empresa patrocina a algún banco de alimentos, sea en especie o en numerario, podrá solicitar se le reconozca su participación.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 267.
+
+Los donantes de alimentos quedan exentos de responsabilidad en caso de daño a la salud de los beneficiarios, siempre y cuando los productos alimenticios cumplan con las condiciones que señala esta ley.
+
+Los Bancos de alimentos sólo serán responsables de los daños que se causen, cuando se acredite que existió negligencia o dolo en la recepción, cuidado o distribución de los productos alimenticios.
+
+###### Artículo 268.
+
+Los donantes podrán acogerse a los estímulos y beneficios que señale la legislación tributaria federal y estatal, así como a los convenios de colaboración que para tal efecto realice el Gobierno del Estado o los ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 269.
+
+El Instituto entregará anualmente un reconocimiento público a los donantes de alimentos que se hayan distinguido por sus contribuciones a favor de los más necesitados.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 270.
+
+Las violaciones a lo establecido por el presente Libro, su reglamento y demás disposiciones que de él emanen, serán sancionadas por la Secretaría o dependencia que corresponda de la administración pública del Estado o de los ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 271.
+
+Se aplicará a petición de parte o de oficio, independientemente de lo dispuesto por otras disposiciones legales, multa de treinta a trescientos días de salario mínimo general vigente en la Zona Metropolitana de Guadalajara a:
+
+I. Los funcionarios públicos, empleados o directivos de los bancos de alimentos que participen en el desvío de alimentos donados y que fueron recibidos por estas personas jurídicas para su distribución, ya sea que se utilicen para su aprovechamiento personal o de terceros que no los requieren. La sanción se aumentará hasta en un cien por ciento cuando se comercialice con estos alimentos;
+
+II. Los que ordenen, participen o practiquen el desperdicio irracional e injustificado de alimentos. Igual sanción recibirán quienes habiéndosele solicitado alimentos en donación no los diere y los desperdiciara injustificadamente; y
+
+III. Los que teniendo conocimiento de que los alimentos no se encuentran aptos para el consumo, ordene o participe en la donación a los bancos de alimentos o la distribución de los mismos entre la población más necesitada.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 272.
+
+Para lo no previsto en el presente Libro se estará a lo señalado en el Libro Tercero de este Código.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ## TRANSITORIOS
 
@@ -3170,3 +3336,15 @@ TERCERO.- Los procedimientos iniciados en la vigencia del Libro Sexto del Códig
 CUARTO.- Una vez entrada en vigor la presente ley, el titular del poder Ejecutivo del Estado deberá, en un plazo de 90 días naturales, expedir el reglamento de la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Jalisco.
 
 QUINTO.- La instalación del nuevo Consejo Estatal se efectuará, 30 días una vez entrada en vigor la presente Ley.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+DECRETO NUMERO 20395.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+DECRETO NUMERO 20402.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
