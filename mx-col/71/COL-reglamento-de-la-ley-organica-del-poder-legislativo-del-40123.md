@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2004-06-19"
+last_updated: "2004-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -583,7 +583,9 @@ II.- Los relacionados con la expedición y reformas de las leyes de ingresos del
 
 III.- Los que se refieran a la creación de impuestos extraordinarios o especiales, estatales y municipales;
 
-IV.- Los que se refieran a los casos previstos en la fracción XXXVIII del artículo 33 de la Constitución;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2004)</small>
+
+IV.- Los que se refieran a los casos previstos en las fracciones XI y XXXVIII, del artículo 33 de la Constitución;
 
 V.- Dictaminar sobre convenios y contratos de crédito o aval que suscriba el Gobierno del Estado;
 
@@ -1081,7 +1083,7 @@ En caso de disolución, sus integrantes podrán incorporarse a otro grupo, siemp
 
 Si un partido político se fusiona a otro y ambos tienen grupo parlamentario en el Congreso, se integrará un nuevo grupo con los Diputados que decidan ser miembros del partido resultante de la fusión, disolviéndose en este caso los anteriores.
 
-### CAPÍTULO X. DE LAS SESIONES
+### CAPITULO X. DE LAS SESIONES
 
 ###### Artículo 104.
 
@@ -1254,6 +1256,10 @@ Las iniciativas dictaminadas y no aprobadas, no podrán volverse a presentar sin
 ###### Artículo 133.
 
 Las comisiones a las que se turnen las iniciativas, rendirán su dictamen al Congreso por escrito en la forma y términos que señalan los artículos 91 y 92 de la Ley y 44 y 79 de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
+
+En los casos en que la Ley, este Reglamento o cualquier otra disposición normativa específica señale un término diferente para la elaboración y presentación a la Asamblea de los dictámenes a cargo de las Comisiones, se estará a lo dispuesto en esos ordenamientos.
 
 ###### Artículo 134.
 
@@ -1996,3 +2002,9 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Dado en el Recinto Oficial del Poder Legislativo a los catorce días del mes de junio del año dos mil cuatro.
 
 Dip. Luis Ávila Aguilar, Presidente. Rúbrica. Dip. José Luis Aguirre Campos, Secretario. Rúbrica. Dip. Margarita Ramírez Sánchez, Secretaria. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE JULIO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
