@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1996-02-09"
+last_updated: "1997-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -12217,7 +12217,9 @@ Las partes no pueden, bajo pena de nulidad, convenir de antemano que los interes
 
 Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente, una, a conceder el uso o goce temporal de una cosa, y la otra, a pagar por ese uso o goce un precio cierto.
 
-El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación; de quince para las fincas destinadas al comercio y de veinte para las fincas destinadas al ejercicio de una industria.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 1997)</small>
+
+El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación; de cuarenta para las fincas destinadas al comercio y de cincuenta para las fincas destinadas al ejercicio de una industria.
 
 ###### Art. 2293.
 
@@ -15834,6 +15836,10 @@ P.O. 9 DE FEBRERO DE 1996.
 ###### ARTICULO SEGUNDO
 
 - El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ENERO DE 1997.
+
+Unico:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
