@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1923-11-24"
+last_updated: "1927-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE NOVIEMBRE DE 1923.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ENERO DE 1927.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -836,31 +836,37 @@ Se deposita el ejercicio del Supremo Poder Ejecutivo de la Unión en un solo ind
 
 La elección del Presidente será directa y en los términos que disponga la ley electoral.
 
+> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 1927)</small>
+
 ###### Art. 82.
 
 Para ser Presidente se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, e hijo de padres mexicanos por nacimiento.
+I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, e hijo de padres mexicanos por nacimiento;
 
-II.- Tener 35 años cumplidos al tiempo de la elección.
+II.- Tener 35 años cumplidos al tiempo de la elección;
 
-III.- Haber residido en el país durante todo el año anterior al día de la elección.
+III.- Haber residido en el país durante todo el año anterior al día de la elección;
 
-IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto.
+IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
-V.- No estar en servicio activo, en caso de pertenecer al Ejército, noventa días antes del día de la elección.
+V.- No estar en servicio activo, en caso de pertenecer al Ejército, un año antes del día de la elección;
 
-VI.- No ser Secretario o Subsecretario de Estado, a menos que se separe de su puesto noventa días antes de la elección.
+VI.- No ser secretario o subsecretario de Estado, ni gobernador de algún Estado, Territorio o del Distrito Federal, a menos de que se separe de su puesto un año antes del día de la elección, y
 
-VII.- No haber figurado, directa o indirectamente en alguna asonada, motín o cuartelazo.
+VII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 83.
+
+> <small>(REFORMADO, D.O.F. 22 DE ENERO DE 1927)</small>
 
 ###### Art. 83.
 
-El Presidente entrará a ejercer su encargo el 1o. de diciembre, durará en él cuatro años, y nunca podrá ser reelecto.
+El Presidente entrará a ejercer su encargo el primero de diciembre del año en que se celebre la elección; durará en él cuatro años, aunque durante este período hubiere obtenido licencia en los casos que permita la Constitución.
 
-El ciudadano que sustituyere al Presidente constitucional, en caso de falta absoluta de éste, no podrá ser electo Presidente para el período inmediato.
+No podrá ser electo para el período inmediato. Pasado éste, podrá desempeñar nuevamente el cargo de Presidente, sólo por un período más. Terminado el segundo período de ejercicio, quedará definitivamente incapacitado para ser electo y desempeñar el cargo de Presidente en cualquier tiempo.
 
-Tampoco podrá ser reelecto Presidente para el período inmediato, el ciudadano que fuere nombrado Presidente interino en las faltas temporales del Presidente constitucional.
+El ciudadano que substituyere al Presidente Constitucional, en caso de falta absoluta de éste, no podrá ser electo Presidente para el período inmediato.
+
+Tampoco podrá ser electo para el período inmediato el ciudadano que fuere nombrado Presidente interino en las faltas temporales del Presidente Constitucional.
 
 ###### Art. 84.
 
@@ -1523,5 +1529,9 @@ D.O.F. 8 DE JULIO DE 1921.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
 
 D.O.F. 24 DE NOVIEMBRE DE 1923.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+
+D.O.F. 22 DE ENERO DE 1927.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
