@@ -4,7 +4,7 @@ identifier: "GRO-ley-sobre-el-sistema-estatal-de-asistencia-social-numero-332-51
 country: "mx"
 rank: "ley"
 publication_date: "1986-07-15"
-last_updated: "1986-07-15"
+last_updated: "1987-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL NUMERO 332
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 15 de julio de 1986.
 
@@ -269,9 +269,11 @@ III.- Dirección General.
 
 La vigilancia de la operación del Organismo estará a cargo de un comisario.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 22°.
 
-El patronato estará integrado por cinco miembros designados y removidos libremente por el C. Gobernador del Estado. El Director General del Organismo representará a la Junta de Gobierno ante el patronato, cuyos miembros no percibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
+El Patronato estará integrado por doce miembros designados y removidos libremente por el C. Gobernador del Estado. El Director General del Organismo representará a la Junta de Gobierno ante el Patronato, cuyos miembros no percibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores públicos, social y privado.
 
 ###### ARTICULO 23°.
 
@@ -500,3 +502,15 @@ Profr. y Lic. Alejandro Cervantes Delgado
 El Secretario de Gobierno
 
 Lic. Angel H. Aguirre Rivero
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE MAYO DE 1987.
+
+###### ARTICULO PRIMERO.
+
+La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En un lapso no mayor de 30 días el C. Gobernador Constitucional del Estado Libre y Soberano de Guerrero, designará a los miembros del Patronato del Sistema Estatal para el desarrollo Integral de la Familia.
