@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2001-12-25"
+last_updated: "2002-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MARZO DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -821,11 +821,11 @@ El Ministerio Público al emitir la orden de detención en caso urgente deberá 
 
 La orden mencionada será ejecutada por la Policía Ministerial, quien deberá sin dilación alguna, poner al detenido a disposición del Ministerio Público que la haya librado.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2002)</small>
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Atentados a la soberanía del Estado previsto por el Artículo 143; evasión de presos previsto por el Artículo 158 en los casos a que se refiere la segunda parte del Artículo 159 y el Artículo 160; ataques a los medios de transporte previsto por el Artículo 174; corrupción de menores e incapaces y pornografía infantil previstos por los artículos 192, en los casos del artículo 193 segundo párrafo, 194-Bis fracciones III y V, 194-Ter fracciones I, II y III, 195; tortura previsto por el Artículo 213; cohecho previsto por el Artículos 216 en relación con el 217 Fracción II; peculado previsto por el Artículo 218 en relación con el Artículo 219 Fracción II; concusión previsto por el Artículo 220 en relación con el 221 Fracción II; uso indebido de atribuciones y facultades previsto por el Artículos 222 en relación con el 223 Fracción II; ejercicio abusivo de funciones previsto por el Artículos 226 en relación con el 227 Fracciones II y III; enriquecimiento ilícito previsto por el Artículo 230 en relación con el 231 Fracción III; violación previsto en los artículos 273, 274, 275, 276 y 277; asalto previsto en el Artículo 313 en relación con el 314 y 315; lesiones previsto por el Artículo 319 en relación con el 322 Fracción III; homicidio culposo previsto por el Artículo 318; homicidio previsto por el Artículo 329 con relación al 333, 335, 336, 337, 349; 350 en relación con el 351; 352 en relación con el 353, 354 y 355; secuestro en los casos de los artículos 391 y 391 bis; robo previsto por el Artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los Artículos 405, 406, 407 Fracciones I, VIII, IX y X, exceptuándose de esto los casos, en que siendo delincuente primario y actuando sin la participación de otro u otros, en monto de lo robado no exceda de diez días de salario o la cosa robada por su estado por condiciones de funcionamiento o uso, no represente una utilidad para el ofendido; 409 exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 Fracción I; 410 exceptuando de este el caso previsto en su última parte cuando el monto de lo robado no exceda del señalado en el Artículo 402 Fracción I, 411; extorsión previsto por el Artículo 426; despojo de cosas inmuebles o de aguas, previsto por el Artículo 427, cuando se realice en las circunstancias previstas en la Fracción IV; y daño en propiedad en los casos previstos por el Artículo 435, todos del Código Penal para el Estado de Tamaulipas.
+Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Atentados a la soberanía del Estado previsto por el Artículo 143; evasión de presos previsto por el Artículo 158 en los casos a que se refiere la segunda parte del Artículo 159 y el Artículo 160; ataques a los medios de transporte previsto por el Artículo 174; corrupción de menores en los casos del segundo párrafo del Artículo 193 y en el Artículo 195; tortura previsto por el Artículo 213; cohecho previsto por los Artículos 216 en relación con el 217 Fracción II; peculado previsto por los Artículos 218 en relación con el Artículo 219 Fracción II; concusión previsto por los Artículos 220 en relación con el 221 Fracción II; uso indebido de atribuciones y facultades previsto por los Artículos 222 en relación con el 223 Fracción II; ejercicio abusivo de funciones previsto por los Artículos 226 en relación con el 227 Fracciones II y III; enriquecimiento ilícito previsto por los Artículos 230 en relación con el 231 Fracción III; violación previsto en los Artículos 273, 274, 275, 276 y 277; asalto previsto en los Artículos 313 en relación con el 314 y 315; tráfico de menores e incapacitados previsto por el Artículo 318-Bis; lesiones previsto por el Artículo 319 en relación con el 322 Fracción III; homicidio culposo previsto por el Artículo 318; homicidio previsto en los Artículos 329 con relación al 333, 335, 336, 337, 349; 350 en relación con el 351; 352 en relación con el 353 y 354; secuestro previsto en el Artículo 391, exceptuando el caso contemplado en el Artículo 392; robo previsto por el Artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los Artículos 405, 406, 407 Fracciones I, VIII, IX y X, 409 exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del Artículo 402 Fracción I; 410 exceptuando de este el caso previsto en su última parte cuando el monto de lo robado no exceda del señalado en el Artículo 402 Fracción I, 411; extorsión previsto por el Artículo 426; despojo de cosas inmuebles o de aguas, previsto por el Artículo 427, cuando se realice en las circunstancias previstas en la Fracción IV; y daño en propiedad en los casos previstos por el Artículo 435, todos del Código Penal para el Estado de Tamaulipas.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 1999)</small>
+(ADICIONADO, P.O. 19 DE JUNIO DE 1999) (F. DE E., P.O. 17 DE ABRIL DE 2002)
 
 La tentativa punible de los ilícitos penales mencionados en el párrafo anterior, también se califica como delito grave.
 
@@ -1582,8 +1582,6 @@ Si ha transcurrido el término que señala el artículo 131 del Código Penal pa
 En caso contrario, habiendo causado ejecutoria el auto dictado, se aplicará en lo conducente lo señalado en el segundo párrafo del artículo 174 de éste Código.
 
 La inobservancia de este artículo será motivo de responsabilidad penal.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 191
 
@@ -2895,7 +2893,7 @@ Si la admisión del recurso de apelación se declara procedente, la resolución 
 
 ###### ARTICULO 394.
 
-Son irrevocables y por lo tanto causan ejecutoria:
+Son irrevocables y por lo tanto causan ejecutoria.
 
 I.- Las sentencias pronunciadas en Primera Instancia, cuando se hayan consentido expresamente o cuando expirado el plazo que la Ley fija para interponer algún recurso, no se hayan interpuesto;
 
@@ -4344,3 +4342,7 @@ El presente Decreto entrará en vigor el día 1º de enero del año 2002.
 ###### ARTICULO SEGUNDO.
 
 Todos los procesos que se estén instruyendo a la entrada en vigor de este Decreto, se regirán con las nuevas disposiciones.
+
+P.O. 21 DE MARZO DE 2002
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
