@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1969-05-15"
+last_updated: "1971-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1971.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -337,11 +337,11 @@ De las actas de emancipación.
 
 ART. 89.- En los casos de emancipación por efecto del matrimonio no se formará acta separada; el Oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
 
-ART. 90.- Las actas de emancipación por decreto judicial se afirmarán insertando a la letra la resolución del juez que autorizó la emancipación. Se anotará el acta de nacimiento, expresan el menor (sic), citando la fecha de la emancipación y do (sic) al margen de ella haber quedado emancipado el número y foja del acta respectiva.
+ART. 90.- (DEROGADO, P.O. 17 DE ENERO DE 1971)
 
-ART. 91.- Si en la oficina en que se registró la emancipación no existe el acta de nacimiento del emancipado, el Oficial del Registro Civil remitirá copia del acta de emancipación al del lugar en que se registró el nacimiento, para que haga la anotación correspondiente.
+ART. 91.- (DEROGADO, P.O. 17 DE ENERO DE 1971)
 
-ART. 92.- La omisión del registro de emancipación no quita a ésta sus efectos legales; pero sujeta al responsable a la pena que señala el artículo 77.
+ART. 92.- (DEROGADO, P.O. 17 DE ENERO DE 1971)
 
 ### CAPITULO VII.
 
@@ -559,7 +559,9 @@ ART. 142.- Cualquiera condición contraria a la perpetuación de la especie o a 
 
 ART. 143.- Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. El Gobierno del Estado puede conceder dispensa de edad por causas graves y justificadas.
 
-ART. 144.- El hijo o la hija que no hayan cumplido veintiún años, no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos, o de (sic) que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1971)</small>
+
+ART. 144.- El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos, o del que sobreviva.
 
 ART. 145.- Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el Juez de Primera Instancia de la residencia del menor suplirá el consentimiento.
 
@@ -835,7 +837,9 @@ ART. 232.- La menor edad de dieciséis años en el hombre y de catorce en la muj
 
 I.- Cuando haya habido hijos.
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los veintiún años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1971)</small>
+
+II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años; y ni él ni el otro cónyuge hubieren intentado la nulidad.
 
 ART. 233.- La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquel o aquellos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
 
@@ -1225,7 +1229,7 @@ II.- Que el padre lo haya tratado como a hijo nacido de su matrimonio, proveyend
 
 III.- Que el presunto padre tenga la edad exigida por el artículo 356.
 
-ART. 339 .- Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideran como hijos de matrimonio.
+ART. 339 .- Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideraran como hijos de matrimonio.
 
 ART. 340.- No basta el dicho de la madre para excluir la paternidad al marido. Mientras que éste viva, únicamente él podrá reclamar contra la filiación del hijo concebido durante el matrimonio.
 
@@ -1233,11 +1237,13 @@ ART. 341.- Las acciones civiles que se intenten contra el hijo por los bienes qu
 
 ART. 342.- La acción que compete al hijo para reclamar su estado, es imprescriptible.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1971)</small>
+
 ART. 343.- Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
 
-I.- Si el hijo ha muerto antes de cumplir veintidós años;
+I.- Si el hijo ha muerto antes de cumplir veintidós años.
 
-II.- Si el hijo cayó en demencia antes de cumplir veinticinco años y murió después en el mismo estado.
+II.- Si el hijo cayó en demencia antes de cumplir veintidós años y murió después en el mismo estado.
 
 ART. 344.- Los herederos podrán continuar la acción intentada por el hijo, a no ser que éste se hubiere desistido formalmente de ella, o nada hubiere promovido judicialmente durante un año contado desde la última diligencia.
 
@@ -1521,7 +1527,9 @@ Al efecto, el precio de la venta se depositará en una institución de crédito,
 
 ART. 433.- El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-I.- Por la emancipación o la mayor edad de los hijos;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1971)</small>
+
+I.- Por la emancipación derivada del matrimonio o la mayor edad de los hijos;
 
 II.- Por la pérdida de la patria potestad;
 
@@ -1545,7 +1553,9 @@ ART. 438.- La patria potestad se acaba:
 
 I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II.- Con la emancipación;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1971)</small>
+
+II.- Con la emancipación, derivada del matrimonio;
 
 III.- Por la mayor edad del hijo.
 
@@ -1599,7 +1609,9 @@ III.- Los sordo-mudos que no saben leer ni escribir;
 
 IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
 
-ART. 446.- Los menores de edad emancipados tienen incapacidad legal para los actos que se mencionan en el artículo relativo del Capítulo I del Título Décimo de este Libro.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1971)</small>
+
+ART. 446.- Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionan en el Artículo relativo al Capítulo I del Título Décimo de este libro.
 
 ART. 447.- La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
 
@@ -2145,7 +2157,9 @@ ART. 619.- Designarán por sí mismos el curador, con la aprobación judicial:
 
 I.- Los comprendidos en el artículo 491, observándose lo que allí se dispone respecto de esos nombramientos;
 
-II.- Los menores de edad emancipados, en el caso previsto en la fracción III del artículo 637.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1971)</small>
+
+II.- Los menores de edad emancipados por razón del matrimonio, en el caso previsto en la fracción II del Artículo 637.
 
 ART. 620.- El curador de todos los demás individuos sujetos a tutela será nombrado por el juez.
 
@@ -2209,29 +2223,31 @@ ART. 634.- Tampoco pueden alegarla los menores, si han presentado certificados f
 
 De la emancipación.
 
-ART. 635.- El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1971)</small>
 
-ART. 636.- Los mayores de dieciocho años que estén sujetos a patria potestad o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud, para el manejo de sus intereses.
+ART. 635.- El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque el matrimonio se disuelva; el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
 
-Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en las condiciones mencionadas en el párrafo anterior, siempre que éstos consientan en su emancipación.
+ART. 636.- (DEROGADO, P.O. 17 DE ENERO DE 1971)
 
-ART. 637.- El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad;
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1971)</small>
 
-I.- Del consentimiento del que lo emancipó para contraer matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad y ha muerto, o está incapacitado legalmente al tiempo en que el emancipado intente casarse, necesita éste el consentimiento del ascendiente a quien corresponda darlo, y en su defecto, el del juez;
+ART. 637.- El emancipado tiene la libre administración de sus bienes pero siempre necesita durante su menor edad.
 
-II.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
+I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces.
 
-III.- De un tutor para los negocios judiciales.
+II.- De un tutor para negocios judiciales.
 
-ART. 638.- Hecha la emancipación, no puede ser revocada.
+ART. 638.- (DEROGADO, P.O. 17 DE ENERO DE 1971)
 
-ART. 639.- Fuera del caso a que se refiere el artículo 635, la emancipación siempre será decretada por el juez, y la resolución correspondiente se remitirá al Oficial del Registro Civil para que levante el acta respectiva.
+ART. 639.- (DEROGADO, P.O. 17 DE ENERO DE 1971)
 
 ### CAPITULO II.
 
 De la mayor edad.
 
-ART. 640.- La mayor edad comienza a los veintiún años cumplidos.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1971)</small>
+
+ART.- 640.- La mayor edad comienza a los dieciocho años cumplidos.
 
 ART. 641.- El mayor de edad dispone libremente de su persona y de sus bienes.
 
@@ -9232,3 +9248,7 @@ Esta reforma entrará en vigor desde la fecha de su publicación en el Periódic
 P.O. 15 DE MAYO DE 1969.
 
 UNICO.- El presente Decreto surte sus efectos a los (15) quince días de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 1971.
+
+UNICO.- El presente decreto surtirá sus efectos tres días después de su publicación en el Periódico Oficial del Estado.
