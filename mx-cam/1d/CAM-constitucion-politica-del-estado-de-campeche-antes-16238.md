@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1961-12-23"
+last_updated: "1964-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 1961.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 1964.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -285,11 +285,11 @@ El Congreso tendrá cada año un período de sesiones ordinarias que comenzará 
 
 El Congreso tendrá sesiones extraordinarias cada vez que sea convocado por el Ejecutivo del Estado, o por la Diputación Permanente; pero en tales casos no podrá ocuparse más que del asunto o asuntos que fueren sometidos a su conocimiento, y los cuales se expresarán en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1964)</small>
 
 ###### Art. 32.
 
-A la apertura de sesiones ordinarias del Congreso asistirá el gobernador del Estado y presentará un informe por escrito sobre el estado general que guarde la administración pública del Estado. También asistirá a la apertura de sesiones extraordinarias convocadas por él, a fin de exponer al Congreso las razones o causas que hicieron necesaria su convocación y el asunto o asuntos que ameriten una resolución perentoria.
+A la apertura de sesiones ordinarias del Congreso, asistirá el Gobernador del Estado. También asistirá a la apertura de sesiones extraordinarias convocadas por él, a fin de exponer al Congreso las razones o causas que hicieron necesaria su convocación y el asunto o asuntos que ameriten una resolución perentoria. El Gobernador del Estado, dentro del período de sesiones ordinarias del Congreso y en la fecha que éste oportunamente señale, deberá presentar un informe por escrito sobre el estado general que guarde la administración pública de la Entidad.
 
 > <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
@@ -509,7 +509,7 @@ IV.- El secretario general, el procurador general de Justicia, el tesorero gener
 
 El gobernador entrará a ejercer su encargo el 16 de septiembre y no podrá durar en él más de seis años.
 
-El ciudadano que haya desempeñado el cargo de gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese puesto, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+El ciudadano que haya desempeñado el cargo de gobernador del Estado, y cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese puesto, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
 > <small>(REFORMADO, P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957)</small>
 
@@ -1294,3 +1294,7 @@ ART. UNICO.- La presente reforma entrará en vigor al día siguiente de su publi
 P.O. 23 DE DICIEMBRE DE 1961.
 
 UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+P.O. 14 DE JULIO DE 1964.
+
+UNICO.- El presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
