@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-social-para-las-fuerzas-535"
 country: "mx"
 rank: "ley"
 publication_date: "1976-06-29"
-last_updated: "1982-01-11"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=535&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación el martes 29 de junio de 1976.
 
@@ -440,9 +440,11 @@ Cuando fallezca el militar en situación de activo y hubiera satisfecho los requ
 
 Los militares retirados y los pensionistas tendrán obligación de pasar revista de supervivencia en los términos de las disposiciones reglamentarias. Los Generales y Jefes retirados quedan exceptuados de esta obligación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 28.
 
-Los militares que hayan sido retirados por enfermedad que dure más de seis meses, podrán volver al activo cuando esta enfermedad hubiere sido contraída en campaña o en actos del servicio, y logren su curación definitiva, comprobada con dictámenes expedidos por médicos militares que designe la Secretaría de la Defensa Nacional o la de Marina, en su caso. Al ocurrir una nueva causa de retiro, se tramitará éste.
+Los militares que hayan sido retirados por enfermedad que dure más de seis meses, podrán volver al activo cuando esta enfermedad hubiere sido contraída en campaña o en actos del servicio, y logren su curación definitiva, comprobada con dictámenes expedidos por médicos militares que designe la Secretaría de la Defensa Nacional o la de Marina, en su caso, siempre que no adquieran otra nacionalidad. Al ocurrir una nueva causa de retiro, se tramitará éste.
 
 Cuando las necesidades de la nación lo exijan, los militares retirados podrán ser llamados al activo, requiriéndose para ello acuerdo suscrito por el Presidente de la República.
 
@@ -704,7 +706,9 @@ II.- Baja en el Ejército, Fuerza Aérea o Armada de México;
 
 III.- Sentencia ejecutoriada dictada en contra del titular del derecho;
 
-IV.- Por pérdida de nacionalidad;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+IV.- Por adquirir otra nacionalidad estando en activo, y
 
 V.- Por dejar de percibir, sin hacer gestión de cobro en un lapso de tres años, haber de retiro o compensación, ya otorgadas o sancionadas.
 
@@ -716,7 +720,7 @@ I.- Renuncia;
 
 II.- Sentencia ejecutoriada dictada en contra del titular del derecho;
 
-III.- Pérdida de la nacionalidad;
+III.- (DEROGADA, D.O.F. 23 DE ENERO DE 1998)
 
 IV.- Llegar a la mayoría de edad los hijos varones pensionados, siempre que no estén incapacitados legalmente o inválidos de una manera permanente y total para ganarse la vida;
 
@@ -3085,3 +3089,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 A todos los militares que hayan sido retirados con más de 45 años de servicios efectivos, conforme a lo dispuesto por el decreto número 424 de fecha primero de agosto de 1977, y que a la fecha no estén percibiendo la prima complementaria de haber por condecoraciones de perseverancia, gozarán de este beneficio desde el primero de enero de 1981.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
