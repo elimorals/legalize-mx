@@ -4,7 +4,7 @@ identifier: "BCN-ley-reglamentaria-de-la-federal-de-tierras-ociosas-del-23-15853
 country: "mx"
 rank: "ley"
 publication_date: "1954-03-31"
-last_updated: "1954-03-31"
+last_updated: "1960-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY REGLAMENTARIA DE LA FEDERAL DE TIERRAS OCIOSAS DEL 23 DE JUNIO DE 1920
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DE LA LEY REGLAMENTARIA DE LA FEDERAL DE TIERRAS OCIOSAS DEL 23 DE JUNIO DE 1920, PUBLICADA EN EL P.O. DE 31 DE AGOSTO DE 1960, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY REGLAMENTARIA DE LA FEDERAL DE TIERRAS OCIOSAS DEL 23 DE JUNIO DE 1920.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 1960 (ABROGADA).
 
 Ley publicada en el Número 12 del Periódico Oficial del Estado de Baja California, el miércoles 31 de marzo de 1954.
 
@@ -204,3 +206,15 @@ Felipe Carrillo Sánchez
 (Rúbrica)
 
 De conformidad con lo dispuesto por la fracción I del Artículo 49 de la Constitución Política del Estado, mando se imprima, publique, observe y se le dé el debido cumplimiento.
+
+P.O. 31 DE AGOSTO DE 1960.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY REGLAMENTARIA DE LA FEDERAL DE TIERRAS OCIOSAS DEL 23 DE JUNIO DE 1920”.]
+
+###### ARTICULO 1o.
+
+Se abroga de Ley Reglamentaria de la Federal de Tierras Ociosas del 23 de junio de 1920, publicada en el Periódico Oficial del Gobierno de Estado, con fecha 31 de marzo de 1954.
+
+###### ARTICULO 2o.
+
+Esta Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
