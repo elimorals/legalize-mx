@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2002-01-03"
+last_updated: "2002-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 44 DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -177,7 +177,7 @@ Para calcular las participaciones federales que conforme al Coeficiente de Parti
 
 Bi
 
-CPM i t =_________
+CPM i t = ________
 
 TB
 
@@ -189,7 +189,7 @@ TB = Suma de Bi
 
 (CPM i t-1) (RID i t-1)
 
-Bi=___________________
+Bi=____________________
 
 RID i t-2
 
@@ -781,17 +781,13 @@ DISTRIBUCIÓN
 
 TOTAL 1.00000000000
 
-> <small>(REFORMADO, G.O. 3 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, G.O. 25 DE DICIEMBRE DE 2002)</small>
 
-Artículo tercero. A fin de procurar a los municipios una percepción no menor a las participaciones federales distribuidas durante el año 2001, en sustitución de los porcentajes establecidos en el artículo 10 de esta Ley, para el ejercicio fiscal de 2002 se aplicarán los factores de distribución vigentes para el año 2001.
+Artículo tercero. Para el ejercicio fiscal del año 2003, en sustitución de los porcentajes establecidos en el artículo 10 de esta Ley, se aplicarán los factores de distribución vigentes para el año 2002, a efecto de procurar a los municipios una percepción no menor a las participaciones recibidas por dicho concepto durante este último ejercicio fiscal.
 
-Para los ejercicios fiscales de 2003 a 2009, las participaciones federales se distribuirán entre los municipios mediante la aplicación de los porcentajes que apruebe el Congreso del Estado para lo cual incrementará gradualmente los relativos al del índice municipal de pobreza y al del coeficiente de participación municipal y al mismo tiempo, disminuirá el correspondiente a los factores de distribución a los que se refiere el artículo anterior, a efecto de que a partir del año 2010 se apliquen los porcentajes señalados en el articulo 10 de esta ley.
+> <small>(REFORMADO, G.O. 25 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, G.O. 3 DE ENERO DE 2002)</small>
-
-Artículo cuarto. A fin de procurar a los municipios una percepción no menor a las participaciones federales por concepto del Impuesto sobre Tenencia o Uso de Vehículos a que se refiere el artículo 15 de esta ley, distribuidas durante el año 2001, para el ejercicio fiscal de 2002 las participaciones correspondientes a este impuesto se distribuirán con base en el factor vigente para el año 2001.
-
-Para los ejercicios fiscales de 2003 a 2009 las participaciones correspondientes a este impuesto se distribuirán con base en los porcentajes que apruebe el Congreso del estado, para lo cual incrementará gradualmente el relativo al coeficiente de participación del Impuesto Sobre Tenencia o Uso de Vehículos (ISTUV) y disminuirá a la vez, los de los factores de distribución a que hace referencia el artículo segundo transitorio de esta ley a efecto de que a partir del ejercicio fiscal de 2010 las participaciones federales correspondientes a este impuesto se distribuyan únicamente con base en el coeficiente de participación del ISTUV.
+Artículo cuarto. Para el ejercicio fiscal del año 2003, las participaciones federales por concepto del impuesto sobre tenencia o uso de vehículos, a que se refiere el artículo 15 de esta Ley, se distribuirán con base en el factor vigente para el año 2002, a fin de procurar a los municipios una percepción no menor a las participaciones recibidas por dicho concepto durante este último ejercicio fiscal.
 
 Artículo quinto. Para efecto de la determinación del Coeficiente de Participación Municipal (CPM i t-1) señalado en el artículo 12, y el coeficiente de recaudación municipal (CISTUV i t-1) señalado en el artículo 15, correspondiente al ejercicio fiscal del año 2001, se utilizarán los factores de distribución que se señalan en el artículo segundo transitorio de esta Ley.
 
@@ -824,3 +820,7 @@ Secretario de Finanzas y Planeación
 G.O. 3 DE ENERO DE 2002.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 25 DE DICIEMBRE DE 2002.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
