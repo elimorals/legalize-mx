@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "1984-02-07"
+last_updated: "1987-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MAYO DE 1987.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 7 de febrero de 1984.
 
@@ -37,6 +37,8 @@ DECRETO:
 "El Congreso de los Estados Unidos Mexicanos, decreta
 
 LEY GENERAL DE SALUD
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO CUARTO DEL DECRETO DE REFORMAS DE FECHA 28 DE ABRIL DE 1987 Y PUBLICADO EN EL D.O.F. EL 27 DE MAYO DE 1987, SE ESTABLECE LA SUSTITUCION DE LA DEPENDENCIA "SECRETARIA DE SALUBRIDAD Y ASISTENCIA" POR LA DE "SECRETARIA DE SALUD" ASI COMO DEL TITULAR DE LA MISMA "SECRETARIO DE SALUBRIDAD Y ASISTENCIA" POR LA DE "SECRETARIO DE SALUD", ADECUACION QUE SE HACE EN LA PRESENTE LEY.</small>
 
 ## TITULO PRIMERO. Disposiciones Generales
 
@@ -132,7 +134,9 @@ I.- El Presidente de la República;
 
 II.- El Consejo de Salubridad General;
 
-III.- La Secretaría de Salubridad y Asistencia, y
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+III.- La Secretaría de Salud, y
 
 IV.- Los gobiernos de las entidades federativas, incluyendo el del Departamento del Distrito Federal.
 
@@ -158,13 +162,23 @@ IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la i
 
 V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente que propicien el desarrollo satisfactorio de la vida;
 
-VI.- Impulsar un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud, y
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección.
+VI.- Impulsar un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE MAYO DE 1987)</small>
+
+VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 7o.
 
-La coordinación del Sistema Nacional de Salud estará a cargo de la Secretaría de Salubridad y Asistencia, correspondiéndole a ésta:
+La coordinación del Sistema Nacional de Salud estará a cargo de la Secretaría de Salud, correspondiéndole a ésta:
 
 I.- Establecer y conducir la política nacional en materia de salud, en los términos de las leyes aplicables y de conformidad con lo dispuesto por el Ejecutivo Federal;
 
@@ -200,27 +214,37 @@ XV.- Las demás atribuciones, afines a las anteriores, que se requieran para el 
 
 Con propósitos de complemento y de apoyo recíproco, se delimitarán los universos de usuarios y las instituciones de salud podrán llevar a cabo acciones de subrogación de servicios.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 9o.
 
-Los gobiernos de las entidades federativas coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con la Secretaría de Salubridad y Asistencia, a la consolidación y funcionamiento del Sistema Nacional de Salud. Con tal propósito, los gobiernos de las entidades federativas planearán, organizarán y desarrollarán en sus respectivas circunscripciones territoriales, sistemas estatales de salud, procurando su participación programática en el Sistema Nacional de Salud.
+Los gobiernos de las entidades federativas coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con la Secretaría de Salud, a la consolidación y funcionamiento del Sistema Nacional de Salud. Con tal propósito, los gobiernos de las entidades federativas planearán, organizarán y desarrollarán en sus respectivas circunscripciones territoriales, sistemas estatales de salud, procurando su participación programática en el Sistema Nacional de Salud.
 
-La Secretaría de Salubridad y Asistencia auxiliará, cuando lo soliciten los estados, en las acciones de descentralización a los municipios que aquéllos lleven a cabo.
+La Secretaría de Salud auxiliará, cuando lo soliciten los estados, en las acciones de descentralización a los municipios que aquéllos lleven a cabo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 10.
 
-La Secretaría de Salubridad y Asistencia promoverá la participación, en el Sistema Nacional de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
+La Secretaría de Salud promoverá la participación, en el Sistema Nacional de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 11.
 
-La concertación de acciones entre la Secretaría de Salubridad y Asistencia y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre la Secretaría de Salud y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
 
-II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salubridad y Asistencia;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-III.- Especificación del carácter operativo de la concertación de acciones; con reserva de las funciones de autoridad de la Secretaría de Salubridad y Asistencia, y
+II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+III.- Especificación del carácter operativo de la concertación de acciones; con reserva de las funciones de autoridad de la Secretaría de Salud, y
 
 IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
 
@@ -234,7 +258,9 @@ La competencia de las autoridades sanitarias en la planeación, regulación, org
 
 La competencia entre la Federación y las entidades federativas en materia de salubridad general quedará distribuida conforme a lo siguiente:
 
-A. Corresponde al Ejecutivo Federal, por conducto de la Secretaría de Salubridad y Asistencia:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+A. Corresponde al Ejecutivo Federal, por conducto de la Secretaría de Salud:
 
 I.- Dictar las normas técnicas a que quedará sujeta la prestación, en todo el territorio nacional, de servicios de salud en las materias de salubridad general y verificar su cumplimiento;
 
@@ -272,13 +298,17 @@ VI.- Vigilar, en la esfera de su competencia, el cumplimiento de esta Ley y dem�
 
 VII.- Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones generales aplicables.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 14.
 
-Para los efectos de esta Ley, se entiende por norma técnica el conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por la Secretaría de Salubridad y Asistencia, que establezcan los requisitos que deben satisfacerse en la organización y prestación de servicios, así como en el desarrollo de actividades en materia de salubridad general, con el objeto de uniformar principios, criterios, políticas y estrategias.
+Para los efectos de esta Ley, se entiende por norma técnica el conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por la Secretaría de Salud, que establezcan los requisitos que deben satisfacerse en la organización y prestación de servicios, así como en el desarrollo de actividades en materia de salubridad general, con el objeto de uniformar principios, criterios, políticas y estrategias.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 15.
 
-El Consejo de Salubridad General es un órgano que depende directamente del Presidente de la República, en los términos del artículo 73, fracción XVI, base 1a., de la Constitución Política de los Estados Unidos Mexicanos. Esta integrado por un presidente que será el Secretario de Salubridad y Asistencia, un Secretario, 12 vocales titulares, uno de los cuales será el Presidente de la Academia Nacional de Medicina, y los vocales que su propio reglamento determine. Los miembros del Consejo serán designados y removidos por el Presidente de la República, quien deberá nombrar para tales cargos, a profesionales especializados en cualquiera de las ramas sanitarias.
+El Consejo de Salubridad General es un órgano que depende directamente del Presidente de la República, en los términos del artículo 73, fracción XVI, base 1a., de la Constitución Política de los Estados Unidos Mexicanos. Esta integrado por un presidente que será el Secretario de Salud, un Secretario, 12 vocales titulares, uno de los cuales será el Presidente de la Academia Nacional de Medicina, y los vocales que su propio reglamento determine. Los miembros del Consejo serán designados y removidos por el Presidente de la República, quien deberá nombrar para tales cargos, a profesionales especializados en cualquiera de las ramas sanitarias.
 
 ###### ARTICULO 16.
 
@@ -306,11 +336,13 @@ VIII.- Analizar las disposiciones legales en materia de salud y formular propues
 
 IX.- Las demás que le correspondan conforme a la fracción XVI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 18.
 
-Las bases y modalidades de ejercicio coordinado de las atribuciones de la Federación y de las entidades federativas en la prestación de servicios de salubridad general, se establecerán en los acuerdos de coordinación que suscriba la Secretaría de Salubridad y Asistencia con los gobiernos de las entidades federativas, en el marco del Convenio Unico de Desarrollo.
+Las bases y modalidades de ejercicio coordinado de las atribuciones de la Federación y de las entidades federativas en la prestación de servicios de salubridad general, se establecerán en los acuerdos de coordinación que suscriba la Secretaría de Salud con los gobiernos de las entidades federativas, en el marco del Convenio Unico de Desarrollo.
 
-La Secretaría de Salubridad y Asistencia procurará la celebración de acuerdos de coordinación con los gobiernos de las entidades federativas, para la participación de éstos en la presentación de los servicios a que se refieren las fracciones III, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o. de esta Ley.
+La Secretaría de Salud procurará la celebración de acuerdos de coordinación con los gobiernos de las entidades federativas, para la participación de éstos en la prestación de los servicios a que se refieren las fracciones III, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 3o. de esta Ley.
 
 ###### ARTICULO 19.
 
@@ -324,13 +356,17 @@ Las estructuras administrativas a que se refiere el segundo párrafo del artícu
 
 I.- Se regirán por las disposiciones de esta Ley y demás normas aplicables, y por las previsiones de los acuerdos de coordinación que se celebren;
 
-II.- Se establecerán coordinadamente entre la Federación, por conducto de la Secretaría de Salubridad y Asistencia, y los gobiernos de las entidades federativas;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+II.- Se establecerán coordinadamente entre la Federación, por conducto de la Secretaría de Salud, y los gobiernos de las entidades federativas;
 
 III.- Podrán tener personalidad jurídica y patrimonio propios y funciones de autoridad, en su caso, de conformidad con los instrumentos legales de creación;
 
 IV.- Contarán con un consejo interno, que será presidido por el titular del ejecutivo local, cuando así se convenga;
 
-V.- Los titulares de las estructuras administrativas serán designados por el Secretario de Salubridad y Asistencia, a propuesta de los ejecutivos locales, y deberán tener preferentemente experiencia en salud pública;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+V.- Los titulares de las estructuras administrativas serán designados por el Secretario de Salud, a propuesta de los ejecutivos locales, y deberán tener preferentemente experiencia en salud pública;
 
 VI.- Tendrán a su cargo la administración de los recursos que aporten las partes, con sujeción al régimen legal que les corresponda;
 
@@ -360,7 +396,9 @@ VII.- Establecerán que los ingresos que se obtengan por la prestación de servi
 
 VIII.- Indicarán las medidas legales o administrativas que las partes se obliguen a adoptar o promover, para el mejor cumplimiento del acuerdo;
 
-IX.- Establecerán las normas y procedimientos de control que corresponderán a la Secretaría de Salubridad y Asistencia;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+IX.- Establecerán las normas y procedimientos de control que corresponderán a la Secretaría de Salud;
 
 X.- Establecerán la duración del Acuerdo y las causas de terminación anticipada del mismo;
 
@@ -422,23 +460,31 @@ IX.- La promoción del mejoramiento de la nutrición, y
 
 X.- La asistencia social a los grupos más vulnerables.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 28.
 
-Para los efectos del artículo anterior, habrá un Cuadro Básico de Insumos del Sector de Salud, elaborado por el Consejo de Salubridad General, al cual se ajustarán las dependencias y entidades que presten servicios de salud, y en el cual se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos, participarán en su elaboración la Secretaría de Salubridad y Asistencia, las instituciones públicas de seguridad social y las demás entidades de salud que señale el Ejecutivo Federal.
+Para los efectos del artículo anterior, habrá un Cuadro Básico de Insumos del Sector de Salud, elaborado por el Consejo de Salubridad General, al cual se ajustarán las dependencias y entidades que presten servicios de salud, y en el cual se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos, participarán en su elaboración la Secretaría de Salud, las instituciones públicas de seguridad social y las demás entidades de salud que señale el Ejecutivo Federal.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 29.
 
-Del Cuadro Básico de Insumos del Sector Salud, la Secretaría de Salubridad y Asistencia determinará la lista de medicamentos y otros insumos esenciales para la salud, y garantizará su existencia permanente y disponibilidad a la población que los requiera, en coordinación con las autoridades competentes.
+Del Cuadro Básico de Insumos del Sector Salud, la Secretaría de Salud determinará la lista de medicamentos y otros insumos esenciales para la salud, y garantizará su existencia permanente y disponibilidad a la población que los requiera, en coordinación con las autoridades competentes.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 30.
 
-La Secretaría de Salubridad y Asistencia apoyará a las dependencias competentes en la vigilancia de los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, a fin de que se adecuen a lo establecido en el artículo anterior.
+La Secretaría de Salud apoyará a las dependencias competentes en la vigilancia de los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, a fin de que se adecúen a lo establecido en el artículo anterior.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 31.
 
-La Secretaría de Comercio y Fomento Industrial, oyendo la opinión de la Secretaría de Salubridad y Asistencia, asegurará la adecuada distribución y comercialización y fijará los precios máximos de venta al público de los medicamentos e insumos. La Secretaría de Hacienda y Crédito Público tendrá la intervención que le corresponda en la determinación de precios, cuando tales bienes sean producidos por el sector público.
+La Secretaría de Comercio y Fomento Industrial, oyendo la opinión de la Secretaría de Salud, asegurará la adecuada distribución y comercialización y fijará los precios máximos de venta al público de los medicamentos e insumos. La Secretaría de Hacienda y Crédito Público tendrá la intervención que le corresponda en la determinación de precios, cuando tales bienes sean producidos por el sector público.
 
-La Secretaría de Salubridad y Asistencia proporcionará los elementos técnicos a la Secretaría de Comercio y Fomento Industrial, acerca de la importación de insumos para la salud.
+La Secretaría de Salud proporcionará los elementos técnicos a la Secretaría de Comercio y Fomento Industrial, acerca de la importación de insumos para la salud.
 
 ### CAPITULO II. Atención Médica
 
@@ -480,7 +526,9 @@ Las cuotas de recuperación que en su caso se recauden por la prestación de ser
 
 Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
 
-Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social conforme a las disposiciones de la Secretaría de Salubridad y Asistencia.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social conforme a las disposiciones de la Secretaría de Salud.
 
 A los extranjeros que ingresen al país con el propósito predominante de hacer uso de los servicios de salud, se cobrará íntegramente el costo de los mismos, excepto en los casos de urgencias.
 
@@ -510,37 +558,49 @@ Las modalidades de acceso a los servicios de salud privados y sociales se regir�
 
 Los servicios de salud que presten las entidades públicas o empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 42.
 
-La Secretaría de Salubridad y Asistencia proporcionará a la Secretaría de Hacienda y Crédito Público las normas técnicas de salud para los seguros personales de gastos médicos y hospitalización.
+La Secretaría de Salud proporcionará a la Secretaría de Hacienda y Crédito Público las normas técnicas de salud para los seguros personales de gastos médicos y hospitalización.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 43.
 
-Los servicios de salud de carácter social y privado, con excepción del servicio personal independiente, estarán sujetos a las tarifas que establezca la Secretaría de Comercio y Fomento Industrial, oyendo la opinión de la Secretaría de Salubridad y Asistencia.
+Los servicios de salud de carácter social y privado, con excepción del servicio personal independiente, estarán sujetos a las tarifas que establezca la Secretaría de Comercio y Fomento Industrial, oyendo la opinión de la Secretaría de Salud.
 
 ###### ARTICULO 44.
 
 Los establecimientos particulares para el internamiento de enfermos, prestarán sus servicios en forma gratuita a personas de escasos recursos, en la proporción y términos que señalen los reglamentos.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 45.
 
-Corresponde a la Secretaría de Salubridad y Asistencia vigilar y controlar la creación y funcionamiento de todo tipo de establecimientos de servicios de salud, así como fijar las normas técnicas a las que deberán sujetarse.
+Corresponde a la Secretaría de Salud vigilar y controlar la creación y funcionamiento de todo tipo de establecimientos de servicios de salud, así como fijar las normas técnicas a las que deberán sujetarse.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 46.
 
-La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, y cualquiera de sus modalidades, se sujetará a las normas técnicas que, con fundamento en esta Ley y demás disposiciones generales aplicables, expida la Secretaría de Salubridad y Asistencia, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, y cualquiera de sus modalidades, se sujetará a las normas técnicas que, con fundamento en esta Ley y demás disposiciones generales aplicables, expida la Secretaría de Salud, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
 ###### ARTICULO 47.
 
 Para obtener la autorización a que se refiere el artículo 45 de esta Ley, la solicitud deberá expresar las características y tipo de servicios a que estén destinados los establecimientos, sin perjuicio de satisfacer los requisitos que establezcan los reglamentos respectivos. En el caso de establecimientos particulares, se deberá señalar también al responsable autorizado.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 48.
 
-Corresponde a la Secretaría de Salubridad y Asistencia y a los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilar el ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
+Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilar el ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 49.
 
-La Secretaría de Salubridad y Asistencia y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, coadyuvarán con las autoridades educativas competentes para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, y estimularán su participación en el Sistema Nacional de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, coadyuvarán con las autoridades educativas competentes para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, y estimularán su participación en el Sistema Nacional de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
 
 ### CAPITULO IV. Usuarios de los Servicios de Salud y Participación de la Comunidad
 
@@ -556,9 +616,11 @@ Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de cal
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 53.
 
-La Secretaría de Salubridad y Asistencia y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, establecerán los procedimientos para regular las modalidades de acceso a los servicios públicos a la población en general y a los servicios sociales y privados.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, establecerán los procedimientos para regular las modalidades de acceso a los servicios públicos a la población en general y a los servicios sociales y privados.
 
 ###### ARTICULO 54.
 
@@ -608,6 +670,8 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO VI. Servicios de Planificación Familiar
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ### CAPITULO VII. Salud Mental
 
 ###### ARTICULO 61.
@@ -654,9 +718,9 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 ###### ARTICULO 67.
 
-La planificación familiar tiene carácter prioritario. Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, con pleno respeto a su dignidad.
+La planificación familiar, principalmente la que se dirija a menores y adolescentes, tiene carácter prioritario. Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, con pleno respeto a su dignidad.
 
-Quienes practiquen esterilización sin la voluntad de la paciente o ejerza presión para que ésta la admita, comete ilícito que será sancionado conforme al artículo 421 de esta Ley, independientemente de la responsabilidad penal en que incurran.
+Quienes practiquen esterilización sin la voluntad de la paciente o ejerzan presión para que ésta la admita, serán sancionados conforme al artículo 421 de esta Ley, independientemente de la responsabilidad penal en que incurran.
 
 ###### ARTICULO 68.
 
@@ -674,17 +738,23 @@ V.- La participación en el establecimiento de mecanismos idóneos para la deter
 
 VI.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 69.
 
-La Secretaría de Salubridad y Asistencia, con base en las políticas establecidas por el Consejo Nacional de Población para la prestación de servicios de planificación familiar y de educación sexual, definirá las bases para evaluar las prácticas de métodos anticonceptivos, por lo que toca a su prevalencia y a sus efectos sobre la salud.
+La Secretaría de Salud, con base en las políticas establecidas por el Consejo Nacional de Población para la prestación de servicios de planificación familiar y de educación sexual, definirá las bases para evaluar las prácticas de métodos anticonceptivos, por lo que toca a su prevalecencia y a sus efectos sobre la salud.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 70.
 
-La Secretaría de Salubridad y Asistencia, coordinará las actividades de las dependencias y entidades del sector salud para instrumentar y operar las acciones del programa nacional de planificación familiar que formule el Consejo Nacional de Población, de conformidad con las disposiciones de la Ley General de Población y de su reglamento, y cuidará que se incorporen al programa sectorial.
+La Secretaría de Salud coordinará las actividades de las dependencias y entidades del sector salud para instrumentar y operar las acciones del programa nacional de planificación familiar que formule el Consejo Nacional de Población, de conformidad con las disposiciones de la Ley General de Población y de su Reglamento, y cuidará que se incorporen al programa sectorial.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 71.
 
-La Secretaría de Salubridad y Asistencia prestará a través del Consejo Nacional de Población, el asesoramiento que para la elaboración de programas educativos en materia de planificación familiar y educación sexual (sic) le requiera el sistema educativo nacional.
+La Secretaría de Salud prestará, a través del Consejo Nacional de Población, el asesoramiento que para la elaboración de programas educativos en materia de planificación familiar y educación sexual le requiera el sistema educativo nacional.
 
 ### CAPITULO II. Servicio Social de Pasantes y Profesionales
 
@@ -694,9 +764,11 @@ La Secretaría de Salubridad y Asistencia prestará a través del Consejo Nacion
 
 La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 73.
 
-Para la promoción de la salud mental, la Secretaría de Salubridad y Asistencia, las instituciones de salud y los gobiernos de las entidades federativas, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+Para la promoción de la salud mental, la Secretaría de Salud, las instituciones de salud y los gobiernos de las entidades federativas, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
 I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
@@ -714,13 +786,17 @@ I.- La atención de personas con padecimientos mentales, la rehabilitación psiq
 
 II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 75.
 
-El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determine la Secretaría de Salubridad y Asistencia y establezcan las disposiciones jurídicas aplicables.
+El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determine la Secretaría de Salud y establezcan las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 76.
 
-La Secretaría de Salubridad y Asistencia establecerá las normas técnicas para que se preste atención a los enfermos mentales que se encuentren en reclusorios o en otras instituciones no especializadas en salud mental.
+La Secretaría de Salud establecerá las normas técnicas para que se preste atención a los enfermos mentales que se encuentren en reclusorios o en otras instituciones no especializadas en salud mental.
 
 A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
@@ -736,11 +812,15 @@ A tal efecto, podrán obtener orientación y asesoramiento en las instituciones 
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ### CAPITULO I. Disposiciones comunes
 
 ### CAPITULO II. Educación para la salud
 
 ### CAPITULO III. Nutrición
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ### CAPITULO IV. Efectos del ambiente en la salud
 
@@ -748,9 +828,15 @@ A tal efecto, podrán obtener orientación y asesoramiento en las instituciones 
 
 ### CAPITULO I. Disposiciones comunes
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ### CAPITULO II. Enfermedades transmisibles
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ### CAPITULO III. Enfermedades no transmisibles
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ### CAPITULO IV. Accidentes
 
@@ -776,15 +862,19 @@ Para el ejercicio de actividades profesionales en el campo de la medicina, odont
 
 Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 80.
 
-Para el registro de diplomas de las actividades técnicas y auxiliares, la Secretaría de Salubridad y Asistencia, a petición de las autoridades educativas competentes, emitirá la opinión técnica correspondiente.
+Para el registro de diplomas de las actividades técnicas y auxiliares, la Secretaría de Salud, a petición de las autoridades educativas competentes, emitirá la opinión técnica correspondiente.
 
 ###### ARTICULO 81.
 
 Las autoridades educativas registrarán los certificados de especialización en materia de salud que expidan las instituciones de enseñanza superior o las instituciones de salud reconocidas oficialmente.
 
-Para el registro de certificados de especialización expedidos por academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud, las autoridades educativas competentes, solicitarán en su caso, la opinión de la Secretaría de Salubridad y Asistencia y de la Academia Nacional de Medicina.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Para el registro de certificados de especialización expedidos por academias, colegios, consejos o asociaciones de profesionales de las disciplinas para la salud, las autoridades educativas competentes solicitarán, en su caso, la opinión de la Secretaría de Salud y de la Academia Nacional de Medicina.
 
 ###### ARTICULO 82.
 
@@ -795,6 +885,8 @@ Las autoridades educativas competentes proporcionarán a las autoridades sanitar
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen a su respecto.
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 84.
 
@@ -814,11 +906,15 @@ Para los efectos de la eficaz prestación del servicio social de pasantes de las
 
 La prestación del servicio social de los pasantes de las profesiones para la salud, se llevará a cabo mediante la participación de los mismos en las unidades aplicativas del primer nivel de atención, prioritariamente en áreas de menor desarrollo económico y social.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 88.
 
-La Secretaría de Salubridad y Asistencia y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+### CAPITULO I. Consejo Nacional Contra las Adicciones
+
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 89.
 
@@ -826,9 +922,11 @@ Las autoridades educativas, en coordinación con las autoridades sanitarias y co
 
 Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 90.
 
-Corresponde a la Secretaría de Salubridad y Asistencia y a los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, sin perjuicio de las atribuciones de las autoridades educativas en la materia y en coordinación con éstas:
+Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, sin perjuicio de las atribuciones de las autoridades educativas en la materia y en coordinación con éstas:
 
 I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del país en materia de salud;
 
@@ -838,25 +936,33 @@ III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro
 
 IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 91.
 
-La Secretaría de Salubridad y Asistencia y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, coadyuvarán con las autoridades e instituciones educativas, cuando éstas lo soliciten en:
+La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, coadyuvarán con las autoridades e instituciones educativas, cuando éstas lo soliciten, en:
 
 I.- El señalamiento de los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos, y
 
 II.- En la definición del perfil de los profesionales para la salud en sus etapas de formación.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 92.
 
-Las Secretarías de Salubridad y Asistencia y de Educación Pública y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades del Sistema Nacional de Salud, de los sistemas estatales de salud y de los programas educativos.
+Las Secretarías de Salud y de Educación Pública y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades del Sistema Nacional de Salud, de los sistemas estatales de salud y de los programas educativos.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 93.
 
-La Secretaría de Educación Pública, en coordinación con la Secretaría de Salubridad y Asistencia, promoverán el establecimiento de un sistema de enseñanza continua en materia de salud.
+La Secretaría de Educación Pública, en coordinación con la Secretaría de Salud, promoverá el establecimiento de un sistema de enseñanza continua en materia de salud.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 94.
 
-Cada institución de salud, con base en las normas técnicas que emita la Secretaría de Salubridad y Asistencia, establecerá las bases para la utilización de sus instalaciones y servicios en la formación de recursos humanos para la salud.
+Cada institución de salud, con base en las normas técnicas que emita la Secretaría de Salud, establecerá las bases para la utilización de sus instalaciones y servicios en la formación de recursos humanos para la salud.
 
 ###### ARTICULO 95.
 
@@ -866,7 +972,9 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TITULO SEXTO. Información para la Salud
 
-### CAPITULO II. Programa Contra el Tabaquismo
+### CAPITULO II. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 96.
 
@@ -884,19 +992,23 @@ V.- Al estudio de las técnicas y métodos que se recomienden o empleen para la 
 
 VI.- A la producción nacional de insumos para la salud.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 97.
 
-La Secretaría de Educación Pública, en coordinación con la Secretaría de Salubridad y Asistencia y con la participación que corresponda al Consejo Nacional de Ciencia y Tecnología, orientará al desarrollo de la investigación científica y tecnológica destinada a la salud.
+La Secretaría de Educación Pública, en coordinación con la Secretaría de Salud y con la participación que corresponda al Consejo Nacional de Ciencia y Tecnología, orientará al desarrollo de la investigación científica y tecnológica destinada a la salud.
 
-La Secretaría de Salubridad y Asistencia y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, apoyarán y estimularán el funcionamiento de establecimientos públicos destinados a la investigación para la salud.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, apoyarán y estimularán el funcionamiento de establecimientos públicos destinados a la investigación para la salud.
 
 ###### ARTICULO 98.
 
 En las instituciones de salud, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, se constituirán: una comisión de investigación; una comisión de ética, en el caso de que se realicen investigaciones en seres humanos, y una comisión de bioseguridad, encargada de regular el uso de radiaciones ionizantes o de técnicas de ingeniería genética. El Consejo de Salubridad General emitirá las disposiciones complementarias sobre áreas o modalidades de la investigación en las que considere que es necesario.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 99.
 
-La Secretaría de Salubridad y Asistencia, en coordinación con la Secretaría de Educación Pública, y con la colaboración del Consejo Nacional de Ciencia y Tecnología y de las instituciones de educación superior, realizará y mantendrá actualizado un inventario de la investigación en el área de salud del país.
+La Secretaría de Salud, en coordinación con la Secretaría de Educación Pública, y con la colaboración del Consejo Nacional de Ciencia y Tecnología y de las instituciones de educación superior, realizará y mantendrá actualizado un inventario de la investigación en el área de salud del país.
 
 ###### ARTICULO 100.
 
@@ -920,9 +1032,11 @@ VII.- Las demás que establezca la correspondiente reglamentación.
 
 Quien realice investigación en seres humanos en contravención a lo dispuesto en esta Ley y demás disposiciones aplicables, se hará acreedor de las sanciones correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 102.
 
-La Secretaría de Salubridad y Asistencia autorizará con fines preventivos, terapéuticos, rehabilitatorios o de investigación, el empleo en seres humanos de medicamentos o materiales respecto de los cuales no se tenga experiencia en el país o se pretenda la modificación de las indicaciones terapéuticas de productos ya conocidos. Al efecto, los interesados deberán presentar la siguiente documentación:
+La Secretaría de Salud autorizará con fines preventivos, terapéuticos, rehabilitatorios o de investigación, el empleo en seres humanos de medicamentos o materiales respecto de los cuales no se tenga experiencia en el país o se pretenda la modificación de las indicaciones terapéuticas de productos ya conocidos. Al efecto, los interesados deberán presentar la siguiente documentación:
 
 I.- Solicitud por escrito;
 
@@ -940,15 +1054,19 @@ En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recu
 
 ## TITULO SEPTIMO. Promoción de la Salud
 
-### CAPITULO III. Programa Contra la Farmacodependencia
+### CAPITULO III. Programa Contra el Tabaquismo
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ## TITULO OCTAVO. Prevención y Control de Enfermedades y Accidentes
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO IV. Programa Contra la Farmacodependencia
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 104.
 
-La Secretaría de Salubridad y Asistencia y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, y de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita la Secretaría de Programación y Presupuesto, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistema Nacional de Salud, así como sobre el estado y evolución de la salud pública.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, y de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita la Secretaría de Programación y Presupuesto, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistema Nacional de Salud, así como sobre el estado y evolución de la salud pública.
 
 La información se referirá, fundamentalmente, a los siguientes aspectos:
 
@@ -958,29 +1076,41 @@ II.- Factores demográficos, económicos, sociales y ambientales vinculados a la
 
 III.- Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población, y su utilización.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 105.
 
-En coordinación con la Secretaría de Programación y Presupuesto y de conformidad con las bases, normas y principios que ésta fije, la Secretaría de Salubridad y Asistencia integrará la información a que se refiere el artículo anterior, para elaborar las estadísticas nacionales en salud que contribuyan a la consolidación de un sistema nacional de información en salud.
+En coordinación con la Secretaría de Programación y Presupuesto y de conformidad con las bases, normas y principios que ésta fije, la Secretaría de Salud integrará la información a que se refiere el artículo anterior, para elaborar las estadísticas nacionales en salud que contribuyan a la consolidación de un sistema nacional de información en salud.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 106.
 
-Las dependencias y entidades de la Administración Pública Federal, los gobiernos de las entidades federativas, los municipios cuando proceda, y las personas físicas y morales de los sectores social y privado, que generen y manejen la información a que se refiere el artículo 104 de esta Ley, deberán suministrarla a la Secretaría de Salubridad y Asistencia, con la periodicidad y en los términos que ésta señale, para la elaboración de las estadísticas nacionales para la salud.
+Las dependencias y entidades de la Administración Pública Federal, los gobiernos de las entidades federativas, los municipios cuando proceda, y las personas físicas y morales de los sectores social y privado, que generen y manejen la información a que se refiere el artículo 104 de esta Ley, deberán suministrarla a la Secretaría de Salud, con la periodicidad y en los términos que ésta señale, para la elaboración de las estadísticas nacionales para la salud.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 107.
 
-Los establecimientos que presten servicios de salud y los profesionales, técnicos y auxiliares de la salud, llevarán las estadísticas que les señale la Secretaría de Salubridad y Asistencia y proporcionarán a ésta y a los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, la información correspondiente, sin perjuicio de las obligaciones de suministrar información que les señalen otras disposiciones legales.
+Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud, así como los establecimientos dedicados al proceso, uso, aplicación o disposición final de los productos a que se refiere el Título Décimo Segundo de esta Ley, llevarán las estadísticas que les señale la Secretaría de Salud y proporcionarán a ésta y a los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que les señalen otras disposiciones legales.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 108.
 
-La Secretaría de Salubridad y Asistencia orientará la captación, producción, procesamiento, sistematización y divulgación de la información para la salud, con sujeción a los criterios generales que establezca la Secretaría de Programación y Presupuesto, a los cuales deberán ajustarse las dependencias y entidades del sector público y las personas físicas y morales de los sectores social y privado.
+La Secretaría de Salud orientará la captación, producción, procesamiento, sistematización y divulgación de la información para la salud, con sujeción a los criterios generales que establezca la Secretaría de Programación y Presupuesto, a los cuales deberán ajustarse las dependencias y entidades del sector público y las personas físicas y morales de los sectores social y privado.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 109.
 
-La Secretaría de Salubridad y Asistencia proporcionará a la Secretaría de Programación y Presupuesto los datos que integren las estadísticas nacionales para la salud que elabore, para su incorporación al Sistema Nacional Estadístico, y formará parte de las instancias de participación y consulta que para esos fines se instituyan.
+La Secretaría de Salud proporcionará a la Secretaría de Programación y Presupuesto los datos que integren las estadísticas nacionales para la salud que elabore, para su incorporación al Sistema Nacional Estadístico, y formará parte de las instancias de participación y consulta que para esos fines se instituyan.
 
 ## TITULO NOVENO. Asistencia Social, Prevención de Invalidez y Rehabilitación de Inválidos
 
-### CAPITULO II. Alimentos y Bebidas no Alcohólicas
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 110.
 
@@ -994,11 +1124,19 @@ I.- Educación para la salud;
 
 II.- Nutrición;
 
-III.- Control de los efectos nocivos del ambiente en la salud, y
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-IV.- Salud ocupacional.
+III.- Control de los efectos nocivos del ambiente en la salud;
 
-### CAPITULO III. Bebidas Alcohólicas
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+IV.- Salud ocupacional, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE MAYO DE 1987)</small>
+
+V.- Fomento sanitario.
+
+### CAPITULO II. Alimentos y Bebidas no Alcohólicas
 
 ###### ARTICULO 112.
 
@@ -1010,21 +1148,25 @@ II.- Prorporcionar (sic) a la población los conocimientos sobre las causas de l
 
 III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de la automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 113.
 
-La Secretaría de Salubridad y Asistencia, en coordinación con la Secretaría de Educación Pública y los gobiernos de las entidades federativas, y con la colaboración de las dependencias y entidades del sector salud, formulará, propondrá y desarrollará programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+La Secretaría de Salud, en coordinación con la Secretaría de Educación Pública y los gobiernos de las entidades federativas, y con la colaboración de las dependencias y entidades del sector salud, formulará, propondrá y desarrollará programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-### CAPITULO IV. Medicamentos
+### CAPITULO III. Bebidas Alcohólicas
 
 ###### ARTICULO 114.
 
-Para la atención y mejoramiento de la nutrición de la población, la Secretaría de Salubridad y Asistencia participará, de manera permanente, en los programas de alimentación del Gobierno Federal.
+Para la atención y mejoramiento de la nutrición de la población, la Secretaría de Salud participará, de manera permanente, en los programas de alimentación del Gobierno Federal.
 
-La Secretaría de Salubridad y Asistencia, las entidades del sector salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, formularán y desarrollarán programas de nutrición, promoviendo la participación en los mismos de los organismos nacionales e internacionales cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los sectores social y privado.
+La Secretaría de Salud, las entidades del sector salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, formularán y desarrollarán programas de nutrición, promoviendo la participación en los mismos de los organismos nacionales e internacionales cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los sectores social y privado.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 115.
 
-La Secretaría de Salubridad y Asistencia tendrá a su cargo;
+La Secretaría de Salud tendrá a su cargo;
 
 I.- Establecer un sistema permanente de vigilancia epidemiológica de la nutrición;
 
@@ -1042,19 +1184,23 @@ VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros bá
 
 VIII.- Proporcionar a la Secretaría de Comercio y Fomento Industrial los elementos técnicos en materia nutricional, para los efectos de la expedición de las normas oficiales mexicanas.
 
-### CAPITULO V. Estupefacientes
+### CAPITULO IV. Medicamentos
 
 ###### ARTICULO 116.
 
 Las autoridades sanitarias establecerán las normas, tomarán las medidas y realizarán las actividades a que se refiere esta Ley tendientes a la protección de la salud humana ante los riesgos y daños dependientes de las condiciones del ambiente.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 117.
 
-La formulación y conducción de la política de saneamiento ambiental corresponde a la Secretaría de Desarrollo Urbano y Ecología, en coordinación con la Secretaría de Salubridad y Asistencia, en lo referente a la salud humana.
+La formulación y conducción de la política de saneamiento ambiental corresponde a la Secretaría de Desarrollo Urbano y Ecología, en coordinación con la Secretaría de Salud, en lo referente a la salud humana.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 118.
 
-Corresponde a la Secretaría de Salubridad y Asistencia:
+Corresponde a la Secretaría de Salud:
 
 I.- Determinar los valores de concentración máxima permisible para el ser humano de contaminantes en el ambiente;
 
@@ -1070,9 +1216,11 @@ VI.- Ejercer el control sanitario de las vías generales de comunicación, inclu
 
 VII.- En general, ejercer actividades similares a las anteriores ante situaciones que causen o puedan causar riesgos o daños a la salud de las personas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 119.
 
-Corresponde a la Secretaría de Salubridad y Asistencia y a los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia:
+Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia:
 
 I.- Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
 
@@ -1080,9 +1228,11 @@ II.- Vigilar la calidad del agua para uso y consumo humano, y
 
 III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de fuentes de radiación, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 120.
 
-La Secretaría de Salubridad y Asistencia y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, se coordinarán con las dependencias y entidades competentes del sector público para la prestación de los servicios a que se refiere este Capítulo.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, se coordinarán con las dependencias y entidades competentes del sector público para la prestación de los servicios a que se refiere este Capítulo.
 
 ###### ARTICULO 121.
 
@@ -1094,13 +1244,17 @@ Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier 
 
 Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas para uso o consumo de la población, estarán obligados a darles el tratamiento correspondiente a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 123.
 
-La Secretaría de Salubridad y Asistencia proporcionará a la Secretaría de Comercio y Fomento Industrial y, en general, a las demás autoridades competentes, los requisitos técnicos sanitarios para que el almacenamiento, distribución, uso y manejo del gas natural, del gas licuado de petróleo y otros productos industriales gaseosos que sean de alta peligrosidad, no afecten la salud de las personas, los que serán de observancia obligatoria y, en su caso, deberán incorporarse a las normas oficiales mexicanas.
+La Secretaría de Salud proporcionará a la Secretaría de Comercio y Fomento Industrial y, en general, a las demás autoridades competentes, los requisitos técnicos sanitarios para que el almacenamiento, distribución, uso y manejo del gas natural, del gas licuado de petróleo y otros productos industriales gaseosos que sean de alta peligrosidad, no afecten la salud de las personas, los que serán de observancia obligatoria y, en su caso, deberán incorporarse a las normas oficiales mexicanas.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 124.
 
-Se consideran fuentes de radiación los reactores nucleares, aceleradores de partículas cargadas de electricidad, bombas de cobalto, fuentes de neutrones, aparatos de microondas, de radar y de rayos X, infrarrojos, ultravioleta y lasser, así como los isótopos radiactivos y cualquier otra fuente de naturaleza análoga que expresamente determine la Secretaría de Salubridad y Asistencia, quien solicitará la opinión del Consejo de Salubridad General y del Instituto Nacional de Investigaciones Nucleares.
+Se consideran fuentes de radiación los reactores nucleares, aceleradores de partículas cargadas de electricidad, bombas de cobalto, fuentes de neutrones, aparatos de microondas, de radar y de rayos X, infrarrojos, ultravioleta y lasser, así como los isótopos radiactivos y cualquier otra fuente de naturaleza análoga que expresamente determine la Secretaría de Salud, quien solicitará la opinión del Consejo de Salubridad General y del Instituto Nacional de Investigaciones Nucleares.
 
 ###### ARTICULO 125.
 
@@ -1108,15 +1262,19 @@ Requiere de permiso sanitario la posesión, comercio, importación, distribució
 
 Se exceptúan de lo dispuesto en este artículo la posesión y uso de aparatos domésticos de similares características.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 126.
 
-La construcción de obras o instalaciones, así como la operación o el funcionamiento de las existentes, donde se usen, para fines industriales, médicos o de investigación fuentes de radiación, deberán observar la normas técnicas de seguridad radiológica que al efecto dicten y vigilen, en ejercicio de sus respectivas atribuciones, la Secretaría de Salubridad y Asistencia y la Comisión Nacional de Seguridad Nuclear y Salvaguardias.
+La construcción de obras o instalaciones, así como la operación o el funcionamiento de las existentes, donde se usen, para fines industriales, médicos o de investigación fuentes de radiación, deberán observar la normas técnicas de seguridad radiológica que al efecto dicten y vigilen, en ejercicio de sus respectivas atribuciones, la Secretaría de Salud y la Comisión Nacional de Seguridad Nuclear y Salvaguardias.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 127.
 
-Sin perjuicio de lo que establecen la Ley Federal del Trabajo y sus reglamentos, en relación con labores peligrosas e insalubres, el cuerpo humano sólo podrá ser expuesto a radiaciones dentro de los máximos permisibles que establezca la Secretaría de Salubridad y Asistencia, incluyendo sus aplicaciones para la investigación médica y de diagnóstico y terapéutica.
+Sin perjuicio de lo que establecen la Ley Federal del Trabajo y sus reglamentos, en relación con labores peligrosas e insalubres, el cuerpo humano sólo podrá ser expuesto a radiaciones dentro de los máximos permisibles que establezca la Secretaría de Salud, incluyendo sus aplicaciones para la investigación médica y de diagnóstico y terapéutica.
 
-### CAPITULO VI. Substancias psicotrópicas
+### CAPITULO V. Estupefacientes
 
 ###### ARTICULO 128.
 
@@ -1124,9 +1282,11 @@ El trabajo o las actividades sean comerciales, industriales, profesionales o de 
 
 Cuando dicho trabajo y actividades se realicen en centros de trabajo cuyas relaciones laborales estén sujetas al apartado "A" del artículo 123 Constitucional, las autoridades sanitarias se coordinarán con las laborales para la expedición de las normas respectivas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 129.
 
-Para los efectos del artículo anterior, la Secretaría de Salubridad y Asistencia tendrá a su cargo:
+Para los efectos del artículo anterior, la Secretaría de Salud tendrá a su cargo:
 
 I.- Establecer las normas técnicas para el uso y manejo de sustancias, maquinarias, equipos y aparatos, con objeto de reducir los riesgos a la salud del personal ocupacionalmente expuesto;
 
@@ -1134,25 +1294,33 @@ II.- Determinar los límites máximos permisibles de exposición de un trabajado
 
 III.- Ejercer junto con los gobiernos de las entidades federativas, el control sanitario sobre los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deban reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 130.
 
-La Secretaría de Salubridad y Asistencia, en coordinación con las autoridades laborales y las instituciones públicas de seguridad social, y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, promoverán, desarrollarán y difundirán investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, y estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
+La Secretaría de Salud, en coordinación con las autoridades laborales y las instituciones públicas de seguridad social, y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, promoverán, desarrollarán y difundirán investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, y estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 131.
 
-Las Secretarías de Salubridad y Asistencia y del Trabajo y Previsión Social llevarán a cabo, en forma coordinada y tratándose de trabajo sujeto al régimen del Apartado "A" del artículo 123 Constitucional, programas tendientes a prevenir accidentes y enfermedades de trabajo.
+Las Secretarías de Salud y del Trabajo y Previsión Social llevarán a cabo, en forma coordinada y tratándose de trabajo sujeto al régimen del Apartado "A" del artículo 123 Constitucional, programas tendientes a prevenir accidentes y enfermedades de trabajo.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 132.
 
-Para los efectos de esta Ley se consideran bajo la denominación de locales los establecimientos y sus instalaciones, dependencias y anexos, estén cubiertos o descubiertos, sean fijos o móviles, sean de producción transformación, almacenamiento, distribución de bienes o prestación de servicios, en los que se desarrolle una actividad ocupacional.
+Para los efectos de esta ley se consideran bajo la denominación de establecimientos, los locales y sus instalaciones, dependencias y anexos, estén cubiertos o descubiertos, sean fijos o móviles, sean de producción, transformación, almacenamiento, distribución de bienes o prestación de servicios, en los que se desarrolle una actividad ocupacional.
 
 ## TITULO DECIMO. Acción Extraordinaria en Materia de Salubridad General
 
-### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
+### CAPITULO VI. Substancias psicotrópicas
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 133.
 
-En materia de prevención y control de enfermedades y accidentes, y sin perjuicio de lo que dispongan las leyes laborales y de seguridad social en materia de riesgos de trabajo, corresponde a la Secretaría de Salubridad y Asistencia:
+En materia de prevención y control de enfermedades y accidentes, y sin perjuicio de lo que dispongan las leyes laborales y de seguridad social en materia de riesgos de trabajo, corresponde a la Secretaría de Salud:
 
 I.- Dictar las normas técnicas para la prevención y el control de enfermedades y accidentes;
 
@@ -1162,13 +1330,11 @@ III.- Realizar los programas y actividades que estime necesario para la prevenci
 
 IV.- Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refieren las fracciones II y III.
 
-### CAPITULO VIII
-
-Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
+### CAPITULO VII. Establecimientos Destinados al Proceso de Medicamentos
 
 ###### ARTICULO 134.
 
-La Secretaría de Salubridad y Asistencia y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
 
 I.- Cólera, fiebre tifoidea, paratifoidea, shigelosis, amibiasis, hepatitis virales y otras enfermedades infecciosas del aparato digestivo;
 
@@ -1178,7 +1344,9 @@ III.- Tuberculosis;
 
 IV.- Difteria, tosferina, tétanos, sarampión, poliomielitis, rubeola y parotiditis infecciosa;
 
-V.- Rabia, peste, brucelosis y otras zoonosis. En estos casos, la Secretaría de Salubridad y Asistencia coordinará sus actividades con la Secretaría de Agricultura y Recursos Hidráulicos.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+V.- Rabia, peste, brucelosis y otras zoonosis. En estos casos la Secretaría de Salud coordinará sus actividades con la de Agricultura y Recursos Hidráulicos;
 
 VI.- Fiebre amarilla, dengue y otras enfermedades virales transmitidas por artrópodos;
 
@@ -1192,17 +1360,29 @@ X.- Micosis profundas;
 
 XI.- Helmintiasis intestinales y extraintestinales;
 
-XII.--Toxoplasmosis, y
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-XIII.- Las demás que determinen el Consejo de Salubridad General y los tratados y convenciones internacionales en que los Estados Unidos Mexicanos sean parte.
+XII.- Toxoplasmosis;
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+XIII.- Síndrome de inmunodeficiencia adquirida (SIDA), y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE MAYO DE 1987)</small>
+
+XIV.- Las demás que determinen el Consejo de Salubridad General y los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte y que se hubieren celebrado con arreglo a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 135.
 
-La Secretaría de Salubridad y Asistencia elaborará y llevará a cabo, en coordinación con las instituciones del sector salud y con los gobiernos de las entidades federativas, programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la República.
+La Secretaría de Salud elaborará y llevará a cabo, en coordinación con las instituciones del sector salud y con los gobiernos de las entidades federativas, programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la República.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 136.
 
-Es obligatoria la notificación a la Secretaría de Salubridad y Asistencia o en su defecto, a la autoridad sanitaria más cercana, de las siguientes enfermedades y en los términos que a continuación se especifican:
+Es obligatoria la notificación a la Secretaría de Salud o a la autoridad sanitaria más cercana, de las siguientes enfermedades y en los términos que a continuación se especifican:
 
 I.- Inmediatamente, en los casos individuales de enfermedades objeto del Reglamento Sanitario Internacional: fiebre amarilla, peste y cólera;
 
@@ -1211,6 +1391,10 @@ II.- Inmediatamente, en los casos de cualquier enfermedad que se presente en for
 III.- En un plazo no mayor de veinticuatro horas en los casos individuales de enfermedades objeto de vigilancia internacional: poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos humanos de encefalitis equina venezolana, y
 
 IV.- En un plazo no mayor de veinticuatro horas, de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MAYO DE 1987)</small>
+
+Asimismo, será obligatoria la notificación inmediata a la autoridad sanitaria más cercana, de los casos en que se detecte la presencia del virus de la inmunodeficiencia humana (VIH) o de anticuerpos a dicho virus, en alguna persona.
 
 ###### ARTICULO 137.
 
@@ -1238,47 +1422,65 @@ VI.- La destrucción o control de vectores y reservorios y de fuentes de infecci
 
 VII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos, y
 
-VIII.- Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salubridad y Asistencia.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+VIII.- Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 140.
 
-Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias sin contravenir las disposiciones de esta Ley, las que expida el Consejo de Salubridad General y las normas técnicas que dicte la Secretaría de Salubridad y Asistencia.
+Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias sin contravenir las disposiciones de esta Ley, las que expida el Consejo de Salubridad General y las normas técnicas que dicte la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 141.
 
-La Secretaría de Salubridad y Asistencia coordinará sus actividades con otras dependencias y entidades públicas y con los gobiernos de las entidades federativas, para la investigación, prevención y control de las enfermedades transmisibles.
+La Secretaría de Salud coordinará sus actividades con otras dependencias y entidades públicas y con los gobiernos de las entidades federativas, para la investigación, prevención y control de las enfermedades transmisibles.
 
 ###### ARTICULO 142.
 
 Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de un caso de enfermedad transmisible, están obligados a tomar las medidas necesarias, de acuerdo con la naturaleza y características del padecimiento, aplicando los recursos a su alcance para proteger la salud individual y colectiva.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 143.
 
-Los trabajadores de la salud de la Secretaría de Salubridad y Asistencia y de los gobiernos de las entidades federativas, y los de otras instituciones autorizadas por las autoridades sanitarias mencionadas, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán acceder al interior de todo tipo de local o casa habitación para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán estar debidamente acreditados por alguna de las autoridades sanitarias competentes, en los términos de las disposiciones aplicables.
+Los trabajadores de la salud de la Secretaría de Salud y de los gobiernos de las entidades federativas, y los de otras instituciones autorizadas por las autoridades sanitarias mencionadas, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán acceder al interior de todo tipo de local o casa habitación para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán estar debidamente acreditados por alguna de las autoridades sanitarias competentes, en los términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 144.
 
-Las vacunaciones contra la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis y el sarampión, así como otras contra enfermedades transmitibles (sic) que en el futuro estimare necesarias la Secretaría de Salubridad y Asistencia, serán obligatorias en los términos que fije esta dependencia. La misma Secretaría determinará los sectores de población que deban ser vacunados y las condiciones en que deberán suministrarse las vacunas, conforme a los programas que al efecto establezca, las que serán de observación obligatoria para las instituciones de salud.
+Las vacunaciones contra la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis y el sarampión, asi como otras contra enfermedades transmitibles (sic) que en el futuro estimare necesarias la Secretaría de Salud, serán obligatorias en los términos que fije esta dependencia. La misma Secretaría determinará los sectores de población que deban ser vacunados y las condiciones en que deberán suministrarse las vacunas, conforme a los programas que al efecto establezca, las que serán de observación obligatoria para las instituciones de salud.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 145.
 
-La Secretaría de Salubridad y Asistencia establecerá las normas técnicas para el control de las personas que se dediquen a trabajos o actividades, mediante los cuales se pueda propagar alguna de las enfermedades transmisibles a que se refiere esta Ley.
+La Secretaría de Salud establecerá las normas técnicas para el control de las personas que se dediquen a trabajos o actividades, mediante los cuales se pueda propagar alguna de las enfermedades transmisibles a que se refiere esta Ley.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 146.
 
-Los laboratorios que manejen agentes patógenos estarán sujetos a control por parte de las autoridades sanitarias competentes, de conformidad con las normas técnicas que expida la Secretaría de Salubridad y Asistencia, en lo relativo a las precauciones higiénicas que deban observar, para evitar la propagación de las enfermedades transmisibles al hombre. Cuando esto represente peligro para la salud animal, se oirá la opinión de las autoridades competentes en la materia.
+Los laboratorios que manejen agentes patógenos estarán sujetos a control por parte de las autoridades sanitarias competentes, de conformidad con las normas técnicas que expida la Secretaría de Salud, en lo relativo a las precauciones higiénicas que deban observar, para evitar la propagación de las enfermedades transmisibles al hombre. Cuando esto represente peligro para la salud animal, se oirá la opinión de las autoridades competentes en la materia.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 147.
 
-En los lugares del territorio nacional en que cualquier enfermedad transmisible adquiera características epidémicas graves, a juicio de la Secretaría de Salubridad y Asistencia, así como en los lugares colindantes expuestos a la propagación, las autoridades civiles, militares y los particulares estarán obligados a colaborar con las autoridades sanitarias en la lucha contra dicha enfermedad.
+En los lugares del territorio nacional en que cualquier enfermedad transmisible adquiera características epidémicas graves, a juicio de la Secretaría de Salud, así como en los lugares colindantes expuestos a la propagación, las autoridades civiles, militares y los particulares estarán obligados a colaborar con las autoridades sanitarias en la lucha contra dicha enfermedad.
 
 ###### ARTICULO 148.
 
 Quedan facultadas las autoridades sanitarias competentes para utilizar como elementos auxiliares en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las regiones afectadas y en las colindantes, de acuerdo con las disposiciones de esta Ley y los reglamentos aplicables.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 149.
 
-Sólo con autorización de la Secretaría de Salubridad y Asistencia se permitirá la internación en el territorio nacional de personas que padezcan enfermedades infecciosas en período de transmisibilidad, que sean portadoras de agentes infecciosos o se sospeche que estén en período de incubación por provenir de lugares infectados.
+Sólo con autorización de la Secretaría de Salud se permitirá la internación en el territorio nacional de personas que padezcan enfermedades infecciosas en período de transmisibilidad, que sean portadoras de agentes infecciosos o se sospeche que estén en período de incubación por provenir de lugares infectados.
 
 ###### ARTICULO 150.
 
@@ -1300,9 +1502,11 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 155.
 
-La Secretaría de Salubridad y Asistencia determinará la forma de disponer de los productos, subproductos, desechos y cadáveres de animales, cuando constituyan un riesgo de transmisión de enfermedades al hombre o produzcan contaminación del ambiente con riesgo para la salud.
+La Secretaría de Salud determinará la forma de disponer de los productos, subproductos, desechos y cadáveres de animales, cuando constituyan un riesgo de transmisión de enfermedades al hombre o produzcan contaminación del ambiente con riesgo para la salud.
 
 ###### ARTICULO 156.
 
@@ -1318,13 +1522,15 @@ III.- Vehículo de enfermedades transmisibles al hombre, a través de sus produc
 
 Se prohibe la introducción o el transporte por el territorio nacional de animales que padezcan una enfermedad transmisible al hombre, de cadáveres de aquéllos, así como el comercio con sus productos. Asimismo, se prohibe la introducción o el transporte de animales que provengan de áreas que la autoridad sanitaria considere infectadas.
 
-### CAPITULO IX. Productos de Perfumería y Belleza
+### CAPITULO VIII
 
-### CAPITULO X. Productos de Aseo
+Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos
+
+### CAPITULO IX. Productos de Perfumería y Belleza
 
 ###### ARTICULO 158.
 
-La Secretaría de Salubridad y Asistencia y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia realizarán actividades de prevención y control de las enfermedades no transmisibles que las propias autoridades sanitarias determinen.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, realizarán actividades de prevención y control de las enfermedades no transmisibles que las propias autoridades sanitarias determinen.
 
 ###### ARTICULO 159.
 
@@ -1340,17 +1546,19 @@ IV.- La realización de estudios epidemiológicos, y
 
 V.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 160.
 
-La Secretaría de Salubridad y Asistencia coordinará sus actividades con otras dependencias y entidades públicas y con los gobiernos de las entidades federativas, para la investigación, prevención y control de las enfermedades no transmisibles.
+La Secretaría de Salud coordinará sus actividades con otras dependencias y entidades públicas y con los gobiernos de las entidades federativas, para la investigación, prevención y control de las enfermedades no transmisibles.
 
 ###### ARTICULO 161.
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO XI. Tabaco
+### CAPITULO X. Productos de Aseo
 
-### CAPITULO XII. Plaguicidas, fertilizantes y substancias tóxicas
+### CAPITULO XI. Tabaco
 
 ###### ARTICULO 162.
 
@@ -1374,13 +1582,17 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Nacional para la Prevención de Accidentes del que formarán parte representantes de los sectores público, social y privado.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 164.
 
-La Secretaría de Salubridad y Asistencia coordinará sus actividades con la Secretaría del Trabajo y Previsión Social y, en general, con las dependencias y entidades públicas y con los gobiernos de las entidades federativas, para la investigación, prevención y control de los accidentes.
+La Secretaría de Salud coordinará sus actividades con la Secretaría del Trabajo y Previsión Social y, en general, con las dependencias y entidades públicas y con los gobiernos de las entidades federativas, para la investigación, prevención y control de los accidentes.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 165.
 
-La Secretaría de Salubridad y Asistencia dictará, en el ámbito de su competencia, y sin perjuicio de las facultades de la Secretaría del Trabajo y Previsión Social, de conformidad con las Leyes que rijan los riesgos de trabajo, las normas técnicas para la prevención de accidentes, y promoverá la coordinación con el sector público y la concertación e inducción, en su caso, con los sectores social y privado para su aplicación.
+La Secretaría de Salud dictará, en el ámbito de su competencia, y sin perjuicio de las facultades de la Secretaría del Trabajo y Previsión Social, de conformidad con las Leyes que rijan los riesgos de trabajo, las normas técnicas para la prevención de accidentes, y promoverá la coordinación con el sector público y la concertación e inducción, en su caso, con los sectores social y privado para su aplicación.
 
 ###### ARTICULO 166.
 
@@ -1388,17 +1600,27 @@ Los servicios de salud que proporcionen las instituciones de seguridad social co
 
 ## TITULO DECIMO PRIMERO. Programas Contra las Adicciones
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+### CAPITULO XII. Plaguicidas, fertilizantes y substancias tóxicas
+
 ### CAPITULO XIII. Importación y exportación
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ### CAPITULO I. Disposiciones comunes
 
-### CAPITULO II. Organos y Tejidos
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ## TITULO DECIMO SEGUNDO. Control Sanitario de Productos y Servicios y de su Importación y Exportación
 
-### CAPITULO III. Cadáveres
+### CAPITULO II. Organos y Tejidos
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 167.
 
@@ -1426,9 +1648,11 @@ VIII.- El apoyo a la educación y capacitación para el trabajo de personas con 
 
 IX.- La prestación de servicios funerarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 169.
 
-Para fomentar el desarrollo de programas públicos de asistencia social, la Secretaría de Salubridad y Asistencia, con la intervención que corresponda al organismo a que se refiere el artículo 172 de esta Ley, en coordinación con las dependencias y entidades del sector salud y con los gobiernos de las entidades federativas, promoverá la canalización de recursos y apoyo técnico.
+Para fomentar el desarrollo de programas públicos de asistencia social, la Secretaría de Salud, con la intervención que corresponda al organismo a que se refiere el artículo 172 de esta Ley, en coordinación con las dependencias y entidades del sector salud y con los gobiernos de las entidades federativas, promoverá la canalización de recursos y apoyo técnico.
 
 Asimismo, procurará destinar los apoyos necesarios a los programas de asistencia social, para fomentar la ampliación de los beneficios de su actividad, dando las normas para los mismos.
 
@@ -1468,17 +1692,21 @@ VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a l
 
 VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 175.
 
-La Secretaría de Salubridad y Asistencia establecerá las normas técnicas de carácter nacional en materia de prevención de invalidez y rehabilitación de inválidos y coordinará, supervisará y evaluará su cumplimiento por parte de las instituciones públicas, sociales y privadas que persigan estos fines.
+La Secretaría de Salud establecerá las normas técnicas de carácter nacional en materia de prevención de invalidez y rehabilitación de inválidos y coordinará, supervisará y evaluará su cumplimiento por parte de las instituciones públicas, sociales y privadas que persigan estos fines.
 
 ###### ARTICULO 176.
 
 Los servicios de rehabilitación que proporcionen los establecimientos del sector salud estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el organismo a que se refiere el artículo 172.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 177.
 
-La Secretaría de Salubridad y Asistencia, a través del organismo a que alude el artículo 172 de esta Ley, y los gobiernos de las entidades federativas, coordinadamente y en sus respectivos ámbitos de competencia, promoverán el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de invalidez, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+La Secretaría de Salud, a través del organismo a que alude el artículo 172 de esta Ley, y los gobiernos de las entidades federativas, coordinadamente y en sus respectivos ámbitos de competencia, promoverán el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de invalidez, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
 
 ###### ARTICULO 178.
 
@@ -1488,21 +1716,25 @@ El Organismo del Gobierno Federal previsto en el Artículo 172, tendrá entre su
 
 Las autoridades sanitarias y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitatoria, cuando así se requiera.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 180.
 
-La Secretaría de Salubridad y Asistencia y los gobiernos de las entidades federativas, en coordinación con otras instituciones públicas, promoverán que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas inválidas.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en coordinación con otras instituciones públicas, promoverán que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas inválidas.
 
 ## TITULO DECIMO TERCERO. Publicidad
 
-### CAPITULO I. Disposiciones comunes
+### CAPITULO III. Cadáveres
 
 ###### ARTICULO 181.
 
-En caso de epidemia de carácter (sic) grave peligro de invasión de enfermedades transmisibles, situaciones de emergencia o catástrofe que afecten al país, la Secretaría de Salubridad y Asistencia dictará inmediatamente las medidas indispensables para prevenir y combatir los daños a la salud, a reserva de que tales medidas sean después sancionadas por el Presidente de la República.
+En caso de epidemia de carácter (sic) grave peligro de invasión de enfermedades transmisibles, situaciones de emergencia o catástrofe que afecten al país, la Secretaría de Salud dictará inmediatamente las medidas indispensables para prevenir y combatir los daños a la salud, a reserva de que tales medidas sean después sancionadas por el Presidente de la República.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 182.
 
-En caso de emergencia causada por deterioro súbito del ambiente que ponga en peligro inminente a la población, la Secretaría de Salubridad y Asistencia adoptará las medidas de prevención y control indispensables para la protección de la salud, sin perjuicio de la intervención que corresponda al Consejo de Salubridad General y a la Secretaría de Desarrollo Urbano y Ecología.
+En caso de emergencia causada por deterioro súbito del ambiente que ponga en peligro inminente a la población, la Secretaría de Salud adoptará las medidas de prevención y control indispensables para la protección de la salud, sin perjuicio de la intervención que corresponda al Consejo de Salubridad General y a la Secretaría de Desarrollo Urbano y Ecología.
 
 ###### ARTICULO 183.
 
@@ -1510,9 +1742,11 @@ En los casos a que se refieren los artículos anteriores, el Ejecutivo Federal p
 
 Cuando hubieren desaparecido las causas que hayan originado la declaración de quedar sujeta una región a la acción extraordinaria en materia de salubridad general, el Ejecutivo Federal expedirá un decreto que declare terminada dicha acción.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 184.
 
-La acción extraordinaria en materia de salubridad general será ejercida por la Secretaría de Salubridad y Asistencia, la que podrá integrar brigadas especiales que actuarán bajo su dirección y responsabilidad y tendrán las atribuciones siguientes:
+La acción extraordinaria en materia de salubridad general será ejercida por la Secretaría de Salud, la que podrá integrar brigadas especiales que actuarán bajo su dirección y responsabilidad y tendrán las atribuciones siguientes:
 
 I.- Encomendar a las autoridades federales, estatales y municipales, así como a los profesionales, técnicos y auxiliares de las disciplinas para la salud, el desempeño de las actividades que estime necesarias y obtener para ese fin la participación de los particulares;
 
@@ -1526,13 +1760,21 @@ V.- Las demás que determine la propia Secretaría.
 
 ## TITULO DECIMO QUINTO. Sanidad Internacional
 
-### CAPITULO II. Sanidad en Materia de Migración
+### CAPITULO I. Disposiciones comunes
 
-### CAPITULO III. Sanidad marítima, aérea y terrestre
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+###### ARTICULO 184 Bis.
+
+Se crea el Consejo Nacional Contra las Adicciones, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las adicciones que regula el presente Título, así como proponer y evaluar los programas a que se refieren los artículos 185, 188 y 191 de esta Ley. Dicho Consejo estará integrado por el Secretario de Salud, quien lo presidirá, por los titulares de las dependencias y entidades de la Administración Pública Federal cuyas atribuciones tengan relación con el objeto del Consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud. El Secretario de Salud podrá invitar, cuando lo estime conveniente, a los titulares de los gobiernos de la entidades federativas a asistir a las sesiones del Consejo.
+
+La organización y funcionamiento del Consejo se regirán por las disposiciones que expida el Ejecutivo Federal.
+
+### CAPITULO II. Sanidad en Materia de Migración
 
 ###### ARTICULO 185.
 
-La Secretaría de Salubridad y Asistencia, los gobiernos de las entidades federativas y el Consejo de Salubridad General, en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
+La Secretaría de Salud, los gobiernos de las entidades federativas y el Consejo de Salubridad General, en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
 
 I.- La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
 
@@ -1552,21 +1794,19 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 187.
 
-En el marco del Sistema Nacional de Salud, la Secretaría de Salubridad y Asistencia coordinará las acciones que se desarrollen contra el alcoholismo y el abuso de bebidas alcohólicas. La coordinación en la adopción de medidas, en los ámbitos federal y local, se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salubridad y Asistencia con los gobiernos de las entidades federativas.
+En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará las acciones que se desarrollen contra el alcoholismo y el abuso de bebidas alcohólicas. La coordinación en la adopción de medidas, en los ámbitos federal y local, se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con los gobiernos de las entidades federativas.
 
-Para este efecto, se crea el Consejo Nacional Antialcohólico, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por el alcoholismo y el abuso de bebidas alcohólicas, así como la evaluación del programa a que se refiere el artículo 185 de esta Ley. Dicho Consejo estará integrado por el Secretario de Salubridad y Asistencia, quien lo coordinará por los titulares de las dependencias y entidades de la Administración Pública Federal cuyas atribuciones tengan relación con el objeto mencionado, y por representantes de organizaciones sociales y privadas relacionadas con la salud. El Secretario de Salubridad y Asistencia podrá invitar, cuando lo estime conveniente, a los titulares de los gobiernos de las entidades federativas a asistir a las sesiones del Consejo.
-
-La organización y funcionamiento del consejo se regirá por su reglamento interior.
+### CAPITULO III. Sanidad marítima, aérea y terrestre
 
 ### CAPITULO I. Autorizaciones
 
-### CAPITULO II. Revocación de autorizaciones sanitarias
-
 ###### ARTICULO 188.
 
-La Secretaría de Salubridad y Asistencia, los gobiernos de las entidades federativas y el Consejo de Salubridad General, en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra el tabaquismo, que comprenderá, entre otras, las siguientes acciones:
+La Secretaría de Salud, los gobiernos de las entidades federativas y el Consejo de Salubridad General, en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra el tabaquismo, que comprenderá, entre otras, las siguientes acciones:
 
 I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo, y
 
@@ -1580,17 +1820,19 @@ I.- La investigación de las causas del tabaquismo y de las acciones para contro
 
 II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 190.
 
-En el marco del Sistema Nacional de Salud, la Secretaría de Salubridad y Asistencia coordinará las acciones que se desarrollen contra el tabaquismo, promoverá y organizará servicios de orientación y atención a fumadores que deseen abandonar el hábito y desarrollará acciones permanentes para disuadir y evitar el consumo de tabaco por parte de niños y adolescentes.
+En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará las acciones que se desarrollen contra el tabaquismo, promoverá y organizará servicios de orientación y atención a fumadores que deseen abandonar el hábito y desarrollará acciones permanentes para disuadir y evitar el consumo de tabaco por parte de niños y adolescentes.
 
-La coordinación en la adopción de medidas en los ámbitos federal y local se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salubridad y Asistencia con los gobiernos de la entidades federativas.
+La coordinación en la adopción de medidas en los ámbitos federal y local se llevará a cabo a través de los acuerdos de coordinación que celebre la Secretaría de Salud con los gobiernos de las entidades federativas.
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de autorizaciones sanitarias
 
 ###### ARTICULO 191.
 
-La Secretaría de Salubridad y Asistencia y el Consejo de Salubridad General, en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra la farmacodependencia, a través de las siguientes acciones:
+La Secretaría de Salud y el Consejo de Salubridad General, en el ámbito de sus respectivas competencias, se coordinarán para la ejecución del programa contra la farmacodependencia, a través de las siguientes acciones:
 
 I.- La prevención y el tratamiento de la farmacodependencia y, en su caso, la rehabilitación de los farmacodependientes;
 
@@ -1598,9 +1840,11 @@ II.- La educación sobre los efectos del uso de estupefacientes, substancias psi
 
 III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 192.
 
-La Secretaría de Salubridad y Asistencia elaborará un programa nacional contra la farmacodependencia, y lo ejecutará en coordinación con dependencias y entidades del sector salud y con los gobiernos de las entidades federativas.
+La Secretaría de Salud elaborará un programa nacional contra la farmacodependencia, y lo ejecutará en coordinación con dependencias y entidades del sector salud y con los gobiernos de las entidades federativas.
 
 ###### ARTICULO 193.
 
@@ -1608,63 +1852,85 @@ Los profesionales de la salud, al prescribir medicamentos que contengan substanc
 
 ## TITULO DECIMO SEXTO. Autorizaciones y certificados
 
-### CAPITULO UNICO
+### CAPITULO III. Certificados
 
 ###### ARTICULO 194.
 
-Compete a la Secretaría de Salubridad y Asistencia:
+Compete a la Secretaría de Salud:
 
-I.- El control sanitario del proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas, medicamentos estupefacientes, substancias psicotrópicas, productos de perfumería, belleza y aseo, tabaco, plaguicidas, fertilizantes y substancias tóxicas que constituyan un riesgo para la salud, así como de las materias primas que intervengan en su elaboración, y
+I.- El control sanitario del proceso, importación y exportación de alimentos, bebidas no alcohólicas, bebidas alcohólicas, medicamentos, estupefacientes, substancias psicotrópicas, productos de perfumería, belleza y aseo, tabaco, así como de las materias primas y, en su caso, aditivos que intervengan en su elaboración;
 
-II.- El control sanitario del proceso, uso, mantenimiento, importación, exportación y disposición final de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos.
+II.- El control sanitario del proceso, uso, mantenimiento, importación, exportación y disposición final de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos, y
+
+III.- El control sanitario del proceso, uso, aplicación y disposición final de plaguicidas, fertilizantes y substancias tóxicas, así como de las materias primas que intervengan en su elaboración.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 195.
 
-La Secretaría de Salubridad y Asistencia emitirá las especificaciones de identidad y sanitarias de los productos a que se refiere este Título, las que deberán integrarse a las normas oficiales mexicanas, con excepción de los medicamentos, que están normados por la Farmacopea de los Estados Unidos Mexicanos.
+La Secretaría de Salud emitirá las especificaciones de identidad y sanitarias de los productos a que se refiere este Título, las que deberán integrarse a las normas oficiales mexicanas, con excepción de los medicamentos, que están normados por la Farmacopea de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 196.
 
-La Secretaría de Salubridad y Asistencia emitirá las normas técnicas a que deberá sujetarse el proceso de los productos a que se refiere este Título.
+La Secretaría de Salud emitirá las normas técnicas a que deberá sujetarse el proceso de los productos a que se refiere este Título.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 197.
 
-Para los efectos de esta Ley, se entiende por proceso el conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de los productos a que se refiere el artículo 194 de esta Ley.
+Para los efectos de esta Ley, se entiende por proceso el conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de los productos a que se refiere el artículo 194 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 198.
 
-Corresponde a la Secretaría de Salubridad y Asistencia la autorización de los establecimientos en los que se realice el proceso de los productos a que se refiere el artículo 194 de esta Ley, con la excepción prevista en el artículo 199 de la misma.
+Corresponde a la Secretaría de Salud la autorización de los establecimientos en los que se realice el proceso de los productos a que se refiere el artículo 194 de esta Ley, con la excepción prevista en el artículo 199 de la misma.
 
-La Secretaría de Salubridad y Asistencia determinará los casos en que el transporte de los citados productos requerirá de autorización sanitaria.
+La Secretaría de Salud determinará los casos en que el transporte de los citados productos requerirá de autorización sanitaria.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 199.
 
-En base a las normas técnicas que expida la Secretaría de Salubridad y Asistencia, corresponde a los gobiernos de las entidades federativas la autorización de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento.
+En base a las normas técnicas que expida la Secretaría de Salud, corresponde a los gobiernos de las entidades federativas expedir la autorización y ejercer la vigilancia y control sanitarios de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento.
 
 ###### ARTICULO 200.
 
 Los establecimientos en que se realice el proceso o alguna de las operaciones que lo integran, de los productos comprendidos en este Título, requieren para su funcionamiento:
 
-I.- Licencia sanitaria, expedida por la Secretaría de Salubridad y Asistencia o por los gobiernos de las entidades federativas, en los casos a que se refiere el artículo 199 de esta Ley;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+I.- Licencia sanitaria, expedida por la Secretaría de Salud o por los gobiernos de las entidades federativas, en los casos a que se refiere el artículo 199 de esta Ley;
 
 II.- Contar, en su caso, con un responsable que reúna los requisitos que se establecen en esta Ley y en los reglamentos respectivos, y
 
 III.- Contar, en su caso, con los auxiliares del responsable que determinen los reglamentos aplicables, tomando en cuenta la cantidad de los productos de que se trate, la diversidad de líneas de producción y la duración horaria de las operaciones. La autoridad sanitaria competente podrá dispensar de este requisito, previo estudio fundado y motivado.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 201.
 
-La Secretaría de Salubridad y Asistencia, de conformidad con los reglamentos respectivos, determinará los tipos de establecimientos dedicados al proceso de los productos a que se refiere este Título, que deberán efectuar control interno, para lo cual contarán con las instalaciones necesarias.
+La Secretaría de Salud, de conformidad con los reglamentos respectivos, determinará los tipos de establecimientos dedicados al proceso de los productos a que se refiere este Título, que deberán efectuar control interno, para lo cual contarán con las instalaciones necesarias.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 202.
 
-Todo cambio de propietario de un establecimiento, de razón social o denominación o cesión de derechos de productos autorizados por la Secretaría de Salubridad y Asistencia, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
+Todo cambio de propietario de un establecimiento, de razón social o denominación o cesión de derechos de productos autorizados por la Secretaría de Salud, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 203.
 
-La Secretaría de Salubridad y Asistencia, a petición del titular de la autorización de un producto, permitirá que éste pueda ser elaborado por cualquier fabricante, cuando se cumpla con los requisitos consignados al efecto en esta Ley y demás disposiciones aplicables.
+La Secretaría de Salud, a petición del titular de la autorización de un producto, permitirá que éste pueda ser elaborado por cualquier fabricante, cuando se cumpla con los requisitos consignados al efecto en esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 204.
 
-Los productos a que se refiere este Título, para su venta o suministro al público, deberán contar con autorización de la Secretaría de Salubridad y Asistencia, en los términos de esta Ley y demás disposiciones aplicables.
+Los productos a que se refiere este Título, para su venta o suministro al público, deberán contar con autorización de la Secretaría de Salud, en los términos de esta Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 205.
 
@@ -1678,9 +1944,11 @@ I.- Su naturaleza o composición no corresponda a aquéllas con que se etiquete,
 
 II.- Haya sufrido tratamiento que disimule su alteración, se encubran defectos en su proceso o en la calidad sanitaria de las materias primas utilizadas.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 207.
 
-Se considera contaminado el producto o materia prima que contenga microorganismos, hormonas, bacteriostáticos, plaguicidas, partículas radiactivas, materia extraña, así como cualquier otra substancia en cantidades que rebasen los límites permisibles establecidos por la Secretaría de Salubridad y Asistencia.
+Se considera contaminado el producto o materia prima que contenga microorganismos, hormonas, bacteriostáticos, plaguicidas, partículas radiactivas, materia extraña, así como cualquier otra substancia en cantidades que rebasen los límites permisibles establecidos por la Secretaría de Salud.
 
 ###### ARTICULO 208.
 
@@ -1704,7 +1972,9 @@ I.- La denominación distintiva o bien la marca del producto y la denominación 
 
 II.- El nombre y domicilio comercial del titular de la autorización y la dirección del lugar donde se elabore o envase el producto.
 
-III.- El número de autorización del producto con la redacción requerida por la Secretaría de Salubridad y Asistencia;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+III.- El número de autorización del producto con la redacción requerida por la Secretaría de Salud;
 
 IV.- El gentilicio del país de origen precedido de la palabra "producto", cuando se trate de productos de importación;
 
@@ -1724,25 +1994,33 @@ Las leyendas y textos de las etiquetas de los productos nacionales a que se refi
 
 Cuando los productos sean de importación deberán llevar contraetiquetas, en idioma español, con los datos mencionados.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 211.
 
-Los productos que por su naturaleza o por el tamaño de las unidades en que se expendan o suministren no puedan llevar etiqueta, o cuando por su tamaño no puedan contener todos los datos señalados en el artículo anterior quedarán sujetos a lo que disponga la Secretaría de Salubridad y Asistencia.
+Los productos que por su naturaleza o por el tamaño de las unidades en que se expendan o suministren no puedan llevar etiqueta, o cuando por su tamaño no puedan contener todos los datos señalados en el artículo anterior quedarán sujetos a lo que disponga la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 212.
 
-La naturaleza del producto, la fórmula, la composición, calidad, denominación distintiva o marca, denominación genérica o específica, etiquetas y contraetiquetas, deberán corresponder a las especificaciones autorizadas por la Secretaría de Salubridad y Asistencia, de conformidad con las disposiciones aplicables, y no podrán ser modificadas.
+La naturaleza del producto, la fórmula, la composición, calidad, denominación distintiva o marca, denominación genérica o específica, etiquetas y contraetiquetas, deberán corresponder a las especificaciones autorizadas por la Secretaría de Salud, de conformidad con las disposiciones aplicables, y no podrán ser modificadas.
 
 ###### ARTICULO 213.
 
 Los envases de los productos a que se refiere este Título deberán ajustarse a las especificaciones que establezcan las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 214.
 
-La Secretaría de Salubridad y Asistencia editará la Gaceta Sanitaria, en la que se publicarán las normas técnicas que expida la Secretaría, resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de alimentos, bebidas, medicamentos, así como notificaciones de resoluciones administrativas que señale esta Ley, e información que determine la propia Secretaría.
+La Secretaría de Salud editará la Gaceta Sanitaria, en la que se publicarán las normas técnicas que expida la Secretaría, resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de alimentos, bebidas, medicamentos, así como notificaciones de resoluciones administrativas que señale esta Ley, e información que determine la propia Secretaría.
 
 Las notificaciones que conforme a esta Ley deban publicarse a través de la Gaceta Sanitaria, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 215.
 
@@ -1752,15 +2030,25 @@ I.- Alimento: cualquier substancia o producto, sólido o semisólido, natural o 
 
 II.- Bebida no alcohólica: cualquier líquido, natural o transformado, que proporcione al organismo elementos para su nutrición;
 
-III.- Materia prima: cualquier substancia o producto, natural o industrializado, que sea utilizado en la elaboración de los alimentos y bebidas, y
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-IV.- Aditivo alimentario: cualquier substancia permitida que, sin tener propiedades nutritivas, se agregue a los productos para modificar sus características organolépticas o para estabilizarlos o conservarlos.
+III.- Materia prima: Substancia o producto, de cualquier origen, que se use en la elaboración de alimentos y bebidas no alcohólicas y alcohólicas, y
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+IV.- Aditivo: Cualquier substancia permitida que, sin tener propiedades nutritivas, se incluya en la formulación de los productos y que actúe como estabilizante, conservador o modificador de sus características organolépticas, para favorecer ya sea su estabilidad, conservación, apariencia o aceptabilidad.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 216.
 
-La Secretaría de Salubridad y Asistencia, con base en la composición de los alimentos y bebidas, determinará los productos a que puedan atribuírseles propiedades nutritivas particulares, incluyendo los que se destinen a regímenes especiales de alimentación. Cuando la misma Secretaría les reconozca propiedades terapéuticas, se considerarán como medicamentos.
+La Secretaría de Salud, con base en la composición de los alimentos y bebidas, determinará los productos a los que puedan atribuírseles propiedades nutritivas particulares, incluyendo los que se destinen a regímenes especiales de alimentación. Cuando la misma Secretaría les reconozca propiedades terapéuticas, se considerarán como medicamentos.
 
-### CAPITULO II. Sanciones Administrativas
+Los productos autorizados como alimentos o bebidas no podrán ser objeto de envases o presentación para venta o suministro al público, que induzca o sugiera que se trata de productos o substancias con características o propiedades terapéuticas.
+
+### CAPITULO I. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 217.
 
@@ -1774,11 +2062,13 @@ Toda bebida alcohólica, deberá ostentar en los envases, la leyenda: "el abuso 
 
 Corresponde a los gobiernos de las entidades federativas determinar la ubicación y el horario de funcionamiento de los establecimientos en que se expendan bebidas alcohólicas.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 220.
 
-En ningún caso y de ninguna forma se podrán expender bebidas alcohólicas a menores de edad.
+En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad.
 
-### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 221.
 
@@ -1794,13 +2084,17 @@ IV.- Aditivo: toda substancia que se incluya en la formulación de los medicamen
 
 V.- Materiales: los insumos necesarios para el envase y empaque de los medicamentos.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 222.
 
-La Secretaría de Salubridad y Asistencia sólo concederá la autorización correspondiente a los medicamentos, cuando se demuestre que las substancias que contengan reúnan las características de seguridad y eficacia exigidas, y tomará en cuenta, en su caso, lo dispuesto por el artículo 428 de esta Ley.
+La Secretaría de Salud sólo concederá la autorización correspondiente a los medicamentos, cuando se demuestre que las substancias que contengan reúnan las características de seguridad y eficacia exigidas, y tomará en cuenta, en su caso, lo dispuesto por el artículo 428 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 223.
 
-El proceso de las plantas medicinales queda sujeto al control sanitario a que se refiere este Capítulo y a las normas técnicas que al efecto emita la Secretaría de Salubridad y Asistencia.
+El proceso de las plantas medicinales queda sujeto al control sanitario a que se refiere este Capítulo y a las normas técnicas que al efecto emita la Secretaría de Salud.
 
 ###### ARTICULO 224.
 
@@ -1810,7 +2104,9 @@ I.- Magistrales: cuando sean preparados conforme a la fórmula prescrita por un 
 
 II.- Oficinales: cuando la preparación se realice de acuerdo a las reglas de la Farmacopea de los Estados Unidos Mexicanos, y
 
-III.- Especialidades farmacéuticas: cuando sean preparados con fórmulas autorizadas por la Secretaría de Salubridad y Asistencia, en establecimientos de la industria químico-farmacéutica.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+III.- Especialidades farmacéuticas: cuando sean preparados con fórmulas autorizadas por la Secretaría de Salud, en establecimientos de la industria químico-farmacéutica.
 
 ###### ARTICULO 225.
 
@@ -1820,13 +2116,17 @@ I.- No podrá emplearse una denominación distintiva que indique que la especial
 
 II.- No podrá utilizarse una denominación distintiva en el que se expresen, clara o veladamente indicaciones en relación con enfermedades; síndromes o síntomas, ni aquellas que recuerden datos anatómicos o fenómenos fisiológicos, y
 
-III.- No podrá usarse la misma denominación distintiva empleada por otro producto que tenga registro de la Secretaría de Salubridad y Asistencia o que esté en trámite.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+III.- No podrá usarse la misma denominación distintiva empleada por otro producto que tenga registro de la Secretaría de Salud o que esté en trámite.
 
 ###### ARTICULO 226.
 
 Los medicamentos, para su venta y suministro al público, se consideran:
 
-I.- Medicamentos que sólo pueden adquirirse con receta o permiso especial, expedido por la Secretaría de Salubridad y Asistencia, de acuerdo a los términos señalados en el Capítulo V de este Título;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+I.- Medicamentos que sólo pueden adquirirse con receta o permiso especial, expedido por la Secretaría de Salud, de acuerdo a los términos señalados en el Capítulo V de este Título;
 
 II.- Medicamentos que requieren para su adquisición receta médica, que deberá retenerse en la farmacia y ser registrada en los libros de control que al efecto se lleven, de acuerdo a los términos señalados en el Capítulo VI de este Título;
 
@@ -1838,15 +2138,19 @@ V.- Medicamentos disponibles sin receta, y
 
 VI.- Medicamentos que para adquirirse no requieren receta médica y que pueden expenderse en otros establecimientos que no sean farmacias.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 227.
 
-La Secretaría de Salubridad y Asistencia determinará los medicamentos que integren cada uno de los grupos a que se refiere el artículo anterior.
+La Secretaría de Salud determinará los medicamentos que integren cada uno de los grupos a que se refiere el artículo anterior.
 
 El proceso de los medicamentos a que se refieren las fracciones I y II del mismo artículo quedará sujeto a lo que disponen los Capítulos V y VI de este Título.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 228.
 
-La Secretaría de Salubridad y Asistencia, en coordinación con las autoridades encargadas de la sanidad animal, establecerá las leyendas precautorias de los medicamentos de uso veterinario, cuando su uso pueda significar riesgo para la salud humana.
+La Secretaría de Salud, en coordinación con las autoridades encargadas de la sanidad animal, establecerá las leyendas precautorias de los medicamentos de uso veterinario, cuando su uso pueda significar riesgo para la salud humana.
 
 ###### ARTICULO 229.
 
@@ -1868,11 +2172,15 @@ VII.- Antibióticos;
 
 VIII.- Hormonas macromoleculares y enzimas, y
 
-IX.- Las demás que determine la Secretaría de Salubridad y Asistencia.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+IX.- Las demás que determine la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 230.
 
-Los productos de origen biológico requieren de control interno en un laboratorio de la planta productora y de control externo en laboratorios de la Secretaría de Salubridad y Asistencia.
+Los productos de origen biológico requieren de control interno en un laboratorio de la planta productora y de control externo en laboratorios de la Secretaría de Salud.
 
 ###### ARTICULO 231.
 
@@ -1886,7 +2194,7 @@ Los medicamentos de origen biológico de acción inmunológica ostentarán en su
 
 Quedan prohibidos la venta y suministro de medicamentos con fecha de caducidad vencida.
 
-### CAPITULO IV. Recurso de inconformidad
+### CAPITULO III. Procedimiento Para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 234.
 
@@ -2180,7 +2488,9 @@ Trimeperidina ( 1, 2, 5 trimetil-4-fenil-4-propionoxipiperidina); y
 
 Los isómeros de los estupefacientes de la lista anterior, a menos que estén expresamente exceptuados.
 
-Cualquier otro producto, derivado o preparado que contenga substancias señaladas en la lista anterior, sus precursores químicos y, en general, los de naturaleza análoga y cualquier otra substancia que determine la Secretaría de Salubridad y Asistencia o el Consejo de Salubridad General.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Cualquier otro producto, derivado o preparado que contenga substancias señaladas en la lista anterior, sus precursores químicos y, en general, los de naturaleza análoga y cualquier otra substancia que determine la Secretaría de Salud o el Consejo de Salubridad General.
 
 ###### ARTICULO 235.
 
@@ -2188,39 +2498,57 @@ La siembra, cultivo, cosecha, elaboración, preparación, acondicionamiento, adq
 
 I.- Las disposiciones de esta Ley y sus reglamentos;
 
-II.- Los tratados y convenciones internacionales;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+II.- Los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte y que se hubieren celebrado con arreglo a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos;
 
 III.- Las disposiciones que expida el Consejo de Salubridad General;
 
 IV.- Lo que establezcan otras leyes y disposiciones de carácter general relacionadas con la materia;
 
-V.- Las normas técnicas que dicte la Secretaría de Salubridad y Asistencia, y
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+V.- Las normas técnicas que dicte la Secretaría de Salud, y
 
 VI.- Las disposiciones relacionadas que emitan otras dependencias del Ejecutivo Federal en el ámbito de sus respectivas competencias.
 
-Los actos a que se refiere este artículo sólo podrán realizarse con fines médicos y científicos, y requerirán autorización de la Secretaría de Salubridad y Asistencia.
+(NOTA: EL 28 DE JUNIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS II Y III, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 1/2018, DECLARÓ LA INCONSTITUCIONALIDAD DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, PARA LOS ALCANCES ESTABLECIDOS EN ESTA EJECUTORIA, LA CUAL SURTIRÁ EFECTOS GENERALES A PARTIR DE LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS A LA CÁMARA DE DIPUTADOS Y A LA CÁMARA DE SENADORES DEL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Los actos a que se refiere este artículo SÓLO PODRÁN REALIZARSE CON FINES MÉDICOS Y CIENTÍFICOS Y requerirán autorización de la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 236.
 
-Para el comercio o tráfico de estupefacientes en el interior del territorio nacional, la Secretaría de Salubridad y Asistencia fijará los requisitos que deberán satisfacerse y expedirá permisos especiales de adquisición o de traspaso.
+Para el comercio o tráfico de estupefacientes en el interior del territorio nacional, la Secretaría de Salud fijará los requisitos que deberán satisfacerse y expedirá permisos especiales de adquisición o de traspaso.
 
 ###### ARTICULO 237.
 
 Queda prohibido en el territorio nacional, todo acto de los mencionados en el artículo 235 de esta Ley, respecto de las siguientes substancias y vegetales: opio preparado, para fumar, diacetilmorfina o heroína, sus sales o preparados, cannabis sativa, índica y americana o marihuana, papaver somniferum o adormidera, papaver bactreatum y erythroxilon novogratense o coca, en cualquiera de sus formas, derivados o preparaciones.
 
-Igual prohibición podrá ser establecida por la Secretaría de Salubridad y Asistencia para otras substancias señaladas en el artículo 234 de esta Ley, cuando se considere que puedan ser sustituidas en sus usos terapéuticos por otros elementos que, a su juicio, no originen dependencia.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Igual prohibición podrá ser establecida por la Secretaría de Salud para otras substancias señaladas en el artículo 234 de esta Ley, cuando se considere que puedan ser sustituidas en sus usos terapéuticos por otros elementos que, a su juicio, no originen dependencia.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 238.
 
-Solamente para fines de investigación científica, la Secretaría de Salubridad y Asistencia autorizará a los organismos o instituciones que hayan presentado protocolo de investigación autorizado por aquella dependencia, la adquisición de estupefacientes a que se refiere el artículo 237 de esta Ley. Dichos organismos e instituciones comunicarán a la Secretaría de Salubridad y Asistencia el resultado de las investigaciones efectuadas y cómo se utilizaron.
+Solamente para fines de investigación científica, la Secretaría de Salud autorizará a los organismos o instituciones que hayan presentado protocolo de investigación autorizado por aquella dependencia, la adquisición de estupefacientes a que se refiere el artículo 237 de esta Ley. Dichos organismos e instituciones comunicarán a la Secretaría de Salud el resultado de las investigaciones efectuadas y cómo se utilizaron.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 239.
 
-Los estupefacientes y los productos que los contengan, que hayan sido asegurados o puestos a disposición de la Secretaría de Salubridad y Asistencia y puedan ser utilizados por ésta, ingresarán, previo registro, a un depósito especial establecido por la citada Secretaría y estarán sujetos al control y uso que ella determine.
+Los estupefacientes y los productos que los contengan, que hayan sido asegurados o puestos a disposición de la Secretaría de Salud y puedan ser utilizados por ésta, ingresarán, previo registro, a un depósito especial establecido por la citada Secretaría y estarán sujetos al control y uso que ella determine.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 240.
 
-Sólo podrán prescribir estupefacientes los profesionales que a continuación se mencionan, siempre que tengan título registrado por las autoridades educativas competentes, cumplan con las condiciones que señala esta Ley y sus reglamentos y con los requisitos que determine la Secretaría de Salubridad y Asistencia:
+Sólo podrán prescribir estupefacientes los profesionales que a continuación se mencionan, siempre que tengan título registrado por las autoridades educativas competentes, cumplan con las condiciones que señala esta Ley y sus reglamentos y con los requisitos que determine la Secretaría de Salud
 
 I.- Los médicos cirujanos;
 
@@ -2228,11 +2556,15 @@ II.- Los médicos veterinarios, cuando los prescriban para la aplicación en ani
 
 III.- Los cirujanos dentistas, para casos odontológicos.
 
-Los pasantes de medicina, durante la prestación del servicio social, podrán prescribir estupefacientes, con las limitaciones que la Secretaría de Salubridad y Asistencia determine.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Los pasantes de medicina, durante la prestación del servicio social, podrán prescribir estupefacientes, con las limitaciones que la Secretaría de Salud determine.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 241.
 
-La prescripción de estupefacientes se hará en recetarios o permisos especiales, editados, autorizados y suministrados por la Secretaría de Salubridad y Asistencia, en los siguientes términos:
+La prescripción de estupefacientes se hará en recetarios o permisos especiales, editados, autorizados y suministrados por la Secretaría de Salud, en los siguientes términos:
 
 I.- Mediante receta de los profesionales autorizados en los términos del artículo 240 de esta Ley, para enfermos que los requieran por lapsos no mayores de cinco días, y
 
@@ -2242,19 +2574,23 @@ II.- Mediante permiso especial a los profesionales respectivos, para el tratamie
 
 Las prescripciones de estupefacientes a que se refiere el artículo anterior, sólo podrán ser surtidas por los establecimientos autorizados para tal fin.
 
-Los citados establecimientos recogerán invariablemente las recetas o permisos, harán los asientos respectivos en el libro de contabilidad de estupefacientes y entregarán las recetas y permisos al personal autorizado por la Secretaría de Salubridad y Asistencia, cuando el mismo lo requiera.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Los citados establecimientos recogerán invariablemente las recetas o permisos, harán los asientos respectivos en el libro de contabilidad de estupefacientes y entregarán las recetas y permisos al personal autorizado por la Secretaría de Salud, cuando el mismo lo requiera.
 
 Sólo se despacharán prescripciones de estupefacientes, cuando procedan de profesionales autorizados conforme al artículo 240 de esta Ley, y si la receta o permiso formulados en el recetario especial contiene todos los datos que las disposiciones aplicables señalen, y las dosis no sobrepasen a las autorizadas en la Farmacopea de los Estados Unidos Mexicanos o en los ordenamientos correspondientes.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 243.
 
-Los preparados que contengan acetildihidrocodeína, codeína, destropropoxifeno, dihidrocodeína, etilmorfina, folcodina, nicocodina, corcodeína y propiram, que formen parte de la composición de especialidades farmacéuticas, estarán sujetos, para los fines de su preparación, prescripción y venta o suministro al público, a los requisitos que sobre su formulación establezca la Secretaría de Salubridad y Asistencia.
+Los preparados que contengan acetildihidrocodeína, codeína, destropropoxifeno, dihidrocodeína, etilmorfina, folcodina, nicocodina, corcodeína y propiram, que formen parte de la composición de especialidades farmacéuticas, estarán sujetos, para los fines de su preparación, prescripción y venta o suministro al público, a los requisitos que sobre su formulación establezca la Secretaría de Salud.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de inconformidad
 
 ###### ARTICULO 244.
 
-Para los efectos de esta Ley, se consideran substancias psicotrópicas aquellas que determine específicamente el Consejo de Salubridad General o la Secretaría de Salubridad y Asistencia y, en general, los barbitúricos y otras substancias naturales o sintéticas depresoras o estimulantes del sistema nervioso central que por su acción farmacológica puedan inducir a la farmacodependencia.
+Para los efectos de esta Ley, se consideran substancias psicotrópicas aquellas que determine específicamente el Consejo de Salubridad General o la Secretaría de Salud y, en general, los barbitúricos y otras substancias naturales o sintéticas depresoras o estimulantes del sistema nervioso central que por su acción farmacológica puedan inducir a la farmacodependencia.
 
 ###### ARTICULO 245.
 
@@ -2270,9 +2606,11 @@ IV.- Las que tienen amplios usos terapéuticos y constituyen un problema menor p
 
 V.- Las que carecen de valor terapéutico y se utilizan corrientemente en la industria.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 246.
 
-La Secretaría de Salubridad y Asistencia determinará las substancias que integran cada uno de los grupos a que se refiere el artículo anterior, y los catálogos correspondientes se publicarán en el Diario Oficial de la Federación.
+La Secretaría de Salud determinará las substancias que integran cada uno de los grupos a que se refiere el artículo anterior, y los catálogos correspondientes se publicarán en el Diario Oficial de la Federación.
 
 ###### ARTICULO 247.
 
@@ -2280,17 +2618,25 @@ La siembra, cultivo, cosecha, elaboración, preparación, acondicionamiento, adq
 
 I.- Las disposiciones de esta Ley y sus reglamentos;
 
-II.- Los tratados y convenciones internacionales;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+II.- Los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte y que se hubieren celebrado con arreglo a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos;
 
 III.- Las disposiciones que expida el Consejo de Salubridad General;
 
 IV.- Lo que establezcan otras leyes y disposiciones de carácter general relacionadas con la materia;
 
-V.- Las normas técnicas que dicte la Secretaría de Salubridad y Asistencia, y
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+V.- Las normas técnicas que dicte la Secretaría de Salud, y
 
 VI.- Las disposiciones relacionadas que emitan otras dependencias del ejecutivo Federal en el ámbito de sus respectivas competencias.
 
-Los actos a que se refiere este artículo sólo podrán realizarse con fines médicos y científicos, y requerirán, al igual que las substancias respectivas, autorización de la Secretaría de Salubridad y Asistencia.
+(NOTA: EL 28 DE JUNIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS II Y III, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 1/2018, DECLARÓ LA INCONSTITUCIONALIDAD DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, PARA LOS ALCANCES ESTABLECIDOS EN ESTA EJECUTORIA, LA CUAL SURTIRÁ EFECTOS GENERALES A PARTIR DE LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS A LA CÁMARA DE DIPUTADOS Y A LA CÁMARA DE SENADORES DEL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Los actos a que se refiere este artículo SÓLO PODRÁN REALIZARSE CON FINES MÉDICOS Y CIENTÍFICOS Y requerirán, al igual que las substancias respectivas, autorización de la Secretaría de Salud.
 
 ###### ARTICULO 248.
 
@@ -2336,31 +2682,41 @@ Williamsii; Anhalonium lewinii y su principio activo
 
 Tetrahidrocanabilones.
 
-Cualquier otro producto, derivado o preparado que contenga las substancias señaladas en la relación anterior y, cuando expresamente lo determine la Secretaría de Salubridad y Asistencia o el Consejo de Salubridad General, sus precursores químicos en general los de naturaleza análoga.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Cualquier otro producto, derivado o preparado que contenga las substancias señaladas en la relación anterior y, cuando expresamente lo determine la Secretaría de Salud o el Consejo de Salubridad General, sus precursores químicos en general los de naturaleza análoga.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 249.
 
-Solamente para fines de investigación científica, la Secretaría de Salubridad y Asistencia podrá autorizar la adquisición de las substancias psicotrópicas a que se refiere el artículo anterior, para ser entregadas bajo control a organismos o instituciones que hayan presentado protocolo de investigación autorizado por aquella dependencia, los que a su vez comunicarán a la citada Secretaría el resultado de las investigaciones efectuadas y cómo se utilizaron.
+Solamente para fines de investigación científica, la Secretaría de Salud podrá autorizar la adquisición de las substancias psicotrópicas a que se refiere el artículo anterior, para ser entregadas bajo control a organismos o instituciones que hayan presentado protocolo de investigación autorizado por aquella dependencia, los que a su vez comunicarán a la citada Secretaría el resultado de las investigaciones efectuadas y cómo se utilizaron.
 
 ###### ARTICULO 250.
 
 Las substancias psicotrópicas correspondientes a la fracción Il del artículo 245 de esta Ley, y que se prevean en las disposiciones aplicables o en los catálogos a que se refiere el artículo 246, quedarán sujetas, en lo conducente, a las disposiciones del Capítulo V de este Título.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 251.
 
-Las substancias psicotrópicas correspondientes a la fracción III del artículo 245 de esta Ley, y que se prevean en las disposiciones aplicables o en los catálogos a que se refiere el artículo 246, requerirán, para su venta o suministro al público, receta médica que contenga el número de la cédula profesional del médico que la expida, la que deberá surtirse por una sola vez y retenerse en la farmacia que la surta, de acuerdo a las disposiciones de la Secretaría de Salubridad y Asistencia.
+Las substancias psicotrópicas correspondientes a la fracción III del artículo 245 de esta Ley, y que se prevean en las disposiciones aplicables o en los catálogos a que se refiere el artículo 246, requerirán, para su venta o suministro al público, receta médica que contenga el número de la cédula profesional del médico que la expida, la que deberá surtirse por una sola vez y retenerse en la farmacia que la surta, de acuerdo a las disposiciones de la Secretaría de Salud.
 
 ###### ARTICULO 252.
 
 Las substancias psicotrópicas correspondientes a la fracción IV del artículo 245 de esta Ley, que se prevean en las disposiciones aplicables o en los catálogos a que se refiere el artículo 246, requerirán para su venta o suministro al público, receta médica que contenga el número de la cédula profesional del médico que la expida, la que podrá surtir hasta por tres veces, con una vigencia de 6 meses a partir de la fecha de su expedición, y no requerirá ser retenida en la farmacia que la surta.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 253.
 
-La Secretaría de Salubridad y Asistencia determinará, tomando en consideración el riesgo que representen para la salud pública por su frecuente uso indebido, cuáles de las substancias con acción psicotrópica que carezcan de valor terapéutico y se utilicen en la industria, artesanías, comercio y otras actividades, deban ser consideradas como peligrosas, y su venta estará sujeta al control de dicha dependencia.
+La Secretaría de Salud determinará, tomando en consideración el riesgo que representen para la salud pública por su frecuente uso indebido, cuáles de las substancias con acción psicotrópica que carezcan de valor terapéutico y se utilicen en la industria, artesanías, comercio y otras actividades, deban ser consideradas como peligrosas, y su venta estará sujeta al control de dicha dependencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 254.
 
-La Secretaría de Salubridad y Asistencia y los gobiernos de las entidades federativas en sus respectivos ámbitos de competencia, para evitar y prevenir el consumo de substancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+La Secretaría de Salud y los gobiernos de las entidades federativas en sus respectivos ámbitos de competencia, para evitar y prevenir el consumo de substancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
 
 I.- Determinarán y ejercerán medios de control en el expendio de substancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
 
@@ -2380,7 +2736,7 @@ Los medicamentos que tengan incorporadas substancias psicotrópicas que puedan c
 
 Los envases y empaques de las substancias psicotrópicas, para su expendio llevarán etiquetas que, además de los requisitos que determina el artículo 210 de esta Ley, ostenten los que establezcan las disposiciones aplicables a la materia de este Capítulo.
 
-### CAPITULO VI. Delitos
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 257.
 
@@ -2406,23 +2762,33 @@ IX.- Fábrica, laboratorio, almacén de depósito y distribución o expendio de 
 
 X.- Los demás que determine el Consejo de Salubridad General.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 258.
 
-Los establecimientos a que se refiere el artículo anterior deberán contar con la licencia sanitaria correspondiente expedida por la Secretaría de Salubridad y Asistencia, y poseer y utilizar la última edición de la Farmacopea de los Estados Unidos Mexicanos y sus suplementos oficiales elaborados por la propia Secretaría.
+Los establecimientos a que se refiere el artículo anterior deberán contar con la licencia sanitaria correspondiente expedida por la Secretaría de Salud, y poseer y utilizar la última edición de la Farmacopea de los Estados Unidos Mexicanos y sus suplementos oficiales elaborados por la propia Secretaría.
 
 ###### ARTICULO 259.
 
 Los establecimientos destinados al proceso de medicamentos deberán contar con un responsable de la identidad y pureza de los productos.
 
-Los responsables y sus auxiliares deberán ser idóneos y contar con autorización de la Secretaría de Salubridad y Asistencia, la que podrá autorizar a pasantes como auxiliares en casos excepcionales.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Los responsables y sus auxiliares deberán ser idóneos y contar con autorización de la Secretaría de Salud, la que podrá autorizar a pasantes como auxiliares en casos excepcionales.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 260.
 
-El responsable de establecimientos a que se refiere el artículo 257 de esta Ley, deberá ser profesional con título registrado por las autoridades educativas competentes, de farmacéutico, homeópata, químico, químico farmacéutico, biólogo, médico o equivalente. Para el caso de las fracciones II y IV del mismo artículo, podrá aceptarse un químico industrial o ingeniero químico o profesional titulado, cuya carrera se encuentre íntimamente relacionada con el área farmacéutica. En el caso de la fracción IX, podrá ser un médico veterinario zootecnista.
+En los supuestos a que se refiere el artículo 257 de esta Ley, el responsable deberá ser profesional con título registrado por las autoridades educativas competentes de: farmacéutico, homeópata, químico, químico farmacéutico biólogo, médico o equivalente. Para los casos que regula la fracción IV del señalado artículo 257, podrá aceptarse un químico industrial o profesional titulado cuya carrera se encuentre íntimamente relacionada con el área farmacéutica. En el caso de la fracción IX el responsable podrá ser un médico veterinario zootecnista.
 
 ###### ARTICULO 261.
 
 En los casos en que resulten afectadas, por acción u omisión, la identidad, pureza, conservación, preparación, dosificación o manufactura de los productos, el responsable del establecimiento y el propietario del mismo responderán solidariamente de las sanciones que correspondan en los términos que señalen esta Ley y demás disposiciones legales aplicables.
+
+### CAPITULO VI. Delitos
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 262.
 
@@ -2438,13 +2804,17 @@ IV.- Insumos de uso odontológico: todas las substancias o materiales empleados 
 
 V.- Materiales quirúrgicos, de curación y productos higiénicos: todos aquellos que, adicionados o no de desinfectantes, antisépticos o soluciones germicidas, se empleen en procedimientos de la práctica médico-quirúrgica, y los que se apliquen en las superficies y cavidades corporales.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 263.
 
-En el caso de equipos médicos, prótesis, órtesis y ayudas funcionales, deberán expresarse en la etiqueta o manual correspondiente las especificaciones de manejo y conservación, con las características que señale la Secretaría de Salubridad y Asistencia.
+En el caso de equipos médicos, prótesis, órtesis y ayudas funcionales, deberán expresarse en la etiqueta o manual correspondiente las especificaciones de manejo y conservación, con las características que señale la Secretaría de Salud.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 264.
 
-El proceso, uso y mantenimiento de equipos médicos y agentes de diagnóstico en los que intervengan fuentes de radiación: se ajustarán a las normas técnicas dictadas por la Secretaría de Salubridad y Asistencia, incluso en la eliminación de desechos de tales materiales, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+El proceso, uso y mantenimiento de equipos médicos y agentes de diagnóstico en los que intervengan fuentes de radiación: se ajustarán a las normas técnicas dictadas por la Secretaría de Salud, incluso en la eliminación de desechos de tales materiales, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
 Las etiquetas y contraetiquetas de los equipos y agentes de diagnóstico deberán ostentar, además de los requisitos establecidos en el artículo 210 de esta Ley, la leyenda: "Peligro, material radiactivo para uso exclusivo en medicinas"; la indicación de los isótopos que contienen actividad, vida media de los mismos y tipo de radiaciones que emiten, así como el logotipo internacional reconocido para indicar los materiales radiactivos.
 
@@ -2514,7 +2884,9 @@ VII.- Desinfectantes;
 
 VIII.- Desodorantes y aromatizantes ambientales, y
 
-IX.- Los demás de naturaleza análoga que determine la Secretaría de Salubridad y Asistencia.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+IX.- Los demás de naturaleza análoga que determine la Secretaría de Salud.
 
 ###### ARTICULO 274.
 
@@ -2524,27 +2896,39 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 Para los efectos de esta Ley, con el nombre de tabaco se designa a la planta "Nicotina Tabacum" y sus sucedáneos, en su forma natural o modificada, en las diferentes presentaciones, que se utilicen para fumar, masticar o aspirar.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 276.
 
-En las etiquetas de los empaques y envases en que se expenda o suministre tabaco, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, deberá figurar en forma clara y visible la leyenda: "Este producto puede ser nocivo para la salud", escrito con letra fácilmente legible, en colores contrastantes y sin que se invoque o se haga referencia a alguna disposición legal.
+En las etiquetas de los empaques y envases en que se expenda o suministre tabaco, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, deberá figurar en forma clara y visible la leyenda: “Este producto es nocivo para la salud”, escrita con letra fácilmente legible, en colores contrastantes y sin que se invoque o se haga referencia a alguna disposición legal.
+
+Las disposiciones reglamentarias señalarán las demás leyendas de advertencia que deban figurar en forma y términos señalados en el anterior párrafo, a fin de advertir a grupos determinados de la población como mujeres en estado de gestación, personas con afecciones cardíacas o respiratorias y otras, de los riesgos específicos que provoca el consumo de tabaco.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 277.
 
-En ningún caso y de ninguna forma se podrá expender tabaco a menores de edad.
+En ningún caso y de ninguna forma se podrá expender o suministrar tabaco a menores de edad.
 
 ###### ARTICULO 278.
 
 Para los efectos de esta Ley, se entiende por:
 
-I.- Plaguicida: cualquier substancia o mezcla de substancias que se destine a destruir, controlar, prevenir o repeler la acción de cualquier forma de vida animal o vegetal;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+I.- Plaguicida: Cualquier substancia o mezcla de substancias utilizadas para prevenir, destruir, repeler o mitigar cualquier forma de vida que sea nociva para la salud, los bienes del hombre o el ambiente, excepto la que exista sobre o dentro del ser humano y los protozoarios, virus, bacterias, hongos y otros microorganismos similares sobre o dentro de los animales;
 
 II.- Fertilizante: cualquier substancia o mezcla de substancias que se destine a mejorar el crecimiento y productividad de las plantas, y
 
-III.- Substancias tóxicas: las que por constituir un riesgo para la salud, determine la Secretaría de Salubridad y Asistencia en las listas que, para efecto de control sanitario, publique en el Diario Oficial de la Federación y en la Gaceta Sanitaria.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+III.- Substancias tóxicas: Las que por constituir un riesgo para la salud determine la Secretaría de Salud en las listas que, para efectos de control sanitario, publique en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 279.
 
-Corresponde a la Secretaría de Salubridad y Asistencia:
+Corresponde a la Secretaría de Salud:
 
 I.- Establecer, en coordinación con las dependencias del Ejecutivo Federal competentes y para fines de control sanitario, la clasificación y las características de los diferentes productos a que se refiere este Capítulo, de acuerdo al riesgo que representen directa o indirectamente para la salud humana;
 
@@ -2556,13 +2940,17 @@ IV.- Autorizar el proceso de los plaguicidas de acción residual o de cualquier 
 
 V.- Establecer las condiciones sanitarias que se deberán cumplir para embalar, almacenar y transportar plaguicidas y fertilizantes.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 280.
 
-Durante el proceso y uso de los plaguicidas y fertilizantes, se evitará el contacto y la proximidad de los mismos con alimentos y otros objetos cuyo empleo, una vez contaminados, represente riesgo para la salud humana.
+Durante el proceso, uso o aplicación de los plaguicidas, fertilizantes y substancias tóxicas, se evitará el contacto y la proximidad de los mismos con alimentos y otros objetos cuyo empleo, una vez contaminados, represente (sic) riesgo para la salud humana.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 281.
 
-Las etiquetas de los envases de los plaguicidas y fertilizantes, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, deberán ostentar claramente la leyenda sobre los peligros que implica el manejo del producto, su forma de uso, sus antídotos en caso de intoxicación y el manejo de los envases que los contengan o los hayan contenido, de conformidad con las disposiciones legales aplicables y las normas que dicte la Secretaría de Salubridad y Asistencia.
+Las etiquetas de los envases de los plaguicidas y fertilizantes, además de lo establecido en el artículo 210 de esta Ley, en lo conducente, deberán ostentar claramente la leyenda sobre los peligros que implica el manejo del producto, su forma de uso, sus antídotos en caso de intoxicación y el manejo de los envases que los contengan o los hayan contenido, de conformidad con las disposiciones legales aplicables y las normas que dicte la Secretaría de Salud.
 
 ###### ARTICULO 282.
 
@@ -2570,45 +2958,57 @@ El control sanitario de las substancias a que se refiere la fracción III del ar
 
 ###### ARTICULO 283.
 
-Corresponde a la Secretaría de Salubridad y Asistencia el control sanitario de los productos y materias primas de importación y exportación comprendidos en este Título, incluyendo la identificación, naturaleza y características de los productos respectivos.
+Corresponde a la Secretaría de Salud el control sanitario de los productos y materias primas de importación y exportación comprendidos en este Título, incluyendo la identificación, naturaleza y características de los productos respectivos.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 284.
 
-La Secretaría de Salubridad y Asistencia podrá identificar, comprobar, certificar y vigilar, en el ámbito nacional, la calidad sanitaria de los productos materia de importación.
+La Secretaría de Salud podrá identificar, comprobar, certificar y vigilar, en el ámbito nacional, la calidad sanitaria de los productos materia de importación.
 
-En los casos en que los productos de importación no reúnan los requisitos o características que establezca la legislación correspondiente, la Secretaría de Salubridad y Asistencia aplicará las medidas de seguridad que correspondan.
+En los casos en que los productos de importación no reúnan los requisitos o características que establezca la legislación correspondiente, la Secretaría de Salud aplicará las medidas de seguridad que correspondan.
 
 ###### ARTICULO 285.
 
 El importador de los productos a que se refiere este Título, deberá estar domiciliado en el país y sujetarse a las disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 286.
 
-Para la importación de los productos a que se refiere este Título, así como de las materias primas que intervengan en su elaboración, se requerirá que el importador exhiba la documentación sanitaria del país de origen que exija la Secretaría de Salubridad y Asistencia, autenticada, cuando proceda, por las autoridades consulares mexicanas.
+Para la importación de los productos a que se refiere este Título, así como de las materias primas que intervengan en su elaboración, se requerirá que el importador exhiba la documentación sanitaria del país de origen que exija la Secretaría de Salud, autenticada, cuando proceda, por las autoridades consulares mexicanas.
 
-La Secretaría de Salubridad y Asistencia determinará qué productos o materias primas de importación requerirán de autorización previa. Cuando la importación esté sujeta a previo permiso de la Secretaría de Comercio y Fomento Industrial, deberá exhibírsele la autorización de la de Salubridad y Asistencia.
+La Secretaría de Salud determinará qué productos o materias primas de importación requerirán de autorización previa. Cuando la importación esté sujeta a previo permiso de la Secretaría de Comercio y Fomento Industrial, deberá exhibírsele la autorización de la de Salubridad y Asistencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 287.
 
-Sin perjuicio de las atribuciones de otras dependencias del Ejecutivo Federal, se requiere autorización sanitaria de la Secretaría de Salubridad y Asistencia para la importación de:
+Sin perjuicio de las atribuciones de otras dependencias del Ejecutivo Federal, se requiere autorización sanitaria de la Secretaría de Salud para la importación de:
 
 I.- Medicamentos, y
 
 II.- Materias primas para la elaboración de medicamentos que determine la propia Secretaría en lista publicada en el Diario Oficial de la Federación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 288.
 
-Para exportar los productos a que se refiere este Título, se requerirá acreditar ante la autoridad competente, que el establecimiento responsable de su proceso cuenta con licencia sanitaria expedida por la Secretaría de Salubridad y Asistencia, y los productos se encuentran autorizados por la misma, con las excepciones que la propia Secretaría establezca.
+Para exportar los productos a que se refiere este Título, se requerirá acreditar ante la autoridad competente, que el establecimiento responsable de su proceso cuenta con licencia sanitaria expedida por la Secretaría de Salud, y los productos se encuentran autorizados por la misma, con las excepciones que la propia Secretaría establezca.
 
 En el caso de exportación de alimentos a granel, frescos o congelados, preelaborados o de materias primas para la elaboración de los productos mencionados en el párrafo anterior, se requerirá solamente que el exportador exhiba licencia sanitaria vigente otorgada por la propia Secretaría.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 289.
 
-La importación y exportación de estupefacientes, substancias psicotrópicas y productos o preparados que los contengan, requieren autorización de la Secretaría de Salubridad y Asistencia. Dichas operaciones podrán realizarse únicamente por la aduana o aduanas de puertos aéreos que determine la Secretaría de Salubridad y Asistencia, en coordinación con las autoridades competentes. En ningún caso podrán efectuarse por vía postal.
+La importación y exportación de estupefacientes, substancias psicotrópicas y productos o preparados que los contengan, requieren autorización de la Secretaría de Salud. Dichas operaciones podrán realizarse únicamente por la aduana o aduanas de puertos aéreos que determine la Secretaría de Salud, en coordinación con las autoridades competentes. En ningún caso podrán efectuarse por vía postal.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 290.
 
-La Secretaría de Salubridad y Asistencia otorgará autorización para importar estupefacientes, substancias psicotrópicas, productos o preparados que los contengan exclusivamente a:
+La Secretaría de Salud otorgará autorización para importar estupefacientes, substancias psicotrópicas, productos o preparados que los contengan exclusivamente a:
 
 I.- Las droguerías, para venderlos a farmacias o para las preparaciones oficinales que el propio establecimiento elabore, y
 
@@ -2622,7 +3022,21 @@ Las oficinas consulares mexicanas en el extranjero certificarán la documentaci�
 
 I.- Permiso sanitario, expedido por las autoridades competentes del país de donde procedan, autorizando la salida de los productos que se declaren en los documentos consulares correspondientes, invariablemente tratándose de estupefacientes y cuando así proceda respecto de substancias psicotrópicas, y
 
-II.- Permiso sanitario expedido por la Secretaría de Salubridad y Asistencia, autorizando la importación de los productos que se indiquen en el documento consular. Este permiso será retenido por el cónsul al certificar el documento.
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+II.- Permiso sanitario expedido por la Secretaría de Salud, autorizando la importación de los productos que se indiquen en el documento consular. Este permiso será retenido por el cónsul al certificar el documento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+¬ARTICULO 292.-¬ La Secretaría de Salud autorizará la exportación de estupefacientes, substancias psicotrópicas, productos o preparados que los contengan, cuando no haya inconveniente para ello y se satisfagan los requisitos siguientes:
+
+I.- Que los interesados presenten el permiso sanitario de importación expedido por la autoridad competente del país a que se destinen, invariablemente tratándose de estupefacientes y cuando así proceda respecto de substancias psicotrópicas, y
+
+II.- Que la aduana por donde se pretenda exportarlos sea de las señaladas conforme al artículo 289 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+La Secretaría de Salud enviará copia del permiso sanitario que expida, fechado y numerado, al puerto de salida autorizado.
 
 ###### ARTICULO 292.
 
@@ -2638,55 +3052,75 @@ La Secretaría de Salubridad y Asistencia enviará copia del permiso sanitario q
 
 Queda prohibido el transporte por el territorio nacional, con destino a otro país, de las substancias señaladas en el artículo 289 de esta Ley, así como de las que en el futuro se determinen de acuerdo con lo que establece el artículo 246 de la misma.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 294.
 
-La Secretaría de Salubridad y Asistencia está facultada para intervenir en puertos marítimos y aéreos, en las fronteras y, en general, en cualquier punto del territorio nacional, en relación con el tráfico de estupefacientes y substancias psicotrópicas, para los efectos de identificación, control y disposición sanitarios.
+La Secretaría de Salud está facultada para intervenir en puertos marítimos y aéreos, en las fronteras y, en general, en cualquier punto del territorio nacional, en relación con el tráfico de estupefacientes y substancias psicotrópicas, para los efectos de identificación, control y disposición sanitarios.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 295.
 
-Los reglamentos respectivos y, a falta de ellos, la Secretaría de Salubridad y Asistencia, determinarán en qué casos la importación de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos, requerirán permiso sanitario expedido por la propia Secretaría.
+Los reglamentos respectivos y, a falta de ellos, la Secretaría de Salud, determinarán en qué casos la importación de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos, requerirán permiso sanitario expedido por la propia Secretaría.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 296.
 
-Para importar equipos o aparatos radiactivos para uso industrial, técnico o científico, cuya operación, conservación o almacenamiento pueda causar daños a la salud humana, se requiere permiso sanitario expedido por la Secretaría de Salubridad y Asistencia.
+Para importar equipos o aparatos radiactivos para uso industrial, técnico o científico, cuya operación, conservación o almacenamiento pueda causar daños a la salud humana, se requiere permiso sanitario expedido por la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 297.
 
-La importación de los equipos y aparatos considerados como fuentes de radiación, los reactores nucleares, los aceleradores de partículas cargadas de electricidad, las fuentes de neutrones, los aparatos de microondas, de radar y de rayos X, infrarrojos, ultravioleta, y lasser, así como los isótopos radiactivos y cualquier otra fuente de naturaleza análoga, requiere autorización de la Secretaría de Salubridad y Asistencia, considerando la opinión de otras instituciones especializadas en la materia cuando lo estime pertinente.
+La importación de los equipos y aparatos considerados como fuentes de radiación, los reactores nucleares, los aceleradores de partículas cargadas de electricidad, las fuentes de neutrones, los aparatos de microondas, de radar y de rayos X, infrarrojos, ultravioleta, y lasser, así como los isótopos radiactivos y cualquier otra fuente de naturaleza análoga, requiere autorización de la Secretaría de Salud, considerando la opinión de otras instituciones especializadas en la materia cuando lo estime pertinente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 298.
 
-Se requiere autorización sanitaria de la Secretaría de Salubridad y Asistencia para la importación de plaguicidas, fertilizantes y substancias tóxicas que constituyan un riesgo para la salud.
+Se requiere autorización sanitaria de la Secretaría de Salud para la importación de plaguicidas, fertilizantes y substancias tóxicas que constituyan un riesgo para la salud.
 
 La importación de plaguicidas o componentes de acción residual y los de cualquier composición química, únicamente se autorizará cuando éstos no entrañen un peligro para la salud humana y no sea posible la sustitución adecuada de los mismos.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 299.
 
-Cuando se autorice la importación de las substancias mencionadas en el artículo anterior, corresponde a la Secretaría de Salubridad y Asistencia vigilar y controlar las actividades que con ellas se efectúen, en los términos de las disposiciones aplicables.
+Cuando se autorice la importación de las substancias mencionadas en el artículo anterior, corresponde a la Secretaría de Salud vigilar y controlar las actividades que con ellas se efectúen, en los términos de las disposiciones aplicables.
 
 ## TITULO DECIMO SEPTIMO. Vigilancia Sanitaria
 
 ###### ARTICULO 300.
 
-Con el fin de proteger la salud pública, es competencia de la Secretaría de Salubridad y Asistencia la autorización de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de los inválidos, al ejercicio de las disciplinas para la salud y a los productos y servicios a que se refiere esta Ley. Esta facultad se ejercerá sin perjuicio de las atribuciones que en esta materia confieran las leyes a las Secretarías de Gobernación, Educación Pública, Comercio y Fomento Industrial, Comunicaciones y Transportes y otras dependencias del Ejecutivo Federal.
+Con el fin de proteger la salud pública, es competencia de la Secretaría de Salud la autorización de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de los inválidos, al ejercicio de las disciplinas para la salud y a los productos y servicios a que se refiere esta Ley. Esta facultad se ejercerá sin perjuicio de las atribuciones que en esta materia confieran las leyes a las Secretarías de Gobernación, Educación Pública, Comercio y Fomento Industrial, Comunicaciones y Transportes y otras dependencias del Ejecutivo Federal.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 301.
 
-Será objeto de autorización por parte de la Secretaría de Salubridad y Asistencia el conjunto de actividades de publicidad que se realicen sobre la existencia, calidad y características, así como para promover el uso, venta o consumo en forma directa o indirecta de los productos y servicios a que se refiere este ordenamiento.
+Será objeto de autorización por parte de la Secretaría de Salud el conjunto de actividades de publicidad que se realicen sobre la existencia, calidad y características, así como para promover el uso, venta o consumo en forma directa o indirecta de los productos y servicios a que se refiere este ordenamiento.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 302.
 
-Los gobiernos de las entidades federativas coadyuvarán con la Secretaría de Salubridad y Asistencia en las actividades a que se refiere el artículo anterior, que se lleven a cabo en sus respectivas jurisdicciones territoriales.
+Los gobiernos de las entidades federativas coadyuvarán con la Secretaría de Salud en las actividades a que se refiere el artículo anterior, que se lleven a cabo en sus respectivas jurisdicciones territoriales.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 303.
 
-La Secretaría de Salubridad y Asistencia coordinará las acciones que, en materia de publicidad relacionada con la salud, realicen las instituciones del sector público, con la participación que corresponda a los sectores social y privado, y con la intervención que corresponda a la Secretaría de Gobernación.
+La Secretaría de Salud coordinará las acciones que, en materia de publicidad relacionada con la salud, realicen las instituciones del sector público, con la participación que corresponda a los sectores social y privado, y con la intervención que corresponda a la Secretaría de Gobernación.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 304.
 
-La clave de autorización de la publicidad otorgada por la Secretaría de Salubridad y Asistencia, deberá aparecer en el material publicitario de que se trate.
+La clave de autorización de la publicidad otorgada por la Secretaría de Salud, deberá aparecer en el material publicitario de que se trate.
 
-Las resoluciones sobre autorizaciones de publicidad que emita la Secretaría de Salubridad y Asistencia, no podrán ser utilizadas con fines comerciales o publicitarios.
+Las resoluciones sobre autorizaciones de publicidad que emita la Secretaría de Salud, no podrán ser utilizadas con fines comerciales o publicitarios.
 
 ###### ARTICULO 305.
 
@@ -2704,7 +3138,9 @@ III.- Los elementos que compongan el mensaje deberán ser congruentes con las ca
 
 IV.- El mensaje no deberá inducir a conductas, prácticas o hábitos nocivos para la salud física o mental que impliquen riesgo o atenten contra la seguridad o integridad física o dignidad de las personas, en particular de la mujer;
 
-V.- El mensaje no deberá desvirtuar ni contravenir los principios, disposiciones y ordenamientos que en materia de prevención, tratamiento de enfermedades o rehabilitación, establezca la Secretaría de Salubridad y Asistencia, y
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+V.- El mensaje no deberá desvirtuar ni contravenir los principios, disposiciones y ordenamientos que en materia de prevención, tratamiento de enfermedades o rehabilitación, establezca la Secretaría de Salud, y
 
 VI.- El mensaje publicitario deberá estar elaborado conforme a las disposiciones legales aplicables.
 
@@ -2712,7 +3148,9 @@ VI.- El mensaje publicitario deberá estar elaborado conforme a las disposicione
 
 Tratándose de publicidad de alimentos y bebidas no alcohólicas, ésta no deberá asociarse directa o indirectamente con el consumo de bebidas alcohólicas.
 
-La Secretaría de Salubridad y Asistencia no autorizará la publicidad que induzca a hábitos de alimentación nocivos ni a aquella que atribuya a los alimentos industrializados un valor nutritivo superior o distinto al que tengan en realidad.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+La Secretaría de Salud no autorizará la publicidad que induzca a hábitos de alimentación nocivos ni a aquella que atribuya a los alimentos industrializados un valor nutritivo superior o distinto al que tengan en realidad.
 
 ###### ARTICULO 308.
 
@@ -2726,9 +3164,27 @@ III.- No podrá asociar a estos productos con ideas o imágenes de mayor éxito 
 
 IV.- No podrá asociar a estos productos con actividades creativas, deportivas, del hogar o del trabajo, ni emplear imperativos que induzcan directamente a su consumo;
 
-V.- No podrá incluir, en imágenes o sonidos, la participación de niños o adolescentes ni dirigirse a ellos, y
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-VI.- En el mensaje, no podrán ingerirse o consumirse real o aparentemente los productos de que se trata.
+V.- No podrá incluir, en imágenes o sonidos, la participación de niños o adolescentes ni dirigirse a ellos;
+
+VI.- En el mensaje, no podrán ingerirse o consumirse real o aparentemente los productos de que se trata;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE MAYO DE 1987)</small>
+
+VII.- En el mensaje no podrán participar personas menores de 25 años, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE MAYO DE 1987)</small>
+
+VIII.- En el mensaje deberán apreciarse fácilmente, en forma visual o auditiva, según el medio publicitario que se emplee, las leyendas a que se refieren los artículos 218 y 276 de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MAYO DE 1987)</small>
+
+La Secretaría de Salud podrá dispensar el requisito previsto en la fracción VIII del presente artículo, cuando en el propio mensaje y en igualdad de circunstancias, calidad, impacto y duración, se promueva la moderación en el consumo de bebidas alcohólicas, desaliente el consumo de tabaco especialmente en la niñez, la adolescencia y la juventud, así como advierta contra los daños a la salud que ocasionan el abuso en el consumo de bebidas alcohólicas y el consumo de tabaco.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MAYO DE 1987)</small>
+
+Las disposiciones reglamentarias señalarán los requisitos a que se sujetará el otorgamiento de la dispensa a que se refiere el párrafo anterior.
 
 ###### ARTICULO 309.
 
@@ -2742,7 +3198,9 @@ I.- Publicidad dirigida a profesionales de la salud, y
 
 II.- Publicidad masiva.
 
-La publicidad dirigida a profesionales de la salud deberá circunscribirse a las bases de publicidad aprobadas por la Secretaría de Salubridad y Asistencia en la autorización de estos productos, y estará destinada exclusivamente a los profesionaIes, técnicos y auxiliares de las disciplinas para la salud.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+La publicidad dirigida a profesionales de la salud deberá circunscribirse a las bases de publicidad aprobadas por la Secretaría de Salud en la autorización de estos productos, y estará destinada exclusivamente a los profesionales, técnicos y auxiliares de las disciplinas para la salud.
 
 La publicidad a que se refiere el párrafo anterior, no requerirá autorización en los casos que lo determinen expresamente las disposiciones reglamentarias de esta Ley.
 
@@ -2750,13 +3208,17 @@ La publicidad masiva es la que se realiza a través de los medios de comunicaci�
 
 Ambas se limitarán a difundir las características generales de los productos, sus propiedades terapéuticas y modalidades de empleo, señalando en todos los casos la conveniencia de consulta médica para su uso.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 311.
 
-Sólo se autorizará la publicidad de medicamentos con base en los fines con que éstos estén registrados ante la Secretaría de Salubridad y Asistencia.
+Sólo se autorizará la publicidad de medicamentos con base en los fines con que éstos estén registrados ante la Secretaría de Salud.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 312.
 
-La Secretaría de Salubridad y Asistencia determinará en qué casos la publicidad de productos y servicios a que se refiere esta Ley deberá incluir, además de los ya expresados en este Capítulo, otros textos de advertencia de riesgos para la salud.
+La Secretaría de Salud determinará en qué casos la publicidad de productos y servicios a que se refiere esta Ley deberá incluir, además de los ya expresados en este Capítulo, otros textos de advertencia de riesgos para la salud.
 
 TITULO DECIMOCUARTO
 
@@ -2764,7 +3226,7 @@ Control Sanitario de la Disposición de Organos, Tejidos y Cadáveres de Seres H
 
 ###### ARTICULO 313.
 
-Compete a la Secretaría de Salubridad y Asistencia ejercer el control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos.
+Compete a la Secretaría de Salud ejercer el control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos.
 
 ###### ARTICULO 314.
 
@@ -2824,13 +3286,17 @@ I.- Electroencefalograma isoeléctrico que no se modifique con estímulo alguno 
 
 II.- Ausencia de antecedentes inmediatos de ingestión de bromuros, barbitúricos, alcohol y otros depresores del sistema nervioso central, o hipotermia.
 
-Si antes de ese término se presentara un paro cardiaco irreversible, se determinará de inmediato la pérdida de la vida.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Si antes de ese término se presentara un paro cardiaco irreversible, se determinará de inmediato la pérdida de la vida y se expedirá el certificado correspondiente.
 
 La certificación de muerte respectiva será expedida por dos profesionales distintos de los que integren el cuerpo técnico que intervendrá en el trasplante.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 319.
 
-Las personas y establecimientos que realicen actos de disposición de órganos, tejidos y cadáveres de seres humanos, deberán contar con autorización de la Secretaría de Salubridad y Asistencia, en los términos de esta Ley y demás disposiciones aplicables.
+Las personas y establecimientos que realicen actos de disposición de órganos, tejidos y cadáveres de seres humanos, deberán contar con autorización de la Secretaría de Salud, en los términos de esta Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 320.
 
@@ -2838,7 +3304,7 @@ Se considerará disposición ilícita de órganos, tejidos y cadáveres de seres
 
 ###### ARTICULO 321.
 
-Los trasplantes de órganos o tejidos en seres humanos vivos podrán llevarse a cabo con fines terapéuticos, solamente cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del disponente originario y del receptor, y siempre que existan justificantes de orden terapéutico.
+Los trasplantes de órganos o tejidos en seres humanos vivos podrán llevarse a cabo con fines terapéuticos solamente cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del disponente originario y del receptor, y siempre que existan justificantes de orden terapéutico. Al efecto la Secretaría de Salud tendrá a su cargo los Registros Nacionales de Trasplantes y de Transfusiones.
 
 ###### ARTICULO 322.
 
@@ -2846,9 +3312,11 @@ La obtención de órganos o tejidos de seres humanos vivos para trasplante, sól
 
 Queda prohibido realizar el trasplante de un órgano único esencial para la conservación de la vida y no regenerable, de un cuerpo humano vivo a otro cuerpo humano vivo.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 323.
 
-La selección del disponente originario y del receptor de órganos o tejidos para trasplante o transfusión, se hará siempre por prescripción y bajo control médico, en los términos que fije la Secretaría de Salubridad y Asistencia.
+La selección del disponente originario y del receptor de órganos o tejidos para trasplante o transfusión, se hará siempre por prescripción y bajo control médico, en los términos que fije la Secretaría de Salud.
 
 ###### ARTICULO 324.
 
@@ -2856,11 +3324,13 @@ Para efectuar la toma de órganos y tejidos se requiere el consentimiento expres
 
 El disponente originario podrá revocar el consentimiento en cualquier momento y sin responsabilidad de su parte.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 325.
 
-Cuando el disponente originario no haya otorgado su consentimiento en vida para la utilización de órganos y tejidos de su cadáver, se requerirá el consentimiento o autorización de los disponentes a que se refiere el artículo 316 de esta Ley.
+Cuando el disponente originario no haya otorgado su consentimiento en vida para la utilización de órganos y tejidos de su cadáver, se requerirá el consentimiento o autorización de los disponentes a que se refiere el artículo 316 de esta Ley, excepto cuando esté legalmente indicada la necropsia, en cuyo caso la toma de órganos y tejidos no requerirá de autorización o consentimiento alguno.
 
-Las disposiciones reglamentarias señalarán las formalidades a que se sujetará la obtención de órganos y tejidos en los casos a que se refiere este artículo.
+Las disposiciones reglamentarias señalarán los requisitos a que se sujetará la obtención de órganos y tejidos en los casos a que se refiere este artículo.
 
 ###### ARTICULO 326.
 
@@ -2876,35 +3346,49 @@ III.- Personas que por cualquier circunstancia no puedan expresarlo libremente.
 
 Cuando el consentimiento provenga de una mujer embarazada, sólo será admisible para la toma de tejidos con fines terapéuticos si el receptor correspondiente estuviere en peligro de muerte, y siempre que no implique riesgo para la salud de la mujer o del producto de la concepción.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 328.
 
-Las personas privadas de su libertad podrán otorgar consentimiento para la cesión de sus órganos y tejidos con fines terapéuticos, solamente cuando el receptor sea cónyuge, concubinario, concubina o familiar del disponente originario de que se trate.
+Las personas privadas de su libertad podrán otorgar su consentimiento para la utilización de sus órganos y tejidos con fines terapéuticos, solamente cuando el receptor sea cónyuge, concubinario, concubina o familiar del disponente originario de que se trate.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 329.
 
-Los establecimientos de salud, previa autorización de la Secretaría de Salubridad y Asistencia, podrán instalar y mantener, para fines terapéuticos, bancos de órganos y tejidos, los que serán utilizados bajo la responsabilidad técnica de la dirección del establecimiento de que se trate y de conformidad con las disposiciones aplicables.
+Los establecimientos de salud, previa autorización de la Secretaría de Salud, podrán instalar y mantener, para fines terapéuticos, bancos de órganos y tejidos, los que serán utilizados bajo la responsabilidad técnica de la dirección del establecimiento de que se trate y de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 330.
 
-La extracción y conservación de la sangre y su administración de un ser humano a otro así como el fraccionamiento de aquella en sus diferentes componentes, estarán a cargo de bancos de sangre y servicios de transfusión, que se instalarán y funcionarán de acuerdo con las disposiciones aplicables y previa autorización de la Secretaría de Salubridad y Asistencia. La sangre será considerada como tejido.
+La extracción y conservación de la sangre y su administración de un ser humano a otro así como el fraccionamiento de aquella en sus diferentes componentes, estarán a cargo de bancos de sangre y servicios de transfusión, que se instalarán y funcionarán de acuerdo con las disposiciones aplicables y previa autorización de la Secretaría de Salud. La sangre será considerada como tejido.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 331.
 
-La Secretaría de Salubridad y Asistencia otorgará la autorización a que se refiere el artículo anterior a los establecimientos que cuenten con el personal técnico y el equipo e instrumental necesario para la obtención, caracterización, análisis, preservación sanitaria y suministro de la sangre y sus derivados, y tengan como responsable a un profesional capacitado en la materia.
+La Secretaría de Salud otorgará la autorización a que se refiere el artículo anterior a los establecimientos que cuenten con el personal técnico y el equipo e instrumental necesario para la obtención, caracterización, análisis, preservación sanitaria y suministro de la sangre y sus derivados, y tengan como responsable a un profesional capacitado en la materia.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 332.
 
-La sangre humana podrá obtenerse de voluntarios que la proporcionen gratuitamente o de proveedores autorizados que lo hagan mediante alguna contraprestación. La sangre obtenida gratuitamente de voluntarios no podrá en ningún caso ser objeto de actos de comercio.
+La sangre humana sólo podrá obtenerse de voluntarios que la proporcionen gratuitamente y en ningún caso podrá ser objeto de actos de comercio.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 333.
 
-Los órganos y tejidos de seres humanos, incluyendo la sangre, en ningún caso serán objeto de exportación y únicamente podrán salir del territorio nacional con permiso de la Secretaría de Salubridad y Asistencia.
+Los órganos y tejidos de seres humanos, incluyendo la sangre y hemoderivados, no podrán internarse o salir del territorio nacional sin permiso previo de la Secretaría de Salud, aplicándose, en lo conducente, las disposiciones del Capítulo XIII del Título Décimo Segundo de esta Ley.
 
-Los hemoderivados sólo podrán exportarse con autorización previa de dicha Secretaría, la que será concedida tomando en cuenta las necesidades de ellos en el país.
+Los permisos para que la sangre y hemoderivados puedan salir del territorio nacional, se concederán siempre y cuando estén satisfechas las necesidades de ellos en el país, salvo casos de emergencia.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 334.
 
-Cualquier órgano o tejido que haya sido desprendido o seccionado por intervención quirúrgica, accidente o hecho ilícito, deberá ser manejado en condiciones higiénicas y su destino final será la incineración salvo que se requiera para docencia o investigación, en cuyo caso los establecimientos de salud podrán conservarlos o remitirlos a instituciones docentes autorizadas por la Secretaría de Salubridad y Asistencia, en los términos de los reglamentos respectivos.
+Cualquier órgano o tejido que haya sido desprendido o seccionado por intervención quirúrgica, accidente o hecho ilícito, deberá ser manejado en condiciones higiénicas y su destino final será la incineración salvo que se requiera para docencia o investigación, en cuyo caso los establecimientos de salud podrán conservarlos o remitirlos a instituciones docentes autorizadas por la Secretaría de Salud, en los términos de los reglamentos respectivos.
 
 ###### ARTICULO 335.
 
@@ -2932,9 +3416,11 @@ La inhumación o incineración de cadáveres sólo podrá realizarse con la auto
 
 Los cadáveres deberán inhumarse, incinerarse o embalsamarse entre las doce y cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la autoridad sanitaria competente o por disposición del Ministerio Público o de la autoridad judicial.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 340.
 
-El depósito y manipulación de cadáveres, excluida la inhumación, deberán efectuarse en establecimientos que reúnan las condiciones sanitarias que fije la Secretaría de Salubridad y Asistencia en las autorizaciones respectivas.
+El depósito y manipulación de cadáveres, excluida la inhumación, deberán efectuarse en establecimientos que reúnan las condiciones sanitarias que fije la Secretaría de Salud en las autorizaciones respectivas.
 
 La propia Secretaría determinará las técnicas y procedimientos que deberán aplicarse para la conservación de cadáveres.
 
@@ -2948,15 +3434,19 @@ La Secretaría de Comercio y Fomento Industrial fijará las tarifas máximas a q
 
 La inhumación e incineración de cadáveres sólo podrá realizarse en lugares autorizados por las autoridades sanitarias competentes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 343.
 
-La Secretaría de Salubridad y Asistencia determinará el tiempo mínimo que han de permanecer los restos en las fosas.
+La Secretaría de Salud determinará el tiempo mínimo que han de permanecer los restos en las fosas.
 
 Mientras ese plazo no termine, sólo podrán verificarse las exhumaciones autorizadas por las autoridades sanitarias y las ordenadas por las judiciales o por el Ministerio Público, mediante los requisitos sanitarios que se fijen, en cada caso, por las primeras.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 344.
 
-La internación y salida de cadáveres del territorio nacional y su traslado de una entidad federativa a otra, sólo podrán hacerse mediante autorización de la Secretaría de Salubridad y Asistencia y previa satisfacción de los requisitos que establezcan los tratados y convenciones internacionales, los reglamentos de esta Ley y otros previstos en la legislación federal.
+La internación y salida de cadáveres del territorio nacional y su traslado de una entidad federativa a otra, sólo podrán hacerse mediante autorización de la Secretaría de Salud y previa satisfacción de los requisitos que establezcan los tratados y convenciones internacionales, los reglamentos de esta Ley y otros previstos en la legislación federal.
 
 ###### ARTICULO 345.
 
@@ -2968,7 +3458,9 @@ Para la utilización de cadáveres de personas conocidas o parte de ellos, con f
 
 Cuando el disponente originario no haya expresado su voluntad por lo que respecta a la disposición de su cadáver, las personas a que se refiere la fracción I del artículo 316 de esta Ley, podrán consentir en que se destine a la docencia e investigación, en los términos que al efecto señalen las disposiciones aplicables.
 
-Tratándose de cadáveres de personas desconocidas, las instituciones educativas podrán obtenerlos del Ministerio Público o de establecimientos de prestación de servicios de atención médica o de asistencia social. Para tales efectos, la (sic) instituciones educativas deberán estar autorizadas por la Secretaría de Salubridad y Asistencia, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Tratándose de cadáveres de personas desconocidas, las instituciones educativas podrán obtenerlos del Ministerio Público o de establecimientos de prestación de servicios de atención médica o de asistencia social. Para tales efectos, la (sic) instituciones educativas deberán estar autorizadas por la Secretaría de Salud, de conformidad con las disposiciones aplicables.
 
 ###### ARTICULO 347.
 
@@ -2992,39 +3484,55 @@ Sólo podrá darse destino final a un feto previa expedición del certificado de
 
 ###### ARTICULO 351.
 
-Los servicios de sanidad internacional se regirán por las disposiciones de esta Ley, sus reglamentos y las normas técnicas que emita la Secretaría de Salubridad y Asistencia, así como por los tratados y convenciones internacionales sobre la materia.
+Los servicios de sanidad internacional se regirán por las disposiciones de esta Ley, sus reglamentos y las normas técnicas que emita la Secretaría de Salud, así como por los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte y que se hubieren celebrado con arreglo a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 352.
 
-La Secretaría de Salubridad y Asistencia operará los servicios de sanidad internacional, tanto los de carácter migratorio como los relacionados con los puertos marítimos de altura, los aeropuertos, las poblaciones fronterizas y los demás lugares legalmente autorizados para el tránsito internacional de personas y carga.
+La Secretaría de Salud operará los servicios de sanidad internacional, tanto los de carácter migratorio como los relacionados con los puertos marítimos de altura, los aeropuertos, las poblaciones fronterizas y los demás lugares legalmente autorizados para el tránsito internacional de personas y carga.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 353.
 
-Las actividades de sanidad internacional apoyarán al sistema nacional de vigilancia epidemiológica.
+Las actividades de sanidad internacional apoyarán a los sistemas nacionales de vigilancia epidemiológica y de regulación, control y fomento sanitarios.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 354.
 
-Compete a la Secretaría de Salubridad y Asistencia adoptar las medidas que procedan para la vigilancia sanitaria de personas, animales, objetos o substancias que ingresen al territorio nacional y que, a su juicio constituyan un riesgo para la salud de la población, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+Compete a la Secretaría de Salud adoptar las medidas que procedan para la vigilancia sanitaria de personas, animales, objetos o substancias que ingresen al territorio nacional y que, a su juicio constituyan un riesgo para la salud de la población, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 355.
 
-La Secretaría de Salubridad y Asistencia formulará la lista de los puertos aéreos y marítimos, así como de las poblaciones fronterizas abiertas al tránsito internacional, donde se llevará a cabo la vigilancia sanitaria a que se refieren los artículos anteriores, y la dará a conocer a las demás naciones por los conductos correspondientes. Asimismo, les informará sobre las restricciones que se impongan al paso, por motivos de salud, de personas, animales, artículos o substancias.
+La Secretaría de Salud formulará la lista de los puertos aéreos y marítimos, así como de las poblaciones fronterizas abiertas al tránsito internacional, donde se llevará a cabo la vigilancia sanitaria a que se refieren los artículos anteriores, y la dará a conocer a las demás naciones por los conductos correspondientes. Asimismo, les informará sobre las restricciones que se impongan al paso, por motivos de salud, de personas, animales, artículos o substancias.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 356.
 
-Cuando las circunstancias lo exijan, se establecerán estaciones de aislamiento y vigilancia sanitarios en los lugares que determine la Secretaría de Salubridad y Asistencia y, en caso de emergencia sanitaria, la propia Secretaría podrá habilitar cualquier edificio como estación para ese objeto.
+Cuando las circunstancias lo exijan, se establecerán estaciones de aislamiento y vigilancia sanitarios en los lugares que determine la Secretaría de Salud y, en caso de emergencia sanitaria, la propia Secretaría podrá habilitar cualquier edificio como estación para ese objeto.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 357.
 
-La Secretaría de Salubridad y Asistencia podrá restringir la salida de todo tipo de vehículos, personas, animales, objetos o substancias que representen un riesgo para la salud de la población del lugar de su destino, de acuerdo con lo previsto en las disposiciones que regulen los servicios de sanidad internacional.
+La Secretaría de Salud podrá restringir la salida de todo tipo de vehículos, personas, animales, objetos o substancias que representen un riesgo para la salud de la población del lugar de su destino, de acuerdo con lo previsto en las disposiciones que regulen los servicios de sanidad internacional.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 358.
 
-Cuando en las localidades donde residan cónsules mexicanos aparezcan casos de enfermedades sujetas a reglamentación internacional, o de cualquier otra enfermedad que represente un grave riesgo para la salud nacional, aquéllos deberán comunicarlo inmediatamente a las Secretarías de Salubridad y Asistencia, Gobernación y Relaciones Exteriores.
+Cuando en las localidades donde residan cónsules mexicanos aparezcan casos de enfermedades sujetas a reglamentación internacional, o de cualquier otra enfermedad que represente un grave riesgo para la salud nacional, aquéllos deberán comunicarlo inmediatamente a las Secretarías de Salud, Gobernación y Relaciones Exteriores.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 359.
 
-La Secretaría de Salubridad y Asistencia notificará a la Organización Mundial de la Salud de todas (sic) medidas que haya adoptado, de modo temporal o permanente, en materia de sanidad internacional. Asimismo, informará a esta misma organización y con la oportunidad debida, sobre cualquier caso que sea de interés en la vigilancia epidemiológica de las enfermedades que se citan en el Reglamento Sanitario Internacional, las que puedan originar epidemias o cualesquiera otras que considere de importancia notificar.
+La Secretaría de Salud notificará a la Organización Mundial de la Salud de todas medidas (sic) que haya adoptado, de modo temporal o permanente, en materia de sanidad internacional. Asimismo, informará a esta misma organización y con la oportunidad debida, sobre cualquier caso que sea de interés en la vigilancia epidemiológica de las enfermedades que se citan en el Reglamento Sanitario Internacional, las que puedan originar epidemias o cualesquiera otras que considere de importancia notificar.
 
 ###### ARTICULO 360.
 
@@ -3038,7 +3546,9 @@ Cuando se trate de personas que ingresen al país con intención de radicar en �
 
 No podrán internarse al territorio nacional, hasta en tanto cumplan con los requisitos sanitarios, las personas que padezcan alguna de las siguientes enfermedades: peste, cólera o fiebre amarilla.
 
-La Secretaría de Salubridad y Asistencia determinará qué otras enfermedades transmisibles quedarán sujetas a lo establecido en el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+La Secretaría de Salud determinará qué otras enfermedades transmisibles quedarán sujetas a lo establecido en el párrafo anterior.
 
 ###### ARTICULO 362.
 
@@ -3056,15 +3566,21 @@ La autoridad sanitaria de puertos, aeropuertos o poblaciones fronterizas podrá 
 
 Las embarcaciones mexicanas se someterán a desinfección, desinfestación y desratización periódica por lo menos cada seis meses, exceptuándose de fumigación las cámaras de refrigeración de los transportes pesqueros. Las aeronaves, vehículos terrestres de transporte de pasajeros y los ferrocarriles, se sujetarán a desinfección y desinsectación periódica, por lo menos cada tres meses.
 
-Dichas medidas correrán por cuenta de los propietarios de dichas embarcaciones y aeronaves, correspondiendo a la Secretaría de Salubridad y Asistencia vigilar su correcta aplicación y determinar la naturaleza y características de los insecticidas, desinfectantes y raticidas que deban usarse y la forma de aplicarlos, a fin de lograr la eficacia deseada y evitar daños a la salud humana.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Dichas medidas correrán por cuenta de los propietarios de dichas embarcaciones y aeronaves, correspondiendo a la Secretaría de Salud vigilar su correcta aplicación y determinar la naturaleza y características de los insecticidas, desinfectantes y raticidas que deban usarse y la forma de aplicarlos, a fin de lograr la eficacia deseada y evitar daños a la salud humana.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 366.
 
-La Secretaría de Salubridad y Asistencia determinará el tipo de servicio médico, medicamentos, material y equipo indispensable que deberán tener las embarcaciones y aeronaves mexicanas para la atención de pasajeros.
+La Secretaría de Salud determinará el tipo de servicio médico, medicamentos, material y equipo indispensable que deberán tener las embarcaciones y aeronaves mexicanas para la atención de pasajeros.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 367.
 
-Las embarcaciones y aeronaves procedentes del extranjero con destino al territorio nacional, así como las que partan del territorio nacional al extranjero, deberán estar provistas de la documentación sanitaria exigida por los tratados y convenciones internacionales y demás disposiciones aplicables.
+Las embarcaciones y aeronaves procedentes del extranjero con destino al territorio nacional, así como las que partan del territorio nacional al extranjero, deberán estar provistas de la documentación sanitaria exigida por los tratados y convenciones internacionales a que se refiere el artículo 351 de esta Ley y demás disposiciones generales aplicables.
 
 ###### ARTICULO 368.
 
@@ -3072,9 +3588,11 @@ La autorización sanitaria es el acto administrativo mediante el cual la autorid
 
 Las autorizaciones sanitarias tendrán el carácter de licencias, permisos, registros o tarjetas de control sanitario.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 369.
 
-Las autorizaciones sanitarias serán otorgadas por la Secretaría de Salubridad y Asistencia o por los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, en los términos de esta Ley y demás disposiciones aplicables.
+Las autorizaciones sanitarias serán otorgadas por la Secretaría de Salud o por los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, en los términos de esta Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 370.
 
@@ -3118,7 +3636,9 @@ Los obligados a tener licencia sanitaria deberán exhibirla en lugar visible del
 
 Requieren de permiso:
 
-I.- Los responsables de establecimientos destinados al proceso de medicamentos;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+I.- Los responsables de establecimientos en que se realice alguna o algunas de las operaciones del proceso de los productos comprendidos en el Título Décimo Segundo de esta Ley, en los casos en que así lo ordenen las disposiciones reglamentarias;
 
 II.- Los responsables de la operación y funcionamiento de equipos de rayos X y a sus auxiliares técnicos, sin perjuicio de los requisitos que exijan otras autoridades competentes;
 
@@ -3128,17 +3648,23 @@ IV.- Los libros de control de estupefacientes o substancias psicotrópicas, así
 
 V.- La internación de cadáveres de seres humanos en el territorio nacional, su traslado de una entidad federativa a otra o al extranjero, y el embalsamamiento;
 
-VI.- La internación en el territorio nacional o la salida de él de órganos y tejidos de seres humanos y de hemoderivados, de conformidad con lo establecido en esta Ley;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+VI.- La internación en el territorio nacional o la salida de él de órganos y tejidos de seres humanos, incluyendo la sangre y hemoderivados;
 
 VII.- La publicidad relativa a los productos y servicios comprendidos en esta Ley;
 
-VIII.- La importación de los productos y materias primas comprendidos en el Título Décimo Tercero de esta Ley, en los casos que se establezcan en la misma y otras disposiciones aplicables y en los que determine la Secretaría de Salubridad y Asistencia;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+VIII.- La importación de los productos y materias primas comprendidos en el título Décimo Segundo de esta Ley, en los casos que se establezcan en la misma y otras disposiciones aplicables y en los que determine la Secretaría de Salud;
 
 IX.- La importación y exportación de estupefacientes, substancias psicotrópicas y productos o preparados que las contengan, y
 
 X.- Las demás actividades que se establezcan en esta Ley y en otras disposiciones generales aplicables.
 
-Los permisos a que se refiere este artículo sólo podrán ser expedidos por la Secretaría de Salubridad y Asistencia, con excepción de los casos previstos en las fracciones II y V, en lo relativo a embalsamamiento.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Los permisos a que se refiere este artículo sólo podrán ser expedidos por la Secretaría de Salud, con excepción de los casos previstos en las fracciones II y V en lo relativo al embalsamamiento.
 
 Se otorgarán por tiempo indeterminado los permisos a que se refiere la fracción I de este artículo.
 
@@ -3150,7 +3676,9 @@ I.- Los productos y equipos a que se refiere el Título Décimo Segundo de esta 
 
 II.- Los documentos y productos que se determinen en esta Ley y demás disposiciones generales aplicables.
 
-El registro a que se refiere la fracción I de este artículo sólo podrá ser otorgado por la Secretaría de Salubridad y Asistencia y será por tiempo indeterminado.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+El registro a que se refiere la fracción I de este artículo sólo podrá ser otorgado por la Secretaría de Salud y será por tiempo indeterminado, sin perjuicio de lo establecido en el artículo 378 de esta Ley.
 
 ###### ARTICULO 377.
 
@@ -3204,7 +3732,9 @@ En el citatorio, que se entregará personalmente al interesado, se le hará sabe
 
 La audiencia se celebrará dentro de un plazo no menor de cinco días hábiles, contados a partir del día siguiente de la notificación.
 
-En los casos en que las autoridades sanitarias fundadamente no puedan realizar la notificación en forma personal, ésta se practicará tratándose de la Secretaría de Salubridad y Asistencia, a través de la Gaceta Sanitaria, y tratándose de las entidades federativas, a través de las gacetas o periódicos oficiales.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+En los casos en que las autoridades sanitarias fundadamente no puedan realizar la notificación en forma personal, ésta se practicará tratándose de la Secretaría de Salud, a través de la Gaceta Sanitaria, y tratándose de las entidades federativas, a través de las gacetas o periódicos oficiales.
 
 ###### ARTICULO 383.
 
@@ -3250,15 +3780,17 @@ El certificado médico prenupcial será requerido por las autoridades del Regist
 
 Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por la autoridad sanitaria competente.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 392.
 
-Los certificados a que se refiere este Título, se extenderán en los modelos aprobados por la Secretaría de Salubridad y Asistencia y de conformidad con las normas técnicas que la misma emita. Dichos modelos serán publicados en el Diario Oficial de la Federación y en la Gaceta Sanitaria a que se refiere el artículo 214 de esta Ley.
+Los certificados a que se refiere este Título, se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas técnicas que la misma emita. Dichos modelos serán publicados en el Diario Oficial de la Federación y en la Gaceta Sanitaria a que se refiere el artículo 214 de esta Ley.
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
 ###### ARTICULO 393.
 
-Corresponde a la Secretaría de Salubridad y Asistencia y a los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta Ley y demás disposiciones que se dicten con base en ella.
+Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta Ley y demás disposiciones que se dicten con base en ella.
 
 La participación de las autoridades municipales estará determinada por los convenios que celebren con los gobiernos de las respectivas entidades federativas y por lo que dispongan los ordenamientos locales.
 
@@ -3270,13 +3802,37 @@ Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del c
 
 El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores con independencia de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes en esos casos.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 396.
 
-La vigilancia sanitaria se llevará a cabo mediante visitas de inspección a cargo de inspectores designados por la autoridad sanitaria competente, quienes deberán realizar las respectivas diligencias de conformidad con las prescripciones de esta Ley y demás disposiciones aplicables.
+La vigilancia sanitaria se llevará a cabo a través de las siguientes diligencias:
+
+I.- Visitas de inspección a cargo de inspectores designados por la autoridad sanitaria competente, y
+
+II.- Tratándose de publicidad de las actividades, productos y servicios a que se refiere esta Ley, a través de las visitas a que se refiere la fracción anterior o de informes de verificación que reúnan los requisitos señalados por el artículo siguiente.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+###### ARTICULO 396 Bis.
+
+Cuando la autoridad sanitaria detecte alguna publicidad que no reúna los requisitos exigidos por esta Ley y demás disposiciones generales aplicables en materia de salud, elaborará un informe detallado donde se exprese lo siguiente:
+
+I.- El lugar, fecha y hora de la verificación;
+
+II.- El medio de comunicación social que se haya verificado;
+
+III.- El texto de la publicidad anómala de ser material escrito o bien su descripción, en cualquier otro caso, y
+
+IV.- Las irregularidades sanitarias detectadas y las violaciones a esta Ley y demás disposiciones generales aplicables en materia de salud, en que se hubiere incurrido.
+
+En el supuesto de que el medio de comunicación social verificado sea la prensa u otra publicación, el informe de verificación deberá integrarse invariablemente con una copia de la parte relativa que contenga la publicidad anómala, donde se aprecie, además, del texto o mensaje publicitario, la denominación del periódico o publicación y su fecha.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 397.
 
-Las autoridades sanitarias competentes podrán encomendar a sus inspectores, además, actividades de orientación, educación y aplicación, en su caso, de las medidas de seguridad a que se refieren las fracciones VII y IX del artículo 404 de esta Ley.
+Las autoridades sanitarias podrán encomendar a sus inspectores, además, actividades de orientación, educación y aplicación, en su caso, de las medidas de seguridad a que se refieren las fracciones VII y X del artículo 404 de esta Ley.
 
 ###### ARTICULO 398.
 
@@ -3316,11 +3872,13 @@ La negativa a firmar el acta o a recibir copia de la misma o de la orden de visi
 
 ###### ARTICULO 402.
 
-Se consideran medidas de seguridad, aquellas disposiciones de inmediata ejecución que dicte la autoridad sanitaria competente, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
+Se consideran medidas de seguridad las disposiciones que dicte la autoridad sanitaria competente, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 403.
 
-Son competentes para ordenar o ejecutar medidas de seguridad, la Secretaría de Salubridad y Asistencia y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias.
+Son competentes para ordenar o ejecutar medidas de seguridad, la Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias.
 
 La participación de los municipios estará determinada por los convenios que celebren con los gobiernos de las respectivas entidades federativas y por lo que dispongan los ordenamientos locales.
 
@@ -3353,6 +3911,10 @@ XI.- La desocupación o desalojo de casas, edificios, establecimientos y, en gen
 XII.- La prohibición de actos de uso, y
 
 XIII.- Las demás de índole sanitaria que determinen las autoridades sanitarias competentes, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MAYO DE 1987)</small>
+
+Son de inmediata ejecución las medidas de seguridad señaladas en el presente artículo.
 
 ###### ARTICULO 405.
 
@@ -3402,9 +3964,11 @@ La suspensión de trabajos o servicios será temporal. Podrá ser total o parcia
 
 Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 413.
 
-La suspensión de mensajes de publicidad en materia de salud, procederá cuando éstos se difundan por cualquier medio de comunicación social, sin haber obtenido la autorización previa de la Secretaría de Salubridad y Asistencia o cuando esta determine, por causas supervenientes, que el contenido de los mensajes autorizados afectan o inducen a actos que pueden afectar la salud pública.
+La suspensión de mensajes de publicidad en materia de salud, procederá cuando éstos se difundan por cualquier medio de comunicación social, sin haber obtenido la autorización previa de la Secretaría de Salud o cuando esta determine, por causas supervenientes, que el contenido de los mensajes autorizados afectan o inducen a actos que pueden afectar la salud pública.
 
 En estos casos, los responsables de la publicidad procederán a suspender el mensaje, dentro de las veinticuatro horas siguientes a la notificación de la medida de seguridad, si se trata de emisiones de radio, cine o televisión, de publicaciones diarias o de anuncios en la vía pública. En caso de publicaciones periódicas, la suspensión surtirá efectos a partir del siguiente ejemplar en el que apareció el mensaje.
 
@@ -3412,9 +3976,21 @@ En estos casos, los responsables de la publicidad procederán a suspender el men
 
 El aseguramiento de objetos, productos o substancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en esta Ley y demás disposiciones generales aplicables. La autoridad sanitaria competente podrá retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen, su destino.
 
-Si el dictamen reportará que el bien asegurado no es nocivo para la salud y cumple con las disposiciones de esta Ley, se procederá a su inmediata devolución. Si el interesado no gestionará la recuperación dentro de un plazo de treinta días hábiles, se entenderá que el bien causa abandono y quedará a disposición de la autoridad sanitaria para su aprovechamiento lícito.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
-Si del dictamen resultará que el bien asegurado es nocivo, la autoridad sanitaria podrá determinar previa observancia de la garantía de audiencia, que el mismo sea sometido a un tratamiento que haga posible su legal aprovechamiento por el interesado, o sea destruido, si no pudiere tener un uso lícito por parte de la autoridad.
+Si el dictamen indicara que el bien asegurado no es nocivo pero carece de los requisitos esenciales establecidos en esta Ley y demás disposiciones generales aplicables, la autoridad sanitaria concederá al interesado un plazo hasta de treinta días para que tramite el cumplimiento de los requisitos omitidos. Si dentro de este plazo el interesado no realizara el trámite indicado o no gestionara la recuperación acreditando el cumplimiento de lo ordenado por la autoridad sanitaria, se entenderá que la materia del aseguramiento causa abandono y quedará a disposición de la autoridad sanitaria para su aprovechamiento lícito.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria, dentro del plazo establecido en el anterior párrafo y previa la observancia de la garantía de audiencia, podrá determinar que el interesado y bajo la vigilancia de aquélla someta el bien asegurado a un tratamiento que haga posible su legal aprovechamiento, de ser posible, en cuyo caso y previo el dictamen de la autoridad sanitaria, el interesado podrá disponer de los bienes que haya sometido a tratamiento para destinarlos a los fines que la propia autoridad le señale.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MAYO DE 1987)</small>
+
+Los productos perecederos asegurados que se descompongan en poder de la autoridad sanitaria, así como los objetos, productos o substancias que se encuentren en evidente estado de descomposición, adulteración o contaminación que no los hagan aptos para su consumo, serán destruidos de inmediato por la autoridad sanitaria, la que levantará un acta circunstanciada de la destrucción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MAYO DE 1987)</small>
+
+Los productos perecederos que no se reclamen por los interesados dentro de las veinticuatro horas de que hayan sido asegurados, quedarán a disposición de la autoridad sanitaria la que los entregará para su aprovechamiento, de preferencia, a instituciones de asistencia social públicas o privadas.
 
 ###### ARTICULO 415.
 
@@ -3544,17 +4120,21 @@ X.- Jerarquía, y
 
 XI.- Buena fe.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 430.
 
-Las autoridades sanitarias, con base en el resultado de la inspección, dictaran las medidas necesarias para corregir, en su caso, las irregularidades que se hubieren encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización.
+Las autoridades sanitarias, con base en los resultados de la inspección o el informe de verificación a que se refiere el artículo 396 Bis de esta Ley, podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización.
 
 ###### ARTICULO 431.
 
 Las autoridades sanitarias competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 432.
 
-Turnada un acta de inspección, las autoridades sanitarias competentes citarán al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no menor de cinco días, ni mayor de treinta, comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes, en relación con los hechos asentados en el acta de inspección.
+Derivado de las irregularidades sanitarias que reporte un acta de inspección o el informe de verificación a que se refiere el artículo 396 Bis de esta Ley, la autoridad sanitaria competente citará al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no menor de cinco ni mayor de treinta días, comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes, en relación con los hechos asentados en el acta de inspección o informe de verificación, según el caso. Tratándose del informe de verificación la autoridad sanitaria deberá acompañar al citatorio, invariablemente, copia de aquél.
 
 ###### ARTICULO 433.
 
@@ -3600,9 +4180,11 @@ II.- Los documentos que el recurrente ofrezca como pruebas y que tengan relació
 
 III.- Original de la resolución impugnada, en su caso.
 
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 442.
 
-En la tramitación del recurso se admitirá toda clase de medios probatorios, excepto la confesional.
+En la tramitación del recurso sólo se admitirán las pruebas que se ofrezcan en los términos del artículo 444 de esta Ley, sin que en ningún caso sea admisible la confesional.
 
 ###### ARTICULO 443.
 
@@ -3620,13 +4202,19 @@ Las pruebas ofrecidas que procedan, se admitirán por el área competente que de
 
 En el caso de que el recurso fuere admitido, la unidad respectiva, sin resolver en lo relativo a la admisión de las pruebas que se ofrezcan, emitirá una opinión técnica del asunto dentro de un plazo de treinta días hábiles contados a partir del auto admisorio, y de inmediato remitirá el recurso y el expediente que contenga los antecedentes del caso, al área competente de la autoridad sanitaria que corresponda y que deba continuar el trámite del recurso.
 
-Tratándose de actos o resoluciones provenientes de la Secretaría de Salubridad y Asistencia, su Titular resolverá los recursos que se interpongan.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Tratándose de actos o resoluciones provenientes de la Secretaría de Salud, su titular resolverá los recursos que se interpongan y al efecto podrá confirmar, modificar o revocar el acto o resolución que se haya combatido.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 446.
 
-El Titular de la Secretaría de Salubridad y Asistencia, en uso de las facultades que le confiere la Ley Orgánica de la Administración Pública Federal, podrá delegar la atribución consignada en el artículo anterior, sólo en los casos en que los actos o resoluciones recurridos no hayan sido emitidos directamente por él.
+El Titular de la Secretaría de Salud, en uso de las facultades que le confiere la Ley Orgánica de la Administración Pública Federal, podrá delegar la atribución consignada en el artículo anterior, sólo en los casos en que los actos o resoluciones recurridos no hayan sido emitidos directamente por él.
 
-El acuerdo de delegación correspondiente deberá publicarse en el Diario Oficial de la Federación y en la Gaceta Sanitaria. Cuando dicha delegación recaiga en servidores públicos de la Secretaría de Salubridad y Asistencia que operen en las entidades federativas, se gestionará que el acuerdo correspondiente se publique en los periódicos oficiales de las mismas.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+El acuerdo de delegación correspondiente deberá publicarse en el Diario Oficial de la Federación y en la Gaceta Sanitaria. Cuando dicha delegación recaiga en servidores públicos de la Secretaría de Salud que operen en las entidades federativas, se gestionará que el acuerdo correspondiente se publique en los periódicos oficiales de las mismas.
 
 ###### ARTICULO 447.
 
@@ -3670,11 +4258,13 @@ Los interesados podrán hacer valer la prescripción, por vía de excepción. La
 
 ###### ARTICULO 455.
 
-Al que sin autorización de las autoridades sanitarias competentes o contraviniendo los términos en que ésta haya sido concedida, importe, posea, aísle, cultive, transporte, almacene o en general realice actos con agentes patógenos o sus vectores, cuando éstos sean de alta peligrosidad para la salud de las personas, de acuerdo con las normas técnicas emitidas por la Secretaría de Salubridad y Asistencia, se le aplicará de uno a ocho años de prisión y multa por el equivalente de cien a dos mil días de salario mínimo general vigente en la zona económica de que se trate.
+Al que sin autorización de las autoridades sanitarias competentes o contraviniendo los términos en que ésta haya sido concedida, importe, posea, aísle, cultive, transporte, almacene o en general realice actos con agentes patógenos o sus vectores, cuando éstos sean de alta peligrosidad para la salud de las personas, de acuerdo con las normas técnicas emitidas por la Secretaría de Salud, se le aplicará de uno a ocho años de prisión y multa por el equivalente de cien a dos mil días de salario mínimo general vigente en la zona económica de que se trate.
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 456.
 
-Al que sin autorización de la Secretaría de Salubridad y Asistencia o contraviniendo los términos en que ésta haya sido concedida, elabore, introduzca a territorio nacional, transporte, distribuya, comercie, almacene, posea, deseche o, en general, realice actos con las substancias tóxicas o peligrosas a que se refiere el artículo 278 de esta Ley, con inminente riesgo a la salud de las personas, se le impondrá de uno a ocho años de prisión y multa equivalente de cien a dos mil días de salario mínimo general vigente en la zona económica de que se trate.
+Al que sin autorización de la Secretaría de Salud o contraviniendo los términos en que ésta haya sido concedida, elabore, introduzca a territorio nacional, transporte, distribuya, comercie, almacene, posea, deseche o, en general, realice actos con las substancias tóxicas o peligrosas a que se refiere el artículo 278 de esta Ley, con inminente riesgo a la salud de las personas, se le impondrá de uno a ocho años de prisión y multa equivalente de cien a dos mil días de salario mínimo general vigente en la zona económica de que se trate.
 
 ###### ARTICULO 457.
 
@@ -3684,21 +4274,27 @@ Se sancionará con pena de uno a ocho años de prisión y multa por el equivalen
 
 A quien sin la autorización correspondiente, utilice fuentes de radiaciones que ocasionen o puedan ocasionar daños a la salud de las personas, se le aplicará de uno a ocho años de prisión y multa equivalente de cien a dos mil días de salario mínimo general vigente en la zona económica de que se trate.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 459.
 
-Al que por cualquier medio pretenda sacar o saque del territorio nacional sangre humana, sin permiso de la Secretaría de Salubridad y Asistencia, se le impondrá prisión de uno a diez años y multa por el equivalente de cien a quinientos días de salario mínimo general vigente en la zona económica de que se trate.
+Al que por cualquier medio pretenda sacar o saque del territorio nacional sangre humana, sin permiso de la Secretaría de Salud, se le impondrá prisión de uno a diez años y multa por el equivalente de cien a quinientos días de salario mínimo general vigente en la zona económica de que se trate.
 
 Si el responsable es un profesional, técnico o auxiliar de las disciplinas para la salud, a la pena anterior se añadirá suspensión en el ejercicio de su profesión u oficio hasta por cuatro años.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 460.
 
-Al que saque o pretenda sacar del territorio nacional derivados de la sangre humana sin permiso de la Secretaría de Salubridad y Asistencia, se le impondrá prisión de uno a cinco años y multa por el equivalente de diez a ciento veinticinco días de salario mínimo general vigente en la zona económica de que se trate.
+Al que saque o pretenda sacar del territorio nacional derivados de la sangre humana sin permiso de la Secretaría de Salud, se le impondrá prisión de uno a cinco años y multa por el equivalente de diez a ciento veinticinco días de salario mínimo general vigente en la zona económica de que se trate.
 
 Si el responsable es un profesional, técnico o auxiliar de las disciplinas para la salud, a la pena anterior se añadirá suspensión en el ejercicio de su profesión u oficio hasta por cuatro años.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+
 ###### ARTICULO 461.
 
-Al que saque o pretenda sacar del territorio nacional, órganos o tejidos de seres humanos vivos o de cadáveres, sin permiso de la Secretaría de Salubridad y Asistencia, se le impondrá prisión de uno a ocho años y multa por el equivalente de diez a ciento veinticinco días de salario mínimo general vigente en la zona económica de que se trate.
+Al que saque o pretenda sacar del territorio nacional, órganos o tejidos de seres humanos vivos o de cadáveres, sin permiso de la Secretaría de Salud, se le impondrá prisión de uno a ocho años y multa por el equivalente de diez a ciento veinticinco días de salario mínimo general vigente en la zona económica de que se trate.
 
 Si el responsable fuere un profesional, técnico o auxiliar de las disciplinas para la salud, a la pena anterior se añadirá suspensión en el ejercicio de su profesión u oficio hasta por cuatro años.
 
@@ -3706,15 +4302,29 @@ Si el responsable fuere un profesional, técnico o auxiliar de las disciplinas p
 
 Se impondrán de dos a seis años de prisión y multa por el equivalente de veinte a ciento cincuenta días de salario mínimo general vigente en la zona económica de que se trate:
 
-I.- Al que ilícitamente obtenga, conserve, utilice, prepare o suministre órganos, tejidos, cadáveres o fetos de seres humanos;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
-II.- Al que comercie con órganos, tejidos, cadáveres, fetos o restos de seres humanos, y
+I.- Al que ilícitamente obtenga, conserve, utilice, prepare o suministre órganos, tejidos, cadáveres o fetos de seres humanos, y
+
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+
+II.- Al que comercie con órganos, tejidos incluyendo la sangre, cadáveres, fetos o restos de seres humanos.
 
 III.- Al responsable o empleado del establecimiento donde ocurra un deceso o de locales destinados al depósito de cadáveres, que permitan alguno de los actos a que se refieren las fracciones anteriores o no procuren impedirlos por los medios lícitos que tengan a su alcance.
 
 En el caso de la fracción III, se aplicarán al responsable, además de las otras penas, de tres a ocho años de prisión.
 
-Si intervinieren profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además, suspensión de uno a tres años en el ejercicio profesional, técnico o auxiliar y hasta cinco años más, en caso de reincidencia.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además suspensión de uno a tres años en el ejercicio profesional, técnico o auxiliar y hasta cinco años más, en caso de reincidencia.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 1987)</small>
+
+###### ARTICULO 462 Bis.
+
+Al responsable o empleado de un establecimiento donde ocurra un deceso o de locales destinados al depósito de cadáveres, que permita alguno de los actos a que se refieren las fracciones I y II del artículo anterior o no procure impedirlos por los medios lícitos que tenga a su alcance, se le impondrá de tres a ocho años de prisión y multa por el equivalente de veinte a ciento cincuenta días de salario mínimo general vigente en la zona económica de que se trate.
+
+Si intervinieran profesionales, técnicos o auxiliares de las disciplinas para la salud, se les aplicará, además, suspensión de uno a tres años en el ejercicio profesional, técnico o auxiliar y hasta cinco años más en caso de reincidencia.
 
 ###### ARTICULO 463.
 
@@ -3785,3 +4395,15 @@ SEPTIMO.- Se concede un plazo de sesenta días naturales, contados a partir de l
 México, D. F., a 26 de diciembre de 1983.- Luz Lajous, D.P.- Raúl Salinas Lozano, S.P.- Xóchitl Elena Llanera de Guillén, D.S.- Alberto E. Villanueva Sansores, S.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y tres.- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Salubridad y Asistencia, Guillermo Soberón Acevedo.- Rúbrica.- El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.- Rúbrica.- El Secretario de la Defensa Nacional, Juan Arévalo Gardoqui.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog Flores.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Fomento y Comercio Industrial, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Rodolfo Félix Valdés.- Rúbrica.- El Secretario de Desarrollo Urbano y Ecología, Marcelo Javelly Girard.- Rúbrica.- El Secretario de Educación Pública, Jesús Reyes Heroles.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Arsenio Farell Cubillas.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 27 DE MAYO DE 1987.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, a excepción de las relativas a los artículos 332 y 462 en su fracción II respecto de la sangre, exclusivamente, los cuales iniciarán su vigencia a los noventa días de la expresada publicación.
+
+SEGUNDO.- Se concede un plazo de sesenta días contados a partir de que entren en vigor las presentes reformas y adiciones, para que los fabricantes de productos de tabaco incluyan en las etiquetas y envases en que se expenda o suministre ese producto, la leyenda a que se refiere el artículo 276 de la Ley General de Salud, reformado en los términos de este Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- El Poder Ejecutivo Federal expedirá las bases para la coordinación que las Secretarías de Comercio y Fomento Industrial, de Agricultura y Recursos Hidráulicos, de Desarrollo Urbano y Ecología y de Salud, deberán observar, según las atribuciones que esta Ley, la Ley de Sanidad Fitopecuaria de los Estados Unidos Mexicanos, la Ley Federal de Protección al Ambiente y las demás leyes aplicables les confieran en materia de emisión de normas técnicas y de otorgamiento de autorizaciones, en sus modalidades de licencias, permisos y registros relativos a la explotación, obtención, elaboración, fabricación, formulación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, aplicación, almacenamiento, comercialización, tenencia, uso, disposición final, importación y exportación de plaguicidas, fertilizantes y sustancias tóxicas.
