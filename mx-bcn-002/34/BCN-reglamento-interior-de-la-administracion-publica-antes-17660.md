@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2004-12-10"
+last_updated: "2005-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2005.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -323,7 +323,7 @@ XIX.- Procurar que el personal de la dependencia, entidad o departamento, cuente
 
 XX.- Vigilar que el personal de la dependencia, entidad o departamento, que se encuentre adscrito a las Delegaciones Municipales, se sujete a los Delegados y a su supervisión, con excepción del personal de Sindicatura Municipal;
 
-XXI.- Supervisar que las tareas encomendadas a la dependencia, entidad o departamento a su cargo, se lleven a cabo con calidad y eficiencia; y (sic),
+XXI.- Supervisar que las tareas encomendadas a la dependencia, entidad o departamento a su cargo, se lleven a cabo con calidad y eficiencia; y (sic9,
 
 XXII.- Supervisar el buen uso y mantenimiento de los recursos materiales que tenga asignada (sic) la dependencia, entidad o departamento;
 
@@ -1673,43 +1673,47 @@ VIII.- Establecer estrecha coordinación entre las corporaciones policiales de l
 
 IX.- Supervisar el buen uso del equipamiento asignado a los elementos de la Dirección;
 
-X.- Establecer coordinación con la Subdirección Administrativa, para entender necesidades de equipamiento del cuerpo policiaco; y,
+X.- Establecer coordinación con la Subdirección Administrativa, para entender necesidades de equipamiento del cuerpo policiaco; y (sic),
 
-XI.- Evaluar periódicamente el desempeño profesional de los elementos activos para revisar propuestas de estímulos, cambios de adscripción o ascensos de acuerdo con la normatividad aplicable.
+XI.- Evaluar periódicamente el desempeño profesional de los elementos activos para revisar propuestas de estímulos, cambios de adscripción o ascensos de acuerdo con la normatividad aplicable;
 
-###### ARTICULO 97.
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2005)</small>
 
-La Comandancia de Policía tendrá como función, operar y aplicar los programas y estrategias a seguir por el cuerpo de seguridad pública municipal, con la finalidad de mantener el orden, la seguridad y tranquilidad públicas en el Municipio, por lo que se encargará de:
+XII.- Desarrollar y supervisar los planes de prevención que para efectos (sic) presente la Unidad contra la Violencia Intrafamiliar.
 
-I.- Establecer en coordinación con el Subdirector de Policía y Tránsito, las medidas disciplinarias y vigilar estricta observancia de las mismas por todos los elementos de la corporación policíaca;
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
 
-II.- Realizar estudios para implementar estrategias tendientes a mejorar el desempeño de las actividades de vigilancia y seguridad;
+ARTICULO 96 BIS.- La Unidad Contra la Violencia Intrafamiliar, a la que se hace mención en la última fracción del artículo anterior, será la encargada de asistir en primera instancia a las víctimas de ésta, y tendrá las siguientes atribuciones:
 
-III.- Ejercer las atribuciones que las disposiciones legales y reglamentarias aplicables le confieren a los agentes de la Dirección;
+I.- Proporcionará la atención inmediata en aquellos casos que requieran la atención primaria en lo que se refiere a:
 
-IV.- Prevenir la comisión de actos que contraríen el orden público y la tranquilidad social, así como organizar las tareas de vigilancia y custodia, auxiliándose de los subcomandantes a su cargo;
+1.- Violencia entre cónyuges
 
-V.- Supervisar las distintas secciones de la corporación, a fin de verificar su buen funcionamiento y operación;
+2.- Maltrato infantil, mujeres y ancianos
 
-VI.- Organizar los programas que se implantarán para llevar a cabo la vigilancia en lugares de mayor incidencia delictiva;
+3.- Abandono de infantes y ancianos
 
-VII.- Establecer dispositivos de seguridad en eventos que lo requieran;
+4.- Abuso sexual.
 
-VIII.- Administrar los establecimientos en los que deban permanecer arrestados los infractores a disposiciones administrativas, y los detenidos por cualquier tipo de falta, y custodiar a éstos durante el tiempo que deban permanecer en dichos establecimientos;
+La intervención comprenderá dos tiempos: Cuando se adviertan hechos posiblemente constitutivos de delitos en detención flagrante del responsable y cuando no se haya efectuado detención alguna.
 
-IX.- Operar el traslado de detenidos para su remisión a las autoridades competentes, así como la prestación del servicio de traslado de procesados, a los órganos jurisdiccionales que correspondan;
+En el entendido que por lo que hace a ambos supuestos la atención deberá encaminarse en:
 
-X.- Aplicar dentro de la esfera de su competencia la Ley Federal de Armas de Fuego y Explosivos;
+- El conocimiento del hecho delictuoso a través de la víctima o en los casos que proceda a través de un tercero;
 
-XI.- Supervisar la correcta operación y utilización del equipo, armamento y municiones asignados a los elementos de la corporación policial;
+- Detención del presunto responsable;
 
-XII.- Delegar a las secciones subordinadas las funciones que les correspondan;
+- Canalización de la víctima a personal capacitado en materias de: medicina, psicología, y leyes, dichas áreas elaborarán sus respectivos informes, obteniéndose mediante éstos, si existen primeramente una alteración en la salud de la víctima, una afectación emocional y finalmente una debida orientación jurídica del caso concreto que se trate respectivamente, tomando en consideración que subsecuente a dicha intervención existen etapas a efecto de determinarse la situación jurídica al respecto.
 
-XIII.- Llevar a cabo reuniones periódicas con los elementos del cuerpo de seguridad pública con el fin de mejorar la prestación del servicio;
+- Canalización final a la autoridad competente que deberá conocer del caso concreto, conteniendo: los indicios de inicio para la debida integración de la averiguación previa que se iniciará, los cuales consistirán además de los precitados, en los objetos e instrumentos de delito en caso de existir, dejándose a disposición de dicha autoridad al presunto responsable en casos de flagrancia delictiva. En los casos de no detención de responsable, deberá observarse el mismo procedimiento, a excepción de la detención y puesta a disposición del mismo.
 
-XIV.- Desarrollar las acciones que correspondan a la Dirección en situaciones de emergencia o en casos de desastres; y,
+II.- Para operar con eficiencia se apoyará con los elementos existentes de la corporación, los que responderán con la diligencia necesaria del caso.
 
-XV.- Asegurar el cumplimiento de manuales e instructivos emitidos por la Dirección.
+III.- Promoverá programas de prevención tendientes a reducir los factores de riesgo que inciden en los delitos de violencia intrafamiliar.
+
+IV.- Coordinar esfuerzos con el Centro de Atención a Víctimas de Violencia Intrafamiliar de Mexicali, y con las organizaciones no gubernamentales dedicadas a atender estos rubros.
+
+El responsable de esta unidad especializada deberá contar con los conocimientos necesarios en psicología y atención a víctimas, así como los necesarios en derecho para una correcta orientación legal de las víctimas.
 
 ###### ARTICULO 97.
 
@@ -2706,3 +2710,15 @@ P.O. 3 DE DICIEMBRE DE 2004.
 P.O. 10 DE DICIEMBRE DE 2004.
 
 Único.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MARZO DE 2005.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS PUNTOS SEGUNDO A CUARTO DEL ACUERDO QUE MODIFICA Y ADICIONA EL PRESENTE REGLAMENTO.</small>
+
+SEGUNDO.- Que el personal que atienda la Unidad Contra la Violencia Intrafamiliar sea mayoritariamente femenino.
+
+TERCERO.- Que en la currícula de la Academia de Policía se incorporen materias al respecto de la violencia intrafamiliar.
+
+CUARTO.- Que se cree una línea telefónica llamada "línea por una familia de violencia".
