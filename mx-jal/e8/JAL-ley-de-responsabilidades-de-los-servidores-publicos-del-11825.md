@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2004-09-21"
+last_updated: "2004-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -853,11 +853,13 @@ b) Se impondrá al infractor dos tercios de la sanción aplicable si fuere de na
 
 c) De conformidad con la gravedad de la falta, la autoridad que resuelve podrá abstenerse de sancionar al infractor por una sola vez, siempre que se trate de hechos que no constituyan delito, lo ameriten los antecedentes y circunstancias particulares del infractor y el daño causado no exceda de cien veces el salario mínimo vigente en la zona económica correspondiente y, en su caso, sea reparado el daño.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 70.
 
-Al iniciarse el procedimiento, si así conviene para la conducción y continuación de las investigaciones y cuando la falta sea grave y pueda ser sancionada con destitución, la autoridad competente podrá determinar la separación provisional del servidor público denunciado de su empleo, cargo o comisión. La suspensión regirá desde el momento en que sea notificada al interesado y cesará cuando así lo resuelva la autoridad instructora o hasta que se resuelva en definitiva el procedimiento. La suspensión provisional de ninguna manera prejuzga sobre la responsabilidad imputada.
+Al iniciarse el procedimiento, si así conviene para la conducción y continuación de las investigaciones y cuando la falta sea grave y pueda ser sancionada con destitución, la autoridad competente podrá determinar la reubicación provisional del servidor público denunciado de su empleo, cargo o comisión, sin afectar el salario o pago de las percepciones del servidor público suspendido. La reubicación regirá desde el momento en que sea notificada al interesado y cesará cuando así lo resuelva la autoridad instructora o hasta que se resuelva en definitiva el procedimiento. La reubicación de ninguna manera prejuzga sobre la responsabilidad imputada.
 
-Si el servidor público suspendido provisionalmente no resultare responsable de las faltas que se le atribuyen, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debió recibir durante el tiempo de la separación.
+Si el servidor público reubicado provisionalmente no resultare responsable de las faltas que se le atribuyen, será restituido en el goce de sus derechos.
 
 ###### Artículo 71.
 
@@ -1166,5 +1168,9 @@ P.O. 22 DE JULIO DE 2004.
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 21 DE SEPTIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE NOVIEMBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
