@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2000-del-pleno-del-consejo-de-la-50060
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-02-16"
-last_updated: "2000-02-16"
+last_updated: "2002-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50060&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-08"
 
 ACUERDO GENERAL NUMERO 5/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA ADSCRIPCION DE DIVERSAS UNIDADES ADMINISTRATIVAS A LA PRESIDENCIA DEL MISMO, Y ACTUALIZA LAS ATRIBUCIONES DEL SECRETARIADO EJECUTIVO, CON LAS DIRECCIONES GENERALES QUE LES CORRESPONDEN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MARZO DE 2002.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de febrero de 2000.
 
@@ -465,7 +465,11 @@ I. Atender las necesidades administrativas de los órganos jurisdiccionales y á
 
 II. Definir y proponer las políticas, métodos y procedimientos para la operación interna de las administraciones regionales y delegaciones administrativas, así como coordinar su difusión e implantación y vigilar su observancia;
 
-III. Reclutar, seleccionar y someter a la consideración del Secretario Ejecutivo de Administración, la designación de los servidores públicos de las administraciones regionales y delegaciones administrativas, así como llevar a cabo la inducción en los puestos y la evaluación de su desempeño;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 4/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE MARZO DE 20002)</small>
+
+III. Reclutar, seleccionar y someter a la consideración del secretario ejecutivo de Administración, la designación de los servidores públicos de las administraciones regionales y delegaciones administrativas, excepto la de los titulares de esos órganos desconcentrados, cuyo nombramiento será facultad exclusiva del Pleno del Consejo de la Judicatura Federal; así como llevar a cabo la inducción en los puestos y la evaluación de su desempeño.
+
+Para realizar los nombramientos de los titulares de las administraciones regionales y delegaciones administrativas la Comisión de Administración, por conducto de la Secretaría Ejecutiva de Administración, recabará los datos curriculares de los aspirantes a ocupar dichos cargos, realizará una selección de los mismos y pondrá a la consideración del Pleno una terna, a fin de que se realicen las designaciones correspondientes;
 
 IV. Difundir entre los órganos jurisdiccionales y áreas administrativas del interior de la República, la normatividad que en materia de recursos humanos, materiales y financieros emitan las unidades normativas respectivas;
 
@@ -1068,3 +1072,13 @@ CUARTO.- Se derogan, en lo conducente, los Acuerdos y Circulares emitidos por el
 QUINTO.- Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 5/2000, del Pleno del Consejo de la Judicatura Federal, que determina la adscripción de diversas unidades administrativas a la Presidencia del mismo, y actualiza las atribuciones del Secretariado Ejecutivo, con las Direcciones Generales que les corresponden, fue aprobado por el propio Pleno, en sesión extraordinaria de ocho de febrero de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a nueve de febrero de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS QUE REFORMAN EL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE MARZO DE 2002.
+
+PRIMERO.-El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.-La Comisión de Administración, por conducto de la Secretaría Ejecutiva de Administración, recabará los datos curriculares así como los antecedentes del desempeño en el cargo de los administradores regionales y delegados administrativos que actualmente se encuentran en funciones y los pondrá a consideración del Pleno del Consejo de la Judicatura Federal en un término improrrogable de sesenta días, para que dicho cuerpo colegiado determine sobre su ratificación o conclusión de nombramiento.
