@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1943-05-13"
+last_updated: "1943-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 1943.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 1943.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -315,11 +315,11 @@ Del Poder Legislativo.
 
 El Poder Legislativo, se Deposita en una Asamblea que se denominará Legislatura del Estado. Esa se compondrá de Representantes del Pueblo, que serán electos en su totalidad cada tres años, directamente por aquél de acuerdo con la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1929)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1943)</small>
 
 ###### Art. 32.
 
-Por cada treinta mil habitantes de cualquier sexo o edad, o fracción mayor de quince mil, se elegirá un diputado propietario y un suplente; pero en ningún caso el número de éstos será menor de nueve propietarios y nueve suplentes para todo el Estado.
+Por cada treinta mil habitantes de cualquier sexo o edad, o fracción mayor de quince mil, se elegirá un Diputado Propietario y un Suplente; pero en ningún caso el número de éstos será mayor de nueve propietarios y nueve suplentes para todo el Estado.
 
 ###### Art. 33.
 
@@ -1658,3 +1658,7 @@ UNICO.- La presente Ley comenzará a surtir sus efectos a partir de la fecha de 
 P.O. 13 DE MAYO DE 1943
 
 UNICO.- Por esta sola vez los plazos a que se refieren los artículos 34 frac. 4a. y 5a., 77 frac. 4a. y 143 frac. 1ra. de la Constitución Política del Estado, se reducen a cuarenta y cinco días.
+
+P.O. 9 DE DICIEMBRE DE 1943
+
+ARTICULO TRANSITORIO.- La presente Ley surtirá sus efectos desde la fecha de su publicación.
