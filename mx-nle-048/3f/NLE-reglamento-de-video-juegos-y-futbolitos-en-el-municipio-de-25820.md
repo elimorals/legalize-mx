@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-video-juegos-y-futbolitos-en-el-municipio-de-2582
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-14"
-last_updated: "1992-09-14"
+last_updated: "1996-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA VIDEO JUEGOS Y FUTBOLITOS EN EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1996.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de septiembre de 1992.
 
@@ -39,9 +39,11 @@ REGLAMENTO PARA VIDEO JUEGOS Y FUTBOLITOS
 
 El propietario deberá contar con el permiso correspondiente al giro del negocio debidamente solicitado por escrito y aprobado por la Autoridad Municipal.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 1996)</small>
+
 ###### Artículo 2o.
 
-Los propietarios deberán de respetar el horario de apertura y cierre del negocio, que les fije la Autoridad Municipal en cada caso particular.
+Los Titulares de los establecimientos deberán respetar el horario de apertura y cierre de sus negocios que será de Lunes a Domingo de 09:00 a 21:00 Horas. En casos extraordinarios y previa solicitud del interesado, el Presidente Municipal a través del Secretario del Ayuntamiento, podrá incrementar el funcionamiento señalado, de igual manera lo restringirá cuando así se amerite.
 
 ###### Artículo 3o.
 
@@ -162,3 +164,13 @@ SR. ATANASIO GONZALEZ PUENTE.
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 LIC. FERNANDO MARGARIN BERLANGA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE NOVIEMBRE DE 1996.
+
+PRIMERO: La presente reforma al Artículo Segundo del Reglamento de Video Juegos y Futbolitos vigente en este Municipio, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Publicado lo anterior en la forma en que se indica en el Artículo que antecede, dejará sin efectos y abrogará toda disposición que con anterioridad se oponga al mismo.
+
+TERCERO: Envíese para su promulgación y publicación en la forma señalada en la Ley, por conducto del Poder Ejecutivo.
