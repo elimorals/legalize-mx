@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1980-03-24"
+last_updated: "1981-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE MARZO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 2 DE JULIO DE 1981.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -325,15 +325,21 @@ Elección de Diputados.
 
 Los Diputados al Congreso del Estado serán electos en su totalidad cada tres años.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE JULIO DE 1981)</small>
+
+###### Artículo 31.
+
+El Congreso del Estado estará integrado por dieciocho Diputados Electos en forma directa según el principio de votación mayoritaria relativa, en igual número de Distritos Uninominales y hasta con un máximo de seis Diputados electos según el principio de representación proporcional, mediante el sistema de listas, votados en una sola circunscripción plurinominal que comprenderá todo el territorio del Estado. Por cada Diputado propietario se elegirá un suplente.
+
 > <small>(REFORMADO, B.O. 12 DE AGOSTO DE 1978)</small>
-
-###### Articulo 31.
-
-El Congreso del Estado estará integrado por quince diputados electos en forma directa según el principio de votación mayoritaria relativa, en igual número de distritos uninominales y hasta con un máximo de cinco diputados electos según el principio de representación proporcional, mediante el sistema de listas, votados en una sola circunscripción plurinominal que comprenderá todo el territorio del Estado. Por cada diputado propietario se elegirá un suplente.
 
 El Partido que solicite el registro de candidatos a diputados por votación mayoritaria relativa, deberá acompañar la lista de sus candidatos para ser electos según el principio de representación proporcional.
 
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 1978)</small>
+
 Los diputados electos por mayoría relativa y los electos según el principio de representación proporcional, siendo ambos representantes del pueblo, tendrán idéntica categoría e igualdad de derechos y deberes.
+
+> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 1978)</small>
 
 La ley establecerá las bases demográficas y territoriales para la división del Estado en distritos electorales uninominales.
 
@@ -347,7 +353,9 @@ I. Para obtener el registro de su lista plurinominal el Partido Político que lo
 
 a). Que obtuvo su registro como Partido cuando menos con un año de anticipación al día de la elección; y
 
-b). Que participa con candidatos a diputados de mayoría relativa cuando menos en la tercera parte de los distritos uninominales del Estado.
+> <small>(REFORMADO, B.O. 2 DE JULIO DE 1981)</small>
+
+b). Que participa con candidatos a diputados de mayoría relativa cuando menos en diez de los Distritos Uninominales del Estado.
 
 II. Tendrá derecho a que le sean asignados diputados electos según el principio de representación proporcional, todo aquel Partido que:
 
@@ -1397,7 +1405,13 @@ El Estado quedará dividido para su gobierno en municipios, de acuerdo con el ar
 
 Cada Municipio será administrado por un Ayuntamiento. No habrá ninguna autoridad intermedia entre el Ayuntamiento y el Ejecutivo del Estado.
 
-Cada Ayuntamiento se integrará por el Presidente Municipal y los Regidores que resulten electos según el principio de mayoría relativa en votación popular directa. Además, en la Capital del Estado y en aquellos municipios con una población de cien mil o más habitantes, habrá lugar a la asignación hasta de tres Regidores electos según el principio de representación proporcional, en la forma y términos que para el efecto señale la Ley Orgánica respectiva.
+> <small>(REFORMADO, B.O. 2 DE JULIO DE 1981)</small>
+
+Cada Ayuntamiento se integrará por el Presidente Municipal y los Regidores que resulten electos según el principio de mayoría relativa en votación popular directa.
+
+> <small>(ADICIONADO, B.O. 2 DE JULIO DE 1981)</small>
+
+En la Capital del Estado y en aquellos Municipios con una población de 50,000 o más habitantes, habrá lugar a la asignación hasta de tres Regidores según el principio de representación proporcional, en la forma y términos que para el efecto señale la Ley Orgánica Electoral del Estado.
 
 Los Regidores electos por mayoría relativa y los electos según el principio de representación proporcional, siendo ambos representantes populares, tendrán idéntica categoría e igualdad de derechos y deberes.
 
@@ -2050,6 +2064,12 @@ B.O. 24 DE MARZO DE 1980.
 ###### ARTICULO UNICO.
 
 La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 2 DE JULIO DE 1981.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
