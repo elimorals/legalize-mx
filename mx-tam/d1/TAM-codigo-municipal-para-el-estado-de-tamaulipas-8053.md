@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "1994-05-21"
+last_updated: "1995-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1217,9 +1217,11 @@ X.- Enajenación a través de fideicomisos.
 
 XI.- La división de la copropiedad y la disolución de la sociedad conyugal por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge. En las permutas se considerará que se efectúan dos adquisiciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 1995)</small>
+
 ###### ARTICULO 127.
 
-El valor del inmueble que se considerará para los efectos del Artículo 124, será el valor más alto entre el precio pactado y el del avalúo pericial que al efecto expida la Dirección de Catastro de la Tesorería General del Estado.
+El valor del inmueble que se considerará para los efectos del Artículo 124, será el valor más alto entre el precio pactado y el del avalúo pericial que al efecto expida la Dirección de Catastro de la Secretaría de Hacienda del Estado, el cual podrá ser disminuido con el valor que se tomó como base para calcular este impuesto en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 1992)</small>
 
@@ -2696,3 +2698,7 @@ P.O. 21 DE MAYO DE 1994.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las Asociaciones Religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el Impuesto establecido en la Ley del Impuesto sobre Adquisición de Inmuebles, por las adquisiciones que realicen hasta el 31 de diciembre de 1994.
+
+P.O. 7 DE ENERO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
