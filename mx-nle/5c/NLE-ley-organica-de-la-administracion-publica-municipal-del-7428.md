@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-municipal-del-7428"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-01-28"
-last_updated: "1996-05-24"
+last_updated: "1996-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de enero de 1991.
 
@@ -1243,15 +1243,23 @@ Los bienes del dominio privado de los Municipios son inembargables e imprescript
 
 A excepción de los bienes de Comodato, los Ayuntamientos podrán ejecutar sobre los bienes de dominio privado, todos los actos de administración y de dominio que regula el derecho común con las modalidades y cumpliendo los requisitos establecidos en este Capítulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 151.
 
-Los Ayuntamientos podrán enajenar o gravar sus bienes muebles e inmuebles de dominio privado, previo decreto del H. Congreso del Estado, cuando se reúnen los siguientes requisitos:
+La enajenación o gravamen de los bienes muebles del domino privado del Municipio, requerirá la autorización previa del Ayuntamiento, la cual deberá publicarse en la Gaceta Oficial del Municipio y en el Periódico Oficial del Estado, acompañando a la misma el avalúo del bien, fecha y hora en la que se celebrará la subasta pública, así como la convocatoria a la que se refiere la fracción I del artículo 153 de esta Ley. Sólo podrán enajenarse los bienes muebles, que, previo acuerdo del Ayuntamiento, ya no se consideren útiles para el servicio público, por haber sido amortizados y considerados como chatarra.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
+Tratándose de la enajenación o gravamen de sus bienes inmuebles, se requerirá además, Decreto del H. Congreso del Estado y que se reúnan los siguientes requisitos:
 
 I.- Que la necesidad de las enajenaciones responda a la ejecución de un programa, cuyo objetivo sea la satisfacción del suelo urbano para vivienda, atendiendo preferentemente a la población urbana y rural de bajos ingresos, o bien, al impulso o fomento de las actividades productivas o de desarrollo social, cívico, deportivo o cultural de sus comunidades;
 
 II.- Que en la solicitud respectiva se especifique el destino que se proyecte dar al producto que se obtenga con la enajenación o gravamen;
 
-III.- Tratándose de inmuebles, que se anexe un avalúo expedido por el Departamento Fiduciario de una Institución de crédito, por la dependencia municipal que corresponda o por Catastro. Asimismo, deberá acompañarse lo especificado en las Fracciones II y III Artículo 147 de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1996)</small>
+
+III.- Que se anexe un avalúo expedido por el Departamento Fiduciario de una Institución de Crédito, por la dependencia municipal que corresponda o por Catastro. Asimismo, deberá acompañarse lo especificado en las fracciones II y III del artículo 147 de esta Ley.
 
 ###### ARTICULO 152.
 
@@ -1436,3 +1444,7 @@ UNICO:- El presente decreto entrará en vigor a partir del día 1o. de Enero de 
 P.O. 24 DE MAYO DE 1996.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1996.
+
+UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
