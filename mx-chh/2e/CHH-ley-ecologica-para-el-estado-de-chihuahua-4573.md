@@ -4,7 +4,7 @@ identifier: "CHH-ley-ecologica-para-el-estado-de-chihuahua-4573"
 country: "mx"
 rank: "ley"
 publication_date: "1991-10-26"
-last_updated: "1998-11-04"
+last_updated: "2004-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ECOLOGICA PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de octubre de 1991.
 
@@ -1237,7 +1237,9 @@ V.- EN LAS OFICINAS DE ORGANISMOS DESCENTRALIZADOS Y EMPRESAS DE PARTICIPACION E
 
 VI.- EN LAS TIENDAS DE AUTOSERVICIO, AREAS DE ATENCION AL PUBLICO DE LAS OFICINAS BANCARIAS, FINANCIERAS, INDUSTRIALES, COMERCIALES O DE SERVICIOS; Y
 
-VII.- EN LOS AUDITORIOS, BIBLIOTECAS, SALONES DE CLASE DE LAS ESCUELAS DE EDUCACION INICIAL, JARDINES DE NIÑOS, EDUCACION ESPECIAL, PRIMARIAS, SECUNDARIAS Y MEDIA SUPERIOR.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
+
+VII.- EN LOS AUDITORIOS, BIBLIOTECAS, SALONES DE CLASE, ASI COMO EN TODA AREA CERRADA DE LAS ESCUELAS DE EDUCACION INICIAL, JARDINES DE NIÑOS, EDUCACION ESPECIAL, PRIMARIAS, SECUNDARIAS, MEDIA SUPERIOR Y SUPERIOR.
 
 ###### ARTICULO 115.
 
@@ -1544,3 +1546,7 @@ Artículo Primero.- El presente Decreto entrará en vigor a los 30 días siguien
 Artículo Segundo.- Los productores y distribuidores a que se hace alusión en este Decreto, se coordinarán con los Ayuntamientos respectivos para la realización del convenio referido, los cuales deberán estar suscritos a más tardar un año posterior a la publicación del presente decreto.
 
 Artículo Tercero.- En los Ayuntamientos en donde no exista el Comité Municipal de Ecología, se deberán crear a más tardar dentro de los 30 días siguientes de la publicación del presente Decreto, en los términos del artículo 14 de esta Ley. La inobservancia de esta disposición será causa de responsabilidad.
+
+P.O. 4 DE FEBRERO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial el Estado.
