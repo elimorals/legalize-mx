@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1987-04-13"
+last_updated: "1987-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1987.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -1735,7 +1735,7 @@ ART. 162.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL
 
 ART. 163.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
-ART. 164.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
+ART. 164.- Los pagaderos de sueldos y salarios de los empleados públicos y trabajadores al servicio de entidades públicas, tienen las obligaciones que establecen el Artículo 162 y les es aplicable lo preceptuado en el Artículo anterior.
 
 ART. 165.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
 
@@ -2648,6 +2648,10 @@ f).- Permiso provisional para la circulación de vehículos con peso y dimension
 g).- Permiso provisional para transporte de carga sobresaliente no autorizada, por viaje $ 350.00 diarios.
 
 h).- Permiso para el transporte nocturno de carga sobresaliente, por viaje $ 300.00 diarios.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 1987)</small>
+
+i).- Por la revalidación anual de los juegos de placas a que se refieren los incisos a), b) y c) de esta fracción $ 4,000.00.
 
 II.- Por cada licencia para manejar, por dos años:
 
@@ -5258,3 +5262,9 @@ P.O. 13 DE ABRIL DE 1987.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE JULIO DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
