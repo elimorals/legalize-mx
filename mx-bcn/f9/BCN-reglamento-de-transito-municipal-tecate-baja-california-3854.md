@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-municipal-tecate-baja-california-3854"
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-09-10"
-last_updated: "1994-06-24"
+last_updated: "1997-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO MUNICIPAL TECATE, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 1997.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el lunes 10 de septiembre de 1973.
 
@@ -661,109 +661,41 @@ d).- Por reincidir en manejar en estado de ebriedad o bajo el efecto de estupefa
 
 El Honorable Ayuntamiento Constitucional de Tecate, Baja California, resolverá en todo lo no previsto en el presente Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 1997)</small>
+
+###### ARTÍCULO 94.
+
+La imposición de sansiones (sic) economicas asi como la calificacion de las mismas se haran de conformidad a un tabulador, asi como a boletas de advertencia en los siguientes casos especificos:
+
+INFRACCIONES TIPO "A" (DEROGADO TABULADOR DEL 01 AL 47, P.O. 18 DE JULIO DE 1997)
+
+> <small>(ADICIONADA TABLA, P.O. 18 DE JULIO DE 1997)</small>
+
+MOTIVOS DE BOLETAS DE ADVERTENCIA
+
+1.- Circular con parabrisas estrellado Hasta 30 dias.
+
+2.- Circular con exceso de smog Hasta 30 dias.
+
+3.- Circular con falta de reflejante rojo (remolque) Hasta 5 dias.
+
+4.- Circular con falta de 1 o ambos faros delanteros Hasta 5 dias.
+
+5.- Circular con visibilidad lateral obstruída con
+
+rotulos, carteleras o vidrios polarizados Hasta 3 dias.
+
+6.- Circular con luces delanteras apagadas Advert. Verbal.
+
+7.- Circular con luces direccionales en mal estado Hasta 5 dias.
+
+8.- Circular con falta de defensa Hasta 3 dias.
+
+9.- Circular con falta de espejo lateral Hasta 3 dias.
+
+10.- Circular con falta de limpiadores para lluvia Hasta 3 dias.
+
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 1994)</small>
-
-###### ARTICULO 94.
-
-La imposición de sanciones económicas así como la calificación de las mismas, se harán de conformidad al siguiente tabulador:
-
-INFRACCIONES DE TIPO ''A''
-
-Serán sancionadas con un costo de uno a tres salarios mínimos, las siguientes infracciones:
-
-01.- Adelantar o rebasar por la derecha o en un crucero.
-
-02.- Cambiar intempestivamente de carril.
-
-03.- Camiones de carga, hacer carga o descarga fuera del lugar y hora.
-
-04.- Circular con el parabrisas estrellado.
-
-05.- Circular con exceso de humo.
-
-06.- Circular con falta de luz en el porta placas.
-
-07.- Circular con falta de reflejantes rojos en remolque.
-
-08.- Circular con falta de uno o ambos faros delanteros.
-
-09.- Circular con la visibilidad lateral obstruida con rótulos o carteleras.
-
-10.- Circular con luces delanteras apagadas.
-
-11.- Circular con luces direccionales en mal estado.
-
-12.- Circular con luces laterales en mal estado.
-
-13.- Circular con luces posteriores en mal estado.
-
-14.- Efectuar maniobras fuera del horario establecido.
-
-15.- Efectuar maniobras más del tiempo permitido.
-
-16.- Efectuar maniobras obstruyendo la banqueta o zona de seguridad.
-
-17.- Efectuar maniobras sobre el arroyo de circulación.
-
-18.- Empujar o mover vehículos debidamente estacionados.
-
-19.- Falta de abanderamiento en la carga.
-
-20.- Falta de defensa (s).
-
-21.- Falta de espejo lateral.
-
-22.- Falta de limpiadores para la lluvia.
-
-23.- Falta de razón social, en vehículos de carga o pasajeros.
-
-24.- Falta de seguridad en la carga.
-
-25.- Iniciar movimiento con luz ambar.
-
-26.- Invadir dos carriles de circulación.
-
-27.- No ceder cambio de luces.
-
-28.- No ceder el derecho de carril a ciclistas y motociclistas.
-
-29.- No conservar su carril al ser rebasado o adelantado.
-
-30.- No llevar cubierta la carga.
-
-31.- No pagar la cuota de estacionómetros.
-
-32.- No tomar debidas precauciones al estacionarse en pendiente ascendiente o descendiente.
-
-33.- No guardar la distancia reglamentaria a su circulación.
-
-34.- No tomar las medidas preventivas para evitar un accidente.
-
-35.- Olvido de licencia o tarjeta de circulación.
-
-36.- Permitir abrir las puertas del vehículo por el lado de la circulación.
-
-37.- Permitir a otra persona el control de la dirección del vehículo.
-
-38.- Permitir el ascenso o descenso de escolares sin luz intermitente.
-
-39.- Por no dar aviso a la autoridad correspondiente en caso de accidente.
-
-40.- Por no poner direccionales al cambio de dirección.
-
-41.- Por pasar sobre una manguera o equipo de bomberos.
-
-42.- Por retroceder más de lo permitido (6 metros).
-
-43.- Seguir a un vehículo de emergencia. (Ambulancia, patrulla, etc.)
-
-44.- Transitar con luces altas provocando deslumbramiento.
-
-45.- Transitar con rótulos o carteles en el parabrisas delantero.
-
-46.- Transitar sobre rayas o bordes de límites carriles de circulación.
-
-47.- Transportar esparciendo la carga.
 
 INFRACCIONES DE TIPO "B"
 
@@ -911,6 +843,8 @@ Serán sancionadas con un costo de dos a seis salarios mínimos, las siguientes 
 
 118.- Vuelta a la izquierda o a la derecha en lugares prohibidos.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1994)</small>
+
 INFRACCIONES DE TIPO "C"
 
 Serán sancionadas con un costo de tres a siete salarios mínimos, las siguientes:
@@ -949,6 +883,8 @@ Serán sancionadas con un costo de tres a siete salarios mínimos, las siguiente
 
 135.- Por traer el radio o tocacintas a todo volumen en vehículos.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1994)</small>
+
 INFRACCIONES DE TIPO "D"
 
 Serán sancionadas con un costo de tres a ocho salarios mínimos, las siguientes infracciones:
@@ -979,6 +915,8 @@ Serán sancionadas con un costo de tres a ocho salarios mínimos, las siguientes
 
 148.- Transportar explosivos sin el permiso correspondiente.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1994)</small>
+
 INFRACCIONES DE TIPO "E"
 
 Serán sancionadas con un costo de diez a veinte salarios mínimos, las siguientes infracciones:
@@ -992,6 +930,8 @@ Serán sancionadas con un costo de diez a veinte salarios mínimos, las siguient
 152.- Permitir ingerir bebidas embriagantes dentro del vehículo, (al conducir).
 
 153.- Circular con exceso de velocidad en zona escolar.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1994)</small>
 
 INFRACCIONES DE TIPO "F"
 
@@ -1036,6 +976,8 @@ BICICLETAS.
 171.- Transitar sobre las aceras.
 
 172.- Viajar más de una persona cuando no se disponga de asiento extra.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1994)</small>
 
 INFRACCIONES DE TIPO "G"
 
@@ -1142,3 +1084,7 @@ TERCERO.- Las presentes modificaciones dejan sin efecto el contenido de los Art�
 CUARTO.- Publíquese en el Periódico Oficial, Orgáno Oficial de Publicaciones del Gobierno del Estado.
 
 QUINTO.- Cumplase.
+
+P.O. 18 DE JULIO DE 1997.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
