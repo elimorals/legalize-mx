@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-para-el-congreso-del-estado-de-morelos-1312
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-04"
-last_updated: "2000-08-16"
+last_updated: "2001-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial "Tierra y Libertad", el 4 de noviembre de 1998.
 
@@ -503,7 +503,9 @@ Los integrantes de la comisión dictaminadora y el autor de la proposición que 
 
 Los oradores se referirán concretamente al asunto sujeto a discusión y la duración de su intervención no excederá de quince minutos, para la discusión sobre líneas generales y de diez minutos en relación con cada Artículo.
 
-Los Diputados que no estén inscritos en la lista de oradores cuando se discuta un dictamen, podrán pedir la palabra para alusiones personales hasta por cinco minutos.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2001)</small>
+
+Los Diputados que no estén inscritos en la lista de oradores cuando se discuta un dictamen, podrán solicitar la palabra para rectificar hechos o contestar alusiones personales; cuando haya concluido su intervención el orador. En estos casos el presidente de la mesa directiva le concederá el uso de la palabra hasta por 5 minutos.
 
 ###### Artículo 68.
 
@@ -581,9 +583,15 @@ En la discusión en lo particular se podrán apartar los artículos, fracciones 
 
 También podrá votarse, en un solo acto, un proyecto de ley o decreto, en lo general, en unión de uno, varios o la totalidad de sus artículos, en lo particular, siempre que no hayan sido impugnados.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Artículo 80.
 
 El presente capítulo será aplicable en lo conducente por la Mesa Directiva, en el punto de la orden del día relativo a asuntos generales.
+
+La mesa directiva podrá otorgar el uso de la palabra a los señores diputados para rectificar hechos o para responder alusiones personales hasta por 3 ocasiones; en su intervención deberá precisar el hecho a rectificar o la alusión a contestar. En ningún caso el orador podrá apartarse del tema para el cual solicitó la palabra o excederse del tiempo establecido.
+
+Para efectos del presente Artículo y del Artículo 67 del propio reglamento, se entiende por alusión personal en una asamblea deliberante la mención del orador, del nombre o citar palabras, las ideas o los hechos de un determinado legislador.
 
 ### CAPÍTULO VI. DE LAS VOTACIONES
 
@@ -1031,8 +1039,18 @@ El presente Decreto entrará en vigor al día siguiente de su aprobación.
 
 ###### ARTICULO SEGUNDO.
 
-Las disposiciones contenidas en el artículo 129 de este Decreto, tendrán vigencia a partir del primer día del mes de enero del año 2001.
+Las disposiciones contenidas en el artículo 129 de este Decreto, tendrá vigencia a partir del primer día del mes de enero del año 2001.
 
 ###### ARTICULO TERCERO.
 
 Para efectos de su divulgación, publíquese en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 26 DE SEPTIEMBRE DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA DE SU EXPEDICIÓN.
+
+###### ARTÍCULO SEGUNDO.
+
+REMÍTASE EL PRESENTE DECRETO AL TITULAR DEL PODER EJECUTIVO ESTATAL PARA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD", ÓRGANO DE DIFUSIÓN DEL GOBIERNO DEL ESTADO DE MORELOS.
