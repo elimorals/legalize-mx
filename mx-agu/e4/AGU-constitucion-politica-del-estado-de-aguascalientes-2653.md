@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1992-03-01"
+last_updated: "1992-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 1992.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 1992.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -679,9 +681,9 @@ Son facultades y obligaciones del Gobernador:
 
 I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-II.- Presentar cada año al Congreso a más tardar el día 15 de diciembre, los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Tesorero General del Estado a dar cuenta del mismo.
+II.- Presentar cada año al Congreso a más tardar el día 15 de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Secretario de Finanzas a dar cuenta del mismo.
 
 III.- Asistir a la apertura de los períodos ordinarios de sesiones del Congreso;
 
@@ -711,11 +713,11 @@ d).- En general, con las personas de derecho privado.
 
 VIII.- Concertar empréstitos en los términos de la fracción V del artículo 27 de esta Constitución;
 
-IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso tratándose de inmuebles.
+IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso tratándose de inmuebles;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
-X.- Nombrar y remover al Secretario General de Gobierno, al Tesorero General del Estado, al Procurador General de Justicia y a los demás servidores públicos del Poder Ejecutivo.
+X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas, al Procurador General de Justicia y a los demás Servidores Públicos del Poder Ejecutivo.
 
 XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales;
 
@@ -793,11 +795,11 @@ DEL PODER JUDICIAL.
 
 El Poder Judicial es el encargado de impartir justicia, aplicando las leyes. Se deposita en el Supremo Tribunal de Justicia y en los Juzgados que la Ley Orgánica respectiva determine.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 1985)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 52.
 
-El Supremo Tribunal de Justicia se compondrá de cinco Magistrados propietarios como mínimo, e igual número de suplentes, y funcionará en pleno o en salas.
+El Supremo Tribunal de Justicia, se integrará de siete Magistrados Propietarios y siete Supernumerarios y funcionará en pleno o en salas.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -919,11 +921,11 @@ CAPITULO DECIMOCUARTO
 
 De la Hacienda Pública.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 63.
 
-La Hacienda Pública se compone de los bienes y derechos pertenecientes al Estado y de las contribuciones que el Congreso decrete. Su administración estará a cargo del Ejecutivo por conducto del Tesorero General del Estado, quien será responsable de su manejo.
+La Hacienda Pública se compone de los bienes y derechos pertenecientes al Estado y de las contribuciones que el Congreso decreta. Su administración estará a cargo del Ejecutivo por conducto del Secretario de Finanzas del Estado, quien será responsable de su manejo.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1451,7 +1453,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 10 DE NOVIEMBRE DE 1974.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 5 DE ENERO DE 1975.
 
@@ -1578,3 +1580,13 @@ Hasta en tanto inicia funciones el Ayuntamiento electo, los servicios públicos 
 ###### ARTICULO 6o.
 
 Por esta única ocasión, el Congreso del Estado determinará la Ley de Ingresos y el Presupuesto de Egresos que aplicarán los Ayuntamientos electos de San Francisco de los Romo y El Llano, durante el ejercicio fiscal de 1993.
+
+P.O. 13 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todo ordenamiento y demás escritos que refieran la denominación Tesorería General o Tesorero General, en lo sucesivo serán Secretaría de Finanzas o Secretario de Finanzas, según corresponda.
