@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1926-07-24"
+last_updated: "1927-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 1926.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 1927.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -318,9 +318,11 @@ Es prerrogativa de los Diputados la de no ser procesados criminalmente ni arrest
 
 Nadie puede excusarse de servir el cargo de Diputado sino por causa bastante, a juicio del Congreso.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE AGOSTO DE 1927)</small>
+
 ###### Artículo 42.
 
-Los Diputados recibirán las dietas que les haya señalado la Legislatura anterior.
+Los Diputados recibirán las dietas que les haya señalado la Legislatura anterior, sin poder asignar ninguna otra cantidad por ningún otro concepto.
 
 ###### Artículo 43.
 
@@ -376,7 +378,7 @@ Las sesiones serán públicas; pero cuando se trate de asuntos que exijan reserv
 
 ###### Artículo 55.
 
-El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los diputados presentes.
+El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los Diputados presentes.
 
 ###### Artículo 56.
 
@@ -748,7 +750,7 @@ VII. Presentar durante los primeros quince días de las sesiones ordinarias del 
 
 VIII. Facilitar al Poder Judicial los auxilios que necesite para el ejercicio de sus funciones.
 
-IX. Proteger la seguridad de las personas, bienes y derechos de los individuos, y al efecto, mantener el orden, paz y tranquilidad pública en todo el Estado, haciendo respetar las garantías individuales.
+IX. Proteger la seguridad de las personas, bienes y derechos de los individuos, y al efecto, mantener el orden, paz y tranquilidad públicas en todo el Estado, haciendo respetar las garantías individuales.
 
 X. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que ella incurriere.
 
@@ -1090,9 +1092,11 @@ Jueces de Primera Instancia, Locales y Auxiliares.
 
 El poder Judicial se deposita, para su ejercicio, en el Supremo Tribunal de Justicia y en los Jueces de Primera Instancia, Jueces Locales y Auxiliares que establezca la ley.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1927)</small>
+
 ###### Artículo 136.
 
-El Supremo Tribunal de Justicia se compondrá de tres Magistrados Propietarios y seis Supernumerarios, electos cada cuatro años, por el Congreso del Estado, a propuesta de los Ayuntamientos. Los Magistrados, tanto Propietarios como Supernumerarios, podrán ser reelectos.
+El Supremo Tribunal de Justicia se compondrá de cuatro Magistrados Propietarios y ocho Supernumerarios, electos cada cuatro años por el Congreso del Estado a propuesta en terna de los Ayuntamientos. Los Magistrados tanto Propietarios como Supernumerarios podrán ser reelectos.
 
 ###### Artículo 137.
 
@@ -1118,9 +1122,13 @@ Los Magistrados rendirán la protesta de ley ante el Congreso o ante la Diputaci
 
 No podrán formar parte del Tribunal dos o más Magistrados que sean parientes entre sí, por consanguinidad, dentro del cuarto grado, o por afinidad, dentro del segundo.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1927)</small>
+
 ###### Artículo 141.
 
-El Supremo Tribunal de Justicia funcionará en Salas Unitarias, que se distinguirán por los ordinales Primera, Segunda y Tercera, y en Tribunal Pleno, que se integrará con los tres Magistrados que desempeñen las Salas.
+El Supremo Tribunal de Justicia, funcionará en Salas unitarias que se distinguirán por las ordinarias:
+
+Primera, Segunda, Tercera y Cuarta; y en Tribunal Pleno, que se integrará por los cuatro Magistrados que desempeñan las Salas.
 
 ###### Artículo 142.
 
@@ -1130,75 +1138,75 @@ El Supremo Tribunal de Justicia, se instalará en cada período constitucional, 
 
 Si alguno o varios de los Magistrados Propietarios electos, no se presentaren el día que deban tomar posesión de sus cargos, entrará en funciones el supernumerario o supernumerarios que correspondan; pero si pasaren dos meses sin presentarse, el Congreso hará nueva elección de propietarios en los términos del Artículo 136.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1927)</small>
+
 ###### Artículo 144.
 
-Las faltas temporales de los Magistrados Propietarios, se cubrirán por los Supernumerarios respectivos en el orden que establezca la ley. Las faltas absolutas de los Magistrados Propietarios y Supernumerarios, se cubrirán siempre por nueva elección.
+Las faltas temporales o absolutas de los Magistrados Propietarios, se cubrirán por los Supernumerarios respectivos, en el orden que establezca la Ley.
 
 ###### Artículo 145.
 
 Los Magistrados que estén en ejercicio de sus funciones, no pueden ser abogados o apoderados ante los Tribunales, en negocios agenos (sic), asesores, árbitros y arbitradores, ni ejercer el Notariado.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1927)</small>
+
 ###### Artículo 146.
 
 Corresponde al Tribunal Pleno de Justicia:
 
-I. Resolver la apelaciones de sentencias definitivas en materia civil y penal.
+I. Conocer en segunda instancia de las controversias que se susciten sobre contratos que celebre el Estado, por sí o por medio de sus Agentes, siempre que dichos contratos deban ser cumplidos dentro de su territorio.
 
-II. Resolver las apelaciones de autos de formal prisión.
+II. Conocer la segunda instancia de los juicios instaurados en el Estado, contra el Gobierno del mismo.
 
-III. Revisar las causas criminales cuya sentencia de primera instancia hayan causado ejecutoria, con objeto de determinar si ha lugar o no a exigir responsabilidad al Juez de los autos.
+III. Ejercer el derecho que le concede la Constitución de iniciar Leyes.
 
-IV. Conocer en segunda instancia de las controversias que se susciten sobre contratos que celebre el Estado, por sí o por medio de sus Agentes, siempre que dichos contratos deban ser cumplidos dentro de su territorio.
+IV. Resolver las quejas que se presentaren contra los Jueces de Primera Instancia y Locales, por actos ejecutados en ejercicio de sus funciones declarando si ha lugar o no, a proceder a exigirles responsabilidad.
 
-V. Conocer de la segunda instancia de los juicios instaurados en el Estado contra el Gobierno del mismo.
+V. Conocer en única instancia de los procesos contra el Gobernador del Estado, los Diputados, los Magistrados del Supremo Tribunal, el Procurador de justicia y demás funcionarios que determine la Ley.
 
-VI. Ejercer el derecho de iniciar leyes que le concede la Constitución.
+VI. Dirimir las competencias que se susciten entre los Jueces de Primera Instancia del Estado o entre Jueces Locales de distintos distritos judiciales.
 
-VII. Resolver las quejas que se presentaren contra los Jueces de Primera Instancia y Locales, por autos ejecutados en ejercicio de sus funciones, declarando si ha lugar o no a proceder para exigirles la responsabilidad consiguiente.
+VII. Conceder licencias con o sin goce de sueldo a los Magistrados y Jueces de Primera Instancia, siendo las primeras por causa justificada a juicio del Tribunal.
 
-VIII. Conocer en única instancia de los procesos contra el Gobernador, los Diputados, los Magistrados del Supremo Tribunal, el Procurador General de Justicia, el Secretario General de Gobierno y el Tesorero General del Estado, por delitos oficiales.
+VIII. Nombrar a los Jueces de Primera Instancia.
 
-IX. Dirimir las competencias que se susciten entre los Jueces de Primera Instancia del Estado o entre Jueces Locales de distintos Distritos Judiciales.
+IX. Conocer de las recusaciones o excusas de los Magistrados que formen el Tribunal.
 
-X. Conceder licencia con goce de sueldo a los Magistrados y Jueces de Primera Instancia, hasta por quince días, por causa justificada y por una sola vez al año.
+X. Nombrar y remover al Secretario y demás empleados subalternos del Tribunal.
 
-XI. Nombrar a los Jueces de Primera Instancia.
+XI. Formar su reglamento interior, pasándolo al Congreso para su aprobación.
 
-XII. Nombrar y remover en los términos de la ley al Secretario y demás empleados subalternos del Tribunal.
+XII. Suspender hasta por un mes por causa justificada a los Jueces de Primera Instancia.
 
-XIII. Formar su reglamento interior, pasándolo al Congreso para la aprobación.
+XIII. Remitir al Ejecutivo y al Congreso, los informes que pidan sobre la Administración de justicia.
 
-XIV. Suspender hasta por un mes, por causa grave y justificada, a los Jueces de Primera Instancia.
+XIV. Apoyar o contradecir las peticiones de indulto.
 
-XV. Remitir al Ejecutivo y al Congreso los informes generales que le pidan sobre la administración de justicia.
+XV. Ordenar visitas a los Juzgados de Primera Instancia, y de Cárceles.
 
-XVI. Apoyar o contradecir las peticiones de indulto.
+XVI. Fijar los emolumentos que deban percibir los Magistrados Supernumerarios, cuando conozcan de asuntos del Tribunal.
 
-XVII. Ordenar visitas de cárceles.
+XVII. Conocer de los recursos de casación en negocios mercantiles.
 
-XVIII. Ordenar visitas a los Juzgados de Primera Instancia y Locales.
+XVIII. Las demás que les confieran las leyes.
 
-XIX. Fijar los emolumentos que deban percibir los Magistrados Supernumerarios, cuando conozcan de uno o varios asuntos determinados.
-
-XX. Conocer del recurso de casación en asuntos mercantiles.
-
-XXI. Las demás que le confieran las leyes.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 1927)</small>
 
 ###### Artículo 147.
 
-Corresponde a las Salas del Supremo Tribunal de Justicia:
+Corresponde a las Salas del Tribunal:
 
-I. Conocer de la apelaciones de autos y sentencias interlocutorias en los asuntos civiles.
+I. Conocer de la apelaciones de autos y sentencias interlocutorias y definitivas, en los juicios civiles.
 
-II. Conocer de las apelaciones de autos y sentencias interlocutorias en los juicios criminales, con excepción del auto de formal prisión.
+II. Conocer de las apelaciones de autos y sentencias interlocutorias y definitivas, en los juicios criminales.
 
-III. Substanciar las apelaciones de las sentencias definitivas en los juicios civiles y criminales y la del auto de formal prisión de estos últimos.
+III. Sustanciar y resolver las apelaciones interpuestas en sentencias definitivas y revisar las causas criminales, cuya sentencia haya causado ejecutoria, con objeto de determinar si ha lugar o no a exigir responsabilidad al Juez de los autos.
 
-IV. Conocer en primera instancia de las controversias que se susciten sobre contratos que celebre el Estado, por sí o por medio de sus Agentes, siempre que dichos contratos deban ser cumplidos dentro de su territorio, y de la primera instancia de los juicios instaurados en el Estado contra el Gobierno del mismo.
+IV. Conocer en primera instancia de las controversias que se susciten sobre contratos que celebre el Estado por sí o por medio de sus Agentes, siempre que dichos contratos deban ser cumplidos dentro de su territorio, y de la primera instancia de los juicios instaurados en el Estado contra el Gobierno del mismo.
 
 V. Conocer de los juicios de responsabilidad contra los Jueces de Primera Instancia.
 
-VI. Las demás que les confieran las leyes.
+VI. Las demás que les confieran las Leyes.
 
 ### CAPITULO III.
 
@@ -1272,7 +1280,7 @@ Se suprime en el Estado el recurso de casación en materia criminal y en asuntos
 
 ### CAPITULO UNICO.
 
-De la Inviolavilidad (sic ) y reforma de la Constitución.
+De la Inviolavilidad (sic) y reforma de la Constitución.
 
 ## TITULO SEPTIMO.
 
@@ -1565,3 +1573,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 24 DE JULIO DE 1926.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 31 DE AGOSTO DE 1927.
+
+UNICO.- Por esta sola vez y teniendo en cuenta que el período para que han sido electos los Magistrados actualmente en ejercicio, ha comenzado ya, el Congreso hará la designación del Magistrado que deba encargarse del despacho de la Cuarta Sala, sin pedir terna a los Ayuntamientos, tan luego como entren en vigor estas reformas, que será la fecha de su promulgación en el Periódico Oficial del Estado.
