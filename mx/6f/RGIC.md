@@ -4,7 +4,7 @@ identifier: "RGIC"
 country: "mx"
 rank: "reglamento"
 publication_date: "1934-03-20"
-last_updated: "1934-03-20"
+last_updated: "1934-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=586&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "RGIC"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1934.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 20 de marzo de 1934.
 
@@ -324,9 +324,11 @@ Los individuos de las Cámaras asistirán a todas las sesiones desde el principi
 
 Se considerará ausente de una sesión al miembro de la Cámara que no esté presente al pasarse lista; si después de ella hubiere alguna votación nominal y no se encontrare presente, también se considerará como faltante. De igual manera se considerará ausente en caso de falta de quórum al pasarse a la lista correspondiente.
 
+> <small>(REFORMADO, D.O.F. 21 DE NOVIEMBRE DE 1934)</small>
+
 ###### ARTICULO 46.
 
-En las sesiones de apertura de los períodos constitucionales y en la protesta del Presidente de la República, los senadores y diputados asistirán en traje de etiqueta.
+En las sesiones de apertura de los períodos constitucionales y en la protesta del Presidente de la República, los Senadores y Diputados asistirán en traje de calle, de preferencia color negro.
 
 ###### ARTICULO 47.
 
@@ -1195,3 +1197,9 @@ Lo que comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 
 México, D.F., a 15 de marzo de 1934.- El Secretario de Gobernación, Eduardo Vasconcelos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE NOVIEMBRE DE 1934.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
