@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "1966-08-17"
+last_updated: "1967-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE AGOSTO DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE JULIO DE 1967.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -529,15 +529,55 @@ No se concederá nuevo préstamo mientras permanezca insoluto el anterior. Solam
 
 Los adeudos por concepto de préstamos a corto plazo que no fueren cubiertos a su vencimiento en el caso de fracción I del artículo 51, se pagarán con cargo a las aportaciones del deudor; y en el caso de la fracción II, se cargará el excedente sobre el Fondo de Garantía. Sin embargo, en este último caso, será exigible el crédito contra el deudor o contra el codeudor, pudiendo el Instituto acudir a los medios legales para hacer efectivo el adeudo y debiéndose abonar a dicho fondo las cantidades que se recuperen.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 12 DE JULIO DE 1967)</small>
+
+### CAPITULO SEXTO BIS
+
+DE LOS PRESTAMOS PRENDARIOS PARA LA ADQUISICION DE BIENES DE CONSUMO DURADERO.
+
+> <small>(ADICIONADO, B.O. 12 DE JULIO DE 1967)</small>
+
+###### Artículo 58 Bis.
+
+Los trabajadores que hayan contribuido por más de seis meses al Instituto podrán obtener préstamos prendarios para la adquisición de bienes de consumo duradero, constituyendo la prenda el propio bien adquirido. Este tipo de operaciones, se realizarán de acuerdo a las siguientes bases:
+
+PRIMERA.- El monto de los préstamos prendarios podrá ser hasta la cantidad correspondiente a cinco veces el sueldo mensual del trabajador. Un mismo trabajador podrá obtener varios préstamos si la suma de todos ellos no sobrepasa esa cantidad.
+
+SEGUNDA.- Para el otorgamiento de los préstamos prendarios se considerarán bienes de consumo duradero los siguientes artículos: muebles de recámaras, muebles de cocina, muebles de comedor, muebles de sala, estufas, refrigeradores, calentadores de agua y máquinas de lavar.
+
+TERCERA.- El plazo de los préstamos puede ser hasta un máximo de dos años.
+
+CUARTA.- Los préstamos prendarios causarán el interés que fije el Reglamento respectivo pero en ningún caso podrá ser mayor del doce por ciento anual, calculando sobre saldos insolutos.
+
+QUINTA.- El pago del monto total del préstamo se hará en abonos quincenales iguales e incluirá capital, intereses y comisión.
+
+SEXTA.- El Instituto cobrará una comisión por el manejo de estos créditos de acuerdo con el plazo en la forma que sigue:
+
+Hasta seis meses 1% sobre el monto total.
+
+Más de seis meses, hasta 1%.
+
+año 1.5% sobre el monto total.
+
+Más de un año hasta 2 años 2% sobre el monto total.
+
+SEPTIMA.- El préstamo que se conceda no excederá del 90% del valor de la factura del bien adquirido; el 10% restante deberá ser pagado en efectivo por el propio trabajador.
+
+OCTAVA.- La falta de pago de dos mensualidades dará derecho al Instituto para dar por rescindido el contrato de crédito y exigir el pago del adeudo.
+
+NOVENA.- Los adeudos por concepto de préstamos prendarios que no fueren cubiertos a su vencimiento se pagarán con cargo a las aportaciones del adeudor (sic), siempre que las mismas no estén garantizando préstamos a corto plazo; si ese fondo no fuera suficiente el Instituto podrá recoger el bien constituido en prenda.
+
+DECIMA.- El Instituto adquiere la total responsabilidad del préstamo otorgado al trabajador y la garantía del mismo lo constituye el bien adquirido del cual será depositario el propio trabajador, pero en ningún caso se hará responsable el Instituto de la calidad del propio bien ni de su mantenimiento.
+
+DECIMA PRIMERA.- El otorgamiento de créditos prendarios estará condicionado a la situación económica que guarde el Instituto y al criterio de la Junta Directiva del mismo desee imponer al respecto con el fin de cuidar que el asegurado haga una buena inversión y que sus ingresos le dén la capacidad de pago necesaria.
+
+DECIMA SEGUNDA.- Queda facultado el Director General para formular las reglas y procedimientos que deberán seguirse en el otorgamiento de estos créditos, debiendo contar con la autorización de la Junta Directiva antes de ponerlos en efecto.
+
 ### CAPITULO SÉPTIMO. DE LA JUBILACION Y DE LAS PENSIONES POR VEJEZ, INVALIDEZ Y MUERTE
 
 SECCION 1a
 
 GENERALIDADES
-
-### CAPITULO SEPTIMO BIS.. DEL PAGO POSTUMO
-
-> <small>(ADICIONADO, B.O. 17 DE AGOSTO DE 1966)</small>
 
 ###### Artículo 59.
 
@@ -765,7 +805,9 @@ Si no existiesen parientes o personas que se encarguen de la inhumación, el Ins
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 17 DE AGOSTO DE 1966)</small>
 
-### CAPITULO OCTAVO. DE LA INDEMNIZACION GLOBAL
+### CAPITULO SEPTIMO BIS.. DEL PAGO POSTUMO
+
+> <small>(ADICIONADO, B.O. 17 DE AGOSTO DE 1966)</small>
 
 ###### Artículo 88 Bis.
 
@@ -783,7 +825,7 @@ QUINTO.- Cuando el trabajador no haya designado beneficiario, el importe del pag
 
 SEXTA.- Al fallecimiento del trabajador y cuando éste no haya designado beneficiario, el Instituto al enterarse del fallecimiento, convocará, por medio de uno de los periódicos de mayor circulación del lugar en donde haya aquél tenido domicilio y en el Boletín Oficial del Estado, para que dentro de los 30 días siguientes a la última publicación, comparezcan las personas que tengan derecho, de acuerdo con la Ley, a declarar el pago póstumo. Transcurrido el término anterior y una vez estudiadas las reclamaciones y las pruebas presentadas, el Instituto resolverá dentro de quince días a quien corresponde entregar el beneficio.- Para acreditar el derecho a percibir el pago póstumo y en todo lo relativo a la valorización de las pruebas que se ofrezcan, se estará a lo dispuesto en la legislación civil.
 
-### CAPITULO NOVENO. DE LA PRESCRIPCION
+### CAPITULO OCTAVO. DE LA INDEMNIZACION GLOBAL
 
 ###### Artículo 89.
 
@@ -803,11 +845,7 @@ II.- Cuando al trabajador se le impute la comisión de algún delito con motivo 
 
 Si el trabajador o ex-trabajador hubiere cobrado una indemnización global y quisiere que el tiempo que abarque dicha indemnización se le compute, para los efectos de esta ley, reintegrará, en el plazo prudente que le conceda el Instituto; la indemnización global que hubiere recibido, más sus intereses simples a razón del seis por ciento anual. Si falleciere antes de ejercer este derecho o de solventar el adeudo, sus familiares derechohabientes podrán optar por el pago de la indemnización que en su caso hubiere correspondido al trabajador en los términos del artículo 89 o bien por cubrir íntegramente el saldo adeudado para disfrutar de la pensión, en los casos en que ésta proceda.
 
-### CAPITULO DECIMO. DE LAS FUNCIONES Y ORGANIZACIONES DEL INSTITUTO
-
-SECCION 1a.
-
-FUNCIONES DEL INSTITUTO.
+### CAPITULO NOVENO. DE LA PRESCRIPCION
 
 ###### Artículo 92.
 
@@ -823,11 +861,11 @@ Las obligaciones que en favor del Instituto señala la presente ley a cargo del 
 
 La prescripción se interrumpirá por cualquier gestión de cobro, hecha por escrito, judicial o extrajudicial.
 
-### CAPITULO DECIMO PRIMERO. DEL PATRIMONIO E INVERSIONES DEL INSTITUTO
+### CAPITULO DECIMO. DE LAS FUNCIONES Y ORGANIZACIONES DEL INSTITUTO
 
 SECCION 1a.
 
-PATRIMONIO DEL INSTITUTO
+FUNCIONES DEL INSTITUTO.
 
 ###### Artículo 95.
 
@@ -999,9 +1037,11 @@ El Director General será auxiliado en sus funciones por los Sub-Directores que 
 
 Los trabajadores del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, quedan incorporados al régimen de la presente Ley y las relaciones de trabajo entre ambos, se regirán por la Ley del Servicio Civil del Estado de Sonora.
 
-### CAPITULO DECIMO SEGUNDO.
+### CAPITULO DECIMO PRIMERO. DEL PATRIMONIO E INVERSIONES DEL INSTITUTO
 
-DE LAS RESPONSABILIDADES Y SANCIONES.
+SECCION 1a.
+
+PATRIMONIO DEL INSTITUTO
 
 ###### Artículo 113.
 
@@ -1081,7 +1121,9 @@ III.- Los de las fracciones III a la XI.
 
 Las cuentas del Instituto quedarán sujetas a la revisión, glosa y aprobación de la Tesorería General del Estado, la cual establecerá el servicio de auditoría permanente. El Instituto remitirá a dicha Tesorería dentro de los tres primeros meses de cada año su balance general de fin de ejercicio, estado de pérdidas y ganancias y cuaderno de cuentas con los anexos correspondientes a fin de poder precisar con la mayor exactitud la situación contable de la institución.
 
-### CAPITULO DECIMO TERCERO. DISPOSICIONES GENERALES
+### CAPITULO DECIMO SEGUNDO.
+
+DE LAS RESPONSABILIDADES Y SANCIONES.
 
 ###### Artículo 122.
 
@@ -1106,6 +1148,8 @@ Se reputará como fraude y se sancionará como tal, en los términos del Código
 ###### Artículo 127.
 
 Cuando se establezca una responsabilidad pecuniaria a cargo del trabajador y a favor del Instituto por la imposición de las sanciones establecidas en este capítulo o por haber recibido servicios indebidamente, el Estado u organismos públicos incorporados de quienes dependa el trabajador, le harán a petición del Instituto los descuentos correspondientes hasta por el importe de su responsabilidad, con la limitación establecida en el artículo 20 de esta ley.
+
+### CAPITULO DECIMO TERCERO. DISPOSICIONES GENERALES
 
 ###### Artículo 128.
 
@@ -1228,5 +1272,9 @@ B.O. 15 DE SEPTIEMBRE DE 1965.
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
 B.O. 17 DE AGOSTO DE 1966.
+
+UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
+
+B.O. 12 DE JULIO DE 1967.
 
 UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
