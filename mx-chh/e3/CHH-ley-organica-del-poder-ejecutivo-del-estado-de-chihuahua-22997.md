@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "1994-01-29"
+last_updated: "1995-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1995.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -161,9 +161,11 @@ Las comisiones podrán ser transitorias o permanentes y serán presididas por qu
 
 El Gobernador del Estado podrá celebrar convenios de coordinación de acciones con el Gobierno Federal, con los Gobiernos de otros Estados, con los Municipios y otras entidades, satisfaciendo las formalidades legales que en cada caso procedan.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1995)</small>
+
 ###### ARTICULO 21.
 
-Los titulares de las dependencias deberán informar al Congreso del Estado o a su Diputación permanente, en los casos en que se discuta una Ley o se estudie un negocio concerniente a sus actividades. Esta obligación será extensiva a los directores u órganos equivalentes de las entidades paraestatales.
+Los Titulares de las dependencias a que se refiere el artículo octavo de esta ley presentarán al Congreso, luego que esté abierto el Segundo Período Ordinario de Sesiones, un informe por escrito del estado que guardan los asuntos de sus respectivos ramos. Asimismo, podrán ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo. Esta obligación será extensiva a los directores u órganos equivalentes de las entidades paraestatales.
 
 ###### ARTICULO 22.
 
@@ -219,7 +221,9 @@ II.- Conducir los asuntos internos del orden político del Estado;
 
 III.- Conducir y coordinar las relaciones del Poder Ejecutivo con la Federación, con los otros Poderes del Estado, con los Ayuntamientos de la Entidad y los Agentes Consulares, en lo relativo a su competencia;
 
-IV.- Intervenir en la integración de las ternas que deban enviarse al Congreso o a su Diputación Permanente para la designación de los Magistrados del Supremo Tribunal de Justicia, autoridades municipales y demás funcionarios;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+
+IV.- Designar a los representantes que integrarán el Jurado, para seleccionar y someter al Pleno del Congreso la terna integrada por los candidatos a Magistrados del Supremo Tribunal de Justicia mejor calificados. Asimismo, intervenir en la integración de las ternas para la designación de autoridades municipales y demás funcionarios, de conformidad con lo dispuesto por la Constitución Política del Estado;
 
 V.- Asesorar jurídicamente a las dependencias y entidades del Ejecutivo, así como a los Ayuntamientos que lo soliciten;
 
@@ -277,7 +281,9 @@ IX.- Efectuar las erogaciones conforme al Presupuesto de Egresos;
 
 X.- Llevar la contabilidad de la Hacienda Pública Estatal;
 
-XI.- Formular mensualmente la Cuenta General de Ingresos y Egresos;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+
+XI.- Formular por trimestre y anualmente la cuenta general de ingresos y egresos;
 
 XII.- Establecer medidas de control respecto a los ingresos y egresos de las entidades paraestatales, así como de los Patronatos que manejen fondos oficiales;
 
@@ -315,7 +321,9 @@ XXVI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 A la Dirección General de Fomento Social corresponde el despacho de los siguientes asuntos:
 
-I.- Ejercer las funciones que en materia de Salubridad Pública correspondan al Estado;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
+
+I.- Ejercer las funciones que en materia de salud pública correspondan al Estado;
 
 II.- Ejercer las funciones que al Estado señala la Ley General de Salud, así como las que sean descentralizadas por la Secretaría de Salud al Gobierno del Estado.
 
@@ -507,7 +515,13 @@ IV.- Rendir a los Poderes del Estado, los informes que le piden sobre asuntos re
 
 V.- La que le confiere el artículo 4° de esta Ley.
 
-El Procurador intervendrá por sí o por conducto de los Agentes del Ministerio Público en el ejercicio de las atribuciones a que se refiere este artículo, según las previsiones de las leyes y reglamentos y los acuerdos que dicte el Ejecutivo Local o el propio Procurador. El Reglamento prevendrá la distribución de los asuntos entre las unidades técnicas y administrativas de la dependencia.
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 1995)</small>
+
+VI.- Prevenir; vigilar e investigar que los servidores públicos del Estado, cumplan y hagan cumplir las leyes, reglamentos y demás disposiciones normativas, de una manera oportuna, honesta y eficaz, en los términos que señale el reglamento que al efecto expida el ejecutivo, y sin perjuicio de las facultades que legalmente correspondan a otras autoridades.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1995)</small>
+
+El Procurador intervendrá por sí, por conducto de los agentes del Ministerio Público o de la Contraloría de Asuntos Internos, en el ejercicio de las atribuciones a que se refiere este artículo, según las previsiones de las leyes y reglamentos y los acuerdos que dicte el ejecutivo local o el propio Procurador. El reglamento prevendrá la distribución de los asuntos entre las unidades técnicas y administrativas de la dependencia.
 
 ###### ARTICULO 34.
 
@@ -567,17 +581,23 @@ III.- Vigilar el cumplimiento de las Leyes de Obra Pública, de adquisiciones, a
 
 IV.- Recibir y revisar las declaraciones de situación patrimonial de los servidores públicos que corresponda y, en su caso, promover la imposición de las sanciones administrativas que correspondan en la forma y términos que determina la Ley de la materia; y
 
-V.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 1995)</small>
+
+V.- Representar, salvo disposición expresa del Gobernador, ante toda clase de autoridades, por sí o por conducto de apoderado, a la administración pública estatal en aquellos casos en que puedan ser afectados los intereses del Estado y formular denuncias, querellas o demandas y otorgar perdón, así como ejercitar y desistirse de acciones judiciales inclusive del juicio de amparo, pudiendo, en su caso, conferir y revocar poderes generales y especiales, respecto de las responsabilidades penales o de carácter civil en que incurran los servidores de la Administración Pública.
+
+VI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
 ### CAPITULO UNICO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1995)</small>
+
 ### CAPITULO III. UNIDADES DE APOYO Y ASESORIA ADSCRITAS DIRECTAMENTE AL EJECUTIVO
 
 ###### ARTICULO 37.
 
-Dentro de la Administración Pública Paraestatal, serán considerados como organismos descentralizados las instituciones creadas por disposición del Congreso del Estado, o por el Ejecutivo, con personalidad jurídica, competencia y patrimonio propios, cualquiera que sea la forma o estructura legal que adopten.
+Las instituciones con personalidad jurídica, competencia y patrimonio propios que hayan sido creadas por el Ejecutivo o por le Congreso o que en lo sucesivo sean constituidas por éste de acuerdo a lo previsto por el artículo 64, fracción XLI, de la Constitución Política del Estado, cualquiera que sea la forma o estructura legal que adopten, serán consideradas como organismos descentralizados de la Administración Pública Paraestatal.
 
 ###### ARTICULO 38.
 
@@ -788,3 +808,7 @@ TERCERO.- Se transfieren a la Dirección General de Educación y Cultura y a la 
 CUARTO.- El trámite de los asuntos iniciados ante la Dirección General de Desarrollo Social será continuado, según corresponda en razón de la materia, por la Dirección General de Educación y Cultura o por la Dirección General de Fomento Social.
 
 QUINTO.- Las funciones establecidas a cargo de la Dirección General de Desarrollo Social en la ley que se modifica mediante este Decreto o en cualquier otra Ley o reglamento así como en convenios o acuerdos celebrados con dependencias o entidades de la Administración Centralizada o Paraestatal o con Entidades de la Administraciión (sic) Pública Federal, serán asumidas según sea el caso y atendiendo a la materia, por la Dirección General de Educación y Cultura o por la Dirección General de Fomento Social, según corresponda.
+
+P.O. 5 DE JULIO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
