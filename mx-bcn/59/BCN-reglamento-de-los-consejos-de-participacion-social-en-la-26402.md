@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-los-consejos-de-participacion-social-en-la-26402"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-11"
-last_updated: "2003-04-11"
+last_updated: "2004-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LOS CONSEJOS DE PARTICIPACION SOCIAL EN LA EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de octubre de 2002.
 
@@ -451,7 +451,13 @@ XI.- Un representante de la Confederación Patronal de la República Mexicana, y
 
 XII.- La Autoridad Educativa Municipal, el Coordinador de la Comisión de Educación del Ayuntamiento, y en caso de no existir, la persona que designe el Presidente Municipal;
 
-XIII.- Un representante del Comité de Vinculación Escuela-Empresa.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+XllI.- Un representante del Comité de Vinculación Escuela - Empresa; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2004)</small>
+
+XIV.- Un representante de las organizaciones o asociaciones civiles, que atiendan a niños con capacidades diferentes, del área de circunscripción del sector, interesadas en la educación.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
@@ -914,3 +920,7 @@ ALEJANDRO BAHENA FLORES
 P.O. 11 DE ABRIL DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE JUNIO DE 2004.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
