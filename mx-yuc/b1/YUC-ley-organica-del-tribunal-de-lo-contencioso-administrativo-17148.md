@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-tribunal-de-lo-contencioso-administrativo-1714
 country: "mx"
 rank: "ley_organica"
 publication_date: "1987-10-01"
-last_updated: "1987-10-01"
+last_updated: "1990-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL TRIBUNAL CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 1990.
 
 Ley publicada en el Diario Oficial el Jueves 1 de Octubre de 1987.
 
@@ -51,19 +51,23 @@ El Tribunal de lo Contencioso Administrativo del Estado es un organismo autónom
 
 Es atribución del Tribunal de lo Contencioso Administrativo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública Centralizada y Descentralizada del Estado y de los Municipios, y los particulares; así como las responsabilidades administrativas en que incurran los servidores públicos.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 4.
 
-El Tribunal de lo Contencioso Administrativo tendrá la organización y atribuciones que le otorgan esta ley y la de lo Contencioso Administrativo del Estado de Yucatán.
+El Tribunal de lo Contencioso Administrativo estará organizado conforme lo dispone esta Ley, funcionará como lo señala la Ley de lo Contencioso Administrativo del Estado y tendrá las atribuciones que ambas Leyes, la de Responsabilidades de los Servidores Públicos del Estado, y los demás ordenamientos jurídicos aplicables le otorguen.
 
 ###### ARTICULO 5.
 
-El Tribunal de lo Contencioso Administrativo se regirá por las disposiciones contenidas en esta Ley, en la Ley de lo Contencioso Administrativo del Estado, en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, y en los demás ordenamientos jurídicos aplicables.
+(DEROGADO, D.O. 13 DE DICIEMBRE DE 1990)
 
 ### CAPITULO II. DE LA INTEGRACION DEL TRIBUNAL
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 6.
 
-El Tribunal de lo Contencioso Administrativo se integrará con un Magistrado y serán auxiliares de la jurisdicción administrativa el Secretario, el actuario, los defensores de oficio y el personal administrativo que señale el Presupuesto de Egresos del Estado.
+El Tribunal de lo Contencioso Administrativo se integrará con un Magistrado, y serán auxiliares de la Jurisdicción Administrativa los Secretarios de Estudio y Proyectos, de Cuenta y Acuerdos, y el Actuario. Se contará también con un Defensor de Oficio y el personal técnico y administrativo que señale el Presupuesto de Egresos del Estado.
 
 ###### ARTICULO 7.
 
@@ -71,9 +75,13 @@ Para ser Magistrado del Tribunal de lo Contencioso Administrativo se requiere:
 
 I.- Ser mexicano por nacimiento, en ejercicio de sus derechos políticos y civiles y ser vecino en el Estado durante los últimos tres años.
 
-II.- No tener menos de 30 ni más de setenta el día de su designación.
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 1990)</small>
 
-III.- Ser Licenciado en Derecho con Título legalmente registrado y acreditar amplia capacidad profesional.
+II.- No tener más de 65 años de edad ni menos de 35, el día de su designación.
+
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 1990)</small>
+
+III.- Ser Abogado o Licenciado en Derecho con Título legalmente registrado y acreditar amplia capacidad profesional.
 
 IV.- Tener por lo menos tres años de práctica profesional en asuntos de la Administración Pública.
 
@@ -81,9 +89,11 @@ V.- Ser de notoria buena conducta y honorabilidad manifiestas.
 
 VI.- No haber sido condenado por delito intencional.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 8.
 
-El nombramiento del Magistrado lo hará el Gobernador del Estado, con aprobación del Congreso.
+El nombramiento del Magistrado lo hará el Gobernador del Estado con aprobación del Congreso del Estado. El propio Gobernador podrá concederle licencia con o sin goce de sueldo, cuando le fuere solicitada.
 
 ###### ARTICULO 9.
 
@@ -93,123 +103,155 @@ El Magistrado durará en su encargo cuatro años desde la fecha en que fuere nom
 
 No podrán reducirse el sueldo y las demás prestaciones permanentes del Magistrado durante el término de su encargo.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 11.
 
-Las faltas temporales del Magistrado serán cubiertas por el Secretario del Tribunal. Las faltas definitivas se cubrirán con nueva designación.
+Las faltas temporales del Magistrado, serán cubiertas por el Secretario de Estudio y Proyectos, quien cubrirá también las del Secretario de Cuenta y Acuerdos en sus ausencias temporales o cuando esté ejerciendo las funciones del Actuario por faltas temporales del mismo.
 
-Cuando el Secretario sustituya al Magistrado, deberá actuar con testigos de asistencia.
+Se considerarán faltas temporales, las que sean menores de treinta días naturales continuos; fuera de este caso, se designará un nuevo funcionario que tendrá el carácter de titular cuando la falta sea definitiva o de interino cuando no lo fuere.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 12.
 
-Las licencias del Magistrado serán concedidas por el Gobernador sean con o sin goce de sueldo.
+Los Secretarios de Estudio y Proyectos; de Cuenta y Acuerdos, el Actuario, y el personal técnico y administrativo serán nombrados y removidos por el Magistrado, quién igualmente les concederá o negará las licencias que le sean solicitadas, haciendo la designación de quien los sustituya definitiva o provisionalmente.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 13.
 
-El Tribunal de lo Contencioso Administrativo contará con:
+El Defensor de Oficio será nombrado y removido por el Gobernador del Estado, quien de removerlo o concederle licencia designará al sustituto titular o interino.
 
-I.- Un Secretario.
-
-II. Un Actuario.
-
-III.- Los Defensores de Oficio necesarios.
-
-IV. El personal técnico y administrativo necesario para su funcionamiento.
-
-El Secretario, el Actuario y el personal técnico y administrativo serán nombrados y removidos por el Magistrado. El nombramiento y remoción de los defensores de oficio corresponderá al Gobernador del Estado.
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 14.
 
-Para ser Secretario, se requiere:
+Para ser Secretario de Estudio y Proyectos se requiere:
 
-I.- Ser mexicano, en ejercicio de sus derechos civiles y políticos.
+I.- Ser mexicano en pleno ejercicio de sus derechos civiles y políticos.
 
-II.- No tener menos de veinticinco años ni más de cincuenta, el día de su designación.
+II.- No tener menos de veinticinco años ni más de cincuenta el día de su designación.
 
-III.- Ser Licenciado en Derecho, con título legalmente registrado.
+III.- Ser Abogado o Licenciado en Derecho con título legalmente registrado.
+
+IV.- Tener por lo menos tres años de práctica profesional general o un año de práctica profesional específica en asuntos administrativos o fiscales.
+
+V.- Ser de notoria buena conducta y honorabilidad manifiesta.
+
+VI.- No haber sido condenado por delito intencional.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 15.
+
+Para ser Secretario de Cuenta y Acuerdos se requiere:
+
+I.- Ser mexicano en pleno ejercicio de sus derechos civiles y políticos.
+
+II.- No tener menos de veintitrés años ni más de cincuenta el día de su designación.
+
+III.- Ser Abogado o Licenciado en Derecho con título legalmente registrado.
+
+IV.- Tener por lo menos un año de práctica profesional.
+
+V.- Ser de notoria buena conducta.
+
+VI.- No haber sido condenado por delito intencional.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 16.
+
+Para ser Actuario del Tribunal o Defensor de Oficio se requiere:
+
+I.- Ser Mexicano, en ejercicio de sus derechos civiles y políticos.
+
+II.- No tener menos de veintiún años ni más de cincuenta, el día de su designación.
+
+III.- Ser Abogado o Licenciado en Derecho, o Pasante de la Carrera.
 
 IV.- Ser de notoria buena conducta.
 
 V.- No haber sido condenado por delito intencional.
 
-###### ARTICULO 15.
-
-Para ser actuario del Tribunal se requiere:
-
-I.- Ser mexicano, en ejercicio de sus derechos civiles y políticos.
-
-II.- No tener menos de veintiún años ni más de cincuenta, el día de su designación.
-
-III.- Ser Licenciado o pasante de Derecho.
-
-IV.- Ser de notoria buena conducta.
-
-V.- No haber sido condenado por delito intencional
-
-###### ARTICULO 16.
-
-El defensor de oficio debe satisfacer los mismos requisitos que el Secretario del Tribunal.
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 17.
 
-El Magistrado, Secretario, Actuario y Defensores de Oficio estarán impedidos para desempeñar cualquier otro empleo, excepto los de carácter docente y los honoríficos. También estarán impedidos para ejercer la profesión salvo en causa propia.
+El Magistrado, Secretarios de Estudio y Proyectos y Cuentas y Acuerdos, el Actuario y el Defensor de Oficio, estarán impedidos para desempeñar cualquier otro cargo o empleo, excepto los de carácter docente y los honoríficos. Los cuatro primeros estarán también impedidos para ejercer la profesión salvo, en causa propia, de su cónyuge o de sus parientes consanguíneos hasta el tercer grado.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 18.
 
-El Magistrado que haya cumplido setenta y cinco años de edad, y el Secretario, Actuario o Defensores de Oficio que hayan cumplido setenta y cinco años de edad, o padezcan incapacidad física o mental para el desempeño de su cargo, no podrán continuar prestando sus servicios en el Tribunal.
+Los funcionarios relacionados con el artículo anterior que hayan cumplido sesenta y nueve años de edad o padezcan de enfermedad física o mental que los incapacite para el desempeño de su cargo no podrán continuar prestando sus servicios en el Tribunal.
 
-### CAPITULO III. ATRIBUCIONES DEL MAGISTRADO, SECRETARIO, ACTUARIO
+> <small>(REFORMADA SU DENOMINACION, D.O. 13 DE DICIEMBRE DE 1990)</small>
 
-Y DEFENSORES DE OFICIO DEL TRIBUNAL.
+### CAPITULO III. ATRIBUCIONES DEL MAGISTRADO, SECRETARIOS, ACTUARIO
+
+Y DEFENSOR DE OFICIO DEL TRIBUNAL.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 19.
 
-Son atribuciones del Magistrado del Tribunal:
+Son atribuciones del Magistrado:
 
-I.- Representar al Tribunal ante toda clase de autoridades.
+I.- Representar al Tribunal ante toda clase de Autoridades.
 
-II.- Nombrar al personal profesional y administrativo y acordar lo que proceda respecto a su remoción.
+II.- Conocer y despachar la correspondencia del Tribunal.
 
-III.- Conceder o negar licencia al personal del Tribunal.
+III.- Dictar las medidas administrativas que exijan el buen funcionamiento y la disciplina del Tribunal, e imponer las sanciones administrativas a que haya lugar.
 
-IV.- Dictar las medidas administrativas que exijan el buen funcionamiento y la disciplina del Tribunal, e imponer las sanciones administrativas a que haya lugar.
+IV.- Administrar el Presupuesto del Tribunal.
 
-V.- Administrar el presupuesto del Tribunal.
+V.- Rendir anualmente al Gobernador y al Congreso del Estado, un informe dando cuenta de la marcha del Tribunal.
 
-VI.- Admitir o desechar la demanda o su ampliación, si no se ajustan a la ley.
+VI.- Las que en materia de movimiento de personal aparecen de esta propia Ley.
 
-VII.- Tener por formulada la contestación o la ampliación de la demanda o desecharlas en su caso.
+VII.- Las que en materia de procedimiento y para cumplir los objetivos de funcionamiento del Tribunal le otorga la Ley de lo Contencioso Administrativo del Estado.
 
-VIII.- Admitir o rechazar la intervención del coadyuvante o del tercero.
+VIII.- Firmar en unión del Secretario de Cuenta y Acuerdos o de quien lo sustituya en sus funciones, las actas de las audiencias y los acuerdos, sentencias y demás providencias que dicte el Tribunal.
 
-IX.- Admitir o desechar pruebas.
+X.- Las demás que se deriven de cualesquiera otras disposiciones legales aplicables.
 
-X.- Tramitar los incidentes y emitir la resolución que corresponda.
-
-XI.- Dictar los acuerdos y providencias de trámite necesarias para poner el juicio en estado de resolución.
-
-XII.- Sobreseer los juicios en los casos que proceda.
-
-XIII.- Resolver, mediante sentencia definitiva, los litigios que se tramiten ante el Tribunal.
-
-XIV.- Firmar, conjuntamente con el Secretario las sentencias, acuerdos y demás resoluciones del Tribunal.
-
-XV.- Rendir anualmente al Gobernador y al Congreso del Estado, un informe dando cuenta de la marcha del Tribunal.
-
-XVI.- Las demás que establezcan las disposiciones legales.
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 20.
 
-Son atribuciones del Secretario del Tribunal:
+Son atribuciones del Secretario de Estudio y Proyectos:
 
-I.- Proyectar los acuerdos de trámite y resoluciones.
+I.- Proyectar las sentencias y cualquier otro tipo de resoluciones que no sean de mero trámite.
 
-II.- Autorizar con su firma las actuaciones del Magistrado.
+II.- Asistir con la representación del Tribunal al perfeccionamiento de todas las pruebas que por alguna razón deban practicarse fuera del local del mismo.
 
-III.- Efectuar las diligencias que le encomiende el Magistrado.
+III.- Presidir por delegación del Magistrado, las audiencias de pruebas y alegatos.
 
-IV.- Expedir certificados de las constancias que obren en los expedientes del Tribunal.
+IV.- Efectuar las diligencias que en el ámbito de sus atribuciones, le encomiende el Magistrado.
 
-V.- Las demás que señalen las disposiciones legales aplicables.
+V.- Suplir al Magistrado y al Secretario de Cuenta y Acuerdos, en los términos de los artículos 11 y 12 de esta Ley y además en los casos en los que el primero tenga impedimento legal para actuar, según lo establecido en la Ley de lo Contencioso Administrativo del Estado.
+
+VI.- Los demás que establezcan las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
+
+ARTICULO 20 bis.- Son atribuciones del Secretario de Cuenta y Acuerdos:
+
+I.- Recibir todos los oficios y comunicaciones dirigidos al Tribunal, de los cuales dará cuenta inmediatamente al Magistrado, así como las promociones de las partes, de las que le dará cuenta en un plazo que no exceda de veinticuatro horas, poniendo en ambos casos las respectivas constancias de recepción.
+
+II.- Formular los Decretos o Acuerdos de trámite.
+
+III.- Autorizar con su firma las actuaciones del Magistrado o de quien haga sus funciones de acuerdo con esta Ley.
+
+IV.- Expedir los certificados de las constancias que obren en los expedientes del Tribunal y llevar el control de los mismos.
+
+V.- Efectuar cualquier diligencia que le encomiende el Magistrado.
+
+VI.- Suplir al Actuario en los términos señalados en los artículos 11 y 12 de esta Ley.
+
+VII.- Las demás que señalen las disposiciones legales aplicables.
 
 ###### ARTICULO 21.
 
@@ -223,9 +265,11 @@ III. Levantar las actas relativas a las diligencias que practique.
 
 IV. Las demás que señalen las disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 13 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 22.
 
-Los Defensores de Oficio tendrán las siguientes atribuciones:
+El Defensor de Oficio tendrá las siguientes atribuciones:
 
 I. Auxiliar gratuitamente a los particulares de escasos recursos económicos en la formulación de las demandas y demás promociones que se presenten ante el Tribunal.
 
@@ -235,9 +279,11 @@ III. Resolver, también gratuitamente como en los dos casos anteriores, las cons
 
 IV. Las demás que señalen otras disposiciones legales.
 
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 1990)</small>
+
 ###### ARTICULO 23.
 
-El personal del Tribunal tendrá cada año de dos períodos de vacaciones de diez días hábiles cada uno, cuyas fechas deberán coincidir con las que se fijen para los funcionarios y empleados del Poder Judicial del Estado. Se suspenderán las labores en los días que el calendario oficial señale, y cuando lo acuerde el Tribunal.
+El personal del Tribunal gozará cada año de dos períodos de vacaciones comprendidos del dieciséis al último día de los meses de julio y diciembre de cada año, que deberán variarse para procurar que exista siempre coincidencia con las que se otorguen al personal del Poder Judicial. Durante ese período vacacional el Tribunal permanecerá cerrado y no correrán los términos. Se suspenderán las labores los días que el calendario oficial del Gobierno del Estado así lo establezca y cuando lo acuerde el Tribunal.
 
 TRANSITORIOS:
 
@@ -262,3 +308,15 @@ EL OFICIAL MAYOR POR AUSENCIA
 DEL SECRETARIO DE GOBIERNO
 
 ING. RAMIRO ALPIZAR CARRILLO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 13 DE DICIEMBRE DE 1990.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el primer día hábil del mes de enero del año de mil novecientos noventa y uno.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
