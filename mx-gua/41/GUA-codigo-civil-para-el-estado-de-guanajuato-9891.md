@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1973-03-18"
+last_updated: "1974-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 1974.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -360,8 +360,6 @@ Tienen obligación de registrar el nacimiento: el padre o la madre, dentro de lo
 Los médicos, cirujanos o matronas que hubiesen atendido el parto, deberán dar aviso del nacimiento al Oficial del Registro Civil, dentro de los treinta días siguientes. La misma obligación tienen el administrador del sanatorio y el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
 
 Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
-
-> <small>(N. DE E. CONFORME AL DECRETO NUMERO 232 PUBLICADO EN EL P.O. 18 DE MARZO DE 1973, SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR LO QUE RESTA DEL AÑO DE 1973)</small>
 
 ###### Art. 64.
 
@@ -14293,7 +14291,7 @@ Sabiéndose el lugar donde se encuentren los testigos, serán examinados por exh
 
 ### Capítulo VII. De la sucesión de la Universidad de Guanajuato
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1969)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1974)</small>
 
 ###### Art. 2834.
 
@@ -14505,13 +14503,13 @@ La concubina no heredará si concurre con la cónyuge supérstite.
 
 ###### Art. 2874.
 
-A falta de todos los herederos llamados en los capítulos anteriores sucederá la Universidad de Guanajuato, que estará representada hasta la adjudicación de los bienes por el Ministerio Público.
+A falta de todos los herederos llamados en los capítulos anteriores sucederá la Universidad de Guanajuato, que estará representada hasta la adjudicación de los bienes por el Rector de la propia Universidad o por la persona que éste designe, bastando para ello, simple oficio (sic) comisión.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1969)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1974)</small>
 
 ###### Art. 2875.
 
-En las sucesiones en que la Universidad de Guanajuato sea heredera se le adjudicarán íntegramente los bienes que formen el acervo hereditario; y si dentro de éstos existieren bienes raíces que no se puedan destinar inmediata y directamente al objeto de la Institución, se procederá a su venta, en la forma y condiciones que en cada caso fije el Consejo Universitario.
+En las sucesiones en que la Universidad de Guanajuato sea heredera se le adjudicarán íntegramente los bienes que forman el acervo hereditario; y si dentro de éstos existieren bienes raíces que no se puedan destinar inmediata y directamente al objeto de la Institución, se procederá a su venta en la forma y condiciones que en cada caso fije el Consejo Universitario, atribuciones que el Consejo podrá delegar en el Rector de la Universidad.
 
 ## Título Quinto. Disposiciones comunes a las sucesiones testamentaria y legítima
 
@@ -14783,9 +14781,9 @@ El albacea que presentare excusas, deberá hacerlo dentro de los quince días si
 
 Pueden excusarse de ser albacea:
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 1969)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1974)</small>
 
-I. Los funcionarios públicos, hecha excepción de los Agentes del Ministerio Público que tengan la representación de la Universidad de Guanajuato;
+I. Los funcionarios públicos, hecha excepción del Rector de la Universidad de Guanajuato y de las personas que éste último designe en su representación;
 
 II. Los militares en servicio activo;
 
@@ -14855,11 +14853,11 @@ El Juez, observando el procedimiento fijado por el Código de la materia, aproba
 
 El albacea que no presente la proposición de que se trata o que durante dos bimestres consecutivos, sin justa causa, no cubra a los herederos o legatarios lo que les corresponde, será separado del cargo a solicitud de cualquiera de los interesados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 1969)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 1974)</small>
 
 ###### Art. 2946.
 
-El albacea, excepto el Ministerio Público, también está obligado, dentro de los tres meses contados desde que acepte su nombramiento a garantizar su manejo, con fianza, hipoteca o prenda, a su elección, conforme a las bases siguientes:
+El albacea, excepto el Rector de la Universidad de Guanajuato y las personas que éste designe para que lo representen, también está obligado, dentro de los tres meses contados desde que acepte su nombramiento, a garantizar su manejo, con fianza, hipoteca o prenda, a su elección, conforme a las siguientes bases:
 
 I. Por el importe de la renta de los bienes raíces en el último año y por los réditos de los capitales impuestos, durante ese mismo tiempo;
 
@@ -14937,11 +14935,11 @@ Son nulas de pleno derecho las disposiciones por las que el testador dispensa al
 
 La cuenta de administración debe ser aprobada por todos los herederos; el que disienta puede seguir a su costa el juicio respectivo, en los términos que establece el Código de Procedimientos Civiles.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 1969)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 1974)</small>
 
 ###### Art. 2964.
 
-Cuando fuere heredada la Universidad de Guanajuato, la Beneficencia Pública, o hereden menores, participará el Ministerio Público en la aprobación de las cuentas. El Procurador General de Justicia o el Agente Auxiliar que éste designe intervendrá en la aprobación de cuentas de la Universidad.
+Cuando fuere heredada la Beneficencia Pública o hereden menores, participará el Ministerio Público en la aprobación de las cuentas. En tratándose de la Universidad de Guanajuato y, en su caso, sólo se dará vista al representante social, con las respectivas cuentas.
 
 ###### Art. 2965.
 
@@ -15382,3 +15380,9 @@ P.O. 18 DE MARZO DE 1973.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE MAYO DE 1974.
+
+###### ARTICULO UNICO.
+
+Este decreto surtirá efectos tres días después del siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
