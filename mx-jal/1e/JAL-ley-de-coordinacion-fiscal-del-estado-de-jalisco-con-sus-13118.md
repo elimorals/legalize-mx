@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "1996-12-28"
+last_updated: "1997-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1997.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -86,7 +86,9 @@ VII. El 100% del importe que perciba por concepto del impuesto estatal de espect
 
 VIII. Hasta el 100% del importe que perciba por concepto del impuesto estatal sobre hospedaje, siempre que dicho porcentaje se defina en acuerdos tanto con los municipios y representantes de la industria hotelera, y
 
-IX. El impuesto que perciba por concepto de participaciones en derechos municipales, de acuerdo a los coeficientes que determine anualmente el Congreso del Estado.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1997)</small>
+
+IX. El 100 % de los ingresos que perciba por concepto de participaciones en derechos federales, de acuerdo a los coeficientes que determine anualmente el Congreso del Estado.
 
 ###### Artículo 6°.
 
@@ -335,3 +337,9 @@ Ing. Alberto Cárdenas Jiménez
 El Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE AGOSTO DE 1997.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
