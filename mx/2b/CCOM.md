@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1954-01-06"
+last_updated: "1963-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 1963.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -428,9 +428,11 @@ Se exceptúa de las disposiciones de este artículo el caso de que la cancelaci�
 
 Los corredores perfeccionarán los contratos que se otorguen con su intervención, extendiendo una minuta de ellos con todas las circunstancias y condiciones que se hubieren pactado, la cual será firmada por el corredor y por los contratantes en presencia de aquél. El corredor dará copia certificada de la minuta á cada uno de los interesados dentro de las veinticuatro horas útiles siguientes á su otorgamiento.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 1963)</small>
+
 ###### Art. 64.
 
-Los corredores, día á día, por orden de fechas y bajo numeración progresiva, coleccionarán todas las minutas firmadas ante ellos, y en el mismo orden las copiarán sin raspaduras, enmendaturas, interlineaciones ni abreviaturas, en un libro especial que llevarán al efecto y que se denominará de "Registro".
+Los corredores, diariamente, por orden de fechas y bajo numeración progresivas, coleccionarán los contratos en que intervengan y en el mismo orden harán un extracto de ellos, sin raspaduras, enmendaturas, interlineaciones ni abreviaturas, en un libro especial que llevarán al efecto y que se denominará de registro.
 
 ###### Art. 65.
 
@@ -3210,11 +3212,15 @@ DE LA PRENDA MERCANTIL.
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
 
-## TITULO DECIMO SEGUNDO.
+TTULO DÉCIMO SEGUNDO.
 
 DE LOS EFECTOS AL PORTADOR Y DE LA FALSEDAD, ROBO, HURTO Ó EXTRAVÍO DE LOS MISMOS.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)</small>
+
+## TITULO DECIMO TERCERO.
+
+DE LA MONEDA.
 
 ### CAPÍTULO I.
 
@@ -3302,9 +3308,9 @@ De los capitanes.
 
 (DEROGADO POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
 
-## TITULO DECIMO TERCERO.
+## TITULO DECIMO CUARTO.
 
-DE LA MONEDA.
+DE LAS INSTITUCIONES DE CRÉDITO.
 
 ###### Art. 635.
 
@@ -3326,9 +3332,9 @@ Nadie puede ser obligado á recibir moneda extranjera.
 
 El papel, billetes de Banco y títulos de deuda extranjeros, no pueden ser objeto de actos mercantiles en la República, sino considerándolos como simples mercancías; pero podrán ser objeto de contratos puramente civiles.
 
-## TITULO DECIMO CUARTO.
+## TITULO PRIMERO.
 
-DE LAS INSTITUCIONES DE CRÉDITO.
+DE LAS EMBARCACIONES.
 
 ###### Art. 640.
 
@@ -3338,7 +3344,9 @@ Las instituciones de crédito se regirán por una ley especial, y mientras ésta
 
 DEL COMERCIO MARÍTIMO.
 
-## TITULO PRIMERO. DE LAS EMBARCACIONES
+## TITULO SEGUNDO.
+
+DE LAS PERSONAS QUE INTERVIENEN EN EL COMERCIO MARÍTIMO.
 
 ###### Art. 641.
 
@@ -3492,9 +3500,9 @@ Para todos los efectos legales sobre que no se haya hecho modificación ó restr
 
 Los constructores de buques podrán emplear los materiales y seguir, en lo relativo á su construcción y aparejo los sistemas que más convengan á sus intereses. Los navieros y la gente de mar se sujetarán á lo que las leyes y reglamentos de Administración pública dispongan sobre navegación, aduanas, sanidad, seguridad de las naves y demás objetos análogos.
 
-## TITULO SEGUNDO.
+## TITULO TERCERO.
 
-DE LAS PERSONAS QUE INTERVIENEN EN EL COMERCIO MARÍTIMO.
+DE LOS CONTRATOS ESPECIALES DEL MEDIO MARÍTIMO.
 
 ### CAPÍTULO III.
 
@@ -3976,9 +3984,9 @@ Los sobre cargos no podrán hacer, sin autorización ó pacto expreso, negocio a
 
 Tampoco podrán invertir en el viaje de retorno más que el producto de la pacotilla, á no mediar autorización expresa de los comitentes.
 
-## TITULO TERCERO.
+## TITULO CUARTO.
 
-DE LOS CONTRATOS ESPECIALES DEL MEDIO MARÍTIMO.
+DE LOS RIESGOS, DAÑOS Y ACCIDENTES DEL COMERCIO MARÍTIMO.
 
 ### CAPÍTULO III.
 
@@ -5070,9 +5078,9 @@ IV. Si no se hiciere por el mismo propietario ó persona especialmente autorizad
 
 En caso de abandono, el asegurador deberá pagar el importe del seguro en el plazo fijado en la póliza, y no habiéndose expresado término en ella, á los sesenta días de admitido el abandono ó de haberse hecho la declaración del art. 878.
 
-## TITULO CUARTO.
+## TITULO QUINTO.
 
-DE LOS RIESGOS, DAÑOS Y ACCIDENTES DEL COMERCIO MARÍTIMO.
+DE LA JUSTIFICACIÓN Y LIQUIDACIÓN DE LAS AVERÍAS.
 
 ### CAPÍTULO III.
 
@@ -5346,9 +5354,11 @@ Si en el buque no hubiere interesado en la carga que pueda satisfacer los gastos
 
 En ambos casos se procederá con la publicidad y formalidades determinadas en el artículo 643, y el importe líquido de la venta se constituirá en depósito seguro, á juicio del juez, para entregarlo á sus legítimos dueños.
 
-## TITULO QUINTO.
+## TITULO PRIMERO.
 
-DE LA JUSTIFICACIÓN Y LIQUIDACIÓN DE LAS AVERÍAS.
+DE LAS QUIEBRAS.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO III.
 
@@ -5526,11 +5536,59 @@ Los peritos que el juez ó los interesados nombren, según los casos, procederá
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-## TITULO PRIMERO.
+## TITULO SEGUNDO.
 
-DE LAS QUIEBRAS.
+DE LAS PRESCRIPCIONES.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+Art. 1,038. Las acciones que se deriven de actos comerciales se prescribirán con arreglo á las disposiciones de este Código.
+
+Art. 1,039. Los términos fijados para el ejercicio de acciones procedentes de actos mercantiles, serán fatales, sin que contra ellos se dé restitución.
+
+Art. 1,040. En la prescripción mercantil negativa, los plazos comenzarán á contarse desde el día en que la acción pudo ser legalmente ejercitada en juicio.
+
+Art. 1,041. La prescripción se interrumpirá por la demanda ú otro cualquier género de interpelación judicial hecha al deudor, por el reconocimiento de las obligaciones, ó por la renovación del documento en que se funde el derecho del acreedor.
+
+Se considerará la prescripción como no interrumpida por la interpelación judicial si el actor desistiese de ella ó fuese desestimada su demanda.
+
+Art. 1,042. Empezará á contarse el nuevo término de la prescripción en caso de reconocimiento de las obligaciones, desde el día que se haga; en el de renovación desde la fecha del nuevo título; y si en él se hubiere prorrogado el plazo del cumplimiento de la obligación, desde que éste hubiere vencido.
+
+Art. 1,043. En un año se prescribirán:
+
+I. La acción de los mercaderes por menor por las ventas que hayan hecho de esa manera al fiado, contándose el tiempo de cada partida aisladamente desde el día en que se efectuó la venta, salvo el caso de cuenta corriente que se lleve entre los interesados;
+
+II. La acción de los dependientes de comercio por sus sueldos, contándose el tiempo desde el día de su separación;
+
+III. Todas las acciones derivadas del contrato de trasporte terrestre ó marítimo;
+
+IV. Las acciones que tengan por objeto exigir la responsabilidad de los agentes de Bolsa o corredores de comercio por las obligaciones en que intervengan en razón de su oficio;
+
+V. Las acciones derivadas de contratos de seguros sobre la vida, marítimos ó terrestres;
+
+VI. Las acciones nacidas de servicios, obras, provisiones ó suministros de efectos ó de dinero para construir, reparar, pertrechar ó avituallar los buques ó mantener la tripulación;
+
+VII. Las acciones por gastos de la venta judicial de los buques, cargamentos ó efectos trasportados por mar ó tierra así como los de su custodia, depósito y conservación, y los derechos de navegación y de puerto, pilotaje, socorros, auxilios y salvamentos;
+
+VIII. Las acciones que tengan por objeto exigir la indemnización de los daños y perjuicios sufridos por abordaje y averías.
+
+Art. 1,044. Se prescribirán en tres años:
+
+I. (DEROGADA POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
+
+II. Las acciones derivadas del contrato de préstamo á la gruesa.
+
+Art. 1,045. Se prescribirán en cinco años:
+
+I. Las acciones derivadas del contrato de sociedad y de operaciones sociales por lo que se refiere á derechos y obligaciones de la sociedad para con los socios, de los socios para con la sociedad y de socios entre sí por razón de la sociedad;
+
+II. Las acciones que puedan competir contra los liquidatarios de las mismas sociedades por razón de su encargo.
+
+Art. 1,046. La acción para reivindicar la propiedad de un navío prescribe en diez años, aun cuando el que lo posea carezca de título ó de buena fe.
+
+El capitán de un navío no puede adquirir éste á virtud de la prescripción.
+
+Art. 1,047. En todos los casos en que el presente Código no establezca para la prescripción un plazo más corto, la prescripción ordinaria en materia comercial se completará por el trascurso de diez años.
+
+Art. 1,048. La prescripción en materia mercantil correrá contra los menores é incapacitados, quedando á salvo los derechos de éstos para repetir contra sus tutores ó curadores.
 
 ### CAPÍTULO III.
 
@@ -5952,67 +6010,45 @@ III. Una copia, en papel común, del escrito y de los documentos, cuando estos n
 
 Art. 1,062. Los dispuesto en la fracción III de artículo que precede, se observará también respecto de los escritos en que se opongan excepciones de compensación ó reconvención, y del los que se promueva algún incidente.
 
-## TITULO SEGUNDO.
+## TITULO PRIMERO.
 
-DE LAS PRESCRIPCIONES.
-
-Art. 1,038. Las acciones que se deriven de actos comerciales se prescribirán con arreglo á las disposiciones de este Código.
-
-Art. 1,039. Los términos fijados para el ejercicio de acciones procedentes de actos mercantiles, serán fatales, sin que contra ellos se dé restitución.
-
-Art. 1,040. En la prescripción mercantil negativa, los plazos comenzarán á contarse desde el día en que la acción pudo ser legalmente ejercitada en juicio.
-
-Art. 1,041. La prescripción se interrumpirá por la demanda ú otro cualquier género de interpelación judicial hecha al deudor, por el reconocimiento de las obligaciones, ó por la renovación del documento en que se funde el derecho del acreedor.
-
-Se considerará la prescripción como no interrumpida por la interpelación judicial si el actor desistiese de ella ó fuese desestimada su demanda.
-
-Art. 1,042. Empezará á contarse el nuevo término de la prescripción en caso de reconocimiento de las obligaciones, desde el día que se haga; en el de renovación desde la fecha del nuevo título; y si en él se hubiere prorrogado el plazo del cumplimiento de la obligación, desde que éste hubiere vencido.
-
-Art. 1,043. En un año se prescribirán:
-
-I. La acción de los mercaderes por menor por las ventas que hayan hecho de esa manera al fiado, contándose el tiempo de cada partida aisladamente desde el día en que se efectuó la venta, salvo el caso de cuenta corriente que se lleve entre los interesados;
-
-II. La acción de los dependientes de comercio por sus sueldos, contándose el tiempo desde el día de su separación;
-
-III. Todas las acciones derivadas del contrato de trasporte terrestre ó marítimo;
-
-IV. Las acciones que tengan por objeto exigir la responsabilidad de los agentes de Bolsa o corredores de comercio por las obligaciones en que intervengan en razón de su oficio;
-
-V. Las acciones derivadas de contratos de seguros sobre la vida, marítimos ó terrestres;
-
-VI. Las acciones nacidas de servicios, obras, provisiones ó suministros de efectos ó de dinero para construir, reparar, pertrechar ó avituallar los buques ó mantener la tripulación;
-
-VII. Las acciones por gastos de la venta judicial de los buques, cargamentos ó efectos trasportados por mar ó tierra así como los de su custodia, depósito y conservación, y los derechos de navegación y de puerto, pilotaje, socorros, auxilios y salvamentos;
-
-VIII. Las acciones que tengan por objeto exigir la indemnización de los daños y perjuicios sufridos por abordaje y averías.
-
-Art. 1,044. Se prescribirán en tres años:
-
-I. (DEROGADA POR EL ARTICULO 3°.- TRANSITORIO DE LA LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO, D.O.F. 27 DE AGOSTO DE 1932)
-
-II. Las acciones derivadas del contrato de préstamo á la gruesa.
-
-Art. 1,045. Se prescribirán en cinco años:
-
-I. Las acciones derivadas del contrato de sociedad y de operaciones sociales por lo que se refiere á derechos y obligaciones de la sociedad para con los socios, de los socios para con la sociedad y de socios entre sí por razón de la sociedad;
-
-II. Las acciones que puedan competir contra los liquidatarios de las mismas sociedades por razón de su encargo.
-
-Art. 1,046. La acción para reivindicar la propiedad de un navío prescribe en diez años, aun cuando el que lo posea carezca de título ó de buena fe.
-
-El capitán de un navío no puede adquirir éste á virtud de la prescripción.
-
-Art. 1,047. En todos los casos en que el presente Código no establezca para la prescripción un plazo más corto, la prescripción ordinaria en materia comercial se completará por el trascurso de diez años.
-
-Art. 1,048. La prescripción en materia mercantil correrá contra los menores é incapacitados, quedando á salvo los derechos de éstos para repetir contra sus tutores ó curadores.
+DISPOSICIONES GENERALES.
 
 # LIBRO QUINTO.
 
 DE LOS JUICIOS MERCANTILES.
 
-## TITULO PRIMERO.
+## TITULO SEGUNDO
 
-DISPOSICIONES GENERALES.
+DE LOS JUICIOS ORDINARIOS.
+
+Art. 1,377. Todas las contiendas entre partes, que no tengan señalada en este Código tramitación especial, se ventilarán en juicio ordinario.
+
+Art. 1,378. Con el escrito de demanda presentará el actor las copias simples prevenidas en el artículo 1,061, las cuales debidamente confrontadas, se entregarán al reo para que produzca su contestación dentro de cinco días.
+
+Art. 1,379. Las excepciones dilatorias deberán oponerse simultáneamente en el preciso término de tres días. El artículo relativo á ellas se sustanciará con sólo el escrito en que las opone el demandado, la contestación del actor y la prueba que se rindiere, si el caso lo exige para lo cual se otorgará un término que no pase de diez días.
+
+Art. 1,380. No se comprenden entre las excepciones de que habla el artículo anterior, la incompetencia por inhibitoria, ni la recusación, las cuales se sustanciarán en la forma especial para cada una prescrita en este mismo Código.
+
+Art. 1,381. Las excepciones perentorias se opondrán, sustanciarán y decidirán simultáneamente y en uno con el pleito principal, sin poderse nunca formar, por razón de ellas, artículo especial en el juicio.
+
+Art. 1,382. Contestada la demanda, se mandará recibir el negocio á prueba, si la exigiere.
+
+Art. 1,383. Según la naturaleza y calidad del negocio, el juez fijará el término que crea suficiente para la rendición de las pruebas, no pudiendo exceder de cuarenta días.
+
+Art. 1,384. Estando dentro del término concedido, la parte que pretenda su prórroga pedirá al juez que cite á la contraria á su presencia, y el juez lo hará así mandando poner razón de ello en los autos. En vista de lo que las partes alegaren se concederá ó denegará la prórroga. Si al pedirla se acompañare el consentimiento por escrito de la contraria, se otorgará la prórroga por todo el plazo que las partes convengan, no excediendo del legal.
+
+Art. 1,385. Concluído el término probatorio, desde luego y sin otro trámite, se mandará hacer la publicación de probanzas.
+
+Art. 1,386. No impedirá que se lleve á efecto la publicación de pruebas el hecho de hallarse pendientes algunas de las diligencias promovidas. El juez si lo cree conveniente podrá mandar concluirlas dando en tal caso conocimiento de ellas á las partes.
+
+Art. 1,387. Las pruebas documentales que se presenten fuera de término, serán admitidas en cualquier estado del juicio antes de sentenciarse, protestando la parte que antes no supo de ellas ó no las pudo haber, y dándose conocimiento de las mismas á la contraria, en los términos del art. 1,319 para que pueda alegar lo que le convenga.
+
+Art. 1,388. Mandada hacer la publicación de pruebas se entregarán los autos originales primero al actor y después al reo, por diez días á cada uno, para que aleguen de buena prueba.
+
+Art. 1,389. Pasado que sea el término para alegar, serán citadas las partes para sentencia.
+
+Art. 1,390. Dentro de los quince días siguientes á la citación para sentencia, se pronunciará ésta.
 
 ### CAPÍTULO III.
 
@@ -6144,7 +6180,7 @@ Art. 1,090. Toda demanda debe interponerse ante juez competente.
 
 Art. 1,091. Cuando en el lugar donde se ha de seguir el juicio hubiere varios jueces competentes, conocerá del negocio el que elija el actor.
 
-Art. 1,092. Es juez competente aquel á quien los litigantes se hubieren sometido expresa ó tácitamente.
+Art. 1,092. Es juez competente aquel á quien los litigantes se hubieren sometido expresa o tácitamente.
 
 Art. 1,093. Hay sumisión expresa cuando los interesados renuncien clara y terminantemente el fuero que la ley les concede y designan con toda precisión el juez á quien se someten.
 
@@ -7068,37 +7104,107 @@ Art. 1,436. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
-## TITULO SEGUNDO.
+## TITULO TERCERO
 
-DE LOS JUICIOS ORDINARIOS.
+DE LOS JUICIOS EJECUTIVOS.
 
-Art. 1,377. Todas las contiendas entre partes, que no tengan señalada en este Código tramitación especial, se ventilarán en juicio ordinario.
+Art. 1,391. El procedimiento ejecutivo tiene lugar cuando la demanda se funda en documento que traiga aparejada ejecución.
 
-Art. 1,378. Con el escrito de demanda presentará el actor las copias simples prevenidas en el artículo 1,061, las cuales debidamente confrontadas, se entregarán al reo para que produzca su contestación dentro de cinco días.
+Traen aparejada ejecución:
 
-Art. 1,379. Las excepciones dilatorias deberán oponerse simultáneamente en el preciso término de tres días. El artículo relativo á ellas se sustanciará con sólo el escrito en que las opone el demandado, la contestación del actor y la prueba que se rindiere, si el caso lo exige para lo cual se otorgará un término que no pase de diez días.
+I. La sentencia ejecutoriada ó pasada en autoridad de cosa juzgada y la arbitral que sea inapelable, conforme al art. 1,346, observándose lo dispuesto en el 1,348;
 
-Art. 1,380. No se comprenden entre las excepciones de que habla el artículo anterior, la incompetencia por inhibitoria, ni la recusación, las cuales se sustanciarán en la forma especial para cada una prescrita en este mismo Código.
+II. Los instrumentos públicos;
 
-Art. 1,381. Las excepciones perentorias se opondrán, sustanciarán y decidirán simultáneamente y en uno con el pleito principal, sin poderse nunca formar, por razón de ellas, artículo especial en el juicio.
+III. La confesión judicial del deudor, según el artículo 1,288;
 
-Art. 1,382. Contestada la demanda, se mandará recibir el negocio á prueba, si la exigiere.
+IV. Las letras de cambio, libranzas, vales, pagarés y demás efectos de comercio en los términos que disponen los artículos relativos de este Código, observándose lo que ordena el art. 534 respecto á la firma del aceptante;
 
-Art. 1,383. Según la naturaleza y calidad del negocio, el juez fijará el término que crea suficiente para la rendición de las pruebas, no pudiendo exceder de cuarenta días.
+V. Las pólizas de seguros conforme al artículo 441;
 
-Art. 1,384. Estando dentro del término concedido, la parte que pretenda su prórroga pedirá al juez que cite á la contraria á su presencia, y el juez lo hará así mandando poner razón de ello en los autos. En vista de lo que las partes alegaren se concederá ó denegará la prórroga. Si al pedirla se acompañare el consentimiento por escrito de la contraria, se otorgará la prórroga por todo el plazo que las partes convengan, no excediendo del legal.
+VI. La decisión de los peritos designados en los seguros para fijar el importe del siniestro, observándose lo prescrito en el art. 420;
 
-Art. 1,385. Concluído el término probatorio, desde luego y sin otro trámite, se mandará hacer la publicación de probanzas.
+VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio firmados y reconocidos judicialmente por el deudor.
 
-Art. 1,386. No impedirá que se lleve á efecto la publicación de pruebas el hecho de hallarse pendientes algunas de las diligencias promovidas. El juez si lo cree conveniente podrá mandar concluirlas dando en tal caso conocimiento de ellas á las partes.
+Art. 1,392. Presentada por el actor su demanda acompañada del título ejecutivo, se proveerá auto con efectos de mandamiento en forma, para que el deudor sea requerido de pago, y no haciéndolo se le embarguen bienes suficientes para cubrir la deuda y costas, poniéndolos bajo la responsabilidad del acreedor, en depósito de persona nombrada por éste, salvo lo dispuesto en las concesiones vigentes en favor de los Bancos.
 
-Art. 1,387. Las pruebas documentales que se presenten fuera de término, serán admitidas en cualquier estado del juicio antes de sentenciarse, protestando la parte que antes no supo de ellas ó no las pudo haber, y dándose conocimiento de las mismas á la contraria, en los términos del art. 1,319 para que pueda alegar lo que le convenga.
+Art. 1,393. No encontrándose al deudor á la primera busca, se le dejará citatorio, fijándole día y hora hábil para que aguarde. Por el solo hecho de que el deudor no aguarde al emplazamiento se procederá á practicar al embargo con cualquiera persona que se encuentre en la casa ó con el vecino más inmediato.
 
-Art. 1,388. Mandada hacer la publicación de pruebas se entregarán los autos originales primero al actor y después al reo, por diez días á cada uno, para que aleguen de buena prueba.
+Art. 1,394. La diligencia de embargo no se suspenderá por ningún motivo, sino que se llevará adelante hasta su conclusión, dejando al deudor que la reclamare sus derechos á salvo para que los haga valer como le convenga durante el juicio ó fuera de él.
 
-Art. 1,389. Pasado que sea el término para alegar, serán citadas las partes para sentencia.
+Art. 1,395. En el embargo de bienes se seguirá este orden:
 
-Art. 1,390. Dentro de los quince días siguientes á la citación para sentencia, se pronunciará ésta.
+I. Las mercancías;
+
+II. Los créditos de fácil y pronto cobro, á satisfacción del acreedor;
+
+III. Los demás muebles del deudor;
+
+IV. Los inmuebles;
+
+V. Las demás acciones y derechos que tenga el demandado.
+
+Cualquiera dificultad suscitada en el orden que deba seguirse, no impedirá el embargo. El ejecutor la allanará, prefiriendo lo que prudentemente crea más realizable, á reserva de lo que determine el juez.
+
+Art. 1,396. Hecho el embargo, acto continuo se notificará al deudor, ó á la persona con quien se haya practicado la diligencia, que dentro de tres días comparezca ante el juzgado á hacer paga llana de la cantidad demandada y las costas, ó á oponerse á la ejecución si tuviere alguna excepción para ello.
+
+Art. 1,397. Si se tratare de sentencia, no se admitirá más excepción que la de pago si la ejecución se pide dentro de ciento ochenta días; si ha pasado ese término, pero no más de un año, se admitirán además las de transacción, compensación y compromiso en árbitros; y transcurrido más de un año, serán admisibles también la de novación, comprendiéndose en ésta la espera, la quita, el pacto de no pedir y cualquier otro arreglo que modifique la obligación, y la de falsedad del instrumento, siempre que la ejecución no se pida en virtud de ejecutoria, convenio ó juicio constante en autos. Todas estas excepciones, sin comprender la de falsedad, deberán ser posteriores á la sentencia, convenio ó juicio, y constar por instrumento público, por documento judicialmente reconocido ó por confesión judicial.
+
+Art. 1,398. Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia ó convenio, á no ser que en ellos se fije plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo ó desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
+
+Art. 1,399. Dentro de los tres días siguientes al embargo podrá el deudor oponer la excepción acompañando el instrumento en que se funde ó promoviendo la confesión ó reconocimiento judicial. De otra manera no será admitida.
+
+Art. 1,400. Si el ejecutante objetare el instrumento á que el artículo anterior se refiere, y ofreciere prueba, se señalará un término que no pase de diez días. Concluído este término el juez citará una audiencia verbal que se verificará dentro de tres días, y fallará dentro de cinco. La citación para la audiencia produce los efectos de citación para sentencia.
+
+Art. 1,401. Si se tratare de letras de cambio se observará lo dispuesto en el artículo 535 de este Código.
+
+Art. 1,402. Si se tratare de cartas de porte, se atenderá á lo que dispone el artículo 583.
+
+Art. 1,403. Contra cualquier otro documento mercantil que traiga aparejada ejecución, son admisibles las siguientes excepciones:
+
+I. Falsedad del título ó del contrato contenido en él;
+
+II. Fuerza ó miedo;
+
+III. Prescripción ó caducidad del título;
+
+IV. Falta de personalidad en el ejecutante, ó del reconocimiento de la firma del ejecutado, en los casos en que ese reconocimiento es necesario;
+
+V. Incompetencia del juez;
+
+VI. Pago ó compensación;
+
+VII. Remisión ó quita;
+
+VIII. Oferta de no cobrar ó espera;
+
+IX. Novación de contrato.
+
+Las excepciones comprendidas desde la fracción VI á la IX, sólo serán admisibles en juicio ejecutivo, si se fundaren en prueba documental.
+
+Art. 1,404. No verificando el deudor el pago dentro de tres días después si hecha la traba, ni oponiendo excepción contra la ejecución , á pedimento del actor y previa citación de las partes, se pronunciará sentencia de remate, mandando proceder á la venta de los bienes embargados y que de su producto se haga pago al acreedor.
+
+Art. 1,405. Si el deudor se opusiere á la ejecución expresando las excepciones que le favorecen y el negocio exigiere prueba, se concederá para ésta un término que no exceda de quince días.
+
+Art. 1,406. Concluído el término de prueba, y sentada razón de ello, se mandará hacer publicación de probanzas y se entregarán los autos, primero al actor y luego al reo, por cinco días á cada uno, para que aleguen de su derecho.
+
+Art. 1,407. Presentados los alegatos ó trascurrido el término para hacerlo, previa citación y dentro del término de ocho días, se pronunciará la sentencia.
+
+Art. 1,408. Si en la sentencia se declara haber lugar á hacer trance y remate de los bienes embargados y pago al acreedor, en la misma sentencia se decidirá también sobre los derechos controvertidos.
+
+Art. 1,409. Si la sentencia declarase que no procede el juicio ejecutivo, reservará al actor sus derechos para que los ejercite en la vía y forma que corresponda.
+
+Art. 1,410. A virtud de la sentencia de remate, se procederá á la venta de los bienes secuestrados, previo avalúo hecho por dos corredores ó peritos y un tercero en caso de discordia, nombrados aquéllos por las partes y éste por el juez.
+
+Art. 1,411. Presentado el avalúo y notificadas las partes para que ocurran al juzgado á imponerse de aquél, se anunciará en la forma legal la venta de los bienes, por tres veces, dentro de tres días, si fuesen muebles, y dentro de nueve si fuesen raíces, rematándose en seguida en pública almoneda y al mejor postor conforme á derecho.
+
+Art. 1,412. No habiéndose presentado postor á los bienes, el acreedor podrá pedir la adjudicación de ellos por el precio que para subastarlos se les haya fijado en la última almoneda.
+
+Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes embargados se avalúen ó vendan en la forma y términos que ellos acordaren, denunciándolo así oportunamente al juzgado por medio de un escrito firmado por ellas.
+
+Art. 1,414. Cualquier incidente que se suscitare en el juicio mercantil ejecutivo, se decidirá por el juez sin sustanciar artículo, pero sin perjuicio del derecho de los interesados para que se les oiga en audiencia verbal siempre que así lo pidieren.
+
+> <small>(DEROGADO CON LOS CAPITULOS Y LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ### CAPÍTULO III.
 
@@ -7268,107 +7374,11 @@ Art. 1,499. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 
 Art. 1,500. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-## TITULO TERCERO.
+## TITULO CUARTO.
 
-DE LOS JUICIOS EJECUTIVOS.
+DEL PROCEDIMIENTO ESPECIAL EN LAS QUIEBRAS.
 
-Art. 1,391. El procedimiento ejecutivo tiene lugar cuando la demanda se funda en documento que traiga aparejada ejecución.
-
-Traen aparejada ejecución:
-
-I. La sentencia ejecutoriada ó pasada en autoridad de cosa juzgada y la arbitral que sea inapelable, conforme al art. 1,346, observándose lo dispuesto en el 1,348;
-
-II. Los instrumentos públicos;
-
-III. La confesión judicial del deudor, según el artículo 1,288;
-
-IV. Las letras de cambio, libranzas, vales, pagarés y demás efectos de comercio en los términos que disponen los artículos relativos de este Código, observándose lo que ordena el art. 534 respecto á la firma del aceptante;
-
-V. Las pólizas de seguros conforme al artículo 441;
-
-VI. La decisión de los peritos designados en los seguros para fijar el importe del siniestro, observándose lo prescrito en el art. 420;
-
-VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio firmados y reconocidos judicialmente por el deudor.
-
-Art. 1,392. Presentada por el actor su demanda acompañada del título ejecutivo, se proveerá auto con efectos de mandamiento en forma, para que el deudor sea requerido de pago, y no haciéndolo se le embarguen bienes suficientes para cubrir la deuda y costas, poniéndolos bajo la responsabilidad del acreedor, en depósito de persona nombrada por éste, salvo lo dispuesto en las concesiones vigentes en favor de los Bancos.
-
-Art. 1,393. No encontrándose al deudor á la primera busca, se le dejará citatorio, fijándole día y hora hábil para que aguarde. Por el solo hecho de que el deudor no aguarde al emplazamiento se procederá á practicar al embargo con cualquiera persona que se encuentre en la casa ó con el vecino más inmediato.
-
-Art. 1,394. La diligencia de embargo no se suspenderá por ningún motivo, sino que se llevará adelante hasta su conclusión, dejando al deudor que la reclamare sus derechos á salvo para que los haga valer como le convenga durante el juicio ó fuera de él.
-
-Art. 1,395. En el embargo de bienes se seguirá este orden:
-
-I. Las mercancías;
-
-II. Los créditos de fácil y pronto cobro, á satisfacción del acreedor;
-
-III. Los demás muebles del deudor;
-
-IV. Los inmuebles;
-
-V. Las demás acciones y derechos que tenga el demandado.
-
-Cualquiera dificultad suscitada en el orden que deba seguirse, no impedirá el embargo. El ejecutor la allanará, prefiriendo lo que prudentemente crea más realizable, á reserva de lo que determine el juez.
-
-Art. 1,396. Hecho el embargo, acto continuo se notificará al deudor, ó á la persona con quien se haya practicado la diligencia, que dentro de tres días comparezca ante el juzgado á hacer paga llana de la cantidad demandada y las costas, ó á oponerse á la ejecución si tuviere alguna excepción para ello.
-
-Art. 1,397. Si se tratare de sentencia, no se admitirá más excepción que la de pago si la ejecución se pide dentro de ciento ochenta días; si ha pasado ese término, pero no más de un año, se admitirán además las de transacción, compensación y compromiso en árbitros; y transcurrido más de un año, serán admisibles también la de novación, comprendiéndose en ésta la espera, la quita, el pacto de no pedir y cualquier otro arreglo que modifique la obligación, y la de falsedad del instrumento, siempre que la ejecución no se pida en virtud de ejecutoria, convenio ó juicio constante en autos. Todas estas excepciones, sin comprender la de falsedad, deberán ser posteriores á la sentencia, convenio ó juicio, y constar por instrumento público, por documento judicialmente reconocido ó por confesión judicial.
-
-Art. 1,398. Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia ó convenio, á no ser que en ellos se fije plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo ó desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
-
-Art. 1,399. Dentro de los tres días siguientes al embargo podrá el deudor oponer la excepción acompañando el instrumento en que se funde ó promoviendo la confesión ó reconocimiento judicial. De otra manera no será admitida.
-
-Art. 1,400. Si el ejecutante objetare el instrumento á que el artículo anterior se refiere, y ofreciere prueba, se señalará un término que no pase de diez días. Concluído este término el juez citará una audiencia verbal que se verificará dentro de tres días, y fallará dentro de cinco. La citación para la audiencia produce los efectos de citación para sentencia.
-
-Art. 1,401. Si se tratare de letras de cambio se observará lo dispuesto en el artículo 535 de este Código.
-
-Art. 1,402. Si se tratare de cartas de porte, se atenderá á lo que dispone el artículo 583.
-
-Art. 1,403. Contra cualquier otro documento mercantil que traiga aparejada ejecución, son admisibles las siguientes excepciones:
-
-I. Falsedad del título ó del contrato contenido en él;
-
-II. Fuerza ó miedo;
-
-III. Prescripción ó caducidad del título;
-
-IV. Falta de personalidad en el ejecutante, ó del reconocimiento de la firma del ejecutado, en los casos en que ese reconocimiento es necesario;
-
-V. Incompetencia del juez;
-
-VI. Pago ó compensación;
-
-VII. Remisión ó quita;
-
-VIII. Oferta de no cobrar ó espera;
-
-IX. Novación de contrato.
-
-Las excepciones comprendidas desde la fracción VI á la IX, sólo serán admisibles en juicio ejecutivo, si se fundaren en prueba documental.
-
-Art. 1,404. No verificando el deudor el pago dentro de tres días después si hecha la traba, ni oponiendo excepción contra la ejecución , á pedimento del actor y previa citación de las partes, se pronunciará sentencia de remate, mandando proceder á la venta de los bienes embargados y que de su producto se haga pago al acreedor.
-
-Art. 1,405. Si el deudor se opusiere á la ejecución expresando las excepciones que le favorecen y el negocio exigiere prueba, se concederá para ésta un término que no exceda de quince días.
-
-Art. 1,406. Concluído el término de prueba, y sentada razón de ello, se mandará hacer publicación de probanzas y se entregarán los autos, primero al actor y luego al reo, por cinco días á cada uno, para que aleguen de su derecho.
-
-Art. 1,407. Presentados los alegatos ó trascurrido el término para hacerlo, previa citación y dentro del término de ocho días, se pronunciará la sentencia.
-
-Art. 1,408. Si en la sentencia se declara haber lugar á hacer trance y remate de los bienes embargados y pago al acreedor, en la misma sentencia se decidirá también sobre los derechos controvertidos.
-
-Art. 1,409. Si la sentencia declarase que no procede el juicio ejecutivo, reservará al actor sus derechos para que los ejercite en la vía y forma que corresponda.
-
-Art. 1,410. A virtud de la sentencia de remate, se procederá á la venta de los bienes secuestrados, previo avalúo hecho por dos corredores ó peritos y un tercero en caso de discordia, nombrados aquéllos por las partes y éste por el juez.
-
-Art. 1,411. Presentado el avalúo y notificadas las partes para que ocurran al juzgado á imponerse de aquél, se anunciará en la forma legal la venta de los bienes, por tres veces, dentro de tres días, si fuesen muebles, y dentro de nueve si fuesen raíces, rematándose en seguida en pública almoneda y al mejor postor conforme á derecho.
-
-Art. 1,412. No habiéndose presentado postor á los bienes, el acreedor podrá pedir la adjudicación de ellos por el precio que para subastarlos se les haya fijado en la última almoneda.
-
-Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes embargados se avalúen ó vendan en la forma y términos que ellos acordaren, denunciándolo así oportunamente al juzgado por medio de un escrito firmado por ellas.
-
-Art. 1,414. Cualquier incidente que se suscitare en el juicio mercantil ejecutivo, se decidirá por el juez sin sustanciar artículo, pero sin perjuicio del derecho de los interesados para que se les oiga en audiencia verbal siempre que así lo pidieren.
-
-> <small>(DEROGADO CON LOS CAPITULOS Y LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
 
 ## TITULO CUARTO.
 
@@ -7533,3 +7543,13 @@ D.O.F. 6 DE ENERO DE 1954.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor 10 días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 4 DE FEBRERO DE 1963.
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO SEGUNDO.
+
+Esta reforma entrará en vigor el día siguiente de su publicación en el "Diario Oficial" de la Federación.
