@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-expropiacion-de-bienes-muebles-e-inmuebles-de-6096"
 country: "mx"
 rank: "ley"
 publication_date: "1923-05-16"
-last_updated: "1983-01-29"
+last_updated: "1990-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EXPROPIACION DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 1990.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el miércoles 16 de mayo de 1923.
 
@@ -95,13 +95,17 @@ Esto mismo se observará cuando se trata de objetos cuyo valor no esté fijado e
 
 Cuando la indemnización deba cubrirse con fondos públicos, se librará, de plano, la orden de pago o se remitirá, de oficio, copia del expediente a la oficina de rentas respectiva, para que fije su valor, según que exista acuerdo o no, entre las partes.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1990)</small>
+
 ###### Art. 9.
 
-En los casos previstos por las partes segunda y tercera del artículo siete, el Ejecutivo, por conducto del Ministerio Público, enviará copia de su resolución y de las constancias conducentes, al Juez de lo Civil y de Hacienda del Partido Judicial en que se encuentren los bienes. Cuando éstos se hallen situados en dos o más Partidos Judiciales, y sean de un solo dueño, tendrá competencia el Juez que elija el Ejecutivo entre los de esos Partidos.
+En los casos previstos por las partes segunda y tercera del artículo siete, el Ejecutivo, por conducto del Ministerio Público, enviará copia de su resolución y de las constancias conducentes, al Juez de lo Civil del Partido Judicial en que se encuentren los bienes. Cuando éstos se hallen situados en dos o más Partidos Judiciales, y sean de un solo dueño, tendrá competencia el Juez que elija el Ejecutivo entre los de esos Partidos.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1990)</small>
 
 ###### Art. 10.
 
-Las diligencias judiciales de que habla esta ley, serán por escrito, y en ellas representarán al Ejecutivo, el Procurador de Justicia ante los Juzgados de la Capital y Sala de Apelación, y los Agentes del Ministerio Público ante los Juzgados foráneos, teniendo en su caso aplicación lo dispuesto por el artículo 44 del Código de Procedimientos Civiles.
+Las diligencias judiciales de que habla esta Ley, serán por escrito, y en ellas representará al Ejecutivo, el Procurador General de Justicia o el funcionario de la Procuraduría que él designe, teniendo en su caso aplicación, lo dispuesto por el Art. 49, del Código de Procedimientos Civiles.
 
 ###### Art. 11.
 
@@ -119,17 +123,21 @@ Cuando sean objeto de la expropiación bienes pertenecientes a distintos dueños
 
 El Juez, por medio de la notificación que mandará hacer personalmente al designado como dueño o poseedor, cuando sea conocido y se encuentre dentro del Estado, y por edictos que durante un mes se publicarán tres veces en el Periódico Oficial y en otro que se señale, citará a los que se crean con derecho a recibir indemnización, para que se presenten dentro de un término que no excederá de quince días después de hecha la última publicación.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1990)</small>
+
 ###### Art. 15.
 
-Los que se presenten conforme al artículo anterior, justificarán su derecho; para lo cual el Juez, si lo estima conveniente o lo pide alguno de los interesados, concederá un término de prueba hasta de diez días y dictará su resolución dentro de los tres siguientes, determinando si los presentados tienen derecho o no a la indemnización. En contra de esa resolución se puede interponer el recurso de apelación, que se admitirá y tramitará conforme al artículo 17 de esta ley, suspendiéndose el procedimiento. La Sala de apelación que para los efectos de esta ley lo será la 1a. del Supremo Tribunal de Justicia, citará para la vista dentro de cinco días y fallará dentro de los diez siguientes.
+Los que se presenten conforme al artículo anterior, justificarán su derecho; para lo cual el Juez, si lo estima conveniente o le pide alguno de los interesados, concederá un término de prueba hasta de diez días y dictará su resolución dentro de los tres siguientes, determinando si los presentados tienen derecho o no a la indemnización. En contra de esa resolución se puede interponer el recurso de apelación, que se admitirá y tramitará conforme al Art. 17 de esta Ley, suspendiéndose el procedimiento. La Sala de apelación, que para los efectos de esta Ley lo será la que designe el Supremo Tribunal de Justicia, citará para la vista dentro de cinco días y fallará dentro de los diez días siguientes.
 
 ###### Art. 16.
 
 Después de que cause ejecutoria la resolución del Juez o termine la apelación a que alude la disposición anterior, dispondrá la mencionada autoridad que se hagan los nombramientos de peritos.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1990)</small>
+
 ###### Art. 17.
 
-En las diligencias judiciales de que se trata, se observarán las disposiciones contenidas en el Capítulo V Título V Libro I del citado Código.
+En las diligencias judiciales de que se trata, se observarán las disposiciones contenidas en el Título Sexto, Capítulo IV, Sección Tercera, del citado Código.
 
 ###### Art. 18.
 
@@ -139,9 +147,11 @@ Rendido el dictamen pericial, el Juez citará a las partes a una audiencia, que 
 
 Si se ignora quienes son los propietarios o poseedores o donde residen, se publicarán, en el Periódico Oficial y otro que el Juez designe, los requerimientos, citaciones, y la parte resolutiva de la sentencia.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1990)</small>
+
 ###### Art. 20.
 
-Contra la sentencia del Juez sólo se podrá interponer el recurso de apelación, dentro de los tres siguientes a la notificación, y se admitirá dentro de igual término, si hubiese sido interpuesto en tiempo y forma, remitiendo los autos a la 1a. Sala del Supremo Tribunal de Justicia, previo emplazamiento a las partes para que se presenten dentro de cinco días a continuar el recurso. Si la resolución hubiera sido dictada por un Juez foráneo, se aumentará el término a razón de un día por cada veinte kilómetros de distancia, o fracción mayor de diez. Cuando el recurrente no se presente en el término fijado, la Sala, de Oficio, declarará desierto el recurso y ejecutoriada la sentencia del inferior.
+Contra la sentencia del Juez sólo se podrá interponer el recurso de apelación, dentro de los tres días siguientes a la notificación, y se admitirá dentro de igual término, si hubiese sido interpuesto en tiempo y forma, remitiendo los autos al Supremo Tribunal de Justicia, previo emplazamiento a las partes que se presenten, dentro de cinco días, a continuar el recurso. Si la resolución hubiera sido dictada por un juez foráneo, se aumentará el término a razón de un día por cada veinte kilómetros de distancia, o fracción mayor de diez. Cuando el recurrente no se presente en el término fijado, el Superior, de oficio, declarará desierto el recurso y ejecutoriada la sentencia del inferior.
 
 ###### Art. 21.
 
@@ -151,9 +161,11 @@ La Sala señalará términos sucesivos, de tres días cada uno, para que las par
 
 En contra de la resolución del Juez, que no admita el recurso de que hablan los artículos 15 y 20 se podrá interponer dentro de dos días la denegada apelación, que se admitirá suspendiendo el procedimiento y remitiendo los autos al Superior, con observación de las demás disposiciones contenidas en el artículo 17. Presentado el securrente (sic), la Sala citará para la vista dentro de cinco días y resolverá dentro de los cinco siguientes sobre la calificación del grado.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1990)</small>
+
 ###### Art. 23.
 
-El importe de la indemnización se depositará en la Oficina de Rentas que corresponda si el expropiado no fuere conocido, está ausente o se rehusa a otorgar la escritura en los cuales casos la otorgará el Juez.
+El importe de la indemnización se depositará en la Oficina de Recaudación Fiscal que corresponda, si el expropiado no fuere conocido, está ausente o se rehusa a otorgar la escritura, en cuyos casos la otorgará el Juez.
 
 ###### Art. 24.
 
@@ -167,9 +179,11 @@ En el caso del artículo 3026, del Código Civil y en otros en que conforme a la
 
 Será nula toda estipulación que restringa (sic) o altere los derechos de los propietarios o de sus causahabientes sobre los bienes sujetos a expropiación, siempre que se celebre después de la citación o de la primera publicación de las que previene el artículo 5o. de esta ley y que se lleve a efecto la expropiación.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1990)</small>
+
 ###### Art. 27.
 
-Si decretada la expropiación, fuere urgente, a juicio del Ejecutivo, la pronta ocupación de los bienes de que se trata, podrá pedirla al Juez en cualquier tiempo, y éste sin más trámites la decretará con carácter provisional, señalando después de recabar el dictamen de un perito, que él mismo nombre, la cantidad que por indemnización deberá quedar depositada en la Oficina de Rentas respectiva, y a reserva de resolver sobre la indemnización y ocupación definitivas conforme a lo establecido en esta ley.
+Si decretada la expropiación, fuere urgente a juicio del Ejecutivo, la pronta ocupación de los bienes de que se trata, podrá pedirla al Juez en cualquier tiempo, y éste sin más trámites la decretará con carácter de provisional, señalando después de recabar el dictamen de un perito, que él mismo nombre, la cantidad que por indemnización deberá quedar depositada en la Oficina de Recaudación Fiscal respectiva, y a reserva de resolver, sobre la indemnización y ocupación definitivas, conforme a lo establecido en esta Ley.
 
 ###### Art. 28.
 
@@ -214,3 +228,7 @@ SEGUNDO.- Esta edición entrará en vigor a los tres días de su publicación en
 P.O. 29 DE ENERO DE 1983.
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 12 DE ABRIL DE 1990.
+
+Unico. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
