@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "1996-12-19"
+last_updated: "1999-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -161,7 +161,7 @@ De igual forma responderá el que ofrezca auxiliar o auxilie al delincuente por 
 
 Cuando sin acuerdo previo ni adherencia, varias personas intervengan en la comisión de un delito y se precise el daño que cada uno causó, se les sancionará por el que cada quien produjo.
 
-Si no se precisa la causación específica, se aplicará a todos la pena prevista por el Artículo 84 de esta Ley.
+Si no se precisa la causación específica,, se aplicará a todos la pena prevista por el Artículo 84 de esta Ley.
 
 ###### ARTICULO 18.
 
@@ -319,11 +319,11 @@ DE LAS PENAS
 
 ### CAPITULO II. PRISION
 
-> <small>(REFORMADO, P.O 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O 2 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 30.
 
-La prisión consiste en la privación de la libertad personal, su duración será de 3 días a 40 años, y se extinguirá en los establecimientos que señale el órgano ejecutor de sanciones.
+La prisión consiste en la privación de la libertad, su duración será de tres días a cincuenta años, y se extinguirá en los establecimientos que señale el órgano ejecutor de sanciones.
 
 ### CAPITULO III. TRATAMIENTO EN LIBERTAD
 
@@ -697,7 +697,9 @@ El delito culposo se castigará únicamente con pago de reparación del daño y 
 
 I.- Cuando la conducta culposa origine por cualquier medio daño en las cosas, cualquiera que sea su monto, y
 
-II.- Cuando la conducta culposa origine lesiones de las comprendidas en el artículo 127 fracción I, y III de este Código.
+> <small>(REFORMADA, P.O. 2 DE ABRIL 1999)</small>
+
+II.- Cuando la conducta culposa origine lesiones de las comprendidas en las fracciones I, II, III, y V del artículo 127 de este Código.
 
 Este artículo sólo se aplicará cuando el imputado no se encontrare al cometer el delito en estado de ebriedad o bajo los efectos de psicotrópicos, estupefacientes, substancias volátiles inhalables o cualquier otra que produzca efectos análogos.
 
@@ -805,9 +807,9 @@ II.- Que tenga modo honesto de vivir y haya observado buena conducta con anterio
 
 III.- Que durante el proceso no se haya sustraido a la acción judicial.
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL 1999)</small>
 
-IV.- Que la pena de prisión impuesta, no exceda de cuatro años;
+IV.- Que la pena de prisión impuesta no exceda de cinco años;
 
 > <small>(ADICIONADA [N. DE E., REFORMADA], P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -917,6 +919,8 @@ La muerte del imputado extingue la pretensión punitiva o las penas o medidas de
 
 ### CAPITULO VI. PERDON DEL OFENDIDO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 105.
 
 La amnistía extingue la pretensión punitiva o las penas o medidas de seguridad impuestas, a excepción del decomiso y de la reparación de los daños y perjuicios, en los términos de la Ley que se dicte concediéndola. Si ésta no expresare su alcance se entenderá que la pretensión punitiva y las penas y medidas de seguridad se extinguen en todos sus efectos, con relación a todos los responsables del delito.
@@ -933,7 +937,7 @@ El Titular del Poder Ejecutivo podrá conceder indulto cuando el reo haya presta
 
 ###### ARTICULO 107.
 
-El perdón del ofendido o del legitimado para otorgarlo, extingue la pretensión punitiva respecto de los delitos que solamente pueden perseguirse por querella, siempre que se conceda antes de pronunciarse sentencia en primera instancia y aquél o aquellos a quienes se otorga no se opongan a ello.
+El perdón del ofendido o del legitimado para otorgarlo, extingue la pretensión punitiva respecto de los delitos que solamente pueden perseguirse por querella, siempre que se conceda antes de pronunciarse sentencia en primera o segunda instancia, y aquél o aquellos a quienes se otorga no se opongan a ello.
 
 Cuando el perdón se otorgue por el representante legal de un menor de edad o incapacitado, el Juez podrá a su prudente arbitrio, concederle o no eficacia y en caso de no aceptarlo, seguirá la causa.
 
@@ -1071,9 +1075,11 @@ LESIONES
 
 Al que prive de la vida a otra, se le impondrá prisión de 7 a 15 años y multa de cien a quinientos días multa.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 126.
 
-Cuando concurra alguna de las circunstancias señaladas en el Artículo 131 de este Código, el homicidio se sancionará con prisión de quince a treinta años.
+Cuando concurra alguna de las circunstancias señaladas en el Artículo 131 de este Código; el homicidio se sancionará con prisión de quince a cincuenta años.
 
 ### CAPITULO IV. INSTIGACION O AYUDA AL SUICIDIO
 
@@ -1121,9 +1127,11 @@ VIII.- De tres a siete años de prisión si causan incapacidad para trabajar por
 
 IX.- De 6 a 12 años de prisión si causan incapacidad permanente para trabajar en cualquier arte, profesión u oficio.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 128.
 
-En los casos de las fracciones I y II del Artículo anterior de esta Ley, el delito se perseguirá solo a petición del ofendido.
+En los casos de las fracciones I, II, III y V del artículo anterior de esta Ley, el delito se perseguirá a petición del ofendido; a excepción de las lesiones descritas en la fracción V, por las cuales podrá querellarse el Ministerio Público o los representantes del ofendido cuando en razón de las lesiones inferidas no pueda manifestar su voluntad.
 
 ###### ARTICULO 129.
 
@@ -1225,6 +1233,8 @@ II.- Cuando el embarazo sea resultado de una violación.
 
 ### CAPITULO II. SECUESTRO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
+
 ## TITULO SEGUNDO. DELITOS DE OMISIÓN DE AUXILIO O DE
 
 CUIDADO
@@ -1255,6 +1265,8 @@ Al que habiendo atropellado culposamente o por caso fortuito a una persona, no l
 
 ### CAPITULO ÚNICO. ALLANAMIENTO DE DOMICILIO
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+
 ###### ARTICULO 146.
 
 Al que teniendo la obligación de hacerse cargo de un incapaz de cuidarse por si mismo, lo entregue a una institución o a cualquiera otra persona, contraviniendo la Ley, o contra la voluntad de quien se lo confió o sin aviso al Juez de lo Familiar, se le aplicará prisión de tres meses a un año o trabajo en favor de la comunidad hasta por seis meses.
@@ -1277,11 +1289,15 @@ I.- Que se realice con violencia o se veje a la víctima;
 
 II.- Que la víctima sea menor de dieciséis años de edad o que por cualquier otra circunstancia esté en situación de inferioridad física respecto del agente, y
 
-III.- Que la privación se prolongue por más de 8 días.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1999)</small>
+
+III.- Que la privación se prolongue por más de 48 horas.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 149.
 
-Si el agente espontáneamente pone en libertad a la víctima dentro de los tres días siguientes a la comisión del delito podrá disminuirse la pena hasta la mitad.
+Si la víctima es puesta en libertad espontáneamente en menos de veinticuatro horas siguientes a la comisión del delito, se podrá disminuir la pena hasta la mitad.
 
 ### CAPITULO I. VIOLACIÓN
 
@@ -1289,7 +1305,7 @@ Si el agente espontáneamente pone en libertad a la víctima dentro de los tres 
 
 ###### ARTICULO 150.
 
-Al que prive de la libertad a otro se le aplicará prisión de seis a veinte años si el hecho se realiza con el propósito de:
+Al que prive de la libertad a otro, se le aplicará prisión de seis a treinta y cinco años, si el hecho se realiza con el propósito de:
 
 I.- Obtener un rescate, un derecho o el cumplimiento de cualquier condición.
 
@@ -1317,9 +1333,9 @@ VI. Cuando de esta conducta resulten graves daños físicos o mentales al ofendi
 
 VII. Cuando quien participe de cualquier manera en la comisión de este ilícito, sea servidor público encargado de prevenir, denunciar, investigar o juzgar la comisión de delitos.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
 
-Si espontáneamente se pone en libertad a la persona, antes de tres días y sin causar ningún perjuicio sólo se aplicará la sanción correspondiente a la privación ilegal de la libertad, que será prisión de seis meses a cuatro años.
+Si espontáneamente se pone en libertad a la persona, en las veinticuatro horas siguientes a la comisión del hecho y sin haber causado perjuicio, se aplicará la sanción que corresponda por el delito de privación de la libertad personal.
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -1391,9 +1407,9 @@ INVIOLABILIDAD DEL DOMICILIO
 
 ###### ARTICULO 158.
 
-Al que sin el consentimiento de la persona que legítimamente pueda otorgarlo, o empleando engaño se introduzca en casa habitación o sus dependencias o permanezca en ellas sin la anuencia de quien esté facultado para darla, se le impondrá prisión de tres meses a tres años.
+Al que sin consentimiento de la persona que legítimamente pueda otorgarlo, o empleando engaño se introduzca en casa habitación o sus dependencias o permanezca en ellas sin la anuencia de quien este facultado para darla, se le impondrá prisión de tres meses a tres años.
 
-Si el medio empleado fuere la violencia, la penalidad se aumentará hasta en una mitad más.
+Si el medio empleado fuere la violencia, la penalidad se aumentará hasta en una mitad más. Este delito se perseguirá por querella de la parte ofendida.
 
 ## TITULO SÉPTIMO. DELITOS CONTRA LA
 
@@ -1429,7 +1445,9 @@ Se impondrán las mismas penas señaladas en el párrafo anterior al que introdu
 
 Cuando las conductas previstas en el artículo anterior se realicen sin emplear violencia con persona impúber o que no tenga capacidad para comprender, o que por cualquier causa no pueda resistir la conducta delictuosa se le impondrá al agente prisión de 3 a 10 años.
 
-Si se emplea la violencia en los casos del párrafo anterior, la pena se aumentará hasta en una mitad más.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
+
+Cuando las conductas se realicen por medio de la violencia en los casos del párrafo anterior, la pena se aumentará hasta en una mitad más.
 
 ###### ARTICULO 162.
 
@@ -1563,9 +1581,17 @@ ASISTENCIA FAMILIAR
 
 Al que se apodere de una cosa mueble ajena, con ánimo de dominio, sin consentimiento de quien pueda otorgarlo conforme a la Ley, se le aplicarán las siguientes penas:
 
-I.- Prisión de 3 meses a 4 años y hasta 180 días multa cuando el valor de lo robado no exceda de 600 veces el salario mínimo.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1999)</small>
 
-II.- Prisión de 4 a 10 años y de 180 hasta 500 días multa, cuando el valor de lo robado exceda de 600 veces el salario mínimo.
+I.- Prisión de tres meses a tres años, y multa de 30 a 90 días, cuando el valor de lo robado no exceda de 200 veces el salario mínimo.
+
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1999)</small>
+
+II.- Prisión de dos a cuatro años y de 90 hasta 180 días multa, cuando el valor de lo robado exceda de 200 veces el salario mínimo.
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 1999)</small>
+
+III.- Prisión de cuatro a diez años y de 180 hasta 500 días multa, cuando el valor de lo robado exceda de 600 veces el salario mínimo.
 
 ###### ARTICULO 183.
 
@@ -1589,9 +1615,9 @@ VII.- Respecto de vehículo estacionado en la vía pública o en otro lugar dest
 
 VIII.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
 
-ARTICULO 183 BIS. Se sancionará con pena de uno a cinco años de prisión y hasta quinientos días multa, al que a sabiendas y con independencia de las penas que le correspondan por la comisión de otros delitos:
+ARTICULO 183 BIS. Se sancionará con pena de uno a cinco años de prisión y de 100 a 500 días multa, al que a sabiendas de que un vehículo es robado y con independencia de las penas que le correspondan por la comisión de otros delitos:
 
 I.- Sin consentimiento del que tenga derecho a otorgarlo, desmantele alguno o varios vehículos o comercialice conjunta o separadamente sus autopartes;
 
@@ -2417,9 +2443,9 @@ II.- Otorgue permisos, licencias o autorizaciones de contenido económico;
 
 III.- Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales y sobre precios y tarifas de los bienes y servicios producidos o prestados en la administración pública estatal o municipal;
 
-IV.- Realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes y servicios, o colocaciones de fondo y valores con recursos económicos públicos;
+IV.- Realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes y servicios, o colocaciones de fondos y valores con recursos económicos públicos;
 
-V.- Dé, a sabiendas, una aplicación pública distinta de aquella a que estuvieron destinados los fondos públicos que tuviere a su cargo o hiciere un pago ilegal;
+V.- Dé, a sabiendas, una aplicación pública distinta de aquélla a que estuvieron destinados los fondos públicos que tuviere a su cargo o hiciere un pago ilegal;
 
 VI.- En el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos o contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza que sean remunerados, a sabiendas de que no se prestará el servicio o no se cumplirá el contrato otorgado;
 
@@ -2509,7 +2535,7 @@ Cuando la cantidad o el valor de lo exigido indebidamente, exceda de mil veces e
 
 Al servidor público que con motivo de su empleo, cargo o comisión en el servicio público haya incurrido en enriquecimiento ilícito, se le impondrán de 1 a 5 años de prisión y de 60 a 300 días multa, pero si el monto del enriquecimiento ilícito excede de cinco mil veces el salario, se le aplicarán de 3 a 10 años de prisión y de 300 a 500 días multa.
 
-Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño, obtenidos durante su cargo en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, obtenidos durante su cargo en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
 Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados en beneficio del Estado.
 
@@ -3134,3 +3160,13 @@ Esta Ley entrará en vigor al día siguiente al de su publicación en el Periód
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a la presente.
+
+P.O. 2 DE ABRIL DE 1999
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan aquellas disposiciones que se opongan a la presente Ley.
