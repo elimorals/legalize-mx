@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1970-12-12"
+last_updated: "1971-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE DICIEMBRE DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE MARZO DE 1971.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -733,7 +733,9 @@ La elección de Gobernador será popular directa, en los términos que disponga 
 
 Para ser Gobernador del Estado se requiere:
 
-I. Ser mexicano por nacimiento e hijo de padres mexicanos, nativo del Estado y con residencia efectiva en él no menor de seis meses inmediatamente anteriores al día de la elección; y no siendo originario de Sonora tener cuando menos diez años de residencia efectiva inmediatamente anteriores al día de la elección.
+> <small>(REFORMADA, B.O. 13 DE MARZO DE 1971)</small>
+
+I. Ser mexicano por nacimiento e hijo de padres mexicanos, nativo del Estado y con residencia efectiva en él no menor de tres años inmediatamente anteriores al día de la elección; y no siendo originario de Sonora tener cuando menos diez años de residencia efectiva inmediatamente anteriores al día de la elección.
 
 II. Ser ciudadano del Estado en pleno ejercicio de sus derechos políticos.
 
@@ -861,11 +863,11 @@ XIX. Representar a la Hacienda Pública, pudiendo, en los casos que lo estime co
 
 XX. Ejercer el mando supremo de las fuerzas del Estado, y movilizarlas según las necesidades públicas; así como disponer de la policía del municipio donde resida habitual o transitoriamente, y nombrar y remover, en los términos que establezca la ley reglamentaria, a los jefes y oficiales superiores de la policía urbana de los Municipios del Estado.
 
-XXI. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas.
+XXI. Convocar al Congreso en sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas.
 
-XXII. Hacer observaciones por una sola vez en el improrrogable término de diez días útiles, salvo el caso a que se refiere el artículo 59, a las leyes y decretos aprobados por el Congreso, y promulgarlos y hacerlos ejecutar desde luego, si el propio Congreso, después de haberlos reconsiderado, los ratifica.
+XXII. Hacer observaciones por una sola vez en el improrrogable término de diez días útiles, salvo el caso a que se refiere el artículo 59, a las leyes y decretos aprobados por el Congreso, y promulgarlos y hacerlos ejecutar desde luego, si el propio Congreso, después de haberlos reconsiderado los ratifica.
 
-XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
+XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la ley.
 
 XXIV. Nombrar y remover libremente al Secretario de Gobierno, Procurador General de Justicia y Tesorero General del Estado, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia, sometiéndola a la aprobación del Congreso.
 
@@ -895,7 +897,7 @@ XXXVI. Turnar al Procurador General de Justicia los asuntos que deban ventilarse
 
 XXXVII. Cuidar de que las elecciones se efectúen en el tiempo señalado por las leyes relativas.
 
-XXXVIII. Organizar el sistema penal sobre la base de trabajo como medio de regeneración.
+XXXVIII. Organizar el sistema penal sobre la base del trabajo como medio de regeneración.
 
 XXXIX. Conceder, conforme a las Leyes, indulto necesario a los reos sentenciados por delitos de la competencia de los Tribunales del Estado.
 
@@ -1831,7 +1833,7 @@ Para el presente período gubernamental, que terminará el día 31 de agosto de 
 
 ###### ARTICULO SEGUNDO.
 
-Por esta sola ocasión, el Congreso del Estado, designará a un Gobernador Provisional para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 de del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
+Por esta sola ocasión, el Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
 
 ###### ARTICULO TERCERO.
 
@@ -1846,3 +1848,13 @@ La presente ley entrará en vigor tres días después de su publicación en el B
 B.O. 12 DE DICIEMBRE DE 1970.
 
 UNICO.- Esta ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 13 DE MARZO DE 1971.
+
+###### ARTICULO PRIMERO.
+
+Por excepción y sólo para el caso de las elecciones constitucionales de Gobernador del Estado, que deberán celebrarse el primer domingo de julio de 1973, se reduce a dos años el período de residencia efectiva a que se refiere en primer término la fracción I del artículo 70 que se reforma.
+
+###### ARTICULO SEGUNDO.
+
+Esta ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
