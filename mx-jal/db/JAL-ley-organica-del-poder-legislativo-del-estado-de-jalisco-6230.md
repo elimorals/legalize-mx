@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1979-01-02"
+last_updated: "1981-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -55,11 +55,11 @@ Diputación Permanente.
 
 ###### Artículo 2.
 
-Para ser tomado en consideración cualquier documento dirigido al Congreso, deberá darse a éste el trato de Honorable.
+¬ Para ser tomado en consideración cualquier documento dirigido al Congreso, deberá darse a éste el trato de Honorable.
 
 ###### Artículo 3.
 
-Los documentos de que habla el artículo anterior serán dirigidos por oficio cuando éstos provengan del Ejecutivo, del Supremo Tribunal de Justicia, de los Ayuntamientos de la Entidad, de los Poderes de otros Estados o de los Poderes Federales por conducto de los jefes de las Dependencias. Los particulares y demás instituciones deberán hacerlo por medio de ocursos para que su instancia sea atendida.
+¬ Los documentos de que habla el artículo anterior serán dirigidos por oficio cuando éstos provengan del Ejecutivo, del Supremo Tribunal de Justicia, de los Ayuntamientos de la Entidad, de los Poderes de otros Estados o de los Poderes Federales por conducto de los jefes de las Dependencias. Los particulares y demás instituciones deberán hacerlo por medio de ocursos para que su instancia sea atendida.
 
 ## TITULO II. De la Instalación del Congreso
 
@@ -155,7 +155,7 @@ Queda estrictamente prohibido a los Diputados abandonar el Recinto, sin el permi
 
 ###### Artículo 16.
 
-La Directiva del Congreso la constituyen el Presidente, el Vice.Presidente, dos Secretarios y dos Pro-Secretarios.
+La Directiva del Congreso la constituyen el Presidente, el Vice-Presidente, dos Secretarios y dos Pro-Secretarios.
 
 ###### Artículo 17.
 
@@ -233,7 +233,9 @@ I. Redactar personalmente las actas que se levanten con motivo de las sesiones s
 
 Toda sesión a que se hubiere citado y no se celebre por falta de quórum, deberá hacerse constar en acta, precisando los Diputados que asistieron y los que hayan comunicado oportunamente al Presidente la causa de su inasistencia;
 
-II. Firmar las actas que contengan la versión taquigráfica de la sesión;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1981)</small>
+
+II. Firmar las actas que contengan la versión taquigráfica y/o magnetofónica de la Sesión y cuidar de la debida impresión y distribución del "Diario de los Debates";
 
 III. Firmar con el Presidente, el libro de Decretos en el que deben figurar todos los que expida el Congreso;
 
@@ -275,7 +277,7 @@ Las atribuciones consignadas en las fracciones que anteceden, con excepción de 
 
 ###### Artículo 26.
 
-Los Secretarios y Pro-Secretarios no estarán inhabilitados para ser electos Presidente o Vicve-Presidente, durante el período de su ejercicio; pero si la elección para tales cargos, recayera en alguno de ellos de inmediato y con las mismas formalidades a que se refiere el Artículo 16, deberá elegirse al que deba desempeñar las funciones de Pro-Secretario, por todo el término que vaya a estar éste separado de dicho cargo, ya sea porque ocupe la Presidencia o la Vice-Presidencia, o porque la elección hubiere recaído en alguno de los Secretarios, y el Pro-Secretario que primeramente hubiere sido electo vaya a substituirlo en dicha Secretaría.
+Los Secretarios y Pro-Secretarios no estarán inhabilitados para ser electos Presidente o Vice-Presidente, durante el período de su ejercicio; pero si la elección para tales cargos, recayera en alguno de ellos de inmediato y con las mismas formalidades a que se refiere el Artículo 16, deberá elegirse al que deba desempeñar las funciones de Pro-Secretario, por todo el término que vaya a estar éste separado de dicho cargo, ya sea porque ocupe la Presidencia o la Vice-Presidencia, o porque la elección hubiere recaído en alguno de los Secretarios, y el Pro-Secretario que primeramente hubiere sido electo vaya a substituirlo en dicha Secretaría.
 
 ### CAPITULO III. Del Ceremonial
 
@@ -396,20 +398,6 @@ II. Los que se refieren a otorgamiento de dispensas de Ley por causas de utilida
 III. Los que se refieren a la autorización a los Ayuntamientos o al Ejecutivo del Estado, para la enajenación de inmuebles o constitución de derechos reales sobre los mismos; y
 
 IV.Los que se refieren a la autorización a los Ayuntamientos o al Ejecutivo para contraer adeudos que garanticen por gravámenes de sus fuentes de percepción de ingresos.
-
-¬Artículo 36.-¬ Corresponde a la Comisión de Justicia, el conocimiento de los asuntos relativos a:
-
-I. Proyectos que impliquen expedición, reformas o adiciones a los Ordenamientos Procesales Civiles o Penales;
-
-II. Proyectos referentes a modificaciones a leyes relativas al Poder Judicial o al Ministerio Público;
-
-III. Supresión o creación de Juzgados o modificaciones de su categoría;
-
-IV. Modificación de la comprensión territorial de los Organos Judiciales;
-
-V. Aprobación en su caso, de las designaciones de Magistrados del Supremo Tribunal de Justicia hechas por el Ejecutivo o designación de entre los que, comprendan las ternas propuestas por éste; y
-
-VI. Concesión de amnistía.
 
 ###### Artículo 36.
 
@@ -575,6 +563,14 @@ Si se tratare de la sesión inaugural de un período extraordinario en los casos
 
 Durante los períodos ordinarios y extraordinarios previstos por el Artículo 13 de la Constitución Política del Estado, el Congreso deberá celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los negocios de su competencia, debiendo al efecto hacerlo en un mínimo de dos por semana.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1981)</small>
+
+Lo acontecido en éstas, será consignado en un órgano oficial denominado "Diario de los Debates" en el que se publicará la fecha y lugar en que se verifique la Sesión, el sumario, nombre del que presida, copia fiel del Acta de la Sesión anterior, versión taquigráfica y/o magnetofónica de las discusiones en el orden que se desarrollen e inserción de todos los documentos a los que se les de lectura.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1981)</small>
+
+No se publicarán las discusiones y documentos relacionados con las Sesiones secretas.
+
 ###### Artículo 59.
 
 Las sesiones serán: públicas, secretas, solemnes y extraordinarias.
@@ -663,7 +659,7 @@ Siempre se destinará un lugar especial en el Recinto, a los Magistrados del Sup
 
 ###### Artículo 75.
 
-Solo con acuerdo de la Cámara, se podrá permitir alguna curul a persona que no sea Diputado; pero expresamente y sin necesidad de cumplir con algún requisito, se faculta a los Legisladores Constituyentes de Querértaro que expidieron la Constitución General de la República y a los Constituyentes de Jalisco, que expidieron la Particular del Estado, paz ocupare curules en el Recinto Cameral, sin derecho a voz ni voto. Previo acuerdo de la Cámara se podrá permitir ocupar alguna curul a persona que no sea Diputado.
+Solo con acuerdo de la Cámara, se podrá permitir alguna curul a persona que no sea Diputado; pero expresamente y sin necesidad de cumplir con algún requisito, se faculta a los Legisladores Constituyentes de Querétaro que expidieron la Constitución General de la República y a los Constituyentes de Jalisco, que expidieron la Particular del Estado, paz ocupare curules en el Recinto Cameral, sin derecho a voz ni voto. Previo acuerdo de la Cámara se podrá permitir ocupar alguna curul a persona que no sea Diputado.
 
 ###### Artículo 76.
 
@@ -1017,7 +1013,7 @@ Son funciones específicas del Oficial Mayor:
 
 I. Formular las actas de las sesiones y presentarlas para revisión a los Diputados Secretarios;
 
-II. Coordinar, previo acuerdo con la Pesidencia y con el Titular de la Comisión de Tesorería, las labores de los empleados;
+II. Coordinar, previo acuerdo con la Presidencia y con el Titular de la Comisión de Tesorería, las labores de los empleados;
 
 III. Actuar como Jefe de Personal, asumiendo la responsabilidad de los trabajos encomendados a éste;
 
@@ -1077,7 +1073,7 @@ A fin de facilitar el despacho de los dictámenes que emita la Diputación Perma
 
 ###### Artículo 156.
 
-El Presidente y los Secretarios de la Diputación Permanente, tendrán las mismas facultadfes que el Presidente y los Secretarios del Congreso, en lo conducente.
+El Presidente y los Secretarios de la Diputación Permanente, tendrán las mismas facultades que el Presidente y los Secretarios del Congreso, en lo conducente.
 
 ###### Artículo 157.
 
@@ -1140,3 +1136,17 @@ P.O. 2 DE ENERO DE 1979
 PRIMERO. Envíese el presente Decreto a los H. Ayuntamientos del Estado en los términos y para los efectos del artículo 66 de la Constitución Política del Estado
 
 SEGUNDO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco" incluyendo la Declaratoria a que se refiere el Artículo 66 de la Constitución Política del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1981
+
+###### Artículo 1º.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco y sus efectos se retrotraerán a partir de la primera Sesión del mes de septiembre del corriente año.
+
+###### Artículo 2º.
+
+Se faculta a la Secretaría del H. Congreso para que realice los trámites correspondientes, a fin que se registre, imprima y publique, el "Diario de los Debates".
+
+###### Artículo 3º.
+
+La periodicidad del "diario de los Debates", estará vinculada a la de las Sesiones que celebre el Congreso.
