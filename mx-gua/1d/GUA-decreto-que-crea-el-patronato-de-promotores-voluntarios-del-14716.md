@@ -4,7 +4,7 @@ identifier: "GUA-decreto-que-crea-el-patronato-de-promotores-voluntarios-del-147
 country: "mx"
 rank: "decreto"
 publication_date: "1978-04-23"
-last_updated: "1978-04-23"
+last_updated: "2004-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 DECRETO QUE CREA EL PATRONATO DE PROMOTORES VOLUNTARIOS DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE DECRETO HA SIDO ABROGADO POR EL ARTICULO DECIMO PRIMERO DEL DECRETO NUMERO 112, PUBLICADO EN EL PERIODICO OFICIAL EL 27 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Decreto publicado en el Periódico Oficial del Estado de Guanajuato, el 23 de abril de 1978.
 
@@ -122,3 +124,9 @@ LUIS H. DUCOING.
 El Secretario General del Gobierno,
 
 Lic. ANTONIO TORRES GOMEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE DECRETO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor a los 90 noventa días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
