@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1992-03-26"
+last_updated: "1992-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 1992.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -369,7 +369,7 @@ El Presidente del Congreso velará por el respeto al fuero constitucional de los
 
 Los diputados propietarios, durante el período de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, del Estado o del Municipio por los cuales se disfrute sueldo, a excepción de los de instrucción pública y beneficencia, sin licencia previa del Congreso. En su caso, cesarán en sus funciones representativas mientras dure la nueva ocupación.
 
-La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de diputado.
+La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de Diputado.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1957,23 +1957,27 @@ Los Poderes del Estado no podrán reconocer, bajo ningún concepto, a los indivi
 
 Esta Constitución puede ser adicionada o reformada en cualquier tiempo, concurriendo los requisitos siguientes:
 
-I.- Que la proposición de adiciones o reformas se haga por escrito y por quienes con arreglo a ella tienen derecho a iniciar leyes;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
 
-II.- Que sea examinada por una comisión compuesta de tres diputados que nombrará el Congreso, la cual emitirá dictamen sobre si ha lugar a admitirla a discusión, para lo cual se requerirá una mayoría absoluta de votos, y faltando ésta, se tendrá por desechada y no volverá a presentarse en el tiempo de la misma Legislatura;
+I.- Que la proposición de adiciones o reformas, se haga por escrito y por quienes con arreglo a ella tienen derecho a iniciar leyes;
 
-III.- Que, admitida a discusión, se apruebe por el Congreso con la misma mayoría de votos a que se refiere la fracción anterior, mandándose imprimir y publicar las reformas aprobadas, con los fundamentos en que se apoye, reservando el proyecto para que lo tome en consideración el Congreso inmediato siguiente;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
 
-IV.- Que se sometan las adiciones o reformas aprobadas por el Congreso anterior al estudio de nueva comisión de tres diputados que nombre el nuevo Congreso, para que emita dictamen sobre ellas y se proceda a la discusión y votación, con la misma mayoría que se expresa en este artículo;
+II.- Que sea examinada por la Comisión respectiva del Congreso, la cual emitirá dictamen sobre si ha lugar a admitirla a discusión;
 
-V.- Las adiciones o reformas que fueren aprobadas se publicarán como leyes constitucionales y no podrá el Gobernador hacer observaciones acerca de ellas, y
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
 
-VI.- Cualquiera adición o reforma que no fuere ratificada por el segundo Congreso, deberá reservarse para el siguiente, y si éste tampoco la aprobare en la forma señalada, se tendrá por desechada definitivamente.
+III.- Que el dictamen de adiciones o reformas se someta a discusión y se apruebe con el voto de la mayoría absoluta de los miembros del Congreso;
 
-Si la proposición de adiciones o reformas no proviene del Gobernador del Estado, antes de discutirse y votarse se pasará al Ejecutivo para que dentro de un mes emita su opinión sobre ellas.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE SEPTIEMBRE DE 1983)</small>
+IV.- Que una vez aprobado en los términos de la fracción anterior, se someta a discusión y aprobación de la mayoría de los Ayuntamientos Municipales del Estado;
 
-VII.- Cuando se trate de adecuar esta Constitución a las reformas y adiciones de la Constitución Federal, bastará con la aprobación de una sola Legislatura.
+Si transcurre un mes después de recibido el decreto por los Ayuntamientos, sin que remitan al Congreso el resultado de su votación, se entenderá que aceptan la adición o reforma; y
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1992)</small>
+
+V.- Las adiciones o reformas que fueren aprobadas, se publicarán como leyes constitucionales y no podrá el Gobernador hacer observaciones acerca de ellas.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2238,3 +2242,7 @@ UNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 26 DE MARZO DE 1992.
 
 UNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 1992.
+
+UNICO. Este Decreto deberá imprimirse y publicarse con las reformas aprobadas.
