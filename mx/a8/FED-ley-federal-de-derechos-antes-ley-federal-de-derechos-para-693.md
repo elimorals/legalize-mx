@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "1997-12-29"
+last_updated: "1998-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -55,9 +55,9 @@ Los derechos por la prestación de servicios que establece esta Ley deberán est
 
 Cuando se concesione o autorice que la prestación de un servicio que grava esta Ley, se proporcione total o parcialmente por los particulares, deberá disminuirse el cobro del derecho que se establece por el mismo en la proporción que represente el servicio concesionado o prestado por un particular respecto del servicio total.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-Las cuotas de los derechos se actualizarán en los meses de enero y julio con el factor de actualización correspondiente al periodo comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación.
+Las cuotas de los derechos se actualizarán en la cantidad que resulte de multiplicar las mismas por los factores que en su caso establezca el Congreso de la Unión. Asimismo las cuotas de los derechos se actualizarán en los meses de abril, julio y octubre con el factor de actualización correspondiente al periodo comprendido desde el cuarto mes inmediato anterior hasta el último mes anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -251,9 +251,13 @@ IV.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 En todo caso, las autoridades fiscales podrán autorizar el pago en cualquier otra moneda.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 7o.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+Las dependencias y entidades de la Administración Pública Federal, deberán informar a la Secretaría de Hacienda y Crédito Público a más tardar en el mes de marzo del ejercicio correspondiente, los montos de los ingresos por concepto de derechos que hayan percibido, así como de los enteros efectuados a la Tesorería de la Federación por dichos conceptos, durante el ejercicio fiscal inmediato anterior.
+
+Asimismo, las dependencias y entidades a que se refiere el párrafo anterior, deberán presentar a la Secretaría de Hacienda y Crédito Público, un informe durante el mes de agosto respecto de los ingresos que hayan percibido por derechos durante el primer semestre del ejercicio fiscal en curso, así como los que tengan programados percibir durante el segundo semestre.
 
 ## TITULO I. De los Derechos por la Prestación de Servicios
 
@@ -267,7 +271,9 @@ En todo caso, las autoridades fiscales podrán autorizar el pago en cualquier ot
 
 Por la expedición de autorización en la que se otorga calidad migratoria de No Inmigrante a extranjeros y por las prórrogas correspondientes, en las diversas características migratorias, se pagará el derecho por servicios migratorios, conforme a las siguientes cuotas:
 
-I.- (DEROGADA, D.O.F. 18 DE DICIEMBRE DE 1992)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+I.- Turista............. $ 150.00
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -285,7 +291,9 @@ c).- Para dedicarse a actividades lucrativas............. 15,000.00
 
 d).- Para dedicarse a actividades lucrativas, por cada prórroga............. 15,000.00
 
-III.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+III.- Visitantes Hombres de Negocios (FMN) o Visitante Consejero (FMVC)............. $ 150.00
 
 > <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -306,6 +314,10 @@ VII.- Ministro de culto o asociado religioso:
 a).- Por el otorgamiento de la característica.............. $ 493.00
 
 b).- Por cada prórroga.............. $ 493.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VIII.- Transmigrante............. $ 150.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -359,7 +371,7 @@ III.- Por la recepción, examen y estudio de la solicitud de cambio de calidad a
 
 No se pagarán los derechos por la expedición de autorización en la que se otorga a los extranjeros la calidad migratoria de no inmigrantes, en los siguientes casos:
 
-I.- Turistas.
+I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -377,9 +389,7 @@ V.- Visitantes sin dedicarse a actividades lucrativas:
 
 a).- Cuando sean autorizados o se otorgue la prórroga bajo los convenios de cooperación o intercambio educativo, cultural y científico.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-b).- Cuando se trate de visitante de negocios o técnicos que sean autorizados por un período máximo de treinta días para permanecer en el país.
+b) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 VI.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -387,9 +397,7 @@ VI.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 VII.- Refugiado.
 
-> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
-
-VIII.- Transmigrante.
+VIII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -507,15 +515,17 @@ Los ingresos que se obtengan por el derecho de servicios migratorios extraordina
 
 La parte de los ingresos que exceda el límite señalado en este artículo, no tendrá destino específico y se enterará a la Tesorería de la Federación a más tardar en el mes siguiente a aquél en que se obtuvo el ingreso.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 15.
 
-(DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
+Por la prestación de servicios migratorios en puertos marítimos a pasajeros internacionales que ingresen a territorio nacional, pagarán derechos conforme a la siguiente cuota............. $ 49.00
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 16.
 
-Los turistas, consejeros, asilados políticos, refugiados, visitantes distinguidos y visitantes locales no pagarán los derechos por internación al país, ni por reposición de documentos, establecidos en los artículos precedentes de esta Sección.
+Los asilados políticos, refugiados, visitantes distinguidos y visitantes locales, no pagarán los derechos por internación al país, ni por reposición de documentos, establecidos en los artículos precedentes de esta Sección.
 
 ###### ARTICULO 17.
 
@@ -587,7 +597,9 @@ Los Poderes Legislativo y Judicial, así como las dependencias y entidades de la
 
 Por los servicios en materia de cinematografía se pagará el derecho de cinematografía, conforme a las siguientes cuotas:
 
-I.- Supervisión para, en su caso, clasificación y autorización de películas destinadas a exhibición pública en cualquier local o para su comercialización, incluidas la renta o venta:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+I.- Por el trámite y estudio de la solicitud y, en su caso, autorización y clasificación de películas destinadas a exhibición pública en cualquier local o para su comercialización, incluidas la renta o venta:
 
 a).- De 35 milímetros o más, por rollo de 300 metros o fracción $125.00
 
@@ -595,35 +607,79 @@ b).- De 16 milímetros, 8 milímetros, Super 8 milímetros, por rollo de 100 met
 
 c).- Videograma o material grabado, en cualquier formato o modalidad, por cada media hora o fracción $313.00
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+No pagarán los derechos a que se refiere esta fracción, las instituciones públicas que exhiban películas con fines culturales.
+
 II.- Expedición de certificados de origen de material filmado y grabado $373.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+III.- Por la autorización del doblaje de películas, para exhibición $528.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+IV.- Por la autorización para distribución de cada una de las copias de películas a:
+
+a).- Exhibirse públicamente:
+
+1.- De 1 a 20 $200.00
+
+2.- De 21 a 50 $175.00
+
+3.- De 51 en adelante $150.00
+
+b).- Comercializarse:
+
+1.- De 1 a 3000 $1.00
+
+2.- De 3001 a 9000 $0.75
+
+3.- De 9001 en adelante $0.50
 
 ###### ARTICULO 19-D.
 
 (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 19-E.
 
-Por los servicios en materia de televisión se pagará el derecho de televisión, conforme a las siguientes cuotas:
+Por los servicios en materia de televisión, cada concesionario o permisionario pagará el derecho de televisión, conforme a las siguientes cuotas:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-I.- Autorización anual al concesionario o permisionario de un sistema de televisión abierta, por cable, de señal restringida terrestre o satelital, para transmisión o distribución en México, de programación originada, desarrollada o proveniente del extranjero:
+I.- Por el trámite y estudio y, en su caso, la autorización anual al concesionario o permisionario de un sistema de televisión abierta, por cable, de señal restringida terrestre o satelital, para transmisión o distribución en México, de programación originada, desarrollada o proveniente del extranjero:
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 a).- Por cada canal cuya programación, en más del 50% de su tiempo, esté en el supuesto de esta fracción.............. $ 3,000.00
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
 b).- Por cada programa o conjunto de programas de una misma especie y fuente de derechos de explotación comercial, que no corresponda al supuesto del inciso anterior.............. $ 300.00
 
-II.- Por la autorización anual o modificación de las condiciones de programa de concurso.............. $ 373.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-III.- Por la autorización anual por transmisiones en idioma extranjero.............. $ 373.00
+II.- Por el trámite y estudio y,en su caso, la autorización anual o modificación de las condiciones de programa de concurso $514.00
 
-IV.- Por la autorización anual por modificación de los períodos de propaganda comercial............... $ 362.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-V.- Por la autorización anual por canal para superposición en la imagen de mensajes publicitarios de corta duración.............. $ 362.00
+III.- Por el trámite y estudio y, en su caso, la autorización anual por transmisiones en idioma extranjero $514.00
 
-VI.- Supervisión para, en su caso, clasificación y autorización de películas destinadas a su exhibición en televisión, a través de cualquier señal, en videograma o material grabado en cualquier formato o modalidad, por cada media hora o fracción.............. $ 313.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+IV.- Por el trámite y estudio y, en su caso, la autorización anual por modificación de los periodos de propaganda comercial $499.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+V.- Por el trámite y estudio y, en su caso, la autorización para la superposición en la imagen de mensajes publicitarios, por emisión de cada programa o evento deportivo $220.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VI.- Por el trámite y estudio y, en su caso, clasificación y autorización de películas, series filmadas, telenovelas y teleteatros grabados destinados a su exhibición en televisión, a través de cualquier señal, en videograma o material grabado en cualquier formato o modalidad, por cada media hora o fracción $432.00
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VII.- Supervisión para, en su caso, clasificación y autorización de comerciales destinados a trasmitirse por televisión, en cualquier formato o modalidad:
 
@@ -635,23 +691,23 @@ c).- De más de 60 y hasta 180 segundos.............. $ 376.00
 
 d).- De más de 180 segundos............... $ 501.00
 
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
 VIII.- Supervisión para, en su caso, clasificación y autorización del guión o libreto para televisión, por cada 30 minutos o fracción.............. $ 66.00
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 19-F.
 
-Por los servicios en materia de radio se pagará el derecho de radio, conforme a las siguientes cuotas:
+Por los servicios en materia de radio, cada concesionario o permisionario pagará el derecho de radio, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+I.- Por el trámite y estudio y, en su caso, la autorización anual para transmisión o distribución en México, de programación originada, desarrollada o proveniente del extranjero............. $ 226.00
 
-I.- Por la autorización anual para transmisión o distribución en México, de programación originada, desarrollada o proveniente del extranjero............. $ 193.14.
+II.- Por el trámite y estudio y, en su caso, la autorización anual o modificación de las condiciones de programa de concurso............. $ 514.00
 
-II.- Por la autorización anual o modificación de las condiciones de programa de concurso................ $ 373.00
+III.- Por el trámite y estudio y, en su caso, la autorización anual por transmisiones en idioma extranjero................ $ 514.00
 
-III.- Por la autorización anual por transmisiones en idioma extranjero.............. $ 373.00
-
-IV.- Por la autorización anual por modificación o alteración de los períodos de propaganda comercial.............. $ 373.00
+IV.- Por el trámite y estudio y, en su caso, la autorización anual por modificación o alteración de los periodos de propaganda comercial............. $ 514.00
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -661,7 +717,11 @@ IV.- Por la autorización anual por modificación o alteración de los períodos
 
 ###### ARTICULO 19-G.
 
-Por el apostillamiento de documentos públicos federales, por cada documento............. $ 259.10
+Por el apostillamiento de documentos públicos federales, por cada documento $ 259.10
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+No se pagará el derecho por el apostillamiento de documentos públicos que sean solicitados por la Federación, de asuntos oficiales y de su competencia, siempre que no derive de la petición de un particular. Tampoco se pagará este derecho cuando se trate del apostillamiento de documentos para la substanciación del juicio de amparo.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -699,6 +759,10 @@ b).- Para prestar los servicios de traslado y custodia de bienes.............. $
 
 c).- Para prestar los servicios de traslado y protección de personas.............. $ 5,000.00
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+d).- Para prestar los servicios de investigación privada a personas físicas o morales............. $ 4,000.00
+
 II.- Por la expedición de la autorización............... $ 1,500.00
 
 III.- Por la inscripción en el Registro Nacional del Personal de Seguridad Pública de cada integrante de las empresas que presten los servicios a que se refiere este artículo..... $ 50.00
@@ -710,6 +774,12 @@ V.- Por consulta de antecedentes policiales, por cada elemento.............. $ 1
 VI.- Por cambio de representante legal............... $ 2,300.00
 
 VII.- Por cambio en la titularidad de las acciones o partes sociales.............. $ 2,300.00
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 19-J.
+
+Por la expedición o revalidación a empleados federales de cada licencia oficial individual de portación de armas de fuego, se pagarán derechos conforme a la siguiente cuota............. $ 180.00
 
 ### CAPITULO II. De la Secretaría de Relaciones Exteriores
 
@@ -787,7 +857,9 @@ a).- Constitución de sociedades extranjeras, importación de armas, municiones,
 
 b).- Matrícula consular a mexicanos, por cada una.............. $ 140.00
 
-c).- Importación de psicotrópicos y estupefacientes.............. $ 80.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+c).- Importación de psicotrópicos y estupefacientes............. $ 478.00
 
 d).- Copia certificada de actas del registro civil, por cada una.............. $ 80.00
 
@@ -901,6 +973,12 @@ V.- El visado a los permisos de tránsito y certificado de embalsamamiento de ca
 
 VI.- Certificado de turista cinegético.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VII.- Por la expedición del certificado de lista de menaje de casa, a los nacionales repatriados por no haber reunido los requisitos solicitados por las autoridades para su legal estancia en los Estados Unidos de América.
+
+Para efectos de la presente exención, será necesario que el repatriado presente el documento con el que se acrediten las circunstancias antes citadas, emitido por la autoridad estadounidense correspondiente y avalado por la representación consular mexicana.
+
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 No pagarán los derechos por los servicios que se establecen en esta sección, los extranjeros, en caso de reciprocidad del país del que son nacionales.
@@ -933,7 +1011,9 @@ IV.- Para la celebración de contratos u obtención de concesiones:
 
 a).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-b).- Obtención de concesiones del Gobierno Federal, o de los gobiernos de las Entidades Federativas o de los Municipios. $ 500,000.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+b).- Obtención de concesiones del Gobierno Federal o de los gobiernos de las Entidades Federativas o de los Municipios. $ 2,961.00
 
 V.- Para la celebración de contratos de fideicomiso:
 
@@ -949,7 +1029,9 @@ c).- Para celebrar cesiones de derechos fideicomisarios. $ 1'000,000.00
 
 d).- Para los demás casos no señalados en los incisos anteriores. $ 112.00
 
-VI.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VI.- Por la recepción y estudio del escrito de convenio de renuncia, para la adquisición de inmuebles fuera de zona restringida u obtención de concesiones para la exploración y explotación de minas o aguas en el territorio nacional. $ 2,961.00
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -957,13 +1039,21 @@ VII.- A cada extranjero para adquirir en territorio nacional fuera de la zona re
 
 VIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-IX.- Por cada aviso extemporáneo de uso de denominación a que se refiere el Título Quinto del Reglamento de la Ley para Promover la Inversión Mexicana y Regular la Inversión Extranjera. $ 300,000.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-X.- Por cada aviso extemporáneo sobre el convenio de extranjería a que se refiere el Título Quinto del Reglamento de la Ley para Promover la Inversión Mexicana y Regular la Inversión Extranjera. $ 700,000.00
+IX.- Por la presentación de cada aviso de uso de permiso en la constitución de sociedades o asociaciones y de reformas a sus estatutos. $ 151.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+X.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-XI.- Por la presentación de cada aviso notarial de uso de permiso en la constitución de sociedades o asociaciones y de reformas a sus estatutos. $ 84.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+XI.- Por la presentación extemporánea de los siguientes avisos:
+
+a).- De uso del permiso para la constitución de sociedades o asociaciones y de cambio de denominación o razón social. $ 823.00
+
+b).- De liquidación, fusión o escisión de sociedades. $ 823.00
+
+c).- De modificación de la cláusula de exclusión por la de admisión de extranjeros. $ 823.00
 
 XII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
@@ -1061,13 +1151,17 @@ Las instituciones de banca múltiple, de banca de desarrollo, arrendadoras finan
 
 I.- Se determinará el monto total de los pasivos por sector. Posteriormente se calculará la participación de cada entidad en el pasivo total del sector al que pertenezca, dividiendo el pasivo de la entidad entre el pasivo total del sector, y el resultado se expresará en términos porcentuales.
 
-II.- A la sumatoria de las cuotas correspondientes al ejercicio inmediato anterior actualizadas, aplicables a las entidades a que se hace referencia en la fracción I que antecede, se le aplicarán los porcentajes determinados para cada entidad conforme a dicha fracción.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-> <small>(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+II.- A la sumatoria de las cuotas correspondientes al ejercicio inmediato anterior actualizadas, aplicables a las entidades a que se hace referencia en este artículo, excepto instituciones de banca múltiple, se le aplicarán los porcentajes determinados para cada entidad conforme a la fracción anterior.
 
-III.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-IV.- El importe de los derechos a pagar determinados conforme a las fracciones I y II anteriores, no podrá ser inferior a las cuotas señaladas en el artículo 29-K aplicables para las entidades de nueva creación, por tipo de entidad.
+III.- A la sumatoria de las cuotas correspondientes al ejercicio inmediato anterior actualizadas, aplicables a las instituciones de banca múltiple, una vez deducido el total de las cuotas mínimas que hubieran sido cubiertas en los términos de la fracción IV del presente artículo por instituciones de banca múltiple en dicho ejercicio, se le aplicarán los porcentajes determinados para cada institución conforme a la fracción I anterior.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+IV.- El importe de los derechos a pagar determinados conforme a las fracciones I, II y III, del presente artículo no podrá ser inferior a las cuotas señaladas en el artículo 29-K aplicables para las entidades de nueva creación por tipo de entidad, ni exceder, tratándose de instituciones de banca múltiple, del equivalente a cuarenta veces la cuota que conforme a la fracción II del citado artículo 29-K corresponda.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1163,11 +1257,11 @@ VII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 Cuando se paguen derechos por la autorización para la constitución de una sociedad operadora de sociedades de inversión, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 29-I.
 
-Las sociedades de inversión deberán pagar anualmente por el derecho de inspección y vigilancia el equivalente al 0.75 al millar respecto al monto en circulación de las acciones representativas de su capital social, valuadas a precio corriente en el mercado y a falta de éste a su valor nominal, sin que los derechos a pagar por este concepto sean inferiores a $ 5,000.00, ni excedan de $ 178,000.00. No quedarán comprendidas para los efectos del presente artículo, las sociedades de inversión especializadas en fondos para el retiro.
+Las sociedades de inversión deberán pagar anualmente por el derecho de inspección y vigilancia el equivalente al 0.75 al millar respecto al monto en circulación de las acciones representativas de su capital social, valuadas a precio corriente en el mercado y a falta de éste, a su valor contable, sin que los derechos a pagar por este concepto sean inferiores a $ 5,856.00, ni excedan de $ 208,464.00. No quedarán comprendidas para los efectos del presente artículo, las sociedades de inversión especializadas en fondos para el retiro.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1319,7 +1413,9 @@ b).- De emisoras que sean entidades financieras de cualquier tipo, incluyendo a 
 
 4.- Valores fiduciarios.............. 0.80 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 47,621.00.
 
-II.- Con valores inscritos en la sección especial se pagará anualmente la cuota de $ 23,493.00 por emisión.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+II.- Con valores inscritos en la Sección Especial se pagará anualmente la cuota de $ 32,404.00 por inscripción.
 
 III.- No computarán para los efectos de la cuota de inspección y vigilancia a que se refiere este artículo, los valores que hayan sido inscritos en el mismo ejercicio fiscal en el cual se paguen dichos derechos, excepto cuando se otorgue la inscripción para la ampliación de plazos, montos de emisión o de capital social.
 
@@ -1349,13 +1445,13 @@ b).- Por el registro provisional o definitivo............... $ 19,049.00
 
 c).- Por la inspección y vigilancia anual.............. $ 19,049.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 II.- Tratándose de peritos valuadores que presten servicios a instituciones de crédito:
 
-a).- Por estudio y trámite para la obtención del registro correspondiente, por cada especialidad.............. $ 2,895.00
+a).- Por el estudio y trámite de la solicitud para la obtención del registro provisional o definitivo o la renovación de este último............. $ 3,993.00
 
-b).- Por el registro provisional o definitivo............... $ 3,048.00
+b).- Por el registro provisional o definitivo o la renovación de este último............. $ 4,204.00
 
 c).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -1431,9 +1527,13 @@ c).- Títulos de crédito o valores inscritos que otorguen a sus titulares derec
 
 d).- Acciones de sociedades de inversión............... 2.0 al millar respecto del monto total del capital social mínimo fijo.
 
-e).- Bonos u obligaciones emitidos o garantizados, según corresponda, por sociedades controladoras de grupos financieros, instituciones de crédito, de seguros, de fianzas, organizaciones auxiliares del crédito y filiales de entidades financieras del exterior del mismo tipo................ 0.9 al millar por los primeros $ 372´397,206.00 del monto autorizado y 0.45 al millar por el excedente.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-f).- Otros títulos suscritos o emitidos por instituciones de crédito, organizaciones auxiliares del crédito y filiales de entidades financieras del exterior del mismo tipo, representativos o no de un pasivo a su cargo, por clase de valor:
+e).- Bonos u obligaciones emitidos o garantizados, según corresponda, por sociedades controladoras de grupos financieros, instituciones de crédito, de seguros, de fianzas, sociedades financieras de objeto limitado, casas de bolsa, organizaciones auxiliares de crédito y filiales de entidades financieras del exterior del mismo tipo……….. 0.9 al millar por los primeros $ 513,652,932.00 del monto autorizado y 0.45 al millar por el excedente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+f).- Otros títulos suscritos o emitidos por instituciones de crédito, organizaciones auxiliares de crédito, sociedades financieras de objeto limitado y filiales de entidades financieras del exterior del mismo tipo, representativos o no de un pasivo a su cargo, por clase de valor:
 
 1. Con vigencia mayor a un año.............. 0.45 al millar del monto autorizado por tipo de valor.
 
@@ -1450,6 +1550,10 @@ i).- Valores emitidos por los Estados y Municipios, así como por los organismos
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 j).- Certificados, pagarés y otros valores emitidos por el Gobierno Federal, por tipo de valor:……… 0.45 al millar del monto emitido por tipo de valor y en proporción a su plazo, sin que los derechos a pagar por este concepto en un ejercicio excedan de $ 600,000.00
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+k).- Bonos de regulación monetaria emitidos por el Banco de México............ 0.45 al millar del monto emitido por tipo de valor y en proporción a su plazo, sin que los derechos a pagar por este concepto en un ejercicio excedan de $ 702,689.00.
 
 II.- Sección de Intermediarios:
 
@@ -1561,17 +1665,23 @@ Por el servicio de autorización de agentes de seguros que proporciona la Comisi
 
 I.- Por la autorización provisional proporcionada a agentes de seguros personas físicas $ 200,000.00
 
-II.- Por la autorización definitiva a agentes de seguros personas físicas para actuar por cuenta propia con vigencia de tres años $ 300,000.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-III.- Por el refrendo trianual de las autorizaciones definitivas a agentes personas físicas $ 150,000.00
+II.- Por la autorización definitiva a agentes de seguros personas físicas para actuar por cuenta propia con vigencia de tres años............. $ 1,292.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+III.- Por el refrendo trianual de las autorizaciones definitivas a agentes personas físicas............. $ 676.00
 
 IV.- Por la autorización a agentes de seguros personas morales $ 1'000,000.00
 
-V.- Por la autorización para ejercer la actividad de apoderado de un agente de seguros persona moral para intervenir en el asesoramiento y contratación de seguros $ 300,000.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+V.- Por la autorización para ejercer la actividad de apoderado de un agente de seguros persona moral para intervenir en el asesoramiento y contratación de seguros............. $ 1,292.00
 
-VI.- Por el refrendo trianual de la autorización a que se refiere la fracción anterior $ 180,000.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VI.- Por el refrendo trianual de la autorización a que se refiere la fracción anterior............. $ 676.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1579,17 +1689,23 @@ VI.- Por el refrendo trianual de la autorización a que se refiere la fracción 
 
 Por el servicio de autorización o registro de intermediario de reaseguro que proporciona la Comisión Nacional de Seguros y Fianzas, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por la autorización definitiva como intermediario de reaseguro domiciliado en la República Mexicana.............. $ 2,978.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-II.- Por la autorización para ejercer la actividad de apoderado de intermediario de reaseguro domiciliado en la República Mexicana, para intervenir en el asesoramiento y contratación de reaseguro.............. $ 893.00
+I.- Por la autorización definitiva como intermediario de reaseguro............. $ 4,108.00
 
-III.- Por el refrendo quinquenal de la autorización a que se refiere la fracción anterior..... $ 447.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-IV.- Por el registro definitivo como intermediario de reaseguro no domiciliado en la República Mexicana.............. $ 2,978.00
+II.- Por la autorización para ejercer la actividad de apoderado de intermediario de reaseguro, para intervenir en el asesoramiento y contratación de reaseguro............. $ 1,292.00
 
-V.- Por el registro para ejercer la actividad de apoderado de un intermediario de reaseguro no domiciliado en la República Mexicana, para intervenir en el asesoramiento y contratación de reaseguro.............. $ 893.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-VI.- Por el refrendo quinquenal del registro a que se refiere la fracción anterior.............. $ 447.00
+III.- Por el refrendo quinquenal de la autorización a que se refiere la fracción anterior............. $ 676.00
+
+IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
+
+V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
+
+VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -1617,17 +1733,25 @@ Las cuotas que se recauden por los derechos a que se refiere este artículo se d
 
 Por el servicio de autorización que proporciona la Comisión Nacional de Seguros y Fianzas respecto de agentes de fianzas, se pagarán derechos de autorización conforme a las siguientes cuotas:
 
-I.- Por la autorización definitiva a agentes de fianzas personas físicas para actuar por cuenta propia con vigencia de tres años.............. $ 300,000.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-II.- Por el refrendo trianual de las autorizaciones definitivas a agentes personas físicas...................... $ 150,000.00
+I.- Por la autorización definitiva a agentes de fianzas personas físicas para actuar por cuenta propia con vigencia de tres años............. $ 1,292.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+II.- Por el refrendo trianual de las autorizaciones definitivas a agentes personas físicas............. $ 676.00
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Por la autorización a agentes de fianzas personas morales.............. $ 2,978.00
 
-IV.- Por la autorización para ejercer la actividad de apoderado de un agente de fianzas persona moral para intervenir en el asesoramiento y contratación de fianzas.............. $ 300,000.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-V.- Por el refrendo trianual de la autorización a que se refiere el inciso anterior......... $ 150,000.00
+IV.- Por la autorización para ejercer la actividad de apoderado de un agente de fianzas persona moral para intervenir en el asesoramiento y contratación de fianzas............. $ 1,292.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+V.- Por el refrendo trianual de la autorización a que se refiere la fracción anterior............. $ 676.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1643,9 +1767,25 @@ VI.- Por la autorización provisional proporcionada a agentes de fianzas persona
 
 #### SECCION SEGUNDA. Registro Nacional de Valores e Intermediarios
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 31-B.
 
-(DEROGADO Y REUBICADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+Las Administradoras de Fondos para el Retiro y las Empresas Operadoras de la Base de Datos Nacional SAR, pagarán el derecho de inspección y vigilancia que se efectúa a éstas y a las Sociedades de Inversión Especializadas de Fondos para el Retiro que operen las primeras, a cargo de la Comisión Nacional del Sistema de Ahorro para el Retiro, conforme a las siguientes cuotas:
+
+I.- Las Administradoras de Fondos para el Retiro............. $ 24,000.00 cuota anual y adicionalmente $ 0.44 por cada cuenta individual que administren.
+
+Para efectos del pago del derecho a que se refiere esta fracción, la cuota anual deberá pagarse a más tardar el día 17 del mes de enero del ejercicio fiscal que transcurra. Asimismo, el derecho por cada cuenta individual se pagará en los meses de abril, julio y octubre del presente ejercicio fiscal y enero del siguiente.
+
+Para determinar el monto de cada pago trimestral, se deberá tomar el número de cuentas abiertas que tenga cada Administradora de Fondos para el Retiro el último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho.
+
+II.- Las Empresas Operadoras de la Base de Datos Nacional SAR............. $ 24,000,000.00.
+
+Este pago podrá enterarse en dos parcialidades conforme a lo siguiente:
+
+Una primera parcialidad equivalente al 50% del total en el mes de enero.
+
+Una segunda parcialidad equivalente al monto que resulte de aplicar al saldo insoluto el factor de actualización que establece el artículo 17-A del Código Fiscal de la Federación. Ésta deberá enterarse en el mes de julio del ejercicio fiscal de que se trate.
 
 ###### ARTICULO 32.
 
@@ -1695,11 +1835,11 @@ No se pagará este derecho por el tránsito aéreo de mercancías.
 
 El pago de los derechos a que se refiere el artículo anterior se hará en la aduana ante la que solicite el régimen de tránsito, previamente a la autorización del envío de las mercancías.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 40.
 
-Por la autorización a particulares para el manejo, almacenaje y custodia de las mercancías sujetas a trámite aduanero, se pagará el derecho de custodia de mercancías conforme a la cuota anual de $ 100,000.00.
+Por la concesión a particulares para el manejo, almacenaje y custodia de las mercancías sujetas a trámite aduanero, se pagará el derecho de custodia de mercancías conforme a la cuota anual de............. $ 14,997.00
 
 ###### ARTICULO 41.
 
@@ -1817,7 +1957,7 @@ La exención que establece este precepto se aplicará únicamente durante el pla
 
 ###### ARTICULO 46.
 
-Ninguna mercancía en deposito ante la aduana será entregada, a menos que se hayan pagado los derechos de almacenaje.
+Ninguna mercancía en depósito ante la aduana será entregada, a menos que se hayan pagado los derechos de almacenaje.
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -2149,19 +2289,35 @@ Por la obtención de precintos que se adhieran a los envases que contengan bebid
 
 ### CAPITULO V. Secretaría de Energía
 
-#### SECCION PRIMERA. Minería
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+#### SECCION UNICA (SIC). Permisos en Materia de Energía Eléctrica y Gas Natural
+
+> <small>(ADICIONADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 56.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+Se pagará el derecho de permiso de energía eléctrica, por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso para la generación de energía eléctrica, conforme a las siguientes cuotas:
+
+I.- Tratándose de las modalidades de autoabastecimiento, cogeneración, pequeña producción, exportación e importación de energía eléctrica............. $ 50,000.00
+
+II.- Tratándose de la modalidad de producción independiente de energía eléctrica............. $ 100,000.00
+
+> <small>(ADICIONADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 57.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+Se pagará el derecho de permiso de gas natural, por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso relacionados con la distribución, transporte de gas natural y transporte de gas natural para usos propios, conforme a las siguientes cuotas:
 
-#### SECCION PRIMERA. Correduría Pública
+I.- Tratándose de permisos de distribución de gas natural otorgados sin licitación............. $ 100,000.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+II.- Tratándose de permisos de distribución de gas natural mediante licitación internacional............. $ 50,000.00
+
+III.- Tratándose de permisos de transporte de gas natural............. $ 100,000.00
+
+IV.- Tratándose de permisos de transporte de gas natural para usos propios............. $ 50,000.00
+
+#### SECCION PRIMERA. Minería
 
 ###### ARTICULO 58.
 
@@ -2182,6 +2338,40 @@ Por la obtención de precintos que se adhieran a los envases que contengan bebid
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ### CAPITULO VI. De la Secretaría de Comercio y Fomento Industrial
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION PRIMERA. Correduría Pública
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 62.
+
+Por los servicios relacionados con la presentación de exámenes de aspirante y definitivos, servicios de expedición y registro de habilitaciones, de garantías, de sellos, de firmas y por la autorización de libros de registro de corredores públicos, y expedición de credencial, se pagará el derecho de registro mercantil y de correduría, conforme a las siguientes cuotas:
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+I.- Examen de aspirante de corredor público.............. $ 250.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+II.- Examen definitivo de corredor público.............. $ 500.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+III.- Expedición y registro de títulos de habilitación.............. $ 1,000.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+IV.- Registro de garantías, sellos y firmas de corredores, por cada garantía, sello o firma.............. $ 150.00
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+V.- Autorización de libros de registro de corredores, por cada libro.............. $ 150.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VI.- Por la expedición de la credencial de corredor público............. $ 64.00
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2218,26 +2408,6 @@ Límite Inferior
 50,001 en adelante 54,983.00 0.6786
 
 Por el estudio, trámite y resolución de solicitudes de concesión de explotación o para prorrogar la vigencia de éstas, se pagará por concepto de derechos el 50% de la cantidad que resulte de aplicar la tabla anterior.
-
-###### ARTICULO 62.
-
-Por los servicios relacionados con la presentación de exámenes de aspirante y definitivos, servicios de expedición y registro de habilitaciones, de garantías, de sellos, de firmas y por la autorización de libros de registro de corredores públicos se pagará el derecho de registro mercantil y de correduría, conforme a las siguientes cuotas:
-
-I.- Examen de aspirante de corredor público.............. $ 250.00
-
-II.- Examen definitivo de corredor público.............. $ 500.00
-
-III.- Expedición y registro de títulos de habilitación.............. $ 1,000.00
-
-IV.- Registro de garantías, sellos y firmas de corredores, por cada garantía, sello o firma.............. $ 150.00
-
-V.- Autorización de libros de registro de corredores, por cada libro.............. $ 150.00
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-#### SECCION TERCERA. Inversiones Extranjeras
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 63.
 
@@ -2305,11 +2475,11 @@ II.- Por cada porción de las hojas anteriores de 5 minutos de latitud y de long
 
 III.- Por cada porción a que se refiere la fracción anterior a escala 1:25,000.............. $ 438.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 67.
 
-Por la prestación de servicios relativos a las visitas para dictaminar sobre la procedencia de solicitudes de expropiación, ocupación temporal o constitución de servidumbre o para resolver sobre la nulidad, suspensión o insubsistencia de derechos, se cubrirán los derechos conforme a lo dispuesto por el artículo 5o. fracción VII, de esta Ley.
+Por la prestación de servicios relativos a las visitas para dictaminar sobre la procedencia de solicitudes a petición del interesado, de identificación de superficie amparada por concesiones mineras o cuando se modifique el punto de partida o punto de origen del lote o lotes que se sustituyan, así como de solicitudes de expropiación, ocupación temporal o constitución de servidumbre o para resolver sobre la nulidad, suspensión o insubsistencia de derechos, se cubrirán los derechos conforme a lo dispuesto por el artículo 5o. fracción VII, de esta Ley.
 
 ###### ARTICULO 68.
 
@@ -2341,9 +2511,9 @@ Por la prestación de servicios relativos a las visitas para dictaminar sobre la
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-#### SECCION CUARTA. Normas Oficiales
+#### SECCION TERCERA. Inversiones Extranjeras
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 71.
 
@@ -2443,9 +2613,9 @@ XIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 (REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION TERCERA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
-#### SECCION QUINTA. Permisos de Importación
+#### SECCION CUARTA. Normas Oficiales
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 73-A.
 
@@ -2507,9 +2677,9 @@ Por la autorización para el uso de hologramas con que marcarán las obras o ins
 
 (REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION CUARTA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
-#### SECCION SEXTA. Competencia Económica
+#### SECCION QUINTA. Permisos de Importación
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 74.
 
@@ -2549,21 +2719,35 @@ No se pagará el derecho a que se refiere este artículo, cuando se trate de cer
 
 Asimismo, no se pagará el derecho a que se refiere este artículo para los certificados de cupo de importación de bienes donados del extranjero a organismos públicos del país para su empleo en actividades públicas, así como cuando exista convenio internacional del que México sea parte y en virtud del cual no deban cobrarse los derechos a que se refiere este artículo.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 74-B.
+
+Por el estudio y trámite de cada solicitud para la autorización del Programa de Importación Temporal para Producir Artículos de Exportación............. $ 610.00
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 74-C.
+
+Por la expedición de cada tarjeta inteligente del Sistema Integral de Comercio Exterior adicional, que se derive de un Programa de Importación Temporal para Producir Artículos de Exportación autorizado............. $ 380.00
+
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 75.
 
 La Secretaría de Hacienda y Crédito Público determinará la forma del pago del derecho de permiso de importación o del certificado de cupo de importación a que se refieren, respectivamente, los artículos 74 y 74-A de la presente Ley, respecto de las importaciones que realice el sector público, así como las reglas para determinar el valor de las mercancías.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 76.
 
-El derecho de permiso de importación por los servicios previstos en las fracciones I y III del artículo 74 de esta Ley, se pagará al presentar la solicitud respectiva.
+Los derechos señalados en los artículos 74, 74-A, 74-B y 74-C de la presente Ley, se pagarán previamente a la presentación de la solicitud.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION SEPTIMA. Sistemas de Comercialización
+#### SECCION SEXTA. Competencia Económica
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 77.
 
@@ -2571,7 +2755,7 @@ Por la recepción, estudio y trámite de cada notificación de concentración a 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-#### SECCION OCTAVA. Verificación de Instrumentos de Medir
+#### SECCION SEPTIMA. Sistemas de Comercialización
 
 ###### ARTICULO 78.
 
@@ -2579,7 +2763,7 @@ Por la recepción, estudio y trámite de cada notificación de concentración a 
 
 (REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION SEPTIMA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
-#### SECCION PRIMERA. Servicios de Agua
+#### SECCION OCTAVA. Verificación de Instrumentos de Medir
 
 ###### ARTICULO 79.
 
@@ -2609,7 +2793,7 @@ Por la recepción, estudio y trámite de cada notificación de concentración a 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-#### SECCION SEGUNDA. Sanidad Fitopecuaria
+#### SECCION PRIMERA. Servicios de Agua
 
 ###### ARTICULO 82.
 
@@ -2649,9 +2833,7 @@ Por la recepción, estudio y trámite de cada notificación de concentración a 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-#### SECCION TERCERA. Certificación y protección del obtentor de variedades vegetales
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+#### SECCION SEGUNDA. Sanidad Fitopecuaria
 
 ###### ARTICULO 84.
 
@@ -2707,23 +2889,25 @@ VI.- Por cada certificado zoosanitario internacional para la importación de ani
 
 VII.- Por la certificación de la calidad zoosanitaria de cada establecimiento Tipo Inspección Federal, cuando sea realizada por la Comisión Nacional de Sanidad Agropecuaria. $ 6,000.00
 
-VIII.- Por la certificación fitosanitaria de viveros, invernaderos, laboratorios, industrializadoras y empacadoras de productos regulados, despepitadoras de algodón, beneficiadoras de café, unidades de tratamiento hidrotérmico, empresas de tratamiento cuarentenario, centros de acopio de granos y semillas regulados. $ 290.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VIII.- Por la certificación fitosanitaria de viveros, invernaderos, industrializadoras y empacadoras de productos regulados, despepitadoras de algodón, beneficiadoras de café, unidades de tratamiento hidrotérmico, empresas de tratamiento cuarentenario, centros de acopio de granos y semillas regulados.$ 400.00
 
 Por duplicado o renovación de los certificados a que se refiere este artículo, así como por la renovación de la certificación a que se refieren las fracciones VII y VIII, se pagará el 50% de la cuota correspondiente.
 
 No se pagará el derecho a que se refiere este artículo por los animales y vegetales, así como sus productos y subproductos que se importen o exporten en forma temporal, así como mascotas, animales de compañía, perros guías para invidentes, muestras médicas y comerciales.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 86-B.
 
-Por la certificación de empresas o establecimientos que realicen actividades en materia de plaguicidas agrícolas o pecuarios, se pagará por cada empresa y, en su caso, establecimiento el derecho de certificación fitosanitaria o zoosanitaria en materia de plaguicidas, conforme a las siguientes cuotas:
+Por la certificación de empresas o establecimientos que realicen actividades en materia de plaguicidas agrícolas, se pagará por cada empresa y, en su caso, establecimiento, el derecho de certificación fitosanitaria en materia de plaguicidas, conforme a las siguientes cuotas:
 
-I.- Por la certificación fitosanitaria o zoosanitaria de empresas o establecimientos dedicados a la explotación, fabricación, elaboración, formulación, maquila, mezclado, acondicionamiento, envasado e importación de plaguicidas agrícolas o pecuarios.............. $ 5,064.00
+I.- Por la certificación fitosanitaria de empresas o establecimientos dedicados a la explotación, fabricación, elaboración, formulación, maquila, mezclado, acondicionamiento, envasado e importación de plaguicidas agrícolas............. $ 6,985.00
 
-II.- Por la certificación fitosanitaria o zoosanitaria de empresas o establecimientos dedicados a la comercialización, aplicación y distribución de plaguicidas agrícolas o pecuarios........ $ 1,820.00
+II.- Por la certificación fitosanitaria de empresas o establecimientos dedicados a la comercialización, aplicación y distribución de plaguicidas agrícolas............. $ 2,510.00
 
-Por la renovación anual de las certificaciones a que se refiere el presente artículo se cobrará el 50% de la cuota establecida para cada una de ellas.
+Por la renovación o modificación de las certificaciones a que se refiere el presente artículo se cobrará el 50% de la cuota establecida para cada una de ellas.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2775,9 +2959,9 @@ II.- Por la expedición de la hoja de requisitos técnico-zoosanitarios para imp
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION CUARTA. Servicios que presta la Comisión Intersecretarial para el Control del Proceso y uso de Plaguicidas, Fertilizantes y Sustancias Toxicas
+#### SECCION TERCERA. Certificación y protección del obtentor de variedades vegetales
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 87.
 
@@ -2871,7 +3055,9 @@ c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 > <small>(ADICIONADA CON LAS ARTICULOS QUE LA INTEGRAN, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-#### SECCION QUINTA. De los Parques Nacionales
+#### SECCION CUARTA. Servicios que presta la Comisión Intersecretarial para el Control del Proceso y uso de Plaguicidas, Fertilizantes y Sustancias Toxicas
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 90-A.
 
@@ -2955,7 +3141,7 @@ III.- Para empresas comercializadoras............ $ 50,000.00
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-#### SECCION SEXTA. Otros Servicios
+#### SECCION QUINTA. De los Parques Nacionales
 
 ###### ARTICULO 90-F.
 
@@ -2967,9 +3153,7 @@ III.- Para empresas comercializadoras............ $ 50,000.00
 
 > <small>(DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION PRIMERA. Servicios de Telecomunicaciones
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+#### SECCION SEXTA. Otros Servicios
 
 ###### ARTICULO 90-H.
 
@@ -2979,77 +3163,27 @@ III.- Para empresas comercializadoras............ $ 50,000.00
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION SEGUNDA. Servicios de Telégrafos y Teléfonos
+#### SECCION PRIMERA. Servicios de Telecomunicaciones
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 91.
 
-Los concesionarios y permisionarios de servicios de telecomunicaciones pagarán anualmente el derecho de verificación del cumplimiento de las condiciones establecidas en su respectivo título de concesión o permiso, así como en las disposiciones aplicables, conforme a las siguientes cuotas:
+Los concesionarios y permisionarios de servicios de telecomunicaciones pagarán el derecho de verificación del cumplimiento de las obligaciones establecidas en su respectivo título de concesión o permiso, así como en las disposiciones aplicables, conforme a las siguientes cuotas:
 
-A.- Tratándose de permisionarios y concesionarios que presten servicios de telecomunicaciones de los previstos en este artículo:
+I.- Por la verificación e inspección previa al inicio de operaciones y por la verificación e inspección de las modificaciones autorizadas a las instalaciones que constituyen las redes de los servicios de telecomunicaciones de los concesionarios, permisionarios y asignatarios, se pagará por cada visita............. $ 1,700.00
 
-I.- Por cada línea de telefonía local, cuya conexión a la respectiva red pública de telecomunicaciones no utilice bandas del espectro radioeléctrico............. $ 5.46
+II.- Por la verificación e inspección a las instalaciones que constituyen las redes de los servicios de telecomunicaciones de los concesionarios, permisionarios y asignatarios, se pagará por cada visita............. $ 2,700.00
 
-II.- Por cada equipo terminal al que le presten el servicio de telefonía celular, de radiotelefonía móvil o fija, o el acceso telefónico local móvil o fijo, que utilice frecuencias o bandas de frecuencias del espectro radioeléctrico............. $ 6.77
-
-III.- Por cada línea de usuario presuscrita a un concesionario para que le preste el servicio de telefonía de larga distancia............. $ 5.46
-
-IV.- Por cada equipo terminal al que le presten el servicio de radiolocalización móvil de personas……............... $ 3.20.
-
-V.- Por cada equipo terminal al que le presten el servicio móvil de radiocomunicación especializada de flotillas............. $ 3.87.
-
-VI.- Por cada equipo terminal al que le presten el servicio de televisión restringida por microondas.............. $ 5.41.
-
-VII.- Por cada equipo terminal al que le presten el servicio de televisión por cable............. $ 4.88.
-
-VIII.- Por cada equipo terminal al que le presten el servicio de televisión restringida vía satélite nacional............. $ 5.08.
-
-IX.- Por cada equipo terminal al que le presten el servicio de televisión restringida vía satélite extranjero............. $ 7.50.
-
-X.- Por cada estación terrena a la que le presten el servicio de transmisión y recepción de señales vía satélite............. $ 12.00
-
-XI.- Por cada equipo terminal al que le presten servicios permisionados o concesionados: transmisión de voz, datos, audio e imagen, que utilicen redes conmutadas o circuitos dedicados que no se encuentren contemplados en este artículo, así como los servicios proporcionados por comercializadoras............. $ 7.05.
-
-El pago de los derechos por concepto de verificación a que se refiere este Apartado, se hará dentro de los meses de enero a marzo del año de que se trate y se tomará como referencia las líneas y equipos terminales reportados por el concesionario o permisionario ante la Secretaría de Comunicaciones y Transportes al 31 de diciembre del año inmediato anterior. En los casos que no tengan en la fecha anteriormente señalada, líneas y equipos reportados, el pago del derecho se efectuará dentro de los meses de julio a septiembre del año de que se trate, considerando dichas líneas y equipos reportados por el concesionario o permisionario ante la Secretaría de Comunicaciones y Transportes al 30 de junio del ejercicio que transcurre.
-
-B.- Los concesionarios que hayan obtenido frecuencias o bandas de frecuencias mediante licitación pública y que estén autorizados para la prestación del servicio de provisión de capacidad para el establecimiento de enlaces de microondas punto a punto, punto a multipunto o para la prestación del servicio de acceso inalámbrico, fijo o móvil, así como para la prestación del servicio de televisión o radio restringido:
-
-I.- En frecuencias concesionadas para la prestación del servicio de provisión de capacidad para el establecimiento de enlaces de microondas punto a punto, punto a multipunto o para la prestación del servicio de acceso inalámbrico, fijo o móvil, así como para la prestación del servicio de televisión o radio restringido, por cada Megahertz de la banda concesionada por región............. $ 1,000.00
-
-El pago de los derechos por concepto de verificación a que se refiere este Apartado, se hará dentro de los meses de enero a marzo del año de que se trate conforme al ancho de banda de las frecuencias concesionadas.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+El pago de los derechos a que se refiere este artículo, deberá efectuarse dentro de los 15 días siguientes contados a partir de la fecha en que se realizó la visita de verificación e inspección.
 
 ###### ARTICULO 92.
 
-Los concesionarios y permisionarios de frecuencias o bandas de frecuencias que no obtengan ingresos tarifados, pagarán anualmente dentro de los meses de enero a marzo del año respectivo, el derecho de verificación de telecomunicaciones, del cumplimiento de las condiciones establecidas en su respectivo título de concesión o permiso, así como en las disposiciones aplicables, conforme a las siguientes cuotas:
-
-I.- Por cada estación repetidora............. $ 529.98
-
-II.- Por cada estación base............. $ 353.32
-
-III.- Por cada estación terminal, equipo terminal o móvil............. $ 35.32
-
-IV.- Por cada estación terminal en sistemas de enlaces de microondas............. $ 353.32
-
-Aquellos concesionarios o permisionarios u otros usuarios de servicios de telecomunicaciones, que hayan contratado la operación de frecuencias o bandas de frecuencias con concesionarios que hayan obtenido frecuencias o bandas de frecuencias mediante licitación pública y que estén autorizados para la prestación del servicio de provisión de capacidad para el establecimiento de enlaces de microondas punto a punto, punto a multipunto o para la prestación del servicio de acceso inalámbrico fijo o móvil, así como para la prestación del servicio de televisión o radio restringido u otros servicios, estarán exentos del pago del derecho de verificación de telecomunicaciones.
-
-Las instituciones de asistencia médica o de beneficencia no contribuyentes del impuesto sobre la renta autorizadas para recibir donativos deducibles para sus donantes en el citado impuesto, siempre que acrediten dichas circunstancias, estarán exentas del pago del derecho previsto en este artículo, así como las personas morales de carácter público dedicadas a actividades de prevención y atención de accidentes, desastres, seguridad pública y seguridad nacional.
-
-El pago de los derechos por concepto de verificación a que se refiere este artículo, se hará dentro de los meses de enero a marzo del año de que se trate y se tomará como referencia la estructura de la red reportada por el concesionario o permisionario ante la Secretaría de Comunicaciones y Transportes al 31 de diciembre del año inmediato anterior.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 ###### ARTICULO 92-A.
 
-Los permisionarios de estaciones terrenas transmisoras o transreceptoras que no obtengan ingresos tarifados, pagarán anualmente dentro de los meses de enero a marzo del año respectivo, el derecho de verificación de telecomunicaciones del cumplimiento de las condiciones establecidas en su permiso, así como en las disposiciones aplicables, conforme a las siguientes cuotas:
-
-I.- Por cada estación terrena maestra............. $ 50.00
-
-ll.- Por cada estación terrena remota............. $ 10.00
-
-Las instituciones de asistencia médica o de beneficencia no contribuyentes del impuesto sobre la renta autorizadas para recibir donativos deducibles para sus donantes en el citado impuesto, siempre que acrediten dichas circunstancias, estarán exentas del pago del derecho previsto en este artículo, así como las personas morales de carácter público dedicadas a actividades de prevención y atención de accidentes, desastres, seguridad pública y seguridad nacional.
-
-El pago de los derechos por concepto de verificación a que se refiere este artículo, se hará dentro de los meses de enero a marzo del año de que se trate y se tomará como referencia la estructura de la red reportada por el permisionario ante la Secretaría de Comunicaciones y Transportes al 31 de diciembre del año inmediato anterior.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -3377,9 +3511,13 @@ X.- De cualquier otro documento relativo a las operaciones de concesionarios o p
 
 Por la asignación y administración de números geográficos y no geográficos, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por el estudio de solicitudes de asignación de números geográficos y no geográficos y, en su caso, por el otorgamiento de la autorización.............. $ 8.00 por cada número autorizado
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-II.- Por la administración de cada número geográfico y no geográfico registrado en la base de datos de la Secretaría de Comunicaciones y Transportes, se pagará anualmente............... $ 0.80
+I.- Por la administración de números geográficos y no geográficos registrados en la base de datos de la Secretaría de Comunicaciones y Transportes, se pagará anualmente, por cada número............. $ 1.07
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+II.- Por el estudio de la solicitud y, en su caso, por la expedición del oficio de asignación, de números geográficos y no geográficos, por cada número asignado............. $ 11.02
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -3499,9 +3637,7 @@ III.- Por la autorización de modificaciones o ampliaciones al título de asigna
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION TERCERA. Concesiones, Permisos, Autorizaciones e Inspecciones
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+#### SECCION SEGUNDA. Servicios de Telégrafos y Teléfonos
 
 ###### ARTICULO 116.
 
@@ -3519,7 +3655,9 @@ III.- Por la autorización de modificaciones o ampliaciones al título de asigna
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
-#### SECCION CUARTA. Servicio de Correos
+#### SECCION TERCERA. Concesiones, Permisos, Autorizaciones e Inspecciones
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 120.
 
@@ -3719,7 +3857,7 @@ Por el otorgamiento de concesiones para establecer estaciones de televisión, as
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-I.- Por estaciones de televisión en las bandas de VHF (canales del 2 al 13) y UHF ( canales del 14 al 69):
+I.- Por estaciones de televisión en las bandas de VHF (canales del 2 al 13) y UHF (canales del 14 al 69):
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -3891,11 +4029,11 @@ Por el otorgamiento del permiso para la instalación y operación de estaciones 
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 135.
 
-Por la inspección previa al inicio de operaciones y de verificación por modificaciones a estaciones de radiodifusión, y servicios que se proporcionen por subportadoras de radiodifusión, se pagarán derechos conforme a las siguientes cuotas:
+Por la inspección previa al inicio de operaciones a estaciones de radiodifusión, y de televisión y de servicios que se proporcionen por subportadoras de radiodifusión y de televisión, se pagarán derechos conforme a las siguientes cuotas:
 
 I.- Estaciones de radiodifusión y de televisión.................. $ 1'500,000.00
 
@@ -4107,9 +4245,7 @@ II.- Medición de los parámetros técnicos de la señal de televisión.........
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION QUINTA. Autotransporte Federal y Servicios Auxiliares
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+#### SECCION CUARTA. Servicio de Correos
 
 ###### ARTICULO 142.
 
@@ -4153,7 +4289,9 @@ II.- Medición de los parámetros técnicos de la señal de televisión.........
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-#### SECCION SEXTA. Servicios a la Navegación en el Espacio Aéreo Mexicano y Técnicos Aeronáuticos
+#### SECCION QUINTA. Autotransporte Federal y Servicios Auxiliares
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 148.
 
@@ -4481,9 +4619,7 @@ IX.- Permiso especial por un año para el tránsito de grúas industriales del s
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-#### SECCION SEPTIMA. Registro Público Marítimo Nacional y Servicios Marítimos
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+#### SECCION SEXTA. Servicios a la Navegación en el Espacio Aéreo Mexicano y Técnicos Aeronáuticos
 
 ###### ARTICULO 150.
 
@@ -4661,9 +4797,9 @@ Por el otorgamiento de autorización de vuelos de traslado, se pagarán derechos
 
 (DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
 
-#### SECCION OCTAVA. Otorgamiento de permisos
+#### SECCION SEPTIMA. Registro Público Marítimo Nacional y Servicios Marítimos
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 162.
 
@@ -4767,71 +4903,71 @@ f).- De 25,000.01 hasta 50,000.00 toneladas…..... 35,000.00
 
 g).- De más 50,000.01 toneladas............. 40,000.00
 
-II.- Por la expedición, revalidación o reposición del certificado de matrícula, para embarcaciones que efectúen en cualquier clase de tráfico, navegación de altura, marítima, costera, cabotaje interior de puerto, fluvial o lacustre:
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-a).- De 20.01 hasta 100 toneladas brutas de arqueo............ $2,000.00
-
-b).- De 100.01 hasta 500 toneladas brutas de arqueo.............. 3,000.00
-
-c).- De 500.01 hasta 5,000 toneladas brutas de arqueo............... 6,000.00
-
-d).- De 5,000.01 hasta 15,000 toneladas brutas de arqueo............. 9,000.00
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-e).- De 15,000.01 hasta 25,000.00 toneladas brutas de arqueo......... 25,000.00
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-f).- De 25,000.01 hasta 50,000.00 toneladas brutas de arqueo........ 35,000.00
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-g).- De más de 50,000.01 toneladas brutas de arqueo.......... 40,000.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-III.- Por la expedición, revalidación o reposición del certificado de registro o placa de matrícula:
+II.- Por la expedición, revalidación o reposición del certificado de matrícula:
 
 a).- Tratándose de embarcaciones para tráfico de recreo:
 
-1.- Hasta de 5 toneladas brutas de arqueo............... $2,000.00
+1.- Hasta de 5 toneladas brutas de arqueo............. $ 261.00
 
-2.- De 5.01 hasta 10 toneladas brutas de arqueo............. 3,000.00
+2.- De 5.01 hasta 10 toneladas brutas de arqueo............. $ 392.00
 
-3.- De 10.01 hasta 20 toneladas brutas de arqueo.............. 4,000.00
+3.- De 10.01 hasta 20 toneladas brutas de arqueo............. $ 522.00
 
 b).- Embarcaciones para tráfico interior de carga, pasajeros o carga y pasajeros:
 
-1.- Hasta 5 toneladas brutas de arqueo............... $1,000.00
+1.- Hasta de 5 toneladas brutas de arqueo............. $ 130.00
 
-2.- De más de 5 hasta 10 toneladas brutas de arqueo................. 1,500.00
+2.- De 5.01 hasta 10 toneladas brutas de arqueo............. $ 196.00
 
-3.- De más de 10 hasta 20 toneladas brutas de arqueo............... 2.000.00
+3.- De 10.01 hasta 20 toneladas brutas de arqueo............. $ 261.00
 
-c).- Tratándose de embarcaciones para remolque, dragado, salvamento y demás, relacionados con las comunicaciones por agua, o con las obras de los puertos:
+c).- Tratándose de embarcaciones para remolque, dragado, salvamento y demás relacionados con las comunicaciones por agua o con las obras de los puertos:
 
-1.- Hasta de 5 toneladas brutas de arqueo............. $1,500.00
+1.- Hasta de 5 toneladas brutas de arqueo............. $ 196.00
 
-2.- De 5.01 hasta 10 toneladas brutas de arqueo.............. 2,000.00
+2.- De 5.01 hasta 10 toneladas brutas de arqueo............. $ 261.00
 
-3.- De 10.01 hasta 20 toneladas brutas de arqueo.............. 3,000.00
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+3.- De 10.01 hasta 20 toneladas brutas de arqueo............. $ 392.00
 
 d).- Tratándose de embarcaciones pesqueras en cualquier clase de pesca:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+1.- Hasta de 5 toneladas brutas de arqueo............. $ 193.00
 
-1.- Hasta 5.00 toneladas brutas de arqueo.......... $ 3,000.00
+2.- De 5.01 hasta 10 toneladas brutas de arqueo............. $ 322.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+3.- De 10.01 hasta 20 toneladas brutas de arqueo............. $ 451.00
 
-2.- De 5.01 hasta 10.00 toneladas brutas de arqueo........ 5,000.00
+e).- Para embarcaciones que efectúen en cualquier clase de tráfico, navegación de altura, cabotaje e interior:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+1.- De 20.01 hasta 100 toneladas brutas de arqueo............. $ 193.00
 
-3.- De 10.01 hasta 20 toneladas brutas de arqueo.......... 7,000.00
+2.- De 100.01 hasta 500 toneladas brutas de arqueo............. $ 290.00
+
+3.- De 500.01 hasta 5,000 toneladas brutas de arqueo............. $ 580.00
+
+4.- De 5,000.01 hasta 15,000 toneladas brutas de arqueo............. $ 870.00
+
+5.- De 15,000.01 hasta 25,000 toneladas brutas de arqueo............. $ 2,418.00
+
+6.- De 25,000.01 hasta 50,000 toneladas brutas de arqueo............. $ 3,385.00
+
+7.- De más de 50,000.01 toneladas brutas de arqueo............. $ 3,869.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+III.- Por la expedición de autorización para la permanencia de artefactos navales y dragas en zonas marinas nacionales, por tonelada bruta o fracción de registro internacional:
+
+a).- Hasta 500 toneladas............. $ 3.7991
+
+b).- De 500.01 hasta 1,000 toneladas............. $ 3.1407
+
+c).- De 1,000.01 hasta 5,000 toneladas............. $ 2.6097
+
+d).- De 5,000.01 hasta 15,000 toneladas............. $ 1.9567
+
+e).- De 15,000.01 en adelante............. $ 1.3035
 
 IV.- Por expedición de pasavantes por tonelaje bruto de arqueo:
 
@@ -5271,21 +5407,21 @@ II.- Por la expedición de la autorización para actuar como Agente Naviero Gene
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION NOVENA. Otros Servicios
+#### SECCION OCTAVA. Otorgamiento de permisos
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 172.
 
 Por los servicios relacionados con el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y puentes de jurisdicción federal, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-I.- Estudios técnicos de planos, proyectos y memorias de obra, para obras e instalaciones marginales dentro del derecho de vía en carreteras y puentes de jurisdicción federal, por cada 100 metros o fracción que exceda de dicha longitud............. $ 564.67
+I.- Estudios técnicos de planos, proyectos y memorias de obra, para obras e instalaciones marginales dentro del derecho de vía en carreteras y puentes de jurisdicción federal, por cada 100 metros o fracción que exceda de dicha longitud............. $ 972.00
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-II.- Estudios técnicos de planos, proyectos y memorias de obra para construcción de obras por cruzamientos superficiales, subterráneos o aéreos que atraviesen carreteras y puentes de jurisdicción federal............. $ 630.66
+II.- Estudios técnicos de planos, proyectos y memorias de obra para construcción de obras por cruzamientos superficiales, subterráneos o aéreos que atraviesen carreteras y puentes de jurisdicción federal............. $ 972.00
 
 III.- Por la autorización para la construcción de accesos que afecten el derecho de vía de una carretera, incluyendo la supervisión de la obra, 14% sobre el costo de la misma.
 
@@ -5293,9 +5429,9 @@ III.- Por la autorización para la construcción de accesos que afecten el derec
 
 IV.- Por el estudio técnico del proyecto, supervisión y autorización de obras para paradores................ 1% sobre el costo total de la obra.
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-V.- Por el estudio técnico de planos, proyectos y memorias de obra y expedición de la autorización para la construcción de obras e instalaciones marginales subterráneas para cables de redes de telecomunicación que se realicen dentro de los derechos de vía de carreteras, puentes o vías férreas, por kilómetro o fracción.................... $ 50,000.00
+V.- Por el estudio técnico de planos, proyectos y memorias de obra y expedición de la autorización para la construcción de obras e instalaciones marginales subterráneas para cables de redes de telecomunicación que se realicen dentro de los derechos de vía de carreteras, puentes o vías férreas, por kilómetro o fracción............. $ 581.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5389,7 +5525,9 @@ XIII.- Por revisión, permiso y supervisión de estudios de aspectos operativos 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-#### SECCION PRIMERA. De los Parques Nacionales
+#### SECCION NOVENA. Otros Servicios
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 172-A.
 
@@ -5663,7 +5801,7 @@ I.- Manuales de sistemas de control de tránsito............. $ 3,000.00
 
 > <small>(ADICIONADA, D.O.F. DE 26 DE DICIEMBRE DE 1990)</small>
 
-#### SECCION SEGUNDA. De la Zona Marítimo Terrestre
+#### SECCION PRIMERA. De los Parques Nacionales
 
 ###### ARTICULO 175.
 
@@ -5673,7 +5811,7 @@ I.- Manuales de sistemas de control de tránsito............. $ 3,000.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-#### SECCION TERCERA. Servicios de Flora y Fauna
+#### SECCION SEGUNDA. De la Zona Marítimo Terrestre
 
 ###### ARTICULO 176.
 
@@ -5731,17 +5869,21 @@ a) Para determinar que un objeto o lote es reproducción, por unidad o empaque h
 
 b) Para establecer delimitación de inmuebles privados con monumentos y zonas arqueológicas, a petición de parte………… 500.00
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 178.
 
-Por los servicios de permisos para reproducción de monumentos arqueológicos muebles e inmuebles, se pagarán derechos sin límite de reproducciones; por cada pieza autorizada:
+Por los servicios de permisos para la reproducción de monumentos arqueológicos e históricos muebles e inmuebles, se pagarán derechos sin límite de reproducciones; por cada monumento autorizado:
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 I.- Reproducción fiel del monumento independientemente de la escala y materiales..... $ 250,000.00
 
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
 II.- Reproducción basada en una versión libre del monumento.............. $ 500,000.00
 
-III.- Por la renovación del permiso, se pagarán los derechos a que se refieren las fracciones anteriores, según correspondan.
+III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -5750,24 +5892,6 @@ Se exceptúa del pago de los derechos establecidos en este artículo a la produc
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 No pagarán los derechos establecidos en este artículo las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-###### ARTICULO 178-A.
-
-Por los permisos para filmación, videograbación y tomas fotográficas de monumentos arqueológicos, históricos y artísticos, museos y zonas de monumentos arqueológicos y artísticos, así como de filmación o videograbación de imágenes fotográficas de este patrimonio, se pagará el derecho de filmación y tomas fotográficas conforme a las siguientes cuotas:
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-A.- Filmaciones o videograbaciones:
-
-I.- Por día............. $ 3,807.92
-
-II.- Por cada 30 minutos o fracción de tiempo de filmación o videograbación, únicamente cuando se filmen o videograben imágenes fotográficas ya impresas, independientemente de los derechos por el permiso para el uso o reproducción señalados en el artículo 178-B de esta Ley............. $ 238.00
-
-III.- Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 40% del monto de los derechos citados en las fracciones I y II de este apartado.
-
-B.- Tomas fotográficas.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -5917,11 +6041,9 @@ b).- En saliente.............. $ 11,200,00
 
 c).- Cualquier caso de anuncio no especificado............ $ 11,000.00
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
 ###### ARTICULO 181.
 
-Por los servicios de permiso para la reproducción en serie de monumentos históricos o artísticos mueble e inmueble, pago anual por pieza autorizada................. $ 250,000.00
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 ###### ARTICULO 182.
 
@@ -5931,7 +6053,7 @@ Por los servicios de permiso para la reproducción en serie de monumentos histó
 
 (DEROGADO, D.O.F.20 DE DICIEMBRE DE 1991)
 
-#### SECCION CUARTA. Impacto Ambiental
+#### SECCION TERCERA. Servicios de Flora y Fauna
 
 ###### ARTICULO 184.
 
@@ -5983,13 +6105,21 @@ XXII.- Solicitud de declaración administrativa de nulidad de reservas de derech
 
 XXIII.- Solicitud de declaración administrativa de cancelación de reservas de derechos al uso exclusivo............. $ 600.00
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+XXIV.- Recepción, examen, estudio y, en su caso, inscripción de la anotación marginal correspondiente, de cualquier acto o instrumento que tenga por efecto la revocación del poder otorgado previamente inscrito............. $ 652.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+XXV.- Solicitud, dictamen y, en su caso, expedición de la autorización de apoderado para la gestión individual de derechos patrimoniales............. $ 687.00
+
 No se pagará el derecho por registro de obras a que se refiere este artículo, cuando se trate de libros de texto editados por la Federación, las entidades federativas, los municipios o por sus organismos descentralizados.
 
 Para los efectos de la aplicación de lo señalado en la fracción V de este artículo, cuando se presenten para examen, estudio y, en su caso, inscripción, contratos impresos en los cuales no exista variación en sus cláusulas y se trate de un mismo contratante, se pagará íntegro el derecho correspondiente al primer contrato y se reducirá en un 50% la cuota del derecho correspondiente sobre los sucesivos.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION QUINTA. Prevención y Control de la Contaminación
+#### SECCION CUARTA. Impacto Ambiental
 
 ###### ARTICULO 185.
 
@@ -6047,7 +6177,7 @@ XII.- Constancias de antecedentes profesionales………… N$ 50.00
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION SEXTA. Del Registro Publico de la Propiedad Federal
+#### SECCION QUINTA. Prevención y Control de la Contaminación
 
 ###### ARTICULO 186.
 
@@ -6263,7 +6393,7 @@ XXVI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 ### CAPITULO XI. De la Secretaría de la Reforma Agraria
 
-#### SECCION PRIMERA. Servicios que prestan los Institutos Nacionales de Bellas Artes y Literatura y de Antropología e Historia
+#### SECCION SEXTA. Del Registro Publico de la Propiedad Federal
 
 ###### ARTICULO 187.
 
@@ -6271,7 +6401,9 @@ Por los servicios que presta el Registro Agrario Nacional, relativos a la inscri
 
 A.- Por la inscripción de:
 
-I.- Documentos públicos o privados por virtud de los cuales se reconozcan, creen, modifiquen, transmitan o extingan derechos sobre tierras ejidales o comunales, siempre que no provengan del Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos.................. $ 97.66
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+I.- Documentos públicos o privados por virtud de los cuales se reconozcan, creen, modifiquen, transmitan o extingan derechos sobre tierras ejidales o comunales, siempre que no provengan del Programa de Certificación de Derechos Ejidales y Titulación de Solares............. $ 114.00
 
 II.- Cancelación o rectificación de las inscripciones............. $ 17.72
 
@@ -6279,17 +6411,23 @@ III.- Acuerdo de asamblea que apruebe la Adopción de Dominio Pleno de Colonias,
 
 IV.- Otorgamiento del usufructo de las tierras de uso común o parceladas, como garantía para respaldar el cumplimiento de los contratos refaccionarios, de habilitación o avío o cualquier otro acto u obligación............. $ 17.72
 
-V.- Documentos públicos o privados por los que se constituyan, modifiquen, liquiden, o extingan sociedades de solidaridad social, uniones de ejidos, sociedades de producción rural, asociaciones rurales de interés colectivo, así como cualquiera otra forma asociativa que constituyan los ejidatarios, comuneros o pequeños propietarios conforme a la Ley Agraria............. $ 44.39
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+V.- Documentos públicos o privados por los que se constituyan, modifiquen, liquiden, o extingan sociedades de solidaridad social, uniones de ejidos, sociedades de producción rural, asociaciones rurales de interés colectivo, así como cualquiera otra forma asociativa que constituyan los ejidatarios, comuneros o pequeños propietarios conforme a la Ley Agraria, incluidas las relativas a la explotación de parcelas con destino específico y sus modificaciones............. $ 52.00
 
 VI.- Conversión del régimen de dominio pleno al ejidal............. $ 99.88
 
-VII.- Planos generales e internos, así como los de las grandes áreas de ejidos y comunidades que no provengan del Programa de Certificación y Titulación de Solares Urbanos............. $ 22.16
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VII.- Planos generales e internos, así como los de las grandes áreas de ejidos y comunidades que no provengan del Programa de Certificación de Derechos Ejidales y Titulación de Solares............. $ 26.00
 
 VIII.- Acuerdo de asamblea a que se refieren las fracciones I a VI y XV del artículo 23 de la Ley Agraria, así como su modificación, por cada uno............. $ 22.16
 
 IX.- Acuerdo de asamblea que apruebe la aportación de tierras de uso común a una sociedad civil o mercantil............. $ 99.88
 
-X.- Documentos públicos por los que se constituyan sociedades civiles o mercantiles, emisoras de acciones o partes sociales serie “T”............. $ 99.88
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+X.- Documentos públicos o privados por los que se constituyan sociedades civiles o mercantiles, emisoras o tenedoras de acciones o partes sociales serie “T”, así como aquellos que hagan constar el aumento o disminución del capital y la emisión de acciones o partes sociales de la serie “T”, la adquisición o enajenación de predios rústicos, modificaciones al contrato social, así como su liquidación y extinción............. $ 117.00
 
 XI.- Acuerdo de Asamblea que apruebe la adopción del dominio pleno en tierras ejidales........... $ 22.16
 
@@ -6297,7 +6435,9 @@ XII.- Escritura constitutiva de un nuevo ejido............. $ 99.88
 
 B.- Por la expedición de los siguientes certificados y títulos de propiedad:
 
-I.- Certificados y títulos de propiedad por actos jurídicos que no provengan del Programa de Certificación y Titulación de Solares............. $ 44.39
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+I.- Certificados y títulos de propiedad por actos jurídicos que no provengan del Programa de Certificación de Derechos Ejidales y Titulación de Solares............. $ 52.00
 
 II.- Títulos de dominio pleno de colonias, siempre y cuando no provengan del Programa de Regularización de Colonias............. $ 44.39
 
@@ -6311,11 +6451,19 @@ I.- Constancias............. $ 44.39.
 
 No se pagará el derecho establecido en esta fracción por la expedición de constancias que sean solicitadas por la Federación, estados y municipios y por las organizaciones campesinas, en este último caso, cuando acrediten que actúan en representación legal de los núcleos de población o de sus integrantes.
 
-II.- Oficios informativos sobre ubicación de predios............. $ 14.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+II.- Oficios informativos sobre ubicación de predios............. $ 68.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+III.- Listado de ejidatarios o comuneros con derechos vigentes............. $ 100.00
 
 E.- Por la asistencia técnica y catastral:
 
-I.- Trabajos de campo, topográficos o fotogramétricos que no correspondan al Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos, o del Programa de Regularización de Colonias:
+> <small>(REFORMADO PRIMERO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+I.- Trabajos de campo, topográficos o fotogramétricos que no correspondan al Programa de Certificación de Derechos Ejidales y Titulación de Solares, o del Programa de Regularización de Colonias.
 
 a).- De 0.1 a 10 hectáreas............. $ 250.00 por hectárea.
 
@@ -6343,11 +6491,15 @@ II.- Por la apertura de lista de sucesión............. $ 13.00
 
 III.- Por las anotaciones preventivas, su rectificación o cancelación............. $ 22.16.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+IV.- Búsqueda, compulsa, y en su caso, expedición de la certificación de expediente relativo a acción agraria, por cada hoja tamaño carta u oficio............. $20.00
+
+No se pagará el derecho establecido en esta fracción cuando el servicio sea solicitado por la Federación, el Distrito Federal, Estados y Municipios en relación con asuntos oficiales y de su competencia, siempre que esta solicitud no derive de la petición de un particular. Tampoco se pagará este derecho cuando se trate de la expedición de copias certificadas para la substanciación del juicio de amparo.
+
 > <small>(DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION SEGUNDA. Derechos de Autor
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+#### SECCION PRIMERA. Servicios que prestan los Institutos Nacionales de Bellas Artes y Literatura y de Antropología e Historia
 
 ###### ARTICULO 188.
 
@@ -6359,9 +6511,9 @@ III.- Por las anotaciones preventivas, su rectificación o cancelación.........
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-#### SECCION TERCERA. Registro y Ejercicio Profesional
+#### SECCION SEGUNDA. Derechos de Autor
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 190.
 
@@ -6377,9 +6529,9 @@ III.- Por las anotaciones preventivas, su rectificación o cancelación.........
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION CUARTA. Servicios de Educación
+#### SECCION TERCERA. Registro y Ejercicio Profesional
 
-(REUBICADO Y REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)
+> <small>(REFORMADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 190-B.
 
@@ -6453,9 +6605,9 @@ V.- Por aprobación del proyecto de construcción o ampliación de columbarios c
 
 (REUBICADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-#### SECCION PRIMERA. Registro Agrario Nacional
+#### SECCION CUARTA. Servicios de Educación
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(REUBICADO Y REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)
 
 ###### ARTICULO 191.
 
@@ -6475,7 +6627,9 @@ En aquellos casos en que las Entidades Federativas hayan celebrado Convenio de C
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-#### SECCION SEGUNDA. Certificados de Inafectabilidad Agrícola, Ganadera y Agropecuaria
+#### SECCION PRIMERA. Registro Agrario Nacional
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 191-A.
 
@@ -6565,7 +6719,7 @@ Por la expedición de permisos individuales para efectuar la pesca deportivo-rec
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-#### SECCION TERCERA. Otros Servicios
+#### SECCION SEGUNDA. Certificados de Inafectabilidad Agrícola, Ganadera y Agropecuaria
 
 ###### ARTICULO 192.
 
@@ -6585,11 +6739,15 @@ IV.- Por la autorización para modificar las características de los títulos o 
 
 Por los servicios de trámite y expedición de títulos de concesión y permisos que se indican, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Títulos de concesión para la extracción de materiales de cauces, vasos y depósitos de propiedad nacional, por cada uno............. $ 1,122.15
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+I.- Por cada título de concesión para la extracción de materiales de cauces, vasos y depósitos de propiedad nacional.............. $ 640.00
 
 II.- Títulos de concesión para el uso o aprovechamiento de terrenos de cauces, vasos, lagos o lagunas, así como esteros, zonas federales y demás bienes nacionales regulados por la Ley de Aguas Nacionales, por cada uno............. $ 546.80
 
-III.- Permiso para la construcción de obras hidráulicas destinadas a la explotación, uso o aprovechamiento de aguas nacionales o en zonas de veda y reglamentadas, para perforación de pozos para uso de aguas del subsuelo, por cada uno............. $ 1,669.12
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+III.- Permiso para la construcción de obras hidráulicas destinadas a la explotación, uso o aprovechamiento de aguas nacionales o en zonas de veda y reglamentadas, para perforación de pozos para uso de aguas del subsuelo o para la construcción de obras en zona federal, por cada uno............. $ 1,955.00
 
 IV.- Por cada título de concesión para el uso o aprovechamiento de infraestructura hidráulica federal, incluyendo la prestación de los servicios respectivos............. $ 1,756.83
 
@@ -6621,11 +6779,11 @@ III.- Por los servicios que preste el Registro Público por la búsqueda o acces
 
 IV.- Por la expedición de certificados o constancias de las inscripciones o documentos que obren en el Registro Público, por cada uno............. $ 64.44
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 192-D.
 
-No pagarán los derechos a que se refieren los artículos 192 y 192-A, fracciones II, III y V del presente capítulo, los usuarios de aguas nacionales que se dediquen a actividades agropecuarias por el agua que utilicen para este fin y para satisfacer las necesidades domésticas, así como las poblaciones rurales iguales o inferiores a 2,500 habitantes, de acuerdo al resultado del último Censo General de Población y Vivienda.
+No pagarán los derechos a que se refieren los artículos 192 y 192-A, fracciones II, III y V del presente Capítulo, los usuarios de aguas nacionales que se dediquen a actividades agrícolas o pecuarias, así como el uso doméstico que se relacione con éstas, y las poblaciones rurales iguales o inferiores a 2,500 habitantes, de acuerdo al resultado del último Censo General de Población y Vivienda.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6661,9 +6819,7 @@ Cuando en el ejercicio de las facultades fiscales a que se refiere este artícul
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-#### SECCION PRIMERA. Del Registro Público de la Propiedad Federal
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+#### SECCION TERCERA. Otros Servicios
 
 ###### ARTICULO 193.
 
@@ -6675,9 +6831,9 @@ Cuando en el ejercicio de las facultades fiscales a que se refiere este artícul
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION SEGUNDA. Inspección y Vigilancia
+#### SECCION PRIMERA. Del Registro Público de la Propiedad Federal
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 194-A.
 
@@ -6702,6 +6858,10 @@ c).- Camiones, omnibuses y embarcaciones mayores de 12 metros de eslora con moto
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 Tratándose de profesores, estudiantes, personas menores de 15 y mayores de 60 años de edad, así como los miembros de federaciones deportivas que soliciten previamente a la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, permiso para el acceso a las áreas naturales, pagarán el 50% del monto del derecho correspondiente a este artículo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Cuando se trate de áreas naturales protegidas de interés de la Federación concesionadas a Administraciones Portuarias Integrales, se pagará el 50% de la cuota correspondiente a las fracciones I y III, inciso a) de este artículo.
 
 Los pasantes e investigadores que cuenten con permiso de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca para realizar estudios afines con las áreas a que se refiere este artículo, estarán exentos del pago del derecho correspondiente.
 
@@ -6797,55 +6957,23 @@ Estos derechos se pagarán independientemente de los que correspondan conforme a
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-#### SECCION PRIMERA. Concesiones, Permisos y Autorizaciones para Pesca
+#### SECCION SEGUNDA. Inspección y Vigilancia
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 194-D.
 
 Por los servicios que a continuación se señalan, se pagará el derecho correspondiente, conforme a las siguientes cuotas:
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-I.- Por la recepción y estudio de la solicitud de uso, goce y aprovechamiento de las playas, la zona federal marítimo terrestre, los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas, específicamente en los casos de permisos, autorizaciones o concesiones, prórrogas o cesiones de derechos............. $ 431.34
+I.- Por la recepción y estudio de la solicitud para el uso, goce o aprovechamiento de las playas, de la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas, específicamente en los casos de permisos, autorizaciones, concesiones, prórrogas de concesiones o permisos, cesión de derechos o autorización de modificaciones a las condiciones y bases del título de concesión o permisos............. $ 505.00
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 II.- Por la verificación en campo de levantamiento topográfico presentado por el solicitante de uso o aprovechamiento de las playas, la zona federal marítimo terrestre, los terrenos ganados al mar, o a cualquier otro depósito que se forme por aguas marítimas:
 
-Rango de superficie.
-
-(metros cuadrados).
-
-límites.
-
-Inferior Superior Cuota fija Cuota Adicional por m2.
-
-Excedente del límite Inferior.
-
-1 500............. $ 614.00............. $ 0.00
-
-501 1,000............. $ 614.00............. $ 0.85
-
-1,001 2,500............. $ 1,040.00............. $ 0.77
-
-2,501 5,000............. $ 2,194.00............. $ 0.71
-
-5,001 10,000............. $ 3,959.00............. $ 0.66
-
-10,001 15,000............. $ 7,258.00............. $ 0.63
-
-15,001 20,000............. $ 10,407.00............. $ 0.61
-
-20,001 25,000............. $ 13,469.00............. $ 0.60
-
-25,001 50,000............. $ 16,471.00............. $ 0.58
-
-50,001 100,000............. $ 30,944.00............. $ 0.49
-
-100,001 150,000............. $ 50,203.00............. $ 0.46
-
-150,001 En adelante............. $ 73,336.00............. $ 0.45
+(VEASE ARCHIVO ANEXO)
 
 A partir del límite inferior, a los m2 adicionales se les aplicará el factor correspondiente hasta llegar al límite inferior del siguiente rango.
 
@@ -6865,39 +6993,43 @@ Cuando las playas, la zona federal marítimo terrestre, los terrenos ganados al 
 
 Este derecho se pagará independientemente del que corresponda por el uso o aprovechamiento de las playas, la zona federal marítimo terrestre, los terrenos ganados al mar o a cualquier otro depósito que se forme por aguas marítimas conforme al título II de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 194-E.
 
-Por el otorgamiento de concesiones, autorizaciones o prórroga de concesiones para el uso o goce de las playas, la zona federal marítimo terrestre, terrenos ganados al mar o a cualquier otro depósito que se forme con aguas marítimas, se pagará anualmente el derecho de concesión de inmuebles federales, conforme a la cuota de............. $ 382.27
+Por el otorgamiento de permisos, autorizaciones, concesiones, prórrogas de concesiones o permisos, cesión de derechos o autorización de modificaciones a las condiciones y bases del título de concesión o permisos para el uso o aprovechamiento de la zona federal marítimo terrestre y terrenos ganados al mar o a cualquier otro depósito que se forme con aguas marítimas, se pagará anualmente el derecho respectivo, conforme a la cuota de............. $ 448.00
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 Cuando las playas, la zona federal marítimo terrestre, los terrenos ganados al mar o a cualquier otro depósito que se forme por aguas marítimas se utilicen para la agricultura, ganadería, acuacultura o pesca la cuota a que se refiere el párrafo anterior se reducirá en un 50%.
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-#### SECCION SEGUNDA
+#### SECCION PRIMERA. Concesiones, Permisos y Autorizaciones para Pesca
 
-Servicios Relacionados con el Agua y sus Bienes Públicos Inherentes.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 194-F.
 
 Por los servicios que a continuación se señalan se pagará el derecho por servicios de flora y fauna silvestres, conforme a las siguientes cuotas:
 
-A. Por el registro y refrendo anual:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-I.- De viveros comerciales de flora silvestre con especies terrestres y acuáticas, raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte.... $ 142.51
+A. Por el registro de:
 
-II.- De mascotas de fauna silvestre o de criadero, raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte…………. $ 130.63
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-III.- De aves de presa consideradas como raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte……….. $ 100.94
+I.- Viveros y jardines botánicos............. $ 234.00
 
-IV.- De viveros no comerciales de flora silvestre con especies terrestres y acuáticas, raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte…. $ 31.17
+II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-No se pagará por el refrendo anual del registro a que se refiere la fracción II de este Apartado.
+III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
+
+IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 B. Por la expedición de permisos y, en su caso, de refrendos, anual o por temporada, así como por la expedición de certificados:
 
@@ -6905,35 +7037,25 @@ B. Por la expedición de permisos y, en su caso, de refrendos, anual o por tempo
 
 I.- Por concepto de colecta científica de material biológico de flora y fauna silvestres, terrestres y acuáticas realizada en el país por extranjeros.............. $ 4,813.00
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-Las personas que realicen colecta científica en el país, bajo algún convenio con el gobierno federal o con alguna institución mexicana, así como los investigadores mexicanos, no pagarán los derechos a que se refieren las fracciones I, III y IV de este apartado.
+Las personas que realicen colecta científica en el país, bajo algún convenio con el gobierno federal o con alguna institución mexicana, así como con investigadores mexicanos registrados en el Sistema Nacional de Investigadores, no pagarán los derechos a que se refieren las fracciones I, III y IV de este apartado.
 
-II.- Por cada solicitud de certificados relacionados con la exportación, importación o reexportación de especies terrestres y acuáticas, raras, endémicas, amenazadas, en peligro de extinción y las sujetas a protección especial contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, de la que México forma parte:
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-a).- De trofeos de caza............. $ 194.47
-
-b).- De animales de fauna silvestre, para comercialización:
-
-1. De especies mayores............. $ 638.34
-
-2. De especies menores............. $ 320.65
-
-c).- De animales de fauna silvestre, para fines no comerciales:
-
-1. De especies mayores............. $ 204.86
-
-2. De especies menores............. $ 106.88
-
-d).- Distintos de los anteriores............. $ 106.88
-
-e).- De productos y subproductos de fauna silvestre............. $ 106.88
-
-f).- De productos y subproductos de flora silvestre............. $ 106.88
+II.- Por la recepción y trámite de cada solicitud de certificados o autorizaciones relacionados con la exportación, importación o reexportación de ejemplares, productos y subproductos de especies silvestres, incluyendo las contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres de la que México forma parte, cualquiera que sea su resolución............. $ 234.00
 
 III.- Para colecta de material parental para su reproducción y propagación con fines comerciales en unidades de producción, de especies amenazadas o en peligro de extinción contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre, de la que México forma parte………….. $ 158.84
 
 IV.- Por trámite para colecta de material parental de especies amenazadas o en peligro de extinción contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre, de la que México forma parte…………. $ 158.84
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+V.- Para colecciones particulares de flora y fauna silvestres............. $ 234.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VI.- Para posesión de aves de presa............. $ 234.00
 
 > <small>(ADICIONADO, D.O.F 10 DE MAYO DE 1996)</small>
 
@@ -6951,19 +7073,23 @@ IV.- Por supervisión anual, por hectárea............. $ 2.34
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
-#### SECCION TERCERA.
+#### SECCION SEGUNDA
 
-Permisos para Pesca Deportiva.
+Servicios Relacionados con el Agua y sus Bienes Públicos Inherentes.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 194-H.
 
 Por el otorgamiento de la autorización de los proyectos de obras o actividades cuya evaluación corresponda al Gobierno Federal, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
 
-I.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad general............. $ 497.15
+I.- Obra o actividad que requiera de informe preventivo............. $ 310.00
 
-II.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad intermedia............. $ 870.12
+II.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad general............. $ 580.00
 
-III.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad específica............. $ 1,367.37
+III.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad intermedia............. $ 800.00
+
+IV.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad específica............. $ 860.00
 
 ###### ARTICULO 194-I.
 
@@ -6975,15 +7101,19 @@ III.- Obra o actividad que requiera manifestación de impacto ambiental en su mo
 
 Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
 
-I.- Por la recepción y evaluación del informe preventivo............. $ 745.81
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+I.- Por la recepción y evaluación del informe preventivo............. $ 2,518.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 II.- Por la recepción y evaluación de la manifestación de impacto ambiental:
 
-a).- En su modalidad general............. $ 1,491.67
+a).- En su modalidad general............. $ 4,941.00
 
-b).- En su modalidad intermedia............. $ 2,610.46
+b).- En su modalidad intermedia............. $ 7,696.00
 
-c).- En su modalidad específica............. $ 4,102.21
+c).- En su modalidad específica............. $ 10,213.00
 
 III.- Por la verificación del cumplimiento de las medidas de prevención y mitigación..... $ 1,988.93
 
@@ -6997,9 +7127,9 @@ c).- En su modalidad específica............. $ 644.94
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-#### SECCION CUARTA. De las Areas Naturales Protegidas
+#### SECCION TERCERA.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Permisos para Pesca Deportiva.
 
 ###### ARTICULO 194-K.
 
@@ -7071,9 +7201,9 @@ Por la modificación de las inscripciones a que se refiere este artículo se pag
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
-#### SECCION QUINTA. De las Playas, la Zona Federal Marítimo Terrestre o los Terrenos Ganados al Mar o a Cualquier otro Depósito de Aguas Marítimas
+#### SECCION CUARTA. De las Areas Naturales Protegidas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 194-O.
 
@@ -7123,9 +7253,9 @@ III.- Instalación y operación de sistemas de incineración y disposición fina
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-#### SECCION SEXTA. Servicios de Flora y Fauna
+#### SECCION QUINTA. De las Playas, la Zona Federal Marítimo Terrestre o los Terrenos Ganados al Mar o a Cualquier otro Depósito de Aguas Marítimas
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 194-U.
 
@@ -7145,11 +7275,13 @@ a).- De clubes o asociaciones cinegéticas............... $ 377.00
 
 b).- Registro definitivo de Unidad para la Conservación, Manejo y Aprovechamiento sustentable de la Vida Silvestre (UMA)............. $ 200.00
 
-c).- Para taxidermistas.............. $ 189.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-d).- Para mascotas o aves de presa.............. $ 151.00
+c).- Para curtidurías, tenerías y establecimientos de taxidermia para productos derivados del aprovechamiento cinegético de fauna silvestre............. $ 261.00
 
-e).- Para colecciones particulares de fauna silvestre.............. $ 151.00
+d) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
+
+e) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 f).- De zoológicos, aviarios, herpetarios, circos y espectáculos de fauna silvestre............ $ 113.00
 
@@ -7163,13 +7295,15 @@ a).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 b).- Para guías o asistentes cinegéticos, por entidad federativa.............. $ 317.00
 
-c).- Para comercialización ambulante de aves canoras y de ornato, por entidad federativa.............. $ 43.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-d).- Para comercialización establecida de aves canoras y de ornato.............. $ 322.00
+c).- Para la venta de aves canoras y de ornato, por entidad federativa............. $ 86.00
 
-e).- Para comercialización al mayoreo de aves canoras y de ornato.............. $ 1,646.00
+d) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-f).- Para transportación de aves canoras y de ornato.............. $ 151.00
+e) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
+
+f) (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 g).- Para capturador de aves canoras y de ornato, por entidad federativa.............. $ 102.00
 
@@ -7177,21 +7311,17 @@ g).- Para capturador de aves canoras y de ornato, por entidad federativa........
 
 h).- Por cintillo de aprovechamiento para especies autorizadas en Unidades para la Conservación, Manejo y Aprovechamiento sustentable de la Vida Silvestre (UMA'S)............. $ 100.00
 
-III.- Por cada solicitud de permiso de importación, cualquiera que sea su resolución:
+III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-a).- De productos o subproductos de fauna.............. $ 57.00
+IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-b).- De trofeos de caza.............. $ 189.00
+V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-c).- De especies de acuario, incluyendo peces, tortugas e invertebrados en general..... $ 189.00
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-d).- De animales de fauna silvestre provenientes del medio natural o de criadero........... $ 377.00
+###### ARTICULO 194-W.
 
-e).- De animales de fauna silvestre para fines no comerciales o de investigación científica.............. $ 132.00
-
-IV.- Por cada solicitud de permiso de exportación de fauna silvestre, sus productos o subproductos, cualquiera que sea su resolución.............. $ 57.00
-
-V.- Por cada solicitud de permiso para traslado de fauna silvestre dentro del territorio nacional cualquiera que sea su resolución.............. $ 57.00
+Por los servicios de vida silvestre en materia de expedición de permisos de caza, por cada permiso............. $ 234.00
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -7199,7 +7329,7 @@ V.- Por cada solicitud de permiso para traslado de fauna silvestre dentro del te
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION SEPTIMA. Impacto Ambiental
+#### SECCION SEXTA. Servicios de Flora y Fauna Silvestres
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -7219,31 +7349,31 @@ III.- Por la expedición de cada certificado fitosanitario internacional para la
 
 Por el registro sanitario, su revisión o modificación de los productos que a continuación se señalan, se pagará por cada producto el derecho de registro sanitario, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 I.- Medicamentos alopáticos:
 
-a).- Cuyos ingredientes activos ya se encuentran registrados en México............. $ 2,500.00
+a).- Cuyos ingredientes activos ya se encuentran registrados en México............. $ 4,936.00
 
-b).- Cuyos ingredientes activos no se encuentran registrados en México, pero cuentan con registro y se venden libremente en su país de origen............. $ 3,300.00
+b).- Cuyos ingredientes activos no se encuentran registrados en México, pero cuentan con registro y se venden libremente en su país de origen............. $ 5,370.00
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-II.- Medicamentos homeopáticos y herbolarios............. $ 2,300.00
+II.- Medicamentos homeopáticos y herbolarios............. $ 2,913.00
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-III.- Otros insumos de uso odontológico que no sean medicamentos............. $ 1,900.00
+III.- Otros insumos de uso odontológico que no sean medicamentos............. $ 2,286.00
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-IV.- Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación y productos higiénicos............. $ 1,700.00
+IV.- Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación y productos higiénicos............. $ 2,102.00
 
 V.- Productos que contengan sustancias tóxicas de alto y mediano riesgo para la salud................... $ 940,000.00
 
 VI.- Productos que contengan sustancias tóxicas de bajo riesgo para la salud.......... $ 188,000.00
 
-VII.- Material de curación, material de laboratorio, agentes de diagnóstico o reactivos, o instrumental y equipo médico................ $ 280,000.00
+VII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 Por la modificación al registro de los productos señalados en este artículo, se pagará el 75% del derecho que corresponda al registro.
 
@@ -7251,9 +7381,9 @@ Los productos comprendidos en las fracciones I, II, III y IV que a juicio de la 
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION OCTAVA. Prevención y Control de la Contaminación
+#### SECCION SEPTIMA. Impacto Ambiental
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 195-B.
 
@@ -7273,9 +7403,9 @@ La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la depende
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION NOVENA. Otros Servicios
+#### SECCION OCTAVA. Prevención y Control de la Contaminación
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 195-C.
 
@@ -7286,6 +7416,14 @@ I.- Por cada solicitud de visita de verificación sanitaria para la certificaci�
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 II.- Por cada solicitud de visita de evaluación para la autorización de las unidades de verificación, organismos de certificación, laboratorios de prueba y terceros autorizados............. $ 1,578.17
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+III.- Por cada solicitud de visita de verificación para estupefacientes o psicotrópicos por:
+
+a).- Destrucción............. $ 927.00
+
+b).- Enfajillamiento, sello y lacre con fines de exportación............. $ 927.00
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -7315,13 +7453,13 @@ c).- De riesgo bajo sanitario............... $ 20,000.00
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION DECIMA.. De los Servicios de Sanidad Forestal
+#### SECCION NOVENA. Otros Servicios
 
-> <small>(ADICIONADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 195-E.
 
-Por la expedición de los certificados y dictámenes de los productos, servicios, uso y consumo de agua potable e industrial, se pagará el derecho de certificados sanitarios, conforme a las siguientes cuotas:
+Por la expedición de los certificados y dictámenes de los productos, servicios, uso y consumo de agua potable e industrial, se pagará por cada solicitud de certificado el derecho de certificados sanitarios, conforme a las siguientes cuotas:
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -7329,15 +7467,27 @@ I.- Libre venta para exportación de insumos para la salud............. $ 530.00
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 III.- De transportes, de riesgo alto o medio, directo o indirecto, para la salud humana.. $ 40,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 IV.- De transportes de riesgo bajo, directo o indirecto, para la salud humana…….. $ 20,000.00
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 V.- Sobre pozos de agua para abastecimiento privado, para determinar su calidad sanitaria……… $ 100,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 VI.- Sobre la calidad sanitaria fisicoquímica y bactereológica del agua de uso y consumo humano............. $ 50,000.00
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
 VII.- Sobre las condiciones sanitarias de las plantas, equipos e instalaciones de tratamiento de agua de uso y consumo humano o industrial, que utilicen como fuente de abastecimiento los pozos de carácter privado............ $ 150,000.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 VIII.- Equipos e instalaciones para el proceso del agua para uso y consumo humano e industrial............. $ 100,000.00
 
@@ -7413,9 +7563,9 @@ a).- Por cada solicitud de permiso de importación $ 500.00
 
 b).- Por cada solicitud de prórroga, corrección o de cualquier otra modificación relacionada con la importación $ 200.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-c).- Por cada uno de los muestreos señalados en el permiso sanitario previo de importación, incluyendo análisis de laboratorio $ 545.00
+c).- Por cada uno de los muestreos señalados en el permiso sanitario previo de importación $ 646.00
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -7475,23 +7625,41 @@ III.- Por la corrección o modificación de un certificado expedido y que se enc
 
 No se pagará el derecho por los servicios previstos en la fracción II, cuando el análisis de los productos se realice en un laboratorio privado, y que hubiera sido aprobado por la Secretaría de Salud.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 195-I.
 
-Por los servicios de trámite de cada solicitud de los permisos, expedición de licencias, autorización de personas físicas y morales como terceros auxiliares, así como por la autorización de protocolos de investigación, se pagará el derecho de trámite sanitario, conforme a las siguientes cuotas:
+Por los servicios de trámite de cada solicitud de los permisos, expedición de licencias, autorización de personas físicas y morales como terceros auxiliares, así como por la autorización de protocolos de investigación y de la clave alfanumérica de remedios herbolarios, se pagará el derecho de trámite sanitario, conforme a las siguientes cuotas:
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 I.- Por los servicios de trámite de solicitudes de los permisos sanitarios de adquisición en plaza, muestreo y liberación de materia prima, fármacos o medicamentos que contengan estupefacientes o psicotrópicos............. $ 530.00
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 II.- Por el permiso sanitario de liberación para la venta o distribución de materia prima y producto terminado de productos biológicos, biotecnológicos, hemoderivados o antibióticos, se pagará por cada solicitud de liberación............. $ 530.00
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Por cada solicitud y expedición de licencia sanitaria de insumos para la salud:
 
-a).- Fábrica o laboratorio............. $ 700.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-b).- Almacén de depósito y distribución............. $ 530.00
+a).- Fábrica o laboratorio............. $ 1,644.00
 
-c).- Farmacias, boticas o droguerías............. $ 300.00
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+b).- Almacén de depósito y distribución............. $ 1,552.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+c).- Farmacias, boticas o droguerías............. $ 433.00
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Por la actualización de la licencia sanitaria señalada en esta fracción, se pagará el 75% del derecho que corresponda.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 IV.- Por los servicios de reposición de licencias sanitarias y registros sanitarios de insumos para la salud, con motivo de pérdida, robo o extravío, se pagará conforme a la siguiente cuota:
 
@@ -7499,9 +7667,17 @@ a).- Por la reposición de cada licencia sanitaria............. $ 250.00
 
 b).- Por la reposición de cada registro sanitario............. $ 500.00
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 V.- Por los servicios de aprobación de personas físicas o morales como terceros autorizados auxiliares a la regulación sanitaria, se pagará por cada solicitud de autorización de personas físicas o morales como terceros auxiliares............. $ 1,400.00
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 VI.- Por el servicio de trámite de solicitudes de autorización de protocolos de investigación de cada medicamento con fines de registro sanitario, se pagará por cada solicitud de protocolo de investigación............. $ 1,860.00
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VII.- Por cada solicitud de autorización de la clave alfanumérica de remedios herbolarios, se pagará............. $ 1,500.00
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -7541,9 +7717,9 @@ II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, p
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-#### SECCION PRIMERA. Registro Sanitario
+#### SECCION DECIMA.. De los Servicios de Sanidad Forestal
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO XV. De los Derechos a cargo de Organismos Descentralizados por prestar servicios exclusivos del Estado
 
@@ -7581,9 +7757,9 @@ Ferrocarriles Nacionales de México pagará por concepto de derechos por la pres
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-#### SECCION SEGUNDA. Servicios de Laboratorio
+#### SECCION PRIMERA. Registro Sanitario
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 195-P.
 
@@ -7679,9 +7855,9 @@ En aquellos casos en que las entidades federativas hayan celebrado Convenio de C
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION TERCERA. Fomento y Análisis Sanitario
+#### SECCION SEGUNDA. Servicios de Laboratorio
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 195-S.
 
@@ -7689,9 +7865,9 @@ Por la expedición de constancias de certificados de estudios y de duplicados de
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION CUARTA. Otros Servicios
+#### SECCION TERCERA. Fomento y Análisis Sanitario
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 195-T.
 
@@ -7821,9 +7997,9 @@ III.- Por la autorización para modificar un permiso general en cualquiera de su
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION UNICA. Registro Nacional de Turismo
+#### SECCION CUARTA. Otros Servicios
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 195-W.
 
@@ -7843,9 +8019,9 @@ VI.- Por la elaboración de oficios, cuando siendo mayor de 40 años no obtuvo l
 
 ### CAPITULO I. Bosques
 
-#### SECCION PRIMERA. Educación Militar
+#### SECCION UNICA. Registro Nacional de Turismo
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 195-X.
 
@@ -7855,17 +8031,17 @@ VI.- Por la elaboración de oficios, cuando siendo mayor de 40 años no obtuvo l
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-#### SECCION SEGUNDA. Servicios relacionados con el Registro Federal de Armas de Fuego y el control de explosivos
+#### SECCION PRIMERA. Educación Militar
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO III. Puerto y Atraque
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION TERCERA. Servicio Militar Nacional
+#### SECCION SEGUNDA. Servicios relacionados con el Registro Federal de Armas de Fuego y el control de explosivos
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ## TITULO II. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
 
@@ -8245,7 +8421,7 @@ Las autoridades portuarias, antes de expedir el despacho de salida de una embarc
 
 ### CAPITULO IX. Uso o goce de Inmuebles
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 212.
 
@@ -8345,17 +8521,15 @@ Cuando se concesione el uso o explotación de un activo que forma parte de la ba
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION PRIMERA. Distritos de Riego
+#### SECCION SEGUNDA. Del derecho adicional sobre hidrocarburos
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+#### SECCION TERCERA. Servicio Militar Nacional
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 222.
 
-Las personas físicas o morales, están obligadas al pago del derecho sobre agua por la explotación, uso o aprovechamiento de aguas nacionales por el volumen total consignado en el título de asignación, concesión, autorización o permiso, otorgado por el Gobierno Federal, o por la que exploten, usen o aprovechen de hecho, de acuerdo a la zona de disponibilidad de agua en que se efectúe su extracción de conformidad con la división territorial contenida en el artículo 231 de esta Ley.
-
-Las personas físicas o morales que cuenten con título de asignación, concesión, autorización o permiso otorgado por el Gobierno Federal, podrán aplicar por el volumen de agua no explotada, utilizada o aprovechada las cuotas establecidas en el artículo 223 de esta Ley, que correspondan a las zonas de disponibilidad donde se ubique el aprovechamiento, reducidas en un 90%, siempre y cuando cuenten con medidor que contabilice el volumen de agua realmente explotada, usada o aprovechada.
-
-Para los efectos del párrafo anterior, el usuario para pagar el derecho sobre agua, en la declaración anual del ejercicio restará del volumen asignado, concesionado, autorizado o permisionado, el volumen realmente utilizado, al resultado deberá aplicársele la cuota vigente al final del ejercicio de que se trate reducida en 90%.
+Están obligadas al pago del derecho sobre agua, las personas físicas y las morales que usen, exploten o aprovechen aguas nacionales, bien sea de hecho o al amparo de títulos de asignación, concesión, autorización o permiso, otorgados por el Gobierno Federal, de acuerdo con la zona de disponibilidad de agua en que se efectúe su extracción de conformidad a la división territorial contenida en el artículo 231 de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -8401,6 +8575,22 @@ b).- Concesionadas a empresas que presten el servicio de agua potable o alcantar
 
 c).- Concesionada a colonias populares constituidas como personas morales que por concesión de las personas morales a que se refiere el inciso a), presten el servicio de suministro de agua potable de uso doméstico.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Zona de disponibilidad 1 a 6 $ 199.46
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Zona de disponibilidad 7 $ 92.91
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Zona de disponibilidad 8 $ 46.43
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Zona de disponibilidad 9 $ 23.15
+
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 II.- Generación Hidroeléctrica $ 1.8073
@@ -8443,323 +8633,33 @@ Lo dispuesto en esta fracción no es aplicable a hoteles, centros recreativos de
 
 C.- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 224.
 
 No se pagará el derecho a que se refiere este Capítulo, en los siguientes casos:
 
-I.- Por la extracción o derivación de aguas nacionales que realicen personas físicas dedicadas a actividades agropecuarias para satisfacer las necesidades domésticas y de abrevadero, siempre que el uso o aprovechamiento se realice por medios manuales sin desviar las aguas de su cauce natural.
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+I.- Por la extracción o derivación de aguas nacionales que realicen personas físicas dedicadas a actividades agrícolas o pecuarias para satisfacer las necesidades domésticas y de abrevadero, sin desviar las aguas de su cauce natural.
 
 II.- Por el uso o aprovechamiento de aguas residuales, cuando se deje de usar o aprovechar agua distinta a ésta en la misma proporción o cuando provengan directamente de colectores de áreas urbanas o industriales.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
 III.- Por las aguas que broten o aparezcan en el laboreo de las minas o que provengan del desagüe de éstas, salvo las que se utilicen en la explotación, beneficio o aprovechamiento de las mismas, para uso industrial o de servicios.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+IV.- Por usos agropecuarios, incluyendo a los distritos y unidades de riego, así como a las juntas de agua, con excepción de las usadas en la agroindustria. Tampoco se pagará el derecho establecido en este Capítulo, por el uso o aprovechamiento que en sus instalaciones realicen las instituciones educativas, diferentes a la conservación y mantenimiento de zonas de ornato o deportivas. Estas instituciones deberán contar con reconocimiento de validez oficial de estudios en los términos de las leyes de la materia.
 
-lV.- Por usos agropecuarios, incluyendo a los distritos y unidades de riego, así como a las juntas de agua, con excepción de las usadas en la agroindustria. Tampoco se pagará el derecho establecido en este Capítulo, por el uso o aprovechamiento que en sus instalaciones realicen las instituciones educativas que cuenten con autorización o con reconocimiento de validez oficial de estudios en los términos de las leyes de la materia.
+V.- Por las aguas que regresen a su fuente original o que sean vertidas en cualquier otro sitio previamente autorizado por la Comisión Nacional del Agua en los términos de la Ley de Aguas Nacionales, siempre que tengan el certificado de calidad del agua expedido por esta última en los términos del Reglamento de la citada Ley, de que cumple los lineamientos de calidad del agua señalados en la tabla contenida en esta fracción, de acuerdo con el grado de calidad correspondiente al destino inmediato posterior y se acompañe una copia de dicho certificado a la declaración del ejercicio. Estos contribuyentes deberán tener instalado medidor tanto a la entrada como a la salida de las aguas.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+El certificado a que se refiere el párrafo anterior será válido únicamente por el periodo del ejercicio fiscal por el que se expide.
 
-V.- Por las aguas que regresen a su fuente original o que sean vertidas en cualquier otro sitio previamente autorizado por la Comisión Nacional del Agua en los términos de la Ley de Aguas Nacionales, siempre que tengan el certificado de calidad del agua expedido por esta última en los términos del Reglamento de la citada Ley de Aguas Nacionales, de que cumple, con los lineamientos de calidad del agua señalados en la siguiente tabla, de acuerdo con el grado de calidad correspondiente al destino inmediato posterior y se acompañe una copia de dicho certificado a la declaración del ejercicio. Estos contribuyentes deberán tener instalado medidor tanto a la entrada como a la salida de las aguas.
+El certificado de calidad del agua deberá solicitarse dentro de los tres primeros meses del ejercicio fiscal de que se trate. En caso de ser solicitado posteriormente al plazo antes señalado, el certificado será válido a partir del momento en que se solicitó.
 
-TABLA
+(VEASE ARCHIVO ANEXO)
 
-LINEAMIENTOS DE CALIDAD DEL AGUA.
-
-PARÁMETROS U S O S
-
-Unidades en mg/L si no
-
-se indican otras 1 2 3 4
-
-PARÁMETROS INORGÁNICOS.
-
-ALCALINIDAD (como CaCO3) 400.0 - (I) (I)
-
-ALUMINIO 0.02 5.0 0.05 0.2
-
-ANTIMONIO 0.1 0.1 0.09 -
-
-ARSÉNICO 0.05 0.1 0.2 0.04 (como As III) (como As III)
-
-ASBESTOS (fibras/L) 3000 - - -
-
-BARIO 1.0 - 0.01 0.5
-
-BERILIO 0.005 (III) 0.003 0.1
-
-BORO 1.0 0.7 (V) 0.009 (XII)
-
-CADMIO 0.01 0.01 (XIII) 0.0002
-
-CIANURO (como CN -) 0.02 0.02 0.005 (XII) 0.005
-
-CLORUROS (como Cl -) 250 150 250 -
-
-COBRE 1.0 0.20 (VII) 0.01
-
-CROMO TOTAL 0.05 0.1 0.05 0.01
-
-FIERRO 0.3 5.0 1.0 0.05
-
-FLUORUROS (como F -) 1.4 1.0 1.0 0.5
-
-FOSFATOS (como PO4 3-) 0.1 - (IX) 0.002
-
-MANGANESO 0.05 0.2 - 0.02
-
-MERCURIO 0.001 - 0.0005 0.0001
-
-NÍQUEL 0.01 0.2 (X) 0.002
-
-NITRATOS (NO3- como N) 5.0 - - 0.04
-
-NITRITOS (NO2- como N) 0.05 - - 0.01
-
-NITRÓGENO AMONIACAL (como N) - - 0.06 0.01
-
-OXÍGENO DISUELTO (XI) 4.0 - 5.0 5.0
-
-PLATA 0.001 - (XIV) 0.002
-
-PLOMO 0.05 0.5 (XV) 0.01
-
-SELENIO (como Selenato) 0.01 0.02 0.008 0.005
-
-SULFATOS (como SO42-) 250 250 - -
-
-SULFUROS (como H2S) 0.2 - 0.002 0.002
-
-TALIO 0.01 - 0.01 0.02
-
-ZINC 5.0 2.0 (XVII) 0.02
-
-PARÁMETROS ORGÁNICOS.
-
-ACENAFTENO 0.02 - 0.02 0.01
-
-ÁCIDO 2,4 DICLOROFENOXIACÉTICO 0.1 - - -
-
-ACRILONITRILO 0.0006 - 0.07 -
-
-ACROLEÍNA 0.3 0.1 0.0007 0.0005
-
-ALDRIN 0.001 0.02 0.0003 0.0074
-
-BENCENO 0.01 - 0.05 0.005
-
-BENCIDINA 0.0001 - 0.02 -
-
-BIFENILOS POLICLORADOS 0.0005 - 0.0005 0.0005
-
-BHC (IV) - - 0.001 0.000004
-
-BHC (LINDANO) 0.003 - 0.002 0.0002
-
-BIS (2-CLOROETIL) ÉTER 0.0003 - 0.00238 -
-
-BIS (2-CLOROISOPROPIL) ÉTER 0.03 - 0.00238 -
-
-BIS (2-ETILHEXIL) FTALATO 0.032 - 0.0094 0.02944
-
-4-BROMOFENIL-FENIL-ÉTER - - 0.01 -
-
-BROMOFORMO 0.002 - - -
-
-BROMURO DE METILO 0.002 - - -
-
-CARBONO ORGÁNICO:
-
-EXTRACTABLE EN ALCOHOL 1.5 - - -
-
-EXTRACTABLE EN CLOROFORMO 0.3 - - -
-
-CLORDANO (Mezcla Técnica de
-
-Metabolitos) 0.003 0.003 0.002 0.00009
-
-CLOROBENCENO 0.02 - 0.0025 0.0016
-
-2-CLOROETIL-VINIL-ÉTER - - 0.5 -
-
-2-CLOROFENOL 0.03 - 0.04 0.1
-
-CLOROFORMO 0.03 - 0.03 0.1
-
-CLORONAFTALENOS - - 0.02 0.0001
-
-CLORURO DE METILENO 0.002 - - -
-
-CLORURO DE METILO 0.002 - - -
-
-CLORURO DE VINILO 0.005 - - -
-
-DDD=Diclorofenildicloroetano 0.001 - 0.00001 0.00001
-
-DDE=1,1 Di(clorofenil)-2,2
-
-dicloroetileno - 0.04 0.01 0.0001
-
-DDT=1,1 Di(clorofenil)-2,2,2
-
-tricloroetano 0.001 - 0.001 0.0001
-
-DICLOROBENCENOS 0.4 - 0.01 0.02
-
-1,2 DICLOROETANO 0.003 - 1.2 1.1
-
-1,1 DICLOROETILENO 0.003 - 0.116 2.24
-
-1,2 DICLOROETILENO 0.0003 - 0.116 2.24
-
-2,4 DICLOROFENOL 0.03 - 0.02 -
-
-1,2 DICLOROPROPANO - - 0.2 0.1
-
-1,2 DICLOROPROPILENO 0.09 - 0.06 0.008
-
-DIELDRIN 0.001 0.02 0.002 0.0009
-
-DIETILFTALATO 0.35 - 0.0094 0.02944
-
-1,2 DIFENILHIDRACINA 0.0004 - 0.003 -
-
-2,4 DIMETILFENOL 0.4 - 0.02 -
-
-DIMETILFTALATO 0.3 - 0.0094 0.02944
-
-2,4 DINITROFENOL 0.07 - 0.002 0.05
-
-DINITRO-o-CRESOL 0.01 - - 0.01
-
-2,4 DINITROTOLUENO 0.001 - 0.0033 0.0059
-
-2,6 DINITROTOLUENO - - 0.0033 0.0059
-
-ENDOSULFAN (Alfa y Beta) 0.07 - 0.0002 0.00003
-
-ENDRIN 0.0005 - 0.00002 0.00004
-
-ETILBENCENO 0.3 - 0.1 0.5
-
-FENOL 0.001 - 0.1 0.06
-
-FLUORANTENO 0.04 - - 0.0004
-
-GASES DISUELTOS - - (XVIII) (XVIII)
-
-HALOMETANOS 0.002 - 0.1 -
-
-HEPTACLORO 0.0001 0.02 0.0005 0.0005
-
-HEXACLOROBENCENO 0.00005 - 0.0025 0.0016
-
-HEXACLOROBUTADIENO 0.004 - 0.0009 0.0003
-
-HEXACLOROCICLOPENTADIENO 0.001 - 0.0001 0.0001
-
-HEXACLOROETANO 0.02 - 0.01 0.009
-
-HIDROCARBUROS AROMATICOS 0.0001 - - 0.1
-
-POLINUCLEARES
-
-ISOFURONA 0.052 - 1.2 0.1
-
-METOXICLORO 0.03 - 0.000005 0.00044
-
-NAFTALENO - - 0.02 0.02
-
-NITROBENCENO 0.020 - 0.3 0.07
-
-2-NITROFENOL Y 4-NITROFENOL 0.07 - 0.002 0.05
-
-N-NITROSODIFENILAMINA 0.05 - 0.0585 0.033
-
-N-NITROSODIMETILAMINA 0.0002 - 0.0585 0.033
-
-N-NITROSODI-N-PROPILAMINA - - 0.0585 0.033
-
-PARATION 0.0001 - 0.0001 0.0001
-
-PENTACLOROFENOL 0.03 - 0.0005 0.0005
-
-SUSTANCIAS ACTIVAS AL AZUL
-
-DE METILENO 0.5 - 0.1 0.1
-
-2,3,7,8 TETRACLORODIBENZO-P-
-
-DIOXINA 0.0001 - 0.0001 0.0001
-
-1,1,2,2 TETRACLOROETANO 0.002 - 0.09 0.09
-
-TETRACLOROETILENO 0.008 - 0.05 0.1
-
-TETRACLORURO DE CARBONO 0.0002 - 0.3 0.5
-
-TOLUENO 0.7 - 0.2 0.06
-
-TOXAFENO 0.005 0.005 0.0002 0.0002
-
-1,1,1 TRICLOROETANO 0.2 - 0.2 0.3
-
-1,1,2 TRICLOROETANO 0.006 - 0.2 -
-
-TRICLOROETILENO 0.03 - 0.01 0.02
-
-2,4,6 TRICLOROFENOL 0.01 - 0.01 -
-
-PARÁMETROS FÍSICOS.
-
-ASPECTOS ESTÉTICOS (II) (II) (II) (II)
-
-COLOR (Unidades de Escala Pt-Co) 75.0 - (VIII) (VIII)
-
-CONDUCTIVIDAD ELÉCTRICA
-
-(microsiemens/cm) - 1000 - -
-
-GRASAS Y ACEITES AUSENTE - AUSENTE AUSENTE
-
-MATERIA FLOTANTE AUSENTE AUSENTE AUSENTE AUSENTE
-
-OLOR AUSENTE - - -
-
-POTENCIAL HIDRÓGENO (pH)
-
-(Unidades de pH) 6.0 - 9.0 6.0 - 9.0 6.5 - 8.5 6.0 - 9.0
-
-SABOR CARACTERISTICO - - -
-
-SÓLIDOS DISUELTOS TOTALES 500.0 500.0 (XVI) - -
-
-SÓLIDOS SUSPENDIDOS TOTALES 50.0 50.0 (VIII) (VIII)
-
-SÓLIDOS TOTALES 550.0 - - -
-
-TEMPERATURA (°C) CN + 2.5 - CN + 1.5 CN + 1.5
-
-TURBIEDAD (Unidades de turbiedad
-
-nefelométricas) 10 - (VIII) (VIII)
-
-PARÁMETROS MICROBIOLÓGICOS.
-
-COLIFORMES FECALES
-
-(NMP/100 ml) 1000 1000 1000 240
-
-Para la aplicación de los valores contenidos en la tabla anterior, se deberá estar a lo siguiente:
+Para la aplicación de los valores contenidos en la tabla de lineamientos de calidad del agua, se deberá considerar lo siguiente:
 
 USO 1: Fuente de abastecimiento para uso público urbano.
 
-USO 2: Riego agrícola.
+USO 2: Riego Agrícola.
 
 USO 3: Protección a la vida acuática: Agua dulce, incluye humedales.
 
@@ -8767,79 +8667,33 @@ USO 4: Protección a la vida acuática: Aguas costeras y estuarios.
 
 (I): La alcalinidad natural no debe reducirse en más del 25%, ni cuando ésta sea igual o menor a 20 mg/l.
 
-(II): El cuerpo de agua debe estar libre de sustancias que: 1.- Formen depósitos que cambien adversamente las características físicas del agua; 2.- Contengan materia flotante que den apariencia desagradable; 3.- Produzcan olor, sabor o turbiedad; 4.- Propicien la vida acuática indeseable o desagradable.
+(II): Cultivos sensibles al boro, un máximo de 0.75 mg/l; otros hasta 3 mg/l.
 
-(III): Para riego continuo, un máximo de 0.1 mg/l y para suelos alcalinos y de textura fina, un máximo de 0.5 mg/l.
+(III): La concentración promedio de 4 días de esta sustancia no debe exceder este nivel, más de una vez cada año.
 
-(IV): Los datos para BHC involucran la mezcla de isómeros alfa, beta y epsilon.
+(IV): Cultivos sensibles 500-1000 mg/l; cultivos con manejo especial 1000-2000 mg/l; cultivos tolerantes en suelos permeables 2000-5000 mg/l; para frutas sensibles relación de absorción de sodio RAS<=4, y para forrajes de 8-18, cuando la descarga sea directamente a suelo con uso en riesgo agrícola.
 
-(V): Cultivos sensibles al boro, un máximo de 0.75 mg/l; otros hasta 3 mg/l.
+(V): La concentración total de gases disueltos no debe exceder a 1.1 veces el valor de saturación en las condiciones hidrostáticas y atmosféricas prevalecientes.
 
-(VI): La concentración promedio de cadmio de 4 días en mg/L no debe exceder más de una vez cada 3 años el valor de la siguiente ecuación:
+C.N. Condiciones Naturales del sitio donde sea vertida la descarga de aguas residuales.
 
-C(mg/L)=exp(0.7852[ln(dureza)]-3.49) Dureza=mg/l como CaCO3.
-
-(VII): La concentración promedio de cobre de 4 días en mg/L no debe exceder más de una vez cada 3 años el valor de la siguiente ecuación:
-
-Cu(mg/L)=exp(0.8545[ln(dureza)]-1.465) Dureza=mg/l como CaCO3.
-
-(VIII): Los sólidos suspendidos en combinación con el color, no deben reducir la profundidad del nivel de compensación de la luz para la actividad fotosintética en más de 10% a partir del valor natural.
-
-(IX): En influentes de los embalses, el fósforo no debe exceder de 0.05 mg/l; dentro del embalse, menor a 0.0059 mg/l; y para ríos hasta 0.1 mg/l.
-
-(X): La concentración promedio de níquel de 4 días en mg/L no debe exceder más de una vez cada 3 años el valor numérico en la siguiente ecuación:
-
-Ni(mg/L)=exp(0.846[ln(dureza)]+1.1645) Dureza=mg/l como CaCO3.
-
-(XI): Valores mínimos admisibles.
-
-(XII): La concentración promedio de 4 días de esta sustancia no debe exceder este nivel, más de una vez cada 3 años.
-
-(XIII): La concentración promedio de cadmio de 4 días, en µg/L, no debe exceder más de una vez, cada 3 años, el valor numérico de la siguiente ecuación:
-
-Cd (µg/L)=exp(0.7852 [ln (dureza)]- 3.490); Dureza=mg/l como CaCO3.
-
-(XIV): La concentración de plata en mg/L no debe exceder el valor numérico dado por la siguiente ecuación:
-
-Ag(mg/L)=exp(1.72[ln(dureza)]-6.52) Dureza=mg/l como CaCO3.
-
-(XV): La concentración promedio de plomo de 4 días en mg/L no debe exceder más de una vez cada 3 años el valor numérico en la siguiente ecuación:
-
-Pb(mg/L)=exp(1.273[ln(dureza)]-4.075) Dureza=mg/L como CaCO3.
-
-(XVI): Cultivos sensibles 500-1000 mg/l; Cultivos con manejo especial 1000-2000 mg/l; Cultivos tolerantes en suelos permeables 2000-5000 mg/l;
-
-Para frutas sensibles relación de absorción de sodio (RAS)<=4, y para forrajes de 8-18.
-
-(XVII): La concentración promedio de zinc de 4 días en mg/L no debe exceder más de una vez cada 3 años el valor numérico en la siguiente ecuación:
-
-Zn(mg/L)=exp(0.8473[ln(dureza)]+10.3604) Dureza=mg/l como CaCO3.
-
-(XVIII): La concentración total de gases disueltos no debe exceder a 1.1 veces el valor de saturación en las condiciones hidrostáticas y atmosféricas prevalentes.
-
-C.N. Condiciones Naturales del cuerpo receptor.
-
-NMP= NÚMERO MÁS PROBABLE. BHC=HCH=1,2,3,4,5,6 HEXACLOROCICLOHEXANO. NIVELES MÁXIMOS EN mg/L, EXCEPTO CUANDO SE INDIQUE OTRA UNIDAD.
+NMP= Número más probable. BHC=HCH=1,2,3,4,5,6 Hexaclorociclohexano. Niveles máximos en mg/l, excepto cuando se indique otra unidad.
 
 Lo dispuesto en esta fracción no será aplicable al agua que se use o aproveche para la generación de energía hidroeléctrica.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+VI.- Por la explotación, extracción, uso o aprovechamiento de las aguas interiores salobres, cuando se obtenga certificado expedido por la Comisión Nacional del Agua en el que se establezca que dicha agua contiene más de 2,500 miligramos por litro, de sólidos disueltos totales, independientemente de si se desaliniza o se trata. Dicho certificado será válido durante tres ejercicios fiscales contado aquél en que fue expedido.
 
-VI.- Por la explotación, extracción, uso o aprovechamiento de las aguas interiores salobres, cuando se obtenga certificado expedido por la Comisión Nacional del Agua en el que establezca que dicha agua contiene más de 2,500 miligramos por litro, de sólidos disueltos totales, independientemente de si se desaliniza o se trata. Dicho certificado será válido únicamente por el ejercicio fiscal por el que se expide.
+El certificado de calidad del agua deberá solicitarse dentro de los tres primeros meses del ejercicio fiscal de que se trate. En caso de ser solicitado posteriormente al plazo antes señalado, será valido a partir del momento en que se solicitó.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+Estos contribuyentes deberán tener instalado medidor tanto a la entrada como a la salida de las aguas.
 
 VII.- Por el uso o aprovechamiento de aguas efectuado por las poblaciones rurales de hasta 2,500 habitantes de conformidad con el último Censo General de Población y Vivienda y por los organismos operadores de agua potable y alcantarillado, públicos o privados, que abastezcan de agua para consumo doméstico a estas poblaciones, por los volúmenes suministrados para este fin.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-La Comisión Nacional del Agua, previa opinión de las Secretarías de Hacienda y Crédito Público y de Comercio y Fomento Industrial, podrá otorgar un subsidio en el pago del derecho sobre agua, a las personas que usen o aprovechen aguas nacionales, siempre que demuestren ante la Comisión Nacional del Agua con los estudios técnicos que procedan que el agua no tiene uso alternativo y ésta expida el certificado respectivo.
-
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
 VIII.- Por el uso o aprovechamiento de aguas nacionales efectuada por entidades públicas o privadas, que sin fines de lucro presten servicios de asistencia médica, servicio social o de impartición de educación escolar gratuita en beneficio de poblaciones rurales de hasta 2,500 habitantes de conformidad con el último Censo General de Población y Vivienda.
+
+Las personas físicas o morales que estén exentas en los términos del presente artículo y que realicen usos o aprovechamientos diferentes a éstos, deberán medir los volúmenes y pagar los derechos respectivos en los términos del presente Capítulo. Cuando no se midan los volúmenes exentos respecto de los que sí causan derechos, estarán obligados al pago de los mismos por la totalidad de los volúmenes de agua que usen o aprovechen, quedando sin efecto las citadas exenciones.
+
+El cumplimiento de calidad del agua a que se refieren las fracciones V y VI del presente artículo, se realizará con base en determinaciones analíticas efectuadas por un laboratorio acreditado ante el Sistema Nacional de Acreditamiento de Laboratorios de Prueba (SINALP) de la Secretaría de Comercio y Fomento Industrial y aprobado por la Comisión Nacional del Agua.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -8853,7 +8707,9 @@ A fin de hacer efectiva dicha disminución, los contribuyentes deberán presenta
 
 II.- $ 1.0019 por cada metro cúbico de agua potable que se proporcione al Distrito Federal o a los municipios del Valle de México, a través de su conexión transitoria a la respectiva red de agua potable, tratándose de pozos que no sean propiedad de dichas instancias de gobierno, pero que por necesidad pública las mismas requieran de su uso o aprovechamiento.
 
-La disminución a que se refiere este artículo, se efectuará en la declaración del ejercicio de que se trate. En caso de que el monto del derecho del ejercicio resulte inferior al monto a disminuir conforme a este artículo, la diferencia podrá ser acreditada en la declaración definitiva del siguiente ejercicio, debiendo actualizarse de conformidad con lo previsto en el artículo 17-A del Código Fiscal de la Federación, por el periodo transcurrido desde la fecha en que se presentó la declaración del ejercicio de que se trate, hasta la fecha en que se presente la declaración del ejercicio inmediato posterior al mismo.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+El monto a acreditar, deberá efectuarse en la declaración provisional trimestral o bien en la declaración del ejercicio fiscal que corresponda. Cuando el monto a acreditar sea mayor al derecho a cargo, el excedente se descontará en las siguientes declaraciones provisionales trimestrales o anuales.
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -8863,9 +8719,9 @@ Los contribuyentes del derecho a que se refiere este Capítulo, deberán contar 
 
 > <small>(DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
-#### SECCION SEGUNDA. Aguas Distintas de las de Distritos de Riego
+#### SECCION PRIMERA. Distritos de Riego
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 226.
 
@@ -8967,7 +8823,7 @@ VI.- El volumen que señale el Registro Nacional correspondiente o cualquier otr
 
 Tratándose del derecho a que se refiere el presente Capítulo, la Comisión Nacional del Agua está facultada para ejercer las atribuciones a que se refiere el artículo 192-E de esta Ley, así como en la distribución de las multas para los fondos que en el mismo se señala.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 231.
 
@@ -8975,21 +8831,21 @@ Las zonas de disponibilidad a que se refiere el artículo 223 de esta Ley, son l
 
 ZONA 1.
 
+Distrito Federal.
+
+Estado de México: Atizapán de Zaragoza, Chalco, Chiconcuac, Chimalhuacán, Coacalco, Cuautitlán, Cuautitlán-lzcalli, Ecatepec, Huixquilucan, Ixtapaluca, Melchor Ocampo, Naucalpan de Juárez, Nezahualcóyotl, Nicolás Romero, La Paz, Tecámac, Tepotzotlán, Texcoco, Tlalnepantla de Baz, Tultepec, Tultitlán y Valle de Chalco Solidaridad.
+
+Estado de San Luis Potosí: Cerro de San Pedro.
+
+ZONA 2.
+
+Estado de Aguascalientes: Aguascalientes.
+
 Estado de Baja California: Ensenada, Playas de Rosarito, Tecate y Tijuana.
 
 Estado de Baja California Sur: La Paz.
 
-Distrito Federal.
-
-Estado de México: Atizapán de Zaragoza, Chalco, Chiconcuac, Chimalhuacán, Coacalco, Cuautitlán, Cuautitlán-Izcalli, Ecatepec, Huixquilucan, Ixtapaluca, Melchor Ocampo, Naucalpan de Juárez, Nezahualcóyotl, Nicolás Romero, La Paz, Tecámac, Tepotzotlán, Texcoco, Tlalnepantla de Baz, Tultepec, Tultitlán y Valle de Chalco Solidaridad.
-
-Estado de Quintana Roo: Benito Juárez.
-
-ZONA 2.
-
-Estado de Aguascalientes: Aguascalientes, San José de Gracia. Estado de Coahuila: Matamoros y Torreón.
-
-Estado de Colima: Manzanillo.
+Estado de Coahuila: Matamoros y Torreón.
 
 Estado de Durango: Gómez Palacio y Lerdo.
 
@@ -8999,249 +8855,267 @@ Estado de Hidalgo: Tizayuca.
 
 Estado de Jalisco: Guadalajara, Tlaquepaque, Tonalá y Zapopan.
 
-Estado de México: Acolman, Aculco, Almoloya de Juárez, Amecameca, Apaxco, Atenco, Atizapán, Atlacomulco, Capulhuac, Chapa de Mota, Chiautla, Chicoloapan, Huehuetoca, Jilotepec, Jocotitlán, Lerma, Metepec, Morelos, Nopaltepec, Ocoyoacac, Ozumba, San Antonio la Isla, San Martín de las Pirámides, Teoloyucan, Teotihuacán, Tepetlaoxtoc, Tianguistenco, Tlalmanalco, Toluca, Villa del Carbón, Zinacantepec y Zumpango.
+Estado de México: Atizpan y Toluca.
 
-Estado de Nuevo León: Abasolo, Allende, Cadereyta Jiménez, Carmen, Ciénega de Flores, Doctor González, Galeana, García, General Bravo, General Terán, General Zuazua, Juárez, Lampazos de Naranjo, Linares, Marín, Montemorelos, Pesquería, Salinas Victoria y Santiago.
+Estado de Quintana Roo: Benito Juárez.
 
-Estado de Quintana Roo: Cozumel, Isla Mujeres y Solidaridad.
-
-Estado de San Luis Potosí: Cerro de San Pedro y Villa de Ramos.
+Estado de San Luis Potosí: San Luis Potosí, Soledad de Graciano Sánchez, Villa de Reyes, Villa de Ramos y Zaragoza.
 
 ZONA 3.
 
-Estado de Chihuahua: Aldama y Chihuahua. Estado de Coahuila: Francisco I. Madero, Nava, Piedras Negras, Ramos Arizpe, Saltillo, San Pedro de las Colonias y Viesca.
+Estado de Aguascalientes: San José de Gracia.
+
+Estado de Chihuahua: Aldama y Chihuahua.
+
+Estado de Coahuila: Francisco I. Madero, Ramos Arizpe, Saltillo, San Pedro de las Colonias y Viesca.
+
+Estado de Colima: Manzanillo.
 
 Estado de Durango: Mapimí y Tlahualilo.
 
 Estado de Guanajuato: Doctor Mora.
 
-Estado de Guerrero: Acapulco de Juárez.
+Estado de México: Acambay, Acolman, Aculco, Almoloya de Juárez, Amecameca, Apaxco, Atenco, Atlacomulco, Calimaya, Capulhuac, Cocotitlán, Coyotepec, Chapultepec, Chapa de Mota, Chiautla, Chicoloapan, Huehuetoca, Isidro Fabela, Ixtlahuaca, Jalatlaco, Jaltenco, Jilotepec, Jocotitlán, Lerma, Metepec, Morelos, Nextlalpan, Nopaltepec, Ocoyoacac, Ozumba, Rayón, San Antonio la Isla, San Martín de las Pirámides, Temascalcingo, Teoloyucan, Teotihuacán, Tepetlaoxtoc, Tianguistenco, Tlalmanalco, Texcalyacac, Villa del Carbón, Zinacantepec y Zumpango.
 
-Estado de Jalisco: Puerto Vallarta.
+Estado de Nuevo León: Abasolo, Allende, Apodaca, Cadereyta Jiménez, Carmen, Ciénega de Flores, Doctor González, Galeana, García, Garza García, General Bravo, General Escobedo, General Terán, General Zuazua, Guadalupe, Juárez, Lampazos de Naranjo, Linares, Marín, Montemorelos, Monterrey, Pesquería, San Nicolás de los Garza, Salinas Victoria, Santiago y Santa Catarina.
 
-Estado de México: Acambay, Almoloya del Río, Atlautla, Axapusco, Ayapango, Calimaya, Cocotitlán, Coyotepec, Chapultepec, Ecatzingo, Hueypoxtla, Isidro Fabela, Ixtlahuaca, Jalatlaco, Jaltenco, Jilotzingo, Juchitepec, Mexicaltzingo, Nextlalpan, El Oro, Otumba, Otzolotepec, Papalotla, Polotitlán, Rayón, San Felipe del Progreso, San Mateo Atenco, Soyaniquilpan de Juárez, Temamatla, Temascalapa, Temascalcingo, Temoaya, Tenango del Aire, Tepetlixpa, Tequixquiac, Texcalyacac, Tezoyuca, Timilpan y Xonacatlán.
+Estado de Quintana Roo: Cozumel, en su porción insular y Solidaridad.
 
-Estado de Morelos: Cuernavaca.
-
-Estado de Nuevo León: Agualeguas, Los Aldamas, Anáhuac, Aramberri, Bustamante, Cerralvo, China, Doctor Arroyo, Doctor Coss, General Treviño, General Zaragoza, Los Herreras, Higueras, Hualahuises, Iturbide, Melchor Ocampo, Mier y Noriega, Mina, Parás, Los Ramones, Rayones, Sabinas Hidalgo, Santa Catarina, Vallecillo y Villaldama.
-
-Estado de San Luis Potosí: Cedral, Matehuala, San Luis Potosí, Soledad de Graciano Sánchez, Villa de Reyes y Zaragoza.
+Estado de San Luis Potosí: Cedral y Matehuala.
 
 ZONA 4.
 
-Estado de Aguascalientes: Jesús María y San Francisco de los Romo.
-
-Estado de Baja California Sur: Los Cabos y Loreto.
-
-Estado de Chihuahua: Hidalgo del Parral.
-
-Estado de Durango: General Simón Bolívar, Nazas, Rodeo, San Juan de Guadalupe, San Luis del Cordero y San Pedro del Gallo.
-
-Estado de Hidalgo: Zapotlán de Juárez.
-
-Estado de México: Jiquipilco.
-
-Estado de Nuevo León: Apodaca, Garza García, General Escobedo, Guadalupe, Monterrey y San Nicolás de los Garza.
-
-Estado de Querétaro: Colón.
-
-Estado de San Luis Potosí: Ahualulco, Catorce, Charcas, Mexquitic de Carmona, Moctezuma, Salinas, Santo Domingo, Vanegas, Venado, Villa de Arriaga, Villa de La Paz, Villa de Guadalupe y Villa Juárez.
-
-Estado de Sonora: Altar y Atil.
-
-Estado de Zacatecas: Calera, Guadalupe, Morelos, Veta Grande y Zacatecas.
-
-ZONA 5.
-
-Estado de Aguascalientes: Asientos, Calvillo, Cosío, Llano el, Pabellón de Arteaga, Rincón de Romos y Tepezalá.
+Estado de Aguascalientes: Asientos, Calvillo, Cosío, Jesús María, Pabellón de Arteaga, Llano El, Rincón de Romos, San Francisco de los Romo y Tepezalá.
 
 Estado de Baja California: Mexicali.
 
+Estado de Baja California Sur: Los Cabos y Loreto.
+
+Estado de Chihuahua: Allende, Ascensión, Camargo, Delicias, Janos, Jiménez, Juárez, Julimes, La Cruz, López, Meoqui, Rosales, San Francisco de Conchos y Saucillo.
+
+Estado de Coahuila: Allende, Monclova, Nava, y Piedras Negras.
+
+Estado de Durango: San Pedro del Gallo.
+
+Estado de Guanajuato: Abasolo, Allende, Apaseo el Alto, Apaseo el Grande, Celaya, Comonfort, Dolores Hidalgo, Irapuato, Pueblo Nuevo, Romita, Salamanca, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, Santa Cruz de Juventino Rosas, Silao, Valle de Santiago y Villagrán.
+
+Estado de Guerrero: Acapulco de Juárez.
+
+Estado de Hidalgo: Almoloya, Apan, Cuautepec de Hinojosa, Epazoyucan, Huichapan, Pachuca de Soto, Mineral de la Reforma, Singuilucan, Tepeapulco, Tlanalapa, Tolcayuca, Tulancingo de Bravo y Zapotlán de Juárez.
+
+Estado de Jalisco: El Salto y Puerto Vallarta.
+
+Estado de México: Atlautla, Ayapango, Axapusco, Almoloya del Río, Ecatzingo, Hueypoxtla, Juchitepec, Jilotzingo, Mexicaltzingo, El Oro, Otumba, Otzolotepec, Papalotla, Polotitlán, San Felipe del Progreso, San Mateo Atenco, Soyaniquilpan de Juárez, Temamatla, Temascalapa, Temoaya, Tenango del Aire, Tepetlixpa, Tequixquiac, Tezoyuca, Timilpan y Xonacatlán.
+
+Estado de Morelos: Axochiapan, Cuernavaca y Tepalcingo.
+
+Estado de Nuevo León: Agualeguas, Los Aldamas, Anáhuac, Aramberri, Bustamante, Cerralvo, China, Doctor Arroyo, Doctor Coss, General Treviño, General Zaragoza, Los Herreras, Hidalgo, Higueras, Hualahuises, Iturbide, Melchor Ocampo, Mier y Noriega, Mina, Parás, Los Ramones, Rayones, Sabinas Hidalgo, Vallecillo y Villaldama.
+
+Estado de Puebla: Amozoc, Cuapiaxtla de Madero, Cuauntinchán, Ocoyucan, Palmar de Bravo, Puebla, Quecholac, San Andrés Cholula, San Pedro Cholula, Santa Isabel Cholula, Santo Tomás Hueyotlipan, Tecamachalco y Tehuacán.
+
+Estado de Querétaro: Colón, Corregidora, El Marqués, Pedro Escobedo, Querétaro, San Juan del Río y Tequisquiapan.
+
+Estado de San Luis Potosí: Ahualulco, Catorce, Charcas, Mexquitic de Carmona, Moctezuma, Santo Domingo, Vanegas, Venado y Villa de Arriaga.
+
+Estado de Sonora: Altar y Atil, Caborca, Cananea, Empalme, Guaymas, Hermosillo, Nogales, Pitiquito, General Plutarco Elías Calles, Puerto Peñasco y San Luis Río Colorado.
+
+Estado de Zacatecas: Fresnillo, Guadalupe, Ojocaliente y Zacatecas.
+
+ZONA 5.
+
 Estado de Baja California Sur: Comondú y Mulegé.
 
-Estado de Chihuahua: Allende, Aquiles Serdán, Ascensión, Bocoyna, Casas Grandes, Camargo, Coronado, La Cruz, Delicias, Galeana, Janos, Jiménez, Juárez, Julimes, López, Matamoros, Meoqui, Nuevo Casas Grandes, Ojinaga, Rosales, San Francisco de Conchos, San Francisco del Oro, Santa Bárbara y Saucillo. Estado de Coahuila: Abasolo, Allende, Arteaga, Candela, Cuatrociénegas, Frontera, Monclova, Nadadores, Parras, Progreso, Sabinas, Sacramento, San Buenaventura, San Juan de Sabinas, y Villa Unión.
+Estado de Chihuahua: Ahumada, Aquiles Serdán, Buenaventura, Casas Grandes, Coronado, Galeana, Hidalgo del Parral, Matamoros, Nuevo Casas Grandes, San Francisco del Oro y Santa Bárbara.
 
-Estado de Durango: Poanas y Vicente Guerrero.
+Estado de Coahuila: Abasolo, Arteaga, Candela, Cuatrociénegas, Frontera, Nadadores, Parras, Progreso, Sabinas, Sacramento, San Buenaventura, San Juan de Sabinas y Villa Unión.
 
-Estado de Guanajuato: Abasolo, Allende, Apaseo el Alto, Apaseo el Grande, Celaya, Ciudad Manuel Doblado, Comonfort, Cortázar, Cuerámaro, Dolores Hidalgo, Huanímaro, Irapuato, Jaral del Progreso, Moroleón, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, Salamanca, Salvatierra, San Diego de la Unión, San Felipe, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, Santa Cruz de Juventino Rosas, Silao, Uriangato, Valle de Santiago, Villagrán y Yuriria.
+Estado de Durango: Canatlán, General Simón Bolívar, Nazas, Poanas, Rodeo, San Juan de Guadalupe, San Luis del Cordero y Vicente Guerrero.
 
-Estado de Hidalgo: Almoloya, Apan, Cuautepec de Hinojosa, Emiliano Zapata, Epazoyucan, Huichapan, Metepec, Mineral de la Reforma, Pachuca de Soto, Santiago Tulantepec de Lugo Guerrero, Singuilucan, Tepeapulco, Tlanalapa, Tolcayuca, Tulancingo, Villa de Tezontepec y Zempoala.
+Estado de Guanajuato: Ciudad Manuel Doblado, Cortázar, Cuerámaro, Huanímaro, Jaral del Progreso, Moroleón, Pénjamo, Purísima del Rincón, Salvatierra, San Diego de la Unión, San Felipe, Uriangato y Yuriria.
 
-Estado de Jalisco: La Barca, El Salto y Tlajomulco de Zúñiga.
+Estado de Hidalgo: Emiliano Zapata, Metepec, Santiago Tulantepec de Lugo Guerrero, Villa de Tezontepec y Zempoala.
 
-Estado de Michoacán: Álvaro Obregón, Copándaro, Charo, Tanhuato, Tarímbaro y Yurécuaro.
+Estado de Jalisco: La Barca y Tlajomulco de Zúñiga.
 
-Estado de Morelos: Axochiapan, Tepalcingo y Tlayacapan.
+Estado de México: Almoloya de Alquisiras, Amanalco, Amatepec, Coatepec Harinas, Donato Guerra, Jiquipilco, Joquicingo, Malinalco, Ocuilán, Otzoloapan, San Simón de Guerrero, Santo Tomás de los Plátanos, Sultepec, Tejupilco, Temascaltepec, Tenango del Valle, Texcaltitlán, Tlatlaya, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero y Villa Victoria.
 
-Estado de Puebla: Amozoc, Calpan, Coronango, Cuapiaxtla de Madero, Cuantinchán, Cuautlancingo, General Felipe Ángeles, Huejotzingo, Juan C. Bonilla, Nealtican, Ocoyucan, Palmar de Bravo, Puebla, Quecholac, San Andrés Cholula, San Gregorio Atzompa, San Jerónimo Tecuanipan, San Martín Texmelucan, San Miguel Xoxtla, San Pedro Cholula, Santa Isabel Cholula, Santo Tomás Hueyotlipan, Tecamachalco, Tehuacán, Tepanco de López, Tlaltenango y Yehualtepec.
+Estado de Michoacán: Alvaro Obregón, Copándaro, Charo, Tannuato, Tarímbaro, Vista Hermosa y Yurécuaro.
 
-Estado de Querétaro: Corregidora, Ezequiel Montes, Huimilpan, El Marqués, Pedro Escobedo, Querétaro, San Juan del Río y Tequisquiapan.
+Estado de Puebla: Acatzingo, Atoyatempan, Calpan, Coronango, Cuautlancingo, General Felipe Angeles, Huejotzingo, Huitziltepec, Juan C. Bonilla, Mixtla, Nealtican, San Gregorio Atzompa, San Jerónimo Tecuanipan, San Martín Texmelucan, San Miguel Xoxtla, Tepanco de López, Tepeyahualco de Cuauhtémoc, Tlaltenango, Tochtepec, Los Reyes de Juárez, San Salvador Huixcolotla, Xochitlán Todos Santos y Yehualtepec.
 
-Estado de San Luis Potosí: Guadalcázar, Santa María del Río y Villa Hidalgo.
+Estado de Querétaro: Ezequiel Montes y Huimilpan.
 
-Estado de Sonora: Caborca, Cananea, Empalme, General Plutarco Elías Calles, Guaymas, Hermosillo, Magdalena, Nogales, Pitiquito, Puerto Peñasco, San Luis Río Colorado y San Miguel de Horcasitas.
+Estado de San Luis Potosí: Guadalcázar, Salinas, Santa María del Río, Villa Hidalgo, Villa de La Paz, Villa de Guadalupe y Villa Juárez.
+
+Estado de Sonora: San Miguel de Horcasitas.
 
 Estado de Tlaxcala: Tlaxcala.
 
-Estado de Veracruz: Coatzacoalcos, Cosoleacaque y Minatitlán.
-
-Estado de Zacatecas, Cuauhtémoc, Fresnillo, General Enrique Estrada, General Pánfilo Natera, Loreto, Luis Moya, Noria de Ángeles, Ojocaliente y Villa González Ortega.
+Estado de Zacatecas: Calera, Cuauhtémoc, General Enrique Estrada, General Pánfilo Natera, General Joaquín Amaro, Loreto, Luis Moya, Morelos, Veta Grande, Noria de Ángeles y Villa González Ortega.
 
 ZONA 6.
 
-Estado de Chihuahua: Ahumada, Bachíniva, Buenaventura, Carichi, Coyame, Cuzihuiriachi, Chinipas, Guachochi, Guadalupe, Manuel Benavides, Nonoava, Ocampo y Praxedis G. Guerrero.
+Estado de Chihuahua: Bachíniva, Bocoyna, Carichi, Coyame, Cuauhtémoc, Cuzihuiriachi, Chinipas, Guachochi, Guadalupe, Guerrero, Manuel Benavides, Namiquipa, Nonoava, Ocampo, Ojinaga y Praxedis G. Guerrero.
 
 Estado de Coahuila: Acuña, Castaños, Escobedo, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Morelos, Múzquiz, Ocampo, Sierra Mojada y Zaragoza.
 
-Estado de Colima: Colima y Minatitlán.
+Estado de Colima: Minatitlán.
 
-Estado de Durango: Canatlán, Guadalupe Victoria, Hidalgo, Ocampo, Pánuco de Coronado, San Juan del Río, Súchil y Tepehuanes.
+Estado de Durango: Durango, Guadalupe Victoria, Hidalgo, Nombre de Dios, Nuevo Ideal, Ocampo, Pánuco de Coronado, San Juan del Río, Súchil y Tepehuanes.
 
 Estado de Guanajuato: Acámbaro, Guanajuato, Jerécuaro, Ocampo, Santiago Maravatío y Tarandacuao.
 
 Estado de Hidalgo: Acatlán y San Agustín Tlaxiaca.
 
-Estado de Jalisco: Atotonilco el Alto, Chapala, Ocotlán, Poncitlán y Tuxcueca.
-
-Estado de México: Almoloya de Alquisiras, Amanalco, Amatepec, Coatepec Harinas, Donato Guerra, Joquicingo, Malinalco, Ocuilan, Otzoloapan, San Simón de Guerrero, Santo Tomás de los Plátanos, Sultepec, Tejupilco, Temascaltepec, Tenango del Valle, Texcaltitlán, Tlatlaya, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero y Villa Victoria.
-
-Estado de Michoacán: Angamacutiro, Chavinda, Cojumatlán de Régules, Chucándiro, Cuitzeo, Ecuandureo, Huandacareo, Indaparapeo, Ixtlán, José Sixto Verduzco, Numarán, Pajacuarán, Pátzcuaro, Penjamillo, La Piedad, Purépero, Puruándiro, Queréndaro, Santa Ana Maya, Tlazazalca, Tzintzuntzán, Venustiano Carranza, Vista Hermosa y Zináparo. Estado de Morelos: Cuautla, Jiutepec, Jonacatepec, Tlalnepantla y Yautepec.
-
-Estado de Puebla: Acajete, Acatzingo, Atlixco, Atoyatempan, Huitziltepec, Izúcar de Matamoros, Mixtla, Molcaxac, Los Reyes de Juárez, San Salvador Huixcolotla, Tepatlaxco de Hidalgo, Tepeyahualco de Cuauhtémoc, Tochtepec y Xochitlán Todos Santos.
-
-Estado de Sinaloa: Ahome.
-
-Estado de Sonora: Aconchi, Arizpe, Bácum, Banámichi, Bavíacora, Benjamín Hill, Cajeme, Carbó, La Colorada, Cucurpe, Etchojoa, Huatabampo, Huépac, Imuris, Mazatán, Nacozari de García, Navojoa, Opodepe, Oquitoa, Rayón, San Felipe de Jesús, Santa Ana, Santa Cruz, Sáric, Suaqui Grande, Trincheras, Tubutama y Ures.
-
-Estado de Tabasco: Centro y Cunduacán.
-
-Estado de Tamaulipas: Camargo, Guerrero, Gustavo Díaz Ordaz, Mier y Miguel Alemán.
-
-Estado de Tlaxcala: Estado de Tlaxcala: (sic) Acuamanala de Miguel Hidalgo, Altzayanca, Benito Juárez, Calpulalpan, El Carmen Tequexquitla, Emiliano Zapata, Chiautempan, Cuapiaxtla, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, La Magdalena Tlaltelulco, Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Mazatecochco de José María Morelos, Nativitas, Panotla, Papalotla de Xicohténcatl, San Damián Texoloc, San Francisco Tetlanohcan, San Jerónimo Zacualpan, San Juan Huactzinco, San Lorenzo Axocomanitla, Sanctórum de Lázaro Cárdenas, San Pablo del Monte, Santa Ana Nopalucan, Santa Apolonia Teacalco, Santa Catarina Ayometla, Santa Cruz Quilehtla, Santa Isabel Xiloxoxtla, Tenancingo, Teolocholco, Tepetitla de Lardizábal, Tepeyanco, Terrenate, Tetlatlahuca, Totolac, Xicohtzinco, Zacatelco y Zitlaltepec de Trinidad Sánchez Santos.
-
-Estado de Veracruz: Actopan, Agua Dulce, La Antigua, Catemaco, Hueyapan de Ocampo, Ixhuatlán del Sureste, Moloacán, Nanchital de Lázaro Cárdenas del Río, Sayula de Alemán y Veracruz.
-
-Estado de Zacatecas: Cañitas de Felipe Pescador, Concepción del Oro, Genaro Codina, General Francisco R. Murguía, General Joaquín Amaro, Juan Aldama, Mazapil, Melchor Ocampo, Miguel Auza, Pánuco, Pinos, Río Grande, Sain Alto, El Salvador, Sombrerete, Susticacan, Tepechitlán, Tepetongo, Villa de Cos, Villa García y Villa Hidalgo.
-
-ZONA 7.
-
-Estado de Chihuahua: Balleza, Batopilas, Cuauhtémoc, Doctor Belisario Domínguez, General Trías, Gómez Farías, Guadalupe y Calvo, Guazapares, Guerrero, Huejotitán, Ignacio Zaragoza, Maguarichi, Matachi, Morelos, Namiquipa, Riva Palacio, Rosario, San Francisco de Borja, Satevó, El Tule, Urique y Valle de Zaragoza.
-
-Estado de Colima: Comala, Coquimatlán, Cuauhtémoc y Villa de Álvarez.
-
-Estado de Durango: Coneto de Comonfort, Cuencamé, Durango, Guanaceví, Inde, Nombre de Dios, Nuevo Ideal, El Oro, Peñón Blanco, San Bernardo, Santa Clara y Villa Hidalgo.
-
-Estado de Guanajuato: Atarjea, Coroneo, Santa Catarina, Tarimoro, Tierra Blanca, Victoria y Xichú.
-
-Estado de Hidalgo: Mineral del Chico, Mineral del Monte y Tlanchinol.
-
-Estado de Jalisco: Atemajac de Brizuela, Ayotlán, Degollado, Ixtlahuacán de los Membrillos, Ixtlahuacán del Río, Jamay, Jesús María, Jocotepec, Juanacatlán, San Cristóbal de la Barranca, Tizapán el Alto, Tototlán y Zapotlán del Rey.
+Estado de Jalisco: Atotonilco el Alto, Ayotlán, Ixtlahuacán de los Membrillos, Jamay, Jocotepec, Chapala, Ocotlán, Poncitlán y Tuxcueca.
 
 Estado de México: Ixtapan de la Sal, Ixtapan del Oro, Tenancingo, Zacazonapan, Zacualpan y Zumpahuacán.
 
-Estado de Michoacán: Acuitzio, Briseñas, Coeneo, Cotija, Cherán, Churintzio, Erongarícuaro, Hidalgo, Huaniqueo, Huiramba, Jacona, Jiménez, Jiquilpan, Lagunillas, Morelia, Morelos, Nahuatzén, Panindícuaro, Quiroga, Sahuayo, Salvador Escalante, Tangamandapio, Tangancícuaro, Tinganbato, Tuxpan, Villamar, Zacapu, Zamora y Ziracuaretiro.
+Estado de Michoacán: Angamacutiro, Briseñas, Chavinda, Cojumatlán de Régules, Chucándiro, Cuitzeo, Ecuandureo, Huandacareo, Indaparapeo, Ixtlán, Jiquilpan, Jacona, José Sixto Verduzco, Morelia, Numarán, Pajacuarán, Pátzcuaro, Penjamillo, La Piedad, Purépero, Puruándiro, Queréndaro, Sahuayo, Santa Ana Maya, Tangancícuaro, Tlazazalca, Tzintzuntzán, Venustiano Carranza, Villamar, Zamora y Zináparo.
 
-Estado de Morelos: Jantetelco, Tepoztlán y los municipios que no estén comprendidos en las zonas 3, 5, 6, y 8.
+Estado de Morelos: Cuautla, Jiutepec, Jonacatepec, Tlalnepantla, Tlayacapan y Yautepec.
 
-Estado de Puebla: Aljojuca, Atzitzintla, Chalchicomula de Sesma, Chiautzingo, Chichiquila, Chilchotla, Cuyoaco, Domingo Arenas, Guadalupe Victoria, Lafragua, Mazapiltepec de Juárez, Ocotepec, Oriental, Quimixtlán, San Felipe Teotlalcingo, San José Chiapa, San Juan Atenco, San Matías Tlalancaleca, San Nicolás de Buenos Aires, San Nicolás de los Ranchos, San Salvador el Verde, Tepeojuma, Tepeyahualco, Tianguismanalco, Tlachichuca, Tlahuapan, Xochitlán de Vicente Suárez y los municipios que no estén comprendidos en las zonas 5, 6, 8 y 9.
+Estado de Puebla: Acajete, Atlixco, Izúcar de Matamoros, Molcaxac, Tepatlaxco de Hidalgo, Tecalli de Herrera, Tlanepantla y Tepeaca.
 
-Estado de San Luis Potosí: El Naranjo.
+Estado de Sinaloa: Ahome, Culiacán, Guasave, Mazatlán, Salvador Alvarado.
 
-Estado de Sinaloa: excepto los municipios comprendidos en las zonas 6 y 8.
+Estado de Sonora: Aconchi, Agua Prieta, Álamos, Arizpe, Bácum, Banámichi, Bavíacora, Benito Juárez, Cajeme, Carbó, La Colorada, Etchojoa, Huatabampo, Huépac, Imuris, Magdalena, Mazatán, Nacozari de García, Navojoa, Oquitoa, San Felipe de Jesús, Santa Ana, Santa Cruz, Sáric, Suaqui Grande, San Ignacio Río Muerto, Trincheras, Tubutama y Ures.
 
-Estado de Sonora: Agua Prieta, Álamos, Arivechi, Bacadéhuachi, Bacanora, Bacerac, Bacoachi, Bavispe, Cumpas, Divisaderos, Fronteras, Granados, Huachinera, Huásabas, Moctezuma, Naco, Onavas, Quiriego, Sahuaripa, San Javier, San Pedro de la Cueva, Soyopa, Tepache, Villa Hidalgo y Villa Pesqueira.
+Estado de Tabasco: Centro y Cunduacán.
 
-Estado de Tabasco: Cárdenas, Comalcalco, Huimanguillo, Jalapa, Jalpa de Méndez y Macuspana.
+Estado de Tamaulipas: Camargo, Guerrero, Gustavo Díaz Ordaz, Matamoros, Nuevo Laredo, Reynosa, Río Bravo, Valle Hermoso, Mier y Miguel Alemán.
 
-Estado de Tamaulipas: excepto los municipios comprendidos en las zonas 6, 8 y 9.
+Estado de Tlaxcala: Acuamanala de Miguel Hidalgo, Altzayanca, Benito Juárez, Calpulalpan, El Carmen Tequexquitla, Emiliano Zapata, Chiautempan, Cuapiaxtla, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, La Magdalena Tlaltelulco, Lázaro Cárdenas, Nanacamilpa de Mariano Arista, Mazatecochco de José María Morelos, Nativitas, Panotla, Papalotla de Xicohténcatl, San Damián, Texoloc, San Francisco Tetlanohcan, San Jerónimo Zacualpan, San Juan Huactzinco, San Lorenzo Axocomanitla, Sanctórum de Lázaro Cárdenas, San Pablo del Monte, Santa Ana Nopalucan, Santa Apolonia Teacalco, Santa Catarina Ayometla, Santa Cruz Quilehtla, Santa Isabel Xiloxoxtla, Tenancingo, Teolocholco, Tepetitla de Lardizábal, Tepeyanco, Terrenate, Tetlatlahuca, Totolac, Xicohtzinco, Zacatelco y Zitlaltepec de Trinidad Sánchez Santos.
 
-Estado de Veracruz: Ángel R. Cabada, Boca del Río, Jamapa, Medellín, Oluta y Tuxtilla.
+Estado de Veracruz: Coatzacoalcos, Cosoleacaque, Minatitlán, La Antigua, Ixhuatlán del Sureste, Nanchital de Lázaro Cárdenas del Río y Veracruz.
 
-Estado de Zacatecas: Atolinga, Chalchihuites, Jerez, Jiménez de Téul, Momax, Monte Escobedo, Tabasco, Tlaltenango de Sánchez Román, Valparaíso y Villanueva.
+Estado de Zacatecas: Jerez, Miguel Auza, Pánuco, Susticacan, Tepechitlán, Tepetongo, Villa de Cos y Villa Hidalgo.
+
+ZONA 7.
+
+Estado de Chihuahua: Balleza, Batopilas, General Trías, Gómez Farías, Guadalupe y Calvo, Guazapares, Huejotitán, Ignacio Zaragoza, Maguarichi, Matachi, Morelos, Riva Palacio, Rosario, San Francisco de Borja, Satevó, Tule El, Urique y Valle de Zaragoza.
+
+Estado de Colima: Armería, Colima, Comalá, Coquimatlán, Cuauhtémoc, Ixtlahuacán, Tecomán y Villa de Álvarez.
+
+Estado de Durango: Coneto de Comonfort, Cuencamé, Hidalgo, Inde, Oro El, Peñón Blanco, Santa Clara y Santiago Papasquiaro.
+
+Estado de Guanajuato: Coroneo.
+
+Estado de Guerrero: Atoyac de Álvarez, Azoyú, Benito Juárez, Copala, Coyuca de Benítez, Cuajiniculapa, Florencio Villarreal, José Azueta, Petatlán, San Marcos, Tecpan de Galeana, Tepecoacuilco de Trujano y La Unión de Isidro Montes de Oca.
+
+Estado de Hidalgo: Actopan, Ajacuba, Alfajayucan, Arenal El, Atitalaquia, Atotonilco de Tula, Chapantongo, Chilcuatlán, Francisco I. Madero, Huasca de Ocampo, Ixmiquilpan, Jacala, Metztitlan, Mixquiahuala, Nopala de Villagrán, Progreso, San Salvador, Santiago de Anaya, Tasquillo, Tecozautla, Tepeji del Río de Ocampo, Tepetitlan, Tetepango, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, Tula de Allende y Zimapan.
+
+Estado de Jalisco: Ahualulco de Mercado, Amacueca, Arenal El, Atoyac, Autlán, Bolaños, Casimiro Castillo, Cañadas de Obregón, Cihuatlán, Ciudad Guzmán, Cocula, Colotlan, Cuahutilan, Chimaltitan, Degollado, Encarnación de Díaz, Gómez Farías, Huejucar, Huejuquilla el Alto, Ixtlahuacán del Río, Jesús María, Juanacatlán, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, San Martín de Bolaños, Santa María de los Angeles, Sayula, Tala, Tamazula de Gordiano, Techalutla de Montenegro, Teocuitatlan de Corona, Teuchitlan, Tizapán el Alto, Tolimán, Tonila, Totaniche, Tototlán, Tuxcacuesco, Tuxpan, Valle de Guadalupe, Venustiano Carranza, Villa Corona, Villa Guerrero, Zacualco de Torres, Zapotiltic, Zapotlán del Rey y Zapotitlán de Vadillo.
+
+Estado de Michoacán: Agangueo, Apatzingán, Aporo, Buenavista, Coahuayana, Coeneo, Contepec, Cotija, Chinicuila, Churintzio, Erongarícuaro, Epitacio Huerta, Gabriel Zamora, Hidalgo, Huaniqueo, Huiramba, Irimbo, Jacona, Jiménez, Lagunillas, Lázaro Cárdenas, Maravatío, Morelos, Múgica, Nahuatzén, Nuevo Parangaricutiro, Ocampo, Parácuaro, Panindícuaro, Peribán, Quiroga, Reyes Los, Senguio, Tansítaro, Tangamandapio, Tepalcatepec, Tinguindín, Tlalpujahua, Tocumbo, Tuxpan, Uruapan, Zacapu, Zinapécuaro y Ziracuaretiro.
+
+Estado de Morelos: Jantetelco, Tepoztlán y los municipios que no estén comprendidos en las zonas 4, 6 y 8.
+
+Estado de Oaxaca: Excepto los municipios comprendidos en las zonas 8 y 9.
+
+Estado de Puebla: Aljojuca, Altepexi, Chalchicomula de Sesma, Cuyoaco, Esperanza, Guadalupe Victoria, Mazapiltepec de Juárez, Morelos Cañada, Nicolás Bravo, Ocotepec, Oriental, San José Chiapa, San Juan Atenco, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán, San Nicolás de Buenos Aires, Tlacotepec de Benito Juárez, Tepeojuma, Tepeyahualco, Tianguismanalco y los municipios que no estén comprendidos en las zonas 4, 5, 6, 8 y 9.
+
+Estado de Querétaro: Amealco, Pinal de Amoles, Arroyo Seco, Cadereyta de Montes, Jalpan de Serra, Landa de Matamoros, Peñamiller, San Joaquín y Toliman.
+
+Estado de Quintana Roo: Cozumel en su porción Continental, Isla Mujeres y Lázaro Cárdenas.
+
+Estado de San Luis Potosí: Alaquines, Aquismón, Armadillo de los Infante, Cárdenas, Cerritos, Ciudad del Maíz, Ciudad Fernández, Ciudad Valles, Lagunillas, Rayón, Río Verde, San Ciro de Acosta, San Nicolás Tolentino, Santa Catarina, Tamasopo, Tierranueva, Villa de Arista y Matlapa.
+
+Estado de Sinaloa: Concordia, Escuinapa y Rosario El, y los municipios que no estén comprendidos en las zonas 6 y 8.
+
+Estado de Sonora: Arivechi, Bacadéhuachi, Bacanora, Bacerac, Bacoachi, Bavispe, Benjamín Hill, Cumpas, Cucurpe, Divisaderos, Fronteras, Granados, Huachinera, Huásabas, Moctezuma, Naco, Onavas, Opodepe, Rayón, Quiriego, Sahuaripa, San Javier, San Pedro de la Cueva, Soyopa, Tepache, Villa Hidalgo y Villa Pesqueira.
+
+Estado de Tabasco: Balancán, Cárdenas, Comalcalco, Huimanguillo, Jalapa, Jalpa de Méndez y Macuspana.
+
+Estado de Tamaulipas: Aldama, Antiguo Morelos, Bustamante, Casas, Gómez Farías, González, Güémez, Hidalgo, Jaumave, Llera, Miquihuana, Nuevo Morelos, Ocampos, Padilla, Palmillas, Soto la Marina, Tula y Victoria, excepto los municipios comprendidos en las zonas 6, 8 y 9.
+
+Estado de Tlaxcala: Santa Cruz Tlaxcala, Benito Juárez, San José Teacalco y San Lucas Tecopilco.
+
+Estado de Veracruz: Actopan, Agua Dulce, Catemaco, Hueyapan de Ocampo, Moloacán y Sayula de Alemán.
+
+Estado de Yucatán: Mérida, Muna, Progreso, Río Lagartos, San Felipe, Sinanché, Telchac Pueblo, Telchac Puerto, Dzan, Dzemul y Dzilam de Bravo.
+
+Estado de Zacatecas: Apozol, Atolinga, Cañitas de Felipe Pescador, Concepción del Oro, Chalchihuites, Huanusco, Jalpa, Jiménez de Teúl, Juchipila, Momax, Monte Escobedo, Moyahua de Estrada, Tabasco, Tlaltenango de Sánchez Román, Valparaíso, Villanueva, Villa García, Genaro Codina, General Francisco R. Murguía, Juan Aldama, Mazapil, Melchor Ocampo, Pinos, Río Grande, Sain Alto, El Salvador y Sombrerete.
 
 ZONA 8.
 
-Estado de Campeche: Palizada y los municipios que no estén comprendidos en la zona 9.
+Estado de Campeche: Calakmul, Calkiní, Campeche, Candelaria, Carmen, Champotón, Escárcega Hecelchakán, Hopelchén, Tenabo y Palizada.
 
-Estado de Chiapas: Excepto los municipios comprendidos en la zona 9.
+Estado de Chiapas.
 
-Estado de Chihuahua: Gran Morelos, Madera, Moris, Temósachi y Uruachi.
+Estado de Chihuahua: Doctor Belisario Domínguez, Gran Morelos, Madera, Moris, Temósachi y Uruachic.
 
-Estado de Colima: excepto los municipios comprendidos en las zonas 2, 6 y 7.
+Estado de Durango: Canelas, Guanaceví, Mezquital, Otáez, Pueblo Nuevo, San Bernardo, San Dimas, Tamazula y Topia.
 
-Estado de Durango: Canelas, Mezquital, Otáez, Pueblo Nuevo, San Dimas, Santiago Papasquiaro, Tamazula y Topia.
+Estado de Guanajuato: Atarjea, Santa Catarina, Tarimoro, Tierra Blanca, Victoria y Xichú.
 
-Estado de Guerrero: Ajuchitlán del Progreso, Alpoyeca, Atoyac de Álvarez, Arcelia, Atenango del Río, Ayutla de los Libres, Azoyú, Benito Juárez, Coahuayutla de José María Izazaga, Cocula, Copala, Coyuca de Benítez, Coyuca de Catalán, Cuajiniculapa, Florencio Villarreal, Guamuxtitlán, José Azueta, Juan R. Escudero, Mochitlán, Petatlán, Pungarabato, Quechultenango, San Marcos, San Miguel Totolapan, Tecoanapa, Tecpan de Galeana, Teloloapan, Tepecoacuilco de Trujano, La Unión de Isidro Montes de Oca y Zirándaro.
+Estado de Guerrero: Acatepec, Ahuacuotzingo, Ajuchitlán del Progreso, Alpoyeca, Arcelia, Atenango del Río, Ayutla de los Libres, Coahuayutla de José María Izazaga, Cocula, Coyuca de Catalán, Chilpancingo de los B, Guamuxtitlán, Huitzuco de los Figueroa, Iguala de la Independencia, Juan R. Escudero, Mochitlán, Pungarabato, Quechultenango, San Miguel Totolapan, Tlapa de Comonfort, Tecoanapa, Teloloapan, Tixtla de Guerrero y Zirándaro.
 
-Estado de Hidalgo: excepto los municipios comprendidos en las zonas 2, 4, 5, 6, 7 y 9.
+Estado de Hidalgo: Acaxochitla, Agua Blanca, Atlapexco, Atotonilco el Grande, Calnali, Cardonal, Eloxochitlan, Huazalingo, Huehuetlán, Huejutla de Reyes, Jaltocan, Juárez Hidalgo, Lolotla, Mezquititlan, Mineral del Chico, Mineral del Monte, Misión La, Molango, Nicolás Flores, Omitán de Juárez, Orizatlán, Pacula, Pisaflores, San Bartolo Tutotep, Tenango de Doria, Tepehuacan de Guerrero, Tianguistengo, Tlahuiltepa, Tlanchinol, Xochiatipan, Xochicoatlan, Yahualica, Zacualtipan de Ángel, excepto los municipios comprendidos en las zonas 2, 4, 5, 6 y 9.
 
-Estado de Jalisco: La Manzanilla de la Paz y los municipios que no estén comprendidos en las zonas 2, 3, 5, 6, 7 y 9.
+Estado de Jalisco: Acatic, Amatitan, Ameca, Antonio Escobedo, Arandas, Atemajac de Brizuela, Cabo Corrientes, Cuquio, Chiquilistlan, Etzatlan, Grullo El, Hostotipaquillo, Huerta La, Jalostititlan, Juchitlán, La Manzanilla de la Paz, Limón El, Magdalena, Purificación, San Cristóbal de la Barranca, San Diego de Alejandría, San Juan de los Lagos, San Julián, San Marcos, San Martín Hidalgo, San Miguel el Alto, San Sebastián del Oeste, Tapalpa, Tecalitlan, Tecolotlan, Teocaltiche, Tepatitlan de Morelos, Tequila, Tonaya, Unión de San Antonio, Valle de Juárez, Villa Hidalgo, Yahualica de González, Zapotlanejo y los municipios que no estén comprendidos en las zonas 2, 3, 4, 5, 6, 7 y 9.
 
-Estado de Michoacán: Angangueo, Apatzingán, Aporo, Buenavista, Carácuaro, Coahuayana, Contepec, Charapan, Chilchota, Chinicuila, Churumuco, Epitacio Huerta, Gabriel Zamora, Huetamo, Irimbo, Juárez, Jungapeo, Lázaro Cárdenas, Madero, Maravatío, Marcos Castellanos, Múgica, Ocampo, Paracho, Parácuaro, Nocupétaro, Nuevo Parangaricutiro, Peribán, Los Reyes, San Lucas, Senguio, Susupuato, Tacámbaro, Tancítaro, Tepalcatepec, Tinguindín, Tiquicheo de Nicolás Romero, Tlalpujahua, Tocumbo, Turicato, Tuzantla, Tzitzio, Uruapan, Zinapécuaro y Zitácuaro.
+Estado de Michoacán: Acuitzio, Carácuaro, Cherán, Churumuco, Huetamo, Nahuatzen, Salvador Escalante, San Lucas y Tinganbato.
 
-Estado de Morelos: Amacuzac, Coatlán del Río, Jojutla, Mazatepec, Miacatlán, Puente de Ixtla, Tetecala, Tlaltizapán, Tlaquiltenango y Zacatepec.
+Estado de Morelos: Amacuzac, Coatlán del Río, Jojutla, Mazatepec, Miacatlán, Puente de Ixtla, Tetecala, Tlaltizapán, Tlaquiltenango y Zacatepec de Hidalgo.
 
-Estado de Nayarit: Rosamorada, Ruiz, San Blas, Tecuala y Tuxpan.
+Estado de Nayarit: Acaponeta, Bahía de Banderas, Compostela, Rosamorada, Ruiz, San Blas, Santa María del Oro, Santiago Ixcuintla, Tecuala, Tepic, Tuxpan y Xalisco.
 
-Estado de Oaxaca: excepto los municipios comprendidos en la zona 9.
+Estado de Oaxaca: Acatlán de Pérez Figueroa, Ciudad Ixtepec, Cosolapa, Espinal El, Guadalupe Etla, Ciudad de Huajuapam de León, Juchitán de Zaragoza, Loma Bonita, Matías Romero, Miahuatlán de Porfirio Díaz, Natividad, Oaxaca de Juárez, Salina Cruz, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Francisco Ixhuatán, San Jacinto Amilpas, San Juan Bautista Tuxtepec, San Juan Mixtepec-Distr. 08, San Miguel Soyaltepec, San Pablo Etla, San Pedro Mixtepec Distr. 22, San Pedro Pochutla, San Sebastián Tutla, Santa Cruz Xoxocotlan, Santa Lucía del Camino, Santa María del Tule, Santiago Miltepec, Santo Domingo Tehuantepec, San Jerónimo Tlacochahuaya, Tlacolula de Matamoros, y Tlalixtac de Cabrera.
 
-Estado de Puebla: Acateno, Acatlán, Acteopan, Ahuacatlán, Ahuatlán, Ahuazotepec, Ahuehuetitla, Albino Zertuche, Altepexi, Amixtlán, Aquixtla, Atempan, Atexcal, Atzala, Atzitzihuacán, Axutla, Ayotoxco de Guerrero, Caltepec, Camocuautla, Caxhuacan, Coatepec, Coatzingo, Cohetzala, Cohuecán, Coxcatlán, Coyomeapan, Coyotepec, Cuautempan, Cuayuca, Cuetzalan del Progreso, Chiautla, Chiconcuautla, Chigmecatitlán, Chignahuapan, Chignautla, Chila, Chila de la Sal, Chinantla, Eloxochitlán, Esperanza, Francisco Z. Mena, Guadalupe, Hermenegildo Galeana, Honey, Huatlatlauca, Huauchinango, Huehuetla, Huehuetlán el Chico, Hueyapan, Hueytamalco, Hueytlalpan, Huitzilan de Serdán, Ignacio Allende, Ixcamilpa de Guerrero, Ixcaquixtla, Ixtacamaxtitlán, Ixtepec, Jalpan, Jolalpan, Jonotla, Jopala, Juan Galindo, Juan N. Méndez, La Magdalena Tlatlauquitepec, Morelos Cañada, Naupan, Nauzontla, Nicolás Bravo, Olintla, Pahuatlán, Pantepec, Petlalcingo, Piaxtla, San Antonio Cañada, San Diego la Mesa Tochimiltzin, San Felipe Tepatlán, San Gabriel Chilac, San Jerónimo Xayacatlán, San José Miahuatlán, San Juan Atzompa, San Martín Totoltepec, San Miguel Ixitlán, San Pablo Amicano, San Pedro Yeloiztlahuaca, San Sebastián Tlacotepec, Santa Catarina Tlaltempan, Santa Inez Ahuetempan, Santo Domingo Huehuetlán, Tecomatlán, Tehuitzingo, Tenampulco, Teopantlán, Teotlalco, Tepango de Rodríguez, Tepemaxalco, Tepetzintla, Tepexco, Tepexi de Rodríguez, Tetela de Ocampo, Teteles de Ávila Castillo, Teziutlán, Tlacotepec de Benito Juárez, Tlacuilotepec, Tlaola, Tlapacoya, Tlatlauquitepec, Tlaxco, Tochimilco, Totoltepec de Guerrero, Tulcingo, Tuzamapan de Galeana, Tzicatlacoyan, Venustiano Carranza, Vicente Guerrero, Xayacatlán de Bravo, Xicotepec, Xicotlán, Xiuteteco, Xochiapulco, Xochiltepec, Yaonáhuac, Zacapala, Zacapoaxtla, Zacatlán, Zapotitlán, Zapotitlán de Méndez, Zaragoza, Zautla, Zihuateutla, Zongozotla, Zoquiapan y Zoquitlán.
+Estado de Puebla: Acateno, Acatlán, Acteopan, Ahuacatlán, Ahuatlán, Ahuazotepec, Ahuehuetitla, Ajalpan, Albino Zertuche, Amixtlán, Aquixtla, Atempan, Atexcal, Atzala, Atzitzintla, Atzitzihuacán, Axutla, Ayotoxco de Guerrero, Caltepec, Camocuautla, Caxhuacan, Coatepec, Coatzingo, Cohetzala, Cohuecán, Coxcatlán, Coyomeapan, Coyotepec, Cuautempan, Cuayuca, Cuetzalan del Progreso, Chapulco, Chiautla, Chiautzingo, Chichiquila, Chietla, Chiconcuautla, Chigmecatitlán, Chignahuapan, Chignautla, Chila, Chila Honey, Chila de la Sal, Chilchotla, Chinantla, Domingo Arenas, Eloxochitlán, Francisco Z. Mena, Guadalupe, Hermenegildo Galeana, Huatlatlauca, Huauchinango, Huehuetla, Huehuetlán el Chico, Hueyapan, Hueytamalco, Hueytlalpan, Huitzilan de Serdán, Ignacio Allende, Ixcamilpa de Guerrero, Ixcaquixtla, Ixtacamaxtitlán, Ixtepec, Jalpan, Jolalpan, Jonotla, Jopala, Juan Galindo, Juan N. Méndez, Lafragua, La Magdalena Tlatlauquitepec, Naupan, Nauzontla, Olintla, Pahuatlán, Pantepec, Petlalcingo, Piaxtla, Quimixtlán, San Diego la Mesa Tochimiltzin, San Felipe Tepatlán, San Felipe Teotlalcingo, San Jerónimo Xayacatlán, San Juan Atzompa, San Matías Tlalancaleca, San Martín Totoltepec, San Miguel Ixitlán, San Nicolás de los Ranchos, San Pablo Amicano, San Pedro Yeloixtlahuaca, San Salvador el Verde, San Sebastián Tlacotepec, Tlachichuca, Tlahuapan, Santa Catarina Tlaltempan, Santa Inez Ahuetempan, Santiago Miahuatlan, Santo Domingo Huehuetlán, Tecomatlán, Tehuitzingo, Tenampulco, Teopantlán, Teotlalco, Tepango de Rodríguez, Tepemaxalco, Tepetzintla, Tepexco, Tepexi de Rodríguez, Tetela de Ocampo, Teteles de Ávila Castillo, Teziutlán, Tlacuilotepec, Tlaola, Tlapacoya, Tlatlauquitepec, Tlaxco, Tochimilco, Totoltepec de Guerrero, Tulcingo, Tuzamapan de Galeana, Tzicatlacoyan, Venustiano Carranza, Vicente Guerrero, Xayacatlán de Bravo, Xicotepec, Xicotlán, Xochiapulco, Xochitlán de Vicente Suárez, Xochiltepec, Yaonáhuac, Zacapala, Zacapoaxtla, Zacatlán, Zapotitlán, Zapotitlán de Méndez, Zaragoza, Zautla, Zihuateutla, Zinacatepec, Zongozotla, Zoquiapan y Zoquitlán.
 
-Estado de Querétaro: excepto los municipios comprendidos en las zonas 4 y 5.
+Estado de Quintana Roo: excepto los municipios comprendidos en las zonas 2, 3 y 7.
 
-Estado de Quintana Roo: excepto los municipios comprendidos en las zonas 1 y 2.
+Estado de San Luis Potosí: Naranjo El, excepto los municipios comprendidos en las zonas 1, 2, 3, 4, 5 y 7.
 
-Estado de San Luis Potosí: excepto los municipios comprendidos en las zonas 2, 3, 4, 5 y 7.
-
-Estado de Sinaloa: Badiraguato, Concordia, Escuinapa y El Rosario.
+Estado de Sinaloa: Badiraguato.
 
 Estado de Sonora: Nacori Chico, Rosario y Yécora.
 
-Estado de Tabasco: Balancán.
+Estado de Tabasco: Centla, Emiliano Zapata, Jonuta, Nacajuca, Paraíso, Tacotalpa, Teapa y Tenosique.
 
-Estado de Tamaulipas: Aldama, Antiguo Morelos, Bustamante, Casas, Gómez Farías, González, Güémez, Hidalgo, Jaumave, Llera, Miquihuana, Nuevo Morelos, Ocampo, Padilla, Palmillas, San Nicolás, Soto la Marina, Tula, Victoria y Xicoténcatl.
+Estado de Tamaulipas: Altamira, Ciudad Madero, Mante El, San Nicolás y Tampico.
 
 Estado de Tlaxcala: excepto los municipios comprendidos en las zonas 5 y 6.
 
-Estado de Veracruz: Adalberto Tejada, Alpatlahua, Apazapan, Camerino Z. Mendoza, Cazones, Emiliano Zapata, Gutiérrez Zamora, Hidalgotitlán, Ignacio de la Llave, Ixtaczoquitlán, Juan Rodríguez Clara, Mecayacán, Otatitlán, Paso del Macho, Paso de Ovejas, Río Blanco, Saltabarranca, Soledad de Doblado, Tamiahua, José Azueta, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Úrsulo Galván, Yanga.
+Estado de Veracruz: Adalberto Tejada, Alpatlahua, Alvarado, Ángel R. Cabada, Apazapan, Boca del Río, Camerino Z. Mendoza, Cazones, Córdoba, Cosamaloapan, Cotaxtla, Cuichapa, Cuitláhuac, Chalcaltianguis, Chinameca, Choapas Las, Emiliano Zapata, Fortín, Gutiérrez Zamora, Hidalgotitlán, Huiloapan, Ignacio de la Llave, Isla, Ixmatlahuacan, Ixtaczoquitlán, Jamapa, Juan Rodríguez Clara, Lerdo de Tejada, Manlio Fabio Altamirano, Martínez de la Torre, Medellín, Nautla, Nogales, Oluta, Omealca, Orizaba, Otatitlán, Paso del Macho, Paso de Ovejas, Perote, Puente Nacional, Río Blanco, Saltabarranca, Soledad de Doblado, Tamiahua, José Azueta, Tecolutla, Temapache, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tuxpan, Tuxtilla, Úrsulo Galván, Vega de Alatorre y Yanga.
 
-Estado de Yucatán.
+Estado de Yucatán: Excepto los municipios comprendidos en la zona 7.
 
-Estado de Zacatecas: Apozol, Apulco, Benito Juárez, Huanusco, Jalpa, Juchipila, Mezquital del Oro, Moyahua de Estrada, Nochistlán de Mejía, Téul de González Ortega y Trinidad García de la Cadena.
+Estado de Zacatecas: Apulco, Benito Juárez, Mezquital del Oro, Nochistlán de Mejía, Teúl de González Ortega y Trinidad García de la Cadena.
 
 ZONA 9.
 
-Estado de Campeche: Carmen y Escárcega.
-
-Estado de Chiapas: Acacoyagua, Acapetahua, Ángel Albino Corzo, Arriaga, Berriozábal, Chiapa de Corzo, Huehuetán, Huixtla, Independencia La, Metapa, Ocozocoautla de Espinosa, Ostuacán, Palenque, Pichucalco, Pijijiapan, Reforma, San Cristóbal de las Casas, Suchiapa, Tapachula, Tonalá, Tuxtla Gutiérrez, Tuxtla Chico, Villaflores y San Juan Cancuc.
-
-Estado de Guerrero: Cutzamala de Pinzón, General Canuto A. Neri, Tlalchapa, Tlapehuala y los municipios que no estén comprendidos en las zonas 3 y 8.
+Estado de Guerrero: Cutzamala de Pinzón, General Canuto A. Neri, Tlalchapa, Tlapehuala y los municipios que no estén comprendidos en las zonas 4 y 8.
 
 Estado de Hidalgo: Chapulhuacán y Huautla.
 
-Estado de Jalisco: Acatlán de Juárez, Atengo, Atenguillo, Ayutla, Concepción de Buenos Aires, Cuautla, Ejutla, Guachinango, Jilotlán de los Dolores, Manuel M. Diéguez, Mascota, Mazamitla, Mexticacán, Mixtlán, Pihuamo, Quitupan, Talpa de Allende, Tenamaxtlán, Tomatlán, Unión de Tula.
+Estado de Jalisco: Acatlán de Juárez, Atengo, Atenguillo, Ayutla, Concepción de Buenos Aires, Cuautla, Ejutla, Guachinango, Jilotlán de los Dolores, Manuel M. Diéguez, Mascota, Mazamitla, Mexticacán, Mixtlán, Pihuamo, Quitupan, Talpa de Allende, Tenamaxtlán, Tomatlán y Unión de Tula.
 
-Estado de Michoacán: Aguililla, Aquila, Ario, Arteaga, Coalcomán de Vázquez Pallárez, La Huacana, Nuevo Urecho, Taretán y Tumbiscatío.
+Estado de Michoacán: Aguililla, Aquila, Ario, Arteaga, Carácuaro, Coalcomán de Vázquez Pallárez, Charapan, Chilchota, Juárez, Jungapeo, La Huacana, Madero, Marcos Castellanos, Nocupétaro, Nuevo Urecho, Paracho, Susupuato, Tacámbaro, Taretan, Tiquicheo de Nicolás Romero, Tumbiscatío, Turicato, Tuzantla, Tzitzio y Zitácuaro.
 
 Estado de Nayarit: excepto los municipios comprendidos en la zona 8.
 
-Estado de Oaxaca: Acatlán de Pérez Figueroa, Ciudad Ixtepec, Cosolapa, Espinal El, Guadalupe Etla, Ciudad de Huajuapam de León, Juchitán de Zaragoza, Loma Bonita, Matías Romero, Miahuatlán de Porfirio Díaz, Natividad, Oaxaca de Juárez, Salina Cruz, San Agustín de las Juntas, San Agustín Yatareni, San Dionisio Ocotlán, San Francisco Ixhuatán, San Jacinto Amilpas, San Juan Bautista Tuxtepec, San Juan Mixtepec - Distr. 08, San Miguel Soyaltepec, San Pablo Etla, San Pedro Coxcaltepec Cántaros, San Pedro Mixtepec - Distr. 22, San Pedro Pochutla, San Sebastián Tutla, Santa Cruz Xoxocotlan, Santa Lucía del Camino, Santa María del Tule, Santiago Miltepec, Santo Domingo Tehuantepec, San Jerónimo Tlacochahuaya, Tlacolula de Matamoros y Tlalixtac de Cabrera.
+Estado de Oaxaca: San Pedro Coaxcaltepec Cántaros.
 
-Estado de Puebla: Ajalpan, Cañada Morelos, Chapulco, Santiago Miahuatlán y Zinacatepec.
+Estado de Puebla: Xiutetelco.
 
 Estado de Tabasco: excepto los municipios comprendidos en las zonas 6, 7 y 8.
 
-Estado de Tamaulipas: Altamira, Ciudad Madero, El Mante y Tampico.
+Estado de Veracruz: excepto los municipios comprendidos en las zonas 6, 7 y 8.
 
-Estado de Veracruz: excepto los municipios comprendidos en las zonas 5, 6, 7 y 8.
+Tratándose de municipios que no se encuentren dentro de las zonas de disponibilidad 1 a 9, el pago del derecho sobre aguas se efectuará de conformidad con la cuota establecida para el municipio más próximo al lugar de la extracción.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 231-A.
 
-Cuando un organismo o empresa públicos o privados realice obras de infraestructura hidráulica para agua potable, drenaje y saneamiento, así como acueductos, diques, canales y drenes, que eviten una erogación a la Comisión Nacional del Agua, el organismo o la empresa de que se trate podrá, previa autorización de la propia Comisión, acreditar contra el monto de los derechos sobre agua que le corresponda pagar, un monto equivalente a los gastos que hubiere incurrido la mencionada Comisión para desarrollar el mismo satisfactor.
+Cuando las personas físicas o morales realicen obras de infraestructura hidráulica, para agua potable, drenaje y saneamiento, así como las señaladas en la fracción VII, del artículo 113 de la Ley de Aguas Nacionales, que eviten una erogación a la Comisión Nacional del Agua, la Secretaría de Hacienda y Crédito Público, autorizará previa opinión técnica favorable de la propia Comisión, el acreditamiento contra el monto de los derechos sobre agua que les corresponda pagar, por un monto equivalente a los gastos en que hubiera incurrido la mencionada Comisión para desarrollar dicho satisfactor.
 
-Los organismos o empresas públicos o privados, que obtengan autorización de la Comisión Nacional del Agua, expedida conforme al presente artículo, deberán notificarlo a la Secretaría de Hacienda y Crédito Público, dentro de los diez días siguientes a su expedición. De no presentarse este aviso dentro del plazo señalado, se entenderá revocada la autorización a que se refiere este artículo.
+La Comisión Nacional del Agua, supervisará y emitirá opinión técnica favorable, siempre y cuando la obra que se pretenda acreditar, esté contemplada como parte de los proyectos que atienden el cumplimiento de los objetivos y metas del programa sectorial de mediano plazo, elaborado de acuerdo con el Plan Nacional de Desarrollo.
+
+El monto a acreditar, deberá efectuarse en la declaración provisional trimestral o bien en la declaración del ejercicio fiscal que corresponda. Cuando el monto a acreditar sea mayor al derecho a cargo, el excedente se descontará en las siguientes declaraciones provisionales trimestrales o anuales.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -9251,11 +9125,19 @@ Los organismos o empresas públicos o privados, que obtengan autorización de la
 
 ###### ARTICULO 232.
 
-Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen bienes del dominio marítimo, la zona federal marítima, los diques, cauces, vasos, zonas de corrientes, depósitos de propiedad nacional y otros inmuebles del dominio público distintos de los señalados en otros Capítulos de este Título, conforme a lo que a continuación se señala:
+Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen bienes del dominio público de la Federación en los puertos, terminales, e instalaciones portuarias, la zona federal marítima, los diques, cauces, vasos, zonas de corrientes, depósitos de propiedad nacional y otros inmuebles del dominio público distintos de los señalados en otros Capítulos de este Título, conforme a lo que a continuación se señala:
 
-I.- El 7.5% anual del valor del inmueble concesionado o permisionado incluyendo terreno, obras e instalaciones, en su caso.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+I.- El 7.5% anual del valor del inmueble concesionado o permisionado incluyendo terreno, áreas de agua ocupadas, obras e instalaciones, en su caso.
+
+Cuando se trate de bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales, distintos de los señalados en las fracciones IV y V de este artículo, pagarán anualmente por metro cuadrado de superficie concesionada o permisionada, la siguiente cuota............. $ 1.2679
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 II.- El 3.5% anual del valor del inmueble concesionado o permisionado, cuando se destine para protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- El 2% anual del valor del inmueble concesionado o permisionado, cuando en el inmueble se realicen actividades agropecuarias.
 
@@ -9263,13 +9145,23 @@ Para los efectos de las fracciones I, II y III que anteceden, el valor del inmue
 
 Cada cinco años como máximo deberá realizarse un nuevo avalúo, si el término de la concesión o permiso excede del periodo mencionado. Dicho avalúo únicamente deberá considerar el inmueble como originalmente se concesionó o permisionó, sin incluir las mejoras y adiciones que se hubieren efectuado durante la concesión o el permiso.
 
-IV.- De $ 0.0902 bimestrales por metro cuadrado, cuando el uso o goce consista en la realización de actividades agropecuarias, en el caso de los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-V.- De $ 0.18 bimestrales por metro cuadrado, cuando el inmueble se destine para protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste, respecto de aquellos bienes nacionales contenidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
+IV.- De $ 0.0201 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades agrícolas o pecuarias, en el caso de los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
 
-VI.- De $ 0.0902 mensuales por metro cuadrado cuando el uso o goce consista en la realización de actividades pesqueras, en el caso de los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-VII.- De $ 0.0036 mensuales por metro cuadrado, cuando el uso o goce consista en la realización de actividades de acuacultura, en el caso de los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
+V.- De $ 1.2649 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste, respecto de aquellos bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VI.- De $ 1.2679 anual por metro cuadrado cuando el uso o goce consista en la realización de actividades pesqueras.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VII.- De $ 0.0505 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de acuacultura.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VIII.- Por instalaciones de telecomunicación:
 
@@ -9283,11 +9175,15 @@ b).- En espacios abiertos, mensualmente:
 
 c).- Por el derecho de uso de vía de las carreteras, vías férreas y puentes de jurisdicción federal con las instalaciones de ductos o cableados de redes públicas de telecomunicaciones, anualmente, por cada kilómetro o fracción............. $ 179.46.
 
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 IX.- Por los espacios dentro de inmuebles de propiedad federal que no rebasen 30 m2, en donde se instalen módulos o máquinas expendedoras de bienes o servicios, se pagará por metro cuadrado o fracción, por cada mes............. $ 100.00
 
 El derecho a que se refiere esta fracción, se efectuará anticipadamente mediante pagos provisionales semestrales a más tardar el día 17 de los meses de enero y julio del ejercicio de que se trate.
 
 El derecho del ejercicio, deducidos los pagos provisionales semestrales, se pagará mediante declaración que se presentará en las oficinas autorizadas dentro de los dos meses siguientes al cierre del mismo ejercicio.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 X.- Por el depósito de restos humanos áridos o cremados en un nicho construido en templos de propiedad federal o sus anexidades, por cada depósito............. $ 290.00
 
@@ -9321,67 +9217,65 @@ Los bienes a que se refiere este artículo en ningún caso serán objeto de los 
 
 Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas. El monto del derecho a pagar se determinará con los siguientes valores y las zonas a que se refiere el artículo 232-D de esta Ley:
 
-ZONAS USOS
+(VEASE ARCHIVO ANEXO)
 
-PROTECCIÓN Y AGRICULTURA, DISTINTOS A LOS
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-ORNATO GANADERÍA, PESCA Y ANTERIORES
+Se considerará como uso de protección, el que se dé a aquellas superficies ocupadas que mantengan el estado natural de la superficie concesionada, no realizando construcción alguna y donde no se realicen actividades de lucro. Se exceptúan las obras de protección contra fenómenos naturales.
 
-($/m2) ACUACULTURA ($/m2)
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-($/m2)
+Se considerará como uso de ornato, el que se dé a aquellas superficies ocupadas en las cuales se hayan realizado obras de ingeniería civil, cuya construcción no requiera de trabajos de cimentación, y que estén destinadas exclusivamente para el embellecimiento del lugar o para el esparcimiento del solicitante, siempre y cuando dichas áreas no estén vinculadas con actividades lucrativas.
 
-ZONA I 0.18 0.055 0.50
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-ZONA II 0.35 0.055 1.00
+Se considerará como uso general el que se dé a aquellas superficies ocupadas en las cuales se hayan realizado construcciones con cimentación o se lleven a cabo actividades con fines de lucro. Se exceptúan las obras de protección o defensa contra fenómenos naturales.
 
-ZONA III 0.70 0.055 2.00
+> <small>(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-ZONA IV 1.05 0.055 3.00
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-ZONA V 1.40 0.055 4.00
-
-ZONA VI 2.10 0.055 6.00
-
-ZONA VII 2.80 0.055 8.00
-
-ZONA VIII 5.25 0.055 15.00
-
-ZONA IX 7.00 0.055 20.00
-
-ZONA X 14.00 0.055 40.00
-
-En el caso de las playas, la zona federal marítimo terrestre, los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas concesionados o permisionados, colindantes con terrenos en breña, donde no se cuente con los servicios de agua potable, drenaje o electricidad, el derecho por el uso, goce o aprovechamiento de inmuebles, se pagará de conformidad con la cuota establecida en la Zona I a que se refiere este artículo y el 232-D de esta Ley.
-
-En aquellos casos en que las entidades federativas y municipios hayan celebrado convenios de colaboración administrativa en materia fiscal con la Secretaría de Hacienda y Crédito Público, los ingresos que se obtengan por el cobro de los derechos por el uso, goce o aprovechamiento de los inmuebles ubicados en la zona federal marítimo terrestre, podrán destinarlos cuando así lo convengan expresamente con ésta, a la vigilancia, administración, mantenimiento, preservación y limpieza de la zona federal marítimo terrestre, así como a la prestación de los servicios que requiera la misma.
+En aquellos casos en que las entidades federativas y municipios hayan celebrado convenios de colaboración administrativa en materia fiscal con la Secretaría de Hacienda y Crédito Público, los ingresos que se obtengan por el cobro de los derechos por el uso, goce o aprovechamiento de los inmuebles ubicados en la zona federal marítimo terrestre, y los terrenos ganados al mar podrán destinarlos cuando así lo convengan expresamente con ésta, a la vigilancia, administración, mantenimiento, preservación y limpieza de la zona federal marítimo terrestre, así como a la prestación de los servicios que requiera la misma.
 
 La Federación, las entidades federativas y los municipios que hayan convenido en dar el destino a los ingresos obtenidos conforme a lo señalado en el párrafo anterior, también podrán convenir en crear fondos para cumplir con los fines señalados en el mismo párrafo. La aportación a dichos fondos, se hará por la entidad federativa, por el municipio o cuando así lo acuerden por ambos, en un equivalente a dos veces el monto aportado por la Federación. En ningún caso la aportación de la Federación excederá del porcentaje que le corresponda como participación derivada del convenio de colaboración administrativa en materia fiscal federal y sólo se efectuará respecto de los ingresos que provengan de derechos efectivamente pagados y que hayan quedado firmes.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 232-D.
 
 Las zonas a que se refiere el artículo 232-C de esta Ley, son las siguientes:
 
-ZONA I. Estado de Campeche: Calkiní, Escárcega, Hecelchakán, Palizada y Tenabo; Estado de Chiapas: Acapetahua, Arriaga, Huixtla, Mapastepec, Mazatán, Pijijiapan Suchiate y Villa Comaltitlán; Estado de Guerrero: Cuajinicuilapa, Coyuca de Benítez, Florencio Villarreal y San Marcos; Estado de Oaxaca: San Dionisio del Mar, San Francisco del Mar, San Francisco Ixhuatán, San Mateo del Mar, San Miguel del Puerto, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Tapanatepec, San Pedro Tututepec, Santa María Huazolotitlán, Santa María Tonameca, Santa María Xadani, Santiago Astata, Santiago Jamiltepec, Santiago Pinotepa Nacional, Santiago Tapextla, Santo Domingo Armenta, Santos Reyes Nopala, Santo Domingo Tehuantepec y Santo Domingo Zanatepec; Estado de Sinaloa: Angostura, Elota, Escuinapa de Hidalgo, Guasave, Rosario y San Ignacio; Estado de Sonora: Bácum, Benito Juárez, Cajeme, Empalme, Etchojoa, Pitiquito, San Ignacio Río Muerto, y San Luis Río Colorado; Estado de Tabasco: Cárdenas, Centla y Paraíso.
+ZONA I. Estado de Campeche: Calkiní, Escárcega, Hecelchakán, Palizada y Tenabo; Estado de Chiapas: Acapetahua, Arriaga, Huixtla, Mapastepec, Mazatán, Pijijiapan, Suchiate y Villa Comaltitlán; Estado de Guerrero: Cuajinicuilapa, Coyuca de Benítez, Florencio Villarreal y San Marcos; Estado de Oaxaca: San Dionisio del Mar, San Francisco del Mar, San Francisco lxhuatán, San Mateo del Mar, San Miguel del Puerto, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Tapanatepec, San Pedro Tututepec, Santa María Huazolotitlán, Santa María Tonameca, Santa María Xadani, Santiago Astata, Santiago Jamiltepec, Santiago Pinotepa Nacional, Santiago Tapextla, Santo Domingo Armenta, Santos Reyes Nopala, Santo Domingo Tehuantepec y Santo Domingo Zanatepec; Estado de Sinaloa: Angostura, Elota, Escuinapa de Hidalgo, Guasave, Rosario y San Ignacio; Estado de Sonora: Bacum, Benito Juárez, Cajeme, Empalme, Etchojoa, Pitiquito, San Ignacio Río Muerto, y San Luis Río Colorado; Estado de Tabasco: Cárdenas, Centla y Paraíso.
 
-ZONA II. Estado de Colima: Armería y Tecomán; Estado de Guerrero: Azoyú, Copala, La Unión, Benito Juárez y Tecpan de Galeana; Estado de Jalisco: Cabo Corrientes y Tomatlán; Estado de Michoacán: Aquila; Estado de Nayarit: Santiago Ixcuintla; Estado de Oaxaca: Juchitán de Zaragoza, Salina Cruz y Santa María Colotepec; Estado de Quintana Roo: Felipe Carrillo Puerto; Estado de Sinaloa: Culiacán; Estado de Tamaulipas: Aldama, Matamoros, San Fernando y Soto la Marina; Estado de Veracruz: Tamalín, Tantima y Pánuco.
+ZONA II. Estado de Guerrero: Azoyú, Copala, La Unión, Benito Juárez y Tecpan de Galeana; Estado de Jalisco: Cabo Corrientes y Tomatlán; Estado de Michoacán: Aquila; Estado de Nayarit: Santiago Ixcuintla; Estado de Oaxaca: Juchitán de Zaragoza y Santa María Colotepec; Estado de Quintana Roo: Felipe Carrillo Puerto; Estado de Sinaloa: Culiacán; Estado de Tamaulipas: Aldama, Matamoros, San Fernando y Soto la Marina; Estado de Veracruz: Tamalín, Tantima y Pánuco.
 
-ZONA III. Estado de Campeche: Champotón; Estado de Chiapas: Tapachula y Tonala; Estado de Guerrero: Petatlán; Estado de Jalisco: La Huerta; Estado de Michoacán: Coahuayana y Lázaro Cárdenas; Estado de Oaxaca: San Pedro Pochutla; Estado de Sinaloa: Ahome; Estado de Sonora: Caborca, Hermosillo y Huatabampo; Estado de Tamaulipas: Altamira; Cd. Madero; Estado de Veracruz: Martínez de la Torre, Medellín de Bravo y Pueblo Viejo; Estado de Yucatán: Hunucmá, Sinanché, Yobain, Dzidzantún, Dzilam de Bravo y Tizimín.
+ZONA III. Estado de Campeche: Champotón; Estado de Colima: Armería y Tecomán; Estado de Chiapas: Tapachula y Tonalá; Estado de Guerrero: Petatlán y La Unión; Estado de Jalisco: La Huerta; Estado de Michoacán: Coahuayana y Lázaro Cárdenas; Estado de Oaxaca: Salina Cruz y San Pedro Pochutla; Estado de Sinaloa: Ahome; Estado de Sonora: Caborca, Hermosillo y Huatabampo; Estado de Tamaulipas: Altamira, Cd. Madero; Estado de Veracruz: Martínez de la Torre, Medellín de Bravo y Pueblo Viejo; Estado de Yucatán: Hunucma, Sinanche, Yobain, Dzidzantún, Dzilam de Bravo y Tizimín.
 
-ZONA IV. Estado de Campeche: El Carmen; Estado de Nayarit: Tecuala; Estado de Quintana Roo: Lázaro Cárdenas y Othón P. Blanco; Estado de Veracruz: Ángel R. Cabada, La Antigua, Lerdo de Tejada, Mecayapan, Ozuluama, Pajapan, Papantla, Tatahuicapan, Tampico Alto.
+ZONA IV. Estado de Campeche: El Carmen; Estado de Nayarit: Tecuala; Estado de Quintana Roo: Lázaro Cárdenas y Othón P. Blanco; Estado de Veracruz: Ángel R. Cabada, La Antigua, Lerdo de Tejada, Mecayapan, Ozuluama, Pajapan, Papantla, Tatahuicapan, Tampico Alto; Estado de Yucatán: Telchac Puerto, Río Lagartos y San Felipe.
 
-ZONA V. Estado de Baja California: Mexicali; Estado de Campeche: Campeche; Estado de Nayarit: San Blas; Estado de Sinaloa: Navolato; Estado de Veracruz: Vega de Alatorre, Tamiahua, Nautla, Alto Lucero, Cazones de Herrera, San Andrés Tuxtla, Catemaco, Actopan, Úrsulo Galván, Agua Dulce; Estado de Yucatán: Telchac Puerto, Río Lagartos, San Felipe y Celestum.
+ZONA V. Estado de Baja California: Mexicali; Estado de Campeche: Campeche; Estado de Nayarit: San Blas; Estado de Sinaloa: Navolato; Estado de Veracruz: Vega de Alatorre, Tamiahua, Nautla, Alto Lucero, Cazones de Herrera, San Andrés Tuxtla, Catemaco, Actopan, Úrsulo Galván, Agua Dulce y Tuxpan; Estado de Yucatán: Celestum e Ixil.
 
-ZONA VI. Estado de Baja California: Ensenada; Estado de Baja California Sur: Comondú; Estado de Quintana Roo: Isla Mujeres; Estado de Veracruz: Alvarado, Tecolutla y Tuxpan; Estado de Yucatán: Progreso, e Ixil.
+ZONA VI. Estado de Baja California: Ensenada; Estado de Baja California Sur: Comondú; Estado de Veracruz: Alvarado y Tecolutla; Estado de Yucatán: Progreso.
 
-ZONA VII. Estado de Baja California: Tijuana; Estado de Baja California Sur: Mulegé; Estado de Jalisco: Cihuatlán; Estado de Nayarit: Compostela; Estado de Sonora: Guaymas; Estado de Veracruz: Coatzacoalcos.
+ZONA VII. Estado de Baja California: Tijuana; Estado de Baja California Sur: Mulegé; Estado de Jalisco: Cihuatlán; Estado de Nayarit: Compostela; Estado de Quintana Roo: Isla Mujeres; Estado de Sonora: Guaymas; Estado de Veracruz: Coatzacoalcos.
 
-ZONA VIII. Estado de Baja California: Playas de Rosarito; Estado de Baja California Sur: Loreto; Estado de Oaxaca: San Pedro Mixtepec; Estado de Quintana Roo: Cozumel; Estado de Nayarit: Bahía de Banderas; Estado de Sinaloa: Mazatlán; Estado de Sonora: Puerto Peñasco; Estado de Veracruz: Boca del Río y Veracruz.
+ZONA VIII. Estado de Baja California: Playas de Rosarito; Estado de Baja California Sur: Loreto; Estado de Colima: Manzanillo; Estado de Oaxaca: San Pedro Mixtepec; Estado de Quintana Roo: Cozumel; Estado de Nayarit: Bahía de Banderas; Estado de Sinaloa: Mazatlán; Estado de Sonora: Puerto Peñasco; Estado de Veracruz: Boca del Río y Veracruz.
 
-ZONA IX. Estado de Baja California Sur: La Paz; Estado de Colima: Manzanillo; Estado de Guerrero: José Azueta; Estado de Oaxaca: Santa María Huatulco; Estado de Quintana Roo: Solidaridad.
+ZONA IX. Estado de Baja California Sur: La Paz; Estado de Guerrero: José Azueta; Estado de Oaxaca: Santa María Huatulco; Estado de Quintana Roo: Solidaridad.
 
-ZONA X: Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco de Juárez; Estado de Jalisco: Puerto Vallarta; Estado de Quintana Roo: Benito Juárez.
+ZONA X. Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco de Juárez; Estado de Jalisco: Puerto Vallarta; Estado de Quintana Roo: Benito Juárez.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 232-E.
+
+Las entidades federativas que estén adheridas al Sistema Nacional de Coordinación Fiscal, podrán celebrar convenios de colaboración administrativa en materia fiscal federal con la Secretaría de Hacienda y Crédito Público, para que, por conducto de sus municipios, ejerzan funciones operativas de administración, sobre los ingresos que se obtengan por el cobro de derechos a que se refiere el artículo 232, fracción I, segundo párrafo de esta Ley, así como las fracciones IV y V del mismo artículo, por el uso, goce o aprovechamiento de inmuebles ubicados en las riberas o zonas federales contiguas a los cauces de las corrientes y en los vasos o depósitos de propiedad nacional.
+
+En los términos de los convenios que se hubieren celebrado de conformidad con lo dispuesto en el párrafo anterior, los municipios de las entidades federativas y el Distrito Federal percibirán el 90% de la recaudación que se obtenga por los derechos y sus correspondientes accesorios, así como el 100% de las multas impuestas por ellos en el ejercicio de sus atribuciones.
+
+De dichos ingresos los municipios y el Distrito Federal destinarán, cuando menos, el 50% a la custodia, conservación, mantenimiento y regularización de la zona federal a que este artículo se refiere, así como a la prestación de los servicios que la misma requiera.
+
+El 10% restante, se enterará a la Federación de conformidad con los propios convenios que se hayan suscrito.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -9389,7 +9283,7 @@ ZONA X: Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco d
 
 Para los efectos de los artículos 232 y 232-C, se estará a lo siguiente:
 
-I.- Podrá eximirse total o parcialmente del pago de este derecho a las entidades que presten servicios al Gobierno Federal o Entidades de la Administración Pública Federal, por un valor equivalente al derecho, siempre que éstas celebren convenios que cumplan con las reglas de carácter general que al efecto dé a conocer la Secretaría de Hacienda y Crédito Público.
+I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 II.- Tratándose del uso o goce de bienes de dominio público, se estará obligado al pago del derecho, se tenga o no concesión, cuando se obtenga un aprovechamiento especial, debiéndose revisar y ajustar el pago anualmente de conformidad a lo establecido por la presente Ley.
 
@@ -9397,23 +9291,47 @@ III.- No se pagará el derecho a que se refiere este artículo cuando el inmuebl
 
 IV.- No pagarán las asociaciones y sociedades civiles sin fines de lucro, que tengan concesión o permiso para el uso de las playas, la zona federal marítima terrestre o a cualquier otro depósito de aguas marítimas, así como la zona federal administrada por la Comisión Nacional del Agua y que realicen acciones encaminadas a conservar y restaurar el medio ambiente a través de la reforestación con especies nativas o la cobertura vegetal como manglares, vegetación de marismas, bosques de coníferas, selvas, arbustos y matorrales xerófilos inundables, pantanos salobres, reparios, mesófilos y vegetación hidrófila.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+V.- No se pagará el derecho a que se refiere el artículo 232-C de esta Ley, cuando la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas estén ocupados por monumentos arqueológicos, históricos o museos, bajo la administración del Instituto Nacional de Antropología e Historia.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VI.- No se pagará el derecho a que se refiere el artículo 232-C de esta Ley, cuando la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas estén destinados a labores de seguridad nacional, que realicen las Secretarías de la Defensa Nacional y de Marina.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VII.- No se pagará el derecho a que se refiere el artículo 232-C de esta Ley, cuando la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas estén destinados a labores propias de las capitanías de puerto de la Secretaría de Comunicaciones y Transportes.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 234.
 
-Los derechos a que se refieren los artículos 232, 232-A y 232-C de esta Ley, se calcularán por ejercicios fiscales. Los contribuyentes efectuarán pagos bimestrales provisionales a más tardar el día 17 de los meses de marzo, mayo, julio, septiembre, noviembre del mismo ejercicio fiscal y enero del siguiente, mediante declaración que presentarán en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público. El pago provisional por el uso o goce de inmuebles será una sexta parte del monto del derecho calculado al año.
+Los derechos a que se refieren los artículos 232, 232-A y 232-C de esta Ley, se calcularán por ejercicios fiscales. Los contribuyentes efectuarán pagos provisionales bimestrales a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre y noviembre del mismo ejercicio fiscal y enero del siguiente, mediante declaración que presentarán en las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público. El pago provisional por el uso, goce o aprovechamiento de inmuebles será una sexta parte del monto del derecho calculado al año.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 El derecho del ejercicio, deducidos los pagos provisionales bimestrales, se pagará mediante declaración que se presentará ante las oficinas autorizadas dentro de los tres meses siguientes al cierre del ejercicio.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Los contribuyentes que estén obligados al pago de los derechos establecidos en los artículos 232, fracciones IV y V y 232-C de esta Ley, podrán optar por presentar la primera declaración bimestral y posteriormente la declaración definitiva del pago del derecho por el ejercicio correspondiente, o en su caso, efectuar pagos provisionales bimestrales conforme al párrafo anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 234-A.
 
-Por los derechos para la publicación, reproducción o comunicación pública de fotografías, independientemente de los derechos señalados en los artículos 178-A y 178-B de esta Ley, se pagarán derechos por el uso, goce o aprovechamiento de los monumentos arqueológicos, artísticos e históricos, conforme a las siguientes cuotas:
+Por los derechos para la publicación, reproducción o comunicación pública de fotografías, independientemente de los derechos señalados en los artículos 176-A, 178-A y 178-B de esta Ley, se pagarán derechos por el uso, goce o aprovechamiento de los monumentos arqueológicos, artísticos e históricos, conforme a las siguientes cuotas:
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 I.- Impreso de 1 a 1000 ejemplares............. $ 73.12.
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 II.- Impreso de 1001 ejemplares en adelante o publicado en soporte filmado, videograbado o digital............. $ 219.47.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 No pagarán los derechos establecidos en este artículo las autoridades competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
@@ -9433,15 +9351,29 @@ III.- Determinar la cantidad de materiales extraídos de los cauces, vasos y zon
 
 Cuando las autoridades fiscales hagan las valuaciones a que se refiere este artículo, proporcionarán al contribuyente un extracto del avalúo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 236.
 
-Están obligadas a pagar el derecho por extracción de materiales, las personas físicas y morales que extraigan de los cauces, vasos y zonas de corrientes, así como de los depósitos de propiedad nacional, conforme a la cuota que resulte de aplicar el 10% al valor comercial de estos materiales.
+Están obligadas a pagar el derecho por extracción de materiales, las personas físicas y morales que extraigan de los cauces, vasos y zonas de corrientes, así como de los depósitos de propiedad nacional, conforme a la cuota que resulte de aplicar el 10% de los valores que a continuación se indican:
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-La Secretaría de Hacienda y Crédito Público en coordinación con la Comisión Nacional del Agua, dará a conocer el valor comercial de los materiales para efectos del cálculo de los derechos a que se refiere el presente artículo, mediante reglas de carácter general.
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+$/M3
+
+Grava............. $ 87.00
+
+Arena............. $ 87.00
+
+Arcillas y limos............. $ 63.00
+
+Materiales en greña............. $ 68.00
+
+Piedra............. $ 75.00
+
+Otros............. $ 26.00
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -9455,11 +9387,11 @@ No se pagará el derecho a que se refiere este artículo cuando el material se e
 
 (DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 236-B.
 
-Tratándose del derecho a que se refiere la fracción III del artículo 232 de esta Ley, la Comisión Nacional del Agua está facultada para ejercer las atribuciones señaladas en el artículo 192-E de esta Ley, así como en la distribución de los fondos que en el mismo se señala.
+Tratándose del derecho a que se refieren las fracciones IV y V del artículo 232 de esta Ley, la Comisión Nacional del Agua está facultada para ejercer las atribuciones establecidas en el artículo 192-E de esta Ley, así como en la distribución de los fondos que en el mismo se señala.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -9499,15 +9431,19 @@ El pago de este derecho se realizará previamente a la recolección, en las ofic
 
 Los distritos de riego y unidades de riego y de drenaje a los que se les hubiere otorgado permiso o concesión para la administración, operación, conservación y mantenimiento de los mismos, no pagarán el derecho por el uso, goce y explotación de la infraestructura de los distritos de riego o unidades de riego o de drenaje; tampoco se pagará en el caso de descentralización de acueductos o sistemas de suministro de agua en bloque construidos por el gobierno federal.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+No pagarán el derecho que se establece en el artículo 232-A, las entidades federativas o los municipios que presten el servicio público de agua potable y alcantarillado, que usen, o aprovechen infraestructura hidráulica destinada a la conducción de agua potable, así como la infraestructura de drenaje y saneamiento, cuando su construcción haya estado a cargo del Gobierno Federal.
+
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ### CAPITULO XIII. Minería
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
-#### SECCION UNICA. Espectro Radioeléctrico
+#### SECCION SEGUNDA. Aguas Distintas de las de Distritos de Riego
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 238.
 
@@ -9579,13 +9515,15 @@ No se estará obligado al pago del derecho a que se refiere este artículo y el 
 
 > <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION PRIMERA. Del derecho sobre hidrocarburos
+#### SECCION UNICA. Espectro Radioeléctrico
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO XIV. Derecho por Uso o Aprovechamiento de Bienes del Dominio Publico de la Nación como Cuerpos receptores de las descargas de Aguas Residuales
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-#### SECCION SEGUNDA. Del derecho adicional sobre hidrocarburos
+#### SECCION PRIMERA. Del derecho sobre hidrocarburos
 
 ###### ARTICULO 239.
 
@@ -9593,33 +9531,35 @@ Las personas físicas y las morales que usen o aprovechen el espacio aéreo y, e
 
 Este derecho se pagará anualmente dentro de los meses de enero a junio del año de que se trate.
 
-Los contribuyentes podrán solicitar el auxilio de la Secretaría de Comunicaciones y Transportes para determinar el derecho por el uso del espectro radioeléctrico y si lo pagan conforme a la información que proporcione dicha Secretaría, quedarán liberados de cualquier responsabilidad posterior.
+> <small>(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 No pagarán el derecho que se establece en este Capítulo las empresas de radio y televisión que estén obligadas a retener el impuesto por servicios expresamente declarados de interés público por Ley, en los que intervengan empresas concesionarias de bienes del dominio directo de la nación.
 
-Los concesionarios que hayan obtenido frecuencias o bandas de frecuencias mediante licitación pública y que estén autorizados para la prestación del servicio de provisión de capacidad para el establecimiento de enlaces de microondas punto a punto, punto a multipunto o para la prestación del servicio de acceso inalámbrico, fijo o móvil, así como para la prestación del servicio de televisión o radio restringido u otros servicios, estarán exentos del pago de la cuota de derechos correspondiente por el uso del espectro.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Los concesionarios que hayan obtenido frecuencias o bandas de frecuencias mediante licitación pública y que estén autorizados para la prestación del servicio de provisión de capacidad para el establecimiento de enlaces de microondas punto a punto, punto a multipunto o para la prestación del servicio de acceso inalámbrico, fijo o móvil, así como para la prestación del servicio de televisión restringida u otros servicios, estarán exentos del pago de la cuota de derechos por el uso del espectro, correspondiente a las frecuencias o bandas de frecuencias que hubieren licitado y que por ellas se hubiese pagado la totalidad de la contraprestación económica que se refiere el artículo 14 de la Ley Federal de Telecomunicaciones.
 
 Aquellos concesionarios o permisionarios u otros usuarios de servicios de telecomunicaciones, que hayan contratado la operación de frecuencias o bandas de frecuencias con concesionarios que hayan obtenido frecuencias o bandas de frecuencias mediante licitación pública y que estén autorizados para la prestación del servicio de provisión de capacidad para el establecimiento de enlaces microondas de punto a punto, punto a multipunto o para la prestación del servicio de acceso inalámbrico, fijo o móvil, así como para la prestación del servicio de televisión o radio restringido u otros servicios, estarán exentos del pago de la cuota de derechos correspondiente a las frecuencias contratadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 240.
 
-El derecho por el uso del espectro radioeléctrico, por los sistemas de radiocomunicación privada, se pagará anualmente por frecuencia asignada conforme a las siguientes cuotas:
+El derecho por el uso del espectro radioeléctrico, por los sistemas de radiocomunicación privada, se pagará anualmente por cada frecuencia asignada, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-I.- Por equipo base $ 778,000.00
+I.- Para redes que cuenten con estaciones base o repetidoras:
 
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+a).- Por cada estación base $ 3,800.00
 
-II.- Por equipo repetidor N$ 842.00
+b).- Por cada estación repetidora $ 5,700.00
 
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-III.- Por equipo terminal móvil o portátil, se pagará por cada equipo N$ 100.00
+II.- Para quienes únicamente cuenten con equipos móviles o portátiles en la red, se pagará por todos los equipos móviles, portátiles o terminales de radiocomunicación privada de usuario $ 2,500.00
 
-Se pagará el 50% del derecho a que se refiere esta fracción por cada equipo adicional a los primeros 20.
+III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -9729,9 +9669,53 @@ Cuando se reutilicen las frecuencias a que se refieren las fracciones anteriores
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 244.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+El derecho por el uso del espectro radioeléctrico, por el servicio de televisión restringida de servicio fijo de distribución terrenal punto a multipunto, de señales codificadas de audio y video por microondas, por cada megahertz concesionado, se pagará de conformidad con la tabla siguiente:
+
+Área Básica de Servicio $
+
+denominada Cuota por MHz concesionado
+
+1.- Culiacán 793.00
+
+2.- Hermosillo 670.00
+
+3.- Juárez 1,153.00
+
+4.- Torreón 591.00
+
+5.- Monterrey 6,314.00
+
+6.- Saltillo 396.00
+
+7.- Mérida 528.00
+
+8.- Tuxtla Gutiérrez 563.00
+
+9.- Villahermosa 751.00
+
+10.- Guadalajara 3,614.00
+
+11.- León 1,401.00
+
+12.- San Luis Potosí 634.00
+
+13.- Querétaro 1,368.00
+
+14.- Puebla 1,549.00
+
+15.- Veracruz 542.00
+
+16.- Oaxaca de Juárez 660.00
+
+17.- Ciudad de México 33,427.00
+
+18.- Toluca 1,119.00
+
+19.- Pachuca de Soto 550.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -9941,9 +9925,9 @@ II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-### Capítulo XIV del Título II, de
+### Capítulo XIV del Título II,. de la Ley
 
-la Ley Federal de Derechos.
+Federal de Derechos
 
 Descargas cuya concentración 30 de junio 1o. de enero
 
@@ -9951,9 +9935,11 @@ de contaminantes de metales de 1997 del 2000
 
 pesados o cianuros rebasen
 
-los límites máximos permisibles
+los límites máximos
 
-señalados en la tabla I del
+permisibles señalados en la
+
+tabla I del Capítulo XIV del
 
 ###### ARTICULO 262.
 
@@ -9993,11 +9979,13 @@ En el caso de sustitución de concesiones o asignaciones por las causas prevista
 
 Los titulares de concesiones mineras que al amparo de dichas concesiones exploren o exploten la sal gema, así como las sales y los subproductos que se obtengan de salinas formadas por aguas provenientes de mares actuales, superficial o subterráneamente, de modo natural o artificial, pagarán N$ 0.33 por tonelada vendida de sal y sus subproductos por concepto de derechos sobre minería. Cuando se otorguen al mismo concesionario nuevas concesiones, se pagará el 25% del derecho por hectárea que corresponda, conforme a lo establecido en este precepto, sin que el pago adicional exceda de un monto equivalente al que se derive de aplicar la cuota a que se refiere este párrafo.
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 264.
 
-Los derechos sobre minería a que se refiere este Capítulo deberán pagarse semestralmente en los meses de enero y julio de cada año y los titulares de concesiones y asignaciones mineras deberán presentar en los meses de febrero y agosto copia del comprobante del pago ante la dependencia responsable de la aplicación de la Ley Minera.
+Los derechos sobre minería a que se refiere este Capítulo deberán pagarse semestralmente en los meses de enero y julio de cada año.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 Las concesiones y asignaciones mineras que se otorguen en el transcurso de un semestre pagarán la parte proporcional del derecho por el periodo que corresponda cubrir a partir de la fecha de su expedición, dentro de los treinta días naturales siguientes a la fecha de su inscripción en el Registro Público de Minería.
 
@@ -10052,6 +10040,658 @@ La cancelación de una concesión o asignación minera por el incumplimiento en 
 Los Estados y el Distrito Federal participarán en los ingresos del derecho sobre minería, en los términos de la Ley de Coordinación Fiscal. Al efecto los ingresos por el mencionado derecho se sumarán a la recaudación federal total para los fines de la determinación de los Fondos General y Financiero Complementario de Participaciones a que se refieren las fracciones I y II del artículo 2o. de la citada Ley.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+### Capítulo XIV del Título II, de
+
+la Ley Federal de Derechos.
+
+Descargas cuya concentración 30 de junio 1o. de enero
+
+de contaminantes de metales de 1997 del 2000
+
+pesados o cianuros rebasen
+
+los límites máximos permisibles
+
+señalados en la tabla I del
+
+###### ARTICULO 276.
+
+Están obligados a pagar el derecho por uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, las personas físicas o morales que descarguen en forma permanente, intermitente o fortuita aguas residuales en ríos, cuencas, cauces, vasos, aguas marinas y demás depósitos o corrientes de agua, así como los que descarguen aguas residuales en los suelos o las infiltren en terrenos que sean bienes nacionales o que puedan contaminar el subsuelo o los acuíferos, en términos de lo dispuesto en esta Ley.
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 277.
+
+Para los efectos del presente Capítulo se consideran:
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+I.- Aguas residuales: Las aguas de composición variada provenientes de las descargas de usos municipales, industriales, comerciales, de servicios, agrícolas, pecuarios, domésticos, incluyendo fraccionamientos y en general de cualquier otro uso, así como la mezcla de ellas.
+
+Cuando el contribuyente no separe en la descarga de agua residual el agua que no tiene este carácter, toda la descarga se considerará de agua residual para los efectos de esta Ley.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+II.- Carga de Contaminante: Cantidad de un contaminante expresada en unidades de masa sobre unidad de tiempo, aportada en una descarga de aguas residuales.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+III.- Cianuros: Suma de las concentraciones de todas las formas químicas simples y complejas que contengan el ion cianuro;
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+IV.- Coliformes Fecales: Bacterias aerobias Gram-negativas, no formadoras de esporas, de forma bacilar, y que incubadas a 44.5ºC en un término de 48 horas, fermentan la lactosa con producción de gas, pudiendo ser residentes del tracto digestivo humano y de animales de sangre caliente;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+V.- Cuerpo Receptor: Corrientes, depósitos naturales de agua, presas, cauces, zonas marinas o bienes nacionales donde se descargan aguas residuales, así como los terrenos en donde se infiltran o inyectan dichas aguas, cuando puedan contaminar el suelo o los acuíferos;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VI.- Demanda Bioquímica de Oxígeno5: Cantidad de oxígeno consumido por la actividad metabólica de microorganismos, en un periodo de cinco días, a 20C, considerando la suma de las concentraciones solubles y en suspensión;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+VII.- Descarga: Acción de verter, infiltrar, depositar o inyectar aguas residuales a un cuerpo receptor en forma continua, intermitente o fortuita.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+VIII.- Fósforo Total: Suma de las concentraciones de fosfatos, ortofosfatos, polifosfatos, fósforo inorgánico y fosfatos orgánicos;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+IX.- Grasas y Aceites: Cualquier material que puede ser recuperado como una sustancia soluble, en los siguientes solventes: n-hexano, triclorotrifluoroetano o una mezcla de 80% de n-hexano y 20% de metilterbutileter;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+X.- Índice de Incumplimiento: Cantidad de veces que la concentración de cada contaminante en las descargas de aguas residuales vertidas, rebasa los límites máximos permisibles establecidos en esta Ley, la cual se obtiene de la diferencia entre la concentración de contaminantes de las descargas de aguas residuales y la concentración establecida como límite máximo permisible, dividida entre esta última;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XI.- Límite Máximo Permisible: Valor o rango asignado a un parámetro, el cual no debe ser excedido en la descarga de aguas residuales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XII.- Metales Pesados: Suma de las concentraciones de los metales en solución o disueltos y en suspensión;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XIII.- Nitrógeno Total: Suma de las concentraciones de nitrógeno Kjeldahl, nitritos y nitratos;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+XIV.- Población: Corresponde al número de habitantes indicado en el Censo General de Población y Vivienda de 1990.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XV.- Potencial Hidrógeno (pH): Concentración de iones Hidrógeno expresada como logaritmo negativo que representa la acidez o alcalinidad del agua;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+XVI.- Tipos de contaminantes:
+
+a).- Contaminantes Básicos: Son aquellos compuestos y parámetros que se presentan en las descargas de aguas residuales y que pueden ser removidos o estabilizados mediante tratamientos convencionales. En lo que corresponde a esta Ley, sólo se consideran grasas y aceites, sólidos suspendidos totales, demanda bioquímica de oxígeno5, nitrógeno total (suma de las concentraciones de nitrógeno Kjeldahl, de nitritos y de nitratos, expresadas en miligramos por litro como nitrógeno), fósforo total y pH;
+
+b).- Contaminantes Patógenos y Parasitarios: Son aquellos microorganismos, quistes y huevos de parásitos que pueden estar presentes en las aguas residuales y que representan un riesgo para la salud humana, flora o fauna. En lo que corresponde a esta Ley, se consideran los coliformes fecales; expresados como número más probable de organismos por 100 mililitros;
+
+c).- Metales Pesados y Cianuros: Son aquellos que en concentraciones por encima de determinados límites, pueden producir efectos negativos en la salud humana, flora o fauna. En lo que corresponde a esta Ley, se consideran los siguientes: arsénico, cadmio, cobre, cromo, mercurio, níquel, plomo, zinc y cianuros expresados en su forma total.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XVII.- Sólidos Suspendidos Totales: Concentración de partículas que son retenidas en un medio filtrante de microfibra de vidrio, con un diámetro de poro de 1.5 micrómetros o su equivalente;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XVIII.- Uso Consuntivo: Volumen de agua de una calidad determinada que se consume al llevar a cabo una actividad específica, el cual se determina como la diferencia del volumen de una calidad determinada que se extrae, menos el volumen de una calidad también determinada que se descarga, y que se señalan en el título respectivo.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+XIX.- Embalse Artificial: Vaso de formación artificial que se origina por la construcción de un bordo o cortina y que es alimentado por uno o varios ríos o agua subterránea o pluvial.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+XX.- Embalse Natural: Vaso de formación natural que es alimentado por uno o varios ríos o agua subterránea o pluvial.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+XXI.- Estuario: Es el tramo del curso de agua, bajo la influencia de las mareas que se extiende desde la línea de costa hasta el punto donde la concentración de cloruros en el agua es de 250 miligramos por litro.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+XXII.- Humedales Naturales: Las zonas de transición entre los sistemas acuáticos y terrestres que constituyen áreas de inundación temporal o permanente, sujetas o no a la influencia de mareas, como pantanos, ciénegas y marismas, cuyos límites los constituyen el tipo de vegetación hidrófila de presencia permanente o estacional; las áreas donde el suelo es predominantemente hídrico; y las áreas lacustres o de suelos permanentemente húmedos, originados por la descarga natural de acuíferos.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+XXIII.- Riego no Restringido: La utilización del agua residual destinada a la actividad de siembra, cultivo y cosecha de productos agrícolas en forma ilimitada como forrajes, granos, frutas, legumbres y verduras.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+XXIV.- Riego Restringido: La utilización del agua residual destinada a la actividad de siembra, cultivo y cosecha de productos agrícolas, excepto legumbres y verduras que se consumen crudas.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 278.
+
+Por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, se causará el derecho de acuerdo con el tipo del cuerpo receptor en donde se realice la descarga, conforme al volumen de agua descargada y los contaminantes vertidos, en lo que rebasen los límites máximos permisibles establecidos en la presente Ley.
+
+Los responsables de las descargas de aguas residuales no deberán exceder los límites máximos permisibles establecidos en esta Ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 278-A.
+
+Los cuerpos de propiedad nacional, receptores de las descargas de aguas residuales, se clasifican como sigue:
+
+Se consideran tipo A, todos los que no se señalan como tipos B o C: se consideran tipo B todos los Estuarios y Humedales Naturales.
+
+Asimismo, se consideran tipo B, todos los Embalses Naturales o Artificiales, a excepción de los que se clasifican como tipo C.
+
+CUERPOS RECEPTORES TIPO "B":
+
+Aguascalientes: Río San Pedro en los municipios de Aguascalientes, Rincón de Romos, Jesús María, San Francisco de los Romo, Pabellón de Arteaga, Tepezala y Cosio; Ríos Malpaso, Manzano, La Labor y Calvillo, Arroyos Rincón Verde, Ojocaliente y Cebolletas en el municipio de Calvillo; Río Blanco y Río Prieto en el municipio de San José de Gracia; Río Pabellón en los municipios de Pabellón de Arteaga y Rincón de Romos; Arroyos, El Saucillo, El Túnel y Las Burras en el municipio de Rincón de Romos; Río Santiago y Arroyo Ojo Zarco en el municipio de Pabellón de Arteaga; Río Morcinique en los municipios de Jesús María y Aguascalientes; Arroyos Las Víboras, San Nicolás, La Escondida, Salto de Montoro (Las Venas), La Pileta (Peñuelas), y La Chavena en el municipio de Aguascalientes; Arroyos La Concepción y San José de Guadalupe en el municipio de Jesús María; Arroyo Piedras Negras en el municipio de Asientos; Río Chicalote en los municipios de Asientos, San Francisco de los Romo y Jesús María; Arroyo San Francisco en los municipios de Aguascalientes y El Llano; Río Gil en los municipios de Jesús María y Calvillo.
+
+Baja California: Arroyos Doña Petra, Aguajito, Ensenada, San Carlos, Las Ánimas, El Gallo, Cuatro Milpas, El Sauzal, El Carmen, San Vicente, Salado, San Rafael, San Telmo, Santo Domingo, Las Escopetas, Aguachiquita, Nueva York, San Simón, El Socorro, El Rosario, La Misión y Las Amarillas en el municipio de Ensenada; Arroyos Las Palmas, San Pablo, San José y Cañada Joe Bill y Río Tecate en el municipio de Tecate; Arroyos Las Palmas, Sainz, La Meza, México Lindo, Sánchez Taboada, Lázaro Cárdenas, Camino Verde, Agua Caliente, Matanuco, El Florido, Cerro Colorado, Presidentes, Gato Bronco, Sistema Álamo, Alamar, La Pechuga, Aviación o Pesteje, Aguaje de la Tuna, Cañón del Sol, Matadero, E. Zapata, Sistema Centro, Los Laureles, San Antonio de los Buenos, Río Tijuana en el municipio de Tijuana; Ríos Nuevo, Colorado y Hardy y Arroyo Las Amarillas en el municipio de Mexicali; Arroyos Guaguatay y El Descanso en el municipio de Playas de Rosarito; Bahías San Francisquito o Luis Gonzaga, De Los Ángeles, Camalú, Todos Santos, San Quintín y San Felipe Punta Estrella en el municipio de Ensenada; Costa de Tijuana en el municipio de Tijuana; Bahía de San Felipe-Punta Estrella y Golfo de Santa Clara en el municipio de Mexicali; Costa de Rosarito en el municipio de Playas de Rosarito.
+
+Baja California Sur: Arroyos San José de Gracia, La Purísima, San Isidro, Paso Hondo, Comondú, Santo Domingo y Las Bramonas en El municipio Comondú; Arroyos La Paz, San Bartolo, Los Gatos y San Antonio en el municipio de la Paz; Arroyos Boca de la Sierra, San Bartolo, Agua Caliente, Miraflores, Caduaño y San Jorge en el municipio de Los Cabos; Arroyos San José de Magdalena, Santa Águeda, La Parras y Ligui en el municipio de Loreto; Bahías Santa María, San Juanico, Las Barrancas, La Poza Grande y Magdalena, Punta Santo Domingo y Puerto San Andresito en el municipio Comondú; Bahías Tortugas, San Cristóbal, Asunción, San Hipólito, Ballenas, Santa Inés, Santa Rosalía, San Bruno, Concepción y Santa Ana, Puerto Escondido, Ensenada La Escondida, Punta Malarrimo y Punta Abreojos en el municipio de Mulegé; Bahías Santa Marina, Las Almejas, La Paz, La Ventana, Los Muertos, Las Palmas y Plutarco Elías Calles, Ensenadas San Juan de La Costa y Las Cruces, Punta Pescadero, Boca El Carrizal y Punta Lobos, en el municipio de la Paz; Bahías Migriño, San Lucas y San José del Cabo, Boce de La Vinorama, Cabos Pulmo, La Ribera y Los Frailes en el municipio de los Cabos; Bahías Loreto, Juncalipto y Ligui, Ensenadas Blanca, Agua Verde y Tembabichi, Puerto Escondido, en el municipio de Loreto.
+
+Campeche: Río Champotón en el municipio de Champotón; Laguna de Silvituc en el municipio de Calakmul; Río Palizada en el municipio de Palizada; Ríos Mamantel y Candelaria en los municipios de El Carmen y Escárcega; Río Chumpán en el municipio de El Carmen; Acuífero de la Península de Yucatán en los nueve municipios del Estado; Zona Costera del Estado de Campeche en los municipios de El Carmen, Tenabo, Hecelchakán, Calkiní, Champotón y Campeche.
+
+Coahuila: Río Bravo en los municipios de Ocampo, Acuña, Jiménez, Piedras Negras, Nava, Guerrero e Hidalgo; Arroyo Las Vacas en el municipio de Acuña; Río San Diego en los municipios de Zaragoza y Jiménez; Río San Rodrigo en los municipios Zaragoza, Jiménez y Piedras Negras; Arroyo el Tornillo en el municipio de Piedras Negras; Río Escondido en los municipios de Zaragoza, Nava y Piedras Negras; Río San Juan de Sabinas en los municipios de Múzquiz y San Juan de Sabinas; Río Álamos en los municipios de Múzquiz y San Juan de Sabinas; Río Sabinas en los municipios de San Juan de Sabinas, Sabinas, Progreso y Juárez; Río Salado de los Nadadores en los municipios de Lamadrid, Sacramento, Nadadores, San Buenaventura, Escobedo, Progreso y Juárez; Río Salado en el municipio de Juárez; Río Monclova en el municipio de Monclova; Río Nazas en los municipios de Torreón, Francisco I.- Madero y San Pedro de las Colonias; Tanques; Río Aguanaval en los municipios de Torreón, Matamoros y Viesca; Tanques Genty y Aguilereño en el municipio de Viesca.
+
+Colima: Arroyos San José y Punta de Agua en el municipio de Manzanillo, Arroyo Zacualpan en el municipio de Comala; Río Colima en los municipios de Cuauhtémoc y Villa de Álvarez.
+
+Chiapas: Río Gríjalva y sus afluentes en los municipios de Berriozábal, La Concordia, Tzimol, Venustiano Carranza, Socoltenango, Acala, Totolapa, Chiapilla, Tuxtla Gutiérrez, San Fernando, Chicoasén, Usumacinta, Copainalá, Ocozocoautla de Espinoza y Tecpatán; Ríos Santo Domingo y Grijalva en el municipio de Chiapa de Corzo; Río Sabinal y sus afluentes en el municipio de Tuxtla Gutiérrez; Río Frío en los municipios de San Cristóbal de Las Casas, San Lucas y Chiapilla; Río La Venta-Soyatenco en los municipios de Cintalapa, Jiquipilas y Ocozocoautla de Espinoza; Río Santo Domingo en los municipios de Villacorzo, Villaflores, Chiapa de Corzo y Suchiapa; Río Coatán en los municipios de Tapachula y Mazatán; Acuífero Cintalapa en los municipios de Cintalapa y Jiquipilas; Acuífero Tuxtla en los municipios de Tuxtla Gutiérrez, Chiapa de Corzo, Suchiapa, Berriozábal y Acalá; Acuífero Comitán en los municipios de Comitán de Domínguez, Las Margaritas, La Independencia, Altamirano y Teopisca; Acuífero San Cristóbal en los municipios de San Cristóbal de Las Casas e Ixtapa; Acuífero Arriaga-Pijijiapan en los municipios de Arriaga, Tonalá y Pijijiapan; Acuífero Acapetahua en los municipios de Mapastepec, Acapetahua, Villa Comaltitlán, Acacoyagua y Escuintla; Acuífero Soconusco en los municipios de Tapachula, Suchiate, Metapa, Tuxtla Chico, Mazatán, Huixtla y Frontera Hidalgo; Mar Muerto en los municipios de Arriaga y Tonalá.
+
+Chihuahua: Río Conchos en los municipios de Carichi, Nonoava y Bocoyna; Río Casas Grandes en el municipio de Ignacio Zaragoza; Río Santa María en el municipio de Bachíniva; Río Papigochi en el municipio de Temosachi; Río San Pedro en el municipio de Cusihuiriachi; Río Mayo en los municipios de Chinipas y Moris; Río Chinipas en los municipios de Chinipas, Guazapares y Uruachi; Río Urique en los municipios de Batopilas, Guachochi y Urique; Río San Miguel en los municipios de Balleza, Batopilas, Guachochi y Morelos, Ríos Sinaloa, Mohinora y Chinatu en los municipios de Guadalupe y Calvo; Río Septentrión en los municipios de Temoris y Urique; Río Moris en los municipios de Ocampo y Moris; Río Candameño en el municipio de Ocampo; Ríos Balleza, Porvenir y Agujas en el municipio de Balleza; Río Nonoava en el municipio de Nonoava; Río Los Loera en los municipios de Guadalupe y Calvo; Río Oteros en el municipio de Bocoyna; Río Batopilas en los municipios de Batopilas y Guachochi; Río Verde en los municipios de Guerrero y Temosachi; Ríos Aros y Tutuaca en los municipios de Temosachi y Madera.
+
+Distrito Federal: Río Magdalena en la Delegación Magdalena Contreras.
+
+Durango: Río Sauceda en los municipios de Durango y Canatlán; Río Nazas en los municipios de Cuencamé, Indé, El Oro, Rodeo, Nazas, Lerdo y Gómez Palacio; Río Santiago en los municipios de Durango, Canatlán y Santiago Papasquiaro; Río Tepehuanes en los municipios de Tepehuanes y Santiago Papasquiaro; Río Ramos en los municipios de Santiago Papasquiaro, El Oro e Indé; Río Sextín (El Oro) en los municipios de Tepehuanes, Guanaceví, San Bernardo, El Oro e Indé; Río San Juan en los municipios de Pánuco de Coronado, San Juan del Río y Rodeo; Río del Peñón o Covadonga en los municipios de Peñón Blanco y Nazas; Arroyo Cuencamé en el municipio de Cuencamé; Río Tamazula en los municipios de Canelas, Tamazula y Topia; Río San Lorenzo en los municipios de Santiago Papasquiaro, Tamazula y Canelas; Río Piaxtla en los municipios de Durango y San Dimas; Río Presidio en los municipios de Durango, Pueblo Nuevo y San Dimas; Ríos El Tunal y Santiago Bayacora en los municipios de Durango y Mezquital; Río Durango en los municipios de Durango y Nombre de Dios; Río Acaponeta en los municipios de Durango y Pueblo Nuevo; Río Humaya en los municipios de Guanaceví, Tepehuanes, Tamazula, Canelas y Topia; Río Florido en los municipios de Hidalgo, Indé, Ocampo y San Bernardo; Arroyo Cerro Gordo en el municipio Hidalgo; Río Mezquital en los municipios de Mezquital y Nombre de Dios, Río Súchil en los municipios de Nombre de Dios, Vicente Guerrero y Súchil; Río Poanas en el municipio de Poanas; Río Baluarte en el municipio de Pueblo Nuevo; Río Verde en el municipio de San Dimas; Río Habitas en los municipios de San Dimas y Tamazula; Río Graseros en los municipios de Súchil, Vicente Guerrero y Nombre de Dios; Arroyos Seco y Acequia Grande en el municipio de Durango; Río Aguanaval en los municipios de Santa Clara, Cuencamé, Poanas, San Juan Guadalupe y Simón Bolívar; Río Los Remedios en los municipios de Otáez y Tamazula; Río San Juan de Camarones en los municipios de Santiago Papasquiaro y Canelas, Río San Gregorio en el municipio de Santiago Papasquiaro; Río El Presidio en el municipio de Otáez; Arroyo San Juan en el municipio de Durango; Arroyos Pánuco y Las Casas en el municipio de Pánuco de Coronado; Arroyo El Gato en el municipio de Nuevo Ideal; Arroyo Guanaceví en el municipio de Guanaceví; Arroyo San Bernardo en el municipio de San Bernardo; Arroyos Las Pilitas y La Unión en el municipio de Indé; Arroyo Coneto en el municipio de Coneto de Comonfort; Arroyos Santa María y La Parrita en el municipio de El Oro; Arroyo Cuevecillas en el municipio de Canelas; Arroyo San Ignacio en el municipio de Tamazula; Río Topia en los municipios de Canelas y Topia; Arroyo Prieto en los municipios de Canatlán y Nuevo Ideal; Río Santa Clara (Río Santiago) en el municipio de Santa Clara; Río La Villa (Nombre de Dios) y Arroyo La Ciénega en el municipio de Nombre de Dios; Arroyo El Álamo en el municipio de Peñón Blanco; Arroyos La Rosilla y Quebrada El Salto en el municipio de Pueblo Nuevo; Arroyo El Mimbre en el municipio de Canatlán.
+
+Estado de México: Río Amanalco en el municipio de Amanalco.
+
+Guanajuato: Río Lerma en los municipios de Acámbaro, Salvatierra, Jaral del Progreso, Salamanca, Valle de Santiago, Pueblo Nuevo, Abasolo, Huanímaro y Pénjamo; Arroyos La Patiña, El Calvillo y Los Castillos en el municipio de León; Arroyos Santa Ana y Llano Largo en el municipio de Guanajuato.
+
+Guerrero: Río La Cofradía en el municipio de La Unión de Isidoro Montes de Oca; Río La Unión y sus afluentes directos: Ríos San Cristóbal y Las Juntas en los municipios de la Unión de lsidoro Montes de Oca y Coahuayutla de José María Izazaga; Río Pantla en el municipio de Teniente José Azueta; Río Ixtapa en los municipios de José Ma. lzazaga y La Unión; Río San Jeronimito en los municipios de Teniente José Azueta y Petatlán; Ríos Petatlán y Coyuquilla en el municipio de Petatlán; Ríos San Luis y Tecpan en el municipio de Tecpan de Galeana; Río Tecpan y su afluente directo el Río Chiquito en los municipios de Tecpan de Galeana y Atoyac de Álvarez; Río Atoyac en los municipios de Atoyac de Álvarez y Benito Juárez; Río Piloncillo afluente del Río Atoyac en el municipio de Atoyac de Álvarez; Río Coyuca y su afluente directo el Río La Hamaca o Aguas Blancas en el municipio de Coyuca de Benítez; Río la Sabana, Arroyos El Camarón, Aguas Blancas, Garita, Costa Azul, Deportivo e Icacos en el municipio de Acapulco de Juárez; Río Papagayo en los municipios de Acapulco de Juárez, San Marcos, Juan R. Escudero y Chilpancingo de los Bravo y sus afluentes: Río Omitlán en los municipios de Juan R. Escudero y Tecoanapa; Río San Miguel en el municipio de Chilpancingo de Los Bravo; Río La Unión en los municipios de Quechultenango, Tlacoapa, Tecoanapa y Acatepec; Río Azul en el municipio de Quechultenango; Río Huacapa en los municipios de Chilpancingo de Los Bravo, Quechultenango y Mochitlán; Ríos Cortés y La Estancia en el municipio de San Marcos; Río Nexpa los municipios de Cruz Grande y Ayutla de Los Libres y sus afluentes directos: Ríos Sauces, Tecoanapa y Tlatenango en los municipios de Tecoanapa y Ayutla de los Libres, Río Ayutla en los municipios de Tecoanapa, Acatepec y Ayutla de los Libres; Río Copala en los municipios de Copala y Cuautepec y sus afluentes directos: Río Cuautepec en el municipio de Cuautepec, Río Concordia en los municipios de Cuautepec, San Luis Acatlán y Ayutla de Los Libres, Río Yautepec en los municipios de Cuautepec y San Luis Acatlán; Río Marquelia en los municipios de Cuajinicuilapa, Azoyú y San Luis Acatlán y sus afluentes: Río Juchitán en el municipio de Azoyú y Río Chiquito en el municipio de San Luis Acatlán; Río Quetzala en los municipios de Cuajinicuilapa, Ometepec, lgualapa y Metlatonoc y sus afluentes directos: Río Cortijos en el municipio de Cuajinicuilapa, Río Santa Catarina en los municipios de Cuajinicuilapa, Ometepec, Xochistlahuaca y Tlacoachistlahuaca; Río Balsas en los municipios de Copalillo, Mártir de Cuilapa, Eduardo Neri, Cuetzalapa del Progreso, Tepecuacuilco, Apaxtla, San Miguel Totolapan, Arcelia, Tlapehuala, Pungarabato, Coyuca de Catalán, Zirándaro, Coahuayutla y La Unión de lsidoro Montes de Oca y sus afluentes directos: Río Tlapaneco en los municipios de Tlapa de Comonfort, Xalpatláhuac, Alpoyeca, Huamuxtitlán, Xochihuehuetlán, Olinalá y Copalillo, Río Mitlancingo en los municipios de Atlistac, Olinalá, Ahuacuotzingo y Copalillo, Río Amacuzac en los municipios de Atenango del Río y Copalillo, Río Tlapehualapa o Atzacualoya en los municipios de Zitlala y Copalillo, Río Apango en los municipios de Mártir de Cuilapa y Tixtla de Guerrero; Río Tepecuacuilco en los municipios de Tepecuacuilco de Trujano y Eduardo Neri; Río Cañón del Zopilote en el municipio de Eduardo Neri y su afluente directo el Río Huacapa en los municipios de Eduardo Neri y Leonardo Bravo, Río Cocula o Iguala en los municipios de Cocula, Eduardo Neri e Iguala de La Independencia, y sus afluentes directos Río Ahuehuepán en los municipios de Iguala de La Independencia y Teloloapan, Río los Sabinos en los municipios de Cocula, Teloloapan, Iguala de La Independencia e Ixcateopan de Cuauhtémoc; Río Cuetzala en el municipio de Cuetzala del Progreso; Río Coatepec en el municipio de Gral. Heliodoro Castillo; Río Oxtotitlán en los municipios de Teloloapan y Apaxtla; Río Ototlán o Truchas o Tetela en los municipios de Gral. Heliodoro Castillo y San Miguel Totolapan, y su afluente directo el Río Yextla en el municipio de Gral. Heliodoro Castillo; Río Pesoapa en los municipios de Teloloapan, Apaxtla y Arcelia; Río Poliutla o San Pedro o Palos Altos en los municipios de Tlapehuala, Tlalchapa, Arcelia y Gral. Canuto A. Neri, y sus afluentes el Río Santo Niño y Río Arcelia en el municipio de Arcelia; Río Tlalchapa en el municipio de Tlalchapa; Río Ajuchitlán en el municipio de Ajuchitlán del Progreso y sus afluentes: Río Minero en el municipio de San Miguel Totolapan y Río La Esperanza en el municipio de Ajuchitlán del Progreso; Río Amuco o Tamacua o El Coyol en los municipios de Ajuchitlán del Progreso y Coyuca de Catalán y sus afluentes directos: Río Cuirio o Hacienda de Dolores y Río Tarétaro o Las Trojas en el municipio de Coyuca de Catalán; Río Cutzamala en los municipios de Cutzamala de Pinzón y Pungarabato, y sus afluentes: Río Ixtapan y Palmar Grande en el municipio de Cutzamala de Pinzón; Río del Oro o Frío en los municipios de Coyuca de Catalán y Zirándaro, y sus afluentes directos: Río San José y Arroyo El Chivo en el municipio de Zirándaro; Ríos Santa Rita y San Antonio en el municipio de Cohuayutla; Bahías de Zihuatanejo e Ixtapa en el municipio de Teniente José Azueta; Bahía de Puerto Marqués y Bahía de Acapulco en el municipio de Acapulco de Juárez.
+
+Hidalgo: Río Calabozo en el municipio de Huautla; Río Atlapexco en el municipio de Atlapexco; Río Candelaria en el municipio de Tlanchinol; Ríos Candelaria, Chinguiñoso, Malila, Tahuizán y Tecoluco en el municipio de Huejutla de Reyes; Río Claro en los municipios de Juárez, Hidalgo, Molango y Chapulhuacán.
+
+Jalisco: Río Ayuquila o Armería en los municipios de Tolimán, Tuxcacuesco y Zapotitlán; Río Manantlán o San José en el municipio de Autlán; Río Chico o Mezquitic o Bolaños en los municipios de Mezquitic, Villa Guerrero y Bolaños; Río Santiago en los municipios de Ocotlán, Poncitlán, Zapotlán del Rey y Chapala; Canal de Atequiza en los municipios de Chapala, Iztlahuacán de los Membrillos, Poncitlán, Tlajomulco de Zúñiga y Tlaquepaque; Río San Pedro o Verde en los municipios de Teocaltiche, Villa Hidalgo, Jalostotitlán, Mexticacán, Villa Obregón, Valle de Guadalupe, Yahualica, Cuquío, Tepatitlán de Morelos, Acatic, Zapotlanejo e Ixtlahuacán del Río; Arroyo Cuixtla en el municipio de San Martín de Bolaños y San Cristóbal de la Barranca; Río Lerma en los municipios de Degollado, Ayotlán, Jamay y La Barca; Ríos Tomatlán y María García en el municipio de Tomatlán; Arroyos Las Amapas y El Nogalito y Ríos Cuale y Mismaloya en el municipio de Puerto Vallarta; Arroyo Chamela y Ríos Cuitzmala y Purificación en el municipio de La Huerta; Río Tecolote o Carmesí en el municipio de Casimiro Castillo; Río Zula o Los Sabinos en los municipios de Tototlán y Ocotlán; Arroyo San Marcos en el municipio de Chapala; Río La Pasión en el municipio de Tizapán El Alto; Río Calderón en los municipios de Tepatitlán y Acatic; Río El Valle en el municipio del Valle de Guadalupe; Río El Jihuite en el municipio de Tepatitlán de Morelos; Río Bramador en los municipios de Tomatlán y Talpa de Allende; Río San Juan de los Lagos en el municipio de San Juan de los Lagos.
+
+Michoacán: Ríos Chilchota y Duero en el municipio de Chilchota; Río Cupatitzio en los municipios de Uruapan y Gabriel Zamora; Río Zitácuaro aguas arriba de La Presa del Bosque en el municipio de Zitácuaro; Río Balsas en los municipios de Arteaga y Lázaro Cárdenas; Río Lerma en los municipios de José Sixto Verduzco, Angamacutiro, Penjamillo, Numarán, La Piedad, Yurécuaro, Tanhuato, Vista Hermosa y Briseñas; Ríos Tirio y Tiripetío en el municipio de Morelia.
+
+Morelos: Río Tembembe en el municipio de Miacatlán (hasta la derivadora Perritos); Río Apatlaco en su parte alta en los municipios de Huitzilac, Cuernavaca y Temixco; Arroyos Chalchihuapan, Zompantle, Ahutlán, Atzingo, El Tecolote, El Mango y El Túnel en el municipio de Cuernavaca; Arroyo Chapultepec en los municipios de Cuernavaca y Temixco; Arroyos Los Arquillos, Pilcaya y El Limón en el municipio de Temixco.
+
+Nayarit: Río Acaponeta en los municipios de Huajicori, Acaponeta y Tecuala; Río San Pedro en los municipios de El Nayar, Huajicori, Ruiz, Rosamorada, Tuxpan y Santiago Ixcuintla; Río Santiago en los municipios de La Yesca, Ixtlán del Río, Jala, Santa María del Oro, El Nayar, Tepic, Santiago Ixcuintla y San Blas; Río Mololoa en los municipios de Santa María del Oro, Xalisco y Tepic; Río Cañas en los municipios de Huajicori y Acaponeta; Bahía de Matanchén en el municipio de San Blas; Ensenada del Toro en el municipio de Compostela.
+
+Nuevo León: Río San Juan en los municipios de Santiago, Cadereyta Jiménez, General Terán, China, General Bravo, Los Ramones, Doctor Coss, Los Aldamas; Río Pilón en los municipios de Galeana, Rayones, Montemorelos; Río Santa Catarina en los municipios de Santiago, Santa Catarina, San Pedro Garza García, Monterrey, Guadalupe, Juárez, Cadereyta Jiménez; Río La Silla en los municipios de Monterrey, Guadalupe; Ríos Blanquillo y Ramos, Arroyo Mireles en el municipio de Allende; Arroyo La Chueca en el municipio de Santiago; Arroyo Mohinos en el municipio de China; Río Pablillo en los municipios de Galeana, Iturbide y Linares; Río Camacho o Hualahuises en los municipios de Hualahuises y Linares; Canal Sotolar en el municipio de Linares; Ríos Salado y Bravo en el municipio de Anáhuac; Río Blanco en los municipios de General Zaragoza y Aramberri.
+
+Oaxaca: Río Manialtepec en los municipios de San Pedro Tututepec y Santo Reyes Nopala; Río Mixteco en el municipio de Huajuapan de León; Río Tehuantepec en los municipios de Santo Domingo Tehuantepec y San Blas Atempa; Acuífero Valles Centrales en la Región Valles Centrales del Estado; Bahías de Huatulco en el municipio de Santa María Huatulco; Bahía de Salina Cruz y Golfo de Tehuantepec en el municipio de Salina Cruz; Bahía La Ventosa en el municipio de Salina Cruz, Océano Pacífico en las costas de Puerto Escondido en el municipio de San Pedro Mixtepec.
+
+Puebla: Río Pantepec en los municipios de Pantepec y Metlaltoyuca; Río Acalmán en los municipios de Naupan, Tlacuilotepec, Tlaxco, Honey, Pahuatlan y Jalpan; Río San Marcos en los municipios de Naupan, Tlacuilotepec, Xicotepec, y Jalpan; Río Necaxa en los municipios de Nuevo Necaxa, Tlaola, Zihuateutla y Jopala, Río Amixtlán en los municipios de Zihuateutla, Xicotepec, Jalpan y Venustiano Carranza; Río Cozapa en los municipios de Tlaola, Tlapacoya y Jopala; Río Agrio en los municipios de Zacatlán y Chignahuapan; Río Ajajalpan en los municipios de Chignahuapan, Zacatlán, Tepetzintla, Ahuacatlán, Chiconcuautla, Tlapacoya, San Felipe Tepatlán, Hermenegildo Galeana y Jopala; Río Zempoala en los municipios de Tetela de Ocampo, San Esteban Cuautempan, Huitzilán, Zapotitlán de Méndez, Zoquiapan, Atlequizayan, Caxhuacan, Huehuetla, Tuzamapan de Galeana y Tenampulco; Río Apulco en los municipios de Ixtacamaxtitlán, Santiago Zautla, Xochiapulco, Zacapoaxtla, Nauzontla, Xochitlán de Vicente Suárez, Cuetzalán del Progreso, Yaonahuac, Ayotoxco de Guerrero y Tenampulco; Río María de la Torre en los municipios de Teziutlán, Xiutetelco, Hueytamalco y Acateno; Río Tilapa en los municipios de Chichiquila y Quimixtlán; Río Huizilapan en los municipios de Tlachíchuca, Chichotla y Quimixtlán; Río Atoyac en los municipios de Tlahuapan, San Miguel Xoxtla, San Juan Cuautlancingo y Puebla y sus afluentes directos: Arroyo Tlapalac en San Miguel Xoxtla; Barranca Guadalupe, Barranca del Conde, Barranca San Jerónimo en el municipio de Puebla; Arroyo Rabanillo en los municipios de San Pedro Cholula y Puebla; Arroyo Zapatero en los municipios de San Andrés Cholula y Puebla; Río San Francisco, Arroyo Maravillas y Barranca Xaltonac en el municipio de Puebla; Río Alseseca en el municipio de Puebla y sus afluentes directos: Barranca San Sebastián, Barranca Manzanilla, Barranca San Antonio en el municipio de Puebla y Barranca San Diego en los municipios de Amozoc y Puebla; Río Nexapa en los municipios de San Nicolás de los Ranchos y Nealtican; Río Axamilpa en los municipios de Ixcaquixtla y Tepexi de Rodríguez; Río Atoyac (cuenca baja) en los municipios de Tzicatlacoyan, Atoyatempan, Huatlatlahuaca, Coatzingo, Ahuatlán, Cuayuca de Andrade, Tehuitzingo, Chiautla de Tapia y Santa María Cohetzala.
+
+Querétaro: Río Jalpan en los municipios de Jalpan de Serra, Pinal de Amoles y Arroyo Seco; Río Extoraz, en los municipios de Tolimán, Peñamiller, Pinal de Amoles y Jalpan de Serra; Río Tolimán en los municipios de Colón y Tolimán; Arroyo Arenal en el municipio de Querétaro; Río Huimilpan en los municipios de Huimilpan, Querétaro y Corregidora; Río Santa María en los municipios de Arroyo Seco y Jalpan de Serra; Río Querétaro en los municipios de Querétaro y El Marqués.
+
+Quintana Roo: Arroyos Huay Pix y Milagros, Lagunas Milagros, Guerrero y Bacalar, Bahía de Chetumal y Río Hondo o Azul o Santa María en el municipio Othón P. Blanco; Arroyos "Canal Nizuc” y "Canal Playa Linda" en el municipio de Benito Juárez.
+
+San Luis Potosí: Río Verde en los municipios de Armadillo de Los Infante, San Nicolás Tolentino, Villa Juárez, Cerritos, Guadalcázar, Ríoverde, Rayón, Cárdenas, Santa Catarina, Ciudad Fernández, San Ciro de Acosta, Lagunillas, Tamasopo, Zaragoza, Santa María del Río, Alaquines y Ciudad del Maíz; Ríos Gallinas y Tamasopo en los municipios de Cárdenas, Rayón, Tamasopo, Ciudad Valles y Aquismón; Río Valles en los municipios de El Naranjo, Ciudad Valles, Ciudad del Maíz y Tamuín; Río Tampaón en los municipios de Tamasopo, Aquismón, Ciudad Valles y Tamuín, Río Coy en los municipios de Aquismón, Tancanhuitz de Santos, Tanlajás y Ciudad Valles; Río Amajac en el municipio de Tamazunchale; Río Moctezuma en los municipios de Tamazunchale, Axtla de Terrazas, Coxcatlán, Tampamolón Corona, San Vicente Tancuayalab, Tamuín, Tanquián de Escobedo, Huehuetlán, Tancanhuitz de Santos, San Martín Chalchicuautla, Xilitla y Tanlajás; Río Choy en el municipio de Tamuín; Río Santa María en los municipios de Tierra Nueva, Santa María del Río, Villa de Reyes, Lagunillas, Aquismón, Santa Catarina, Zaragoza, Ríoverde y San Ciro de Acosta.
+
+Sinaloa: Río Fuerte en los municipios El Fuerte y Ahome; Ríos Culiacán, San Lorenzo y Tamazula en el municipio de Culiacán; Río Humaya en los municipios Badiraguato y Culiacán; Río Cañas en el municipio de Escuinapa; Río Sinaloa en los municipios de Sinaloa y Guasave; Río Baluarte en el municipio de Rosario; Río Piaxtla en el municipio San Ignacio; Río Elota en el municipio de Elota; Bahía de Mazatlán y Río Presidio en el municipio de Mazatlán.
+
+Sonora: Río Colorado en el municipio de San Luis Río Colorado; Río Sonoyta en el municipio General Plutarco Elías Calles; Río Altar en los municipios de Sáric, Nogales, Tubatama, Atil, Oquitoa y Altar; Río Magdalena y sus afluentes, Arroyos Cocóspera, Coyotillo, Bambuto y Los Alisos, en los municipios de Imuris, Benjamín Hill, Nogales, Santa Cruz, Trincheras, Magdalena y Santa Ana; Río Asunción y sus afluentes Arroyos Seco, El Sasabe y El Plomo en el municipio de Caborca; Río Sonora y sus afluentes Río San Miguel de Horcasitas, Río Zanjón y Río Bacanuchi en los municipios de Aconchi, Arizpe, Bacoachi, Banamichi, Baviácora, Benjamín Hill, Cananea, Carbo, Cucurpe, Hermosillo, Opodepe, Rayón, San Felipe de Jesús, San Miguel de Horcasitas y Ures; Río Matape y sus afluentes en los municipios de La Colorada, Empalme, Guaymas, Mazatán y Villa Pesqueira; Río Yaqui y sus afluentes: Ríos Bavispe, Aros, Nacori, Sahuaripa, Agua Prieta, Fronteras, Negro, Chico, Bacanora, Moctezuma y Suaqui y sus Arroyos más importantes en los municipios de Agua Prieta, Arivechi, Bacadehuachi, Bacanora, Bacerac, Bacum Bavispe, Cajeme, La Colorada, Cumpas, Divisaderos, Fronteras, Granados, Guaymas, Huachineras, Huasabas, Moctezuma, Naco, Nacozari de García, Nacori Chico, Onavas, Quiriego, Rosario, Sahuaripa, San Ignacio Río Muerto, San Javier, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Villa Hidalgo, Villa Pesqueira y Yécora; Río Mayo y sus afluentes Arroyos Los Cedros y Quiriego en los municipios de Álamos, Navojoa, Etchojoa Huatabampo, Navojoa, Quiriego y Rosario; Arroyo Cocoraque en los municipios de Benito Juárez y Quiriego; Río San Pedro en los municipios de Cananea, Naco y Santa Cruz; Río Santa Cruz en los municipios de Nogales y Santa Cruz; Drenes Agrícolas, Dren T-O, Yavaros, Moroncárit, Las Ánimas, Dren K y Dren L en los municipios de Etchojoa, Huatabampo y Navojoa; Drenes Agrícolas del Valle del Yaqui en los municipios de Bacum, Benito Juárez, Cajeme, Etchojoa, Guaymas y San Ignacio Río Muerto; Canales de Riego, Canal Principal Alto en los municipios de Benito Juárez, Cajeme y Navojoa; Canal Principal Bajo en los municipios de Benito Juárez y Cajeme; Canal Principal Bajo en los municipios de Benito Juárez y Cajeme; Canal Principal Margen Izquierda en los municipios de Etchojoa, Huatabampo y Navojoa; Zona Costera en el tramo comprendido desde el Golfo de Santa Clara hasta la Bahía San Jorge en los municipios de San Luis Río Colorado y Puerto Peñasco: Bahías Kino, Kumkaak y San Agustín en el municipio de Hermosillo; Bahía de Lobos en el municipio de San Ignacio Río Muerto; Bahías de Guaymas, San Carlos y Guásimas en el municipio de Guaymas; Bahía de Empalme en el municipio de Empalme; Bahías Santa Bárbara, Huatabampito y Yavaros en el municipio de Huatabampo.
+
+Tabasco: Ríos Carrizal y Grijalva en el municipio del Centro; Río Puxcatán en los municipios de Macuspana y Tacotalpa; Río Tacotalpa en el municipio de Tacotalpa; Río Teapa de La Sierra en el municipio de Teapa.
+
+Tamaulipas: Río Bravo en los municipios de Nuevo Laredo, Guerrero, Camargo, Mier, Miguel Alemán, Gustavo Díaz Ordaz, Reynosa, Río Bravo y Matamoros; Canal Soliseño en el municipio de Matamoros; Río Conchos en los municipios de Burgos, San Fernando y Méndez; Arroyo Burgos en el municipio de Burgos; Río Pilón en los municipios de Mainero, Villagrán, Hidalgo, San Carlos y Padilla; Río Purificación en los municipios de Güémez e Hidalgo; Río San Marcos en los municipios de Victoria y Güémez; Río Soto La Marina en el municipio de Soto La Marina; Río Tigre en los municipios de Aldama y Altamira; Río Guayalejo en los municipios de Jaumave, Llera, El Mante, Xicoténcatl y González; Río Sabinas en los municipios de Jaumave, Llera y Xicoténcatl; Río Frío en los municipios de Gómez Farías y El Mante; Río Mante, Arroyo Las Cazuelas, Dren Oriente y Canal Principal K-O en el municipio de El Mante; Río Tamesí en los municipios de González, Altamira y Tampico; Arroyo El Coyote en el municipio de Nuevo Laredo; Río San Juan y Dren Puertecitos en el municipio de Camargo; Dren Rancherías en los municipios Miguel Alemán y Camargo; Dren Huizache en los municipios de Camargo y Díaz Ordaz; Drenes El Anhelo y La Rosita, Ramal II del Dren Río Bravo, Desalinador Ramal 5.67 Izquierdo en el municipio de Reynosa; Dren El Morillo en los municipios de Río Bravo y Reynosa; Drenes Río Bravo, E-123, E-119 y Emisor Marginal en el municipio de Río Bravo; Drenes SR-14+400, 1+343, Valle Hermoso, Guadalupe, Agrícola 522, Anáhuac, Principal y Colector en el municipio de Valle Hermoso; Drenes Emisor Marginal, Principal, E-30, E-32 Izquierdo, Agrícola 2-26920, Agrícola E-25, Las Vacas y 20 de Noviembre en el municipio de Matamoros; Dren Las Blancas en los municipios de Matamoros y Valle Hermoso; Canales Lateral 25+600 y Principal Margen Derecha, Drenes Ebanito, Ramal IV y Contadero en el municipio de Abasolo; Ríos Blanco y Carrizal en el municipio de Aldama; Río Barberena en los municipios de Aldama y Altamira; Dren San Mamerio en los municipios de Jiménez y Abasolo; Arroyo El Olmo y Bordo El Saladito en el municipio de Victoria; Canal Sublateral 6+425, Canal Lateral 12+790 y Dren I en el municipio de Xicoténcatl; Arroyo Santa Bárbara en el municipio de Ocampo; Arroyo El Cojo en el municipio de González; Canal Guillermo Rodhe en los municipios de Camargo, Díaz Ordaz, Reynosa y Río Bravo; Canal Anzaldúas en los municipios de Reynosa, Río Bravo y Valle Hermoso; Canal Principal en el municipio de Abasolo; Acuífero Zona Norte en los municipios de Camargo, Reynosa, Río Bravo y Valle Hermoso; Acuífero Méndez en los municipios de Méndez, San Fernando y Burgos; Acuífero Hidalgo-Villagrán en los municipios de Hidalgo, Villagrán y Mainero; Acuífero de San Carlos-Jiménez en los municipios de San Carlos y Jiménez; Acuífero Victoria-Güémez en los municipios de Victoria y Güémez; Acuífero Palmillas y Jaumave en los municipios de Palmillas y Jaumave; Acuífero Tula-Bustamante en los municipios de Tula y Bustamante; Acuífero Llera-Xicoténcatl en los municipios de Llera y Xicoténcatl; Acuífero Ocampo-Antiguo Morelos en los municipios de Ocampo, Antiguo Morelos y Nuevo Morelos; Zona costera en los municipios de Matamoros, Altamira, Ciudad Madero, Tampico, San Fernando, Soto La Marina y Aldama; Marismas en el municipio de Altamira; Marismas de Tierra Negra en el municipio de Ciudad Madero; Río Álamo en el municipio de Mier; Arroyo El Coronel en el municipio de Guerrero; Arroyo El Buey en el municipio de Miguel Alemán y Arroyo San Juan en el municipio de Hidalgo.
+
+Veracruz: Río Pánuco y afluentes directos en los municipios de Pánuco y Pueblo Viejo; Río Tempoal y afluentes directos en los municipios de Platón Sánchez, Tempoal, El Higo y Tantoyuca; Río Chicayán y afluentes directos en el municipio de Pánuco; Río Calabozo y afluentes directos en los municipios de Tantoyuca y Chicontepec; Río Túxpam y afluentes directos en los municipios de Tuxpan y Temapache; Río Vinazco y afluentes directos en los municipios de Huayacocotla, Texcatepec, Tlachichilco, lxhuatlán y Chicontepec; Río Cazones y afluentes directos en los municipios de Cazones de Herrera, Poza Rica de Hidalgo y Coatzintla; Río Tecolutla y afluentes directos en los municipios de Tecolutla, Gutiérrez Zamora y Papantla; Río Nautla (Río Bobos) y afluentes directos en los municipios de Nautla y Martínez de la Torre; Río Misantla y afluentes directos en el municipio de Misantla; Río San Juan y afluentes directos en los municipios de Villa Azueta, Tlacotalpan, San Juan Evangelista, Hueyapan de Ocampo, Juan Rodríguez Clara, Isla, San Andrés Tuxtla y Santiago Tuxtla; Río Jamapa y afluentes directos en los municipios de Calcahualco, Alpatláhuac, Huatusco, Ixhuatlán del Café, Tepatlaxco, Zentla, Adalberto Tejeda, Soledad de Doblado, Manlio Fabio Altamirano, Jamapa, Medellín y Boca del Río; Río Coatzacoalcos y afluentes directos excepto el Arroyo Teapa en los municipios de Olutla, Ixhuatlán del Sureste, Coatzacoalcos, Jesús Carranza, Hidalgotitlán, Texistepec, Nanchital de Lázaro Cárdenas del Río y Minatitlán; Río Huazuntlán y afluentes directos en los municipios de Soteapan, Mecayapan, Pajapan y Chinameca; Río Tonalá y afluentes directos en los municipios de Las Choapas y Agua Dulce; Río Uspanapa y afluentes directos en los municipios de Las Choapas, Minatitlán, Moluacán e lxhuatlán del Sureste; Río Colipa y afluentes directos en los municipios de Vega de Alatorre, Colipa y Yecuatla; Río Pantepec y afluentes directos en el municipio de Temapache; Ríos Tomata e ltzapa en el municipio de Tlapacoyan; Río Atoyac y afluentes directos en el municipio de Paso del Macho; Río Moctezuma y afluentes directos en el municipio de El Higo; Río Huazuntlán y afluentes directos en los municipios de Coatzacoalcos y Minatitlán; Río Huitzilapan y afluentes directos en el municipio de lxhuacán de Los Reyes; Ríos Ahuacatlán, Huehueyapan y Cinco Palos en el municipio de Coatepec; Río Suchiapa en el municipio de Coatepec; Ríos Ocotal, Tezizapa y Yurivia en el municipio de Mecayapán; Ríos Socoyolapa y Pixquiac y afluentes directos en el municipio de Tlanelhuayocan; Río La Antigua y afluentes directos en los municipios de Xalapa, Coatepec, Jalcomulco, Tlaltetela, Totutla, Emiliano Zapata, Apazapan, Paso de Ovejas y La Antigua; Río Actopan en los municipios de Actopan y Úrsulo Galván; Ríos Sedeño y Sordo y afluentes directos en los municipios de Banderilla y Xalapa; Río Paso de La Milpa y afluentes directos en los municipios de Emiliano Zapata y Actopan; Río Los Pescados y afluentes directos en los municipios de Ixhuacán de Los Reyes, Teocelo, Cosautlán, Coatepec, Tuzamapán, Jalcomulco, Apazapán, Emiliano Zapata, Puente Nacional y La Antigua; Río Juchique en el municipio de Juchique de Ferrer; Playa Norte y Barra de Túxpam y Tecolutla en el municipio de Tecolutla; Playa las Gaviotas en el municipio de Coatzacoalcos; Playa Mocambo en el municipio de Boca del Río; Playas Villa del Mar y Norte en el municipio de Veracruz.
+
+Yucatán: Acuífero en los municipios de Baca, Bokobá, Calotmul, Cansahcab, Cantamayec, Celestún, Cenotillo, Chacsinkin, Chankom, Chapab, Chicxulub Pueblo, Chikindzonot, Chocholá, Chumayel, Cuncunul, Cuzamá, Dzan, Dzemul, Dzilam de Bravo, Dzitás, Dzoncauich, Huhí, Ixil, Káua, Kinchil, Kopomá, Mama, Maní, Mayapán, Mocochá, Muxupip, Opichén, Quintana Roo, Río Lagartos, Sacalum, Samahil, San Felipe, Sanahcat, Santa Elena, Sinanché, Sucilá, Sudzal, Suma, Tahdziú, Tahmek, Teabo, Tekal de Venegas, Tekantó, Tekom, Telchac Pueblo, Telchac Puerto, Tepakán, Tetiz, Teya, Tixcacalcupul, Tixméhuac, Tunkás, Uayma, Xocchel, Yaxkukul y Yobain.
+
+Zacatecas: Río Tenayuca en los municipios de Nochistlán y Apulco tramo aguas abajo Presa López Portillo hasta los límites del Estado de Jalisco; Río San Antonio en el municipio de Chalchihuites, en el tramo población de Gualterio hasta su confluencia con el Río San José; Arroyo de Enmedio en el municipio General Enrique Estrada; Río San Pedro en los municipios de Genaro Codina y Ciudad Cuauhtémoc dentro del tramo, cabecera municipal de Genaro Codina hasta antes de la Presa San Pedro Piedra Gorda; Acuíferos Sabinas e Hidalgo en los municipios de Chalchihuites y Sombrerete; Acuífero Corrales en los municipios de Chalchihuites, Jiménez del Teúl, Sombrerete y Valparaíso; Acuífero Valparaíso en los municipios de Monte Escobedo, Susticacán y Valparaíso; Acuífero Jerez en los municipios de Jerez, Tepetongo, Susticacán y Fresnillo; Acuífero Tlaltenango de Sánchez Román-Tepechitlán en los municipios de Momax, Atolinga, Tlaltenango, Tepechitlán, General Joaquín Amaro, Teúl de González Ortega y Benito Juárez; Acuífero García de la Cadena en los municipios de Trinidad García de la Cadena, Teúl de González Ortega y Benito Juárez; Acuífero Nochistlán en los municipios de Nochistlán de Mejía y Apulco; Acuífero Jalpa-Juchipila en los municipios de Villanueva, Tabasco, Huanusco, Jalpa, Apozol, Juchipila, Moyahua de Estrada, General Joaquín Amaro, Tlaltenango, Tepechitlán, Teúl de González Ortega, Mezquital del Oro y Nochistlán de Mejía; Acuífero Benito Juárez en los municipios de Zacatecas, Genaro Codina y Villanueva; Acuífero Villanueva en los municipios de Genaro Codina, Villanueva, Jerez y Tepetongo; Acuífero Ojocaliente en los municipios de Cuauhtémoc, Genaro Codina, Luis Moya, Ojocaliente y Guadalupe; Acuífero Villa García en los municipios de Villa García y Loreto; Acuífero de Aguanaval en los municipios de Fresnillo, Saín Alto y Cañitas de Felipe Pescador, Acuífero Ábrego en los municipios de Sombrerete, Saín Alto y Fresnillo; Acuífero Saín Alto en los municipios de Saín Alto y Sombrerete; Acuífero de El Palmar en los municipios de Francisco R. Murguía, Miguel Auza, Juan Aldama, Río Grande, Sombrerete y Saín Alto; Acuífero Cedros en los municipios de Melchor Ocampo y Mazapil; Acuífero El Salvador en los municipios de El Salvador y Concepción del Oro; Acuífero Guadalupe en el municipio de Mazapil; Acuífero Garzón en el municipio de Concepción del Oro; Acuífero Camacho en los municipios de Mazapil y Francisco R. Murguía; Acuífero El Cardito en los municipios de Mazapil y Villa de Cos, Acuífero Guadalupe de las Corrientes en los municipios de Mazapil, Villa de Cos, Francisco R. Murguía, Cañitas de Felipe Pescador y Fresnillo; Acuífero Puerto Madero en el municipio de Villa de Cos; Acuífero Calera en los municipios de Fresnillo, Calera, Enrique Estrada, Morelos, Pánuco y Zacatecas; Acuífero Chupaderos en los municipios de Villa de Cos, Pánuco, Fresnillo, Vetagrande y Guadalupe; Acuífero Guadalupe-Bañuelos en el municipio de Guadalupe; Acuífero La Blanca en los municipios de General Pánfilo Natera, Ojocaliente y Villa González Ortega; Acuífero Loreto en los municipios de Loreto, Ojocaliente, Noria de Ángeles y Villa González Ortega; Acuífero Villa Hidalgo en los municipios de Noria de Ángeles, Loreto, Pinos, Villa González Ortega y Villa Hidalgo; Acuífero Pinos en el municipio de Pinos; Acuífero Espíritu Santo, en los municipios de Villa Hidalgo y Pinos; Acuíferos Saldaña y Pino Suárez en el municipio de Pinos.
+
+CUERPOS RECEPTORES TIPO "C":
+
+Aguascalientes: Presa Plutarco Elías Calles en el municipio de San José de Gracia; Presa Abelardo L. Rodríquez en el municipio de Jesús María; Presa Pabellón en el municipio de Rincón de Romos.
+
+Baja California: Presa Emilio López Zamora en el municipio de Ensenada; Presa El Carrizo en el municipio de Tecate; Presa Abelardo L. Rodríguez en el municipio de Tijuana; Acuíferos Río Guadalupe, La Misión, Ensenada, San Quintín y Maneadero; Acuífero Tijuana; Acuíferos Río Colorado y San Felipe en el municipio de Mexicali.
+
+Baja California Sur: Acuíferos Punta Eugenia, Vizcaíno, San Ignacio, Mulegé-B Concepción, San Marcos-Palo Verde, San Bruno, San Lucas y L. Virg-S., Rosas-S-Águeda en el municipio de Mulegé; Acuíferos La Purísima, Mezquital Seco y Santo Domingo en el Municipio de Comondú; Acuífero Santa Rita, Las Pocitas-San Hilario, el Conejo-Los Viejos, Melitón Albañez, Cañada Honda, El Carrizal, Los Planes, Valle La Paz, El Coyote, Todos Santos, Pescadero y Plutarco Elías Calles en el municipio de La Paz; Acuíferos Migriño, Cabo San Lucas, Cabo Pulmo, San José del Cabo, Santiago y San Bartolo, en el municipio de Los Cabos; Acuífero A.V.-, Bonfil-Tepentú en los municipios de La Paz y Loreto; Acuíferos Loreto-Puerto Escondido, San Juan Bautista Londo Rosarito en el municipio de Loreto.
+
+Campeche: Laguna de Términos y Sistema Lagunar Adyacente en los municipios de El Carmen y Palizada.
+
+Coahuila: Presa la Amistad en el municipio de Acuña y Presa Venustiano Carranza en los municipios de Progreso y Juárez.
+
+Chihuahua: Presas Chihuahua y El Rejón en el municipio de Chihuahua y Presa Parral en el municipio de Hidalgo del Parral.
+
+Durango: Presa Lázaro Cárdenas en el municipio de Indé; Presa La Rosilla en el municipio de Pueblo Nuevo; Presa La Vieja en el municipio Guadalupe Victoria; Presa Francisco Zarco en los municipios de Cuencamé, Nazas y Lerdo; Presa San Jacobo en el municipio de Cuencamé.
+
+Estado de México: Presa Salazar en los municipios de Lerma y Ocoyoacac; Presa Villa Victoria en el municipio de Villa Victoria; Presas Valle de Bravo y Colorines en el municipio de Valle de Bravo; Presa Santo Tomás en el municipio de Santo Tomás; Presa Madín en los municipios de Naucalpan de Juárez, Jilotzingo y Cuautitlán-lzcalli; Presa Chilesdo en el municipio de Donato Guerra; Presa Tilostoc en el municipio de Valle de Bravo; Presa Tecuán en el municipio de Amatepec.
+
+Guanajuato: Presa El Palote en el municipio de León; Presas La Esperanza y La Soledad en el municipio de Guanajuato.
+
+Guerrero: Presa Vicente Guerrero en el municipio de Arcelia; Presa Valerio Trujano en el municipio de Tepecuacuilco de Trujano; Laguna de Tuxpan en el municipio de Iguala de La Independencia; Presa Jaltipan en el municipio de Tixtla.
+
+Hidalgo: Presa Jaramillo y Bordo la Estanzuela en el municipio de Pachuca de Soto.
+
+Jalisco: Lago Chapala en los municipios de Jamay, Ocotlán, Poncitlán, Chapala, Jocotepec, Tuxcueca y Tizapán El Alto; Presa La Joya en el municipio de Zapotlanejo; Presa El Salto en el municipio de Valle de Guadalupe; Presa Calderón en el municipio de Acatic; Presa La Red en el municipio de Tepatitlán; Presa El Jihuite en el municipio de Tepatitlán de Morelos; Presa Alcalá en el municipio de San Juan de los Lagos; Presa Cajón de Peña en el municipio de Tomatlán.
+
+Michoacán: Lago de Chapala en los municipios de Venustiano Carranza y Cojumatlán de Régules; Presa José María Morelos (La Villita) en el municipio de Lázaro Cárdenas; Presas Cointzio y La Mintzita en el municipio de Morelia; Presa del Bosque en el municipio de Zitácuaro; Presa Barraje de Ibarra en el municipio de Briseñas; Presa El Rosario en el municipio de Angamacutiro; Presas Pucuato, Sabaneta y Agostitlán (Mata de Pinos) en el municipio de Hidalgo; Presa Tuxpan en el municipio de Tuxpan; Lago de Camécuaro, en el municipio de Tangancícuaro; Lago de Cuitzeo en los municipios de Cuitzeo, Huandacareo, Chucándiro, Copándaro, Tarímbaro, Álvaro Obregón, Queréndaro, Zinapécuaro y Santa Ana Maya; Lago de Pátzcuaro en los municipios de Pátzcuaro, Quiroga, Erongarícuaro y Tzintzúntzan; Laguna de Zacapu en el Municipio de Zacapu; Lago Zirahuén en el municipio de Salvador Escalante; Río Balsas en los municipios de Huetamo y San Lucas; Ríos El Marquez y Tepalcatepec en el municipio de Mujica; Río Zicuirán aguas abajo de la Presa Zicuirán en el municipio de La Huacana.
+
+Morelos: Laguna de Tequesquitengo en los municipios de Puente de Ixtla y Jojutla; Laguna de Zempoala en el municipio de Huitzilac.
+
+Nuevo León: Presa el Cuchillo-Solidaridad en el municipio de China; Presa Rodrigo Gómez “La Boca", en el municipio de Santiago; Presa José López Portillo "Cerro Prieto" en el municipio de Linares; Laguna Salinillas en el municipio de Anáhuac.
+
+Querétaro: Presa Jalpan en el municipio de Jalpan de Serra; Presa La Ceja en el municipio de Huimilpan.
+
+Oaxaca: Río Papaloapan tramo Tuxtepec-Veracruz en los municipios de San Juan Bautista Tuxtepec y San Miguel Soyaltepec.
+
+Quintana Roo: Sistema Lagunar Nichupté o Bojórquez o Río Inglés o del Amor o Nizuc en el municipio de Benito Juárez.
+
+San Luis Potosí: Presas Gonzalo N. Santos, El Potosino y San José en el municipio de San Luis Potosí.
+
+Sinaloa: Presa Eustaquio Buelna en los municipios de Mocorito y Salvador Alvarado; Presa Lic. Adolfo López Mateos en el municipio de Badiraguato; Presa Sanalona en el municipio de Culiacán; Presa Lic. José López Portillo en el municipio de Cosalá; Presa Agustina Ramírez en el municipio de Escuinapa; Acuífero Río Fuerte en los municipios de Ahome y El Fuerte; Acuífero Río Sinaloa en los municipios de Sinaloa y Guasave; Acuífero Mocorito en los municipios de Mocorito, Salvador Alvarado y Angostura; Acuífero Río Culiacán en los municipios de Culiacán y Navolato; Acuífero Río San Lorenzo en el municipio de Culiacán; Acuífero Río Elota en el municipio de Elota; Acuífero Río Piaxtla en el municipio de San Ignacio; Acuífero Río Quelite en el municipio de Mazatlán; Acuífero Río Presidio en los municipios de Mazatlán y Concordia; Acuífero Río Baluarte en el municipio de Rosario; Acuíferos del Valle de Escuinapa, Barra de Teacapan y Río Canas en el municipio de Escuinapa.
+
+Sonora: Presa Álvaro Obregón en el municipio de Cajeme; Presa Abelardo L. Rodríguez en el municipio de Hermosillo; Presa Lázaro Cárdenas en el municipio de Villa Hidalgo.
+
+Tamaulipas: Presa Falcón en el municipio de Guerrero; Laguna La Nacha en el municipio de San Fernando; Presa Vicente Guerrero en los municipios de Güémez, Padilla y Casas; Lagunas de Champayán y La Puerta en el municipio de Altamira; Laguna del Chairel en el municipio de Tampico; Presa La Patria es Primero en los municipios de Casas y Abasolo; Presa República Española en el municipio de Aldama.
+
+Veracruz: Laguna de Chairel en el municipio de Pánuco; Manantial Ojo de Agua en los municipios de Orizaba e Ixtaczoquitlán; Manantiales La Cañada y Rancho Nuevo en el municipio de Alto Lucero; Manantiales El Pocito, Rincón de las Águilas y Arroyo Escondido en el municipio de Banderilla; Manantiales Los Amelitos, Cerro de Nacimiento y La Poza en el municipio de Altotonga; Manantial Matacatzintla en el municipio de Catemaco; Manantial El Rincón de Chapultepec en el municipio de Coacoatzintla; Manantiales Ojo de Agua, Las Lajas y Los Bonilla en el municipio de Coatepec; Manantial Dos Cruces en el municipio de Comapa; Manantial Las Tortugas en el municipio de Cuitláhuac; Manantial El Chorro en el municipio de Chicontepec; Manantiales El Resumidero, El Chico, de Vaquerías, El Castillo y La Represa en el municipio de Emiliano Zapata; Manantiales Axol, Coxolo y Tepetzingo en el municipio de Huatusco; Manantiales Pozo de Piedra y El Lindero en el municipio de Huayacocotla; Manantiales El Naranjo, Arroyo El Rincón, Arroyo El Pozo y Tezacobalt en el municipio de Ixhuacán de los Reyes; Manantiales Dos Arroyos y Los Berros en el municipio de Ixtaczoquitlán; Manantiales Tlacuilalostoc, Nixcamalonía y Arroyo Tlacuilalostoc en el municipio de Jalacingo; Manantial Corazón Poniente en el municipio de Jilotepec; Manantial Chicahuaxtla en el municipio de Maltrata; Manantial El Coralillo en el municipio de Miahuatlán; Manantiales Las Lajas y La Lima en el municipio de Misantla; Manantial Las Matillas en el municipio de Naolinco; Manantial Piedra Gacha en el municipio de Nogales; Manantial Cofre de Perote en el municipio de Perote; Manantial el Infiernillo en el municipio de Puente Nacional; Manantiales Talixco, El Salto y Piletas en el municipio de Rafael Lucio; Manantiales 1o. de Mayo, Nacimiento de Otapan, Avescoma, Tular I, Tular II, Tres Chorritos y El Caracol en el municipio de San Andrés Tuxtla; Manantiales El Chorro de Tío Jaime y El Balcón en el municipio de Teocelo; Manantiales Río de Culebras y Dos Pocitos en el municipio de Tonayan; Manantial La Represa en el municipio de Villa Aldama, Manantial El Castillo en el municipio de Xalapa; Manantiales Pozo Santo y Mata de Agua en el municipio de Xico; Río Tonto en el municipio de Tres Valles; Río Tecolapan en los municipios de Ángel R. Cabada, Saltabarranca y Lerdo de Tejada; Río Papaloapan en los municipios de Tres Valles, Otatitlán, Tlacotalpan, Tuxtilla, Chacaltianguis, Cosamaloapan, Amatitlán y Tlacojalpan.
+
+Yucatán: Acuífero en los municipios de Abalá, Conkal, Mérida, Kanasín, Tecoh, Timucuy, Tixpéhual, Ucú, Umán y Valladolid.
+
+Zacatecas: Presa José López Portillo (Tenayuca) en los municipios de Nochistlán de Mejía y Apulco.
+
+Tratándose de las descargas efectuadas desde plataformas marinas se aplicarán las cuotas establecidas para los cuerpos receptores tipo A, referidos como aguas costeras con explotación pesquera, navegación y otros usos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 278-B.
+
+El volumen de agua residual y las concentraciones de contaminantes descargados al cuerpo receptor se determinarán trimestralmente, conforme a lo siguiente:
+
+I.- Volumen:
+
+a).- Cuando el caudal de la descarga se efectúe en forma continua, intermitente o fortuita, y sea igual o mayor a 9,000 metros cúbicos en un trimestre, el contribuyente deberá instalar medidores totalizadores o de registro continuo en cada una de las descargas de agua residual. El volumen de cada descarga corresponderá a la diferencia entre la lectura tomada el último día del trimestre de que se trate y la lectura efectuada el último día del trimestre anterior.
+
+b).- Cuando el caudal de descarga sea continuo, intermitente o fortuito y menor a 9,000 metros cúbicos en un trimestre, el usuario podrá optar entre instalar medidores o efectuar cada trimestre bajo su responsabilidad la determinación del volumen con otros dispositivos de aforo. Dicha determinación se deberá manifestar bajo protesta de decir verdad en la declaración correspondiente.
+
+En caso de que no se pueda medir el volumen de agua descargada, a falta de medidor o como consecuencia de la descompostura de éste, por causas no imputables al contribuyente, o cuando no se hubiere reparado o repuesto dentro de los tres meses siguientes a su descompostura, el volumen a declarar no podrá ser inferior al que resulte de aplicar el procedimiento previsto en el artículo 285, fracción I de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+II.- Concentración promedio de contaminantes:
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+El responsable de la descarga tendrá la obligación de realizar el muestreo y análisis de la calidad del agua descargada, en muestras de cada una de sus descargas que reflejen cuantitativa y cualitativamente el proceso más representativo de las actividades que den origen a la descarga y para todos los contaminantes que genere, establecidos en esta Ley.
+
+Asimismo, cuando por la naturaleza de sus procesos productivos y conforme a las disposiciones del presente Capítulo, se genere o presente periódicamente un contaminante específico, como base para el pago del derecho, podrá efectuar la determinación de su pago únicamente por este contaminante, no estando obligado al análisis y muestreo de los demás.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Para cada descarga, el contribuyente determinará, conforme al promedio de las muestras tomadas, la concentración promedio de contaminantes básicos, metales pesados, cianuros, en miligramos por litro. En caso de los parámetros potencial Hidrógeno y coliformes fecales, se determinarán en sus respectivas unidades. Lo anterior, conforme lo señalado en el procedimiento obligatorio de muestreo de descargas.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+En el caso de que el agua de abastecimiento registre alguna concentración promedio mensual de los parámetros referidos en la tabla 1 del presente artículo, se podrá restar de la concentración de la descarga, siempre y cuando se notifique por escrito a la Comisión Nacional del Agua.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Una vez determinadas las concentraciones de los contaminantes básicos, metales pesados y cianuros, coliformes fecales y potencial Hidrógeno, expresados en miligramos por litro o en las unidades respectivas, se compararán con los valores correspondientes a los límites máximos permisibles por cada contaminante, previstos en el presente Capítulo. En caso de que las concentraciones sean superiores a dichos límites, se causará el derecho, por el excedente del contaminante correspondiente.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+TABLA 1
+
+(VEASE ARCHIVO ANEXO)
+
+(*) Medidos de manera total
+
+N.A.: No Aplica
+
+P.M.: Promedio Mensual
+
+P.D.: Promedio Diario
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Para los efectos de la Tabla I, se entiende que la concentración de los contaminantes nitrógeno, fósforo, arsénico, cadmio, cianuros, cobre, cromo, mercurio, níquel, plomo y zinc, debe ser medida de manera total.
+
+Para coliformes fecales, si la descarga presenta un valor que supere el límite máximo permisible de 1,000 como número más probable (NMP) de coliformes fecales por cada 100 mililitros, se causará el derecho conforme a las disposiciones del presente Capítulo.
+
+Para el potencial Hidrógeno (pH), si la descarga presenta un valor superior a 10 o inferior a 5 unidades, se causará el derecho conforme a las disposiciones del presente Capítulo.
+
+> <small>(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+III.- Para el Procedimiento Obligatorio del Muestreo de las Descargas, se entenderá por:
+
+a).- Muestra Compuesta: La que resulta de mezclar el número de muestras simples, según lo indicado en la tabla de frecuencia de muestreo. Para conformar la muestra compuesta, el volumen de cada una de las muestras simples deberá ser proporcional al caudal de la descarga en el momento de su toma.
+
+(VEASE ARCHIVO ANEXO)
+
+b).- Muestra Simple: La que se tome en el punto de descarga, de manera continua, en día normal de operación que refleje cuantitativa y cualitativamente el o los procesos más representativos de las actividades que generan la descarga, durante el tiempo necesario para completar cuando menos, un volumen suficiente para que se lleven a cabo los análisis necesarios para conocer su composición, aforando el caudal descargado en el sitio y en el momento del muestreo.
+
+El volumen de cada muestra simple necesario para formar la muestra compuesta se determina mediante la siguiente ecuación:
+
+(VEASE ARCHIVO ANEXO)
+
+c).- Parámetro: Variable que se utiliza como referencia para determinar la calidad física, química y biológica del agua.
+
+d).- Promedio Diario: El valor que resulta del análisis de una muestra compuesta. En el caso del parámetro grasas y aceites, es el promedio ponderado en función del caudal, y la media geométrica para los coliformes fecales, de los valores que resulten del análisis de cada una de las muestras simples tomadas para formar la muestra compuesta. Las unidades de pH no deberán estar fuera del rango permisible, en ninguna de las muestras simples, definido en el presente artículo.
+
+Cuando los valores de pH estén dentro del rango permisible en todas las muestras simples, se reportará el valor promedio ponderado en función del caudal. En caso de que existan valores fuera del rango permisible en cualquiera de las muestras simples, se reportará el valor más alejado del rango permisible.
+
+e).- Promedio Mensual: El valor que resulta de calcular el promedio ponderado en función del caudal, de los valores que resulten del análisis de al menos dos muestras compuestas promedio diario. En el caso del pH, cuando los valores estén dentro del rango permisible en todas las muestras simples, se reportará el valor promedio ponderado en función del caudal. En caso de que existan valores fuera del rango permisible en cualquiera de las muestras simples, se reportará el valor más alejado del rango permisible.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+IV.- El muestreo, análisis y reporte de la calidad de las descargas, se efectuará como a continuación se indica:
+
+a).- Método de Muestreo: El método que se deberá llevar a cabo al efectuar la toma de muestras, así como los términos y forma de hacerlas, son los indicados en la Norma Mexicana NMX-AA-003 Aguas Residuales- Muestreo, publicada en el Diario Oficial de la Federación.
+
+La obligación de realizar el muestreo y análisis de la calidad del agua descargada, corresponde al responsable de estas descargas.
+
+b).- Frecuencias del Muestreo y Análisis, y del Reporte de Datos: La frecuencia de muestreo y análisis y de reporte será de acuerdo al tamaño de población en el caso de efluentes municipales, y en el caso de descargas no municipales, de acuerdo a la carga de contaminantes, según se indica en las tablas de efluentes municipales y de efluentes no municipales, respectivamente.
+
+(VEASE ARCHIVO ANEXO)
+
+Los parámetros a ser considerados en el muestreo y análisis, así como en el reporte de datos son los que se indican en el presente Capítulo y en la Tabla I de este artículo.
+
+El responsable de la descarga estará exento de realizar el muestreo y análisis de alguno o varios de los parámetros que se señalan en la Tabla I del presente artículo, cuando demuestre que, por las características del proceso productivo o el uso que le dé al agua, no genera o concentra los contaminantes a eximir, manifestándolo ante la Comisión Nacional del Agua, por escrito y bajo protesta de decir verdad. La autoridad podrá verificar la veracidad de lo manifestado por el usuario. En caso de falsedad, el responsable quedará sujeto a lo dispuesto en los ordenamientos legales aplicables.
+
+C).- Cálculo de los Valores: En el muestreo y análisis y reporte de datos del parámetro o parámetros requeridos, se debe considerar el valor del promedio mensual de acuerdo a la definición dada en este procedimiento, y debe considerar días hábiles de actividad o producción normal.
+
+El muestreo y análisis del parámetro o parámetros requeridos en la frecuencia indicada en las tablas de efluentes municipales y de efluentes no municipales, debe considerar:
+
+1.- Para la frecuencia mensual, el promedio mensual del parámetro o parámetros en el mes.
+
+2.- Para la frecuencia trimestral, el promedio mensual del parámetro o parámetros en un mes del trimestre.
+
+3.- Para la frecuencia semestral, el promedio mensual del parámetro o los parámetros en un mes del semestre.
+
+El reporte de los resultados del muestreo y análisis del parámetro o parámetros requeridos, deberá ser hecho en una frecuencia trimestral, conforme a lo señalado en el artículo 283 de esta Ley.
+
+El reporte del trimestre, para la frecuencia mensual de muestreo y análisis, será el promedio aritmético de los valores que resulten del análisis de cada mes. Para coliformes fecales, será la media geométrica de los valores mensuales. En el caso del pH, cuando los valores estén dentro del rango permisible en todas las muestras simples, se reportará el valor promedio aritmético. En caso de que existan valores fuera del rango permisible en cualquiera de las muestras simples, se reportará el valor más alejado del rango permisible.
+
+En el caso de la frecuencia semestral del muestreo y análisis, para el reporte del trimestre donde no se realice el muestreo y análisis, se podrá repetir el reporte del trimestre inmediato anterior.
+
+El cumplimiento de lo anterior, sin menoscabo de la observancia de las demás disposiciones legales y normativas en materia de descargas de aguas residuales a cuerpos de aguas nacionales y bienes públicos inherentes.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+V.- Método de Prueba: Para la toma de muestras y la determinación de los valores y concentraciones de los parámetros establecidos en este procedimiento, se deberá aplicar el método de prueba indicado en la fracción IV de este artículo y las normas mexicanas correspondientes.
+
+Los reportes que presente el responsable de la descarga estarán basados en determinaciones analíticas hechas por un laboratorio acreditado ante el Sistema Nacional de Laboratorios de Prueba de la Secretaría de Comercio y Fomento Industrial y aprobado por la Comisión Nacional del Agua.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 278-C.
+
+Para calcular el monto del derecho a pagar por cada tipo de contaminante que rebase los límites máximos permisibles, se considerará el volumen de aguas residuales descargadas por trimestre y la carga de los contaminantes respectivos, de la siguiente forma:
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+I.- Para coliformes fecales, el importe del derecho se determinará conforme a lo siguiente: si la descarga presenta un valor que supere el límite máximo permisible de 1,000 como número más probable (NMP) de coliformes fecales por cada 100 mililitros, el volumen descargado a que se refiere la fracción I, del artículo 278-B, de esta Ley, se multiplicará cada metro cúbico descargado al trimestre por $ 0.5888 por metro cúbico, si se trata de un cuerpo receptor tipo A y por $ 0.2943 por metro cúbico, para un cuerpo receptor tipo B o C.
+
+II.- Para el potencial Hidrógeno (pH), el importe del derecho se determinará de acuerdo con las cuotas indicadas en la Tabla II de este Capítulo, para ello, si la descarga se encuentra fuera de los límites máximos permisibles, superior a 10 o inferior a 5 unidades, el volumen descargado a que se refiere la fracción I, del artículo 278-B de esta Ley, se multiplicará por la cuota que corresponda según el rango en unidades de pH a que se refiere la citada Tabla.
+
+TABLA II
+
+CUOTAS EN PESOS POR METRO CÚBICO PARA POTENCIAL HIDROGENO (pH).
+
+Rango en unidades Cuota por cada metro Rango en unidades Cuota por cada de pH cúbico descargado de pH metro cúbico
+
+descargado
+
+menor de 5 y hasta 4 $ 0.025 mayor de 10 y hasta 11 $ 0.115
+
+menor de 4 y hasta 3 0.075 mayor de 11 y hasta 12 0.349
+
+menor de 3 y hasta 2 0.225 mayor de 12 y hasta 13 0.494
+
+menor de 2 y hasta 1 0.650 mayor de 13 0.700
+
+menor de 1 0.900
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+III.- Para los contaminantes básicos, metales pesados o cianuros, las concentraciones de cada uno de ellos que rebasen los límites máximos permisibles, expresadas en miligramos por litro, obtenidas conforme al artículo anterior, se multiplicarán por el factor de 0.001, para convertirlas a kilogramos por metro cúbico. Este resultado, a su vez, se multiplicará por el volumen de aguas residuales, en metros cúbicos descargados en el trimestre correspondiente, obteniéndose así, la carga de contaminantes, expresada en kilogramos por trimestre descargado al cuerpo receptor.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Para determinar el índice de incumplimiento y la cuota en pesos por kilogramo, a efecto de obtener el monto del derecho para cada uno de los contaminantes básicos, metales pesados o cianuros, se procederá conforme a lo siguiente:
+
+a).- Para cada contaminante que rebase los límites señalados, a la concentración del contaminante correspondiente, se le restará el límite máximo permisible respectivo, cuyo resultado deberá dividirse entre el mismo límite máximo permisible, obteniéndose así el índice de incumplimiento del contaminante correspondiente.
+
+b).- Con el índice de incumplimiento, determinado para cada contaminante conforme al inciso anterior, se seleccionará el rango que le corresponda de la Tabla III de este Capítulo y se procederá a identificar la cuota en pesos por kilogramo de contaminante que se utilizará para el cálculo del monto del derecho.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+c).- Para obtener el monto a pagar por cada contaminante, conforme al tipo de cuerpo receptor de que se trate, se multiplicarán los kilogramos de contaminante por trimestre, obtenidos de acuerdo con esta fracción, por la cuota en pesos por kilogramo que corresponda a su índice de incumplimiento, de acuerdo con la Tabla III de este Capítulo, obteniéndose así el monto del derecho.
+
+Para los contaminantes básicos, el resultado se multiplicará por 0.56 cuando la descarga sea a un cuerpo receptor tipo “A”; por 1.0 cuando la descarga sea a un cuerpo receptor tipo “B”; y por 1.2 cuando la descarga sea a un cuerpo receptor tipo “C”.
+
+(VEASE ARCHIVO ANEXO)
+
+IV.- Una vez efectuado el cálculo trimestral del derecho por cada contaminante, el contribuyente estará obligado a pagar únicamente el monto que resulte mayor para el trimestre que corresponda.
+
+###### ARTICULO 279.
+
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 280.
+
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+
+###### ARTICULO 281.
+
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 281-A.
+
+Los contribuyentes del derecho a que se refiere el presente Capítulo, al momento de presentar sus declaraciones podrán disminuir del pago del derecho respectivo, el costo comprobado de los aparatos de medición y de su instalación, sin incluir las cantidades que además se carguen o cobren al adquirente por otras contribuciones.
+
+A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar la factura de compra del aparato de medición y su instalación en las oficinas de la Comisión Nacional del Agua, para su verificación y sellado.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+El monto a acreditar, deberá efectuarse en la declaración provisional trimestral o bien en la declaración del ejercicio fiscal que corresponda. Cuando el monto a acreditar sea mayor al derecho a cargo, el excedente se descontará en las siguientes declaraciones provisionales trimestrales o anuales.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 282.
+
+No estarán obligados al pago del derecho federal a que se refiere el presente Capítulo:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+I.- Los contribuyentes cuyos contaminantes no rebasen los límites máximos permisibles establecidos en la presente Ley.
+
+II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
+
+III.- Quienes descarguen aguas residuales a redes de drenaje o alcantarillado que no sean bienes del dominio público de la Nación.
+
+IV.- Quienes viertan agua residual a la fuente de donde originalmente se realizó su extracción, siempre que tengan el certificado que expedirá la Comisión Nacional del Agua en el que se precisará que no sufrió degradación en su calidad ni alteración en su temperatura. Una copia de dicho certificado se deberá acompañar a la declaración del ejercicio.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+V.- Las poblaciones rurales de hasta 2,500 habitantes y los organismos operadores de agua potable y alcantarillado, públicos o privados, por las descargas provenientes de aquéllas.
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+VI.- Por las descargas provenientes del riego agrícola.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VII.- Las entidades públicas o privadas, que sin fines de lucro presten servicios de asistencia médica, servicio social o de impartición de educación escolar gratuita en beneficio de poblaciones rurales de hasta 2,500 habitantes.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VIII.- Los usuarios domésticos que se ubiquen en localidades que carezcan de sistemas de alcantarillado, por las aguas residuales que se generen en su casa habitación.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 282-A.
+
+No pagarán el derecho a que se refiere este Capítulo, aquellos usuarios cuyas descargas contengan contaminantes que rebasen los límites máximos permisibles establecidos en la presente Ley, siempre y cuando presenten ante la Comisión Nacional del Agua, un programa de acciones y cumplan con el mismo, para mejorar la calidad de sus aguas residuales, ya sea mediante cambios en sus procesos productivos o para el control o tratamiento de sus descargas, a fin de no rebasar dichos límites, y mantengan o mejoren la calidad de sus descargas de aguas residuales.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Para los efectos del párrafo anterior, la Comisión Nacional del Agua en términos del instructivo para la presentación y seguimiento del programa de acciones publicado en el Diario Oficial de la Federación, vigilará el cumplimiento en el avance de las acciones comprometidas por los usuarios, en estos casos, el contribuyente estará obligado a efectuar el cálculo de su pago y a presentar sus declaraciones trimestrales conforme a lo establecido en esta Ley, sin enterar el pago del derecho, señalando en su declaración correspondiente la siguiente leyenda "Sin pago de conformidad con lo establecido en el párrafo primero del artículo 282-A de la Ley Federal de Derechos".
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+Los contribuyentes están obligados a presentar ante la Comisión Nacional del Agua, un informe, bajo protesta de decir verdad, de los avances del programa de acciones presentado ante dicho órgano desconcentrado, en los meses de julio y enero.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+Los contribuyentes que no cumplan con los avances programados, estarán obligados a efectuar el pago de los derechos que corresponden a este Capítulo, generados a partir del 1o. de enero de 1997, así como de aquéllos que se hubieren generado con anterioridad, con los accesorios de Ley correspondientes.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Si al término del programa los contribuyentes cumplen con los objetivos previstos, tendrán derecho a la recuperación del monto histórico del Derecho que hubieren pagado por incumplimiento de las metas parciales.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+A partir del 1o. de enero de 1997 y hasta la fecha de vencimiento para la ejecución de los programas para el control de la calidad de sus descargas, los usuarios que hayan presentado su programa de acciones no deberán descargar concentraciones de contaminantes mayores de las que descargaron durante los últimos tres años, o menos, si empezaron a descargar posteriormente. Aquellos usuarios que no cumplan con esta disposición, estarán obligados al pago del derecho a que se refiere este Capítulo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 282-B.
+
+Cuando las personas físicas o morales para el cumplimiento de la obligación legal de tratar sus aguas residuales, contraten o utilicen los servicios de empresas que traten aguas residuales, estas últimas tendrán que cumplir con lo dispuesto en este Capítulo, siempre y cuando utilicen o contaminen bienes nacionales como cuerpos receptores de las descargas de aguas residuales que traten.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+Las personas físicas o morales que contraten o utilicen los servicios mencionados, serán solidariamente responsables con las empresas que traten aguas residuales, por el pago del derecho.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 282-C.
+
+Los contribuyentes que cuenten con planta de tratamiento de aguas residuales y aquellos que en sus procesos productivos hayan realizado acciones para mejorar la calidad de sus descargas y éstas, sean de una calidad superior a la establecida en los límites máximos permisibles establecidos en esta Ley, podrán gozar del descuento en el pago del derecho por uso o aprovechamiento de aguas nacionales a que se refiere el Capítulo VIII, del Título II de esta Ley. Este beneficio se aplicará únicamente a los aprovechamientos de aguas nacionales que generen la descarga de aguas residuales, de acuerdo con lo indicado en la Tabla IV, de este artículo, siempre y cuando los contribuyentes cumplan con las disposiciones de la Ley de Aguas Nacionales, su Reglamento y esta Ley.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+TABLA IV
+
+DESCUENTO EN EL PAGO DEL DERECHO POR USO O APROVECHAMIENTO DE AGUAS NACIONALES.
+
+Calidad Establecida para Tipo de Calidad de la Descarga % de Descuento
+
+Descargas a Cuerpos
+
+Receptores Tipo
+
+A B ríos con uso público urbano 12
+
+A C 18
+
+A NOM-127-SSA1-1994 44
+
+B C 6
+
+B NOM-127-SSA1-1994 32
+
+C NOM-127-SSA1-1994 26
+
+Este porcentaje de descuento, se aplicará al monto del derecho a que se refiere el Capítulo VIII del Título II de esta Ley, sin incluir el que corresponda al uso consuntivo del agua. En este caso, a la declaración del pago del derecho por uso o aprovechamiento de aguas nacionales, se deberán acompañar, bajo protesta de decir verdad, los resultados de la calidad del agua.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 282-D.
+
+Los usuarios que con posterioridad al 7 de enero de 1997, hayan iniciado o inicien operaciones que originen descargas de aguas residuales y aquellos que incrementen la carga de contaminantes en su descarga, como consecuencia de la realización de una ampliación a su planta productiva o para el caso de localidades que incorporen usuarios industriales a su sistema de alcantarillado que previamente hayan descargado a un cuerpo receptor nacional, no deberán rebasar los límites máximos permisibles de contaminantes establecidos en la presente Ley. En caso contrario, deberán pagar el derecho conforme a lo señalado en el presente Capítulo.
+
+Asimismo, los usuarios que cuenten con planta de tratamiento, cuando su descarga no cumpla con los límites máximos permisibles establecidos en la presente Ley, están obligados a operar y mantener dicha infraestructura de saneamiento. Los que se encuentren en este supuesto y que descarguen una calidad de agua superior a la que están obligados, podrán gozar del beneficio citado en el artículo 282-C de este Capítulo, si es el caso. Si el usuario deja de operar la infraestructura, pagará el derecho a que se refiere este Capítulo.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 283.
+
+El usuario calculará el derecho federal a que se refiere el presente Capítulo por ejercicios fiscales y efectuará pagos provisionales trimestrales, a más tardar el día 15 de los meses de enero, abril, julio y octubre, mediante declaración que presentará en las oficinas de la Comisión Nacional del Agua o en aquellas oficinas que autorice la Secretaría de Hacienda y Crédito Público.
+
+El derecho del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración que se presentará en las oficinas antes citadas, dentro de los tres meses siguientes del cierre del mismo ejercicio.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Los contribuyentes que efectúen descargas permanentes o intermitentes estarán obligados a presentar la declaración a que se refiere el párrafo anterior, aun cuando no resulte pago del derecho a su cargo.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+Las personas que efectúen descargas fortuitas de aguas residuales, deberán presentar la declaración aun cuando no resulte pago a su cargo, dentro del mes siguiente a aquél en que se realizó la descarga, misma que se considerará definitiva.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+El contribuyente estará obligado a presentar en términos de lo dispuesto en este artículo, una declaración por cada uno de los sitios donde lleve a cabo la descarga al cuerpo receptor.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 284.
+
+Procederá la determinación presuntiva del derecho federal a que se refiere el presente Capítulo, en los siguientes casos:
+
+I.- No se tenga instalado aparato de medición, cuando exista obligación de instalarlos o el mismo no funcione.
+
+II.- Cuando el cálculo que efectúe el usuario bajo su responsabilidad sea menor al que resulte de aplicar el mismo procedimiento que se señala en la Ley, en la visita de inspección o verificación de contaminación en la descarga de agua residual, que sobre el particular podrá efectuar en cualquier momento la Comisión Nacional del Agua.
+
+III.- Se oponga u obstaculice la iniciación o desarrollo de las facultades de verificación y medición que efectúe la Comisión Nacional del Agua, o no presente la documentación que ésta le solicite.
+
+IV.- El usuario no efectúe el pago del derecho en los términos del artículo anterior.
+
+V.- Cuando se efectúe en forma fortuita una descarga de aguas residuales o contaminadas, por quienes normalmente no son contribuyentes del derecho a que se refiere el presente Capítulo, y que causen daño ecológico conforme a dictamen que al efecto emita la autoridad ecológica competente.
+
+La determinación presuntiva a que se refiere este artículo procederá independientemente de las sanciones a que haya lugar.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 285.
+
+Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, se calculará el derecho considerando indistintamente:
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+I.- El volumen de agua residual que aparezca en el permiso de descarga respectivo, o en su defecto, el que corresponda al volumen señalado en el título de asignación, concesión, autorización o permiso para la explotación, el uso o aprovechamiento de aguas nacionales que originan la descarga, y a falta de éste, se seguirá el procedimiento establecido en el artículo 229, fracción III.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+II.- El cálculo que efectúe la Comisión Nacional del Agua, aplicando el procedimiento que conforme a la presente Ley, debe efectuar el contribuyente para medir la descarga de agua residual para efectos del pago del derecho a que se refiere el presente Capítulo.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+III.- Los volúmenes que a la entrada o a la salida señale su aparato de medición o que se desprendan de alguna de las declaraciones trimestrales o anuales presentadas del mismo ejercicio o de cualquier otro, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación.
+
+IV.- La información que se proporcione sobre el particular por las autoridades fiscales o por las autoridades competentes en materia de equilibrio ecológico y protección al ambiente, en el ejercicio de sus respectivas facultades.
+
+V.- La cuantificación del daño ecológico a los bienes nacionales a que se refiere el presente Capítulo, realizada por autoridades ecológicas, en el ámbito de su competencia.
+
+VI.- Los medios indirectos de la investigación económica o de cualquier otra clase.
+
+En el caso de descargas fortuitas a que se refiere la fracción V del artículo anterior se podrá utilizar como monto del derecho respectivo, la cuantificación del daño a que se refiere la fracción V de este artículo, sin deducción alguna.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+La Secretaría de Hacienda y Crédito Público exigirá su pago con base en la determinación del derecho que efectúe la Comisión Nacional del Agua, en los términos del presente artículo.
+
+###### ARTICULO 286.
+
+(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 286-A.
+
+Tratándose del derecho del presente Capítulo, la Comisión Nacional del Agua está facultada para ejercer las atribuciones a que se refiere el artículo 192-E de esta Ley, así como en la distribución de los fondos que en el mismo se señale.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ### Capítulo XIV del Título II, de
 
@@ -10119,551 +10759,13 @@ o menor a 1.2 toneladas
 
 sobre día.
 
-II.- Cuando la Comisión Nacional del Agua haya autorizado al contribuyente, con anterioridad al 1o. de enero de 1997, un programa de ejecución de obras para el control de la calidad de sus descargas y haya cumplido con sus avances programados para reducir el grado de contaminación dentro de los límites permisibles, podrá considerar como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción I del presente Artículo. En caso de que no cumplan con los avances del programa de acciones autorizado por la Comisión Nacional del Agua, estarán a lo dispuesto en el cuarto párrafo del artículo 282-A de la Ley Federal de Derechos.
+III.- Cuando la Comisión Nacional del Agua haya autorizado al contribuyente, con anterioridad al 1o. de enero de 1997, un programa de ejecución de obras para el control de la calidad de sus descargas y haya cumplido con sus avances programados para reducir el grado de contaminación dentro de los límites permisibles, podrá considerar como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción II del presente artículo. En caso de que no cumplan con los avances del programa de acciones autorizado por la Comisión Nacional del Agua, estarán a lo dispuesto en el cuarto párrafo del artículo 282-A de la Ley Federal de Derechos.
 
-Los contribuyentes que no cumplan con los avances programados para reducir el grado de contaminación dentro de los límites permisibles, y no hubieran considerado como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción I del presente Artículo, deberán efectuar a partir de ese momento el pago del derecho respectivo. No obstante, cuando el contribuyente no haya estado exento durante los dos años otorgados a que hace referencia el artículo 282-A de la Ley Federal de Derechos vigente hasta el 31 de diciembre de 1996, la Comisión Nacional del Agua podrá autorizar el reinicio del programa constructivo o la ejecución de las obras de control de calidad de sus descargas, el cual no excederá del término señalado en dicho artículo, debiendo computarse los períodos de exención otorgados con anterioridad.
+Los contribuyentes que no cumplan con los avances programados para reducir el grado de contaminación dentro de los límites permisibles, y no hubieran considerado como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción I del presente artículo, deberán efectuar a partir de ese momento el pago del derecho respectivo. No obstante, cuando el contribuyente no haya estado exento durante los dos años otorgados a que hace referencia el artículo 282-A de la Ley Federal de Derechos vigente hasta el 31 de diciembre de 1996, la Comisión Nacional del Agua podrá autorizar el reinicio del programa constructivo o la ejecución de las obras de control de calidad de sus descargas, el cual no excederá del término señalado en dicho artículo, debiendo computarse los períodos de exención otorgados con anterioridad.
 
-III.- No será aplicable en favor de los contribuyentes que hayan establecido compromisos para realizar acciones para el control de la calidad de sus descargas, con los Consejos de Cuenca correspondientes, lo dispuesto en las fracciones I y II de este Artículo, por lo que deberán cumplir con el programa de acciones asumido ante dichas instancias, para hacerse acreedores al beneficio del no pago del derecho, por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales.
+IV.- No será aplicable en favor de los contribuyentes que hayan establecido compromisos para realizar acciones para el control de la calidad de sus descargas, con los Consejos de Cuenca correspondientes, lo dispuesto en las fracciones I y II de este artículo, por lo que deberán cumplir con el programa de acciones asumido ante dichas instancias, para hacerse acreedores al beneficio del no pago del derecho, por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales.
 
-IV.- El procedimiento de muestreo a que se refiere el último párrafo del artículo 278-B de la Ley Federal de Derechos, y el instructivo para la presentación y seguimiento del programa de acciones a que se refiere el segundo párrafo del artículo 282-A de la misma, serán publicados, por la Comisión Nacional del Agua, en el Diario Oficial de la Federación, dentro de los treinta días hábiles siguientes a la entrada en vigor de la presente Ley.
-
-V.- El artículo 12 de la Ley Federal de Derechos entrará en vigor a partir del 1o. de febrero de 1997.
-
-###### ARTICULO 276.
-
-Están obligados a pagar el derecho por uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, las personas físicas o morales que descarguen en forma permanente, intermitente o fortuita aguas residuales en ríos, cuencas, cauces, vasos, aguas marinas y demás depósitos o corrientes de agua, así como los que descarguen aguas residuales en los suelos o las infiltren en terrenos que sean bienes nacionales o que puedan contaminar el subsuelo o los acuíferos, en términos de lo dispuesto en esta Ley.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 277.
-
-Para los efectos del presente Capítulo se consideran:
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-I.- Aguas residuales: Las aguas de composición variada provenientes de las descargas de usos municipales, industriales, comerciales, de servicios, agrícolas, pecuarios, domésticos, incluyendo fraccionamientos y en general de cualquier otro uso, así como la mezcla de ellas.
-
-Cuando el contribuyente no separe en la descarga de agua residual el agua que no tiene este carácter, toda la descarga se considerará de agua residual para los efectos de esta Ley.
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-II.- Carga de Contaminante: Cantidad de un contaminante expresada en unidades de masa sobre unidad de tiempo, aportada en una descarga de aguas residuales.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-III.- Cianuros: Suma de las concentraciones de todas las formas químicas simples y complejas que contengan el ion cianuro;
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-IV.- Coliformes Fecales: Bacterias aerobias Gram-negativas, no formadoras de esporas, de forma bacilar, y que incubadas a 44.5ºC en un término de 48 horas, fermentan la lactosa con producción de gas, pudiendo ser residentes del tracto digestivo humano y de animales de sangre caliente;
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-V.- Cuerpo Receptor: Corrientes, depósitos naturales de agua, presas, cauces, zonas marinas o bienes nacionales donde se descargan aguas residuales, así como los terrenos en donde se infiltran o inyectan dichas aguas, cuando puedan contaminar el suelo o los acuíferos;
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-VI.- Demanda Bioquímica de Oxígeno Total: Cantidad de oxígeno consumido por la actividad metabólica de microorganismos, en un período de cinco días, a 20ºC, considerando la suma de las concentraciones solubles y en suspensión;
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-VII.- Descarga: Acción de verter, infiltrar, depositar o inyectar aguas residuales a un cuerpo receptor en forma continua, intermitente o fortuita.
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-VIII.- Fósforo Total: Suma de las concentraciones de fosfatos, ortofosfatos, polifosfatos, fósforo inorgánico y fosfatos orgánicos;
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-IX.- Grasas y Aceites: Cualquier material que puede ser recuperado como una sustancia soluble, en los siguientes solventes: n-hexano, triclorotrifluoroetano o una mezcla de 80% de n-hexano y 20% de metilterbutileter;
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-X.- Índice de Incumplimiento: Cantidad de veces que la concentración de cada contaminante en las descargas de aguas residuales vertidas, rebasa los límites máximos permisibles establecidos en las condiciones particulares de descarga o a falta de éstas, los establecidos en esta Ley, la cual se obtiene de la diferencia entre la concentración de contaminantes de las descargas de aguas residuales y la concentración establecida como límite máximo permisible en esta Ley y dividida entre esta última.
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XI.- Límite Máximo Permisible: Valor o rango asignado a un parámetro, el cual no debe ser excedido en la descarga de aguas residuales;
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XII.- Metales Pesados: Suma de las concentraciones de los metales en solución o disueltos y en suspensión;
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XIII.- Nitrógeno Total: Suma de las concentraciones de nitrógeno Kjeldahl, nitritos y nitratos;
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-XIV.- Población: Corresponde al número de habitantes indicado en el Censo General de Población y Vivienda de 1990.
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XV.- Potencial Hidrógeno (pH): Concentración de iones Hidrógeno expresada como logaritmo negativo que representa la acidez o alcalinidad del agua;
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XVI.- Tipos de contaminantes:
-
-a).- Contaminantes Básicos: Son aquellos compuestos y parámetros que se presentan en las descargas de aguas residuales y que pueden ser removidos o estabilizados mediante tratamientos convencionales. En lo que corresponde a esta Ley sólo se consideran las grasas y aceites, los sólidos suspendidos totales, la demanda bioquímica de oxígeno total, el nitrógeno total (suma de las concentraciones de nitrógeno Kjeldahl, de nitritos y de nitratos, expresadas como mg./litro de nitrógeno), el fósforo total y el pH;
-
-b).- Contaminantes Patógenos y parasitarios: Son aquellos microorganismos, quistes y huevos de parásitos que pueden estar presentes en las aguas residuales y que representan un riesgo para la salud humana, flora o fauna. En lo que corresponde a esta Ley sólo se consideran los coliformes fecales;
-
-c).- Metales pesados y cianuros: Son aquellos que en concentraciones por encima de determinados límites, pueden producir efectos negativos en la salud humana, flora o fauna. En lo que corresponde a esta Ley se consideran el arsénico, el cadmio, el cobre, el cromo, el mercurio, el níquel, el plomo, el zinc y los cianuros;
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XVII.- Sólidos Suspendidos Totales: Concentración de partículas que son retenidas en un medio filtrante de microfibra de vidrio, con un diámetro de poro de 1.5 micrómetros o su equivalente;
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XVIII.- Uso Consuntivo: Volumen de agua de una calidad determinada que se consume al llevar a cabo una actividad específica, el cual se determina como la diferencia del volumen de una calidad determinada que se extrae, menos el volumen de una calidad también determinada que se descarga, y que se señalan en el título respectivo.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-###### ARTICULO 278.
-
-Por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales, se causará el derecho de acuerdo con el tipo del cuerpo receptor en donde se realice la descarga, conforme al volumen de agua descargada y los contaminantes vertidos, en lo que rebasen los límites máximos permisibles establecidos en las condiciones particulares de descarga o a falta de éstas, los previstos en la presente Ley.
-
-Los responsables de las descargas de aguas residuales las deben vertir dentro de los límites máximos permisibles establecidos en sus condiciones particulares de descarga u optar, si sus condiciones particulares de descarga, fueron fijadas con anterioridad al 7 de enero de 1997, por las establecidas en esta Ley, previa notificación a la Comisión Nacional del Agua.
-
-El responsable de las descargas de aguas residuales que cuente con condiciones particulares de descarga, que no haya ejercido la opción del párrafo anterior, y rebase cualquiera de los valores fijados en sus condiciones particulares de descarga, deberá efectuar el cálculo del derecho conforme a la presente Ley, por cada uno de los contaminantes que rebasen los límites máximos permisibles, establecidos en sus condiciones particulares de descarga, a excepción de aquellos contaminantes no considerados en esta Ley.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-###### ARTICULO 278-A.
-
-Los cuerpos de propiedad nacional, receptores de las descargas de aguas residuales, se considerarán como tipo A a excepción hecha de los que se señalan como B o C; todos los Embalses Naturales o Artificiales, se considerarán como tipo B a excepción de los que se señalan como tipo C; todos los Estuarios y Humedales Naturales, se considerarán como tipo B.
-
-CUERPOS RECEPTORES TIPO B:
-
-Aguascalientes: Río San Pedro en los municipios de Aguascalientes, Rincón de Romos, Jesús María, San Francisco de los Romo, Pabellón de Arteaga, Tepezala y Cosío; Ríos Malpaso, Manzano, La Labor y Calvillo, Arroyos Rincón Verde, Ojocaliente y Cebolletas en el municipio de Calvillo; Río Blanco y Río Prieto en el municipio de San José de Gracia; Río Pabellón en los municipios de Pabellón de Arteaga y Rincón de Romos; Arroyos, El Saucillo, El Túnel y Las Burras en el municipio de Rincón de Romos; Río Santiago y Arroyo Ojo Zarco en el municipio de Pabellón de Arteaga; Río Morcinique en los municipios de Jesús María y Aguascalientes; Arroyos Las Víboras, San Nicolás, La Escondida, Salto de Montoro (Las Venas), La Pileta (Peñuelas), y La Chavena en el municipio de Aguascalientes; Arroyos La Concepción y San José de Guadalupe en el municipio de Jesús María; Arroyo Piedras Negras en el municipio de Asientos; Río Chicalote en los municipios de Asientos, San Francisco de los Romo y Jesús María; Arroyo San Francisco en los municipios de Aguascalientes y El Llano; Río Gil en los municipios de Jesús María y Calvillo.
-
-Baja California: Arroyos Doña Petra, Aguajito, Ensenada, San Carlos, Las Ánimas, El Gallo, Cuatro Milpas, El Sauzal, El Carmen, San Vicente, Salado, San Rafael, San Telmo, Santo Domingo, Las Escopetas, Aguachiquita, Nueva York, San Simón, El Socorro, El Rosario, La Misión y Las Amarillas en el municipio de Ensenada; Arroyos Las Palmas, San Pablo, San José y Cañada Joe Bill y Río Tecate en el municipio de Tecate; Arroyos Las Palmas, Sáinz, La Meza, México Lindo, Sánchez Taboada, Lázaro Cárdenas, Camino Verde, Agua Caliente, Matanuco, El Florido, Cerro Colorado, Presidentes, Gato Bronco, Sistema Álamo, Alamar, La Pechuga, Aviación o Pesteje, Aguaje de la Tuna, Cañón del Sol, Matadero, E. Zapata, Sistema Centro, Los Laureles, San Antonio de los Buenos, Río Tijuana en el municipio de Tijuana; Ríos Nuevo, Colorado y Hardy y Arroyo Las Amarillas en el municipio de Mexicali; Arroyos Guaguatay y El Descanso en el municipio de Playas de Rosarito; Bahías San Francisquito o Luis Gonzaga, De Los Angeles, Camalú, Todos Santos, San Quintín y San Felipe Punta Estrella en el municipio de Ensenada; Costa de Tijuana en el municipio de Tijuana; Bahía de San Felipe-Punta Estrella y Golfo de Santa Clara en el municipio de Mexicali; Costa de Rosarito en el municipio de Playas de Rosarito.
-
-Baja California Sur: Arroyos San José de Gracia, La Purísima, San Isidro, Paso Hondo, Comondú, Santo Domingo y Las Bramonas en el municipio Comondú; Arroyos La Paz, San Bartolo, Los Gatos y San Antonio en el municipio de la Paz; Arroyos Boca de la Sierra, San Bartolo, Agua Caliente, Miraflores, Caduaño y San Jorge en el municipio de los Cabos; Arroyos San José de Magdalena, Santa Águeda, La Parras y Ligui en el municipio de Loreto; Bahías Santa María, San Juanico, Las Barrancas, La Poza Grande y Magdalena, Punta Santo Domingo y Puerto San Andresito en el municipio Comondú; Bahías Tortugas, San Cristóbal, Asunción, San Hipólito, Ballenas, Santa Inés, Santa Rosalía, San Bruno, Concepción y Santa Ana, Estero Cordón, Puerto Escondido, Ensenada La Escondida, Punta Malarrimo y Punta Abreojos en el municipio de Mulegé; Bahías Santa Marina, Las Almejas, La Paz, La Ventana, Los Muertos, Las Palmas y Plutarco Elías Calles, Ensenadas San Juan de La Costa y Las Cruces, Punta Pescadero, Boca El Carrizal y Punta Lobos, en el municipio de la Paz; Bahías Migriño, San Lucas y San José del Cabo, Estero San José del Cabo, Boce de La Vinorama, Cabos Pulmo, La Ribera y Los Frailes en el municipio de los Cabos; Bahías Loreto, Juncalipto y Ligui, Ensenadas Blanca, Agua Verde y Tembabichi, Puerto Escondido, en el municipio de Loreto.
-
-Campeche: Río Champotón y Laguna de Silvituc en el municipio de Champotón; Río Palizada en el municipio de Palizada; Ríos Mamantel y Candelaria en los municipios de El Carmen y Escárcega; Río Chumpán en el municipio de El Carmen; Acuífero de la Península de Yucatán en los nueve municipios del Estado; Zona Costera del Estado de Campeche en los municipios de El Carmen, Tenabo, Hecelchacán, Calkiní, Champotón y Campeche.
-
-Coahuila: Río Bravo en los municipios de Ocampo, Acuña, Jiménez, Piedras Negras, Nava, Guerrero e Hidalgo; Arroyo Las Vacas en el municipio de Acuña; Río San Diego en los municipios de Zaragoza y Jiménez; Río San Rodrigo en los municipios Zaragoza Jiménez y Piedras Negras; Arroyo el Tornillo en el municipio de Piedras Negras; Río Escondido en los municipios de Zaragoza Nava y Piedras Negras; Río San Juan de Sabinas en los municipios de Múzquiz y San Juan de Sabinas; Río Álamos en los municipios de Múzquiz y San Juan de Sabinas; Río Sabinas en los municipios de San Juan de Sabinas, Sabinas, Progreso y Juárez; Río Salado de los Nadadores en los municipios de Lamadrid, Sacramento, Nadadores, San Buenaventura, Escobedo, Progreso y Juárez, Río Salado en el municipio de Juárez; Río Monclova en el municipio de Monclova.
-
-Colima: Arroyos San José y Punta de Agua en el municipio de Manzanillo; Arroyo Zacualpan en el municipio de Comala; Río Colima en los municipios de Cuauhtémoc y Villa de Álvarez.
-
-Chiapas: Río Grijalva y sus afluentes en los municipios de Berriozábal, La Concordia, Tzimol, Venustiano Carranza, Socoltenango, Acala, Totolapa, Chiapilla, Tuxtla Gutiérrez, San Fernando, Chicoasén, Usumacinta, Copainalá, Ocozocoautla y Tecpatán; Ríos Santo Domingo y Grijalva en el municipio de Chiapa de Corzo; Río Sabinal y sus afluentes en el municipio de Tuxtla Gutiérrez; Río Frío en los municipios de San Cristóbal de Las Casas, San Lucas y Chiapilla; Río La Venta-Soyatenco en los municipios de Cintalapa, Jiquipilas y Ocozocoautla de Espinoza; Río Santo Domigo en los municipios de Villacorzo, Villaflores, Chiapa de Corzo y Suchiapa; Río Coatán en los municipios de Tapachula y Mazatán; Acuífero Cintalapa en los municipios de Cintalapa y Jiquipilas; Acuífero Tuxtla en los municipios de Tuxtla Gutiérrez, Chiapa de Corzo, Suchiapa, Berriozábal y Acalá; Acuífero Comitán en los municipios de Comitán de Domínguez, Las Margaritas, La Independencia, Altamirano y Teopisca; Acuífero San Cristóbal en los municipios de San Cristóbal de Las Casas e Ixtapa; Acuífero Arriaga-Pijijiapan en los municipios de Arriaga, Tonalá y Pijijiapan; Acuífero Acapetahua en los municipios de Mapastepec, Acapetahua, Villa Comaltitlán, Acacoyagua y Escuintla; Acuífero Soconusco en los municipios de Tapachula, Suchiate, Metapa, Tuxtla Chico, Mazatán, Huixtla y Frontera Hidalgo; Humedal Hueyate en el municipio de Huixtla; Mar Muerto en los municipios de Arriaga y Tonalá.
-
-Chihuahua: Río Conchos en los municipios de Carichi, Nonoava y Bocoyna; Río Casas Grandes en el municipio de Ignacio Zaragoza; Río Santa María en el municipio de Bachíniva; Río Papigochi en el municipio de Temósachi; Río San Pedro en el municipio de Cusihuiriachi; Río Mayo en los municipios de Chinipas y Moris; Río Chinipas en los municipios de Chinipas, Guazapares y Uruachi; Río Urique en los municipios de Batopilas, Guachochi y Urique; Río San Miguel en los municipios de Balleza, Batopilas, Guachochi y Morelos, Ríos Sinaloa, Mohinora y Chinatu en los municipios de Guadalupe y Calvo; Río Septentrión en los municipios de Temoris y Urique; Río Moris en los municipios de Ocampo y Moris; Río Candameño en el municipio de Ocampo; Ríos Balleza, Porvenir y Agujas en el municipio de Balleza; Río Nonoava en el municipio de Nonoava; Río Los Loera en los municipios de Guadalupe y Calvo; Río Oteros en el municipio de Bocoyna; Río Batopilas en los municipios de Batopilas y Guachochi; Río Verde en los municipios de Guerrero y Temósachi; Ríos Aros y Tutuaca en los municipios de Temósachi y Madera.
-
-Distrito Federal: Río Magdalena en la Delegación La Magdalena Contreras.
-
-Durango: Río Sauceda en los municipios de Durango y Canatlán; Río Nazas en los municipios de Cuencamé, Indé, El Oro, Rodeo, Nazas, Lerdo y Gómez Palacio; Río Santiago en los municipios de Durango, Canatlán y Santiago Papasquiaro; Río Tepehuanes en los municipios de Tepehuanes y Santiago Papasquiaro; Río Ramos en los municipios de Santiago Papasquiaro, El Oro e Indé; Río Sextín (El Oro) en los municipios de Tepehuanes, Guanaceví, San Bernardo, El Oro e Indé; Río San Juan en los municipios de Pánuco de Coronado, San Juan del Río y Rodeo; Río del Peñón o Covadonga en los municipios de Peñón Blanco y Nazas; Arroyo Cuencamé en el municipio de Cuencamé; Río Tamazula en los municipios de Canelas, Tamazula y Topia; Río San Lorenzo en los municipios de Santiago Papasquiaro, Tamazula y Canelas; Río Aguanaval en los municipios de Santa Clara, Cuencamé y Poanas; Río Piaxtla en los municipios de Durango y San Dimas; Río Presidio en los municipios de Durango, Pueblo Nuevo y San Dimas; Ríos El Tunal y Santiago Bayacora en los municipios de Durango y Mezquital; Río Durango en los municipios de Durango y Nombre de Dios; Río Acaponeta en los municipios de Durango y Pueblo Nuevo; Río Humaya en los municipios de Guanaceví, Tepehuanes, Tamazula, Canelas y Topia; Río Florido en los municipios de Hidalgo, Indé, Ocampo y San Bernardo; Arroyo Cerro Gordo en el municipio Hidalgo; Río Mezquital en los municipios de Mezquital y Nombre de Dios; Río Súchil en los municipios de Nombre de Dios, Vicente Guerrero y Súchil; Río Poanas en el municipio de Poanas; Río Baluarte en el municipio de Pueblo Nuevo; Río Verde en el municipio de San Dimas; Río Habitas en los municipios de San Dimas y Tamazula; Río Graseros en los municipios de Súchil, Vicente Guerrero y Nombre de Dios; Arroyos Seco y Acequia Grande en el municipio de Durango.
-
-Estado de México: Río Amanalco en el municipio de Amanalco.
-
-Guanajuato: Río Lerma en los municipios de Acámbaro, Salvatierra, Jaral del Progreso, Salamanca, Valle de Santiago, Pueblo Nuevo, Abasolo, Huanímaro y Pénjamo; Arroyos La Patiña, El Calvillo y Los Castillos en el municipio de León; Arroyos Santa Ana y Llano Largo en el municipio de Guanajuato.
-
-Guerrero: Río La Cofradía en el municipio de La Unión de Isidoro Montes de Oca; Río La Unión y sus afluentes directos: Ríos San Cristóbal y La Juntas en los municipios de la Unión de Isidoro Montes de Oca y Coahuayutla de José María Izazaga; Río Pantla en el municipio de Teniente José Azueta; Río Ixtapa en los municipios de José Ma. Izazaga y La Unión; Río San Jeronimito en los municipios de Teniente José Azueta y Petatlán; Ríos Petatlán y Coyuquilla en el municipio de Petatlán; Ríos San Luis y Tecpan en el municipio de Tecpan de Galeana; Río Tecpan y su afluente directo el Río Chiquito en los municipios de Tecpan de Galeana y Atoyac de Álvarez; Río Atoyac en los municipios de Atoyac de Álvarez y Benito Juárez; Río Piloncillo afluente del Río Atoyac en el municipio de Atoyac de Álvarez; Río Coyuca y su afluente directo el Río La Hamaca o Aguas Blancas en el municipio de Coyuca de Benítez; Río la Sabana, Arroyos El Camarón, Aguas Blancas, Garita, Costa Azul, Deportivo e Icacos en el municipio de Acapulco de Juárez; Río Papagayo en los municipios de Acapulco de Juárez, San Marcos, Juan R. Escudero y Chilpancingo de los Bravo y sus afluentes: Río Omitlán en los municipios de Juan R. Escudero y Tecoanapa; Río San Miguel en el municipio de Chilpancingo de Los Bravo; Río La Unión en los municipios de Quechultenango, Tlacoapa, Tecoanapa y Acatepec; Río Azul en el municipio de Quechultenango; Río Huacapa en los municipios de Chilpancingo de Los Bravo, Quechultenango y Mochitlán; Ríos Cortés, La Estancia en el municipio de San Marcos; Río Nexpa los municipios de Cruz Grande y Ayutla de Los Libres y sus afluentes directos: Ríos Sauces, Tecoanapa y Tlatenango en los municipios de Tecoanapa y Ayutla de los Libres, Río Ayutla en los municipios de Tecoanapa, Acatepec y Ayutla de los Libres; Río Copala en los municipios de Copala y Cuautepec y sus afluentes directos: Río Cuautepec en el municipio de Cuautepec, Río Concordia en los municipios de Cuautepec, San Luis Acatlán y Ayutla de Los Libres, Río Yautepec en los municipios de Cuautepec y San Luis Acatlán; Río Marquelia en los municipios de Cuajinicuilapa, Azoyú y San Luis Acatlán y sus afluentes: Río Juchitán en el municipio de Azoyú y Río Chiquito en el municipio de San Luis Acatlán; Río Quetzala en los municipios de Cuajinicuilapa, Ometepec, Igualapa y Metlatonoc y sus afluentes directos: Río Cortijos en el municipio de Cuajinicuilapa, Río Santa Catarina en los municipios de Cuajinicuilapa, Ometepec, Xochistlahuaca y Tlacoachistlahuaca; Río Balsas en los municipios de Copalillo, Mártir de Cuilapa, Eduardo Neri, Cuetzalapa del Progreso, Tepecuacuilco, Apaxtla, San Miguel Totolapan, Arcelia, Tlapehuala, Pungarabato, Coyuca de Catalán, Zirándaro, Coahuayutla y La Unión de Isidoro Montes de Oca y sus afluentes directos: Río Tlapaneco en los municipios de Tlapa de Comonfort, Xalpatláhuac, Alpoyeca, Huamuxtitlán, Xochihuehuetlán, Olinalá y Copalillo, Río Mitlancingo en los municipios de Atlistac, Olinalá, Ahuacuotzingo y Copalillo, Río Amacuzac en los municipios de Atenango del Río y Copalillo, Río Tlapehualapa o Atzacualoya en los municipios de Zitlala y Copalillo, Río Apango en los municipios de Mártir de Cuilapa y Tixtla de Guerrero; Río Tepecuacuilco en los municipios de Tepecuacuilco de Trujano y Eduardo Neri; Río Cañón del Zopilote en el municipio de Eduardo Neri y su afluente directo el Río Huacapa en los municipios de Eduardo Neri y Leonardo Bravo; Río Cocula o Iguala en los municipios de Cocula, Eduardo Neri e Iguala de La Independencia, y sus afluentes directos Río Ahuehuepán en los municipios de Iguala de La Independencia y Teloloapan, Río los Sabinos en los municipios de Cocula, Teloloapan, Iguala de La Independencia e Ixcateopan de Cuauhtémoc; Río Cuetzala en el municipio de Cuetzala del Progreso; Río Coatepec en el municipio de Gral. Heliodoro Castillo; Río Oxtotitlán en los municipios de Teloloapan y Apaxtla; Río Ototlán o Truchas o Tetela en los municipios de Gral. Heliodoro Castillo y San Miguel Totolapan, y su afluente directo el Río Yextla en el municipio de Gral. Heliodoro Castillo; Río Pesoapa en los municipios de Teloloapan, Apaxtla y Arcelia; Río Poliutla o San Pedro o Palos Altos, en los municipios de Tlapehuala, Tlalchapa, Arcelia y Gral. Canuto A. Neri, y sus afluentes el Río Santo Niño y Río Arcelia en el municipio de Arcelia, Río Tlalchapa en el municipio de Tlalchapa; Río Ajuchitlán en el municipio de Ajuchitlán del Progreso y sus afluentes: Río Minero en el municipio de San Miguel Totolapan y Río La Esperanza en el municipio de Ajuchitlán del Progreso; Río Amuco o Tamacua o El Coyol los municipios de Ajuchitlán del Progreso y Coyuca de Catalán y sus afluentes directos: Río Cuirio o Hacienda de Dolores y Río Tarétaro o Las Trojas en el municipio de Coyuca de Catalán; Río Cutzamala en los municipios de Cutzamala de Pinzón y Pungarabato, y sus afluentes: Río Ixtapan y Palmar Grande en el municipio de Cutzamala de Pinzón; Río del Oro o Frío en los municipios de Coyuca de Catalán y Zirándaro, y sus afluentes directos: Río San José y Arroyo El Chivo en el municipio de Zirándaro; Ríos Santa Rita y San Antonio en el municipio de Cohuayutla; Bahías de Zihuatanejo e Ixtapa en el municipio de Teniente José Azueta; Bahía de Puerto Marqués y Bahía de Acapulco en el municipio de Acapulco de Juárez.
-
-Hidalgo: Río Calabozo en el municipio de Huautla; Río Atlapexco en el municipio de Atlapexco; Río Candelaria en el municipio de Tlanchinol; Ríos Candelaria, Chinguiñoso, Malila, Tahuizán y Tecoluco en el municipio de Huejutla de Reyes; Río Claro en los municipios de Juárez Hidalgo, Molango y Chapulhuacán.
-
-Jalisco: Río San Miguel o Tuxcacuesco en los municipios de Ejutla, El Limón, Tonaya, Tuxcacuesco y Tolimán; Río Ayuquila o Armería en los municipios de Tolimán y Zapotitlán; Río Ayutla en los municipios de Ayutla, Unión de Tula, Autlán, El Grullo, Tuxcacuesco y Tolimán; Río Tomatlán en el municipio de Tomatlán; Río Salado en los municipios de Tala y Teuchitlán; Río Ameca en los municipios de Teuchitlán, Ameca, Guachinango, San Sebastián y Puerto Vallarta; Río El Arenal en los municipios de Zapopan, El Arenal y Amatitán; Ríos Teocuitatlán y Citala en el municipio de Teocuitatlán de Corona; Arroyos Yahualica y Las Pilas en el municipio de Yahualica de González Gallo; Río Chico o Bolaños en los municipios de Mezquitic, Villa Guerrero, Bolaños, Chimaltitán y San Martín de Bolaños; Río Teocaltiche en los municipios de Teocaltiche y Villa Hidalgo; Río Lerma en los municipios de Degollado, Ayotlán, y La Barca; Río Huascato o Río Chico o Agua Blanca en los municipios de Jesús María, Degollado y Ayotlán; Río Agua Blanca en los municipios de Jesús María, Degollado y Ayotlán; Río Colorado o San Onofre en los municipios de La Barca y Ayotlán; Río Paso Blanco en los municipios de La Barca y Atotonilco; Río Santa Rita en los municipios La Barca y Ayotlán; Arroyo El Caracol en el municipio de Ayotlán; Arroyo Ayo o Charco Verde en los municipios de Ayotlán y Jesús María; Río San Marcos en el municipio de Ixtlahuacán de los Membrillos; Río La Pasión en los municipios de La Manzanilla de la Paz y Mazamitla; Río Santiago en los municipios de Juanacatlán, Chapala, Ixtlahuacán de los Membrillos, Tlajomulco de Zúñiga, El Salto, Tonalá, Zapotlanejo, Guadalajara, Ixtlahuacán del Río, Zapopan, San Cristóbal de la Barranca, Amatitán, Tequila y Hostotipaquillo; Río San Pedro o Verde en los municipios de Teocaltiche, Villa Hidalgo, Jalostotitlán, Mexticacán, Villa Obregón, Valle de Guadalupe, Yahualica, Cuquío, Tepatitlán de Morelos, Acatic, Zapotlanejo e Ixtlahuacán del Río; Arroyos Tamazula, San Lorenzo, Río Grande o Ejutla en el municipio de Ejutla; Arroyo Chiquito, Ríos Atengo y San Juan Caloma en el municipio de Ayutla; Río San José en el municipio de Autlán; Arroyo Los Prietos y Río María García en el municipio de Tomatlán; Arroyo Chapulimita en el municipio de Teuchitlán; Arroyo El Cocolisco en los municipios de Teuchitlán, Ahualulco y Antonio Escobedo; Río San Martín en el municipio de Ameca; Río El Salitre en el municipio de San Martín Hidalgo; Arroyo Las Pilas en el municipio de El Arenal; Río Atoyac en el municipio de Atoyac; Arroyo Barrotes en los municipios de Bolaños y Chimaltitán; Arroyos Guásimas, El Platanito, Cortapico y Cuixtla en el municipio de San Martín de Bolaños; Arroyos Zapatero o Las Canoas, El Salto o Río Contla en el municipio de Tamazula de Gordiano; Río Tamazula o Tuxpan en los municipios de Tamazula, Zapotiltic y Tuxpan; Arroyos San Ignacio y San Antonio en el municipio de Villa Hidalgo; Arroyo Atizcoa o Seco o Tequila en el municipio de Tequila; Arroyos Barranquitas, El Limón, San José o Salto, Las Cueras y Santo Tomás o San Nicolás en el municipio de Hostotipaquillo; Arroyos Ahuetita, El Rincón y El Agostadero y Río Encarnación en el municipio de Teocaltiche; Río Lagos o San Juan de los Lagos en los municipios de Jalostotitlán, Lagos de Moreno y Unión de San Antonio; Ríos La Sauceda, Bernalejo, Grande, Guaricho, Chico y Cuarenta, Arroyos El Salto y El Mercado en el municipio de Lagos de Moreno; Arroyos Jalpino o San Julián o Carrizo en el municipio de Unión de San Antonio; Río Ipalco y Arroyo Acasico en el municipio de Mexticacán; Arroyo Manalisco en el municipio de Cuquío; Río El Salto en el municipio de Valle de Guadalupe; Río Tepatitlán en los municipios de Acatic y Tepatitlán; Arroyos Lagunillas y San Pablo en el municipio de Ixtlahuacán del Río; Río Pitillal en el municipio de Puerto Vallarta; Río San Nicolás en los municipios de La Huerta y Tomatlán; Arroyos Tejas y Agua Zarca en el municipio de Tomatlán; Ríos Seco y El Tamarindo en el municipio de Cihuatlán; Ríos Cuitzmala y Purificación, Arroyo Chamela en el municipio de La Huerta; Arroyo Seco, Palmito o Cenicero, Río Cihuatlán o Minatitlán o Marabasco en el municipio de Cihuatlán; Ríos La Puerta, El Tuito, Tabo, Los Coquitos, Tecolotlán, Arroyos Maxeque o Caquixte, A. Comara o Zicatán en el municipio de Cabo Corrientes; Arroyo El Ahogado en el municipio de El Salto; Arroyos Capulín o Caracol o El Chilarejo, El Ocote y Madrasta en el municipio de Arandas; Arroyo La Cuartilla o El Saltito o Las Tortugas y Río Blanco en el municipio de Zapopan; Arroyos El Jacal y Marandilla en el municipio de Mascota; Río Mascota en los municipios de Puerto Vallarta y Mascota; Río Talpa en los municipios de Mascota y Talpa de Allende; Arroyo Veladero en el municipio de Talpa de Allende; Río San Miguel en los municipios de San Miguel y Jalostotitlán; Arroyo Seco en el municipio de Tlaquepaque; Arroyo Arietes en el municipio de Acatlán de Juárez; Arroyo San Antonio en el municipio de Tala; Arroyos El Tecolote, Carmesí y La Zopilota en el municipio de Casimiro Castillo; Río Zula o Los Sabinos en los municipios de Tototlán, Atotonilco El Alto y Arandas; Río La Laja y Río Zapotlanejo en el municipio de Zapotlanejo; Río Los Horcones en el municipio de Cabo Corrientes; Aguas Costeras del estado de Jalisco.
-
-Michoacán: Ríos Chilchota y Duero en el municipio de Chilchota; Río Cupatitzio en los municipios de Uruapan y Gabriel Zamora; Río Zitácuaro aguas arriba de La Presa del Bosque en el municipio de Zitácuaro; Río Balsas en los municipios de Arteaga y Lázaro Cárdenas; Río Lerma en los municipios de José Sixto Verduzco, Angamacutiro, Penjamillo, Numarán, La Piedad, Yurécuaro, Tanhuato, Vista Hermosa y Briseñas; Ríos Tirio y Tiripetio en el municipio de Morelia.
-
-Morelos: Río Tembembe en el municipio de Miacatlán (hasta la derivadora Perritos).-; Río Apatlaco en su parte alta en los municipios de Huitzilac, Cuernavaca y Temixco; Arroyos Chalchihuapan, Zempantle, Ahutlán, Atzingo, El Tecolote, El Mango y El Túnel en el municipio de Cuernavaca; Arroyo Chapultepec en los municipios de Cuernavaca y Temixco; Arroyos Los Arquillos, Pilcaya y El Limón en el municipio de Temixco.
-
-Nayarit: Río Acaponeta en los municipios de Huajicori, Acaponeta y Tecuala; Río San Pedro en los municipios de El Nayar, Ruiz, Rosamorada, Tuxpan y Santiago Ixcuintla; Río Santiago en los municipios de La Yesca, Ixtlán del Río, Jala, Santa María del Oro, El Nayar, Tepic, Santiago Ixcuintla y San Blas; Río Mololoa en los municipios de Santa María del Oro, Xalisco, Tepic y Santiago Ixcuintla; Río Cañas en los municipios de Huajicori, Acaponeta y Tecuala; Bahía de Matanchén en el municipio de San Blas; Ensenada del Toro en el municipio de Compostela.
-
-Nuevo León: Río San Juan en los municipios de Santiago, Cadereyta Jiménez, General Terán, China, General Bravo, Los Ramones, Doctor Coss, Los Aldama; Río Pilón en los municipios de Galeana, Rayones, Montemorelos; Río Santa Catarina en los municipios de Santiago, Santa Catarina, San Pedro Garza García, Monterrey, Guadalupe, Juárez, Cadereyta Jiménez; Río La Silla en los municipios de Monterrey, Guadalupe; Ríos Blanquillo y Ramos, Arroyo Mireles en el municipio de Allende; Arroyo La Chueca en el municipio de Santiago; Arroyo Mohínos en el municipio de China; Río Pablillo en los municipios de Galeana, Iturbide y Linares; Río Camacho o Hualahuises en los municipios de Hualahuises y Linares; Canal Sotolar en el municipio de Linares; Ríos Salado y Bravo en el municipio de Anáhuac; Río Blanco en los municipios de General Zaragoza y Aramberri.
-
-Oaxaca: Río Papaloapan tramo Tuxtepec-Veracruz en los municipios de San Juan Bautista Tuxtepec y San Miguel Soyaltepec; Río Manialtepec en los municipios de San Pedro Tututepec y Santo Reyes Nopala; Río Mixteco en el municipio de Huajuapan de León; Acuífero Valles Centrales en la Región Valles Centrales del Estado; Bahías de Huatulco en el municipio de Santa María Huatulco; Bahía de Salina Cruz y Golfo de Tehuantepec en el municipio de Salina Cruz; Bahía La Ventosa en el municipio de Salina Cruz; Océano Pacífico en el municipio de San Pedro Mixtepec.
-
-Puebla: Río Pantepec en los municipios de Pantepec y Metlaltoyuca; Río Acalmán en los municipios de Naupan, Tlacuilotepec, Tlaxco, Honey, Pahuatlan y Jalpan; Río San Marcos en los municipios de Naupan, Tlacuilotepec, Xicotepec, y Jalpan; Río Necaxa en los municipios de Nuevo Necaxa, Tlaola, Zihuateutla y Jopala; Río Amixtlán en los municipios de Zihuateutla, Xicotepec, Jalpan y Venustiano Carranza; Río Cozapa en los municipios de Tlaola, Tlapacoya y Jopala; Río Agrio en los municipios de Zacatlán y Chignahuapan; Río Ajajalpan en los municipios de Chignahuapan, Zacatlán, Tepetzintla, Ahuacatlán, Chiconcuautla, Tlapacoya, San Felipe Tepatlán, Hermenegildo Galeana y Jopala; Río Zempoala en los municipios de Tetela de Ocampo, San Esteban Cuautempan, Huitzilán, Zapotitlán de Méndez, Zoquiapan, Atlequizayan, Caxhuacan, Huehuetla, Tuzamapan de Galeana y Tenampulco; Río Apulco en los municipios de Ixtacamaxtitlán, Santiago Zautla, Xochiapulco, Zacapoaxtla, Nauzontla, Xochitlán de Vicente Suárez, Cuetzalán del Progreso, Yaonáhuac, Ayotoxco de Guerrero y Tenampulco; Río María de la Torre en los municipios de Teziutlán, Xiutetelco, Hueytamalco y Acateno; Río Tilapa en los municipios de Chichiquila y Quimixtlán; Río Huizilapan en los municipios de Tlachichuca, Chichotla y Quimixtlán; Río Atoyac en los municipios de Tlahuapan, San Miguel Xoxtla, San Juan Cuautlancingo y Puebla y sus afluentes directos: Arroyo Tlapalac en San Miguel Xoxtla; Barranca Guadalupe, Barranca del Conde, Barranca San Jerónimo en el municipio de Puebla; Arroyo Rabanillo en los municipios de San Pedro Cholula y Puebla; arroyo Zapatero en los municipios de San Andrés Cholula y Puebla; Río San Francisco, Arroyo Maravillas y Barranca Xaltonac en el municipio de Puebla; Río Alseseca en el municipio de Puebla y sus afluentes directos: Barranca San Sebastián, Barranca Manzanilla, Barranca San Antonio en el municipio de Puebla y Barranca San Diego en los municipios de Amozoc y Puebla; Río Nexapa en los municipios de San Nicolás de los Ranchos y Nealtican; Río Axamilpa en los municipios de Ixcaquixtla y Tepexi de Rodríguez; Río Atoyac (cuenca baja).- en los municipios de Tzicatlacoyan, Atoyatempan, Huatlatlahuaca, Coatzingo, Ahuatlán, Cuayuca de Andrade, Tehuitzingo, Chiautla de Tapia y Santa María Cohetzala.
-
-Querétaro: Río Jalpan en los municipios de Jalpan, Pinal de Amoles y Arroyo Seco; Río Extoraz, en los municipios de Tolimán, Peñamiller, Pinal de Amoles y Jalpan; Río Tolimán en los municipios de Colón y Tolimán; Arroyo Arenal en el municipio de Querétaro; Río Huimilpan en los municipios de Huimilpan, Querétaro y Corregidora; Río Santa María en los municipios de Arroyo Seco y Jalpán; Río Querétaro en los municipios de Querétaro y el Marqués.
-
-Quintana Roo: Arroyos Huay Pix y Milagros, y Río Hondo o Azul o Santa María en el municipio Othón P. Blanco; Arroyo Canal y Canal Nizuc en el municipio de Benito Juárez; Bahía de Chetumal en el municipio Othón P. Blanco; Playa Linda en el municipio de Benito Juárez.
-
-San Luis Potosí: Río Verde en los municipios de Armadillo de Los Infante, San Nicolás de Tolentino, Villa Juárez, Cerritos, Guadalcázar, Ríoverde, Rayón, Cárdenas, Santa Catarina, Ciudad Fernández, San Ciro de Acosta y Lagunillas; Ríos Gallinas y Tamasopo en los municipios de Cárdenas, Rayón y Tamasopo; Río Valles en los municipios de El Naranjo, Ciudad Valles y Ciudad del Maíz; Río Tampaón en los municipios de Tamasopo, Aquismón, Ciudad Valles y Tamuín; Río Coy en los municipios de Aquismón, Ciudad Santos, Tanlajás y Ciudad Valles; Río Amajac en el municipio de Tamazunchale; Río Moctezuma en los municipios de Tamazunchale, Axtla de Terrazas, Coxcatlán, Tampamolón Corona, San Vicente Tancuayalab y Tamuín; Río Choy en el municipio de Tamuín.
-
-Sinaloa: Río Fuerte en los municipios El Fuerte y Ahome; Ríos San Lorenzo y Tamazula en el municipio de Culiacán; Río Humaya en los municipios Badiraguato y Culiacán; Río Culiacán en el municipio de Culiacán; Río Cañas en el municipio de Escuinapa; Bahía de Mazatlán en el municipio de Mazatlán.
-
-Sonora: Río Colorado en el municipio de San Luis Río Colorado; Río Sonoyta en el municipio General Plutarco Elías Calles; Río Altar en los municipios de Saric, Nogales, Tubatama, Atil, Oquitoa y Altar; Río Magdalena y sus afluentes, Arroyos Cocospera, Coyotillo, Bambuto y Los Alisos, en los municipios de Imuris, Benjamín Hill, Nogales, Santa Cruz, Trincheras, Magdalena y Santa Ana; Río Asunción y sus afluentes Arroyos Seco, El Sasabe y El Plomo en el municipio de Caborca; Río Concepción en el municipio de Caborca; Río Sonora y sus afluentes Río San Miguel de Horcasitas, Río Zanjón y Río Bacanuchi en los municipios de Aconchi, Arizpe, Bacoachi, Banamichi, Baviácora, Benjamín Hill, Cananea, Carbó, Cucurpe, Hermosillo, Opodepe, Rayón, San Felipe de Jesús, San Miguel de Horcasitas, Santa Ana, y Ures; Río Matape y sus afluentes en los municipios de La Colorada Empalme, Guaymas, Mazatán y Villa Pesqueira; Río Yaqui y sus afluentes: Río Bavispe, Río Aros, Río Nacori, Río Sahuaripa, Río Agua Prieta, Río Fronteras, Río Negro, Chico, Bacanora, Moctezuma y Suaqui y sus arroyos más importantes Bacadehuachi y Agua Caliente en los municipios de Agua Prieta, Arivechi, Bacadehuachi, Bacanora, Bacerac, Bacum Bavispe, Cajeme, La Colorada, Cumpas, Divisaderos, Fronteras, Granados, Guaymas, Huachineras, Huasabas, Moctezuma, Naco, Nacozari de García, Nacori Chico, Onavas, Quiriego, Rosario, Sahuaripa, San Ignacio Río Muerto, San Javier, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Villa Hidalgo, Villa Pesqueira y Yécora; Río Mayo y sus afluentes Arroyos Los Cedros y Quiriego en los municipios de Álamos, Navojoa, Etchojoa Huatabampo, Navojoa, Quiriego y Rosario Tezopaco; Arroyo Cocoraque en los municipios de Benito Juárez y Quiriego; Río San Pedro en los municipios de Cananea, Naco y Santa Cruz; Río Santa Cruz en los municipios Nogales y Santa Cruz; Drenes Agrícolas, Dren T-O, Yávaros, Moroncarit, Las Ánimas, Dren K y Dren L en los municipios de Etchojoa, Huatabampo y Navojoa; Drenes Agrícolas del Valle del Yaqui en los municipios de Bacum, Benito Juárez, Cajeme, Etchojoa, Guaymas y San Ignacio Río Muerto; Canales de riego, Canal Principal Alto en los municipios de Benito Juárez, Cajeme y Navojoa; Canal Principal Bajo en los municipios de Benito Juárez y Cajeme; Canal Principal Margen Izquierda en los municipios de Etchojoa, Huatabampo y Navojoa; Tramo comprendido desde el Golfo de Santa Clara hasta la Bahía San Jorge, en los municipios de San Luis Río Colorado y Puerto Peñasco; Bahías Kino, Kumkaak y San Agustín en el municipio de Hermosillo; Bahías de Guaymas, San Carlos y Guásimas en el municipio de Guaymas; Bahía de Empalme en el municipio de Empalme; Bahías Santa Bárbara, Huatabampito y Yávaros en el municipio de Huatabampo.
-
-Tabasco: Ríos Carrizal y Grijalva en el municipio del Centro; Río Puxcatán en los municipios de Macuspana y Tacotalpa; Río Tacotalpa en el municipio de Tacotalpa; Río Teapa de La Sierra en el municipio de Teapa.
-
-Tamaulipas: Río Bravo en los municipios de Nuevo Laredo, Guerrero, Chamarreo, Mire, Miguel Alemán, Gustavo Díaz Ordaz, Reynosa, Río Bravo y Matamoros; Canal Soliseño en el municipio de Matamoros; Río Conchos en los municipios de San Fernando y Méndez; Río Pilón en los municipios de Mainero, Villagrán, Hidalgo, San Carlos y Padilla; Río Purificación en los municipios de Güemes e Hidalgo; Río San Marcos en los municipios de Victoria y Güemes; Río Soto La Marina en el municipio de Soto La Marina; Río Tigre en los municipios de Aldama y Altamira; Río Guayalejo en los municipios de Jaumave, Llera, El Mante, Altamira y González; Río Sabinas en los municipios de Llera y Xicoténcatl; Río Frío en los municipios de Gómez Farías y El Mante; Río Mante, Canal Principal K-O y Arrollo las Cazuelas en el municipio de El Mante; Río Tamesí en los municipios de González, Altamira y Tampico; Arroyo El Coyote en el municipio de Nuevo Laredo; Río San Juan y Dren Puertecitos en el municipio de Camargo; Dren Rancherías en los municipios Miguel Alemán y Camargo; Dren Huizache en los municipios de Camargo y Díaz Ordaz; Drenes El Anhelo y La Rosita, Ramal II del Dren Río Bravo, desalinador Ramal 5.67 Izquierdo en el municipio de Reynosa; Dren El Morillo en los municipios de Río Bravo y Reynosa; Drenes Río Bravo, E-128 y E-119 y Emisor Marginal en el municipio de Río Bravo; Drenes SR-14+400, 1+343, Valle Hermoso, Guadalupe, Agrícola 122 y Colector Anáhuac Principal, E-30, E-32 Izquierdo y Colector en el municipio de Valle Hermoso; Drenes Emisor, Marginal, Principal, Agrícola 2-26920, Agrícola E-25, Las Vacas y 20 de Noviembre en el municipio de Matamoros; Dren Las Blancas en los municipios de Matamoros y Valle Hermoso; Canales Lateral 25+600 y Principal Margen Derecha, Drenes Ramal IV y Contadero IV en el municipio de Abasolo; Ríos Blanco y Carrizal en el municipio de Aldama; Río Barberena en los municipios de Aldama y Altamira; Dren San Mamerto en los municipios de Jiménez y Abasolo; Arroyo El Olmo y Bordo El Saladito en el municipio de Victoria; Canal Sublateral 6+425, Canal Lateral 12+790 y Dren I en el municipio de Xicoténcatl; Arroyo Santa Bárbara en el municipio de Ocampo; Arroyo El Cojo en el municipio de González; Canal Guillermo Rodhe en los municipios de Camargo, Díaz Ordaz, Reynosa y Río Bravo; Canal Anzaldúas en los municipios de Reynosa, Río Bravo y Valle Hermoso; Canal Principal en el municipio de Abasolo; Acuífero Zona Norte en los municipios de Camargo, Reynosa, Río Bravo y Valle Hermoso; Acuífero Méndez en los municipios de Méndez, San Fernando y Burgos; Acuífero Hidalgo-Villagrán en los municipios de Hidalgo, Villagrán y Mainero; Acuífero de San Carlos-Jiménez en los municipios de San Carlos y Jiménez; Acuífero Victoria-Güemes en los municipios de Victoria y Güemes; Acuífero Palmillas-Jaumave en los municipios de Palmillas y Jaumave; Acuífero Tula-Bustamante en los municipios de Tula y Bustamante; Acuífero Llera-Xicoténcatl en los municipios de Llera y Xicoténcatl; Acuífero Ocampo-Antiguo Morelos en los municipios de Ocampo, Antiguo Morelos y Nuevo Morelos; Presa La Patria es Primero en el municipio de Abasolo; Zona Costera de los municipios de Matamoros, Altamira y Ciudad Madero; Marismas y Estero Ragapatas en el municipio de Altamira; Marismas de Tierra Negra en el municipio de Ciudad Madero; Estuarios del Río Pánuco en los municipios de Tampico y Ciudad Madero; Río Álamo; Río Álamo en el municipio de Mier; Arroyo El Coronel en el municipio de Guerrero; Arroyo el Buey en el municipio de Miguel Alemán y Arroyo San Juan en el municipio de Hidalgo.
-
-Tlaxcala.
-
-Veracruz: Río Pánuco en los municipios de Pánuco y Pueblo Viejo; Río Tempoal en los municipios de Platón Sánchez, Tempoal, El Higo y Tantoyuca; Río Chicayán en el municipio de Pánuco; Río Calabozo en los municipios de Tantoyuca y Chicontepec; Río Tuxpam en los municipios de Tuxpam y Álamo Temapache; Río Vinazco en los municipios de Huayacocotla, Texcatepec, Tlachichilco, Ixhuatlán y Chicontepec; Río Cazones en los municipios de Cazones de Herrera, Poza Rica de Hidalgo y Coatzintla; Río Tecolutla en los municipios de Tecolutla, Gutiérrez Zamora y Papantla; Río Nautla (Río Bobos).- en los municipios de Nautla y Martínez de la Torre; Río Misantla en el municipio de Misantla; Río San Juan en los municipios de Villa Azueta, Tlacotalpan, San Juan Evangelista, Hueyapan de Ocampo, Juan Rodríguez Clara, Isla, San Andrés Tuxtla y Santiago Tuxtla; Río Jamapa en los municipios de Calcahualco, Alpatláhuac, Huatusco, Ixhuatlán del Café, Tepatlaxco, Zentla, Adalberto Tejeda, Soledad de Doblado, Manlio Fabio Altamirano, Jamapa, Medellín y Boca del Río; Río Coatzacoalcos en los municipios de Olutla, Ixhuatlán del Sureste, Coatzacoalcos, Jesús Carranza, Hidalgotitlán, Texistepec, Nanchital de Lázaro Cárdenas del Río y Minatitlán; Río Huazuntlán en los municipios de Soteapan, Mecayapan, Pajapan y Chinameca; Río Tonalá en los municipios de Las Choapas y Agua Dulce; Río Uspanapa en los municipios de Las Choapas, Minatitlán, Moluacán e Ixhuatlán del Sureste; Río Colipa en los municipios de Vega de Alatorre, Colipa y Yecuatla; Río Pantepec en el municipio de Álamo Temapache; Ríos Tomata e Itzapa en el municipio de Tlapacoyan; Río Atoyac en el municipio de Paso del Macho; Río Moctezuma en el municipio de El Higo; Río Huazuntlán en los municipios de Coatzacoalcos y Minatitlán; Río Huitzilapan en el municipio de Ixhuacán de Los Reyes; Ríos Ahuacatlán, Huehueyapan y Cinco Palos en el municipio de Coatepec; Río Suchiapa en el municipio de Coatepec; Ríos Ocotal, Tezizapa y Yurivia en el municipio de Mecayapán; Ríos Socoyolapa y Pixquiac en el municipio de Tlanelhuayocan; Río La Antigua en los municipios de Xalapa, Coatepec, Jalcomulco, Tlaltetela, Totutla, Emiliano Zapata, Apazapan, Paso de Ovejas y La Antigua; Río Actopan en el municipio de Actopan y Úrsulo Galván; Ríos Sedeño y Sordo en los municipios de Banderilla y Xalapa; Río Paso de La Milpa en los municipios de Emiliano Zapata y Actopan; Río Los Pescados en los municipios de Ixhuacán de Los Reyes, Teocelo, Cosautlán, Coatepec, Tuzamapán, Jalcomulco, Apazapán, Emiliano Zapata, Puente Nacional y La Antigua; Playa Norte y Barra de Tuxpan en el municipio de Tuxpam; Barra de Tecolutla en el municipio de Tecolutla; Playa Las Gaviotas en el municipio de Coatzacoalcos; Playa Mocambo en el municipio de Boca del Río; Playas Villa del Mar y Norte en el municipio de Veracruz.
-
-Yucatán: Acuífero en los municipios de Baca, Bokobá, Calotmul, Cansahcab, Cantamayec, Celestún, Cenotillo, Chacsinkin, Chankom, Chapab, Chicxulub Pueblo, Chikindzonot, Chocholá, Chumayel, Cuncunul, Cuzamá, Dzan, Dzemul, Dzilam de Bravo, Dzitás, Dzoncauich, Huhí, Ixil, Káua, Kinchil, Kopomá, Mama, Maní, Mayapán, Mocochá, Muxupip, Opichén, Quintana Roo, Río Lagartos, Sacalum, Samahil, San Felipe, Sanahcat, Santa Elena, Sinanché, Sucilá, Sudzal, Suma, Tahdziú, Tahmek, Teabo, Tekal de Venegas, Tekantó, Tekom, Telchac Pueblo, Telchac Puerto, Tepakán, Tetiz, Teya, Tixcacalcupul, Tixméhuac, Tunkás, Uayma, Xocchel, Yaxkukul y Yobain.
-
-Zacatecas: Río Tenayuca en los municipios de Nochistlán y Apulco; Río San Antonio en el municipio de Chalchihuites, en el tramo población de Gualterio hasta su confluencia con el Río San José; Arroyo de Enmedio en el municipio General Enrique Estrada; Río San Pedro en los municipios de Genaro Codina y Ciudad Cuauhtémoc dentro del tramo, cabecera municipal de Genaro Codina hasta antes de la Presa San Pedro Piedra Gorda; Acuíferos Sabinas e Hidalgo en los municipios de Chalchihuites y Sombrerete; Acuífero Corrales en los municipios de Chalchihuites, Jiménez del Teúl, Sombrerete y Valparaíso; Acuífero Valparaíso en los municipios de Monte Escobedo, Susticacán y Valparaíso; Acuífero Jerez en los municipios de Jerez, Tepetongo, Susticacán y Fresnillo; Acuífero Tlaltenango de Sánchez Román-Tepechitlán en los municipios de Momax, Atolinga, Tlaltenango, Tepechitlán, General Joaquín Amaro, Teúl de González Ortega y Benito Juárez; Acuífero García de la Cadena en los municipios de Trinidad García de la Cadena, Teúl de González Ortega y Benito Juárez; Acuífero Nochistlán en los municipios de Nochistlán de Mejía y Apulco; Acuífero Jalpa-Juchipila en los municipios de Villanueva, Tabasco, Huanusco, Jalpa, Apozol, Juchipila, Moyahua de Estrada, General Joaquín Amaro, Tlaltenango, Tepechitlán, Teúl de González Ortega, Mezquital del Oro y Nochistlán de Mejía; Acuífero Benito Juárez en los municipios de Zacatecas, Genaro Codina y Villanueva; Acuífero Villanueva en los municipios de Genaro Codina, Villanueva, Jerez y Tepetongo; Acuífero Ojocaliente en los municipios de Cuauhtémoc, Genaro Codina, Luis Moya, Ojocaliente y Guadalupe; Acuífero Villa García en los municipios de Villa García y Loreto; Acuífero de Aguanaval en los municipios de Fresnillo, Saín Alto y Cañitas de Felipe Pescador; Acuífero Ábrego en los municipios de Sombrerete, Saín Alto y Fresnillo; Acuífero Saín Alto en los municipios de Saín Alto y Sombrerete; Acuífero de El Palmar en los municipios de Francisco R. Murguía, Miguel Auza, Juan Aldama, Río Grande, Sombrerete y Saín Alto; Acuífero Cedros en los municipios de Melchor Ocampo y Mazapil; Acuífero El Salvador en los municipios de El Salvador y Concepción del Oro; Acuífero Guadalupe en el municipio de Mazapil; Acuífero Garzón en el municipio de Concepción del Oro; Acuífero Camacho en los municipios de Mazapil y Francisco R. Murguía; Acuífero El Cardito en los municipios de Mazapil y Villa de Cos; Acuífero Guadalupe de las Corrientes en los municipios de Mazapil, Villa de Cos, Francisco R. Murguía, Cañitas de Felipe Pescador y Fresnillo; Acuífero Puerto Madero en el municipio de Villa de Cos; Acuífero Calera en los municipios de Fresnillo, Calera, Enrique Estrada, Morelos, Pánuco y Zacatecas; Acuífero Chupaderos en los municipios de Villa de Cos, Pánuco, Fresnillo, Vetagrande y Guadalupe; Acuífero Guadalupe-Bañuelos en el municipio de Guadalupe; Acuífero La Blanca en los municipios de General Pánfilo Natera, Ojocaliente y Villa González Ortega; Acuífero Loreto en los municipios de Loreto, Ojocaliente, Noria de Ángeles y Villa González Ortega; Acuífero Villa Hidalgo en los municipios de Noria de Ángeles, Loreto, Pinos, Villa González Ortega y Villa Hidalgo; Acuífero Pinos en el municipio de Pinos; Acuífero Espíritu Santo, en los municipios de Villa Hidalgo y Pinos; Acuíferos Saldaña y Pino Suárez en el municipio de Pinos.
-
-CUERPOS RECEPTORES TIPO C:
-
-Aguascalientes: Presa Plutarco Elías Calles en el municipio de San José de Gracia; Presa Abelardo L. Rodríguez en el municipio de Jesús María; Presa Pabellón en el municipio de Rincón de Romos.
-
-Baja California: Presa Emilio López Zamora en el municipio de Ensenada; Presa El Carrizo en el municipio de Tecate; Presa Abelardo L. Rodríguez en el municipio de Tijuana; Acuíferos Río Guadalupe, La Misión, Ensenada, San Quintín y Maneadero; Acuífero Tijuana; Acuíferos Río Colorado y San Felipe en el municipio de Mexicali.
-
-Baja California Sur: Acuíferos Punta Eugenia, Vizcaíno, San Ignacio, Mulegé-B Concepción, San Marcos-Palo Verde, San Bruno, San Lucas y L. Virg-S. Rosas-S- Águeda en el municipio de Mulegé; Acuíferos La Purísima, Mezquital Seco y Santo Domingo en el Municipio de Comondú; Acuífero Santa Rita, Las Pocitas-San Hilario, el Conejo-Los Viejos, Melitón Albañez, Cañada Honda, El Carrizal, Los Planes, Valle La Paz, El Coyote, Todos Santos, Pescadero y Plutarco Elías Calles en el municipio de La Paz; Acuíferos Migriño, Cabo San Lucas, Cabo Pulmo, San José del Cabo, Santiago y San Bartolo, en el municipio de Los Cabos; Acuífero A.V. Bonfil-Tepentú en los municipios de La Paz y Loreto; Acuíferos Loreto-Puerto Escondido, San Juan Bautista Londo Rosarito en el municipio de Loreto.
-
-Campeche: Laguna de Términos y Sistema Lagunar Adyacente en los municipios de El Carmen y Palizada.
-
-Coahuila: Presa la Amistad en el municipio de Acuña y Presa Venustiano Carranza en los municipios de Progreso y Juárez.
-
-Chihuahua: Presas Chihuahua y El Rejón en el municipio de Chihuahua y Presa Parral en el municipio de Hidalgo del Parral.
-
-Durango: Presa Lázaro Cárdenas en el municipio de Indé; Presa La Rosilla en el municipio de Pueblo Nuevo; Presa La Vieja en el municipio Guadalupe Victoria; Presa Francisco Zarco en los municipios de Cuencamé, Nazas y Lerdo.
-
-Estado de México: Presa Salazar en los municipios de Lerma y Ocoyoacac; Presa Villa Victoria en el municipio de Villa Victoria; Presas Valle de Bravo y Colorines en el municipio de Valle de Bravo; Presa Santo Tomás en el municipio de Santo Tomás; Presa Madín en los municipios de Naucalpan de Juárez, Jilotzingo y Cuautitlán-Izcalli; Presa Chilesdo en el municipio de Donato Guerra; Presa Tilostoc en el municipio de Valle de Bravo; Presa Tecuán en el municipio de Amatepec.
-
-Guanajuato: Presa El Palote en el municipio de León; Presas La Esperanza y La Soledad en el municipio de Guanajuato.
-
-Guerrero: Presa Vicente Guerrero en el municipio de Arcelia; Presa Valerio Trujano en el municipio de Tepecuacuilco de Trujano; Laguna de Tuxpan en el municipio de Iguala de La Independencia; Presa Jaltipan en el municipio de Tixtla.
-
-Hidalgo: Presa Jaramillo y Bordo la Estanzuela en el municipio de Pachuca de Soto.
-
-Jalisco: Lago Chapala en los municipios de Jamay, Ocotlán, Poncitlán, Chapala, Jocotepec, Tuxcueca y Tizapan El Alto; Presa El Salto en el municipio de Valle de Guadalupe; Presa Calderón en el municipio de Acatic; Presa La Red en el municipio de Tepatitlán; Río Lerma en el municipio de Jamay; Río San Marcos en el municipio de Chapala; Río La Pasión en el municipio de Tizapán El Alto; Río Santiago en los municipios de Ocotlán, Poncitlán y Zapotlán del Rey; Río Calderón en los municipios de Tepatitlán y Acatic; Río El Valle y Arroyo Prieto en el municipio de Valle de Guadalupe; Canal de Atequiza en los municipios de Chapala, Ixtlahucán de Los Membrillos, Poncitlán, Tlajomulco de Zúñiga y Tlaquepaque; Río Zula en el municipio de Ocotlán; Arroyos Las Amapas y El Nogalito, Ríos Cuale y Mismaloya en el municipio de Puerto Vallarta; Bordo Carricillo en el municipio de Acatic; Presa y Río El Jihuite en el municipio de Tepatitlán de Morelos; Río Bramador en los municipios de Tomatlán y Talpa de Allende; Río San Juan de Los Lagos, Presa Alcalá, Arroyos El Salto y Ojo de Agua en el municipio de San Juan de los Lagos; Presa Cajón de Peña en el municipio de Tomatlán; Presa La Joya en el municipio de Zapotlanejo.
-
-Michoacán: Lago de Chapala en los municipios de Venustiano Carranza y Cojumatlán de Régules; Presa José María Morelos (La Villita).- en el municipio de Lázaro Cárdenas; Presas Cointzio y La Mintzita en el municipio de Morelia; Presa del Bosque en el municipio de Zitácuaro; Presa Barraje de Ibarra en el municipio de Briseñas; Presa El Rosario en el municipio de Angamacutiro; Lago de Camécuaro en el municipio de Tangancícuaro; Lago de Cuitzeo en los municipios de Cuitzeo, Huandacareo, Chucándiro, Copándaro, Tarímbaro, Álvaro Obregón, Queréndaro, Zinapécuaro y Santa Ana Maya; Lago de Pátzcuaro en los municipios de Pátzcuaro, Quiroga, Erongarícuaro y Tzintzúntzan; Laguna de Zacapu en el municipio de Zacapu; Lago Zirahuén en el municipio de Salvador Escalante; Río Aquila en los municipios de Coahuayana y Aquila; Río Coahuayana en los municipios de Chinicuila y Coahuayana; Río Nexpa en los municipios de Aguililla, Coalcomán de Vázquez Pallares, Lázaro Cárdenas, Aquila y Arteaga; Río Balsas en los municipios de Huetamo y San Lucas; Río Coalcomán en los municipios de Coalcomán de Vázquez Pallares, Chinicuila y Aquila; Ríos El Marquez y Tepalcatepec en el municipio de Mújica; Río Zicuirán aguas abajo de la Presa Zicuirán en el municipio de La Huacana.
-
-Morelos: Laguna de Tequesquitengo en los municipios de Puente de Ixtla y Jojutla; Laguna de Zempoala en el municipio de Huitzilac.
-
-Nuevo León: Presa el Cuchillo-Solidaridad en el municipio de China; Presa Rodrigo Gómez La Boca, en el municipio de Santiago; Presa José López Portillo Cerro Prieto en el municipio de Linares; Laguna Salinillas en el municipio de Anáhuac.
-
-Querétaro: Presa Jalpan en el municipio de Jalpan de Serra; Presa La Ceja en el municipio de Huimilpan.
-
-Quintana Roo: Sistema Lagunar Nichupté o Bojórquez o Río Inglés o del Amor en el municipio de Benito Juárez.
-
-San Luis Potosí: Presas Gonzalo N. Santos, El Potosino y San José en el municipio de San Luis Potosí.
-
-Sinaloa: Presa Eustaquio Buelna en los municipios de Mocorito y Salvador Alvarado; Presa Lic. Adolfo López Mateos en el municipio de Badiraguato; Presa Sanalona en el municipio de Culiacán; Presa Lic. José López Portillo en el municipio de Cosalá; Presa Agustina Ramírez en el municipio de Escuinapa; Acuífero Río Fuerte en los municipios de Ahome y El Fuerte; Acuífero Río Sinaloa en los municipios de Sinaloa y Guasave; Acuífero Mocorito en los municipios de Mocorito, Salvador Alvarado y Angostura; Acuífero Río Culiacán en los municipios de Culiacán y Navolato; Acuífero Río San Lorenzo en el municipio de Culiacán; Acuífero Río Elota en el municipio de Elota; Acuífero Río Piaxtla en el municipio de San Ignacio; Acuífero Río Quelite en el municipio de Mazatlán; Acuífero Río Presidio en los municipios de Mazatlán y Concordia; Acuífero Río Baluarte en el municipio de Rosario; Acuíferos del Valle de Escuinapa, Barra de Teacapan y Río Canas en el municipio de Escuinapa.
-
-Sonora: Presa Álvaro Obregón en el municipio de Cajeme; Presa Abelardo L. Rodríguez en el municipio de Hermosillo; Presa Lázaro Cárdenas en el municipio de Villa Hidalgo.
-
-Tamaulipas: Presa Falcón en el municipio de Guerrero; Laguna La Nacha en el municipio de San Fernando; Presa Vicente Guerrero en el municipio de Casas; Lagunas de Champayán y La Puerta en el municipio de Altamira; Laguna del Chairel en el municipio de Tampico; Presa La Patria es Primero en el municipio de Abasolo; Presa República Española en el municipio de Aldama.
-
-Veracruz: Laguna de Chairel en el municipio de Pánuco; Manantial Ojo de Agua en los municipios de Orizaba e Ixtaczoquitlán; Manantiales La Cañada y Rancho Nuevo en el municipio de Alto Lucero; Manantiales El Pocito, Rincón de las Águilas y Arroyo Escondido en el municipio de Banderilla; Manantiales Los Amelitos, Cerro de Nacimiento y La Poza en el municipio de Altotonga; Manantial Matacatzintla en el municipio de Catemaco; Manantial El Rincón de Chapultepec en el municipio de Coacoatzintla; Manantiales Ojo de Agua, Las Lajas y Los Bonilla en el municipio de Coatepec; Manantial Dos Cruces en el municipio de Comapa; Manantial Las Tortugas en el municipio de Cuitláhuac; Manantial El Chorro en el municipio de Chicontepec; Manantiales El Resumidero, El Chico, de Vaquerías, El Castillo y La Represa en el municipio de Emiliano Zapata; Manantiales Axol, Coxolo y Tepetzingo en el municipio de Huatusco; Manantiales Pozo de Piedra y El Lindero en el municipio de Huayacocotla; Manantiales El Naranjo, Arroyo El Rincón, Arroyo El Pozo y Tezacobalt en el municipio de Ixhuacán de los Reyes; Manantiales Dos Arroyos y Los Berros en el municipio de Ixtaczoquitlán; Manantiales Tlacuilalostoc, Nixcamalonía y Arroyo Tlacuilalostoc en el municipio de Jalacingo; Manantial Corazón Poniente en el municipio de Jilotepec; Manantial Chicahuaxtla en el municipio de Maltrata; Manantial El Coralillo en el municipio de Miahuatlán; Manantiales Las Lajas y La Lima en el municipio de Misantla; Manantial Las Matillas en el municipio de Naolinco; Manantial Piedra Gacha en el municipio de Nogales; Manantial Cofre de Perote en el municipio de Perote; Manantial el Infiernillo en el municipio de Puente Nacional; Manantiales Talixco, El Salto y Piletas en el municipio de Rafael Lucio; Manantiales 1o. de Mayo, Nacimiento de Otapan, Avescoma, Tular I, Tular II, Tres Chorritos y El Caracol en el municipio de San Andrés Tuxtla; Manantiales El Chorro de Tío Jaime y El Balcón en el municipio de Teocelo; Manantiales Río de Culebras y Dos Pocitos en el municipio de Tonayan; Manantial La Represa en el municipio de Villa Aldama; Manantial El Castillo en el municipio de Xalapa; Manantiales Pozo Santo y Mata de Agua en el municipio de Xico; Río Tonto en el municipio de Tres Valles; Río Tecolapan en los municipios de Ángel R. Cabada, Saltabarranca y Lerdo de Tejada; Río Papaloapan en los municipios de Tres Valles, Otatitlán, Tlacotalpan, Tuxtilla, Chacaltianguis, Cosamaloapan, Amatitlán y Tlacojalpan.
-
-Yucatán: Acuífero en los municipios de Abalá, Conkal, Mérida, Kanasín, Tecoh, Timucuy, Tixpéhual, Ucú, Umán y Valladolid.
-
-Zacatecas: Presa José López Portillo (Tenayuca).- en los municipios de Nochistlán de Mejía y Apulco.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 278-B.
-
-El volumen de agua residual y las concentraciones de contaminantes descargados al cuerpo receptor se determinarán trimestralmente, conforme a lo siguiente:
-
-I.- Volumen:
-
-a).- Cuando el caudal de la descarga se efectúe en forma continua, intermitente o fortuita, y sea igual o mayor a 9,000 metros cúbicos en un trimestre, el contribuyente deberá instalar medidores totalizadores o de registro continuo en cada una de las descargas de agua residual. El volumen de cada descarga corresponderá a la diferencia entre la lectura tomada el último día del trimestre de que se trate y la lectura efectuada el último día del trimestre anterior.
-
-b).- Cuando el caudal de descarga sea continuo, intermitente o fortuito y menor a 9,000 metros cúbicos en un trimestre, el usuario podrá optar entre instalar medidores o efectuar cada trimestre bajo su responsabilidad la determinación del volumen con otros dispositivos de aforo. Dicha determinación se deberá manifestar bajo protesta de decir verdad en la declaración correspondiente.
-
-En caso de que no se pueda medir el volumen de agua descargada, a falta de medidor o como consecuencia de la descompostura de éste, por causas no imputables al contribuyente, o cuando no se hubiere reparado o repuesto dentro de los tres meses siguientes a su descompostura, el volumen a declarar no podrá ser inferior al que resulte de aplicar el procedimiento previsto en el artículo 285, fracción I de esta Ley.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-II.- Concentración promedio de contaminantes:
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-El responsable de la descarga tendrá la obligación de realizar el muestreo y análisis de la calidad del agua descargada, en muestras de cada una de sus descargas que reflejen cuantitativa y cualitativamente el proceso más representativo de las actividades que den origen a la descarga y por todos los contaminantes que genere, previstos en sus condiciones particulares de descarga o a falta de éstas, los establecidos en esta Ley.
-
-Asimismo, cuando por la naturaleza de sus procesos productivos y conforme a las disposiciones del presente Capítulo, se genere o presente periódicamente un contaminante específico, como base para el pago del derecho, podrá efectuar la determinación de su pago únicamente por este contaminante, no estando obligado al análisis y muestreo de los demás.
-
-El contribuyente determinará, conforme al promedio de las muestras tomadas, la concentración promedio de contaminantes básicos, metales pesados y cianuros en su descarga, en miligramos por litro. En caso de los parámetros potencial Hidrógeno y coliformes fecales, se determinarán en sus respectivas unidades.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-En el caso de que el agua de abastecimiento registre alguna concentración promedio mensual de los parámetros referidos en la tabla 1 del presente artículo, se podrá restar de la concentración de la descarga, siempre y cuando se notifique por escrito a la Comisión Nacional del Agua.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Una vez determinadas las concentraciones de los contaminantes básicos, metales pesados y cianuros, expresados en miligramos por litro o en las unidades respectivas, se compararán con los valores correspondientes a los límites máximos permisibles, por cada contaminante establecido en sus condiciones particulares de descarga y a falta de éstas, los que se establecen en este Capítulo. En caso de que las concentraciones sean superiores a dichos límites, se causará el derecho, por el excedente del contaminante correspondiente.
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-TABLA I.
-
-(VEASE ARCHIVO ANEXO)
-
-(*) Medidos de manera total
-
-N.A. No Aplica.
-
-P.M. Promedio Mensual.
-
-Para los efectos de la Tabla I, se entiende que la concentración de los contaminantes Arsénico, Cadmio, Cianuros, Cobre, Cromo, Mercurio, Niquel, Plomo y Zinc debe ser considerada en forma total.
-
-Para coliformes fecales, si la descarga presenta un valor que supere el límite máximo permisible de 1,000 como número más probable (NMP) de coliformes fecales por cada 100 mililitros, se causará el derecho conforme a las disposiciones del presente Capítulo.
-
-Para el potencial Hidrógeno (pH), si la descarga presenta un valor superior a 10 o inferior a 5 unidades, se causará el derecho conforme a las disposiciones del presente Capítulo.
-
-La Comisión Nacional del Agua publicará en el Diario Oficial de la Federación el procedimiento obligatorio para el muestreo de las descargas.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 278-C.
-
-Para calcular el monto del derecho a pagar por cada tipo de contaminante que rebase los límites máximos permisibles, se considerará el volumen de aguas residuales descargadas por trimestre y la carga de los contaminantes respectivos, de la siguiente forma:
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-I.- Para coliformes fecales, el importe del derecho se determinará conforme a lo siguiente: si la descarga presenta un valor que supere el límite máximo permisible de 1,000 como número más probable (NMP) de coliformes fecales por cada 100 mililitros, el volumen descargado a que se refiere la fracción I, del artículo 278-B, de esta Ley, se multiplicará cada metro cúbico descargado al trimestre por $ 0.5888 por metro cúbico, si se trata de un cuerpo receptor tipo A y por $ 0.2943 por metro cúbico, para un cuerpo receptor tipo B o C.
-
-II.- Para el potencial Hidrógeno (pH), el importe del derecho se determinará de acuerdo con las cuotas indicadas en la Tabla II de este Capítulo, para ello, si la descarga se encuentra fuera de los límites máximos permisibles, superior a 10 o inferior a 5 unidades, el volumen descargado a que se refiere la fracción I, del artículo 278-B de esta Ley, se multiplicará por la cuota que corresponda según el rango en unidades de pH a que se refiere la citada Tabla.
-
-TABLA II
-
-CUOTAS EN PESOS POR METRO CÚBICO PARA POTENCIAL HIDROGENO (pH).
-
-Rango en unidades Cuota por cada metro Rango en unidades Cuota por cada de pH cúbico descargado de pH metro cúbico
-
-descargado
-
-menor de 5 y hasta 4 $ 0.025 mayor de 10 y hasta 11 $ 0.115
-
-menor de 4 y hasta 3 0.075 mayor de 11 y hasta 12 0.349
-
-menor de 3 y hasta 2 0.225 mayor de 12 y hasta 13 0.494
-
-menor de 2 y hasta 1 0.650 mayor de 13 0.700
-
-menor de 1 0.900
-
-III.- Para los contaminantes básicos, metales pesados y cianuros, las concentraciones de cada uno de ellos que rebasen los límites máximos permisibles, expresadas en miligramos por litro, obtenidas conforme al artículo anterior, se multiplicarán por el factor de 0.001, para convertirlas a kilogramos por metro cúbico. Este resultado, a su vez, se multiplicará por el volumen de aguas residuales, en metros cúbicos descargados en el trimestre correspondiente, obteniéndose así, la carga de contaminantes, expresada en kilogramos por trimestre descargado al cuerpo receptor.
-
-Para determinar el índice de incumplimiento y la cuota en pesos por kilogramo, a efecto de obtener el monto del derecho para cada uno de los contaminantes básicos, metales pesados y cianuros, se procederá conforme a lo siguiente:
-
-a).- Para cada contaminante que rebase los límites señalados, a la concentración del contaminante correspondiente, se le restará el límite máximo permisible respectivo, cuyo resultado deberá dividirse entre el mismo límite máximo permisible, obteniéndose así el índice de incumplimiento del contaminante correspondiente.
-
-b).- Con el índice de incumplimiento, determinado para cada contaminante conforme al inciso anterior, se seleccionará el rango que le corresponda de la Tabla III de este Capítulo y se procederá a identificar la cuota en pesos por kilogramo de contaminante que se utilizará para el cálculo del monto del derecho.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-c).- Para obtener el monto a pagar por cada contaminante, conforme al tipo de cuerpo receptor de que se trate, se multiplicarán los kilogramos de contaminante por trimestre, obtenidos de acuerdo con esta fracción, por la cuota en pesos por kilogramo que corresponda a su índice de incumplimiento, de acuerdo con la Tabla III de este Capítulo, obteniéndose así el monto del derecho.
-
-Para los contaminantes básicos, el resultado se multiplicará por 0.56 cuando la descarga sea a un cuerpo receptor tipo “A”; por 1.0 cuando la descarga sea a un cuerpo receptor tipo “B”; y por 1.2 cuando la descarga sea a un cuerpo receptor tipo “C”.
-
-(VEASE ARCHIVO ANEXO)
-
-IV.- Una vez efectuado el cálculo trimestral del derecho por cada contaminante, el contribuyente estará obligado a pagar únicamente el monto que resulte mayor para el trimestre que corresponda.
-
-###### ARTICULO 279.
-
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-###### ARTICULO 280.
-
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-###### ARTICULO 281.
-
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-###### ARTICULO 281-A.
-
-Los contribuyentes del derecho a que se refiere el presente Capítulo, al momento de presentar sus declaraciones podrán disminuir del pago del derecho respectivo, el costo comprobado de los aparatos de medición y de su instalación, sin incluir las cantidades que además se carguen o cobren al adquirente por otras contribuciones.
-
-A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar la factura de compra del aparato de medición y su instalación en las oficinas de la Comisión Nacional del Agua, para su verificación y sellado.
-
-La disminución a que se refiere este artículo, se efectuará en la declaración del ejercicio de que se trate. En caso de que el monto del derecho del ejercicio resulte inferior al monto a disminuir conforme a este artículo, la diferencia podrá ser acreditada en la declaración definitiva del siguiente ejercicio, debiendo actualizarse de conformidad con lo previsto en el artículo 17-A del Código Fiscal de la Federación, por el periodo transcurrido desde la fecha en que se presentó la declaración del ejercicio de que se trate, hasta la fecha en que se presente la declaración del ejercicio inmediato posterior al mismo.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-###### ARTICULO 282.
-
-No estarán obligados al pago del derecho federal a que se refiere el presente Capítulo:
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-l.- Los contribuyentes cuyos contaminantes no rebasen los límites máximos permisibles establecidos en sus condiciones particulares de descarga, fijadas en el permiso expedido por la autoridad competente o a falta de éstas, los establecidos en la presente Ley.
-
-II.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 1995)
-
-III.- Quienes descarguen aguas residuales a redes de drenaje o alcantarillado que no sean bienes del dominio público de la Nación.
-
-IV.- Quienes viertan agua residual a la fuente de donde originalmente se realizó su extracción, siempre que tengan el certificado que expedirá la Comisión Nacional del Agua en el que se precisará que no sufrió degradación en su calidad ni alteración en su temperatura. Una copia de dicho certificado se deberá acompañar a la declaración del ejercicio.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-V.- Las poblaciones rurales de hasta 2,500 habitantes y los organismos operadores de agua potable y alcantarillado, públicos o privados, por las descargas provenientes de aquéllas.
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-VI.- Por las descargas provenientes del riego agrícola.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-###### ARTICULO 282-A.
-
-No pagarán el derecho a que se refiere este Capítulo, aquellos usuarios cuyas descargas contengan contaminantes que rebasen los límites máximos permisibles establecidos en sus condiciones particulares de descarga o a falta de éstas, los establecidos en la presente Ley, siempre y cuando presenten ante la Comisión Nacional del Agua, un programa de acciones y cumplan con el mismo, para mejorar la calidad de sus aguas residuales, ya sea mediante cambios en sus procesos productivos o para el control o tratamiento de sus descargas, a fin de no rebasar dichos límites, y mantengan o mejoren la calidad de sus descargas de aguas residuales.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Para los efectos del párrafo anterior, la Comisión Nacional del Agua expedirá y publicará en el Diario Oficial de la Federación, un instructivo para la presentación y seguimiento del programa de acciones referido y vigilará el cumplimiento en el avance de las acciones comprometidas por los usuarios. En estos casos, el contribuyente estará obligado a efectuar el cálculo de su pago y a presentar sus declaraciones trimestrales conforme a lo establecido en esta Ley, sin enterar el pago del derecho, señalando en su declaración correspondiente la siguiente leyenda: “Sin pago de conformidad con lo establecido en el párrafo primero del artículo 282-A, de la Ley Federal de Derechos”.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Los contribuyentes están obligados a presentar ante la Comisión Nacional del Agua, un informe, bajo protesta de decir verdad, de los avances del programa de acciones presentado ante dicho órgano desconcentrado, en los meses de julio y enero.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Los contribuyentes que no cumplan con los avances programados, estarán obligados a efectuar el pago de los derechos que corresponden a este Capítulo, generados a partir del 1o. de enero de 1997, así como de aquéllos que se hubieren generado con anterioridad, con los accesorios de Ley correspondientes.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Si al término del programa los contribuyentes cumplen con los objetivos previstos, tendrán derecho a la recuperación del monto histórico del Derecho que hubieren pagado por incumplimiento de las metas parciales.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-A partir del 1o. de enero de 1997 y hasta la fecha de vencimiento para la ejecución de los programas para el control de la calidad de sus descargas, los usuarios que hayan presentado su programa de acciones no deberán descargar concentraciones de contaminantes mayores de las que descargaron durante los últimos tres años, o menos, si empezaron a descargar posteriormente. Aquellos usuarios que no cumplan con esta disposición, estarán obligados al pago del derecho a que se refiere este Capítulo.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-###### ARTICULO 282-B.
-
-Cuando las personas físicas o morales para el cumplimiento de la obligación lega de tratar sus aguas residuales, contraten o utilicen los servicios de empresas que traten aguas residuales, estas últimas tendrán que cumplir con lo dispuesto en este Capítulo, siempre y cuando utilicen bienes nacionales como cuerpos receptores de las descargas de aguas residuales que traten.
-
-Las personas físicas o morales que contraten o utilicen los servicios mencionados, serán solidariamente responsables con las empresas que traten aguas residuales, por el pago del derecho.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-###### ARTICULO 282-C.
-
-Los contribuyentes que cuenten con planta de tratamiento de aguas residuales y aquéllos que en sus procesos productivos hayan realizado acciones para mejorar la calidad de sus descargas y éstas, sean de una calidad superior a la establecida en los límites máximos permisibles señalados en sus condiciones particulares de descarga y a falta de éstas, los establecidos en esta Ley, podrán gozar del descuento en el pago del derecho por uso o aprovechamiento de aguas nacionales a que se refiere el Capítulo VIII de esta Ley. Este beneficio se aplicará únicamente a los aprovechamientos de aguas nacionales que generen la descarga de aguas residuales, de acuerdo con lo indicado en la Tabla IV, de este Capítulo, siempre y cuando los contribuyentes cumplan con las disposiciones de la Ley de Aguas Nacionales, su Reglamento y esta Ley.
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-TABLA IV
-
-DESCUENTO EN EL PAGO DEL DERECHO POR USO O APROVECHAMIENTO DE AGUAS NACIONALES.
-
-Calidad Establecida para Tipo de Calidad de la Descarga % de Descuento
-
-Descargas a Cuerpos
-
-Receptores Tipo
-
-A B 12
-
-A C 18
-
-A NOM-127-SSA1-1994 44
-
-B C 6
-
-B NOM-127-SSA1-1994 32
-
-C NOM-127-SSA1-1994 26
-
-Este porcentaje de descuento, se aplicará al monto del derecho a que se refiere el Capítulo VIII del Título II de esta Ley, sin incluir el que corresponda al uso consuntivo del agua. En este caso, a la declaración del pago del derecho por uso o aprovechamiento de aguas nacionales, se deberán acompañar, bajo protesta de decir verdad, los resultados de la calidad del agua.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-###### ARTICULO 282-D.
-
-Los usuarios que con posterioridad al 7 de enero de 1997, hayan iniciado o inicien operaciones que originen descargas de aguas residuales y aquellos que incrementen la carga de contaminantes en su descarga, como consecuencia de la realización de una ampliación a su planta productiva o para el caso de localidades que incorporen usuarios industriales a su sistema de alcantarillado que previamente hayan descargado a un cuerpo receptor nacional, no deberán rebasar los límites máximos permisibles de contaminantes establecidos en sus condiciones particulares de descarga, o en la presente Ley. En caso contrario, deberán pagar el derecho conforme a lo señalado en el presente Capítulo.
-
-Asimismo, los usuarios que cuenten con planta de tratamiento, cuando su descarga no cumpla con los límites máximos permisibles establecidos en sus condiciones particulares de descarga o a falta de éstas en la presente Ley, están obligados a operar y mantener dicha infraestructura de saneamiento. Los que se encuentren en este supuesto y que descarguen una calidad de agua superior a la que están obligados, podrán gozar del beneficio citado en el artículo 282-C de este Capítulo, si es el caso. Si el usuario deja de operar la infraestructura, pagará el derecho a que se refiere este Capítulo.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-###### ARTICULO 283.
-
-El usuario calculará el derecho federal a que se refiere el presente Capítulo por ejercicios fiscales y efectuará pagos provisionales trimestrales, a más tardar el día 15 de los meses de enero, abril, julio y octubre, mediante declaración que presentará en las oficinas de la Comisión Nacional del Agua o en aquellas oficinas que autorice la Secretaría de Hacienda y Crédito Público.
-
-El derecho del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración que se presentará en las oficinas antes citadas, dentro de los tres meses siguientes del cierre del mismo ejercicio.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-Los contribuyentes que efectúen descargas permanentes o continuas, estarán obligados a presentar la declaración a que se refiere el párrafo anterior, aún cuando no resulte pago del derecho a su cargo.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Las personas que efectúen descargas fortuitas o intermitentes de aguas residuales, deberán presentar declaración aun cuando no resulte derecho a su cargo, dentro del mes siguiente a aquél que se realizó, misma que se considerará definitiva.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-El contribuyente estará obligado a presentar en términos de lo dispuesto en este artículo, una declaración por cada uno de los sitios donde lleve a cabo la descarga al cuerpo receptor.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-###### ARTICULO 284.
-
-Procederá la determinación presuntiva del derecho federal a que se refiere el presente Capítulo, en los siguientes casos:
-
-I.- No se tenga instalado aparato de medición, cuando exista obligación de instalarlos o el mismo no funcione.
-
-II.- Cuando el cálculo que efectúe el usuario bajo su responsabilidad sea menor al que resulte de aplicar el mismo procedimiento que se señala en la Ley, en la visita de inspección o verificación de contaminación en la descarga de agua residual, que sobre el particular podrá efectuar en cualquier momento la Comisión Nacional del Agua.
-
-III.- Se oponga u obstaculice la iniciación o desarrollo de las facultades de verificación y medición que efectúe la Comisión Nacional del Agua, o no presente la documentación que ésta le solicite.
-
-IV.- El usuario no efectúe el pago del derecho en los términos del artículo anterior.
-
-V.- Cuando se efectúe en forma fortuita una descarga de aguas residuales o contaminadas, por quienes normalmente no son contribuyentes del derecho a que se refiere el presente Capítulo, y que causen daño ecológico conforme a dictamen que al efecto emita la autoridad ecológica competente.
-
-La determinación presuntiva a que se refiere este artículo procederá independientemente de las sanciones a que haya lugar.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-###### ARTICULO 285.
-
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, se calculará el derecho considerando indistintamente:
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-I.- El volumen de agua residual que aparezca en el permiso de descarga respectivo, o en su defecto, el que corresponda al volumen señalado en el título de asignación, concesión, autorización o permiso para la explotación, el uso o aprovechamiento de aguas nacionales que originan la descarga, y a falta de éste, se seguirá el procedimiento establecido en el artículo 229, fracción III.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-II.- El cálculo que efectúe la Comisión Nacional del Agua, aplicando el procedimiento que conforme a la presente Ley, debe efectuar el contribuyente para medir la descarga de agua residual para efectos del pago del derecho a que se refiere el presente Capítulo.
-
-III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-IV.- La información que se proporcione sobre el particular por las autoridades fiscales o por las autoridades competentes en materia de equilibrio ecológico y protección al ambiente, en el ejercicio de sus respectivas facultades.
-
-V.- La cuantificación del daño ecológico a los bienes nacionales a que se refiere el presente Capítulo, realizada por autoridades ecológicas, en el ámbito de su competencia.
-
-VI.- Los medios indirectos de la investigación económica o de cualquier otra clase.
-
-En el caso de descargas fortuitas a que se refiere la fracción V del artículo anterior se podrá utilizar como monto del derecho respectivo, la cuantificación del daño a que se refiere la fracción V de este artículo, sin deducción alguna.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-La Secretaría de Hacienda y Crédito Público exigirá su pago con base en la determinación del derecho que efectúe la Comisión Nacional del Agua, en los términos del presente artículo.
-
-###### ARTICULO 286.
-
-(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 1991)
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-###### ARTICULO 286-A.
-
-Tratándose del derecho a que se refiere este Capítulo, la Comisión Nacional del Agua está facultada para ejercer las atribuciones a que se refiere el artículo 83-D de esta Ley, así como en la distribución de los fondos que en el mismo se señale.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-### Capítulo XIV del Título II, de la Ley
-
-Federal de Derechos.
-
-Descargas cuya concentración de 30 de junio de 1997 1o. de enero del 2000
-
-contaminantes de metales pesados o
-
-cianuros rebasen los límites máximos
-
-permisibles señalados en la tabla I del
+V.- El procedimiento de muestreo a que se refiere el último párrafo del artículo 278-B de la Ley Federal de Derechos, y el instructivo para la presentación y seguimiento del programa de acciones a que se refiere el segundo párrafo del artículo 282-A de la misma, serán publicados, por la Comisión Nacional del Agua, en el Diario Oficial de la Federación, dentro de los treinta días hábiles siguientes a la entrada en vigor de la presente Ley.
 
 ###### ARTICULO 287.
 
@@ -10922,6 +11024,8 @@ ARTICULO DECIMOPRIMERO.- Para los efectos del artículo 238 de la Ley Federal de
 ARTICULO DECIMOSEGUNDO.- Se deroga la Ley de Impuestos y Fomento a la Minería publicada en el Diario Oficial de la Federación de 30 de diciembre de 1977, a excepción de los artículos 16 fracciones III y IV, 17 y 18, mismos que seguirán vigentes hasta el 31 de diciembre de 1983. Los contribuyentes que hasta el 31 de diciembre de 1982, hayan gozado de los beneficios a que se refieren los preceptos anteriormente citados, seguirán realizando las deducciones en los mismos por cientos mencionados en los artículos de referencia. Las inversiones que realicen durante el año de 1983 se harán conforme a lo dispuesto en dichos preceptos.
 
 ARTICULO DECIMOTERCERO.- Para los efectos del Artículo Quinto Transitorio de la Ley que Reforma, Adiciona y Deroga Diversas Disposiciones en materia Fiscal, vigente a partir del 1o. de enero de 1982, el impuesto adicional del 3% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados, se entenderá sustituido por el derecho adicional sobre el hidrocarburo a que se refiere la Ley Federal de Derechos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES DE VIGENCIA ANUAL Y LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 30 DE DICIEMBRE DE 1983.
 
@@ -12235,9 +12339,9 @@ Descargas cuya concentración 30 de junio 1o. de enero
 
 de contaminantes básicos, de 1997 del 2000
 
-rebasen en más de 5 veces el
+rebasen en más de 5 veces
 
-límite máximo permisible
+el límite máximo permisible
 
 señalado en la Tabla I del
 
@@ -12375,20 +12479,362 @@ Los contribuyentes que presenten su programa de acciones con posterioridad a las
 
 FECHAS LÍMITE DE PRESENTACIÓN Y PERÍODOS DE EJECUCIÓN DE LOS PROGRAMAS DE ACCIONES A QUE SE REFIERE EL ARTÍCULO 282-A
 
-Fecha límite para Fecha límite para no
+Fecha límite Fecha límite
 
-Tipo de descarga presentar programa de rebasar los límites
+Tipo de descarga para presentar para no
 
-acciones máximos permisibles
+programa de rebasar los
 
-Descargas cuya concentración de 30 de junio de 1997 1o. de enero del 2000
+acciones límites
 
-contaminantes básicos, rebasen en
+máximos
 
-más de 5 veces el límite máximo
+permisibles
 
-permisible señalado en la Tabla I del
+Descargas cuya concentración 30 de junio 1o. de enero
+
+de contaminantes básicos, de 1997 del 2000
+
+rebasen en más de 5 veces el
+
+límite máximo permisible
+
+señalado en la Tabla I del
 
 ## Transitorio.
 
 ÚNICO.- La presente Ley entrará en vigor el día 1o. de enero de 1998.
+
+D.O.F. 31 DE DICIEMBRE DE 1998.
+
+Artículo Primero.- La presente Ley entrará en vigor a partir del 1o. de enero de 1999.
+
+Artículo Segundo.- Durante el año de 1999, se aplicarán en materia de derechos las siguientes disposiciones:
+
+I.- Para los efectos del artículo 1o. de la Ley Federal de Derechos, las cuotas de los derechos se incrementarán:
+
+a).- A partir del 1o. de enero de 1999 con el factor de 1.0793 y;
+
+b).- En los meses de abril, julio y octubre de 1999 se incrementarán en los términos de lo dispuesto en el cuarto párrafo del artículo 1o. de la Ley Federal de Derechos.
+
+II.- No se incrementarán en el mes de enero de 1999, con el factor de 1.0793 las cuotas de los derechos establecidos en el Artículo Primero de la presente Ley.
+
+Las cuotas a que se refiere esta fracción se incrementarán en los meses de abril, julio y octubre de 1999, conforme a lo dispuesto en la fracción I, inciso b) de este artículo.
+
+III.- Los derechos a que se refiere el artículo 3o. séptimo párrafo de la Ley Federal de Derechos son:
+
+a).- Los prestados por oficinas de la Federación en el extranjero.
+
+b).- Por el tránsito internacional de mercancías de procedencia extranjera que lleguen al territorio nacional con destino al extranjero.
+
+IV.- Las cuotas de los derechos a que se refiere el Capítulo II del Título I de la Ley Federal de Derechos, se incrementarán conforme al factor de 1.1711, excepto las correspondientes a los derechos contenidos en el Artículo Primero de la presente Ley.
+
+Las cuotas señaladas en esta fracción no se incrementarán en los meses de abril, julio y octubre de 1999, conforme a lo dispuesto en la fracción I, inciso b) de este artículo.
+
+V.- Las cuotas de los derechos establecidos en el Capítulo II del Título I de la Ley Federal de Derechos, se ajustarán para su pago a partir del día 1o. de enero de 1999, a múltiplos de $ 5.00.
+
+Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste se disminuirá a la unidad inmediata anterior.
+
+VI.- Para los efectos de lo dispuesto en el artículo 5o., fracción II, de la Ley Federal de Derechos, cuando los propietarios de embarcaciones y artefactos navales mexicanos que durante 1998 hayan sido debidamente inscritos y matriculados, y que se encuentren incorporados en el Programa Nacional de Matriculación e Identificación de Embarcaciones de la Secretaría de Comunicaciones y Transportes que se lleva a cabo a través de la Comisión Intersecretarial de Seguridad y Vigilancia Marítima Portuaria, pagarán el 50% de la cuota establecida por la expedición de una calcomanía.
+
+VII.- Las bolsas y las cámaras de compensación de mercados de futuros y opciones, pagarán en el ejercicio fiscal de 1999 por concepto de inspección y vigilancia, los derechos correspondientes a los límites inferiores señalados en el artículo 29-O de la Ley Federal de Derechos.
+
+VIII.- Para los efectos de lo dispuesto en los artículos 162, apartado A, fracción I y 165, fracción II de la Ley Federal de Derechos, no pagarán los derechos de registro marítimo y navegación marítima los propietarios de embarcaciones y artefactos navales menores, que se encuentren incorporados en el Programa Nacional de Matriculación e Identificación de Embarcaciones de la Secretaría de Comunicaciones y Transportes que se lleva a cabo a través de la Comisión Intersecretarial de Seguridad y Vigilancia Marítima Portuaria.
+
+IX.- No se pagará el derecho establecido en la fracción I, apartado A del artículo 187 de la Ley Federal de Derechos, tratándose de la inscripción de la resolución en el Registro Agrario Nacional que dicten los Tribunales Agrarios, cuando la misma se refiera a alguna acción agraria de las que se encuentran contempladas dentro del rezago agrario conforme al Artículo Tercero Transitorio del Decreto de Reformas al artículo 27 Constitucional, publicado en el Diario Oficial de la Federación el 6 de enero de 1992 y de la Ley Agraria.
+
+X.- Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, tratándose de los derechos por la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en los procesos de exploración, extracción, molienda, separación, lixiviación y concentración de minerales, hasta antes del beneficio secundario, por lo que se exceptúan los procesos de fundición y refinación de minerales, se pagará el 25% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la Ley Federal de Derechos.
+
+XI.- Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, en el pago de los derechos por la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en los ingenios azucareros, se efectuará conforme al 50% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la citada Ley.
+
+XII.- Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, cuando la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en la industria de la celulosa y el papel se realice en las zonas de disponibilidad 7, 8 y 9, se pagará el 80% de las cuotas establecidas en dicho apartado, por cada zona.
+
+Las empresas pertenecientes a la industria a que se refiere el párrafo anterior, que se ubiquen en municipios que en 1999 hayan sido reclasificados de las zonas de disponibilidad 7, 8 y 9, a las zonas de disponibilidad 1 a 6, pagarán el 80% del derecho que corresponda.
+
+XIII.- Los municipios que a continuación se enumeran, pagarán el 60% de la cuota correspondiente a la zona de disponibilidad 7 del artículo 223, apartado A de la Ley Federal de Derechos, la cuota deberá calcularse hasta el diezmilésimo.
+
+Estado de Colima: Armería, Ixtlahuacán y Tecomán.
+
+Estado de Durango: Santiago Papasquiaro.
+
+Estado de Guerrero: Atoyac de Álvarez, Azoyú, Benito Juárez, Copala, Coyuca de Benítez, Cuajiniculapa, Florencio Villarreal, José Azueta, Petatlán, San Marcos, Tecpan de Galeana, Tepecoacuilco de Trujano y La Unión de Isidro Montes de Oca.
+
+Estado de Hidalgo: Actopan, Ajacuba, Alfajayucan, Arenal El, Atitalaquia, Atotonilco de Tula, Chapantongo, Chilcuatlán, Francisco I. Madero, Huasca de Ocampo, Ixmiquilpan, Jacala, Metztitlán, Mixquiahuala, Nopala de Villagrande, Progreso, San Salvador, Santiago de Anaya, Tasquillo, Tecozautla, Tepeji del Río de Ocampo, Tepetitlán, Tetepango, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, Tula de Allende y Zimapán.
+
+Estado de Jalisco: Ahualulco de Mercado, Amacueca, Arenal El, Atoyac, Autlán, Bolaños, Casimiro Castillo, Cañadas de Obregón, Cihuatlán, Ciudad Guzmán, Cocula, Colotlán, Cuautitlán, Chimaltitan, Encarnación de Díaz, Gómez Farías, Huejúcar, Huejuquilla el Alto, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, San Martín de Bolaños, Santa María de los Ángeles, Sayula, Tala, Tamazula de Gordiano, Techalutla de Montenegro, Teocuitatlán de Corona, Teuchitlán, Tolimán, Tonila, Totaniche, Tuxcacuesco, Tuxpan, Valle de Guadalupe, Venustiano Carranza, Villa Corona, Villa Guerrero, Zacualco de Torres, Zapotiltic y Zapotitlán de Vadillo.
+
+Estado de Michoacán: Angangueo, Apatzingán, Aporo, Buenavista, Coahuayana, Contepec, Chinicuila, Epitacio Huerta, Gabriel Zamora, Irimbo, Lázaro Cárdenas, Maravatío, Múgica, Nuevo Parangaricutiro, Ocampo, Parácuaro, Peribán, Reyes Los, Senguio, Tancítaro, Tepalcatepec, Tingüindín, Tlalpujahua, Tocumbo, Uruapan y Zinapécuaro.
+
+Estado de Oaxaca: Excepto los municipios comprendidos en las zonas 8 y 9.
+
+Estado de Puebla: Altepexi, Esperanza, Morelos Cañada, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán y Tlacotepec de Benito Juárez.
+
+Estado de Querétaro: Amealco, Pinal de Amoles, Arroyo Seco, Cadereyta de Montes, Jalpan de Serra, Landa de Matamoros, Peñamiller, San Joaquín y Tolimán.
+
+Estado de Quintana Roo: Lázaro Cárdenas.
+
+Estado de San Luis Potosí: Alaquines, Aquismón, Armadillo de los Infante, Cárdenas, Cerritos, Ciudad del Maíz, Ciudad Fernández, Ciudad Valles, Lagunillas, Matlapa, Rayón, Río Verde, San Ciro de Acosto, San Nicolás Tolentino, Santa Catarina, Tamasopo, Tierranueva y Villa de Arista.
+
+Estado de Sinaloa: Concordia, Escuinapa y Rosario El.
+
+Estado de Tabasco: Balancán.
+
+Estado de Tamaulipas: Aldama, Antiguo Morelos, Bustamante, Casas, Gómez Farías, González, Güémez, Hidalgo, Jaumave, Llera, Miquihuana, Nuevo Morelos, Ocampo, Padilla, Palmillas, Soto la Marina, Tula, Victoria y Xicoténcatl.
+
+Estado de Tlaxcala: Santa Cruz Tlaxcala, Benito Juárez, San José Teacalco y San Lucas Tecopilco.
+
+Estado de Yucatán: Dzan, Dzemul, Dzilam de Bravo, Mérida, Muna, Progreso, Río Lagartos, San Felipe, Sinanché, Telchac Pueblo y Telchac Puerto.
+
+Estado de Zacatecas: Apozol, Huanusco, Jalpa, Juchipila y Moyahua de Estrada.
+
+XIV.- Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se extraigan y utilicen en los municipios de Coatzacoalcos y Minatitlán del Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 7 a que se refiere el artículo 231 de la Ley Federal de Derechos.
+
+XV.- Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se utilicen en los municipios de Lázaro Cárdenas del Estado de Michoacán y Hueyapan de Ocampo en el Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 9 a que se refiere el artículo 231 de la Ley Federal de Derechos.
+
+XVI.- Para los efectos de lo dispuesto en el artículo 232-C de la Ley Federal de Derechos, las marinas turísticas pagarán el 75% del derecho que corresponda, por el uso, goce o aprovechamiento de las playas, la zona federal marítimo terrestre, los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas.
+
+Artículo Tercero.- Para los efectos del Artículo Primero de esta Ley se aplicarán las siguientes disposiciones:
+
+I.- Los artículos 8, fracciones I, III y VIII y 15 de la Ley Federal de Derechos, entrarán en vigor a partir del 1o. de julio de 1999.
+
+II.- Para los efectos de lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, la fecha límite en que los contribuyentes deberán presentar a la Comisión Nacional del Agua, su programa de acciones para no rebasar los límites máximos permisibles señalados en el Capítulo XIV del Título II de esta Ley, y la fecha límite para el cumplimiento del mismo, serán conforme a la siguiente tabla:
+
+Fechas Límite de Presentación y Periodos de Ejecución de los Programas de Acciones a que se refiere el artículo 282-A de la Ley Federal de Derechos
+
+Tipo de descarga Fecha límite para Fecha límite para no
+
+presentar rebasar los límites
+
+programa de máximos permisibles
+
+acciones
+
+Descargas de 30 de junio de Se sujetarán a las
+
+aguas residuales 1997 fechas
+
+municipales y no señaladas para
+
+municipales descargas
+
+cuya concentración municipales y no
+
+de contaminantes en municipales, según
+
+cualquiera de los corresponda, previstas
+
+parámetros básicos, en los dos supuestos
+
+metales pesados o siguientes.
+
+cianuros, que rebasen
+
+los límites máximos
+
+permisibles señalados
+
+en la Tabla I del
+
+artículo 278-B de la
+
+Ley Federal de Derechos,
+
+multiplicados por cinco,
+
+para cuerpos receptores
+
+tipo B (ríos, uso público
+
+urbano) del Capítulo XIV
+
+del Título II, de la Ley
+
+Federal de Derechos.
+
+Descargas municipales
+
+Tipo de descarga Fecha límite para Fecha límite para no
+
+presentar rebasar los límites
+
+programa de máximos permisibles
+
+acciones
+
+Poblaciones de 30 de junio de 1o. de enero del 2000
+
+más de 50,000 1997
+
+habitantes.
+
+Poblaciones de 31 de diciembre 1o. de enero del 2005
+
+entre 20,001 y de 1998
+
+50,000 habitantes.
+
+Poblaciones de 31 de diciembre 1o. de enero del 2010
+
+entre 2,501 y de 1999
+
+20,000 habitantes.
+
+Descargas no municipales
+
+Tipo de descarga Fecha límite para Fecha límite para no
+
+presentar rebasar los límites
+
+programa de máximos permisibles
+
+acciones
+
+Con Demanda 30 de junio de 1o. de enero del 2000
+
+Bioquímica de 1997
+
+Oxígeno5 y/o
+
+Sólidos Suspendidos
+
+Totales mayor o
+
+igual a 3 toneladas
+
+sobre día.
+
+Con Demanda 31 de diciembre 1o. de enero del 2005
+
+Bioquímica de de 1998
+
+de Oxígeno5 y/o
+
+Sólidos Suspendidos
+
+Totales mayor a
+
+1.2 toneladas sobre
+
+día pero menor a 3
+
+toneladas sobre día.
+
+Con Demanda 31 de diciembre 1o. de enero del 2010
+
+Bioquímica de de 1999
+
+de Oxígeno5 y/o
+
+Sólidos Suspendidos
+
+Totales igual o
+
+menor a 1.2 toneladas
+
+sobre día.
+
+Los contribuyentes que presenten su programa de acciones con posterioridad a las fechas límites establecidas en esta fracción, estarán a lo dispuesto en el artículo 282-A de la Ley Federal de Derechos, a partir de la fecha de su presentación.
+
+III.- Cuando la Comisión Nacional del Agua haya autorizado al contribuyente, con anterioridad al 1o. de enero de 1997, un programa de ejecución de obras para el control de la calidad de sus descargas y haya cumplido con sus avances programados para reducir el grado de contaminación, dentro de los límites permisibles, podrá considerar como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción II del presente artículo. En caso de que no cumplan con los avances del programa de acciones autorizado por la Comisión Nacional del Agua, estarán a lo dispuesto en el cuarto párrafo del artículo 282-A de la Ley Federal de Derechos.
+
+Los contribuyentes que no cumplan con los avances programados para reducir el grado de contaminación dentro de los límites permisibles, y no hubieren considerado como plazo para el cumplimiento de sus programas las fechas que se establecen en la Tabla contenida en la fracción II del presente artículo, deberán efectuar a partir de ese momento el pago del derecho respectivo. No obstante, cuando el contribuyente no haya estado exento durante los dos años otorgados a que hace referencia el artículo 282-A de la Ley Federal de Derechos vigente hasta el 31 de diciembre de 1996, la Comisión Nacional del Agua podrá autorizar el reinicio del programa constructivo o la ejecución de las obras de control de calidad de sus descargas, el cual no excederá del término señalado en dicho artículo, debiendo computarse los períodos de exención otorgados con anterioridad.
+
+IV.- No será aplicable a favor de los contribuyentes que hayan establecido compromisos para realizar acciones para el control de la calidad de sus descargas, con los Consejos de Cuenca correspondientes, lo dispuesto en la fracción II de este artículo, por lo que deberán cumplir con el programa de acciones asumido ante dichas instancias, para hacerse acreedores al beneficio del no pago del derecho, por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales.
+
+V.- Para efectos del artículo 278-B de la Ley Federal de Derechos, los usuarios que hayan presentado programa de acciones para mejorar sus descargas de aguas residuales, podrán cumplir con la calidad establecida en la presente Ley, conforme al ejercicio fiscal en que se fijó la calidad de tipo de cuerpo receptor.
+
+Tratándose del descuento en el pago del derecho a que se refiere el artículo 282-C de esta Ley, los contribuyentes deberán cumplir con la calidad de acuerdo con el cuerpo receptor que se establezca en el artículo 278-B de la citada Ley, así como con la calidad inmediata superior a que se refiere la Tabla IV del artículo 282-C de la propia Ley.
+
+VI.- Los usuarios que tengan fijadas condiciones particulares de descarga que sean vigentes y las estén cumpliendo, no pagarán el derecho a que se refiere el Capítulo XIV, Título II de la presente Ley y le seguirán siendo aplicables hasta su vencimiento o revocación en términos de Ley.
+
+VII.- Tratándose de los municipios que a continuación se enumeran y que se ubican en la zona de disponibilidad 8, pagarán la cuota establecida en la zona de disponibilidad 9, durante el ejercicio fiscal de 1999.
+
+Estado de Chiapas: Acacoyagua, Acapetahua, Ángel Albino Corzo, Arriaga, Berriozábal, Cintalapa, Chiapa de Corzo, Huehuetán, Huixtla, Independencia La, Juárez, Metapa, Ocozocoautla de Espinosa, Ostuacán, Palenque, Pichucalco, Pijijiapan, Reforma, San Cristóbal de las Casas, San Fernando, Suchiapa, Tapachula, Terán, Tonalá, Tuxtla Gutiérrez, Tuxtla Chico, Villaflores y San Juan Cancuc.
+
+VIII.- Las personas físicas y morales que usen, gocen o aprovechen los inmuebles a que se refiere el artículo 232, fracción IV de esta Ley, pagarán únicamente el 2% del derecho calculado al año que corresponda al ejercicio fiscal de 1998.
+
+IX.- Las personas físicas y morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas, que adeuden el derecho por el uso, goce o aprovechamiento de inmuebles, correspondientes al periodo comprendido de 1994 a 1997, podrán optar por única ocasión, durante el ejercicio fiscal de 1999, por calcular su adeudo fiscal conforme a los artículos 232-C y 232-D de esta Ley.
+
+Para el pago del derecho a que se refiere el párrafo anterior, los contribuyentes podrán optar por efectuar el pago en una sola exhibición o en parcialidades, en ambos casos deberán calcular su crédito fiscal considerando todos los ejercicios que se adeuden, con los recargos que correspondan de conformidad con la tasa más favorable calculada en términos del artículo 6 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 1999.
+
+Los contribuyentes que decidan pagar el derecho en una sola exhibición, deberán hacerlo antes del 30 de junio de 1999.
+
+Aquellos contribuyentes que opten por el pago en parcialidades, tendrán la posibilidad de pagar hasta en doce mensualidades los adeudos señalados anteriormente. Para calcular el monto de las parcialidades a pagar, se tomará el saldo del adeudo que se tenga y se dividirá entre el número de parcialidades que el contribuyente elija. El resultado se multiplicará por el factor fijo que corresponda al plazo por el que haya optado el contribuyente. El monto obtenido será el pago mensual que deberá efectuar durante el término convenido, de acuerdo con la siguiente tabla:
+
+Número de Factor Fijo
+
+Parcialidades
+
+2 1.0153
+
+3 1.0190
+
+4 1.0235
+
+5 1.0291
+
+6 1.0361
+
+7 1.0446
+
+8 1.0553
+
+9 1.0685
+
+10 1.0848
+
+11 1.1050
+
+12 1.1300
+
+Los contribuyentes que opten por alguno de los dos supuestos previstos en el segundo párrafo de esta fracción deberán pagar el derecho causado para 1998.
+
+Para efectos de homologar lo dispuesto por el artículo 232 de la Ley Federal de Derechos, vigente durante los ejercicios fiscales de 1994 a 1997, con las distintas categorías de uso señaladas en el artículo 232-C de la presente Ley, para las playas, la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas, se deberá aplicar la siguiente tabla:
+
+Usos conforme al artículo 232 Usos conforme al artículo
+
+de la Ley Federal de Derechos 232-C de la Ley Federal
+
+(vigentes durante los ejercicios de Derechos
+
+fiscales de 1994 a 1997)
+
+7.5% Anual del valor del inmueble
+
+concesionado o permisionado Uso general.
+
+incluyendo terreno, obras e
+
+instalaciones, en su caso.
+
+10% Anual del valor del metro
+
+cuadrado del inmueble colindante Uso general.
+
+por metro cuadrado de superficie
+
+concesionada o permisionada.
+
+Protección y ornato. Protección y ornato.
+
+Actividades agropecuarias. Agricultura, ganadería,
+
+pesca y acuacultura.
+
+Marinas turísticas. Uso general.
+
+Actividades pesqueras. Agricultura, ganadería,
+
+pesca y acuacultura.
+
+Actividades de acuacultura. Agricultura, ganadería,
+
+pesca y acuacultura.
+
+Los contribuyentes que hayan cubierto en tiempo y monto la totalidad de los derechos causados recibirán una bonificación de 50% calculada sobre la diferencia que resulte de aplicar el derecho pagado actualizado y el monto calculado conforme a los artículos 232-C y 232-D de esta Ley. Dicha bonificación será únicamente acreditada para el ejercicio fiscal de 1999.
+
+Para efectos del párrafo anterior la actualización deberá de efectuarse en los términos del artículo 17-A del Código Fiscal de la Federación y es aplicable únicamente a los ejercicios fiscales de 1994 a 1997. Para gozar de este beneficio los contribuyentes deberán comprobar fehacientemente que han cumplido con sus obligaciones fiscales.
+
+Los contribuyentes deudores de los derechos a que se refieren los artículos 232-C y 232-D de la Ley Federal de Derechos, que hubieren impugnado los créditos fiscales mediante recursos administrativos o juicio, gozarán de los beneficios de la presente disposición, siempre y cuando presenten ante la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, dentro de los meses de enero a diciembre de 1999, copia sellada del escrito de desistimiento.
+
+Los contribuyentes que se acojan a los beneficios establecidos en esta fracción y que incumplan con lo dispuesto en la misma, perderán los citados beneficios, debiendo calcular el importe a pagar de acuerdo a lo previsto en las disposiciones fiscales aplicables, considerando las actualizaciones y los recargos correspondientes, desde que se generó el adeudo. Asimismo, dichos beneficios no serán acumulables para efectos fiscales, ni darán derecho a devolución o compensación alguna.
