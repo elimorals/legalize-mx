@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-procuraduria-general-de-la-republica-2581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-05-10"
-last_updated: "1996-11-07"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-05-07"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 10 de mayo de 1996.
 
@@ -341,7 +341,9 @@ El Procurador General de la República será designado por el Titular del Ejecut
 
 Para ser Procurador se requiere:
 
-a) Ser ciudadano mexicano por nacimiento;
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+a) Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos políticos y civiles;
 
 b) Tener cuando menos 35 años cumplidos el día de la designación;
 
@@ -365,7 +367,9 @@ El Visitador General, el Oficial Mayor, los Coordinadores y los demás funcionar
 
 Para ingresar y permanecer como Agente del Ministerio Público de la Federación, se requiere:
 
-l. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+l. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos y que no adquiera otra nacionalidad;
 
 II. Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso, o por delito culposo calificado como grave por la ley, ni estar sujeto a proceso penal;
 
@@ -387,7 +391,9 @@ IX. Los demás requisitos que establezcan otras disposiciones aplicables.
 
 Para ingresar y permanecer como Agente de la Policía Judicial Federal, se requiere:
 
-l. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+l. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos y que no adquiera otra nacionalidad;
 
 II. Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso, o por delito culposo calificado como grave por la ley, ni estar sujeto a proceso penal;
 
@@ -828,3 +834,7 @@ D.O.F. 7 DE NOVIEMBRE DE 1996.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
