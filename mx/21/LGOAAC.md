@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "1997-05-07"
+last_updated: "1999-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -214,7 +214,7 @@ Sólo podrá revocarse el nombramiento de estos consejeros cuando se revoque el 
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-VI. El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración;
+VI.- El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -298,7 +298,7 @@ Además de las actividades señaladas en los párrafos anteriores, los almacenes
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-I.- Prestar servicios de guarda o conservación, manejo, control, distribución, transportación y comercialización, así como los demás relacionados con el almacenamiento, de bienes o mercancías, que se encuentren bajo su custodia, sin que éstos constituyan su actividad preponderante;
+I. Prestar servicios de guarda o conservación, manejo, control, distribución, transportación y comercialización, así como los demás relacionados con el almacenamiento, de bienes o mercancías, que se encuentren bajo su custodia, sin que éstos constituyan su actividad preponderante;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -308,11 +308,11 @@ III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-IV.- Empacar y envasar los bienes y mercancías recibidos en depósito por cuenta de los depositantes o titulares de los certificados de depósito, así como colocar los marbetes, sellos o etiquetas respectivos;
+IV. Empacar y envasar los bienes y mercancías recibidos en depósito por cuenta de los depositantes o titulares de los certificados de depósito, así como colocar los marbetes, sellos o etiquetas respectivos;
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-V.- Otorgar financiamientos con garantía de bienes o mercancías almacenados en bodegas de su propiedad o en bodegas arrendadas que administren directamente y que estén amparados con bonos de prenda, así como sobre mercancías en tránsito amparadas con certificados de depósito;
+V. Otorgar financiamientos con garantía de bienes o mercancías almacenados en bodegas de su propiedad o en bodegas arrendadas que administren directamente y que estén amparados con bonos de prenda, así como sobre mercancías en tránsito amparadas con certificados de depósito;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -320,7 +320,7 @@ VI. Obtener préstamos y créditos de instituciones de crédito, de seguros y de
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-VII.- Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
+VII. Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -328,15 +328,15 @@ VIII. Descontar, dar en garantía o negociar los títulos de crédito y afectar 
 
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-IX.- Gestionar por cuenta y nombre de los depositantes, el otorgamiento de garantías en favor del fisco federal, respecto de las mercancías almacenadas por los mismos, a fin de garantizar el pago de los impuestos, conforme a los procedimientos establecidos en la Ley Aduanera;
+IX. Gestionar por cuenta y nombre de los depositantes, el otorgamiento de garantías en favor del fisco federal, respecto de las mercancías almacenadas por los mismos, a fin de garantizar el pago de los impuestos, conforme a los procedimientos establecidos en la Ley Aduanera;
 
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-X.- Prestar servicios de depósito fiscal, así como cualesquier otros expresamente autorizados a los almacenes generales de depósito en los términos de la Ley Aduanera; y
+X. Prestar servicios de depósito fiscal, así como cualesquier otros expresamente autorizados a los almacenes generales de depósito en los términos de la Ley Aduanera; y
 
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-XI.- Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
+XI. Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
 
 > <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
@@ -344,11 +344,11 @@ XI.- Las demás operaciones análogas y conexas que, mediante reglas de carácte
 
 Los almacenes generales de depósito podrán ser de tres clases:
 
-I.- Los que se destinen a recibir en depósito bienes o mercancías de cualquier clase y realicen las demás actividades a que se refiere esta Ley, a excepción del régimen de depósito fiscal y otorgamiento de financiamientos;
+I. Los que se destinen a recibir en depósito bienes o mercancías de cualquier clase y realicen las demás actividades a que se refiere esta Ley, a excepción del régimen de depósito fiscal y otorgamiento de financiamientos;
 
-II.- Los que además de estar facultados en los términos señalados en la fracción anterior, lo estén también para recibir mercancías destinadas al régimen de depósito fiscal, y
+II. Los que además de estar facultados en los términos señalados en la fracción anterior, lo estén también para recibir mercancías destinadas al régimen de depósito fiscal, y
 
-III.- Los que además de estar facultados en los términos de alguna de las fracciones anteriores, otorguen financiamientos conforme a lo previsto en esta Ley, debiendo sujetarse a los requerimientos mínimos de capitalización que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general.
+III. Los que además de estar facultados en los términos de alguna de las fracciones anteriores, otorguen financiamientos conforme a lo previsto en esta Ley, debiendo sujetarse a los requerimientos mínimos de capitalización que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general.
 
 Tratándose de los almacenes a que se refieren las fracciones II y en su caso III de este artículo, deberán sujetarse a las disposiciones correspondientes que prevé la Ley Aduanera, sobre las mercancías que no podrán ser objeto del régimen de depósito fiscal y las medidas de control que deban implantar para mantener aislada la mercancía sometida a este régimen, conforme a lo que establezca la mencionada Ley.
 
@@ -2062,7 +2062,7 @@ V. Sus operaciones con divisas y metales preciosos, deberán ajustarse a las dis
 
 A petición del Banco de México, las casas de cambio estarán obligadas a darle a conocer sus posiciones de divisas, incluyendo metales preciosos y a transferirle sus activos en esos efectos, que tengan en exceso de sus obligaciones en los mismos. La transferencia se hará al precio a que se hayan cotizado en el mercado las divisas, en la fecha en que el Banco de México dicte el acuerdo respectivo, y
 
-> <small>(REFORMADA, D.O. F. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
 VI. Proporcionarán a la Comisión Nacional Bancaria sus estados de contabilidad, información financiera y todo lo relacionado con su giro, en la forma y términos que la propia Comisión señale mediante reglas de carácter general, y les serán aplicables los artículos 52 y 53 de esta Ley.
 
@@ -2372,71 +2372,13 @@ Serán sancionadas con pena de prisión de uno a tres años y multa de hasta 100
 
 ## TITULO SEPTIMO. De la Protección de los Intereses del Público
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
-
 ###### ARTICULO 102.
 
-En caso de reclamación contra una organización auxiliar del crédito o una casa de cambio con motivo de las operaciones y servicios que presten al público, o a sus socios en el caso de las sociedades de ahorro y préstamo y de las uniones de crédito, los reclamantes podrán, a su elección, presentarla ante la Comisión Nacional Bancaria o hacer valer sus derechos ante los Tribunales competentes de la Federación o del orden común.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
-
-Las organizaciones auxiliares del crédito y las casas de cambio estarán obligadas, en su caso, a someterse al procedimiento de conciliación a que se refiere el artículo 103 de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-Cuando las reclamaciones se presenten ante la Comisión Nacional Bancaria, ésta conciliará y, en su caso, resolverá las diferencias que se susciten. Tratándose de uniones de crédito en las operaciones de comercialización, sólo conocerá de las diferencias que se susciten con sus propios socios.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
-
-La sola presentación de la reclamación que se prevé en este artículo, interrumpe la prescripción.
-
-> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)
 
 ###### ARTICULO 103.
 
-Las reclamaciones a que se refiere el artículo anterior, se ajustarán a las bases siguientes:
-
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
-
-I. Se presentarán por escrito ante la Comisión Nacional Bancaria, pudiendo hacerse en la delegación regional correspondiente. De las mismas se correrá traslado a la organización auxiliar del crédito o casa de cambio de que se trate, requiriéndole un informe detallado, mismo que deberá presentar por conducto de un representante en la fecha que dicha Comisión señale, de manera perentoria, para la realización de una junta de avenencia a la cual se citará a las partes y que sólo podrá diferirse por una vez;
-
-II. En la junta a que se refiere la fracción anterior, se exhortará a las partes a conciliar sus intereses y si ello no fuera posible la Comisión las invitará a que de común acuerdo la designen árbitro, sea en amigable composición o en juicio arbitral de estricto derecho, a elección de las mismas. El compromiso correspondiente se hará constar en el acta que al efecto se levante;
-
-III. Las delegaciones regionales podrán tramitar la etapa conciliatoria, y, en su caso, el procedimiento arbitral escogido, debiendo al efecto presentar los proyectos de laudos que formulen a la consideración de la Comisión, la que emitirá el laudo correspondiente;
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-IV. En amigable composición se fijarán las cuestiones que deberán ser objeto de arbitraje y la Comisión tendrá libertad de resolver, sin sujeción a reglas legales pero observando las formalidades esenciales del procedimiento. Las partes aportarán los elementos de prueba necesarios en que fundamenten sus pretensiones y excepciones.
-
-La Comisión tendrá la facultad de allegarse todos los elementos que juzgue necesarios para resolver las cuestiones que se le hayan sometido en arbitraje. No habrá términos ni incidentes y la resolución correspondiente sólo admitirá aclaración de la misma;
-
-V. En el juicio arbitral de estricto derecho, las partes formularán compromiso en el que fijarán igualmente las reglas del procedimiento que convencionalmente establezcan. Se aplicará supletoriamente el Código de Comercio, con excepción de los artículos 1217, 1235 y 1296 y a falta de disposición de dicho Código, el Código de Procedimientos Civiles para el Distrito Federal, salvo lo dispuesto por el artículo 617.
-
-Las resoluciones en juicio arbitral de estricto derecho, dictadas en el curso del procedimiento, admitirán como único recurso el de revocación y el laudo dictado sólo podrá ser impugnado en juicio de amparo;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-VI. El incumplimiento o desacato por parte de las organizaciones auxiliares del crédito o casas de cambio a los acuerdos o resoluciones dictados por la Comisión Nacional Bancaria en los procedimientos establecidos en el presente artículo, serán castigados con multa administrativa que imponga la propia Comisión y haga efectiva la Secretaría de Hacienda y Crédito Público, por cantidad equivalente de 100 a 1,000 veces el salario mínimo general diario vigente en el Distrito Federal;
-
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
-
-VII. El laudo que en amigable composición o en juicio arbitral de estricto derecho condene a una organización auxiliar del crédito o casa de cambio, le otorgará para su cumplimiento un plazo de quince días hábiles a partir de la notificación; si no lo efectuare, sin perjuicio de lo señalado en la fracción siguiente, la Comisión impondrá a la organización auxiliar del crédito o casa de cambio una multa hasta de tres veces el importe de lo condenado, si éste fuere cuantificable, o hasta diez mil veces el salario mínimo general diario vigente en el Distrito Federal, si no lo fuere;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-VIII. Cuando se faltare al cumplimiento voluntario de lo convenido en la conciliación o al laudo en la amigable composición o en el juicio arbitral de estricto derecho, la parte afectada deberá acudir a los tribunales competentes para efectos de ejecución de una u otra resolución;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-IX. Las notificaciones en el juicio arbitral de estricto derecho se harán a las partes por cédula fijada en los estrados de la Comisión Nacional Bancaria o de la delegación regional correspondiente, excepción hecha del traslado de la reclamación, de la demanda, de la citación a la junta conciliatoria y del laudo, que tendrá que hacerse personalmente o por correo certificado con acuse de recibo. Las notificaciones surtirán efectos al día siguiente al que se efectúen; y
-
-> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-X. La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio arbitral desde el emplazamiento hasta antes de la expresión de los alegatos, si transcurridos ciento ochenta días hábiles, contados a partir de la notificación del último acuerdo arbitral, no hubiere promoción de cualquiera de las partes.
-
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-La Comisión Nacional Bancaria tendrá, además de lo previsto en este Título, todas las facultades que en materia arbitral le confiere la Ley de Instituciones de Crédito.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)
 
 ## TRANSITORIOS
 
@@ -2615,3 +2557,13 @@ D.O.F. 7 DE MAYO DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las disposiciones de carácter general que la Secretaría de Hacienda y Crédito Público haya emitido bajo la vigencia de los artículos que se reforman en este decreto, continuarán vigentes hasta en tanto no sean modificadas, abrogadas o derogadas por la misma dependencia.
+
+D.O.F. 18 DE ENERO DE 1999.
+
+DECRETO QUE CREA LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan los artículos 119 y 120 de la Ley de Instituciones de Crédito; 102 y 103 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 87 y 88 de la Ley del Mercado de Valores; 45 de la Ley de Sociedades de Inversión; la fracción XI del artículo 108 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; la fracción XII del artículo 5o., 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la presente Ley.
