@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1937-04-18"
+last_updated: "1943-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 1943.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -449,13 +449,7 @@ Para ser Gobernador del Estado, se necesita ser ciudadano mexicano por nacimient
 
 No pueden ser electos para Gobernador del Estado los individuos del Ejército Permanente que estén en servicio activo y los empleados de la Federación o del Estado durante el ejercicio de sus funciones; a menos que se separen del servicio o empleo noventa días antes de la elección. Tampoco pueden ser electos los individuos que habiendo tenido destino público en la Federación o en los Estados, tuvieren responsabilidad pendiente.
 
-###### Artículo 48º.
-
-El Gobernador comenzará a ejercer sus funciones el día 26 de Septiembre; durará en su encargo cuatro años y no podrá ser reelecto.
-
-El que substituya al Gobernador Constitucional, en caso de falta absoluta de éste, no podrá ser reelecto Gobernador para el período inmediato.
-
-Tampoco podrá ser reelecto Gobernador para el período inmediato, el ciudadano, que en los noventa días anteriores a la elección, supliese las faltas temporales del Gobernador saliente.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 1943)</small>
 
 ## TITULO TERCERO.
 
@@ -545,19 +539,31 @@ Pronunciada una sentencia de responsabilidad por delitos oficiales, no puede con
 
 En demanda del orden civil, no hay fuero ni inmunidad para ningún funcionario público.
 
+###### Artículo 48°.
+
+El Gobernador entrará a ejercer su encargo el día 26 de septiembre y durará en él seis años. El ciudadano que haya desempeñado el cargo de Gobernador del Estado, electo popularmente, en ningún caso y por ningún motivo, podrá volver a ocupar ese cargo ni aun con el carácter de interino, provisional, substituto o encargado del despacho.
+
+Nunca podrán ser electos para el período inmediato:
+
+a).- El Gobernador Substituto Constitucional o el designado para cumplir el período en caso de falta absoluta del Constitucional, aun cuando tenga distinta denominación; y
+
+b).- El Gobernador Interino, o Provisional o el Substituto que, bajo cualquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+
 ###### Artículo 49º.
 
 Para cubrir las faltas temporales del Gobernador, el Congreso, llegado el caso, o en su defecto la Diputación Permanente, nombrará a la mayor brevedad Gobernador Interino, encargándose entre tanto del Gobierno, el Presidente del Supremo Tribunal de Justicia.
 
-###### Artículo 50º.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 1943)</small>
 
-Si la falta del Gobernador fuere absoluta y acaeciere en los tres primeros años del período Constitucional, se cubrirá inmediatamente, nombrándose, conforme al Artículo anterior, Gobernador Provisional, por el Congreso, el que se constituirá en Colegio Electoral. Concurriendo cuando menos las dos terceras partes del número total de sus miembros, hará este nombramiento en escrutinio secreto y por mayoría absoluta de votos; y el mismo Congreso expedirá desde luego la convocatoria a elecciones para nuevo Gobernador, para el término que falte para completar aquel período.
+###### Artículo 50°.
 
-Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego el Gobernador Provisional, quien convocará a sesiones extraordinarias al Congreso para que, éste, a su vez, expida la Convocatoria a elecciones, según se previene en el anterior inciso de este Artículo.
+En caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del período respectivo, el Congreso, si estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Provisional, y expedirá desde luego la Convocatoria para la elección del Gobernador que deba concluir el período.
 
-Cuando la falta del Gobernador ocurriere en el último año del período respectivo, si el Congreso se encontrase en sesiones, elegirá de la manera expresada al Gobernador Substituto que deberá concluír el período, si el Congreso no estuviere reunido, la Comisión Permanente nombrará un Gobernador Provisional, y convocará al Congreso a sesiones extraordinarias, para que se erija en Colegio Electoral y haga la elección del Gobernador Substituto.
+Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Interino y convocará al Congreso a sesiones extraordinarias, a efecto de que el propio Congreso proceda como lo previene el anterior inciso de este Artículo. El Gobernador Interino designado por la Diputación Permanente podrá ser electo por el Congreso con el carácter de Provisional.
 
-El Gobernador Provisional podrá ser electo por el Congreso como Substituto.
+Cuando la falta del Gobernador fuere absoluta y ocurriere en los cuatro últimos años del período respectivo, si el Congreso se encontrase en sesiones, elegirá, en los términos de este Artículo, al Gobernador Substituto que deberá concluir el período. Si el Congreso no estuviere reunido, la Diputación Permanente nombrará un Gobernador Interino, y convocará al Congreso a sesiones extraordinarias, para que el propio Congreso se erija en Colegio Electoral y haga la elección del Gobernador Substituto.
+
+El Gobernador Interino podrá ser electo por el Congreso como Substituto.
 
 ###### Artículo 51º.
 
@@ -958,3 +964,13 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 18 DE ABRIL DE 1937.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
+
+P.O. 11 DE MAYO DE 1943.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
