@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-30-2003-del-pleno-del-consejo-de-la-45049"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-06-12"
-last_updated: "2003-06-12"
+last_updated: "2003-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45049&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-06-09"
 
 ACUERDO GENERAL 30/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS ORGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA ESTE ORGANO DEL PODER JUDICIAL DE LA FEDERACION, LOS TRIBUNALES DE CIRCUITO Y LOS JUZGADOS DE DISTRITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE NOVIEMBRE DE 2003.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 12 de junio de 2003.
 
@@ -263,11 +263,13 @@ Las Unidades Administrativas deberán elaborar semestralmente un índice de info
 
 Los expedientes relativos a los asuntos de naturaleza penal o familiar, bajo resguardo de los Organos Jurisdiccionales, constituyen información reservada por el plazo de doce años contado a partir de su conclusión.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 76/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2003)</small>
+
 ###### Artículo 19.
 
-Con el fin de respetar el derecho a la intimidad de las partes, al hacerse públicas las sentencias, de conformidad con el artículo 8 de la Ley, se omitirán sus nombres y datos personales, por constituir información confidencial en términos de la propia Ley, salvo que exista su aceptación.
+Con el fin de respetar el derecho a la intimidad de las partes, al hacerse públicas las sentencias, de conformidad con el artículo 8 de la Ley, se omitirán sus datos personales, cuando manifiesten su oposición de manera expresa.
 
-En los asuntos de la competencia de los Organos Jurisdiccionales, en el primer acuerdo que en ellos se dicte, deberá señalarse a las partes si están de acuerdo con que se publiquen sus nombres y datos personales, en la inteligencia de que la falta de aceptación expresa conlleva su oposición para que la sentencia respectiva se publique con dichos datos.
+En los asuntos de la competencia de los Organos Jurisdiccionales en el primer acuerdo que en ellos se dicte, deberá señalarse a las partes el derecho que les asiste para oponerse, en relación con terceros, a la publicación de sus datos personales, en la inteligencia de que la falta de oposición conlleva su consentimiento para que la sentencia respectiva se publique sin supresión de datos.
 
 Las referidas restricciones a la difusión de las sentencias emitidas por los Organos Jurisdiccionales no operan respecto de quienes, en términos de la legislación procesal aplicable, estén legitimados para solicitar copia de aquéllas.
 
@@ -505,7 +507,9 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el
 
 SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Acuerdo.
 
-TERCERO.- Los expedientes concluidos relativos a los asuntos de naturaleza penal o familiar que a la entrada en vigor de este Acuerdo se encuentran bajo resguardo de los Organos Jurisdiccionales, no podrán hacerse públicos durante los primeros doce años a partir de esa fecha. Tratándose de las sentencias ejecutorias en materias diferentes de las anteriores que se encuentren en esa situación, en un plazo de sesenta días naturales contado a partir de la entrada en vigor de este Acuerdo, las partes podrán manifestar su aceptación expresa a que sus nombres y datos personales se hagan públicos, de lo contrario tendrán el carácter de confidenciales.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 76/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2003)</small>
+
+TERCERO.- Los expedientes concluidos relativos a los asuntos de naturaleza penal o familiar que a la entrada en vigor de este Acuerdo se encuentran bajo resguardo de los Organos Jurisdiccionales, no podrán hacerse públicos durante los primeros doce años a partir de esa fecha. Tratándose de las sentencias ejecutorias en materias diferentes de las anteriores que se encuentren en esa situación, en un plazo de sesenta días naturales contado a partir de la entrada en vigor de este Acuerdo, las partes podrán oponerse a que sus nombres y datos personales se hagan públicos; de lo contrario, se entenderá que existe consentimiento para su publicación.
 
 CUARTO.- Tratándose de expedientes concluidos no relativos a los asuntos de naturaleza penal o familiar, que a la fecha de la entrada en vigor del Acuerdo estén a disposición de los Organos Jurisdiccionales, la Comisión precisará los criterios de acuerdo con las solicitudes que se vayan formulando.
 
@@ -518,3 +522,11 @@ SEPTIMO.- El Pleno del Consejo de la Judicatura Federal estará facultado para r
 OCTAVO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 30/2003, del Pleno del Consejo de la Judicatura Federal, que Establece los Organos, Criterios y Procedimientos Institucionales para la Transparencia y Acceso a la Información Pública para este Organo del Poder Judicial de la Federación, los Tribunales de Circuito y los Juzgados de Distrito, fue aprobado por el Pleno del Consejo, en sesión extraordinaria de nueve de junio de dos mil tres, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Margarita Beatriz Luna Ramos, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio Armando Valls Hernández.- México, Distrito Federal, a nueve de junio de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- Publíquese el presente Acuerdo General, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+SEGUNDO.- El presente Acuerdo General, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
