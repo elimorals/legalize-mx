@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1999-09-20"
+last_updated: "1999-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1999.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -93,15 +93,21 @@ No se considerará confiscación de bienes la aplicación total o parcial de los
 
 No se considerará confiscación la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables. La Autoridad judicial resolverá que se apliquen a favor del Estado los bienes que hayan sido asegurados con motivo de una investigación o proceso que se sigan por delitos de delincuencia organizada, cuando se ponga fin a dicha investigación o proceso que se sigan por delitos de sin que haya un pronunciamiento sobre los bienes asegurados. La resolución judicial se dictará previo procedimiento en el que se otorgue audiencia a terceros y se acredite plenamente el cuerpo del delito previsto por la ley como de delincuencia organizada, siempre y cuando se trate de bienes respecto de los cuales el inculpado en la investigación o proceso citados haya sido poseedor, propietario o se haya conducido como tales, independientemente de que hubieran sido transferidos a terceros, salvo que éstos acrediten que son poseedores o adquirentes de buena fe.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1999)</small>
+
+###### ARTICULO 7°.
+
+Ninguna detención ante autoridad judicial, podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión en el que se expresarán: el delito que se le impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que arroje la averiguación previa, los que deberán ser bastantes para comprobar el cuerpo del delito y hacer probable la responsabilidad del indiciado.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1999)</small>
+
+Este plazo podrá prorrogarse únicamente a petición del indiciado, en la forma que señala la ley. La prolongación de la detención en su perjuicio será sancionada por la ley penal. La autoridad responsable del establecimiento en el que se encuentre internado el indiciado, que dentro del plazo antes señalado no reciba copia autorizada del auto de formal prisión o de la solicitud de prórroga, deberá llamar la atención al juez sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al indiciado en libertad.
+
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1994)</small>
 
-###### ARTICULO 7.
-
-Ninguna detención ante autoridad judicial podrá exceder del término de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión y siempre que de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito que se le impute y hagan probable su responsabilidad. La prolongación de la detención en perjuicio del indiciado será sancionada por la ley penal
-
-Si al vencerse el término señalado en el párrafo primero de este artículo, el Alcaide o custodios del lugar en que se realiza la detención, no han recibido copia autorizada del auto de formal prisión, deberán llamar la atención del Juez sobre dicho particular en el acto mismo de concluir el término, y si no reciben copia certificada de dicho auto de formal prisión dentro de las tres horas siguientes, pondrán al indiciado en libertad.
-
 Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión o de sujeción a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto al que se persigue, deberá ser objeto de consignación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1994)</small>
 
 Si la detención es resultado de infracciones a los Reglamentos gubernativos y de policía, serán calificadas de inmediato, y, en su caso, sancionadas con multas no mayor a la retribución que el infractor perciba en un día de trabajo, la cual se permutará por arresto hasta de treinta y seis horas, si no fuere pagada.
 
@@ -121,7 +127,7 @@ La ley determinará los casos graves en los cuales el Juez podrá revocar la lib
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
 
-II. No podrá ser obligado a declarar. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o ante éstos sin la asistencia de su defensor carecerá de todo valor probatorio;
+II. No podrá ser obligado a declarar. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o antes éstos sin la asistencia de su defensor carecerá de todo valor probatorio;
 
 III. Se le hará saber en audiencia pública y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria;
 
@@ -279,11 +285,11 @@ Toda persona dentro del Territorio del Estado, tiene derecho a vivir en un medio
 
 Ninguna ley ni autoridad podrá limitar el derecho de petición, con tal que ésta se formule por escrito, de manera pacífica y respetuosa. En asuntos políticos, sólo podrán ejercerlo los ciudadanos de la República. La autoridad a quien se dirija la petición tiene la obligación de contestarla por escrito en el término de diez días, cuando la ley no fije otro, y hacer llegar desde luego su respuesta al peticionario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1999)</small>
 
 ###### ARTICULO 14.
 
-Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente que funde y motive la causa legal del procedimiento. No deberá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y existan datos que acrediten los elementos que integran el tipo penal y la probable responsabilidad del indiciado. La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del Juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la ley penal. En los casos de delito flagrante, cualquier persona puede detener al inculpado poniéndolo, sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Público. Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el inculpado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su más estricta responsabilidad, ordenar la detención de un acusado, fundando y expresando los indicios que motiven su proceder. En caso de urgencia o flagrancia, el Juez que recibe la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley. Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponerse a disposición de la autoridad judicial; este plazo podrá duplicarse en aquellos casos que la ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente que funde y motive la causa legal del procedimiento. No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y existan datos que acrediten el cuerpo del delito y que hagan probable la responsabilidad del indiciado. La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del Juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la ley penal. En los casos de delito flagrante, cualquier persona puede detener al inculpado, poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Público. Solo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el inculpado pueda sustraerse a la acción de la justicia siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá tomar bajo su más estricta responsabilidad, ordenar la detención de un acusado, fundando y expresando los indicios que motiven su proceder. En caso de urgencia o flagrancia, el Juez que recibe la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley. Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponerse a disposición de la autoridad judicial; este plazo podrá duplicarse en aquellos casos que la ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
 
 En toda orden de cateo, que sólo la autoridad judicial podrá expedir y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan; a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, una acta circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
@@ -617,7 +623,7 @@ Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CER
 
 ## TITULO CUARTO. Del Gobierno del Estado
 
-### CAPITULO II. Del Poder Legislativo
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
 ###### ARTICULO 29.
 
@@ -637,7 +643,7 @@ Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos
 
 El Poder Público del Estado se divide, para el ejercicio de sus funciones en Legislativo, Ejecutivo y Judicial, los cuales desarrollarán sus funciones en la forma y términos previstos en esta Constitución. No podrán reunirse en uno solo de ellos, cualesquiera de los otros dos, como tampoco delegarse o invadirse atribuciones, a excepción de los casos previstos en el Artículo 62 de este documento.
 
-### CAPITULO I. De la Forma de Gobierno y División de Poderes
+### CAPITULO II. Del Poder Legislativo
 
 #### SECCION PRIMERA. De la Legislatura
 
@@ -1737,6 +1743,8 @@ El Partido Político cuya planilla hubiere obtenido el mayor número de votos te
 
 #### SECCION CUARTA. Del Ministerio Público
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1999)</small>
+
 ###### ARTICULO 100.
 
 La ley Reglamentaria determinará los procedimientos que se observarán en la asignación de los Regidores de representación proporcional.
@@ -2279,7 +2287,7 @@ Todo ciudadano que sepa leer y escribir y sea vecino del municipio cabecera de d
 
 ###### ARTICULO 133.
 
-El Ministerio Público es órgano del Estado y a su cargo está velar por la exacta observancia de las leyes. La persecución de los delitos incumbe al Ministerio Público y a la policía judicial, la cual estará bajo el mando inmediato de aquél. El Ministerio Público intervendrá, además, en los asuntos judiciales que interesen a las personas a quien la ley concede especial protección, en la forma y términos que la misma ley determina.
+El Ministerio Público es órgano del Estado y a su cargo está velar por la exacta observancia de las leyes. La persecución de los delitos incumbe al Ministerio Público, el cual se auxiliará con una policía que estará bajo su autoridad y mando inmediato. El Ministerio Público intervendrá además, en los asuntos judiciales que interesa a las personas a quienes la ley concede especial protección en la forma y términos que la misma ley determina.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
@@ -2918,6 +2926,10 @@ P.O. 20 DE SEPTIEMBRE DE 1999.
 DECRETO No. 109, QUE REFORMA Y ADICIONA LOS ARTICULOS 41, 42 Y 43 DE LA PRESENTE CONSTITUCION.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 1999.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
