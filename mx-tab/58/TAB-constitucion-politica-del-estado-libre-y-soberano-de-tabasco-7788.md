@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1971-12-22"
+last_updated: "1972-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1972.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -1113,11 +1113,11 @@ V.- Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 Los Magistrados del Tribunal Superior de Justicia, al entrar a ejercer su encargo, prestarán ante el Congreso o ante la Comisión Permanente la protesta siguiente: Presidente: ¿"Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal Superior de Justicia del Estado, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado"? -Magistrado: "Sí protesto" -Presidente: "Si no lo hiciereis así, la Nación o el Estado os lo demande".
 
-(REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1972)</small>
 
 ###### Art. 111.
 
-Será Presidente del Tribunal el Magistrado Propietario que resulte electo por la misma corporación; será renovado cada año y sus faltas temporales serán suplidas precisamente por uno de los otros Magistrados propietarios, designados en la misma forma que el anterior. El Presidente del Tribunal Superior de Justicia concurrirá al Congreso el día 16 de diciembre de cada año y rendirá ante la representación popular, un informe acerca de la situación que guarde la administración de justicia en el Estado. El Presidente del Congreso contestará el documento antes citado.
+Será Presidente del Tribunal el Magistrado Propietario que anualmente sea electo para ese efecto por dicha corporación; y sus faltas temporales serán suplidas precisamente por uno de los otros Magistrados Propietarios designados en la misma forma que el anterior. El Presidente del Tribunal Superior de Justicia concurrirá al Congreso el día 15 de diciembre de cada año y rendirá ante la representación popular, un informe acerca de la situación que guarde la administración de justicia en el Estado. El Presidente del Congreso contestará el documento antes citado.
 
 (REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)
 
@@ -1750,3 +1750,9 @@ Este Decreto entrará en vigor tres días después de su publicación en el Peri
 P.O. 22 DE DICIEMBRE DE 1971.
 
 UNICO.- Este Decreto surte sus efectos legales tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE JUNIO DE 1972.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
