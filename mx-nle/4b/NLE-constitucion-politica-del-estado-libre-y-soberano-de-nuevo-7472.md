@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1991-07-19"
+last_updated: "1992-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1992.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -509,6 +509,10 @@ Las controversias de los servidores públicos del Estado, los Municipios y demá
 
 XLIV.- Designar entre los vecinos los Consejos Municipales, hasta que concluya el período respectivo, cuando se declare desapareciendo un Ayuntamiento o exista la renuncia o falta absoluta de la mayoría, de sus miembros, si de acuerdo a la Ley Orgánica no procede que entren en funciones los suplentes, ni que se celebren nuevas elecciones.
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 1992)</small>
+
+XLV.- Instituir mediante las leyes que expida, el Tribunalde (sic) lo Contencioso Administrativo, dotado de autonomía plena en el pronunciamiento de sus fallos y con facultades para resolver los conflictos y controversias que se susciten entre el Estado, los Municipios, los Organismos Descentralizados y Empresas de participación estatales o municipales, y, los particulares, estableciendo las normas de su organización, su funcionamiento, los requisitos para nombramientos, licencias y renuncias de los Magistrados que lo integren, sus procedimientos y recursos contra las resoluciones que se pronuncien.
+
 ###### Art. 64.
 
 No puede el Congreso:
@@ -907,6 +911,14 @@ Será Presidente del Tribunal el que por elección designen sus miembros, en la 
 
 El Ministerio Público institución que tiene por objeto velar por la exacta observancia de las leyes de interés general, será desempeñado por un Procurador General de Justicia, por los Agentes de dicho Ministerio y sus Suplentes, en su caso, nombrados todos por el Ejecutivo. Una ley Orgánica determinará la organización y funcionamiento de la Procuraduría General de Justicia.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1992)</small>
+
+Una ley determinará la organización funcionamiento, competencia y procedimientos de la Comisión Estatal de Derechos Humanos, que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa proveniente de cualquier autoridad o servidor público que violen estos derechos, con excepción de los del Poder Judicial del Estado. Formulará acuerdos, recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1992)</small>
+
+Este organismo no será competente tratándose de asuntos electorales, laborales o jurisdiccionales.
+
 > <small>(REFORMADO, P.O. 1o. DE ENERO DE 1979)</small>
 
 ###### Art. 98.
@@ -1051,11 +1063,11 @@ La Ley determinará los casos y las circunstancias en los que se deba sancionar 
 
 Se concede acción popular para formular denuncias ante la Cámara de Diputados, respecto de las conductas a que se refiere el artículo que antecede, debiendo presentarse por escrito y fundarse en elementos de prueba que hagan presumir fehacientemente la ilicitud de la conducta del servidor público, estando sujetos a responsabilidad en los términos que lo prevengan las leyes respectivas, si la referida denuncia es infundida.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1992)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos de Juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces, el Procurador General de Justicia, los Secretarios del Ejecutivo, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimilada a éstas y fideicomisos públicos, así como los Presidentes Municipales, Regidores, Síndicos y Alcaldes Judiciales.
+Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces, el Procurador General de Justicia, los Secretarios del Ejecutivo, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos, así como los Presidentes Municipales, Regidores, Síndicos y Alcaldes Judiciales.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
@@ -1067,19 +1079,29 @@ Las declaraciones y resoluciones tanto de la Cámara de Diputados como del Tribu
 
 Las sanciones consistirán en la destitución del servidor público y en su caso la inhabilitación temporal para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1992)</small>
 
 ###### Art. 112.
 
-Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Procurador General de Justicia, los Secretarios y Sub-Secretarios encargados de Despacho del Ejecutivo, el Oficial Mayor de Gobierno, así como los Presidentes Municipales, Regidores y Síndicos por la Comisión de delitos durante el tiempo de su cargo, la Cámara de Diputados declarará por mayoría absoluta de los miembros que la forman y previa audiencia del acusado, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia, los Secretarios del Ejecutivo, así como los Presidentes Municipales, Regidores y Síndicos, por la Comisión de Delitos durante el tiempo de su cargo, la Cámara de Diputados declarará por mayoría absoluta de los miembros que la forman y previa audiencia del acusado, si ha o no lugar a proceder contra el inculpado.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 Si la resolución de la Cámara fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluído el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+
 Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 Por lo que toca al Gobernador del Estado, sólo habrá lugar a acusarlo en los términos de lo previsto por el Artículo 106, en cuyo caso se resolverá con base en la Legislación Penal aplicable.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+
 El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no cabe la gracia del indulto.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 En demanda del orden civil que se entable contra cualquier servidor público no se requerirá declaración de procedencia.
 
@@ -2078,3 +2100,11 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 19 DE JULIO DE 1991.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 1992.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 1992.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
