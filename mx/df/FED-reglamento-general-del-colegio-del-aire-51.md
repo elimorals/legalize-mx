@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-del-colegio-del-aire-51"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "1993-04-13"
+last_updated: "2001-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO GENERAL DEL COLEGIO DEL AIRE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
@@ -57,9 +57,11 @@ El Colegio del Aire es un organismo educativo militar que tiene como misión: re
 
 Dependencia.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 3o.
 
-El Colegio del Aire depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar.
+El Colegio del Aire depende del Alto Mando del Ejército y Fuerza Aérea, a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO III.
 
@@ -107,7 +109,9 @@ III. Sección Pedagógica:
 
 A. Jefatura;
 
-B. Subsección de Planes y Programas;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+B. Subsección de Planes y Programas y Doctrina Militar;
 
 C. Subsección de Estadística y Evaluación; y
 
@@ -121,23 +125,35 @@ B. Subsección de Capacitación y Desarrollo;
 
 C. Subsección de Control Académico;
 
-D. Subsección de Difusión Cultural y Relaciones Públicas; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Subsección de Recursos Didácticos;
 
 E. Subsección de Educación Física y Deportes.
 
-V. Sección de Recursos Didácticos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Sección de Difusión Cultural y Relaciones Públicas:
 
 A. Jefatura;
 
-B. Subsección de Laboratorios y Circuitos Cerrados;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-C. Subsección de Apoyos Didácticos;
+B. Subsección de Difusión;
 
-D. Subsección de Apoyos Gráficos y de Proyección;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-E. Biblioteca, Auditorio y Hemeroteca; y
+C. Subsección de Relaciones Públicas;
 
-F. Taller Autográfico y de Fotocopiado.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Subsección de Admisión, y
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+E. Subsección de Editorial.
+
+F. (DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
 VI. Ayudantía General:
 
@@ -211,7 +227,9 @@ II. Hacer cumplir los lineamientos establecidos en el Plan General de Educación
 
 III. Administrar los recursos humanos y materiales puestos a su disposición;
 
-IV. Proponer a la Dirección General de Educación Militar, los planes y programas de estudio de los cursos y carreras que se imparten en los planteles que le dependen;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, los planes y programas de estudio de los cursos y carreras que se imparten en los planteles que le dependen;
 
 V. Difundir, fomentar y mantener la Unidad de Doctrina Militar en el Colegio del Aire;
 
@@ -219,7 +237,9 @@ VI. Realizar la evaluación de las capacidades y funcionamiento de los órganos 
 
 VII. Convocar a la Junta Técnica-Consultiva;
 
-VIII. Proponer a la Dirección General de Educación Militar, la creación de otras carreras o cursos;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, la creación de otras carreras o cursos;
 
 IX. Conferir los cargos que desempeñe el personal académico, administrativo y de la planta del Colegio del Aire; excepto aquellos que sean designados por el Alto Mando;
 
@@ -227,17 +247,23 @@ X. Difundir el contenido del presente Reglamento a todo el personal que integra 
 
 XI. Proponer y opinar las altas, bajas y cambios del personal del Colegio del Aire;
 
-XII. Presentar a la Dirección General de Educación Militar un informe de actividades, al término de cada ciclo escolar;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XII. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, un informe de actividades al término de cada ciclo escolar;
 
 XIII. Vigilar permanentemente el bienestar del personal del Colegio del Aire, promoviendo el desarrollo de actividades para elevar su moral, atendiendo sus problemas personales y los de sus derechohabientes;
 
 XIV. Promover en el personal del Colegio del Aire, su afiliación conforme a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
-XV. Consolidar y proponer a la Dirección General de Educación Militar el proyecto de presupuesto de su competencia y el de los planteles que le dependen;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Consolidar y proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, el proyecto de presupuesto de su competencia y el de los planteles que le dependen;
 
 XVI. Supervisar las actividades que se realicen en los planteles que dependen del Colegio del Aire; y
 
-XVII. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVII. Las que le sean asignadas por la Secretaría de la Defensa Nacional.
 
 ### CAPITULO II.
 
@@ -273,7 +299,9 @@ X. Recomendar los cambios necesarios en la organización y funcionamiento del Co
 
 XI. Coordinar la elaboración y consolidación del proyecto de presupuesto del Colegio del Aire y de las escuelas que lo integran para presentarlo al Director; y
 
-XII. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XII. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO III.
 
@@ -287,15 +315,19 @@ I. Tener experiencia docente;
 
 II. Tener experiencia académica.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 15.
 
-La Sección Pedagógica del Colegio del Aire tiene las siguientes funciones:
+El Jefe de la Sección Pedagógica del Colegio del Aire, tiene las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades pedagógicas de los planteles que dependen del Colegio del Aire;
 
 II. Supervisar y revisar la actualización de los planes generales, de estudios y programas de cada uno de los planteles que integran el Colegio del Aire;
 
-III. Seleccionar y recomendar métodos y técnicas de enseñanza;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Seleccionar y recomendar métodos y técnicas de enseñanza más apropiados para cada caso, realizando para el efecto una permanente investigación educativa que garantice su actualización y viabilidad;
 
 IV. Proponer adecuaciones y enmiendas al Plan General de Educación Militar en asuntos de su competencia;
 
@@ -315,7 +347,45 @@ XI. Formular los informes de la Sección;
 
 XII. Coordinar sus actividades con los demás órganos del Colegio del Aire; y
 
-XIII. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIII. Planear, coordinar y realizar actividades de investigación y actualización de la Doctrina Militar Aérea;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Elaborar y actualizar la bibliografía militar y otros documentos relacionados con la educación militar;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Proponer innovaciones relativas al proceso educativo, considerando aspectos prácticos, reales y objetivos, sustentados en la experiencia;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Proponer adecuaciones o modificaciones a la organización y funciones del Colegio del Aire y escuelas que le dependen;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVII. Proponer el desarrollo integral de las carreras y cursos de las especialidades que se imparten en las diferentes escuelas que dependen del Colegio del Aire;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVIII. Coordinar los aspectos educativos, culturales y doctrinarios de la Fuerza Aérea, en los cursos de formación de oficiales y de clases de las escuelas dependientes del Colegio del Aire;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIX. Elaborar y difundir la doctrina militar autorizada con los medios disponibles, en coordinación con la Sección de Difusión Cultural y Relaciones Públicas;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XX. Proponer y promover programas y actividades de investigación científica y tecnológica en las escuelas dependientes del Colegio del Aire;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXI. Proponer, organizar y participar en la integración de comités para investigar y actualizar aspectos relacionados con la educación, la cultura y doctrina militar, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXII. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO IV.
 
@@ -329,9 +399,11 @@ I. Tener experiencia académica;
 
 II. Tener experiencia docente.
 
+> <small>(REFORMADO SU PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 17.
 
-La Sección Académica del Colegio del Aire tiene las siguientes funciones:
+El Jefe de la Sección Académica del Colegio del Aire, tiene las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades académicas de los planteles que dependen del Colegio del Aire;
 
@@ -353,49 +425,99 @@ IX. Supervisar el avance programático de los diferentes cursos y carreras que s
 
 X. Coordinar y supervisar la aplicación de la Directiva de Educación Física y Deportes en los planteles que dependen del Colegio del Aire;
 
-XI. Proponer la realización de juntas de coordinación con el personal docente;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XI. Proponer la realización de juntas de coordinación con el personal docente y académico;
 
 XII. Formular los informes de la Sección;
 
 XIII. Coordinar sus actividades con los demás órganos del Colegio del Aire; y
 
-XIV. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Proporcionar los recursos didácticos en apoyo del proceso educativo;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Controlar y coordinar las formas de empleo, la aplicación y el mantenimiento de los recursos de apoyo didáctico de cargo en el Colegio del Aire;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Elaborar y recomendar la adquisición de recursos de apoyo didáctico acordes con los adelantos científicos y tecnológicos existentes;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVII. Difundir entre los órganos del Colegio del Aire y planteles que le dependen, información sobre los recursos materiales de apoyo didáctico con que cuenta la sección;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVIII. Controlar, coordinar y supervisar el adecuado empleo de los laboratorios, bibliotecas, auditorios y hemerotecas, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIX. Las que le sean asignadas por el Director del plantel.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ### CAPITULO V.
 
-De la Sección de Recursos Didácticos.
+De la Sección de Difusión Cultural y Relaciones Públicas.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 18.
 
-La Sección de Recursos Didácticos, es el órgano encargado de administrar los recursos didácticos de cargo en el Colegio del Aire, para apoyar la materialización del proceso educativo en los planteles que le dependen y está a cargo de un Teniente Coronel o Mayor de Fuerza Aérea, a quien se denomina Jefe de la Sección de Recursos Didácticos.
+La Sección de Difusión Cultural y Relaciones Públicas, es un órgano de ejecución para la divulgación y enlace de las actividades dentro y fuera del plantel a cargo de un Coronel o Teniente Coronel de Fuerza Aérea Diplomado de Estado Mayor Aéreo, a quien se denomina Jefe de la Sección de Difusión Cultural y Relaciones Públicas, mismo que además debe reunir cualquiera de los requisitos siguientes:
+
+I. Tener experiencia académica, o
+
+II. Tener experiencia docente.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 19.
 
-La Sección de Recursos Didácticos del Colegio del Aire tiene las siguientes funciones:
+El Jefe de la Sección de Difusión Cultural y Relaciones Públicas del Colegio del Aire, tiene las atribuciones y responsabilidades siguientes:
 
-I. Proporcionar los recursos didácticos en apoyo del proceso educativo;
+I. Difundir la doctrina militar autorizada;
 
-II. Controlar y coordinar las formas de empleo, la aplicación y el mantenimiento de los recursos de apoyo didáctico de cargo en el Colegio del Aire;
+II. Difundir las actividades del plantel a través de los medios informativos a su disposición;
 
-III. Elaborar y recomendar la adquisición de recursos de apoyo didáctico acordes con los adelantos científicos y tecnológicos existentes;
+III. Planear, coordinar y supervisar las actividades de las personalidades y comisiones que visiten el plantel;
 
-IV. Difundir entre los órganos del Colegio del Aire y planteles que le dependen, información sobre los recursos materiales de apoyo didáctico con que cuenta la Sección;
+IV. Planear, coordinar y supervisar los eventos cívico-culturales, sociales y deportivos en los que participe el personal del plantel;
 
-V. Formular los informes de la Sección; y
+V. Coordinar las actividades de conferencistas;
 
-VI. Las que le sean asignadas por la superioridad.
+VI. Planear, coordinar y conducir las actividades de admisión de las escuelas que le dependen;
+
+VII. Organizar el archivo histórico del plantel;
+
+VIII. Coordinar y controlar el material que se edite para difundir la doctrina militar autorizada;
+
+IX. Coordinar y supervisar la elaboración de artículos para ser publicados en la revista del Ejército y Fuerza Aérea Mexicanos;
+
+X. Formular los informes de la sección que sean ordenados por la Dirección del plantel;
+
+XI. Coordinar y controlar las actividades que realicen las subsecciones que de ella dependen, y
+
+XII. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO VI.
 
 De la Ayudantía General.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 20.
 
-La Ayudantía General del Colegio del Aire está a cargo de un Coronel Piloto Aviador, a quien se denomina Ayudante General.
+La Ayudantía General del Colegio del Aire, es el órgano encargado de satisfacer las necesidades de vida interna del plantel a cargo de un Coronel Piloto Aviador, a quien se denomina Ayudante General.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 21.
 
-El Ayudante General del Colegio del Aire tiene las siguientes funciones:
+El Ayudante General del Colegio del Aire, tiene las atribuciones y responsabilidades siguientes:
 
 I. Las correspondientes a un Ayudante y a un Jefe de Instrucción de un Cuerpo de Tropa, respecto al personal de la planta del Colegio del Aire perteneciente a los servicios técnicos y generales;
 
@@ -423,23 +545,31 @@ XII. Coordinar sus actividades con los demás órganos del Colegio del Aire;
 
 XIII. Formular los informes de su competencia; y
 
-XIV. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO VII.
 
 De la Sección Administrativa.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 22.
 
-La Sección Administrativa del Colegio del Aire, está a cargo de un Jefe de Abastecimiento de Material Aéreo o uno del Servicio de Administración, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa del Colegio del Aire, es el órgano de apoyo administrativo del plantel a cargo de un jefe de Abastecimiento de Material Aéreo o del servicio de Administración, a quien se denomina Jefe de la Sección Administrativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 23.
 
-El Jefe de la Sección Administrativa del Colegio del Aire tiene las siguientes funciones:
+El Jefe de la Sección Administrativa del Colegio del Aire, tiene las atribuciones y responsabilidades siguientes:
 
 I. Elaborar y tramitar la documentación que se genere con motivo de los movimientos de personal del Colegio del Aire y mantener completos y actualizados los expedientes del mismo;
 
-II. Elaborar la documentación relacionada con los bienes muebles e inmuebles, armamento y municiones, vestuario y equipo de cargo en el Colegio del Aire;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Elaborar la documentación relacionada con los bienes muebles, vestuario, equipo y material de vuelo;
 
 III. Desempeñarse como controlador de bienes muebles e inmuebles de cargo en el Colegio del Aire;
 
@@ -463,7 +593,9 @@ XII. Formular los informes de su competencia;
 
 XIII. Coordinar las funciones de la Sección Administrativa con las de los demás órganos del Colegio del Aire; y
 
-XIV. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO VIII.
 
@@ -509,9 +641,11 @@ Los Vocales de la Junta Técnica-Consultiva, serán suplidos en sus ausencias, p
 
 En casos especiales, la Junta Técnica-Consultiva podrá recurrir a otras fuentes de asesoramiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 30.
 
-Las funciones de la Junta Técnica-Consultiva son:
+Las atribuciones y responsabilidades de la Junta Técnica-Consultiva son:
 
 I. Analizar y proponer soluciones a problemas de carácter pedagógico y académico que surjan en el Colegio del Aire y planteles que le dependen;
 
@@ -526,6 +660,10 @@ V. Recomendar los cambios necesarios al Manual de Organización y Funcionamiento
 VI. Proponer al personal directivo y académico del Colegio del Aire que se haga acreedor a recibir alguna recompensa; y
 
 VII. Las que en materia pedagógica y académica le asigne el Director del Colegio del Aire.
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Recibir en audiencia al personal en instrucción que se le haya dictaminado la baja de alguno de los planteles que dependen de este colegio.
 
 ## TITULO CUARTO.
 
@@ -545,19 +683,29 @@ B. Subdirector.
 
 II. Académico:
 
-A. Jefes de las Secciones Pedagógica y Académica; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-B. Jefes de las Subsecciones de las Secciones Pedagógica y Académica.
+A. Jefes de las secciones Pedagógica, Académica y de Difusión Cultural y Relaciones Públicas, y
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+B. Jefes de las subsecciones de las secciones Pedagógica, Académica y de Difusión Cultural y Relaciones Públicas.
 
 III. Personal Administrativo:
 
 A. Ayudante General;
 
-B. Jefe de la Sección de Recursos Didácticos;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-C. Jefe de la Sección Administrativa; y
+B. Jefe de la Sección Administrativa;
 
-D. Jefe de la Unidad Ejecutora de Pago.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+C. Jefe de la Unidad Ejecutora de Pago, y
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Jefes de las subsecciones de la Sección Administrativa.
 
 IV. De los Servicios:
 
@@ -649,9 +797,13 @@ D. Subsección de Abastecimiento de Material Aéreo; y
 
 E. Subsección de Mantenimiento de Material Bélico de Fuerza Aérea.
 
-VIII. Ayudantía General:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-A. Ayudante General;
+VIII. Ayudantía:
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+A. Ayudante;
 
 B. Subayudantía;
 
@@ -671,7 +823,7 @@ D. Subsección de Contabilidad;
 
 E. Subsección de Informática, Archivo y Correspondencia; y
 
-X. Unidad Ejecutora de Pago.
+X. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
 ###### ARTICULO 35.
 
@@ -715,23 +867,61 @@ B. Subsección de Control Académico y Recursos Didácticos;
 
 C. Subsección de Difusión Cultural y Relaciones Públicas;
 
-D. Subsección del Curso de Formación de Oficiales de Abastecimiento de Material Aéreo;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-E. Subsección del Curso de Formación de Oficiales Especialistas en Electrónica de Aviación; y
+D. Subsección del Curso de Formación de Oficiales de Fuerza Aérea Especialistas en Electrónica de Aviación;
 
-F. Otras que determine la superioridad.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-VI. Ayudantía General:
+E. Subsección del Curso de Formación de Oficiales de Fuerza Aérea Especialistas en Mantenimiento de Aviación;
 
-A. Ayudante General;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+F. Subsección del Curso de Formación de Oficiales de Fuerza Aérea Abastecedores de Material Aéreo, y
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+G. Subsección del Curso de Formación de Oficiales de Fuerza Aérea de Armamento Aéreo.
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Sección de Laboratorios y Talleres:
+
+A. Jefatura;
+
+B. Laboratorio de Electricidad;
+
+C. Laboratorio de Electrónica;
+
+D. Laboratorio de Telecomunicaciones;
+
+E. Laboratorio de Microondas;
+
+F. Laboratorio de Radar;
+
+G. Taller de Electricidad y Electrónica;
+
+H. Taller de Mantenimiento de Aviación;
+
+I. Taller de Abastecimiento del Material Aéreo, y
+
+J. Taller de Armamento Aéreo.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Ayudantía:
+
+A. Ayudante;
 
 B. Subayudantía;
 
-C. Servicios Técnicos; y
+C. Servicios Técnicos, y
 
 D. Servicios Generales.
 
-VII. Sección Administrativa:
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Sección Administrativa:
 
 A. Jefatura;
 
@@ -739,11 +929,9 @@ B. Subsección de Personal;
 
 C. Subsección de Recursos Materiales;
 
-D. Subsección de Contabilidad;
+D. Subsección de Contabilidad, y
 
-E. Subsección de Informática, Archivo y Correspondencia; y
-
-VIII. Unidad Ejecutora de Pago.
+E. Subsección de Informática, Archivo y Correspondencia.
 
 ###### ARTICULO 36.
 
@@ -795,17 +983,31 @@ F. Subsección de la carrera de Meteorólogo; y
 
 G. Otras que determine la superioridad.
 
-VI. Ayudantía General:
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-A. Ayudante General;
+VI. Sección de Laboratorios:
+
+A. Jefatura;
+
+B. Laboratorio de Meteorología, y
+
+C. Laboratorio de Tránsito Aéreo.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Ayudantía:
+
+A. Ayudante;
 
 B. Subayudantía;
 
-C. Servicios Técnicos; y
+C. Servicios Técnicos, y
 
 D. Servicios Generales.
 
-VII. Sección Administrativa:
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Sección Administrativa:
 
 A. Jefatura;
 
@@ -813,11 +1015,9 @@ B. Subsección de Personal;
 
 C. Subsección de Recursos Materiales;
 
-D. Subsección de Contabilidad;
+D. Subsección de Contabilidad, y
 
-E. Subsección de Informática, Archivo y Correspondencia; y
-
-VIII. Unidad Ejecutora de Pago.
+E. Subsección de Informática, Archivo y Correspondencia.
 
 ###### ARTICULO 37.
 
@@ -863,9 +1063,13 @@ A. Jefatura; y
 
 B. Escuadrón de Vuelo.
 
-VI. Ayudantía General:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-A. Ayudante General;
+VI. Ayudantía:
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+A. Ayudante;
 
 B. Subayudantía;
 
@@ -897,7 +1101,7 @@ D. Subsección de Abastecimiento de Material Aéreo; y
 
 E. Subsección de Mantenimiento de Material Bélico de Fuerza Aérea.
 
-IX. Unidad Ejecutora de Pago.
+IX. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
 ###### ARTICULO 38.
 
@@ -941,25 +1145,61 @@ B. Subsección de Control Académico y Recursos Didácticos;
 
 C. Subsección de Difusión Cultural y Relaciones Públicas;
 
-D. Subsección del Curso de Formación de Oficiales del Servicio de Material Aéreo;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-E. Subsección del Curso de Formación de Sargentos Primeros del Servicio de Material Aéreo;
+D. Subsección del Curso de Formación de Clases de Fuerza Aérea Especialistas en Mantenimiento de Aviación;
 
-F. Subsección del Curso de Formación de Sargentos Segundos del Servicio de Material Aéreo; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-G. Otras que determine la superioridad.
+E. Subsección del Curso de Formación de Clases de Fuerza Aérea Abastecedores de Material Aéreo;
 
-VI. Ayudantía General:
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-A. Ayudante General;
+F. Subsección del Curso de Formación de Clases de Fuerza Aérea Especialistas en Electrónica de Aviación, y
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+G. Subsección del Curso de Formación de Clases de Fuerza Aérea de Armamento Aéreo.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Sección de Laboratorios y Talleres:
+
+A. Jefatura;
+
+B. Laboratorio de Electricidad;
+
+C. Laboratorio de Electrónica;
+
+D. Laboratorio de Telecomunicaciones;
+
+E. Laboratorio de Microondas;
+
+F. Laboratorio de Radar;
+
+G. Taller de Electricidad y Electrónica;
+
+H. Taller de Mantenimiento de Aviación;
+
+I. Taller de Abastecimiento de Material Aéreo, y
+
+J. Taller de Armamento Aéreo.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Ayudantía:
+
+A. Ayudante;
 
 B. Subayudantía;
 
-C. Servicios Técnicos; y
+C. Servicios Técnicos, y
 
 D. Servicios Generales.
 
-VII. Sección Administrativa:
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Sección Administrativa:
 
 A. Jefatura;
 
@@ -967,11 +1207,13 @@ B. Subsección de Personal;
 
 C. Subsección de Recursos Materiales;
 
-D. Subsección de Contabilidad;
+D. Subsección de Contabilidad, y
 
-E. Subsección de Informática, Archivo y Correspondencia; y
+E. Subsección de Informática, Archivo y Correspondencia.
 
-VIII. Unidad Ejecutora de Pago.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IX. Unidad Ejecutora de Pago.
 
 ###### ARTICULO 39.
 
@@ -991,11 +1233,15 @@ Los Directores de las Escuelas Militares que dependen del Colegio del Aire, tien
 
 I. Representar a la Escuela Militar correspondiente;
 
-II. Hacer cumplir los lineamientos establecidos en el Plan General de Educación Militar;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Hacer cumplir los lineamientos establecidos en el Plan General de Educación Militar y demás disposiciones vigentes;
 
 III. Administrar los recursos humanos, económicos y materiales puestos a su disposición;
 
-IV. Elaborar los Planes y Programas de Estudio de las carreras y cursos que se impartan en el plantel, proponiendo a la Dirección del Colegio del Aire, las modificaciones que sean necesarias;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Orientar la formulación de los planes y programas de estudio de las carreras y cursos que se impartan en el plantel, proponiendo a la Dirección del Colegio del Aire las modificaciones que sean necesarias;
 
 V. Convocar a la Junta Técnica-Consultiva y en donde proceda a la Comisión Dictaminadora de Accidentes Aéreos;
 
@@ -1015,7 +1261,9 @@ XII. Proponer al personal del plantel que se haga acreedor a recompensas, premio
 
 XIII. Proponer y opinar las altas, bajas y cambios del personal académico, docente y administrativo;
 
-XIV. Realizar la evaluación de las capacidades y funcionamiento de los órganos del plantel;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Analizar los resultados de las evaluaciones de las capacidades y funcionamiento de los órganos del plantel;
 
 XV. Presentar a la dirección del Colegio del Aire, un informe general de actividades al término de cada ciclo escolar;
 
@@ -1023,7 +1271,9 @@ XVI. Presentar a la dirección del Colegio del Aire, el proyecto de presupuesto 
 
 XVII. Firmar la documentación oficial que se genere con motivo de las actividades académicas y administrativas del plantel; y
 
-XVIII. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVIII. Las que le sean asignadas por el Director del Colegio del Aire.
 
 ### CAPITULO II.
 
@@ -1053,7 +1303,9 @@ IX. Recomendar los cambios necesarios en la organización y funcionamiento del p
 
 X. Convocar juntas de coordinación con el personal docente del plantel;
 
-XI. Dirigir el proceso enseñanza-aprendizaje;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XI. Coordinar la planeación, ejecución y evaluación del proceso enseñanza-aprendizaje;
 
 XII. Coordinar y supervisar toda clase de eventos culturales y militares;
 
@@ -1063,15 +1315,23 @@ XIV. Coordinar y certificar la elaboración de la documentación que se genere c
 
 XV. Coordinar la elaboración del proyecto de presupuesto del plantel y presentarlo al Director; y
 
-XVI. Las que sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Proponer el personal de los jurados que deben integrarse para los exámenes señalados en el presente Reglamento, así como para aquellos comités en actividades que lo requieran, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVII. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO III.
 
 De los Comandantes de Cuerpo de Oficiales y Clases en Instrucción, Cadetes y Alumnos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 42.
 
-Los Comandantes de los diferentes Cuerpos de Personal en Instrucción de las escuelas que dependen del Colegio del Aire, tienen las siguientes funciones:
+Los comandantes de los diferentes cuerpos de personal en instrucción de las escuelas que dependen del Colegio del Aire, tienen las atribuciones y responsabilidades siguientes:
 
 I. Ejercer el mando del personal en instrucción del plantel;
 
@@ -1101,21 +1361,27 @@ XIII. Controlar y supervisar el desempeño de los servicios de arma, económicos
 
 XIV. Participar en la elaboración del Plan de Defensa del plantel y otros que sean necesarios;
 
-XV. Proponer a la superioridad al personal en instrucción nacional que por su don de mando, aprovechamiento y disciplina se haga acreedor a recibir distinción o grado jerárquico;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Proponer a la superioridad al personal en instrucción que por su don de mando, aprovechamiento y disciplina se haga acreedor a recibir distinción o grado jerárquico;
 
 XVI. Formular los informes de su competencia;
 
 XVII. Coordinar las actividades del Cuerpo con las de los demás órganos del plantel; y
 
-XVIII. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVIII. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO IV.
 
 De las Secciones Pedagógicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 43.
 
-Las Secciones Pedagógicas de las escuelas que dependen del Colegio del Aire, tienen las siguientes funciones:
+Las secciones pedagógicas de las escuelas que dependen del Colegio del Aire, tienen las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades pedagógicas del plantel;
 
@@ -1151,15 +1417,31 @@ XVI. Coordinar la formulación de los exámenes profesionales y supervisar su ap
 
 XVII. Coordinar sus actividades con los demás órganos del plantel; y
 
-XVIII. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVIII. Llevar el seguimiento profesional de egresados del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIX. Generar la información estadística del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XX. Realizar actividades de investigación y de actualización de la doctrina militar aérea vigente, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXI. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO V.
 
 De las Secciones Académicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 44.
 
-Las Secciones Académicas de las escuelas que dependen del Colegio del Aire, tienen las siguientes funciones:
+Las secciones académicas de las escuelas que dependen del Colegio del Aire, tienen las atribuciones y responsabilidades siguientes:
 
 I. Coordinar y supervisar el desarrollo de los planes y programas de estudio del plantel;
 
@@ -1167,17 +1449,23 @@ II. Seleccionar y proponer al personal docente y de sinodales;
 
 III. Proponer las modificaciones necesarias de los planes y programas de estudio;
 
-IV. Supervisar la aplicación de la directiva de educación física y deportes;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Supervisar la aplicación del programa de educación física y deportes;
 
 V. Administrar los recursos didácticos;
 
 VI. Supervisar que la impartición de clases las lleve a cabo el personal docente titular de la asignatura correspondiente y en sus ausencias, el docente adjunto;
 
-VII. Supervisar la formulación de los instrumentos de evaluación, verificando su aplicación;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Supervisar la formulación y reproducción de los instrumentos de evaluación, verificando su aplicación;
 
 VIII. Supervisar el desarrollo de los programas de capacitación docente;
 
-IX. Aplicar y supervisar el desarrollo de la distribución de tiempo mensual;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IX. Aplicar y supervisar el desarrollo de la distribución de tiempo mensual y semanal;
 
 X. Coordinar y controlar al personal docente del plantel;
 
@@ -1203,15 +1491,39 @@ XX. Formular los informes de la Sección;
 
 XXI. Coordinar sus actividades con los demás órganos del plantel; y
 
-XXII. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXII. Regir la utilización de los diferentes laboratorios y talleres;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXIII. Llevar a cabo actividades académicas para la recuperación del personal reprobado por medio de un programa que se aplicará en horas no laborables;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXIV. Coordinar conferencias sobre temas de interés profesional para el personal de oficiales en instrucción;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXV. Crear estímulos para el personal sobresaliente en actividades pedagógicas;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXVI. Planear, coordinar y conducir las actividades de admisión al plantel, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXVII. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO VI.
 
 De las Secciones de Vuelos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 45.
 
-Los Jefes de las Secciones de Vuelos de los planteles que dependen del Colegio del Aire tienen las siguientes funciones:
+Los jefes de las secciones de vuelos de los planteles que dependen del Colegio del Aire, tienen las atribuciones y responsabilidades siguientes:
 
 I. Planear, conducir y evaluar el adiestramiento de vuelo en sus diferentes fases del personal en instrucción e instructores de vuelo del plantel;
 
@@ -1229,15 +1541,19 @@ VII. Formular los informes de la sección;
 
 VIII. Coordinar sus actividades con los demás órganos del plantel; y
 
-IX. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-### CAPITULO VII.
+IX. Las que le sean asignadas por el Director del plantel.
 
-De los Ayudantes Generales.
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+### CAPITULO VII.. De los Ayudantes
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 46.
 
-Los Ayudantes Generales de los planteles que dependen del Colegio del Aire, tienen las siguientes funciones:
+Los ayudantes de los planteles que dependen del Colegio del Aire, tienen las atribuciones y responsabilidades siguientes:
 
 I. Las correspondientes a las de un Ayudante y a las de un Jefe de Instrucción de un Cuerpo de Tropa, respecto al personal de la planta de la escuela;
 
@@ -1263,19 +1579,41 @@ XI. Formular los informes de su competencia;
 
 XII. Coordinar sus actividades con los demás órganos del plantel; y
 
-XIII. Las que determine la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIII. Nombrar las comisiones que deban representar a la escuela, conforme a las directivas emanadas del Director;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Controlar las actividades que deban realizar los servicios técnicos y generales;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Organizar y supervisar la circulación y control de tránsito en el interior del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Participar en la elaboración del proyecto de presupuesto anual del plantel, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVII. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO VIII.
 
 De las Secciones Administrativas.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 47.
 
-Los Jefes de las Secciones Administrativas de los planteles que dependen del Colegio del Aire, tienen las siguientes funciones:
+Los jefes de las secciones administrativas de los planteles que dependen del Colegio del Aire, tienen las atribuciones y responsabilidades siguientes:
 
 I. Elaborar y tramitar la documentación que se genere con motivo de los movimientos del personal perteneciente al plantel y mantener completos y actualizados los expedientes del mismo;
 
-II. Elaborar la documentación relacionada con los bienes muebles e inmuebles, armamento y municiones, vestuario y equipo, vehículos terrestres y material de vuelo de cargo en el plantel;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Coordinar y supervisar la elaboración de la documentación relacionada con los bienes muebles, vestuario y equipo, así como de los vehículos terrestres de cargo en el plantel;
 
 III. Fungir como controlador de bienes muebles;
 
@@ -1303,15 +1641,19 @@ XIV. Formular los informes de su competencia;
 
 XV. Coordinar sus actividades con los demás órganos del plantel; y
 
-XVI. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO IX.
 
 De las Secciones de Mantenimiento y Abastecimiento de Material Aéreo y Bélico de Fuerza Aérea.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 48.
 
-Los Jefes de las Secciones de Mantenimiento y Abastecimiento de Material Aéreo y Bélico de Fuerza Aérea de los planteles correspondientes que dependen del Colegio del Aire, tienen las siguientes funciones:
+Los jefes de las secciones de mantenimiento y abastecimiento de material aéreo y bélico de Fuerza Aérea de los planteles correspondientes que dependen del Colegio del Aire, tienen las atribuciones y responsabilidades siguientes:
 
 I. Aplicar programas de mantenimiento del material aéreo y bélico de Fuerza Aérea de cargo en el plantel;
 
@@ -1337,23 +1679,31 @@ XI. Formular los informes de la Sección;
 
 XII. Coordinar sus actividades con los demás órganos del plantel; y
 
-XIII. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIII. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO X.
 
 De las Unidades Ejecutoras de Pago.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 49.
 
-Las Unidades Ejecutoras de Pago de los planteles que dependen del Colegio del Aire, están a cargo de un Jefe u Oficial Pagador, a quien se denomina Jefe de la Unidad Ejecutora de Pago, nombrado por el Alto Mando del Ejército y Fuerza Aérea.
+La Unidad Ejecutora de Pago del Colegio del Aire, está a cargo de un jefe u oficial pagador, a quien se le denomina Jefe de la Unidad Ejecutora de Pago, nombrado por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 50.
 
-Los Jefes de las Unidades Ejecutoras de Pago de los planteles dependientes del Colegio del Aire, tienen la responsabilidad de proporcionar el servicio de pago de haberes y demás percepciones al personal de los mismos, de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
+El Jefe de la Unidad Ejecutora de Pago del Colegio del Aire, tiene la responsabilidad de proporcionar el servicio de pago de haberes, Percepción Recreativa Estudiantil (PRE) y demás percepciones al personal de las escuelas que le dependen, de conformidad con las disposiciones legales aplicables y directivas que emita la Secretaría de la Defensa Nacional.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 51.
 
-Las Unidades Ejecutoras de Pago, normarán sus actividades de conformidad con los ordenamientos respectivos.
+La Unidad Ejecutora de Pago, normará sus actividades de conformidad con los ordenamientos respectivos.
 
 ### CAPITULO XI.
 
@@ -1403,7 +1753,13 @@ V. Analizar los resultados de la evaluación pedagógica, para mejorar el nivel 
 
 VI. Proponer al personal directivo, académico, docente y en instrucción, que se haga acreedor a recibir alguna recompensa; y
 
-VII. Las que en materia pedagógica y académica le asigne el Director del plantel.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Recibir en audiencia al personal en instrucción que se le haya dictaminado baja del plantel correspondiente, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Las que en materia pedagógica y académica le asigne el Director del plantel.
 
 ###### ARTICULO 56.
 
@@ -1479,9 +1835,13 @@ B. Oficiales del Cuerpo; y
 
 C. Personal en Instrucción.
 
-V. Personal Administrativo:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-A. Ayudante General;
+V. Administrativo:
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+A. Ayudante;
 
 B. Jefe de la Sección Administrativa;
 
@@ -1491,27 +1851,37 @@ D. Jefe de la Unidad Ejecutora de Pago.
 
 VI. De los Servicios.
 
-Está constituido por el personal de los servicios Técnicos, Administrativos y Generales del plantel.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Está constituido por el personal de los servicios técnicos, administrativos y generales y aquél otro no incluido en la clasificación anterior.
 
 ### CAPITULO II.
 
 Del Personal Docente.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 60.
 
-Es profesor, el personal militar o civil que tiene a su cargo labores de enseñanza o transmisión de conocimientos, pudiendo ser titular o adjunto.
+Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, tienen las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las prescritas en el presente Reglamento y disposiciones que emita la superioridad; este personal puede ser profesor o instructor.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 61.
 
-Es instructor, el personal militar o civil a quién se encomienda la impartición de conocimientos sobre materias que requieren habilidad o destreza.
+Es profesor el militar o civil que tiene a su cargo con carácter de titular o de adjunto, labores permanentes de enseñanza o transmisión de conocimientos, previa acreditación del título profesional que avale el dominio de la asignatura por impartir.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 62.
 
-Los profesores e instructores honorarios, son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho.
+Son instructores, los militares a quienes se encomienda la impartición de conocimientos sobre materias que requieren habilidad, pericia o destreza y que acrediten previamente ante la Sección Académica el conocimiento que vayan a impartir.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 63.
 
-El personal Docente tiene la responsabilidad del desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo y del cumplimiento a lo establecido en el presente Reglamento en las partes correspondientes.
+Los profesores e instructores honorarios, son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho, debiendo extendérseles un nombramiento como estímulo por dichas actividades.
 
 ### CAPITULO III.
 
@@ -1527,7 +1897,9 @@ El personal en instrucción perteneciente a los planteles que dependen del Coleg
 
 I. Los Oficiales y Clases de la Fuerza Aérea y del Ejército, como Oficiales y Clases en Instrucción respectivamente;
 
-II. Los civiles en los cursos de formación de oficiales, como Cadetes; y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. El personal procedente de tropa del ejército y los civiles en los cursos de formación de oficiales como cadetes, y
 
 III. Los civiles en los cursos de formación de clases, como Alumnos.
 
@@ -1535,9 +1907,11 @@ III. Los civiles en los cursos de formación de clases, como Alumnos.
 
 Los militares y civiles de nacionalidad extranjera que ingresen a alguno de los planteles que dependen del Colegio del Aire, lo harán en calidad de becarios y se regirán durante su estancia en ellos, por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos en las partes aplicables y en el presente Reglamento; éste personal no estará sujeto al fuero de guerra que comprende faltas y delitos contra la disciplina militar, regulándose su situación disciplinaria, en cada caso, como lo determine la Secretaría de la Defensa Nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 67.
 
-El personal en instrucción tendrá las siguientes obligaciones:
+El personal en instrucción además de lo establecido en la legislación militar y disposiciones aplicables que emita la Secretaría de la Defensa Nacional, tiene las atribuciones y responsabilidades siguientes:
 
 I. Asistir puntualmente a las actividades que le señalen las distribuciones de tiempo respectivas;
 
@@ -1591,9 +1965,11 @@ La formación del personal en instrucción de los planteles que dependen del Col
 
 De la Planeación.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 74.
 
-La planeación, tiene por finalidad establecer los objetivos de aprendizaje, los métodos y técnicas de enseñanza, así como determinar los métodos de evaluación con base en los planes y programas de estudios del plantel correspondiente.
+La planeación didáctica es el conjunto de acciones que permiten establecer la estructura, diseño y secuencia del proceso enseñanza-aprendizaje con el fin de organizarlo, sistematizarlo, dirigirlo, evaluarlo y en su caso, rectificarlo para alcanzar los objetivos prescritos en los planes y programas de estudio del plantel.
 
 ### CAPITULO III.
 
@@ -1607,9 +1983,11 @@ La ejecución de la enseñanza, tiene por objeto desarrollar el contenido de los
 
 De la Evaluación.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 76.
 
-La evaluación académica, tiene por objeto verificar el nivel de aprovechamiento del personal en instrucción en el proceso enseñanza-aprendizaje; así como la eficiencia del personal docente y la de la programación.
+La evaluación académica tiene por objeto verificar el nivel de aprovechamiento del personal en instrucción en el proceso enseñanza-aprendizaje; así como la eficiencia del personal docente y la de los planes y programas de estudio.
 
 ###### ARTICULO 77.
 
@@ -1627,21 +2005,69 @@ I. Parciales:
 
 Son aquellos que realiza el personal en instrucción para comprobar su grado de aprovechamiento en una o varias partes del programa de estudios de cualquier asignatura, durante el semestre correspondiente.
 
-II. Final Ordinario:
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-Es aquel que se aplica a todo el personal en instrucción, al término del semestre correspondiente y cubre la totalidad del programa de una asignatura.
+II. Final ordinario:
+
+Es aquel que se aplica a todo el personal en instrucción al término de la asignatura correspondiente que cubre la totalidad del programa.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 III. Extraordinario:
 
-Es aquel que se aplica al personal en instrucción por reprobar uno o más exámenes finales ordinarios, siendo equivalente al examen de eliminación que se aplica en la fase de vuelo en la Escuela Militar de Aviación.
+Es aquel que se aplica al personal en instrucción, cuya calificación final de la asignatura sea menor de la estipulada en el artículo 81 y calculada de acuerdo a lo establecido en el artículo 82 de este Reglamento; respecto a la Escuela Militar de Aviación es el equivalente al examen de eliminación que se aplica en las fases de vuelo, así como al que repruebe el examen escrito del manual de ingeniería y procedimientos del avión.
 
 IV. Profesional:
 
 Es aquel que sustenta el personal en instrucción que realizó el curso de Piloto Aviador Militar en la Escuela Militar de Aviación o la carrera de Meteorólogo Militar en la Escuela Militar de Especialistas de Fuerza Aérea, después de haber cubierto el contenido de los programas de estudio del curso o carrera respectiva y haber elaborado una tesis o su equivalente; sirve para hacerse acreedor al título profesional correspondiente.
 
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 V. Especial:
 
-Es aquel que se aplica, bajo las condiciones que establece el presente Reglamento, al personal en instrucción que causó baja de los planteles que dependen del Colegio del Aire sin terminar sus estudios. En la Escuela Militar de Aplicación Aerotáctica y en los cursos intensivos que determine la superioridad no se aplicarán estos exámenes.
+Es aquel que se aplica bajo las condiciones que establece el presente Reglamento al personal en instrucción que causó baja de los planteles que dependen del Colegio del Aire sin terminar sus estudios; en la Escuela Militar de Aviación será invariablemente teórico y práctico de vuelo.
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. De vuelo (únicamente Escuela Militar de Aviación):
+
+A. Teórico:
+
+a. De ingeniería y procedimientos del avión.
+
+Es aquel que se aplica al personal en instrucción en forma escrita y práctica, con la finalidad de evaluar los conocimientos teóricos de ingeniería y procedimientos del avión antes de iniciar su adiestramiento de vuelo, tendrá la equivalencia de un examen final ordinario de cualquier asignatura.
+
+b. Preliminar de fase.
+
+Es aquel que se aplica al personal en instrucción en forma escrita, práctica o una combinación de ambos y tiene la finalidad de evaluar los conocimientos adquiridos de las diferentes sesiones de vuelo por realizar antes de iniciar cada fase de adiestramiento, tendrá la equivalencia a un examen parcial de cualquier asignatura.
+
+B. Prácticos:
+
+a. De progreso.
+
+Tiene como finalidad evaluar en la práctica al personal en instrucción de las maniobras que establezca el programa de vuelo respectivo para comprobar el grado de avance en el control de operación de la aeronave, este examen será aplicado por el jefe de grupo pedagógico y equivale a una evaluación parcial de cualquier asignatura.
+
+b. Especial de progreso.
+
+Es una evaluación práctica que tiene la finalidad de confirmar y examinar el avance y capacidad del alumno para desarrollar las maniobras de vuelo y será aplicado por el Oficial de Operaciones del Escuadrón respectivo, al personal en instrucción que:
+
+1. No apruebe la evaluación de progreso.
+
+2. Resulte "No apto" para realizar el vuelo solo.
+
+3. Sea reportado por el instructor con bajo rendimiento durante el desarrollo de tres sesiones de vuelo en una misma fase de vuelo.
+
+4. Durante una sesión de vuelo en solo, ponga en riesgo su vida, la de otras personas, el material de vuelo o bien cometa alguna indisciplina en vuelo.
+
+c. De eliminación.
+
+Es aquella evaluación práctica que tiene la finalidad de verificar la capacidad de un alumno para operar y conducir una aeronave con seguridad y eficiencia durante las diferentes maniobras antes practicadas y será aplicada por el comandante del escuadrón de vuelo o por el jefe de la sección de vuelos al personal que:
+
+1. Repruebe un examen especial de progreso;
+
+2. Tenga un incidente o accidente en vuelo o en tierra, durante la sesión de vuelo en solo, poniendo en riesgo su vida, la de otras personas y la seguridad del material de vuelo.
+
+3. Haya presentado dos evaluaciones de eliminación en el desarrollo del curso de vuelo y resulte reprobado en la evaluación de progreso durante cualquier fase del adiestramiento de vuelo.
 
 ###### ARTICULO 79.
 
@@ -1655,21 +2081,23 @@ III. Prácticos; o
 
 IV. Una combinación de los anteriores.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 80.
 
-Para calificar todos los exámenes excepto el Profesional, se utilizará la escala numérica de CERO a CIEN puntos, sin incluir decimales.
+Para calificar todos los exámenes excepto el profesional se utilizará la escala numérica de cero a diez puntos incluyendo decimales.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 81.
 
-La calificación mínima aprobatoria será de SESENTA puntos.
+Para calificar todos los exámenes excepto el profesional se utilizará la escala numérica de cero a diez puntos incluyendo decimales.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 82.
 
-La calificación de cada asignatura quedará integrada de la siguiente manera:
-
-I. El promedio de las evaluaciones parciales constituirá el 60% de la calificación final; y
-
-II. El resultado del examen final ordinario constituirá el 40% de la calificación final.
+La calificación de cada asignatura quedará integrada de la manera siguiente: las calificaciones de las evaluaciones parciales se promediarán con la calificación del examen final ordinario, constituyéndose de esta manera la calificación final de la asignatura.
 
 ###### ARTICULO 83.
 
@@ -1697,7 +2125,9 @@ I. Elaborar una tesis o su equivalente con alta calidad académica y originalida
 
 II. No haber presentado exámenes extraordinarios durante la carrera; y
 
-III. Tener un promedio general mínimo de 85 puntos durante la carrera.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Tener un promedio general mínimo de 9.0 puntos durante la carrera.
 
 ### CAPITULO V.
 
@@ -1747,9 +2177,13 @@ Son causales de baja de los planteles que dependen del Colegio del Aire para el 
 
 I. Haber terminado satisfactoriamente sus estudios;
 
-II. Reprobar el 40 % o más del total de exámenes parciales en un mismo período de evaluación;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-III. Reprobar el 40 % o más del total de exámenes finales ordinarios en un semestre;
+II. Reprobar tres exámenes parciales en una misma asignatura;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Reprobar un total de 10 exámenes parciales de diferentes asignaturas en el mismo semestre;
 
 IV. Reprobar uno o más exámenes extraordinarios;
 
@@ -1757,9 +2191,13 @@ V. Reprobar el examen de eliminación en la fase de vuelo para el personal en in
 
 VI. Reprobar el examen profesional en el plantel correspondiente;
 
-VII. Acumular en un semestre, el 10% o más de faltas injustificadas en una sola asignatura o el 15% o más en el conjunto de ellas;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-VIII. Acumular en un semestre, el 30% o más de faltas justificadas en una sola asignatura o en el conjunto de ellas;
+VII. Personal de cadetes: Acumular en un semestre, el 10% o más de faltas injustificadas en una sola asignatura o el 15% o más en el conjunto de ellas; personal de oficiales y clases en instrucción: Acumular 15 faltas injustificadas en el conjunto de las asignaturas;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VIII. Personal de cadetes: Acumular en un semestre, el 30% o más de faltas justificadas en una sola asignatura o en el conjunto de ellas; personal de oficiales y clases en instrucción: 50 faltas justificadas en el conjunto de asignaturas durante el año lectivo;
 
 IX. Por encontrarse en alguna de las causales de baja establecidas en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
 
@@ -1775,9 +2213,33 @@ XIV. Para el personal Becario extranjero, faltar injustificadamente a sus labore
 
 XV. Por solicitud del interesado, que sea aceptada por la superioridad.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Acumular un máximo de 10 faltas injustificadas a las sesiones de vuelo con relación a sus demás compañeros o retrasarse durante una fase completa del programa de adiestramiento de vuelo;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVII. Incurrir en una indisciplina de vuelo en la que de manera dolosa se aparte de lo establecido en la orden de vuelo poniendo en riesgo su vida, la de los demás y el material de vuelo;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVIII. Cuando al encontrarse al mando de una aeronave provoque daños al material de vuelo y la comisión dictaminadora de accidentes aéreos determine que fue por descuido, negligencia, apatía u omisión imputable al personal en instrucción, independientemente de las responsabilidades legales que resulten;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIX. Adquirir otra nacionalidad, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XX. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal.
+
 ###### ARTICULO 93.
 
 El personal en instrucción que cause baja de los planteles que dependen del Colegio del Aire, quedará a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+ARTICULO 93 BIS.- Al personal en instrucción que por cualquier motivo vaya a ser dado de baja del plantel, se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales, contados a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular.
 
 ###### ARTICULO 94.
 
@@ -1791,9 +2253,11 @@ El personal en instrucción que cause baja de la Escuela Militar de Tropas Espec
 
 De los Reingresos.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 96.
 
-Reingreso, es el acto mediante el cual el personal en instrucción que habiendo causado baja de alguno de los planteles que dependen del Colegio del Aire antes de terminar sus estudios, es admitido nuevamente para continuarlos.
+Para efectos del presente Reglamento, se considera como reingreso el acto mediante el cual el personal en instrucción que habiendo causado baja de alguno de los planteles que dependen del Colegio del Aire antes de terminar los estudios, es admitido nuevamente para continuarlos.
 
 ###### ARTICULO 97.
 
@@ -1847,9 +2311,11 @@ III. Patente; y
 
 IV. Nombramiento.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 104.
 
-Al personal en instrucción que no concluya satisfactoriamente sus estudios, se le expedirá a solicitud del interesado; Certificado Parcial de Estudios, previa aprobación de la Dirección General de Educación Militar.
+Al personal en instrucción que no concluya satisfactoriamente sus estudios, se le expedirá a solicitud del interesado, certificado parcial de estudios, previa aprobación de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO II.
 
@@ -1863,13 +2329,23 @@ I. Primer Premio: al que acumule exclusivamente el primer lugar por mayor promed
 
 II. Segundo Premio: a quiénes hayan acumulado primeros, segundos y terceros lugares, al término de cada uno de los ciclos escolares durante la carrera o curso respectivo.
 
-Estos premios sólo serán otorgados siempre y cuando los promedios obtenidos no sean menores de 85 puntos.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-III. Figurar en el Cuadro de Honor, en el período de evaluación siguiente a aquel en que haya obtenido un promedio de 80 puntos o más;
+Estos premios sólo serán otorgados siempre y cuando los promedios obtenidos no sean menores de 8.5 puntos;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Figurar en el cuadro de honor en el mes siguiente a aquél en que haya obtenido en los exámenes un promedio de 9.0 puntos de calificación o más:
+
+A. Además tendrán derecho a disfrutar de una franquicia extraordinaria otorgada por la Dirección del plantel correspondiente, después de la última lista del día, presentándose a las 2300 horas del mismo, y
+
+B. Se les hará entrega de una boleta de cuadro de honor a los tres primeros lugares de cada plantel.
 
 IV. El personal en instrucción que obtenga los tres promedios más altos en cada ciclo escolar de la carrera o curso correspondiente recibirá: Diploma de Primero, Segundo o Tercer lugar; y
 
-V. Otros que autorice la Secretaría de la Defensa Nacional.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Exento de realizar el examen final ordinario el personal en instrucción que obtenga un promedio mínimo de 9.0 puntos en una materia, después de haber sustentado los exámenes parciales de la misma, asentándose la calificación obtenida en el promedio, quedando a elección del alumno la opción de presentar o no dicha evaluación para incrementar su promedio general.
 
 ###### ARTICULO 106.
 
@@ -1883,41 +2359,55 @@ Disposiciones Complementarias.
 
 De la Disciplina.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 107.
 
-Los arrestos que se impongan al personal en instrucción de procedencia militar de los planteles que dependen del Colegio del Aire, serán graduados por el Director del plantel correspondiente, conforme a lo establecido en la Legislación Militar; y se cumplirán a partir del momento en que se le comunique dicho correctivo disciplinario.
+Los arrestos que se impongan al personal en instrucción en calidad de externo serán graduados por el Director del plantel correspondiente, conforme a lo establecido en la legislación militar y se cumplirán a partir del momento en que se le comunique dicho correctivo disciplinario.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 108.
 
-Los Directores de los planteles que dependen del Colegio del Aire, podrán arrestar hasta por quince días al personal de cadetes y alumnos de procedencia civil en el interior del plantel correspondiente.
+Los directores de los planteles que dependen del Colegio del Aire, podrán arrestar hasta por 300 puntos de demérito al personal de alumnos y cadetes en el interior del plantel correspondiente.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 109.
 
-El personal en instrucción citado en el artículo anterior, cumplirá su arresto los sábados y domingos de franquicia y los días inhábiles de las semanas laborables que determine la dirección del plantel correspondiente.
+El personal en instrucción en calidad de interno, cumplirá su arresto los sábados y domingos de franquicia y los días inhábiles de las semanas laborables que determine la Dirección del plantel correspondiente.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 110.
 
-La graduación de arrestos impuestos al personal en instrucción de los planteles que dependen del Colegio del Aire, se contabilizará con puntos de demérito, los que sirven de base para el control y registro de su conducta; el hecho de acumular 500 (quinientos) en ciclos lectivos de más de 6 (seis) meses de duración o 300 (trescientos) en los de 6 (seis) meses o menos, será motivo de baja del plantel correspondiente, siempre y cuando determine mala conducta el Consejo de Honor respectivo.
+La graduación de arrestos impuestos al personal en instrucción de los planteles que dependen del Colegio del Aire, se contabilizará con puntos de demérito, los que sirven de base para el control y registro de su conducta; el hecho de acumular 500 (quinientos) puntos en ciclos lectivos de más de 6 (seis) meses de duración o 300 (trescientos) puntos en los de 6 (seis) meses o menos, será motivo de baja del plantel correspondiente, siempre y cuando determine mala conducta el consejo de honor respectivo.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 111.
 
-Los arrestos impuestos al personal en instrucción, se computarán con 20 puntos de demérito por cada veinticuatro horas.
+Los arrestos impuestos al personal de oficiales en instrucción se computarán con 20 puntos de demérito por cada veinticuatro horas.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 112.
 
-Los cadetes y alumnos de procedencia civil, cumplirán su arresto en las semanas laborables de la siguiente manera:
+El personal en instrucción en calidad de interno cumplirá su arresto en las semanas laborables de la manera siguiente:
 
-I. A partir de la hora de franquicia del sábado hasta las 2400 horas del mismo, 10 puntos de demérito;
+I. A partir de la hora de franquicia del sábado hasta las 0800 horas del domingo, 20 puntos de demérito;
 
-II. A partir de la hora de franquicia del sábado hasta las 1200 horas del domingo, 20 puntos de demérito;
+II. De las 0800 horas del domingo hasta la hora que termine la franquicia, 20 puntos de demérito;
 
-III. Sin disfrutar la franquicia del sábado y domingo, 30 puntos de demérito; y
+III. Sin disfrutar la franquicia del sábado y domingo, 40 puntos de demérito, y
 
-IV. Los arrestos graduados con más de 72 horas, más de 60 puntos, se cumplirán alternando dos fines de semana continuos de reclusión por uno de franquicia.
+IV. Los arrestos graduados con más de 80 puntos de demérito se cumplirán alternando dos fines de semana continuos de reclusión, por uno de franquicia.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 113.
 
-Los arrestos en días inhábiles correspondientes a semanas no laborables, se cumplirán ininterrumpidamente conforme al cómputo establecido.
+El personal en instrucción en calidad de interno cumplirá su arresto ininterrumpidamente conforme al cómputo establecido, en días inhábiles correspondientes a semanas no laborables.
 
 ###### ARTICULO 114.
 
@@ -2039,13 +2529,17 @@ La Sección de Vuelos, es el órgano encargado de elaborar, aplicar y evaluar lo
 
 La Sección de Mantenimiento y Abasteciciento (sic) de Material Aéreo y Bélico de Fuerza Aérea, es el órgano encargado del mantenimiento del material aéreo, electrónico y bélico de Fuerza Aérea, así como del abastecimiento de material aéreo de cargo en el plantel, la que estará bajo la responsabilidad de un Teniente Coronel o Mayor Especialista en Mantenimiento de Aviación o en Electrónica de Aviación, a quien se denomina Jefe de la Sección de Mantenimiento y Abastecimiento de Material Aéreo y Bélico de Fuerza Aérea.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 132.
 
-La Ayudantía General de la Escuela Militar de Aviación, está a cargo de un Mayor Piloto Aviador a quien se denomina Ayudante General.
+La Ayudantía de la Escuela Militar de Aviación, está a cargo de un Mayor Piloto Aviador a quien se denomina Ayudante.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 133.
 
-La Sección Administrativa del plantel, está a cargo de un Mayor o Capitán Primero de Fuerza Aérea Abastecedor de Material Aéreo o del Servicio de Administración, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa del plantel está a cargo de un Mayor o Capitán Primero de Fuerza Aérea Abastecedor de Material Aéreo u Oficinista, a quien se denomina Jefe de la Sección Administrativa.
 
 ## TITULO SEGUNDO.
 
@@ -2073,9 +2567,21 @@ A. Electrónica de Aviación; y
 
 B. Abastecimiento de Material Aéreo.
 
-II. Proporcionar formación militar al personal en instrucción en los aspectos: disciplinario e intelectual;
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-III. Preparar al personal en instrucción para desempeñarse como especialista en las áreas de Mantenimiento y de Abastecimiento de Material Aéreo y asesor del mando en asuntos de su competencia;
+C. Mantenimiento de Aviación, y
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Armamento Aéreo.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Proporcionar formación militar y profesional al personal en instrucción en los aspectos: disciplinario e intelectual;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Preparar al personal en instrucción para desempeñarse como especialista en las áreas de mantenimiento de material aéreo, abastecimiento de material aéreo, electrónica de aviación y armamento aéreo, así como asesorar al mando en asuntos de su especialidad;
 
 IV. Preparar al personal de Abastecimiento de Material Aéreo para desempeñarse como auxiliar de los mandos en la administración de las unidades, dependencias e instalaciones aéreas;
 
@@ -2091,43 +2597,67 @@ I. Especialistas en Electrónica de Aviación;
 
 II. Abastecimiento de Material Aéreo; y
 
-III. Otros que determine el Alto Mando del Ejército y Fuerza Aérea.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Especialistas de Mantenimiento de Aviación, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. De Armamento Aéreo.
+
+V. Otros que determine el Alto Mando del Ejército y Fuerza Aérea.
 
 ### CAPITULO III.
 
 Funciones Específicas.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 137.
 
-La Dirección, es el órgano rector de la Escuela Militar de Mantenimiento y Abastecimiento a cargo de un Coronel de Abastecimiento de Material Aéreo o Especialista en Electrónica de Aviación, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director.
+La Dirección, es el órgano rector de la Escuela Militar de Mantenimiento y Abastecimiento a cargo de un Coronel egresado del plantel, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 138.
 
-La Subdirección de la Escuela Militar de Mantenimiento y Abastecimiento, es un órgano de Dirección de la misma y está a cargo de un Teniente Coronel de Abastecimiento de Material Aéreo o Especialista en Electrónica de Aviación Diplomado de Estado Mayor Aéreo, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Subdirector.
+La Subdirección de la Escuela Militar de Mantenimiento y Abastecimiento, es un órgano de Dirección de la misma y está a cargo de un Teniente Coronel egresado del plantel, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Subdirector.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 139.
 
-El Cuerpo de Cadetes de la Escuela Militar de Mantenimiento y Abastecimiento, está a cargo de un Mayor de Abastecimiento de Material Aéreo o Especialista en Electrónica de Aviación, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Comandante del Cuerpo de Cadetes.
+El Cuerpo de Cadetes de la Escuela Militar de Mantenimiento y Abastecimiento, está a cargo de un Mayor egresado del plantel, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Comandante del Cuerpo de Cadetes.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 140.
 
-La Sección Pedagógica, es el órgano de planeación y evaluación educativa del plantel a cargo de un Teniente Coronel o Mayor de Abastecimiento de Material Aéreo o Especialista en Electrónica de Aviación Diplomado de Estado Mayor Aéreo, a quien se denomina Jefe de la Sección Pedagógica, mismo que además debe reunir cualquiera de los siguientes requisitos:
+La Sección Pedagógica es el órgano de planeación y evaluación educativa del plantel, a cargo de un Mayor o Capitán Primero egresado del plantel, a quien se denomina Jefe de la Sección Pedagógica, mismo que además debe reunir cualquiera de los requisitos siguientes:
 
 I. Tener experiencia docente;
 
 II. Tener experiencia académica.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 141.
 
-La Sección Académica, es el órgano de ejecución y materialización de los planes y programas de estudio del plantel a cargo de un Teniente Coronel o Mayor de Abastecimiento de Material Aéreo o Especialista en Electrónica de Aviación Diplomado de Estado Mayor Aéreo, a quien se denomina Jefe de la Sección Académica, mismo que además debe reunir cualquiera de los siguientes requisitos:
+La Sección Académica es el órgano de ejecución y materialización de los planes y programas de estudio del plantel a cargo de un Mayor o Capitán Primero egresado del plantel, a quien se denomina Jefe de la Sección Académica, mismo que además debe reunir cualquiera de los requisitos siguientes:
 
 I. Tener experiencia académica;
 
 II. tener experiencia docente.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+ARTICULO 141 BIS.- La Sección de Laboratorios y Talleres está a cargo de un Teniente Coronel o Mayor de Fuerza Aérea egresado del plantel a quien se denomina Jefe de la Sección de Laboratorios y Talleres.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 142.
 
-La Ayudantía General de la Escuela Militar de Mantenimiento y Abastecimiento, está a cargo de un Mayor de Abastecimiento de Material Aéreo o Especialista en Electrónica de Aviación, a quien se denomina Ayudante General.
+La Ayudantía de la Escuela Militar de Mantenimiento y Abastecimiento está a cargo de un Mayor egresado del plantel, a quien se denomina Ayudante.
 
 ###### ARTICULO 143.
 
@@ -2141,9 +2671,11 @@ De la Escuela Militar de Especialistas de Fuerza Aérea.
 
 Misión.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 144.
 
-La Escuela Militar de Especialistas de Fuerza Aérea, es un establecimiento de educación militar que tiene como misión: formar Oficiales Aerologistas y de control de vuelo, así como capacitar a los Oficiales Aerologistas como Meteorólogos, para satisfacer las necesidades de apoyo de las operaciones aéreas militares.
+La Escuela Militar de Especialistas de Fuerza Aérea es un establecimiento de educación militar, de nivel medio superior y superior, que tiene como misión: formar oficiales aerologistas y de control de vuelo, así como capacitar a los oficiales aerologistas como meteorólogos, para satisfacer las necesidades de apoyo de las operaciones aéreas militares.
 
 ### CAPITULO II.
 
@@ -2209,13 +2741,21 @@ I. Tener experiencia académica;
 
 II. Tener experiencia docente.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+ARTICULO 151 BIS.- La Sección de Laboratorios del plantel está a cargo de un Mayor de Fuerza Aérea Diplomado de Estado Mayor Aéreo egresado del plantel a quien se denomina Jefe de la Sección de Laboratorios.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 152.
 
-La Ayudantía General de la Escuela Militar de Especialistas de Fuerza Aérea, está a cargo de un Mayor de Fuerza Aérea de Servicio egresado del propio plantel, a quien se denomina Ayudante General.
+La Ayudantía de la Escuela Militar de Especialistas de Fuerza Aérea está a cargo de un Mayor de Fuerza Aérea, egresado del propio plantel, a quien se denomina Ayudante.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 153.
 
-La Sección Administrativa del plantel, está a cargo de un Mayor o Capitán Primero de Fuerza Aérea Abastecedor de Material Aéreo o del Servicio de Administración, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa del plantel está a cargo de un Mayor o Capitán Primero de Fuerza Aérea Abastecedor de Material Aéreo u Oficinista, a quien se denomina Jefe de la Sección Administrativa.
 
 ## TITULO CUARTO.
 
@@ -2285,13 +2825,17 @@ II. Tener experiencia docente.
 
 La Sección de Vuelos, es el órgano encargado de elaborar, aplicar y evaluar los programas de adiestramiento de vuelo a cargo de un Mayor Piloto Aviador, Diplomado de Estado Mayor Aéreo a quien se denomina Jefe de la Sección de Vuelos, mismo que además debe tener experiencia como instructor de vuelo.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 162.
 
-La Ayudantía General de la Escuela Militar de Aplicación Aerotáctica de la Fuerza Aérea está a cargo de un Mayor Piloto Aviador a quien se denomina Ayudante General, mismo que además de desempeñar las funciones establecidas en el artículo 46 de este Reglamento, tendrá a su cargo el control disciplinario del personal en instrucción del plantel.
+La Ayudantía de la Escuela Militar de Aplicación Aerotáctica de la Fuerza Aérea está a cargo de un Mayor de Fuerza Aérea Piloto Aviador, a quien se denomina Ayudante, mismo que además de desempeñar las funciones establecidas en el artículo 46, de este Reglamento tendrá a su cargo el control disciplinario del personal en instrucción del plantel.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 163.
 
-La Sección Administrativa del plantel, está a cargo de un Mayor o Capitán Primero de Fuerza Aérea Abastecedor de Material Aéreo o del Servicio de Administración, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa del plantel está a cargo de un Mayor o Capitán Primero de Fuerza Aérea Abastecedor de Material Aéreo u Oficinista, a quien se denomina Jefe de la Sección Administrativa.
 
 ###### ARTICULO 164.
 
@@ -2305,9 +2849,11 @@ De la Escuela Militar de Tropas Especialistas de Fuerza Aérea.
 
 Misión.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 165.
 
-La Escuela Militar de Tropas Especialistas de Fuerza Aérea, es un establecimiento de educación militar que tiene como misión: formar Oficiales y Clases del Servicio de Material Aéreo para satisfacer las necesidades del Ejército y Fuerza Aérea.
+La Escuela Militar de Tropas Especialistas de Fuerza Aérea es un establecimiento de educación militar que tiene como misión: formar Clases del Servicio de Material Aéreo para satisfacer las necesidades del Ejército y Fuerza Aérea.
 
 ### CAPITULO II.
 
@@ -2317,7 +2863,9 @@ Objetivos.
 
 La Escuela Militar de Tropas Especialistas de Fuerza Aérea tiene los siguientes objetivos:
 
-I. Formar Oficiales y Clases del Servicio de Material Aéreo;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+I. Formar Clases del Servicio de Material Aéreo;
 
 II. Proporcionar formación militar al personal en instrucción en los aspectos: disciplinario e intelectual;
 
@@ -2371,13 +2919,21 @@ I. Tener experiencia académica;
 
 II. Tener experiencia docente.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+ARTICULO 172 BIS.- La Sección de Laboratorios y Talleres está a cargo de un Mayor o Capitán de Fuerza Aérea de alguna de las especialidades que se imparten en el plantel, a quien se denomina Jefe de la Sección de Laboratorios y Talleres.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 173.
 
-La Ayudantía General de la Escuela Militar de Tropas Especialistas de Fuerza Aérea, está a cargo de un Mayor de Fuerza Aérea de alguna de las especialidades que se imparten en el plantel, a quien se denomina Ayudante General.
+La Ayudantía de la Escuela Militar de Tropas Especialistas de Fuerza Aérea está a cargo de un Mayor de Fuerza Aérea de alguna de las especialidades que se imparten en el plantel, a quien se denomina Ayudante.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 174.
 
-La Sección Administrativa del plantel, está a cargo de un Mayor o Capitán Primero de Fuerza Aérea Abastecedor de Material Aéreo o del Servicio de Administración, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa del plantel está a cargo de un Mayor o Capitán Primero de Fuerza Aérea Abastecedor de Material Aéreo u Oficinista, a quien se denomina Jefe de la Sección Administrativa.
 
 ## TRANSITORIOS.
 
@@ -2390,3 +2946,11 @@ TERCERO.- Se abroga el Reglamento de la Escuela Militar de Meteorología de 19 d
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Defensa Nacional, Antonio Riviello Bazán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+D.O.F. 22 DE JUNIO DE 2001.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
