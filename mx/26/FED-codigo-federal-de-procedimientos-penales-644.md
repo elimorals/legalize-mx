@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1994-07-22"
+last_updated: "1996-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MAYO DE 1996.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1283,11 +1283,11 @@ Las diligencias de policía judicial y las practicadas por los tribunales del or
 
 La nulidad y los recursos planteados contra las resoluciones de los tribunales comunes a que se refiere este artículo, cuando actúen en los términos de la fracción VI del artículo 1o. de la Ley Orgánica del Poder Judicial de la Federación, serán resueltos conforme a lo establecido en este Código, por el tribunal federal que corresponda.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADO, D.O.F. 9 DE ENERO DE 1991)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 146.
 
-Durante la instrucción, el tribunal que conozca del proceso deberá observar las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conductas anteriores: los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse, así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
+Durante la instrucción, el tribunal que conozca del proceso deberá tomar en cuenta las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conductas anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse; así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión, que en su conjunto demuestren la gravedad del ilícito y el grado de culpabilidad del agente.
 
 El tribunal deberá tomar conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refiere este artículo, pudiendo obrar de oficio para ese objeto.
 
@@ -1567,9 +1567,13 @@ En los casos de aborto o de infanticidio, además de las diligencias mencionadas
 
 Tratándose del delito a que se refiere la fracción II del artículo 368 del Código Penal, cuando, sin previo contrato con una empresa de energía eléctrica, de gas, o de cualquier fluido, se encuentre conectada a una instalación particular a las tuberías o líneas de la empresa respectiva, o a cualquier tubería o líneas particulares conectadas a las tuberías o líneas de dicha empresa, en la inspección que se practique, con asistencia de peritos en la materia, se harán constar estas circunstancias y se recabará el dictamen pericial que las describa y además precise la naturaleza del fluido de que se trate y cuantifique, en lo posible, la cantidad de fluido que haya sido consumido mediante la conexión de que se trate.
 
+> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 177.
 
-(DEROGADO, D.O.F. 10 DE ENERO DE 1994)
+Para la comprobación de elementos del tipo penal de los delitos relacionados con la industria petrolera nacional y con el servicio público de energía eléctrica, previstos en los artículos 185; 253 fracción I inciso i); 254 fracciones VII y VIII, 254 ter, 368 fracciones II y III del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se presumirá la propiedad federal, salvo prueba en contrario.
+
+Para el acreditamiento de la propiedad federal, no se exigirá la presentación de factura o escritura pública o la inscripción en el registro público.
 
 ###### ARTICULO 178.
 
@@ -1586,6 +1590,14 @@ Cuando tratándose de delito de ataques a las vías de comunicación, no fuere p
 ###### ARTICULO 180.
 
 Para la comprobación de los elementos del tipo penal y de la probable responsabilidad del inculpado, el Ministerio Público y los tribunales gozarán de la acción más amplia para emplear los medios de investigación que estimen conducentes según su criterio, aunque no sean de los que menciona la ley, siempre que estos medios no sean contrarios a derecho.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
+
+Los requerimientos que formule el Procurador General de la República o el servidor público en quien se delegue esta facultad, o la autoridad judicial en su caso, de información o documentos relativos al sistema financiero, se harán por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas, así como de la Comisión Nacional del Sistema de Ahorro para el Retiro, en sus respectivas competencias. Los requerimientos de información o documentos de naturaleza fiscal, por conducto de la unidad de la Secretaría de Hacienda y Crédito Público que determine el titular de dicha Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 13 DE MAYO DE 1996)</small>
+
+La información y documentos así obtenidos sólo podrán ser utilizados en la investigación y para efectos del proceso penal, debiéndose guardar la más estricta confidencialidad. Al servidor público que quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos que obran en la averiguación, se le sujetará al procedimiento de responsabilidad administrativa y penal, según corresponda.
 
 ### CAPITULO III. Atención médica a los lesionados
 
@@ -1723,9 +1735,9 @@ c) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocu
 
 La violación de esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal: homicidio por culpa grave previsto en el artículo 60 tercer párrafo; traición a la Patria previsto en los artículos 123, 124, 125, 126; espionaje previsto en los artículos 127, 128; terrorismo previsto en el artículo 139 párrafo primero; sabotaje previsto en el artículo 140 párrafo primero, así como los previstos en los artículos 142 párrafo segundo y 145; piratería previsto en los artículos 146 y 147; genocidio previsto en el artículo 149 bis; evasión de presos previsto en los artículos 150 y 152; ataques a las vías de comunicación previsto en los artículos 168 y 170; uso ilícito de instalaciones destinadas al tránsito aéreo previsto en el artículo 172 bis párrafo tercero; contra la salud previsto en los artículos 194, 195 párrafo primero, 195 bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice 1, 196 bis, 197 párrafo primero y 198 parte primera del párrafo tercero; corrupción de menores previsto en el artículo 201; trata de personas previsto en el artículo 205 segundo párrafo; explotación del cuerpo de un menor de edad por medio del comercio carnal previsto en el artículo 208; falsificación y alteración de moneda previsto en los artículos 234, 236 y 237; de violación previsto en los artículos 265, 266 y 266 bis; asalto en carreteras o caminos previstos en el artículo 286 segundo párrafo; homicidio previsto en los artículos 302 con relación al 307, 313, 315, 315 bis, 320 y 323; de secuestro previsto en el artículo 366 exceptuando los párrafos antepenúltimo y penúltimo; robo calificado previsto en el artículo 367 en relación con el 370 párrafos segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372, 381 fracciones VIII, IX y X, 381 bis y extorsión previsto en el artículo 390; así como los previstos en los artículos 83, fracción III, 83 bis, exceptuando sables, bayonetas y lanzas, y 84 de la Ley Federal de Armas de Fuego y Explosivos; tortura, previsto en los artículos 3o. y 5o. de la Ley Federal para Prevenir y Sancionar la Tortura; el de tráfico de indocumentados previsto en el artículo 138 de la Ley General de Población; y los previstos en los artículos 104 fracciones II y III, último párrafo, 105 fracción IV y 115 bis del Código Fiscal de la Federación.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal: homicidio por culpa grave, previsto en el artículo 60 tercer párrafo; traición a la Patria, previsto en los artículos 123, 124, 125 y 126; espionaje, previsto en los artículos 127 y 128; terrorismo, previsto en el artículo 139, párrafo primero; sabotaje, previsto en el artículo 140 párrafo primero, así como los previstos en los artículos 142 párrafo segundo y 145; piratería, previsto en los artículos 146 y 147; genocidio, previsto en el artículo 149 bis; evasión de presos, previsto en los artículos 150 y 152; ataques a las vías de comunicación, previsto en los artículos 168 y 170; uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el artículo 172 bis párrafo tercero; contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 bis, 197, párrafo primero y 198, parte primera del párrafo tercero; corrupción de menores, previsto en el artículo 201; trata de personas, previsto en el artículo 205, segundo párrafo; explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208; falsificación y alteración de moneda, previsto en los artículos 234, 236 y 237; de violación, previsto en los artículos 265, 266 y 266 bis; asalto en carreteras o caminos, previstos en el artículo 286, segundo párrafo; homicidio, previsto en los artículos 302 con relación al 307, 313, 315, 315 bis, 320 y 323; de secuestro, previsto en el artículo 366, exceptuando el párrafo antepenúltimo; robo calificado, previsto en el artículo 367, en relación con el 370 párrafos segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372, 381, fracciones VIII, IX, y X, 381 bis; robo, previsto en el artículo 371, párrafo último; extorsión, previsto en el artículo 390 y operaciones con recursos de procedencia ilícita, previsto en el artículo 400 bis; así como los previstos en los artículos 83, fracción III, 83 bis, exceptuando sables, bayonetas y lanzas y 84 de la Ley Federal de Armas de Fuego y Explosivos; tortura, previsto en los artículos 3o. y 5o. de la Ley Federal para Prevenir y Sancionar la Tortura; el de tráfico de indocumentados, previsto en el artículo 138 de la Ley General de Población; y los previstos en los artículos 104, fracciones II y III, último párrafo y 105 fracción IV del Código Fiscal de la Federación.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
 
@@ -4426,3 +4438,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente decreto, con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicadas las disposiciones del Código Penal para el Distrito Federal en Materia del Fuero Común y para toda la República en Materia de Fuero Federal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
 
 TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+
+D.O.F. 13 DE MAYO DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
