@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1987-01-16"
+last_updated: "1987-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -57,11 +57,13 @@ El Estado de Hidalgo, como integrante de la Federación, es libre y soberano en 
 
 La Constitución Política de los Estados Unidos Mexicanos como Ley Suprema, esta Constitución y las Leyes que de ellas emanen integran el orden jurídico del Estado de Hidalgo.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 3º.
 
-Las autoridades y los servidores públicos del Estado no tienen más facultades que las que expresamente les concedan, la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen.
+Las Autoridades y los servidores públicos del Estado no tienen más facultades que las que expresamente les concedan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las Leyes que de ellas emanen.
+
+El Estado podrá, en los términos de Ley, convenir con la federación la asunción por parte de aquél, del ejercicio de funciones de dicha federación, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -149,7 +151,7 @@ Todos los habitantes del Estado tienen derecho a la alimentación, a la salud, a
 
 Todos los habitantes de la Entidad tienen derecho a la educación que imparta el Estado, la que será democrática, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, Social y Cultural del pueblo. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, el amor a la patria, y a la conciencia de la solidaridad Social en lo Nacional y en lo Internacional, dentro de la independencia y la justicia.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 8°.
 
@@ -159,19 +161,21 @@ Todos los habitantes del Estado tienen derecho a la salud, al bienestar y a la s
 
 ###### Artículo 9º.
 
-Son obligaciones del ciudadano del Estado:
+Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
 
-I. Inscribirse en el catastro de la municipalidad, manifestando la propiedad que el mismo ciudadano tenga, la industria, profesión o trabajo de que subsista;
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las Leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando en consecuencia, prohibidas las costas judiciales.
 
-II. Inscribirse en los padrones electorales en los términos que determine la Ley;
+Las leyes locales establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
 
-III. Alistarse en la Guardia Nacional;
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
-IV. Votar en las elecciones populares en el Distrito Electoral que le corresponda, en la forma que disponga la Ley;
+Queda prohibida la pena de muerte o cualesquiera otras penas inusitadas y trascendentales.
 
-V. Desempeñar los cargos de elección popular; y
+Toda persona reducida a prisión tiene derecho a la readaptación social y a los beneficios que de ella resulten, sobre las bases del trabajo, la capacitación para el mismo, la educación y reestructuración de su personalidad inspirados en un criterio de justicia social, eliminando todo concepto de venganza colectiva, con el objeto de restablecer su dignidad.
 
-VI. Desempeñar los cargos consejiles del municipio donde resida, las funciones electorales y las de jurado.
+El Gobierno del Estado creará instituciones especiales para el tratamiento de los menores infractores.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 ###### Artículo 9°.
 
@@ -387,11 +391,11 @@ Las adiciones o supresiones a los nombres de los Municipios se podrán realizar 
 
 La soberanía del Estado, reside esencial y orginariamente (sic) en el pueblo hidalguense, quien la ejerce por medio de los Poderes constituidos en los términos de esta Ley fundamental.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 25.
 
-El Estado adopta para su régimen interior la forma de gobierno democrático, representativo y popular, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio Libre.
+El Estado adopta para su régimen interior la forma de Gobierno republicano, democrático, representativo y popular, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio libre.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -433,13 +437,11 @@ El ejercicio del Poder Legislativo se deposita en una Asamblea que se denominar�
 
 #### SECCION II. DE LA ELECCION DE DIPUTADOS E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 29.
 
-El Congreso del Estado se integra con 15 diputados de mayoría relativa electos por votación directa, secreta, relativa y uninominal en 15 distritos electorales y 5 diputados de representación proporcional, quienes como resultado de la misma elección se designarán mediante el procedimiento que la Ley de la materia establezca.
-
-Para acreditar diputados de representación proporcional, los Partidos deberán registrar candidatos a diputados por mayoría relativa, por lo menos en las dos terceras partes de los distritos electorales uninominales del Estado.
+El número de representantes en el Congreso del Estado será proporcional al de habitantes del propio Estado, el Congreso se integra con quince Diputados de mayoría relativa electos por votación directa, secreta, relativa y uninominal en quince distritos electorales cinco diputados de representación proporcional, quienes como resultado de la misma elección se designarán mediante el procedimiento que la Ley de la materia establezca.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -721,9 +723,13 @@ XX. Declarar Senadores electos a los ciudadanos que hayan obtenido la mayoría d
 
 XXI. Hacer comparecer a los servidores públicos titulares de dependencias o directores y representantes legales de Entidades de la Administración Pública del Estado, para que informen de los asuntos de su competencia;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
-XXII. Las demás que les sean concedidas por esta.
+XXII. Expedir las leyes que rijan las relaciones de trabajo entre el estado y sus trabajadores y entre los Municipios y sus respectivos trabajadores con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias; y
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+
+XXIII. Las demás que le sean concedidas por esta Constitución.
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -838,6 +844,14 @@ Para suplir las faltas temporales del Gobernador no mayores de 6 meses, el Congr
 El Gobernador del Estado, electo popular, ordinaria o extraordinariamente, en ningún caso y por ningún motivo, podrá volver a ocupar ese cargo, ni aún con el carácter de Interino, Provisional, Sustituto o Encargado del Despacho.
 
 Tampoco podrá ser electo Gobernador Constitucional, el ciudadano que hubiere sido designado Gobernador Interino, Provisional o Sustituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+
+Nunca podrán ser electos para el período inmediato:
+
+A). El gobernador sustituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación;
+
+B). El Gobernador Interino, el provisional o el ciudadano que, bajo cualesquiera denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo los dos últimos años del período.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1211,6 +1225,10 @@ II. Los Jueces del Fuero Común; y
 
 III. Los demás funcionarios y auxiliares de la administración de justicia en los términos que establezcan las Leyes y Códigos relativos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+
+Los Magistrados del Tribunal Superior de Justicia y los Jueces en el Estado tendrán independencia en el ejercicio de su función jurisdiccional. Las leyes garantizarán a dichos servidores públicos una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, así como los reconocimientos al desempeño de su función, que les aseguren el digno ejercicio de la misma, y establecerán las condiciones para su ingreso, formación y permanencia.
+
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 ###### Artículo 94.
@@ -1219,23 +1237,23 @@ El Tribunal Superior de Justicia se integrará por siete Magistrados titulares y
 
 Para el trámite de las renuncias de los Magistrados del Tribunal, se seguirá el mismo procedimiento que para su nombramiento.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 95.
 
-Para ser Magistrado se requiere:
+Para ser Magistrado del Tribunal Superior de Justicia se requiere:
 
-I. Ser hidalguense en pleno goce de sus derechos;
+I. Ser ciudadano mexicano por nacimiento e hidalguense, en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener más de treinta años de edad, pero no más de sesenta;
+II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la elección;
 
-III. Ser Licenciado en Derecho, con título debidamente registrado y acreditar, cuando menos cinco años de ejercicio profesional;
+III. Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de abogado expedido por la Autoridad o Corporación legalmente facultada para ello;
 
-IV. Tener modo honesto de vivir; y
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trate de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+V. Haber residido en el País durante los últimos cinco años, salvo el caso de ausencia en el servicio de la República por un tiempo menor de seis meses.
 
-V. No haber sido condenado por delitos dolosos, o faltas graves administrativas.
+Los nombramientos de los Magistrados serán hechos preferentemente entre aquellas personas que haya prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1251,13 +1269,13 @@ Dentro de los primeros diez días de sesiones del Congreso del Estado se deberá
 
 Si el Congreso desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Gobernador someterá nuevo nombramiento en los términos que se indican en este precepto.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 97.
 
-Los Magistrados del Tribunal Superior de Justicia serán inamovibles y sólo podrán ser privados de sus puestos en los casos señalados por esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los Magistrados durarán en el ejercicio de su encargo seis años a partir de su nombramiento; podrán ser reelectos, y si lo fueren sólo podrán ser privados de sus puestos en los términos que determina esta Constitución y la Ley de Responsabilidades de los Servicios Públicos del Estado.
 
-Obtendrá su jubilación al totalizar 60 años, sumando su edad a la antigüedad en el servicio.
+Obtendrán su jubilación al totalizar 60 años, sumando su edad a la antigüedad en el servicio.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1305,19 +1323,11 @@ XI. Resolver los conflictos que surjan entre los Ayuntamientos y la Legislatura;
 
 XII. Las demás que le confieran esta Constitución y las Leyes del fuero común.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 100.
 
-La Ley Orgánica del Poder Judicial regulará la forma de organización y funcionamiento del Tribunal Superior de Justicia, de los juzgados y demás dependientes de aquél, y determinará los requisitos indispensables para ser Juez, funcionario y empleado.
-
-El Tribunal Superior de Justicia, oyendo la opinión del Gobernador del Estado, acordará el número de jueces que deberá establecerse, su lugar de residencia y su jurisdicción territorial, conforme a lo dispuesto por la Ley Orgánica del Poder Judicial.
-
-Ningún funcionario judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
-
-El Gobernador demandará ante el Congreso del Estado, la destitución de cualesquiera de los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal Administrativo, y antte (sic) el primero, la de los jueces del orden común, por delitos, faltas y omisiones en los que incurran, previstos en esta Constitución y en las leyes de la materia.
-
-Si el Congreso del Estado o el Tribunal Superior de Justicia, respectivamente, declara justificada la petición, el funcionario acusado quedará privado, desde luego, de su puesto, independientemente de cualquier responsabilidad legal en la que hubiera incurrido, procediéndose a hacer nueva designación para cubrir la vacante.
+La Ley Orgánica del Poder Judicial regulará la forma de organización y funcionamiento del Tribunal Superior de Justicia, de los juzgados y demás Dependencias de aquel y determinará los requisitos indispensables para ser Juez y para ser servidor público en la Administración de Justicia. Los nombramientos de los jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezca por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica. Los Jueces de Primera Instancia y los demás que con cualquiera otra denominación se creen en el Estado, serán nombrados por el Tribunal Superior de Justicia.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1455,11 +1465,11 @@ Para ser Magistrado del Tribunal Fiscal Administrativo, se exigirán los mismos 
 
 El municipio es una Institución con personalidad jurídica-política, con territorio determinado, en el que se encuentra el núcleo de población, dotado de autonomía para atender a sus necesidades, para lo cual manejará su patrimonio conforme a la Ley y eligirá (sic) directamente a sus autoridades.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 116.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá autoridad alguna intermedia entre éstos y el Gobierno del Estado.
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá autoridad alguna intermedia entre éste y el Gobierno del Estado.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1543,6 +1553,10 @@ VI. Contraer compromisos económicos; y
 
 VII. Las demás que tiendan a promover el bienestar y progreso de su población.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+
+Los Municipios podrán asimismo, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan.
+
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 ###### Artículo 123.
@@ -1623,11 +1637,11 @@ Los Presupuestos de Egresos serán aprobados por los ayuntamientos con base en s
 
 El ayuntamiento es el órgano de gobierno municipal a través del cual, el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 131.
 
-Los ayuntamientos se integran con un Presidente, un Síndico Procurador, los Regidores de mayoría relativa y los Regidores de representación proporcional, en los términos que establezca la ley respectiva.
+Los Ayuntamientos se integran por un Presidente, un Síndico Procurador, los Regidores de Mayoría relativa y los Regidores de Representación Proporcional, en los términos que establezca la ley respectiva.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1673,11 +1687,11 @@ VII. Saber leer y escribir.
 
 La elección de los miembros de los Ayuntamientos será calificada por el Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 136.
 
-Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, que hubiesen estado en ejercicio, no podrán ser electos para el período inmediato como Propietarios o Suplentes; pero estos últimos si podrán serlo como Propietarios, a menos que hayan ejercido el cargo.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramientos o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de Suplentes, pero los que tengan el carácter de suplentes, si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1729,9 +1743,9 @@ Son facultades y obligaciones del Ayuntamiento:
 
 I. Cumplir y hacer cumplir las Leyes, Decretos y disposiciones federales, estatales y municipales;
 
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
-II. Expedir, de acuerdo con las bases normativas que establezca el Congreso, los Bandos de Policía y Buen Gobierno y los reglamentos, de sus respectivas jurisdicciones, y que no estén reservados a la Federación o al Estado;
+II. Expedir, de acuerdo con las bases normativas que deberán establecer el Congreso del Estado, los Bandos de Policía y Buen Gobierno y los Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que no estén reservados a la Federación o al Estado;
 
 > <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
 
@@ -1793,9 +1807,9 @@ XVI. Admitir o rechazar las renuncias de los funcionarios y empleados del Ayunta
 
 XVII. Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de tenencia de tierra urbana; otorgar licencia y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución General de la República, expedirán los reglamentos y disposiciones administrativas que fueren necesarios;
 
-> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
-XVIII. Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades Federativas formen o tiendan a formar una continuidad demográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a las leyes de la materia; y
+XVIII. Cuando dos o más centros urbanos situados en territorios municipales del Estado de Hidalgo y otra u otras entidades Federativas formen o tiendan o formar una Comunidad demográfica, el Estado y sus Municipios respectivos planearán con la Federación y el o los otros Estados y sus Municipios, y regularán en el ámbito de sus competencias, de manera conjunta y coordinada, el desarrollo de dichos centros, con apego a la Ley Federal de la materia y observando las normas vigentes en el Estado; y
 
 > <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
 
@@ -1911,7 +1925,9 @@ VII. Nombrar y remover a los Delegados, Subdelegados y demás personal administr
 
 VIII. Convocar al Ayuntamiento a sesiones conforme a la Ley Orgánica Municipal;
 
-IX. Tener bajo su mando los cuerpos de seguridad, para la observancia del orden público, con excepción de las facultades que se reservan al Gobernador del Estado;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+
+IX. Tener bajo su mando los cuerpos de seguridad pública y tránsito, salvo cuando se trate de Municipios donde residiere habitual o transitoriamente el Gobernador, donde residiere transitoriamente el Poder Ejecutivo Federal, quienes en esos casos tendrán el mando de la fuerza pública, según lo establecido en los Artículos 115, Fracción VII, de la Constitución General y 71, Fracción X, de esta Constitución;
 
 X. Solicitar la autorización de la Asamblea para ausentarse del Municipio por más de quince días;
 
@@ -2444,3 +2460,9 @@ UNICO. El presente Decreto entará (sic) en vigor al día siguiente de su public
 P.O. 16 DE ENERO DE 1987.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 1987.
+
+PRIMERO.- El presente Decreto de reformas entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los Magistrados del Tribunal Superior de Justicia que se encuentren en funciones al entrar en vigor el presente Decreto, serán inamovibles y sólo podrán ser privados de sus puestos en los casos que señalan la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado.
