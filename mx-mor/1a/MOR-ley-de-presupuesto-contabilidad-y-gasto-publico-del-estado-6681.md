@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2002-12-25"
+last_updated: "2003-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -149,11 +149,15 @@ Las dependencias y entidades deberán proporcionar, en el Estado, a la Secretar�
 
 Todas las dependencias y entidades que de sus actividades generen ingresos que con base a la legislación estatal o municipal, se consideren ingresos fiscales, deberán coordinarse con la Secretaría de Hacienda en el primer caso y con las Tesorerías Municipales en el segundo para que se incorporen en la Ley de Ingresos respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 11.
 
-Los proyectos de Presupuestos de Ingresos incluirán la expectativa de entradas de efectivo por ingresos fiscales y aquéllos que generen las entidades con relación directa al cumplimiento de su objetivo social y serán objeto de revisión y aprobación, en su caso, por el Congreso del Estado.
+Los proyectos de Presupuestos de Ingresos incluirán la expectativa de entradas de efectivo por ingresos fiscales y, las Entidades, incluirán los ingresos que generen con relación directa al cumplimiento de su objeto social, los que serán objeto de revisión por el Congreso del Estado, a través del Órgano Superior de Auditoría.
 
-Los proyectos de Presupuestos de Ingresos del Gobierno del Estado y de los Municipios y de sus respectivas Leyes de Ingresos deberán ser presentados oportunamente, a fin de poder enviar las iniciativas correspondientes a más tardar el 15 de noviembre de cada año según lo dispone el artículo 32 de la Constitución Política del Estado:
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2003)</small>
+
+Los proyectos de Presupuestos de Ingresos del Gobierno del Estado y de los Municipios, se integrarán oportunamente y se incluirán en las respectivas iniciativas de Leyes de Ingresos, las que deberán ser presentadas, a mas tardar el treinta de noviembre de cada año, al Congreso del Estado, en todo caso se estará a lo dispuesto en el artículo 32 de la Constitución Política del Estado.
 
 I.- Al Titular del Ejecutivo a través de la Secretaría de Hacienda del Estado a más tardar el 15 de octubre de cada año, los correspondientes al Gobierno del Estado y Entidades de la Administración Pública Paraestatal para ser enviados oportunamente al Congreso del Estado junto con el Presupuesto de Egresos respectivo.
 
@@ -205,7 +209,7 @@ Si éste es el caso, los Ayuntamientos entregarán a la Secretaría de Hacienda 
 
 Para la formulación de los proyectos de Presupuesto de Egresos del Gobierno del Estado y de los Municipios, las dependencias y entidades comprendidas en el mismo, elaborarán su anteproyecto con base en los programas respectivos, y los remitirán en el caso de las dependencias, directamente a la Secretaría de Hacienda o a las Tesorerías Municipales según el caso; las entidades lo harán, en su caso, por conducto de la dependencia coordinadora del sector correspondiente.
 
-La Secretaría de Hacienda y las Tesorerías Municipales enviarán anualmente a las dependencias y entidades, durante el mes de julio, un instructivo conforme al cual habrán de elaborarse los anteproyectos y en el que se señalarán las fechas de entrega respectivas. Si la información solicitada no se envía oportunamente, tanto la Secretaría como las Tesorerías elaborarán, según su propio criterio, los mencionados proyectos.
+La Secretaría de Hacienda y las Tesorerías Municipales enviarán anualmente a las dependencias y entidades, durante el mes de julio, un instructivo conforme al cual habrán de elaborarse los anteproyectos y en el que se señalarán las fechas de entrega respectivas. Si la información solicitada no se envía oportunamente, tanto la Secretaría como las Tesorerías elaborarán, según su propio criterio, los mencionados proyectos
 
 Los Poderes Legislativo y Judicial formularán sus propios anteproyectos de Presupuesto y los remitirán a la consideración del Ejecutivo del Estado a más tardar el 1o. de octubre de cada año para que, previo estudio, ordene su incorporación al proyecto de Presupuesto de Egresos del Gobierno del Estado.
 
@@ -514,3 +518,9 @@ El presente decreto iniciará su vigencia a partir del día siguiente en que se 
 ###### ARTÍCULO TERCERO.
 
 En tanto la Secretaría de Hacienda en el Poder Ejecutivo; la comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado en el Poder Legislativo; el Consejo de la Judicatura en el Poder Judicial; el Órgano de Gobierno en los Organismos del Estado y las Tesorerías Municipales en los Ayuntamientos, no aprueben y den a conocer las reglas para la comprobación del Gasto Público que ejercen, a que se refiere el párrafo primero del Artículo Veintisiete de la presente Ley, la fiscalización que efectúe el Congreso a través del Órgano Técnico de Revisión, se efectuará con los criterios que para el efecto adopte la Contaduría Mayor de Hacienda.
+
+P.O. 25 DE JUNIO DE 2003.
+
+PRIMERO.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ejecutivo para los efectos Constitucionales correspondientes.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
