@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1985-01-21"
+last_updated: "1986-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -120,11 +120,41 @@ II.- Los terrenos y aguas que sean necesarias para el derecho de vía y para el 
 
 ### CAPITULO II. Jurisdicción
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1941)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 3o.
 
-Las empresas de comunicaciones marítimas que exploten servicio público de pasajeros y carga en la fecha de la publicación de esta Ley, están obligadas a presentar a la Secretaría de Comunicaciones, para su revisión, las tarifas respectivas dentro de un plazo que no excederá de tres meses, contados a partir de la fecha misma de su publicación.
+Las vías generales de comunicación y los modos (sic) de transporte que operan en ellas quedan sujetos exclusivamente a los Poderes Federales. El Ejecutivo ejercitará sus facultades por conducto de la Secretaría de Comunicaciones y Transportes en los siguientes casos y sin perjuicio de las facultades expresas que otros ordenamientos legales concedan a otras Dependencias del Ejecutivo Federal:
+
+I.- Construcción, mejoramiento, conservación y explotación de vías generales de comunicación;
+
+II.- Inspección y vigilancia;
+
+III.- Otorgamiento, interpretación y cumplimiento de concesiones;
+
+IV.- Celebración de contratos con el Gobierno Federal;
+
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 1986)</small>
+
+V.- Declaración de abandono de trámite de las solicitudes de concesión o permiso, así como declarar la caducidad o la rescisión de las concesiones y contratos celebrados con el Gobierno Federal y modificarlos en los casos previstos en esta Ley.
+
+VI.- Otorgamiento y revocación de permisos;
+
+VII.- Epropiación (sic);
+
+VIII.- Aprobación, revisión o modificación de tarifas, circulares, horarios, tablas de distancia, clasificaciones y, en general, todos los documentos relacionados con la explotación;
+
+IX.- Registro;
+
+X.- Venta de las vías generales de comunicación y medios de transporte, así como todas las cuestiones que afecten a su propiedad;
+
+XI.- La vigilancia de los Derechos de la Nación, respecto de la situación jurídica de los bienes sujetos a reversión en los términos de esta ley o de las concesiones respectivas;
+
+XII.- Infracciones a esta ley o a sus reglamentos;
+
+XIII.- Toda cuestión de carácter administrativo relacionada con las vías generales de comunicación y medios de transporte.
+
+En los casos de las fracciones IV y V será indispensable la aprobación previa de la Secretaría de Hacienda y Crédito Público, siempre que los actos ejecutados en uso de esas facultades impliquen el gasto de fondos públicos, comprometan el crédito público o afecten bienes federales o que estén al cuidado del Gobierno.
 
 ###### ARTICULO 4o.
 
@@ -250,15 +280,23 @@ Sin embargo, la Secretaría de Comunicaciones podrá autorizar la cesión de los
 
 Los interesados en obtener concesión o permiso para construir, establecer o explotar vías generales de comunicación, elevarán solicitud a la Secretaría de Comunicaciones, de conformidad con los preceptos de esta ley y sus reglamentos, acompañándola de los estudios a que se refiere el artículo 8º.
 
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
+
 ###### ARTICULO 15.
 
-Recibida una solicitud de concesión, la Secretaría de Comunicaciones señalará al solicitante el monto de un depósito en efectivo que deberá constituir éste en el Banco de México, como garantía de que continuará los tramites necesarios para obtener la concesión. Dicho depósito será calculado en vista de la importancia de la vía proyectada. Se devolverá tan pronto como se otorgue la fianza o se constituya el depósito que garantice el cumplimiento de las obligaciones impuestas en la concesión, y se perderá si el interesado abandona la tramitación de la misma, dentro del término que previamente le fije la Secretaría de Comunicaciones para garantizar su otorgamiento.
+Recibida una solicitud de concesión la Secretaría señalará al solicitante el monto del depósito o de la fianza que deberá constituir para garantizar que se continuarán los trámites hasta que la concesión sea otorgada o negada.
 
-Constituido el depósito, se procederá a efectuar los estudios técnicos que correspondan, de acuerdo con las bases generales señaladas en el artículo 8º y si el resultado de éstos fuere favorable, la solicitud, con las modificaciones que acuerde la Secretaría, se publicará a costa del interesado, por dos veces, de diez en diez días, en el "Diario Oficial" de la Federación y en uno de los periódicos de mayor circulación, con el fin de que, durante el plazo de un mes contado a partir de la última publicación, las personas que pudieren resultar afectadas, presenten sus observaciones.
+La garantía solicitada será calculada en vista de la importancia de la vía proyectada y se devolverá tan pronto como se otorgue la fianza o se constituya el depósito que garantice el cumplimiento de las obligaciones impuestas en la concesión y si el interesado abandona la tramitación de la misma, la garantía se aplicará en favor del erario federal.
 
-Si transcurrido el plazo a que se refiere el párrafo anterior no se presentan objeciones o si las que se presenten no fueren de tomarse en cuenta, se otorgará la concesión con las modificaciones de carácter técnico o jurídico que se estimen pertinentes.
+Procede la declaración de abandono de trámite, cuando el interesado no cumpla con cualquiera de los requisitos técnicos, jurídicos o administrativos dentro del plazo que señale la Secretaría de Comunicaciones y Transportes. Para tal efecto se seguirá el procedimiento a que alude el artículo 34 de esta Ley.
 
-Si se otorga la concesión, la Secretaría de Comunicaciones ordenará que a costa del interesado se publique aquélla en el "Diario Oficial" de la Federación y en uno de los periódicos de mayor circulación, con la exposición de los fundamentos que se hayan tenido para otorgarla y el programa a que habrá de sujetarse la construcción o explotación de la vía concesionaria, de acuerdo con las bases que establece el artículo 8º.
+En todo caso, el plazo real para el cumplimiento de la totalidad de los requisitos citados en el párrafo precedente, será de un año; sin embargo, a juicio de la Secretaría, dicho plazo podrá prorrogarse si existen causas que así lo ameriten.
+
+Constituida la garantía de trámites se procederá a efectuar los estudios técnicos que correspondan de acuerdo con las bases generales señaladas en el artículo 8o., y si el resultado de éstos fuera favorable, la solicitud, con las modificaciones que acuerde la Secretaría, se publicará a costa del interesado, por dos veces, de diez días en diez días, en el Diario Oficial de la Federación y en uno de los periódicos de mayor circulación, con el fin de que, durante el plazo de un mes contando a partir de la última publicación, las personas que pudieren resultar afectadas presenten sus observaciones.
+
+Si transcurrido el plazo a que se refiere el párrafo anterior no se presentan objeciones, o si las que se presentan no fueren de tomarse en cuenta, se podrá otorgar la concesión con las modificaciones de carácter técnico o jurídico que se estimen pertinentes, previo cumplimiento de los requisitos técnicos, administrativos y legales que señale la Secretaría.
+
+Otorgada la concesión, la Secretaría de Comunicaciones ordenará, si lo considera necesario, que a costa del interesado se publique aquélla en el Diario Oficial de la Federación con la exposición de los fundamentos que se hayan tenido para otorgarla y el programa a que habrá de sujetarse la construcción o explotación de la vía concesionada, de acuerdo con las bases que establece el artículo 8o.
 
 ###### ARTICULO 16.
 
@@ -590,7 +628,7 @@ V.- Las tarifas estarán en vigor durante el período que las mismas indiquen. S
 
 Todas las tarifas, ya sea que señalen o no el término de su vigencia, estarán sujetas a ser revisadas, modificadas o canceladas, en los términos que ordene la Secretaría de Comunicaciones de conformidad con esta ley y su reglamento.
 
-VI.- Las clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
+VI.- La clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
 
 ###### ARTICULO 56.
 
@@ -5182,9 +5220,9 @@ Los permisionarios y trabajadores que en la fecha de publicación de esta Ley es
 
 Se concede un plazo de seis meses a partir de la publicación de esta Ley, para que las personas o empresas que estén obligadas a ello, soliciten de la Secretaría de Comunicaciones las concesiones o permisos a que se refiere el artículo 9º fracción V de la presente Ley.
 
-###### ARTICULO 3º.
+###### ARTICULO 3o.
 
-Los permisos para maniobras de servicio particular que se hayan otorgado con anterioridad, continuarán en vigor; pero sus titulares deberán solicitar a la Secretaría de Comunicaciones y Obras Públicas, la regularización de los mismos permisos, dentro de un plazo de noventa días.
+Las empresas de comunicaciones marítimas que exploten servicio público de pasajeros y carga en la fecha de la publicación de esta Ley, están obligadas a presentar a la Secretaría de Comunicaciones, para su revisión, las tarifas respectivas dentro de un plazo que no excederá de tres meses, contados a partir de la fecha misma de su publicación.
 
 ###### ARTICULO 4o.
 
@@ -5320,38 +5358,6 @@ Continuarán aplicándose a las comunicaciones aeronáuticas las demás disposic
 
 Se concede un plazo de tres meses, a partir de la fecha en que entre en vigor este Decreto, para que las aeronaves de Estado que carezcan de marcas de nacionalidad o que ostenten como marca de nacionalidad la sigla XB, soliciten de la Secretaría de Comunicaciones el cambio de dicha marca a la que se previene este Decreto.
 
-###### ARTICULO 3.
-
-Las Vías Generales de Comunicació (sic) y los medios de transporte que operen en ellas, quedan sujetos exclusivamente a los Poderes Federales. El Ejecutivo ejercitará sus facultades por conducto de la Secretaría de Comunicaciones y Obras Públicas, en los siguientes casos y sin perjuicio de lo que establece la Ley de Secretarías de Estado y Departamento Autónomos, o de las facultades expresas que otros ordenamientos legales, concedan a la de la Economía Nacional.
-
-I.- Construcción, mejoramiento, conservación y explotación de vías generales de comunicación;
-
-II.- Inspección y vigilancia;
-
-III.- Otorgamiento, interpretación y cumplimiento de concesiones;
-
-IV.- Celebración de contratos con el Gobierno Federal;
-
-V:- Caducidad, rescisión y modificación de concesiones y contratos celebrados con el Gobierno Federal;
-
-VI.- Otorgamiento y revocación de permisos;
-
-VII.- Epropiación (sic);
-
-VIII.- Aprobación, revisión o modificación de tarifas, circulares, horarios, tablas de distancia, clasificaciones y, en general, todos los documentos relacionados con la explotación;
-
-IX.- Registro;
-
-X.- Venta de las vías generales de comunicación y medios de transporte, así como todas las cuestiones que afecten a su propiedad;
-
-XI.- La vigilancia de los Derechos de la Nación, respecto de la situación jurídica de los bienes sujetos a reversión en los términos de esta ley o de las concesiones respectivas;
-
-XII.- Infracciones a esta ley o a sus reglamentos;
-
-XIII.- Toda cuestión de carácter administrativo relacionada con las vías generales de comunicación y medios de transporte.
-
-En los casos de las fracciones IV y V será indispensable la aprobación previa de la Secretaría de Hacienda y Crédito Público, siempre que los actos ejecutados en uso de esas facultades impliquen el gasto de fondos públicos, comprometan el crédito público o afecten bienes federales o que estén al cuidado del Gobierno.
-
 ###### ARTICULO 4.
 
 Se concede un plazo de seis meses a partir de la fecha en que entre en vigor este Decreto:
@@ -5387,6 +5393,10 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el "Di
 ###### ARTICULO 2º.
 
 Las organizaciones de trabajadores maniobristas que actualmente están prestando el servicio público de maniobras, continuarán desempeñando ese servicio en las mismas condiciones en que han venido haciéndolo, hasta en tanto se constituyan en sus respectivas localidades las empresas de maniobras con arreglo a este decreto, para lo cual se concede un término de noventa días, contados a partir de la fecha de la vigencia del mismo. Si a la expiración de este término no se hubieren constituído las empresas mencionadas, las organizaciones de trabajadores maniobristas titulares de los permisos respectivos en las localidades donde esto acontezca, deberán continuar prestando el servicio.
+
+###### ARTICULO 3º.
+
+Los permisos para maniobras de servicio particular que se hayan otorgado con anterioridad, continuarán en vigor; pero sus titulares deberán solicitar a la Secretaría de Comunicaciones y Obras Públicas, la regularización de los mismos permisos, dentro de un plazo de noventa días.
 
 ###### ARTICULO 4º.
 
@@ -5477,3 +5487,13 @@ Este decreto entrará en vigor al día siguiente de su publicación en el Diario
 ###### ARTICULO SEGUNDO.
 
 Mientras se expiden los reglamentos relativos a los artículos 11 y 127 que se reforman, seguirán aplicándose las disposiciones administrativas que se hubieren expedido en relación con dichos preceptos.
+
+D.O.F. 13 DE ENERO DE 1986.
+
+PRIMERO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para la fijación del monto de las sanciones pecuniarias que resulten aplicables según el Capítulo Unico, Libro Séptimo, de la Ley de Vías Generales de Comunicación, los importes mínimos y máximos establecidos se convertirán a días de salario mínimo general vigente en el Distrito Federal, Area Metropolitana, a razón de un día por cada diez pesos, tomando en cuenta la fecha en que se cometió la infracción, excepción hecha de las sanciones previstas en los artículos 535 y 537.
+
+Tratándose de las infracciones a que se refieren el artículo 535 y los párrafos primero y segundo del artículo 537, por las primeras infracciones se aplicará una multa de veinte días de salario mínimo y por las segundas infracciones, la multa será de cuarenta días de salario mínimo.
+
+En todo caso, la sanción se aplicará tomando en consideración la gravedad de la infracción y capacidad económica del infractor.
