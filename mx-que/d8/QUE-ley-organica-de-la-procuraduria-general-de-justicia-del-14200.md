@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-procuraduria-general-de-justicia-del-14200"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-23"
-last_updated: "1995-11-23"
+last_updated: "2000-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
+LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DEL 2000.
+
+Ley Orgánica de la Procuraduría General de Justicia del Estado de Querétaro.
 
 Ley Publicada en el Periódico Oficial del Estado "La Sombra de Arteaga", el 23 de noviembre de 1995.
 
@@ -62,6 +64,10 @@ V. Cuidar la correcta aplicación de las medidas de política criminal, en la es
 VI. Vigilar el cumplimiento de las determinaciones de la autoridad judicial, y
 
 VII. Coadyuvar en la prevención de los delitos del orden común que sean de la competencia de los Tribunales del Estado.
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2000)</small>
+
+VIII.- Ofrecer y llevar previa aceptación del ofendido la conciliación entre éste y el imputado, tratándose de delitos perseguibles por querella, después de presentada ésta y hasta antes del ejercicio de la acción penal, en su caso.
 
 ###### ARTICULO 4.
 
@@ -449,7 +455,7 @@ Corresponde a la Dirección de Control de Procesos:
 
 I. Vigilar la secuela del procedimiento y control del estado en que se encuentren los procesos que se instruyan en los Tribunales del Estado, a fin de que se cumplan los términos procesales, pudiendo intervenir en auxilio de los Agentes del Ministerio Público Adscritos a los Juzgados Penales con el personal necesario, cuando así lo acuerde el Procurador.
 
-II. Recabar copias de las actas que se levanten en las Agencias del Ministerio Público del Estado, de las consignaciones, archivos, incompetencias y de los exhortos enviados a otras autoridades; de las periciales; de los autos dictados por los jueces penales del Estado; de las promociones de los Agentes del Ministerio Público Adscritos; de las conclusiones, desistimiento de acción penal, sobreseimientos, expresión de motivos de inconformidad, resoluciones de Primera y Segunda Instancia y de todas aquellas actuaciones que tengan trascendencias en el proceso penal y de parte del cumplimiento de las órdenes de aprehensión.
+II. Recabar copias de las actas que se levanten en las Agencias del Ministerio Público del Estado, de las consignaciones, archivos, incompetencias y de los exhortos enviados a otras autoridades; de las periciales; de los autos dictados por los jueces penales del Estado; de las promociones de los Agentes del Ministerio Público Adscritos; de las conclusiones, desistimiento de acción penal, sobreseimientos, expresión de motivos de inconformidad, resoluciones de Primera y Segunda Instancia y de todas aquellas actuaciones que tengan trascendencia en el proceso penal y de parte del cumplimiento de las órdenes de aprehensión.
 
 III. Expedir a las autoridades respectivas copia certificada de los documentos enumerados en la fracción anterior, por medio de los Agentes del Ministerio Público adscritos a los juzgados y Tribunales, cuando por extravío del expediente se haga necesaria la reposición del procedimiento;
 
@@ -639,11 +645,17 @@ La participación en las tareas docentes que desarrolle el Instituto Técnico de
 
 AGENTES DEL MINISTERIO PUBLICO.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE AGOSTO DEL 2000)</small>
+
 ###### ARTICULO 51.
 
-Son facultades y obligaciones de los Agentes del Ministerio Público.
+Son facultades y obligaciones de los Agentes del Ministerio Público:
 
-I. En el Ejercicio de sus funciones concurrir en el turno que le corresponda, en su área de trabajo para recibir y tramitar en forma pronta y expedita, las denuncias o querellas que les sean presentadas, proveyendo lo que sea necesario para cumplir debidamente la función ministerial.
+> <small>(REFORMADA, P.O. EL 25 DE AGOSTO DEL 2000)</small>
+
+I. En el Ejercicio de sus funciones concurrir en el turno que le corresponda en su área de trabajo para recibir y tramitar en forma pronta y expedita las denuncias o querellas que les sean presentadas, debiendo procurar la conciliación entre el ofendido y el imputado en el caso de las segundas, proveyendo lo que sea necesario para cumplir debidamente la función ministerial.
+
+En las averiguaciones iniciadas por delitos perseguibles por querella, y hasta antes de ejercitarse, en su caso, la acción penal, el Agente del Ministerio Público deberá poner a consideración del ofendido la posibilidad de llevar a cabo su conciliación con el imputado y si aquel aceptare por escrito, se dictarán las providencia necesarias para propiciar un acuerdo conciliatorio. De presentarse ambas partes para el posible acuerdo conciliatorio, se les exhortará para que procuren llegar al mismo, explicándoles sobre las consecuencias legales respecto de la averiguación previa en que se actúa, se les escuchará y se procederá a levantar el acta correspondiente. No será impedimento para ejercitar la acción penal el que se encuentre pendiente la conciliación.
 
 II. Determinar el ejercicio de la acción penal cuando estime que estén acreditados los requisitos del artículo 16 constitucional, solicitando la orden de aprehensión o comparecencia según proceda, actuando como Agente del Ministerio Público Investigador o Adscrito ante los Tribunales.
 
@@ -768,3 +780,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 ALEJANDRO ESPINOSA MEDINA
 
 SECRETARIO DE GOBIERNO
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P O. 25 DE AGOSTO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en la presente ley.
