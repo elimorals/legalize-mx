@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-de-proteccion-ciudadana-del-estado-2804"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-01"
-last_updated: "2000-07-24"
+last_updated: "2001-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA PROCURADURIA DE PROTECCION CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 1 de mayo de 1994.
 
@@ -77,7 +77,9 @@ La Procuraduría de Protección Ciudadana estará integrada de un Procurador, un
 
 La Procuraduría de Protección Ciudadana, para el mejor desempeño de sus responsabilidades, contará con un Consejo.
 
-###### ARTICULO 7o.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2001)</small>
+
+###### ARTICULO 7.
 
 La Procuraduría de Protección Ciudadana tendrá las siguientes atribuciones:
 
@@ -87,33 +89,31 @@ II.- Conocer e investigar a petición de parte o de oficio, presuntas violacione
 
 a).- Por actos u omisiones de autoridades administrativas de carácter estatal.
 
-b).- Cuando los particulares o algún otro agente social cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos, particularmente tratándose de conductas que afecten la integridad física y moral de las personas.
+b).- Cuando los particulares o algún otro agente social cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien . cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos. particularmente tratándose de conductas que afecten la integridad física y moral de las personas.
 
 III.- Formular recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
 
 IV.- Procurar la conciliación entre los quejosos y las autoridades señaladas como responsables, así como la inmediata solución de un conflicto planteado, cuando la naturaleza del caso lo permita.
 
-V.- Supervisar que las condiciones de las personas privadas de su libertad que se encuentren en los separos de la Policía Judicial y Seguridad Pública, estén apegadas a derechos y se garantice la plena vigencia de sus derechos humanos, pudiendo solicitar el reconocimiento médico de detenidos cuando se presuman malos tratos o torturas, y exigir su presentación ante el personal de la Procuraduría de Protección Ciudadana, conforme a lo establecido en el Capítulo II Título Tercero de esta Ley.
+V.- Supervisar que las condiciones de las personas privadas de su libertad que se encuentren en los separos de la Policía Ministerial y Seguridad Pública, estén apegadas a derechos y se garantice la plena vigencia de sus derechos humanos, pudiendo solicitar el reconocimiento médico de detenidos cuando se presuman malos tratos o torturas, y exigir su presentación ante el personal de la Procuraduría de Protección Ciudadana, conforme a lo establecido en el Capítulo II Título Tercero de esta Ley.
 
 VI.- Supervisar el respeto de los derechos humanos en el sistema penitenciario y readaptación social del Estado.
 
-VII.- Formular recomendaciones y opiniones a los servidores públicos relativos a las disposiciones legales y procedimientos vigentes que contribuyan a un mejor servicio.
+VI.- Formular recomendaciones y opiniones a los servidores públicos relativos a las disposiciones legales y procedimientos vigentes que contribuyan a un mejor servicio.
 
-VIII.- Formular programas y proponer acciones en coordinación con las dependencias competentes que impulsen el cumplimiento de los tratados, convenciones y acuerdos internacionales asignados y ratificados por México en materia de derechos humanos.
+VIII.- Formular programas y proponer acciones en coordinación con las dependencias competentes es que impulsen el cumplimiento de los tratados, y convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos.
 
 IX.- Certificar los hechos en que intervengan su personal en el ejercicio de sus funciones.
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 1998)</small>
+X.- Mantener informados, mediante comunicaciones periódicas, a los superiores jerárquicos de las dependencias de la Administración Pública Estatal y Municipal, sobre las quejas recibidas y las investigaciones realizadas, así como de sus recomendaciones y solicitudes de sanción a servidores públicos, principalmente de aquellas que hayan sido desatendidas por el superior inmediato del infractor, de estas comunicaciones remitirá copia del titular del Ejecutivo del Estado y al Congreso del Estado.
 
-X.- Mantener informados, mediante comunicaciones periódicas, a los superiores jerárquicos de las dependencias de la Administración Pública Estatal y Municipal, sobre las quejas recibidas y las investigaciones realizadas, así como de sus recomendaciones y solicitudes de sanción a servidores públicos, principalmente de aquéllas que hayan sido desatendidas por el superior inmediato del infractor, de estas comunicaciones remitirá copia al titular del Ejecutivo del Estado y al Congreso del Estado.
-
-XI.- Coordinar las defensorías de oficio de nuestro Estado, con el objeto de defender a los acusados y procesados por delitos del orden común.
+XI.- Coordinar las defensorías de oficio de nuestro de Estado, con el objeto de defender a los acusados y procesados por delitos del orden común.
 
 XII.- Promover el estudio, la enseñanza y divulgación de los derechos humanos en el ámbito del Estado.
 
 XIII.- Elaborar y ejecutar programas preventivos en materia de derechos humanos.
 
-XIV.- Expedir su Reglamento Interno.
+XIV.- -Expedir su Reglamento Interno.
 
 XV.- En el mes de diciembre de cada año, rendir informe de actividades ante el Congreso del Estado, y el titular del Poder Ejecutivo del Estado, en el que dará a conocer el balance de su ejercicio.
 
@@ -621,9 +621,11 @@ V.- Llevar los libros de registro de los asuntos que se le han encomendado y en 
 
 VI.- Asistir diariamente a las Agencias del Ministerio Público o a los Juzgados Penales de su adscripción y a sus propias oficinas a fin de cumplir con las obligaciones inherentes a su cargo.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2001)</small>
+
 ###### ARTICULO 72.
 
-Los Defensores de Oficio adscritos al área de Averiguaciones Previas y Policía Judicial del Estado, realizarán de manera prioritaria las siguientes funciones:
+Los Defensores de Oficio adscritos al área de Averiguaciones Previas y Policía Ministerial del Estado, realizarán de manera prioritaria las siguientes funciones:
 
 I.- Atender las solicitudes de Defensoría de Oficio que le sean requeridas por el indiciado o por el infractor, así como por las que la Ley les señala.
 
@@ -637,7 +639,7 @@ V.- Señalar en las actuaciones los lineamientos legales adecuados que conduzcan
 
 VI.- Solicitar al Ministerio Público del conocimiento el no ejercicio de la acción penal contra su defenso, cuando no existan datos suficientes para su consignación.
 
-VII.- Vigilar que sean respetadas las garantías individuales de su representado, primordialmente para que no se cometa en él detenciones arbitrarias e ilegales por parte de Ministerio Público o de cualquiera otras autoridades administrativas, sin que medie alguna orden de aprehensión de Juez competente o la flagrancia a que se refiere el Artículo 16 Constitucional, en cuyo caso deberá de informar de inmediato al Procurador de Protección Ciudadana, para que éste interponga como medio de defensa el recurso extraordinario de Habeas Corpus establecido en esta Ley.
+VII.- Vigilar que sean respetadas las garantías individuales de su representado, primordialmente para que no se cometa en él detenciones arbitrarias e ilegales por parte de Ministerio Publico o de cualquiera otras autoridades administrativas, sin que medie alguna orden de aprehensión de Juez competente o la flagrancia a que se refiere el Artículo 16 Constitucional, en cuyo caso deberá de informar de inmediato al Procurador de Protección Ciudadana, para que éste interponga como medio de defensa el recurso extraordinario de Habeas Corpus establecido en esta Ley.
 
 ## TITULO SEXTO. DEL REGIMEN LABORAL
 
@@ -732,3 +734,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 24 DE JULIO DE 2000.
 
 UNICO.- EL Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente.
