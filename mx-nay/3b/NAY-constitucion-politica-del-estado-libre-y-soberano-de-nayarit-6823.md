@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1982-01-09"
+last_updated: "1983-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1983.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -303,9 +303,9 @@ Para ser Diputado se requiere:
 
 I. Ser mexicano por nacimiento.
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1972)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 1983)</small>
 
-II. Tener 21 años de edad, cumplidos el día de la elección.
+II. Tener 18 años cumplidos al día de la elección.
 
 III. Ser originario del Estado o tener residencia efectiva no menor de 5 años inmediatamente anteriores al día de la elección en el Distrito que vaya a representar.
 
@@ -1383,11 +1383,11 @@ P.O. 12 DE DICIEMBRE DE 1929.
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
-P.O. 5 DE ENERO DE 1930.
+P.O. 5 DE ENERO DE 1930
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
-P.O. 6 DE FEBRERO DE 1930.
+P.O. 6 DE FEBRERO DE 1930
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
@@ -1461,7 +1461,7 @@ P.O. 24 DE AGOSTO DE 1938.
 
 UNICO.- El presente Decreto surte sus efectos desde la fecha de su publicación, en el Periódico Oficial del Estado, y deroga todas las disposiciones que se opongan a su cumplimiento.
 
-P.O. 7 DE ENERO DE 1939.
+P.O. 7 DE ENERO DE 1939
 
 UNICO.- El presente Decreto surte sus efectos a partir del día primero de enero de mil novecientos treinta y nueve.
 
@@ -1640,3 +1640,7 @@ P.O. 9 DE ENERO DE 1982.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JUNIO DE 1983.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
