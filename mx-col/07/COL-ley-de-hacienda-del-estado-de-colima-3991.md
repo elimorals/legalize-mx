@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "1995-05-27"
+last_updated: "1995-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1995.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -551,13 +551,13 @@ V.- Por expedición de constancias, por cada una 1.000
 
 VI.- Por la expedición de permisos provisionales:
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1995)</small>
 
 a).- Para manejar vehículos, por el primer permiso de 6 meses 1.600
 
 1.- Por cada permiso subsiguiente, por el mismo concepto 3.200
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1995)</small>
 
 b).- Para circular sin placas, por el primer permiso de 30 días 1.600
 
@@ -841,7 +841,7 @@ t).- Impresión de informes a solicitud del interesado por hoja 1.080
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO VIII. Servicios Prestados en el Poder Judicial
+### CAPITULO IX. Otros Derechos
 
 ###### Artículo 53.
 
@@ -1081,7 +1081,7 @@ VI.- Por modificar registros manifestados erróneamente, a solicitud del interes
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO IX. Otros Derechos
+### CAPITULO VIII. Servicios Prestados en el Poder Judicial
 
 ###### Artículo 55.
 
@@ -2221,7 +2221,7 @@ HIPOSPADIAS 10.580 16.430 22.270
 
 17518 VALVAS (sic) POSTE
 
-(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO UNICO
 
@@ -2245,15 +2245,13 @@ II.- Expedición de copias certificadas:
 
 a).- Por la primera hoja 0.674
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1995)</small>
 
 b).- Por cada hoja más o fracción 0.135
 
 III.- Registro y diligencia de exhortos 0.720
 
 IV.- Copias certificadas de Sentencia de Divorcio 1.350
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### Artículo 64.
 
@@ -2284,6 +2282,8 @@ a).- Por la primera hoja 1.000
 b).- Por cada hoja más o fracción 0.270
 
 II.- Por los servicios de vigilancia e inspección, los contratistas con quienes celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente a 1.5 al millar sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias que efectúen los pagos correspondientes
+
+(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 ## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION Y DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -2464,3 +2464,7 @@ UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1995 previ
 P.O. 27 DE MAYO DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
