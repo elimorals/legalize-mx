@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "2002-08-20"
+last_updated: "2002-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -113,19 +113,35 @@ III. Días de veinticuatro horas; y
 
 IV. Horas de momento a momento.
 
-## Título Segundo. Derechos y Obligaciones Político-Electorales de los Ciudadanos
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE OCTUBRE DE 2002)</small>
+
+## Título Segundo. Prerrogativas, Derechos y Obligaciones Político Electorales de los Ciudadanos
 
 ### Capítulo I
 
-#### Sección Primera. De los Derechos
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE OCTUBRE DE 2002)</small>
+
+#### Sección Primera. De las Prerrogativas
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
 
 ###### Artículo 7.
 
-El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los Poderes Legislativo y Ejecutivo, de los gobiernos municipales y para la participación en los procesos de plebiscito y de referéndum.
+Son prerrogativas de los ciudadanos:
 
-Votar en las elecciones y en los procesos de plebiscito y de referéndum, constituye un derecho y una obligación ciudadana.
+(F. DE E., P.O. 19 DE JULIO DE 2003) (F. DE E., P.O. 16 DE AGOSTO DE 2003)
 
-El voto es universal, libre, secreto, directo, personal e intransferible.
+I. Votar en las elecciones populares, así como en los procesos de plebiscito y referéndum;
+
+El voto es la expresión de la voluntad popular para la elección de los integrantes de los Poderes Legislativo y Ejecutivo, de los gobiernos municipales y para la participación en los procesos de plebiscito y de referéndum. El voto es universal, libre, secreto, directo, personal e intransferible, constituye un derecho y una obligación ciudadana;
+
+II. Ser votado en toda elección popular, siempre que el individuo reúna los requisitos que determinen la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y sus respectivas leyes reglamentarias y no esté comprendido en alguna de las causas de inelegibilidad establecidas por las mismas;
+
+III. Desempeñar preferentemente cualquier empleo del Estado, cuando el individuo tenga las condiciones que la ley exija para cada caso;
+
+IV. Afiliarse individual y libremente, al partido político de su preferencia; y
+
+V. Participar activamente en las actividades político electorales en igualdad de condiciones, siendo garantizado este derecho por la ley.
 
 ###### Artículo 8.
 
@@ -393,11 +409,11 @@ III. Votación Efectiva, la resultante de deducir de la votación válida, los v
 
 El Poder Legislativo del Estado Libre y Soberano de Jalisco, se deposita en el Congreso del Estado, que es una Asamblea integrada por cuarenta diputados electos en forma directa, cada tres años, de conformidad con lo dispuesto por la Constitución Política de la entidad y el procedimiento previsto en el presente capítulo.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
 
 ###### Artículo 27.
 
-De los cuarenta diputados que integran el Congreso del Estado, veinte se elegirán por el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y veinte serán electos según el principio de representación proporcional. Estos últimos se asignarán de acuerdo a las listas de representación proporcional que registren los partidos y la de porcentajes mayores de los candidatos de cada partido político no electo bajo el principio de mayoría relativa.
+De los cuarenta diputados que integran el Congreso del Estado, veinte se elegirán por el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y veinte serán electos según el principio de representación proporcional. Estos últimos se asignarán de acuerdo a las listas de representación proporcional que registren los partidos y la de porcentajes mayores de la votación válida distrital de los candidatos de cada partido político no electo bajo el principio de mayoría relativa.
 
 ###### Artículo 28.
 
@@ -407,23 +423,21 @@ Para la configuración de los veinte distritos electorales uninominales, se toma
 
 En caso de falta temporal o absoluta de los diputados electos por el principio de mayoría relativa, el Congreso del Estado llamará a cubrirla al suplente de su fórmula. De no ser factible y si procede, deberá convocarse a elecciones extraordinarias en los términos de esta ley.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
 
 ###### Artículo 30.
 
-La elección de diputados por el principio de representación proporcional, se verificará con base a la lista que para tal efecto presenten los partidos políticos para la circunscripción plurinominal y a la modalidad de porcentajes mayores.
+La elección de diputados por el principio de representación proporcional, se verificará con base a la lista que para tal efecto presenten los partidos políticos para la circunscripción plurinominal y a la modalidad de porcentajes mayores de la votación válida distrital.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2001)</small>
-
-Los partidos políticos deberán presentar una lista de candidatos ordenada en forma progresiva de veinte diputados a elegir por la modalidad de lista de representación proporcional.
+Los partidos políticos deberán presentar una lista de candidatos ordenada en forma progresiva de veinte diputados a elegir por la modalidad de lista de representación proporcional. Las solicitudes de registro de representación proporcional que presenten los partidos o coaliciones, ante el Consejo Estatal Electoral, se integrarán con un máximo de setenta por ciento de candidatos de un solo sexo y garantizando la inclusión de un candidato del sexo distinto en cada tres lugares de la lista, hasta lograr el porcentaje mínimo del treinta por ciento del total, a partir del cual el orden se decidirá libremente por cada partido.
 
 El Consejo Electoral del Estado, al aplicar la fórmula electoral que se define en este ordenamiento, asignará a los partidos políticos el número de diputados por el principio de representación proporcional que les corresponda de acuerdo con la votación obtenida.
 
-Los diputados que les correspondan a cada partido conforme al principio de representación proporcional les serán asignados alternativamente entre los candidatos registrados en la lista de representación proporcional y los que procedan según la modalidad de porcentajes mayores, iniciando por la primera.
+Los diputados que les correspondan a cada partido conforme al principio de representación proporcional les serán asignados alternativamente entre los candidatos registrados en la lista de representación proporcional y los que procedan según la modalidad de porcentajes mayores de votación válida distrital, iniciando por la primera.
 
-La asignación de diputados por la modalidad de lista de representación proporcional seguirá el orden de prelación establecido por los partidos. La asignación mediante la modalidad de porcentajes mayores se realizará entre los candidatos que no hubieren sido electos en la elección de diputados por el principio de mayoría relativa; en este caso, la asignación procederá de acuerdo a la lista que se elabore en forma descendente a favor de quienes hubieren obtenido el mayor porcentaje de votación válida con relación a los demás candidatos de su propio partido.
+La asignación de diputados por la modalidad de lista de representación proporcional seguirá el orden de prelación establecido por los partidos. La asignación mediante la modalidad de porcentajes mayores de votación válida distrital se realizará entre los candidatos que no hubieren sido electos en la elección de diputados por el principio de mayoría relativa; en este caso, la asignación procederá de acuerdo a la lista que se elabore en forma descendente a favor de quienes hubieren obtenido el mayor porcentaje de votación válida distrital con relación a los demás candidatos de su propio partido.
 
-Para suplir a los diputados electos por la modalidad de lista de representación proporcional y de porcentajes mayores, el Congreso del Estado mandará llamar al siguiente de la lista correspondiente, siempre que reúna los requisitos de elegibilidad que contemplen la Constitución Política del Estado de Jalisco y esta ley.
+Para suplir a los diputados electos por la modalidad de lista de representación proporcional y de porcentajes mayores, el Congreso del Estado mandará llamar al siguiente de la lista única que establezca el Consejo Electoral misma que será integrada con los diputados electos de representación proporcional y de mayor porcentaje de votación válida distrital, siempre que reúna los requisitos de elegibilidad que contemplen la Constitución Política del Estado de Jalisco y esta ley.
 
 ### Capítulo III
 
@@ -495,7 +509,9 @@ La elección del Gobernador será directa, en la forma que dispone esta ley, su 
 
 Los ayuntamientos de cada municipio del Estado se integrarán por un Presidente Municipal, un Síndico y el número de regidores de mayoría relativa y de representación proporcional que se señalan en el presente capítulo. Para los efectos de esta ley, se entenderá que todos los integrantes del ayuntamiento tienen el carácter de regidores, munícipes o ediles.
 
-Los partidos políticos deberán registrar una planilla de candidatos ordenada en forma progresiva, que contenga el número de regidores propietarios a elegir por el principio de mayoría relativa, con sus respectivos suplentes.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+
+Los partidos políticos deberán registrar una planilla de candidatos ordenada en forma progresiva, que contenga el número de regidores propietarios a elegir por el principio de mayoría relativa, iniciando con el Presidente, Regidores y terminando con el Síndico; con sus respectivos suplentes. La integración de los suplentes en las planillas que presenten los partidos se integrarán con el mismo número de candidatos de un mismo sexo que señala el artículo 42 de esta Ley.
 
 Los regidores integrantes de los ayuntamientos, con independencia del principio de votación por el que fueron electos, tendrán los mismos derechos y obligaciones.
 
@@ -541,19 +557,19 @@ I. Obtenido el cociente natural, se asignarán a cada partido político tantas r
 
 II. Si después de aplicarse el cociente natural, quedaren regidurías por asignar, éstas se distribuirán por el método del resto mayor, siguiendo el orden decreciente de los restos de los votos no utilizados por cada uno de los partidos políticos, incluyéndose aquellos partidos políticos que no alcanzaron participación por el cociente natural.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
 
 ###### Artículo 42.
 
 La distribución de los regidores de mayoría relativa y de representación proporcional para cada ayuntamiento se sujetará a las siguientes bases:
 
-I. En los municipios en que la población no exceda de cincuenta mil habitantes se elegirán siete regidores por el principio de mayoría relativa y hasta cuatro de representación proporcional;
+I. En los municipios en que la población no exceda de cincuenta mil habitantes se elegirán siete regidores por el principio de mayoría relativa de los cuales no podrán elegirse más de cinco regidores de un mismo sexo y hasta cuatro de representación proporcional;
 
-II. En los municipios cuya población exceda de cincuenta mil, pero no de cien mil habitantes, se elegirán nueve regidores por el principio de mayoría relativa y hasta cinco regidores de representación proporcional;
+II. En los municipios cuya población exceda de cincuenta mil, pero no de cien mil habitantes, se elegirán nueve regidores por el principio de mayoría relativa de los cuales no podrán elegirse más de seis regidores de un mismo sexo y hasta cinco regidores de representación proporcional;
 
-III. En los municipios en que la población exceda de cien mil pero no de quinientos mil habitantes, se elegirán once regidores por el principio de mayoría relativa y hasta seis regidores de representación proporcional; y
+III. En los municipios en que la población exceda de cien mil pero no de quinientos mil habitantes, se elegirán once regidores por el principio de mayoría relativa de los cuales no podrán elegirse más de ocho regidores de un mismo sexo y hasta seis regidores de representación proporcional; y
 
-IV. En los municipios en que la población exceda de quinientos mil habitantes, se elegirán trece regidores por el principio de mayoría relativa y hasta ocho regidores de representación proporcional.
+IV. En los municipios en que la población exceda de quinientos mil habitantes, se elegirán trece regidores por el principio de mayoría relativa de los cuales no podrán elegirse más de nueve regidores de un mismo sexo y hasta ocho regidores de representación proporcional.
 
 ### Capítulo VI. De las Fechas y de la Celebración de Elecciones Ordinarias y Extraordinarias
 
@@ -777,35 +793,41 @@ IX. Las demás que les otorgue esta ley.
 
 #### Sección Segunda. De las Obligaciones de los Partidos Políticos
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 63.
 
 Son obligaciones de los partidos políticos:
 
-I. Mantener el mínimo de afiliados en la entidad que establecen tanto el Código Federal de Instituciones y Procedimientos Electorales y la presente ley, según sea el caso de partidos nacionales o estatales;
+I. Mantener el mínimo de afiliados en la entidad que establecen tanto el Código Federal de Instituciones y Procedimientos Electorales y la presente ley, según sea el caso de partidos nacionales o estatales, y verificar de conformidad con sus ordenamientos internos que sus militantes no pertenezcan a diverso partido político;
 
-II. Ostentarse con la denominación, emblema y color o colores que consten en su registro como partido político nacional o estatal;
+II. Observar lo establecido en su declaración de principios, programa de acción y estatutos;
 
-III. Tener en funcionamiento efectivo a sus órganos de dirección estatal, distritales y municipales, en los términos que señalen sus estatutos;
+III. Ostentarse con la denominación, emblema y color o colores que consten en su registro como partido político nacional o estatal;
 
-IV. Contar con domicilio social para su Comité Directivo Estatal;
+IV. Tener en funcionamiento efectivo a sus órganos de dirección estatal, distritales y municipales, en los términos que señalen sus estatutos;
 
-V. Formar parte del Consejo Electoral del Estado y de todos sus órganos, a través de sus representantes designados conforme a lo dispuesto por esta ley;
+V. Contar con domicilio social para su Comité Directivo Estatal;
 
-VI. Comunicar al Consejo Electoral del Estado cualquier modificación a su declaración de principios, estatutos o programa de acción; así como los cambios de integración de sus órganos directivos o de su domicilio legal, dentro de los veinte días siguientes a la fecha en que realicen modificaciones o cambios;
+VI. Formar parte del Consejo Electoral del Estado y de todos sus órganos, a través de sus representantes designados conforme a lo dispuesto por esta ley;
 
-VII. Designar a sus representantes en los comités estatal y distritales de vigilancia del Registro Estatal de Electores;
+VII. Comunicar al Consejo Electoral del Estado cualquier modificación a su declaración de principios, estatutos o programa de acción; así como los cambios de integración de sus órganos directivos o de su domicilio legal, dentro de los veinte días siguientes a la fecha en que realicen modificaciones o cambios;
 
-VIII. Registrar fórmulas de candidatos a diputados que se elegirán por el principio de mayoría relativa, en cuando menos catorce de los distritos electorales uninominales en el Estado, para tener derecho a participar en la elección de diputados por el principio de representación proporcional;
+VIII. Designar a sus representantes en los comités estatal y distritales de vigilancia del Registro Estatal de Electores;
 
-IX. Registrar listas de candidatos a diputados que serán electos por el principio de representación proporcional en la circunscripción plurinominal y conservar cuando menos hasta el día de la elección, a las dos terceras partes de sus integrantes;
+IX. Registrar en los términos de esta ley, fórmulas de candidatos a diputados que se elegirán por el principio de mayoría relativa, en cuando menos catorce de los distritos electorales uninominales en el Estado, para tener derecho a participar en la elección de diputados por el principio de representación proporcional;
 
-X. Presentar y difundir en la entidad, la plataforma electoral mínima que el partido y sus candidatos sostendrán en la elección de que se trate, la que deberá registrarse ante el Consejo Electoral del Estado, dentro del plazo de registro de candidatos a que se refiere esta ley;
+X. Registrar listas de candidatos a diputados que serán electos por el principio de representación proporcional en la circunscripción plurinominal y conservar cuando menos hasta el día de la elección, a las dos terceras partes de sus integrantes;
 
-XI. Actuar y conducirse sin ligas de dependencia con partidos, organismos o entidades extranjeras y ministros de culto de cualquier religión o secta;
+XI. Presentar y difundir en la entidad, la plataforma electoral mínima que el partido y sus candidatos sostendrán en la elección de que se trate, la que deberá registrarse ante el Consejo Electoral del Estado, dentro del plazo de registro de candidatos a que se refiere esta ley;
 
-XII. Facilitar a la comisión revisora del financiamiento público de los partidos los informes que ésta le solicite; y
+XII. Actuar y conducirse sin ligas de dependencia con partidos, organismos o entidades extranjeras y ministros de culto de cualquier religión o secta;
 
-XIII. Las demás que establezca este ordenamiento.
+XIII. Facilitar a la comisión revisora del financiamiento público de los partidos los informes que ésta le solicite y someterse en su caso a la auditoría que ordene el Consejo Estatal Electora (sic);
+
+XIV. Rendir informes al organismo electoral sobre sus ingresos, egresos, y sobre el destino y utilización del financiamiento público que se les otorga, en forma semestral en año no electoral y mensual durante el año electoral; y
+
+XV. Propiciar la participación activa de todos los ciudadanos en las actividades político electorales en igualdad de condiciones, postulando a los ciudadanos indistintamente de su sexo a puestos de elección popular o a diversos cargos públicos, atendiendo en todo momento a su capacidad y a la preparación necesaria para el buen desempeño de su cargo.
 
 El incumplimiento de las obligaciones a que se refiere este artículo será sancionado en la forma y términos previstos en esta ley.
 
@@ -977,6 +999,14 @@ El financiamiento para las actividades tendientes a la obtención del voto se en
 
 Los partidos políticos de reciente acreditación o de nuevo registro, a partir de la fecha en que lo hubieren obtenido, tendrán derecho al financiamiento público que deba distribuirse por partes iguales entre los partidos.
 
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+
+###### Artículo 77
+
+Bis.- Las autoridades estatales y municipales están obligadas a observar estricta imparcialidad respecto de los procesos electorales.
+
+Los Poderes del Estado, sus dependencias y entidades de la Administración Pública Estatal y los municipios y sus dependencias, no podrán promover, publicar, difundir ni publicitar en los medios masivos de comunicación, radio, televisión y prensa escrita, así como impresos, adheribles, mantas, gallardetes, bardas, espectaculares u otros medios similares, las acciones, obras, actividades y logros derivados de la implantación y ejecución de los planes y programas que lleven a cabo o derivados de los informes de Gobierno anuales, treinta días antes de la jornada electoral.
+
 #### Sección Tercera. Del Financiamiento Privado
 
 ###### Artículo 78.
@@ -1121,9 +1151,11 @@ El convenio que se celebre para integrar un frente deberá presentarse al Consej
 
 #### Sección Tercera. De las Coaliciones
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 91.
 
-Para los efectos de esta ley se entiende por coalición, la alianza o unión transitoria de dos o más partidos políticos, formalizada mediante el convenio respectivo, celebrado conforme a lo previsto en el presente capítulo, con el propósito de postular candidatos comunes para la elección de diputados por el principio de mayoría relativa, en la de diputados por el principio de representación proporcional, en uno o varios municipios para la elección de munícipes y en la elección de Gobernador.
+Para los efectos de esta ley se entiende por coalición, la alianza o unión transitoria de dos o más partidos políticos, formalizada mediante el convenio respectivo, celebrado conforme a lo previsto en el presente capítulo, con el propósito de postular candidatos comunes para la elección de diputados por el principio de mayoría relativa, o en la de diputados por el principio de representación proporcional, o en uno o varios municipios para la elección de munícipes y en la elección de Gobernador.
 
 ###### Artículo 92.
 
@@ -1143,7 +1175,9 @@ IV. Cargo para el que se les postula;
 
 V. El emblema y color o colores bajo los cuales participan;
 
-VI. El compromiso de sostener una plataforma electoral de acuerdo con la declaración de principios, programa de acción y estatutos de (sic) adoptados por la coalición;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2002)</small>
+
+VI. El compromiso de sostener una plataforma electoral común;
 
 VII. La manera que convengan para ejercer en común sus prerrogativas;
 
@@ -1567,11 +1601,15 @@ L. Realizar la planeación de programas de educación y capacitación cívico-el
 
 LI. Celebrar convenios con organismos públicos y privados con objeto de lograr su colaboración para el cumplimiento de los fines del Consejo;
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2002)</small>
 
-LII. Celebrar convenios con el Instituto Federal Electoral, en las materias que sea necesario realizarlos, para el mejor desarrollo de los procesos electorales. Así como coordinarse con el Registro Federal de Electores, para que, en términos del convenio respectivo, se entregue al Consejo Electoral del Estado toda la información relativa al Padrón Electoral y las listas nominales de electores, y mantenga permanentemente actualizada la información; y
+LII. Celebrar convenios con el instituto federal electoral, en las materias que sea necesario realizarlos, para el mejor desarrollo de los procesos electorales, y en su caso para la utilización de las mismas casillas mesas directivas y representantes que funcionen en el proceso electoral federal. Así como coordinarse con el registro federal de electores, para que, en términos del convenio respectivo, se entregue al consejo electoral del estado toda la información relativa al padrón electoral y las listas nominales de electores, y mantenga permanentemente actualizada la información;
 
-LIII. Las demás que le sean conferidas por este ordenamiento y demás leyes aplicables.
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2002)</small>
+
+LIII. Dar aviso a las autoridades de la suspensión total de difusión de las obras de gobierno, a que hace mención el artículo 77 bis de esta ley, y;
+
+LIV. Las demás que le sean conferidas por este ordenamiento y demás leyes aplicables.
 
 ### Capítulo V. De los Consejeros Electorales, Bases y Requisitos para su Designación
 
@@ -1587,7 +1625,9 @@ III. De la lista presentada por la Comisión correspondiente, el Congreso del Es
 
 IV. Si realizadas al menos tres rondas de votación no se cubriera la totalidad de consejeros a elegir, la Comisión correspondiente deberá presentar una nueva lista hasta por el doble de los consejeros faltantes. En este último caso se seguirá el procedimiento señalado en los incisos anteriores;
 
-V. Para cubrir las ausencias de los consejeros electorales, ya sean temporales o definitivas, serán electos siete consejeros suplentes conforme al mismo procedimiento. Las ausencias serán cubiertas de manera rotativa;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2002)</small>
+
+V. Para cubrir las ausencias de los consejeros electorales, ya sean temporales o definitivas, serán electos siete consejeros suplentes conforme al mismo procedimiento. Las ausencias temporales serán cubiertas de manera rotativa; en caso de falta absoluta de algún Consejero Electoral propietario, el Pleno del Consejo, por insaculación de entre los suplentes designará a quien ocupará el cargo como propietario y notificará al Congreso del Estado para que proceda a tomarle la protesta de Ley;
 
 VI. Los consejeros electorales propietarios y suplentes durarán en su encargo cuatro años, pudiendo ser reelectos para un período inmediato, previa la observancia del procedimiento establecido en esta ley; y
 
@@ -1597,19 +1637,23 @@ VII. Las reglas y procedimientos para verificar el cumplimiento de los requisito
 
 Tratándose de ausencias temporales, de los consejeros electorales, mayores de quince días, una vez iniciado el proceso electoral, y de treinta días cuando no exista proceso electoral, se requerirá de licencia otorgada por el Congreso del Estado. Tratándose de ausencias que no excedan los plazos que se indican, el Consejo Electoral será el encargado de conocer sobre la solicitud de licencia.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 135.
 
-Se considerarán faltas absolutas de los consejeros electorales, las que se suscitaren por :
+Se considerarán faltas absolutas de los consejeros electorales, las que se suscitaren por:
 
 I. La muerte;
 
 II. La incapacidad total y permanente que le impida ejercer el cargo;
 
-III. La declaración que establezca la procedencia del juicio por delitos graves del orden común;
+III. La declaración que establezca la procedencia, del juicio por delitos graves del orden común;
 
 IV. La procedencia de acusación que haga el Congreso del Estado erigido en jurado de sentencia dentro del procedimiento de juicio político; y
 
 V. La renuncia expresa por causa grave, que será calificada por el Consejo Electoral del Estado.
+
+> <small>(F. DE E., P.O. 19 DE JULIO DE 2003)</small>
 
 En caso de falta absoluta de algún Consejero Electoral propietario, se procederá a notificar al Congreso del Estado para que designe uno nuevo.
 
@@ -1979,11 +2023,11 @@ II. Recibir las solicitudes de registro de las fórmulas de candidatos a diputad
 
 III. Registrar a los ciudadanos mexicanos para participar como observadores durante el proceso electoral, en el distrito respectivo;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+(REFORMADA, P.O. 26 DE OCTUBRE DE 2002) (F. DE E., P.O. 19 DE JULIO DE 2003)
 
-IV. Aprobar el proyecto de ubicación de casillas presentado por el Comisionado Presidente.
+IV. Aprobar el proyecto de ubicación de casillas presentado por el Comisionado Presidente;
 
-Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en esta ley, éste prevalecerá sobre las disposiciones contenidas en la presente fracción;
+Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en esta ley, éste será complementario de las disposiciones contenidas en la presente fracción;
 
 V. Designar por insaculación, a los ciudadanos que deban fungir como presidentes, secretarios y escrutadores propietarios y suplentes de las mesas directivas de casilla;
 
@@ -2101,13 +2145,13 @@ Las mesas directivas de casilla, como autoridades, durante la jornada electoral,
 
 En cada sección electoral se instalará una casilla para recibir la votación el día de la jornada electoral, con excepción de lo dispuesto en esta ley.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
 
 ###### Artículo 169.
 
-Las mesas directivas de casilla se integrarán con un Presidente, un Secretario, un escrutador y tres suplentes generales.
+Las mesas directivas de casilla se integrarán con un Presidente, un Secretario, dos escrutadores y tres suplentes generales.
 
-El Presidente, Secretario y Escrutador, podrán actuar como tales en la sección que les corresponda. Para efectos de emitir su voto, deberán hacerlo en la casilla que les corresponda según el listado nominal.
+El Presidente, Secretario y Escrutadores, podrán actuar como tales en la sección que les corresponda. Para efectos de emitir su voto, deberán hacerlo en la casilla que les corresponda según el listado nominal.
 
 ###### Artículo 170.
 
@@ -2191,11 +2235,11 @@ VI. Anotar el resultado del escrutinio al efectuar los cómputos de los votos em
 
 VII. Las demás que le confieran esta ley y el Presidente de la mesa directiva de casilla.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 2002) (F. DE E., P.O. 19 DE JULIO DE 2003)
 
 ###### Artículo 175.
 
-El escrutador de las mesas directivas de casilla tiene las siguientes atribuciones:
+Los escrutadores de las mesas directivas de casilla tienen las siguientes atribuciones:
 
 I. Contar el número de electores que votaron en la casilla, de acuerdo con los listados nominales;
 
@@ -2217,7 +2261,9 @@ El Registro Estatal de Electores es el organismo técnico de interés público, 
 
 El Consejo Electoral del Estado prestará, por conducto de la Dirección del Registro Estatal de Electores y de sus delegaciones distritales y municipales, los servicios inherentes al Registro Estatal de Electores.
 
-Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en esta ley, éste prevalecerá sobre las disposiciones contenidas en el presente capítulo.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+
+Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en esta ley, éste será complementario de las disposiciones contenidas en el presente capítulo.
 
 Los documentos, datos e informes que los ciudadanos proporcionen al Registro Estatal de Electores en cumplimiento de las obligaciones que les impone la legislación electoral, serán estrictamente confidenciales y no podrán comunicarse o darse a conocer, salvo cuando se trate de juicios, recursos o procedimientos en que el Consejo Electoral fuese parte.
 
@@ -2973,9 +3019,11 @@ Acompañar a la solicitud de registro, el escrito conteniendo la aceptación de 
 
 Los partidos políticos o las coaliciones, deberán manifestar por escrito, que los ciudadanos de cuya candidatura se solicita su registro, fueron seleccionados de conformidad con las normas establecidas del propio instituto político, o en su caso, conforme al convenio de coalición respectivo.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+
 ###### Artículo 237.
 
-En el caso de la presentación de las solicitudes de registro de listas de candidatos a diputados por el principio de representación proporcional, los partidos políticos o las coaliciones, deberán acreditar además de los requisitos previstos en el artículo anterior, el contar con el registro de fórmulas de candidatos a diputados por el principio de mayoría relativa en cuando (sic) catorce distritos electorales uninominales de la entidad.
+En el caso de la presentación de las solicitudes de registro de listas de candidatos a diputados por el principio de representación proporcional, los partidos políticos o las coaliciones, deberán acreditar además de los requisitos previstos en el artículo anterior, el contar con el registro de fórmulas de candidatos a diputados por el principio de mayoría relativa en por lo menos catorce distritos electorales uninominales de la entidad.
 
 ###### Artículo 238.
 
@@ -3031,6 +3079,10 @@ II. Vencido el plazo a que se refiere la fracción anterior, podrán substituirl
 
 III. En los casos de renuncia o negativa del candidato o candidatos, el partido político o coalición correspondiente los podrán substituir hasta treinta días anteriores al de la elección.
 
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2002)</small>
+
+IV. En los casos de no cumplir con el porcentaje máximo de candidatos de un mismo sexo, a petición del propio Consejo Electoral del Estado.
+
 Si la renuncia o negativa del candidato o candidatos a que se refiere esta fracción, es presentada directamente al Consejo Electoral del Estado, éste lo hará del conocimiento del partido político o coalición de que se trate para que proceda a su substitución.
 
 ###### Artículo 243.
@@ -3042,6 +3094,8 @@ El Consejo Electoral del Estado publicará por una sola vez, en el Periódico Of
 A los partidos políticos o coaliciones, que no hayan registrado sus listas completas de candidatos a diputados por el principio de representación proporcional o no las conserven en el número mínimo establecido en esta ley, les serán cancelados los registros de candidatos a diputados por el principio de mayoría relativa que se les hubiera aprobado.
 
 ### Capítulo VIII. Del Registro de Representantes
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
 
 ###### Artículo 245.
 
@@ -3093,7 +3147,7 @@ Una vez hecho lo anterior, las comisiones distritales seleccionarán al azar a u
 
 III. Si tomando la base referida en la fracción anterior no se logra obtener el porcentaje o el número de ciudadanos que se señala, se procederá a seleccionar al azar a los ciudadanos nacidos en el mes siguiente al sorteado inicialmente, siempre y cuando no coincida con los meses sorteados para el proceso federal, este procedimiento se repetirá hasta cubrir con lo establecido en la fracción II de este artículo;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2002)</small>
 
 IV. A los ciudadanos seleccionados se les impartirá un curso de capacitación. Se excluirán del mismo los que estén física o legalmente impedidos para desempeñar el cargo;
 
@@ -3114,6 +3168,10 @@ Si a más tardar el 9 de junio del año de la elección no se pudieren integrar 
 IX. Las comisiones distritales notificarán personalmente a los integrantes de la casilla sus respectivos nombramientos; y
 
 X. Los representantes de los partidos políticos podrán vigilar el desarrollo del procedimiento previsto por este artículo.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+
+En caso de celebrarse convenio con el Instituto Federal Electoral podrá integrarse una sola Mesa Directiva de Casilla para recibir la votación de los procesos federales y locales.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
 
@@ -3159,9 +3217,9 @@ La publicación de las listas de los integrantes de las mesas directivas de casi
 
 El Secretario de la Comisión Distrital Electoral entregará una copia de la lista a cada uno de los representantes de los partidos políticos, haciendo constar este acto.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
 
-Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en esta ley, éste prevalecerá sobre las disposiciones contenidas en el presente artículo.
+Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en esta ley, éste será complementario de las disposiciones contenidas en el presente artículo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
 
@@ -3187,7 +3245,9 @@ Para la integración de las mesas directivas y ubicación de las casillas especi
 
 En cada distrito electoral se instalarán hasta cinco casillas especiales. En el caso de los municipios donde se encuentre más de una Comisión Distrital, el número de casillas especiales a instalarse no podrá ser mayor de cinco en el mismo municipio.
 
-Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en eta ley, éste prevalecerá sobre las disposiciones contenidas en el presente artículo.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+
+Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en esta ley, éste será complementario de las disposiciones contenidas en el presente artículo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2002)</small>
 
@@ -3197,9 +3257,9 @@ Las casillas especiales tendrán 300 boletas por elección, adicionalmente las b
 
 El Consejo Electoral podrá establecer casillas extraordinarias en aquellos lugares en que se encuentren radicados regimientos, fuerzas armadas y de seguridad, donde sólo podrán votar los miembros de dichas corporaciones.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2002)</small>
 
-Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en esta ley, éste prevalecerá sobre las disposiciones contenidas en el presente artículo.
+Al celebrarse convenio con el Instituto Federal Electoral en los términos establecidos en esta ley, éste será complementario de las disposiciones contenidas en el presente artículo.
 
 ### Capítulo IX. De la Documentación y Material Electoral
 
@@ -3207,25 +3267,17 @@ Al celebrarse convenio con el Instituto Federal Electoral en los términos estab
 
 Los partidos políticos o coaliciones tendrán derecho a nombrar a dos representantes propietarios y a un suplente, ante cada mesa directiva de casilla.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
-
 Las personas que actúen como representantes de partido para el proceso federal, podrán actuar como tales en la casilla de la elección local, siempre y cuando hubieran sido acreditados ante el Consejo Electoral del Estado.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
-
-Si a las diez horas del día de la elección no hubiese llegado algún representante de casilla acreditado por un partido político, el representante de el mismo partido que esté fungiendo en la casilla correspondiente de la elección federal debidamente acreditado podrá registrare como tal en la casilla de la elección local con el nombramiento que al efecto le expida el Instituto Federal Electoral, y tendrá los mismos derechos y reglas de actuación que establece esta Ley para los representantes de casilla.
-
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+Si a las diez horas del día de la elección no hubiese llegado algún representante de casilla acreditado por un partido político, el representante del mismo partido que esté fungiendo en la casilla correspondiente de la elección federal debidamente acreditado podrá registrarse como tal en la casilla de la elección local con el nombramiento que al efecto le expida el Instituto Federal Electoral, y tendrá los mismos derechos y reglas de actuación que establece esta Ley para los representantes de casilla.
 
 En caso de que posteriormente llegare el representante de casilla acreditado, el que ocupa su lugar ya no tendrá derecho a intervenir en la casilla para la elección estatal.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2002)</small>
+En ningún caso podrá haber más de dos representantes de partido o coalición de casilla ante cada mesa directiva.
 
-Lo anterior sólo será posible siempre y cuando los partidos políticos hayan registrado representantes en la casilla correspondiente, haciéndose las anotaciones respectivas en la hoja de incidentes.
+Lo anterior sólo será posible siempre y cuando los partidos políticos hayan registrado representantes en la casilla correspondiente, haciéndose las anotaciones respectivas en la hoja de incidentes debiendo anotarse además el carácter y las generales de su nombramiento.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2002)</small>
-
-Los representantes que estén en funciones, podrán votar en la casilla electoral ante la que previamente hubiesen sido acreditados, siempre y cuando la credencial para votar tenga domicilio dentro del Estado de Jalisco.
+Los representantes que estén en funciones, podrán votar en la casilla electoral ante la que previamente hubiesen sido acreditados, siempre y cuando la credencial para votar tenga domicilio dentro del estado de Jalisco.
 
 ###### Artículo 261.
 
@@ -3495,9 +3547,9 @@ De no instalarse la casilla conforme a lo establecido en los artículos anterior
 
 I. Si a las ocho horas con quince minutos no están presentes alguno o algunos de los funcionarios propietarios, actuarán en su lugar los respectivos suplentes, o a falta de alguno de ellos lo deberá suplir cualquiera de los suplentes que quedaran disponibles;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+(REFORMADA, P.O. 26 DE OCTUBRE DE 2002) (F. DE E., P.O. 19 DE JULIO DE 2003)
 
-II. Si conforme a la fracción anterior, no pudiesen (sic) ser substituido el presidente, será suplido por el secretario, y éste por el escrutador o los suplentes generales;
+II. Si conforme a la fracción anterior, no pudiese ser substituido el presidente, será suplido por el secretario, y éste por uno de los escrutadores o los suplentes generales;
 
 III. Si no se hubiesen completado los funcionarios de casilla después de los procedimientos anteriores, una vez cubierto el puesto de presidente, éste designará de entre los electores que se encuentren formados para votar, a quienes habrán de suplirlos;
 
@@ -3524,6 +3576,8 @@ II. El local se encuentre cerrado o clausurado y no se pueda obtener el acceso p
 III. Se advierta, al momento de la instalación de la casilla electoral, que ésta se pretende ubicar en lugar prohibido por la ley;
 
 IV. Las condiciones del local no permitan asegurar la libertad o el secreto del voto; el libre acceso de los electores, o bien, no ofrezcan condiciones que garanticen seguridad para la realización de las actividades electorales o resguarden a los funcionarios de casilla o a los votantes de las inclemencias del tiempo. En este caso, será necesario que los funcionarios y representantes presentes de los partidos políticos o coaliciones tomen el acuerdo correspondiente; y
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2002)</small>
 
 V. La Comisión Municipal Electoral así lo disponga, por causas de fuerza mayor o caso fortuito y se notifique al presidente de la casilla; en el caso de los municipios en los que se encuentre más de una Comisión Distrital, la facultad establecida en esta fracción la ejercerá la Comisión Distrital Electoral correspondiente.
 
@@ -3737,15 +3791,15 @@ El escrutinio y cómputo de cada elección se realizará conforme a las reglas s
 
 I. El Secretario de la mesa directiva de la casilla contará las boletas sobrantes; las inutilizará por medio de dos rayas diagonales y anotará el número de éstas en el acta final del escrutinio y cómputo;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2002)</small>
 
-II. El Escrutador contará el número de electores que votaron conforme al listado nominal de la casilla;
+II. El Primer Escrutador contará el número de electores que votaron conforme al listado nominal de la casilla;
 
 III. El Secretario abrirá la urna, sacará las boletas depositadas por los electores y mostrará a los presentes que la urna quedó vacía;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2002)</small>
 
-IV. El Escrutador contará las boletas extraídas de la urna;
+IV. El Segundo Escrutador contará las boletas extraídas de la urna;
 
 > <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2002)</small>
 
@@ -4139,7 +4193,11 @@ VII. Solicitar crédito a la banca de desarrollo para el financiamiento de sus a
 
 VIII. Aceptar donativos o aportaciones económicas superiores a los límites señalados en la presente ley o recibir apoyo o financiamiento del narcotráfico, por sí o por interpósita persona; y
 
-IX. Rebasar durante las campañas electorales los topes a los gastos fijados conforme a la presente ley.
+IX. Rebasar durante las campañas electorales los topes a los gastos fijados conforme a la presente ley;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2002)</small>
+
+X. Exceder el límite de setenta por ciento de candidaturas de un mismo sexo en los casos señalados en esta Ley.
 
 ###### Artículo 349.
 
@@ -4160,6 +4218,10 @@ a) Con multa de 100 a 5,000 días de salario mínimo general vigente en la capit
 b) Con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, hasta por los dos años siguientes a aquel en que se cometa la infracción; o
 
 c) Con la supresión total de la entrega de las ministraciones del financiamiento que les corresponde, hasta por los dos años siguientes a aquel en que se hubiere cometido la infracción.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2002)</small>
+
+En caso de incurrir en la conducta señalada en la fracción X, del artículo anterior, con amonestación escrita y la recomendación de substitución de candidatos hasta conseguir los porcentajes señalados en la Ley.
 
 ###### Artículo 350.
 
@@ -5074,3 +5136,9 @@ SEGUNDO.- Aquellos procedimientos iniciados, antes de la vigencia del presente d
 P.O. 20 DE AGOSTO DE 2002.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 26 DE OCTUBRE DE 2002.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Los efectos del último párrafo del artículo 30, se aplicarán a partir de los diputados electos en el proceso electoral del año 2003.
