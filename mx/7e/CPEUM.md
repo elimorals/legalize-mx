@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1953-10-17"
+last_updated: "1960-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,27 +20,29 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
+CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
-Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
+Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
-El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
+Al margen un sello que dice "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Ejecutivo".- Secretaría General.
 
-VENUSTIANO CARRANZA, Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de los Estados Unidos Mexicanos, hago saber:
+EL CIUDADANO DOCTOR EMILIO MARTINEZ MANAUTOU, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-Que el Congreso Constituyente reunido en esta ciudad el 1o. de diciembre de 1916, en virtud del decreto de convocatoria de 19 de septiembre del mismo año, expedido por la Primera Jefatura, de conformidad con lo prevenido en el artículo 4o. de las modificaciones que el 14 del citado mes se hicieron al decreto de 12 de diciembre de 1914, dado en la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de 1913, ha tenido a bien expedir la siguiente:
+QUE LA QUINCUAGESIMA SEGUNDA LEGISLATURA CONSTITUCIONAL DEL ESTADO, en nombre del pueblo que representa se ha servido expedir el siguiente:
 
-CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE REFORMA LA DE 5 DE FEBRERO DE 1857.
+DECRETO No. 410
 
-# LIBRO PRIMERO. DISPOSICIONES GENERALES
+Que contiene el CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-## TITULO PRIMERO.
+CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-### CAPITULO I.
+# LIBRO PRIMERO. PARTE GENERAL
 
-DE LAS GARANTIAS INDIVIDUALES.
+## TITULO PRIMERO. DE LA APLICACIÓN DE LA LEY PENAL
+
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1.
 
@@ -436,11 +438,7 @@ Tampoco constituyen monopolios las asociaciones o sociedades cooperativas de pro
 
 En los casos de invasión, perturbación grave de la paz pública, o de cualquiera otro que ponga a la sociedad en grande peligro o conflicto, solamente el Presidente de la República Mexicana, de acuerdo con el Consejo de Ministros, y con aprobación del Congreso de la Unión, y en los recesos de éste, de la Comisión Permanente, podrá suspender en todo el país, o en lugar determinado las garantías que fuesen obstáculo para hacer frente, rápida y fácilmente, a la situación; pero deberá hacerlo por un tiempo limitado, por medio de prevenciones generales y sin que la suspensión se contraiga a determinado individuo. Si la suspensión tuviese lugar hallándose el Congreso reunido, éste concederá las autorizaciones que estime necesarias para que el Ejecutivo haga frente a la situación. Si la suspensión se verificase en tiempo de receso, se convocará sin demora al Congreso para que las acuerde.
 
-### CAPITULO II.
-
-DE LOS MEXICANOS.
-
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
+### CAPITULO II. AMBITO ESPACIAL
 
 ###### ARTICULO 3.
 
@@ -530,9 +528,7 @@ Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias,
 
 Para pertenecer a la Marina Nacional de Guerra o a la Fuerza Aérea, y desempeñar cualquier cargo o comisión en ellas, se requiere ser mexicano por nacimiento. Esta misma calidad será indispensable en Capitanes, Pilotos, Patrones, Maquinistas, Mecánicos y, de una manera general, para todo el personal que tripule cualquier embarcación o aeronave que se ampare con la bandera o insignia mercante mexicana. Será también necesaria la calidad de mexicano por nacimiento para desempeñar los cargos de Capitán de Puerto, y todos los servicios de practicaje y Comandante de Aeródromo, así como todas las funciones de Agente Aduanal en la República.
 
-### CAPITULO III.
-
-DE LOS EXTRANJEROS.
+### CAPITULO III. AMBITO TEMPORAL
 
 ###### ARTICULO 8.
 
@@ -566,11 +562,7 @@ En el ejercicio de sus facultades de comprobación, la autoridad fiscal podrá p
 
 ###### ARTICULO 10.
 
-Las leyes fiscales, sus reglamentos y las disposiciones fiscales de carácter general, entrarán en vigor en el Estado, el día siguiente al de su publicación en el Periódico Oficial, salvo que en ellas se establezca una fecha posterior.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-Cuando en este Código o en otras leyes fiscales del Estado se haga referencia a una cuota, se entiende la Unidad de Medida y Actualización vigente.
+Cuando una nueva ley deje de considerar un determinado hecho como delictuoso, se ordenará la libertad de los procesados o sentenciados, cesando el procedimiento o los efectos de la sentencia, con excepción de la reparación del daño cuando ya se haya hecho efectiva. En caso contrario se dejarán a salvo los derechos del ofendido.
 
 ###### Art. 33.
 
@@ -578,63 +570,17 @@ Son extranjeros los que no posean las calidades determinadas en el artículo 30.
 
 Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos políticos del país.
 
-### CAPITULO IV.
+### CAPITULO IV. AMBITO PERSONAL
 
-DE LOS CIUDADANOS MEXICANOS.
-
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 11.
 
-Se considera domicilio fiscal:
-
-I.- Tratándose de personas físicas:
-
-A).- El local en que se encuentre el principal asiento de sus negocios, cuando realizan actividades empresariales.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-B).- El lugar que utilicen como base para el desempeño de sus actividades, cuando no realicen las actividades señaladas en el inciso anterior.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-C).- En los demás casos, el lugar que ocupen como casa habitación.
-
-II.- En el caso de personas morales:
-
-A).- El local en donde se encuentre la administración principal del negocio, cuando sean residentes en la Entidad; en su defecto, donde se encuentre el principal establecimiento.
-
-> <small>(F. DE E., P.O. 12 DE ENERO DE 2007)</small>
-
-B).- El lugar donde se establezcan, si se trata de sucursales o agencias de empresas establecidas fuera del Estado o de negociaciones extranjeras. En el caso de existir varios establecimientos, el local en donde se encuentre la administración principal del negocio en la Entidad, o en su defecto el que designen.
-
-III.- Tratándose de personas físicas o morales:
-
-A).- Si se trata de créditos fiscales que tengan relación con bienes inmuebles, se considerará como domicilio del deudor el predio edificado y si no lo hubiere, el último domicilio que se hubiere comunicado por escrito a la Secretaría de Finanzas y Tesorería General del Estado, o a sus oficinas recaudadoras.
-
-B).- Si residen fuera del Estado, pero realizan actividades gravadas en éste a través de representantes, se considerará como domicilio el de dichos representantes.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligados a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando a juicio de la autoridad, hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio, indistintamente.
+Tratándose de medidas de seguridad se estará, en lo pertinente, a lo dispuesto en los artículos anteriores.
 
 ###### ARTICULO 12.
 
-Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios fiscales, se aplicarán a estos las siguientes reglas:
-
-I.- El ejercicio fiscal de las personas morales que no tengan ejercicio social y el de las personas físicas, coincidirá con el año de calendario.
-
-II.- Las personas morales que tengan ejercicio social, su ejercicio fiscal coincidirá con éste, salvo en el caso del ejercicio de liquidación, y deberá reunir los siguientes requisitos:
-
-A).- El ejercicio regular abarcará siempre doce meses y el irregular un período menor.
-
-B).- Los ejercicios terminarán el día último del mes de calendario que el contribuyente elija.
-
-En los casos en que una sociedad entre en liquidación o sea fusionada, el ejercicio fiscal terminará anticipadamente, en su caso, en la fecha en que entre en liquidación o se fusione. En el primer caso, simultáneamente con la presentación de la declaración del ejercicio se deberá garantizar el interés fiscal y se considerará que habrá un ejercicio durante todo el tiempo en que la sociedad esté en liquidación. En el caso de fusión, la sociedad que subsista o surja presentará las declaraciones del ejercicio de la sociedad que desaparece.
-
-Cuando una sociedad no se encuentre en los supuestos del párrafo anterior y desee anticipar la fecha de terminación de sus ejercicios deberá presentar aviso ante las autoridades fiscales. Tratándose de la segunda y posteriores ocasiones en que se desee efectuar dicho cambio, deberán haber transcurrido cuando menos cinco años desde el último cambio, para que éste se pueda efectuar con la simple presentación de un aviso.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, 31 DE DICIEMBRE DE 2006)</small>
+Es competencia del Ejecutivo resolver los casos de condenados por sentencia firme previstos en este capítulo.
 
 ###### Art. 34.
 
@@ -718,35 +664,17 @@ VI.- Por sentencia ejecutoria que imponga como pena esa suspensión.
 
 La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos de ciudadano, y la manera de hacer la rehabilitación.
 
-## TITULO SEGUNDO.
+## TITULO SEGUNDO. DEL DELITO
 
-### CAPITULO I.
-
-DE LA SOBERANIA NACIONAL Y DE LA FORMA DE GOBIERNO.
+### CAPITULO I. FORMA, TIEMPO, LUGAR Y CULPABILIDAD
 
 ###### ARTICULO 13.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o. y 5 de mayo; el 3 de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Local; el 16 de septiembre; el 12 de octubre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
-
-Tampoco se contará en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales. No son vacaciones generales si se llegan a otorgar en forma escalonada.
-
-En los plazos establecidos por períodos y aquéllos en que se señale una fecha determinada para su extinción se computarán todos los días.
-
-Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que en el primer caso el plazo concluye el mismo día del mes de calendario posterior a aquél en que se inició y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquél en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores, o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones o pagos.
-
-Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
+Este Código se aplicará a todas las personas sin distinción alguna, con las excepciones que sobre inimputabilidad, inmunidades y fuero establezcan las leyes. Las personas de doce años y menores de dieciocho años se regirán por las leyes de justicia especializada para adolescentes.
 
 ###### ARTICULO 14.
 
-La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 8:00 y las 19:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez. Tratándose de la verificación de bienes y de mercancías en transporte, se considerarán hábiles todos los días del año y las veinticuatro horas del día.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-Las autoridades fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución y de notificaciones, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que debe pagar contribuciones en días y horas inhábiles. También se podrá efectuar la habilitación a que se refiere este párrafo, para la continuación de una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de la contabilidad o de los bienes del particular, siempre que exista la sospecha de su alteración u ocultamiento en caso de suspenderse la diligencia sin haberlos asegurado.
+Delito es la conducta típica, antijurídica y culpable, a la que se atribuye una o varias sanciones penales.
 
 ###### Art. 39.
 
@@ -760,55 +688,11 @@ Es voluntad del pueblo mexicano constituirse en una República representativa, d
 
 El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de los Estados, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal.
 
-### CAPITULO II.
-
-DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
-
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
+### CAPITULO II. UNIDAD Y PLURALIDAD DE HECHOS DELICTUOSOS
 
 ###### ARTICULO 15.
 
-Se entiende enajenación de bienes:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-I.- Toda transmisión de propiedad, aún en la que el enajenante se reserva el dominio del bien enajenado, con excepción de los actos de fusión y escisión a que se refiere el artículo 15 bis.
-
-II.- Las adjudicaciones, aún cuando se realicen a favor del acreedor.
-
-III.- La aportación a una sociedad o asociación.
-
-IV.- La que se realiza mediante el arrendamiento financiero.
-
-V.- La que se realiza a través del fideicomiso, en los siguientes casos:
-
-A).- En el acto en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
-
-B).- En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-Cuando el fideicomitente reciba certificados de participación por los bienes que afecte en fideicomiso, se considerarán enajenados esos bienes al momento en que el fideicomitente reciba los certificados, salvo que se trate de acciones.
-
-VI.- La cesión de los derechos que se tenga sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
-
-A).- En el acto en el que el fideicomisario designado ceda sus derechos o de instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
-
-B).- En el acto en el que el fideicomitente ceda sus derechos si entre estos se incluye el de que los bienes se transmitan a su favor.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-Cuando se emitan certificados de participación por los bienes afectos al fideicomiso y se coloquen entre el gran público inversionista, no se considerarán enajenados dichos bienes al enajenarse esos certificados, salvo que estos les den a sus tenedores derechos de aprovechamiento directo de esos bienes, o se trate de acciones. La enajenación de los certificados de participación se considerará como una enajenación de títulos de crédito que no representan la propiedad de bienes y tendrán las consecuencias fiscales que establecen las Leyes fiscales para la enajenación de tales títulos.
-
-VII.- La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito o de la cesión de derechos que los representen. Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales.
-
-Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando el plazo exceda de doce meses y se difiera más de la mitad del precio para después del sexto mes.
-
-Se considera que la enajenación se efectúa en el Estado, entre otros casos, si el bien se encuentra en su territorio al efectuarse el envío al adquirente o cuando no habiendo envío, en el Estado se realiza la entrega material del bien por el enajenante.
-
-Cuando de conformidad con este artículo se entienda que hay enajenación, el adquirente se considerará propietario de los bienes para efectos fiscales.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+Atendiendo a la forma, el delito puede ser realizado por acción o por omisión.
 
 ###### Art. 42.
 
@@ -842,29 +726,21 @@ El Estado del (sic) Nayarit tendrá la extensión territorial y límites que com
 
 Las islas de ambos mares que pertenezcan al Territorio Nacional, dependerán directamente del Gobierno de la Federación, con excepción de aquellas sobre las que hasta la fecha hayan ejercido jurisdicción los Estados.
 
-## TITULO TERCERO.
+## TITULO TERCERO. CAUSAS QUE EXCLUYEN EL DELITO Y LA RESPONSABILIDAD
 
-### CAPITULO I.
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-DE LA DIVISION DE PODERES.
-
-> <small>(REFORMADO, D.O.F. 28 DE MARZO DE 1951)</small>
+### CAPITULO III. TENTATIVA
 
 ###### ARTICULO 16.
 
-Arrendamiento financiero es el contrato por el cual se otorga el uso o goce temporal de bienes tangibles, siempre que se cumpla con los siguientes requisitos:
+Atendiendo al tiempo, el delito puede ser:
 
-I.- Que se establezca un plazo forzoso que sea igual o superior al mínimo para deducir la inversión en los términos de las disposiciones fiscales o cuando el plazo sea menor, se permita a quien recibe el bien, que al término del plazo ejerza cualquiera de las siguientes opciones:
+I.- Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos;
 
-A).- Transferir la propiedad del bien objeto del contrato mediante el pago de una cantidad determinada, que deberá ser inferior al valor del mercado del bien al momento de ejercer la opción.
+II.- Permanente o continuo, cuando la consumación se prolonga en el tiempo; y
 
-B).- Prorrogar el contrato por un plazo cierto durante el cual los pagos serán por un monto inferior al que se fijó durante el plazo inicial del contrato.
-
-C).- Obtener parte del precio por la enajenación a un tercero del bien objeto del contrato.
-
-II.- Que la contraprestación sea equivalente o superior al valor del bien al momento de otorgar su uso o goce.
-
-III.- Que se establezca una tasa de interés aplicable para determinar los pagos y el contrato se celebre por escrito.
+III.- Continuado, cuando con unidad de propósito delictivo y repetición de una misma conducta se viola el mismo precepto legal.
 
 ###### Art. 49.
 
@@ -872,95 +748,39 @@ El Supremo Poder de la Federación se divide para su ejercicio en Legislativo, E
 
 No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de facultades extraordinarias al Ejecutivo de la Unión, conforme a lo dispuesto en el artículo 29. En ningún otro caso, salvo lo dispuesto en el segundo párrafo del artículo 131, se otorgarán facultades extraordinarias para legislar.
 
-### CAPITULO II.
+### CAPITULO I. AUSENCIA DE CONDUCTA Y ATIPICIDAD
 
-DEL PODER LEGISLATIVO.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 18.
 
-Cuando con motivo de la prestación de un servicio se proporcionen bienes o se otorgue su uso o goce temporal al prestatario, se considerará como ingreso por el servicio o como valor de éste, el importe total de la contraprestación a cargo del prestatario, siempre que sean bienes que normalmente se proporcionen o se conceda su uso o goce con el servicio de que se trate.
+Atendiendo a la culpabilidad, los delitos pueden ser:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I.- Dolosos;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+II.- Culposos; o
 
-ARTICULO 18 BIS.- El monto de las contribuciones, de los aprovechamientos y de las devoluciones a cargo del fisco se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Tal factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del fisco estatal, no se actualizarán por fracciones de mes.
-
-En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período, no haya sido publicado por el Instituto Nacional de Estadística y Geografía, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
-
-Los valores de bienes u operaciones se actualizarán conforme a lo dispuesto por este artículo, cuando las leyes fiscales así lo determinen. Las disposiciones legales señalarán en cada caso el período de actualización de que se trate.
-
-Las cantidades actualizadas conservan la naturaleza jurídica que poseían antes de la actualización. El monto de ésta, determinado en las declaraciones mensuales, no será deducible ni tampoco acreditable en relación con las contribuciones estatales y municipales.
-
-Para los efectos de este artículo se aplicará el Índice Nacional de Precios al Consumidor, calculado por el Instituto Nacional de Estadística y Geografía, que se publica en el Diario Oficial de la Federación.
+III.- Preterintencionales.
 
 ###### ARTICULO 19.
 
-Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital, y en el caso de que se presente en documento digital, este deberá contener la firma electrónica avanzada.
+Es doloso cuando se quiere o acepta el resultado previsto por la Ley.
 
-Las promociones deberán presentarse en las formas que al efecto apruebe la Secretaría de Finanzas y Tesorería General del Estado, en el número de Ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
-
-I.- Constar por escrito.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-II.- El nombre, la denominación o razón social y el domicilio fiscal manifestado al registro estatal de contribuyentes, y la clave que le correspondió en dicho registro, así como la clave del registro federal de contribuyentes.
-
-III.- El número de cuenta estatal que le sea asignado.
-
-IV.- Señalar la autoridad a la que se dirige, el propósito de la promoción y el fundamento de la misma.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-V.- En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas, cuando así proceda la dirección de correo electrónico para recibir notificaciones.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-Cuando no se cumpla alguno de los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de cinco días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
-
-Si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades fiscales deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario.
-
-Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos a que se refiere el artículo 32 de este Código.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-Para los efectos de lo dispuesto en este artículo, las autoridades fiscales podrán aceptar el uso de la firma electrónica avanzada, que el contribuyente tramitó ante el Servicio de Administración Tributaria del Gobierno Federal y le será aplicable lo dispuesto en el Capítulo II "De los Medios Electrónicos" del Código Fiscal de la Federación.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-Para efectos de este Código, la firma electrónica a que se refiere el párrafo anterior, producirá los mismos efectos que la firma electrónica avanzada a que se refiere la Ley Sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado, por lo que las disposiciones de dicha Ley resultarán aplicables en lo conducente para las actuaciones que se realicen conforme a este Código por medios electrónicos.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-# LIBRO SEGUNDO. DE LAS RELACIONES JURÍDICAS TRIBUTARIAS
+# LIBRO SEGUNDO. PARTE ESPECIAL
 
 ###### Art. 50.
 
 El poder legislativo de los Estados Unidos Mexicanos se deposita en un Congreso general, que se dividirá en dos Cámaras, una de diputados y otra de senadores.
 
-#### SECCION I.
-
-DE LA ELECCION E INSTALACION DEL CONGRESO.
-
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+#### Sección I. PRESCRIPCION DE LA ACCION
 
 ###### ARTICULO 17.
 
-Se entenderá por actividades empresariales las siguientes:
+Atendiendo al lugar, el delito se considera realizado:
 
-I.- Las comerciales que son las que de conformidad con las leyes federales tienen ese carácter y no están comprendidas en las fracciones siguientes.
+I.- Donde se desarrolló total o parcialmente la conducta; o
 
-II.- Las industriales entendidas como la extracción, conservación o transformación de materias primas, acabado de productos y la elaboración de satisfactores.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-III.- Las agrícolas que comprenden las actividades de siembra, cultivo, cosecha y la primera enajenación de los productos obtenidos, que no hayan sido objeto de transformación industrial.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-IV.- Las ganaderas que son las consistentes en la cría y engorda de ganado, aves de corral y animales, así como la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial.
-
-Se considerará empresa la persona física o moral que realice las actividades a que se refiere este artículo y por establecimiento se entenderá cualquier lugar de negocio en el que se desarrollen parcial o totalmente, las citadas actividades empresariales.
+II.- Donde se produjo o debió producirse el efecto.
 
 ###### Art. 51.
 
@@ -1096,31 +916,13 @@ A la apertura de sesiones ordinarias del Congreso asistirá el Presidente de la 
 
 Toda resolución del Congreso tendrá el carácter de ley o decreto. Las leyes o decretos se comunicarán al Ejecutivo firmados por los presidentes de ambas Cámaras y por un secretario de cada una de ellas, y se promulgarán en esta forma: "El Congreso de los Estados Unidos Mexicanos decreta: (texto de la ley o decreto)".
 
-#### SECCION II.
-
-DE LA INICIATIVA Y FORMACION DE LAS LEYES.
+#### Sección II. PRESCRIPCION DE LA SANCION
 
 ###### ARTICULO 132.
 
-La resolución que ponga fin al recurso podrá:
+En caso de concurso ideal, la acción penal prescribirá, atendiendo al delito de mayor sanción.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-I.- Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo, en su caso.
-
-II.- Confirmar el acto impugnado.
-
-III.- Mandar reponer el procedimiento administrativo.
-
-IV.- Dejar sin efecto el acto impugnado.
-
-V.- Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de cuatro meses, contado a partir del día hábil siguiente a aquel en que haya quedado firme dicha resolución, aun cuando haya transcurrido el plazo que señala el artículo 67 de este Código.
-
-ARTICULO 132 BIS.- (DEROGADO, P.O. 3 DE FEBRERO DE 2017)
+En caso de concurso real, las acciones penales que de ellas resulten prescribirán separadamente en el término señalado a cada uno de los delitos.
 
 ###### Art. 71.
 
@@ -1172,19 +974,7 @@ DE LAS FACULTADES DEL CONGRESO.
 
 ###### ARTICULO 133.
 
-Las notificaciones de los actos administrativos se harán:
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-I.- Personalmente, por correo certificado, o por medios electrónicos mediante documentos digitales y con la firma electrónica avanzada, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
-
-Las notificaciones efectuadas mediante documentos digitales se harán por medios electrónicos y con la firma electrónica avanzada, en los términos que establece la Ley Sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado.
-
-II.- Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior.
-
-III.- Por estrados, en los casos que señalen las leyes fiscales y este Código.
-
-IV.- Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en el Estado.
+Cuando para deducir la acción penal sea necesario que antes se termine un juicio diverso, civil o criminal, no comenzará a contar la prescripción, sino hasta que en el juicio previo se haya pronunciado sentencia firme.
 
 ###### Art. 73.
 
@@ -1446,9 +1236,7 @@ DE LA COMISION PERMANENTE.
 
 ###### ARTICULO 134.
 
-Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que fueron hechas y al practicarlas deberá proporcionarse al interesado copia del acto administrativo que se notifique. Cuando la notificación la hagan personalmente las autoridades fiscales, deberá señalarse la fecha en que ésta se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia. Si ésta se niega a una u otra cosa, se hará constar en el acta de notificación.
-
-La manifestación que haga el interesado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma desde la fecha en que se manifieste haber tenido tal conocimiento, si esta es anterior a aquélla en que debiera surtir efectos la notificación de acuerdo con el párrafo anterior.
+La prescripción de las acciones se interrumpirá por las diligencias que se practiquen en la averiguación previa del delito y del presunto responsable, aunque por ignorarse quien sea éste, no se practiquen dichas diligencias contra personas determinadas. Si se dejara de actuar, la prescripción comenzará de nuevo a contar desde el día de la última diligencia.
 
 ###### Art. 78.
 
@@ -1462,1495 +1250,1803 @@ Durante el receso del Congreso habrá una Comisión Permanente compuesta de vein
 
 ###### ARTICULO 135.
 
-Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales, si las personas a quienes deba notificarse se presentan en las mismas.
-
-También se podrán efectuar en el último domicilio que el interesado haya señalado para efectos del registro estatal de contribuyentes, salvo que hubiera designado otro para recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de las actuaciones relacionadas con el trámite o la resolución de los mismos.
-
-Toda notificación personal, realizada con quien deba entenderse, será legalmente válida aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-Las notificaciones personales por correo certificado con acuse de recibo, podrán realizarse aún cuando el domicilio del contribuyente se encuentre fuera de la circunscripción territorial de la autoridad.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-Tratándose de procedimientos instaurados por las Autoridades Fiscales de los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, cuando el domicilio del interesado se encuentre en cualesquiera de los citados Municipios, la diligencia se practicará directamente por la Autoridad Instructora. En los demás casos, tratándose del resto de los municipios del Estado, las diligencias se practicarán vía exhorto, y en el caso de Municipios de otro Estado, el exhorto se remitirá previa certificación de firmas por parte de la Secretaría General de Gobierno.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+Lo prevenido en el artículo anterior no comprende el caso en que las diligencias se practiquen después de que haya transcurrido la mitad del término de la prescripción, pues entonces ya no se podrá interrumpir ésta, sino por la aprehensión del acusado.
 
 #### SECCION PRIMERA. Disposiciones Generales
 
 ###### ARTICULO 136.
 
-Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, para que espere a una hora fija del día hábil posterior, y en caso de que tampoco sea posible dejar el citatorio debido a que la persona que atiende se niega a recibirlo, o bien, nadie atendió la diligencia en el domicilio, la notificación se realizará conforme a lo señalado en el artículo 133, fracción III de este Código.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-El citatorio a que se refiere este artículo será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino debidamente identificados. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará conforme a lo señalado en el artículo 133, fracción III de este Código.
-
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán los gastos de ejecución a cargo de quien incurrió en el incumplimiento.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+Si para deducir la acción penal la Ley exigiere previa declaración de alguna autoridad, no comenzará a contar la prescripción sino hasta que se emita aquélla.
 
 #### SECCION SEGUNDA. Del Embargo
 
 ###### ARTICULO 137.
 
-Cuando las personas a quienes se haya de notificar, omitan señalar domicilio en su primer escrito o hayan variado su domicilio fiscal para el caso de que lo hubieren manifestado ante la propia autoridad y no hubieren notificado esta situación, o bien se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación o cuando habiéndose efectuado la notificación a través de edictos, el notificado no compareciere, las notificaciones que deban efectuarse, aún las de carácter personal, se efectuarán por estrados a través de instructivo que deberá contener el texto íntegro del acto de autoridad que se pretenda notificar y que se fijará durante cinco días en un sitio abierto al público de las oficinas de la autoridad y del cual se dejará constancia en el expediente respectivo y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. En estos casos se tendrá como fecha de notificación la del sexto día, contado a partir del siguiente a aquél en que se hubiera fijado y publicado el documento.
+Una vez consignada la averiguación, la prescripción se computará desde que el Juez debió resolver sobre la orden de aprehensión solicitada, y sólo se interrumpirá con la detención del acusado. La misma situación se observará tratándose de la reaprehensión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
+### CAPITULO II. QUEBRANTAMIENTO DE SANCION
 
 ###### ARTICULO 138.
 
-Las notificaciones por edictos se harán mediante publicaciones durante dos días consecutivos en el Periódico Oficial del Estado, en uno de los periódicos de mayor circulación en el Estado y durante quince días en la página electrónica que al efecto establezca la Secretaría de Finanzas y Tesorería General del Estado o las autoridades fiscales, y contendrá un resumen de los actos que se notifican.
-
-En este caso se tendrá como fecha de notificación la de la última publicación.
+Los términos para la prescripción de las sanciones serán continuos y se contarán desde el día siguiente a aquél en que el condenado se sustraiga a la acción de la autoridad, si las sanciones son privativas de libertad, y si no lo son, desde la fecha de la sentencia firme.
 
 ###### ARTICULO 139.
 
-Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
-
-I.- Depósito de dinero mediante certificado expedido por la Secretaría de Finanzas y Tesorería General del Estado o en las instituciones de crédito autorizadas para tal efecto.
-
-II.- Prenda o Hipoteca.
-
-III.- Fianza otorgada por institución autorizada, la que no gozará de los beneficios de orden y excusión.
-
-IV.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
-
-V.- Embargo en la vía administrativa.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
-
-La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes y así sucesivamente.
-
-La Secretaría de Finanzas y Tesorería General del Estado vigilará que las garantías sean suficientes tanto en el momento de su aceptación como con posterioridad, y si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes, previo requerimiento al particular para que mejore la garantía otorgada.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Para garantizar el interés fiscal en cualesquiera de las formas a que se refiere este artículo, se deberá cumplir con los requisitos que mediante reglas de carácter general establezca la Secretaría de Finanzas y Tesorería General del Estado.
+La sanción pecuniaria prescribirá en cinco años; prescriben en dos años las sanciones no sujetas a término. Las demás sanciones prescriben por el transcurso de un período igual al que deberían durar y una cuarta parte más, pero nunca excederán de quince años.
 
 ###### ARTICULO 140.
 
-Procede garantizar el interés fiscal, cuando:
+El término para la prescripción de la sanción pecuniaria se computará a partir de que se dicte sentencia firme en el procedimiento penal.
 
-I.- Se solicite la suspensión del procedimiento administrativo de ejecución.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-II.- Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades.
-
-III.- Se solicite la aplicación del producto en los términos del último párrafo del Artículo 153 de este Código.
-
-IV.- En los demás casos que señalen este ordenamiento y las Leyes Fiscales.
-
-No se otorgará garantía respecto de gastos de ejecución.
+Las causas de extinción de la acción penal y de la sanción, no se extienden a la reparación del daño, salvo las excepciones señaladas en este Código.
 
 ###### ARTICULO 141.
 
-Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del Artículo 139 de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
-
-Si la garantía consiste en depósito de dinero en institución nacional de crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Finanzas y Tesorería General del Estado.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+Cuando el sentenciado hubiere extinguido una parte de la sanción, se necesitará para la prescripción tanto tiempo como el que le falte de la condena y una cuarta parte más, pero estos períodos no excederán de quince años.
 
 ###### ARTICULO 142.
 
-No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación. Cuando el contribuyente hubiere interpuesto en tiempo y forma recurso de revocación en contra de un acto, el procedimiento administrativo de ejecución quedará suspendido sin necesidad de garantía alguna, hasta que se notifique la resolución definitiva que hubiere recaído sobre el mismo. El contribuyente contará con un plazo de diez días siguientes a aquél en que haya surtido efectos la notificación de la resolución que recaiga al recurso de revocación; para pagar o garantizar los créditos fiscales en términos de lo dispuesto en este Código.
+La prescripción de las sanciones privativas de libertad sólo se interrumpe aprehendiendo al reo, aunque la aprehensión se ejecute por otro delito diverso.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+La prescripción de las obligaciones económicas impuestas al reo, sólo se interrumpe por el embargo de bienes para hacerlas efectivas.
 
-En el caso de que en el juicio contencioso administrativo o en el recurso de revocación, no se impugne la totalidad de los créditos que derivan del acto administrativo cuya ejecución haya sido suspendida, deberán pagarse los créditos no impugnados con los accesorios correspondientes.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
-
-No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal. En todo caso, se observará lo dispuesto en el penúltimo párrafo del artículo 139 de este Código. Asimismo, no se exigirá garantía adicional respecto a los adeudos impugnados derivados de los impuestos predial, sobre adquisición de inmuebles y sobre aumento de valor y mejoría específica de la propiedad, cuando el crédito fiscal se haya determinado a cargo del propietario del bien inmueble, excepto cuando dicho bien inmueble deje de formar parte de su patrimonio.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora si se está tramitando recurso o ante el Tribunal de Justicia Administrativa del Estado que conozca del juicio respectivo, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El superior o el tribunal ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los cinco días siguientes a su recepción.
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 143.
 
-Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante el procedimiento administrativo de ejecución.
-
-El vencimiento que ocurra durante éste, incluso liquidaciones, recargos, gastos de ejecución y cualesquiera otros, se harán efectivos conjuntamente con el crédito inicial, sin necesidad de nuevo requerimiento, ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas.
-
-Se podrá practicar embargo precautorio para garantizar el interés fiscal, antes de la fecha en que el crédito fiscal esté determinado o sea exigible, cuando a juicio de la autoridad hubiera peligro de que el obligado se ausente, enajene u oculte sus bienes, o realice cualquier maniobra tendiente a evadir el cumplimiento. Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
-
-El embargo quedará sin efecto si la autoridad no emite, dentro del plazo de tres meses contados desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá procedimiento administrativo de ejecución conforme a las disposiciones de este Capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución. Si el particular garantiza el interés fiscal en los términos del artículo 139, se levantará el embargo.
-
-En ningún caso se aplicará el procedimiento administrativo de ejecución para cobrar créditos derivados de productos.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-La Secretaría de Finanzas y Tesorería General del Estado podrá habilitar a terceros para que realicen las notificaciones que se requieran para el cobro de los créditos fiscales cumpliendo con las formalidades previstas en este Código y conforme a las reglas generales que establezca al efecto.
+Comete el delito a que se refiere este capítulo el que ejecute actos que atenten en contra de la Soberanía del Estado y la integridad de su territorio.
 
 ###### ARTICULO 144.
 
-El crédito fiscal se extingue por prescripción en el término de cinco años.
+Al responsable del delito previsto en el artículo anterior se le impondrá de cuatro a quince años de prisión y multa de sesenta a ciento setenta días salario.
 
-El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o hagar (sic) saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 142 de este Código, también se suspenderá el plazo de la prescripción.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad recaudadora o a petición del contribuyente.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+Dicha sanción se aumentará hasta por una tercera parte más si el responsable fuere Gobernador del Estado, Secretario General de Gobierno, Diputado al Congreso Local, Magistrado del Supremo Tribunal de Justicia, Procurador General de Justicia, Tesorero General, Jefe de Policía con mando en jurisdicción del Estado, Presidente Municipal, Regidor o Síndico del Ayuntamiento.
 
 ###### ARTICULO 145.
 
-Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar los gastos de ejecución.
+Cometen el delito de rebelión los que se alcen en armas con algunos de los propósitos siguientes:
 
-Por concepto de gastos de ejecución se cubrirá hasta un 10% del valor del crédito fiscal a excepción de los recargos, sobre los cuales no se causarán gastos de ejecución.
+I.- Abolir o reformar la Constitución Política del Estado o las Instituciones que de ella emanen;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+II.- Impedir la elección o renovación de alguno de los Poderes, la reunión del Congreso, del Supremo Tribunal de Justicia o de algún Ayuntamiento Municipal, o para coartar la libertad de cualquiera de estos Cuerpos en sus deliberaciones o resoluciones;
 
-En ningún caso, los gastos de ejecución, incluyendo las erogaciones extraordinarias de gastos de transporte de los bienes embargados, de avalúo, de impresión y publicación de convocatoria y edictos, de inscripción o cancelación de gravámenes en el Registro Público, los erogados por la obtención del certificado de libertad de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, podrá exceder de la cantidad equivalente a una cuota elevada a dos años.
+III.- Separar a su cargo o impedir su desempeño al Gobernador del Estado, al Secretario General de Gobierno o a cualquier otra autoridad legítimamente nombrada;
 
-Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales.
+IV.- Sustraer de la obediencia del Gobierno todo o una parte de algún Cuerpo de Seguridad; y
 
-Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a las autoridades fiscales para el establecimiento de fondos de productividad y para financiar los programas de formación de funcionarios fiscales, salvo que por Ley estén destinados a otros fines.
+V.- Despojar de sus atribuciones a alguno de los Poderes del Estado, impedirles el libre ejercicio de ellas o usurpárselas.
 
 ###### ARTICULO 146.
 
-Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor y, tratándose de adeudos provenientes de créditos fiscales sobre bienes inmuebles, el requerimiento se hará a quien aparezca como propietario o detentador del mismo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-Si el contribuyente no cubre lo que se le reclama y sus accesorios legales en el acto del requerimiento, se procederá como sigue:
-
-I.- A embargar bienes suficientes para, en su caso, rematarlos enajenarlos fuera de subasta o adjudicarlos en favor del fisco.
-
-II.- A embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellas, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
-
-El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género se inscribirá en el Registro Público que corresponda en atención a la naturaleza de los bienes o derechos de que se trate.
-
-Cuando los bienes raíces, derechos reales o negociaciones queden comprendidas en la jurisdicción de dos o más oficinas del Registro Público que corresponda, en todas ellas se inscribirá el embargo.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-Si la exigibilidad se origina por cese de la prórroga o de la autorización para pagar en parcialidades o por error aritmético en las declaraciones, el deudor podrá efectuar el pago dentro de los seis días siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+A los responsables del delito previsto en el artículo anterior se les impondrá de uno a seis años de prisión y multa de treinta a ochenta días salario y suspensión de derechos políticos hasta por cinco años. Dicha sanción se aumentará hasta por una tercera parte más si el responsable fuere el Gobernador del Estado, Secretario General de Gobierno, Diputado al Congreso Local, Magistrado del Supremo Tribunal de Justicia, Procurador General de Justicia, Tesorero General, Jefe de Policía Municipal, Regidor o Síndico de Ayuntamiento.
 
 ###### ARTICULO 147.
 
-El ejecutor designado por el jefe de la oficina exactora se constituirá en el domicilio del deudor y practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que se señalan para las notificaciones personales en el artículo 136 de este Código. De esta diligencia se levantará acta pormenorizada de la que se entregará copia a la persona con quien se entienda la misma.
+La sanción a que se refiere el artículo anterior se impondrá además en los casos siguientes:
 
-Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso, se hizo por edictos, la diligencia se entenderá con el Juez auxiliar de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
+I.- Al que residiendo en el territorio ocupado por el Gobierno bajo la protección y garantía de éste, proporcione voluntariamente a los rebeldes, hombres para el servicio de las armas, municiones, dinero, víveres o medio de transporte o impida que las tropas del Gobierno reciban esos auxilios; pero si residiendo en territorio ocupado por los rebeldes cometiere alguno de estos hechos, la sanción será de seis meses a un año de prisión y multa de quince a treinta días salario;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+II.- Al funcionario público que teniendo, por razón de su empleo o cargo el plano de una fortificación, o sabiendo el secreto de una expedición militar, revele éste o entregue aquél a los rebeldes.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPITULO III. ARMAS PROHIBIDAS
 
 #### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
 
-###### Artículo 380.
+###### ARTICULO 380.
 
-La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el treinta de abril de cada año, excepto en el último de su ejercicio, que se presentará en el mes de diciembre de ese mismo año.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-###### Artículo 381.
+###### ARTICULO 381.
 
-El Ayuntamiento presentará al Congreso, para su estudio, dictamen y aprobación, la cuenta pública del ejercicio presupuestal inmediato anterior, en los plazos establecidos en la ley de la materia.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
+###### ARTICULO 382.
 
-De no presentar en tiempo la cuenta pública al Congreso, el presidente, los integrantes de la Comisión de Hacienda y el tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-###### Artículo 382.
+### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
 
-El control y la evaluación del gasto público municipal comprenden:
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
-I. La supervisión permanente de los activos, pasivos, ingresos, costos y gastos;
+###### ARTICULO 383.
 
-II. El seguimiento a las acciones durante el desarrollo de la ejecución de los programas aprobados; y
-
-III. La medición de la eficiencia y eficacia en la consecución de los objetivos y metas de los programas.
-
-###### Artículo 383.
-
-El control y la evaluación del gasto público municipal se basarán en la información siguiente:
-
-I. La contabilidad de las dependencias y entidades;
-
-II. Los análisis de las evaluaciones que en materia de presupuesto y gasto público se realicen a las dependencias y entidades conforme a los criterios que fije la Tesorería para tal efecto;
-
-III. Las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas; y
-
-IV. Las demás fuentes y medios que se juzguen convenientes.
+No se podrá proceder contra el responsable de los delitos de golpes y violencias físicas simples, sino por querella de la persona ofendida.
 
 #### SECCIÓN II. DE LA CONTRALORÍA
 
-###### Artículo 384.
+###### ARTICULO 384.
 
-El seguimiento y medición del ejercicio del gasto público se realizará en la forma siguiente:
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-I. En reuniones entre la Tesorería y las dependencias y entidades en plazos que no sean mayores a un bimestre;
+###### ARTICULO 385.
 
-II. Mediante visitas y auditorías, y
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-III. Por medio de los sistemas de seguimiento de realizaciones financieras y de metas que determinen la Tesorería y la Contraloría en su caso.
+###### ARTICULO 386.
 
-###### Artículo 385.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-Con base en las conclusiones, informes y dictámenes que se deriven de las acciones comprendidas en el artículo anterior, la Tesorería, la Contraloría en su caso, y las dependencias y entidades, de conformidad con lo dispuesto por el presente Código y otros ordenamientos en la materia, efectuarán, según el caso, las siguientes actividades:
+###### ARTICULO 387.
 
-I. Aplicación de medidas correctivas a las normas, lineamientos, sistemas y demás instrumentos utilizados en el manejo del gasto público municipal;
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-II. Adecuaciones presupuestarias;
+## TITULO DECIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD EN EL GOCE DE GARANTIAS
 
-III. Fincamiento de las responsabilidades que procedan, y
+### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
 
-IV. Determinación de las previsiones que constituyan una de las bases para la programación - presupuestación del ejercicio siguiente.
+###### ARTICULO 388.
 
-###### Artículo 386.
+Comete el delito de privación ilegal de la libertad y de otras garantías:
 
-El Ayuntamiento, de conformidad con lo dispuesto por el artículo 35, fracción XXI, de la Ley Orgánica del Municipio Libre, establecerá un órgano de control interno autónomo, el cual, para los efectos de este Código, se denominará Contraloría, que desarrollará funciones de control y evaluación.
+I.- El particular que ilegalmente prive a otro de su libertad; y
 
-###### Artículo 387.
+II.- El que por cualquier medio prive con perjuicio de otro, de los derechos y garantías establecidos por la Constitución General de la República en favor de las personas, siempre que no tenga señalada pena especial en este Código u otras leyes.
 
-Corresponde a la Contraloría coordinar los sistemas de auditoría interna, así como de control y evaluación del origen y aplicación de recursos.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Los sistemas de auditoría interna permitirán:
+###### ARTICULO 389.
 
-I. Verificar el cumplimiento de normas, objetivos, políticas y lineamientos;
+Al responsable del delito a que se refiere el artículo anterior, se le impondrá una sanción de uno a cinco años de prisión y multa de treinta a cien días de salario.
 
-II. Promover la eficiencia y eficacia operativa; y
+###### ARTICULO 390.
 
-III. La protección de los activos y la comprobación de la exactitud y confiabilidad de la información financiera y presupuestal.
+Se impondrá la sanción a que se refiere el artículo anterior:
 
-###### Artículo 388.
+I.- Al que obligue a otro a prestarle trabajos o servicios personales sin la retribución debida, ya sea empleando violencia física o moral, o valiéndose del engaño, de la intimidación o de cualquier medio; y
 
-La Contraloría verificará el cumplimiento de la normatividad en el ejercicio del gasto de las dependencias y entidades, quienes le proporcionarán toda la información que les solicite en el ejercicio de esta atribución.
+II.- Al que celebre con otro un contrato que prive a éste de la libertad, o le imponga condiciones que lo constituyan en una especie de servidumbre o se apodere de una persona y la entregue a otra con el objeto de que ésta celebre contrato.
 
-###### Artículo 389.
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-La Contraloría, en caso de determinar la falta de aplicación de la normatividad en el ejercicio del gasto por parte de las dependencias y entidades, reportará tal situación al Cabildo e impondrá las medidas correctivas.
+### CAPITULO II. SECUESTRO
 
-###### Artículo 390.
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Las auditorías al gasto público municipal podrán ser de tipo financiero, operacional, de resultado de programas y de legalidad, las cuales serán realizadas por la Contraloría y, en su caso por auditores externos.
+###### ARTICULO 391.
 
-###### Artículo 391.
+Comete el delito de secuestro quien, por cualquier medio, prive de la libertad a otro, con alguno de los siguientes propósitos:
 
-Los hechos, conclusiones, recomendaciones y, en general, los informes y resultados de las auditorías practicadas, facilitarán la medición de la eficiencia en la administración de los recursos y el cumplimiento de metas, para apoyar las actividades de evaluación del gasto público, la determinación de las medidas correctivas que sean conducentes y, en su caso, las responsabilidades que procedan.
+I.- Obtener un beneficio económico para sí o para un tercero;
 
-Las actividades propias de la auditoría no obstaculizarán las labores operativas y trámites administrativos que directamente realicen las dependencias y entidades.
+II.- Que la autoridad o un particular realice o deje de realizar un acto cualquiera;
 
-###### Artículo 392.
+III.- Alterar la integridad física o mental del secuestrado o de cualquier otra persona relacionada con éste, ó
 
-La Contraloría, con base en sus programas anuales de auditoría y sin perjuicio de lo establecido en otras disposiciones legales, realizará las actividades siguientes:
+IV.- Causar daño o perjuicio económico al secuestrado o a otra persona relacionada con éste.
 
-I. Evaluar los sistemas y procedimientos de las dependencias y entidades;
+Al que cometa el delito de secuestro, se le aplicarán de quince a cuarenta años de prisión y de quinientos a dos mil días de salario.
 
-II. Revisar las operaciones, transacciones, registros, informes y estados financieros;
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-III. Comprobar el cumplimiento de las normas, disposiciones legales y políticas aplicables a la entidad, en el desarrollo de sus actividades;
+###### ARTICULO 391 Bis.
 
-IV. Examinar la asignación y utilización de los recursos financieros, humanos y materiales;
+Se impondrán de treinta a cincuenta años de prisión y multa de mil a tres mil días de salario y, en su caso, destitución e inhabilitación del servidor público por un tiempo igual al de la pena de prisión impuesta, cuando en la ejecución del delito de secuestro a que se hace referencia en el artículo 391 de éste Código, concurra alguna de las circunstancias siguientes:
 
-V. Revisar el cumplimiento de los objetivos y metas fijados en los programas a cargo de la dependencia o entidad;
+I.- Que el secuestrado sea menor de dieciocho o mayor de sesenta años o que tenga alguna discapacidad física o mental;
 
-VI. Participar en la determinación de indicadores para la realización de auditorías operacionales y de resultados de los programas;
+II.- Que el secuestrador tenga o haya tenido vínculos de parentesco, amistad, gratitud, confianza o relación laboral con el secuestrado o persona relacionada con éste;
 
-VII. Analizar y opinar sobre la información que produzca la dependencia o entidad para efectos de evaluación;
+III.- Que el secuestrador sea o haya sido servidor público o miembro de una corporación de seguridad privada;
 
-VIII. Promover la capacitación del personal de auditoría;
+IV.- Que el secuestro se desarrolle en dos o más entidades federativas;
 
-IX. Vigilar el cumplimiento de las medidas correctivas; y
+V.- Que el secuestrador cause una mutilación física o extraiga alguno de los órganos del secuestrado;
 
-X. Las demás que determine el Cabildo.
+VI.- Que el secuestrador altere la salud del secuestrado o de los familiares de éste en forma permanente o grave;
 
-###### Artículo 393.
+VII.- Que la víctima sea una mujer en estado de embarazo;
 
-La Contraloría elaborará un programa anual de auditoría, el cual contendrá:
+VIII.- Que la víctima pierda la vida después de la cesación del delito, por una causa originada durante el mismo, o
 
-I. Los tipos de auditoría a practicar;
+IX.- Que persona relacionada con el secuestrado por un vínculo de parentesco o afectivo pierda la vida como consecuencia del delito.
 
-II. Las dependencias y entidades, programas y actividades a examinar;
+En caso de que el secuestrado sea privado de la vida por sus secuestradores, la pena de prisión será de cuarenta y cinco a cincuenta años y multa de mil quinientos a tres mil quinientos días de salario.
 
-III. Los períodos estimados de realización; y
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-IV. Los días - hombre a utilizar.
+###### ARTÍCULO 391 Ter.
 
-###### Artículo 394.
+Si el secuestrador deja en libertad de manera espontánea al secuestrado dentro de los tres días siguientes a la comisión del delito, sin haber logrado alguno de los propósitos previstos en el artículo 391, se le impondrán de cuatro a doce años de prisión y multa de trescientos a mil días de salario. Se aplicará la penalidad prevista en el artículo 391 cuando exista alguna de las circunstancias señaladas en el artículo 391 Bis de este Código.
 
-La Contraloría mantendrá actualizados los manuales de normas, políticas, guías y procedimientos de auditoría y los manuales y guías de revisión para la práctica de auditorías especiales.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-###### Artículo 395.
+###### ARTICULO 392.
 
-La Contraloría, por cada una de las auditorías que se practiquen, recibirá un informe sobre el resultado de las mismas; estos informes se darán a conocer a los titulares de las dependencias y entidades auditadas para que, en su caso, ejecuten medidas tendientes a mejorar su gestión y el control interno, así como a corregir las desviaciones y deficiencias que se hubieren encontrado.
+Se impondrán de tres a diez años de prisión y multa de doscientos a quinientos días de salario al que, en relación con las conductas sancionadas en los artículos 391, 391 Bis y 391 Ter:
 
-Si, como resultado de las auditorías, se advirtieren irregularidades que afecten a la Hacienda Pública Municipal, o contravengan el presente Código, se procederá en los términos de la Ley Orgánica del Municipio Libre, de la Ley de Fiscalización Superior para el Estado de Veracruz-Llave, del Código de Procedimientos Administrativos, y las disposiciones civiles o penales aplicables, según sea el caso.
+I.- Aconseje o induzca a no presentar la denuncia del secuestro cometido, o bien a no colaborar u obstruir la actuación de las autoridades;
 
-###### Artículo 396.
+II.- Realice la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
 
-La Contraloría tendrá a su cargo un control de las observaciones y recomendaciones derivadas de la auditoría, y hará el seguimiento sobre el cumplimiento de las medidas correctivas que se hubieren acordado.
+III.- Actúe como intermediario en las gestiones de libertad, sin la autorización de los familiares directos o tutores de la víctima, o
+
+IV.- Actuando como asesor de quienes representan o gestionan a favor de la víctima, evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 392 Bis.
+
+Al que solicite u obligue al secuestrado a retirar dinero de los cajeros electrónicos y/o de cualquier cuenta bancaria a la que éste tenga acceso, se le impondrá de cinco a quince años de prisión.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 392 Ter.
+
+A quien simule encontrarse secuestrado, con amenaza de su vida o daño a su persona, con el propósito de obtener rescate o con la intención de que la autoridad o un particular realice o deje de realizar un acto cualquiera, se le impondrá de cuatro a diez años de prisión y multa de treinta a ciento cincuenta días de salario.
+
+La misma pena se aplicará a cualquiera que participe en la comisión de este delito.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO III. RAPTO
+
+###### ARTICULO 393.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
+
+###### ARTICULO 394.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
+
+###### ARTICULO 395.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
+
+###### ARTICULO 396.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 148.
 
-Los bienes o negociaciones embargados se dejarán bajo la guarda del o los depositarios que se hicieren necesarios. Los jefes de las oficinas ejecutoras bajo su responsabilidad nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales. Cuando el depositario designado no sea el deudor, éste estará obligado a entregar los bienes embargados a la persona que el ejecutor designe como depositario, en el momento de la designación, apercibiéndosele que de oponerse a la entrega se hará uso de las facultades que se establecen en el artículo 42 de este Código.
+Se aplicarán de tres meses a un año de prisión:
 
-En los embargos de bienes raíces o de negociaciones, los depositarios tendrán el carácter de administradores o de interventores con cargo a la caja, según el caso, con las facultades y obligaciones señaladas en los Artículos 159, 160 y 161 de este Código.
+I.- Al que invite formal y directamente a organizar una rebelión;
 
-La responsabilidad de los depositarios cesará con la entrega de los bienes embargados a satisfacción de las autoridades fiscales.
+II.- A los que, estando bajo la protección y garantía del Gobierno, oculten o auxilien a los espías o exploradores de los rebeldes, sabiendo que lo son;
 
-El depositario será designado por el ejecutor cuando no lo hubiere hecho el jefe de la oficina exactora, pudiendo recaer el nombramiento en el ejecutado.
+III.- Al que, rotas las hostilidades y estando en las condiciones a que se refiere la fracción anterior mantenga relaciones con el enemigo, para proporcionarle noticias concernientes a las operaciones militares u otras que le sean útiles; y
+
+IV.- Al que voluntariamente desempeñe un empleo, un cargo subalterno o comisión en lugar ocupado por los rebeldes bajo la dependencia de éstos.
 
 ###### ARTICULO 149.
 
-El embargo podrá ampliarse en cualquier momento del procedimiento administrativo de ejecución, cuando la oficina ejecutora estime que los bienes embargados son insuficientes para cubrir los créditos fiscales, previo requerimiento que se haga al contribuyente para que mejore la garantía del interés fiscal.
+A los Jefes y Servidores del Gobierno y a los rebeldes o Agentes de éstos que después del combate dieren muerte a los prisioneros, se les aplicarán de quince a treinta años de prisión.
 
 ###### ARTICULO 150.
 
-La persona con quien se entienda la diligencia de embargo, tendrá derecho a señalar los bienes en que éste se deba trabar, sujetándose al orden siguiente:
-
-I.- Dinero, metales preciosos y depósitos bancarios.
-
-II.- Acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de instituciones o empresas particulares de reconocida solvencia.
-
-III.- Bienes muebles no comprendidos en las fracciones anteriores.
-
-IV.- Bienes inmuebles.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-La persona con quien se entienda la diligencia de embargo, podrá designar dos testigos y si no lo hiciere o al terminar la diligencia los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta, sin que tales circunstancias afecten la legalidad del embargo.
+A los extranjeros que cometan los delitos previstos en este capítulo se les aplicarán las sanciones señaladas en el mismo, las que se aumentarán hasta una tercera parte más.
 
 ###### ARTICULO 151.
 
-El ejecutor podrá señalar bienes sin sujetarse al orden establecido en el artículo anterior, cuando el deudor o la persona con quien se entienda la diligencia:
-
-I.- No señale bienes suficientes a juicio del ejecutor o no haya seguido dicho orden al hacer el señalamiento.
-
-II.- Cuando teniendo el deudor otros bienes susceptibles de embargo, señale:
-
-A).- Bienes ubicados fuera de la circunscripción de la oficina ejecutora.
-
-B).- Bienes que ya reporten cualquier gravamen real o algún embargo anterior.
-
-C).- Bienes de fácil descomposición o deterioro o materias inflamables.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+No se aplicará sanción a los que depongan las armas antes de ser tomados prisioneros si no se hubiere cometido algún otro delito; en caso contrario se aplicarán las reglas del concurso.
 
 ###### ARTICULO 152.
 
-Quedan exceptuados de embargo:
-
-I.- El lecho cotidiano y los vestidos del deudor y de sus familiares.
-
-II.- Los muebles de uso común del deudor y de sus familiares, no siendo de lujo a juicio del ejecutor.
-
-III.- Los libros, instrumentos, útiles y mobiliario indispensable para el ejercicio de la profesión, arte y oficio a que se dedique el deudor.
-
-IV.- La maquinaria, enseres y semovientes de las negociaciones en cuanto fueren necesarios para su actividad ordinaria a juicio del ejecutor, pero podrán ser objeto de embargo con la negociación en su totalidad si a ella están destinados.
-
-V.- Los granos, mientras éstos no hayan sido cosechados, pero no los derechos sobre las siembras.
-
-VI.- El derecho de usufructo, pero no los frutos de éste.
-
-VII.- Los derechos de uso o de habitación.
-
-VIII.- El patrimonio de familia en los términos que establezcan las leyes, desde su inscripción en el Registro Público de la Propiedad.
-
-IX.- Los sueldos y salarios.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-X.- Las pensiones de cualquier tipo.
-
-XI.- Los Ejidos.
+Cometen el delito de sedición los que reunidos tumultuariamente pero sin armas, resistan a la autoridad o la ataquen para impedir el libre ejercicio de sus funciones, con alguno de los propósitos a que se refiere el artículo 145.
 
 ###### ARTICULO 153.
 
-Si al designarse bienes para el embargo se opusiere un tercero fundándose en el dominio de ellos, no se practicará el embargo si se demuestra en el mismo acto la propiedad con prueba documental suficiente a juicio del ejecutor. La resolución dictada tendrá el carácter de provisional y deberá ser sometida a ratificación, en todos los casos por la oficina ejecutora, a la que deberán allegarse los documentos exhibidos en el momento de la oposición. Si a juicio de la ejecutora las pruebas no son suficientes, ordenará al ejecutor que continúe con la diligencia y, de embargarse los bienes, notificará al interesado que puede hacer valer el recurso de oposición al procedimiento administrativo de ejecución en los términos de este Código.
-
-Cuando los bienes señalados para la traba estuvieren ya embargados por otras autoridades no fiscales, se practicará no obstante la diligencia. Dichos bienes se entregarán al depositario designado por la oficina ejecutora o por el ejecutor y se dará aviso a la autoridad correspondiente para que el o los interesados puedan demostrar su derecho de prelación en el cobro.
-
-Las controversias que surjan entre el fisco local y el fisco federal sobre preferencia en el cobro de los créditos a que este código se refiere, se decidirán tomando en cuenta las garantías constituidas y conforme a las siguientes reglas:
-
-I.- Los créditos fiscales por impuestos sobre la propiedad raíz serán preferentes tratándose de los frutos de los bienes inmuebles respectivos o del producto de la venta de éstos, y
-
-II.- En los demás casos, la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
-
-Para determinar la preferencia respecto de los créditos fiscales, en casos diversos de los anteriores, se estará a las siguientes reglas:
-
-I.- Los créditos del gobierno estatal provenientes de impuestos, derechos, productos o aprovechamientos, son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los obreros de acuerdo con la Ley Federal del Trabajo.
-
-II.- Para que sea aplicable la excepción a que se refiere la fracción anterior, será requisito indispensable que las garantías hipotecarias y, en su caso, las prendarias, se encuentren debidamente inscritas en el Registro Público que corresponda.
-
-III.- La vigencia y exigibilidad por cantidad líquida del derecho del crédito cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer el recurso administrativo de reclamación de preferencia.
+A los responsables de sedición se les castigará con sanción de dos meses a dos años de prisión.
 
 ###### ARTICULO 154.
 
-El embargo de créditos será notificado directamente por la oficina ejecutora a los deudores del crédito embargado, para que no hagan el pago de las cantidades respectivas a éste sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
+Cometen el delito de asonada o motín los que para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público con empleo de violencia en las personas o sobre las cosas, o amenacen a la autoridad para intimidarla u obligarla a tomar alguna determinación.
 
-Si en cumplimiento de lo dispuesto en el primer párrafo de este artículo, se paga un crédito cuya cancelación deba anotarse en el Registro Público que corresponda, la oficina ejecutora requerirá al titular de los créditos embargados para que, dentro de los cinco días siguientes a la notificación, firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
+### CAPITULO IV. ASOCIACION DELICTUOSA, PANDILLERISMO Y DELINCUENCIA ORGANIZADA
 
-En caso de abstención del titular de los créditos embargados, transcurrido el plazo indicado, el Secretario de Finanzas y Tesorero General del Estado firmará la escritura o documentos relativos en rebeldía de aquél y lo hará del conocimiento del registro público que corresponda, para los efectos procedentes.
+###### ARTICULO 397.
 
-### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-###### Artículo 397.
+###### ARTICULO 398.
 
-Las dependencias y entidades enviarán a la Contraloría, en la forma y términos que ésta indique, los siguientes documentos:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-I. Informe sobre el avance del cumplimiento de los programas anuales de las dependencias y entidades;
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-II. Informes de las observaciones derivadas de las auditorías, y
+## TITULO DECIMO NOVENO. DELITOS CONTRA EL PATRIMONIO DE LAS PERSONAS
 
-III. Informes sobre el seguimiento de las medidas correctivas aprobadas por el titular de la dependencia o entidad.
+### CAPITULO I. ROBO
 
-###### Artículo 398.
+###### ARTICULO 399.
 
-Las dependencias y entidades proporcionarán los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar la Contraloría.
+Comete el delito de robo, el que se apodera de una cosa mueble ajena.
 
-###### Artículo 399.
+###### ARTICULO 400.
 
-El presente Libro tiene por objeto regular la planeación, contratación, ejercicio, control y vigilancia de la deuda pública del Municipio y de sus entidades.
+Se sancionará con la pena del robo:
 
-Las operaciones de financiamiento serán pagaderas en moneda y territorio nacionales, en cumplimiento de los requisitos que en materia federal y estatal existan sobre el particular.
+I.- La disposición o el apoderamiento de una cosa mueble, ejecutados por el dueño, si la cosa se halla en poder de otro a título de prenda o de depósito decretado por una autoridad o hecho con su intervención;
 
-Las operaciones de financiamiento que se otorguen con garantía del Estado, se regirán por el Código Financiero para el Estado de Veracruz-Llave.
+II.- El apoderamiento de una cosa mueble por su dueño, si la cosa está en poder de otro a resultas de contrato público o privado;
 
-###### Artículo 400.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
-La deuda pública municipal, para efectos de este ordenamiento, está constituida por las obligaciones de pasivo, directas o contingentes, derivadas de financiamientos y a cargo del patrimonio de:
+III.- El aprovechamiento de energía eléctrica o de cualquier otro fluido, ejecutado sin consentimiento de la persona que legalmente pueda disponer de él;
 
-I. El Municipio;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
-II. Los organismos descentralizados;
+IV.- El apoderamiento material de los documentos que contengan datos de computadoras o el aprovechamiento o utilización de dichos datos, sin consentimiento de la persona que legalmente pueda disponer de los mismos; y
 
-III. Las empresas de participación municipal mayoritaria; y
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
-IV. Los fideicomisos en los que el fideicomitente sea el Municipio o alguna de las entidades mencionadas en las fracciones II y III de este artículo.
+V.- El apoderamiento material de documentos u objetos personales ajenos, con la finalidad de suplantar la identidad del propietario de éstos, o hacer uso de estos o de la información que contienen o acceder a ella por cualquier medio, con la finalidad de obtener un lucro para sí o para otro.
 
-###### Artículo 401.
+###### ARTICULO 401.
 
-Para los efectos de este ordenamiento, se entiende por financiamiento la contratación de créditos, empréstitos o préstamos derivados de:
+Para la aplicación de la sanción se tendrá por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada, aun cuando la abandone o lo desapoderen de ella.
 
-I. La suscripción o emisión de títulos de crédito o cualquier otro documento pagadero a plazo;
+###### ARTICULO 402.
 
-II. La adquisición de bienes, así como la contratación de obras o servicios cuyo pago se pacte en plazos que excedan de un ejercicio presupuestal;
+El delito de robo simple se sancionará en la forma siguiente:
 
-III. Los pasivos contingentes relacionados con los actos mencionados; y
+I.- Cuando el valor de lo robado no exceda de cien días de salario, se impondrá una sanción de dos meses a dos años de prisión y multa de cinco a cuarenta días salario;
 
-IV. La celebración de actos jurídicos análogos a los anteriores.
+II.- Si excede de cien, pero no de doscientos días salario, la pena será de dos a seis años de prisión y multa de cuarenta a ochenta días salario; y
 
-El Congreso sólo autorizará la contratación de operaciones de financiamiento, directas o contingentes, cuando se trate de inversiones públicas productivas.
+III.- Cuando excediere de doscientos días salario, la sanción será de seis a doce años de prisión y multa de ochenta a ciento cuarenta días salario.
 
-###### Artículo 402.
+###### ARTICULO 403.
 
-Las operaciones de endeudamiento que, previo cumplimiento de los requisitos detallados por este Código, asuma el Municipio, por sí o por sus entidades, se destinarán a inversiones públicas productivas, entendiéndose como tales, aquellas creadas para la ejecución de obras, adquisición o manufactura de bienes y prestación de servicios, que produzcan directa o indirectamente un incremento en los ingresos del Municipio, o tengan una clara repercusión en beneficio de la sociedad y de la economía local.
-
-###### Artículo 403.
-
-Cuando las condiciones financieras del Ayuntamiento así lo hagan necesario, previo acuerdo del Cabildo, y cumpliendo con las disposiciones de la ley, se podrán contraer nuevas obligaciones, para la reestructuración de los créditos ya adquiridos.
+Para estimar la cuantía del robo se atenderá al valor intrínseco de la cosa robada en el momento de su consumación. Si no fuere estimable en dinero, si por su naturaleza no se puede fijar su valor, o cantidad, o si por cualquier circunstancia no se haya valorizado, se aplicarán de seis meses a cinco años de prisión. Igualmente se atenderá al valor intrínseco de la cosa que se intentó robar en el momento del último acto tendiente a la ejecución; en los casos de tentativa de robo, cuando no se pueda determinar su monto, se aplicarán de seis meses a dos años de prisión.
 
 ###### ARTICULO 155.
 
-El dinero, metales preciosos, alhajas y valores mobiliarios embargados, se entregarán por el depositario a la oficina ejecutora, previo inventario, dentro de un plazo que no excederá de veinticuatro horas.
-
-Las sumas de dinero objeto del embargo, así como la cantidad que señale el propio ejecutado, se aplicarán a cubrir el crédito fiscal al recibirse en la caja de la oficina ejecutora.
+A los responsables del delito previsto en el artículo anterior se les impondrá sanción de seis meses a cuatro años de prisión y multa de quince a sesenta días salario.
 
 ###### ARTICULO 156.
 
-Si el deudor o cualquiera otra persona impidiera materialmente al ejecutor el acceso al domicilio de aquél o al lugar en que se encuentren bienes, siempre y cuando se haya dado orden de cateo, el ejecutor solicitará el auxilio de la policía o de otra fuerza pública para llevar adelante el procedimiento de ejecución.
+Cometen el delito de conspiración quienes resuelvan de concierto realizar alguno de los delitos de que tratan los dos capítulos anteriores, acordando los medios de llevar a efecto su determinación.
 
 ###### ARTICULO 157.
 
-Si durante el embargo, la persona con quien se entienda la diligencia no abriera las puertas de las construcciones, edificios o casas señalados para la traba, o en los que se presuma que existen bienes muebles embargables, el ejecutor previo acuerdo de cateo del jefe de la oficina ejecutora, hará que ante dos testigos sean rotas las cerraduras que fueren necesarias, para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
-
-En igual forma procederá el ejecutor cuando la persona con quien se entienda la diligencia no abriere los muebles en los que aquél suponga se guardan dinero, alhajas, objetos de arte u otros bienes embargables. Si no fuere factible romper o forzar las cerraduras el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la oficina exactora, donde serán abiertos en el término de tres días por el deudor o por su representante legal y, en caso contrario por un experto designado por la propia oficina.
-
-Si no fuere factible romper o forzar las cerraduras de las cajas u otros objetos unidos a un inmueble o si fueren de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido y los sellará; para su apertura se seguirá el procedimiento mencionado en el párrafo anterior.
+A los responsables del delito de conspiración se les impondrá sanción de dos meses a un año de prisión y multa de cinco a treinta días salario.
 
 ###### ARTICULO 158.
 
-Cuando las autoridades fiscales embarguen negociaciones, el depositario designado tendrá el carácter de interventor con cargo a la caja, o de administrador.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+Comete el delito a que se refiere este capítulo, el que favoreciere la evasión de quien se encuentre detenido, procesado o sentenciado.
 
 ###### ARTICULO 159.
 
-El interventor encargado de la caja deberá retirar el 10% de los ingresos netos de la negociación intervenida y entregarlos en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación.
+Al responsable del delito de Evasión de Presos se le impondrá sanción de seis meses a siete años de prisión; si la evasión se favoreciere por un servidor público con motivo del desempeño de su cargo, se sancionará además, con la destitución de su empleo.
 
-Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco del Estado, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
-
-Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 160.
 
-El interventor-administrador tendrá todas las facultades que normalmente correspondan a la administración de la sociedad y plenos poderes con las facultades que requiera cláusula especial conforme a la Ley, para ejercer actos de administración, para pleitos y cobranzas, para otorgar y suscribir títulos de crédito, y para presentar denuncias y querellas y desistirse de las mismas previo acuerdo del Secretario de Finanzas y Tesorero General del Estado.
-
-El interventor administrador no quedará supeditado en su actuación al consejo de administración, asamblea de accionistas, socios o partícipes.
-
-Tratándose de negociaciones que no constituyan una sociedad, el interventor administrador tendrá todas las facultades de dueño para la conservación y buena marcha del negocio.
+Se aplicará sanción de cuatro a doce años de prisión a los particulares que favorezcan al mismo tiempo la evasión de varias personas privadas de libertad por la autoridad competente. Si los responsables fueren servidores públicos y en el ejercicio de su cargo favorecieren la evasión, se les aplicará además lo previsto en la segunda parte del artículo anterior y se les inhabilitará para obtener otro durante un período de ocho a doce años.
 
 ###### ARTICULO 161.
 
-El interventor-administrador tendrá las siguientes obligaciones:
+Si la reaprehensión del prófugo se lograre por gestiones del responsable de la evasión, se aplicará a éste la sanción de tres días a un año de prisión.
 
-I.- Rendir cuentas mensuales comprobadas a la oficina ejecutora.
+### CAPITULO I. ATAQUES A LOS MEDIOS DE TRANSPORTE, VIAS DE COMUNICACION Y SISTEMAS DE AUXILIO A LA POBLACION
 
-II.- Recaudar el 10% de las ventas o ingresos diarios en la negociación intervenida y entregar su importe en la caja de la oficina ejecutora a medida que se efectúe la recaudación.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2007)</small>
 
-Cuando se den los supuestos de enajenación de la negociación intervenida a que se refiere el Artículo 166 de este Código, se procederá al remate de conformidad con las disposiciones contenidas en la siguiente sección de este capítulo.
+###### ARTICULO 404.
 
-### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
+Cuando el valor de la cosa robada no exceda de diez días salario, sea restituida espontáneamente por el agente antes de que la autoridad judicial tome conocimiento, no se impondrá sanción si no se ha ejecutado con violencia y se trate de un delincuente primario.
 
-###### Artículo 404.
+###### ARTICULO 405.
 
-La Tesorería es la dependencia del Ayuntamiento encargada de la aplicación de las normas en materia de deuda pública y de expedir las disposiciones necesarias para su debido cumplimiento.
+Si el robo se ejecutara por medio de la violencia, a la pena que corresponda por el robo simple, se aumentará de seis meses a tres años de prisión. Si de la conducta violenta resultare la comisión de otro delito se aplicarán las reglas del concurso.
 
-Quienes contraten financiamientos en representación de los sujetos a que se refiere el artículo 400 de este Código, serán responsables del estricto cumplimiento de este ordenamiento, de sus disposiciones reglamentarias y de las demás leyes aplicables, así como de las directrices de contratación que expida la Tesorería.
+La violencia a las personas, se distingue en física y moral.
 
-###### Artículo 405.
+Se entiende por violencia física en el robo la fuerza material que para cometerlo se hace a una persona.
 
-La deuda pública que contrate el Municipio será ordinaria y extraordinaria.
+Hay violencia moral, cuando el agente amague o amenace a una persona con un mal grave, presente, o inmediato capaz de intimidarle.
 
-La deuda pública ordinaria se contratará y ejercerá con base en el programa anual de financiamiento que anualmente apruebe el Congreso, mientras que la deuda pública extraordinaria la autorizará éste, para la contratación de financiamientos que se destinen a la atención de necesidades urgentes de liquidez, a enfrentar situaciones imprevisibles de la economía nacional, estatal y municipal y a sufragar las erogaciones que debieran efectuarse en virtud de algún acontecimiento futuro e incierto que altere la planeación financiera del Municipio y que no pudiera preverse en el programa anual de financiamiento.
+###### ARTICULO 406.
 
-Las entidades públicas a que se refieren las fracciones II a IV del artículo 400, contratarán su deuda pública, con base en las autorizaciones específicas del Congreso.
+Para la imposición de la sanción, se tendrá también el robo como hecho con violencia:
 
-###### Artículo 406.
+I.- Cuando ésta se haga a una persona distinta de la robada, que se encuentre en compañía de ella; y
 
-Corresponde al Cabildo, por conducto de la Tesorería y, en su caso, del Presidente y del Síndico.
+II.- Cuando el agente la ejercita después de consumado el robo, para proporcionarse la fuga o retener lo robado.
 
-I. Elaborar el programa anual de financiamiento con base en el cual se contratará y manejará la deuda pública;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2003)</small>
 
-II. Emitir opinión sobre la procedencia del otorgamiento de garantía municipal, para la contratación de financiamientos a cargo de las entidades a que se refieren las fracciones II a IV del artículo 400 de este ordenamiento;
+###### ARTICULO 407.
 
-III. Cuidar que los recursos procedentes de financiamientos constitutivos de la deuda pública se destinen a los fines para los que fueron contratados;
+La sanción que corresponda al responsable de robo simple se aumentará con tres años a doce años de prisión:
 
-IV. Contratar y manejar la deuda pública del Municipio y otorgar la garantía del mismo para la realización de operaciones crediticias;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-V. Vigilar que la capacidad de pago del Municipio sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá supervisar en forma permanente el desarrollo del programa de financiamiento aprobado, así como la adecuada estructura financiera del propio Municipio;
+I.- Cuando el robo se cometa en un edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación o alguna de sus dependencias, como son las cocheras, pasillos, patios, azoteas, escaleras, cuartos de servicio, de almacenaje, jardines y corrales, comprendiéndose en esta denominación, no sólo los que estén fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construidos;
 
-VI. Vigilar que se hagan oportunamente los pagos de capital e intereses de los créditos contratados por el Municipio, y que las partidas destinadas a su amortización sean fijadas en el presupuesto de egresos respectivo;
+II.- Cuando se cometa en un parque u otro lugar cerrado, o en un edificio, o pieza que no estén habitados ni destinados para habitarse;
 
-VII. Participar en las negociaciones y suscribir los convenios que tengan por objeto, la reestructuración, conversión o consolidación de la deuda pública, a fin de reducir las cargas financieras del Municipio;
+Se entiende por lugar cerrado, todo terreno que no tenga comunicación con un edificio ni esté dentro del recinto de éste, y que para impedir la entrada se halla rodeado de pozos, enrejados, tapias o cercas, aunque éstas sean de piedra suelta, de madera, arbustos, magueyes, órganos, espinos, ramas secas o de cualquier otra materia.
 
-VIII. Llevar el registro de la deuda del sector público municipal, conforme a la normatividad respectiva e inscribirse y proporcionar la información que le sea requerida para efectos del Registro de Deuda Municipal que tiene a su cargo el Congreso, o en su caso, para efectos del Registro de Deuda Estatal que controla la Secretaría de Finanzas y Planeación del Gobierno del Estado;
+III.- Cuando lo cometa un dependiente o un doméstico contra su patrón, o alguno de la familia de éste en cualquier parte que lo realice;
 
-IX. Sustituir su calidad de deudor directo al transferir total o parcialmente su obligación, cuando sus organismos descentralizados, empresas de participación municipal y fideicomisos se subroguen en los compromisos financieros contraídos originalmente por el Ayuntamiento; pudiendo también asumir la calidad de avalista;
+IV.- Cuando un huésped o comensal, alguno de su familia, o de los sirvientes que lo acompañen, lo cometa en la casa donde reciben hospitalidad, obsequio o agasajo;
 
-X. Informar trimestralmente al Congreso sobre el estado que guarda la deuda pública, así como proporcionar la información que éste y el Ejecutivo del Estado le requieran; y
+V.- Cuando lo cometa el dueño o alguno de sus familiares en la casa del primero, contra sus dependientes o domésticos o contra cualquiera otra persona;
 
-XI. Las demás que le atribuya este ordenamiento, las que le sean delegadas conforme a la ley, y las que establezcan las normas aplicables.
+VI.- Cuando lo cometan los dueños, dependientes, encargados de empresas o establecimientos comerciales en los lugares en que presten sus servicios al público y en los bienes de los huéspedes o clientes;
 
-Los titulares de las entidades a que se refieren las fracciones II a IV del artículo 400 de este Código, ejercerán en el ámbito de su competencia y en lo conducente, las atribuciones enumeradas, y, adicionalmente, se encontrarán obligados a informar a la Tesorería, del estado que guarda la deuda que contraten, para los efectos de la fracción VIII de este artículo.
+VII.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en la casa, taller o escuela en que habitualmente trabajen o aprendan, o en la habitación, oficina, bodegas y otro lugar al que tengan libre entrada por el cargo indicado;
 
-###### Artículo 407.
+VIII.- Cuando se robe a las víctimas de catástrofes o de accidentes aéreos o con motivo de tránsito de vehículos;
 
-Corresponde al Congreso:
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2003)</small>
 
-I. Aprobar anualmente en la Ley de Ingresos los programas anuales de financiamiento del Ayuntamiento para cada ejercicio fiscal;
+IX.- Cuando el objeto del apoderamiento sea un vehículo en circulación o estacionado en la vía pública o lugar destinado a su guarda o reparación;
 
-II. A solicitud del Ayuntamiento, autorizar la contratación de deuda pública extraordinaria, cuando a su juicio las circunstancias lo ameriten;
+X.- Cuando el robo se cometa en una oficina recaudadora u otra en la que se conserven caudales, o cuando éstos sean transportados;
 
-III. Autorizar de manera expresa la contratación de endeudamiento por los Ayuntamientos, cuando los plazos de amortización de los créditos rebasen el término del periodo constitucional para el que fueron elegidos;
+XI.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público.
 
-IV. Autorizar a las entidades de la administración pública paramunicipal la contratación de endeudamiento.
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
 
-V. Autorizar la afectación en garantía de las participaciones federales que le correspondan al Municipio, informando al Ejecutivo del Estado;
+XII.- Cuando se desmantelen uno o más vehículos robados o comercialicen conjunta o separadamente sus partes;
 
-VI. Verificar que todas las operaciones de deuda que realicen el Ayuntamiento y sus entidades, se apeguen a las disposiciones legales;
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
 
-VII. Informar al Ejecutivo del Estado, con propósitos de registro, así como al Ayuntamiento, de cualquier observación que surja de la verificación a que se refiere la fracción anterior, sin perjuicio de las responsabilidades que originen;
+XIII.- Cuando se enajenen o trafiquen de cualquier manera un vehículo o vehículos robados;
 
-VIII. Operar el Registro de Deuda Pública Municipal; y
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
 
-IX. Las demás que le confieran este Código y otras leyes.
+XIV.- Cuando se altere o modifique de cualquier manera la documentación que acredite la propiedad o los datos de identificación de un vehículo, sin estar facultado para ello;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
+
+XV.- Cuando se traslade el o los vehículos robados a otra entidad federativa a al extranjero;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
+
+XVI.- Cuando se utilice el o los vehículos robados en la comisión de otro u otros delitos; y (sic)
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2003)</small>
+
+XVII.- Cuando se posea o utilice algún vehículo de fuerza motriz robado, conociendo tal circunstancia;
+
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2007)</small>
+
+XVIII.- Cuando el robo se cometa en perjuicio de alguna Institución Educativa.
 
 ###### ARTICULO 162.
 
-El nombramiento de interventor-administrador deberá anotarse en el Registro Público que corresponda al domicilio de la negociación intervenida.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+Al preso que se fugue no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos, o ejerciere violencia en las personas o en las cosas, en cuyo caso se le impondrá la sanción de seis meses a tres años de prisión.
 
 ###### ARTICULO 163.
 
-Sin perjuicio de lo dispuesto por el Artículo 160 de este Código, la Asamblea y Administración de la sociedad podrán continuar reuniéndose regularmente para conocer los asuntos que les competen y de los informes que formule el interventor administrador sobre el funcionamiento y las operaciones de la negociación, así como para opinar sobre los asuntos que les someta a su consideración. El interventor podrá convocar a asamblea de accionistas, socios o partícipes y citar a la administración de la sociedad con los propósitos que considere necesarios o convenientes, previa autorización del Secretario de Finanzas y Tesorero General del Estado.
+No se impondrá sanción a los ascendientes, descendientes, cónyuge, concubina, concubinario, hermanos y parientes por afinidad hasta el segundo grado del prófugo, excepto en el caso que hayan favorecido la fuga por medio de la violencia en las personas o en las cosas.
 
 ###### ARTICULO 164.
 
-En caso de que la negociación que se pretenda intervenir ya lo estuviera por mandato de otra autoridad, se nombrará, no obstante, el nuevo interventor, que también lo será para las otras intervenciones mientras subsista la efectuada por las autoridades fiscales. La designación o cambio de interventor se pondrá en conocimiento de las autoridades que ordenaron las anteriores o posteriores intervenciones.
+Al detenido que se fugue estando bajo alguna de las sanciones privativas de la libertad, o en detención o prisión preventiva, no se le contará el tiempo que pase fuera del lugar de su reclusión ni se tomará en cuenta la buena conducta que haya tenido antes de la fuga.
 
 ###### ARTICULO 165.
 
-La intervención se levantará cuando el crédito fiscal se hubiera satisfecho o cuando de conformidad con este Código se haya enajenado la negociación. En estos casos la oficina ejecutora comunicará el hecho al Registro Público que corresponda para que se cancele la inscripción respectiva.
+Al sentenciado a confinamiento, que salga del lugar que se le haya fijado como su residencia, antes de extinguirlo, se le aplicará prisión por el tiempo que le falte para cumplir tal sanción.
 
 ###### ARTICULO 166.
 
-El Secretario de Finanzas y Tesorero General del Estado podrá proceder a la enajenación de la negociación intervenida cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 30% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado período del año, en cuyo caso el porciento será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porciento del crédito que resulte.
+Se impondrá de tres días a dos meses de prisión:
+
+I.- Al sentenciado sometido a vigilancia de la policía que no administre a ésta los informes que se le pida sobre su conducta;
+
+II.- A aquél a quien se hubiere prohibido ir a (sic) determinado lugar o residir en él, si violare la prohibición.
 
 ###### ARTICULO 167.
 
-Procederá la iniciación del procedimiento de remate y enajenación de los bienes embargados:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-I.- A partir del día siguiente a aquél en que se hubiese fijado la base en los términos del Artículo 169 de este Código.
-
-II.- En los casos de embargo precautorio a que se refiere el artículo 143 de este Código, cuando los créditos se hagan exigibles y no se paguen al momento del requerimiento.
-
-III.- Cuando el embargado no proponga comprador dentro del plazo a que se refiere la Fracción I del Artículo 186 de este Código.
-
-IV.- Al quedar firme la resolución confirmatoria del acto impugnado, recaída en los medios de defensa que se hubieren hecho valer.
+Al que se encuentre suspendido o privado de sus derechos para ejercer su profesión u oficio, o inhabilitado para ejercer cargo público, que quebrante su condena, se le aplicará una multa de diez a cuarenta días salario. En caso de reincidencia se duplicará la multa y se aplicará prisión de uno a seis años. Si se le ha privado de los derechos, su quebrantamiento se sancionará con prisión de dos a ocho años y multa de cuarenta a cien días salario.
 
 ###### ARTICULO 168.
 
-Salvo los casos que este Código autoriza, toda enajenación se hará en subasta pública que se celebrará en el local de la oficina ejecutora.
+Son armas prohibidas:
 
-La autoridad podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
+I.- Los puñales, verduguillos y demás armas ocultas o disimuladas en bastones u otros objetos;
 
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### Artículo 408.
+II.- Los cuchillos, las navajas de muelle, o cualquier otro instrumento que aún siendo de uso doméstico o de actividad laboral o deportiva sirva para agredir;
 
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Planeación:
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-I. A solicitud expresa del Ayuntamiento, proporcionar los informes, datos y cooperación técnica que requiera para la elaboración de programas financieros;
+III.- Los boxes, manoplas, macanas, correas con varas, pesas o puntas y las demás similares;
 
-II. Asesorar técnicamente y apoyar al Municipio y a las entidades a que se refiere el artículo 400 de este Código en la gestión, concertación y contratación de sus operaciones de deuda pública;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-III. Promover y apoyar la operación de instrumentos y modalidades de financiamiento municipal, incluyendo adquisiciones consolidadas de bienes, pagaderas a plazo, constitución de fondos y otros que autoricen las leyes respectivas;
+IV.- Las bombas, aparatos explosivos o de gases asfixiantes o tóxicos y los demás similares; y
 
-IV. Expedir los certificados de afectación a los ingresos municipales en participaciones federales, cuando el Ayuntamiento los otorgue como garantía de financiamiento;
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-V. Cuando el Estado sea avalista del Municipio, solicitar al Ayuntamiento la información sobre sus operaciones de financiamiento y sobre los saldos y circunstancias de su deuda pública; y
+V.- Las que otras leyes y reglamentos designen como tales.
 
-VI. Las demás que le confieran este Código y otras leyes.
+### CAPITULO II. VIOLACION DE CORRESPONDENCIA
 
-###### Artículo 409.
+###### ARTICULO 408.
 
-A fin de que las entidades a que refieren las fracciones II a IV del artículo 400 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 406, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquella que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
+Al responsable del apoderamiento o destrucción de expedientes o cualquier pieza de autos civiles o criminales, de algún documento de protocolo, oficina o archivo públicos, o que contenga obligación, liberación o transmisión de derechos, se le sancionará en los términos previstos en la fracción II del artículo 402.
+
+###### ARTICULO 409.
+
+Cuando el apoderamiento se cometa en despoblado recayendo sobre algún instrumento de labranza, maquinaria, del alambre, postes, materiales, materias primas, fruto recolectado o pendiente de recolectar, la pena se agravará hasta en una mitad más de la señalada en el artículo 402 fracciones I, II y III, según el valor de lo robado.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 169.
 
-La base para la enajenación de los bienes inmuebles embargados será el avalúo que formule la dependencia administrativa competente de la Secretaría de Finanzas y Tesorería General del Estado, en negociaciones será el avalúo pericial que formule institución nacional de crédito autorizada para tal efecto, y en los demás casos la que fijen de común acuerdo la autoridad y el embargado en un plazo de seis días. A falta de acuerdo, la Secretaría de Finanzas y Tesorería General del Estado practicará avalúo pericial. En todo caso se notificará personalmente al embargado el resultado de la valuación.
+Se aplicará de seis meses a tres años de prisión y multa de quince a cincuenta días salario, al que porte alguna de las armas a que se refiere el artículo anterior.
 
-Si dentro de los seis días siguientes a aquél en que surta efectos la notificación a que se refiere el párrafo anterior, el embargado se inconforma con la valuación de los inmuebles o negociaciones embargados, la autoridad exactora, nombrará como perito a alguna institución nacional de crédito autorizada. El avalúo que emita dicha institución será la base para la enajenación de los bienes.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+Tratándose de las señaladas en la fracción II del artículo anterior, solo se sancionara cuando sean portadas en lugares o reuniones públicas y no se justifique su portación.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 170.
 
-El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a aquélla en que se haya determinado el precio que sirva de base. La publicación de la convocatoria se hará cuando menos diez días antes del remate.
+Se impondrá sanción de seis meses a seis años de prisión y multa de quince a ochenta días salario, al que forme parte de una asociación o banda de tres o más personas organizada para delinquir, por el sólo hecho de ser miembro de la asociación. En caso de haberse cometido otro delito se aplicarán las reglas del concurso.
 
-La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco cuotas elevadas al año, la convocatoria se publicará en el órgano oficial de la entidad y en uno de los periódicos de mayor circulación.
+El Juez, en su sentencia, disminuirá la pena que corresponda por los delitos cometidos, de seis meses hasta en una mitad, siempre que, según le informe el titular de la Procuraduría General de Justicia de Tamaulipas o la persona a quien éste designe, el procesado haya proporcionado a la autoridad investigadora datos convincentes que conduzcan a la plena identificación y localización de cualquiera de los demás integrantes de la banda.
 
 ###### ARTICULO 171.
 
-Los acreedores que aparezcan del certificado de gravámenes correspondientes a los últimos diez años, serán citados para el acto de remate y, en caso de no ser factible hacerlo por alguna de las causas a que se refiere la Fracción IV del Artículo 133 de este Código, se tendrá como citación la que se haga en las convocatorias en que se anuncie el remate, en las que deberá expresarse el nombre de dichos acreedores.
+Cuando se ejecuten uno o más delitos por pandilla se aplicarán a los que intervengan en su comisión, además de las penas que les corresponda por el o los delitos cometidos, la sanción de seis meses a tres años de prisión.
 
-Los acreedores a que alude el párrafo anterior podrán concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la autoridad ejecutora en el acto de la diligencia.
+Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual, ocasional o transitoria de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 171 Bis.
+
+Cuando tres o más personas acuerden organizarse o se organicen para realizar, en forma permanente o reiterada, conductas que por sí o unidas a otras tengan como fin o resultado cometer alguno o algunos de los delitos siguientes previstos por este Código, serán considerados por ese solo hecho, como miembros de la delincuencia organizada:
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2010)</small>
+
+Evasión de presos, previsto en el artículo 158 en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; corrupción de menores e incapaces, previsto en el artículo 192 y 193 segundo párrafo; pornografía infantil, previsto en el artículo 194 Bis; prostitución sexual de menores, previsto en el artículo 194 Ter; lenocinio, previsto por el artículo 199; homicidio calificado, previsto en los artículos 329 y 335; secuestro, previsto por el artículo 391; robo, previsto en el artículo 405 y 407 fracciones I, IX, X, XII, XIII, XIV, XV y XVI; robo de semovientes, previsto en los artículos 410 y 411; y, operaciones con recursos de procedencia ilícita, previsto en el artículo 443 Bis; así también el delito de Trata de Personas, previsto en el artículo 5 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas..
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+###### ARTÍCULO 171 Ter.
+
+Sin perjuicio de las penas que correspondan por el delito o delitos que se cometan, al miembro de la delincuencia organizada se le aplicarán las penas siguientes:
+
+I.- A quien tenga funciones de administración, dirección o supervisión, de cinco a quince años de prisión y de quinientos a cuatro mil días de salario, o
+
+II.- A quien no tenga las funciones anteriores, de cuatro a ocho años de prisión y multa de doscientos cincuenta a dos mil días de salario.
+
+Las penas a que se refiere el párrafo anterior se aumentarán en una mitad más cuando:
+
+a) Se trate de cualquier servidor público que participe en la realización de los delitos previstos para la delincuencia organizada. Además se impondrán a dicho servidor público, destitución e inhabilitación para desempeñar cualquier cargo o comisión públicos, o;
+
+b) Se utilice a niños, niñas, adolescentes o a quienes no tienen la capacidad para comprender el significado del hecho, para cometer cualquiera de los delitos derivados de delincuencia organizada.
 
 ###### ARTICULO 172.
 
-Mientras no se finque el remate, el embargado puede proponer comprador que ofrezca de contado la cantidad suficiente para cubrir el crédito fiscal.
+Comete el delito de ataques a las vías de comunicación y utilización indebida de los sistemas de auxilio a la población:
 
-## TÍTULO SEXTO. DE LAS PARTICIPACIONES FEDERALES
+I.- El que obstruya, dañe o destruya alguna vía pública de comunicación estatal o cualquier medio de transporte público local, sea de pasajeros o de carga, interrumpiendo o dificultando los servicios de uno u otro; y (sic)
 
-### CAPÍTULO V. DE LAS GARANTÍAS
+II.- El que quite, corte, deteriore, apague, cambie o destruya las señales o luces de seguridad de una vía pública de comunicación estatal o coloque alguna no autorizada.
 
-###### Artículo 410.
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
 
-El Ayuntamiento y las entidades, al solicitar autorización del Congreso para contratar financiamientos, indicarán:
+III.- El que dolosamente solicite un servicio a los sistemas estatales o municipales de comunicación de auxilio a la población, que impida o cause un perjuicio o trastorno que afecten el buen funcionamiento de dichos sistemas.
 
-I. El monto de la deuda que se solicita contratar;
+## TITULO CUARTO. DELITOS CONTRA LA AUTORIDAD
 
-II. Las tasas de interés a pactar;
+### CAPITULO I. DESOBEDIENCIA, RESISTENCIA Y COACCION DE PARTICULARES
 
-III. Las instituciones que podrán fungir como acreditantes;
+###### ARTICULO 410.
 
-IV. Los plazos de amortización;
+El apoderamiento de uno o más semovientes, además de lo dispuesto en las fracciones I, II y III del Artículo 402, se sancionará con prisión de tres a doce años si se realiza sobre una o más cabezas de ganado asnal, mular, caballar, o vacuno, y hasta siete años, cuando se trate de una o más cabezas de ganado caprino, ovino o porcino.
 
-V. La denominación en que podrá contratarse;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 1993)</small>
 
-VI. El destino de los recursos;
+###### ARTICULO 411.
 
-VII. Las condiciones suspensivas o resolutorias que rijan la vigencia de las obligaciones;
+Se impondrá sanción de tres a ocho años de prisión y multa de cien a trescientos días salario en los siguientes casos:
 
-VIII. La forma y tiempos de disposición de los recursos;
+I.- El hecho de herrar, señalar o marcar animales, sin tomar las medidas necesarias para cerciorarse de su legítima procedencia; alterar o eliminar los fierros, marcas o señales que sirvan para acreditar la propiedad del ganado;
 
-IX. Los períodos de inversión;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-X. En su caso, las normas que resulten aplicables para la contratación de obras o servicios;
+II.- Comerciar, servir de intermediario, poseer, transportar, ministrar, aprovechar o adquirir uno o más animales en pie o sacrificados, o parte de ellos, de las especies mencionadas en el Artículo 410, que resulten robadas, sin tomar las medidas necesarias para cerciorarse de su legítima procedencia.
 
-XI. Las garantías que podrán otorgarse; y
+III.- Las autoridades o a quienes intervengan en la legalización de documentos con el objeto de acreditar la propiedad de uno o varios semovientes, si no tomaren las medidas indispensables para cerciorarse de la procedencia legítima del animal;
 
-XII. Los demás requisitos que fije el Congreso.
+IV.- A los inspectores de pieles y ganado, así como a los administradores o encargados de rastros o lugares de matanza, que permitan el sacrificio de ganado, sin cerciorarse de su legítima propiedad y procedencia;
 
-###### Artículo 411.
+V.- A los inspectores de ganadería que permitan ganado en tránsito sin la documentación que compruebe su propiedad y traslado, dejando de revisar los fierros, marcas y señales que debe ostentar el ganado, según lo establezca la factura que ampare cada animal.
 
-El Ayuntamiento, al someter al Congreso el proyecto de Ley de Ingresos, propondrá los montos del endeudamiento neto necesario y acompañará su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
+Estas disposiciones se aplicarán sólo cuando se acredite que los semovientes fueren robados.
 
-###### Artículo 412.
+###### ARTICULO 412.
 
-Para la obtención y contratación de créditos y empréstitos, el Municipio y las entidades podrán ocurrir a Instituciones de banca de desarrollo, de banca nacional o cualquier institución de crédito o auxiliar de crédito que funcionen conforme a la legislación sobre la materia. En todo caso se elegirá, entre diversas opciones, la que resulte más favorable para la obtención de recursos.
+Al que use para los fines que están destinados las señales, marcas o fierros de ganado registrados a nombre de un tercero, sin consentimiento de éste, se le impondrá la sanción de uno a dos años de prisión y multa de treinta a cuarenta días salario, con independencia de las sanciones que le correspondan por el delito que cometa.
 
-###### Artículo 413.
+###### ARTICULO 413.
 
-Los proyectos a cargo de las dependencias del Ayuntamiento que requieran financiamiento para su realización, deberán producir los recursos suficientes para su amortización y las obligaciones que se asuman, en razón de que dichos financiamientos, no deberán ser superiores a la capacidad de pago del Ayuntamiento.
+No se impondrá sanción al que sin emplear engaños ni medios violentos, se apodere por una sola vez de los objetos indispensables para satisfacer sus necesidades personales o familiares del momento.
 
-###### Artículo 414.
+### CAPITULO II. ABUSO DE CONFIANZA
 
-Las entidades mencionadas en las fracciones II a IV del artículo 400 de este ordenamiento, sólo requerirán autorización previa y expresa del Ayuntamiento, cuando el Municipio sea garante de sus créditos.
+###### ARTICULO 414.
 
-La Tesorería, previo el análisis de la información que le remita la entidad pública solicitante, emitirá una opinión al Presidente, misma que será sometida por conducto de éste al Cabildo. La resolución que se emita se comunicará por escrito, a las entidades solicitantes, precisando en su caso, las características y condiciones en que los créditos puedan ser concertados.
+Comete el delito de abuso de confianza, el que con perjuicio de alguien retenga ilícitamente o disponga para sí o para otro de cualquier cosa mueble, ajena, de la que se le haya transferido la tenencia y no el dominio.
 
-En los demás casos, bastará que el órgano interno de cada entidad pública autorice la contratación de financiamiento, misma que deberá ser aprobada por el Congreso, en los términos de este Código.
+###### ARTICULO 415.
 
-###### Artículo 415.
+A los responsables del delito de abuso de confianza, se les sancionará en la forma siguiente:
 
-El Congreso vigilará que en la garantía que se otorgue para el pago de operaciones de financiamiento, no se afecte la continuidad, permanencia y generalidad de los servicios públicos, o que en general, no se cause un perjuicio al interés público.
+I.- Si el valor de lo dispuesto no excede de cien días salario o no se pudiere determinar su monto, de tres meses a un año de prisión y multa de cinco a treinta días salario;
 
-###### Artículo 416.
+II.- Si excede de cien días salario pero no de cuatrocientos, de uno a seis años y multa de treinta a ochenta días salario;
 
-El Municipio, previa autorización del Cabildo, podrá realizar operaciones en virtud de las cuales, los particulares, las entidades públicas, concesionarios o usuarios del sector privado o social se subroguen en los adeudos suscritos originalmente por el Ayuntamiento.
+III.- Cuando exceda de cuatrocientos días salario, de seis a doce años de prisión y multa de ochenta a ciento cuarenta días salario;
 
-###### Artículo 417.
+###### ARTICULO 416.
 
-El Municipio, por conducto del Ayuntamiento, y las entidades podrán suscribir los contratos, pagarés, letras de cambio o cualquier otro título de crédito, que formalicen las operaciones a que se refiere este Libro.
+Se aplicará la misma sanción a que se refiere el artículo anterior:
 
-En el caso del Municipio, los contratos y convenios serán firmados por el Presidente, Síndico, Secretario y Tesorero Municipales. Los títulos de crédito que se emitan serán firmados por el Presidente, Síndico y Tesorero Municipales.
+I.- Cuando el dueño de una cosa disponga o substraiga la misma, si le ha sido embargada y la tiene en su poder con el carácter de depositario judicial;
 
-En el caso de las entidades, los documentos a que se refiere este artículo serán suscritos por sus representantes legales.
+II.- Cuando el depositario judicial o el designado por o ante las autoridades administrativas o del trabajo, disponga de la cosa depositada o la substraiga; y
 
-De la misma forma se documentarán las operaciones por las que se substituyan como acreditado, cambien su calidad de deudores directos o avalistas o subroguen su deuda a terceros.
+III.- Cuando una persona haga aparecer como suyo un depósito que garantice la libertad caucional de un procesado y del cual no le corresponda la propiedad.
 
-###### Artículo 418.
+### CAPITULO III. FRAUDE
 
-Los montos derivados de la contratación de obligaciones directas a corto plazo se computarán como deuda pública municipal extraordinaria, requerirán la autorización previa del Congreso y reunirán los requisitos siguientes:
+###### ARTICULO 417.
 
-I. Que el saldo total acumulado de estos créditos no exceda al cinco por ciento de los ingresos ordinarios del ejercicio fiscal correspondiente;
+Comete el delito de fraude el que engañando a alguien o aprovechándose del error en que éste se halla, se haga ilícitamente de una cosa o alcance para sí o para otro un lucro indebido.
 
-II. Que el plazo de su vencimiento no rebase los cuarenta y cinco días;
+###### ARTICULO 418.
 
-III. Que su pago se realice al término del vencimiento y no rebase el periodo constitucional; y
+Las sanciones a que se refiere el artículo 419 se aplicarán:
 
-IV. Que la operación no se contrate en el último trimestre de la gestión municipal para la que fueron electos
+I.- Al que obtenga dinero, valores o cualquiera otra cosa, ofreciendo encargarse de la defensa de una persona si no efectúa ésta, sea porque no se haga cargo legalmente de la misma, o porque la renuncie o abandone sin causa justificada;
 
-El Municipio y las entidades podrán contratar montos adicionales de financiamiento en obligaciones directas a corto plazo, cuando a juicio del Cabildo o del órgano de gobierno, según sea el caso, se presenten circunstancias económicas extraordinarias que así lo exijan.
+II.- Al que por título oneroso, enajene alguna cosa con conocimiento de que no tiene derecho para disponer de ella, o la arriende, hipoteque, empeñe o grave de cualquier otro modo, si ha recibido el precio, el alquiler, la renta, la cantidad en que la gravó, parte de ellos o un lucro cualquiera;
 
-###### Artículo 419.
+III.- Al que obtenga de otro una cantidad de dinero o cualquier otro lucro, otorgándole o endosándole a nombre propio o de otro, un documento nominativo, a la orden o al portador, contra una persona supuesta o que el otorgante sabe que no ha de pagarlo;
 
-En la contratación de deuda se deberá buscar que se mantenga un correcto equilibrio financiero y que se cuente con los elementos económicos suficientes para hacer frente a las obligaciones contraídas.
+IV.- Al que se haga servir alguna cosa o admita un servicio en cualquier establecimiento comercial y no pague su importe;
+
+V.- Al que compre una cosa mueble ofreciendo pagar su precio al contado y rehuse, después de recibirla, hacer el pago o devolver la cosa, si el vendedor le exige lo primero dentro de treinta días de haber recibido la cosa el comprador;
+
+VI.- Al que hubiere vendido una cosa mueble y recibido su precio, si no la entrega dentro de los siguientes treinta días del plazo convenido o no devuelva su importe en el mismo término, en el caso de que se le exija esto último;
+
+VII.- Al que habiendo ofrecido en venta o permuta alguna cosa, hiciere entrega de otra inferior notoriamente en clase o naturaleza, después de recibir su importe en todo o en parte;
+
+VIII.- Al que venda a dos personas una misma cosa, sea mueble o inmueble, y reciba el precio de una u otra, o de las dos, o parte de él;
+
+IX.- Al que simulare un contrato, un acto o escrito judicial, con perjuicio de otro, o para obtener cualquier beneficio indebido;
+
+X.- Al que, por sorteos, rifas, loterías, promesas de venta o cualquier otro medio, se quede en todo o en parte con las cantidades recibidas, sin entregar la mercancía u objeto ofrecido;
+
+XI.- Al fiador judicial que enajene, hipoteque o grave el bien con que acreditó su solvencia, sin que esté substituida previamente la garantía por otra a satisfacción de las autoridades ante las que se otorgó la fianza, cuando a consecuencia del acto quede insolvente;
+
+XII.- Al fabricante, empresario, contratista o constructor de una obra cualquiera, que emplee en la construcción de la misma, materiales en calidad o cantidad inferior a la convenida o mano de obra inferior a la estipulada siempre que haya recibido el precio o parte de él;
+
+XIII.- (DEROGADA, P.O. 5 DE FEBRERO DE 2008)
+
+XIV.- Al que habiendo recibido el precio total del inmueble, sin derecho alguno se niegue a otorgar el título de propiedad respectivo;
+
+XV.- A los intermediarios en operaciones de traslación de dominio de bienes inmuebles o de gravámenes reales sobre éstos, que obtengan dinero, título o valores por el importe de su precio, a cuenta de él o para constituir ese gravamen, si no los destinaren, en todo o en parte, al objeto de la operación concertada, por su disposición en provecho propio o de otro;
+
+XVI.- Al que libre un cheque contra una cuenta bancaria, que sea rechazado por la institución o sociedad nacional de crédito correspondiente, en los términos de la legislación aplicable, por no tener el librador cuenta en la institución o sociedad respectiva. No se procederá contra el agente cuando el libramiento no hubiere tenido como fin el procurarse ilícitamente una cosa u obtener un lucro indebido;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+XVII.- Al que por cualquier razón tuviere a su cargo la administración o el cuidado de bienes ajenos y con perjuicio del titular de éstos, altere las cuentas, condiciones de los contratos o títulos de crédito, suponiendo operaciones o gastos o exagerando los que hubiere hecho, ocultando o reteniendo valores o empleándolos indebidamente;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+XVIII.- Al que obtenga de otro una cantidad de dinero o cualquier otro lucro otorgándole o endosándole a nombre propio o de otro un título de crédito de los denominados pagarés a la orden y que el otorgante sabe que no ha de pagarle o que en el momento de la suscripción del mismo es económicamente insolvente a sabiendas que no tiene bienes suficientes para garantizar su pago, o al que libre un cheque a favor de otra persona a sabiendas que no tiene fondos suficientes para su pago en el momento de librarlo. Del mismo modo, al que teniendo la obligación de pago de cualquier título de crédito, realice conductas distintas a las señaladas en esta fracción con la finalidad de no cumplir con la obligación contraída.
+
+###### ARTICULO 419.
+
+Al responsable del delito de fraude se le impondrá sanción en la forma siguiente:
+
+I.- Prisión de tres meses a dos años y multa de cinco a cuarenta días salario, cuando lo defraudado no exceda de ciento cincuenta días salario;
+
+II.- De dos a seis años de prisión y multa de cuarenta a ochenta días salario, cuando el valor de lo defraudado exceda de ciento cincuenta pero no de trescientos días salario, o no se pudiere determinar su monto;
+
+III.- De seis a doce años de prisión y multa de ochenta a ciento cuarenta días salario, cuando el valor de lo defraudado exceda de trescientos días salario.
+
+Cuando el sujeto pasivo entregue la cosa materia del delito, no sólo por virtud del engaño, sino por maquinaciones o artificios que para obtener esa entrega se haya empleado, la pena señalada en las fracciones anteriores, se aumentará con prisión hasta de dos años.
 
 ###### ARTICULO 173.
 
-Es postura legal la que cubra las dos terceras partes del valor señalado como base para el remate.
+Al responsable del delito previsto en el artículo anterior se le impondrá una pena de uno a tres años de prisión y multa de treinta a cincuenta días salario.
+
+Cuando resulte algún otro delito se aplicarán las reglas del concurso.
 
 ###### ARTICULO 174.
 
-En toda postura deberá ofrecerse de contado, cuando menos la parte suficiente para cubrir el interés fiscal, si éste es superado por la base fijada para el remate, la diferencia podrá reconocerse en favor del ejecutado.
+Se impondrá de quince a veinte años de prisión al que empleando explosivos o materias incendiarias, deteriore o destruya un medio de transporte con el fin de interrumpir el servicio, si hubiere una o más personas en su interior. Si se causare homicidio o lesiones se observarán las reglas del concurso. Si en el vehículo de que se trate no se hallare persona alguna, se aplicará prisión de diez a quince años.
 
-Si el importe de la postura es menor al interés fiscal, se rematarán de contado los bienes embargados.
+### CAPITULO II. OPOSICION A QUE SE EJECUTE ALGUNA OBRA O TRABAJO PUBLICO
 
-La autoridad exactora podrá enajenar a plazos los bienes embargados. En este supuesto quedará liberado de la obligación de pago el embargado.
+###### ARTICULO 420.
 
-### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
+Comete el delito de fraude laboral, el que valiéndose del engaño, de la ignorancia o de las malas condiciones económicas de un trabajador a su servicio le pague cantidades inferiores a las que legalmente le corresponden por las labores que ejecuta o le haga otorgar recibos o comprobantes de pago de cualquier clase que amparen sumas de dinero superiores a las que efectivamente entrega.
 
-###### Artículo 420.
+###### ARTICULO 421.
 
-Las entidades mencionadas en las fracciones II a IV del artículo 400 de este Código, sólo podrán solicitar autorización para contratar empréstitos o créditos, previa acuerdo del órgano de gobierno interno correspondiente.
+Al responsable del delito de fraude laboral se le impondrá una sanción de seis meses a seis años de prisión y multa de quince a ochenta días salario.
 
-###### Artículo 421.
+### CAPITULO IV. USURA
 
-Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación de servicios municipales, se podrán contratar en forma consolidada las operaciones a que se refiere el presente ordenamiento, pero se establecerán por separado las obligaciones a cargo de cada participante y de esta forma se inscribirán en el Registro de Deuda Pública Municipal o Estatal, en su caso.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-###### Artículo 422.
+###### ARTICULO 422.
 
-Se podrá otorgar en garantía cualquier bien, derecho o ingreso que se encuentre dentro del patrimonio de quien contrate operaciones de financiamiento, directas o contingentes, si conforme a la ley no existe impedimento para que los mismos sean gravados.
+Comete el delito de usura, el que realizare cualquier préstamo, aún encubierto en otra forma contractual, con intereses superiores al bancario, u obtenga otras ventajas evidentemente desproporcionadas para sí o para otro.
 
-El Ayuntamiento podrá comprometer hasta el treinta por ciento de los ingresos municipales y de las participaciones federales, cuando no se afecten los programas de gasto corriente ni de inversión prioritaria
-
-El Municipio y las entidades podrán otorgar en garantía ingresos hacendarios presentes y futuros, sin exceder el término de su administración, salvo autorización expresa del Congreso.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 175.
 
-Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito por el diez por ciento, cuando menos, del valor fijado a los bienes en la convocatoria, expedido por la Secretaría de Finanzas y Tesorería General del Estado.
+Comete el delito de violación de correspondencia:
 
-El importe de los depósitos que se constituyen de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate, previa orden de la autoridad ejecutora, se devolverán los certificados de depósito a los postores, o las cantidades depositadas en la propia oficina, excepto el que corresponda al admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
+I.- El que abra indebidamente una comunicación escrita que no esté dirigida a él; y,
+
+II.- El que indebidamente intercepte una comunicación escrita que no esté dirigida a él, aunque la conserve cerrada y no se imponga de su contenido.
 
 ###### ARTICULO 176.
 
-El escrito en que se haga la postura deberá contener:
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-I.- Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor, y en su caso, la clave del Registro Federal de Contribuyentes; tratándose de sociedades, el nombre o razón social, la fecha de constitución, la clave del Registro Federal de Contribuyentes y el domicilio social.
-
-II.- La cantidad que se ofrezca y la forma de pago.
+Al responsable del delito anterior, se le impondrá una sanción de tres días a seis meses de prisión y multa de uno a quince días salario.
 
 ###### ARTICULO 177.
 
-El día y hora señalados en la convocatoria, el jefe de la oficina ejecutora hará saber a los presentes que posturas fueron calificadas como legales y cuál es la mejor de ellas, concediendo plazos sucesivos de cinco minutos cada uno, hasta que la última postura no sea mejorada.
+No se considera que obran delictuosamente los padres, tutores o responsables de instituciones que abran o intercepten las comunicaciones escritas dirigidas a los menores de edad que se hallen bajo su dependencia o custodia.
 
-El jefe de la oficina ejecutora fincará el remate en favor de quien hubiere hecho la mejor postura.
+### CAPITULO III. QUEBRANTAMIENTO DE SELLOS
 
-Si en la última postura se ofrece igual suma de contado, por dos o más licitantes, se designará por suerte la que deba aceptarse.
+###### ARTICULO 423.
 
-### CAPÍTULO VII. DE LA AFECTACIÓN DE PARTICIPACIONES FEDERALES
+Al responsable del delito previsto en el artículo anterior se le impondrá de seis meses a ocho años de prisión y multa de 100 a 500 días salario.
 
-###### Artículo 423.
+Igual sanción se aplicará al que procurase un préstamo cualquiera cobrando una comisión evidentemente desproporcionada para sí o para otro.
 
-En los casos en que se requiera el aval del Gobierno del Estado respecto de obligaciones del Municipio o de las entidades, la solicitud se formulará por conducto del Ayuntamiento respectivo y contendrá su justificación, además de la autorización del Cabildo o del órgano de gobierno interno, según corresponda.
+### CAPITULO V. CHANTAJE
 
-###### Artículo 424.
+###### ARTICULO 424.
 
-Cuando los Municipios soliciten el aval del Gobierno del Estado, deberán cumplir con los siguientes requisitos:
+Comete el delito de chantaje, el que con ánimo de conseguir un lucro o provecho, amenazare a otro con causarle daños morales, físicos o patrimoniales, que afecten al amenazado, o a persona física o moral con quien tuviera vínculos de cualquier orden que lo determinen a protegerlas.
 
-I. Que el importe a contratar se encuentre dentro del programa anual de financiamiento que haya sido aprobado por el Congreso en la Ley de Ingresos para el ejercicio correspondiente;
+###### ARTICULO 425.
 
-II. Que medie autorización del Congreso;
+Al responsable del delito de chantaje se le impondrá una sanción de dos a ocho años de prisión.
 
-III. Que cuando se trate de operaciones a corto plazo, éstas reúnan los requisitos establecidos en el artículo 418 del presente ordenamiento;
+### CAPITULO VI. EXTORSION
 
-IV. Que el monto acumulado de los avales otorgados por el Gobierno del Estado no excedan del porcentaje a que se refiere el artículo 422 de este ordenamiento y la previsión contenida en la Ley de Ingresos del Estado, del ejercicio presupuestal correspondiente, en la partida expresa de asignación fiscal al Ayuntamiento;
+###### ARTICULO 426.
 
-V. Que el Ayuntamiento haya acreditado que cuenta con elementos económicos suficientes para hacer frente a la obligación en los montos y plazos, conforme a su programación financiera; y
+Al que sin derecho obligue a otro hacer, tolerar o dejar de hacer algo, obteniendo un lucro para sí o para otro y causando un perjuicio patrimonial, se le aplicarán las penas previstas para el delito de robo.
 
-VI. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligaciones de información al Registro de Deuda Pública Municipal y, en su caso, Estatal.
+### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
-Todo esto sin perjuicio de los requisitos que para tal efecto señale el Código Financiero para el Estado.
+###### ARTICULO 427.
 
-###### Artículo 425.
+Comete el delito de despojo de cosas inmuebles o de aguas:
 
-Es responsabilidad de la Tesorería la vigilancia del cumplimiento de las obligaciones asumidas por el Municipio al contratar operaciones de financiamiento, y de las entidades a que se refieren las fracciones II a IV del artículo 400 de este Código, en el caso de que el Municipio actúe como su garante.
+I.- El que de propia autoridad y por cualquier medio ilícito, ocupe un bien inmueble ajeno o haga uso de él, o de un derecho real que no le pertenezca;
 
-Para tal efecto, las dependencias del Ayuntamiento y, en su caso, las entidades referidas, deberán proporcionar información a la Tesorería en la forma y términos que le sean requeridos.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2001)</small>
 
-En todos los casos el titular de la dependencia o entidad de que se trate, será responsable de vigilar el cumplimiento de las obligaciones que se contraten.
+II.- El que de propia autoridad y por cualesquier medio ilícito, ocupe un inmueble de su propiedad en los casos en que la ley no lo permita por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante;
 
-###### Artículo 426.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2001)</small>
 
-La Tesorería vigilará que se incluyan en el presupuesto de egresos del Municipio, los montos necesarios para satisfacer puntualmente los compromisos derivados de la contratación de financiamientos.
+III.- El que en los términos de las fracciones anteriores despoje de aguas; y
 
-La misma obligación corresponderá a los titulares de las entidades.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2001)</small>
 
-###### Artículo 427.
+IV.- El que en los términos de las fracciones anteriores despoje de aguas de jurisdicción estatal o aguas nacionales asignadas al Estado o los Ayuntamientos en beneficio colectivo de una comunidad urbana o rural para uso doméstico.
 
-El Ayuntamiento y las entidades llevarán un registro interno de su deuda pública, pero deberán informar a la Tesorería, periódicamente, del estado que guarda la misma, para su registro.
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2001)</small>
 
-En todo caso, la Tesorería o los titulares de las entidades rendirán los informes que les sean requeridos por las autoridades estatales competentes, para los efectos del Registro de Deuda Municipal y, en su caso, del Estatal.
+En el supuesto de la fracción IV el delito se perseguirá de oficio.
 
-###### Artículo 428.
+###### ARTICULO 428.
 
-El Ayuntamiento, al solicitar la inscripción en el Registro de la Deuda Estatal, anexará a su petición lo siguiente:
+Al responsable del delito de despojo de cosas inmuebles o de aguas se le impondrá una sanción de tres meses a cinco años de prisión y multa de diez a setenta días salario.
 
-I. El instrumento jurídico en que se haga constar la obligación cuyo registro solicita;
+###### ARTICULO 429.
 
-II. El acta de Cabildo en la que se autorice contratar y afectar, en garantía de pago de las obligaciones contraídas, los ingresos municipales propios y participaciones federales;
+Se impondrá la sanción a que se refiere el artículo anterior aunque la posesión de la cosa esté en disputa.
 
-III. El acta de Cabildo en la que se autorice a afectar otras garantías distintas a las señaladas en la fracción anterior;
+###### ARTICULO 430.
 
-IV. La autorización del Congreso; y
+Si el despojo fuere precedido o acompañado de otros delitos se observarán las reglas del concurso.
 
-V. Información sobre el destino del crédito.
+###### ARTICULO 431.
 
-###### Artículo 429.
+A la sanción de prisión a que se refiere el artículo 428, se le aumentará de seis meses a cuatro años en los siguientes casos:
 
-Todas las obligaciones que contraigan el Municipio y las entidades se inscribirán en el Registro de Deuda Pública Municipal.
+I.- A los autores intelectuales o dirigentes de la invasión cuando el despojo se realice por grupos de dos o más personas;
 
-###### Artículo 430.
+II.- Cuando el despojo se realice por medio de la violencia o la amenaza; y
 
-En el Registro de Deuda Pública Municipal se anotarán los datos siguientes:
+III.- Cuando el despojo se realice sobre terreno de labor preparado para siembra, ya sembrado, en cultivo o pendiente de cosechar.
 
-I. El número progresivo y fecha de inscripción;
+###### ARTICULO 432.
 
-II. Las características del acto jurídico, con identificación de las obligaciones contraídas, su objeto, plazo y monto;
+Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes que el Ministerio Público ejerza la acción persecutoria, no se impondrá sanción alguna, si no hubieren cometido algún hecho delictivo diverso al realizar la ocupación o durante la misma.
 
-III. La fecha del acta de Cabildo donde se autoriza al Ayuntamiento a asumir obligaciones y en su caso a afectar garantías;
+### CAPITULO VIII. DAÑO EN PROPIEDAD
 
-IV. La autorización del Congreso;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
-V. Las garantías afectadas;
+###### ARTICULO 433.
 
-VI. Las cancelaciones de las inscripciones, cuando se acredite el cumplimiento de las obligaciones que las generaron; y
-
-VII. Las variaciones de los endeudamientos.
-
-###### Artículo 431.
-
-El número progresivo y la fecha de inscripción en el Registro de Deuda Pública Municipal darán preferencia a los acreditantes para los efectos de exigibilidad en el pago de las obligaciones.
-
-###### Artículo 432.
-
-El Congreso, por conducto de la dependencia encargada del Registro, expedirá a todos aquellos que acrediten su interés jurídico, las certificaciones que soliciten respecto de las obligaciones inscritas en el Registro de Deuda Pública Municipal del Estado de Veracruz-Llave.
-
-###### Artículo 433.
-
-El Municipio y las entidades tendrán las obligaciones siguientes:
-
-I. Llevar registro de las operaciones a que se refiere este Libro;
-
-II. Comunicar al Ejecutivo del Estado, cuando éste actúe como aval, todos los datos relacionados con la contratación y reestructuración de créditos, así como los derivados de obligaciones contingentes, en un plazo no mayor de diez días hábiles, contado a partir de la celebración del acto; y
-
-III. Comunicar al Congreso el pago total o parcial de las obligaciones, para efectos de su inscripción en el Registro de Deuda Pública Municipal.
+Comete el delito de daño en propiedad, el que por cualquier medio cause destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, salvo que el importe del daño no exceda de diez veces el salario mínimo diario vigente en la capital del Estado.
 
 ###### ARTICULO 178.
 
-Cuando el postor en cuyo favor se hubiera fincado un remate no cumpla con las obligaciones contraídas y las que este Código señala, perderá el importe del depósito que hubiere constituido y la autoridad ejecutora lo aplicará de inmediato en favor del fisco del Estado. En este caso se reanudarán las almonedas en la forma y plazos que señalan los artículos respectivos.
+El delito de violación de correspondencia cometido por los padres respecto a sus hijos mayores de edad y por los cónyuges entre sí, sólo se perseguirá por queja del ofendido.
 
 ###### ARTICULO 179.
 
-Fincado el remate de bienes muebles se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos, la cual deberá expedirla cumpliendo, en lo conducente, con los requisitos a que se refiere el artículo 30 de este Código, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-Posteriormente, la autoridad deberá entregar al adquirente, conjuntamente con estos documentos, los bienes que le hubiere adjudicado.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente.
+Al que sin causa legítima, rehusare prestar un servicio de interés público a que la ley le obligue, o desobedezca un mandato legítimo de la autoridad, se le impondrá una sanción de tres días a un año de prisión y multa de uno a treinta días salario.
 
 ###### ARTICULO 180.
 
-Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los diez días siguientes a la fecha del remate, el postor enterará en la caja de la oficina ejecutora el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
-
-Hecho el pago a que se refiere el párrafo anterior y designado en su caso el notario por el postor, se citará al ejecutado para que, dentro del plazo de diez días, otorgue y firme la escritura de venta correspondiente, apercibido de que, si no lo hace, el Secretario de Finanzas y Tesorero General del Estado lo hará en su rebeldía.
-
-El ejecutado, aún en el caso de rebeldía, responde por la evicción.
+El que sin excusa legal se niegue a comparecer ante la autoridad o dar una declaración cuando legalmente se le exige, no será considerado como responsable del delito previsto en el artículo anterior, sino cuando insista en su desobediencia, después de haber sido apremiado por la autoridad judicial o apercibido por la administrativa en su caso, para que comparezca a declarar.
 
 ###### ARTICULO 181.
 
-Los bienes pasarán a ser propiedad del adquirente libres de gravámenes y a fin de que éstos se cancelen, tratándose de inmuebles, la autoridad ejecutora lo comunicará al Registro Público que corresponda, en un plazo que no excederá de quince días.
+Se impondrá sanción de uno a dos años de prisión y multa de treinta a cuarenta días salario, al que empleando la fuerza, el amago, la amenaza, o el engaño se oponga a que la autoridad o sus agentes ejerzan alguna de sus funciones o resista el cumplimiento de un mandato legítimo cuya ejecución se realice en forma legal.
 
 ###### ARTICULO 182.
 
-Una vez que se hubiera otorgado y firmado la escritura en que conste la adjudicación de un inmueble, el Secretario de Finanzas y Tesorero General del Estado dispondrá que se entregue al adquiriente, girando las órdenes necesarias, aún las de desocupación, si estuviere habitado por el ejecutado o por terceros que no pudieren acreditar legalmente el uso.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+Se sancionará con la pena señalada en el artículo anterior, la coacción hecha a la autoridad por medio de la violencia, física o moral, para obligarla a ejecutar un acto oficial sin los requisitos legales u otro que no esté en sus atribuciones.
 
 ###### ARTICULO 183.
 
-Queda estrictamente prohibido adquirir los bienes objeto de remate, por sí o por medio de interpósita persona, a los jefes y demás empleados de las oficinas ejecutoras, así como a todos aquellos que hubieren intervenido por parte del Fisco en el procedimiento administrativo de ejecución. El remate efectuado con infracción a este precepto será nulo y los infractores serán sancionados conforme a este Código.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+El que debiendo ser examinado en juicio y sin que le aprovechen las excepciones establecidas por la ley, se niegue a otorgar la protesta de ley o a declarar, pagará una multa de uno a quince días salario. En caso de reincidencia se impondrá sanción de uno a seis meses de prisión.
 
 ###### ARTICULO 184.
 
-El Fisco Estatal tendrá preferencia para adjudicarse en cualquier almoneda, los bienes ofrecidos en remate, en los siguientes casos:
-
-I.- A falta de postores, por la base de la postura legal que habría de servir para la almoneda siguiente.
-
-II.- Hasta por el monto del crédito, si éste no excede de la cantidad en que deba fincarse el remate en la segunda almoneda, de acuerdo con lo estipulado en la parte final del artículo siguiente.
+Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubiere agotado el medio de apremio que el juez haya dictado.
 
 # LIBRO CUARTO. DE LA ADMINISTRACIÓN FINANCIERA MUNICIPAL
 
-## TÍTULO SÉPTIMO. DE LAS APORTACIONES FEDERALES
+## TITULO QUINTO. DELITOS CONTRA LA MORAL PUBLICA
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO IV. DELITOS COMETIDOS CONTRA SERVIDORES PUBLICOS
 
-###### Artículo 434.
+###### ARTICULO 434.
 
-La inscripción en el Registro de Deuda Pública Municipal de las obligaciones a cargo de los Municipios, confiere a los acreedores el derecho a que sus créditos, en caso de incumplimiento de pago por los Municipios, se cubran con cargo a los ingresos municipales en gravámenes y participaciones federales, que deba entregarles el Estado.
+Al responsable del delito de daño en propiedad se le impondrán las sanciones del delito de robo simple, salvo los casos previstos en este capítulo.
 
-###### Artículo 435.
+###### ARTICULO 435.
 
-Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismos requisitos y formalidades relativos a su autorización.
+La pena a que se refiere el artículo anterior se aumentará de cuatro a ocho años de prisión cuando:
+
+I.- El daño se cause por incendio, inundación o explosión; o
+
+II.- El daño se cause a bienes del dominio público o que constituyan parte del acervo cultural del Estado.
 
 ###### ARTICULO 185.
 
-Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que, dentro de los veinte días siguientes, se lleve a cabo una segunda y última almoneda, cuya convocatoria se hará en los términos del artículo 170 de este Código.
-
-La base para el remate en la segunda almoneda se determinará deduciendo un 20% de la señalada para la primera.
+Al que entorpezca o impida con actos materiales la ejecución de una obra o trabajo público, legalmente ordenado por la autoridad competente, o con su autorización, se le impondrá una sanción de tres días a tres meses de prisión.
 
 ###### ARTICULO 186.
 
-Los bienes embargados podrán enajenarse fuera de remate, cuando:
-
-I.- El embargado proponga comprador antes del día en que se finque el remate, se enajenen, o adjudiquen los bienes a favor del fisco, siempre que el precio en que se vendan cubra el valor que se haya señalado a los bienes embargados.
-
-II.- Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación.
-
-III.- Se trate de bienes que habiendo salido a remate no se hubieren presentado postores en ninguna de las dos almonedas.
+Cuando el delito se cometa de común acuerdo por varias personas, la sanción a imponer será de tres meses a un año de prisión; si además se empleare violencia sobre las personas o las cosas, se le impondrá una sanción de uno a dos años de prisión, sin perjuicio de observarse en su caso, las reglas del concurso.
 
 ###### ARTICULO 187.
 
-En el supuesto señalado en la Fracción III del artículo anterior, las autoridades fiscales podrán hacer la enajenación directamente o encomendarla a empresas o instituciones dedicadas a la compraventa o subasta de bienes, considerando el precio que se haya determinado como postura legal en la segunda almoneda.
+Al que quebrante los sellos puestos por orden de la autoridad competente, se le impondrá una sanción de tres meses a tres años de prisión.
 
 ###### ARTICULO 188.
 
-El producto obtenido del remate, enajenación o adjudicación de los bienes al fisco, se aplicará a cubrir el crédito fiscal en el orden que establece el Artículo 21 de este Código.
+Al que cometa un delito en contra de un servidor público o agente de la autoridad en el acto de ejercer sus funciones o con motivo de ellas, se le impondrá una sanción de uno a tres años de prisión, además de la que le corresponda por, el o los delitos cometidos.
 
-## TÍTULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
+## TITULO SEXTO. DELITOS CONTRA LA SALUD PUBLICA
 
-### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
+### CAPITULO V. EXPENDIO ILICITO DE BEBIDAS ALCOHOLICAS
 
-###### Artículo 436.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Las participaciones que corresponden al Municipio son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones derivadas o contraídas, con apego a las disposiciones legales, por el Municipio o sus entidades, que hayan requerido de afectación en garantía de dichas participaciones.
+###### ARTICULO 189 Bis.
 
-Las operaciones deberán estar debidamente inscritas en el registro de la Secretaría de Hacienda y Crédito Público, en el Registro Público de Deuda Municipal y en el Registro de Deuda Pública Estatal correspondiente, tratándose en este último de adeudos avalados por el Estado.
+Se aplicarán las sanciones de tres a cinco años de prisión y multa de cien a quinientos días salario, al que surta o expenda bebidas alcohólicas sin la autorización correspondiente, o sin sujetarse a las formalidades de ésta, en los términos de la ley de la materia.
 
-###### Artículo 437.
+###### ARTICULO 436.
 
-En todos los casos en que se afecten participaciones, el Ayuntamiento, previa autorización del Congreso, podrá solicitar a la Secretaría de Finanzas y Planeación del Gobierno del Estado, que en su nombre y representación realice los pagos de las amortizaciones de operaciones de endeudamiento convenidas, descontando dichos montos de las participaciones que en ingresos federales le correspondan al Municipio.
+Si además de los daños resulta consumado algún otro delito se observarán las reglas del concurso.
 
-Para todo lo no previsto en este Libro se estará a lo que señale el Código Financiero para el Estado de Veracruz-Llave.
+### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
 
-###### Artículo 438.
+###### ARTICULO 437.
 
-El presente libro tiene por objeto definir y regular el dominio, uso, usufructo, aprovechamiento, enajenación, destino, registro y control de los bienes muebles e inmuebles que integran el patrimonio de los Municipios y de sus Entidades.
+Los delitos previstos en este título se perseguirán por querella de la parte ofendida cuando sean cometidos por un ascendiente, descendiente, cónyuge, parientes por consanguinidad hasta el segundo grado; concubina, o concubinario, adoptante o adoptado y parientes por afinidad, asimismo, hasta el segundo grado. Igualmente se requerirá querella para la persecución de terceros que hubiesen incurrido en la ejecución del delito con los sujetos referidos anteriormente. Si se cometiere algún otro hecho que por sí solo constituya un delito, se aplicará la sanción que para éste señale la Ley.
 
-###### Artículo 439.
+###### ARTICULO 438.
 
-El patrimonio de los Municipios se compone de:
+Los delitos de abuso de confianza, fraude, fraude laboral, chantaje, despojo de cosas inmuebles o de aguas y daño en propiedad, se perseguirán a instancia de parte ofendida.
 
-I. Bienes de dominio público; y
+## TITULO VIGESIMO. ENCUBRIMIENTO
 
-II. Bienes de dominio privado.
+> <small>(REFORMADA SU NUMERACION, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-###### Artículo 440.
+### CAPITULO I. ENCUBRIMIENTO
 
-Son bienes de dominio público:
+###### ARTICULO 439.
 
-I. Los de uso común;
+Comete el delito de encubrimiento la persona que:
 
-II. Los destinados por el Municipio a un servicio público, y los equiparados a éstos conforme a la ley;
+I.- No procure por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sabe van a cometerse o se están cometiendo, si son de los que se persiguen de oficio;
 
-III. Los monumentos históricos y artísticos, muebles e inmuebles, de propiedad municipal;
+II.- Requerida por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes;
 
-IV. Los muebles de propiedad municipal que, por su naturaleza no sean normalmente substituibles, como los documentos y expedientes de las oficinas: los manuscritos, incunables, ediciones, libros, documentos, publicaciones, periódicos, mapas, folletos y grabados importantes o raros, así como las colecciones de esos bienes; los archivos; las fonograbaciones, películas, archivos fotográficos, cintas magnetofónicas y cualquier otro objeto que contenga imágenes y sonidos;
+III.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito;
 
-V. Las pinturas murales, las esculturas y cualquier obra artística incorporada o adherida permanentemente a los inmuebles del Municipio o del patrimonio de las Entidades;
+IV.- Oculte al responsable de un delito, o los efectos, objetos o instrumentos del mismo, o impida que se averigüe;
 
-VI. Los puentes y carreteras del dominio municipal;
+V.- Omita denunciar hechos perseguibles de oficio, que sabe van a cometerse, se están cometiendo o se han cometido;
 
-VII. Los inmuebles adquiridos para destinarse a fines de utilidad pública;
+VI.- Al que habiéndose hecho cargo por casos de urgencia de la curación de algún lesionado, no dé aviso a la autoridad dentro del término de cuarenta y ocho horas, más el tiempo necesario por razón de la distancia.
 
-VIII. Los montes y bosques propiedad del dominio del gobierno municipal, que se destinen a fines de interés públicos, y
+###### ARTICULO 440.
 
-IX. Los demás bienes del dominio municipal no considerados en las fracciones anteriores, que proporcionen un servicio público.
+A los responsables del delito de encubrimiento se les impondrá una sanción de tres meses a cuatro años de prisión y multa de seis a sesenta días salario.
 
-###### Artículo 441.
+###### ARTICULO 441.
 
-Son bienes de dominio privado:
+Las sanciones a que se refiere el artículo anterior se impondrán a la persona que adquiera o pignore la cosa robada sin cerciorarse de su legítima procedencia.
 
-I. Los no comprendidos en el artículo anterior;
+En el caso de adquisición o pignoración de semovientes o sus despojos se estará a lo dispuesto por el artículo 411 fracción II de este Código.
 
-II. Los inmuebles que formen parte del fundo legal no enajenados a particulares;
+###### ARTICULO 442.
 
-III. Los excesos o demasías en inmuebles del fundo legal enajenados a particulares, si fueren mayores al diez por ciento de la superficie declarada en el título de propiedad;
+En el caso de la fracción I del artículo 439, no se impondrá sanción a aquéllos que no puedan cumplir la obligación sin peligro de su persona o intereses, o de la persona o intereses del cónyuge, de algún pariente en línea recta o de la colateral dentro del segundo grado; y los que no puedan ser compelidos por las autoridades a revelar secreto que se les hubiera confiado en el ejercicio de su profesión o encargo.
 
-IV. Los que hayan formado parte del patrimonio de las Entidades que se extingan o liquiden, en la proporción que corresponda al Municipio;
+###### ARTICULO 443.
 
-V. La totalidad o la parcialidad de los bienes del dominio público, que sean desafectados o desincorporados del mismo;
+No se impondrá sanción al que oculte al acusado de un delito o los efectos, objetos, o instrumentos del mismo o impida que se averigüe, cuando lo hiciere por un interés lícito y no se empleare algún medio delictuoso, siempre que se trate de:
 
-VI. Los bienes que adquiera el Municipio o que ingresen por vía de derecho público y tengan por objeto la constitución de reservas territoriales, el desarrollo urbano, ecológico y habitacional o la regularización de la tenencia de la tierra;
+I.- Sus ascendientes o descendientes consanguíneos o afines, adoptante o adoptado;
 
-VII. Los materiales y suministros adquiridos por el Municipio para la prestación de servicios públicos e igualmente para la ejecución de obras por administración directa o por contrato, cuando aquél hubiere asumido la obligación de adquirir los materiales; y
+II.- Su cónyuge o parientes colaterales o por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo; y
 
-VIII. Los que el municipio adquiera legalmente, por vía de derecho común, a título de propios.
+III.- Los que estén ligados con el acusado por respeto, gratitud, estrecha amistad o afecto íntimo.
 
-###### Artículo 442.
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables. Los bienes de dominio privado serán de dominio público, cuando se apliquen o de hecho se utilicen a esos fines.
+### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-###### Artículo 443.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-Los bienes del dominio privado del Municipio son susceptibles de enajenación, uso, usufructo o arrendamiento a particulares; también podrán gravarse o ser objeto de garantía de crédito. En todos los casos se requerirá acuerdo del Cabildo, aprobado por las dos terceras partes de sus integrantes, y la autorización del Congreso o de la Diputación Permanente.
+###### ARTÍCULO 443 Bis.
 
-Sólo en casos excepcionales, por razones debidamente fundadas y motivadas, el Ayuntamiento podrá, con el voto de las dos terceras partes de sus integrantes, desincorporar los bienes de uso común o los afectos o destinados a un servicio público para convertirlos en bienes de dominio privado, previa autorización del Congreso o, en su caso, de la Diputación Permanente.
+Al que por sí o por interpósita persona adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera recursos, derechos o bienes de cualquier naturaleza que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y multa de mil a cinco mil días de salario.
+
+Las penas previstas en el párrafo anterior serán aumentadas en una mitad cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores, destitución e inhabilitación para desempeñar empleo, cargo o comisión públicos, hasta por un tiempo igual al de la pena de prisión impuesta.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+## TITULO VIGESIMO PRIMERO. DELITOS ELECTORALES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 189.
 
-En tanto no se hubieran rematado, enajenado o adjudicado los bienes, el embargado podrá pagar el crédito total o parcialmente y recuperarlos inmediatamente en la proporción del pago, tomándose en cuenta el precio del avalúo.
+Al que ultraje a cualquiera de los tres Poderes del Estado, a sus representantes o a otra institución pública, se le impondrá una sanción de uno a seis meses de prisión y multa de diez a quince días salario.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 190.
 
-Cuando existan excedentes después de haberse cubierto el crédito, se entregarán al deudor, salvo que medie orden de autoridad competente o que el propio deudor acepte por escrito que se haga entrega total o parcial del saldo a un tercero.
+Comete delito en los términos de este capítulo:
 
-En caso de conflicto, el remanente se depositará en institución de crédito autorizada, en tanto resuelven las autoridades competentes.
+I.- El que fabrique, reproduzca, publique libros, escritos, imágenes u objetos obscenos o de los llamados pornográficos, o al que los exponga, distribuya o haga circular;
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+II.- El que publique por cualquier medio, ejecute o haga ejecutar por otro, exhibiciones obscenas o de las llamadas pornográficas, y
+
+III.- El que de modo escandaloso invite a otro al comercio carnal.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 191.
 
-Causarán abandono en favor del Fisco los bienes a disposición de las Autoridades Fiscales, Administrativas o Judiciales, en los siguientes casos:
+Al responsable de los delitos previstos en este capítulo, se le impondrá una sanción de tres a seis años de prisión y multa de cien a quinientos días salario.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2001)</small>
-
-I.- Cuando habiendo sido enajenados o adjudicados los bienes al adquiriente no se retiren del lugar en que se encuentren, dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2001)</small>
-
-II.- Cuando el embargado efectúe el pago del crédito fiscal u obtenga resolución o sentencia favorable que ordene su devolución derivada de la interposición de algún medio de defensa antes de que se hubieren rematado, enajenado o adjudicado los bienes y no los retire del lugar en que se encuentren dentro de dos meses contados a partir de la fecha en que se pongan a disposición del interesado.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-III.- Se trate de bienes muebles que no hubieren sido rematados después de transcurridos dieciocho meses de practicado el embargo y respecto de los cuales no se hubiere interpuesto ningún medio de defensa;
-
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
-
-IV.- Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de las autoridades fiscales, administrativas o judiciales o hayan sido retenidos o asegurados por las mismas y los propietarios de los mismos no los retiren dentro de sesenta días naturales contados a partir de la fecha en que se ponga a su disposición.
-
-> <small>(ADICIONADO [N. DE E. ANTES SEGUNDO PÁRRAFO DE LA FRACCIÓN III], P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquel en que se le notifique la resolución correspondiente.
-
-> <small>(ADICIONADO [N. DE E. ANTES TERCER PÁRRAFO DE LA FRACCIÓN III], P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-Cuando los bienes embargados hubieren causado abandono, las Autoridades Fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago del costo de almacenaje causado. En los casos en que no se hubiere señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
-
-> <small>(ADICIONADO [N. DE E. ANTES CUARTO PÁRRAFO DE LA FRACCIÓN III], P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-Los bienes que pasen a propiedad del fisco estatal o municipal conforme a este Artículo, podrán ser enajenados en los términos del Artículo 187 de este Código o donarse para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas conforme a las Leyes de la materia.
-
-> <small>(ADICIONADO [N. DE E. ANTES QUINTO PÁRRAFO DE LA FRACCIÓN III], P.O. 31 DE DICIEMBRE DE 2007)</small>
-
-El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes en los términos que mediante reglas establezca la Secretaría de Finanzas y Tesorería General del Estado.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 192.
 
-Los plazos de abandono a que se refiere el Artículo anterior se interrumpirán:
+Comete el delito de corrupción de menores e incapaces el que procure o facilite a una persona menor de dieciocho años de edad o a quien no tenga capacidad de comprender el significado del hecho, a realizar actos de exhibicionismo corporal, lascivos o sexuales, o los induzca por cualquier medio a la práctica de la mendicidad, la ebriedad, el consumo de drogas, la prostitución, el homosexualismo, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
 
-I.- Por la interposición del recurso administrativo o la presentación de la demanda en el juicio que proceda.
-
-El recurso o la demanda sólo interrumpirán los plazos de que se trata, cuando la resolución definitiva que recaiga no confirme, en todo o en parte, la que se impugnó.
-
-II.- Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 193.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al responsable del delito a que se refiere el artículo anterior se le impondrá una sanción de cinco a diez años de prisión y multa de cuatrocientos a mil días salario.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor o incapaz la sanción a imponer será de seis a doce años de prisión y multa de quinientos a mil doscientos días salario. Si debido a esa conducta reiterada de corrupción sobre el mismo menor o incapaz éste adquiera los hábitos de alcoholismo, uso de substancias tóxicas u otras que produzcan efectos similares, o se dedique a la prostitución, o a las prácticas homosexuales, o forme parte de una asociación delictuosa, la sanción a imponer será de ocho a dieciséis años de prisión y multa de seiscientos a dos mil días salario.
+
+Si además de los delitos previstos en este capítulo resultare cometido otro, se aplicarán las reglas del concurso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 194.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Queda prohibido emplear a menores de dieciocho años de edad o a quien no tenga capacidad de comprender el significado del hecho, en billares, cantinas, tabernas, giros mixtos, bares, boliche, cabaret, centro nocturno, café cantante, cervecería, discoteca, u otros centros donde se expendan bebidas alcohólicas. Al que contravenga esta disposición, se le impondrá una sanción de tres a cinco años de prisión y multa de doscientos a quinientos días salario y, además, el cierre definitivo del establecimiento si reincidiere en su conducta.
 
-### CAPÍTULO III. DEL INVENTARIO
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2008)</small>
 
-###### Artículo 444.
+Se impondrá de tres meses a un año de prisión o multa de cien a doscientos días salario a los padres o quienes ejerzan la patria potestad, tutela o adopción de algún menor de edad, que acepten, toleren o consientan que sus descendientes, pupilos o adoptados que estén bajo su guarda, se empleen en los establecimientos referidos en el presente artículo.
 
-Los actos de adquisición, administración, uso, aprovechamiento, explotación o enajenación de los inmuebles municipales, así como la ejecución de obras de construcción, reconstrucción, modificación, adaptación, conservación, mantenimiento y demolición en los mismos, se sujetarán a las disposiciones del presente Libro y demás leyes y reglamentos aplicables.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+Para los efectos de este precepto se considerará empleado en el billar, cantina, taberna, giro mixto, bar, boliche, cabaret, centro nocturno, café cantante, cervecería, discoteca, o centro de vicio, al menor que por un salario, por la sola comida, por comisión de cualquier índole o especie, por cualquier otro estipendio, gaje o emolumento o gratuitamente preste sus servicios en tal lugar.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+ARTICULO 194 BIS.- Comete el delito de pornografía de menores de edad e incapaces:
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+I.- El que obligue o induzca a uno o más menores de dieciocho años o incapaces a realizar actos de exhibicionismo corporal, lascivos, sexuales o pornográficos con la finalidad de grabarlos, videograbarlos, filmarlos, fotografiarlos o exhibirlos mediante anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicación, sistemas de cómputo, medios electrónicos o de cualquier otra naturaleza;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+II.- Toda persona que procure, permita o facilite por cualquier medio el que uno o mas menores de dieciocho años con su consentimiento o sin él, o incapaces, realice cualquiera de los actos señalados en la fracción anterior con los mismos fines;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+III.- Al que fije, grabe, procese, elabore o imprima actos de exhibicionismo corporal, lascivos, sexuales o pornográficos en que participen uno o más menores de dieciocho años o incapaces;
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IV.- Quien con fin de lucro o sin él, elabore, reproduzca, venda, arriende, exponga, exhiba, publicite o transmita material que contenga actos señalados en las fracciones anteriores; y
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+V.- La persona o personas que por si o través de terceros dirija, administre, supervise o financie cualquier tipo de agrupación o asociación a fin de realizar las conductas prevista en las fracciones anteriores en que intervengan uno o más menores de dieciocho años o incapaces.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+Para los efectos de éste artículo, se entiende por pornografía de menores de edad o incapaces, la representación, ejecución o simulación de actos sexuales, o desnudos corporales, en imágenes en que aparezcan menores de dieciocho años o incapaces.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+Al responsable de los delitos señalados en las fracciones I, II y IV se le impondrá de ocho a doce años de prisión, y multa de mil quinientos a dos mil quinientos días salario.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+Al responsable de los delitos previstos en las fracciones III y V se les (sic) aplicará de diez a dieciocho años de prisión y una multa de cinco mil a doce mil días salario.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
+Independientemente de las sanciones señaladas, a los responsables de estos delitos les serán decomisados los objetos, instrumentos y productos relacionados con el delito, y serán suspendidos sus derechos para ejercer tutela, curatela o adopción por el término que corresponda hasta tres veces la sanción privativa de libertad que le fuere impuesta.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+ARTICULO 194 TER.- Comete el delito de prostitución sexual de menores e incapaces:
+
+I.- El que dentro del territorio del Estado, publicite, facilite o gestione por cualquier medio a persona o personas para que se trasladen a cualquier lugar dentro de éste o fuera del mismo, con el propósito o fin de tener u obtener relaciones sexuales con menores de dieciocho años o incapaces;
+
+II.- El que dentro del territorio del Estado, promueva, facilite, consiga o entregue a menores de dieciocho años o incapaces para que tenga relaciones sexuales o ejerza la prostitución; y
+
+III.- El que promueva, encubra, consienta o concierte el comercio carnal de un menor de dieciocho años o de un incapaz.
+
+Al responsable de éste delito se le aplicará de diez a dieciocho años de prisión y multa de cinco mil a doce mil días salario, e inhabilitación para desempeñar cargo de tutela, curatela y para adoptar.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 194 QUATER.- Las penas que en su caso resulten aplicables por los delitos previstos en los artículos 194 y 194-Ter, serán aumentadas en los siguientes términos:
+
+I.- Si el delito es cometido con un menor de catorce años de edad, la sanción se aumentará hasta una tercera parte;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2010)</small>
+
+II.- Si el delito se comete con un menor de doce años de edad, la sanción se aumentará hasta una mitad de la sanción impuesta;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2010)</small>
+
+III.- Si la conducta es ejecutada por quien se valiese de una función pública que tuviese asignada, o ejerciere alguna autoridad de cualquier índole sobre el pasivo, la sanción impuesta se aumentará hasta dos terceras partes más y será destituido del empleo, cargo o comisión público e inhabilitado y para desempeñar otro hasta por un tiempo igual a la sanción impuesta; y
+
+> <small>(ADICIONADA, P.O. 7 ENERO DE 2010)</small>
+
+IV.- Si la conducta prevista en el párrafo segundo del artículo 194 de este Código interfiere u obstaculiza el acceso a la educación del menor, la sanción se aumentará hasta en una mitad.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+### CAPITULO I. ULTRAJES A LA MORAL PUBLICA E INCITACION A LA PROSTITUCION
+
+###### ARTICULO 444.
+
+Para los efectos de este Capítulo se entiende por:
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+I.- Servidores públicos, las personas que se encuentren dentro de los supuestos establecidos por el Artículo 149 de la Constitución Política del Estado Libre y Soberano de Tamaulipas.
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+II.- Funcionarios electorales, las personas que integran los órganos que cumplen funciones públicas electorales, en los términos de la Legislación Electoral;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+III.- Funcionarios partidistas, los dirigentes de los partidos políticos, sus candidatos, así como los ciudadanos a quienes en el curso de los procesos los propios partidos les otorguen representación para actuar en la jornada electoral ante los órganos electorales, en los términos de la Legislación Electoral;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+IV.- Observador o visitante electoral, toda persona que acredite tal carácter en los términos del Artículo 7 del Código Electoral para el Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+V.- Documentos Públicos Electorales, las boletas electorales, actas y certificaciones que expidan los órganos centrales, distritales y municipales del Instituto Estatal Electoral durante el proceso electoral, así como cualquier documental expedida por toda autoridad o persona investida de fe pública que guarde relación directa o indirecta con el proceso electoral estatal;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+VI.- Materiales Electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas durante la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 195.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+La sanción señalada en el Artículo 193 se aumentará con otro tanto más cuando el responsable tenga parentesco por consanguinidad, por afinidad o civil o habite en el mismo domicilio con la víctima, aunque no existiere parentesco alguno, así como por el tutor o curador; asimismo perderá la patria potestad respecto de todos sus descendientes, el derecho a alimentos que le correspondiera por su relación con la víctima y el derecho que pudiera tener respecto a los bienes de ésta.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 196.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al que en cualquiera de las formas previstas en el artículo 39 de este Código, lleve a cabo un delito sirviéndose de un menor de dieciocho años de edad, se le aumentará en un tercio la pena que corresponda al delito cometido.
 
 ###### ARTICULO 197.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+A los responsables de que trata este capítulo, se les privará en definitiva de sus derechos para ser tutores o para adoptar.
 
 ###### ARTICULO 198.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+El delito de corrupción de menores, sólo se sancionará cuando se consumen los hechos materiales que lo constituyan.
 
 ###### ARTICULO 199.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete el delito de lenocinio:
+
+I.- Toda persona que explote el cuerpo de otra por medio del comercio carnal y obtenga de él un lucro cualquiera;
+
+II.- El que induzca o solicite a una persona para que, con otra, comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución; y
+
+III.- El que regentee, administre o sostenga prostíbulos, casas de cita o lugares de concurrencia, en donde se practique la prostitución.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 200.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al responsable del delito de lenocinio se le impondrá una sanción de cinco a diez años de prisión y multa de mil a dos mil días salario. Si el responsable del delito de lenocinio realiza su conducta con una persona menor de dieciséis años de edad, o por conducto de ésta, la sanción será de siete a doce años de prisión y multa de mil a dos mil días salario.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 201.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Si el responsable del delito fuere ascendiente, tutor, cónyuge, concubinario, concubina, o tuviere cualquier otra autoridad sobre la persona explotada, se le impondrá de siete a doce años de prisión y multa de mil a dos mil días salario. Además, será privado, en su caso, de todos los derechos sobre los bienes de ésta, y suspendidos sus derechos para ser tutor, curador, para adoptar, para ejercer la patria potestad o para ejercer las funciones o su ocupación en virtud de las cuales ejercía aquella autoridad.
 
 ###### ARTICULO 202.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, se le impondrá una sanción de tres días a un año de prisión y multa de uno a treinta días salario si el delito no se ejecutare. En caso contrario, se le impondrá al provocador la sanción que le corresponda por su participación en el delito cometido.
 
 ###### ARTICULO 203.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+El que sabiendo que padece un mal venéreo en período infectante o el síndrome de inmuno deficiencia adquirida, ponga en peligro de contagio a otro, por medio de relaciones sexuales, será sancionado por prisión de seis meses a tres años y multa de quince a cincuenta días salario, sin perjuicio de la pena que corresponda, si causa el contagio.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+Cuando se trate de cónyuges o concubinos, sólo podrá procederse por querella del ofendido.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 204.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al que sin autorización de la autoridad competente o contraviniendo las normas técnicas sanitarias, embotelle y enajene agua no purificada o fabrique hielo no purificado destinados al consumo humano, será sancionado con prisión de seis meses a tres años y con multa de quince a cincuenta días salario, sin perjuicio de la pena que corresponda si con la comisión de este delito concurre otro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 205.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete el delito de revelación de secretos el que sin causa justa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado revele algún secreto o comunicación reservada que conoce o ha recibido con motivo de su empleo, puesto o cargo.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 206.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al responsable del delito de revelación de secretos se le impondrá una sanción de un año a tres años seis meses de prisión y multa de veinte a sesenta días salario.
 
-### CAPÍTULO I. DE LOS BIENES MUEBLES
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### Artículo 445.
+### CAPITULO II. CORRUPCION, PORNOGRAFIA Y PROSTITUCION SEXUAL DE MENORES E INCAPACES
 
-Los actos de planeación, programación, adquisición, almacenaje, control, destino, baja y arrendamiento; así como los procedimientos de rescisión administrativa y de enajenación de bienes muebles municipales se regirán por la ley de la materia.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
-###### Artículo 446.
+###### ARTICULO 445.
 
-Son atribuciones de los Ayuntamientos, respecto a sus bienes, las siguientes:
+Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo se podrá imponer además de la pena señalada, inhabilitación de uno a cinco años, y en su caso, la destitución del cargo.
 
-I. Vigilar la observancia del presente Código;
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
-II. Programar la adquisición, uso, aprovechamiento, usufructo, destino, enajenación y arrendamiento de los bienes municipales;
+###### ARTICULO 446.
 
-III. Promover la titulación y registro de todos los bienes y derechos que formen parte de su patrimonio y, si procediere, de aquellos que se presuman de su propiedad, mediante escritura pública o título supletorio de dominio;
+Se impondrán de seis meses a tres años de prisión y multa de diez a cien días salario, a quién:
 
-IV. Realizar o promover, en su caso, los deslindes sobre sus bienes patrimoniales;
+I.- Vote o pretenda votar a sabiendas de que no cumple con los requisitos señalados en la Legislación Electoral;
 
-V. Ejecutar todas las acciones jurídicas y materiales tendientes a la reivindicación o recuperación de sus bienes;
+II.- Vote más de una vez en una misma elección;
 
-VI. Suscribir, por conducto del Presidente Municipal y del Síndico, los contratos que el Congreso o la Diputación Permanente autorice;
+III.- Realice actos de campaña o de propaganda electoral durante el día de la elección o los tres días anteriores a la misma;
 
-VII. Intervenir, conforme a las leyes de la materia, en la regularización de la tenencia de la tierra en el Municipio;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-VIII. Formular un inventario de todos los bienes y derechos municipales;
+IV.- Obstaculice o interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio, traslado o entrega de paquetes, el cómputo de la casilla o del órgano municipal, distrital o estatal electoral; así como la entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electorales;
 
-IX. Establecer y mantener actualizado un registro de solicitudes y enajenaciones relativas a sus bienes;
+V.- Recoja, sin causa prevista por la Ley, credenciales para votar con fotografía de los ciudadanos, con el fin de imposibilitarlos para que ejerzan el derecho al voto;
 
-X. Ejercitar las acciones de rescisión administrativa respecto a los bienes municipales que establece este Código;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-XI. Determinar el valor de los lotes de su propiedad susceptibles de enajenación, considerando su ubicación y calidad. En ningún caso su valor será inferior al valor catastral o fiscal; y
+VI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que, mediante amenaza o promesa de paga o dádiva pida comprometer el voto en favor de un determinado partido político o candidato;
 
-XII. Las demás que les señalen la Constitución, el presente Código y demás leyes aplicables.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-###### Artículo 447.
+VII.- Haga proselitismo o presiones objetivamente a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
 
-El Municipio formará un inventario valorado de todos sus bienes y derechos, que contendrá los datos de identificación física, antecedentes jurídicos y administrativos, de los bienes municipales.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-El inventario será formulado por el Síndico y aprobado por el Cabildo.
+VIII. Introduzca en o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales, o impida de cualquier forma su traslado o entrega a los órganos competentes;
 
-###### Artículo 448.
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-Los bienes se clasificarán en el inventario agrupándolos de la siguiente manera:
+IX.- Impida, sin causa justificada, la instalación, apertura o cierre de una casilla electoral; o la abra o cierre fuera de los tiempos previstos por el Código Electoral para el Estado de Tamaulipas;
 
-I. Muebles;
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-II. Inmuebles;
+X.- El día de la jornada electoral viole, de cualquier manera, el derecho del ciudadano a emitir su voto en secreto, salvo lo previsto en la Ley de la materia;
 
-III. Derechos;
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-IV. Valores mobiliarios, inmobiliarios, financieros y bursátiles;
+XI.- Vote o pretenda hacerlo con una credencial para votar de la que no sea titular;
 
-V. Créditos; y
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
 
-VI. Semovientes;
+XII.- El día de la jornada electoral lleve a cabo el transporte de votantes, coartando o pretendiendo coartar su libertad para la emisión del voto;
 
-Los documentos que por su naturaleza tengan incorporados valores o derechos estarán a cargo de la Tesorería para su custodia.
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+XIII.- Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas, propale dolosamente noticias falsas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1997)</small>
+
+###### ARTICULO 447.
+
+Se impondrán hasta cuatrocientos días salario de multa, a los ministros de cultos religiosos, que por cualquier medio en el desarrollo de actos propios de su ministerio, induzcan al electorado, a votar en favor o en contra de un candidato o partido político, o a la abstención.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+###### ARTICULO 448.
+
+Se impondrá de dos a seis años de prisión y multa de cincuenta a doscientos días de salario, al funcionario electoral que:
+
+I.- Altere en cualquier forma, sustituya, destruya o use indebidamente documentación pública electoral;
+
+II.- Se abstenga de cumplir, sin causa justificada, con sus obligaciones electorales en perjuicio del proceso;
+
+III.- Suspenda el desarrollo normal de la votación sin mediar causa justificada;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+IV.- Altere los resultados electorales en cualquier forma, sustraiga o destruya documentos, boletas electorales o materiales electorales;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+V.- No entregue o impida la entrega oportuna de documentos públicos electorales o materiales electorales, sin mediar causa justificada;
+
+VI.- Instale, permita su instalación o clausure dolosamente una casilla fuera de los tiempos y formas previstos por el Código Electoral para el Estado de Tamaulipas, o impida su instalación, sin causa justificada;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+VII.- Sin causa prevista por la Ley expulse u ordene el retiro de la casilla electoral de representantes de un partido político o coarte los derechos que la Ley les concede;
+
+VIII.- Entregue boletas electorales a quien no exhiba su credencial de elector, o no aparezca inscrito en la lista nominal de electores o ambas circunstancias, salvo las excepciones previstas en la Legislación Electoral;
+
+IX.- Permita o tolere que se introduzcan o sustraigan, ilícitamente, una o más boletas electorales;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+X.- En el ejercicio de sus funciones, ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato o partido político determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+XI.- Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de Ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+XII.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 207.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Cuando la revelación punible sea hecha por personas que presten servicios profesionales o técnicos, o cuando el secreto revelado o publicado sea de carácter industrial, la sanción será de dos a cinco años de prisión y multa de treinta a ochenta días salario.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 208.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Para los efectos de este título y el subsecuente se considera servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza para:
+
+I.- Los tres Poderes del Estado;
+
+II.- Los Ayuntamientos de los Municipios del Estado;
+
+III.- Los Organismos Descentralizados de las Entidades referidas en las dos fracciones que anteceden.
+
+Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este título o el subsecuente.
 
 ###### ARTICULO 209.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete el delito de ejercicio indebido de funciones públicas:
+
+I.- El que ejerza las funciones de un empleo, cargo o comisión sin haber tomado posesión legítima o sin llenar todos los requisitos legales;
+
+II.- El que continúe ejerciendo las funciones de su empleo, cargo o comisión después de saber que se le ha revocado su nombramiento o que legalmente se le ha suspendido o destituido;
+
+III.- El que teniendo nombramiento por tiempo limitado, continúe ejerciendo funciones después de cumplido el término para el que se le nombró, excepto en los casos en que las leyes establezcan la obligación de esperar hasta que se presente el sustituto;
+
+IV.- El que ejerza funciones que no le corresponden por su empleo, cargo o comisión.
 
 ###### ARTICULO 210.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete el delito de abandono de funciones públicas el que sin habérsele admitido la renuncia de su comisión, empleo o cargo lo abandone sin causa justificada.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
 
 ###### ARTICULO 211.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+A los responsables de los delitos previstos en este capítulo, se les impondrá una sanción de dos a seis años de prisión y multa de cien a cuatrocientos días de salario y destitución en su caso, e inhabilitación de tres a seis años para desempeñar un empleo, cargo o comisión públicos.
 
 ###### ARTICULO 212.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al responsable del delito de abuso de autoridad se le impondrá una sanción de dos a nueve años de prisión, multa de cien a cuatrocientos días de salario, destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+Iguales sanciones se impondrán a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones IX, X y XI de este artículo.
 
-### CAPITULO II. DE LOS BIENES INMUEBLES
+Comete el delito de abuso de autoridad el servidor público cuando:
 
-###### Artículo 449.
+I.- Para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
 
-Las dependencias de la administración pública municipal y las demás instituciones públicas y privadas que por cualquier concepto usen, administren o tengan a su cuidado bienes y recursos propiedad del Municipio proporcionarán información necesaria para la elaboración y actualización del inventario de bienes municipales.
+II.- Ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima o la vejare o la insultare;
 
-Lo anterior, sin perjuicio de la integración y actualización de los propios catálogos e inventarios de las Entidades.
+III.- Indebidamente retarde o niegue a los particulares la protección o servicios que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
 
-###### Artículo 450.
+IV.- El encargado de una fuerza pública requerido legalmente por una autoridad competente para que le preste auxilio, se niegue indebidamente a dárselo;
 
-La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica del Municipio Libre, ejercerá sus atribuciones para el establecimiento de los procedimientos de integración y recepción de la información para el funcionamiento y actualización del inventario; la comprobación del cumplimiento de las normas a que se refiere este capítulo, así como para verificar la existencia en almacenes de los documentos o bienes que constituyan el inventario y el destino o afectación final de éstos.
+V.- Estando encargado de cualquier establecimiento destinado a la ejecución de resoluciones privativas de libertad, de instituciones de readaptación social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos, sin los requisitos legales reciba como presa, detenida, arrestada o interna a una persona o le mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente, niegue que esté detenida si lo estuviere o no cumpla la orden de libertad girada por la autoridad competente;
+
+VI.- Teniendo conocimiento de una privación ilegal de la libertad no la denunciase inmediatamente a la autoridad competente o no la haga cesar también inmediatamente, si esto estuviere en sus atribuciones;
+
+VII.- Haga que se le entreguen fondos, valores u otras cosas que no se le hayan confiado a él y se los apropie o disponga de ellos indebidamente;
+
+VIII.- Por cualquier pretexto, obtenga de un subalterno parte de los sueldos de éste, dádivas u otros servicio;
+
+IX.- En el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no prestará el servicio para el que se le nombró o que no se cumplirá el contrato otorgado;
+
+X.- Autorice, contrate o permita a quien se encuentre inhabilitado por resolución firme de autoridad competente el desempeño de un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación;
+
+XI.- Otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+XII.- Obligar al inculpado a declarar, usando la incomunicación, la intimidación o la tortura, y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+XIII.- Obligar a declarar a las personas que se mencionan en el artículo 249 Bis, del Código de Procedimientos Penales para el Estado de Tamaulipas, acerca de la información obtenida con motivo del desempeño de su actividad.
+
+### CAPITULO III. LENOCINIO
+
+###### ARTICULO 449.
+
+Se impondrán de uno a seis años de prisión y multa de cien a doscientos días de salario, al funcionario partidista o candidato que:
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+I.- Ejerza violencia física o moral sobre los electores y los induzca a la abstención o a votar por un candidato o partido político determinado en el interior de la casilla o en el lugar donde los propios electores se encuentran formados;
+
+II.- Realice actos de campaña o de propaganda electoral durante el día de la elección o los tres días anteriores a la misma;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+III.- Sustraiga, destruya, altere o haga uso indebido de documentos públicos y materiales electorales;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+IV.- Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada, o con ese fin amenace o ejerza violencia física sobre los funcionarios electorales;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+V.- Impida con violencia la instalación, apertura o cierre de una casilla;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+VI.- Propale, de manera pública y dolosa, noticias falsas en relación al desarrollo de la jornada electoral o de los resultados preliminares, parciales o definitivos de la misma;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+VII.- Simule un hecho o acto de campaña electoral para imputarlo a otro partido político o candidato distinto al suyo;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+VIII.- Obtenga y utilice a sabiendas y en su calidad de candidato, fondos provenientes de actividades ilícitas para su campaña electoral.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+###### ARTICULO 450.
+
+Se impondrán de uno a nueve años de prisión y multa de doscientos a cuatrocientos días salario, al servidor público que:
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+I.- Obligue a sus subordinados, de manera expresa y haciendo uso de su autoridad o jerarquía, a emitir su voto a favor de un candidato o partido político;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+II.- En ejercicio de sus funciones condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio a favor de un partido político o candidato;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+III.- Destine, de manera ilegal, fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como vehículos, inmuebles y equipos, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1997)</small>
+
+IV.- Disponiendo del tiempo correspondiente a sus labores, de manera ilegal, proporcione apoyo o preste algún servicio a los partidos políticos o a sus candidatos, por sí o a través de sus subordinados.
+
+Para los efectos anteriores, se entenderá como horario de labores de los trabajadores de base al servicio del Gobierno del Estado, Municipios y Organismos Descentralizados y Desconcentrados, el señalado en el Reglamento de las Condiciones Generales de Trabajo en el Código Municipal para el Estado, en su caso; y el relativo al de los trabajadores de confianza, extraordinarios, provisional o interino, por obra determinada o de lista de raya, así como el de aquellos que no queden regulados en los ordenamientos legales señalados, el comprendido entre las ocho y las quince treinta horas, de lunes a viernes de cada semana.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 213.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Se sancionará con una pena de tres a doce años de prisión, multa de doscientos a cuatrocientos días de salario, destitución del cargo e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión públicos, al servidor público que ordene, consienta o aplique intencionalmente a una persona golpes, azotes, quemaduras, mutilaciones o cualquier otro tipo de violencia física o moral con el objeto de obtener de ella o de un tercero información, confesión de culpabilidad o cualquier otra conducta que dañe al pasivo o beneficie al servidor o a un tercero.
+
+Las mismas penas previstas en este Artículo se aplicarán al servidor público que, con motivo del ejercicio de su cargo, instigue, compela o autorice a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
+
+Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves sean físicos o psíquicos a un detenido.
 
 ###### ARTICULO 214.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Cometen el delito de coalición de servidores públicos los que teniendo tal carácter se confabulen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución, o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
 
 ###### ARTICULO 215.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+A los que cometan el delito de coalición a que se refiere el Artículo anterior, se les impondrá una sanción de dos a ocho años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
 ###### ARTICULO 216.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete el delito de cohecho:
+
+I.- El servidor público que por sí o por interpósita persona solicite o reciba indebidamente para sí o para otro, dinero o cualquiera otra dádiva, o acepte una promesa para hacer o dejar de hacer algo justo o injusto, relacionado con sus funciones; y,
+
+II.- El que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva a alguna de las personas que se mencionan en la fracción anterior, para que cualquier servidor público haga u omita un acto justo o injusto, relacionado con sus funciones.
 
 ###### ARTICULO 217.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al responsable del delito de cohecho se le sancionará en la forma siguiente:
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
+I.- Cuando la cantidad o el valor de la dádiva o promesa no exceda de tres mil días de salario, o no sea valuable, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos; y
 
-### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-###### Artículo 451.
+II.- Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
-El Ayuntamiento, con apoyo en la Comisión de Hacienda, expedirá las normas relativas al dominio y la administración de los bienes muebles del Municipio, de conformidad con las disposiciones legales aplicables.
+En ningún caso se devolverá a los responsables del delito de cohecho el dinero o dádivas entregadas, mismos que se aplicarán en beneficio del Estado.
 
-###### Artículo 452.
+## TITULO SEPTIMO
 
-Las enajenaciones de los bienes muebles no podrán realizarse a favor de los servidores públicos municipales que, en cualquier forma, intervengan en los actos relativos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y serán nulos de pleno derecho.
+DELITOS DE REVELACION DE SECRETOS Y DE ACCESO ILICITO A SISTEMAS Y EQUIPOS DE INFORMATICA.
 
-###### Artículo 453.
+### CAPITULO IV. PROVOCACION A UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
 
-Las disposiciones de este capítulo regulan la adquisición y el arrendamiento de bienes inmuebles, para satisfacción de las necesidades de la Administración Pública Municipal.
+###### ARTICULO 451.
 
-###### Artículo 454.
+Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años a quienes, habiendo sido electos Diputados locales no se presenten, sin causa justificada a juicio del Congreso del Estado, a desempeñar el cargo dentro del término señalado en el Artículo 37 de la Constitución Política del Estado de Tamaulipas.
 
-Las dependencias de la administración pública municipal presentarán al Cabildo un programa anual, que prevea sus necesidades inmobiliarias y contenga la información necesaria para fundar las políticas y decisiones en la materia.
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
-Las adquisiciones de bienes inmuebles que se programen se orientarán al cumplimiento de los fines previstos en el Plan de Municipal de Desarrollo.
+###### ARTICULO 452.
 
-En todos los casos, el Ayuntamiento verificará que el uso para el que se requieran los inmuebles sea compatible con las disposiciones vigentes en materia de desarrollo urbano y verificará la disponibilidad presupuestal para la adquisición de los mismos. Al momento de la adquisición deberá contarse con la partida presupuestal autorizada.
+Se impondrán de uno a cinco años de prisión y multa de cincuenta a trescientos días salario, al observador o visitante electoral que:
 
-###### Artículo 455.
+I.- Sustituya u obstaculice a las autoridades electorales en el ejercicio de sus funciones e interfiera en el desarrollo de las mismas;
 
-Para satisfacer los requerimientos de inmuebles que formulen las Dependencias y Entidades, la Comisión de Hacienda, con base en la información que proporcione el Inventario de Bienes Municipales, procederá conforme a las disposiciones aplicables.
+II.- Haga proselitismo de cualquier tipo, o se manifieste en favor o en contra de un candidato o partido político determinado;
 
-###### Artículo 456.
+III.- Externe cualquier expresión de ofensa, difamación o calumnia, en contra de las instituciones, autoridades electorales, partidos políticos o candidatos; y
 
-Cuando el Municipio adquiera un inmueble, por vías de derecho privado, para cumplir con finalidades de orden público, en su caso, podrá convenir con los poseedores, derivados o precarios, la forma y términos conforme a los cuales se darán por terminados los contratos de arrendamientos, comodato o cualquier otro tipo de relación jurídica que les otorgue la posesión del bien, con la posibilidad de cubrir, en cada caso, la compensación que se considere procedente. El término para la desocupación y entrega del inmueble no excederá de un año.
+IV.- Declare el triunfo de un candidato o partido político determinado.
+
+Igual sanción se impondrá a quien publique o difunda por cualquier medio, durante los 8 días previos a la elección y hasta la hora del cierre oficial de las casillas, resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+
+###### ARTICULO 453.
+
+Los responsables de los delitos contenidos en el presente Capítulo, por haber acordado o preparado su realización en los términos de la fracción I del Artículo 39 de este Código, no podrán gozar del beneficio de la libertad provisional.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
+
+## TITULO VIGESIMO SEGUNDO. DE LOS DELITOS COMETIDOS CONTRA EL ORDENAMIENTO TERRITORIAL Y EL DESARROLLO URBANO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
+
+### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 454.
+
+Comete el delito a que se refiere este Capítulo:
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+I.- El que por sí o por interpósita persona, fraccione en lotes un predio, rústico o urbano, ajeno o propio, sin contar con el permiso necesario de la autoridad administrativa o teniéndolo, no respete las especificaciones del mismo, con el objeto de transferir la posesión, la propiedad o cualquier otro derecho relacionado con los lotes fraccionados.
+
+II.- El que por sí o por interpósita persona, sin contar con los requisitos y autorizaciones de urbanización exigidos por las leyes respectivas, permita de propia autoridad en lote propio, la constitución de asentamientos humanos integrados por dos o más familias, que impliquen el surgimiento de peticiones respecto de su regularización.
+
+> <small>(F. DE E., P.O. 12 DE FEBRERO DE 2008)</small>
+
+Se considera que existe consentimiento por parte del propietario cuando teniendo conocimiento del asentamiento humano irregular, no denuncie el hecho ante el Ministerio Publico.
+
+> <small>(F. DE E., P.O. 12 DE FEBRERO DE 2008)</small>
+
+III.- El que por sí o por interpósita persona transfiera o prometa transferir la posesión, la propiedad o cualquier otro derecho real respecto de bienes inmuebles rústicos o urbanos, propios o ajenos, que hayan sido fraccionados sin la anuencia de la autoridad administrativa correspondiente o, contando con esta, no se observen las especificaciones de la misma.
+
+> <small>(F. DE E., P.O. 12 DE FEBRERO DE 2008)</small>
+
+IV.- El servidor público que valiéndose de su encargo expida, autorice u otorgue licencias, permisos, autorizaciones o cualquier otra disposición análoga, que permita el fraccionamiento en lotes de predios que no reúnan las condiciones exigidas por las leyes, planes o programas de desarrollo urbano vigentes, o bien, que los expida sin estar autorizado para ello.
+
+> <small>(F. DE E., P.O. 12 DE FEBRERO DE 2008)</small>
+
+V.- El servidor público que expida licencias, permisos, autorizaciones o cualquier otra disposición análoga, permitiendo el uso del suelo o la edificación de construcciones respecto de lotes previamente fraccionados sin el permiso de la autoridad administrativa correspondiente, o que contándose con éste no se hayan observado las especificaciones del mismo; igualmente incurrirá en el delito el funcionario público que los otorgue sin estar autorizado para ello.
+
+VI.- (DEROGADA, P.O. 12 DE FEBRERO DE 2008)
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2008)</small>
+
+VII.- El que por sí o por interpósita persona, dañe, deseque, obstruya o rellene cuerpos de agua, humedales, escurrimientos, cauces naturales y drenes pluviales, con el propósito de su aprovechamiento en el incremento del área utilizable de un predio o un fraccionamiento, sin contar con el permiso necesario de la autoridad administrativa para ello.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 455.
+
+Las licencias, permisos, autorizaciones o disposiciones análogas a que se hace referencia en las fracciones IV y V del artículo anterior estarán afectadas de nulidad absoluta.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+
+###### ARTICULO 456.
+
+El Agente del Ministerio Público al ejercer la acción penal asegurará y procederá a poner en custodia el inmueble en cuestión ante el organismo encargado del desarrollo urbano en el Estado de Tamaulipas, para su resguardo.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
 
 #### SECCIÓN PRIMERA. DEL DOMINIO DE LOS BIENES
 
-###### Artículo 457.
+###### ARTICULO 457.
 
-Las dependencias sólo podrán arrendar bienes inmuebles para su servicio, cuando previo informe que le rindan al Cabildo, éste lo apruebe si no fuere posible o conveniente su adquisición.
+A los responsables de los delitos cometidos por fraccionadores se les sancionará en la forma siguiente:
 
-Tanto el arrendamiento de inmuebles para oficinas públicas como la construcción, reconstrucción, adaptación, conservación y mantenimiento de las mismas, se realizará con la asesoría de la dependencia responsable de Obras Públicas.
+I. De uno a seis años de prisión y multa de trescientos a mil días de salario por lo que hace a las figuras previstas de las fracciones I a III del artículo 454 del presente Código.
 
-El Presidente, con la asesoría de la dependencia responsable de Obras Públicas, propondrá al Cabildo las normas y criterios técnicos para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles destinados a oficinas públicas municipales.
+II. De uno a seis años de prisión, multa de trescientos a mil días de salario y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión pública hasta por seis años, por lo que hace a las conductas previstas en las fracciones IV y V del artículo 454 del presente Código.
 
-###### Artículo 458.
+III.- (DEROGADA, P.O. 12 DE FEBRERO DE 2008)
 
-En las distintas operaciones inmobiliarias en las que la Administración Pública Municipal sea parte, corresponderá a la Comisión de Hacienda:
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2008)</small>
 
-I. Validar los avalúos de los inmuebles objeto de la operación de adquisición, enajenación o permuta o de cualquier otra autorizada por la ley cuando se requiera; y
+IV.- De uno a seis años de prisión y multa de trescientos a mil días de salario por lo que hace a la conducta prevista en la fracción VII del artículo 454 del presente Código.
 
-II. Validar la justipreciación de las rentas que el Municipio deba recaudar o pagar cuando tenga el carácter de arrendador o arrendatario.
+La pena de prisión impuesta se incrementará hasta en dos años, cuando las conductas previstas afecten áreas protegidas o de preservación ecológica, o se realicen respecto de zonas no consideradas aptas para la vivienda de acuerdo a las leyes, planes y programas de desarrollo urbano en vigor.
 
-###### Artículo 459.
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
 
-Para aprovechamientos especiales sobre los bienes de uso común o afectos o destinados a un servicio público, se requiere permiso o autorización, otorgados con las condiciones y requisitos que apruebe el Cabildo.
+###### ARTICULO 458.
 
-###### Artículo 460.
+Los responsables de los delitos contenidos en el presente Capítulo por haber acordado o preparado su realización en los términos de la fracción I del artículo 39 de éste Código, no podrán gozar del beneficio de la libertad provisional bajo caución.
 
-Los permisos y autorizaciones sobre bienes de uso común y los destinados o afectos a un servicio público, no generan derechos reales, sólo otorgan, frente a la Administración Municipal y sin perjuicio de terceros, el derecho a realizar los usos o aprovechamientos de conformidad con las reglas y condiciones que establezcan las leyes y el permiso o autorización.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-###### Artículo 461.
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-Los permisos o autorizaciones a que se refiere el artículo anterior, los concederá el Cabildo hasta por el lapso de un año, que podrá prorrogarse por igual término siempre que no exceda del periodo de la Administración que lo emite.
+## TITULO VIGESIMO TERCERO. DELITOS CONTRA EL MEDIO AMBIENTE Y LOS RECURSOS NATURALES
 
-Los permisos o autorizaciones se otorgarán a título personal y serán intransferibles.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-###### Artículo 462.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-Serán nulos los permisos o autorizaciones que se otorguen en contravención a las disposiciones anteriores, además, serán revocados por las causas siguientes:
+### CAPITULO I. DAÑO AL MEDIO AMBIENTE
 
-I. Dar un fin distinto al permiso o autorización o no usar el bien de acuerdo con lo dispuesto en éste Código, los reglamentos y permisos o autorizaciones;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Dejar de pagar en forma oportuna los derechos que se hayan fijado en el permiso o autorización;
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
-III. Realizar obras no autorizadas por escrito;
+###### ARTICULO 459.
 
-IV. Dañar en forma reiterada ecosistemas como consecuencia del uso o aprovechamiento; o
+Comete el delito a que se refiere este Capítulo, quien sin contar o haber obtenido previamente concesión, permiso o autorización; o en violación a los términos de los mismos:
 
-V. Las demás previstas en éste ordenamiento.
+I. Autorice, efectúe, emita, expida, permita, ordene o realice en áreas de jurisdicción estatal o municipal, cualquier actividad con materiales o residuos no reservados a la Federación, que ocasionen o puedan ocasionar daños a la salud de las personas, a los recursos naturales, a la flora, a la fauna o a los ecosistemas y se violen las disposiciones legales, reglamentarias, las Normas Oficiales Mexicanas o las Normas Ambientales Estatales aplicables al caso concreto;
 
-###### Artículo 463.
+II. Despida o genere en la atmósfera, autorice u ordene emisiones de gases, humos, polvos, contaminantes, ruido, vibraciones, energía térmica o lumínica, provenientes de fuentes emisoras de jurisdicción estatal o municipal, que excedan los límites máximos permisibles por el orden jurídico local, que ocasionen o puedan ocasionar daños a la salud de las personas, a los recursos naturales, a la flora, a la fauna o a los ecosistemas;
 
-Los inmuebles considerados, en términos de este Código, como bienes de dominio privado deberán destinarse prioritariamente al uso común o al servicio de las Dependencias y Entidades de la Administración Pública Municipal.
+III. Realice actividades de separación, utilización, recolección, almacenamiento, transportación, tratamiento o disposición final de residuos de la competencia del Estado, así como la reutilización, acopio, almacenamiento, reciclaje o incineración de residuos sólidos no peligrosos que resulten sobrantes de actividades domésticas, industriales, agrícolas o comerciales, que ocasionen o puedan ocasionar daños al medio ambiente, a los recursos naturales, a la flora, a la fauna, a los ecosistemas o a la salud de las personas;
 
-###### Artículo 464.
+IV. Tale recursos forestales, transporte, comercie o transforme sus derivados, o productos provenientes de la descomposición de las rocas o del suelo a cielo abierto que se encuentren en las áreas naturales protegidas estatales; o
 
-Los inmuebles que no sean adecuados para destinarlos a los fines a que se refiere el artículo anterior podrán ser objeto de los siguientes actos de dominio y administración, sin perjuicio de lo dispuesto por la Ley Orgánica del Municipio Libre:
+V. Explore, extraiga, procese, importe o exporte cualquier mineral o sustancia geológica que constituyan depósitos de naturaleza cuyo control no esté reservado a la Federación.
 
-I. Enajenación a título oneroso; para adquirir o permutar otros inmuebles que se requieran para la prestación de los servicios a cargo de las dependencias de la Administración Pública Municipal; para el pago de indemnizaciones o adeudos en los que el municipio tenga el carácter de deudor; para la instalación de empresas particulares que contribuyan, a través de la generación de empleos, a elevar el nivel económico de la localidad; a particulares para la construcción de viviendas de interés social; y, en general, para promover el bienestar colectivo;
+(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.
 
-II. Enajenación a título gratuito, a favor de los Gobiernos Federal, de los Estados o de los Municipios, para la prestación de servicios públicos, de personas físicas o morales de carácter privado, que realicen actividades de interés social y no persigan fines de lucro; y
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
-III. Arrendamiento o comodato, según convengan al interés público, a favor de personas físicas o morales, públicas o privadas, de conformidad con la legislación aplicable.
+###### ARTICULO 460.
 
-###### Artículo 465.
+Al responsable del delito previsto en el artículo anterior, se le impondrá una sanción de seis meses a ocho años de prisión y multa de trescientos a diez mil días de salario.
 
-El Ayuntamiento, previa autorización del Congreso o, en su caso, de la Diputación Permanente, podrá conceder el uso o el usufructo de inmuebles considerados como bienes de dominio privado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-###### Artículo 466.
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
-En las distintas operaciones inmobiliarias en las que la Administración Pública Municipal sea parte, en materia de avalúos se estará a lo dispuesto por la Ley de Catastro.
+###### ARTICULO 461.
 
-La transmisión de dominio, a título gratuito u oneroso, de los bienes inmuebles propiedad del Ayuntamiento sólo podrá realizarse mediante acuerdo del Ayuntamiento, emitido en términos de la legislación aplicable.
+Se impondrá una pena de nueve meses a nueve años de prisión y multa de seiscientos a veinte mil días de salario mínimo, y destitución e inhabilitación de cinco a diez años para desempeñar otro empleo, cargo o comisión públicos, al servidor público que:
 
-###### Artículo 467.
+I. Autorice, efectúe, conceda, permita, ordene o expida licencias, permisos o autorizaciones para el funcionamiento de industrias o cualquier otra actividad reglamentada en condiciones que, a sabiendas al momento de la conducta, impliquen o generen afectación al medio ambiente, a los recursos naturales, a la salud de las personas o a los ecosistemas en general, en términos que no resulten compensables con las condicionantes que establezca para la aprobación de la licencia, permiso o autorización;
 
-En los casos de enajenación a título gratuito, el acuerdo del Ayuntamiento fijará el plazo máximo dentro del cual deberá iniciarse la utilización del bien para el objeto solicitado; en su defecto se entenderá que el plazo será de un año.
+II. Autorice, efectúe, conceda, permita, consienta u ordene la realización de obras o actividades que contravengan las disposiciones legales aplicables, o no cumplan con las mismas, que ocasionen o puedan ocasionar daños al medio ambiente, a los recursos naturales o a los ecosistemas; o
 
-Si el beneficiario no hiciere uso del bien dentro del plazo previsto o destinare el inmueble a un uso distinto al autorizado, tanto el inmueble como sus mejoras, si las hubiere, se revertirán a favor del Municipio, sin derecho a repetir.
+III. Con motivo de auditorías, visitas de verificación o inspección, previstas en la legislación aplicable al caso concreto, hubiere permitido irregularidades o transgresiones a los ordenamientos jurídicos aplicables en materia de desarrollo sustentable vigente en el Estado.
 
-Cuando la beneficiaria sea una persona física o moral de carácter privado y deje de cumplir con su objeto o se extinga, también procederá la reversión del bien y sus mejoras, si las hubiere, a favor del Municipio, sin derecho a repetir.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-###### Artículo 468.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-En la enajenación de bienes el precio de venta no será menor al valor catastral actualizado, preferentemente será de contado y podrá realizarse a censo redimible en los supuestos previstos en el artículo siguiente.
+### CAPITULO II. DELITO DE INCENDIOS
 
-###### Artículo 469.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Toda enajenación onerosa de inmuebles que realice el Municipio deberá ser de contado, a excepción de las enajenaciones que se efectúen en beneficio de organismos, asociaciones de beneficencia o personas de escasos recursos y que tengan como finalidad resolver necesidades de vivienda de interés social, las que se verifiquen para la realización de actividades sociales y culturales, o las que se realicen teniendo por objeto el desarrollo de programas de interés social o popular, la incorporación de asentamientos irregulares al desarrollo urbano, el mejoramiento y la conservación de bienes públicos o con valor histórico o arqueológico, así como la integración económica de una zona o región.
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 462.
+
+Comete el delito a que se refiere este Capítulo, quien de manera dolosa, ocasione o provoque, uno o más incendios que dañen:
+
+I. Un bosque, parque o área verde ubicados en zonas urbanas, o en la vegetación silvestre o agrícola, que sin autorización del ámbito competente o contraviniéndola, ocasionen o puedan ocasionar daños al medio ambiente, a los recursos naturales, a la flora, a la fauna o a los ecosistemas que no sean competencia federal;
+
+II. Una barranca, cañada o cañón;
+
+III. Un área natural protegida estatal o municipal, o un área de valor ambiental de competencia del Estado, de conformidad con las disposiciones jurídicas aplicables; o
+
+IV. Al suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del territorio del Estado aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 463.
+
+Al responsable de la comisión del delito de incendios, previsto en la fracción I del artículo anterior, se le impondrá una sanción de un año a siete años de prisión y multa de seiscientos a diez mil días de salario mínimo.
+
+Al responsable de la comisión del delito de incendios previstos en las fracciones II a la IV del artículo anterior, se le impondrá una sanción de seis meses a cuatro años de prisión y multa de trescientos a cinco mil días de salario mínimo.
+
+Cuando se afecte un área igual o mayor a cinco hectáreas, o recursos forestales maderables en una cantidad igual o mayor a mil metros cúbicos rollo total árbol, las sanciones se elevarán hasta en una mitad más de la prevista para cada supuesto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
+
+### CAPITULO III. CONTAMINACION DE AGUAS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 464.
+
+Comete el delito de contaminación de aguas, quien sin la autorización correspondiente o sin aplicar las medidas de prevención o seguridad:
+
+I. Abandone, deseche o descargue residuos, sustancias o materiales que afecten negativamente la calidad del agua sujeta a la administración del organismo estatal del agua, los Municipios o los organismos operadores, o su tratamiento; o causen daño a los bienes y equipo utilizado por dichas entidades para el tratamiento de aguas;
+
+II. Descargue, deposite, infiltre, autorice u ordene la descarga de aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en los depósitos o corrientes de agua de competencia estatal o municipal, que ocasionen o puedan ocasionar daños a la salud de las personas, al medio ambiente, a los recursos naturales, a la flora, a la fauna o a los ecosistemas;
+
+III. Descargue o deposite en cualquier estado residuos, sustancias o materiales, que causen un daño ambiental en zonas de recarga de mantos acuíferos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 465.
+
+Al responsable de la comisión del delito de contaminación de aguas previsto en las fracciones I y II del artículo anterior, se le impondrá una sanción de uno a nueve años de prisión y multa de seiscientos a diez mil días de salario mínimo.
+
+Al responsable de la comisión del delito de contaminación de aguas previsto en la fracción III del artículo anterior, se le impondrá una sanción de seis meses a cinco años de prisión y multa de trescientos a cinco mil días de salario mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE JUNIO DE 2008)</small>
+
+### CAPITULO IV. SUBSTRACCION DEL SUELO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 466.
+
+Se le impondrá una sanción de seis meses a cinco años de prisión y multa de quinientos a dos mil días de salario mínimo vigente en el Estado, a quien sin haber obtenido el permiso o autorización correspondiente, extraiga suelo o cubierta vegetal por un volumen igual o mayor a cinco metros cúbicos, de:
+
+I. Un área natural protegida estatal o municipal, o área de valor ambiental de competencia del Estado, de conformidad con las disposiciones jurídicas aplicables;
+
+II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del territorio del Estado aplicables; o
+
+III. Un área verde en suelo urbano.
+
+Se aplicará la misma sanción prevista en este artículo a quien independientemente de haber obtenido el permiso o autorización respectiva, no observe los lineamientos, condicionantes o métodos de extracción o explotación previstos para tal efecto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
+
+### CAPITULO V. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 467.
+
+El Ministerio Público tan pronto tenga conocimiento de la comisión de algún delito previsto en el presente Titulo, inmediatamente dará vista a la autoridad ambiental estatal, a fin de determinar el daño ambiental causado y las acciones de su competencia, para evitar la propagación de daños y la mitigación del mismo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 468.
+
+La autoridad ambiental proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le solicite el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por delitos en contra del medio ambiente y los recursos naturales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+
+###### ARTICULO 469.
+
+Cuando una o más de las conductas descritas en el presente Capítulo resulte cometida a nombre, bajo el amparo o en beneficio de una persona, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por cinco años, independientemente de su responsabilidad penal en los hechos ejecutados por las personas físicas en la comisión del delito.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 #### SECCIÓN SEGUNDA. DE LA VENTA DE INMUEBLES DE INTERES SOCIAL
 
-###### Artículo 470.
+###### ARTICULO 470.
 
-Mientras no esté totalmente pagado el precio, los compradores de inmuebles municipales no podrán hipotecarlos ni constituir sobre ellos derechos reales a favor de terceros, ni estarán facultados para derribar o modificar las construcciones sin acuerdo expreso del Ayuntamiento, mismo que se expedirá considerando el destino final de los bienes y la necesidad de su afectación, salvo excepción prevista en este Código.
+El juez, de oficio o a petición de parte, podrá reducir las penas correspondientes a los delitos previstos en el presente Título, hasta en tres cuartas partes, cuando el acusado, en forma voluntaria y sin que medie resolución administrativa que le imponga alguna obligación, haya restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizar la conducta delictiva o, cuando ello no sea posible, mediante la ejecución de acciones y obras que compensen los daños ambientales que se hubieren generado, con excepción de los delitos cometidos por servidores públicos.
 
-En los contratos respectivos deberá estipularse que la falta de pago de tres mensualidades por concepto de los abonos a cuenta del precio y en su caso de los intereses en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, dará origen a la rescisión del contrato.
-
-Lo dispuesto en este artículo y en el anterior, no será aplicable en el caso en el que los bienes inmuebles se afecten en fideicomiso público, en cuyo evento, será el Comité Técnico del mismo el que apruebe las enajenaciones considerando los fines del propio fideicomiso y sus reglas de comercialización.
+ARTICULOS TRANSITORIOS:
 
 ###### Artículo 471.
 
@@ -3006,23 +3102,63 @@ IV. En ningún caso podrán enajenarse a particulares, áreas de equipamiento ur
 
 ###### ARTICULO 218.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete el delito de peculado:
+
+I.- El servidor público que indebidamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo relativo al uso indebido de atribuciones y facultades con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o realice dicha conducta con el fin de denigrar a cualquier persona;
+
+II.- Todo servidor público que para usos propios o ajenos distraiga de su fin destinado dinero, valores, fincas o cualquier otra cosa perteneciente al Estado o al Municipio, a un organismo descentralizado o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por cualquier otra causa; y
+
+III.- El que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos público o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de uso indebido de atribuciones y facultades;
+
+IV.- Cualquier persona que sin tener el carácter de servidor público y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
 
 ###### ARTICULO 219.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al responsable del delito de peculado se le impondrán las siguientes sanciones:
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
+
+I.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda de tres mil días de salario o no sea valuable, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos, y
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
+
+II.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente excedan de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 ###### ARTICULO 220.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete el delito de concusión el servidor público que con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento exija, por sí o por medio de otro, dinero, valores, servicios o cualquiera otra cosa que tenga conocimiento no ser debida o en mayor cantidad a la señalada por la ley.
 
 ###### ARTICULO 221.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al responsable del delito de concusión se le impondrán las siguientes sanciones:
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
+
+I.- Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de tres mil días de salario o no sea valuable, se le impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos, y
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
+
+II.- Cuando la cantidad o el valor de lo exigido indebidamente exceda de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días salario de y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 ###### ARTICULO 222.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete el delito de uso indebido de atribuciones y facultades:
+
+I.- El servidor público que dolosa e indebidamente:
+
+a).- Otorgue concesiones de prestación de servicio público o de explotación, aprovechamientos y uso de bienes de dominio del Gobierno Estatal o Municipal;
+
+b).- Otorgue permisos, licencias o autorizaciones de contenido económico;
+
+c).- Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos, o prestados en la administración pública del Estado y los Municipios;
+
+d).- Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios o colocaciones de fondos y valores con recursos económicos públicos;
+
+II.- Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hace referencia la fracción anterior o sea parte en las mismas, y
+
+III.- El servidor público que teniendo a su cargo fondos públicos, les dé a sabiendas, una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
+
+### CAPITULO I. PELIGRO DE CONTAGIO
 
 ###### Artículo 478.
 
@@ -3086,1047 +3222,1527 @@ El Ayuntamiento, para recuperar los inmuebles como consecuencia de la rescisión
 
 ###### ARTICULO 223.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al responsable del delito de uso indebido de atribuciones y facultades, se le impondrán las siguientes sanciones:
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
+
+I.- Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo no exceda del equivalente de tres mil días de salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos; y
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
+
+II.- Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo, exceda del equivalente de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 ###### ARTICULO 224.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete el delito de intimidación:
+
+I.- El servidor público que por sí o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la legislación penal o por la Ley de Responsabilidades de los Servidores Públicos; y
+
+II.- El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
 
 ###### ARTICULO 225.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al responsable del delito de intimidación se le impondrá una sanción de dos a nueve años de prisión, multa de doscientos a cuatrocientos días salario, destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión.
 
 ###### ARTICULO 226.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete el delito de ejercicio abusivo de funciones:
+
+I.- El servidor público que en el desempeño de su empleo, cargo o comisión, indebidamente otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones, efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, o a cualquier tercero con el que tenga vínculos afectivos, económicos, o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte;
+
+II.- El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga por sí o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o alguna de las personas mencionadas en la primera fracción;
+
+III.- El servidor público que por sí o por interpósita persona, sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
 
 ###### ARTICULO 227.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al responsable del delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
+
+I.- Cuando la cuantía a que asciendan las operaciones a que hace referencia este Artículo no exceda de tres mil días de salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos;
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+II.- Cuando la cuantía de las operaciones exceda de tres mil días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos;
+
+III.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IV.- Cuando por cualquier circunstancia no sea posible determinar el monto de las operaciones que constituyan las conductas señaladas en el artículo que antecede, la sanción a imponer será de seis meses a tres años de prisión y multa de cuarenta a ochenta días salario, destitución del empleo, cargo o comisión, e inhabilitación de uno a tres años para desempeñar otro de carácter público.
 
 ###### ARTICULO 228.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete el delito de tráfico de influencia:
+
+I.- El servidor público que por sí o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión;
+
+II.- Cualquier persona que promueva la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior; y
+
+III.- El servidor público que por sí o por interpósita persona, indebidamente solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que hace referencia la fracción I del artículo 226 de este Código.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
+
+### CAPITULO II. DE LA COMERCIALIZACION DEL AGUA
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 229.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+Al responsable del delito de tráfico de influencia se le impondrá sanción de dos a ocho años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos.
 
 ###### ARTICULO 230.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Se sancionará a quien, con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+
+Incurre en responsabilidad penal, asimismo, quien haga figurar como propios bienes que el servidor público adquiera o haya adquirido en contravención de lo dispuesto en la misma Ley.
 
 ###### ARTICULO 231.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al responsable del delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
+
+I.- Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con la Ley de Responsabilidades de los Servidores Públicos;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
+
+II.- Cuando el monto a que ascienda el enriquecimiento ilícito no exceda de tres mil días salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
+
+III.- Cuando el monto a que ascienda el enriquecimiento ilícito exceda de tres mil días salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días de salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 ###### ARTICULO 232.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete delito en el desempeño de funciones judiciales o administrativas el servidor público, en los siguientes casos:
+
+I.- Conocer de negocios para los cuales tenga impedimento legal o abstenerse de conocer de los que le corresponda, sin tener impedimento legal para ello;
+
+II.- Desempeñar algún otro empleo oficial;
+
+III.- Litigar por sí o por interpósita persona, cuando la ley les prohiba el ejercicio de su profesión;
+
+IV.- Dirigir o aconsejar a las personas que ante ellos litiguen;
+
+V.- No cumplir una disposición que legalmente se les comunique por su superior competente, sin causa fundada para ello;
+
+VI.- Dictar, a sabiendas, un auto o una sentencia que sean ilícitas por violar algún precepto terminante de la Ley, o ser contrarias a las actuaciones seguidas en juicio o al veredicto de un jurado; o abstenerse dolosamente de dictar una resolución lícita, dentro de los términos dispuestos en la ley;
+
+VII.- Dañar o beneficiar a alguien indebidamente mediante una conducta dolosa;
+
+VIII.- Retardar o entorpecer maliciosamente la administración de justicia;
+
+IX.- Tratar en el ejercicio de su cargo con ofensas o deshonestidad a las personas que asistan a su tribunal u oficina;
+
+X.- Abstenerse injustificadamente de hacer la consignación que corresponda con arreglo a la ley, de una persona que se encuentra detenida a su disposición como presunta responsable de algún delito;
+
+XI.- Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o sin que proceda denuncia, acusación o querella;
+
+XII.- No otorgar, cuando se solicite la libertad caucional si procede legalmente;
+
+XIII.- Obligar al indiciado, procesado o acusado a declarar en su contra, usando la incomunicación o cualquier otro medio ilícito;
+
+XIV.- No tomar al indiciado su declaración preparatoria dentro de las cuarenta y ocho horas siguientes a su consignación, sin causa justificada, o abstenerse en dicha diligencia de hacerle saber y otorgarle, en su caso, las garantías consagradas por el Artículo 20 de la Constitución General de la República;
+
+XV.- Prolongar la prisión preventiva omitiendo pronunciar la sentencia dentro de los términos fijados por la ley;
+
+XVI.- Demorar injustificadamente el cumplimiento de las providencias judiciales, en las que se ordene poner en libertad a un detenido;
+
+XVII.- No resolver la situación jurídica de un detenido, dentro de las setenta y dos horas siguientes a la puesta en disposición de éste al juez;
+
+XVIII.- Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
+
+XIX.- Abrir un proceso penal contra un servidor público con fuero sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley;
+
+XX.- Realizar la aprehensión sin poner al detenido a disposición del juez, dentro de las veinticuatro horas siguientes a ésta, según lo dispuesto por el artículo 107, fracción XVIII, párrafo tercero, de la Constitución, salvo lo dispuesto en el párrafo cuarto de la propia fracción ya aludida;
+
+XXI.- Imponer gabelas o contribuciones en cualesquiera lugares de detención e internamiento;
+
+XXII.- Cobrar los encargados o empleados de lugares de reclusión o internamiento cualquier cantidad a los internos, a sus familiares o a terceros, a cambio de proporcionales bienes o servicios que gratuitamente brinde el Estado para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
+
+XXIII.- Rematar, en favor de ellos mismos, por sí o por interpósita persona, los bienes objeto de una subasta en cuyo juicio estuviesen conociendo;
+
+XXIV.- Admitir o nombrar un depositario o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes;
+
+XXV.- Dar a conocer resoluciones que deban mantenerse en el secreto judicial por disposición de la ley o por determinación judicial;
+
+XXVI.- Nombrar síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligado a él por negocios de interés común;
+
+XXVII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
+
+XXVIII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
+
+XXIX.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
+
+XXX.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
+
+XXXI.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
+
+XXXII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
+
+XXXIII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
+
+XXXIV.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
+
+XXXV.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
+
+XXXVI.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
+
+XXXVII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
+
+XXXVIII.- (DEROGADA, P.O. 10 DE JULIO DE 2003)
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+XXXIX.- Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una averiguación previa o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean confidenciales, y;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+XL.- Obligar a declarar a las personas que se mencionan en el artículo 249 Bis, del Código de Procedimientos Penales para el Estado de Tamaulipas, acerca de la información obtenida con motivo del desempeño de su actividad.
 
 ###### ARTICULO 233.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al responsable en la comisión de los delitos previstos en el artículo anterior, se le sancionará:
+
+(REFORMADA, P.O. 10 DE JULIO DE 2003) (F. DE E., P.O. 15 DE JULIO 2003)
+
+I.- Si infringió las fracciones I, II, III, VII, VIII, XXI, XXV o XXVI, se le impondrá una sanción de uno a seis años de prisión y multa de cien a doscientos días de salario; y
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
+
+II.- Si infringió las fracciones IV, V, VI, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII, XXIV, XXXIX y XL, se le impondrá una sanción de dos a ocho años de prisión y multa de cien a doscientos días salario.
+
+### CAPITULO Ill. DEL NARCOMENUDEO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 204 BIS.- Para los efectos de este capítulo se entenderá por:
+
+I. Comercio: La venta, compra, adquisición o enajenación de algún narcótico;
+
+II. Farmacodependencia: Es el conjunto de fenómenos de comportamiento, cognoscitivos y fisiológicos, que se desarrollan luego del consumo repetido de estupefacientes o psicotrópicos de los previstos en los artículos 237 y 245, fracciones I a III, de la Ley General de Salud;
+
+III. Farmacodependiente: Toda persona que presenta algún signo o síntoma de dependencia a estupefacientes o psicotrópicos;
+
+IV. Consumidor: Toda persona que consume o utilice estupefacientes o psicotrópicos y que no presente signos ni síntomas de dependencia;
+
+V. Narcóticos: Los estupefacientes, psicotrópicos y demás sustancias o vegetales que determinen la Ley General de Salud, los convenios y tratados internacionales de observancia obligatoria en México y los que señalen las demás disposiciones legales aplicables en la materia;
+
+VI. Posesión: La tenencia material de narcóticos o cuando éstos están dentro del radio de acción y disponibilidad de la persona;
+
+VII. Suministro: La transmisión material de forma directa o indirecta, por cualquier concepto, de la tenencia de narcóticos, y
+
+Vlll. Tabla: La relación de narcóticos y la orientación de dosis máximas de consumo personal e inmediato prevista en el artículo 479 de la Ley General de Salud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 204 TER.- Comete el delito de narcomenudeo, quien sin autorización comercie o suministre, aun gratuitamente, narcóticos previstos en la tabla, en cantidad inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla.
+
+Por la comisión de este delito se impondrá prisión de cuatro a ocho años y sanción pecuniaria de doscientos a cuatrocientos días multa.
+
+Cuando la víctima fuere persona menor de edad o cuando no tenga capacidad para comprender la relevancia de la conducta o para resistir al agente; o que aquélla fuese utilizada para la comisión de los mismos se aplicará una pena de siete a quince años de prisión y de doscientos a cuatrocientos días multa.
+
+Las penas que en su caso resulten aplicables por este delito serán aumentadas en una mitad, cuando:
+
+l. Se cometan por servidores públicos encargados de prevenir, denunciar, investigar, juzgar o ejecutar las sanciones por la comisión de conductas prohibidas en el presente capítulo. Además, en este caso, se impondrá a dichos servidores públicos destitución e inhabilitación hasta por un tiempo igual al de la pena de prisión impuesta;
+
+II. Se cometan en centros educativos, asistenciales, policiales o de reclusión, o dentro del espacio comprendido en un radio que diste a menos de trescientos metros de los límites de la colindancia del mismo con quienes a ellos acudan, o
+
+III. La conducta sea realizada por profesionistas, técnicos, auxiliares o personal relacionado con las disciplinas de la salud en cualesquiera de sus ramas y se valgan de esta situación para cometerlos. En este caso se impondrá, además, suspensión e inhabilitación de derechos o funciones para el ejercicio profesional u oficio hasta por cinco años. En caso de reincidencia podrá imponerse, además, suspensión definitiva para el ejercicio profesional, a juicio de la autoridad judicial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 204 QUATER.- Comete el delito de narcomenudeo en su modalidad de posesión con fines de comercio o suministro, quien sin la autorización correspondiente, posea algún narcótico de los señalados en la tabla, en cantidad inferior a la que resulte de multiplicar por mil las cantidades previstas en dicha tabla, siempre y cuando esa posesión sea con la finalidad de comerciarlos o suministrarlos, aún gratuitamente.
+
+Por la comisión de este delito se impondrá prisión de tres a seis años y sanción pecuniaria de ochenta a trescientos días de salario mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 204 QUINTUS.- Comete el delito de narcomenudeo en su modalidad de posesión, quien sin la autorización correspondiente, posea alguno de los narcóticos señalados en la tabla en cantidad inferior a la que resulte de multiplicar por mil las previstas en dicha tabla, cuando por las circunstancias del hecho, tal posesión no pueda considerarse destinada a comerciarlos o suministrarlos, aún gratuitamente.
+
+Por la comisión de este delito se impondrá pena de diez meses a tres años de prisión y sanción pecuniaria de hasta ochenta días de salario mínimo.
+
+No se procederá penalmente por este delito en contra de quien posea medicamentos que contengan alguno de los narcóticos previstos en la tabla, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a la custodia o asistencia de quien los tiene en su poder.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 204 SEXTUS.- El Ministerio Público no ejercerá acción penal por el delito previsto en el artículo anterior, en contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla, en igual o inferior cantidad a la prevista en la misma, para su estricto consumo personal y fuera de los lugares señalados en la fracción II del articulo 203 Ter de éste Código.
+
+La autoridad ministerial informará al consumidor la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia.
+
+El Ministerio Público hará reporte del no ejercicio de la acción penal a la autoridad sanitaria del lugar donde se adopte la resolución o la más cercana, con el propósito de que ésta promueva la correspondiente orientación médica o de prevención. La información recibida por la autoridad sanitaria no deberá hacerse pública pero podrá usarse, sin señalar identidades, para fines estadísticos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 234.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+En todos los delitos previstos en este capítulo, además de la sanción de prisión correspondiente, el agente será privado de su cargo e inhabilitado para el desempeño de un nuevo, por el lapso de uno a diez años, debiendo en todo caso establecer en la sentencia que la inhabilitación comenzará a computarse una vez compurgada en cualquiera de sus formas la pena corporal impuesta, y cubierta la multa y reparación del daño cometido.
 
 ###### ARTICULO 235.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Los profesionistas, artistas o técnicos y sus auxiliares, serán responsables de los delitos que cometan en el ejercicio de su profesión, en los términos siguientes:
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+I.- Además de las sanciones que resulten por los delitos consumados, según sean dolosos o culposos, se les aplicará suspensión de un mes a dos años en el ejercicio de la profesión o privación para el caso de reincidencia; y
+
+II.- Estarán obligados a la reparación del daño por sus actos propios y por los de sus auxiliares, cuando éstos obren de acuerdo con las instrucciones de aquéllos.
 
 ###### ARTICULO 236.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CODIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON, P.O. 5 DE JULIO DE 1991)
+Lo dispuesto en el artículo anterior se aplicará a los médicos, que:
+
+I.- Habiendo otorgado responsiva para hacerse cargo de un lesionado o enfermo, lo abandone en su tratamiento sin causa justificada;
+
+II.- Habiéndose hecho cargo de la atención de un lesionado y éste abandone el tratamiento, deje de comunicarlo inmediatamente a la autoridad correspondiente.
 
 ###### ARTICULO 237.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+A quienes ejerzan la medicina y sin causa justificada se nieguen a prestar sus servicios a un enfermo en caso de notoria urgencia, serán sancionados con multa de uno a cinco días salario. Si se produjere daño, por falta de intervención, se les impondrán, además, la sanción de un mes a cinco años de prisión e inhabilitación para el ejercicio profesional, por el término de tres meses a dos años.
 
 ###### ARTICULO 238.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Se impondrá prisión de tres meses a dos años, multa hasta de cien días salario y suspensión de tres meses a un año, a los directores, encargados o administradores de cualquier centro de salud, cuando incurran en alguno de los casos siguientes:
+
+I.- Impedir la salida de un paciente, cuando éste o sus familiares lo soliciten, aduciendo adeudo de cualquier índole;
+
+II.- Retener a un recién nacido por los motivos a que se refiere la parte final de la fracción anterior;
+
+III.- Retardar o negar por cualquier motivo la entrega de un cadáver, excepto cuando se requiera orden de autoridad competente.
+
+La misma sanción se impondrá a los encargados o administradores de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver.
 
 ###### ARTICULO 239.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
-
-> <small>(DEROGADO CON EL SUBTÍTULO Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+A los responsables, encargados, empleados o dependientes de una botica o farmacia, que al surtir una receta substituyan la medicina específicamente recetada por otra que cause daño o sea evidentemente inapropiada al padecimiento para el que se prescribió, se les impondrá una sanción de un mes a tres años de prisión y multa de uno a quince días salario, independientemente del daño que se cause, en cuyo caso se aplicarán las reglas del concurso.
 
 ###### ARTICULO 240.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Se impondrá una sanción de dos a seis años de prisión y multa de cuarenta a ochenta días salario, a los que sustraigan órganos o partes del cuerpo humano sin la autorización de quien corresponda darla y sin los requisitos legales.
+
+### CAPITULO UNICO. REVELACION DE SECRETOS
 
 ###### ARTICULO 241.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Se impondrá una sanción de cuatro meses a un año de prisión y multa de seis a treinta días salario a los que aboguen, representen, patrocinen o litiguen en los casos siguientes:
+
+I.- Alegar a sabiendas hechos falsos, o leyes inexistentes o derogadas; y
+
+II.- Pedir término para probar lo que notoriamente no puede probarse o no ha de aprovechar a su parte; promover artículos o incidentes que motiven la suspensión del juicio o recursos manifiestamente improcedentes o de cualquier otra manera, procurar dilaciones, que sean notoriamente ilegales.
+
+Si se tratare de profesionales del derecho, se impondrá además de las sanciones anteriores, suspensión para el ejercicio profesional de tres meses a dos años.
 
 ###### ARTICULO 242.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Se impondrá una sanción de tres meses a tres años de prisión y multa de cinco a cincuenta días salario al que incurra en los casos siguientes:
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+I.- Patrocinar o ayudar a diversos contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos, o cuando se acepte el patrocinio de alguno y se admita después el de la parte contraria;
+
+II.- Abandonar la defensa de un cliente o negocio sin motivo justificado y causando daño; y
+
+III.- Al defensor de un acusado, sea particular o de oficio, que sólo se concrete a aceptar el cargo y a solicitar la libertad caucional, sin dirigirlo en su defensa y sin promover más pruebas.
 
 ###### ARTICULO 243.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Los defensores de oficio que sin motivo justificado no promuevan las pruebas conducentes en favor de sus defensos, serán además destituidos de su empleo; para este efecto los jueces comunicarán al superior del defensor las faltas respectivas.
 
 ###### ARTICULO 244.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete los delitos a que se refiere este capítulo:
+
+I.- El que falsifique por cualquier medio títulos emitidos por la administración pública del Estado, o de cualquier municipio, o los cupones de intereses o dividendos de los documentos mencionados; y
+
+II.- El que ponga en circulación los documentos falsos a que se refiere la fracción anterior.
 
 ###### ARTICULO 245.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al que cometa alguno de los delitos a que se refiere el artículo anterior se le impondrá una sanción de cuatro a diez años de prisión y multa de sesenta a ciento veinte días salario.
+
+### CAPITULO II. FALSIFICACION Y USO DE SELLOS, LLAVES, PUNZONES, MATRICES, MARCAS, SEÑALES, PLANCHAS, CONTRASEÑAS Y FIERROS
 
 ###### ARTICULO 246.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Comete el delito a que se refiere este capítulo, el que:
+
+I.- Falsifique los sellos o marcas oficiales;
+
+II.- Falsifique el sello, marca o contraseña que alguna autoridad usare para identificar cualquier objeto o para asegurar el pago de algún impuesto, derecho o aprovechamiento; y
+
+III.- Falsifique los punzones, matrices, planchas o cualquier otro objeto que sirva para fabricación de títulos o cupones a que se refiere el artículo 244.
 
 ###### ARTICULO 247.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Al responsable del delito a que se refiere el artículo anterior se le impondrá una sanción de cuatro a nueve años de prisión y multa de sesenta a ciento diez días salario.
 
-## TÍTULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO
+## TITULO OCTAVO. DELITOS COMETIDOS POR SERVIDORES PUBLICOS
+
+### CAPITULO II. ACCESO ILICITO A SISTEMAS Y EQUIPOS DE INFORMATICA
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 207 BIS.- Al que sin autorización modifique, destruya, o provoque pérdida de información contenida en sistemas o equipo de informática protegidos por algún mecanismo de seguridad o que no tenga derecho de acceso a el, se le impondrá una sanción de uno a cuatro años de prisión y multa de cuarenta a ochenta días salario.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 207 TER.- Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistema o equipo de informática de alguna dependencia pública, protegida por algún mecanismo se le impondrá una sanción de dos a seis años de prisión y multa de doscientos a seiscientos días salario.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 207 QUATER.- Al que sin autorización conozca o copié información contenida en sistemas o equipos de informática de alguna dependencia pública, protegida por algún mecanismo se le impondrá una sanción de dos a cinco años de prisión y multa de cien a trescientos días salario.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 207 QUINQUIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente modifique, destruye o provoque pérdida de información que contengan se impondrá una sanción de tres a ocho años de prisión y multa de trescientos a ochocientos días salario.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 207 SEXIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente copie, transmita o imprima información que contengan se le impondrá de uno a cuatro años de prisión y multa de cien a trescientos días salario.
+
+Los delitos previstos en este título serán sancionados por querella de la parte ofendida.
 
 ###### ARTICULO 248.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Se impondrá sanción de tres meses a tres años de prisión y multa de cinco a cincuenta días salario:
+
+I.- Al que falsifique llaves, sellos, marcas, estampillas o contraseñas de un particular o de un establecimiento público o privado;
+
+II.- Al que enajene o adquiera sellos, punzones o marcas a sabiendas que son falsos;
+
+III.- Al que procurándose los verdaderos sellos, punzones o marcas, haga uso indebido de ellos; y
+
+IV.- Al que a sabiendas hiciere uso de alguno de los objetos falsos de que habla el artículo 246 y la fracción I de este numeral.
 
 ###### ARTICULO 249.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+Se impondrá sanción de uno a cinco años de prisión y multa de treinta a setenta días salario, al que en cualquier forma altere las señales o falsifique los instrumentos para imponer las señales, marcas de sangre o de fuego, o de fierro de herrar, que se utilicen para distinguir el ganado, sin autorización de la persona que las tenga legalmente registradas ante la autoridad competente.
 
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO III. FALSIFICACION Y USO DE DOCUMENTOS PUBLICOS O PRIVADOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 250.
 
-(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)
+El delito de falsificación de documentos públicos o privados se comete por alguno de los medios siguientes:
 
-T R A N S I T O R I O S :
+I.- Poniendo una firma o rúbrica falsa, aunque sea imaginaria, o alterando una verdadera;
 
-###### Artículo 251.
+II.- Aprovechando indebidamente una firma o rúbrica en blanco ajena, extendiendo cualquier documento que pueda comprometer los bienes, la honra, la persona o la reputación del titular de la firma o rúbrica o causare un perjuicio a la sociedad, al Estado o a un tercero;
 
-Para los efectos de este capítulo se entiende por beneficio o mejora general o particular que tengan los bienes inmuebles, el costo neto de la realización de una obra pública, conforme al artículo 254 de este Código.
+III.- Alterando el contenido de un documento verdadero después de concluido y firmado, si éste cambiare su sentido sobre alguna circunstancia o punto substancial, ya sea añadiendo, enmendando o borrando, en todo o en parte, una o más palabras o cláusulas o ya variando la puntuación;
 
-El beneficio o mejora particular es el resultado de aplicar los porcentajes siguientes, a los costos netos de las obras realizadas:
+IV.- Variando la fecha o cualquiera otra circunstancia relativa al tiempo de la ejecución del acto que se exprese en el documento;
 
-Tratándose de las obras señaladas en el artículo 249 sobre el costo neto:
+V.- Atribuyéndose el que extiende el documento, o atribuyendo a la persona en cuyo nombre lo hace, un nombre o una investidura, calidad o circunstancia que no tenga y que sea necesaria para la validez del acto;
 
-I. Las comprendidas en la fracción I, cincuenta por ciento;
+VI.- Redactando un documento en términos que cambie la convención celebrada, en otra diversa en que varíe la declaración o disposición del otorgante, las obligaciones que se propuso contraer o los derechos que debió adquirir;
 
-II. Las comprendidas en la fracción II, ochenta y cinco por ciento; y
+VII.- Añadiendo o alterando cláusulas o declaraciones, o asentando como ciertos hechos falsos, o como confesados los que no lo están, si el documento en que se asienta, se extendiere para hacerlos constar y como prueba de ellos;
 
-III. Las comprendidas en las fracciones III a VII:
+VIII.- Expidiendo un testimonio supuesto de documentos que no existen; dándolo de otro existente que carece de los requisitos legales; suponiendo o expresando falsamente que los tiene; o de otro que no carece de ellos, pero agregando o suprimiendo en la copia algo que importe una variación substancial;
 
-a) Si las obras son realizadas en avenidas o calles de circulación intensa de vehículos o personas, cincuenta por ciento;
+IX.- Alterando un perito traductor o paleógrafo el contenido de un documento, al traducirlo o descifrarlo; y
 
-b) Si las obras son realizadas en avenidas o calles de zonas residenciales de menor circulación de vehículos o personas setenta y cinco por ciento;
+X.- Reproduciendo por cualquier medio mecánico, imágenes o textos que no correspondan exactamente a los originales.
 
-c) Si las obras son realizadas en calles que sean utilizadas preponderantemente por quienes habiten los predios ochenta y cinco por ciento;
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### Artículo 252.
+###### ARTICULO 251.
 
-Para la determinación de las contribuciones por mejoras que se hará a través del sistema de derrama del beneficio particular, se atenderá a las siguientes reglas.
+Al responsable del delito de falsificación de documentos se castigará en la forma siguiente:
 
-I. Se obtendrá una cuota unitaria dividiendo el beneficio o mejora particular entre la suma de los metros cuadrados de superficie de los bienes inmuebles beneficiados;
+I.- Si se trata de un documento público la sanción a imponer será de cuatro a ocho años de prisión y multa de doscientos a trescientos días salario;
 
-II. Tratándose de los casos comprendidos en el artículo 249, excepto las fracciones I y V, serán bienes inmuebles beneficiados:
+II.- Si se trata de un documento privado la sanción a imponer será de seis meses a cinco años de prisión y multas de cien a doscientos días salario; y
 
-a) En materia de redes de distribución de agua, drenaje y alcantarillado, los de ambas aceras si se trata de una o más tuberías instaladas en la calle, pero que presten servicio a las dos;
+III.- Si el falsario es un servidor público, la sanción que se le imponga se aumentará hasta una mitad más de la misma, así como también, será inhabilitado de su cargo por un tiempo igual al que dure la sentencia impuesta.
 
-b) Si la tubería queda instalada en uno de los lados de la calle y sólo presta servicio a los de la acera más cercana, son beneficiados los de ésta;
+###### ARTICULO 252.
 
-c) En los casos de banquetas, los adyacentes a las banquetas construidas en cada acera;
+También incurrirá en las sanciones señaladas en el artículo anterior:
 
-d) En los casos de alumbrado público los de ambas aceras, independientemente de donde se coloquen los postes y lámparas;
+I.- El servidor público que, por engaño o sorpresa, hiciere que alguien firme un documento público, que no habría firmado sabiendo su contenido;
 
-e) En los casos de pavimentación de calles y avenidas:
+II.- El notario o cualquier otro servidor público que en ejercicio de sus funciones, expida una certificación de hechos que no sean ciertos, o dé fe de lo que no consta en autos, registros, protocolos o documentos;
 
-1.- Los de ambas aceras cuando la pavimentación cubra la totalidad del arroyo;
+III.- El que, para eximirse de un servicio legalmente debido, o de una obligación impuesta por la ley, suponga una certificación de enfermedad o impedimento que no tiene, como expedida por un médico, sea que exista realmente la persona a quien la atribuya, ya sea imaginaria o ya tome el nombre de una persona real, atribuyéndole falsamente la calidad de médico;
 
-2.- Los de la acera más cercana a la faja pavimentada partiendo del eje del arroyo, si ésta cubre la mitad o menos de la mitad; y
+IV.- El médico que certifique falsamente que una persona tiene una enfermedad u otro impedimento bastante para dispensarla de prestar un servicio que exige la ley, o de cumplir una obligación que ésta impone o para adquirir algún derecho;
 
-3.- Los de ambas aceras cuando la obra de pavimentación cubra ambos lados del eje del arroyo en función al número de metros cuadrados de pavimento que cubra cada mitad del arroyo.
+V.- El que haga uso de una certificación expedida para otro, como si la hubiere sido en su favor o altere la que a él se le expidió;
 
-III. Tratándose de los casos comprendidos en las fracciones I y V del artículo 249 serán bienes inmuebles beneficiados los que se señalen en la relación a que se refiere la fracción VI del artículo 254.
+VI.- El que redacte mensajes a nombre de otro y sin su autorización, logrando que se trasmitan o expidan por cualquier medio de comunicación, o al encargado de tales servicios que suponga o falsifique un despacho; y
 
-###### Artículo 253.
+VII.- El que a sabiendas haga uso de un documento falso, sea público o privado.
 
-Las contribuciones por mejoras se causarán al terminarse y ponerse en servicio las obras; y se liquidarán y pagarán de acuerdo a lo siguiente:
+###### ARTICULO 253.
 
-I. Se multiplicará la cuota unitaria por el número de metros cuadrados de superficie de cada inmueble beneficiado y el resultado será el importe de la contribución. Cuando se trate de inmuebles sujetos al régimen de propiedad en condominio divididos en pisos, de departamentos, viviendas o locales, se considerará que la totalidad del predio se beneficia con la obra de construcción o reconstrucción. La parte de los derechos a cargo de cada condómino se determinará dividiendo el monto que corresponda a todo el inmueble entre la superficie de construcción del mismo, exceptuando las áreas de uso común y multiplicando ese cociente por el número de metros que corresponda, al piso, departamento, vivienda o local de que se trate;
+Para que el delito de falsificación de documentos sea sancionable como tal, se necesita que concurran los requisitos siguientes:
 
-II. Se pagarán:
+I.- Que el falsario se proponga obtener algún provecho para sí o para otro o causar perjuicio a la sociedad, al Estado o a un tercero;
 
-a) Cuando las obras se realicen con recursos provenientes de créditos, en los plazos máximos de los créditos recibidos para tal fin; y
+II.- Que resulte o pueda resultar perjuicio a la sociedad, al Estado o a un particular, ya sea en los bienes de éste, o en su persona, honra o reputación; y
 
-b) Cuando las obras se realicen con recursos propios, en un plazo máximo de tres años.
+III.- Que el falsario haga la falsificación sin consentimiento de la persona a quien resulte o pueda resultar perjuicio, salvo que éste se haya hecho extensivo a la sociedad, al Estado o a un tercero.
 
-El importe de la contribución que resulte, se dividirá entre el número de bimestres que comprenda el plazo que corresponda, cubriéndose en los meses de febrero, abril, junio, agosto, octubre y diciembre, debiéndose hacer el primer pago en el bimestre siguiente al en que se haya notificado dicho importe.
+### CAPITULO IV. FALSEDAD EN DECLARACIONES Y EN INFORMES DADOS A UNA AUTORIDAD
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO I. DISPOSICIONES GENERALES
 
 #### SECCION TERCERA. De la Intervención
 
-###### Artículo 345.
+###### ARTICULO 345.
 
-Los montos de ingresos excedentes a los previstos en la Ley de Ingresos del Municipio podrán generarse a partir de:
+Se entiende que hay traición, cuando no solamente se empleare la alevosía sino también la perfidia, violando la fe o la seguridad que expresamente había prometido a su víctima, o la tácita que éste debía prometerse de aquél por sus relaciones de parentesco, gratitud, amistad o cualquier otra que inspire confianza.
 
-I. Excedentes a las estimaciones en la recaudación de contribuciones municipales y rendimientos financieros;
+###### ARTICULO 346.
 
-II. Remanentes que tengan las entidades entre sus ingresos y gastos netos que se consignen como erogaciones recuperables dentro de sus presupuestos;
+Los casos punibles de homicidio y lesiones de que tratan los artículos 338 y 339, deberán castigarse como calificados, cuando se ejecuten con premeditación.
 
-III. Ingresos que obtenga el Municipio como consecuencia de la enajenación de bienes muebles o inmuebles no prioritarios; así como de los provenientes de la recuperación de seguros y fianzas; y
+###### ARTICULO 347.
 
-IV. Ingresos provenientes de apoyos adicionales del Gobierno Federal o Estatal.
+Además de las sanciones señaladas en los dos capítulos anteriores, el juzgador podrá:
 
-El Cabildo podrá asignar los recursos excedentes a los programas que considere convenientes. La Tesorería queda facultada para la ministración de los mismos.
+I.- Declarar a los reos sujetos a la vigilancia de la policía; y
 
-De los movimientos que se efectúen en los términos de este artículo, el Ayuntamiento informará al Congreso al rendir la Cuenta Pública Municipal de dicho ejercicio.
+II.- Prohibirles ir a determinado lugar, o municipio del Estado, o residir en él.
 
-Los recursos excedentes preferentemente se destinarán a gastos contingentes no previstos y a proyectos de inversión adicionales a realizarse durante el transcurso del ejercicio.
+### CAPITULO IV. INDUCCION Y AUXILIO AL SUICIDIO
 
-###### Artículo 346.
+###### ARTICULO 348.
 
-En la administración de los recursos humanos, el Ayuntamiento se sujetará a lo dispuesto por este Código, la Ley Estatal del Servicio Civil, las condiciones generales de trabajo y demás disposiciones aplicables.
+Al que prestare auxilio o indujere a otro para que se suicide hasta llegar a su consumación, se le impondrá una sanción de uno a cinco años de prisión; si el auxilio se prestare hasta el punto de ejecutar él mismo la muerte, la sanción será de cuatro a doce años de prisión.
 
-###### Artículo 347.
+###### ARTICULO 349.
 
-La dependencia encargada de la administración de los recursos humanos será la que designe el Cabildo.
+Se impondrán las sanciones de homicidio calificado al que induzca o auxilie al suicidio a un menor de dieciséis años o a una persona que no tuviera capacidad de comprensión. Si el suicidio no se consuma y sólo se causan lesiones, se impondrá al activo la sanción que corresponda a lesiones calificadas.
 
-###### Artículo 348.
+### CAPITULO V. PARRICIDIO
 
-Para la contratación de personal deberá mediar opinión de la Tesorería, respecto de la disponibilidad presupuestal para cubrir sus salarios y prestaciones.
+###### ARTICULO 350.
 
-###### Artículo 349.
+Comete el delito de parricidio el que dolosamente prive de la vida a cualquier ascendiente consanguíneo en línea recta, sabiendo el responsable el parentesco.
 
-Los Municipios y sus entidades, en el ejercicio del presupuesto, en el capítulo de servicios personales deberán:
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-I. Apegarse estrictamente a los niveles establecidos en los tabuladores de sueldos aprobados por el Cabildo;
+###### ARTICULO 351.
 
-II. Reducir el pago de horas extras y de compensaciones, a fin de optimizar los resultados del personal en horas normales de trabajo;
+Al que cometa el delito de parricidio se le impondrá una sanción de treinta a cincuenta años de prisión.
 
-III. Tratándose de remuneraciones adicionales por jornadas y horas extraordinarias, así como de otras prestaciones del personal que labore en las entidades con asignación presupuestal que se rijan por contratos colectivos de trabajo, los pagos se efectuarán de acuerdo con las estipulaciones contractuales que se mantengan vigentes a esa fecha;
+### CAPITULO VI. FILICIDIO
 
-IV. Vigilar permanentemente que no se realicen pagos por concepto de compensaciones de cualquier naturaleza, a título de representación en Juntas Directivas, Consejos, Comités Técnicos y otros;
+###### ARTICULO 352.
 
-V. Sujetarse a los lineamientos existentes para realizar las erogaciones necesarias para el desempeño de comisiones oficiales;
+Comete el delito de filicidio el que dolosamente prive de la vida a cualquier descendiente consanguíneo en línea recta, sabiendo el responsable el parentesco.
 
-VI. Vigilar que no se realicen pagos de servicios personales por medio de fondos revolventes; y
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VII. Vigilar que los servidores públicos, en el desempeño de su actividad, no incurran en duplicidad de funciones.
+###### ARTICULO 254.
 
-###### Artículo 350.
+Comete el delito de falsedad en declaraciones dadas ante una autoridad, el que:
 
-Las dependencias y entidades deberán analizar las estructuras orgánicas y ocupacionales, a efecto de promover su racionalización, sin detrimento de su eficiencia y productividad para cumplir con las prioridades que se establezcan el Plan Municipal de Desarrollo.
+I.- Interrogado por alguna autoridad pública en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad;
 
-###### Artículo 351.
+II.- Examinado por la autoridad judicial como testigo faltare a la verdad sobre el hecho que se trata de averiguar, ya sea afirmando, negando u ocultando la existencia de alguna circunstancia que pueda servir de prueba de la verdad o falsedad del hecho principal, o que aumente o disminuya su gravedad; y
 
-Los servidores públicos adscritos a las dependencias y entidades se abstendrán de intervenir o de participar en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier otro servidor, cuando tenga interés personal, familiar o de negocios en el caso y pueda derivar alguna ventaja o beneficio para ellos.
+III.- Con cualquier carácter, excepto el de testigo, sea examinado bajo protesta de decir verdad y faltare a ella en perjuicio de otro, negando ser suya la firma con que hubiere suscrito un documento o afirmando un hecho falso o alterando o negando uno verdadero, o sus circunstancias substanciales.
 
-###### Artículo 352.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-El Ayuntamiento y las entidades se abstendrán de contratar personas inhabilitadas en el servicio público municipal, estatal o federal, para desempeñar un empleo, cargo o comisión.
+Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa o cuando tenga el carácter de inculpado; y
 
-###### Artículo 254.
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-Los planes o proyectos, aprobados por el Ayuntamiento, referentes a la realización de cualquiera de las obras mencionadas en el artículo 249, deberán notificarse a los particulares de acuerdo a la Ley Orgánica del Municipio Libre y ser publicados por lo menos quince días antes de su inicio, para que los contribuyentes hagan las observaciones pertinentes, en un periódico de circulación local y en la tabla de avisos, conteniendo los datos siguientes:
+IV.- Teniendo el carácter de ofendido, o de coadyuvante, apoderado o representante legal del primero, dentro de un proceso penal, presente en el mismo uno o mas testigos falsos.
 
-I. Naturaleza de la obra, especificando si se trata de construcción o reconstrucción de la existente;
+###### ARTICULO 255.
 
-II. Determinación de la zona que se beneficia o mejora con la obra, así como de las afectaciones en su caso;
+Comete el delito de falsedad en informes dados a una autoridad el que los rinda a ésta afirmando una falsedad o negando la verdad en todo o en parte.
 
-III. Costo total de la obra que incluirá los siguientes conceptos:
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-a) Importe del anteproyecto y del proyecto;
+###### ARTICULO 256.
 
-b) Importe de materiales, mano de obra e indirectos a erogar con motivo de la ejecución material de la obra;
+Al responsable del delito a que se refieren los artículos anteriores de éste capítulo, se le impondrá una sanción de dos a seis años de prisión y multa de cien a trescientos días salario.
 
-c) Gastos por financiamiento, en su caso;
+La sanción podrá ser hasta de quince años de prisión para el testigo falso a que se refiere la Fracción II del Artículo 254, que fuere examinado en un juicio penal y al sentenciado se le imponga una sanción de más de veinte años de prisión por habérsele dado valor probatorio a la declaración de aquél. Lo mismo se observará para las personas a que se refiere la fracción IV del citado artículo.
 
-d) Gastos por pago de indemnizaciones que deban cubrirse, en su caso;
+###### ARTICULO 257.
 
-IV. Deducciones en su caso, por:
+Al que soborne a un testigo, a un perito o a un intérprete para que se produzca con falsedad en juicio, o los obligue o comprometa a ello intimidándolos, o haciendo uso de cualquier otro medio para lograr su propósito, se le impondrá la sanción a que se refiere el artículo 256.
 
-a) Aportaciones de los Gobiernos Federal, Estatal y Municipal;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-b) Donativos de los particulares;
+###### ARTICULO 258.
 
-c) Recuperaciones por venta de excedentes de bienes inmuebles expropiados;
+Al testigo, perito, o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las diere, se le impondrá una multa de cincuenta a ciento cincuenta días de salario; pero si faltaren a la verdad al retractar sus declaraciones, se les aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, que se podrá aumentar hasta un tercio de la sanción a imponer.
 
-V. Costo neto;
+Al perito o intérprete que sea sancionado, ya sea porque se retracte de su dictamen o porque faltare a la verdad, se le impondrá, además de las sanciones a que se contrae este capítulo, la inhabilitación para el ejercicio profesional sobre la que verse la pericia, por un término de tres meses a dos años.
 
-VI. Relación de bienes inmuebles afectados o beneficiados, señalando su propietario o poseedor, así como la fuente de información;
+La autoridad ante la cual se condujo falazmente el testigo, perito, o interprete deberá dar vista al órgano persecutor de los delitos para que inicie la indagatoria correspondiente, remitiendo las constancias necesarias para ello.
 
-VII. Relación de metros cuadrados de superficie por predio y su fuente de información;
+###### ARTICULO 258 Bis.
 
-VIII. Cuota unitaria por metro cuadrado determinada en términos del artículo 252 fracción I; y
+(DEROGADO, P.O. 10 DE JULIO DE 2003)
 
-IX. Plazo para el pago.
-
-La documentación que sustenta la realización de los proyectos de obra estará a disposición de las personas obligadas a pagar las contribuciones durante los quince días siguientes a la fecha de la publicación a que se refiere este artículo, pudiendo impugnar el acto durante los treinta días posteriores a la mencionada publicación.
-
-Las afectaciones de inmuebles se regirán por la Ley Orgánica del Municipio Libre y por la ley de la materia. Una vez que hayan ingresado al patrimonio municipal se regirán por lo que dispone este Código.
-
-###### Artículo 255.
-
-Para los efectos del artículo 253 de este Código se entiende por terminada y puesta en servicio la obra, el día en que el ejecutor de la misma, la entregue mediante acta circunstanciada al Ayuntamiento.
-
-###### Artículo 256.
-
-La falta de pago de dos cuotas bimestrales consecutivas hará exigible el total del crédito fiscal, el cual podrá recuperarse mediante el procedimiento administrativo de ejecución.
-
-La contribución a que se refiere este capítulo, afecta directamente a los predios beneficiados. En consecuencia, la Tesorería tendrá acción real, contra cualquier poseedor o propietario de los inmuebles beneficiados.
-
-###### Artículo 257.
-
-Los notarios y funcionarios con fe pública no autorizarán contrato alguno de compraventa, cesión o cualquier otro que tenga por objeto la enajenación de bienes inmuebles, si no se demuestra por medio de recibos o boletas y constancias de no adeudo, que el bien inmueble de que se trata está al corriente del pago de las contribuciones que establece este capítulo. En caso de que existan créditos no vencidos a la fecha de la escrituración, los fedatarios señalados anteriormente podrán autorizarla, siempre y cuando acepte el adquirente dicho crédito y se haga constar en el texto de la misma.
-
-###### Artículo 258.
-
-Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos del pago de las contribuciones por mejoras.
+### CAPITULO V. VARIACION DEL NOMBRE O DEL DOMICILIO
 
 #### SECCION CUARTA. Del Remate
 
-###### Artículo 353.
+###### ARTICULO 353.
 
-El Ayuntamiento y entidades no comprometerán los recursos del capítulo de servicios personales para ejercicios posteriores; asimismo, cualquier modificación a las estructuras orgánicas o remuneraciones se deberán cubrir con recursos presupuestales del ejercicio fiscal en que se realicen, de tal forma que no generen necesidades presupuestales adicionales en los años subsecuentes.
+Al responsable del delito de filicidio se le impondrá una sanción de treinta a cincuenta años de prisión.
 
-###### Artículo 354.
+###### ARTICULO 354.
 
-Si existen contratos por honorarios, no incrementarán sus percepciones ni obtendrán percepciones adicionales a las establecidas en el contrato respectivo.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-###### Artículo 355.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-La Tesorería y cada entidad, en el ámbito de su competencia, llevarán su propia contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
+###### ARTICULO 355.
 
-###### Artículo 356.
+Si en la comisión del delito de filicidio participara un médico, partero o enfermero, además de imponérseles las sanciones privativas de libertad por homicidio, se le suspenderá hasta por veinte años en el ejercicio de su profesión.
 
-La contabilidad del Ayuntamiento y la correspondiente a las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución, a efecto de integrar la información que coadyuve a la toma de decisiones; así como a la verificación y evaluación de las actividades realizadas.
+### CAPITULO VII. ABORTO
 
-Los sistemas de contabilidad que establezcan los manuales e instructivos que el Congreso apruebe se operarán en forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
+###### ARTICULO 356.
 
-###### Artículo 357.
+Comete el delito de aborto el que priva de la vida al producto de la concepción en cualquier momento de la preñez.
 
-Las dependencias y entidades suministrarán a la Tesorería mensualmente, la información presupuestal, contable, financiera y de otra índole que requiera la propia Tesorería.
+###### ARTICULO 357.
 
-Será responsabilidad de cada entidad la confiabilidad de las cifras consignadas en su contabilidad, así como de la representatividad de los saldos de las cuentas de balance, en función de los activos y pasivos reales de la misma, adoptando para ello las medidas de control y depuración correspondientes.
+A la mujer que voluntariamente procure su aborto o consienta en que otro la haga abortar, se le impondrá una sanción de uno a cinco años de prisión.
 
-A su vez, la Tesorería consolidará la información para que el Cabildo la apruebe y la remita al Congreso, a efectos de control legislativo del gasto.
+###### ARTICULO 358.
 
-###### Artículo 358.
+Al que hiciere abortar a una mujer se le impondrá una sanción de uno a cinco años de prisión, siempre que lo haga con el consentimiento de ella. Cuando falte el consentimiento, la prisión será de tres a seis años y si mediare violencia física o moral se impondrán al autor de seis a ocho años de prisión.
 
-La Tesorería emitirá las instrucciones sobre la forma y términos en que las entidades comprendidas en el Presupuesto de Egresos del Municipio, deban llevar sus registros auxiliares y contabilidad y, en su caso, rendirle sus informes y cuentas para fines de contabilidad y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada entidad y podrá autorizar su modificación o simplificación, únicamente por lo que se refiere al gasto público contenido en el Presupuesto.
+###### ARTICULO 259.
 
-Las entidades someterán a la consideración de la Tesorería las modificaciones que consideren necesarias o convenientes a su sistema de contabilidad.
+Comete el delito de variación del nombre o del domicilio:
 
-###### Artículo 259.
+I.- El que oculte su nombre o apellidos y tome otro imaginario o el de otra persona, al declarar ante la autoridad judicial;
 
-Los productos de su patrimonio, que obtenga el Ayuntamiento, en funciones de derecho privado, se causarán y pagarán ante la Tesorería, en términos de lo previsto por este Capítulo.
+II.- El que para eludir la práctica de una diligencia judicial, una notificación de cualquiera clase o citación de una autoridad, oculte su domicilio, designe otro distinto o niegue de cualquier modo el verdadero; y
 
-###### Artículo 260.
+III.- Al servidor público que en los actos propios de su cargo, atribuyere a una persona, título o nombre a sabiendas de que no le pertenece.
 
-Quedan comprendidos como productos, los ingresos que obtiene el Municipio por concepto de:
+###### ARTICULO 260.
 
-I. Venta de bienes de dominio privado, en términos del Libro Sexto de este Código.
+Al responsable del delito a que se refiere el artículo anterior se le impondrá una sanción de tres días a seis meses de prisión y multa de uno a quince días salario.
 
-II. De arrendamiento de bienes muebles o inmuebles, considerados como bienes de dominio privado, en términos del Libro Sexto del presente Código;
-
-III. Explotación o enajenación de cualquier naturaleza de los bienes de propiedad municipal no destinados a servicio público;
-
-IV. Venta de impresos y papel especial que no causen derechos;
-
-V. Rendimientos financieros provenientes de capitales o valores a favor de los Municipios;
-
-VI. Actividades de empresas o establecimientos en los que participe el Municipio;
-
-VII. Almacenaje o guarda de bienes; y
-
-VIII. Diversos.
-
-Los productos por conceptos diversos se cobrarán en términos de los contratos o de las concesiones correspondientes y de conformidad con las disposiciones legales aplicables.
+### CAPITULO VI. USURPACION DE FUNCIONES PUBLICAS O DE PROFESION
 
 #### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
 
-###### Artículo 359.
+###### ARTICULO 359.
 
-Los estados financieros y demás información financiera, presupuestal y contable, serán consolidados por la Tesorería, la que será responsable de:
+Se impondrá de seis meses a un año de prisión a la mujer que voluntariamente procure su aborto o consienta en que otro la haga abortar, si concurren las siguientes circunstancias:
 
-I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos del artículo 20 de la Ley de Fiscalización Superior para el Estado de Veracruz-Llave;
+I.- Que no tenga mala fama;
 
-II. Proporcionar al Presidente y a la Comisión de Hacienda la información que el Órgano de Fiscalización Superior del Estado requiera en el ejercicio de sus funciones;
+II.- Que haya ocultado su embarazo; y
 
-III. Coadyuvar con el Presidente y la Comisión de Hacienda en la solventación de las observaciones del Órgano de Fiscalización Superior del Estado;
+III.- Que éste no sea resultado de unión matrimonial o concubinato.
 
-IV. Administrar y conservar la documentación que contenga la información necesaria para la comprobación, origen y aplicación del gasto público, por el plazo que señale la ley de la materia;
+###### ARTICULO 360.
 
-V. Proporcionar al Presidente y a la Comisión de Hacienda la información necesaria para Justificar ante las autoridades competentes, la aplicación de recursos transferidos al Municipio de fondos estatales o federales, en los términos de los ordenamientos aplicables;
+Si el aborto lo causare un médico, partero o enfermero, además de la sanción que le corresponda conforme al artículo 358 se le suspenderá de dos a cinco años en el ejercicio de su profesión.
 
-VI. Efectuar el registro contable del patrimonio de bienes muebles e inmuebles del Municipio;
+###### ARTICULO 361.
 
-VII. Participar en la depuración de cuentas de balance; y
+No se sancionará el aborto en los casos siguientes:
 
-VIII. Las demás que le indique el Presidente y las que se deriven de otros ordenamientos.
+I.- Cuando sea causado sólo por imprudencia de la mujer embarazada;
 
-###### Artículo 360.
+II.- Cuando el embarazo haya sido resultado de una violación; y
 
-El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades, deberá llevarse a cabo de acuerdo con los principios de contabilidad gubernamental, así como de las normas políticas y lineamientos que dicte el Congreso.
+III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud a juicio del médico que la asista, oyendo éste la opinión de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-###### Artículo 361.
+### CAPITULO VIII. ABANDONO DE PERSONAS
 
-El Congreso, para efectos de la revisión de las cuentas públicas, emitirá los catálogos de cuentas a que se sujetarán las dependencias y entidades para el registro de sus operaciones financieras y presupuestales. Dichos catálogos estarán integrados por los siguientes grupos de cuentas:
+###### ARTICULO 362.
 
-I. Activo;
+Comete el delito de abandono de personas, el que teniendo obligación de cuidarlos, abandone a un menor, a una persona enferma o a un anciano, incapaces de cuidarse a sí mismos.
 
-II. Pasivo;
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-III. Hacienda Pública;
+También incurre en éste delito el que injustificadamente abandone a su cónyuge, concubina o concubinario, sus hijos menores de edad o incapaces, o a sus padres, estando enfermos.
 
-IV. Ingresos;
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-V. Egresos,
+###### ARTICULO 363.
 
-VI. Cuentas de Orden, y
+Al responsable del delito señalado en el artículo anterior, se le impondrá una sanción de uno a cuatro años de prisión, sino resultare daño alguno. Si el responsable fuere ascendiente o tutor del ofendido, se le privará además de la patria potestad o de la tutela.
 
-VII. Presupuesto.
+###### ARTICULO 364.
 
-###### Artículo 362.
+Al que encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a sí mismo o a una persona herida, inválida o amenazada de un peligro cualquiera, se le impondrá una sanción de uno a dos meses de prisión, si no diere aviso inmediato a la autoridad u omitiere prestarles el auxilio necesario, cuando pudiere hacerlo sin riesgo personal.
 
-El registro presupuestal de las erogaciones del Ayuntamiento y sus entidades se efectuará en las cuentas que para tal efecto establezca el Congreso, destinadas a captar los procesos siguientes:
+###### ARTICULO 365.
 
-I. Asignación Presupuestal, que identifica el presupuesto de la dependencia o entidad y, en su caso modificada con autorización del Cabildo;
+El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete, que deje en estado de abandono, sin prestar o facilitar asistencia a la persona a quien atropelló por culpa o accidente, se le impondrá una sanción de dos meses a un año de prisión.
 
-II. Compromiso Presupuestal, referido al hecho consistente en que un monto se destina a un fin determinado, a través de un documento formal que ampara la operación; y
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-III. Ejercicio Presupuestal, determinado por el acto de autorizar el pago correspondiente al avance de obra o a la adquisición de un bien o servicio.
+### CAPITULO IX
 
-###### Artículo 363.
+###### ARTICULO 366.
 
-El Ayuntamiento y sus entidades registrarán en cuentas específicas los movimientos de sus fondos asignados.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
-###### Artículo 364.
+###### ARTICULO 367.
 
-Será responsabilidad de las dependencias y entidades la desagregación de las subcuentas, subsubcuentas y demás registros complementarios que permitan el suministro de información interna para la toma de decisiones administrativas, y para el control en la ejecución de las acciones, de acuerdo con sus necesidades específicas.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
-###### Artículo 365.
+###### ARTICULO 261.
 
-La contabilidad de las dependencias y entidades contendrá los registros auxiliares para los programas presupuestales que muestren de manera sistemática los avances financieros y de consecución de metas, con objeto de facilitar la evaluación en el ejercicio del gasto público.
+Comete el delito de usurpación de funciones públicas el que, sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones como tal.
 
-###### Artículo 366.
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2007)</small>
 
-El Ayuntamiento y sus entidades llevarán registros auxiliares que permitan el control y conocimiento individual de los distintos saldos integrantes de cada cuenta de balance o resultados.
+Se equipará a la usurpación de funciones públicas la prestación, desempeño, implementación u ostentación, directa o indirecta, de servicios privados de seguridad, siempre que no se cuente con el registro o la autorización correspondiente en los términos de la ley de la materia. A quien se encuentre en este supuesto se le impondrá hasta cuatro tantos de la sanción que corresponda en los términos del artículo 263 de este Código.
 
-###### Artículo 367.
+###### ARTICULO 262.
 
-El Ayuntamiento y sus entidades están obligados a resguardar y conservar en su poder y bajo custodia de la Tesorería los libros, registros auxiliares e información correspondiente, así como los documentos originales justificativos y comprobatorios de sus operaciones financieras.
+Comete el delito de usurpación de profesión el que se atribuya el carácter de profesionista sin tener título legal o ejerza los actos propios de la profesión.
 
-###### Artículo 261.
+###### ARTICULO 263.
 
-Los productos a que se refieren las fracciones I a IV del artículo anterior se sujetarán a las disposiciones del Libro Sexto de este Código; los de la fracción V, a los contratos que al efecto celebre el Ayuntamiento con la institución crediticia correspondiente; y los de la fracción VI, conforme a los rendimientos que se generen.
+Al responsable de los delitos a que se refiere este capítulo se le impondrá una sanción de un mes a tres años de prisión y multa de tres a cincuenta días salario.
 
-###### Artículo 262.
-
-Los bienes embargados por las autoridades municipales que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días siguientes a la fecha en que queden a disposición del adquirente o del deudor contra quien se hubiese seguido el procedimiento económico-coactivo, así como los bienes depositados por cualquier otra causa en los mismos locales, causarán por concepto de almacenaje, por períodos mensuales vencidos, las cuotas siguientes:
-
-I. Por metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día, 0.02 salarios mínimos; y
-
-II. Los semovientes depositados en predios propiedad del Municipio, diariamente por cabeza, 0.04 salarios mínimos.
-
-Además de las cuotas que señala esta fracción, se cobrará el importe de la manutención y el gasto del cuidado de los animales depositados.
-
-###### Artículo 263.
-
-Para el aseguramiento de las obligaciones respecto al uso o aprovechamiento de bienes de dominio privado municipales, el usuario deberá otorgar garantía que asegure el interés fiscal.
+### CAPITULO VII. USO INDEBIDO DE UNIFORMES, INSIGNIAS, DISTINTIVOS O CONDECORACIONES
 
 #### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
 
-###### Artículo 368.
+###### ARTICULO 368.
 
-El Ayuntamiento y sus entidades registrarán anualmente, como asiento de apertura en los libros principales y registros auxiliares de contabilidad, los saldos de las cuentas de balance del ejercicio inmediato anterior.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
-###### Artículo 369.
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JUNIO DE 2008)</small>
 
-Para el registro contable de las operaciones con base acumulativa, se observará lo siguiente:
+### CAPITULO X. VIOLENCIA FAMILIAR
 
-I. En lo relativo a obras públicas, el presupuesto se considerará comprometido al momento de aprobarse la estimación del avance físico de las mismas, por las personas autorizadas para tal efecto.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
-II. Cuando se trate de gastos que se eroguen en forma continua, como son los servicios personales, los alquileres y la energía eléctrica, entre otros, el presupuesto se considerará ejercido al momento de efectuarse el pago.
+###### ARTICULO 368 Bis.
 
-III. El registro contable de los pagos correspondientes al pasivo flotante o circulante, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará con base en las instrucciones que sobre el particular gire el Congreso.
+Por violencia familiar se considera el uso de la fuerza física o moral, así como la omisión grave, que de manera reiterada se ejerce en contra de un miembro de la familia por otro integrante de la misma contra su integridad física, psíquica o ambas, independientemente de que produzcan o no lesiones.
 
-###### Artículo 370.
+Comete el delito de violencia familiar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, asimismo, aquella persona que tenga una relación formal o informal, de afecto o amistad o la hubiera tenido con cualquier miembro de la familia.
 
-La Tesorería consolidará mensualmente la información que a continuación se detalla:
+A quien comete el delito de violencia familiar se le impondrá de uno a cinco años de prisión y perderá el derecho de pensión alimenticia. Asimismo se le sujetará a tratamiento psicológico especializado.
 
-I. Estados Financieros, que comprenderán Balance General, Estado de Resultados y Estado de Origen y Aplicación de Recursos;
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
-II. Estados Contables, que incluirán Balanzas de Comprobación, Auxiliares de Cuentas Colectivas de Balance y Resultado y Conciliaciones Bancarias;
+###### ARTICULO 368 Ter.
 
-III. Estados Presupuestarios, que consistirán en Estado Condensado de Ingresos, Estado Condensado de Egresos, Estado Analítico de Ingresos, Estado Analítico de Egresos, Estado de Avance Presupuestal y Estados Programáticos;
+Se equipara a la violencia familiar y se sancionará con seis meses a cuatro años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con la que se encuentre unida fuera del matrimonio; de los parientes por consanguinidad o afinidad hasta el cuarto grado de esa persona, o de cualquier otra persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
 
-IV. Estado de Deuda Pública; y
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2007)</small>
 
-V. Estados Económicos, que contendrán la descripción de información general que permita el análisis de los resultados económicos en un período y la evolución de las finanzas públicas.
+###### ARTICULO 368 Quáter.
 
-###### Artículo 371.
+En todos los casos previstos en los dos artículos precedentes, el Ministerio Público apercibirá al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma.
 
-Las entidades enviarán a la Tesorería, dentro de los primeros diez días de cada mes, la misma información a que se refiere el artículo anterior.
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
+
+## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL HONOR
+
+### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
+
+###### ARTICULO 369.
+
+Comete el delito de golpes y violencias físicas simples:
+
+I.- El que, públicamente y fuera de riña, diere a otro una bofetada, un puñetazo, un latigazo o cualquier otro golpe en la cara;
+
+II.- El que azotare a otro para injuriarle;
+
+III.- El que infiera cualquier otro golpe simple.
+
+Son simples los golpes y violencias físicas que no causen lesión y sólo se castigarán cuando se infieran con intención de ofender a quien los recibe.
+
+###### ARTICULO 370.
+
+A los responsables del delito a que se refiere el artículo anterior, se les impondrá una sanción de tres días a un año de prisión y multa de uno a treinta días salario.
+
+###### ARTICULO 371.
+
+Si el ofendido fuere ascendiente, se impondrá al responsable una sanción de un mes a tres años de prisión y multa de tres a cincuenta días salario.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 371 BIS.- Independientemente de las sanciones que se establecen en los artículos 267, 270, 273, 319, 329, 356, y excepciones contenidas en los artículos 361 y 369 fracciones I, II y III, de este Código, se impondrá tratamiento psicológico obligatorio a quien incurra en la comisión de estos delitos.
+
+El tratamiento psicológico referido será efectuado en el lugar que al efecto determine el Juez en sentencia, el cual deberá llevarse en el lugar donde el responsable del delito cumpla su sentencia.
+
+La duración del tratamiento en mención será determinada por el psicólogo correspondiente, conforme al avance o retraso del sujeto tratado.
+
+El tratamiento psicológico, se efectuará siempre con la custodia y personal de seguridad necesario que designe la autoridad competente para su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 371 TER.- El psicólogo que realice el tratamiento en mención, enviará informes mensualmente, del avance o retraso en la conducta de la persona tratada a la autoridad competente.
+
+En caso de que el psicólogo observe una conducta extremadamente peligrosa y violenta por parte del sujeto tratado, podrá canalizar el tratamiento a un psiquiatra quien se encargará de llevar a cabo el mismo con el procedimiento descrito en los artículos que preceden.
+
+En los casos en que no se cuente con servicios psicológicos o psiquiátricos, el Juez enviará al responsable del delito al municipio donde se pueda practicar dicho tratamiento y las costas que de esto se deriven, serán cubiertas en su totalidad por el sujeto tratado.
+
+### CAPITULO II. INJURIAS
 
 #### SECCIÓN IV. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
 
-###### Artículo 372.
+###### ARTICULO 372.
 
-Los beneficiarios de subsidios y transferencias con cargo al presupuesto del Municipio, rendirán trimestralmente, dentro de los primeros cinco días del mes siguiente, cuenta detallada de la aplicación de los fondos a las dependencias y entidades por el cual se les hubiere canalizado, así como la información y justificación correspondiente; las dependencias y entidades informarán con el mismo detalle a la Tesorería del ejercicio de estos recursos, dentro de los primeros quince días del mes siguiente.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-###### Artículo 373.
+###### ARTICULO 373.
 
-La Tesorería, previo acuerdo del Cabildo, hará del conocimiento de las dependencias y entidades sus requerimientos de información adicional, para lo cual dictará las normas y lineamientos necesarios.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-###### Artículo 374.
+### CAPITULO III. DIFAMACION
 
-La Tesorería emitirá y dará a conocer a las dependencias y entidades, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública del Municipio, a más tardar el día treinta de noviembre de cada año. En el último año de la administración, el plazo vencerá el treinta de septiembre.
+###### ARTICULO 374.
 
-###### Artículo 375.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-Para efectos de la formulación de la cuenta pública, la información que proporcionen las dependencias y entidades estará debidamente clasificada, de conformidad con los lineamientos que para tal fin emita el Congreso.
+###### ARTICULO 375.
+
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 #### SECCIÓN V. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO
 
 > <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2003)</small>
 
-###### Artículo 376.
+###### ARTICULO 376.
 
-Para la integración de la cuenta pública anual del Municipio, las entidades, previa aprobación de su titular, proporcionarán oportunamente a la Tesorería, la información a que se refiere el artículo 373.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-###### Artículo 377.
+###### ARTICULO 377.
 
-Corresponde a las entidades consolidar la información contable, financiera, presupuestal, programática y económica de la dependencia o entidad, de acuerdo con sus necesidades y para cumplir los requerimientos de la Tesorería. Las entidades cuidarán que la información consolidada que proporcionen a la Tesorería cumpla con las normas y lineamientos establecidos.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-###### Artículo 378.
+### CAPITULO IV. CALUMNIA
 
-La Tesorería será responsable de integrar la cuenta pública del municipio, la cual será elaborada con la información que la misma genere y la que le remitan las entidades.
+###### ARTICULO 378.
 
-###### Artículo 379.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-La Tesorería determinará la forma en que se presentarán los informes para la integración de la cuenta pública, para lo cual podrá solicitar a las dependencias y entidades la información complementaria y aclaraciones que considere convenientes.
+###### ARTICULO 379.
 
-###### Artículo 264.
+(DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-El Ayuntamiento tendrá los siguientes aprovechamientos:
+###### ARTICULO 264.
 
-I. Multas administrativas: Todas las que no sean consideradas como multas fiscales en el presente Código;
+Comete el delito a que se refiere este capítulo el que públicamente usare uniformes, insignias, distintivos o condecoraciones oficiales a que no tenga derecho.
 
-II. Reintegros e Indemnizaciones: Para el pago de reintegros e indemnizaciones se estará al dictamen de la autoridad correspondiente.
+### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
 
-En el caso de que se cause un daño imprudencial o intencional a los bienes municipales, la autoridad determinará el monto de la indemnización atendiendo al valor comercial de los bienes dañados o al de su reparación;
+###### ARTICULO 265.
 
-III. Legados y Donaciones recibidos; y
+Al responsable del delito previsto en el artículo anterior se le impondrá una sanción de un mes a tres años de prisión y multa de tres a cincuenta días salario.
 
-IV. Aprovechamientos diversos.
+### CAPITULO VIII. DISPOSICION COMUN A LOS CAPITULOS PRECEDENTES
 
-###### Artículo 265.
+###### ARTICULO 266.
 
-Los aprovechamientos, se aplicarán y pagarán de conformidad con lo que establece este ordenamiento y las demás leyes fiscales que resulten aplicables.
+Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en este título, se aplicarán las reglas del concurso.
 
-Los aprovechamientos se harán efectivos, según proceda en cada caso, atendiendo a la naturaleza y origen del crédito, en la vía judicial o por medio del procedimiento económico coactivo.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2003)</small>
 
-###### Artículo 266.
+###### ARTICULO 267.
 
-Las cantidades en efectivo o los bienes que el Ayuntamiento reciba por concepto de herencia, legado, donación o indemnización, se harán efectivos de acuerdo con las leyes respectivas y con las disposiciones de los testadores o donantes, o con sujeción a las resoluciones en que se decreten las indemnizaciones o a los convenios que respecto a ellas se celebren
+Comete el delito de impudicia el que sin consentimiento de una persona sea cual fuere su edad, o con el consentimiento de ésta si es menor de doce años o se trate de una persona que no tenga la capacidad de comprender el significado del hecho o que por cualquiera causa no pudiere resistirlo, ejecute en ella o la haga ejecutar, un acto erótico sin el propósito directo e inmediato de llegar a la cópula.
 
-###### Artículo 267.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-Las participaciones que correspondan al Municipio en materia de ingresos federales, se integrarán a la Hacienda Pública Municipal, con arreglo a la normatividad aplicable, para ser destinadas a los fines previstos en el Presupuesto de Egresos del Municipio y demás disposiciones.
+###### ARTICULO 268.
 
-###### Artículo 268.
-
-Las aportaciones federales ingresarán a la Hacienda Pública Municipal, en la forma y términos que prevén los ordenamientos que resulten aplicables, para ser destinadas a los fines que para cada fondo se establezcan en los mismos, los que se determinarán a través de los procedimientos e instancias previstos en la legislación aplicable.
+Al responsable del delito de impudicia se le impondrá una sanción de seis meses a cuatro años de prisión y multa de cuarenta a sesenta días salario. Si el delito se ejecutare por medio de la violencia física o moral, el mínimo y el máximo de la pena se aumentará en una mitad. Si además de los simples tocamientos eróticos el activo hiciere ejecutar al pasivo actos depravados, la sanción será de dos a cinco años y multa de cuarenta días salario.
 
 # LIBRO QUINTO. DE LA DEUDA PÚBLICA
 
-## TÍTULO ÚNICO
+## TITULO NOVENO. DELITOS COMETIDOS EN EL DESEMPEÑO DE FUNCIONES JUDICIALES O ADMINISTRATIVAS
 
-###### Artículo 269.
+### CAPITULO III. ABUSO DE AUTORIDAD
 
-Los ingresos extraordinarios se causarán y recaudarán de conformidad con los ordenamientos, decretos, acuerdos o convenios que los establezcan y formarán parte de la Cuenta Pública.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 1993)</small>
 
-###### Artículo 270.
+###### ARTICULO 269.
 
-Son atribuciones de la Tesorería, en materia de administración financiera, las siguientes:
+El delito de impudicia sólo se castigará cuando se haya consumado.
 
-I. Recaudar, administrar, concentrar, custodiar, vigilar y situar los fondos municipales, así como los conceptos que deba percibir el Ayuntamiento, de conformidad con las disposiciones legales aplicables en materia de ingresos;
+### CAPITULO II. ESTUPRO
 
-II. La recepción de fondos ajenos en calidad de depósito;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-III. La guarda, custodia y control de fondos y valores de propiedad municipal;
+###### ARTICULO 270.
 
-IV. La emisión, guarda, custodia, control, distribución y destrucción de formas valoradas;
+Comete el delito de estupro quien tenga cópula con persona mayor de doce y menor de dieciocho años de edad, obteniendo su consentimiento por medio de engaño o mediante alguna maquinación.
 
-V. La programación y realización de pagos a terceros con cargo al presupuesto del Municipio;
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-VI. La contratación de servicios bancarios o de seguros y fianzas que requiera el Ayuntamiento;
+Este delito sólo podrá ser perseguido a petición de la parte ofendida o de sus padres y a falta de éstos, por su legítimo representante.
 
-VII. La constitución de garantías a favor o a cargo del Municipio, así como su guarda y custodia;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-VIII. Participar con voz en la formación y discusión de los presupuestos;
+###### ARTICULO 271.
 
-IX. Informar al Ayuntamiento de los derechos que tenga a su favor el fisco municipal, para que sean ejercitados o deducidos por el Síndico;
+Al responsable del delito de estupro, se le impondrá una sanción de tres a siete años de prisión y multa de doscientos a cuatrocientos días salario, si la víctima fuere mayor de doce y menor de catorce años de edad.
 
-X. Supervisar, el primer día de cada mes, con la intervención de la Comisión de Hacienda, el corte de caja del movimiento de caudales del mes anterior. De este documento remitirán una copia al Congreso, así como a los Ediles que lo soliciten y, en su caso, contestar a éstos, por escrito y en el término de diez días hábiles, las dudas que tuvieren;
+Si la víctima fuera mayor de catorce y menor de dieciséis años de edad, al responsable del delito se le impondrá una sanción de uno a cuatro años de prisión y multa de cien a doscientos días salario.
 
-XI. Presentar al Ayuntamiento, dentro de los primeros quince días de cada mes, la cuenta del anterior para su glosa preventiva, debiendo aquél remitirla al Congreso dentro de los diez días siguientes;
+Si la víctima fuera mayor de dieciséis y menor de dieciocho años de edad, al responsable del delito se le impondrá una sanción de tres meses a un año de prisión y multa de cien a doscientos días salario.
 
-XII. Proporcionar todos los informes que el Ayuntamiento o alguno de los ediles le solicite;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2003)</small>
 
-XIII. Proponer al Presidente el nombramiento o remoción de los servidores públicos y empleados de la Tesorería;
+###### ARTICULO 272.
 
-XIV. Proponer al Cabildo, para su aprobación, el Reglamento Interior de la Tesorería; y
+No se procederá contra el responsable del delito de estupro, sino por queja de la mujer ofendida o de sus padres, o a falta de éstos, de sus legítimos representantes.
 
-XV. Las demás que expresamente le otorguen este Código, la Ley Orgánica del Municipio Libre y demás leyes del Estado.
+### CAPITULO III. VIOLACION
 
-###### Artículo 271.
+###### ARTICULO 273.
 
-La Tesorería emitirá los lineamientos bajo los cuales se brindarán los servicios que presta y dictará las reglas administrativas que establezcan los sistemas e instrucciones en la materia.
+Comete el delito de violación, el que por medio de la violencia física o moral, tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo.
 
-###### Artículo 272.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-Son obligaciones de los servidores públicos que recauden, manejen, custodien o administren fondos o valores de la propiedad municipal o al cuidado del Ayuntamiento que establece este Código, las siguientes:
+### CAPITULO IV. DE LA TORTURA
 
-I. Dar o presentar los avisos, datos informes, libros, registros, padrones y demás documentos que se les exijan;
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
 
-II. Abstenerse de asentar hechos falsos o alterar los libros y documentos a que se refiere la fracción anterior; o coludirse con otras personas, aun cuando no estén sujetas a la vigilancia, con la mira de obtener algún beneficio para sí o para terceros;
+###### ARTICULO 274.
 
-III. Abstenerse de faltar en cualquier otro caso a las obligaciones que le impongan este Código y las disposiciones reglamentarias; y
+Al responsable del delito de violación se le impondrá una sanción de diez a dieciocho años de prisión. Si la víctima fuere la esposa o concubina, sólo se perseguirá por querella de la parte ofendida.
 
-IV. Pagar de su peculio las primas relativas a las fianzas suficientes para garantizar el pago de las responsabilidades en que pudiere incurrir en el desempeño de su encargo.
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 273.
+Si la víctima del delito fuere menor de doce años, o quien no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la sanción será de 20 a 30 años de prisión.
 
-El servicio de recaudación y concentración de fondos podrá efectuarse por conducto de las instituciones bancarias, crediticias o comerciales que autorice la Tesorería.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-###### Artículo 274.
+Para los efectos de este capítulo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal o bucal, independientemente de su sexo.
 
-Las instituciones bancarias, crediticias o comerciales pagarán intereses, por concepto de indemnización, en caso de entrega o concentración extemporánea de fondos, conforme a la tasa que al respecto determine la Tesorería, misma que se establecerá en los contratos que con ellos se celebren.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### Artículo 275.
+Se impondrá la misma sanción y se considerará como violación al que introduzca por vía vaginal o anal, cualquier elemento, instrumento o parte del cuerpo distinto al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 
-La Tesorería y las entidades efectuarán los pagos que les correspondan con cargo al presupuesto del Municipio.
+Si la violación fuere precedida o acompañada de golpes o lesiones o se cometiere cualquier otro hecho delictuoso, se observarán las reglas del concurso real.
 
-La Tesorería ministrará los fondos en función de sus disponibilidades financieras y del calendario financiero autorizado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 276.
+###### ARTICULO 275.
 
-Los Ayuntamientos acordarán anualmente las remuneraciones para sus integrantes y empleados de confianza, de acuerdo con los lineamientos que determine la Ley Orgánica del Municipio Libre.
+Se equipará a la violación y se impondrá sanción de 15 a 25 años de prisión:
 
-El pago por remuneraciones al personal de la Administración Pública Municipal centralizada se llevará a cabo por conducto de la Tesorería, con observancia de las disposiciones administrativas aplicables.
+I.- Al que sin violencia realice cópula con persona menor de doce años de edad;
 
-###### Artículo 277.
+II.- Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y,
 
-La Tesorería y las entidades solamente autorizarán el pago de anticipos que estén previstos en las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-Todo pago o salida de valores se registrará en la contabilidad de la Tesorería y de las correspondientes entidades.
+III.- Al que sin violencia introduzca por vía anal o vaginal cualquier elemento, instrumento o parte del cuerpo distinto del miembro viril en una persona menor de doce años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
 
-###### Artículo 278.
+### CAPITULO V. COALICION DE SERVIDORES PUBLICOS
 
-Los depósitos al cuidado o a disposición del Ayuntamiento, constituidos en dinero o en valores, prescribirán en los mismos términos del crédito fiscal, según dispone el presente Código.
+###### ARTICULO 276.
 
-En los asuntos sobre los cuales se hayan constituido depósitos, que no se hubieren exigido por determinación judicial a favor de beneficiario, la Tesorería tendrá en cuenta el plazo fijado en el párrafo anterior y declarará de oficio la prescripción, así como la disposición de los depósitos respectivos a beneficio del fisco municipal.
+Si la violación fuere cometida con participación de dos o más personas, la sanción se agravará hasta una mitad más de la sanción a imponer.
 
-Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la devolución del depósito, se tomará como base la de la constitución del mismo, para efectos de la prescripción.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-Los depósitos de los particulares en las cuentas del Ayuntamiento no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
+### CAPITULO IV. HOSTIGAMIENTO Y ACOSO SEXUAL
 
-###### Artículo 279.
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-La Tesorería establecerá los lineamientos generales para el otorgamiento de las garantías que deban constituirse a favor del Municipio en los actos y contratos que celebren las dependencias y entidades.
+ARTICULO 276 BIS.- Comete el delito de hostigamiento sexual quien, valiéndose de una posición jerárquica derivada de la relación laboral, docente, doméstica o cualquiera otra que genere subordinación, asedie a otra persona, emitiéndole propuestas, utilice lenguaje lascivo con este fin o le solicite ejecutar cualquier acto de naturaleza sexual.
 
-El Municipio, a través de la Tesorería, será el beneficiario de todas las garantías que se otorguen.
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-Lo anterior, sin perjuicio de las atribuciones del Síndico, en el caso de que el cobro de garantías genere procedimientos formal o materialmente jurisdiccionales.
+ARTICULO 276 TER.- Comete el delito de acoso sexual quien con respecto a una persona con la que no exista relación de subordinación, lleve a cabo conductas verbales, físicas o ambas, relacionadas con la sexualidad que la pongan en riesgo o la dejen en estado de indefensión.
 
-Corresponde a las dependencias y entidades integrar y remitir a la Tesorería los expedientes de contratos en los que se hubieren otorgado garantías de cumplimiento a favor del Municipio, para que ésta proceda a ejercitar los derechos que correspondan.
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 280.
+ARTICULO 276 QUATER.- Al responsable del delito de hostigamiento sexual se le impondrán de seis meses a dos años de prisión y multa de cincuenta a trescientos días de salario y será punible cuando se ocasione un daño o perjuicio en la posición laboral, docente, doméstica o de cualquier naturaleza que se derive de la subordinación de la persona agredida.
 
-El Municipio está exento de otorgar garantías y depósitos para el cumplimiento de sus obligaciones de pago con cargo a su presupuesto, con excepción de las previstas para garantizar el pago de deuda pública municipal directa o contingente.
+Al responsable del delito de acoso sexual se le impondrá una pena de seis meses a un año de prisión y multa de cincuenta a trescientos días de salario.
 
-###### Artículo 281.
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-La Tesorería calificará, aceptará, registrará, conservará en guarda y custodia, sustituirá, cancelará, devolverá y hará efectivas, según proceda, las garantías que se otorguen a favor del Municipio.
+ARTICULO 276 QUINQUIES.- Si la persona que comete estos delitos fuere servidor público y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento o el acoso sexual, además se le sancionará con la destitución e inhabilitación de seis meses a dos años para desempeñar cualquier empleo, cargo o comisión públicos.
 
-###### Artículo 282.
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-La garantía del interés fiscal se constituirá en los casos y con las formalidades y requisitos previstos en el Libro Segundo de este Código.
+ARTICULO 276 SEXIES.- Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad o estuviere privado de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable, de tres a cinco años de prisión y multa de cien a quinientos días de salario.
 
-###### Artículo 283.
+(REUBICADO, ANTES CAPITULO IV, P.O. 19 DE OCTUBRE DE 2010)
 
-Las garantías que reciba el Ayuntamiento por contratos administrativos, en concursos de obras y adquisiciones, anticipos, permisos, autorizaciones, concesiones y otras obligaciones de naturaleza no fiscal, se otorgarán a nombre del Municipio de que se trate, y se constituirán conforme a las formalidades que señalen las disposiciones legales aplicables.
+### CAPITULO V. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
 
-Las garantías a que alude el párrafo anterior se podrán hacer efectivas por la Tesorería o la Sindicatura, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### Artículo 284.
+### CAPITULO VI. COHECHO
 
-La Tesorería ejercerá los derechos patrimoniales de los valores que representen inversiones financieras del Municipio.
+###### ARTICULO 277.
 
-###### Artículo 285.
+Las penas previstas en los Artículos 268, 271, 274 y 275 se aumentarán hasta la mitad de la sanción impuesta, cuando:
 
-Tratándose de empresas de participación municipal y de aquellas en que el Municipio tenga una participación minoritaria, el Cabildo designará al representante del Ayuntamiento ante los órganos de gobierno o las asambleas generales de accionistas o de socios de la entidad.
+I.- El delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, el amasio o concubino contra los descendientes de su amasia o concubina. Además de la pena de prisión el culpable perderá el derecho de la patria potestad o de tutela que ejerciere sobre la víctima;
 
-###### Artículo 286.
+II.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerce su profesión, utilizando los medios o circunstancias que ello le proporcione. Además de las penas de prisión el sentenciado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión; y
 
-La Tesorería concentrará, revisará, integrará y custodiará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Ayuntamiento y elaborará los estados contables para su integración en la cuenta pública municipal.
+III.- El delito fuere cometido por la persona que tiene al ofendido para su custodia, guarda o educación, o aproveche la confianza en él depositada.
 
-###### Artículo 287.
+###### ARTICULO 278.
 
-La contabilidad de fondos municipales a cargo de la Tesorería deberá:
+Los responsables a que se refiere el artículo anterior, quedarán privados de sus derechos para ser tutores y para adoptar; además podrá el juez, en su caso, suspenderlos de uno a cuatro años en el ejercicio de su profesión u oficio. Si se trata de servidor público será destituido de su cargo.
 
-I. Registrar diariamente la información del ingreso y del egreso efectuados;
+### CAPITULO VII. PECULADO
 
-II. Conciliar la contabilidad con la información que registren las instituciones bancarias del movimiento de fondos de las cuentas municipales y la cuenta concentradora de la Tesorería;
+###### ARTICULO 279.
 
-III. Establecer y mantener los registros necesarios que provean la información para el análisis económico, financiero y de toma de decisiones; y
+La reparación del daño en los casos de estupro y violación, comprenderá el pago de alimentos a los hijos si los hubiere, y se hará en la forma y términos de la Ley Civil.
 
-IV. Aportar los elementos que permitan determinar la responsabilidad de los servidores públicos en materia de manejo de fondos y valores mediante controles contables y administrativos.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
-###### Artículo 288.
+###### ARTICULO 279 Bis.
 
-Los ingresos resultantes de la recaudación se reflejarán de inmediato en los registros de la oficina receptora, salvo que se trate de instituciones bancarias, crediticias o comerciales autorizadas, en cuyo caso éstas efectuarán el registro en los plazos establecidos en las autorizaciones relativas que emita la Tesorería.
+La reparación del daño como consecuencia de la comisión de los delitos previstos en este Título comprenderá el pago de los gastos médicos originados por el ilícito y el pago del tratamiento psicoterapéutico para el sujeto pasivo, y los familiares de éste que así lo requieran.
 
-###### Artículo 289.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2008)</small>
 
-Los bienes que excepcionalmente se reciban para el pago de adeudos a favor del Ayuntamiento, conforme a lo dispuesto en este Código, se registrarán en las cuentas de ingresos de la Tesorería.
+###### ARTICULO 279 Ter.
 
-###### Artículo 290.
+A quien divulgue la identidad, nombre, apellido de sus padres, que permita la identificación pública de mujeres, niños o adolescentes, que hayan sido objeto de violencia física, psicológica, moral o sexual, derivados de delitos de tipo sexual o violencia familiar, se le aplicará de dos a cinco años de prisión y multa de cien a quinientos días de salario mínimo vigente en la capital del Estado.
 
-Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes a los valores que representen inversiones financieras del Ayuntamiento, deberán registrarse en el sistema de contabilidad de fondos municipales.
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2007)</small>
 
-###### Artículo 291.
+Sí el delito establecido en este artículo es cometido por un Servidor Público, la sanción se aumentará hasta dos terceras partes más y la destitución de su cargo o puesto público.
 
-Los créditos no fiscales a cargo del Municipio se registrarán en la contabilidad de las dependencias de la Administración Pública Municipal. La Tesorería comunicará a las dependencias y entidades la forma y plazos en que deban rendir cuenta del manejo de fondos, bienes y valores municipales.
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2007)</small>
 
-###### Artículo 292.
+Las Autoridades garantizarán que la información que brinden no contravenga el derecho que prevé este artículo.
 
-En caso de que el Ayuntamiento cuente con varías cajas receptoras, la Tesorería vigilará y comprobará el funcionamiento adecuado de las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Ayuntamiento y el cumplimiento de las obligaciones que, a este respecto, incumben a los servidores públicos, a efecto de que se ajusten a las disposiciones legales respectivas. Para ello, tendrá las facultades siguientes:
+## TITULO DECIMO TERCERO. DELITOS CONTRA LA FAMILIA Y EL ESTADO CIVIL
 
-I. Efectuar visitas, inspecciones y auditorías que tengan por objeto la revisión de operaciones de los ingresos y los egresos, examinando los aspectos contables y legales correspondientes;
+### CAPITULO I. ALTERACION DEL ESTADO CIVIL
 
-II. Examinar si los remanentes presupuestarios, ingresos propios, disponibilidades financieras, contratación de servicios bancarios, cuentas bancarias y sus rendimientos, se ajustan a lo establecido en el presupuesto del Municipio y demás disposiciones que para el efecto expidan la Tesorería y la Contraloría en el ámbito de su competencia;
+### CAPITULO VIII. CONCUSION
 
-III. Comprobar la existencia de los fondos y valores que obren en poder de las oficinas del Municipio;
+###### ARTICULO 280.
 
-IV. Participar, con carácter obligatorio, en los actos relacionados con la instalación, entrega y clausura de oficinas del Municipio que administren fondos y valores, en la destrucción de valores que realicen las autoridades administrativas del Municipio y los demás que fije la Tesorería;
+Comete el delito a que se refiere este capítulo, el que con el fin de alterar el estado civil incurra en alguno de los casos siguientes:
 
-V. Informar a las autoridades competentes acerca de las anomalías o deficiencias que se observen y recomendar las medidas preventivas y correctivas necesarias; y
+I.- Atribuir un niño recién nacido a mujer que no sea realmente su madre;
 
-VI. Las demás que de manera expresa determinen este Código u otras leyes.
+II.- Hacer registrar en las oficinas del estado civil un nacimiento no verificado; o atribuir la paternidad del nacido a personas distintas de las verdaderas;
 
-###### Artículo 293.
+III.- A los padres que no presenten a un hijo suyo al Registro con el propósito de hacerle perder su estado civil, o que declaren falsamente su fallecimiento o lo presenten ocultando sus nombres o suponiendo que los padres son otras personas;
 
-Los actos u omisiones de que tenga conocimiento la Tesorería, que impliquen incumplimiento de este Código y demás disposiciones legales, se comunicarán a la Contraloría y a la Comisión de Hacienda, para que se practiquen las investigaciones y auditorías necesarias. Si de ellas apareciere la probable responsabilidad administrativa de los servidores públicos, se impondrán las sanciones disciplinarias correspondientes, conforme al procedimiento previsto en el Código de la materia, de ser de carácter penal, el Síndico presentará la denuncia o querella respectiva.
+IV.- A los que substituyan a un niño por otro, o cometan ocultación de infante; y
 
-###### Artículo 294.
+V.- Al que usurpe el estado civil de otro con el fin de adquirir derechos de familia que no le corresponden.
 
-Cuando con motivo del ejercicio de la facultad de vigilancia, la Tesorería determine fondos o valores sobrantes o faltantes, procederá como sigue:
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-I. Si es sobrante, ordenará su registro en la contabilidad, haciéndolo del conocimiento de la dependencia para que lo concentre de inmediato; y
+En los casos de la fracción I y en el segundo supuesto de la fracción II de éste artículo, no se impondrá sanción alguna cuando el registro se realice por mera gratitud, por razón humanitaria o extrema necesidad, siempre que se trate de los abuelos o tíos del registrado y el registro sea benéfico para éste.
 
-II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si el responsable justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Tesorería. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, informará a la Contraloría o su equivalente, para los efectos que procedan conforme a la ley.
+###### ARTICULO 281.
 
-###### Artículo 295.
+A los responsables del delito previsto en el artículo anterior, se les impondrá una sanción de uno a seis años de prisión y multa de treinta a ochenta días salario; además perderán el derecho de heredar que tuvieren respecto de las personas a quienes, por la comisión del delito, perjudiquen en sus derechos de familia.
 
-El Ayuntamiento, previa autorización del Congreso, podrá suscribir con el Estado, con Municipios, con organismos descentralizados, con entidades auxiliares de la Administración Pública de ambos órdenes de gobierno o con organismos autónomos, Convenios de Colaboración Administrativa, que tengan por objeto la ejecución de acciones en materia hacendaria municipal, entero de cuotas y aportaciones de seguridad social o prestación de servicios públicos.
+### CAPITULO II. BIGAMIA
 
-###### Artículo 296.
+###### ARTICULO 282.
 
-En el caso de que la colaboración administrativa sea entre el Municipio y el Estado o sus organismos descentralizados, en materia de gasto o deuda, entero de cuotas y aportaciones de seguridad social o prestación de servicios públicos, los procedimientos y destinos del mismo serán los que se deriven de los convenios de colaboración, en los que también podrá determinarse la constitución de fondos para la ejecución de programas específicos.
+Comete el delito de bigamia el que estando unido en matrimonio no disuelto ni declarado nulo por sentencia firme contraiga otro con las formalidades legales.
 
-En los Convenios de Colaboración Administrativa que el Ayuntamiento suscriba con el Estado o sus organismos descentralizados para el entero de cuotas y aportaciones de seguridad social, o para la prestación de algún servicio público, podrá pactarse que el Ayuntamiento, previo acuerdo de Cabildo y del Congreso, solicite al Gobierno del Estado el descuento directo aplicable a sus participaciones federales para realizar el entero al organismo que brinde la seguridad social a los trabajadores del Municipio o para aquel que preste el servicio público de que se trate.
+### CAPITULO IX. USO INDEBIDO DE ATRIBUCIONES Y FACULTADES
 
-###### Artículo 297.
+###### ARTICULO 283.
 
-Los Convenios de Colaboración Administrativa que comprometan al Municipio por un plazo mayor a la gestión del Ayuntamiento de que se trate, deberán ser aprobados por el Cabildo y por el Congreso, en la forma y términos que señale la legislación aplicable.
+A los responsables del delito de bigamia se les impondrá una sanción de uno a cinco años de prisión y multa de treinta a setenta días salario. Igual sanción se aplicará al otro contrayente, si conocía el impedimento al tiempo de celebrarse el segundo matrimonio.
 
-###### Artículo 298.
+###### ARTICULO 284.
 
-El presente Capítulo tiene por objeto normar y regular el presupuesto de egresos.
+A los testigos que intervengan en la celebración del nuevo matrimonio a sabiendas de la vigencia legal del anterior, se les impondrá una sanción de tres meses a dos años de prisión y multa de seis a cuarenta días salario. Igual sanción se aplicará a quienes ejerzan la patria potestad o la tutela, que a sabiendas dieren su consentimiento para la celebración del nuevo matrimonio.
 
-###### Artículo 299.
+### CAPITULO III. INCESTO
 
-La aplicación de este Capítulo será a cargo de la Comisión de Hacienda y del Presidente a través de la Tesorería.
+###### ARTICULO 285.
 
-###### Artículo 300.
+Cometen el delito de incesto los ascendientes que tengan cópula con sus descendientes y los hermanos que tengan cópula entre sí.
 
-El Presupuesto de Egresos para el Municipio será el que apruebe el Cabildo, a iniciativa de la Comisión de Hacienda, para solventar, durante el período de un año a partir del día primero de enero, las actividades, las obras y los servicios públicos previstos en los programas a cargo de las dependencias, así como los criterios especiales para su ejercicio y control.
+###### ARTICULO 286.
 
-El Presupuesto de Egresos del Municipio será aprobado con base en los ingresos disponibles para cada ejercicio fiscal, dentro de los que se considerarán los obtenidos como consecuencia de la realización de las operaciones de financiamiento reguladas por este ordenamiento.
+A los ascendientes responsables del delito de incesto se les impondrá una sanción de tres a seis años de prisión y para los descendientes la sanción será de seis meses a tres años de prisión; esta última sanción se impondrá cuando el incesto se realice entre hermanos.
 
-Asimismo, contendrá las erogaciones previstas en cada año, correspondientes a las entidades a cuyos programas se destinen recursos comprendidos en la Ley de Ingresos del Municipio.
+### CAPITULO IV. ADULTERIO
 
-###### Artículo 301.
+###### ARTICULO 287.
 
-El gasto público municipal se basará en presupuestos que se formularán con apoyo en programas que señalen objetivos, metas de las dependencias y entidades responsables de su ejecución. Los presupuestos se elaborarán para cada año calendario y se fundarán en costos.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-###### Artículo 302.
+###### ARTICULO 288.
 
-La Comisión de Hacienda, al examinar los presupuestos, cuidará que simultáneamente se defina el tipo y fuente de recursos para su financiamiento.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-###### Artículo 303.
+###### ARTICULO 289.
 
-El Presupuesto de Egresos del Municipio comprenderá las previsiones de gasto público que habrán de realizar las entidades por conducto de la Tesorería.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-###### Artículo 304.
+###### ARTICULO 290.
 
-Para la formulación del proyecto de Presupuesto de Egresos del Municipio, las entidades que deban quedar comprendidas en el mismo, elaborarán sus anteproyectos de presupuesto con base en los programas respectivos.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-Las entidades remitirán su respectivo anteproyecto presupuestal a la Tesorería, con sujeción a las normas que el Cabildo establezca por medio de la propia Tesorería.
+###### ARTICULO 291.
 
-###### Artículo 305.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-La Comisión de Hacienda validará los proyectos de presupuesto de las dependencias y de las entidades que tengan a su cargo programas que deban quedar comprendidos en la integración del proyecto de presupuesto del Municipio.
+### CAPITULO V. EXPOSICION DE MENORES
 
-La Comisión de Hacienda, en coordinación con la Tesorería, queda facultada para formular el proyecto de presupuesto de las entidades, en el caso de que no le sea presentado en los plazos que al efecto se le hubiere señalado, sin perjuicio de la responsabilidad a que se haga acreedor el titular de la entidad omisa.
+###### ARTICULO 292.
 
-###### Artículo 306.
+Comete el delito a que se refiere este capítulo el que exponga en una casa de expósitos a un menor de siete años que se le hubiere confiado, o lo entregue en otro establecimiento de beneficencia o a cualquiera otra persona, sin anuencia de la que se lo confió o de la autoridad en su defecto.
 
-El proyecto de Presupuesto de Egresos del Municipio se integrará con los documentos que se refieran a:
+###### ARTICULO 293.
 
-I. Descripción clara de los programas que sean la base del proyecto, en los que se señalen objetivos, metas y dependencias y entidades responsables de su ejecución, así como su costo estimado por programa;
+A los responsables del delito de exposición de menores se les impondrá una sanción de tres días a un año de prisión y multa de dos a treinta días salario.
 
-II. Explicación y comentarios de los principales programas y, en especial, de aquellos que abarquen dos o más ejercicios fiscales;
+###### ARTICULO 294.
 
-III. Estimación de ingresos por cada concepto de contribuciones municipales, aprovechamientos, productos, participaciones y aportaciones federales, y demás ingresos; contenida en el presupuesto respectivo y propuesta de gastos del ejercicio fiscal para el que se propone;
+Los parientes o tutores que entreguen en una casa de expósitos a un niño que está bajo su potestad o custodia, perderá por ese sólo hecho los derechos que tenga sobre la persona y bienes del expósito.
 
-IV. Ingresos y gastos reales del último ejercicio fiscal;
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-V. Tabulador de sueldos de los ediles, empleados de confianza y trabajadores de base, así como todos aquellos, cualquiera que sea su denominación, que presten servicios de manera subordinada permanentemente o de forma eventual al Ayuntamiento;
+### CAPITULO VI. ABANDONO DE OBLIGACIONES ALIMENTICIAS
 
-VI. Estimación de los ingresos y gastos del ejercicio fiscal en curso, de acuerdo a su clasificación económica, administrativa y funcional;
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-VII. Situación de la deuda pública al fin del último ejercicio fiscal y estimación de la que se tendrá al fin de los ejercicios fiscales en curso e inmediatos siguientes;
+###### ARTICULO 295.
 
-VIII. La contratación de operaciones de financiamiento que se someterán a la consideración del Congreso;
+Comete el delito de abandono de obligaciones alimenticias el que sin motivo justificado deje de proporcionar a su cónyuge, concubina o concubinario, o a sus hijos, los medios económicos o recursos necesarios para atender las necesidades de subsistencia.
 
-IX. Situación de la Tesorería al fin del último ejercicio fiscal y estimación de la que se tendrá al fin de los ejercicios fiscales en curso e inmediato siguiente;
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-X. Comentarios sobre las condiciones económicas, financieras y hacendarías actuales y las que se prevén para el futuro; y
+### CAPITULO X. INTIMIDACION
 
-XI. En general, toda la información que se considere útil para mostrar la proposición en forma clara y completa.
+###### ARTICULO 296.
 
-###### Artículo 307.
+Al responsable del delito de abandono de obligaciones alimenticias se le impondrá una sanción de seis meses a tres años de prisión, privación de derechos relativos a la familia y entrega de las cantidades que no fueron oportunamente suministradas a la familia.
 
-Con objeto de lograr un mejor aprovechamiento y eficiencia en el ejercicio de los recursos públicos, la Comisión de Hacienda, el Presidente y el Tesorero analizarán e integrarán, durante la segunda quincena de agosto, los proyectos de presupuestos de egresos elaborados por las Comisiones, así como de las dependencias y entidades.
+Para establecer las cantidades que el inculpado deberá entregar a la parte ofendida se seguirán las reglas siguientes:
 
-###### Artículo 308.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2010)</small>
 
-La Comisión de Hacienda presentará al Cabildo, para su discusión y, en su caso, aprobación, los proyectos presupuestales de Ingresos y de Egresos del Municipio, durante el mes de septiembre del año anterior al de su vigencia, para su posterior remisión al Congreso.
+Si el obligado tiene un ingreso económico variable se tomará como base diaria la cantidad que normalmente perciba entre el mínimo y el máximo en un periodo de quince días y sobre la cual el Juez fijará un porcentaje que no podrá ser superior al cincuenta, ni inferior al treinta por ciento.
 
-###### Artículo 309.
+Si no se puede determinar el monto del ingreso económico del obligado, pero notoriamente es superior al salario mínimo de la región, el Juez establecerá un porcentaje tomando en cuenta el número de personas que tienen derecho a los alimentos y la capacidad económica del obligado.
 
-Una vez aprobado el presupuesto de egresos y por causas supervenientes, podrá ser objeto de ampliación presupuestal o de creación de partidas, en cuyo caso, la Tesorería proveerá lo conducente para que sea agregada la correspondiente justificación del ingreso, si con tal proposición se altera el equilibrio presupuestal.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2010)</small>
 
-La Ley de Ingresos del Municipio señalará los conceptos de ingresos ordinarios que se establecen en este Código, indicando el monto estimado a obtener por cada uno de ellos en el ejercicio fiscal.
+### CAPITULO XI. EJERCICIO ABUSIVO DE FUNCIONES
 
-###### Artículo 310.
+###### ARTICULO 297.
 
-La división de los capítulos en conceptos y partidas específicas se hará con base en el instructivo que al efecto emita el Congreso.
+La sanción establecida en el artículo anterior, se aumentará una tercera parte al que dolosamente se coloque en estado de insolvencia o renuncie a su empleo con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina para sus hijos o cónyuge; igualmente cuando les prive de los beneficios de atención médica, hospitalaria y medicinas a que tengan derecho con motivo de la realización de trabajo del obligado.
 
-El presupuesto se ejercerá con base en los calendarios financieros y de metas que se establezcan, conforme a los criterios, manuales y lineamientos que determine la Tesorería.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2003)</small>
 
-###### Artículo 311.
+###### ARTICULO 298.
 
-En cumplimiento de lo dispuesto en el artículo 107 de la Ley Orgánica del Municipio Libre, el Ayuntamiento presentará al Congreso, en el curso del mes de octubre de cada año, el proyecto anual de Ley de Ingresos y el Presupuesto de Egresos del año siguiente.
+El delito de abandono de obligaciones alimenticias sólo se perseguirá a petición del cónyuge, concubina o concubinario ofendido o de sus legítimos representantes o del representante de los hijos y a falta de éste, la acción la iniciará el Ministerio Público. En este último supuesto el Ministerio Público, representará interinamente a los menores hasta en tanto se designe un tutor especial para los efectos del presente artículo.
 
-###### Artículo 312.
+###### ARTICULO 299.
 
-Cuando las asignaciones establecidas en el presupuesto resultaren insuficientes para cubrir el servicio a que se destinen, las dependencias y entidades solicitarán al Presidente, a través de la Tesorería, las modificaciones correspondientes a su respectivo presupuesto. Dichas solicitudes se acompañarán con los informes que las justifiquen.
+Para que el perdón concedido por el ofendido pueda extinguir la acción o la sanción impuesta aun por sentencia firme, deberá éste pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos, y otorgar fianza u otra caución de que en lo sucesivo pagará la cantidad que le corresponda.
 
-Cuando se considere justificada la modificación, si existieran recursos suficientes, la Tesorería preparará la modificación para someterla a consideración del Presidente y del Cabildo que, en su caso, la aprobará, lo cual se hará del conocimiento del Congreso.
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
 
-## TÍTULO PRIMERO. DE LOS BIENES EN GENERAL
+### CAPITULO VII. SUSTRACCION Y RETENCION DE MENORES POR LOS PADRES
 
-###### Artículo 313.
+### CAPITULO XII. TRAFICO DE INFLUENCIA
 
-Cuando, con posterioridad a la aprobación del presupuesto, surjan situaciones extraordinarias o imprevisibles de la economía nacional que repercutan en el Municipio o cuando se trate de la aplicación de leyes, decretos o acuerdos para los que se requieran erogaciones adicionales no previstas, la Tesorería solicitará la aprobación del Cabildo para modificar el Presupuesto de Egresos, con el mismo procedimiento aplicable de la aprobación del presupuesto original y la propuesta de ingresos para cubrirlas.
+###### ARTICULO 300.
 
-###### Artículo 314.
+Cometen el delito a que se refiere este capítulo los padres que habiéndoseles restringido o privado el ejercicio de la patria potestad o el derecho de custodia de sus hijos, mediante resolución judicial provisional o definitiva, los substraigan sin causa justificada del lugar donde habiten transitoria o permanentemente.
 
-La formulación de los programas institucionales se sujetará a la estructura programática aprobada por la Tesorería, de conformidad con los lineamientos que para tales fines expida.
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-###### Artículo 315.
+Comete este delito cualquiera de los padres que sustraiga a los hijos arbitrariamente del lugar donde habiten transitoria o permanentemente, aún cuando no exista resolución judicial que dirima la custodia de los menores, pero que de hecho se encuentren bajo el resguardo de alguno de ellos.
 
-El gasto público municipal comprende las erogaciones por concepto de gasto corriente, gasto de capital y servicio de la deuda pública que se realicen con recursos aprobados en la Ley de Ingresos del Municipio para la ejecución de programas a cargo de:
+Sólo se procederá contra el responsable a petición de quien ejerza la patria potestad o el derecho de custodia.
 
-I. Las dependencias;
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-II. Los organismos;
+###### ARTICULO 300 Bis.
 
-III. Las empresas de participación municipal mayoritaria; y
+Comete el delito de retención de menores cualquiera de los padres que teniendo la custodia compartida de los hijos determinados días, se resista o se niegue a devolver a los menores al hogar en que ordinariamente habitan.
 
-IV. Los fideicomisos en que el fideicomitente sea el Ayuntamiento o alguna de las entidades mencionadas en las fracciones II y III.
+Sólo se procederá a petición de quien ejerza el derecho de custodia.
 
-###### Artículo 316.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
-La Tesorería efectuará los cobros y los pagos correspondientes a las erogaciones a cargo de las dependencias.
+###### ARTICULO 301.
 
-Por lo que se refiere a las entidades, se estará a los términos que en cada caso se convengan, considerando la naturaleza de los programas a ejecutarse y las condiciones de pago que, en su caso, se pacten con contratistas, proveedores o cualquier otro tipo de acreedores.
+A los responsables de los delitos a que se refieren los artículos anteriores se les impondrá una sanción de dos a seis años de prisión y multa de cien a quinientos días (sic) salario.
 
-La ministración de los fondos correspondientes será autorizada en todos los casos por el Presidente y la Comisión de Hacienda, de conformidad con el Presupuesto de Egresos del Municipio.
+Cuando el sujeto devuelva espontáneamente al menor o incapaz, dentro de las veinticuatro horas siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones señaladas.
 
-###### Artículo 317.
+En caso que el menor, fuese sustraído y trasladado, retenido u ocultado fuera del territorio nacional, se aumentaran en una mitad las sanciones previstas en el primer párrafo de este artículo.
 
-Las entidades informarán a la Tesorería, dentro de los plazos y en la forma que ésta les dé a conocer oportunamente, los elementos que permitan conocer el destino del presupuesto municipal ejercido.
+## TITULO DECIMO CUARTO. DELITOS CONTRA LA SALUBRIDAD Y SEGURIDAD EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-###### Artículo 318.
+### CAPITULO UNICO. VIOLACIONES DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
-Una vez concluida la vigencia de un Presupuesto de Egresos del Municipio, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que se hubieren contabilizado, debida y oportunamente, las operaciones correspondientes.
+###### ARTICULO 302.
 
-En el ejercicio del gasto público no podrán mezclarse los presupuestos de dos o más años.
+Comete el delito a que se refiere este capítulo:
 
-En casos excepcionales, debidamente fundados, deberán existir recursos provisionados para el efecto de pagos en ejercicios posteriores o, en su defecto, se registrarán dichos pagos como deuda para el siguiente ejercicio.
+I.- El que oculte o sin la orden de la autoridad que deba darla o sin los requisitos que exijan las leyes, destruya, sepulte o mande sepultar un cadáver o feto humano; y
 
-###### Artículo 319.
+II.- El que exhume o mande inhumar un cadáver sin los requisitos legales o con violación de derechos.
 
-Quienes efectúen gasto público municipal estarán obligados a proporcionar a la Tesorería la información que se les solicite y a permitirle al personal de ésta la práctica de visitas para verificar el cumplimiento de las obligaciones derivadas de este ordenamiento y de la normatividad expedida con base en él.
+###### ARTICULO 303.
 
-## TÍTULO SEGUNDO. DEL DOMINIO Y ADMINISTRACIÓN DE LOS BIENES
+Al responsable del delito a que se refiere el artículo anterior se le impondrá una sanción de tres días a dos años de prisión y multa de uno a cuarenta días salario.
 
-###### Artículo 320.
+###### ARTICULO 304.
 
-El Ayuntamiento y el Órgano de Fiscalización Superior del Estado, en el ámbito de sus respectivas competencias, basados en las disposiciones de este Código y en los lineamientos que expida el Congreso, emitirán los criterios y lineamientos para la administración del gasto público municipal, los que serán de observancia obligatoria para las dependencias y entidades.
+Se impondrá una sanción de seis meses a tres años de prisión y multa de quince a cincuenta días salario:
 
-###### Artículo 321.
+I.- Al que viole un túmulo, un sepulcro, una sepultura o un féretro; y
 
-El Cabildo asignará los recursos que se obtengan en exceso de los previstos en la Ley de Ingresos del Municipio, a los programas que considere prioritarios y autorizará los traspasos de partidas cuando sea procedente, dándole, en su caso, la participación que corresponda a entidades interesadas. Tratándose de ingresos extraordinarios derivados de empréstitos, el gasto deberá sujetarse a lo dispuesto por este ordenamiento, los parámetros establecidos en el presupuesto de egresos y las asignaciones que acuerde el Ayuntamiento por conducto de la Tesorería. En todo caso, la aplicación de esta disposición será informada al Congreso al rendir la cuenta pública.
+II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutilación, obscenidad o brutalidad.
 
-###### Artículo 322.
+## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
 
-El gasto público municipal se sujetará al monto autorizado por los programas y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática en los presupuestos para aquellas erogaciones cuyo monto no sea posible prever.
+### CAPITULO I. AMENAZAS
 
-###### Artículo 323.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-El Cabildo determinará la forma en que deberán invertirse los subsidios que otorgue, cuyos beneficiarios proporcionarán a la Tesorería la información que se les solicite sobre la aplicación que hagan de los mismos, en la forma, plazos y términos que ésta determine.
+###### ARTICULO 305.
 
-###### Artículo 324.
+Comete el delito al que se refiere este capítulo el que por cualquier medio:
 
-El Cabildo podrá autorizar la participación municipal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del Congreso.
+I.- Altere la paz de una persona moral o institución bajo la amenaza de causar un daño o destrucción de sus bienes o personas que en ellas se encuentran aun cuando ésta amenaza resulte falsa.
+
+II.- Intimide a otro con causarle un mal en su persona, en sus bienes, en su honor, o en sus derechos, o en la persona, honor, bienes o derechos de alguien con quien esté ligado en algún vínculo de parentesco, de profunda amistad o afecto.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO XIII. ENRIQUECIMIENTO ILICITO
+
+###### ARTICULO 306.
+
+Al responsable de delito de amenazas a que se refiere la fracción I del artículo que antecede se aplicará una sanción de uno a tres años y multa de noventa a ciento veinte días salario.
+
+Al responsable del delito previsto en la fracción II del artículo anterior se le impondrá una sanción de tres días a un año de prisión y multa de uno a treinta días salario.
+
+Si el delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, éste contra aquél, el concubino contra su concubina o los descendientes de ésta, éstos contra aquel, en este último caso, siempre que habiten en el mismo domicilio, la sanción que se imponga se aumentará hasta en una tercera parte mas.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 307.
+
+Se impondrá la misma sanción prevista en los párrafos segundo y último del artículo anterior, al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho de hacer.
+
+En caso de que el activo impida el cumplimiento de las obligaciones de los servidores públicos, al alterar o suspender provisionalmente por medio de intimidaciones y amenazas de cualquier tipo y por cualquier medio, el libre ejercicio de sus funciones se aplicarán las sanciones previstas en el primer párrafo del artículo que antecede.
+
+###### ARTICULO 308.
+
+Se exigirá caución de no ofender:
+
+I.- Si los daños con que se amenaza son leves o evitables;
+
+II.- Si las amenazas son por medio de emblemas o señas, jeroglíficos o frases de doble sentido.
+
+Al que no otorgare esta caución, se le impondrá una sanción de tres días a seis meses de prisión.
+
+###### ARTICULO 309.
+
+Si el activo cumple su amenaza se acumulará la sanción de ésta y la del delito que resulte. Si se trata de dinero o valores y los obtiene, se le aplicará la sanción del robo con violencia.
+
+Si exigió que el amenazado cometiera un delito, se acumulará a la sanción de la amenaza la que le corresponda por su participación en el delito que resulte.
+
+### CAPITULO II. ALLANAMIENTO DE MORADA
+
+###### ARTICULO 310.
+
+Comete el delito de allanamiento de morada el que sin estar en los supuestos que la ley lo permita, se introduzca furtivamente, con engaño, violencia o sin permiso expreso o tácito de la persona autorizada para darlo, a una casa habitada, departamento, vivienda, aposento o sus dependencias.
+
+###### ARTICULO 311.
+
+Al responsable del delito de allanamiento de morada se le impondrá una sanción de seis meses a cuatro años de prisión y multa de quince a sesenta días salario.
+
+###### ARTICULO 312.
+
+Se impondrá la misma sanción prevista en el artículo anterior, al que permanezca en los lugares señalados en el artículo 310, con engaño o contra la voluntad expresa de la persona autorizada para ello.
+
+### CAPITULO III. ASALTO
+
+## TITULO DECIMO. RESPONSABILIDAD PROFESIONAL
+
+### CAPITULO UNICO
+
+DESEMPEÑO DE FUNCIONES JUDICIALES O ADMINISTRATIVAS.
+
+###### ARTICULO 313.
+
+Comete el delito de asalto, el que en despoblado o en paraje solitario haga uso de la violencia sobre una persona con el propósito de causar un mal, obtener un lucro o de exigir su asentimiento para cualquier fin e independientemente del hecho o hechos delictuosos que resulten cometidos.
+
+Se entiende por paraje solitario, no sólo el que esté en despoblado, sino también el que se halla dentro de una población, si por la hora o por cualquier otra circunstancia no encuentre el asaltado a quien pedir socorro.
+
+###### ARTICULO 314.
+
+Al responsable del delito de asalto, se le impondrá sanción de cuatro a siete años de prisión y multa de sesenta a noventa días salario.
+
+###### ARTICULO 315.
+
+Si un grupo de tres o más personas, atacare un lugar poblado, se impondrá una sanción de diez a veinte años de prisión a los cabecillas o jefes; y de ocho a quince años de prisión a los demás.
+
+### CAPITULO IV. DELITOS CON MOTIVO DEL TRANSITO DE VEHICULOS
+
+###### ARTICULO 316.
+
+Se impondrá sanción de tres meses a tres años al que ponga en movimiento cualquier vehículo automotriz y lo abandone o de cualquier otro modo haga imposible el control de su dirección; si además resultaran otros delitos se observarán las reglas del concurso.
+
+###### ARTICULO 317.
+
+Cuando se cause algún daño grave por medio de cualquier vehículo, motor o maquinaria, además de aplicar las sanciones por el delito que resulte, se suspenderá al responsable del derecho para manejar aquellos aparatos de un mes a un año. En caso de reincidencia se privará de ese derecho.
+
+### CAPITULO I. RESPONSABILIDAD MEDICA, TECNICA Y ADMINISTRATIVA
+
+###### ARTICULO 318.
+
+Cuando por motivo del tránsito de vehículos se cometa un delito culposo, se seguirán las siguientes reglas:
+
+I.- Si se cometiere por conductores en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares, la sanción será de tres a ocho años de prisión, si del hecho resulta la muerte de una o más personas; de dos a seis años de prisión si del hecho resultan lesiones, y de dos a cuatro años de prisión si sólo se causa daño en propiedad ajena;
+
+II.- Si se cometiere por conductores de transporte de servicio público o escolar, a consecuencia de conducir con exceso de velocidad, o de acciones u omisiones graves, la sanción será de dos a ocho años de prisión, si del hecho resultan la muerte de una o más personas; de dos a seis años de prisión si del hecho resultan lesiones y de dos a cuatro años de prisión si sólo se causa daño en propiedad ajena.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
+
+### CAPITULO V. TRAFICO DE MENORES E INCAPACITADOS
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 318 Bis.
+
+Se impondrá de seis a doce años de prisión y multa de cien a doscientos días salario y privación de los derechos de la patria potestad, tutela o custodia en su caso, y para adoptar, al que teniendo a su cargo o cuidado a un menor de edad o incapaz a virtud del ejercicio de la patria potestad, de la tutela, custodia o de otra situación legal o de hecho, lo entregue por sí o por interpósita persona a un tercero a cambio de un beneficio económico o de cualquier otro lucro.
+
+La misma sanción se le impondrá al intermediario y al tercero que reciba un beneficio económico o lucro cualquiera, en las condiciones a que se refiere el párrafo anterior.
+
+Si el intermediario es director, encargado o empleado de una institución médica pública o privada, de alguna casa-hogar, asilo o lugar donde se alberguen menores, la sanción que se imponga podrá aumentarse de dos a cuatro años mas de prisión.
+
+No eximirá de responsabilidad alguna a los participantes de éste delito aún cuando se haya seguido algún procedimiento legal para la entrega del menor, si se demuestra que quien lo entregó o el intermediario recibió a cambio un beneficio económico o lucro cualquiera.
+
+## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
+
+### CAPITULO I. LESIONES
+
+###### ARTICULO 319.
+
+Comete el delito de lesiones, el que infiera a otro un daño que deje en su cuerpo un vestigio o altere su salud física o mental.
+
+## TITULO UNDECIMO. DELITOS CONTRA LA FE PUBLICA
+
+### CAPITULO II. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
+
+###### ARTICULO 320.
+
+Al que cause una lesión que no ponga en peligro la vida se le impondrá sanción en los siguientes términos:
+
+I.- De tres días a cuatro meses de prisión o multa de uno a diez días salario, o ambas sanciones a juicio del Juez, cuando la lesión tarde en sanar hasta quince días; y
+
+II.- De cuatro meses a dos años de prisión y multa de diez a cuarenta días salario, cuando la lesión tarde en sanar más de quince días.
+
+###### ARTICULO 321.
+
+Al que cause lesiones que pongan en peligro la vida se le impondrá una sanción de tres a seis años de prisión.
+
+###### ARTICULO 322.
+
+Sin perjuicio de las sanciones que le correspondan conforme a los artículos anteriores y en relación con los efectos de las lesiones inferidas se sancionará al responsable en los siguientes términos:
+
+I.- De dos a cinco años de prisión y multa de cuarenta a setenta días salario, al que cause una lesión que deje al ofendido cicatriz o deformidad permanentemente notable en la cara, cuello, cabeza o pabellones auriculares;
+
+II.- De tres a cinco años de prisión y multa de cincuenta a setenta días salario, al que cause una lesión que produzca debilitamiento, disminución o perturbación de funciones, órganos o miembros de la víctima; y
+
+III.- De cinco a ocho años de prisión y multa de setenta a cien días salario, al que infiera una lesión que produzca a la víctima enajenación mental, pérdida de algún miembro o de cualquier función orgánica o le deje incapacitado total y permanentemente para trabajar.
+
+###### ARTICULO 323.
+
+Si se produjeren varios de los resultados previstos en el artículo que antecede, solamente se aplicarán las sanciones correspondientes al de mayor gravedad.
+
+###### ARTICULO 324.
+
+Cuando las lesiones se infieran por dos o más personas, se observarán las reglas siguientes:
+
+I.- A cada uno de los responsables se les aplicarán las sanciones que procedan por las lesiones que conste hubieren inferido;
+
+II.- A todos los que hubieren atacado al ofendido con armas a propósito para inferirle las lesiones que recibió, si no constare quien o quienes le causaron las que presente o cuáles heridas le infirieron se les impondrá la sanción correspondiente a las lesiones causadas atendiendo a lo dispuesto en este capítulo;
+
+III.- A los que ataquen al ofendido con armas inadecuadas para inferirle las heridas resultantes, se les impondrá de tres días a cuatro años de prisión;
+
+IV.- Si cualquiera de las personas que participan en las lesiones obrase con premeditación, alevosía, ventaja o traición, todos serán responsables como autores de lesiones calificadas salvo el caso de que probaren que no hubo concierto previo.
 
 # LIBRO SEXTO. DE LOS BIENES MUNICIPALES
 
-## TÍTULO TERCERO
+## TITULO DUODECIMO. DELITOS CONTRA LA SEGURIDAD Y LIBERTAD SEXUALES
 
-###### Artículo 325.
+### CAPITULO I. IMPUDICIA
 
-No se podrá hacer pago alguno que no esté comprendido en el presupuesto de egresos autorizado o modificado conforme a los lineamientos que señala este Código.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-###### Artículo 326.
+### CAPITULO I. FALSIFICACION Y CIRCULACION DE TITULOS Y DOCUMENTOS DE CREDITO PUBLICO
 
-Las entidades se abstendrán de formalizar o modificar convenios, cuando dicha modificación genere una erogación mayor y no se cuente con disponibilidad presupuestal en la partida correspondiente.
+###### ARTICULO 325.
 
-###### Artículo 327.
+Si las lesiones fueren inferidas en riña, se impondrá al responsable de la tercera parte del mínimo hasta las dos terceras partes del máximo de la sanción que le correspondiera de acuerdo con los artículos anteriores. Al imponer la sanción se tomará en cuenta si el responsable fue provocado o provocador.
 
-Las entidades serán responsables de la administración de los recursos municipales y federales de que dispongan para la realización de los programas a su cargo.
+###### ARTICULO 326.
 
-###### Artículo 328.
+Si las lesiones fueren cometidas bajo alguna de las circunstancias previstas en los artículos 341, 342, 343, 344, 345, se estimarán calificadas y al responsable se le impondrá hasta una mitad más de la sanción que le corresponda.
 
-Tratándose de fondos estatales y, en su caso, federales el Ayuntamiento y las entidades ejercerán y controlarán los recursos que les sean transferidos para la realización de los programas convenidos entre el Estado o la Federación y el Municipio, de manera que se aplique la normatividad correspondiente y las disposiciones específicas para su ejercicio.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
-###### Artículo 329.
+###### ARTICULO 327.
 
-La Tesorería será responsable de llevar un padrón de sPervidores (sic) públicos autorizados para realizar y tramitar pagos con cargo a fondos públicos; para tal efecto se establecerán los criterios y los lineamientos procedentes.
+Si el ofendido fuere alguno de los parientes o personas a que se refieren los artículos 368 bis y 368 ter, en este último caso siempre y cuando cohabiten con el ofendido se aumentará la sanción que corresponda hasta en una tercera parte en su mínimo y en su máximo, con arreglo a los artículos que preceden, salvo que también se tipifique el delito de violencia familiar.
 
-Los servidores públicos que administren fondos y valores del Municipio caucionarán debidamente su manejo.
+###### ARTICULO 328.
 
-###### Artículo 330.
+Al que ejerciendo la patria potestad o la tutela infiera lesiones a los menores o pupilos que estén bajo su guarda, además de la pena correspondiente a las lesiones se le suspenderá o privará en el ejercicio de sus derechos sobre aquéllos.
 
-Tratándose de operaciones con cargo a partidas de dos o más ejercicios presupuestales, se desglosarán los montos que correspondan a cada uno de ellos.
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
-En el caso de que el Ayuntamiento y las entidades requieran efectuar erogaciones por concepto de adeudos provenientes de ejercicios anteriores, los pagos se harán conforme a los montos establecidos con cargo a las partidas de gasto que correspondan y estén previstas en el presupuesto vigente, sin que su pago implique la asignación de recursos adicionales.
+###### ARTICULO 328 Bis.
 
-La procedencia de los pagos señalados en los párrafos anteriores será verificada por los órganos de control respectivos.
+Los propietarios o poseedores de animales que causen lesiones o muerte a personas, serán responsables a título de culpa. Si fueren a consecuencia de su acción, el delito se considerará doloso.
 
-###### Artículo 331.
+### CAPITULO II. HOMICIDIO
 
-Las entidades no contraerán obligaciones que impliquen comprometer recursos de los subsecuentes ejercicios presupuestales, así como tampoco celebrarán contratos o ejecutarán proyectos de infraestructura de largo plazo, ni otorgarán concesiones, permisos, licencias y autorizaciones o cualquier otro acto de naturaleza análoga, que implique la posibilidad de algún gasto contingente o adquirir obligaciones futuras.
+###### ARTICULO 329.
 
-En casos excepcionales, debidamente justificados, el Presidente y el Síndico, previo acuerdo de Cabildo y conforme a las disposiciones legales aplicables, podrán celebrar contratos de obras públicas, adquisiciones o de otra índole que rebasen las asignaciones presupuestales aprobadas para el año. En estos casos, los compromisos excedentes serán cubiertos con la disponibilidad presupuestal de los años subsecuentes, siempre y cuando sea dentro de ese período constitucional.
+Comete el delito de homicidio el que priva de la vida a otro.
 
-Para los efectos del párrafo anterior, la Tesorería recabará los proyectos respectivos, mismos que contendrán la estimación de la cantidad total a erogar, el monto total de la operación, la justificación del gasto, el periodo de ejecución, el calendario de ministraciones e indicación de las áreas responsables de su ejercicio.
+###### ARTICULO 330.
 
-###### Artículo 332.
+Para la aplicación de las sanciones que correspondan al que infrinja el artículo anterior, se tendrá como mortal una lesión cuando concurran las siguientes circunstancias:
 
-Las entidades se sujetarán a las disposiciones legales referentes a la aprobación de su presupuesto y rendición de cuentas que se determinen en los ordenamientos que las crean, con observancia, en lo que les sea aplicable, de las disposiciones que sobre el ejercicio del gasto se detallan en este Título.
+I.- Que la muerte se deba a las alteraciones causadas por la lesión en el o los órganos interesados, algunas de sus consecuencias inmediatas o alguna complicación determinada por la misma lesión y que no pudo combatirse, ya sea por ser incurable o por no tenerse al alcance los recursos necesarios; y
 
-###### Artículo 333.
+II.- Que si se encuentra el cuerpo de la víctima, declaren peritos después de hacer la autopsia, cuando ésta sea necesario, o proceda, que la lesión causó la muerte, sujetándose para ello a las reglas contenidas en este artículo, en los dos siguientes y en el Código de Procedimientos Penales.
 
-Las entidades también reportarán en tiempo y forma a la Tesorería la información presupuestal y contable que le solicite para la integración del presupuesto y de la cuenta pública del Municipio.
+Cuando el cuerpo no se encuentre, o por otro motivo no se haga la autopsia, bastará que los peritos, en vista de los datos que obren en la causa, declaren que la muerte fue resultado de las lesiones inferidas.
 
-###### Artículo 334.
+###### ARTICULO 331.
 
-La Tesorería dará a conocer el presupuesto de egresos autorizado por el Cabildo y el calendario a las dependencias y entidades, durante los primeros cinco días del mes de enero de cada año.
+Siempre que se verifiquen las circunstancias del artículo anterior se tendrá como mortal una lesión, aunque se pruebe:
 
-###### Artículo 335.
+I.- Que se habría evitado la muerte con auxilios oportunos;
 
-Con base en el presupuesto de egresos autorizado, las dependencias y entidades harán las adecuaciones que correspondan a sus programas operativos y calendarios anuales y los presentarán a la Tesorería antes de que concluya el mes de enero de cada año.
+II.- Que la lesión no habría sido mortal en otra persona; y
 
-Se faculta a la Tesorería para elaborar los calendarios, cuando éstos no se le hubieran presentado en tiempo y forma por las dependencias y entidades.
+III.- Que lo fue a causa de la constitución física de la víctima, o de las circunstancias en que recibió la lesión.
 
-###### Artículo 336.
+###### ARTICULO 332.
 
-La Tesorería, con la supervisión de la Comisión de Hacienda, autorizará la suficiencia presupuestaria a las dependencias y entidades, conforme a la calendarización respectiva y al monto global estimado para atender los programas a ejecutar.
+No se tendrá como mortal una lesión, aunque muera el que la recibió, cuando la muerte sea resultado de una causa anterior a la lesión y sobre la cual ésta no haya influído, o cuando la lesión se hubiere agravado por causas posteriores, como la aplicación de medicamentos nocivos, operaciones quirúrgicas desgraciadas, excesos o imprudencias del paciente, o de los que lo rodearon.
 
-###### Artículo 337.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-En el ejercicio de sus presupuestos, las dependencias y entidades se sujetarán estrictamente a los calendarios de gasto que establezca la Tesorería.
+###### ARTICULO 333.
 
-Las dependencias y entidades respetarán la distribución presupuestal autorizada por la Tesorería.
+Al responsable del delito de homicidio simple intencional, se le impondrá de doce a veinte años de prisión.
 
-###### Artículo 338.
+###### ARTICULO 334.
 
-Los recursos presupuestales que no se hubieren destinado oportunamente a efectuar los pagos para los que fueron ministrados, se reintegrarán de inmediato a la Tesorería.
+Si el homicidio se comete en riña, se aplicará a su autor, si fuere el provocado, de cuatro años seis meses a seis años de prisión, y si fuere el provocador de seis a ocho años de prisión. Esta disposición sólo se aplicará cuando las circunstancias especiales del hecho justifiquen que el autor del homicidio corrió el riesgo de ser muerto o herido por su adversario.
 
-###### Artículo 339.
+###### ARTICULO 335.
 
-Los montos presupuestales no devengados y las economías presupuestales, previa autorización del Cabildo, podrán aplicarse a programas prioritarios de las dependencias y entidades que los originen, conforme a los lineamientos administrativos que al efecto expida la Tesorería.
+Cuando el homicidio se ejecute con la intervención de dos o más personas, se observarán las reglas siguientes:
 
-###### Artículo 340.
+I.- Si la víctima recibiere una o varias lesiones mortales y constare quien las infirió, sólo a éste se le impondrá la sanción de homicidio. Si no constare quién las infirió, a todos se les impondrá una sanción de cuatro a ocho años de prisión;
 
-Corresponde a las dependencias y entidades operar y controlar los fondos revolventes, los cuales se ejercerán de acuerdo a los criterios y lineamientos que emita la Tesorería.
+II.- Cuando se infieran varias lesiones todas mortales y constare quiénes fueron los responsables, se considerará a todos éstos como homicidas;
 
-Las dependencias y entidades, durante los primeros cinco días hábiles del mes de enero, cancelarán los fondos revolventes del ejercicio del año anterior de sus áreas administrativas o, en su defecto, solicitarán a éstas la reintegración total de los recursos no ejercidos.
+III.- Cuando sean varias las heridas, unas mortales y otras no, y se ignore quiénes infirieron las primeras, pero constare quiénes lesionaron, a todos se les aplicará de cuatro a ocho años de prisión, excepto a aquellos que justifiquen haber inferido sólo las segundas, a quienes se impondrá la sanción que corresponda por dichas lesiones;
 
-###### Artículo 341.
+IV.- Cuando las lesiones no fueren mortales sino por su número, y no se pueda determinar quiénes las infirieron, se les impondrá de cuatro a ocho años de prisión a todos los que hubieren atacado a la víctima con objetos a propósito para inferir las heridas que recibió; y
 
-Todas las dependencias y entidades informarán a la Tesorería, dentro de los primeros cinco días del mes de enero de cada año, el monto, estructura y características de su pasivo circulante al fin del año anterior.
+V.- Si cualquiera de las personas que participan en el homicidio obrase con premeditación, alevosía, ventaja o a traición, todos serán responsables como autores de homicidio calificado; salvo el caso de que probaren que no hubo concierto previo.
 
-###### Artículo 342.
+###### ARTICULO 336.
 
-Las ministraciones de fondos a las dependencias y entidades serán autorizadas por la Tesorería, de acuerdo con los programas y metas correspondientes.
+El homicidio es calificado cuando se comete con premeditación, ventaja, alevosía o a traición.
 
-###### Artículo 343.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-La Tesorería, previo acuerdo del Presidente y de la Comisión de Hacienda, autorizará las transferencias de un área administrativa a otra o entre conceptos y partidas de gasto, para lo cual verificará previamente:
+###### ARTICULO 337.
 
-I. Que se justifique la aplicación de los recursos solicitados, en función de la disponibilidad y el cumplimiento de las metas;
+Al autor de un homicidio calificado se le impondrá una sanción de veinte a cincuenta años de prisión.
 
-II. Que no se cuenten con recursos ociosos o aplicados en operaciones que originen rendimientos de cualquier clase;
+### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
-III. El avance programático presupuestal de los programas, subprogramas y proyectos, con el propósito de regular el ritmo de su ejecución con base en lo programado; y
+###### ARTICULO 338.
 
-IV. Que la transferencia se efectúe de una partida no prioritaria a otra que sí lo sea.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2010)
 
-###### Artículo 344.
+###### ARTICULO 339.
 
-El Presidente, por conducto de la Tesorería, previo acuerdo del Cabildo, efectuará las reducciones a los montos de los presupuestos aprobados a las dependencias y entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestales.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2010)
 
-Para los efectos del párrafo anterior, se tomarán en cuenta las circunstancias económicas y sociales que priven en el Municipio y, en su caso, la naturaleza y características particulares de operación de las dependencias y entidades.
+###### ARTICULO 340.
 
-Los ajustes y reducciones que se efectúen en observancia de lo anterior, se realizarán en forma selectiva y sin afectar las metas sustantivas del gasto social y de los principales proyectos de inversión, optando preferentemente por aquellos de menor impacto social y económico.
+Por riña se entiende el acometimiento recíproco por vías de hecho.
+
+###### ARTICULO 341.
+
+Hay premeditación cuando el acusado causa intencionalmente lesiones u homicidio, después de haber reflexionado sobre el delito que va a cometer.
+
+Se presume que existe premeditación, cuando las lesiones o el homicidio se cometa por inundación, incendio, minas, bombas o explosivos; por medio de venenos o cualquiera otra substancia nociva a la salud; por contagio venéreo, asfixia o enervantes; por retribución dada o prometida; por tormento, actos depravados o brutal ferocidad.
+
+###### ARTICULO 342.
+
+Se entiende que hay ventaja:
+
+I.- Cuando el activo sea superior en destreza física al ofendido y éste no se halle armado;
+
+II.- Cuando sea superior por las armas empleadas, por su mayor destreza en el manejo de ellas, o por el número de los que lo acompañen;
+
+III.- Cuando se valga de algún medio que debilite la defensa del pasivo; o
+
+IV.- Cuando la víctima se halle inerme o caído y el acusado armado o de pie.
+
+La ventaja no se tomará en consideración en los tres primeros casos, si el que la tiene obrase en defensa legítima, ni en el cuarto, si el que se halle armado o de pie fuera el agredido, y además, hubiere corrido peligro su vida por no aprovechar esa circunstancia.
+
+###### ARTICULO 343.
+
+Sólo será considerada ventaja como calificativa, cuando sea tal, que el activo no corra riesgo de ser muerto ni herido por el ofendido y aquél no obre en legítima defensa.
+
+###### ARTICULO 344.
+
+La alevosía consiste en sorprender intencionalmente a alguien de improviso, o empleando asechanza u otro medio que no le dé lugar a defenderse, ni evitar el mal que se le quiere hacer.
 
 ###### Art. 79.
 
@@ -4150,59 +4766,19 @@ V.- Otorgar o negar su aprobación a los nombramientos de Ministros de la Suprem
 
 VI.- Conceder licencia hasta por treinta días al Presidente de la República y nombrar el interino que supla esa falta.
 
-### CAPITULO III.
-
-DEL PODER EJECUTIVO.
+### CAPITULO II. CAUSAS DE JUSTIFICACION
 
 ###### ARTICULO 20.
 
-En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales o notario, acompañando copia de la identificación del contribuyente o representante legal, previo cotejo con su original.
-
-Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer y rendir pruebas y presentar todo tipo de instancias o promociones dentro del procedimiento administrativo que se relacione con estos propósitos.
-
-Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción inicial.
+Es culposo cuando se realiza con imprevisión, negligencia, impericia, falta de reflexión o de cuidado; asimismo, cuando habiéndose previsto el resultado, se confía en que no sucederá.
 
 ###### ARTICULO 21.
 
-Los créditos fiscales y sus accesorios se causarán y pagarán en moneda nacional. De provenir su pago por situaciones pactadas en moneda extranjera, el tipo de cambio se determinará de acuerdo al valor en que se haya adquirido ésta y de no haber existido tal adquisición, conforme al valor que rija de acuerdo a la determinación del tipo de cambio que publica el Banco de México, en el Diario Oficial de la Federación.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito, así como las transferencias electrónicas de fondos reguladas por el Banco de México. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán en los lugares y operaciones que así autorice la Secretaría de Finanzas y Tesorería General del Estado. Las transferencias electrónicas de fondos reguladas por el Banco de México, solamente se aceptarán de acuerdo a las reglas generales que fije la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
-
-Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes de acreditarse al adeudo principal, se hará a los accesorios en el siguiente orden:
-
-I.- Gastos de Ejecución.
-
-II.- Recargos.
-
-III.- Multas.
-
-IV.- La indemnización a que se refiere el penúltimo párrafo del artículo 22 de este Código.
-
-Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
-
-Para determinar las contribuciones cuyo importe sea o comprenda fracciones en pesos, se efectuarán ajustando su monto a la unidad más próxima. Tratándose de cantidades terminadas en cincuenta centavos, el ajuste se hará a la unidad inmediata inferior.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+El delito es preterintencional cuando el resultado excede la intención del agente.
 
 ###### ARTICULO 22.
 
-Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago hasta que el mismo se efectúe; además deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-Los recargos se causarán hasta por cinco años, salvo en los casos a que se refiere el artículo 67 de este Código, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal y mientras subsistan las facultades de la autoridad para determinar el crédito fiscal o para obtener su cobro mediante el procedimiento administrativo de ejecución o en su caso, mientras no se haya extinguido el derecho del particular para solicitar la devolución de cantidades pagadas indebidamente o de saldos a favor. En su cálculo se excluirán los propios recargos, la indemnización a que se refiere el cuarto párrafo de este artículo, los gastos de ejecución y las multas. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se calcularán aplicando al monto de las cantidades actualizadas la tasa que fije la Ley respectiva por todo el mes, independientemente de que no se haya vencido por completo, a partir del día siguiente al en que debió hacerse el pago y hasta que el mismo se efectúe.
-
-Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste y se exigirá independientemente de los conceptos a que se refiere el artículo anterior. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días hábiles, efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que se realizó el pago o que dicho pago no se realizó por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en el segundo párrafo de este artículo.
+Las formas de la culpabilidad serán aplicadas a los casos específicos determinados por la Ley.
 
 ###### Art. 80.
 
@@ -4352,241 +4928,103 @@ Todos los reglamentos, decretos y órdenes del Presidente deberán estar firmado
 
 Los secretarios del Despacho, luego que esté abierto el período de sesiones ordinarias, darán cuenta al Congreso, del estado que guarden sus respectivos ramos. Cualquiera de las Cámaras podrá citar a los secretarios de Estado para que informen, cuando se discuta una ley o se estudie un negocio relativo a su secretaría.
 
-### CAPITULO IV.
-
-DEL PODER JUDICIAL.
-
-(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
+### CAPITULO III. CAUSAS DE INIMPUTABILIDAD
 
 ###### ARTICULO 23.
 
-Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales. La devolución podrá hacerse de oficio o a petición del interesado. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes. Cuando la contribución se calcule por ejercicios, únicamente podrá solicitar la devolución del saldo a favor quien presentó la declaración de su ejercicio, salvo que se trate del cumplimiento de resolución o sentencia firme de autoridad competente, en cuyo caso podrá solicitarse la devolución independientemente de la presentación de la declaración.
+Cuando una disposición incluya el contenido de ilicitud de otra, subsumiéndola, se aplicará la primera.
 
-Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Cuando se solicite la devolución de una contribución estatal, deberá efectuarse dentro del plazo de dos meses contados a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, informes y documentos que señale la forma oficial respectiva, así como cualesquier otro dato o constancia que se solicite en forma particular. El fisco estatal deberá pagar la devolución que proceda actualizada conforme a lo previsto en el artículo 18 Bis de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor hasta aquél en que se pongan las cantidades a disposición del interesado. Si dentro de dicho plazo no se efectúa la devolución, el fisco deberá pagar intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código. Los intereses se calcularán sobre las cantidades actualizadas que proceda devolver, excluyendo los propios intereses y se computarán dichos intereses desde que venció el plazo hasta la fecha en que se efectúe la devolución o se pongan las cantidades a disposición del interesado.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-El contribuyente que habiendo efectuado el pago de una contribución determinada por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco estatal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código, sobre las cantidades actualizadas que se hayan pagado indebidamente y a partir de que se efectuó el pago. En caso de que en el medio de defensa interpuesto no hayan sido parte las autoridades fiscales del Estado, o no hayan sido vinculadas por la autoridad jurisdiccional, sólo se pagarán intereses en caso de que la devolución no se efectúe dentro del plazo de dos meses contados a partir de que se presentó la solicitud o se giró la orden por la autoridad jurisdiccional, únicamente por el tiempo que transcurra después del citado plazo de dos meses. En los casos a que se refiere este párrafo el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Las autoridades fiscales, para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor de quince días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que considere necesarios y que estén relacionados con la misma. Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de quince días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. Cuando la autoridad requiera al contribuyente los datos, informes o documentos antes señalados, el período transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación de los plazos para la devolución antes mencionados. No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes y documentos a que se refiere este párrafo, pudiendo ejercerlas en cualquier momento.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-Cuando las autoridades fiscales procedan a la devolución de cantidades señaladas como saldo a favor en las declaraciones presentadas por los contribuyentes, sin que medie más trámite que la simple comprobación de que se efectuaron los pagos de contribuciones que el contribuyente declara haber hecho, la orden de devolución no implicará resolución favorable al contribuyente. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 22 de este Código, sobre las cantidades actualizadas devueltas indebidamente y los posibles intereses pagados por las autoridades fiscales, a partir de la fecha de la devolución.
-
-La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+La norma especial prevalece sobre la general.
 
 ###### ARTICULO 24.
 
-Los contribuyentes obligados a pagar mediante declaración podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación en la declaración respectiva. Si las cantidades que tengan a su favor los contribuyentes derivan de contribuciones distintas o de otros créditos, sólo se podrán compensar previa autorización expresa de las autoridades fiscales.
-
-Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del Artículo 22 de este Código, sobre las cantidades compensadas indebidamente y a partir de la fecha de la compensación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes tengan derecho a recibir de las autoridades fiscales por cualquier concepto, en los términos de lo dispuesto en el artículo 23 de este Código, aún en el caso de que la devolución hubiera sido o no solicitada, contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando estos hayan quedado firmes por cualquier causa o cuando el derecho a la devolución provenga de sentencia ejecutoriada que no extinga el adeudo fiscal a cargo del contribuyente. La compensación también se podrá aplicar contra créditos fiscales cuyo pago se haya autorizado a plazos; en este último caso, la compensación deberá realizarse sobre el saldo insoluto al momento de efectuarse dicha compensación. Las autoridades fiscales notificarán personalmente al contribuyente la resolución que determine la compensación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-Cuando el Estado y los particulares reúnan la calidad de acreedores y deudores recíprocos, mediante convenio, se podrán compensar créditos fiscales con adeudos de carácter civil, mercantil o de otra naturaleza.
-
-No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación para devolverlas.
-
-Para los efectos de este Código se entenderá como una misma contribución cuando se trata del mismo impuesto, derecho o contribución especial.
+Hay concurso real, cuando, con pluralidad de conductas, se cometen varios delitos.
 
 ###### ARTICULO 25.
 
-La compensación entre el Estado por una parte y la Federación, demás Entidades federativas o municipios, así como organismos descentralizados o empresas de participación estatal por la otra, podrá operar respecto a cualquier clase de créditos o deudas, previo acuerdo que celebren.
+Hay concurso ideal o formal, cuando, con una sola conducta, se cometen varios delitos.
 
 ###### ARTICULO 26.
 
-Los contribuyentes obligados a pagar mediante declaración periódica podrán acreditar el importe de los estímulos fiscales a que tengan derecho, contra las cantidades que están obligados a pagar, siempre que presenten aviso ante las autoridades competentes en materia de estímulos fiscales y, en su caso, cumplan con los demás requisitos formales que se establezcan en las disposiciones que otorguen los estímulos.
-
-Los contribuyentes podrán acreditar el importe de los estímulos a que tengan derecho, a más tardar en un plazo de cinco años contados a partir del último día en que venza el plazo para presentar la declaración del ejercicio en que nació el derecho a obtener el estímulo; si el contribuyente no tiene obligación de presentar declaración del ejercicio, el plazo contará a partir del día siguiente a aquel en que nazca el derecho a obtener el estímulo.
-
-En los casos en que las disposiciones que otorguen los estímulos establezcan la obligación de cumplir con requisitos formales adicionales al aviso a que se refiere el primer párrafo de este artículo, se entenderá que nace el derecho para obtener el estímulo, a partir del día en que se obtenga la autorización o el documento respectivo.
-
-Cuando los contribuyentes acrediten cantidades por concepto de estímulos fiscales a los que no tuvieran derecho, se causarán recargos en los términos del Artículo 22 de este Código, sobre las cantidades acreditadas indebidamente y a partir de la fecha del acreditamiento.
+No hay concurso cuando las conductas constituyan un delito continuado.
 
 ###### ARTICULO 27.
 
-Son responsables solidarios con los contribuyentes:
-
-I.- Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar contribuciones a cargo de los contribuyentes, hasta por el monto de dichas contribuciones.
-
-II.- Las personas que estén obligadas a efectuar pagos provisionales por cuenta del contribuyente, hasta por el monto de estos pagos.
-
-> <small>(REFORMADA [N. DE. E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-III.- Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-La persona o personas, cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las sociedades mercantiles, serán responsables solidarios por las contribuciones causadas o no retenidas por dichas sociedades durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la sociedad que dirigen, cuando dicha sociedad incurra en cualesquiera de los siguientes supuestos:
-
-A).- No solicite su inscripción en el registro estatal de contribuyentes.
-
-B).- Cambie su domicilio sin presentar el aviso correspondiente en los términos de este Código, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio de una visita y antes de que se haya notificado la resolución que se dicte respecto de la misma, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos.
-
-C).- No lleve contabilidad o la lleve en forma incompleta, la oculte o la destruya, parcial o totalmente.
-
-D).- No cubra los créditos fiscales dentro de los términos legales, tratándose de sociedades que no tengan las obligaciones a que se refieren los incisos A), B) y C), respecto del crédito que se adeuda.
-
-IV.- Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del valor de la misma.
-
-V.- Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades en el Estado, por las que deban pagarse contribuciones hasta por el monto de dichas contribuciones.
-
-VI.- Quienes ejerzan, la patria potestad o la tutela, por las contribuciones a cargo de su representado.
-
-VII.- Los legatarios y los donatarios a título particular respecto de las obligaciones fiscales que se hubieren causado en relación con los bienes legados o donados, hasta por el monto de éstos.
-
-VIII.- Quienes manifiesten su voluntad de asumir responsabilidad solidaria.
-
-IX.- Los terceros que para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado.
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-X.- Las sociedades escindidas, por las contribuciones causadas en relación con la transmisión de los activos, pasivos y de capitales transmitidos por la escindente, así como por las contribuciones causadas por esta última con anterioridad a la escisión, sin que la responsabilidad exceda del valor del capital de cada una de ellas al momento de la escisión.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por actos u omisiones propios.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-Para efectos del impuesto sobre nóminas a que se refiere la Ley de Hacienda del Estado, son responsables solidarios del pago de dicho impuesto quienes contraten o reciban la prestación del trabajo personal subordinado, no obstante que el pago de las remuneraciones se realice por conducto de terceros.
+La tentativa es punible cuando se ejecuta una conducta idónea encaminada directa e inmediatamente a la realización de un delito, si éste no se consuma por causas ajenas a la voluntad del agente.
 
 ###### ARTICULO 28.
 
-Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas, deberán solicitar si procediere, su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas y Tesorería General del Estado y dar, en su caso, los siguientes avisos:
-
-I.- Cambio de nombre, denominación o razón social.
-
-II.- Cambio de domicilio.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-III.- Alta, cambio, suspensión o baja de obligaciones fiscales.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-IV.- Liquidación, fusión o escisión.
-
-V.- Cancelación en el Registro de Contribuyentes.
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-VI.- Aumento o disminución de obligaciones fiscales.
-
-Asimismo, presentarán aviso de cambio de la actividad preponderante o sobre la apertura o cierre de establecimientos o de locales que se utilicen como base tipo para el desempeño de sus servicios.
-
-Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar actas constitutivas, de fusión o de liquidación, de personas morales, que comprueben dentro del mes siguiente a la firma que han presentado solicitud de inscripción, o aviso de liquidación o de cancelación, según sea el caso, en el Registro de Contribuyentes, de la persona moral de que se trate, debiendo asentar en su protocolo la fecha de su presentación; en caso contrario, el fedatario deberá informar de dicha omisión a la Secretaría de Finanzas y Tesorería General del Estado dentro del mes siguiente a la autorización de la Escritura.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-La Secretaría de Finanzas y Tesorería General del Estado llevará registros de contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo y en los que la propia Secretaría obtenga por cualquier otro medio; asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que la Secretaría de Finanzas y Tesorería General del Estado sea parte. Las personas inscritas deberán conservar en su domicilio fiscal la documentación comprobatoria de haber cumplido con las obligaciones que establece este artículo, hasta por el término de cinco años posteriores a la fecha en que hubiere ocurrido la baja o la extinción de la obligación fiscal correspondiente.
+No será sancionado el que desistiere voluntariamente de la ejecución del delito; sin embargo, responderá de los delitos consumados en la preparación y ejecución del delito tentado.
 
 ###### ARTICULO 29.
 
-Las personas que de acuerdo con las disposiciones fiscales estén obligadas a llevar contabilidad, deberán observar las siguientes reglas:
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-I.- Llevarán los sistemas y registros contables que se requieran conforme a la naturaleza de la contribución a pagar.
-
-II.- Los asientos en la contabilidad serán analíticos y deberán efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas.
-
-III.- Llevarán la contabilidad en el domicilio que para efectos fiscales señale, en los términos del Artículo 11 de este Código.
-
-Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, ésta deberá continuar llevando su contabilidad cumpliendo con los requisitos respectivos.
-
-Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que lleven los contribuyentes aún cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
-
-En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la Fracción I de este artículo, por los registros, cuentas especiales, libros y registros sociales, señalados en el párrafo precedente, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
+Siendo varios los que participan en el hecho, no se castigará por tentativa a quien voluntariamente impidiere la consumación del delito.
 
 ###### ARTICULO 30.
 
-Los comprobantes que se deben extender a las personas que adquieran bienes o usen servicios contendrán el nombre, denominación o razón social, domicilio fiscal y clave de registro de contribuyentes de quien lo expida; folio, lugar, valor y fecha de expedición; cantidad y clase de mercancía o descripción del servicio.
+No se aplicará la pena correspondiente a la tentativa, cuando fuera absolutamente imposible la consumación del delito.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 31.
 
-Las personas obligadas a llevar contabilidad deberán conservarlas en el lugar a que se refiere la Fracción III del Artículo 29 de este Código a disposición de las autoridades fiscales.
+La ausencia de conducta y la atipicidad excluyen el delito.
 
-Las personas que no estén obligadas a llevar contabilidad deberán conservar en su domicilio a disposición de las autoridades, toda documentación relacionada con el cumplimiento de las disposiciones fiscales.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-La documentación a que se refiere el párrafo anterior de este artículo y la contabilidad, deberán conservarse durante cinco años contados a partir de la fecha en que se presentaron o debieron presentarse las declaraciones con ellas relacionadas. Tratándose de documentación correspondiente a actos cuyos efectos fiscales se prolonguen en el tiempo, el plazo de cinco años comenzará a computarse a partir del día en que se presente la declaración del último ejercicio en que se hayan producido dichos efectos. La documentación correspondiente a aquellos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, se conservarán durante un plazo de cinco años computado a partir de la fecha en que quede firme la resolución que les ponga fin.
+###### ARTICULO 31 Bis.
 
-Cuando al inicio de una visita domiciliaria los contribuyentes hubieran omitido asentar registros en su contabilidad dentro de los plazos establecidos en las disposiciones fiscales, dichos registros sólo podrán efectuarse después de que la omisión correspondiente haya sido asentada en acta parcial; ésta obligación subsiste inclusive cuando las autoridades hubieran designado un depositario distinto del contribuyente, siempre que la contabilidad permanezca en alguno de sus establecimientos. El contribuyente deberá seguir llevando su contabilidad independientemente de lo dispuesto en este párrafo.
+No habrá conducta punible:
+
+I.- Si se obra impulsado por una fuerza física exterior irresistible; y
+
+II.- Si se causa un daño por mero accidente, sin dolo ni culpa, ejecutando un hecho lícito con todas las precauciones debidas.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 31 Ter.
+
+Existe atipicidad cuando la acción u omisión no se adecue exactamente a la descripción legal del delito.
 
 ###### ARTICULO 32.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes, declaraciones o avisos, ante las autoridades fiscales, así como de expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Finanzas y Tesorería General del Estado, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos, que dichas formas requieran.
+Son causas de justificación:
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+I.- Obrar en defensa de bienes jurídicos propios o ajenos, repeliendo una agresión real, violenta, actual, sin derecho y de la cual resulte un peligro inminente, a no ser que se pruebe que intervino alguna de las circunstancias siguientes:
 
-En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaría de Finanzas y Tesorería General del Estado, los obligados a presentarlas las formularán en escrito por cuadruplicado que contenga su nombre, domicilio y clave de registro de contribuyentes, así como el ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+PRIMERA:- Que el agredido provocó la agresión, dando causa inmediata y suficiente para ella.
 
-Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, las seguirán presentando aún cuando no haya pago a efectuar.
+SEGUNDA:- Que previó la agresión y pudo fácilmente evitarla por otros medios legales.
 
-Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones en el Estado, están obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales.
+TERCERA:- Que no hubo necesidad racional del medio empleado en la defensa; y
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+CUARTA.- Que el daño que iba a causar el agresor, era fácilmente reparable después por medios legales o era notoriamente de poca importancia comparado con el que causó la defensa.
 
-Las declaraciones, avisos, solicitudes de inscripción en el registro de contribuyentes y demás documentos que exijan las disposiciones fiscales, se presentarán en las oficinas que al efecto autorice la Secretaría de Finanzas y Tesorería General del Estado. También podrán enviarse por medio del servicio postal en pieza certificada en los casos en que la propia Secretaría lo autorice, conforme a las reglas generales que al efecto expida; en este último caso se tendrá como fecha de presentación la del día en que se haga la entrega a las oficinas de correos.
+Se presumirá que concurren los requisitos de la legítima defensa, salvo prueba en contrario, respecto de aquél que cause un daño a quien a través de la violencia, del escalamiento o por cualquier otro medio, trate de penetrar, sin derecho, a su hogar, al de su familia, a sus dependencias o a los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes propios o ajenos respecto de los que tenga la misma obligación; o bien, lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la posibilidad de una agresión.
 
-Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Unicamente se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, su clave de registro federal de contribuyentes, su número de registro estatal, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+II.- La necesidad de salvaguardar un bien jurídico propio o ajeno de un peligro real, grave, actual o inminente, y no previsto por el agente, siempre que no exista otro medio practicable y menos perjudicial y el bien sacrificado sea de menor jerarquía que el protegido.
+
+No se considerará que obra en estado de necesidad, aquél que por su empleo o cargo tenga el deber legal de afrontar el peligro.
+
+III.- Obrar en cumplimiento de un deber o en el ejercicio de un derecho consignados expresamente en la ley.
+
+IV.- Contravenir lo dispuesto en una Ley Penal, dejando de hacer lo que manda, por un impedimento legítimo.
+
+V.- Obedecer a un superior legítimo en el orden jerárquico, aun cuando su mandato constituya un delito, si esta circunstancia no es notoria y no se prueba que la conocía ni la podía prever racionalmente.
+
+VI.- (DEROGADA, P.O. 22 DE JUNIO DE 1988)
+
+VII.- Obrar por error substancial e invencible de hecho que no derive de culpa.
 
 ###### ARTICULO 33.
 
-Las personas obligadas a presentar declaraciones tienen el derecho de presentar declaraciones complementarias sustituyendo los datos de la original. Este derecho puede ser ejercido dentro de los cinco años siguientes a la fecha en que se hubiera presentado la original.
+No se justifica el hecho, ni se disminuye la sanción, cuando, por error o accidente, en el golpe o en la persona, se realice una conducta punible, por lo que será considerado de acuerdo con las circunstancias en que fue cometido.
 
-Cuando se inicie el ejercicio de facultades de comprobación, únicamente se podrá presentar declaración complementaria en las formas especiales a que se refieren los artículos 58 y 76 de este Código, según proceda, debiéndose pagar las multas que establece el citado Artículo 76.
-
-Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del Artículo 22 de este Código, a partir de la fecha en que se debió hacer el pago.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-### CAPITULO III
+### CAPITULO IV. CAUSAS DE INCULPABILIDAD
 
 ###### ARTICULO 34.
 
-Son autoridades fiscales del Estado para los efectos de este Código y demás leyes fiscales vigentes:
-
-I.- El Gobernador del Estado.
-
-II.- El Secretario de Finanzas y Tesorero General del Estado.
-
-III.- Los titulares de las dependencias administrativas de la Secretaría de Finanzas y Tesorería General del Estado.
-
-IV.- Los jefes o encargados de las oficinas recaudadoras.
-
-V.- Los Presidentes y Tesoreros Municipales, así como los Directores, Jefes o Recaudadores de las Tesorerías Municipales.
-
-VI.- Los funcionarios federales, estatales y municipales, cuando los convenios celebrados así lo establezcan.
-
-VII.- Quienes conforme a las disposiciones Estatales o Municipales, tengan facultades para administrar contribuciones.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-VIII.- El Director del Instituto de Control Vehicular, así como los titulares de las unidades administrativas y los jefes o encargados de las oficinas recaudadoras del propio Instituto.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-Para el ejercicio de sus facultades, las autoridades fiscales del Estado tendrán competencia en todo el territorio del Estado de Nuevo León y tratándose de autoridades municipales en su respectiva circunscripción territorial y en su caso en los términos de los convenios de coordinación fiscal que tengan celebrados.
+El que se exceda en el caso de legítima defensa, por intervenir la tercera o cuarta circunstancia enumeradas en la fracción I del artículo 32, será sancionado como delincuente por imprudencia.
 
 ###### Art. 94.
 
@@ -4828,9 +5266,7 @@ También será consignado a la autoridad o Agente de ella, el que, realizada una
 
 Si la detención se verificare fuera del lugar en que reside el juez, al término mencionado se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y el en que se efectuó la detención.
 
-## TITULO CUARTO.
-
-DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS.
+## TITULO CUARTO. DE LAS PERSONAS RESPONSABLES DE DELITOS
 
 ###### Art. 108.
 
@@ -4882,11 +5318,7 @@ La responsabilidad por delitos y faltas oficiales, sólo podrá exigirse durante
 
 En demandas del orden civil, no hay fuero ni inmunidad para ningún funcionario público.
 
-## TITULO QUINTO.
-
-DE LOS ESTADOS DE LA FEDERACION.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE OCTUBRE DE 1953)</small>
+## TITULO QUINTO. DE LAS SANCIONES
 
 ###### Art. 115.
 
@@ -5018,283 +5450,285 @@ V.- Los títulos profesionales expedidos por las autoridades de un Estado, con s
 
 Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda invasión o violencia exterior. En cada caso de sublevación o trastorno interior, les prestarán igual protección, siempre que sean excitados por la Legislatura del Estado o por su Ejecutivo, si aquélla no estuviere reunida.
 
-## TITULO SEXTO.
+## TITULO SEXTO. DE LA APLICACION DE LAS SANCIONES
 
-DEL TRABAJO Y DE LA PREVISION SOCIAL.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE SEPTIEMBRE DE 1929)</small>
-
-### CAPITULO IV
+### CAPITULO I. AUTORES O PARTICIPES
 
 ###### ARTICULO 35.
 
-Las autoridades fiscales proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
+Se considera inimputable:
 
-I.- Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnisismos (sic) y en los casos en que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-II.- Mantener oficinas en diversos lugares del Estado que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones.
+I.- El menor de dieciocho años;
 
-III.- Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes y en su caso distribuirlos con oportunidad, e informar de las fechas y lugares de presentación de los que se consideren de mayor importancia.
+II.- Quien en el momento de la realización de la conducta, por causa de locura u oligofrenia, o por ser sordomudo, carezca de la capacidad de comprender el carácter ilícito del hecho o de determinarse de acuerdo con esa comprensión;
 
-IV.- Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales.
+III.- Quien, en el momento de la acción u omisión, se halle en un estado de inconsciencia de sus actos, determinado por el empleo accidental e involuntario de substancias tóxicas, embriagantes, estupefacientes o por un estado toxinfeccioso agudo o por un trastorno mental involuntario de carácter patológico y transitorio, a menos que la perturbación de la conciencia hubiere sido provocada por el agente para facilitar la realización del hecho o procurarse una excusa, en cuyo caso la sanción se agravará hasta un tercio más de la que el juez hubiere impuesto de no mediar estos factores.
 
-V.- Efectuar en distintas partes del Estado reuniones de información con los contribuyentes y recaudadores, especialmente cuando se modifiquen las disposiciones fiscales y durante los principales períodos de presentación de declaraciones.
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-VI.- Publicar las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a períodos inferiores a un año.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+Tratándose de personas de entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por este Código o las leyes del Estado, les serán aplicables las disposiciones de la ley estatal especial reglamentaria del Sistema Integral de Justicia para Adolescentes, en los términos de lo dispuesto por los párrafos cuarto, quinto y sexto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 36.
 
-Las autoridades fiscales sólo están obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente; de su resolución favorable se derivan derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito por autoridad competente para ello.
+Si el procesado enloquece durante el procedimiento, se estará a lo dispuesto por el Código Procesal Penal.
 
 ###### ARTICULO 37.
 
-Los funcionarios fiscales facultados debidamente, podrán dar a conocer a las diversas dependencias el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Periódico Oficial del Estado.
+No es culpable:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+I.- El que obrare con miedo grave o por temor fundado e irresistible de un mal inminente y grave. No favorecerá lo anterior a quien por su empleo o cargo tenga el deber legal de afrontar el peligro.
+
+II.- El que obrare en la creencia errada e invencible de que su conducta no está sancionada.
+
+III.- El que obrare bajo la creencia errada e invencible de que no concurre en el hecho alguna de las exigencias necesarias para que el delito exista, según su descripción legal.
+
+IV.- El que obrare por la necesidad de salvar un bien jurídico propio o ajeno de un peligro real, grave, actual o inminente, no ocasionado intencionalmente o por grave imprudencia por el agente, dañando otro bien jurídico de igual jerarquía, siempre que no exista otro medio practicable y menos perjudicial a su alcance y no se tuviere el deber jurídico de afrontarlo.
+
+V.- El que realice un hecho que no es delictuoso sino por circunstancia del ofendido, si el acusado las ignoraba inculpablemente al tiempo de obrar.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 38.
 
-Las resoluciones administrativas de carácter individual favorables a un particular, sólo podrán ser modificadas por el Tribunal de Justicia Administrativa del Estado mediante juicio iniciado por las autoridades fiscales.
+Las causas que excluyen el delito y las causas que excluyen la responsabilidad penal comprendidas en éste título, se harán valer de oficio.
 
-Cuando la Secretaría de Finanzas y Tesorería General del Estado modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, y podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, y sin que haya prescrito el crédito fiscal.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicten las autoridades fiscales al respecto no podrán ser impugnadas por los contribuyentes.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-### CAPITULO V
+### CAPITULO II. REINCIDENCIA Y HABITUALIDAD
 
 ###### ARTICULO 39.
 
-Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en un plazo de sesenta días; transcurrido dicho plazo sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se notifique la resolución, o bien, esperar a que ésta se notifique.
+Son responsables de la comisión de un delito:
+
+I.- Los autores intelectuales y los que tomen parte directa en la preparación o ejecución del mismo;
+
+II.- Los que inducen o compelen a otros a cometerlos;
+
+III.- Los que cooperen o auxilien en su ejecución, ya sea por conducta anterior o simultánea; y
+
+IV.- Los que, por acuerdo previo, auxilien a los delincuentes, después de que éstos realicen los actos u omisiones constitutivos de delitos.
 
 ###### ARTICULO 40.
 
-Los actos administrativos que se deban notificar deberán tener por lo menos los siguientes requisitos:
+Si varias personas por acuerdo previo toman parte en la realización de un hecho punible determinado, y alguna de ellas realiza uno distinto, todos serán responsables de la comisión del nuevo delito, salvo que concurran las circunstancias siguientes:
 
-> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2019)</small>
+I.- Que el nuevo delito no sirva como medio adecuado para cometer el principal;
 
-I.- Constar por escrito en documento impreso o digital.
+II.- Que aquél no sea consecuencia necesaria o natural de éste o de los medios concertados;
 
-> <small>(ADICIONADO P.O. 30 DE DICIEMBRE DE 2019)</small>
+III.- Que no hayan sabido antes que se iba a cometer el nuevo delito; y
 
-Tratándose de actos administrativos que consten en documentos digitales la notificación personal se hará por medios electrónicos y con la firma electrónica avanzada del funcionario competente.
-
-II.- Señalar la autoridad que lo emite.
-
-III.- Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate;
-
-IV.- Ostentar la firma del funcionario competente y, en su caso, el nombre o nombres de las personas a las que se envíe. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
-
-Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria, se señalará, además la causa legal de la responsabilidad.
-
-> <small>(ADICIONADO P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-Para la emisión y regulación de los documentos digitales, de la firma electrónica avanzada de los funcionarios pertenecientes a la Secretaría de Finanzas y Tesorería General del Estado y demás autoridades fiscales y, para la notificación por medios electrónicos serán aplicables las disposiciones previstas en la Ley Sobre Gobierno Electrónico y Fomento al Uso de las Tecnologías de la Información del Estado y demás leyes aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+IV.- Que no hayan estado presentes en la ejecución del nuevo delito, o que, habiéndolo estado, hayan hecho cuanto estaba de su parte para impedirlo.
 
 ###### ARTICULO 41.
 
-El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Tesorería General del Estado, mediante resolución podrá:
+Las calidades o relaciones personales y los demás elementos de carácter subjetivo, integrantes de la descripción legal del hecho, que concurrieran en algunos, de quienes lo han realizado, aprovecharán o perjudicarán a los demás autores y partícipes que hubieren tenido conocimiento de ellos. Si no lo hubieran conocido, sufrirán las penas del delito previsto.
 
-I.- Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
+Las calidades o relaciones personales y los demás elementos de carácter subjetivo, no integrantes de la descripción legal, sólo influirán en la responsabilidad de aquellos en quienes concurran.
 
-II.- Dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos señalados en las leyes fiscales, sin variar las disposiciones relacionadas con el sujeto, objeto, la base, la cuota, la tasa o la tarifa de los gravámenes, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
+### CAPITULO I. PENAS
 
-III.- Conceder subsidios o estímulos fiscales.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-Las resoluciones que conforme a este artículo se dicten, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2017)</small>
-
-### CAPITULO VI
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 42.
 
-Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, éstas podrán indistinta o conjuntamente:
-
-I.- Solicitar el auxilio de la fuerza pública.
-
-II.- Imponer la multa que corresponda en los términos de este Código.
-
-III.- (DEROGADA, P.O. 3 DE FEBRERO DE 2017)
-
-IV.- Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente.
-
-> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 3 DE FEBRERO DE 2017)</small>
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
-
-No se aplicarán medidas de apremio cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, manifiesten por escrito a la autoridad, que se encuentran impedidos de atender completa o parcialmente la solicitud realizada por causa de fuerza mayor o caso fortuito, y lo acrediten exhibiendo las pruebas correspondientes.
-
-ARTICULO 42 BIS.- (DEROGADO, P.O. 3 DE FEBRERO DE 2017)
+Hay reincidencia, siempre que el sancionado por sentencia firme, dictada por cualquier tribunal de la República o del extranjero, cometa un nuevo delito si no ha transcurrido desde el cumplimiento de la sanción, un término igual al de la prescripción de la misma, salvo las excepciones fijadas en la Ley.
 
 ###### ARTICULO 43.
 
-Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
-
-I.- Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, ya sea provisional o del ejercicio, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
-
-Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la propia autoridad fiscal podrá hacer efectiva al contribuyente, con carácter provisional, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
-
-Si el contribuyente o responsable solidario presenta la declaración omitida antes de que se le haga efectiva la cantidad resultante conforme a lo previsto en esta fracción, queda liberado de hacer el pago determinado provisionalmente. Si la declaración se presenta después de haberse efectuado el pago provisional determinado por la autoridad, éste se ajustará conforme al importe que se tenga que pagar con la declaración que se presente.
-
-II.- Embargar precautoriamente los bienes o la negociación cuando el contribuyente haya omitido presentar declaraciones en los últimos tres ejercicios o cuando no atienda tres requerimientos de la autoridad en los términos de la fracción III de este Artículo por una misma omisión. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento o dos meses después de practicado si no obstante el incumplimiento, las autoridades fiscales no inician el ejercicio de sus facultades de comprobación.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-III.- Imponer la multa que corresponda en los términos de este código y requerir la presentación del documento omitido en un plazo de seis días. Si no se atiende el requerimiento se impondrá multa por cada requerimiento no atendido. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
-
-En el caso de la fracción III y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
+Se considera delincuente habitual al reincidente que, en un período no superior a diez años, haya sido condenado por tres o más delitos dolosos del mismo género, cuando la naturaleza y modalidad de los hechos cometidos, los motivos determinantes, las condiciones personales y el modo de vida llevado por el agente, demostraren en él una tendencia persistente al delito.
 
 ###### ARTICULO 44.
 
-La Secretaría de Finanzas y Tesorería General del Estado a fin de comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales, estará facultada para:
+Para determinar la reincidencia y la habitualidad no se tomará en cuenta:
 
-I.- Rectificar los errores aritméticos que aparezcan en las declaraciones.
+I.- Los delitos contra la seguridad del Estado;
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+II.- La sentencia condenatoria firme, dictada por cualquier tribunal de la República o del extranjero, siempre y cuando el hecho que motivó dicha sentencia no fuera delito según la Ley de Tamaulipas;
 
-II.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, su contabilidad para efectos de su revisión, así como proporcionar los datos, documentos o informes que se les requieran.
-
-III.- Practicar visitas a los contribuyentes, los responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías.
-
-IV.- Revisar los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y su relación con el cumplimiento de disposiciones fiscales.
-
-V.- Practicar u ordenar se practique avalúo o verificación física de toda clase de bienes, incluso durante su transporte.
-
-VI.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones.
-
-VII.- Allegarse las pruebas necesarias para formular la denuncia, querella o declaratoria al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practique la Secretaría de Finanzas y Tesorería General del Estado tendrán el mismo valor probatorio que la Ley relativa concede a las actas de la policía judicial; y la propia Secretaría, a través de los abogados que designe, será coadyuvante del ministerio público, en los términos del Código de Procedimientos Penales vigente en el Estado.
-
-VIII.- (DEROGADA, P.O. 3 DE FEBRERO DE 2017)
-
-Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
+III.- La condena anterior por delito doloso, cuando el nuevo hecho fuere culposo o viceversa. Lo mismo se observará si ambos fueran culposos.
 
 ###### ARTICULO 45.
 
-En la orden de visita, además de los requisitos a que se refiere el artículo 40 de este Código, se deberá indicar:
+Las penas aplicables por la comisión de delitos a quienes han cumplido al momento del hecho delictivo dieciocho o más años de edad son:
 
-I.- El lugar o lugares donde debe efectuarse la visita.
+a).- Prisión;
 
-II.- El nombre de la persona o personas que deban efectuar la visita las cuales podrán ser sustituidas, aumentadas o reducidas en su número, en cualquier tiempo por la autoridad competente. La sustitución o aumento de las personas que deban efectuar la visita se notificará al visitado.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente.
+b).- Prisión intermitente;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+c).- Trabajo en favor de la comunidad;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+d).- Régimen especial en libertad;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+e).- Sanción Pecuniaria;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+f).- Inhabilitación, suspensión y privación de derechos;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+g).- Caución de no ofender;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+h).- Amonestación;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+i).- Apercibimiento;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+j).- Publicación especial de sentencia;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+k).- Confinamiento;
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+l).- Suspensión, disolución o intervención de sociedades o prohibiciones de realizar determinados actos;
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+m).- Pérdida de los instrumentos, objetos y producto del delito;
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+n).- Confiscación de cosas peligrosas o nocivas;
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+o).- Decomiso de bienes correspondientes al enriquecimiento ilícito;
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+p).- Las demás que fijen las leyes.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+Las penas señaladas en los incisos b), c), y d) tienen también la naturaleza de alternativas a la de prisión y podrán decretarse conjunta o separadamente con las medidas de seguridad a que se refieren los artículos 66 a 68 y la fracción IV del 108 de este Código, según lo determine la Ley o el Juez.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 46.
 
-En los casos de visita en el domicilio fiscal, las autoridades fiscales, los visitados, responsables solidarios y los terceros estarán a lo siguiente:
+La pena de prisión consiste en la privación de la libertad corporal del sentenciado, desde tres días hasta cincuenta años. Esta pena se cumplirá y se entiende impuesta bajo la normatividad y con las modalidades que, para su aplicación, se establecen en este Código y en la Ley para la Prevención de Conductas Antisociales, Auxilio a las Víctimas, Medidas Tutelares y Readaptación Social para el Estado de Tamaulipas, con la finalidad de ejercer sobre el condenado una acción readaptadora.
 
-I.- La visita se realizará en el lugar o lugares señalados en la orden de visita.
+En toda pena de prisión que se imponga por sentencia, se computará el tiempo de la detención preventiva.
 
-II.- Si al presentarse los visitadores al lugar en donde debe practicarse la diligencia, no estuviere el visitado o su representante dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la vista se iniciará con quien se encuentre en el lugar visitado.
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
-En este caso, los visitadores al dejar dicho citatorio, podrán hacer una relación de los libros y documentos que integren la contabilidad.
+ARTICULO 46 BIS.- Las penas sustitutivas de prisión tienen por objeto la aplicación de medidas temporales privativas y restrictivas de la libertad, laborales, educativas y curativas autorizadas por la Ley, conducentes a la readaptación social del condenado, bajo la orientación y cuidado de la autoridad ejecutora, y son las siguientes:
 
-Cuando exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
+I.- La prisión intermitente, que consiste en la alternación de períodos de libertad y privación de la misma, según los casos, en las formas siguientes:
 
-III.- Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la visita.
+a).- Excarcelación durante la semana y reclusión los días sábado y domingo de la misma;
 
-Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, porque se ausenten antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo, en tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita.
+b).- Salida los días sábado y domingo, con reclusión durante el resto de la semana;
 
-IV.- Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes, para que continúen una visita iniciada por aquéllas notificando al visitado la sustitución de autoridad y de visitadores. Podrán también solicitarles practiquen otras visitas para comprobar hechos relacionados con la que estén practicando.
+c).- Salida diurna con reclusión nocturna; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+d).- Salida nocturna con reclusión diurna.
+
+(REFORMADO, P.O. 10 DE JULIO DE 2003) (F. DE E., P.O. 15 DE JULIO 2003)
+
+Quienes cumplan prisión intermitente, en los periodos que deban internarse permanecerán separados de los demás sentenciados. El incumplimiento de está obligación será materia responsabilidad.
+
+(REFORMADA, P.O. 10 DE JULIO DE 2003) (F. DE E., P.O. 15 DE JULIO 2003)
+
+II.- El trabajo en favor de la comunidad, que consiste en la prestación de servicios no remunerados, en instituciones públicas o privadas, si estas últimas son asistenciales, educativas o no lucrativas. Sin perjuicio de las facultades del juez, este trabajo se llevará a cabo bajo la orientación y vigilancia de la dependencia del Ejecutivo encargada de la ejecución de la pena privativa de libertad, en jornadas distintas al horario de labores que represente la fuente de ingresos para la subsistencia del sentenciado y de su familia, sin exceder de la jornada extraordinaria que establece el artículo 66 de la Ley Federal del Trabajo.
+
+El trabajo en favor de la comunidad puede ser pena sustitutiva de la prisión o de la multa. Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
+
+Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante al condenado.
+
+III.- El régimen especial en libertad, que consiste en la aplicación de una o varias de las sanciones establecidas en los incisos f) y k) del artículo 45 de este Código.
+
+La duración de las penas sustitutivas no podrán exceder de la correspondiente a la pena de prisión sustituida. En todo caso en que proceda la substitución de la pena, al hacerse el cálculo de la sanción sustitutiva se disminuirá el tiempo durante el cual el sentenciado sufrió prisión preventiva.
 
 ###### ARTICULO 47.
 
-Los visitados, sus representantes, o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores, el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás medios que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales, se certifiquen por éstos, estando obligados también a permitir la verificación de bienes y mercancías, relacionadas con la visita.
+La sanción pecuniaria comprende la multa y la reparación del daño, y será considerada como pena pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-Cuando se dé alguno de los supuestos que a continuación se enumeran, los visitadores podrán asegurar la contabilidad y demás datos, documentos o registros, papeles, discos, cintas o cualquier otro medio procesable de almacenamiento de datos, relacionados con el cumplimiento de las disposiciones fiscales:
+La multa consiste en el pago que se haga al Estado de una suma de dinero y será determinada por los tribunales judiciales. Se fijará por días de salario, desde uno hasta diez mil, sin que pueda exceder de esta última cantidad. Su importe se calculará teniendo como base el salario mínimo general en la capital del Estado y en la fecha de consumación del delito.
 
-I.- El visitado, su representante o quien se encuentre en el lugar de la visita se niegue a recibir la orden.
+La reparación del daño comprende:
 
-II.- Existan sistemas de contabilidad, registros o libros sociales, que no estén sellados, cuando deban estarlo conforme a las disposiciones fiscales.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-III.- Existan dos o más sistemas de contabilidad con distinto contenido, sin que se puedan conciliar con los datos que requieren los avisos o declaraciones presentados.
+I.- La restitución de la cosa obtenida por el delito y, de no ser posible, el pago del valor de la misma, y en cualquiera de las dos circunstancias, la utilidad que el pasivo dejó de percibir o hubiera percibido de no existir el delito. Cuando el delito recaiga sobre dinero en efectivo, la reparación comprenderá la restitución de la suma obtenida, más el interés que fije el Juez, que no podrá ser inferior al 6% (seis por ciento) anual, ni superior al 8% (ocho por ciento) mensual.
 
-IV.- Se lleven dos o más libros sociales similares con distinto contenido.
+Para fijar el interés de la reparación del daño, el Juez deberá tomar en cuenta la capacidad económica del sentenciado;
 
-V.- No se hayan presentado todas las declaraciones periódicas a que obligan las disposiciones fiscales, por el período al que se refiere la visita.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2008)</small>
 
-VI.- Los datos anotados en la contabilidad no coincidan o no se puedan conciliar con los asentados en las declaraciones o avisos presentados o cuando los documentos que amparen los actos o actividades del visitado no aparezcan asentados en dicha contabilidad, dentro del plazo que señalen las disposiciones fiscales, o cuando sean falsos o amparen operaciones inexistentes.
+II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios contra la libertad y el normal desarrollo psicosexual y de violencia familiar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
 
-VII.- Se desprendan, alteren o destruyan parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los visitadores o se impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE JUNIO DE 2008)</small>
 
-VIII.- Cuando el visitado sea emplazado a huelga o suspensión de labores, en cuyo caso la contabilidad sólo podrá recogerse dentro de las cuarenta y ocho horas anteriores a la fecha señalada para el inicio de la huelga o suspensión de labores.
+III.- Tratándose de los delitos comprendidos en el Título Octavo del Libro Segundo, la reparación del daño abarcará la restitución de la cosa o de su valor y, además, hasta dos tantos el valor de la cosa o los bienes obtenidos por el delito.
 
-IX.- Si el visitado, su representante o la persona con quien se entienda la visita se niega a permitir a los visitadores el acceso a los lugares donde se realiza la visita; así como a mantener a su disposición la contabilidad, correspondencia o contenido de cajas de valores.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+ARTICULO 47 BIS.- La reparación del daño será fijada por los Jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas durante el proceso.
 
-En los supuestos a que se refieren las fracciones anteriores, se entenderá que la contabilidad incluye, entre otros, los papeles, discos y cintas, así como cualquier otro medio procesable de almacenamiento de datos.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+ARTICULO 47 TER.- La obligación de pagar la sanción pecuniaria es preferente con respecto a cualesquiera otras contraídas con posterioridad al delito, a excepción de las obligaciones alimenticias y derechos laborales.
 
-En el caso de que los visitadores aseguren la contabilidad por encontrarse el visitado en cualquiera de los supuestos previstos por el segundo párrafo de este artículo, deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el Artículo 48 de este Código.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 47 QUATER.- La reparación del daño proveniente de delito que deba ser hecha por el delincuente tiene el carácter de pena pública y se exigirá de oficio por el Ministerio Público. El ofendido o sus derechohabientes podrán aportar al Ministerio Público o al Juez en su caso, los datos y pruebas que tengan para demostrar la existencia y monto de dicha reparación, en los términos que prevenga el Código de Procedimientos Penales.
+
+Cuando el Ministerio Público incumpla con la obligación de solicitar la reparación del daño, el Juez lo hará saber al Procurador de Justicia del Estado para los efectos legales.
+
+Cuando dicha reparación deba exigirse a tercero, tendrá el carácter de responsabilidad civil y se tramitará en forma de incidente en los términos que fije el Código de Procedimientos Penales.
+
+Quien se considere con derecho a la reparación del daño y no la pueda obtener en virtud del no ejercicio de la acción penal, sobreseimiento o sentencia absolutoria, podrá ocurrir a reclamarla en la vía civil, en los términos de la ley correspondiente.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 47 QUINQUIES.- Tienen derecho a la reparación del daño en el siguiente orden:
+
+I.- La víctima o el ofendido; y
+
+II.- En caso de fallecimiento del ofendido, el cónyuge supérstite, concubino o concubina, y los hijos menores de edad; a falta de éstos, los demás ascendientes o descendientes que dependan económicamente de él.
 
 ###### ARTICULO 48.
 
-La visita en el domicilio fiscal se desarrollará conforme a las siguientes reglas:
+La inhabilitación consiste en la incapacidad temporal decretada por el juez para que un servidor público pueda ocupar un cargo de nombramiento o de elección popular, excepción hecha de los altos servidores de la Federación o de los Estados, en los términos fijados en la Constitución General de la República, del Estado de Tamaulipas o en las leyes especiales.
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+La suspensión consiste en la pérdida temporal de los derechos civiles o políticos que marca la ley, por el lapso señalado en la misma.
 
-I.- De toda visita en el domicilio fiscal se levantará acta en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieran conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba plena de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el período revisado, aunque dichos efectos no se consignen en forma expresa. Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las disposiciones fiscales o sobre la situación financiera del visitado, no constituyen resolución fiscal.
+La privación de derechos es la pérdida definitiva de los mismos, en los casos especialmente señalados en las Leyes.
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+La inhabilitación, suspensión y privación de derechos es de dos clases:
 
-II.- Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial, cumpliendo al respecto con lo previsto en la fracción III del artículo 46 de este Código.
+I.- La que por ministerio de ley resulte de una sanción, como consecuencia necesaria de ésta.
 
-III.- Durante el desarrollo de la visita los visitadores a fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en la contabilidad, podrán, indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros, oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia previo inventario que al efecto formulen. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo.
+II.- La que por sentencia se impone como sanción.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2002)</small>
+En el primer caso, la inhabilitación y suspensión de derechos comienza y concluye con la sanción de que es consecuencia.
 
-IV.- Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
 
-Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos veinte días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
-
-Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que éstos se encuentran en poder de una autoridad.
-
-V.- Cuando no resulte posible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia.
-
-VI.- Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-VII.- Cuando de la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables, que pudieran afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez, reponer el procedimiento, a partir de la violación formal cometida.
-
-Lo señalado en el párrafo anterior, será sin perjuicio de la responsabilidad en que pueda incurrir el servidor público que motivó la violación.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
-
-Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+En el segundo caso, si se impone con otra sanción privativa de la libertad, comenzará al terminar ésta y su duración será la señalada en la sentencia.
 
 ###### ARTICULO 49.
 
-Las visitas en los domicilios fiscales ordenadas por las autoridades fiscales podrán concluirse anticipadamente en los siguientes casos:
-
-I.- Cuando el visitado antes del inicio de la visita hubiera presentado aviso ante la Secretaría de Finanzas y Tesorería General del Estado manifestando su deseo de presentar sus estados financieros dictaminados por contador público autorizado, siempre que dicho aviso se haya presentado dentro de los tres meses siguientes a la fecha de terminación del ejercicio fiscal y cumpla con los requisitos indicados en el Artículo 52.
-
-II.- En los casos a que se refiere el artículo 58 de este Código.
-
-En el caso de conclusión anticipada a que se refiere la fracción I de este artículo se deberá levantar acta en la que se señale esta situación.
+La sanción de prisión produce la suspensión de los derechos políticos y los de tutela y la facultad de ser apoderado, asesor, defensor, albacea, perito, depositario o interventor judicial, síndico, interventor en quiebras, árbitro, administrador y representante de ausentes. La suspensión comenzará desde que cause firmeza la sentencia respectiva y durará todo el tiempo de la condena, aunque aquélla no la declare.
 
 ###### Art. 123.
 
@@ -5386,303 +5820,127 @@ XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativ
 
 XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales, en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera y azucarera, minería, hidrocarburos, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el Gobierno Federal; empresas que actúen en virtud de un contrato o concesión federal, y las industrias que le sean conexas; a empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que afecten a dos o más entidades federativas; a contratos colectivos que hayan sido declarados obligatorios en más de una entidad federativa y, por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y términos que fija la ley respectiva.
 
-## TITULO SEPTIMO.
+## TITULO SEPTIMO. DE LA EJECUCION DE SENTENCIAS
 
-PREVENCIONES GENERALES.
-
-### CAPITULO VII
+### CAPITULO II. MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 50.
 
-Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
+La caución de no ofender consiste en la garantía que el Juez debe exigir al sentenciado, en los casos que proceda legalmente y lo estime conveniente para que no cause un nuevo daño al ofendido, y que será fijada atendiendo a sus condiciones personales. Si el nuevo daño se realiza, la garantía se hará efectiva en favor del ofendido; si el sentenciado prueba que no puede otorgar la garantía, el Juez la substituirá por vigilancia de la (sic) autoridades.
 
-I.- La solicitud se notificará en el domicilio manifestado ante el registro estatal o federal de contribuyentes por la persona a quien va dirigida y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar donde éstas se encuentren.
-
-II.- En la solicitud se indicará el lugar y el plazo en el cual se debe proporcionar los informes o documentos.
-
-III.- Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante.
-
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
-
-IV.- Como consecuencia de la revisión de la contabilidad y los informes, datos, documentos o registros requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario.
-
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
-
-V.- El contribuyente o responsable solidario contará con un plazo de veinte días, contados a partir del día siguiente a aquél en el que se le notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, u optar por corregir su situación fiscal en las formas oficiales establecidas por la autoridad. Cuando se trate de más de un ejercicio revisado, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
-
-Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo señalado el contribuyente no presenta elementos comprobatorios que los desvirtúen y en tal caso, se emitirá la resolución que determine las contribuciones omitidas.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
-
-### CAPITULO VIII
+### CAPITULO I. LA INDIVIDUALIZACION
 
 ###### ARTICULO 51.
 
-Las autoridades fiscales que al ejercer las facultades de comprobación conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se emitirá dentro de un plazo máximo de seis meses contados a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad y los informes, datos, documentos o registros de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refiere la fracción V del Artículo 50 de este Código.
-
-El plazo para emitir la resolución a que se refiere este Artículo se suspenderá en los casos previstos en el Artículo 48 Bis de este Código. Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa, dicho plazo se suspenderá desde la fecha en que se interponga el citado medio de defensa y hasta que se dicte resolución definitiva del mismo.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+La amonestación consiste: En la advertencia que el juez dirige al acusado, haciéndole ver las consecuencias del delito que cometió, exhortándolo a la enmienda y previniéndolo que se le impondrá una sanción mayor si reincidiere. Esta amonestación se hará en público o en privado, según parezca prudente al Juez.
 
 ###### ARTICULO 52.
 
-Los hechos afirmados en los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y su relación con el cumplimiento de las disposiciones fiscales así como en las aclaraciones que dichos contadores formulen respecto de sus dictámenes, se presumirán ciertos, salvo prueba en contrario, siempre que se reúnan los siguientes requisitos:
-
-I.- Que el contador público que dictamine esté registrado ante las autoridades fiscales federales para estos efectos. Este registro lo podrán obtener únicamente las personas de nacionalidad mexicana que tengan título de contador público registrado en la Secretaría de Educación Pública Federal y que sean miembros de un Colegio de Contadores reconocido por la misma Secretaría.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-II.- Que el dictamen se refiera invariablemente a los estados financieros del último ejercicio fiscal y esté suscrito, tanto por el contribuyente como por el contador público que vaya a dictaminar, de conformidad con las disposiciones fiscales y las normas de auditoría que regulan la capacidad, independencia e imparcialidad profesional del contador público, el trabajo que desempeña y la información que rinda como resultado del mismo.
-
-El dictamen deberá contener:
-
-A).- La verificación documental realizada.
-
-B).- La revisión de bases, cálculo y entero de los impuestos correspondientes.
-
-C).- La revisión de la información complementaria incluida en los anexos.
-
-D).- La declaración, bajo protesta de decir verdad, del apego del dictamen a lo ordenado en las disposiciones fiscales, así como la opinión acerca del cumplimiento de las obligaciones fiscales del contribuyente, indicando, en su caso, las omisiones observadas, independientemente de su importancia relativa.
-
-Las opiniones o interpretaciones contenidas en los dictámenes no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
-
-Cuando el contador público no de cumplimiento a las disposiciones referidas en este artículo, la autoridad fiscal, previa audiencia, dará a conocer esta circunstancia a la Dirección de Profesiones del Estado.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+El apercibimiento consiste en la conminación que el Juez hace a una persona, cuando ha delinquido y se teme con fundamento que está en disposición de cometer un nuevo delito, ya sea por su actitud o por amenazas, advirtiéndole que en caso de cometer éste, será considerado como reincidente.
 
 ###### ARTICULO 53.
 
-En el caso de que con motivo del ejercicio de sus facultades de comprobación, las autoridades fiscales soliciten datos, informes o documentos del contribuyente, responsable solidario o tercero, éstos tendrán los siguientes plazos para su presentación:
+La publicación especial de sentencia consiste en la inserción total o parcial de ella, en uno de los periódicos que circulen en la localidad. El juez escogerá el periódico y resolverá la forma en que debe hacerse la publicación.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-I.- Los libros y registros que formen parte de su contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-II.- Seis días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, cuando los documentos sean de los que deba tener en su poder el contribuyente y se los soliciten durante el desarrollo de una visita.
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-III.- Quince días contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva, en los demás casos.
-
-Los plazos a que se refiere este Artículo se podrán ampliar por las autoridades fiscales hasta veinte días más cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
+La publicación de la sentencia legalmente prevista se hará, en su caso, a costa del delincuente o del ofendido, si éste lo solicitara, o del Estado si el Juez lo estimara necesario.
 
 ###### ARTICULO 54.
 
-(DEROGADO, P.O. 3 DE FEBRERO DE 2017)
+El Juez podrá, a petición y a costa del ofendido, ordenar la publicación de la sentencia en entidad distinta o en algún otro periódico.
 
 ###### ARTICULO 55.
 
-Las autoridades fiscales podrán determinar presuntivamente el valor de los actos o actividades por los que deban pagar contribuciones, cuando:
-
-I.- Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales, o hayan omitido presentar cualquier declaración, hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de tres meses desde el día en que venció el plazo para la presentación de la declaración de que se trate.
-
-II.- No presenten los libros y registros de contabilidad, la documentación comprobatoria de más del 3% de alguno de los conceptos de las declaraciones, o no proporcionen los informes relativos al cumplimiento de las disposiciones fiscales.
-
-III.- Se dé alguna de las siguientes irregularidades:
-
-A).- Omisión del registro de operaciones, ingresos o compras, así como alteración del costo, por más del 3% sobre los declarados en ejercicio.
-
-B).- Registro de compras, gastos o servicios no realizados o no recibidos.
-
-C).- Omisión o alteración en el registro de existencias que deban figurar en los inventarios, o registren dichas existencias a precios distintos de los de costo, siempre que en ambos casos, el importe exceda del 3% del costo de los inventarios.
-
-IV.- Por otras irregularidades en la contabilidad que imposibiliten el conocimiento de sus operaciones.
-
-La determinación presuntiva a que se refiere este artículo, procederá independientemente de las sanciones a que haya lugar.
+La publicación de sentencia se ordenará, igualmente, a título de reparación y a petición del interesado, cuando éste fuere absuelto.
 
 ###### ARTICULO 56.
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales calcularán los ingresos brutos de los contribuyentes y el valor de los actos o actividades sobre los que proceda el pago de contribuciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
-
-I.- Utilizando los datos de la contabilidad del contribuyente.
-
-II.- Tomando como base los datos contenidos en las declaraciones del ejercicio correspondiente a cualquier contribución, sea del mismo ejercicio o de cualquier otro, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación.
-
-III.- A partir de la información que proporcionen terceros a solicitud de las autoridades fiscales, cuando tengan relación de negocios con el contribuyente.
-
-IV.- Con información obtenida por otras autoridades fiscales.
-
-V.- Tomando como base los tributos cubiertos o datos proporcionados por otros contribuyentes de características o giros similares.
-
-VI.- Utilizando medios indirectos de la investigación económica o de cualquier otra clase.
+Si el delito por el que se impuso la publicación de sentencia fue cometido por medio de la prensa, además de la publicación a que se refieren los artículos anteriores, se hará también en el periódico empleado para cometer el delito, con el mismo tipo de letra, igual color de tinta y en el mismo lugar.
 
 ###### ARTICULO 57.
 
-Las autoridades fiscales podrán determinar presuntivamente las contribuciones que se debieron haber retenido, cuando aparezca omisión en la retención o en el entero, por más del 3% sobre las retenciones enteradas.
+El confinamiento consiste en la obligación de residir en determinado lugar y no salir de él.
 
-Para efectos de la determinación presuntiva a que se refiere este artículo, las autoridades fiscales podrán utilizar indistintamente cualquiera de los procedimientos previstos en las fracciones I a VI inclusive del Artículo 56 de este Código.
-
-### CAPITULO IX
+### CAPITULO II. DELITOS CULPOSOS
 
 ###### ARTICULO 58.
 
-Cuando en el desarrollo de una visita en el domicilio fiscal las autoridades fiscales se den cuenta de que el visitado se encuentra en alguna de las causales de determinación presuntiva señalada en el Artículo 55 de este Código, siempre que tengan elementos suficientes para apreciar en lo fundamental la situación fiscal del visitado, dichas autoridades podrán proceder conforme a lo siguiente:
-
-I.- En un plazo que no excederá de tres meses después de iniciada una visita en el domicilio fiscal, notificará al contribuyente mediante acta parcial, que se encuentra en posibilidad de que se le aplique la determinación presuntiva a que se refiere el Artículo 55 de este Código.
-
-II.- Dentro de los quince días siguientes a la fecha de notificación del acta parcial, el visitador podrá corregir su situación fiscal, mediante la presentación de la forma de corrección, de la que proporcionará copia a los visitadores. Dicho plazo podrá prorrogarse por una sola vez por quince días más.
-
-III.- Las autoridades podrán concluir la visita o continuarla. En el primer caso levantarán el acta final haciendo constar sólo el hecho de que el contribuyente corrigió su situación fiscal. En el caso de que las autoridades continúen la visita, deberán hacer constar en el acta final todas las irregularidades que hubieren encontrado y señalarán aquéllas que hubiera corregido el visitado.
-
-Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones.
-
-Lo dispuesto en este artículo no es aplicable cuando se esté en los supuestos de agravante señalados en el Artículo 75 Fracción II de este Código.
+Cuando algún miembro o representante de una persona jurídica, sociedad, corporación o empresa de cualquier clase, con excepción de las instituciones del Estado, cometa un delito con los medios que para tal objeto las mismas entidades les proporcionen, de modo que resulte cometido a nombre o bajo el amparo de la representación social o en beneficio de ella, el Juez podrá, con audiencia de la persona moral, aplicar las sanciones previstas en el inciso i) del Artículo 45.
 
 ###### ARTICULO 59.
 
-Para la comprobación de los ingresos o del valor de los actos o actividades por los que se deban pagar contribuciones, las autoridades fiscales presumirán, salvo prueba en contrario:
-
-I.- Que la información contenida en la contabilidad, documentación comprobatoria y correspondencia que se encuentren en poder del contribuyente, corresponde a operaciones celebradas por él, aun cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por el contribuyente.
-
-II.- Que la información contenida en los sistemas de contabilidad, a nombre del contribuyente, localizados en poder de personas a su servicio, o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente.
+La suspensión de la Sociedad paraliza para el futuro, por todo el tiempo que dure la condena, toda nueva operación respecto a los fines para que fue constituída, sin perjuicio de cumplir con las obligaciones contraídas con anterioridad, y realizar los actos de administración necesarios para su conservación.
 
 ###### ARTICULO 60.
 
-Cuando el contribuyente omita registrar adquisiciones en su contabilidad y éstas fueran determinadas por las autoridades fiscales, se presumirá que los bienes adquiridos y no registrados, fueron enajenados y que el importe de la enajenación fue el que resulta de las siguientes operaciones:
-
-I.- El importe determinado de adquisición, incluyendo el precio pactado y las contribuciones, intereses, normales o moratorios, penas convencionales y cualquier otro concepto que se hubiera pagado con motivo de la adquisición, se multiplicará por el por ciento de utilidad bruta con que opera el contribuyente.
-
-II.- La cantidad resultante se sumará al importe determinado de adquisición y la suma será el valor de la enajenación.
-
-La presunción establecida en este artículo no se aplicará cuando el contribuyente demuestre que la falta de registro de las adquisiciones fue motivada por caso fortuito o fuerza mayor.
-
-Igual procedimiento se seguirá para determinar el valor por enajenación de bienes faltantes en inventarios. En este caso, si no pudiera determinarse el monto de la adquisición se considerará el que corresponda a bienes de la misma especie adquiridos por el contribuyente en el ejercicio de que se trate y en su defecto, el de mercado o el de avalúo.
+Las personas morales a que se refiere el artículo 58, aun después de disueltas, conservarán su personalidad jurídica únicamente para los efectos de su liquidación.
 
 ###### ARTICULO 61.
 
-Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere el Artículo 55 de este código y no puedan comprobar por el período objeto de revisión el valor de los actos o actividades por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las siguientes operaciones:
-
-I.- Si con base en la contabilidad y documentación del contribuyente o información de terceros pudieran reconstruirse las operaciones correspondientes cuando menos a treinta días lo más cercano posible al cierre del ejercicio, el valor de los actos o actividades se determinará con base en el promedio diario del período reconstruido, el que se multiplicará por el número de días que correspondan al período objeto de revisión.
-
-II.- Si la contabilidad del contribuyente no permite reconstruir las operaciones del período de treinta días a que se refiere la fracción anterior, las autoridades fiscales tomarán como base la totalidad del valor de los actos o actividades que observen durante siete días incluyendo los inhábiles, cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión.
-
-Al valor de los actos o actividades estimados presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa que corresponda.
+La intervención consiste en remover a los administradores de la persona jurídica, encargando su función, temporalmente, a un interventor designado por el Juez, intervención que cesará cuando los órganos de la empresa substituyan a las personas que habían cometido el hecho delictuoso. El Juez, en su caso, convocará a la celebración de las asambleas o reuniones señaladas por la Ley.
 
 ###### ARTICULO 62.
 
-Para el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente corresponden a operaciones realizadas por éste, cuando:
-
-I.- Se refieran al contribuyente designado por su nombre, denominación o razón social.
-
-II.- Señalen como lugar para la entrega o recibo de bienes o prestación de servicios relacionados con las actividades del contribuyente, cualquiera de sus establecimientos, aún cuando exprese el nombre, denominación o razón social de un tercero, real o ficticio.
-
-III.- Señalen el nombre o domicilio de un tercero, real o ficticio, si se comprueba que el contribuyente entrega o recibe bienes o servicios a ese nombre o en ese domicilio.
-
-IV.- Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+El juez podrá prohibir a las personas jurídicas la realización de determinadas operaciones, según lo amerite el caso, y lo resolverá en sentencia.
 
 ###### ARTICULO 63.
 
-Los hechos y omisiones que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien, que consten en la documentación o expedientes o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y Tesorería General del Estado y de cualquier autoridad u organismo descentralizado que sea competente en materia de contribuciones de carácter estatal.
+El delito determina la pérdida en favor del Estado de los instrumentos con que se cometa, así como de las cosas o valores provenientes de su realización, o que constituyan para el agente un provecho derivado del mismo delito, salvo el derecho que sobre ellas tenga el ofendido o terceros.
 
-Las copias o reproducciones de microfilm de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
+En la sentencia los Jueces resolverán lo previsto en este artículo.
 
 ###### ARTICULO 64.
 
-Las autoridades fiscales, con motivo del ejercicio de sus facultades de comprobación respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán como sigue para determinar contribuciones omitidas:
+La confiscación de cosas peligrosas o nocivas consiste en la privación definitiva que de ellas hace el Estado, para aprovecharlas, de ser factible, en fines útiles; o, en caso contrario, proceder a su destrucción total o parcial, esto último, si es que en algo fueren útiles.
 
-I.- Determinarán si procede, en primer lugar, la omisión en el pago de contribuciones del último ejercicio de doce meses por el que se hubiera presentado o debió presentarse declaración antes de ejercer las facultades de comprobación, así como las omisiones que pudieran corresponder al período transcurrido entre la fecha de determinación de dicho ejercicio y el momento de iniciación de aplicación de las citadas facultades.
-
-Tratándose de contribuyentes que hayan hecho dictaminar por contador público autorizado sus estados financieros, lo dispuesto en el párrafo anterior se aplicará a un ejercicio irregular, siempre que el ejercicio regular inmediato anterior también esté dictaminado.
-
-II.- Al comprobarse que durante el período a que se refiere la fracción anterior se omitió la presentación de la declaración del ejercicio de alguna contribución, o que el contribuyente incurrió en alguna irregularidad, se podrán determinar, en el mismo acto o con posterioridad, contribuciones omitidas correspondientes a ejercicios anteriores, sin más limitación que lo dispuesto en el Artículo 67 de este código, inclusive las que no se pudieron determinar con anterioridad, por la aplicación de este artículo.
-
-Las irregularidades a que se refiere esta fracción son las siguientes:
-
-A).- Omisión en el pago de contribuciones por más del 3% sobre el total de las declaradas por adeudo propio.
-
-B).- Omisión por más de 3% sobre el total de las contribuciones retenidas o que debieron retenerse.
-
-C).- Cuando se dé alguno de los supuestos a que se refiere el Artículo 55 de este Código.
-
-Siempre se podrá volver a determinar contribuciones omitidas correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes.
-
-Si se incurre en alguna de las irregularidades señaladas en esta fracción, se podrá incluso, determinar contribuciones omitidas distintas a aquellas en que se cometió la irregularidad, aún cuando correspondan a ejercicios anteriores.
-
-Cuando las autoridades fiscales que ejerzan sus facultades de comprobación sean competentes para revisar a los contribuyentes exclusivamente respecto de determinadas contribuciones, se considerarán cometidas las irregularidades a que se refieren los incisos A), B) y C), de esta fracción, aún cuando los porcientos señalados en dichas fracciones se refieran solamente a las contribuciones en relación a las cuales tenga competencia la autoridad fiscal de que se trate.
-
-III.- Aún cuando se presenten declaraciones complementarias después de que se inicie el ejercicio de las facultades de comprobación por las autoridades fiscales, o las formas de corrección de la situación fiscal a que se refieren los Artículos 58 y 76, se podrán determinar contribuciones omitidas por los ejercicios anteriores.
-
-IV.- Las declaraciones complementarias o las formas de corrección de la situación fiscal a que se refieren los Artículos 58 y 76 correspondientes a períodos anteriores a los señalados en la Fracción I, podrán ser motivo de determinación de contribuciones en cualquier tiempo por lo que hace a los conceptos que hubieren modificado.
-
-V.- Las contribuciones retenidas o que debieron retenerse podrán ser determinadas en cualquier tiempo, aún cuando en el último ejercicio sujeto a fiscalización no se determinen contribuciones o no se encuentren irregularidades a que se hace referencia en la Fracción II de este artículo.
-
-VI.- Si en el período a que se refiere la Fracción I, el contribuyente hubiera incurrido en las irregularidades a que se hace referencia en la Fracción II, se podrán hacer las modificaciones a que haya lugar por los ejercicios anteriores, aún cuando las mismas no den lugar al pago de contribuciones.
-
-VII.- No obstante lo dispuesto en la fracción I de este artículo, las autoridades fiscales siempre podrán determinar contribuciones por un período menor del que se señala en dicha fracción.
-
-No se impondrán multas por omisión en el pago de contribuciones, cuando éstas no puedan determinarse.
-
-Lo establecido en este Artículo no limita el ejercicio de las facultades de comprobación de las autoridades fiscales.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-### CAPITULO X
-
-> <small>(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEÓN, P.O. 5 DE JULIO DE 1991)</small>
-
-De la Reclamación
+### CAPITULO III. DELITOS PRETERINTENCIONALES
 
 ###### ARTICULO 65.
 
-Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro del término de treinta días siguientes a la fecha en que surta efectos su notificación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+El decomiso de bienes correspondientes al enriquecimiento ilícito consiste en la adjudicación, en favor del Estado, cuando así proceda, de tales bienes, con el objeto de resarcir el daño causado a la entidad pública.
 
 ###### ARTICULO 66.
 
-Las autoridades fiscales, a petición de los contribuyentes, podrán discrecionalmente autorizar el pago a plazo, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de veinticuatro meses. Al momento de la solicitud deberá pagarse por lo menos el 20% del monto total del crédito fiscal. Durante el plazo concedido se causarán intereses sobre el saldo insoluto actualizado, incluyendo los accesorios, a la tasa establecida en la Ley de Ingresos del Estado de los ejercicios de que se trate.
+Son medidas de seguridad:
 
-Las autoridades fiscales al autorizar el pago a plazo exigirán se garantice el interés fiscal, a excepción de los casos en los que dichas autoridades discrecionalmente dispensen el otorgamiento de la garantía.
+a).- Reclusión de locos y oligofrénicos;
 
-Cesará la autorización para pagar a plazo en forma diferida o en parcialidades, cuando:
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
 
-I.- Desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente.
+b).- Internación y educación de sordomudos que hayan contravenido los preceptos de una ley penal;
 
-II.- El contribuyente sea declarado en quiebra, concurso, suspensión o solicite su liquidación judicial.
+c).- Internación y curación de toxicómanos, alcohólicos y degenerados; y,
 
-III.- El contribuyente no pague alguna de las parcialidades, con sus recargos, a más tardar dentro de los quince días siguientes a aquel en que vence la parcialidad.
+d).- Medidas de vigilancia en la forma y términos que señale la Ley.
 
 ###### ARTICULO 67.
 
-Las facultades de las autoridades fiscales para comprobar el cumplimiento de las disposiciones fiscales, determinar las contribuciones omitidas y sus accesorios, así como para imponer sanciones por infracciones a dichas disposiciones, se extinguen en el plazo de cinco años contados a partir del día siguiente a aquél en que:
-
-I.- Se presentó o debió presentarse la declaración del ejercicio, cuando se tenga la obligación de hacerlo. En estos casos las facultades se extinguirán por ejercicios completos, incluyendo aquéllas facultades relacionadas con la exigibilidad de obligaciones distintas de la de presentar la declaración del ejercicio. No obstante lo anterior, cuando se presenten declaraciones complementarias, el plazo empezará a computarse a partir del día siguiente a aquél en que se presenten, por lo que hace a los conceptos modificados.
-
-II.- Se presentó o debió haberse presentado la declaración o aviso que corresponda a una contribución que no se calcule por ejercicios, o a partir de que se causaron las contribuciones cuando no exista la obligación de pagarlas mediante declaración.
-
-III.- Se hubiere cometido la infracción a las disposiciones fiscales, pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiese cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el Registro Estatal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas. En los casos en los que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no sea requerida, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en la que debió presentarse la declaración omitida y la fecha en la que se presentó espontáneamente, exceda de diez años.
-
-> <small>(ADICIONADO P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones II, III y IV del artículo 44 de este Código; cuando se interponga algún recurso administrativo o juicio; o cuando las autoridades fiscales no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal. En estos dos últimos casos, se reiniciará el cómputo del plazo de caducidad a partir de la fecha en la que se localice al contribuyente. Asimismo, el plazo a que hace referencia este artículo se suspenderá en los casos de huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga y en el de fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
-
-Las facultades de las autoridades fiscales para investigar hechos constitutivos de delitos en materia fiscal, no se extinguirán conforme a este artículo.
-
-Los contribuyentes, transcurridos los plazos a que se refiere este artículo, podrán solicitar se declare que se han extinguido las facultades de las autoridades fiscales.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+Las medidas de seguridad decretadas por el Juez serán tendientes a lograr el mejoramiento y rehabilitación del sujeto, en los casos expresamente establecidos por la Ley.
 
 ###### ARTICULO 68.
 
-Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa Implique la afirmación de otro hecho.
+Las medidas de seguridad serán curativas, de internación y de vigilancia. Las curativas consistirán en la sujeción al tratamiento terapéutico que corresponda y se aplicarán en establecimientos especiales o en secciones adecuadas; las de internación consistirán en la sujeción a un régimen de trabajo y educación.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+Las medidas de vigilancia consistirán en la obligación de residir en determinado lugar y no salir de él; en la prohibición de concurrir a determinados lugares; la obligación de presentarse periódicamente a las organizaciones especiales encargadas de vigilancia; la obligación de abstenerse de ingerir bebidas alcohólicas y del empleo de substancias estupefacientes o que produzcan adicción.
 
-### CAPITULO XI
+### CAPITULO IV. TENTATIVA
 
 ###### ARTICULO 69.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las Leyes Fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la Administración y de la Defensa de los Intereses Fiscales Estatales, a los Tribunales Judiciales o Administrativos, a las Autoridades Fiscales Federales o Municipales, o en el supuesto previsto en el Artículo 63 de este Código. Dicha reserva tampoco comprenderá la información que se proporcione a Instituciones de Crédito autorizadas por el Estado o los Municipios para recibir el pago de contribuciones. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para Regular las Sociedades de Información Crediticia, ni la que se proporcione para efectos de la notificación por terceros en términos de la legislación aplicable.
+Dentro de los límites fijados por la Ley, los Jueces aplicarán las sanciones establecidas para cada delito, tomando en cuenta:
+
+1o.- La naturaleza de la acción u omisión, los medios empleados para ejecutarlas y la extensión del daño causado y del peligro corrido;
+
+2o.- La edad, la educación, la ilustración, las costumbres y la conducta precedente del sujeto, los motivos que lo impulsaron o determinaron a delinquir y sus condiciones económicas;
+
+3o.- Las condiciones especiales en que se encontraba en el momento de la comisión del delito y los demás antecedentes y condiciones personales que puedan comprobarse, así como sus vínculos de parentesco, de amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
+
+4o.- Tratándose de los delitos cometidos por servidores públicos, el juez tomará en cuenta, en su caso, si el servidor público es trabajador de base o funcionario o empleado de confianza, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2003)</small>
+
+5o.- La conducta procesal del inculpado, para lo cual se observara lo dispuesto en los artículos 192 y 198 del Código de Procedimientos Penales para el Estado de Tamaulipas
+
+Para los efectos anteriores, el Juez deberá tomar conocimiento directo del sujeto, de la víctima y de las condiciones que considere importantes en cada caso, que se encuentren debidamente probadas y que sirvan para evaluar el grado de temibilidad del sujeto, razonando su criterio personal al respecto en las consideraciones de su sentencia.
 
 ###### Art. 124.
 
@@ -5766,725 +6024,641 @@ Esta Constitución, las leyes del Congreso de la Unión que emanen de ella y tod
 
 Todos los contratos que el Gobierno tenga que celebrar para la ejecución de obras públicas, serán adjudicadas en subasta, mediante convocatoria, y para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública.
 
-## TITULO OCTAVO.
+## TITULO OCTAVO. DE LA EXTINCION PENAL
 
-DE LAS REFORMAS DE LA CONSTITUCION.
-
-### CAPITULO XII
+### CAPITULO V. CONCURSO
 
 ###### ARTICULO 70.
 
-La aplicación de las multas, por infracciones a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+Las circunstancias que la Ley considere específicamente como descriptivas del delito o modificativas de la responsabilidad, no podrán ser tomadas nuevamente en cuenta, en la individualización de la sanción, para agravarla o disminuirla.
 
 ###### ARTICULO 71.
 
-Son responsables en la comisión de las infracciones previstas en este Código las personas que realicen los supuestos que en este capítulo se consideran como tales, así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo a aquéllas que lo hagan fuera de los plazos establecidos.
+Si durante el juicio enloqueciera el procesado, el Juez suspenderá el proceso en los términos que se fijen en el Código Procesal Penal, durante el lapso en que subsista dicho estado, pero, al declararse el estado de remisión, deberá reanudarse de inmediato el proceso suspendido.
 
-Cuando sean varios los responsables, cada uno deberá pagar el total de la multa que se imponga.
+###### ARTICULO 71 Bis.
 
-### CAPÍTULO III. DE LOS DERECHOS POR OBRAS MATERIALES
+Cuando la orden de aprehensión o el auto de formal prisión se dicte en contra de una persona mayor de 70 años de edad, o de precario estado de salud permanente, el juez podrá ordenar que la prisión preventiva se lleve a cabo en el domicilio del indiciado o procesado bajo las medidas de seguridad que procedan de acuerdo con la representación social. La petición se tramitará incidentalmente.
+
+No gozarán de esta prerrogativa quienes, a criterio del juez, puedan sustraerse de la acción de la justicia o manifiesten una conducta que haga presumir fundadamente que causarán daño al denunciante o querellante, a la víctima u ofendido o a quienes indirectamente participen o deban participar en el proceso.
+
+En todo caso, la valoración por parte del juez se apoyará en dictámenes de peritos.
+
+### CAPITULO VI. SANCION PECUNIARIA
 
 ###### ARTICULO 72.
 
-Los funcionarios y empleados públicos que en ejercicio de sus funciones conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a las disposiciones fiscales, lo comunicarán a la autoridad fiscal competente para no incurrir en responsabilidad, dentro de los quince días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
-
-Tratándose de funcionarios y empleados fiscales, la comunicación a que se refiere el párrafo anterior la harán en los plazos y forma establecidos en los procedimientos a que estén sujetas sus actuaciones.
-
-Se libera de la obligación establecida en este Artículo a los siguientes funcionarios y empleados públicos:
-
-I.- Aquellos que de conformidad con otras Leyes tengan obligación de guardar reserva acerca de los datos o información que conozcan con motivo de sus funciones.
-
-II.- Los que participen en las tareas de asistencia al contribuyente previstas por las disposiciones fiscales.
+Los delitos culposos se castigarán con prisión de tres días a cinco años y suspensión por igual término o privación definitiva de derechos para ejercer profesión u oficio, según la gravedad de la culpa.
 
 ###### ARTICULO 73.
 
-No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones fiscales, o cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito. Se considerará que el cumplimiento no es espontáneo en el caso que:
+La calificación de la gravedad de la culpa queda al arbitrio del Juez, quien deberá tomar en consideración las circunstancias generales señaladas en el Artículo 69 y las que a continuación se mencionan:
 
-I.- La omisión sea descubierta por las autoridades fiscales.
+I.- La mayor o menor facilidad para evitar el resultado;
 
-II.- La omisión haya sido corregida por el contribuyente después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas.
+II.- Si se ha representado como posible el resultado, pero ha confiado en que no se producirá;
 
-Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
+III.- Si el acusado ha delinquido anteriormente en circunstancias semejantes; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+IV.- Si tuvo tiempo para obrar con el cuidado necesario.
 
 ###### ARTICULO 74.
 
-La Secretaría de Finanzas y Tesorería General del Estado, podrá condonar total o parcialmente las multas por infracción a las disposiciones fiscales o administrativas no fiscales, inclusive las determinadas por el propio contribuyente, para lo cual la Secretaría de Finanzas y Tesorería General del Estado establecerá, mediante reglas de carácter general, los requisitos y supuestos por los cuales procederá la condonación, así como la forma y plazos para el pago de la parte no condonada.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-La solicitud de condonación de multas en los términos de este artículo no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas y Tesorería General del Estado al respecto no podrán ser impugnadas por los medios de defensa que establece este Código y en todo caso se podrá autorizar la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
-
-Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
+No se impondrá pena alguna, a quien, por culpa en el manejo de vehículos, cause lesiones o la muerte de su cónyuge o parientes hasta el cuarto grado por consanguinidad o afinidad y civil, excepto si se cometiere en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares.
 
 ###### ARTICULO 75.
 
-Dentro de los límites fijados por este Código, las autoridades fiscales al imponer multas por la comisión de las infracciones señaladas en las leyes fiscales, deberán fundar y motivar su resolución y tener en cuenta lo siguiente:
+Las penas por delito culposo, con excepción de la reparación del daño, no excederán de las tres cuartas partes de las que corresponderían si el delito de que se trata fuere doloso.
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no corporal, aprovechará esa situación al sentenciado por culpa.
 
-I.- Se considerará como agravante el hecho de que el infractor sea reincidente. Se da la reincidencia:
-
-A).- La segunda o posteriores veces que se sancione al infractor por la comisión de una infracción que tenga como consecuencia la omisión en el pago de contribuciones.
-
-B).- La segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo Artículo de este código, tratándose de infracciones que no impliquen omisión en el pago de contribuciones.
-
-II.- También será agravante en la comisión de una infracción, cuando se dé cualesquiera de los siguientes supuestos:
-
-A).- Que se haga uso de documentos falsos o en los que se hagan constar operaciones inexistentes.
-
-B).- Que se utilicen, sin derecho a ello, documentos expedidos a nombre de un tercero para deducir su importe al calcular contribuciones o para acreditar cantidades trasladadas por concepto de contribuciones.
-
-C).- Que se lleven dos o más sistemas de contabilidad con distinto contenido.
-
-D).- Se lleven dos o más libros sociales similares con distinto contenido.
-
-E).- Que se destruya, ordene o permita la destrucción total o parcial de la contabilidad.
-
-III.- Se considera también agravante, la omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes.
-
-IV.- Igualmente es agravante, el que la comisión de la infracción sea en forma continuada.
-
-Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a las que correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor.
-
-En el caso de que la multa se pague dentro del mes siguiente a la fecha en que se le notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 25% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 76.
 
-Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicará una multa del 75% al 100% de las contribuciones omitidas.
+No se impondrá pena alguna a quien por culpa provoque un daño en propiedad ajena que no exceda de cien veces el salario mínimo diario vigente en la capital del Estado, siempre y cuando no produzcan lesiones y el agente no se encuentre bajo el influjo de la ingestión de bebidas alcohólicas o de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares.
 
-Si el infractor paga las contribuciones omitidas junto con sus accesorios después de que se inicie el ejercicio de las facultades de comprobación y hasta antes de que se le notifique el acta final o el oficio de observaciones, según sea el caso pagará una multa equivalente al 20% de las contribuciones omitidas. Si el pago se realiza antes de la notificación de la resolución que determine el monto de las contribuciones omitidas pagará una multa equivalente al 30% de las contribuciones omitidas.
-
-### CAPÍTULO IV. DE LOS DERECHOS POR LOS SERVICIOS DE AGUA POTABLE Y DRENAJE DEL MUNICIPIO
+### CAPITULO VII. BASES PARA IMPONER LA SANCION SEGUN EL MONTO DE LO OBTENIDO O DAÑADO
 
 ###### ARTICULO 77.
 
-En los casos a que se refiere el artículo 76 de este Código, las multas se aumentarán o disminuirán conforme a las siguientes reglas:
-
-I.- Se aumentarán:
-
-A).- En un 20% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor haya reincidido.
-
-B).- En un 60% del monto de las contribuciones omitidas o del beneficio indebido, cuando en la comisión de la infracción se dé alguno de los agravantes señalados en la fracción II del artículo 75 de este Código.
-
-C).- En una cantidad igual al 50% del importe de las contribuciones retenidas o recaudadas y no enteradas, cuando se incurra en la agravante a que se refiere la fracción III del artículo 75 de este Código.
-
-Tratándose del caso comprendido en la fracción I del artículo anterior, el aumento de multas a que se refiere esta fracción, se determinará por la autoridad fiscal correspondiente, aún después de que el infractor hubiera pagado las multas en los términos del artículo precedente.
-
-II.- Se disminuirán:
-
-A).- En un 25% del monto de las contribuciones omitidas o del beneficio indebido, si el infractor ha hecho dictaminar por contador público autorizado sus estados financieros correspondientes al ejercicio fiscal en el cual incurrió en la infracción. Para la aplicación de la reducción contenida en este inciso en los casos de la fracción I del artículo anterior, el infractor deberá efectuar el pago en los términos de dicha fracción y solicitar la devolución del monto de la reducción, acreditando los impuestos de este inciso. No se aplicará lo dispuesto en este inciso cuando exista alguno de los agravantes señalados en la fracción II del artículo 75 de este Código.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-B).- En un 20% del monto de las contribuciones omitidas, o del beneficio indebido, en el caso de la fracción II del artículo 76 y siempre que el infractor pague o devuelva las contribuciones omitidas o el beneficio indebido con sus accesorios, dentro del mes siguiente a la fecha en que venza el plazo a que se refiere la fracción I del artículo 76.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+Se perseguirán, a petición de parte ofendida, los delitos culposos de lesiones y daños en propiedad ajena.
 
 ###### ARTICULO 78.
 
-Tratándose de la omisión de contribuciones que hayan derivado de un error aritmético en las declaraciones, se impondrá una multa que será el 20% de las contribuciones omitidas y, en caso de que dichas contribuciones se paguen junto con sus accesorios dentro de los treinta días siguientes a la fecha en que se notificó su determinación, la multa se reducirá a la mitad.
+A los responsables por la comisión de un delito preterintencional, se les impondrá prisión de la mitad del mínimo hasta la mitad del máximo de la sanción prevista para el delito doloso.
 
-### CAPÍTULO V. DE LOS DERECHOS POR EXPEDICIÓN DE CERTIFICADOS Y CONSTANCIAS
+### CAPITULO VIII. PERDIDA DE LOS INSTRUMENTOS Y OBJETOS DEL DELITO Y CONFISCACION DE COSAS PELIGROSAS O NOCIVAS
 
 ###### ARTICULO 79.
 
-Son infracciones relacionadas con el registro estatal de contribuyentes, las siguientes:
-
-I.- No solicitar la inscripción cuando se esté obligado a ello, o hacerlo extemporáneamente.
-
-II.- No presentar los avisos al registro o hacerlo extemporáneamente.
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-III.- No presentar las solicitudes de empadronamiento, presentarlas extemporáneamente, no efectuar el refrendo de sus actividades, así como iniciar actividades sin haber solicitado y obtenido la autorización correspondiente cuando las Leyes Fiscales así lo estipulen, en caso de establecimientos por cuya inscripción y refrendo deban pagarse derechos, aún cuando los derechos correspondientes se encuentren suspendidos.
+A los responsables de tentativa punible se les aplicará prisión de la tercera parte del mínimo hasta las dos terceras partes del máximo de la sanción prevista para el delito que el agente quiso realizar.
 
 ###### ARTICULO 80.
 
-A quien cometa las infracciones relacionadas con el registro estatal de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-I.- De 8.5 cuotas a la comprendida en la fracción I.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-II.- De 4.5 cuotas a la comprendida en la fracción II.
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-III.- De 1 a 3 tantos de los derechos a cubrir, a la comprendida en la fracción III.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 81.
 
-Son infracciones relacionadas con la obligación de pago de contribuciones, con la presentación de declaraciones, solicitudes o avisos, o con la expedición de constancias incompletas o con errores:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-I.- No presentar declaraciones, solicitudes, avisos, constancias, manifestaciones o demás documentos que exigen las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales o presentarlos incompletos, con errores o en una forma distinta a la señalada en las disposiciones fiscales. No cumplir requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción o cumplirlos fuera de los plazos señalados en los mismos.
-
-II.- No pagar contribuciones dentro del plazo que establecen las disposiciones fiscales.
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-III.- Incumplir las disposiciones fiscales relativas a la obligación de terceros de cerciorarse del pago de contribuciones o del cumplimiento de las diversas obligaciones por parte de los contribuyentes.
-
-IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2005)
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+En caso de concurso real o material, se aplicará la pena prevista para el delito de mayor sanción, la que podrá sumarse, a juicio del juez, con las sanciones de los demás delitos, sin que exceda de cincuenta años.
 
 ###### ARTICULO 82.
 
-A quien cometa las infracciones relacionadas con la obligación de pago de contribuciones, con la presentación de declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
+En los casos de concurso ideal o formal, se aplicará la pena que corresponda al delito de mayor sanción, la que se podrá aumentar hasta la mitad de la duración de la misma.
 
-I.- Para la señalada en la fracción I:
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+###### ARTICULO 82 Bis.
 
-A).- Tratándose de declaraciones, la mayor que resulte entre 1.5 cuotas o hasta el 100% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre la misma se aplicará también la multa hasta del 100% a que se refiere este inciso.
+Si el delito es continuado la sanción se aumentará de una mitad del mínimo hasta las dos terceras partes del máximo de la pena que la ley prevea para el delito cometido, sin que exceda de cincuenta años.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-B).- Tratándose de solicitudes, avisos, constancias, manifestaciones o demás documentos, de 1.5 a 20 cuotas.
-
-C).- Por el incumplimiento de los requerimientos o por su cumplimiento fuera de los plazos señalados en los mismos, respecto de una misma declaración, solicitud, aviso o constancia, además de las multas a que se refieren los incisos A) y B):
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-1.- De 3.5 cuotas para el primer requerimiento.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-2.- De 8.5 cuotas para el segundo requerimiento.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-3.- De 20.5 cuotas para el tercer requerimiento.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-D).- Tratándose de la presentación de declaraciones, solicitudes, avisos, constancias, manifestaciones o demás documentos incompletos, con errores o en una forma distinta a la señalada en las disposiciones fiscales, de 3 a 30 cuotas.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-II.- Tratándose de la señalada en la fracción II, la que resulte mayor entre 1.5 cuotas o hasta el 100% de las contribuciones no pagadas.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-III.- Para la señalada en la fracción III, del 50% al 100% de las contribuciones omitidas, por cada una de ellas.
-
-IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2005)
-
-La sanción prevista en este párrafo se aumentará en un 50% en caso de que el infractor sea servidor público al servicio de la Federación, del Estado o del Municipio y en un 100% en caso de que se trate de un vehículo que no acredite su legal estancia en el país.
-
-### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARES AUTORIZADOS
+### CAPITULO IX. REINCIDENCIA Y HABITUALIDAD
 
 ###### ARTICULO 83.
 
-Son infracciones relacionadas con la obligación de llevar contabilidad, siempre que sean descubiertas en el ejercicio de las facultades de comprobación, las siguientes:
-
-I.- No llevar contabilidad.
-
-II.- No llevar algún libro o registro especial a que obliguen las leyes fiscales.
-
-III.- Llevar la contabilidad en forma distinta a como las disposiciones de este Código o de otras leyes señalan; así como llevarla en lugares distintos a los señalados en dichas disposiciones.
-
-IV.- No hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos o fuera de los plazos respectivos.
-
-V.- No presentar para sellarse los libros o sistemas de contabilidad, cuando lo exijan las disposiciones fiscales.
-
-VI.- No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales.
-
-VII.- No expedir comprobante de sus actividades, cuando las disposiciones fiscales lo establezcan o expedirlos sin requisitos fiscales.
+Las reglas señaladas en los artículos 81 y 82 también regirán para la aplicación de penas concurrentes con la de prisión.
 
 ###### ARTICULO 84.
 
-A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83 se impondrán las siguientes multas:
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-I.- De 4.5 a 41 cuotas a la comprendida en la fracción I.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-II.- De 2.5 a 20.5 cuotas a las establecidas en las fracciones II y III.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-III.- De 4.5 a 24.5 cuotas a la comprendida en la fracción IV.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-IV.- De 2.5 a 16.5 cuotas a la señalada en la fracción V.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-V.- De 4.5 a 33 cuotas a la señalada en la fracción VI.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-VI.- De 4.5 a 20.5 cuotas a la comprendida en la fracción VII.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
 ###### ARTICULO 85.
 
-Son infracciones relacionadas con el ejercicio de la facultad de comprobación, las siguientes:
+Si no alcanza a cubrirse la responsabilidad pecuniaria con los bienes del responsable o con el producto de su trabajo en la prisión, el reo liberado seguirá sujeto a la obligación de pagar la parte que falte.
 
-> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1999)</small>
+###### ARTICULO 86.
 
-I.- Oponerse a que se practique la visita en el domicilio fiscal. No suministrar los datos e informes que legalmente exijan las autoridades fiscales o suministrarlos fuera de los plazos legales o en forma incompleta; no proporcionar la contabilidad o parte de ella, el contenido de las cajas de valores y en general, los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros.
+Cuando varias personas cometan el delito, el Juez fijará la multa para cada uno de los delincuentes, según su participación en el delito y sus condiciones económicas; y, en cuanto a la reparación del daño, la deuda se considerará como solidaria.
 
-II.- No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
-
-###### Artículo 86.
-
-Se impondrá una multa de 41 a 82 cuotas a quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el Artículo 85.
-
-### CAPÍTULO VII. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
+### CAPITULO X. RECLUSION PARA ENFERMOS MENTALES
 
 ###### ARTICULO 87.
 
-Son infracciones a las disposiciones fiscales, en que pueden incurrir los funcionarios o empleados públicos en el ejercicio de sus funciones:
+Para la fijación de la cuantía de la multa, el Juez deberá tener en consideración la capacidad económica del sentenciado.
 
-I.- No exigir el pago total de las contribuciones y sus accesorios; recaudar, permitir u ordenar que se reciba el pago en forma diversa a la prevista en las disposiciones fiscales.
-
-II.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas en el domicilio fiscal o incluir en las actas relativas datos falsos.
-
-III.- Exigir una prestación que no esté prevista en las disposiciones fiscales, aún cuando se aplique a la realización de las funciones públicas.
+La multa tendrá el carácter de crédito fiscal.
 
 ###### ARTICULO 88.
 
-A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87, se impondrán las siguientes multas:
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-I.- De 2.5 a 41 cuotas a la comprendida en la fracción I.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-II.- De 4.5 a 82 cuotas a las establecidas en las fracciones II y III.
+Cuando se imponga sanción pecuniaria consistente en multa, los tribunales fijarán en la misma sentencia los días que correspondan de prisión para el caso de que el condenado no pudiera pagarla. El término de prisión que se fije por esta circunstancia, se determinará atendiendo a las condiciones económicas del reo, y no podrá exceder de un año.
 
 ###### ARTICULO 89.
 
-Son infracciones cuya responsabilidad recae sobre terceros, las siguientes:
-
-I.- Asesorar a los contribuyentes para omitir ilegalmente el pago de una contribución; colaborar a la alteración, inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+Toda persona responsable de un delito lo es también del daño causado por el mismo y tiene la obligación de repararlo. El Ministerio Público exigirá de oficio el pago de la reparación del daño.
 
 ###### ARTICULO 90.
 
-A quien cometa las infracciones señaladas en el artículo 89 de este Código, se le impondrá una multa de 4.5 a 41 cuotas.
+La reparación del daño podrá exigirse individual o conjuntamente al responsable y al tercero obligado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+El tercero que pague el daño causado por otro puede repetir lo que hubiere pagado, ejercitando la acción correspondiente en la vía civil.
 
-### CAPÍTULO VIII. DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE DESECHOS SÓLIDOS
+### CAPITULO XI. ALCOHOLICOS, TOXICOMANOS, DEBILES MENTALES Y DEGENERADOS
 
 ###### ARTICULO 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 1.5 a 4.5 cuotas.
+La reparación del daño a que se refiere el Artículo 47 fracción II, será fijada por los jueces tomando en cuenta las disposiciones de la Ley Federal del Trabajo y del Código Civil en su caso, sin perjuicio de valorarlas proporcionalmente según el daño causado, el delito cometido, lo obtenido por el mismo, las condiciones económicas de la víctima y las del obligado a pagar.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+Tratándose de los delitos contra la vida y la salud de las personas, la reparación del daño se determinará conforme a las siguientes bases:
+
+a).- Cuando el delito produzca en la víctima una incapacidad temporal, la indemnización comprenderá las prestaciones a que se refieren los Artículos 487 y 491 de la Ley Federal del Trabajo.
+
+b).- Cuando el delito produzca en la víctima una incapacidad permanente parcial, la indemnización comprenderá las prestaciones a que se refieren los Artículos 487 y 492 de la Ley Federal del Trabajo, tomándose en consideración lo dispuesto por el Artículo 493 del referido ordenamiento.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+c).- Cuando el delito produzca en la víctima una incapacidad permanente total, la indemnización comprenderá las prestaciones a que se refieren las fracciones I, II, III, IV y V del Artículo 487 de la Ley Federal del Trabajo y, además, una cantidad equivalente al importe de mil noventa y cinco a tres mil días de salario, a juicio del Juez.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+d).- Cuando el delito produzca la muerte de la víctima, la indemnización comprenderá una cantidad equivalente al importe de mil noventa y cinco a tres mil días de salario y cuatro meses de salario por concepto de gastos funerarios y en su caso, los gastos de hospitalización y curación.
+
+El importe del daño moral no podrá ser inferior al veinte por ciento de las indemnizaciones señaladas en este artículo.
 
 ###### Art. 135.
 
 La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso de la Unión, por el voto de las dos terceras partes de los individuos presentes, acuerden las reformas o adiciones, y que éstas sean aprobadas por la mayoría de las legislaturas de los Estados. El Congreso de la Unión hará el cómputo de los votos de las legislaturas, y la declaración de haber sido aprobadas las adiciones o reformas.
 
-## TITULO NOVENO.
+## TITULO I. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-DE LA INVIOLABILIDAD DE LA CONSTITUCION.
-
-### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
+### CAPITULO XII. MEDIDAS DE VIGILANCIA
 
 ###### ARTICULO 92.
 
-Para proceder penalmente por los delitos fiscales previstos en este capítulo, será necesario que previamente el Secretario de Finanzas y Tesorero General del Estado o el funcionario que éste designe, así como la Tesorería Municipal en su respectivo ámbito de competencia, formule querella tratándose de los delitos previstos en los artículos 102, 103, 104, 105, 106 y demuestre que el fisco sufrió o se le pudo producir perjuicio económico. En los demás casos, bastará la denuncia de los hechos ante el Ministerio Público del Estado.
+Están obligados a reparar el daño, como responsabilidad civil, en la forma y términos que fije el Código de Procedimientos Penales:
 
-Los procesos por los delitos fiscales a que se refieren los artículos invocados en este precepto, se sobreseerán a petición del Secretario de Finanzas y Tesorero General del Estado o el funcionario que éste designe, así como la Tesorería Municipal en su respectivo ámbito de competencia, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público del Estado formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+I.- Los ascendientes, por los delitos que cometan sus descendientes que se hallaren bajo su patria potestad;
 
-En los delitos fiscales en que sea necesaria querella o declaratoria de perjuicio y el daño o el perjuicio sea cuantificable, el Secretario de Finanzas y Tesorero General del Estado o el funcionario que éste designe, así como la Tesorería Municipal en su respectivo ámbito de competencia, hará la cuantificación correspondiente en la propia querella o declaratoria, o la presentará durante la tramitación del proceso respectivo antes de que el Ministerio Público en el Estado formule conclusiones. La citada cuantificación sólo surtirá efectos en el procedimiento penal.
+II.- Los tutores y los custodios, por los delitos de los menores que se hallen bajo su autoridad;
 
-### CAPÍTULO X. DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS DE SUPERVISIÓN TÉCNICA SOBRE LA EXPLOTACIÓN DE BANCOS DE MATERIAL
+III.- Los patrones, empresas, negociaciones, personas morales, talleres, por los delitos cometidos por sus funcionarios, empleados, obreros, encargados, representantes o apoderados, con los medios que se les proporcionen o en beneficio o representación de los primeros o con ocasión de las actividades o funciones que les fueren encomendadas.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
+
+El dueño o quien tenga bajo su responsabilidad cualquier animal que cause lesiones o la muerte a una persona;
+
+IV.- El Estado y los Municipios, subsidiariamente, por los delitos cometidos por sus servidores públicos, con motivo del ejercicio de sus cargos o funciones;
+
+V.- Las Aseguradoras que hubieren asumido el riesgo de la responsabilidad pecuniaria, previstas en sus contratos, respecto a las actividades de sus asegurados, que hubieren cometido hechos delictuosos.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
+
+###### ARTICULO 92 Bis.
+
+El Estado cubrirá una indemnización a quien hubiese obtenido el reconocimiento de su inocencia en los términos previstos en este Código o a sus derechohabientes. La reparación del daño será dispuesta de oficio por la autoridad que resuelva el reconocimiento de la inocencia, tomando en cuenta el salario mínimo general correspondiente a la zona en que se hubiese supuesto la comisión del delito, a razón de dos días de salario mínimo vigente en la fecha en que se haga el pago por cada día que la persona hubiere estado privada de su libertad durante el procedimiento y la ejecución de la pena o medida de seguridad.
+
+### CAPITULO XIII. SUSTITUCION Y CONMUTACION DE SANCIONES
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 93.
 
-Cuando una autoridad fiscal tenga conocimiento de la probable existencia de un delito de los previstos en este Código y sea perseguible de oficio, de inmediato lo hará del conocimiento del ministerio público en el Estado para los efectos legales que procedan, aportándole las actuaciones y pruebas que se hubiere allegado.
+Si no se logra hacer efectivo todo el importe de la sanción pecuniaria, se cubrirá de preferencia la reparación del daño y, en su caso, a prorrata entre los ofendidos.
+
+Si el ofendido por el delito no acepta la reparación del daño, ésta pasará al Estado.
 
 ###### ARTICULO 94.
 
-En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria; las autoridades administrativas, con arreglo a las leyes fiscales, harán efectivas las contribuciones omitidas, los recargos y las sanciones administrativas correspondientes, sin que ello afecte al procedimiento penal.
+El juzgador, teniendo en cuenta el monto del daño y la situación económica del obligado, podrá fijar plazos para el pago de la reparación de aquél, los que en su conjunto no excederán de un año, pudiendo para ello exigir garantía si lo considera conveniente.
+
+La autoridad a quien corresponda el cobro de la multa podrá fijar plazos para el pago de ésta, tomando en cuenta las circunstancias del caso.
 
 ###### ARTICULO 95.
 
-Son responsables de los delitos fiscales quienes:
+En los delitos cuya sanción se determine por el monto de lo obtenido o dañado, se atenderá a los días salarios fijados por este Código, entendiéndose por tales lo establecido en el Artículo 47.
 
-I.- Concierten la realización del delito.
+### CAPITULO XIV. CONDENA CONDICIONAL
 
-II.- Realicen la conducta o el hecho descritos en la ley.
-
-III.- Se sirvan de otra persona como instrumento para ejecutarlo.
-
-IV.- Induzcan dolosamente a otro a cometerlo.
-
-V.- Ayuden dolosamente a otro para su comisión.
-
-VI.- Auxilien a otro después de su ejecución, cumpliendo una promesa anterior.
-
-### CAPÍTULO XI. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA TESORERÍA
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 96.
 
-Es responsable de encubrimiento en los delitos fiscales, quien, sin previo acuerdo y sin haber participado en él, después de la ejecución del delito:
+En las resoluciones de orden económico que dicten los Jueces, se tomará en cuenta, cuando proceda el concepto día salario.
 
-I.- Con ánimo de lucro adquiera, reciba, traslade u oculte el objeto del delito a sabiendas de que provenía de éste, o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia, o ayude a otro a los mismos fines.
-
-II.- Ayude en cualquier forma al inculpado a eludir las investigaciones de la autoridad o a sustraerse de la acción de ésta, u oculte, altere, destruya o haga desaparecer las huellas, pruebas o instrumentos del delito, o asegure para el inculpado el objeto o provecho del mismo.
-
-El encubrimiento a que se refiere este artículo se sancionará con prisión de tres meses a seis años.
+Se considerará lo anterior para condenar, en su caso, por el equivalente que corresponda en dinero.
 
 ###### ARTICULO 97.
 
-Si un funcionario o empleado público comete o en cualquier forma participa en la comisión de un delito fiscal, la pena aplicable por el delito que resulte se aumentará de tres meses a tres años de prisión.
+Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Los instrumentos de uso lícito se decomisarán cuando el delito sea doloso, y, si pertenecen a un tercero, se decomisarán siempre que éste tenga conocimiento de su utilización para la realización del delito.
+
+Si los instrumentos y cosas decomisados son substancias nocivas y peligrosas, se destruirán a juicio de la autoridad que esté conociendo, en los términos previstos por el Código, pero aquélla, cuando lo estime conveniente, podrá determinar su conservación para fines de docencia o investigación. Respecto de los demás instrumentos o cosas decomisados, el Estado determinará su destino, según su utilidad, para beneficio de la administración de justicia.
 
 ###### ARTICULO 98.
 
-La tentativa de los delitos previstos en este Código es punible, cuando la resolución de cometer un hecho delictivo se traduce en un principio de su ejecución o en la realización total de los actos que debieran producirlo, si la interrupción de éstos o la no producción del resultado se debe a causas ajenas a la voluntad del agente.
+Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o de las judiciales, que no hayan sido decomisados y que no sean recogidos por quien tenga derecho a ello, en un lapso de un año, contado a partir de la notificación al interesado, se enajenarán en subasta pública y el producto de la venta se aplicará al mejoramiento de la administración de justicia.
 
-La tentativa se sancionará con prisión de hasta las dos terceras partes de la sanción que corresponda por el delito de que se trate, si éste se hubiere consumado.
-
-Si el autor desistiera de la ejecución o impidiere la consumación del delito, no se impondrá sanción alguna, a no ser que los actos ejecutados constituyan por sí mismos delito.
+En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar, o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública, y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de seis meses, a partir de la notificación que al respecto se le haga, transcurrido el cual, se aplicará al mejoramiento de la administración de justicia.
 
 ###### ARTICULO 99.
 
-En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad más de la que resulte aplicable.
-
-Para los efectos de este código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos, con unidad de intención delictuosa e identidad de disposición legal, incluso de diversa gravedad.
+A los reincidentes se les impondrá la sanción que corresponda por el último delito cometido, aumentándola hasta un tercio más de su duración. Si la reincidencia fuere por delitos de la misma especie, el aumento será hasta dos tercios más de la duración de la sanción.
 
 ###### ARTICULO 100.
 
-La acción penal en los delitos fiscales perseguibles por querella del Secretario de Finanzas y Tesorero General del Estado, prescribirá en tres años contados a partir del día en que dicho Secretario tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal del Estado.
+Al habitual se le impondrá una pena, que se aumentará hasta el doble de la duración de la sanción que en su caso debía corresponderle.
 
 ###### ARTICULO 101.
 
-Para que proceda la condena condicional cuando se incurra en delitos fiscales, además de los requisitos señalados en el Código Penal vigente en el Estado, será necesario comprobar que el interés fiscal está satisfecho o garantizado.
+Las medidas curativas se aplicarán en los términos de los artículos 67 y 68.
 
 ###### ARTICULO 102.
 
-Comete el delito de defraudación fiscal quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco del Estado.
-
-El delito de defraudación fiscal se sancionará con prisión de uno a seis meses si el monto de lo defraudado no excede de $500,000.00; cuando exceda de esta cantidad la pena será de seis meses a tres años de prisión.
-
-Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a tres años de prisión.
-
-No se formulará querella si quien hubiere omitido el pago de la contribución u obtenido el beneficio indebido conforme a este artículo, lo entera con sus accesorios.
+En los casos previstos en este Código, a los enfermos a quienes se aplique reclusión, podrán ser entregados a quienes corresponda hacerse cargo de ellos, siempre que se otorgue caución por la cantidad que la autoridad a quien corresponda ejecutar la medida estime pertinente, para garantizar el daño que se pudiere causar, por no haberse tomado las precauciones necesarias para su vigilancia.
 
 ###### ARTICULO 103.
 
-Será sancionado con las mismas penas del delito de defraudación fiscal, quien:
-
-I.- Omita enterar a las autoridades fiscales, dentro del plazo que la ley establezca, las cantidades que por concepto de contribuciones hubiere retenido o recaudado.
-
-II.- Se beneficie sin derecho de un subsidio o estímulo fiscal.
+Cuando la autoridad competente estime que ni aun con la caución pueda asegurarse el interés de la sociedad, seguirán los enfermos en el establecimiento especial en que estuvieren recluidos.
 
 ###### ARTICULO 104.
 
-Se impondrá sanción de tres meses a tres años de prisión, a quien:
+Se aplicarán las medidas de internación a los débiles mentales y a los sujetos a que se refiere el inciso c) del artículo 66 de este Código, sin que el Juez ni la autoridad administrativa puedan tomar las medidas a que se refiere el artículo anterior, pero al cumplirse el término de la medida de seguridad impuesta, se recomendará a sus familiares continuar el tratamiento correspondiente.
 
-I.- Se atribuya como propias actividades ajenas ante el registro estatal de contribuyentes.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-II.- Expida, adquiera o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
-
-III.- (DEROGADA, P.O. 3 DE FEBRERO DE 2017)
-
-No se formulará querella, si quien encontrándose en el supuesto anterior informa del hecho a la autoridad fiscal.
-
-### CAPÍTULO XII. DE LOS DERECHOS POR LOS SERVICIOS DEL REGISTRO CIVIL
+### CAPITULO UNICO. EJECUCION DE LAS SANCIONES
 
 ###### ARTICULO 105.
 
-Se impondrá sanción de tres meses a tres años de prisión, a quien:
-
-I.- Registre sus operaciones contables, fiscales o sociales en dos o más libros o en dos o más sistemas de contabilidad con diferentes contenidos.
-
-II.- Oculte, altere o destruya, total o parcialmente los sistemas y registros contables, así como la documentación relativa de los asientos respectivos, que conforme a las leyes fiscales esté obligado a llevar.
+A los sordomudos contraventores de los preceptos de una Ley Penal, que no tengan conciencia de la ilicitud de la conducta ejecutada, se les recluirá por el tiempo que sea necesario para su educación o instrucción, en sección especial que dependerá del Ejecutivo, sin que la reclusión pueda exceder del tiempo que le correspondería como sanción si fuere imputable.
 
 ###### ARTICULO 106.
 
-Se impondrá sanción de un mes a seis meses de prisión, al depositario o interventor designado por las autoridades fiscales, que con perjuicio del fisco disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $500,000.00; cuando exceda de esa cantidad, la sanción será de seis meses a tres años de prisión.
+Tratándose de alcohólicos, toxicómanos, débiles mentales o degenerados que hubieran cometido un delito, se aplicará la sanción que les corresponda, teniendo en cuenta su peligrosidad, y se procurará, por la autoridad competente, que el tratamiento que se siga en relación con estos sujetos, sea de aquellos que tengan el carácter de curativo por lo que se refiere al alcoholismo y la toxicomanía; así como el tomar las medidas necesarias para mejorar las condiciones de los débiles mentales y degenerados, procurando aplicar también medidas de internamiento en secciones adecuadas de trabajo.
 
 ###### ARTICULO 107.
 
-Se impondrá sanción de tres meses a tres años de prisión, al que dolosamente altere o destruya los aparatos de control, sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados.
+Las medidas de vigilancia definidas en el segundo párrafo del artículo 68, deberán ser cumplidas estrictamente, salvo en los casos en que exista imposibilidad, y será la autoridad a quien corresponde su ejecución resolver sobre la petición de no residir en determinado sitio.
 
-Igual sanción se aplicará al que dolosamente altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras.
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JUNIO DE 1999)</small>
 
-## TÍTULO CUARTO. DE LOS PRODUCTOS
+## TITULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD PUBLICA
 
-### CAPÍTULO XIII. DE LOS DERECHOS POR OCUPACIÓN DE INMUEBLES DEL DOMINIO PÚBLICO
+### CAPITULO I. MUERTE DEL ACTIVO
 
 ###### ARTICULO 108.
 
-Se impondrá sanción de tres meses a tres años de prisión, a quien sin autorización de la Secretaría de Finanzas y Tesorería General del Estado:
+La pena de prisión podrá ser sustituida, a juicio del juzgador, apreciando lo dispuesto por el artículo 69 de este Código, en los términos siguientes:
 
-I.- Grabe o manufacture matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Secretaría use para imprimir, grabar o troquelar calcomanías, formas valoradas o numeradas, placas o tarjetones.
+I.- Cuando la pena de prisión impuesta sea superior a cuatro años y no exceda de cinco años, se podrá aplicar:
 
-II.- Imprima, grabe o troquele calcomanías, formas valoradas o numeradas, placas o tarjetones semejantes a los que use la Secretaría de Finanzas y Tesorería General del Estado.
+a).- Prisión intermitente durante el primer año;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+b).- Trabajo a favor de la comunidad en el mismo periodo anterior y durante el resto de la condena;
 
-III.- Utilice para beneficio propio o de terceros las calcomanías, formas valoradas o numeradas y tarjetones a que se refiere la fracción anterior.
+c).- Las medidas de seguridad previstas en la fracción IV de este artículo durante todo el tiempo de la condena; y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+d).- Las actividades obligadas que con el número 10 se refieren en el inciso b) de la fracción III de este mismo numeral, durante todo el tiempo de la condena.
 
-IV.- Utilice las calcomanías, formas valoradas o numeradas, tarjetones u otros documentos emitidos o autorizados por la Secretaría de Finanzas y Tesorería General del Estado, para comprobar el cumplimiento de obligaciones que en realidad no fueron cumplidas.
+(REFORMADO, P.O. 10 DE JULIO DE 2003) (F. DE E., P.O. 23 DE JULIO DE 2003)
+
+El Juez, al decretar la sustitución, forzosamente impondrá todas las penas, medidas de seguridad y actividades obligadas antes referidas al beneficiado y que resulten adecuadas a su readaptación. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el inciso d) anterior.
+
+II.- Cuando la pena de prisión impuesta no exceda de cuatro años, se podrá sustituir por:
+
+a).- Trabajo en favor de la comunidad equivalente al tiempo de la condena;
+
+b).- Las medidas de seguridad previstas en la fracción IV de este artículo durante todo el tiempo que deba efectuar el trabajo a favor de la comunidad; y
+
+c).- Las actividades obligadas que con el número 10 se refieren en el inciso b) de la fracción III de este mismo numeral, durante todo el tiempo que deba efectuar el trabajo a favor de la comunidad.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+El Juez, al decretar la substitución, forzosamente impondrá todas las penas, medidas de seguridad y actividades obligadas antes referidas al beneficiado y que resulten adecuadas a su readaptación. Sólo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el inciso c) anterior.
+
+Para la procedencia de los sustitutivos mencionados en las fracciones I y II anteriores será necesario que el sentenciado opte por ellos y acredite la disponibilidad de la institución donde prestará sus servicios de carácter laboral.
+
+III.- Cuando la pena de prisión impuesta no exceda de tres años, se podrá sustituir por el régimen especial de libertad, observándose lo siguiente:
+
+a).- Para decidir e individualizar judicialmente el sustitutivo de régimen especial en libertad y determinar qué aspectos de los derechos del sentenciado se suspenderán y restringirán de conformidad a lo señalado en el párrafo precedente y el inciso siguiente, el Juez tomará en cuenta la naturaleza del delito, el bien jurídico lesionado y las circunstancias de hecho y personales del sentenciado, de tal modo que la suspensión que se decrete esté razonablemente relacionada con éstas, sirva asimismo como sanción y a la vez como medida preventiva y readaptadora que garantice el interés social;
+
+b).- En el caso de la modalidad consistente en la suspensión parcial o total de derechos, ésta podrá referirse a uno o la combinación de los aspectos siguientes:
+
+1).- La conducción de vehículos de motor;
+
+2).- La permanencia en el domicilio durante determinado horario, en uno o más días de la semana;
+
+3).- La residencia en una sola vivienda;
+
+4).- La posesión y portación de arma;
+
+5).- El consumo de bebidas alcohólicas en lugares públicos;
+
+6).- El ejercicio profesional;
+
+7).- La realización de determinadas ocupaciones;
+
+8).- La patria potestad, la custodia, la tutela, la adopción, la administración de la sociedad conyugal y de sus propios ingresos a favor de su cónyuge y de sus acreedores alimenticios, dejándole el numerario suficiente para sus gastos personales;
+
+9).- El albaceazgo; y
+
+10).- La asistencia obligatoria una vez por semana con su cónyuge o concubina, hijos y demás miembros de su familia que lo deseen, a lugares de sano esparcimiento, aquellos donde se practique el deporte o adquiera cultura tales como parques recreativos y deportivos, plazas públicas, cinematógrafo, zoológicos, museos, bibliotecas, conciertos, exposiciones y cualquiera otro a juicio del Juez o del Órgano de Ejecución que fomenten la unión, el respeto familiar, la convivencia social, el sano entretenimiento, el deporte y la cultura.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+Esta última se impondrá siempre al sentenciado con régimen especial en libertad. Solo en casos justificados se podrá hacer excepción de las actividades que se mencionan en el punto 10 anterior.
+
+c).- La autoridad judicial, al determinar el régimen especial en libertad, cuidará asimismo que la afectación al desarrollo personal del sentenciado sea la mínima posible, que se evite su reincidencia, que tenga un sentido formativo y que contribuya a la protección de la sociedad, y particularmente de las víctimas;
+
+d).- La duración del régimen especial en libertad será la misma que la de sanción de privación de la libertad a la que sustituye;
+
+e).- Son aplicables al sustitutivo del régimen especial en libertad, las previsiones relativas a la duración, extinción y revocación señaladas en las fracciones VII y VIII de este artículo; y
+
+IV.- Las penas sustitutivas a que se refieren las fracciones anteriores se aplicarán independientemente de las medidas educativas, laborales y curativas siguientes:
+
+a).- Recibir educación básica, entendiendo por ésta, la primaria y secundaria obligatorias para quienes no la tuvieren terminada;
+
+b).- Recibir capacitación para el trabajo y cursos de especialización en su ámbito laboral y profesional;
+
+c).- Someterse a tratamiento terapéutico contra vicios, adicciones y enfermedades físicas o mentales que el Órgano de Ejecución aconseje o que el Juez considere adecuado de conformidad con los datos que obren en la causa.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+Estas medidas serán obligatorias para el sentenciado que hubiere solicitado o aceptado la pena sustitutiva. El Órgano de Ejecución tendrá obligación de proporcionar al Juez, de oficio, toda la información conducente para la aplicación de estas medidas, mismas que recomendará el Consejo Técnico Interdisciplinario que corresponda.
+
+V.- Para la aplicación de penas sustitutivas se requerirá, además, que:
+
+a).- La pena de prisión a substituir no se hubiere impuesto por delito que el artículo 109 del Código de Procedimientos Penales defina como grave;
+
+b).- El sujeto no haya sido condenado anteriormente en sentencia ejecutoriada por delito doloso o preterintencional que se persiga de oficio;
+
+c).- En su caso, pague o garantice el monto de la reparación del daño, en cualquiera de las formas previstas en las fracciones I a IV del artículo 401 del Código de Procedimientos Penales del Estado.
+
+Si la sentencia condena a la reparación del daño, pero sin fijar su monto en cantidad líquida, se aplicará desde luego el sustitutivo correspondiente si el sentenciado se encuentra detenido, quedando obligado a que, una vez hecha la liquidación, cubra el monto o garantice su pago, o se someta a las condiciones que se le fijen para pagarlo dentro del plazo o plazos que prudentemente fije el Juez. Si el sentenciado no satisface la obligación que en ese sentido le fuere impuesta y no acredita su imposibilidad para hacerlo dentro del plazo otorgado, se le revocará la sustitución concedida y se ordenará su aprehensión o reaprehensión, para que se ejecute la pena de prisión, en los términos del último párrafo del inciso b) de la fracción VIII de este artículo.
+
+Si el sentenciado no se encuentra detenido y se hubiere otorgado caución para reparar el daño, ésta se hará efectiva en las garantías exhibidas, lo anterior sin perjuicio de ulterior liquidación y pago de la diferencia resultante, que de no ser cubierta en el plazo o plazos que prudentemente fije el Juez y no acredite su imposibilidad para hacerlo dentro del plazo otorgado, motivará la revocación del sustitutivo concedido y se ordenará la aprehensión o reaprehensión en los términos del párrafo anterior;
+
+d).- La pena de prisión que no se estime como más adecuada que el sustitutivo. El sustitutivo se estimará como más adecuado que la pena de prisión, salvo que en atención a las circunstancias personales del sentenciado y a su comportamiento previo o en relación al proceso, se desprendan motivos razonables por los que el órgano jurisdiccional considere preferible la de prisión, para cumplir los fines de readaptación social; y
+
+e).- Otorgue caución para asegurar su presentación cuantas veces sea llamado por la autoridad.
+
+VI.- Como medidas de seguridad, cuando se aplique una pena sustitutiva, el sentenciado tendrá las siguientes obligaciones:
+
+a).- No podrá cambiar de residencia, sin autorización de la autoridad judicial;
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+b).- Comparecer ante el Juez de la causa y ante la dependencia del Ejecutivo a la que corresponda la ejecución de la sanción privativa de la libertad, cuantas veces sea requerido, e informar a este mensualmente y por escrito, sobre el cumplimiento de la pena sustitutiva, adjuntando las constancias que así lo acredite.
+
+c).- Deberá observar una actitud de respeto hacia la comunidad y de estricto cumplimiento a las leyes.
+
+Tanto el Código de Procedimientos Penales como la Ley para la Prevención de Conductas Antisociales, Auxilio a las Víctimas, Medidas Tutelares y Readaptación Social para el Estado, en lo conducente, reglamentarán las formas en que deberá cumplirse, por el sujeto, con los informes y constancias mensuales.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+De los informes y constancias que reciba el órgano encargado de la ejecución se llevará un expediente individualizado de control y vigilancia.
+
+VII.- La duración de las sanciones de prisión intermitente y de trabajo en favor de la comunidad, será la misma que la de la sanción de privación de la libertad a la que sustituye, fijada previamente por el juzgador según sus equivalencias.
+
+Si el sentenciado cumple a satisfacción con la sanción sustitutiva, el Juez, al transcurrir su término y previos los informes de las instituciones públicas y privadas, declarará extinguida la sanción sustituida.
+
+VIII.- El Juez, a petición del Ministerio Público, podrá dejar sin efecto la sustitución y ordenará la aprehensión o reaprehensión del sentenciado, para que se ejecute la pena de prisión impuesta, en los casos siguientes:
+
+a).- Cuando al sentenciado se le condene por otro delito doloso o preterintencional;
+
+b).- Cuando el sentenciado incumpla con cualquiera de las condiciones o medidas de seguridad y actividades que le fueron impuestas; y
+
+c).- Cuando se demuestre posteriormente que el sentenciado no tenía derecho al sustitutivo.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+La victima o el ofendido tendrá legitimación para acudir ante el Ministerio Público y la autoridad ejecutora e informarles sobre cualquier incumplimiento del sentenciado o del responsable del establecimiento donde deba cumplir con las penas sustitutivas.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+Asimismo, al decretar el Juez las penas sustitutivas, remitirá oficio con copia de la resolución donde las decida a la Secretaría General de Gobierno para que sea distribuida a los responsables de los cuerpos de seguridad estatal y municipales de la entidad. Toda autoridad que por virtud de su cargo tome conocimiento del incumplimiento de alguna de las medidas y penas sustitutas deberá informarlo a la Dependencia dicha para que a su vez lo comunique al Juez de la causa.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+Para la revocación o modificación de las condiciones o medidas del sustitutivo, o su sustitución por otro, al igual que para su concesión, si no se otorgó en sentencia, se estará al incidente respectivo previsto en el Código de Procedimientos Penales.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+Si se revocaren las penas sustitutivas, el Juez dictará resolución a partir del internamiento del sentenciado en el Centro respectivo, en la que determinará el período compurgado en virtud del trabajo a favor de la comunidad, por la prisión intermitente, por el tiempo cumplido en el régimen de libertad o por la combinación de ambos, para efecto de señalar el tiempo de prisión restante por compurgar.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
+
+En caso de que el sentenciado incumpla sus obligaciones, independientemente de la revocación de la pena sustituida, se hará acreedor a las sanciones que le corresponden de conformidad con los artículos 164 a 167 de este Código o por algún otro delito que con tal conducta cometiere.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
+
+###### ARTICULO 108 Bis.
+
+Cuando por haber sufrido el sujeto activo consecuencias graves en su persona o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa y restrictiva de la libertad, el Juez, de oficio o a petición de parte, motivando su resolución, podrá sustituirla por la de confinamiento y por medidas de seguridad. En todo caso el juzgador se apoyará en dictámenes de peritos.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 109.
 
-Se impondrá sanción de tres meses a tres años de prisión, al que altere en su valor, en el año de emisión, en el resello, leyenda, o clase, calcomanías, permisos y autorizaciones, formas valoradas o numeradas, placas o tarjetones legalmente emitidos.
+Los Jueces, apreciando las circunstancias personales del culpable, los móviles de su conducta, así como las circunstancias del hecho, podrán a su prudente arbitrio, conmutar en la sentencia la pena de prisión, cuando ésta no exceda de dos años, por la multa que no podrá ser menor de veinte ni mayor de doscientos días de salario, según las condiciones económicas del delincuente y las circunstancias que antes se mencionan. En este caso quedará a elección del sentenciado compurgar la pena corporal o pagar la multa impuesta.
+
+Este beneficio excluye la aplicación simultánea o sucesiva de la condena condicional, salvo que la capacidad económica no le permita de ningún modo cumplir con la pena conmutada.
 
 ###### ARTICULO 110.
 
-Las sanciones previstas en los dos artículos que preceden, se aplicarán aún cuando el autor del delito no se haya propuesto obtener algún beneficio.
+El Ejecutivo, tratándose de delitos contra la seguridad del Estado, podrá hacer la conmutación de las sanciones, después de la sentencia firme conforme a las siguientes reglas:
 
-### CAPÍTULO ÚNICO
+I.- Cuando la sanción impuesta sea la de prisión, se conmutará por confinamiento, por el término igual al de los dos tercios de lo que debiera durar la de prisión; y
+
+II.- Si fuere la de confinamiento, se conmutará en multa conforme al artículo 108.
+
+### CAPITULO II. AMNISTIA
 
 ###### ARTICULO 111.
 
-Se impondrá sanción de tres meses a tres años de prisión, al particular o empleado público que, a sabiendas de que una forma valorada o numerada, una placa, tarjetón o cualquier otro medio de control fiscal fue falsificado, lo posea, venda, ponga en circulación, en su caso, adhiera en documentos, objetos o libros, para ostentar el pago de alguna prestación fiscal.
+Para que pueda operar la conmutación, es indispensable cubrir o garantizar la reparación del daño.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
+### CAPITULO III. PERDON DEL OFENDIDO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 112.
 
-Se impondrá sanción de tres meses a tres años de prisión, a quien para pagar alguna prestación fiscal utilice una forma valorada o numerada, una placa, tarjetón o cualquier otro medio de control fiscal, a sabiendas de que fue manufacturado con fragmentos o recortes de otros o que sea falso.
+La condena condicional suspende la ejecución de las sanciones impuestas por sentencias definitivas en los términos de este artículo, de acuerdo con los siguientes requisitos:
+
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
+
+I.- Deberá otorgarse, a petición de parte o de oficio, al pronunciarse sentencia definitiva, que no exceda de cinco años de prisión, si concurren los siguientes requisitos:
+
+a).- Que no hubiera sido condenado con anterioridad por sentencia firme;
+
+b).- Que haya observado buena conducta después de la comisión del delito y antes de la sentencia;
+
+c).- Que haya observado con anterioridad modo honesto de vivir;
+
+d).- Que otorgue fianza que fijará el Juez o Tribunal de que se presentará ante la autoridad, siempre que fuere requerido; y
+
+e).- Que haya reparado el daño causado o depositado el monto de la condena por este concepto.
+
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
+
+II.- Si durante un término igual al de la sanción suspendida, contado desde la fecha en que se le concedió el beneficio, el sentenciado observa buena conducta, demuestra tener modo honesto de vivir, cumple con las sanciones distintas, a la privativa de la libertad y multa, impuesta por el Juez, y no diere lugar a nuevo proceso en el que se dicte auto de formal prisión, se considerará extinguida la sanción fijada en aquella.
+
+En caso contrario, se revocará el beneficio concedido y se hará efectiva la sanción suspendida.
+
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 10 DE JULIO DE 2003)</small>
+
+III.- Al otorgar la suspensión, el Juez podrá imponer como condición para gozar de este beneficio, una o varias de las medidas previstas en el inciso b) de la fracción III del artículo 108 de éste Código según el caso. De esta manera, la suspensión comprenderá sólo la sanción privativa de la libertad y la multa.
+
+IV.- A los delincuentes a quienes se conceda el beneficio de la condena condicional, se les hará saber el contenido de las fracciones II y III de este artículo, lo que se asentará en diligencia formal, sin que la falta de ésta impida, en su caso, la aplicación de lo prevenido en las mismas;
+
+V.- Los reos que disfruten del beneficio de la condena condicional, quedarán sujetos a la vigilancia de la autoridad;
+
+VI.- La obligación contraída por el fiador a que se refiere el inciso d) de la fracción I de este artículo, concluirá en los supuestos previstos en la fracción II;
+
+VII.- Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al Juez o Tribunal, a fin de que, si se estiman justificados, se prevenga al reo para que presente nuevo fiador dentro del plazo que deberá fijársele, apercibido de que, si no lo verifica, se hará efectiva la sanción suspendida.
 
 ###### ARTICULO 113.
 
-Se impondrá sanción de tres meses a tres años de prisión, a quien para pagar alguna prestación fiscal utilice una forma valorada o numerada, una placa, tarjetón o cualquier otro medio de control fiscal, a sabiendas que es falso.
+Corresponde el Ejecutivo del Estado la ejecución de las sanciones privativas y restrictivas de libertad conforme a la Ley de la materia, así como el otorgamiento de los beneficios que la misma establezca.
+
+Por cuanto a las sanciones que son impuestas y aplicadas por el Juez, se estará a lo dispuesto por el Código de Procedimientos Penales.
 
 # LIBRO TERCERO. DE LOS INGRESOS MUNICIPALES
 
-## TÍTULO QUINTO. DE LOS APROVECHAMIENTOS
+## TITULO TERCERO. DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS DE TRANSPORTE, VIAS DE COMUNICACION Y CORRESPONDENCIA
 
-### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+
+### CAPITULO IV. INDULTO
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 114.
 
-Se impondrá la misma sanción prevista en el artículo anterior, a quien manufacture, venda, ponga en circulación o en alguna otra forma comercie con los objetos descritos en el numeral anterior.
+La muerte del sujeto activo del delito extingue la acción penal así como las sanciones que se le hubieren impuesto, a excepción de las del decomiso de los instrumentos con que se cometió el delito, de las cosas que sean efecto y objeto de él y de la reparación del daño.
 
 ###### ARTICULO 115.
 
-Contra los actos administrativos dictados en materia fiscal, se podrá interponer el recurso de revocación.
+La amnistía extingue tanto la acción penal como las sanciones impuestas, quedando subsistente la reparación del daño. Sus efectos se determinarán en la ley que se dicte al respecto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
-
-### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
+### CAPITULO V. REHABILITACION
 
 ###### ARTICULO 116.
 
-El recurso de revocación procederá contra:
+El perdón del ofendido o de la víctima, en su caso, extingue la acción penal, cuando concurran los requisitos siguientes:
 
-I.- Las resoluciones definitivas dictadas por autoridades fiscales que:
+I.- Que el delito sea de los que se persiga a instancia de parte;
 
-a) Determinen contribuciones, accesorios o aprovechamientos;
+II.- Que el perdón se conceda antes de que cause ejecutoria la sentencia definitiva que se dicte; y
 
-b) Nieguen la devolución de cantidades que procedan conforme a la Ley; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-c) Cualquier resolución de carácter definitivo que cause agravio al particular en materia fiscal, salvo aquella a que se refiere el artículo 74 de este Código.
+III.- Que lo otorgue el ofendido o la víctima por sí, o por medio de su representante legal o convencional con cláusula especial.
 
-II.- Los actos de autoridades fiscales que:
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
 
-a) Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la oficina ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 22 de este Código.
+También procede el perdón del ofendido o de la víctima cuando se trate de delitos que se persiguen de oficio, siempre y cuando se cubran los requisitos señalados en las fracciones II y III de este artículo, y se reúnan las siguientes condiciones:
 
-b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue, que éste no se ha ajustado a la ley.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
 
-c) Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 127 de este Código.
+a).- Que el delito no sea de los considerados como graves por el artículo 109 del Código de Procedimientos Penales, que la penalidad no exceda de 5 años de prisión en su término medio aritmético y se trate de los previstos por los artículos 305 fracciones I y II, 307; 310; 312; 319 en relación con el 320 fracciones I y II, 322 fracciones I y II, 325 y 327; 329 en relación con el 20; 368 bis; 368 ter; 399 y 400 en relación con el 402 fracciones I, II y III y 403; y, 422 de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+b).- Que el inculpado no tenga antecedentes penales y no se encuentre sujeto a diverso proceso por delito doloso.
 
-### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
+c).- Que se haya reparado el daño.
+
+El perdón otorgado beneficia a los autores, partícipes y encubridores.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 1988)</small>
+
+### CAPITULO VI. PRESCRIPCION
 
 ###### ARTICULO 117.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+El indulto sólo podrá concederse por el Ejecutivo del Estado, cuando haya sanción impuesta en sentencia firme.
 
 ###### ARTICULO 118.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 22 DE JUNIO DE 1998)
 
 ###### ARTICULO 119.
 
-La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal de Justicia Administrativa del Estado. Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que corresponda.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+Podrá concederse indulto, cuando el reo haya presentado importantes servicios a la Nación o al Estado, y cuando, prudencial o discrecionalmente, así lo resuelva el Ejecutivo por razones humanitarias o sociales, para quienes, por la conducta observada en la reclusión, o su constante dedicación al trabajo, se les considere merecedores del mismo.
 
 ###### ARTICULO 120.
 
-El escrito de interposición del recurso deberá presentarse ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los treinta días siguientes a aquel en que haya surtido efectos su notificación.
-
-Si el particular tiene su domicilio fuera de la población en que radique la autoridad que emitió o ejecutó el acto impugnado, el escrito de interposición del recurso podrá presentarse en la oficina exactora más cercana a dicho domicilio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
-
-Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta por un año, si antes no se hubiere aceptado el cargo de representante de la sucesión.
+El indulto no extinguirá la obligación de reparar el daño.
 
 ###### ARTICULO 121.
 
-El escrito de interposición del recurso deberá satisfacer los requisitos del artículo 19 de este Código y señalar además:
-
-I.- El acto que se impugna.
-
-II.- Los agravios que le cause el acto impugnado.
-
-III.- Las pruebas y los hechos controvertidos de que se trate.
-
-Cuando no se haga alguno de los señalamientos anteriores, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los indique. En caso de incumplimiento, se tendrá por no presentado el recurso.
-
-Cuando no se gestione en nombre propio, la representación de los interesados deberá recaer en licenciado en derecho. No será aplicable lo dispuesto en este párrafo si la gestión se realiza en nombre de una persona moral en los términos de la ley que la regula y conforme a sus estatutos, sin perjuicio de lo que disponga la legislación de profesiones.
+La rehabilitación restituye al condenado en la plenitud de los derechos que se le privaron o limitaron por la sentencia dictada.
 
 ###### ARTICULO 122.
 
-El promovente deberá acompañar al escrito en que se interponga el recurso:
-
-I.- Los documentos que acrediten su personalidad cuando actúe en nombre de otro o de personas morales.
-
-II.- El documento en que conste el acto impugnado.
-
-III.- Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancia o cuando la notificación se haya practicado por correo certificado con acuse de recibo o se trate de negativa ficta. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y el órgano en que ésta se hizo.
-
-IV.- Las pruebas documentales que ofrezca y el dictamen pericial, en su caso.
-
-Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos, y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
-
-La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-En el caso de que no se acompañen al escrito de interposición del recurso los documentos a que se refiere la fracción IV de este artículo, se tendrán por no ofrecidas las pruebas respectivas. Cuando no se acompañen alguno de los documentos a que se refieren las demás fracciones de este precepto, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días los presente, su falta de presentación dará lugar a que se tenga por no interpuesto el recurso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
-
-Los documentos a que se refieren las fracciones anteriores, podrán presentarse en fotocopia simple, siempre que obren en poder del recurrente los originales. En caso de que presentándolos en esta forma la autoridad tenga indicios de que no existen o son falsos, podrá exigir al contribuyente la presentación del original o copia certificada.
+La rehabilitación no producirá el efecto de reponer en los cargos, comisiones o empleos de que se privó al condenado.
 
 ###### ARTICULO 123.
 
-Es improcedente el recurso cuando se haga valer contra actos administrativos:
+La rehabilitación, tratándose de la privación de derechos, se concederá si concurren los siguientes requisitos:
 
-I.- Que no afecten el interés jurídico del recurrente.
+I.- Después de seis años de haber cumplido la pena impuesta; de ocho si se trata de reincidente y de doce si se trata de habitual;
 
-II.- Que sean resoluciones dictadas en recursos administrativos o en cumplimiento de éstos o de sentencias.
+II.- Cuando el condenado hubiera evidenciado, con acciones positivas, buena conducta durante el tiempo señalado en la fracción anterior; y,
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-III.- Que hayan sido impugnados ante el Tribunal de Justicia Administrativa del Estado.
-
-IV.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto.
-
-V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-VI.- Si son revocados los actos por la autoridad.
-
-VII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+III.- Que haya reparado el daño causado.
 
 ###### ARTICULO 124.
 
-El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de Justicia Administrativa del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de las resoluciones dictadas en cumplimiento de las emitidas en el recurso de revocación.
+La rehabilitación quedará revocada de pleno derecho, si el rehabilitado comete un nuevo delito por el cual sea condenado en sentencia firme.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+### CAPITULO VII. RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1988)</small>
 
-### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
+###### ARTICULO 142 Bis.
+
+Cualquiera que sea la pena o medida de seguridad impuesta en sentencia firme, ésta quedará sin efecto cuando se acredite que el sentenciado es inocente, en los términos del Código de Procedimientos Penales.
+
+Si la ha cumplido, da derecho a él o a sus herederos en sus respectivos casos, a obtener la declaratoria de su inocencia y la reparación del daño en los términos del Artículo 92 Bis.
 
 ###### ARTICULO 125.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
+Por la prescripción se extingue la acción y las sanciones penales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+### CAPITULO I. ATENTADOS A LA SOBERANIA DEL ESTADO
 
-### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
+###### ARTICULO 126.
 
-###### ARTÍCULO 126.
+La prescripción es personal y para que opere basta el simple transcurso del tiempo señalado por la ley.
 
-Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate, sólo podrán hacerse valer ante la autoridad recaudadora hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre dinero en efectivo, depósitos en cuenta abierta en instituciones de crédito, organizaciones auxiliares de crédito o sociedades cooperativas de ahorro y préstamo, así como de bienes legalmente inembargables o de actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en que surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
+La prescripción producirá su efecto, aunque no la invoque el acusado.
 
-Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se trate de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
+La autoridad la hará valer de oficio, sea cual fuere el estado del procedimiento.
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
+### CAPITULO II. REBELION
 
 ###### ARTICULO 127.
 
-El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de oposición al procedimiento administrativo de ejecución en cualquier tiempo antes de que se finque el remate, se enajenen fuera del remate o se adjudiquen los bienes a favor del fisco estatal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
+Los términos para la prescripción de la acción penal serán continuos y se contarán desde el día en que se consumó el delito, si fuere instantáneo; desde que cesó, si fuere permanente; desde que se realizó la última conducta si fuera continuado, y desde que se verificó el último hecho ejecutivo, en caso de tentativa.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1998)</small>
-
-### CAPÍTULO II. DEL GASTO PÚBLICO
+### CAPITULO III. SEDICION Y OTROS DESORDENES PUBLICOS
 
 ###### ARTICULO 128.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 2017)
+La acción penal prescribe en un año, si el delito sólo se sancionare con multa.
 
-### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
+Si el delito mereciere, además de esta sanción, la privativa de la libertad, o fuere alternativa, se atenderá a la de privación de libertad; lo mismo se observará cuando corresponda alguna otra sanción accesoria, pero, en el caso de la reparación del daño, quedarán a salvo los derechos del ofendido para que los ejerza en la vía y forma que corresponda.
+
+### CAPITULO IV. CONSPIRACION
 
 ###### ARTICULO 129.
 
-En el recurso de revocación se admitirán toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
-
-Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
-
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
-
-Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
-
-Las demás pruebas quedarán a la prudente apreciación de la autoridad.
-
-Si por el enlace de las pruebas rendidas y de las presunciones formadas, la autoridad adquiere convicción distinta acerca de los hechos materia del recurso, podrá valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+Para la prescripción de la acción penal se tendrá como base el término medio aritmético de la sanción señalada al delito de que se trate, pero en ningún caso bajará de tres años.
 
 ###### ARTICULO 130.
 
-La autoridad deberá dictar resolución y notificarla en un término que no excederá de tres meses contados a partir de la fecha de interposición del recurso o de la fecha en que se haya satisfecho la prevención para que se corrija o complete el recurso intentado. El silencio de la autoridad significará que se ha confirmado el acto impugnado.
+Si el delito sólo mereciere destitución, suspensión, privación de derechos o inhabilitación, la acción penal prescribirá en dos años.
 
-El recurrente podrá decidir esperar la resolución expresa o impugnar hasta antes de su notificación la presunta confirmación del acto impugnado.
-
-### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
+### CAPITULO I. EVASION DE PRESOS
 
 ###### ARTICULO 131.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
+La acción penal que nazca de un delito que sólo pueda perseguirse a instancia de parte ofendida, prescribirá en un año, contado desde el día en que la parte ofendida tenga conocimiento del delito y del delincuente, y en tres, independientemente de esa circunstancia.
 
-La resolución expresará con claridad los actos que se modifiquen y si la modificación es parcial, se indicará el monto del crédito fiscal correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
-
-La autoridad podrá corregir los errores que advierta en la cita de los preceptos que se consideren violados y examinar en su conjunto los agravios, así como los demás razonamientos del recurrente, a fin de resolver la cuestión efectivamente planteada, pero sin cambiar los hechos expuestos en el recurso. Igualmente podrá revocar los actos administrativos cuando advierta una ilegalidad manifiesta y los agravios sean insuficientes, pero deberá fundar cuidadosamente los motivos por los que consideró ilegal el acto y precisar el alcance de su resolución.
+Llenado el requisito inicial de la querella, se observarán las reglas señaladas por la ley para los delitos que se persiguen de oficio.
 
 ###### Art. 136.
 
@@ -6602,129 +6776,53 @@ LEY QUE REFORMA LOS ARTICULOS 73, 74, 76, 79, 89, 94, 96, 97, 98, 99, 100 Y 111.
 
 ###### ARTICULO 1o.
 
-Las reformas constitucionales a que se contrae la presente ley, entrarán en vigor el día 20 de diciembre del presente año.
+Los ámbitos de validez para la aplicación de este Código, son el espacial, el temporal y el personal.
 
 ###### ARTICULO 2o.
 
-Los actuales Ministros de la Suprema Corte de Justicia de la Nación quedarán sujetos a la ratificación de sus nombramientos por el Presidente de la República, con aprobación del Senado.
-
-Los actuales Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, quedarán sujetos a la ratificación de sus nombramientos por el Presidente de la República, con aprobación de la Cámara de Diputados. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Ministros y Magistrados.
+Cuando se cometa un delito no previsto en este Código, pero sí en una ley especial local, se aplicará ésta, observando las disposiciones contenidas en este Código; igualmente cuando el hecho, por sus características propias, esté descrito también en una ley especial local, se aplicará ésta en las mismas condiciones fijadas en este artículo.
 
 ###### ARTICULO 3o.
 
-Los actuales Magistrados de Circuito y Jueces de Distrito quedarán sujetos a la ratificación de sus nombramientos por la Suprema Corte de Justicia de la Nación, que decidirá si los ratifica dentro del término de sesenta días a contar de la fecha en que la misma Suprema Corte quede integrada, de acuerdo con el presente Decreto. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Magistrados y Jueces.
+Este Código se aplicará por los delitos cometidos en el territorio del Estado de Tamaulipas, que sean de la competencia de sus Tribunales.
 
 ###### ARTICULO 4o.
 
-Los actuales Jueces del Orden Común del Distrito Federal y de los Territorios, quedarán sujetos a la ratificación de sus nombramientos por el Tribunal Superior de Justicia del Distrito Federal, que decidirá si los ratifica dentro del término de sesenta días a contar de la fecha en que el mismo Tribunal Superior de Justicia quede integrado, de acuerdo con el presente Decreto. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Jueces.
-
-D.O.F. 20 DE AGOSTO DE 1928.
-
-LEY QUE REFORMA EL ARTICULO 52 Y EL PARRAFO CUARTO DE LA FRACCION III DEL ARTICULO 115.
-
-PRIMERO.- La reforma del artículo 52 constitucional entrará en vigor al verificarse las elecciones para integrar la Cámara de Diputados del XXXIV Congreso de la Unión, en el año de 1930.
-
-SEGUNDO.- La división territorial que servirá de base para la elección de los Diputados a la XXXIV Legislatura de la Unión, será con sujeción al presente Decreto.
-
-TERCERO.- Las reformas al párrafo cuarto de la fracción III del artículo 115 constitucional, surtirán sus efectos en las elecciones de diputados a las Legislaturas de los Estados, en las fechas en que, de conformidad con sus Constituciones Políticas locales y leyes electorales respectivas, se verifiquen, a partir de la promulgación de la presente ley.
-
-D.O.F. 20 DE AGOSTO DE 1928.
-
-LEY QUE REFORMA LAS BASES 1a., 2a., Y 3a. DE LA FRACCION VI DEL ARTICULO 73.
-
-Unico.- Esta ley entrará en vigor el día primero de enero de mil novecientos veintinueve.
-
-D.O.F. 6 DE SEPTIEMBRE DE 1929.
-
-LA LEY DE REFORMAS CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 7 DE FEBRERO DE 1931.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 19 DE DICIEMBRE DE 1931.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
-
-D.O.F. 27 DE ABRIL DE 1933.
+Se aplicará, igualmente, por los delitos cuya ejecución se inicie fuera del territorio del Estado y se consumen o causen efectos dentro del mismo.
 
 ###### ARTICULO UNICO.
 
-Esta Ley comenzará a regir desde la fecha de su publicación en el "Diario Oficial."
+El presente Decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 29 DE ABRIL DE 1933.
-
-###### ARTICULO UNICO.
-
-En las próximas elecciones ordinarias de Poderes Federales, se elegirán Senadores de número par por un período de seis años; en el año de 1936 deberán verificarse elecciones extraordinarias de Senadores de número impar, para un período de cuatro años, y en el año de 1940 se verificarán elecciones ordinarias de la totalidad de los miembros del Senado de la República.
-
-D.O.F. 4 DE NOVIEMBRE DE 1933.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 10 DE ENERO DE 1934.
-
-UNICO.- Se abroga la Ley de 6 de enero de 1915, sus reformas y demás disposiciones legales que se opongan a la vigencia de la presente reforma.
-
-D.O.F. 18 DE ENERO DE 1934.
-
-DECRETO QUE REFORMA EL ARTICULO 42.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 18 DE ENERO DE 1934.
-
-DECRETO QUE REFORMA LOS ARTICULOS 30, 37, 73, FRACCION XVI Y 133.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 18 DE ENERO DE 1934.
-
-DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 73.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 18 DE ENERO DE 1934.
-
-DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 104.
+P.O. 27 DE MARZO DE 1993.
 
 ###### ARTICULO UNICO.
 
-Los recursos de súplica que actualmente se encuentran en tramitación, habrán de seguirse y de sentenciarse de acuerdo con la legislación vigente cuando se promovieron.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 22 DE MARZO DE 1934.
+P.O. 24 DE NOVIEMBRE DE 1993.
 
-UNICO.- La parte continental que anteriormente pertenecía al Territorio de Quintana Roo y que ha quedado anexada a los Estados de Yucatán y Campeche, queda libre de cualquier adeudo que pudiera existir a favor del comercio y empleados públicos que prestaron sus servicios en dicho Territorio hasta el 31 de diciembre de 1931, en que se anexó a los Estados de Yucatán y Campeche, pues la Federación liquidará y pagará dichos adeudos, debiendo quedar en consecuencia, a favor de la Federación, los créditos que hasta la fecha de la entrega de dicho Territorio existían por concepto de impuestos y demás aprovechamientos del Erario. En igualdad de circunstancias quedarán las islas y cayos que en lo futuro pertenecerán a Yucatán y Campeche.
+###### ARTICULO UNICO.
 
-Los bienes muebles e inmuebles que estuvieron al servicio de las autoridades civiles, tanto en la parte continental como en las islas anteriormente mencionadas, pasarán a ser respectivas propiedades de las entidades federativas mencionadas.
+El presente Decreto entrará en vigor veinte días después de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 13 DE DICIEMBRE DE 1934.
+P.O. 25 DE OCTUBRE DE 1995.
 
-UNICO.- Las presentes reformas constitucionales entrarán en vigor el día primero de diciembre del presente año.
+###### ARTICULO PRIMERO
 
-D.O.F. 15 DE DICIEMBRE DE 1934.
+- El presente Código entrará en vigor el día primero de enero de mil novecientos ochenta y siete, previa su publicación en el Periódico Oficial del Estado.
 
-DECRETO QUE REFORMA EL ULTIMO PARRAFO DE LA BASE 4ª DE LA FRACCION VI DEL ARTICULO 73, EL ARTICULO 94 Y LAS FRACCIONES II Y III DEL ARTICULO 95.
+###### ARTICULO SEGUNDO
 
-###### ARTICULO PRIMERO.
+- A partir de la entrada en vigor de este Código, se abroga el expedido mediante decreto de fecha veinticuatro de enero de mil novecientos cincuenta y seis, publicado en el Periódico Oficial del Estado el cuatro de febrero de dicho año, con sus respectivas reformas y adiciones.
 
-La presente reforma entrará en vigor el día 15 de diciembre del año en curso.
+###### ARTICULO TERCERO
 
-###### ARTICULO SEGUNDO.
+- El Código que se abroga y sus reformas y adiciones continuarán aplicándose únicamente para los hechos ejecutados durante su vigencia, bajo los términos establecidos en los dos siguientes artículos.
 
-Los ministros de la Suprema Corte de la Nación y los magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales, actualmente en ejercicio, cesarán en sus encargos el día 31 de diciembre del año en curso.
+###### ARTICULO CUARTO
 
-###### ARTICULO TERCERO.
-
-Los ministros de la Suprema Corte de Justicia y los magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales que sean designados de acuerdo con la presente reforma, tomarán posesión el día 1º de enero del próximo año de 1935.
-
-###### ARTICULO CUARTO.
-
-La Suprema Corte de Justicia de la Nación designará a los nuevos magistrados de Circuito y jueces de Distrito, dentro de los diez primero días del mes de enero de 1935. Asimismo, el Tribunal Superior de Justicia del Distrito y Territorios Federales designará a los nuevos jueces del fuero común del Distrito y Territorios Federales dentro del mismo plazo.
-
-D.O.F. 15 DE DICIEMBRE DE 1934.
-
-DECRETO QUE REFORMA EL ARTICULO 32.
+- Todos los hechos ocurridos, procesos instruidos y sentencias pronunciadas conforme al Código que se abroga, se regirán por la ley más favorable al inculpado, procesado o sentenciado.
 
 ###### ARTICULO 1o.
 
@@ -6754,175 +6852,81 @@ Las deudas pendientes hasta la fecha en que entre en vigor esta reforma, y que h
 
 ###### ARTICULO 5o.
 
-Los Estados de Yucatán y Campeche, una vez que entre en vigor esta reforma constitucional, harán entrega a las autoridades de la nueva entidad de los archivos y expedientes que obren en las Oficinas Administrativas y en los Tribunales del lugar.
-
-D.O.F. 18 DE ENERO DE 1935.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 6 DE DICIEMBRE DE 1937.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 12 DE AGOSTO DE 1938.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 31 DE DICIEMBRE DE 1938.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 11 DE SEPTIEMBRE DE 1940.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 9 DE NOVIEMBRE DE 1940.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 14 DE DICIEMBRE DE 1940.
-
-DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 73.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 14 DE DICIEMBRE DE 1940.
-
-DECRETO QUE ADICIONA LA BASE SEGUNDA DE LA FRACCION VI DEL ARTICULO 73.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 24 DE OCTUBRE DE 1942.
-
-UNICO.- La presente Ley entrará en vigor el día 1º del mes siguiente al en que sea publicada en el "Diario Oficial" de la Federación.
-
-D.O.F. 17 DE NOVIEMBRE DE 1942.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 18 DE NOVIEMBRE DE 1942.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 30 DE DICIEMBRE DE 1942.
+La sentencia penal firme, pronunciada en el extranjero o en las distintas entidades de la República, tendrá en el Estado el valor de cosa juzgada para los efectos del Artículo 23 de la Constitución de la República.
 
 ###### ARTICULO UNICO.
 
-La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 8 DE ENERO DE 1943.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 10 DE FEBRERO DE 1944.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 21 DE SEPTIEMBRE DE 1944.
+P.O. 15 DE FEBRERO DE 1997.
 
 ###### ARTICULO PRIMERO.
 
-Dentro de los treinta días siguientes al en que entre en vigor esta reforma constitucional, el C. Presidente de la República hará, en los términos de la misma reforma, el nombramiento de los Ministros y Magistrados que deberán integrar la Suprema Corte de Justicia y el Tribunal Superior de Justicia del Distrito y Territorios Federales.
+El presente Decreto entrará en vigor el día treinta de junio de mil novecientos noventa y nueve, previa su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-La Suprema Corte y el Tribunal Superior de Justicia del Distrito y Territorios Federales harán, respectivamente, las designaciones de los funcionarios inamovibles a que se refiere esta ley, dentro del término de treinta días, que se contarán a partir de la fecha en que tales cuerpos judiciales queden constituídos con arreglo al artículo anterior.
-
-D.O.F. 21 DE ABRIL DE 1945.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 30 DE DICIEMBRE DE 1946.
-
-DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 104.
+A las personas cuyo proceso judicial se encuentre en trámite a la fecha de iniciación de la vigencia de este Decreto, en la sentencia podrán aplicárseles las penas sustitutivas previstas en la presente reforma legislativa, en caso de ser procedente.
 
 ###### ARTICULO UNICO.
 
-Esta Ley entrará en vigor diez días después de su publicación en el "Diario Oficial" de la Federación.
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 30 DE DICIEMBRE DE 1946.
-
-DECRETO QUE REFORMA EL ARTICULO 3°.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 30 DE DICIEMBRE DE 1946.
-
-DECRETO QUE REFORMA LA FRACCION VIII DEL ARTICULO 73 Y ADICIONA LA FRACCION VIII DEL ARTICULO 117.
-
-UNICO.- Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
-
-D.O.F. 12 DE FEBRERO DE 1947.
-
-DECRETO QUE REFORMA LAS FRACCIONES X, XIV Y XV DEL ARTICULO 27.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 12 DE FEBRERO DE 1947.
-
-DECRETO QUE ADICIONA EL PARRAFO PRIMERO DE LA FRACCION I DEL ARTICULO 115.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 29 DE DICIEMBRE DE 1947.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 2 DE DICIEMBRE DE 1948.
-
-DECRETO QUE REFORMA LA FRACCION I DEL ARTICULO 20.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 2 DE DICIEMBRE DE 1948.
-
-DECRETO QUE ADICIONA LA FRACCION I DEL ARTICULO 27.
+P.O. 30 DE ENERO DE 1999.
 
 ###### ARTICULO UNICO.
 
-La presente adición a la fracción I del artículo 27 de la Constitución General de la República entrará en vigor el día siguiente al de su publicación en el "Diario Oficial".
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 10 DE FEBRERO DE 1949.
+P.O. 5 DE JUNIO DE 1999.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
-
-D.O.F. 19 DE FEBRERO DE 1951.
-
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+DECRETO No. 23
 
 ###### ARTICULO PRIMERO.
 
-Las reformas a los artículos 94, 97, párrafo primero, 98 y 107, entrarán en vigor a los noventa días siguientes al de su publicación en el "Diario Oficial" de la Federación. Sin embargo, dentro de esos noventa días, deberá procederse al nombramiento de los Ministros Supernumerarios, de los nuevos Magistrados de los Tribunales Colegiados de Circuito y de todos los Magistrados de los Tribunales Unitarios de Circuito y de los Jueces de Distrito, con arreglo a las disposiciones que establece la Constitución y estas reformas.
+El presente Decreto entrará en vigor el día primero de enero del año dos mil dos, previa su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Cuando estas designaciones recaigan en Magistrados o Jueces del Poder Judicial de la Federación, que lleven actualmente más de cuatro años ininterrumpidos en el desempeño de su encargo, ya sea que se les reelija o que sean promovidos a cargos superiores, sólo podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, ó previo el juicio de responsabilidad correspondiente.
+Todos los hechos ocurridos, procesos instruidos y sentencias pronunciadas antes de la entrada en vigor de este Decreto, se regirán por la ley más favorable al reo.
 
 ###### ARTICULO TERCERO.
 
-Los magistrados de Circuito y los Jueces de Distrito, actualmente en ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
+Las personas que hubieren sido condenadas por sentencia ejecutoriada antes de la iniciación de vigencia de este Decreto y se encuentren en los supuestos de esta reforma legislativa, podrán promover la aplicación de penas sustitutivas mediante el incidente respectivo, en los términos del Código de Procedimientos Penales para el Estado.
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+P.O. 5 DE JUNIO DE 1999.
 
-###### ARTICULO CUARTO.
+DECRETO No. 28
 
-Los Ministros Supernumerarios a que se refiere el artículo 94, constituídos temporalmente en la Sala Auxiliar resolverán, en el plazo que les fije el Pleno de la Suprema Corte de Justicia, el acervo de amparos civiles directos, cualesquiera que sean las violaciones alegadas, excepción hecha de los promovidos dentro de los tres meses anteriores a la fecha en que entren en vigor las presentes reformas o de los en que ya exista proyecto de resolución del Ministro relator correspondiente. Entretanto, aquellos Ministros no desempeñarán las funciones que como Supernumerarios les atribuyen estas reformas y las que les encomienden la Ley de Amparo o la Ley Orgánica del Poder Judicial de la Federación, y, no obstante lo dispuesto en el artículo 94 deberán integrar el Pleno en el caso del párrafo final de la fracción XIII del artículo 107 sólo cuando la contradicción haya surgido entre tesis sustentadas por la Sala Auxiliar y por alguna de las otras cuatro.
+###### ARTÍCULO CUARTO.
 
-Los amparos en revisión, penales, civiles, administrativos o del trabajo, que actualmente radican en la Suprema Corte de Justicia y que conforme a estas reformas sean de la competencia de los Tribunales Colegiados de Circuito, pasarán al conocimiento del Tribunal Colegiado de Circuito que corresponda.
+Al entrar en vigor este ordenamiento, se decretará el sobreseimiento de los procedimientos penales relacionados con los hechos que sean competencia de los jueces de paz conforme a la misma, sin perjuicio del derecho de las víctimas u ofendidos por esos hechos de presentar su demanda ante el Juez de Paz competente. Tanto el ministerio público, como la autoridad judicial que vinieran conociendo de esos expedientes brindarán orientación a las víctimas u ofendidos sobre el contenido y alcances de la Ley de Justicia de Paz para el Estado y la forma de presentar el asunto al juez de paz competente.
 
-###### ARTICULO QUINTO.
+P.O. 22 DE AGOSTO DE 2007.
 
-Las Salas correspondientes de la Suprema Corte de Justicia resolverán los amparos directos, penales o del trabajo, por violaciones cometidas durante la secuela del procedimiento, que se hayan promovido con anterioridad a la fecha en que entren en vigor las presentes reformas y que, en lo sucesivo, de acuerdo con la fracción VI del artículo 107, serán de la competencia de los Tribunales Colegiados de Circuito.
+DECRETO No. LIX-964
 
-###### ARTICULO SEXTO.
+###### ARTICULO QUINTO
 
-Queda facultada la Suprema Corte de Justicia de la Nación, para dictar todas las otras medidas transitorias que sean necesarias, para la efectividad e inmediato cumplimiento de las presentes reformas.
+- Para los efectos del transitorio anterior, tratándose de procesos en los que no se hubiere emitido sentencia y de señalar este Código una sanción menor, se aplicará el presente ordenamiento. En caso de haberse dictado ya sentencia firme, si el presente Código deja subsistente la pena señalada al delito, pero disminuye su duración, a petición del reo, se reducirá la sanción impuesta, en la misma proporción en que esté el mínimo de la señalada en el Código que se abroga y la que prevea este ordenamiento, debiendo observarse para ello las reglas correspondientes del procedimiento.
 
-###### ARTICULO SEPTIMO.
+###### ARTICULO SEXTO
 
-La reforma al artículo 73, fracción VI, Base Cuarta, párrafo último, entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+- Los procesos que se estén instruyendo por hechos que este Código no tipifique como delito, se sobreseerán, ordenándose la inmediata libertad del acusado; también se decretará dicha libertad a quienes hubieran sido sentenciados, bajo las condiciones anteriores.
 
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+###### ARTICULO SEPTIMO
+
+- Las disposiciones de carácter penal que se encuentren previstas en leyes especiales y que no queden comprendidas en lo dispuesto por el presente Código, continúan vigentes en todos sus términos.
+
+"SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tamaulipas a 24 de Octubre de 1986.- Diputado Presidente, Dr. Carlos Romo Juárez.- Diputado Secretario, Profr. y Lic. Rigoberto García García.- Diputado Secretario, J. Guadalupe Puga García.- Rúbricas".
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+"Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los once días del mes de Noviembre de mil novecientos ochenta y seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Dr. EMILIO MARTINEZ MANAUTOU.- EL SECRETARIO GENERAL DE GOBIERNO.- Lic. ROBERTO PERALES MELENDEZ.- Rúbricas".
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 22 DE JUNIO DE 1988.
 
 ###### ARTICULO OCTAVO.
 
@@ -6936,49 +6940,69 @@ D.O.F. 28 DE MARZO DE 1951.
 
 ###### ARTICULO UNICO.
 
-La adición al artículo 131 de la Constitución General de la República, entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-D.O.F. 11 DE JUNIO DE 1951.
-
-La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
-
-D.O.F. 16 DE ENERO DE 1952.
+P.O. 7 DE JUNIO DE 2001.
 
 ###### ARTICULO PRIMERO.
 
-El Estado de Baja California tiene la extensión y límites que tenía el Territorio de Baja California Norte, y
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-La presente reforma entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+Los procesados y sentenciados, que al momento de la comisión del delito hubiesen tenido menos de dieciocho años de edad, serán turnados a las autoridades competentes que establezcan las leyes del Sistema Integral de Justicia para Adolescentes, a fin de continuar con el proceso o ajustar la pena o medida de seguridad impuesta, según corresponda, de conformidad con lo que dispongan la ley especial reglamentaria de los párrafos cuarto, quinto y sexto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y los dispositivos correspondientes de la Constitución Política del Estado.
 
-D.O.F. 17 DE OCTUBRE DE 1953.
+Para determinas las medidas de tratamiento contenidas en la ley estatal de justicia juvenil, en su caso, se deberá computar el tiempo que estuvo privado de la libertad.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+P.O. 8 DE MARZO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial del Estado establecerá los juzgados de paz conforme a las disponibilidades de su presupuesto de egresos. En tanto se nombran y entran en funciones los jueces de paz, sus funciones serán desempeñadas por los jueces menores.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 2001.
+
+###### ARTICULO 6o.
+
+La sanción aplicable al delito se determinará conforme a la ley vigente en el momento de la conducta punible.
+
+###### ARTICULO 7o.
+
+Si la sanción fuese modificada durante la realización del delito, se aplicará la prevista en la Ley más favorable al reo.
+
+###### ARTICULO 8o.
+
+Si la sanción fuere modificada durante el lapso comprendido de la realización del delito a la sentencia que debiera pronunciarse, se aplicará la más favorable al reo.
+
+###### ARTICULO 9o.
+
+Si pronunciada la sentencia firme, se dictare una ley que, dejando subsistente el delito, disminuya la sanción, se reducirá ésta en la misma proporción en que estén el mínimo de la señalada en la ley anterior y el de la fijada en la posterior.
+
+En el caso de que cambiare la naturaleza de la sanción, si el condenado lo solicita se substituirá la señalada en la ley anterior, por la fijada en la posterior.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el día 1o. de Enero de 1996.
+La presente Ley se publicará en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 ###### ARTICULO SEGUNDO.
 
-Para los efectos de lo dispuesto en el artículo 18 Bis del Código Fiscal del Estado, a fin de proceder a la actualización de contribuciones y devoluciones a partir del año de 1996 y que fueron exigibles con anterioridad a dicho año, se considerará como mes más antiguo del período el de enero de 1996.
+Se abroga la Ley de Prevención, Atención y Asistencia a la Violencia Intrafamiliar expedida mediante Decreto 27, del 27 de mayo de 1999, de la Quincuagésima Séptima Legislatura, publicada en el Periódico Oficial del Estado número 45, con fecha 5 de junio de 1999, y sus reformas y adiciones contenidas en los Decretos LIX-547, del 9 de mayo de 2006 y publicado en el Periódico Oficial del Estado número 66, del 1 de junio de 2006; LIX-563, del 8 de agosto de 2006; y LIX-1084, del 3 de diciembre de 2007 y publicado en el Periódico Oficial del Estado número 4, del 8 de enero de 2008.
 
-P.O. 27 DE DICIEMBRE DE 1996.
+P.O. 9 DE DICIEMBRE DE 2008.
 
-UNICO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1997.
+###### ARTICULO TERCERO.
 
-P.O. 29 DE DICIEMBRE DE 1997.
+Los procesos que se estén instruyendo por hechos que este Decreto deja de considerar como delitos, se sobreseerán, ordenándose inmediatamente la libertad del acusado y de aquellos que hubieran sido sentenciados, bajo las condiciones anteriores.
 
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor el día primero de Enero de 1998.
-
-P.O. 30 DE DICIEMBRE DE 1998.
-
-###### ARTICULO TERCERO
-
-- Se dejan a salvo los derechos laborales del personal que trabaja en el Tribunal Fiscal del Estado. En lo que hace al mobiliario y demás activo del Tribunal de referencia, pasará a disposición del Tribunal de lo Contencioso Administrativo que se está creando.
+P.O. 9 DE JULIO DE 2001.
 
 ###### ARTICULO DECIMO
 
@@ -7007,6 +7031,250 @@ VICTOR GOMEZ GARZA
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE DICIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el 21 de agosto de 2012 y será publicado en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Titular del Poder Ejecutivo establecerá en el Presupuesto de Egresos, los recursos necesarios para las acciones derivadas para el cumplimento del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos civiles que sean competencia de los jueces de paz conforme a esta ley que se encuentren en trámite ante diversa autoridad al momento de su entrada en vigor, continuarán su trámite ante la misma autoridad conforme a las leyes aplicables al iniciarse el procedimiento correspondiente.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2003.
+
+Artículo Unico:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2004.
+
+DECRETO No. LVIII -1130, POR EL QUE SE REFORMAN Y DEROGAN DIVERSOS ARTICULOS DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2004.
+
+DECRETO No. LVIII -1138, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2006.
+
+###### ARTICULO UNICO.
+
+El presente Decreto surtirá efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2006.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MAYO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO No. LIX-916 POR EL QUE SE REFORMA EL ARTICULO 383 Y SE DEROGAN LOS ARTICULOS 374, 375, 376, 377, 378, 379, 380, 381, 382, 384, 385, 386, 387 DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JULIO DE 2007.
+
+DECRETO No. LIX-917 POR EL QUE SE REFORMA EL PARRAFO PRIMERO DEL ARTICULO 279 TER DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE AGOSTO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2007.
+
+DECRETO No. LIX-965
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE NOVIEMBRE DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE FEBRERO DE 2008.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2008.
+
+DECRETO NO. LIX-1118 POR EL QUE SE REFORMAN LA DENOMINACION DEL CAPITULO II DEL TITULO QUINTO, ASI COMO LOS ARTICULOS 192, 193, PARRAFOS PRIMERO Y SEGUNDO, 194 PARRAFOS PRIMERO Y SEGUNDO, 194 BIS PARRAFO PRIMERO Y FRACCIONES I, II, III Y V, ASI COMO LOS PARRAFOS TERCERO, CUARTO Y QUINTO DEL MISMO ARTICULO; 194 TER; Y, 196 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2008.
+
+DECRETO NO. LIX-1122 POR EL QUE SE REFORMAN, LA FRACCION I DEL ARTICULO 454 Y EL ARTICULO 455, SE ADICIONAN, LA FRACCION VII AL ARTICULO 454 Y LA FRACCION IV AL ARTICULO 457 Y SE DEROGA LA FRACCION VI DEL ARTICULO 454 Y LA FRACCION III DEL ARTICULO 457 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a los 90 días posteriores.
+
+P.O. 24 DE JUNIO DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2009.
+
+DECRETO No. LX-644, POR EL QUE SE ADICIONA EL ARTICULO 71 BIS AL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 7 DE JULIO DE 2009.
+
+DECRETO No. LX-693, POR EL QUE SE REFORMA EL INCISO B) DEL ARTICULO 66 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ENERO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE MAYO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO LX-1134, POR EL QUE SE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 171 BIS DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO LX-1135, POR EL QUE SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 274, RECORRIENDOSE LOS ACTUALES PARA SER TERCERO, CUARTO Y QUINTO Y SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 275, DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO LX-1136, POR EL QUE SE ADICIONA EL CAPITULO IV AL TITULO DUODECIMO DENOMINADO HOSTIGAMIENTO Y ACOSO SEXUAL, COMPRENDIDO POR LOS ARTICULO 276 BIS, 276 TER, 276 QUATER, 276 QUINQUIES, 276 SEXIES, RECORRIENDOSE EL ACTUAL CAPITULO IV PARA SER CAPITULO V, DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO LX-1482, POR EL QUE SE ADICIONA LA FRACCION XVIII AL ARTICULO 418 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO LX-1484, POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV, Y ADICIONA UNA V AL ARTICULO 400 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO LX-1137, POR EL QUE SE ADICIONAN LOS ARTICULOS 371 BIS Y 371 TER, AL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO LX-1138, POR EL QUE SE DEROGAN LOS ARTICULOS 338 Y 339, DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO LX-1562, POR EL QUE SE REFORMA EL ARTICULO 258 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO LX-1563, POR EL QUE SE ADICIONAN AL LIBRO SEGUNDO, TITULO SEXTO, LOS ARTICULOS 204 BIS; 204 TER; 204 QUATER; 204 QUINTUS Y 204 SEXTUS Y EL CAPITULO TERCERO DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 038. SE REFORMAN LOS ARTÍCULOS 126, PRIMER PÁRRAFO, Y 137, Y SE ADICIONA LOS ARTÍCULOS 27, CON UN TERCER PÁRRAFO, 48, CON UNA FRACCIÓN VII, 48 BIS, CON LAS FRACCIONES V Y VI Y 104, CON LA FRACCIÓN II; TODOS DEL CÓDIGO FISCAL DEL ESTADO”.]
 
