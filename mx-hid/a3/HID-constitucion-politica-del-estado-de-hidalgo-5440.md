@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1991-03-25"
+last_updated: "1991-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 1991.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -116,6 +116,10 @@ El varón y la mujer son iguales ante la ley. Esta protegerá la organización y
 Toda persona tiene derecho a decidir, de manera libre, responsable e informada, sobre el número y el espaciamiento de sus hijos.
 
 Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1991)</small>
+
+El Estado de Hidalgo tiene una composición pluricultural y reconoce los derechos a preservar la forma de vida y el bienestar y desarrollo de los grupos sociales de culturas autóctonas, dentro de sus propios patrones de conducta, en cuanto no contraríen normas de orden público, así como a que se consideren tales rasgos culturales en la justipreciación de los hechos en que participen, mediante criterios de equidad. La ley protegerá y promoverá el desarrollo de las lenguas, usos, costumbres, recursos y formas específicas de organización social de las diversas comunidades que lo integran y garantizará a sus componentes el efectivo acceso a la jurisdicción del Estado. Los Poderes del Estado, en el ámbito de sus respectivas competencias, tomarán en cuenta las prácticas y las costumbres jurídicas de las comunidades indígenas en los términos que las propias leyes establezcan.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -953,7 +957,9 @@ XIII. Nombrar a los funcionarios y agentes integrantes de los cuerpos de Segurid
 
 XIV. Nombrar a los Magistrados del Tribunal Superior de Justicia, y del Tribunal Fiscal Administrativo, con la aprobación del Congreso o de la Comisión Permanente, en su caso, y recibir sus renuncias para tramitarlas en los términos de ley;
 
-XV. Nombrar a los Jueces de Primera Instancia, propuestos en terna por el Tribunal Superior de Justicia, e iniciar ante el propio Tribunal, la separación de la autoridad judicial que observe conducta inconveniente;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 1991)</small>
+
+XV. Iniciar ante el Tribunal Superior de Justicia, la separación de los servidores públicos del Poder Judicial que observen conducta inconveniente;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1251,13 +1257,15 @@ III. Los demás funcionarios y auxiliares de la administración de justicia en l
 
 Los Magistrados del Tribunal Superior de Justicia y los Jueces en el Estado tendrán independencia en el ejercicio de su función jurisdiccional. Las leyes garantizarán a dichos servidores públicos una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, así como los reconocimientos al desempeño de su función, que les aseguren el digno ejercicio de la misma, y establecerán las condiciones para su ingreso, formación y permanencia.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1991)</small>
 
 ###### Artículo 94.
 
-El Tribunal Superior de Justicia se integrará por siete Magistrados titulares y un Magistrado Supernumerario, nombrados todos directamente por el Gobernador, con aprobación del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
+El Tribunal Superior de Justicia estará integrado por el número de Magistrados que fije la Ley Orgánica del Poder Judicial del Estado.
 
-Para el trámite de las renuncias de los Magistrados del Tribunal, se seguirá el mismo procedimiento que para su nombramiento.
+Los nombramientos de los Magistrados del Tribunal Superior de Justicia, serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
+
+Para el trámite de renuncias de los Magistrados del Tribunal, se seguirá el mismo procedimiento que para su nombramiento.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
@@ -1323,7 +1331,9 @@ II. Conocer de los recursos de apelación, queja y cualesquiera otros señalados
 
 III. Conocer de los conflictos de jurisdicción que se susciten entre los Jueces;
 
-IV. Nombrar y remover a los empleados del Poder Judicial;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 1991)</small>
+
+IV. Nombrar y remover a los servidores públicos del Poder Judicial, con excepción de los Magistrados;
 
 V. Discutir, aprobar o modificar, en su caso, el Presupuesto de Egresos que para el ejercicio anual proponga el Presidente del Tribunal, el que será sometido a la aprobación del Congreso;
 
@@ -1333,7 +1343,7 @@ VI. Acordar el aumento de Juzgados y la planta de Secretarios y empleados de la 
 
 VII. Erigirse en órgano de sentencia en los juicios políticos;
 
-VIII. Formular las ternas que deban enviarse al Gobernador del Estado, para el nombramiento de Jueces de Primera Instancia;
+VIII. (DEROGADA, P.O. 23 DE OCTUBRE DE 1991)
 
 IX. Informar al Gobernador o al Congreso, para determinar los casos de indulto, rehabilitación y demás que las Leyes determinen, previos los trámites y con los requisitos que ellas establezcan;
 
@@ -1425,9 +1435,19 @@ La administración de la Hacienda Pública estará a cargo del Gobernador, por c
 
 La ley de la materia determinará la organización y funcionamiento de las oficinas de Hacienda en el Estado.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1991)</small>
+
 ###### Artículo 108.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
+Los recursos económicos de que dispongan el Gobierno del Estado, así como su Administración Pública Paraestatal, se administrarán con eficiencia, eficacia y honradez, para satisfacer los objetivos a los que están destinados.
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas, mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Cuando las licitaciones a que se hace referencia en el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+El manejo de los recursos económicos estatales se sujetarán a las bases de este Artículo.
+
+Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Décimo de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2526,3 +2546,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Las atribuciones que se encomiendan al Poder Ejecutivo en materia inmobiliaria, se ejercitarán por el mismo aplicando en lo conducente las disposiciones legales vigentes en tanto se expidan las leyes reglamentarias respectivas o, en lo conducente, las reformas que correspondan a dicha legislación vigente.
 
 TERCERO.- Se derogan las disposiciones que se opongan el presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
