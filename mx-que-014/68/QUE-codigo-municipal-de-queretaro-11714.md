@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "1999-10-29"
+last_updated: "2000-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CODIGO MUNICIPAL DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2000.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -7301,7 +7301,55 @@ Para los asuntos de mero trámite del Consejo el Presidente y el Secretario Téc
 
 Las resoluciones del consejo tendrán el carácter de recomendación y las mismas por conducto del Presidente se someterán a acuerdo de cabildo para su aprobación, a fin de que la o las dependencias administrativas designadas por el Ayuntamiento le den el debido cumplimiento o seguimiento.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO X. De la Inspección, Control y Vigilancia
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2000)</small>
+
+ARTICULO 870 bis 1.- Los verificadores adscritos a la Unidad Municipal de Protección Civil, son los encargados de practicar visitas, para lo cual, deberán estar provistos de órdenes escritas, con firma autógrafa expedidas por el Responsable de la Unidad Municipal de Protección Civil, en las que se deberá precisar el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+
+En todo caso, para notificar la orden de visita, los verificadores deberán cerciorarse del domicilio del visitado y señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez. De no encontrarse la persona a quien deba ser notificada la orden de visita o su representante legal, el verificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato. Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia, y de negarse éste a recibirla, o en caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del mismo.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2000)</small>
+
+ARTICULO 870 bis 2.- Los verificadores en el ejercicio de sus funciones tendrán libre acceso a los edificios, establecimientos comerciales, industriales y de servicios, transportes y, en general a todos los lugares en que sea necesario practicar visitas. Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de los transportes sujetos a verificación, estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
+
+Las visitas de verificación podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2000)</small>
+
+ARTICULO 870 bis 3.- En la diligencia de verificación se deberán observar las siguientes reglas:
+
+I. Al iniciar la visita el verificador deberá exhibir la credencial vigente, expedida por la Secretaría de Gobierno Municipal, que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere el artículo 870 BIS 1 de este Código, de la que deberá dejar copia al propietario, responsable, encargado, ocupante del establecimiento o conductor del transporte sujeto a verificación. Esta circunstancia se deberá anotar en el acta correspondiente;
+
+II. Al inicio de la visita, se deberá requerir al propietario, responsable, encargado, ocupante del establecimiento o conductor del transporte, que proponga a dos testigos, quienes mostrarán identificación oficial con fotografía y deberán permanecer durante el desarrollo de la visita. Ante la negativa, o ausencia del visitado, los designará el verificador que practique la verificación, sin que este hecho afecte la validez de la visita practicada. Esta circunstancia, así como el nombre, domicilio y firma de los testigos, se harán constar en el acta;
+
+III. En el acta que se levante con motivo de la verificación, se hará constar:
+
+a) Nombre, denominación o razón social del visitado;
+
+b) Hora, día, mes y año en que se inicie y concluya la diligencia;
+
+c) Calle, número, población o colonia, teléfono u otra forma de comunicación disponible, código postal y delegación en que se encuentre ubicado el lugar en que se practique la visita;
+
+d) Nombre y cargo de la persona con quien se entendió la diligencia;
+
+e) Nombre y domicilio de las personas que fungieron como testigos;
+
+f) Descripción de la actuación del verificador en cumplimiento a la orden de visita;
+
+g) Declaración del visitado, si quisiera hacerla;
+
+h) Las circunstancias de la diligencia, las deficiencias o anomalías observadas; e
+
+i) Nombre y firma de quienes intervinieron en la diligencia incluyendo los de quien la hubiere llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2000)</small>
+
+ARTICULO 870 bis 4.- El acto u omisión contrario a los preceptos de las leyes y reglamentos en materia de protección civil, podrá ser objeto de orientación y educación de los infractores con independencia de que se apliquen, si procedieran, las medidas de seguridad y las sanciones correspondientes en esos casos.
+
+De conformidad con lo anterior, el Responsable de la Unidad de Protección Civil podrá encomendar a sus verificadores, además, actividades de orientación y educación, la aplicación, en su caso, de las medidas de seguridad y sanciones que correspondan.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 866.
 
@@ -7315,9 +7363,11 @@ La unidad municipal de protección civil en el ámbito de su competencia es la r
 
 Además de lo anterior, la unidad municipal de protección civil se coordinará con el consejo estatal y los organismos privados públicos y sociales, además de actuar como enlace de información y comunicación permanente con el Consejo Estatal de Protección Civil y con la Dirección General de Protección Civil de la Secretaría de Gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 869.
 
-La unidad de protección civil, además de realizar tareas de análisis, orientación y apoyo, ejecuta las acciones concretas en atención a las emergencias que se presenten, teniendo para el caso, las siguientes funciones:
+El Responsable de la Unidad de Protección Civil, además de realizar las tareas de análisis, orientación y apoyo, es el encargado de ejecutar las acciones concretas en atención a las emergencias que se presenten, teniendo para el caso, las siguientes facultades:
 
 I. Definir las políticas, estrategias, lineamiento y procedimientos para establecer el sistema municipal de protección civil;
 
@@ -7333,25 +7383,75 @@ VI. Desarrollar el ejercicio y simulacros en lugares públicos;
 
 VII. Estudiar y analizar los riesgos habituales en el ámbito municipal y confeccionar un catálogo de riesgos e inventarios de los medios y recursos disponibles para hacer frente a las emergencias;
 
-VIII. Dirigir y coordinar la intervención de los miembros operativos municipales así como de aquellos de otra administración o particulares interesados, de acuerdo con los planes municipales homologados de protección civil; y
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2000)</small>
 
-IX. Organizar y coordinar los grupos de trabajo comunitario en las tareas de protección civil.
+VIII. Vigilar y comprobar el cumplimiento de las disposiciones legales y reglamentarias en materia de protección civil, para lo cual podrá expedir órdenes de visita, practicar visitas de verificación, aplicar medidas de seguridad y, en su caso, determinar las sanciones que pudieran llegar a corresponder;
+
+IX. Dirigir y coordinar la intervención de los miembros operativos municipales así como de aquellos de otra administración o particulares interesados, de acuerdo con los planes municipales homologados de protección civil; y
+
+X. Organizar y coordinar los grupos de trabajo comunitario en las tareas de protección civil.
 
 ###### ARTICULO 870.
 
 La Unidad Municipal de Protección Civil se integrará con representantes del sector público, sector privado y voluntariado, y actuará bajo los lineamientos que marque el consejo municipal de protección civil.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ENERO DE 2000)</small>
+
+### CAPITULO XI. De las Medidas de Seguridad
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2000)</small>
+
+ARTICULO 870 bis 5.- Para los efectos del artículo anterior, se consideran medidas de seguridad las disposiciones que dicten las autoridades competentes en materia de protección civil, de conformidad con las disposiciones legales aplicables, para proteger la seguridad de la población. Con base en los resultados de las visitas de verificación, se podrán dictar medidas de seguridad para corregir las irregularidades que se hubiesen encontrado, notificándolas al afectado y otorgándole un plazo de hasta 20 días para su realización, el cual será establecido a juicio de la autoridad. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
+
+Son medidas de seguridad:
+
+I. La suspensión de trabajos relacionados con la construcción en obras e instalaciones o servicios que pongan en riesgo a la sociedad en general;
+
+II. La clausura temporal o definitiva, total o parcial, de trabajos y servicios;
+
+III. El aseguramiento de sustancias, materiales, equipos, accesorios y recipientes portátiles o la destrucción de objetos, productos, sustancias y todo tipo de agentes que pudieran provocar desastres y que no cuenten con las medidas establecidas en las Normas Oficiales Mexicanas y en los reglamentos de la materia vigentes;
+
+IV. La inmovilización de recipientes portátiles, auto tanques, semiremolques, vehículos de reparto u otro medio de transporte que ponga en riesgo a la población civil;
+
+V. El apoyo durante el desalojo de casas y escuelas, zonas habitacionales, zonas industriales, predios o asentamientos irregulares ante una situación de riesgo, emergencia o desastre;
+
+VI. La prohibición de la realización de eventos, con anuencia del Secretario de Gobierno, en lugares no aptos para su realización, en todo caso los trámites de las autorizaciones de los eventos masivos o espectáculos públicos, se sujetarán a las reglas siguientes:
+
+a) Tratándose de aquellos eventos o espectáculos públicos con asistencia masiva de personas, la autoridad competente expedirá la autorización a que haya lugar, y deberá coordinarse con la Unidad Municipal de Protección Civil para la adopción de las medidas de protección civil que sean pertinentes según la naturaleza y magnitud del acto.
+
+b) Tratándose de situaciones no programadas que puedan implicar algún riesgo socio-organizativo y ante la falta de un programa especial de protección civil, las autoridades adoptarán todas aquellas medidas de preparación, mitigación y, en su caso, auxilio que resulten necesarios, atendiendo a la naturaleza de los mismos.
+
+VII. Las demás tendientes a evitar que se cause riesgo daños a personas, instalaciones o bienes de interés general para garantizar el normal funcionamiento de servicios esenciales a la población.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE ENERO DE 2000)</small>
+
+### CAPITULO XII. Del Procedimiento para la Determinación de Sanciones
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2000)</small>
+
+ARTICULO 870 bis 6.- Dentro del Procedimiento de Determinación de Sanciones Administrativas, el Responsable de la Unidad de Protección Civil deberá notificar personal y previamente al infractor del inicio del procedimiento, para que éste dentro de los tres días hábiles siguientes exponga por escrito lo que a su derecho convenga y, en su caso, aporte las pruebas documentales que estime pertinentes. Dentro del procedimiento, se podrán hacer las inspecciones que fueren necesarias a juicio de la autoridad, asentando todo ello dentro del procedimiento.
+
+Transcurrido el plazo y habiéndose oído al infractor y desahogado las pruebas ofrecidas y admitidas, se procederá, dentro de los cinco días hábiles siguientes a dictar por escrito la resolución que proceda, la cual será notificada en forma personal o por correo certificado. El Responsable de la Unidad de Protección Civil fundará y motivará su resolución considerando:
+
+I. Los daños que se hubieren producido o puedan producirse;
+
+II. El carácter intencional, la negligencia o impericia manifiesta de la acción u omisión constitutiva de la infracción;
+
+III. La gravedad de la infracción;
+
+IV. La reincidencia del infractor y su condición socioeconómica.
+
+Las sanciones administrativas podrán imponerse en más de una de las modalidades previstas en el artículo 72 de la Ley de Protección Civil para el Estado de Querétaro.
+
+Las autoridades competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+
 APARTADO SEPTIMO
 
 DEL SISTEMA MUNICIPAL DEL DEPORTE Y LA RECREACION
 
+### CAPITULO I. Disposiciones Generales
+
 ### CAPITULO II. Del Sistema Municipal del Deporte y la Recreación
-
-### CAPITULO III. Del Registro Municipal del Deporte
-
-### CAPITULO IV. De la Participación de los Sectores Social y Privado en el Sistema Municipal del Deporte y la Recreación
-
-### CAPITULO V. Del Desarrollo y la Práctica del Deporte en General
 
 ###### ARTICULO 871.
 
@@ -7379,7 +7479,7 @@ VI. Promover y fomentar conjuntamente con el Instituto Municipal de la Juventud,
 
 VII. Las demás que le otorguen otras disposiciones legales y el Ayuntamiento por el conducto del Presidente Municipal.
 
-### CAPITULO VI. Del Consejo Consultivo Municipal de Apoyo al Deporte
+### CAPITULO III. Del Registro Municipal del Deporte
 
 ###### ARTICULO 874.
 
@@ -7431,7 +7531,7 @@ IV. Diseñar el Programa Municipal del Deporte y llevar a cabo las acciones que 
 
 V. Determinar los requerimientos del deporte municipal, así como planear los medios para satisfacerlos.
 
-### CAPITULO VII. De los Estímulos al Deporte
+### CAPITULO IV. De la Participación de los Sectores Social y Privado en el Sistema Municipal del Deporte y la Recreación
 
 ###### ARTICULO 880.
 
@@ -7487,7 +7587,7 @@ Para participar como entrenador, árbitro o juez en las competencias oficiales, 
 
 Las instalaciones deportivas, públicas y privadas, podrán ser registradas con el objeto de ser utilizadas en las actividades de este sistema municipal.
 
-### CAPITULO I. De las Disposiciones Generales de Trabajo
+### CAPITULO V. Del Desarrollo y la Práctica del Deporte en General
 
 ###### ARTICULO 888.
 
@@ -7509,7 +7609,7 @@ Para la organización y coordinación de dichas disciplinas se reconocerán las 
 
 Los organismos deportivos deberán sustentar y satisfacer los requisitos que para su admisión establezca el Sistema Municipal del Deporte y la Recreación.
 
-### CAPITULO II. De las Disposiciones de Policía y Gobierno Municipal
+### CAPITULO VI. Del Consejo Consultivo Municipal de Apoyo al Deporte
 
 ###### ARTICULO 893.
 
@@ -7547,7 +7647,7 @@ Los organismos deportivos fomentarán la participación en los cursos que para t
 
 La Dirección del Sistema Municipal del Deporte y la Recreación, deberá otorgar los apoyos que en su caso le sean destinados, para el desarrollo y fomento del deporte en actividades científicas y técnicas afines.
 
-### CAPITULO III. En Materia de Desarrollo Urbano
+### CAPITULO VII. De los Estímulos al Deporte
 
 ###### ARTICULO 902.
 
@@ -7575,7 +7675,7 @@ El Consejo buscará apoyos en especie o en lo económico que sean aplicados a la
 
 El Consejo será un Organismo de apoyo y de consulta, cuyos integrantes podrán intervenir en la elaboración del Programa Municipal del Deporte, realizando sus propuestas que a beneficio consideren pertinente.
 
-### CAPITULO IV. Del Equilibrio Ecológico y la Protección al Ambiente
+### CAPITULO I. De las Disposiciones Generales de Trabajo
 
 ###### ARTICULO 906.
 
@@ -7695,7 +7795,7 @@ Se faculta al Presidente Municipal para condonar, reducir o incrementar las mult
 
 Cuando una persona resulte responsable de dos o más violaciones al presente Código, se le aplicarán las sanciones que correspondan a cada una en forma acumulativa.
 
-### CAPITULO V. De las Actividades Comerciales
+### CAPITULO II. De las Disposiciones de Policía y Gobierno Municipal
 
 ###### ARTICULO 918.
 
@@ -7757,7 +7857,7 @@ Se impondrán hasta ocho días de suspensión al trabajador que haya incurrido e
 
 Será separado de inmediato de su trabajo, quedando rescindido su contrato individual de trabajo sin responsabilidad alguna para el Ayuntamiento el trabajador que incurra en cualquiera de las faltas señaladas en el artículo 47 y fracciones de la Ley Federal del Trabajo y el artículo 57 y fracciones de la Ley de los Trabajadores al Servicio del Estado y los Municipios.
 
-### CAPITULO VI. De los Espectáculos en el Municipio
+### CAPITULO III. En Materia de Desarrollo Urbano
 
 ###### ARTICULO 925.
 
@@ -7805,7 +7905,7 @@ Se exceptúa la aplicación de las sanciones en la fracción I del presente art�
 
 Se sancionarán con multa equivalente a sesenta días de salario mínimo general vigente en el Municipio, las infracciones a las disposiciones: 157 fracción XXXI.
 
-### CAPITULO VII. Del Ejercicio del Comercio Ambulante y Puestos Fijos y Semifijos en la Vía Pública
+### CAPITULO IV. Del Equilibrio Ecológico y la Protección al Ambiente
 
 ###### ARTICULO 932.
 
@@ -7835,7 +7935,7 @@ Se sancionará con multa equivalente a veinticinco días de salario mínimo gene
 
 Se sancionará con multa equivalente a sesenta días de salario mínimo general vigente en el Municipio, las infracciones a las disposiciones: 190, 195; y 198.
 
-### CAPITULO VIII. Del Centro Histórico, Barrios Tradicionales y Zonas de Conservación del Municipio
+### CAPITULO V. De las Actividades Comerciales
 
 ###### ARTICULO 939.
 
@@ -7853,7 +7953,7 @@ II. Las condiciones económicas del infractor; y
 
 III. La reincidencia, si la hubiere.
 
-### CAPITULO IX. De los Estacionamientos Públicos
+### CAPITULO VI. De los Espectáculos en el Municipio
 
 ###### ARTICULO 941.
 
@@ -7875,7 +7975,7 @@ Se sancionarán con multa equivalente a veinticinco días de salario mínimo gen
 
 Se sancionarán con multa equivalente a sesenta días de salario mínimo general vigente en el Municipio, las infracciones a las disposiciones: 254; 255; y 256.
 
-### CAPITULO X. De la Salud Pública
+### CAPITULO VII. Del Ejercicio del Comercio Ambulante y Puestos Fijos y Semifijos en la Vía Pública
 
 ###### ARTICULO 946.
 
@@ -7883,7 +7983,7 @@ Las sanciones a que se refiere este capítulo, se aplicarán a criterio de la au
 
 Para la aplicación del presente artículo se observará lo dispuesto en los artículos 915 y 916 de este código.
 
-### CAPITULO XI. De los Parques y Jardines
+### CAPITULO VIII. Del Centro Histórico, Barrios Tradicionales y Zonas de Conservación del Municipio
 
 ###### ARTICULO 947.
 
@@ -7903,7 +8003,7 @@ Las sanciones a que se refiere este capítulo, serán aplicadas por el President
 
 Contra las sanciones a que se refiere este capítulo, aplicadas por la autoridad municipal competente, procede el recurso administrativo que contempla el apartado tercero de este libro.
 
-### CAPITULO XII. Del Servicio de Limpia
+### CAPITULO IX. De los Estacionamientos Públicos
 
 ###### ARTICULO 951.
 
@@ -7943,9 +8043,7 @@ XI. Quienes contravengan las normas contenidas en el apartado octavo del libro s
 
 Las sanciones que se derivaran por las disposiciones a que se refiere este capítulo, se impondrán a criterio de la autoridad competente, sin perjuicio de las que impongan las autoridades competentes estatales y federales.
 
-### CAPITULO XIII. Del Alumbrado Público
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
+### CAPITULO X. De la Salud Pública
 
 ###### ARTICULO 954.
 
@@ -7957,7 +8055,7 @@ II. Clausura temporal, total o parcial, de las instalaciones, en caso de reincid
 
 III. Clausura definitiva o cancelación de la concesión (sic) el servicio en los casos establecidos que para tal efecto prevé el capítulo segundo del título sexto de la Ley Orgánica Municipal.
 
-### CAPITULO XIV. De los Mercados y Centros de Abasto
+### CAPITULO XI. De los Parques y Jardines
 
 ###### ARTICULO 955.
 
@@ -7983,7 +8081,7 @@ Se sancionarán con multa equivalente a trece días de salario mínimo general v
 
 Se sancionarán con multa equivalente a veinticinco días de salario mínimo general vigente en el Municipio, las infracciones a las disposiciones: 502 fracción III.
 
-### CAPITULO XV. Del Rastro Municipal
+### CAPITULO XII. Del Servicio de Limpia
 
 ###### ARTICULO 961.
 
@@ -8039,7 +8137,9 @@ II. Al que pinte, raye, pegue publicidad comercial o de cualquier otra índole, 
 
 La Secretaría de Servicios Municipales, a través del Departamento de Parques y Jardines será la dependencia facultada para cuantificar las multas y sanciones a los que se refiere este capítulo. En los casos de la fracción I del artículo anterior y para efectos de reparación del daño causado a obras de arte de arquitectura colonial o contemporánea, la autoridad municipal deberá solicitar la intervención del I.N.A.H. para su cuantificación.
 
-### CAPITULO XVI. De las Disposiciones para la Fijación de Anuncios
+### CAPITULO XIII. Del Alumbrado Público
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 966.
 
@@ -8061,7 +8161,7 @@ Se sancionarán con multa equivalente a ocho días de salario mínimo general vi
 
 Se sancionarán con multa equivalente a veinticinco días de salario mínimo general vigente en el Municipio, las infracciones a las disposiciones: 542 fracción IX.
 
-### CAPITULO XVII. Del Sistema Municipal del Deporte y la Recreación
+### CAPITULO XIV. De los Mercados y Centros de Abasto
 
 ###### ARTICULO 971.
 
@@ -8117,7 +8217,7 @@ La sanción a que se refiere el artículo anterior se aplicará independientemen
 
 ARTICULO 973 bis.- Contra la imposición de las sanciones descritas en el artículo anterior, son procedentes los Recursos Administrativos de Reconsideración y Revisión en los términos dispuestos por los artículos 995, 996, 997, 998, 999 y 1000 del Apartado Tercero del Libro Quinto del presente Código.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO XV. Del Rastro Municipal
 
 ###### ARTICULO 974.
 
@@ -8147,7 +8247,7 @@ Se sancionarán con multa equivalente a treinta días de salario mínimo general
 
 Se sancionará con la cancelación de la licencia en los casos de reincidencia en las disposiciones: 563 fracciones II, V, VII y VIII.
 
-### CAPITULO II. De la Demanda
+### CAPITULO XVI. De las Disposiciones para la Fijación de Anuncios
 
 ###### ARTICULO 981.
 
@@ -8213,7 +8313,7 @@ Queda a criterio del C. Presidente Municipal el revocar el permiso de los usuari
 
 Los usuarios podrán interponer recurso administrativo de acuerdo a lo dispuesto por el apartado tercero del presenten libro.
 
-### CAPITULO III. De las Notificaciones
+### CAPITULO XVII. Del Sistema Municipal del Deporte y la Recreación
 
 ###### ARTICULO 988.
 
@@ -8261,7 +8361,7 @@ Se entiende como reincidencia, cada una se las subsecuentes infracciones de espe
 
 El afectado podrá interponer recurso administrativo en caso de inconformidad por la infracción interpuesta, de acuerdo al procedimiento que para tal efecto prevé el apartado tercero del presente libro.
 
-### CAPITULO IV. De la Improcedencia
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 993.
 
@@ -8287,7 +8387,7 @@ APARTADO TERCERO
 
 DE LOS RECURSOS ADMINISTRATIVOS
 
-### CAPITULO V. De las Pruebas
+### CAPITULO II. De la Demanda
 
 ###### ARTICULO 995.
 
@@ -8339,7 +8439,7 @@ XI. Los que siendo diversos de las anteriores dicten autoridades del Municipio d
 
 La interposición del recurso será optativa para el interesado, antes de acudir ante el Tribunal de lo Contencioso Administrativo del Gobierno del Estado de Querétaro.
 
-### CAPITULO VI. Resolución del Recurso
+### CAPITULO III. De las Notificaciones
 
 ###### ARTICULO 1001.
 
@@ -8397,6 +8497,8 @@ Los recursos se tendrán por no interpuestos cuando concurra lo dispuesto por cu
 
 El Recurso de Revisión, habrá de presentarse en los términos de los artículos 1001 y 1002 de este código, ante el H. Ayuntamiento de Querétaro, cuya resolución habrá de ir firmada por el Síndico Municipal y el Director Jurídico del Municipio.
 
+### CAPITULO IV. De la Improcedencia
+
 ###### ARTICULO 1008.
 
 Las notificaciones que para efectos de procedimiento haya que hacerle al recurrente, se harán en el domicilio que éste haya señalado, de acuerdo a la fracción III del artículo 1002 de este código.
@@ -8413,6 +8515,8 @@ Los términos fijados en los acuerdos o resoluciones comenzarán a correr el dí
 
 Para el cómputo de los términos a que se refiere este Reglamento, se considerarán días hábiles todos aquellos en que se labore y se dé atención al público por parte de las oficinas municipales.
 
+### CAPITULO V. De las Pruebas
+
 ###### ARTICULO 1011.
 
 Es improcedente el recurso presentado ante la autoridad municipal o el Ayuntamiento, cuando se haga valer contra actos administrativos:
@@ -8428,6 +8532,8 @@ IV. Que se hayan consentido, entendiéndose por consentidos los actos contra los
 V. Que sean conexos a otros que hayan sido impugnados por medio de algún recurso o juicio; y
 
 VI. Que hayan sido revocados por la autoridad administrativa.
+
+### CAPITULO VI. Resolución del Recurso
 
 ###### ARTICULO 1012.
 
@@ -8588,3 +8694,9 @@ P.O. 29 DE OCTUBRE DE 1999.
 TERCERO.- De conformidad a lo establecido en el artículo 169 de la Ley Orgánica Municipal del Estado de Querétaro, el presente Acuerdo deberá publicarse en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en la Gaceta Municipal.
 
 CUARTO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 28 DE ENERO DE 2000.
+
+QUINTO.- De conformidad a lo establecido e el artículo 169 de la Ley Orgánica Municipal del Estado de Querétaro, el presente Acuerdo deberá publicarse en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", y en la Gaceta Municipal.
+
+SEXTO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
