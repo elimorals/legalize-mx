@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "1996-10-26"
+last_updated: "1997-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -127,7 +127,7 @@ Las dependencias y entidades están obligadas a proporcionarse la información y
 
 DE LA COMPETENCIA DE LAS DEPENDENCIAS CENTRALIZADAS.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 19o.
 
@@ -143,11 +143,17 @@ Secretaría de Desarrollo Urbano.
 
 Secretaría de Desarrollo Rural.
 
-Secretaría de Educación, Cultura y Deporte.
+Secretaría de Educación.
 
 Secretaría de Salud y Bienestar Social.
 
-Secretaría de Planeación y Promoción Económica.
+Secretaría de Planeación.
+
+Secretaría de Fomento Económico.
+
+Secretaría de Cultura.
+
+Secretaría de Turismo.
 
 Procuraduría General de Justicia.
 
@@ -415,13 +421,17 @@ XXXIV.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le
 
 XXXV.- Los demás que le atribuyan la Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otras dependencias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 24o.
 
-A la Secretaría de Educación, Cultura y Deporte corresponde el despacho de los siguientes asuntos:
+A la SECRETARIA DE EDUCACION corresponde el despacho de los siguientes asuntos:
 
 I.- Vigilar el cumplimiento de las disposiciones establecidas en el Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en el ámbito de competencia local, así como la aplicación de las contenidas en el Título VIII de la Constitución Política del Estado y demás leyes de la materia.
 
-II.- Formular, proponer y aplicar programas educativos, culturales, deportivos y de capacitación y adiestramiento para la población del Estado, coordinándose con las autoridades federales correspondientes.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
+
+II.- Formular, proponer y aplicar programas educativos, deportivos y de capacitación y adiestramiento para la población, coordinándose con las autoridades federales correspondientes.
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 1992)</small>
 
@@ -433,21 +443,25 @@ V.- Desarrollar programas de actualización del personal directivo y magisterial
 
 VI.- Desarrollar, dirigir y vigilar la educación en todos los niveles, tipos y modalidades a cargo del Gobierno del Estado y de los particulares, de acuerdo y en términos de la legislación correspondiente.
 
-VII.- Estimular y promover el desarrollo de la investigación científica y tecnológica.
+VII.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
 
 VIII.- Llevar el control y registro general de profesiones, autorizar su ejercicio y promover la organización del servicio social en la Entidad.
 
-IX.- Coordinar, organizar, dirigir y promover el establecimiento de bibliotecas, hemerotecas, casas de cultura y museos.
+IX.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
 
-X.- Promover las actividades de difusión cultural.
+X.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
 
 XI.- Fijar el calendario oficial y promover, vigilar y coordinar la realización de actos cívicos escolares de acuerdo con el mismo.
 
 XII.- Organizar, dirigir, coordinar y fomentar la enseñanza y prácticas deportivas, promover eventos estatales y la participación de la Entidad en torneos y justas deportivas nacionales o internacionales.
 
-XIII.- Representar al Gobierno del Estado ante todo tipo de organismos educativos, culturales y deportivos.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
 
-XIV.- Organizar Congresos, conferencias y eventos diversos que tiendan al mejoramiento de los niveles educativos, culturales y deportivos de la población.
+XIII.- Representar al Gobierno del Estado ante todo tipo de organismos educativos y deportivos.
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
+
+XIV.- Organizar Congresos, conferencias y eventos diversos que tiendan al mejoramiento de los niveles educativos y deportivos de la población.
 
 XV.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le correspondan.
 
@@ -473,55 +487,219 @@ VII.- Las demás que le atribuyan las leyes, reglamentos y convenios vigentes, s
 
 ARTICULO 24 BIS (SIC).- (DEROGADO, P.O. 5 DE JUNIO DE 1993)
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
 
-ARTICULO 24 BIS 1.- A la SECRETARIA DE PLANEACION Y PROMOCION ECONOMICA corresponde el despacho de los siguientes asuntos:
+ARTICULO 24 BIS 1.- A la SECRETARIA DE PLANEACION, corresponde el despacho de los siguientes asuntos:
 
-I.- Coordinar, ejecutar, dar seguimiento y evaluar al Sistema Estatal de Planeación Democrática.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
+
+I.- Coordinar la integración y funcionamiento del Sistema Estatal de Planeación Democrática;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1993)</small>
 
 II.- Coordinar el Comité de Planeación para el Desarrollo del Estado;
 
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1993)</small>
+
 III.- Promover y gestionar con los Ayuntamientos del Estado, el funcionamiento de los comités de planeación, así como apoyar sus programas relacionados con las funciones encomendadas a la Secretaría;
 
-IV.- Promover la participación organizada y democrática de los diversos grupos sociales y privados, en la planeación del desarrollo.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
 
-V.- Coordinar la elaboración y actualización del Plan Estatal de Desarrollo, contribuir en la elaboración de los Planes Municipales, los Programas Sectoriales y Especiales, e impulsar su ejecución;
+IV.- Promover la participación organizada y democrática de los diversos grupos sociales en la planeación del desarrollo;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
+
+V.- Coordinar la elaboración y actualización del Plan Estatal de Desarrollo, los Planes Municipales, los Programas Sectoriales y Especiales, impulsar su ejecución y evaluar su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1993)</small>
 
 VI.- Coordinar y orientar el proceso anual de programación-presupuestación, e integrar y evaluar los programas operativos anuales de inversión, gasto y financiamiento;
 
-VII.- Gestionar, instrumentar, controlar y evaluar periódicamente el Programa Nacional de Solidaridad y los demás programas derivados del Convenio Unico de Desarrollo Federación-Estado;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
 
-VIII.- Impulsar la integración y funcionamiento del Sistema Estatal de Información;
+VII.- Gestionar, instrumentar, controlar y evaluar la operación de los programas derivados del Convenio de Desarrollo Social entre la Federación y el Estado;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
+
+VIII.- Impulsar en coordinación con la Secretaría de Fomento Económico la integración y funcionamiento del Sistema Estatal de Información;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1993)</small>
 
 IX.- Evaluar el Plan Estatal de Desarrollo y el impacto de las inversiones en el desarrollo económico y social del Estado;
 
-X.- Participar en el levantamiento de los censos económicos y el inventario de los recursos estatales;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
 
-XI.- Proponer, programar, coordinar, controlar y evaluar la ejecución de las políticas y programas del Estado, relativas al fomento industrial, comercial y de servicio, y demás actividades inherentes al desarrollo, que no correspondan expresamente a otra unidad;
+X.- Participar en el levantamiento de los censos económicos y de población y vivienda, así como en el inventario de obra pública y de recursos naturales;
+
+XI.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1993)</small>
 
 XII.- Promover y gestionar, en coordinación con las autoridades competentes, el financiamiento para impulsar el desarrollo económico y social de la Entidad;
 
-XIII.- Participar en la elaboración de los programas de apoyo, promoción y desarrollo turístico, en coordinación con los organismos y dependencias relacionadas con esta actividad;
+XIII.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1993)</small>
 
 XIV.- Asesorar técnicamente a las dependencias del Ejecutivo, a los organismos públicos descentralizados y a los sectores sociales y productivos en materia de las funciones sustantivas encomendadas a esta Secretaría;
 
-XV.- Participar coordinadamente con las dependencias del gobierno federal, con las instituciones de educación superior y con los sectores social y privado, en la promoción, asistencia técnica y capacitación, de los pequeños y medianos empresarios, así como divulgar los programas y actividades que para beneficio de ellos se realicen;
+XV.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
 
-XVI.- Fomentar y apoyar la exportación de productos;
+XVI.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
 
-XVII.- Promover y apoyar los programas de investigación tecnológica en las actividades industriales y comerciales, y fomentar su divulgación;
+XVII.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
 
-XVIII.- Participar en congresos, convenciones, exposiciones y ferias de carácter industrial, comercial y de servicios que se consideren relevantes para el desarrollo estatal;
+XVIII.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
 
-XIX.- Promover la elaboración de proyectos que permitan el aprovechamiento y la comercialización de los recursos naturales con los que cuenta el Estado;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
 
-XX.- Otorgar, con el acuerdo expreso del titular del Poder Ejecutivo y con base en la legislación aplicable, concesiones, autorizaciones y licencias para la explotación de las actividades a que se refiere la fracción XI de este artículo;
+XIX.- Promover la elaboración de proyectos de desarrollo social.
+
+XX.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 1997)
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1993)</small>
 
 XXI.- Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo;
 
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1993)</small>
+
 XXII.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan; y
 
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1993)</small>
+
 XXIII.- Los demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no las señale como exclusivos de otra dependencia.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
+
+ARTICULO 24 BIS 2.- A la SECRETARIA DE FOMENTO ECONOMICO, corresponde el despacho de los siguientes asuntos:
+
+I.- Elaborar, proponer, coordinar, ejecutar, controlar y evaluar, en base a las leyes de la materia, las políticas y programas del Estado, relativas al fomento del desarrollo económico de la Entidad.
+
+II.- Promover y gestionar, en coordinación con las autoridades competentes, el financiamiento para impulsar el fomento económico de la entidad.
+
+III.- Participar coordinadamente con las Dependencias de los Gobiernos Federal y Municipal y los Sectores Social y Privado, en la elaboración, ejecución y evaluación de los programas sectoriales en materia comercial, industrial, artesanal, minera y de desarrollo tecnológico.
+
+IV.- Promover la inversión productiva de la entidad a través de programas de incentivos, apoyos, orientación y difusión.
+
+V.- Promover la realización y participación del sector empresarial en congresos, convenciones, exposiciones y ferias que se consideren relevantes para el desarrollo económico del Estado.
+
+VI.- Participar en el levantamiento de los censos económicos, inventario de recursos naturales e impulsar en coordinación con la Secretaría de Planeación, la integración y funcionamiento del Sistema Estatal de Información.
+
+VII.- Asesorar y orientar a las Dependencias del Ejecutivo, a los organismos públicos, a los sectores sociales y productivos, en materia de las funciones sustantivas encomendadas a esta Secretaría.
+
+VIII.- Coordinar, promover y apoyar los programas de investigación, desarrollo y transferencia de tecnología.
+
+IX.- Promover el establecimiento de parques y zonas industriales así como la consolidación de los existentes.
+
+X.- Coordinar y gestionar con las dependencias y organismos federales y municipales, la operación de los programas de empleo, desregulación y simplificación administrativa, y los demás que incidan en la competitividad y productividad de las empresas.
+
+XI.- Promover la elaboración de proyectos productivos que permitan el aprovechamiento racional de los recursos potenciales, la industrialización y adecuada comercialización de bienes y servicios, así como impulsar las actividades económicas del Estado.
+
+XII.- Participar coordinadamente con las dependencias del Gobierno Federal, las instituciones de educación superior y los sectores social y privado, en la promoción, asistencia técnica y capacitación, de los pequeños y medianos empresarios, así como divulgar los programas y actividades que para beneficio de ellos se realicen.
+
+XIII.- Elaborar, coordinar y ejecutar programas de apoyo y fomento a las exportaciones.
+
+XIV.- Evaluar el impacto de las inversiones en el desarrollo económico del Estado.
+
+XV.- Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo.
+
+XVI.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le correspondan, y
+
+XVII.- Las demás que le atribuyan las leyes y reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otra dependencia.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
+
+ARTICULO 24 BIS 3.- A la SECRETARIA DE TURISMO, corresponde el despacho de los siguientes asuntos:
+
+I.- Elaborar, proponer, ejecutar, controlar y evaluar, en base a la legislación de la materia, las políticas y funciones del Estado, relativas a la actividad turística, en cuanto al fomento de esa industria y demás actividades inherentes a la misma, que incidan en el desarrollo de la Entidad en coordinación con la Secretaría de Fomento Económico.
+
+II.- Implementar programas integrales de turismo, de conformidad con los Planes Nacional y Estatal de Desarrollo, instrumentando campañas publicitarias permanentes, con la participación de los diferentes sectores para incrementar el flujo y la permanencia de los visitantes al Estado.
+
+III.- Vigilar en la esfera de su competencia, el cumplimiento de la Ley Federal de Turismo y demás disposiciones legales aplicables.
+
+IV.- Promover en forma conjunta con los sectores productivos el mejoramiento continuo de la calidad de los servicios turísticos que se prestan en la entidad.
+
+V.- Fortalecer las atribuciones de los Consejos Consultivos Turísticos Estatal y Municipales, procurando la participación corresponsable de los diversos sectores involucrados en la actividad turística.
+
+VI.- Concertar con las diversas autoridades, dependencias e instituciones, medidas tendientes a agilizar y hacer mas eficientes los servicios que éstas prestan, en beneficio de las (sic) actividad turística.
+
+VII.- Fomentar el desarrollo y conservación de atractivos turísticos estratégicos, tales como parques recreativos, marinas, museos, balnearios, sitios históricos, monumentos arqueológicos y lugares de interés general.
+
+VIII.- Promover y gestionar la ejecución de obras y la creación de infraestructura básica y turística, con la participación de los tres niveles de gobierno y de los sectores social y privado.
+
+IX.- Promover inversiones en el Estado para proyectos de desarrollo turístico o la ampliación de servicios existentes, en coordinación con la Secretaría de Fomento Económico y de acuerdo a la legislación de la materia.
+
+X.- Propiciar la vinculación de los sectores académico y turístico en el diseño e implementación de estrategias que coadyuven al desarrollo del sector turístico.
+
+XI.- Promover la organización de grupos participativos en las diferentes áreas comerciales y de servicios que incidan en la actividad turística.
+
+XII.- Fomentar la capacitación continua de los trabajadores de las empresas de este sector para coadyuvar a elevar la calidad de los servicios turísticos que se prestan en el Estado.
+
+XIII.- Proporcionar información, orientación y atención a los turistas en forma ágil y oportuna.
+
+XIV.- Concertar con los prestadores de servicios turísticos la integración de una oferta conjunta y de calidad que permita incrementar la afluencia y la estancia de los visitantes a la entidad.
+
+XV.- Promover la realización así como la participación de los miembros del sector, en ferias y exposiciones turísticas, orientadas a difundir los atractivos de la entidad, y presentar la oferta turística local a los prestadores de servicios nacionales e internacionales.
+
+XVI.- Fomentar la realización de congresos, convenciones, festivales, espectáculos, torneos deportivos y otros eventos con el propósito de acrecentar el número de visitantes y su permanencia en el Estado.
+
+XVII.- Fomentar el desarrollo de diversas modalidades de turismo tales como turismo ecológico, social, cultural, deportivo, náutico, de aventura y otras.
+
+XVIII.- Fomentar la integración de Fondos Mixtos de Promoción Turística que permitan el desarrollo armónico del sector turismo, así como todas las regiones del Estado, consolidando las existentes.
+
+XIX.- Generar información confiable y objetiva del sector turístico estatal, instrumentando sistemas adecuados de difusión.
+
+XX.- Fomentar en la ciudadanía una cultura turística, así como la profesionalización de los prestadores de servicios.
+
+XXI.- Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo.
+
+XXII.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan, y
+
+XXIII.- Las demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otras dependencias.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1997)</small>
+
+ARTICULO 24 BIS 4.- A la SECRETARIA DE CULTURA, corresponde el despacho de los siguientes asuntos:
+
+I.- Diseñar, ejecutar, evaluar y apoyar la política cultural y científica del Estado.
+
+II.- Coordinar las acciones del Fondo Estatal para la Cultura y las Artes, del Consejo Consultivo Estatal de Artes y Ciencias y del Colegio de Colima.
+
+III.- Suscribir, por delegación expresa del Gobernador del Estado, convenios y acuerdos entre el Poder Ejecutivo Estatal y la Administración Pública Federal en materias relativas a su competencia, así como ejercer las atribuciones que en el desarrollo de las actividades antes mencionadas contengan los convenios y acuerdos señalados.
+
+IV.- Servir de órgano de consulta y asesoría en la materia a las dependencias y entidades públicas, así como a los sectores social y privado.
+
+V.- Propiciar la participación de los sectores público, social y privado en la planeación, programación, ejecución y evaluación de los programas de cultura y ciencia.
+
+VI.- Promover la organización de los sectores social y privado con propósito de fomento y difusión de la cultura y la ciencia.
+
+VII.- Promover la creación de nuevos organismos programas necesarios para el mejor cumplimiento de sus funciones.
+
+VIII.- Propiciar y promover la participación de los Ayuntamientos en los programas de fomento y difusión de la cultura y la ciencia.
+
+IX.- Administrar el patrimonio cultural y científico, mueble e inmueble, del Estado.
+
+X.- Promover el incremento del patrimonio cultural, mueble e inmueble del Estado.
+
+XI.- Promover y apoyar la investigación en los campos de la cultura y la ciencia.
+
+XII.- Planear e impulsar el establecimiento de centros de investigación, formación y para la difusión de la cultura y la ciencia.
+
+XIII.- Fomentar la creatividad artística y científica en el Estado.
+
+XIV.- Participar en coordinación con las dependencias y entidades federales y estatales, en la planeación y programación de proyectos de inversión y obras tendientes o destinadas a la difusión y fomento de la cultura y la ciencia.
+
+XV.- Planear e impulsar en coordinación con las dependencias y entidades federales y estatales, la organización y realización de ferias, festivales, concursos, certámenes, congresos, simposiums, seminarios y otros eventos, tendientes a fomentar y difundir la cultura y la ciencia, en la Entidad.
+
+XVI.- Promover la participación de los creadores e investigadores, artistas y científicos colimenses en ferias, festivales, concursos, certámenes, congresos, simposios, seminarios y otros eventos, estatales, nacionales e internacionales, propios para difundir la cultura y avances científicos de la Entidad.
+
+XVII.- Promover el otorgamiento de estímulos y reconocimientos a los ciudadanos que en la materia de su competencia se distingan por sus aportaciones al Estado.
+
+XVIII.- Despachar los asuntos que en el área de su competencia le encomiende el titular del Poder Ejecutivo.
+
+XIX.- Refrendar las Leyes, Reglamentos y Decretos del Ejecutivo Estatal que le correspondan, y
+
+XX.- Las demás que le atribuyan las Leyes y Reglamentos vigentes, siempre que esta Ley no los señale como exclusivos de otras dependencias.
 
 ###### ARTICULO 25o.
 
@@ -678,3 +856,15 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 26 DE OCTUBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE SEPTIEMBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de noviembre de 1997.
+
+SEGUNDO.- Se autoriza a la Secretaría de Finanzas para que provea los recursos indispensables a las dependencias que se crean mediante este Decreto, con las provisiones presupuestales existentes, hasta que se estructure el presupuesto de 1998.
+
+TERCERO.- Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
+
+CUARTO.- Se Abroga la Ley del Instituto Colimense de Cultura, aprobada mediante Decreto No. 86 de fecha 11 de septiembre de 1992, publicado en el periódico Oficial El Estado de Colima, el 21 de noviembre de 1992.
+
+QUINTO.- Los bienes muebles o inmuebles que sean propiedad o tengan en administración el Instituto Colimense de Cultura, pasarán a forman parte del patrimonio y continuarán siendo administrados, según el caso, por la Secretaría de Cultura.
