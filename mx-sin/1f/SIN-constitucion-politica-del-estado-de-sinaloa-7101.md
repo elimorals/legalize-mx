@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1950-12-30"
+last_updated: "1952-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1952.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -687,11 +687,11 @@ XXIV. I(sic) las demás que le confiera esta Constitución.
 
 #### SECCION I. DE LOS DEPARTAMENTOS GUBERNATIVOS
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1952)</small>
 
 ###### Art. 66.
 
-Para el estudio y despacho de los negocios que corresponden al Poder Administrativo del Estado, habrá las siguientes dependencias del Ejecutivo:
+Para el estudio y despacho de los negocios que corresponden al Poder Administrativo del Estado, habrá las siguientes Dependencias del Ejecutivo:
 
 Departamento de Gobernación,
 
@@ -699,17 +699,15 @@ Departamento de Hacienda Pública,
 
 Departamento de Educación y Bellas Artes,
 
-Departamento de Promoción Económica y Social,
-
 Departamento de Comunicaciones y Obras Públicas,
 
 Departamento de Agricultura y Ganadería,
 
-Intitución (sic) del Ministerio Público,
+Institución del Ministerio Público,
 
 Cuerpos de Defensores de Oficio.
 
-Estas dependencias tendrán las funciones que les atribuya la Ley Orgánica y Reglamentaria del Poder Ejecutivo que expida el Congreso del Estado, con excepción de la Institución del Ministerio Público y el Cuerpo de Defensores de Oficio que se regirán por sus respectivas Leyes a que se refieren los artículos 77 y 79 de esta Constitución.
+Estas Dependencias tendrán las funciones que les atribuya la Ley Orgánica y Reglamentaria del Poder Ejecutivo, con excepción de la Institución del Ministerio Público, y el Cuerpo de Defensores de Oficio que se regirán por sus respectivas Leyes a que se refieren los artículos 77 y 79 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1950)</small>
 
@@ -1750,3 +1748,7 @@ P.O. 30 DE DICIEMBRE DE 1950.
 ###### ARTICULO UNICO.
 
 En tanto se expide y entra en vigencia la Ley Orgánica y Reglamentaria del Poder Ejecutivo a que este Decreto se refiere, los negocios que el mismo encomienda a los Departamentos de Gobernación, Educación y Bellas Artes, Promoción Económica y Social, Comunicaciones y Obras Públicas y Agricultura y Ganadería, seguirán siendo de la incumbencia de la Secretaría General de Gobierno de acuerdo con su actual Ley Orgánica y por tanto esta Dependencia subsistirá hasta entonces. Los que competen al Départamento (sic) de Hacienda Pública continuarán a cargo de la Tesorería General del Estado de conformidad con las Leyes que la han estado rigiendo hasta la fecha.
+
+P.O. 26 DE ENERO DE 1952.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
