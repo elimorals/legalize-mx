@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1988-04-20"
+last_updated: "1988-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ABRIL DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ABRIL DE 1988.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -139,7 +139,15 @@ IX.- NOVENO CIRCUITO:
 
 2.- Juzgados Primero, Segundo y Tercero de Distrito en el Estado de San Luis Potosí, con residencia en la ciudad de San Luis Potosí;
 
-3.- Juzgado de Distrito en el estado de Zacatecas, con residencia en la ciudad de Zacatecas.
+3.- Juzgado de Distrito en el estado de Zacatecas, con residencia en la ciudad de Zacatecas;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO TERCERO DEL ACUERDO NUMERO 7/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 25 DE ABRIL DE 1988)</small>
+
+4.- Los Juzgados Primero y Segundo en el estado de Querétaro, con residencia en la ciudad de Querétaro;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO TERCERO DEL ACUERDO NUMERO 7/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 25 DE ABRIL DE 1988)</small>
+
+5.- Juzgado de Distrito en el estado de Aguascalientes, con residencia en la ciudad de Aguascalientes.
 
 X.- DECIMO CIRCUITO:
 
@@ -155,7 +163,7 @@ XI.- DECIMO PRIMER CIRCUITO:
 
 2.- Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Michoacán, con residencia en la ciudad de Morelia;
 
-3.- Juzgados Primero y Segundo de Distrito en el Estado de Querétaro, con residencia en la ciudad de Querétaro.
+3.- (DEROGADO POR EL PUNTO TERCERO DEL ACUERDO NUMERO 7/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 25 DE ABRIL DE 1988)
 
 XII.- DECIMO SEGUNDO CIRCUITO:
 
@@ -207,7 +215,7 @@ XVI.- DECIMO SEXTO CIRCUITO:
 
 3.- Juzgado Tercero de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León;
 
-4.- Juzgado de Distrito en el Estado de Aguascalientes, con residencia en la ciudad de Aguascalientes.
+4.- (DEROGADO POR EL PUNTO TERCERO DEL ACUERDO NUMERO 7/88 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 25 DE ABRIL DE 1988)
 
 XVII.- DECIMO SEPTIMO CIRCUITO:
 
@@ -390,3 +398,9 @@ LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA S
 D.O.F. 20 DE ABRIL DE 1988.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 25 DE ABRIL DE 1988.
+
+PRIMERO.- Este acuerdo entrará en vigor el primero de mayo de mil novecientos ochenta y ocho.
+
+SEGUNDO.- Publíquese este propio acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación y hágase del conocimiento de todos los Tribunales de Circuito y Juzgados de Distrito del país, para su conocimiento y cumplimiento.
