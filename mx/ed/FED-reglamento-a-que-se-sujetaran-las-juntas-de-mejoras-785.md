@@ -4,7 +4,7 @@ identifier: "FED-reglamento-a-que-se-sujetaran-las-juntas-de-mejoras-785"
 country: "mx"
 rank: "reglamento"
 publication_date: "1931-05-18"
-last_updated: "1931-05-18"
+last_updated: "1932-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=785&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1931-04-22"
 
 REGLAMENTO A QUE SE SUJETARAN LAS JUNTAS DE MEJORAS MATERIALES, ADMINISTRADORAS DEL 40 Y 90% SOBRE EL IMPUESTO MINERO SUPERFICIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS JUNTAS DE MEJORAS MATERIALES, ADMINISTRADORAS DE LA PARTICIPACION A LOS MUNICIPIOS EN EL IMPUESTO MINERO, PUBLICADO EN EL D.O.F. DE 13 DE OCTUBRE DE 1932, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 18 de mayo de 1931.
 
@@ -190,3 +192,19 @@ Lo comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 
 México, D. F., a 8 de mayo de 1931.- El Secretario de Gobernación, Carlos Riva Palacio.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 13 DE OCTUBRE DE 1932.
+
+###### ARTICULO 1o.
+
+Se derogan el Reglamento de 22 de abril de 1931, las circulares 24-26-215 y 24-32-265 de 7 de julio y 5 de septiembre de 1930, respectivamente, así como todas las demás disposiciones que se opongan al cumplimiento del presente Reglamento.
+
+###### ARTICULO 2o.
+
+Los Municipios en que estén funcionando Juntas de Mejoras Materiales y Servicios Públicos acreditados ante la Secretaría de Hacienda, seguirán percibiendo la participación que les corresponde, sin que sea necesario que cumplan nuevamente con el requisito que señala el artículo 4o.
+
+###### ARTICULO 3o.
+
+La Secretaría de Hacienda dictará las disposiciones conducentes para la entrega de la participación de los tercios correspondientes al año de 1931 y anteriores.
