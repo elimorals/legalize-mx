@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2001-12-13"
+last_updated: "2002-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -567,9 +567,45 @@ Los cómputos deberán hacerse por servicios continuos o cuando, de existir una 
 
 Sueldo es la remuneración que debe pagarse al servidor público por los servicios prestados.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2002)</small>
+
 ###### Art. 46.
 
-El sueldo para los Servidores Públicos será uniforme para cada una de las categorías y se fijará en los presupuestos de egresos respectivos, de acuerdo a la capacidad económica de la Entidad Pública, sin que puedan ser disminuidos.
+El sueldo para los servidores públicos será acorde a las funciones y responsabilidades de sus cargos y se fijará en base a los presupuestos de egresos respectivos, tomando en cuenta las recomendaciones del Comité Técnico de valoración Salarial del Estado de Jalisco y sus Municipios de acuerdo a la capacidad económica de la entidad pública, sin que puedan ser disminuidos, y de conformidad con las disposiciones legales aplicables en la materia.
+
+Los servidores públicos no podrán percibir por sus servicios ningún tipo de pago, prestación, compensación o bono alguno que no esté expresamente asignado en el presupuesto de egresos correspondiente.
+
+La violación a lo dispuesto por el presente artículo será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
+
+Art. 46 bis. Para efectos del artículo anterior, se conformará un Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, el cual deberá realizar los estudios necesarios para la actualización de los montos máximos de las percepciones anualmente y emitir recomendaciones sobre la percepción salarial de los servidores públicos. Este Comité Técnico estará integrado por:
+
+I. El Gobernador del Estado o la persona que éste designe;
+
+II. El Presidente del Supremo Tribunal de Justicia del Estado o quien designe el Pleno de éste;
+
+III. Dos representantes del Congreso del Estado, que serán designados por las Comisiones de Hacienda y Presupuestos y de la Comisión de Administración; y
+
+IV. Un académico especialista en Gestión y Administración Pública o en Ciencias Políticas y de Gobierno, designado por el rector de las siguientes universidades: Universidad de Guadalajara, Universidad del Valle de Atemajac, Universidad Autónoma de Guadalajara, Instituto Tecnológico y de Estudios Superiores de Occidente, Universidad Panamericana e Instituto Tecnológico de Estudios Superiores de Monterrey.
+
+El Comité a petición de cualquiera de sus miembros, podrá invitar a las personas que por sus conocimientos y aptitudes considere necesarias, para el mejor cumplimiento de sus actividades.
+
+El Comité Técnico sesionará, previa convocatoria por parte del Titular del Poder Ejecutivo, en el mes de agosto para formular las recomendaciones respectivas a más tardar el día último del mismo mes, con la finalidad de que las mismas sean tomadas en consideración en el proyecto de Presupuesto de Egresos del Gobierno del Estado. Los integrantes del Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, no percibirán remuneración económica alguna, por las actividades inherentes a este nombramiento.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
+
+Art. 46 bis 1. El Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, tomará en consideración, para emitir sus recomendaciones sobre la percepción salarial de servidores públicos de los municipios, al menos las siguientes características:
+
+I. Número de habitantes;
+
+II. Monto del presupuesto;
+
+III. Dispersión de la población;
+
+IV. Desarrollo Socioeconómico; y
+
+V. Número de Servidores Públicos.
 
 ###### Art. 47.
 
@@ -1948,3 +1984,11 @@ P.O. 17 DE NOVIEMBRE DE 2001.
 P.O. 13 DE DICIEMBRE DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- Para el ejercicio fiscal del 2002, el Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, será convocado de inmediato, para que a más tardar el 31 de marzo del 2002, evalúe las percepciones aprobadas en los presupuestos respectivos, sin que esta evaluación pueda afectar las prestaciones ya aprobadas.
