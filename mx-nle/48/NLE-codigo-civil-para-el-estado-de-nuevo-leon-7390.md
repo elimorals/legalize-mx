@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1983-01-05"
+last_updated: "1983-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1983.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -383,7 +383,7 @@ Los hechos y actos del estado civil del propio Oficial, de su cónyuge, ascendie
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
-### CAPITULO VIII. ACTAS DE INSCRIPCIONES DE SENTENCIAS
+### CAPITULO VIII. ACTAS DE INSCRIPCION DE SENTENCIAS
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -583,17 +583,17 @@ Si el reconocimiento se hiciera en Oficialía diferente de aquella en que se lev
 
 Dictada la resolución judicial definitiva que autorice la adopción, el adoptante o los adoptantes, dentro del término de quince días, presentarán al Oficial del Registro Civil de su domicilio copia certificada de la misma, a efecto de que se asiente el acta respectiva. La Autoridad Judicial que dicte la resolución estará obligada, así mismo, en igual término, a enviar copia certificada de la misma al Director del Registro Civil o bien a la Oficialía que señalen los interesados, para su registro.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
 
 ###### Art. 86.
 
-El acta de adopción contendrá: nombre, apellidos, sexo, fecha y lugar de nacimiento, nacionalidad y domicilio del o de los adoptados; nombre, apellidos, estado civil, domicilio, nacionalidad del o de los adoptantes y los datos esenciales de la resolución judicial y Tribunal que la dictó.
+El Acta de Adopción contendrá: Nombre, Apellidos, Sexo, Edad, Fecha y Lugar de Nacimiento, Nacionalidad y Domicilio del o de los adoptados; Nombre, Apellidos, Edad, Estado Civil, Nacionalidad, Domicilio del o de los Adoptantes; el Nombre, Apellidos y Nacionalidad de los Padres del o de los adoptantes, y los datos esenciales de la Resolución Judicial y Tribunal que la dictó.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
 
 ###### Art. 87.
 
-En el acta de adopción se insertará la parte resolutiva de la sentencia que haya autorizado la adopción.
+En el Acta de Adopción se insertará la parte resolutiva de la sentencia que haya autorizado la adopción. Por lo que se refiere a las adopciones hechas con anterioridad que no contengan todos los datos del Artículo 86, se probarán por medio de Diligencias de Jurisdicción Voluntaria sobre Información Ad-Perpetuam.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -601,11 +601,11 @@ En el acta de adopción se insertará la parte resolutiva de la sentencia que ha
 
 La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el Artículo 84.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
 
 ###### Art. 89.
 
-Extendida el acta de la adopción se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+Extendida el Acta de Adopción se anotará la de Nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del Acta de Adopción. Al expedirse copia certificada del Acta de Nacimiento, los datos de ésta se suplirán por los datos de la anotación si así lo solicitaren.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1823,6 +1823,8 @@ Ejecutoriada una sentencia de divorcio, el juez de Primera Instancia remitirá c
 
 ### CAPITULO V. DE LA ADOPCION
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
+
 ## TITULO SEXTO. DEL PARENTESCO Y DE LOS ALIMENTOS
 
 ### CAPITULO I. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LA PERSONA DE LOS HIJOS
@@ -2331,11 +2333,23 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ###### Art. 390.
 
-Los mayores de cuarenta años, en pleno ejercicio de sus derechos y que no tengan descendientes, pueden adoptar a un menor o a un incapacitado, aun cuando sea mayor la edad, siempre que el adoptante tenga diecisiete años mas que el adoptado y que la adopción sea benéfica a éste.
+El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga quince años más que el adoptado y que acredite además:
+
+I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como hijo propio, según la circunstancias de la persona que trata de adoptar;
+
+II.- Que la adopción es benéfica para la persona que trata de adoptarse; y
+
+III.- Que el adoptante es persona de buena costumbres.
+
+Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos o más incapacitados. Lo mismo se observará si se pretende la adopción de menores e incapacitados simultáneamente.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
 
 ###### Art. 391.
 
-El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo.
+El marido y la mujer que no tengan descendientes y que tengan por lo menos dos años de casados, podrán adoptar cuando los dos estén conformes en considerar al adoptado como hijo y aunque solo uno de los cónyuges cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de quince años cuando menos.
+
+También podrán adoptar, aún cuando tengan descendientes, en ciertos casos en que el Juez lo estime benéfico y circunstancias especiales lo aconsejen, oyéndose al Ministerio Público sobre el particular.
 
 ###### Art. 392.
 
@@ -2349,27 +2363,31 @@ El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido defin
 
 El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
+
 ###### Art. 395.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+El que adopta tendrá respecto de la persona y bienes del adoptado los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+
+El o los adoptados podrán llevar los apellidos del o de los adoptantes, haciéndose las anotaciones correspondientes en el Acta de Adopción.
 
 ###### Art. 396.
 
 El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
+
 ###### Art. 397.
 
-Para que la adopción pueda tener lugar deberán consentir en ella en sus respectivos casos:
+Para que la adopción pueda tener lugar deberá consentir en ella, en sus respectivos casos:
 
 I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
 
-II.- El tutor del que se va adoptar;
+II.- El tutor del que se va a adoptar;
 
-III.- Las personas que hayan acogido al que se pretende adoptar y lo traten como a hijo cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
+III.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos o teniéndolos se desconozca su paradero.
 
-IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
-
-Si el menor que se va a adoptar tiene mas de catorce años, también se necesita su consentimiento para la adopción.
+Si el menor tiene más de doce años, también se necesita su consentimiento para la adopción.
 
 ###### Art. 398.
 
@@ -2391,9 +2409,11 @@ El juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 157.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
+
 ###### Art. 403.
 
-Los derechos y obligaciones que resultan del parentesco natural, no se extinguen por la adopción, excepto la patria potestad que será transferida al padre adoptivo.
+La adopción, no extingue los derechos y obligaciones que resulten del parentesco natural, salvo la patria potestad que se transferirá al padre adoptivo. En caso, que el padre adoptivo esté casado con alguno de los progenitores del adoptado, dicha patria potestad se ejercerá por ambos cónyuges.
 
 ###### Art. 404.
 
@@ -2619,17 +2639,25 @@ II.- Con la emancipación derivada del matrimonio;
 
 III.- Por la mayor edad del hijo.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
+
 ###### Art. 444.
 
-La patria potestad se pierde:
+La Patria Potestad se pierde:
 
-I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derecho, o cuando es condenado dos o más veces por delitos graves;
+I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derecho o cuando es condenado dos o más veces por delitos graves;
 
-II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 283;
+II.- En los casos de divorcio, teniendo en cuenta lo que dispone el Artículo 283;
 
-III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
+III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la Ley Penal;
 
-IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados mas de seis meses.
+IV.- Por la Exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados en los casos siguientes:
+
+A.- Siendo recién nacido y menor de un año, por más de treinta días;
+
+B).- Cuando sea mayor de un año, por un período de dos meses; y
+
+V.- Por abandono ocasional o negligencia que ponga en peligro su integridad física o su salud, cualquiera que sea la edad del menor, si esta circunstancia se prolonga hasta por tres meses.
 
 ###### Art. 445.
 
@@ -15081,7 +15109,7 @@ P.O. 29 DE DICIEMBRE DE 1982.
 
 ###### ARTICULO SEGUNDO
 
-- Quedan derogadas todas las disposiciones que se opongan a la presentes reformas.
+- Quedan derogadas todas las disposiciones que se opongan a las presentes reformas.
 
 P.O. 31 DE DICIEMBRE DE 1982.
 
@@ -15098,3 +15126,9 @@ P.O. 5 DE ENERO DE 1983.
 PRIMERO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO:- Los procedimientos judiciales que se encuentren pendientes de resolución antes de la vigencia de este Decreto, se seguirán tramitando conforme a lo dispuesto en el que se reforma.
+
+P.O. 23 DE NOVIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
