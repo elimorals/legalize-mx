@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1959-09-16"
+last_updated: "1961-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE INQUILINATO DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 16 DE SEPTIEMBRE DE 1959, DURANTE LA VIGENCIA DE LA CITADA LEY, NO TENDRAN APLICACION LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO QUE SE OPONGAN A LOS PRECEPTOS DE LA MISMA.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE SEPTIEMBRE DE 1959.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 6 DE MAYO DE 1961.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -4781,9 +4779,13 @@ Cada familia sólo puede construir un patrimonio. Los que se constituyan subsist
 
 El valor máximo de los bienes afectos al patrimonio de familia será de:
 
-I.- Cinco mil pesos para las municipalidades de Hermosillo, Nogales, Ciudad Obregón, Navojoa y Cananea;
+> <small>(REFORMADA, B.O. 6 DE MAYO DE 1961)</small>
 
-II.- Tres mil pesos para los municipios restantes.
+I.- Treinta y cinco mil pesos para las municipalidades de Hermosillo, Nogales, Cajeme, Navojoa y Cananea;
+
+> <small>(REFORMADA, B.O. 6 DE MAYO DE 1961)</small>
+
+II.- Treinta mil pesos para los municipios restantes.
 
 ###### Art. 897.
 
@@ -18222,3 +18224,7 @@ TERCERO.- Durante la vigencia de la presente Ley no tendrán aplicación las dis
 CUARTO.- En los procedimientos judiciales o administrativos pendientes de resolución o de ejecución los interesados podrán hacer valer los beneficios que les concede la presente Ley.
 
 QUINTO.- Esta Ley empezara a regir a partir del día de su publicación en el Boletín Oficial del Estado.
+
+B.O. 6 DE MAYO DE 1961.
+
+UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
