@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1954-09-24"
+last_updated: "1965-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 1954.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 1965.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -1023,7 +1023,9 @@ VII. En caso de falta continuada de los miembros de la Asamblea, por el término
 
 La propia Asamblea dará cuenta al Ejecutivo de las faltas de los propietarios y suplentes y éste convocará a elecciones desde luego para cubrir los puestos que los faltistas hubieren dejado vacantes, excepto el caso de que hayan de transcurrir menos de cuatro meses para que quede concluido su período, en el qne (sic) se esperará a la nueva elección.
 
-VIII. En el caso de falta absoluta de Ayuntamiento, el Ejecutivo nombrará una Junta Provisional de entre los vecinos del Municipio, la cual regirá mientras se convoca a elecciones o termina el período si faltan menos de cuatro meses para la conclusión de él.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1965)</small>
+
+VIII. En el caso de falta absoluta de Ayuntamiento, el Ejecutivo nombrará una Junta Provisional de entre los vecinos del Municipio, la cual regirá mientras se convoca a elecciones o termina el período, si falta menos de un año para la conclusión de él.
 
 IX. En caso de que por razón de empate en las votaciones o por cualquiera otra causa, la Asamblea Municipal no pueda llegar a una resolución, el Ejecutivo del Estado podrá decidir sobre el asunto controvertido.
 
@@ -1360,6 +1362,10 @@ P.O. 2 DE JUNIO DE 1944.
 Este decreto surtirá sus efectos desde la fecha de su publicación en el "Periódico Oficial".
 
 P.O. 24 DE SEPTIEMBRE DE 1954.
+
+Este Decreto surtirá sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 1965.
 
 Este Decreto surtirá sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
 
