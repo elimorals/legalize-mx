@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1921-04-06"
+last_updated: "1921-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE ABRIL DE 1921.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE AGOSTO DE 1921.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -169,6 +169,8 @@ De la División de Poderes
 
 ### CAPITULO SEGUNDO. DE LA ELECCION E INSTALACION DEL CONGRESO
 
+> <small>(REFORMADO, D.O. 4 DE AGOSTO DE 1921)</small>
+
 ###### Artículo 16.
 
 El Poder Público del Estado se divide para su ejercicio, en Legislativo, Ejecutivo y Judicial.
@@ -195,7 +197,7 @@ Los Diputados son inviolables por las opiniones que manifiesten en el desempeño
 
 ###### Artículo 20.
 
-El Congreso del Estado de Yucatán se compondrá de representantes electos en su totalidad cada dos años, y su elección será popular directa.
+El Congreso del Estado de Yucatán se compondrá de representantes electos en su totalidad cada dos años; su elección será popular y directa y no podrán ser reelectos para el periodo inmediato por el mismo Distrito, ni electos por ninguno otro, en el mismo periodo.
 
 ###### Artículo 21.
 
@@ -960,3 +962,9 @@ Este decreto entrará en vigor al siguiente día de su publicación, y no afecta
 D.O. 6 DE ABRIL DE 1921.
 
 Ese decreto surtirá sus efectos desde el mismo día de su publicación.
+
+D.O. 4 DE AGOSTO DE 1921.
+
+###### ARTICULO SEGUNDO
+
+Este decreto entrará en vigor el mismo día de su promulgación.
