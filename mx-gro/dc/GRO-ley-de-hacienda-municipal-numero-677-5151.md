@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2000-12-29"
+last_updated: "2003-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -185,11 +185,33 @@ II.- A partir del bimestre siguiente al en que se notifique nuevo avalúo cuando
 
 III.- A partir del bimestre siguiente al en que se modifique nuevo avalúo cuando éste sea efectuado por haber transcurrido el plazo de un año en predios urbanos y rústicos.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 10.
 
-El impuesto se causará conforme a las bases y las tasas establecidas en la Ley de Ingresos de los Municipios vigente.
+El impuesto se causará conforme a las siguientes tasas y épocas de pago:
+
+I.- Los predios urbanos y sub-urbanos baldíos pagarán hasta el 20 al millar anual sobre el valor catastral determinado;
+
+II.- Los predios urbanos y sub-urbanos edificados, destinados para el servicio turístico pagarán hasta el 20 al millar anual sobre el valor catastral determinado;
+
+III.- Los predios rústicos baldíos pagarán hasta el 12 al millar anual sobre el valor catastral determinado;
+
+IV.- Los predios urbanos, sub-urbanos y rústicos edificados, pagarán hasta el 12 al millar anual sobre el valor catastral determinado;
+
+V.- Los predios en que se ubiquen plantas de beneficio y establecimientos metalúrgicos pagarán hasta el 5 al millar anual sobre el valor catastral determinado;
+
+VI.- Los predios ejidales y comunales pagarán hasta el 12 al millar anual sobre el valor catastral de las construcciones;
+
+VII.- Los predios y construcciones ubicados en las zonas urbanas, sub-urbanas y rústicas regularizadas mediante programas sociales de regularización de la tenencia de la tierra, creados por los Gobiernos Estatal y Municipal pagarán hasta el 12 al millar anual sobre el 50% del valor catastral determinado, únicamente en el ejercicio fiscal en que queden regularizados a excepción de aquellos que estén al corriente del pago del impuesto;
+
+VIII.- Los predios edificados propiedad de pensionados y jubilados de nacionalidad mexicana destinados exclusivamente a su casa-habitación, pagarán este impuesto aplicando la tasa hasta del 12 al millar anual sobre el 50% del valor catastral determinado.
+
+En las mismas condiciones gozarán de este beneficio las personas mayores de 60 años inscritas en el Instituto Nacional de la Senectud, madres jefas de familia, padres solteros y personas con capacidades diferentes.
+
+Para el caso de que exista valuación o revaluación de predios, la base para el cobro del impuesto corresponderá al 80% del valor catastral determinado.
+
+En ningún caso la contribución a pagar será menor de un día de salario mínimo vigente con que se inicie el ejercicio fiscal en cualquiera de los Municipios del Estado de Guerrero.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -239,11 +261,11 @@ e) Para el quinto, el 30% del valor catastral actual determinado.
 
 El pago del impuesto deberá hacerse en las Tesorerías Municipales o Delegaciones autorizadas al efecto.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 17.
 
-El impuesto a que se refiere la presente Ley podrá pagarse por bimestres adelantados dentro de los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año, para los contribuyentes de este impuesto, cuyas bases de tributación sean superiores a 100 salarios mínimos vigentes en el Municipio.
+El impuesto predial podrá pagarse por bimestres adelantados dentro de los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año, para los contribuyentes de este impuesto, cuyas bases de tributación sean superiores a 1000 salarios mínimos vigentes en el Municipio.
 
 ###### ARTICULO 18.
 
@@ -317,9 +339,11 @@ Cuando la Tesorería Municipal o alguna de sus Dependencias consideren que exist
 
 BIS.- La Tesorería Municipal tendrá acción real para el cobro del impuesto y de las prestaciones, el procedimiento administrativo de ejecución que establece el Código Fiscal Municipal afectará a los predios directamente, quien quiera que sea el sujeto obligado al pago de este impuesto.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 26.
 
-Las infracciones al presente capítulo serán sansionadas (sic) de conformidad con lo previsto por el Código Fiscal Municipal.
+Cuando las personas físicas o morales incurran en inobservancia a lo establecido en el presente capítulo, se aplicará el procedimiento previsto por el Código Fiscal Municipal.
 
 #### SECCION SEGUNDA. Impuesto sobre adquisición de inmuebles
 
@@ -328,6 +352,12 @@ Las infracciones al presente capítulo serán sansionadas (sic) de conformidad c
 ###### ARTICULO 27.
 
 Están obligados al pago del impuesto sobre adquisición de inmuebles establecido en esta sección, las personas físicas o morales que adquieran inmuebles que consisten en el suelo, o en el suelo y las construcciones adheridas a él ubicados en territorio del Estado, así como los derechos relacionados con los mismos, a que se refiere este gravamen.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 27
+
+BIS.- Es objeto de este impuesto la adquisición de bienes inmuebles que realicen personas físicas o morales en el territorio de los Municipios del Estado de Guerrero.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1998)</small>
 
@@ -427,11 +457,11 @@ Cuando del inmueble formen parte departamentos habitacionales o locales comercia
 
 Para efectuar la reducción a que se refiere este artículo se aplicará el salario mínimo correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el artículo 28.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 31.
 
-El impuesto se causará de conformidad con la tasa que establezca la Ley de Ingresos de los Municipios del Estado.
+El impuesto se causará y pagará aplicando la tasa de hasta el 2% sobre la base determinada por esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -571,15 +601,55 @@ Las infracciones al presente capítulo serán sancionadas de conformidad con lo 
 
 Es objeto de este impuesto la percepción de ingresos derivados de la explotación de diversiones y espectáculos públicos.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+Se considera espectáculo público todo acto, función, diversión o entretenimiento al que tenga acceso el público, y cubra una cuota de entrada, donativo, cooperación o cualquier otro concepto, ya sea directamente o por un tercero.
+
 ###### ARTICULO 41.
 
 Son sujetos del impuesto las personas físicas y morales que perciban los ingresos derivados de la explotación de las actividades a que se refiere el artículo anterior.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 42.
 
-Es base para el pago del impuesto el monto de los ingresos obtenidos; cobrándose las tasas o cuotas establecidas en la Ley de Ingresos de los Municipios.
+Es base para el pago del impuesto el monto total de los ingresos obtenidos por la realización de un espectáculo público o la instalación de diversiones o juegos de entretenimiento.
+
+Se considerará como ingreso del espectáculo público la cantidad total que se cobre por los boletos o cuotas de entradas, donativos, cooperaciones o cualquier concepto, al que se condicione el acceso al espectáculo ya sea directamente o por un tercero incluyendo las que se paguen por derecho a reservar, apartar o adquirir anticipadamente el boleto de acuerdo al espectáculo público.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 42
+
+BIS.- El impuesto sobre diversiones y espectáculos públicos se causará de conformidad con las siguientes tasas y tarifas:
+
+I.- Hasta el 2% sobre el boletaje vendido para los teatros, circos, carpas y diversiones similares;
+
+II.- Hasta el 7.5% sobre el boletaje vendido para los eventos deportivos como: béisbol, fútbol, box, lucha libre y similares;
+
+III.- Hasta el 7.5% sobre el boletaje vendido para los eventos taurinos;
+
+IV.- Hasta el 7.5% sobre el boletaje vendido para exhibiciones o exposiciones;
+
+V.- Hasta el 7.5% sobre el boletaje vendido para juegos recreativos;
+
+VI.- Hasta el 7.5% sobre el boletaje vendido para bailes eventuales de especulación, si se cobra la entrada;
+
+VII.- Por evento hasta siete salarios mínimos para bailes eventuales de especulación, sin cobro de entrada;
+
+VIII.- Por evento hasta cuatro salarios mínimos, para bailes particulares no especulativos, cuando se desarrollen en algún espacio público;
+
+IX.- Hasta el 17.5% sobre el boletaje vendido para excursiones y paseos terrestres o marítimos; y
+
+X.- Hasta el 7.5% sobre el boletaje vendido para otras diversiones o espectáculos públicos no especificados, inclusive sobre los pagos de derecho de entrada sin boleto o contraseña.
+
+Los establecimientos o locales comerciales que, independientemente de su giro, se dediquen de manera habitual o permanente a la explotación de diversiones o juegos de entretenimiento, cubrirán el importe de acuerdo a lo siguiente:
+
+I.- Hasta cinco salarios mínimos para las máquinas de video-juegos, por unidad y anualidad;
+
+II.- Hasta tres salarios mínimos para los juegos mecánicos para niños, por unidad y anualidad; y
+
+III.- Hasta dos salarios mínimos para las máquinas de golosinas o futbolitos por unidad y anualidad.
 
 ###### ARTICULO 43.
 
@@ -591,11 +661,11 @@ Es base para el pago del impuesto el monto de los ingresos obtenidos; cobrándos
 
 Los contribuyentes de este impuesto que de manera normal o permanente exploten este género de actividades, están obligados a empadronarse dentro de los treinta días siguientes a la fecha de iniciación de sus operaciones. La solicitud de empadronamiento deberá presentarse ante la Tesorería Municipal correspondiente, utilizando las formas oficiales aprobadas al efecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 45.
 
-Los contribuyentes que operen habitual o permanentemente, cubrirán el impuesto en los primeros quince días de cada mes en las Tesorerías Municipales correspondientes.
+Los contribuyentes que operen habitual o permanentemente, cubrirán el impuesto en los primeros dos meses de cada año en la Tesorería Municipal de forma directa o en las oficinas que haga sus funciones, previa autorización por el ayuntamiento.
 
 En el caso de los espectáculos de carácter accidental o transitorio, la empresa garantizará previamente en efectivo o en alguna de las formas señaladas en el Código Fiscal Municipal a satisfacción de la Tesorería Municipal, el importe probable del impuesto, el cual se liquidará al día siguiente de cada función o espectáculo. Cubierto el impuesto cesará la garantía inmediata.
 
@@ -611,11 +681,11 @@ SECION (SIC) CUARTA
 
 Impuestos adicionales
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 48.
 
-Son objeto de estos impuestos la realización de pagos por concepto de impuesto predial y derechos por servicios catastrales.
+Son objeto de estos impuestos la realización de pagos por concepto de impuesto predial, derechos por servicios catastrales, tránsito, agua potable, drenaje, alcantarillado, tratamiento y disposición de las aguas residuales.
 
 ###### ARTICULO 49.
 
@@ -631,31 +701,57 @@ La base de estos impuestos será el monto total del pago por los conceptos seña
 
 Los impuestos se causarán conforme a las tasas, porcentajes y tarifas factorizadas que establezca la Ley de Ingresos de los Municipios y se pagarán en el mismo acto en que se pague el concepto principal. Si el pago de créditos fiscales se realiza en forma extemporánea estos impuestos causarán recargos de ley.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 51-A.
 
-Con fines de fomento educativo y asistencia social, se causará un impuesto adicional conforme lo establece la Ley de Ingresos para los Municipios.
+Con fines de fomento educativo y asistencia social, se causará un impuesto adicional de hasta el 15% sobre el producto de los siguientes conceptos:
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+I.- Impuesto Predial;
+
+II.- Derechos por servicios catastrales;
+
+III.- Derechos por servicios de tránsito; y
+
+IV.- Derechos por los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de las aguas residuales.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 51-B.
 
-Con la finalidad de fomentar la construcción de caminos en los Municipios, se causará un impuesto adicional de conformidad con lo que establezca al efecto la Ley de Ingresos para los Municipios.
+Con la finalidad de fomentar la construcción de caminos en los municipios, se causará en las zonas no turísticas de los municipios un impuesto adicional denominado pro-caminos de hasta el 15% sobre el producto de los siguientes conceptos:
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+I.- Impuesto Predial; y
+
+II.- Derechos por servicios catastrales.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 51-C.
 
-Con el interés de fomentar la corriente turística, se causará un impuesto adicional de acuerdo a como lo establezca la Ley de Ingresos para los Municipios.
+Con el interés de fomentar el desarrollo de las zonas turísticas del municipio, se causará un impuesto adicional de hasta el 15% pro-turismo sobre el producto de los siguientes conceptos:
 
-Para la aplicación del presente artículo, se entenderá como zonas preponderantemente turísticas para las Ciudades de Acapulco, Ixtapa-Zihuatanejo y Taxco, Guerrero, aquellas que sean determinadas en acuerdo de cabildo por los H. Ayuntamientos correspondientes y que estén debidamente publicadas en la Gaceta Municipal respectiva.
+I.- Impuesto Predial; y
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+II.- Derechos por servicios catastrales.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 51-D.
 
-Con el objeto de apoyar el programa de recuperación de equilibrio ecológico forestal en el Municipio, se causará un impuesto adicional en los términos que señale la Ley de Ingresos para los Municipios.
+Con el objeto de apoyar el programa de recuperación de equilibrio ecológico forestal en el Municipio, se causará un impuesto adicional de hasta el 15%, sobre el monto de los derechos prestados por las autoridades de tránsito municipal.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 51-E.
+
+Con el fin de mantener, conservar y ampliar las redes de abastecimiento de agua potable, se causará un impuesto adicional del 15% pro-redes, al consumo de este líquido, contribución que no será aplicada a las tarifas domésticas.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 51-F.
+
+Sobre el pago de impuestos y derechos, se cobrará adicionalmente un 15% por concepto de contribución estatal, excepto lo referente a predial, adquisición de inmuebles, servicios catastrales, tránsito y agua potable.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
@@ -701,9 +797,25 @@ Están exentos del pago de derechos, la Federación, el Estado y los Municipios,
 
 Se causarán derechos de cooperación por la construcción y reconstrucción de obras públicas.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 59.
 
-Estarán obligados al pago de los derechos de cooperación, los propietarios o poseedores de los predios beneficiados por las obras públicas a que se refiere el artículo anterior causándose en los términos y proporciones que señalen los ordenamientos o decretos que se expidan al efecto o de acuerdo al porcentaje que determine el Consejo de Colaboración Municipal que funcionará de acuerdo con la Ley especial que se expida para este caso.
+Estarán obligados al pago de los derechos de cooperación, los propietarios o poseedores de los predios beneficiados por las obras públicas a que se refiere el artículo anterior causándose en los términos y proporciones que establezcan los convenios signados entre el Ayuntamiento y los beneficiarios de la obra.
+
+Para el cobro de este derecho, el Ayuntamiento requerirá al beneficiario de la obra por los siguientes conceptos:
+
+a) Por instalación de tubería de distribución de agua potable, por metro lineal;
+
+b) Por instalación de tubería para drenaje sanitario, por metro lineal;
+
+c) Por tomas domiciliarias;
+
+d) Por pavimento o rehabilitación de éste, por metro cuadrado;
+
+e) Por guarniciones, por metro lineal; y
+
+f) Por banqueta, por metro cuadrado.
 
 ###### ARTICULO 60.
 
@@ -1021,13 +1133,109 @@ Los ayuntamientos deberán publicar, durante el primer bimestre del ejercicio fi
 
 de proporcionalidad que se determine, deberá ser publicado en todo el Municipio
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION CUARTA. Del Comercio Ambulante
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 62-D.
+
+Se entiende por comercio ambulante y prestación de servicios en la vía pública, los siguientes:
+
+I.- Los que sólo vendan mercancías en la calle sin estacionarse en lugar determinado, o expongan sus mercancías en vitrinas portátiles o sobre carros de mano;
+
+II.- Los que vendan mercancías a domicilio, al contado o en abonos, aún cuando no tengan casa establecida ni depósito de mercancías, o las adquieran en los comercios establecidos;
+
+III.- Los que vendan sus mercancías estacionándose en las vías públicas, plazas o mercados, o establezcan en ellos puestos fijos o semi-fijos; y
+
+IV.- Los que en vía pública de jurisdicción municipal aseen calzado, realicen tomas fotográficas con el ánimo de lucro, expendan boletos de lotería instantánea, ofrezcan los servicios de tríos, duetos, orquestas y similares.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 62-D
+
+BIS I.- De conformidad con lo establecido en el anexo tres del Convenio de Colaboración Administrativa en Materia Fiscal Federal que celebraron el gobierno federal por conducto de la Secretaría de Hacienda y Crédito Público y el Estado de Guerrero, los municipios de la entidad ejercerán las siguientes facultades:
+
+I.- En materia de verificación:
+
+a) Realizar actos de autoridad para propiciar que los contribuyentes de que se trata se incorporen al Registro Federal de Contribuyentes;
+
+b) Notificar los requerimientos emitidos por el Estado mediante los cuales se solicita a los contribuyentes su inscripción al Registro Federal de Contribuyentes; y
+
+c) Constatar que los contribuyentes localizados cumplan con su inscripción en el Registro Federal de Contribuyentes, conforme a lo establecido en el artículo 27 del Código Fiscal de la Federación, e informar de ello al Estado para la determinación de las multas que procedan.
+
+II.- Tratándose del pago del impuesto:
+
+a) Constatar que los contribuyentes inscritos en el Registro Federal de Contribuyentes hayan cumplido con sus obligaciones de pago durante el tiempo que permanezcan en el régimen fiscal; y
+
+b) Informar a la Secretaría, a través de la administración estatal competente, sobre las irregularidades de los contribuyentes de que se tenga conocimiento.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 62-D
+
+BIS-II.- De acuerdo a lo preceptuado en el artículo 62-D, se actualiza el cobro de derechos por el uso de la vía pública a los prestadores de servicios y comercio ambulante, tal como lo señale la Ley de Ingresos particular o general de los Municipios del Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 62-D
+
+BIS-III.- Para el ejercicio del comercio a que se refiere esta sección, se requerirá licencia especial la que será expedida por escrito tan pronto como sea solicitada y previo pago del impuesto correspondiente de acuerdo con la tarifa y condiciones que señale la Ley de Ingresos Particular o General de los Municipios del Estado.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+#### SECCION QUINTA. De los demás Derechos
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+###### ARTICULO 62-E.
+
+El Ayuntamiento, independientemente de lo establecido en las secciones anteriores, percibirá ingresos por el cobro de los siguientes derechos:
+
+I.- Por licencias para construcción de edificios o casas habitación, restauración, reparación, urbanización, fraccionamiento, lotificación, relotificación, fusión y subdivisión;
+
+II.- Por licencias para el alineamiento de edificios o casas habitación y de predios;
+
+III.- Por licencias para la demolición de edificios o casas habitación;
+
+IV.- Por la expedición de permisos y registros en materia ambiental;
+
+V.- Por la expedición o tramitación de constancias, certificaciones, duplicados y copias;
+
+VI.- Por la expedición de copias de planos, avalúos y servicios catastrales;
+
+VII.- Por servicios generales del rastro municipal o lugares autorizados;
+
+VIII.- Por servicios generales en panteones;
+
+IX.- Por servicios de agua potable, drenaje, alcantarillado y saneamiento;
+
+X.- Por servicios de limpia, aseo público, recolección, traslado, tratamiento y disposición final de residuos;
+
+XI.- Por los servicios prestados por la Dirección de Tránsito Municipal;
+
+XII.- Por el uso de la vía pública;
+
+XIII.- Por la expedición inicial o refrendo de licencias, permisos y autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan su expendio;
+
+XIV.- Por licencias, permisos o autorizaciones para la colocación de anuncios o carteles y la realización de publicidad;
+
+XV.- Por registro civil, cuando medie convenio con el Gobierno del Estado;
+
+XVI.- Por los servicios generales prestados por los centros antirrábicos municipales;
+
+XVII.- Por los servicios municipales de salud;
+
+XVIII.- Por derechos de escrituración;
+
+XIX.- Por la inscripción o revalidación del registro de directores responsables de obra o corresponsables; y
+
+XX.- Por los servicios prestados por las áreas de protección civil y bomberos, en aquellos municipios que cuenten con ellas.
+
+Las bases, tarifas y cuotas para el cobro de estos derechos, serán fijadas en la Ley de Ingresos Municipal Particular o General.
+
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-#### SECCIÓN PRIMERA. De la Instalación, Mantenimiento y Conservación del Alumbrado Público
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-#### SECCION UNICA
 
 ### CAPITULO II BIS. CONTRIBUCIONES ESPECIALES
 
@@ -1043,7 +1251,9 @@ BIS.- Contribuciones Especiales son las prestaciones establecidas en la Ley a ca
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-#### SECCION UNICA
+#### SECCIÓN PRIMERA. De la Instalación, Mantenimiento y Conservación del Alumbrado Público
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 63
 
@@ -1059,25 +1269,63 @@ La contribución será semestral y deberá liquidarse en una sola exhibición du
 
 #### SECCION UNICA
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 63.
 
-Son productos los ingresos que percibe el Municipio por actividades que no corresponden al desarrollo de sus funciones propias de Derecho Público o por la explotación de sus bienes patrimoniales.
+Son productos, los ingresos que percibe el Ayuntamiento por actividades que no corresponden al desarrollo de sus funciones propias de Derecho Público o por la explotación de sus bienes patrimoniales, como son las siguientes:
+
+I.- Por arrendamiento, explotación o venta de bienes muebles e inmuebles;
+
+II.- Por ocupación o aprovechamiento de la vía pública;
+
+III.- Corrales y corraletas;
+
+IV.- Por el uso del corralón municipal;
+
+V.- Por productos financieros;
+
+VI.- Por servicio mixto o unidades de transporte;
+
+VII.- Por servicio de unidades de transporte urbano;
+
+VIII.- Por balnearios y centros recreativos;
+
+IX.- Por estaciones de gasolina;
+
+X.- Por baños públicos;
+
+XI.- Por centrales de maquinaria agrícola;
+
+XII.- Por asoleaderos;
+
+XIII.- Por talleres de huaraches;
+
+XIV.- Por granjas porcícolas;
+
+XV.- Por adquisiciones para venta de apoyo a las comunidades;
+
+XVI.- Por servicio de protección privada; y
+
+XVII.- Por productos diversos.
+
+Los convenios o contratos que signen las personas físicas o morales con el Ayuntamiento referente a lo anterior, no se apartarán de lo establecido en la Ley de Ingresos Particular o General para los Municipios del Estado, para el caso concreto.
 
 ###### ARTICULO 64.
 
-Quedan comprendidos en esta sección, los ingresos que obtiene el municipio por:
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
 
-I.- Arrendamiento, explotación o enajenación de bienes muebles o inmuebles del municipio.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-II.- Los ingresos por el usufructo de los bienes a que tengan derecho los municipios.
+###### ARTICULO 64
 
-III.- Los que sean percibidos por la ocupación o aprovechamiento de la vía pública o de otros bienes de uso común del municipio.
+BIS.- El Ayuntamiento independientemente de lo anterior, captará ingresos por los siguientes conceptos como contribuciones especiales:
 
-IV.- Establecimientos y empresas del municipio.
+I.- Pro-bomberos;
 
-V.- Publicaciones y formas oficiales.
+II.- Por la recolección, manejo y disposición final de envases no retornables; y
 
-VI.- Diversos productos.
+III.- Pro-ecología.
 
 ### CAPITULO IV. Aprovechamientos
 
@@ -1101,11 +1349,45 @@ IV.- Concesiones y contratos.
 
 V.- Donativos y legados hechos al municipio.
 
-VI.- Multas.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-VII.- El precio de la venta de bienes mostrencos.
+VI.- Multas fiscales;
 
-VIII.- Los ingresos que tengan analogía con los mencionados.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+VII.- Multas administrativas;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+VIII.- Multas de tránsito municipal;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+IX.- Multas por concepto de agua potable, drenaje, alcantarillado y saneamiento;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+X.- Multas por concepto de protección al medio ambiente.
+
+XI.- El precio de la venta de bienes mostrencos.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+XII.- Indemnización por daños causados a bienes municipales;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+XIII.- Intereses moratorios;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+XIV.- Cobros de seguros por siniestros;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+XV.- Gastos de notificación y ejecución; y
+
+XVI.- Los ingresos que tengan analogía con los mencionados.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -1117,27 +1399,47 @@ Para los efectos del pago de las multas de carácter administrativo que se impon
 
 #### SECCION UNICA
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 68.
 
-Los municipios del Estado, tendrán derecho a participar del rendimiento de impuestos federales, en los términos y disposiciones que al efecto señalen las leyes federales que los conceden y en los convenios que en su caso se celebren.
+Los Municipios del Estado, tendrán derecho a participar del rendimiento de impuestos federales, en los términos y disposiciones que al efecto señale la Ley de Coordinación Fiscal Federal y la Ley Número 251 que crea el Sistema Estatal de Coordinación Fiscal y Establece las Bases, Montos y Plazos a los que se Sujetarán las participaciones federales y en los convenios que en su caso se celebren.
 
 ### CAPITULO VI. Ingresos extraordinarios
 
 #### SECCION UNICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 69.
 
-Son ingresos extraordinarios:
+Los Ayuntamientos podrán obtener ingresos extraordinarios por los conceptos siguientes:
 
-I.- Empréstitos autorizados por el Congreso del Estado.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+I.- Empréstitos o financiamientos autorizados por el Congreso del Estado.
 
 II.- Aportaciones y subsidios del Gobierno Federal.
 
-III.- Aportaciones de particulares u organismos oficiales.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-IV.- Otros ingresos extraordinarios de carácter eventual, tales como bienes vacantes, herencias, legados y donaciones a favor del municipio; responsabilidades por manejo de fondos; la parte que corresponda al municipio por venta de terrenos baldíos; tesoros ocultos; reintegros y todos aquellos ingresos que por cualquier título o motivo correspondan al municipio, como el aprovechamiento del Erario y que no figuren especificados en esta Ley.
+III.- Provenientes del Gobierno del Estado;
+
+IV.- Aportaciones de particulares u organismos oficiales.
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+V.- Ingresos por cuenta de terceros;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2003)</small>
+
+VI.- Ingresos derivados de erogaciones recuperables; y
+
+VII. Otros ingresos extraordinarios de carácter eventual, tales como bienes vacantes, herencias, legados y donaciones a favor del municipio; responsabilidades por manejo de fondos; la parte que corresponda al municipio por venta de terrenos baldíos; tesoros ocultos; reintegros y todos aquellos ingresos que por cualquier título o motivo correspondan al municipio, como el aprovechamiento del Erario y que no figuren especificados en esta Ley.
 
 ## TITULO SEGUNDO. Disposiciones suspendidas en tanto el Estado de Guerrero permanezca coordinado con la Federación en materia del impuesto al valor agregado
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. Del comercio ambulante
 
@@ -1145,21 +1447,15 @@ IV.- Otros ingresos extraordinarios de carácter eventual, tales como bienes vac
 
 ###### ARTICULO 70.
 
-Los comerciantes ambulantes serán de tres clases:
-
-I.- Los que sólo vendan mercancías en la calle sin estacionarse en lugar determinado, o expongan sus mercancías en vitrinas portátiles o sobre carros de mano.
-
-II.- Los que vendan mercancías a domicilio, al contado o en abonos, aún cuando no tengan casa establecida ni depósito de mercancías, o las adquieran en los comercios establecidos.
-
-III.- Los que vendan sus mercancías estacionándose en las vías públicas, plazas o mercados, o establezcan en ellos puestos fijos o semifijos.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
 
 ###### ARTICULO 71.
 
-Para el ejercicio del comercio a que se refiere el artículo anterior, se requequerirá (sic) licencia especial la que será expedida por escrito tan pronto como sea solicitada y previo del pago del impuesto correspondiente de acuerdo con la tarifa que señale la Ley de Ingresos del Municipio.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
 
 ###### ARTICULO 72.
 
-Los comerciantes comprendidos en la fracción III del artículo 65, pagarán además las cuotas correspondientes al uso del piso en vías públicas, plazas y mercados.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
 
 ### CAPITULO II. Matanza de ganado
 
@@ -1187,6 +1483,8 @@ Los inspectores tendrán obligación de revisar que la carne puesta a la venta e
 
 ### CAPITULO III. Producción de mezcales, aguardientes y otras bebidas alcohólicas
 
+#### SECCION UNICA
+
 ###### ARTICULO 78.
 
 El pago del impuesto se efectuará tomando como base la producción de mezcales o aguardientes, según la tarifa que establezca la Ley de Ingresos Municipal.
@@ -1200,6 +1498,8 @@ La persona que desee dedicarse accidentalmente a la producción de alguna bebida
 En el caso del artículo anterior, el impuesto se cubrirá sobre el número de litros que se elaboren.
 
 ### CAPITULO IV. Ganado
+
+#### SECCION UNICA
 
 ###### ARTICULO 81.
 
@@ -1320,3 +1620,7 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día primero de enero de 2001.
+
+P.O. 26 DE DICIEMBRE DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
