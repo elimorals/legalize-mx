@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-secretaria-de-planeacion-y-finanzas-11741"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-31"
-last_updated: "1996-12-31"
+last_updated: "2000-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DE LA SECRETARIA DE PLANEACION Y FINANZAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el martes 31 de diciembre de 1996.
 
@@ -37,7 +37,7 @@ del mismo, sabed que:
 
 LA QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 DE LA CONSTITUCION LOCAL... ha tenido a bien expedir la siguiente:
 
-LEY ORGANICA DE LA SECRETARIA DE PLANEACION Y FINANZA
+LEY ORGANICA DE LA SECRETARIA DE PLANEACION Y FINANZAS
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -58,6 +58,10 @@ Al frente de la Secretaría de Planeación y Finanzas habrá un Secretario, al q
 ###### ARTICULO 4.
 
 El Secretario de Planeación y Finanzas podrá delegar en los servidores públicos mencionados en el artículo anterior, cualesquiera de sus facultades, excepto aquellas que por disposición legal son indelegables.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+El Secretario de Planeación y Finanzas podrá designar Encargados de Despacho de las Unidades Administrativas adscritas a la Secretaría de Planeación y Finanzas, así como de los Departamentos y demás oficinas que la conformen, quienes desempeñarán el cargo respectivo con las mismas facultades y obligaciones que los titulares correspondientes.
 
 ###### ARTICULO 5.
 
@@ -273,7 +277,7 @@ El Titular de la Tesorería de la Secretaría de Planeación y Finanzas tendrá 
 
 I.- Llevar el control de los ingresos de Gobierno del Estado.
 
-II.- Regular las erogaciones que procedan y deba realizar el Gobierno el (sic) Estado con cargo al presupuesto de egresos.
+II.- Regular las erogaciones que procedan y deba realizar el (sic) Gobierno el Estado con cargo al presupuesto de egresos.
 
 III.- Proponer políticas respecto al manejo de las disponibilidades de los organismos auxiliares y fideicomisos del Gobierno del Estado.
 
@@ -360,6 +364,10 @@ XI.- Informar a la Secretaría de Hacienda y Crédito Público sobre la comisió
 XII.- Informar a la Secretaría de Hacienda y Crédito Público sobre el estado y resolución de los juicios en que el Estado sea parte, tratándose de impuestos y actividades coordinadas con la Federación.
 
 XIII.- Supervisar que los actos de notificación se efectúen con apego a los principios jurídicos establecidos en las Leyes que rijan la materia o el acto de que se trate.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+XIII BIS.- Resolver respecto de la aplicación de las distintas deducciones y tratamientos a las leyes fiscales establecidas en las disposiciones de vigencia anual, de conformidad con la petición hecha por los contribuyentes.
 
 XIV.- Condonar multas y declarar por vía de acción la prescripción de créditos fiscales y ordenar la devolución de pagos indebidos, en los términos de la legislación aplicable.
 
@@ -507,7 +515,13 @@ XV.- Vigilar la estricta aplicación de las disposiciones Fiscales relativas, en
 
 XVI.- Representar al Estado en las reuniones de trabajo de los grupos técnicos de la Comisión Permanente de Funcionarios Fiscales, así como de los grupos que integran la zona 5.
 
-XVII.- Atender y coordinar los demás asuntos que le confieran otras disposiciones legales o que expresamente le encomiende el Secretario de Planeación y Finanzas.
+> <small>(REFORMADA , P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+XVII.- Exigir la presentación de declaraciones o en su caso el pago de impuestos omitidos, su actualización o accesorios, avisos y demás documentos cuando los obligados no lo hagan en los plazos respectivos así como requerir la rectificación de errores u omisiones contenidos en las declaraciones, solicitudes, avisos y documentos.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+XVIII.- Atender y coordinar los demás asuntos que le confieran otras disposiciones legales o que expresamente le encomiende el Secretario de Planeación y Finanzas.
 
 Los Departamentos que integran a la Dirección de Ingresos contarán con el personal de apoyo jurídico, fiscal y contable necesario para el cumplimiento de sus atribuciones.
 
@@ -713,19 +727,25 @@ XII.- Realizar todas aquellas actividades necesarias para el buen funcionamiento
 
 ### CAPITULO SEPTIMO. DE LA DIRECCION DE FISCALIZACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.0. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 27.
 
-El Titular de la Dirección de Fiscalización tendrá a su cargo los Departamentos de Auditoría Fiscal, de Revisiones de Gabinete y el de Programación, debiendo despachar los siguientes asuntos:
+El Titular de la Dirección de Fiscalización tendrá a su cargo los Departamentos de Auditoría Fiscal, de Revisiones de Gabinete, de Programación y el de Procedimientos Legales, debiendo despachar los siguientes asuntos:
 
 I.- Vigilar el estricto cumplimiento de las normas fiscales, circulares e instrucciones expresas emanadas de la Secretaría de Planeación y Finanzas, en el caso de impuestos estatales y de la Secretaría de Hacienda y Crédito Público tratándose de impuestos federales coordinados con el Estado.
 
-II.- Una vez determinada la existencia de créditos fiscales derivados de actos de fiscalización, dar las bases para su liquidación, condonar las multas total o parcialmente cuando así proceda, según la situación del contribuyente, en los términos de los ordenamientos legales aplicables, convenios fiscales y conforme a las instrucciones del Secretario de Planeación y Finanzas.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+II.- Determinar y liquidar créditos fiscales derivados de ingresos estatales y federales y municipales coordinados así como los accesorios correspondientes a cargo de los contribuyentes o responsables solidarios, que resulten del ejercicio de sus facultades de comprobación. Condonar las multas total o parcialmente cuando así proceda, según la situación del contribuyente, en los términos de los ordenamientos legales aplicables, convenios fiscales y conforme a las instrucciones del Secretario de Planeación y Finanzas.
 
 III.- Ordenar la práctica de revisión de dictámenes a contribuyentes de impuestos federales coordinados, en los términos de las leyes fiscales aplicables.
 
 IV.- Verificar el uso de máquinas registradoras de comprobación fiscal en los establecimientos o negociaciones que se encuentren obligados a tenerlas, así como la expedición de comprobantes fiscales.
 
-V.- Expedir y firmar credenciales o constancias de identificación del personal que autorice para la práctica de las visitas domiciliarias, auditorías, inspecciones o verificaciones correspondientes.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+V- Expedir y firmar las constancias de identificación del personal que autorice para la práctica de las visitas domiciliarias, auditorías, inspecciones, verificaciones, revisiones o notificaciones correspondientes.
 
 VI.- Ordenar la práctica de revisiones de escritorio y de declaraciones a contribuyentes de impuestos estatales y federales coordinados.
 
@@ -733,13 +753,29 @@ VII.- Ordenar la práctica de visitas domiciliarias de auditoría a contribuyent
 
 VIII.- Citar a contribuyentes con el propósito de verificar el cumplimiento de sus obligaciones fiscales y para que aclaren e informen sobre su situación fiscal.
 
-IX.- Comunicar los resultados obtenidos en las visitas domiciliarias, revisiones de declaraciones y visitas de inspección a las autoridades fiscales competentes.
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000).
+
+IX.- Notificar a los contribuyentes interesados, los resultados obtenidos en las visitas domiciliarias, revisiones de gabinete, revisiones de dictámenes, verificaciones, visitas domiciliarias y visitas de inspección.
 
 X.- Coordinarse con las demás Direcciones de la Secretaría, así como con la Secretaría de Hacienda y Crédito Público para desarrollar las actividades de fiscalización mediante acuerdos y programas conjuntos.
 
 XI.- Ejercitar las medidas de apremio establecidas en las disposiciones fiscales, a todos aquellos contribuyentes que se opongan u obstaculicen el ejercicio de las facultades de comprobación que se lleven a cabo mediante actos de fiscalización.
 
-XII.- Las demás que le atribuyan otras disposiciones legales y los Convenios de Coordinación y de Colaboración Administrativa en Materia Fiscal Federal y Municipal, así como las que le delegue el Secretario de Planeación y Finanzas.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+XII.- Imponer sanciones por infracciones a las disposiciones fiscales en materia de su competencia, de acuerdo al Código Fiscal de la Federación y al Código Fiscal del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+XIII.-Expedir certificaciones de constancias de los documentos o expedientes relativos a los asuntos de su competencia.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+XIV.- Notificar los actos relacionados con el ejercicio de sus facultades de comprobación.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+XV.- Las demás que le atribuyan otras disposiciones legales y los Convenios de Coordinación y de Colaboración Administrativa en Materia Fiscal Federal y Municipal, así como las que le delegue el Secretario de Planeación y Finanzas.
 
 Los Departamentos que integran a la Dirección de Fiscalización contarán con el personal de apoyo jurídico, fiscal y contable necesario para el cumplimiento de sus atribuciones.
 
@@ -832,6 +868,32 @@ XIII.- Elaborar el informe trimestral para la Secretaría de la Contraloría sob
 XIV.- Apoyar a las demás áreas de la Dirección con los trámites administrativos que se requieran.
 
 XV.- Las demás funciones que expresamente le encomiende el Director de Fiscalización.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 30-A.
+
+El Jefe del departamento de Procedimientos Legales deberá atender los siguientes asuntos:
+
+I.- Brindar al personal de la Dirección de Fiscalización la asesoría y el apoyo jurídico necesario, para que sus actos se encuentren apegados a derecho.
+
+II.- Verificar que los formatos que son utilizados por la Dirección de Fiscalización, se encuentren apegados a las disposiciones jurídicas aplicables, así como a la normatividad establecida.
+
+III.- Revisar que las liquidaciones y cualquier acto de autoridad que emita la Dirección de Fiscalización cubran las formalidades de ley.
+
+IV.- Someter a la consideración del Director, para en su caso coordinarse con la Procuraduría Fiscal respecto de:
+
+a).- La normatividad a aplicar para el desahogo de los asuntos que sean competencia de la Dirección;
+
+b).- Los análisis y estudios correspondientes a los proyectos de modificación de ley en las áreas de su competencia; y
+
+c).- aquellos asuntos en los que se considere que se pudo haber cometido un delito fiscal a efecto de darle el seguimiento legal correspondiente;
+
+V.- Atender consultas y planteamientos de carácter legal que los contribuyentes hagan respecto de actos de fiscalización emitidos por la Dirección de Fiscalización.
+
+VI.- Previo consenso con el Director, atender cualquier asunto de naturaleza jurídica en el que la Dirección de Fiscalización sea parte.
+
+VII.- Las demás funciones que expresamente le encomiende el Director de Fiscalización.
 
 ### CAPITULO OCTAVO. DE LA DIRECCION DE CATASTRO
 
@@ -1606,3 +1668,15 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 LIC. ALEJANDRO ESPINOSA MEDINA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION DE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrara en vigor el día 1 de enero de 2001.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
