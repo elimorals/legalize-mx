@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1979-02-10"
+last_updated: "1979-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1979.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -623,7 +623,7 @@ Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
 ###### ARTICULO 101.
 
-Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquellos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la Fracción IV del artículo 95, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquellos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la Facción IV del artículo 95, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
 
 ###### ARTICULO 102.
 
@@ -8643,7 +8643,7 @@ En los contratos civiles cada uno se obliga en la manera y términos que aparezc
 
 Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1976)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1979)</small>
 
 ###### ARTICULO 1721.
 
@@ -8651,7 +8651,7 @@ Cuando se exija la forma escrita para el contrato, los documentos relativos debe
 
 Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
 
-Los contratos, hasta por un valor de ciento cincuenta mil pesos, por venta, hipoteca, préstamo, arrendamiento o cualquier otro, que celebre el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado, con sus propios asegurados o pensionistas, podrán otorgarse en documento privado, sin los requisitos de testigos y ratificación de firma.
+Los contratos, hasta por un valor de Trescientos Mil Pesos, por venta, hipoteca, préstamos arrendamiento o cualquier otro, que celebre el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California, con sus propios asegurados, o pensionistas, podrán otorgarse en documento privado, sin los requisitos de testigos y ratificación de firma.
 
 DIVISION DE LOS CONTRATOS
 
@@ -14345,13 +14345,13 @@ En los casos previstos en las dos Fracciones anteriores, se tomará razón del a
 
 XII.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes;
 
-XIII.- El testimonio de las informaciones ad perpétuam promovidas y protocolizadas de acuerdo con lo que disponga el Código de Procedimientos Civiles;
+XIII.- El testimonio de las informaciones ad perpetuam promovidas y protocolizadas de acuerdo con lo que disponga el Código de Procedimientos Civiles;
 
 XIV.- Los demás títulos que la Ley ordene expresamente que sean registrados.
 
 ###### ARTICULO 2870.
 
-Los documentos que conforme a esta Ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuánto le fueren favorables.
+Los documentos que conforme a esta Ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
 
 ###### ARTICULO 2871.
 
@@ -14714,3 +14714,9 @@ UNICO.- El presente Decreto entrará en vigor a los veinte días siguientes de s
 P.O. 10 DE FEBRERO DE 1979.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 1979.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
