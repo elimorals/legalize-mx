@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-protege-los-derechos-de-los-no-fumadores-en-el-12598"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-06"
-last_updated: "1998-08-28"
+last_updated: "2004-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE PROTEGE LOS DERECHOS DE LOS NO FUMADORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 6 de octubre de 1995.
 
@@ -75,21 +75,13 @@ III. El personal administrativo y docente de los centros educativos públicos y 
 
 ### CAPITULO II. DE LAS SECCIONES RESERVADAS PARA FUMADORES Y NO FUMADORES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
-
 ###### ARTICULO 4.
 
-En los lugares cerrados donde se expendan al público alimentos para su consumo, los propietarios, poseedores o responsables de la negociación de que se trate deberán delimitar secciones reservadas para no fumadores y para quienes fumen durante su estancia en las mismas; áreas que deberán estar bien ventiladas con medios mecánicos o directos, en los términos del Reglamento de esta Ley.
-
-Dichas Secciones deberán estar identificadas con señalización en lugares visibles al público asistente y contar con ventilación adecuada.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
+(DEROGADO, P.O. 9 DE JULIO DE 2004)
 
 ###### ARTICULO 5.
 
-Las personas a que se refiere el artículo 3 fracción II de esta Ley vigilarán por sí mismos o por medio de sus empleados que en la sección reservada para no fumadores, no se encuentren personas fumando, de haberlas deberán exhortarlas a dejar de fumar o cambiarse a la sección indicada. En caso de negativa, deberán negarse a prestar sus servicios al transgresor; los propietarios podrán solicitar el auxilio de la fuerza pública para su remoción del local en comento.
-
-Si el infractor persiste en su conducta deberán dar aviso a la policía preventiva.
+(DEROGADO, P.O. 9 DE JULIO DE 2004)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 1998)</small>
 
@@ -101,9 +93,9 @@ Si el infractor persiste en su conducta deberán dar aviso a la policía prevent
 
 Se prohibe fumar:
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2004)</small>
 
-I. En los cines, teatros, auditorios y lugares cerrados donde se expendan al público alimentos para su consumo, con excepción de las secciones de fumadores que se establezcan en los mismos;
+I.- En los cines, teatros, auditorios y lugares cerrados donde se expendan al público alimentos para su consumo;
 
 II. En los vehículos de servicio público de transporte de pasajeros que circulen en el Estado de Baja California;
 
@@ -122,6 +114,10 @@ V. En los auditorios, bibliotecas y salones de clase de las escuelas públicas y
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
 VI. En Hospitales y clínicas del sector público y privado, y consultorios donde se brinde atención médica.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2004)</small>
+
+Las personas a que se refiere el artículo 3 fracción II de esta Ley, vigilarán por sí mismos o por medio de sus empleados que en los lugares indicados en la fracción I de este artículo, no haya personas fumando, de haberlas, deberán exhortarlas a dejar de hacerlo o a salir del lugar. En caso de negativa, deberán negarse a prestar sus servicios al fumador y podrán solicitar el auxilio de la fuerza pública para que lo retiren del establecimiento.
 
 ###### ARTICULO 7.
 
@@ -157,7 +153,9 @@ d) Instalaciones de las instituciones educativas privadas y públicas que cuente
 
 e) Medios de transporte colectivo de sindicatos y de las empresas privadas que proporcionen este servicio a sus empleados; y,
 
-f) Salones para actos sociales y establecimientos señalados en el Capítulo II de esta Ley, ubicados en las Delegaciones Municipales del Estado de Baja California.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2004)</small>
+
+f) Salones para actos sociales y establecimientos ubicados en las Delegaciones Municipales del Estado de Baja California.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
@@ -247,17 +245,25 @@ Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposicio
 
 (DEROGADO, P.O. 28 DE AGOSTO DE 1998)
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 23.
 
-Las negociaciones o empresas que no acaten las disposiciones contenidas en los artículos 4 y 5 primer párrafo; 6 fracciones I, II, IV, V y VI y 7, se harán acreedores a las siguientes sanciones:
+Las negociaciones o empresas que no acaten las disposiciones contenidas en los artículos; 6 fracciones I, II, IV, V y VI y 7, se harán acreedores a las siguientes sanciones:
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
 I. Amonestación;
 
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+
 II. Multa, de 2 a 200 días de salario mínimo general diario vigente en el Estado de Baja California, de acuerdo a la clasificación que se determine en el Reglamento correspondiente;
 
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+
 III. La clausura temporal o definitiva, parcial o total del lugar.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 Esta sanción únicamente podrá aplicarse en el supuesto indicado en el párrafo segundo del artículo 25 de esta Ley.
 
@@ -273,13 +279,11 @@ II. Las condiciones socioeconómicas del infractor, y
 
 III. La calidad de reincidente del infractor.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 25.
 
 En caso de reincidencia se duplicará el monto de la multa que corresponda. Para efectos de este artículo, se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de esta Ley o sus reglamentos dos o más veces dentro del período de un año, contado a partir de la fecha en que se le hubiere notificado la sanción inmediata anterior.
-
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1998)</small>
-
-Las negociaciones y empresas a las que se les imponga la obligación de delimitar secciones para fumadores y no fumadores y que hagan caso omiso, se les podrá sancionar hasta con la clausura temporal o definitiva, parcial o total de la misma.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
 
@@ -337,9 +341,9 @@ La presente Ley entrará en vigor al tercer día de su publicación en el Perió
 
 El Ejecutivo del Estado, hasta en tanto no cuente con los recursos técnicos y humanos suficientes para aplicar las medidas de seguridad y sanciones a que se refiere esta Ley, celebrará convenios de colaboración con las autoridades de salud federales y municipales, así como con las asociaciones civiles existentes en el Estado, que convengan en instrumentar los programas de lucha contra el tabaquismo que se dispongan para alcanzar el objetivo de esta Ley.
 
-###### ARTICULO TERCERO.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2004)</small>
 
-Los establecimientos que se mencionan en el capítulo segundo de esta Ley, contarán con un plazo que no excederá de sesenta días para delimitar las secciones reservadas a los fumadores.
+###### ARTICULO TERCERO.
 
 En los vehículos de transporte colectivo o privado a que se refiere esta Ley, los letreros y/o señalamientos deberán ser instalados en un término de treinta días.
 
@@ -380,3 +384,7 @@ Este Decreto entrará en vigor a partir de los diez días naturales siguientes a
 ###### ARTICULO SEGUNDO.
 
 El Ejecutivo del Estado deberá adecuar el Reglamento de esta Ley a las disposiciones señaladas en el presente Decreto.
+
+P.O. 9 DE JULIO DE 2004.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
