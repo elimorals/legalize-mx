@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-magisterio-tamaulipeco-9781"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1935-12-11"
-last_updated: "1935-12-11"
+last_updated: "1936-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY ORGANICA DEL MAGISTERIO TAMAULIPECO
 
-LEY ORGANICA DEL MAGISTERIO TAMAULIPECO.
+LEY ÓRGANICA DEL MAGISTERIO TAMAULIPECO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 1936.
 
 Ley publicada en el Periódico Oficial, el 11 de diciembre de 1935.
 
@@ -31,7 +31,7 @@ Que el H. Congreso del Estado, se ha servido expedir el siguiente:
 
 Decreto Num. 106
 
-El XXXIV H. Congreso Constitucional del Estado Libre y Soberano de Tamaulipas en nombre del pueblo que representa, decreta la siguiente:
+El XXXIV H. Congreso Constitucional del Estado Libre y Soberano de Tamaulipas, en nombre del pueblo que representa decreta, la siguiente:
 
 LEY ORGANICA DEL MAGISTERIO TAMAULIPECO
 
@@ -95,7 +95,7 @@ IX.- Los que tengan defectos físicos notables, padezcan enfermedad contagiosa o
 
 ###### Art. 6o.
 
-Para ingresar al servicio escolar en el Estado, se requiere: Ser mexicano por nacimiento, poseer el titulo correspondiente, mediante los estudios normales respectivos, hechos en escuela oficial acreditada o particular reconocida; no pasar de cuarenta y cinco años de edad; no ser ni haber sido Ministro de algún culto, no padecer enfermedad contagiosa o crónica, no sufrir perturbaciones mentales ni tener defectos físicos notables que impidan el ejercicio profesional; no haber sido condenado ni ser responsable de delito común o de conducta que afecte seriamente la buena fama de un digno elemento social, y las mujeres no tener atenciones de marido ni infantes.
+Para ingresar al servicio escolar en el Estado, se requiere: Ser mexicano por nacimiento, poseer el título correspondiente, mediante los estudios normales respectivos, hechos en escuela oficial acreditada o particular reconocida; no pasar de cuarenta y cinco años de edad; no ser ni haber sido Ministro de algún culto, no padecer enfermedad contagiosa o crónica, no sufrir perturbaciones mentales ni tener defectos físicos notables que impidan el ejercicio profesional; no haber sido condenado ni ser responsable de delito común o de conducta que afecte seriamente la buena fama de un digno elemento social, y las mujeres no tener atenciones de marido ni infantes.
 
 Solo por carencia del personal necesario podrán aceptarse tamaulipecos no titulados, y por igual causa y notario beneficio social permitirse el ingreso de profesores titulados de otros Estados.
 
@@ -125,7 +125,7 @@ La Dirección General de Enseñanza Pública llevara invariablemente a cada prof
 
 ###### Art. 10.
 
-Para cumplimentar el artículo anterior, es obligación de la Dirección General, Inspectores, Directores escolares, Liga de Padres y toda institución y oficina, expedir los documentos y constancias relativos. Así mismo es un derecho para los profesores solicitar y obtener de aquellos los documentos aludidos y al efecto se seguirán las siguientes reglas :
+Para cumplimentar el artículo anterior, es obligación de la Dirección General, Inspectores, Directores escolares, Liga de Padres y toda institución y oficina, expedir los documentos y constancias relativos. Así mismo es un derecho para los profesores solicitar y obtener de aquellos los documentos aludidos y al efecto se seguirán las siguientes reglas:
 
 I.- La Dirección General extenderá por escrito los nombramientos y apreciación que haga de los servicios ordinarios o extraordinarios que confiera a cada maestro.
 
@@ -167,15 +167,15 @@ La segunda clase se subdividirá en tres subclases.
 
 " A " correspondiente a profesores con estudios normales completos, pero no titulados.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1936)</small>
+
 ###### Art. 14.
 
-Los Presupuestos se arreglarán a las denominaciones del Escalafón, y los sueldos correspondientes, a los profesores de cada una de las clases y categorías mencionadas, serán como mínimo siempre que no sean inferiores al salario mínimo establecido en la Región, los siguientes:
+Los Presupuestos se arreglarán a las denominaciones del Escalafón y los sueldos correspondientes, a los Profesores de cada una de las clases y categorías mencionadas según las siguientes:
 
 C A T E G O R I A S
 
-CLASES
-
-Cinco Diez Quince Veinte Veinticinco
+Clases Cinco Diez Quince Veinte Veinticinco
 
 III.- 45 50 55 60 65
 
@@ -186,6 +186,8 @@ II. B 70 75 80 85 90
 A 90 95 100 105 110
 
 I.- 100 110 120 130 140
+
+En los Municipios que rija un salario mínimo de asignación mayor al sueldo del escalafón, el Ejecutivo podrá, si las condiciones del Erario lo permiten, aumentar éste hasta igualarlo con el salario mínimo.
 
 ###### Art. 15.
 
@@ -261,11 +263,11 @@ Los profesores que obtengan la calificación media durante cinco años consecuti
 
 ###### Art. 32.
 
-Por méritos relevantes, entre los que se consideraran el mejoramiento de la preparación profesional, mediante la aprobación de una materia subsiguiente a las cursadas, el examen a titulo de suficiencia, sustentado en el periodo de vacaciones generales; los ascensos extraordinarias hasta lograr las categorías 'quince' o 'veinte' y el extraordinario social social, (sic) motivaran el ascenso a la categoría inmediata inferior de la clase siguiente, siempre que además, esta apreciación resulte justificada comparando tales méritos con los que tengan cada uno de los maestros del grado a que se destine el candidato.
+Por méritos relevantes, entre los que se consideraran el mejoramiento de la preparación profesional, mediante la aprobación de una materia subsiguiente a las cursadas el examen a titulo de suficiencia, sustentado en el periodo de vacaciones generales; los ascensos extraordinarias hasta lograr las categorías 'quince' o 'veinte' y el extraordinario social social, (sic) motivaran el ascenso a la categoría inmediata inferior de la clase siguiente, siempre que además, esta apreciación resulte justificada comparando tales méritos con los que tengan cada uno de los maestros del grado a que se destine el candidato.
 
 ###### Art. 33.
 
-Los maestros que se consideren injustamente calificados o postergados, ocurrirán en queja ante el Consejo, lo más pronto posible y dentro de los treinta días de la fecha en que tengan conocimiento del hecho reclamado, para que en aquel resuelva puntualizando siempre los motivos que justifiquen su fallo, y sin que nunca pueda tomar en cuenta documentos posteriores a los que informen el expediente considerado.
+Los maestros que se consideren injustamente calificados o postergados, ocurrirán en queja ante el Consejo lo más pronto posible y dentro de los treinta días de la fecha en que tengan conocimiento del hecho reclamado, para que en aquel resuelva puntualizando siempre los motivos que justifiquen su fallo, y sin que nunca pueda tomar en cuenta documentos posteriores a los que informen el expediente considerado.
 
 Caso de inconformidad con esta nueva resolución podrá ocurrir el propio interesado a la Dirección General dentro de los treinta días siguientes para que previo estudio del fallo del Consejo y sus antecedentes, dicte lo que corresponda en definitiva.
 
@@ -379,7 +381,7 @@ II.- El resultado de esas elecciones, se consignara en acta por triplicado, dest
 
 III.- En cada caso en que proceda integrar el Jurado, la Dirección General solicitara de la representación de la organización magisterial en la capital que proceda a la insaculación de los miembros integrantes de tal Jurado lo que se hará en sesión pública, con asistencia, si deseare concurrir, de un Representante de la propia dirección, sacándose de una ánfora que contenga los nombres del total de treinta miembros electos, cuatro, y la repetida dirección designara un profesor titulado para completar cinco miembros del Jurado que serán convocados para reunirse en la Capital en el tiempo indispensable para trasladarse de los lugares en que sirvieren.
 
-IV.- En la misma asamblea a que se refiere el inciso anterior, por insaculación del total de profesores titulados con más de un año de servicios, radicados en la Capital, se elegirán un representante de la acusación y otro de la defensa oficial del caso o casos por resolverse.
+IV.- En la misma asamblea a que se refiere el inciso anterior, por insaculación del total de profesores titulados con más de un año de servicios radicados en la Capital, se elegirán un representante de la acusación y otro de la defensa oficial del caso o casos por resolverse.
 
 V.- La convocación para ocurrir a integrar un Jurado, y para llevar la acusación o la defensa de oficio, implica la licencia para separarse del cargo actual por el tiempo necesario.
 
@@ -403,7 +405,7 @@ II.- Comprobara los elementos de pro y de contra que aquel contenga.
 
 III.- Recabara los informes y recibirá las declaraciones que estime convenientes.
 
-IV.- Oirá en audiencia la voz de la acusación y de la defesa, y emitirá su fallo, consignándolo en una acta subscrita por todos sus miembros.
+IV.- Oirá en audiencia la voz de la acusación y de la defensa, y emitirá su fallo, consignándolo en una acta subscrita por todos sus miembros.
 
 V.- Notificara inmediatamente a los interesados y enviara copia del acta final a la Dirección General y al Consejo de Apreciación Profesional para sus efectos.
 
@@ -483,7 +485,7 @@ La Institución de Ahorros e Inversiones responderá del 50 % del monto de las p
 
 ###### Art. 65.
 
-Para el señalamiento de estas se instituirá un Jurado de Pensiones que actuara por un año, compuesto por dos miembros electos por la Organización Magisterial, uno por la Dirección General, quienes designaran entre ellos un Presidente y un Secretario y funcionara como sigue :
+Para el señalamiento de estas se instituirá un Jurado de Pensiones que actuara por un año, compuesto por dos miembros electos por la Organización Magisterial, uno por la Dirección General, quienes designaran entre ellos un Presidente y un Secretario y funcionara como sigue:
 
 I.- Recibirá las solicitudes de pensiones;
 
@@ -575,8 +577,14 @@ T R A N S I T O R I O S
 
 Salón de Sesiones del H. Congreso del Estado.
 
-C. Victoria, Tamps., Nov. 29 de 1935.- Diputado Presidente, Rafael Longoria,. Diputado Secretario, Pablo Orozco O.- Diputado Secretario.- José M. Sandoval.- Rúbricas.
+C. Victoria, Tamps., Nov. 29 de 1935.- Diputado Presidente, Rafael Longoria.- Diputado Secretario, Pablo Orozco O.- Diputado Secretario, José M. Sandoval.- Rúbricas.
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los cuatro días del mes de Diciembre del año de mil novecientos treinta y cinco. E. L. Canseco..- El Srio. Gral. De Gob., Lic. Manuel Collado.- Rubrica.
+Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los cuatro días del mes de Diciembre del año de mil novecientos treinta y cinco. E. L. Canseco.- El Srio. Gral. de Gob., Lic. Manuel Collado.- Rubrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 1936
+
+TRANSITORIO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
