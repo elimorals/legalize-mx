@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-inmobiliaria-y-promotora-de-la-vivienda-de-interes-6176"
 country: "mx"
 rank: "ley"
 publication_date: "1978-08-31"
-last_updated: "1990-03-31"
+last_updated: "1990-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA INMOBILIARIA DE INTERES PUBLICO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SABADO 31 DE MARZO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1990.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 31 de agosto de 1978.
 
@@ -49,35 +49,53 @@ En los términos de los artículos 7o. y 24 de la Ley Orgánica del Poder Ejecut
 
 La Inmobiliaria de Interés Público del Estado tiene por objeto:
 
-I.- Ejecutar directa o indirectamente las obras necesarias a efecto de que los habitantes del Estado que no tengan en propiedad casa-habitación o terreno, puedan adquirirlo en la forma y términos que esta Ley establece.
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
 
-II.- Promover y proveer con estricto respeto a la Autonomía Municipal a las comunidades del "equipamiento" social indispensable para la vida de las mismas, tomando en cuenta lugares adecuados para el trabajo áreas y zonas de esparcimiento y de recreación y de medios de comunicación.
+I.- Adquirir todo tipo de terrenos, a efecto de que los habitantes del Estado que no tengan en propiedad casa habitación o terreno, puedan adquirirlos en forma y términos que esta Ley establece.
+
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
+
+II.- Desarrollar y construir fraccionamientos, preferentemente, de tipo popular y de objetivo social.
 
 III.- Promover la venta de sus predios cuyo uso habitacional o industrial demande el interés social.
 
-IV.- Estudiar y proyectar las reglas para el uso y aprovechamiento de los inmuebles que se destinen a los servicios de la comunidad a que esta Ley se refiere.
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
 
-> <small>(REFORMADA, P.O. 31 MARZO DE 1990)</small>
+IV.- Garantizar que los inmuebles se destinen a los usos y propósitos que demande el interés de la comunidad.
 
-V.- Sugerir a la Secretaria de Desarrollo Urbano y Rural del Estado las medidas necesarias para evitar la especulación con predios o casas-habitación, cuando ésta sea contraria al interés social.
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
 
-VI.- Celebrar todo tipo de contratos incluyendo el de asociación cuando el interés social lo reclame sin perjuicio de los que directamente celebre el Gobierno del Estado.
+V.- Proponer medidas y realizar acciones concretas, en el ámbito de su competencia, para evitar la especulación con la propiedad inmobiliaria destinada para los sectores de la población económicamente más desprotegidos.
 
-> <small>(REFORMADA, P.O. 31 MARZO DE 1990)</small>
+(REFORMADA, P.O. 14 AGOSTO DE 1990
 
-VII.- Sugerir a la Secretaría de Desarrollo Urbano y Rural del Estado la fundación de nuevos centros de población, así como los supuestos para que se formulen por quien corresponda las declaraciones sobre provisiones, usos, reservas y destino de los mismos.
+VI.- Celebrar todo tipo de actos y contratos que posibiliten el logro de los objetivos de la Institución.
 
-VIII.- Establecer los requisitos a que deberán sujetarse las personas que pretendan adquirir casa habitación o terreno de la Inmobiliaria.
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
 
-IX.- Prestar asesoría, a través de los órganos correspondientes, a aquellas personas que aún no tengan su título de propiedad, así como asesorarlos para regularizarlos y lograr su inscripción en el Registro Público de la Propiedad.
+VII.- Emitir opinión, cuando le sea requerida, sobre la conveniencia de fundar nuevos centros de población, así como sobre usos, reservas y destinos del suelo.
 
-X.- En general, a juicio del Ejecutivo del Estado, la realización de los puntos concretos que se le encomienden y que se aprueben en el plan del desarrollo urbano que estén relacionados con el cumplimiento de las atribuciones que al Ejecutivo confieren las fracciones XVII y XXIV del artículo 7o. de la Ley de Asentamientos Humanos del Estado.
+(REFORMADA, P.O. 14 AGOSTO DE 1990
 
-XI.- Ejecutar todos los demás actos jurídicos que a su objeto corresponden.
+VIII.- Dictar las normas y criterios conforme a los cuales los adquirientes de inmuebles deban satisfacer los requisitos exigidos por la presente Ley.
+
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
+
+IX.- Brindar todo tipo de orientación a aquellas personas de escasos recursos que pretendan adquirir o hayan adquirido terrenos en zonas populares, para la solución de algún problema que la adquisición misma plantee.
+
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
+
+X.- Realizar todos los actos y ejecutar las acciones que exija la cumplimentación de las instrucciones y encomiendas específicas que le haga el Ejecutivo del Estado, en ejercicio de las atribuciones que le confiere la Ley de Asentamientos Humanos; y
+
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
+
+XI.- Fomentar la Constitución de Cooperativas para construcción de viviendas.
+
+> <small>(REFORMADO, P.O. 14 AGOSTO DE 1990)</small>
 
 ###### Art. 3o.
 
-La Inmobiliaria del Estado tendrá para todo efecto de Ley, su domicilio en la Ciudad de Guadalajara, Jalisco, sin embargo por acuerdo del Consejo de Administración podrá crear delegaciones y subdelegaciones en aquellas poblaciones del Estado en que lo considere necesario, atentas las necesidades habitacionales o industriales que demande el interés social.
+La Inmobiliaria de Interés Público del Estado tiene por domicilio la ciudad de Guadalajara, Jalisco, pudiendo, mediante resoluciones de su Consejo de Administración, establecer Delegaciones o cualquier otro tipo de representación en el interior del Estado, cuando exista un interés comunitario que lo justifique.
 
 ### CAPITULO SEGUNDO. DE LOS ORGANOS DE GOBIERNO
 
@@ -89,45 +107,61 @@ I.- El Consejo de Administración.
 
 II.- El Director General.
 
-III.- El Secretario de Actas y Acuerdos.
+III.- (DEROGADA, P.O. 14 AGOSTO DE 1990)
 
-IV. El Tesorero.
+IV.- (DEROGADA, P.O. 14 AGOSTO DE 1990)
+
+> <small>(REFORMADO, P.O. 14 AGOSTO DE 1990)</small>
 
 ###### Art. 5o.
 
-El Consejo de Administración se integrará de la siguiente manera:
+El Consejo de Administración lo integran:
 
-I.- Por el Gobernador del Estado quien tendrá el carácter de Presidente del Consejo o por su Representante quien tendrá igual carácter y quienes tendrán voto de calidad.
+I.- El Gobernador del Estado, quien tendrá el carácter de Presidente del Consejo, o la persona que designe en su representación, quien tendrá igual carácter.
 
-> <small>(REFORMADA, P.O. 31 MARZO DE 1990)</small>
+II.- El Director General de la Inmobiliaria.
 
-II.- Por el Secretario de Finanzas del Estado.
+III.- Un Representante de la Secretaría de finanzas.
 
-> <small>(REFORMADA, P.O. 31 MARZO DE 1990)</small>
+IV.- Un Representante de la Secretaría de Desarrollo Urbano y Rural.
 
-III.- Por el Secretario de Desarrollo Urbano y Rural del Estado.
+V.- Un Representante de la Contraloría del Estado;
 
-IV.- (DEROGADA, P.O. 31 MARZO DE 1990)
+VI.- Un Representante del Instituto Promotor de la vivienda;
 
-V.- Por la Dirección de Catastro.
+VII.- Un Representante del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado de la Zona Metropolitana de Guadalajara; y
 
-Todos los cargos del Consejo de Administración serán honoríficos.
+VIII.- Un Representante del Sistema para los Servicios de Agua Potable y Alcantarillado en el Estado.
+
+Por cada Consejero propietario habrá un suplente para cubrir sus faltas temporales. El Presidente del Consejo tendrá voto de calidad.
+
+Cada Ayuntamiento podrá acreditar ante el Consejo a un representante con derecho a voz, quien podrá asistir a aquellas sesiones en que se vaya a discutir alguna cuestión o proyecto a materializarse dentro de la circunscripción de dicho municipio.
+
+Los cargos de Consejero son de carácter honorífico.
+
+> <small>(REFORMADO, P.O. 14 AGOSTO DE 1990)</small>
 
 ###### Art. 6o.
 
-Los Consejeros y los Órganos de Gobierno de la Inmobiliaria, bajo ninguna circunstancia podrán tener interés personal, asociación profesional, ni comunidad de intereses con terceros que realicen contratos con la Inmobiliaria.
+Los miembros del Consejo de Administración, el Director General, así como el demás personal que ejerza funciones de dirección dentro de la Inmobiliaria, se abstendrán de mantener algún tipo de relación de carácter comercial o profesional con terceras personas que, en alguna forma, realicen contratos inherentes al objeto de la Inmobiliaria.
+
+> <small>(REFORMADO, P.O. 14 AGOSTO DE 1990)</small>
 
 ###### Art. 7o.
 
-El Director General, el Secretario de Actas y Acuerdos, el Tesorero y los empleados de la Inmobiliaria del Estado, serán retribuidos en la forma y términos del presupuesto anual de egresos de dicho organismo.
+El Director General, y demás personal de la Inmobiliaria serán retribuidos en la forma y términos que el presupuesto anual de Egresos de dicho Organismo establezca.
+
+> <small>(REFORMADO, P.O. 14 AGOSTO DE 1990)</small>
 
 ###### Art. 8o.
 
-Los empleados y trabajadores de la Inmobiliaria tendrán el carácter de Empleados Públicos del Estado.
+Los empleados y trabajadores de la Inmobiliaria tienen el carácter de servidores públicos del Estado.
+
+> <small>(REFORMADO, P.O. 14 AGOSTO DE 1990)</small>
 
 ###### Art. 9o.
 
-Serán funcionarios y empleados de confianza el Director General, el Secretario de Actas y Acuerdos y el Tesorero.
+Son servidores públicos de confianza de la Inmobiliaria de Interés Público del Estado aquellos que queden comprendidos en los supuestos previstos por el Art. 4.º de la Ley para los Servidores Públicos del estado de Jalisco y sus Municipios.
 
 DEL CONSEJO DE ADMINISTRACION
 
@@ -137,61 +171,93 @@ DEL CONSEJO DE ADMINISTRACION
 
 El Consejo de Administración tendrá las siguientes facultades y obligaciones:
 
-I.- Las señaladas en el artículo 2o. de esta Ley.
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
 
-II.- Revisar y aprobar anualmente sus presupuestos de Ingresos y Egresos que le presentará el Director General.
+I.- La realización de todos los actos inherentes al cumplimiento de los objetivos previstos en el Art. 2º de esta Ley; así como definir las grandes líneas de acción del Organismo, y fijar las metas a alcanzar.
 
-III.- Revisar y aprobar los nombramientos y remociones que realice el Director General.
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
 
-IV.- Revisar y aprobar el programa de obras de la Inmobiliaria, jerarquizándolas prioritariamente sin interrumpir el programa que el interés social demande.
+II.- Revisar y aprobar, en su curso, dentro del último trimestre de cada año, el proyecto de presupuesto de Ingresos y Egresos del Organismo, que le presente el Director General.
 
-V.- Revisar y aprobar en su caso, con base en los estudios económicos correspondientes, la conveniencia de obtener los financiamientos necesarios para la realización de las obras programadas.
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
 
-VI.- Revisar y aprobar los balances y el informe anual presentado por el Director General.
+III.- Aprobar los nombramientos y remociones del personal que deberá someter a su consideración el Director General.
 
-VII.- Definir y modificar las políticas administrativas de la Inmobiliaria. El informe y balance anual ordinario será presentado en la fecha que el Consejo señale y siempre comprenderá ejercicios iguales al año de calendario.
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
 
-VIII.- Fijar el sistema que en relación a la clasificación general de cuentas debe adoptarse.
+IV.- Revisar y, en su caso, aprobar el programa de obras que el Director General someta a su consideración, cuidando en todo caso la prioridad que deba darse a las obras de mayor proyección social.
 
-IX.- Autorizar el otorgamiento de garantías propias para el cumplimiento de obligaciones de la Inmobiliaria.
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
 
-X.- Autorizar la adquisición de toda clase de bienes necesarios y convenientes para la consecución del objetivo de la Inmobiliaria. Así como autorizar la enajenación de los mismos: en este caso se requerirá acuerdo expreso del Presidente del Consejo.
+V.- Revisar y, en su caso, aprobar los proyectos de financiamiento de los diversos programas de obra que debe presentarle el Director General.
+
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
+
+VI.- Revisar, discutir y, cuando así proceda, aprobar los balances y el informe anual que le presente el Director General. Tanto al balance como el informe deberán referirse a ejercicios que coincidan con el año de calendario.
+
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
+
+VII.- Definir las grandes líneas de la política a seguir en materia Administrativa.
+
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
+
+VIII.- Fijar, de entre las diversas opciones que le presente el Director General, el sistema de contabilidad a observarse, así como el de clasificación presupuestal.
+
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
+
+IX.- Autorizar el otorgamiento de garantías del cumplimiento de obligaciones a cargo de la Inmobiliaria.
+
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
+
+X.- Fijar las condiciones bajo las cuales el Director General podrá enajenar o adquirir inmuebles sin acuerdo del Consejo de Administración.
 
 XI.- Autorizar la celebración de los actos jurídicos necesarios para lograr el objetivo de la Inmobiliaria.
 
-XII.- Designar al Director General, al Secretario y al Tesorero, así como removerlos cuando para ello se de causa justificada.
+XII.- (DEROGADA, P.O. 14 AGOSTO DE 1990)
 
 XIII.- Ordenar la elaboración de investigaciones y estudios en relación con los actos propios de la Inmobiliaria.
 
 XIV.- Establecer las bases para determinar el demérito del patrimonio inicial de la Inmobiliaria, así como el establecimiento y aprovechamiento de sus reservas.
 
-XV.- Autorizar el otorgamiento y revocación de poderes, que siempre serán especiales, con excepción de los pleitos y cobranzas que podrán ser generales.
+> <small>(REFORMADA, P.O. 14 AGOSTO DE 1990)</small>
 
-XVI.- Aprobar y modificar en su caso los convenios judiciales y extrajudiciales que la Inmobiliaria celebre en cumplimiento de sus objetivos.
+XV.- Emitir acuerdo en los casos en que el Director General pretenda otorgar o revocar poderes, que siempre deberán ser especiales, con excepción de aquellos que se confieran para pleitos y cobranzas, mismos que podrán ser generales.
 
-XVII.- Formular y aprobar su reglamento interior de trabajo.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1990)</small>
+
+XVI.- Revisar y aprobar, en su caso, todo tipo de convenios que la Inmobiliaria deba celebrar para el cumplimiento de sus objetivos.
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1990)</small>
+
+XVII.- Discutir y, en su caso, aprobar el Reglamento Interior de Trabajo, cuyo proyecto debe presentarle el Director General.
 
 ###### Art. 11.
 
 Para el eficaz ejercicio y debido cumplimiento de las facultades y obligaciones a que se refiere el artículo anterior, el Consejo de Administración sesionará cada vez que lo juzgue necesario, debiendo celebrarse como mínimo una sesión al mes.
 
-Art.- 12.- La convocatoria para la celebración de las Sesiones del Consejo deberá expedirla el Secretario de Actas y Acuerdos, cuando la soliciten dos o más miembros del Consejo o el Director General. Si el Secretario, por ausencia o por incapacidad física no lo hiciere, podrá efectuarla el Tesorero de la Inmobiliaria.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1990)</small>
+
+Art.- 12.- Las sesiones ordinarias del Consejo de Administración deberán ser convocadas por el Director General de la Institución, las extraordinarias serán convocadas cuando, a juicio de dicho Funcionario o del Presidente del Consejo de Administración, hubiere motivo suficientemente importante que lo amerite.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1990)</small>
 
 ###### Art. 13.
 
-Las decisiones del Consejo serán por mayoría de votos y el quórum se integrará con la asistencia de todos los Consejeros, sean Propietarios o Suplentes.
+Las decisiones del Consejo de Administración se tomarán por mayoría de votos de los presentes, existiendo quórum legal con la asistencia de la mayoría de los Consejeros, teniendo cada Consejero voz y voto.
 
 ###### Art. 14.
 
-El Director General asistirá a todas las sesiones del Consejo en las cuales tendrá voz.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1990)
 
 ###### Art. 15.
 
 El Consejo, para el mejor conocimiento de los asuntos que trate podrá citar al Funcionario o empleado de la Inmobiliaria para que rinda los informes que se le soliciten.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO 1990)</small>
+
 ###### Art. 16.
 
-En cada sesión se levantará acta por el Secretario que una vez aprobada por los miembros del Consejo se asentará en el Libro de Actas correspondiente y será firmada por Director General y por el Secretario.
+De cada sesión se levantará acta circunstanciada, en la que se hagan constar las deliberaciones y acuerdos tomados por el Consejo de Administración, acta que deberá ser levantada y asentada en el libro correspondiente por el Secretario de Actas y Acuerdos. Cada acta deberá ser firmada por los Consejeros asistentes a la sesión correspondiente.
 
 DEL DIRECTOR GENERAL
 
@@ -199,27 +265,45 @@ DEL DIRECTOR GENERAL
 
 El Director General de la Inmobiliaria tendrá las siguientes facultades y obligaciones:
 
-I.- Ejecutar por sí o por medio de sus órganos los acuerdos que emanen del Consejo de Administración, dictando todas las disposiciones necesarias a su cumplimiento en observancia de la presente Ley y de los Reglamentos respectivos.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1990)</small>
 
-II.- Representar a la Inmobiliaria ante cualquier autoridad, institución oficial, descentralizada o personas particulares.
+I.- Ejecutar por sí, o por medio de la persona que tenga a bien designar, los Acuerdos e instrucciones emanados del Consejo de Administración, dictando al efecto las disposiciones que para ello se requieran, siempre en observancia de las disposiciones de esta Ley y de las normas jurídicas aplicables.
 
-III.- Presentar al Consejo para los fines de su estudio y aprobación el proyecto del plan y presupuesto de obras que concretan las actividades de la Inmobiliaria, atendiendo a su prioridad.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO 1990)</small>
+
+II.- Ser el Representante legal de la Institución, contando para ello con las más amplias facultades jurídicas.
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO 1990)</small>
+
+III.- Presentar al consejo de Administración, para su estudio y en su caso aprobación, los proyectos y presupuestos de las obras a realizar por parte de la Inmobiliaria, debiendo acompañarlos de la más amplia información que cada caso requiera.
 
 IV.- Rendir informe trimestral al Consejo de Administración de su gestión administrativa.
 
-V.- Autorizar con su firma y la del Secretario las actas de Asambleas, la correspondencia de la Inmobiliaria y las disposiciones de fondos que en los términos de esta Ley le correspondiere hacer.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO 1990)</small>
 
-VI.- Conceder licencias al personal por más seis días.
+V.- Mantener y sostener la correspondencia oficial de la Inmobiliaria y autorizar con su firma la disposición de fondos, cuando esto lo requiera la cumplimentación de los acuerdos del Consejo de Administración.
 
-VII.- Encomendar al Tesorero la formulación de los Presupuestos de Ingresos y de Egresos, para que, una vez aprobados por el Consejo, se ejecuten.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO 1990)</small>
 
-VIII.- Expedir los nombramientos y hacer las remociones del personal, así como elaborar y concertar las condiciones generales para la prestación de servicios con aprobación del Consejo.
+VI.- Conceder al personal de la Institución las licencias que procedan conforme a las disposiciones legales aplicables.
 
-IX.- Determinar tipo y monto de financiamientos, así como indicar las garantías adecuadas para su aprobación por el Consejo.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO 1990)</small>
+
+VII.- Formular el proyecto de presupuesto de Ingresos y Egresos y someterlo, dentro del último trimestre del año, a la consideración y, en su caso, aprobación del Consejo de Administración.
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO 1990)</small>
+
+VIII.- Expedir los nombramientos previstos en el Presupuesto de Egresos de la Institución, sujetos a la ratificación del Consejo; y señalara las directrices generales, conforme a las cuales, el personal preste sus servicios a la misma.
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO 1990)</small>
+
+IX.- Proponer, para su aprobación, al Consejo de Administración, diversas opciones conforme a las cuales la Institución pueda ofrecer financiamiento; asimismo, someter a su aprobación diversas alternativas en cuanto a las garantías que deberán otorgar los beneficiarios o adquirentes.
 
 X.- Formular los balances a que la presente Ley se refiere.
 
-XI.- Celebrar, con la intervención del Secretario y el Tesorero, los actos jurídicos necesarios al objeto social de la Inmobiliaria, teniendo en cuenta los que para su validez deberán ser aprobados por el Consejo.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO 1990)</small>
+
+XI.- Celebrar los actos jurídicos que requiera la consecución de los objetivos propios de la Institución, o bien el cumplimiento, dentro del mismo contexto, de los acuerdos del Consejo de Administración.
 
 XII.- Dirigir y encomendar los estudios e investigaciones necesarios a los fines de la Inmobiliaria.
 
@@ -227,61 +311,85 @@ XIII.- Promover y gestionar ante toda clase de autoridades, personas físicas o 
 
 XIV.- Promover ante el Consejo de Administración las medidas que se consideren convenientes para el mejoramiento de las fuentes patrimoniales de la Inmobiliaria.
 
-XV.- Hacer del conocimiento del Consejo los actos de empleados que por implicar faltas en su trabajo o deberes en la prestación de sus servicios o inclusive la comisión de delitos pudieren justificar la separación de los mismos.
+XV.- (DEROGADA, P.O. 14 DE AGOSTO DE 1990)
 
-XVI.- Hacer del conocimiento de las autoridades competentes de todo acto de persona física o moral que pudiere implicar la violación de la presente Ley en perjuicio del patrimonio de la Inmobiliaria, así como ejercitar las acciones en los casos que proceda la responsabilidad civil por los daños o perjuicios que hubiere sufrido ésta.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO 1990)</small>
+
+XVI. Hacer del conocimiento de las Autoridades competentes los actos u omisiones que impliquen una lesión o menoscabo al patrimonio de la Institución, y ejercitar las acciones jurídicas correspondientes; y
 
 XVII.- Las demás que de la presente Ley deriven o que el Consejo le encomiende.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO 1990)</small>
+
 ###### Art. 18.
 
-El Director General deberá ser mexicano, domiciliado en el Estado, mayor de 30 años y tener experiencia en actividades económicas y probado espíritu de servicio a juicio del Consejo, no haber sido condenado por la Comisión de delito patrimonial y ser de reconocida honorabilidad.
+El Director General de la Inmobiliaria deberá ser mexicano; tener experiencia en actividades económicas, comerciales y financieras; no haber sido condenado por delitos patrimoniales, y ser de reconocida honorabilidad.
 
 En su ausencia, el Director General será sustituido por la persona que al efecto designe el Consejo de Administración.
 
 DEL SECRETARIO DE ACTAS Y ACUERDOS
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1990)</small>
+
 ###### Art. 19.
 
-El Secretario de Actas y Acuerdos será nombrado por el Director General, previa aprobación que de su nombramiento haga el Consejo de Administración.
+La función del Secretario de Actas y Acuerdos será ejercida por el funcionario de la Inmobiliaria que designe el Director General.
 
 ###### Art. 20.
 
-El Secretario de Actas y Acuerdos deberá reunir los mismos requisitos que el Director General.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1990)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1990)</small>
 
 ###### Art. 21.
 
-Son facultades y atribuciones del Secretario de Actas y Acuerdos:
+Son facultades y obligaciones del Secretario de Actas y Acuerdos:
 
-I.- Levantar y autorizar las actas del consejo de Administración, suscribiendo las mismas en unión del Director General.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1990)</small>
 
-II.- Autorizar copias de dichas actas y de los documentos que existan en los archivos de la Inmobiliaria.
+I.- Asentar en el libro correspondiente las actas de las sesiones del Consejo de Administración; y
 
-III.- Firmar en unión del Director General la correspondencia dirigida a las Autoridades o Instituciones, a personas morales o físicas extrañas a la Inmobiliaria.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1990)</small>
 
-IV.- Expedir por acuerdo del Presidente las convocatorias de la presente Ley para que el Consejo sesione.
+II.- Las demás que el Director General le encomiende.
 
-V.- Las demás que el Consejo o Director General le encomienden.
+III.- (DEROGADA, P.O. 14 DE AGOSTO DE 1990)
+
+IV.- (DEROGADA, P.O. 14 DE AGOSTO DE 1990)
+
+V.- (DEROGADA, P.O. 14 DE AGOSTO DE 1990)
 
 DEL TESORERO
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1990)</small>
+
 ###### Art. 22.
 
-El Tesorero deberá ser Licenciado en Administración de Empresas o Contador Público, mayor de 27 años, no haber sido condenado por delitos patrimoniales y ser de reconocida honorabilidad.
+El Tesorero deberá ser licenciado en Economía, Administración de Empresas o Contaduría Pública, o bien, poseer experiencia y capacidad en el manejo de las finanzas; así como de reconocida honorabilidad, y no haber sido condenado por delitos patrimoniales.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1990)</small>
 
 ###### Art. 23.
 
-El Tesorero tendrá el control contable de todas las actividades de la Inmobiliaria.
+El Tesorero será responsable de que los sistemas de contabilidad y de manejo y control de las finanzas sean los idóneos, debiendo en todo caso hacer que las cuentas bancarias de cualquiera naturaleza tengan registradas tres firmas; entre ellas, la del Director General y la suya, pudiéndose disponer recursos sólo mediante la firma de dos de las tres personas autorizadas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1990)</small>
 
 ###### Art. 24.
 
 El Tesorero tendrá las siguientes facultades y obligaciones:
 
-I.- Elaborar anualmente los proyectos de Presupuestos de Ingresos y Egresos de la Inmobiliaria.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1990)</small>
 
-II.- Revisar y firmar los balances ordinarios y extraordinarios e informaciones que acuerde el Consejo o el Director General.
+I.- Elaborar los anteproyectos de presupuestos de Ingresos y Egresos de la Inmobiliaria.
 
-III.- Manejar el Sistema de clasificación general de cuentas.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1990)</small>
+
+II.- Practicar el balance o balances con la periodicidad que acuerde, ya sea el consejo de Administración o el Director General, debiendo siempre ser acompañados de sus anexos analíticos referentes a los rubros que lo conforman.
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1990)</small>
+
+III.- Enseñar y mantener actualizado el sistema de clasificación general de cuentas.
 
 IV.- Intervenir en todos aquellos actos jurídicos en los que se afecten bienes, derechos o constituyan obligaciones a cargo del patrimonio de la Inmobiliaria rindiendo por escrito opinión respecto a las garantías constituidas general o específicamente en casos determinados.
 
@@ -291,11 +399,17 @@ VI.- Controlar los fondos y valores de la Inmobiliaria, cuidando la debida adecu
 
 VII.- Autorizar con su firma, todas las erogaciones que con cargo al Presupuesto de la Inmobiliaria se efectúen.
 
-VIII.- Hacer del conocimiento del Director General y de los miembros del Consejo las acciones u omisiones que impliquen perjuicio o daño en el patrimonio de la Inmobiliaria.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1990)</small>
 
-IX.- Dictar, previo acuerdo con el Director, las disposiciones relativas a época y forma en que deban rendirse cuentas e informes al Consejo de Administración de la Inmobiliaria.
+VIII.- Vigilar en todo momento, que el patrimonio de la Inmobiliaria no sufre menoscabo, e informar al Director General en aquellos casos en que advierta que existe posibilidad de ello.
 
-X.- Proponer al Director General la adopción de los sistemas más avanzados de Contabilidad.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1990)</small>
+
+IX.- Diseñar un sistema tal de contabilidad y administración financiera que le permita cumplir con las obligaciones de informar sobre su área de responsabilidad tanto al Director General como al Consejo de Administración, con la periodicidad que se le indique.
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1990)</small>
+
+X.- Proponer al Director General la adopción de sistemas actuales de contabilidad y de administración financiera; y
 
 XI.- Cuidar que la política de crédito que se establezca se lleve a cabo con estricto apego a los programas establecidos.
 
@@ -305,45 +419,61 @@ DE LAS CUENTAS
 
 Las cuentas de la Inmobiliaria del Estado, se llevarán de conformidad con los sistemas que apruebe el Consejo de Administración y deberán representar todas las operaciones que se realicen y los resultados, mediante la formulación de estados financieros.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1990)</small>
+
 ###### Art. 26.
 
-Todos los funcionarios o empleados que manejen fondos, deberán constituir una fianza en favor de la Inmobiliaria del Estado por la cuantía que, de común acuerdo, fijen el Director General y el Tesorero, para aprobación del Consejo.
+Todos los servidores públicos de la Inmobiliaria, que tengan área de responsabilidad en el manejo de fondos, deberán garantizar su manejo mediante fianza otorgada a favor de dicha Institución con los montos y con las modalidades que, en cada caso, fije el Director General, atendiendo a las instrucciones acordadas por el Consejo de Administración.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1990)</small>
 
 ###### Art. 27.
 
-Los diferentes desarrollos que se emprendan por la Inmobiliaria serán sujetos a un sistema de contabilidad que arrojen cada uno de ellos.
+El sistema de contabilidad y de administración financiera que se implante en la Inmobiliaria deberá permitir, en todo caso, que los órganos de gobierno de la misma obtengan información actualizada en dichos rubros y en relación a cada uno de los programas y desarrollos inmobiliarios emprendidos por el Organismo.
 
 DE LOS ADQUIRENTES
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1990)</small>
+
 ###### Art. 28.
 
-Teniendo la presente Ley como objeto principal el de proveer a los habitantes del Estado de terreno o vivienda de que carezcan, para que en ellos construyan o establezcan su hogar en forma permanente y de esta manera integren con las facilidades que su condición económica permitan, un patrimonio personal o familiar, la Inmobiliaria de Interés Público del Estado transmitirá los bienes destinados a tal fin mediante el acto o contrato que mejor proceda a las personas que reúnan los siguientes requisitos:
+La Inmobiliaria cuidará, en todo momento, que sus diversos actos encuadren dentro de los objetivos asignados por el legislador, exigiendo en todo caso de los solicitantes de adquisición de predios o inmuebles de su propiedad satisfagan los requisitos siguientes:
 
-I.- A quienes no tengan otro predio o casa habitación.
+I.- Que el solicitante, su cónyuge, o sus hijos menores de edad, no sean propietarios de predios o casa habitación.
 
-II.- Que el adquirente tenga establecido su domicilio en el Estado y que, en el lugar donde preste sus servicios tenga una antigüedad mayor de un año.
+II.- Que resida en el Estado de Jalisco, al menos con tres años de anticipación a la fecha de su solicitud, y de un año en la localidad en la que pretenda adquirir el inmueble.
 
-III.- A quienes percibiendo ingresos, no sean suficientes para adquirir predio o casa-habitación.
+III.- Que sus ingresos sean menores a tres veces el salario mínimo general mensual, de la Zona Metropolitana de Guadalajara; y
 
-Para determinar los anteriores supuestos, la Inmobiliaria del Estado realizará estudio Socio-económico exhaustivo que formará parte del expediente del beneficiario.
+IV:- Sea mayor de edad y jefe de familia.
+
+Para determinar los anteriores supuestos, la Inmobiliaria del Estado realizará estudios Socio-económico exhaustivo que formará parte del expediente del beneficiario.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1990)</small>
 
 ###### Art. 29.
 
-Se asegurará la efectiva aplicación de los bienes a los fines propios de la Inmobiliaria.
+La Inmobiliaria diseñara y aplicará instrumentos jurídicos y medidas de control, para asegurar que los bienes por ella enajenados sean destinados por los adquirentes a los propósitos y usos comprendidos dentro de los fines de la Inmobiliaria.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1990)</small>
 
 ###### Art. 30.
 
-Quien haya terminado su casa dentro de los dos años contados a partir de la fecha de adquisición siempre que se trate de predios adquiridos de la Inmobiliaria y que están destinados exclusivamente para fines habitacionales, tendrá derecho a una bonificación del 25 por ciento del precio de la operación independientemente de que durante dicho lapso se hayan transferido los derechos derivados del contrato de adquisición a terceras personas que reúnan también los supuestos de adquisición a que se refiere el artículo 28.
+La Inmobiliaria concederá una bonificación del 25% del precio de la enajenación del bien al adquirente que haya hecho una edificación con materiales permanentes y la esté habitando dentro de los tres años siguientes a la fecha de adquisición o bien al cesionario en los términos del Art. 31 de esta Ley, que cumpla con la anterior condición.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1990)</small>
 
 ###### Art. 31.
 
-Siempre que se haya adquirido de la Inmobiliaria del Estado un predio o casa habitación que vaya a ser objeto de cualquier acto o contrato traslativo de domino por parte del adquirente, sin que aún haya pagado totalmente su importe, será requisito indispensable recabar la autorización por escrito del Director General y Tesorero para que opere la cesión.
+Cualquier acto de cesión de derechos o translativos de dominio respecto a los bienes adquiridos de la Inmobiliaria, que los adquirentes pretendan llevar a cabo con terceras personas, deberán contar con la autorización, por escrito, del Director General de la Inmobiliaria, en aquellos casos en que no haya sido pagado totalmente el precio por parte de sus adquirentes, sin este requisito no podrán celebrarse dichos actos. El presente artículo deberá insertarse en los documentos o títulos de propiedad correspondientes.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1990)</small>
 
 ###### Art. 32.
 
-Todo contrato que sobre terreno o vivienda celebre la Inmobiliaria del Estado será de contado o a plazo de conformidad con la política financiera que en cada desarrollo apruebe el Consejo de Administración.
+Todas las operaciones que celebre la Inmobiliaria con las personas que satisfagan los requisitos del Art. 28 de esta Ley, deberán someterse a las condiciones de pago que el Consejo de Administración establezca.
 
-Siempre que la venta sea a plazo, la Inmobiliaria del Estado se reservará el dominio, reserva que se cancelará una vez cubierto precio y accesorios.
+Toda venta a plazos se hará con la reserva de dominio a favor de la Inmobiliaria del Estado.
 
 ###### Art. 33.
 
@@ -395,6 +525,10 @@ LIC. ALFONSO DE ALBA MARTÍN.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O.31 DE MARZO DE 1990.
+P.O. 31 DE MARZO DE 1990.
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación, en Periódico Oficial El Estado de Jalisco.
+
+P.O. 14 DE AGOSTO DE 1990.
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial El Estado de Jalisco.
