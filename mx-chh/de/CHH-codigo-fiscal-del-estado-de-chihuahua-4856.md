@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1994-02-09"
+last_updated: "1995-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1995.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -689,6 +689,10 @@ La Tesorería General del Estado formulará modelo de las notas que deban presen
 
 Queda terminantemente prohibido a los funcionarios y empleados fiscales proporcionar datos escritos y verbales relativos a la situación de los causantes. Esta información sólo podrá facilitarse a los interesados o a sus representantes legítimos y a las autoridades judiciales o administrativas competentes. Podrá proporcionarse también a los Notarios, a juicio de la autoridad fiscal, si formulan su solicitud por escrito y fundan y motivan suficientemente su petición.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE FEBRERO DE 1995)</small>
+
+La prohibición a que se refiere esta disposición no será aplicable tratándose de los servicios públicos prestados por la Dirección General de Finanzas y Administración, por la expedición de constancias relativas al Padrón Vehicular.
+
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
 
 85.- Las obligaciones y responsabilidades de que se ocupa el artículo anterior no se extinguen por la separación del cargo, empleo o comisión, sino hasta pasado un año contado a partir de la fecha en que ocurra esta circunstancia.
@@ -1037,9 +1041,69 @@ b).- Al que viola, deteriore o destruya los sellos o marcas colocados con finali
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO II. IMPUESTO SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
+### CAPITULO II. DEL IMPUESTO SOBRE ADQUISICION DE VEHICULOS AUTOMOTORES Y OTROS BIENES MUEBLES USADOS
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+132.- Es objeto de este impuesto la adquisición de la propiedad, por cualquier título o causa, de vehículos automotores y de otros bienes muebles usados que se realice o surta sus efectos en el territorio del Estado, a excepción de los enajenados por empresas en los términos de la Ley del Impuesto al Valor Agregado.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+133.- En las permutas se considerará que se efectúan dos adquisiciones.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+134.- Son sujetos de este impuesto quienes adquieran el dominio de bienes muebles, en los términos a que se refiere el Artículo 132.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+135.- Se tomará como base para la aplicación de este impuesto, la tabla de valores que fijará anualmente la Dirección General de Finanzas y Administración o el valor resultante del avalúo que al efecto practique.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+136.- El impuesto se causará aplicando la tasa del 2% a la base señalada en el Artículo anterior por la adquisición de toda clase de automóviles, camiones y demás vehículos de motor usados y en general por cualquier otro bien mueble usado.
+
+Quedan exceptuados del pago de este impuesto las adquisiciones que efectúen los distribuidores de automóviles autorizados en el Estado y los comerciantes en el ramo de vehículos.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+137.- El impuesto establecido en este capítulo deberá pagarse dentro de los 15 días hábiles siguientes a la fecha de adquisición del vehículo, en las oficinas recaudadoras correspondientes.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+138.- Son responsables solidarios del pago de este impuesto:
+
+I.- Los adquirientes, aun tratándose de los sujetos exentos del pago de este impuesto, por los créditos fiscales que se adeuden con motivo de operaciones celebradas con anterioridad.
+
+II.- Quienes transmitan la propiedad, cuando los adquirientes no cumplan con la obligación señalada en el artículo anterior.
+
+III.- Los servidores públicos que en ejercicio de sus funciones autoricen el cambio de propietario de un vehículo, sin cerciorarse del pago del impuesto y
+
+IV.- Los consignatarios o comisionistas en cualquier operación de adquisición de vehículos automotores usados.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+139.- Cuando en las operaciones que se lleven a cabo con motivo de la adquisición de vehículos automotores u otros bienes muebles usados, intervengan personas domiciliadas fuera del Estado, el impuesto será retenido y enterado por aquella que sea residente del mismo, que haya intervenido o sea intermediario en la operación.
+
+140.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+141.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+142.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+143.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+144.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+145.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+146.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+147.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+148.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCERO, DEL CODIGO FISCAL DEL ESTADO, FUERON SUSPENDIDOS CON MOTIVO DEL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL CELEBRADO ENTRE EL ESTADO DE CHIHUAHUA Y LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, P.O. 21 DE OCTUBRE DE 1978.
 
 ### CAPITULO III. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
@@ -1279,11 +1343,19 @@ e).- Pagos por gastos funerarios,
 
 f).- Pagos por primas de antigüedad;
 
-g).- Gastos de representación y viáticos que reúnan los mismos requisitos que para su deducibilidad requiera la Ley del Impuesto sobre la Renta.
+g).- Gastos de representación y viáticos que reúnan los mismos requisitos que para su deducibilidad requiera la Ley del Impuesto sobre la Renta;
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
 
-172.- La Tesorería General del Estado podrá determinar estimativamente las erogaciones de los sujetos de este impuesto cuando se de cualquiera de las hipótesis señaladas en el artículo 23 de este Código.
+h) Prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo y deportivos, festejos y convivios, becs(sic) para los trabajadores y sus familias, que se otorguen con carácter general y sean pagadas totalmente por el patrón;
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+i) Los provenientes de los fondos de ahorro cuando las aportaciones de la empresa sean iguales a las de los trabajadores. En los casos en que el patrón aporte una cantidad superior, el excedente será considerado para integrar la base gravable del impuesto.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+172.- La Dirección General de Finanzas y Administración podrá determinar estimativamente las erogaciones de los sujetos de este impuesto, cuando se den cualquiera de las hipótesis señaladas en el Artículo 23 de este Código.
 
 173.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 1979)
 
@@ -1617,7 +1689,7 @@ VIII.- Naturaleza y valor de la operación;
 
 IX.- Fecha del otorgamiento y autorización de la escritura;
 
-X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u operación.
+X.- Nombre y numero del Notario o autoridad ante quien se celebre el contrato u operación.
 
 131.- Toda construcción, ampliación o modificación de la construcción ya existente, deberá ser manifestada por el sujeto del impuesto a la Tesorería General del Estado, en las formas que para el caso autorice la misma, dentro de los 15 días siguientes al de la terminación de la obra realizada.
 
@@ -1625,53 +1697,7 @@ X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u
 
 A la manifestación anterior deberá adjuntarse plano catastral, permiso de construcción de la Dirección de Obras Públicas Municipales y copia del aviso de terminación de obra presentado ante el Instituto Mexicano del Seguro Social.
 
-> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-#### SECCION PRIMERA. OBJETO, SUJETO, BASE Y TASA
-
-132.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-133.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-134.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-135.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-136.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-137.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-#### SECCION SEGUNDA. PAGO DEL IMPUESTO
-
-138.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-139.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-140.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-141.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-142.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-143.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-144.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-145.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-#### SECCION TERCERA. EXENCIONES
-
-146.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-147.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-148.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)(REPUBLICADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCERO, DEL CODIGO FISCAL DEL ESTADO, FUERON SUSPENDIDOS CON MOTIVO DEL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL CELEBRADO ENTRE EL ESTADO DE CHIHUAHUA Y LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, P.O. 21 DE OCTUBRE DE 1978.
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
@@ -1682,8 +1708,6 @@ N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCE
 176.- Son sujetos de este impuesto las personas físicas que perciban ingresos por los conceptos señalados en el artículo anterior, por actividades efectuadas dentro del Estado de Chihuahua.
 
 Cuando dichas personas operen organizadas en agrupaciones profesionales, asociaciones o sociedades de carácter civil, serán dichas personas físicas sujetos del impuesto, por la participación que les corresponda en los ingresos de la organización.
-
-### CAPITULO VII. IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITALES INVERTIDOS
 
 #### SECCION SEGUNDA. TASA, BASE Y DEDUCCIONES
 
@@ -1753,7 +1777,7 @@ Si los causantes no cumplen con los requisitos que establece el párrafo anterio
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
-### CAPITULO VIII. IMPUESTO SOBRE EL COMERCIO Y LA INDUSTRIA
+### CAPITULO VII. IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITALES INVERTIDOS
 
 #### SECCION QUINTA. LIQUIDACIONES A CUOTA FIJA
 
@@ -1791,6 +1815,8 @@ Los causantes de este impuesto están obligados a presentar para su registro, en
 
 196.- Para los efectos del pago del impuesto se considera que las cantidades abonadas por el deudor o que en cualquiera otra forma obtenga el acreedor por concepto de pago total o parcial del adeudo, se aplican en primer término al pago de los productos o rendimientos del capital invertido.
 
+### CAPITULO VIII. IMPUESTO SOBRE EL COMERCIO Y LA INDUSTRIA
+
 #### SECCION TERCERA. RESPONSABILIDAD DE TERCEROS
 
 197.- Están obligados a retener el impuesto las personas que hagan pagos de los gravados en este capítulo a contribuyentes radicados dentro o fuera del Estado.
@@ -1804,8 +1830,6 @@ Las personas que efectúen retenciones harán los enteros relativos en el plazo 
 200.- Los jueces del Estado están obligados a remitir a las Recaudaciones de Rentas correspondientes, dentro de los diez días siguientes a la fecha en que sean dictadas, una copia certificada de las sentencias ejecutoriadas en las que se condene el pago de alguno o algunos de los conceptos gravados en este Capítulo.
 
 La Tesorería General del Estado está, a través del representante de la Hacienda Pública Estatal que se designe, facultada para intervenir en los juicios en que exista o se presuma la existencia de actos que generen créditos fiscales comprendidos en este Capítulo.
-
-### CAPITULO IX. IMPUESTO SOBRE LA GANADERIA
 
 #### SECCION CUARTA. EXENCIONES
 
@@ -1906,6 +1930,8 @@ IV.- Los contribuyentes radicados fuera del Estado manifestarán directamente o 
 210.- Se considera que los vendedores ambulantes tienen su domicilio en el lugar que como tal hayan señalado en su solicitud de empadronamiento.
 
 211.- En todas las operaciones gravadas por este capítulo en que intervengan personas físicas o morales no empadronadas para el pago del Impuesto, será responsable del pago el enajenante y solidariamente el adquiriente de los bienes o servicios.
+
+### CAPITULO IX. IMPUESTO SOBRE LA GANADERIA
 
 #### SECCION TERCERA. GRUPOS Y TASAS
 
@@ -2255,8 +2281,6 @@ Los contribuyentes a quienes se les practique una auditoría deberán dar aviso 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE D 1977)</small>
 
-### CAPITULO X. IMPUESTO SOBRE LA ENAJENACION DE ALGODON Y SU SEMILLA
-
 #### SECCION DECIMA. LIQUIDACIONES A CUOTA FIJA
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
@@ -2313,6 +2337,8 @@ IX.- Por cada cabeza de cabrito con edad
 
 máxima de 30 días "1.50
 
+### CAPITULO X. IMPUESTO SOBRE LA ENAJENACION DE ALGODON Y SU SEMILLA
+
 #### SECCION TERCERA. PAGO
 
 244.- El impuesto se causará por cada cabeza de ganado y por una sola vez, en la última operación que con él se realice dentro del Estado.
@@ -2349,24 +2375,6 @@ II.- Los demás que establezcan las leyes correspondientes.
 
 249.- Los causantes de este impuesto están obligados a empadronarse en la Recaudación de Rentas de la jurisdicción de su domicilio particular. Los que residan fuera del Estado se empadronarán en la Recaudación del domicilio que señalen convencionalmente.
 
-### CAPITULO XI. IMPUESTO SOBRE LA ENAJENACION DE AVENA
-
-261.- Es objeto de este impuesto la enajenación de primera mano que se realice con la avena ya sea en grano o achicalada. Para los efectos de esta disposición se consideran enajenaciones de primera mano las que realicen los productores. Toda enajenación se presume verificada dentro del Estado, sin que se admita prueba en contrario.
-
-262.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones de enajenación con el citado producto.
-
-263.- La base de este impuesto será el valor del producto de acuerdo con las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-264.- El impuesto se causará a razón del 3% sobre el valor que tenga en el mercado o en su caso, sobre el valor oficial que al respecto se le fije.
-
-265.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-266.- Los propietarios, administradores o encargados de las fábricas industrializadoras de la avena y las personas físicas o morales que comercien con este cereal, están obligados a retener el impuesto que establece este capítulo, en todos aquellos casos en que los productores de avena no les comprueben, con los recibos oficiales que al efecto les expidan las Recaudaciones de Rentas, haber pagado el tributo. En caso de que acrediten tal extremo, el adquiriente deberá recabar y conservar en su poder el recibo que se le expidió al propietario al momento de efectuar el pago.
-
 #### SECCION QUINTA. OBLIGACIONES DE LOS TERCEROS
 
 250.- Todas las personas que realicen operaciones gravadas en este Capítulo están obligadas por sí o por conducto de sus administradores, representantes o empleados a exigir la comprobación del pago de este impuesto. Tratándose de Rastros Municipales o Empacadoras tendrán además la obligación de entregar a la Recaudación de Rentas de su jurisdicción, una relación del ganado sacrificado con especificación de marcas, valores, nombre del propietario, lugar y fecha en que fueron pagados los impuestos.
@@ -2398,86 +2406,6 @@ Si existen pacas de algodón o semilla dentro de los límites de las plantas des
 254.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones comerciales con el algodón y su semilla en los términos del artículo anterior.
 
 255.- La base de este impuesto será el valor de los productos, según las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado para cada zona productora.
-
-### CAPITULO XII. IMPUESTO SOBRE PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
-
-### CAPITULO XIII. IMPUESTO SOBRE ACTOS JURIDICOS
-
-303.- Son objeto de este impuesto todos los actos jurídicos, de cualquier naturaleza, que se otorguen en escritura pública o privada.
-
-304.- Son sujetos de este impuesto las personas que celebren los actos jurídicos que se otorguen en la forma prevista en el artículo anterior.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-305.- El impuesto se causará de acuerdo con la siguiente tarifa:
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-I.- Por la constitución de sociedades civiles o mercantiles, y en general cualquier agrupación con fines lucrativos, sobre el capital de las mismas se pagará $ 1.50 (UN PESO CINCUENTA CENTAVOS) por cada un mil pesos a fracción.
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-II.- Por el aumento, por cualquier causa, del capital social de sociedades civiles o mercantiles o cualquier agrupación con fines preponderantemente económica, sobre el importe del capital aumentado se pagará %1.50 (UN PESO CINCUENTA CENTAVOS) o fracción.
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-III.- Por los actos tendientes a garantizar obligaciones tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.75 por cada $100.00 o fracción.
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1988)</small>
-
-IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante notario o ante autoridad judicial, pagará el equivalente al 85% (ochenta y cinco por ciento), sobre el salario mínimo diario, correspondiente a la zona económica de la capital del Estado. En el primer caso el entero del impuesto se comprobará con el original del certificado de pago que se entregará al apéndice del protocolo correspondiente: en el segundo, se adherirá a la copia auténtica que se agregue al apéndice del libro del registro de actos fuera de protocolo, poniéndose razón del pago en la que conste el número del certificado en el documento que se entregue al interesado, si el mandato fuese judicial, el comprobante de pago del impuesto se agregará a las actuaciones conducentes.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-V.- En los contratos de aparcería, el propietario pagará el 1% del precio de los frutos percibidos, según declaración que deberá formular dentro de los primeros 20 días del mes siguiente a aquél en que los obtenga.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-VI.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $1.50 (Un peso 50/100 M.N.) por cada un mil pesos o fracción sobre el valor de la operación.
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1988)</small>
-
-VII.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el valor de la operación, se pagará el equivalente al 12.5% (ciento veinticinco por ciento), sobre el salario mínimo diario, correspondiente a la zona económica de la capital del Estado.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-VIII.- Cuando en un mismo instrumento se consignen diversos actos, a cada uno de éstos se aplicará la tarifa que le corresponda.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-IX.- Los actos jurídicos celebrados fuera del Estado y que surtan sus efectos dentro del territorio del mismo así como los que se registren o deban registrarse en las oficinas del registro Público de la Propiedad estatales, causarán el impuesto sobre actos Jurídicos conforme a las disposiciones de este Capítulo.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-306.- No causan el impuesto:
-
-I.- Los actos del estado civil.
-
-II.- Los actos cuyo valor no exceda de $500.00 (QUINIENTOS PESOS).
-
-III.- Los actos que consignen finanzas que se extiendan para excarcelación de presos insolventes y para caucionar el manejo de fondos de empleados públicos.
-
-IV.- Los actos que contengan operaciones cuyo gravamen corresponda exclusivamente a la Federación.
-
-V.- Los actos relativos a la asistencia pública y de la beneficencia privada.
-
-VI.- Los actos relativos a la adquisición de muebles destinados a escuelas, colegios o bibliotecas públicas.
-
-VIII.- Los que consignen la resolución de actos jurídicos.
-
-IX.- Los actos en cuya virtud se cancele otro, salvo lo previsto en la fracción III del Artículo 133.
-
-X.- Los actos mediante los cuales se reduzca el capital social o se disuelvan personas jurídicas colectivas o sociedades conyugales.
-
-XI.- Los actos en que se consignen disposiciones testamentarias.
-
-XII.- Los actos que contengan operaciones gravadas con algún otro impuesto establecido por este Código, siempre y cuando su importe sea mayor al que resultaría de aplicarse las tasas del Artículo 305.
-
-307.- Los causantes, tratándose de escrituras privadas están obligados:
-
-I.- A presentar ante la Recaudación de Rentas respectiva, los documentos originales en que consten actos, contratos u obligaciones, para los efectos del registro y control del impuesto.
-
-II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la operación.
 
 #### SECCION SEGUNDA. TASA, PAGO Y OBLIGACIONES
 
@@ -2512,6 +2440,24 @@ VI.- A dar aviso inmediato y por escrito a la Recaudación de Rentas respectiva,
 259.- Es solidariamente responsable del pago del impuesto el adquirente.
 
 260.- Los causantes y los terceros que intervengan en toda clase de operaciones gravadas por este Capítulo, que infrinjan las disposiciones contenidas en el mismo, se harán acreedores a las sanciones previstas en el capítulo VII del Título Segundo de este libro.
+
+### CAPITULO XI. IMPUESTO SOBRE LA ENAJENACION DE AVENA
+
+261.- Es objeto de este impuesto la enajenación de primera mano que se realice con la avena ya sea en grano o achicalada. Para los efectos de esta disposición se consideran enajenaciones de primera mano las que realicen los productores. Toda enajenación se presume verificada dentro del Estado, sin que se admita prueba en contrario.
+
+262.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones de enajenación con el citado producto.
+
+263.- La base de este impuesto será el valor del producto de acuerdo con las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+264.- El impuesto se causará a razón del 3% sobre el valor que tenga en el mercado o en su caso, sobre el valor oficial que al respecto se le fije.
+
+265.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+266.- Los propietarios, administradores o encargados de las fábricas industrializadoras de la avena y las personas físicas o morales que comercien con este cereal, están obligados a retener el impuesto que establece este capítulo, en todos aquellos casos en que los productores de avena no les comprueben, con los recibos oficiales que al efecto les expidan las Recaudaciones de Rentas, haber pagado el tributo. En caso de que acrediten tal extremo, el adquiriente deberá recabar y conservar en su poder el recibo que se le expidió al propietario al momento de efectuar el pago.
 
 #### SECCION PRIMERA. IMPUESTO SOBRE PRODUCCION DE BEBIDAS ALCOHOLICAS
 
@@ -2749,6 +2695,86 @@ i).- Los salones destinados al alquiler para la celebración de reuniones social
 
 292.- La facultad para declarar que se ha cometido una infracción y para imponer las sanciones que corresponden, es de la Tesorería General del Estado. La aplicación de las sanciones, se hará sin perjuicio del cobro de los impuestos o derechos omitidos.
 
+### CAPITULO XII. IMPUESTO SOBRE PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
+
+### CAPITULO XIII. IMPUESTO SOBRE ACTOS JURIDICOS
+
+303.- Son objeto de este impuesto todos los actos jurídicos, de cualquier naturaleza, que se otorguen en escritura pública o privada.
+
+304.- Son sujetos de este impuesto las personas que celebren los actos jurídicos que se otorguen en la forma prevista en el artículo anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+305.- El impuesto se causará de acuerdo con la siguiente tarifa:
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+I.- Por la constitución de sociedades civiles o mercantiles, y en general cualquier agrupación con fines lucrativos, sobre el capital de las mismas se pagará $0.75 por cada un mil pesos o fracción.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+II.- Por el aumento, por cualquier causa, del capital social de sociedades civiles o mercantiles o cualquier agrupación con fines preponderantemente económicos, sobre el importe del capital aumentado se pagará $0.75% por cada un mil pesos o fracción.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+III.- Por los actos tendientes a garantizar obligaciones, tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.375 por cada cien pesos o fracción.
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1988)</small>
+
+IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante notario o ante autoridad judicial, pagará el equivalente al 85% (ochenta y cinco por ciento), sobre el salario mínimo diario, correspondiente a la zona económica de la capital del Estado. En el primer caso el entero del impuesto se comprobará con el original del certificado de pago que se entregará al apéndice del protocolo correspondiente: en el segundo, se adherirá a la copia auténtica que se agregue al apéndice del libro del registro de actos fuera de protocolo, poniéndose razón del pago en la que conste el número del certificado en el documento que se entregue al interesado, si el mandato fuese judicial, el comprobante de pago del impuesto se agregará a las actuaciones conducentes.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+V.- En los contratos de aparcería, el propietario pagará el 1% del precio de los frutos percibidos, según declaración que deberá formular dentro de los primeros 20 días del mes siguiente a aquél en que los obtenga.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+VI.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $0.75 por cada un mil pesos o fracción sobre el valor de la operación.
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1988)</small>
+
+VII.- Cuando en el acto jurídico no se exprese cantidad ni pueda determinarse el valor de la operación, se pagará el equivalente al 12.5% (ciento veinticinco por ciento), sobre el salario mínimo diario, correspondiente a la zona económica de la capital del Estado.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+VIII.- Cuando en un mismo instrumento se consignen diversos actos, a cada uno de éstos se aplicará la tarifa que le corresponda.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+IX.- Los actos jurídicos celebrados fuera del Estado y que surtan sus efectos dentro del territorio del mismo así como los que se registren o deban registrarse en las oficinas del registro Público de la Propiedad estatales, causarán el impuesto sobre actos Jurídicos conforme a las disposiciones de este Capítulo.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+306.- No causan el impuesto:
+
+I.- Los actos del estado civil.
+
+II.- Los actos cuyo valor no exceda de $500.00 (QUINIENTOS PESOS).
+
+III.- Los actos que consignen finanzas que se extiendan para excarcelación de presos insolventes y para caucionar el manejo de fondos de empleados públicos.
+
+IV.- Los actos que contengan operaciones cuyo gravamen corresponda exclusivamente a la Federación.
+
+V.- Los actos relativos a la asistencia pública y de la beneficencia privada.
+
+VI.- Los actos relativos a la adquisición de muebles destinados a escuelas, colegios o bibliotecas públicas.
+
+VIII.- Los que consignen la resolución de actos jurídicos.
+
+IX.- Los actos en cuya virtud se cancele otro, salvo lo previsto en la fracción III del Artículo 133.
+
+X.- Los actos mediante los cuales se reduzca el capital social o se disuelvan personas jurídicas colectivas o sociedades conyugales.
+
+XI.- Los actos en que se consignen disposiciones testamentarias.
+
+XII.- Los actos que contengan operaciones gravadas con algún otro impuesto establecido por este Código, siempre y cuando su importe sea mayor al que resultaría de aplicarse las tasas del Artículo 305.
+
+307.- Los causantes, tratándose de escrituras privadas están obligados:
+
+I.- A presentar ante la Recaudación de Rentas respectiva, los documentos originales en que consten actos, contratos u obligaciones, para los efectos del registro y control del impuesto.
+
+II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la operación.
+
 #### SECCION TERCERA. IMPUESTO SOBRE VENTA DE ALCOHOL
 
 OBJETO Y SUJETO DEL IMPUESTO
@@ -2788,348 +2814,6 @@ IV.- Cuidar bajo su responsabilidad, que no se violen las marcas, sellos, etique
 V.- No permitir, bajo su responsabilidad, que se altere la graduación del contenido alcohólico de los envases;
 
 VI.- Las demás que establezcan las leyes.
-
-### CAPITULO XIV. DERECHOS
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308.- Los derechos por la prestación de servicios públicos que realicen las dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que provoque por parte del Estado el gasto que deba ser remunerado por aquél, salvo que la disposición que fije el derecho señale algo distinto.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-A.- Los derechos que señale la Ley de Ingresos del Estado deberán ser cubiertos en la Recaudación de Rentas de la jurisdicción donde se preste el servicio o en el lugar en que al efecto señale la Dirección General de Finanzas del Estado.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-B.- El funcionario o empleado que preste el servicio procederá a su realización al presentarle el particular el recibo que acredite su pago ante la Recaudación de Rentas respectiva o Dirección General de Finanzas del Estado.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-C.- El funcionario o empleado público que preste algún servicio por el cual se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable en su pago, sin perjuicio de las demás sanciones que procedan.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-D.- En caso de existir discrepancia en cuanto a la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-E.- De los servicios prestados por el Departamento de Gobernación, se causarán derechos por:
-
-I.- Legalización de firmas, expedición de certificaciones, constancias y copias certificadas.
-
-II.- Opinión para la adquisición de muebles inmuebles (sic) conforme a la fracción IV del artículo 27 de la Constitución Federal.
-
-III.- Expedición de constancias de no antecedentes penales.
-
-IV.- Opinión para la autorización de usos de explosivos y sus artificios.
-
-V.- Opinión para la realización de carreras de caballos, peleas de gallos y palenques.
-
-VI.- Opinión para la realización de rifas y sorteos.
-
-VII.- Opinión para la desincorporación de inmuebles del régimen de colonias para destinarlos a un fin distinto, a solicitud de parte interesada.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-F.- Por los servicios prestados por el Departamento del Registro Público de la Propiedad y del Notariado:
-
-I.- Expedición de Patente de Aspirante al ejercicio del Notariado.
-
-II.- Expedición de Patente de Notario.
-
-III.- Autorización de Protocolos Notariales y Libros de Registro de actos fuera de protocolo.
-
-IV.- Inscripciones en el Registro Público de la Propiedad y del Notariado.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-G.- Por los servicios prestados por el Departamento del Registro Civil:
-
-I.- Actos del Registro Civil.
-
-II.- Expedición de copia certificada.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-H.- Por los servicios prestados por el Departamento de Educación Pública:
-
-I.- Matrícula de Títulos Profesionales.
-
-II.- Expedición de certificados por estudios realizados en escuelas clausuradas que hayan estado incorporadas al Departamento de Educación.
-
-III.- Revalidaciones, equivalencias y convalidaciones, por materia.
-
-IV.- Expedición de duplicado de la relación de estudios de escuelas a nivel elemental y medio básico.
-
-V.- Matrícula anual de establecimientos educativos particulares autorizados.
-
-VI.- Expedición de copias certificadas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-I.- Por los servicios prestados por la Oficina de Transporte:
-
-I.- Otorgamiento de concesiones de ruta para explotar el servicio de autotransporte de pasajeros en carreteras estatales, transporte urbano, transporte de materiales para construcción, transporte de carga, establecimiento de sitio de autos, transporte de servicio de pasajeros cuando el concesionario sea persona distinta al público usuario, incluyendo vehículos para servicio especial de turismo y de grúa.
-
-II.- Supervisión de transferencia de concesiones entre particulares.
-
-III.- Revalidación de concesiones.
-
-IV.- Ampliación de ruta del servicio público de transporte de pasajeros.
-
-V.- Extensión o cambio de ubicación de sitio de autos o de carga.
-
-VI.- Sustitución de vehículos del servicio público con vigencia de quince días.
-
-VII.- Expedición de tarjetón anual para concesionarios.
-
-VIII.- Expedición de copias certificadas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-J.- Por los servicios prestados directamente por la Dirección General de Comunicaciones y Obras Públicas:
-
-I.- Inscripción en el Padrón de Contratistas.
-
-II.- Modificación a los datos de inscripción.
-
-III.- Expedición de copias certificadas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-K.- Por los servicios prestados por la Dirección General de Finanzas:
-
-I.- Reposición de cédulas de empadronamiento.
-
-II.- Expedición de copias certificadas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-L.- Por los servicios prestados por la Procuraduría General de Justicia del Estado:
-
-I.- Expedición de constancias de no antecedentes penales.
-
-II.- Expedición de copias certificadas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-M.- Por los servicios prestados por la Dirección General de Desarrollo Rural:
-
-I.- Expedición de constancias de control ganadero y de fierro de herrar.
-
-II.- Expedición de mica de control ganadero y de fierro de herrar.
-
-III.- Duplicado de mica de fierro de herrar.
-
-IV.- Expedición de copias certificadas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-N.- Por los servicios prestados por la Dirección General de Administración:
-
-I.- Inscripción en el Padrón de Proveedores.
-
-II.- Revalidación en el Padrón de Proveedores.
-
-III.- Expedición de certificados de inexistencia de registro de actos del estado civil por el Archivo General del Estado.
-
-IV.- Expedición de copias certificadas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-Ñ.- Por los servicios prestados por la Dirección General de Desarrollo Social:
-
-I.- Control del ejercicio de profesiones.
-
-II.- Expedición de constancias relativas al registro de títulos profesionales.
-
-III.- Matrícula a prácticos para ejercer una profesión en las localidades en donde no haya profesionistas titulados.
-
-IV.- Expedición de cédulas por estudios técnicos.
-
-V.- Duplicados de cédulas profesionales.
-
-VI.- Expedición de copias certificadas.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-O.- Por los servicios prestados por la Imprenta de Gobierno:
-
-I.- Publicaciones en el Periódico Oficial del Estado.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-P.- Por los servicios prestados por las autoridades de Tránsito:
-
-I.- Expedición de licencias de manejo.
-
-II.- Exámenes médicos.
-
-III.- Control vehicular.
-
-IV.- Servicio de grúa para vehículos mal estacionados.
-
-V.- Certificación de documentos existentes en archivos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
-
-309.- Por la prestación de los servicios indicados en el artículo anterior, se cobrarán las cuotas que fije el Congreso local en la tarifa que para el efecto expida, tomando en cuenta el valor de la erogación que los servicios ocasionen.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-310.- No causan los derechos a que se refiere este capítulo:
-
-I.- La legalización de firmas y la expedición de certificados o certificaciones en los procesos civiles, penales y laborales, que lleven a cabo los tribunales judiciales o del trabajo;
-
-II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1975)
-
-III.- La legalización de firmas y la expedición de certificados y certificaciones solicitadas por las Dependencias de la Federación, Estado o Municipios, para asuntos oficiales de su competencia, siempre que la solicitud no implique relevo de la obligación a cargo de un particular para exhibir el documento respectivo;
-
-IV.- El registro de actas de nacimiento en las oficinas públicas;
-
-V.- La expedición de actas de nacimiento, defunción y matrimonio a los miembros del ejército Nacional;
-
-VI.- Las certificaciones o copias certificadas que expida el Registro Público de la Propiedad o el de Comercio, a solicitud de las autoridades judiciales para que obren en causa criminal o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados; pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos;
-
-VII.- La expedición de certificados o copias certificadas del Registro Público de la Propiedad, sobre bienes o derechos de la Federación, de los Estados y los Municipios, así como la inscripción o anotación de documentos relativos a bienes o derechos de las mismas Entidades, siempre que ellas sean las directamente interesadas en asegurar para sí esos mismos bienes o derechos. Cuando tal servicio derive de la aplicación de la facultad económico-coactiva en el cobro de adeudos fiscales, los gastos serán a cargo de los causantes remisos si no ocurriere la adjudicación al Fisco de los bienes embargados;
-
-VIII.- Los certificados o copias certificadas del Registro Público de la Propiedad, que se expidan con relación a la dotación o restitución de Ejidos, siempre que los peticionarios sean autoridades o los comisariados ejidales;
-
-IX.- La inscripción en el Registro Público de la Propiedad de las resoluciones Presidenciales sobre dotación o restitución de Ejidos, y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-X.- Las inscripciones preventivas a que se refiere el artículo 309 del Código Administrativo.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-### CAPITULO XV. PRODUCTOS Y CONTRIBUCIONES ESPECIALES
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-311.- Los ingresos que el Estado obtenga por la explotación de sus bienes patrimoniales o por actividades que no correspondan al desarrollo de sus funciones propias de derecho público, se fijarán y recaudarán de acuerdo con las reglas que establezcan las leyes o reglamentos respectivos o, en su defecto, conforme a las bases generales establecidas por el Ejecutivo del Estado en las licencias, concesiones o contratos respectivos.
-
-Los ingresos que el Estado obtenga por contribuciones especiales, se fijarán y liquidarán de acuerdo con las reglas que establezcan las leyes o Reglamentos respectivos, y se destinarán a cubrir las erogaciones de las obras públicas que las motive. Se harán efectivas por medio del procedimiento de ejecución.
-
-### CAPITULO XVI. APROVECHAMIENTOS
-
-312.- Son aprovechamientos los ingresos a que se refiere el Cuarto Párrafo del artículo 31 de este Código y en ellos quedan comprendidos: Los recargos; las multas, herencias, legados y donaciones a favor de la Hacienda Pública y en general cualquier otro ingreso no clasificable como impuesto, derecho o producto.
-
-313.- Los aprovechamientos se harán efectivos, según proceda en cada caso, atendiendo a la naturaleza y origen del crédito, por medio del procedimiento de ejecución o por la vía judicial.
-
-### CAPITULO XVII. PARTICIPACIONES
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
-
-314.- Quedan comprendidas en este Capítulo, las participaciones a Municipios derivadas de los ingresos provenientes de la Participación Federal al Estado, correspondientes al Fondo General de Participaciones y al Impuesto sobre Tenencia o Uso de Vehículos, así como las derivadas de los Impuestos Estatales.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
-
-315.- Las participaciones a los Municipios del Estado se integrarán de la siguiente forma:
-
-I.- 20% (veinte por ciento) sobre la participación Federal al Estado, por concepto de Fondo General de Participaciones, así como las que se deriven del Impuesto sobre Tenencia o Uso de Vehículos.
-
-La participación total a que se refiere esta fracción, así como la referente al fondo de Fomento Municipal se distribuirá entre los Municipios, de conformidad con los estudios económicos que al efecto se elaboren, pudiendo atenderse, entre otros, a los siguientes elementos; número de habitantes, importe de su Presupuestos de Egresos, gasto público Municipal por habitante y número de localidades en su jurisdicción.
-
-II.- 20% (veinte por ciento) sobre el ingreso del Estado, por concepto de Impuestos Estatales no destinados a un fin específico.
-
-La participación total a que se refiere esta fracción, se distribuirá entre los Municipios de la siguiente manera:
-
-A).- El 50% (cincuenta por ciento) de dicho fondo, en proporción directa a la población de cada Municipio.
-
-B).- El 50% (cincuenta por ciento) restante, de acuerdo a los factores de incremento en la Recaudación del Impuesto Predial, que se determine anualmente.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
-
-316.- Como resultado de los procedimientos de distribución de participaciones, a que se refiere el Artículo anterior, anualmente fijará el Congreso del Estado, en la Ley de Ingresos para los Municipios, los porcentajes de participación sobre el producto total que les corresponda.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
-
-317.- El importe de las participaciones a que se contrae la fracción II del artículo 315, se destinará en un ciento por ciento a programas de obra pública. En condiciones excepcionales plenamente justificadas ante la Comisión de Gasto y Financiamiento, podrán destinarse a otros fines.
-
-### CAPITULO I. DISPOSICIONES GENERALES
-
-318.- La representación de las personas físicas o morales ante las autoridades fiscales, se acreditará en los términos de la legislación común.
-
-En ningún procedimiento fiscal se admitirá la gestión de negocios. Los interesados podrán autorizar por escrito, en cada caso, a persona que en su nombre reciba notificaciones, ofrezca y rinda pruebas e interponga recursos dentro del procedimiento administrativo.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-319.- Los apoderados y representantes legítimos, deberán acreditar debidamente su personalidad al comparecer ante las autoridades fiscales del Estado. Su omisión faculta a éstas para desechar de plano su instancia.
-
-320.- Las notificaciones de los citatorios, emplazamientos, solicitudes de informes o documentos y las de acuerdos administrativos, destinados a los particulares, se harán:
-
-I.- Personalmente los requerimientos de pago y la notificación del crédito determinado por la autoridad fiscal.
-
-II.- Mediante oficio entregado por mensajero o por correo certificado con acuse de recibo los restantes actos.
-
-III.- Por edictos que se publiquen por dos veces consecutivas en el Periódico Oficial del Estado, únicamente en los casos en que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio, se encuentre fuera del Estado sin haber dejado representante legal acreditado ante las autoridades fiscales o hubiere fallecido y no se conozca el albacea de la sucesión. En estos casos los edictos contendrán un resumen de las resoluciones por notificar.
-
-321.- Los acuerdos distintos a los señalados en el artículo anterior, se notificarán por medio de oficio o telegrama.
-
-322.- Las notificaciones a las autoridades se harán por medio de oficio; excepcionalmente por la vía telegráfica cuando se trate de resoluciones o acuerdos que exijan cumplimiento inmediato.
-
-323.- Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate; a falta de señalamiento, se estará a las reglas del artículo 72 de este Código.
-
-Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato o con un agente de policía.
-
-Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
-
-En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
-
-De las diligencias en que conste la notificación o cita, el notificador tomará razón por escrito.
-
-324.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta de domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
-
-325.- Todas las notificaciones surtirán sus efectos el mismo día en que se practiquen con el interesado, representante o la persona con quien se entendió la diligencia, se fije el instructivo, se reciba el telegrama u oficio, o se haya hecho la última publicación de los edictos, en su caso.
-
-Finalmente, desde la fecha en que el interesado o su representante manifiesten que conocen la resolución o acuerdo respectivo si lo hacen con anterioridad a la fecha en que la notificación deba surtir sus efectos.
-
-326.- Cuando una notificación se haga en forma distinta a la señalada en los artículos anteriores será nula y así deberá declararse de oficio o a petición de parte; la nulidad deberá reclamarse en la actuación o promoción subsecuente en que intervenga el interesado; si así no lo hiciere la notificación quedará convalidada.
-
-327.- La declaratoria de nulidad de notificaciones, traerá como consecuencia la nulidad de las actuaciones posteriores a la notificación anulada y que tengan relación con ella.
-
-328.- Al trámite de la solicitud de nulidad se aplicarán, en lo conducente, las disposiciones del artículo 397. Mientras se resuelve quedará en suspenso el término legal para impugnar la resolución de fondo.
-
-Cuando se haya iniciado el juicio de oposición o interpuesto los recursos que prevee (sic) este Código, será improcedente la solicitud de nulidad de actuaciones ante la autoridad administrativa y se hará valer mediante ampliación de la demanda respectiva.
-
-# LIBRO SEGUNDO. PROCEDIMIENTOS FISCALES
-
-## TITULO PRIMERO. PROCEDIMIENTO ADMINISTRATIVO
-
-### CAPITULO II. PROCEDIMIENTO DE EJECUCION
-
-### CAPITULO I. MEDIOS DE IMPUGNACION
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-394.- Los actos en materia fiscal pueden impugnarse mediante los recursos de revisión y reconsideración o por medio del juicio de oposición promovido ante la autoridad judicial, pudiendo elegirse cualquiera de esos medios. La resolución que se dicte en los recursos administrativos será también impugnable en el juicio de oposición.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
-
-Tratándose de nulidad de notificaciones, tercerías, prescripción, caducidad e inconformidades contra las actas de visita, es obligatorio para el particular agotar los procedimientos respectivos antes de iniciar el recurso o el juicio.
-
-El Tesorero General igualmente podrá impugnar mediante juicio de oposición, las resoluciones de las autoridades fiscales que hayan sido favorables a los particulares.
-
-395.- El particular afectado podrá emplear cualesquiera de los medios de impugnación que establece el artículo anterior:
-
-I.- Contra las resoluciones y liquidaciones de las autoridades fiscales que determinen la existencia de un crédito fiscal, lo fijen en cantidad líquida o den las bases para su liquidación.
-
-II.- Contra el procedimiento administrativo de ejecución siempre que afirme:
-
-1o.- Que el crédito que se le exige se ha extinguido legalmente;
-
-2o.- Que el monto del crédito es inferior al exigido;
-
-3o.- Que no es deudor del crédito que se le exige o no es responsable de su pago;
-
-4o.- Que es propietario de los bienes embargados o acreedor preferente al Fisco, para ser pagado con el producto de los mismos;
-
-5o.- Que el procedimiento coactivo no se ha ajustado a la Ley. En este caso la oposición sólo podrá hacerse valer en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legalmente inembargables.
-
-III.- Contra la negativa de una autoridad competente para ordenar la devolución de un impuesto, derecho o aprovechamiento ilegalmente percibido.
-
-IV.- Contra los acuerdos que impongan sanciones por infracción a las leyes fiscales.
 
 #### SECCION CUARTA. DISPOSICIONES COMUNES A LA PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
 
@@ -3515,6 +3199,380 @@ También procederá la venta fuera de subasta, cuando el embargado señale al pr
 
 En caso de que los deudores de prestaciones fiscales tengan su residencia fuera del Estado, podrá el Tesorero General hacer efectivos los créditos fiscales mediante juicio ejecutivo civil que promoverá ante los Juzgados de Primera Instancia Civiles de la Ciudad de Chihuahua. En estos casos, la liquidación que formule la autoridad fiscal, se considerará un título ejecutivo.
 
+### CAPITULO XIV. DERECHOS
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+308.- Los derechos por la prestación de los servicios públicos que realizan las Dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento que provoquen por parte del Estado el gasto que deba ser remunerado por aquel. Tratándose de revalidación de engomados de derechos de control vehiculas (sic) y canje de placas, cuando éste deba realizarse con carácter general, la prestación a cargo de los usuarios se causará dentro de los tres primeros meses del año, salvo que la disposición que fije el derecho señale un plazo distinto.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+308-A.- Los derechos que señale la Ley de Ingresos del Estado, deberán ser cubiertos en la recaudación de rentas de la jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Dirección General de Finanzas y Administración.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+308-B.- El funcionario o empleado que preste el servicio, procederá a su realización al presentarle el particular el recibo que acredite su pago ante la recaudación de rentas respectiva o Dirección General de Finanzas y Administración del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-C.- El funcionario o empleado público que preste algún servicio por el cual se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable en su pago, sin perjuicio de las demás sanciones que procedan.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-D.- En caso de existir discrepancia en cuanto a la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-E.- De los servicios prestados por el Departamento de Gobernación, se causarán derechos por:
+
+I.- Legalización de firmas, expedición de certificaciones, constancias y copias certificadas.
+
+II.- Opinión para la adquisición de muebles inmuebles (sic) conforme a la fracción IV del artículo 27 de la Constitución Federal.
+
+III.- Expedición de constancias de no antecedentes penales.
+
+IV.- Opinión para la autorización de usos de explosivos y sus artificios.
+
+V.- Opinión para la realización de carreras de caballos, peleas de gallos y palenques.
+
+VI.- Opinión para la realización de rifas y sorteos.
+
+VII.- Opinión para la desincorporación de inmuebles del régimen de colonias para destinarlos a un fin distinto, a solicitud de parte interesada.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-F.- Por los servicios prestados por el Departamento del Registro Público de la Propiedad y del Notariado:
+
+I.- Expedición de Patente de Aspirante al ejercicio del Notariado.
+
+II.- Expedición de Patente de Notario.
+
+III.- Autorización de Protocolos Notariales y Libros de Registro de actos fuera de protocolo.
+
+IV.- Inscripciones en el Registro Público de la Propiedad y del Notariado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-G.- Por los servicios prestados por el Departamento del Registro Civil:
+
+I.- Actos del Registro Civil.
+
+II.- Expedición de copia certificada.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-H.- Por los servicios prestados por el Departamento de Educación Pública:
+
+I.- Matrícula de Títulos Profesionales.
+
+II.- Expedición de certificados por estudios realizados en escuelas clausuradas que hayan estado incorporadas al Departamento de Educación.
+
+III.- Revalidaciones, equivalencias y convalidaciones, por materia.
+
+IV.- Expedición de duplicado de la relación de estudios de escuelas a nivel elemental y medio básico.
+
+V.- Matrícula anual de establecimientos educativos particulares autorizados.
+
+VI.- Expedición de copias certificadas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-I.- Por los servicios prestados por la Oficina de Transporte:
+
+I.- Otorgamiento de concesiones de ruta para explotar el servicio de autotransporte de pasajeros en carreteras estatales, transporte urbano, transporte de materiales para construcción, transporte de carga, establecimiento de sitio de autos, transporte de servicio de pasajeros cuando el concesionario sea persona distinta al público usuario, incluyendo vehículos para servicio especial de turismo y de grúa.
+
+II.- Supervisión de transferencia de concesiones entre particulares.
+
+III.- Revalidación de concesiones.
+
+IV.- Ampliación de ruta del servicio público de transporte de pasajeros.
+
+V.- Extensión o cambio de ubicación de sitio de autos o de carga.
+
+VI.- Sustitución de vehículos del servicio público con vigencia de quince días.
+
+VII.- Expedición de tarjetón anual para concesionarios.
+
+VIII.- Expedición de copias certificadas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-J.- Por los servicios prestados directamente por la Dirección General de Comunicaciones y Obras Públicas:
+
+I.- Inscripción en el Padrón de Contratistas.
+
+II.- Modificación a los datos de inscripción.
+
+III.- Expedición de copias certificadas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+308-K.- Por los servicios prestados por la Dirección General de Finanzas y Administración:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+I.- Reposición de cédulas de empadronamiento.
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+II.- Inscripción en el padrón de proveedores.
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+III.- Revalidación al padrón de proveedores.
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+IV.- Expedición de constancias relativas al padrón vehicular y
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+V.- Expedición de certificados de inexistencia de registro de actas del estado civil por el Archivo General del Estado.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+VI.- Expedición de copias certificadas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-L.- Por los servicios prestados por la Procuraduría General de Justicia del Estado:
+
+I.- Expedición de constancias de no antecedentes penales.
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+II.- Expedición de constancias relativas a robo de vehículos y
+
+III.- Expedición de copias certificadas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-M.- Por los servicios prestados por la Dirección General de Desarrollo Rural:
+
+I.- Expedición de constancias de control ganadero y de fierro de herrar.
+
+II.- Expedición de mica de control ganadero y de fierro de herrar.
+
+III.- Duplicado de mica de fierro de herrar.
+
+IV.- Expedición de copias certificadas.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+308-N.- Por los servicios prestados por la Dirección General de Educación y Cultura:
+
+I.- Control de ejercicios profesionales.
+
+II.- Expedición de constancias relativas al registro de títulos profesionales.
+
+III.- Matrícula a prácticos para ejercer una profesión en las localidades en donde no haya profesionistas titulados.
+
+IV.- Expedición de cédulas por estudios técnicos.
+
+V.- Duplicado de cédulas profesionales y
+
+VI.- Expedición de constancias y copias certificadas.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+308-Ñ.- Por los servicios prestados por la Dirección General de Fomento Social:
+
+I.- Expedición de copias certificadas.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+308-O.- Por los servicios prestados por la Dirección General de Desarrollo Urbano y Ecología:
+
+I.- Por acceso a parques nacionales, reservas y áreas ecológicas cuya administración se haya otorgado al Estado.
+
+II.- Inscripción en el registro estatal de prestadores de servicios que realicen estudios de impacto ambiental.
+
+III.- Otorgamiento de licencias de funcionamiento a fuentes fijas que emitan olores, gases, partículas sólidas o líquidas a la atmósfera y
+
+IV.- Expedición de engomados.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+308-P.- Por los servicios prestados por la Imprenta de Gobierno:
+
+I.- Publicaciones en el Periódico Oficial del Estado y
+
+II.- Suscripciones anuales al Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
+
+308-Q.- Por los servicios prestados por las autoridades de tránsito:
+
+I.- Expedición de licencias de manejo.
+
+II.- Exámenes médicos.
+
+III.- Control vehicular.
+
+IV.- Servicio de grúa para vehículos mal estacionados y
+
+V.- Expedición de copias certificadas y constancias.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+309.- Por la prestación de los servicios indicados en el artículo anterior, se cobrarán las cuotas que fije el Congreso local en la tarifa que para el efecto expida, tomando en cuenta el valor de la erogación que los servicios ocasionen.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+310.- No causan los derechos a que se refiere este capítulo:
+
+I.- La legalización de firmas y la expedición de certificados o certificaciones en los procesos civiles, penales y laborales, que lleven a cabo los tribunales judiciales o del trabajo;
+
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1975)
+
+III.- La legalización de firmas y la expedición de certificados y certificaciones solicitadas por las Dependencias de la Federación, Estado o Municipios, para asuntos oficiales de su competencia, siempre que la solicitud no implique relevo de la obligación a cargo de un particular para exhibir el documento respectivo;
+
+IV.- El registro de actas de nacimiento en las oficinas públicas;
+
+V.- La expedición de actas de nacimiento, defunción y matrimonio a los miembros del ejército Nacional;
+
+VI.- Las certificaciones o copias certificadas que expida el Registro Público de la Propiedad o el de Comercio, a solicitud de las autoridades judiciales para que obren en causa criminal o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados; pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos;
+
+VII.- La expedición de certificados o copias certificadas del Registro Público de la Propiedad, sobre bienes o derechos de la Federación, de los Estados y los Municipios, así como la inscripción o anotación de documentos relativos a bienes o derechos de las mismas Entidades, siempre que ellas sean las directamente interesadas en asegurar para sí esos mismos bienes o derechos. Cuando tal servicio derive de la aplicación de la facultad económico-coactiva en el cobro de adeudos fiscales, los gastos serán a cargo de los causantes remisos si no ocurriere la adjudicación al Fisco de los bienes embargados;
+
+VIII.- Los certificados o copias certificadas del Registro Público de la Propiedad, que se expidan con relación a la dotación o restitución de Ejidos, siempre que los peticionarios sean autoridades o los comisariados ejidales;
+
+IX.- La inscripción en el Registro Público de la Propiedad de las resoluciones Presidenciales sobre dotación o restitución de Ejidos, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+X.- Las inscripciones preventivas a que se refiere el artículo 309 del Código Administrativo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+### CAPITULO XV. PRODUCTOS Y CONTRIBUCIONES ESPECIALES
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+311.- Los ingresos que el Estado obtenga por la explotación de sus bienes patrimoniales o por actividades que no correspondan al desarrollo de sus funciones propias de derecho público, se fijarán y recaudarán de acuerdo con las reglas que establezcan las leyes o reglamentos respectivos o, en su defecto, conforme a las bases generales establecidas por el Ejecutivo del Estado en las licencias, concesiones o contratos respectivos.
+
+Los ingresos que el Estado obtenga por contribuciones especiales, se fijarán y liquidarán de acuerdo con las reglas que establezcan las leyes o Reglamentos respectivos, y se destinarán a cubrir las erogaciones de las obras públicas que las motive. Se harán efectivas por medio del procedimiento de ejecución.
+
+### CAPITULO XVI. APROVECHAMIENTOS
+
+312.- Son aprovechamientos los ingresos a que se refiere el Cuarto Párrafo del artículo 31 de este Código y en ellos quedan comprendidos: Los recargos; las multas, herencias, legados y donaciones a favor de la Hacienda Pública y en general cualquier otro ingreso no clasificable como impuesto, derecho o producto.
+
+313.- Los aprovechamientos se harán efectivos, según proceda en cada caso, atendiendo a la naturaleza y origen del crédito, por medio del procedimiento de ejecución o por la vía judicial.
+
+### CAPITULO XVII. PARTICIPACIONES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
+
+314.- Quedan comprendidas en este Capítulo, las participaciones a Municipios derivadas de los ingresos provenientes de la Participación Federal al Estado, correspondientes al Fondo General de Participaciones y al Impuesto sobre Tenencia o Uso de Vehículos, así como las derivadas de los Impuestos Estatales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
+
+315.- Las participaciones a los Municipios del Estado se integrarán de la siguiente forma:
+
+I.- 20% (veinte por ciento) sobre la participación Federal al Estado, por concepto de Fondo General de Participaciones, así como las que se deriven del Impuesto sobre Tenencia o Uso de Vehículos.
+
+La participación total a que se refiere esta fracción, así como la referente al fondo de Fomento Municipal se distribuirá entre los Municipios, de conformidad con los estudios económicos que al efecto se elaboren, pudiendo atenderse, entre otros, a los siguientes elementos; número de habitantes, importe de su Presupuestos de Egresos, gasto público Municipal por habitante y número de localidades en su jurisdicción.
+
+II.- 20% (veinte por ciento) sobre el ingreso del Estado, por concepto de Impuestos Estatales no destinados a un fin específico.
+
+La participación total a que se refiere esta fracción, se distribuirá entre los Municipios de la siguiente manera:
+
+A).- El 50% (cincuenta por ciento) de dicho fondo, en proporción directa a la población de cada Municipio.
+
+B).- El 50% (cincuenta por ciento) restante, de acuerdo a los factores de incremento en la Recaudación del Impuesto Predial, que se determine anualmente.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
+
+316.- Como resultado de los procedimientos de distribución de participaciones, a que se refiere el Artículo anterior, anualmente fijará el Congreso del Estado, en la Ley de Ingresos para los Municipios, los porcentajes de participación sobre el producto total que les corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
+
+317.- El importe de las participaciones a que se contrae la fracción II del artículo 315, se destinará en un ciento por ciento a programas de obra pública. En condiciones excepcionales plenamente justificadas ante la Comisión de Gasto y Financiamiento, podrán destinarse a otros fines.
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+318.- La representación de las personas físicas o morales ante las autoridades fiscales, se acreditará en los términos de la legislación común.
+
+En ningún procedimiento fiscal se admitirá la gestión de negocios. Los interesados podrán autorizar por escrito, en cada caso, a persona que en su nombre reciba notificaciones, ofrezca y rinda pruebas e interponga recursos dentro del procedimiento administrativo.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+319.- Los apoderados y representantes legítimos, deberán acreditar debidamente su personalidad al comparecer ante las autoridades fiscales del Estado. Su omisión faculta a éstas para desechar de plano su instancia.
+
+320.- Las notificaciones de los citatorios, emplazamientos, solicitudes de informes o documentos y las de acuerdos administrativos, destinados a los particulares, se harán:
+
+I.- Personalmente los requerimientos de pago y la notificación del crédito determinado por la autoridad fiscal.
+
+II.- Mediante oficio entregado por mensajero o por correo certificado con acuse de recibo los restantes actos.
+
+III.- Por edictos que se publiquen por dos veces consecutivas en el Periódico Oficial del Estado, únicamente en los casos en que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio, se encuentre fuera del Estado sin haber dejado representante legal acreditado ante las autoridades fiscales o hubiere fallecido y no se conozca el albacea de la sucesión. En estos casos los edictos contendrán un resumen de las resoluciones por notificar.
+
+321.- Los acuerdos distintos a los señalados en el artículo anterior, se notificarán por medio de oficio o telegrama.
+
+322.- Las notificaciones a las autoridades se harán por medio de oficio; excepcionalmente por la vía telegráfica cuando se trate de resoluciones o acuerdos que exijan cumplimiento inmediato.
+
+323.- Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate; a falta de señalamiento, se estará a las reglas del artículo 72 de este Código.
+
+Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato o con un agente de policía.
+
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
+
+En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
+
+De las diligencias en que conste la notificación o cita, el notificador tomará razón por escrito.
+
+324.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta de domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
+
+325.- Todas las notificaciones surtirán sus efectos el mismo día en que se practiquen con el interesado, representante o la persona con quien se entendió la diligencia, se fije el instructivo, se reciba el telegrama u oficio, o se haya hecho la última publicación de los edictos, en su caso.
+
+Finalmente, desde la fecha en que el interesado o su representante manifiesten que conocen la resolución o acuerdo respectivo si lo hacen con anterioridad a la fecha en que la notificación deba surtir sus efectos.
+
+326.- Cuando una notificación se haga en forma distinta a la señalada en los artículos anteriores será nula y así deberá declararse de oficio o a petición de parte; la nulidad deberá reclamarse en la actuación o promoción subsecuente en que intervenga el interesado; si así no lo hiciere la notificación quedará convalidada.
+
+327.- La declaratoria de nulidad de notificaciones, traerá como consecuencia la nulidad de las actuaciones posteriores a la notificación anulada y que tengan relación con ella.
+
+328.- Al trámite de la solicitud de nulidad se aplicarán, en lo conducente, las disposiciones del artículo 397. Mientras se resuelve quedará en suspenso el término legal para impugnar la resolución de fondo.
+
+Cuando se haya iniciado el juicio de oposición o interpuesto los recursos que prevee (sic) este Código, será improcedente la solicitud de nulidad de actuaciones ante la autoridad administrativa y se hará valer mediante ampliación de la demanda respectiva.
+
+# LIBRO SEGUNDO. PROCEDIMIENTOS FISCALES
+
+## TITULO PRIMERO. PROCEDIMIENTO ADMINISTRATIVO
+
+### CAPITULO II. PROCEDIMIENTO DE EJECUCION
+
+### CAPITULO I. MEDIOS DE IMPUGNACION
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+394.- Los actos en materia fiscal pueden impugnarse mediante los recursos de revisión y reconsideración o por medio del juicio de oposición promovido ante la autoridad judicial, pudiendo elegirse cualquiera de esos medios. La resolución que se dicte en los recursos administrativos será también impugnable en el juicio de oposición.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+Tratándose de nulidad de notificaciones, tercerías, prescripción, caducidad e inconformidades contra las actas de visita, es obligatorio para el particular agotar los procedimientos respectivos antes de iniciar el recurso o el juicio.
+
+El Tesorero General igualmente podrá impugnar mediante juicio de oposición, las resoluciones de las autoridades fiscales que hayan sido favorables a los particulares.
+
+395.- El particular afectado podrá emplear cualesquiera de los medios de impugnación que establece el artículo anterior:
+
+I.- Contra las resoluciones y liquidaciones de las autoridades fiscales que determinen la existencia de un crédito fiscal, lo fijen en cantidad líquida o den las bases para su liquidación.
+
+II.- Contra el procedimiento administrativo de ejecución siempre que afirme:
+
+1o.- Que el crédito que se le exige se ha extinguido legalmente;
+
+2o.- Que el monto del crédito es inferior al exigido;
+
+3o.- Que no es deudor del crédito que se le exige o no es responsable de su pago;
+
+4o.- Que es propietario de los bienes embargados o acreedor preferente al Fisco, para ser pagado con el producto de los mismos;
+
+5o.- Que el procedimiento coactivo no se ha ajustado a la Ley. En este caso la oposición sólo podrá hacerse valer en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legalmente inembargables.
+
+III.- Contra la negativa de una autoridad competente para ordenar la devolución de un impuesto, derecho o aprovechamiento ilegalmente percibido.
+
+IV.- Contra los acuerdos que impongan sanciones por infracción a las leyes fiscales.
+
 #### SECCION TERCERA. TERCERIAS
 
 382.- Cuando se hubieren embargado bienes propiedad de tercero que no tenga responsabilidad solidaria en el adeudo por el que se siga el procedimiento de ejecución, podrá promoverse ante la autoridad ejecutora que siga dicho procedimiento, en cualquier tiempo, mientras no se haya fincado el remate, tercería excluyente de dominio.
@@ -3554,44 +3612,6 @@ Cuando la autoridad ejecutora encuentre que los documentos presentados por el te
 391.- Para que pueda cumplirse la resolución dictada por la autoridad ejecutora en una tercería, sea excluyente de dominio o de preferencia, es necesario, en todo caso que, previa revisión del expediente respectivo, la apruebe el Tesorero General del Estado.
 
 392.- Si la resolución del Tesorero General del Estado es contraria al tercerista podrá éste ocurrir ante el Supremo Tribunal de Justicia a promover el juicio de oposición a que se refiere este Código o interponer el recurso de reconsideración.
-
-## TITULO SEGUNDO. DEFENSA JURIDICA DEL PARTICULAR EN MATERIA FISCAL Y PROCESO DE LESIVIDAD
-
-### CAPITULO II. RECURSOS DE REVISION Y RECONSIDERACION
-
-396.- El recurso será de revisión cuando el Tesorero General del Estado resuelva inconformidades de los particulares respecto a actos dictados por otras autoridades fiscales. Será de reconsideración cuando el Tesorero General del Estado resuelva inconformidades de particulares respecto de actos dictados por él mismo.
-
-397.- La tramitación de los recursos administrativos en materia fiscal se sujetará a las normas siguientes:
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-I.- Se interpondrán ante el Tesorero General del Estado precisamente por escrito, en el que se expresarán: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
-
-II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna. Si el recurrente tiene su domicilio en población distinta del lugar de residencia de la Tesorería General del Estado, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, el del día en que se haga la entrega en la Oficina de Correos o a la autoridad que efectuó la notificación.
-
-III.- Recibida la instancia, el Tesorero General del Estado recabará de oficio las constancias necesarias para determinar la existencia del acto impugnado y la fecha de su notificación; en vista de lo anterior acordará si es de admitirse o desecharse el recurso, según que se haya interpuesto dentro o fuera del término legal.
-
-IV.- El Tesorero General del Estado, en su caso, proveerá desde luego a la recepción de las pruebas ofrecidas. Al efecto señalará un término de quince días dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido, presentar a sus testigos y peritos exhibiendo previamente los cuestionarios que éstos últimos deban resolver. Para el examen de los testigos sólo será necesario acompañar por escrito los interrogatorios, cuando residan fuera de la ciudad de Chihuahua, caso en el cual el Tesorero señalará la autoridad fiscal ante la que deba desahogarse la probanza.
-
-V.- Si por la naturaleza de las pruebas ofrecidas o porque su recepción dependa de terceros, el Tesorero considera insuficiente el término de quince días, podrá ampliarlo hasta por quince días más.
-
-VI.- Para la resolución del recurso, el Tesorero General del Estado pedirá, en su caso, a las autoridades fiscales que hayan intervenido en la formación del acto impugnado los informes que estime pertinentes y en general todos los elementos que sirvieron de base para dictarlo.
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-VII.- Recibidas las pruebas y los informes se abrirá un período de alegatos de 5 días, dictándose resolución dentro de un término que no excederá de 30 días.
-
-VIII.- Los acuerdos que se dicten se notificarán por correo certificado con acuse de recibo o personalmente en la Tesorería si los interesados se presentan. Si no se hubiere señalado domicilio se tendrá por practicada la notificación el día siguiente en que se hubiere dictado el acuerdo.
-
-IX.- Los casos de improcedencia y causas de sobreseimiento previstos para el juicio de oposición, se aplicarán a los recursos administrativos en cuanto no se opongan a su naturaleza.
-
-X.- Contra los acuerdos dictados durante el procedimiento, no procederá ningún recurso. La resolución que le ponga fin será impugnable en el juicio de oposición.
-
-### CAPITULO III. JUICIO DE OPOSICION
-
-### CAPITULO I. FOMENTO A LA INDUSTRIA
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION CUARTA. SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -3684,6 +3704,44 @@ I.- Se incluirá en ellos el día del vencimiento y empezará a correr el día s
 II.- Se contarán los días naturales, excluyendo los inhábiles y aquellos en los que se suspendan las labores del Tribunal;
 
 III.- Los términos serán comunes con excepción de los que se conceden para la interposición de recursos y para contestar la demanda.
+
+## TITULO SEGUNDO. DEFENSA JURIDICA DEL PARTICULAR EN MATERIA FISCAL Y PROCESO DE LESIVIDAD
+
+### CAPITULO II. RECURSOS DE REVISION Y RECONSIDERACION
+
+396.- El recurso será de revisión cuando el Tesorero General del Estado resuelva inconformidades de los particulares respecto a actos dictados por otras autoridades fiscales. Será de reconsideración cuando el Tesorero General del Estado resuelva inconformidades de particulares respecto de actos dictados por él mismo.
+
+397.- La tramitación de los recursos administrativos en materia fiscal se sujetará a las normas siguientes:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+I.- Se interpondrán ante el Tesorero General del Estado precisamente por escrito, en el que se expresarán: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
+
+II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna. Si el recurrente tiene su domicilio en población distinta del lugar de residencia de la Tesorería General del Estado, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución. En estos casos, se tendrá como fecha de presentación del escrito respectivo, el del día en que se haga la entrega en la Oficina de Correos o a la autoridad que efectuó la notificación.
+
+III.- Recibida la instancia, el Tesorero General del Estado recabará de oficio las constancias necesarias para determinar la existencia del acto impugnado y la fecha de su notificación; en vista de lo anterior acordará si es de admitirse o desecharse el recurso, según que se haya interpuesto dentro o fuera del término legal.
+
+IV.- El Tesorero General del Estado, en su caso, proveerá desde luego a la recepción de las pruebas ofrecidas. Al efecto señalará un término de quince días dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido, presentar a sus testigos y peritos exhibiendo previamente los cuestionarios que éstos últimos deban resolver. Para el examen de los testigos sólo será necesario acompañar por escrito los interrogatorios, cuando residan fuera de la ciudad de Chihuahua, caso en el cual el Tesorero señalará la autoridad fiscal ante la que deba desahogarse la probanza.
+
+V.- Si por la naturaleza de las pruebas ofrecidas o porque su recepción dependa de terceros, el Tesorero considera insuficiente el término de quince días, podrá ampliarlo hasta por quince días más.
+
+VI.- Para la resolución del recurso, el Tesorero General del Estado pedirá, en su caso, a las autoridades fiscales que hayan intervenido en la formación del acto impugnado los informes que estime pertinentes y en general todos los elementos que sirvieron de base para dictarlo.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+VII.- Recibidas las pruebas y los informes se abrirá un período de alegatos de 5 días, dictándose resolución dentro de un término que no excederá de 30 días.
+
+VIII.- Los acuerdos que se dicten se notificarán por correo certificado con acuse de recibo o personalmente en la Tesorería si los interesados se presentan. Si no se hubiere señalado domicilio se tendrá por practicada la notificación el día siguiente en que se hubiere dictado el acuerdo.
+
+IX.- Los casos de improcedencia y causas de sobreseimiento previstos para el juicio de oposición, se aplicarán a los recursos administrativos en cuanto no se opongan a su naturaleza.
+
+X.- Contra los acuerdos dictados durante el procedimiento, no procederá ningún recurso. La resolución que le ponga fin será impugnable en el juicio de oposición.
+
+### CAPITULO III. JUICIO DE OPOSICION
+
+### CAPITULO I. FOMENTO A LA INDUSTRIA
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION TERCERA. CASOS DE IMPROCEDENCIA Y SOBRESEIMIENTO
 
@@ -3809,16 +3867,6 @@ Si la autoridad no contesta el traslado o no se refiere a todos los hechos en su
 
 Interpuesto en tiempo el recurso el Tribunal suspenderá la ejecución del auto recurrido y ordenará correr traslado del escrito del recurrente a la parte contraria por el término de tres días. Evacuado que sea o concluído el plazo para hacerlo, sin más trámite se dictará resolución dentro de las 24 horas siguientes. No será necesario cumplir estas formalidades si el recurso se interpone contra acuerdos dictados dentro de la audiencia.
 
-# LIBRO TERCERO. FOMENTO AL DESARROLLO SOCIO-ECONOMICO
-
-## TITULO UNICO. FOMENTO A LA INDUSTRIA Y VIVIENDA
-
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-### CAPITULO UNICO. FOMENTO A LA VIVIENDA
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
 #### SECCION OCTAVA. AUDIENCIA Y FALLO
 
 428.- En el mismo auto en que se dé entrada a la demanda se citará para la audiencia del juicio, que deberá celebrarse dentro de un término que no excederá de un mes.
@@ -3926,6 +3974,16 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 452.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+# LIBRO TERCERO. FOMENTO AL DESARROLLO SOCIO-ECONOMICO
+
+## TITULO UNICO. FOMENTO A LA INDUSTRIA Y VIVIENDA
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+### CAPITULO UNICO. FOMENTO A LA VIVIENDA
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION TERCERA. PROCEDIMIENTO
 
@@ -4038,6 +4096,32 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 496.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
 497.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
+481.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+482.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+483.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+484.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION SEGUNDA. EXENCIONES
+
+485.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+486.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+487.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+488.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+489.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ## TRANSITORIOS.
 
@@ -4300,3 +4384,13 @@ P.O. 9 DE FEBRERO DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día 1° de enero de 1994.
+
+P.O. 18 DE FEBRERO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día 1ero. de enero de 1995.
+
+###### ARTICULO SEGUNDO.
+
+Las cantidades mencionadas en este Decreto, se refieren a pesos de 1995.
