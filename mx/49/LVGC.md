@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1995-12-22"
+last_updated: "1996-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE NOVIEMBRE DE 1996.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -3204,9 +3204,11 @@ Se impondrá multa de cincuenta a cinco mil pesos y prisión hasta por seis mese
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+
 ###### ARTICULO 571.
 
-Se castigará con la pena que señala el Código Penal para el delito de revelación de secretos, al que indebidamente y en perjuicio de otro, intercepte, divulgue, revele o aproveche los mensajes, noticias o informaciones que escuche y que no estén destinados a él o al público en general.
+Los concesionarios o permisionarios que intervengan o permitan la intervención de comunicaciones sin que exista mandato de autoridad judicial competente, o que no cumplan con la orden judicial de intervención, serán sancionados con multa de diez mil a cincuenta mil días de salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción y deberán pagar la reparación del daño que resulte. En caso de reincidencia se duplicará la multa señalada.
 
 Los concesionarios o permisionarios de comunicaciones eléctricas que infrinjan lo dispuesto en el artículo 384 serán castigados con prisión de quince días a un año y multa de diez a mil pesos.
 
@@ -3737,3 +3739,9 @@ SEGUNDO. Se derogan los artículos 327; 328; 371 fracción I, incisos b) y c) y 
 Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando hasta en tanto no sean derogadas por otras, salvo en lo que se opongan a la presente Ley.
 
 Cuando en otras disposiciones se haga referencia a la figura de comandante de aeropuerto, se entenderá como comandante de aeródromo en los términos de esta Ley.
+
+D.O.F. 7 DE NOVIEMBRE DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
