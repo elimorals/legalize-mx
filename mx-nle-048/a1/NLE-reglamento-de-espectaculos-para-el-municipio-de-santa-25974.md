@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-espectaculos-para-el-municipio-de-santa-25974"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-11-27"
-last_updated: "1991-11-27"
+last_updated: "1992-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ESPECTACULOS PARA EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1992.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de noviembre de 1991.
 
@@ -69,6 +69,10 @@ ART. 10.- Los teatros, cines, salones de baile y demás salas de espectáculos, 
 
 ART. 11.- Queda estrictamente prohibida la entrada a cualquier tipo de esepctáculo (sic) a personas armadas, a excepción hecha de las personas encargadas de vigilar el orden público.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1992)</small>
+
+Para los efectos de éste artículo, los cabarets, centros nocturnos y discotecas, deberán contar con personal de vigilancia que impida la entrada a personas armadas y menores de edad así como guardar el orden.
+
 ART. 12.- En los casos en que el espectáculo lo amerite, deberá existir un Inspector Autoridad, el cual será nombrado por la Autoridad Municipal. Contará también, según el caso, con auxiliares a fin de que le asistan para el mejor desempeño de sus funciones.
 
 ART. 13.- El Inspector Autoridad, es la persona competente para decidir de los asuntos de inmediata resolución que surgieren y en consecuencia, las determinaciones que dicte, serán debidamente respetadas y de su exclusiva responsabilidad.
@@ -82,6 +86,10 @@ ART. 16.- El Inspector Autoridad, deberá rendir a la Autoridad Municipal un inf
 ART. 17.- Deberán existir teléfonos públicos dentro de las salas de espectáculos, para uso de los asistentes.
 
 ART. 18.- Cada sala de espectáculo tendrá un cupo límite señalado por la Autoridad.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1992)</small>
+
+Para lo cual, se emitirá unicamente el boletaje respectivo.
 
 ART. 19.- Las instalaciones sanitarias, están sujetas a aprobación de la Dirección de Salud Pública y habrá instalaciones de servicios sanitarios, mingitorios y lavabos en perfectas condiciones de higiene y en número suficiente considerando la capacidad del local, debiendo existir departamentos por separado para damas y caballeros.
 
@@ -209,6 +217,16 @@ ART. 53.- Queda estrictamente prohibido que los artístas, antes, entre o despu�
 
 ART. 54.- Queda prohibida la entrada a éstos lugares, a menores de 18 años, a los militares y policías uniformados.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1992)</small>
+
+Los policías uniformados solo podrán ingresar cuando así lo determine la autoridad competente para la práctica de una inspección, o cumplimentación de algún acuerdo.
+
+La sanción podrá disminuírse, sí al momento de calificar el riesgo se demuestra que no se atentó contra la integridad de los asistentes. En caso de reincidencia, se hará uso de la fuerza pública, quedando a criterio de la Autoridad competente.
+
+a) La Clausura provisional, del negocio; ó
+
+b) La Clausura definitiva.
+
 ART. 55.- Las licencias otorgadas a los centros nocturnos o cabarets, discotecas, y los permisos expedidos para los salones de baile, clubes y centros sociales, no constituirán un derecho absoluto en favor de los interesados, por lo cual pueden ser revocadas a juicio de la Autoridad, cuando haya lugar para ello.
 
 ART. 56.- El horario para los centros nocturnos o cabarets de primera y segunda, será de las 20:00 horas a las 2:00 A.M. del día siguiente.
@@ -284,3 +302,15 @@ SRA. MA. TERESA GARCIA DE SEPULVEDA
 SECRETARIO DEL AYUNTAMIENTO
 
 LIC. JOSE G. ABRAHAM SALINAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 1992.
+
+###### ARTICULO 1o.
+
+Las presentes modificaciones a este reglamento entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y la Gaceta de este Municipio.
+
+###### ARTICULO 2o.
+
+El presente reglamento deja sin efecto los artículos antes reformados.
