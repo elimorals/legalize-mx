@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "1997-11-02"
+last_updated: "2000-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2000.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -4865,6 +4865,8 @@ Las sentencias que declaren la interdicción y las que le pongan término, se pu
 
 ### CAPITULO VI. Adopción
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 807.
 
 Ninguna tutela podrá conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
@@ -5131,35 +5133,31 @@ La venta de los bienes indivisos pertenecientes a mayores o menores de edad, se 
 
 ###### ARTICULO 858.
 
-El que pretenda adoptar a alguna persona deberá acreditar:
+El que pretenda adoptar a uno o más menores o a uno o más discapacitados deberá acreditar los requisitos establecidos en el Artículo 413 del Código Civil.
 
-I.- Que es mayor de edad; y tiene por lo menos quince años más de edad que la persona que trata de adoptar;
+En la promoción inicial deberá manifestarse: El nombre y edad del menor o discapacitado, el nombre y domicilio de quienes ejercen sobre él la patria potestad o la tutela, y en su caso, el de la persona o institución de asistencia social pública o privada que lo tenga acogido.
 
-II.- Que no tiene hijos;
-
-III.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trate de adoptar;
-
-IV.- Que la adopción es benéfica para la persona que trata de adoptarse;
-
-V.- Que es persona de buenas costumbres.
-
-En la promoción inicial deberá manifestarse: el nombre y edad del menor o incapacitado, el nombre y domicilio de quienes ejercen sobre él la patria potestad o la tutela y, en su caso, el de la persona o institución de beneficencia que lo tenga acogido.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 859.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 420 y 421 del Código Civil, el tribunal resolverá dentro del tercer día.
+Rendidas las justificaciones que se exigen en el Artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme al Artículo 420 del Código Civil, el tribunal resolverá dentro del tercer día.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 860.
 
-Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo que se dispone el artículo 430 del Código Civil.
+Cuando el adoptante y el adoptado pidan que la adopción simple sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que se resolverá conforme a lo que dispone el Artículo 430 del Código Civil.
 
 Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
 
 Para acreditar cualquier hecho relativo a la conveniencia de la revocación en los casos del artículo anterior, podrán rendirse toda clase de pruebas.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 861.
 
-La impugnación de la adopción y su revocación en los casos de los artículos 417 y 428 fracción II del Código Civil se tramitarán en la vía incidental. Siendo apelable la resolución que decide el incidente.
+La impugnación de la adopción simple y su revocación en los casos de los Artículo (sic) 421-A y 428 fracción II del Código Civil se tramitarán en la vía incidental. Siendo apelable la resolución que decide el incidente.
 
 ###### ARTICULO 862.
 
@@ -5444,6 +5442,12 @@ P.O. 14 DE MAYO DE 1995.
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE NOVIEMBRE DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE MARZO DE 2000.
 
 ###### ARTICULO UNICO.
 
