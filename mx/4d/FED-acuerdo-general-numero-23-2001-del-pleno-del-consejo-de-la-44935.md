@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2002-12-13"
+last_updated: "2003-04-30"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2003.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -95,7 +95,7 @@ XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
 
 XXI.- VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
 
-> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
 
@@ -113,7 +113,7 @@ XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 
 XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
 
-> <small>(ADICIONADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
 
 XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
 
@@ -197,7 +197,9 @@ VII.- SEPTIMO CIRCUITO:
 
 2.- Un tribunal unitario con residencia en Boca del Río.
 
-3.- Ocho juzgados de distrito en el Estado de Veracruz: dos con sede en Xalapa, cuatro con residencia en Boca del Río y dos con sede en Tuxpan.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 20/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+3.- Nueve juzgados de distrito en el Estado de Veracruz: dos con sede en Xalapa, cuatro con residencia en Boca del Río, dos con sede en Tuxpan y uno con residencia en Poza Rica.
 
 VIII.- OCTAVO CIRCUITO:
 
@@ -595,7 +597,13 @@ Los juzgados de distrito en el Estado de Veracruz, con residencia en Xalapa, eje
 
 Los juzgados de distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acula, Acultzingo, Alvarado, Amatitlán, Amatlán de los Reyes, Angel R. Cabada, Aquila, Astacinga, Atlahuilco, Atoyac, Atzacan, Boca del Río, Camarón de Tejeda, Camerino Z. Mendoza, Carlos A. Carrillo, Carrillo Puerto, Catemaco, Coetzala, Córdoba, Cosamaloapan, Cotaxtla, Cuichapa, Cuitláhuac, Chacaltianguis, Chocamán, Fortín, Hueyapan de Ocampo, Huiloapan de Cuauhtémoc, Ignacio de la Llave, Isla, Ixhuatlancillo, Ixmatlahuacán, Ixtaczoquitlán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, La Perla, Lerdo de Tejada, Los Reyes, Magdalena, Maltrata, Manlio Fabio Altamirano, Mariano Escobedo, Medellín, Mixtla de Altamirano, Naranjal, Nogales, Omealca, Orizaba, Otatitlán, Paso de Ovejas, Paso del Macho, Playa Vicente, Puente Nacional, Rafael Delgado, Río Blanco, Saltabarranca, San Andrés Tenejapan, San Andrés Tuxtla, Santiago Tuxtla, Soledad Atzompa, Soledad de Doblado, Tehuipango, Tequila, Texhuacán, Tezonapa, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tlaquilpan, Tlilapan, Tomatlán, Tres Valles, Tuxtilla, Ursulo Galván, Veracruz, Xoxocotla, Yanga y Zongolica.
 
-Los juzgados de distrito en el Estado de Veracruz, con residencia en Tuxpan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Castillo de Teayo, Cazones de Herrera, Cerro Azul, Citlaltépetl, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Chalma, Chiconamel, Chicontepec, Chinampa de Gorostiza, Chontla, Chumatlán, El Higo, Espinal, Filomeno Mata, Gutiérrez Zamora, Huayacocotla, Ilamatlán, Ixcatepec, Ixhuatlán de Madero, Mecatlán, Naranjos Amatlán, Ozuluama, Pánuco, Papantla, Platón Sánchez, Poza Rica de Hidalgo, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Tecolutla, Temapache, Tempoal, Tepetzintla, Texcatepec, Tihuatlán, Tlachichilco, Tuxpan, Zacualpan, Zontecomatlán y Zozocolco de Hidalgo.
+> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 20/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+Los juzgados de distrito en el Estado de Veracruz, con residencia en Tuxpan, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cerro Azul, Citlaltépetl, Chalma, Chiconamel, Chicontepec, Chinampa de Gorostiza, Chontla, El Higo, Huayacocotla, Llamatlán, Ixcatepec, Ixhuatlán de Madero, Naranjos Amatlán, Ozuluama, Pánuco, Platón Sánchez, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Temapache, Tempoal, Tepetzintla, Texcatepec, Tlachichilco, Tuxpan, Zacualpan y Zontecomatlán.
+
+> <small>(ADICIONADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 20/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE ABRIL DE 2003)</small>
+
+El Juzgado de Distrito en el Estado de Veracruz, con sede en Poza Rica, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Castillo de Teayo, Cazones de Herrera, Coahuitlán, Coatzintla, Coyutla, Coxquihui, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Papantla, Poza Rica de Hidalgo, Tecolutla, Tihuatlán y Zozocolco de Hidalgo.
 
 VIII.- OCTAVO CIRCUITO:
 
@@ -702,8 +710,6 @@ El juzgado de distrito en el Estado de Guerrero, con residencia en Iguala, ejerc
 XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
 Los juzgados de distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia Entidad Federativa.
-
-> <small>(DEROGADO SEGUNDO PARRAFO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
 
 XXIII.- VIGESIMO TERCER CIRCUITO:
 
@@ -1062,3 +1068,9 @@ PRIMERO.-Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.-Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.-Se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos del Consejo de la Judicatura Federal, que atiendan la situación laboral del personal adscrito al Tribunal Unitario del Vigésimo Segundo Circuito que integrará el Tribunal Unitario del Vigésimo Noveno Circuito.
+
+D.O.F. 30 DE ABRIL DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
