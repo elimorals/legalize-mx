@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2000-05-27"
+last_updated: "2000-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -77,19 +77,21 @@ El Congreso funcionará en reuniones que se denominarán sesiones.
 
 El Poder Legislativo tendrá su residencia en la capital del Estado, sin perjuicio de que pueda sesionar en cualquier lugar del mismo, que para el efecto acuerde la Asamblea.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 6º.
 
-El Congreso tendrá dos períodos ordinarios de sesiones cada año y las sesiones o períodos extraordinarios necesarios convocados por la Diputación Permanente, debiendo ocuparse en estos últimos sólo de los asuntos para los cuales se haya hecho la convocatoria.
+El Congreso tendrá dos períodos ordinarios de sesiones cada año y las sesiones o períodos extraordinarios necesarios convocados por la Comisión Permanente, debiendo ocuparse en estos últimos sólo de los asuntos para los cuales se haya hecho la convocatoria.
 
 El primer período ordinario de sesiones inicia el 1º de octubre y termina el 15 de enero del año siguiente. El segundo dará principio el 15 de marzo y termina el 15 de junio del mismo año. Al abrir y cerrar sus periodos ordinarios de sesiones lo hará por Decreto.
 
 Se consideran días hábiles para el trabajo legislativo y parlamentario, todos los comprendidos dentro de cada uno de los períodos.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 7º.
 
-El Recinto Parlamentario es inviolable. Queda prohibido a toda fuerza pública, tener acceso al mismo, salvo con autorización o a solicitud expresa del Presidente del Congreso o de la Diputación Permanente, bajo cuyo mando quedará, en todo caso.
+El Recinto Parlamentario es inviolable. Queda prohibido a toda fuerza pública, tener acceso al mismo, salvo con autorización o a solicitud expresa del Presidente del Congreso o de la Comisión Permanente, bajo cuyo mando quedará, en todo caso.
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
@@ -141,21 +143,27 @@ Los Diputados entrarán en el ejercicio de su encargo inmediatamente después de
 
 A los Diputados no podrá exigírseles responsabilidad legal alguna por las opiniones que manifiesten en el desempeño de sus cargos, tampoco podrán ser reconvenidos o enjuiciados por ellas y gozarán del fuero que consagra la Constitución General de la República y la Particular del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 16.
 
-El Presidente de la Directiva, o en su caso, el de la Diputación Permanente, velará por el respeto al fuero constitucional de los Diputados. En demandas del orden civil, mercantil y laboral no gozan de fuero alguno. Todo acto de autoridad que vulnere el fuero de los Diputados, se castigará conforme lo previsto por las leyes respectivas.
+El Presidente de la Directiva, o en su caso, el de la Comisión Permanente, velará por el respeto al fuero constitucional de los Diputados. En demandas del orden civil, mercantil y laboral no gozan de fuero alguno. Todo acto de autoridad que vulnere el fuero de los Diputados, se castigará conforme lo previsto por las leyes respectivas.
 
 ###### ARTICULO 17.
 
 Los Diputados serán responsables por los delitos comunes que cometan durante el tiempo de su encargo y por los actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, pero no podrán ser detenidos, ni ejercitarse acción penal en su contra, hasta que seguido el procedimiento constitucional, se decida la separación de su encargo.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 18.
 
-Ningún Diputado podrá excusarse de realizar las tareas propias de su encargo, salvo causa grave que calificará el Congreso o la Diputación Permanente, en su caso.
+Ningún Diputado podrá excusarse de realizar las tareas propias de su encargo, salvo causa grave que calificará el Congreso o la Comisión Permanente, en su caso.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 19.
 
-Compete al Congreso o, en su caso, a la Diputación Permanente, conocer de las excusas, incapacidades o licencias que presenten los Diputados electos o en funciones, para el desempeño de su encargo. El Presidente de la Directiva o, en su caso, de la Diputación Permanente turnará el escrito de solicitud a la comisión respectiva para su estudio y dictamen. El Congreso o la Diputación Permanente, en su caso, emitirá acuerdo declarando la procedencia de ésta, llamando al suplente respectivo.
+Compete al Congreso o, en su caso, a la Comisión Permanente, conocer de las excusas, incapacidades o licencias que presenten los Diputados electos o en funciones, para el desempeño de su encargo. El Presidente de la Directiva o, en su caso, de la Comisión Permanente turnará el escrito de solicitud a la comisión respectiva para su estudio y dictamen. El Congreso o la Comisión Permanente, en su caso, emitirá acuerdo declarando la procedencia de aquella, llamando al suplente respectivo.
 
 ###### ARTICULO 20.
 
@@ -193,7 +201,9 @@ IX.- Recibir los apoyos financieros o materiales y los servicios de recursos hum
 
 X.- Realizar gestiones ante las diversas instancias de autoridad de los asuntos que les planteen sus representados; y
 
-XI.- Los demás que les confieran la Constitución, esta Ley, el Reglamento o se deriven de acuerdos que emitan el Congreso o la Diputación Permanente.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
+XI.- Las demás que le confieran la Constitución, esta Ley, el Reglamento o se deriven de acuerdos que emitan el Congreso o la Comisión Permanente.
 
 ###### ARTICULO 23.
 
@@ -201,7 +211,9 @@ Son obligaciones de los Diputados:
 
 I.- Rendir protesta al tomar posesión de su encargo;
 
-II.- Acatar las disposiciones del Congreso, de su Directiva y de la Diputación Permanente de conformidad con la presente Ley;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
+II.- Acatar las disposiciones del Congreso, de su Directiva y de la Comisión Permanente de conformidad con la presente Ley;
 
 III.- Asistir puntualmente a las sesiones, tanto del Congreso, como de las comisiones de las que formen parte;
 
@@ -227,7 +239,9 @@ XI.- Avisar a la Directiva, o al Presidente de la comisión respectiva, en su ca
 
 XII.- Observar y cumplir las normas de esta Ley y su Reglamento;
 
-XIII.- Desempeñar las comisiones especiales que les encomiende el Congreso, el Presidente o, en su caso la Diputación Permanente;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
+XIII.- Desempeñar las comisiones especiales que les encomiende el Congreso, el Presidente o, en su caso la Comisión Permanente;
 
 XIV.- Representar al Congreso en los actos, ceremonias o reuniones a las que sean designados;
 
@@ -237,7 +251,9 @@ XVI.- Presentar, por conducto de la comisión respectiva, la declaración patrim
 
 XVII.- Elaborar en tiempo y forma los dictámenes que le correspondan a la comisión a que pertenezca; y
 
-XVIII.- Las demás que les señalen la Constitución, esta Ley, su Reglamento o se deriven de acuerdos que emita la Asamblea o la Diputación Permanente.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
+XVIII.- Las demás que les señalen la Constitución, esta Ley, su Reglamento o se deriven de acuerdo que emita la Asamblea o la Comisión Permanente.
 
 ### CAPITULO III
 
@@ -275,9 +291,11 @@ DE LA ORGANIZACION DEL PODER LEGISLATIVO.
 
 DE LA INSTALACION DE LA LEGISLATURA.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 27.
 
-En el año de la elección de la Legislatura, la Diputación Permanente se constituirá en Comisión Instaladora de la Legislatura que le sucederá, lo que deberá comunicar por escrito en el mes de agosto al Instituto Electoral y al Tribunal Electoral del Estado. Con ese carácter instalará la junta previa de la nueva Legislatura.
+En el año de la elección de la Legislatura, la Comisión Permanente se constituirá en Comisión Instaladora de la siguiente Legislatura, lo que deberá comunicar por escrito en el mes de agosto al Instituto Electoral y al Tribunal Electoral del Estado. Con ese carácter instalará la junta previa de la nueva Legislatura.
 
 ###### ARTICULO 28.
 
@@ -317,7 +335,9 @@ En caso de que no se lograre el voto simple para elegir la Directiva Provisional
 
 En caso de que varios partidos hayan obtenido igual número de curules, y aún persistiera el empate, escogerá primero el que haya obtenido mayor número de votos en la elección de Diputados;
 
-d).- Realizada la elección de la Directiva Provisional o conformada en los términos del inciso anterior, el Presidente de la Diputación Permanente los invitará a que tomen su lugar en el presidium. Antes de retirarse, el Presidente de la Diputación Permanente hará la entrega por inventario de la totalidad de los documentos y constancias electorales que obren en su poder y declarará concluidas sus funciones;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
+d).- Realizada la elección de la Directiva Provisional o conformada en los términos del inciso anterior, el Presidente de la Comisión Permanente los invitará a que tomen su lugar en el presidium y antes de retirarse, hará la entrega por inventario de la totalidad de los documentos y constancias electorales que obren en su poder y declarará concluidas las funciones de la Comisión Instaladora;
 
 > <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
 
@@ -413,9 +433,11 @@ El Vicepresidente suplirá las ausencias del Presidente a la sesión o cuando, �
 
 Los Secretarios y suplente designados ejercerán sus funciones por todo el período para el que hubiesen sido nombrados, sin que puedan ser reelectos para el período inmediato de sesiones, ni ser electos Presidentes durante el tiempo de su ejercicio. El suplente cubrirá la falta temporal de un Secretario a una sesión o cuando alguno debiere abandonar el Recinto por causa justificada; si en esta última hipótesis no se encontrare presente el suplente, el Congreso nombrará un Secretario para dicha sesión.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 41.
 
-Si no se logra la mayoría simple para elegir Presidente, Vicepresidente o a la Directiva completa, fungirán como tales los Diputados que sigan en el orden señalado en el artículo 31 de esta Ley, respectivamente, en cuanto al porcentaje de votos, en la elección correspondiente. A partir del décimo segundo lugar, se continuará con el orden de prelación que los Diputados plurinominales hayan tenido en las listas registradas, tomando uno de cada partido, comenzando por el que haya obtenido el mayor número de votos. Cuando se haya completado la totalidad de Diputados, iniciará nuevamente el orden previsto en el artículo 31 del presente ordenamiento.
+Si no se logra la mayoría simple para elegir Presidente, Vicepresidente o a la Directiva completa, fungirán como tales los Diputados que sigan en el orden señalado en el artículo 31 de esta Ley, respectivamente, en cuanto al porcentaje de votos, en la elección correspondiente. A partir del décimo sexto lugar, se continuará con el orden de prelación que los Diputados Plurinominales hayan tenido en las listas registradas, tomando uno de cada partido, comenzando por el que haya obtenido el mayor número de votos. Cuando se haya completado la totalidad de Diputados, iniciarán nuevamente el orden previsto en el artículo 31 de este ordenamiento.
 
 ### CAPITULO III
 
@@ -481,11 +503,11 @@ El Presidente de la Directiva podrá ser removido por el Congreso cuando de mane
 
 DE LOS SECRETARIOS.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 44.
 
-La Secretaría es el órgano auxiliar de la Directiva, se integrará con dos Secretarios que al igual que el Presidente y Vicepresidente, son electos por mayoría y en votación por cédula secreta.
+La Secretaría es el órgano auxiliar de la directiva y se integrará con dos Secretarios que al igual que el Presidente y el Vicepresidente serán electos por mayoría, en votación secreta.
 
 ###### ARTICULO 45.
 
@@ -553,7 +575,9 @@ I.- Elaborar un plan de trabajo y presentarlo al Congreso para su aprobación, d
 
 II.- Proponer a la Asamblea la designación del Oficial Mayor y del Contador Mayor de Hacienda, así como pedir su remoción y vigilar el funcionamiento de ambas dependencias;
 
-III.- Proponer a la Asamblea el nombramiento y remoción de los directores, funcionarios y demás empleados del Poder Legislativo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
+III.- Proponer a la Asamblea el nombramiento y remoción de los directores, funcionarios y demás empleados de confianza del Poder Legislativo;
 
 IV.- Proponer a la Asamblea, la integración de las comisiones permanentes y especiales y, en su caso, a quienes deban sustituirlos cuando proceda;
 
@@ -983,11 +1007,15 @@ DE LAS FACULTADES DEL CONGRESO.
 
 DE LAS FACULTADES DEL CONGRESO EN LA ELECCION O NOMBRAMIENTO DE GOBERNADOR.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 99.
 
-El Congreso o la Diputación Permanente tendrá la facultad de expedir el bando solemne para dar a conocer en toda la entidad la declaración de Gobernador Electo que hubiere hecho el Tribunal Electoral del Estado.
+El Congreso, tiene la facultad de expedir el bando solemne para dar a conocer en toda la entidad la declaración de Gobernador Electo que hubiere hecho el Tribunal Electoral del Estado.
 
-Para tal efecto, el Congreso o la Diputación Permanente dispondrá hasta de tres días hábiles, contados a partir del día siguiente al que haya recibido la documentación correspondiente que envíe el Tribunal Electoral.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
+Para tal efecto, el Congreso dispondrá hasta de tres días hábiles, contados a partir del día siguiente al en que haya recibido la documentación que le envíe el Tribunal Electoral del Estado.
 
 En caso de que se presente la hipótesis del artículo 99, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos, se suspenderán los actos a que se refiere el párrafo anterior hasta en tanto el Tribunal Electoral del Poder Judicial de la Federación emita la resolución correspondiente y le sea comunicada al Congreso por medio del Tribunal Electoral del Estado.
 
@@ -1027,33 +1055,41 @@ DE LA DIPUTACION PERMANENTE.
 
 DE SU INTEGRACION Y FACULTADES.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 104.
 
-En los recesos del Congreso, funcionará una Diputación Permanente formada por cinco Diputados que serán electos dentro de los tres días anteriores a la clausura del período ordinario de sesiones. Por cada miembro propietario se elegirá un suplente. La Diputación Permanente convocará a sesiones o períodos extraordinarios, cuando los asuntos del Congreso así lo requieran o a propuesta del titular del Poder Ejecutivo.
+En los recesos del Congreso, funcionará una Comisión Permanente integrada por siete Diputados, que serán electos dentro de los tres días anteriores a la clausura de un período ordinario de sesiones. La Comisión convocará a sesión o período extraordinario de sesiones, cuando los asuntos del Congreso así lo requieran o a petición del titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 105.
 
-La Diputación Permanente se instalará al siguiente día en que el Congreso cierre su período ordinario de sesiones. Comunicará al Ejecutivo del Estado y al Poder Judicial su instalación; igual comunicación se hará a las autoridades que se señalan en el artículo 37 de la presente ley.
+La Comisión Permanente se instalará al siguiente día en que el Congreso cierre su período ordinario de sesiones. Comunicará al Ejecutivo del Estado y al Poder Judicial su instalación, igual comunicación se hará a las autoridades que se señalan en el artículo 37 de la presente ley.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 106.
 
-La Diputación Permanente tendrá la representación del Poder Legislativo y ejercerá las atribuciones que le confiere el artículo 36 de la Constitución y las que le encomiende el Congreso.
+La Comisión Permanente tendrá la representación del Poder Legislativo y ejercerá las atribuciones que le confiere el artículo 36 de la Constitución y las que le encomiende el Congreso.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 107.
 
-Cuando el Congreso sea convocado a sesión o a período extraordinario, al inicio de aquella o en la primera de aquel, la Asamblea elegirá una Mesa Directiva para desahogar los asuntos por los que fue convocado, misma que concluirá sus funciones al momento de agotarlos o que se inicie un período ordinario. La Diputación Permanente continuará en funciones, una vez que concluya la sesión o el período extraordinario.
+Cuando el Congreso sea convocado a sesión o período extraordinario, al inicio de aquella o en la primera de este, la Asamblea elegirá una Mesa Directiva para desahogar los asuntos por los que fue convocado, misma que concluirá sus funciones al momento de agotarlos o que se inicie un período ordinario. La Comisión Permanente continuará en funciones, una vez que concluya la sesión o período extraordinario.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 108.
 
-La Diputación Permanente sesionará por lo menos una vez por semana.
+La Comisión Permanente sesionará por lo menos una vez a la semana.
 
-> <small>(F. DE E., P.O. 27 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 109.
 
-En todo lo que no esté previsto en los artículos anteriores, la Diputación Permanente se sujetará a lo que dispone el Reglamento.
+En todo lo que no esté previsto en los artículos anteriores, la Comisión Permanente se sujetará a lo que dispone el Reglamento.
 
 ## TRANSITORIOS
 
@@ -1090,3 +1126,7 @@ C. ENRIQUE A. SALAZAR ABAROA, DIPUTADO PRESIDENTE.- Rúbrica.- C. JORGE LUIS PRE
 P.O. 27 DE MAYO DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE SEPTIEMBRE DE 2000.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
