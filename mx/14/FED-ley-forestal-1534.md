@@ -4,7 +4,7 @@ identifier: "FED-ley-forestal-1534"
 country: "mx"
 rank: "ley"
 publication_date: "1926-04-24"
-last_updated: "1938-03-30"
+last_updated: "1938-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1926-04-05"
 
 LEY FORESTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 1938.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 1938.
 
 Ley publicada en el Número 45 del Diario Oficial, el sábado 24 de abril de 1926
 
@@ -391,9 +391,13 @@ Las faltas no especificadas en este capítulo, serán castigadas con arreglo a l
 
 Las multas se harán efectivas por las correspondientes oficinas de Hacienda, las que pueden, ejercitar la facultad económico-coactiva para ello.
 
+(REFORMADO, D.O. 7 DE FEBRERO DE 1928) (SE RESTABLECE VIGENCIA, P.O. 30 DE DICIEMBRE DE 1938)
+
 ###### ARTICULO 69.
 
-(DEROGADO, D.O. 30 DE MARZO DE 1938)
+Del importe total de cada multa se aplicará una mitad al Erario Federal y la otra mitad se distribuirá por partes iguales entre el denunciante y el aprehensor, sin que en ningún caso pueda exceder la participación personal, de $500.00. Si no hubiere denunciante, su parte se aplicará al aprehensor o aprehensores, con la misma limitación señalada antes.
+
+Los empleados de la Oficina Central de la Dirección Forestal no tendrán derecho a participación alguna.
 
 ###### ARTICULO 70.
 
@@ -538,3 +542,17 @@ Quedan reformadas, en los términos de la presente Ley, la de Secretarías de Es
 D.O. 30 DE MARZO DE 1938.
 
 > <small>[N. DE E. EL "DECRETO QUE DEROGA EL ARTÍCULO 69 DE LA LEY FORESTAL DE 5 DE ABRIL DE 1926", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.]</small>
+
+D.O. 30 DE DICIEMBRE DE 1938.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL "DECRETO QUE RESTABLECE LA VIGENCIA DEL ARTÍCULO 69 DE LA LEY FORESTAL DE 5 DE ABRIL DE 1926" QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTICULO PRIMERO.
+
+Se deroga el Decreto de 24 de noviembre de 1937, que derogó el artículo 69 de la Ley Forestal de 5 de abril de 1926.
+
+###### ARTICULO SEGUNDO.
+
+Se restablece la vigencia del artículo 69 de la Ley Forestal de 5 de abril de 1926.
+
+> <small>[N. DE E. EL "DECRETO QUE RESTABLECE LA VIGENCIA DEL ARTÍCULO 69 DE LA LEY FORESTAL DE 5 DE ABRIL DE 1926", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.]</small>
