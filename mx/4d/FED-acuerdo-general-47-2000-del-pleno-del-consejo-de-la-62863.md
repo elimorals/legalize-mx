@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-47-2000-del-pleno-del-consejo-de-la-62863"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-08-25"
-last_updated: "2000-08-25"
+last_updated: "2001-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62863&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-08-16"
 
 ACUERDO GENERAL 47/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LAS DENOMINACIONES, FECHA DE INICIO DE FUNCIONAMIENTO Y JURISDICCION TERRITORIAL DEL SEGUNDO TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA Y DEL TERCER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL SEXTO CIRCUITO, CON RESIDENCIA EN LA CIUDAD DE PUEBLA, PUEBLA, ASI COMO A LAS REGLAS DE TURNO Y SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS DE LOS TRIBUNALES COLEGIADOS DE ESTA ESPECIALIDAD EN EL MENCIONADO CIRCUITO, CON SEDE EN LA REFERIDA CIUDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 25 de agosto de 2000.
 
@@ -69,6 +69,8 @@ Este sistema únicamente podrá ser cambiado por el Consejo de la Judicatura Fed
 
 Cuando por causa de fuerza mayor no pueda hacerse uso del sistema computarizado mencionado, los titulares de los Tribunales Colegiados de que se trata comunicarán al Consejo de la Judicatura Federal, el motivo por el cual fue suspendido y las medidas pertinentes que al efecto hayan tomado y que garanticen un reparto equitativo de los asuntos. La adopción de un sistema manual funcionará a partir de la última distribución computarizada. Una vez restablecido el sistema computarizado deberán comunicarlo al propio Consejo.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/9/2001, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 20 DE JUNIO DE 2001, SE PRORROGA EL PLAZO DE EXCLUSION DE TURNO DE NUEVOS ASUNTOS AL PRIMER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL SEXTO CIRCUITO, POR CUATRO MESES, DEL 2 DE JULIO AL DOS DE NOVIEMBRE DE 2001.</small>
+
 SEPTIMO.- Los nuevos asuntos que se reciban en la citada oficialía del cuatro de septiembre de dos mil al uno de julio de dos mil uno, serán del conocimiento exclusivo del Segundo Tribunal Colegiado en Materia Administrativa y del Tercer Tribunal Colegiado en Materia Administrativa del Sexto Circuito, con residencia en la ciudad de Puebla, Puebla. Concluido el periodo antes señalado, los nuevos asuntos que se presenten en dicha oficialía, se distribuirán entre los tres Tribunales Colegiados en Materia Administrativa del Sexto Circuito, excepto si con posterioridad el Consejo de la Judicatura Federal considera que procede adoptar alguna otra medida derivada del comportamiento estadístico registrado en los Tribunales Colegiados mencionados.
 
 OCTAVO.- Se modifica el Acuerdo General 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en el inciso 1, de su apartado VI.- SEXTO CIRCUITO, del punto SEGUNDO, para quedar como sigue:
@@ -88,3 +90,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 47/2000, relativo a las denominaciones, fecha de inicio de funcionamiento y jurisdicción territorial del Segundo Tribunal Colegiado en Materia Administrativa y del Tercer Tribunal Colegiado en Materia Administrativa del Sexto Circuito, con residencia en la ciudad de Puebla, Puebla, así como a las reglas de turno y sistema de recepción y distribución de asuntos de los Tribunales Colegiados de esta especialidad en el mencionado Circuito, con sede en la referida ciudad, fue aprobado en sesión de dieciséis de agosto de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a dieciséis de agosto de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 20 DE JUNIO DE 2001.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
