@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1917-07-21"
+last_updated: "1922-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1922.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -129,19 +129,25 @@ Los Diputados son inviolables por la manifestación de sus ideas y del ejercicio
 
 El Congreso se instalará en cada bienio el primer día de febrero posterior a la elección.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+
 ### CAPITULO TERCERO. De las facultades del Congreso
 
 ###### Art. 13.
 
-El Congreso tendrá cada año un período de sesiones ordinarias que comenzará el primero de febrero y podrá prolongarse hasta el 31 de mayo inmediato, en el que se ocupará de preferencia de lo siguiente:
+El Congreso tendrá cada año dos períodos de sesiones ordinarias: uno durará del primero de febrero al último de mayo; el otro será por el mes de septiembre, siendo prorrogable por un mes más, siempre que lo acuerden las dos terceras partes de los miembros de la Cámara.
 
-I. En el examen y aprobación de las cuentas públicas del año anterior, tanto del Estado como de los Municipios.
+En el primer periodo se ocupará preferentemente:
 
-II. En el examen y aprobación del Presupuesto de Ingresos y Egresos del Estado, para el siguiente año fiscal.
+I. Del examen y aprobación de las cuentas públicas del año anterior, tanto del Estado como de los Municipios.
 
-III. En la revisión y aprobación del Presupuesto de Ingresos y Egresos de los Municipios, de acuerdo con sus necesidades.
+II. Del examen y aprobación del Presupuesto de Ingresos y Egresos del Estado, para el siguiente año fiscal.
 
-IV. En las modificaciones que se crean necesarias a la Ley de Hacienda.
+III. De la revisión y aprobación de los Presupuestos de Ingresos de los Municipios.
+
+IV. De las modificaciones necesarias a la Ley de Hacienda del Estado y Municipal.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
 
 ## Título Tercero
 
@@ -149,7 +155,7 @@ IV. En las modificaciones que se crean necesarias a la Ley de Hacienda.
 
 ###### Art. 14.
 
-El Congreso, fuera del periodo que señala el artículo anterior, celebrará sesiones extraordinarias cuando fuere convocado al efecto por el Ejecutivo, en los términos del artículo 35, fracción XVI, o por la Diputación Permanente en los casos del Artículo 25 Fracción IV; y en ellas, sólo se ocupará de los negocios para los cuales se hizo la convocación.
+El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones extraordinarias cuando fuere convocado al efecto por la Comisión Permanente o por el Ejecutivo; debiendo ocuparse en ellas sólo de los asuntos para los cuales se haya hecho la convocación.
 
 ###### Art. 15.
 
@@ -183,11 +189,13 @@ Los Ayuntamientos al mandar su iniciativa designarán su orador, si lo juzgan co
 
 Desechada alguna iniciativa, no podrá volver a presentarse en el mismo periodo de sesiones.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+
 ###### Art. 19.
 
-Las iniciativas adquirirán el carácter de Ley, cuando sean aprobadas por el Congreso y promulgadas por el Ejecutivo.
+Las iniciativas adquirirán el carácter de Ley cuando sean aprobadas por el Congreso y promulgadas por el Ejecutivo.
 
-Las leyes son obligatorias en cada lugar desde el siguiente día al en que se publiquen.
+Si la Ley no fija el día en que deba comenzar a observarse, será obligatoria en cada lugar desde el siguiente al en que se publique.
 
 ###### Art. 20.
 
@@ -267,11 +275,15 @@ Son atribuciones de la Diputación Permanente:
 
 I. Conceder las licencias y permisos a que se refiere la fracción 12 del artículo 23.
 
-II. Dictaminar sobre las modificaciones a los Presupuestos Municipales que propongan los Ayuntamientos y convocar al Congreso a sesiones extraordinarias para resolverlos cuando crea que son de urgente resolución.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+
+II. Dictaminar sobre las modificaciones a los Presupuestos Municipales que propongan los Ayuntamientos.
 
 III. Abrir dictamen sobre los negocios que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten para dar cuenta al Congreso.
 
-IV. Convocar al Congreso a sesiones extraordinarias: en el caso de acusación por delitos oficiales o del orden común cometidos por funcionarios que gocen del fuero; en el caso de tener que ejercer aquel Cuerpo sus funciones de Colegio Electoral para la designación del Gobernador o Magistrado; en el de tener que convocar a elecciones extraordinarias, y en el caso a que se refiere la fracción II de este artículo.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+
+IV. Convocar al Congreso a sesiones extraordinarias cuando lo juzgue conveniente.
 
 V. Llamar a los suplentes de la misma Diputación para suplir las faltas absolutas o temporales de los propietarios.
 
@@ -343,9 +355,13 @@ Son facultades y obligaciones del Gobernador:
 
 I. Promulgar, ejecutar y hacer que se ejecuten las Leyes haciendo uso en su caso, de la facultad que le concede el artículo 20.
 
-II. Presentar al Congreso cada año, los proyectos de Presupuestos de Ingresos y Egresos del Estado, formados para que rija en el ejercicio fiscal venidero, y al día siguiente de la apertura de sesiones ordinarias, una memoria del Estado de la Administración.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
 
-III. Asistir a la apertura de las sesiones del Congreso, sean ordinarias o extraordinarias y presentar un informe por escrito en el primer caso sobre el Estado general que guarde la Administración Pública; y en el segundo, para exponer al Congreso las razones o causas que hicieron necesarias (sic) su convocación.
+II. Presentar cada año al Congreso, a más tardar el día primero de abril, los proyectos de Presupuestos de Ingresos y Egresos del Estado, para el ejercicio fiscal venidero.
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+
+III. Asistir a la apertura del primer período de sesiones ordinarias del Congreso y a la de las extraordinarias a que hubiere convocado, para rendir, en el primer caso, un informe general por escrito de la Administración Pública, y en el segundo, para justificar su convocación.
 
 IV. Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Tribunal sobre el de Justicia;
 
@@ -359,7 +375,7 @@ VIII. Formar los reglamentos para el buen despacho de la Administración públic
 
 XI (Sic). Nombrar y remover al Secretario de Gobierno y a los funcionarios y empleados cuyo nombramiento o remoción no corresponda conforme al a Ley, a otra autoridad.
 
-X. Suspender a los Munícipes, cuando no cumplan con sus deberes, dando cuenta al Congreso o a la Diputación Permanente antes de 48 horas.
+X. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 1922)
 
 XI. Cuidar de la recaudación e inversión de los caudales del Estado, con arreglo a las leyes.
 
@@ -415,11 +431,13 @@ II. Ser abogado con título oficial, y tener cuando menos cinco años de prácti
 
 III. Tener treinta años cumplidos el día de la elección; estar en el pleno ejercicio de sus derechos políticos y civiles, y haber observado una conducta pública notoriamente buena.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+
 ###### Art. 42.
 
-Los Magistrados serán electos por el Congreso, constituido en Colegio Electoral, por mayoría absoluta de votos y en escrutinio secreto:
+Los Magistrados serán electos por el Congreso, constituido en Colegio Electoral por mayoría absoluta de votos y en escrutinio secreto.
 
-Durarán en su encargo cuatro años contados del primero de enero posterior a su elección. A partir del año de 1923 los Magistrados y Jueces de Primera Instancia, sólo podrán ser removidos, o destituidos de su cargo, cuando observen mala conducta, previo el juicio de responsabilidad respectivo o por la pérdida de alguna de las calidades que para tales cargos les exige la Ley, así como por ineptitud en el desempeño del cargo conferido, que calificará quien hubiere hecho el nombramiento.
+Durarán en su encargo cuatro años contados del primero de enero posterior a su elección. A partir del año de 1931 los Magistrados y Jueces de Primera Instancia, sólo podrán ser removidos, o destituidos de su cargo, cuando observen mala conducta, previo el juicio de responsabilidad respectivo o por la pérdida de alguna de las cualidades que para tales cargos les exige la Ley, así como por ineptitud en el desempeño del cargo conferido, que calificará quien hubiere hecho el nombramiento.
 
 ###### Art. 43.
 
@@ -465,13 +483,19 @@ Se concede acción popular para pedir que se exija la responsabilidad en que inc
 
 Siempre que se trate de un delito del orden común cometido por los diputados, el Gobernador, los Magistrados, el Secretario de Gobierno, el Jefe del Ministerio Público o los Munícipes, el Congreso, erigido en Gran Jurado, declarará a mayoría absoluta de votos, si ha o no lugar a proceder contra el acusado. En caso negativo, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En el caso afirmativo, el acusado queda por el mismo hecho, separado de su cargo y sujeto a la acción de los tribunales comunes.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
+
 ### CAPITULO PRIMERO. De las Responsabilidades de los Funcionarios y Empleados Públicos
 
 ###### Art. 50.
 
-De los delitos y faltas oficiales en que incurran los Funcionarios a que se refiere el artículo anterior, exceptuando los Magistrados, conocerá el Congreso como jurado de acusación, y el Supremo Tribunal de Justicia, en acuerdo pleno, como Jurado de Sentencia.
+De los delitos y faltas oficiales en que incurran los funcionarios a que se refiere el artículo anterior, exceptuando a los Magistrados, conocerá el Congreso como Jurado de Acusación y el Supremo Tribunal de Justicia, en Acuerdo Pleno, como Jurado de Sentencia, si se exigiere la responsabilidad estando el funcionario en ejercicio o fuera de él, pero no definitivamente.
 
-El Jurado de Acusación declarará a mayoría absoluta de votos si el acusado es o no culpable, oyéndolo previamente en defensa: Si la declaración fuere absolutoria, el funcionario continuará en el desempeño de su encargo, si fuere condenatoria, quedará inmediatamente separado de dicho cargo y será consignado al Supremo Tribunal de Justicia. Este, erigido en Jurado de Sentencia, oyendo al acusador si lo hubiere, al Jefe del Ministerio Público y al Reo, por sí o por medio de su defensor, aplicará a mayoría absoluta de votos la pena que la Ley designe.
+El Jurado de Acusación declarará por mayoría absoluta de votos, si el acusado es o no culpable, oyéndolo previamente en defensa.
+
+El Jurado de Sentencia, oyendo al acusador, si lo hubiere, al Procurador de Justicia y al reo, por sí o por medio de su defensor, aplicará también por mayoría absoluta de votos, la pena que la ley designe.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
 
 ## Título Sexto
 
@@ -479,7 +503,7 @@ El Jurado de Acusación declarará a mayoría absoluta de votos si el acusado es
 
 ###### Art. 51.
 
-Si hubiere de formarse causa por delitos oficiales a los Magistrados del Supremo Tribunal de Justicia, se iniciará y concluirá ante el Congreso, resolviendo éste, como Jurado de Acusación y de Sentencia, observándose lo dispuesto en el artículo anterior.
+Si hubiere de formarse causa por delitos y faltas oficiales a los Magistrados del Supremo Tribunal de Justicia, se iniciará y concluirá ante el Congreso, resolviendo éste, como Jurado de Acusación y de Sentencia, observándose lo dispuesto en el artículo anterior.
 
 ###### Art. 52.
 
@@ -498,6 +522,8 @@ A excepción de los Funcionarios de elección popular y de los Magistrados, todo
 La responsabilidad por delitos y faltas oficiales de Funcionarios y Empleados Públicos que gocen del fuero Constitucional, sólo podrá exigirse durante el ejercicio del cargo y un año después.
 
 ### CAPITULO TERCERO. De las Reformas a la Constitución
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1922)</small>
 
 ###### Art. 56.
 
@@ -549,9 +575,9 @@ Ninguna autoridad impondrá préstamos forzosos, ni las oficinas harán gasto al
 
 ###### Art. 66.
 
-Esta Constitución sólo podrá reformarse, con los requisitos siguientes: Iniciada la reforma y aprobada por acuerdo de las dos terceras partes del número total de Diputados, se pasará a los Ayuntamientos sin discusión, y si del cómputo efectuado por la Cámara, de los votos individuales y no por Cuerpos, resultare que hay en mayoría a favor de la Reforma, se declarará parte de esta Constitución.
+Esta Constitución sólo podrá reformarse, con los requisitos siguientes: iniciada la reforma y aprobada por acuerdo de las dos terceras partes del número total de Diputados, se pasará a los Ayuntamientos con los debates que hubiere provocado; si del cómputo efectuado por la Cámara de los votos individuales y no por Cuerpos, resultare que hay en mayoría en favor de la reforma, se declarará parte de esta Constitución.
 
-Si transcurriere un mes después de que se compruebe que ha sido recibido el proyecto de que se trate, sin que los Ayuntamientos remitieren al Congreso el resultado de la votación, se entenderá que aceptan las reformas.
+Si transcurriere un mes después de que se compruebe que ha sido recibido el proyecto de que se trata, sin que los Ayuntamientos remitieren al Congreso el resultado de la votación, se entenderá que aceptan las reformas.
 
 Las reformas hechas en la Constitución Federal que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y promulgadas sin más trámite.
 
@@ -574,3 +600,9 @@ Art. 3º El actual período de sesiones continuará con el carácter de ordinari
 Dado en el Salón de sesiones del Congreso del Estado, a ocho de julio de mil novecientos diecisiete.
 
 Firmados: Presidente, M. Bouquet Jr., Diputado por el Primer Distrito.- Vice-Presidente, Carlos Galindo, Diputado por el 5o. Distrito.- V.L. Velarde, Diputado por el 4o. Distrito.- Ramón Delgado, Diputado por el 6o. Distrito.- J.W. Torres, Diputado por el 7o. Distrito.- Tomás Morán, Diputado por el 9o.- Distrito. Jesús Camarena, Diputado por el 10o. Distrito.- Ambrosio Ulloa, Diputado por el 11o. Distrito.- Marcos Guzmán, Diputado por el 12o. Distrito.- Fausto Ulloa, Diputado por el 13o. Distrito.- Pedro Alarcón, Diputado por el 15o. Distrito.- Sebastián Allende, Diputado por el 16o. Distrito.- Secretario, J. Guadalupe Rubalcava, Diputado por el 3er. Distrito.- Secretario, Julián Villaseñor Mejía, Diputado por el 14o. Distrito.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 16 DE SEPTIEMBRE DE 1922.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
