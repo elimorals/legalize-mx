@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-codigo-fiscal-del-estado-de-quintana-roo-8616"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-04-15"
-last_updated: "1996-04-15"
+last_updated: "1999-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 REGLAMENTO DEL CODIGO FISCAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1999.
 
-Reglamento publicado en el Bis del Periódico Oficial del Estado de Quintana Roo, el lunes 15 de abril de 1996.
+Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de abril de 1996.
 
 ING. MARIO ERNESTO VILLANUEVA MADRID, Gobernador Constitucional del Estado Libre y Soberano de Quintana Roo, en uso de las facultades que me confieren los artículos 91, fracción II de la Constitución Política del Estado Libre y Soberano de Quintana Roo y 7° y 10 de la Ley Orgánica de la Administración Pública del Estado, y
 
@@ -243,15 +243,21 @@ b).- Exhibir comprobante de domicilio, consistente en recibo de luz, agua, telé
 
 e).- Exhibir los tres últimos pagos del Impuesto Sobre Tenencia o Uso de Vehículos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 1999)</small>
+
 ###### ARTICULO 26.
 
-Los propietarios o conductores de vehículos deberán presentar el aviso de baja:
+Los propietarios o conductores de vehículos deberán presentar el aviso de baja, dentro del mes siguiente en que se den los hechos:
 
 I.- Por destrucción o robo del vehículo.
 
 II.- Por extravío o robo de placas.
 
 III.- Por cambio de domicilio de un municipio a otro.
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 1999)</small>
+
+IV.- Por cambio de propietario.
 
 ###### ARTICULO 27.
 
@@ -417,43 +423,53 @@ Si el documento de la embarcación está en otro idioma deberá acompañarse la 
 
 Tabla que servirá como base para aplicar el impuesto del 2% sobre la enajenación de vehículos de motor y bienes muebles usados entre los particulares, a que se refieren los artículos 5o. de la ley de Hacienda del Estado.
 
-Vehículos 1981 y anteriores $ 7,763.00
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 1999)</small>
 
-1982 $ 8,228.00
+Vehículos 1983 y anteriores $ 10,120.00
 
-1983 $ 9,159.00
+1984 $ 11,266.00
 
-1984 $ 9,935.00
+1985 $ 12,220.00
 
-1985 $ 10,350.00
+1986 $ 12,730.00
 
-1986 $ 11,696.00
+1987 $ 14,386.00
 
-1987 $ 13,216.00
+1988 $ 16, 255.00
 
-1988 $ 14, 934.00
+1989 $ 18,369.00
 
-1989 $ 16,876.00
+1990 $ 20,757.00
 
-1990 $ 19,070.00
+1991 $ 23,456.00
 
-1991 $ 21,548.00
+1992 $ 26,504.00
 
-1992 $ 24,350.00
+1993 $ 29,951.00
 
-1993 $ 27,516.00
+1994 $ 33,845.00
 
-1994 $ 31,094.00
+1995 $ 38,246.00
 
-1995 $ 35,136.00
+1996 $ 43,217.00
 
-1996 $ 39,704.00
+1997 $ 48,835.00
+
+1998 $ 55,183.00
+
+1999 $ 65,447.00
 
 Los vehículos con valor en el cambio de propietario menor al estipulado en la presente tabla de valores, se ajustará a la misma para el pago del impuesto.
 
 La factura que tenga el valor del traspaso mayor al estipulado en la presente tabla de valores se cobrará el impuesto de acuerdo al precio declarado en el documento.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE MARZO DE 1999)</small>
+
 Esta tabla será aplicada exclusivamente a la compra-venta de los bienes muebles a que se hace referencia y tendrá vigencia hasta que se determine su sustitución por otra.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 1999)</small>
+
+La Secretaría de Hacienda del Estado, publicará en el Periódico Oficial del Estado la tarifa actualizada a que se refiere el párrafo anterior.
 
 ###### ARTICULO 36.
 
@@ -666,3 +682,15 @@ DR. HECTOR ESQUILIANO SOLIS.
 SECRETARIO ESTATAL DE HACIENDA
 
 LIC. JOSE CHEJIN PULIDO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE MARZO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor en todo el territorio del Estado Libre y Soberano de Quintana Roo, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones reglamentadas anteriormente establecidas, que contravengan a las presentes reformas.
