@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1954-06-03"
+last_updated: "1955-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 1954 REPUBLICADO, P.O. 3 DE JUNIO DE 1954.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:17 DE SEPTIEMBRE DE 1955.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -481,9 +481,11 @@ XII. Tos (sic) las demás facultades que expresamente le confieran la Constituci
 
 Para el despacho de los negocios que corran a cargo del Ejecutivo habrá un Secretario que se denominará "Secretario General".
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1955)</small>
+
 ###### Art. 62.
 
-Para ser Secretario General se requiere ser ciudadano Campechano, tener veinte y cinco años de edad y un año de residencia en el territorio del Estado, inmediatamente anterior a la fecha del nombramiento.
+Para ser Secretario General se requiere ser ciudadano campechano, tener veinte y cinco años de edad o un año de residencia en el territorio del Estado inmediatamente anterior a la fecha del nombramiento.
 
 ###### Art. 63.
 
@@ -995,7 +997,7 @@ Unico. Las presentes reformas regirán en todo el territorio del Estado a partir
 
 P.O. 26 DE NOVIEMBRE DE 1929.
 
-Unico. La presente reforma regirá en todo el territorio del Estado a partir del próximo periodo de receso que conforme a la ley deberá tener el H. XXXII Congreso del Estado.
+Unico. La presente reforma regirá en todo el territorio del Estado a partir del próximo período de receso que conforme a la ley deberá tener el H. XXXII Congreso del Estado.
 
 P.O. 29 DE NOVIEMBRE DE 1930.
 
@@ -1057,6 +1059,10 @@ P.O. 31 DE AGOSTO DE 1948.
 
 P.O. 29 DE MAYO DE 1954.
 
-(REPUBLICADO, P.O. 3 DE JUNIO DE 1954)
+REPUBLICADO, P.O. 3 DE JUNIO DE 1954.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+
+P.O. 17 DE SEPTIEMBRE DE 1955.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
