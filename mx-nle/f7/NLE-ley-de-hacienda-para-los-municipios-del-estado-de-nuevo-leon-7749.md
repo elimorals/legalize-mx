@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1994-07-29"
+last_updated: "1994-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -37,15 +37,19 @@ LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
 ## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 1o.
 
-Los impuestos, derechos, y aprovechamientos se regularán por esta Ley, por las demás Leyes Fiscales, en su defecto por el Código Fiscal para el Estado de Nuevo León, y, supletoriamente, por el Derecho Común.
+Los impuestos, derechos, demás contribuciones y aprovechamientos se regularán por esta Ley, por las demás leyes fiscales, en su defecto por el Código Fiscal del Estado y supletoriamente por el Derecho Común.
 
 Los productos se regularán por las indicadas disposiciones o por lo que, en su caso, se estipule en las concesiones o contratos respectivos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 2o.
 
-La Ley de Ingresos de los Municipios del Estado de Nuevo León establecerá, anualmente, los impuestos, derechos, productos y aprovechamientos que deban recaudarse.
+La Ley de Ingresos de los Municipios del Estado establecerá anualmente los impuestos, derechos, demás contribuciones, productos y aprovechamientos que deban recaudarse.
 
 ###### ARTICULO 3o.
 
@@ -59,9 +63,11 @@ Las normas de Derecho Tributario que establezcan cargas a los particulares y las
 
 La representación y defensa de los Derechos de la Hacienda Pública Municipal corresponderá al C. Tesorero o al representante o representantes que designe, con facultades para practicar las promociones conducentes.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 6o.
 
-Contra las resoluciones dictadas en materia fiscal por las Autoridades Municipales, sólo procede la interposición de los medios de defensa que establece el Código Fiscal del Estado.
+Contra las resoluciones dictadas en materia fiscal por las autoridades municipales, sólo procede la interposición de los medios de defensa que establecen el Código Fiscal del Estado, el Código Procesal del Tribunal de lo Contencioso Administrativo del Estado y esta ley.
 
 ###### ARTICULO 7o.
 
@@ -421,9 +427,9 @@ Los propietarios de predios baldíos, ubicados en los Municipios de Apodaca, Esc
 
 En los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina, tratándose de predios con edificaciones comerciales, industriales, de servicios y de cualquier uso distinto al de casa habitación, se pagará el Impuesto Predial aplicando una tasa del 2.5 al millar sobre el valor catastral del predio. Del rendimiento de esta tasa, los Municipios aportarán un 20% a un fideicomiso para la realización de obras de infraestructura vial para solucionar la problemática en materia vial de estos municipios.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-Si una parte de la edificación tiene un uso habitacional, la tasa a que se refiere el párrafo anterior se aplicará únicamente respecto del valor catastral de las construcciones no habitacionales e instalaciones, y en lo que respecta al valor catastral del terreno y de las construcciones e instalaciones cuyo destino no sea posible identificar, se les aplicará la tasa en la proporción que represente el valor catastral de las construcciones e instalaciones identificables como de uso no habitacional, respecto del total de las construcciones con uso identificable, ya sea habitacional o no.
+Si una parte de la edificación tiene un uso habitacional, la tasa a que se refiere el párrafo anterior se aplicará únicamente respecto del valor catastral de las construcciones no habitacionales e instalaciones, y en lo que respecta al valor catastral del terreno y de las construcciones e instalaciones cuyo destino no sea posible identificar, se les aplicará la tasa en la proporción que represente el valor catastral de las construcciones e instalaciones identificables como de uso no habitacional, respecto del total de las construcciones con uso identificable, ya sea habitacional o no. A la proporción restante se le aplicará la tasa del 2 al millar anual.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -447,11 +453,11 @@ II.- Los predios propiedad de la Universidad Autónoma de Nuevo León, así como
 
 III.- Los predios que perteneciendo a particulares, estén destinados a un servicio público gratuito autorizado por el Estado o por el Gobierno Municipal, siempre que por los mismos sus propietarios no perciban renta.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-IV.- Las viviendas cuyo valor catastral no exceda de N$86,000.00, siempre y cuando el propietario la habite y no tenga en propiedad o posesión otro bien raíz en el Estado.
+IV.- Las viviendas cuyo valor catastral no exceda de N$95,000.00, siempre que el propietario la habite y no tenga en propiedad o posesión otro bien raíz en el Estado.
 
-Si el valor catastral de la vivienda excede de N$86,000.00, pero no de N$144,000.00, se cubrirá el doble de la tarifa especial.
+Si el valor catastral de la vivienda excede de N$95,000.00, pero no de N$160,000.00, se cubrirá el doble de la tarifa especial.
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -465,13 +471,13 @@ VI.- Los predios afectados al patrimonio de familia, en los términos del Códig
 
 VII.- Los inmuebles propiedad de instituciones de beneficencia privada o de asociaciones con objetivos similares, siempre que dichos inmuebles estén destinados directamente a los fines de las mismas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-VIII.- Los entes u organismos creados por el Gobierno del Estado para solucionar el problema de la vivienda y de la tenencia legal de la tierra; las personas que lleven a cabo programas concretos con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas; y, predios cuyo valor catastral no exceda de N$86,000.00, adquiridos por las personas que resulten directamente beneficiadas con tales programas, siempre y cuando habiten tal inmueble y no sean propietarios o poseedores de otro inmueble en el Estado.
+VIII.- Los entes u organismos creados por el Gobierno del Estado para solucionar el problema de la vivienda y de la tenencia legal de la tierra; las personas que lleven a cabo programas concretos con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas; y, predios cuyo valor catastral no exceda de N$95,000.00, adquiridos por las personas que resulten directamente beneficiadas con tales programas, siempre que habiten tal inmueble y no sean propietarios o poseedores de otro inmueble en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-IX.- Los predios cuyo valor catastral no exceda de N$105,000.00 y pertenezcan a:
+IX.- Los predios cuyo valor catastral no exceda de N$115,500.00 y pertenezcan a:
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -497,9 +503,9 @@ e) Jubilados y pensionados con ingresos propios, cuyo monto diario no exceda de 
 
 f) Los predios pertenecientes a los trabajadores al servicio de la Federación, Estado o Municipio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-Si el valor catastral del predio excede de N$105,000.00 y no de N$210,000.00, se pagará por concepto de Impuesto Predial anual el doble de la tarifa especial.
+Si el valor catastral del predio excede de N$115,500.00, y no de N$231,000.00, se pagará por concepto de Impuesto Predial anual el doble de la tarifa especial.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -649,7 +655,7 @@ d) La adjudicación de bienes inmuebles en pago; la aportación de bienes inmueb
 
 e) El acto constitutivo del fideicomiso traslativo de dominio de bienes inmuebles. Se entenderá que existe enajenación de bienes inmuebles por fideicomiso, en los términos de la fracción IV del artículo 15 del Código Fiscal de la Federación.
 
-((ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 22 Bis.
 
@@ -783,11 +789,9 @@ El valor gravable del inmueble será el que resulte mayor entre el valor de adqu
 
 En la adquisición de viviendas cuyo valor más alto en los términos del artículo 28 bis-3, fracción I, no exceda de 25 veces el salario mínimo general elevado al año y siempre que el adquiriente sea persona física, cubrirá el impuesto aplicando la tasa del 2% al valor del inmueble, después de reducirlo en 15 veces el salario mínimo general elevado al año, de la zona económica en donde se encuentre el inmueble.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
-
-El Impuesto Sobre Adquisición de Inmuebles se cubrirá a una tarifa única especial de N$110.00, en los siguientes casos:
+El Impuesto Sobre Adquisición de Inmuebles se cubrirá a una tarifa única especial de N$115,00, en los siguientes casos:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -817,13 +821,13 @@ V.- En las adquisiciones que hagan las Juntas de Mejoramiento Moral, Cívico y M
 
 VI.- En las adquisiciones que realicen los trabajadores al servicio de la Federación, Estado o Municipio, independientemente que estén o no sindicalizados, siempre y cuando el inmueble objeto del impuesto vaya a destinarse o se destine a vivienda y no posean otro bien raíz en el Estado. En los casos de trabajadores casados bajo el régimen de sociedad conyugal, la exención también operará al 100 %.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-VII.- En las adquisiciones hechas por entes u organismos creados para solucionar el problema de la vivienda y de la tenencia legal de tierra, tales como el plan estatal denominado Tierra Propia y el fideicomiso denominado Fomento Metropolitano de Monterrey, así como las personas que resulten directamente beneficiadas con sus programas.
+VII.- En las adquisiciones hechas por entes u organismos públicos creados para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que resulten directamente beneficiadas con sus programas.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-VIII.- En las adquisiciones realizadas por o con personas que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el Plan Tierra Propia y el fideicomiso Fomento Metropolitano de Monterrey, previa opinión emitida por la Secretaría de Asentamientos Humanos y Planificación.
+VIII.- En las adquisiciones realizadas por o con personas sin fines de lucro que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el Plan Tierra Propia y el fideicomiso Fomento Metropolitano de Monterrey.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -833,9 +837,9 @@ IX.- En las adquisiciones por informaciones ad-perpetuam y sentencias judiciales
 
 X.- En las adquisiciones, derechos o renta a perpetuidad de los lotes en los panteones municipales.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-XI.- En las adquisiciones realizadas a través de fideicomisos en que funjan como fideicomisarios instituciones públicas o para-públicas, destinadas a la solución del problema de la vivienda en la Entidad, tales como INFONAVIT, FOVISSTE (sic), etc.
+XI.- En las adquisiciones de bienes del dominio privado que realicen el Estado, los Municipios y sus entidades paraestatales.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
@@ -887,7 +891,9 @@ En las permutas se considerará que se efectúan dos adquisiciones.
 
 En las adquisiciones efectuadas a través de arrendamiento financiero, cuando el arrendatario ejerza su opción de compra, se considerarán como una sola adquisición las realizadas por la arrendadora y por el arrendatario financieros (sic), siempre que se demuestre que fue cubierto el impuesto correspondiente a la adquisición efectuada por la arrendadora financiera. Consecuentemente, en estos casos no se generará el impuesto a cargo del arrendatario financiero.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+Si el arrendatario financiero se encuentra en los supuestos previstos en el artículo 28 Bis-1, fracciones I a XIV, provisionalmente se aplicará la tarifa especial a la adquisición efectuada por la arrendadora financiera. En caso de que al enajenarse el inmueble por parte de la arrendadora financiera, el adquirente no se encuentre en los supuestos previstos en el precepto jurídico a que hace referencia este párrafo, se cubrirá el impuesto definitivo a cargo tanto de la arrendadora como del adquirente, conforme a lo dispuesto en el artículo 28 Bis y en el párrafo anterior, según sea el caso.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
@@ -1567,9 +1573,11 @@ VII.- Por ave N$.30
 
 Cuando se trate de animales incompletos se causarán los derechos que establece este artículo si la carne que se presenta corresponde a más del 50% del animal. Si es menor se cobrará el 50% de la cuota.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 51.
 
-INSPECCION SANITARIA.- Por servicios prestados por inspección sanitaria y resello de carnes frescas o refrigeradas, de ganado o aves:
+Por servicios prestados en materia sanitaria por concepto de análisis y resello de carnes frescas o refrigeradas, de ganado o aves:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1617,7 +1625,9 @@ Cuando se trate de animales incompletos, se causarán los derechos que establece
 
 Servicios prestados por las oficinas competentes en materia de Obras Públicas y Urbanización.
 
-I.- Por inspección y aprobación de planos de construcción se cobrará por metro cuadrado, en cada una de las plantas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+I.- Por examen y aprobación de planos de construcción se cobrará por metro cuadrado, en cada una de las plantas:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1643,21 +1653,33 @@ Por los servicios prestados en tramitaciones urbanísticas que se realizan en el
 
 I.- Por subdivisiones, fusiones y relotificaciones, por cada lote o fracción resultante N$500.00
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-Por regularización de predios de hasta 200 metros cuadrados se (sic) superficie y los que se deriven de herencias si el valor catastral de éstos no excede de N$50,000.00, siempre que el propietario sea persona física, y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de N$150,000.00, pagarán por cada lote o fracción resultante N$50.00
+Por los predios resultantes de hasta 250 metros cuadrados de superficie y los que se deriven de herencias, si el valor catastral de éstos no excede de N$120,000.00, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de N$250,000.00, se pagarán por cada lote o fracción resultante N$50.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 II.- Por inicio de trámite de licencia de uso de suelo o de edificación N$500.00.
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-III.- Por la licencia de uso de suelo o de edificaciones, N$500.00, más una cuota de N$9.50 por metro cuadrado de construcción, excluyendo los estacionamientos.
+III.- Por la licencia de uso de suelo o de edificaciones, N$500.00, más una cuota por metro cuadrado de construcción, excluyendo los estacionamientos, conforme a la siguiente tarifa:
 
-La cuota prevista en el párrafo anterior será de N$6.50 para las edificaciones habitacionales multifamiliares. Las casas-habitación estarán exentas del pago de este derecho.
+a) Hasta 100 M2. N$2.00
 
-Tratándose de construcciones que no excedan de 100 metros cuadrados de superficie de construcción, cuyo valor catastral sea hasta de N$120,000.00, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de N$150,000.00, se pagará el 50% de la tarifa por el inicio del trámite y de la cuota fija por la licencia de uso de suelo y edificación, más una cuota de N$6.50 por metro cuadrado de construcción, excluyendo estacionamientos. Si la superficie de construcción no excede de 50 metros cuadrados, se cubrirá el 25% de los derechos establecidos en las fracciones II y III.
+b) Mayor de 100 M2. y hasta 250 M2. N$4.00
+
+c) Mayor de 250 M2. y hasta 500 M2. N$6.00
+
+d) Mayor de 500 M2. y hasta 1,000 M2. N$8.00
+
+e) Mayor de 1,000 M2. N$9.50
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+La cuota prevista en el párrafo anterior no excederá de N$6.50 por metro cuadrado, para las edificaciones habitacionales multifamiliares. Las casas habitación estarán exentas del pago de este derecho.
+
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1697,7 +1719,9 @@ C) Lotes con superficie mayor de 300 metros cuadrados N$5.00
 
 c) Proyecto Ejecutivo N$2,000.00
 
-d) Autorización de ventas N$2,000.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+d) Certificación del cumplimiento de requisitos para ventas N$2,000.00
 
 e) Prórroga N$1,000.00
 
@@ -1707,9 +1731,9 @@ g) Modificaciones N$1,000.00
 
 h) Recepción de obra N$10,000.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-VI.- Por regularización y ordenamiento urbano en fraccionamientos y en licencia de uso de suelo o de edificaciones, N$18,000.00 por trámite, más las cuotas previstas por este artículo en las fracciones III y V.
+VI.- Por regularización y ordenamiento urbano en fraccionamientos y en licencia de uso de suelo o de edificaciones, se cubrirán las cuotas previstas en este artículo en las fracciones III y V, con un incremento del 75%.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1719,9 +1743,7 @@ VII.- Por expedición de copias certificadas de planos N$60.00
 
 VIII.- Por la expedición de diversas constancias y certificaciones N$40.00
 
-(REFORMADO, P.O. 29 DE JULIO DE 1994
-
-Cuando el contribuyente sea persona jubilada, pensionada, discapacitada o viuda, con ingresos mensuales no superiores a tres veces el importe equivalente al salario mínimo general elevado al mes, los derechos previstos en las fracciones II y III, serán cubiertos al 50%.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -1747,11 +1769,11 @@ IV.- Los cobertizos de madera y las construcciones de tipo provisional.
 
 Quedan exentos de los Derechos señalados en el Artículo 52 de esta Ley, los entes u organismos creados por el Gobierno del Estado de Nuevo León, para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como de las personas que, sin fines de lucro, lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 55.
 
-Por registro de nuevos fraccionamientos o ampliaciones a los ya existentes, que apruebe el Gobierno del Estado, se cubrirán los siguientes derechos por metro cuadrado del área vendible:
+Por la inscripción de nuevos fraccionamientos o ampliaciones a los ya existentes, que apruebe el Gobierno del Estado, se cubrirán los siguientes derechos por metro cuadrado del área vendible:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1773,9 +1795,9 @@ d) Cementerios ubicados en los Municipios de Guadalupe, Monterrey, San Nicolás 
 
 e) Cementerios ubicados en el resto de los Municipios del Estado N$.15
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-Estos servicios incluyen el registro del plano del fraccionamiento, la aprobación de la nomenclatura de las calles y la asignación del número oficial de cada lote.
+Estos servicios incluyen la inscripción del plano del fraccionamiento, la aprobación de la nomenclatura de las calles y la asignación del número oficial de cada lote.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1813,9 +1835,9 @@ La transmisión del dominio de la superficie cedida no requerirá de escrituraci
 
 Por expedición de certificados, autorizaciones, constancias o registros:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-I.- Por expedición de certificados, autorizaciones y constancias, N$18.00 por cada uno.
+I.- Por expedición de certificados y constancias, N$18.00 por cada uno.
 
 > <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 29 DE JULIO DE 1994.</small>
 
@@ -2119,9 +2141,9 @@ II.- Por inspecciones que previenen los Reglamentos a nivel municipal, de N$20.0
 
 III.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: N$40.00 por cabeza de ganado vacuno, caballar, asnar, mular y porcino, y N$.25 por cabeza de ganado cabrío o lanar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, N$110.00.
+IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, N$115.00.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -2399,9 +2421,11 @@ Las cédulas de empadronamiento no serán transferibles, ni aún en los casos de
 
 (DEROGADO, P.O. 29 DE JULIO DE 1994)
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 80.
 
-Los causantes que presenten extemporáneamente la solicitud de empadronamiento y los avisos a que se refiere el Artículo anterior serán sancionadas con multa de uno a tres tantos del derecho correspondiente, sin perjuicio del pago de los impuestos, recargos y otras sanciones que correspondan.
+Las personas que presenten extemporáneamente la solicitud de empadronamiento y los avisos a que se refieren los artículos 79 y 81, serán sancionadas con multa que se establecerá en el Reglamento Municipal correspondiente, sin perjuicio del pago de las contribuciones, recargos y otras sanciones que correspondan.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -2409,7 +2433,7 @@ Los causantes que presenten extemporáneamente la solicitud de empadronamiento y
 
 Todas las personas que realicen alguna actividades previstas en el artículo 75, párrafo segundo, de esta Ley, tienen la obligación de empadronarse y refrendar cada año su empadronamiento dentro del plazo que señale el Tesorero Municipal.
 
-En caso de no cumplirse con esta disposición, se aplicará una sanción equivalente de hasta tres tantos de la suma de los derechos previstos en la presente Ley.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -2768,3 +2792,7 @@ Si se da por terminada la Adhesión del Estado de Nuevo León, al Sistema Nacion
 ###### ARTICULO TERCERO.
 
 Durante 1994 el Estado garantizará a los Municipios el pago de las diferencias que resulten entre el importe de la recaudación de los derechos suspendidos con motivo de este Decreto, ocurrida en 1993, respecto de la recaudación de los citados derechos, ocurrida en 1994, adicionada con el incremento en las participaciones en que 1994 obtenga cada uno de ellos, siempre que la suma de la recaudación de estos derechos ocurrida en 1994 y el incremento en las participaciones, sea menor al monto de la recaudación en 1993 de los derechos suspendidos. Para estos efectos, a la recaudación de 1993 se le aplicará el factor de 1.05.
+
+P.O. 30 DE DICIEMBRE DE 1994.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1995.
