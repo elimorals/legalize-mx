@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-59-organica-de-division-territorial-del-estado-9294"
 country: "mx"
 rank: "ley"
 publication_date: "1944-12-20"
-last_updated: "1945-08-08"
+last_updated: "1947-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 59 ORGANICA DE DIVISION TERRITORIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1947.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 20 de diciembre de 1944.
 
@@ -307,9 +307,9 @@ El Distrito de Galeana se forma de las Municipalidades de Tecpan de Galeana, Ato
 
 I.- La Municipalidad de Tecpan de Galeana comprende la Ciudad de Tecpan de Galeana Cabecera del Distrito Judicial y del Municipio y además las Cuadrillas de El Alto, El Cerrito, Coatán, Nuxco, San Luis San Pedro, Santa Lucía, San Luis de la Loma, Santa María, Tetitlán y Tenexpa.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1945)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1947)</small>
 
-Las Rancherías de Arroyo Frío, Arroyo del Muerto, Las Barrancas, Bajos de la Laguna, Bajos del Balsamar, El Bejuco, La Corriente, El Cuajilote, El Camarón, Los Cajeles, Los Camarones, Los Cimientos, El Camalote, El Carrizal, El Cordón, La Camalotera, El Chilar, La Chorriada, El Encinal, El Espinalillo, El Guayabillo, Las Humedades, El Jovero (Centro de población Agrícola), Las Juntas, Los Letrados, El Limón, La Llave, Moreno, El Mameyal, Los Naranjos, El Nanche, Potrerillo, Palo de Arco, El Pastor, El Porvenir, La Palma, El Potrero, La Puerta, Poza Verde, La Poza, El Papayal, Los Pocitos, Las Parotas, Potrero Grande, Piedra Parada, Potrero de Carlos, Palma de Cayaco, Platanillo, La Primera Agua, Piedras Mecas, Plan del Río, Río Frío, Río Chiquito, La Sierrita, San Antonio, La Soledad, El Salto, El Trapiche, Las Tortugas, El Tejón, Las Truchas, El Tirador, El Tamarindo, El Verde, El Valle, El Venado, La Zarza y Papanoa.
+Las Rancherías de Arroyo Frío, Arroyo del Muerto, Las Barrancas, Bajos de la Laguna, Bajos del Balsamar, Calpantepec, La Corriente, El Cuajilote, El Camarón, Los Cajeles, Los Camarones, Los Cimientos, El Camalote, El Carrizal, El Cordón, La Camalotera, El Chilar, La Chorriada, El Encinal, El Espinalillo, El Guayabillo, Las Humedades, El Jovero (Centro de población Agrícola), Las Juntas, Los Letrados, El Limón, La Llave, Moreno, El Mameyal, Los Naranjos, El Nanche, Potrerillo, Palo de Arco, El Pastor, El Porvenir, La Palma, El Potrero, La Puerta, Poza Verde, La Poza, El Papayal, Los Pocitos, Las Parotas, Potrero Grande, Piedra Parada, Potrero de Carlos, Palma de Cayaco, Platanillo, La Primera Agua, Piedras Mecas, Plan del Río, Río Frío, Río Chiquito, La Sierrita, San Antonio, La Soledad, El Salto, El Trapiche, Las Tortugas, El Tejón, Las Truchas, El Tirador, El Tamarindo, El Verde, El Valle, El Venado, La Zarza y Papanoa.
 
 Los parajes de Arroyo del Cacao, La Cuesta, Caña de Castilla, La Ciénega, Cinta Larga, La Dorada, Las Guacamayas, La Marta, El Pusulmiche, Las Parotas, Los Pitales, La Pontezuela, Las Palmitas, Santa Bárbara y La Vinata.
 
@@ -339,7 +339,9 @@ Las Cuadrillas de Hueyitlalpan, Zotoltitlán, Oxtotipan, Tula del Río, Analco, 
 
 La Ranchería de Ahixcoalco.
 
-III.- La Municipalidad de Mochitlán se forma de su Cabecera el pueblo de Mochitlán y las Cuadrillas de Coatomatitlán, San Miguel, Monte Alegre, Tlapacholapa, Tlacotitlanapa, Chacotla, El Salado, San Roque, Zomilcotitlán, San Francisco, Ojo de Agua, Coaxtlahuacán, El Potrero, Los Dircios, La Vieja, Cuajilotla, Zacoaxtlahuacán, Chapalapa, Tepetzintla, El Guayabo, Paxtepec, El Bejuco, El Puente, Las Parotas, Zintlanapa y Tepechicotlán.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 1947)</small>
+
+III.- La Municipalidad de Mochitlán se forma de su Cabecera el pueblo de Mochitlán y las Cuadrillas de Coatomatitlán, San Miguel, Monte Alegre, Tlapacholapa, Tlacotitlanapa, Chacotla, El Salado, San Roque, Zomilcotitlán, San Francisco, Ojo de Agua, Coaxtlahuacán, El Potrero, Los Dircios, La Vieja, Cuajilotla, Zacoaxtlahuacán, Chapalapa, Tepetzintla, El Guayabo, Paxtepec, Calpantepec, El Puente, Las Parotas, Zintlanapa y Tepechicotlán.
 
 Las Rancherías de El Rincón, San Geronimito, Zacapotlaxtli y Rancho Viejo.
 
@@ -399,7 +401,9 @@ Los pueblos de Placeres del Oro y Paso de Arena.
 
 Las Cuadrillas de La Bajada, Las Juntas del Río Chiquito, Los Terrones, Pungarabatito, San Juan de la Cruz, El Manchón, San Juan Chamacua, El Rincón de Chamacua, Las Parotas, Pancira. Los Braciles, El Coco, La Mastranza, El Agua Fría, La Cruz del Agua Fría, San José de la Quesería, El Capire Amargo, La Quesería, El Coyol, La Cruz del Río Balsas, Los Guajes de Ayala, Tarétaro, La Cuesta Grande, El Potrero, El Limón, Monte Grande, Las Cruces, El Pozo, El Zapote, Cuirindar, La Caña Patambo, El Quebrantadero, El Pinzán Morado, Las Pilas, San Fernando, El Mono, El Llano Grande, El Cundán Grande, El Cundán Chiquito, Zihuaquio, Las Casas Viejas, La Palma del Idolo, Jaripo, Piedra Parada, Los Pozos Pineda, Parancio, Santa Teresa, Las Anonas, El Naranjo, Quirirícuaro, La Ciénega de Arriba, La Ciénega de Abajo, El Jabalí, El Rosario, Tario, Santo Domingo, El Ancón, Las Animas, Las Tinajas y Amuco de la Reforma.
 
-Las Rancherías de El Rincón, San Pedro, La Tepórota, El Montecillo, Los Guajes, La Cuestecita, Los Arroyos, La Puerta Grande, El Cuahulote, El Cuajilote, El Cirián Gordo, El Cuajilotito, El Salto, La Cuahulotera, El Saibal, Los Pinzanes, Los Ciruelos, El Tejón, La Hacienda de Dolores, La Laguna, Los Gachupines, Los Organos, Los Caserones, Querecena, La Aráricua, Los Lobos, El Salitre, El Platanar, El Limoncito, El Bálsamo, El Limón Escarbado, El Tule, La Palma, Los Trojes, Los Capires, Las Truchas, Santa Rita, Las Trincheras, El Cerro de la Madera, El Buey, El Pescado, Colmeneros, Los Lampaces, El Otota, El Durazno, El Perro, San Antonio, Las Playitas, Las Galeras, La Mesa de los Burros, La Mesa de la Cruz, La Escondida, El Carrizal, El Capire, Los Nopales, La Papaya, La Iguana, Los Pocitos, Catana, Las Barrancas, La Milpa Chica, Ajuno, Potrerillos, Achímoro, El Metate, La Tabla, Rancho Viejo, Santa Gertrudis, El Anono, Los Jiotes, Las Mesas, La Cueva, La Ciénega, El Río Frío, Las Calaveras, Los Encuerados, Las Sávilas, Pantojam, El Timbre, Las Lagunas, Puerto del Oro (Mineral), La Pompeya (Mineral), El Espinal, El Bejuco, Las Potrancas, Cupándiro, Quihuizicaro, Barrabás del Manchón, Mesa del Coaxtle, La Cruz del Otate, Piedra Redonda, Las Mesas de Santa Ana, Las Vaquitas, Las Ollas, La Cabeza del Toro, El Ojo de Agua, El Idolo (Hacienda), El Zapote, Las Trincheras, El Frijolar, La Ceibita, El Carricito, El Ojo de Agua Segundo, El Encino Boludo, La Adelfa, La Vinatita, Tierras Blancas, La Campana, Armenia, Los Bálsamos, Santa Bárbara, Santa Lucía, La Piedra, Los Tarimos, El Cuarto, Arroyo Grande, El Benarrón, Palma de Parancio, Piedra Imán, El Coacoyul, El Limoncito Segundo, El Ranchito, Los Cueramos, Cicuítaro, El Embarcadero, Las Parácatas, Limón del Río, Zirandaranguio, El Raicero, El Zoyate, El Llano de la Huerta, El Aguacate, Arroyo Seco, Asastio, El Bajarique, Barranca del Xapo, Los Brasiles Segundo, Paso Portillo, La Caña Vieja, El Capulinar, El Cerro de la Estrella, Cerro del Tejamanil, Las Crucitas, La Cuaxclera, La Cuesta, Las Cuevitas, El Ciruche, El Chorrillo, Los Diamantes, Los Fresnos, Las Juntas del Río Frío, La Zapotera, Las Juntas del Salitre, Las Juntas de Santana, La Lajita, Las Mesas de Daniel, Los Limones, El Magueycito, Las Mesas del Río Frío, El Muerto, Las Pachecas, La Palma de Limón, El Palo Nuevo, El Paraíso, Las Piedras de Amolar, El Pino, La Palma del Nache, El Pueblo Viejo, Puerto del Aire, San Francisco, El Sauz, La Soledad, La Tazajera, Los Tecomates, El Ticuche, Los Cúcuaros, Vaca Blanca, Las Vacas, La Víbora y El Zopilote.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1947)</small>
+
+Las Rancherías de El Rincón, San Pedro, La Tepórota, El Montecillo, Los Guajes, La Cuestecita, Los Arroyos, La Puerta Grande, El Cuahulote, El Cuajilote, El Cirián Gordo, El Cuajilotito, El Salto, La Cuahulotera, El Saibal, Los Pinzanes, Los Ciruelos, El Tejón, La Hacienda de Dolores, La Laguna, Los Gachupines, Los Organos, Los Caserones, Querecena, La Aráricua, Los Lobos, El Salitre, El Platanar, El Limoncito, El Bálsamo, El Limón Escarbado, El Tule, La Palma, Los Trojes, Los Capires, Las Truchas, Santa Rita, Las Trincheras, El Cerro de la Madera, El Buey, El Pescado, Colmeneros, Los Lampaces, El Otota, El Durazno, El Perro, San Antonio, Las Playitas, Las Galeras, La Mesa de los Burros, La Mesa de la Cruz, La Escondida, El Carrizal, El Capire, Los Nopales, La Papaya, La Iguana, Los Pocitos, Catana, Las Barrancas, La Milpa Chica, Ajuno, Potrerillos, Achímoro, El Metate, La Tabla, Rancho Viejo, Santa Gertrudis, El Anono, Los Jiotes, Las Mesas, La Cueva, La Ciénega, El Río Frío, Las Calaveras, Los Encuerados, Las Sávilas, Pantojam, El Timbre, Las Lagunas, Puerto del Oro (Mineral), La Pompeya (Mineral), El Espinal, Calpantepec, Las Potrancas, Cupándiro, Quihuizicaro, Barrabás del Manchón, Mesa del Coaxtle, La Cruz del Otate, Piedra Redonda, Las Mesas de Santa Ana, Las Vaquitas, Las Ollas, La Cabeza del Toro, El Ojo de Agua, El Idolo (Hacienda), El Zapote, Las Trincheras, El Frijolar, La Ceibita, El Carricito, El Ojo de Agua Segundo, El Encino Boludo, La Adelfa, La Vinatita, Tierras Blancas, La Campana, Armenia, Los Bálsamos, Santa Bárbara, Santa Lucía, La Piedra, Los Tarimos, El Cuarto, Arroyo Grande, El Benarrón, Palma de Parancio, Piedra Imán, El Coacoyul, El Limoncito Segundo, El Ranchito, Los Cueramos, Cicuítaro, El Embarcadero, Las Parácatas, Limón del Río, Zirandaranguio, El Raicero, El Zoyate, El Llano de la Huerta, El Aguacate, Arroyo Seco, Asastio, El Bajarique, Barranca del Xapo, Los Brasiles Segundo, Paso Portillo, La Caña Vieja, El Capulinar, El Cerro de la Estrella, Cerro del Tejamanil, Las Crucitas, La Cuaxclera, La Cuesta, Las Cuevitas, El Ciruche, El Chorrillo, Los Diamantes, Los Fresnos, Las Juntas del Río Frío, La Zapotera, Las Juntas del Salitre, Las Juntas de Santana, La Lajita, Las Mesas de Daniel, Los Limones, El Magueycito, Las Mesas del Río Frío, El Muerto, Las Pachecas, La Palma de Limón, El Palo Nuevo, El Paraíso, Las Piedras de Amolar, El Pino, La Palma del Nache, El Pueblo Viejo, Puerto del Aire, San Francisco, El Sauz, La Soledad, La Tazajera, Los Tecomates, El Ticuche, Los Cúcuaros, Vaca Blanca, Las Vacas, La Víbora y El Zopilote.
 
 II.- La Municipalidad de Cutzamala de Pinzón comprende su Cabecera Cutzamala de Pinzón.
 
@@ -457,7 +461,9 @@ II.- La Municipalidad de Coahuayutla comprende: Su Cabecera el pueblo de Coahuay
 
 Las Cuadrillas de El Zopilote, San José de Anota, Paso de las Vacas, Las Balsas, La Soledad, Olivares, Santa Rita, Bejucos, Antónsimón (sic), El Amatepec, Galeana, San Isidro, El Aguacate, La Vainilla, Santa Rosa, Las Truchas, El Valle Grande, Nueva Cuadrilla, San Salvador, San Vicente, Tres Palos, Soyatán, El Naranjo, Colmenero, San Rafael de Cabrera, San Antonio, La Cofradía, Las Minas, Barrio de Guzmán, Barrio de Lozano y La Providencia.
 
-Las Rancherías de la Añeja, El Contadero, La Mohonera, El Campinzirán, Córcoles, Buenavista, Las Curtidurías, Palma de Huato, Los Otates de Huato, La Escondida, Platanillo, Las Juntas de Maciel, La Hacienda Nueva, La Calera, Huacatzio, Tenamaxtles, El Huaricho, El Pitiral, Los Cimientos, El Toro, El Tamarindo, La Cajita, El Jazmín de Basurto, Ahuindo, El Pirzanar, Sárate, Los Pinos, Las Parotas, Puerto del Carrizo, El Veladero, El Maguey, El Camuchín, La Quiringucua, Los Esteros, El Melonar, El Quelital, Cuipipatzio, Las Cahuingas, La Puerta, El Capadero, Las Carámicuas, Los Tamaleros, San Francisco de Verduzco, El Canal Grande, Los Ciruelos, Miyagua, La Palma de Suazo, Las Animas, Los Otates de Flores, Las Anonas de Lozano, Hueronche, El Reparo del Cascalote, La Daga, Barrio Nuevo, El Tarepe, La Palmilla, La Pintada, El Cóbano, El Zoyamiche de Váldez, Los Potreritos, San José, Plan Grande, Los Angelitos, San Francisco de Trejo, Pueblo Viejo, El Primer Campo, Los Encinitos, Guadalupe, San Marcos, Rancho Nuevo, Las Juntas de Izazaga, El Astillero, Las Animas de Izazaga, San Rafael de Flores, La Palma de Baños, La Piedra, El Molinito, San Nicolás, El Porvenir, El Changungo, San Cristóbal, La Esperanza, Torrecillas. El Carrizo, El Lindero, Santa Clemencia, Las Pilas, Valle Nuevo, El Coacoyulito de Izazaga, La Escuela, Las Lomas Blancas, San Antonio, El Guayabo, El Pueblito, La Garita de García, Las Carretas, La Apareja, El Limón de Verduzco, El Rincón del Naranjo, La Cruz, El Estero de Verduzco, Chávez, Los Limones, Las Cocinas, Las Mesillas, Los Tejones, La Tubería, La Laguna, Las Animas de Orozco, La Cuina, El Chiquerito, La Calabaza, El Reparo, El Tizate, Chanquelita, Barrio Nuevo, La Crucita, Las Iguanas, El Granadillo, El Puerto del Encinal, El Salto, El Zapote, El Reparito, San Vicente del Río, El Zapote de Verduzco, El Pinzán, El Bálsamo, El Balsamito, Los Tamarindos, Los Cuernecillos, El Carrizalillo, Las Piedras, Santa Cruz, El Algodón, El Puerto del Naranjo, La Maroma, El Soyamiche de Valdovinos, La Bajada, La Ordeñita, Las Víboras, El Parotal, La Parotita, Las Habillas, Huitzila, El Guacate de Cabrera, La Calera de Cabrera, Los Rastrojos, El Tular, El Huindure, Potrerillos, El Jazmín de Bustos, Las Artezas, Las Higueras, Los Anonos de Cabrera, Las Juntas de Bustos, El Timbiriche, El Capire Alto, El Rincón del Tepehuaje, El Limoncito, Barranca de Hilario. El Ciruelo, El Ojo de Agua, El Reloj, El Cuahulotal, El Camarón de Pacheco, El Camarón de Alvarez, La Lajita, La Parota, Potrerillos de Bustos, Las Huertas, La Alberca, Los Arrastres, El Gallo de Maciel, El Plátano, La Laja, La Huerta, El Atuto, Pochutla, La Higuerita, El Atascadero, El Coacoyulito de Núñez, Corral de Tierra, Las Tamacuas, El Paseo, El Naranjito, Los Loros, Corral Falso y El Bejuco.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1947)</small>
+
+Las Rancherías de la Añeja, El Contadero, La Mohonera, El Campinzirán, Córcoles, Buenavista, Las Curtidurías, Palma de Huato, Los Otates de Huato, La Escondida, Platanillo, Las Juntas de Maciel, La Hacienda Nueva, La Calera, Huacatzio, Tenamaxtles, El Huaricho, El Pitiral, Los Cimientos, El Toro, El Tamarindo, La Cajita, El Jazmín de Basurto, Ahuindo, El Pirzanar, Sárate, Los Pinos, Las Parotas, Puerto del Carrizo, El Veladero, El Maguey, El Camuchín, La Quiringucua, Los Esteros, El Melonar, El Quelital, Cuipipatzio, Las Cahuingas, La Puerta, El Capadero, Las Carámicuas, Los Tamaleros, San Francisco de Verduzco, El Canal Grande, Los Ciruelos, Miyagua, La Palma de Suazo, Las Animas, Los Otates de Flores, Las Anonas de Lozano, Hueronche, El Reparo del Cascalote, La Daga, Barrio Nuevo, El Tarepe, La Palmilla, La Pintada, El Cóbano, El Zoyamiche de Váldez, Los Potreritos, San José, Plan Grande, Los Angelitos, San Francisco de Trejo, Pueblo Viejo, El Primer Campo, Los Encinitos, Guadalupe, San Marcos, Rancho Nuevo, Las Juntas de Izazaga, El Astillero, Las Animas de Izazaga, San Rafael de Flores, La Palma de Baños, La Piedra, El Molinito, San Nicolás, El Porvenir, El Changungo, San Cristóbal, La Esperanza, Torrecillas. El Carrizo, El Lindero, Santa Clemencia, Las Pilas, Valle Nuevo, El Coacoyulito de Izazaga, La Escuela, Las Lomas Blancas, San Antonio, El Guayabo, El Pueblito, La Garita de García, Las Carretas, La Apareja, El Limón de Verduzco, El Rincón del Naranjo, La Cruz, El Estero de Verduzco, Chávez, Los Limones, Las Cocinas, Las Mesillas, Los Tejones, La Tubería, La Laguna, Las Animas de Orozco, La Cuina, El Chiquerito, La Calabaza, El Reparo, El Tizate, Chanquelita, Barrio Nuevo, La Crucita, Las Iguanas, El Granadillo, El Puerto del Encinal, El Salto, El Zapote, El Reparito, San Vicente del Río, El Zapote de Verduzco, El Pinzán, El Bálsamo, El Balsamito, Los Tamarindos, Los Cuernecillos, El Carrizalillo, Las Piedras, Santa Cruz, El Algodón, El Puerto del Naranjo, La Maroma, El Soyamiche de Valdovinos, La Bajada, La Ordeñita, Las Víboras, El Parotal, La Parotita, Las Habillas, Huitzila, El Guacate de Cabrera, La Calera de Cabrera, Los Rastrojos, El Tular, El Huindure, Potrerillos, El Jazmín de Bustos, Las Artezas, Las Higueras, Los Anonos de Cabrera, Las Juntas de Bustos, El Timbiriche, El Capire Alto, El Rincón del Tepehuaje, El Limoncito, Barranca de Hilario. El Ciruelo, El Ojo de Agua, El Reloj, El Cuahulotal, El Camarón de Pacheco, El Camarón de Alvarez, La Lajita, La Parota, Potrerillos de Bustos, Las Huertas, La Alberca, Los Arrastres, El Gallo de Maciel, El Plátano, La Laja, La Huerta, El Atuto, Pochutla, La Higuerita, El Atascadero, El Coacoyulito de Núñez, Corral de Tierra, Las Tamacuas, El Paseo, El Naranjito, Los Loros, Corral Falso y Calpantepec.
 
 III.- La Municipalidad de Petatlán comprende su Cabecera el pueblo de Petatlán.
 
@@ -466,6 +472,12 @@ III.- La Municipalidad de Petatlán comprende su Cabecera el pueblo de Petatlán
 Las Cuadrillas de Arroyo Seco, Cayacal, Joluchuca, Alpuyeca la Blanqueada, La Máquina, Palos Blancos, La Soledad de Maciel, Río Chiquito, Las Peñas, El Bocotal, San Geronimito, El Pujalito, Potrerillos, Murga, La Tigra, El Ocote de Peregrino, El Balcón, La Soledad de la Palma, El Camalote, La Morena, Las Humedades, El Rincón del Refugio, El Bálsamo, Las Paraceras, La Hujera, El Banco, Los Corrales, La Florida, La Abrojera, Las Mesas, Jimalcota, El Ojo de Agua Primero, Barrio de las Flores, El Mameyal y Coyuquilla.
 
 Las Rancherías de El Parotal, San Felipe, La Puerta, La Piedra de Veliano, El Higueral, La Hujera, El Sesteadero, El Zoquital, Rancho Nuevo, La Nopalera, El Salto, Buenos Aires, Las Juntas, Tres Arroyos, Coahuayana, Camotal, El Encanto, El Alambrado, Las Patacuas, Londres, Ojo de Agua Segundo, Koorerquín (Mineral), Camalotito, La Vainilla, Nogales, La Palapa, La Finca, Casa Chueca, Sandoval, El Anonal, El Saúz Miyahua, Las Delicias, El Arenoso, Ocote de Cadena, El Cacao, El Capire, Paso del Chino, El Venado, El Carrizal, El Rincón, La Calera, Campo del Cielo, La Botella, El Parazal, El Limón, El Frío Río, Yerbabuena, Temixco, Nuevo Mundo, San Antonio, Puerto del Otate, Arroyo Grande, La Noria, La Silleta, Casas Viejas, Pocitos, Sombra Pesada, Chilcahuila, La Moronga, Cayaquito, La Otatera, El Fresnal, Los Cimientos, Monte Grande, El Balsamar, El Calaboz, La Barranca, Caldo Flaco Miramar, Corralitos, Los Limones, Coapinolar, Las Cuevas, Las Tinajas, El Soyamiche, La Lajita, La Carricillera, Las Calabazas, El Camarón, El Tuzal, El Zapotillal, La Zacatonera, La Pasión, La Cayaca, La Chorreada, El Cajinicuilar, La Huertillera, Las Palancas, El Suspiro y Rincón del Mameyado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ENERO DE 1947)</small>
+
+IV.- La Municipalidad de Tlalixtaquilla comprende el pueblo de Tlalixtaquilla su cabecera, Xonacatlán, Santa Cruz Guerrero, La Rivera, Mexquititlán, Totomochapa y la Luz de Juárez.
+
+Las Cuadrillas de Ahuacatitlán, San Juan del Carmen y El Progreso.
 
 ###### Art. 16.
 
@@ -545,7 +557,9 @@ Los pueblos de Alto del Camarón, Los Arroyos, La Providencia, La Sabana, La Ven
 
 Las Cuadrillas de Agua del Perro, Cayacos, Colonia Guerrero (antes los Guajes), El Potrero, El Progreso, El Veladero, La Calera, La Garita de Juárez, Las Cruces, Las Plazuelas, Kilómetro 45 (antes la sierrita), La Zanja, Llano Largo, Las Marías, Los Organos de San Agustín, Los Organos, Juan R. Escudero (antes el Quemado), Parotillas, Pie de la Cuesta, Piedra Imán, Puerto Marqués, Pueblo Nuevo, San Isidro, Santa Cruz, Zolapa, Tres Palos y Tasajeras.
 
-Las Rancherías de Aguascalientes, Apanhuac, Carabali, El Bejuco, El Salto, La Concepción, Ejido del Jardín, Garrapatas, Kilómetro 40, Kilómetro 42, Ochotlaxco, Pueblo Madero, Chapultepec, Kilómetro 21 y Cerro de Piedra.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1947)</small>
+
+Las Rancherías de Aguascalientes, Apanhuac, Carabali, Calpantepec, El Salto, La Concepción, Ejido del Jardín, Garrapatas, Kilómetro 40, Kilómetro 42, Ochotlaxco, Pueblo Madero, Chapultepec, Kilómetro 21 y Cerro de Piedra.
 
 II.- La Municipalidad de San Marcos comprende su Cabecera el pueblo del mismo nombre.
 
@@ -557,7 +571,9 @@ Las Rancherías de Piedra Fina, El Campanario y El Rincón.
 
 III.- La Municipalidad de Coyuca de Benítez, comprende su Cabecera el pueblo de Coyuca de Benítez y además los de Tixtlancingo, Bajos del Ejido, El Papayo, El Cayaco, Aguas Blancas, Ejido Viejo, Pueblo Viejo, Tepetixtla, Cahuatitán, Barrio Nuevo, Las Lomas, El Embarcadero y El Zapote.
 
-Las Cuadrillas de Atoyaquillo, El Bejuco, El Carrizal, Los Cimientos, El Huamúchil, San José Tasajeras, Paso Real, Las Pozas, Valle del Río, Yetla, Aguazarca, Santa Rosa, Barrio Nuevo, (antes La Laja), El Conchero, Las Compuertas, San Isidro, San Juan, Los Nopales, Ocotillo, La Playa, Platanillo y Yerbasantita.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1947)</small>
+
+Las Cuadrillas de Atoyaquillo, Calpantepec, El Carrizal, Los Cimientos, El Huamúchil, San José Tasajeras, Paso Real, Las Pozas, Valle del Río, Yetla, Aguazarca, Santa Rosa, Barrio Nuevo, (antes La Laja), El Conchero, Las Compuertas, San Isidro, San Juan, Los Nopales, Ocotillo, La Playa, Platanillo y Yerbasantita.
 
 Las Rancherías de Espinalillo y San Nicolás.
 
@@ -656,3 +672,17 @@ P.O. 8 DE AGOSTO DE 1945.
 ###### ARTICULO UNICO
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 1947.
+
+DECRETO NUMERO 98
+
+UNICO. Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 1947.
+
+DECRETO NUMERO 104 BIS
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
