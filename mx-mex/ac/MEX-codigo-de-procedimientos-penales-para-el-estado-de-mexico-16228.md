@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2004-11-09"
+last_updated: "2004-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -725,6 +725,10 @@ El Ministerio Público que practique diligencias de averiguación previa determi
 
 Cuando se determine el ingreso de alguna persona a un hospital u otro establecimiento similar, deberá indicarse el carácter con que lo sea y comunicárselo a los encargados del establecimiento respectivo; si no se hiciere esa indicación, se entenderá que sólo ingresa para su curación.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 114 bis.- Tratándose de menores o incapaces agraviados por la comisión de algún delito el órgano jurisdiccional y el Agente del Ministerio Público, los dejará para cuidados y atenciones en los albergues estatal o municipal del Sistema para el Desarrollo Integral de la Familia, quienes a su vez podrán enviarlos al Instituto de Salud, Institución Privada debidamente constituida conforme a la ley, que procurarán, previo los estudios físicos, socioeconómicos y psicológicos, reintegrarlo en su momento al familiar idóneo, atendiendo al interés superior del menor o incapaz; debiendo informar a la autoridad correspondiente el lugar de permanencia, en tanto recaiga determinación en la indagatoria.
+
 ###### Artículo 115.
 
 Si de las diligencias realizadas apareciere que la muerte de alguna persona fue posiblemente originada por delito, el Ministerio Público, ordenará primeramente la necropsia y después expedirá las órdenes para el levantamiento del acta de defunción e inhumación del cadáver. Cuando no fuere así, expedirá estas dos últimas.
@@ -741,9 +745,11 @@ Cuando en vista de la averiguación previa, el Ministerio Público estime que no
 
 Deberán ser notificadas las resoluciones referidas en este artículo al ofendido o víctima del delito y al inculpado.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 118.
 
-En las diligencias de averiguación previa, el Ministerio Público podrá emplear todos los medios mencionados en el capítulo V del título quinto de este código. Dichas diligencias se practicarán secretamente y sólo podrán tener acceso a ellas el ofendido, la víctima, el indiciado y su defensor. El servidor público que, en cualquier otro caso quebrante el secreto, será destituido conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+En las diligencias de averiguación previa, el Ministerio Público podrá emplear todos los medios mencionados en el capítulo V del título quinto de este código. Dichas diligencias se practicarán secretamente y sólo podrán tener acceso a ellas el ofendido, la víctima, la Institución Pública o Privada que tenga la guarda y cuidado del menor o incapaz agraviado, el indiciado y su defensor. El servidor público que, en cualquier otro caso quebrante el secreto, será destituido conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
 ## TITULO TERCERO. DISPOSICIONES COMUNES A LA AVERIGUACION PREVIA Y A LA INSTRUCCION
 
@@ -2922,3 +2928,7 @@ Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno."
+
+P.O. 26 DE NOVIEMBRE DE 2004.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MEXICO.
