@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-instituto-de-readaptacion-social-de-sinaloa-11
 country: "mx"
 rank: "ley_organica"
 publication_date: "1970-09-19"
-last_updated: "1970-09-19"
+last_updated: "2001-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY ORGANICA DEL INSTITUTO DE READAPTACION SOCIAL DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA CONFORME A LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE EXPIDE LA LEY DE EJECUCION DE LAS CONSECUENCIAS JURIDICAS DEL DELITO DEL ESTADO DE SINALOA, PUBLICADA EN EL PERIODICO OFICIAL EL 14 DE SEPTIEMBRE DE 2001.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Periódico Oficial el "Estado de Sinaloa", el sábado 19 de septiembre de 1970.
 
@@ -732,3 +734,19 @@ LIC. ALFREDO VALDES MONTOYA
 El Srio. Gral. de Gobierno
 
 LIC. FRANCISCO RODOLFO ÁLVAREZ FÁRBER
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+LEY DE EJECUCION DE LAS CONSECUENCIAS JURIDICAS DEL DELITO DEL ESTADO DE SINALOA
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor a los ciento ochenta días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO TERCERO.
+
+Se abrogan la Ley de Ejecución de Sanciones Privativas y Restrictivas de Libertad; la Ley Orgánica del Instituto de Readaptación Social; la Ley Orgánica de la Zona de Procesados del Instituto de Readaptación Social, así como la Ley que crea el Patronato para Reos Liberados del Estado de Sinaloa.
