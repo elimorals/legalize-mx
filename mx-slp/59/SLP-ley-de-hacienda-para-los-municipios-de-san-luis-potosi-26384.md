@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2001-11-06"
+last_updated: "2002-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -277,7 +277,17 @@ Para efecto de determinar la base del impuesto, deberá obtenerse un avalúo cat
 
 La tasa del impuesto será la que se determine en la respectiva Ley de Ingresos de cada municipio.
 
-Tratándose de vivienda de interés social, vivienda popular y vivienda popular con urbanización progresiva, en términos de lo establecido en el artículo 60 de la Ley de Hacienda del Estado, la tasa del impuesto será reducida a la mitad. En ningún caso el impuesto a pagar podrá ser inferior al importe de cuatro salarios mínimos diarios.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2002)</small>
+
+Para efectos de vivienda de interés social y vivienda popular se deducirá de la base gravable el importe de 10 salarios mínimos generales de la zona económica en que se ubique el municipio respectivo, elevados al año, y del impuesto a pagar resultante se reducirá el 50%.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2002)</small>
+
+Se entiende por vivienda de interés social y popular, las que establece el artículo 60 de la Ley de Hacienda para el Estado de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2002)</small>
+
+Se considera vivienda popular con urbanización progresiva la que señalan los artículos 159 y 160 de la Ley de Desarrollo Urbano del Estado de San Luis Potosí; estableciéndose para las mismas una cuota mínima que se indicará en la ley de ingresos del municipio respectivo. En ningún caso el impuesto a pagar podrá ser inferior al importe de cuatro salarios mínimos diarios.
 
 ###### ARTICULO 32.
 
@@ -710,6 +720,14 @@ El Secretario General de Gobierno del Estado
 LIC. JORGE DANIEL HERNANDEZ DELGADILLO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE DICIEMBRE DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigencia el día uno de enero de 2003.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### ARTICULO 82.
 
