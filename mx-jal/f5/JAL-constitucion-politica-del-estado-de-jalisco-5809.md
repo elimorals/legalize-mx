@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1993-01-28"
+last_updated: "1993-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 1993.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -345,9 +345,11 @@ I. Legislar en todas las ramas del régimen interior del Estado, expedir Leyes y
 
 Cuando se discuta una Ley o se estudie un negocio relativo al Poder Ejecutivo del Estado, el Congreso podrá citar a los titulares de las Dependencias del ramo de que se trate, para que informen.
 
-II. Facultar al Ejecutivo, con las limitaciones que crea necesarias para que por sí o por apoderado especial, represente al Estado en los casos que corresponda;
+II. Facultar al Ejecutivo, con las limitaciones que crea necesarias para que por sí o por apoderado especial, represente al Estado en los casos que corresponda.
 
-III. Fijar la división territorial política, administrativa y judicial del Estado.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1993)</small>
+
+III. Fijar la división territorial, política y administrativa del Estado.
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
 
@@ -739,11 +741,27 @@ La función jurisdiccional en materia administrativa, incluyendo la fiscal, esta
 
 La función jurisdiccional para resolver las controversias entre el Estado, los municipios, los organismos descentralizados y empresas de participación mayoritaria de ambos con sus servidores, en sus relaciones de trabajo, estará a cargo del Tribunal de Arbitraje y Escalafón, con excepción de las controversias en materia de relaciones de trabajo de los servidores públicos pertenecientes al Poder Judicial a que se refiere el primer párrafo de este artículo, las que se regirán de conformidad con su Ley Orgánica respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1993)</small>
+
+El Supremo Tribunal de Justicia se integrará con los Magistrados Numerarios, Supernumerarios y las Salas que señale la Ley, y permita su presupuesto.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1993)</small>
+
+Los Magistrados Numerarios formarán el Pleno en los términos que la Ley lo disponga, las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas, en los casos que así lo exijan la moral o el interés público.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1993)</small>
+
+El funcionamiento del Pleno, las Salas, la competencia de éstas y de los juzgados, se regirá por lo que determine esta Constitución y las leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1993)</small>
+
+La Ley fijará los términos en que sea obligatoria la jurisprudencia que establezca el Supremo Tribunal de Justicia en Pleno o por medio de sus Salas, sobre interpretación de Leyes de su competencia así como los requisitos para su interrupción y modificación, sin que se contravenga la jurisprudencia que establezcan los Tribunales del Poder Judicial de la Federación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 1993)</small>
 
 ###### Art. 40.
 
-El Supremo Tribunal de Justicia funcionará en Acuerdo pleno o en Salas, con el número de Magistrados PROPIETARIOS Y SUPLENTES que fije la Ley, y le corresponden las siguientes atribuciones:
+Al Supremo Tribunal de Justicia le corresponden las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
 
@@ -769,17 +787,21 @@ V. Permitir que se proceda criminalmente contra los jueces;
 
 VI. Conceder licencias a los jueces para que se separen de sus cargos y admitir las renuncias de los mismos;
 
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 1993)</small>
+
+VII. Conceder licencias a los Magistrados hasta por dos meses, para que se separen del ejercicio de sus funciones, y llamar a los Magistrados que deban suplirlos, en este y en los demás casos, conforme lo establezca la Ley;
+
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
 
-VII. Conceder licencias a los Magistrados hasta por dos meses, para que se separen del ejercicio de sus funciones, y llamar a los suplentes por el orden que crea conveniente; y
-
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
-
-VIII. Nombrar y remover, en la forma que determinen las leyes, a los demás servidores públicos del Poder Judicial.
+VIII. Nombrar y remover, en la forma que determinen las leyes, a los demás servidores públicos del Poder Judicial;
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
-IX. Resolver en definitiva, los conflictos administrativos y los que se susciten con motivo de las relaciones de trabajo entre los tribunales a que se refiere el primer párrafo del artículo anterior y sus dependencias, con sus servidores públicos.
+IX. Resolver en definitiva, los conflictos administrativos y los que se susciten con motivo de las relaciones de trabajo entre los tribunales a que se refiere el primer párrafo del artículo anterior y sus dependencias, con sus servidores públicos;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 1993)</small>
+
+X. El Pleno del Supremo Tribunal de Justicia determinará qué Magistrados integran cada Sala, las cuales serán colegiadas, así como la competencia por materia de las mismas; además el número, división en partidos judiciales, su jurisdicción territorial y especialización por materia de los Juzgados de Primera Instancia, Menores, de Paz, y de los Jurados, ajustándose al Presupuesto de Egresos del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
@@ -825,11 +847,17 @@ Los Magistrados del Supremo Tribunal de Justicia del Estado, durarán en el ejer
 
 El Gobernador aceptará las renuncias de los Magistrados y les concederá licencias por más de dos meses pero sus actos deberán ser ratificados por el Congreso o por la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 1993)</small>
 
 ###### Art. 43.
 
-Los jueces de primera Instancia, Menores y de Paz, serán nombrados por el Supremo Tribunal de Justicia.
+Los Jueces de Primera Instancia, Menores y de Paz, serán nombrados por el Supremo Tribunal de Justicia; durarán en el ejercicio de su cargo cuatro años, al vencimiento de los cuales, podrán ser ratificados. Los Jueces que reciban ratificación sólo podrán ser privados de su puesto en los términos del Título Séptimo de esta Constitución. Durante su ejercicio los Jueces sólo podrán ser cambiados de adscripción por Acuerdo del Pleno o removidos con estricto apego a la Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1993)</small>
+
+La ratificación a que se refiere el párrafo anterior procederá para el cargo en cuyo desempeño hubiesen transcurrido cuatro años; y en los casos de promoción, la inamovilidad en el nuevo empleo, se adquirirá al transcurrir el plazo correspondiente a su ejercicio.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1987)</small>
 
 La Ley establecerá las condiciones para el ingreso, formación y permanencia de los servidores públicos que laboren en el Poder Judicial del Estado.
 
@@ -1324,3 +1352,11 @@ Artículo Segundo. El presente Decreto entrará en vigor al día siguiente de su
 P.O. 28 DE ENERO DE 1993.
 
 Unico. Este Decreto entrará el (sic) vigor al día de su publicación en el Periódico Oficial el Estado de Jalisco, una vez cumplimentados los requisitos del Artículo 66 de la Constitución Política del Estado.
+
+P.O. 5 DE JUNIO DE 1993.
+
+Primero.- Los nombramientos de los Magistrados tanto propietarios como Suplentes, otorgados a la fecha, surtirá sus efectos en los mismos términos que se expidieron, con la salvedad de que se considerarán conferidos como nombramientos de Magistrados Numerarios y Supernumerarios, respectivamente.
+
+Segundo.- Dése cumplimiento a lo establecido en el artículo 66 de la Constitución Política del Estado de Jalisco.
+
+Tercero.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco" y una vez cumplidos los extremos del artículo 66 de la Constitución Política del Estado.
