@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2002-10-25"
+last_updated: "2002-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -1523,7 +1523,7 @@ No se comete el delito de difamación cuando:
 
 I.- Se manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial.
 
-II.- Se manifiesta su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que obró en cumplimiento de un deber por interés público, o que, con la debida reserva, lo hizo por humanidad, por prestar un servicio a persona con quien tenga parentesco o amistad, o dando informes que se le hubieren pedido, si no lo hiciere a sabiendas, calumniosamente, y
+II.- Se manifiesta su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, probare que obró en cumplimiento de un deber por interés público, o que, con la debida reserva, lo hizo por humanidad, por prestar un servicio a persona con quien tenga parentesco o amistad, o dando informes que se le hubieren pedido, si no lo hiciere a sabiendas, calumniosamente, y
 
 III.- Sea autor de un escrito presentado o de un discurso pronunciado ante un órgano jurisdiccional, pues si hiciere uso de alguna expresión difamatoria, el órgano jurisdiccional, según la gravedad del caso le impondrá alguna de las correcciones disciplinarias de las que permite la Ley.
 
@@ -2329,15 +2329,21 @@ VI.- Abandone sin causa justificada a la persona de cuya asistencia esté encarg
 
 VII.- Certifique falsamente que una persona tiene una enfermedad u otro impedimento bastante para dispensarla de cumplir una obligación que la Ley le impone o para adquirir algún derecho.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE NOVIEMBRE DE 2002)</small>
+
 ###### ARTICULO 244.
 
-Se impondrá prisión de 3 meses a 2 años y hasta 50 días multa, a los directores, encargados o administradores de hospitales, sanatorios, clínicas, dispensarios, enfermerías o cualquier otro centro de salud, cuando:
+Se impondrá prisión de 6 meses a 3 años y hasta 150 días multa, a los directores, administradores y médicos de hospitales, sanatorios, clínicas, dispensarios, enfermerías o de cualquier centro de salud, cuando:
 
 I.- Impidan la salida de un paciente cuando éste o sus familiares lo soliciten, aduciendo adeudos de cualquier índole;
 
 II.- Retengan sin necesidad a un recién nacido, por los motivos a que se refiere la parte final de la fracción anterior, o
 
 III.- Retarden o nieguen por cualquier motivo la entrega de un cadáver excepto cuando se requiera orden de autoridad competente.
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2002)</small>
+
+IV.- Nieguen la disposición de órganos, tejidos y cadáveres de seres humanos a los disponentes originarios y secundarios, atendiendo al orden de preferencia, y cuando estos han cumplido de manera previa con los requisitos establecidos en el Reglamento de la Ley General de Salud en materia de control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos.
 
 ###### ARTICULO 245.
 
@@ -3354,3 +3360,13 @@ Esta Ley entrara en vigor a partir del día siguiente de su publicación en el P
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a la presente ley.
+
+P.O. 1 DE NOVIEMBRE DE 2002
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
