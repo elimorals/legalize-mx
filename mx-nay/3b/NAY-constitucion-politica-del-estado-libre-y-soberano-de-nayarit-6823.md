@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1972-04-26"
+last_updated: "1975-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ABRIL DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 1975.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -273,19 +273,27 @@ La capital del Estado de Nayarit, es la ciudad de Tepic, y en ella residirán ha
 
 El Poder Legislativo del Estado se depositará en una asamblea que se denominará: CONGRESO DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1972)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 1975)</small>
 
 ###### Art. 26.
 
-El Congreso del Estado se compondrá de 9 Representantes Electos Popularmente.
+El Congreso del Estado se compondrá de nueve representantes electos popularmente, complementándose con diputados de partido. Por cada diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 1975)</small>
 
 ###### Art. 27.
 
-La elección de Diputados será directa por mayoría de sufragios, en los términos que prevenga la Ley Electoral.
+La elección de diputados será directa por mayoría de sufragios y se complementará, además, con diputados de partido, apegándose, en ambos casos a lo que disponga la Ley Electoral del Estado y, en el segundo además, a las reglas siguientes:
 
-Por cada Diputado propietario se elegirá un suplente.
+I.- Todos los partidos políticos registrados cuando menos un año antes al día de la elección, podrán acreditar diputados de partido.
+
+II.- El porcentaje para acreditar un diputado de partido, será, cuando menos, del cuatro por ciento de la votación total en la entidad, en la elección respectiva, y de seis por ciento más de la votación global para el segundo de los diputados de partido, en la inteligencia de que cada partido no podrá acreditar más de dos diputados por partido.
+
+III.- Cada diputado de mayoría excluye uno de partido, por lo que si el partido obtiene dos o más diputados de mayoría, ya no podrá acreditar diputados de partido.
+
+IV. El Congreso del Estado hará el cómputo de los votos de los partidos minoritarios, determinará cuantos diputados corresponden a cada partido y declarará diputados de partido a los candidatos que obtengan el mayor porcentaje de votación en relación a los votos totales de la elección. Serán diputados de partido suplentes los que hayan figurado como tales en la elección.
+
+V.- Los diputados de partido tendrán igual categoría, derechos y obligaciones que los de mayoría.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1943)</small>
 
@@ -653,7 +661,9 @@ Para ser Gobernador se requiere:
 
 I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del Estado o con vecindad efectiva en él, no menor de cinco años inmediatamente anteriores al día de la elección.
 
-II. Tener treinta y cinco años de edad cumplidos el día de la elección y no más de sesenta y cinco.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 1975)</small>
+
+II. Tener 30 años de edad cumplidos el día de la elección y no más de 65.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1969)</small>
 
@@ -1075,7 +1085,7 @@ De los miembros de los Ayuntamientos habrá uno que se denominará Presidente Mu
 
 Los Ayuntamientos administrarán libremente su Hacienda, sometiendo directamente a la probación (sic) de la Legislatura del Estado:
 
-Io.- Su Presupuesto de Egresos, de acuerdo con las necesidades de su administración y de los servicios públicos Municipales; y
+I.- Su Presupuesto de Egresos, de acuerdo con las necesidades de su administración y de los servicios públicos Municipales; y
 
 II.- Su Ley de Ingresos, con la limitación que señala el artículo 115 Bis de esta Constitución; en el concepto de que un ejemplar de los documentos a que se refieren los incisos anteriores deberá ser remitido por el H. Ayuntamiento, para su estudio, al Ejecutivo del Estado.
 
@@ -1498,3 +1508,7 @@ DECRETO 5426, QUE REFORMA ART. 28.
 ###### ARTICULO UNICO.
 
 La reforma introducida en el presente Decreto entrará en vigor en todo el Estado, a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ENERO DE 1975
+
+UNICO.- El presente Decreto entrará en vigor en todo el Estado al día siguiente de su publicación en el Periódico Oficial del Estado.
