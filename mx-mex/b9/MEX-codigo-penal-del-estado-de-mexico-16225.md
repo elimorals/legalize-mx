@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2004-04-01"
+last_updated: "2004-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JULIO DE 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2169,9 +2169,11 @@ VIII. Rebase el doble de los parámetros y límites permisibles en las normas of
 
 A los responsables de este delito se les impondrá prisión de dos a ocho años y de treinta a ciento cincuenta días multa.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 28 DE JULIO DE 2004)</small>
+
 ###### Artículo 229.
 
-Al que sin autorización legal auxilie, coopere, consienta o participe en la transportación, almacenamiento, distribución, procesamiento, comercialización o destrucción de productos de los montes o bosques del estado o de su fauna, se le aplicarán de dos a diez años de prisión y de treinta a doscientos cincuenta días multa.
+Al que sin autorización legal auxilie, coopere, consienta o participe en la transportación, almacenamiento, distribución, procesamiento, comercialización o destrucción de productos de los montes o bosques del Estado, cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra, se le aplicarán de dos a diez años y de prisión y de treinta a doscientos cincuenta días multa.
 
 A los autores intelectuales se les impondrán de seis a doce años de prisión y de ciento cincuenta a trescientos días multa.
 
@@ -2441,7 +2443,7 @@ A quien sabiendo que padece una enfermedad grave en período infectante, ponga e
 
 En este delito sólo se procederá por querella del ofendido.
 
-> <small>(DEROGADO TERCER PARRAFO, G. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(DEROGADO TERCER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO VI. DAÑO EN LOS BIENES
 
@@ -2779,7 +2781,7 @@ V. Cuando se cometa el robo de un vehículo automotor, de una o más de las part
 
 VI. Cuando se cometa aprovechando la falta de vigilancia o la confusión ocasionado por un siniestro o un desorden de cualquier tipo, se impondrán de dos a siete años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
-Si se comete por elementos pertenecientes a una corporación de auxilio, socorro u organismos similares o por miembros de alguna corporación policiaca, además de la pena anterior, se agregarán de dos a cuatro años de prisión y destitución definitiva del cargo e inhabilitación por veinte años para desempeñar empleo, cargo o comisión públicos;
+Si se comete por elementos pertenecientes a una corporación de auxilio, socorro u organismos similares o por miembros de alguna corporación policíaca, además de la pena anterior, se agregarán de dos a cuatro años de prisión y destitución definitiva del cargo e inhabilitación por veinte años para desempeñar empleo, cargo o comisión públicos;
 
 VII. Cuando lo cometa un dependiente o un doméstico contra su patrón, algún miembro de su familia, huésped o invitado, en cualquier parte que lo cometa, se impondrán de tres meses a tres años de prisión.
 
@@ -3338,3 +3340,9 @@ PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Las disposiciones contenidas en los artículos 91 y 295 del Código Penal del Estado de México, anteriores a esta reforma, se aplicarán respecto de los hechos u omisiones que hayan sido ejecutados durante su vigencia, a menos que los sujetos soliciten, en su beneficio, la aplicación de los preceptos normativos contenidos en el presente decreto.
+
+G.G. 28 DE JULIO DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial "Gaceta del Gobierno".
