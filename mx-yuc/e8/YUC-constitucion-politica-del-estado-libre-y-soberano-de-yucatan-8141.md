@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1987-09-30"
+last_updated: "1988-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE FEBRERO DE 1988.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -445,13 +445,13 @@ e) la educación preparatoria y la profesional, serán o no gratuitas, según lo
 
 XVI.- prorrogar el periodo de sus sesiones ordinarias por el tiempo que requieran las necesidades del servicio público;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
-XVII.- formar su Reglamento interior;
+XVII.- Expedir y modificar la Ley que regule su estructura y funcionamiento internos. Esta Ley no podrá ser vetada ni necesita de promulgación del Ejecutivo Estatal para tener vigencia;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
-XVIII.- nombrar y remover libremente al Contador Mayor, a los empleados de la Secretaría del Congreso y a los de la Contaduría Mayor;
+XVIII.- Nombrar y remover al Contador Mayor, al Oficial Mayor y al Tesorero del Congreso;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -489,9 +489,9 @@ XXV.- aprobar o no la formación o erección de nuevos Estados o Territorios;
 
 XXVI.- recibir la protesta de Ley al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia del mismo y al Contador Mayor;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
-XXVII.- resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, para separarse temporalmente de sus respectivos encargos, así como de sus renuncias;
+XXVII.- Resolver las peticiones de licencias de sus propios miembros y del Contador Mayor, de conformidad con lo que disponga la Ley Orgánica del Poder Legislativo del Estado para separarse de sus respectivos cargos, así como sus renuncias;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -539,9 +539,9 @@ XXXVIII.- Fijar las modalidades que a la propiedad privada deban imponerse para 
 
 XXXIX.- (DEROGADA, D.O.5 DE MARZO DE 1965)
 
-> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
-XL.- Suspender Ayuntamientos y/o declarar, según el caso, que éstos han desaparecido, por acuerdo de las dos terceras partes del número total de integrantes de la Legislatura respectiva procediendo como disponga, para estos casos, la Ley Orgánica Municipal;
+XL.- Suspender Ayuntamientos así como declarar, según el caso, que éstos han desaparecido o suspender o revocar el mandato de alguno de sus miembros por acuerdo de las dos terceras partes del número total de integrantes de la Legislatura respectiva, procediendo como disponga para estos casos la Ley Orgánica del Poder Legislativo del Estado de Yucatán y la Ley Orgánica de los Municipios del Estado;
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
@@ -615,11 +615,11 @@ III.- al Tribunal Superior de Justicia en los asuntos de su Ramo; y
 
 IV.- a los Ayuntamientos o Concejos Municipales que conforme a las Leyes en vigor hagan y realicen sus funciones, tratándose de cuestiones municipales.
 
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADO, D.O. 22 DE FEBRERO DE 1988)</small>
 
 ###### Artículo 36.
 
-Las iniciativas presentadas por las autoridades a que se refieren las fracciones II, III y IV del Artículo inmediato anterior, pasarán a la o las comisiones que correspondan, salvo que se otorgue la respectiva dispensa en los términos de Ley, las que presenten los diputados, se sujetarán necesariamente a los trámites que disponga el reglamento para el Gobierno Interior del Congreso.
+Las iniciativas presentadas por las Autoridades a que se refiere las fracciones II, III, y IV del Artículo 35, pasarán a las Comisiones que correspondan, salvo que se otorgue la respectiva dispensa en los términos de Ley. Las que presenten los Diputados se sujetarán necesariamente a los trámites que disponga la Ley Orgánica del Poder Legislativo del Estado.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -661,27 +661,45 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 
 Para funcionar durante los recesos, el Congreso designará a mayoría de votos una diputación permanente compuesta de tres diputados y por cada uno de éstos un suplente.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 22 DE FEBRERO DE 1988)</small>
 
 ###### Artículo 43.
 
-Las atribuciones de la Comisión Permanente, son las siguientes:
+Las atribuciones de la Diputación permanente, son las siguientes:
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 I.- acordar por sí sola, cuando a su juicio lo exijan el bien o la seguridad del Estado, o a petición del Ejecutivo, la convocación del Congreso a sesiones extraordinarias, señalando el objeto u objetos de esas sesiones, y no pudiendo el Congreso ocuparse de más asuntos que aquellos para los que fue convocado;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 II.- recibir la protesta de Ley a los funcionarios que deban prestarla ante el Congreso;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 III.- emitir dictamen sobre todos los asuntos que queden sin resolución en los expedientes, a fin de que en el periodo inmediato de sesiones sigan tratándose;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 IV.- resolver sobre las peticiones de licencia de sus propios miembros y del Contador Mayor de Hacienda, cuando traten de separarse temporalmente de sus respectivos encargos; resolver sobre las renuncias de los Magistrados del Tribunal Superior de Justicia en los términos del artículo 69 de esta Constitución; resolver sobre las renuncias colectivas de miembros de Ayuntamientos y acerca de la desintegración de los mismos, nombrando Concejos en los términos de la fracción XL del artículo 30 de la presente Constitución;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 V.- nombrar Contador Mayor con el carácter de interino, por falta absoluta o temporal del propietario;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 VI.- acordar el pago de los gastos indispensables para la Secretaría;
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 VII.- conceder, en su caso, a los Diputados propietarios o suplentes en ejercicio, licencias para separarse de sus funciones o para aceptar algún empleo de nombramiento del Ejecutivo;
 
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+
 VIII.- convocar inmediatamente al Congreso, a sesiones extraordinarias, que se efectuarán dentro de los ocho días siguientes, para el nombramiento de Gobernador interino; y
+
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
 IX.- las demás que le confiere esta Constitución.
 
@@ -1728,3 +1746,9 @@ D.O. 30 DE SEPTIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del primer día hábil del mes siguiente al de su publicación en el Diario Oficial del Estado.
+
+D.O. 22 DE FEBRERO DE 1988.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
