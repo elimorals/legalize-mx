@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2003-12-05"
+last_updated: "2004-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # CODIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE FEBRERO DE 2004 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-CODIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2003.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2003.
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE FEBRERO DE 2004.</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -4233,21 +4233,29 @@ III.- En caso de que el Consejo Municipal no cuente con el original o la copia d
 
 IV.- Si los resultados de las actas no coinciden, o bien no se pueda ejecutar el procedimiento previsto en las fracciones II y III de este artículo, en atención a que las copias de las actas que obran en poder de los partidos políticos presenten muestras de alteración, se procederá a abrir el sobre en que se contengan las boletas electorales para su cómputo, levantándose un acta individual de escrutinio y cómputo de la Casilla. Los resultados se asentarán en la forma establecida para ello, dejándose constancia en el acta circunstanciada correspondiente. De igual manera, se harán constar las objeciones que hubieren manifestado cualquiera de los representantes de los partidos políticos, quedando a salvo sus derechos para impugnar el cómputo;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003) (F. DE E., P.O. 16 DE FEBRERO DE 2004)
 
-V.- La suma de los resultados de las operaciones indicadas en las fracciones anteriores, constituirá el cómputo municipal;
+V.- Cuando existan errores o alteraciones evidentes en las actas, el órgano electoral podrá acordar realizar nuevamente el escrutinio y cómputo de la Casilla, en los términos señalados en la fracción anterior;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003) (F. DE E., P.O. 16 DE FEBRERO DE 2004)
 
-VI.- El órgano electoral verificará el cumplimiento de los requisitos formales de la elección y que los candidatos de la planilla que hayan obtenido la mayoría de los votos, cumplan con los requisitos de elegibilidad previstos por la Constitución Local y este Código;
+VI.- A continuación se abrirán, si los hay, los Paquetes Electorales con muestras de alteración y se realizarán, según sea el caso, las operaciones señaladas en las fracciones anteriores, haciéndose constar lo procedente en el acta circunstanciada;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003) (F. DE E., P.O. 16 DE FEBRERO DE 2004)
 
-VII.- Se harán constar en el acta circunstanciada los resultados del cómputo municipal y los incidentes; y
+VII.- La suma de los resultados de las operaciones indicadas en las fracciones anteriores, constituirá el cómputo municipal;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003) (F. DE E., P.O. 16 DE FEBRERO DE 2004)
 
-VIII.- El Consejo Municipal formulará la declaratoria de validez de la elección y de elegibilidad de la planilla que haya obtenido el mayor número de votos y expedirá la constancia de mayoría.
+VIII.- El órgano electoral verificará el cumplimiento de los requisitos formales de la elección y que los candidatos de la planilla que hayan obtenido la mayoría de los votos cumplan con los requisitos de elegibilidad previstos por la Constitución Local y este Código;
+
+> <small>(F. DE E., P.O. 16 DE FEBRERO DE 2004)</small>
+
+IX.- Se harán constar en el acta circunstanciada los resultados del cómputo municipal y los incidentes; y
+
+> <small>(F. DE E., P.O. 16 DE FEBRERO DE 2004)</small>
+
+X.- El Consejo Municipal formulará la declaratoria de validez de la elección y de elegibilidad de la planilla que haya obtenido el mayor número de votos y expedirá la constancia de mayoría.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
