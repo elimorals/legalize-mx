@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-18581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-11-26"
-last_updated: "1999-11-26"
+last_updated: "2001-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2001.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Gobierno Constitucional del Estado de Puebla el viernes 26 de noviembre de 1999.
 
@@ -281,53 +281,75 @@ LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 La presente Ley tiene por objeto regular la organización y funcionamiento del Poder Legislativo del Estado de Puebla, cuyo ejercicio se deposita en una asamblea de Diputados que se denomina "CONGRESO DEL ESTADO".
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
 ###### ARTÍCULO 2o.
 
 El Congreso del Estado se integrará por el número de Diputados electos según los principios de mayoría relativa y de representación proporcional, que establece el artículo 33 de la Constitución Política del Estado Libre y Soberano de Puebla.
 
-Los Diputados de mayoría y los asignados conforme al principio de representación proporcional, tendrán iguales derechos y obligaciones.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 3o.
+
+Los Diputados de mayoría y los asignados conforme al principio de representación proporcional, tendrán iguales derechos y obligaciones.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+###### ARTÍCULO 4o.
 
 El Congreso del Estado tendrá la estructura, organización y funcionamiento que establece la Constitución Política del Estado, la presente Ley y las disposiciones que se deriven de la misma.
 
 Esta Ley, sus reformas, adiciones y su Reglamento, no necesitan de la promulgación del Gobernador del Estado, ni podrán vetarse.
 
-###### ARTÍCULO 4o.
-
-La residencia del Congreso del Estado será la Ciudad de Puebla; celebrará sus Sesiones en el Palacio del Poder Legislativo, y para trasladarse a otro lugar, se requiere del acuerdo de las dos terceras partes de los Diputados presentes.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 5o.
 
-El Congreso del Estado se renovará en su totalidad cada tres años y comenzará a funcionar el día quince de enero del año siguiente al de las elecciones.
+La residencia del Congreso del Estado será la ciudad de Puebla; celebrará sus Sesiones en el Palacio del Poder Legislativo, y para trasladarse a otro lugar, se requiere del acuerdo de las dos terceras partes de los Diputados presentes.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 6o.
 
-El Congreso del Estado formulará y aprobará su Presupuesto Anual de Egresos y tendrá plena autonomía para su ejercicio, así como para organizarse administrativamente, y en su oportunidad, deberá remitir éste para su inclusión en el proyecto del Presupuesto de Egresos del Estado que anualmente presenta el Ejecutivo de la Entidad, en términos de las leyes aplicables, tomando en consideración las condiciones financieras imperantes en la Entidad.
+El Congreso del Estado se renovará en su totalidad cada tres años y comenzará a funcionar el día quince de enero del año siguiente al de las elecciones.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 7o.
 
-El Congreso del Estado tendrá cada año, tres Períodos Ordinarios de Sesiones en la forma siguiente:
+El Congreso del Estado formulará y aprobará su Presupuesto Anual de Egresos y tendrá plena autonomía para su ejercicio, así como para organizarse administrativamente, y en su oportunidad, deberá remitir éste para su inclusión en el proyecto del Presupuesto de Egresos del Estado que anualmente presenta el Ejecutivo de la Entidad, en términos de las leyes aplicables, tomando en consideración las condiciones financieras imperantes en la Entidad.
 
-I.- El primero comenzará el día quince de enero, terminará el quince de marzo y se ocupará de estudiar, discutir y votar las Iniciativas de Ley que se presenten y resolver los demás asuntos que le correspondan conforme a la Constitución;
-
-II.- El segundo comenzará el primero de junio, terminará el treinta y uno de julio y además de conocer de los asuntos mencionados en la fracción anterior, se abocará a examinar y calificar la Cuenta de la Hacienda Pública Estatal, correspondiente al año inmediato anterior, la que será presentada por el Ejecutivo, antes del inicio de este período. El Congreso declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados previamente, si los gastos están justificados y si ha lugar o no a exigir responsabilidad; asimismo se ocupará de revisar la Cuenta de la Hacienda Pública Municipal de los Ayuntamientos de la Entidad y la de las Dependencias y Entidades sujetas a esa revisión, y
-
-III.- El tercer período comenzará el quince de octubre y concluirá el quince de diciembre; en éste, el Congreso se ocupará preferentemente de estudiar, discutir y decretar los Presupuestos de Ingresos y Egresos del Estado y los Presupuestos de Ingresos de los Municipios, que deberán regir en el año siguiente. Unos y otros deberán ser presentados por conducto del Ejecutivo del Estado a más tardar el quince de noviembre de cada año. El Gobernador del Estado podrá hacer a los proyectos que presenten los Ayuntamientos, las observaciones que estime pertinentes.
-
-En el año en que se renueve el Poder Ejecutivo, este tercer período se prorrogará hasta el veintidós de diciembre, para los efectos a que se refiere la fracción XVI del artículo 57 de la Constitución Política del Estado Libre y Soberano de Puebla.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 8o.
 
-A la apertura del Primer Período de Sesiones Ordinarias, asistirá el Titular del Ejecutivo del Estado, quien presentará un informe por escrito, de conformidad con el artículo 53 de la Constitución Política del Estado.
+El Congreso del Estado tendrá cada año, tres períodos ordinarios de Sesiones en la forma siguiente:
+
+I.- El primero comenzará el día quince de enero, terminará el quince de marzo y se ocupará de estudiar, discutir y votar las iniciativas de ley que se presenten y resolver los demás asuntos que le correspondan conforme a la Constitución;
+
+II.- El segundo comenzará el primero de junio, terminará el treinta y uno de julio y además de conocer de los asuntos mencionados en la fracción anterior, se abocará a examinar y calificar la cuenta de la Hacienda Pública Estatal, correspondiente al año inmediato anterior, la que será presentada por el Ejecutivo, antes del inicio de este período. El Congreso declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados previamente, si los gastos están justificados y si ha lugar o no a exigir responsabilidad; asimismo, se ocupará de revisar la cuenta de la Hacienda Pública Municipal de los Ayuntamientos de la Entidad y la de las Dependencias y Entidades sujetas a esa revisión; y
+
+III.- El tercer período comenzará el quince de octubre y concluirá el quince de diciembre; en éste, el Congreso se ocupará preferentemente de estudiar, discutir y decretar los Presupuestos de Ingresos y Egresos del Estado y los Presupuestos de Ingresos de los Municipios, que deberán regir en el año siguiente. Unos y otros deberán ser presentados por conducto del Ejecutivo del Estado a más tardar el quince de noviembre de cada año. El Gobernador del Estado podrá hacer a los proyectos que presenten los Ayuntamientos, las observaciones que estime pertinentes.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+###### ARTÍCULO 9o.
+
+A la apertura del primer período de Sesiones ordinarias, asistirá el Titular del Ejecutivo del Estado, quien presentará un informe por escrito, de conformidad con el artículo 53 de la Constitución Política del Estado.
 
 El Presidente del Congreso contestará el Informe en términos concisos y generales, con las formalidades que correspondan al acto.
 
-Esta Sesión Solemne no tendrá más objeto que celebrar la apertura del Primer Período Ordinario de Sesiones y que el Gobernador del Estado presente su Informe.
+Esta Sesión Solemne no tendrá más objeto que celebrar la apertura del primer período ordinario de Sesiones y que el Gobernador del Estado presente su Informe.
 
-La Cámara de Diputados analizará, en Sesiones subsecuentes, el Informe presentado por el Gobernador del Estado, a las que asistirán los Secretarios del Despacho correspondientes y los Procuradores General de Justicia del Estado y del Ciudadano. Lo expresado con ese motivo se comunicará al Ejecutivo del Estado, para su conocimiento.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
-###### ARTÍCULO 9o.
+###### ARTÍCULO 10.
+
+La Cámara de Diputados analizará, en sesiones subsecuentes, el informe presentado por el Gobernador del Estado, a las que asistirán los Secretarios del Despacho correspondientes y los Procuradores General de Justicia del Estado y del Ciudadano. Lo expresado con ese motivo se comunicará al Ejecutivo del Estado, para su conocimiento.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+###### ARTÍCULO 11.
 
 El Recinto del Congreso es inviolable. Su Presidente cuidará de salvaguardar el fuero constitucional de los Diputados y la inviolabilidad del Palacio Legislativo.
 
@@ -335,11 +357,23 @@ El Presidente estará facultado para solicitar el auxilio de la fuerza pública,
 
 Ninguna persona podrá portar armas en el interior del Palacio Legislativo, con excepción de lo preceptuado en el párrafo anterior.
 
-###### ARTÍCULO 10.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
-Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre los bienes del Congreso, ni de las personas o bienes de los Diputados, en el interior del Recinto Parlamentario.
+###### ARTÍCULO 12.
 
-###### ARTÍCULO 11.
+Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre los bienes del Congreso, ni sobre las personas o bienes de los Diputados, en el interior del Recinto Parlamentario.
+
+(REUBICADO, P.O. 1 DE AGOSTO DE 2001)
+
+## TÍTULO SEGUNDO. DEL CONGRESO
+
+(REUBICADO, P.O. 1 DE AGOSTO DE 2001)
+
+### CAPÍTULO I. DE LA INSTALACIÓN DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+###### ARTÍCULO 13.
 
 El Congreso del Estado, antes de clausurar el último período de Sesiones Ordinarias de cada Legislatura, nombrará, de entre sus miembros, una Comisión Instaladora que deba sucederla, procurando que represente su composición plural.
 
@@ -347,33 +381,37 @@ Los miembros de la Comisión serán cinco y fungirán:
 
 El primero como Presidente, el segundo y el tercero como Secretarios y los dos últimos como Suplentes, quienes entrarán en funciones sólo cuando falte cualquiera de los tres propietarios.
 
-La Cámara de Diputados comunicará al órgano rector de los organismos electorales del Estado y al Tribunal Estatal Electoral, la designación a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
-###### ARTÍCULO 12.
+###### ARTÍCULO 14.
+
+El Congreso comunicará al Consejo General del Instituto Electoral del Estado y al Tribunal Electoral del Estado la designación a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+###### ARTÍCULO 15.
 
 La Comisión Instaladora del Congreso del Estado tendrá a su cargo:
 
-I.- Recibir de la Oficialía Mayor, la copia certificada de las constancias de mayoría y validez de la fórmula de Diputados electos por el principio de mayoría relativa, así como un informe de los medios de impugnación que se hubiesen interpuesto en contra de las elecciones de Gobernador del Estado y de Diputados por ambos principios, de conformidad con lo previsto en el Código Electoral del Estado y Leyes aplicables;
+I.- Recibir de la Secretaría General la copia certificada de las constancias de mayoría y validez de la fórmula de Diputados electos por el principio de mayoría relativa, así como un informe de los medios de impugnación que se hubiesen interpuesto en contra de las elecciones de Gobernador del Estado y de Diputados por ambos principios, de conformidad con lo previsto en el Código de Instituciones y Procesos Electorales del Estado y leyes aplicables;
 
-II.- Recibir de la Oficialía Mayor, el informe y las constancias de asignación proporcional que la Comisión Estatal Electoral hubiese entregado a cada partido político, de acuerdo a lo establecido en el Código Electoral del Estado y Leyes aplicables;
+II.- Recibir de la Secretaría General el informe y las constancias de asignación proporcional que el Instituto Electoral del Estado hubiese entregado a cada partido político, de acuerdo a lo establecido en el Código de Instituciones y Procesos Electorales del Estado y leyes aplicables;
 
-III.- Recibir de la Oficialía Mayor, la notificación de las resoluciones que el Tribunal Estatal Electoral haya hecho recaer en los recursos ante él interpuestos, conforme lo establezca el Código Electoral del Estado y Leyes aplicables;
+III.- Recibir de la Secretaría General la notificación de las resoluciones que el Tribunal Electoral del Estado haya hecho recaer en los recursos ante él interpuestos, conforme lo establezca el Código de Instituciones y Procesos Electorales del Estado y leyes aplicables;
 
-IV.- Entregar, antes del día cinco de enero siguiente al año de la elección, credenciales de identificación y acceso a los Diputados electos que integrarán la nueva Legislatura, cuyas constancias de mayoría y validez, de asignación proporcional o por resolución firme del Tribunal Electoral Estatal, haya recibido la Legislatura;
+IV.- Entregar, antes del día diez de enero siguiente al año de la elección, credenciales de identificación y acceso a los Diputados electos que integrarán la nueva Legislatura, cuyas constancias de mayoría y validez, de asignación proporcional o por resolución firme del Tribunal Electoral del Estado, haya recibido la Legislatura;
 
-V.- Citar a los Diputados electos a junta previa diez días antes del inicio del primer período de Sesiones Ordinarias de la Legislatura entrante, y
+V.- Citar a los Diputados electos a junta previa por lo menos cinco días antes del inicio del primer período de Sesiones Ordinarias de la Legislatura entrante; y
 
-VI.- Entregar por inventario a la primera Mesa Directiva de la Legislatura entrante, la totalidad de los documentos a que se refieren las fracciones I, II y III de este artículo.
+VI.- Entregar por inventario a la primera Mesa Directiva de la Legislatura entrante, la totalidad de los documentos a que se refieren la (sic) fracciones I, II y III de este artículo.
 
-## TÍTULO SEGUNDO. DEL CONGRESO
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
-### CAPÍTULO I. DE LA INSTALACIÓN DEL CONGRESO
+###### ARTÍCULO 16.
 
-###### ARTÍCULO 13.
+En la fecha y hora en que hubieren sido convocados conforme a lo previsto en la fracción V del artículo anterior, presentes en el Salón de Sesiones, la Comisión Instaladora y los Diputados electos procederán a la instalación de la nueva Legislatura; al efecto:
 
-En la fecha y hora en que hubieren sido convocados conforme a lo previsto en la fracción V del artículo anterior, presentes en el salón de Sesiones, la Comisión Instaladora y los Diputados electos procederán a la instalación de la nueva Legislatura; al efecto:
-
-I.- La Comisión Instaladora, por conducto de uno de sus Secretarios, dará cuenta del ejercicio de las atribuciones establecidas en el artículo anterior, reservando la entrega de los documentos electorales a que se refiere la fracción VI del artículo 12, a la Mesa Directiva que habrá de elegirse;
+I.- La Comisión Instaladora, por conducto de uno de sus Secretarios, dará cuenta del ejercicio de las atribuciones establecidas en el artículo anterior, reservando la entrega de los documentos electorales a que se refiere la fracción VI del artículo 15, a la Mesa Directiva que habrá de elegirse;
 
 II.- Enseguida se pasará lista de presentes de los Diputados miembros de la nueva Legislatura para declarar, en su caso, debidamente instalado el Congreso del Estado. Los Diputados electos ausentes serán llamados en términos del artículo 48 de la Constitución Política del Estado;
 
@@ -383,37 +421,43 @@ IV.- Realizada la elección de la primera Mesa Directiva de la Legislatura entra
 
 V.- El Presidente de la primera Mesa Directiva de la Legislatura entrante protestará su cargo, pidiendo a los Diputados asistentes que se pongan de pie y dirá:
 
-"Protesto sin reserva alguna guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ambos Códigos emanen y desempeñar leal y patrióticamente el cargo de Diputado de la (número) Legislatura de esta Cámara de Diputados que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y de esta Entidad Federativa, y si así no lo hiciere, que el Estado y la Nación me lo demanden";
+"Protesto sin reserva alguna guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Diputado de la (número) Legislatura de esta Cámara de Diputados que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y de esta Entidad Federativa, y si así no lo hiciere, que el Estado y la Nación me lo demanden";
 
-VI.- Enseguida tomará asiento en el lugar correspondiente y preguntará a los demás miembros de la Legislatura, quienes permanecerán de pie: ¿Protestáis sin reserva alguna, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ambos Códigos emanen y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo os ha conferido, mirando en todo por el bien y prosperidad de la Nación y de esta Entidad Federativa?. Los interrogados deberán contestar: "Sí, Protesto". El Presidente dirá entonces: "Si no lo hiciereis así, que el Estado y la Nación os lo demanden".
+VI.- Enseguida tomará asiento en el lugar correspondiente y preguntará a los demás miembros de la Legislatura, quienes permanecerán de pie: ¿Protestáis sin reserva alguna, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo os ha conferido, mirando en todo por el bien y prosperidad de la Nación y de esta Entidad Federativa?. Los interrogados deberán contestar: "Sí, Protesto". El Presidente dirá entonces: "Si no lo hiciereis así, que el Estado y la Nación os lo demanden".
 
 Igual protesta están obligados a otorgar cada uno de los Diputados propietarios que se presenten después de la instalación;
 
 VII.- Nombrada la Mesa Directiva, el Presidente hará la siguiente declaratoria:
 
-"LA (número) LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, SE DECLARA CONSTITUIDA", y
+"LA (número) LEGISLATURA DEL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, SE DECLARA CONSTITUIDA"; y
 
 VIII.- La Mesa Directiva de la Cámara nombrará dos comisiones de cortesía para que comuniquen la instalación al Titular del Poder Ejecutivo y al Presidente del Tribunal Superior de Justicia y citará a Sesión del Congreso para la apertura de los trabajos de la nueva Legislatura.
 
-###### ARTÍCULO 14.
+(REUBICADO, P.O. 1 DE AGOSTO DE 2001)
+
+### CAPÍTULO II. DE LOS DIPUTADOS
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+###### ARTÍCULO 17.
 
 Son obligaciones y atribuciones de los Diputados:
 
-I.- Rendir la protesta de Ley, en términos de lo dispuesto por las leyes aplicables;
+I.- Rendir la protesta de ley, en términos de lo dispuesto por las leyes aplicables;
 
-II.- Asistir con puntualidad a las Sesiones que celebre el Congreso, las Comisiones y los Comités de los que sean miembros;
+II.- Formar parte de las Comisiones y Comités para los cuales hayan sido nombrados;
 
-III.- Formar parte de las Comisiones y Comités para los cuales hayan sido nombrados;
+III.- Asistir con puntualidad a las Sesiones que celebre el Congreso, las Comisiones y los Comités de los que sean miembros;
 
 IV.- Cumplir oportuna y eficazmente con las comisiones que les encomiende el Pleno del Congreso, la Mesa Directiva, la Comisión Permanente o la Gran Comisión;
 
-V.- Visitar, durante los recesos del Congreso, los Distritos del Estado, para informarse de la situación que guarda la Administración Pública;
+V.- Visitar, durante los recesos del Congreso, los distritos del Estado, para informarse de la situación que guarda la Administración Pública;
 
-VI.- Presentar al Congreso, al abrirse cada Período de Sesiones, una memoria que contenga las observaciones que hayan realizado durante las visitas a los Distritos del Estado, en la que propongan las medidas que estimen conducentes para favorecer el desarrollo de las comunidades de la Entidad;
+VI.- Presentar al Congreso, al abrirse cada período de Sesiones, una memoria que contenga las observaciones que hayan realizado durante las visitas a los distritos del Estado, en la que propongan las medidas que estimen conducentes para favorecer el desarrollo de las comunidades de la Entidad;
 
-VII.- Informar cuando menos una vez al año a los habitantes del Distrito que representen, sobre las actividades realizadas;
+VII.- Informar a los habitantes del Distrito que representen, cuando menos una vez al año, sobre las actividades realizadas;
 
-VIII.- Ser gestores y promotores de actividades que beneficien a los habitantes de sus Distritos;
+VIII.- Ser gestores y promotores de actividades que beneficien a los habitantes de sus distritos;
 
 IX.- Realizar encuestas de opinión sobre materias de interés general que consideren pertinentes, además de las que les soliciten el Pleno del Congreso, la Mesa Directiva, la Comisión Permanente o la Gran Comisión;
 
@@ -421,61 +465,49 @@ X.- Conducirse con respeto y comedimiento durante las Sesiones, sus intervencion
 
 XI.- Presentar iniciativas de Leyes, Decretos o Acuerdos;
 
-XII.- Percibir una remuneración que se denominará dieta, así como las demás prestaciones de Ley que les permitan desempeñar adecuadamente sus funciones;
+XII.- Percibir una remuneración que se denominará dieta, así como las demás prestaciones de ley que les permitan desempeñar adecuadamente sus funciones;
 
-XIII.- Formar parte de un Grupo Parlamentario, y
+XIII.- Formar parte de un grupo parlamentario; y
 
 XIV.- Participar con voz, pero sin voto, en las Sesiones de Comisiones y Comités de los que no formen parte.
 
-###### ARTÍCULO 15.
-
-Los Diputados gozarán del fuero que les reconoce la Constitución Política del Estado. Son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y no podrán ser reconvenidos o enjuiciados por ellas.
-
-Los Diputados son responsables por los delitos, faltas u omisiones en que incurran durante su encargo, pero no podrán ser detenidos ni ejercitarse en su contra la acción penal, hasta que seguido el proceso constitucional y reglamentario, se decida la separación del cargo y la sujeción a la acción de los tribunales comunes.
-
-###### ARTÍCULO 16.
-
-El Congreso del Estado calificará la validez de la elección para Gobernador del Estado, para lo cual se erigirá en Colegio Electoral a fin de declarar electo Gobernador del Estado, al ciudadano que hubiese obtenido mayoría de votos en la elección que al efecto se hubiere celebrado.
-
-La declaración relativa a la calificación de Gobernador del Estado se hará por la Legislatura en funciones, la que deberá emitir su resolución a más tardar el veintidós de diciembre del año del proceso electoral.
-
-La resolución del Congreso del Estado erigido en Colegio Electoral es definitiva e inatacable.
-
-### CAPÍTULO II. DE LOS DIPUTADOS
-
-###### ARTÍCULO 17.
-
-Para producir el dictamen correspondiente a la calificación de la elección de Gobernador del Estado, la Comisión de Gobernación, Justicia, Puntos Constitucionales y Protección Civil, se basará en los resultados consignados en el acta de cómputo estatal relativa a la elección y, en su caso, en las resoluciones del Tribunal Estatal Electoral recaídas sobre los recursos de inconformidad previstos en la Ley de la materia.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 18.
 
-El Tribunal Estatal Electoral deberá resolver y notificar a la Oficialía Mayor del Congreso del Estado, los fallos recaídos en el recurso de inconformidad que se presente en contra de los resultados consignados en las actas de cómputo distrital de la elección de Gobernador del Estado, a más tardar el quince de diciembre del año de la elección.
+Los Diputados gozarán del fuero que les reconoce la Constitución Política del Estado. Son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y no podrán ser reconvenidos o enjuiciados por ellas.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 19.
 
-Verificados los requisitos de elegibilidad de los candidatos, el Congreso del Estado declarará la validez de la elección y que es Gobernador electo del Estado de Puebla el ciudadano que hubiere obtenido el mayor número de votos en la elección que se califica.
+Los Diputados son responsables por los delitos, faltas u omisiones en que incurran durante su encargo, pero no podrán ser detenidos ni ejercitarse en su contra la acción penal, hasta que seguido el proceso constitucional y reglamentario, se decida la separación del cargo y la sujeción a la acción de los tribunales comunes.
 
-La declaración que haga el Congreso sobre la elección de Gobernador, se dará a conocer mediante Decreto y por Bando Solemne que se mandará fijar en todas las poblaciones del Estado.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2001)</small>
 
-En ningún caso se dejará de hacer la calificación y declaratoria de la elección de Gobernador, antes de la fecha en que debe iniciar su gestión la nueva administración.
+### CAPÍTULO III. DE LA PROTESTA DEL GOBERNADOR Y DEL COLEGIO ELECTORAL
 
-### CAPÍTULO III. DE LA DECLARACIÓN DE GOBERNADOR
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 20.
 
-El Gobernador electo otorgará la protesta de Ley, en los siguientes términos:
+Una vez que el Instituto Electoral del Estado, en términos del Código de Instituciones y Procesos Electorales del Estado, haya formulado la declaratoria de validez de la elección, de elegibilidad del candidato que haya obtenido el mayor número de votos y expedido la constancia de mayoría respectiva, el Gobernador Electo otorgará la Protesta de Ley ante el Congreso del Estado, en los siguientes términos:
 
-"Protesto sin reserva alguna guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las normas que de ambas Leyes emanen y desempeñar leal y patrióticamente el cargo de Gobernador Constitucional que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y de esta Entidad Federativa, y si así no lo hiciere, que el Estado y la Nación me lo demanden".
+"Protesto sin reserva alguna guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Gobernador Constitucional que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y de esta Entidad Federativa, y si así no lo hiciere, que el Estado y la Nación me lo demanden".
 
 El Reglamento fijará el ceremonial que deberá observarse.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
 ###### ARTÍCULO 21.
 
-Cuando se trate de calificar y resolver sobre elecciones extraordinarias de Gobernador, se aplicará esta Ley en la parte conducente sujetándose en todo a lo dispuesto por la Constitución Política del Estado.
+Cuando se trate de conocer y resolver sobre elecciones extraordinarias de Gobernador, se aplicará esta Ley en la parte conducente, sujetándose en todo a lo dispuesto por la Constitución Política del Estado y por el Código de Instituciones y Procesos Electorales del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 22.
 
-El Congreso se erigirá además en Colegio Electoral para cumplir con lo dispuesto en las fracciones XVII y XVIII del artículo 57 de la Constitución Política del Estado.
+El Congreso se erigirá en Colegio Electoral para cumplir con lo dispuesto en las fracciones XVII y XIX del artículo 57 de la Constitución Política del Estado.
 
 ## TÍTULO TERCERO. DE LA ORGANIZACIÓN DEL CONGRESO
 
@@ -561,7 +593,9 @@ XIII.- Conceder licencia a los Diputados hasta por dos semanas consecutivas y po
 
 XIV.- Ordenar el descuento correspondiente a los Diputados que incurran en faltas injustificadas;
 
-XV.- Remitir a los otros Poderes del Estado, copia de la memoria a que hace referencia la fracción VI del artículo 14 de esta Ley;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+XV.- Remitir a los otros Poderes del Estado, copia de la memoria a que hace referencia la fracción VI del artículo 17 de esta Ley;
 
 XVI.- Llamar a los Diputados Suplentes en los casos que esta Ley lo determina, y
 
@@ -625,7 +659,9 @@ V.- Aceptar y ejecutar las comisiones que la Legislatura les encomiende;
 
 VI.- Asentar y rubricar los acuerdos que recaigan en los asuntos con que se hubiere dado cuenta al Congreso, cuidando su debido cumplimiento;
 
-VII.- Concurrir a la Oficialía Mayor del Congreso, a fin de revisar el acta de la Sesión anterior y los asuntos que se tratarán en la siguiente Sesión;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+VII.- Concurrir a la Secretaría General del Congreso, a fin de revisar el acta de la Sesión anterior y los asuntos que se tratarán en la siguiente Sesión;
 
 VIII.- Proporcionar a las Comisiones Generales o Especiales, los expedientes que requieran para la elaboración de sus determinaciones;
 
@@ -651,9 +687,13 @@ II.- Conducir a través de su Presidente o de manera conjunta, las relaciones po
 
 III.- Coordinar las tareas legislativas, políticas y administrativas de la Legislatura;
 
-IV.- Someter a consideración y acuerdo de la Legislatura, cuando lo estime necesario, los nombramientos o remociones del Secretario General del Congreso del Estado y del Contador Mayor de Hacienda, y sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello, lo dispuesto por la Ley de los Trabajadores al Servicio de los Poderes del Estado;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
 
-V.- Nombrar y remover a Directores Generales del Congreso del Estado y Subcontadores de la Contaduría Mayor de Hacienda, quienes otorgarán la protesta de Ley ante ésta; así como resolver sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello, lo dispuesto por la Ley de los Trabajadores al Servicio de los Poderes del Estado;
+IV.- Someter a consideración y acuerdo de la Legislatura, cuando lo estime necesario, los nombramientos o remociones del Secretario General del Congreso del Estado y del Auditor General del Órgano de Fiscalización Superior del Estado, y sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Ley del Órgano de Fiscalización Superior del Estado, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+V.- Nombrar y remover a Directores Generales del Congreso del Estado y Auditores Especiales del Órgano de Fiscalización Superior del Estado, quienes otorgarán la protesta de Ley ante ésta; así como resolver sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Ley del Órgano de Fiscalización Superior, Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado y demás disposiciones aplicables;
 
 VI.- Proponer a la Legislatura, la sustitución de los miembros integrantes de las Comisiones y de los Comités cuando exista causa justificada para ello;
 
@@ -663,9 +703,17 @@ VIII.- Coadyuvar con las Comisiones y los Comités del Congreso a la realizació
 
 IX.- Celebrar Convenios de Coordinación con las Entidades y Dependencias del Gobierno del Estado, cuando los mismos no tengan duración mayor a la del período para la que fue electa; en caso contrario será necesario el acuerdo de la Legislatura;
 
-X.- Asumir y ejercer atribuciones que no estén expresamente señaladas a la Mesa Directiva, y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
 
-XI.- Las demás que le confiera esta Ley o su Reglamento.
+X.- Convenir con instancias federales o estatales respecto de la producción y difusión, a través de los medios masivos de comunicación, de programas relativos a las actividades legislativas del Congreso;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+XI.- Asumir y ejercer atribuciones que no estén expresamente señaladas a la Mesa Directiva; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+XII.- Las demás que le confiera esta Ley o su Reglamento.
 
 ###### ARTÍCULO 42.
 
@@ -675,7 +723,9 @@ I.- Presidir las Sesiones;
 
 II.- Coordinar las funciones y actividades de la Gran Comisión;
 
-III.- Tener la representación legal del Poder Legislativo del Estado, conjunta o indistintamente con el Oficial Mayor;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+III.- Tener la representación legal del Poder Legislativo del Estado, conjunta o indistintamente con el Secretario General;
 
 IV.- Citar a Sesiones de la Gran Comisión y a Sesiones Secretas;
 
@@ -687,11 +737,21 @@ VII.- Proponer a la Gran Comisión la creación de las dependencias administrati
 
 VIII.- Solicitar a los Diputados que lleven a cabo encuestas de opinión sobre materias de interés general;
 
-IX.- Autorizar por escrito al Oficial Mayor para que los libros u objetos del Congreso puedan salir del Recinto Oficial;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
 
-X.- Conocer de las resoluciones y sanciones que por responsabilidad administrativa imponga el Oficial Mayor al personal administrativo del Poder Legislativo que no sea nombrado por el Pleno; y
+IX.- Autorizar por escrito al Secretario General para que los libros u objetos del Congreso puedan salir del Recinto Oficial;
 
-XI.- Las demás que le confiera el Pleno del Congreso o la Gran Comisión.
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+X.- Conocer de las resoluciones y sanciones que por responsabilidad administrativa imponga el Comité del Servicio Civil de Carrera Parlamentaria al personal administrativo del Poder Legislativo que no sea nombrado por el Pleno;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+XI.- Presidir el Comité del Servicio Civil de Carrera Parlamentaria a que se refiere el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+XII.- Las demás que le confiera el Pleno del Congreso o la Gran Comisión.
 
 ### CAPÍTULO VI. DE LAS COMISIONES Y COMITÉS
 
@@ -725,7 +785,9 @@ X.- Equidad y Género;
 
 XI.- Asuntos Indígenas;
 
-XII.- Inspectora de la Contaduría Mayor de Hacienda, y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+XII.- Inspectora del Órgano de Fiscalización Superior;
 
 XIII.- Instructora.
 
@@ -823,29 +885,43 @@ Para el conocimiento, trámite y resolución de los asuntos a que se refiere el 
 
 Para conocer y dictaminar sobre las denuncias o peticiones relativas a juicio político o declaración de procedencia contra funcionarios que gocen de fuero constitucional, las Comisiones de Gobernación, Justicia, Puntos Constitucionales y Protección Civil, e Instructora, substanciarán los procedimientos correspondientes, de conformidad con lo establecido en los Capítulos I, II y III del Título Segundo de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
 ###### ARTÍCULO 58.
 
-Para la aplicación de las sanciones por responsabilidad administrativa en que incurran Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, se estará al procedimiento que establece el Capítulo II del Título Tercero de la Ley de Responsabilidades de los Servidores Públicos del Estado y, en lo conducente, a los preceptos de la Ley Orgánica y Reglamentaria de la Contaduría Mayor de Hacienda y demás Leyes aplicables.
+Para la aplicación de las sanciones por responsabilidad administrativa en que incurran Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, se estará al procedimiento que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y, en lo conducente, a los preceptos de la Ley del Órgano de Fiscalización Superior del Estado, su Reglamento y demás leyes aplicables.
 
-### CAPÍTULO X. DE LA CONTADURÍA MAYOR DE HACIENDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2001)</small>
+
+### CAPÍTULO X. DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 59.
 
-La Contaduría Mayor de Hacienda, es el órgano de fiscalización y control gubernamental del Congreso del Estado. Se integra y ejerce sus atribuciones en términos de la Constitución Política del Estado Libre y Soberano de Puebla, el presente ordenamiento y las demás leyes aplicables. El Contador Mayor de Hacienda será designado conforme lo establezca la Ley Orgánica de la Contaduría Mayor de Hacienda del H. Congreso del Estado.
+El Órgano de Fiscalización Superior del Estado es la unidad de fiscalización, control y evaluación gubernamental dependiente del Congreso del Estado. Se integra y ejerce sus atribuciones en términos de la Constitución Política del Estado, el presente ordenamiento y demás leyes aplicables. El Auditor General será nombrado conforme al procedimiento establecido por la Constitución Política del Estado y la Ley del Órgano de Fiscalización Superior del Estado.
 
-### CAPÍTULO XI. DE LA OFICIALÍA MAYOR
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE AGOSTO DE 2001)</small>
+
+### CAPÍTULO XI. DE LA SECRETARÍA GENERAL
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 60.
 
-La administración del Congreso del Estado, estará a cargo de un Oficial Mayor, que será nombrado por el Pleno del Congreso a propuesta de la Gran Comisión.
+La administración del Congreso del Estado estará a cargo de un Secretario General, que será nombrado por el Pleno del Congreso a propuesta de la Gran Comisión.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 61.
 
-El Oficial Mayor dependerá de la Gran Comisión y coordinará sus actividades con la Mesa Directiva del Congreso.
+El Secretario General dependerá de la Gran Comisión y coordinará sus actividades con la Mesa Directiva del Congreso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 62.
 
-Para ser Oficial Mayor del Congreso se requiere:
+Para ser Secretario General del Congreso se requiere:
 
 I.- Ser ciudadano poblano en pleno goce de sus derechos;
 
@@ -853,17 +929,23 @@ II.- Ser de notoria honradez y no haber sido sentenciado por delito doloso que a
 
 III.- Poseer título de Licenciado en Derecho, con antigüedad mínima de cinco años.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
 ###### ARTÍCULO 63.
 
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Oficialía Mayor contará con las siguientes dependencias técnicas y administrativas:
+Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, la Secretaría General contará con las siguientes dependencias técnicas y administrativas:
 
-I.- Dirección General de Apoyo Parlamentario;
+I.- Dirección General de Apoyo Parlamentario e Informática;
 
-II.- Dirección General de Estudios y Proyectos Legislativos;
+II.- Dirección General de Asuntos Jurídicos, de Estudios y de Proyectos Legislativos;
 
-III.- Dirección General de Comunicación Social, y
+III.- Dirección General de Comunicación Social;
 
-IV.- Dirección General de Coordinación Administrativa.
+IV.- Dirección General de Coordinación Administrativa; y
+
+V.- Unidad de Relaciones Públicas.
+
+La Secretaría General y las Direcciones Generales contarán con el número de Direcciones, Jefaturas de Departamento y servidores públicos de confianza y de base que sean necesarios para el cumplimiento de sus funciones.
 
 ### CAPÍTULO I. DEL DERECHO DE INICIATIVA
 
@@ -875,13 +957,23 @@ I.- Al Gobernador del Estado;
 
 II.- A los Diputados;
 
-III.- Al Tribunal Superior de Justicia en lo relacionado con la administración de justicia, y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
 
-IV.- A los Ayuntamientos en lo relativo a la administración municipal.
+III.- Al Tribunal Superior de Justicia en lo relacionado con la administración de justicia;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+IV.- A los Ayuntamientos en lo relativo a la administración municipal; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2001)</small>
+
+V.- A los ciudadanos del Estado, en los términos que establezca la Constitución Política del Estado y la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ###### ARTÍCULO 65.
 
-Las resoluciones del Congreso tendrán el carácter de Ley, Decreto o Acuerdo. Las Leyes y Decretos se sujetarán a los trámites establecidos por los artículos 64 y 140 de la Constitución Política del Estado, cuando se refiera a reformas o adiciones a la misma. Los Acuerdos se tramitarán en los términos señalados por su Reglamento. Las Leyes y Decretos, serán firmados por el Presidente y los Secretarios; los Acuerdos sólo por estos últimos.
+Las resoluciones del Congreso tendrán el carácter de Ley, Decreto o Acuerdo. Las Leyes y Decretos se sujetarán a los trámites establecidos por los artículos 64 y 140 de la Constitución Política del Estado, cuando se refiera a reformas o adiciones a la misma. Los Acuerdos se tramitarán en los términos señalados por su Reglamento. Las Leyes y Decretos serán firmados por el Presidente, el Vice-presidente y los Secretarios; los Acuerdos sólo por estos últimos.
 
 ###### ARTÍCULO 66.
 
@@ -893,9 +985,51 @@ Cuando a juicio de la Gran Comisión se requiera conocer la opinión de los ciud
 
 La Comisión competente, fijará las bases mediante convocatoria, conducirá los trabajos, realizará el análisis de los resultados y presentará sus conclusiones.
 
+> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2001)</small>
+
+###### ARTÍCULO 68.
+
+El Congreso del Estado establecerá el Servicio Civil de Carrera Parlamentaria, atendiendo a la capacidad, idoneidad, rectitud, probidad, constancia y profesionalismo de sus servidores públicos.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
 ## TÍTULO CUARTO. DE LAS INICIATIVAS
 
 ### CAPÍTULO II. DE LA CONSULTA POPULAR
+
+###### ARTÍCULO 69.
+
+El Servicio Civil de Carrera Parlamentaria tendrá como propósito garantizar la estabilidad y seguridad en el empleo, así como fomentar la vocación de servicio y promover la capacitación permanente del personal.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+###### ARTÍCULO 70.
+
+El Congreso del Estado expedirá y vigilará la exacta observancia del Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado, el que deberá contener, por lo menos:
+
+I.- El sistema de mérito para la selección, promoción y ascenso de los servidores públicos del Poder Legislativo;
+
+II.- Los principios de estabilidad y permanencia en el trabajo;
+
+III.- El sistema de clasificación y perfiles de puestos;
+
+IV.- El sistema salarial; y
+
+V.- Los programas para la capacitación, actualización y desarrollo de los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+###### ARTÍCULO 71.
+
+El Congreso del Estado podrá celebrar convenios de coordinación o colaboración con los demás Poderes o con instituciones públicas o privadas, con el fin de cumplir con los objetivos del Servicio Civil de Carrera Parlamentaria y su Estatuto.
+
+### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
+## TÍTULO QUINTO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2001)</small>
 
 ## TRANSITORIOS
 
@@ -964,3 +1098,19 @@ e Informática
 Dada en el Palacio del Poder Legislativo a los veintinueve días del mes de Julio de mil novecientos noventa y nueve. Diputado Presidente.- MAXIMINO PÉREZ GONZÁLEZ.- Rúbrica.- Diputado Secretario.- JOSÉ HUGO ÁLVAREZ VERA.- Rúbrica.- Diputado Secretario.- ARTURO FLORES GRANDE.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los veintinueve días del mes de julio de mil novecientos noventa y nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE AGOSTO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La integración de la Comisión General Inspectora del Órgano de Fiscalización Superior a que se refieren la fracción XII del artículo 43 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla y la fracción XII del artículo 23 del Reglamento Interior del Congreso del Estado, será la misma que actualmente tiene la Comisión General Inspectora de la Contaduría Mayor de Hacienda, para todos los efectos legales precedentes.
+
+TERCERO.- La Comisión General Inspectora del Órgano de Fiscalización Superior se subroga en todas las facultades y obligaciones de la Comisión General Inspectora de la Contaduría Mayor de Hacienda, y los asuntos que se encuentren en trámite o en proceso en ésta al entrar en vigor el presente ordenamiento, continuarán tramitándose hasta su terminación por la Comisión General Inspectora del Órgano de Fiscalización Superior, en términos de la legislación aplicable.
+
+CUARTO.- El Oficial Mayor del Congreso del Estado que se encuentre en funciones al momento de entrar en vigor el presente Decreto, continuará ejerciendo el cargo de Secretario General, subrogándose en todas las obligaciones y atribuciones inherentes a su función.
+
+Asimismo, los Directores Generales de Apoyo Parlamentario, y de Estudios y Proyectos Legislativos que se encuentren en funciones al entrar en vigor el presente Decreto, continuarán ejerciendo sus atribuciones como Director General de Apoyo Parlamentario e Informática y Director General de Asuntos Jurídicos, de Estudios y de Proyectos Legislativos, respectivamente, subrogándose en todas los derechos y obligaciones inherentes a sus cargos.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
