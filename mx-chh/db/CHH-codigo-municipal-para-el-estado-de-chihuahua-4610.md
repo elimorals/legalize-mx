@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2003-06-14"
+last_updated: "2003-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2003.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -3285,15 +3285,19 @@ P.O. 11 DE ENERO DE 2003.
 
 El presente Decreto entrará en vigor el primero de enero del año dos mil tres.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Durante el primer semestre de 2003, los contribuyentes del Impuesto Predial efectuarán el pago de esta contribución, de acuerdo a los valores y tasa aplicadas durante el ejercicio fiscal de 2002, sin perjuicio de los descuentos por pago anticipado que se establezcan, de los incrementos acordados por el Ayuntamiento con carácter general y los que deriven de nuevas construcciones y actualizaciones de valores catastrales, anteriores a la entrada en vigor del presente Decreto.
+Durante el ejercicio fiscal de 2003, los contribuyentes del Impuesto Predial efectuarán el pago de esta contribución, de acuerdo a los valores y tasa aplicadas durante el ejercicio fiscal de 2002, sin perjuicio de los descuentos por pago anticipado que se establezcan, de los incrementos acordados por el Ayuntamiento con carácter general y los que deriven de nuevas construcciones y actualizaciones de valores catastrales, anteriores a la entrada en vigor del presente Decreto.
 
-A partir del segundo semestre del ejercicio 2003, quienes efectúen el pago del impuesto, lo harán conforme a lo dispuesto por el presente Decreto.
+A partir del primero de enero del 2004, quienes efectúen el pago del impuesto, lo harán conforme a lo dispuesto por Decreto 562/02 I P.O.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2003)</small>
 
 ###### ARTÍCULO TERCERO.
 
-A partir de la aplicación de las disposiciones que establece el presente Decreto, entendida esta a partir del segundo semestre del año dos mil tres, el monto el monto (sic) del incremento en su caso del impuesto predial a pagar por los sujetos obligados de la relación tributaria, no podrá exceder en un diez por ciento, respecto al monto enterado, por el mismo bien, en el año inmediato anterior. Esta disposición operará en cada caso por año, hasta que se alcance el cien por ciento del impuesto a pagar, sin perjuicio de la actualización que pueda corresponder.
+A partir de la aplicación de las disposiciones que establece el presente Decreto, que será a partir del año dos mil cuatro, el monto del incremento en su caso del impuesto predial a pagar por los sujetos obligados de la relación tributaria, no podrá exceder en un diez por ciento, respecto al monto enterado, por el mismo bien, en el año inmediato anterior. Esta disposición operará en cada caso por año, hasta que se alcance el cien por ciento del impuesto a pagar, sin perjuicio de la actualización que pueda corresponder.
 
 P.O. 15 DE FEBRERO DE 2003.
 
@@ -3344,3 +3348,11 @@ P.O. 14 DE JUNIO DE 2003.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JUNIO DE 2003.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+## TRANSITORIOS
