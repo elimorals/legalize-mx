@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-pleno-del-consejo-de-la-judicatura-federal-63612"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1995-09-14"
-last_updated: "1995-09-14"
+last_updated: "1997-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63612&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-09-14"
 
 ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LOS CRITERIOS DE APLICACION DEL ACUERDO GENERAL NUMERO 6/1995, QUE FIJA LAS BASES PARA EL NOMBRAMIENTO DE ACTUARIOS Y SECRETARIOS DE TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: TOMO VI, NOVIEMBRE DE 1997, PAGINA 539.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo II, Septiembre de 1995, página 635.
 
@@ -45,7 +45,11 @@ PRIMERO.- Para el nombramiento de primer ingreso a los puestos de secretario o a
 
 SEGUNDO.- Los titulares de los órganos jurisdiccionales, con objeto de no afectar el funcionamiento del órgano, podrán nombrar de manera provisional, hasta por dos meses improrrogables, a los secretarios o actuarios de Tribunal de Circuito o Juzgado de Distrito, en las ausencias de los funcionarios públicos titulares, o para ocupar una plaza de adscripción temporal, en tanto se lleva a cabo el procedimiento para la práctica de los exámenes y se obtiene la autorización para el nombramiento respectivo por parte del Pleno del Consejo de la Judicatura Federal. Las personas así nombradas deberán reunir los requisitos legales establecidos para el puesto y podrán presentar el examen de aptitud correspondiente.
 
-TERCERO.- La experiencia profesional de tres años requerida para ser designado secretario de Tribunal de Circuito o de Juzgado de Circuito, se computará a partir de la fecha en que el aspirante haya presentado su examen profesional para obtener título de licenciado en derecho. A los secretarios que actualmente se encuentran en funciones, que no cuenten con la experiencia profesional señalada, sólo se les podrá renovar el nombramiento como interinos.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL PUNTO TERCERO DEL DIVERSO RELATIVO ALOS CRITERIOS DE APLICACION DEL ACUERDO GENERAL NUMERO 6/1995, QUE FIJA LAS BASES PARA EL NOMBRAMIENTO DE ACTUARIOS Y SECRETARIOS DE TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO, S.J.F.G., TOMO VI, NOVIEMBRE DE 1997, PAGINA 539)</small>
+
+TERCERO.- La experiencia profesional de. tres años requerida para ser designado secretario de Tribunal de Circuito o de Juzgado de Distrito, se computará a partir de la fecha en que el aspirante haya presentado su examen profesional para obtener el título de licenciado en derecho, salvo en aquellos casos en que se den las siguientes circunstancias: 1) que el profesionista haya laborado en órganos jurisdiccionales del Poder Judicial de la Federación, independientemente de la categoría que haya desempeñado, al menos tres años; 2) que el mismo se encuentre en funciones de actuario judicial, ocupando dicha plaza; 3) que el titular solicitante manifieste que el aspirante a ocupar la plaza posee práctica profesional de más de tres años; y 4) que cumpla con los demás requisitos que establecen los artículos 107 o 109, según sea el caso, de la Ley Orgánica del Poder Judicial de la Federación.
+
+A los secretarios que actualmente se encuentran en funciones, que no cuenten con la experiencia profesional señalada, sólo se les podrá renovar el nombramiento como interinos.
 
 CUARTO.- Para determinar la antigüedad de más de seis meses con que se debe contar para adquirir un nombramiento de base como secretario o actuario de Tribunal de Circuito y Juzgado de Distrito en el órgano jurisdiccional respectivo, que cuente con las plazas vacantes en dichas categorías dentro de su plantilla autorizada, se tomará en cuenta el tiempo de servicios efectivamente laborado dentro del propio órgano jurisdiccional, sin considerar los períodos en que se haya disfrutado de licencias sin goce de sueldo, siempre que el servidor público de que se trate, se encuentre laborando en el mismo órgano jurisdiccional en la categoría respecto de la cual se plantea la base, en la fecha en que se otorgue el nombramiento.
 
@@ -70,3 +74,11 @@ LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUD
 CERTIFICA
 
 Que este Acuerdo, relativo a los Criterios de Aplicación del Acuerdo General número 6/1995, que fija las bases para el nombramiento de actuarios y secretarios de Tribunales de Circuito y Juzgados de Distrito, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de catorce de septiembre de mil novecientos noventa y cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro José Vicente Aguinaco Alemán, Alonso Galván Villagómez, Hilda Cecilia Martínez González, Mario Melgar Adalid, Ricardo Méndez Silva, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a dieciocho de septiembre de mil novecientos noventa y cinco.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F.G., TOMO VI, NOVIEMBRE DE 1997, PAGINA 539.
+
+PRIMERO.- Este acuerdo entrará en vigor en la fecha de su aprobación por el Pleno del Consejo de la Judicatura Federal, debiendo publicarse en el Semanario Judicial de la Federación y su Gaceta
+
+SEGUNDO.- El secretario ejecutivo del Pleno y Carrera Judicial deberá comunicar el presente acuerdo, a través de circular, a todos los titulares de los órganos jurisdiccionales federales del país.
