@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-17884"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2003-01-08"
+last_updated: "2003-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MERIDA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2002.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE 8 DE ENERO DE 2003.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE MAYO DE 2003.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 30 de diciembre de 1999.
 
@@ -1049,6 +1047,10 @@ k) Licencia para construir bardas o colocar pisos.
 
 l) Autorización de las licencias de uso del suelo.
 
+> <small>(ADICIONADO, D.O. 19 DE MAYO DE 2003)</small>
+
+m) Permisos por Anuncios.
+
 DE LAS BASES
 
 ###### ARTICULO 72.
@@ -1228,6 +1230,32 @@ De 1 a 5 Ha. 5
 De más de 5 Ha. 10
 
 Las construcciones, excavaciones, demoliciones y demás obras o trabajos iniciados o llevados a cabo sin la licencia, autorización o constancia correspondiente, se entenderán extemporáneos y pagarán una sanción correspondiente a tres tantos el importe de la tarifa respectiva.
+
+> <small>(ADICIONADO, D.O. 19 DE MAYO DE 2003)</small>
+
+El pago por el servicio señalado en el inciso m), del artículo 71 se calculará con base en el salario mínimo vigente, de acuerdo con las tarifas siguientes:
+
+1. Por instalación de anuncios de propaganda o publicidad permanentes, en inmuebles o en mobiliario urbano, a razón de 1.00 de un salario por metro cuadrado.
+
+2. Por instalación de anuncios de propaganda o publicidad transitorios, en inmuebles, en mobiliario urbano o mantas, a razón de 0.5 de un salario por metro cuadrado.
+
+3. Por instalación de anuncios de propaganda o publicidad permanentes en vehículos de transporte público, 2.00 de un salario por metro cuadrado.
+
+4. Por instalación de anuncios de propaganda o publicidad temporales en vehículos de transporte público, 0.5 de un salario por anuncio.
+
+5. Por difusión de propaganda o publicidad asociadas a música o sonidos, a razón de 1.00 de un salario por anuncio.
+
+6. Por la difusión de propaganda o publicidad impresa en volantes o folletos, a razón de 0.1 de un salario por millar.
+
+7. Por instalación de anuncios de propaganda o publicidad de neón, en inmuebles o en mobiliario urbano, a razón de 1.5 de un salario por metro cuadrado.
+
+8. Por proyección óptica o a través de medios electrónicos, a razón de 1.00 de un salario por metro cuadrado.
+
+9. Por instalación de anuncios de propaganda o publicidad inflables, figurativos o volumétricos, a razón de 1.2 de un salario por metro cúbico.
+
+> <small>(ADICIONADO, D.O. 19 DE MAYO DE 2003)</small>
+
+Los anuncios y propaganda de carácter político, no causarán derecho alguno y se regirán conforme a las leyes electorales federal, estatal y los convenios correspondientes.
 
 DE LAS EXENCIONES
 
@@ -1581,7 +1609,9 @@ I.- Por el uso o servicio de cámara refrigerante, por día $ 170.00
 
 II.- Por el servicio funerario particular se causará un derecho de $ 260.00
 
-III.- Por renta de bóveda por un período de dos años o su prórroga por el mismo período.
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE MAYO DE 2003)</small>
+
+III.- Por usar una bóveda por un período de dos años o su prórroga por el mismo período:
 
 a) Bóveda grande
 
@@ -1591,25 +1621,29 @@ b) Bóveda chica
 
 $ 130.00
 
-IV.- Por concesión para usar a perpetuidad una sepultura en la ciudad de Mérida:
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE MAYO DE 2003)</small>
 
-a) General y Xoclán se pagará:
+IV.- Por usar a perpetuidad bóvedas criptas, fosas o tumbas, columbarios y osarios que se encuentren dentro de los cementerios y panteones públicos o privados, ubicados dentro de la jurisdicción y competencia del Municipio de Mérida, se pagará de la siguiente forma:
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE MAYO DE 2003)</small>
+
+a) General, Xoclán y Chuburná se pagará:
 
 1).- Osario o cripta mural
 
 $ 240.00
 
-2).- Bóveda chica
+> <small>(REFORMADO, D.O. 19 DE MAYO DE 2003)</small>
 
-$ 1,300.00
+2).- Bóveda chica $ 1,000.00
 
-3).- Bóveda grande
+> <small>(REFORMADO, D.O. 19 DE MAYO DE 2003)</small>
 
-$ 3,000.00
+3).- Bóveda grande $ 2,500.00
 
-4).- Bóveda grande doble
+> <small>(REFORMADO, D.O. 19 DE MAYO DE 2003)</small>
 
-$ 4,600.00
+4).- Bóveda grande doble $ 4,000.00
 
 5).- Cripta en la capilla de Xoclán
 
@@ -1622,6 +1656,10 @@ $ 170.00
 b) Jardines de la Paz, se pagará en bóveda grande.
 
 $ 4,300.00
+
+> <small>(ADICIONADO, D.O. 19 DE MAYO DE 2003)</small>
+
+c) Comisaría y subcomisarías $ 0.00
 
 V.- Cuando se trate de inhumaciones en fosa común, no se causará derecho alguno.
 
@@ -1687,7 +1725,9 @@ c) Restos áridos:
 
 $ 900.00
 
-Cuando el servicio sea prestado por un particular, éste deberá informar a la Dirección General de Cementerios, previamente a la prestación de dicho servicio y cubrir el 20% señalado en esta fracción.
+> <small>(REFORMADO, D.O. 19 DE MAYO DE 2003)</small>
+
+Cuando el servicio de cremación sea prestado por un particular, éste deberá informar a la Subdirección de Cementerios del Ayuntamiento de Mérida, previamente a la prestación de dicho servicio y cubrir el .20 de las tarifas señaladas en esta fracción.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1907,15 +1947,107 @@ c) Por contenedores con capacidad de más de 10,000 litros, 2.25 salarios por vi
 
 d) Por descargas que por su densidad requieran permiso especial de la Dirección de Ecología, 2.8 salarios por viaje
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 19 DE MAYO DE 2003)</small>
+
+### CAPITULO XIII. DERECHOS POR LOS SERVICIOS DE VIGILANCIA
+
+> <small>(ADICIONADO, D.O. 19 DE MAYO DE 2003)</small>
+
+###### ARTICULO 95
+
+Ñ.- Son sujetos obligados al pago de derechos por los servicios de vigilancia, las personas físicas o morales, incluyendo entre éstas las instituciones públicas o privadas, que lo soliciten, o de oficio cuando por disposición legal sea necesario que cuente con dicho servicio.
+
+> <small>(ADICIONADO, D.O. 19 DE MAYO DE 2003)</small>
+
+###### ARTICULO 95-O.
+
+El objeto de este derecho, es el servicio prestado por la autoridad municipal en materia de seguridad pública, por la vigilancia de los establecimientos que brindan servicios al público, cuya posesión legal tengan las personas mencionadas en el artículo anterior.
+
+> <small>(ADICIONADO, D.O. 19 DE MAYO DE 2003)</small>
+
+###### ARTICULO 95-P.
+
+Este derecho se pagará con base al salario mínimo vigente en el Estado de Yucatán; de acuerdo a la siguiente tarifa:
+
+I.- En fiestas de carácter social, exposiciones, asambleas y demás eventos análogos, en general, una cuota equivalente a cuatro veces el salario mínimo vigente en el Estado de Yucatán por comisionado por cada jornada de ocho horas.
+
+II.- En las centrales y terminales de autobuses, centros deportivos, empresas, instituciones y con particulares, una cuota equivalente a cinco veces el salario mínimo vigente en el Estado de Yucatán por comisionado, por cada jornada de ocho horas.
+
+> <small>(ADICIONADO, D.O. 19 DE MAYO DE 2003)</small>
+
+###### ARTICULO 95-Q.
+
+El pago de los derechos se hará por anticipado en el momento de la solicitud del servicio, ante las oficinas de la Tesorería Municipal o lugar autorizado para ello. En los casos en que la autoridad municipal preste el servicio, el pago deberá realizarlo el sujeto obligado, dentro del plazo que establezca la autoridad.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 19 DE MAYO DE 2003)</small>
+
+### CAPITULO XIV. DERECHOS POR LOS SERVICIOS DE CORRALÓN Y GRÚA
+
+> <small>(ADICIONADO, D.O. 19 DE MAYO DE 2003)</small>
+
+###### ARTICULO 95-R.
+
+Son sujetos de estos derechos las personas físicas o morales e instituciones públicas o privadas que lo soliciten, o cuando la autoridad municipal determine, el arrastre y depósito de vehículos en el corralón municipal u otro lugar autorizado por esta Autoridad.
+
+> <small>(ADICIONADO, D.O. 19 DE MAYO DE 2003)</small>
+
+###### ARTICULO 95-S.
+
+Son objetos de estos derechos los servicios de arrastre de vehículos y el depósito de los mismos en corralones u otros lugares autorizados, que deban ser almacenados, a petición del interesado, por disposición legal o que la autoridad municipal correspondiente lo juzgue necesario o conveniente.
+
+> <small>(ADICIONADO, D.O. 19 DE MAYO DE 2003)</small>
+
+###### ARTICULO 95-T.
+
+Los derechos previstos en este Capítulo se pagarán de acuerdo con las siguientes tarifas:
+
+I.- Por la estancia en el corralón se pagará un derecho diario por cada vehículo de:
+
+1.- Automóviles, camiones
+
+y camionetas Por los primeros 10 días: $ 30.00 por día
+
+Por los siguientes días: $ 7.00 por día
+
+2.- Trailers y equipo pesado $ 50.00 por día
+
+3.- Motocicletas Por los primeros 10 días: $ 6.00 por día
+
+Por los siguientes días: $ 2.00 por día
+
+4-. Bicicletas Por los primeros 10 días: $ 4.00 por día
+
+Por los siguientes días: $ 3.00 por día
+
+5.- Carruajes, carretas
+
+y carretones de mano $ 3.00 por día
+
+II.- Por el servicio de grúa se pagará por cada vehículo:
+
+1. Automóviles, motocicletas y camionetas $ 150.00
+
+2. Camiones según tamaño y tonelaje por unidad:
+
+a) Camiones de tres a ocho toneladas: $ 500.00
+
+b) Camiones de más de ocho toneladas: $ 700.00
+
+III. Salvamento, rescate y traslado de
+
+vehículos siniestrados: $790.00
+
+> <small>(ADICIONADO, D.O. 19 DE MAYO DE 2003)</small>
+
+###### ARTICULO 95-U.
+
+El pago de estos derechos se hará una vez proporcionado el servicio, de acuerdo a las cuotas establecidas en la ley y en los lugares autorizados por la Tesorería Municipal.
+
 ### CAPITULO UNICO. DE LOS SUJETOS
-
-### CAPITULO UNICO. DE LOS PRODUCTOS
-
-### CAPITULO UNICO. DE LAS MULTAS FEDERALES NO FISCALES
 
 ## TITULO IV. DE LAS CONTRIBUCIONES DE MEJORAS
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO UNICO. DE LOS PRODUCTOS
 
 ###### ARTICULO 96.
 
@@ -2047,9 +2179,7 @@ El Director de Finanzas y Tesorero Municipal previa solicitud por escrito de la 
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 31 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO II. INFRACCIONES Y SANCIONES
-
-DE LOS RESPONSABLES
+### CAPITULO UNICO. DE LAS MULTAS FEDERALES NO FISCALES
 
 ###### ARTICULO 108.
 
@@ -2106,6 +2236,8 @@ DE LOS DAÑOS
 Los productos que percibirá el Municipio por los daños que sufrieren las vías públicas o los bienes de su propiedad, serán cuantificados de acuerdo al peritaje que se elabore al efecto, sobre los daños sufridos. El perito será designado por la autoridad fiscal municipal.
 
 ## TITULO VI. APROVECHAMIENTOS
+
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 116.
 
@@ -2186,6 +2318,10 @@ Para el caso de que los ingresos por gastos de ejecución, fueren generados en e
 Los ingresos mencionados en los artículos 118 y 119, serán recaudados por la Dirección de Finanzas y Tesorería Municipal y con sujeción a las leyes o convenios, en que fueron fijadas las participaciones correspondientes.
 
 ## TITULO VIII. INFRACCIONES Y MULTAS
+
+### CAPITULO II. INFRACCIONES Y SANCIONES
+
+DE LOS RESPONSABLES
 
 ###### ARTICULO 122.
 
@@ -2302,3 +2438,9 @@ Las reformas y adiciones a que se refiere este decreto entrarán en vigor al dí
 El Cabildo del H. Ayuntamiento de Mérida deberá expedir, dentro de los 90 días hábiles posteriores a la entrada en vigor del presente decreto, el reglamento relativo a los establecimientos relacionados en los artículos 95-J, 95-K y 95-L de la presente Ley.
 
 Los derechos descritos en dichos artículos, entrarán en vigor al día siguiente de la publicación en el Diario Oficial del Gobierno del Estado del reglamento referido en el párrafo anterior.
+
+D.O. 19 DE MAYO DE 2003.
+
+PRIMERO.- Las reformas y adiciones a que se refiere este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los derechos previstos en el Capítulo XIII del Título III de la Ley de Hacienda del Municipio de Mérida, quedarán en suspenso hasta en tanto se transfiera al citado Municipio por parte del Gobierno del Estado de Yucatán, los servicios correspondientes.
