@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1974-11-19"
+last_updated: "1974-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -45,6 +45,32 @@ LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
 Institución de fianzas es una sociedad anónima, autorizada previamente por el Gobierno Federal para otorgar fianzas a título oneroso.
 
+###### ARTICULO 2º.
+
+Corresponde a la Secretaría de Hacienda y Crédito Público otorgar discrecionalmente la autorización a que se refiere el artículo anterior, la cual será intransferible.
+
+###### ARTICULO 3º.
+
+La autorización sólo podrá otorgarse a sociedades anónimas de nacionalidad mexicana, que además de haber cumplido los requisitos exigidos por la legislación mercantil, satisfagan los siguientes:
+
+I.- Tendrán por objeto único otorgar fianzas en los términos del artículo 1º. de esta Ley.
+
+II.- Su capital social mínimo será de un millón, quinientos mil pesos íntegramente pagado.
+
+III.- Su duración será indefinida.
+
+Las instituciones de fianzas podrán emitir acciones no suscritas que se conservarán en la caja de la sociedad, las que serán entregadas a los suscriptores contra el pago total de su valor nominal y de las primas que en su caso, fije la sociedad. Con el importe de estas primas se constituirá una reserva, que podrá ser capitalizada.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
+
+En ningún momento podrán participar en forma alguna en el capital de estas sociedades, gobiernos o dependencias oficiales extranjeros, entidades financieras del exterior, o agrupaciones de personas extranjeras, físicas o morales, sea cual fuere la forma que revistan, directamente o a través de interpósita persona.
+
+###### ARTICULO 4º.
+
+La escritura social y sus modificaciones deberán ser aprobadas por la Secretaría de Hacienda y Crédito Público, cuando se ajusten a la Ley. La misma ordenará al Registro Público de la Propiedad y de Comercio de la ciudad de México y al del domicilio social, que haga la inscripción correspondiente sin necesidad de mandamiento judicial. La inscripción que se haga en contravención a lo dispuesto por este artículo, no surtirá efecto legal.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
 ###### ARTICULO 4º. Bis.
 
 Son organizaciones auxiliares de fianzas los consorcios formados por instituciones de fianzas autorizadas con objeto de prestar a cierto sector de actividad económica un servicio de fianzas de manera sistemática a nombre y por cuenta de dichas instituciones, o celebrar en representación de las mismas los contratos de reafianzamiento o coafianzamiento necesarios para la mejor distribución de responsabilidades.
@@ -55,15 +81,15 @@ Los consorcios tendrán por único objeto actuar como instituciones auxiliares d
 
 En los consorcios las instituciones de fianzas que los constituyan se obligarán en los términos y proporciones que pacten.
 
-###### ARTICULO 5°.
+###### ARTICULO 5º.
 
 Se requiere previa autorización de la Secretaría de Hacienda y Crédito Público cada vez que una institución de fianzas establezca, clausure o cambie el domicilio de su matriz o sucursales.
 
-###### ARTICULO 6°.
+###### ARTICULO 6º.
 
 Las autorizaciones a que se refieren los artículos 2º y 5º de esta Ley, serán publicadas a costa del interesado en el "Diario Oficial" de la Federación y en el periódico que señale la Secretaría de Hacienda y Crédito Público.
 
-###### ARTICULO 7°.
+###### ARTICULO 7º.
 
 Sólo las instituciones de fianzas pueden otorgar habitualmente fianzas a título oneroso. Las personas no autorizadas conforme a esta Ley que habitualmente otorguen fianzas a título oneroso serán sancionadas con multa de mil a diez mil pesos. La reincidencia en esta falta será castigada con duplicación de la multa o prisión de seis meses a seis años. Si se trata de sociedades se aplicará igual sanción a los directores o gerentes y a cada uno de los miembros de su Consejo de Administración cuando éstos hayan autorizado el otorgamiento de fianzas en la sociedad que dirigen.
 
@@ -71,13 +97,13 @@ Salvo prueba en contrario se presume la infracción de este precepto, cuando el 
 
 En todo caso, la empresa será intervenida administrativamente por la Secretaría de Hacienda y Crédito Público para que se liquiden las operaciones realizadas en contravención a lo dispuesto por esta Ley.
 
-###### ARTICULO 8°.
+###### ARTICULO 8º.
 
 Las fianzas otorgadas por compañías fiadoras o aseguradoras no autorizadas para operar en la República, para garantizar actos de personas que en ella deban cumplir obligaciones, no producirán efecto legal alguno, salvo los casos de reafianzamiento y los de excepción que esta ley establece.
 
 La persona que como beneficiaria, agente o intermediaria intervenga en el otorgamiento de las fianzas a que se refiere el párrafo anterior, será sancionada con multa de mil a diez mil pesos, que administrativamente fijará la Secretaría de Hacienda y Crédito Público.
 
-###### ARTICULO 9°.
+###### ARTICULO 9º.
 
 La persona que como intermediaria proponga, ajuste o concluya contratos de fianzas sin ser agente conforme a esta Ley, será sancionada con multa de quinientos a cinco mil pesos, que impondrá la Secretaría de Hacienda y Crédito Público.
 
@@ -609,13 +635,11 @@ Tratándose de primas, por concepto de reafianzamiento recibido de empresas extr
 
 Las instituciones de fianzas, dentro de los primeros quince días de cada bimestre, presentarán manifestaciones a la Secretaría de Hacienda y Crédito Público, determinando el monto del derecho a que se refiere el artículo anterior. Al presentar dichas manifestaciones exhibirán el comprobante de haber pagado el importe de los derechos causados, a reserva de que se hagan los ajustes que procedan al verificarse las mencionadas manifestaciones mediante las inspecciones respectivas.
 
-> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 74.
 
-Las instituciones de fianzas estarán sujetas a los impuestos y derechos establecidos en la Ley General del Timbre.
-
-Las operaciones de fianzas y las que con ellas se relacionen, que realicen las instituciones de fianzas, así como los ingresos o utilidades que por los mismos conceptos obtengan, no podrán ser gravados en forma alguna, por los Estados, Municipios y Distrito Federal.
+Las operaciones de fianzas y las que con ellas se relacionen, que realicen las instituciones de fianzas, así como los ingresos o utilidades que por los mismos conceptos obtengan, no podrán ser gravados en forma alguna por los Estados, Municipios o Distrito Federal. Los contratos de arrendamiento, subarrendamiento o compra - venta que celebren las instituciones de fianzas, causarán el impuesto establecido por las fracciones II y VII, inciso C, de la Tarifa contenida en el artículo 4o. de la Ley General del Timbre.
 
 ###### ARTICULO 75.
 
@@ -779,13 +803,13 @@ VII.- Los particulares podrán elegir libremente jueces federales o locales para
 
 VIII.- Las disposiciones de este artículo y del anterior, sólo serán aplicables a las fianzas otorgadas a favor de particulares.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 95.
 
-Las fianzas que las instituciones otorguen a favor de la Federación, del Distrito y Territorios Federales, de los Estados y de los Municipios, se harán efectivas conforme a las siguientes reglas:
+Las fianzas que las instituciones otorguen a favor de la Federación, del Distrito Federal, de los Estados y de los municipios, se harán efectivas conforme a las siguientes reglas:
 
-> <small>(F. DE E., D.O.F. 19 DE MARZO DE 1954)</small>
+(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1953)(F. DE E., D.O.F. 19 DE MARZO DE 1954)
 
 I.- Al hacerse exigible una fianza a favor de la Federación, la autoridad que la hubiere aceptado, deberá comunicarlo a la dependencia especializada de la Tesorería de la Federación, acompañando la documentación relativa a la fianza y a la obligación por ella garantizada.
 
@@ -793,21 +817,31 @@ Las instituciones de fianzas estarán obligadas a enviar a la Tesorería de la F
 
 La Tesorería de la Federación procederá a requerir de pago, en forma personal, a la institución deudora en zona matriz o en sus sucursales cuando en dicha matriz se encuentre fuera del Distrito Federal, debiendo hacerse el requerimiento de manera motivada y fundada y acompañado de los documentos que justifiquen la exigibilidad del crédito.
 
-Tratándose del Distrito y Territorios Federales, de los Estados y de los Municipios, el requerimiento de pago, que se hará en los términos anteriores, lo llevarán a cabo las Tesorerías locales correspondientes, y podrá hacerse mediante oficio con acuse de recibo.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Tratándose del Distrito Federal, de los Estados y de los municipios, el requerimiento de pago, que se hará en los términos anteriores, lo llevarán a cabo las tesorerías locales correspondientes, y podrá hacerse mediante oficio con acuse de recibo.
 
 > <small>(F. DE E., D.O.F. 19 DE MARZO DE 1954)</small>
 
 En consecuencia, no surtirán efecto los requerimientos que se hagan a los agentes de las instituciones, y los hechos por autoridades distintas de las tesorerías competentes de acuerdo con las disposiciones de este artículo.
 
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+
 II.- En el mismo requerimiento de pago, se apercibirá a la institución de fianzas deudora, de que si dentro del plazo de 90 días naturales, contado a partir de la fecha en que dicho requerimiento se realice, no hace el pago de las cantidades que se le reclaman, se le rematarán valores en los términos de este artículo.
 
-III.- La Tesorería de la Federación o las Tesorerías del Distrito y de los Territorios Federales o de los Estados y Municipios, deberán remitir a la Dirección de Crédito de la Secretaría de Hacienda y Crédito Público, copia autógrafa del requerimiento, en la que conste la fecha en que fué recibido por la institución fiadora.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
-> <small>(F. DE E., D.O.F. 19 DE MARZO DE 1954)</small>
+III.- La Tesorería de la Federación, las tesorerías del Distrito Federal, o de los Estados o municipios, deberán remitir a la Dirección de Crédito de la Secretaría de Hacienda y Crédito Público, copia autógrafa del requerimiento, en la que conste la fecha en que fue recibido por la institución fiadora;
+
+(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1953)(F. DE E., D.O.F. 19 DE MARZO DE 1954)
 
 IV.- Dentro del plazo de 90 días naturales, señalado en el requerimiento, la institución de fianzas deudora deberá comprobar, ante la Dirección de Crédito, que hizo el pago o que cumplió con el requisito de la Regla V. En caso contrario, al día siguiente de vencido dicho plazo, la misma Dirección de Crédito ordenará a la institución nacional de crédito que corresponda, se rematen en Bolsa, valores propiedad de la Institución de fianzas, bastantes a cubrir el importe de lo reclamado.
 
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+
 V.- El procedimiento de ejecución de que habla este artículo, se suspenderá cuando se compruebe que se ha presentado la demanda de que habla el artículo siguiente, exhibiéndose al efecto, copia sellada de la misma.
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
 
 VI.- El procedimiento de ejecución, solamente terminará por una de las siguientes causas:
 
@@ -882,6 +916,8 @@ En la quiebra, concurso, liquidación o suspensión de pagos de deudores por pri
 En ningún caso se requerirá el reconocimiento judicial de las firmas contenidas en los documentos a que se refiere este capítulo.
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 104.
 
@@ -1015,7 +1051,7 @@ Iguales sanciones se aplicarán a los funcionarios, inspectores y empleados de l
 
 ###### ARTICULO 113.
 
-En lo no previsto en esta ley regirá la legislación mercantil y el título décimotercero de la segunda parte del libro cuarto del Código Civil para el Distrito y Territorios Federales.
+En lo no previsto por esta Ley regirá la legislación mercantil y el título décimo tercero de la segunda parte del libro cuarto del Código Civil para el Distrito Federal.
 
 ###### ARTICULO 114.
 
@@ -1095,15 +1131,17 @@ El deudor se considerará como mandatario del acreedor para el cobro de los cré
 
 Los informes que las instituciones de fianzas adquieran respecto a los solicitantes de garantías o de quienes ofrezcan contragarantías, serán estrictamente confidenciales, aun cuando se refieran a infracciones de leyes penales y se consideran solicitados y obtenidos con un fin legítimo y para la protección de intereses públicos, sin estar sujetos a investigación judicial.
 
-> <small>(F. DE E., D.O.F. 18 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 127.
 
-Cuando exista una reclamación de la Hacienda Pública, ya sea de la Federación, del Distrito Federal, de los Territorios, de los Estados, o de los Municipios, en contra de una institución de fianzas y en virtud de una caución otorgada por ésta, la institución tendrá el derecho de examinar los libros y cuentas en que aparezca la responsabilidad respectiva.
+Cuando exista una reclamación de la Hacienda Pública, ya sea de la Federación, del Distrito Federal, de los Estados, o de los municipios, en contra de una institución de fianzas y en virtud de una caución otorgada por ésta, la institución tendrá el derecho de examinar los libros y cuentas en que aparezca la responsabilidad respectiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 128.
 
-Las oficinas y las autoridades dependientes de los Poderes de la Federación, del Distrito y de los Territorios Federales, de los Estados y de los Municipios, estarán obligadas a proporcionar a las instituciones de fianzas los datos que pidan sobre antecedentes personales o económicos de quienes soliciten fianzas de dichas instituciones.
+Las oficinas y las autoridades dependientes de los Poderes de la Federación, del Distrito Federal, de los Estados y de los municipios, estarán obligadas a proporcionar a las instituciones de fianzas los datos que pidan sobre antecedentes personales o económicos de quienes soliciten fianzas de dichas instituciones.
 
 Deberán informar también sobre la situación del asunto, ya sea judicial, administrativo, etc., para el que se haya otorgado la fianza, y acordar, dentro de los quince días de recibidas, las solicitudes de cancelación de éstas, si proceden.
 
@@ -1209,36 +1247,6 @@ Los procedimientos conciliatorios o contenciosos, iniciados ante la Comisión Co
 
 D.O.F. 31 DE DICIEMBRE DE 1956.
 
-###### ARTICULO 1°.
-
-Institución de fianzas es una sociedad anónima, autorizada previamente por el Gobierno Federal para otorgar fianzas a título oneroso.
-
-###### ARTICULO 2°.
-
-Corresponde a la Secretaría de Hacienda y Crédito Público otorgar discrecionalmente la autorización a que se refiere el artículo anterior, la cual será intransferible.
-
-###### ARTICULO 3°.
-
-La autorización sólo podrá otorgarse a sociedades anónimas de nacionalidad mexicana, que además de haber cumplido los requisitos exigidos por la legislación mercantil, satisfagan los siguientes:
-
-I.- Tendrán por objeto único otorgar fianzas en los términos del artículo 1º. de esta Ley.
-
-II.- Su capital social mínimo será de un millón, quinientos mil pesos íntegramente pagado.
-
-III.- Su duración será indefinida.
-
-Las instituciones de fianzas podrán emitir acciones no suscritas que se conservarán en la caja de la sociedad, las que serán entregadas a los suscriptores contra el pago total de su valor nominal y de las primas que en su caso, fije la sociedad. Con el importe de estas primas se constituirá una reserva, que podrá ser capitalizada.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1965)</small>
-
-En ningún momento podrán participar en forma alguna en el capital de estas sociedades, gobiernos o dependencias oficiales extranjeros, entidades financieras del exterior, o agrupaciones de personas extranjeras, físicas o morales, sea cual fuere la forma que revistan, directamente o a través de interpósita persona.
-
-###### ARTICULO 4°.
-
-La escritura social y sus modificaciones deberán ser aprobadas por la Secretaría de Hacienda y Crédito Público, cuando se ajusten a la Ley. La misma ordenará al Registro Público de la Propiedad y de Comercio de la ciudad de México y al del domicilio social, que haga la inscripción correspondiente sin necesidad de mandamiento judicial. La inscripción que se haga en contravención a lo dispuesto por este artículo, no surtirá efecto legal.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
-
 ###### ARTICULO PRIMERO.
 
 Este Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
@@ -1288,3 +1296,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 La presente Ley entrará en vigor en toda la República el día de su publicación en el "Diario Oficial" de la Federación, salvo las reformas a la Ley del Impuesto sobre Producción y Consumo de Cerveza y las reformas, adiciones y derogaciones de los artículos relativos al "Título Tercero" de la Ley del Impuesto sobre la Renta, que se aplicarán a partir del 1o. de diciembre de 1974 y del 1o. de enero de 1975, respectivamente. Las disposiciones contenidas en el artículo 19 fracción VI inciso h) y artículo 21 fracción XII de dicha ley no se aplicarán a los ingresos o erogaciones que deriven de contratos celebrados con anterioridad a la vigencia de estas reformas, aun cuando se obtengan o efectúen con posterioridad a las mismas.
 
 .
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
