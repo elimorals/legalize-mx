@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-del-distrito-federal-15306"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "2001-12-05"
+last_updated: "2002-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15306&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-11-29"
 
 REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE OCTUBRE DE 2002.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de noviembre de 1999.
 
@@ -404,6 +404,10 @@ I. El comprobante de pago de los derechos establecidos en el Código Financiero 
 
 II. Identificación oficial.
 
+> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2002)</small>
+
+III. Constancia de hechos levantada ante el Juez Cívico.
+
 ###### ARTÍCULO 27.
 
 Para la renovación de las licencias de conducir, como servicio relacionado con éstas, deberá atenderse a lo siguiente:
@@ -704,17 +708,13 @@ Las placas de matrícula, la tarjeta de circulación y la calcomanía serán ent
 
 En el caso de vehículos emplacados en otras entidades federativas, se podrá añadir para la correspondiente entrega un plazo no mayor de 45 días hábiles más a los primeros, a partir de la fecha de inicio de dicho trámite. El plazo concedido para el uso y custodia de las placas de matrícula, tarjeta de circulación y calcomanía, será el que establezcan las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, G.O. 4 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2002)</small>
 
 ###### ARTÍCULO 42.
 
-En caso de deterioro, mutilación, estravío o robo de la tarjeta de circulación, el propietario del vehículo deberá solicitar a la Secretaría su reposición previo pago de los derechos establecidos en el Código Financiero del Distrito Federal. Asimismo, deberá dar aviso a la Secretaría y devolver la tarjeta mutilada o deteriorada.
+Para los casos de robo o extravío de la tarjeta de circulación, placas de matrícula o de calcomanía de circulación, factura o carta factura, comprobante de no adeudo de infracciones, comprobante de pago de derechos por trámite de control vehicular o tenencias, documentación fiscal que ampare la importación o legalización de vehículos de procedencia extranjera, así como tarjetón del Registro Federal de Vehículos, en su caso y demás documentos, tarjetones y engomados de control y revista vehicular de vehículos particulares o de transporte público de pasajeros, el propietario del vehículo o, en su caso, el permisionario o concesionario de transporte público, exhibirá ante la Secretaría, copia certificada de la constancia de hechos levantada por el Juez Cívico correspondiente.
 
-En caso de deterioro o mutilación de las placas de matrícula o calcomanía de circulación, el propietario del vehículo deberá solicitar a la Secretaría, previo pago de los derechos establecidos en el Código Financiero, la reposición de las placas de matrícula del vehículo correspondiente, para que le sean entregadas nuevas placas y/o calcomanía de circulación. Al efecto, deberá dar aviso a la Secretaría y devolver las placas de matrícula deterioradas o mutiladas.
-
-Para los casos de robo o extravío de la tarjeta de circulación, placas de matrícula o de calcomanía de circulación, el propietario del vehículo deberá además, exhibir ante la Secretaría, copia certificada del acta de denuncia realizada ante el Ministerio Público.
-
-En cualquiera de los anteriores supuestos, los vehículos podrán circular con la autorización proporcionada por la autoridad, misma que se colocará en lugar visible del mismo, en tanto reciba las placas de reposición.
+Así mismo, en caso de robo o extravío de una sola de las placas de matrícula, se devolverá la placa restante.
 
 ###### ARTÍCULO 43.
 
@@ -773,6 +773,10 @@ III. No emitir humo ostensiblemente contaminante, es decir, por encima de la nor
 ###### ARTÍCULO 49.
 
 La autoridad ambiental podrá facultar a los centros de verificación vehicular para el efecto de requerir a los propietarios o poseedores de vehículos el pago de las multas previstas en el presente Reglamento, previa la realización de las pruebas de emisiones, de acuerdo con los lineamientos que al efecto se expidan y los sistemas informáticos que al efecto se desarrollen.
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2002)</small>
+
+En caso de robo o extravío del holograma de verificación vehicular de emisiones contaminantes, así como de los comprobantes de verificación o de pago de derechos correspondientes, el Agente o las autoridades ambientales competentes podrán requerir al propietario del vehículo la constancia de hechos levantada al efecto por el Juez Cívico correspondiente.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JUNIO DE 2001)</small>
 
@@ -910,15 +914,23 @@ El agente sólo remitirá al depósito, aquellos vehículos que:
 
 I. No cuenten con el holograma de verificación vehicular de emisiones contaminantes correspondiente al periodo de que se trate y no se pueda acreditar dicha verificación con el certificado correspondiente; circulen en días u horas en que esté limitada la circulación en condiciones normales o de contingencia ambiental; o emitan humo ostensiblemente contaminante;
 
-II. Sus placas de matricula no coincidan con la calcomanía permanente de circulación, con la tarjeta de circulación, ni con la base de datos de Control Vehicular o con el número de inventario del vehículo;
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2002)</small>
 
-III. Se encuentren estacionados en lugares prohibidos, previstos en las fracciones I, III, VIII, X, XIV a XIX del artículo 71 y fracción II del artículo 72.
+II. No cuenten con las placas de matrícula o el comprobante oficial respectivo; las placas de matrícula no coincidan con la calcomanía permanente de circulación, con a tarjeta de circulación, ni con la base de Control Vehicular o con el número de inventario del vehículo;
 
-Cuando en el interior del vehículo se encuentre persona responsable ostensiblemente mayor de dieciséis años, que se niegue a la indicación del agente para moverlo, o en su caso, a descender del mismo, dicha persona será remitida al Juez Cívico correspondiente del lugar de los hechos para su amonestación, conforme al procedimiento previsto en la Ley de Justicia Cívica para el Distrito Federal, por constituir su desobediencia, una infracción cívica; el vehículo será remitido al depósito respectivo.
+> <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2002)</small>
 
-Si a bordo del vehículo, se encontrare persona ostensiblemente menor de dieciséis años, mayor de sesenta y cinco o con discapacidad, el vehículo no será remitido al depósito y el agente actuará conforme a lo dispuesto en los artículos 56 y 57 de este Reglamento y
+III. Sus conductores no presenten para su revisión, la tarjeta de circulación, de conformidad con lo que establece el artículo 56 del presente Reglamento;
 
-IV. Permanezcan abandonados en la vía pública durante más tiempo del requerido y en las condiciones necesarias para presumir fundadamente su abandono; sea que se utilice para otros fines y no el de transportación, o presente señales de robo de piezas y mutilación de partes.
+IV. Permanezcan abandonados en la vía pública durante más tiempo del requerido y en las condiciones necesarias para presumir fundadamente su abandono; sea que se utilice para otros fines y no el de transportación, o presente señales de robo de piezas y mutilación de partes;
+
+> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2002)</small>
+
+V. Se encuentren estacionados total o parcialmente en lugares prohibidos previstos en las fracciones I, III, VIII, X, XIV a XIX del artículo 71 y fracción II del artículo 72, y cuyos conductores no estén presentes; y
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2002)</small>
+
+VI. Se utilicen para realizar competencias vehiculares de alta velocidad en vías públicas.
 
 > <small>(F. DE E., G.O. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -942,19 +954,23 @@ Al propietario de un vehículo que estando adaptado para usar Gas Natural o Licu
 
 Durante este plazo el vehículo de que se trate sólo podrá circular para trasladarse al sitio que para tal efecto dispongan las autoridades, previo cumplimiento de la sanción impuesta.
 
-> <small>(REFORMADO, G.O. 5 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2002)</small>
 
 ###### ARTÍCULO 62.
 
-En el caso de vehículos estacionados total o parcialmente en lugar prohibido o que obstaculicen o afecten la vialidad, cuando esté presente el conductor o alguna persona, el agente lo conminará a retirarse del lugar. Si no atendiese la recomendación, se levantará la infracción que proceda.
+En el caso de vehículos estacionados total o parcialmente en lugar prohibido o que obstaculicen o afecten la vialidad, estando presente el conductor o alguna persona responsable, ostensiblemente mayor de dieciséis años y menor de 65 años, el agente lo conminará a retirar el vehículo del lugar; si no atendiese la indicación, se levantará la infracción que proceda. Levantada la infracción, se le exhortará a retirarlo; si persiste en su negativa, se remitirá el vehículo al depósito.
 
-No se remitirá el vehículo al depósito cuando el conductor se presente en el momento en que el agente efectué las maniobras para enviarlo al depósito.
+Al efecto, si el conductor o la persona responsable estuviere en el interior del vehículo y se negare a salir de él, se le remitirá al Juzgado Cívico Correspondiente.
 
-> <small>(REFORMADO, G.O. 5 DE DICIEMBRE DE 2001)</small>
+Si a bordo del vehículo, se encontrare persona ostensiblemente menor de dieciséis años, mayor de sesenta y cinco o con discapacidad, el vehículo no será remitido al depósito y el agente levantará la infracción correspondiente.
+
+Cuando el conductor se presente en el momento en que se están efectuando las maniobras para enviarlo al depósito y retire el vehículo, no se remitirá el mismo al depósito, solamente de levantará la infracción correspondiente.
+
+> <small>(REFORMADO, G.O. 31 DE OCTUBRE DE 2002)</small>
 
 ###### ARTÍCULO 63.
 
-Los vehículos estacionados en lugares prohibidos donde se encuentren parquímetros y no hayan cubierto la cuota de estacionamiento, en el momento de la remisión, se harán acreedores a la sanción económica establecida en el Código Financiero del Distrito Federal. En ambos casos, los vehículos serán inmovilizados por autoridad competente o por quien ésta autorice y serán liberados hasta que el conductor del vehículo haya cubierto las sanciones económicas a las que se hizo acreedor, debiendo pagar la misma en las oficinas que se específican en las boletas de sanción.
+Los vehículos estacionados en lugares prohibidos o donde se encuentren parquímetros que no hayan cubierto la cuota de estacionamiento en el momento de la revisión, podrán ser inmovilizados por autoridad competente o por quien éste autorice, y serán liberados hasta que el responsable haya cubierto las sanciones económicas correspondientes.
 
 ###### ARTÍCULO 64.
 
@@ -971,6 +987,10 @@ Los conductores están obligados a respetar los límites de velocidad establecid
 En las vías primarias circularán a la velocidad que se indique mediante los señalamientos respectivos. Cuando la vía pública carezca de señalamientos, la velocidad máxima será de 70 kilómetros por hora.
 
 En las vías secundarias la velocidad máxima será de 30 kilómetros por hora y en zonas escolares, peatonales, de hospitales, de asilos, de albergues y casas hogar, la velocidad máxima será de 20 kilómetros por hora.
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2002)</small>
+
+No se utilizarán las vías públicas para realizar competencias vehiculares de alta velocidad.
 
 ###### ARTÍCULO 66.
 
@@ -1519,3 +1539,7 @@ G.O. 5 DE DICIEMBRE DE 2001.
 PRIMERO. El presente Reglamento entrará en vigor al día de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+G.O. 31 DE OCTUBRE DE 2002.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de Distrito Federal.
