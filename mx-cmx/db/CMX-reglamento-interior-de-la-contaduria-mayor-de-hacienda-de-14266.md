@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-contaduria-mayor-de-hacienda-de-14266
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-05-25"
-last_updated: "2001-10-25"
+last_updated: "2004-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14266&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-04-30"
 
 REGLAMENTO INTERIOR DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 25 de mayo de 1999.
 
@@ -56,9 +56,13 @@ III. Comisión: La Comisión de Vigilancia de la Contaduría Mayor de Hacienda d
 
 IV. Contadores: Los Titulares del Órgano Colegiado de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
 
-V. Contralor: El Contralor Interno de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-VI. Secretario Técnico: El Secretario Técnico del Órgano Colegiado de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
+V. Contraloría General: La Contraloría General del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+VI. Secretario Técnico: El Secretario Técnico del Órgano Superior de Dirección de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
 
 VII. Comité: El Comité del Servicio Civil de Carrera de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
 
@@ -66,25 +70,45 @@ VIII. Código: El Código Financiero del Distrito Federal;
 
 IX. Cuenta Pública: La Cuenta Pública del Gobierno del Distrito Federal;
 
-X. Dependencias: La Jefatura de Gobierno del Distrito Federal, la Oficialía Mayor, la Contraloría General del Distrito Federal, las Secretarias, la Procuraduría General de Justicia del Distrito Federal y la Consejería Jurídica y de Servicios Legales, que forman parte de la Administración Pública Centralizada del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+X.- Sujetos de Fiscalización:
+
+a) La Administración Pública del Distrito Federal como se define en el Estatuto de Gobierno y en la Ley Orgánica de la Administración Pública del Distrito Federal; y
+
+b) Los órganos autónomos de gobierno. Los órganos autónomos como están definidos en el Código Financiero para el Distrito Federal.
 
 XI. Manual: El Manual General de Organización de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
 
 XII. Órgano Colegiado: El Órgano Superior de Dirección de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
 
-XIII. Órganos Desconcentrados: Los Órganos político-administrativos de cada demarcación territorial genéricamente denominados Delegaciones del Distrito Federal y los Órganos Administrativos constituidos por el Jefe de Gobierno del Distrito Federal jerárquicamente subordinados al propio Jefe de Gobierno del Distrito Federal o a la Dependencia que éste determine;
+XIII. (DEROGADA, G.O. 13 DE ENERO DE 2004)
 
-XIV. Entidades: Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que integran la Administración Pública Paraestatal del Gobierno del Distrito Federal;
+XIV. (DEROGADA, G.O. 13 DE ENERO DE 2004)
 
 XV. Ley: La Ley Orgánica de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
 
 XVI. Presidente: El Presidente del Órgano Colegiado de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal; y
 
-XVII. Reglamento: El Reglamento Interior de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal.
+XVII. Reglamento: El Reglamento Interior de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
+
+XVIII. Informe Ejecutivo: informe de las auditorías practicadas por la Contaduría concluidas en la fecha en que lo solicite la Comisión, el cual deberá contener: el sujeto fiscalizado, el rubro auditado, el alcance y un resumen de los resultados que vayan a dar lugar a dictámenes correctivos;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
+
+XIX. Recomendación: Declaración vinculante formulada a los sujetos de fiscalización para que en lo sucesivo pongan en marcha acciones o medidas de control para evitar deficiencias de cualquier naturaleza en su operación; y
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
+
+XX. Dictamen Técnico Correctivo: Acción legal de la Contaduría que tiene como propósito comunicar a la autoridad competente la existencia de presuntas irregularidades administrativas, contables o legales, de cualquier naturaleza, con la finalidad de que en el ámbito de su competencia determine lo que en derecho proceda.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### Artículo 3.
 
-Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, la Contaduría se estructurará con un Órgano Superior de Dirección, un Contralor Interno y las siguientes Direcciones Generales:
+Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, la Contaduría se estructurará con un Órgano Superior de Dirección integrado por tres Contadores Mayores de entre los cuales uno fungirá como Presidente y las siguientes Direcciones Generales:
 
 Dirección General de Auditoría Programática-Presupuestal
 
@@ -108,7 +132,9 @@ El Órgano Colegiado tendrá las siguientes atribuciones:
 
 I. Diseñar las estrategias y políticas generales para la integración de los programas de trabajo, programas de auditoría y demás actividades de la Contaduría;
 
-II. Aprobar los programas de trabajo de la Contaduría, presentarlos a la Comisión para su conocimiento y vigilar su cumplimiento;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+II. Aprobar los programas de trabajo de la Contaduría, presentarlos a la Comisión para su opinión y conocimiento, así como vigilar su cumplimiento;
 
 III. Establecer las bases de coordinación con diversas autoridades relacionadas con las atribuciones y competencia de la Contaduría;
 
@@ -116,9 +142,13 @@ IV. Aprobar el contenido de los Informes Previo y de Resultados sobre la revisi�
 
 V. Emitir y actualizar las normas técnicas, los procedimientos y metodologías a que deban sujetarse las visitas, inspecciones, auditorías y evaluaciones que practique la Contaduría;
 
-VI. Aprobar el nombramiento del Secretario Técnico, Directores Generales y Directores de Área, a propuesta de cualquiera de sus miembros;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-VII. Aprobar en los términos de ley, los demás nombramientos y promover las remociones de los servidores públicos de la Contaduría, con excepción del Contralor, quien directamente depende de la comisión;
+VI. Aprobar el nombramiento de los Directores Generales y Directores de Área, a propuesta de cualquiera de sus miembros;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+VII. Aprobar en los términos de Ley, los demás nombramientos y promover las remociones de los servidores públicos de la Contaduría, con excepción del Secretario Técnico, quien directamente depende de la Comisión;
 
 VIII. Aprobar los servicios especializados que la Contaduría requiera contratar en los términos previstos en la Ley;
 
@@ -136,7 +166,7 @@ XIV. Aprobar al personal que deba intervenir en la (sic) visitas, inspecciones y
 
 XV. Determinar y establecer las políticas, bases e instrumentos para prestar el asesoramiento y el apoyo técnico que solicite la Asamblea a través de la Comisión, en relación con las atribuciones de la Contaduría;
 
-XVI. Requerir a los servidores públicos de la Asamblea, la información necesaria para llevar el Registro Patrimonial de éstos;
+XVI. (DEROGADA, G.O. 13 DE ENERO DE 2004)
 
 XVII. Definir los lineamientos necesarios para la integración del anteproyecto de presupuesto anual de la Contaduría;
 
@@ -146,27 +176,87 @@ XIX. Aprobar y supervisar la aplicación de las Condiciones Generales de Trabajo
 
 XX. Aprobar el anteproyecto del presupuesto anual de la Contaduría;
 
-XXI. Aprobar el proyecto de presupuesto a ejercer el mes siguiente;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-XXII. Administrar y ejercer el presupuesto mensual y dar cuenta comprobada de su aplicación dentro de los 10 primeros días del mes siguiente;
+XXI. Elaborar el proyecto del presupuesto anual por ejercer;
 
-XXIII. Elaborar un informe por escrito a la Comisión, sobre las irregularidades, desviaciones y contravenciones en que las Dependencias, Órganos Desconcetrados o Entidades de la Administración Pública del Distrito Federal incurran, y que se detecten en el ejercicio de sus atribuciones y que puedan constituir delitos y ordenar a la Dirección General de Asuntos Jurídicos para que reúna los elementos necesarios y en su caso, formular las denuncias de hechos respectivas;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+XXII. Administrar y ejercer el presupuesto anual y dar cuenta comprobada de su aplicación en los informes trimestrales y anual;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+XXIII. Elaborar un informe por escrito a la Comisión, sobre las irregularidades, desviaciones y contravenciones en que los sujetos de fiscalización incurran, y que se detecten en el ejercicio de sus atribuciones y que puedan constituir delitos y ordenar a la Dirección General de Asuntos Jurídicos para que reúna los elementos necesarios y en su caso, formular las denuncias de hechos respectivas;
 
 XXIV. Formular las propuestas de reformas y adiciones a la Ley y al Reglamento que se presentarán a consideración de la Comisión; y
 
 XXV. Las demás que le sean atribuidas por la Ley, el Reglamento y otras disposiciones aplicables.
 
-Para el mejor desempeño de sus atribuciones el Órgano Colegiado contará con un Secretario Técnico.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
-### CAPÍTULO III. DE LAS SESIONES DEL ÓRGANO COLEGIADO
+Para el mejor desempeño de sus atribuciones el Órgano Colegiado contará con un Secretario Técnico designado por la Comisión.
 
-### CAPITULO I. DE LOS CONTADORES
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+Los acuerdos que emanen del Órgano Colegiado se harán del conocimiento de las Direcciones Generales a través del Secretario Técnico para su estricta observancia y aplicación inmediata.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE ENERO DE 2004)</small>
+
+### CAPÍTULO III. DEL SECRETARIADO TÉCNICO
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+Artículo 4 A.- Para ser Secretario Técnico además de los requisitos que marca la Ley es necesario:
+
+I. Ser mexicano en pleno ejercicio de sus derechos;
+
+II. Tener título ó cédula profesional de nivel licenciatura en las áreas económico-administrativo o derecho egresado de las escuelas y centros de enseñanza superior del país y contar con experiencia comprobada de dos años en el ejercicio de su profesión;
+
+III. Ser ciudadano probo y no haber sido condenado mediante sentencia ejecutoriada por delito intencional que amerite pena privativa de libertad, ni haber sido destituido o inhabilitado de la función pública;
+
+IV. Ser ciudadano del Distrito Federal cuando menos tres años anteriores al día de su elección;
+
+V. No haber sido candidato para cargo alguno de elección popular, un año antes al día de la elección;
+
+VI. No haber desempeñado un año anterior al día de la elección, cargos de Dirección en partido político alguno, a nivel Federal, Estatal, municipal o en el Distrito Federal;
+
+VII. No haber sido ministro de culto religioso;
+
+VIII. No haber desempeñado empleo, cargo o comisión en la Administración Pública del Distrito Federal con un año anterior a su designación; y
+
+IX. Ser designado por la Comisión a propuesta del Órgano Colegiado.
+
+La Contaduría presentará a la Comisión una terna de candidatos para ocupar el cargo de Secretario Técnico, para que ésta a su vez realice la designación correspondiente en un plazo no mayor a diez días contados a partir de la recepción de las propuestas.
+
+En caso de ausencia o renuncia del Secretario Técnico, la Contaduría presentará dentro de un término no mayor a quince días las propuestas ante la Comisión.
+
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2004)</small>
+
+Artículo 4 B.- Son obligaciones del Secretario Técnico, además de las que le marca la Ley, las siguientes:
+
+I. Realizar las Convocatorias a las sesiones ordinarias y extraordinarias del Órgano Colegiado.
+
+II. Tomar debida asistencia de los Contadores a las sesiones o en su caso levantar constancia de las ausencias y su justificación.
+
+III. Levantar el acta correspondiente dando cuenta de ella en la siguiente, para su aprobación.
+
+IV. Dar seguimiento a los puntos de acuerdo adoptados por el Órgano Colegiado.
+
+V. Informar a la Comisión de su observancia y cumplimiento en un plazo no mayor de cinco días hábiles; y
+
+VI. Observar que las actas de la sesión ordinaria y extraordinaria de que se trate estén debidamente ratificadas y firmadas por los contadores asistentes.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
+### CAPÍTULO IV. DE LAS SESIONES DEL ÓRGANO COLEGIADO
 
 ###### Artículo 5.
 
 Las sesiones podrán ser ordinarias o extraordinarias; las primeras se convocarán por lo menos con 48 horas de antelación, y las segundas en cualquier momento.
 
-Las convocatorias de sesiones deberán contener lugar, fecha y hora de celebración y adjuntarse la propuesta del Orden del Día.
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
+Las convocatorias de sesiones deberán contener lugar, fecha y hora de celebración, así como adjuntar la propuesta de la orden del día. El Contador Mayor Presidente las hará del conocimiento de los integrantes del Órgano Colegiado a través del Secretario Técnico.
 
 ###### Artículo 6.
 
@@ -178,13 +268,15 @@ Si a una convocatoria no acudiere alguno de los Contadores, el Órgano Colegiado
 
 Si a una segunda convocatoria no acudiere alguno de los Contadores, el Órgano Colegiado podrá sesionar válidamente con la asistencia de dos Contadores.
 
-> <small>(ADICIONADO, G.O. 25 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
-En los casos de ausencia definitiva a los que se refiere el artículo 10 y 12 de la Ley, Órgano Superior de Dirección podrá sesionar legalmente con la presencia de dos Contadores y las decisiones que tomen serán validas de pleno derecho, en tanto ocupe el cargo el Contador sustituto de aquel ausente.
+En los casos de ausencia definitiva a los que se refiere el artículo 12 y 13 de la Ley, el Órgano Superior de Dirección podrá sesionar legalmente con la presencia de dos Contadores y las decisiones que tomen serán válidas de pleno derecho, en tanto ocupe el cargo el nuevo Contador. En todos los casos el Secretario Técnico dejará constancia en el acta sobre la argumentación que presentará el Contador para justificar su ausencia.
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### Artículo 8.
 
-Es obligación de los Contadores asistir a las sesiones del Órgano Colegiado. La inasistencia de los Contadores a tres sesiones consecutivas sin causa justificada será considerada falta grave en los términos de lo dispuesto en el artículo 13 de la Ley, el Órgano Colegiado deberá informar inmediatamente de lo anterior a la Comisión.
+Es obligación de los Contadores asistir a las sesiones del Órgano Colegiado, la inasistencia de los Contadores a tres sesiones consecutivas sin causa justificada será considerada falta grave en los términos por lo dispuesto en el artículo 13 de la Ley, el Órgano Colegiado deberá informar inmediatamente de los (sic) anterior a la Comisión a través del Secretario Técnico que hará constar los hechos en la minuta que se levante para el efecto.
 
 ###### Artículo 9.
 
@@ -196,11 +288,11 @@ El Presidente emitirá la convocatoria, conducirá las sesiones y adoptará las 
 
 ###### Artículo 11.
 
-De cada sesión, el Secretario Técnico levantará el acta correspondiente dando cuenta de ella en la siguiente, para su aprobación, asimismo dará seguimiento a los puntos de acuerdo adoptados por el Órgano Colegiado.
+(DEROGADO, G.O. 13 DE ENERO DE 2004)
 
 ## TITULO II. DE LAS ATRIBUCIONES DE LOS CONTADORES
 
-### CAPÍTULO II. DEL PRESIDENTE
+### CAPITULO I. DE LOS CONTADORES
 
 ###### Artículo 12.
 
@@ -234,25 +326,33 @@ XIII. Coordinar y supervisar la atención, trámite y desahogo de las recomendac
 
 XIV. Las demás que le sean atribuidas por la Ley, el Reglamento, el Órgano Colegiado y otras disposiciones legales aplicables.
 
-### CAPITULO I. DE LOS TITULARES
+### CAPÍTULO II. DEL PRESIDENTE
 
 ###### Artículo 13.
 
 Son atribuciones del Presidente además de las previstas en la Ley, las siguientes:
 
-I. Presentar a la Comisión, para su conocimiento los programas de trabajo de la Contaduría;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+I. Presentar a la Comisión, para su conocimiento y opinión los programas de trabajo de la Contaduría en estricto apego a los principios de contabilidad;
 
 II. Presentar a la Comisión los requerimientos sobre los servicios especializados que la Contaduría requiera contratar en los términos previstos en la Ley, previo acuerdo del Órgano Colegiado;
 
 III. Presentar a la Asamblea, a través de la Comisión, en los términos señalados en la Ley, los Informes Previo y de Resultados sobre la revisión de la Cuenta Pública, así como la opinión a los informes de avance programático-presupuestal y financiero que trimestralmente presente el Jefe de Gobierno del Distrito Federal;
 
-IV. Presentar a la Comisión, para su aprobación, el proyecto de presupuesto a ejercer el mes siguiente;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-V. Presentar a la Comisión, para el análisis y aprobación, la cuenta comprobada, dentro de los 10 primeros días del mes siguiente, del presupuesto mensual ejercido;
+IV. Presentar a la Comisión, para su aprobación, el proyecto de presupuesto anual;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+V. Presentar a la Comisión, para el análisis y aprobación, la cuenta comprobada, en el primer semestre y el presupuesto ejercido anualmente dentro de los primeros 10 días del ejercicio anual siguiente;
 
 VI. Informar a la Comisión mensualmente sobre la atención, trámite y desahogo de las recomendaciones, pliegos de observaciones y demás promociones de acciones que se deriven de las visitas, inspecciones, auditorías y revisiones practicadas por la Contaduría, así como del seguimiento de las visitas, inspecciones o auditorías que se practiquen;
 
-VII. Expedir en los términos de ley, los nombramientos y las remociones de los servidores públicos de la Contaduría;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+VII. Expedir en los términos de ley, los nombramientos y las remociones de los servidores públicos de la Contaduría con excepción del Secretario Técnico quien es designado por la Comisión;
 
 VIII. Promover y mantener comunicación con instituciones oficiales o privadas especializadas, en las materias afines al objeto de la Contaduría;
 
@@ -268,7 +368,7 @@ XIII. Las demás que le sean atribuidas por la ley, el Reglamento y otras dispos
 
 ## TITULO III. DE LAS DIRECCIONES GENERALES
 
-### CAPITULO II. DE LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES
+### CAPITULO I. DE LOS TITULARES
 
 ###### Artículo 14.
 
@@ -282,7 +382,9 @@ I. Planear y programar las actividades de las unidades administrativas a su carg
 
 II. Integrar, organizar, dirigir, instrumentar, supervisar, controlar y evaluar el desarrollo de los programas y el desempeño de las labores de la Dirección General a su cargo;
 
-III. Acordar con el Órgano Colegiado a través del Contador o Contadores designados, la resolución de los asuntos de la Dirección General a su cargo;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+III. Acordar con el Órgano Colegiado a través del Contador o Contadores designados la resolución de los asuntos de la Dirección General a su cargo; los acuerdos así establecidos se harán del conocimiento del Secretario Técnico por escrito, a efecto de que se incorpore a la memoria técnica de los acuerdos del órgano colegiado para su seguimiento;
 
 IV. Coordinarse con las demás Direcciones Generales de la Contaduría para el mejor desempeño de sus funciones;
 
@@ -312,7 +414,7 @@ XVI. Elaborar y proponer al Órgano Colegiado a través del Contador o Contadore
 
 XVII. Las demás que le sean atribuidas por la Ley, el Reglamento y otras disposiciones legales aplicables.
 
-### CAPITULO ÚNICO. DE LAS ATRIBUCIONES DEL CONTRALOR INTERNO
+### CAPITULO II. DE LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES
 
 ###### Artículo 16.
 
@@ -320,33 +422,51 @@ Las Direcciones Generales de Auditoría Programática-Presupuestal, de Auditorí
 
 I. Formular el programa de auditoría a las Dependencias, Órganos Desconcentrados y Entidades, de acuerdo al ámbito de su competencia y presentarlo al Órgano Colegiado para su aprobación;
 
-II. Practicar, de acuerdo al ámbito de su competencia, las auditorías, visitas, inspecciones, revisiones y evaluaciones a las Dependencias, Órganos Desconcentrados y Entidades, conforme a los programas que apruebe el Órgano Colegiado y a las que determine el Pleno de la Asamblea conforme al decreto relativo a la Revisión de la Cuenta Pública;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-III. Realizar los trabajos de revisión y análisis de la Cuenta Pública y de las demás información sobre la gestión financiera, programática, presupuestal y contable de las Dependencias, Órganos Desconcentrados y Entidades que determine el Órgano Colegiado, de acuerdo con el ámbito de su competencia;
+II. Practicar, de acuerdo al ámbito de su competencia, las auditorías, visitas, inspecciones, revisiones y evaluaciones a los sujetos de fiscalización, conforme a los programas que apruebe el Órgano Colegiado y a las que determine el Pleno de la Asamblea conforme al decreto relativo a la Revisión de la Cuenta Pública;
 
-IV. Evaluar y comprobar que los recursos de las Dependencias, Órganos desconcentrados y Entidades se administraron con eficacia y eficiencia, desde la etapa de planeación hasta el establecimiento y operación de los sistemas de control interno que las regulan, en apoyo al cumplimiento de los objetivos establecidos por la administración.
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+III. Realizar los trabajos de revisión y análisis de la Cuenta Pública y de la demás información sobre la gestión financiera, programática, presupuestal y contable de los sujetos de fiscalización, que determine el Órgano Colegiado, de acuerdo con el ámbito de su competencia;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+IV. Evaluar y comprobar que los recursos de los sujetos de fiscalización se administraron con eficacia y eficiencia, desde la etapa de planeación hasta el establecimiento y operación de los sistemas de control interno que las regulan, en apoyo al cumplimiento de los objetivos establecidos por la administración;
 
 V. Mantener enlaces oficiales con las Dependencias, Órganos Desconcentrados y Entidades para la práctica de las auditorías, visitas e inspecciones a su cargo, de acuerdo con las normas que al respecto dicte el Órgano Colegiado;
 
-VI. Requerir a los titulares de las Dependencias, Órganos Desconcentrados y Entidades, la información y documentación que sea necesaria para realizar las labores de fiscalización que le asignen este Reglamento o el Órgano Colegiado incluyendo la de los particulares y terceros que hubieran celebrado las operaciones con éstos sujetas a revisión, de acuerdo a su competencia;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+VI. Requerir a los titulares de los sujetos de fiscalización, la información y documentación que sea necesaria para realizar las labores de fiscalización que le asignen este Reglamento o el Órgano Colegiado, incluyendo la de los particulares y terceros que hubieran celebrado las operaciones con éstos sujetas a revisión, de acuerdo a su competencia;
 
 VII. Proponer al Presidente del Órgano Colegiado el personal que deba intervenir en las visitas, inspecciones y auditorías a su cargo y, en su caso, los cambios que se efectúen al respecto;
 
-VIII. Elaborar, para ser sometidas a la consideración (sic) Órgano Colegiado, las observaciones, recomendaciones y demás promociones de acciones derivadas de las auditorías practicadas;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+VIII. Elaborar, para ser sometidas a la consideración del Órgano Colegiado, las observaciones, recomendaciones preventivas y dictámenes correctivos derivados de las auditorías practicadas;
 
 IX. Dar seguimiento, atención, tramite y desahogo de las recomendaciones, pliegos de observaciones y demás promociones de acciones derivadas de las auditorías, visitas e inspecciones que se realicen, con el fin de verificar el cumplimiento de las medidas preventivas y correctivas correspondientes.
 
-X. Emitir los dictámenes, opiniones e informes que se deriven de las visitas, inspecciones, auditorías o revisiones que practique, de acuerdo con el ámbito de su competencia;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+X. Emitir los dictámenes correctivos, las recomendaciones preventivas, las opiniones e informes que se deriven de las visitas, inspecciones, auditorías o revisiones que practique, de acuerdo con el ámbito de su competencia;
 
 XI. Solicitar al Contador o Contadores que corresponda, la intervención de las diversas Direcciones Generales de la Contaduría, para la realización de revisiones y estudios especiales, en apoyo a las auditorías que tenga que practicar; y
 
-XII. Las demás que les sean atribuidas por la Ley, el Reglamento y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2004)</small>
+
+XII. Expedir copias certificadas de constancias que obren en sus archivos, a petición de parte interesada o cuando deban ser exhibidas ante las autoridades judiciales, administrativas o laborales y, en general, en cualquier procedimiento, proceso o averiguación, salvo que se trate de documentos que se consideren confidenciales en términos de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal; y
+
+XIII. Las demás que les sean atribuidas por la Ley, el Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 17.
 
 La Dirección General de Auditoría Programática-Presupuestal tendrá además de las previstas en el artículo 16 de este Reglamento, las siguientes atribuciones:
 
-I. Revisar, analizar y evaluar la información programática-presupuestal que integra la Cuenta Pública, utilizando para ello toda la información relacionada con la materia, a fin de comprobar que las dependencias, órganos desconcentrados y entidades cumplieron con los objetivos y metas y que los recursos se aplicaron de acuerdo con los programas previstos en el Presupuesto de Egresos del Distrito Federal, en congruencia con el Plan Nacional de Desarrollo, el Programa General de Desarrollo del Distrito Federal y los programas que se deriven de éstos;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+I. Revisar, analizar y evaluar la información programática-presupuestal que integra la Cuenta Pública, utilizando para ello toda la información relacionada con la materia, a fin de comprobar que los sujetos de fiscalización cumplieron con los objetivos y metas y que los recursos se aplicaron de acuerdo con los programas previstos en el Presupuesto de Egresos del Distrito Federal, en congruencia con el Plan Nacional de Desarrollo, el Programa General de Desarrollo del Distrito Federal y los programas que se deriven de éstos;
 
 II. Evaluar la suficiencia de las metas alcanzadas, los efectos económico-sociales y ambientales, y la eficacia de las acciones realizadas en lo concerniente a la información Programática presupuestal;
 
@@ -366,15 +486,25 @@ l. Analizar la información financiera, presupuestal y contable que se presente 
 
 II. Comprobar que la recaudación de los ingresos se haya efectuado de acuerdo con los montos y conceptos estimados en la Ley de Ingresos del Distrito Federal y que el movimiento de fondos se haya realizado de acuerdo con el Código y las leyes aplicables en la materia;
 
-III. Verificar que las adquisiciones, arrendamiento de bienes muebles y prestación de servicios de cualquier naturaleza que hayan adquirido las Entidades, se hayan apegado a lo dispuesto en la Ley de Adquisiciones del Distrito Federal y demás disposiciones legales aplicables; particularmente, que los bienes y servicios se hayan adquirido a precios razonables, en la cantidad, calidad y condiciones estipuladas en los contratos;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-IV. Comprobar que en la aplicación del gasto de las Entidades se haya observado lo dispuesto en el Decreto de Presupuesto de Egresos del Distrito Federal, el Código y demás legislación aplicable, conforme a los criterios de eficiencia y economía;
+III. Verificar que las adquisiciones, arrendamiento de bienes muebles y prestación de servicios de cualquier naturaleza que hayan adquirido los sujetos de fiscalización, se hayan apegado a lo dispuesto en la Ley de Adquisiciones del Distrito Federal y demás disposiciones legales aplicables; particularmente, que los bienes y servicios se hayan adquirido a precios razonables, en la cantidad, calidad y condiciones estipuladas en los contratos;
 
-V. Revisar, examinar y evaluar los informes y reportes relativos a los sistemas de organización, reorganización, reestructuración, redimensionamiento, operación y control, a fin de verificar que las Entidades las aplicaron con eficacia y eficiencia, para el óptimo aprovechamiento de los recursos;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-VI. Revisar los procesos de reorganización, reestructuración, redimensionamiento, venta, disolución y liquidación, extinción, transferencia y fusión, en su caso, de las Entidades;
+IV. Comprobar que en la aplicación del gasto de los sujetos de fiscalización se haya observado lo dispuesto en el Decreto de Presupuesto de Egresos del Distrito Federal, el Código y demás legislación aplicable, conforme a los criterios de eficiencia y economía;
 
-VII. Detectar, en su caso, las deficiencias de las entidades sujetas a revisión que impidan el funcionamiento adecuado del sistema tributario; y
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+V. Revisar, examinar y evaluar los informes y reportes relativos a los sistemas de organización, reorganización, reestructuración, redimensionamiento, operación y control, a fin de verificar que los sujetos de fiscalización las aplicaron con eficacia y eficiencia, para el óptimo aprovechamiento de los recursos;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+VI. Revisar los procesos de reorganización, reestructuración, redimensionamiento, venta, disolución y liquidación, extinción, transferencia y fusión, en su caso, de los sujetos de fiscalización;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+VII. Detectar, en su caso, las deficiencias de los sujetos de fiscalización sujetas a revisión que impidan el funcionamiento adecuado del sistema tributario; y
 
 VIII. Las demás que le sean atribuidas por la Ley, el Reglamento y otras disposiciones legales aplicables.
 
@@ -382,17 +512,25 @@ VIII. Las demás que le sean atribuidas por la Ley, el Reglamento y otras dispos
 
 La Dirección General de Auditoría al Sector Central tendrá además de las previstas en el artículo 16 de este Reglamento, las siguientes atribuciones:
 
-I. Analizar la información financiera y presupuestal que se presenta en la Cuenta Pública, a fin de evaluar los resultados de la gestión administrativa y financiera de las Dependencias y Órganos Desconcentrados;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-II. Verificar que las adquisiciones, arrendamiento de bienes muebles y prestación de servicios de cualquier naturaleza que hayan adquirido las Dependencias y Órganos Desconcentrados, se hayan apegado a lo dispuesto en la Ley de Adquisiciones del Distrito Federal y de las disposiciones reglamentarias vigentes; particularmente, que los bienes y servicios se hayan adquirido a precios razonables, en la cantidad, calidad y condiciones estipuladas en los contratos;
+I.- Analizar la información financiera y presupuestal que se presenta en la Cuenta Pública, a fin de evaluar los resultados de la gestión administrativa y financiera de los sujetos de fiscalización;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+II.- Verificar que las adquisiciones, arrendamiento de bienes muebles y prestación de servicios de cualquier naturaleza que hayan adquirido los sujetos de fiscalización, se hayan apegado a lo dispuesto en la Ley de Adquisiciones del Distrito Federal y de las disposiciones reglamentarias vigentes; particularmente, que los bienes y servicios se hayan adquirido a precios razonables, en la cantidad, calidad y condiciones estipuladas en los contratos;
 
 III. Comprobar que la recaudación de los ingresos se haya efectuado de acuerdo con los montos y conceptos estimados en la Ley de Ingresos del Distrito Federal y que el movimiento de fondos se haya realizado de acuerdo con el Código y las leyes aplicables en la materia;
 
-IV. Comprobar que en la aplicación del gasto de las Dependencias y Órganos Desconcentrados se haya observado lo dispuesto en el Decreto de Presupuesto de Egresos del Distrito Federal, el Código y demás legislación aplicable y conforme a los criterios de eficiencia y economía;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-V. Revisar, examinar y evaluar los informes y reportes relativos a los sistemas de organización, reorganización, reestructuración, redimensionamiento, operación y control, a fin de verificar que las dependencias y órganos desconcentrados las aplicaron con eficacia y eficiencia, para el óptimo aprovechamiento de recursos.
+IV. Comprobar que en la aplicación del gasto de los sujetos de fiscalización se haya observado lo dispuesto en el Decreto de Presupuesto de Egresos del Distrito Federal, el Código y demás legislación aplicable y conforme a los criterios de eficiencia y economía;
 
-VI. Detectar, en su caso, las deficiencias de las dependencias y órganos desconcentrados sujetos a revisión que impidan el funcionamiento adecuado del sistema tributario.
+V. Revisar, examinar y evaluar los informes y reportes relativos a los sistemas de organización, reorganización, reestructuración, redimensionamiento, operación y control, a fin de verificar que las dependencias y órganos desconcentrados las aplicaron con eficacia y eficiencia, para el óptimo aprovechamiento de recursos;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+VI. Detectar, en su caso, las deficiencias de los sujetos de fiscalización que impidan el funcionamiento adecuado del sistema tributario;
 
 VII. Las demás que le sean atribuidas por la Ley, el Reglamento y otras disposiciones legales aplicables.
 
@@ -400,9 +538,13 @@ VII. Las demás que le sean atribuidas por la Ley, el Reglamento y otras disposi
 
 La Dirección General de Auditoría a Obra Pública tendrá, además de las previstas en el artículo 16 de este Reglamento, las siguientes atribuciones:
 
-I. Verificar que en las acciones que realicen las Dependencias, Órganos Desconcentrados y Entidades, referentes a la obra pública y a los servicios relacionados con ésta, se hayan observado las disposiciones previstas en la Ley de Obras Públicas del Distrito Federal, y demás ordenamientos aplicables;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
 
-II. Revisar y emitir opinión sobre la integración, funcionamiento y normatividad aplicable a las Dependencias, Órganos Desconcentrados y Entidades, relacionadas con las inversiones en obra pública; y
+I. Verificar que en las acciones que realicen los sujetos de fiscalización, referentes a la obra pública y a los servicios relacionados con ésta, se hayan observado las disposiciones previstas en la Ley de Obras Públicas del Distrito Federal, y demás ordenamientos aplicables;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+II. Revisar y emitir opinión sobre la integración, funcionamiento y normatividad aplicable a los sujetos de fiscalización, relacionadas con las inversiones en obra pública; y
 
 III. Las demás que le sean atribuidas por la Ley, el Reglamento y otras disposiciones legales aplicables.
 
@@ -424,7 +566,9 @@ VI. Integrar y consolidar, con el apoyo de las distintas direcciones generales, 
 
 VII. Proporcionar en forma permanente y sistemática la documentación bibliográfica y hemerográfica que requieran las Direcciones Generales de la Contaduría;
 
-VIII. Coordinar la integración y actualización del archivo permanente de las Dependencias, Órganos Desconcentrados y Entidades Públicas que determine el Órgano Colegiado, asegurar su custodia y facilitar su consulta y reproducción;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2004)</small>
+
+VIII. Coordinar la integración y actualización del archivo permanente de los sujetos de fiscalización que determine el Órgano Colegiado, asegurar su custodia y facilitar su consulta y reproducción;
 
 IX. Mantener actualizados los convenios de intercambio de documentación e información que convenga establecer con instituciones análogas, dependencias y entidades de la administración pública e instituciones académicas de investigación, tanto nacionales como extranjeras;
 
@@ -492,37 +636,17 @@ XIII. Las demás que le sean atribuidas por la Ley, el Reglamento, y otras dispo
 
 ## TÍTULO IV. DEL CONTRALOR INTERNO
 
-### CAPITULO ÚNICO. DISPOSICIONES GENERALES
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.O. 13 DE ENERO DE 2004)</small>
+
+### CAPITULO ÚNICO. DE LAS ATRIBUCIONES DEL CONTRALOR INTERNO
 
 ###### Artículo 24.
 
-El Contralor Interno tendrá, además de las facultades previstas en la Ley, las siguientes atribuciones:
-
-I. Planear, programar, establecer, organizar y coordinar las revisiones para evaluar el sistema de control interno de la Contaduría;
-
-II. Proponer normas y procedimientos al sistema de control interno de la Contaduría;
-
-III. Conocer e investigar los actos, omisiones o conductas de los servidores públicos de la Contaduría que afecten la legalidad, honradez, lealtad, imparcialidad, confidencialidad y eficiencia que deben de observar en el desempeño de sus funciones, con motivo de quejas o denuncias de los particulares o servidores públicos o de auditorías practicadas;
-
-IV. Realizar las auditorías financieras, operacionales, de sistemas y administrativas que se requieran, incluyendo los sistemas, controles y procedimientos en uso conforme a los programas que establezca, incorporando las propuestas que para tal efecto le haga la Comisión;
-
-V. Requerir a los servidores públicos de la Contaduría, la información necesaria para llevar el Registro Patrimonial de éstos;
-
-VI. Requerir de las Direcciones Generales o de los Contadores toda la información necesaria para verificar que en el desempeño de sus atribuciones, los servidores públicos de la Contaduría se apegaron a la Ley y demás ordenamientos aplicables;
-
-VII. Rendir el informe semestral previsto en la fracción II del artículo 18 de la ley, así como el relativo al seguimiento que la Contaduría deba dar a las recomendaciones que la Asamblea realice, por conducto de la Comisión;
-
-VIII. Dictaminar sobre las sanciones administrativas a que se hicieren acreedores los servidores públicos de la Contaduría;
-
-IX. Dictaminar sobre las responsabilidades en que pudieran haber incurrido los servidores públicos de la Contaduría;
-
-X. Solicitar a la Dirección General de Asuntos Jurídicos un informe en relación con los hechos que puedan constituir delitos, que cometieren los servidores públicos de la Contaduría;
-
-XI. Las demás que le sean atribuidas por la Ley, el Reglamento y otras disposiciones legales aplicables.
+(DEROGADO, G.O. 13 DE ENERO DE 2004)
 
 ## TITULO V. DEL SERVICIO CIVIL DE CARRERA
 
-### CAPITULO ÚNICO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA CONTADURÍA
+### CAPITULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 25.
 
@@ -546,6 +670,8 @@ El Comité se encargará de elaborar el Catálogo de Puestos de Confianza.
 
 ## TÍTULO VI. DE LA SUPLENCIA
 
+### CAPITULO ÚNICO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA CONTADURÍA
+
 ###### Artículo 30.
 
 Las ausencias temporales de los Contadores no podrán ser mayores a treinta días. Si la ausencia fuera mayor, los Contadores presentes lo informarán a la Comisión para que resuelva lo procedente.
@@ -558,13 +684,15 @@ Durante las ausencias temporales del Presidente será suplido por el Contador de
 
 En ausencia temporal de los Contadores atenderá en el despacho y resolución de los asuntos urgentes el Director General de Auditoría Programática-Presupuestal y el Director General de Asuntos jurídicos, según corresponda.
 
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2004)</small>
+
 ###### Artículo 33.
 
-Las ausencias temporales de los titulares de las Direcciones Generales serán suplidas por los servidores públicos de jerarquía inmediata inferior que designe el Órgano Colegiado.
+Las ausencias temporales de los titulares de las Direcciones Generales serán suplidas por los servidores públicos de jerarquía inmediata inferior que designe el Presidente.
 
 ###### Artículo 34.
 
-Los acuerdos de suplencia deberán ser emitidos por el Órgano Colegiado y no requerirán publicación en la Gaceta Oficial del Distrito Federal para su observancia.
+(DEROGADO, G.O. 13 DE ENERO DE 2004)
 
 ## TRANSITORIOS
 
@@ -591,3 +719,13 @@ G.O. 25 DE OCTUBRE DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Publíquese en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- Se instruye a la Comisión de Vigilancia a que por única vez dentro del término de quince días a partir del inicio de vigencia del presente Decreto, proponga al Pleno de la Asamblea al candidato para ocupar el cargo de Contador Sustituto.
+
+G.O. 13 DE ENERO DE 2004.
+
+PRIMERO.- Las estructuras administrativas de los Contadores Mayores se revisarán y adecuarán en los términos de sus funciones.
+
+SEGUNDO.- Los manuales de procedimientos a que se refiere el presente Reglamento deberán ser emitidos y publicados en la Gaceta Oficial del Gobierno del Distrito Federal, en un plazo máximo de seis meses, contados a partir de la publicación de las presentes reformas.
+
+TERCERO.- Los recursos humanos, presupuestarios y materiales, incluidos mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos, expedientes de personal y en general el equipo que la actual unidad de Contraloría Interna utiliza para la atención de los asuntos a su cargo, se adscribirá a la Contraloría General de la Asamblea Legislativa del Distrito Federal.
+
+CUARTO.- Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
