@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-20043
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-29"
-last_updated: "2001-01-29"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,2071 +21,1745 @@ state: "AGU"
 ---
 # LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
+LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
 
-Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de abril de 2006.
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 29 de enero de 2001.
 
-EUGENIO HERNANDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente decreto:
 
-LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA DEL ESTADO; Y EL ARTICULO 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+«NUMERO 166
 
-D E C R E T O No. LIX-520
+La H. LVII legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del Pueblo, decreta:
 
-MEDIANTE EL CUAL SE EXPIDE LEY DE DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS.
+###### ARTICULO UNICO.
 
-###### ARTÍCULO ÚNICO.
+Se expide la nueva Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, para quedar como sigue:
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-P.O. 5 DE JUNIO DE 2008.
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-## TÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO. Disposiciones Generales
 
-### CAPÍTULO ÚNICO
+###### ARTICULO 1o.
 
-###### ARTÍCULO 1.
+Esta Ley es de orden público y de interés social y tiene por objeto normar el otorgamiento de las prestaciones de seguridad y servicios sociales que este ordenamiento establece.
 
-1. La presente ley es de orden público, de interés social, de observancia general y de aplicación en el territorio del Estado.
+###### ARTICULO 2o.
 
-2. Esta ley tiene por objeto:
+Esta Ley se aplicará a:
 
-I. Establecer la competencia del Estado y la de los Municipios para ordenar y regular los asentamientos humanos y el desarrollo urbano;
+I.- Los servidores públicos integrados a los Gobiernos del Estado de Aguascalientes y sus Municipios;
 
-II. Ordenar y regular la planeación, fundación, conservación, mejoramiento, crecimiento y zonificación de los predios urbanos, suburbanos y rústicos del Estado;
+II.- Los servidores públicos de los organismos que por Ley deban ser incorporados a su régimen;
 
-III. Definir las bases conforme a las cuales el Estado y los Municipios ejercerán sus atribuciones para determinar las reservas, usos y destinos de áreas o predios;
+III.- Los pensionistas de los gobiernos y organismos a que se refieren las fracciones anteriores;
 
-IV. Fijar las normas para ordenar y regular el fraccionamiento, división, subdivisión y relotificación de terrenos;
+IV.- Los familiares beneficiarios de los servidores públicos y pensionistas a que se refieren las fracciones anteriores;
 
-V. Establecer las infracciones, medidas de seguridad y sanciones, así como el recurso de reconsideración y los procedimientos administrativos que permitan la aplicación de la ley; y
+V.- El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes; y
 
-VI. Establecer las normas y la forma de consulta a la sociedad en el proceso de planeación del ordenamiento territorial y la formulación de los programas previstos por este ordenamiento.
+VI.- Los gobiernos y organismos que menciona esta Ley.
 
-###### ARTÍCULO 2.
+###### ARTICULO 3o.
 
-1. Se declara de interés público:
+Para los efectos de esta Ley se entiende por:
 
-I. La planeación del desarrollo urbano y la ordenación de los asentamientos humanos;
+I.- Servidor público: A toda persona que preste sus servicios en los Gobiernos del Estado o de los Municipios de Aguascalientes y organismos descentralizados de la Administración Pública Estatal y Municipal, mediante designación legal en virtud de nombramiento o elección popular, y que aporte al instituto las cuotas que en este ordenamiento se estipulan;
 
-II. La ejecución y aplicación de los planes previstos en esta ley;
+II.- Pensionistas: A toda persona a la que se le haya reconocido tal carácter con anterioridad a la vigencia de esta Ley, así como a las que se les otorgue la misma condición con apoyo en este ordenamiento legal;
 
-III. La determinación de las reservas, usos y destinos de áreas o predios;
+III.- Familiares beneficiarios: A toda persona a quien esta Ley le conceda tal carácter;
 
-IV. La planeación y ejecución de obras para infraestructura, equipamiento y servicios públicos en el Estado;
+IV.- Derechohabientes: Al servidor público, al pensionista y a los familiares beneficiarios de ambos;
 
-V. La fundación, conservación, mejoramiento y crecimiento de los asentamientos humanos;
+V.- Entidades: A los Gobiernos del Estado y de los Municipios, así como a los organismos públicos incorporados a los beneficios de esta Ley; y
 
-VI. La constitución de reservas territoriales;
+VI.- Instituto: Al Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+## TITULO SEGUNDO. DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+### CAPITULO I. De la Personalidad, Domicilio y Objeto
 
-VII. La protección del patrimonio cultural de los centros de población; y
+###### ARTICULO 4o.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, es un organismo público descentralizado.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+###### ARTICULO 5o.
 
-VIII. La preservación del equilibrio ecológico y la conservación ecológica de los centros de población; así como el establecimiento de zonas de salvaguarda.
+Para todos los efectos legales el Instituto tiene personalidad jurídica y patrimonio propios con domicilio en la ciudad de Aguascalientes.
 
-2. Para la mejor protección del interés público, el Estado llevará a cabo:
+###### ARTICULO 6o.
 
-I. La promoción de fraccionamientos de cualquier tipo previstos en esta ley; y
+Es objeto del Instituto otorgar las prestaciones de seguridad y servicios sociales en los términos de esta Ley a los servidores públicos, a los pensionistas y a los familiares beneficiarios, en cumplimiento a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos.
 
-II. La promoción del régimen de propiedad en condominio.
+### CAPITULO II. Del Patrimonio
 
-3. A su vez, el Estado llevará a cabo la protección de los bienes que conforman su patrimonio edificado.
+###### ARTICULO 7o.
 
-###### ARTÍCULO 3.
+El Patrimonio del Instituto lo constituirán:
 
-1. El ejercicio de las atribuciones del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano, deberá dar cause (sic) al crecimiento para mejorar las condiciones de vida de la población y ofrecer a los habitantes del Estado mejores condiciones para vivir y trabajar, una funcionalidad integral y ordenada y un medio ambiente no contaminado.
+I.- Las propiedades, posesiones y derechos que adquiera el Instituto por cualquier título legal;
 
-2. Los propósitos citados en el párrafo anterior se atenderán, mediante:
+II.- Las aportaciones de los servidores públicos, pensionistas y entidades conforme a esta Ley, excepto las aportaciones que éstos realicen a la cuenta de ahorro individual para el retiro;
 
-I. Un sistema de planeación urbana para orientar el crecimiento y la densificación de las ciudades;
+III.- Los intereses, rentas y demás ingresos que se obtengan de las operaciones e inversiones que realice el Instituto;
 
-II. El aprovechamiento en beneficio social de los recursos naturales susceptibles de apropiación;
+IV.- El importe de las prestaciones, descuentos y rendimientos que prescriban en favor del Instituto;
 
-III. La distribución equilibrada de las áreas urbanizadas y de las actividades económicas, armonizándose la interrelación de la ciudad y el campo y distribuyéndose equitativamente los beneficios y cargas derivados del desarrollo urbano;
+V.- El producto de las sanciones pecuniarias puestas en los términos de esta Ley;
 
-IV. La eficiente interacción entre los sistemas de convivencia y de servicios en las áreas urbanizadas, particularmente la creación y mejoramiento de condiciones favorables para la relación adecuada entre zonas de vivienda, trabajo y recreación;
+VI.- Las donaciones, herencias, legados y fideicomisos que se hicieren o constituyeren en favor del Instituto; y
 
-V. El fomento de ciudades y regiones homogéneas, a fin de evitar las que por su desproporción, produzcan impactos económicos negativos, deterioro social, humano y del medio ambiente;
+VII.- Las acciones y demás bienes que adquiera el Instituto por cualquier otro título legal.
 
-VI. La preservación, conservación, mejoramiento y aprovechamiento del ambiente y del patrimonio natural y cultural;
+###### ARTICULO 8o.
 
-VII. La participación ciudadana en la solución de los problemas que genera la convivencia en los asentamientos humanos;
+El patrimonio del Instituto servirá para garantizar la solvencia actuarial de los fondos necesarios para el cumplimiento de las prestaciones de seguridad y servicios sociales otorgados por esta Ley a los servidores públicos, pensionistas y familiares beneficiarios.
 
-VIII. La promoción, construcción, operación y el fomento de obras y servicios;
+###### ARTICULO 9o.
 
-IX. El fomento para el establecimiento de reservas territoriales;
+Los bienes muebles e inmuebles del instituto, gozarán de las franquicias y prerrogativas concedidas respecto a los fondos y bienes del Gobierno del Estado.
 
-X. La dotación suficiente y adecuada de infraestructura y equipamiento urbano, así como la debida prestación de los servicios públicos;
+Dichos bienes, así como los actos y contratos que celebre el propio Instituto en cumplimiento de su objeto, estarán igualmente exentos de toda clase de contribuciones, impuestos y derechos, tanto estatales como municipales.
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+###### ARTICULO 10.
 
-XI. El diseño de programas que impulsen el mercado inmobiliario y el desarrollo de la vivienda de interés social;
+Todo acto, contrato o documento que implique para el Instituto obligaciones o derechos inmediatos o eventuales, deberá registrarse en la contabilidad del mismo y darse a conocer a la Contraloría General del Gobierno del Estado.
 
-XII. La aplicación y observancia de las políticas urbanas de ordenamiento, mejoramiento, crecimiento y conservación, previstas en los planes aplicables; y
+###### ARTICULO 11.
 
-XIII. La identificación y uso adecuado de las zonas de alto riesgo y de impacto ambiental.
+El Instituto se considera de acreditada solvencia y no está obligado a constituir depósito ni fianza legales.
 
-###### ARTÍCULO 4.
+###### ARTICULO 12.
 
-Quedan sujetas a las disposiciones de esta ley las personas físicas o morales, públicas o privadas, que lleven a cabo las siguientes actividades:
+Si en algún momento los recursos del Instituto no fueren suficientes para cumplir con las obligaciones a su cargo, el déficit resultante será cubierto por las entidades que se mencionan en el Artículo 3o., fracción V de esta Ley, en la proporción que a cada una corresponda.
 
-I. Inversiones, obras, prestación de servicios o cualquier otra acción en materia de desarrollo urbano;
+### CAPITULO III. De las Reservas e Inversiones
 
-II. Fraccionamiento, relotificación, división, subdivisión o fusión de áreas o predios;
+###### ARTICULO 13.
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+La constitución, inversión y manejo de las reservas financieras y actuariales del Instituto, serán presentadas en el presupuesto anual para aprobación de la Junta Directiva, las cuales se sujetarán a lo que la misma disponga y de manera congruente con la valuación actuarial.
 
-III. La Constitución del régimen de propiedad en condominio en cualquier modalidad, sin contravenir lo dispuesto en la Ley del Régimen de Propiedad en Condominio;
+###### ARTICULO 14.
 
-IV. Acciones que afecten el patrimonio natural o cultural y la imagen urbana de las áreas urbanizadas;
+En el tercer trimestre de cada año se elaborará el programa anual para la constitución de las reservas de cada uno de los servicios y prestaciones a cargo del Instituto, así como el programa de inversión y manejo de las reservas financieras y actuariales.
 
-V. Incorporación al desarrollo urbano de predios, independientemente la clasificación y el régimen de propiedad al que se encuentren sujetos;
+El régimen financiero que se aplicará al pago de prestaciones sociales, culturales y de servicios médicos, y a los préstamos a corto plazo e hipotecarios será el denominado de reparto anual, realizando evaluaciones en los meses de enero y julio de cada año, para determinar la posición financiera de estos beneficios.
 
-VI. Fundación de asentamientos humanos en cualquier predio; y
+Para el cálculo de las aportaciones y para el pago de las pensiones correspondientes a riesgos de trabajo, invalidez, de retiro por edad y antigüedad en el servicio y por causa de muerte, lo mismo que a los seguros de vida y gastos funerarios, se aplicará el método financiero y actuarial que la Junta Directiva determine, en el entendido de que el acuerdo respectivo no deberá contravenir las prerrogativas que la presente Ley otorga a los derechohabientes y habrá de ser oportunamente publicado en el Periódico Oficial del Estado.
 
-VII. Las demás que entrañen hechos o actos relacionados con el desarrollo urbano.
+En septiembre de, al menos, cada dos años se deberá elaborar la valuación actuarial del régimen de pensiones, con la finalidad de comprobar su desarrollo financiero, mediante la evaluación de su prima de financiamiento, el cálculo de la reserva para pensiones y la previsión de los intereses provenientes de la inversión de esta reserva; los intereses habrán de aplicarse al pago de las pensiones, o bien agregarse a la reserva.
 
-###### ARTÍCULO 5.
+Los recursos para los gastos de administración del Instituto y los otros que requiera la constitución de la reserva para las pensiones y el pago anual de las mismas, se obtendrán de las aportaciones y los rendimientos de las inversiones de esta misma reserva. Para los gastos de administración del Instituto se deberán considerar las recomendaciones de la valuación actuarial.
 
-Para los efectos de esta ley se entiende por:
+El método de valuación para el seguro de defunción será el de proyecciones demográfico-financieras. Las primas de los seguros derivadas de dicha valuación, así como la determinación de las reservas para el seguro de defunción y gastos funerarios se cuantificarán en el análisis financiero y actuarial de cada ejercicio.
 
-I. ACCESO CONTROLADO: Es el acceso y salida por uno o dos sitios, exclusivamente, en los fraccionamientos habitacionales que tengan una barda perimetral, cualquiera que sea el régimen de propiedad en los mismos;
+###### ARTICULO 15.
 
-II. ÁREA DE CESIÓN: Es la superficie de terreno que los fraccionadores deben donar al Ayuntamiento a título gratuito para destinarse a áreas verdes y equipamiento urbano, que será inalienable, intransmisible, imprescriptible e inembargable, con excepción de lo dispuesto por el artículo 52 fracción II, de esta ley.
+La constitución de las reservas actuariales, será prioritaria sobre las financieras y se dará preferencia a aquéllas que sirvan para garantizar el pago de las pensiones.
 
-III. ÁREA LOTIFICABLE: Es la que resulta de restar a la superficie total del predio los derechos de vialidades, cauces naturales, y de cualquier otra infraestructura que demande un derecho de vía;
+La inversión de las reservas financieras del Instituto deberá hacerse preferentemente a través de fideicomisos, en instrumentos de deuda, específicamente en valores gubernamentales y/o bancarios, y excepcionalmente, en inversiones propias del Instituto que incrementen el patrimonio de los servidores públicos, siempre que se realicen bajo un rígido estudio de prefactibilidad financiera.
 
-IV. ÁREA URBANA: Es la superficie determinada para los planes aplicables de terreno que cuenta, entre otros, con traza urbana conformada por vías públicas o privadas y dos o más de los servicios de agua potable, drenaje sanitario y electricidad conectados a redes públicas;
+Toda inversión deberá asegurar las mejores condiciones posibles de seguridad, rendimiento y liquidez, vigilando el Comité Técnico de Fideicomisos e Inversiones en todo momento, que la tasa promedio del interés obtenido, sea al menos igual a la tasa pasiva líder del mercado bancario del mismo período.
 
-V. ÁREA VENDIBLE: Es la que podrá ser enajenada a terceros, una vez que se haya cumplido con los requisitos de ley;
+###### ARTICULO 16.
 
-VI. ASENTAMIENTO HUMANO: Es el conjunto de personas que forman un conglomerado establecido en una área físicamente localizada, considerándose dentro de la misma los elementos naturales y las obras materiales que lo componen;
+Las reservas actuariales y financieras del Instituto servirán para garantizar el pago de los compromisos derivados de las prestaciones de seguridad y servicios sociales que este ordenamiento establece, por la que por ningún motivo o circunstancia podrán otorgarse créditos no comprendidos en este ordenamiento legal a personas físicas y morales públicas o privadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+### CAPITULO IV. De los Organos de Gobierno
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+###### ARTICULO 17.
 
-VII. ASENTAMIENTO HUMANO IRREGULAR: Es el conglomerado de personas, elementos naturales y obras materiales, establecidas en un área físicamente localizable, que al constituirse no cumplieron con lo ordenado por las leyes y normas aplicables en su tiempo;
+El Instituto será regido en su funcionamiento por:
 
-VIII. CEMENTERIO: Es el lugar destinado a recibir y alojar cadáveres, restos humanos áridos o cremados;
+I.- La Junta Directiva, y
 
-IX. COMITÉ MUNICIPAL: Es el Comité Municipal para el Desarrollo de las Ciudades, organismo cívico auxiliar de la autoridad;
+II.- El Director General.
 
-X. CENTRO URBANO: Es el territorio que de acuerdo a sus características de ubicación, hace posible el establecimiento de usos y destinos previstos en los planes municipales;
+###### ARTICULO 18.
 
-XI. CONDOMINIO: Es la modalidad de propiedad sobre un inmueble que otorga a su titular el derecho exclusivo de uso, goce y disfrute del área que constituye su unidad privativa y a la vez un derecho de copropiedad sobre las áreas de uso común;
+La Junta Directiva estará integrada por:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+a). El titular de la Secretaría General de Gobierno.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+b). El titular de la Secretaría de Administración del Gobierno del Estado.
 
-XII. CENTRO URBANO TRADICIONAL: Es el sector de una ciudad en donde se ubica el espacio histórico o de importancia comunitaria, tanto en tejido urbano como en monumentos, así como la concentración y centralización de actividades públicas, administrativas, políticas y comerciales;
+c). El titular de la Secretaría de Finanzas del Gobierno del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+d). El titular del Ayuntamiento del Municipio de Aguascalientes.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+e). Un representante de los demás Municipios, designado por ellos mismos.
 
-XIII. CENTRO DE POBLACION: Es el área constituida por la zona urbanizada, y la considerada para su expansión, así como la no urbanizable ya sea por considerarse de preservación ecológica o de prevención de riesgos;
+f). Dos representantes de los organismos públicos descentralizados afiliados al Instituto, designado por ellos mismos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+g). Cuatro representantes del Sindicato Unico de Trabajadores Estatales y Municipales de Aguascalientes, designados por éste.
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+Cada integrante de la Junta Directiva tendrá su respectivo suplente, el cual lo substituirá en sus faltas temporales, en los términos del reglamento respectivo.
 
-XIII Bis. CONSERVACION AMBIENTAL: Es la permanencia de los elementos de la naturaleza, lograda mediante la planeación ambiental del desarrollo, a fin de asegurar para las generaciones presentes y futuras, un ambiente propicio y los recursos naturales que permitan satisfacer sus necesidades;
+El procedimiento para elegir a los representantes a que se refieren los incisos e) y f) del presente Artículo, se establecerá en el Reglamento respectivo.
 
-XIV. CONURBACIÓN: Es el área en la cual, el Congreso del Estado reconoce legalmente la continuidad física y demográfica que forman dos o más Municipios, con objeto de establecer la coordinación entre el Estado y esos Municipios en la toma de decisiones en materia de ordenamiento del territorio, considerándose como una sola unidad urbano funcional a todo el conjunto;
+###### ARTICULO 19.
 
-XV. CRECIMIENTO URBANO: Es la expansión física y demográfica de un área que implique la ocupación o transformación de suelo rústico o suburbano en urbano, o un aumento en la densidad de población de los asentamientos ya establecidos;
+Los integrantes de la Junta Directiva no gozarán de ningún tipo de compensación económica o gratificación en especie por parte del Instituto por su desempeño dentro de la misma. Los integrantes de la Junta a que se refieren los incisos d), e), f), y g), del Artículo anterior permanecerán en su cargo tres años pudiendo al término ser ratificados, siempre y cuando se encuentren en funciones.
 
-XVI. DESARROLLO SUSTENTABLE: Es la capacidad de hacer que el desarrollo ocurra satisfaciendo las necesidades actuales, sin perjudicar la posibilidad de las generaciones futuras de satisfacer las suyas;
+###### ARTICULO 20.
 
-XVII. DESARROLLO URBANO: Es el proceso de planeación y ejecución de acciones de administración, ordenación, conservación, mejoramiento y crecimiento para los asentamientos humanos;
+El Gobernador Constitucional del Estado designará de entre los miembros de la Junta, a quien deba presidirla, actuando como Vocales los demás miembros, a excepción de los representantes a que se refieren los incisos d) y e), en el orden establecido en el Artículo 18 de esta Ley.
 
-XVIII. DESTINOS: Son los fines públicos específicos a que se dedican obligatoriamente, o está previsto dedicar, determinadas áreas y edificaciones;
+El Director General del Instituto fungirá como Secretario de la Junta Directiva, con voz pero sin voto.
 
-XIX. DISTRITO URBANO: Es la delimitación territorial, que en función del uso del suelo predominante se considera homogénea;
+###### ARTICULO 21.
 
-XX. DIVIDIR: Es la modificación de la superficie de un predio que no requiere del trazo de una o más vialidades públicas o privadas, para dar acceso a uno o más de los lotes resultantes;
+Son facultades indelegables de la Junta Directiva.
 
-XXI. EQUIPAMIENTO URBANO: Es el conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado o previsto para prestar a la población servicios educativos, de salud, asistenciales, culturales, recreativos, de comunicaciones y transportes, entre otros, formado por las áreas reservadas para ello;
+I.- Planear las operaciones y servicios del Instituto;
 
-XXII. FRACCIONAR: Es la acción de dividir un predio mayor a diez mil metros cuadrados, o que siendo igual o menor, requiera de la apertura de una o más vías para dar acceso a los lotes resultantes, con objeto de enajenarlos en porciones de terreno individuales como acción de crecimiento urbano;
+II.- Aprobar los programas anuales de operación, los presupuestos de ingresos, la determinación del techo financiero con base en el cual se realizará el presupuesto de gastos y de inversión que se cumplirán en cada ejercicio anual;
 
-XXIII. FRACCIONAMIENTO CAMPESTRE: Es la porción de superficie territorial que se localiza en áreas rústicas o de aprovechamiento, cuya densidad es igual o menor a cinco viviendas por hectárea, y que contará con servicios autónomos de agua y drenaje;
+III.- Autorizar las inversiones del Instituto y determinar las reservas actuariales y financieras que deban constituirse para asegurar el otorgamiento de las prestaciones y servicios que determina esta Ley y el cumplimiento de sus fines, basado en las valuaciones actuarial y financiera.
 
-XXIV. FRACCIONAMIENTO ESPECIAL: Es la porción de superficie territorial que por su localización, topografía, diseño, densidad, usos y destinos del suelo propuestos o fin social justificado, requieren de estudios complementarios y los resolutivos correspondientes;
+Asimismo, la Junta Directiva teniendo como objeto primordial buscar el beneficio de los trabajadores, aprobará las tasas de interés que se aplicarán a los diferentes tipos o modalidades de préstamos que otorgue el Instituto, las cuales invariablemente deberán ser en términos reales al menos iguales a la tasa pasiva líder del mercado bancario; de igual forma determinará la tasa a pagar de los servidores públicos en relación al Fondo de Ahorro y a las cuentas de ahorro individuales de retiro;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV.- Autorizar al Director General para que solicite a las entidades hagan las aportaciones extraordinarias en los casos que señala el Artículo 12 de esta Ley;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+V.- Autorizar cuando fuera necesario, la adquisición y enajenación de los activos fijos del Instituto, para efecto de cumplir con lo señalado en el Artículo 8o. de esta Ley;
 
-XXV. ESTRUCTURA VIAL: Es el conjunto de vías públicas y privadas, destinadas a permitir a través de ellas el desplazamiento de personas, bienes y servicios, así como para alojar la infraestructura necesaria para la instalación de servicios públicos. Se organiza en jerarquías en función de su uso, características geométricas y aforo vehicular, con una dosificación establecida para cada una de ellas. Todos los elementos que integran la estructura vial quedan sujetos a las disposiciones contenidas en esta ley;
+VI.- Analizar cuatrimestralmente los estados financieros del Instituto, tomar las medidas necesarias para garantizar la buena marcha del mismo y aprobar anualmente, previo informe de los comisarios y/o dictamen de los auditores externos, los estados financieros del Instituto;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+VII.- Dictar las políticas, bases y programas generales que regulen los convenios y contratos que deba celebrar el Instituto con terceros en materia de obras públicas y los relacionados con bienes inmuebles, así como en todos aquéllos que considere necesaria su participación;
 
-XXVI. FRACCIONAMIENTO INDUSTRIAL: Es la porción de superficie territorial destinada al alojamiento de actividades predominantemente industriales y que deberán ser urbanizados en su totalidad, pudiendo ejecutarse por etapas;
+VIII.- Aprobar la estructura básica de la organización del Instituto y las modificaciones que posteriormente sean procedentes;
 
-XXVII. FRACCIONAMIENTO POPULAR: Es la porción de superficie territorial destinada al desarrollo predominantemente habitacional que se localiza en zonas previstas para densidad alta, a fin de atender preferentemente a la población de menores ingresos. Podrán ser de urbanización secuencial y solo serán enajenados por organismos federales, estatales o municipales;
+IX.- Nombrar a los Directores de Administración, de Prestaciones Económicas y de Medicina, Seguridad e Higiene del Instituto, a propuesta del Director General, sin perjuicio de las facultades que al efecto se les deleguen;
 
-XXVIII. FUNDACIÓN: Es la acción de establecer un asentamiento humano, dentro o fuera de los límites de un centro urbano ya existente;
+X.- Aprobar, a propuesta del Director General, los reglamentos internos y los manuales de organización y procedimientos del Instituto, así como los de servicios y prestaciones de los afiliados;
 
-XXIX. FUSIONAR: Es el acto mediante el cual dos o más predios se convierten en uno solo;
+XI.- Proponer al Ejecutivo del Estado los proyectos de reformas que requiera esta Ley y los diversos ordenamientos legales en la materia, necesarios para el cumplimiento de lo previsto en esta Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XII.- Aprobar las medidas necesarias que deban adoptarse para que las entidades observen las recomendaciones de seguridad e higiene en el trabajo propuestas por el Instituto;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+XIII.- Decidir sobre los asuntos que le someta el Director General del Instituto;
 
-XXX. FRACCIONAMIENTO POPULAR: Es la porción de superficie territorial destinada al desarrollo predominantemente habitacional, a fin de atender preferentemente a la población de menores ingresos. Podrán ser de urbanización secuencial y solo serán desarrollados por organismos públicos federales, estatales o municipales;
+XIV.- Aprobar anualmente a propuesta del Director General las adecuaciones e incorporaciones a la Planeación Estratégica del Instituto;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XV.- Supervisar que la operación del Sistema de Administración del Conocimiento evolucione favorablemente para los fines del Instituto, el cual estará regulado en el Reglamento respectivo; y
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+XVI.- En general, realizar todos aquellos actos y operaciones autorizados por esta Ley y los que fueran necesarios para la mejor administración y gobierno del Instituto.
 
-XXXI. FRACCIONAMIENTO IRREGULAR: Es la porción de superficie territorial, fraccionada sin contar con las autorizaciones que prevén las leyes correspondientes;
+###### ARTICULO 22.
 
-XXXII. IMPLAN: Es el Instituto de Planeación, que podrá tener diversas denominaciones en función de su ámbito de influencia y su instrumento legal de creación. Podrán ser organismos públicos descentralizados de los municipios o del Estado, según proceda y su ámbito de influencia podrá ser municipal, regional, o de zonas conurbadas. El objetivo principal será constituirse como instrumento técnico de ayuda para la adopción de decisiones públicas y el desarrollo de la comunidad, procurándose el orden en el uso del territorio y la incorporación de políticas ambientales que contribuyan al logro de un desarrollo urbano sustentable, a partir de la orientación de un Consejo Ciudadano que vincule a la sociedad y el gobierno en los procesos de planeación;
+La Junta Directiva sesionará de manera ordinaria en los meses de febrero, mayo, agosto y noviembre y de manera extraordinaria cada vez que su presidente lo estime necesario o haya petición en tal sentido de la mayoría de sus miembros o del Comisario de la misma.
 
-XXXIII. INSTITUTO: El Instituto Tamaulipeco de Vivienda y Urbanismo;
+Para la validez de las sesiones se requerirá cuando menos de la asistencia de la mitad más uno de sus miembros y los acuerdos se tomarán por la mayoría de votos de los presentes, teniendo el Presidente voto de calidad en caso de empate.
 
-XXXIV. INFRAESTRUCTURA:
+En la preparación y desarrollo de las sesiones, así como en la vigilancia del seguimiento de los acuerdos adoptados, la Junta se auxiliará de un secretario, quien levantará las actas y comunicará las determinaciones y acuerdos a todos los miembros de la Junta, y tendrá la obligación de asistir a todas las sesiones que ésta celebre.
 
-a) Primaria: Son las obras, vialidades e instalaciones para el suministro general de los servicios públicos; y
+Los acuerdos tomados por la Junta Directiva tendrán el carácter de definitivos y serán de observancia general, aún y cuando exista inconformidad de parte de los miembros ausentes.
 
-b) Secundaria: Son las obras, vialidades e instalaciones para dar servicios a los lotes producto de una acción de crecimiento urbano;
+###### ARTICULO 23.
 
-XXXV. LEY: Es la Ley para el Desarrollo Urbano del Estado de Tamaulipas;
+La Junta Directiva, de conformidad con la naturaleza de los asuntos a tratar en sus sesiones, decidirá sobre la participación de los comisarios.
 
-XXXVI. MEDIDAS DE SEGURIDAD: Son la adopción y ejecución de las acciones de aplicación inmediata que con apoyo en esta ley dicten las autoridades competentes;
+###### ARTICULO 24.
 
-XXXVII. MEJORAMIENTO: Es la acción tendiente a la renovación de los distritos urbanos ya establecidos;
+El Director General será nombrado por la Junta Directiva de entre una terna propuesta por el Gobernador del Estado, el cual deberá recaer en la persona que reúna los siguientes requisitos:
 
-XXXVIII. ORDENAMIENTO TERRITORIAL: Es el conjunto de acciones concertadas emprendidas por el Estado para orientar la transformación, ocupación y utilización del suelo;
+I.- Ser mexicano en pleno ejercicio de sus derechos;
 
-XXXIX. PATRIMONIO CULTURAL: Es la manifestación del quehacer humano que tenga, por su valor y significado relevancia arqueológica, histórica, artística, etnológica, antropológica, tradicional, científica, intelectual ó vernácula;
+II.- Ser profesionista y haber desempeñado cargo de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa;
 
-XL. PATRIMONIO NATURAL: Es el espacio que por sus características forma parte de un ecosistema;
+III.- No tener parentesco por consanguinidad o afinidad hasta el cuarto grado, o civil con cualquiera de los miembros de la Junta Directiva;
 
-XLI. PROGRAMA ESTATAL: Es el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, que se constituye por el conjunto de estudios, políticas, instrumentos, normas técnicas y disposiciones jurídicas relativas a la ordenación y regulación de los asentamientos humanos, con el fin de lograr el desarrollo sustentable de las ciudades;
+IV.- No tener litigios pendientes contra el Instituto;
 
-XLII. PROGRAMA MUNICIPAL: Es el Programa Municipal de Ordenamiento Territorial y Desarrollo Urbano, instrumento normativo que define las políticas urbanas de uso de suelo, crecimiento, conservación, mejoramiento y ordenamiento en el territorio municipal;
+V.- No haber sido sentenciado por delitos patrimoniales o inhabilitado para ejercer el comercio o para desempeñarse como servidor público; y
 
-XLIII. PROGRAMA PARCIAL: Es el Programa que tiene por objeto la ordenación territorial y el desarrollo urbano en una porción del territorio municipal, con el propósito de alcanzar mayor precisión y detalle;
+VI.- No desempeñar un cargo de elección popular.
 
-XLIV. PROGRAMAS REGIONALES: Son el conjunto de estudios, políticas, instrumentos, normas técnicas y disposiciones jurídicas, relativas a la ordenación y regulación de los asentamientos humanos en el ámbito de las diversas regiones que establezca el Programa Estatal de Desarrollo Urbano vigente;
+###### ARTICULO 25.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Son facultades y atribuciones del Director General del Instituto:
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+I.- Administrar y representar legalmente al Instituto;
 
-XLV.- PROGRAMA ESTATAL: Es el Programa Estratégico para el Desarrollo Urbano Sustentable de Tamaulipas, instrumento rector del Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, que tiene como finalidad definir los criterios y diseñar estrategias y acciones para detallar los planteamientos y orientaciones generales en el ordenamiento del territorio y el desarrollo urbano integral; y establecer los objetivos y metas en los centros de población para mejorar la calidad de vida de sus habitantes;
+II.- Celebrar y otorgar, toda clase de actos y documentos inherentes al objeto del Instituto, así como suscribir, avalar y negociar títulos de crédito;
 
-XLVI. REGISTRO ESTATAL DEL PATRIMONIO HISTÓRICO Y ARTÍSTICO EDIFICADO DE TAMAULIPAS: Es el ámbito administrativo donde se relacionan, catalogan y ordenan los documentos relativos a la situación jurídica de bienes inmuebles, de valor histórico artístico, como edificios, obras de infraestructura, monumentos cívico conmemorativos, murales artísticos u otras obras análogas a las anteriores;
+III.- Ejercer facultades de dominio, previa la autorización a que se refiere el Artículo 21 en su fracción V de esta Ley;
 
-XLVII. RELOTIFICAR: Es el acto mediante el cual, dos o más lotes contiguos se modifican en sus dimensiones, sin afectar la disposición urbanística de calles y demás destinos autorizados;
+IV.- Ejercer facultades de administración, pleitos y cobranzas y aquéllas que requieran de autorización especial según otras disposiciones legales o reglamentarias;
 
-XLVIII. RESERVAS TERRITORIALES: Son las áreas o predios que serán utilizadas para el cumplimiento de programas oficiales de suelo para construcción o autoconstrucción de vivienda, equipamientos públicos y otros propósitos análogos;
+V.- Formular querellas y otorgar perdón;
 
-XLIX. SERVICIOS URBANOS: Son las actividades de carácter público para satisfacer necesidades colectivas de los asentamientos humanos, sea que los preste directamente la autoridad o se concesione su prestación a particulares;
+VI.- Ejercer y desistirse de acciones judiciales, inclusive del juicio de amparo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VII.- Comprometer asuntos en arbitraje y celebrar transacciones;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+VIII.- Otorgar, sustituir y revocar poderes generales o especiales con las facultades que le competan, entre ellas las que requieran autorización o cláusula especial;
 
-L.- REGULARIZACION DE LA TENENCIA DE LA TIERRA: Es el conjunto de acciones con un fin social justificado realizadas por los organismos públicos federales, estatales o municipales competentes, encaminadas a brindar seguridad jurídica en la tenencia de la tierra;
+IX.- Formular los programas de corto, mediano y largo plazo del Instituto y presentarlos junto con los presupuestos de ingresos y egresos de gasto corriente ante la Junta Directiva para su aprobación. Si dentro de los plazos correspondientes no diere cumplimiento a esta obligación, sin perjuicio de su correspondiente responsabilidad, la Junta Directiva procederá al desarrollo e integración de tales documentos;
 
-LI. SISTEMA ESTATAL: Es el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, integrado por el conjunto de programas de carácter estatal, sectorial, regional, municipal y parcial aprobados, y la información geográfica correspondiente;
+X.- Formular los programas de organización necesarios para dar cumplimiento al objeto del Instituto;
 
-LII. SUBDIVIDIR: Es la acción mediante la cual un predio que ya ha sido dividido, es otra vez objeto de partición;
+XI.- Establecer los criterios, métodos y asignaciones que permitan el óptimo aprovechamiento de los recursos, bienes muebles e inmuebles de que disponga el Instituto para dar cumplimiento a su objeto;
 
-LIII. USOS: Son los fines a los que se sujetarán las zonas o predios particulares;
+XII.- Recibir, custodiar y manejar los fondos y reservas de acuerdo con lo que establece esta Ley y ejercer los egresos conforme a los presupuestos autorizados por la Junta Directiva;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+XIII.- Establecer los mecanismos de control necesarios para un óptimo y transparente manejo de los recursos económicos a su cargo;
 
-LIV. URBANIZACIÓN SECUENCIAL: Es aplicable exclusivamente en fraccionamientos populares, y se define como el proceso de urbanizar parcialmente un fraccionamiento popular, de forma tal que pueda comercializarse por la autoridad competente sin que cuente con la urbanización total;
+XIV.- Adoptar las medidas pertinentes a fin de que las funciones del Instituto se realicen de manera articulada, congruente y eficaz;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XV.- Proponer a la Junta Directiva el nombramiento de los Directores de Administración, de Prestaciones Económicas y de Medicina, Seguridad e Higiene del Instituto;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+XVI.- Suscribir los contratos que regulen las relaciones con los servidores públicos que presten sus servicios en el Instituto, cualquiera que sea su categoría;
 
-LV.- SISTEMA ESTATAL: Es el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, integrado por el conjunto de programas de carácter estatal, regional, de zonas conurbadas o metropolitanas, municipal, de centros de población, parciales y vigentes, y la información geográfica correspondiente; así como por el conjunto de autorizaciones de fraccionamientos, con el objeto de mantener actualizada la base cartográfica de la entidad federativa y asegurar el cumplimiento de esta ley;
+XVII.- Recabar y manejar la información y elementos estadísticos necesarios que reflejen el estado de las funciones del Instituto, para poder mejorar la gestión del mismo;
 
-LVI. ZONIFICACIÓN: Es la determinación de las áreas en que se divide el territorio para fines del ordenamiento territorial y del desarrollo urbano;
+XVIII.- Establecer los sistemas de control necesarios para alcanzar las metas y objetivos propuestos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XIX.- Presentar a consideración de la Junta Directiva en sus sesiones ordinarias un informe sobre el desarrollo de las actividades del Instituto, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y documentos de apoyo que invariablemente se acompañarán, se cotejarán las metas propuestas y los compromisos adquiridos por la Dirección General, con aquéllas y éstos que hayan sido satisfechos debidamente;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+XX.- Conceder, negar, suspender, modificar o revocar los préstamos a corto y mediano plazo, los hipotecarios, las indemnizaciones y las pensiones que procedan de conformidad con la presente Ley, haciéndolo del conocimiento de la Junta Directiva;
 
-LVII.- VIA PUBLICA: Es todo inmueble del dominio público y utilización común que por disposición de la ley o por razón del servicio se destine al libre tránsito; o bien que de hecho está ya afecto a utilización pública en forma habitual. El espacio que integra la vía pública está limitado por el plano vertical que sigue el alineamiento oficial o el lindero de la misma. Las vías públicas son inalienables, intransmisibles, inembargables e imprescriptibles;
+XXI.- Proporcionar la documentación o informes que le requiera el Comisario;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XXII.- Establecer mecanismos de evaluación, que permitan destacar la eficiencia y eficacia con que se desempeña el Instituto y por lo menos dos veces al año presentar a la Junta Directiva el informe de gestión con el detalle que previamente se haya acordado con la Junta Directiva;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+XXIII.- Asistir a las sesiones de la Junta Directiva, con voz pero sin voto, y ejecutar sus acuerdos;
 
-LVIII.- VIA PRIVADA: Son aquellas que se construyen en desarrollos bajo el régimen de propiedad en condominio. Su uso básico es el de servir de acceso a instalaciones o edificaciones interiores;
+XXIV.- Elaborar y dar seguimiento a la Planeación Estratégica del Instituto, previendo la continuidad y mejoramiento de los lineamientos y programas a largo plazo establecidos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XXV.- Coadyuvar para el desarrollo del Instituto como organización aprendiente, dentro de una filosofía de generación de conocimiento continuo; y
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+XXVI.- Nombrar y remover al personal del Instituto, a excepción de los que nombre la Junta Directiva; y
 
-LIX.- ZONA INTERMEDIA DE SALVAGUARDA: Espacio territorial comprendido entre el área en la cual se realizan las actividades altamente inseguras o riesgosas, con objeto de amortiguar las eventuales consecuencias para la población de la presencia de una contingencia o emergencia derivada de dichas actividades; y
+XXVII.- Todas las demás facultades y atribuciones que le confieran esta Ley y otros ordenamientos legales, así como las que le otorgue la Junta Directiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### ARTICULO 26.
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+El Director General ejercerá las facultades y atribuciones que le confiere esta Ley, bajo su responsabilidad y dentro de las limitaciones que le señale la Junta Directiva.
 
-LX.- ZONA METROPOLITANA: Es el conjunto de dos o más municipios donde se localiza una ciudad, cuya área urbana, área de influencia, funciones y actividades rebasan límites político-administrativos ya sea intraestatales, interestatales o internacionales; incorporando como parte de sí misma, o de su área de influencia directa, a municipios vecinos con los que mantiene un alto grado de integración socio económica, constituyendo una unidad de planeación urbano territorial.
+### CAPITULO V. Organos de Vigilancia
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### ARTICULO 27.
 
-###### ARTÍCULO 6.
+El Organo de Vigilancia del Instituto estará integrado por un Comisario propietario y un suplente, designados por la Contraloría General del Gobierno del Estado.
 
-(DEROGADO, P.O. 5 DE JUNIO DE 2008)
+###### ARTICULO 28.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+El Comisario evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente, prestaciones, inversiones y egresos en general, así corno la solvencia actuarial de los fondos del Instituto.
 
-###### ARTÍCULO 7.
+Asimismo, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría General del Gobierno del Estado le asigne específicamente.
 
-(DEROGADO, P.O. 5 DE JUNIO DE 2008)
+###### ARTICULO 29.
 
-## TÍTULO II. DE LAS AUTORIDADES Y ÓRGANOS CONSULTIVOS
+No podrá ser Comisario:
 
-### CAPÍTULO I. DE LAS AUTORIDADES
+I.- Los servidores públicos que presten sus servicios en el Instituto; y
 
-###### ARTÍCULO 8.
+II.- Los parientes consanguíneos del Director General en línea recta sin limitaciones de grado, los colaterales dentro del cuarto y los afines dentro del segundo.
 
-1. Son autoridades competentes para la aplicación de esta ley:
+###### ARTICULO 30.
 
-I. El Gobernador del Estado;
+Son facultades y obligaciones del Comisario:
 
-II. La Secretaría;
+I.- Solicitar al Director General todos los estados financieros que éste elabora, con sus anexos correspondientes;
 
-III. El Instituto; y
+II.- Inspeccionar por lo menos dos veces al año, los libros, registros y demás documentos del Instituto, así como realizar arqueos de fondos y revisión de las cuentas bancarias y de inversión, enviando a la Junta Directiva un informe de sus actividades;
 
-IV. Los Ayuntamientos.
+III.- Intervenir en la formación y revisión de los estados financieros de fin de ejercicio;
 
-2. Corresponde al Instituto realizar la interpretación del ordenamiento en la esfera administrativa.
+IV.- Proponer que se incluyan en el orden del día de las sesiones de la Junta Directiva los puntos que crea pertinente tratar;
 
-###### ARTÍCULO 9.
+V.- Solicitar, en caso de que lo juzgue pertinente, que se convoque a sesiones extraordinarias de la Junta Directiva;
 
-Competen al Gobernador del Estado las siguientes atribuciones:
+VI.- Asistir a las sesiones de la Junta Directiva, cuando sea citado a las mismas, en las que tendrá voz pero no voto;
 
-I. Revisar, aprobar, publicar y ejecutar el Programa Estatal, así como los programas regionales y sectoriales que formen parte del Sistema Estatal;
+VII.- Vigilar e informar ilimitadamente en cualquier tiempo por las operaciones del Instituto; y
 
-II. Presidir directamente, o a través del titular de la Secretaría, el Consejo Estatal;
+VIII.- Las demás que le encomiende la Junta Directiva.
 
-III. Participar en la planeación y regulación de las conurbaciones y, en su caso, promover ante el Congreso del Estado el reconocimiento de zonas conurbadas en el Estado;
-
-IV. Publicar en el Periódico Oficial del Estado y ordenar la inscripción en el Registro Público de la Propiedad y del Comercio y el Programa Estatal, y los programas sectoriales y regionales que se requieran, observando la congruencia de estos con los planes y programas nacionales de desarrollo urbano, vivienda, ordenamiento territorial, medio ambiente, asentamientos humanos, comercio, industria, turismo, infraestructura u otros relacionados con la materia;
-
-V. Ordenar la inscripción de los documentos que obran en el Registro Estatal del Patrimonio Histórico y Artístico Edificado de Tamaulipas, en el Registro Público de la Propiedad y del Comercio;
-
-VI. Promover conjuntamente con la Federación, los municipios involucrados y los particulares, la ejecución de obras y acciones de desarrollo urbano que contribuyan a elevar la calidad de vida de los habitantes de la zona;
-
-VII. Alentar la participación social en las materias que regula ésta ley;
-
-VIII. Administrar las reservas territoriales estatales y adquirir los inmuebles necesarios para apoyar la ejecución de acciones de ordenación, conservación, mejoramiento y crecimiento de los asentamientos humanos;
-
-IX. Celebrar con el Ejecutivo Federal, los gobiernos de los Estados o los Ayuntamientos, convenios en materia de acciones e inversiones relativas al desarrollo urbano;
-
-X. Solicitar al Comité de Planeación para el Desarrollo del Estado y proponer a los Comités Municipales respectivos, las acciones, obras e inversiones que impulsen y consoliden el desarrollo urbano;
-
-XI. Promover ante el Congreso del Estado la fundación de centros urbanos; y
-
-XII. Las demás que señalen esta ley y otras disposiciones jurídicas aplicables.
-
-### CAPÍTULO II. DE LOS ÓRGANOS CONSULTIVOS
-
-###### ARTÍCULO 10.
-
-Corresponden a la Secretaría las siguientes atribuciones:
-
-I. Participar con la Federación, los Estados o los municipios respectivos, en la elaboración, administración, ejecución, control y evaluación de los planes de zonas conurbadas estatales o interestatales;
-
-II. Participar de manera coordinada con los Ayuntamientos, los gobiernos de las entidades federativas y la Federación, en la planeación y ordenación de los centros urbanos situados en el territorio de la entidad y de otras entidades vecinas, que constituyan o tiendan a constituir una conurbación interestatal;
-
-III. Dictar, en coordinación con los Ayuntamientos y la Federación, en su caso, las medidas necesarias a que deben sujetarse los predios no urbanizables, por tratarse de áreas sujetas a conservación y mejoramiento, sean éstas arqueológicas, históricas, agropecuarias, mineras, rurales, forestales, áreas naturales protegidas, o de preservación del patrimonio cultural;
-
-IV. Promover, gestionar y realizar las acciones e inversiones necesarias para conservar los recursos naturales y mejorar el medio ambiente, en coordinación con los Ayuntamientos y la Federación y de acuerdo a la legislación en la materia;
-
-V. Celebrar los convenios y contratos necesarios para la ejecución de los programas del Sistema Estatal; y
-
-VI. Realizar los trámites necesarios para la adquisición de inmuebles, la ejecución de obras públicas y determinar conjuntamente con el Ayuntamiento respectivo, las afectaciones necesarias que se requieran para la vialidad, conforme a los planes aplicables.
-
-###### ARTÍCULO 11.
-
-1. Corresponden al Instituto las siguientes atribuciones:
-
-I. Coordinar la elaboración, administración, ejecución, control, modificación, actualización y evaluación del Programa Estatal y los programas sectoriales y regionales, así como vigilar su cumplimiento;
-
-II. Asesorar a los Ayuntamientos y, en su caso, apoyarlos cuando así lo soliciten en la elaboración, ejecución, control, actualización y evaluación de la planeación urbana municipal;
-
-III. Formular conjunta y coordinadamente con los Ayuntamientos respectivos, los planes en las zonas conurbadas, así como gestionar y evaluar su cumplimiento;
-
-IV. Adquirir con base en los programas, las reservas territoriales por parte del Gobierno del Estado para fomentar el crecimiento ordenado de las ciudades y centros de población, coadyuvando además con la Secretaría para adquirir espacios territoriales para la construcción de infraestructura o equipamiento;
-
-V. Desempeñar las funciones técnicas y administrativas que le competen a los Ayuntamientos en la materia objeto de esta ley, cuando éstos así lo hayan convenido expresamente con el Gobernador del Estado, ya sea por carecer de los órganos administrativos correspondientes, porque la complejidad de los asuntos así lo requieran o por las razones que se estimen convenientes;
-
-VI. Gestionar la inscripción de los acuerdos, resoluciones, planes y programas, que expidan las autoridades competentes, en el Registro Público de la Propiedad y del Comercio;
-
-VII. Coadyuvar con los Ayuntamientos al desarrollo de las diversas regiones y de las poblaciones del Estado, mediante una adecuada planificación y zonificación de los mismos;
-
-VIII. Proponer o, en su caso, emitir opinión respecto de los programas de inversión pública en materia de infraestructura y equipamiento para el desarrollo de las ciudades y demás centros de población del Estado, garantizando la congruencia con el Sistema Estatal;
-
-IX. Diseñar, implantar y operar los sistemas y registros que se requieran para controlar y evaluar el avance de los planes y programas en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano del Gobierno del Estado, así como los convenidos con la Federación, los municipios y los sectores social y privado de la Entidad;
-
-X. Evaluar el cumplimiento de las disposiciones legales en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano, emitiendo en su caso opinión ante las autoridades competentes;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XI. Denunciar ante la autoridad que corresponda, las posibles faltas administrativas o delitos relativos a la creación de asentamientos humanos no autorizados. En los casos que se considere procedente, promover la incorporación al desarrollo urbano de asentamientos humanos irregulares;
-
-XII. Fomentar la ejecución de fraccionamientos habitacionales populares o de interés social y de condominios;
-
-XIII. Promover la participación de los sectores social y privado del Estado, en la formulación, ejecución, evaluación, actualización y modificación de los programas de ordenamiento territorial y desarrollo urbano;
-
-XIV. Verificar que las autorizaciones emitidas por los Ayuntamientos sean congruentes con el Sistema Estatal y esta ley y, en su caso, emitir opinión ante la autoridad competente;
-
-XV. Promover políticas que incentiven las inversiones públicas y privadas con objeto de incrementar la calidad del desarrollo urbano de las ciudades;
-
-XVI. Promover o gestionar las acciones judiciales o administrativas que procedan en contra de quienes contravengan las disposiciones que establece esta ley en el ámbito de sus respectivas competencias;
-
-XVII. Dictar las disposiciones necesarias para la protección del entorno urbano en general y, en particular, de los edificios, calles, plazas, jardines y elementos de ornato y servicio público, que se encuentren en el Registro Estatal del Patrimonio Histórico y Artístico Edificado;
-
-XVIII. Identificar, catalogar, promover o ejecutar las obras necesarias para la conservación, rescate, restauración, mejoramiento y aseo del entorno urbano de las poblaciones del Estado, así como de las zonas protegidas, bienes inmuebles y monumentos públicos;
-
-XIX. Identificar el acervo histórico y cultural del Estado, manteniéndose actualizado el Registro Estatal del Patrimonio Histórico y Artístico Edificado;
-
-XX. Vigilar y, en su caso, dictaminar previamente la intervención o demolición de inmuebles que puedan tener valor arquitectónico, histórico, artístico y cultural en los municipios, y que se encuentren catalogados en el Registro Estatal del Patrimonio Histórico y Artístico Edificado;
-
-XXI. Calificar las infracciones e imponer las medidas de seguridad y sanciones que establece esta ley y que sean de su competencia;
-
-XXII. Resolver sobre los recursos administrativos que conforme a su competencia le sean planteados y que deriven de la aplicación de esta ley;
-
-XXIII. Ordenar las anotaciones marginales de los usos y destinos establecidos en el Sistema Estatal;
-
-XXIV. Ejercer el derecho de preferencia que corresponde al Gobierno del Estado, conforme a la Ley General de Asentamientos Humanos y la Ley Agraria para adquirir predios ejidales; y (sic)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XXV. Emitir dictamen de congruencia de los programas municipales respecto del Programa Estatal o del programa de ordenación de zona conurbada en su caso. Dicho dictamen será requisito para su aprobación por el ayuntamiento correspondiente; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XXVI. Las demás que le confiera este ordenamiento y otras disposiciones legales.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 5 DE JUNIO DE 2008)</small>
-
-2. Las atribuciones a que se refiere este artículo serán ejercidas por el titular del Instituto y sus unidades administrativas.
-
-###### ARTÍCULO 12.
-
-1. Corresponden a los Ayuntamientos las siguientes atribuciones:
-
-I. Formular, aprobar y administrar la zonificación y programas de ordenamiento territorial y desarrollo urbano municipales, así como los reglamentos de la materia;
-
-II. Integrar el Comité Municipal para el Desarrollo urbano;
-
-III. Fomentar la profesionalización en materia de planeación y administración del desarrollo urbano municipal, mediante el apoyo para la creación y fortalecimiento de Institutos de Planeación, ya sea municipales, de zonas conurbadas o regionales;
-
-IV. Participar en la creación y administración de sus reservas territoriales;
-
-V. Participar en la planeación y delimitación territorial de las zonas conurbadas o regiones de la cual forme parte;
-
-VI. Participar en la formulación y aprobar, en su caso, los programas de desarrollo regional, los cuales deberán estar en concordancia con los programas generales de la materia;
-
-VII. Administrar la zonificación urbana de los centros de población, contenidas en disposiciones legales, o en los programas, en congruencia con los planes y programas estatales y federales;
-
-VIII. Celebrar convenios con el Estado, la Federación o con organizaciones de carácter social o privadas para la ejecución de los programas previstos en la presente ley, en el territorio de su Municipio. Cuando el acuerdo a celebrarse sea con la Federación, requerirá la aprobación del Congreso del Estado;
-
-IX. Establecer relaciones de coordinación o asociación con otros municipios del Estado para el cumplimiento de los programas de las zonas conurbadas de las que forme parte;
-
-X. Autorizar o negar, con base en las disposiciones legales aplicables y el programa municipal, las autorizaciones para ejecutar obras de urbanización, usos y cambios de usos del suelo y edificaciones, así como construcciones en el territorio del Municipio;
-
-XI. Autorizar o negar, con base en las disposiciones legales aplicables, y el programa municipal, las autorizaciones de fusiones, divisiones, subdivisiones o relotificaciones de inmuebles;
-
-XII. Autorizar la incorporación o reincorporación a las redes de infraestructura en el territorio municipal de las áreas o predios donde deban ejecutarse obras de urbanización;
-
-XIII. Aprobar, supervisar y acordar la recepción de obras de urbanización;
-
-XIV. Autorizar o negar, con base en las disposiciones legales aplicables y el programa municipal, el certificado de uso del suelo y lineamientos urbanísticos, proyecto ejecutivo, permisos de venta, prórrogas, terminación de obras y liberación de garantía, de todo tipo de fraccionamientos;
-
-XV. Participar con el Instituto, en su caso, en la formulación del proyecto de reconocimiento de zona conurbada de la cual formen parte;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XVI. Convenir con el Gobernador del Estado la coordinación de acciones en materia de desarrollo urbano, para que a través del Instituto, desempeñe total o parcialmente, las funciones técnicas o administrativas que le corresponden al Ayuntamiento en el cumplimiento de esta ley;
-
-XVII. Participar en el seno del Consejo Estatal;
-
-XVIII. Promover la participación ciudadana en la formulación, evaluación, revisión y difusión de los programas que le correspondan;
-
-XIX. Ejercer el derecho de preferencia que corresponde al Gobierno Municipal, en lo relativo a la adquisición de inmuebles ejidales o comunales en las áreas que los programas aplicables señalen como aptas para desarrollo urbano;
-
-XX. Ordenar, imponer y ejecutar en el ámbito de su competencia las medidas de seguridad y las sanciones previstas en esta ley;
-
-XXI. Tramitar y resolver, en el ámbito de su competencia, el recurso administrativo previsto en esta ley;
-
-XXII. Dictar en coordinación con el Instituto las medidas necesarias a que deban sujetarse los predios no urbanizables, por tratarse de áreas sujetas a conservación o mejoramiento;
-
-XXIII. Autorizar los programas parciales que incorporan a la zona urbana o urbanizada nuevos desarrollos cuyo impacto sea regional, previo dictamen técnico favorable expedido por el Instituto;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XXIV. Promover obras y servicios que se relacionen con el desarrollo urbano en el territorio municipal;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XXV. Vigilar en el ámbito de su competencia y jurisdicción la observancia de los programas de desarrollo urbano y las normas básicas correspondientes; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XXVI. Aprobar o negar, en su caso, los procesos de regularización de la tenencia de la tierra que le soliciten los organismos correspondientes, quienes deberán cumplir con lo establecido en el Titulo XIII de esta ley.
-
-2. Las atribuciones a que se refiere este artículo serán ejercidas por el Ayuntamiento y en su caso por las autoridades administrativas del mismo que se determinen en el Código Municipal y demás leyes y reglamentos aplicables.
-
-### CAPÍTULO ÚNICO
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-###### ARTÍCULO 13.
-
-Las atribuciones concurrentes que en materia de desarrollo urbano contempla esta ley, serán ejercidas de manera coordinada por las autoridades estatales y municipales en los ámbitos de su jurisdicción y competencia.
-
-###### ARTÍCULO 14.
-
-Son órganos consultivos auxiliares de las autoridades encargadas de aplicar esta ley:
-
-I. El Consejo Estatal para el Desarrollo de las Ciudades;
-
-II. Los Comités Regionales para el Desarrollo de las Ciudades; y
-
-III. Los Comités Municipales para el Desarrollo Urbano.
-
-###### ARTÍCULO 15.
-
-1. El Consejo Estatal para el Desarrollo de las Ciudades es un organismo auxiliar del Poder Ejecutivo del Estado, que conocerá de los asuntos sobre ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales puestos a su consideración por el propio Gobernador del Estado, la Secretaría, el Instituto, o los Ayuntamientos, de los que emitirá su opinión.
-
-2. El Consejo Estatal para el Desarrollo de las Ciudades estará integrado por:
-
-I. El Gobernador del Estado, quien lo presidirá en forma directa o a través del titular de la Secretaría;
-
-II. El Secretario de Obras Públicas, Desarrollo Urbano y Ecología;
-
-III. El Director General del Instituto Tamaulipeco de Vivienda y Urbanismo, quien fungirá como Secretario Técnico;
-
-IV. El Director para el Desarrollo de las Ciudades del Instituto, quien fungirá como Secretario de Actas;
-
-V. El Director General de Medio Ambiente de la Secretaría, quien fungirá como Vocal;
-
-VI. Los Ayuntamientos estarán representados en el Consejo por el Presidente Municipal o por el Titular del área competente en la materia que en forma expresa sean designados para ello;
-
-VII. Los presidentes o directores, según el caso, de las Cámaras empresariales, Institutos de Planeación, Colegios de Profesionistas, Asociaciones Civiles, Sociedades Civiles, Agrupaciones Patronales, Sindicatos, Organizaciones no Gubernamentales que estén constituidas con carácter estatal y, en general, entes representativos de la sociedad, conforme a la invitación que les formule el Ejecutivo del Estado; y
-
-VIII. Los delegados en el Estado de las dependencias y entidades federales, cuya función esté relacionada con el ordenamiento territorial y la protección del ambiente.
-
-3. Una vez integrado, el Consejo acordará sus reglas de operación. En todo caso, sesionará cuando menos dos veces al año de manera ordinaria y de manera extraordinaria las veces que sea necesaria.
-
-4. El Consejo Estatal tendrá como funciones:
-
-I. Promover la participación de los grupos sociales en la elaboración o revisión de los programas de desarrollo urbano, asentamientos humanos, ordenamiento territorial y ecológico;
-
-II. Realizar consultas sobre situaciones especificas en materia de desarrollo urbano, asentamientos humanos, ordenamiento territorial, recursos naturales y medio ambiente; y
-
-III. Las demás que le encomiende el Gobernador del Estado.
-
-###### ARTÍCULO 16.
-
-1. El Comité Municipal para el Desarrollo Urbano es un organismo auxiliar sobre ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales. Dicho ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales que tengan su sede dentro de la jurisdicción territorial del Municipio y que sean puestos a su consideración por el propio Ayuntamiento, a fin de emitir su opinión.
-
-2. El Comité Municipal para el Desarrollo Urbano se integra por:
-
-I. El Presidente Municipal, quien lo presidirá en forma directa o a través del servidor público que designe;
-
-II. Los miembros del Cabildo que formen parte de la Comisión de Asentamientos Humanos y Obras Públicas, así como de la Comisión del Medio Ambiente o de carácter similar, en su caso;
-
-III. El titular de la dependencia municipal a cargo de las funciones del ordenamiento territorial, desarrollo urbano y medio ambiente; y
-
-IV. Los representantes de las organizaciones no gubernamentales, representantes de instituciones de educación superior constituidas legalmente en asociaciones civiles y que de entre sus fines se encuentre dedicarse a asuntos concernientes al ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales. Dichos organismos no gubernamentales podrán solicitar su inclusión a los comités municipales para el desarrollo de las ciudades cuando, no siendo miembros, hayan cumplido cuando menos un año de haberse formado.
-
-3. Una vez integrado, el Comité acordará sus reglas de operación. En todo caso, sesionará cuando menos dos veces por año de manera ordinaria y de manera extraordinaria las veces que sean necesarias.
-
-4. El Comité Municipal tiene las siguientes funciones:
-
-I. Promover la participación de los grupos sociales en la elaboración o revisión de los programas de desarrollo urbano, asentamientos humanos, ordenamiento territorial y protección del ambiente.
-
-II. Realizar consultas sobre situaciones específicas en materia de desarrollo urbano, asentamientos humanos, ordenamiento territorial, recursos naturales y medio ambiente; y
-
-III. Las demás que se estimen necesarias.
-
-5. En los municipios donde existan Comités Municipales o Regionales, éstos serán parte del Consejo Consultivo del IMPLAN.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-ARTICULO 16 bis.
-
-1. El Comité Regional para el Desarrollo de las Ciudades es un organismo auxiliar sobre ordenamiento Territorial, desarrollo urbano, medio ambiente y recursos naturales regionales. Dicho Comité Regional, tendrá su sede dentro de su jurisdicción territorial, en uno de los Municipios que lo integran, propuesto y designado por el propio Comité.
-
-2. El Comité Regional para el Desarrollo de las Ciudades se integra por:
-
-I. Los Presidentes Municipales de la región que corresponda, quienes designarán por mayoría de votos quien preside el Comité;
-
-II. Los miembros de los Cabildos que formen parte de la Comisión de Asentamientos Humanos, Obras Públicas y Desarrollo Urbano, así como de la Comisión del Medio Ambiente o de carácter similar, en su caso;
-
-III. Los titulares de la dependencia municipal a cargo de las funciones del ordenamiento territorial, desarrollo urbano y medio ambiente; y
-
-IV. De los municipios que integren el Comité, los representantes de las organizaciones no gubernamentales, y de instituciones de educación superior, siempre que estén constituidas legalmente en asociaciones civiles y que de entre sus fines se encuentre dedicarse a asuntos concernientes al ordenamiento territorial, desarrollo urbano, medio ambiente y recursos naturales de la región. Dichos organismos no gubernamentales podrán solicitar su inclusión a los Comités Regionales para el desarrollo de las ciudades cuando, no siendo miembros, hayan cumplido cuando menos un año de haberse formado.
-
-3. Una vez integrado el Comité Regional, éste acordará sus reglas de operación. En todo caso, sesionará cuando menos dos veces por año de manera ordinaria y de manera extraordinaria las veces que sean necesarias.
-
-4. El Comité Regional tiene las siguientes funciones:
-
-I. Promover la participación de los grupos sociales de los municipios en la elaboración o revisión de los programas de desarrollo urbano, asentamientos humanos, ordenamiento territorial, protección del ambiente regional y desarrollo sustentable;
-
-II. Realizar consultas sobre situaciones especificas en materia de desarrollo urbano, asentamientos humanos, ordenamiento territorial, recursos naturales, medio ambiente de carácter regional y desarrollo sustentable; y
-
-III. Las demás que se estimen necesarias.
-
-5. En los municipios donde existan Comités Regionales, éstos serán parte del Consejo Consultivo del Instituto Municipal de Planeación.
-
-### CAPÍTULO ÚNICO. DE LAS CONURBACIONES Y ZONAS METROPOLITANAS
-
-###### ARTÍCULO 17.
-
-1. Se establece el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano como instrumento rector de las actividades de planeación, gestión, realización de proyectos y administración en materia de ordenamiento territorial y desarrollo urbano.
-
-2. El Sistema Estatal se integra por:
-
-I. El programa estatal;
-
-II. Los programas regionales;
-
-III. Los programas de zonas conurbadas o zonas metropolitanas;
-
-IV. Los programas municipales;
-
-V. Los programas de centros de población;
-
-VI. Los programas parciales; y
-
-VII. Los programas de desarrollo urbano derivados de los señalados en las fracciones anteriores.
-
-3. Cada uno de los programas deberá contener al menos los siguientes aspectos:
-
-I. Orden jurídico;
-
-II. Objetivos;
-
-III. Diagnóstico;
-
-IV. Prospectiva;
-
-V. Estrategias;
-
-VI. Políticas;
-
-VII. Instrumentación;
-
-VIII. Cartografía; y
-
-IX. Los demás aspectos que orienten, regulen y promuevan el desarrollo urbano sustentable de la entidad federativa.
-
-4. Los programas que conforman el Sistema Estatal tendrán por objeto fomentar el desarrollo sustentable y determinar la expansión y densificación de los asentamientos humanos, o ambos, en función de las características naturales del territorio, tales como su topografía, edafología, hidrología, clima, riesgo o vulnerabilidad para establecer su uso de suelo, y sus compatibilidades urbanísticas.
-
-5. Los programas previstos en esta ley deberán contener los elementos básicos que hagan posible su congruencia y uniformidad para su debida ejecución técnica, jurídica y administrativa.
-
-###### ARTÍCULO 18.
-
-1. El Programa Estatal será formulado y expedido por el Ejecutivo del Estado.
-
-2. El Ejecutivo del Estado remitirá el Programa al Poder Legislativo con objeto de que el mismo se conozca y considere en el ejercicio de las atribuciones de la Legislatura.
-
-3. El Programa Estatal se publicará en el Periódico Oficial del Estado, se le dará difusión en los diarios de mayor circulación de la Entidad y se inscribirá en el Sistema Estatal y en el Registro Público de la Propiedad y del Comercio.
-
-4. La evaluación y seguimiento corresponde al Instituto.
-
-###### ARTÍCULO 19.
-
-1. Los Programas Regionales contendrán los objetivos, metas, políticas y estrategias de ordenamiento territorial y desarrollo urbano; y deberán de regular los asentamientos humanos y propiciar las condiciones para el desarrollo sustentable de una zona o región, cuyas características geográficas, económicas y sociales las conviertan en una unidad territorial de planeación.
-
-2. Los Programas Regionales serán elaborados, ejecutados y evaluados por el Instituto y los Ayuntamientos correspondientes. Su aprobación corresponde al Ejecutivo del Estado.
-
-###### ARTÍCULO 20.
-
-Los programas que definan acciones en campos específicos relacionados con el ordenamiento territorial en cualquier área urbana, serán elaborados por el Instituto durante los primeros doce meses de la gestión administrativa estatal y se actualizarán en caso necesario.
-
-###### ARTÍCULO 21.
-
-1. Los programas municipales deberán comprender la totalidad del territorio municipal, con base en la vocación natural del mismo y su clasificación correspondiente, enfatizándose las acciones de desarrollo urbano y medio ambiente necesarias para lograr el desarrollo sustentable.
-
-2. Estos programas deberán ser revisados durante el segundo semestre del segundo año de la administración municipal. El Ayuntamiento emitirá el acta correspondiente en donde se asiente el dictamen técnico y las acciones procedentes.
-
-###### ARTÍCULO 22.
-
-Los programas municipales señalarán las acciones específicas para la ordenación, conservación, mejoramiento y crecimiento del territorio situado en sus respectivas jurisdicciones, al tiempo de establecer la zonificación correspondiente.
-
-###### ARTÍCULO 23.
-
-Los propietarios y poseedores de inmuebles incluidos en proyectos de conservación y mejoramiento que deriven de los programas comprendidos en esta Ley, deberán cumplir con las obligaciones inherentes a los mismos. Para este efecto podrán celebrar convenios entre sí, con el Ejecutivo del Estado, los Ayuntamientos o con terceros.
-
-###### ARTÍCULO 24.
-
-Los programas previstos en esta ley señalarán los requisitos, efectos y alcances a que se sujetarán las acciones de ordenación, conservación, mejoramiento y crecimiento, disponiéndose las acciones específicas con base en esta ley para:
-
-I. La asignación de usos y destinos compatibles;
-
-II. La formulación, aprobación y ejecución de los planes parciales que señalen las acciones obras y servicios;
-
-III. La celebración de convenios con las dependencias y entidades públicas y la concertación de acciones con las representaciones del sector social y privado;
-
-IV. La adquisición, asignación y destino de inmuebles por parte de los Gobiernos estatal y municipales;
-
-V. La promoción de estímulos, así como la prestación de asistencia técnica y asesoría;
-
-VI. El fomento de la regularización de la tenencia de la tierra y de las construcciones; y
-
-VII. Las demás que se consideren necesarias para la eficacia de las acciones de ordenación, conservación, mejoramiento y crecimiento.
-
-###### ARTÍCULO 25.
-
-Los programas municipales para una zona conurbada serán elaborados conjunta y coordinadamente por el Instituto y los Ayuntamientos correspondientes.
-
-###### ARTÍCULO 26.
-
-1. Los programas parciales que se elaboren, deberán de mantener congruencia con los programas municipales, a fin de ordenar y regular una área o zona comprendida dentro de los mismos, y podrán ser de ordenación, conservación, crecimiento, mejoramiento, o cualquier combinación de los propósitos mencionados.
-
-2. Los programas parciales serán elaborados, aprobados, ejecutados y evaluados por los Ayuntamientos. Estos podrán convenir con el Estado, la coordinación para su elaboración o la recepción de apoyos para ese mismo efecto.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-### CAPÍTULO ÚNICO
-
-###### ARTÍCULO 27.
-
-1. La planeación del desarrollo urbano se deberá realizar en coordinación con los sectores social y privado de la entidad, a fin de impulsar la concertación de acciones para el ordenamiento territorial y la adecuada previsión del crecimiento urbano armónico.
-
-2. En cuanto a la localización de industrias o actividades que generen riesgo, deben ubicarse separadamente de las áreas de vivienda y a la distancia que determine el estudio de riesgo correspondiente. Deberán rodearse de una zona intermedia de salvaguarda definida en el propio estudio de riesgo, misma que deberá formar parte del predio a utilizar.
-
-###### ARTÍCULO 28.
-
-1. Una vez formulados los programas establecidos por esta ley, serán remitidos al Consejo Estatal o al Comité Municipal o Regional, de acuerdo a su ámbito territorial, para que emitan su opinión.
-
-2. Los organismos auxiliares, de carácter consultivo previstos en esta Ley contarán con treinta días hábiles para emitir sus comentarios, con posterioridad a que reciban el programa correspondiente.
-
-De no formularlos en dicho término, se entenderá su opinión en sentido favorable.
-
-3. En el caso de que el Consejo Estatal o Comité Municipal respectivo emitan observaciones al proyecto de programa, podrá solicitar a la autoridad que lo elaboró, que revise, en su caso, las observaciones hechas al proyecto y realice las adecuaciones consecuentes. Si el órgano responsable de emitir el programa lo estima pertinente, contestará a las observaciones en un término de quince días hábiles posteriores a su notificación y, en caso de no responder en el término previsto, se entenderá que está conforme con dichas observaciones y deberá incorporarlas al documento respectivo.
-
-###### ARTÍCULO 29.
-
-1. Una vez aprobados los programas, dentro de los treinta días naturales siguientes, se deberán publicar en el Periódico Oficial del Estado, se les dará difusión en los diarios de mayor circulación en la Entidad o Municipio, y se inscribirán en el Sistema Estatal y en el Registro Público de la Propiedad y del Comercio.
-
-2. A partir de la vigencia jurídica de un programa de desarrollo urbano, las autoridades que correspondan, sólo podrán expedir certificados, constancias, licencias, permisos, autorizaciones o convenios de su competencia en congruencia con lo establecido en el documento aplicable.
-
-###### ARTÍCULO 30.
-
-Los programas, certificados y resoluciones de la materia, se consideran documentos públicos que estarán integrados en el Sistema Estatal, quedando disponibles para ser consultados por los interesados, mediante solicitud expresa.
-
-### CAPÍTULO I. DE LAS GENERALIDADES
+### CAPITULO VI. Régimen Laboral
 
 ###### ARTICULO 31.
 
-1. Los programas previstos en esta ley podrán ser modificados o cancelados cuando:
+Las relaciones de trabajo entre el Instituto y su personal se regirán por las disposiciones del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados y estarán sujetas a la Ley de Responsabilidades de los Servidores Públicos del Estado y gozarán de las mismas prerrogativas y prestaciones que las de los servidores públicos estatales y municipales.
 
-I. Exista una variación sustancial de las condiciones o circunstancias que le dieron origen;
+###### ARTICULO 32.
 
-II. Se produzcan cambios en el aspecto financiero que los hagan irrealizables o incosteables;
+El personal del Instituto gozará de las prestaciones de seguridad y servicios sociales establecidos en la presente Ley, en los términos que la misma señala.
 
-III. Surjan tecnologías que permitan una mejor y más eficiente difusión de los mismos; y
+###### ARTICULO 33.
 
-IV. Sobrevenga otra causa de interés público que los afecte.
+Tendrán carácter de trabajadores de confianza del Instituto, el Director General, los Directores, los Jefes de Departamento, técnicos profesionales "A" y "B", así como aquellos otros que se mencionen como tales en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados.
 
-2. La modificación o cancelación anterior, podrá ser solicitada ante la autoridad por:
+## TITULO TERCERO. DEL REGIMEN DE SEGURIDAD Y SERVICIOS SOCIALES
 
-I. El Ejecutivo del Estado;
+### CAPITULO I. De las Prestaciones
 
-II. La Secretaría;
+###### ARTICULO 34.
 
-III. El Instituto;
+Sin perjuicio de que puedan otorgarse otras prestaciones de acuerdo con las posibilidades del Instituto, se establecen las siguientes:
 
-IV. Los Ayuntamientos;
+I.- Atención a la salud;
 
-V. El Consejo Estatal;
+II.- Pensión o indemnización por riesgo de trabajo;
 
-VI. Los Comités Municipales; y
+III.- Pensión de retiro por edad y antigüedad en el servicio;
 
-VII. El IMPLAN competente.
+IV.- Pensión e indemnización por invalidez;
 
-3. Para que los planes puedan ser modificados o cancelados, se deberán ajustar al mismo procedimiento, utilizado para su aprobación.
+V.- Pensión y/o seguros por causa de muerte;
 
-###### ARTÍCULO 32.
+VI.- Cuenta de ahorro individual para el retiro;
 
-El ordenamiento territorial de las zonas conurbadas está a cargo del Gobierno del Estado y los Ayuntamientos respectivos.
+VII.- Préstamos a corto plazo;
 
-###### ARTÍCULO 33.
+VIII.- Préstamos hipotecarios;
 
-El Ejecutivo Estatal y los Ayuntamientos respectivos, podrán acordar que se considere la existencia de una zona de conurbación, cuando:
+IX.- Préstamos para enganche de vivienda;
 
-I. Dos o más centros urbanos presenten características geográficas y tendencia socioeconómica, a su consideración, como una extensión territorial cuya continuidad establezca la conveniencia de efectuar el estudio y la búsqueda de soluciones a sus problemas de desarrollo urbano en forma conjunta; y
+X.- Servicios de Estancia de Bienestar Infantil;
 
-II. Se proyecte o funde un centro urbano y se prevenga su expansión en territorio de municipios vecinos.
+XI.- Fondo de ahorro;
 
-## TÍTULO III. DEL ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
+XII.- Servicios sociales; y
 
-### CAPÍTULO II. DE LA APLICACIÓN DE PROGRAMAS DE FOMENTO URBANO
+XIII.- Servicios que mejoren el nivel de vida del servidor público y de su familia.
 
-###### ARTÍCULO 34.
+###### ARTICULO 35.
 
-1. A los Ayuntamientos les corresponde formular, aprobar y administrar la zonificación de su territorio, de acuerdo a lo establecido en esta ley.
+El costo total de la prestación a que se refiere la fracción I del Artículo 34 de esta Ley será cubierto íntegramente por las entidades, salvo lo dispuesto en el Artículo 98 de esta misma Ley.
 
-2. La zonificación primaria comprende la determinación de las áreas que integran el territorio del municipio, y que se identifican como áreas urbanas, áreas de aprovechamiento y áreas de conservación.
+Las prestaciones señaladas en el Artículo anterior, serán otorgadas directamente por el Instituto o a través de terceros, previo contrato o convenio que celebre para ello.
 
-3. La zonificación secundaria comprende:
+En tales casos, las instituciones o empresas con las que se hubiesen suscrito esos contratos o convenios, estarán obligadas a proporcionar al Instituto los informes y estadísticas médicas o administrativas que éste les pida, sujetándose a las instrucciones, normas técnicas, inspecciones y vigilancia que se convengan.
 
-I. Los usos y destinos compatibles en los distritos urbanos; y
+### CAPITULO II. De las Afiliaciones al Instituto y de las Aportaciones
 
-II. Las demás acciones aplicables conforme a la legislación estatal y federal.
+###### ARTICULO 36.
 
-###### ARTÍCULO 35.
+Las entidades estarán obligadas con el Instituto a lo siguiente:
 
-1. Los usos y destinos que deben quedar determinados en los planes son:
+I.- Afiliar a todos los servidores públicos que les presten sus servicios independientemente de la forma en que se les efectúe el pago de sus servicios.
 
-I.- Usos: Zonificación secundaria: habitacionales, comerciales, de servicios, industriales, espacios abiertos e infraestructura, y
+El Instituto no reconocerá la antigüedad ni los derechos creados por los servidores públicos en otras instituciones de seguridad social públicas o privadas, salvo lo dispuesto en el Artículo 41 de esta Ley;
 
-II.- Destinos: Estructura vial, redes maestras de servicios, equipamientos (educación y cultura, salud y asistencia social, recreación y deporte, comunicaciones y transporte y administración pública).
+II.- Remitir al Instituto en enero y julio de cada año una relación de los servidores públicos de su adscripción, sujetos al pago de cuotas;
 
-2. Las normas de aprovechamiento de los predios en el territorio, deberán sujetarse a los programas correspondientes y a la zonificación secundaria.
+III.- Hacer del conocimiento del Instituto lo siguiente:
 
-### CAPÍTULO ÚNICO
+a). Altas y bajas de los servidores públicos, en las que conste el Registro Federal de Contribuyentes u otro instrumento de identificación oficial. Debiendo remitir con la alta los documentos actualizados que le solicite el Instituto en un plazo no menor a cinco días hábiles antes de la aplicación y movimientos de nómina.
 
-###### ARTÍCULO 36.
+b). Modificaciones de los sueldos base de cotización o cualquier otra contraprestación a que tengan derecho los servidores públicos y que esté sujeta a descuento en los términos de esta Ley, en un plazo no menor a cinco días hábiles antes de la aplicación y movimientos de nómina.
 
-1. Las zonas de aprovechamiento deberán mantenerse sin alteración, en tanto no se apruebe el programa parcial correspondiente, la normatividad urbanística aplicable y se obtenga el resolutivo del estudio de impacto ambiental en la modalidad que la autoridad determine.
+c). Los nombres de los familiares que los servidores públicos deben señalar para disfrutar de los servicios de atención a la salud que esta Ley les concede, dentro de los diez días hábiles siguientes a la fecha de toma de posesión del servidor público.
 
-2. Dentro de la zonificación que realice el Ayuntamiento, éste considerará las zonas metropolitanas que comprenden el casco urbano y las áreas suburbanas que por la continuidad de la urbanización forman un área conjunta.
+d). Los riesgos de trabajo que sufran los servidores públicos, dentro de los tres días hábiles siguientes a que se produzcan;
 
-## TÍTULO V. RESERVAS TERRITORIALES
+IV.- Efectuar los descuentos de las cuotas a que se refiere esta Ley y los que ordene el Instituto con motivo de la aplicación de la misma y a enterarlos al Instituto dentro de los tres días hábiles siguientes a la fecha de la retención;
 
-###### ARTÍCULO 37.
+V.- Enviar al Instituto copia de las nóminas, mediante relación por escrito, medio electrónico o magnético, en que figuren los descuentos hechos a su favor y el importe de éstos, dentro de los tres días hábiles siguientes a la quincena correspondiente;
 
-El Gobierno del Estado, por conducto del Instituto, y los Ayuntamientos, deberán incorporar en sus procesos de planeación las previsiones que favorezcan la formulación de programas, la realización de acciones y el desarrollo de mecanismos financieros para adquisición de inmuebles que les permitan constituir reservas territoriales para el crecimiento urbano.
+VI.- Enterar al Instituto dentro de los tres días hábiles siguientes a la fecha en que son exigibles, las aportaciones que correspondan a las Entidades a que se refiere esta Ley; en el caso del Gobierno Estatal éstas se harán a través de la Secretaría de Finanzas, la que liquidará al Instituto de las participaciones de las Entidades; y
 
-###### ARTÍCULO 38.
+VII.- Expedir los certificados e informes que con respecto a la aplicación de la presente Ley soliciten tanto el Instituto como los interesados legítimos.
 
-Cuando para satisfacer las necesidades en materia de desarrollo urbano, asentamientos humanos u ordenamiento territorial, se requiera de terrenos nacionales, ejidales o comunales, el Estado por conducto del Instituto y los Ayuntamientos, en su caso, harán las gestiones correspondientes con objeto de adquirir las reservas para el crecimiento urbano.
+A los enteros de que tratan las fracciones IV y VI del presente Artículo que no sean cubiertas a su vencimiento por las entidades, se les aplicará una tasa moratoria de dos veces al Costo Promedio Porcentual mensual vigente en los días en que se incurra en mora hasta en tanto se cubran.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+###### ARTICULO 37.
 
-###### ARTÍCULO 39.
+El sueldo base de cotización será aquel con el que la Entidad afilie al Instituto a los servidores públicos de su adscripción, de conformidad con el tabulador de salarios establecidos en su propio presupuesto, mismo que no podrá ser inferior a un salario mínimo general vigente en el Estado, a excepción del caso de los pensionistas que cotizarán de acuerdo al monto de la pensión que disfruten. Dicho sueldo será la base para el cálculo de las aportaciones y el otorgamiento de las prestaciones a que se refiere esta Ley.
 
-Cuando se trate de predios de origen ejidal y se pretenda hacer la primera venta, es obligatorio agotar el derecho de preferencia que corresponde al Gobierno del Estado, tutelado en la Ley General de Asentamientos Humanos y previsto en la Ley Agraria. Para tal efecto, se deberá recabar la opinión del Instituto, y del Ayuntamiento que corresponda de acuerdo a la ubicación del predio objeto de la operación pretendida, debiendo éstos emitir en forma escrita e indubitable su interés en adquirir dicho predio en un término no mayor de 30 días naturales contados a partir del día siguiente en que se efectúe la notificación correspondiente; en caso de no producirse la respuesta, se entenderá que no se tiene interés en adquirir dicho predio.
+###### ARTICULO 38.
 
-###### ARTÍCULO 40.
+Los servidores públicos designados por cada entidad para el cumplimiento de las obligaciones a que se contrae el Artículo 36, serán responsables de los daños y perjuicios que ocasionen con acciones y omisiones al Instituto o a los servidores públicos en los términos de esta Ley, independientemente de la responsabilidad civil, penal o administrativa que proceda.
 
-1. El Estado y los Ayuntamientos podrán transmitir a organismos públicos cuyo objeto sea la ejecución de programas y actividades de interés colectivo, la reserva territorial suficiente para su desarrollo.
+###### ARTICULO 39.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Los servidores públicos están obligados a proporcionar al Instituto y a las entidades a las que se encuentren adscritos:
 
-2. (DEROGADO SEGUNDO PARRAFO, P.O. 5 DE JUNIO DE 2008)
+I.- Los nombres de los familiares que deben disfrutar de los servicios de atención a la salud que esta Ley les concede;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+II.- Las cartas testamentarias por las que designen beneficiarios de los seguros de gastos funerarios y de defunción; y
 
-3. (DEROGADO TERCER PARRAFO, P.O. 5 DE JUNIO DE 2008)
+III.- Los documentos e informes que se les pidan, relacionados con la aplicación de esta Ley.
 
-###### ARTÍCULO 41.
+Las designaciones a que se refiere la fracción II de este Artículo, podrán, en todo tiempo, ser sustituidas por otras a voluntad del servidor público, dentro de las limitaciones establecidas por esta Ley.
 
-1. Es de utilidad pública la adquisición de bienes inmuebles que el Estado o los municipios realicen para la creación de reservas territoriales destinadas al crecimiento urbano ordenado, a fin de satisfacer las necesidades de suelo para la fundación, conservación, mejoramiento y crecimiento de las áreas urbanizadas, así como para el fomento de la vivienda, su infraestructura y equipamiento.
+A efecto de prevenir riesgos de trabajo, los servidores públicos podrán, en caso de que así lo consientan, ser examinados médicamente por el Instituto, y presentarse a exámenes subsiguientes para el seguimiento de su expediente.
 
-2. El Estado y los Ayuntamientos deberán considerar la adquisición de reservas territoriales, de acuerdo a lo previsto en el Sistema Estatal.
+Los trabajadores tendrán derecho a exigir a las entidades el estricto cumplimiento de las obligaciones que les impone el Artículo 36 de esta Ley, asimismo podrán solicitar al Instituto, personal e individualmente, su inscripción y comunicar previa comprobación, las modificaciones a su sueldo base de cotización. Lo anterior no libera a las entidades del cumplimiento de sus obligaciones ni las exime de las sanciones y responsabilidades en que hubieren incurrido.
 
-###### ARTÍCULO 42.
+###### ARTICULO 40.
 
-Corresponde al Estado y a los Ayuntamientos realizar programas y acciones que faciliten la adquisición de bienes inmuebles en áreas urbanas o de aprovechamiento, para la construcción de vivienda de interés social.
+Para que los servidores públicos y sus beneficiarios puedan disfrutar de las prestaciones de seguridad y servicios sociales que les correspondan, deberán cumplir con los requisitos que esta Ley establece.
 
-###### ARTÍCULO 43.
+###### ARTICULO 41.
 
-1. Con base en los programas previstos por esta ley, las dependencias y entidades de la administración pública estatal y municipal, formularán sus requerimientos inmobiliarios.
+El Instituto, previo acuerdo de la Junta Directiva, podrá incorporar a los trabajadores de las entidades federales que por convenio celebrado con el Ejecutivo del Estado transfieran sus servicios a la Administración Pública del Estado, a fin de que éstos y sus familiares derechohabientes reciban las prestaciones y servicios que establece esta Ley.
 
-2. Al efecto, actuarán con base en criterios de programación de las solicitudes. Estas contendrán los lugares y superficies de bienes inmuebles necesarios para la realización de sus programas, beneficiarios, tipo de acciones, costos y medios de financiamiento.
+Previamente a la incorporación con reconocimiento de antigüedad, se deberá realizar el pago del capital constitutivo necesario para el puntual cumplimiento de las prestaciones de seguridad y servicios sociales que este ordenamiento establece, incluyendo los gastos de administración de acuerdo a lo que señala el estudio actuarial.
 
-###### ARTÍCULO 44.
+Para efectos de esta Ley se entenderá por capital constitutivo, el cálculo actuarial equivalente al valor presente de los pagos adicionales que por concepto de prestaciones, se espera reciba el servidor público por parte del Instituto por el hecho de reconocerle la antigüedad.
 
-El Estado podrá transmitir al Instituto y a los Municipios, áreas y predios para la fundación, conservación, mejoramiento y crecimiento de las áreas urbanas, en los términos de ley.
+El cálculo del capital constitutivo deberá considerar la aportación a la cuenta de ahorro individual para el retiro que obligatoriamente corresponda para estos efectos y que será equivalente al factor que resulte de multiplicar los años de antigüedad a reconocer, por el porcentaje establecido en el Artículo 128, fracción I, inciso a) de esta Ley, factor que se aplicará al sueldo base de cotización anual del servidor público a la fecha de afiliación al Instituto.
 
-###### ARTÍCULO 45.
+No procederá la incorporación de los servidores públicos a que se refiere este Artículo, cuando de manera previsible, ésta pueda comprometer el equilibrio financiero del Instituto o la eficacia de los servicios que se proporcionan a los derecho-habientes a que se refiere el Artículo 2° de esta Ley.
 
-La enajenación de los predios por parte de la administración pública estatal o municipal, cuya finalidad sea el uso habitacional, atenderá preferentemente las necesidades de suelo de la población de bajos ingresos.
+###### ARTICULO 42.
 
-## TÍTULO VI. FOMENTO AL DESARROLLO URBANO
+La separación del trabajo por licencia sin goce de sueldo no se computará como tiempo de aportación, excepto en los casos que esta Ley señala, mismos sobre los que decidirá la Junta Directiva, y en los que se continúe cubriendo tanto las aportaciones propias como aquéllas que correspondan a las entidades.
 
-###### ARTÍCULO 46.
+###### ARTICULO 43.
 
-El Estado y los Ayuntamientos fomentarán la coordinación y la concertación de acciones e inversiones entre los sectores público, social y privado para:
+Cuando no se hayan hecho los descuentos a los servidores públicos que el Instituto hubiera requerido conforme a esta Ley, éste solicitará a las entidades descontar hasta por un monto que sumado a los demás descuentos, no exceda del cincuenta por ciento del sueldo base de cotización, a menos que el servidor público solicite al Instituto y obtenga éste, mayores facilidades para el pago.
 
-I. La aplicación de los programas previstos en esta ley;
+###### ARTICULO 44.
 
-II. El establecimiento de mecanismos e instrumentos financieros para el ordenamiento territorial y la conservación del ambiente; el desarrollo regional y urbano, y la vivienda;
+Los servidores públicos que hagan sus aportaciones al Instituto, no adquieren derecho alguno ni individual, ni colectivo sobre el patrimonio del Instituto, sino sólo a disfrutar de las prestaciones de seguridad y servicios sociales que esta Ley concede.
 
-III. La canalización de inversiones en reservas territoriales;
+###### ARTICULO 45.
 
-IV. La satisfacción de las necesidades complementarias en la infraestructura, equipamiento y servicios urbanos generados por las inversiones y obras estatales y municipales;
+Las indemnizaciones, pensiones vencidas y cualquier otra prestación a cargo del Instituto, que no se cobren dentro de los dos años siguientes a la fecha en que hubieran sido exigibles, prescribirán en favor del Instituto.
 
-V. La protección del patrimonio histórico, arquitectónico, vernáculo, artístico, natural y cultural;
+###### ARTICULO 46.
 
-VI. La homologación de criterios entre los Ayuntamientos, y la simplificación de trámites administrativos que se requieran para la ejecución de acciones e inversiones de desarrollo urbano, así como de vivienda de interés social;
+La Secretaría de Finanzas del Estado en auxilio del Instituto podrá efectuar los cobros de los créditos vencidos en favor del mismo, realizando la retención de los adeudos correspondientes. En el caso de los Municipios, la retención de los adeudos se efectuará de conformidad a la legislación en materia de coordinación fiscal entre Estado y Municipios.
 
-VII. El fortalecimiento de las administraciones públicas estatal y municipales en materia de desarrollo urbano;
+### CAPITULO III. De la Atención a la Salud
 
-VIII. La modernización de los sistemas catastrales y de registro de la propiedad inmobiliaria;
+#### SECCION PRIMERA. Generalidades
 
-IX. La adecuación y actualización de las disposiciones jurídicas locales en materia de desarrollo urbano;
+###### ARTICULO 47.
 
-X. El impulso a la educación, la investigación y la capacitación en materia de desarrollo sustentable;
+El Instituto prestará, directa o indirectamente, los servicios que tiene encomendados en materia de atención a la salud a los servidores públicos, pensionistas y familiares beneficiarios, previo convenio que celebre para tales efectos, con instituciones públicas o particulares. El Instituto podrá autorizar a las Entidades, previa solicitud por escrito, para que éstas celebren convenios con las instituciones antes señaladas, siempre bajo la vigilancia y supervisión del Instituto.
 
-XI. La aplicación de tecnologías que protejan el ambiente, ahorren energía, reduzcan los costos y mejoren la calidad de la urbanización; y
+Los convenios contendrán como requisitos mínimos: la amplitud del servicio subrogado, el plazo de su vigencia, los costos de los servicios, la forma de cubrirlos, las causas y procedimientos de terminación, los informes y estadísticas médicas en la forma y términos que el propio Instituto señale.
 
-XII. La promoción de la construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para la población con discapacidad.
+Los servicios de atención a la salud deberán comprender las siguientes prestaciones según corresponda:
 
-### CAPÍTULO I. DE LAS LICENCIAS DE FRACCIONAMIENTO Y URBANIZACIÓN DEL SUELO
+I.- En los casos de riesgo de trabajo:
 
-###### ARTÍCULO 47.
+a).- Asistencia médica, quirúrgica, farmacéutica y servicios de hospitalización, aparatos de prótesis, ortopedia y rehabilitación.
 
-1. Se podrán determinar áreas o zonas aptas para aplicar instrumentos de fomento para el desarrollo urbano.
+Conforme a lo estipulado en el inciso a) de la fracción II siguiente; y
 
-2. Para tal efecto, el Estado, en coordinación con el Ayuntamiento correspondiente, podrá autorizar la delimitación de polígonos para la ejecución de proyectos en las siguientes áreas:
+II.- En los casos de enfermedades y maternidad:
 
-I. Zonas que tengan terrenos sin construir ubicados dentro del tejido urbano, que cuenten con accesibilidad y servicios donde puedan llevarse a cabo los proyectos de impacto urbano, apoyándose en el programa de fomento económico, que incluyen equipamientos varios y otros usos complementarios;
+a).- Asistencia médico-quirúrgica, farmacéutica, hospitalaria y rehabilitación que sean necesarias, desde el comienzo de la enfermedad y durante el plazo máximo de cincuenta y dos semanas para el mismo padecimiento.
 
-II. Zonas habitacionales de población de bajos ingresos, altos índices de deterioro y carencia de servicios urbanos, con potencial de mejoramiento donde se requiera impulso por parte del sector público para equilibrar sus condiciones y mejorar su integración con el resto de la ciudad;
+En el caso de enfermedades ambulantes cuyo tratamiento curativo no les impida continuar con su trabajo, el tiempo que dure el tratamiento.
 
-III. Zonas factibles de regeneración urbana que cuenten con infraestructura vial y servicios urbanos adecuados;
+b).- Verificado su estado de gravidez, la servidora pública, la cónyuge o concubina de todo servidor público derechohabiente, tendrán derecho a recibir durante el embarazo y el alumbramiento la asistencia médica y quirúrgica que pueda requerir, así como una ayuda en especie para lactancia durante seis meses, conforme a los criterios generales de la institución con la cual se tengan contratados los servicios en materia de atención a la salud.
 
-IV. Zonas industriales deterioradas o abandonadas, donde los procesos productivos deban reconvertirse para ser más competitivos y evitar impactos negativos en el medio ambiente;
+c).- Las demás que se establezcan con las instituciones médicas que se contraten.
 
-V. Zonas de conservación patrimonial que tienen valores históricos, arqueológicos, arquitectónicos y artísticos o típicos, así como las que sin estar formalmente clasificadas como tales, presenten características que requieren atención especial para mantener y elevar sus valores;
+###### ARTICULO 48.
 
-VI. Zonas susceptibles de rescate, cuyas condiciones naturales ya hayan sido alteradas por la presencia de usos inconvenientes o por el manejo indebido de recursos naturales y que requieran de acciones para reestablecer (sic) en lo posible su situación original; en estas áreas se ubican los asentamientos humanos rurales. Las obras que se realicen en dichas zonas se condicionarán a que se lleven a cabo acciones para establecer el equilibrio ambiental;
+El derecho a la prestación a que se refiere el Artículo anterior, adquiere vigencia al darse de alta el servidor público en la entidad de su adscripción y también tendrán derecho a ella los siguientes familiares:
 
-VII. Zonas naturales en cuya extensión no presentan alteraciones graves y que requieren medidas para el control del uso del suelo, así como para desarrollar en ellos actividades que sean compatibles con la función de conservación natural; y
+I.- La esposa o, a falta de ésta, la mujer con quien ha vivido como si lo fuera durante los cinco años anteriores a la enfermedad o con la que haya procreado hijos, siempre que ambos permanezcan libres de matrimonio.
 
-VIII. Zonas destinadas a la producción agropecuaria, piscícola, forestal, agroindustrial y turística.
+Si el servidor público o pensionista tiene varias concubinas, ninguna de ellas tendrá derecho a la prestación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Del mismo derecho gozará cuando se encuentre totalmente incapacitado para trabajar, el esposo de la servidora pública o pensionista, o a falta de éste, el concubinario si reúne los requisitos del párrafo anterior;
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JUNIO DE 2008)</small>
+II.- Los hijos menores de dieciséis años del servidor público o pensionista; y
 
-## TÍTULO VII. ESTRUCTURA VIAL
+III.- Los hijos del servidor público o pensionista hasta la edad de veinticinco años, si están realizando estudios de nivel medio o superior en cualquier rama del conocimiento en planteles del sistema educativo nacional o, si no pueden mantenerse por sí mismos debido a una enfermedad crónica, defecto físico o psíquico, hasta en tanto no desaparezca la incapacidad que padecen.
 
-###### ARTÍCULO 48.
+###### ARTICULO 49.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Al servidor público que se le otorgue el carácter de pensionista deberá continuar gozando de los servicios de atención a la salud brindados por la institución que se tenga contratada para otorgar éstos y el costo de esta prestación será a cargo de la entidad de su última adscripción como servidor público en activo.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+#### SECCION SEGUNDA. Area de Medicina del Trabajo
 
-1. La estructura vial deberá garantizar la capacidad necesaria para poder desplazar personas, bienes y servicios de un lado a otro del territorio estatal, a través de la red de vías públicas y privadas.
+###### ARTICULO 50.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+El Área de Medicina del Trabajo del Instituto, se crea ante la necesidad de contar con un área específica que lo auxilie en el establecimiento de medidas concretas en el renglón de salud en el trabajo, la cual tendrá entre otras las siguientes funciones:
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+I.- Conocer de los riesgos de trabajo que se realicen en las entidades afiliadas al Instituto dentro de los tres días hábiles siguientes al que ocurrió el riesgo, debiendo certificar si el servidor público queda capacitado para continuar con su trabajo al terminar la atención médica, o emitir en su caso la opinión sobre el grado de incapacidad;
 
-2. La dosificación, jerarquías y características de las mismas queda establecida en esta ley y será de observancia obligatoria para todo tipo de desarrollos.
+II.- Realizar la revisión general de cada servidor público que le sea declarada incapacidad permanente total o parcial por riesgos profesionales y no profesionales, debiendo informar de su opinión a la Dirección del Instituto;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+III.- Identificar en la valoración que se haga del servidor público, si ésta se refiere a la función específica de su actividad laboral actual, a fin de ofrecer las alternativas que procedan para la reubicación del servidor público a otro puesto específico, procurando que la patología existente le permita desempeñarlo sin merma de su salud, para lo cual se confrontará y evaluará su invalidez actual con el perfil del puesto a ocupar en la reubicación;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2008)</small>
+IV.- Atender y llevar el control de las incapacidades temporales, siendo obligación de las entidades hacerlas del conocimiento del Instituto a más tardar a los tres días hábiles de su expedición, a fin de seguir mediante historia clínica la salud del servidor público que empiece a mostrar trastornos importantes en la misma;
 
-3. Para efectos de esta ley, las vialidades que conforman la estructura vial se clasifican de la siguiente manera:
+V.- Instruir sobre las medidas de protección e higiene a observar en las diferentes entidades afiliadas al Instituto sobre la prevención de riesgos de trabajo, seguridad de la vida y salud de los servidores públicos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VI.- Colaborar con las entidades y los servidores públicos en la difusión de las normas sobre prevención de riesgos, higiene y seguridad, y
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+VII.- Las demás que le otorgue esta Ley, la Junta Directiva y la Dirección del Instituto.
 
-I. VIALIDAD REGIONAL: Es toda carretera, autopista y libramiento que une distintos asentamientos humanos o evitan el paso a través de ellos, con la sección que determinen las leyes federales, estatales o los acuerdos de la autoridad competente;
+###### ARTICULO 51.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Si derivado de las acciones y recomendaciones del Área de Medicina del Trabajo del Instituto, relativas a las medidas de seguridad e higiene que puedan ocasionar riesgos, las entidades afiliadas deciden no establecer estas medidas, en el momento que así proceda el Instituto otorgará la indemnización o pensión correspondiente a favor del servidor público, cargándole los importes que resulten de estas prestaciones a la entidad a que esté afiliado el servidor público.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+###### ARTICULO 52.
 
-II. VIALIDAD PRIMARIA: Se considera la vía principal que cruza toda o gran parte de la ciudad o zona metropolitana, diseñada para proveer un alto grado de movilidad en viajes largos y da servicio a grandes volúmenes de tránsito. Su derecho de vía mínimo es de cincuenta metros con dos banquetas de cuatro metros cada una, dos calzadas principales de catorce metros y un camellón central de catorce metros. Deberá preverse una vialidad primaria por cada tres mil metros medidos entre sus ejes;
+El Área de Medicina del Trabajo, valorará anualmente a los servidores públicos que hubieran sido reubicados como consecuencia de un riesgo de trabajo, al igual que a los servidores públicos que obtengan el carácter de pensionistas derivado de un riesgo de trabajo o de una invalidez no profesional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Si el resultado de esta valoración arroja mejoría suficiente para el reingreso al servicio en el caso de pensionistas, la pensión quedará suspendida después de que la entidad de su antigua adscripción le identifique y le ofrezca la reubicación. En caso de que la entidad no lo reubique por causas imputables a ella, la pensión se le seguirá otorgando, con cargo a la entidad correspondiente.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+Para los servidores públicos en activo, que se recomiende una reubicación a consecuencia de un riesgo de trabajo o una invalidez no profesional y la entidad no la haya realizado, el aumento de la incapacidad física del servidor público que se genere a la fecha de la valoración del Área de Medicina del Trabajo será pagada con aumento en la pensión o indemnización según proceda y con cargo a la entidad a la que se encuentra adscrito el servidor público.
 
-III. VIALIDAD SECUNDARIA: Es la vía que permite integrar distintas zonas de la ciudad, diseñadas para colectar y distribuir el tránsito y sirven de enlace entre las vías primarias y terciarias. Pueden contar con doble sentido de circulación o un solo sentido de circulación integrada por dos vialidades (par vial), conforme a lo siguiente:
+### CAPITULO IV. Seguro de Riesgos de Trabajo
 
-a) De doble sentido de circulación: Tendrá un derecho de vía de treinta metros con dos banquetas de tres metros cada una, dos calzadas de diez metros de ancho y un camellón de cuatro metros; y
+#### SECCION PRIMERA. Generalidades
 
-b) De un sentido de circulación: Estará formada por dos vialidades que entre sus ejes no tengan más de trescientos metros, con sentidos contrarios de circulación. Tendrá un derecho de vía de veinte metros con dos banquetas de tres metros cada una y una calzada principal de catorce metros.
+###### ARTICULO 53.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-IV. VIALIDAD TERCIARIA: Es la vía de menor jerarquía en la estructura vial para la circulación vehicular; integra barrios y colonias, su principal función es brindar acceso a los predios, por lo que opera con volúmenes de tránsito y velocidad bajos. Cuentan con un derecho de vía de trece metros con banquetas de dos metros cada una, y una calzada de 9 metros para el tránsito de los vehículos, preferentemente de un solo sentido de circulación.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-V. VIALIDAD PEATONAL: Es la vía de uso exclusivo del peatón con un ancho mínimo de seis metros.
-
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2006)</small>
-
-VI. DISPOSICIONES DIVERSAS:
-
-a) Todas las vialidades, de uso vehicular, peatonal o mixto deberán asegurar que los vehículos para la atención de emergencias puedan acceder en todo momento.
-
-b) Las vialidades se diseñarán estructuralmente de acuerdo a las características y especificaciones previstas por la Norma Oficial Mexicana. A falta de lo anterior, se aplicarán los criterios de diseño que la autoridad competente establezca.
-
-c) En caso de que el fraccionamiento que se presenta para autorización se ubique en una zona urbana ya desarrollada, y ésta deba de conectarse a vialidades existentes de cualquier tipo, los trazos de vialidades del nuevo fraccionamiento deberán ser congruentes con las vialidades existentes. Sin embargo, en ningún caso las vialidades del nuevo fraccionamiento podrán tener menos de trece metros de derecho de vía, ni menos de nueve metros de calzada principal para el tránsito de los vehículos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-d) En caso de existir calles cerradas en los fraccionamientos habitacionales, deberá preverse la construcción del retorno en el extremo de la misma, el cual deberá diseñarse geométricamente con un círculo de radio de nueve metros, que permita realizar dicha maniobra a los vehículos ligeros; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-e) Las vialidades que se construyan en fraccionamientos industriales deberán ser adecuados para la circulación de vehículos pesados, considerando a estos por el conjunto de una cabina-tractor y un semi-remolque.
-
-## TÍTULO VIII. DE LOS FRACCIONAMIENTOS, DIVISIONES, SUBDIVISIONES, FUSIONES Y RELOTIFICACIONES DEL SUELO
-
-###### ARTÍCULO 49.
-
-Los fraccionamientos podrán ser de los siguientes tipos:
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2008)</small>
-
-I. HABITACIONAL: Es aquel cuyos lotes se aprovecharán predominantemente para vivienda y que deberán ser urbanizados en su totalidad. Los fraccionamientos habitacionales, en cualquier régimen de propiedad, podrán ser de acceso controlado, debiéndose sujetar a las siguientes reglas:
-
-a) Podrán construir caseta de vigilancia en terreno propiedad del fraccionador, con excepción de cuando ésta se construye en el camellón de la vialidad de acceso, en cuyo caso el camellón deberá tener cuando menos dos metros de ancho en el sitio de edificación;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-b) No podrán impedir el libre paso de personas y vehículos, salvo que el fraccionamiento se encuentre bajo el régimen de propiedad en condominio;
-
-c) Se permitirán como máximo ciento cincuenta lotes por cada carril de salida del fraccionamiento.
-
-Cuando en una sola salida exista más de un carril, el fraccionador estará obligado a instalar, por su cuenta, un semáforo para el control del tráfico vehicular. Para el caso de salidas de más de un carril, el Ayuntamiento dictaminará sobre la procedencia, evaluando la conveniencia de la instalación del semáforo de acuerdo a la infraestructura vial existente; y
-
-d) Se asumirá por el fraccionador la responsabilidad de construir las banquetas y el sistema de alumbrado público en el espacio público exterior colindante con su fraccionamiento. Adicionalmente, deberá aportar la parte proporcional de pavimentos que le corresponda.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-e) En caso de que colinden a una o más vías públicas, deberán contar con lotes urbanizados de por lo menos quince metros de fondo al frente de las mismas, pudiendo construir su barda después del fondo de estos lotes, no permitiéndose la construcción de bardas frente a las vías públicas;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-f) No se permitirán más de cincuenta viviendas por cada desarrollo; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-g) Siempre deberán respetar la traza urbana de conformidad al artículo 48 de esta misma ley.
-
-II. HABITACIONAL POPULAR: Es aquel predominantemente habitacional que se localiza en zonas previstas en los programas para densidad alta, a fin de atender preferentemente a la población de menores ingresos. Podrán ser de urbanización secuencial y sólo serán enajenados por organismos federales, estatales o municipales. Las autoridades estatales o municipales podrán suscribir convenios con los particulares, para que estos últimos desarrollen este tipo de fraccionamientos, reservándose en todo momento las autoridades que suscriban los convenios la comercialización de los lotes resultantes.
-
-En los casos de los fraccionamientos habitacional y habitacional popular, los frentes tendrán un frente de cuando menos seis metros.
-
-III. CAMPESTRE: Es aquel que se desarrolla fuera del área urbana. Deberá observar lo siguiente:
-
-a) Los lotes tendrán un frente de cuando menos veinticinco metros, y una superficie de dos mil quinientos metros cuadrados, como mínimo;
-
-b) Las vialidades tendrán un derecho de vía mínimo de quince metros, y el arroyo de la vialidad no será menor a siete metros de sección transversal; y
-
-c) Deberá contar con sistema de abastecimiento y red de distribución de agua potable, así como con red de distribución de energía eléctrica.
-
-IV. INDUSTRIAL: Es aquel cuyos lotes se destinen predominantemente para el establecimiento de fábricas e industrias, o en donde se realicen en general funciones de producción, extracción, explotación, transformación y distribución de bienes y servicios. Deberá observar lo siguiente:
-
-a). Se deberán realizar totalmente las obras de urbanización e instalación de servicios públicos necesarios para el adecuado desarrollo y funcionamiento del tipo de industria al que estén destinados;
-
-b). Cumplir con las medidas de mitigación del impacto ambiental dictadas en el resolutivo correspondiente.
-
-V. TURÍSTICO: Es aquel en el cual los usos y destinos del suelo quedarán sujetos a la aprobación de un programa parcial que establecerá las zonas de aprovechamiento para la recreación y el equipamiento, así como para la construcción de inmuebles que presten el servicio de hospedaje, en cualquiera de sus modalidades y regímenes de propiedad. Además, el programa deberá establecer las áreas destinadas para servicios diversos y la ubicación de los accesos públicos. Su autorización requiere de estudios complementarios en materia de impacto ambiental, así como los resolutivos correspondientes.
-
-VI. CEMENTERIO: Es aquel bajo el régimen de propiedad privada, destinado a recibir y alojar cadáveres, restos humanos áridos o cremados. Para su establecimiento deberá contarse con el otorgamiento de la concesión respectiva del Ayuntamiento en términos del Código Municipal para el Estado, al tiempo de satisfacerse los requisitos señalados en las leyes sanitarias.
-
-Corresponde al Ayuntamiento establecer los lineamientos correspondientes al establecimiento de cementerios. Conforme a los planos y especificaciones que se autoricen y dentro del plazo determinado por dicha autoridad quienes los realicen están obligados a cumplir lo siguiente:
-
-a) Destinar áreas para:
-
-1) Vías internas de circulación vehicular;
-
-2) Andadores;
-
-3) Estacionamiento de vehículos;
-
-4) Franjas de separación entre fosas;
-
-5) Instalación de servicios generales; y
-
-6) Franja perimetral de amortiguamiento de diez metros de ancho como mínimo.
-
-b) Instalar, en forma adecuada a los fines del cementerio, los servicios de agua potable y drenaje; energía eléctrica, y alumbrado, así como la pavimentación de las vías internas de circulación de peatones, vehículos y áreas de estacionamiento;
-
-c) Instalar servicios sanitarios para uso del público;
-
-d) Sembrar árboles en la franja perimetral y las vías internas de vehículos, en su caso; y
-
-e) Transmitir gratuitamente, sin condición, reserva o limitación alguna, a favor del municipio correspondiente, el diez por ciento de las fosas proyectadas.
-
-No podrán transmitirse en propiedad u otorgarse en posesión a los particulares, las áreas previstas en el inciso a) del segundo párrafo de esta fracción.
-
-Los cementerios públicos, ubicados tanto en el área urbana como en la rural, éstos no estarán sujetos a las disposiciones de este artículo. En todo caso, deberán cumplir con las disposiciones sanitarias y ser aprobados, en cuanto, a su ubicación y lotificación, por el Ayuntamiento.
-
-VII. ESPECIAL: Es aquel que por su localización, topografía, diseño, densidad, usos y destinos del suelo propuestos o fin social justificado, podrá tener características particulares que sean procedentes de acuerdo a la ley. Requieren de estudios complementarios y los resolutivos correspondientes; en todo caso deberá garantizarse el acceso de los servicios de emergencia al fraccionamiento.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
-
-###### ARTÍCULO 50.
-
-Cuando se trate de fraccionamientos, condominios de cualquier tipo, divisiones, subdivisiones o relotificaciones del suelo, en ningún caso se permitirán lotes con un frente menor de seis metros lineales y superficies menores de 96 metros cuadrados.
-
-###### ARTÍCULO 51.
-
-El procedimiento para desarrollar el fraccionamiento de un predio es el siguiente:
-
-I. ETAPA 1.- USO DEL SUELO Y LlNEAMIENTOS URBANÍSTICOS: El. fraccionador deberá obtener el certificado de uso de suelo y los lineamientos urbanísticos aplicables conforme a lo previsto por el Programa Municipal.
-
-Al efecto, el fraccionador presentará ante la autoridad municipal la siguiente documentación:
-
-a) Solicitud de certificado de uso del suelo;
-
-b) Copia certificada del título que acredite la propiedad del predio, inscrito en el Registro Público de la Propiedad y del Comercio;
-
-c) Certificado de libertad de gravamen con no más de treinta días desde su expedición;
-
-d) Documento que acredite su personalidad jurídica;
-
-e) Plano del predio con el señalamiento de su posición respecto a la red geodésica;
-
-f) Certificado de factibilidad de servicios públicos expedido por la autoridad u organismo a cargo de su prestación. En el caso de servicios autónomos, deberán presentar propuesta de solución autorizada por el organismo que corresponda;
-
-g) Documento que acredite estar al corriente en el pago de los impuestos y derechos a los que esté sujeto el predio; y
-
-h) Pago de los derechos correspondientes.
-
-No se iniciará trámite de la solicitud de fraccionamiento, en ninguna de las etapas establecidas en este precepto, si las personas físicas o morales que son propietarias de un inmueble que esté invadido, no acreditan haber presentado denuncia o querella en contra de los presuntos invasores.
-
-El certificado de uso de suelo y los lineamientos urbanísticos, tendrán vigencia de un año a partir de la fecha de notificación.
-
-Los lineamientos urbanísticos deben contener lo siguiente:
-
-a) Superficie del terreno;
-
-b) Alineamientos viales y derechos de vía;
-
-c) Derechos de vía de infraestructura;
-
-d) Nivel de rasantes;
-
-e) Superficie de cesión de suelo para destinos y localización del mismo;
-
-f) Usos del suelo predominantes y compatibles, e indicaciones sobre su zonificación; incluyendo la densidad propuesta en los usos habitacionales;
-
-g) Frente mínimo de lotes por usos; y
-
-h) Criterios para plantar árboles en las áreas públicas;
-
-II. ETAPA 2.- LOTIFICACIÓN: Con base en los lineamientos urbanísticos, el fraccionador presentará el proyecto del fraccionamiento con las vialidades y los sentidos de circulación, rasantes, Iotificación, área vendible, áreas de cesión y afectaciones, en su caso, tanto por condiciones naturales, como por destinos previstos en los programas vigentes de desarrollo urbano. La dependencia u oficina municipal competente, emitirá dictamen para someterlo a la aprobación del Ayuntamiento. Esta autorización quedará sin efecto en caso de que al término de un año, el fraccionador no concluya el trámite señalado en la misma.
-
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
-
-El fraccionador deberá registrar en el Sistema Estatal, el proyecto de fraccionamiento autorizado por el Ayuntamiento, debiendo además sujetarse a lo establecido en el artículo 69 de esta Ley.
-
-III. ETAPA 3.- PROYECTO EJECUTIVO Y VENTAS: El fraccionador deberá presentar lo siguiente:
-
-a) Proyecto de lotificación;
-
-b) Proyecto de señalización, incluyendo nomenclatura de calles;
-
-c) Proyecto de la red de agua potable;
-
-d) Proyecto de la red de alcantarillado sanitario;
-
-e) Proyecto de la red de electrificación;
-
-f) Proyecto de alumbrado público;
-
-g) Estudio de mecánica de suelos y diseño de pavimentos;
-
-h) Proyecto de drenaje pluvial;
-
-i) Proyecto de la red de telefonía y, en su caso, de televisión por cable;
-
-j) Presupuesto de la urbanización total o por etapas, y programa de ejecución;
-
-k) Garantía del diez por ciento del valor de las obras a ejecutar para urbanizar y equipar el desarrollo motivo de autorización. La autoridad municipal definirá la forma de garantía, ya sea mediante fianza, depósito, cheque bancario, bien inmueble, u otro que considere aceptable.
-
-El valor de la garantía podrá ser actualizado semestralmente en caso de que el Municipio recepcione parcialmente infraestructura ya construida, de forma tal que el desarrollador entregue una nueva garantía solamente por el valor de la infraestructura aún no construida. Sin embargo, la garantía en ningún momento será por un valor menor al treinta por ciento de la garantía que se haya exigido originalmente al desarrollador.
-
-l) Solicitud de autorización de ventas.
-
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
-
-El fraccionador podrá pedir se le autorice urbanizar por etapas. En este caso de urbanización, la garantía a la que se refiere el inciso k) del párrafo anterior equivaldrá al costo total de las obras de infraestructura de la etapa de que se trate, pero no será menor del treinta por ciento del monto original.
-
-Los planos deberán tener la autorización de los organismos correspondientes debiendo contener el nombre y el cargo de quien o quienes autorizan, las firmas autógrafas y el sello del organismo, y estar firmados por el propietario.
-
-La autoridad municipal expedirá la autorización del proyecto ejecutivo, anexando un juego de planos firmados y sellados, los cuales forman parte integrante de la misma.
-
-La autoridad municipal expedirá, documento resolutivo de autorización de ventas en el cual se haga constar el cumplimiento de las condiciones establecidas en esta ley.
-
-El fraccionador deberá conservar en buen estado las obras de urbanización hasta su entrega al municipio u organismos públicos que correspondan, cubriendo mientras tanto los gastos que se deriven por el servicio de limpieza y alumbrado públicos.
-
-En las urbanizaciones por etapas, el fraccionador podrá solicitar la recepción de cada etapa concluida.
-
-###### ARTÍCULO 52.
-
-Son obligaciones del fraccionador las siguientes:
-
-I. Ceder a título gratuito al Municipio las superficies de terreno determinadas como vías públicas en el proyecto del fraccionamiento;
-
-II. Ceder a favor del Municipio dentro del fraccionamiento como destino para área pública, el quince por ciento calculado sobre el área vendible. Esta área será inalienable, inembargable, imprescriptible e intransmisible. El sesenta por ciento del suelo cedido deberá destinarse para áreas verdes que serán utilizadas como parques, jardines, plazas públicas u otros usos relativos al esparcimiento; el cuarenta por ciento restante deberá destinarse para el equipamiento urbano de interés público, como el relacionado con servicios de educación, salud, deporte, cultura y seguridad pública, entre otros. Como excepción a lo antes citado en esta misma fracción, cuando se trate de organismos o instituciones públicas del Estado, cuyos fines estén relacionados con los usos a que se refiere esta fracción, se podrá transmitir la propiedad de las superficies de equipamiento que se autoricen por el Ayuntamiento, y que en todo caso se justifiquen como estrictamente necesarias para su funcionamiento.
-
-En las vialidades podrán considerarse como áreas de donación los camellones cuando tengan un ancho mínimo de seis metros. Para que esta disposición sea aplicable se deberá observar lo siguiente:
-
-a) La totalidad de los camellones deberán entregarse habilitados con jardinería y/o pisos para uso peatonal.
-
-b) Solamente el cincuenta por ciento de la superficie de los camellones será abonada como área de donación.
-
-c) El área de camellones que se considere área de donación, no podrá exceder del veinte por ciento del área de donación total que deba de ceder el fraccionador al municipio.
-
-III. El área de cesión se ubicará preferentemente en un sólo polígono, deberá entregarse con topografía y condiciones apropiadas para su uso. Cuando el área de donación sea menor de mil metros cuadrados será obligatorio que se contenga en un solo polígono;
-
-IV. El fraccionador deberá habilitar, el área verde cedida, cumpliendo con los siguientes alcances mínimos:
-
-a) Banqueta perimetral;
-
-b) Iluminación
-
-c) Instalación de juegos infantiles; y
-
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
-
-d) Un árbol por cada sesenta metros cuadrados de superficie. Los árboles deberán tener una altura mínima de un metro con cincuenta centímetros; y (sic)
-
-V.- En contraparte a las obligaciones señaladas en la fracción IV de este artículo, el desarrollador solicitará por escrito a la autoridad municipal la recepción de dichas áreas. En caso de no existir causa justificada que la autoridad municipal notifique por escrito al desarrollador, será el Ayuntamiento el responsable de dar mantenimiento a las áreas referidas, quedando el desarrollador en todo caso obligado a garantizar la reparación de deficiencias que pudiesen surgir, atendiendo para ello los criterios de garantía que se señalan en esta misma Ley. El plazo para que el Ayuntamiento reciba o en su caso señale observaciones, es de quince días calendario a partir de presentada la solicitud;
-
-VI. Cuando el polígono del terreno a desarrollar como fraccionamiento tenga una superficie igual o mayor a treinta hectáreas, el desarrollador tendrá el derecho de diseñar bajo criterios flexibles, siempre que cumpla con los siguientes requisitos:
-
-a). El área de cesión no podrá ser menor al diez por ciento del área vendible.
-
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
-
-b) El área vendible final, ya restada el área de cesión, no podrá exceder del 53% de la superficie total del polígono desarrollado. No aplica esta restricción en caso de que el área de cesión sea cuando menos equivalente al 15% del área vendible.
-
-c) Deberá cumplir con los lineamientos urbanísticos en materia de vialidades y frente mínimo de lote, señalados en esta misma Ley; y
-
-d) En caso de que el área de cesión se proponga en más de un polígono, ninguno deberá tener menos de siete mil quinientos metros cuadrados, con excepción de la superficie de camellones a que se refiere la fracción II de este mismo artículo.
-
-### CAPÍTULO II
-
-DE LAS AUTORIZACIONES DE DIVISIONES, SUBDIVISIONES, FUSIONES, Y RELOTIFICACIONES.
-
-###### ARTÍCULO 53.
-
-1. El Ayuntamiento supervisará el proceso de ejecución de las obras de urbanización establecidas en la autorización de un fraccionamiento.
-
-2. La constancia de terminación total o parcial de obras se extenderá al concluir la urbanización y la habilitación del área verde.
+Para los efectos de esta Ley se entenderán como riesgos de trabajo los accidentes y enfermedades a que se encuentran expuestos los servidores públicos en el ejercicio o con motivo del trabajo.
 
 ###### ARTICULO 54.
 
-La contratación del servicio de energía eléctrica para el alumbrado público podrá hacerse solamente cuando el fraccionador haya obtenido la constancia de terminación de obras del área que pretende iluminar.
+Se considerarán para efectos de esta Ley:
 
-###### ARTÍCULO 55.
+I.- Accidentes de trabajo: Toda lesión orgánica o perturbación funcional, inmediata o posterior, o la muerte producida repentinamente en el ejercicio o con motivo del trabajo, cualquiera que sea el lugar y el tiempo en que se preste; así como aquéllos que ocurran al trabajador al trasladarse directamente de su domicilio al lugar en que desempeñe su trabajo o viceversa;
 
-Una vez expedida por el Ayuntamiento la autorización para celebrar operaciones tendientes a la enajenación de la propiedad, el fraccionador deberá dar aviso a la oficina de catastro para la identificación de los lotes.
+II.- Enfermedad de trabajo: Todo estado patológico derivado de la acción continua de una causa que tenga su origen o motivo en la actividad o en el medio en que el servidor público se vea obligado a prestar sus servicios;
 
-###### ARTÍCULO 56.
+III.- Incapacidad temporal: Es la pérdida de facultades o aptitudes que imposibilita parcial o totalmente a una persona para desempeñar su trabajo por algún tiempo;
 
-1. Para transferir los derechos y obligaciones sobre un fraccionamiento, el propietario deberá contar con la autorización por escrito del Ayuntamiento.
+IV.- Incapacidad permanente parcial: Es la disminución de las facultades o aptitudes de un servidor público para realizar sus actividades; y
 
-2. Quien adquiera los derechos y obligaciones referidos en el párrafo anterior, además de manifestar por escrito su anuencia se subrogará en el disfrute de unos y el cumplimiento de otras y deberá cumplir las condiciones y requisitos establecidos en la autorización del fraccionamiento.
+V.- Incapacidad permanente total: Es la pérdida de facultades o aptitudes de un servidor público que lo imposibilita para desempeñar sus actividades por el resto de su vida.
 
-###### ARTÍCULO 57.
+###### ARTICULO 55.
 
-El fraccionador podrá solicitar prórrogas a la autoridad municipal para el cumplimiento de sus obligaciones, así como para la reducción de las garantías otorgadas, mediante la presentación de la siguiente documentación:
+Para efectos de esta Ley se adopta la tabla de enfermedades de trabajo que establece la Ley Federal del Trabajo en su Artículo 513.
 
-I. Solicitud de prórroga o de reducción de garantías, o de ambas si ese fuera el caso, en la que se expongan los motivos de la misma;
+###### ARTICULO 56.
 
-II. Copia del acuerdo del antecedente inmediato en caso de haberlo;
+Para los efectos de esta Ley se adopta la tabla de valuaciones de incapacidades permanentes, establecida en el Artículo 514 de la Ley Federal del Trabajo.
 
-III. Programa y presupuesto de obras;
+###### ARTICULO 57.
 
-IV. Constancia del avance de obras; y
+No se consideran riesgos de trabajo:
 
-V. Constancia que acredite la personalidad jurídica.
+I.- Si el accidente ocurre encontrándose el servidor público en estado de embriaguez;
 
-###### ARTÍCULO 58.
+II.- Si el accidente ocurre encontrándose el servidor público bajo la acción de algún narcótico o droga enervante, salvo que exista prescripción médica y que el servidor público hubiera puesto el hecho en conocimiento del jefe inmediato presentándole la prescripción suscrita por el médico;
 
-Si autorizado un fraccionamiento se presenta alguna controversia de carácter judicial sobre el derecho de propiedad del inmueble objeto del mismo, la autoridad municipal ordenará la suspensión, tanto de las ventas como de las obras, mientras se dicte por la autoridad jurisdiccional correspondiente la resolución definitiva que resuelva la controversia.
+III.- Si el servidor público se ocasiona intencionalmente una lesión por sí o de acuerdo con otra persona;
 
-###### ARTÍCULO 59.
+IV.- Los que sean resultado de un intento de suicidio o efecto de una riña en que hubiera participado el servidor público u originados por algún delito cometido por éste; y
 
-Para obtener la constancia de terminación de obras y liberación de garantías, el interesado deberá presentar ante el Ayuntamiento la siguiente documentación:
+V.- Cuando la incapacidad tenga su origen en actividades ajenas a las encomendadas al servidor público por la entidad de su adscripción.
 
-I. Solicitud de la constancia;
+#### SECCION SEGUNDA. De las Prestaciones
 
-II. Copia del acuerdo de autorización de ventas inscrito en el Registro Público de la Propiedad y del Comercio;
+###### ARTICULO 58.
 
-III. Garantía suficiente por dos años que respalde la calidad de pavimentos, guarniciones, banquetas, redes de agua potable, sistema de alumbrado público y redes de alcantarillado y drenaje pluvial en su caso;
+Los riesgos de trabajo serán calificados técnicamente por el Instituto o por la instancia que éste designe para tal efecto; debiendo ser conocidos dentro de los tres días hábiles siguientes al que ocurrió el riesgo por el Área de Medicina del Trabajo, dependiente del Instituto, misma que ratificará o rectificará la calificación de los riesgos, así como las posibles secuelas que pudieran resultar; lo anterior mediante la evaluación de los documentos correspondientes y la valoración clínica al servidor público. Si el afectado se inconforma con la calificación del Instituto podrá designar un perito médico para que dictamine a su vez. En caso de desacuerdo entre las calificaciones, el Instituto propondrá al servidor público una terna de especialistas de notorio prestigio profesional para que de entre ellos elija uno, quien resolverá en forma definitiva, en la inteligencia de que el dictamen de éste será inapelable y por lo tanto obligatorio para el interesado y para el Instituto.
 
-IV. Copias de los recibos del pago de las contribuciones correspondientes;
+###### ARTICULO 59.
 
-V. Constancia que acredite la personalidad jurídica; y
+Independientemente de las prestaciones a que se refiere el Artículo 47 fracción I de esta Ley, el servidor público tendrá derecho a licencia con goce de sueldo base de cotización, cuando el riesgo de trabajo lo incapacite para desempeñar sus labores.
 
-VI. La que se requiera conforme a las demás disposiciones de carácter general que expidan los Ayuntamientos.
+El pago del sueldo base de cotización se hará desde el primer día de incapacidad y será cubierto por la entidad de adscripción del servidor público, hasta que termine la incapacidad cuando ésta sea temporal o bien hasta que se declare la incapacidad permanente del servidor público. El plazo máximo para determinar si el servidor público está apto para volver al servicio o bien procede declarar su incapacidad permanente será de un año, contando a partir de la fecha en que ocurrió el riesgo y se haya dado el aviso correspondiente al Instituto.
 
-###### ARTÍCULO 60.
+###### ARTICULO 60.
 
-1. Al término de las obras de urbanización de un fraccionamiento, el propietario podrá solicitar a la autoridad municipal la constancia de terminación de obras.
+Al ser declarada una incapacidad permanente parcial, se concederá al incapacitado una pensión calculada conforme a la tabla de valuación de incapacidades del Artículo 56 de esta Ley atendiendo al sueldo base de cotización que percibía el servidor público al ocurrir el riesgo y los aumentos posteriores que correspondan al empleo que desempeñaba hasta determinarse la pensión. El tanto por ciento de la incapacidad se fijará entre el máximo y el mínimo establecido en la tabla de valuación mencionada, teniendo en cuenta la edad del servidor público y la importancia de la incapacidad, según que sea absoluta para el ejercicio de su profesión u oficio, aún cuando quede habilitado para dedicarse a otros o si solamente hubiera disminuido la aptitud para su desempeño.
 
-2. A solicitud del fraccionador y cuando se haya desarrollado un fraccionamiento por etapas, se podrán llevar a cabo entregas parciales del mismo, con la correspondiente liberación parcial de la garantía, siempre y cuando se presente un programa y calendario de trabajo de las obras restantes. El acta servirá como comprobante de la liberación de garantías.
+La suma de dos o más incapacidades permanentes parciales no excederá, para efectos de pensión, del cien por ciento del sueldo base de cotización mayor sobre el cual se calcularon.
 
-###### ARTÍCULO 61.
+Si la incapacidad orgánica funcional del servidor público fuera de hasta el veinte por ciento, se pagará en sustitución de la pensión una indemnización equivalente al importe de siete anualidades de la misma.
 
-Cuando no se cumpla con el programa de obras y la realización en los trabajos o con las especificaciones técnicas relativas, la autoridad municipal calculará el importe de las obras e instalaciones que no se hayan realizado debidamente en el plazo autorizado, con base en los costos oferentes en el momento de efectuar éstas, debiéndose incluir en la misma el importe para la reorganización de la ejecución de las obras. Con base en lo anterior se hará efectiva la garantía otorgada.
+Si la incapacidad orgánica funcional del servidor público resulta superior al veinte por ciento y hasta un cincuenta por ciento, el servidor público podrá optar por recibir la indemnización total y definitiva a que se refiere el párrafo anterior.
 
-###### ARTÍCULO 62.
+###### ARTICULO 61.
 
-Las resoluciones que emita la autoridad municipal dentro del procedimiento para el desarrollo de un fraccionamiento implicaran para el titular de la autorización correspondiente, la posibilidad de llevar a cabo las acciones siguientes:
+Al ser declarada una incapacidad permanente total, se concederá una pensión igual al sueldo base de cotización que venía disfrutando el servidor público al presentarse el riesgo de trabajo, cualquiera que sea el tiempo que hubiere estado en funciones.
 
-I. Cuando se concluya la Etapa 2:
+###### ARTICULO 62.
 
-a) Iniciar las obras relativas al trazo de calles, despalme y movimiento de tierras en general; y
+Al declararse una incapacidad permanente parcial o total se concederá la pensión respectiva con carácter provisional por un período de dos años; en el transcurso de ese período, el Instituto y el afectado tendrán derecho a solicitar la revisión de la incapacidad, con el fin de aumentar, disminuir o revocar la pensión según el caso, una vez transcurrido el plazo señalado, la pensión se considerará como definitiva y su revisión sólo podrá hacerse una vez al año, salvo que existieren pruebas de un cambio substancial en las condiciones de la incapacidad.
 
-b) Iniciar trámites ante las demás dependencias de servicios públicos;
+El servidor público incapacitado está obligado en todo tiempo a someterse a los reconocimientos, tratamientos y demás exámenes médicos que determine el Instituto y la institución médica que preste los servicios.
 
-II. Cuando se concluya la Etapa 3:
+###### ARTICULO 63.
 
-a) Iniciar las obras de urbanización autorizadas;
+Cuando el servidor público fallezca como consecuencia de un riesgo de trabajo, sus beneficiarios gozarán de una pensión equivalente al cien por ciento del sueldo base de cotización que hubiera percibido el servidor público en el momento de ocurrir el fallecimiento.
 
-b) Celebrar contratos o convenios con terceros con el propósito de enajenar la propiedad de los diferentes lotes que componen el fraccionamiento; y
+Para los efectos del cálculo de la pensión se estará a lo dispuesto por esta Ley.
 
-c) Obtener la liberación de la garantía otorgada y de los compromisos contraídos a cargo; en todo caso, subsistirá por dos años la garantía necesaria contra vicios ocultos de pavimento, guarniciones, banquetas, energía eléctrica, alumbrado público, agua potable, alcantarillado y drenaje pluvial.
+###### ARTICULO 64.
 
-###### ARTÍCULO 63.
+El importe de la pensión descrita en el Artículo anterior se distribuirá entre los dependientes económicos del servidor público, de la siguiente manera:
 
-A petición de su propietario, un fraccionamiento podrá ser total o parcialmente rediseñado, mediante el cumplimiento de los requisitos siguientes:
+I.- La cónyuge supérstite, sola o en concurrencia con los hijos, siempre que no viva en concubinato;
 
-I. Solicitud por escrito de cancelación del acuerdo de Cabildo que autorizó la lotificación;
+II.- A falta de la cónyuge supérstite, la concubina sola o en concurrencia con los hijos; siempre que el servidor público o pensionista le hubiere dado el tratamiento de esposa cuando menos durante los últimos cinco años y ambos hayan permanecido libres de matrimonio durante el concubinato.
 
-II. Cancelación de la asignación de claves catastrales;
+Si al morir el servidor público o pensionista tuviere varias concubinas, ninguna tendrá derecho a pensión;
 
-III. Cancelación de la inscripción en el Registro Público de la Propiedad y del Comercio;
+III.- El cónyuge supérstite sólo o en concurrencia con los hijos, siempre que no viva en concubinato y sea mayor de cincuenta y cinco años, o esté incapacitado para trabajar y hubiera dependido económicamente de la esposa servidora pública o pensionista;
 
-IV. Cumplimiento con las disposiciones que marca esta ley de la propuesta para rediseñar el fraccionamiento;
+IV.- A falta del cónyuge supérstite, el concubinario de la servidora pública o pensionista siempre que reúna los requisitos señalados en el primer párrafo de la fracción II y fracción III de este Artículo;
 
-V. No afectación del régimen de propiedad del fraccionamiento con motivo del nuevo proyecto;
+V.- Los hijos menores de dieciocho años si los hay y no hayan contraído matrimonio, o no sean menores pero estén incapacitados o imposibilitados parcial o totalmente para trabajar, o bien que tengan hasta veinticinco años previa comprobación de que están realizando estudios de nivel medio o superior de cualquier rama del conocimiento en planteles oficiales o reconocidos;
 
-VI. No alteración del área donada al municipio en el proyecto original, de forma tal que ésta no se disminuya en ningún caso, pero podrá aceptarse su reubicación dentro del mismo polígono;
+VI.- A falta de hijos, cónyuge, concubina o concubinario, la pensión se entregará a los ascendientes directos; y
 
-VII. Aportación adicional a la superficie objeto de la donación al Ayuntamiento si en el rediseño propuesto resulta una mayor área vendible que en el proyecto original, en proporción al nuevo beneficio esperado, y
+VII.- Los hijos adoptivos sólo tendrán derecho a la pensión por orfandad, cuando la adopción se haya hecho por el trabajador o pensionado antes de haber cumplido cincuenta y cinco años de edad.
 
-VIII. Acreditamiento de la conformidad de los eventuales afectados, cuando con motivo del nuevo proyecto se afecten intereses o derechos de terceros. En caso de omisión por parte del fraccionador, éste asumirá la responsabilidad de todas las consecuencias legales que haya lugar.
+La cantidad total a que tengan derecho los beneficiarios señalados en cada una de las fracciones anteriores, se dividirá por partes iguales entre ellos, cuando fueran varios los beneficiarios de una pensión o alguno de ellos perdiese el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes.
 
-###### ARTÍCULO 64.
+###### ARTICULO 65.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+Además de las pensiones a que se refiere al Artículo anterior, el Instituto pagará una cantidad hasta de seis meses de salario mínimo vigente en el Estado a la fecha del fallecimiento del servidor público.
 
-1. La autorización de divisiones y subdivisiones en predios con superficie de hasta diez mil metros cuadrados que no requieren del trazo de una o más vías públicas para dar acceso a los lotes resultantes, será otorgada por la autoridad municipal y tendrá por objeto aprobar las nuevas superficies de los lotes resultantes.
+Este pago se hará a quien o quienes el servidor público haya designado como beneficiarios en la carta testamentaria respectiva, ante la sola presentación del acta de defunción y los comprobantes fiscales de los gastos del funeral.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+###### ARTICULO 66.
 
-2. Si el predio requiere del trazo de una o más vías públicas para dar acceso a lotes resultantes o cuando la superficie sea mayor de diez mil metros cuadrados, se le dará el tratamiento de fraccionamiento, debiendo el interesado cumplir con los requisitos establecidos en esta ley para su aprobación.
+Si otorgada una pensión aparecen otros dependientes económicos con derecho a la misma, se les hará extensiva, de acuerdo con el porcentaje que les corresponda y percibirán su parte a partir de la fecha en que sea recibida la solicitud en el Instituto, sin que puedan reclamar el pago de las cantidades cobradas por los primeros beneficiarios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+En caso de que dos o más interesados reclamen derecho a pensión como cónyuges supérstites del servidor público o pensionado exhibiendo su respectiva documentación se suspenderá el trámite del beneficio hasta que se defina judicialmente la situación, sin perjuicio de continuar por lo que respecta a los hijos, reservándose una parte de la cuota a quién acredite su derecho como cónyuge supérstite.
 
-3. (DEROGADO TERCER PARRAFO, P.O. 5 DE JUNIO DE 2008)
+Cuando un solicitante, ostentándose como cónyuge supérstite del servidor público o pensionista reclame un beneficio que se haya concedido a otra persona por el mismo concepto, sólo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio que sirvió de base para el otorgamiento de la pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece, se le concederá pensión, la cual percibirá a partir de la fecha en que se reciba la solicitud en el Instituto, sin que tenga derecho a reclamar las cantidades cobradas por el primer beneficiario.
 
-###### ARTÍCULO 65.
+###### ARTICULO 67.
 
-1. La división y subdivisión de terrenos rústicos corresponde:
+Si el hijo pensionado llegara a los dieciocho años y no pudiera mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos o enfermedad psíquica, el pago de la pensión se prorrogará por el tiempo que subsista su inhabilitación. En tal caso, el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que le prescriba la institución que otorgue los servicios médicos, en coordinación con el Área de Medicina del Trabajo del Instituto y a las investigaciones que en cualquier tiempo ordene el Instituto para los efectos de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la pensión.
 
-I. Los terrenos determinados en el programa correspondiente como áreas de aprovechamiento, caso en el cual podrán autorizarse lotes resultantes no menores de cinco hectáreas; y
+###### ARTICULO 68.
 
-II. Los terrenos determinados como áreas de conservación, caso en el cual podrán autorizarse lotes resultantes no menores de diez hectáreas.
+Los derechos a percibir pensión por los familiares beneficiarios del servidor público o pensionado se pierden por alguna de las siguientes causas:
 
-2. Los terrenos rústicos podrán fusionarse sin limitación alguna.
+I.- Llegar a la mayoría de edad los hijos del servidor público o pensionado, salvo lo dispuesto por esta Ley;
 
-###### ARTÍCULO 66.
+II.- Porque la mujer o el varón pensionado contraigan nupcias o llegaran a vivir en concubinato. Al contraer matrimonio la viuda, viudo, concubina o concubinario, recibirán como única y última prestación, el importe de seis meses de la pensión que venían disfrutando, siendo como requisito para obtener esta prestación, avisar al Instituto dentro de los treinta días naturales siguientes a la fecha en que ocurrió, o de lo contrario la prestación quedará sin efectos.
 
-1. La división y subdivisión de terrenos urbanos se podrá realizar en los supuestos siguientes:
+La divorciada no tendrá derecho a la pensión de quien haya sido su cónyuge a menos que a la muerte del servidor público, éste estuviera pagándole pensión alimenticia por condena judicial y siempre que no exista viuda, hijos, concubina y ascendientes con derecho a la misma. Cuando la divorciada disfrutara de la pensión en los términos de este Artículo, perderá dicho derecho si contrae nuevas nupcias, o si viviera en concubinato; y
 
-I. La autorización de divisiones y subdivisiones en predios con superficie de hasta diez mil metros cuadrados que no requiera del trazo de una o más vías públicas o privadas, para dar acceso a cualquiera de los lotes resultantes, será otorgada por la autoridad municipal de acuerdo a la densidad prevista en los programas correspondientes y tendrá por objeto aprobar las nuevas superficies de los lotes resultantes. Para enajenarlos el propietario deberá urbanizarlos totalmente;
+III.- Por fallecimiento. En tal caso, la parte proporcional se distribuirá entre las demás personas que tengan tal derecho.
 
-II. Un predio previamente fraccionado o dividido, podrá ser subdividido, siempre que la superficie o superficies resultantes, o la cantidad de predios resultantes, no generen una densidad mayor de lotes o viviendas por hectárea, de acuerdo a lo establecido en los programas vigentes de desarrollo urbano;
+#### SECCION TERCERA. Area de Seguridad e Higiene
 
-III. Cuando el predio dividido no provenga de un fraccionamiento autorizado, la inscripción del traslado de dominio en el Registro Público de la Propiedad y del Comercio podrá hacerse con la sola presentación de la constancia de urbanización expedida por la autoridad municipal;
+###### ARTICULO 69.
 
-IV. Las fusiones de terrenos urbanos se podrán realizar sin limitación alguna; y
+El Instituto para el cumplimiento de sus fines y con objeto de abatir la incidencia de los riesgos de trabajo, estará facultado para realizar acciones de carácter preventivo, para lo cual las entidades deberán:
 
-V. Las relotificaciones de terrenos urbanos procederán cuando la cantidad de lotes resultantes no rebasen las densidades establecidas en los programas municipales.
+I.- Facilitar la realización de estudios e investigaciones sobre accidentes y enfermedades de trabajo;
 
-2. En caso de que la relotificación no se refiera a lotes de un fraccionamiento previamente autorizado y se pretenda incrementar la densidad de lotes o viviendas por hectárea, para obtener la autorización se deberá presentar la factibilidad de servicios de agua potable, alcantarillado sanitario y energía eléctrica, garantizando la urbanización de todos los lotes resultantes.
+II.- Proporcionar datos e informes para la elaboración de estadísticas sobre accidentes y enfermedades de trabajo;
 
-###### ARTÍCULO 67.
+III.- Difundir e implantar en su ámbito de competencia, las normas preventivas de accidentes y enfermedades de trabajo; y
 
-1. La subdivisión familiar tendrá lugar cuando se requiera la partición de un predio por acciones hereditarias entre parientes en línea recta o colateral hasta el segundo grado, conforme a la determinación que concluya el procedimiento sucesorio.
+IV.- Integrar las Comisiones Mixtas de Seguridad e Higiene, de conformidad con el instructivo que para estos efectos, será emitido por el Instituto.
 
-2. La autoridad municipal autorizará la subdivisión familiar siempre que se acredite la adjudicación legal del inmueble a favor de los peticionarios y las fracciones resultantes de la subdivisión propuesta no sean superiores al número de herederos o legatarios. En todo caso, la superficie de las porciones resultantes deberá sujetarse a lo previsto en los programas que integran el Sistema Estatal.
+###### ARTICULO 70.
 
-3. La subdivisión de copropiedad derivada de una adjudicación sucesoria deberá atender a los lineamientos de uso de suelo determinados para el área de ubicación del predio de que se trate.
+El Instituto se coordinará con las entidades, organismos e instituciones que considere necesarios para la elaboración de programas y el desarrollo de campañas tendientes a prevenir accidentes y enfermedades de trabajo.
 
-4. En el caso de que exista un programa de ordenamiento territorial y desarrollo urbano aplicable o una normatividad específica debidamente autorizada, se aplicará dicha normatividad al analizar y resolver sobre las solicitudes relativas a subdivisiones.
+###### ARTICULO 71.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Corresponde al Instituto, promover la integración y funcionamiento de las Comisiones Mixtas de Seguridad e Higiene en los centros de trabajo de las entidades afiliadas al régimen de Seguridad Social del Instituto, asimismo, corresponde a las Comisiones Mixtas atender las recomendaciones que el Instituto les formule en materia de seguridad e higiene.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+###### ARTICULO 72.
 
-###### ARTÍCULO 68.
+Las entidades que no dieran cumplimiento a la integración de las Comisiones Mixtas de Seguridad e Higiene o a las medidas preventivas o correctivas para la prevención de riesgos que haya determinado el Instituto, serán responsables de la pensión e indemnización que naciera a favor de cualquiera de sus servidores públicos como consecuencia de un riesgo de trabajo, dicha responsabilidad será determinada previo dictamen emitido por el Instituto o la instancia que éste designe y avalado por el Área de Medicina del Trabajo del Instituto.
 
-1. Para la autorización de divisiones, subdivisiones, fusiones o relotificaciones, el interesado deberá presentar los documentos siguientes:
+### CAPITULO V. Prestaciones Económicas
 
-I. Solicitud correspondiente por escrito;
+#### SECCION PRIMERA. Generalidades
 
-II. El plano a escala del proyecto pretendido, anexándose copia del plano que muestre el estado actual del predio con la precisión de su ubicación;
+###### ARTICULO 73.
 
-III. El título que acredite la propiedad del predio, debidamente inscrito en el Registro Público de la Propiedad Inmueble y del Comercio;
+El derecho a las prestaciones económicas de cualquier naturaleza nace cuando el servidor público se encuentra en los supuestos consignados en esta Ley y satisfaga los requisitos que la misma señala.
 
-IV. El certificado de libertad de gravamen con un máximo de treinta días de ser expedido;
+###### ARTICULO 74.
 
-V. En caso de existencia de algún gravamen se requerirá la autorización expresa del acreedor;
+Se consideran prestaciones económicas las siguientes:
 
-VI. Recibos que acrediten estar al corriente en el pago de las contribuciones y derechos a los que esté sujeto el predio;
+I.- Pensión o indemnización por riesgo de trabajo;
 
-VII. El pago de los derechos correspondientes; y
+II.- Pensión de retiro por edad y antigüedad en el servicio;
 
-VIII. La acreditación del cumplimiento de los requisitos establecidos en las demás disposiciones de carácter general que al efecto expida el Ayuntamiento.
+III.- Pensión e indemnización por invalidez;
 
-2. Por ser de interés público, única y exclusivamente en el caso de los bienes inmuebles adquiridos por el Estado o la Federación y con la finalidad de destinarlos a la conformación del derecho de vía o cuyo destino sea obra pública, el Ayuntamiento competente, dentro de un plazo de 30 días, deberá emitir el dictamen correspondiente y de no ser así se entenderá que resuelve en sentido afirmativo.
+IV.- Pensión por causa de muerte;
 
-3. Salvo el registro de planos en los que figure la división o subdivisión, así como la obtención de las claves catastrales correspondientes, no se requerirá que dichos entes cumplan con lo previsto en el presente Capítulo.
+V.- Seguro de defunción;
 
-###### ARTÍCULO 69.
+VI.- Seguro por gastos funerarios; y
 
-1. Las autorizaciones para dividir, subdividir, fusionar, relotificar o fraccionar uno o varios predios, deberán inscribirse en el Registro Público de la Propiedad Inmueble y del Comercio. Para el caso de los fraccionamientos, es requisito indispensable contar previamente con la inscripción en el Sistema Estatal de Planeación e Información Geográfica.
+VII.- Cuenta de ahorro individual para el retiro.
 
-2. (DEROGADO SEGUNDO PARRAFO, P.O. 5 DE JUNIO DE 2008)
+###### ARTICULO 75.
 
-3. (DEROGADO TERCER PARRAFO, P.O. 5 DE JUNIO DE 2008)
+Todas las pensiones que se concedan, se cubrirán por cuota quincenal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### ARTICULO 76.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+El derecho al cobro de la pensión, nace al momento de cumplirse los requisitos que establece esta Ley y el Instituto dicte resolución favorable.
 
-###### ARTÍCULO 70.
+###### ARTICULO 77.
 
-1. El fraccionador inscribirá una copia del acuerdo que autorice el proyecto ejecutivo y la autorización de ventas, en el Registro Público de la Propiedad y del Comercio.
+Es incompatible la percepción de una pensión con el desempeño de cualquier cargo, empleo o comisión remunerados, en las entidades a las que se refiere la fracción V del Artículo 3º de esta Ley, a excepción de las pensiones por incapacidad parcial, ya sea por riesgo de trabajo o por enfermedad no profesional cuando el Área de Medicina del Trabajo dictamine que existe capacidad residual para el desempeño de su labor, así como cuando se den los supuestos señalados en los Artículos 107 y 108 de este ordenamiento.
 
-2. (DEROGADO SEGUNDO PARRAFO, P.O. 5 DE JUNIO DE 2008)
+###### ARTICULO 78.
 
-###### ARTÍCULO 71.
+Para que un servidor público pueda disfrutar de la pensión que le fue otorgada, deberá cubrir previamente al Instituto los adeudos que tuviera con el mismo.
 
-Todos los actos, acuerdos, contratos y convenios relativos a la propiedad, posesión, aprovechamiento, o cualquier otra forma jurídica de tenencia de inmuebles, deberán ajustarse a lo establecido en los programas de ordenamiento territorial y desarrollo urbano aplicables, de conformidad con lo previsto en ésta ley; y en congruencia con lo establecido en la Ley General de Asentamientos Humanos.
+###### ARTICULO 79.
 
-###### ARTÍCULO 72.
+Es nula toda enajenación, cesión o gravamen de las pensiones que esta Ley establece, devengadas o futuras, serán inembargables y sólo podrán ser afectadas para hacer efectiva la obligación de ministrar alimentos por mandato judicial o para hacer el pago de adeudos con el Instituto con motivo de la aplicación de esta Ley.
 
-Los notarios públicos, al autorizar actos o contratos relativos a lotes pertenecientes a un fraccionamiento, deberán hacer mención del permiso de ventas a que se refiere esta ley; y del uso del suelo autorizado, así como de su inscripción en el Sistema Estatal y en el Registro Público de la Propiedad y del Comercio.
+###### ARTICULO 80.
 
-### CAPÍTULO III. DE LA INSCRIPCIÓN
+Todas las pensiones que se concedan se sujetarán al pago de la cuota que se señala en el Artículo 128, fracción I.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### ARTICULO 81.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+El monto de las pensiones aumentará al mismo tiempo y en la misma proporción en que aumente el salario mínimo general vigente en el Estado, según la cuota diaria de su pensión.
 
-###### ARTÍCULO 73.
+Los pensionistas recibirán un aguinaldo anual equivalente en días al que reciban los servidores públicos en activo y gozarán, además, de las prestaciones de ayuda de despensa, renta, transporte y quinquenios, de acuerdo con lo siguiente:
 
-El Registro Público de la Propiedad y del Comercio sólo podrá inscribir aquellas operaciones que se acompañen de las autorizaciones a que se refiere esta ley.
+I.- Siempre y cuando hayan cotizado sobre dichas prestaciones.
 
-###### ARTÍCULO 74.
+II.- El monto de dichas prestaciones se otorgará con base en el promedio de los últimos treinta y seis meses para el personal de confianza y de los últimos doce meses para el personal sindicalizado, inmediatos anteriores al otorgamiento de estas prestaciones y no variará salvo lo señalado en el primer párrafo de este Artículo.
 
-No producirán efecto jurídico alguno los actos, convenios o contratos relativos a la propiedad u otro derecho real, así como a relaciones personales de obligación, ni las autorizaciones, licencias, permisos, concesiones y/o constancias relacionados con la utilización de las áreas y predios, que contravengan esta ley.
+III.- Estas prestaciones se otorgarán con base en los porcentajes en que se hubiera otorgado la pensión.
 
-## TÍTULO IX. LAS AUTORIZACIONES DE USO DEL SUELO, DE EDIFICACION Y CONSTRUCCIÓN
+###### ARTICULO 82.
 
-###### ARTÍCULO 75.
+Las pensiones a que se refiere esta Ley, podrán ser compatibles de acuerdo a lo siguiente:
 
-1. La licencia de uso de suelo será expedida por la autoridad municipal, de conformidad con esta ley y lo establecido en el Programa de Ordenamiento Territorial y Desarrollo Urbano.
+La pensión de retiro por edad y antigüedad en el servicio con:
 
-2. La licencia de uso de suelo tiene por objeto:
+a). El disfrute de una pensión por causa de muerte derivada de los derechos del servidor público o pensionista; o
 
-I. Determinar el uso de suelo de un predio;
+b). El disfrute de una pensión por riesgo de trabajo, sujeta a lo establecido en el párrafo segundo del Artículo 60 de esta Ley.
 
-II. Establecer las normas y lineamientos de diseño urbano, así como las de preservación natural y protección al ambiente; y
+En cualquier caso diverso a los anteriores será incompatible el disfrute de dos pensiones, por lo que únicamente se otorgará una de ellas, a elección del servidor público que acredite su derecho en términos de esta Ley.
 
-III. Determinar los estudios aplicables que deberá elaborar y presentar el interesado en materia de impacto vial, ambiental u otros.
+###### ARTICULO 83.
 
-###### ARTÍCULO 76.
+En los casos en que el servidor público hubiera trabajado en forma discontinua en la misma o en diferentes entidades afiliadas al Instituto, se sumarán los períodos de trabajo hasta completar el número de años que se requiera para tener derecho a alguna de las pensiones y dicha suma se aplicará siempre y cuando el servidor público haya laborado en forma continua cuando menos los últimos tres años.
 
-1. La autorización de uso de la edificación será expedida por la autoridad municipal, de conformidad con esta ley.
+###### ARTICULO 84.
 
-2. La autorización de uso de la edificación tiene por objeto:
+Cuando se hubieran desempeñado simultáneamente varios empleos y ésto hubiera sido legalmente posible, sólo se tomará en cuenta uno para el cómputo de la antigüedad del servidor público y para fijar el monto de la pensión, cuando esto proceda.
 
-I. Determinar el uso de suelo del predio en que se ubica la edificación;
+Se consideran empleos simultáneos aquéllos que se desempeñen en dos o más de las entidades afiliadas al Instituto, sin contravenir lo dispuesto en las leyes aplicables del Estado.
 
-II. Señalar la ocupación máxima de construcción;
+###### ARTICULO 85.
 
-III. Establecer las normas urbanísticas y lineamientos de diseño urbano, así como las de preservación natural y protección al ambiente;
+En caso de que el servidor público beneficiado con la pensión continúe en servicio o reingrese a trabajar perteneciendo afiliado al Instituto, la pensión quedará suspendida, pero al separarse definitivamente, para que se le reconozcan las aportaciones anteriores y pueda determinarse la nueva pensión se tendrá que observar lo indicado en el Artículo 88 de esta Ley.
 
-IV. Determinar la función específica o giro particular de la edificación; y
+#### SECCION SEGUNDA. Pensión de Retiro por Edad y Antigüedad en el Servicio
 
-V. Señalar la distribución de áreas correspondientes. Tratándose de fraccionamientos o condominios previamente autorizados, deberá solicitarse posteriormente por el interesado, la autorización de uso de la edificación sólo para aquéllas que difieran del uso habitacional, ya que éste será otorgado en la autorización del proyecto ejecutivo correspondiente.
+###### ARTICULO 86.
 
-###### ARTÍCULO 77.
+Tienen derecho a la pensión de retiro por edad y antigüedad en el servicio, los servidores públicos que hayan cumplido sesenta y cinco años de edad y tengan al menos quince años de servicio e igual número de años de contribución al Instituto.
 
-Los interesados en utilizar los lotes o predios para cualquier actividad, incluyendo la realización de construcciones y edificaciones, deberán solicitar al Ayuntamiento la autorización de usos del suelo y lineamientos urbanísticos, cumpliendo los requisitos que indiquen las disposiciones de carácter general expedidas por el propio Ayuntamiento en materia de desarrollo urbano y, en su caso, de construcción.
+###### ARTICULO 87.
 
-###### ARTÍCULO 78.
+El cómputo de los años de servicio se hará considerando uno sólo de los empleos, aun cuando el servidor público hubiera desempeñado simultáneamente varios, en el caso que esto haya sido legalmente posible.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2010)</small>
+Toda fracción de más de seis meses de aportaciones se considerará como año completo para efectos del otorgamiento de la pensión.
 
-1. Para la obtención de la autorización municipal de uso de suelo, el solicitante deberá cumplir con los requisitos siguientes:
+###### ARTICULO 88.
 
-I. Acreditar la propiedad del predio;
+El monto de la pensión de retiro por edad y antigüedad en el servicio será igual al porcentaje del sueldo base de cotización promedio que el servidor público haya disfrutado durante los últimos treinta y seis meses de servicio en personal de confianza y doce en el sindicalizado, en relación con los años de aportación al Instituto que establece la tabla siguiente:
 
-II. Presentar plano de localización del predio;
+15 años de aportación 50%
 
-III. Indicar el uso del suelo que se pretende;
+16 años de aportación 53%
 
-IV. Así como acreditar el pago del impuesto predial; y
+17 años de aportación 56%
 
-V. Realizar el pago de derechos correspondientes.
+18 años de aportación 60%
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2010)</small>
+19 años de aportación 64%
 
-2. Por cuanto hace al otorgamiento de licencias de uso de suelo para las estaciones de servicio denominadas gasolineras, se sujetará a las siguientes condiciones:
+20 años de aportación 68%
 
-I. Los predios para el establecimiento de gasolineras o estaciones de servicio deberán estar localizados sobre accesos a cerretas, carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquéllos predios cuya ubicación sea compatible y conforme al uso de suelo del Plan de Desarrollo Urbano del municipio respectivo;
+21 años de aportación 72%
 
-II. Las estaciones de servicio con venta directa al público o de autoconsumo, cumplirán con las disposiciones en materia de protección civil, ambiental de seguridad y demás legislación aplicable, y se ubicarán a una distancia de 10,000 metros en forma radial una de otra, dentro de zona urbana, y de 20,000 metros cuando su ubicación sea en carreteras concesionadas, federales, estatales y secundarias;
+22 años de aportación 76%
 
-III. El predio deberá ubicarse a una distancia mínima de resguardo de 300 metros radiales de centros de concentración de personas tales como escuelas, hospitales, centros de desarrollo infantil o guarderías; y de 150 metros radiales, respecto de mercados, cines, teatros, centros de culto religioso, auditorios, así como en cualquier otro sitio, en el que exista una concentración de cien o más personas, de manera habitual o transitoria;
+23 años de aportación 80%
 
-IV. El predio debe ubicarse a una distancia mínima de resguardo de 150 metros radiales respecto de plantas de almacenamiento de gas licuado del petróleo y de aquéllos centros de despacho a sistemas de carburación automotor e industrias de alto riesgo que empleen productos químicos, soldadura, fundición, fuego, entre otros, así como del comercio que emplee gas con sistema estacionario con capacidad de almacenamiento mayor a 500 litros;
+24 años de aportación 84%
 
-V. Los tanques de almacenamiento deberán ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas eléctricas de alta tensión, de los ejes de vías férreas, así como de los ductos que transporten algún derivado del petróleo;
+25 años de aportación 88%
 
-VI. Las bombas expendedoras de gasolina y/o carburante y sus tanques de almacenamiento, deberán quedar a una distancia mínima de 15 metros de un área residencial; y
+26 años de aportación 92%
 
-VII. Además, deberá obtenerse dictamen favorable de la autoridad competente en materia de protección civil.
+27 años de aportación 96%
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2010)</small>
+28 años de aportación 100%
 
-3. Cuando el predio en el que se pretenda instalar una gasolinera o estación de servicio, se ubique enfrente de dos vialidades, las maniobras de abastecimiento serán única y exclusivamente por el frente a la vialidad de mayor jerarquía.
+#### SECCION TERCERA. Pensión e Indemnización por Invalidez
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2010)</small>
+###### ARTICULO 89.
 
-4. No podrán ubicarse gasolineras o estaciones de servicio dentro de las áreas consideradas como de Reserva Ecológica.
+Tienen derecho a la pensión por invalidez los servidores públicos que se inhabiliten física o mentalmente por causas ajenas al desempeño de su cargo o empleo, si hubieran cotizado al Instituto por lo menos durante ocho años.
 
-###### ARTÍCULO 79.
+###### ARTICULO 90.
 
-Para la obtención de la autorización municipal de uso de edificación, el solicitante deberá cumplir con los requisitos siguientes:
+El derecho al pago de la pensión comenzará a partir de la fecha en que el servidor público cause baja motivada por su inhabilitación y su importe se calculará aplicando al sueldo base de cotización que percibe el servidor público la tabla contenida en el Artículo 88 de esta Ley; para los servidores públicos que no tengan quince años de aportaciones como mínimo el porcentaje que se les otorgará será el siguiente:
 
-I. Acreditar la propiedad del predio;
+AÑOS DE APORTACION PORCENTAJE SOBRE EL SUELDO
 
-II. Presentar plano de localización del predio;
+De 8 a 10 años de aportación 40%
 
-III. Indicar el uso del suelo con el que cuenta el predio, ó bien el que se pretende;
+De 11 a 12 años de aportación 44%
 
-IV. Indicar la superficie que trata de construir con la respectiva distribución de áreas, ó bien únicamente la distribución de áreas, tratándose de edificaciones ya construidas;
+De 13 a 14 años de aportación 48%
 
-V. Así como acreditar el pago correspondiente del impuesto predial; y
+###### ARTICULO 91.
 
-VI. Realizar el pago de los derechos correspondientes.
+El otorgamiento de la pensión por invalidez queda sujeta al cumplimiento de los siguientes requisitos:
 
-###### ARTÍCULO 80.
+I.- Solicitud por escrito del servidor público o sus representantes;
 
-1. La autorización de licencia de construcción será expedida por la autoridad municipal de conformidad con esta ley, las demás disposiciones de carácter general en materia de desarrollo urbano y de construcción y lo establecido en el Programa de Ordenamiento Territorial y Desarrollo Urbano.
+II.- Acreditar haber contribuido al Instituto cuando menos durante ocho años; y
 
-2. La autorización de la Licencia de Construcción tiene por objeto determinar:
+III.- Contar con la aprobación del Área de Medicina del Trabajo, dependiente del Instituto, sobre el dictamen de la institución médica que se tenga contratada para estos servicios y que certifique el estado de invalidez permanente total, cuyo origen no se deba al desempeño de su trabajo como servidor público.
 
-I. Las rasantes y el nivel para el desplante de construcción;
+###### ARTICULO 92.
 
-II. El alineamiento en vías públicas;
+Si el afectado no estuviera de acuerdo con el dictamen del Instituto, él o sus representantes podrán designar médicos particulares para que dictaminen sobre el particular.
 
-III. Las construcciones y el uso específico del suelo que le compete;
+En caso de desacuerdo entre ambos dictámenes, el Instituto propondrá al afectado una terna preferentemente de especialistas de notorio prestigio profesional, para que de entre ellos elija uno, quien dictaminará en forma definitiva, el dictamen de éste será inapelable y, por lo tanto, obligatorio para el interesado y el Instituto.
 
-IV. Las excavaciones en vías públicas para las conexiones de agua potable y drenaje sanitario a las redes de servicio público; y
+###### ARTICULO 93.
 
-V. Las demoliciones y excavaciones.
+No se concederá la pensión por invalidez:
 
-###### ARTÍCULO 81.
+I.- Cuando el estado de invalidez sea consecuencia de un acto intencional del servidor público u originado por algún delito cometido por el mismo; y
 
-Para la obtención de la licencia de construcción, el solicitante deberá cumplir con los requisitos siguientes:
+II.- Cuando el estado de invalidez sea anterior a la fecha del alta del servidor público en el servicio.
 
-I. Acreditar la propiedad;
+###### ARTICULO 94.
 
-II. Presentar los proyectos arquitectónicos, estructurales y de instalaciones, y las memorias correspondientes;
+La pensión por invalidez o la tramitación de la misma, se suspenderá:
 
-III. Acompañar la autorización de uso de suelo;
+I.- Cuando el pensionista o el solicitante esté desempeñando algún cargo o empleo remunerado, siempre que éste implique la incorporación al régimen de esta Ley; y
 
-IV. Así como acreditar el pago correspondiente del impuesto predial; y
+II.- En el caso de que el pensionista o solicitante se niegue injustificadamente a someterse a las investigaciones que en cualquier tiempo ordene el Instituto o se resista a someterse a los reconocimientos y tratamientos médicos.
 
-V. Realizar el pago de los derechos correspondientes.
+El pago de la pensión o la tramitación de la solicitud se reanudará a partir de la fecha en que el pensionado se someta a tratamiento médico, sin que haya lugar en el primer caso, al reintegro de las prestaciones que dejó de percibir durante el tiempo que haya durado la suspensión.
 
-###### ARTÍCULO 82.
+###### ARTICULO 95.
 
-1. El proyecto constructivo deberá ser congruente con la licencia de uso del suelo y los lineamientos urbanísticos.
+La pensión por invalidez, será revocada cuando el servidor público recupere su capacidad para el servicio.
 
-2. El propietario presentará el proyecto de construcción o edificación, el cual deberá reunir los requisitos establecidos en esta ley y en las disposiciones de carácter general expedidas por el Ayuntamiento en materia de desarrollo urbano o de construcción.
+En tal caso, la dependencia o entidad en que hubiera prestado sus servicios el servidor público tendrá la obligación de restituirlo en su empleo si de nuevo es apto para el mismo o, en caso contrario, asignarle un trabajo que pueda desempeñar, debiendo ser cuando menos de un sueldo y categoría equivalente a los que disfrutaba al acontecer la invalidez.
 
-###### ARTÍCULO 83.
+Si el servidor público no fuera restituido en su empleo o no se le asignara otro en los términos del párrafo anterior por causa imputable a la dependencia o entidad en que hubiera prestado sus servicios, seguirá percibiendo el importe de la pensión, pero ésta será a cargo de la dependencia o entidad correspondiente.
 
-1. Los proyectos de una nueva construcción o modificación de una edificación ya existente deberán ser revisados por la autoridad municipal, para verificar el cumplimiento de las normas de esta ley y demás disposiciones de carácter general o reglamentos municipales que se hubieran expedido en materia de desarrollo urbano, construcción, lineamientos viales, instalaciones especiales, seguridad o diseño urbano.
+Si el servidor público no aceptara reingresar al servicio en tales condiciones, o bien estuviera desempeñando cualquier trabajo remunerado, que implique la incorporación al régimen de esta Ley, le será revocada la pensión.
 
-2. Una vez que reciba la solicitud de los proyectos a que se refiere el párrafo anterior, la autoridad municipal dictaminará en un plazo no mayor de treinta días naturales.
+###### ARTICULO 96.
 
-3. Si el dictamen recomienda autorizar el proyecto de construcción, se expedirá la licencia de construcción, previa acreditación del cumplimiento de lo previsto en la fracción IV del artículo 81 de esta ley.
+Al servidor público que sin tener derecho a pensión de invalidez, por no haber aportado cuando menos ocho años al Instituto, sea declarado inválido por la institución médica con la que se tenga contratados estos servicios y avalado por el Área de Medicina del Trabajo dependiente del Instituto, le será otorgada una indemnización equivalente a un mes del sueldo base de cotización más doce días por cada año de aportaciones; para poder determinar el monto del sueldo base de cotización se considerará el que perciba el servidor público al momento de retirarse del servicio, pero si el sueldo base de cotización que percibe, excede del doble del salario mínimo general vigente en el Estado, se considerará esta cantidad como salario máximo.
 
-4. Si el dictamen rechaza el proyecto de construcción, se notificará al solicitante para los efectos que establezca esta ley y demás disposiciones de carácter general expedidas por el Ayuntamiento.
+###### ARTICULO 97.
 
-###### ARTÍCULO 84.
+El otorgamiento de la indemnización por invalidez queda sujeta al cumplimiento de los siguientes requisitos:
 
-1. Las autoridades municipales tomarán las medidas que estén a su alcance, a fin de simplificar los trámites administrativos para expedir las licencias que correspondan a construcciones dedicadas a vivienda.
+I.- Solicitud del servidor público o sus representantes;
 
-2. Asimismo, promoverán los convenios con las autoridades federales y estatales competentes, para facilitar los trámites de autorización de acciones de vivienda de interés social.
+II.- Declaración de invalidez por parte de la institución médica que preste los servicios;
 
-###### ARTÍCULO 85.
+III.- Aprobación del Área de Medicina del Trabajo dependiente del Instituto del dictamen en que se certifique el estado de invalidez permanente total; y
 
-1. La autorización de uso de edificación la expedirá la autoridad municipal respecto de cualquier actividad que se proponga, una vez que se haya realizado la inspección que compruebe que el inmueble está habilitado para cumplir con las funciones propias de dicha actividad sin menoscabo de la salud e integridad de quienes la vayan a aprovechar.
+IV.- Que el servidor público cause baja definitiva del servicio.
 
-2. Si la autorización prevista en el párrafo anterior se solicita con respecto a edificaciones nuevas o ampliaciones y reparaciones de las ya existentes, la autoridad municipal verificará que las obras se hayan realizado conforme a los permisos y proyectos autorizados.
+#### SECCION CUARTA. Pensión por Causa de Muerte
 
-###### ARTÍCULO 86.
+###### ARTICULO 98.
 
-1. La utilización que se dé a las construcciones, edificaciones e instalaciones, deberá ser aquélla que haya sido autorizada por la autoridad municipal.
+Cuando ocurra la muerte del servidor público por causas ajenas al servicio, cualquiera que sea su edad y siempre que hubiera cotizado un mínimo de diez años al Instituto, así como cuando se presente la muerte de un pensionado por retiro por edad y antigüedad en el servicio o invalidez, se dará origen a las siguientes prestaciones:
 
-2. Para darles un aprovechamiento distinto al originalmente aprobado, se deberá tramitar y obtener una nueva autorización.
+I.- Pensión de viudez;
 
-## TÍTULO X. DE LA DENUNCIA
+II.- Pensión de orfandad;
 
-###### ARTÍCULO 87.
+III.- Pensión a ascendientes; y
 
-Toda persona con interés jurídico que tenga conocimiento de que se han autorizado o se están llevando a cabo, construcciones, cambios de usos del suelo, destinos del suelo, actos o acciones urbanas en contravención a las disposiciones de esta ley, a los programas de ordenamiento territorial y desarrollo urbano aplicables u otras disposiciones de carácter general en la materia, podrá denunciarlo ante la autoridad competente para que se inicie al procedimiento administrativo correspondiente y se apliquen, en su caso, las medidas de seguridad y sanciones respectivas cuando:
+IV.- Asistencia médica por medio de la institución médica que se tengan contratado los servicios.
 
-I. Originen un deterioro en la calidad de vida de los asentamientos humanos de la zona;
+El costo de la atención a la salud de los beneficiarios del servidor público será con cargo al Instituto.
 
-II. Causen o puedan causar un daño al Estado o al Municipio;
+###### ARTICULO 99.
 
-III. Causen o puedan causar un daño en su patrimonio; y
+El derecho al pago de la pensión por causa de muerte se iniciará a partir del día siguiente al de la muerte de la persona que haya originado la pensión.
 
-IV. Produzcan daños en bienes considerados de valor histórico, cultural, arquitectónico o natural en el Estado, incluyendo el deterioro de la imagen urbana de las ciudades.
+###### ARTICULO 100.
 
-###### ARTÍCULO 88.
+El orden para gozar de la pensión a que se refiere este Artículo, será el que se establece en el Artículo 64 de esta Ley.
 
-Para el ejercicio de la denuncia pública contemplada en el artículo anterior, bastará un escrito en el cual la persona que la promueva señale:
+###### ARTICULO 101.
 
-I. Nombre y domicilio del denunciante; acompañándose copia de una identificación oficial;
+Los familiares beneficiarios del servidor público fallecido, en el orden que establece el Artículo 64 de esta Ley, tienen derecho a una pensión de conformidad con la siguiente tabla y aplicando el porcentaje al último sueldo base de cotización que percibía el servidor público:
 
-II. Nombre, razón social o denominación y domicilio del propietario, poseedor o usuario del predio afectado o, en su caso, los datos necesarios para su localización e identificación;
+5 años de aportación 30%
 
-III. Los datos que permitan la localización e identificación del inmueble de que se trate; y
+6 años de aportación 32%
 
-IV. La relación de los hechos que se denuncian.
+7 años de aportación 34%
 
-###### ARTÍCULO 89.
+8 años de aportación 36%
 
-1. Es obligación de la autoridad competente hacer del conocimiento del denunciante sobre el trámite otorgado a su escrito, las medidas inmediatas adoptadas, en su caso, como resultado de su denuncia y la resolución que adopte.
+9 años de aportación 38%
 
-2. El o los comunicados deberán hacerse dentro de los siguientes treinta días hábiles contados a partir de presentada la denuncia o de la actuación correspondiente de la autoridad.
+10 años de aportación 40%
 
-3. La autoridad cuando tenga conocimiento de una denuncia deberá hacerlo del conocimiento del denunciado, siguiendo con el procedimiento establecido en el artículo 92 de esta propia Ley.
+11 años de aportación 42%
 
-## TÍTULO XI. DE LAS INFRACCIONES, MEDIDAS DE SEGURIDAD Y SANCIONES
+12 años de aportación 44%
 
-###### ARTÍCULO 90.
+13 años de aportación 46%
 
-1. Las autoridades administrativas estatales y municipales en el ámbito de su competencia, podrán llevar a cabo visitas de inspección para comprobar el cumplimiento de esta ley, reglamentos, programas, acuerdos, denuncias o demás disposiciones de carácter general en materia de desarrollo urbano, ordenamiento territorial o asentamientos humanos.
+14 años de aportación 48%
 
-2. Las visitas de inspección podrán realizarse en cualquier tiempo.
+A partir de quince años de aportaciones, se estará a lo dispuesto en la tabla del Artículo 88 de esta Ley. Estas pensiones aumentarán en el mismo momento y proporción en que aumente el salario mínimo general vigente en el Estado y tendrán derecho al pago de un aguinaldo anual, equivalente en días a los que reciban los demás pensionistas del Instituto.
 
-3. En todo caso, con motivo de las visitas de inspección, las autoridades competentes aplicarán las medidas de seguridad y sanciones que correspondan.
+Los familiares beneficiarios del pensionista fallecido en el orden del Artículo 64 de esta Ley, tienen derecho a una pensión equivalente al cien por ciento del importe de la pensión que venía disfrutando el pensionista.
 
-###### ARTÍCULO 91.
+###### ARTICULO 102.
 
-La infracción a los preceptos de esta ley, sus reglamentos y disposiciones que de ellas emanen, serán sancionadas administrativamente por la autoridad correspondiente, sin perjuicio de las penas que correspondan cuando sean constitutivas de delito.
+Si otorgada una pensión aparecen otros familiares con derecho a la misma, se les hará extensiva, pero percibirán su parte a partir de la fecha en que sea recibida la solicitud en el Instituto, sin que puedan reclamar el pago de las cantidades cobradas por los primeros beneficiarios.
 
-###### ARTÍCULO 92.
+En caso de que dos o más interesados reclamen el derecho a la pensión como cónyuges supérstites del servidor público o pensionado, exhibiendo su respectiva documentación, se suspenderá el trámite del beneficio hasta que se defina judicialmente la situación, sin perjuicio de continuarlo por lo que respecta a los hijos, reservándose una parte de la cuota a quien acredite su derecho como cónyuge supérstite.
 
-1. Para practicar visitas de inspección, el personal administrativo responsable deberá estar provisto de orden escrita con firma autógrafa expedida por la autoridad competente, en la que deberá precisarse el lugar que ha de verificarse, el objeto de la visita, el alcance que deba tener, el personal técnico de apoyo, en su caso, y las disposiciones legales que lo fundamenten.
+Cuando un solicitante, ostentándose como cónyuge supérstite del servidor público o pensionista reclame un beneficio que ya se haya concedido a otra persona por el mismo concepto, sólo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio que sirvió de base para la concesión de la pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece, se le concederá la pensión, la cual percibirá a partir de la fecha en que se reciba la solicitud en el Instituto, sin que tenga derecho a reclamar al Instituto las cantidades cobradas por el primer beneficiario.
 
-2. Al iniciar la visita, el inspector deberá exhibir credencial vigente con fotografía, expedida por la autoridad competente que lo acredite para desempeñar dicha función, así como la orden expresa a la que se refiere esta ley, de la que deberá dejar copia al propietario, poseedor, responsable, encargado u ocupante del predio o establecimiento.
+###### ARTICULO 103.
 
-3. Los propietarios, poseedores, responsables, encargados u ocupantes de predios o establecimientos objeto de inspección estarán obligados a permitir el acceso y dar facilidades e informes a los inspectores y, en su caso, al personal técnico de apoyo para el desarrollo de su labor.
+Si el hijo pensionado llegara a los dieciocho años y no pudiera mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos o enfermedad psíquica, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación.
 
-4. De toda visita de inspección se levantará acta circunstanciada en presencia de dos testigos. Estos serán propuestos por la persona con quien se hubiere entendido la diligencia o, en su caso, por quien la practique, si aquélla se hubiere negado a proponerlos.
+En tal caso el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que el Instituto le prescriba y proporcione, así como a las investigaciones que en cualquier tiempo éste ordene, para los efectos de determinar su estado de invalidez, haciéndose acreedor, en caso contrario, a la suspensión de la pensión; asimismo, continuarán disfrutando de la pensión los hijos solteros hasta los veinticinco años de edad, previa comprobación de que están realizando estudios de nivel medio o superior en cualquier rama del conocimiento en planteles del sistema educativo nacional.
 
-5. De toda acta se dejará copia a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando el inspector haga constar tal circunstancia en la propia acta.
+###### ARTICULO 104.
 
-###### ARTÍCULO 93.
+Los derechos a percibir pensión por los familiares beneficiarios del servidor público o pensionado, se pierden por alguna de las causas establecidas en el Artículo 68 de esta Ley.
 
-En las actas a que se refiere el párrafo 4 del artículo anterior, se hará constar:
+###### ARTICULO 105.
 
-I. Nombre, denominación o razón social del visitado;
+No se tendrá derecho a la pensión de viudez que establece este capítulo:
 
-II. Hora, día, mes y año en que se inicie y concluya la diligencia;
+I.- Cuando la muerte del servidor público acaeciera antes de cumplir seis meses de matrimonio;
 
-III. Calle, número, colonia, población y código postal donde se encuentre ubicado el lugar en que se practique la visita;
+II.- Cuando hubiese contraído matrimonio con el servidor público después de haber cumplido éste los cincuenta y cinco años de edad, a menos que a la fecha de la muerte haya transcurrido un año desde la celebración del enlace; y
 
-IV. Número y fecha del oficio de comisión que motivó la visita;
+III.- Cuando al contraer matrimonio el servidor público recibía ya una pensión de retiro por edad y antigüedad en el servicio o invalidez, a menos que a la fecha de la muerte haya transcurrido un año desde la celebración del matrimonio.
 
-V. Nombre y cargo de la persona con quien se entendió la diligencia;
+Las limitaciones que establece este Artículo no regirán cuando la muerte del servidor público sea a consecuencia de un riesgo de trabajo, asimismo cuando al morir el servidor público o pensionado, la viuda compruebe haber tenido hijos con él.
 
-VI. Nombre y domicilio de las personas que fungieron como testigos;
+###### ARTICULO 106.
 
-VII. Datos relativos a la actuación;
+El derecho al goce de la pensión de viudez comenzará al día siguiente del fallecimiento del servidor público o pensionista y cesará con la muerte del beneficiario, o cuando el pensionista por viudez contrajera matrimonio o entrara en concubinato.
 
-VIII. Declaración del visitado, si quisiera hacerla; y
+Para tal efecto el Instituto podrá ordenar en cualquier momento la verificación del estado civil del pensionista, para efectos de dar cumplimiento al párrafo anterior.
 
-IX. Nombre y firma de quienes intervinieron en la diligencia y así quisieron hacerlo.
+###### ARTICULO 107.
 
-###### ARTÍCULO 94.
+El disfrute de una pensión por causa de muerte, derivada de los derechos del servidor público o pensionista, será compatible con el disfrute de pensión de retiro por edad y antigüedad en el servicio o invalidez. De igual forma es compatible con el disfrute de una pensión por riesgo de trabajo.
 
-1. Con base a los resultados que arroje el acta de la visita de inspección, la autoridad competente, advirtiendo la existencia de algún riesgo o la creación de un nuevo asentamiento, procederá a aplicar las medidas de seguridad que se requieran, al tiempo de iniciar el procedimiento administrativo correspondiente.
+###### ARTICULO 108.
 
-2. Al efecto, se deberá hacer la notificación del caso al presunto infractor, a fin de que en el término de cinco días exprese lo que a sus intereses convenga y ofrezca las pruebas en relación a los hechos contenidos en el acta de la visita de inspección.
+La percepción de una pensión por orfandad, es compatible con el disfrute de otra pensión igual proveniente de los derechos derivados del otro progenitor.
 
-3. El presunto infractor podrá ofrecer las pruebas que considere pertinentes, con excepción de la confesional y las que se estimen contra la moral o el derecho. Si se omiten las pruebas se tendrán por no ofrecidas.
+#### SECCION QUINTA. Seguro de Defunción
 
-4. En la admisión de pruebas, formulación de alegatos y emisión de la resolución correspondiente se aplicarán supletoriamente las disposiciones del Código Fiscal del Estado.
+###### ARTICULO 109.
 
-###### ARTÍCULO 95.
+Cuando fallezca un servidor público en activo o un pensionista, los beneficiarios acreditados ante el Instituto mediante la carta testamentaria respectiva, podrán recibir el importe o el porcentaje restante según el caso, del resultado de aplicar la tabla siguiente:
 
-Si de los resultados del acta de la visita de inspección, se advierten elementos de infracción, la autoridad competente lo hará del conocimiento del interesado mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas de urgente aplicación, fundando y motivando el requerimiento y para que dentro del término de diez días hábiles a partir de que surta efecto dicha notificación, manifieste por escrito lo que a su derecho convenga.
+AÑOS DE APORTACION EQUIVALENTE
 
-###### ARTÍCULO 96.
+A SALARIOS
 
-Una vez oído el presunto infractor, recibidas y desahogadas las pruebas que ofreciere, o en caso de que el interesado no haya hecho el uso del derecho de ofrecerlas, se procederá a dictar la resolución administrativa que corresponda, dentro de los quince días hábiles siguientes, misma que se notificará al interesado en forma personal o por correo certificado.
+MINIMOS
 
-###### ARTÍCULO 97.
+MENSUALES
 
-En la resolución administrativa se señalarán las medidas que deban llevarse a cabo para corregir las deficiencias o irregularidades observadas y el plazo otorgado al infractor para satisfacerlas, así como las sanciones a que se hubiere hecho acreedor, conforme a las disposiciones aplicables.
+De 0 años hasta 5 años 25
 
-###### ARTÍCULO 98.
+De 6 años hasta 10 años 30
 
-1. Constituyen medidas de seguridad:
+De 11 años hasta 15 años 35
 
-I. La suspensión de trabajos y servicios;
+De 16 años hasta 20 años 40
 
-II. La clausura temporal o definitiva, parcial o total, de instalaciones, construcciones y obras; y
+De 21 años en adelante 45
 
-III. El retiro de instalaciones accesorias.
+En el caso del fallecimiento de un pensionista, el monto del seguro de defunción corresponderá a los años de aportación que hubiera acumulado como servidor público en servicio activo.
 
-2. Las medidas de seguridad tiene carácter preventivo y serán ordenadas por las autoridades municipales o estatales competentes, siendo de inmediata ejecución. Se aplicarán sin perjuicio de las sanciones que, en su caso, correspondan por las infracciones cometidas.
+###### ARTICULO 110.
 
-3. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas y deberán ser comunicadas por escrito al propietario del inmueble o al responsable de la obra para su inmediata ejecución.
+Los pensionistas por retiro por edad y antigüedad en el servicio, invalidez no profesional o incapacidad permanente total por riesgos de trabajo, podrán solicitar un cincuenta por ciento como anticipo del seguro de defunción, el cual se calculará sobre el monto del seguro en la fecha que se autorice el anticipo.
 
-###### ARTÍCULO 99.
+El Instituto entregará el anticipo dentro de los treinta días hábiles siguientes a la fecha en que fue solicitado.
 
-1. La violación de esta ley o de los programas en ella señalados, constituye una infracción y origina como consecuencia la aplicación de las sanciones correspondientes y, en su caso, la obligación de indemnizar por los daños y perjuicios causados.
+###### ARTICULO 111.
 
-2. El plazo de prescripción para la aplicación de las sanciones será de cinco años y empezará a computarse desde el día en que se hubiera cometido la infracción.
+Cuando el pensionista haya recibido un anticipo del seguro de defunción, a su muerte sus beneficiarios acreditados en la carta testamentaria respectiva, recibirán el porcentaje restante, calculado sobre el monto del seguro en la fecha en que ocurra el deceso.
 
-3. En el caso de las violaciones cometidas por los servidores públicos, se aplicarán las normas que regulen la responsabilidad de dichos servidores.
+###### ARTICULO 112.
 
-###### ARTÍCULO 100.
+El Instituto entregará el total o porcentaje restante del seguro de defunción, dentro de los treinta días hábiles siguientes a la fecha de solicitud de los beneficiarios acreditados en la carta testamentaria respectiva, a la que deberán acompañar el certificado de defunción.
 
-1. Son infracciones a esta ley y a los programas en ella señalados, las siguientes:
+###### ARTICULO 113.
 
-I. Contravenir las disposiciones contenidas en los convenios que celebren las autoridades en materia de desarrollo urbano, ordenamiento territorial y asentamientos humanos;
+El total o porcentaje restante del seguro de defunción, podrá ser retenido y aplicado en pago de adeudos que el servidor público o pensionista tuviera con el Instituto o existiera responsabilidad con la entidad de su adscripción.
 
-II. Incurrir el propietario o poseedor del predio objeto de división, subdivisión, relotificación, fraccionamiento o desarrollo sujetos al régimen de propiedad en condominio, en alguna de las siguientes hipótesis:
+###### ARTICULO 114.
 
-a) El proyecto de lotificación no cuente con la aprobación en los términos de esta ley, o carezca de licencia de obra;
+Los servidores públicos en activo o los pensionistas deberán formular carta testamentaria ante el Instituto, en el que harán el nombramiento de beneficiados, mismos que podrán ser sustituidos en cualquier tiempo, debiendo atenderse a los nombrados en la última fecha.
 
-b) La construcción sea distinto (sic) al tipo de fraccionamiento o desarrollo aprobado por la autoridad competente;
+Cuando algún otro beneficiado presente algún documento con el que fehacientemente haga sospechar de la autenticidad de la carta testamentaria, se reconocerá a los titulares beneficiarios mediante declaración judicial.
 
-c) La realización de ventas o actos tendientes a concretarlas sin contar con la autorización correspondiente; y
+###### ARTICULO 115.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
+En los períodos de licencia sin goce de sueldo del servidor público, el Instituto se libera de la responsabilidad de pagar el seguro de defunción y gastos funerarios en caso de ocurrir el fallecimiento en el período de licencia, a excepción de que ocurriera dentro de los primeros treinta días de este período.
 
-d) La omisión en la entrega de copia de autorizaciones al Sistema Estatal, de acuerdo a lo señalado en esta ley.
+#### SECCION SEXTA. Seguro por Gastos Funerarios
 
-III. Realizar alguna construcción, instalación, demolición o excavación, sin contar con la debida autorización;
+###### ARTICULO 116.
 
-IV. Ejecutar obras de excavación, cimentación, modificación, alteración, instalación, construcción o demolición, de un bien inmueble inscrito en el Registro Estatal del Patrimonio Histórico y Artístico Edificado, sin contar con el dictamen previo del Instituto;
+Cuando fallezca un servidor público en activo o un pensionista, los beneficiarios acreditados ante el Instituto, mediante la carta testamentaria respectiva, recibirán un apoyo económico para el pago de los gastos funerarios, hasta el importe de seis meses de salario mínimo general vigente en la fecha de ocurrir el deceso, sin más trámites que la presentación del certificado de defunción y la constancia de gastos del sepelio.
 
-V. Realizar, sin permiso o autorización, en la vía pública, terreno de dominio público o afecto a un destino común, construcciones, instalaciones, excavaciones, depósito de materiales o escombros, o cualquier otra obra o acto que afecte sus funciones;
+#### SECCION SEPTIMA. De la Cuenta de Ahorro Individual para el Retiro
 
-VI. Llevar a cabo la ejecución de obras o instalaciones de cualquier naturaleza en lugares expresamente prohibidos para ello;
+###### ARTICULO 117.
 
-VII. Establecer o cambiar el uso de suelo o destino de un predio, inmueble o edificación, distinto a lo autorizado o al proyecto aprobado, sin la debida autorización del órgano competente;
+Es derecho de todo servidor público contar con una cuenta de ahorro individual para el retiro; para ello el Instituto establecerá en favor de los servidores públicos sujetos a las prestaciones que consagra esta Ley, una cuenta propia, misma que servirá para individualizar y administrar las aportaciones obligatoria y voluntaria a que se refiere el Artículo 121 de esta Ley, así como los rendimientos generados.
 
-VIII. Incurrir en actos u obras referentes a un fraccionamiento sin contar con la aprobación del proyecto y la autorización respectiva, y propiciar la ocupación ilegal de esas áreas y predios; y
+El Instituto administrará las cuentas de ahorro individuales, por sí, o a través de una institución experta en inversiones y reconocida legalmente, si así lo considera conveniente, la cual estará bajo supervisión y regulación del Instituto.
 
-IX. Continuar ejerciendo los derechos derivados de un permiso o autorización al vencerse el término del mismo, sin haber obtenido su renovación.
+###### ARTICULO 118.
 
-2. Quienes incurran en la reiteración de la conducta constitutiva de infracción, serán considerados reincidentes.
+La aportación obligatoria a que se refiere el Artículo anterior, será el dos por ciento sobre el sueldo base de cotización a que se refiere el Artículo 37 de esta Ley.
 
-###### ARTÍCULO 101.
+A fin de que el Instituto pueda individualizar y administrar dichas aportaciones, las entidades deberán proporcionar la información adicional de cada servidor público, que el Instituto le solicite en la forma y periodicidad que se señale para estos efectos.
 
-1. Las sanciones aplicables por las infracciones establecidas en el artículo 100, párrafo 1, anterior, serán las siguientes:
+###### ARTICULO 119.
 
-I. A quien se encuentre en el supuesto establecido en la fracción I, se le aplicará una sanción consistente en la rescisión del convenio, y multa de 350 a 500 veces el salario mínimo prevaleciente en la zona económica de que se trate;
+Los recursos individualizados y administrados en la cuenta de ahorro individual para el retiro de cada servidor público, son propiedad de éste, con las modalidades que se establecen en esta Ley y demás disposiciones aplicables.
 
-II. A quien se encuentre en el supuesto contemplado en la fracción II, se le aplicará una sanción consistente en la suspensión o demolición de construcciones e instalaciones, y suspensión de permisos o autorizaciones para construir o realizar cualquier tipo de obra en ese mismo predio por un plazo de seis a diez meses, y multa de 2,000 a 3,000 veces el salario mínimo prevaleciente en la zona económica de que se trate;
+Los recursos de la cuenta de ahorro individual para el retiro son inembargables y no podrán otorgarse como garantía.
 
-III. A quien se encuentre en alguno de los supuestos contemplados en las fracciones III, IV, V y VI, la suspensión o demolición de construcciones e instalaciones, y multa de 700 a 1,000 veces el salario mínimo prevaleciente en la zona económica de que se trate;
+###### ARTICULO 120.
 
-IV. A quien se encuentre en el supuesto contemplado en la fracción VII, la revocación en su caso, de las autorizaciones y permisos otorgados, y multa que será de 1,000 a 2,000 veces el salario mínimo prevaleciente en la zona económica de que se trate;
+Los servidores públicos no deberán tener más de una cuenta de ahorro individual para el retiro en este régimen.
 
-V. A quien se encuentre en el supuesto que establece la fracción VIII, se le impondrá multa de 2,000 a 3,000 veces el salario mínimo prevaleciente en la zona económica de que se trate; y
+Las cuentas de ahorro individuales deberán contener para su identificación, el registro federal de contribuyentes del servidor público, la cuenta única de registro de población u otro instrumento de identificación oficial.
 
-VI. A quien se encuentre en el supuesto que establece la fracción IX, se le impondrá multa de 700 a 1,000 veces el salario mínimo prevaleciente en la zona económica de que se trate.
+###### ARTICULO 121.
 
-2. A la persona física o moral que sin autorización alguna realice fusiones, divisiones, subdivisiones y relotificaciones de cualquier tipo de suelo, se le impondrá una sanción de 2,000 a 3,000 veces el salario mínimo prevaleciente en la zona económica de que se trate, sea propietario o no de dicho terreno.
+Las cuentas de ahorro individuales se integrarán con dos subcuentas:
 
-3. A quien después de vencido el plazo que la autoridad competente le hubiera concedido para que deje de cometer la infracción y subsane la misma, persista en la violación o falta, se le impondrá una multa adicional equivalente al cincuenta por ciento del valor de la multa impuesta por la violación o falta cometida, la que se incrementará hasta en un cien por ciento en caso de reincidir en segunda y ulteriores ocasiones.
+I.- Por la aportación obligatoria de las entidades para el ahorro para el retiro.
 
-4. Adicionalmente, los Ayuntamientos impondrán las sanciones que en esta materia prevean las demás disposiciones legales aplicables.
+II.- Por las aportaciones voluntarias de los servidores públicos.
 
-5. Corresponde al Estado y a las autoridades municipales, en el ámbito de sus respectivas competencias, decretar e imponer las sanciones previstas en este artículo.
+El objeto de la subcuenta voluntaria es fomentar el ahorro de los servidores públicos, la cual se sujetará a lo siguiente:
 
-6. Son sujetos responsables de la comisión de las infracciones y, consecuentemente, para la aplicación de las sanciones el propietario o poseedor del inmueble, o bien el responsable de las obras que se lleven a cabo en el mismo, contra quienes la autoridad podrá emitir el mandamiento en forma conjunta o solidaria.
+a). Los servidores públicos tendrán el derecho a realizar aportaciones voluntarias, ya sea por conducto de la entidad de su adscripción al efectuarse el entero de las cuotas o por sí mismos en las oficinas del Instituto.
 
-###### ARTÍCULO 102.
+El Instituto abonará las aportaciones recibidas por este concepto en la subcuenta voluntaria a más tardar el siguiente día hábil de su recepción; y
 
-Si el responsable se rehusare a cumplir las órdenes de autoridad competente relacionadas con presuntas infracciones o infracciones sancionadas a esta ley, o no realiza los trabajos relativos en el tiempo estrictamente necesario que se le señale, los hará la autoridad en rebeldía del responsable, siendo a cargo de éste los gastos y daños relativos, para cuyo cobro se aplicará el procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado, independientemente de que se apliquen las sanciones y se le exijan las demás responsabilidades legales a que hubiere lugar.
+b). El importe acumulado en la subcuenta voluntaria no se tomará en cuenta para el otorgamiento de los préstamos a corto plazo que esta Ley establece.
 
-###### ARTÍCULO 103.
+###### ARTICULO 122.
 
-La autoridad competente hará uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para la ejecución de las medidas de seguridad y sanciones que procedan.
+La inversión de los recursos de la cuenta de ahorro individual para el retiro, deberá hacerse en los términos establecidos en el Artículo 15 de esta Ley.
 
-###### ARTÍCULO 104.
+###### ARTICULO 123.
 
-Cuando en una misma acta se hagan constar diversas infracciones, en la resolución respectiva las multas se determinarán separadamente, así como el monto total de todas ellas.
+Los servidores públicos, en cualquier momento, podrán solicitar al Instituto su estado de cuenta de ahorro individual para el retiro.
 
-## TÍTULO XII. DE LOS MEDIOS DE DEFENSA
+###### ARTICULO 124.
 
-###### ARTÍCULO 105.
+El servidor público que adquiera el derecho a disfrutar una pensión de retiro por edad y antigüedad en el servicio o cualquier otra prestación de retiro señalada en esta Ley, previo cumplimiento de los requisitos establecidos para estos efectos, podrá optar por alguna de las siguientes alternativas de su cuenta de ahorro individual para el retiro:
 
-1. El recurso de reconsideración es el medio de defensa legal de los particulares afectados por las resoluciones emitidas por la autoridad competente en la aplicación de esta ley.
+I.- Renta vitalicia, que es el contrato por el cual el Instituto a cambio de recibir los recursos acumulados en la cuenta de ahorro individual para el retiro, se obliga a pagar periódicamente, de conformidad al cálculo actuarial, una pensión durante la vida del pensionado o para sus beneficiados en la forma y términos a que se refiere el Reglamento respectivo; y
 
-2. El recurso de reconsideración se interpondrá por escrito ante la propia autoridad que emitió el acto, dentro de los quince días hábiles siguientes a la notificación de la resolución que se impugne.
+II.- Retiros programados, que es el contrato por el cual el Instituto a cambio de recibir los recursos acumulados en la cuenta de ahorro individual para el retiro se obliga a pagar en fracciones hasta su agotamiento, el monto total de los recursos acumulados en la cuenta de ahorro individual para el retiro, para lo cual se tomará en cuenta la esperanza de vida de los pensionados, así como los rendimientos previsibles de los saldos.
 
-3. La resolución del recurso tendrá los efectos de confirmar, modificar o revocar la resolución impugnada.
+El servidor público que opte por los retiros programados podrá, en cualquier momento, contratar una renta vitalicia de acuerdo a lo dispuesto en la fracción I del presente Artículo.
 
-4. La interposición del recurso de reconsideración suspenderá la ejecución del acto impugnado, siempre y cuando:
+Previa solicitud del servidor público, el saldo acumulado en la subcuenta de aportaciones voluntarias se podrá retirar en una sola exhibición o bien aplicarlo para incrementar los importes a que se refieren las fracciones I o II de este Artículo.
 
-I. Lo solicite expresamente el recurrente;
+Los supuestos señalados en las fracciones anteriores se sujetarán a lo establecido en el Reglamento respectivo.
 
-II. Sea procedente el recurso;
+###### ARTICULO 125.
 
-III. No se siga perjuicio al interés social o se contravengan disposiciones de orden público;
+El servidor público que deje de prestar sus servicios en la dependencia de su adscripción y hubiera causado baja en el Instituto, tendrá derecho a:
 
-IV. No se ocasione daños o perjuicios a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable. Cuando con la suspensión puedan afectarse derechos de terceros que no sean estimables en dinero, la autoridad que emitió el acto fijará discrecionalmente el importe de la garantía; y
+I.- Continuar realizando aportaciones voluntarias a su cuenta de ahorro individual para el retiro;
 
-V. Tratándose de multas, el recurrente garantice el crédito fiscal en cualesquiera de las formas previstas en la ley de la materia.
+II.- Retirar de la subcuenta de aportaciones voluntarias, el importe acumulado, incluyendo los rendimientos del mismo;
 
-5. La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días siguientes a su interposición, en cuyo defecto se entenderá otorgada la suspensión.
+III.- Solicitar que la totalidad de los fondos acumulados en su cuenta de ahorro individual para el retiro, incluyendo sus rendimientos, sean transferidos a una Administradora de Fondos para el Retiro; para ello deberá acreditar haber sido beneficiado con una pensión otorgada por otro régimen de seguridad social que implique la obligación de efectuar depósitos en cuentas de ahorro individuales para el retiro, a efecto de que estos recursos se destinen a incrementar el monto de su pensión; y
 
-###### ARTÍCULO 106.
+IV.- Retirar el importe total de los fondos acumulados en su cuenta de ahorro individual para el retiro cuando hubiera cumplido 65 años de edad o se invalide en un porcentaje superior al cincuenta por ciento o cause muerte; en este último supuesto, el Instituto entregará el saldo de su cuenta de ahorro individual para el retiro a sus beneficiarios en el orden que establece el Artículo 64 de esta Ley.
 
-1. Al escrito de interposición del recurso de reconsideración se deberá acompañar:
+###### ARTICULO 126.
 
-I. La copia certificada del documento que acredite la personalidad del promovente, cuando se actúe como representante legal;
+El régimen financiero de las cuentas individuales, se sujetará a lo establecido en el Artículo 128 de esta Ley.
 
-II. La copia de la resolución o acto que se impugna;
+###### ARTICULO 127.
 
-III. La constancia de notificación del acto impugnado; y
+El Instituto no podrá, bajo ningún concepto, retener el pago de rentas vencidas ni retiros programados no cobrados por los pensionados, cuyos montos en todo momento estarán a disposición de éste, salvo lo dispuesto en el Artículo 45 de esta Ley.
 
-IV. Las pruebas que considere pertinentes, con excepción de la confesional y las que se estimen contra la moral o el derecho; y
+#### SECCION OCTAVA. Régimen Financiero del Fondo de Prestaciones Económicas
 
-2. En el recurso se expresarán los agravios que el promovente estime le causa la resolución o acto impugnado y los puntos petitorios en torno a la resolución de la autoridad.
+###### ARTICULO 128.
 
-3. Cuando no se acompañe el documento a que se refiere la fracción I del párrafo 1 del presente artículo, la autoridad correspondiente tendrá por no interpuesto el recurso.
+El régimen financiero del fondo de prestaciones económicas se sujetará a lo siguiente:
 
-4. Si se omitieren las pruebas, se tendrán por no ofrecidas.
+I.- Respecto a la prestación económica a que se refiere el Artículo 74, fracción VII de la presente Ley, las entidades afiliadas al régimen del Instituto, aportarán a éste, el dos por ciento del sueldo base de cotización de los servidores adscritos por concepto de ahorro para el retiro, y en lo referente al resto de las fracciones de que trata el mencionado Artículo, las entidades, los servidores públicos y los pensionistas afiliados al régimen del Instituto, aportarán a éste los porcentajes de sueldos base de cotización y de pensiones que señalen los acuerdos que expida la Junta Directiva orientados por la última actuación actuarial y que se publiquen en el Periódico Oficial del Estado:
 
-5. Cuando no se acompañen los documentos señalados en las fracciones II y III del párrafo 1 de este artículo se requerirá al recurrente para que los presente en un plazo de tres días hábiles; transcurrido dicho término, si el promovente no los presenta, se tendrá por no interpuesto el recurso.
+a). Los servidores públicos aportarán para el financiamiento de las prestaciones mencionadas en las fracciones II, III, V y VI del Artículo citado en esta fracción;
 
-###### ARTÍCULO 107.
+b). Los pensionistas aportarán para el financiamiento de la prestación mencionada en la fracción V del Artículo citado en esta fracción; y
 
-La autoridad competente, dentro de los treinta días hábiles siguientes a la celebración de la audiencia de desahogo de pruebas, dictará la resolución que corresponda, la que notificará personalmente al interesado.
+c). Las entidades aportarán para el financiamiento de las prestaciones mencionadas en las fracciones I a VII del Artículo citado en esta fracción.
 
-###### ARTÍCULO 108.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
-Al emitir resolución, la autoridad competente motivará y fundará la razón de la misma, por lo que valorará las pruebas ofrecidas y expondrá las consideraciones de hecho y de derecho que procedan.
+En el caso de las entidades, excepto para la aportación del ahorro para el retiro, la base de cotización se integrará, además de con el sueldo base de cotización de los servidores públicos que tengan adscritos, con la ayuda de despensa, renta, transporte, quinquenios y aguinaldo de que los mismos disfruten.
 
-###### ARTÍCULO 109.
+Las aportaciones de que trata este Artículo se harán de manera quincenal y serán enteradas en la misma forma al Instituto según lo previsto en las fracciones IV y VI del Artículo 36; en la inteligencia de que, ante la falta de su entero oportuno, será a cargo de la entidad de que se trate la compensación financiera prevista por (sic) último párrafo de tal precepto;
 
-La falta de actuación del recurrente por causas imputables a su persona durante el término de treinta días naturales, producirá la caducidad del procedimiento. La autoridad competente acordará el archivo de las actuaciones, notificándoselo al interesado.
+II.- Las aportaciones señaladas en la fracción anterior deberán depositarse en el fondo de prestaciones económicas, para lo cual debe constituirse un fideicomiso ante institución fiduciaria autorizada por la Ley de la materia, sin perjuicio de que el Instituto llevará registro individualizado de las aportaciones a la cuenta de ahorro individual para el retiro del servidor público.
 
-###### ARTÍCULO 110.
+Sólo podrán egresar del fondo fideicomitido, los recursos necesarios para el pago de los beneficios consignados en este capítulo y para la aportación de gastos de administración del Instituto que en forma proporcional corresponda a la operación de este fondo;
 
-En contra de la resolución que resuelva el recurso de reconsideración, no procede recurso administrativo alguno.
+III.- Deberá realizarse una contabilidad particular para este fondo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV.- Los activos fijos adquiridos con los recursos de este fondo deberán contabilizarse en él; y
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
+V.- La política de inversión será determinada por la Junta Directiva del Instituto.
 
-## TÍTULO XIII. DE LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
+### CAPITULO VI. Préstamos a Corto Plazo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### ARTICULO 129.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
+Los préstamos a corto plazo se harán a los servidores públicos y pensionistas conforme a las siguientes reglas:
 
-###### ARTÍCULO 111.
+I.- A quien haya cubierto al Instituto las aportaciones al fondo de ahorro cuando menos durante seis meses continuos;
 
-El presente capitulo tiene por objeto establecer las disposiciones y el procedimiento a seguir, por los organismos federales, estatales, y municipales encargados de la regularización de la tenencia de la tierra, la cual tiene por fin brindar seguridad jurídica a las familias que habitan asentamientos humanos consolidados creados de manera irregular, otorgándoles un título de propiedad.
+II.- Hasta por el importe total del fondo de ahorro acumulado del servidor público y en el caso de pensionistas hasta por el importe de quince veces el salario mínimo mensual general vigente en el Estado de Aguascalientes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+III.- El monto del préstamo lo constituirán el capital y los intereses del mismo; y
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+IV.- El solicitante no debe tener adeudos por este mismo concepto con el Instituto, salvo que se haya pagado al menos el cincuenta por ciento de los mismos.
 
-###### ARTÍCULO 112.
+###### ARTICULO 130.
 
-Solo serán sujetos de proceso de regularización, los asentamientos humanos consolidados y creados de manera irregular con anterioridad a la publicación de la presente ley, debiendo sujetarse a lo siguiente:
+Si el préstamo solicitado excede el monto a que se refiere la fracción II del Artículo anterior, se otorgará previa la autorización del Director General, la disponibilidad de recursos y que el solicitante no tenga otro adeudo pendiente con el Instituto y otorgue garantía solidaria. El límite máximo será por el importe de dieciocho veces el salario mínimo mensual general vigente en el Estado de Aguascalientes.
 
-I. El polígono en el que se ubica el asentamiento humano deberá estar previsto en los programas de desarrollo urbano y ordenamiento territorial, con un uso habitacional;
+Si el importe total del fondo de ahorro acumulado del servidor público excede del límite establecido en el párrafo anterior, el monto máximo de préstamo a otorgar a éste, cumpliendo con los requisitos anteriores, será el total de su fondo de ahorro más un cincuenta por ciento del mismo.
 
-II. Se deberá contar con el dictamen de protección civil, que señale en su caso las zonas de riesgo no susceptibles a uso habitacional;
+###### ARTICULO 131.
 
-III. Obtener la factibilidad para dotar de servicios, del organismo operador de agua potable y alcantarillado y de la Camisón (sic) Federal de Electricidad; y
+Los servidores públicos sólo podrán otorgar la garantía solidaria de préstamos a corto plazo cuando tengan disponibilidad en su fondo de ahorro, asimismo, los pensionistas podrán otorgar la garantía solidaria únicamente por el importe no dispuesto a que se refiere la fracción II del Artículo 129, en la inteligencia de que las garantías solidarias que otorguen afectarán el monto de disponibilidad.
 
-IV. Tratándose de predios que se encuentren afectados por derechos de vía, zonas federales o determinación restrictiva de la autoridad competente, se deberá obtener la delimitación de la instancia gubernamental correspondiente.
+###### ARTICULO 132.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Los préstamos se harán de tal manera que los abonos para reintegrar la cantidad prestada y sus intereses, sumados a los demás descuentos que deban hacerse al servidor público o pensionista no excedan del cincuenta por ciento de su sueldo base de cotización o pensión, salvo que éstos soliciten un descuento mayor.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+###### ARTICULO 133.
 
-###### ARTÍCULO 113.
+El plazo para el pago de los préstamos no será mayor de dieciocho meses.
 
-Al elaborarse el proyecto de lotificación, se deberán observar las siguientes normas técnicas:
+###### ARTICULO 134.
 
-I. Realizarse conforme al sistema de coordenadas planas métricas, UTM por sus siglas en idioma ingles (Universal Transversal of Mercator) e incorporadas a la Red Geodésica Nacional Activa del Instituto Nacional de Estadística, Geografía e Informática;
+Los préstamos a los que se refieren los Artículos 129 y 130 de este ordenamiento, causarán un interés anual sobre saldos insolutos igual al Costo Promedio Porcentual (CPP) vigente en la fecha de otorgamiento del préstamo más los puntos porcentuales adicionales que hayan sido autorizados para tales efectos por la Junta Directiva.
 
-II. Contener cuadro de construcción; y
+La determinación del nivel del diferencial adicional al CPP se realizará por la Junta Directiva en el mes de noviembre de cada año, para su aplicación durante el año siguiente. La tasa determinada será revisada cuatrimestralmente durante los meses de marzo, julio y noviembre.
 
-III. Especificar número de manzanas, lotes, superficie y medidas de cada predio, señalar la superficie total, la de vialidades con su sección, la de lotificación y la superficie del área de donación, especificando la superficie que corresponde al área verde y equipamiento urbano, en su caso.
+Asimismo, el otorgamiento de los préstamos a que se refiere el Artículo 130, se les calculará adicionalmente un cero punto veinticinco por ciento sobre el valor del préstamo por concepto de contribución al fondo de garantía. El fondo de garantía se constituye para absorber todos aquellos créditos que después de un año de su vencimiento y habiendo agotado los recursos legales de cobro, se les dé el carácter de incobrables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### ARTICULO 135.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+El pago de capital e intereses, y en los casos que proceda la contribución al fondo de garantía a que se refiere el Artículo anterior, se hará en abonos quincenales iguales y consecutivos.
 
-###### ARTÍCULO 114.
+###### ARTICULO 136.
 
-Los organismos regularizadores de la tenencia de la tierra someterán a la aprobación del Ayuntamiento respectivo, el plano de lotificación del asentamiento humano para que éste acuerde lo conducente, debiendo, en caso de aprobación, asignar las claves catastrales correspondientes a cada lote. Dicha aprobación entraña la autorización del proceso de regularización.
+Los adeudos que no sean cubiertos a su vencimiento, se les aplicará una tasa moratoria mensual, igual al Costo Promedio Porcentual vigente fijada por el Banco de México en la fecha en que se incurra en mora, multiplicada por dos y dividida entre doce.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### ARTICULO 137.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+Para efectos de recuperación de préstamos otorgados por el Instituto a los servidores públicos que tengan permiso sin goce de sueldo, se otorgará una tolerancia máxima de tres meses para el cargo de interés moratorio. Al término de este plazo, se deberán realizar los pagos oportunamente a fin de no considerarlo en la condición de moroso y facultar al Instituto para actuar en consecuencia.
 
-###### ARTÍCULO 115.
+###### ARTICULO 138.
 
-1. Es obligación del organismo promovente del proceso de regularización el inscribir el plano de lotificación y el acuerdo en el que se autoriza dicho proceso en el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano y posteriormente en el Registro Público de la Propiedad Inmueble y del Comercio.
+Para el otorgamiento de préstamos a corto plazo, se considera exclusivamente como fuente de financiamiento el constituido como fondo de ahorro.
 
-2. En virtud del fin social y beneficio que representa la regularización de la tenencia de la tierra y por ser de interés público, los trámites que contempla este Capítulo estarán exentos de pago de derechos.
+### CAPITULO VII. Préstamos Hipotecarios
 
-T R A N S I T O R I O S
+###### ARTICULO 139.
 
-### CAPITULO ÚNICO
+El Instituto podrá otorgar préstamos hipotecarios a los servidores públicos y pensionistas de acuerdo con los recursos aprobados por la Junta Directiva en el presupuesto anual y el fondo se formará con el porcentaje que determine la propia Junta de las aportaciones que se realicen al fondo de vivienda de la presente Ley.
 
-### CAPÍTULO ÚNICO
+###### ARTICULO 140.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 2006)</small>
+Los servidores públicos que hayan contribuido por más de dos años continuos al Instituto, podrán obtener préstamos con garantía hipotecaria en primer lugar sobre inmuebles urbanos.
 
-### CAPÍTULO ÚNICO
+Los préstamos se destinarán a los siguientes fines:
 
-### CAPÍTULO ÚNICO
+I.- La adquisición del terreno en el lugar que deberá construirse la vivienda del servidor público;
 
-### CAPÍTULO ÚNICO
+II.- La adquisición o construcción de la vivienda que habite o que vaya a habitar el servidor público;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+III.- Efectuar mejoras o reparaciones a la vivienda del servidor público; y
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+IV.- La redención de gravámenes que soporten tales inmuebles.
 
-## TÍTULO IV
+###### ARTICULO 141.
 
-###### ARTICULO PRIMERO
+El servidor público o pensionista que solicite un préstamo hipotecario deberá cumplir con los siguientes requisitos:
 
-Se expide la Ley de Desarrollo Urbano del Estado de Tamaulipas.
+a).- Tener más de dos años continuos de contribuir al Instituto;
 
-LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
+b).- Otorgar en garantía el terreno o vivienda que pretende adquirir y las construcciones o mejoras que vaya a efectuar en los mismos;
 
-###### ARTÍCULO SEGUNDO.
+c).- Que el inmueble esté inscrito en el Registro Público de la Propiedad, a nombre del servidor público o del de su cónyuge en caso de estar casados por sociedad conyugal, salvo en los casos de préstamos hipotecarios para adquisición de vivienda o terreno;
 
-Se abroga la Ley para el Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas, expedida mediante el Decreto número 468, publicado en el Periódico Oficial del Estado el día 25 de Octubre de 2001.
+d).- Acreditar la no propiedad de otros inmuebles que al momento de la solicitud del crédito hipotecario satisfagan las necesidades básicas habitacionales, lo anterior estará supeditado a verificación por parte del Instituto;
 
-###### ARTÍCULO TERCERO.
+e).- No tener adeudos pendientes de redimir con el Instituto;
 
-El Sistema Estatal de Información Geográfica previsto en el artículo 57 de la ley que se abroga quedará a cargo del Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano que se establece en la presente ley. Los recursos humanos y materiales a cargo de aquél y su acervo documental e informativo de todo tipo pasarán a ser responsabilidad de éste. Esta transferencia no implicará cambio ni disminución en la esfera de los derechos de los trabajadores del Sistema Estatal de Información Geográfica.
+f).- Que el inmueble se encuentre libre de gravámenes, salvo que el préstamo se solicite para liberarlo de ellos; y
 
-###### ARTÍCULO CUARTO.
+g).- Acreditar que el préstamo se destinará a alguno de los fines mencionados en el Artículo anterior.
 
-Continúan vigentes los decretos, planes que integran el Sistema Estatal, reglamentos y autorizaciones expedidas o aprobadas por el Ejecutivo del Estado, los Ayuntamientos o las autoridades competentes que actuaron conforme a la ley que se abroga, en todo lo que no se oponga a la presente.
+###### ARTICULO 142.
 
-En tanto se expiden los programas a que se refieren las fracciones XL a la XLV del artículo 5 de este ordenamiento, se atenderá lo previsto en los planes aludidos en el artículo 6 de la ley que se abroga.
+El importe del préstamo hipotecario no excederá de doscientos sesenta y cuatro veces el salario mínimo mensual general en el Estado de Aguascalientes, vigente en la fecha en que se solicite, reservándose el Instituto el derecho de otorgarlo de acuerdo con los recursos de que disponga y con la antigüedad de la solicitud.
 
-###### ARTÍCULO QUINTO.
+###### ARTICULO 143.
 
-El Consejo Estatal para el Desarrollo de las Ciudades se integrará con base en la convocatoria inicial que formule el Gobernador del Estado y celebrará su sesión inicial en la fecha que éste señale. Con posterioridad a esa sesión, se reunirá conforme a lo dispuesto por el artículo 15 párrafo 3 de la presente ley y las reglas de operación del Consejo.
+El préstamo hipotecario no deberá pasar del setenta y cinco por ciento del valor comercial de la finca o lote fijado por los peritos que designe el Instituto.
 
-###### ARTÍCULO SEXTO.
+Cuando se trate de un préstamo para ampliar, remodelar o reparar la casa habitación, la garantía se fincará sobre todo el inmueble, incluyendo las nuevas obras; el préstamo se entregará en cuatro ministraciones del veinticinco por ciento cada una, a comprobación de gastos.
 
-Los Comités Municipales para el Desarrollo Urbano se integrarán con base en las convocatorias iniciales que respectivamente formulen el Presidente Municipal de cada Ayuntamiento y celebrará su sesión inicial en la fecha que dicho servidor público señale. Con posterioridad a esa sesión, se reunirá conforme a lo dispuesto por el artículo 16 párrafo 3 de la presente ley y las reglas de operación del Comité.
+###### ARTICULO 144.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 3 de febrero del año 2006.- DIPUTADO PRESIDENTE.- SERVANDO LOPEZ MORENO.-Rúbrica.- DIPUTADO SECRETARIO.- ARMANDO MARTINEZ MANRIQUEZ.- Rúbrica.- DIPUTADO SECRETARIO.- BENJAMIN LOPEZ RIVERA.- Rúbrica.
+Los descuentos que deban hacerse del sueldo base de cotización del servidor público para cubrir las obligaciones a su cargo, y además amortizar el préstamo hipotecario, no deben exceder del cincuenta por ciento de dicho sueldo, salvo que éstos soliciten un descuento mayor.
+
+###### ARTICULO 145.
+
+Además de lo establecido en el Artículo anterior para fijarse el monto del préstamo deberá tomarse en cuenta los ingresos adicionales del servidor público y que compruebe a satisfacción del Instituto, por lo tanto, el descuento vía nómina del préstamo no debe ser menor al cincuenta por ciento del pago total quincenal por este concepto.
+
+###### ARTICULO 146.
+
+Los préstamos hipotecarios causarán un interés anual sobre saldos insolutos, igual al Costo Promedio Porcentual (CPP) más los puntos porcentuales adicionales que hayan sido autorizados para tales efectos por la Junta Directiva, conforme lo establece el Artículo 134.
+
+###### ARTICULO 147.
+
+Durante los primeros cinco días hábiles de los meses de enero, abril, julio y octubre de cada año, el Instituto actualizará los intereses de acuerdo al Costo Promedio Porcentual vigente en esas fechas.
+
+###### ARTICULO 148.
+
+El plazo máximo para el pago del capital e intereses del crédito hipotecario, será de quince años y se hará en abonos quincenales consecutivos.
+
+###### ARTICULO 149.
+
+El servidor público a quien se le otorgue un crédito hipotecario, se obliga a adquirir un seguro de vida con el Instituto por una suma asegurada que será igual al monto objeto del préstamo, en donde designe como beneficiario al propio Instituto.
+
+Adicionalmente, el servidor público beneficiado con un crédito hipotecario se obliga a adquirir un contrato de seguro contra daños por causa de fuerza mayor o caso fortuito, mismo en el que señalará como beneficiario al Instituto por el valor destructible del inmueble y hasta por el monto insoluto de su adeudo.
+
+Tanto el seguro de vida como el de daños a que se contraen los dos párrafos precedentes, deberán ser contratados en el término de los diez días hábiles que sigan a la firma de la escritura pública en que se consigne el mutuo y la garantía hipotecaria correspondiente.
+
+###### ARTICULO 150.
+
+Si por la separación del servidor público se hace necesaria una prórroga, previa solicitud y a juicio del Instituto podrá concederse un plazo máximo de espera de seis meses, al término del cual deberá reanudar sus pagos bajo las condiciones que en cada caso se establezcan.
+
+###### ARTICULO 151.
+
+Las cantidades que no sean cubiertas a su vencimiento, se les aplicará una tasa moratoria mensual, igual al Costo Promedio Porcentual vigente fijada por el Banco de México en la fecha en que se incurra en mora, multiplicada por dos y dividida entre doce.
+
+###### ARTICULO 152.
+
+El servidor público sólo podrá hacer uso del préstamo hipotecario por una sola vez.
+
+### CAPITULO VIII. Fondo de Vivienda
+
+###### ARTICULO 153.
+
+El objetivo primordial del fondo de vivienda es el de otorgar créditos a mediano y largo plazo para facilitar la adquisición de viviendas de interés social a los servidores públicos y pensionistas afiliados al Instituto.
+
+###### ARTICULO 154.
+
+Los recursos del fondo a que se refiere el Artículo anterior, se integran con:
+
+I.- El porcentaje que determine anualmente la Junta Directiva de las aportaciones de las entidades;
+
+II.- Las aportaciones que haga el propio Instituto al fondo, según su presupuesto anual autorizado por la Junta Directiva; y
+
+III.- Los rendimientos que se obtengan de las inversiones de los recursos a que se refieren las fracciones anteriores.
+
+###### ARTICULO 155.
+
+El Instituto con base en los recursos del fondo de vivienda, determinará mediante un presupuesto anual, cuál será el destino de la aplicación del mismo, que en orden de importancia serán los siguientes:
+
+I.- El otorgamiento de créditos para el pago del enganche, en el porcentaje que acuerde la Junta Directiva cuando tenga por objeto la adquisición de viviendas de interés social por parte de los servidores públicos y pensionistas, previo convenio que para el efecto realice el Instituto con las instituciones promotoras de estas viviendas, cuidando en todo momento la garantía de recuperación de estos financiamientos;
+
+II.- El otorgamiento de créditos para el pago del enganche, cuando tenga por objeto la adquisición de lotes con servicios u otro tipo de vivienda por parte de los servidores públicos y pensionistas, previendo las consideraciones del párrafo anterior;
+
+III.- El financiamiento de la construcción de conjuntos habitacionales para ser adquiridos por los servidores públicos y pensionistas mediante créditos que otorgue el Instituto, directamente o con la participación de entidades públicas y/o privadas.
+
+Estos financiamientos sólo se concederán por concurso y tratándose de programas habitacionales aprobados por el Instituto y que se ajusten a las disposiciones aplicables en materia de construcción;
+
+IV.- Para cubrir los gastos de administración, operación y vigilancia del fondo conforme a esta Ley; y
+
+V.- Las demás erogaciones relacionadas con su objeto.
+
+###### ARTICULO 156.
+
+El otorgamiento de créditos para el enganche de inmuebles que promueva el Instituto de Vivienda del Estado de Aguascalientes a los servidores públicos y pensionistas afiliados, se realizará sólo en los casos en que éste haya hecho la asignación correspondiente bajo su propia normatividad y de conformidad al convenio suscrito con el Instituto para estos efectos.
+
+###### ARTICULO 157.
+
+Las asignaciones de los créditos se harán por una sola vez y en estricto orden de antigüedad de las solicitudes.
+
+###### ARTICULO 158.
+
+El plazo de pago de los créditos será de acuerdo con los montos de los enganches y en un plazo no mayor de tres años.
+
+###### ARTICULO 159.
+
+El otorgamiento de los créditos, así como su recuperación, serán con base en salarios mínimos vigentes en el Estado de Aguascalientes, los cuales se actualizarán en la misma base y no causarán intereses.
+
+###### ARTICULO 160.
+
+Las cantidades que no sean cubiertas a su vencimiento, se les aplicará una tasa moratoria mensual, igual al Costo Promedio Porcentual vigente fijada por el Banco de México, en la fecha en que se incurra en mora, más cero punto cinco del valor del mismo.
+
+###### ARTICULO 161.
+
+La garantía del pago del crédito la otorgará el Instituto de Vivienda del Estado de Aguascalientes o la institución promotora de viviendas de interés social con base en el bien inmueble objeto del crédito principal y en la proporción que le corresponda, para lo cual se establecerán todos los mecanismos legales y de coordinación para el mejor control en el otorgamiento, administración y recuperación de estos financiamientos.
+
+###### ARTICULO 162.
+
+El régimen financiero del fondo de vivienda y préstamos hipotecarios se sujetará a lo siguiente:
+
+I.- Las entidades aportarán a este fondo quincenalmente el uno punto setenta y cinco por ciento de los sueldos base de cotización de los servidores públicos;
+
+II.- Las aportaciones señaladas en la fracción anterior deberán depositarse en el fondo de vivienda, para lo cual debe constituirse un fideicomiso ante la institución fiduciaria autorizada por la Ley de la materia.
+
+Sólo podrán egresar del fondo fideicomitido, los recursos necesarios para el pago de los beneficios consignados en este capítulo y para la aportación de gastos de administración del Instituto, que en forma proporcional corresponda a la operación de este fondo;
+
+III.- El Instituto deberá realizar una contabilidad particular para ese fondo;
+
+IV.- La política de inversión será determinada por la Junta Directiva del Instituto; y
+
+V.- Las aportaciones a que se refiere este Artículo se harán de manera quincenal y a las mismas le serán aplicables los términos de las fracciones IV y VI y el último párrafo del Artículo 36 de esta Ley.
+
+### CAPITULO IX. De los Servicios de la Estancia de Bienestar Infantil
+
+###### ARTICULO 163.
+
+El servicio de la Estancia de Bienestar Infantil establecido en la fracción X del Artículo 34 de este Ordenamiento, tendrá por objeto brindar una adecuada atención para el bienestar y desarrollo infantil de los hijos de las servidoras públicas, de los hijos del servidor público viudo o divorciado que conserve la custodia de éstos, y de los menores a cargo de aquellos servidores públicos que jurídicamente se les haya otorgado la tutela de los mismos, en tanto no contraigan nupcias o vivan en concubinato.
+
+###### ARTICULO 164.
+
+Se considerarán servicios de la Estancia de Bienestar Infantil, la guardia, custodia, aseo, alimentación, educación, de los menores que asistan a la Estancia, con la finalidad de que sus progenitores o tutores puedan laborar dentro de su turno correspondiente, con sujeción a los horarios establecidos administrativamente por el Instituto para otorgar el servicio.
+
+###### ARTICULO 165.
+
+Los servidores públicos para gozar de este servicio deberán cumplir con los requisitos que para tales efectos establece el presente ordenamiento y el reglamento respectivo, considerándose en todo caso que exista disponibilidad de espacio en la Estancia de Bienestar Infantil y sea cubierta la aportación de recursos y/o cuotas de cada Entidad.
+
+###### ARTICULO 166.
+
+La Junta Directiva aprobará anualmente el programa de trabajo y el presupuesto de operación para la prestación del servicio de la Estancia.
+
+###### ARTICULO 167.
+
+El régimen financiero de la Estancia de Bienestar Infantil, se sujetará a lo siguiente:
+
+I.- Las aportaciones para el otorgamiento de los servicios serán realizadas por las dependencias usuarias y por el trabajador usuario de la misma, las entidades aportarán el noventa por ciento del costo mensual que hubiere determinado el Instituto en el mes inmediato anterior y el servidor público usuario aportará el diez por ciento restante;
+
+II.- Para la realización de ampliaciones se deberán obtener recursos adicionales, tanto de los programas estatales y municipales como federales o de todos ellos; y
+
+III.- El Instituto creará y llevará una contabilidad de este servicio por separado, la cual será revisada por la Junta Directiva en cada una de sus sesiones ordinarias.
+
+### CAPITULO X. Fondo de Ahorro
+
+###### ARTICULO 168.
+
+El fondo de ahorro estará integrado por las aportaciones que hagan los servidores públicos y las entidades en los términos siguientes:
+
+Los servidores públicos aportarán el cinco por ciento del sueldo base de cotización, descontándosele quincenalmente.
+
+Las entidades aportarán el dos punto cinco por ciento de los sueldos base de cotización de los servidores públicos, quincenalmente.
+
+El fondo de ahorro de los servidores públicos generará rendimientos con base en la tasa que determine la Junta Directiva, en el mes de noviembre de cada año, siendo revisada y en su caso actualizada en los meses de marzo y julio.
+
+###### ARTICULO 169.
+
+Durante el mes de enero de cada año, los servidores públicos podrán solicitar al Instituto la entrega de los rendimientos generados durante el año inmediato anterior en su cuenta personal por las aportaciones hechas en los términos del Artículo que antecede.
+
+La Junta Directiva determinará las políticas para la devolución de los rendimientos que generó el fondo de ahorro de los trabajadores.
+
+En caso de no solicitar el servidor público los rendimientos, se capitalizarán a su propio fondo de ahorro y ya no tendrá derecho a requerirlos a excepción de lo establecido en el Artículo 170 de esta Ley.
+
+###### ARTICULO 170.
+
+A los servidores públicos que sean pensionados o causen baja por cualquier otra causa, les será reintegrado el importe acumulado del fondo de ahorro a que se refiere el Artículo 168 de la presente Ley, dentro de los treinta días hábiles siguientes a la fecha en que lo soliciten.
+
+###### ARTICULO 171.
+
+Si el servidor público falleciera estando en activo, el Instituto entregará a sus beneficiarios, acreditados en la carta testamentaria correspondiente, el importe del fondo de ahorro que le corresponda.
+
+###### ARTICULO 172.
+
+El fondo de ahorro sólo podrá ser afectado si el servidor público tuviera algún adeudo con el Instituto; hubiera otorgado garantía solidaria con otros servidores públicos o por responsabilidades con la entidad de su adscripción.
+
+###### ARTICULO 173.
+
+El fondo de ahorro se sujetará a las siguientes disposiciones:
+
+I.- Las aportaciones deberán depositarse en este fondo, para lo cual debe constituirse un fideicomiso ante institución fiduciaria autorizada por la Ley, dichas aportaciones se harán de manera quincenal y a las mismas les serán aplicables los términos de las fracciones IV y VI y el último párrafo del Artículo 36 de esta Ley.
+
+Podrán egresar del fondo fideicomitido los recursos necesarios para realizar los préstamos a corto plazo, para el pago de rendimientos y pago del fondo de ahorro por baja del trabajador. La Junta Directiva determinará el egreso mensual necesario para operar con la agilidad requerida para el pago de los préstamos a corto plazo; y
+
+II.- Deberá realizarse una contabilidad particular para este fondo. Los gastos de administración del Instituto serán cargados de manera proporcional a dicho fondo.
+
+### CAPITULO XI. De los Servicios Sociales
+
+###### ARTICULO 174.
+
+El Instituto en cumplimiento de la fracción XII del Artículo 34 de este Ordenamiento, contando con la cooperación y apoyo de los servidores públicos de las entidades, otorgará prestaciones y realizará promociones sociales orientadas a mejorar su nivel de vida y el de su familia.
+
+###### ARTICULO 175.
+
+Para los efectos del Artículo anterior, la Junta Directiva formulará y aprobará anualmente el presupuesto y programa de actividades para atender las prestaciones y promociones sociales, los cuales serán revisados cuando así lo requiera la Junta Directiva.
+
+###### ARTICULO 176.
+
+El Instituto reglamentará y señalará la organización que atienda y proporcione los servicios sociales que se establezcan.
+
+###### ARTICULO 177.
+
+Para la elaboración de los programas y ejecución de las promociones tendientes a elevar el nivel de vida de los servidores públicos, el Instituto deberá realizar los estudios y practicar las investigaciones necesarias para ello.
+
+###### ARTICULO 178.
+
+Todas las actividades en materia de servicios sociales deberán ser autofinanciadas y de ninguna manera con cargo al patrimonio de los fondos fideicomitidos.
+
+### CAPITULO XII. Servicios que Mejoren el Nivel de Vida del Servidor Público y de su Familia
+
+###### ARTICULO 179.
+
+Dentro del régimen de seguridad social que establece este Ordenamiento, el Instituto podrá realizar promociones especiales y otorgar prestaciones a fin de mejorar y salvaguardar las condiciones económicas, sociales y culturales de los derechohabientes que estén sujetos a esta Ley mediante:
+
+I.- Centros vacacionales y campos recreativos o deportivos;
+
+II.- Promoción de viajes recreativos o culturales;
+
+III.- Servicios funerarios integrales; y
+
+IV.- Otros servicios que determine la Junta Directiva.
+
+Las promociones que se realicen a fin de otorgar las prestaciones a que se refieren las fracciones anteriores, serán resultado de estudios de prefactibilidad social y económica que realice el Instituto y apruebe la Junta Directiva.
+
+###### ARTICULO 180.
+
+El Instituto considerará en su presupuesto anual y de acuerdo con los recursos disponibles, los gastos e inversiones que demande el desarrollo de los programas que se señalan en este capítulo.
+
+###### ARTICULO 181.
+
+Los servicios señalados en este capítulo deberán ser autofinanciados y de ninguna manera con cargo al patrimonio de los fondos fideicomitidos.
+
+### CAPITULO I. De la Continuación Voluntaria en el Régimen de Seguridad y Servicios Sociales
+
+## TITULO CUARTO. DISPOSICIONES VARIAS
+
+### CAPITULO II. Responsabilidades y Sanciones
+
+###### ARTICULO 182.
+
+Cuando el servidor público solicite permiso o licencia para separase de su cargo y quisiera que el tiempo de ausencia se le tome en cuenta como efectivo para los efectos de esta Ley, se estará a las siguientes reglas:
+
+I.- Presentar solicitud por escrito al Instituto expresando que se ajusta a lo dispuesto en este Artículo;
+
+II.- El tiempo en que el servidor público puede permanecer en este régimen no debe exceder de doce meses;
+
+III.- El servidor público pagará las cuotas señaladas en esta Ley, tanto para él como para la entidad de su adscripción, calculadas sobre el último salario base de cotización recibido al solicitar el permiso;
+
+IV.- El servidor público liquidará quincenalmente, en las oficinas del Instituto las cuotas correspondientes;
+
+V.- Si el servidor público deja de pagar las cuotas señaladas durante tres quincenas consecutivas, se dará por terminado el régimen de continuación voluntaria;
+
+VI.- El Instituto comunicará por escrito al servidor público la autorización o terminación de la continuación voluntaria en el régimen de seguridad y servicios sociales; y
+
+VII.- Al término del permiso o licencia y al reintegrarse al servicio, el servidor público lo hará del conocimiento, por escrito, a la Dirección del Instituto, con lo que se suspenderá la continuación voluntaria y seguirá en el régimen normal que establece esta Ley.
+
+### CAPITULO III. De la Prescripción
+
+###### ARTICULO 183.
+
+Las entidades afiliadas están obligadas a incorporar al Instituto a todos los servidores públicos que les presten sus servicios, así como a cumplir con las obligaciones a que se refiere esta Ley; de lo contrario son responsables del pago de las prestaciones a que el servidor público pudiera tener derecho de acuerdo con esta Ley, en ese caso el Instituto procederá a determinar cuál es el costo de las prestaciones a que tiene derecho el servidor público en determinado momento, y cobrarlas directamente a la entidad correspondiente.
+
+###### ARTICULO 184.
+
+Las entidades están obligadas a hacer del conocimiento del Instituto en los plazos establecidos en esta Ley, las modificaciones a los sueldos base de cotización y a las prestaciones; de lo contrario son responsables ante el Instituto del importe de los beneficios a que tuviera derecho el servidor público, en la inteligencia que el Instituto procederá a hacer el cálculo del importe de dichos beneficios de conformidad al sueldo base de cotización y a las prestaciones reales, y las diferencias las cobrará directamente a la entidad responsable.
+
+###### ARTICULO 185.
+
+Los pagadores o encargados de cubrir sueldos, que no efectúen con oportunidad los descuentos por recuperaciones de préstamos a corto plazo, hipotecados o cualquier otro adeudo que se tenga con el Instituto y que éste les hubiera remitido para estos efectos, serán sancionados con una multa equivalente al cinco por ciento de las cantidades no descontadas, independientemente de la responsabilidad civil o penal en que incurran.
+
+###### ARTICULO 186.
+
+La sanción prevista en el Artículo anterior, será impuesta por el Director General del Instituto después de oír al interesado, y será revisable por la Junta Directiva si se hace valer por escrito el recurso de inconformidad dentro de un plazo de quince días naturales.
+
+###### ARTICULO 187.
+
+Los servidores públicos del Instituto estarán sujetos a las responsabilidades oficiales, civiles, administrativas y penales en que pudieran incurrir, de acuerdo con las disposiciones legales aplicables.
+
+###### ARTICULO 188.
+
+Se sancionará de conformidad con el Código Penal del Estado, el obtener las prestaciones y servicios que esta ley establece, sin que se tenga derecho a éstos o el carácter de beneficiario, mediante cualquier engaño, ya sea en virtud de simulaciones, sustitución de personas o cualquier otro acto; asimismo, a la persona que otorgue o facilite la obtención de las prestaciones y servicios que esta Ley establece, bajo los supuestos antes referidos, se remitirá a la Contraloría General del Estado en términos de lo establecido en la Ley de Responsabilidad de los Servidores Públicos del Estado de Aguascalientes, independientemente de la responsabilidad civil o penal en que incurran.
+
+###### ARTICULO 189.
+
+Los servidores públicos del Instituto estarán obligados a cuidar la información institucional y la de sus derechohabientes en su integridad, confidencialidad y debida reserva, y se castigará todo uso indebido de la misma por cualquier medio, en términos de la legislación aplicable.
+
+###### ARTICULO 190.
+
+Cuando se finque una responsabilidad pecuniaria a un servidor público en favor del Instituto, la entidad de su adscripción hará los descuentos correspondientes hasta por el importe de dicha responsabilidad, sin más limitaciones que las establecidas en esta Ley.
+
+###### ARTICULO 191.
+
+El derecho a la pensión es imprescriptible.
+
+Las pensiones vencidas, las indemnizaciones y cualquier otra prestación en dinero a cargo del Instituto, prescribirán a su favor si no se reclaman dentro de los dos años siguientes a la fecha en que hubieran cumplido con los requisitos para ser exigibles.
+
+El derecho del servidor público o pensionado, y en su caso de sus beneficiarios, a recibir los recursos de la cuenta de ahorro individual para el retiro, prescribirá en favor del Instituto a los diez años a partir de la fecha en que sean exigibles, en términos del párrafo que antecede.
+
+###### ARTICULO 192.
+
+Los créditos respecto de los cuales el Instituto tenga el carácter de acreedor, cualquiera que sea su especie, prescribirán en diez años a partir de la fecha en que el propio Instituto pueda, conforme a la Ley, ejercitar sus derechos.
+
+###### ARTICULO 193.
+
+Las obligaciones que en favor del Instituto señala la presente Ley a cargo de las entidades, prescribirán en diez años a partir de la fecha en que sean exigibles. La prescripción se interrumpirá por cualquier gestión de cobro.
+
+###### ARTICULO 194.
+
+Las diferencias que surjan con motivo de la aplicación de esta Ley, serán resueltas por el Tribunal de Arbitraje para los Trabajadores al Servicio del Estado, mediante la tramitación del juicio correspondiente.
+
+## ARTICULOS TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de fecha 11 de agosto de 1991 y sus reformas publicadas en el Periódico Oficial del Estado los días 2 de enero de 1994 y 31 de diciembre de 1995.
+
+###### ARTICULO TERCERO.
+
+Los Artículos relativos a la pensión por antigüedad, vejez, invalidez, causa de muerte y el seguro de retiro, continuarán vigentes para los servidores públicos que hayan ingresado a laborar a alguna de las entidades, hasta antes de la entrada en vigor de la presente ley, por ello las aportaciones que se enteren en términos del Artículo 128, fracción I de esta Ley, servirán para el financiamiento de dichas prestaciones. Los servidores públicos antes señalados, así como sus beneficiarios al momento de cumplirse, en términos de la Ley, los supuestos legales para el disfrute de cualquiera de las prestaciones anteriormente señaladas, podrán optar por acogerse al beneficio de la ley que se abroga o al esquema de pensiones establecido en el presente ordenamiento legal.
+
+###### ARTICULO CUARTO.
+
+Los trámites, juicios y procedimientos iniciados con anterioridad a la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
+
+###### ARTICULO QUINTO.
+
+El Instituto realizará en nombre y representación de sus afiliados activos, las acciones y gestiones necesarias para que las, aportaciones que se efectuaron a favor de los servidores públicos bajo el amparo del Reglamento del Sistema de Ahorro para el Retiro de los Servidores Públicos del Estado de Aguascalientes y que fueron canalizados al Sistema Federal de Ahorro para el Retiro, así como sus rendimientos financieros, sean transferidos al sistema de cuenta de ahorro individual para el retiro establecido en esta Ley.
+
+###### ARTICULO SEXTO.
+
+Una vez que las aportaciones y sus rendimientos señalados en el Artículo anterior sean recibidos por el Instituto, serán transferidos al sistema de cuentas de ahorro individuales para el retiro que se refiere esta Ley; para ello el Instituto procederá a constituir en favor de cada servidor público una subcuenta denominada SAR, la cual no estará comprendida dentro de las aportaciones obligatorias de la cuenta individual consignada en el Artículo 121 de este ordenamiento, legal. Esta subcuenta seguirá generando los rendimientos respectivos y no se podrán hacer nuevas aportaciones.
+
+###### ARTICULO SEPTIMO.
+
+El régimen financiero aplicable a los recursos de la subcuenta SAR, se sujetará a lo establecido en las disposiciones contenidas en el Artículo 128, fracciones II, III, IV y V de esta Ley.
+
+###### ARTICULO OCTAVO.
+
+Los servidores públicos que hubieran cotizado al Instituto hasta antes de la entrada en vigor de la presente Ley y hubieran cumplido en términos de la ley los supuestos para el disfrute de cualquiera de las pensiones bajo el amparo de la Ley que se abroga, recibirán la pensión a indemnización correspondiente. Adicional a lo anterior, podrán solicitar los recursos totales de su subcuenta SAR, los que podrán ser entregados en una sola exhibición, dentro de los treinta días hábiles siguientes a la fecha en que los soliciten, en el entendido de que esta situación quedará sujeta al cumplimiento de lo dispuesto en el Artículo Quinto Transitorio de la presente reforma legal.
+
+Se podrá entregar en una sola exhibición los recursos a que se refiere el párrafo anterior, en los términos del Artículo 124, a aquellos servidores públicos afiliados que se adhieran a la presente Ley.
+
+###### ARTICULO NOVENO.
+
+Los depósitos constituidos en favor de los servidores públicos en términos del Decreto que contiene el Reglamento del Sistema de Ahorro para el Retiro de los Servidores Públicos del Estado de Aguascalientes publicado en fecha 27 de septiembre de 1992, se sujetarán a lo establecido en los Artículos Quinto, Sexto y Séptimo Transitorios de la presente Ley.
+
+###### ARTICULO DECIMO.
+
+Las entidades están obligadas a incorporar a todos sus servidores públicos al Instituto en los términos de esta Ley desde el primer día de que empiecen a prestarles sus servicios. Las entidades que a partir de la vigencia de esta Ley no incorporen a todos sus servidores públicos serán responsables del pago de las prestaciones a que pudieran tener derecho conforme a esta Ley y que el Instituto no les pueda proporcionar por no cumplir con los periodos de cotización respectivos. Las entidades que hayan incorporado a sus servidores públicos al Instituto con anterioridad a la vigencia de esta Ley, pero no desde la fecha de inicio de la prestación de sus servicios, serán responsables del pago en la proporción que les corresponda de conformidad con los años de aportación requeridos para cada prestación.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Los Gobiernos del Estado y de los Municipios de Aguascalientes, el Hospital Hidalgo y el Sistema para el Desarrollo Integral de la Familia D.I.F., continuarán aportando el porcentaje de las pensiones acordadas antes de esta Ley y hasta su vencimiento.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+El Instituto cubrirá el porcentaje de las pensiones acordadas antes de esta Ley y hasta su vencimiento.
+
+Las solicitudes de pensión que al entrar en vigor esta Ley se encuentren en trámite se sujetarán a los términos de la misma.
+
+###### ARTICULO DECIMO TERCERO.
+
+Los préstamos hipotecados que se concedieron y las viviendas que haya vendido el Instituto con anterioridad a esta Ley y que observen adeudo a cargo del servidor público al entrar en vigor esta Ley se sujetarán para el cálculo de los pagos correspondientes a lo que este ordenamiento dispone en sus capítulos respectivos.
+
+###### ARTICULO DECIMO CUARTO.
+
+A los técnicos profesionales con categoría "A" y "B", que hayan venido laborando bajo el régimen de base hasta el 31 de diciembre de 1995, les serán respetados todos los derechos que señala el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado, Municipios y Organismos Descentralizados.
+
+###### ARTICULO DECIMO QUINTO.
+
+Quedan derogadas todas aquellas disposiciones de carácter general que se opongan a la presente Ley.
+
+Dado en el salón de sesiones del H. Congreso del Estado, a los dieciocho días del mes de enero del año dos mil uno.- D.P., Abel Láriz Serna.- D.S., Jorge Rodríguez León.- D.S., Ernesto Ruiz Velasco de Lira.- Rúbricas».
+
+Y tenemos el honor de comunicarlo a usted para su conocimiento y efectos legales consiguientes, reiterándole las seguridades de nuestra consideración distinguida.
+
+SUFRAGIO EFECTIVO, NO REELECCION.
+
+DIPUTADO PRESIDENTE,
+
+Abel Láriz Serna.
+
+DIPUTADO SECRETARIO,
+
+Jorge Rodríguez León.
+
+DIPUTADO SECRETARIO,
+
+Ernesto Ruiz Velasco de Lira.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintiún días del mes de abril del año dos mil seis.
+Aguascalientes, Ags., 26 de enero de 2001.
 
-ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+Felipe González González.
+
+EL SECRETARIO GENERAL DE GOBIERNO,
+
+Lic. Abelardo Reyes Sahagún.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 26 DE OCTUBRE DE 2006.
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTÍCULO PRIMERO.
 
