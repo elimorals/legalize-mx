@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1962-12-29"
+last_updated: "1963-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1962.
-
-DECRETO No. 257
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1963.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -609,9 +607,13 @@ LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
 LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites y suprimir alguna o algunas de ellas.
 
-LIV. Conceder por tiempo limitado privilegio exclusivo a los inventores, introductores o perfeccionadores de algún arte o mejora útil.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
 
-LV. Ejercer las demás facultades que le señala esta Constitución y la General de la República.
+LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en los casos a que se refiere la fracción XLV del Artículo 91, dándole inmediata cuenta de la resolución, a fin de que proceda en consecuencia.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
+
+LV. Ejercer las demás facultades que le señala esta Constitución, la General de la República u otras leyes.
 
 ###### Art. 59.
 
@@ -669,7 +671,17 @@ VIII. Recibir la protesta de los funcionarios en los casos en que deban rendirla
 
 IX. Resolver sobre las solicitudes de carácter urgente que se le presentaren; cuando la resolución exija la expedición de una ley o decreto, se concretará la Comisión a formular dictamen para dar cuenta a la Legislatura.
 
-X. Ejercer en su caso las facultades que al Congreso concede la fracción XVI del artículo 58 de esta Constitución.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
+
+X.- Resolver, en definitiva, en los recesos del Congreso, sobre las medidas que adopte el Gobernador en los casos a que se refiere la fracción XLV del artículo 91, dándole inmediata cuenta de la resolución a fin de que proceda en consecuencia.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
+
+XI.- Ejercer, en su caso, las facultades que al Congreso concede la fracción XVI del Artículo 58 de esta Constitución.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
+
+XII.- Las demás que le confieren las Leyes.
 
 ###### Art. 63.
 
@@ -975,7 +987,13 @@ XLIII. Respetar y hacer que se respete la libre emisión del voto popular en las
 
 XLIV. Conceder con arreglo a las leyes habilitaciones de edad a los menores para contraer matrimonio.
 
-XLV. Los demás que le confiere esta Constitución u otra ley.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
+
+XLV.- Adoptar, en casos graves, las medidas que juzgue necesarias para salvaguardar el orden público o la paz social, o la economía del Estado o la de los Municipios, dando cuenta inmediata al Congreso o en su receso a la Diputación Permanente, para que resuelvan en definitiva.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
+
+XLVI. Los demás que le confiere esta Constitución u otra Ley.
 
 ###### Art. 92.
 
@@ -1830,3 +1848,13 @@ P.O. 29 DE DICIEMBRE DE 1962
 DECRETO No. 257
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 1963.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Envíese al Ejecutivo para su promulgación, publicación y debido cumplimiento.
