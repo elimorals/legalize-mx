@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-instituto-tecnologico-del-estado-de-sonora-122
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-10-02"
-last_updated: "1976-10-02"
+last_updated: "1987-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "SON"
 ---
 # LEY ORGANICA DEL INSTITUTO TECNOLOGICO DEL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE ENERO DE 2016 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 1987.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el sábado 2 de octubre de 1976.
 
@@ -81,9 +79,19 @@ En el ejercicio de sus funciones, el Instituto analizará todas las formas de pe
 
 La libertad académica será un principio de observancia permanente. Por ella deberá entenderse que se analizarán todas las corrientes del pensamiento y todas las posturas ideológicas, sin que se adopte o se imponga a sus integrantes una ideología determinada. Será obligatorio, sin embargo, que se cumpla cabalmente con los planes y programas de estudio, investigación y difusión elaborados en los términos y por los organismos que establece esta ley.
 
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 5o.
 
-El instituto podrá otorgar validez a los estudios realizados en otras instituciones de acuerdo con los reglamentos respectivos y expedir los títulos profesionales, grados académicos y certificados de estudio a las personas que hayan cumplido con los requisitos y obligaciones que señala esta ley y sus reglamentos. El Instituto podrá en cualquier tiempo realizar sus funciones fuera de Ciudad Obregón, Sonora.
+El Instituto podrá:
+
+I.- Otorgar para fines académicos validez a los estudios realizados en otras instituciones educativas;
+
+II.- Incorporar y revalidar estudios así como establecer equivalencias, de acuerdo con los reglamentos respectivos.
+
+III.- Expedir títulos profesionales, grados académicos y certificados de estudios a las personas que hayan cumplido con los requisitos y obligaciones que señala esta Ley y sus reglamentos.
+
+El Instituto podrá en cualquier tiempo realizar sus funciones fuera de Ciudad Obregón, Sonora.
 
 ## TITULO II.. ESTRUCTURA Y GOBIERNO DEL INSTITUTO
 
@@ -442,3 +450,11 @@ Lic. Alejandro Carrillo Marcor.
 EL SECRETARIO DE GOBIERNO
 
 Lic. Raúl Encinas Alcántar.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 13 DE JULIO DE 1987.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
