@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-catastro-del-estado-de-chihuahua-4543"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2001-12-29"
+last_updated: "2002-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2002.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -171,33 +171,37 @@ VI. Las demás que le determinen esta Ley y otras disposiciones aplicables.
 
 Las atribuciones previstas en las fracciones III a la VI, se ejercerán por la Dirección General de Desarrollo Urbano y Ecología.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2002)</small>
+
 ###### Artículo 6.
 
 Corresponde a la autoridad catastral municipal:
 
-I. Llevar a cabo el diseño, integración, implantación, operación y actualización del Catastro en el ámbito de su competencia mediante la aplicación de los sistemas técnicos y administrativos aprobados, así como la inscripción de los predios de su jurisdicción;
+I. Llevar a cabo el diseño, integración, implantación, operación y actualización del Catastro en el ámbito de su competencia, mediante la aplicación de los sistemas técnicos y administrativos aprobados, así como la inscripción de los predios de su jurisdicción.
 
-II. Efectuar en coordinación con las dependencias del Ejecutivo Estatal y Federal los estudios para la determinación de los límites del territorio del Estado y propios de los Municipios;
+II. Efectuar en coordinación con las dependencias del Ejecutivo Estatal y Federal los estudios para la determinación de los límites del territorio del Estado y propios de los Municipios.
 
-III. Formular y actualizar la zonificación catastral correspondiente a los predios de su territorio y determinar el valor catastral de los mismos;
+III. Formular y actualizar la zonificación catastral correspondiente a los predios de su territorio y determinar el valor catastral de los mismos.
 
-IV. Formular y proponer al Ayuntamiento las tablas de valores unitarios para suelo y construcción;
+IV. Formular y proponer al Ayuntamiento las tablas de valores unitarios para suelo y construcción y su actualización.
 
-V. Formular y expedir la cédula catastral, conforme las políticas generales y la información técnica que corresponda por cada uno de los predios ubicados en su territorio;
+La autoridad catastral municipal debe remitir mensualmente a la Secretaría de Desarrollo Urbano y Ecología la información necesaria de los movimientos catastrales y actualizaciones que se determinen en el Reglamento de la presente Ley.
 
-VI. Resolver las consultas que en relación con la presente Ley planteen los particulares y entidades públicas y expedir las certificaciones de documentos relativos a los predios;
+El incumplimiento de cualquiera de las anteriores obligaciones genera responsabilidad administrativa, dando lugar a la iniciación del procedimiento administrativo ante los órganos disciplinarios y a la aplicación de las sanciones que se establecen en la Ley de Responsabilidades de los Servidores Públicos y en el Código Municipal, ambos del Estado de Chihuahua.
 
-VII. Verificar la información catastral de los predios y solicitar a las dependencias y organismos federales y estatales, así como a los propietarios o poseedores de predios, los datos, documentos o informes que sean necesarios para integrar o actualizar el Catastro Municipal;
+V. Formular y expedir la cédula catastral, conforme a las políticas generales y la información técnica que corresponda por cada uno de los predios ubicados en su territorio.
 
-VIII. Autorizar a los peritos encargados de elaborar planos Catastrales;
+VI. Resolver las consultas que en relación con la presente Ley formulen los particulares y entidades públicas y expedir las certificaciones de documentos relativos a los predios.
 
-IX. Remitir mensualmente a la Dirección General de Desarrollo Urbano y Ecología la información de los movimientos catastrales y actualizaciones que se determinen en el Reglamento de la presente Ley;
+VII. Verificar la información catastral de los predios y solicitar a las dependencias y organismos federales y estatales, así como a los propietarios o poseedores de predios, los datos, documentos o informes que sean necesarios para integrar o actualizar el Catastro Municipal.
 
-X. Aplicar las sanciones que procedan en los términos de esta Ley;
+VIII. Autorizar a los peritos encargados de elaborar planos catastrales.
 
-XI. Proporcionar información catastral a los propietarios o poseedores, respecto a cualquier predio; y
+IX. Aplicar las sanciones que procedan en los términos de esta Ley.
 
-XII. Las demás atribuciones que determine esta Ley y otras disposiciones legales aplicables.
+X. Proporcionar información catastral a los propietarios o poseedores, respecto a cualquier predio; y
+
+XI. Las demás atribuciones que determine esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 7.
 
@@ -456,3 +460,11 @@ El presente Decreto entrará en vigor el primero de enero del año dos mil uno.
 P.O. 29 DE DICIEMBRE DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE AGOSTO DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
+
+En lo relativo al artículo 6, fracción IV, primer párrafo, de la Ley de Catastro del Estado, la obligación de actualización entrará en vigor el 1 de enero del 2003.
