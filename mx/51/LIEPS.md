@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1987-12-31"
+last_updated: "1988-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -64,9 +64,9 @@ Al valor de los actos o actividades que a continuación se señalan, se aplicar�
 
 I.- En la enajenación o, en su caso, en la importación de los siguientes bienes:
 
-A).- Aguas envasadas y refrescos, en envases cerrados ......... 15.7%
+A).- Aguas envasadas y refrescos, en envases cerrados .......... 15.7%
 
-B).- Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos .......... 40%
+B).- Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos ........... 40%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -76,7 +76,7 @@ D).- Cerveza .......... 21.5%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
-E).- Vinos de mesa, sidras y rompopes, así como los vinos denominados aromatizados, quinados, generosos y vermuts .......... 15%
+E).- Vinos de mesa, sidras y rompopes, así como los vinos denominados aromatizados, quinados, generosos y vermuts ......... 15%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -88,11 +88,11 @@ G).- Gas avión .......... 50%
 
 H).- Tabacos labrados:
 
-1.- Cigarros ......... 139.3%
+1.- Cigarros .......... 139.3%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
-2.- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados .......... 20.9%
+2.- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados ......... 20.9%
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -100,25 +100,25 @@ I).- Gasolina que contenga tetraetilo de plomo y su octanaje no exceda de 82 oct
 
 II.- En la prestación de los siguientes servicios:
 
-A).-Seguros individuales en operaciones de vida .......... 3%
+A).-Seguros individuales en operaciones de vida ......... 3%
 
 B).- Telefónicos:
 
 a).- Servicios locales:
 
-1.- Abonados residenciales y de telefonía rural ........... 49.1%
+1.- Abonados residenciales y de telefonía rural .......... 49.1%
 
 2.- En casos distintos a los residenciales y de telefonía rural .......... 60%
 
 b).- Servicios de larga distancia:
 
-1.- Abonados residenciales y de telefonía rural ........... 26.4%
+1.- Abonados residenciales y de telefonía rural .......... 26.4%
 
-2.- En casos distintos a los residenciales y de telefonía rural .......... 35%
+2.- En casos distintos a los residenciales y de telefonía rural ..........35%
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
-3.- Larga distancia internacional de abonados residenciales y de telefonía rural, así como casos distintos a estos ........ 22%
+3.- Larga distancia internacional de abonados residenciales y de telefonía rural, así como casos distintos a estos .......... 22%
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -282,9 +282,9 @@ II.- Aguamiel y productos derivados de su fermentación.
 
 III.- En la primera enajenación de aguardiente regional, incluso cuando ésta se efectúe al público en general.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1988)</small>
 
-IV.- Las que se efectúen al público en general, salvo que el enajenante sea productor, envasador o importador de los bienes que enajene o primer adquirente en el caso de cigarros, así como las de comerciante en que la mayor parte del importe de sus enajenaciones proviene de las que realiza a personas que no forman parte de dicho público. No se considera enajenación al público en general aquélla en que se traslade en forma expresa y por separado este impuesto y el de valor agregado. Los dispuesto en esta fracción no es aplicable a la enajenación de gasolina y diesel.
+IV.- Las que se efectúen al público en general, por contribuyentes que opten por tributar como menores conforme a la Ley del Impuesto sobre la Renta, salvo que el enajenante sea productor, envasador o importador de los bienes que enajene o primer adquirente en el caso de cigarros, así como las de comerciantes en que la mayor parte del importe de sus enajenaciones proviene de las que realiza a personas que no forman parte de dicho público. No se considera enajenación al público en general, aquélla en que se traslade en forma expresa y por separado este impuesto y el de valor agregado. Lo dispuesto en esta fracción no es aplicable a la enajenación de gasolina, diesel y gas L.P. utilizado como carburante de vehículos automotores.
 
 V.- Cigarros elaborados por fabricantes cuyo volumen total de producción sea inferior a 40.000,000 de cajetillas anuales, que utilicen exclusivamente tabacos producidos en el país, en todas sus marcas y que el origen de éstas sea también nacional.
 
@@ -887,5 +887,51 @@ II.- Para los efectos del artículo 2o., fracción I, inciso H), subinciso 2, de
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1988.
+
+D.O.F. 31 DE DICIEMBRE DE 1988.
+
+Disposición Transitoria
+
+ARTICULO DECIMOQUINTO.- La reforma a la fracción IV del artículo 8o. de la Ley del Impuesto Especial sobre Producción y Servicios, será aplicable a la enajenación de aguas envasadas y refrescos hasta el 1o. de enero de 1990.
+
+Disposiciones con vigencia durante 1989
+
+ARTICULO DECIMOSEXTO.- Durante el año de 1989, se aplicarán en materia del impuesto especial sobre producción y servicios, las siguientes disposiciones:
+
+I.- Los productores o envasadores de agua mineral natural o con sabor, que de conformidad con el artículo 5o.-A de la Ley del Impuesto Especial sobre Producción y Servicios, estén obligados a retener ese impuesto, lo harán sobre el 50% del impuesto que corresponde a los adquirentes de esos bienes durante el ejercicio fiscal de 1989, siempre que los adquirentes de esos bienes se encuentren en población distinta a aquélla en que esté ubicada la fábrica.
+
+Los contribuyentes a que se refiere esta fracción, efectuarán la retención del impuesto que corresponda a sus adquirentes, sobre el margen de comercialización generalmente aceptado conforme a los precios de mercado del bien de que se trate al realizarse la enajenación y enterarlo mediante declaración en las oficinas autorizadas, a más tardar el día 7 del mes siguiente a aquél en que se efectuó la retención. En los casos en que no se conozca el margen de comercialización, el retenedor considerará que dicho margen es del 35%.
+
+Los contribuyentes a los que se les retenga el impuesto, de conformidad con lo señalado en esta fracción, deberán presentar declaración de pago provisional en la que acreditarán el impuesto que les debió haber sido retenido en los términos de la Ley del Impuesto Especial sobre Producción y Servicios.
+
+II.- Para los efectos del artículo 2o., fracción I, inciso H), subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que al 1o. de enero de 1989, tengan un precio máximo al público que no exceda de $20.00 por cigarro.
+
+III.- Cuando en un lugar o región del país se establezca un sobreprecio al precio de la gasolina, no se estará obligado al pago del impuesto especial sobre producción y servicios por dicho sobreprecio en la enajenación de este producto.
+
+IV.- Se aplicarán las siguientes tasas a los bienes que también se señalan:
+
+A.- En la enajenación o importación de:
+
+1.-Cerveza .......... 25%
+
+2.- Vinos de mesa, sidras y rompopes, así como los vinos denominados aromatizados, quinados, generosos y vermuts .......... 25%
+
+3.- El alcohol, aguardiente y bebidas alcohólicas no comprendidas en el inciso anterior, así como sus concentrados .......... 50%
+
+4.- Tabacos labrados:
+
+a).- Cigarros .......... 160%
+
+b).- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1º. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados ............ 25%
+
+5.- Gasolina que contenga tetra-etilo de plomo y su octanaje no exceda de 82 octanos o la de mayor octanaje que no contenga tetraetilo de plomo, así como el diesel y gas L.P. utilizado como carburante de vehículos automotores ............ 122%
+
+B.- A los productores o importadores de los bienes señalados en el apartado anterior, le serán aplicables las demás disposiciones que prevé la Ley del Impuesto Especial de (sic) Producción y Servicios.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1989.
 
 ## TRANSITORIO
