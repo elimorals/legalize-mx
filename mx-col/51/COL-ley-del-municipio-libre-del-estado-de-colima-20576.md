@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2001-03-31"
+last_updated: "2003-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2003.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -593,7 +593,9 @@ IV. En materia de hacienda pública:
 
 a) Administrar libremente su hacienda y los bienes destinados al servicio público municipal;
 
-b) Remitir mensualmente, antes del día 15, a la Contaduría Mayor de Hacienda del Congreso, la cuenta detallada de los ingresos y egresos habidos en el mes anterior;
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+
+b) Remitir mensualmente al Congreso, a más tardar el día 15, la cuenta detallada de los ingresos y egresos habidos en el mes anterior;
 
 c) Autorizar y remitir al Congreso, para su aprobación, entre el 1o. y el 15 del mes de noviembre de cada año, la iniciativa de ley general de ingresos municipales para el siguiente año; en caso de incumplimiento quedará vigente ley (sic) general de ingresos municipales del ejercicio fiscal vigente;
 
@@ -1720,3 +1722,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 30 días del mes de marzo del año dos mil uno.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA, Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE NOVIEMBRE DE 2003.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
