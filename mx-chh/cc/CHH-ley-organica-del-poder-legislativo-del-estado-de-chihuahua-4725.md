@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2004-12-01"
+last_updated: "2005-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -860,6 +860,10 @@ XX.- De Ecología y Medio Ambiente.
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2004)</small>
 
 XXI. De Turismo.
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2005)</small>
+
+XXII. De Vivienda.
 
 Las comisiones tendrán a su cargo las cuestiones relacionadas con la materia propia de su denominación.
 
@@ -1996,3 +2000,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 1 DE DICIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ENERO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
