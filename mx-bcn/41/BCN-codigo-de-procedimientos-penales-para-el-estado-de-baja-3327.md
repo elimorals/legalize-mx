@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1998-08-28"
+last_updated: "1999-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1999.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1003,15 +1003,13 @@ No se considera como antecedentes para negar la libertad caucional, los delitos 
 
 Cuando se solicite la libertad caucional, el juzgador o el ministerio público en su caso, deberá resolver de plano lo conducente. Si se negare la libertad caucional, podrá solicitarse de nuevo y concederse por causas supervinientes.
 
-> <small>(ADICIONADO [N. DE. E. REFORMADO], P.O. 4 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
 ###### Artículo 123.
 
-Delitos graves.- Para todos los efectos legales, se clasifican como delitos graves los previstos en los siguientes Artículos del Código Penal:
+Delitos Graves.- Para todos los efectos legales, se clasifican como delitos graves los previstos en los siguientes artículos del Código Penal:
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1998)</small>
-
-Homicidio por culpa, previsto en el artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el artículo 123, en su forma simple contemplado en el artículo 124; en su forma atenuada a que se refiere el Artículo 125; las formas calificadas previstas en los artículos 126 en relación con el 147, y sus formas agravadas previstas en los artículos 127 y 128; infanticidio descrito en el artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del artículo 131; secuestro previsto en los artículos 164 y 165; asalto agravado tipificado en el artículo 173; violación contemplada en el artículo 176, violación equiparada en el 177, violación impropia en el 178, así como las formas agravadas, a que se refiere el artículo 179; robo calificado en las hipótesis previstas por los artículos 203 y 208 fracciones I, II y VIII; abigeato descrito en el artículo 209, pero sólo cuando se trate de ganado vacuno; despojo agravado a que se refiere el párrafo cuarto del artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del artículo 229; tráfico de menores descrito por el artículo 238 primero y segundo párrafos; corrupción de menores e incapaces tipificado en el artículo 261 párrafo segundo; lenocinio agravado del artículo 267; terrorismo descrito en el artículo 279 excepto su encubrimiento; tortura previsto en el artículo 307-bis primer párrafo y 307-ter segundo párrafo; evasión de presos, en la forma agravada del artículo 328 y los delitos electorales previsto en los artículos 348 fracción IV y 355.
+Homicidio por culpa, previsto en el artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras sustancias que perturben su adecuada conducción; homicidio previsto en el artículo 123, en su forma simple contemplado en el artículo 124; en su forma atenuada a que se refiere el artículo 125; las formas calificadas previstas en los artículos 126 en relación con el 147 y sus formas agravadas previstas en los artículos 127 y 128; infanticidio descrito en el artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del artículo 131; secuestro previsto en los artículos 164 y 165; asalto agravado tipificado en el artículo 173; violación contemplada en el artículo 176, violación equiparada en el 177, violación impropia en el 178, así como las formas agravadas a que se refiere el artículo 179; robo calificado en las hipótesis previstas por los artículos 203 y 208 fracciones I, II, robo de vehículo en las hipótesis contempladas en los artículos 208-BIS Y 208-TER fracciones de la I a la VIII abigeato descrito en el artículo 209, pero sólo cuando se trate de ganado vacuno; despojo agravado a que se refiere el párrafo cuarto del artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones primera y segunda del artículo 229; tráfico de menores descrito por el artículo 238 primero y segundo párrafos; corrupción de menores e incapaces tipificado en el artículo 261 párrafo segundo; lenocinio agravado del artículo 267; terrorismo descrito en el artículo 279 excepto su encubrimiento; tortura previsto en el artículo 307-Bis primer párrafo y 307-Ter segundo párrafo; evasión de presos, en la forma agravada del artículo 328 y los delitos electorales previstos en los artículos 348 fracción IV y 355.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1998)</small>
 
@@ -3330,3 +3328,9 @@ DECRETO NUMERO189
 ###### ARTICULO UNICO.
 
 La presente reforma al Código de Procedimientos Penales para el Estado de Baja California, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
+
+P.O. 9 DE ABRIL DE 1999.
+
+PRIMERO.- Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para los efectos de dar cumplimiento al artículo 208.quater, se otorga al Poder Ejecutivo del Estado, un plazo no mayor de treinta días hábiles, a partir de la entrada en vigor del presente, para que remita a este H. Congreso del Estado, Iniciativa de Decreto que adicione en la Ley Orgánica de la Procuraduría General de Justicia, la facultad de expedir constancias de no existencia de reporte o denuncia de robo de vehículo motor.
