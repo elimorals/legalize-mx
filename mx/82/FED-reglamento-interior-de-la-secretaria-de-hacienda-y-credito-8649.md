@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "1996-09-11"
+last_updated: "1996-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 11 de septiembre de 1996.
 
@@ -697,7 +697,9 @@ I. Proponer, para aprobación superior, los lineamientos de política del Gobier
 
 II. Formular, para aprobación superior, el Programa Nacional de Financiamiento del Desarrollo integrando los programas financieros sectoriales y regionales y evaluar sus resultados;
 
-III. Formular, para aprobación superior, el Programa Operativo Anual de Financiamiento de la Administración Pública Federal, así como dar seguimiento a su ejecución y evaluar sus resultados;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+III. Formular, para aprobación superior, el Programa Operativo Anual de Financiamiento de la Administración Pública Federal, dar seguimiento a su ejecución y evaluar sus resultados; así como integrar el presupuesto del ramo de deuda pública, de acuerdo con las disposiciones legales aplicables;
 
 IV. Apoyar a la representación de la Secretaría en la Comisión Intersecretarial de Gasto-Financiamiento, así como a las designadas por la misma ante otras comisiones intersecretariales, cuando por acuerdo superior se le señale, proporcionándoles la información que requieran para el desempeño de sus funciones;
 
@@ -1243,6 +1245,10 @@ XVIII. Informar a la Procuraduría Fiscal de la Federación de los hechos de que
 
 XIX. Las demás facultades que en el ámbito de su competencia atribuyan a la Secretaría las leyes y reglamentos aplicables o les confiera el Secretario.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+La Dirección General de Interventoría estará a cargo de un Director General auxiliado en el ejercicio de sus facultades por los Directores Generales Adjuntos de Interventoría, y de Revisión Fiscal; por los Directores de Interventoría Técnica en Aduanas; de Investigaciones; de Interventoría Técnica; de Interventoría Administrativa; de Revisión Fiscal 1 y 2, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+
 ###### Artículo 39.
 
 Compete a la Dirección General Adjunta de Interventoría:
@@ -1437,6 +1443,10 @@ IX. Estudiar, desarrollar y proponer indicadores que permitan determinar el nive
 
 X. Informar a la Procuraduría Fiscal de la Federación de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales o delitos de los servidores públicos de la Subsecretaría de Ingresos en el desempeño de sus funciones.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+La Administración General de Información, Desarrollo y Evaluación, estará a cargo de un Administrador General auxiliado en el ejercicio de sus facultades por los Administradores Centrales de Desarrollo y Programas Especiales; de Información y Evaluación, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+
 ###### Artículo 48.
 
 Compete a la Dirección General de Asuntos Fiscales Internacionales:
@@ -1480,6 +1490,10 @@ XVIII. Informar a la Procuraduría Fiscal de la Federación o a la autoridad com
 XIX. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de los actos de comprobación establecidos en este artículo, así como del personal autorizado para llevar a cabo las notificaciones y notificar los actos relacionados con el ejercicio de las facultades contenidas en este artículo, y
 
 XX. Resolver los asuntos que las disposiciones legales y tratados internacionales que rigen las materias fiscal y aduanera atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+La Dirección General de Asuntos Fiscales Internacionales estará a cargo de un Director General auxiliado en el ejercicio de sus facultades por los Directores Generales Adjuntos de Política Fiscal Internacional y de Negociación de Tratados; de Auditoría Internacional; de Asuntos Internacionales de Comercio Exterior; de Procedimientos Legales Internacionales; de Investigación Económica; por los Directores de Negociación de Tratados; de Intercambio de Información; y de Registro de Entidades Financieras; por los Subdirectores de Auditoría a Residentes en el Extranjero; de Auditoría de Reglas de Origen; de Precios de Transferencia; de Asuntos de Comercio Exterior; de Seguimiento y Enlace; de Procedimientos Legales Internacionales; de Organismos Internacionales; y de Programación de Auditorías de Origen y Estudios de Fiscalización, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
 ###### Artículo 49.
 
@@ -1577,7 +1591,7 @@ I. Establecer la política y los programas que deben seguir las Administraciones
 
 II. Establecer la política y los programas que deben seguir las Administraciones Especial y Locales de Recaudación, así como proponerlos, para aprobación superior, para las autoridades fiscales de las entidades federativas coordinadas, en materia de Registro Federal de Contribuyentes, y de verificación en esta materia; de vigilancia, de cumplimiento de obligaciones fiscales; de notificación, cobro coactivo y garantías de los créditos fiscales que no sean competencia de otra unidad administrativa de la Secretaría; de contabilidad de ingresos, movimiento de fondos y análisis del comportamiento de la recaudación; de imposición de multas por infracciones a las disposiciones relativas al Registro Federal de Contribuyentes, por omisiones en la presentación de declaraciones y de avisos; de condonación de multas por las infracciones antes citadas; de información y orientación acerca de los plazos en que se deben cumplir las obligaciones fiscales, las formas oficiales que para ello se deben utilizar y sobre los trámites que sean de su competencia, en coordinación con la Administración General Jurídica de Ingresos;
 
-III. Formular, para aprobación superior, las políticas y programas en materia de informática, diseño, desarrollo, distribución, implantación y operación de sistemas automatizados, telecomunicaciones, de prestación de servicios de procesamiento electrónico de datos que se lleven a cabo en las unidades administrativas de la Subsecretaría de Ingresos y por las autoridades fiscales de las entidades federativas, tratándose de ingresos federales coordinados, en los términos de los convenios y acuerdos respectivos;
+III. (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1996)
 
 IV. Integrar y mantener actualizado el Registro Federal de Contribuyentes y los demás registros que establezcan las leyes fiscales, con excepción de los establecidos en los artículos 48, fracción VII, 55, fracciones XV y XXVI, y 60, fracción XXXIII de este Reglamento;
 
@@ -1593,7 +1607,7 @@ IX. Proponer a la Oficialía Mayor modificaciones a las normas que deben regular
 
 X. Participar en la formulación para aprobación superior, en las materias de su competencia, de los convenios y acuerdos de coordinación con las autoridades fiscales de las entidades federativas, y evaluar sus resultados;
 
-XI. Integrar y mantener actualizados los archivos que se utilicen para el procesamiento electrónico de datos; y verificar la integridad de la información contenida en éstos;
+XI. (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1996)
 
 XII. Participar con las unidades administrativas competentes de la Secretaría y con otras dependencias, en la contratación, adquisición, instalación, operación y mantenimiento de los equipos de procesamiento electrónico de datos, de los servicios de comunicación de voz, datos e imagen, incluyendo sus programas, equipos auxiliares y de transmisión, destinados a las unidades administrativas de la Subsecretaría de Ingresos;
 
@@ -1605,7 +1619,7 @@ XV. Fijar los plazos a los cuentadantes de la Federación para la rendición de 
 
 XVI. Ejercer, previo acuerdo superior, las facultades contenidas en el artículo 54 y en el Apartado A del artículo 95 de este Reglamento;
 
-XVII. Coordinar y ejecutar con los responsables de la función informática de las unidades administrativas de la Subsecretaría de Ingresos, la supervisión de los proyectos y servicios informáticos a cargo de la empresa autorizada;
+XVII. (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 1996)
 
 XVIII. Participar con la Administración General Jurídica de Ingresos en la elaboración de la normatividad sobre los servicios de orientación y asistencia que se presta a los contribuyentes en materia de Registro Federal de Contribuyentes, devoluciones y compensaciones de contribuciones, autorización de la disminución de pagos provisionales, autorización de pago en parcialidades y trámites de su competencia;
 
@@ -1616,6 +1630,10 @@ XX. Tramitar y resolver las solicitudes de los contribuyentes para dejar sin efe
 XXI. Tramitar y resolver las solicitudes de autorización de retiro de depósitos en cuenta aduanera, efectuados por contribuyentes ante instituciones de crédito y casas de bolsa autorizadas para estos efectos, cuando se demuestre que se realizó el retorno al extranjero de las mercancías importadas temporalmente y en los plazos establecidos por la legislación aduanera, y
 
 XXII. Resolver los asuntos que las disposiciones legales que rigen las actividades de recaudación de ingresos federales atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+La Administración General de Recaudación estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los Administradores Centrales de Planeación y Sistemas; de Operación Recaudatoria; de Normatividad; de Recursos; por el Administrador Especial de Recaudación; por los Administradores Regionales, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
 ###### Artículo 54.
 
@@ -1672,6 +1690,10 @@ XXIV. Proporcionar a las autoridades y unidades administrativas señaladas en la
 XXV. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes sobre problemas relacionados con la presentación de declaraciones, la imposición de multas, requerimientos, solicitudes y avisos al Registro Federal de Contribuyentes, y
 
 XXVI. Registrar a los contribuyentes que reúnan los requisitos establecidos en la disposición reglamentaria respectiva en el padrón de importadores y el padrón de importadores de bebidas alcohólicas, asimismo en los que se determinen para el mejor control de los contribuyentes.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+La Administración Especial de Recaudación, estará a cargo de un Administrador Especial, auxiliado en el ejercicio de sus facultades por los Administradores de Servicios; de Registro y Control de Obligaciones; de Control de Créditos, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
 ###### Artículo 55.
 
@@ -1731,6 +1753,10 @@ XXVI. Llevar los padrones de importadores, de empresas autorizadas para realizar
 
 XXVII. Resolver los asuntos que las disposiciones legales aplicables a las actividades de fiscalización en materia fiscal y aduanera atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+La Administración General de Auditoría Fiscal Federal estará a cargo de un Administrador General auxiliado en el ejercicio de sus facultades por el Administrador Especial de Auditoría Fiscal; por los Administradores Centrales de Planeación y Programación Nacional de la Fiscalización; de Normatividad de la Operación Fiscalizadora; de Comercio Exterior; de Control y Evaluación de la Fiscalización Nacional; de Operación de la Fiscalización; de Procedimientos Legales de Fiscalización; de Recursos; de Programas Especiales; de Apoyo Técnico; por los Administradores de Planeación Nacional; de Soporte Técnico de Sistemas; de Programación Nacional; de Análisis Sectorial; de Coordinación y Seguimiento de Fiscalización Nacional; de Sistemas de Información; Técnica de Fiscalización; de Normatividad de Auditoría Fiscal "1" y "2"; de Normatividad de Dictámenes; de Valoración Aduanera de Comercio Exterior; de Normatividad de Procedimientos Legales de Comercio Exterior "1" y "2"; de Planeación y Programación de Comercio Exterior; de Registro y Control de Comercio Exterior; de Auditoría de Comercio Exterior; de Investigaciones y Apoyo Logístico de Comercio Exterior; de Registro y Evaluación de Contadores Públicos; de Control y Seguimiento "1" y "2"; de Evaluación; de Supervisión "1, "2" y "3"; de Auditoría Fiscal "1" y "2"; de Auditoría al Sector Paraestatal; de Asuntos de Defraudación Fiscal y de Fuentes Ilícitas de Ingresos; de Procedimientos Legales de Auditoría; de Asuntos de Participación de Utilidades; de Procedimientos Legales de Auditoría a Consolidadas y Sector Financiero; de Recursos Humanos; de Recursos Financieros; de Recursos Materiales; de Bienes Resguardados; de Programas Especiales 1, 2, 3, 4, 5 y 6; por los Subadministradores de Análisis de la Información; de Planeación; de Análisis de Resultados; de Desarrollo de Sistemas Operativos de la Fiscalización; de Programas Masivos A y B; de Devoluciones de Impuesto al Valor Agregado; de Denuncias y Expedición de Órdenes de Revisión; Sector Comercio; de Sector Agropecuario; de Servicios; de Espectáculos Públicos; de Convenios con Entidades Federativas; de Seguimiento; de Coordinación; de Integración y Análisis de Programa Operativo Anual; de Organización y Control de Producción; de Investigación y Desarrollo de Nuevos Productos; de Impresores Autorizados; de Máquinas Registradoras de Comprobación Fiscal; de Normatividad de Auditoría Fiscal "1", "2", "3" y "4"; de Normatividad de Auditoría Fiscal Integral; de Normatividad de Auditoría Fiscal a Renglones Específicos; de Normatividad a Entidades Bancarias, Financieras no Bancarias y Mercados de Valores; de Normatividad de Consolidadas y Coordinación con Organismos Sector Financiero; de Normatividad de Dictámenes "1"; de Valoración Aduanera de Comercio Exterior "1", "2" y "3"; de Normatividad y Procedimientos Legales de Comercio Exterior "1, "2", "3" y "4"; de Planeación y Programación de Comercio Exterior "1"; de Registro y Control de Comercio Exterior "1", "2", "3" y "4"; de Auditoría de Comercio Exterior "1", "2", "3", "4" y "5"; de Apoyo Logístico; de Investigaciones "1" y "2"; de Sistemas; de Evaluación de Contadores Públicos Registrados "1", "2" y "3"; de Registro y Control de Contadores Públicos; de Control; de Análisis de Informes; de Seguimiento; de Control y Seguimiento "1"; de Evaluación "1" y "2"; de Supervisión "1", "2", "3", "4", "5", "6", "7", "8" y "9"; de Auditoría Fiscal "1", "2", "3", "4", "5", "6", "7", "8", "9" y "10"; de Auditoría al Sector Paraestatal "1", "2", "3" y "4", de Asuntos de Defraudación Fiscal y de Fuentes Ilícitas de Ingresos "1", "2", "3", "4", "5", "6", y "7"; de Perjuicios Fiscales; de Control de Procesos; de Procedimientos Legales de Auditoría "1", "2" y "3"; de Asuntos de Participación de Utilidades "1", "2" y "3"; de Procedimientos Legales de Auditoría a Consolidadas y Sector Financiero "1" y "2"; de Recursos Humanos; Técnica de Recursos Humanos y Servicio Social; de Asuntos Laborales; de Recursos Adicionales; de Recursos Financieros; de Seguimiento Presupuestal; de Control de Bienes y Apoyo Técnico; de Recursos Materiales y Servicios; de Bienes Resguardados, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+
 ###### Artículo 56.
 
 La Administración General de Auditoría Fiscal Federal tendrá una Administración Especial de Auditoría Fiscal, que respecto de los contribuyentes señalados en el Apartado D, del artículo 95 de este Reglamento, así como en relación con los accionistas de las sociedades que consoliden para efectos fiscales, y con los de las instituciones u organizaciones previstas en la fracción V, del Apartado D, del citado artículo 95, ejercerá las siguientes atribuciones:
@@ -1776,6 +1802,10 @@ XIX. Aplicar en las materias de su competencia, las reglas generales y los crite
 XX. Informar a la Procuraduría Fiscal de la Federación de los hechos de que tengan conocimiento con motivo de sus actuaciones, que puedan constituir delitos fiscales o delitos de los servidores públicos de la Secretaría en el desempeño de sus funciones, así como proporcionarle a dicha Procuraduría en su carácter de coadyuvante del Ministerio Público el apoyo técnico y contable en los procesos penales que deriven de dichas actuaciones, y
 
 XXI. Notificar sus actos relacionados con el ejercicio de las facultades de comprobación, con excepción de aquéllas que únicamente determinen multas administrativas o aquéllas cuya notificación sea competencia de las Administraciones General, Especial o Locales de Recaudación.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+La Administración Especial de Auditoría Fiscal estará a cargo de un Administrador Especial, auxiliado en el ejercicio de sus facultades por los Administradores de Auditoría a Intermediarios del Mercado de Valores; de Auditoría a Instituciones de Crédito "1" y "2"; de Auditoría a Intermediarios Financieros no Bancarios "1" y "2"; de Auditoría a Dictámenes de Empresas que Consolidan Fiscalmente "1" y "2"; de Control Operativo; de Servicios; por los Subadministradores de Auditoría a Intermediarios del Mercado de Valores "A", "B" ,"C", "D" ,"E", "F" y "G"; de Auditoría a Banca Múltiple y de Desarrollo "A" ,"B", "C", "D", "E", "F", "G", "H", "I" y "J"; de Auditoría a Intermediarios Financieros no Bancarios "A", "B" , "C" , "D" y "E"; Técnica; de Auditoría a Dictámenes "A", "B", "C", "D", "E", "F" y "G"; de Control y Programación de Dictámenes; de Servicios, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
 ###### Artículo 57.
 
@@ -1871,6 +1901,10 @@ XLIV. Cancelar las patentes de agente aduanal y las autorizaciones de apoderado 
 
 XLV. Resolver los asuntos que los ordenamientos legales y administrativos aplicables a la materia de su competencia atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+La Administración General Jurídica de Ingresos estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los Administradores Centrales de Asistencia al Contribuyente; de lo Contencioso; de Operación; de Normatividad de Impuestos Internos; de Normatividad de Comercio Exterior y Aduanal; por los Administradores de lo Contencioso "1", "2" y "3"; de Operación "1" y "2"; de Normas y Procedimientos; de Proyectos Especiales; de Normatividad de Comercio Exterior "1" y "2"; de Recursos Administrativos; por los Subadministradores de lo Contencioso "1", "2", "3" y "4"; de Recursos Administrativos "1", "2" y "3", así como por el personal que se requiera para satisfacer las necesidades del servicio.
+
 ###### Artículo 58.
 
 La Administración General Jurídica de Ingresos, tendrá una Administración Especial Jurídica de Ingresos, que respecto de los contribuyentes señalados en el apartado D del artículo 95 de este Reglamento, ejercerá las siguientes atribuciones:
@@ -1919,6 +1953,10 @@ XXI. Prestar a los contribuyentes en materia de su competencia, los servicios de
 
 Este artículo no comprenderá a los residentes en el extranjero por lo que respecta a las facultades señaladas en las fracciones VII, XIV y XV del artículo 48 de este Reglamento.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+La Administración Especial Jurídica de Ingresos estará a cargo de un Administrador Especial, auxiliado en el ejercicio de sus facultades por los Administradores de Consultas y Autorizaciones "A", "B" y "C"; de Recursos y Procedimientos Administrativos; de lo Contencioso; por los Subadministradores de Consultas "A", "B" y "C"; de Autorizaciones "A", "B" y "C"; de Recursos Administrativos; de Procedimientos Administrativos; de lo Contencioso "A" y "B", así como por el personal que se requiera para satisfacer las necesidades del servicio.
+
 ###### Artículo 59.
 
 Compete a la Dirección General de Coordinación con Entidades Federativas:
@@ -1949,9 +1987,7 @@ I. Proponer, para aprobación superior, los programas de actividades para aplica
 
 II. Proponer los sistemas, métodos y procedimientos a que deben sujetarse las Aduanas, en las materias a que se refiere la fracción anterior y evaluar sus resultados;
 
-III. Participar con la Administración General de Auditoría Fiscal Federal, en la materia de su competencia, en la formulación de
-
-los programas de comprobación del cumplimiento de las obligaciones respectivas, así como en los de determinación de las contribuciones y accesorios correspondientes;
+III. Participar con la Administración General de Auditoría Fiscal Federal, en la materia de su competencia, en la formulación de los programas de comprobación del cumplimiento de las obligaciones respectivas, así como en los de determinación de las contribuciones y accesorios correspondientes;
 
 IV. Participar con la Dirección General de Política de Ingresos en el estudio y elaboración de políticas y programas relativos al desarrollo de la franja y región fronteriza del país, al fomento de las industrias de exportación, regímenes temporales de importación y exportación y a las importaciones para montaje y acabado automotriz; intervenir en el estudio y formulación de los proyectos de aranceles, cuotas compensatorias y demás medidas de regulación y restricción al comercio exterior en los que dicha Dirección General participa con otras autoridades competentes; así como emitir su opinión sobre los precios estimados que ésta fije, respecto de las mercancías de comercio exterior que sean objeto de subvaluación o de sobrevaluación;
 
@@ -2039,6 +2075,10 @@ XLV. Retener las mercancías de procedencia extranjera objeto de una resolución
 
 XLVI. Resolver los asuntos que las disposiciones legales que rigen la materia aduanera atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+La Administración General de Aduanas estará a cargo de un Administrador General, auxiliado en el ejercicio de sus facultades por los Administradores Centrales de Planeación Aduanera; de Regulación del Despacho Aduanero; de Informática, Contabilidad y Glosa; de Laboratorio y Servicios Científicos; de la Policía Fiscal Federal; de Recursos; por los Administradores de Planeación para la Modernización Aduanera; de Compex y Supervisión Aduanera; de Asuntos Aduaneros Internacionales; de Regulación del Despacho Aduanero; de Control; de Investigación y Seguimiento; Técnica; de Producción; de Información; de Informática; de Contabilidad y Glosa; de Diseño del Sistema de Automatización Aduanera Integral; de Estado Mayor; de Prevención de Delitos Fiscales; de Asuntos Internos; de Apoyo Operacional; de Recursos Humanos; de Programación y Presupuesto; de Desarrollo y Seguimiento Administrativo; por los Subadministradores de Planeación Aduanera y Coordinación Regional; de Estudios y Proyectos Especiales; de Compex y Estudios Legislativos; de Supervisión Aduanera; de Comités de Facilitación Aduanera; de Relaciones Aduaneras Internacionales; de Relaciones Aduaneras con Organismos Internacionales; de Asuntos en Materia Aduanera de los Tratados de Libre Comercio; de Operación Aduanera; de Procedimientos; de Seguimiento; de Regulación del Despacho Aduanero "1" y "2"; de Control; de Agentes y Apoderados Aduanales; de Normatividad; de Análisis; de Resoluciones; de Amparos; de Gestión; de lo Contencioso; de Investigación y Seguimiento; de Programas de Operación; de Control y Evaluación de Producción; de Documentación Técnica e INFOBANCO; de Apoyo Técnico; de Ensaye; de Desarrollo Analítico; de Estudios de Ingeniería; de Unidades Foráneas de Muestreo; de Información; de Atención y Supervisión del Marco Normativo; de Apoyo Operativo; de Atención a Usuarios; de Enlace Operativo; de Sistemas y Consultas; de Contabilidad; de Glosa; de Operaciones de Instituciones Bancarias; del Sistema de Automatización Aduanera Integral Validador; del Sistema de Automatización Aduanera Integral Módulos; de Atención de Problemas del Sistema de Automatización Aduanera Integral; de Sección I Personal; de Sección II Información; de Sección III Operaciones; de Sección IV Logística; de Archivo; Jurídica; de Planeación; de Evaluación; de Aduanas Fronterizas; de Aduanas Interiores; de Aduanas Marítimas; de Toxicología; de Apoyo Operacional; de Recursos Humanos; de Asuntos Laborales; de Programación y Presupuesto; de Recursos Materiales y Servicios; de Obra Pública, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+
 ###### Artículo 61.
 
 Compete a la Unidad de Inversiones y de Desincorporación de Entidades Paraestatales:
@@ -2097,7 +2137,9 @@ XXV. Resolver los asuntos que las disposiciones legales que rigen la materia de 
 
 Compete a la Unidad de Política y Control Presupuestal:
 
-I. Dictar las normas y metodologías a que deberá sujetarse la programación y presupuestación anual para el ejercicio del gasto, en los niveles sectorial, institucional y regional, considerando las propuestas de las áreas administrativas competentes;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+I. Expedir las normas y metodologías a que deberá sujetarse la programación, la presupuestación anual y ejercicio del gasto público, en los niveles sectorial, institucional y regional, considerando las propuestas de las áreas administrativas competentes y las políticas de gasto público;
 
 II. Proponer, en el marco de la planeación nacional del desarrollo, en coordinación con las unidades administrativas competentes de la Secretaría, los criterios y prioridades para la asignación sectorial y regional del gasto público y proponer los ajustes correspondientes durante su ejercicio;
 
@@ -2107,9 +2149,13 @@ IV. Normar la calendarización de los anteproyectos de programas presupuestos se
 
 V. Integrar la información relativa al ejercicio del Presupuesto de Egresos de la Federación;
 
-VI. Integrar el presupuesto del ramo de erogaciones no sectorizables, así como registrar y hacer el seguimiento del ejercicio de las previsiones de gasto autorizadas con cargo a dicho ramo y al del presupuesto del ramo de deuda pública, de acuerdo con las disposiciones legales aplicables;
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
-VII. Establecer los lineamientos y políticas generales para el ejercicio de la función de fideicomitente único de la administración pública centralizada, y
+VI. Integrar el presupuesto del ramo de provisiones salariales y económicas, así como registrar y hacer el seguimiento del ejercicio de las previsiones de gasto autorizadas con cargo a dicho ramo, de acuerdo con las disposiciones legales aplicables;
+
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+VII. Establecer los lineamientos y políticas generales para el ejercicio de la función de fideicomitente único de la administración pública centralizada; así como diseñar y proponer, con la participación que corresponda a las demás áreas de la, Secretaría, la política y las directrices para la modernización presupuestaria a nivel sectorial, regional e institucional, y
 
 VIII. Resolver los asuntos que las disposiciones legales que regulan las materias de programación, presupuestación y ejercicio del gasto público federal atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén asignadas expresamente a otra unidad administrativa de la misma.
 
@@ -2141,27 +2187,37 @@ XI. Dictaminar, en coordinación con las áreas competentes de la Secretaría, s
 
 XII. Resolver los asuntos que las disposiciones legales que integren el régimen de los servidores públicos y las estructuras orgánicas y ocupacionales de las dependencias y entidades de la administración pública federal atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario.
 
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### Artículo 64.
 
 Compete a la Unidad de Contabilidad Gubernamental e Informes sobre la Gestión Pública:
 
-I. Recabar la información financiera, presupuestal y contable que emane de las contabilidades de las entidades comprendidas en el Presupuesto de Egresos de la Federación, a fin de efectuar la consolidación de los estados financieros, así como integrar la Cuenta Anual de la Hacienda Pública Federal; y recibir, para ser sometida al Presidente de la República, la del Distrito Federal;
+I. Definir y coordinar las (sic) procesos de formulación, integración y presentación de la Cuenta de la Hacienda Pública Federal;
 
-II. Establecer, previa opinión de la Secretaría de Contraloría y Desarrollo Administrativo, normas de carácter general, técnicas, criterios y metodologías en materia de contabilidad, registros auxiliares y desconcentración de la contabilidad;
+II. Establecer el sistema de contabilidad gubernamental que deben aplicar las dependencias y entidades de la administración pública federal, así como vigilar el adecuado funcionamiento del mismo;
 
-III. Definir la forma y términos en que las entidades deben rendir sus informes y cuentas para fines de contabilización y consolidación;
+III. Emitir, previa opinión de la Secretaría de Contraloría y Desarrollo Administrativo, normas de carácter general y específicas, así como lineamientos y metodologías en materia de contabilidad gubernamental, y vigilar su cumplimiento y actualización permanente;
 
-IV. Autorizar copias certificadas de la documentación correspondiente a las cuentas públicas anteriores al ejercicio de 1977;
+IV. Autorizar previo análisis, los libros principales de contabilidad de las entidades no sujetas a la Ley del Impuesto Sobre la Renta; así como emitir los catálogos de cuentas para las dependencias comprendidas en las fracciones I a V del artículo 2o. de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, y autorizar los de las entidades señaladas en las fracciones VI a VIII de la misma ley;
 
-V. Atender los requerimientos que sobre la Cuenta Anual de la Hacienda Pública Federal formule el Poder Legislativo;
+V. Emitir los lineamientos para el manejo y conservación del archivo contable gubernamental, que deben aplicar las dependencias y entidades de la administración pública federal, verificar su cumplimiento, y autorizar la baja de documentación contable en los términos de la normatividad vigente;
 
-VI. Definir la forma y términos en que deberán rendir información sobre las transferencias y subsidios las entidades otorgantes de los mismos, recabar estos informes, efectuar su consolidación y emitir los reportes que se deriven, así como llevar el Registro Único de Transferencias;
+VI. Atender los requerimientos de información del Poder Legislativo y de otras áreas externas, relativos a la Cuenta de la Hacienda Pública Federal; así como informar sobre el seguimiento de las recomendaciones de la Cámara de Diputados y de su Organo técnico, la Contaduría Mayor de Hacienda;
 
-VII. Integrar y difundir la información documental y estadística correspondientes al informe de gobierno;
+VII. Emitir los lineamientos, metodologías y catálogos de formatos e instructivos para formular e integrar el Registro Único de Transferencias;
 
-VIII. Integrar la evaluación anual de los resultados de la ejecución del Plan Nacional de Desarrollo, y
+VIII. Planear y coordinar el programa de modernización de los sistemas de contabilidad gubernamental y cuenta pública en los estados de la República, para efectos de homologar a éstos con los del gobierno federal;
 
-IX. Resolver los asuntos que las disposiciones legales aplicables a las materias de contabilidad gubernamental, cuenta pública federal y evaluación de la gestión pública atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén expresamente asignadas a otras unidades administrativas de la misma.
+IX. Obtener y analizar esquemas, metodologías y procedimientos que en materia de contabilidad gubernamental aplican otros países, o los que desarrollan instituciones de reconocida autoridad, a efecto de evaluar la conveniencia y factibilidad de adoptar aquéllos que contribuyan a la modernización de nuestro sistema;
+
+X. Formular y difundir los lineamientos, índices temáticos y los formatos e instructivos para captar información estadística, y la relativa a los resultados alcanzados en la gestión de los diversos sectores de la administración pública federal, con objeto de integrar el anexo del informe de gobierno;
+
+XI. Establecer y difundir los criterios y guiones temáticos para obtener la información de las dependencias y entidades de la administración pública federal, que permita evaluar los avances y resultados en la aplicación de las estrategias y políticas del Plan Nacional de Desarrollo y sus programas, con el propósito de integrar el informe anual de ejecución del Plan;
+
+XII. Integrar, editar y difundir mensualmente el libro denominado El Gobierno Mexicano, y
+
+XIII. Resolver los asuntos que las disposiciones legales aplicables a las materias de contabilidad gubernamental, cuenta pública federal y evaluación de la gestión pública atribuyan a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Secretario y no estén expresamente asignadas a otras unidades administrativas de la misma.
 
 ###### Artículo 65.
 
@@ -2861,7 +2917,9 @@ Las Administraciones Regionales de Recaudación, de Auditoría Fiscal, Jurídica
 
 Los Coordinadores de Administradores que se designen, coordinarán las operaciones de los centros de informática adscritos o que presten servicios a la Subsecretaría de Ingresos o sus unidades administrativas, comprendidos en su circunscripción territorial.
 
-De los Administradores Regionales de Recaudación, de Auditoría Fiscal y Jurídico de Ingresos, dependerán las Administraciones Locales de Recaudación, de Auditoría Fiscal y Jurídica, de su circunscripción territorial. Del Administrador Regional de Aduanas, dependerán las Aduanas y la Jefatura Regional de la Policía Fiscal de su circunscripción territorial.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+De los Administradores Regionales de Recaudación, de Auditoría Fiscal y Jurídico de Ingresos, dependerán las Administraciones Locales de Recaudación, de Auditoría Fiscal y Jurídica de Ingresos, de su circunscripción territorial. Del Administrador Regional de Aduanas, dependerán las aduanas de su circunscripción territorial.
 
 ###### Artículo 95.
 
@@ -2869,7 +2927,9 @@ Las Administraciones Generales de Recaudación, de Auditoría Fiscal Federal y l
 
 Las Administraciones Locales de Recaudación, de Auditoría Fiscal, de Jurídica de Ingresos estarán a cargo de un Administrador, quien será asistido en el ejercicio de sus facultades por los Subadministradores, coordinadores, supervisores, inspectores, auditores, abogados hacendarios, ayudantes de auditor, verificadores, ejecutores y notificadores y por los demás servidores públicos que señale este Reglamento, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
-A. Compete a las Administraciones Locales de Recaudación, ejercer las facultades siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+A. Compete a las Administraciones Locales de Recaudación a que se refiere el apartado E de este artículo, ejercer las facultades siguientes:
 
 I. Aplicar la política, los programas, sistemas, procedimientos y métodos de trabajo, establecidos por la Administración General de Recaudación, y por la Administración Regional de Recaudación de la que dependa;
 
@@ -2931,7 +2991,13 @@ XXIX. Informar a la unidad administrativa de la Secretaría que corresponda en l
 
 XXX. Tramitar y resolver las solicitudes de aclaración que presenten los contribuyentes, sobre problemas relacionados con la presentación de declaraciones, la imposición de multas, requerimientos, solicitudes y avisos al Registro Federal de Contribuyentes.
 
-B. Compete a las Administraciones Locales de Auditoría Fiscal, ejercer las facultades siguientes:
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+Las Administraciones Locales de Recaudación estarán a cargo de un Administrador, auxiliado en el ejercicio de sus facultades por los Subadministradores de Orientación y Servicios; de Declaraciones, Pagos y Contabilidad; de Registro y Control; de Control de Créditos y Cobro Coactivo; de Procesos y Declaraciones; de Validación Contable; de Proyectos de Procesos y Declaraciones, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+B. Compete a las Administraciones Locales de Auditoría Fiscal a que se refiere el apartado E de este artículo, ejercer las facultades siguientes:
 
 I. Aplicar la política, los programas, sistemas, procedimientos y métodos de trabajo, establecidos por la Administración General de Auditoría Fiscal Federal, y por la Administración Regional de Auditoría Fiscal de la que dependa;
 
@@ -2981,7 +3047,9 @@ XXIII. Informar a la Procuraduría Fiscal de la Federación de los hechos de que
 
 XXIV. Notificar sus actos relacionados con el ejercicio de las facultades de comprobación, con excepción de las que únicamente determinen multas administrativas o de aquéllas cuya notificación sea competencia de las Administraciones General, Especial o Locales de Recaudación.
 
-C. Compete a las Administraciones Locales Jurídicas de Ingresos, ejercer las facultades siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+C. Compete a las Administraciones Locales Jurídicas de Ingresos a que se refiere el apartado E de este artículo, ejercer las facultades siguientes:
 
 I. Aplicar la política, los programas, sistemas, procedimientos y métodos de trabajo, establecidos por la Administración General Jurídica de Ingresos, y por la Administración Regional Jurídica de Ingresos de la que dependan;
 
@@ -3045,6 +3113,10 @@ Tratándose de la competencia a que se refiere la fracción XII de este Apartado
 
 La Administración Local Jurídica de Ingresos ejercerá en su circunscripción territorial, las facultades previstas en las fracciones XII a XVII de este Apartado, respecto de todas las Administraciones Regionales, Coordinación Administrativa Regional y Jefatura Regional de la Policía Fiscal.
 
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+Las Administraciones Locales Jurídicas de Ingresos estarán a cargo de un Administrador, auxiliado en el ejercicio de sus facultades por los Subadministradores de Resoluciones 1 y 2; de Asistencia al Contribuyente; de lo Contencioso "1" y "2"; de Asuntos Especiales, así como por el personal que se requiera para satisfacer las necesidades del servicio.
+
 D. Las Administraciones Locales de Auditoría Fiscal y las Jurídicas de Ingresos, no tendrán competencia, respecto de las entidades y sujetos que a continuación se mencionan:
 
 I. La Federación, los Estados Extranjeros y los Organismos Internacionales;
@@ -3071,7 +3143,9 @@ Las Administraciones Locales de Recaudación no tendrán competencia respecto de
 
 Respecto de las entidades y sujetos a que se refiere este Apartado, las Administraciones locales de Auditoría Fiscal ejercerán las facultades en materia aduanera, así como las señaladas en la fracción XIX del Apartado B de este artículo.
 
-E. El número y nombre de las Administraciones Locales es el que enseguida se señala, y la sede es la ciudad que corresponda al nombre de cada una, incluso en el caso de las del Distrito Federal que tendrán por sede el propio Distrito Federal.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+E. El número y nombre de las Administraciones Locales de Recaudación, de Auditoría Fiscal y Jurídicas de Ingresos, es el que enseguida se señala y la sede es la ciudad que corresponda al nombre de cada una, incluso en el caso de las del Distrito Federal que tendrán por sede el propio Distrito Federal.
 
 1. De Mexicali
 
@@ -3367,7 +3441,9 @@ B. El número, nombre y ubicación de las aduanas es el que enseguida se señala
 
 El Secretario de Hacienda y Crédito Público, de conformidad con lo dispuesto por la Ley Aduanera señalará la circunscripción territorial de cada una de las aduanas y establecerá o suprimirá las secciones aduaneras correspondientes. Las unidades administrativas citadas podrán estar en el municipio que corresponda a la ciudad que identifique la aduana, en cualquiera de los municipios colindantes, así como en el Aeropuerto Internacional o en el puerto que corresponda a esa ciudad. Tratándose de la Ciudad de México las aduanas podrán estar ubicadas en el Distrito Federal o en cualquiera de los municipios que forman su área conurbada.
 
-C. Cada Aduana estará a cargo de un Administrador del que dependerán los Subadministradores, inspectores, verificadores, notificadores y agentes de la policía fiscal y el personal que las necesidades del servicio requiera.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+C. Cada aduana estará a cargo de un Administrador del que dependerán los subadministradores, jefes de sala, jefes de departamento, jefes de sección, verificadores, notificadores, comandante y agentes de la policía fiscal federal y el personal que las necesidades del servicio requiera.
 
 ###### Artículo 97.
 
@@ -3641,7 +3717,9 @@ Los Administradores Generales serán suplidos en sus ausencias por los Administr
 
 El Administrador Regional que ejerza la representación de los demás Administradores y Coordinador Administrativo de la región, será suplido en sus ausencias, por lo que respecta a dicha representación, por los Administradores Jurídico de Ingresos, de Auditoría Fiscal, de Recaudación, y de Aduanas en la región, en el orden indicado.
 
-Los Administradores Locales, serán suplidos en sus ausencias por los Subadministradores, que de ellos dependan, así como los Directores Generales por los Directores en los asuntos de su respectiva competencia.
+> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+Los Directores Generales, serán suplidos en sus ausencias por los Directores que de ellos dependan en los asuntos de su respectiva competencia; los administradores locales por los subadministradores, que de ellos dependan; los administradores de aduanas por los subadministradores o por los jefes de departamento que de ellos dependan, en las salas de atención a pasajeros por los jefes de sala y en las secciones aduaneras, por los jefes de sección.
 
 Los Administradores y Directores serán suplidos por los Subadministradores o por los Subdirectores que de ellos dependan en los asuntos de su respectiva competencia. Los Subadministradores, Jefes de Departamento y Supervisores, serán suplidos por el servidor público inmediato inferior que de ellos dependa, en los asuntos de su competencia.
 
@@ -3706,3 +3784,11 @@ Quinto. Cuando en este Reglamento se dé una denominación nueva o distinta a al
 Sexto. Los derechos de los trabajadores serán respetados conforme a la ley y en ningún caso sus prestaciones serán afectadas por la reorganización administrativa que implica el presente Reglamento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de septiembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Guillermo Ortiz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 24 DE DICIEMBRE DE 1996.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
