@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1994-06-29"
+last_updated: "1994-09-14"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE SEPTIEMBRE DE 1994.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -117,13 +117,17 @@ VI.- SEXTO CIRCUITO:
 
 VII.- SEPTIMO CIRCUITO:
 
-1.- Un tribunal colegiado en materias administrativa y de trabajo, un tribunal colegiado en materia penal, y dos tribunales unitarios con residencia en la ciudad de Veracruz, Veracruz;
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO No. XIX/94 DEL TRIBUNAL EN PLENO DEL DIA SEIS DE SEPTIEMBRE DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 14 DE SEPTIEMBRE DE 1994)</small>
+
+1.- Un tribunal colegiado en materia penal, un tribunal colegiado en materias administrativa y de trabajo, y dos tribunales unitarios, con residencia en Boca del Río, Veracruz;
 
 2.- Dos tribunales colegiados en materia civil, con residencia en la ciudad de Xalapa, Veracruz;
 
 3.- Juzgado Primero de Distrito en el estado de Veracruz, con residencia en la ciudad de Xalapa;
 
-4.- Juzgados Segundo, Tercero y Cuarto de Distrito en el estado de Veracruz, con residencia en la ciudad de Veracruz;
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO No. XIX/94 DEL TRIBUNAL EN PLENO DEL DIA SEIS DE SEPTIEMBRE DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 14 DE SEPTIEMBRE DE 1994)</small>
+
+4.- Juzgados Segundo, Tercero y Cuarto de Distrito en el estado de Veracruz, con residencia en Boca del Río;
 
 5.- Juzgados Quinto y Sexto de Distrito en el estado de Veracruz, con residencia en la ciudad de Tuxpan.
 
@@ -389,7 +393,9 @@ IX.- Los Juzgados Séptimo y Octavo de Distrito en el estado de Sonora, con resi
 
 X.- El Juzgado Primero de Distrito en el estado de Veracruz, con residencia en la ciudad de Xalapa, ejercerá jurisdicción en los distritos judiciales locales de Xalapa, Coatepec, Misantla, Jalacingo y Huatusco;
 
-XI.- Los Juzgados Segundo, Tercero y Cuarto de Distrito en el estado de Veracruz, con residencia en la ciudad de Veracruz, ejercerán jurisdicción en el territorio del estado, excepto en los distritos judiciales locales comprendidos en las fracciones X, XII y XIII;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO No. XIX/94 DEL TRIBUNAL EN PLENO DEL DIA SEIS DE SEPTIEMBRE DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 14 DE SEPTIEMBRE DE 1994)</small>
+
+XI.- Los Juzgados Segundo, Tercero y Cuarto de Distrito en el estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción en el territorio del Estado, excepto en los Distritos Judiciales Locales comprendidos en las fracciones X, XII y XIII;
 
 XII.- El Juzgado Séptimo de Distrito en el estado de Veracruz, con residencia en la ciudad de Coatzacoalcos, ejercerá jurisdicción en los municipios de: Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Moloacán, Oteapán, Pajapan, Santa Lucrecia, Zaragoza, Mecayapan, Oluta, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Acayucan, Minatitlán y Texistepec;
 
@@ -520,3 +526,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- La Comisión de Gobierno y Administración y los ministros inspectores de los tribunales de Circuito comprendidos en este Acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
 
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de los correspondientes tribunales colegiados y unitarios del Segundo Circuito, para su cumplimiento y de los juzgados de dicho Circuito, para su conocimiento.
+
+D.O.F. 14 DE SEPTIEMBRE DE 1994.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- La Comisión de Gobierno y Administración y los ministros inspectores de los órganos jurisdiccionales comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de los tribunales colegiados y unitarios del Séptimo Circuito y de los correspondientes juzgados de Distrito para su debido cumplimiento.
