@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1977-02-10"
+last_updated: "1977-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1977.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -519,11 +519,11 @@ El impuesto se causará y pagará mensualmente en razón de los ingresos gravabl
 
 Para los efectos del pago de este impuesto, regirán las tasas que señala la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 1977)</small>
 
 ###### ARTICULO 56.
 
-Están exentos del pago del impuesto sobre actividades mercantiles e industriales.
+Están exentos del pago del Impuesto Sobre Actividades Mercantiles e Industriales:
 
 I.- Los ingresos obtenidos por las Sociedades Cooperativas de Consumo, únicamente con motivo de las ventas hechas a sus socios.
 
@@ -547,7 +547,9 @@ VII.- Los ingresos que obtengan por venta de cemento, los productores y distribu
 
 VIII.- Enajenación de títulos de crédito.
 
-IX.- (DEROGADA, P.O. 10 DE FEBRERO DE 1977)
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 1977)</small>
+
+IX. Las percepciones obtenidas por las Editoras, exclusivamente en lo concerniente a la producción, distribución y venta de periódicos.
 
 ###### ARTICULO 57.
 
@@ -1802,3 +1804,7 @@ P.O. 10 DE FEBRERO DE 1977.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 31 DE MAYO DE 1977.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
