@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-municipal-numero-152-5119"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-30"
-last_updated: "1988-12-30"
+last_updated: "1989-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO FISCAL MUNICIPAL NUMERO 152
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el miércoles 30 de diciembre de 1987.
 
@@ -239,7 +239,19 @@ VIII.- Las personas físicas, morales o unidades económicas que adquieran biene
 
 IX.- Las instituciones de crédito, autorizadas para llevar a cabo operaciones fiduciarias respecto de los créditos fiscales que se hubieran causado por los ingresos derivados de la actividad objeto del fideicomiso hasta donde alcance los bienes fideicomitidos, así como por los avisos y declaraciones que deban presentar los Contribuyentes con quienes operen en relación con dichos bienes fideicomitidos.
 
-X.- Las demás personas que señalen las leyes fiscales.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+X.- Los servidores públicos, notarios y corredores que autoricen algún acto jurídico, expidan testimonios o den trámite a algún documento en que se consignen actos, convenios, contratos de operaciones, si no se cercioran de que se han cubierto los impuestos o derechos respectivos, o no den cumplimiento a las disposiciones correspondientes que regulan el pago de gravámenes.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+XI.- Los representantes de los contribuyentes que hayan girado cheques para cubrir créditos fiscales sin tener fondos disponibles, o que teniéndolos, dispongan de ellos antes de que transcurra el plazo de presentación.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+XII.- Las demás personas que señalen las Leyes Fiscales.
+
+En los casos de responsabilidad solidaria, los responsables quedan obligados a cubrir la totalidad de los créditos fiscales incluyendo sus accesorios legales; por tanto el fisco puede exigir de cualquiera de ellos, simultánea o separadamente el cumplimiento de las obligaciones fiscales.
 
 ###### ARTICULO 26o.
 
@@ -969,6 +981,36 @@ XVIII. No conservar los libros, documentos, correspondencia que les sean dejados
 
 XIX. Infringir disposiciones fiscales en formas distintas de las previstas en las fracciones precedentes; de uno hasta ciento veinte días del salario mínimo vigente en el Municipio.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+ARTICULO 88 BIS.- Son infracciones cuya responsabilidad recae sobre los jueces encargados de los registros, notarios, corredores y en general funcionarios que se encuentran revestidos de fe pública, las que a continuación se indican:
+
+I.- No hacer la cotización y determinación de impuestos que causen las escrituras, minutas o cualquier acto y contrato que se otorgue ante el fedatario o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales; de 1 a 90 días del salario mínimo vigente en la zona económica que le corresponda.
+
+II.- Expedir testimonio de escrituras, documentos o minutas cuando no estén pagados los impuestos correspondientes; multa de 1 a 90 días del salario mínimo vigente en la zona económica que le corresponda.
+
+III.- No consignar a las autoridades fiscales los documentos que presenten cuando no estén pagados los impuestos correspondientes; multa de 1 a 90 días del salario mínimo vigente en la zona económica que le corresponda.
+
+IV.- No expedir las notas de liquidación de alguna prestación fiscal, o expedirlas en forma que dé lugar a la evasión parcial o total de gravámenes; multa de hasta 160 días del salario mínimo vigente en la zona económica que le corresponda.
+
+V.- Autorizar actos o contratos por los que se cause algún crédito fiscal a favor del Municipio o que estén relacionados con fuentes de ingresos gravados por la Ley sin cerciorarse previamente de que está al corriente de las obligaciones fiscales; multa de 1 a 50 días del salario mínimo vigente en la zona económica que le corresponda.
+
+VI.- Inscribir o registrar documentos, instrumentos o libros que carezcan total o parcialmente de la comprobación o constancia de haberse pagado los gravámenes correspondientes; multa de 1 a 50 días del salario mínimo vigente en la zona económica que le corresponda.
+
+VII.- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo, en el plazo que fijen las disposiciones fiscales, o cuando lo exijan las autoridades competentes o presentarlos incompletos o inexactos, multa de 1 a 50 días del salario mínimo vigente en la zona económica que le corresponda.
+
+VIII.- Proporcionar los informes o documentos a que se refiere la fracción anterior, alterados o falsificados, multa de 1 a 160 días del salario mínimo vigente en la zona económica que le corresponda.
+
+IX.- Extender constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento, multa de 1 a 160 días del salario mínimo vigente en la zona económica que le corresponda.
+
+X.- Cooperar con los infractores o facilitar en cualquier forma la omisión total o parcialmente de gravámenes, mediante alteraciones, ocultamiento, otros hechos u omisiones, multa de 1 a 160 días del salario mínimo vigente en la zona económica que le corresponda.
+
+XI.- No enterar dentro del plazo legal los créditos fiscales correspondientes a los actos en que intervengan; multa que no exceda de un tanto de lo que importe el crédito fiscal y los accesorios legales respectivos.
+
+XII.- Traficar ilegalmente con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos, por cada uno; multa de 1 a 160 días del salario mínimo vigente en la zona económica que le corresponda.
+
+XIII.- Infringir otras disposiciones fiscales en forma no prevista en las precedentes; multa de 1 a 160 días del salario mínimo vigente en la zona económica que le corresponda.
+
 ### CAPITULO II. DE LOS DELITOS FISCALES
 
 ###### ARTICULO 89o.
@@ -1228,6 +1270,20 @@ III. Los motivos y fundamentos por los que se considere responsable del crédito
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 IV. El plazo para el pago, el cual será de cinco días salvo que la Ley señale otro.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+ARTICULO 171 BIS.- Son improcedentes los recursos cuando se hagan valer contra actos administrativos:
+
+I.- Que no afecten el interés jurídico del recurrente.
+
+II.- Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de éstas o de sentencias.
+
+III.- Que hayan sido impugnadas ante el Tribunal de lo Contencioso Administrativo.
+
+IV.- Que se haya consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto.
+
+V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
 
 #### SECCION SEGUNDA. DEL EMBARGO PRECAUTORIO
 
@@ -1930,3 +1986,9 @@ Rúbrica.
 P.O. 30 DE DICIEMBRE DE 1988.
 
 UNICO.- Este Decreto entrará en vigor el día primero de enero de mil novecientos ochenta y nueve.
+
+P.O. 29 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día primero de enero de mil novecientos noventa.
