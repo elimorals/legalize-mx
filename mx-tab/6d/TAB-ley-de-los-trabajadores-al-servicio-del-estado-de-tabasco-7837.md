@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2000-12-09"
+last_updated: "2005-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -191,7 +191,7 @@ Son causas de suspensión temporal, de la relación de trabajo, las siguientes:
 
 I.- La enfermedad contagiosa del trabajador que implique un peligro para las personas que trabajen con él;
 
-II.- La incapacidad física temporal del trabajador, cuando la misma derive de un accidente o enfermedad que no constituya un riesgo de trabajo y se determine así medicamente, en cuanto le inhabilite para desempeñar su trabajo de acuerdo con la Ley del ISSET;
+II.- La incapacidad física temporal del trabajador, cuando la misma derive de un accidente o enfermedad que no constituya un riesgo de trabajo y se determine así médicamente, en cuanto le inhabilite para desempeñar su trabajo de acuerdo con la Ley del ISSET;
 
 III.- La prisión preventiva del trabajador seguida de formal prisión, o el arresto por autoridad Judicial o Administrativa. Cuando en el caso de formal prisión, recaiga sentencia absolutoria, el trabajador se reincorporará a sus labores, debiéndose liquidar sus salarios cuando haya obrado en defensa de los intereses de la entidad pública;
 
@@ -482,6 +482,10 @@ XIII.- Impartir cursos de capacitación y adiestramiento para los trabajadores;
 XIV.- Participar en la integración y funcionamiento de las Comisiones de Seguridad e Higiene que deban formarse en cada centro de trabajo, de acuerdo con lo establecido por la Ley; y
 
 XV.- Respetar los derechos otorgados a los trabajadores en los preceptos legales.
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2005)</small>
+
+XVI.- Abstenerse de solicitar certificado médico o constancia de no gravidez, a las mujeres que soliciten empleo, con excepción de las plazas, contratos o cualquier tipo de relación laboral que ponga en riesgo la salud de la trabajadora o del producto.
 
 ### CAPITULO II. DEL ESCALAFON
 
@@ -1176,3 +1180,9 @@ P.O. 9 DE DICIEMBRE DE 2000.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- En un término no mayor de noventa días, contados a partir de la entrada en vigor del presente Decreto, deberá expedirse el Reglamento Interior, que regule la estructura de la Procuraduría de la Defensa de los Trabajadores al Servicio del Estado y los Municipios, y las funciones de los Servidores Públicos adscritos a la misma.
+
+P.O. 26 DE FEBRERO DE 2005.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan a lo ordenado en el presente Decreto.
