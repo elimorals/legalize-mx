@@ -4,7 +4,7 @@ identifier: "VER-ley-del-registro-publico-de-la-propiedad-6790"
 country: "mx"
 rank: "ley"
 publication_date: "1979-12-29"
-last_updated: "1990-05-17"
+last_updated: "1992-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE MAYO DE 1990.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1992.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 29 de diciembre 1979.
 
@@ -45,21 +45,31 @@ LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
 El Registro Público de la Propiedad, es la Institución mediante la cual el Estado proporciona el servicio de dar publicidad a los actos y hechos jurídicos que la requieren para surtir efectos ante terceros.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ###### ARTICULO 2.
 
-Conforme a las disposiciones del artículo 8o. de la Ley Orgánica del Poder Ejecutivo, la función registral estará a cargo del Departamento del Registro Público de la Propiedad dependiente de la Tesorería General del Estado, y con apego a las prevenciones del Código Civil, de esta Ley y demás disposiciones legislativas.
+El Registro Público de la Propiedad se encomienda a la Secretaría General de Gobierno del Estado, y llevará la función registral con apego a las prevenciones del Código Civil, de esta Ley y demás disposiciones legales.
+
+La función registral se ejercerá por conducto de un Departamento, cuya organización y atribuciones serán en términos de esta Ley, la Ley Orgánica de la Administración Pública y el Reglamento Interior de la Secretaría General de Gobierno.
 
 ###### ARTICULO 3.
 
 Para el cumplimiento de sus funciones, el Departamento del Registro Público de la Propiedad contará con las siguientes dependencias:
 
-I.- Oficina Dictaminadora.
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+I.- Oficina Dictaminadora y Técnica.
 
 II.- Oficina de Supervisión.
 
 III.- Oficina de Archivo.
 
 IV.- Oficinas Registradoras.
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+V.- Las demás que sean necesarias y las que deriven del Reglamento Interior de la Secretaría General de Gobierno.
 
 ### CAPITULO SEGUNDO. Del Jefe del Departamento
 
@@ -95,19 +105,27 @@ VII.- Programar con la Oficina de Supervisión visitas a las Oficinas Registrado
 
 VIII.- Las demás que le señalen las leyes.
 
-### CAPITULO TERCERO. De la Oficina Dictaminadora
+> <small>(REFORMADA SU DENOMINACION, G.O. 1 DE FEBRERO DE 1992)</small>
+
+### CAPITULO TERCERO. De la Oficina Dictaminadora y Técnica
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 6.
 
-La Oficina Dictaminadora tiene a su cargo el estudio y dictamen de los asuntos que sean competencia del Departamento.
+La Oficina Dictaminadora y Técnica tiene a su cargo el estudio y dictamen de los asuntos que sean competencia del Departamento.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 7.
 
-El Jefe de la Oficina Dictaminadora debe reunir los mismos requisitos exigidos para ser Jefe del Departamento.
+El Jefe de la Oficina Dictaminadora y Técnica, debe reunir los mismos requisitos exigidos para ser Jefe del Departamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 8.
 
-Son obligaciones del Jefe de la Oficina Dictaminadora:
+Son obligaciones del Jefe de la Oficina Dictaminadora y Técnica:
 
 I.- Auxiliar al Jefe del Departamento en las labores que éste le encomiende;
 
@@ -117,7 +135,9 @@ III.- Supervisar las resoluciones emitidas por los Dictaminadores;
 
 IV.- Suplir al Jefe del Departamento en sus ausencias temporales y representarlo cuando así lo disponga éste en actos relacionados con la función registral; y
 
-V.- Las demás inherentes a su cargo.
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+V.- Las demás inherentes a su cargo y las que le deriven del Código Civil.
 
 ###### ARTICULO 9.
 
@@ -183,13 +203,17 @@ El Jefe de la Oficina de Archivo estará auxiliado por el personal que las neces
 
 Corresponde al Jefe de la Oficina de Archivo:
 
-I.- Conservar, clasificar y ordenar metódicamente los volúmenes y demás documentos en materia registral como lo señale el manual de organización del Departamento, para lo cual deberá:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE FEBRERO DE 1992)</small>
+
+I.- Conservar, clasificar y ordenar metódicamente, los volúmenes y demás documentos en materia registral como lo señale el Manual de Organización de la Secretaría General de Gobierno, para lo cual deberá:
 
 a).- Verificar que las formas y las hojas de estadística, sean archivadas por zonas y cronológicamente;
 
 b).- Mantener actualizado el registro de tarjetas índices de control;
 
-II.- Enviar con oportunidad al Departamento correspondiente los documentos debidamente clasificados que contengan la información necesaria para la elaboración del padrón de inscripciones;
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+II.- Enviar con oportunidad al área correspondiente, los documentos debidamente clasificados que contengan la información necesaria para la elaboración del padrón de inscripciones;
 
 III.- Proporcionar la información y antecedentes que le soliciten los Dictaminadores;
 
@@ -371,7 +395,9 @@ Son obligaciones de los empleados:
 
 I.- Asistir con puntualidad a la Oficina de su adscripción y desempeñar con dedicación y sentido de responsabilidad, las labores propias de su cargo;
 
-II.- Cumplir y en su caso, hacer cumplir las disposiciones emanadas de ésta o de otras leyes y de las circulares e instructivos que expida el Departamento;
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 1992)</small>
+
+II.- Cumplir y en su caso, hacer cumplir las disposiciones emanadas de ésta o de otras leyes, el Reglamento Interior de la Secretaría General de Gobierno y de las circulares e instructivos que expida el Departamento;
 
 III.- Desempeñar con eficacia los trabajos que le sean encomendados por el Registrador;
 
@@ -599,9 +625,11 @@ Los certificados que se expidan harán constar tanto los datos de las inscripcio
 
 ### CAPITULO NOVENO. De las Responsabilidades
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+
 ###### ARTICULO 62.
 
-Los Jefes de las distintas Oficinas que integran el Departamento del Registro Público de la Propiedad, los Encargados del Registro y los empleados a su cargo, serán responsables de los daños y perjuicios que ocasionen en el ejercicio de sus funciones, negligencia o incumplimiento de las disposiciones contenidas en el Código Civil y en esta Ley, sin perjuicio de las sanciones penales o administrativas previstas en otras leyes.
+Los Jefes de las distintas Oficinas que integran el Registro Público de la Propiedad, los encargados del Registro y los empleados a su cargo, serán responsables de los daños y perjuicios que ocasionen en el ejercicio de sus funciones, negligencia o incumplimiento de las disposiciones contenidas en el Código Civil, la Ley de Responsabilidades de los Servidores Públicos y en esta Ley, la Ley Orgánica de la Administración Pública y el Reglamento Interior de la Secretaría General de Gobierno, sin perjuicio de las sanciones penales o administrativas previstas en otros ordenamientos.
 
 ###### ARTICULO 63.
 
@@ -694,3 +722,13 @@ La presente reforma entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 1 DE FEBRERO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente ordenamiento entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este ordenamiento.
