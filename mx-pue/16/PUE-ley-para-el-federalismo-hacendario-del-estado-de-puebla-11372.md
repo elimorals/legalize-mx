@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-federalismo-hacendario-del-estado-de-puebla-11372"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2000-02-04"
+last_updated: "2004-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL FEDERALISMO HACENDARIO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 28 de enero de 1998.
 
@@ -1115,9 +1115,11 @@ Para la aplicación de los recursos a que se refiere la fracción III del artíc
 
 Los municipios deberán reportar al Gobierno del Estado a través de la Secretaría de Finanzas al inicio de cada ejercicio presupuestal y de manera permanente, la deuda directa y contingente a cargo de su Ayuntamiento y de sus organismos públicos descentralizados, con el objeto de programar el saneamiento de su deuda, estableciendo el tiempo y formas de pago.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 85.
 
-Los recursos a que se refiere la fracción II del artículo 81 de esta Ley, deberán aplicarse al desarrollo de los subsistemas de información y atención a la ciudadanía, al equipamiento de corporaciones, la formación policial, la capacitación especializada, la ampliación de la infraestructura penitenciaria y la dignificación de la ya existente.
+Los recursos a que se refiere la fracción II del artículo 81 de esta Ley, deberán aplicarse preferentemente a las estregabais y acciones en los ejes de profesionalización, capacitación especializada, dotaciones complementarias y prestaciones al personal activo registrado en el Sistema Nacional de Información Policial, equipamiento, sistemas de información y telecomunicaciones, infraestructura penitenciaria, operación y dignificación de la ya existente y participación de la comunidad en materia de seguridad pública.
 
 ###### ARTICULO 86.
 
@@ -1300,3 +1302,9 @@ SEGUNDO.- Para efectos del artículo 71 de esta Ley, el Gobierno del Estado y lo
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
