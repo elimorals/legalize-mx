@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-7662"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-07-15"
-last_updated: "2000-09-29"
+last_updated: "2001-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 25 DE MAYO DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2001 (ABROGADO).
 
 Ley publicada en el Número 28 del Periódico Oficial del Estado de Querétaro, el jueves 15 de julio de 1993.
 
@@ -2138,3 +2140,35 @@ P.O. 29 DE SEPTIEMBRE DE 2000.
 Artículo Primero. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan las disposiciones que se opongan a la presente Ley.
+
+P.O. 25 DE MAYO DE 2001.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO”.]
+
+###### ARTICULO PRIMERO.
+
+Se abroga la Ley Orgánica Municipal del Estado de Querétaro, expedida con fecha veinticinco de junio de mil novecientos noventa y tres, publicada en el periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga" de fecha quince de Julio de 1993 mil novecientos noventa y tres;
+
+###### ARTICULO SEGUNDO.
+
+La presente Ley entrará en vigor a partir del 1°·de junio del 2001, con excepción de lo establecido en la Fracción V y VI del Artículo 112 de la presente Ley, cuyos efectos serán exigibles a partir del 1 ° de enero del año 2002.
+
+###### ARTICULO TERCERO.
+
+Los Ayuntamientos expedirán o adecuarán sus reglamentos a más tardar en 6 meses contados a partir de la publicación de la presente Ley. En tanto estos se expidan o adecuen, se aplicarán las disposiciones reglamentarias existentes, en todo aquello que no se opongan a la presente ley.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley.
+
+###### ARTICULO QUINTO.
+
+Las concesiones, licencias y permisos otorgados con anterioridad a la entrada en vigor del presente decreto, continuarán vigentes hasta que concluya el plazo fijado en los mismos, salvo que se actualice alguna causa de revocación, caducidad o rescate.
+
+###### ARTICULO SEXTO.
+
+Las solicitudes (sic) se encuentren en trámite y en fase de dictamen presentadas con anterioridad a la entrada en vigor de la presente Ley, se sustanciarán bajo las disposiciones de la ley que se abroga.
+
+###### ARTICULO SÉPTIMO.
+
+Los procedimientos de revocación de mandato, así como los relativos a conflictos de límites entre municipios, que se encuentren en trámite en la Legislatura del Estado a la entrada en vigor de la presente Ley, continuarán sustanciándose bajo las disposiciones de la Ley que se abroga.
