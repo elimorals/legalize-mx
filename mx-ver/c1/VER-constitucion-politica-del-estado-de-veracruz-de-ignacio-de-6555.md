@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2000-02-03"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "VER"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE- ANTES CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE-
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
+CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. LA DIPUTACION PERMANENTE DE LA QUINCUAGESIMA OCTAVA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE APROBO LA LEY No. 53, QUE REFORMA LOS ARTICULOS 1 AL 84 Y DEROGA LOS ARTICULOS 85 AL 141 DE LA CONSTITUCION POLITICA VIGENTE EN EL ESTADO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, POR TAL MOTIVO SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN LA G.O. DE 3 DE FEBRERO DE 2000.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE FEBRERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -35,7 +33,9 @@ Gobernador Provisional del Estado Libre y Soberano de Veracruz-Llave, a sus habi
 
 La XXVI Legislatura del Estado Libre y Soberano de Veracruz-Llave, en funciones de Constituyente, a que fué convocada por decreto de 7 de abril del corriente año, reforma la Constitución Política de 29 de septiembre de 1902, en los términos siguientes:
 
-Constitución Política del Estado Libre y Soberano de Veracruz-Llave.
+> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2003)</small>
+
+Constitución Política del Estado de Veracruz de Ignacio de la Llave.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -47,11 +47,11 @@ Constitución Política del Estado Libre y Soberano de Veracruz-Llave.
 
 ### CAPÍTULO I. DE LA SOBERANÍA Y DEL TERRITORIO DEL ESTADO
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 1.
 
-El Estado de Veracruz-Llave es parte integrante de la Federación Mexicana, libre y autónomo en su administración y gobierno interiores.
+El Estado de Veracruz de Ignacio de la Llave es parte integrante de la Federación Mexicana, libre y autónomo en su administración y gobierno interiores.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -157,7 +157,9 @@ i) Propiciará la participación social en materia educativa, para el fortalecim
 
 La Universidad Veracruzana es una institución autónoma de educación superior. Conforme a la ley: tendrá la facultad de autogobernarse, expedir su reglamentación, y nombrar a sus autoridades; realizará sus fines de conservar, crear y transmitir la cultura y la ciencia, a través de las funciones de docencia, investigación, difusión y extensión, respetando las libertades de cátedra, de investigación, de libre examen y discusión de las ideas; determinará sus planes y programas; fijará los términos de ingreso, promoción y permanencia de su personal académico; y administrará libremente su patrimonio, que se integrará con las aportaciones federales y estatales, la transmisión de bienes y derechos de personas físicas o morales, nacionales o extranjeras los recursos generados por los servicios que preste, así como por los demás que señale su ley.
 
-Los ingresos de la Universidad, los bienes de su propiedad, así como los actos y contratos en que intervenga, no serán sujetos de tributación local o municipal.
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+
+Los bienes inmuebles de la Universidad destinados a la prestación del servicio público educativo estarán exentos del pago de contribuciones locales y municipales.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -255,7 +257,9 @@ Los miembros del Congreso y el Gobernador del Estado tienen derecho de iniciativ
 
 El referendo será obligatorio en los siguientes casos:
 
-a) Para la reforma o derogación total de las disposiciones de esta Constitución; y
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+
+a) Para la reforma total o la abrogación de las disposiciones de esta Constitución; y
 
 b) Para los demás casos que establezcan esta Constitución y la ley.
 
@@ -373,13 +377,21 @@ El Congreso tendrá como asuntos de atención preferente:
 
 I. En el primer período de sesiones ordinarias:
 
-a) Examinar, discutir y, en su caso, aprobar el presupuesto que en relación con los ingresos y egresos del año siguiente, le sea presentado por el Gobernador del Estado durante el mes de diciembre; y
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
-b) Examinar, discutir y aprobar las leyes de ingresos de los municipios, que sean presentadas en las fechas que indique la ley respectiva.
+a) Examinar, discutir y, en su caso, aprobar el presupuesto que en relación con los ingresos y egresos del año siguiente, le sea presentado por el Gobernador del Estado durante el mes de diciembre;
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+
+b) Examinar, discutir y aprobar las leyes de ingresos de los municipios, que sean presentadas en las fechas que indique la ley respectiva; y
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2003)</small>
+
+c) Revisar y dictaminar la cuenta pública del Gobierno del Estado, correspondiente al año anterior. La cuenta deberá ser presentada durante el mes de mayo, a fin de conocer los resultados de la gestión financiera, comprobar si se ha dado cumplimiento a los objetivos contenidos en los programas y ajustado a los criterios señalados en el presupuesto
 
 II. En el segundo período de sesiones ordinarias:
 
-a) Revisar y dictaminar la cuenta pública del Gobierno del Estado, correspondiente al año anterior. La cuenta deberá ser presentada durante el mes de mayo, a fin de conocer los resultados de la gestión financiera, comprobar si se ha dado cumplimiento a los objetivos contenidos en los programas y ajustado a los criterios señalados en el presupuesto; y
+a) (DEROGADO, G.O. 18 DE MARZO DE 2003)
 
 b) Examinar, fiscalizar y aprobar las cuentas de recaudación y distribución de ingresos del año próximo anterior, presentadas por los ayuntamientos en las fechas indicadas en las leyes respectivas.
 
@@ -509,15 +521,31 @@ c) La calificación de las causas graves o justificadas para que los ediles renu
 
 XVI. Autorizar, en su caso, a los ayuntamientos:
 
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
 a) La contratación de obras y servicios públicos, cuando produzcan obligaciones que excedan al período constitucional del Ayuntamiento contratante;
 
 b) La celebración de contratos y de obras públicas, cuando su valor exceda del veinte por ciento de la partida presupuestal respectiva;
 
 c) La contratación de empréstitos;
 
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
 d) La enajenación, gravamen, transmisión de la posesión o dominio de bienes, participaciones, impuestos, derechos, aprovechamientos, contribuciones o cualquier tipo de ingreso fiscal que forme la hacienda municipal;
 
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
 e) La transmisión en forma gratuita o donación de la propiedad, así como el uso o disfrute de los bienes del municipio;
+
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 f) Las concesiones de prestación de servicios públicos que les corresponda a los municipios, sus prórrogas y cancelaciones;
 
@@ -537,7 +565,9 @@ XXI. Conceder al Gobernador, a los diputados, a los magistrados y a los consejer
 
 XXII. Resolver sobre la renuncia que presenten el Gobernador, los magistrados y los consejeros de la Judicatura que hubiere designado;
 
-XXIII. Constituirse en Colegio Electoral y elegir al ciudadano que deba sustituir al Gobernador del Estado, ya sea con el carácter de sustituto o de provisional, en los términos del artículo 66 de esta Constitución;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2003)</small>
+
+XXIII. Constituirse en Colegio Electoral y elegir al ciudadano que deba sustituir al Gobernador del Estado, en los casos previstos por esta Constitución;
 
 XXIV. Convocar a elecciones extraordinarias si faltaren a la vez un diputado propietario y su suplente en el distrito electoral que corresponda, cuando dicha falta suceda antes de un año para que las ordinarias se efectúen;
 
@@ -557,7 +587,9 @@ XXIX. Revisar las Cuentas Públicas del Gobierno del Estado y de los ayuntamient
 
 XXX. Dar las bases para reconocer y mandar pagar los adeudos contraídos por el Poder Ejecutivo, con cargo al crédito del Estado, así como señalar los fondos con que deberán pagarse;
 
-XXXI. Autorizar al Ejecutivo del Estado a enajenar a título oneroso o gratuito, o a conceder el uso y disfrute, de bienes inmuebles de propiedad estatal, en los términos que fije la ley;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2003)</small>
+
+XXXI. Autorizar al Ejecutivo del Estado a enajenar, a título oneroso o gratuito, o a conceder el uso y disfrute de bienes de propiedad estatal, en los términos que fije la ley;
 
 XXXII. Revisar y fiscalizar las cuentas y demás documentos que presenten o se soliciten a los organismos autónomos de Estado;
 
@@ -1073,23 +1105,37 @@ VI. A los organismos autónomos de Estado, en lo relativo a la materia de su com
 
 VII. A los ciudadanos del Estado, mediante iniciativa popular, en los términos que establezca la ley.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 35.
 
-Las iniciativas de ley, decreto o reforma constitucional, deberán sujetarse a los trámites siguientes:
+Las iniciativas de ley o decreto se sujetarán a los trámites siguientes:
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 I. Turno a Comisiones;
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 II. Dictamen de comisiones;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 III. Discusión del dictamen en el pleno del Congreso, a la cual podrá asistir el Gobernador o quien él designe, para hacer las aclaraciones que considere necesarias;
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 IV. Votación nominal; y
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 V. Aprobación por la mayoría que, según el caso, exija esta Constitución y la ley.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+
 Aprobada la ley o decreto, se turnará al Titular del Poder Ejecutivo para su promulgación y publicación en la Gaceta Oficial del Estado.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 En el caso de urgencia u obviedad, calificado por el voto de las dos terceras partes de los diputados presentes, o cuando esté por terminar algún período de sesiones, el Congreso podrá dispensar los trámites reglamentarios.
 
@@ -1109,11 +1155,11 @@ Una vez cumplidos el plazo y las formalidades del proceso legislativo, si el Eje
 
 Desechada alguna iniciativa de ley o decreto, no podrá ser propuesta de nuevo en el mismo período de sesiones, pero esto no impedirá que alguno de sus artículos formen parte de otra. Esta disposición no regirá tratándose de la Ley de Ingresos y del Presupuesto de Egresos.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 38.
 
-Las resoluciones del Congreso tendrán el carácter de ley, decreto, acuerdo, reforma constitucional o iniciativa ante el Congreso de la Unión.
+Las resoluciones del Congreso tendrán el carácter de ley, decreto, acuerdo o iniciativa ante el Congreso de la Unión.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1143,7 +1189,9 @@ VI. Las relativas a la licencia temporal o renuncia del Gobernador del Estado o 
 
 La víspera del día en que concluyan los períodos de sesiones ordinarias, el Congreso del Estado, mediante votación secreta y por mayoría de los diputados presentes, elegirá una Diputación Permanente compuesta por el cuarenta por ciento del total de los integrantes del Congreso, de los cuales la mitad actuarán como propietarios y los demás como sustitutos.
 
-La Diputación Permanente funcionará durante los recesos del Congreso y, en el año de su renovación, hasta la instalación del sucesivo, debiendo integrarse proporcionalmente según el número de diputados pertenecientes a los diversos grupos legislativos.
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+
+La Diputación Permanente funcionará durante los recesos del Congreso y, en el año de su renovación, hasta la instalación del sucesivo, debiendo integrarse proporcionalmente según el número de diputados pertenecientes a los diversos grupos legislativos, en los términos que establezca la ley.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1160,6 +1208,10 @@ III. Recibir las iniciativas que le sean presentadas y turnarlas a las comisione
 IV. Presidir la sesión pública y solemne convocada para el solo efecto de declarar formalmente instalado el nuevo Congreso;
 
 V. Nombrar provisionalmente a los magistrados del Tribunal Superior de Justicia y tomarles la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen; así como conceder o negar las solicitudes de licencia o renuncia que le sometan dichos servidores públicos;
+
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO 'DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS', PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 VI. Autorizar, con el voto de las dos terceras partes de los diputados presentes, al Ejecutivo del Estado o a los Ayuntamientos, a enajenar a título oneroso o gratuito, o conceder el uso y disfrute, de bienes propiedad del Estado o de los municipios, dando cuenta al Congreso en la primera sesión de éste, concluido el receso. Las enajenaciones o concesiones sólo podrán hacerse cuando medie interés social;
 
@@ -1199,7 +1251,9 @@ V. No ser militar en servicio activo o con mando de fuerzas;
 
 VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe de su ministerio conforme a lo establecido por la Constitución Federal y la ley de la materia; y
 
-VII. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2003)</small>
+
+VII. Saber leer y escribir y no tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
 La prohibición para los servidores públicos mencionados en las fracciones IV y V, no surtirá efectos si se separan de sus cargos noventa días naturales anteriores al día de la elección, o a partir del quinto día posterior a la publicación de la convocatoria para la elección extraordinaria.
 
@@ -1213,11 +1267,11 @@ El Gobernador del Estado cuyo origen sea la elección popular, ordinaria o extra
 
 El cargo de Gobernador del Estado sólo es renunciable por causa grave, que calificará el Congreso del Estado.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 45.
 
-El Gobernador, en el acto de toma de posesión de su cargo, rendirá formal protesta ante el Congreso del Estado, ante la Diputación Permanente en los recesos de aquél, o, en su caso, ante el Presidente del Tribunal Superior de Justicia, en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado de Veracruz-Llave; y si así no lo hiciere, que la Nación y el Estado me lo demanden".
+El Gobernador, en el acto de toma de posesión de su cargo, rendirá formal protesta ante el Congreso del Estado, ante la Diputación Permanente en los recesos de aquél, o, en su caso, ante el Presidente del Tribunal Superior de Justicia, en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado de Veracruz de Ignacio de la Llave; y si así no lo hiciere, que la Nación y el Estado me lo demanden".
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1265,7 +1319,9 @@ Son atribuciones del Gobernador del Estado:
 
 I. Cumplir y hacer cumplir la Constitución y las leyes federales, los tratados internacionales, esta Constitución y las leyes que de ella emanen;
 
-II. Promulgar, publicar y ejecutar las leyes, decretos o reformas constitucionales aprobados por el Congreso;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2003)</small>
+
+II. Promulgar, publicar y ejecutar las leyes o decretos aprobados por el Congreso;
 
 III. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos aprobados por el Congreso;
 
@@ -1396,6 +1452,8 @@ VIII. Tramitar y resolver, mediante los procedimientos que señale la ley, los a
 IX. Dictar las medidas procedentes para que la administración de justicia sea pronta, expedita y completa;
 
 X. Conocer del juicio político como órgano de sentencia, cuando los servidores públicos incurran en actos u omisiones que constituyan perjuicio a los intereses públicos fundamentales y a su correcto despacho;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2003)</small>
 
 XI. Conocer, en los términos que fije la ley respectiva, de los juicios de responsabilidad civil derivada del ejercicio del cargo, que se instauren a instancia de parte agraviada o de sus causahabientes, en contra de Magistrados, Consejeros, Procurador General de Justicia, Secretarios de Despacho, y demás servidores públicos de los Poderes Ejecutivo y Judicial;
 
@@ -1551,7 +1609,9 @@ La omisión legislativa surtirá sus efectos a partir de su publicación en la G
 
 Para garantizar que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad, se establecerá un sistema de medios de impugnación de los cuales conocerán, en los términos que señale la ley, el Instituto Electoral Veracruzano y la Sala Electoral del Tribunal Superior de Justicia.
 
-La Sala Electoral, integrada por tres magistrados, funcionará de manera permanente y contará con las atribuciones que señale la ley.
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+
+La Sala Electoral, integrada por tres magistrados, funcionará con motivo de la organización y celebración de un proceso electoral, plebiscitario o de referendo. Cuando no existan dichos procesos, los magistrados que la integran formarán parte de una Sala Auxiliar del Tribunal Superior de Justicia, en los términos que señale la ley.
 
 El sistema de medios de impugnación dará definitividad a las distintas etapas en los procesos electorales, de plebiscito o referendo, y garantizará los derechos políticos de los ciudadanos de votar, ser votado y de libre asociación. La interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
@@ -1595,7 +1655,9 @@ III. La fiscalización en el Estado se realizará por el Órgano de Fiscalizaci�
 
 a) Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado y de los ayuntamientos, así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos, en los términos de la ley;
 
-b) Entregar al Congreso el informe del resultado de la revisión de la Cuenta Pública a más tardar durante la segunda quincena del mes de abril del año siguiente al de su ejercicio;
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+
+b) Entregar al Congreso los informes del resultado de la revisión de las Cuentas Públicas, a más tardar durante la segunda quincena del mes de diciembre del año siguiente al de su ejercicio;
 
 c) Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos federales, de los Poderes del Estado, de los ayuntamientos y de los demás organismos autónomos de Estado, y efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos; y
 
@@ -1627,7 +1689,9 @@ El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecu
 
 Cada municipio será gobernado por un Ayuntamiento de elección popular, libre, directa y secreta, integrado por un presidente, un síndico y los demás ediles que determine el Congreso, y no habrá autoridad intermedia entre éste y el Gobierno del Estado. Sólo los ayuntamientos, o en su caso, los concejos municipales, podrán ejercer las facultades que esta Constitución les confiere.
 
-En la elección de los ayuntamientos, el partido político que alcance el mayor número de votos obtendrá la presidencia y la sindicatura. Las regidurías serán asignadas a cada partido, incluyendo a aquél que obtuvo la mayor votación, de acuerdo al principio de representación proporcional, en los términos que señale la legislación del Estado. Los agentes y subagentes municipales se elegirán de acuerdo a lo establecido por esta Constitución y la ley electoral; la Ley Orgánica del Municipio Libre señalará sus atribuciones y responsabilidades.
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+
+En la elección de los ayuntamientos, el partido político que alcance mayor número de votos obtendrá la presidencia y la sindicatura. Las regidurías serán asignadas a cada partido, incluyendo a aquel que obtuvo la mayor votación, de acuerdo al principio de representación proporcional, en los términos que señale la legislación del Estado. Los agentes y subagentes municipales se elegirán de acuerdo a lo establecido por esta Constitución y la Ley Orgánica del Municipio Libre, la que señalará sus atribuciones y responsabilidades.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1641,7 +1705,9 @@ II. No pertenecer al estado eclesiástico, ni ser ministro de algún culto relig
 
 III. No ser servidor público en ejercicio de autoridad, en los últimos sesenta días anteriores al día de la elección ordinaria, o a partir del quinto día posterior a la publicación de la convocatoria para la elección extraordinaria; y
 
-IV. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2003)</small>
+
+IV. Saber leer y escribir y no tener antecedentes penales por la comisión de delitos realizados con dolo, excepto aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1895,9 +1961,13 @@ Esta Constitución podrá ser reformada en todo o en parte por el Congreso del E
 
 Para que las reformas formen parte de esta Constitución, será necesaria la aprobación de la mayoría de los ayuntamientos, la que deberá darse en sesión extraordinaria de cabildo en un término improrrogable de noventa días naturales contados a partir del día siguiente a aquel en que reciban el proyecto.
 
-Para la reforma o derogación total de las disposiciones contenidas en esta Constitución, será obligatorio el referendo que señala el artículo 17 de esta Constitución.
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
-El Congreso o la Diputación Permanente hará el cómputo de los votos de los ayuntamientos y, en su caso, la declaratoria de que han sido aprobadas las reformas, ordenando su publicación en la Gaceta Oficial del Estado.
+Para la reforma total o la abrogación de las disposiciones contenidas en esta Constitución, será obligatorio el referendo que señala el artículo 17 de este ordenamiento.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+
+El Congreso o la Diputación Permanente hará el cómputo de los votos de los ayuntamientos y, en su caso, la declaratoria de que han sido aprobadas las reformas.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -11193,16 +11263,6 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
 
-G.O. 12 DE OCTUBRE DE 1993.
-
-###### ARTICULO PRIMERO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial", Órgano del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan a las reformas a que se refiere el presente decreto.
-
 G.O. 16 DE DICIEMBRE DE 1993.
 
 ###### ARTICULO PRIMERO.
@@ -11212,6 +11272,16 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 12 DE OCTUBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial", Órgano del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las reformas a que se refiere el presente decreto.
 
 G.O. 22 DE SEPTIEMBRE DE 1994.
 
@@ -11474,6 +11544,40 @@ SEXTO. Se llevará a cabo la redistritación electoral del Estado, en el lapso d
 SÉPTIMO. Dentro del plazo de 4 meses se expedirá el Código Electoral, que atenderá a los principios generales que en materia de representación política establecen la Constitución General de la República y esta Constitución.
 
 Las disposiciones en materia electoral contenidas en la presente Ley entrarán en vigor al día siguiente a aquel en el que se tenga por concluido el proceso electoral del año 2000.
+
+G.O. 18 DE MARZO DE 2003.
+
+DECRETO No. 547 DE REFORMA CONSTITUCIONAL.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 18 DE MARZO DE 2003.
+
+DECRETO No. 548 DE REFORMA CONSTITUCIONAL.
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 18 DE MARZO DE 2003.
+
+DECRETO No. 549 DE REFORMA CONSTITUCIONAL.
+
+ÚNICO. La presente resolución entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
