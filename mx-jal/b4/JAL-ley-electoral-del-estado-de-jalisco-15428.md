@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "2000-04-06"
+last_updated: "2000-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -353,9 +353,11 @@ Todos los servidores públicos mencionados en el párrafo anterior, cuando tenga
 
 ### Capítulo I. Disposiciones Comunes para la Aplicación de las Fórmulas Electorales
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+
 ###### Artículo 24.
 
-Para los efectos de esta ley se entiende por fórmula electoral, el conjunto de normas, elementos matemáticos y mecanismos que deben observarse para el cómputo de votos en la elección de Gobernador del Estado; para la asignación a los partidos políticos, de diputados electos por el principio de mayoría relativa y por el principio de representación proporcional mediante el sistema de listas votadas en la circunscripción o para la asignación de regidores por el principio de representación proporcional, según sea el caso.
+Para los efectos de esta ley se entiende por fórmula electoral, el conjunto de normas, elementos matemáticos y mecanismos que deben observarse para el cómputo de votos en la elección de Gobernador del Estado; para la asignación a los partidos políticos, de diputados electos por el principio de mayoría relativa, o para la elección de regidores por el principio de mayoría relativa y por la asignación de regidores por el principio de representación proporcional, según sea el caso.
 
 ###### Artículo 25.
 
@@ -373,13 +375,11 @@ III. Votación Efectiva, la resultante de deducir de la votación válida, los v
 
 El Poder Legislativo del Estado Libre y Soberano de Jalisco, se deposita en el Congreso del Estado, que es una Asamblea integrada por cuarenta diputados electos en forma directa, cada tres años, de conformidad con lo dispuesto por la Constitución Política de la entidad y el procedimiento previsto en el presente capítulo.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+
 ###### Artículo 27.
 
-De los cuarenta diputados que integran el Congreso del Estado, veinte se elegirán por el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales y veinte serán electos según el principio de representación proporcional, a través del sistema de listas votadas en la circunscripción plurinominal.
-
-Para la elección de los diputados por el principio de representación proporcional, se constituirá el territorio del Estado en una o varias circunscripciones plurinominales.
-
-Los diputados integrantes del Congreso del Estado, con independencia del principio de votación por el que fueron electos, tendrán los mismos derechos y obligaciones.
+De los cuarenta diputados que integran el Congreso del Estado, veinte se elegirán por el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y veinte serán electos según el principio de representación proporcional. Estos últimos se asignarán de acuerdo a las listas de representación proporcional que registren los partidos y la de porcentajes mayores de los candidatos de cada partido político no electo bajo el principio de mayoría relativa.
 
 ###### Artículo 28.
 
@@ -389,15 +389,21 @@ Para la configuración de los veinte distritos electorales uninominales, se toma
 
 En caso de falta temporal o absoluta de los diputados electos por el principio de mayoría relativa, el Congreso del Estado llamará a cubrirla al suplente de su fórmula. De no ser factible y si procede, deberá convocarse a elecciones extraordinarias en los términos de esta ley.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+
 ###### Artículo 30.
 
-La elección de diputados por el principio de representación proporcional, se verificará con base a la lista que para tal efecto presenten los partidos políticos para la circunscripción plurinominal.
+La elección de diputados por el principio de representación proporcional, se verificará con base a la lista que para tal efecto presenten los partidos políticos para la circunscripción plurinominal y a la modalidad de porcentajes mayores.
 
-Los partidos políticos deberán presentar una lista de candidatos ordenada en forma progresiva, del doble de los diputados a elegir este principio.
+Los partidos políticos deberán presentar una lista de candidatos ordenada en forma progresiva, del doble de los diputados a elegir por la modalidad de lista de representación proporcional.
 
-El Consejo Electoral del Estado, al aplicar la fórmula electoral que se define en este ordenamiento, asignará a los partidos políticos el número de diputados por el principio de representación proporcional que les corresponda de acuerdo con la votación obtenida, de la lista registrada ante el propio organismo electoral, en el orden de prelación establecido.
+El Consejo Electoral del Estado, al aplicar la fórmula electoral que se define en este ordenamiento, asignará a los partidos políticos el número de diputados por el principio de representación proporcional que les corresponda de acuerdo con la votación obtenida.
 
-Para suplir a los diputados electos por el principio de representación proporcional, el Congreso del Estado mandará llamar al siguiente de la lista registrada ante el Consejo Electoral del Estado, siempre que reúna los requisitos de elegibilidad que contemplen la Constitución Política del Estado de Jalisco y esta ley.
+Los diputados que les correspondan a cada partido conforme al principio de representación proporcional les serán asignados alternativamente entre los candidatos registrados en la lista de representación proporcional y los que procedan según la modalidad de porcentajes mayores, iniciando por la primera.
+
+La asignación de diputados por la modalidad de lista de representación proporcional seguirá el orden de prelación establecido por los partidos. La asignación mediante la modalidad de porcentajes mayores se realizará entre los candidatos que no hubieren sido electos en la elección de diputados por el principio de mayoría relativa; en este caso, la asignación procederá de acuerdo a la lista que se elabore en forma descendente a favor de quienes hubieren obtenido el mayor porcentaje de votación válida con relación a los demás candidatos de su propio partido.
+
+Para suplir a los diputados electos por la modalidad de lista de representación proporcional y de porcentajes mayores, el Congreso del Estado mandará llamar al siguiente de la lista correspondiente, siempre que reúna los requisitos de elegibilidad que contemplen la Constitución Política del Estado de Jalisco y esta ley.
 
 ### Capítulo III
 
@@ -415,11 +421,15 @@ b) Registre fórmulas de candidatos a diputados por el principio de mayoría rel
 
 c) Conserve al día de la elección el registro de cuando menos catorce fórmulas de mayoría relativa;
 
-d) Registre una lista de cuarenta candidatos a diputados de representación proporcional; y
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+
+d) Registre una lista de veinte candidatos a diputados de representación proporcional; y
 
 e) Conserve el registro de la lista de candidatos a diputados de representación proporcional, al día de la elección, de por lo menos las dos terceras partes de sus respectivos integrantes;
 
-II. Al partido político que tenga el porcentaje más alto de la votación emitida, se le asignarán diputados por el principio de representación proporcional hasta alcanzar el número total de diputados que resulte equivalente, respecto del total de la cámara, al porcentaje de su votación efectiva, adicionándole un nueve por ciento.
+> <small>(REFORMADA P.O. 18 DE ABRIL DE 2000)</small>
+
+II. Al partido político que tenga el porcentaje más alto de la votación emitida, se le asignarán diputados por el principio de representación proporcional hasta alcanzar el número total de diputados que resulte equivalente al porcentaje de su votación efectiva, adicionándole seis puntos porcentuales.
 
 Ningún partido político podrá tener derecho a que se le reconozcan más de veinticuatro diputados del total del Congreso del Estado.
 
@@ -507,19 +517,19 @@ I. Obtenido el cociente natural, se asignarán a cada partido político tantas r
 
 II. Si después de aplicarse el cociente natural, quedaren regidurías por asignar, éstas se distribuirán por el método del resto mayor, siguiendo el orden decreciente de los restos de los votos no utilizados por cada uno de los partidos políticos, incluyéndose aquellos partidos políticos que no alcanzaron participación por el cociente natural.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+
 ###### Artículo 42.
 
 La distribución de los regidores de mayoría relativa y de representación proporcional para cada ayuntamiento se sujetará a las siguientes bases:
 
-I. En los municipios en que la población no exceda de treinta mil habitantes se elegirán siete regidores por el principio de mayoría relativa y dos de representación proporcional;
+I. En los municipios en que la población no exceda de cincuenta mil habitantes se elegirán siete regidores por el principio de mayoría relativa y hasta cuatro de representación proporcional;
 
-II. En los municipios cuya población exceda de treinta mil, pero no de sesenta mil habitantes, se elegirán ocho regidores por el principio de mayoría relativa y hasta tres regidores de representación proporcional;
+II. En los municipios cuya población exceda de cincuenta mil, pero no de cien mil habitantes, se elegirán nueve regidores por el principio de mayoría relativa y hasta cinco regidores de representación proporcional;
 
-III. En los municipios en que la población exceda de sesenta mil pero no de noventa mil habitantes, se elegirán diez regidores por el principio de mayoría relativa y hasta cuatro regidores de representación proporcional;
+III. En los municipios en que la población exceda de cien mil pero no de quinientos mil habitantes, se elegirán once regidores por el principio de mayoría relativa y hasta seis regidores de representación proporcional; y
 
-IV. En los municipios en que la población exceda de noventa mil pero no de quinientos mil habitantes, se elegirán once regidores por el principio de mayoría relativa y hasta cinco regidores de representación proporcional; y
-
-V. En los municipios en que la población exceda de quinientos mil habitantes, se elegirán trece regidores por el principio de mayoría relativa y hasta siete de representación proporcional.
+IV. En los municipios en que la población exceda de quinientos mil habitantes, se elegirán trece regidores por el principio de mayoría relativa y hasta ocho regidores de representación proporcional.
 
 ### Capítulo VI. De las Fechas y de la Celebración de Elecciones Ordinarias y Extraordinarias
 
@@ -653,9 +663,13 @@ V. Las sanciones, medios de defensa y los organismos encargados de la substancia
 
 Además del cumplimiento de lo dispuesto en los artículos precedentes, para constituirse como partido estatal deberán justificar fehacientemente los siguientes requisitos:
 
-I. Contar con un mínimo de ochenta afiliados en cada uno de por lo menos sesenta y tres municipios del Estado; pero en ningún caso el número de afiliados en todo el Estado podrá ser inferior a siete mil quinientos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2000)</small>
 
-II. Celebrar cuando menos sesenta y tres asambleas constitutivas municipales en igual número de municipios o una asamblea constitutiva distrital en por lo menos la mitad más uno de los distritos electorales, obteniendo como mínimo, un total de quinientos afiliados presentes. En ninguno de los supuestos anteriormente señalados, el total de los asistentes a las asambleas podrán ser inferior a siete mil quinientos.
+I. Contar con un mínimo de ochenta afiliados en cada uno de por lo menos cincuenta y dos municipios del Estado; pero en ningún caso el número de afiliados en todo el Estado podrá ser inferior a seis mil.
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2000)</small>
+
+II. Celebrar cuando menos cincuenta y dos asambleas constitutivas municipales en igual número de municipios o una asamblea constitutiva distrital en por lo menos ocho de los distritos electorales, obteniendo como mínimo, un total de quinientos afiliados presentes. En ninguno de los supuestos anteriormente señalados, el total de los asistentes a las asambleas podrán ser inferior a seis mil.
 
 Las asambleas referidas en esta fracción deberán celebrarse ante la presencia de un Notario Público o de un representante acreditado del Consejo Electoral del Estado, los que para tal efecto darán fe y certificarán que:
 
@@ -1769,7 +1783,9 @@ Las comisiones distritales y municipales electorales son los órganos del Consej
 
 En cada una de las cabeceras distritales y municipales se instalará una Comisión Distrital o Municipal Electoral, respectivamente.
 
-Las comisiones distritales iniciarán sus funciones a más tardar el 15 de julio y las comisiones municipales a más tardar el 30 de julio, ambas del año de la elección.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+
+Las comisiones distritales iniciarán sus funciones a más tardar el 15 de julio y las comisiones municipales a más tardar el 15 de octubre, ambas del año de la elección.
 
 El Consejo Electoral del Estado acordará los lugares en que habrán de instalarse las comisiones distritales comprendidas en la zona metropolitana de Guadalajara.
 
@@ -1779,11 +1795,15 @@ A partir de la fecha de instalación de las comisiones distritales y municipales
 
 #### Sección Segunda. De su Integración
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+
 ###### Artículo 154.
 
 Las comisiones distritales y municipales electorales se integrarán de la siguiente manera:
 
-I. Siete comisionados electorales con derecho a voz y voto, de entre los cuales, los mismos elegirán a su Presidente, de conformidad a lo establecido en el presente ordenamiento. Por cada comisionado propietario habrá un suplente;
+I. Las distritales contarán con siete comisionados electorales con derecho a voz y voto y las municipales se integrarán con cinco, de entre los cuales elegirán a su Presidente, de conformidad a lo establecido en el presente ordenamiento. Por cada comisionado propietario habrá un suplente.
+
+En caso de que el municipio se localice en más de un distrito electoral o se integre por dos o más distritos electorales, el comité municipal se formará por siete comisionados electorales.
 
 II. Un Secretario que tendrá derecho a voz; y
 
@@ -4720,3 +4740,11 @@ SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en
 P.O. 6 DE ABRIL DE 2000.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE ABRIL DE 2000.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Se deroga cualquier disposición que se oponga al presente decreto.
+
+Tercero.- Lo dispuesto en el artículo 60 segundo párrafo de esta Ley, no será aplicable a las elecciones que se llevarán a cabo en el año 2000; en este caso, el plazo para que los partidos políticos estatales obtengan su registro vencerá el día último de junio del presente año.
