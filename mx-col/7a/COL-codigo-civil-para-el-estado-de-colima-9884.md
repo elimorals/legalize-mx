@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1989-01-14"
+last_updated: "1994-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -713,19 +713,35 @@ Las sucursales que operen en lugares distintos de donde radica la casa matriz, t
 
 ART. 34.- Se tiene derecho de designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 34 BIS.- El Registro Civil es la Institución de orden público y de interés social por la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos o modificaciones del estado civil de las personas.
+
+El Registro Civil estará a cargo de la Dirección del Registro Civil, que jerárquicamente dependerá de la Secretaría General de Gobierno. El Registro Civil estará constituido por una Dirección, un Archivo Central, Unidades Administrativas y las Oficialías que establezca el Reglamento respectivo.
+
 ## TITULO CUARTO. Del Registro Civil
 
 ### CAPITULO I. Disposiciones generales
 
 ART. 35.- En el Estado de Colima estará a cargo de los oficiales del Registro Civil autorizar los actos del estado civil y extender las cartas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en el territorio del mismo; así como las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
-ART. 36.- Los oficiales del Registro Civil llevarán por duplicado siete libros que se denominan "Registro Civil" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de fallecimiento y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+
+Las Oficialías del Registro Civil estarán bajo la coordinación, inspección y vigilancia de la Dirección del Registro Civil.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 36.- Las actas del Registro Civil se asentarán en formas especiales, la infracción a esta disposición producirá su nulidad, las inscripciones se harán en forma computarizada o mecanografiada, en ambos casos deberán contener la clave única de registro de población o en su defecto la transcripción de la misma. En caso de inscripción computarizada se regirá conforme al procedimiento de guarda y distribución de las copias de respaldo informático que establezca el reglamento respectivo y tratándose de forma mecanográfica, los formatos una vez utilizados se encuadernarán en volúmenes de doscientas actas que correspondan al año a que se refiera y que constituirán los Libros del Registro Civil.
+
+Las formas del Registro Civil serán autorizadas y distribuidas por la Dirección del Registro Civil.
+
+De las actas que se levanten en forma computarizada los oficiales del Registro Civil entregarán una copia de ellas al interesado, además de ajustarse a lo establecido en relación a la guarda y distribución del respaldo informático y en caso de levantamiento mecanográfico, el original quedará en el archivo de la Oficialía, una copia se entregará al interesado y otra a la Dirección del Registro Civil.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 37.- Los oficiales del Registro Civil llevarán por duplicado siete libros que se denominan "Registro Civil" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de defunción; y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
 Toda acta deberá asentarse en los dos ejemplares del Registro.
-
-ART. 37.- Las actas del Registro Civil sólo se pueden asentar en los libros de que habla el artículo anterior.
-
-La infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del oficial del Registro Civil.
 
 ART. 38.- Si se perdiere o destruyere alguno de los libros del Registro, se sacará inmediatamente copia del otro ejemplar, ya sea que la pérdida ocurra en las oficinas del Registro Civil o en las de la Autoridad Administrativa a quien se hubieren remitido los duplicados.
 
@@ -735,7 +751,9 @@ ART. 39.- El estado civil de las personas sólo se comprueba con las constancias
 
 ART. 40.- Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles y faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno solo de los registros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
 
-ART. 41.- Todos los libros del Registro Civil serán visados en su primera y última hoja por el Presidente Municipal respectivo, y autorizados por el mismo con su rúbrica en todas las demás. Se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la Secretaría General de Gobierno del Estado.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 41.- Todos los libros del Registro Civil serán visados en su primera y última hoja por el Director General del Registro Civil, y autorizados por el mismo con su rúbrica en todas las demás, se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la Secretaría General de Gobierno del Estado. Sin perjuicio de lo establecido en el artículo anterior.
 
 ART. 42.- El oficial del Registro Civil que no cumpla la prevención de remitir oportunamente a la mencionada oficina el ejemplar de que habla el artículo anterior, será destituido de su cargo.
 
@@ -751,7 +769,9 @@ ART. 47.- Los vicios o defectos que haya en las actas, sujetan al oficial del Re
 
 ART. 48.- Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los oficiales Registradores estarán obligados a darlo.
 
-ART. 49.- Los actos y actas del estado civil relativos al oficial del Registro, a su consorte y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo oficial, pero se asentarán en los propios libros y se autorizarán por el Presidente Municipal del lugar.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 49.- Los actos y actas del estado civil relativos al oficial del Registro, a su consorte y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo oficial, pero se asentarán en los propios libros y se autorizarán por el Director General del Registro Civil.
 
 ART. 50.- Las actas del Registro Civil extendidas conforme las disposiciones que preceden, hacen prueba plena en todo lo que el oficial del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta puede ser redargüida de falsa.
 
@@ -759,7 +779,9 @@ Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado po
 
 ART. 51.- Para establecer el estado civil, adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se registren en la Oficina respectiva del Registro Civil en el Estado de Colima o de cualquiera otra entidad federativa.
 
-ART. 52.- Las faltas de los oficiales del Registro Civil, por ausencia o impedimento, serán suplidas por los Presidentes Municipales y las de éstos, cuando actúen como oficiales, por la persona que conforme a la ley debe reemplazarlos en sus funciones de Presidente.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 52.- Las faltas de los oficiales del Registro Civil, por ausencia o impedimento, serán suplidas por los servidores públicos que determine el Director General, en términos del Reglamento respectivo.
 
 ART. 53.- El Ministerio Público cuidará de que los libros del Registro Civil se lleven debidamente, pudiendo inspeccionarlos en cualquier época. Durante los seis primeros meses de cada año, el Ministerio Público revisará los libros del año anterior remitidos al Archivo General del Estado, para el efecto de hacer la consignación correspondiente de los oficiales Registradores que hubieren cometido delitos en el ejercicio de su encargo, o de dar aviso a las Autoridades Administrativas de las faltas en que hubieren incurrido esos empleados.
 
@@ -771,25 +793,31 @@ La infracción de este artículo produce responsabilidad para los Agentes del Mi
 
 ART. 54.- Las declaraciones de nacimientos se harán presentando al niño ante el Oficial del Registro Civil en su Oficina, en la casa paterna, o donde aquel hubiere nacido.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
-ART. 55.- Tienen obligaciones de declarar el nacimiento, el padre, la madre o ambos, dentro de los 45 días siguientes a éste.
+ART. 55.- Tienen obligación de declarar el nacimiento, el padre, la madre, o ambos, dentro de los ciento ochenta días siguientes a éste.
 
-Los médicos cirujanos o matronas que hubieren asistido al parto, tienen obligaciones de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el Jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+Las autoridades municipales, ejidales, comunales y tradicional indígena, los médicos, cirujanos o comadronas que hubieren asistido al parto, tienen la obligación de dar aviso del nacimiento al oficial del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
 
-Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior estará a cargo del Director o de la persona encargada de la administración.
 
-ART. 56.- Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de cinco a cincuenta pesos, que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento.
+Recibido el aviso, el oficial del Registro Civil, tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 56.- Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con multa de uno a cinco días de salario mínimo vigente, que impondrá la autoridad competente del lugar donde se haya hecho la declaración extemporánea de nacimiento.
 
 En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
 
+Los interesados podrán realizar el Registro Extemporáneo de nacimiento por la vía administrativa con los requisitos que para el caso establece el Reglamento respectivo.
+
 ART. 57.- En las poblaciones en que no haya oficial del Registro, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará la constancia respectiva, que los interesados llevarán al oficial del Registro que corresponda, para que asiente el acta.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
-ART. 58.- El acta de nacimiento se extenderá con asistencia de dos testigos que identificarán al padre, a la madre o a ambos cuando éstos sean quienes presenten el hijo, declararán sobre la nacionalidad de éstos y podrán ser designados por los interesados; el acta contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre que se ponga y el apellido que le corresponda, sin que por motivo alguno pueda omitirse; y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
+ART. 58.- El acta de nacimiento se registrará con asistencia de dos testigos que identificarán al padre, a la madre, o a ambos cuando éstos sean quienes presenten al hijo, declararán sobre la nacionalidad de éstos y podrán ser designados por los interesados; el acta contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre o nombres, el apellido del padre, el apellido de la madre o los que le corresponda, la mención de si se presenta vivo o muerto, la impresión dactilar y la Clave Unica del Registro Nacional de Población que se asigna al registrado.
 
-Si no se proporcionan los nombres de los padres, del presentado, el Oficial del Registro le pondrá nombre y apellido. No podrá asentarse por ningún motivo, que el hijo es de padres desconocidos.
+Si no se proporcionan los nombres de los padres, el oficial del Registro Civil le pondrá nombre y apellido. Haciéndose constar esta circunstancia en acta por separado que se agregará al apéndice. Queda prohibido mostrar ésta última acta, a menos que medie orden judicial. No podrá asentarse por ningún motivo que el hijo es de padres desconocidos.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
@@ -813,9 +841,13 @@ ART. 63.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ni
 
 ART. 64.- Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta, pero en ella no se expresará que el hijo es incestuoso.
 
-ART. 65.- Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarle al oficial del Registro Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y el lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
-ART. 66.- La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquiera casa de comunidad, especialmente los de los hospitales, casa de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas.
+ART. 65.- Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al oficial del Registro Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él y declarará el día y el lugar en donde lo hubiere hallado así como las demás circunstancias que en el caso hayan concurrido, dándose además intervención al Ministerio Público.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 66.- La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquiera casa de comunidad, especialmente los de los hospitales, casa de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas. En todo caso de incumplimiento la autoridad competente impondrá al infractor una multa de diez a cincuenta días de salario mínimo vigente.
 
 ART. 67.- En las actas que se levanten en estos casos, se expresarán con especificación todas las circunstancias que designa el artículo 65, la edad aparente del niño, su sexo, el nombre y apellido que se le pongan, y el nombre de la persona o casa de expósitos que se encarguen de él.
 
@@ -835,7 +867,9 @@ ART. 74.- Si el nacimiento aconteciere durante un viaje por tierra, podrá regis
 
 ART. 75.- Si al dar el aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
 
-ART. 76.- En el acta de nacimiento de gemelos, el oficial del Registro Civil hará constar las particularidades que los distingan y quién nació primero, según las noticias que le comuniquen el médico, el cirujano, la matrona o las personas que hayan asistido al parto.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 76.- Cuando se trate de un parto múltiple, se levantará un acta por cada uno de los nacidos en la que además de los requisitos que señala el artículo 58, se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según las noticias que proporcionen el médico, el cirujano, la comadrona o las personas que hayan asistido el parto y, además, se imprimirán las huellas digitales de los presentados. El oficial del Registro Civil relacionará las actas.
 
 ### CAPITULO III. De las actas de reconocimiento de hijos naturales
 
@@ -1171,7 +1205,13 @@ VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebid
 
 IX.- El idiotismo y la imbecilidad;
 
-X.- El matrimonio subsistente con personas distintas de aquella con quien se pretenda contraer.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
+X.- El matrimonio subsistente con personas distintas de aquella con quien se pretenda contraer; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
+
+XI. El no haber asistido a las pláticas de orientación matrimonial a que se refiere este Capítulo.
 
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 
@@ -1188,6 +1228,10 @@ ART. 160.- Si el matrimonio se celebrare en contravención de lo dispuesto en el
 ART. 161.- Tratándose de mexicanos que se casen en el extranjero, dentro de tres meses de su llegada a la República se transcribirá el acta de la celebración del matrimonio en el Registro Civil del lugar en que se domicilien los consortes.
 
 Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se retrotraerán a la fecha en que se celebró el matrimonio; si se hace después, sólo producirá efecto desde el día en que se hizo la transcripción.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 161 BIS.- Para contraer matrimonio, los interesados deberán acreditar ante la Oficialía del Registro Civil haber asistido a las pláticas de orientación matrimonial que se organicen con tal propósito y que estén avaladas por el Consejo Estatal de Población.
 
 ### CAPITULO III. De los derechos y obligaciones que nacen del matrimonio
 
@@ -1229,15 +1273,9 @@ ART. 172.- El marido y la mujer, mayores de edad, tienen capacidad para administ
 
 ART. 173.- El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+ART. 174.-(DEROGADO, P.O. 9 DE JULIO DE 1994)
 
-ART. 174.- Los cónyuges requieren autorización judicial para contratar entre ellos, excepto cuando el contrato sea el de mandato para pleitos y cobranzas o para actos de administración.
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
-
-ART. 175.- También se requiere autorización judicial para que el cónyuge sea fiador de su consorte o se obligue solidariamente con él, en asuntos que sean de interés exclusivo de éste salvo cuando se trate de otorgar caución para que el otro obtenga su libertad.
-
-La autorización, en los casos a que se refieren éste y los dos artículos anteriores, no se concederá cuando resulten perjudicados los intereses de la familia o de uno de los cónyuges.
+ART. 175.-(DEROGADO, P.O. 9 DE JULIO DE 1994)
 
 ART. 176.- El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
@@ -4907,7 +4945,11 @@ I.- Público abierto;
 
 II.- Público cerrado; y
 
-III.- Ológrafo.
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
+
+III.- Público simplificado; y
+
+IV.- Ológrafo.
 
 ART. 1397.- El especial puede ser:
 
@@ -4935,7 +4977,9 @@ VI.- Los herederos o legatarios; sus descendientes; ascendientes, cónyuge o her
 
 VII.- Los que hayan sido condenados por el delito de falsedad.
 
-ART. 1399.- Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el notario, dos intérpretes nombrados por el mismo testador.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 1399.- Cuando el testador ignore el idioma del país un intérprete nombrado por el mismo testador concurrirá al acto y firmará el testamento.
 
 ART. 1400.- Tanto el notario como los testigos que intervengan en cualquier testamento deberán conocer al testador o cerciorarse de algún modo de su identidad, y de que se halla en su cabal juicio y libre de cualquier coacción.
 
@@ -4955,27 +4999,45 @@ ART. 1406.- Si los interesados están ausentes o son desconocidos, la noticia se
 
 ### CAPITULO II. Del testamento público abierto
 
-ART. 1407.- Testamento público abierto, es el que se otorga ante notario y tres testigos idóneos.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
-ART. 1408.- El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+ART. 1407.- Testamento público abierto es el que se otorga ante Notario, de conformidad con las disposiciones de este Capítulo.
 
-ART. 1409.- Si alguno de los testigos no supiere escribir firmará otro de ellos por él, pero cuando menos, deberá constar la firma entera de dos testigos.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
-ART. 1410.- Si el testador no pudiere o no supiere escribir intervendrá otro testigo más, que firme a su ruego.
+ART. 1408.- El testador expresará de modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán la escritura el testador, el notario y, en su caso, los testigos y el intérprete, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
 
-ART. 1411.- En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 1409.- En los casos previstos en los artículos 1410, 1412 y 1413 de este Código, así como cuando el testador o el notario lo soliciten, dos testigos deberán concurrir al acto de otorgamiento y firmar el testamento.
+
+Los testigos instrumentales a que se refiere este artículo podrán intervenir, además, como testigos de conocimiento.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 1410.- Cuando el testador declare que no sabe o no puede firmar el testamento, uno de los testigos firmará a ruego del testador y éste imprimirá su huella digital.
+
+ART. 1411.-(DEROGADO, P.O. 9 DE JULIO DE 1994)
 
 ART. 1412.- El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
 
-ART. 1413.- Cuando sea ciego el testador, se dará lectura al testamento dos veces; una por el notario, como está prescrito en el artículo 1,408, y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
-ART. 1414.- Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1,399. La traducción se transcribirá como testamento en el protocolo respectivo y el original se archivará en el apéndice correspondiente del notario que intervenga en el acto.
+ART. 1413.- Cuando el testador sea ciego o no pueda o no sepa leer, se dará lectura al testamento dos veces: una por el notario, como está prescrito en el artículo 1408, y otra en igual forma, por uno de los testigos u otra persona que el testador designe.
 
-Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+ART. 1414.- Cuando el testador ignore el idioma del país, si puede, escribirá su testamento, que será traducido al español por el intérprete a que se refiere el artículo 1399. La traducción se transcribirá como testamento en el respectivo protocolo y el original, firmado por el testador, el intérprete y el notario, se archivará en el apéndice correspondiente del notario que intervenga en el acto.
 
-ART. 1415.- Las formalidades se practicarán acto continuo y el notario dará fe de haberse llenado todas.
+Si el testador no puede o no sabe escribir, el intérprete escribirá el testamento que dicte aquél y leído y aprobado por el testador, se traducirá al español por el intérprete que deba concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
+
+Si el testador no puede o no sabe leer, dictará en su idioma el testamento al intérprete. Traducido éste, se procederá como dispone el párrafo primero de este artículo.
+
+En este caso el intérprete podrá intervenir, además, como testigo de conocimiento.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 1415.- Las formalidades expresadas en este Capítulo se practicarán en un solo acto que comenzará con la lectura del testamento y el notario dará fe de haberse llenado aquellas.
 
 ART. 1416.- Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
 
@@ -5040,6 +5102,26 @@ ART. 1443.- Cumplido lo prescrito en los cinco artículos anteriores, el juez de
 ART. 1444.- El testamento cerrado quedará sin efecto siempre que se encuentre roto el pliego interior o abierto el que forma la cubierta, o borradas, raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
 
 ART. 1445.- Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1,404 y 1,405, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE JULIO DE 1994)</small>
+
+### CAPITULO III BIS. Testamento Público Simplificado
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 1446 BIS.- Testamento público simplificado es aquel que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente, en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado de Colima, o cualquier dependencia o entidad de la Administración Pública Federal, Estatal y Municipal, o en acto posterior de conformidad con lo siguiente:
+
+I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 25 veces el salario mínimo general vigente elevado al año, al momento de que se formalice en escritura pública su adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
+
+II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces;
+
+III.- Si hubiere pluralidad de adquirentes del inmueble, cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1192 de este Código;
+
+IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
+
+V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1604, 1661 y demás relativos de este Código; y
+
+VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 871-Bis del Código de Procedimientos Civiles para el Estado de Colima.
 
 ### CAPITULO IV. Del testamento ológrafo
 
@@ -5213,6 +5295,8 @@ ART. 1504.- Concurriendo padres adoptantes y descendientes del adoptado, los pri
 
 ART. 1505.- Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
 
+## TITULO CUARTO. De la sucesión legítima
+
 ### CAPITULO III. De la sucesión de los ascendientes
 
 ART. 1506.- A falta de descendientes y de cónyuges, sucederán el padre y la madre por partes iguales.
@@ -5232,8 +5316,6 @@ ART. 1512.- Si concurre el cónyuge del adoptado con los adoptantes, las dos ter
 ART. 1513.- Los ascendientes, aun cuando sean ilegítimos, tienen derecho de heredar a sus descendientes reconocidos.
 
 ART. 1514.- Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce ni sus descendientes tienen derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos, en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibir alimentos.
-
-## TITULO CUARTO. De la sucesión legítima
 
 ### CAPITULO IV. De la sucesión del cónyuge
 
@@ -5329,6 +5411,8 @@ ART. 1542.- Habiendo albacea nombrado, él deberá promover la reclamación a qu
 
 ART. 1543.- El derecho de reclamar la herencia prescribe en diez años y es transmisible a los herederos.
 
+## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
+
 ### CAPITULO III. De la aceptación y de la repudiación de la herencia
 
 ART. 1544.- Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
@@ -5384,8 +5468,6 @@ ART. 1567.- El que por la repudiación de la herencia debe entrar en ella, podr�
 ART. 1568.- El que a instancia de un legatario o acreedor hereditario haya sido declarado heredero, será considerado como tal por los demás, sin necesidad de nuevo juicio.
 
 ART. 1569.- La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos, porque toda herencia se entiende aceptada a beneficio de inventario, aunque no se exprese.
-
-## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
 
 ### CAPITULO IV. De los albaceas
 
@@ -5961,6 +6043,14 @@ ART. 1771.- El suscriptor del título al portador no puede oponer más excepcion
 
 ART. 1772.- La persona que ha sido desposeída injustamente de títulos al portador, sólo con orden judicial puede impedir que se paguen al detentador que los presente al cobro.
 
+# LIBRO CUARTO. DE LAS OBLIGACIONES
+
+PRIMERA PARTE
+
+De las obligaciones en general
+
+## TITULO PRIMERO. Fuentes de las obligaciones
+
 ### CAPITULO III. Del enriquecimiento ilegítimo
 
 ART. 1773.- El que sin causa se enriquece en detrimento de otro, está obligado a indemnizarlo de su empobrecimiento en la medida que él se ha enriquecido.
@@ -5994,14 +6084,6 @@ ART. 1784.- La acción para repetir lo pagado indebidamente prescribe en un año
 ART. 1785.- El que ha pagado para cumplir una deuda prescrita o para cumplir un deber moral, no tiene derecho de repetir.
 
 ART. 1786.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buenas costumbres, no quedará en poder del que lo recibió. El cincuenta por ciento se destinará a la Beneficencia Pública y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
-
-# LIBRO CUARTO. DE LAS OBLIGACIONES
-
-PRIMERA PARTE
-
-De las obligaciones en general
-
-## TITULO PRIMERO. Fuentes de las obligaciones
 
 ### CAPITULO IV
 
@@ -6229,6 +6311,8 @@ III.- Cuando por actos propios hubiese disminuido aquellas garantías después d
 
 ART. 1851.- Si fueren varios los deudores solidarios, lo dispuesto en el artículo anterior sólo comprenderá al que se hallare en alguno de los casos que en él se designan.
 
+## TITULO SEGUNDO. Modalidades de las obligaciones
+
 ### CAPITULO III. De las obligaciones conjuntivas y alternativas
 
 ART. 1852.- El que se ha obligado a diversas cosas o hechos conjuntamente, debe dar todas las primeras y prestar todos los segundos.
@@ -6280,8 +6364,6 @@ ART. 1872.- Haya habido o no culpa en la pérdida de la cosa por parte del deudo
 ART. 1873.- Si la cosa se pierde o el hecho deja de prestarse por culpa del acreedor, se tiene por cumplida la obligación.
 
 ART. 1874.- La falta de prestación del hecho se regirá por lo dispuesto en los artículos 1,918 y 1,919.
-
-## TITULO SEGUNDO. Modalidades de las obligaciones
 
 ### CAPITULO IV. De las obligaciones mancomunadas
 
@@ -6509,6 +6591,8 @@ ART. 1947.- El deudor sustituto puede oponer al acreedor las excepciones que se 
 
 ART. 1948.- Cuando se declara nula la sustitución de deudor, la antigua deuda renace con todos sus accesorios, pero con la reserva de derechos que pertenecen a tercero de buena fe.
 
+## TITULO TERCERO. De la transmisión de las obligaciones
+
 ### CAPITULO III. De la subrogación
 
 ART. 1949.- La subrogación se verifica por ministerio de ley y sin necesidad de declaración alguna de los interesados:
@@ -6526,8 +6610,6 @@ ART. 1950.- Cuando la deuda fuere pagada por el deudor con dinero que un tercero
 ART. 1951.- No habrá subrogación parcial en deudas de solución indivisible.
 
 ART. 1952.- El pago de los subrogados en diversas porciones del mismo crédito, cuando no basten los bienes del deudor para cubrirlos todos, se hará a prorrata.
-
-## TITULO TERCERO. De la transmisión de las obligaciones
 
 ### CAPITULO I. Del pago
 
@@ -6625,6 +6707,12 @@ ART. 1994.- Si el ofrecimiento y la consignación se han hecho legalmente, todos
 
 Incumplimiento de las obligaciones
 
+## TITULO CUARTO. Efecto de las obligaciones
+
+I.- Efectos de las obligaciones entre las partes
+
+Cumplimiento de las obligaciones
+
 ### CAPITULO I. Consecuencias del incumplimiento de las obligaciones
 
 ART. 1995.- El que estuviere obligado a prestar un hecho y dejare de prestarlo o no lo prestare conforme a lo convenido, será responsable de los daños y perjuicios en los términos siguientes:
@@ -6670,12 +6758,6 @@ ART. 2008.- La responsabilidad civil puede ser regulada por convenio de las part
 Si la prestación consistiere en el pago de cierta cantidad de dinero, los daños y perjuicios que resulten de la falta del cumplimiento no podrá exceder del interés legal, salvo convenio en contrario.
 
 ART. 2009.- El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código de Procedimientos Civiles.
-
-## TITULO CUARTO. Efecto de las obligaciones
-
-I.- Efectos de las obligaciones entre las partes
-
-Cumplimiento de las obligaciones
 
 ### CAPITULO II. De la evicción y saneamiento
 
@@ -6915,6 +6997,8 @@ ART. 2098.- La confusión que se verifica en la persona del acreedor o deudor so
 
 ART. 2099.- Mientras se hace la partición de una herencia, no hay confusión, cuando el deudor hereda al acreedor o éste a aquél.
 
+## TITULO QUINTO. Extinción de las obligaciones
+
 ### CAPITULO III. De la remisión de la deuda
 
 ART. 2100.- Cualquiera puede renunciar a su derecho y remitir, en todo o en parte, las prestaciones que le son debidas, excepto en aquellos casos en que la ley lo prohibe.
@@ -6924,8 +7008,6 @@ ART. 2101.- La condonación de la deuda principal extinguirá las obligaciones a
 ART. 2102.- Habiendo varios fiadores solidarios, el perdón que fuere concedido solamente a alguno de ellos, en la parte relativa a su responsabilidad, no aprovecha a los otros.
 
 ART. 2103.- La devolución de la prenda es presunción de la remisión del derecho a la misma prenda, si el acreedor no prueba lo contrario.
-
-## TITULO QUINTO. Extinción de las obligaciones
 
 ### CAPITULO IV. De la novación
 
@@ -7009,38 +7091,6 @@ ART. 2163.- La venta de cosa o derechos litigiosos no está prohibida; pero el v
 
 ART. 2164.- Tratándose de la venta de determinados bienes, como los pertenecientes a incapacitados, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la ley para que la venta sea perfecta.
 
-### CAPITULO III. De los que pueden vender y comprar
-
-ART. 2165.- Los extranjeros y las personas morales no pueden comprar bienes raíces, sino sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y en sus leyes reglamentarias.
-
-ART. 2166.- (DEROGADO, P.O. 14 DE JUNIO DE 1975)
-
-ART. 2167.- Los magistrados, los jueces, el ministerio público, los defensores oficiales, los abogados, los procuradores y los peritos no pueden comprar los bienes que sean objeto de los juicios en que intervengan. Tampoco podrán ser cesionarios de los derechos que se tengan sobre los citados bienes.
-
-ART. 2168.- Se exceptúa de lo dispuesto en el artículo anterior, la venta de cesión de acciones hereditarias, cuando sean coherederas las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
-
-ART. 2169.- Los hijos sujetos a patria potestad solamente pueden vender (sic) sus padres los bienes comprendidos en la primera clase de las mencionadas en el artículo 428.
-
-ART. 2170.- Los propietarios de cosa indivisa no pueden vender su parte respectiva a extraños, sino cumpliendo lo dispuesto en los artículos 969 y 970.
-
-ART. 2171.- No pueden comprar los bienes de cuya venta o administración se hallen encargados:
-
-I.- Los tutores y curadores;
-
-II.- Los mandatarios;
-
-III.- Los ejecutores testamentarios y los que fueren nombrados en caso de intestado;
-
-IV.- Los interventores nombrados por el testador o por los herederos;
-
-V.- Los representantes, administradores e inventores en caso de ausencia;
-
-VI.- Los empleados públicos.
-
-ART. 2172.- Los peritos y los corredores no pueden comprar los bienes en cuya venta han intervenido.
-
-ART. 2173.- Las compras hechas en contravención a lo dispuesto en este capítulo, serán nulas, ya se hayan hecho directamente o por interpósita persona.
-
 ## TITULO SEXTO. De la inexistencia y de la nulidad
 
 ART. 2115.- El acto jurídico inexistente por la falta de consentimiento o de objeto que pueda ser materia de él, no producirá efecto alguno legal. No es susceptible de valor por confirmación, ni por prescripción; su inexistencia puede invocarse por todo interesado.
@@ -7098,6 +7148,38 @@ ART. 2137.- Para que la promesa de contratar sea válida debe constar por escrit
 ART. 2138.- Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 
 ## TITULO SEGUNDO. De la compra-venta
+
+### CAPITULO III. De los que pueden vender y comprar
+
+ART. 2165.- Los extranjeros y las personas morales no pueden comprar bienes raíces, sino sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y en sus leyes reglamentarias.
+
+ART. 2166.- (DEROGADO, P.O. 14 DE JUNIO DE 1975)
+
+ART. 2167.- Los magistrados, los jueces, el ministerio público, los defensores oficiales, los abogados, los procuradores y los peritos no pueden comprar los bienes que sean objeto de los juicios en que intervengan. Tampoco podrán ser cesionarios de los derechos que se tengan sobre los citados bienes.
+
+ART. 2168.- Se exceptúa de lo dispuesto en el artículo anterior, la venta de cesión de acciones hereditarias, cuando sean coherederas las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
+
+ART. 2169.- Los hijos sujetos a patria potestad solamente pueden vender (sic) sus padres los bienes comprendidos en la primera clase de las mencionadas en el artículo 428.
+
+ART. 2170.- Los propietarios de cosa indivisa no pueden vender su parte respectiva a extraños, sino cumpliendo lo dispuesto en los artículos 969 y 970.
+
+ART. 2171.- No pueden comprar los bienes de cuya venta o administración se hallen encargados:
+
+I.- Los tutores y curadores;
+
+II.- Los mandatarios;
+
+III.- Los ejecutores testamentarios y los que fueren nombrados en caso de intestado;
+
+IV.- Los interventores nombrados por el testador o por los herederos;
+
+V.- Los representantes, administradores e inventores en caso de ausencia;
+
+VI.- Los empleados públicos.
+
+ART. 2172.- Los peritos y los corredores no pueden comprar los bienes en cuya venta han intervenido.
+
+ART. 2173.- Las compras hechas en contravención a lo dispuesto en este capítulo, serán nulas, ya se hayan hecho directamente o por interpósita persona.
 
 ### CAPITULO IV. De las obligaciones del vendedor
 
@@ -7295,6 +7377,20 @@ ART. 2247.- Los no nacidos pueden adquirir por donación, con tal que hayan esta
 
 ART. 2248.- Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
 
+## TITULO TERCERO. De la permuta
+
+ART. 2217.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2,141.
+
+ART. 2218.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dio, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
+
+ART. 2219.- El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dio, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+
+ART. 2220.- Lo dispuesto en el artículo anterior no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
+
+ART. 2221.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se oponga a los artículos anteriores.
+
+## TITULO CUARTO. De las donaciones
+
 ### CAPITULO III. De la revocación y reducción de las donaciones
 
 ART. 2249.- Las donaciones legalmente hechas por una persona que al tiempo de otorgarlas no tenía hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijos que han nacido con todas las condiciones que sobre viabilidad exige el artículo 337.
@@ -7363,20 +7459,6 @@ ART. 2272.- Cuando la reducción no exceda de la mitad del valor del inmueble, e
 
 ART. 2273.- Revocada o reducida una donación por inoficiosa, el donatario sólo responderá de los frutos desde que fuere demandado.
 
-## TITULO TERCERO. De la permuta
-
-ART. 2217.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2,141.
-
-ART. 2218.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dio, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
-
-ART. 2219.- El permutante que sufra evicción de la cosa que recibió en cambio, podrá reivindicar la que dio, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
-
-ART. 2220.- Lo dispuesto en el artículo anterior no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
-
-ART. 2221.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se oponga a los artículos anteriores.
-
-## TITULO CUARTO. De las donaciones
-
 ### CAPITULO I. Del mutuo simple
 
 ART. 2274.- El mutuo es un contrato por el cual el mutuante se obliga a transferir la propiedad de una suma de dinero o de otras cosas fungibles al mutuario, quien se obliga a devolver otro tanto de la misma especie y calidad.
@@ -7419,6 +7501,8 @@ ART. 2286.- Si se ha convenido un interés más alto que el legal, el deudor, de
 
 ART. 2287.- Las partes no pueden, bajo pena de nulidad, convenir de antemano que los intereses se capitalicen y que produzcan intereses.
 
+## TITULO QUINTO. Del mutuo
+
 ### CAPITULO I. Disposiciones generales
 
 ART. 2288.- Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente, una, a conceder el uso o goce temporal de una cosa, y la otra, a pagar por ese uso o goce un precio cierto.
@@ -7452,8 +7536,6 @@ ART. 2299.- Si durante la vigencia del contrato de arrendamiento, por cualquier 
 ART. 2300.- Si la transmisión de la propiedad se hiciere por causa de utilidad pública, el contrato se rescindirá; pero el arrendador y el arrendatario deberán ser indemnizados por el expropiador, conforme a lo que establezca la ley respectiva.
 
 ART. 2301.- Los arrendamientos de bienes nacionales, municipales o de establecimientos públicos, estarán sujetos a las disposiciones del derecho administrativo, y en lo que no lo estuvieren, a las disposiciones de este título.
-
-## TITULO QUINTO. Del mutuo
 
 ### CAPITULO II. De los derechos y obligaciones del arrendador
 
@@ -7500,6 +7582,8 @@ II.- Si se trata de mejoras útiles y por culpa del arrendador se rescindiese el
 III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autorizó al arrendatario para que hiciera mejoras y antes de que transcurra el tiempo necesario para que el arrendatario quede compensado con el uso de las mejoras de los gastos que hizo, da el arrendador por concluido el arrendamiento.
 
 ART. 2314.- Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
+
+## TITULO SEXTO. Del arrendamiento
 
 ### CAPITULO III. De los derechos y obligaciones del arrendatario
 
@@ -7560,8 +7644,6 @@ ART. 2336.- Si la misma cosa se ha dado en arrendamiento separadamente a dos o m
 Si el arrendamiento debe ser inscrito en el Registro, sólo vale al inscrito.
 
 ART. 2337.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho, si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 2,195 y 2,196.
-
-## TITULO SEXTO. Del arrendamiento
 
 ### CAPITULO IV. Del arrendamiento de fincas urbanas
 
@@ -7781,6 +7863,48 @@ ART. 2434.- Secuestro judicial es el que se constituye por decreto del juez.
 
 ART. 2435.- El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles y, en su defecto, por las mismas del secuestro convencional.
 
+## TITULO SEPTIMO. Del comodato
+
+ART. 2387.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
+
+ART. 2388.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
+
+ART. 2389.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
+
+ART. 2390.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
+
+ART. 2391.- El comodatario adquiere el uso, pero no los frutos y accesorios de la cosa prestada.
+
+ART. 2392.- El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
+
+ART. 2393.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
+
+ART. 2394.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
+
+ART. 2395.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantizarla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
+
+ART. 2396.- Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
+
+ART. 2397.- Si la cosa se deteriora por el sólo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
+
+ART. 2398.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
+
+ART. 2399.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
+
+ART. 2400.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
+
+ART. 2401.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
+
+ART. 2402.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
+
+ART. 2403.- Si durante el préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de eso al comodante, éste tendrá obligación de reembolsarlo.
+
+ART. 2404.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comodante es responsable de éstos, si conocía los defectos y no dio aviso oportuno al comodatario.
+
+ART. 2405.- El comodato termina por la muerte del comodatario.
+
+## TITULO OCTAVO. Del depósito y del secuestro
+
 ### CAPITULO I. Disposiciones generales
 
 ART. 2436.- El mandato es un contrato por el que el mandatario se obliga a ejecutar por cuenta del mandante los actos jurídicos que éste le encarga.
@@ -7825,13 +7949,17 @@ ART. 2445.- El mandato debe otorgarse en escritura pública o en carta poder fir
 
 I.- Cuando sea general;
 
-II.- Cuando el interés del negocio para que se confiere llegue a tres mil pesos o exceda de esa cantidad;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+
+II.- Cuando el interés del negocio para el que se confiere sea superior al equivalente a mil veces el salario mínimo general vigente en el Estado de Colima al momento de otorgarse; o
 
 III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
-ART. 2446.- El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda de doscientos pesos y no llegue a tres mil.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
-Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de doscientos pesos.
+ART. 2446.- El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para el que se confiere no exceda de mil veces el salario mínimo general vigente en el Estado de Colima al momento de otorgarse.
+
+Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de cincuenta veces el salario mínimo general vigente en el Estado de Colima al momento de otorgarse.
 
 ART. 2447.- La omisión de los requisitos establecidos en los artículos que preceden, anula el mandato, y sólo deja subsistentes las obligaciones contraídas entre el tercero que haya procedido de buena fe y el mandatario, como si éste hubiere obrado en negocio propio.
 
@@ -7846,48 +7974,6 @@ ART. 2451.- Cuando el mandatario obra en su propio nombre, el mandante no tiene 
 En este caso, el mandatario es el obligado directamente en favor de la persona con quien ha contratado, como si el asunto fuere personal suyo. Exceptúase el caso en que se trate de cosas propias del mandante.
 
 Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre mandante y mandatario.
-
-## TITULO SEPTIMO. Del comodato
-
-ART. 2387.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
-
-ART. 2388.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
-
-ART. 2389.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
-
-ART. 2390.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
-
-ART. 2391.- El comodatario adquiere el uso, pero no los frutos y accesorios de la cosa prestada.
-
-ART. 2392.- El comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
-
-ART. 2393.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
-
-ART. 2394.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aun cuando aquélla sobrevenga por caso fortuito.
-
-ART. 2395.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantizarla empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
-
-ART. 2396.- Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
-
-ART. 2397.- Si la cosa se deteriora por el sólo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
-
-ART. 2398.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
-
-ART. 2399.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
-
-ART. 2400.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
-
-ART. 2401.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
-
-ART. 2402.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
-
-ART. 2403.- Si durante el préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de eso al comodante, éste tendrá obligación de reembolsarlo.
-
-ART. 2404.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comodante es responsable de éstos, si conocía los defectos y no dio aviso oportuno al comodatario.
-
-ART. 2405.- El comodato termina por la muerte del comodatario.
-
-## TITULO OCTAVO. Del depósito y del secuestro
 
 ### CAPITULO II. De las obligaciones del mandatario con respecto al mandante
 
@@ -7921,6 +8007,8 @@ ART. 2465.- Si se le designó la persona del substituto, no podrá nombrar a otr
 
 ART. 2466.- El sustituto tiene para con el mandante los mismos derechos y obligaciones que el mandatario.
 
+## TITULO NOVENO. Del mandato
+
 ### CAPITULO III. De las obligaciones del mandante con relación al mandatario
 
 ART. 2467.- El mandante debe anticipar al mandatario, si éste lo pide, las cantidades necesarias para la ejecución del mandato.
@@ -7934,8 +8022,6 @@ ART. 2468.- Debe también el mandante indemnizar al mandatario de todos los dañ
 ART. 2469.- El mandatario podrá retener en prenda las cosas que son objeto del mandato hasta que el mandante haga la indemnización y reembolso de que tratan los dos artículos anteriores.
 
 ART. 2470.- Si muchas personas hubiesen nombrado a un solo mandatario para algún negocio común, le quedan obligadas solidariamente para todos los efectos del mandato.
-
-## TITULO NOVENO. Del mandato
 
 ### CAPITULO IV. De las obligaciones y derechos del mandante y del mandatario con relación a tercero
 
@@ -8079,6 +8165,8 @@ ART. 2504.- Siempre que un profesor no pueda continuar prestando sus servicios, 
 
 ART. 2505.- El que preste servicios profesionales sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en caso de delito.
 
+## TITULO DECIMO. Del contrato de prestación de servicios
+
 ### CAPITULO III. Del contrato de obras a precio alzado
 
 ART. 2506.- El contenido de obras a precio alzado, cuando el empresario dirige la obra y pone los materiales, se sujetará a las reglas siguientes.
@@ -8140,8 +8228,6 @@ ART. 2533.- Cuando se conviniere en que la obra deba hacerse a satisfacción del
 ART. 2534.- El constructor de cualquiera obra mueble tiene derecho de retenerla mientras no se le pague, y su crédito será cubierto preferentemente con el precio de dicha obra.
 
 ART. 2535.- Los empresarios constructores son responsables, por la inobservancia de las disposiciones municipales o de policía y por todo daño que causen a los vecinos.
-
-## TITULO DECIMO. Del contrato de prestación de servicios
 
 ### CAPITULO IV. De los porteadores y alquiladores
 
@@ -9203,6 +9289,8 @@ II.- Si los acreedores hubieren hecho novación de la deuda o de cualquier otro 
 
 ART. 2881.- Los acreedores que obtuvieren la separación de bienes no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
+## TITULO PRIMERO. De la concurrencia y prelación de los créditos
+
 ### CAPITULO III. De algunos acreedores preferentes sobre determinados bienes
 
 ART. 2882.- Con el valor de los bienes que se mencionan serán pagados preferentemente:
@@ -9226,8 +9314,6 @@ VIII.- El crédito que provenga del precio de los bienes vendidos y no pagados, 
 Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmovilizados;
 
 IX.- Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
-
-## TITULO PRIMERO. De la concurrencia y prelación de los créditos
 
 ### CAPITULO IV. Acreedores de primera clase
 
@@ -9491,6 +9577,10 @@ ART. 2930.- Podrá también cancelarse total o parcialmente la hipoteca que gara
 
 REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 1980)
 
+## TITULO SEGUNDO. Del Registro Público
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 1980)</small>
+
 ### CAPITULO III. Del registro de la propiedad inmueble y de los títulos inscribibles y anotables
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
@@ -9671,10 +9761,6 @@ ART. 2951.- La nulidad de los asientos de que se trata en el artículo anterior 
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-## TITULO SEGUNDO. Del Registro Público
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 1980)</small>
-
 ### CAPITULO IV. Del registro de operaciones sobre bienes muebles
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
@@ -9840,3 +9926,7 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de
 P.O. 14 DE ENERO DE 1989.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 9 DE JULIO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
