@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2000-07-11"
+last_updated: "2000-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1013,17 +1013,21 @@ El Síndico no puede desistirse, transigir o comprometerse en árbitros, ni hace
 
 ### CAPITULO IV. De la Secretaría
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 77.
 
 Para el despacho de los asuntos y para auxiliar al Presidente en sus funciones, cada Ayuntamiento contará con un Secretario, mismo que deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano potosino en pleno uso de sus derechos civiles y políticos;
 
-II. Contar con título profesional de abogado o licenciado en derecho;
+II. Haber concluido la educación preparatoria o su equivalente, tratándose de municipios que tengan menos de cincuenta mil habitantes;
 
-III. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes del Ayuntamiento, y
+III. Contar con título profesional de nivel licenciatura, en municipios cuya población sea mayor de cincuenta mil habitantes;
 
-IV. No haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión.
+IV. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes del Ayuntamiento, y
+
+V. No haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión.
 
 ###### ARTICULO 78.
 
@@ -1081,9 +1085,13 @@ El Tesorero y todos los empleados que manejen fondos y valores estarán obligado
 
 Para ser Tesorero del Ayuntamiento se requiere:
 
-I. Haber concluido la educación preparatoria o su equivalente, tratándose de municipios que tengan hasta cuarenta mil habitantes;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
-II. Contar con título profesional de Contador Público, Licenciado en Administración o en Administración Pública, en municipios cuya población sea mayor de cuarenta mil habitantes, y
+I. Haber concluido la educación preparatoria o su equivalente, tratándose de municipios que tengan menos de cincuenta mil habitantes;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+II. Contar con título profesional a nivel licenciatura, en municipios cuya población sea mayor de cincuenta mil habitantes, y
 
 III. No haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad.
 
@@ -1972,3 +1980,11 @@ El Secretario General de Gobierno
 LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2000.
+
+PRIMERO. El presente Decreto entrará en vigor el día 26 de septiembre de 2000.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
