@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1940-06-11"
+last_updated: "1940-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 1940.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE NOVIEMBRE DE 1940.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -1932,6 +1932,10 @@ ARTICULO 366
 Siempre que el juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó, y para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor del menor.
 
 Al efecto, el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él, sin orden judicial.
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 1940)</small>
+
+Cuando el que enajene sea el padre o la madre del menor, el producto de la venta puede quedar en poder de dichos ascendientes, a su solicitud, mientras se impone o se invierte en la adquisición de otro inmueble.
 
 ARTICULO 367
 
@@ -14916,3 +14920,7 @@ El presente Decreto comenzará a surtir sus efectos a partir de su publicación 
 G.O. 11 DE JUNIO DE 1940.
 
 La presente Ley comenzará a surtir sus efectos a partir de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 14 DE NOVIEMBRE DE 1940.
+
+Unico.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en la "Gaceta Oficial" del Estado.
