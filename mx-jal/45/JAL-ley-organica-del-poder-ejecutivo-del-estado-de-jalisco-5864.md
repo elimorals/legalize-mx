@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2000-10-17"
+last_updated: "2000-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -327,11 +327,15 @@ I. Presentar ante el Congreso del Estado las iniciativas de Ley del Ejecutivo;
 
 II. Refrendar con su firma todas las Leyes y Decretos que expida el Congreso del Estado, así como los Reglamentos y Decretos del Ejecutivo;
 
-III. Publicar las Leyes y Decretos que expida el Congreso del Estado, y los Reglamentos y Decretos del Ejecutivo. Tratándose de las Leyes, sin que sea condición de validez de las mismas, el Congreso dispondrá cuáles deberán de publicarse, además, en uno de los diarios de mayor circulación en el Estado;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+III. Publicar y divulgar las leyes y decretos que expida el Congreso del Estado, y los reglamentos y decretos que expida el Ejecutivo, en los términos de las leyes aplicables;
 
 IV. Editar la revista oficial "Jalisco";
 
-V. Administrar y publicar el periódico oficial El Estado de Jalisco;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2000)</small>
+
+V. Administrar y publicar el Periódico Oficial El Estado de Jalisco, así como el sitio del mismo en Internet;
 
 VI. Vigilar el cumplimiento de los preceptos constitucionales por parte de las autoridades estatales y municipales, especialmente, en lo que se refiere a las garantías individuales;
 
@@ -1628,3 +1632,13 @@ PRIMERO. Se derogan todas aquellas disposiciones que se opongan a lo establecido
 SEGUNDO. Comuníquese el presente decreto para su debido cumplimiento a las Entidades Gubernamentales y en su caso, privadas así como a la Contaduría Mayor de Hacienda del Congreso del Estado, para los efectos a que haya lugar.
 
 TERCERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE DICIEMBRE DE 2000.
+
+PRIMERO. La Ley para la Divulgación de la Legislación del Estado entrará en vigor al día siguiente de la entrada en vigor de la reforma constitucional propuesta.
+
+SEGUNDO. El Programa Permanente para la Divulgación de la Legislación del Estado deberá ser presentado para su aprobación al Gobernador del Estado, dentro de los cuarenta y cinco días siguientes a la entrada en vigor de la Ley para la Divulgación de la Legislación del Estado.
+
+TERCERO. Las disposiciones contenidas en los artículos Primero y Segundo del presente decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
+
+CUARTO. Envíese copia certificada del presente proyecto del dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que conste las discusiones que hubiera provocado, para que con fundamento en lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
