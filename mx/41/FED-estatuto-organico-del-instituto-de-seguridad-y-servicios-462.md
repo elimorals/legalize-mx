@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1995-08-30"
+last_updated: "1997-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 1997.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -78,7 +78,9 @@ I.- "Instituto", el Instituto de Seguridad y Servicios Sociales de los Trabajado
 
 II.- "Ley", la Ley del Instituto;
 
-III.- "Federación", la Federación de Sindicatos de Trabajadores al Servicio del Estado;
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+III.- "Federación", el Comité Ejecutivo Nacional de la Federación de Sindicatos de Trabajadores al Servicio del Estado;
 
 IV.- "Junta", la Junta Directiva del Instituto;
 
@@ -92,75 +94,57 @@ VII.- "Comisión de Vigilancia", la Comisión de Vigilancia del Instituto; y
 
 VIII.- "Comités", los Comités Técnicos de Apoyo de la Junta Directiva.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+
 ###### ARTICULO 3o.
 
-Para el estudio, planeación, atención y ejecución de los asuntos y actos que le competen, el Instituto contará con:
+Para el estudio, planeación, atención y ejecución de los asuntos y actos que le competen el Instituto, además de los órganos a que se refiere el artículo 151 de la Ley, contará con:
 
-A).- Organos de Gobierno:
+I. Unidades Administrativas Centrales:
 
-- Junta Directiva.
+A. Subdirección General Médica
 
-- Director General.
+B. Subdirección General de Prestaciones Económicas
 
-- Comisión Ejecutiva del Fondo de la Vivienda.
+C. Subdirección General de Servicios Sociales y Culturales
 
-- Comisión de Vigilancia.
+D. Subdirección General Jurídica
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE AGOSTO DE 1995)</small>
+E. Subdirección General de Administración
 
-B).- Unidades Administrativas:
+F. Subdirección General de Obras y Mantenimiento
 
-- Subdirección General Médica.
+G. Subdirección General de Finanzas
 
-- Subdirección General de Prestaciones Económicas.
+H. Subdirección General de Abastecimientos
 
-- Subdirección General de Protección al Salario.
+I. Contraloría General
 
-- Subdirección General de Servicios Sociales y Culturales.
+J. Coordinación General de Comunicación Social
 
-- Subdirección General Jurídica.
+K. Coordinación General de Delegaciones
 
-- Subdirección General de Administración.
+L. Coordinación General de Atención al Derechohabiente
 
-- Subdirección General de Obras y Mantenimiento.
+II. Unidades administrativas desconcentradas:
 
-- Subdirección General de Finanzas.
+A. Fondo de la Vivienda
 
-- Subdirección General de Abastecimientos.
+B. Delegaciones
 
-- Contraloría General.
+C. Centro Médico Nacional "20 de Noviembre"
 
-- Coordinación General de Comunicación Social.
+D. Hospitales Regionales
 
-- Coordinación General de Delegaciones.
+E. Sistema Integral de Tiendas y Farmacias
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE MAYO DE 1995)</small>
+F. Gerencias Regionales
 
-- Coordinación General de Atención al Derechohabiente
+G. Escuela de Dietética y Nutrición
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
+H. Sistema de Agencias Turísticas TURISSSTE
 
-C) Organos Desconcentrados
-
-- Fondo de la Vivienda
-
-- Delegaciones
-
-- Centro Médico Nacional "20 de Noviembre"
-
-- Hospitales Regionales
-
-> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
-
-- Sistema Integral de Tiendas y Farmacias
-
-> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
-
-- Gerencias Regionales
-
-> <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 1995)</small>
-
-D) Comisión Interna de Administración y Programación
+III. Comisión Interna de Administración y Programación.
 
 ### CAPITULO SEGUNDO. DE LA JUNTA DIRECTIVA
 
@@ -434,11 +418,11 @@ XIII.- Las facultades que mediante acuerdos y disposiciones generales le delegue
 
 XIV.- Las demás que señalen otras disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+
 ###### ARTICULO 22.
 
-El Director General será auxiliado por los Subdirectores Generales, el Vocal Ejecutivo de la Comisión Ejecutiva, el Contralor General y demás servidores públicos de primer nivel que a propuesta del mismo nombre la Junta.
-
-Asimismo, se auxiliará de los Coordinadores Generales, Delegados y demás servidores públicos que designe.
+El Director General será auxiliado por los Subdirectores Generales, Coordinadores Generales, el Vocal Ejecutivo de la Comisión Ejecutiva, Delegados, Directores de unidades administrativas desconcentradas y demás servidores públicos de primer nivel que, a propuesta del mismo, nombre la Junta.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1994)</small>
 
@@ -670,9 +654,11 @@ VI.- Las demás que les fijen las leyes o los reglamentos y aquellas que expresa
 
 DE LOS SUBDIRECTORES GENERALES, CONTRALOR GENERAL Y COORDINADORES GENERALES.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ABRIL DE 1997)</small>
+
 ###### ARTICULO 43.
 
-Son atribuciones de los Subdirectores Generales, Contralor General y Coordinadores Generales;
+Son atribuciones de los Subdirectores Generales, Coordinadores Generales y titulares de unidades administrativas desconcentradas:
 
 I.- Planear, programar, organizar, dirigir, controlar y evaluar las funciones encomendadas al área a su cargo;
 
@@ -736,9 +722,9 @@ VIII.- Las demás que señalen otras disposiciones aplicables.
 
 La Subdirección General de Prestaciones Económicas tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1997)</small>
 
-I.- Planear, organizar, normar, coordinar, controlar y evaluar el sistema integral de retiro; las actividades en materia de seguridad, higiene y medicina del trabajo; el otorgamiento y recuperación de créditos a corto y mediano plazo; y, la afiliación y vigencia de derechos;
+I.- Planear, organizar, normar, coordinar, controlar y evaluar las actividades en materia del sistema integral de retiro; de seguridad, higiene y medicina en el trabajo; del otorgamiento y recuperación de préstamos a corto y mediano plazos; de la afiliación y vigencia de derechos de los trabajadores; y del sistema de ahorro para el retiro de los trabajadores al servicio del Estado, en el ámbito de su competencia;
 
 II.- Conceder, negar, suspender, modificar o revocar las jubilaciones y pensiones en los términos de la Ley y resolver las inconformidades que se presenten en relación con las mismas;
 
@@ -778,9 +764,27 @@ XVIII.- Establecer y operar un mecanismo de afiliación de las dependencias, ent
 
 XIX.- Establecer y operar el mecanismo de vigencia de derechos para los asegurados y sus familiares beneficiarios, demandantes de los seguros, servicios y prestaciones;
 
-XX.- (DEROGADA, D.O.F. 31 DE MAYO DE 1993)
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1997)</small>
 
-XXI.- Las demás que señalen otras disposiciones aplicables.
+XX.- Planear, organizar, dirigir y controlar las acciones para el debido cumplimiento de las disposiciones legales y administrativas relacionadas con el Sistema de Ahorro para el Retiro, en el ámbito de su competencia, así como para identificar las aportaciones a favor de los trabajadores al servicio del Estado;
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+XXI.- Representar al Instituto ante las dependencias y entidades de la Administración Pública Federal y demás instituciones públicas o privadas, en las relaciones interdisciplinarias en materia del Sistema de Ahorro para el Retiro, así como promover las bases de simplificación administrativa en los trámites y operaciones derivadas de dicha prestación;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+XXII.- Formular, verificar y, en su caso, proporcionar los informes relativos al manejo y operación del Sistema de Ahorro para el Retiro, así como establecer los procedimientos de inspección y vigilancia necesarios para asegurar el correcto y oportuno empleo de dicha información;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+XXIII.- Definir el proceso de supervisión que realicen las autoridades competentes respecto de las actividades relacionadas con el Sistema de Ahorro para el Retiro, en el ámbito de competencia del Instituto, con base en la información recabada por el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+XXIV.- Proponer e instrumentar, en su caso, las políticas y lineamientos para autorizar los retiros que efectúen los trabajadores derechohabientes o sus beneficiarios, de fondos de las subcuentas que integran la cuenta individual del Sistema de Ahorro para el Retiro, y establecer los mecanismos de conciliación del importe de las autorizaciones otorgadas; y
+
+XXV.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 47.
 
@@ -792,9 +796,9 @@ XXI.- Las demás que señalen otras disposiciones aplicables.
 
 La Subdirección General de Servicios Sociales y Culturales tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1997)</small>
 
-I.- Planear, organizar, normar, coordinar y controlar la operación de sistemas de alimentación económica en el trabajo, de estancias para el bienestar y desarrollo infantil, de servicios funerarios, turísticos, culturales, deportivos y recreativos para los derechohabientes del Instituto, así como de los talleres de terapia ocupacional para pensionados y jubilados;
+I.- Planear, organizar, normar, coordinar y controlar la operación de sistemas de alimentación económica en el trabajo, de estancias para el bienestar y desarrollo infantil, de centros turísticos, de servicios funerarios, culturales, deportivos y recreativos para los derechohabientes del Instituto, así como de los talleres de terapia ocupacional para pensionados y jubilados;
 
 II.- Estudiar, proponer y aplicar las normas que se aprueben para el funcionamiento de los servicios sociales y culturales que proporciona el Instituto a sus derechohabientes;
 
@@ -982,21 +986,23 @@ ARTICULO 51 C.- (DEROGADO, D.O.F. 19 DE NOVIEMBRE DE 1992)
 
 #### SECCION TERCERA. DE LA CONTRALORIA GENERAL
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+
 ###### ARTICULO 52.
 
 La Contraloría General tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar y coordinar el Sistema de Control y Evaluación del Instituto;
+I.- Realizar las acciones necesarias para apoyar la función directiva del Instituto, así como promover el mejoramiento de la gestión pública, conforme a las normas y lineamientos que expida la Secretaría de Contraloría y Desarrollo Administrativo;
 
-II.- Vigilar el cumplimiento de las normas de control y fiscalización;
+II.- Examinar y evaluar los sistemas, mecanismos y procedimientos de control del Instituto, conforme a las normas y lineamientos que expida la Secretaría de Contraloría y Desarrollo Administrativo;
 
-III.- Realizar por sí, a solicitud de la Junta, del Director General o de la Secretaría de la Contraloría General de la Federación, las auditorías y evaluaciones que se requieran;
+III.- Vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables;
 
-IV.- Inspeccionar, vigilar y comprobar que todas las áreas del Instituto cumplan con las obligaciones derivadas de las normas y disposiciones aplicables;
+IV.- Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos del Instituto, así como investigar y, en su caso, determinar la responsabilidad administrativa correspondiente e imponer las sanciones administrativas, económicas, disciplinarias y demás aplicables, en los términos previstos en la ley de la materia;
 
-V.- Investigar las irregularidades en que incurran los servidores públicos que laboren en el Instituto, así como aplicar, previo acuerdo del Director General, las sanciones administrativas que correspondan en los términos que señalen las leyes y, en su caso, en coordinación con el área respectiva, hacer las denuncias correspondientes. Para los efectos anteriores, se deberá dar la intervención que en derecho corresponda al Sindicato del Instituto;
+V.- Dictar las resoluciones en los recursos de revocación que interpongan los servidores públicos del Instituto respecto de la imposición de sanciones administrativas;
 
-VI.- Atender y coordinar las sesiones del Comité Técnico de Quejas Médicas apoyando a este Cuerpo Colegiado en la Substanciación y presentación de dictámenes, a través del Secretariado Técnico; y
+VI.- Realizar la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando al titular de la Secretaría de Contraloría y Desarrollo Administrativo, y
 
 VII.- Las demás que señalen otras disposiciones aplicables.
 
@@ -1108,7 +1114,15 @@ VI.- Coordinar con el área de capacitación del Instituto, el diseño, desarrol
 
 VII.- Proponer al Director General las políticas, estrategias y líneas de acción que permitan optimar la atención que se proporciona al derechohabiente, y mejorar la imagen institucional.
 
-VIII.- Las demás que señalen otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+VIII.- Fungir como enlace ante la Comisión Nacional de Arbitraje Médico, para la atención y seguimiento de los asuntos relacionados con el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+IX.- Presidir las sesiones del Comité Técnico para la Dictaminación de Solicitudes de Reembolso de Gastos Médicos, así como promover la adecuada atención y resolución de sus asuntos, conforme a los dictámenes médico y jurídico que al efecto elaboren las unidades administrativas competentes, y
+
+X.- Las demás que señalen otras disposiciones aplicables.
 
 ### CAPITULO SEPTIMO. DE LA DESCONCENTRACION ADMINISTRATIVA
 
@@ -1300,13 +1314,163 @@ V. Coadyuvar en la realización de estudios de mercado, comportamiento de precio
 
 VI. Las demás que señalen otras disposiciones aplicables, y las que le asigne el Director del Sistema.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+#### SECCION QUINTA. DE LA ESCUELA DE DIETETICA Y NUTRICION
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+ARTICULO 59 F.- La Escuela de Dietética y Nutrición, como unidad administrativa desconcentrada del Instituto, tiene por objeto planear, normar, controlar y llevar a cabo las actividades relacionadas con la formación, capacitación y actualización de recursos humanos para la salud en materia de alimentación, dietética y nutrición, conforme a los lineamientos establecidos por las autoridades sanitarias y educativas competentes, para lo cual contará con autonomía técnica y operativa, así como con los recursos humanos, materiales y financieros que determine el presupuesto, que le permitan realizar sus funciones con eficiencia, oportunidad y calidad.
+
+La integración y funcionamiento de la Escuela de Dietética y Nutrición, y de su Consejo Directivo, se establecerán en los correspondientes manuales de organización y de procedimientos que al efecto expida el Director General.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+ARTICULO 59 G.- Para su administración y funcionamiento, la Escuela de Dietética y Nutrición contará con un Consejo Directivo presidido por el Subdirector General Médico, el cual tendrá las siguientes funciones:
+
+I.- Aprobar las políticas generales y las prioridades a que estará sujeto el desarrollo de sus funciones, y vigilar que las mismas sean acordes con las políticas, prioridades y programas institucionales, y guarden la debida congruencia con el Plan Nacional de Desarrollo;
+
+II.- Aprobar el anteproyecto del Programa Operativo Anual, que especifique las actividades de capacitación, formación y actualización a desarrollar, las unidades responsables de su cumplimiento, los montos presupuestales a ejercer y las fuentes de financiamiento, así como evaluar sus avances;
+
+III.- Sancionar el anteproyecto anual de presupuesto y sus modificaciones, los cuales serán sometidos a la autorización de la Junta dentro del presupuesto del Instituto;
+
+IV.- Verificar y asegurar que exista la debida congruencia entre los recursos financieros y los programas autorizados, de forma tal que garantice la transparencia de los primeros y la debida ejecución de los segundos;
+
+V.- Proponer a la Junta, para su aprobación, la estructura orgánica de la Escuela de Dietética y Nutrición y, en su caso, las modificaciones correspondientes;
+
+VI.- Conocer los informes que rinda el Director de la Escuela de Dietética y Nutrición, y evaluar los resultados en materia de formación, capacitación y actualización de recursos humanos para la salud;
+
+VII.- Proponer estrategias tendientes al mejoramiento y solución de aspectos de orden técnico, administrativo y operacional, así como coadyuvar a su desarrollo;
+
+VIII.- Proponer programas de educación en alimentación, nutrición y educación para la salud. Para la instrumentación de dichos programas, deberá obtener previamente la aprobación de las autoridades sanitarias y educativas competentes;
+
+IX.- Aprobar la inscripción, reinscripción y el otorgamiento de becas a los alumnos de la Escuela de Dietética y Nutrición;
+
+X.- Proponer la integración de normas para la planeación, organización, ejecución y control de las actividades de capacitación, formación y actualización de los recursos humanos que laboran en instituciones públicas y privadas del Sector Salud;
+
+XI.- Aprobar los mecanismos de coordinación, intercambio y colaboración institucionales, así como con los sectores públicos, social y privado, en aspectos académicos, de investigación y asistenciales relacionados con su objeto;
+
+XII.- Aprobar los programas para la asesoría y orientación a diferentes grupos de población en materia de alimentación, nutrición y educación para la salud;
+
+XIII.- Proponer al Director General los nombramientos de los Subdirectores de la Escuela de Dietética y Nutrición;
+
+XIV.- Aprobar la instalación de grupos de trabajo o comisiones, para apoyar las funciones del Consejo, y
+
+XV.- Las demás que señalen otras disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+ARTICULO 59 H.- El Director de la Escuela de Dietética y Nutrición, tendrá las siguientes funciones:
+
+I.- Planear, programar, organizar, dirigir y normar las funciones encomendadas a la Escuela de Dietética y Nutrición;
+
+II.- Elaborar el anteproyecto del programa operativo anual y del presupuesto de egresos desconcentrado de la Escuela de Dietética y Nutrición, así como integrar el presupuesto de ingresos y financiamiento de las actividades programadas, y someterlos a la consideración del Consejo Directivo;
+
+III.- Ejecutar los acuerdos del Consejo Directivo e informar trimestralmente sobre su avance y cumplimiento, conforme a las normas y políticas generales del Instituto;
+
+IV.- Proponer al Consejo Directivo las políticas, normas y procedimientos de la Escuela de Dietética y Nutrición, de acuerdo a los objetivos asignados, así como promover su debida actualización;
+
+V.- Proponer al Consejo Directivo los programas de enseñanza, capacitación, investigación y divulgación en las áreas de alimentación, nutrición y educación para la salud;
+
+VI.- Elaborar, revisar y autorizar, previa aprobación de las autoridades sanitarias y educativas competentes, la documentación oficial correspondiente a la certificación de estudios que imparte la Escuela de Dietética y Nutrición;
+
+VII.- Proponer al Consejo Directivo, los procedimientos y lineamientos para la aprobación de las solicitudes de inscripción y reinscripción de alumnos, así como para el otorgamiento de becas;
+
+VIII.- Administrar en forma eficiente los recursos humanos, materiales y financieros de la Escuela de Dietética y Nutrición para el logro de los objetivos y metas aprobados por el Consejo Directivo;
+
+IX.- Supervisar y evaluar los programas aprobados por el Consejo Directivo, a fin de detectar desviaciones en su cumplimiento y proponer oportunamente los proyectos de mejoramiento y solución de aspectos de orden técnico, administrativo y operacional de la Escuela de Dietética y Nutrición;
+
+X.- Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto de la Escuela de Dietética y Nutrición, de acuerdo a los lineamientos generales que al efecto apruebe el Consejo Directivo, y con apego a las disposiciones legales aplicables, y las políticas institucionales;
+
+XI.- Promover la compilación e intercambio de información bibliográfica, documental o de otro tipo, que permita profundizar el estudio de la alimentación, nutrición y educación para la salud;
+
+XII.- Proponer al Consejo Directivo el nombramiento de los Subdirectores de la Escuela de Dietética y Nutrición, así como la plantilla de personal docente y administrativo, y
+
+XIII.- Las demás que señalen otras disposiciones aplicables.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+#### SECCION SEXTA. DEL SISTEMA DE AGENCIAS TURISTICAS TURISSSTE
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+ARTICULO 59 I.- El Sistema de Agencias Turísticas TURISSSTE, como unidad administrativa desconcentrada del Instituto, tiene por objeto planear, normar, controlar y llevar a cabo las actividades que promueva a través de sus agencias turísticas, conforme a los lineamientos establecidos por las autoridades competentes, para lo cual contará con autonomía técnica y operativa, así como con los recursos humanos, materiales y financieros que determine el presupuesto, que le permitan realizar sus funciones con eficiencia, oportunidad y calidad.
+
+Para su administración y funcionamiento, el Sistema de Agencias Turísticas TURISSSTE contará con un Consejo Directivo presidido por el Director General.
+
+La integración y funcionamiento del Sistema de Agencias Turísticas TURISSSTE, y de su Consejo Directivo, se establecerán en los correspondientes manuales de organización y de procedimientos que al efecto expida el Director General.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+ARTICULO 59 J.- El Consejo Directivo del Sistema de Agencias Turísticas TURISSSTE, tendrá las siguientes funciones:
+
+I.- Aprobar las políticas generales y las prioridades a que estará sujeto el desarrollo de sus funciones, y vigilar que las mismas sean acordes con las políticas, prioridades y programas institucionales, y guarden la debida congruencia con el Plan Nacional de Desarrollo;
+
+II.- Aprobar las normas y lineamientos para la operación de los programas en materia turística que ofrece el Instituto;
+
+III.- Aprobar los mecanismos de coordinación y colaboración institucionales, así como con los sectores públicos, social y privado, para el cumplimiento de su objeto;
+
+IV.- Aprobar el anteproyecto del Programa Operativo Anual, que especifique los volúmenes de servicios que pretende otorgar, los ingresos que se obtendrán, así como las unidades responsables de su cumplimiento, y evaluar sus avances;
+
+V.- Definir los objetivos a los que deberá sujetarse en cuanto a productividad, finanzas, desarrollo tecnológico y administración en general;
+
+VI.- Aprobar las políticas de comercialización, inversión y administración, que permitan obtener mejores condiciones económicas y financieras para la prestación de servicios turísticos;
+
+VII.- Aprobar los lineamientos generales para la suscripción de los convenios y contratos necesarios para cumplimiento del objeto del Sistema de Agencias Turísticas TURISSSTE, de conformidad con las disposiciones legales aplicables y las políticas institucionales;
+
+VIII.- Aprobar la instalación de Agencias Turísticas, así como las normas y lineamientos para su operación;
+
+IX.- Sancionar el anteproyecto anual de presupuesto y sus modificaciones, los cuales serán sometidos a la autorización de la Junta dentro del presupuesto del Instituto;
+
+X.- Verificar y asegurar que exista la debida congruencia entre los recursos financieros y los programas autorizados, de forma tal que garantice la transparencia de los primeros y la debida ejecución de los segundos;
+
+XI.- Proponer estrategias tendientes al mejoramiento y solución de aspectos de orden técnico, administrativo y operacional, así como coadyuvar a su instrumentación;
+
+XII.- Conocer los informes que rinda el Director del Sistema de Agencias Turísticas TURISSSTE, y evaluar los resultados en materia de prestación de servicios turísticos a los derechohabientes del Instituto;
+
+XIII.- Proponer a la Junta, para su aprobación, la estructura orgánica del Sistema de Agencias Turísticas TURISSSTE y, en su caso, las modificaciones correspondientes;
+
+XIV.- Aprobar los nombramientos de los Subdirectores del Sistema;
+
+XV.- Aprobar la instalación de grupos de trabajo o comisiones, para apoyar las funciones del Consejo, y
+
+XVI.- Las demás que señalen otras disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+
+ARTICULO 59 K.- El Director del Sistema de Agencias Turísticas TURISSSTE, tendrá las siguientes funciones:
+
+I.- Planear, programar, organizar, dirigir y normar las funciones encomendadas al Sistema de Agencias Turísticas TURISSSTE;
+
+II.- Elaborar el anteproyecto del programa operativo anual y del presupuesto desconcentrado del Sistema, así como integrar los de las agencias turísticas, y someterlos a la consideración del Consejo Directivo;
+
+III.- Ejecutar los acuerdos del Consejo Directivo e informar sobre su cumplimiento, conforme a las normas y políticas generales del Instituto;
+
+IV.- Realizar los estudios e investigaciones necesarios para proponer al Consejo Directivo los proyectos de mejoramiento del Sistema de Agencias Turísticas TURISSSTE;
+
+V.- Elaborar los programas anuales de servicios turísticos, así como de los ingresos que obtendrá el Sistema durante el ejercicio fiscal de que se trate;
+
+VI.- Difundir los servicios turísticos que proporciona el Instituto;
+
+VII.- Proponer al Consejo Directivo el establecimiento de Agencias TURISSSTE, con base en los estudios de factibilidad correspondientes;
+
+VIII.- Proponer el nombramiento de los Subdirectores, así como nombrar a los demás empleados del Sistema;
+
+IX.- Formular, proponer y ejecutar el programa de desconcentración administrativa del Sistema, que permita optimar el acceso de los derechohabientes a los servicios turísticos que proporciona;
+
+X.- Coordinar la operación, control y desarrollo de las agencias turísticas, conforme a las políticas, normas y lineamientos institucionales;
+
+XI.- Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del Sistema de Agencias Turísticas TURISSSTE, de acuerdo a los lineamientos generales que al efecto apruebe el Consejo Directivo, y con apego a las disposiciones legales aplicables, y las políticas institucionales, y
+
+XII.- Las demás que señalen otras disposiciones aplicables.
+
 ### CAPITULO OCTAVO. DE LA COMISION INTERNA DE ADMINISTRACION Y PROGRAMACION
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1997)</small>
 
 ###### ARTICULO 60.
 
-La Comisión Interna de Administración y Programación del Instituto se integrará por el Director General, quien la presidirá, y por el Secretario de la Junta, los Subdirectores Generales, el Vocal Ejecutivo de la Comisión Ejecutiva, el Contralor General y los Coordinadores Generales.
-
-El Director General designará al Secretario Técnico de dicha Comisión.
+La Comisión Interna de Administración y Programación del Instituto se integrará por el Director General, quien la presidirá, y por el Secretario de la Junta, los Subdirectores Generales, los Coordinadores Generales, el Vocal Ejecutivo de la Comisión Ejecutiva, y los titulares de las unidades administrativas desconcentradas que al efecto determine la propia Comisión. El Director General designará al Secretario Técnico de la Comisión.
 
 ###### ARTICULO 61.
 
@@ -1348,9 +1512,11 @@ Por cada Vocal propietario de la Comisión Ejecutiva se nombrará un suplente qu
 
 Por cada miembro de la Comisión de Vigilancia se nombrará un suplente que actuará en caso de faltas temporales del titular.
 
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1997)</small>
+
 ###### ARTICULO 67.
 
-Los Subdirectores Generales, Contralor General, Coordinadores Generales y Vocal Ejecutivo, serán suplidos en sus faltas temporales por el servidor público del Instituto que designe el Director General.
+Los Subdirectores Generales, Coordinadores Generales, Vocal Ejecutivo, Delegados Estatales y Regionales, Director del Sistema Integral de Tiendas y Farmacias, Director de la Escuela de Dietética y Nutrición, Director del Sistema de Agencias Turísticas TURISSSTE, y el Director del Centro Médico Nacional "20 de Noviembre", serán suplidos en sus faltas temporales por el servidor público del Instituto que designe el Director General.
 
 ## TRANSITORIOS
 
@@ -1453,3 +1619,27 @@ SEGUNDO.- El presente Acuerdo entrará en vigor, a los 30 días siguientes al de
 TERCERO.- Los recursos humanos, materiales y financieros, actualmente asignados a la Subdirección General de Protección al Salario, pasarán, a partir de la fecha de entrada en vigor del presente Acuerdo, a la unidad administrativa desconcentrada Sistema Integral de Tiendas y Farmacias.
 
 CUARTO.- En un plazo de 90 días a partir de la fecha de publicación del presente Acuerdo, deberán expedirse los manuales de organización y de procedimientos correspondientes; y dentro de este mismo plazo, quedar constituido el Consejo Directivo a que se refiere el artículo 59 C.
+
+D.O.F. 28 DE ABRIL DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Acuerdo en el Diario Oficial de la Federación y, en su oportunidad, inscríbase en el Registro Público de Organismos Descentralizados.
+
+###### ARTICULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, excepto las reformas relativas al Sistema de Agencias Turísticas TURISSSTE cuya vigencia iniciará a partir del 1o. de septiembre de 1997.
+
+Previamente al inicio de operaciones de la Escuela de Dietética y Nutrición y del Sistema de Agencias Turísticas TURISSSTE como unidades administrativas desconcentradas, el Instituto deberá obtener la aprobación de su estructura orgánica y ocupacional ante la Junta y las Secretarías de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo.
+
+###### ARTICULO TERCERO.
+
+A partir de la fecha de publicación del presente Acuerdo y hasta el 31 de agosto de 1997, la unidad administrativa desconcentrada denominada Sistema de Agencias Turísticas TURISSSTE recibirá paulatinamente tanto los recursos humanos adscritos, como los materiales y financieros asignados, a la Subdirección de Servicios Turísticos de la Subdirección General de Servicios Sociales y Culturales.
+
+Para tal efecto, la Subdirección de Servicios Turísticos deberá elaborar un inventario de los recursos humanos, materiales y financieros asignados, así como una relación de los asuntos y trámites que deberán transferirse al Sistema de Agencias Turísticas TURISSSTE.
+
+Una vez concluido el proceso de transferencia, la Subdirección General de Servicios Sociales y Culturales dejará de ejercer las funciones relativas a la administración y funcionamiento de las agencias turísticas con que actualmente cuenta, y el Director del Sistema de Agencias Turísticas TURISSSTE asumirá las racultades (sic) a que se refiere el artículo 59 K, del presente Estatuto.
+
+###### ARTICULO CUARTO.
+
+Los derechos de los trabajadores de base adscritos a la Subdirección General de Servicios Sociales y Culturales, no sufrirán por este Acuerdo modificación alguna, respetándose en todos sus términos.
