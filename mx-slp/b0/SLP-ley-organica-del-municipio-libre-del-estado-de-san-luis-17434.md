@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2003-12-20"
+last_updated: "2004-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1533,7 +1533,9 @@ No se hará pago alguno que no esté previsto en el presupuesto anual de egresos
 
 Las omisiones o excesos de las autoridades municipales en el manejo de la Hacienda Municipal, se sancionarán en los términos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
-## TITULO SEPTIMO. DE LA PLANEACION, PRESUPUESTO Y GASTO PUBLICO MUNICIPAL
+> <small>(REFORMADA SU DENOMINACION POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+## TITULO SEPTIMO. DE LA PLANEACION
 
 ### CAPITULO IV. De la Contabilidad Municipal
 
@@ -1545,27 +1547,29 @@ La vigencia del Plan no excederá del período constitucional que le corresponde
 
 En los meses de febrero y marzo del año en que tomen posesión, los ayuntamientos convocarán a foros de consulta popular y, tomando en consideración sus resultados, propondrán a través del Comité de Planeación del Desarrollo Estatal, los objetivos y prioridades municipales que deban incorporarse al Plan Estatal de Desarrollo. En lo aplicable, los ayuntamientos deberán sujetarse a lo dispuesto por la Ley de Planeación del Estado de San Luis Potosí.
 
+> <small>(DEROGADO POR EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ### CAPITULO I. De las Modalidades en su Prestación
 
 ###### ARTICULO 122.
 
-El gasto público municipal comprende las erogaciones por concepto de gasto corriente, gasto social e inversión pública; así como los pagos de pasivos o deuda pública que realicen el Ayuntamiento y los órganos u organismos paramunicipales autorizados por el Ayuntamiento.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 123.
 
-La programación del gasto público se basará en los objetivos, estrategias y prioridades que determinen el Plan Municipal de Desarrollo, así como los programas que de él deriven y en su caso los Planes Regionales de Desarrollo que le competan.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 124.
 
-Las disposiciones relativas a la programación, presupuestación, control y evaluación del gasto público municipal, así como su operación, estarán a cargo del Ayuntamiento o en su caso, de quien él mismo nombre o autorice conforme a la ley.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 125.
 
-Los ayuntamientos sólo podrán concertar créditos en los términos de la Ley de Deuda Pública Municipal y, en su caso, con la aprobación previa del Congreso del Estado.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 126.
 
-A fin de que el Congreso del Estado pueda analizar sobre la concertación de empréstitos, los ayuntamientos solicitantes harán llegar los elementos de juicio que procedan, en particular sobre las tasas de interés, condiciones de los créditos, plazo de amortización y garantías solicitadas.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 127.
 
@@ -1573,93 +1577,63 @@ La aplicación de recursos federales o estatales transferidos al Ayuntamiento se
 
 ###### ARTICULO 128.
 
-La Contraloría Municipal, la Secretaría, la Tesorería o en su caso, la Oficialía Mayor, estarán obligadas a elaborar y mantener al día los inventarios, registros, padrones, estados financieros y documentación relativa.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 129.
 
-Los ayuntamientos elaborarán y aprobarán sus presupuestos de egresos a más tardar el día 30 de diciembre del año anterior al de su ejercicio.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
-Los presupuestos anuales de egresos comprenderán las previsiones de gasto público que habrán de realizar, coincidiendo en suma con los ingresos. Se presentarán para la aprobación del Ayuntamiento con los siguientes datos:
-
-I. Objetivos del programa anual, metas parciales y responsables de la ejecución, así como la evaluación financiera de cada programa;
-
-II. Erogaciones por nómina, prestaciones sociales de los trabajadores y servidores públicos, y estimaciones por servicios personales;
-
-III. Ingresos y egresos del ejercicio fiscal inmediato anterior;
-
-IV. Evaluación del ejercicio fiscal anterior en cuanto a ejecución de los programas de la administración municipal y cumplimiento de los objetivos, así como de las tendencias de comportamiento a futuro;
-
-V. Informes y datos estadísticos que se estiman convenientes para la mejor determinación de la política hacendaria y del programa de administración municipal;
-
-VI. Previsiones de egresos en relación con cada ramo para el financiamiento de las actividades oficiales, funciones, obras y servicios públicos en el siguiente ejercicio fiscal, que se clasificarán conforme a su naturaleza de acuerdo con las siguientes bases:
-
-a) Como grupos fundamentales de autorización se consideran los capítulos siguientes:
-
-1.- Gastos de administración;
-
-2.- Construcciones y prestación de servicios públicos;
-
-3.- Adquisiciones;
-
-4.- Inversiones;
-
-5.- Cancelaciones de pasivo, y
-
-6.- Erogaciones especiales.
-
-b) Los capítulos respectivos se dividirán en conceptos de naturaleza semejante y éstos a su vez, en partidas que representen las autorizaciones orgánicas del presupuesto, y
-
-VII. La demás información necesaria que sea requerida por el Ayuntamiento.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO II. De la Seguridad Pública y Tránsito
 
 ###### ARTICULO 130.
 
-Las tesorerías son los órganos que ejercerán el gasto público municipal, entendido éste como el manejo equilibrado de los fondos municipales en relación con las erogaciones presupuestadas.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 131.
 
-Los ayuntamientos están facultados para autorizar traspasos de los recursos excedentes previstos en los presupuestos de ingresos, a otros programas autorizados en los presupuestos de egresos, siempre y cuando haya una justificación financiera y programática.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 132.
 
-El gasto público deberá financiar estrictamente los programas autorizados en los presupuestos de egresos, y se ejercerá con base en las partidas previstas y aprobadas.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 133.
 
-Los ayuntamientos podrán autorizar ampliaciones presupuestales cuando se presenten situaciones imprevistas, siempre y cuando se cuente con los recursos necesarios.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 134.
 
-Los ayuntamientos asignarán los subsidios que les otorguen los gobiernos Estatal y Federal, en los proyectos específicos para los cuales estén destinados.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 135.
 
-En lo relativo a la aplicación de los subsidios a que se refiere el artículo anterior, la Contaduría Mayor de Hacienda del Congreso del Estado, tendrá en todo tiempo la facultad de solicitar al Ayuntamiento la revisión de la documentación comprobatoria
-
-Asimismo, los ayuntamientos proporcionarán a la Contraloría del Estado la información que se les solicite, permitiendo conforme a la ley, la práctica de visitas y auditorías para comprobar la correcta aplicación de los recursos provenientes del erario Estatal y Federal en los términos de las leyes de la materia.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 136.
 
-La Tesorería y la Contraloría Interna Municipal, tendrán facultades para verificar que toda erogación con cargo al presupuesto esté debidamente justificada, pudiendo rechazar cualquier gasto no aprobado.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 137.
 
-Los ayuntamientos deberán informar por escrito en forma mensual al Congreso del Estado, de las erogaciones que hayan efectuado con base en el presupuesto de egresos.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 138.
 
-Los ayuntamientos no podrán efectuar depósitos en garantía, ni garantizar cantidad económica alguna con cargo al presupuesto del ejercicio fiscal en curso, sin autorización del Congreso, salvo los casos expresamente señalados por la ley.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO III. De la Concesión de Bienes y Servicios Públicos Municipales
 
 ###### ARTICULO 139.
 
-El Sistema de Contabilidad Municipal deberá incluir el registro de activos, pasivos, capital o patrimonio, ingresos, costos, gastos, inversiones, asignaciones, obligaciones y la información sobre los ejercicios que correspondan a los programas y partidas de acuerdo a la reglamentación respectiva.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 140.
 
-Para los efectos de la revisión y fiscalización de las cuentas públicas municipales, los ayuntamientos informarán por escrito al Congreso del Estado, durante los primeros quince días de cada ejercicio fiscal o durante el mes siguiente a su implantación o modificación, acerca de las normas o procedimientos y sistemas de control interno que en materia contable implanten.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, P.O. 4 DE DICIEMBRE DE 2004)
 
 ## TITULO OCTAVO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
@@ -2050,3 +2024,17 @@ P.O. 20 DE DICIEMBRE DE 2003.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2004.
+
+PRIMERO. Esta Ley entrará en vigor el uno de enero de 2005.
+
+SEGUNDO. En un plazo de sesenta días a partir de la vigencia de la presente Ley, la Contaduría Mayor de Hacienda deberá proponer los catálogos de cuentas a que se refiere el primer párrafo del artículo 32 de este Ordenamiento.
+
+TERCERO. Dentro de los sesenta días posteriores a la entrada en vigor de este Ordenamiento, los ayuntamientos en su esfera administrativa, elaborarán su Reglamento de Presupuesto, Contabilidad y Gasto Público, tomando en consideración lo dispuesto por esta Ley, así como la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
+
+CUARTO. Con la entrada en vigor de esta Ley, se modifica la denominación del Título Séptimo de la Ley Orgánica del Municipio Libre, para quedar como: "De la Planeación", y se derogan los capítulos II, III y IV del mismo Título, así como los artículos 122, 123, 124, 125, 126, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139 y 140.
+
+Asimismo, se derogan todas las disposiciones que se opongan a lo dispuesto en este Ordenamiento.
+
+QUINTO. Las disposiciones administrativas en uso a la fecha de entrada en vigor de la presente Ley, seguirán teniendo aplicación en lo que no se le opongan.
