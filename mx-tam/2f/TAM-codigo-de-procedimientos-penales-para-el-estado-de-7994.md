@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "1999-06-19"
+last_updated: "2000-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -2193,7 +2193,7 @@ Siempre que un Juzgado Menor inicie diligencias en auxilio de algún Tribunal de
 
 ###### ARTICULO 319.
 
-El Tribunal, con vista del aviso a que se refiere el Artículo anterior, podrá dar a la autoridad que practique las diligencias, las instrucciones que juzgue necesarias; trasladarse al lugar para practicarlas personalmente; o bien pedir su envío desde luego o en su oportunidad, según lo estime conveniente.
+El Tribunal, con vista del aviso a que se refiere el Artículo anterior podrá dar a la autoridad que practique las diligencias, las instrucciones que juzgue necesarias; trasladarse al lugar para practicarlas personalmente; o bien pedir su envío desde luego o en su oportunidad, según lo estime conveniente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -2673,7 +2673,7 @@ El recurso podrá interponerse verbalmente o por escrito, dentro de los tres dí
 
 ###### ARTICULO 388.
 
-Interpuesto el recurso, el juez sin más trámite enviará al Tribunal de segunda instancia, dentro de los tres días siguientes, un certificado autorizado por el Secretario, en el que conste la naturaleza y estado del proceso, el punto sobre el que recaiga el auto apelado insertándose éste a la letra y el que lo haya declarado inapelable, así como las actuaciones que se creyeren convenientes, las que serán adicionadas por las que señalen las partes y en su caso por el promovente.
+Interpuesto el recurso, el juez sin más trámite enviará al Tribunal de segunda instancia, dentro de los tres días siguientes, un certificado autorizado por el Secretario, en el que conste la naturaleza y estado del proceso, el punto sobre el que recaiga el auto apelado insertándose éste a la letra y el que lo haya declarado inapelable, así como las actuaciones que se creyeren convenientes, las que serán adicionadas po las que señalen las partes y en su caso por el promovente.
 
 ###### ARTICULO 389.
 
@@ -2806,6 +2806,10 @@ IV.- En prenda otorgada en acta ante el propio Juez por el inculpado o por terce
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 1999)</small>
 
 V.- En fianza personal bastante que podrá constituirse en el expediente, cuando el monto de la caución no exceda de cincuenta y tres días de salario.
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2000)</small>
+
+VI.- Póliza de Compañía Afianzadora legalmente constituida y autorizada, con domicilio en el Estado o, en su efecto, aún teniéndolo fuera del mismo, se haga constar dentro de la misma póliza, que se somete a la jurisdicción de las leyes del Estado en caso de que se le tenga que hacer efectiva la fianza, por incumplimiento de la obligación.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE JUNIO DE 1999)</small>
 
@@ -4086,3 +4090,9 @@ P.O. 19 DE JUNIO DE 1999.
 ###### ARTICULO SEGUNDO
 
 - Los que hubieren sido sentenciados antes de la entrada en vigor del presente Decreto a cumplir hasta cinco años de prisión y que reúnan los demás requisitos para que opere la substitución, en los términos del mismo, que hubieren compurgado prisión preventiva o definitiva por un lapso continuo o discontinuo de un año, no tendrán que someterse a prisión intermitente, debiendo aplicarse solo las demás penas, medidas y actividades que procedan según el caso, así como reunir las condiciones y garantías respectivas. A los demás sentenciados que hubieren compurgado prisión preventiva o definitiva por menor tiempo, se les aplicará prisión intermitente en cualquiera de sus modalidades según el prudente arbitrio judicial, por el lapso de tiempo que les falte para cumplir el término de un año, si fueron Sentenciados a Prisión por un lapso entre Cuatro y Cinco Años. Los sentenciados que hubieren cumplido mayor tiempo en prisión preventiva o definitiva, el lapso que les falte por compurgar se podrá substituir por las demás penas alternativas, según sea el caso.
+
+P.O. 19 DE ABRIL DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
