@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-justicia-administrativa-para-el-estado-de-sinaloa-6624"
 country: "mx"
 rank: "ley"
 publication_date: "1993-03-26"
-last_updated: "1998-04-08"
+last_updated: "2001-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2001.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 26 de marzo de 1993.
 
@@ -57,9 +57,17 @@ El Tribunal de lo Contencioso Administrativo conocerá y resolverá las controve
 
 ### CAPITULO II. DE LA INTEGRACION Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+
 ###### ARTICULO 4o.
 
-El Tribunal de lo Contencioso Administrativo estará integrado por lo menos con tres Magistrados propietarios y los supernumerarios que determine el Gobernador Constitucional del Estado y ejercerá sus funciones en Pleno y en Salas Unitarias.
+El Tribunal de lo Contencioso Administrativo estará integrado por lo menos, por seis Magistrados Propietarios y los Supernumerarios que determine el Gobernador Constitucional del Estado y ejercerá sus funciones con una Sala Superior y por lo menos con tres Salas Regionales Unitarias.
+
+El número de Magistrados Supernumerarios en ningún caso será mayor al
+
+número de Magistrados Propietarios que integran cada Sala Regional y la
+
+Sala Superior.
 
 ###### ARTICULO 5o.
 
@@ -97,6 +105,10 @@ Las faltas temporales de Magistrados propietarios serán suplidas por los supern
 
 Los Magistrados que hayan concluido su período, permanecerán en el cargo hasta en tanto tomen posesión los designados para substituirlos.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+
+ARTICULO 9o El Tribunal de lo Contencioso Administrativo tendrá un Presidente quien residirá en la capital del Estado.
+
 ###### ARTICULO 9o.
 
 El Tribunal Contencioso Administrativo tendrá un Presidente que residirá en la Capital del Estado, quien podrá integrar la Sala respectiva.
@@ -105,17 +117,17 @@ El Tribunal Contencioso Administrativo tendrá un Presidente que residirá en la
 
 Para el despacho de los asuntos de su competencia, el Tribunal de lo Contencioso Administrativo estará integrado por:
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-I.- Un Magistrado Presidente;
+I.- Tres Magistrados Propietarios de Sala Superior por lo menos, de entre los cuales se elegirá al Presidente del Tribunal, quien a su vez será el Presidente de a Sala Superior;
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-II.- Tres Magistrados Propietarios de Sala, por lo menos; y, los Magistrados Supernumerarios, que designe el Ejecutivo del Estado;
+II. Un Magistrado Propietario por cada Sala Regional, así como los Magistrados Supernumerarios que designe el Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-III.- Un Secretario General de Acuerdos;
+III.- Un Secretario General de Acuerdos, que será también el Secretario de la Sala Superior;
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
 
@@ -189,35 +201,51 @@ VIII. Que se inicien en los términos de la fracción I del presente artículo y
 
 IX.- Que le señalen otras leyes y reglamentos.
 
-### CAPITULO IV. DEL PLENO
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ABRIL DE 2001)</small>
+
+### CAPITULO IV. DE LA SALA SUPERIOR
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 14.
 
-El Tribunal se integrará legalmente en Pleno, con los Magistrados propietarios en funciones, y para sesionar validamente será indispensable la presencia de todos sus miembros.
+La Sala Superior es el Organo Supremo del Tribunal y se integrará por lo menos con tres Magistrados, específicamente nombrados para ello de entre los cuales se elegirá al Presidente del Tribunal. Para sesionar válidamente será indispensable la presencia de todos sus integrantes.
+
+Contará con un Secretado de Acuerdos, Actuarios y personal necesario para el ejercicio de sus funciones.
+
+La Sala Superior tendrá su residencia en la capital del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 15.
 
-Las sesiones del Pleno serán públicas, con excepción de los casos en que la moral, el interés público o la Ley, exijan que sean reservadas, y se llevarán a cabo en forma ordinaria una vez cada quince días y en forma extraordinaria cuando el Presidente lo considere necesario.
+Las sesiones de la Sala Superior serán públicas, con excepción de los casos en que la moral, el interés público o la Ley exijan que sean reservadas. Se llevarán a cabo en forma ordinaria una vez a la semana y en forma extraordinaria cuando el Presidente lo considere necesario.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 16.
 
-El Pleno resolverá los asuntos de su competencia por mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal; correspondiéndole al Presidente, en su caso, voto de calidad.
+La Sala Superior resolverá los asuntos de su competencia por unanimidad o, en su caso, por mayoría de votos de los Magistrados que la integran, quienes no podrán abstenerse de votar a menos que tengan impedimento legal, en los términos del artículo 51 de la presente Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 17.
 
-Al Tribunal de lo Contencioso Administrativo actuando en Pleno le corresponde:
+A la Sala Superior le corresponde:
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-I.- Elegir, de entre los Magistrados Propietarios, al Presidente del Tribunal, quien durará en funciones un año y podrá ser reelecto;
+I.- Elegir, de entre sus Magistrados, al Presidente del Tribunal, quien será también el Presidente de la Sala Superior y durará en funciones un año, pudiendo ser reelecto;
 
-II. Fijar la adscripción de los Magistrados, Secretarios, Actuarios y Asesores Jurídicos;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
+
+II.- Fijar la adscripción de los Magistrados. Secretarios, Actuarios y Asesores Jurídicos de las Salas Regionales;
 
 III. Calificar las excusas, recusaciones e impedimentos de los Magistrados Propietarios y, en su caso, designar a los Magistrados Supernumerarios que deban sustituirlos;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-IV.- Resolver los recursos de Revisión que se presenten en contra de las resoluciones que dicten las Salas, conforme lo dispone el capítulo único del Título Cuarto de esta Ley.
+IV.- Resolver los Recursos de Revisión que se presenten en contra de las Resoluciones que dicten las Salas Regionales, conforme lo dispone el capitulo único del Titulo Cuarto de esta Ley;
 
 V. Establecer la Jurisprudencia del Tribunal;
 
@@ -241,17 +269,23 @@ XII.- Dictar las medidas que exijan la disciplina y buen funcionamiento del Trib
 
 XIII. Las demás atribuciones que le confieren ésta y otras leyes y reglamentos.
 
-### CAPITULO V. DEL PRESIDENTE
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ABRIL DE 2001)</small>
+
+### CAPITULO V. DEL PRESIDENTE DEL TRIBUNAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 18.
 
-El Presidente del Tribunal Contencioso Administrativo tendrá las siguientes atribuciones:
+El Presidente del Tribunal de lo Contencioso Administrativo tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-I.- Presidir las sesiones del Pleno;
+I.- Presidir la Sala Superior y las sesiones de dicho Órgano Supremo;
 
-II. Representar el Tribunal;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
+
+II.- Representar al Tribunal y a la Sala Superior;
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
 
@@ -263,23 +297,31 @@ IV.- Comunicar al Gobernador del Estado las faltas absolutas de los Magistrados,
 
 V. Conceder licencias hasta por quince días a los servidores del Tribunal, con o sin goce de sueldo,
 
-VI. Autorizar conjuntamente con el Secretario General de Acuerdos, las Actas y despachos del Tribunal;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-VII. Realizar los actos y dictar los acuerdos para los que no se requiere la intervención del Pleno;
+VI.- Despachar la correspondencia del Tribunal y de la Sala Superior, así como autorizar conjuntamente con el Secretario General de Acuerdos las Actas y despachos del Tribunal;
+
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
+
+VII.- Realizar los actos y dictar los acuerdos para los que no se requiere la intervención de la Sala Superior;
 
 VIII. Nombrar y remover al jefe de la Unidad de Apoyo Administrativo:
 
 IX. Proponer el proyecto de Presupuesto de Egresos del Tribunal, y ejercer el presupuesto aprobado; y
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-X.- Las demás que le señalen el Pleno, esta ley y otros ordenamientos legales aplicables.
+X.- Las demás que le señalen la Sala Superior, esta Ley y otros ordenamientos legales aplicables.
 
-### CAPITULO VI. DE LAS SALAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE ABRIL DE 2001)</small>
+
+### CAPITULO VI. DE LAS SALAS REGIONALES
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 19.
 
-El Tribunal Contencioso Administrativo, funcionará por lo menos con tres Salas unitarias, las que podrán ser aumentadas cuando así lo considere necesario el Tribunal en Pleno, previa autorización del Ejecutivo del Estado, publicada en el Periódico Oficial "El Estado de Sinaloa", en la que deberá precisarse su competencia territorial.
+El Tribunal de lo Contencioso Administrativo funcionará por lo menos con tres Salas Regionales Unitarias pudiendo ser aumentadas cuando así lo considere necesario la Sala Superior, con autorización del Ejecutivo del Estado y previa publicación en el Periódico Oficial "El Estado de Sinaloa", en la que deberá precisarse su competencia territorial.
 
 ###### ARTICULO 20.
 
@@ -297,15 +339,17 @@ Las Salas serán competentes para conocer y resolver los juicios que establece e
 
 La competencia territorial de las Salas se determina en razón del domicilio del actor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 23.
 
-Son atribuciones de los Magistrados de Sala:
+Son atribuciones de los Magistrados de Sala Regional:
 
 I. Dictar las resoluciones de los asuntos de su competencia,
 
-II. Despachar la correspondencia de las salas;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
+
+II. Despachar la correspondencia de la Sala de su adscripción;
 
 > <small>(ADICIONADA, P.O. 8 DE ABRIL DE 1998)</small>
 
@@ -317,9 +361,9 @@ IV. Rendir anualmente un informe al Presidente del Tribunal respecto de las labo
 
 V.- Imponer las correcciones disciplinarias al personal adscrito a la misma, en los términos del Reglamento Interior; y
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-VI.- Las demás que le señalen el Pleno, esta ley y otros ordenamientos legales aplicables.
+VI.- Las demás que le señalen la Sala Superior, esta ley y otros ordenamientos legales aplicables.
 
 ### CAPITULO VII. DE LOS SECRETARIOS, ACTUARIOS Y JEFE DE LA UNIDAD DE APOYO ADMINISTRATIVO
 
@@ -331,13 +375,13 @@ VI.- Las demás que le señalen el Pleno, esta ley y otros ordenamientos legales
 
 Son atribuciones del Secretario General de Acuerdos:
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-I.- Dar fe pública en los asuntos de su competencia;
+I. Fungir como Secretario de Acuerdos de la Sala Superior y dar fe pública en los asuntos de su competencia, firmando en unión del Presidente, las actas y despachos del Tribunal y de la Sala Superior;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-II.- Acordar con el Presidente lo relativo a las sesiones del Tribunal en Pleno, dando cuenta con los asuntos a tratar en las mismas; tomar la votación de los Magistrados y formular el acta respectiva;
+II. Acordar con el Presidente lo relativo a las sesiones de la Sala Superior, dando cuenta con los asuntos a tratar en las mismas; tomar la votación de los Magistrados y formular el acta respectiva;
 
 III. Levantar las actas correspondientes recabando las firmas de los participantes y autorizarlas con su rúbrica;
 
@@ -351,9 +395,9 @@ VI. Llevar los libros de gobierno, de registro de documentos y de personas que p
 
 VII.- Proyectar autos y resoluciones que le indique el presidente del Tribunal;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-VIII.- Las demás que le encomiende el Pleno, el Presidente, le asignen esta Ley y otros ordenamientos legales aplicables.
+VIII.- Las demás que le encomienden la Sala Superior y el Presidente, las que le señale esta Ley y otros ordenamientos legales aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
 
@@ -379,9 +423,9 @@ IV.- Expedir las certificaciones de las constancias que obren en los expedientes
 
 V.- Llevar los Libros de Gobierno, de registro de documentos y de las personas que puedan ser peritos ante la Sala; y,
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-VI.- Las demás que le encomiende el Magistrado de la Sala, esta Ley y otros ordenamientos legales aplicables.
+VI.- Las demás que le encomiende la Sala Superior, el Magistrado Presidente, el Magistrado de la Sala de su adscripción, los que le señale esta Ley y otros ordenamientos legales aplicables.
 
 ###### ARTICULO 26.
 
@@ -409,9 +453,9 @@ V.- Redactar y autorizar las actas y resoluciones que recaigan en relación a la
 
 VI.- Cuidar que los expedientes sean exactamente foliados al agregarse cada una de las hojas, rubricar todas éstas y poner el sello del Tribunal en el fondo del expediente, de manera que queden selladas las dos caras; y,
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-VII.- Las demás que le encomiende el Pleno, el Magistrado de la Sala, el Secretario de Acuerdos, esta Ley y otros ordenamientos legales aplicables.
+VII.- Las demás que le encomiende la Sala Superior, el Magistrado Presidente, el Magistrado de la Sala de su adscripción, el Secretario de Acuerdos, las que le señalen esta Ley y otros ordenamientos legales aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
 
@@ -429,15 +473,15 @@ II.- Notificar, en tiempo y forma prescritos por esta Ley, las resoluciones reca
 
 III. Practicar las diligencias que les encomiende el magistrado; y,
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-IV.- Las demás que le señalen el Pleno, el Magistrado Presidente, el Magistrado de la Sala de su adscripción, los Secretarios del Tribunal, esta Ley y otros ordenamientos legales aplicables.
+IV.- Las demás que le señalen la Sala Superior, el Magistrado Presidente, el Magistrado de la Sala de su adscripción, así como los Secretarios de la misma, esta Ley y otros ordenamientos legales aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 28.
 
-Las faltas temporales del Secretario General de Acuerdos, serán suplidas por el servidor público del Tribunal que designe el Pleno; las del Secretario de Acuerdos de las Salas, por el Secretario de Estudio y Cuenta de las mismas; y las de éstos, por el Actuario.
+Las faltas temporales del Secretario General de Acuerdos serán suplidas por el servidor público del Tribunal que designe la Sala Superior; las de los Secretarios de Acuerdos de Sala Regional; por el Secretario de Estudio y Cuenta de la misma; y las de éstos, por el Actuario.
 
 ###### ARTICULO 29.
 
@@ -457,11 +501,11 @@ VI. Coordinar la prestación de los demás servicios administrativos necesarios 
 
 VII. Las demás que le señalen la Presidencia y el reglamento Interior del Tribunal.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+
 ###### ARTICULO 30.
 
-El personal del Tribunal tendrá cada año, dos períodos de vacaciones de diez días hábiles cada uno, en las fechas señaladas en el calendario que apruebe el Tribunal en Pleno.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
+El personal del Tribunal tendrá cada año dos periodos de vacaciones de diez días hábiles cada uno, en las fechas señaladas en el calendario que apruebe la Sala Superior, el cual podrá ser o no coincidente con el calendario oficial para el Poder Ejecutivo.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -533,7 +577,9 @@ Las partes interesadas, podrán consultar los expedientes en que se documenta el
 
 Igualmente, las partes podrán obtener la devolución de documentos originales que hayan exhibido en el juicio, previa copia certificada de los mismos que, a su costa, se agreguen a los autos.
 
-Las partes podrán promover en juicio, ya sea directamente ante la Sala del conocimiento o el Pleno; o, por correo certificado con acuse de recibo, cuando radiquen fuera de la residencia de éstos.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+
+Las partes podrán promover en juicio, ya sea directamente ante la Sala Regional del conocimiento o la Sala Superior; o, por correo certificado con acuse de recibo cuando radiquen fuera de la residencia de éstas.
 
 ###### ARTICULO 38.
 
@@ -657,15 +703,17 @@ De todo lo anterior, se dejará constancia en el expediente respectivo.
 
 III.- Por lista de estrados, cuando así lo solicite la parte interesada o cuando sea diversa a las resoluciones que se señalan en la fracción I del presente artículo.
 
-Las partes deberán señalar domicilio en la población en que se ubiquen las Salas o el Pleno, desde su primer comparecencia, con el fin de que en él se realicen las notificaciones personales indicadas en esta ley. En caso de no hacerlo, las notificaciones, aún las personales, se realizarán por lista de estrados.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+
+Las partes deberán señalar domicilio en el lugar de residencia de la Sala Superior o de las Salas Regionales, desde su primera comparecencia, con el fin de que en él se realicen las notificaciones personales indicadas en esta Ley. En caso de no hacerlo, aún las personales se realizarán por lista de estrados.
 
 Cuando los terceros o el demandado en el juicio de lesividad, después de emplazados no se apersonaren a juicio a deducir sus derechos, las subsecuentes notificaciones, aún las personales, se realizarán por lista de estrados, entendiéndose que se les dio oportunidad de señalar domicilio sin que lo hubieren hecho.
 
 La lista de estrados deberá contener el nombre de la persona a quien se notifica, número de expediente, la fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate. El Actuario autorizará con su firma la lista de estrados ubicándola en lugar abierto de las oficinas del Tribunal, asentando en autos la constancia correspondiente.
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2001)</small>
 
-IV.- Por correo certificado con acuse de recibo, cuando se trate de la notificación por oficio a las autoridades que radiquen fuera de la residencia de la Sala de conocimiento del juicio o del Pleno en asuntos de su competencia y cuando el Tribunal lo estime necesario. Los acuses de recibo y las piezas postales devueltas, se agregarán a las actuaciones.
+IV.- Por correo certificado con acuse de recibo, cuando se trate de la notificación por oficio a las autoridades que radiquen fuera de la residencia de la Sala Regional que tenga conocimiento del Juicio o de la Sala Superior en asuntos de su competencia y cuando el Tribunal lo estime necesario. Los acuses de recibo y las piezas postales devueltas se agregarán a las actuaciones;
 
 > <small>(ADICIONADA, P.O. 8 DE ABRIL DE 1998)</small>
 
@@ -695,7 +743,9 @@ IV.- El día hábil siguiente en que el interesado o su representante legal, se 
 
 Las notificaciones y diligencias deberán hacerse en días y horas hábiles.
 
-Son días hábiles, todos los días del año, exceptuando sábados, domingos, períodos de vacaciones y los que señale como inhábiles la Ley de los Trabajadores al Servicio del Estado o cuando lo acuerde el Tribunal en Pleno.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+
+Son días hábiles todos los días del año, exceptuando sábados, domingos, períodos de vacaciones y los que señale como inhábiles la Ley de los Trabajadores al Servicio del Estado o los que acuerde la Sala Superior.
 
 Son horas hábiles las comprendidas entre las 8:30 y las 15:00 horas, exceptuándose los casos de presentación de promociones en la fecha de vencimiento de su término, que podrán recibirse hasta las 19:00 horas indistintamente por los Secretarios del Tribunal en el local de éste, o en el domicilio particular de aquéllos. Si se recibieran después de la hora señalada, no se tendrán como presentadas dentro del término legal.
 
@@ -1081,9 +1131,9 @@ Se promoverán por escrito que se presentará ante el Magistrado que esté conoc
 
 Tratándose de los casos previstos en las fracciones I y II de este artículo, el Magistrado citará a una audiencia que se celebrará diez días después, en la que se oirán los alegatos y se desahogarán las pruebas si las hubiere, resolviendo en la audiencia incidental.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
 
-Tratándose de los casos previstos en las fracciones III y IV de este artículo, el Magistrado formulará dentro del término de cinco días, un informe sobre la materia del incidente, que junto al escrito mediante el cual se promovió y las expresiones de las partes, si las hubiere, deberá enviar al Presidente del Tribunal, a fin de que someta el incidente al conocimiento del Pleno, el cual resolverá sin mayor trámite.
+Tratándose de los casos previstos en las fracciones III y IV de este articulo, el Magistrado formulará dentro del plazo de cinco días, un informe sobre la materia del incidente, que junto al escrito mediante el cual se promovió y las expresiones de las partes, si las hubiere, deberá enviar al Presidente del Tribunal, a fin de que someta el incidente al conocimiento de la Sala Superior, la que resolverá sin mayor trámite.
 
 ###### ARTICULO 77.
 
@@ -1105,21 +1155,19 @@ El incidente de acumulación podrá promoverse o iniciarse de oficio por el Magi
 
 Procederá el incidente de nulidad de notificaciones, cuando éstas no se practiquen de conformidad a lo dispuesto en esta Ley. En este caso, la parte agraviada podrá pedir que se declare su nulidad dentro de los cinco días siguientes a aquél en que conoció el hecho que lo motive. Si se declara la nulidad la Sala ordenará reponer la notificación anulada y las actuaciones posteriores que sean consecuencia de ella.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 79.
 
-Las partes podrán recusar a los Magistrados cuando estén en alguno de los casos de impedimento previstos en el artículo 51 de esta Ley. De la recusación conocerá el Pleno del Tribunal, y podrá promoverse hasta antes de la celebración de la audiencia.
+Las partes podrán recusar a los Magistrados de las Salas Regionales cuando estén en alguno de los casos de impedimento previstos en el artículo 51 de esta Ley. De la recusación conocerá la Sala Superior, y podrá promoverse hasta antes de la celebración de la audiencia.
 
-A falta del informe a que se refiere el último párrafo del artículo 76 de esta Ley, se presumirá cierto el impedimento. Si el Pleno declara fundada la recusación, en la resolución respectiva decidirá que Magistrado deba conocer del asunto.
+A falta del informe a que se refiere el último párrafo del artículo 76 de esta Ley, se presumirá cierto el impedimento. Si la Sala Superior declara fundada la recusación, en la resolución respectiva decidirá que Magistrado deba conocer del asunto.
 
-En caso de que sea el Presidente el objeto de la recusación, éste dará vista a las partes y remitirá al Pleno el escrito respectivo, acompañando el informe correspondiente y, en su caso, las manifestaciones de las partes.
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 80.
 
-Cuando ante una de las Salas Regionales se promueva juicio del que otra deba conocer por razón de territorio, se declarará incompetente de plano y comunicará su resolución a la que en su concepto corresponda ventilar el negocio, enviándole los autos. Recibido el expediente por la Sala requerida, decidirá de plano dentro de las cuarenta y ocho horas siguientes, si acepta o no el conocimiento del asunto. Si la Sala Regional requerida acepta, comunicará su resolución a la requirente, a las partes y al Pleno del Tribunal; en caso contrario, informará de la misma manera, a fin de que el Pleno proceda a la resolución del conflicto, en los términos de la fracción X del artículo 17 de esta ley.
+Cuando ante una de las Salas Regionales se promueva juicio del que otra deba conocer por razón de territorio, se declarará incompetente de plano y comunicará su resolución a la que en su concepto corresponda ventilar el negocio, enviándole los autos. Recibido el expediente por la Sala requerida, decidirá de plano dentro de las cuarenta y ocho horas siguientes, si acepta o no el conocimiento del asunto. Si la Sala Regional requerida acepta, comunicará su resolución a la requirente, a las partes y a la Sala Superior; en caso contrario informará de la misma manera, a fin de que la Sala Superior proceda a la resolución del conflicto, en los términos de la fracción X del artículo 17 de esta Ley.
 
 En caso de que la Sala no decline su competencia de plano, cualquiera de las partes podrá iniciar el incidente respectivo dentro de los cinco días siguientes a aquel en que conoció el hecho que lo motive. Deberá presentarse ante el Magistrado del conocimiento, quien procederá en los términos del último párrafo del artículo 76 de esta Ley.
 
@@ -1437,9 +1485,11 @@ IV. Desvío de poder tratándose de sanciones o actos discrecionales.
 
 Las sentencias que declaren fundada la acción del demandante, dejarán sin efecto el acto impugnado y fijarán el sentido de la resolución que deba dictar la autoridad demandada para ejecutarla.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+
 ###### ARTICULO 99.
 
-Las partes podrán formular excitativa de justicia ante el Pleno del Tribunal, si la sentencia no es dictada dentro del término. Si después de oír al Magistrado instructor, el Pleno considera que la excitativa es fundada, le otorgará el plazo de diez días para que dicte la sentencia.
+Las partes podrán formular excitativa de justicia ante la Sala Superior, si la sentencia no es dictada dentro del plazo al que se refiere el artículo 95 de la presente Ley. Si después de oír al Magistrado Instructor, la Sala Superior considera que la excitativa es fundada, le otorgará el plazo de diez días para que dicte la sentencia.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
 
@@ -1447,9 +1497,11 @@ Las partes podrán formular excitativa de justicia ante el Pleno del Tribunal, s
 
 La aclaración de sentencia tendrá lugar cuando se requiera esclarecer algún concepto o suplir cualquier omisión que contenga, sin que esto implique variar o modificar el sentido en que fue pronunciada la misma. Podrá solicitarla cualquiera de las partes y su trámite será incidental.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2001)</small>
+
 ###### ARTICULO 101.
 
-Causarán ejecutoria las sentencias dictadas por el Tribunal de lo Contencioso Administrativo no impugnadas en los términos de Ley, o que habiéndolo sido, se haya declarado desierto o improcedente el medio de impugnación, o se haya desistido de él quien promueva, así como las consentidas en forma expresa por las partes o sus representantes legítimos. Asimismo, los fallos del Pleno en los recursos de revisión interpuestos por las autoridades demandadas causarán ejecutoria.
+Causarán ejecutoria las sentencias dictadas por el Tribunal de lo Contencioso Administrativo no impugnadas en los términos de Ley, o en que habiéndolo sido, se haya declarado desierto o improcedente el medio de impugnación, o se haya desistido de él quien promueva, así como las consentidas en forma expresa por las partes o sus representantes legitimas.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1994)</small>
 
@@ -1465,11 +1517,15 @@ La declaración de sentencia ejecutoria, se hará de oficio o a petición de par
 
 Si dentro del término a que se refiere el artículo anterior, la autoridad no cumple con la sentencia o su cumplimiento es excesivo o defectuoso; o, habiéndola cumplido, en cualquier tiempo repite el acto declarado inválido o nulo; o bien, no rinde el informe que corresponda, se le aplicará una multa de diez a sesenta veces el salario mínimo general diario vigente en el Estado. Independientemente de esta sanción, la Sala del conocimiento comunicará al superior jerárquico de la autoridad de que se trate, la actitud de desobediencia, a fin de que lo conmine al cumplimiento de la resolución.
 
-Si no obstante los requerimientos y sanciones anteriores, no se da cumplimiento a la sentencia, el Pleno del Tribunal, a petición de parte, podrá decretar la destitución del Servidor Público responsable del incumplimiento, excepto de aquellos que gocen de fuero constitucional.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+
+Si no obstante tos requerimientos y sanciones anteriores, no se da cumplimiento a la sentencia. la Sala Superior, a petición de parte, podrá decretar la destitución del servidor público responsable del incumplimiento, excepto de aquellos que gocen de fuero constitucional.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 104.
 
-Si la autoridad demandada goza de fuero constitucional, el Pleno del Tribunal formulará ante la Legislatura del Estado, de conformidad con lo que establece la Ley de Responsabilidades de los Servidores Públicos, la solicitud de declaración de procedencia correspondiente.
+Si la autoridad demandada goza de fuero constitucional, la Sala Superior formulará ante el Honorable Congreso del Estado, de conformidad con lo que establece la Ley de Responsabilidades de los Servidores Públicos, la solicitud de declaración de procedencia correspondiente.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
 
@@ -1515,6 +1571,8 @@ Las sanciones mencionadas en este capítulo también serán aplicables cuando no
 
 ### CAPITULO UNICO. RESPONSABILIDAD DE LAS PARTES
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+
 ###### ARTICULO 112.
 
 Podrán ser impugnadas por las partes, mediante recurso de revisión:
@@ -1553,27 +1611,33 @@ I.- En los casos de las fracciones I, II, III y VI del artículo que antecede, d
 
 II.- En los casos de las fracciones IV y V del artículo anterior, dentro de los quince días siguientes a la notificación de la resolución recurrida.
 
-De dicho recurso conocerá el Pleno del Tribunal, ante quien debe dirigirse, debiendo presentarse por conducto de la Sala de adscripción del Magistrado que haya dictado la resolución recurrida, quien mandará correr traslado a las partes contrarias con el escrito respectivo, concediéndoles el término de cinco días para que contesten los agravios. Transcurrido dicho término, la Sala lo turnará de inmediato acompañando los documentos necesarios para su resolución y una constancia de la fecha de notificación al recurrente de la resolución impugnada y de los días inhábiles que hubo entre ella y la de presentación del recurso. En caso de que se envíe el expediente original completo, la Sala dejará copia certificada de un duplicado debidamente sellado y cotejado.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
 
-El Magistrado de Sala deberá suspender la tramitación del procedimiento o la ejecución de las sentencias en el expediente de origen, cuando la resolución impugnada sea alguna de las señaladas en las fracciones I, III y V del artículo 112 de esta Ley, o cuando a su juicio sea necesario.
+De dicho recurso conocerá la Sala Superior del Tribunal, a quien debe dirigirse presentándose por conducto de la Sala Regional que haya dictado la resolución recurrida, quien mandará correr traslado a las partes contrarias con el escrito respectivo, concediéndole el plazo de cinco días para que contesten los agravios. Transcurrido dicho plazo, la Sala Regional lo turnará de inmediato acompañando los documentos necesarios para su resolución y una constancia de la fecha de notificación al recurrente de la resolución impugnada y de los días hábiles que hubo entre ella y la de presentación del recurso. En caso de que se envíe el expediente original completo, la Sala Regional dejará copia certificada de un duplicado debidamente sellado y cotejado.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+
+El Magistrado de la Sala Regional que conozca del asunto deberá suspender la tramitación del procedimiento o la ejecución de las sentencias en el expediente de origen, cuando la resolución impugnada sea alguna de las señaladas en las fracciones I, III y V del artículo 112 de esta Ley, o cuando a su juicio sea necesario.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
 
 ###### ARTICULO 114.
 
-El Tribunal en Pleno admitirá el recurso, desechándolo de plano cuando encontrare alguna causa indudable y manifiesta de improcedencia, aplicando en lo conducente lo dispuesto en el artículo 93 de la presente Ley.
+La Sala Superior admitirá el recurso, desechándolo de plano cuando encontrare alguna causa indudable y manifiesta de improcedencia, aplicando en lo conducente lo dispuesto en el articulo 93 de la presente Ley.
 
-En el auto admisorio se designará al Magistrado Ponente, que no podrá ser el que haya dictado la resolución recurrida. De lo anterior, se dará vista a las partes por un término de tres días para que expongan lo que a su derecho convenga.
+En el auto admisorio se designará al Magistrado Ponente. De lo anterior, se dará vista a las partes para que en un plazo de tres días expongan lo que a su derecho convenga.
 
-Transcurrido este término, el Magistrado formulará su proyecto de resolución, sometiéndolo a la votación del Pleno en la siguiente sesión, dictándose la resolución que corresponda por mayoría o unanimidad de votos.
+Transcurrido este plazo, el Magistrado formulará su proyecto de resolución, sometiéndolo a la votación de la Sala Superior en la siguiente sesión, dictándose la resolución que corresponda por mayoría o unanimidad de votos.
 
 ## TITULO QUINTO
 
 ### CAPITULO UNICO. DE LA JURISPRUDENCIA
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+
 ###### ARTICULO 115.
 
-El Magistrado de Sala, dará vista al Pleno con la solicitud de las partes que tengan por objeto hacer del conocimiento de la autoridad competente que, durante el procedimiento o en la ejecución de las resoluciones de los juicios tramitados en las Salas, se haya realizado por las partes, alguna conducta tipificada en el Código Penal como delito o, en los casos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado. El órgano colegiado en Pleno, resolverá la procedencia de la solicitud, a mas tardar en la sesión siguiente a la que ésta fue presentada.
+El Magistrado de Sala Regional, dará vista a la Sala Superior con la solicitud presentada por las partes, cuando ésta tenga por objeto hacer del conocimiento de la autoridad penal competente que durante el procedimiento, o en la ejecución de las resoluciones de los juicios tramitados en las Salas Regionales, se haya realizado por las partes, alguna conducta tipificada como delito en el Código Penal, o en los casos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado. La Sala Superior resolverá sobre la procedencia de la solicitud, a más tardar en la sesión siguiente a la que ésta fue presentada.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
 
@@ -1589,15 +1653,17 @@ II. Presenten documentos o testigos falsos.
 
 ###### ARTICULO 117.
 
-Las sentencias del Tribunal de lo Contencioso Administrativo constituirán jurisprudencia, misma que establecerá el Pleno, siempre que lo resuelto se sustente en cinco ejecutorias en un mismo sentido, sin interrupción de otra en contrario.
+Las sentencias del Tribunal de lo Contencioso Administrativo constituirán jurisprudencia que establecerá la Sala Superior, siempre que lo resuelto se sustente en cinco ejecutorias en un mismo sentido sin interrupción de otra en contrario.
 
 ###### ARTICULO 118.
 
 Será obligatoria para el Tribunal y sólo perderá ese carácter cuando se pronuncie ejecutoria en contrario que deberá ser razonada y referirse a los motivos que se tuvieron para establecerla y los que se tengan para variar el criterio. Podrá haber modificaciones a la jurisprudencia que no impliquen contradicción y para establecerlas se observarán las mismas reglas que para su formación.
 
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2001)</small>
+
 ###### ARTICULO 119.
 
-La jurisprudencia del Tribunal de lo Contencioso Administrativo así como las tesis que constituyan precedente o se considere de importancia su difusión, serán publicadas por el Pleno en el periódico Oficial "El Estado de Sinaloa".
+La jurisprudencia del Tribunal de lo Contencioso Administrativo, así como las tesis que constituyan precedente o se considere de importancia su difusión, serán publicadas durante el mes de enero de cada año, por la Sala Superior, en el Periódico Oficial "El Estado de Sinaloa".
 
 T R A N S I T O R I O S
 
@@ -1644,3 +1710,29 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Los juicios y recursos que se encuentren en trámite, se continuarán conforme al procedimiento vigente durante su iniciación.
+
+P.O. 16 DE ABRIL DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+De los recursos de revisión que se encuentren en trámite ante el Pleno del Tribunal de lo Contencioso Administrativo del Estado seguirá conociendo la Sala Superior, hasta su resolución, debiendo efectuarse la correspondiente redistribución de los asuntos.
+
+###### ARTICULO TERCERO.
+
+Todas las atribuciones del Pleno del Tribunal de lo Contencioso Administrativo a que se refiere la Ley de Justicia Administrativa para el Estado de Sinaloa se entenderán conferidas a la Sala Superior.
+
+###### ARTICULO CUARTO.
+
+La designación de los Magistrados de Sala Superior, deberá hacerse a partir de la vigencia del presente decreto.
+
+###### ARTICULO QUINTO.
+
+La Sala Superior iniciará sus funciones una vez que hayan sido designados los magistrados que se requieran para integrar este Órgano Colegiado, eligiéndose al Presidente para el periodo correspondiente en la primera sesión que se celebre.
+
+###### ARTICULO SEXTO.
+
+La obligación de la Sala Superior de publicar la jurisprudencia durante el mes de enero de cada año, por esta ocasión, deberá realizarse durante el mes de mayo de este año del 2001.
