@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-25-2000-del-pleno-del-consejo-de-la-5182
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-04-26"
-last_updated: "2000-04-26"
+last_updated: "2001-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51828&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-04-12"
 
 ACUERDO GENERAL NUMERO 25/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, EN MATERIA DE PRESENTACION DE LA DECLARACION DE SITUACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DE LA FEDERACION Y DEL TRIBUNAL ELECTORAL, CON EXCEPCION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL ACUERDO GENERAL NUMERO 79/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 26 de abril de 2000.
 
@@ -89,7 +91,7 @@ A) En los órganos jurisdiccionales:
 
 2.- Jueces de Distrito;
 
-3. Secretarios de los Tribunales de Circuito, de los Juzgados de Distrito y del Tribunal Electoral;
+3.- Secretarios de los Tribunales de Circuito, de los Juzgados de Distrito y del Tribunal Electoral;
 
 4.- Actuarios; y,
 
@@ -236,3 +238,15 @@ TERCERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 CUARTO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General Número 25/2000, del Pleno del Consejo de la Judicatura Federal, en Materia de Presentación de la Declaración de Situación Patrimonial de los Servidores Públicos del Poder Judicial de la Federación y del Tribunal Electoral, con excepción de la Suprema Corte de Justicia de la Nación y de la Sala Superior del Tribunal Electoral, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de doce de abril de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas y Sergio Armando Valls Hernández.- México, Distrito Federal, a doce de abril de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- Se abroga el Acuerdo General 25/2000, del Pleno del Consejo de la Judicatura Federal.
+
+SEGUNDO.- Este Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+CUARTO.- Los procedimientos de responsabilidad o los asuntos en que se hubiere determinado la omisión o extemporaneidad en la presentación de la declaración patrimonial de Inicio-Conclusión, por la terminación de un cargo y el inicio de otro dentro de los sesenta días naturales siguientes, que se encuentren en trámite a la fecha de entrada en vigor del presente Acuerdo, deberán ser declarados sin materia.
