@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-mexicano-de-la-propiedad-industrial-15
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-14"
-last_updated: "2002-07-01"
+last_updated: "2004-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15324&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-12-09"
 
 REGLAMENTO DEL INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 2004.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 14 de diciembre de 1999.
 
@@ -65,25 +65,191 @@ b) Los Servicios de Apoyo;
 
 IV. Coordinación de Planeación Estratégica;
 
-V. Direcciones Divisionales de:
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2004)</small>
 
-a) Patentes,
+V. Direcciones Divisionales y sus correspondientes Subdirecciones Divisionales y Coordinaciones Departamentales de:
 
-b) Marcas,
+a) Patentes
 
-c) Protección a la Propiedad Intelectual,
+i) Subdirección Divisional de Procesamiento Administrativo de Patentes;
 
-d) Sistemas y Tecnología de la Información,
+- Coordinación Departamental de Recepción y Control de Documentos;
 
-e) Promoción y Servicios de Información Tecnológica,
+- Coordinación Departamental de Examen de Forma;
 
-f) Relaciones Internacionales,
+- Coordinación Departamental de Titulación y Conservación de Derechos;
 
-g) Oficinas Regionales,
+- Coordinación Departamental de Archivo de Patentes;
 
-h) Administración y
+ii) Subdirección Divisional de Examen de Fondo de Patentes;
 
-i) Asuntos Jurídicos, y
+- Coordinación Departamental de Examen de Fondo Área Química;
+
+- Coordinación Departamental de Examen de Fondo Área Eléctrica;
+
+- Coordinación Departamental de Examen de Fondo Área Biotecnológica;
+
+- Coordinación Departamental de Examen de Fondo Área Mecánica, Modelos de Utilidad y Diseños Industriales;
+
+b) Marcas
+
+i) Subdirección Divisional de Procesamiento Administrativo de Marcas;
+
+- Coordinación Departamental de Recepción y Control de Documentos;
+
+- Coordinación Departamental de Conservación de Derechos;
+
+- Coordinación Departamental de Archivo de Marcas;
+
+ii) Subdirección Divisional de Examen de Signos Distintivos;
+
+- Coordinación Departamental de Examen de Marcas A;
+
+- Coordinación Departamental de Examen de Marcas B;
+
+- Coordinación Departamental de Examen de Marcas C;
+
+- Coordinación Departamental de Examen de Marcas D;
+
+c) Protección a la Propiedad Intelectual
+
+> <small>(F. DE E., D.O.F. 28 DE JULIO DE 2004)</small>
+
+i) Subdirección Divisional de Prevención de la Competencia Desleal;
+
+- Coordinación Departamental de Infracciones y Delitos;
+
+- Coordinación Departamental de Inspección y Vigilancia;
+
+ii) Subdirección Divisional de Procesos de Propiedad Industrial;
+
+- Coordinación Departamental de Nulidades;
+
+- Coordinación Departamental de Cancelación y Caducidad;
+
+iii) Subdirección Divisional de Infracciones Administrativas en Materia de Comercio;
+
+- Coordinación Departamental de Visitas de Inspección de Infracciones en Materia de Comercio;
+
+> <small>(F. DE E., D.O.F. 28 DE JULIO DE 2004)</small>
+
+- Coordinación Departamental de Resoluciones en Infracciones en Materia de Comercio;
+
+iv) Subdirección Divisional de Cumplimiento de Ejecutorias;
+
+- Coordinación Departamental de Cumplimiento de Ejecutorias;
+
+d) Sistemas y Tecnología de la Información
+
+i) Subdirección Divisional de Desarrollo de Sistemas;
+
+- Coordinación Departamental de Desarrollo de Sistemas de Marcas;
+
+- Coordinación Departamental de Desarrollo de Sistemas de Patentes;
+
+> <small>(F. DE E., D.O.F. 28 DE JULIO DE 2004)</small>
+
+- Coordinación Departamental de Desarrollo de Sistemas de la Protección a la Propiedad Intelectual;
+
+ii) Subdirección Divisional de Soporte a Sistemas;
+
+- Coordinación Departamental de Redes y Comunicaciones;
+
+- Coordinación Departamental de Soporte Técnico;
+
+- Coordinación Departamental de Producción de Sistemas;
+
+iii) Subdirección Divisional de Productos de Información Tecnológica;
+
+- Coordinación Departamental de Publicaciones y Estadística;
+
+- Coordinación Departamental de Producción de Discos Compactos;
+
+- Coordinación Departamental de Documentación Electrónica y Microfilm;
+
+e) Promoción y Servicios de Información Tecnológica
+
+i) Subdirección Divisional de Promoción y Difusión de la Propiedad Industrial;
+
+- Coordinación Departamental de Promoción y Apoyo Logístico;
+
+- Coordinación Departamental de Estudios de Difusión de la Propiedad Industrial;
+
+ii) Subdirección Divisional de Servicios de Información Tecnológica;
+
+- Coordinación Departamental del Centro de Información Tecnológica;
+
+- Coordinación Departamental de Acervos Documentales;
+
+f) Relaciones Internacionales
+
+i) Subdirección Divisional de Negociaciones y Legislación Internacional;
+
+- Coordinación Departamental de Negociaciones Internacionales;
+
+ii) Subdirección Divisional de Asuntos Multilaterales y Cooperación Técnica Internacional;
+
+- Coordinación Departamental de Asuntos Multilaterales;
+
+g) Oficinas Regionales
+
+i) Titular de la Oficina Regional Occidente;
+
+- Coordinación Departamental de Marcas y Protección a la Propiedad Industrial;
+
+- Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
+
+ii) Titular de la Oficina Regional Norte;
+
+- Coordinación Departamental de Marcas y Protección a la Propiedad Industrial;
+
+- Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
+
+iii) Titular de la Oficina Regional Sureste;
+
+- Coordinación Departamental de Marcas y Protección a la Propiedad Industrial;
+
+- Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
+
+iv) Titular de la Oficina Regional Bajío;
+
+- Coordinación Departamental de Marcas y Protección a la Propiedad Industrial;
+
+- Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
+
+h) Administración
+
+i) Subdirección Divisional de Recursos Humanos;
+
+- Coordinación Departamental de Selección, Reclutamiento y Capacitación;
+
+- Coordinación Departamental de Nómina;
+
+ii) Subdirección Divisional de Recursos Materiales y Servicios Generales;
+
+- Coordinación Departamental de Adquisiciones;
+
+- Coordinación Departamental de Servicios Generales;
+
+iii) Subdirección Divisional de Finanzas y Presupuesto;
+
+- Coordinación Departamental de Presupuesto;
+
+- Coordinación Departamental de Contabilidad;
+
+- Coordinación Departamental de Tesorería;
+
+i) Asuntos Jurídicos
+
+i) Subdirección Divisional de Representación Legal;
+
+- Coordinación Departamental de Procedimientos Legales;
+
+ii) Subdirección Divisional de Amparos;
+
+- Coordinación Departamental de Amparos;
+
+iii) Subdirección Divisional de Legislación y Consulta;
 
 > <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2002)</small>
 
@@ -93,11 +259,17 @@ VI. Órgano Interno de Control, que se rige conforme al artículo 21 de este Reg
 
 La representación, atención, trámite y resolución de los asuntos que competan al Instituto, corresponden al Director General, quien para la mejor coordinación y desarrollo del trabajo podrá delegar facultades en servidores públicos subalternos, mediante acuerdos que se publicarán en el Diario Oficial de la Federación, sin perjuicio de su ejercicio directo, de conformidad con lo establecido en las disposiciones legales y administrativas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2004)</small>
+
+Además de lo previsto en el párrafo anterior, para el mejor desempeño de las funciones de la entidad, los Directores Generales Adjuntos, Directores Divisionales, Subdirectores Divisionales y Coordinadores Departamentales a que se refiere el artículo 3o. de este Reglamento, ejercerán las facultades que les sean delegadas por el Director General en los términos de las disposiciones aplicables.
+
 La Junta de Gobierno se regirá por el Estatuto que se expida conforme lo dispone la Ley Federal de las Entidades Paraestatales.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
 
 ###### ARTÍCULO 5o.
 
-La adscripción y organización interna de las áreas administrativas del Instituto se establecerán en el Estatuto que apruebe la Junta de Gobierno.
+Sin perjuicio de lo dispuesto por el artículo 3o. de este Reglamento, la adscripción y organización interna de las áreas administrativas del Instituto se establecerán en el Estatuto Orgánico.
 
 ###### ARTÍCULO 6o.
 
@@ -243,7 +415,9 @@ VIII. Archivar, resguardar y custodiar los expedientes de las diversas figuras j
 
 IX. Las demás que le confieran las disposiciones legales aplicables, el Director General o, en su caso, el Director General Adjunto.
 
-Para el ejercicio de la competencia de cada Dirección Divisional, en términos del artículo 4o. del presente Reglamento, el Director General delegará facultades en los Subdirectores Divisionales, Coordinadores Departamentales y demás servidores públicos subalternos adscritos a cada área administrativa, de conformidad con el acuerdo que para tal efecto se expida.
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2004)</small>
+
+Para el ejercicio de la competencia de cada Dirección Divisional, de acuerdo a como se describe y refiere en los artículos 3o. y 4o. del presente Reglamento, el Director General delegará facultades en los Subdirectores Divisionales, Coordinadores Departamentales y demás servidores públicos subalternos adscritos a cada área administrativa, de conformidad con el acuerdo que para tal efecto se expida.
 
 ###### ARTÍCULO 12.
 
@@ -534,5 +708,9 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 1 DE JULIO DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JULIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
