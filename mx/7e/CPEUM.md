@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1978-01-13"
+last_updated: "1978-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1978.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL EL 13 DE ENERO DE 1978.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 1978.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1072,8 +1070,6 @@ XXVI.- Para conceder licencia al Presidente de la República y para constituirse
 
 XXVII.- Para aceptar la renuncia del cargo de Presidente de la República.
 
-(REUBICADA [N. DE E. ANTES FRACCION XXX], D.O.F. 20 DE AGOSTO DE 1928)
-
 XXVIII.- (DEROGADA, D.O.F. 6 DE DICIEMBRE DE 1977)
 
 > <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
@@ -1942,11 +1938,15 @@ Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda 
 
 DEL TRABAJO Y DE LA PREVISION SOCIAL.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
 
 ###### Art. 123.
 
-El Congreso de la Unión, sin contravenir a las bases siguientes deberá expedir leyes sobre el trabajo, las cuales regirán:
+Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto, se promoverán la creación de empleos y la organización social para el trabajo, conforme a la Ley.
+
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
+
+El Congreso de la Unión, sin contravenir a las bases siguientes, deberá expedir leyes sobre el trabajo, las cuales regirán:
 
 > <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
@@ -3151,3 +3151,7 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los conflictos laborales que se hayan suscitado dentro de las ramas o en relación con las materias que se incorporen a la esfera exclusiva de la Federación y que se encuentren en trámite, continuarán siendo atendidos por las autoridades locales del trabajo, hasta la total terminación de los mismos.
+
+D.O.F. 19 DE DICIEMBRE DE 1978.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente del de su publicación en el "Diario Oficial" de la Federación.
