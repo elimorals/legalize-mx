@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2004-11-19"
+last_updated: "2004-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 3 DE MAYO DE 2004.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -129,9 +129,7 @@ Los servidores públicos encargados de la prestación de los servicios, así com
 
 No podrán realizarse convenios ni acuerdo alguno donde se autorice el manejo y administración de los recursos provenientes de los cobros que establece esta Ley, salvo lo previsto en la misma y en los Convenios de Coordinación en materia de Administración de Ingresos Federales, que el Gobierno Federal celebre con las Entidades Federativas.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Las cuotas de los derechos que correspondan a servicios en donde la mayoría de los costos se cubran en moneda extranjera y las de los derechos por el uso o aprovechamiento de bienes del dominio público de la Nación que señale el Congreso de la Unión, se incrementarán o disminuirán semestralmente en los meses de enero y julio, en la proporción en que fluctúe en el periodo el valor de la moneda nacional en relación con la extranjera con la que, en su caso, se cubran dichos costos, considerando el tipo de cambio a la venta, en billete, del antepenúltimo día hábil del semestre inmediato anterior al de su aplicación, que dé a conocer el Banco de México. Dichos servicios son los prestados por oficinas de la Federación en el extranjero y por el tránsito internacional de mercancías de procedencia extranjera que lleguen al territorio nacional con destino al extranjero.
+> <small>(DEROGADO SEPTIMO PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -861,11 +859,13 @@ cuota de $1,101.22 $1,101.00
 
 Los ingresos que se obtengan por el derecho de publicaciones a que se refiere este artículo, se destinarán al Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 19-B.
 
-No se pagará el derecho de publicaciones a que se refiere el artículo anterior, cuando sean ordenadas por los poderes Legislativo, Ejecutivo y Judicial, así como los Organismos Públicos Autónomos cuando obedezcan a actos administrativos de carácter general e interés público, siempre que la publicación del acto en el Diario Oficial de la Federación, sea ordenada con fundamento en las disposiciones jurídicas que regulen la emisión del propio acto.
+No se pagará el derecho de publicaciones a que se refiere el artículo anterior, cuando sean ordenadas por los poderes Legislativo, Ejecutivo y Judicial, así como los Organismos Públicos Autónomos, cuando obedezcan a actos administrativos de carácter general e interés público, siempre que la publicación del acto en el Diario Oficial de la Federación, sea ordenada con fundamento en las disposiciones jurídicas que regulen la emisión del propio acto, o se trate de la publicación de convocatorias públicas abiertas de plazas, que establece la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 Los Poderes Legislativo y Judicial, así como las dependencias y entidades de la Administración Pública Federal, los Organismos Públicos Autónomos y, en su caso, los gobiernos de las entidades federativas, pagarán los derechos correspondientes cuando se trate de publicaciones de convocatorias para licitaciones públicas, edictos y cédulas de notificación, así como de los documentos cuya inserción ordenen en la sección de avisos del Diario Oficial de la Federación o de aquellos que no cumplan las características señaladas en el párrafo anterior.
 
@@ -939,23 +939,7 @@ doblaje de películas, para
 
 exhibición $769.37 $769.00
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-IV.- Por la autorización para
-
-exhibición pública de una
-
-película en salas
-
-cinematográficas o lugares
-
-que hagan sus veces.
-
-Por cada boleto vendido $1.03 $1.00
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Los ingresos que se obtengan por la recaudación del derecho previsto en esta fracción, se destinarán en su totalidad al Instituto Mexicano de Cinematografía para fomentar el desarrollo de la producción cinematográfica nacional.
+IV.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 19-D.
 
@@ -1297,19 +1281,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-I.- Pasaportes ordinarios con
-
-validez no mayor de tres años
-
-a estudiantes, becarios y
-
-trabajadores que presten
-
-sus servicios fuera de la
-
-República Mexicana $162.84 $165.00
+I.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -1363,6 +1335,10 @@ pasaportes oficiales $162.84 $165.00
 
 Los derechos que se obtengan por concepto de las fracciones anteriores se destinarán a la integración del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano, con excepción de los servicios que sean prestados en el territorio nacional.
 
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+Para los efectos de este artículo, las personas mayores de sesenta años, así como los que padezcan cualquier tipo de discapacidad comprobada, pagarán el 50% de las cuotas establecidas en las fracciones I a IV a que se refiere el mismo.
+
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 21.
@@ -1407,25 +1383,15 @@ b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 c).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-d).- Ordinarias en pasaportes
+d).- Ordinarias en pasaportes extranjeros $ 383.77
 
-extranjeros, cuando no exista
+e).- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-convenio o acuerdo unilateral
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-de supresión de visas $383.77 $385.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-e).- Especial en pasaportes
-
-extranjeros con vigencia hasta
-
-por diez años $605.49 $605.00
-
-Los derechos por la expedición de las visas ordinarias o especiales en pasaportes extranjeros a que se refieren los incisos d) y e) de esta fracción, podrán exentarse o reducirse cuando por acuerdo de la Secretaría de Relaciones Exteriores, en consideración a aspectos de reciprocidad internacional o en forma unilateral con el fin de estimular el turismo y los intercambios comerciales o culturales, lo estime conveniente.
+Los derechos por la expedición de las visas ordinarias en pasaportes extranjeros a que se refiere el inciso d) de esta fracción, podrán exentarse cuando por acuerdo de la Secretaría de Relaciones Exteriores, en consideración a aspectos de reciprocidad internacional o en forma unilateral con el fin de estimular el turismo y los intercambios comerciales o culturales, lo estime conveniente.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1465,11 +1431,9 @@ d).- Copia certificada de actas del
 
 registro civil, por cada una $136.41 $135.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-e).- Otros certificados, a petición
-
-de parte, por cada uno $656.66 $655.00
+e).- De los que se expiden a petición de parte, por cada uno $ 656.66
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -1579,7 +1543,9 @@ artículo 22 de esta Ley $136.41 $135.00
 
 Siempre que una escritura notarial contenga diversos contratos o actos, los derechos se fiarán por cada uno de los contratos o actos principales y en un 50% por los accesorios y complementarios.
 
-En los casos en que de conformidad con el artículo 72 de la Ley del Notariado para el Distrito Federal, el Cónsul tenga que poner en las escrituras la anotación de "No pasó", se pagará íntegramente el valor de los derechos; pero si esa escritura se repite ante el mismo Cónsul, por la nueva escritura se pagará únicamente el 50% de los mismos.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+En los casos en que de conformidad con la Ley del Notariado para el Distrito Federal, el Cónsul tenga que poner en las escrituras la anotación de "No pasó", se pagará íntegramente el valor de los derechos; pero si esa escritura se repite ante el mismo Cónsul, por la nueva escritura se pagará únicamente el 50% de los mismos.
 
 > <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2002)</small>
 
@@ -1613,17 +1579,15 @@ II.- Los que soliciten indigentes de nacionalidad mexicana, para su repatriació
 
 III.- Los que soliciten pensionados por el Gobierno de México, para justificar su situación legal en el país en que residan o para comprobar su existencia física ante las autoridades mexicanas que así lo requieran.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-IV.- El registro de nacimientos y el registro de defunciones.
+IV.- El registro de nacimientos y el registro de defunciones, así como las copias certificadas de este último, en casos de protección consular.
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 V.- El visado a los permisos de tránsito y certificado de embalsamamiento de cadáveres.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-VI.- Certificado de turista cinegético.
+VI.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1735,7 +1699,9 @@ fideicomiso a que se refiere el
 
 inciso anterior $3,772.71 $3,775.00
 
-c).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+c).- Por la solicitud extemporánea para la ampliación de la duración de los contratos de fideicomiso, de conformidad con la Ley de Inversión Extranjera $ 4,334.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -1925,6 +1891,12 @@ IV.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
 
 V.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 26-A.
+
+Las cuotas de los derechos señaladas en el presente Capítulo, se ajustarán para su pago a múltiplos de $ 5.00. Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
+
 ### CAPITULO III. De la Secretaría de Hacienda y Crédito Público
 
 #### SECCION PRIMERA. Inspección y Vigilancia
@@ -1985,31 +1957,37 @@ VI. Por la autorización de una sociedad calificadora de valores: $ 177,303.74.
 
 VII. Por el estudio y trámite de la solicitud de autorización para la constitución y funcionamiento de sociedades de inversión de capitales y de objeto limitado: $ 14,228.16.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE MAYO DE 2004)
-
-VIII. Por el estudio y trámite y en su caso autorización para celebrar operaciones con el público, de asesoría, promoción, compra y venta de valores que otorgue la Comisión Nacional Bancaria y de Valores a personas físicas: $ 1,769.33.
+VIII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 (ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE MAYO DE 2004)
 
 IX. Por cualquier certificación que se expida relativa al Registro Nacional de Valores: $ 296.95.
 
-Cuando se paguen derechos por la autorización para la constitución y funcionamiento de una sociedad operadora de sociedades de inversión, de una distribuidora de acciones de sociedades de inversión o de una valuadora de acciones de sociedades de inversión, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+X.- Por el estudio y trámite de la solicitud y, en su caso, autorización para la constitución y operación de los organismos de integración a que se refiere la Ley de Ahorro y Crédito Popular $ 25,000.00
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+XI.- Por el estudio y trámite de la solicitud y, en su caso, autorización para la constitución y operación de las entidades a que se refiere la Ley de Ahorro y Crédito Popular $ 15,000.00
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+Cuando se paguen derechos por la autorización para la constitución y funcionamiento de una sociedad operadora de sociedades de inversión, de una distribuidora de acciones de sociedades de inversión o de una valuadora de acciones de sociedades de inversión, así como por la autorización para la constitución y operación de organismos de integración a que se refiere la Ley de Ahorro y Crédito Popular, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 29-A.
 
 Por el estudio y la tramitación de cualquier solicitud de inscripción de valores en la Sección de Valores o Especial del Registro Nacional de Valores que lleva la Comisión Nacional Bancaria y de Valores y la autorización de oferta pública, se pagarán los derechos correspondientes conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE MAYO DE 2004)
+I.- Solicitud de inscripción o actualización de la misma, en la Sección de Valores o Especial y/o autorización de oferta pública: $ 14,228.16
 
-I.- Solicitud de inscripción inicial o ampliación de la misma, en la Sección de Valores o Especial y/o autorización de oferta pública: $ 14,228.16.
+No se pagarán los derechos a que se refiere esta fracción, cuando en términos del primer párrafo del artículo 15 de la Ley del Mercado de Valores, se solicite la inscripción genérica de instrumentos de deuda en la Sección de Valores del Registro Nacional de Valores.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 3 DE MAYO DE 2004)
+II.- Solicitud de autorización de publicación de valores para la difusión con fines de promoción y publicidad: $ 14,228.16
 
-II.- Inscripción preventiva de acciones en la Sección de Valores: $ 14,228.16.
-
-No se pagarán los derechos a que se refiere la fracción I de este artículo, cuando en términos del primer párrafo del artículo 15 de la Ley del Mercado de Valores, se solicite de oficio la inscripción de instrumentos de deuda en la Sección de Valores del Registro Nacional de Valores.
+No se pagarán los derechos a que se refiere esta fracción, cuando la solicitud se presente conjuntamente con la autorización señalada en la fracción I de este artículo.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2021,9 +1999,9 @@ I.- Inscripción inicial o ampliación de la misma, en la Sección de Valores:
 
 a).- Tratándose de Acciones:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-1.7739 al millar por los primeros $ 650'470,868.93 del capital social autorizado, y 0.8870 al millar por el excedente sin que los derechos a pagar por este concepto excedan de: $ 7'720,599.05.
+1.7739 al millar por los primeros $ 650'470,868.93 del capital contable de la emisora, y 0.8870 al millar por el excedente sin que los derechos a pagar por este concepto excedan de: $ 7'720,599.05
 
 b).- Tratándose de títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación sobre bienes o derechos muebles o inmuebles o del capital de personas morales, y otros valores:
 
@@ -2033,13 +2011,15 @@ b).- Tratándose de títulos de crédito o valores inscritos que otorguen a sus 
 
 1.7739 al millar por los primeros $ 650'470,868.93 sobre el monto autorizado, y 0.8870 al millar por el excedente sin que los derechos a pagar por este concepto excedan de: $ 7'652,599.05.
 
-2. En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, distintos a los señalados en el numeral 3 de este inciso:
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+2.- Con vigencia igual o menor a un año, distintos a los señalados en el numeral 3 de este inciso:
 
-0.8870 al millar por los primeros $ 650'756,366.98 del monto autorizado, y 0.4435 al millar por el excedente. Dicha cuota se pagará en proporción al plazo de vigencia del programa, de la emisión o, en su caso, de la ampliación.
+0.8870 al millar por los primeros $ 650'756,366.98 del monto emitido, y 0.4435 al millar por el excedente, sin que los derechos a pagar en un ejercicio por programa, excedan del resultado de multiplicar 0.8870 al millar por los primeros $ 650'756,366.98 del monto autorizado, y 0.4435 al millar por el excedente.
 
-3. En el caso de títulos suscritos o emitidos por instituciones de crédito representativos de un pasivo a su cargo, por clase de valor, con vigencia igual o menor a un año:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+3.- En el caso de títulos suscritos o emitidos por instituciones de crédito representativos de un pasivo a su cargo, por tipo de valor, con vigencia igual o menor a un año:
 
 (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
 
@@ -2053,17 +2033,17 @@ d).- Tratándose de títulos opcionales emitidos por sociedades anónimas, casas
 
 0.8870 al millar respecto al monto total de las primas de emisión.
 
-e).- Tratándose de valores emitidos por organismos descentralizados del Gobierno Federal y/o valores fiduciarios en los que dichas personas morales actúen en su carácter de fideicomitentes:
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+e).- Tratándose de valores con plazo mayor a un año emitidos por entidades paraestatales de la Administración Pública Federal y/o valores fiduciarios en los que dichas entidades actúen exclusivamente en su carácter de fideicomitentes o fideicomisarios:
 
-0.8870 al millar por los primeros $ 650'699,571.32 del monto autorizado, y 0.4435 al millar por el excedente.
+0.8870 al millar por los primeros $ 650'699,571.32 del monto autorizado, y 0.4435 al millar por el excedente sin que los derechos a pagar por este concepto excedan de: $ 890,172.00
 
 f).- Tratándose de valores emitidos por los Estados y Municipios, así como por los organismos descentralizados de entidades federativas o municipios y/o valores fiduciarios en los que dichas personas morales actúen en su carácter de fideicomitentes:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-0.7391 al millar por los primeros $ 676'256,090.09 del monto autorizado, y 0.3696 al millar por el excedente.
+0.7391 al millar por los primeros $ 676'256,090.09 del monto emitido, y 0.3696 al millar por el excedente.
 
 g).- Tratándose de certificados, pagarés y otros valores emitidos por el Gobierno Federal, por tipo de valor:
 
@@ -2077,27 +2057,39 @@ h).- Tratándose de bonos de regulación monetaria emitidos por el Banco de Méx
 
 0.4435 al millar del monto emitido por tipo de valor y en proporción a su plazo, sin que los derechos a pagar por este concepto en un ejercicio excedan de: $ 890,171.89.
 
-i).- Tratándose de emisores de valores que mantengan inscritos valores de los señalados en los incisos a) y b) numeral 1:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+i).- Tratándose de emisores de valores que mantengan inscritos valores de los señalados en los incisos a) o b) numeral 1, en sustitución de la cuota de inscripción inicial o ampliación señalada en dichos incisos:
 
 1. Con vigencia mayor a un año:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-0.9 al millar por los primeros $ 731'430,670.04 sobre el monto autorizado y 0.45 al millar por el excedente, sin que los derechos a pagar por este concepto excedan de $ 8'605,067.37.
+0.9 al millar por los primeros $ 731'430,670.04 sobre el monto emitido y 0.45 al millar por el excedente, sin que los derechos a pagar por este concepto excedan de $ 8'605,067.37
 
-2. En el caso de programas de emisión o emisiones con vigencia igual o menor a un año:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+2.- En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuadas o no al amparo de cada programa:
 
 (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
 
 0.45 al millar del monto autorizado sin que los derechos a pagar por este concepto excedan de: $ 1'000,613.93.
 
-j).- Tratándose de emisoras de valores que mantengan inscritos exclusivamente valores de los señalados en el inciso b), numeral 2:
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-1. Programas de emisión o emisiones con vigencia igual o menor a un año:
+j).- Tratándose de emisoras de valores que al momento de obtener la autorización del programa de emisiones de corto plazo mantengan inscritos exclusivamente valores de los señalados en el inciso b), numeral 2:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+1. Emisiones con vigencia igual o menor a un año, efectuadas o no al amparo de cada programa:
 
-0.45 al millar del monto autorizado, sin que los derechos a pagar por este concepto excedan de: $ 1'000,613.93.
+0.45 al millar del monto emitido, sin que los derechos a pagar por este concepto excedan de: $ 1'000,613.93
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+k).- Tratándose de la inscripción o ampliación de valores fiduciarios sobre acciones inscritas en el Registro Nacional de Valores, se pagará una cuota de 0.4 al millar sobre el monto autorizado.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+En el caso de valores emitidos por fideicomisos, no resultará aplicable a las emisoras que actúen como fiduciarias lo establecido en los incisos i) y j) de esta fracción, salvo que el fideicomitente sea una emisora que mantenga valores inscritos, o bien, sea fideicomitente en otro fideicomiso que mantenga valores inscritos, en ambos casos, de los señalados en los citados incisos.
 
 II.- Inscripción inicial o ampliación de la misma en la Sección Especial:
 
@@ -2119,11 +2111,13 @@ La cuota señalada en esta fracción, se bonificará al 100% contra la cuota que
 
 Tratándose de ampliación de la inscripción de acciones, la base del cobro se determinará respecto de la diferencia resultante entre el aumento del capital social a inscribir y el monto previamente inscrito, tratándose de títulos de deuda, la base de cálculo corresponderá al monto que implica el aumento.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 29-C.
 
-Por las actuaciones de intervención gerencial de la Comisión Nacional Bancaria y de Valores, entendiendo por tal las actividades internas desarrolladas por la Comisión que sean necesarias para la ejecución de dichas intervenciones, se pagará mensualmente el derecho por intervención gerencial, conforme a las siguientes cuotas:
+Por las actuaciones de intervención gerencial de la Comisión Nacional Bancaria y de Valores, entendiendo por tal las actividades internas desarrolladas por la Comisión que sean necesarias para la ejecución de dichas intervenciones, se pagará dentro de los tres primeros días de cada mes, el derecho por intervención gerencial, conforme a las siguientes cuotas:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 I.- Sociedades controladoras de grupos financieros, instituciones de crédito y casas de bolsa:
 
@@ -2131,119 +2125,177 @@ I.- Sociedades controladoras de grupos financieros, instituciones de crédito y 
 
 3 por ciento adicional al importe de la cuota de inspección y vigilancia anual que respectivamente les corresponda, sin que en caso alguno sea inferior a: $ 316,137.02.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
 II.- Las demás entidades financieras sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores:
 
 (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
 
 3 por ciento adicional al importe de la cuota de inspección y vigilancia anual que respectivamente les corresponda, sin que en caso alguno sea inferior a: $ 158,068.51.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
 Los derechos a los que se refiere este artículo se causarán desde la notificación formal del inicio de la intervención hasta su conclusión y no incluyen los gastos directos en que se incurra con motivo de la intervención gerencial de que se trate.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 29-D.
 
-Las entidades o sujetos a que se refiere este artículo incluyendo las filiales de entidades financieras del exterior de cualquier tipo, pagarán por los servicios de inspección y vigilancia que presta dicha Comisión de conformidad con lo siguiente:
+Las entidades o sujetos a que se refiere este artículo incluyendo las filiales de entidades financieras del exterior de cualquier tipo, pagarán por los servicios de inspección y vigilancia que presta la Comisión Nacional Bancaria y de Valores, las siguientes cuotas:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 I. Almacenes Generales de Depósito:
 
 Cada entidad que pertenezca al sector de Almacenes Generales de Depósito, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, deberá pagar anualmente el derecho de inspección y vigilancia por una cantidad igual a la suma de una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). El resultado de multiplicar 0.141128 al millar por el valor de los depósitos de bienes emitidos por la entidad de que se trate;
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b). El resultado de multiplicar 0.330098 al millar por el valor de sus otras cuentas por cobrar menos las estimaciones por irrecuperabilidad o difícil cobro de esas otras cuentas por cobrar.
+a). El resultado de multiplicar 0.182800 al millar por el valor de los certificados de depósitos de bienes emitidos por la entidad de que se trate;
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 40,504.00.
+b). El resultado de multiplicar 0.290300 al millar por el valor de sus otras cuentas por cobrar menos las estimaciones por irrecuperabilidad o difícil cobro de esas otras cuentas por cobrar.
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 53,870.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 II. Arrendadoras Financieras:
 
 Cada entidad que pertenezca al sector de Arrendadoras Financieras, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, deberá pagar anualmente el derecho de inspección y vigilancia por una cantidad igual al resultado de la suma de las siguientes cantidades:
 
-a). El resultado de multiplicar 1.078688 al millar por el valor del total de su pasivo;
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b). El resultado de multiplicar 0.617113 al millar, por el valor de su cartera de arrendamiento vencida;
+a). El resultado de multiplicar 0.938504 al millar por el valor del total de su pasivo;
 
-c). El resultado de multiplicar 0.024093 al millar por el valor del total de su cartera de arrendamiento menos las estimaciones preventivas para riesgos crediticios.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+b). El resultado de multiplicar 0.337400 al millar, por el valor de su cartera de arrendamiento vencida;
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 40,504.00.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+c). El resultado de multiplicar 0.027800 al millar por el valor del total de su cartera de arrendamiento menos las estimaciones preventivas para riesgos crediticios.
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 53,870.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 III. Banca de Desarrollo:
 
 Cada entidad que pertenezca al sector de Banca de Desarrollo, entendiéndose por ello aquellas que conforme a la Ley de Instituciones de Crédito tengan tal carácter, deberá pagar anualmente el derecho de inspección y vigilancia por una cantidad igual al resultado de la suma de las siguientes cantidades:
 
-a). El resultado de multiplicar 0.206402 al millar, por el valor del total de los pasivos de la entidad de que se trate;
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b). El resultado de multiplicar 0.007896 al millar, por el valor de sus activos sujetos a riesgo totales.
+a). El resultado de multiplicar 0.196374 al millar, por el valor del total de los pasivos de la entidad de que se trate;
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+b). El resultado de multiplicar 0.026100 al millar, por el valor de sus activos sujetos a riesgo totales.
 
 (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
 
 La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 1'500,000.00.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 IV. Banca Múltiple:
 
 Cada entidad que pertenezca al sector de Banca Múltiple, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la Ley de Instituciones de Crédito, deberá pagar anualmente el derecho de inspección y vigilancia por una cantidad equivalente al resultado de la suma de las siguientes cantidades:
 
-a). El resultado de multiplicar 0.201978 al millar, por el valor del total de pasivos de la entidad de que se trate;
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b). El resultado de multiplicar 0.016142 al millar, por el valor de sus activos sujetos a riesgo totales.
+a). El resultado de multiplicar 0.181489 al millar, por el valor del total de pasivos de la entidad de que se trate;
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+b). El resultado de multiplicar 0.011820 al millar, por el valor de sus activos sujetos a riesgo totales.
 
 (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
 
 La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 1'500,000.00.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 V. Casas de Bolsa:
 
 Cada entidad que pertenezca al sector de Casas de Bolsa, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, deberá pagar anualmente el derecho de inspección y vigilancia una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). El resultado de multiplicar 13.006168 al millar, por el valor de su capital global;
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b). El resultado de multiplicar 3.079009 al millar, por el producto de su índice de capitalización (equivalente al requerimiento de capital entre el capital global) multiplicado por el requerimiento de capital;
+a). El resultado de multiplicar 9.844622 al millar, por el valor de su capital global;
 
-c). El resultado de multiplicar 0.728571 al millar, por el producto del recíproco del indicador de liquidez (equivalente a dividir 1 entre la cantidad que resulte de dividir activo circulante entre pasivo circulante) multiplicado por el pasivo total.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+b). El resultado de multiplicar 5.307944 al millar, por el producto de su índice de capitalización (equivalente al requerimiento de capital entre el capital global) multiplicado por el requerimiento de capital;
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+c). El resultado de multiplicar 0.928792 al millar, por el producto del recíproco del indicador de liquidez (equivalente a dividir 1 entre la cantidad que resulte de dividir activo circulante entre pasivo circulante) multiplicado por el pasivo total.
 
 (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
 
 La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 1'500,000.00.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
 VI. Casas de Cambio:
 
 Cada entidad que pertenezca al sector de Casas de Cambio, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, deberá pagar anualmente el derecho de inspección y vigilancia por una cantidad equivalente al resultado de la suma de las siguientes cantidades:
 
-a). El resultado de multiplicar 4.009670 al millar, por el valor de su capital contable;
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b). El resultado de multiplicar 1.205676 al millar, por el importe que resulte de capital contable menos las disponibilidades netas (equivalentes a la suma de caja, billetes y monedas, saldos deudores de bancos, documentos de cobro inmediato, remesas en camino e inversiones en valores, menos los saldos acreedores de bancos).
+a). El resultado de multiplicar 4.155200 al millar, por el valor de su capital contable;
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 40,504.00.
+b). El resultado de multiplicar 0.713388 al millar, por el importe que resulte de capital contable menos las disponibilidades netas (equivalentes a la suma de caja, billetes y monedas, saldos deudores de bancos, documentos de cobro inmediato, remesas en camino e inversiones en valores, menos los saldos acreedores de bancos). En este caso, cuando las disponibilidades netas sean negativas, la aplicación de la fórmula a que se refiere este inciso será equivalente a sumar el valor absoluto de dichas disponibilidades netas al capital contable.
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 53,870.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 VII. Empresas de Factoraje Financiero:
 
 Cada entidad que pertenezca al sector de Empresas de Factoraje Financiero, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). El resultado de multiplicar 0.793050 al millar, por el valor del total de su pasivo;
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b). El resultado de multiplicar 0.835813 al millar, por el valor de su cartera de factoraje vencida;
+a). El resultado de multiplicar 0.748445 al millar, por el valor del total de su pasivo;
 
-c). El resultado de multiplicar 0.018976 al millar, por el valor de su cartera de factoraje menos las estimaciones preventivas para riesgos crediticios.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+b). El resultado de multiplicar 0.186000 al millar, por el valor de su cartera de factoraje vencida;
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 40,504.00.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+c). El resultado de multiplicar 0.019200 al millar, por el valor de su cartera de factoraje menos las estimaciones preventivas para riesgos crediticios.
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 53,870.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 VIII. Inmobiliarias Bancarias:
 
 Cada entidad que pertenezca al sector de Inmobiliarias Bancarias, entendiéndose por ello aquellas sociedades inmobiliarias que sean propietarias o administradoras de bienes destinados a las oficinas de instituciones de crédito en términos de la Ley de Instituciones de Crédito, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). El resultado de multiplicar 0.458749 al millar, por el valor de su capital contable.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+a). El resultado de multiplicar 0.454106 al millar, por el valor de su capital contable.
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 40,504.00
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 53,870.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 IX. Organismos de Integración:
 
@@ -2259,19 +2311,29 @@ c). El resultado de multiplicar 0.003557 al millar, por el valor de su cartera d
 
 La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a la cantidad que resulte de sumar $ 12,150.00 por cada una de las entidades que agrupe o supervise.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
 X. Sociedades de Ahorro y Préstamo:
 
 Cada entidad que pertenezca al sector de Sociedades de Ahorro y Préstamo, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). El resultado de multiplicar 0.256013 al millar, por el valor del total de sus pasivos;
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b). El resultado de multiplicar 0.168498 al millar, por el valor de su cartera de crédito vencida;
+a). El resultado de multiplicar 0.265159 al millar, por el valor del total de sus pasivos;
 
-c). El resultado de multiplicar 0.008758 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+b). El resultado de multiplicar 0.158500 al millar, por el valor de su cartera de crédito vencida;
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 40,504.00.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+c). El resultado de multiplicar 0.008558 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 53,870.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XI. Sociedades de Inversión:
 
@@ -2279,59 +2341,105 @@ Cada entidad que pertenezca al sector de Sociedades de Inversión, entendiéndos
 
 a). El resultado de multiplicar 0.748729 al millar, por el valor total de las acciones representativas de su capital social en circulación, valuadas a precio corriente en el mercado y, a falta de éste, a su valor contable o precio actualizado de valuación, determinado por la sociedad valuadora o el comité de valuación que corresponda.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 12,000.00, sin que pueda ser superior a $ 302,400.00.
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 12,400.00, sin que pueda ser superior a: $ 313,938.00
 
 Cuando las sociedades de inversión paguen derechos por inscripción de sus acciones en la sección de valores del Registro Nacional de Valores, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
+
+> <small>(REFORMADA D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XII. Sociedades Financieras de Objeto Limitado:
 
 Cada entidad que pertenezca al sector de Sociedades Financieras de Objeto Limitado, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). El resultado de multiplicar 0.057170 al millar, por el valor del total de sus pasivos;
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b). El resultado de multiplicar 0.115596 al millar, por el valor de su cartera de crédito vencida;
+a). El resultado de multiplicar 0.139238 al millar, por el valor del total de sus pasivos;
 
-c). El resultado de multiplicar 0.068477 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+b). El resultado de multiplicar 0.136500 al millar, por el valor de su cartera de crédito vencida;
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 150,000.00.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+c). El resultado de multiplicar 0.003830 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 189,000.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XIII. Uniones de Crédito:
 
 Cada entidad que pertenezca al sector de Uniones de Crédito, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). El resultado de multiplicar 0.258950 al millar, por el valor del total de sus pasivos;
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b). El resultado de multiplicar 0.381202 al millar, por el valor de su cartera de crédito vencida;
+a). El resultado de multiplicar 0.325213 al millar, por el valor del total de sus pasivos;
 
-c). El resultado de multiplicar 0.034330 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+b). El resultado de multiplicar 0.072550 al millar, por el valor de su cartera de crédito vencida;
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 40,504.00.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-En la elaboración de los cálculos aritméticos a que se refieren las fracciones I a XIII del presente artículo, no se considerarán los resultados negativos que, en su caso, se obtengan durante el proceso de cómputo de la cuota.
+c). El resultado de multiplicar 0.009940 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 53,870.00
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+XIV. Financiera Rural:
+
+La Financiera Rural, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
+
+a). Una cuota de $ 1'500,000.00
+
+b). El resultado de multiplicar 0.112742 al millar por el total de sus activos.
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+XV. Fondos y Fideicomisos Públicos:
+
+Cada una de las entidades que integran el sector de Fondos y Fideicomisos Públicos, pagarán una cuota equivalente al resultado de la suma de las siguientes cantidades:
+
+a). Una cuota de $ 1'458,128.00
+
+b). El resultado de multiplicar 0.018096 al millar por el total de sus activos.
+
+Para efectos de lo previsto en esta fracción, forman parte del sector Fondos y Fideicomisos Públicos el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Fideicomiso de Fomento Minero, el Fondo de Capitalización e Inversión del Sector Rural, el Fondo de Fomento y Garantía para el Consumo de los Trabajadores, el Fondo Nacional de Fomento al Turismo, el Fondo de la Vivienda para los Militares en Activo, el Fondo Especial para Financiamientos Agropecuarios, el Fideicomiso Fondo Nacional de Habitaciones Populares, el Fondo de Garantía para la Agricultura, Ganadería y Avicultura, Fondo de Garantía y Fomento para las Actividades Pesqueras, el Fondo de Operación y Financiamiento Bancario a la Vivienda, el Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios y los demás fondos y fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico.
+
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+En la elaboración de los cálculos aritméticos a que se refieren las fracciones I a XV del presente artículo, no se considerarán los resultados negativos que, en su caso, se obtengan durante el proceso de cómputo de la cuota, salvo lo dispuesto en el inciso b) de la fracción VI de este artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 29-E.
 
-Las entidades, ya sean personas físicas o morales, que se indican a continuación, incluyendo a las filiales de entidades financieras del exterior de cualquier tipo, pagarán por los servicios de inspección y vigilancia que presta dicha Comisión de conformidad con lo siguiente:
+Las entidades, ya sean personas físicas o morales, que se indican a continuación, incluyendo a las filiales de entidades financieras del exterior de cualquier tipo, pagarán por los servicios de inspección y vigilancia que presta la Comisión Nacional Bancaria y de Valores, las siguientes cuotas:
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 I. Asesores de Inversión:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cada entidad que pertenezca al sector de Asesores de Inversión entendiéndose para tales efectos, a las personas que cuenten con autorización en términos de la legislación aplicable: $ 12,851.00.
+Cada entidad que pertenezca al sector de Asesores de Inversión entendiéndose para tales efectos, a las personas que en términos de la Ley del Mercado de Valores, den aviso a la Comisión Nacional Bancaria y de Valores del inicio de las actividades del manejo de cartera de valores, deberá pagar la cantidad de: $ 16,599.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 II. Bolsas de Futuros y Opciones:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cada entidad que pertenezca al sector de Bolsas de Futuros y Opciones, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de las disposiciones aplicables, pagará el 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 400,000.00.
+Cada entidad que pertenezca al sector de Bolsas de Futuros y Opciones, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de las disposiciones aplicables, pagará el 1.0 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 837,792.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 III. Bolsas de Valores:
 
@@ -2339,23 +2447,31 @@ III. Bolsas de Valores:
 
 Cada entidad que pertenezca al sector de Bolsas de Valores, entendiéndose para tales efectos, a las entidades que cuenten con la concesión para constituirse y operar como tales en términos de la legislación aplicable, pagará el 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 973,998.00.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
 IV. Cámaras de Compensación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cada entidad que pertenezca al sector de Cámaras de Compensación, entendiéndose por ello a las sociedades que cuenten con la autorización correspondiente en términos de la legislación aplicable, deberá pagar anualmente una cantidad igual al 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 806,967.00.
+Cada entidad que pertenezca al sector de Cámaras de Compensación, entendiéndose por ello a las sociedades que cuenten con la autorización correspondiente en términos de la legislación aplicable, deberá pagar anualmente una cantidad igual al 1.0 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 978,490.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 V. Contrapartes Centrales:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cada entidad que pertenezca al sector de Contrapartes Centrales, entendiéndose por ello a las sociedades que cuenten con la concesión correspondiente en términos de la legislación aplicable, pagará el 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 504,417.00.
+Cada entidad que pertenezca al sector de Contrapartes Centrales, entendiéndose por ello a las sociedades que cuenten con la concesión correspondiente en términos de la legislación aplicable, pagará el 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 700,000.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 VI. Empresas de Servicios Complementarios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cada entidad que pertenezca al sector de Empresas de Servicios Complementarios, entendiéndose por ello a las sociedades que presten servicios complementarios o auxiliares en la administración a entidades financieras en términos de las disposiciones aplicables, o en la realización de su objeto, pagará la cantidad de $ 40,504.00.
+Cada entidad que pertenezca al sector de Empresas de Servicios Complementarios, entendiéndose por ello a las sociedades que presten servicios complementarios o auxiliares en la administración a entidades financieras en términos de las disposiciones aplicables, o en la realización de su objeto, pagará la cantidad de $ 48,751.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 VII. Especialistas Bursátiles:
 
@@ -2363,39 +2479,21 @@ VII. Especialistas Bursátiles:
 
 Cada entidad que pertenezca al sector de Especialistas Bursátiles, entendiéndose por ello a las sociedades que cuenten con la autorización correspondiente en términos de la legislación aplicable, pagará $ 1'500,000.00.
 
-VIII. Financiera Rural:
+VIII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-La Financiera Rural, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
+IX. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+X. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-a). Una cuota de $ 1'500,000.00.
-
-b). El resultado de multiplicar 0.015388 al millar por el total de sus activos.
-
-IX. Fondos y Fideicomisos Públicos:
-
-Cada una de las entidades que integran el sector de Fondos y Fideicomisos Públicos, pagarán una cuota equivalente al resultado de la suma de las siguientes cantidades:
-
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
-
-a). Una cuota de $ 1'458,128.00.
-
-b). El resultado de multiplicar 0.015388 al millar por el total de sus activos.
-
-Para efectos de lo previsto en esta fracción, forman parte del sector Fondos y Fideicomisos Públicos el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Fideicomiso de Fomento Minero, el Fondo de Capitalización e Inversión del Sector Rural, el Fondo de Fomento y Garantía para el Consumo de los Trabajadores, el Fondo Nacional de Fomento al Turismo, el Fondo de la Vivienda para los Militares en Activo, el Fondo Especial para Financiamientos Agropecuarios, el Fideicomiso Fondo Nacional de Habitaciones Populares, el Fondo de Garantía para la Agricultura, Ganadería y Avicultura, Fondo de Garantía y Fomento para las Actividades Pesqueras, el Fondo de Operación y Financiamiento Bancario a la Vivienda, el Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios y los demás fondos y fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico.
-
-X. Formadores de Mercado:
-
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
-
-Cada entidad que pertenezca al sector de Formadores de Mercado, entendiéndose por ello a las instituciones de crédito y casas de bolsa que realizan en forma permanente y por cuenta propia, cotizaciones de precios de compra y venta de Certificados de la Tesorería de la Federación y Bonos de Desarrollo del Gobierno Federal con Tasa Fija (Valores Gubernamentales) y celebran operaciones de manera continua, a efecto de otorgar mayor liquidez al mercado de valores gubernamentales, en términos de las disposiciones aplicables, deberán pagar una cuota de: $ 21,990.00.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XI. Instituciones Calificadoras de Valores:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cada entidad que pertenezca al sector de Instituciones Calificadoras de Valores, entendiéndose por ello aquellas sociedades que con tal carácter se constituyan y sean autorizadas en términos de la Ley del Mercado de Valores, deberán pagar: $ 210,210.00.
+Cada entidad que pertenezca al sector de Instituciones Calificadoras de Valores, entendiéndose por ello aquellas sociedades que con tal carácter se constituyan y sean autorizadas en términos de la Ley del Mercado de Valores, deberán pagar: $ 231,231.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XII. Instituciones para el Depósito de Valores:
 
@@ -2403,25 +2501,35 @@ XII. Instituciones para el Depósito de Valores:
 
 Cada entidad que pertenezca al sector de Instituciones para el Depósito de Valores, entendiéndose por ello aquellas sociedades que cuenten con la concesión correspondiente en términos de la legislación aplicable, pagará el 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a: $ 516,220.00.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
 XIII. Mecanismos para facilitar las operaciones con valores:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cada entidad que opere mecanismos para facilitar las operaciones con valores, autorizados en términos de la Ley del Mercado de Valores: $ 116,248.00.
+Cada entidad que opere mecanismos para facilitar las operaciones con valores, autorizados en términos de la Ley del Mercado de Valores, pagarán la cantidad de: $ 171,679.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XIV. Oficinas de Representación de Entidades Financieras del Exterior:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cada entidad que pertenezca al sector de Oficinas de Representación de Entidades Financieras del Exterior, en términos de lo previsto en la Ley de Instituciones de Crédito, pagará el mismo monto que le correspondía pagar el ejercicio inmediato anterior. Las entidades a las que no les correspondía pagar cuota en ese ejercicio cubrirán la cantidad de $ 36,822.00.
+Cada entidad que pertenezca al sector de Oficinas de Representación de Entidades Financieras del Exterior, en términos de lo previsto en la Ley de Instituciones de Crédito, pagará la cantidad de $ 35,470.00
 
-XV. Operadores del Mercado de Futuros:
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+XV. Operadores del Mercado de Futuros y Opciones:
 
-Cada entidad que pertenezca al sector de Operadores del Mercado de Futuros: $ 33,521.00.
+Cada entidad que pertenezca al sector de Operadores del Mercado de Futuros y Opciones, pagará la cantidad de: $ 36,873.00
 
-Para efectos de lo previsto en esta fracción, se entenderá que pertenecen al sector de Operadores del Mercado de Futuros las instituciones de crédito, casas de bolsa y demás personas físicas y morales que pueden o no ser socios de la Bolsa de Futuros y Opciones en términos de lo previsto en las disposiciones que regulan a las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, y cuya función sea actuar como comisionista de uno o más Socios Liquidadores, en la celebración de contratos de futuros y contratos de opciones, y que pueden tener acceso al sistema electrónico de negociación de la bolsa para la celebración de dichos contratos.
+Para efectos de lo previsto en esta fracción, se entenderá que pertenecen al sector de Operadores del Mercado de Futuros y Opciones, las instituciones de crédito, casas de bolsa y demás personas físicas y morales que pueden o no ser socios de la Bolsa de Futuros y Opciones en términos de lo previsto en las disposiciones que regulan a las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, y cuya función sea actuar como comisionista de uno o más Socios Liquidadores, en la celebración de contratos de futuros y contratos de opciones, y que pueden tener acceso al sistema electrónico de negociación de la bolsa para la celebración de dichos contratos.
+
+Asimismo, estarán sujetos a esta cuota los Formadores de Mercado de Futuros y Opciones, entendiéndose como tales a aquellas instituciones de crédito y casas de bolsa que promuevan la liquidez, manteniendo de forma permanente y por cuenta propia, cotizaciones de compra y venta en los contratos de futuros y/o opciones listados en la Bolsa de Futuros y Opciones.
+
+Tratándose de instituciones de crédito o casas de bolsa que actúen simultáneamente como Operadores y como Formadores del Mercado de Futuros y Opciones, únicamente estarán obligados a cubrir por una sola vez la cuota anual a que se refiere esta fracción.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XVI. Organismos Autorregulatorios:
 
@@ -2429,11 +2537,15 @@ XVI. Organismos Autorregulatorios:
 
 Los Organismos Autorregulatorios debidamente reconocidos conforme a las disposiciones que los rigen, pagarán la cantidad de: $ 95,958.00.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
 XVII. Confederaciones a que se refiere la Ley de Ahorro y Crédito Popular:
 
 (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
 
 Las confederaciones a que se refiere la Ley de Ahorro y Crédito Popular, cada una de ellas pagará la cuota de: $ 158,068.51.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XVIII. Proveedores de Precios:
 
@@ -2443,57 +2555,69 @@ Cada entidad que pertenezca al sector de Proveedores de Precios pagará: $ 116,2
 
 Se entiende que pertenecen al sector de Proveedores de Precios las personas morales cuyo objeto social sea exclusivamente la prestación habitual y profesional del servicio de cálculo, determinación y proveeduría o suministro de precios actualizados para valuación de valores, documentos e instrumentos financieros, autorizados en términos de la Ley de Sociedades de Inversión.
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
 XIX. Sociedades Controladoras de Grupos Financieros:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cada entidad que pertenezca al sector de Sociedades Controladoras de Grupos Financieros, entendiéndose por ello a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará la cantidad de $ 482,353.00.
+Cada entidad que pertenezca al sector de Sociedades Controladoras de Grupos Financieros, entendiéndose por ello a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará la cantidad de: $ 563,750.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XX. Sociedades de Información Crediticia:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cada entidad que pertenezca al sector de Sociedades de Información Crediticia, entendiéndose por ello a las sociedades autorizadas conforme a la Ley para Regular a las Sociedades de Información Crediticia: $ 123,720.00.
+Cada entidad que pertenezca al sector de Sociedades de Información Crediticia, entendiéndose por ello a las sociedades autorizadas conforme a la Ley para Regular a las Sociedades de Información Crediticia, pagará la cantidad de: $ 272,601.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XXI. Sociedades Distribuidoras de Acciones de Sociedades de Inversión:
 
 Cada entidad que pertenezca al sector de Sociedades Distribuidoras de Acciones de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará conforme a lo siguiente:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-a). Que actúen como referenciadoras: $ 21,932.00.
+a).- Que actúen como referenciadoras: $ 22,809.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b). Que actúen como integrales: $ 43,864.00.
+b).- Que actúen como integrales: $ 52,637.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XXII. Sociedades Operadoras de Sociedades de Inversión:
 
 Cada entidad que pertenezca al sector de Sociedades Operadoras de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará conforme a lo siguiente:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-a). De renta variable y de inversión en instrumentos de deuda: $ 37,408.96.
+a).- De renta variable y de inversión en instrumentos de deuda: $ 36,888.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b). De capitales o de objeto limitado: $ 32,749.96.
+b).- De capitales o de objeto limitado: $ 31,356.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XXIII. Sociedades Valuadoras de Acciones de Sociedades de Inversión:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cada entidad que pertenezca al sector de Sociedades Valuadoras de Acciones de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará la cantidad de $ 426.00 por cada Fondo valuado.
+Cada entidad que pertenezca al sector de Sociedades Valuadoras de Acciones de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará la cantidad de $ 478.89 por cada Fondo valuado.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 21,264.00.
+La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a $ 22,115.00
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XXIV. Socios Liquidadores:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cada entidad que pertenezca al sector de Socios Liquidadores pagará la cantidad de $ 392,679.00.
+Cada entidad que pertenezca al sector de Socios Liquidadores pagará la cantidad de: $ 391,998.00
 
 Para efectos de lo previsto en esta fracción se entenderá que este sector lo conforman los fideicomisos que sean socios de una bolsa y que participen en el patrimonio de una cámara de compensación en términos de lo dispuesto por las Reglas a las que habrán de sujetarse las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, teniendo como finalidad liquidar y, en su caso, celebrar por cuenta de clientes, contratos de futuros y contratos de opciones operados en bolsa.
 
@@ -2549,7 +2673,9 @@ III. Las personas morales que mantengan sus acciones inscritas con carácter pre
 
 No computarán para los efectos de la cuota de inspección y vigilancia a que se refiere este artículo, los valores que hayan sido inscritos en el mismo ejercicio fiscal en el cual se paguen dichos derechos, excepto cuando se otorgue la inscripción para la ampliación de plazos, montos de emisión o de capital social.
 
-Las personas morales que en su carácter de emisoras tengan inscritos en el Registro Nacional de Valores títulos o valores representativos de un pasivo a su cargo, no pagarán los derechos por concepto de inspección y vigilancia relativos a dichos títulos o valores en el evento que los amorticen en su totalidad dentro del primer bimestre del ejercicio fiscal al que corresponda la amortización.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+Las personas morales que en su carácter de emisoras tengan inscritos en el Registro Nacional de Valores títulos o valores representativos de un pasivo a su cargo, no pagarán los derechos por concepto de inspección y vigilancia relativos a dichos títulos o valores en el evento que los amorticen en su totalidad dentro del primer trimestre del ejercicio fiscal al que corresponda la amortización.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2557,25 +2683,33 @@ Las personas morales que en su carácter de emisoras tengan inscritos en el Regi
 
 En el caso de las entidades financieras de nueva creación, incluyendo las filiales de entidades financieras del exterior de cualquier tipo, los derechos por inspección y vigilancia se comenzarán a cubrir al día hábil siguiente de que inicien operaciones y se causarán proporcionalmente a partir de esta fecha y hasta la conclusión del ejercicio fiscal. Para efectos de la determinación de dichos derechos, se estará a lo dispuesto en el artículo 29-D o 29-E de esta Ley, según corresponda al sector al que pertenezca la entidad de nueva creación.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 29-H.
 
-En el caso de fusión de entidades financieras o de filiales de entidades financieras del exterior, el importe de los derechos por inspección y vigilancia a pagar por la entidad fusionante o la de nueva creación durante el resto del ejercicio en que se produzca este evento, será por la suma de las cuotas que correspondan a las entidades participantes en la fusión. Dichos derechos deberán ser pagados al momento de recibir la autorización correspondiente por parte de la Comisión.
+En el caso de fusión de entidades financieras o de filiales de entidades financieras del exterior, el importe de los derechos por inspección y vigilancia a pagar por la entidad fusionante o la de nueva creación durante el resto del ejercicio en que se produzca este evento, será por la suma de las cuotas que correspondan a las entidades participantes en la fusión. Dichos derechos deberán ser pagados al momento de recibir la autorización correspondiente.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 29-I.
 
-Para la determinación de los montos de los derechos a pagar correspondientes a los artículos 29-D, fracciones I, II, III, IV, V, VI, VII, VIII, X, XI, XII y XIII, y 29-H de esta Ley, incluyendo en todos estos casos a las filiales de entidades financieras del exterior de cualquier tipo, deberá utilizarse el promedio mensual de los datos o cifras de las variables que según el caso apliquen, correspondientes al periodo comprendido entre los meses de octubre del ejercicio fiscal inmediato anterior del año en que se haga el cálculo y los once meses previos a éste.
+Para la determinación de los montos de los derechos a pagar correspondientes a los artículos 29-D, fracciones I, II, III, IV, V, VI, VII, IX, X, XI, XII, XIII, XIV y XV, 29-E, fracciones II, III, IV, V y XII, y 29-H de esta Ley, incluyendo en todos estos casos a las filiales de entidades financieras del exterior de cualquier tipo, deberá utilizarse el promedio mensual de los datos o cifras de las variables que según el caso apliquen, correspondientes al periodo comprendido entre los meses de octubre del ejercicio fiscal inmediato anterior del año en que se haga el cálculo y los once meses previos a éste. En su caso, se utilizará la información más reciente con la que cuente la Comisión Nacional Bancaria y de Valores.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 Por lo que se refiere a las sociedades comprendidas en la fracción VIII de (sic) artículo 29-D, la cuota se determinará utilizando la información más reciente con que cuente la Comisión Nacional Bancaria y de Valores al 31 de octubre del ejercicio fiscal inmediato anterior a aquél en que se realice el cálculo.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
 En el caso de Emisoras, las cuotas a su cargo deberá (sic) determinarse conforme a lo previsto en el artículo 29-F de este Capítulo. Para efectos de lo anterior, deberá emplearse el monto en circulación de las emisiones utilizadas como base del cálculo, al 31 de octubre del ejercicio fiscal inmediato anterior a aquel en que se realice el cálculo. Tratándose de títulos o valores inscritos en el Registro Nacional de Valores durante el último bimestre del ejercicio fiscal inmediato anterior a aquel en que se calcule la cuota, deberá utilizarse como base la información al 31 de diciembre de dicho ejercicio. En el caso de acciones representativas de capital social, se tomarán como base los estados financieros dictaminados de la sociedad emisora, correspondientes al ejercicio fiscal inmediato anterior a aquel en que se efectúe el cálculo, o en su defecto, los estados financieros dictaminados del ejercicio más reciente con que se cuente, que hayan sido proporcionados a la Comisión Nacional Bancaria y de Valores.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 Para efectos del párrafo anterior, cuando el cálculo respectivo deba hacerse con base en el capital social y reservas de capital, por el primero se entenderá el monto exhibido más aportaciones para futuros aumentos de capital, y por las segundas, la reserva legal, la prima sobre acciones, positivas o negativas y las demás que por estatutos o voluntariamente haya constituido la asamblea de accionistas como adición al capital y provenientes de las utilidades.
 
-La Secretaría de Hacienda y Crédito Público dará a conocer a las entidades de los sectores correspondientes, como facilidad administrativa, el resultado de las operaciones aritméticas previstas en el artículo 29-D, según la información que le sea proporcionada por la Comisión Nacional Bancaria y de Valores.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+La Secretaría de Hacienda y Crédito Público dará a conocer a las entidades de los sectores correspondientes, como facilidad administrativa, el resultado de las operaciones aritméticas previstas en los artículos 29-D y 29-E, fracciones II, III, IV, V y XII según la información que le sea proporcionada por la Comisión Nacional Bancaria y de Valores.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2589,15 +2723,27 @@ Los ingresos que se obtengan por el pago de derechos por los servicios a los que
 
 Las cuotas anuales a cargo de las entidades o sujetos a que se refieren los artículos 29, 29-A, 29-B, 29-D, 29-E, 29-F y 29-G de esta Ley, se pagarán conforme a lo siguiente:
 
-I. Las entidades financieras que pertenezcan a los sectores señalados en los artículos 29-D fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI y XII y 29-E, fracciones II, III, IV, V, VI, VII, VIII, IX, XII, XIV, XV, y XVII de esta Ley, incluyendo a las filiales de entidades financieras del exterior, deberán pagar las cuotas anuales determinadas a su cargo, dentro del primer trimestre del ejercicio fiscal correspondiente. Sin perjuicio de lo anterior, dichas entidades o sujetos podrán pagar las cuotas referidas en doce parcialidades, que enterarán a más tardar el primer día hábil de cada mes. En el caso de las entidades financieras de nueva creación, los derechos se cubrirán al día hábil siguiente de que inicien operaciones y se causarán proporcionalmente a partir de esta fecha y hasta la conclusión del ejercicio fiscal.
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-II. En el caso de sociedades controladoras de grupos financieros, sociedades de información crediticia, sociedades calificadoras de valores, sociedades valuadoras de acciones de sociedades de inversión, empresas que administran mecanismos para facilitar las operaciones con valores y proveedores de precios, deberán pagar en el mes de enero de cada año las cuotas anuales que les correspondan del ejercicio fiscal.
+I.- Las entidades financieras que pertenezcan a los sectores señalados en los artículos 29-D, 29-E y 29-F de esta Ley, incluyendo a las filiales de entidades financieras del exterior, deberán pagar las cuotas anuales determinadas a su cargo, dentro del primer trimestre del ejercicio fiscal correspondiente. Sin perjuicio de lo anterior, dichas entidades o sujetos podrán pagar las cuotas referidas en doce parcialidades, que enterarán a más tardar el primer día hábil de cada mes. En el caso de las entidades financieras de nueva creación, los derechos se cubrirán al día hábil siguiente de que inicien operaciones y se causarán proporcionalmente a partir de esta fecha y hasta la conclusión del ejercicio fiscal.
 
-III. Tratándose de las sociedades operadoras de sociedades de inversión, de las sociedades de inversión, sociedades distribuidoras de acciones de sociedades de inversión, de los organismos autorregulatorios y de las personas morales emisoras de valores, deberán pagar las cuotas anuales respectivas a más tardar dentro del primer bimestre del ejercicio fiscal correspondiente.
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-IV. Los derechos por concepto de certificación, autorización, y aprobación referidos en el artículo 29 de esta Ley, deberán pagarse previamente a la presentación de la solicitud o documentación correspondiente.
+II.- Cuando se haga referencia al concepto de capital contable deberá considerarse la información contenida en los estados financieros dictaminados del contribuyente de que se trate, correspondientes al ejercicio fiscal inmediato anterior a aquel en que se efectúe el cálculo o, en su defecto, los estados financieros dictaminados del ejercicio más reciente con que se cuente, que hayan sido proporcionados a la Comisión Nacional Bancaria y de Valores.
 
-V. Tratándose de los derechos por el otorgamiento de autorizaciones, así como por la inscripción en el Registro Nacional de Valores, previstas en los artículos 29-A y 29-B de esta Ley, los derechos deberán pagarse en la misma fecha en que se reciba el oficio mediante el cual se notifique el otorgamiento de la inscripción en el Registro Nacional de Valores, o la autorización relativa. Por lo tanto, cuando los derechos no puedan ser calculados sino hasta el momento de la emisión, podrá comunicarse al interesado la opinión favorable respecto del acto registral correspondiente, notificándose la inscripción hasta que se proporcione a la Comisión Nacional Bancaria y de Valores, los datos que permitan determinar el monto del derecho a pagar por dicho concepto. En el caso de emisiones cuya colocación se pacte en diferentes fechas, los derechos de inscripción se causarán por el monto de cada colocación y deberán ser pagados a más tardar el día 17 del mes inmediato posterior a aquél en que se realicen cada una de las mismas.
+III.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
+
+IV.- Los derechos por concepto de certificación, autorización, y aprobación referidos en el artículo 29 de esta Ley, deberán pagarse previamente a la presentación de la solicitud o documentación correspondiente.
+
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+V.- Tratándose de los derechos por el otorgamiento de autorizaciones, así como por la inscripción en el Registro Nacional de Valores, previstas en los artículos 29-A y 29-B de esta Ley, los derechos deberán pagarse en la misma fecha en que se reciba el oficio mediante el cual se notifique el otorgamiento de la inscripción en el Registro Nacional de Valores, o la autorización relativa. En el caso de que los derechos no puedan ser calculados sino hasta el momento de la emisión, podrá comunicarse al interesado la autorización respecto del acto registral correspondiente, quedando éste obligado a informar a la Comisión Nacional Bancaria y de Valores, el día hábil previo a la emisión, las características definitivas de la operación, así como a cubrir los derechos por concepto de inscripción de los títulos de que se trate, a más tardar el día de la emisión. En el caso de emisiones de corto plazo, los derechos de inscripción se causarán por el monto de cada colocación y deberán ser pagados a más tardar el día 17 del mes inmediato posterior a aquél en que se realicen cada una de las mismas.
+
+La falta de pago de dichos derechos en los plazos establecidos, dará lugar a que la inscripción definitiva de los títulos correspondientes, no se lleve a cabo.
+
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+VI.- Los Organismos Financieros Multilaterales de los que México sea parte, no estarán obligados al pago de los derechos establecidos en los artículos 29-A, 29-B y 29-F de esta Ley, siempre que en el instrumento de constitución del organismo de que se trate, en adhesión posterior o mediante tratado o convenio que tenga suscrito con México, se le exente del pago de gravámenes tributarios.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3105,83 +3251,59 @@ de fianza $870.00 $870.00
 
 #### SECCION SEGUNDA. De la Comisión Nacional del Sistema de Ahorro para el Retiro
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 31-B.
 
-Las Administradoras de Fondos para el Retiro, las Empresas Operadoras de la Base de Datos Nacional SAR, las Sociedades de Inversión Especializadas en Fondos para el Retiro que operan las primeras y cualquier otra institución sujeta a la inspección y vigilancia de la Comisión Nacional del Sistema de Ahorro para el Retiro, pagarán el derecho de inspección y vigilancia que se efectúa en éstas, conforme a las siguientes cuotas:
+Las Administradoras de Fondos para el Retiro, las Empresas Operadoras de la Base de Datos Nacional SAR y las Sociedades de Inversión Especializadas de Fondos para el Retiro que operan las primeras, pagarán el derecho de inspección y vigilancia que se efectúa en éstas, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+I.- Las Administradoras de Fondos para el Retiro $ 48,713.00 cuota anual y adicionalmente $ 0.1174 anuales por cada $ 1,000.00 del saldo total de las subcuentas de retiro, cesantía en edad avanzada y vejez de las cuentas individuales que administren.
 
-I.- Las Administradoras de Fondos para el Retiro $ 48,712.63 cuota anual y adicionalmente $ 0.74 anuales por cada cuenta individual que administren.
+II.- Las Sociedades de Inversión Especializadas de Fondos para el Retiro $ 48,713.00 cuota anual.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+El pago de las cuotas anuales de $ 48,713.00 a que se refieren las fracciones I y II anteriores, deberá realizarse a más tardar el día 17 del mes de enero del ejercicio fiscal que transcurra.
 
-Para efectos del pago del derecho a que se refiere esta fracción, la cuota anual deberá pagarse a más tardar el día 17 del mes de enero del ejercicio fiscal que transcurra. Asimismo, respecto del derecho por cada cuenta individual se harán pagos provisionales trimestrales en los meses de abril, julio y octubre del presente ejercicio fiscal y enero del siguiente, a más tardar el día 17 del mes respectivo.
+Las Administradoras de Fondos para el Retiro o Sociedades de Inversión Especializadas de Fondos para el Retiro que obtengan autorización para organizarse y operar como tales, durante el año calendario, deberán cubrir la cuota anual de $ 48,713.00 a que se refieren las fracciones I y II del presente artículo, a más tardar el último día hábil del mes inmediato posterior al mes en que obtengan dicha autorización. El monto de dicha cuota anual será proporcional al número de meses que resten al año calendario de que se trate.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+Para los efectos de la cuota anual de $ 0.1174 a que se refiere la fracción I anterior, se realizarán pagos provisionales trimestrales en los meses de abril, julio y octubre del ejercicio fiscal de que se trate y enero del siguiente, a más tardar el día 17 del mes respectivo.
 
-Para determinar el monto de cada pago trimestral de las cuentas individuales, se deberá tomar el número de cuentas abiertas que tenga cada Administradora de Fondos para el Retiro, el último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho; y se multiplicará por la cuota anual por cuenta individual actualizada a la fecha de pago de conformidad con el artículo 17-A del Código Fiscal de la Federación, dividida entre cuatro.
+Para determinar el monto de cada pago trimestral a que se refiere el párrafo anterior, se deberá multiplicar cada $ 1,000.00 del saldo total de las subcuentas de retiro, cesantía en edad avanzada y vejez de las cuentas individuales que administren por la cuota anual de $ 0.1174 actualizada a la fecha de pago de conformidad con el artículo 17-A del Código Fiscal de la Federación, dividida entre cuatro, tomando como saldo total de dichas subcuentas el que resulte al último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+III.- Las Empresas Operadoras de la Base de Datos Nacional SAR $ 1'500,000.00 por cada Administradora de Fondos para el Retiro.
 
-II.- Las Empresas Operadoras de la Base de Datos Nacional SAR $ 50,661,210.44
+El pago de derechos a que se refiere la presente fracción deberá enterarse a más tardar el día 17 del mes de enero del ejercicio fiscal que transcurra. En caso que se incorpore una nueva Administradora de Fondos para el Retiro durante el año calendario el pago por la nueva entidad deberá cubrirse a más tardar el último día hábil del mes inmediato posterior al mes en que se autorice ésta y será proporcional al número de meses que resten al año calendario de que se trate.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Este pago podrá enterarse en dos parcialidades conforme a lo siguiente:
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-Una primera parcialidad equivalente al 50% del total en el mes de enero.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Una segunda parcialidad equivalente al monto que resulte de aplicar al saldo insoluto el factor de actualización, calculado de acuerdo a lo establecido en el artículo 17-A del Código Fiscal de la Federación, la que deberá enterarse en el mes de julio del ejercicio fiscal de que se trate.
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 32.
 
-Por el estudio de la
+Por el estudio de la solicitud y, en su caso, el registro o la revalidación del registro de agentes promotores, en el Registro de Agentes Promotores de las Administradoras de Fondos para el Retiro, que proporciona la Comisión Nacional del Sistema de Ahorro para el Retiro, se pagarán derechos conforme a la cuota de: $ 165.00
 
-solicitud y, en su caso, registro de
-
-cada agente promotor de las
-
-administradoras de fondos para el
-
-retiro, que proporciona la Comisión
-
-Nacional del Sistema de Ahorro
-
-para el Retiro, se pagarán derechos
-
-conforme a la cuota de $164.33 $164.00
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 33.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+Por la presentación del examen de postulación a agente promotor o de revalidación del registro de agente promotor, con el cual se evaluarán los conocimientos requeridos para ejercer la actividad de agente promotor en las Administradoras de Fondos para el Retiro, se pagarán derechos conforme a la cuota de: $ 250.00
 
 ###### ARTICULO 33-A.
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 34.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+Por el estudio de la solicitud y, en su caso, autorización para organizarse y operar como Administradora de Fondos para el Retiro o Sociedad de Inversión Especializada de Fondos para el Retiro, cada Administradora de Fondos para el Retiro o Sociedad de Inversión Especializada de Fondos para el Retiro, pagará derechos conforme a la cuota de: $ 75,000.00
 
 ###### ARTICULO 34-A.
 
 (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
 
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 35.
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+Los ingresos que se obtengan por la recaudación de los derechos por los servicios a que se refiere esta Sección, se destinarán a la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
 ###### ARTICULO 36.
 
@@ -3193,25 +3315,19 @@ conforme a la cuota de $164.33 $164.00
 
 #### SECCION TERCERA.. Servicios Aduaneros
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
 ###### ARTICULO 38.
 
-Por el tránsito internacional de mercancías de procedencia extranjera que lleguen de territorio nacional con destino al extranjero, se pagará la cuota de $ 10.68 por cada mil kilogramos o fracción de pesos de dichas mercancías, así como por el tráfico fluvial de trozas en que se pagará la cuota mencionada por cada una.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-No se pagará este derecho por el tránsito aéreo de mercancías.
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 39.
 
-El pago de los derechos a que se refiere el artículo anterior se hará en la aduana ante la que solicite el régimen de tránsito, previamente a la autorización del envío de las mercancías.
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 40.
 
-Por el otorgamiento de las inscripciones, concesiones o autorizaciones que a continuación se señalan, se pagará el derecho aduanero de inscripciones, concesiones y autorizaciones, conforme a las siguientes cuotas:
+Por el trámite y, en su caso, por el otorgamiento de las inscripciones, concesiones o autorizaciones que a continuación se señalan, se pagará el derecho aduanero de inscripciones, concesiones y autorizaciones, conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
@@ -3225,21 +3341,9 @@ registro del despacho de
 
 mercancías $3,396.66 $3,397.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b).- Por la autorización para
-
-someterse al proceso de
-
-ensamble y fabricación de
-
-vehículos a empresas de la
-
-industria automotriz y
-
-manufacturera de
-
-autotransporte $6,902.92 $6,903.00
+b).- Por la autorización de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos a empresas de la industria automotriz terminal o manufacturera de vehículos de autotransporte $ 6,902.92
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -3301,15 +3405,9 @@ por tuberías, ductos, cables u
 
 otros medios de conducción $6,026.36 $6,026.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-i).- Por la autorización temporal
-
-para locales destinados a
-
-exposiciones internacionales
-
-de mercancías $3,287.10 $3,287.00
+i).- Por la autorización de depósito fiscal temporal para locales destinados a exposiciones internacionales de mercancías $ 3,287.10
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -3355,25 +3453,31 @@ mandatario de agente aduanal $5,269.00 $5,269.00
 
 Los derechos a que se refieren los incisos b), c), d), e), h), i), k), l), m) y n) de este artículo, se pagarán anualmente. Los derechos a que se refieren los incisos a), f), g) y j) se pagarán por única vez.
 
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+
 Los ingresos que se obtengan por la recaudación de los derechos establecidos en este artículo se destinarán al Servicio de Administración Tributaria, para el mejoramiento de la Administración Aduanera.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 41.
 
-Se pagarán derechos por el almacenaje de mercancías en depósito ante la aduana, después de vencidos los plazos que a continuación se indican:
+Se pagarán derechos por el almacenaje de mercancías en depósito ante la aduana en recintos fiscales, después de vencidos los plazos que a continuación se indican:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-I.- En mercancías de importación, dos días, excepto en recintos fiscales que se encuentren en aduanas de tráfico marítimo, en cuyo caso el plazo será de cinco días.
+I.- En mercancías de importación, dos días naturales, excepto en recintos fiscales que se encuentren en aduanas de tráfico marítimo, en cuyo caso el plazo será de cinco días naturales.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-II.- En mercancías de exportación, quince días, excepto minerales en cuyo caso el plazo será de treinta días.
+II.- En mercancías de exportación o retorno al extranjero, quince días naturales, excepto minerales en cuyo caso el plazo será de treinta días naturales.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 Las mercancías por las que hubiere desistimiento del régimen de exportación, o en las que ésta no se concrete por cualquier otra causa, pagarán el derecho de almacenaje correspondiente, desde el primer día en que hayan quedado en depósito en cada aduana.
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-III.- A partir del día siguiente de la fecha en que se pongan a disposición de los interesados las mercancías que hubieran sido secuestradas.
+III.- A partir del día siguiente a aquel en que se notifique que están a disposición de los interesados las mercancías que hubieran sido embargadas o secuestradas.
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -3383,9 +3487,11 @@ IV.- Diez días naturales de aquél en que queden en depósito ante la aduana, e
 
 Los plazos a que se refieren las fracciones I y II de este artículo, se computarán a partir del día siguiente a aquél en que el almacén reciba las mercancías, a excepción de las importaciones que se efectúen por vía marítima o aérea, en las que el plazo se contará a partir del día en que el consignatario reciba la comunicación de que las mercancías han entrado al almacén.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 42.
 
-Las cuotas de los derechos por el almacenaje, en recintos fiscales, de mercancías en depósito ante la aduana, son las siguientes:
+Las cuotas diarias de los derechos por el almacenaje, en recintos fiscales, de mercancías en depósito ante la aduana, son las siguientes:
 
 cuota sin cuota con
 
@@ -3487,11 +3593,11 @@ VI.- Aquéllas que no sean retiradas por caso fortuito o por fuerza mayor, o por
 
 La exención que establece este precepto se aplicará únicamente durante el plazo de tres meses en los casos de las fracciones I, II y III. En los otros casos, se pagarán los derechos de almacenaje a partir del decimosexto día siguiente al en que sean puestos a disposición del particular o al en que cesen las causas de fuerza mayor o imputables a la autoridad, que hubieran impedido retirarlas.
 
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 46.
 
-Ninguna mercancía en depósito ante la aduana será entregada, a menos que se hayan pagado los derechos de almacenaje.
-
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+Ninguna mercancía en depósito ante la aduana en un recinto fiscal será entregada, a menos que se hayan pagado los derechos de almacenaje.
 
 ###### ARTICULO 47.
 
@@ -3515,41 +3621,21 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-I.- Del 8 al millar, sobre el valor que tengan los bienes para los efectos del impuesto general de importación, en los casos distintos de los señalados en las siguientes fracciones.
+I.- Del 8 al millar, sobre el valor que tengan los bienes para los efectos del impuesto general de importación, en los casos distintos a los señalados en las siguientes fracciones o cuando se trate de mercancías exentas conforme a la Ley de los Impuestos Generales de Importación y de Exportación o a los Tratados Internacionales.
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-II.- Del 1.76 al millar sobre el valor que tengan los bienes, tratándose de la importación temporal de bienes de activo fijo que efectúen las maquiladoras o las empresas que tengan programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial o, en su caso, la maquinaria y equipo que se introduzca al territorio nacional para destinarlos al régimen de elaboración, transformación o reparación en recintos fiscalizados.
+II.- Del 1.76 al millar sobre el valor que tengan los bienes, tratándose de la importación temporal de bienes de activo fijo que efectúen las maquiladoras o las empresas que tengan programas de exportación autorizados por la Secretaría de Economía o, en su caso, la maquinaria y equipo que se introduzca al territorio nacional para destinarlos al régimen de elaboración, transformación o reparación en recintos fiscalizados.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cuando la importación de las mercancías a que se refiere el primer párrafo de esta fracción se efectúe mediante pedimento o pedimento consolidado a que se refiere el artículo 37 de la Ley Aduanera, el derecho de trámite aduanero se pagará por cada operación al presentarse el pedimento respectivo, debiendo considerarse a cada vehículo de transporte como una operación distinta ante la aduana correspondiente y no se pagará el retorno de dichas mercancías en cualquiera de los dos supuestos anteriores.
+III.- Tratándose de importaciones temporales de bienes distintos de los señalados en la fracción anterior siempre que sea para elaboración, transformación o reparación en programas de maquila o de exportación. $ 178.78
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-III.- Tratándose de importaciones
-
-temporales de bienes distintos de
-
-los señalados en la fracción
-
-anterior siempre que sea para
-
-elaboración, transformación o
-
-reparación en programas de
-
-maquila o de exportación,
-
-así como en los retornos
-
-respectivos $178.78 $179.00
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Cuando la importación de las mercancías a que se refiere el primer párrafo de esta fracción se efectúe mediante pedimento o pedimento consolidado a que se refiere el artículo 37 de la Ley Aduanera, el derecho de trámite aduanero se pagará por cada operación al presentarse el pedimento respectivo, debiendo considerarse a cada vehículo de transporte como una operación distinta ante la aduana correspondiente y no se pagará el retorno de dichas mercancías en cualquiera de los dos supuestos anteriores.
+Asimismo, se pagará la cuota señalada en el párrafo anterior, por la introducción al territorio nacional de bienes distintos a los señalados en la fracción II de este artículo, bajo el régimen de elaboración, transformación o reparación en recintos fiscalizados, así como en los retornos respectivos.
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -3569,37 +3655,17 @@ recintos fiscalizados, así como
 
 en los retornos respectivos $178.78 $179.00
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-IV.- En el caso de las operaciones
-
-señaladas en los artículos 61, 97,
-
-103, 106 y 116 de la Ley Aduanera,
-
-así como en el de las operaciones
-
-aduaneras que amparen
-
-mercancías que de conformidad
-
-con las disposiciones aplicables
-
-no tengan valor en aduana,
-
-por cada operación $178.78 $179.00
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-Cuando se trate de mercancías exentas conforme a las Leyes de los Impuestos Generales de Importación y Exportación y a los Tratados Internacionales, se aplicará la tasa que establece la fracción I de este artículo.
+IV.- En el caso de operaciones de importación y exportación de mercancías exentas de los impuestos al comercio exterior conforme a la Ley Aduanera; de retorno de mercancías importadas o exportadas definitivamente; de importaciones o exportaciones temporales para retornar en el mismo estado, así como en el de las operaciones aduaneras que amparen mercancías que de conformidad con las disposiciones aplicables no tengan valor en aduana, por cada operación. $ 178.78
 
 (ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
 V.- En las operaciones de exportación $179.27 $179.00
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Cuando la exportación de mercancías se efectúe mediante pedimento consolidado a que se refiere el artículo 37 de la Ley Aduanera, el derecho de trámite aduanero se pagará por cada operación al presentarse el pedimento respectivo, debiendo considerarse a cada vehículo de transporte como una operación distinta ante la aduana correspondiente.
+Cuando la exportación de mercancías se efectúe mediante pedimento consolidado a que se refiere la Ley Aduanera, el derecho de trámite aduanero se pagará por cada operación al presentarse el pedimento respectivo, debiendo considerarse a cada vehículo de transporte como una operación distinta ante la aduana correspondiente.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -3619,19 +3685,23 @@ VII.- Por aquellas operaciones en que se rectifique un pedimento y no se esté e
 
 a).- De tránsito interno $ 140.14 140.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b).- De extracción del régimen de
+b).- De tránsito internacional $ 179.00
 
-depósito fiscal para retorno $ 140.14 140.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+c).- De extracción del régimen de
 
-c).- La parte II de los pedimentos
+depósito fiscal para retorno $178.78 $179.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+
+d).- La parte II de los pedimentos
 
 de importación; exportación o
 
-tránsito $ 140.14 140.00
+tránsito $178.78 $179.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
@@ -3646,6 +3716,10 @@ sin exceder de la cuota de $ 1,484.67 1,485.00
 > <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 1993)</small>
 
 Cuando la cantidad que resulte de aplicar lo dispuesto en las fracciones I y II de este artículo sea inferior a la señalada en la fracción III, se aplicará esta última.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+Cuando la importación de las mercancías a que se refieren las fracciones II y III, primer párrafo, de este artículo, se efectúe mediante pedimento o pedimento consolidado, el derecho de trámite aduanero se pagará por cada operación al presentarse el pedimento respectivo, debiendo considerarse a cada vehículo de transporte como una operación distinta ante la aduana correspondiente y no se pagará por el retorno de dichas mercancías.
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -3667,35 +3741,23 @@ La recaudación de los derechos de trámite aduanero, incluyendo el adicional a 
 
 Tratándose de los derechos de trámite aduanero que se recauden en Colombia, Nuevo León, los mismos se destinarán al pago de la inversión que el Gobierno del Estado de Nuevo León hubiere hecho en la construcción de la garita y hasta por el monto de la misma.
 
-> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 1993)</small>
-
 ###### ARTICULO 50.
 
-Se pagará el derecho de trámite aduanero adicional por regulación de tráfico vehicular en las operaciones aduaneras en las que se introduzcan mercancías a territorio nacional consignadas en pedimentos que las amparen, cuando dichas mercancías se transporten en vehículos que transiten por la aduana en exceso al número de vehículos por hora que le corresponda a cada agente o apoderado aduanal en los términos del presente artículo o en vehículos que transiten por la aduana fuera del horario ordinario de operación. Para los efectos de este artículo, se entenderá que el horario ordinario de operación comprende de lunes a viernes de 8:00 a 17:00 horas y sábados de 9:00 a 14:00 horas.
-
-El derecho a que se refiere este artículo será de un tanto igual al derecho de trámite aduanero que deba pagarse por la operación aduanera de que se trate, conforme a lo dispuesto por el artículo anterior.
-
-El agente o apoderado aduanal determinará el número de vehículos por hora que le corresponde pasar por cada aduana sin el pago del derecho de trámite aduanero adicional a que se refiere este artículo, en los que se transportarán mercancías amparadas en pedimentos por él expedidos, distribuyendo en forma uniforme el número total de vehículos que pasará por la aduana de que se trate en ese día, entre ocho horas. El promedio que determine será el número de vehículos por hora que le corresponderá transitar por la aduana durante el horario ordinario de operación. Cuando la distribución dé por resultado un número fraccionario, el agente o apoderado aduanal podrá distribuir los vehículos que den lugar a la fracción de vehículo distribuyendo uno por hora en cualquiera de las horas comprendidas en el horario ordinario de operación.
-
-El derecho a que se refiere este artículo lo enterará el agente o apoderado aduanal por cuenta del importador cuya mercancía haya sido transportada, los días martes de cada semana, por las operaciones realizadas durante la semana inmediata anterior.
-
-La Secretaría de Hacienda y Crédito Público queda facultada para otorgar facilidades administrativas para la determinación y operación de los promedios de vehículos que les corresponda transitar por la aduana a los agentes o apoderados aduanales, cuando dichos agentes o apoderados aduanales, el administrador portuario o el operador de una terminal portuaria de un determinado lugar lo soliciten, así como para establecer mediante reglas de carácter general las aduanas en las que no sea necesaria la regulación del tráfico vehicular a que se refiere el derecho previsto en este artículo, y los días, horas, circunstancias y mercancías que podrán desgravarse total o parcialmente del derecho de trámite aduanero adicional por regulación de tráfico vehicular.
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 50-A.
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 50-B.
 
-Para los efectos de los artículos 49 y 50 de esta Ley, Petróleos Mexicanos y sus organismos subsidiarios no estarán obligados al pago de los derechos de trámite aduanero a que se refieren dichos preceptos, cuando importen o exporten gas natural, así como por el aprovisionamiento de combustible a embarcaciones de matrícula extranjera arrendados por dichos organismos para la realización de los fines que les son propios.
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+Para los efectos del artículo 49 de esta Ley, Petróleos Mexicanos y sus organismos subsidiarios no estarán obligados al pago de los derechos de trámite aduanero a que se refieren dichos preceptos, cuando importen o exporten gas natural, así como por el aprovisionamiento de combustible a embarcaciones de matrícula extranjera arrendados por dichos organismos para la realización de los fines que les son propios.
 
 ###### ARTICULO 50-C.
 
-Por la expedición de la autorización para establecer depósitos fiscales para la venta de mercancías extranjeras y nacionales a pasajeros que salgan del país directamente al extranjero, deberán pagar el derecho de depósitos fiscales equivalente al 5% de los ingresos brutos obtenidos por la venta de dichas mercancías en el mes inmediato anterior, mismo que se deberá enterar a más tardar el día 17 del mes inmediato posterior a aquél en que se obtengan los ingresos.
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3751,27 +3813,11 @@ que exploten la patente
 
 de agente aduanal $8,850.26 $8,850.00
 
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 52.
 
-Por los servicios
-
-de análisis de laboratorios derivados
-
-del cumplimiento de las obligaciones
-
-aduaneras establecidas en los
-
-artículos 45 y 47 de la Ley Aduanera,
-
-se pagarán por cada muestra
-
-analizada, la cuota de $2,458.45 $2,458.00
+Por los servicios de análisis de laboratorios derivados del cumplimiento de las obligaciones aduaneras, relativas a mercancías estériles, radioactivas o peligrosas, o bien, a consultas sobre clasificación arancelaria, establecidas en la Ley Aduanera, se pagarán por cada muestra analizada, la cuota de: $ 2,458.45
 
 #### SECCION CUARTA. Registro Federal de Vehículos
 
@@ -4263,7 +4309,9 @@ d).- Mayor a 80 y hasta 100 MW $174,645.70 $174,646.00
 
 e).- Mayor a 100 MW $202,158.13 $202,158.00
 
-III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+III.- Por la modificación del título de permiso de generación de energía eléctrica bajo las modalidades de cogeneración, autoabastecimiento, pequeña producción, exportación o importación $ 20,948.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -4275,9 +4323,9 @@ energía eléctrica bajo la modalidad
 
 de producción independiente $41,895.20 $41,895.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-V.- Tratándose de las modalidades de cogeneración o fuentes de energía renovables como hidráulica, eólica, solar, biomasa y biogás:
+V.- Tratándose de las modalidades de cogeneración:
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -4307,9 +4355,9 @@ f).- Mayor a 80 y hasta 100 MW $114,000.00 $114,000.00
 
 g).- Mayor a 100 MW $144,970.00 $144,970.00
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-ARTICULO 56 BIS.- En ningún caso se pagará el derecho de permiso de energía eléctrica por el análisis, evaluación de la solicitud y, en su caso, la expedición o modificación del título de permiso, cuando sea bajo las modalidades de fuentes de energía renovables.
+ARTICULO 56 BIS.- En ningún caso se pagará el derecho de permiso de generación de energía eléctrica por el análisis, evaluación de la solicitud y, en su caso, la expedición o modificación del título de permiso, exclusivamente, cuando sea bajo las modalidades de fuentes de energía renovables.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -4575,9 +4623,11 @@ para el cumplimiento de las
 
 Normas Oficiales Mexicanas $5,351.30 $5,351.00
 
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 61.
 
-(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1987)
+Por el análisis de la solicitud, y en su caso, la expedición del oficio de no inconveniente para la importación o comercialización de productos que utilicen Gas L.P., no sujetos a una Norma Oficial Mexicana, se pagará el derecho conforme a la cuota de: $ 2,631.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -5111,55 +5161,11 @@ XIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 #### SECCION CUARTA. Normas Oficiales
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 73-A.
 
-Por los servicios relativos a la certificación oficial del cumplimiento con las Normas Oficiales Mexicanas de productos, procesos, métodos, instalaciones, servicios o actividades para fines oficiales, o a petición de parte interesada, o de exportación e importación, siempre y cuando en este último caso los productos y servicios a importar deban cumplir con las Normas Oficiales Mexicanas, así como por los servicios relativos a la certificación sobre la elaboración de productos, se pagará el derecho de normas, conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-III.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-IV.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-V.- Por el registro y autorización,
-
-para el uso de las marcas y
-
-contraseñas oficiales $378.77 $379.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-VI.- Expedición de copias
-
-certificadas del certificado de
-
-cumplimiento con Norma
-
-Oficial Mexicana, mediante la
-
-colocación del olograma (sic)
-
-de seguridad, por cada hoja
-
-tamaño carta u oficio $43.57 $44.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-VII.- Por la expedición y
-
-reposición de tarjetas de
-
-certificación electrónica $801.71 $802.00
+Por el trámite y, en su caso, registro y autorización para el uso de las marcas y contraseñas oficiales, se pagarán derechos conforme a la cuota de: $ 379.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -5353,27 +5359,9 @@ para Producir Artículos de
 
 Exportación $888.88 $889.00
 
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
 ###### ARTICULO 74-C.
 
-Por la expedición
-
-de cada tarjeta inteligente del
-
-Sistema Integral de Comercio
-
-Exterior adicional, que se derive
-
-de un Programa de Importación
-
-Temporal para Producir Artículos
-
-de Exportación autorizado $553.71 $554.00
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5561,6 +5549,20 @@ En el caso de solicitud de cancelación de los servicios, cuando ésta se solici
 
 Cuando por causas no imputables a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación no sea posible prestar los servicios, se pagará la totalidad de los derechos que correspondan a los servicios solicitados.
 
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 85-A.
+
+Por los servicios de verificación, inspección, control y vigilancia sanitaria de la importación de animales, sus productos o subproductos, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Por la importación de productos o subproductos de origen animal por cada tonelada o fracción. $ 290.00
+
+II.- Por la importación de animales vivos:
+
+a).- Por cada ejemplar de la especie bovina: $ 50.00
+
+b).- Por cada ejemplar de la especie caprina, ovina, porcina o equina. $ 12.50
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 86.
@@ -5701,45 +5703,9 @@ Por duplicado o renovación de los certificados a que se refiere este artículo,
 
 No se pagará el derecho a que se refiere este artículo por los animales y vegetales, así como sus productos y subproductos que se importen o exporten en forma temporal, así como mascotas, animales de compañía, perros guías para invidentes, muestras médicas y comerciales.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 86-B.
 
-Por la certificación de empresas o establecimientos que realicen actividades en materia de plaguicidas agrícolas, se pagará por cada empresa y, en su caso, establecimiento, el derecho de certificación fitosanitaria en materia de plaguicidas, conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-I.- Por la certificación fitosanitaria de
-
-empresas o establecimientos dedicados
-
-a la explotación, fabricación,
-
-elaboración, formulación, maquila,
-
-mezclado, acondicionamiento,
-
-envasado importación de
-
-plaguicidas agrícolas $10,179.16 $10,179.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Por la certificación fitosanitaria
-
-de empresas o establecimientos
-
-dedicados a la comercialización,
-
-aplicación y distribución de
-
-plaguicidas agrícolas $3,657.73 $3,658.00
-
-Por la renovación o modificación de las certificaciones a que se refiere el presente artículo se cobrará el 50% de la cuota establecida para cada una de ellas.
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5759,13 +5725,7 @@ efectividad biológica de plaguicidas
 
 agrícolas o pecuarios $1,457.17 $1,457.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Por la certificación de estudios
-
-para el establecimiento de límites
-
-máximos de residuos $14,579.08 $14,579.00
+II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -5825,29 +5785,9 @@ productores $502.41 $502.00
 
 Por duplicado o refrendo de la aprobación a que se refiere este artículo se pagará el 50% de la cuota correspondiente.
 
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
 ###### ARTICULO 86-D
 
-1.- Por la autorización
-
-para el funcionamiento de Centros de
-
-Certificación Zoosanitaria, dependientes
-
-de Organismos Coordinadores de
-
-movilización, se pagará el derecho de
-
-autorización de centros de certificación
-
-en materia zoosanitaria, conforme a la
-
-cuota de $394.43 $394.00
+1.- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5867,37 +5807,11 @@ de requisitos técnico-fitosanitarios
 
 para importación $200.91 $201.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Por la expedición de la
-
-hoja de requisitos
-
-técnico-zoosanitarios para
-
-importación y análisis de riesgo $591.65 $592.00
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 86-F.
 
-Por la autorización para el funcionamiento de los laboratorios de diagnóstico clínico y ejercicio de médico verificador en materia zoosanitaria, se pagará el derecho de sanidad fitopecuaria, conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-I.- Laboratorio de diagnóstico
-
-clínico zoosanitario $4,265.24 $4,265.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Médico verificador $415.65 $416.00
-
-Por el duplicado o refrendo de la autorización a que se refiere este artículo se pagará el 50% de la cuota correspondiente.
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 cuota sin cuota con
 
@@ -6007,11 +5921,9 @@ IV.- Copia de la caracterización de
 
 la variedad protegida $255.15 $255.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-V.- Por las correcciones por causa
-
-imputable al usuario $165.78 $166.00
+V.- Por la presentación de correcciones e información adicional por causa imputable al usuario. $ 165.78
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -6695,9 +6607,17 @@ caso, por modificaciones autorizadas
 
 a los mismos $1,060.39 $1,060.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-II.- De servicios de valor agregado $4,080.97 $4,081.00
+II.- De servicios de valor agregado:
+
+a).- Cambio de titular $ 1,505.00
+
+b).- Cambio de domicilio $ 520.00
+
+c).- Cambio o adición de representante legal $ 953.00
+
+d).- Por dos o más modificaciones de las señaladas en los incisos anteriores $ 1,532.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -7213,19 +7133,9 @@ n).- Titularidad de los derechos de
 
 concesión $2,498.28 $2,498.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-III.- Por el otorgamiento de
-
-prórroga para modificaciones
-
-de características técnicas
-
-autorizadas, así como para
-
-cumplir con la documentación
-
-fijada $5,831.10 $5,831.00
+III.- Por el otorgamiento de prórroga para modificaciones de características técnicas autorizadas, así como para cumplir con la documentación fijada en dichas autorizaciones $ 5,831.10
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -7313,9 +7223,9 @@ principal o auxiliar $5,622.07 $5,622.00
 
 b).- Cambio de canal $7,495.48 $7,495.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-c).- Cambio de potencia $7,495.48 $7,495.00
+c).- Cambio de potencia radiada aparente $ 7,495.48
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -7337,9 +7247,9 @@ g).- Por estudio de mediciones de
 
 intensidad de campo $43,737.47 $43,737.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-h).- Distinto (sic) de llamada $1,873.64 $1,874.00
+h).- Distintivo de llamada $ 1,873.64
 
 i).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
@@ -7373,37 +7283,17 @@ m).- Titularidad de los derechos
 
 de concesión $3,747.54 $3,748.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-III.- Por el otorgamiento de
+III.- Por el otorgamiento de prórroga para modificaciones de características técnicas autorizadas, así como para cumplir con la documentación fijada en dichas autorizaciones $ 5,833.11
 
-prórroga para modificaciones de
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-características técnicas autorizadas,
+IV.- Por el estudio de cada solicitud y de la documentación técnica, administrativa y legal inherente a la misma, para instalar y operar un equipo complementario de zona de sombra o un canal adicional para las transmisiones de la televisión digital terrestre $ 3,076.66
 
-así como para cumplir con la
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-documentación fijada $5,833.11 $5,833.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-IV.- Por el estudio de cada solicitud
-
-y de la documentación técnica,
-
-administrativa y legal inherente a la
-
-misma, para instalar y operar una
-
-estación complementaria de zona
-
-de sombra $3,076.66 $3,077.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-V.- Por el estudio de la solicitud del
-
-refrendo de la concesión $7,290.43 $7,290.00
+V.- Por la revisión del cumplimiento de obligaciones por cada estación que esté incluida en la concesión que se pretende refrendar $ 7,290.43
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -7597,11 +7487,9 @@ I.- De conmutadores hasta
 
 de 30 líneas $2,947.79 $2,948.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-II.- De equipo transreceptor de
-
-radioenlace de 30 canales $4,407.65 $4,408.00
+II.- De equipo transreceptor de radioenlace de hasta 30 canales o 2 megabits por segundo (mbps) $ 4,407.65
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -7609,11 +7497,9 @@ III.- De conmutadores de 31
 
 hasta 60 líneas $5,138.87 $5,139.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-IV.- De equipo transreceptor de
-
-radioenlace de 60 canales $7,694.92 $7,695.00
+IV.- De equipo transreceptor de radioenlace de más de 30 y hasta 60 canales o 2x2 megabits por segundo (mbps) $ 7,694.92
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -7621,11 +7507,9 @@ V.- De conmutadores de 61
 
 hasta 120 líneas $9,523.59 $9,524.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-VI.- De equipo transreceptor de
-
-radioenlace de 120 canales $14,279.70 $14,280.00
+VI.- De equipo transreceptor de radioenlace de más de 60 y hasta 120 canales o 4x2 megabits por segundo (mbps) $ 14,279.70
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -7633,11 +7517,9 @@ VII.- De conmutadores de 121
 
 hasta 240 líneas $13,914.72 $13,915.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-VIII.- De equipo transreceptor de
-
-radioenlace de 240 canales $20,855.51 $20,856.00
+VIII.- De equipo transreceptor de radioenlace de más de 120 y hasta 240 canales u 8x2 megabits por segundo (mbps) $ 20,855.51
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -7645,11 +7527,9 @@ IX.- De conmutadores de
 
 más de 240 líneas $23,050.43 $23,050.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-X.- De equipo transreceptor de radio
-
-enlace de más de 240 canales $34,567.38 $34,567.00
+X.- De equipo transreceptor de radio enlace de más de 240 canales o de más de 8x2 megabits por segundo (mbps) $ 34,567.38
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -7743,11 +7623,9 @@ digitales, celulares y sistemas
 
 personales de comunicación $4,407.65 $4,408.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-XXVII.- De MODEM
-
-(300 a 14,400 bits/s) $4,407.65 $4,408.00
+XXVII.- De módem $ 4,407.65
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -7811,19 +7689,21 @@ inalámbrico $7,700.03 $7,700.00
 
 XXXIX.- De equipos multilíneas $7,700.03 $7,700.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-XL.- Otros equipos no contemplados
+XL.- Otros equipos no contemplados en este apartado $ 3,901.02
 
-en este artículo $3,901.02 $3,901.00
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Por la expedición de un certificado de homologación definitivo, a solicitud del interesado, cuando se haya expedido uno provisional y no se hayan modificado las características técnicas y operativas autorizadas en éste, se cobrará el 50% de la cuota establecida en este apartado.
+Por la expedición de un certificado de homologación definitivo, con antecedentes de homologación y presente pruebas fehacientes del funcionamiento del equipo, estipulado en el proceso de homologación vigente, se pagará el equivalente al 50% de las cuotas establecidas según el producto a homologar establecido en este apartado.
 
-Por la expedición de un certificado de homologación definitivo, cuando se presente constancia o dictamen de que el equipo cumple con las normas técnicas nacionales y recomendaciones internacionales aceptadas por la Secretaría de Comunicaciones y Transportes y, en forma previa no se haya expedido uno provisional, se pagará el equivalente al 100% de las cuotas establecidas en este apartado.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+Por la primera o segunda renovación de un certificado de homologación provisional, cuando no se hayan modificado las características técnicas y operativas autorizadas, se pagará la cuota de: $ 1,950.00
 
-Por la renovación o ampliación de un certificado de homologación provisional, cuando no se hayan modificado las características técnicas y operativas autorizadas, se pagará el 50% de la cuota establecida en este apartado.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+Por la expedición de una ampliación a un certificado de homologación provisional o definitivo, cuando el equipo no cambie de normatividad y se trate del mismo equipo homologado, se pagará la cuota de: $ 1,950.00
 
 ###### ARTICULO 139.
 
@@ -8031,991 +7911,147 @@ de la señal de televisión $6,223.23 $6,223.00
 
 #### SECCION QUINTA. Autotransporte Federal y Servicios Auxiliares
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 148.
 
-Por los servicios que se presten por la operación del autotransporte federal en caminos de jurisdicción federal y servicios auxiliares, se pagarán derechos conforme a las siguientes cuotas:
+Por los servicios que se presten por la operación del autotransporte federal y sus servicios auxiliares, en caminos de jurisdicción federal, se pagarán derechos conforme a las siguientes cuotas:
 
-cuota sin cuota con
+A. Por los servicios relacionados con la expedición de:
 
-ajuste ajuste
+I.- Permisos:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+a).- Para la operación y explotación de los servicios de autotransporte federal de pasajeros y turismo, en sus distintas modalidades, carga general, fondos y valores, automóviles sin rodar en vehículo tipo góndola; de carga especializada de materiales y residuos peligrosos; de explosivos; especial por un año para grúas industriales del servicio de autotransporte federal; especial para el autotransporte de objetos voluminosos o de gran peso por un solo viaje por unidad; para complementar la ruta autorizada por concesiones o permisos estatales, por vehículo; para el servicio de paquetería y mensajería; para operar el servicio de arrastre, arrastre y salvamento de vehículos; para operar depósitos de vehículos; para el autotransporte internacional de pasajeros, turismo y carga; para operar servicios transfronterizos de carga y pasaje en sus diversas modalidades; para operar servicios transfronterizos de turismo, por permiso. $ 402.00
 
-A.- Por los servicios relacionados con la expedición de:
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-I.- Por la calcomanía de identificación
-
-Vehicular $88.66 $89.00
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+b).- Para la construcción, operación y explotación de terminales de pasajeros del autotransporte federal, por permiso. $ 1,277.00
 
 II.- Autorizaciones:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+a).- Para la cesión de derechos y obligaciones establecidos en los permisos, por trámite. $ 1,345.00
 
-a).- Para la cesión de derechos y
+b).- Para el traslado de mancuernas, tricuernas, cuatricuernas y pentacuernas, por permiso. $ 1,186.00
 
-obligaciones establecidos en los
+c).- Para el inicio de operación de terminal de autotransporte de pasajeros, por autorización:
 
-permisos $1,344.64 $1,345.00
+1.- Central. $ 7,719.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+2.- Individual. $ 1,376.00
 
-b).- Para la celebración de convenios
+III.- Placas metálicas, calcomanía de identificación vehicular y tarjeta de circulación:
 
-entre transportistas para la prestación
+a).- Expedición o reposición de placas para automotor, remolque y semirremolque, para los servicios de autotransporte federal en sus diversas modalidades, servicios auxiliares y de arrendamiento, por placa. $ 550.00
 
-de servicios de una misma clase y
+b).- Expedición de calcomanía de identificación vehicular, por calcomanía. $ 89.00
 
-enrolar sus vehículos en la ruta que
+c).- Expedición o revalidación de la tarjeta de circulación para automotor, remolque y semirremolque, para los servicios de autotransporte federal en sus diversas modalidades, servicios auxiliares y de arrendamiento, por tarjeta. $ 319.00
 
-tengan autorizada $1,356.67 $1,357.00
+1.- Por la modificación o reposición de la tarjeta de circulación, por tarjeta. $ 128.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+B. Canje de placas metálicas y calcomanías de identificación:
 
-c).- Para el traslado de mancuernas,
+I.- Canje de placas metálicas y calcomanías de identificación para automotores del servicio de carga, pasajeros, turismo, servicios auxiliares, arrendamiento y traslado, por vehículo. $ 1,122.00
 
-tricuernas, cuatricuernas y
+II.- Canje de placa metálica y calcomanía de identificación para remolque y semirremolque, por vehículo. $ 559.00
 
-pentacuernas, por anualidad $1,186.00 $1,186.00
+C. Licencias para conducir:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+a).- Expedición. $ 283.00
 
-d).- Verificación técnica de las
+b).- Refrendo. $ 76.00
 
-condiciones físicas del vehículo $269.20 $269.00
+c).- Expedición de categoría adicional de licencia. $ 90.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+d).- Renovación. $ 171.00
 
-e).- Para eventos deportivos
+e).- Duplicado. $ 171.00
 
-o culturales $475.95 $476.00
+Las cuotas a que se refiere este apartado, se aplicarán por servicio prestado, no debiendo pagarse los refrendos o renovación vencidos.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+D. Servicios diversos:
 
-f).- Para utilizar torretas en carro piloto $500.18 $500.00
+I.- Alta de vehículos:
 
-g).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
+a).- Alta de vehículo automotor, remolque o semirremolque en el permiso de los servicios de autotransporte federal y servicios auxiliares, por unidad; alta de vehículo automotor, remolque o semirremolque y automóvil para uso particular en el registro de arrendamiento, por vehículo. $ 413.00
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+b).- Alta de vehículo automotor, remolque o semirremolque en arrendamiento en el permiso de los servicios de autotransporte federal y servicios auxiliares, a través de medios electrónicos, por vehículo. $ 150.00
 
-h).- Para el inicio de operación de
+II.- Bajas de vehículos:
 
-terminal de autotransporte de
+a).- Baja por cambio de vehículo para los servicios de transporte de o hacia puertos marítimos y aeropuertos federales, por vehículo. $ 653.00
 
-pasajeros central $7,719.18 $7,719.00
+b).- Baja definitiva, por vehículo. $ 202.00
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+III.- Suscripción de convenio anual celebrado por la Secretaría de Comunicaciones y Transportes con las empresas fabricantes y distribuidoras de vehículos nuevos y empresas trasladistas, por convenio. $ 90.00
 
-Se entenderá por terminal de autotransporte federal central las que son utilizadas por varios permisionarios.
+IV.- Expedición y reposición de placas metálicas de identificación de traslado a empresas armadoras o distribuidoras trasladistas de vehículos nuevos:
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+a).- Por el pago de la renta mensual de placas de traslado, por vehículo. $ 448.00
 
-i).- Para el inicio de operación de
+b).- Expedición o reposición de placa metálica de identificación de traslado, por vehículo. $ 544.00
 
-terminal de autotransporte de
+V.- Por el otorgamiento de cada juego de calcomanías y certificado de baja emisión de contaminantes, que se entregue a los centros de verificación de emisiones contaminantes de los vehículos de pasaje y carga. $ 10.00
 
-pasajeros individual $1,375.59 $1,376.00
+VI.- Registros:
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+a).- De horario para los servicios de autotransporte federal de pasaje, por ruta. $ 100.00
 
-Se entenderá por terminal de autotransporte federal individual la que es utilizada por un solo permisionario.
+b).- De escrituras constitutivas o actas de asamblea, incluidas sus modificaciones de empresas de autotransporte federal, de arrendadoras de remolques, semirremolques, automóviles y vehículos automotores con placas del servicio de autotransporte federal, por empresa. $ 100.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+c).- De empresas fabricantes de placas y/o calcomanías, y asignación de número para su control, por empresa. $ 6,577.00
 
-j).- Para el inicio de operación de
+d).- Para la celebración de convenios entre transportistas para la prestación de servicios de una misma clase y enrolar sus servicios en la ruta que tengan autorizada, por convenio. $ 1,357.00
 
-terminal de carga del autotransporte
+VII.- Reconocimientos:
 
-federal $1,290.86 $1,291.00
+a).- Reconocimiento para instructores de conductores del servicio de autotransporte federal o transporte privado, por instructor. $ 139.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+b).- Reconocimiento para operar un centro de capacitación y adiestramiento de conductores del servicio de autotransporte federal, y transporte privado, por centro. $ 734.00
 
-III.- Permisos:
+VIII.- Por el estudio y, en su caso, aprobación de la instalación de unidades de verificación o laboratorios de prueba, por unidad. $ 765.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-a).- De modalidades particulares
-
-especializado por vehículo $672.55 $673.00
-
-b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-c).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
-
-d).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
-
-e).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-f).- Para complementar la ruta
-
-autorizada por concesiones o
-
-permisos estatales, por vehículo $640.31 $640.00
-
-g).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-h).- (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-i).- Por cambio de propietario,
-
-derivado de cesión de derechos,
-
-por cada unidad $157.55 $158.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-j).- Especial para el autotransporte de
-
-objetos voluminosos o de gran peso
-
-por un solo viaje, por unidad $404.18 $404.00
-
-k).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-l).- Para el autotransporte internacional
-
-de pasajeros, turismo y carga,
-
-por vehículo $1,138.23 $1,138.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-m).- Para operar depósitos
-
-de vehículos $1,555.63 $1,556.00
-
-1.- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-2.- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-n).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-ñ).- Por la operación y explotación
-
-de los servicios de autotransporte
-
-federal de carga, pasajeros y turismo $1,198.06 $1,198.00
-
-o).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-p).- Para el transporte de materiales
-
-peligrosos y sus residuos $1,249.00 $1,249.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-q).- Para el transporte de explosivos $1,248.13 $1,248.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-r).- Especial por un año para grúas
-
-industriales del servicio de
-
-autotransporte federal $454.23 $454.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-s).- Para operar servicios transfronterizos
-
-en sus diversas modalidades $401.88 $402.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-t).- Para la construcción, operación y
-
-explotación de terminales de pasajeros
-
-y de carga, del autotransporte federal. $1,277.00 $1,277.00
-
-u).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
-
-v).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-w).- Para operar y explotar el
-
-servicio de paquetería y mensajería
-
-o servicios auxiliares $562.71 $563.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-x).- Para operar el servicio de
-
-arrastre, arrastre y salvamento
-
-de vehículos $562.71 $563.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-y).- Para instalar unidades de
-
-verificación o laboratorios de prueba $764.55 $765.00
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-IV.- Placas metálicas de identificación:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-a).- Para automotor, remolque y
-
-semirremolque, para los servicios
-
-de autotransporte federal en sus
-
-diversas modalidades o de
-
-arrendamiento por placa $562.71 $563.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-b).- Reposición de placa metálica de
-
-identificación por robo, extravío,
-
-mutilación o ilegibilidad, por cada una $538.46 $538.00
-
-c).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-Cuando los trámites a que se refiere esta fracción sean realizados con motivo de la alta de unidades de autotransporte federal, dentro de los seis meses inmediatos anteriores al término del año correspondiente, se pagará el 50% de los derechos, siempre y cuando esté próximo a efectuarse el canje de placas metálicas de identificación y calcomanías.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-V.- Por la expedición, reposición o modificación de tarjeta de circulación para el servicio de autotransporte federal de carga, pasaje, turismo, servicios auxiliares y arrendamiento:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-a).- Por la expedición de tarjeta
-
-de circulación para automotores
-
-remolques y semirremolques
-
-para el servicio de autotransporte
-
-federal, servicios auxiliares y de
-
-arrendamiento $318.97 $319.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-b).- Por la modificación o reposición
-
-de la tarjeta de circulación para
-
-automotores remolques y
-
-semirremolques de los servicios
-
-de autotransporte federal y servicios
-
-auxiliares y de arrendamiento $127.57 $128.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-c).- Revalidación de tarjeta de circulación
-
-para los vehículos automotores,
-
-remolques y semirremolques para los
-
-vehículos de servicio de autotransporte
-
-federal en sus diversas modalidades
-
-dentro del plazo señalado $558.70 $559.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-d).- Revalidación de tarjeta de
-
-circulación para los vehículos
-
-automotores remolques y
-
-semirremolques para los vehículos
-
-de servicio de autotransporte federal
-
-en sus diversas modalidades,
-
-después del plazo señalado $671.23 $671.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-e).- Revalidación de tarjeta de
-
-circulación para los vehículos
-
-automotores, remolques y
-
-semirremolques, para los vehículos
-
-del servicio de autotransporte
-
-federal en sus diversas modalidades,
-
-por cada año revalidado $785.81 $786.00
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-B.- Canje de placas metálicas y calcomanías de identificación:
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-I.- Canje de placas metálicas de identificación y calcomanías de identificación para automotores del servicio de carga, pasajeros, turismo, servicios auxiliares y arrendamiento:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-a).- Dentro del plazo señalado $1,121.52 $1,122.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-b).- Después del plazo señalado $1,457.17 $1,457.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-c).- Por cada año que no lo hayan
-
-efectuado $1,792.90 $1,793.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-II.- Canje de placa metálica y calcomanía de identificación para remolque y semirremolque:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-a).- Dentro del plazo señalado $558.70 $559.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-b).- Después del plazo señalado $671.23 $671.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-c).- Por cada año que no se haya
-
-efectuado $785.81 $786.00
-
-C.- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-D.- Licencias para conducir:
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-I.- Licencias:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-a).- Expedición $564.91 $565.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-b).- Refrendo $151.79 $152.00
-
-c).- (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-d).- Expedición por cambio de
-
-categoría adicional de licencias $178.59 $179.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-e).- Reexpedición $341.96 $342.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-f).- Duplicado $341.59 $342.00
-
-II.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-E.- Servicios diversos:
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-I.- Alta de vehículo automotor,
-
-remolque o semirremolque en el
-
-permiso de los servicios de
-
-autotransporte federal y servicios
-
-auxiliares, por unidad $413.34 $413.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Alta de vehículo automotor,
-
-remolque o semirremolque y
-
-automóvil para uso particular en el
-
-registro de arrendamiento, por unidad $413.34 $413.00
-
-III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-IV.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-V.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-VI.- Bajas de vehículos:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-a).- Baja por cambio de vehículo para
-
-los servicios de chofer-guía, transporte
-
-de o hacia puertos marítimos y
-
-aeropuertos federales; y arrendamiento
-
-de automóviles para uso particular $653.33 $653.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-b).- Definitiva $201.52 $202.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-VII.- Suscripción de convenio anual
-
-celebrado por la Secretaría de
-
-Comunicaciones y Transportes con
-
-las empresas fabricantes y
-
-distribuidoras de vehículos nuevos,
-
-y empresas trasladistas $90.31 $90.00
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-VIII.- Expedición y reposición de placas metálicas de identificación de traslado a empresas armadoras o distribuidoras trasladistas de vehículos nuevos:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-a).- Por el pago de la renta mensual
-
-de placas de traslado $448.11 $448.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-b).- Expedición de placa metálica
-
-de identificación $543.57 $544.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-IX.- Reposición de placa metálica de
-
-identificación para automotor, remolque
-
-o semirremolque, por placa $1,121.13 $1,121.00
-
-X.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-XI.- (DEROGADA, D.O.F. 18 DE DICIEMBRE DE 1992)
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-XII.- Inspecciones y revistas:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-a).- Inspección a personas físicas y
-
-morales del servicio federal de
-
-autotransporte, cuando la inspección
-
-exceda de 5 días hábiles, se pagará
-
-por día adicional $427.56 $428.00
-
-b).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1999)
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-XIII.- Por el otorgamiento de cada juego
-
-de calcomanías y certificado de baja
-
-emisión de contaminantes, que se
-
-entregue a los centro de verificación
-
-de emisiones contaminantes de los
-
-vehículos de pasaje y carga $9.96 $10.00
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XIV.- Registros:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-a).- De horario para los servicios de
-
-autotransporte federal de pasaje $100.40 $100.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-b).- De escrituras constitutivas y actas
-
-de asamblea de empresas de
-
-autotransporte federal en sus diversas
-
-modalidades $100.40 $100.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-c).- De actas constitutivas de empresas
-
-dedicadas al arrendamiento de remolques,
-
-semirremolques, automóviles y vehículos
-
-automotores con placas del servicio de
-
-autotransporte federal $100.40 $100.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-d).- Registro y asignación de número
-
-para empresas fabricantes de placas
-
-o calcomanías $6,577.05 $6,577.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-e).- Reconocimiento oficial de la
-
-Secretaría de Comunicaciones y
-
-Transportes para instructor de
-
-conductores del servicio de
-
-autotransporte federal y privado $139.03 $139.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-f).- Reconocimiento oficial de la
-
-Secretaría de Comunicaciones y
-
-Transportes para operar un centro
-
-de capacitación y adiestramiento de
-
-conductores del servicio de
-
-autotransporte federal y privado $733.72 $734.00
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 149.
 
-Por los servicios que se presten para la operación del autotransporte privado en caminos de jurisdicción federal, se pagarán derechos conforme a las siguientes cuotas:
+Por los servicios que se presten para la operación del transporte privado en caminos de jurisdicción federal, se pagarán derechos conforme a las siguientes cuotas:
 
-cuota sin cuota con
+I.- Expedición de permiso para transporte privado, por permiso. $ 1,145.00
 
-ajuste ajuste
+II.- Expedición de la tarjeta de circulación para el transporte privado, por tarjeta. $ 671.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+III.- Reposición o modificación de la tarjeta de circulación para el transporte privado, por tarjeta. $ 205.00
 
-I.- Por la expedición de la tarjeta de
+IV.- Revalidación de la tarjeta de circulación para el transporte privado, por tarjeta. $ 550.00
 
-circulación para el autotransporte
+V.- Alta de vehículo automotor, remolque o semirremolque en el permiso de transporte privado de personas o carga, por vehículo. $ 413.00
 
-privado, en caminos de jurisdicción
+VI.- Permiso para el transporte de materiales peligrosos y sus residuos, por permiso. $ 1,249.00
 
-federal $671.17 $671.00
+VII.- Permiso especial por un año para el tránsito de grúas industriales del servicio privado, por vehículo, por permiso. $ 402.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Por la reposición o modificación
-
-de la tarjeta de circulación para
-
-el autotransporte privado, en
-
-caminos de jurisdicción federal $205.40 $205.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-III.- Por revalidación de la tarjeta
-
-de circulación para el autotransporte
-
-privado, de jurisdicción federal $549.96 $550.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-IV.- Expedición de permiso de
-
-traslado por un solo viaje para
-
-vehículo privado que transite vacío $134.27 $134.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-V.- Alta de vehículo automotor,
-
-remolque o semirremolque en el
-
-permiso de transporte privado de
-
-personas o carga, por unidad $413.34 $413.00
-
-VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-VII.- Permiso por un solo viaje
-
-para vehículo privado de
-
-autotransporte de objetos
-
-voluminosos o de gran
-
-peso, con exceso de peso
-
-o dimensión $382.82 $383.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-VIII.- Permiso para el transporte de
-
-materiales peligrosos y sus
-
-residuos $1,249.00 $1,249.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-IX.- Permiso especial por un año
-
-para el tránsito de grúas
-
-industriales del servicio privado,
-
-por vehículo $401.88 $402.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-X.- Por expedición de permiso
-
-para transporte privado $1,144.63 $1,145.00
+VIII.- Permiso por un solo viaje para vehículos privados de autotransporte de objetos voluminosos o de gran peso, con exceso de peso o dimensión, por permiso. $ 383.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 #### SECCION SEXTA. Servicios a la Navegación en el Espacio Aéreo Mexicano y Técnicos Aeronáuticos
 
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
 ###### ARTICULO 150.
 
-Por los servicios que presta el órgano desconcentrado denominado Servicios a la Navegación en el Espacio Aéreo Mexicano (SENEAM), se pagarán los siguientes derechos por los servicios de navegación aérea. El pago de los derechos es optativo por cualquiera de los dos siguientes regímenes, sin que dos o más aeronaves de una misma persona física o moral, nacional o extranjera, puedan estar sujetas a distintos regímenes, con excepción de lo dispuesto en el artículo 150-B, fracción II de esta Ley.
-
-I.- Régimen I: A través de las cuotas que señala el artículo 150-A, para cualquier aeronave nacional o extranjera.
-
-II.- Régimen II: A través de cada litro de combustible suministrado a las aeronaves, señalado en el artículo 150-B, para cualquier aeronave nacional o extranjera.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-El pago por los servicios a la navegación aérea, habrá de aplicarse a todos los vuelos realizados en el espacio aéreo mexicano por aeronaves mexicanas y extranjeras, que comprenden:
-
-a).- Aeronaves civiles, que podrán ser:
-
-1. De servicio al público: las empleadas para la prestación al público de un servicio de transporte aéreo regular o no regular, nacional o internacional.
-
-2. Privadas: las utilizadas para usos comerciales diferentes al servicio público o para el transporte particular sin fines de lucro.
-
-b).- Aeronaves de Estado, que podrán ser:
-
-1. Las de propiedad o uso de la Federación distintas de las militares, las de gobiernos estatales, gobierno del Distrito Federal, gobiernos municipales; y las de las entidades paraestatales.
-
-2. Las militares, que son las destinadas o en posesión del Ejército, Armada y Fuerza Aérea Nacionales.
-
-c).- Aeronaves extranjeras civiles y de Estado.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-Para los efectos del artículo 150-A de esta Ley, el derecho se pagará mensualmente, desglosando las operaciones efectuadas en el mes, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria, dentro de los diez días del mes siguiente a aquel en que corresponda el pago.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-Asimismo, el usuario deberá presentar a SENEAM dentro de los cinco días siguientes de efectuado el pago, copia de la Declaración General de Pago de Derechos con el sello legible de la Institución Bancaria, así como el archivo electrónico que contenga los datos de las operaciones que dieron lugar al pago del derecho.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-SENEAM verificará la información entregada por el usuario, y en caso de existir diferencias en el entero del derecho, se solicitará la aclaración respectiva; en el supuesto de que subsistan las diferencias, el contribuyente deberá realizar el pago del derecho dentro de los tres días siguientes a la aclaración, debiendo enterar dicho pago con los accesorios que se hubieren generado, de lo contrario, SENEAM informará esta situación al Servicio de Administración Tributaria, para que realice el requerimiento de pago del derecho que corresponda. Si el contribuyente tuviera saldo a favor, dicho saldo podrá compensarse contra el pago de derechos correspondiente al mes inmediato posterior a la aclaración señalada en este párrafo.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-En el supuesto de que el usuario incumpliera en la presentación del comprobante de pago o de la relación que contenga el cálculo de las operaciones realizadas, SENEAM comunicará al usuario la suspensión de los servicios, atendiendo lo dispuesto en el último párrafo del artículo 3° de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-La persona física o moral, nacional o extranjera, que no dé aviso a SENEAM para sujetarse a lo dispuesto por las fracciones I o II de este artículo, en un término de treinta días siguientes a partir de la fecha de autorización del permiso expedido por la Dirección General de Aeronáutica Civil, deberá sujetarse a lo dispuesto en la fracción II del mismo. Asimismo aquellos que deseen cambiar de régimen, lo podrán hacer presentando su solicitud por escrito a SENEAM, dentro de los treinta días siguientes al inicio de cada ejercicio fiscal.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Una vez que el usuario haya manifestado a SENEAM el régimen elegido, no podrá cambiar al otro régimen, sino hasta el inicio del ejercicio fiscal siguiente.
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 150-A.
 
-Por la prestación de los servicios en el espacio aéreo mexicano para las aeronaves nacionales o extranjeras a través del régimen I a que se refiere el artículo anterior, el usuario calculará el derecho conforme a lo siguiente:
-
-El monto de las cuotas señaladas por los servicios que se proporcionan en los aeropuertos de origen y destino, y kilómetro volado en distancia ortodrómica se sumarán y el resultado se multiplicará por el factor correspondiente a la clasificación por peso de aeronave, de conformidad con lo siguiente:
-
-I.- Para los servicios en el aeropuerto de origen y de destino, se aplicarán las siguientes cuotas:
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-Grupo de Aeropuertos Aeropuerto de Origen Aeropuerto de Destino
-
-I. $204.77 $132.48
-
-II. $330.05 $260.17
-
-III. $337.27 $267.39
-
-IV. $358.95 $286.69
-
-V. $364.60 $292.35
-
-Los servicios proporcionados en los aeropuertos de origen y destino incluyen:
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-a).- En todos los aeropuertos, el servicio de comunicaciones aire-tierra-aire y tierra-tierra para la coordinación con la torre de control de tránsito aéreo, la información meteorológica mínima requerida por ley para la realización del vuelo y la información de mapas de presión constante, de superficie, de vientos superiores, FAMX'S y FTMX'S, cuando sean requeridos por el usuario en el Centro de Análisis y Pronósticos Meteorológicos Aeronáuticos (CAPMA), del aeropuerto de la Ciudad de México.
-
-b).- En los aeropuertos del grupo I, los servicios de información de vuelo y/o VOR DME y/o NDB.
-
-c).- En los aeropuertos del grupo II, los servicios de control de tránsito aéreo de aeródromo VOR DME y/o NDB.
-
-d).- En los aeropuertos del grupo III, los servicios de control de tránsito aéreo de aeródromo, control de tránsito aéreo de aproximación manual, VOR DME y/o NDB.
-
-e).- En los aeropuertos del grupo IV, los servicios de control de tránsito aéreo de aeródromo, control de tránsito aéreo de aproximación radar, VOR DME y/o NDB y/o ILS.
-
-f).- En el aeropuerto del grupo V, los servicios de control de tránsito aéreo de aeródromo, control de tránsito aéreo de aproximación radar terminal, VOR DME, 2 sistemas ILS y 9 sistemas VOR, DME de apoyo para el área terminal de México.
-
-En caso de operaciones en aeropuertos no controlados por SENEAM, el valor del concepto de aeropuerto de origen y/o destino, según sea el caso, será igual a cero.
-
-II.- Los servicios en los aeropuertos de origen y de destino, se clasifican en los siguientes grupos de aeropuertos:
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Clasificación de Aeropuertos
-
-Grupo I Grupo II Grupo III Grupo IV Grupo V
-
-Palenque Aguascalientes Cd. Juárez Acapulco México
-
-Poza Rica Apto. Del Norte Culiacán Bajío
-
-San
-
-Cristóbal Campeche La Paz Cancún
-
-Cd. del Carmen Los Cabos Chihuahua
-
-Cd. Obregón Manzanillo Cozumel
-
-Cd. Victoria Matamoros Guadalajara
-
-Colima Mazatlán Hermosillo
-
-Cuernavaca Morelia Mérida
-
-Chetumal Nuevo Laredo Monterrey
-
-Chichén Itzá Oaxaca Puerto
-
-Vallarta
-
-Durango Puebla
-
-Guaymas Reynosa Tijuana
-
-Huatulco San Luis Potosí Toluca
-
-Loreto Tampico
-
-Los Mochis Torreón
-
-Mexicali Tuxtla Gutiérrez
-
-Minatitlán Veracruz
-
-Puerto Escondido Villahermosa
-
-Querétaro Zihuatanejo
-
-Tapachula
-
-Tepic
-
-Uruapan
-
-Zacatecas
-
-Guaymas
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-III.- Por los servicios de aeronavegación, se aplicará la cuota de $ 2.71 pesos por kilómetro volado de distancia ortodrómica, misma que se calculará conforme a los siguientes criterios:
-
-a).- Vuelos Nacionales: medidos por la distancia ortodrómica entre el aeropuerto de origen y el aeropuerto de destino.
-
-b).- Vuelos Internacionales: medidos por la distancia ortodrómica desde el punto de entrada o salida de la región de información de vuelo (FIR), hasta el aeropuerto de destino u origen nacional.
-
-c).- Sobrevuelos Internacionales: medidos por la distancia ortodrómica desde el punto de entrada al FIR hasta la salida del mismo.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Los servicios a que se refiere esta fracción, incluyen vigilancia con sistemas de radar en los centros de control de tránsito aéreo, sistemas VOR DME para el balizamiento de aerovías y torres de control para los contactos aire-tierra-aire en el trayecto del vuelo.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Las distancias ortodrómicas que se apliquen para el cálculo de los derechos de este artículo, serán las autorizadas a SENEAM por la Dirección General de Aeronáutica Civil, mismas que podrán ser revisadas una vez al año y se publicarán en el Diario Oficial de la Federación.
-
-IV.- Clasificación por peso de aeronave:
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Grupo Rango Factor
-
-A Hasta 20 toneladas 0.450
-
-B De 20.01 hasta 40 toneladas 0.820
-
-C De 40.01 hasta 60 toneladas 1.000
-
-D De 60.01 hasta 80 toneladas 1.110
-
-E De 80.01 hasta 100 toneladas 1.250
-
-F De 100.01 hasta 120 toneladas 1.480
-
-G De 120.01 hasta 160 toneladas 1.700
-
-H De 160.01 hasta 220 toneladas 1.780
-
-I De más de 220 toneladas 1.840
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Para la clasificación de los grupos de peso de aeronaves, se considerarán los pesos promedio que se determinen entre el peso cero combustible (MZFW) y el peso máximo estructural de despegue (MTOV), para un mismo modelo y serie de aeronave (en los casos en que para un mismo modelo y serie de aeronave se obtengan distintos pesos promedio, se aplicará el mínimo de ellos), que la Dirección General de Aeronáutica Civil autorice a SENEAM, mismos que podrán ser revisados una vez al año y se publicarán en el Diario Oficial de la Federación.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-V.- El usuario que opte por el pago del derecho mediante este régimen y que lleve a cabo vuelos locales, ya sea de prueba, enseñanza o entrenamiento, que por algún motivo regresen a aterrizar al aeropuerto de origen, se tomará en consideración para la aplicación del régimen I, lo siguiente:
-
-a).- Las cuotas de aeropuerto de origen y de destino, serán las correspondientes al aeropuerto donde se realice la operación.
-
-b).- La distancia ortodrómica por kilómetro volado, se calculará aplicando por cada hora de vuelo 300 kilómetros de recorrido o su equivalente para las fracciones de hora.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-VI.- El usuario, que decida realizar el pago de servicios a la navegación en el espacio aéreo mexicano, mediante el régimen I deberá de presentar solicitud por escrito a SENEAM, anexando la siguiente documentación:
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-a).- Copia de la Cédula del Registro Federal de Contribuyentes.
-
-b).- Copias de los certificados de aeronavegabilidad.
-
-c).- Copia del manual de las aeronaves, donde aparece el peso máximo estructural de despegue (MTOW) y el peso cero combustible (MZFW).
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-d).- Copias de los Permisos expedidos por la Dirección General de Aeronáutica Civil para explotar el servicio público o privado comercial de transporte aéreo; en el caso de transporte aéreo privado no comercial y de aeronaves del Estado, deberá presentar el Certificado de Matrícula.
-
-VII.- El usuario, que se encuentre en el supuesto establecido en este artículo, deberá de calcular y enterar el derecho, desglosando los conceptos, mediante pagos mensuales, dentro de los diez días siguientes al periodo mensual en que reciba los servicios por los que se pagan los derechos.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-VIII.- Los servicios que se proporcionen a las aeronaves incluidas en este artículo en un aeropuerto controlado por SENEAM, con destino a una plataforma o helipuerto dentro del territorio nacional, pagarán una distancia ortodrómica equivalente a 15 Kilómetros por tramo volado de llegada o salida, independientemente de las cuotas del aeropuerto de origen y de destino.
-
-Lo señalado en éste artículo, es independiente del cobro por los servicios de extensión de horario que deban hacerse.
-
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 3 DE MAYO DE 2004)
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 150-B.
 
-Las aeronaves nacionales o extranjeras, por la prestación de los servicios en el espacio aéreo mexicano en el régimen II a que se refiere el artículo 150, pagarán una cuota a razón de $ 0.80 pesos por cada litro de combustible que les sea suministrado, mismo que será independiente del precio del combustible vigente al momento del abasto.
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-I.- Esta cuota se aplicará en los aeropuertos en donde SENEAM tenga los siguientes servicios y sistemas:
-
-a).- Servicios de control de tránsito aéreo;
-
-b).- Sistemas de Navegación aérea; y
-
-c).- Servicios de Meteorología.
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-II.- Para los efectos de este artículo, el pago de los derechos deberá realizarse en efectivo al concesionario que suministre el combustible a las aeronaves, en el momento del abasto en aeropuertos en donde SENEAM presta servicios.
-
-III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-Las aeronaves que realicen sobrevuelos internacionales en el espacio aéreo mexicano sujetas a este régimen, calcularán y pagarán este derecho, de conformidad a los lineamientos establecidos en el artículo 150-A, fracción III, inciso c) de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
-Lo señalado en éste artículo, es independiente del cobro por los servicios de extensión de horario que deban hacerse.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-De los ingresos que se obtengan por la recaudación del derecho a que se refiere este artículo, se destinará hasta el 2% de los mismos a SENEAM, para cubrir las obligaciones contraídas por motivo de la recaudación de este derecho.
-
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 150-C.
 
-Por los servicios que presta SENEAM fuera del horario oficial de operaciones de los aeropuertos, se pagarán derechos conforme a las siguientes cuotas:
+Por los servicios que presta el órgano desconcentrado denominado Servicios a la Navegación en el Espacio Aéreo Mexicano (SENEAM) fuera del horario oficial de operaciones de los aeropuertos, se pagarán derechos conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
@@ -9041,9 +8077,9 @@ por cada minuto o fracción,
 
 conforme a la cuota de $8.00 $8.00
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Tratándose de los derechos a que se refiere este artículo, los usuarios con operaciones no regulares deberán de presentar el pago correspondiente por cada aeronave, en las oficinas autorizadas por el Servicio de Administración Tributaria, al día siguiente de haberse proporcionado dichos servicios. Los usuarios que hayan optado por pagar los derechos en los términos del artículo 150-A, o que se encuentren en el supuesto del artículo 150-B, fracción III de esta misma Ley, podrán calcular y enterar el derecho desglosando los conceptos, mediante pagos mensuales, dentro de los diez días siguientes al periodo mensual en que se reciban los servicios por los que se paga el derecho.
+Tratándose de los derechos a que se refiere este artículo, los usuarios con operaciones no regulares deberán calcular y enterar el pago correspondiente por cada aeronave, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria, al día siguiente de haberse proporcionado dichos servicios. Asimismo, los contribuyentes con operaciones regulares podrán pagar el derecho mensualmente por cada aeronave mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria dentro de los diez días del mes siguiente a aquél en que se reciban los servicios, anexando un desglose que contenga las operaciones efectuadas en el mes por cada aeronave.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -9335,21 +8371,31 @@ No se pagarán los derechos a que se refiere el Apartado C de este artículo, cu
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1987)
 
-> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 152.
 
-No se pagarán los derechos a que se refieren los artículos 150, 150-A, 150-B y 150-C de esta Ley, en caso de que las aeronaves nacionales o extranjeras realicen alguna de las actividades siguientes:
+No se pagarán los derechos a que se refiere el artículo 150-C de esta Ley, por los vuelos que realicen las aeronaves nacionales o extranjeras con alguna de las finalidades siguientes:
+
+> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 I.- Que presten servicios de búsqueda o salvamento, auxilio en zonas de desastre, combate de epidemias o plagas, así como los vuelos de grupos de ayuda médica con fines no lucrativos, los de asistencia social, los de fumigación y los que atienden situaciones de emergencia, tanto nacionales como internacionales.
 
+> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
+
 II.- Destinadas a la salvaguarda de las instituciones, seguridad nacional y combate al narcotráfico.
+
+> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 III.- Aeronaves en misiones diplomáticas acreditadas por la Secretaría de Relaciones Exteriores, siempre y cuando existan convenios de reciprocidad.
 
-IV.- Pertenecientes a escuelas de aviación que realicen vuelos de enseñanza, con excepción de los servicios de extensión de horario.
+IV.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
+
+> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 V.- Destinadas a la verificación y certificación de radares y radioayudas a la navegación aérea propiedad de la Secretaría de Comunicaciones y Transportes.
+
+> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 VI.- Que participen en festivales aéreos organizados por la autoridad aeronáutica.
 
@@ -11237,11 +10283,11 @@ mar y tirón a punto fijo, se pagará por
 
 cada embarcación $981.28 $981.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 170-B.
 
-Por la revisión de cuadernos de estabilidad, manual de cargas, manual de operación, manual de carga de grano, por aprobación de libros de hidrocarburos o de registro de basuras, plan de emergencia para prevenir la contaminación y por la expedición de la carta de cumplimiento, se pagará el derecho de revisión de embarcación, por cada documento presentado:
+Por la revisión de cuadernos de estabilidad, manual de cargas, manual de operación, manual de carga de grano, por aprobación de libros de hidrocarburos o de registro de basuras, plan de emergencia para prevenir la contaminación y, en su caso, por la expedición de la carta de cumplimiento, se pagará por cada documento presentado, el derecho de revisión conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
@@ -11305,31 +10351,13 @@ II.- Dique de 150 metros o más de
 
 Eslora $16,620.14 $16,620.00
 
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 170-D.
 
-Por la inspección,
+Por la inspección, verificación y, en su caso, certificación del cumplimiento de la normatividad de estaciones de servicio a balsas salvavidas y botes totalmente cerrados, así como a estaciones de servicio para los equipos contra incendio de las embarcaciones, se pagarán derechos, conforme a la cuota de: $ 18,900.00
 
-verificación y autorización, de
-
-estaciones de servicio a balsas
-
-salvavidas y botes totalmente cerrados,
-
-así como a estaciones de servicio
-
-para los equipos contra incendio de las
-
-embarcaciones, se pagará el derecho
-
-de estación de servicio, conforme a la
-
-cuota de $16,620.14 $16,620.00
+Por el análisis de la solicitud y, en su caso, autorización del personal técnico distinto o del que sustituya al considerado en el certificado otorgado, se pagará el derecho por cada persona, conforme a la cuota de: $ 990.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -11376,6 +10404,116 @@ certificación correspondiente se
 pagará anualmente el derecho
 
 de recepción conforme a la cuota de $29,158.29 $29,158.00
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 170-G.
+
+Se pagará el derecho de cumplimiento del Código Internacional de Protección de los Buques y de las Instalaciones Portuarias, por cada buque, con excepción de los buques pesqueros o de cualquier otro giro, que no siendo de altura, realicen su actividad en puertos nacionales, conforme a las siguientes cuotas:
+
+I.- Por la revisión de la evaluación de protección:
+
+a).- De más de 10 hasta 200 unidades de arqueo bruto $ 2,556.00
+
+b).- De más de 200 hasta 500 unidades de arqueo bruto $ 3,186.00
+
+c).- De más de 500 hasta 1,000 unidades de arqueo bruto $ 3,811.00
+
+d).- De más de 1,000 hasta 5,000 unidades de arqueo bruto $ 5,428.00
+
+e).- De más de 5,000 hasta 10,000 unidades de arqueo bruto $ 7,577.00
+
+f).- De más de 10,000 unidades de arqueo bruto $ 12,552.00
+
+II.- Por la revisión y, en su caso, aprobación del Plan de Protección:
+
+a).- De más de 10 hasta 200 unidades de arqueo bruto $ 2,776.00
+
+b).- De más de 200 hasta 500 unidades de arqueo bruto $ 3,470.00
+
+c).- De más de 500 hasta 1,000 unidades de arqueo bruto $ 4,141.00
+
+d).- De más de 1,000 hasta 5,000 unidades de arqueo bruto $ 5,900.00
+
+e).- De más de 5,000 hasta 10,000 unidades de arqueo bruto $ 8,237.00
+
+f).- De más de 10,000 unidades de arqueo bruto $ 13,652.00
+
+También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones en el Plan de Protección de cada buque.
+
+III.- Por la verificación de la implantación del Plan de Protección y, en su caso, certificación o renovación anual:
+
+a).- De más de 10 y hasta 200 unidades de arqueo bruto $ 2,603.00
+
+b).- De más de 200 y hasta 500 unidades de arqueo bruto $ 3,243.00
+
+c).- De más de 500 y hasta 1,000 unidades de arqueo bruto $ 3,880.00
+
+d).- De más de 1,000 y hasta 5,000 unidades de arqueo bruto $ 5,527.00
+
+e).- De más de 5,000 y hasta 10,000 unidades de arqueo bruto $ 7,714.00
+
+f).- De más de 10,000 unidades de arqueo bruto $ 12,778.00
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 170-H.
+
+Se pagará el derecho de cumplimiento del Código Internacional de Gestión de la Seguridad, por cada buque o empresa, con excepción de los buques pesqueros o de cualquier otro giro, que no siendo de altura, realicen su actividad en puertos nacionales, conforme a las cuotas de:
+
+I.- Por la revisión de documentación y, en su caso, expedición de documento de cumplimiento o certificado, según corresponda:
+
+a).- Por empresa $ 5,859.00
+
+b).- Por buque:
+
+1.- De 10 hasta 200 unidades de arqueo bruto $ 2,139.00
+
+2.- De más de 200 hasta 500 unidades de arqueo bruto $ 2,844.00
+
+3.- De más de 500 hasta 1,000 unidades de arqueo bruto $ 3,404.00
+
+4.- De más de 1,000 hasta 5,000 unidades de arqueo bruto $ 4,244.00
+
+5.- De más de 5,000 hasta 10,000 unidades de arqueo bruto $ 6,046.00
+
+6.- De más de 10,000 unidades de arqueo bruto $ 8,419.00
+
+También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones a los documentos de gestión de la seguridad de la empresa o de cada buque.
+
+II.- Por la verificación del cumplimiento del Código Internacional de Gestión de la Seguridad y, en su caso, expedición o renovación anual del documento de cumplimiento o certificado, según corresponda:
+
+a).- Por empresa $ 16,099.00
+
+b).- Por buque:
+
+1.- De más de 10 y hasta 200 unidades de arqueo bruto $ 2,603.00
+
+2.- De más de 200 y hasta 500 unidades de arqueo bruto $ 3,243.00
+
+3.- De más de 500 y hasta 1,000 unidades de arqueo bruto $ 3,880.00
+
+4.- De más de 1,000 y hasta 5,000 unidades de arqueo bruto $ 5,527.00
+
+5.- De más de 5,000 y hasta 10,000 unidades de arqueo bruto $ 7,714.00
+
+6.- De más de 10,000 unidades de arqueo bruto $ 12,778.00
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 170-I.
+
+Por la revisión y, en su caso, aprobación u homologación de chalecos salvavidas, aros salvavidas, dispositivos y medios de salvamento, por cada tipo, se pagará anualmente el derecho conforme a la cuota de: $ 1,935.00
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 170-J.
+
+No pagarán los derechos a que se refieren los artículos 169, 170-G y 170-H de esta Ley, las siguientes embarcaciones:
+
+I.- Las dedicadas exclusivamente a fines educativos, humanitarios o científicos.
+
+II.- Las pertenecientes al Gobierno Federal, Estados o Municipios, que estén dedicadas a servicios oficiales.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -12235,33 +11373,11 @@ terminales interiores de carga, se
 
 pagará la cuota de $7,900.00 $7,900.00
 
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 172-M.
 
-Por el registro o
-
-aprobación de tarifas y reglas de
-
-aplicación de los servicios de
-
-transporte ferroviario, autotransporte,
-
-transporte aéreo, servicios
-
-aeroportuarios, autopistas y puentes,
-
-arrastre y salvamento, depósito de
-
-vehículos y maniobras en zonas
-
-federales terrestres, se pagará por
-
-cada registro o aprobación la cuota de $679.32 $679.00
+Por el trámite de la solicitud y, en su caso, registro o aprobación de tarifas o reglas de aplicación de los servicios de transporte ferroviario, maniobras en zonas federales terrestres, autotransporte, transporte aéreo, servicios aeroportuarios y complementarios, autopistas y puentes, arrastre, salvamento y depósito de vehículos, cada concesionario, asignatario o permisionario, pagará derechos por cada solicitud, independientemente del número de tarifas o reglas de aplicación contenidas en la misma, conforme a la cuota de: $ 679.32
 
 cuota sin cuota con
 
@@ -12397,41 +11513,13 @@ cuota de $10,135.25 $10,135.00
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984) (F. DE E., D.O.F. 4 DE MARZO DE 1985)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 176-A.
 
-Por los servicios de permisos para la reproducción de monumentos artísticos con fines comerciales, así como los permisos de exportación temporal de dichos bienes que se soliciten a la dependencia prestadora del servicio, en los términos de la legislación aplicable, se pagará el derecho sobre monumentos artísticos, conforme a las siguientes cuotas:
+Por el trámite de la solicitud y, en su caso, el otorgamiento del permiso de exportación temporal de monumentos artísticos que se soliciten al Instituto Nacional de Bellas Artes y Literatura en los términos de la legislación aplicable, se pagará el derecho sobre monumentos artísticos, por pieza, conforme a la cuota de: $ 30.36
 
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-I.- Por la reproducción fotográfica,
-
-a dibujo o ilustración a cualquier
-
-escala, por pieza $1,135.31 $1,135.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Por toma de molde, por pieza $3,027.76 $3,028.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-III.- Por la expedición de permisos de
-
-exportación temporal por pieza $30.36 $30.00
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-No se pagarán los derechos a que se refiere este artículo, por las reproducciones realizadas por la Federación, las entidades federativas y los municipios; o por la reproducción de monumentos artísticos o históricos con fines científicos o documentales.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
-
-Asimismo, no se pagará el derecho a que se refiere este artículo por los permisos de exportación temporal de monumentos artísticos que soliciten la Federación, las Entidades Federativas o los Municipios.
+No se pagará este derecho por los permisos que soliciten la Federación, las Entidades Federativas o los Municipios.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -12501,135 +11589,17 @@ y zonas arqueológicas, a petición de
 
 parte $188.99 $189.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 178.
 
-Por los servicios de permisos para la reproducción de monumentos arqueológicos e históricos muebles e inmuebles, se pagarán derechos sin límite de reproducciones; por cada monumento autorizado:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-I.- Reproducción fiel del monumento
-
-independientemente de la escala y
-
-materiales $1,249.00 $1,249.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Reproducción basada en una
-
-versión libre del monumento $2,498.30 $2,498.00
-
-III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-Se exceptúa del pago de los derechos establecidos en este artículo a la producción artesanal, cuando el artesano cuente con el reconocimiento y registro otorgados por la autoridad competente.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-No pagarán los derechos establecidos en este artículo las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 178-A.
 
-Por los permisos para filmación, videograbación y tomas fotográficas de monumentos arqueológicos, históricos y artísticos, museos y zonas de monumentos arqueológicos y artísticos, así como de filmación o videograbación de imágenes fotográficas de este patrimonio, se pagará el derecho de filmación y tomas fotográficas conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-A.- Filmaciones o videograbaciones:
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-I.- Por día $6,498.94 $6,499.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Por cada 30 minutos o fracción
-
-de tiempo de filmación o videograbación,
-
-únicamente cuando se filmen o
-
-videograben imágenes fotográficas ya
-
-impresas, independientemente de los
-
-derechos por el permiso para el uso o
-
-reproducción señalados en el artículo
-
-178-B de esta Ley $406.09 $406.00
-
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-III.- Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 40% del monto de los derechos citados en las fracciones I y II de este apartado.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-B.- Tomas fotográficas.
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-I.- Por día en zona arqueológica,
-
-museo, o monumento del
-
-patrimonio nacional bajo custodia
-
-de los institutos citados $3,249.43 $3,249.00
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-II.- Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 60% del monto de los derechos citados en la fracción I de este apartado.
-
-III.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-No pagarán los derechos establecidos en este artículo, las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 ###### ARTICULO 178-B.
 
-Por los permisos para uso o reproducción por fotografía impresa o en soporte digital, de fotografías a cargo de los Institutos Nacionales de Antropología e Historia y de Bellas Artes y Literatura, para fines sancionados por las autoridades competentes de los mismos institutos, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-I.- Instituciones públicas dedicadas
-
-a la promoción, enseñanza o
-
-investigación de la cultura, la
-
-ciencia o el arte, por fotografía $199.67 $200.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Para instituciones o personas
-
-distintas de las señaladas en la
-
-fracción anterior, por fotografía $299.60 $300.00
-
-III.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-No pagarán los derechos establecidos en este artículo las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -14147,9 +13117,9 @@ No se pagará el derecho establecido en esta fracción cuando el servicio sea so
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO XII. Secretaría de Contraloría y Desarrollo Administrativo
+### CAPÍTULO XII. Secretaría de la Función Pública
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -14409,19 +13379,19 @@ propiedad federal $4,530.00 $4,530.00
 
 ###### ARTICULO 191.
 
-Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de Contraloría y Desarrollo Administrativo, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
+Por el servicio de vigilancia, inspección y control que las leyes de la materia encomiendan a la Secretaría de la Función Pública, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Las oficinas pagadoras de las dependencias de la administración pública federal centralizada y paraestatal, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-En aquellos casos en que las Entidades Federativas hayan celebrado Convenio de Colaboración Administrativa en esta materia de la Federación, los ingresos que se obtengan por el cobro del derecho antes señalado se destinarán a la Entidad Federativa que los recaude, para la operación, conservación, mantenimiento e inversión necesarios para la prestación de los servicios a que se refiere este artículo, en los términos que señale dicho Convenio.
+En aquellos casos en que las Entidades Federativas hayan celebrado Convenio de Colaboración Administrativa en esta materia con la Federación, los ingresos que se obtengan por el cobro del derecho antes señalado, se destinarán a la Entidad Federativa que los recaude, para la operación, conservación, mantenimiento e inversión necesarios para la prestación de los servicios a que se refiere este artículo, en los términos que señale dicho convenio y conforme a los lineamientos específicos que emita para tal efecto la Secretaría de la Función Pública.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Los ingresos que se obtengan por la recaudación de este derecho, que no estén destinados a las entidades federativas en términos del párrafo anterior, se destinarán a la Secretaría de Contraloría y Desarrollo Administrativo, para el fortalecimiento del servicio de inspección, vigilancia y control a que se refiere este artículo.
+Los ingresos que se obtengan por la recaudación de este derecho, que no estén destinados a las Entidades Federativas en términos del párrafo anterior, se destinarán a la Secretaría de la Función Pública, para el fortalecimiento del servicio de inspección, vigilancia y control a que se refiere este artículo.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -15157,7 +14127,7 @@ cuota $72.69 $73.00
 
 #### SECCION SEGUNDA. Inspección y Vigilancia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 194-D.
 
@@ -15365,91 +14335,27 @@ V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
 VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 194-F
 
 1.- Por los servicios que presta la Secretaría de Medio Ambiente y Recursos Naturales, en materia de vida silvestre, se pagarán derechos conforme a las siguientes cuotas:
 
-cuota sin cuota con
+I.- Por el otorgamiento de un registro en materia de vida silvestre $ 300.00
 
-ajuste ajuste
+No pagarán el derecho que se establece en esta fracción, cuando se trate del registro de unidades de manejo para la conservación de vida silvestre, así como el de colecciones científicas o museográficas públicas.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+II.- Por cada solicitud de licencia de prestadores de servicios de aprovechamiento en caza deportiva $ 636.71
 
-I.- Por cada registro y refrendo anual:
+III.- Por la expedición de cintillo de aprovechamiento cinegético $ 170.94
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+IV.- Por cada licencia de caza deportiva $ 350.00
 
-a).- De organizaciones relacionadas
+Por la reposición de la licencia de caza deportiva se pagará la cuota a que se refiere esta fracción.
 
-con el aprovechamiento cinegético
+V.- Por el estudio de la solicitud y, en su caso, autorización para el aprovechamiento extractivo sobre especies en riesgo de conformidad con la NOM-059-SEMARNAT-2001; de acuerdo con los términos que establecen la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley General de Vida Silvestre; los apéndices de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres (CITES) y las especies incluidas en la Convención sobre la Protección de Aves Migratorias y Mamíferos de Caza, México-Estados Unidos de América $ 100.00
 
-sustentable de la vida silvestre $757.96 $758.00
-
-No pagarán el derecho que se establece en este inciso, las organizaciones que únicamente se dediquen a la conservación de la vida silvestre.
-
-b).- (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-c).- Para prestadores de servicios
-
-vinculados a la transformación,
-
-tratamiento y preparación de
-
-ejemplares, partes y derivados de
-
-la vida silvestre $380.22 $380.00
-
-d).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2002)
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-e).- Para colecciones privadas
-
-de material biológico de especies
-
-silvestres $327.89 $328.00
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-f).- Para posesión de aves de presa,
-
-por ejemplar $320.40 $320.00
-
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Por cada solicitud de registro o su
-
-refrendo anual para prestadores de
-
-servicios de aprovechamiento en caza
-
-deportiva $636.71 $637.00
-
-a).- Para guías o asistentes cinegéticos, por entidad federativa $ 499.00
-
-b).- Para la venta de aves canoras y de ornato, por entidad federativa $ 98.00
-
-c).- Para captura de aves canoras y de ornato, por entidad federativa $ 161.00
-
-d).- Por cintillo de aprovechamiento $ 134.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-III.- Por expedición de cintillo de
-
-Aprovechamiento $170.94 $171.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-IV.- Por cada licencia de
-
-caza deportiva $103.97 $104.00
-
-Por el refrendo anual o reposición de licencia de caza deportiva se pagará la misma cuota.
+No se estará obligado al pago del derecho a que se refiere esta fracción, cuando el aprovechamiento de dichas especies se haga con la autorización de la autoridad competente para actividades de restauración, repoblamiento y reintroducción.
 
 > <small>(ADICIONADO, D.O.F 10 DE MAYO DE 1996)</small>
 
@@ -15505,81 +14411,59 @@ Servicios Relacionados con el Agua y sus Bienes Públicos Inherentes.
 
 ###### ARTICULO 194-H.
 
-Por el otorgamiento de la autorización de los proyectos de obras o actividades cuya evaluación corresponda al Gobierno Federal, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
+Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental de obras o actividades cuya evaluación corresponda al Gobierno Federal, conforme a las siguientes cuotas:
 
-cuota sin cuota con
+I.- Por la recepción, evaluación y, en su caso, el otorgamiento de la resolución del informe preventivo $ 7,340.00
 
-ajuste ajuste
+II.- Por la recepción y evaluación de la manifestación de impacto ambiental:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+a).- En su modalidad particular $ 10,572.00
 
-I.- Obra o actividad que requiera
+b).- En su modalidad regional $ 13,835.00
 
-de informe preventivo $451.67 $452.00
+III.- Por el otorgamiento de la resolución de la manifestación del impacto ambiental en su modalidad particular, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+a).- $ 10,572.00
 
-II.- Obra o actividad que requiera
+b).- $ 31,717.00
 
-manifestación de impacto ambiental
+c).- $ 52,862.00
 
-en su modalidad particular $831.31 $831.00
+IV.- Por el otorgamiento de la resolución de la manifestación del impacto ambiental en su modalidad regional, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B.
 
-III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
+a).- $ 13,835.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+b).- $ 41,504.00
 
-IV.- Obra o actividad que requiera
+c).- $ 69,173.00
 
-manifestación de impacto ambiental
+(VEASE ARCHIVO ANEXO)
 
-en su modalidad regional $1,233.12 $1,233.00
+Para determinar la cuota que le corresponde pagar, se debe calificar cada uno de los criterios anteriores y su clasificación será de acuerdo a la suma de los valores obtenidos.
+
+(VEASE ARCHIVO ANEXO)
+
+El pago de los derechos de las fracciones III y IV de este artículo se hará conforme a los criterios ambientales señalados en la TABLA A y los rangos de clasificación de la TABLA B, para lo cual se deberán sumar los valores que correspondan de cada criterio establecido en la TABLA A, y conforme al resultado de dicha suma se deberá clasificar el proyecto conforme a los rangos señalados en la TABLA B.
+
+V.- Por la revalidación de evaluación de la autorización de impacto ambiental:
+
+a).- En su modalidad particular $ 3,225.00
+
+b).- En su modalidad regional $ 4,438.00
+
+VI.- Por la evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental $ 5,289.00
+
+VII.- Por la evaluación y resolución de la solicitud de ampliación de términos y plazos establecidos en la autorización de impacto ambiental $ 1,963.00
+
+VIII.- Por la evaluación de la solicitud de exención de presentación de la manifestación de impacto ambiental de las obras y actividades señaladas en el artículo 6o. del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Evaluación del Impacto Ambiental, se pagará la cuota de: $ 2,426.00
 
 ###### ARTICULO 194-I.
 
 (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
-
 ###### ARTICULO 194-J.
 
-Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-I.- Por la recepción y evaluación del
-
-informe preventivo $3,669.41 $3,669.00
-
-II.- Por la recepción y evaluación de la manifestación de impacto ambiental:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-a).- En su modalidad particular $7,082.57 $7,083.00
-
-b).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-c).- En su modalidad regional $14,639.74 $14,640.00
-
-III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
-
-IV.- Por la revalidación de evaluación de la autorización de impacto ambiental:
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-a). En su modalidad particular $588.83 $589.00
-
-b). (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
-
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-c). En su modalidad regional $1,618.78 $1,619.00
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -15617,6 +14501,10 @@ IV.- De más de 5,000 metros
 
 cúbicos en adelante $5,250.00 $5,250.00
 
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+Por la solicitud y, en su caso, modificación de la autorización de los programas de manejo a que se refiere este artículo se pagará el 35% de la cuota, según corresponda.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 194-L.
@@ -15631,23 +14519,21 @@ ajuste ajuste
 
 I.- Hasta 500 metros cúbicos EXENTO EXENTO
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-II.- De más de 500 metros cúbicos
+II.- De más de 500 metros cúbicos hasta 1,500 metros cúbicos $ 2,000.00
 
-hasta 1,500 metros cúbicos $3,000.00 $3,000.00
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+III.- De más de 1,500 metros cúbicos hasta 3,000 metros cúbicos $ 2,700.00
 
-III.- De más de 1,500 metros cúbicos
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-hasta 3,000 metros cúbicos $4,100.00 $4,100.00
+IV.- De más de 3,000 metros cúbicos $ 3,500.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-IV.- De más de 3,000 metros
-
-cúbicos en adelante $5,250.00 $5,250.00
+Por la solicitud y, en su caso, modificación de la autorización de los programas de manejo a que se refiere este artículo, se pagará el 35% de la cuota, según corresponda.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -15993,13 +14879,9 @@ recolección y transporte de residuos
 
 peligrosos $2,377.36 $2,377.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-II.- Instalación y operación de sistemas
-
-de almacenamiento de residuos
-
-peligrosos $2,376.08 $2,376.00
+II.- Instalación y operación de sistemas de acopio y almacenamiento de residuos peligrosos $ 2,376.08
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -16009,13 +14891,9 @@ sistemas de reciclaje de residuos
 
 peligrosos $1,500.00 $1,500.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-IV.- Instalación y operación de
-
-sistemas de reuso de residuos
-
-peligrosos $1,500.00 $1,500.00
+IV.- Instalación y operación de sistemas de utilización y reutilización de residuos peligrosos $ 1,500.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -16041,11 +14919,19 @@ sistemas para el confinamiento
 
 de residuos peligrosos $51,978.71 $51,979.00
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+VIII.- Prestación de servicios de manejo de residuos peligrosos $ 3,916.00
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+Por las solicitudes de transferencia, modificación o prórroga de la autorización otorgada, se pagará el 50% de la cuota establecida en el presente artículo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 194-T
 
-1.- Por la recepción, estudio de la solicitud y, en su caso, autorización para importar y exportar residuos peligrosos, se pagarán derechos, conforme a las siguientes cuotas:
+1.- Por la recepción, estudio de la solicitud y, en su caso, autorización por primera vez para importar y exportar residuos peligrosos, se pagarán derechos, conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
@@ -16058,6 +14944,10 @@ I.- Para importar residuos peligrosos $1,205.87 $1,206.00
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
 II.- Para exportar residuos peligrosos $566.53 $567.00
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+Por los trámites subsecuentes y solicitudes de prórroga, se pagará el 50% de la cuota establecida en este artículo.
 
 cuota sin cuota con
 
@@ -16099,13 +14989,17 @@ I.- Estudio de riesgo Nivel 0 $684.67 $685.00
 
 II.- Estudio de riesgo Nivel 1 $1,047.23 $1,047.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-III.- Estudio de riesgo Nivel 2 $635.02 $635.00
+III.- Estudio de riesgo Nivel 2 $ 1,635.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
 IV.- Estudio de riesgo Nivel 3 $2,127.98 $2,128.00
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+Por la solicitud de modificación o ampliación de las resoluciones del estudio de riesgo ambiental se pagará el 50% de la cuota establecida en las fracciones del presente artículo.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -16121,49 +15015,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-I.- Por el registro de verificación del
+I.- Por el registro de verificación del cumplimiento de restricciones no arancelarias a la importación o exportación de flora y fauna silvestre, sus productos y subproductos; recursos acuáticos, pesqueros y marinos; productos y subproductos forestales; materiales o residuos peligrosos, cuyo objetivo final es el comercio o la industrialización de los mismos $ 385.34
 
-cumplimiento de restricciones no
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-arancelarias a la importación o
-
-exportación de flora y fauna silvestre;
-
-recursos acuáticos, pesqueros y
-
-marinos; productos y subproductos
-
-forestales; materiales o residuos
-
-peligrosos, cuyo objetivo final es el
-
-comercio o la industrialización de
-
-los mismos $385.34 $385.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Por el registro de verificación del
-
-cumplimiento de restricciones no
-
-arancelarias a la importación o
-
-exportación de flora y fauna silvestre;
-
-recursos acuáticos, pesqueros y
-
-marinos; productos y subproductos
-
-forestales; materiales o residuos
-
-peligrosos, cuyo objetivo final es
-
-distinto al comercio o a la
-
-industrialización $103.31 $103.00
+II.- Por el registro de verificación del cumplimiento de restricciones no arancelarias a la importación o exportación de flora y fauna silvestre, sus productos y subproductos; recursos acuáticos, pesqueros y marinos; productos y subproductos forestales; materiales o residuos peligrosos, cuyo objetivo final es distinto del comercio o la industrialización $ 103.31
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -16355,7 +15213,13 @@ d).- Droguerías $2,000.00 $2,000.00
 
 Quedan exceptuados del pago de este derecho, las farmacias y boticas en poblaciones menores de 2500 habitantes. El número de habitantes de las poblaciones se determinará de conformidad con la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población, provenientes del último Censo General de Población y Vivienda publicado por el Instituto Nacional de Estadística, Geografía e Informática, actualizado con las proyecciones de población publicadas por el Consejo Nacional de Población.
 
-Por la actualización de la licencia sanitaria señalada en esta fracción, se pagará el 75% del derecho que corresponda.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+Por la modificación o actualización de la licencia sanitaria señalada en esta fracción, se pagará el 75% del derecho que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -16405,17 +15269,13 @@ c).- Clase III $8,000.00 $8,000.00
 
 IV.- Por la solicitud y, en su caso, el registro de plaguicidas, se pagará el derecho de registro por cada producto, conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-a).- Categoría toxicológica I
+a).- Categoría toxicológica I (Extremadamente Tóxico) $ 45,000.00
 
-(Extremadamente Tóxico) $40,000.00 $40,000.00
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-b).- Categoría toxicológica II
-
-(Altamente Tóxico) $35,000.00 $35,000.00
+b).- Categoría toxicológica II (Altamente Tóxico) $ 37,500.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -16423,11 +15283,9 @@ c).- Categoría toxicológica III
 
 (Moderadamente Tóxico) $25,000.00 $25,000.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-d).- Categoría toxicológica IV
-
-(Ligeramente Tóxico) $20,000.00 $20,000.00
+d).- Categoría toxicológica IV (Ligeramente Tóxico) $ 19,000.00
 
 Por la renovación del registro único de los productos a que se refiere esta fracción, se pagará el 50% de la cuota correspondiente.
 
@@ -16457,17 +15315,13 @@ Por otras modificaciones que se soliciten a los registros señalados en las frac
 
 VII.- Por la solicitud y, en su caso, la autorización de permisos para la importación de plaguicidas, por cada permiso, se pagarán derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-a).- Categoría toxicológica I
+a).- Categoría toxicológica I (Extremadamente Tóxico) $ 16,875.00
 
-(Extremadamente Tóxico) $15,000.00 $15,000.00
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-b).- Categoría toxicológica II
-
-(Altamente Tóxico) $8,000.00 $8,000.00
+b).- Categoría toxicológica II (Altamente Tóxico) $ 8,571.00
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -16475,23 +15329,23 @@ c).- Categoría toxicológica III
 
 (Moderadamente Tóxico) $3,500.00 $3,500.00
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-d).- Categoría toxicológica IV
-
-(Ligeramente Tóxico) $1,500.00 $1,500.00
+d).- Categoría toxicológica IV (Ligeramente Tóxico) $ 1,425.00
 
 No se pagarán los derechos a que se refiere esta fracción, cuando los permisos de importación sean solicitados por instituciones educativas en el país reconocidas oficialmente para la investigación y cuando lo soliciten la Federación, el Distrito Federal, los estados y los municipios, para las campañas fitozoosanitarias, sanitarias y ecológicas.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-VIII.- Por la solicitud y, en su caso,
+Por la modificación a la autorización de permiso para importación de plaguicidas, se pagará el 75% del derecho conforme a la categoría que corresponda.
 
-expedición de la licencia sanitaria
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-de Bancos de Sangre, se pagará el
+VIII.- Por la solicitud y, en su caso, expedición de la licencia sanitaria de Bancos de Sangre, se pagará el derecho conforme a la cuota de $ 7,000.00
 
-derecho conforme a la cuota de $5,000.00 $5,000.00
+Por la modificación a la licencia sanitaria de bancos de sangre se pagará el 75% del derecho que corresponda.
+
+No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
 (ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -16511,7 +15365,7 @@ Por las modificaciones o prórrogas que se soliciten a los permisos señalados e
 
 #### SECCION SEPTIMA. Impacto Ambiental
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 195-B.
 
@@ -17157,6 +16011,10 @@ ingresos de sangre y
 
 hemocomponentes $441.90 $442.00
 
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+Por la modificación a la licencia o permiso indicado en las fracciones de este artículo, se pagarán el 75% del derecho que corresponda.
+
 cuota sin cuota con
 
 ajuste ajuste
@@ -17799,13 +16657,13 @@ o de tiro $547.84 $548.00
 
 IV.- Para la transportación de armas:
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-a).- Hasta por tres armas $133.05 $133.00
+a).- Hasta por tres armas $ 266.10
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-b).- Por cada arma adicional $44.26 $44.00
+b).- Por cada arma adicional $ 88.50
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -18543,53 +17401,53 @@ No pagarán el derecho a que se refiere este artículo, la tripulación de las e
 
 Estarán exentos del pago de este derecho las personas menores de 6 años, mayores de 60 años y los discapacitados.
 
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
 Para los efectos de este artículo, se consideran como Áreas Naturales Protegidas las siguientes:
 
-Parque Nacional Costa Occidental de Isla Mujeres, Punta Cancún y Punta Nizuc.
+- Parque Nacional Costa Occidental de Isla Mujeres, Punta Cancún y Punta Nizuc.
 
-Parque Nacional Arrecife de Puerto Morelos.
+- Parque Nacional Arrecife de Puerto Morelos.
 
-Parque Nacional Sistema Arrecifal Veracruzano.
+- Parque Nacional Sistema Arrecifal Veracruzano.
 
-Parque Nacional Cabo Pulmo.
+- Parque Nacional Cabo Pulmo.
 
-Parque Nacional Arrecife Alacranes.
+- Parque Nacional Arrecife Alacranes.
 
-Parque Nacional Bahía de Loreto.
+- Parque Nacional Bahía de Loreto.
 
-Parque Nacional Huatulco.
+- Parque Nacional Huatulco.
 
-Parque Nacional Arrecifes de Cozumel.
+- Parque Nacional Arrecifes de Cozumel.
 
-Parque Nacional Isla Contoy.
+- Parque Nacional Isla Contoy.
 
-Parque Nacional Arrecife de Xcalak.
+- Parque Nacional Arrecife de Xcalak.
 
-Parque Nacional Isla Isabel.
+- Parque Nacional Isla Isabel.
 
-Área de Protección de Flora y Fauna Islas del Golfo de California.
+- Parque Nacional Lagunas de Chacahua.
 
-Área de Protección de Flora y Fauna Cabo San Lucas.
+- Área de Protección de Flora y Fauna Islas del Golfo de California.
 
-Reserva de la Biosfera Ría Lagartos.
+- Área de Protección de Flora y Fauna Cabo San Lucas.
 
-Reserva de la Biosfera Ría Celestún.
+- Reserva de la Biosfera Ría Lagartos.
 
-Reserva de la Biosfera Pantanos de Centla.
+- Reserva de la Biosfera Ría Celestún.
 
-Reserva de la Biosfera Banco Chinchorro.
+- Reserva de la Biosfera Pantanos de Centla.
 
-Reserva de la Biosfera El Vizcaíno.
+- Reserva de la Biosfera Banco Chinchorro.
 
-Reserva de la Biosfera de Sian Ka' an.
+- Reserva de la Biosfera El Vizcaíno.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+- Reserva de la Biosfera de Sian Ka'an.
 
-Reserva de la Biosfera Arrecifes de Sian Ka´an.
+- Reserva de la Biosfera Arrecifes de Sian Ka'an.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-Reserva de la Biosfera Archipiélago de Revillagigedo.
+- Reserva de la Biosfera Archipiélago de Revillagigedo.
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional de Áreas Naturales Protegidas, para la conservación y aprovechamiento sustentable de las Áreas Naturales Protegidas.
 
@@ -18645,83 +17503,73 @@ No pagarán los derechos a que se refiere esta fracción, quienes por el servici
 
 II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
-Para los efectos de este artículo, se consideran Áreas Naturales Protegidas las siguientes:
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Parque Nacional San Pedro Mártir.
+Para los efectos de este artículo, se consideran como Áreas Naturales Protegidas las siguientes:
 
-Parque Nacional Constitución 1857.
+- Parque Nacional San Pedro Mártir.
 
-Parque Nacional Cumbres de Monterrey.
+- Parque Nacional Constitución 1857.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+- Parque Nacional Cumbres de Monterrey.
 
-Parque Nacional Izta-Popo, Zoquiapan y Anexas.
+- Parque Nacional Izta-Popo.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+- Parque Nacional Lagunas de Zempoala.
 
-Parque Nacional Palenque.
+- Parque Nacional Montebello.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+- Parque Nacional Sumidero.
 
-Parque Nacional El Tepozteco.
+- Parque Nacional El Chico.
 
-Parque Nacional Lagunas de Zempoala.
+- Parque Nacional Nevado de Colima.
 
-Parque Nacional Montebello.
+- Parque Nacional Huatulco.
 
-Parque Nacional Sumidero.
+- Parque Nacional Zoquiapan y Anexas.
 
-Parque Nacional El Chico.
+- Parque Nacional Palenque.
 
-Parque Nacional Nevado de Colima.
+- Parque Nacional El Tepozteco.
 
-Parque Nacional Huatulco.
+- Parque Nacional de Chacahua.
 
-Reserva de la Biosfera El Vizcaíno.
+- Parque Nacional Grutas de Cacahuamilpa.
 
-Reserva de la Biosfera Sian Ka' an.
+- Reserva de la Biosfera El Vizcaíno.
 
-Reserva de la Biosfera Sierra La Laguna.
+- Reserva de la Biosfera Sian Ka'an.
 
-Reserva de la Biosfera Sierra Gorda.
+- Reserva de la Biosfera Sierra La Laguna.
 
-Reserva de la Biosfera Calakmul.
+- Reserva de la Biosfera Sierra Gorda.
 
-Reserva de la Biosfera Ría Lagartos.
+- Reserva de la Biosfera Calakmul.
 
-Reserva de la Biosfera Ría Celestún.
+- Reserva de la Biosfera Ría Lagartos.
 
-Reserva de la Biosfera La Encrucijada.
+- Reserva de la Biosfera Ría Celestún.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+- Reserva de la Biosfera La Encrucijada.
 
-Reserva de la Biosfera Los Tuxtlas.
+- Reserva de la Biosfera Los Tuxtlas.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+- Reserva de la Biosfera Mariposa Monarca.
 
-Reserva de la Biosfera Mariposa Monarca.
+- Reserva de la Biosfera El Pinacate y Gran Desierto del Altar.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+- Reserva de la Biosfera Tehuacán-Cuicatlán.
 
-Reserva de la Biosfera El Pinacate y Gran Desierto del Altar.
+- Reserva de la Biosfera El Ocote.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+- Parque Nacional Cascada de Basaseachic.
 
-Reserva de la Biosfera Tehuacán-Cuicatlán.
+- Área de Protección de Flora y Fauna La Primavera.
 
-Parque Nacional Cascada de Basaseachic.
+- Área de Protección de Flora y Fauna Sierra de Quila.
 
-Área de Protección de Flora y Fauna La Primavera.
-
-Área de Protección de Flora y Fauna Sierra de Quila.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-Área de Protección de Flora y Fauna Cuatrociénegas.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-Reserva Forestal Nacional y Refugio de Fauna Silvestre Sierras de los Ajos-Bavispe.
+- Área de Protección de Flora y Fauna Cuatrociénegas.
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional de Áreas Naturales Protegidas, para acciones y proyectos de protección, manejo, restauración y gestión para la conservación de las Áreas Naturales Protegidas terrestres que lo generen conforme a lo establecido en su programa de manejo. En el caso de que el Área Natural Protegida no cuente con programa de manejo, la Comisión Nacional de Áreas Naturales Protegidas destinará los recursos generados, prioritariamente a aquellos programas y proyectos sustentables realizados por o para los propietarios o legítimos poseedores de los terrenos en las Áreas Naturales Protegidas mencionadas.
 
@@ -18749,7 +17597,9 @@ b).- Por cada 7 días no fraccionables $10,000.00 $10,000.00
 
 No se pagará el derecho establecido en este artículo, cuando se trate de fotografías, filmaciones y videograbaciones con carácter científico y cultural, siempre que se demuestre dicha calidad ante la autoridad competente.
 
-Para los efectos de este artículo, cuando en alguna de las Áreas Naturales Protegidas se encuentre algún inmueble a que se refiere el artículo 178-A de esta Ley, únicamente se pagará el derecho a que se refiere dicho artículo.
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+Para los efectos de este artículo, cuando en alguna de las Áreas Naturales Protegidas se encuentre algún inmueble a que se refiere el artículo 288-D de esta Ley, únicamente se pagará el derecho a que se refiere dicho artículo.
 
 Los ingresos que se obtengan por la recaudación del derecho a que se refiere este artículo, se destinarán a la Comisión Nacional de Áreas Naturales Protegidas para la conservación y aprovechamiento sustentable de las Áreas Naturales Protegidas.
 
@@ -20279,23 +19129,25 @@ Los bienes a que se refiere este artículo en ningún caso serán objeto de los 
 
 Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas. El monto del derecho a pagar se determinará con los siguientes valores y las zonas a que se refiere el artículo 232-D de esta Ley:
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 Zonas Usos
 
 Protección Agricultura, ganadería, General
 
-u ornato. pesca, acuacultura, así ($ /m2)
+u Ornato pesca, acuacultura, así ($ /m2)
 
-($ /m2) como explotación y
+($/m2) como explotación y
 
 exploración de salinas
 
 formadas directamente
 
-por aguas marinas.
+por aguas marinas y la
 
-($ /m2)
+extracción artesanal de
+
+piedra bola ($ /m2)
 
 ZONA I $0.21 $0.084 $0.77
 
@@ -20409,35 +19261,11 @@ Los ingresos recaudados por este derecho se destinarán a la Secretaría de Medi
 
 No se pagará el derecho a que se refiere este artículo por obras de dragado y mantenimiento de puertos.
 
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 232-D
 
-2.- Las personas
-
-físicas o morales que usen, gocen
-
-o aprovechen las playas, la zona
-
-federal marítimo terrestre, los terrenos
-
-ganados al mar o cualquier otro
-
-depósito de aguas marítimas, para
-
-pernoctar dentro de los mismos en
-
-remolques o semirremolques tipo
-
-vivienda, pagarán por día, por cada
-
-remolque o semiremolque (sic), una
-
-cuota de $155.96 $156.00
+2.- Las personas físicas o morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, los terrenos ganados al mar o cualquier otro depósito de aguas marítimas, para pernoctar dentro de los mismos en vehículos automotores, remolques o semirremolques tipo vivienda, pagarán por día, por cada vehículo, remolque o semirremolque, una cuota de: $ 155.96
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -20521,33 +19349,9 @@ El derecho del ejercicio, deducidos los pagos provisionales bimestrales, se paga
 
 Los contribuyentes que estén obligados al pago de los derechos establecidos en los artículos 232, fracciones IV y V y 232-C de esta Ley, podrán optar por realizar el pago del derecho de todo el ejercicio en la primera declaración bimestral y posteriormente presentar la declaración anual del ejercicio correspondiente o, en su caso, efectuar el pago conforme a lo señalado en los párrafos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
 ###### ARTICULO 234-A.
 
-Por los derechos para la publicación, reproducción o comunicación pública de fotografías, independientemente de los derechos señalados en los artículos 176-A, 178-A y 178-B de esta Ley, se pagarán derechos por el uso, goce o aprovechamiento de los monumentos arqueológicos, artísticos e históricos, conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-I.- Impreso de 1 a 1000
-
-Ejemplares $124.70 $125.00
-
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Impreso de 1001 ejemplares
-
-en adelante o publicado en soporte
-
-filmado, videograbado o digital $374.46 $374.00
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-No pagarán los derechos establecidos en este artículo las autoridades competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -20571,23 +19375,25 @@ Cuando las autoridades fiscales hagan las valuaciones a que se refiere este art�
 
 Están obligadas a pagar el derecho por extracción de materiales, las personas físicas y morales que extraigan de los cauces, vasos y zonas de corrientes, así como de los depósitos de propiedad nacional, por cada metro cúbico, conforme a las siguientes cuotas:
 
-(ACTUALIZADA [N. DE E. REPUBLICADA] EN SU MONTOS, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-I.- Zona 1 $/m3
+I.- Zona 1
 
-Estados de Baja California, Guanajuato, Sinaloa, Sonora y Tabasco:
+Estados de Baja California, Guanajuato, Sinaloa, Sonora, Tabasco, Veracruz y Zacatecas:
 
-Grava $ 14.00.
+Grava $ 14.00
 
-Arena $ 14.00.
+Arena $ 14.00
 
-Arcillas y limos $ 11.00.
+Arcillas y limos $ 11.00
 
-Materiales en greña $ 11.00.
+Materiales
 
-Piedra $ 12.00.
+en greña $ 11.00
 
-Otros $ 5.00.
+Piedra $ 12.00
+
+Otros $ 5.00
 
 (ACTUALIZADA [N. DE E. REPUBLICADA] EN SU MONTOS, D.O.F. 3 DE MAYO DE 2004)
 
@@ -20729,7 +19535,7 @@ No pagarán el derecho que se establece en el artículo 232-A, las entidades fed
 
 #### SECCION PRIMERA. Aprovechamiento Extractivo
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 #### SECCION UNICA. Servicios Privados de Seguridad y Armas de Fuego
 
@@ -20737,7 +19543,7 @@ No pagarán el derecho que se establece en el artículo 232-A, las entidades fed
 
 ###### ARTICULO 238.
 
-Por el aprovechamiento extractivo de ejemplares de fauna silvestre, en predios federales y zonas federales, se pagará el derecho de aprovechamiento extractivo por ejemplar o, en su caso, por lote, conforme a las siguientes cuotas:
+Por el aprovechamiento extractivo de ejemplares de fauna silvestre, en predios federales y zonas federales, se pagará el derecho de aprovechamiento extractivo por ejemplar o, en su caso, por lote determinado en las tasas de aprovechamiento autorizadas por la Secretaría de Medio Ambiente y Recursos Naturales, conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
@@ -20747,11 +19553,7 @@ ajuste ajuste
 
 I.- Borrego Cimarrón $295,840.06 $295,840.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-II.- Venado Bura en Sonora
-
-o Cola Blanca texano $16,435.54 $16,436.00
+II.- Venado Bura en Sonora o Cola Blanca texano $ 30,000.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -20767,23 +19569,9 @@ el resto del país y Temazate $8,765.62 $8,766.00
 
 V.- Faisán de Collar $5,478.51 $5,479.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-VI.- Patos, cercetas, gansos, perdiz,
-
-tinamú, branta negra del pacífico y
-
-otras aves, por lote, determinado
-
-el tamaño de éste según las tasas
-
-de aprovechamiento extractivo
-
-estipuladas por la Secretaría de
-
-Medio Ambiente y Recursos
-
-Naturales $4,382.81 $4,383.00
+VI.- Patos, palomas, codornices, cercetas, gansos, perdiz, tinamú, branta negra del pacífico y otras aves, por lote $ 17,000.00
 
 (ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
 
@@ -20811,37 +19599,25 @@ blancos, europeo) $2,191.40 $2,191.00
 
 XI.- Borrego Audat o Berberisco $547.84 $548.00
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
-XII.- Paloma, por lote, determinado
-
-el tamaño de éste según las tasas
-
-de aprovechamiento extractivo
-
-estipuladas por la Secretaría de
-
-Medio Ambiente y Recursos
-
-Naturales $2,848.81 $2,849.00
+XII.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 XIII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-El pago de este derecho se hará previamente a la obtención de la autorización correspondiente, mediante declaración que se presentará a las oficinas autorizadas por el Servicio de Administración Tributaria e incluirá el costo de los identificadores que se utilizan para el control de los animales aprovechados. En el caso de que se aprovechen animales en exceso de los que señale la autorización respectiva o sin ésta, se cobrará el derecho que corresponda independientemente de que se impongan las sanciones a que haya lugar.
+El pago de este derecho se hará previamente a la obtención de la autorización correspondiente, mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria e incluirá el costo de los cintillos que se utilizan para el marcaje de los animales aprovechados. En el caso de que se aprovechen animales en exceso de los que señale la autorización respectiva o sin ésta, se cobrará el derecho que corresponda independientemente de que se impongan las sanciones a que haya lugar.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Los ingresos que se obtengan por la recaudación de este derecho, se destinarán a la Secretaría de Medio Ambiente y Recursos Naturales, para el mantenimiento y operación de los centros para la conservación e investigación de la vida silvestre, así como para el desarrollo de los Programas de Recuperación de Especies Prioritarias.
+Los ingresos que se obtengan por la recaudación de este derecho, se destinarán a la Secretaría de Medio Ambiente y Recursos Naturales, para la gestión de Proyectos de Manejo Regional y de Proyectos de Recuperación de Especies Prioritarias.
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Se pagará el 25% del derecho al que se refiere este artículo, en los casos en que el aprovechamiento se autorice a los titulares de unidades de manejo para la conservación de la vida silvestre de las que formen parte los predios federales o zonas federales, previa celebración del convenio de concertación correspondiente.
+Sólo se pagará el 10% del derecho a que se refiere este artículo, en los casos en que el manejo para la conservación de los predios o zonas federales esté a cargo de terceros, distintos al gobierno federal.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-No se estará obligado al pago del derecho a que se refiere este artículo, cuando la captura de dichas especies se haga con la autorización de la autoridad competente, para la investigación científica o para preservar las especies.
+No se estará obligado al pago del derecho a que se refiere este artículo, cuando las actividades extractivas se realicen con la autorización de la autoridad competente, para la investigación científica, para proyectos de repoblación o reintroducción, o como medidas de manejo o control.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -20931,12 +19707,6 @@ Los ingresos recaudados por el derecho a que se refiere este artículo, se desti
 
 #### SECCION SEGUNDA. Aprovechamiento no Extractivo
 
-cuota sin cuota con
-
-ajuste ajuste
-
-(ACTUALIZADO PRIMAR PARRAFO EN SU MONTO, D.O.F. 3 DE MAYO DE 2004)
-
 #### SECCION UNICA. Del Instituto Federal de Especialistas de Concursos Mercantiles
 
 cuota sin cuota con
@@ -20947,45 +19717,7 @@ ajuste ajuste
 
 ###### ARTICULO 238-B.
 
-Por el aprovechamiento
-
-extractivo de especies en riesgo que
-
-se aprovechen en territorio nacional,
-
-según la NOM-059-SEMARNAT-2002
-
-y las contenidas en los apéndices
-
-de la Convención sobre el Comercio
-
-Internacional de Especies Amenazadas
-
-de Fauna y Flora Silvestres (CITES),
-
-que se aprovechen en territorio
-
-nacional, se pagará el derecho por
-
-ejemplar o, en su caso, por lote,
-
-conforme a la cuota de $500.00 $500.00
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-El pago de este derecho se efectuará mediante declaración que se presentará en las oficinas autorizadas por el Servicio de Administración Tributaria, previamente a la obtención de la autorización que emita la autoridad competente.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-Los ingresos que se obtengan por la recaudación del derecho establecido en este artículo, se destinarán en un 50% a la Secretaría de Medio Ambiente y Recursos Naturales, para la gestión y manejo de especies en riesgo y, en un 50% a la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad para la conservación de las especies incluidas en este artículo y las aves migratorias y transfronterizas.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-No se estará obligado al pago del derecho a que se refiere este artículo, cuando el aprovechamiento de dichas especies se haga con la autorización de la autoridad competente para programas de recuperación, repoblamiento, reintroducción y protección.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-No se pagará el derecho a que se refiere este artículo, cuando se trate de especies contenidas en los artículos 238 y 238-A de esta Ley, debiendo observarse lo dispuesto por dichos artículos.
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 cuota sin cuota con
 
@@ -21041,7 +19773,7 @@ Los ingresos que se obtengan por la recaudación del derecho a que se refiere es
 
 ### CAPITULO XI. Espacio Aéreo
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES SECCION UNICA], D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADA SU DENOMINACION, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 #### SECCION PRIMERA. Espectro Radioeléctrico
 
@@ -23249,45 +21981,275 @@ ajuste ajuste
 
 Áreas tipo C: $24.09 $24.00
 
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
 Para efectos de este artículo se consideran:
 
 Áreas tipo AA:
 
-Zona Arqueológica de Palenque (con museo); Zona Arqueológica de Paquimé y Museo de las Culturas del Norte; Museo y Zona Arqueológica del Templo Mayor; Museo Nacional de Antropología; Museo Nacional de Historia; Museo Nacional del Virreinato; Zona Arqueológica Teotihuacan (con museo de Sitio) y Museo de la Pintura Mural Teotihuacana; Zona Arqueológica de Xochicalco (con museo); Zona Arqueológica Monte Albán (con museo); Museo de las Culturas de Oaxaca; Zona Arqueológica Tulum; Zona Arqueológica Cobá; Zona Arqueológica Kohunlich; Zona Arqueológica Cacaxtla y Xochitécatl (con museo); Zona Arqueológica de Tajín; Zona Arqueológica de Chichén Itzá (con museo); Zona Arqueológica Uxmal (con museo); Zona Arqueológica de Dzibilchaltún y Museo del Pueblo Maya.
+Zona Arqueológica de Palenque (con museo); Zona Arqueológica de Paquimé y Museo de las Culturas del Norte; Museo y Zona Arqueológica del Templo Mayor; Museo Nacional de Antropología; Museo Nacional de Historia; Museo Nacional del Virreinato; Zona Arqueológica Teotihuacan (con museos de Sitio) y Museo de la Pintura Mural Teotihuacana; Zona Arqueológica de Xochicalco (con museo); Zona Arqueológica Monte Albán (con museo); Museo de las Culturas de Oaxaca; Zona Arqueológica Tulum; Zona Arqueológica Cobá; Zona Arqueológica Kohunlich; Zona Arqueológica Cacaxtla y Xochitécatl (con museo); Zona Arqueológica de Tajín; Zona Arqueológica de Chichén Itzá (con museo); Zona Arqueológica Uxmal (con museo); Zona Arqueológica de Dzibilchaltún y Museo del Pueblo Maya; Zona Arqueológica Yaxchilán.
 
 Áreas tipo A:
 
-Zona Arqueológica Becán; Zona Arqueológica de Edzná; Zona Arqueológica de Calakmul; Zona Arqueológica Bonampak; Zona Arqueológica Yaxchilán; Zona Arqueológica de Tonina (con museo); Museo Regional de Chiapas; Museo Regional de los Altos de Chiapas; Museo Histórico Ex-aduana de Cd. Juárez; Museo del Carmen; Galería de Historia; Museo Nacional de las Intervenciones; Museo Casa de Allende; Museo Histórico de Acapulco Fuerte de San Diego; Zona Arqueológica Tula (con museo); Museo Regional de Hidalgo; Museo Regional de Guadalajara; Zona Arqueológica Malinalco; Museo de Arte e Industrias Populares; Museo Regional Cuauhnáhuac; Museo Regional de Nayarit; Museo Regional de Nuevo León Ex-Obispado; Zona Arqueológica de Cholula (con museo); Museo Regional de Puebla; Zona Arqueológica de Cantoná; Museo Regional de Querétaro; Zona Arqueológica San Gervasio; Zona Arqueológica Dzibanché; Zona Arqueológica de Kinichna; Zona Arqueológica Chacchobén; Museo Arqueológico de Cancún; Zona Arqueológica Comalcalco (con museo); Zona Arqueológica la Venta (con museo); Museo Regional de Tlaxcala; Museo Fuerte San Juan de Ulúa; Museo Local Baluarte de Santiago; Zona Arqueológica Vega de la Peña; Zona Arqueológica de Cuajilote; Museo Regional de Yucatán “Palacio Cantón”; Museo de Guadalupe; Zona Arqueológica de la Quemada (con museo).
+Zona Arqueológica Becán; Zona Arqueológica de Edzná; Zona Arqueológica de Calakmul; Zona Arqueológica Bonampak; Zona Arqueológica de Tonina (con museo); Museo Regional de Chiapas; Museo Regional de los Altos de Chiapas; Museo Histórico Ex-aduana de Cd. Juárez; Museo del Carmen; Galería de Historia; Museo Nacional de las Intervenciones; Museo Histórico de Acapulco Fuerte de San Diego; Zona Arqueológica Tula (con museo); Museo Regional de Hidalgo; Museo Regional de Guadalajara; Zona Arqueológica de Malinalco; Museo Regional Cuauhnáhuac; Museo Regional de Nuevo León Ex Obispado; Zona Arqueológica de Cholula (con museo); Museo Regional de Puebla; Zona Arqueológica de Cantoná; Museo Regional de Querétaro; Zona Arqueológica San Gervasio; Zona Arqueológica Dzibanché; Zona Arqueológica de Kinichna; Zona Arqueológica Chacchobén; Zona Arqueológica Comalcalco (con museo); Museo Regional de Tlaxcala; Museo Fuerte San Juan de Ulúa; Museo Local Baluarte de Santiago; Zona Arqueológica Vega de la Peña; Zona Arqueológica de Cuajilote; Museo Regional de Yucatán “Palacio Cantón”; Museo de Guadalupe; Zona Arqueológica de la Quemada (con museo); Museo Regional de la Laguna; Museo Regional de Colima; Zona Arqueológica Tzin tzun tzan (con museo); Museo de la Cultura Huasteca.
 
 Áreas tipo B:
 
-Museo Regional Histórico de Aguascalientes; Museo de las Misiones Jesuíticas; Zona Arqueológica de San Francisco; Zona Arqueológica Chicanná; Zona Arqueológica Xpuhil; Museo Regional de la Laguna; Museo Regional de Colima; Zona Arqueológica de Chinkultic; Museo Casa Carranza; Zona Arqueológica de Xochipila; Ex-convento de Actopan; Museo de la Fotografía; Museo Local del Cuale, Puerto Vallarta; Zona Arqueológica Calixtlahuaca; Museo Virreinal de Acolman; Zona Arqueológica Santa Cecilia Acatitlán (con museo); Zona Arqueológica de San Bartolo Tenayuca (con museo); Museo de la Estampa Ex-convento de Santa María Magdalena; Zona Arqueológica Tzin tzun tzan (con museo); Zona Arqueológica Tingambato; Zona Arqueológica Teopanzolco; Zona Arqueológica El Tepoxteco (Tepoztlán); Zona Arqueológica de Mitla; Museo Casa de Juárez; Zona Arqueológica de Yagul; Museo Histórico de la No Intervención; Museo del Valle de Tehuacán; Museo de la Evangelización; Fuerte de Guadalupe; Zona Arqueológica Xel-Ha; Zona Arqueológica El Rey; Zona Arqueológica de X-Caret; Zona Arqueológica Oxtankah; Zona Arqueológica El Meco; Museo Regional de Sonora; Zona Arqueológica de Pomona (con museo); Zona Arqueológica de Cempoala (con museo); Museo Tuxteco; Zona Arqueológica de Kabah; Zona Arqueológica de Labná; Zona Arqueológica de Sayil; Zona Arqueológica Gruta de Balankanché; Zona Arqueológica de Chacmultún; Pinacoteca del Estado Juan Gamboa Guzmán; Zona Arqueológica Gruta de Loltún; Zona Arqueológica de Oxkintok.
+Museo Regional Histórico de Aguascalientes; Museo de las Misiones Jesuíticas; Zona Arqueológica de San Francisco; Zona Arqueológica Chicanná; Zona Arqueológica Xpuhil; Zona Arqueológica de Chinkultic; Museo Casa Carranza; Ex convento de Actopan; Zona Arqueológica Calixtlahuaca; Museo Virreinal de Acolman; Zona Arqueológica Santa Cecilia Acatitlán (con museo); Zona Arqueológica de San Bartolo Tenayuca (con museo); Zona Arqueológica Tingambato; Zona Arqueológica Teopanzolco; Zona Arqueológica El Tepoxteco (Tepoztlán); Zona Arqueológica de Mitla; Museo Casa de Juárez; Zona Arqueológica de Yagul; Museo Histórico de la No Intervención; Museo del Valle de Tehuacán; Museo de la Evangelización; Fuerte de Guadalupe; Zona Arqueológica Xel-Ha; Zona Arqueológica El Rey; Zona Arqueológica de X-Caret; Zona Arqueológica Oxtankah; Museo Regional de Sonora; Zona Arqueológica de Cempoala (con museo); Museo de Artes e Industrias Populares; Museo Tuxteco; Zona Arqueológica de Kabah; Zona Arqueológica de Labná; Zona Arqueológica de Sayil; Zona Arqueológica Gruta de Balankanché; Zona Arqueológica de Chacmultún; Zona Arqueológica Gruta de Loltún; Zona Arqueológica de Oxkintok; Museo Regional de Nayarit; Museo Arqueológico de Cancún; Museo Arqueológico de Campeche; Museo Regional Potosino; Museo Casa de Allende; Museo Regional Michoacano; Zona Arqueológica la Venta (con museo); Zona Arqueológica la Campana; Zona Arqueológica San Felipe Los Alzati; Zona Arqueológica Chalcatzingo; Zona Arqueológica La Ferrería; Zona Arqueológica Ixtlán del Río-Los Toriles.
 
 Áreas tipo C:
 
-Zona Arqueológica el Vallecito; Museo Histórico Regional de Ensenada Baja California; Museo Wa Kuatay; Museo Regional Baja California Sur; Museo Arqueológico Camino Real Hecelchacán; Museo Arqueológico de Campeche; Museo de las Estelas Mayas Baluarte de la Soledad; Museo Histórico Reducto San José El Alto “Armas y Marinería”; Zona Arqueológica de Hormiguero; Zona Arqueológica de Balamkú; Zona Arqueológica de Hochob; Zona Arqueológica de Santa Rosa Xtampak; Zona Arqueológica El Tigre; Zona Arqueológica la Campana; Zona Arqueológica El Chanal; Zona Arqueológica de Izapa; Museo Arqueológico del Soconusco; Zona Arqueológica La Ferrería; Museo de la Francia Chiquita; Museo Ex-convento Agustino de San Pablo; Museo Casa del Dr. Mora; Museo de Guillermo Spratling; Museo Regional de Guerrero; Convento Epazoyucan; Ex-convento de Ixmiquilpan; Museo Arqueológico de Cd. Guzmán; Zona Arqueológica Acozac; Zona Arqueológica Huexotla; Zona Arqueológica Los Melones; Zona Arqueológica de Texcutzingo; Zona Arqueológica de Tlapacoya; Monumento Histórico Capilla de Tlalmanalco; Ex-convento de Oxtotipac; Capilla Abierta de Calimaya; Museo de Sitio Casa de Morelos; Zona Arqueológica de Ihuatzio; Zona Arqueológica Huandacareo La Nopalera; Zona Arqueológica Tres Cerritos; Zona Arqueológica San Felipe Los Alzati; Museo Histórico del Oriente de Morelos; Zona Arqueológica Las Pilas; Zona Arqueológica Chalcatzingo; Zona Arqueológica Coatetelco (con museo); Zona Arqueológica Ixtlán del Río; Ex-convento y Templo de Santiago; Culiapan; Zona Arqueológica de Dainzu; Zona Arqueológica Lambityeco; Capilla de Teposcolula; Ex-convento de Yanhuitlán; Zona Arqueológica de Zaachila; Zona Arqueológica Guiengola; Ex-convento de Tecali; Museo del Arte Religioso de Santa Mónica; Zona Arqueológica de Yohualichan; Casa del Dean; Ex-convento San Francisco, Tecamachalco; Ex-convento de San Francisco Huaquechula; Zona Arqueológica Tepeji El Viejo; Zona Arqueológica de Manzanilla; Zona Arqueológica Las Ranas; Zona Arqueológica de Toluquilla; Zona Arqueológica El Cerrito; Zona Arqueológica de Muyil; Zona Arqueológica Adoratorio de Punta Sur; Museo Regional Potosino; Zona Arqueológica de Tamohi; Zona Arqueológica de Malpasito; Zona Arqueológica de Tizatlán (con museo); Zona Arqueológica de Ocotelulco (con museo); Zona Arqueológica de Tres Zapotes (con museo); Zona Arqueológica Las Higueras (con museo); Zona Arqueológica de Quiahuiztán; Zona Arqueológica Mayapán; Zona Arqueológica de Acanceh; Zona Arqueológica X-Lapak; Zona Arqueológica Ruinas de Ake; Zona Arqueológica Ek-Balam; Zona Arqueológica Chalchihuites; Museo Arqueológico de Mazatlán.
+Zona Arqueológica el Vallecito; Museo Regional Baja California Sur; Museo Arqueológico Camino Real Hecelchacán; Museo de las Estelas Mayas Baluarte de la Soledad; Museo Histórico Reducto San José El Alto “Armas y Marinería”; Zona Arqueológica de Balamkú; Zona Arqueológica de Hochob; Zona Arqueológica de Santa Rosa Xtampak; Zona Arqueológica El Tigre; Zona Arqueológica el Chanal; Museo Arqueológico del Soconusco; Museo Ex convento Agustino de San Pablo; Museo de Guillermo Spratling; Convento Epazoyucan; Ex-convento de Ixmiquilpan; Museo Arqueológico de Cd. Guzmán; Zona Arqueológica Los Melones; Zona Arqueológica de Tlapacoya; Monumento Histórico Capilla de Tlalmanalco; Ex Convento de Oxtotipac; Museo de Sitio Casa de Morelos; Zona Arqueológica de Ihuatzio; Zona Arqueológica Huandacareo La Nopalera; Zona Arqueológica Tres Cerritos; Museo Histórico del Oriente de Morelos; Zona Arqueológica Las Pilas; Zona Arqueológica Coatetelco (con museo); Ex convento y Templo de Santiago; Culiapan; Zona Arqueológica de Dainzu; Zona Arqueológica Lambityeco; Capilla de Teposcolula; Ex convento de Yanhuitlán; Zona Arqueológica de Zaachila; Ex convento de Tecali; Museo del Arte Religioso de Santa Mónica; Zona Arqueológica de Yohualichan; Casa del Dean; Ex convento San Francisco, Tecamachalco; Ex convento de San Francisco Huaquechula; Zona Arqueológica de Toluquilla; Zona Arqueológica de Malpasito; Zona Arqueológica de Tizatlán (con museo); Zona Arqueológica de Ocotelulco (con museo); Zona Arqueológica de Tres Zapotes (con museo); Zona Arqueológica Las Higueras (con museo); Zona Arqueológica de Quiahuiztán; Zona Arqueológica Mayapán; Zona Arqueológica de Acanceh; Zona Arqueológica Ruinas de Ake; Zona Arqueológica Chalchihuites; Museo Arqueológico de Mazatlán; Museo de la Estampa Ex Convento de Santa María Magdalena; Museo Local del Cuale, Puerto Vallarta; Casa de Hidalgo, Dolores Hidalgo, Gto.; Pinacoteca del Estado Juan Gamboa Guzmán; Zona Arqueológica de Tenam; Zona Arqueológica Ek-Balam.
 
 El pago de este derecho deberá hacerse previamente al ingreso a los museos, monumentos y zonas arqueológicas a que se refiere este artículo.
 
-El monto recaudado por este derecho, se destinará al Instituto Nacional de Antropología e Historia para la investigación, restauración, conservación, mantenimiento, administración y vigilancia de las unidades generadoras del mismo.
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia para realizar estudios afines a los museos, monumentos y zonas arqueológicas a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los monumentos y zonas arqueológicas los domingos y días festivos.
 
-### Capítulo XIV del Título II,. de la Ley
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-Federal de Derechos
+###### ARTICULO 288-A.
 
-Descargas cuya concentración 30 de junio 1o. de enero
+Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y morales que usen, gocen o aprovechen bienes del dominio público de la Federación en los museos, monumentos históricos o artísticos y zonas arqueológicas, conforme a lo que a continuación se señala:
 
-de contaminantes de metales de 1997 del 2000
+I.- $ 30.00 mensuales por cada metro cuadrado o fracción, cuando el uso o goce consista en la realización de actividades comerciales y el espacio no exceda de 30 metros cuadrados.
 
-pesados o cianuros rebasen
+El pago del derecho a que se refiere esta fracción, se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-los límites máximos
+II.- $ 18.00 por cada metro cuadrado o fracción que se use, goce o aproveche para cada evento cultural de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de instalaciones, realizado en espacios exteriores de cualquier tipo.
 
-permisibles señalados en la
+El pago del derecho a que se refiere esta fracción, se efectuará previamente a la realización del evento.
 
-tabla I del Capítulo XIV del
+III.- $ 5,000.00 por evento cultural de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de equipos y accesorios, realizado en espacios cerrados, tales como auditorios, vestíbulos y salas.
+
+El pago del derecho a que se refiere esta fracción, se efectuará previamente a la realización del evento.
+
+Las cuotas a que se refieren las fracciones II y III de este artículo, se incrementarán proporcionalmente a partir de la terminación de la cuarta hora de acuerdo con la duración total del evento.
+
+Para los efectos de este artículo, no estarán obligados al pago de los derechos los siguientes sujetos:
+
+a).- Las instituciones públicas que realicen conjuntamente con el Instituto Nacional de Antropología e Historia eventos culturales, previa celebración de un convenio.
+
+b).- Las instituciones públicas que realicen conjuntamente con el Instituto Nacional de Antropología e Historia actividades de promoción, difusión y comercialización culturales, previa celebración de un convenio.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 288-B.
+
+Por el uso, goce o aprovechamiento, para la reproducción de monumentos artísticos con fines comerciales, se pagará el derecho sobre monumentos artísticos, conforme a las siguientes cuotas:
+
+I.- Por la reproducción fotográfica, dibujo o ilustración, a cualquier escala, por pieza $ 1,135.31
+
+II.- Por toma de molde, por pieza $ 3,027.76
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 288-C.
+
+Por el uso, goce o aprovechamiento, para la reproducción de monumentos arqueológicos e históricos muebles e inmuebles, se pagarán derechos sin límite de reproducciones, por cada monumento autorizado, conforme a las siguientes cuotas:
+
+I.- Reproducción fiel del monumento independientemente de la escala y materiales $ 1,249.00
+
+II.- Reproducción basada en una versión libre del monumento $ 2,498.30
+
+Se exceptúa del pago de los derechos establecidos en este artículo a la producción artesanal, cuando el artesano cuente con el reconocimiento y registro otorgados por la autoridad competente.
+
+No pagarán los derechos establecidos en este artículo las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 288-D.
+
+Por el uso, goce o aprovechamiento, con fines comerciales para filmación, videograbación y tomas fotográficas de monumentos arqueológicos, históricos y artísticos, museos y zonas de monumentos arqueológicos y artísticos, así como de filmación o videograbación de imágenes fotográficas de este patrimonio, se pagará el derecho de filmación y tomas fotográficas conforme a las siguientes cuotas:
+
+A. Filmaciones o videograbaciones:
+
+I.- Por día $ 6,498.94
+
+II.- Por cada 30 minutos o fracción de tiempo de filmación o videograbación, únicamente cuando se filmen o videograben imágenes fotográficas ya impresas, independientemente de los derechos por el uso o reproducción señalados en el artículo 288-E de esta Ley $ 406.09
+
+III.- Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 40% del monto de los derechos citados en las fracciones I y II de este apartado.
+
+B. Tomas fotográficas:
+
+I.- Por día en zona arqueológica, museo, o monumento del patrimonio nacional bajo custodia de los institutos competentes $ 3,249.43
+
+II.- Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 60% del monto de los derechos citados en la fracción I de este apartado.
+
+No pagarán los derechos establecidos en este artículo, las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 288-E.
+
+Por el uso, goce o aprovechamiento, para uso o reproducción por fotografía impresa o en soporte digital, de fotografías a cargo de los Institutos Nacionales de Antropología e Historia y de Bellas Artes y Literatura, para fines sancionados por las autoridades competentes de los mismos institutos, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, por fotografía $ 199.67
+
+II.- Para instituciones o personas distintas de las señaladas en la fracción anterior, por fotografía $ 299.60
+
+No pagarán los derechos establecidos en este artículo, las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 288-F.
+
+Por el aprovechamiento de la imagen para la publicación, reproducción o comunicación pública de fotografías, independientemente de los derechos señalados en los artículos 288-B, 288-D y 288-E de esta Ley, se pagarán derechos conforme a las siguientes cuotas:
+
+I.- Impreso de 1 a 1000 ejemplares $ 124.70
+
+II.- Impreso de 1001 ejemplares en adelante o publicado en soporte filmado, videograbado o digital $ 374.46
+
+No pagarán los derechos establecidos en este artículo las autoridades competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 288-G.
+
+Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente Capítulo, se destinarán al Instituto Nacional de Antropología e Historia y al Instituto Nacional de Bellas Artes y Literatura, según corresponda, para la investigación, restauración, conservación, mantenimiento, administración y vigilancia de las unidades generadoras de los mismos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO XVII. Derecho por el Uso, Goce o Aprovechamiento del Espacio Aéreo Mexicano
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 289.
+
+Por el uso, goce o aprovechamiento del espacio aéreo mexicano, mediante actividades aeronáuticas locales, nacionales o internacionales, las personas físicas o morales, nacionales o extranjeras están obligadas a pagar el derecho contenido en este artículo.
+
+El derecho a que se refiere este artículo se calculará conforme a lo siguiente:
+
+I.- Por el uso, goce o aprovechamiento del espacio aéreo mexicano que por el desplazamiento, de acuerdo a la envergadura de las aeronaves, realicen durante el vuelo en ruta, se pagará por cada kilómetro volado, conforme a la siguiente tabla:
+
+Cuotas por kilómetro volado
+
+Aeronaves según envergadura Cuota
+
+Grandes $ 5.26
+
+Medianas $ 3.51
+
+Pequeñas Tipo B $ 1.21
+
+Pequeñas Tipo A $ 0.15
+
+El cálculo de los kilómetros volados se realizará de acuerdo a la distancia ortodrómica, conforme a lo siguiente:
+
+a).- Tratándose de vuelos nacionales, se medirán por la distancia ortodrómica comprendida entre el aeropuerto de origen y el aeropuerto de destino.
+
+b).- Tratándose de vuelos internacionales, se medirán por la distancia ortodrómica comprendida desde el punto de entrada o salida, de la región de información de vuelo (FIR), hasta el aeropuerto de destino u origen nacional.
+
+c).- Tratándose de sobrevuelos internacionales, se medirán por la distancia ortodrómica comprendida desde el punto de entrada al FIR hasta la salida del mismo.
+
+El usuario que lleve a cabo vuelos locales, cualquiera que sea su finalidad y que regresen a aterrizar al aeropuerto de origen, la distancia ortodrómica por kilómetro volado, se calculará aplicando por cada minuto de vuelo 5 kilómetros de recorrido.
+
+Para el cálculo del derecho establecido en este artículo, se considerarán las distancias ortodrómicas que fije la Secretaría de Comunicaciones y Transportes, mismas que podrán ser revisadas por dicha Secretaría una vez al año y se publicarán en el Diario Oficial de la Federación.
+
+Para los efectos de esta fracción, los contribuyentes deberán presentar ante las oficinas autorizadas por el Servicio de Administración Tributaria mediante reglas de carácter general, en un término de veinte días al inicio de cada año calendario, copia de la cédula de su Registro Federal de Contribuyentes (RFC) y una relación de las aeronaves por las que se pagará el derecho. Una vez que el contribuyente haya presentado copia de su RFC y de la relación, no podrá optar por pagar el derecho de dichas aeronaves conforme a las fracciones II y III a que se refiere este artículo, durante el año de que se trate.
+
+Los representantes legales de los usuarios de los servicios de navegación aérea, deberán reconocer en el poder notarial que al efecto presenten su responsabilidad solidaria en el cumplimiento de las obligaciones fiscales a cargo de sus representados.
+
+Para el caso de que el contribuyente inicie operaciones o adquiera una nueva aeronave, después de iniciado el año calendario que corresponda, deberá dar el aviso a que se refiere el quinto párrafo de esta fracción, en un término de veinte días siguientes al inicio de operaciones de la aeronave de que se trate o a la inscripción de la misma en el Registro Aeronáutico Mexicano, según sea el caso, a efecto de ejercer la opción de pago del derecho a que se refiere esta fracción, tratándose del inicio de operaciones.
+
+II.- Los contribuyentes podrán optar por pagar el derecho previsto en la fracción I de este artículo, para las aeronaves señaladas en la tabla contenida en la presente fracción, mediante una cuota única por cada vez que le sea suministrado el combustible a la aeronave de que se trate, conforme a la siguiente tabla:
+
+Tipo de aeronaves Cuota
+
+Con envergadura de hasta 10.0 metros
+
+y helicópteros $ 70.00
+
+Con envergadura de más de 10.0 metros
+
+y hasta 11.1 metros $ 100.00
+
+Con envergadura de más de 11.1 metros
+
+y hasta 12.5 metros $ 150.00
+
+III.- Tratándose de las siguientes aeronaves se podrá optar por pagar el derecho a que se refiere este artículo mediante una cuota única por cada vez que les sea suministrado combustible a la aeronave de que se trate, exceptuándose los sobrevuelos, conforme a la siguiente tabla:
+
+Aeronaves según envergadura Cuota
+
+Grandes $ 12,087.00
+
+Medianas $ 8,065.00
+
+Pequeñas Tipo B $ 2,780.00
+
+Lo dispuesto en este artículo, es independiente del pago por los servicios de extensión de horario a que se refiere el artículo 150-C de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 290.
+
+Para la clasificación de las aeronaves en pequeñas tipo A y B, medianas y grandes, a que se refiere el artículo anterior, se tomará en cuenta la envergadura de la aeronave de que se trate, conforme a la siguiente tabla:
+
+Clasificación por envergadura de aeronaves
+
+Pequeñas Medianas Grandes
+
+Tipo A Tipo B
+
+Hasta 12.5 De más de De más de De más
+
+metros y los 12.5 metros 25.0 metros de 38.0
+
+helicópteros hasta 25.0 hasta 38.0 metros
+
+metros metros
+
+La Secretaría de Comunicaciones y Transportes a través de la Dirección General de Aeronáutica Civil, publicará en el Diario Oficial de la Federación la relación en la que se dé a conocer la envergadura de las aeronaves, de acuerdo con el modelo de que se trate.
+
+En el caso de que un modelo de aeronave no se encuentre en la relación que se publique en los términos del párrafo anterior, se deberá informar dicha circunstancia a la Secretaría de Comunicaciones y Transportes a través de la Dirección General de Aeronáutica Civil, para que proceda a su publicación en el Diario Oficial de la Federación. En tanto se hace la publicación del grupo al que corresponda cada aeronave, el contribuyente hará la determinación de la aeronave conforme a su envergadura.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 291.
+
+Para los efectos del artículo 289 de esta Ley, se estará a lo siguiente:
+
+I.- Para el caso de la fracción I, el derecho se pagará como sigue:
+
+El usuario deberá calcular y enterar mensualmente el derecho, a través de cualquier medio de pago autorizado por el Servicio de Administración Tributaria mediante reglas de carácter general, incluyendo la presentación de declaración, a más tardar el día 17 del mes siguiente a aquél al que corresponda el pago, entregando a la Secretaría de Comunicaciones y Transportes a través de SENEAM, dentro de los cinco días siguientes a aquél en el que se efectuó el pago, copia de la Declaración General de Pago de Derechos con el sello legible de la oficina autorizada, así como el archivo electrónico que contenga los datos de las operaciones que dieron lugar al pago del derecho.
+
+La Secretaría de Comunicaciones y Transportes a través de SENEAM verificará la información entregada por el usuario, y en el caso de existir diferencias en el pago del derecho, se le solicitará la aclaración respectiva dentro de los quince días siguientes a la presentación de la copia de la declaración a SENEAM, debiendo el usuario presentarla en los tres días siguientes en el que se le solicitó dicha aclaración y en el supuesto de que subsistieran las diferencias, SENEAM comunicará al usuario dicha circunstancia quien deberá realizar el pago de las mismas dentro de los tres días siguientes a la comunicación, enterando dicho pago con los accesorios que se hubieren generado. La Secretaría de Comunicaciones y Transportes a través de SENEAM informará esta situación al Servicio de Administración Tributaria, quien realizará el requerimiento de pago del derecho que corresponda.
+
+En el caso de que el contribuyente incumpla con la presentación del comprobante de pago o de la relación que contenga el cálculo de las operaciones realizadas, SENEAM comunicará de este hecho al Servicio de Administración Tributaria, quien realizará el requerimiento del pago del derecho que corresponda. La Secretaría de Comunicaciones y Transportes, a través de la Dirección General de Asuntos Jurídicos, comunicará al usuario la suspensión del uso, goce o aprovechamiento del espacio aéreo atendiendo a lo dispuesto en el último párrafo del artículo 3o. de esta Ley.
+
+II.- Para los efectos de las fracciones II y III, según sea el caso, el derecho se pagará como sigue:
+
+Los usuarios que ejerzan la opción prevista en esas fracciones y tengan celebrado un contrato de suministro de combustible con Aeropuertos y Servicios Auxiliares o, en su caso, con el concesionario autorizado, para los efectos de la determinación del derecho, deberán realizar el entero del derecho por todas las aeronaves por las que ejercieron la opción, mediante pagos mensuales, a más tardar el día 17 del mes siguiente a aquél en el que le sea suministrado el combustible, a través de cualquier medio de pago autorizado por el Servicio de Administración Tributaria mediante reglas de carácter general, incluyendo la presentación de declaración.
+
+Los contribuyentes que opten por pagar el derecho conforme a esas fracciones, deberán dar el aviso correspondiente ante las oficinas autorizadas por el Servicio de Administración Tributaria mediante reglas de carácter general, en un término de veinte días al inicio de cada año calendario, anexando una relación de las aeronaves. Una vez que el contribuyente haya presentado su aviso, deberá permanecer en esta opción durante el año que corresponda.
+
+Para el caso de que el contribuyente inicie operaciones o, en su caso, adquiera una nueva aeronave, después de iniciado el año calendario de que se trate, deberá dar el aviso a que se refiere el párrafo anterior, en un término de veinte días siguientes al inicio de operaciones o a la inscripción de la aeronave en el Registro Aeronáutico Mexicano, según sea el caso, a efecto de ejercer la opción de pago del derecho, tratándose del inicio de operaciones.
+
+Los contribuyentes que opten por pagar el derecho conforme a las fracciones II y III del artículo 289 y no tengan celebrado un contrato de suministro de combustible con el concesionario, pagarán en efectivo a este último, las cuotas señaladas en las tablas contenidas en dichas fracciones, según corresponda, cada vez que le sea suministrado el combustible a la aeronave de que se trate, excepto cuando el usuario acredite que ha informado a las oficinas autorizadas que pagará el derecho en los términos de la fracción I del artículo 289. Los ingresos generados por la aplicación de este párrafo, serán recaudados por el concesionario que suministre el combustible, debiendo enterarlos a la Tesorería de la Federación, dentro de los diez días siguientes al mes de que se trate.
+
+Para los efectos de este Capítulo, los contribuyentes que realicen operaciones aeronáuticas regulares, que no presenten el aviso a que se refieren las fracciones I del artículo 289 y II del 291, en el término previsto en dichas fracciones, se entenderá que pagarán el derecho conforme a la fracción I del artículo 289 de esta Ley.
+
+Tratándose de los contribuyentes que realicen operaciones aeronáuticas no regulares, que no presenten el aviso a que se refieren las fracciones I del artículo 289 y II del 291, en el término previsto en dichas fracciones, se entenderá que pagarán el derecho conforme a las fracciones II y III del artículo 289 de esta Ley, según corresponda. Dichos contribuyentes durante el periodo comprendido entre el inicio de cada año, o bien, el inicio de operaciones, y el vencimiento del término de la presentación del aviso a que se refiere este párrafo, pagarán el derecho conforme a las citadas fracciones II y III del artículo 289, mismo que podrán acreditar en caso de que opten por pagar en los términos de la fracción I del propio artículo.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 292.
+
+No se pagarán los derechos a que se refiere este Capítulo, por los vuelos que realicen las aeronaves nacionales o extranjeras con alguna de las finalidades siguientes:
+
+I.- Que presten servicios de búsqueda o salvamento, auxilio en zonas de desastre, combate de epidemias o fumigación, ayuda médica con fines no lucrativos, los de asistencia social, y los que atiendan situaciones de emergencia, tanto nacionales como internacionales.
+
+II.- En misiones diplomáticas acreditadas por la Secretaría de Relaciones Exteriores, siempre y cuando existan convenios de reciprocidad.
+
+III.- Vuelos de enseñanza, que realicen las escuelas de aviación.
+
+IV.- Destinadas a la verificación y certificación de radares y radioayudas a la navegación aérea propiedad de la Secretaría de Comunicaciones y Transportes.
+
+V.- Que participen en festivales aéreos organizados por la autoridad aeronáutica.
+
+Asimismo, no pagarán el derecho las aeronaves, que pertenezcan a las fuerzas armadas, las destinadas a la seguridad pública y nacional, así como las que no utilicen motores o turborreactores para sustentar el vuelo.
 
 ## TRANSITORIOS
 
@@ -24791,9 +23753,9 @@ el límite máximo permisible
 
 señalado en la Tabla I del
 
-### Capítulo XIV del Título II, de
+### Capítulo XIV del Título II,. de la Ley
 
-la Ley Federal de Derechos.
+Federal de Derechos
 
 Descargas cuya concentración 30 de junio 1o. de enero
 
@@ -24801,9 +23763,11 @@ de contaminantes de metales de 1997 del 2000
 
 pesados o cianuros rebasen
 
-los límites máximos permisibles
+los límites máximos
 
-señalados en la tabla I del
+permisibles señalados en la
+
+tabla I del Capítulo XIV del
 
 ## Título II, de la Ley. Federal de Derechos
 
@@ -24960,6 +23924,20 @@ rebasen en más de 5 veces el
 límite máximo permisible
 
 señalado en la Tabla I del
+
+### Capítulo XIV del Título II, de
+
+la Ley Federal de Derechos.
+
+Descargas cuya concentración 30 de junio 1o. de enero
+
+de contaminantes de metales de 1997 del 2000
+
+pesados o cianuros rebasen
+
+los límites máximos permisibles
+
+señalados en la tabla I del
 
 ### Capítulo XIV del Título II, de
 
@@ -26504,3 +25482,35 @@ LA ACTUALIZACION POR MISCELANEA FISCAL CON ANTELACION CITADA, NO SEÑALA DISPOSI
 D.O.F. 19 DE NOVIEMBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE DICIEMBRE DE 2004.
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del 1o. de enero de 2005.
+
+Artículo Segundo. Durante el año de 2005, se aplicarán en materia de derechos las siguientes disposiciones:
+
+I.- Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, en el pago de los derechos por la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en los ingenios azucareros, se efectuará conforme al 55% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la citada Ley.
+
+II.- Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se extraigan y utilicen en los Municipios de Coatzacoalcos y Minatitlán del Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 7 a que se refiere el artículo 223 de la Ley Federal de Derechos.
+
+III.- Por la explotación, uso o aprovechamiento de aguas nacionales superficiales que se utilicen en los Municipios de Lázaro Cárdenas del Estado de Michoacán y Hueyapan de Ocampo en el Estado de Veracruz, se cobrará la cuota que corresponda a la zona de disponibilidad 9 a que se refiere el artículo 223 de la Ley Federal de Derechos.
+
+IV.- Para los efectos de lo dispuesto en el artículo 232, fracción IV de la Ley Federal de Derechos, las personas físicas y las morales que usen, gocen o aprovechen los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales, que realicen actividades agrícolas o pecuarias pagarán el 30% de la cuota del derecho establecida en dicha fracción.
+
+V.- No pagarán el derecho a que se refiere el artículo 8o., fracción I de la Ley Federal de Derechos, aquellos turistas que visiten el país por vía terrestre, cuya estancia no exceda de siete días en el territorio nacional.
+
+VI.- Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en la industria de la celulosa y el papel, pagará el 80% de las cuotas por metro cúbico, que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la citada Ley, salvo que se encuentren en las zonas de disponibilidad I, II o III y que cuenten con oferta local de aguas residuales tratadas en volumen suficiente y calidad adecuada conforme a la norma NOM-ECOL-001. Si en este caso, los usuarios consumen dichas aguas hasta el límite técnico de su proceso o se agota dicha fuente alterna, los volúmenes complementarios de aguas nacionales se pagarán al 80% de la cuota correspondiente.
+
+VII.- Para los efectos de lo dispuesto en el artículo 223, apartado A, de la Ley Federal de Derechos, la explotación, uso o aprovechamiento de aguas nacionales que se utilicen en los procesos de exploración, extracción, molienda, separación, lixiviación y concentración de minerales, hasta antes del beneficio secundario, por lo que se exceptúan los procesos de fundición y refinación de minerales, durante el año 2005 pagarán el 25% de las cuotas por metro cúbico que corresponda a las zonas de disponibilidad a que se refiere el artículo 231 de la citada Ley.
+
+VIII.- Para los efectos de lo dispuesto en el párrafo tercero del artículo 170, se pagará el 50% más de la cuota señalada, cuando los servicios se presten fuera del tiempo señalado como horario ordinario de operación, salvo lo previsto en la fracción I.
+
+IX.- Para los efectos de lo dispuesto en la fracción VI del artículo 199-A de la Ley Federal de Derechos para el ejercicio fiscal 2005, se pagará el 75% de la cuota señalada.
+
+Artículo Tercero. A partir del año de 2005 y para los efectos del artículo 232-C de la Ley Federal de Derechos, no estarán obligados al pago de los derechos correspondientes, los organismos públicos descentralizados federales, estatales o municipales que mediante el acuerdo administrativo de destino a que se refiere la Ley General de Bienes Nacionales, administren las playas, la zona federal marítimo terrestre, los terrenos ganados al mar o cualquier otro depósito de aguas marítimas, así como las personas físicas y las morales que reciban en concesión dichos bienes que se encuentren bajo la administración de los organismos públicos descentralizados antes señalados.
+
+Artículo Cuarto. Las cuotas de los derechos por servicios prestados por oficinas autorizadas en el extranjero en donde la mayoría de los costos se cubran en moneda extranjera, se actualizarán únicamente el 1o. de enero de 2005, aplicándoles el factor que resulte de dividir el Índice Nacional de Precios al Consumidor de noviembre de 2004 entre el Índice Nacional de Precios al Consumidor de noviembre de 2003.
+
+Una vez actualizadas las cuotas de los derechos conforme al párrafo anterior, a partir del 1o. de enero de 2005, deberán de ajustarse en la misma proporción en que fluctúe el valor de la moneda extranjera en relación con la nacional, tomando como referencia inicial, el tipo de cambio publicado por el Banco de México el día 29 de diciembre de 2004. Para los ajustes subsecuentes, se tomará como referencia el tipo de cambio con el que se calculó la fluctuación del último ajuste que se haya efectuado.
+
+Las cuotas de los derechos por servicios prestados por oficinas autorizadas en el extranjero a que se refiere este artículo, no se actualizarán de conformidad con el artículo 1o. de la Ley Federal de Derechos.
