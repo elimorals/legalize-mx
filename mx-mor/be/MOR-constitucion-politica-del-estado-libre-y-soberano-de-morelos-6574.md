@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2003-08-11"
+last_updated: "2004-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2004.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -656,21 +656,37 @@ El Congreso no puede abrir sus Sesiones sin la concurrencia de más de la mitad 
 
 Transcurrido el plazo anterior sin que se hubieren presentado, se llamará al desempeño de la función, a los suplentes respectivos y si tampoco se presentaren dentro de un plazo de diez días, se convocará a elecciones, en los Distrito (sic) de que se trate.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 32.
 
-El Congreso del Estado tendrá cada año dos períodos de sesiones ordinarias, el primero se iniciará el primer día de septiembre y terminará el treinta y uno de enero; el segundo empezará el primero de abril y concluirá el treinta y uno de julio. El Congreso se ocupará conforme a sus facultades, del examen, y la revisión de la cuenta pública del Estado que se presentará trimestralmente conforme al avance de gestión financiera, a más tardar el último día hábil del mes siguiente, en concordancia con el avance del Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar, y del programa financiero.
+El Congreso del Estado tendrá cada año dos períodos de sesiones ordinarias, el primero se iniciará el 1 de septiembre y terminará el 15 de diciembre; el segundo empezará el 1 de febrero y concluirá el 15 de julio. El Congreso se ocupará conforme a sus facultades, del examen, y la revisión de la cuenta pública del Estado que se presentará trimestralmente conforme al avance de gestión financiera, a más tardar el último día hábil del mes siguiente, en concordancia con el avance del Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar, y del programa financiero.
 
-Antes del 31 de Diciembre, el Congreso del Estado se ocupará del examen, discusión y aprobación de las leyes de Ingresos del Estado y de los ayuntamientos, así como del Presupuesto de Egresos del Estado; para tal efecto las iniciativas correspondientes deberán presentarse al Congreso a más tardar el treinta de noviembre de cada año.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+El Congreso del Estado a más tardar el 1 de octubre de cada año recibirá la iniciativa de Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal siguiente, así como las Iniciativas de Ley de Ingresos del Estado y de los ayuntamientos, para su examen, discusión y aprobación. Cuando el Gobernador inicie su encargo entregará la iniciativa de presupuesto de egresos del Gobierno del Estado, así como la iniciativa de Ley de Ingresos del Estado, a más tardar el 15 de noviembre de ese año; de igual forma los Presidentes Municipales que inicien su encargo, presentarán a este Congreso, sus iniciativas de Ley de Ingresos en la misma fecha. Teniendo la obligación el Congreso del Estado de aprobarlas, en ambos casos, a más tardar el 15 de diciembre de cada año.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
 Los ayuntamientos presentarán al Congreso a más tardar el día 31 de enero de cada año, la cuenta correspondiente al año anterior, debidamente integrada y aprobada por el Cabildo, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo, fechas que serán a más tardar el día 30 de noviembre para el ayuntamiento que concluya, y el 31 de enero para el que inicie, correspondiente a los últimos dos meses del año en que se haga el cambio. El ayuntamiento entrante presentará la cuenta pública anual, consolidando los doce meses del ejercicio presupuestal, y sin perjuicio de las personas responsables que corresponde a cada período constitucional.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
 A solicitud del Ejecutivo del Estado o del Presidente Municipal, en su caso, podrán ampliarse los plazos de presentación de la Ley de Ingresos, cuentas públicas, Presupuesto de Egresos y programa financiero, a que se refiere este Artículo, cuando haya causas plenamente justificadas, por aprobación de las dos terceras partes de los integrantes del Congreso; pero será obligación de la Secretaría encargada del despacho del ramo de hacienda pública, comparecer ante el Congreso para informar sobre las razones que la motiven. En el ámbito municipal la atribución anterior corresponderá a los Presidentes Municipales y comparecerá, en su caso, la persona que designe el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
 La falta de presentación oportuna, en los términos que establece esta Constitución, de las iniciativas de Leyes de Ingresos, Presupuesto de Egresos y en su caso del programa financiero del Poder Ejecutivo Estatal, y de las iniciativas de leyes de ingresos de los ayuntamientos, dará como consecuencia que los ordenamientos en vigor para el ejercicio fiscal en curso continúen vigentes para el ejercicio fiscal siguiente, independientemente de la responsabilidad directa de los titulares de la obligación. En esta misma hipótesis si la omisión persiste para un nuevo ejercicio fiscal, el Congreso por acuerdo de las dos terceras partes de sus integrantes, procederá a la elaboración, discusión y aprobación de la Ley de Ingresos y del Decreto de Presupuesto de Egresos para el Gobierno del Estado de Morelos y de la ley o leyes de ingresos de los municipios correspondientes, casos en los cuales, iniciará su ivigencia (sic) a partir del día siguiente de su publicación en el Periódico Oficial del Estado; si también se aprecia la negativa del Poder Ejecutivo para ordenar la publicación de los mismos, se ordenará su publicación en la Gaceta Oficial del Poder Legislativo y en uno de los periódicos de mayor circulación en el Estado de Morelos. La omisión en estos términos, dará motivo a la aplicación de las responsabilidades establecidas en esta Constitución y la ley de la materia.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2004)</small>
+
+Para el caso de que el Congreso dejare de aprobar, en los términos de esta Constitución, las leyes de ingresos del Estado o de los municipios, así como el presupuesto de egresos del Estado, continuarán rigiendo las leyes de ingresos o el presupuesto de egresos aprobados para el ejercicio fiscal del año anterior, hasta en tanto éstos se aprueban. En este caso, si hubiese recursos aprobados por ser año electoral, se entenderá que sólo se autorizan recursos referentes al último año en el que no hubo elecciones, para el normal funcionamiento de las instituciones electorales y partidos políticos. Asimismo, los empréstitos que hubiesen sido autorizados, no implicará su renovación.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+
 La falta de presentación oportuna, en los plazos que señala esta Constitución y las leyes de la materia, de las cuentas públicas trimestrales del Poder Ejecutivo del Estado y las mensuales y anuales de los ayuntamientos, así como de sus Presupuestos de Egresos, dará lugar a la aplicación de las sanciones previstas en la ley de la materia, independientemente de las revisiones e inspecciones que realice el Organismo de Auditoría Superior Gubernamental y de las responsabilidades que se deriven o puedan derivarse por el ejercicio de los recursos públicos.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
 Para la revisión de la cuenta pública, el Congreso del Estado se apoyará en el Organismo de Auditoría Superior Gubernamental.
 
@@ -944,9 +960,9 @@ XLIV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1996)
 
 XLV.- Dictar las resoluciones o acuerdos económicos que estime pertinentes, relativos a su régimen interior.
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
-XLVI.- Expedir leyes o decretos a fin de crear organismos descentralizados, empresas de participación o fideicomisos públicos, sean estatales o municipales y sus modificaciones. Así mismo, para integrar, con el voto de la tercera parte de los Diputados, las comisiones que procedan para la investigación del funcionamiento de los citados organismos auxiliares estatales o municipales o de cualquier dependencia de la administración central de ambos órdenes de gobierno, dando a conocer los resultados al Ejecutivo o al Ayuntamiento, sin demérito de la intervención que corresponda en su caso a la Contaduría Mayor de Hacienda.
+XLVI.- Expedir leyes o decretos a fin de crear organismos descentralizados, empresas de participación o fideicomisos públicos, sean estatales o municipales y sus modificaciones. Así mismo, para integrar, con el voto de la tercera parte de los Diputados, las comisiones que procedan para la investigación del funcionamiento de los citados organismos auxiliares estatales o municipales o de cualquier dependencia de la administración central de ambos órdenes de gobierno, dando a conocer los resultados al Ejecutivo o al Ayuntamiento, sin demérito de la intervención que corresponda en su caso a la Auditoría Superior Gubernamental;
 
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -978,7 +994,7 @@ LIII.- Aprobar por mayoría simple de los integrantes de la Legislatura, la soli
 
 (REFORMADA, P.O. 11 DE AGOSTO DE 2003) (F. DE E., P.O. 19 DE NOVIEMBRE DE 2003)
 
-LIV.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal Electoral se lleven a cabo los procesos de referéndum y plebiscito; y al Instituto Morelense de Información Pública y Estadística que realice algún sondeo, encuesta o estadística, para cumplir con sus funciones;
+LIV.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal Electoral se lleven a cabo los procesos de referéndum y plebiscito; y al Instituto Morelense de Información Pública y Estadística que realice algún sondeo, encuesta o estadística, para cumplir con sus funciones.
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2002)</small>
 
@@ -1392,9 +1408,9 @@ b).- Los programas operativos anuales sectoriales y por dependencia u organismo 
 
 Para su aprobación:
 
-c).- Las iniciativas de Ley de Ingresos y Presupuesto de Egresos de cada ejercicio fiscal, que deberá entregarse el 30 de noviembre anterior al ejercicio fiscal de que se trate; con las excepciones previstas en el artículo 32 de esta Constitución;
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
-Las iniciativas de modificación a la Ley de Ingresos, deberán ser presentadas a la consideración del Congreso, aprobadas que sean, iniciarán su vigencia el día que lo señale el decreto correspondiente. En el caso de modificaciones al presupuesto de egresos, el Titular del Poder Ejecutivo deberá presentar la iniciativa de modificación dentro de los quince días siguientes en que se originó la causa de la solicitud.
+c).- Las iniciativas de Ley de Ingresos y Presupuesto de Egresos de cada ejercicio fiscal, deberán entregarse de conformidad con lo dispuesto en el artículo 32 de esta Constitución, con las excepciones previstas en éste;
 
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -2086,9 +2102,9 @@ Los Magistrados deberán cumplir con la presentación oportuna de sus declaracio
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO V.
+### CAPITULO VI.
 
-DE SU HACIENDA.
+DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2098,9 +2114,9 @@ DEL MUNICIPIO LIBRE.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VI.
+### CAPITULO V.
 
-DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
+DE SU HACIENDA.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2914,11 +2930,11 @@ P.O. 20 DE JULIO DE 1988.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 1 DE FEBRERO DE 1989.
+P.O. 1, DE FEBRERO DE 1989.
 
 ###### ARTICULO PRIMERO.
 
-Envíese copia del presente Decreto, a los treinta y tres Ayuntamientos que conforman nuestra Entidad Federativa, para los efectos a que hacen referencia los Artículos 147 Fracción I, de la Constitución Política Local, y 81, de la Ley Orgánica del Congreso del Estado.
+Envíese copia del presente Decreto, a los treinta y tres Ayuntamientos que conforman nuestra Entidad Federativa, para los efectos a que hacen referencia los Artículos 147 Fracción I de la Constitución Política Local, y 81, de la Ley Orgánica del Congreso del Estado.
 
 ###### ARTICULO SEGUNDO.
 
@@ -3166,7 +3182,7 @@ DECRETO NUMERO 626
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto que reforma y adiciona la denominaión del Título Octavo de la Constitución Política del Estado Libre y Soberano de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día siguiente en que el Congreso del Estado haga el cómputo de los Ayuntamientos, en los términos de lo dispuesto por la fracción II del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, siempre que resulte favorable, emitiéndose la declaratoria correspondiente.
+El presente Decreto que reforma y adiciona la denominación del Título Octavo de la Constitución Política del Estado Libre y Soberano de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día siguiente en que el Congreso del Estado haga el cómputo de los Ayuntamientos, en los términos de lo dispuesto por la fracción II del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, siempre que resulte favorable, emitiéndose la declaratoria correspondiente.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -3243,3 +3259,37 @@ Artículo Quinto.- A partir de su nombramiento, los miembros del Instituto Morel
 Artículo Sexto.- Tan pronto como sea aprobado este decreto de conformidad con el procedimiento (sic) reforma establecido en la Constitución Política del Estado Libre y Soberano de Morelos, el Poder Legislativo remitirá al Ejecutivo del Estado la Ley de Información Pública, Estadística y Protección de Datos Personal (sic) del Estado de Morelos para su inmediata publicación y entrada en vigor.
 
 Artículo Séptimo.- Para dar cumplimiento con lo señalado en los artículos transitorios segundo y sexto del presente decreto, el Congreso del Estado puede discutir y aprobar la Ley reglamentaria del derecho a la información, con la condición suspensiva de remisión al Titular del Poder Ejecutivo hasta en tanto no se apruebe la reforma constitucional a que se refiere esta reforma constitucional.
+
+P.O. 15 DE SEPTIEMBRE DE 2004.
+
+DECRETO NO. 339
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado que sea el presente dictamen, remítase junto con las copias de los debates que se hubiesen generado, a los Ayuntamientos del Estado de Morelos, para dar cumplimiento a lo establecido en la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Aprobadas por la mayoría de los Ayuntamientos del Estado de Morelos, las reformas realizadas a la Constitución Política Local, remítase el Decreto correspondiente al Titular del Poder Ejecutivo del Estado de Morelos, para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO CUARTO.
+
+En un término máximo de 30 días hábiles contados a partir de la entrada en vigor del presente decreto, se deberán de presentar las iniciativas de reforma a la Ley de Presupuesto Contabilidad y Gasto Público, así como a la Ley Orgánica Municipal del Estado de Morelos.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones jurídicas que se opongan a la presente reforma.
+
+P.O. 15 DE SEPTIEMBRE DE 2004.
+
+DECRETO No. 340
+
+PRIMERO.- Aprobada que sea la presente reforma en los términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre Soberano de Morelos, remítase copia a los ayuntamientos, junto con los debates si los hubiere para que manifiesten su aprobación o desaprobación.
+
+SEGUNDO.- El presente decreto iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del momento en que el Congreso del Estado haga el cómputo de los votos de los ayuntamiento (sic) y la declaratoria correspondiente.
+
+TERCERO.- Dando el cómputo un resultado aprobatorio, remítase el presente Decreto al Titular del Poder Ejecutivo para su publicación en el periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
