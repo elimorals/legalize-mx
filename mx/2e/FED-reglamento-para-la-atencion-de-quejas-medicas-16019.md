@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-atencion-de-quejas-medicas-16019"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-18"
-last_updated: "2000-04-18"
+last_updated: "2003-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16019&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-02-24"
 
 REGLAMENTO PARA LA ATENCION DE QUEJAS MEDICAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA ATENCION DE QUEJAS MEDICAS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 17 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial de la Federación el 18 de abril de 2000.
 
@@ -304,3 +306,15 @@ Atentamente
 México, D.F., a 24 de febrero de 2000.- El Secretario, Jaime Báez Rodríguez.- Rúbrica.
 
 (R.- 123865)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 17 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el anterior Reglamento para la Atención de Quejas Médicas, contenido en el acuerdo 29.1256.2000, publicado en el Diario Oficial de la Federación del 18 de abril de 2000.
+
+TERCERO.- Las quejas que se encuentren en trámite a la fecha que entre en vigor este nuevo Reglamento, serán substanciadas por el Comité conforme el Reglamento anterior.
+
+CUARTO.- Expídanse los Manuales de Procedimientos para el Trámite de Solicitudes de Quejas Médicas y el de Integración y Funcionamiento del Comité y Subcomité Técnico de Evaluación de Quejas Médicas del ISSSTE".
