@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "1997-12-19"
+last_updated: "1998-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1998.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -1233,6 +1233,26 @@ Las infracciones a la presente Ley que no tengan establecida otra sanción, se c
 
 ## TITULO DECIMO. DE LA SEGURIDAD SOCIAL DE LOS TRABAJADORES
 
+### CAPITULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 1998)</small>
+
+ARTICULO 155 Las relaciones laborales entre los Poderes del Estado de Baja California y los Trabajadores que sean transferidos por la Federación hacia el Estado, se regirá de acuerdo a las disposiciones contenidas en:
+
+I.- Los Acuerdos Nacionales de Descentralización.
+
+II.- Los Convenios de Coordinación.
+
+III.- Los Acuerdos de Coordinación específicos o particulares que se deriven de los diversos Programas de Descentralización del Gobierno Federal o Estatal.
+
+IV.- Las disposiciones especiales que determinen por los organismos o dependencias que asuman las funciones transferidas de la Federación, cualquiera que sea la forma o estructura legal que adopten.
+
+V.- Las disposiciones administrativas que se expidan al momento de la transferencia de funciones de la Federación hacia el Estado.
+
+VI.- Los demás ordenamientos legales que se emitan en virtud de la descentralización.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 151.
 
 Los derechos de los trabajadores al servicio del Gobierno del Estado y Municipios e Instituciones Descentralizadas, en materia de jubilación, pensiones y de seguridad social en lo integral, quedarán sujetos a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California (ISSSTECALI).
@@ -1284,6 +1304,26 @@ Asimismo, los trabajadores al Servicio de la Educación, que tengan una antigüe
 26 a 30 años, 126.5% sobre 20 días hábiles.
 
 31 años en adelante, 137.5% sobre 20 días hábiles.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 1998)</small>
+
+## TITULO DECIMO SEGUNDO
+
+DE LAS RELACIONES LABORALES ENTRE EL ESTADO Y LOS TRABAJADORES TRANSFERIDOS POR LA FEDERACIÓN.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 1998)</small>
+
+###### ARTICULO 156.
+
+El Instituto de Servicios de Salud Pública del Estado de Baja California, respetará los derechos laborales señalados en el Artículo 123, Apartado B de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria, por lo que aplicarán y respetarán las Condiciones Generales de Trabajo de la Secretaría de Salud del Gobierno Federal y sus reformas futuras, así como los Reglamentos elaborados conforme a la normatividad federal aplicable en sus relaciones laborales con los trabajadores provenientes de la Secretaría de Salud. El Instituto procederá a registrarlos ante el Tribunal de Arbitraje del Estado de Baja California, con el propósito de que se apliquen en las controversias que se diriman por ésta autoridad jurisdiccional.
+
+Los trabajadores al servicio del sector salud continuarán agrupados en su propio Sindicato. Los asuntos laborales de naturaleza colectiva serán tratados en los términos de los Acuerdos de Descentralización y Coordinación respectivos.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 1998)</small>
+
+###### ARTICULO 157.
+
+Los trabajadores que se transfieran por el Gobierno Federal al Instituto de Servicios de Salud Pública del Estado de Baja California, continuarán gozando de su actual régimen de seguridad social, que estará a cargo del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado.
 
 ## TRANSITORIOS
 
@@ -1342,3 +1382,9 @@ UNICO.- Las presentes adiciones entrarán en vigor al día siguiente de su publi
 P.O. 19 DE DICIEMBRE DE 1997.
 
 UNICO.- El presente Decreto entrará en vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ABRIL DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
