@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-59-de-fiscalizacion-superior-para-el-estado-de-16460
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2003-03-18"
+last_updated: "2003-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ABRIL DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 26 de mayo de 2000.
 
@@ -43,15 +43,21 @@ LEY NÚMERO 59
 
 DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+# LIBRO PRIMERO
+
 ### CAPÍTULO I. Disposiciones generales
 
 ###### Artículo 1.
 
 La presente ley es de orden público y tiene por objeto reglamentar la función de fiscalización superior a que se refiere el artículo 67, fracción III, de la Constitución Política del Estado, así como establecer las bases de la organización y funcionamiento del Órgano de Fiscalización Superior del Estado.
 
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
+
 ###### Artículo 2.
 
-El Órgano de Fiscalización Superior es un organismo autónomo de Estado dotado de personalidad jurídica y patrimonio propios, autonomía técnica, presupuestal y de gestión, que apoya al Congreso del Estado en el desempeño de sus funciones, y tiene la competencia que le confieren la Constitución Política del Estado, esta ley y demás legislación aplicable.
+El Órgano de Fiscalización Superior es un organismo autónomo de Estado dotado de personalidad jurídica y patrimonio propios, autonomía técnica, presupuestal y de gestión, que apoya al Congreso del Estado en el desempeño de sus funciones de fiscalización, y tiene la competencia que le confieren la Constitución Política del Estado, esta ley y demás legislación aplicable.
 
 ###### Artículo 3.
 
@@ -89,6 +95,12 @@ La fiscalización superior se realizará en forma posterior a la presentación d
 
 Son sujetos de fiscalización los Poderes del Estado, los Ayuntamientos y, en general, cualquier persona física o moral, pública o privada, que recaude, administre, maneje o ejerza recursos públicos. Los Organismos y el Órgano sólo serán fiscalizados por el Congreso del Estado.
 
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+Artículo 5 BIS. Los Entes Fiscalizables retendrán el cinco al millar del monto de las obras contratadas, por concepto de inspección y vigilancia de las mismas. Estos recursos serán remitidos al Órgano para su administración, excepto cuando alguno de los Entes Fiscalizables convenga con aquél la supervisión por parte de su unidad de control o en coordinación con el Órgano. Los convenios que al efecto se celebren establecerán los porcentajes que les corresponda administrar.
+
+En el caso del Poder Ejecutivo, se estará a lo dispuesto por la Ley de Obras Públicas para el Estado.
+
 ### CAPÍTULO II. Del órgano de fiscalización superior
 
 #### Sección Primera. De su Competencia
@@ -119,9 +131,15 @@ X. Ordenar y efectuar visitas domiciliarias únicamente para exigir la exhibici�
 
 XI. Colaborar, para efectos de la fiscalización de recursos federales que ejerzan los Entes Fiscalizables, con su similar de la Federación, en la investigación y detección de desviaciones de dichos recursos;
 
+> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+XI BIS. Fiscalizar la aplicación de los recursos federales durante el ejercicio fiscal, a pedimento de la Auditoría Superior de la Federación;
+
 XII. Celebrar convenios con autoridades federales y de otras entidades federativas, así como con personas físicas o morales, tanto públicas como privadas, con el propósito de dar cumplimiento al objeto de esta ley;
 
-XIII. Determinar, en su caso, los daños y perjuicios que afecten a las Haciendas Públicas estatal y municipales, al patrimonio de las entidades paraestatales y al de los demás Organismos; y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Quinto de la Constitución Política del Estado y presentar las denuncias y querellas penales, en términos de la legislación aplicable;
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+XIII. Determinar, conforme al procedimiento señalado en esta ley, en su caso, los daños y perjuicios que afecten a las Haciendas Públicas estatal y municipales, al patrimonio de las entidades paraestatales y al de los demás Organismos; y fincar directamente a los responsables de las irregularidades, las indemnizaciones y sanciones correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Quinto de la Constitución Política del Estado y presentar las denuncias y querellas penales, en términos de la legislación aplicable;
 
 XIV. Requerir, en su caso, a los prestadores de servicios profesionales que contrate, los informes o dictámenes de las auditorías y revisiones por ellos practicadas;
 
@@ -135,9 +153,21 @@ XVIII. Conocer y resolver sobre el recurso de revocación que se interponga en c
 
 XIX. Elaborar su proyecto de presupuesto anual;
 
-XX. Darse su Reglamento Interior; y
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
-XXI. Las demás que expresamente señalen la Constitución Política del Estado, esta ley y las leyes del Estado.
+XX. Darse su Reglamento Interior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 22 DE ABRIL DE 2003)</small>
+
+XXI. Darse su Reglamento del Servicio Fiscalizador de Carrera;
+
+> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+XXII. Administrar, en su caso, los recursos que se obtengan por concepto de la retención que hagan los Ayuntamientos y demás Entes Fiscalizables del cinco al millar por supervisión y vigilancia de las obras contratadas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 22 DE ABRIL DE 2003)</small>
+
+XXIII. Las demás que expresamente le señalen la Constitución Política y las leyes del Estado.
 
 #### Sección Segunda. Del Auditor General y de los Auditores Especiales
 
@@ -181,7 +211,9 @@ I. Representar legalmente al Órgano e intervenir en toda clase de juicios en qu
 
 II. Elaborar el proyecto de presupuesto anual del Órgano y remitirlo a la Secretaría para su inclusión en el Proyecto de Presupuesto de Egresos del Estado;
 
-III. Administrar los bienes y recursos a cargo del Órgano, resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios, sujetándose a lo dispuesto en las leyes de la materia, así como gestionar la incorporación y destino o desincorporación de bienes inmuebles del dominio público del Estado, afectos a su servicio;
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+III. Administrar los bienes y recursos a cargo del Órgano, resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios, sujetándose a lo dispuesto en las leyes de la materia, y atendiendo a los principios de racionalidad, austeridad y disciplina presupuestal, así como gestionar la incorporación y destino o desincorporación de bienes inmuebles del dominio público del Estado, afectos a su servicio;
 
 IV. Aprobar el programa operativo anual del Órgano;
 
@@ -189,21 +221,43 @@ V. Expedir el Reglamento Interior del Órgano, en el que se distribuirán las at
 
 VI. Expedir los manuales de organización, procedimientos y servicios al público necesarios para el funcionamiento del Órgano, los que deberán ser publicados en la Gaceta Oficial del Estado;
 
-VII. Nombrar y remover libremente a los titulares de las unidades administrativas y a los servidores públicos subalternos a que se refiere el artículo 12 de esta ley;
+> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+VI BIS. Expedir el Estatuto sobre las condiciones generales de trabajo de los servidores públicos del Órgano;
+
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+VII. Nombrar y remover a los titulares de las unidades administrativas y a los servidores públicos subalternos a que se refiere el artículo 12 de esta ley, bajo las condiciones y términos del Reglamento del Servicio Fiscalizador de Carrera;
 
 VIII. Establecer conjuntamente con la Secretaría y las Unidades de Control Interno las reglas técnicas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la práctica idónea de las auditorías y revisiones;
 
 IX. Solicitar a los Entes Fiscalizables la información y el auxilio que se requiera para el ejercicio de la función de fiscalización superior de las Cuentas Públicas;
 
-X. Formular y entregar al Congreso, por conducto de la Comisión, el Informe del Resultado;
+> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2003)</small>
 
-XI. Entregar al Congreso, en forma separada y por conducto de la Comisión, la comprobación del presupuesto ejercido por el Órgano el año inmediato anterior, simultáneamente a la presentación del Informe del Resultado;
+IX BIS. Formular a los Entes Fiscalizables los pliegos de observaciones; las conclusiones preliminares y finales que al efecto se integren en el Informe del Resultado; y dar seguimiento al Informe del Resultado por las irregularidades que se determinen;
+
+> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+IX TER. Determinar si la documentación y demás elementos presentados por los Entes Fiscalizables, en descargo de las observaciones que en su caso se hayan formulado, son suficientes para solventarlas;
+
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+X. Formular y entregar al Congreso, por conducto de la Comisión, el Informe del Resultado de la revisión de las Cuentas Públicas, del seguimiento al mismo, así como el informe de los actos de fiscalización realizados en apoyo al Congreso del Estado;
+
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+XI. Entregar al Congreso, en forma separada y por conducto de la Comisión, el informe del ejercicio del Presupuesto del Órgano del año inmediato anterior, simultáneamente a la presentación de los Informes del Resultado;
 
 XII. Ordenar, en su caso, la práctica de visitas, auditorías e inspecciones necesarias para la realización de investigaciones;
 
-XIII. Formular pliegos de observaciones y determinar, en su caso, los daños y perjuicios que afecten a las Haciendas Públicas estatal y municipales, al patrimonio de las entidades paraestatales y al de los Organismos;
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
-XIV. Fincar, para los efectos de la fracción anterior, directamente a los responsables las indemnizaciones y sanciones pecuniarias;
+XIII. Substanciar el procedimiento de determinación de responsabilidades y fincamiento de indemnizaciones y sanciones, y determinar en su caso, los daños y perjuicios que afecten a las Haciendas Públicas estatal y municipales, al patrimonio de las entidades paraestatales y al de los Organismos;
+
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+XIV. Fincar, para los efectos de la fracción anterior, directamente a los responsables, las sanciones correspondientes;
 
 XV. Conocer y resolver sobre el recurso de revocación que se interponga en contra de sus actos o resoluciones;
 
@@ -221,9 +275,11 @@ XX. Las demás que señalen esta ley y las disposiciones legales aplicables.
 
 Corresponde originalmente al Auditor General el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrá delegar en servidores públicos subalternos cualquiera de sus atribuciones, excepto aquellas que por disposición de ley o del Reglamento Interior del Órgano deban ser ejercidas exclusivamente por él mismo. Para su validez, los actos de delegación deberán constar por escrito y publicarse en la Gaceta Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
+
 ###### Artículo 12.
 
-Para el mejor desempeño de sus funciones, el Órgano contará con dos Auditores Especiales las que, a su vez, contarán únicamente con las Direcciones, Subdirecciones, Jefaturas de Departamento, Inspecciones, Visitadurías, y servidores públicos estrictamente necesarios para el cumplimiento de sus funciones y que establezca el Reglamento Interior de conformidad con el presupuesto autorizado.
+Para el mejor desempeño de sus funciones, el Órgano contará con las Auditorías Especiales, Direcciones, Subdirecciones, Jefaturas de Departamento, Inspecciones, Visitadurías, y servidores públicos estrictamente necesarios para el cumplimiento de sus funciones y que establezca el Reglamento Interior de conformidad con el presupuesto autorizado.
 
 Para desempeñar el cargo de Auditor Especial se deberán cumplir los mismos requisitos exigidos para ser Auditor General.
 
@@ -233,9 +289,11 @@ En caso de falta absoluta, renuncia o remoción del Auditor General, la Comisió
 
 El Auditor General será suplido en sus ausencias temporales, que no excederán de 30 días naturales y de las que deberá dar aviso al Congreso por conducto de la Comisión, por los Auditores Especiales, en el orden que señale el Reglamento Interior del Órgano. Si la ausencia es mayor, se considerará falta absoluta.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
+
 ###### Artículo 14.
 
-El Auditor General y los Auditores Especiales, durante el ejercicio de su cargo, no podrán:
+El Auditor General, los Auditores Especiales, los Titulares de las Direcciones, Subdirecciones y Jefaturas de Departamento del Órgano, durante el ejercicio de su cargo, no podrán:
 
 I. Ejercer cargo alguno de dirección en cualquier partido u organización política;
 
@@ -259,6 +317,10 @@ V. Conducirse con parcialidad en el proceso de revisión de las Cuentas Pública
 
 Los Auditores Especiales podrán ser removidos también por las causas graves a que se refiere este artículo, por el Auditor General o por la Comisión.
 
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+Artículo 15 BIS. Los servidores públicos del Órgano, por la naturaleza de las funciones que desempeñan, conforme al artículo 6 de esta ley, que requieren de estricta reserva y confidencialidad, serán trabajadores de confianza, seleccionados de acuerdo con las disposiciones del Reglamento del Servicio Fiscalizador de Carrera, y en atención a su capacidad, eficiencia y calidad, mismas que deberán acreditar a través de evaluaciones periódicas, para su permanencia en la prestación del servicio.
+
 ### CAPÍTULO III. De la comisión
 
 ###### Artículo 16.
@@ -267,7 +329,13 @@ La Comisión coordinará y evaluará el funcionamiento del Órgano y tendrá com
 
 I. Recibir del Congreso o, en su caso, de la Diputación Permanente las Cuentas Públicas y turnarlas al Órgano;
 
-II. Recibir y, en su caso, realizar las observaciones que considere pertinentes respecto del Informe de Resultado que presente el Órgano, y turnarlo al Pleno del Congreso para que éste, a su vez, lo remita a las comisiones dictaminadoras correspondientes;
+> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+I BIS. Comunicar al Órgano aquellos Acuerdos del Congreso o de la Diputación Permanente, en los que requiera de su apoyo para llevar a cabo actos de fiscalización;
+
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+II. Recibir y dictaminar, con las modificaciones que acuerde, los Informes de Resultados que le presente el Órgano;
 
 III. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual del Órgano, así como fiscalizar, por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de éste;
 
@@ -313,29 +381,43 @@ Si la Comisión resuelve, por la aprobación de la mitad más uno de sus integra
 
 Los Poderes del Estado y los Ayuntamientos tendrán la facultad de formular queja ante la Comisión sobre los actos del Auditor General que contravengan las disposiciones de esta ley, en cuyo caso, la Comisión substanciará la investigación preliminar a fin de determinar si se actualiza alguna de las hipótesis a que se refiere el artículo 15 de esta ley, así como si ha lugar o no a iniciar el procedimiento previsto en los dos artículos anteriores, o bien el procedimiento previsto en la Ley de Responsabilidades de los Servidores Públicos.
 
-### CAPÍTULO IV. De las cuentas públicas y del informe del resultado
+> <small>(REFORMADA SU DENOMINACION, G.O. 22 DE ABRIL DE 2003)</small>
+
+### CAPÍTULO IV. De las cuentas públicas
 
 ###### Artículo 20.
 
 Para los efectos de esta ley, las Cuentas Públicas contendrán:
 
-I. El estado analítico de ingresos, los estados programáticos, presupuestarios, financieros, económicos y contables;
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+I. El estado analítico de ingresos, los estados programáticos, presupuestarios, financieros y contables;
 
 II. El balance general o estado de situación financiera;
 
 III. El estado de deuda pública; y
 
-IV. La información general que permita el análisis de resultados.
+IV. (DEROGADA, G.O. 22 DE ABRIL DE 2003)
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+El Órgano solicitará la información general que permita el análisis de resultados, en la que se incluyan los datos económicos.
+
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
 
 #### Sección Primera. De las Cuentas Públicas
 
+> <small>(DEROGADA, G.O. 22 DE ABRIL DE 2003)</small>
+
 ###### Artículo 21.
 
-Las Cuentas Públicas deberán ser presentadas al Congreso, por el Gobierno del Estado y los Ayuntamientos, durante el mes de mayo del año siguiente al del ejercicio fiscal anual que será objeto de revisión. El Congreso, a través de la Comisión, la turnará al Órgano, el cual deberá remitir el Informe del Resultado a dicha Comisión. El Órgano sólo podrá fiscalizar las Cuentas Públicas del ejercicio fiscal anual que será objeto de revisión.
+Las Cuentas Públicas deberán ser presentadas al Congreso, por el Gobierno del Estado y los Ayuntamientos, durante el mes de mayo del año siguiente al del ejercicio fiscal anual que será objeto de revisión. Tratándose del último año del ejercicio de las administraciones municipales, las Cuentas Públicas y la documentación de éstas, se presentarán durante la primera quincena del mes de diciembre del año en que concluyan. El Congreso, a través de la Comisión, las turnará al Órgano, el cual deberá remitir el Informe del Resultado a dicha Comisión. El Órgano sólo podrá fiscalizar las Cuentas Públicas del ejercicio fiscal anual que será objeto de revisión.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
 
 ###### Artículo 22.
 
-El Órgano conjuntamente con la Secretaría y las Unidades de Control Interno de los Poderes del Estado, los Ayuntamientos y los Organismos, establecerán reglas técnicas para la baja de documentos justificatorios y comprobatorios para efecto de destrucción, guarda o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia.
+El Órgano, conjuntamente con la Secretaría y las Unidades de Control Interno de los Poderes del Estado, de los Ayuntamientos y de los Organismos, establecerán reglas técnicas para que los documentos justificatorios y comprobatorios puedan darse de baja o destruirse, siempre que tenga una antigüedad de cinco años y, en su caso, para la guarda o custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia.
 
 Los microfilmes y los archivos guardados mediante procesamiento electrónico, tendrán el valor que, en su caso, establezcan las disposiciones legales relativas a las operaciones en que aquellos se apliquen.
 
@@ -375,13 +457,89 @@ Los servidores públicos del Órgano, así como los prestadores de servicios que
 
 El Órgano será responsable solidariamente por los daños y perjuicios que cause la actuación ilícita de sus servidores públicos, así como por la de los prestadores de servicios que contrate para el ejercicio de sus funciones.
 
-### CAPÍTULO V. De la investigación de irregularidades y de los daños y perjuicios
+> <small>(DEROGADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+### CAPÍTULO V. Del proceso de fiscalización
+
+> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2003)</small>
 
 #### Sección Segunda. Del Informe del Resultado
 
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+#### Sección Primera. Del Pliego de Observaciones
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+Artículo 30 BIS. Una vez que reciba del Congreso por conducto de la Comisión, las Cuentas Públicas de los Entes Fiscalizables, el Órgano dará inicio al proceso de fiscalización que a continuación se describe:
+
+I. El Órgano notificará por escrito, la fecha de inicio, la modalidad y el alcance de la fiscalización de los recursos públicos municipales, estatales o federales, según sea el caso, así como la documentación que deberá poner a su disposición para llevar a cabo la misma.
+
+La modalidad de las revisiones podrá ser:
+
+a) De gabinete: aquella en la que el Ente Fiscalizable presenta la documentación comprobatoria en las oficinas del Órgano, donde se lleva a cabo la auditoría; o
+
+b) De Campo: Aquélla que se efectúa a través de personal propio expresamente comisionado o despachos externos habilitados por el Órgano, para llevar a cabo la auditoría en el sitio de la obra o de los archivos del Ente Fiscalizable.
+
+Por alcance de la fiscalización deberá entenderse el tipo de revisión a la que será sometido el Ente Fiscalizable, pudiendo ser legal, financiera, presupuestal, de desempeño o cumplimiento de objetivos, técnica a la obra pública, en su caso, integral. Independientemente del tipo de auditoría que se realice, éstas se harán con base en pruebas selectivas y con apego a las normas de auditoría generalmente aceptadas;
+
+II. Al iniciar la revisión, los auditores del Órgano levantarán acta circunstanciada en la que se hará constar, de manera precisa, la documentación que se recibe, y en su caso, las inconsistencias detectadas. A juicio de los representantes del Órgano o por petición del Ente Fiscalizable, el acta podrá suspenderse y reanudarse, tantas veces como sea necesario.
+
+Durante sus actuaciones, los representantes del Órgano que hubieren intervenido en las revisiones, deberán levantar actas circunstanciadas que en lo general contendrán los siguientes requisitos:
+
+a) El nombre de las personas que intervienen en la misma, el documento legal que las identifica, así como el carácter de titulares o comisionados para actuar en representación de los Entes Fiscalizables;
+
+b) Los representantes del Ente Fiscalizable deberán designar a dos testigos, o en su ausencia o negativa, los designará la autoridad que practique la diligencia;
+
+c) Deberán asentarse todos los hechos o circunstancias que se desarrollen durante la práctica de las diligencias; y
+
+d) Deberán estar firmadas al margen y al calce por las personas que intervinieron en la misma;
+
+III. Al cerrar el acta de auditoría, el Órgano dará a conocer al ente fiscalizado, las inconsistencias detectadas como resultado de la revisión, mismas que servirán de base para la elaboración del Pliego de Observaciones;
+
+IV. El Órgano notificará al ente fiscalizado el Pliego de Observaciones, otorgándole un plazo de 20 días hábiles contados a partir del día siguiente al en que surta sus efectos la notificación del citado pliego, para que dentro del término, presente la documentación comprobatoria y/o aclaraciones que solventen, a juicio del Órgano, las observaciones notificadas;
+
+V. El responsable de la solventación deberá presentar la documentación y/o aclaraciones para el efecto de solventar las observaciones, adicionando un dictamen emitido por el titular de quien desempeñe las funciones de control interno del Ente Fiscalizable, en el que conste su evaluación y opinión respecto de la mencionada documentación y aclaraciones;
+
+VI. El Órgano, al recibir la documentación y/o aclaraciones, levantará acta circunstanciada, que deberá contener los requisitos señalados en la fracción II de este artículo. En el acta se harán constar de manera preliminar las observaciones que fueron solventadas y aquellas que a juicio del Órgano no fueron desahogadas satisfactoriamente; y
+
+VII. Con los resultados asentados en el acta a que se refiere la fracción anterior, el Órgano formulará el Informe del Resultado, que presentará al Congreso, por conducto de la Comisión, en los términos de los artículos 31 y 32 de esta ley, e incluirá como parte de su contenido, propuestas sobre las acciones a seguir, que estarán en función de la gravedad de los señalamientos asentados en el Informe del Resultado.
+
+Cuando por causas imputables al Ente Fiscalizable, no pudiere llevarse a cabo el proceso de fiscalización por la falta de presentación de documentación comprobatoria al Órgano, se informará de tal situación al Congreso.
+
+> <small>(ADICIONADA, G.O. 22 DE ABRIL DE 2003)</small>
+
 ###### Artículo 31.
 
-El Órgano presentará al Congreso, por conducto de la Comisión, el Informe del Resultado. La presentación del Informe se podrá prorrogar, en un plazo que no exceda de tres meses para la Cuenta Pública del Gobierno del Estado y en un plazo que no exceda de siete meses, para las Cuentas Públicas de los Ayuntamientos, debiendo informar dicha prórroga al Congreso del Estado por conducto de la Comisión.
+El Órgano presentará al Congreso, por conducto de la Comisión, el Informe del Resultado. La presentación del Informe se hará a más tardar la segunda quincena del mes de diciembre del año posterior al del ejercicio.
+
+I. Al recibir la Comisión el Informe del Resultado, emitirá el dictamen correspondiente que, entre otros, podrá contener los siguientes aspectos:
+
+a) La aprobación de las Cuentas Públicas de los entes fiscalizados que cumplieron en forma razonable con la normativa aplicable al ejercicio de los recursos; o
+
+b) La continuación del procedimiento previsto en los Capítulos VI y VII del Libro Primero de esta ley.
+
+II. Al ser notificado por el Congreso del (sic) Decreto en relación al Informe del Resultado, el Órgano dará continuidad al proceso de fiscalización, solicitando a los Entes Fiscalizables, cuyas inconsistencias y/o irregularidades pudieran ser administrativas o cuantificarse y su monto constituir un presunto daño patrimonial o de desvío de recursos, que presenten la documentación, así como justificaciones que las solventen plenamente, para lo cual se le otorgará un plazo de diez días hábiles a partir de que surta efectos la notificación de la determinación del Congreso.
+
+III. El Órgano, al recibir de los entes fiscalizados la documentación y/o aclaraciones a los señalamientos del Informe del Resultado, levantará acta circunstanciada, la cual deberá contener los requisitos señalados en la fracción II del artículo 30 BIS de esta ley. En el acta se harán constar de manera preliminar las irregularidades que fueron solventadas y aquellas que a juicio del Órgano no fueron desahogadas satisfactoriamente.
+
+IV. Con el examen de los resultados asentados en el acta a que se refiere la fracción anterior, el Órgano formulará el Informe del Seguimiento a los Informes del Resultado que habrá de presentar al Congreso por conducto de la Comisión, mismo que deberá contener la forma como se dio cumplimiento al decreto del Congreso referente a la fiscalización superior, así como las consideraciones acerca del procedimiento a seguir en el caso de Entes Fiscalizables que hubieran solventado las observaciones susceptibles de ello, y de aquéllos que aún persistan con irregularidades que representen desvío de recursos o que pudieran cuantificarse y su monto constituir un presunto daño patrimonial.
+
+V. Al recibir la Comisión el Informe del Seguimiento, emitirá el dictamen correspondiente que, entre otros, podrá contener los siguientes aspectos:
+
+a) La aprobación de las Cuentas Públicas de los entes fiscalizados que solventaron en forma satisfactoria las observaciones; o
+
+b) La continuación del procedimiento previsto en los Capítulos VI y VII del Libro Primero de esta ley.
+
+VI. Al ser notificado por el Congreso el Decreto referente al Informe del Seguimiento, el Órgano dará continuidad al proceso de fiscalización:
+
+a) Cuando se trate de irregularidades administrativas no solventadas que no causen daño a la Hacienda Pública, las autoridades competentes determinarán la aplicación de las sanciones que correspondan; y
+
+b) En los demás casos se procederá conforme al artículo 44 BIS de esta ley; y
+
+VII. En virtud de que las auditorías practicadas se realizan con base en pruebas selectivas, en ningún momento, las notificaciones que expida el Órgano, referentes a la solventación de las observaciones detectadas como resultado de la fiscalización superior, reconocimientos de haber efectuado una gestión financiera adecuada o amonestaciones, liberarán a las autoridades que manejaron los recursos, de responsabilidades futuras que pudieran surgir con motivo del ejercicio de las facultades de revisión, referente a lo que no fue materia de examen, que con base en lo que establecen la Ley de Fiscalización Superior de la Federación y la presente ley, lleven a cabo las autoridades facultadas.
+
+(REUBICADO, G.O. 22 DE ABRIL DE 2003)
 
 ###### Artículo 32.
 
@@ -395,51 +553,35 @@ III. El cumplimiento de los principios de contabilidad gubernamental y de las di
 
 IV. El señalamiento, en su caso, de las irregularidades detectadas.
 
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
+
 ###### Artículo 33.
 
-Si de la revisión y fiscalización superior de las Cuentas Públicas, que apruebe el Congreso, aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños y perjuicios en contra de las Haciendas Públicas estatal y municipales, al patrimonio de las entidades paraestatales o al de los Organismos, el Órgano procederá de inmediato a iniciar las investigaciones del caso y, al efecto, podrá requerir a los Entes Fiscalizables un informe de sus actuaciones.
-
-A partir de que inicie la investigación, el Órgano fincará las indemnizaciones y sanciones correspondientes en un período no mayor de un año.
+A partir de que inicie la investigación, el Órgano fincará las indemnizaciones y sanciones correspondientes en un periodo no mayor de un año.
 
 ###### Artículo 34.
 
-Los Entes Fiscalizables deberán rendir al Órgano, en un plazo que no excederá de veinte días hábiles contados a partir de la recepción del requerimiento, un informe de sus actuaciones.
-
-Este plazo podrá ampliarse en no más de veinte días hábiles cuando, a juicio del Órgano, medie causa justificada.
+(DEROGADO, G.O. 22 DE ABRIL DE 2003)
 
 ###### Artículo 35.
 
-Si transcurrido el plazo señalado en el artículo anterior, el Ente Fiscalizable, sin causa justificada, no presenta el informe requerido, el Órgano amonestará a los servidores públicos responsables, apercibiéndolos que de no presentar el informe requerido, se harán acreedores a una multa de cien a seiscientos días de salario mínimo general vigente en la Capital del Estado.
-
-Una vez cumplido el procedimiento señalado en el párrafo anterior, el Órgano requerirá de nueva cuenta al Ente Fiscalizable que entregue, en un plazo improrrogable de cinco días hábiles, el informe de sus actuaciones. El incumplimiento a dicho requerimiento se podrá castigar con una multa hasta del doble de la ya impuesta y con la promoción de la destitución de los responsables ante las autoridades competentes.
-
-La imposición de sanciones no relevará al infractor del cumplimiento de sus obligaciones y de la regularización de las situaciones que las motivaron.
+(DEROGADO, G.O. 22 DE ABRIL DE 2003)
 
 ###### Artículo 36.
 
-Si como resultado de las investigaciones a que se hace referencia en este Capítulo, aparecieran irregularidades, el Órgano procederá a:
-
-I. Establecer la presunción de responsabilidades, el señalamiento de presuntos responsables y la estimación del monto de los daños y perjuicios, para efectos de iniciar el procedimiento administrativo correspondiente;
-
-II. Promover ante las autoridades competentes el fincamiento de otras responsabilidades;
-
-III. Promover las acciones de responsabilidad a que se refiere el Título Quinto de la Constitución Política del Estado y la ley de la materia;
-
-IV. Presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención a que haya lugar; y
-
-V. Coadyuvar con el Ministerio Público en los procesos penales correspondientes.
+(DEROGADO, G.O. 22 DE ABRIL DE 2003)
 
 ###### Artículo 37.
 
-El Órgano determinará los daños y perjuicios que afecten a las Haciendas Públicas estatal y municipales, al patrimonio de las entidades paraestatales y al de los Organismos, con base en medios probatorios que permitan presumir el manejo, aplicación o custodia irregulares de recursos públicos. Al efecto, el Órgano podrá requerir a los Entes Fiscalizables la revisión de conceptos específicos vinculados de manera directa con sus investigaciones o con las denuncias presentadas.
+(DEROGADO, G.O. 22 DE ABRIL DE 2003)
 
 ###### Artículo 38.
 
-El Órgano formulará a los Entes Fiscalizables, según sea el caso, los pliegos de observaciones derivados de la revisión y fiscalización superior de las Cuentas Públicas, en los que se determinará la presunta responsabilidad de los infractores, y se fijará en cantidad líquida el monto de los daños y perjuicios.
+(DEROGADO, G.O. 22 DE ABRIL DE 2003)
 
 ###### Artículo 39.
 
-Los Entes Fiscalizables, dentro de un plazo de veinte días hábiles, contados a partir de la fecha de recibo de los pliegos de observaciones, deberán solventarlos ante el Órgano y éste emitirá la resolución correspondiente. Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado, o bien, la documentación y argumentos presentados no sean suficientes, a juicio del Órgano, para desvirtuar las observaciones, iniciará el procedimiento para el fincamiento de las responsabilidades a que haya lugar.
+(DEROGADO, G.O. 22 DE ABRIL DE 2003)
 
 ### CAPÍTULO VI. De los sujetos responsables y de las indemnizaciones
 
@@ -447,23 +589,59 @@ Los Entes Fiscalizables, dentro de un plazo de veinte días hábiles, contados a
 
 Para los efectos de esta ley incurren en responsabilidad:
 
-I. Los servidores públicos y los particulares, por actos u omisiones que causen daño o perjuicio estimable en dinero en contra de las Haciendas Públicas estatal y municipales, del patrimonio de las entidades paraestatales y del de los Organismos;
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+
+I. Los servidores públicos y, en su caso, los particulares, por actos u omisiones que causen daño o perjuicio estimable en dinero en contra de las Haciendas Públicas estatal y municipales, del patrimonio de las entidades paraestatales y del de los Organismos;
 
 II. Los servidores públicos de los Entes Fiscalizables que no rindan sus informes acerca de la solventación de los pliegos de observaciones formulados y remitidos por el Órgano, y
 
 III. Los servidores públicos del Órgano cuando, con motivo de la revisión y fiscalización superior de las Cuentas Públicas, no formulen las observaciones sobre las situaciones irregulares que detecten.
 
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
+
 ###### Artículo 41.
 
-El Órgano, con base en las responsabilidades que se determinen conforme al procedimiento previsto en esta ley, fincará directamente a los responsables las indemnizaciones correspondientes, a fin de resarcir a las Haciendas Públicas estatal y municipales, al patrimonio de las entidades paraestatales y al de los Organismos, el monto de los daños y perjuicios cuantificables en dinero que se hayan causado.
+El Órgano, con base en las responsabilidades que se determinen conforme al procedimiento previsto en esta ley, fincará a los responsables de las irregularidades, las sanciones y las indemnizaciones correspondientes, a fin de resarcir a las Haciendas Públicas estatal y municipales, al patrimonio de las entidades paraestatales y al de los Organismos, el monto de los daños y perjuicios cuantificables en dinero que se hayan causado.
 
-Las indemnizaciones se fincarán independientemente de aquellas que sean objeto de otras leyes, y de las sanciones pecuniarias correspondientes.
+Para el efecto anterior, el Órgano solicitará a la autoridad correspondiente que proceda a la aplicación del procedimiento administrativo de ejecución.
+
+Las indemnizaciones se fincarán independientemente de aquellas que sean objeto de otras leyes, y de las sanciones correspondientes.
 
 ###### Artículo 42.
 
 Las indemnizaciones y sanciones se fincarán en primer término a los servidores públicos o particulares que directamente hayan ejecutado los actos o incurrido en las omisiones que las hayan originado y, subsidiariamente, en orden jerárquico, al servidor público que, por la índole de sus funciones, haya omitido la revisión o autorizado tales actos, por causas que impliquen dolo, culpa o negligencia.
 
 Serán responsables solidarios con los servidores públicos, los particulares, que hayan participado en los actos u omisiones que causen responsabilidad.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+Los responsables de las irregularidades administrativas en que hubieren incurrido los Entes Fiscalizables se harán acreedores a una amonestación por escrito de parte del Órgano.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+El Órgano, para hacer cumplir sus determinaciones, podrá imponer los medios de apremio siguientes:
+
+I. Amonestación verbal;
+
+II. Amonestación por escrito; y
+
+III. Apercibimiento.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+Artículo 42 BIS. Cuando se impongan sanciones pecuniarias, la motivación de la resolución considerará las siguientes circunstancias:
+
+I. La gravedad de la infracción en que se incurra;
+
+II. Los antecedentes del infractor;
+
+III. Las condiciones socioeconómicas del infractor;
+
+IV. La reincidencia en el incumplimiento de obligaciones, en su caso; y
+
+V. El monto del beneficio, daño o perjuicio económico, derivado del incumplimiento de obligaciones, si lo hubiere.
+
+Independientemente de la indemnización, el Órgano podrá aplicar una sanción pecuniaria, que consistirá en una multa de uno hasta tres veces el monto de los daños y perjuicios causados.
 
 ###### Artículo 43.
 
@@ -475,17 +653,51 @@ El fincamiento de las indemnizaciones y sanciones a que se refiere esta ley no e
 
 La determinación de las responsabilidades y el fincamiento de indemnizaciones y sanciones se sujetará al procedimiento siguiente:
 
-I. Se citará personalmente al presunto o presuntos responsables a una audiencia en la sede del Órgano, haciéndoles saber los hechos que se les imputan y que sean causa de responsabilidad en los términos de esta ley, señalando el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor; apercibidos que de no comparecer sin justa causa, se tendrá por precluido su derecho para ofrecer pruebas o formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo.
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
-A la audiencia podrá asistir un representante de la Unidad de Control Interno del Ente Fiscalizable al que pertenezca el o los presuntos responsables. Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días hábiles;
+I. Se citará personalmente a los responsables de las irregularidades para que comparezcan por sí o por medio de un apoderado legal a una audiencia de Pruebas y Alegatos en la sede del Órgano, haciéndoles saber las irregularidades pendientes de solventar que sean causa de responsabilidad en los términos de esta ley; el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas directamente relacionadas con las irregularidades; asimismo, se le hará saber su derecho a alegar en la misma, apercibiéndoles que de no comparecer sin justa causa, se tendrá por precluido su derecho para ofrecer pruebas y formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo.
 
-II. Celebrada la audiencia, se emitirá resolución dentro de los quince días hábiles siguientes en la que se determinará la existencia o inexistencia de la responsabilidad, y se fincará, en su caso, la indemnización y sanción correspondientes, a él o los sujetos responsables, y se notificará a éstos dicha resolución, remitiéndose un tanto autógrafo de la misma a la Secretaría o a la Tesorería Municipal que corresponda, para el efecto de que si, en un plazo de quince días hábiles siguientes a la fecha en que surta efectos la notificación, éste no es cubierto, o no es impugnado y debidamente garantizado en términos de las disposiciones aplicables, se haga efectivo, mediante el procedimiento administrativo de ejecución. Cuando los responsables sean servidores públicos, dicha resolución será notificada al representante del Ente Fiscalizable y al órgano de control interno respectivo.
+Cuando fueran varios los responsables de las irregularidades emanadas de la fiscalización de la Cuenta Pública, deberán nombrar un representante común mediante escrito debidamente autenticado, entregado antes de la fecha de la audiencia o nombrado en la misma. Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de cinco días hábiles;
 
-La indemnización deberá ser suficiente para cubrir los daños y perjuicios causados, y se actualizará para efectos de su pago, en la forma y términos que establecen las disposiciones fiscales aplicables en tratándose de contribuciones.
+> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
-La sanción pecuniaria consistirá en una multa de uno hasta tres tantos del monto de los daños y perjuicios causados.
+II. Durante la audiencia se ofrecerán las pruebas que establece esta ley, en la que:
+
+a) Las documentales públicas se recibirán sin más trámite;
+
+b) Las documentales privadas se recibirán con las salvedades de ley;
+
+c) Los testigos ofrecidos deberán comparecer en el inicio de la audiencia acreditando su identidad con credencial de elector, pasaporte o cédula profesional y serán examinados conforme a las formalidades que establece el Código de Procedimientos Administrativos;
+
+d) En el procedimiento de fiscalización, el Titular del Ente Fiscalizable o su representante, ofrecerán la prueba pericial conforme lo establece el Código de Procedimientos Administrativos. En cuanto a su desahogo, el dictamen del auditor del Órgano respecto de la irregularidad en controversia, será la prueba que se tenga como la de éste; y para el caso de discordancia de los dictámenes, el del auditor designado por la Comisión será la prueba que se tenga como la de tercero en discordia; y
+
+e) Las fotografías, videos y otros medios de convicción científicos, se recibirán con las salvedades que señala el Código de Procedimientos Administrativos.
+
+Celebrada la audiencia, se entregarán las pruebas a los auditores designados por el Órgano para que emitan su opinión técnica respecto de ellas y se turnará el expediente al Auditor General para su resolución.
+
+Una vez dictado el acuerdo que turna el expediente para resolver, no se admitirá probanza ni promoción alguna y se emitirá la resolución en el plazo establecido en el artículo 33 de esta ley.
 
 III. Si celebrada la audiencia el Órgano no encontrara elementos suficientes para fincar la responsabilidad, emitirá una resolución en ese sentido, en el plazo señalado en la fracción anterior.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+Artículo 44 BIS. Si como resultado del procedimiento a que se hace referencia en este Capítulo, aparecieran irregularidades, el Órgano procederá:
+
+I. En los casos en que se determine que por falta de solventación hay responsabilidad pecuniaria, dictará la resolución que deberá contener:
+
+a) El fincamiento del monto de la indemnización. Cuando por la falta de documentación comprobatoria que acredite el monto del daño, en los casos de obras fallidas o sin terminar, que por su naturaleza sean imposibles de precisar, para fijar el monto del daño se tomará como base el monto del presupuesto ejercido para ellas;
+
+b) La determinación de la existencia o inexistencia de la responsabilidad de los obligados de la comprobación de los gastos en los actos o hechos materia de las irregularidades;
+
+c) El mandamiento de notificar la resolución a los titulares de los Entes Fiscalizables, así como a la autoridad encargada de la ejecución correspondiente para el efecto de que, si en un plazo de quince días hábiles siguientes a la fecha en que esta última requiera de pago y éste no sea cubierto, o no es impugnado y debidamente garantizado en términos de las disposiciones aplicables, se haga efectivo, mediante el procedimiento administrativo de ejecución. En caso de incumplimiento de la autoridad ejecutora, se impondrá una multa de doscientos a mil días de salario mínimo vigente en la capital del Estado, sin que ésta los exima de otras responsabilidades por el incumplimiento de un mandato legal.
+
+II. Promover ante las autoridades competentes el fincamiento de otras responsabilidades;
+
+III. Promover las acciones de responsabilidad a que se refiere el Título Quinto de la Constitución Política del Estado y la ley de la materia;
+
+IV. En los casos en que se determine que los actos o hechos materia de irregularidades, presumen la existencia de ilícitos penales, deberá presentarse la denuncia correspondiente, solicitando al Ministerio Público que llame al Titular de la Unidad Presupuestal del Ente Fiscalizable y/o en su caso, al representante legal de los Ayuntamiento para que acudan a deducir sus derechos patrimoniales; y
+
+V. Coadyuvar con los titulares de los Entes Fiscalizables o representantes legales de los Ayuntamientos y con el Ministerio Público en los procesos penales correspondientes.
 
 ###### Artículo 45.
 
@@ -503,7 +715,7 @@ El Auditor General, bajo su más estricta responsabilidad, podrá abstenerse de 
 
 ###### Artículo 48.
 
-En todas las cuestiones relativas al procedimiento no previstas en este Capítulo, así como en el ofrecimiento, admisión, desahogo y valoración de los medios de prueba, trámite y resolución del recurso de revocación, se aplicarán supletoriamente las disposiciones del Código Fiscal para el Estado y las normas relativas al procedimiento disciplinario administrativo.
+(DEROGADO, G.O. 22 DE ABRIL DE 2003)
 
 ### CAPÍTULO VIII. Del recurso de revocación
 
@@ -511,11 +723,15 @@ En todas las cuestiones relativas al procedimiento no previstas en este Capítul
 
 Los interesados afectados por los actos o resoluciones definitivos del Órgano podrán, a su elección, interponer el recurso de revocación previsto en esta ley o intentar el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado.
 
-Se entenderán como actos o resoluciones definitivos, aquellos que ponen fin al procedimiento a que alude el Capítulo VII de esta ley.
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+Se entenderán como actos o resoluciones definitivos, aquellos que ponen fin al procedimiento a que alude el artículo 44 BIS, fracción I, de esta ley.
+
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
 
 ###### Artículo 50.
 
-El término para interponer el recurso de revocación será de quince días hábiles, contados a partir del día siguiente a aquél en que surta sus efectos la notificación del acto o resolución que se recurra.
+El término para interponer el recurso de revocación será de diez días hábiles, contados a partir del día siguiente a aquél en que surta sus efectos la notificación del acto o resolución que se recurra.
 
 ###### Artículo 51.
 
@@ -635,6 +851,308 @@ VI. Ordenar la reposición del procedimiento.
 
 La resolución que recaiga al recurso de revocación podrá ser impugnada ante el Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado.
 
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
+
+# LIBRO SEGUNDO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
+
+### CAPÍTULO I. Reglas generales del procedimiento de fiscalización
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 62.
+
+En el procedimiento de fiscalización no se podrán exigir mayores formalidades y requisitos que los expresamente establecidos en esta ley y en las normas aplicables.
+
+Las actuaciones se verificarán en las oficinas del Órgano. En el caso de que la naturaleza de la diligencia así lo requiera, y sea necesario o conveniente para agilizar el procedimiento, el desahogo de la diligencia podrá trasladarse a otro sitio, previa constancia debidamente fundada y motivada de esta circunstancia.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 63.
+
+El procedimiento administrativo de fiscalización se regirá por los principios de legalidad, prosecución del interés público, igualdad y proporcionalidad, imparcialidad, eficacia y buena fe; en consecuencia:
+
+I. Se ajustará estrictamente a las disposiciones de esta ley;
+
+II. Se sujetará a los plazos establecidos en esta ley;
+
+III. Se impulsará de oficio, sin perjuicio de la intervención de Entes Fiscalizables;
+
+IV. En las actuaciones sólo intervendrán los Titulares o los representantes acreditados de los Entes Fiscalizables;
+
+V. Será gratuito, sin que pueda condenarse al pago de gastos y costas; y
+
+VI. Los servidores públicos del Órgano y de los Entes Fiscalizables, así como los representantes de estos últimos, se conducirán en las promociones y actuaciones, con honradez, transparencia y respeto.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 64.
+
+Los actos administrativos del Órgano, celebrados conforme a las disposiciones del artículo 28 de esta ley, se presumen válidos y surtirán todos sus efectos, excepto que se revoque o anule conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 65.
+
+El acto administrativo de fiscalización es válido desde el día en que surta sus efectos la notificación realizada de conformidad con las disposiciones de esta ley.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 66.
+
+Los manuales e instructivos que para la fiscalización expida el Órgano se publicarán en la Gaceta Oficial del estado y en su página de Internet, antes de su aplicación.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 67.
+
+El Auditor General podrá, de oficio o a petición del Ente Fiscalizable, revocar los actos emitidos por los servidores públicos del Órgano, cuando no reúnan los requisitos que señala esta ley; o cuando sobrevengan cuestiones de oportunidad e interés público previstos en la ley, siempre que se trate de resoluciones no definitivas.
+
+Cuando una resolución definitiva haya generado algún derecho o beneficio al interesado, no se podrá anular de oficio el acto administrativo. En este caso, el Órgano, para demandar su nulidad, tendrá que iniciar juicio de lesividad ante el Tribunal de lo Contencioso Administrativo.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
+
+### CAPÍTULO II. De las formalidades del procedimiento administrativo de fiscalización
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 68.
+
+Las promociones y actuaciones se harán en forma escrita. Cuando una diligencia se practique de manera oral, su desarrollo deberá documentarse inmediatamente con las formalidades establecidas en el artículo 28 de esta ley; al efecto, podrán utilizarse adicionalmente los elementos incorporables a un sistema de compilación y reproducción mecánico o electrónico, que garantice su conservación y recuperación completa y fidedigna.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 69.
+
+En las actuaciones, se escribirán con letra las fechas y cantidades. No se emplearán abreviaturas, ni se enmendarán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al final con toda precisión el error cometido, antes de que se firmen.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 70.
+
+Toda promoción deberá contener la firma autógrafa de quien la formule, requisito sin el cual no se le dará curso.
+
+En caso de duda sobre la autenticidad de la firma, el Órgano podrá llamar al interesado, dándole un plazo de tres días hábiles, para que en su presencia ratifique la firma y el contenido del ocurso. Si el interesado negare la firma o el contenido del escrito, se rehusare a contestar o no compareciere, se tendrá por no presentada la promoción.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
+
+#### Sección Segunda. Del Informe del Resultado
+
+> <small>(REFORMADO Y REUBICADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 71.
+
+No procederá la gestión de negocios ante el Órgano.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 72.
+
+Los titulares de los Entes Fiscalizables, mediante escrito auténtico, podrán autorizar para oír notificaciones en su nombre a cualquier persona, quien podrá ofrecer y rendir pruebas, presentar alegatos, interponer recursos, comparecer a las audiencias, recibir documentos y formular otras promociones en el procedimiento administrativo, pero no podrá desistirse del procedimiento sin autorización del titular del Ente Fiscalizable.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
+
+#### Sección Primera. De la Legitimación
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 73.
+
+Las promociones y actuaciones se efectuarán en días y horas hábiles. Serán días hábiles todos los del año, excepto el 1° de enero, 5 de febrero, 21 de marzo, 1° de mayo, 16 de septiembre, 20 de noviembre, 1° de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, el 25 de diciembre, así como los sábados, domingos y aquéllos que anualmente el Órgano declare inhábiles. La permanencia de personal de guardia no habilita los días. Serán horas hábiles las comprendidas entre las nueve y las dieciocho horas.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 74.
+
+El Auditor General del Órgano o en quienes delegue sus facultades, podrán habilitar los días y horas inhábiles, cuando hubiere causa justificada que lo exija. En el acuerdo que al efecto se expida, se expresará la causa de la habilitación y las diligencias que habrán de practicarse, el cual se notificará a los interesados con setenta y dos horas de anticipación. Si una diligencia se inició en día y hora hábiles, puede continuarse hasta su fin sin interrupción y sin necesidad de habilitación expresa.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 75.
+
+Cuando por cualquier circunstancia no se lleve a cabo una actuación o diligencia en el día y hora señalados, las autoridades del Órgano harán constar la razón por la que no se practicó.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 76.
+
+El Auditor General del Órgano o las autoridades en quienes delegue sus facultades podrán ordenar, de oficio o a petición de parte, subsanar las irregularidades u omisiones que observen en la tramitación del procedimiento de fiscalización, para el solo efecto de su regularización, debiendo notificar personalmente a los titulares de los Entes Fiscalizables.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 77.
+
+En el procedimiento administrativo de fiscalización no se producirá la caducidad por falta de impulso.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
+
+#### Sección Tercera. De los Términos y Notificaciones
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+#### Sección Segunda. De las Actuaciones
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 78.
+
+Las notificaciones podrán efectuarse:
+
+I. Personalmente a los interesados y por oficio a las autoridades, en su caso, cuando se trate de emplazamientos, citaciones, requerimientos y regularización del procedimiento. En ambos casos, la notificación personal se podrá efectuar por correo certificado con acuse de recibo;
+
+II. Por edicto que se publique por dos veces en la Gaceta Oficial del Estado y, en igual número de ocasiones, en un periódico de circulación estatal y en el de mayor circulación en el lugar del domicilio del interesado, tratándose de emplazamientos, citaciones, requerimientos y demás resoluciones o actos administrativos que puedan impugnarse, cuando el interesado a quien deba notificarse haya desaparecido, se ignore su domicilio, se encuentre fuera del territorio del Estado sin haber nombrado representante legal, o hubiere fallecido y no se conozca al albacea de la sucesión a quien deba notificarse;
+
+III. Por estrados ubicados en las oficinas del Órgano abiertas al público, cuando así lo señale la parte interesada o se trate de actos distintos a emplazamientos o requerimientos; y
+
+IV. En las oficinas del Órgano, si se presentan los interesados a quienes deba notificarse, incluyendo las que deban practicarse personalmente o por oficio
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 79.
+
+Las notificaciones personales se harán en el domicilio que para tal efecto se haya señalado. Tratándose del procedimiento de fiscalización, las notificaciones se practicarán en el domicilio registrado ante las autoridades y en caso de los titulares de los Entes Fiscalizables, se harán en la oficina de su residencia oficial.
+
+Las notificaciones se entenderán con la persona que deba ser notificada o su representante legal; a falta de ellos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente, y de negarse a recibirlo o de no encontrarse nadie en ese domicilio, se hará constar esta circunstancia en acta que al efecto se levante, ante dos testigos que sean vecinos del domicilio, tras de lo cual se entregará por instructivo y en sobre cerrado en la oficina de la policía del domicilio del que haya de notificarse para que se lo haga llegar. Si quien haya de notificarse no atendiera el citatorio, la notificación se hará por instructivo como en el caso anterior. En los casos en que el domicilio permaneciere cerrado, la notificación se entenderá con el vecino más cercano.
+
+El notificador asentará razón de todas y cada una de las circunstancias observadas en la diligencia de notificación.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 80.
+
+Las notificaciones deberán hacerse en días y horas hábiles, con una anticipación de cuarenta y ocho horas, por lo menos, al momento en que deba efectuarse la actuación o diligencia a que se refieren.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 81.
+
+Las notificaciones surtirán sus efectos el día hábil siguiente al en que se practiquen o, en su caso, el día hábil siguiente al en que el interesado o su representante legal se hagan sabedores de la notificación omitida o irregular.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 82.
+
+Cuando la ley no señale plazo para la práctica de alguna actuación o para el ejercicio de un derecho, se tendrá el de tres días hábiles.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 83.
+
+Transcurridos los plazos fijados a las partes interesadas para ejercer un derecho dentro del procedimiento de fiscalización, sin que éste se haya hecho valer, se tendrá por precluido, sin necesidad de declaración expresa.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 84.
+
+El cómputo de los plazos se sujetará a las siguientes reglas:
+
+I. Comenzarán a correr desde el día hábil siguiente al en que surta efectos la notificación y se incluirán en ellos el día del vencimiento;
+
+II. En los plazos fijados en días por el Órgano, sólo se computarán los días hábiles;
+
+III. En los plazos señalados en años o meses y en los que se fije una fecha determinada para su extinción, se entenderán comprendidos los días inhábiles; y
+
+IV. Los plazos señalados en horas y los relativos al cumplimiento del acuerdo de suspensión del acto impugnado, se contarán de momento a momento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
+
+### CAPÍTULO III. De los medios de prueba
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 85.
+
+En el procedimiento de fiscalización y en el recurso de revocación se admitirán toda clase de pruebas, excepto la confesional de las autoridades mediante absolución de posiciones.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 86.
+
+El Órgano podrá ordenar, en todo tiempo, sea cual fuere la naturaleza del caso, la práctica, repetición o ampliación de cualquier diligencia probatoria; o bien, acordar la solicitud de informes a los titulares de los Entes Fiscalizables o de toda persona que pueda tener a su disposición información relacionada con la fiscalización, siempre que sea necesario para el conocimiento de la verdad sobre el asunto. El acuerdo relativo se notificará a los titulares de los Entes Fiscalizables, a fin de que puedan intervenir, si así conviene a sus intereses.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 87.
+
+El Órgano analizará y valorará en su conjunto las pruebas rendidas mediante la aplicación de las reglas de la lógica.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 88.
+
+Los informes, manifestaciones o declaraciones rendidos en el procedimiento de fiscalización por los interesados, se presumirán ciertos salvo prueba en contrario; sin embargo, podrán ser objeto de control y verificación por parte del Órgano.
+
+Si los informes, manifestaciones o declaraciones proporcionados por el particular resultaren falsos, se estará a lo dispuesto por el Código Penal para el Estado. En el caso de los titulares, representantes legales o delegados de las autoridades que rindan informes, manifestaciones o declaraciones falsas, se aplicará la legislación correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 22 DE ABRIL DE 2003)</small>
+
+### CAPÍTULO IV. De las resoluciones en general
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 89.
+
+El proceso de fiscalización culmina con las resoluciones que prevén los artículos 31 fracción VI y 44 BIS, las que deberán fundarse y motivarse, ser claras, precisas y congruentes, y decidirán todas las cuestiones derivadas del expediente.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 90.
+
+En el procedimiento de fiscalización, en tanto no transcurran los plazos de prescripción señalados en la ley, el Órgano podrá practicar las diligencias necesarias respecto de las acciones y obras que no fueron materia de la fiscalización, sin que ello implique una nueva revisión de la Cuenta Pública.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 91.
+
+El Órgano en ningún caso podrá abstenerse de dictar las resoluciones que correspondan conforme al artículo 44 BIS de esta ley.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 92.
+
+El Órgano no podrá variar ni modificar sus resoluciones después de dictadas y firmadas. No obstante, cuando se trate de precisar algún concepto, lo podrá hacer de oficio, dentro del mes siguiente a la notificación correspondiente.
+
+El acuerdo que decida la aclaración de una resolución, se considerará parte integrante de ésta. Se tendrá como fecha de notificación de la resolución, la del acuerdo que decida la aclaración de la misma.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 93.
+
+En toda la materia de fiscalización, no procederá la afirmativa ficta y la falta de respuesta, se considerará como negativa ficta.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 94.
+
+El procedimiento de fiscalización termina con la resolución que se dicte conforme a los supuestos del artículo 44 BIS de esta ley.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 95.
+
+La resolución que ponga fin al procedimiento indicará:
+
+I. Lugar y fecha de emisión;
+
+II. El nombre de los responsables de las irregularidades;
+
+III. Las irregularidades sin solventar;
+
+IV. Los fundamentos y motivos que la sustenten;
+
+V. Los puntos decisorios conforme al artículo 44 BIS de esta ley;
+
+VI. En los casos de denuncia, el llamado a los titulares o los representantes de los Entes Fiscalizables para que intervengan conforme a derecho; y
+
+VII. El nombre y firma autógrafa del Auditor General del Órgano.
+
+> <small>(ADICIONADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+###### Artículo 96.
+
+En todas las cuestiones no previstas en esta ley, se aplicarán los Códigos de Procedimientos Administrativos, de Procedimientos Civiles y Financiero para el Estado, y en su caso, los Hacendarios Municipales.
+
 ## TRANSITORIOS
 
 Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
@@ -684,3 +1202,11 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 22 DE ABRIL DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Las disposiciones del presente Decreto serán aplicables a la fiscalización del ejercicio fiscal 2002 y subsecuentes.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
