@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-4711"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-08-22"
-last_updated: "1996-12-19"
+last_updated: "1997-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1997.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 22 de agosto de 1991.
 
@@ -2901,35 +2901,99 @@ Cualquier autoridad que conozca de un hecho de tortura, está obligado a denunci
 
 Para los efectos de este Capítulo, se entiende por:
 
-I.- Funcionarios electorales, quienes en los términos de la legislación estatal electoral integren los órganos que cumplen funciones públicas electorales;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
 
-II.- Funcionarios partidistas, los dirigentes de los partidos políticos estatales, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales estatales los propios partidos otorguen representación para actuar en la jornada electoral ante los órganos electorales en los términos del Código Estatal Electoral; y
+I.- Servidores públicos, las personas a que se refiere el artículo 116 de la Constitución Política Local;
 
-III.- Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, los de los cómputos distritales y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos electorales que establece el Código Estatal Electoral.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+II.- Funcionarios electorales, quienes en los términos de la legislación estatal electoral integren los órganos que cumplen funciones públicas electorales;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+III.- Funcionarios partidistas, los dirigentes de los partidos políticos estatales y de las agrupaciones políticas estatales. Y sus representantes ante los órganos electorales, en los términos de la legislación estatal electoral;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+IV.- Candidatos, los ciudadanos registrados formalmente como tales ante la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+V.- Documentos públicos electorales, las actas de jornada electoral, las relativas al escrutinio y cómputo de cada una de las elecciones, paquetes electorales y expedientes de casilla, las actas circunstanciadas de las sesiones de cómputo de los Consejos Locales, Municipales y Distritales, y las de los cómputos de circunscripción plurinominal y, en general, todos los documentos y actas expedidos en el ejercicio de sus funciones por las autoridades electorales; y
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+VI.- Materiales electorales, los elementos electorales, los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 356.
 
-Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo, se podrá imponer además de la pena señalada, la suspensión de derechos políticos de uno a cinco años.
+Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo, se podrá imponer además de la pena señalada, la suspensión de derechos políticos de uno a cinco años, la inhabilitación de uno a cinco años como servidor público y su destitución.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 357.
 
-Se impondrán de diez a cien días-multa o prisión de seis meses a dos años, o ambas sanciones a juicio del juez, a quien:
+Se impondrán de diez a cien días-multa o prisión de seis meses a tres años, o ambas sanciones a juicio del Juez, a quien:
 
 I.- Vote a sabiendas de que no cumple con los requisitos de la ley;
 
 II.- Vote más de una vez en una misma elección;
 
-III.- Haga proselitismo el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentran formados los votantes; o
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
 
-IV.- Obstaculice o interfiera el desarrollo normal de las votaciones o del escrutinio.
+III.- Haga proselitismo el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes con el fin de orientar el sentido de su voto;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+IV.- Obstaculice o interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electorales;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+V.- Recoja en cualquier tiempo, sin causa prevista por la Ley, credenciales para votar de los ciudadanos;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+VI.- Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o la jornada electoral;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+VII.- El día de la jornada electoral viole, de cualquier manera, el derecho del ciudadano a emitir su voto en secreto;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+VIII.- Vote o pretenda votar con una credencial para votar en la que no sea titular;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+IX.- El día de la jornada electoral lleve a cabo el transporte de votantes, coartando o pretendiendo coartar su libertad para la emisión del voto;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+X.- Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales, o impida de cualquier forma su traslado o entrega a los órganos competentes;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+XI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que mediante amenaza o promesa de paga o dádiva, comprometa su voto en favor de un determinado partido político o candidato;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+XII.- Impida en forma violenta la instalación de una casilla, o asuma dolosamente cualquier conducta que tenga como finalidad impedir la instalación normal de la casilla; o
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+XIII.- Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas que se encuentren en las zonas de husos horarios más occidentales del territorio nacional, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos.
 
 ###### ARTICULO 358.
 
 Se impondrán hasta quinientos días-multa, a los ministros de cultos religiosos, que por cualquier medio induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 359.
 
-Se impondrán de veinte a cien días-multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario electoral que:
+Se impondrán de cincuenta a doscientos días multa y prisión de dos a seis años, al funcionario electoral que:
 
 I.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Estatal o Federal de Electores;
 
@@ -2937,45 +3001,119 @@ II.- Se abstenga de cumplir, sin causa justificada, con sus obligaciones elector
 
 III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
 
-IV.- Altere los resultados electorales, sustraiga o destruya boletas electorales;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
 
-V.- No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
+IV.- Altere los resultados electorales, sustraiga o destruya boletas, documentos o materiales electorales;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+V.- No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
 
 VI.- En ejercicio de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de las casillas o en el lugar donde los propios electores se encuentren formados;
 
-VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia; y
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
 
-VIII.- Al que expulse de la casilla electoral sin causa justificada a representante de un partido político.
+VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado, o impida su instalación;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+VIII.- Sin causa prevista por la ley expulse u ordene el retiro de la casilla electoral de representantes de un partido político o coarte los derechos que la ley les concede;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+IX.- Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; o
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+X.- Propale de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 360.
 
-Se impondrán de cincuenta a cien días-multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario partidista que:
+Se impondrán de cien a doscientos días multa y prisión de uno a seis años, al funcionario partidista o al candidato que:
 
-I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+I.- Ejerza presión sobre los electores y los induzca a la abstención o a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
 II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
 
-III.- Sustraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
 
-IV.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+III.- Sustraiga, destruya, altere o haga uso indebido de documentos o materiales electorales;
 
-V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; ó
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
 
-VI.- Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la ley en la materia.
+IV.- Obstaculice el desarrollo normal de la votación o de los actos posteriores a la misma sin mediar causa justificada, o con ese fin amenace o ejerza violencia física sobre los funcionarios electorales;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+V.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+VI.- Impida con violencia la instalación, apertura o cierre de votación de una casilla o la abra o cierre fuera de los tiempos previstos por la ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+VII.- Obtenga y utilice a sabiendas en su calidad de candidato, fondos provenientes de actividades ilícitas para su campaña electoral.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 361.
 
-Se impondrán de setenta a doscientos días-multa o prisión de tres meses a seis años, o ambas sanciones a juicio del juez, al servidor público que:
+Se impondrán de doscientos a cuatrocientos días multa y prisión de uno a nueve años, al servidor público que:
 
-I.- Abusando de sus funciones obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
 
-II.- Condicione la prestación de un servicio público a la emisión del sufragio en favor de un partido político o candidato;
+I.- Obligue a sus subordinados, de manera expresa y haciendo uso de su autoridad o jerarquía, a emitir sus votos en favor de un partido político o candidato;
 
-III.- Destine fondos o bienes que tenga a su disposición en virtud de su cargo al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, en el ámbito de su competencia, a la emisión del sufragio en favor de un partido político o candidato;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+III.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como vehículos, inmuebles y equipos al apoyo de un partido político o de un candidato, sin perjuicio de las penas que pueda corresponder por el delito de peculado, o Proporcione apoyo o preste algún servicio a los partidos o a sus candidatos, a través de sus subordinados, usando del tiempo correspondiente a sus labores de manera ilegal;
 
 IV.- Prive de la libertad a los candidatos, a sus representantes, a los representantes de los partidos políticos, o a los funcionarios electorales bajo pretexto de comisión de delitos inexistentes y sin existir orden de aprehensión para ello; y
 
 V.- Impida indebidamente la reunión de una asamblea o manifestación pública, o cualquier acto legal de propaganda electoral.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 362.
+
+Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años a quienes, habiendo sido electos no se presenten, sin causa justificada a desempeñar el cargo dentro del plazo señalado en la Constitución Política Local.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 363.
+
+Se impondrán de veinte a cien días multa y prisión de tres meses a cinco años, a quien:
+
+I.- Proporcione documentos o información falsa al Registro Estatal de Ciudadanos para obtener el documento que acredite la ciudadanía; y
+
+II.- Altere de cualquier forma, sustituya, destruya o haga un uso indebido del documento que acredita la ciudadanía, que en los términos de la ley de la materia, expida el Registro Estatal de Ciudadanos.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 364.
+
+La pena a que se refiere el artículo anterior, se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio de Registro Estatal de Ciudadanos conforme a la ley de la materia, o si fuere de nacionalidad extranjera.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 365.
+
+Se impondrá de setenta a doscientos días multa y prisión de tres a siete años, a quien por cualquier medio altere o participe en la alteración del Registro Estatal o Federal de Electores, de los listados nominales o en la expedición ilícita de credenciales para votar.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 366.
+
+Se impondrá prisión de dos a nueve años, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del Artículo 361 de este Código.
 
 ## TRANSITORIOS
 
@@ -3032,3 +3170,7 @@ P.O. 19 DE DICIEMBRE DE 1996.
 UNICO (SIC).- El presente Decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se abroga el Decreto No. 216, aprobado por esta H. Legislatura Local, en fecha 05 de Diciembre de 1996.
+
+P.O. 11 DE DICIEMBRE DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
