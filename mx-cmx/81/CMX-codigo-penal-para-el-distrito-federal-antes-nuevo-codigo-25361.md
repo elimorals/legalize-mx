@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2004-01-13"
+last_updated: "2004-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2004.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1070,7 +1070,9 @@ Aborto es la muerte del producto de la concepción en cualquier momento del emba
 
 Al que hiciere abortar a una mujer, se le impondrá de uno a tres años de prisión, sea cual fuere el medio que empleare, siempre que lo haga con consentimiento de ella.
 
-Cuando falte el consentimiento, la prisión será de tres a seis años. Si mediare violencia física o moral se impondrá de seis a ocho años de prisión.
+> <small>(REFORMADO, G.O. 27 DE ENERO DE 2004)</small>
+
+Cuando falte el consentimiento, la prisión será de cinco a ocho años. Si mediare violencia física o moral se impondrá de ocho a diez años de prisión.
 
 ###### ARTÍCULO 146.
 
@@ -1080,9 +1082,11 @@ Si el aborto lo causare un médico cirujano, comadrón o partera, enfermero o pr
 
 Se impondrá de uno a tres años de prisión a la mujer que voluntariamente practique su aborto o consienta en que otro la haga abortar. En este caso, el delito de aborto sólo se sancionará cuando se haya consumado.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE ENERO DE 2004)</small>
+
 ###### ARTÍCULO 148.
 
-No se impondrá sanción:
+Se consideran como excluyentes de responsabilidad penal en el delito de aborto:
 
 I. Cuando el embarazo sea resultado de una violación o de una inseminación artificial a que se refiere el artículo 150 de este Código;
 
@@ -3309,3 +3313,7 @@ Segundo: Túrnese al C. Jefe de Gobierno para los efectos constitucionales proce
 G.O. 13 DE ENERO DE 2004.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+G.O. 27 DE ENERO DE 2004.
+
+ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
