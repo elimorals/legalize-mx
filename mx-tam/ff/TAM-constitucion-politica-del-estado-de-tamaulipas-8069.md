@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1936-01-11"
+last_updated: "1936-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 1936.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -715,13 +715,13 @@ I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acue
 
 II.- Ser mexicano de nacimiento.
 
-III.- Ser nativo del Estado con vecindad en el mismo, adquirida por lo menos cinco años antes del día de la elección.
+III.- Ser nativo del Estado, con vecindad en el mismo, adquirida por lo menos cinco años antes del día de la elección.
 
 IV.- Ser mayor de treinta años de edad el día de la elección; y
 
 V.- Poseer suficiente instrucción.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1934)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1936)</small>
 
 ###### Art. 79.
 
@@ -737,15 +737,25 @@ IV. Poseer suficiente instrucción.
 
 ###### Art. 80.
 
-No pueden obtener el cargo de Gobernador por elección:
+No pueden obtener el cargo de Gobernador del Estado por elección:
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1934)</small>
 
 I. Los Ministros de cualquier culto aún cuando hayan renunciado a su ministerio.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1934)</small>
+
 II. Los que tengan mando de fuerzas en el Estado si lo han conservado dentro del año inmediato a la elección.
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1934)</small>
 
 III. Los militares que no se hayan separado del servicio por lo menos dos años antes de la elección.
 
-IV. Los que desempeñen algún cargo o comisión de otros Estados, de la Federación o de esta última a menos que se separen de ella un año antes de la elección.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1936)</small>
+
+IV. Los que desempeñen algún cargo o comisión de otro Estado o de la Federación, a menos que se separen de ellos noventa días antes de la elección.
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 1934)</small>
 
 V. Los Magistrados del Supremo Tribunal de Justicia, el Secretario Gral. de Gobierno o quien haga sus veces, si no se encuentran separados de su cargo cuando menos noventa días antes de la elección.
 
@@ -1429,7 +1439,7 @@ Las cuentas del Gobierno y Municipales correspondientes al tiempo que no ha habi
 
 Dado en el Salón de Sesiones del H. Congreso del Estado de Tamaulipas, a los veintisiete días del mes de enero de mil novecientos veintiuno.
 
-Por el Décimocuarto Distrito Electoral, Donaciano de Lassaulx, Diputado Presidente.
+Por el Décimocuarto Distrito Electoral. Donaciano de Lassaulx, Diputado Presidente.
 
 Por el Segundo Distrito Electoral, Ing. José F. Montesinos, Diputado Vicepresidente.
 
@@ -1541,4 +1551,8 @@ TRANSITORIO.- Comenzará a surtir sus efectos a partir de la fecha de su promulg
 
 P.O. 11 DE ENERO DE 1936.
 
-TRANSITORIO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+TRANSITORIO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+
+P.O. 7 DE MARZO DE 1936.
+
+TRANSITORIO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
