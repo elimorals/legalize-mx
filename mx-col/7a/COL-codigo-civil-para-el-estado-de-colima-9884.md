@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1980-02-02"
+last_updated: "1980-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1980.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -9227,33 +9227,47 @@ ART. 2886.- Pagados los créditos enumerados en los capítulos que preceden, se 
 
 ART. 2887.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas ni al origen de los créditos.
 
-### CAPITULO I. De la Organización de la Oficina
+### CAPITULO I. De su organización
 
-ART. 2888.- El Ejecutivo del Estado designará las poblaciones donde deba establecerse la oficina denominada "Registro Público".
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-ART. 2889.- El reglamento fijará el número de secciones de que se componga el Registro y la Sección en que deban inscribirse los títulos que se registren.
+ART. 2888.- La Dirección General del Registro Público se establecerá en el Municipio de Colima y estará ubicado en el lugar que determine el Ejecutivo del Estado.
 
-ART. 2890.- El Registro será Público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren, en presencia de un empleado de la oficina, de los asientos que obren en los libros del Registro y de los documentos relacionados con las inscripciones que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro, así como certificaciones de no existir asientos de ninguna especie o de especie determinada sobre bienes señalados o a nombre de ciertas personas.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-ART. 2891.- El Reglamento establecerá los requisitos necesarios para ser Encargado del Registro Público, así como sus derechos y obligaciones.
+ART. 2889.- El Registro Público funcionará conforme al sistema y métodos que determine el Reglamento.
 
-ART. 2892.- El Encargado y los empleados del Registro, además de las penas en que pueden incurrir, responderán civilmente de los daños y perjuicios a que dieren lugar;
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-I.- Si rehusan admitir el título o si no practican el asiento de presentación por el orden de entrada del documento o del aviso a que se refiere el artículo 2,905;
+ART. 2890.- El Registro será Público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios del Registro Público y de los documentos relacionados con las inscripciones que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los folios del Registro Público, así como certificaciones de existir o no asientos relativos a los bienes que se señalen.
 
-II.- Si practican algún asiento indebidamente o rehusan practicarlo sin motivo fundado;
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-III.- Si retardan, sin causa justificada la extensión del asiento a que dé lugar el documento inscribible;
+ART. 2891.- El Reglamento establecerá los requisitos necesarios para desempeñar los cargos que requiera el funcionamiento del Registro Público.
 
-IV.- Si cometen errores, inexactitudes u omisiones en los asientos;
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-V.- Si cometen errores, inexactitudes u omisiones en los certificados que expidan o no los expiden en el término reglamentario.
+ART. 2892.- El encargado y los empleados del Registro Público, además de las penas que les sean aplicables por los delitos en que puedan incurrir, responderán civilmente de los daños y perjuicios a que dieren lugar cuando:
 
-ART. 2893.- El Encargado que fuere condenado por sentencia firme a la indemnización de daños y perjuicios, quedará suspenso del cargo hasta que se asegure a los reclamantes las resultas del juicio.
+I.- Rehusen admitir el título, o si no practican el asiento de presentación por el orden de entrada del documento o del aviso a que se refiere el artículo 2905;
 
-### CAPITULO II. Disposiciones Comunes
+II.- Practiquen algún asiento indebidamente o rehusen practicarlo sin motivo fundado;
 
-De los Documentos Registrables
+III.- Retarden, sin causa justificada, la práctica del asiento a que dé lugar el documento inscribible;
+
+IV.- Cometan errores, inexactitudes u omisiones en los asientos que practiquen o en los conflictos que expidan; y
+
+V.- No expidan los certificados en el término reglamentario.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+
+ART. 2893.- Las sentencias firmes que resulten en aplicación del artículo anterior, incluirán la inhabilitación para el desempeño del cargo o empleo hasta que sea pagada la indemnización de daños y perjuicios que en su caso corresponda.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+
+### CAPITULO II. Disposiciones Comunes de los Documentos Registrables
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
 ART. 2894.- Sólo se registrarán:
 
@@ -9261,33 +9275,37 @@ I.- Los testimonios de escrituras o actas notariales u otros documentos auténti
 
 II.- Las resoluciones y providencias judiciales que consten de manera auténtica;
 
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el notario, el Encargado del Registro, la autoridad municipal o el juez de paz se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados funcionarios y llevar el sello de la oficina respectiva.
+III.- Los documentos privados que en esta forma fueren válidos con arreglo a la Ley, siempre que al calce de los mismos haya la constancia de que el notario, el Director del Registro Público, la autoridad Municipal o el Juez de Paz se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados funcionarios y llevar el sello de la oficina respectiva.
 
-ART. 2895.- Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-I.- Que si los actos o contratos hubiesen sido celebrados o las resoluciones pronunciadas en el Estado, habrían sido inscribibles;
+ART. 2895.- Los actos ejecutados o los contratos otorgados en otra entidad federativa o en el extranjero, sólo se inscribirán si dichos actos o contratos tienen el carácter de inscribibles conforme a las disposiciones de este Código y del Reglamento del Registro Público.
 
-II.- Que los actos o contratos cuya inscripción se pretenda, no estén en desacuerdo con las leyes mexicanas prohibitivas o de interés público;
+Si los documentos respectivos apareciesen redactados en idioma extranjero y se encuentran debidamente legalizados, deberán ser previamente traducidos por perito oficial y protocolizados ante notario.
 
-III.- Que estén debidamente legalizados y que hayan sido protocolizados ante notario mediante orden judicial. Para que se ordene la protocolización de los documentos redactados en idioma extranjero, deberán ser previamente traducidos por el perito que el juez designe;
-
-IV.- Que si fueren resoluciones judiciales, se ordene su ejecución por la autoridad judicial nacional que corresponda.
+Las sentencias dictadas en el extranjero sólo se registrarán si no están en desacuerdo con Leyes Mexicanas y si ordena su ejecución la autoridad judicial competente.
 
 De los efectos del Registro
 
-ART. 2896.- Los documentos que conforme a este Código sean registrables y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuanto le sean favorables.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-ART. 2897.- La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
+ART. 2896.- Los documentos que conforme a este Código sean registrables y no se registren, no producirán efectos en perjuicio de tercero.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+
+ART. 2897.- La inscripción de los actos o contratos en el Registro Público tienen efectos declarativos.
 
 ART. 2898.- No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho a ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
 
 El tercero tendrá a su favor la presunción de buena fe. Lo dispuesto en este artículo no se aplicará a los contratos gratuitos.
 
-ART. 2899.- El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión tiene la posesión del inmueble inscrito
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-No podrá ejercitarse acción contradictoria del dominio de inmuebles, de derechos reales sobre los mismos o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derechos.
+ART. 2899.- El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión tiene la posesión del inmueble inscrito.
 
-En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro.
+No podrá ejercitarse acción contradictoria del dominio de inmuebles, de derechos reales sobre los mismos o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que previamente ó a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
+
+En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales, se sobreseerá el procedimiento respectivo de los mismos o de sus frutos, inmediatamente que conste en los autos por manifestación auténtica del Registro Público, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción como causahabiente del que aparece dueño en el Registro Público.
 
 ART. 2900.- Los derechos reales y en general cualquier gravamen o limitación de los mismos o del dominio, para que surtan efectos contra tercero, deberán constar en el registro de la finca sobre que recaigan, separada y especialmente, en la forma que determine el reglamento. Lo dispuesto en este artículo se aplicará a los inmuebles que en su caso comprenda la hipoteca industrial prevista por la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, a la hipoteca sobre los sistemas de las empresas, a que se refiere la Ley de Vías Generales de Comunicación, y a casos similares previstos en las leyes especiales.
 
@@ -9303,9 +9321,13 @@ El derecho real adquirido con anterioridad a la fecha de una anotación preventi
 
 Si la anotación preventiva se hiciere con posterioridad a la presentación del aviso preventivo, el derecho real motivo de éste, será preferente aun cuando tal aviso se hubiese dado extemporáneamente.
 
-ART. 2903.- Los asientos del Registro, en cuanto se refieren a los derechos inscribibles o anotables, producen todos sus efectos mientras no se declare su inexactitud por la autoridad judicial competente.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-ART. 2904.- El registro producirá sus efectos desde el día y hora en que el documento se hubiere presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
+ART. 2903.- Los asientos del Registro Público, en cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos, salvo resolución Judicial.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+
+ART. 2904.- La relación entre los diversos documentos ingresados al Registro Público se determinará por la prioridad en cuanto a la fecha y número ordinal que les corresponda al presentarlos para su inscripción, salvo lo dispuesto en el artículo siguiente.
 
 ART. 2905.- A más tardar dentro de los dos días hábiles siguientes a aquél en que se firme una escritura en que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos o que sin serlo sea inscribible, el notario ante quien se otorgue dará al Registro un aviso en el que conste la finca de que se trata, el negocio jurídico otorgado, los nombres de los interesados en él, el número y la fecha de la escritura y la de su firma e indicación de los números y demás datos bajo los cuales aparezca inscrita la propiedad o el derecho en su caso. El Encargado del Registro, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente el asiento de presentación. Si dentro de los sesenta días naturales siguientes a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación hecho en virtud del aviso del notario. Si el testimonio se presentare después, su registro sólo surtirá efectos desde la fecha de su presentación.
 
@@ -9313,7 +9335,9 @@ Si el documento en que conste alguna de las operaciones que se mencionan en el p
 
 ART. 2906.- La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los estaba produciendo.
 
-De quiénes pueden pedir el registro y de la calificación registral
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 1980)</small>
+
+De quienes pueden solicitar el registro y de la calificación registral
 
 ART. 2907.- La inscripción o anotación de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en el derecho que se va a inscribir o a anotar, o por el notario que haya autorizado la escritura de que se trate.
 
@@ -9325,31 +9349,29 @@ ART. 2909.- Inscrito o anotado un título, no podrá inscribirse o anotarse otro
 
 Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresada mientras el asiento esté vigente.
 
-ART. 2910.- El Encargado del Registro calificará bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación; la que suspenderán o denegarán en los casos siguientes:
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-I.- Cuando el título presentado no es de los que deben inscribirse o anotarse;
+ART. 2910.- Los registradores calificarán bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación; la que suspenderán o denegarán en los casos siguientes:
 
-II.- Cuando el documento no revista las formas extrínsecas que establezca la ley;
+I.- Cuando el título presentado no sea de los que deben inscribirse o anotarse;
+
+II.- Cuando el documento no revista las formas extrínsecas que establezca la Ley;
 
 III.- Cuando los funcionarios ante quienes se haya otorgado o ratificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos;
 
-IV.- Cuando el contenido del documento sea notoriamente contrario a las leyes prohibitivas o de interés público;
+IV.- Cuando el contenido del documento sea contrario a las Leyes prohibitivas o de interés público;
 
-V.- Cuando el negocio jurídico de que se trate, carezca de validez;
+V.- Cuando haya incompatibilidad entre el texto del documento y los asientos del Registro;
 
-VI.- Cuando haya incompatibilidad entre el texto del documento y los asientos del registro;
+VI.- Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en la última parte del artículo 2900;
 
-VII.- Cuando se trate de resoluciones judiciales que provengan de juez notoriamente incompetente;
+VII.- Cuando falte algún otro requisito que deba llevar el documento de acuerdo con este Código u otras Leyes aplicables.
 
-VIII.- Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en el último párrafo del artículo 2,900.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-IX.- Cuando falte algún otro requisito que deba llevar el documento de acuerdo con este Código u otras leyes aplicables.
+ART. 2911.- La calificación hecha por el registrador podrá recurrirse ante el Director del Registro Público. Si éste confirma la calificación el perjudicado por ella podrá reclamarla en juicio.
 
-ART. 2911.- La calificación hecha por el Encargado del Registro, cuando perjudique al interesado, podrá reclamarse por éste en juicio sumario, en el que será parte el propio Encargado del Registro.
-
-El juicio de que se trata deberá instaurarse ante el Juez de Primera Instancia del lugar; y si el Encargado del Registro fuere el Juez de Primera Instancia, conocerá del juicio el Juez que deba suplirlo conforme a la ley.
-
-Si la autoridad judicial ordena que se registre el título rechazado, la inscripción surtirá sus efectos desde la fecha en que por primera vez se presentó el título, si se hubiere hecho la anotación preventiva a que se refiere la fracción V del artículo 2,932.
+Si la Autoridad Judicial ordena que se registre el título rechazado, la inscripción surtirá sus efectos desde que por primera vez se presentó el título, si se hubiere hecho la anotación preventiva a que se refiere la fracción V del artículo 2932.
 
 De la rectificación de asientos
 
@@ -9357,17 +9379,21 @@ ART. 2912.- La rectificación de los asientos por causa de error material o de c
 
 ART. 2913.- Se entenderá que se comete error material cuando sin intención conocida se escriban unas palabras por otras, se omita la expresión de alguna circunstancia o se equivoquen los nombres propios o las cantidades al copiarlas del título, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de sus conceptos.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+
 ART. 2914.- Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos en el título se altere o varíe su sentido porque el registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquiera otra circunstancia.
 
-ART. 2915.- Cuando se trate de errores de concepto los asientos practicados en los libros del registro sólo podrán rectificarse con consentimiento de todos los interesados en el asiento.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+
+ART. 2915.- Cuando se trate de errores de concepto los asientos practicados en los folios del Registro Público sólo podrán rectificarse con el consentimiento de todos los interesados en el asiento.
 
 A falta del consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial.
 
-En caso de que el registrador se oponga a la rectificación, se observará lo dispuesto en el artículo 2,911.
+En caso de que el registrador se oponga a la rectificación, se observará lo dispuesto en el artículo 2911.
 
-En el caso previsto por el artículo 2,901 el que solicite la rectificación deberá acompañar a la solicitud que presente al registro, los documentos con los que pruebe el régimen matrimonial.
+En el caso previsto por el artículo 2901 el que solicite la rectificación deberá acompañar a la solicitud que presente al registro, los documentos con los que pruebe el régimen matrimonial.
 
-En ningún caso la rectificación perjudicará los derechos adquiridos por tercero a título oneroso y de buena fe durante la vigencia del asiento que se declare inexacto.
+En ningún caso la rectificación perjudicará los derechos adquiridos por tercero a título oneroso y de buena fé durante la vigencia del asiento que se declare inexacto.
 
 ART. 2916.- El concepto rectificado surtirá efectos desde la fecha de la rectificación.
 
@@ -9425,17 +9451,21 @@ ART. 2929.- Podrán cancelarse parcialmente las inscripciones hipotecarias de qu
 
 ART. 2930.- Podrá también cancelarse total o parcialmente la hipoteca que garantice tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que cancela.
 
-### CAPITULO III. DEL REGISTRO DE LA PROPIEDAD INMUEBLE
+REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 1980)
 
-De los títulos inscribibles y de los anotables
+### CAPITULO III. Del registro de la propiedad inmueble y de los títulos inscribibles y anotables
 
-ART. 2931.- En el registro de la propiedad inmueble se inscribirán:
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-I.- Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión originaria y los demás derechos reales sobre inmuebles;
+ART. 2931.- En el Registro Público de la Propiedad inmueble se inscribirán:
 
-II.- Los contratos de arrendamiento de bienes inmuebles, por un periodo mayor de seis años y aquellos en que haya anticipos de renta por más de tres años;
+I.- Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, posesión originaria y los demás derechos reales sobre inmuebles;
 
-III.- Los demás títulos que la ley ordene expresamente que sean registrados.
+II.- La constitución del patrimonio familiar;
+
+III.- Los contratos de arrendamiento de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipos de renta por más de tres años; y
+
+IV.- Los demás títulos que la Ley ordene expresamente que sean registrados.
 
 ART. 2932.- Se anotarán preventivamente en el Registro:
 
@@ -9513,39 +9543,45 @@ ART. 2939.- Transcurridos cinco años desde que se practicó la inscripción, si
 
 ART. 2940.- No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+
 ART. 2941.- El que tenga títulos fehacientes que abarquen cuando menos un período ininterrumpido de cinco años inmediatamente anteriores a su promoción, podrá inmatricular su predio mediante resolución judicial, siempre y cuando se satisfagan los siguientes requisitos:
 
 I.- Que acompañe a su promoción, además de la titulación:
 
-a).- Un certificado del Registro Público de la Propiedad que acredite que el bien de que se trata no está inscrito a favor de persona alguna; b).- Las boletas que comprueben que el predio está al corriente en el pago del impuesto predial; c).- Un informe del estado actual de la finca en el Catastro, rendido por esta Oficina; d).- Un informe de la Tesorería General del Estado en el que conste el nombre de la persona que tiene registrado en el padrón correspondiente al predio;
+a).- Certificado del Registro Público que acredite que el bien de que se trata no está inscrito;
+
+b).- Las boletas que comprenden que el predio está al corriente en el pago del impuesto predial;
+
+c).- Un informe del estado actual de la finca en el Catastro, rendido por esa oficina;
 
 II.- Que en tal promoción manifieste bajo protesta de decir verdad si está poseyendo el predio o el nombre del poseedor en su caso;
 
-III.- Que se publique la solicitud de inscripción en los Estrados del Juzgado y en uno de los periódicos de mayor circulación del lugar que corresponda, por tres veces en cada uno de ellos con intervalos de diez días;
+III.- Que se publique la solicitud de inscripción en los estrados del Juzgado y en uno de los periódicos de mayor circulación del lugar que corresponda, por tres veces en cada uno de ellos con intervalos de diez días;
 
-IV.- Que se cite a la autoridad municipal correspondiente, a los colindantes, a las personas que figuren en los padrones de la Tesorería General del Estado y del Catastro; así como el poseedor cuando sea el caso;
+IV.- Que se cite a la Autoridad Municipal correspondiente, a los colindantes, a las personas que figuren en los padrones de la Tesorería General del Estado y del Catastro; así como el poseedor cuando sea el caso;
 
-V.- Que transcurra un plazo de treinta días a partir de la última publicación sin que haya oposición;
+V.- Que transcurra un plazo de treinta días a partir de la última publicación sin que haya oposición.
 
-Si hubiere oposición, ésta se ventilará en la vía sumaria; pero sólo podrá tomarse en cuenta si se funda en la posesión o en titulación fehaciente del mismo inmueble, y, para su tramitación se observará lo dispuesto en los dos últimos párrafos del artículo 2,938.
+Si hubiere oposición se suspenderá el procedimiento; ésta se substanciará conforme al Código de Procedimientos Civiles.
 
-Del modo de llevar el registro
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 1980)</small>
 
-ART. 2942.- El Reglamento establecerá el sistema conforme al cual deban llevarse los libros del Registro y practicarse los asientos.
+Del sistema registral
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+
+ART. 2942.- El Reglamento establecerá el sistema conforme al cual deban llevarse los folios del Registro Público y practicarse los asientos.
 
 La primera inscripción de cada finca será de dominio o de posesión.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+
 ART. 2943.- Los asientos de presentación expresarán:
 
-I.- La especie de título presentado, su fecha, número si lo tuviere y autoridad o notario que lo autorice o legalice;
+I.- La fecha y número de entrada; y
 
-II.- La fecha y hora de su presentación.
-
-III.- La naturaleza del hecho o negocio jurídico;
-
-IV.- Los bienes o derechos objeto del título presentado;
-
-V.- Los nombres y apellidos de los interesados.
+II.- La naturaleza del documento.
 
 ART. 2944.- Los asientos de inscripción deberán expresar las circunstancias siguientes:
 
@@ -9595,37 +9631,47 @@ Los asientos podrán anularse por resolución judicial con audiencia de los inte
 
 ART. 2951.- La nulidad de los asientos de que se trata en el artículo anterior no perjudicará el derecho anteriormente adquirido por un tercero protegido con arreglo al artículo 2,898.
 
-Del registro de operaciones sobre bienes muebles
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-ART. 2952.- Se inscribirá en el registro de operaciones sobre bienes muebles:
+## TITULO SEGUNDO. Del Registro Público
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 1980)</small>
+
+### CAPITULO IV. Del registro de operaciones sobre bienes muebles
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+
+ART. 2952.- Se inscribirán en los folios de operaciones sobre bienes muebles:
 
 I.- Los contratos de compra-venta de bienes muebles sujetos a condición resolutoria a que se refiere la fracción II del artículo 2,201;
 
 II.- Los contratos de compra-venta de bienes muebles por los cuales el vendedor se reserva la propiedad de los mismos, a que se refiere el artículo 2,203;
 
-III.- Los contratos de prenda que menciona el artículo 2,748.
+III.- Los contratos de prenda que menciona el artículo 2748.
 
-ART. 2953.- Toda inscripción que se haga en este registro deberá expresar las circunstancias siguientes:
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-I.- Los nombres y domicilios de los contratantes;
+ART. 2953.- Toda inscripción que se haga en los folios de bienes muebles deberá expresar los datos siguientes:
 
-II.- La naturaleza del mueble con la circunstancia o señales que sirvan para identificarlo de manera indubitable;
+I.- Los nombres de los contratantes;
 
-III.- El precio y forma de pago estipulado con el contrato, y en su caso, el importe del crédito garantizado con la prenda;
+II.- La naturaleza del mueble con la característica o señales que sirvan para identificarlo de manera indubitable;
+
+III.- El precio y forma de pago estipulados en el contrato, y, en su caso, el importe del crédito garantizado con la prenda;
 
 IV.- La fecha en que se practique y la firma del registrador.
 
-## TITULO SEGUNDO. Del Registro Público
+### CAPITULO V. Del registro de personas morales
 
-### CAPITULO V (SIC). Del registro de personas morales
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-ART. 2954.- En el registro de las personas morales se inscribirán:
+ART. 2954.- En los folios de las personas morales se inscribirán:
 
-I.- Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles, y sus estatutos;
+I.- Los instrumentos por lo que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles y sus estatutos;
 
-II.- Los instrumentos que contenga la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil, y de sus reformas, cuando se haya comprobado el registrador que existe la autorización a que alude el artículo 2,737 del Código Civil para el Distrito y Territorios Federales;
+II.- Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, cuando haya comprobado el registrador que existe la autorización a que se refiere el artículo 2737 del Código Civil para el Distrito y Territorio Federal;
 
-III.- Las fundaciones de beneficencia privada.
+III.- Las fundaciones y asociaciones de beneficencia privada.
 
 ART. 2955.- Las inscripciones referentes a la constitución de personas morales, deberán contener las circunstancias siguientes:
 
@@ -9645,9 +9691,13 @@ VII.- El carácter de los socios y su responsabilidad ilimitada cuando la tuvier
 
 VIII.- La fecha y la firma del registrador.
 
-ART. 2956.- Las demás inscripciones que se practiquen en el registro de las personas morales, expresarán los datos esenciales del acto o contrato según resulten del título respectivo.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-ART. 2957.- Las inscripciones que se practiquen en los registros de operaciones sobre bienes muebles y de personas morales, no producirán más efectos que los señalados en los artículos 2,201, fracción II, 2,203, 2,563, 2,584 y 2,748 y le serán aplicables a estos registros las disposiciones relativas al de bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia del presente capítulo y con los efectos que las inscripciones producen.
+ART. 2956.- Las demás inscripciones que se practiquen en los folios de las personas morales, expresarán los datos esenciales del acto o contrato según resulten del título respectivo.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+
+ART. 2957.- Las inscripciones que se practiquen en los folios relativos a bienes muebles y personas morales no producirán más efectos que los señalados en los Artículos 2201 fracción II, 2203, 2563, 2584 y 2748 de este Código, y le serán aplicables a los registros las disposiciones relativas a los bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia del presente capítulo y con los efectos que las inscripciones producen.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -9714,3 +9764,7 @@ P.O. 2 DE FEBRERO DE 1980.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales que se opongan al presente.
+
+P.O. 23 DE AGOSTO DE 1980.
+
+UNICO.- El presente Decreto surtirá sus efectos al día siguiente de su Publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
