@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2002-11-11"
+last_updated: "2003-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MAYO DE 2003.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -68,7 +68,7 @@ II. Pedir la libertad de los procesados, en la forma y términos que previene la
 
 III. Pedir la reparación del daño, en los términos especificados en el Nuevo Código Penal para el Distrito Federal.
 
-## TITULO PRIMERO. R e g l a s G e n e r a l e s
+## TITULO PRIMERO. Reglas Generales
 
 ### CAPITULO I. Acción Penal
 
@@ -112,7 +112,7 @@ Cuando de la averiguación previa no aparezca detención de persona alguna, el M
 
 > <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-###### ARTICULO 6.
+###### ARTICULO 6°.
 
 El Ministerio Público pedirá al Juez la aplicación de la sanción correspondiente al caso concreto de que se trate o la libertad del procesado, sea por que el delito no haya existido, sea por que, existiendo, no sea imputable al procesado o por que exista a favor de éste alguna de las causas de exclusión del delito previstas en el Capítulo V, Título Segundo, Libro Primero del Nuevo Código Penal para el Distrito Federal o alguna de las circunstancias de extinción de la pretensión punitiva a que se refiere el Título Quinto del Libro Primero de dicho ordenamiento.
 
@@ -4228,9 +4228,27 @@ II. Que garantice el monto estimado de las sanciones pecuniarias que en su caso 
 
 III. Que otorgue caución para el cumplimiento de las obligaciones que en términos de ley se deriven a su cargo en razón del proceso; y
 
-IV. Que no se trate de delitos que por su gravedad están previstos en el párrafo último del artículo 268 de este Código.
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2003)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+IV. Que no se trate de delitos que por su gravedad estén previstos en el quinto párrafo del artículo 268 de este Código.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+
+En caso de delito no grave, el juez podrá negar, a solicitud del Ministerio Público, la libertad provisional del inculpado, cuando éste haya sido condenado con anterioridad por algún delito calificado como grave por la ley o cuando el Ministerio Público aporte elementos al juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2003)</small>
+
+Para el efecto de establecer el riesgo para el ofendido o para la sociedad, se entiende por conducta precedente y por circunstancias características del delito cometido, según corresponda, cuando:
+
+a). El inculpado haya sido condenado en sentencia ejecutoriada por un delito doloso y del mismo género, siempre y cuando no haya transcurrido el término de la prescripción que señala la ley;
+
+b). El inculpado esté sujeto a otro u otros procesos penales anteriores por diversos hechos dolosos del mismo género que ameriten pena privativa de libertad;
+
+c). Exista el riesgo fundado de que el inculpado cometa un delito doloso contra la víctima u ofendido, alguno de los testigos que depongan en su contra, servidores públicos que intervengan en el procedimiento o algún tercero, si la libertad provisional le es otorgada;
+
+d). El inculpado haya cometido un delito doloso en estado de alteración voluntaria de la conciencia a que se refiere la fracción VII del artículo 138 del Nuevo Código Penal para el Distrito Federal; o
+
+e). El inculpado se haya sustraído con anterioridad a la acción de la justicia, impidiendo con ello la continuidad del proceso correspondiente.
 
 ###### ARTICULO 557.
 
@@ -5453,3 +5471,7 @@ TERCERO: Lo dispuesto en las fracciones I y II del articulo 676 del Código de P
 CUARTO: Túrnese al C. Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación.
 
 QUINTO: Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 15 DE MAYO DE 2003.
+
+ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
