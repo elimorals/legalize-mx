@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1974-12-24"
+last_updated: "1974-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -154,9 +154,13 @@ Serán condiciones nulas y no obligarán a los trabajadores, aún cuando las adm
 
 I.- Una jornada mayor de la permitida por esta ley;
 
-II.- Las labores peligrosas o insalubres para mujeres y las peligrosas o insalubres o nocturnas para menores de 18 años;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-III.- Una jornada inhumana por lo notoriamente excesiva o peligrosa para la vida del trabajador;
+II.- Las labores peligrosas o insalubres o nocturnas para menores de dieciséis años;
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+III.- Una jornada inhumana por lo notoriamente excesiva o peligrosa para el trabajador, o para la salud de la trabajadora embarazada o el producto de la concepción;
 
 IV.- Un salario inferior al mínimo establecido para los trabajadores en general, en el lugar donde se presten los servicios, y
 
@@ -328,7 +332,9 @@ Es nula la cesión de salarios en favor de tercera persona.
 
 Son obligaciones de los titulares a que se refiere el artículo 1o. de esta ley:
 
-I.- Preferir, en igualdad de condiciones, de conocimientos, aptitudes y antigüedad, a los trabajadores sindicalizados respecto de quienes no lo estuvieron; a los veteranos de la Revolución; a los supervivientes de la Invasión Norteamericana de 1914; a los que con anterioridad les hubieren prestado satisfactoriamente servicios y a los que acrediten tener mejores derechos conforme al escalafón.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+I.- Preferir en igualdad de condiciones, de conocimientos, aptitudes y de antigüedad, a los trabajadores sindicalizados respecto de quienes no lo estuvieren; a quienes representen la única fuente de ingreso familiar; a los Veteranos de la Revolución; a los supervivientes de la invasión norteamericana de 1914; a los que con anterioridad les hubieren prestado servicios y a los que acrediten tener mejores derechos conforme al escalafón.
 
 Para los efectos del párrafo que antecede, en cada una de las dependencias se formarán los escalafones de acuerdo con las bases establecidas en el título tercero de esta ley;
 
@@ -344,7 +350,7 @@ VI.- Cubrir las aportaciones que fijen las leyes especiales, para que los trabaj
 
 a) Atención médica, quirúrgica, farmacéutica y hospitalaria, y en su caso, indemnización por accidentes de trabajo y enfermedades profesionales.
 
-b) Atención médica, quirúrgica, farmacéutica y hospitalaria en los casos de enfermedades no profesionales y maternidad.
+b) Atención medica, quirúrgica, farmacéutica y hospitalaria en los casos de enfermedades no profesionales y maternidad.
 
 c) Jubilación y pensión por invalidez, vejez o muerte.
 
@@ -490,7 +496,9 @@ c) Por antigüedad: El tiempo de servicios prestados a la dependencia correspond
 
 Las vacantes se otorgarán a los trabajadores de la categoría inmediata inferior que acrediten mejores derechos en la valoración y calificación de los factores escalafonarios.
 
-En igualdad de condiciones se preferirá al trabajador que acredite mayor tiempo de servicios prestados dentro de la misma unidad burocrática.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+En igualdad de condiciones tendrá prioridad el trabajador que acredite ser la única fuente de ingresos de su familia y cuando existan varios en esta situación, se preferirá al que demuestre mayor tiempo de servicios prestados dentro de la misma unidad burocrática.
 
 ###### ARTICULO 52.
 
@@ -692,7 +700,13 @@ III.- Las disposiciones disciplinarias y la forma de aplicarlas.
 
 IV.- Las fechas y condiciones en que los trabajadores deben someterse a exámenes médicos previos y periódicos, y
 
-V.- Las demás reglas que fueren convenientes para obtener mayor seguridad y eficacia en el trabajo.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+V.- Las labores insalubres y peligrosas que no deben desempeñar los menores de edad y la protección que se dará a las trabajadoras embarazadas; y
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+VI.- Las demás reglas que fueren convenientes para obtener mayor seguridad y eficacia en el trabajo.
 
 ###### ARTICULO 89.
 
@@ -1233,3 +1247,7 @@ D.O.F. 24 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 Las presentes adiciones entrarán en vigor el día 1o. de enero de 1975.
+
+D.O.F. 31 DE DICIEMBRE DE 1974.
+
+UNICO.- El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
