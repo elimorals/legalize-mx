@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2001-11-02"
+last_updated: "2004-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO PENAL PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2004.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -131,17 +131,37 @@ XI.- Extorsión previsto por el artículo 213.
 
 XII.- Tráfico de menores previsto por el artículo 220, excepto el tercer párrafo y cuando quien ejerza la patria potestad o tenga a su cargo un menor, lo entregue directamente sin intermediario.
 
-XIII.- Delitos contra las personas menores e incapaces previstos en los artículos 236 y 237.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
 
-XIV.- Rebelión previsto por el artículo 241.
+XIII.- Corrupción de menores incapaces, contemplada en los artículos 236, 236-b y 237.
 
-XV.- Terrorismo previsto por el artículo 245.
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2004)</small>
 
-XVI.- Peculado previsto por el artículo 248, cuando el monto de lo dispuesto exceda de lo previsto en la fracción IV del artículo 191.
+XIV.- Prostitución de menores a que se refiere el artículo 240-a.
 
-XVII.- Tortura previsto por el artículo 264.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
 
-XVIII.- Evasión de detenidos, inculpados o condenados previsto por el artículo 269 segundo párrafo.
+XV.- Rebelión previsto por el artículo 241.
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+
+XVI.- Terrorismo previsto por el artículo 245.
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+
+XVII.- Peculado previsto por el artículo 248, cuando el monto de lo dispuesto exceda de lo previsto en la fracción IV del artículo 191.
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+
+XVIII.- Tortura previsto por el artículo 264.
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2004)</small>
+
+XIX.- Evasión de detenidos, inculpados o condenados previsto por el artículo 269 segundo párrafo.
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2004)</small>
+
+XX.- Encubrimiento por receptación calificado, previsto en el artículo 275-a.
 
 ###### Artículo 12.
 
@@ -247,6 +267,12 @@ En caso de concurso ideal se aplicará la punibilidad del delito que merezca may
 
 Cuando en un concurso ideal se produzcan varios delitos dolosos que afecten la vida, la salud o la libertad física, se aplicará la punibilidad del concurso real.
 
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 31
+
+a.- Tratándose del concurso de homicidio, secuestro, violación o robo calificado con cualquier otro delito, se acumularán las sanciones que por cada delito se impongan, sin que la suma de las de prisión pueda exceder de sesenta años.
+
 ###### Artículo 32.
 
 No hay concurso de delitos cuando:
@@ -271,7 +297,7 @@ I.- El hecho se realice sin intervención de la voluntad del agente;
 
 II.- Falte alguno de los elementos del tipo penal de que se trate;
 
-III.- Se obre en cumplimiento de un deber legal o en el ejercicio legítimo de un derecho;
+III.- Se obre en cumplimiento de un deber legal o en el ejercicio legítimo de un derecho.;
 
 IV.- Se actúe con el consentimiento válido del sujeto pasivo, siempre que el bien jurídico afectado sea de aquéllos de que pueden disponer lícitamente los particulares;
 
@@ -351,9 +377,11 @@ VIII.- Las demás que prevengan las leyes.
 
 ### CAPÍTULO II. PRISIÓN
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 39.
 
-La prisión consiste en la privación de la libertad personal, en la institución penitenciaria que el Ejecutivo del Estado designe. Su duración podrá ser de diez días a cuarenta años.
+La prisión consiste en la privación de la libertad personal, en la institución penitenciaria que el Ejecutivo del Estado designe. Su duración podrá ser de diez días a cuarenta años, salvo lo dispuesto en el artículo 31-a.
 
 ###### Artículo 40.
 
@@ -1081,6 +1109,8 @@ V.- Se causen por envenenamiento, contagio, estupefacientes o psicotrópicos.
 
 ### CAPÍTULO II. SECUESTRO
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 154.
 
 El homicidio culposo cometido por quien conduzca un vehículo que esté prestando servicio público o remunerado de transporte de personas o cosas, se sancionará de tres a ocho años de prisión y de veinticinco a cien días multa y suspensión para conducir vehículos de motor por igual término.
@@ -1191,31 +1221,57 @@ IV.- Se lleve a cabo por dos o más personas.
 
 ###### Artículo 173.
 
-La privación de libertad constituye secuestro y se sancionará de diez a veinte años de prisión y de cien a doscientos días multa, cuando:
+Comete el delito de secuestro quien priva de la libertad a una persona, sin importar el tiempo que esto dure, con la pretensión de obtener el beneficio de un rescate, conseguir un beneficio de cualquier naturaleza, obligar a la autoridad o a un particular a que realice o deje de realizar una función o acto o causar un daño o perjuicio a cualquier persona.
 
-I.- Se trate de obtener rescate de cualquier índole.
+Este delito será sancionado con prisión de veinte a cuarenta años y de doscientos a cuatrocientos días multa.
 
-II.- Se causen daños graves a la persona secuestrada o se le aplique tormento.
-
-III.- Se ejecute por quien sea o haya sido integrante de una institución de seguridad pública o privada.
-
-IV.- Se pretenda que la autoridad haga o deje de hacer un acto de cualquier índole.
-
-V.- La persona secuestrada sea privada de la libertad por un extraño a su familia y sea menor de doce o mayor de sesenta años de edad o incapaz o que por cualquier circunstancia no esté en posibilidad de resistir.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 174.
 
-Se aplicará de veinte a treinta y cinco años de prisión y de cien a trescientos días multa cuando la persona secuestrada:
+Se impondrá prisión de treinta a cuarenta años y de mil a dos mil días multa, si en el secuestro concurre cualquiera de las circunstancias siguientes:
 
-I.- Sea mutilada.
+I.- Que la víctima sea menor de dieciséis o mayor de sesenta años de edad o se encuentre indefensa, por sus condiciones especiales, frente al secuestrador;
 
-II.- Sea privada de la vida.
+II.- Que intervengan dos o más sujetos activos;
 
-III.- Sea violada.
+III.- Que el activo tenga o haya tenido, en los seis años que antecedan a la comisión del delito, funciones de seguridad pública o privada, de investigación de delitos, de procuración o administración de justicia o de ejecución de penas;
+
+IV.- Que el delito se cometa en un lugar desprotegido o haciendo uso de la violencia, o bien que se apliquen actos humillantes o de tortura al secuestrado al efectuar su detención o durante el tiempo que permanezca privado de su libertad; o
+
+V.- Que se realice aprovechando la confianza depositada en el agente activo.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 175.
 
-Si la persona que secuestra pone espontáneamente en libertad al plagiado dentro de tres días, sin haberle causado daño grave, se le impondrá de seis meses a cuatro años de prisión y de diez a cincuenta días multa.
+Si se pone espontáneamente en libertad a la víctima, dentro de las veinticuatro horas de haberla secuestrado, sin que se hayan agotado los propósitos del activo, la pena a imponer será la señalada en el artículo 169, siempre y cuando no concurra ninguna de las circunstancias agravantes definidas en el artículo que antecede, con excepción de la contenida en su fracción I.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 175
+
+a.- Se impondrá prisión de dos a diez años y de doscientos a quinientos días multa al que en relación con las conductas sancionadas por los artículos anteriores y sin el consentimiento de quienes representen o gestionen legítimamente a favor de la víctima:
+
+I.- Actúe como intermediario en las negociaciones de rescate;
+
+II.- Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
+
+III.- Persuada a no presentar la denuncia del secuestro cometido o bien a no colaborar u obstruir la actuación de las autoridades; o
+
+IV.- Efectúe el cambio de moneda nacional por divisas o de éstas por moneda nacional, sabiendo que es con el propósito de pagar el rescate de un secuestro.
+
+Las mismas sanciones se aplicarán a quien intimide a la víctima, a sus familiares, a sus representantes o gestores durante o después del secuestro para que no colaboren con las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 175
+
+b.- A quien simule un secuestro con la pretensión de obtener rescate, conseguir un beneficio de cualquier naturaleza, obligar a la autoridad o a un particular a que realice o deje de realizar una función o acto o causar un daño o perjuicio a cualquier persona, sin importar los medios empleados ni la condición simulada de secuestrador o secuestrado, se le aplicará de cinco a diez años de prisión y de ciento cincuenta a cuatrocientos días multa.
+
+Cuando quienes fingiendo la condición de secuestrador o secuestrado obtengan sus pretensiones, la sanción podrá agravarse de una mitad del mínimo a una mitad del máximo de las señaladas en el párrafo anterior.
+
+Se requerirá querella cuando el delito se cometa entre cónyuges, concubinos, ascendiente y descendiente, adoptante y adoptado, tutor y pupilo, madrastra o padrastro e hijastro o bien entre hermanos.
 
 ### CAPÍTULO ÚNICO. DIFAMACIÓN Y CALUMNIA
 
@@ -1399,11 +1455,43 @@ VII.- El objeto robado sea un expediente, documento o valores que obren en depen
 
 VIII.- El objeto robado sea un vehículo de motor.
 
-IX.- Recaiga en una o más cabezas de ganado, cualquiera que sea su especie.
+IX.- (DEROGADA, P.O. 13 DE AGOSTO DE 2004)
 
 X.- El objeto robado sea una máquina agrícola o una bomba de agua, su arrancador, transformador, cables o cualquier otro equipo o aditamento destinado al riego de cultivos agrícolas.
 
 En los casos de robo calificado las sanciones correspondientes al robo simple se aumentarán con prisión hasta de cinco años.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 194
+
+a.- A quien se apodere de una o más cabezas de ganado ajeno, sin consentimiento de quien legalmente pueda disponer de ellas, se le impondrá prisión de tres a quince años y de diez a trescientos días multa.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 194
+
+b.- Se impondrá prisión de seis meses a seis años y de diez a cien días multa, a quien:
+
+I.- A sabiendas de su origen ilícito, detente, posea, custodie, adquiera, venda, enajene, destace, comercialice, trafique, pignore, reciba, traslade, use, oculte o consuma ganado o productos o subproductos del mismo; y
+
+II.- En su calidad de autoridad intervenga en las operaciones precisadas en la fracción que antecede, conociendo la procedencia ilícita del ganado, de sus productos o subproductos.
+
+Si el valor del ganado, sus productos o subproductos, es de cuando menos ciento cincuenta veces el salario mínimo, se aplicará de dos a diez años de prisión y de setenta a cien días multa.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 194
+
+c.- Se impondrá prisión de seis meses a cuatro años y multa de diez a cien días, a quien:
+
+I.- Altere o elimine las marcas en animales vivos o pieles ajenas, sin estar facultado para ello;
+
+II.- Marque, trasherre, señale o contraseñale animales ajenos, en cualquier parte, sin derecho para el efecto; o
+
+III.- Expida certificados falsos para obtener guías simulando ventas o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías falsificados para cualquier negociación sobre ganado o cueros.
+
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de verificación, certificación o expedición de documentación relacionada con la procedencia del ganado o cueros, además de las sanciones a que se refiere este artículo, se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos, por un período igual al de prisión.
 
 ###### Artículo 195.
 
@@ -1501,11 +1589,19 @@ Estos delitos se perseguirán por querella, salvo el caso previsto en el artícu
 
 A quien cause daño a cosa ajena o propia en perjuicio de tercero, se le impondrá prisión de un mes a cinco años y de diez a ochenta días multa.
 
-Este delito se perseguirá por querella, salvo que se ejecute por quienes conduzcan vehículos que estén prestando un servicio público o remunerado de transporte de personas o cosas o que se encuentren bajo el influjo de bebidas alcohólicas, estupefacientes, psicotrópicos u otras sustancias semejantes.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+Este delito se perseguirá por querella, salvo que se refiera a los supuestos previstos en los tres artículos siguientes o que se ejecute por quienes conduzcan vehículos que estén prestando un servicio público o remunerado de transporte de personas o cosas o que se encuentren bajo el influjo de bebidas alcohólicas, estupefacientes, psicotrópicos u otras sustancias semejantes.
 
 ###### Artículo 211.
 
-Si el daño se causare a museos, archivos o bibliotecas públicos o a bienes que tengan valor artístico, se le aplicará de uno a siete años de prisión y de diez a cien días multa.
+Si el daño se causare a museos, archivos o edificios públicos o a bienes que tengan valor artístico o histórico, se le aplicará de uno a siete años de prisión y de diez a cien días multa.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 211
+
+a.- Si el daño se causare mediante la aplicación de signos o caracteres gráficos con pinturas o substancias similares, en los inmuebles descritos en el artículo anterior, se aplicarán las penas previstas en el mismo.
 
 ###### Artículo 212.
 
@@ -1533,7 +1629,7 @@ Tratándose de delitos patrimoniales que se persigan por querella no se aplicar�
 
 ## TÍTULO SEGUNDO. DE LA VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
 
-### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS Y USO DE DOCUMENTOS FALSOS
+### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS O TARJETAS O USO DE DOCUMENTOS O TARJETAS FALSOS
 
 ###### Artículo 215.
 
@@ -1559,13 +1655,19 @@ IV.- Usurpe el estado civil o la filiación de otra persona con el fin de adquir
 
 En los supuestos previstos en las fracciones I, II y III, además de las sanciones señaladas podrá privarse de los derechos de patria potestad, tutela o custodia, según el caso.
 
-### CAPÍTULO ÚNICO. DELITOS CONTRA LAS PERSONAS MENORES E INCAPACES
+### CAPÍTULO ÚNICO
+
+CORRUPCIÓN DE MENORES E INCAPACES.
+
+EXPLOTACIÓN SEXUAL
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 217.
 
 A quien estando unido en legal matrimonio, contraiga otro, se le impondrá de seis meses a tres años de prisión y de diez a treinta días multa.
 
-### CAPÍTULO ÚNICO. LENOCINIO
+### CAPÍTULO ÚNICO. LENOCINIO Y PROSTITUCIÓN DE MENORES
 
 ###### Artículo 218.
 
@@ -1607,7 +1709,15 @@ Las penas previstas en este artículo se impondrán siempre que el hecho no cons
 
 En estos casos el Ministerio Público o el tribunal dictarán las medidas que consideren pertinentes para salvaguardar la integridad física o psíquica de la víctima.
 
-Este delito se perseguirá por querella, salvo que la víctima sea menor de edad, caso en el que se perseguirá de oficio.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+Este delito se perseguirá por querella, salvo que la víctima sea menor de dieciocho años, caso en el que se perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 221
+
+a.- Cuando la violencia se haga consistir en lesiones que por lo menos tarden en sanar más de quince días, inferidas a una persona que por razón de su edad, discapacidad o cualquiera otra circunstancia no esté en condiciones de resistir la conducta delictuosa, la pena se aumentará hasta otro tanto más de su duración y cuantía.
 
 ### CAPÍTULO III. MOTÍN
 
@@ -1707,6 +1817,8 @@ Se requerirá querella de parte ofendida cuando se trate de ascendientes y desce
 
 ## TÍTULO QUINTO. DE LOS DELITOS CONTRA EL DESARROLLO DE LAS PERSONAS MENORES E INCAPACES
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ### CAPÍTULO IX. DESOBEDIENCIA, RESISTENCIA Y EXIGENCIA DE PARTICULARES
 
 ###### Artículo 232.
@@ -1716,6 +1828,8 @@ Se impondrá prisión de diez días a cinco años y de diez a cincuenta días mu
 I.- Falsifique sellos o marcas oficiales.
 
 II.- Enajene, adquiera o haga uso de sellos o marcas oficiales falsos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ### CAPÍTULO X. TRÁFICO DE INFLUENCIAS
 
@@ -1727,6 +1841,26 @@ A quien con el fin de obtener provecho o causar daño imite o simule un document
 
 A quien ilícitamente hiciere uso de un documento falso, sea público o privado, se le aplicará de diez días a tres años de prisión y de diez a treinta días multa.
 
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 234
+
+a.- Se impondrá prisión de tres a nueve años y de cuarenta a doscientos días multa a quien:
+
+I.- Sin el consentimiento de quien esté facultado para ello, fabrique, enajene o distribuya tarjetas, títulos o documentos que puedan ser utilizados para el pago de bienes o servicios.
+
+II.- Falsifique o altere tarjetas, títulos o documentos, que puedan ser utilizadas para el pago de bienes o servicios.
+
+III.- Adquiera, utilice, posea o detente tarjetas, títulos o documentos para el pago de bienes o servicios, a sabiendas de que son falsificadas o alteradas.
+
+IV.- Adquiera, utilice, posea o detente tarjetas, títulos o documentos para el pago de bienes o servicios, sin consentimiento de quien esté facultado para ello.
+
+V.- Altere los medios de identificación electrónica de tarjetas, títulos o documentos para el pago de bienes o servicios.
+
+VI.- Adquiera, utilice o posea equipos electromagnéticos o electrónicos para sustraer la información contenida en la cinta o banda magnética de tarjetas, títulos o documentos, para el pago de bienes o servicios, así como a quien posea o utilice la información sustraída de esta forma.
+
+Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumentarán en una mitad.
+
 ### CAPÍTULO XI. OPOSICIÓN A QUE SE EJECUTE ALGUNA OBRA O TRABAJOS PÚBLICOS
 
 ###### Artículo 235.
@@ -1737,29 +1871,63 @@ A quien ejerza los actos propios de una profesión sin tener título o autorizac
 
 ### CAPÍTULO XIII. ABUSO DE AUTORIDAD
 
-## TÍTULO SEXTO. DEL DELITO DE LENOCINIO
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+## TÍTULO SEXTO. DE LOS DELITOS DE LENOCINIO Y PROSTITUCIÓN DE MENORES
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ### CAPÍTULO XIV. AFECTACIÓN AL ORDENAMIENTO URBANO
 
 ###### Artículo 236.
 
-A quien para la fabricación, publicación, reproducción, transportación, posesión o enajenación de cualquier objeto de carácter obsceno, utilice menores de dieciocho años o incapaces se le impondrá sanción de dos a seis años de prisión y de cien a doscientos días multa. Igual pena corresponderá a quien realice exhibiciones obscenas en presencia de menores de dieciséis años o de incapaces. Si el agente ejerce violencia sobre el pasivo, la sanción se aumentará hasta en una tercera parte.
+A quien por cualquier medio obligue, emplee, facilite o induzca a una persona menor de dieciocho años o incapaz, a fin de que realice actos de exhibicionismo sexual, con el objeto de que se le observe, muestre, fotografíe, filme, videograbe o de cualquier modo se generen u obtengan imágenes impresas o electrónicas, se le impondrá de seis a quince años de prisión y de quinientos a cinco mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales gráficos.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 236
+
+a.- Se impondrá de dos a seis años de prisión y de ciento cincuenta a mil quinientos días multa, a quien realice exhibiciones sexuales en presencia de menores de dieciocho años o de incapaces.
+
+Si el delincuente ejerce violencia sobre la víctima, las penas se incrementarán de la mitad del mínimo a la mitad del máximo de las aquí señaladas.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 236
+
+b.- Se impondrá de seis a quince años de prisión y de quinientos a cinco mil días multa, a quien:
+
+I.- Venda, comercialice, reproduzca, distribuya, transporte, arriende, exponga, publicite, difunda o de cualquier otro modo trafique con el material a que se refiere el artículo 236;
+
+II.- Aporte recursos económicos o de cualquier especie o colabore de alguna manera al financiamiento, supervisión o fomento para posibilitar la ejecución de alguno de los delitos a que se refiere este capítulo; o
+
+III.- Posea material de pornografía infantil, que no tenga otro destino que su venta, comercialización, distribución, transporte, arrendamiento, exposición, publicación, difusión o tráfico.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 237.
 
-A quien procure, facilite o mantenga en la corrupción a un menor de dieciocho años de edad o de quien no tenga capacidad para comprender el significado del hecho, mediante actos lascivos o sexuales, o lo induzca a la mendicidad, ebriedad, prostitución, a realizar una conducta homosexual, al uso de estupefacientes, psicotrópicos u otras sustancias semejantes, a formar parte de una asociación delictuosa o a cometer cualquier delito, se le aplicará prisión de tres a ocho años y de cincuenta a doscientos días multa. Si el agente ejerce violencia sobre el pasivo la sanción se aumentará hasta una tercera parte.
+A quien procure, facilite o mantenga en la corrupción a un menor de dieciocho años de edad o a un incapaz, mediante actos lascivos o sexuales, o lo induzca a la mendicidad, ebriedad, a realizar una conducta sexual, al uso de substancias de cualquier naturaleza dañosas (sic) a la salud, a formar parte de una asociación delictuosa o a cometer cualquier delito, se le aplicará prisión de tres a ocho años y de cincuenta a doscientos días multa. Si el agente ejerce violencia sobre el pasivo la sanción se aumentará hasta una tercera parte.
 
 ###### Artículo 238.
 
 A quien emplee a un menor de dieciocho años o a un incapaz en cantinas, bares, tabernas o centros de vicio, se le impondrá de dos meses a dos años de prisión y de veinte a cincuenta días multa.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 239.
 
-Quienes sean responsables de los delitos a que se refiere este capítulo, quedarán inhabilitados para ser tutores o curadores.
+Las sanciones que señalan los artículos anteriores se aumentarán hasta en una mitad más cuando el delito se cometa por quien tenga parentesco por consanguinidad en línea recta o colateral hasta el segundo grado, por afinidad o civil o habite en el mismo domicilio con la víctima aunque no existiera parentesco alguno, así como por el tutor o curador. Además, se le impondrá la pérdida de la patria potestad respecto de todos sus descendientes y el derecho a alimentos que le correspondiera por su relación con la víctima.
 
-Si el agente ejerce la patria potestad o la tutela sobre el pasivo del delito, se le privará de una u otra, según el caso y podrá aumentarse la prisión hasta en tres años.
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ### CAPÍTULO XV. DISPOSICIONES COMUNES
+
+###### Artículo 239
+
+a.- Además de las sanciones impuestas a quienes incurran en los delitos descritos en este capítulo, quedarán inhabilitados para ser tutores o curadores.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2004)</small>
 
 ## TÍTULO PRIMERO. DE LOS DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
@@ -1767,9 +1935,21 @@ Si el agente ejerce la patria potestad o la tutela sobre el pasivo del delito, s
 
 ###### Artículo 240.
 
-A quien, explote el cuerpo de otra persona por medio del comercio carnal u obtenga de él un lucro cualquiera, se le aplicará prisión de seis meses a tres años y de diez a cincuenta días multa.
+A quien, explote el cuerpo de otra persona por medio del comercio camal u obtenga de él un lucro cualquiera, se le aplicará prisión de seis meses a tres años y de diez a cincuenta días multa.
 
-Si la víctima fuere menor de edad o incapaz, se duplicarán las sanciones señaladas.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+Si la víctima fuere menor de dieciocho años o incapaz, se castigará con pena de cuatro a ocho años de prisión y de mil a cinco mil días multa. Si emplea la violencia, las penas se aumentarán hasta una mitad más.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 240
+
+a.- Comete también lenocinio quien aún sin obtener algún provecho, promueva, facilite, consiga o entregue a un menor de dieciocho años o incapaz para que ejerza la prostitución. Se le castigará con pena de cuatro a ocho años de prisión y de mil a cinco mil días multa.
+
+Si obtiene algún beneficio o emplea la violencia, las penas se aumentarán hasta en una mitad más.
+
+El agente activo además perderá los derechos a la patria potestad y alimentos que tuviere respecto de la víctima y quedará inhabilitado para ser tutor o curador.
 
 ## TÍTULO SEGUNDO. DE LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA
 
@@ -1907,7 +2087,7 @@ A quien quebrante sellos puestos por orden de una autoridad, se le aplicará de 
 
 ###### Artículo 261.
 
-Al servidor público que dolosamente y con motivo de sus funciones realice una conducta arbitraria o indebida, se le impondrá de un mes a seis años de prisión, de diez a cincuenta días multa, destitución del empleo o cargo e inhabilitación hasta por seis años.
+Al servidor público que dolosamente, con motivo de sus funciones exceda el límite de sus potestades o atribuciones, en detrimento de un particular o de la función pública, se le impondrá de un mes a seis años de prisión, de diez a cincuenta días multa, destitución del empleo o cargo e inhabilitación hasta por seis años.
 
 ###### Artículo 262.
 
@@ -1983,15 +2163,27 @@ A quien quebrante una pena no privativa de libertad, se le aplicará una sanció
 
 A quien teniendo conocimiento de la comisión de un delito y sin concierto previo ayude al agente a eludir la acción de la autoridad o entorpezca la investigación, se le aplicará de diez días a tres años de prisión y de treinta a sesenta días multa.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 275.
 
-Será responsable de encubrimiento por receptación, quien sin haber participado en un delito, reciba, adquiera u oculte el objeto, producto o efecto del mismo, a sabiendas de su ilícita procedencia, se le aplicará de tres meses a cinco años de prisión y de veinte a cien días multa.
+Se impondrá prisión de seis meses a cinco años y de diez a sesenta días multa a quien sin haber participado en la comisión de un delito, posea, detente, custodie, adquiera, venda, enajene, desmantele, comercialice, trafique, pignore, reciba, traslade, use, oculte, modifique o altere los objetos, instrumentos o productos de aquél, con conocimiento de esta circunstancia.
 
-Si el receptor no tuvo conocimiento de la procedencia ilícita del bien por no haber tomado las precauciones necesarias para asegurarse de su legítimo origen, se le aplicará de un mes a tres años de prisión y de diez a cincuenta días multa.
+Si el valor del instrumento, objeto o producto del delito es de cuando menos quinientas veces el salario mínimo, se aplicará de dos a ocho años de prisión y de setenta a cien días multa.
 
-Si se obrare con ánimo de lucro o si el bien receptado fuese vehículo automotor o sus partes, las penas anteriormente señaladas se incrementarán en una mitad.
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, aplicación o ejecución de sanciones respecto de delitos, además de las penas a que se refiere este artículo, se le aplicará destitución de aquéllas y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual al de la pena de prisión.
 
-El mismo incremento se aplicará si el valor de lo receptado excede de mil veces el salario mínimo general vigente en el Estado.
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 275
+
+a.- Se considera calificado el encubrimiento a que se refiere el artículo anterior, cuando el agente activo ya hubiere sido condenado en sentencia firme por el mismo delito y se castigará con las penas en aquél previstas, aumentadas hasta una mitad más.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2004)</small>
+
+###### Artículo 275
+
+b.- A quien sin haber participado en la comisión de un delito, cuyo objeto, producto o instrumento fuese un vehículo automotor, lo adquiera sin tomar las precauciones necesarias para cerciorarse de su lícita procedencia, se le impondrá de diez días a dos años de prisión y de diez a cuarenta días multa.
 
 ###### Artículo 276.
 
@@ -2208,3 +2400,9 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO.
 
 JUAN MANUEL OLIVA RAMÍREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 13 DE AGOSTO DE 2004.
+
+Artículo Único.- el presente decreto entrará en vigor a los sesenta días siguientes contados al de su fecha de publicación en el Periódico Oficial del Gobierno del Estado.
