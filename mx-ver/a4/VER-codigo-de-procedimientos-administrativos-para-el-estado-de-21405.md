@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2003-01-06"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ-LLAVE
+CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -37,9 +37,11 @@ Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Esta
 
 La Honorable Quincuagésima Novena Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33, fracción I y 38 de la Constitución Política local, 47 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo, expide el siguiente:
 
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 CÓDIGO Número 14
 
-De Procedimientos Administrativos para el Estado de Veracruz-Llave
+De Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave
 
 # LIBRO PRIMERO. DISPOSICIONES PRELIMINARES
 
@@ -65,7 +67,9 @@ III. Anulabilidad: reconocimiento de la Autoridad, en el sentido de que un acto 
 
 IV. Autoridad: órgano o servidores públicos, estatales o municipales, así como las personas físicas o morales de carácter privado que realicen funciones derivadas de la concesión de un servicio público, que con fundamento en la ley emiten actos administrativos que afectan la esfera jurídica del gobernado, susceptibles de exigirse mediante el uso de la fuerza pública o bien a través de otras autoridades. También tendrá este carácter el Órgano de Fiscalización Superior del Estado;
 
-V. Código: el Código de Procedimientos Administrativos para el Estado de Veracruz-Llave;
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+V. Código: el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave;
 
 VI. Formalidades: los principios esenciales y bases del procedimiento administrativo y del juicio contencioso, con apego a las garantías de legalidad, seguridad jurídica, audiencia o irretroactividad, establecidos en las leyes, que deben observarse para que los interesados o las partes obtengan una decisión ajustada a derecho;
 
@@ -81,13 +85,17 @@ XI. Juicio Contencioso: sucesión de actos jurisdiccionales, realizados conforme
 
 XII. Juicio de Lesividad: procedimiento incoado por la autoridad ante el Tribunal, para solicitar la declaración de nulidad de resoluciones administrativas favorables a los particulares, por considerar que lesionan a la Administración Pública o al interés público;
 
-XIII. Normas: Leyes, Reglamentos, Decretos, Acuerdos, Bandos u otras disposiciones de carácter general, que rijan en el Estado de Veracruz-Llave;
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+XIII. Normas: Leyes, Reglamentos, Decretos, Acuerdos, Bandos u otras disposiciones de carácter general, que rijan en el Estado de Veracruz de Ignacio de la Llave;
 
 XIV. Nulidad: expresión, manifestación o reconocimiento emanados del órgano competente, en el sentido de que un acto administrativo no cumple con los elementos de validez que se establecen en este Código y que por lo tanto no genera efectos jurídicos;
 
 XV. Oficina Ejecutora: autoridad fiscal estatal o municipal que, de conformidad con las normas aplicables, tiene atribuciones para ordenar y substanciar el procedimiento administrativo de ejecución;
 
-XVI. Órgano: autoridad encargada de la función de Fiscalización Superior en el Estado de Veracruz-Llave;
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+XVI. Órgano: autoridad encargada de la función de Fiscalización Superior en el Estado de Veracruz de Ignacio de la Llave;
 
 XVII. Procedimiento Administrativo: conjunto de actos y formalidades jurídicas realizados conforme a lo dispuesto por este Código, tendentes a producir un acto de la Administración Pública;
 
@@ -97,7 +105,9 @@ XIX. Revocación: acto administrativo emitido por la autoridad por virtud del cu
 
 XX. Servidores Públicos: las personas que desempeñan un empleo, cargo o comisión de cualquier naturaleza en las dependencias y entidades de la Administración Pública estatal o municipal, o en el Órgano de Fiscalización Superior del Estado; y
 
-XXI. Tribunal: Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Veracruz-Llave.
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+XXI. Tribunal: Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 3.
 
@@ -303,7 +313,9 @@ VI. La conclusión de su vigencia.
 
 Las promociones y actuaciones deberán escribirse en idioma español. Los documentos redactados en otro idioma, se acompañarán de su correspondiente traducción; en caso de que no se exhiba ésta, la autoridad, o el Tribunal la obtendrán de manera oficiosa, a costa del interesado.
 
-Para el caso de las promociones y documentos que los integrantes de los pueblos indígenas asentados en el Estado de Veracruz-Llave dirijan a las autoridades o al Tribunal, se estará a lo que disponga la ley de la materia.
+> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+Para el caso de las promociones y documentos que los integrantes de los pueblos indígenas asentados en el Estado de Veracruz de Ignacio de la Llave dirijan a las autoridades o al Tribunal, se estará a lo que disponga la ley de la materia.
 
 ###### Artículo 22.
 
@@ -605,9 +617,11 @@ Son documentos públicos aquellos cuya formulación está encomendada por ley a 
 
 La calidad de públicos se demuestra por la existencia regular sobre los documentos, de sellos, firmas u otros signos exteriores que, en su caso, prevengan las normas, salvo prueba en contrario.
 
+> <small>(REFORMADO PRIMER PARRAFO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 ###### Artículo 67.
 
-Los documentos públicos expedidos por autoridades de la Federación, de los Estados, del Distrito Federal o de los municipios harán fe en el Estado de Veracruz-Llave, sin necesidad de legalización.
+Los documentos públicos expedidos por autoridades de la Federación, de los Estados, del Distrito Federal o de los municipios harán fe en el Estado de Veracruz de Ignacio de la Llave, sin necesidad de legalización.
 
 Para que hagan fe los documentos procedentes del extranjero, deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares, o ajustarse a los convenios que la Federación haya celebrado en esta materia.
 
@@ -949,7 +963,9 @@ El procedimiento administrativo podrá iniciarse de oficio o a petición del int
 
 Lo informes, manifestaciones, o declaraciones rendidos por los interesados a la autoridad, se presumirán ciertos salvo prueba en contrario; sin embargo, podrán ser objeto de control y verificación por parte de la autoridad.
 
-Si los informes, manifestaciones o declaraciones proporcionados por el particular resultaren falsos, se aplicarán las sanciones administrativas correspondientes, sin perjuicio de lo dispuesto en el Código Penal para el Estado Libre y Soberano de Veracruz-Llave. Estas mismas sanciones se aplicarán a los titulares, representantes legales o delegados de las autoridades que rindan informes, manifestaciones o declaraciones falsas.
+> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+Si los informes, manifestaciones o declaraciones proporcionados por el particular resultaren falsos, se aplicarán las sanciones administrativas correspondientes, sin perjuicio de lo dispuesto en el Código Penal para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave. Estas mismas sanciones se aplicarán a los titulares, representantes legales o delegados de las autoridades que rindan informes, manifestaciones o declaraciones falsas.
 
 ###### Artículo 124.
 
@@ -2968,3 +2984,21 @@ SEGUNDO. Se derogan las disposiciones que se opongan a lo dispuesto en el presen
 TERCERO. Las visitas domiciliarias y las de verificación ya iniciadas al momento de la entrada en vigor del presente Decreto, se continuarán tramitando conforme a las disposiciones del Código de Procedimientos Administrativos para el Estado de Veracruz-Llave, vigentes al momento de su inicio.
 
 CUARTO. Las disposiciones reglamentarias en materia de catastro, deberán ajustar su contenido a lo dispuesto en el presente Decreto, dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
