@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1945-05-08"
+last_updated: "1945-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,39 +20,37 @@ issue_date: "1931-08-13"
 ---
 # CODIGO PENAL PARA EL DISTRITO FEDERAL -ANTES CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES-
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
+CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2015.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1945.
 
-Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
+Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
-Emilio González Márquez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
+Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
-NÚMERO 22219/LVIII/08.- EL CONGRESO DEL ESTADO DECRETA:
+El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido dirigirme el siguiente Decreto:
 
-SE APRUEBA CREAR LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO; SE REFORMAN LAS FRACCIONES XXII Y XXIII Y SE ADICIONA UNA FRACCIÓN XXIV AL ARTÍCULO 22 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO; SE REFORMAN LAS FRACCIONES XIV Y XV Y SE ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 37 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; SE REFORMAN LAS FRACCIONES IX Y X DEL ARTÍCULO 4, XXXVI Y XXXVII DEL ARTÍCULO 7, XXVI Y XXVII DEL ARTÍCULO 8, I Y IX DEL ARTÍCULO 24 Y SE ADICIONAN LAS FRACCIONES XI Y XII AL ARTÍCULO 4, XXXVIII AL ARTÍCULO 7 Y XXVIII AL ARTÍCULO 8 DE LA LEY DEL INSTITUTO JALISCIENSE DE LAS MUJERES; SE REFORMAN LOS ARTÍCULOS 259 FRACCIÓN IV, 267 BIS, 275, 404 FRACCIÓN II, LOS INCISOS C) Y B) DE LA FRACCIÓN V DEL ARTÍCULO 598 Y SE ADICIONA EL INCISO D) A LA FRACCIÓN V DEL ARTÍCULO 598 DEL CÓDIGO CIVIL; SE REFORMA EL ARTÍCULO 695 Y SE ADICIONA UN PÁRRAFO A LOS ARTÍCULOS 21, 221 Y 694 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES; SE REFORMAN LOS ARTÍCULOS 139, 175, 176 BIS, 176 TER Y 211 Y LA DENOMINACIÓN DEL CAPÍTULO IV, SE ADICIONAN UN PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 41, UN PÁRRAFO AL ARTÍCULO 129 Y LA FRACCIÓN XIII AL ARTÍCULO 154, SE DEROGA EL CAPÍTULO OCTAVO Y SUS ARTÍCULOS 195 Y 196 DEL CÓDIGO PENAL; SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 354 Y SE ADICIONAN LOS ARTÍCULOS 93 BIS, 127 BIS Y LA FRACCIÓN VIII DEL ARTÍCULO 354 DEL CÓDIGO DE PROCEDIMIENTOS PENALES; SE REFORMAN LAS FRACCIONES XXVIII Y XXIX Y SE ADICIONAN LAS FRACCIONES XXX, XXXI Y XXXII DEL ARTÍCULO 61 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS; SE REFORMAN LAS FRACCIONES I DEL ARTÍCULO 7 Y III DEL ARTÍCULO 8 DE LA LEY DE EDUCACIÓN; SE REFORMAN LOS ARTÍCULOS 13 FRACCIONES II Y III Y 42 Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 13 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES; SE REFORMAN LOS ARTÍCULOS 5, LA FRACCIÓN II DEL ARTÍCULO 32, 37 Y 38, SE DEROGAN LOS ARTÍCULOS 40, 41, 42 Y 43 DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR, SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 15 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA, TODAS DEL ESTADO DE JALISCO.
+"PASCUAL ORTIZ RUBIO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-Artículo Primero. Se aprueba la creación de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del estado de Jalisco, para quedar como sigue:
+Que en uso de las facultades que le fueron concedidas por Decreto de 2 de enero de 1931, ha tenido a bien expedir el siguiente
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO.
+CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
+
+> <small>N. DE E. POR DECRETO QUE CREA LA LEY DE PREVENCIONES GENERALES RELATIVA A LA SUSPENSION DE GARANTIAS, PUBLICADO EN EL D.O.F. EL 13 DE JUNIO DE 1942, SE ESTABLECE EN SU ARTICULO 12, LA RESTRICCIÓN DE LAS GARANTIAS DE LOS ARTICULOS 16, 19, Y 20 CONSTITUCIONAL, APLICABLE UNICAMENTE A LOS DELITOS DEL ORDEN FEDERAL COMPRENDIDOS EN EL LIBRO II, TITULOS I A VI Y TITULO IX DEL CODIGO PENAL FEDERAL, ASI COMO A LOS ENUMERADOS EN EL DECRETO DE 30 DE OCTUBRE DE 1941, PUBLICADO EL 14 DE NOVIEMBRE DE 1941, QUE REFORMO AL CODIGO.</small>
 
 # LIBRO PRIMERO
 
-## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+## TITULO PRELIMINAR
 
 ###### ARTICULO 1o.
 
 Este Código se aplicará en el Distrito y Territorios Federales, por los delitos de la competencia de los tribunales comunes; y en toda la República, para los delitos de la competencia de los tribunales federales.
 
-###### Artículo 2°.
+###### ARTICULO 2°.
 
-Para los efectos de esta ley se entenderá por:
+Se derogan todas las disposiciones que se opongan a las presentes reformas y adiciones.
 
-I. Consejo Estatal: Consejo Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres;
-
-II. Programa Estatal: Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres; y
-
-III. Sistema Estatal: Sistema Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres.
+D.O.F. 14 DE NOVIEMBRE DE 1941.
 
 ###### ARTICULO 3o.
 
@@ -86,9 +84,9 @@ V.- Los cometidos en las embajadas y legaciones mexicanas.
 
 Cuando se cometa un delito no previsto en este Código, pero sí en una ley especial, se aplicará ésta, observando las disposiciones conducentes de este Código.
 
-## TÍTULO SEGUNDO. DEL SISTEMA Y DEL PROGRAMA PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES DEL ESTADO DE JALISCO
+## TITULO PRIMERO. Responsabilidad penal
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPITULO I. Reglas generales sobre delitos y responsabilidad
 
 ###### ARTICULO 7o.
 
@@ -124,719 +122,361 @@ V.- Que erró sobre la persona o cosa en que quiso cometer el delito, y
 
 VI.- Que obró con el consentimiento del ofendido, exceptuando el caso de que habla el artículo 93.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-Los gobiernos Estatal y Municipal procurarán erradicar cualquier acción u omisión ilícita y antijurídica, que por razón de discriminación, genere o pueda dar como resultado un daño psicológico, moral, físico, patrimonial, sexual o que menoscabe la dignidad de las mujeres.
+La responsabilidad penal no pasa de la persona y bienes de los delincuentes, excepto en los casos especificados por la ley.
 
-###### Artículo 11.
+###### ARTICULO 11.
 
-La violencia contra las mujeres es todo acto de violencia basado en la pertenencia del sexo femenino, que tenga o pueda tener como resultado un daño o sufrimiento físico, psicológico o sexual para la mujer, así como la amenaza de tales actos, la coacción o la privación arbitraria de la libertad, tanto si se produce en la vida pública como en la vida privada.
+Cuando algún miembro o representante de una persona jurídica, o de una sociedad, corporación o empresa de cualquiera clase, con excepción de las instituciones del Estado, cometa un delito con los medios que para tal objeto las mismas entidades le proporcionen, de modo que resulte cometido a nombre o bajo el amparo de la representación social o en beneficio de ella, el juez podrá, en los casos exclusivamente especificados por la ley, decretar en la sentencia la suspensión de la agrupación o su disolución, cuando lo estime necesario para la seguridad pública.
 
-La violencia contra las mujeres se manifiesta en distintos ámbitos y modalidades que de manera descriptiva más no limitativa puede ser:
+### CAPITULO II. Tentativa
 
-I. Violencia en el ámbito familiar en contra de las mujeres, se considera a la ejercida dentro o fuera del domicilio de la víctima, cometida por un agresor con quien se tiene o se ha tenido un parentesco por consanguinidad o afinidad, o derivada de una relación de concubinato o matrimonio;
+###### ARTICULO 12.
 
-II. Violencia Laboral, es la ejercida por las personas que tienen un vínculo laboral o análogo con la víctima, independientemente de la relación jerárquica; y consiste en la acción u omisión que atenta contra la igualdad y dignidad del receptor y por tanto daña su autoestima, salud, integridad, libertad y seguridad e impide su desarrollo armónico;
+La tentativa es punible cuando se ejecutan hechos encaminados directa e inmediatamente a la realización de un delito, si éste no se consuma por causas ajenas a la voluntad del agente.
 
-III. Violencia Docente, son aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infrinjan maestras, maestros o personal administrativo;
+Para imponer la pena de la tentativa, los jueces tendrán en cuenta la temibilidad del autor y el grado a que se hubiere llegado en la ejecución del delito.
 
-IV. Violencia en la comunidad, consiste en los actos individuales o colectivos que transgredan derechos fundamentales de las mujeres en el ámbito social y propician su denigración, discriminación, marginación o exclusión;
+### CAPITULO III. Personas responsables de los delitos
 
-V. Violencia institucional, se presenta cuando uno o varios servidores públicos, del nivel que sea, realicen actos u omisiones mediante los cuales discriminen o tengan como fin o resultado, dilatar, obstaculizar, impedir el goce o ejercicio de los derechos de las mujeres, o negarles las acciones destinadas a prevenir, atender, investigar y sancionar los diferentes tipos de violencia;
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-VI. Violencia feminicida, es el fenómeno social que se manifiesta en la forma extrema de violencia de género contra las mujeres, que de manera sistemática lesiona los derechos humanos de éstas en el ámbito público o privado, cuya escala puede llegar al homicidio teniendo como común denominador el género de las víctimas en un ambiente ideológico y social adverso a las mujeres, caracterizado por la ausencia o deficiente implementación de normas jurídicas y políticas públicas de protección que generan consecuentemente condiciones de inseguridad y ponen en riesgo su vida; y
+###### ARTICULO 13.
 
-VII. En todos aquellos ámbitos o modalidades en que una persona física o jurídica de derecho público o privado ejecute algún acto de violencia contra las mujeres.
+Son responsables todos los que toman parte en la concepción, preparación o ejecución de un delito; o prestan auxilio o cooperación de cualquier especie, por concierto previo o posterior, o inducen directamente a alguno a cometerlo.
 
-### CAPÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
+Los jueces podrán aumentar o disminuir la sanción respectiva, dentro de los límites fijados por la ley, según la participación de cada delincuente.
 
-###### Artículo 12.
+###### ARTICULO 14.
 
-El Gobernador a través de la Secretaría General de Gobierno, a petición de la Secretaría Ejecutiva del Sistema, emitirá la alerta de violencia contra las mujeres como medida para erradicar la violencia feminicida, a partir de la detección de delitos graves y sistemáticos en contra de mujeres o cuando organismos de derechos humanos a nivel local, nacional o internacional, presuman una inadecuada investigación o sanción a estos delitos.
+Si varios delincuentes toman parte en la realización de un delito determinado y alguno de ellos comete un delito distinto, sin previo acuerdo con los otros, todos serán responsables de la comisión del nuevo delito, salvo que concurran los requisitos siguientes:
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+I.- Que el nuevo delito no sirva de medio adecuado para cometer el principal;
 
-###### Artículo 13.
+II.- Que aquél no sea una consecuencia necesaria o natural de éste, o de los medios concertados;
 
-La alerta de violencia contra las mujeres tendrá como objetivo establecer el tipo de medidas de emergencia contempladas en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia o las que sean necesarias para garantizar la seguridad de las mujeres y el cese de la violencia en su contra, así como el de asignar los recursos presupuestales para implementarlas.
+III.- Que no hayan sabido antes que se iba a cometer el nuevo delito, y
 
-###### Artículo 14.
+IV.- Que no hayan estado presentes en la ejecución del nuevo delito, o que habiendo estado, hayan hecho cuanto estaba de su parte para impedirlo.
 
-El Sistema Estatal, es el conjunto de elementos ordenados, congruentes y uniformes encaminados a detectar, prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+### CAPITULO IV. Circunstancias excluyentes de responsabilidad
 
-### CAPÍTULO II. DEL CONSEJO ESTATAL PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+###### ARTICULO 15.
 
-###### Artículo 15.
+Son circunstancias excluyentes de responsabilidad penal:
 
-Los poderes públicos del Estado y los gobiernos municipales se coordinarán para la integración y funcionamiento del sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para prevenir, detectar, atender, sancionar y erradicar la violencia contra las mujeres.
+I.- Obrar el acusado impulsado por una fuerza física exterior irresistible;
 
-El sistema fundará dichas acciones en una cultura de valores basados en la equidad de género y los derechos humanos, que construyen un marco de convivencia pacífica para la sociedad.
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-###### Artículo 16.
+II.- Hallarse el acusado, al cometer la infracción, en un estado de inconsciencia de sus actos, determinado por el empleo accidental e involuntario de substancias tóxicas, embriagantes o enervantes, o por un estado toxinfeccioso agudo o por un trastorno mental involuntario de carácter patológico y transitorio;
 
-El Consejo Estatal para detectar, prevenir, atender y erradicar la Violencia contra las Mujeres, es la instancia normativa de las políticas públicas en la materia y operadora del sistema.
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-###### Artículo 17.
+III.- Obrar el acusado en defensa de su persona, de su honor o de sus bienes, o de la persona, honor o bienes de otro, repeliendo una agresión actual, violenta, sin derecho y de la cual resulte un peligro inminente; a no ser que se pruebe que intervino alguna de las circunstancias siguientes:
 
-El Consejo se conforma por los titulares o los representantes que estos designen, de las siguientes dependencias y entidades:
+Primera.- Que el agredido provocó la agresión, dando causa inmediata y suficiente para ella;
 
-I. El Gobernador Constitucional del Estado, quien fungirá como Presidente Honorario;
+Segunda.- Que previó la agresión y pudo fácilmente evitarla por otros medios legales;
 
-II. La Secretaría General de Gobierno, quien será el Presidente Ejecutivo del Consejo;
+Tercera.- Que no hubo necesidad racional del medio empleado en la defensa, y
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+Cuarta.- Que el daño que iba a causar el agresor, era fácilmente reparable después por medios legales o era notoriamente de poca importancia, comparado con el que causó la defensa.
 
-III. La Secretaría de Desarrollo e Integración Social;
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquel que durante la noche rechazare, en el momento mismo de estarse verificando, el escalamiento o fractura de los cercados, paredes o entradas de su casa o departamento habitado o de sus dependencias, cualquiera que sea el daño causado al agresor.
 
-IV. La Fiscalía General del Estado;
+Igual presunción favorecerá al que causare cualquier daño a un extraño a quien encontrare: dentro de su hogar; en la casa donde se encuentre su familia, aunque no sea su hogar habitual; en un hogar ajeno que aquél tenga obligación legal de defender; en el local donde aquél tenga sus bienes o donde se encuentren bienes ajenos que tenga obligación legal de defender, siempre que esto suceda de noche y el intruso ejerza violencia sobre las personas o sobre las cosas que en tales sitios se hallen.
 
-V. La Secretaría de Educación (sic) Jalisco;
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-VI. La Secretaría de Salud;
+IV.- El miedo grave o el temor fundado e irresistible de un mal inminente y grave en la persona del contraventor o la necesidad de salvar su propia persona o sus bienes o la persona o bienes de otro, de un peligro real, grave e inminente, siempre que no exista otro medio practicable y menos perjudicial.
 
-VII. La Secretaría de Cultura;
+No se considerará que obra en estado de necesidad, aquel que por su empleo o cargo tenga el deber legal de sufrir el peligro;
 
-VIII. La Secretaría del Trabajo;
+V.- Obrar en cumplimiento de un deber o en el ejercicio de un derecho consignados en la ley;
 
-IX. La Procuraduría Social;
+VI.- Ejecutar un hecho que no es delictuoso sino por circunstancias del ofendido, si el acusado las ignoraba inculpablemente al tiempo de obrar;
 
-X. El Instituto Jalisciense de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema;
+VII.- Obedecer a un superior legítimo en el orden jerárquico, aun cuando su mandato constituya un delito si esta circunstancia no es notoria ni se prueba que el acusado la conocía;
 
-XI. El Instituto Jalisciense de Asistencia Social;
+VIII.- Contravenir lo dispuesto en una ley penal, dejando de hacer lo que manda, por un impedimento legítimo;
 
-XII. El Sistema Estatal para el Desarrollo Integral de la Familia;
+IX.- Ocultar al responsable de un delito o los efectos, objetos o instrumentos del mismo o impedir que se averigüe, cuando no se hiciere por un interés bastardo y no se empleare algún medio delictuoso, siempre que se trate de:
 
-XIII. (DEROGADA, P.O. 9 DE AGOSTO DE 2014)
+a) Los ascendientes y descendientes consanguíneos o afines;
 
-XIV. El Sistema Jalisciense de Radio y Televisión;
+b) El cónyuge y parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo, y
 
-XV. El Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar;
+c) Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad; y
 
-XVI. La Universidad de Guadalajara y dos especialistas en la materia de instituciones de Educación Superior reconocidas del estado; y
+X.- Causar un daño por mero accidente, sin intención ni imprudencia alguna, ejecutando un hecho lícito con todas las precauciones debidas.
 
-XVII. Un representante de los Ayuntamientos de la Entidad por cada una de las regiones administrativas en que se divide el Estado de Jalisco.
+###### ARTICULO 16.
 
-Los titulares o los representantes que formen parte del Consejo tendrán cargos honoríficos.
+El que se exceda en la defensa legítima, por intervenir la tercera o cuarta circunstancias de las enumeradas en la segunda parte de la fracción III del artículo 15, será penado como delincuente por imprudencia.
 
-### CAPÍTULO III. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+###### ARTICULO 17.
 
-###### Artículo 18.
+Las circunstancias excluyentes de responsabilidad penal, se harán valer de oficio.
 
-El Consejo como órgano colegiado, tendrá a cargo las siguientes atribuciones:
+### CAPITULO V. Acumulación
 
-I. Elaborar y aprobar el Programa Estatal;
+###### ARTICULO 18.
 
-II. Evaluar el cumplimiento y eficacia del Programa Estatal;
+Hay acumulación: siempre que alguno es juzgado a la vez por varios delitos, ejecutados en actos distintos, si no se ha pronunciado antes sentencia irrevocable y la acción para perseguirlos no está prescrita.
 
-III. Proponer el establecimiento de lineamientos técnicos y administrativos que faciliten la ejecución del Programa Estatal;
+###### ARTICULO 19.
 
-IV. Realizar los convenios necesarios para el cumplimiento de esta Ley;
+No hay acumulación cuando los hechos constituyen un delito continuo o cuando en un solo acto se violen varias disposiciones penales.
 
-V. Gestionar que se asignen las partidas presupuestales en cada ejercicio fiscal para cumplir con los fines y objetivos del programa; y
+Se considera, para los efectos legales, delito continuo aquel en que se prolonga sin interrupción, por más o menos tiempo, la acción o la omisión que lo constituyen.
 
-VI. Las demás que le señale la presente Ley y otros ordenamientos aplicables.
+### CAPITULO VI. Reincidencia
 
-###### Artículo 19.
+###### ARTICULO 20.
 
-El Consejo debe celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia, teniendo la obligación de sesionar como mínimo, cada seis meses.
+Hay reincidencia: siempre que el condenado por sentencia ejecutoria dictada por cualquier tribunal de la República o del extranjero, cometa un nuevo delito, si no ha transcurrido, desde el cumplimiento de la condena o desde el indulto de la misma, un término igual al de la prescripción de la pena, salvo las excepciones fijadas en la ley.
 
-### CAPÍTULO IV. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, DETECCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+La condena sufrida en el extranjero se tendrá en cuenta si proviniere de un delito que tenga este carácter en este Código o leyes especiales.
 
-###### Artículo 20.
+###### ARTICULO 21.
 
-La Secretaría Ejecutiva del Sistema, tendrá las siguientes atribuciones:
+Si el reincidente en el mismo género de infracciones comete un nuevo delito procedente de la misma pasión o inclinación viciosa, será considerado como delincuente habitual, siempre que las tres infracciones se hayan cometido en un período que no exceda de diez años.
 
-I. Convocar a sesiones ordinarias y extraordinarias del Consejo con al menos 48 horas de anticipación;
+###### ARTICULO 22.
 
-II. Vigilar el cumplimiento de los acuerdos del Consejo;
+En las prevenciones de los artículos anteriores se comprenden los casos en que uno solo de los delitos, o todos, queden en cualquier momento de la tentativa, sea cual fuere el carácter con que intervenga el responsable.
 
-III. Elaborar el anteproyecto del Programa Estatal;
+###### ARTICULO 23.
 
-IV. Ser representante legal del Consejo;
+No se aplicarán los artículos anteriores tratándose de delitos políticos y cuando el agente haya sido indultado por ser inocente.
 
-V. Rendir anualmente al Presidente Ejecutivo y al Consejo un informe de actividades;
+## TITULO SEGUNDO
 
-VI. Estandarizar los procesos de prevención, detección, atención y erradicación de la violencia de género contra las mujeres, de atención a sus víctimas y de reeducación de individuos que ejercen violencia;
+### CAPITULO I. Penas y medidas de seguridad
 
-VII. Establecer, coordinar, controlar y actualizar el Sistema Estatal de Información sobre la Violencia contra las mujeres, y facilitar el intercambio de información entre instancias;
+###### ARTICULO 24.
 
-VIII. Capacitar al personal de las dependencias e instituciones públicas, encargado de la prevención, detección, atención, sanción y erradicación de la violencia, mediante procesos educativos formales;
+Las penas y medidas de seguridad son:
 
-IX. Impulsar la investigación sobre la violencia de género que se ejerce contra las mujeres y publicar los resultados;
+1.- Prisión.
 
-X. Implementar un programa especial para proporcionar tratamiento terapéutico al personal de instituciones públicas y privadas, encargado de la atención de las mujeres víctimas de violencia de género;
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 1944)</small>
 
-XI. Promover la instalación de centros de refugio temporal para mujeres víctimas de violencia, centros de atención y rehabilitación para agresores y módulos de información;
+2.- Relegación.
 
-XII. Promover la firma de convenios con instituciones públicas y privadas para el cumplimiento de los fines de esta Ley; y
+3.- Reclusión de locos, sordomudos, degenerados o toxicómanos.
 
-XIII. Las demás que le señale la presente Ley y otros ordenamientos aplicables.
+4.- Confinamiento.
 
-###### Artículo 21.
+5.- Prohibición de ir a lugar determinado.
 
-El programa estatal contendrá todas las acciones para detectar, prevenir, atender y erradicar la Violencia contra las Mujeres, es el instrumento que contiene las acciones que, en forma planeada y coordinada, deberán realizar las dependencias y entidades de la administración pública estatal y municipal, en el corto, mediano y largo plazo. Dicho programa tendrá el carácter de prioritario.
+6.- Sanción pecuniaria.
 
-###### Artículo 22.
+7.- Pérdida de los instrumentos del delito.
 
-El programa estatal contendrá todas las acciones para detectar, prevenir, atender y erradicar cualquier manifestación de violencia en contra de las mujeres, promoviendo una cultura de equidad y respeto. Conteniendo por lo menos:
+8.- Confiscación o destrucción de cosas peligrosas o nocivas.
 
-I. El diagnóstico de la situación actual de la violencia de género contra las mujeres en el estado;
+9.- Amonestación.
 
-II. Los objetivos específicos a alcanzar;
+10.- Apercibimiento.
 
-III. Las estrategias a seguir para el logro de esos objetivos;
+11.- Caución de no ofender.
 
-IV. Los Subprogramas específicos, así como las acciones o metas operativas correspondientes incluyendo aquellas que sean objeto de coordinación con instituciones públicas o privadas; y
+12.- Suspensión o privación de derechos.
 
-V. La especificación del responsable de su ejecución.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 1945)</small>
 
-###### Artículo 23.
+13.- Inhabilitación, destitución o suspensión de funciones o empleos.
 
-El programa sujetará las acciones con perspectiva de género para:
+14.- Publicación especial de sentencia.
 
-I. Promover una cultura que reconozca y respete los derechos humanos de las mujeres;
+15.- Vigilancia de la policía.
 
-II. Transformar los modelos socioculturales de conducta, a través de la formulación de programas y acciones de educación en sus distintos niveles con la finalidad de detectar, prevenir, atender y erradicar las conductas estereotipadas que propician la violencia contra las mujeres;
+16.- Suspensión o disolución de sociedades.
 
-III. Educar, capacitar y sensibilizar en materia de derechos humanos de las mujeres a las instituciones y al personal encargado de la procuración e impartición de justicia, de las policías estatales y municipales, y demás funcionarios encargados de las políticas de prevención, detección, atención, sanción y erradicación de la violencia contra las mujeres;
+17.- Medidas tutelares para menores.
 
-IV. Educar, capacitar y sensibilizar en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permitan juzgar con perspectiva de género;
+Y las demás que fijen las leyes.
 
-V. Proporcionar los servicios especializados, profesionales y gratuitos para la atención y protección de las víctimas, así como de quienes se encuentren bajo su tutela, protección o cuidado por medio de las autoridades y las instituciones públicas o privadas;
+### CAPITULO II. Prisión
 
-VI. Fomentar y apoyar los programas de educación pública y privada, destinados a sensibilizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres;
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1938)</small>
 
-VII. Elaborar programas de atención y capacitación a víctimas de la violencia que permita su participación plena en todos los ámbitos de la vida;
+###### ARTICULO 25.
 
-VIII. Diseñar mecanismos que permitan la coordinación con los distintos medios de comunicación para que en los contenidos de sus programas no fomenten la violencia contra las mujeres y favorezcan la erradicación de todos los tipos de violencia;
+La prisión será de tres días a treinta años y se extinguirá en los lugares o establecimientos que, al efecto, designe el Departamento de Prevención Social.
 
-IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos de forma periódica sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de medir y evaluar la escalada de violencia, así como la eficacia de las medidas desarrolladas para prevenir, detectar, atender, sancionar y erradicar este tipo de actos;
+###### ARTICULO 26.
 
-X. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el Banco Estatal de Datos e Información sobre casos de Violencia contra las Mujeres, pudiéndose apoyar al efecto de los diversos órganos estatales relacionados en materia de procuración de justicia;
+Los procesados sujetos a prisión preventiva y los reos políticos, serán recluídos en establecimientos o departamentos especiales.
 
-XI. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo, las medidas y políticas públicas para prevenir, detectar, atender, sancionar y erradicar la violencia contra las mujeres;
+### CAPITULO III. Relegación
 
-XII. Promover la cultura de denuncia de la violencia contra las mujeres para garantizar su seguridad y su integridad; y
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 1944)</small>
 
-XIII. Diseñar un modelo integral de atención que instrumenten las instituciones, los centros de atención y los refugios previstos por esta ley, relativos a los derechos humanos y ciudadanía de las mujeres.
+###### ARTICULO 27.
 
-## TITULO TERCERO. DE LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
+La relegación en colonias penales se aplicará a los delincuentes declarados judicialmente habituales o cuando expresamente lo determine la ley.
 
-### CAPÍTULO I. DE LA PREVENCIÓN
+### CAPITULO IV. Confinamiento
 
-###### Artículo 24.
+###### ARTICULO 28.
 
-Los poderes públicos del Estado y los gobiernos municipales, de acuerdo a su disponibilidad presupuestal, coadyuvarán para el cumplimiento de los objetivos de esta Ley de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
+El confinamiento consiste en la obligación de residir en determinado lugar y no salir de él. El Ejecutivo hará la designación del lugar, conciliando las exigencias de la tranquilidad pública con la salud y las necesidades del condenado. Cuando se trate de delitos políticos, la designación la hará el juez que dicte la sentencia.
 
-#### Sección Primera.
+### CAPITULO V. Sanción pecuniaria
 
-Del Gobierno del estado de Jalisco.
+###### ARTICULO 29.
 
-### CAPÍTULO II. DE LA ATENCIÓN
+La sanción pecuniaria comprende la multa y la reparación del daño.
 
-###### Artículo 25.
+La reparación del daño que deba ser hecha por el delincuente, tiene el carácter de pena pública, pero cuando la misma reparación deba exigirse a terceros tendrá el carácter de responsabilidad civil y se tramitará en forma de incidente en los términos que fije el Código de Procedimientos Penales.
 
-Son facultades y obligaciones del Estado; además de las establecidas en otros ordenamientos:
+Cuando el condenado no pudiere pagar la multa que se le hubiere impuesto como sanción, o solamente pudiera pagar parte de ella, el juez fijará, en subsititución (sic) de ella, los días de prisión que correspondan, según las condiciones económicas del reo, no excediendo de cuatro meses.
 
-I. Promover se garantice el ejercicio pleno del derecho de las mujeres a una vida libre de violencia;
+###### ARTICULO 30.
 
-II. Formular y conducir la política estatal integral desde la perspectiva de género para prevenir, detectar, atender, sancionar y erradicar la violencia contra las mujeres;
+La reparación del daño comprende:
 
-III. Vigilar el cabal cumplimiento de la presente ley;
+I.- La restitución de la cosa obtenida por el delito, y si no fuere posible, el pago del precio de la misma, y
 
-IV. Coordinar y aplicar el Programa Estatal, auxiliándose de las demás autoridades encargadas de implementar el presente ordenamiento legal;
+II.- La indemnización del daño material y moral causado a la víctima o a su familia.
 
-V. Asegurar la difusión y promoción de los derechos de las mujeres indígenas con base en el reconocimiento de la composición pluricultural del Estado;
+###### ARTICULO 31.
 
-VI. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los derechos humanos de las mujeres;
+La reparación será fijada por los jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas en el proceso, y atendiendo también a la capacidad económica del obligado a pagarla.
 
-VII. Coordinar la creación de Programas de reeducación y reinserción social con perspectiva de género para agresores de mujeres;
+Para los casos de reparación del daño causado con motivo de delitos por imprudencia, el Ejecutivo de la Unión reglamentará, sin perjuicio de la resolución que se dicte por la autoridad judicial, la forma en que, administrativamente, deba garantizarse mediante seguro especial dicha reparación.
 
-VIII. Promover la coordinación entre el Estado y los ayuntamientos, con la finalidad de prevenir, detectar, atender, sancionar y erradicar la violencia contra las mujeres;
+###### ARTICULO 32.
 
-IX. Promover a través del Instituto Jalisciense de las Mujeres y con el apoyo de las instancias locales, campañas de información, con énfasis en la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes, las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
+Están obligados a reparar el daño en los términos del artículo 29:
 
-X. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, de manera que sirvan de cauce para lograr la atención integral de las víctimas;
+I.- Los ascendientes, por los delitos de sus descendientes que se hallaren bajo su patria potestad;
 
-XI. Celebrar convenios de cooperación, coordinación y concertación con instituciones públicas y privadas para el cumplimiento de esta ley;
+II.- Los tutores y los custodios, por los delitos de los incapacitados que se hallen bajo su autoridad;
 
-XII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atención de víctimas;
+III.- Los directores de internados o talleres, que reciban en su establecimiento discípulos o aprendices menores de 16 años, por los delitos que ejecuten éstos durante el tiempo que se hallen bajo el cuidado de aquéllos;
 
-XIII. Promover medidas específicas, que sirvan de herramientas de acción para la prevención, sanción, detección, atención y erradicación de la violencia contra las mujeres en todos los ámbitos, en un marco de integridad y promoción de los derechos humanos;
+IV.- Los dueños, empresas o encargados de negociaciones o establecimientos mercantiles de cualquier especie, por los delitos que cometan sus obreros, jornaleros, empleados, domésticos y artesanos, con motivo y en el desempeño de su servicio;
 
-XIV. Promover y realizar investigaciones con perspectiva de género sobre las causas y las consecuencias de la violencia contra las mujeres;
+V.- Las sociedades o agrupaciones, por los delitos de sus socios o gerentes directores, en los mismos términos en que, conforme a las leyes, sean responsables por las demás obligaciones que los segundos contraigan.
 
-XV. Evaluar y considerar la eficacia de las acciones del programa, con base en los resultados de las investigaciones previstas en la fracción anterior;
+Se exceptúa de esta regla a la sociedad conyugal, pues, en todo caso, cada cónyuge responderá con sus bienes propios por la reparación del daño que cause, y
 
-XVI. Presentar un informe anual sobre los avances del programa, ante el Congreso del Estado a través del informe de gobierno;
+VI.- El Estado, subsidiariamente, por sus funcionarios y empleados.
 
-XVII. Promover los mecanismos necesarios para el cumplimiento de la presente ley; y
+###### ARTICULO 33.
 
-XVIII. Las demás que le confieran esta ley u otros ordenamientos aplicables.
+La obligación de pagar el importe de la sanción pecuniaria es preferente y se cubrirá primero que cualquiera otra de las obligaciones personales que se hubieren contraído con posterioridad al delito.
 
-#### Sección Segunda.
+###### ARTICULO 34.
 
-De la Secretaría General de Gobierno.
+La reparación del daño proveniente de delito se exigirá de oficio por el Ministerio Público, en los casos en que proceda.
 
-###### Artículo 26.
+###### ARTICULO 35.
 
-Corresponde a la Secretaría General de Gobierno, además de lo establecido en otros ordenamientos:
+El importe de la sanción pecuniaria se distribuirá: entre el Estado y la parte ofendida; al primero se aplicará el importe de la multa, y a la segunda el de la reparación.
 
-I. Presidir el Consejo y declarar la Alerta de Violencia de Género contra las Mujeres de conformidad a la presente ley;
+Si no se logra hacer efectivo todo el importe de la sanción pecuniaria, se cubrirá de preferencia la reparación del daño, y en su caso, a prorrata entre los ofendidos.
 
-II. Diseñar la política integral con perspectiva de género para promover la cultura del respeto a los derechos humanos de las mujeres;
+Si la parte ofendida renunciare a la reparación, el importe de ésta se aplicará al Estado.
 
-III. Formular las bases para la coordinación entre las autoridades locales y municipales para la prevención, detección, atención, sanción y erradicación de la violencia contra las mujeres;
+Los depósitos que garanticen la libertad caucional se aplicarán al pago de la sanción pecuniaria cuando el inculpado se substraiga a la acción de la justicia.
 
-IV. Coordinar y dar seguimiento a las acciones de gobierno en materia de prevención, detección, atención, sanción y erradicación de la violencia contra las mujeres;
+###### ARTICULO 36.
 
-V. Coordinar, a través del Consejo y dar seguimiento a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y la Administración Pública Estatal;
+Cuando varias personas cometan el delito, el juez fijará la multa para cada uno de los delincuentes, según su participación en el hecho delictuoso y sus condiciones económicas; y en cuanto a la reparación del daño, la deuda se considerará como mancomunada y solidaria.
 
-VI. Coordinar a través del Consejo, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+###### ARTICULO 37.
 
-VII. Promover que los medios de comunicación favorezcan la erradicación de todos los tipos de violencia y se fortalezca la dignidad de las mujeres;
+El cobro de la reparación del daño se hará efectivo en la misma forma que la multa.
 
-VIII. Realizar, a través del Consejo un Diagnóstico Estatal y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las mujeres, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
+###### ARTICULO 38.
 
-IX. Las demás previstas para el cumplimiento de la presente ley.
+Si no alcanza a cubrirse la responsabilidad pecuniaria con los bienes del responsable o con el producto de su trabajo en la prisión, el reo liberado seguirá sujeto a la obligación de pagar la parte que falte.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2014)</small>
+###### ARTICULO 39.
 
-#### Sección Tercera. De la Secretaría de Desarrollo e Integración Social
+La autoridad a quien corresponda el cobro de la sanción pecuniaria, podrá fijar plazos para el pago, en los términos siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2014)</small>
+I.- Si no se excediere de cien pesos, se podrá conceder un plazo hasta de ciento veinte días para pagarla por tercias partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en menor tiempo y dé garantía suficiente, a juicio de la autoridad ejecutora.
 
-### CAPÍTULO III. DEL ACCESO A LA JUSTICIA
+II.- Para el pago que exceda de cien pesos, se podrá conceder un plazo hasta de seis meses y que se haga por tercias partes, en el caso y con las condiciones expresadas en la fracción anterior.
 
-###### Artículo 27.
+### CAPITULO VI. Pérdida de los instrumentos del delito
 
-Corresponde a la Secretaría de Desarrollo e Integración Social, además de lo establecido en otros ordenamientos:
+> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 1945)</small>
 
-I. Fomentar el desarrollo humano desde la visión de protección integral de los derechos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
+###### ARTICULO 40.
 
-II. Coadyuvar en la promoción de los Derechos Humanos de las Mujeres;
+Todos aquellos objetos que se encuentren a disposición de las Autoridades Judiciales del orden penal, que no estuvieran comprendidos en los señalados anteriormente en este propio precepto y hubieren permanecido por un lapso mayor de tres años a disposición de dichas autoridades sin que hayan sido recogidos por sus legítimos propietarios, en los casos en que procede su devolución, se considerarán como bienes mostrencos y se procederá a su venta en los términos de las disposiciones relativas del Código Civil para el Distrito y Territorios Federales, considerándose al Tribunal Superior de Justicia del Distrito y Territorios Federales como denunciante para los efectos de la participación que concede el artículo 781 del propio Código Civil, participación que para dicha Institución se aumenta a un cincuenta por ciento del valor en que se realicen los bienes y que se destinará al mejoramiento de la administración de justicia.
 
-III. Formular la política de desarrollo social del estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
+###### ARTICULO 41.
 
-IV. Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
+Si los instrumentos o cosas de que habla la primera parte del artículo anterior, sólo sirven para delinquir, se destruirán al ejecutar la sentencia irrevocable.
 
-V. Promover políticas de prevención, detección, atención y erradicación de la violencia y oportunidades entre mujeres y hombres, para lograr el empoderamiento de las mujeres y la eliminación de las brechas y desventajas de género;
-
-VI. Promover políticas de prevención y atención de la violencia contra las mujeres, en el ámbito de su competencia; y
-
-VII. Las demás previstas para el cumplimiento de la presente ley.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2014)</small>
-
-#### Sección Cuarta. De la Fiscalía General del Estado
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2014)</small>
-
-### CAPÍTULO IV. DE LOS CENTROS DE REFUGIO TEMPORAL PARA MUJERES VÍCTIMAS DE VIOLENCIA
-
-###### Artículo 28.
-
-Corresponde a la Fiscalía General del Estado, además de lo establecido en otros ordenamientos:
-
-I. Diseñar e implementar una política criminal con perspectiva de género orientada a la prevención, detección, atención, sanción y erradicación de los delitos violentos cometidos contra las mujeres;
-
-II. Capacitar al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres y brindar las medidas de protección;
-
-III. Generar mecanismos de prevención, detección, atención y derivación de las mujeres víctimas de violencia a las dependencias competentes para conocer del caso;
-
-IV. Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
-
-V. Diseñar la política integral para la prevención, detección y atención de delitos violentos cometidos contra las mujeres, en los ámbitos público y privado;
-
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
-
-VI. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
-
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
-
-VII. Promover la formación y especialización de agentes de la policía investigadora, agentes del ministerio público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
-
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
-
-VIII. Proporcionar a las víctimas información veraz, objetiva y oportuna, así como asesoría para su eficaz atención, protección y canalización;
-
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
-
-IX. Dictar las medidas necesarias para que la víctima de violencia, reciba atención médica de emergencia;
-
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
-
-X. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el acceso a la justicia de las mujeres víctimas de violencia, el número de víctimas atendidas y el tipo de delito cometido;
-
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
-
-XI. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
-
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
-
-XII. Celebrar con instancias públicas y privadas, convenios de cooperación, coordinación y concertación en la materia; y
-
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
-
-XIII. Las demás previstas para el cumplimiento de la presente ley.
-
-#### Sección Quinta.
-
-De la Secretaría de Educación.
-
-### CAPÍTULO V. DE LAS MEDIDAS DE PROTECCIÓN
-
-###### Artículo 29.
-
-Corresponde a la Secretaría de Educación, además de lo establecido en otros ordenamientos:
-
-I. Promover dentro de la política educativa estatal los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
-
-II. Desarrollar e implementar programas educativos, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad;
-
-III. Promover la investigación multidisciplinaria encaminada a conocer y analizar la violencia ejercida contra las mujeres en los centros educativos, así como su impacto en la deserción y desempeño escolar;
-
-IV. Capacitar al personal docente en materia de derechos humanos de las mujeres;
-
-V. Formular y aplicar programas que permitan la prevención, detección, atención y erradicación temprana de los problemas de violencia contra las mujeres en los centros educativos;
-
-VI. Promover la difusión de materiales educativos que promuevan la prevención, atención y erradicación de la violencia contra las mujeres; y
-
-VII. Las demás previstas para el cumplimiento de la presente ley.
-
-#### Sección Sexta.
-
-De la Secretaría de Salud.
-
-###### Artículo 30.
-
-Corresponde a la Secretaría de Salud, además de lo establecido en otros ordenamientos:
-
-I. Diseñar, en el marco de la política de salud integral de las mujeres, y en el ámbito de su competencia con perspectiva de género, la política de prevención, detección, atención y erradicación de la violencia;
-
-II. Brindar por medio de las instituciones del sector salud de manera integral y gratuita atención médica, psiquiátrica y psicológica con perspectiva de género a las víctimas;
-
-III. Diseñar con perspectiva de género, programas permanentes de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres que garanticen la prevención, detección, atención y erradicación de las víctimas, respetando los derechos humanos de las mujeres y las disposiciones legales, reglamentarias, estatales y federales aplicables;
-
-IV. Valorar, en los casos de violencia, la situación de riesgo y derivar a las víctimas de violencia, a las dependencias que brinden el servicio necesario o en caso de peligro inminente a los centros de refugio temporal;
-
-V. Promover la investigación sobre el impacto de la violencia en la salud de las mujeres;
-
-VI. Diseñar e implementar programas en materia de prevención, detección, atención y erradicación de la violencia, así como de salud integral para mujeres en condiciones de vulnerabilidad y víctimas de violencia;
-
-VII. Generar y difundir información sobre prevención, detección, atención, sanción y erradicación de la violencia en contra de las mujeres;
-
-VIII. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la siguiente información:
-
-a) La relativa al número de víctimas que se atiendan en los centros y servicios hospitalarios;
-
-b) El tipo de violencia por la cual se atendió a la víctima;
-
-c) Los efectos causados por la violencia en contra de las mujeres;
-
-d) Los recursos erogados en la atención de las víctimas; y
-
-IX. Las demás previstas para el cumplimiento de la presente ley.
-
-#### Sección Séptima.
-
-De la Secretaría de Cultura.
-
-###### Artículo 31.
-
-A la Secretaría de Cultura le corresponde además de lo establecido en otros ordenamientos:
-
-I. Formular los programas y proyectos que aporten contenido a la acción cultural de difusión para la defensa de los derechos de las mujeres;
-
-II. Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de la política cultural, buscando detectar, prevenir, atender y erradicar la violencia contra las mujeres;
-
-III. Promover y ejecutar las acciones tendientes a la promoción y difusión de la cultura que salvaguarda los derechos de las mujeres;
-
-IV. Fomentar y estimular las manifestaciones de la creación intelectual y artística del pueblo de Jalisco, para detectar, prevenir y erradicar la violencia; y
-
-V. Las demás previstas para el cumplimiento de la presente ley.
-
-#### Sección Octava.
-
-De la Secretaría del Trabajo.
-
-###### Artículo 32.
-
-Corresponde a la Secretaría del Trabajo, además de lo establecido en otros ordenamientos:
-
-I. Promover políticas y programas que promuevan los derechos humanos de las mujeres y fomenten el desarrollo de sus capacidades y habilidades en el desempeño laboral;
-
-II. Supervisar el cumplimiento de las normas en materia de igualdad de oportunidades, de trato y no discriminación en el acceso al empleo, la capacitación, el ascenso, la remuneración, y la permanencia de las mujeres;
-
-III. Promover campañas de información en los centros de trabajo sobre violencia en contra de las mujeres y sobre los derechos de las trabajadoras y las obligaciones de los empleadores;
-
-IV. Promover la realización de estudios estadísticos e investigaciones sobre la situación de las mujeres en el trabajo que permitan la formulación de políticas públicas para garantizar su acceso al trabajo en condiciones de igualdad y el ejercicio pleno de sus derechos laborales;
-
-V. Promover y apoyar la realización de cursos y talleres de capacitación para e (sic) autoempleo, dirigidos a mujeres víctimas de violencia; y
-
-VI. Las demás previstas para el cumplimiento de la presente ley.
-
-#### Sección Novena.
-
-De la Procuraduría Social.
-
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2009)</small>
-
-###### Artículo 33.
-
-Corresponde a la Procuraduría Social, además de lo establecido en otros ordenamientos:
-
-I. Representar y defender a las mujeres víctimas de violencia en todas las etapas de los procedimientos penales, civiles y familiares si es que no cuenta con defensor particular, en los términos de las disposiciones legales aplicables;
-
-> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2015)</small>
-
-II. Representar a las mujeres en procedimientos contemplados por la Ley de Justicia para Adolescentes del Estado de Jalisco hasta que éstas nombren defensor particular;
-
-III. Proporcionar asistencia jurídica gratuita a las mujeres víctimas de violencia desde el momento mismo en que lo soliciten y conforme lo establecido por la Ley de la materia;
-
-IV. Derivar en caso necesario a los centros de refugios temporal, establecidos en la presente ley, a mujeres víctimas de violencia; y
-
-V. Las demás previstas para el cumplimiento de la presente ley.
-
-#### Sección Décima.
-
-Del Instituto Jalisciense de las Mujeres.
-
-###### Artículo 34.
-
-Corresponde al Instituto Jalisciense de las Mujeres, además de lo establecido en otros ordenamientos:
-
-I. Integrar las investigaciones promovidas por las dependencias de la administración pública estatal sobre las causas, características y consecuencias de la violencia contra las mujeres. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes para la erradicación de la violencia;
-
-II. Colaborar con las instituciones del Consejo en el diseño y evaluación del modelo de atención a mujeres víctimas de violencia;
-
-III. Promover a través del Consejo la creación de unidades de atención y protección a las víctimas de violencia prevista en la ley;
-
-IV. Atender, orientar, asesorar y, en su caso, derivar a las mujeres víctimas de violencia a las instancias competentes para la atención de su caso;
-
-V. Promover a través del Consejo que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
-
-VI. Promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
-
-VII. Promover cursos para educar, capacitar y sensibilizar en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permitan juzgar con perspectiva de género;
-
-VIII. Fomentar la celebración de convenios de cooperación, coordinación y concertación con instituciones públicas y privadas en la materia; y
-
-IX. Las demás previstas para el cumplimiento de la ley.
-
-#### Sección Décima Primera.
-
-Del Instituto Jalisciense de Asistencia Social.
-
-###### Artículo 35.
-
-Corresponde al Instituto Jalisciense de Asistencia Social, además de lo establecido en otros ordenamientos:
-
-I. Celebrar convenios de colaboración con las dependencias e instituciones de asistencia social públicas o privadas, para ejecutar programas de ayuda directa, establecidos por el Estado o por el propio instituto, relacionados con la protección de los derechos humanos de las mujeres;
-
-II. Apoyar, gestionar y suministrar recursos económicos para coadyuvar con el estado para el establecimiento de los centros de refugio temporal para mujeres víctimas de violencia;
-
-III. Apoyar, gestionar y suministrar recursos económicos para el establecimiento de centros de atención y rehabilitación para agresores;
-
-IV. Promover y difundir conocimientos y prácticas de respeto a los derechos de las mujeres; y
-
-V. Las demás previstas para el cumplimiento de la ley.
-
-#### Sección Décima Segunda.
-
-Del Sistema Estatal para el Desarrollo Integral de la Familia.
-
-###### Artículo 36.
-
-Corresponde Sistema Estatal para el Desarrollo Integral de la Familia, además de lo establecido en otros ordenamientos:
-
-I. Diseñar, instrumentar y aplicar, en coordinación con los miembros del Consejo, los programas y modelos de prevención, detección, atención y erradicación de la violencia de género de conformidad con los principios de esta Ley;
-
-II. Proporcionar atención, asesoría jurídica y tratamiento psicológico, especializado y gratuito a las víctimas de violencia, que favorezcan su empoderamiento, a través de los Centros de Refugio Temporal;
-
-III. Gestionar, operar, apoyar y suministrar, en coordinación con los demás integrantes del Consejo, los recursos económicos necesarios para el establecimiento de una red estatal de centros de refugio temporal para mujeres víctimas de violencia y de centros de atención y centros de rehabilitación para agresores;
-
-IV. Establecer programas de apoyo para mujeres en condiciones de vulnerabilidad, que tiendan a fortalecer su desarrollo integral;
-
-V. Promover la realización de campañas tanto de prevención de la detección, atención y erradicación de la violencia en contra de las mujeres, como de información sobre los servicios que presta la institución, a las mujeres víctimas de violencia;
-
-VI. Promover la profesionalización del personal encargado de prestar sus servicios a mujeres víctimas de violencia;
-
-VII. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas para la prevención, detección, atención y erradicación de la violencia contra las mujeres;
-
-VIII. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social de la persona agresora; y
-
-IX. Las demás que señale esta ley o su reglamento.
-
-#### Sección Décima Tercera.
-
-De la Procuraduría General de Justicia del Estado.
-
-###### Artículo 37.
-
-(DEROGADO, P.O. 9 DE AGOSTO DE 2014)
-
-#### Sección Décima Cuarta.
-
-Del Sistema Jalisciense de Radio y Televisión.
-
-###### Artículo 38.
-
-Corresponde al Sistema Jalisciense de Radio y Televisión, además de lo establecido en otros ordenamientos:
-
-I. Promover y difundir programas que fomenten y promuevan el respeto de los derechos de las mujeres;
-
-II. Coadyuvar en la promoción y cumplimiento de los fines de la presente ley a través de los programas del Sistema de Radio y Televisión Estatal;
-
-III. Colaborar con los miembros del Consejo en la elaboración de programas de información sobre los derechos de las mujeres;
-
-IV. Promover y difundir, programas que contribuyan a la detección, prevención, atención y erradicación de la violencia, así como al desarrollo integral de las mujeres, con cobertura en toda la red del Sistema Jalisciense de Radio y Televisión; y
-
-V. Las demás previstas para el cumplimiento de la ley.
-
-#### Sección Décima Quinta.
-
-Del Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar.
-
-###### Artículo 39.
-
-Corresponde al Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar, además de lo establecido en otros ordenamientos:
-
-I. Diseñar, instrumentar y operar, en coordinación con los miembros del Consejo, los modelos de atención integrales para agresores y mujeres víctimas de violencia;
-
-II. Operar los Centros de Refugio Temporal para mujeres víctimas de violencia y los Centros de Atención y Rehabilitación para agresores;
-
-III. Diseñar, instrumentar y operar, en coordinación con los miembros del Consejo, los modelos de atención integrales para agresores;
-
-IV. Promover la celebración de convenios con los ayuntamientos de la entidad a efecto de coordinar, capacitar y supervisar a los profesionistas en la aplicación de los programas de atención integral para víctimas y agresores; y
-
-V. Las demás que señale esta ley o su reglamento.
-
-#### Sección Décima Sexta.
-
-De la Universidad de Guadalajara y de las Instituciones Públicas de Educación Superior.
-
-### CAPÍTULO VI. DE LOS CENTROS DE ATENCIÓN Y REHABILITACIÓN PARA AGRESORES
-
-###### Artículo 40.
-
-Corresponde a la Universidad de Guadalajara y a las Instituciones Públicas de Educación Superior, además de lo establecido en otros ordenamientos:
-
-I. Promover con la comunidad científica y académica la participación con el Gobierno del Estado en la elaboración de los planes y programas derivados de la aplicación de la presente ley;
-
-II. Promover la elaboración de estudios estadísticos sobre la violencia de género en el estado; y
-
-III. Promover la difusión, entre la comunidad estudiantil, de una cultura de respeto a los derechos humanos de las mujeres.
-
-#### Sección Décima Séptima.
-
-De los ayuntamientos.
-
-###### Artículo 41.
-
-Los ayuntamientos podrán, además de lo establecido en otros ordenamientos:
-
-I. Promover políticas orientadas a prevenir, detectar, atender y erradicar la violencia contra las mujeres;
-
-II. Coadyuvar con el Estado, en la adopción y consolidación del sistema;
-
-III. Promover, en coordinación con las instancias especializadas, cursos de capacitación al personal encargado de atender a las víctimas de violencia;
-
-IV. Apoyar la creación de centros de refugios temporales para mujeres víctimas de violencia;
-
-V. Apoyar la creación de programas de reeducación integral para los agresores;
-
-VI. Participar y coadyuvar en la prevención, detección, atención y erradicación de la violencia contra las mujeres;
-
-VII. Llevar a cabo, de acuerdo con el Consejo, programas permanentes de información a la población respecto de la violencia contra las mujeres;
-
-VIII. Celebrar, con dependencias públicas y privadas, convenios de cooperación, coordinación y concertación en la materia; y
-
-IX. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
+Fuera de este caso, se aplicarán al Ejecutivo, si le fueren útiles; en caso contrario, se venderán a personas que no tengan prohibición de usarlos y su precio se aplicará a la mejora material de las prisiones.
 
 ### CAPITULO VII. Amonestación
 
-###### Artículo 42.
+###### ARTICULO 42.
 
-La prevención que en el estado se realice, tendrá como objetivo evitar la comisión de delitos, erradicar los factores de riesgo y lograr que la sociedad perciba todo tipo de violencia como un evento antisocial, un problema de salud pública y de seguridad ciudadana.
+La amonestación consiste: en la advertencia que el juez dirige al acusado, haciéndole ver las consecuencias del delito que cometió, excitándolo a la enmienda y conminándolo con que se le impondrá una sanción mayor si reincidiere.
 
-La prevención se llevará a cabo mediante acciones generalizadas en los ámbitos públicos y privados y en los casos específicos mediante las medidas preventivas y de emergencia que establecen las leyes vigentes.
+Esta amonestación se hará en público o en lo privado, según parezca prudente al juez.
 
 ### CAPITULO VIII. Apercibimiento y caución de no ofender
 
-###### Artículo 43.
+###### ARTICULO 43.
 
-Corresponde en materia de prevención a los integrantes del Consejo:
+El apercibimiento consiste en la conminación que el juez hace a una persona, cuando se teme con fundamento que está en disposición de cometer un delito, ya sea por su actitud o por amenazas, de que en caso de cometer el delito que se propone, u otro semejante, será considerado como reincidente.
 
-I. Capacitar al personal de sus dependencias en materia de equidad de género;
+###### ARTICULO 44.
 
-II. Difundir campañas informativas permanentes sobre violencia en contra de las mujeres y de las instituciones que atienden a las víctimas;
-
-III. Remitir información y estadísticas al Banco Estatal de Datos e Información sobre casos de violencia contra las mujeres en nuestro estado;
-
-IV. Realizar, facilitar o promover el desarrollo de investigación en torno a la violencia en contra de las mujeres y su acceso a la justicia;
-
-V. Establecer mecanismos internos para la denuncia del personal que incurra en violencia institucional; y
-
-VI. Las demás que señale esta ley o su reglamento.
-
-###### Artículo 44.
-
-Las autoridades estatales en coordinación con los gobiernos municipales deberán llevar a cabo medidas de atención a víctimas de violencia, consistentes en servicios médicos, psicológicos y jurídicos, de calidad y gratuitos, de acuerdo a sus respectivos presupuestos de egresos.
-
-Las autoridades estatales y municipales deberán celebrar convenios con las instituciones públicas y/o privadas de educación superior, a fin de que cuenten con prestadores de servicio que incrementen la apertura de atención a las víctimas de violencia.
+Cuando los jueces estimen que no es suficiente el apercibimiento, exigirán además al acusado una caución de no ofender.
 
 ### CAPITULO IX. Suspensión de derechos
 
-###### Artículo 45.
+###### ARTICULO 45.
 
-La atención en materia de violencia en contra de las mujeres deberá ser prestada por personal profesional y especializado, continuamente capacitado en materia de equidad de género.
+La suspensión de derechos es de dos clases:
 
-###### Artículo 46.
+I.- La que por ministerio de la ley resulta de una sanción como consecuencia necesaria de ésta, y
 
-Tanto la prevención como la atención brindada a las víctimas deben guiarse por los siguientes lineamientos:
+II.- La que por sentencia formal se impone como sanción.
 
-I. Atención integral: Se tomarán en cuenta las necesidades y situación médica, psicológica, laboral, jurídica, de seguridad, económica y patrimonial de la víctima;
+En el primer caso, la suspensión comienza y concluye con la sanción de que es consecuencia.
 
-II. Efectividad: Implementarán medidas que garanticen el acceso a los servicios y el efectivo ejercicio de sus derechos;
+En el segundo caso, si la suspensión se impone con otra sanción privativa de libertad, comenzará al terminar ésta y su duración será la señalada en la sentencia.
 
-III. Legalidad: Estricto apego al orden jurídico, sin menoscabo de respetar los derechos humanos de las mujeres;
+###### ARTICULO 46.
 
-IV. Uniformidad: Las dependencias deberán coordinarse para asegurar la uniformidad, la calidad y seguimiento de los casos, elaborando protocolos de atención médica, psicológica y jurídica;
-
-V. Auxilio oportuno: Apoyo inmediato y eficaz a mujeres en situación de riesgo y a las víctimas; y
-
-VI. Respeto a los derechos humanos de las mujeres: No omitir o realizar acciones desde las dependencias que menoscaben los derechos humanos de las mujeres.
+La pena de prisión produce la suspensión de los derechos políticos y los de tutela, curatela, ser apoderado, defensor, albacea, perito, depositario o interventor judicial, síndico o interventor en quiebras, árbitro, arbitrador o representante de ausentes. La suspensión comenzará desde que cause ejecutoria la sentencia respectiva y durará todo el tiempo de la condena.
 
 ### CAPITULO X. Publicación especial de sentencia
 
-###### Artículo 47.
+###### ARTICULO 47.
 
-El modelo de atención deberá contener las siguientes etapas:
+La publicación especial de sentencia consiste en la inserción total o parcial de ella, en uno o dos periódicos que circulen en la localidad. El juez escogerá los periódicos y resolverá la forma en que debe hacerse la publicación.
 
-I. Identificación de la problemática. Consiste en determinar las características del problema, tipo y modalidad de violencia, riesgos y efectos para las víctimas directas e indirectas, en la esfera médica, económica, laboral y jurídica;
+La publicación de la sentencia se hará a costa del delincuente, del ofendido si éste lo solicitare o del Estado si el juez lo estima necesario.
 
-II. Determinación de prioridades. Identificar las necesidades inmediatas y mediatas, así como las medidas de protección que en su caso requieran las víctimas;
+###### ARTICULO 48.
 
-III. Orientación y canalización. Se brindará de manera precisa y con lenguaje accesible, la orientación social y jurídica necesaria y suficiente con respecto a su caso, realizando la canalización a la instancia que corresponda, o de no ser necesario brindar el servicio que se requiera; y
+El juez podrá a petición y a costa del ofendido ordenar la publicación de la sentencia en entidad diferente o en algún otro periódico.
 
-IV. Seguimiento. Garantizar el cumplimiento de los procedimientos de derivación, así como la oportuna prestación de servicios por las dependencias.
+###### ARTICULO 49.
 
-###### Artículo 48.
+La publicación de sentencia se ordenará igualmente a título de reparación y a petición del interesado, cuando éste fuere absuelto, el hecho imputado no constituyere delito o él no lo hubiere cometido.
 
-Cada dependencia deberá expedir una constancia que contenga la información sobre los servicios brindados y las etapas cubiertas de acuerdo al modelo de atención, que sirvan tanto para garantizar el seguimiento institucional, como para que la víctima pueda utilizarlos como comprobantes ante sus centros laborales.
+###### ARTICULO 50.
 
-###### Artículo 49.
-
-El acceso a la justicia de las mujeres se establece mediante una serie de medidas y acciones que garantizan la exigibilidad de sus derechos. Implica la instrumentación rápida y eficaz de medidas de protección, la asesoría y representación jurídica gratuita que permita sancionar los actos de violencia cometidos en su contra por particulares y servidores públicos y, en su caso, la reparación del daño.
-
-###### Artículo 50.
-
-La asesoría y representación jurídica gratuita que debe asegurar el Estado estará a cargo de abogados adscritos en las distintas dependencias que cuenten con personal para prestar dicho servicio.
+Si el delito por el que se impuso la publicación de sentencia, fue cometido por medio de la prensa, además de la publicación a que se refieren los artículos anteriores, se hará también en el periódico empleado para cometer el delito, con el mismo tipo de letra, igual color de tinta y en el mismo lugar.
 
 ### CAPITULO I. Reglas generales
 
@@ -846,143 +486,71 @@ La asesoría y representación jurídica gratuita que debe asegurar el Estado es
 
 > <small>(REFORMADO PRIMER PARRAFO , D.O.F. 10 DE FEBRERO DE 1945)</small>
 
-###### Artículo 51.
+###### ARTICULO 51.
 
-Los centros de refugios temporales son estancias especialmente acondicionadas para recibir a mujeres víctimas de violencia y a las víctimas indirectas, que operan con personal especializado de manera permanente.
+Dentro de los límites fijados por la ley, los jueces y tribunales aplicarán las sanciones establecidas para cada delito, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del delincuente.
 
-###### Artículo 52.
+###### ARTICULO 52.
 
-Los centros de refugios temporales deberán ser lugares seguros, higiénicos, debidamente protegidos para evitar el ingreso del agresor. La dirección del centro podrá negar información de su ubicación y del nombre de las víctimas protegidas a personas no autorizadas por la autoridad que conoce del caso. Para ese efecto se considerará como información confidencial, cuando se trate de la aplicación de la Ley de Transparencia e Información Pública del estado de Jalisco.
+En la aplicación de las sanciones penales se tendrá en cuenta:
 
-###### Artículo 53.
+1°.- La naturaleza de la acción u omisión y de los medios empleados para ejecutarla y la extensión del daño causado y del peligro corrido;
 
-Dentro de los centros de refugios temporales se brindarán los siguientes servicios:
+2°.- La edad, la educación, la ilustración, las costumbres y la conducta precedente del sujeto, los motivos que lo impulsaron o determinaron a delinquir y sus condiciones económicas;
 
-I. Atención médica y psicológica gratuita;
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-II. Orientar a las víctimas para que obtengan asesoría jurídica gratuita;
+3°.- Las condiciones especiales en que se encontraba en el momento de la comisión del delito y los demás antecedentes y condiciones personales que puedan comprobarse así como sus vínculos de parentesco, de amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
 
-III. Educación en materia de derechos de las mujeres y prevención de violencia;
+El juez deberá tomar conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso.
 
-IV. Capacitación para el desarrollo de habilidades para el empleo; y
+###### ARTICULO 53.
 
-V. Bolsa de trabajo, con la finalidad de que puedan tener actividad laboral remunerada.
+No es imputable al acusado el aumento de gravedad proveniente de circunstancias particulares del ofendido, si las ignoraba inculpablemente al cometer el delito.
 
-###### Artículo 54.
+###### ARTICULO 54.
 
-La operación de los centros de refugio temporal para mujeres víctimas de violencia estará a cargo del Sistema Estatal para el Desarrollo Integral de la Familia, quien ejercerá esta facultad a través del Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar. En relación con los centros de refugio temporal tendrán las siguientes obligaciones:
+Las circunstancias calificativas o modificativas de la sanción penal que tienen relación con el hecho u omisión sancionados, aprovechan o perjudican a todos los que intervengan en cualquier grado en la comisión de un delito.
 
-I. Aplicar en forma integral los principios y lineamientos en atención a mujeres víctimas de violencia;
+###### ARTICULO 55.
 
-II. Otorgar seguridad a las personas que se encuentran bajo su resguardo;
+Las circunstancias personales de alguno o algunos de los delincuentes, cuando sean modificativas o calificativas del delito, perjudican a todos los que lo cometan con conocimiento de ellas.
 
-III. Propiciar la rehabilitación física, emocional y psicológica de las mujeres víctimas de violencia;
+###### ARTICULO 56.
 
-IV. Las inherentes al cuidado, protección y asistencia de las personas que se encuentran bajo su resguardo; y
+Cuando entre la perpetración del delito y la sentencia irrevocable que sobre él se se (sic) pronuncie, se promulgare una o más leyes que disminuyan la sanción establecida en otra ley vigente al cometerse el delito o la substituyan con otra menor, se aplicará la nueva ley.
 
-V. Las demás que les otorguen la presente ley y los demás ordenamientos aplicables a la materia.
+Cuando pronunciada una sentencia irrevocable en que se hubiere impuesto una sanción corporal, se dictare una ley que dejando subsistente la sanción señalada al delito, sólo disminuya su duración, si el reo lo pidiere y se hallare en el caso de la nueva ley, se reducirá la sanción impuesta, en la misma proporción en que estén el mínimo de la señalada en la ley anterior y el de la señalada en la posterior.
 
-###### Artículo 55.
+###### ARTICULO 57.
 
-La permanencia de las víctimas en los centros de refugios temporales no podrá ser mayor a tres meses, a menos de que persista su inestabilidad física, psicológica o su situación de riesgo.
+Cuando una ley quite a un hecho u omisión el carácter de delito que otra ley anterior le daba, se pondrá en absoluta libertad a los acusados a quienes se esté juzgando, y a los condenados que se hallen cumpliendo o vayan a cumplir sus condenas, y cesarán de derecho todos los efectos que éstas y los procesos debieran producir en lo futuro.
 
-###### Artículo 56.
+###### ARTICULO 58.
 
-Las autoridades deben procurar que la autoridad jurisdiccional competente emita las medidas de protección y cautelares que contemplen los códigos civiles y penales, para salvaguardar la integridad y el patrimonio de la víctima.
+Siempre que con un solo hecho ejecutado en un solo acto, o con una omisión, se violen varias disposiciones penales que señalen sanciones diversas, se aplicará la del delito que merezca pena mayor, la cual podrá aumentarse hasta una mitad más del máximo de su duración.
 
-###### Artículo 57.
+###### ARTICULO 59.
 
-Sin menoscabo de las medidas de protección y cautelares que establece la legislación civil y penal, la autoridad administrativa competente debe otorgar inmediatamente que conozca de hechos que pongan en riesgo o peligro la integridad física o patrimonial de la víctima, arresto preventivo hasta por 36 horas.
-
-###### Artículo 58.
-
-Los agresores deberán asistir de manera voluntaria o previa resolución de autoridad competente a los centros de rehabilitación para obtener la ayuda profesional adecuada a efecto de que superen y controlen emocionalmente la conducta agresiva que dio origen a la intervención de la autoridad.
-
-Los centros deben funcionar en lugar diferente a donde se instalan los centros de refugios temporales para mujeres víctimas de violencia.
-
-###### Artículo 59.
-
-Los centros de atención y rehabilitación para agresores estarán a cargo del Sistema Estatal para el Desarrollo Integral de la Familia, quien ejercerá esta facultad a través del Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar, y tendrán las obligaciones siguientes:
-
-I. Aplicar el programa estatal apoyado en los modelos psicoeducativos para atención de agresores aprobados por su dependencia;
-
-II. Proporcionar a los agresores la atención profesional que se requiera para que superen la conducta agresiva; y
-
-III. Proporcionar talleres educativos para motivar la reflexión sobre los patrones socioculturales que generan conductas violentas y como superarlas.
+Cuando un delito pueda ser considerado bajo dos o más aspectos, y bajo cada uno de ellos merezca una sanción diversa, se impondrá la mayor.
 
 ### CAPITULO III. Aplicación de sanciones en caso de tentativa
 
-###### Artículo 60.
+###### ARTICULO 60.
 
-Los centros brindarán a los agresores los siguientes servicios:
+Los delitos de imprudencia se castigarán con prisión de tres días a cinco años y suspensión hasta de dos años, o privación definitiva de derechos para ejercer profesión u oficio, según sea la imprudencia leve o grave. Sin embargo, cuando a consecuencia de actos u omisiones imprudentes que sean imputables al personal que preste sus servicios en una empresa ferroviaria, aeronáutica, naviera, o de cualesquiera otros transportes de concesión federal, se causen homicidios de dos o más personas, la pena será de cinco a veinte años de prisión, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de la misma naturaleza.
 
-I. Tratamiento psicológico o psiquiátrico según lo requiera de acuerdo a un dictamen pericial; y
+La calificación de la gravedad de la imprudencia queda al prudente arbitrio del juez, quien deberá tomar en consideración las circunstancias generales señaladas en el artículo 52 y las especiales siguientes:
 
-II. Información jurídica sobre las consecuencias legales de su conducta.
+I.- La mayor o menor facilidad de prever y evitar el daño que resulte;
 
-...
+II.- Si para esto bastaban una reflexión o atención ordinarias y conocimientos comunes en algún arte o ciencia;
 
-## TRANSITORIOS
+III.- Si los acusados han delinquido anteriormente en circunstancias semejantes, y
 
-PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
+IV.- Si tuvieron tiempo para obrar con la reflexión y el cuidado necesarios.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
-
-TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
-
-CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
-
-QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres víctimas de violencia que lo requieran.
-
-SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán a cabo de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
-
-Salón de Sesiones del Congreso del Estado
-
-Guadalajara, Jalisco, 13 de mayo de 2008
-
-Diputado Presidente
-
-IVÁN EDUARDO ARGÜELLES SÁNCHEZ
-
-(RÚBRICA)
-
-Diputado Secretario
-
-JOSÉ LUIS IÑIGUEZ GÁMEZ
-
-(RÚBRICA)
-
-Diputado Secretario
-
-JORGE ALBERTO VILLANUEVA HERNÁNDEZ
-
-(RÚBRICA)
-
-En mérito de lo anterior, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
-
-Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los 14 catorce días del mes de mayo de 2008 dos mil ocho.
-
-El Gobernador Constitucional del Estado
-
-EMILIO GONZÁLEZ MÁRQUEZ
-
-(RÚBRICA)
-
-El Secretario General de Gobierno
-
-LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
-
-(RÚBRICA)
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 9 DE AGOSTO DE 2014.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 21 DE JULIO DE 2015.
-
-ÚNICO. El presente decreto entrará en vigor en los términos de la fracción I del decreto número 24864/LX/14, previa su publicación en el periódico oficial "El Estado de Jalisco".
+> <small>(REFORMADO PRIMER PARRAFO , D.O.F. 10 DE FEBRERO DE 1945)</small>
 
 ###### ARTICULO 61.
 
@@ -1951,6 +1519,8 @@ Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicar�
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
 ## TITULO SEPTIMO. Delitos Contra la Salud
+
+> <small>N. DE E. POR DECRETO PUBLICADO EN EL D.O.F. DE 12 DE MAYO DE 1945, SE ESTABLECE QUE EN TANTO DURE LA SUSPENSION DE GARANTIAS INDIVIDUALES VIGENTE EN LA REPUBLICA SE DECLARA LEY DE EMERGENCIA EL CAPITULO 1°, TITULO 7° , LIBRO 2°, DEL CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES Y FEDERAL EN TODA LA REPUBLICA EN MATERIA DE ESTE FUERO, RELATIVO A LA TENENCIA Y TRAFICO DE ENERVANTES. EL ARTICULO SEGUNDO DEL DECRETO SEÑALA QUE LOS INDIVIDUOS QUE INFRINJAN DICHO CAPITULO, SUFRIRAN LAS PENAS QUE EL MISMO ESTABLECE, PERO SUJETOS A LO DISPUESTO POR LAS LEYES DE PREVENCIONES GENERALES RELATIVAS A LA SUSPESION DE GARANTIAS, POR LO QUE HACE A LA PRIVACION DE SU LIBERTAD.</small>
 
 > <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
@@ -3606,61 +3176,19 @@ D.O.F. 12 DE MAYO DE 1938.
 
 EL DECRETO DE REFORMAS, CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SE TRANSCRIBE EL ARTICULO 4° DEL PRESENTE DECRETO.
 
-###### Artículo 4°.
+###### ARTICULO 4°.
 
-Los municipios podrán expedir reglamentos y coordinarse con el Gobierno Estatal para implementar acciones a fin de prevenir, detectar, atender y erradicar la violencia contra las mujeres. Para este fin, en la elaboración de sus presupuestos de egresos, podrán contemplar partidas presupuestales para cumplir con dichos fines.
+Está Ley entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial".
 
-###### Artículo 5°.
+D.O.F. 10 DE NOVIEMBRE DE 1939.
 
-Los principios rectores que contiene esta ley, deberán ser observados por el sistema y el programa estatal y por las diferentes dependencias estatales, en la elaboración de sus políticas públicas para prevenir, detectar, atender, sancionar y erradicar la violencia contra de las mujeres, y son:
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
-I. El respeto a su libertad, autonomía y dignidad humana;
+D.O.F. 14 DE FEBRERO DE 1940.
 
-II. La igualdad jurídica entre mujeres y hombres;
+###### ARTICULO 1°.
 
-III. La no discriminación de las mujeres en todos los ordenes de la vida; y
-
-IV. El respeto irrestricto de los derechos fundamentales de las mujeres.
-
-###### Artículo 6°.
-
-El gobierno estatal, en el ámbito de su competencia debe implementar tanto el programa estatal, como los programas particulares que establezca el sistema estatal para dar cumplimiento a lo dispuesto en esta ley.
-
-###### Artículo 7°.
-
-Los gobiernos municipales podrán coordinarse con el Gobierno del Estado para implementar el programa estatal y los programas particulares que de esta ley se deriven.
-
-###### Artículo 8°.
-
-Toda autoridad administrativa deberá ejercer sus funciones con una visión para abatir la desigualdad, la injusticia, la discriminación y la jerarquización de las personas, basada en la construcción social de la diferencia sexual, y que tiene como fin edificar una sociedad en donde las mujeres y los hombres tengan los mismos derechos, oportunidades y obligaciones para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
-
-###### Artículo 9°.
-
-Las autoridades promoverán se garantice a las mujeres víctimas de cualquier tipo de violencia sin menoscabo de otro derecho, el respeto irrestricto de lo siguiente:
-
-I. Ser tratadas con respeto a su integridad y el ejercicio pleno de sus derechos;
-
-II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su seguridad;
-
-III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
-
-IV. Contar con asesoría y representación jurídica gratuita y expedita;
-
-V. Recibir gratuitamente información, atención y rehabilitación médica y psicológica;
-
-VI. Acudir y ser recibidas con sus hijas e hijos, en los casos de violencia familiar, en los centros de refugio temporal destinados para tal fin;
-
-VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
-
-VIII. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia;
-
-IX. Erradicar la impunidad en casos de violencia contra las mujeres a través de la investigación y sanción de actos de autoridades omisas o negligentes; y
-
-X. Subsanar las deficiencias que se adviertan dentro de los procedimientos internos y externos de las autoridades, que propicien la violencia contra las mujeres.
-
-###### Artículo 1°.
-
-La presente ley es de orden público, interés social y observancia general en el estado de Jalisco, y tiene por objeto sentar las bases del sistema y programa para la atención, prevención y erradicación de la violencia contra las mujeres, a fin de garantizar el derecho fundamental de las mujeres a acceder a una vida libre de violencia, conforme a los principios constitucionales de igualdad y no discriminación.
+Este Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO UNICO.
 
@@ -3687,6 +3215,16 @@ D.O.F. 10 DE FEBRERO DE 1945.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor tres días después del de la fecha de su publicación en el "Diario Oficial".
+
+D.O.F. 8 DE MAYO DE 1945.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor tres días después de la fecha en que se haya publicado en el "Diario Oficial".
+
+D.O.F. 12 DE MAYO DE 1945.
+
+El presente Decreto surtirá sus efectos a partir de su publicación en el "Diario Oficial" de la Federación.
 
 ###### Artículo 3°.
 
