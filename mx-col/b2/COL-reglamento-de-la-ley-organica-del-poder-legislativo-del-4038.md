@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-4038"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-08-27"
-last_updated: "2001-09-22"
+last_updated: "2003-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA.
+REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2003.
 
 Reglamento publicado en el Periódico Oficial "El Estado de Colima" el sábado 27 de agosto de 1988.
 
@@ -622,6 +622,22 @@ V.- Dictámenes: Lectura, discusión y votación de los mismos;
 VI.- Lectura, discusión y votación de Minutas de Ley o de Decreto; y
 
 VII.- Asuntos generales.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2003)</small>
+
+###### Artículo 57 Bis.
+
+En las sesiones solemnes no se dará lectura a síntesis de comunicaciones ni al acta de la sesión ordinaria anterior, y la que se levante con motivo del desarrollo de dicha sesión solemne, sin sujetarse al trámite de discusión y aprobación, deberá mandarse publicar en los términos que sea redactada y aprobada por la Directiva, desarrollándose bajo el siguiente orden del día.
+
+I. Lista de Asistencia;
+
+II.- Declaración en su caso de quórum legal e instalación de la Asamblea;
+
+III. Desarrollo del asunto que dio origen a la sesión;
+
+IV. Convocatoria para sesión ordinaria en su caso, y
+
+V. Clausura.
 
 ###### Artículo 58.
 
@@ -1525,7 +1541,7 @@ Los tres Diputados electos para integrar la Comisión Permanente tendrán el car
 
 ###### Artículo 200.
 
-Los asuntos que hayan quedado pendientes de dictaminar en el período inmediato anterior y los que se reciban durante el receso, deberán ser dictaminados por la Diputación Permanente, la que dará cuenta con ellos al Congreso, en el período ordianrio (sic) siguiente ó en el extraordinario que se celebre, si fuere el caso de estar incluidos en la agenda de este último, pero de ninguna manera podrá la Diputación Permanente dictaminar sobre asuntos que correspondan a la Comisión de Responsabilidades, ni al manejo de fondos.
+Los asuntos que hayan quedado pendientes de dictaminar en el período inmediato anterior y los que se reciban durante el receso, deberán ser dictaminados por la Diputación Permanente, la que dará cuenta con ellos al Congreso, en el período ordinario (sic) siguiente ó en el extraordinario que se celebre, si fuere el caso de estar incluidos en la agenda de este último, pero de ninguna manera podrá la Diputación Permanente dictaminar sobre asuntos que correspondan a la Comisión de Responsabilidades, ni al manejo de fondos.
 
 ###### Artículo 201.
 
@@ -1564,3 +1580,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 22 DE SEPTIEMBRE DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE OCTUBRE DE 2003.
+
+UNICO.- El Presente Decreto entrará en vigor el día de su aprobación y deberá ser publicado en el Periódico Oficial "El Estado de Colima".
