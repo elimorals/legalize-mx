@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-9-2003-del-veintisiete-de-mayo-de-dos-mil-40916"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-06-06"
-last_updated: "2003-12-01"
+last_updated: "2004-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40916&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-05-27"
 
 ACUERDO NUMERO 9/2003 DEL VEINTISIETE DE MAYO DE DOS MIL TRES, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, QUE ESTABLECE LOS ORGANOS, CRITERIOS Y PROCEDIMIENTOS INSTITUCIONALES, PARA LA TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DE ESTE ALTO TRIBUNAL
 
-ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: TOMO XVIII, DICIEMBRE DE 2003, PAGINA 1483.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL REGLAMENTO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL CONSEJO DE LA JUDICATURA FEDERAL PARA LA APLICACION DE LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL, PUBLICADO EN EL D.O.F. DE 2 DE ABRIL DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO, CON EXCEPCION DE LOS ORGANOS SEÑALADOS EN DICHO ACUERDO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE ABRIL DE 2004.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XVII, Mayo de 2003, página 1319.
 
@@ -601,7 +603,7 @@ SEGUNDO.- El presente acuerdo entrará en vigor el doce de junio de dos mil tres
 
 TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente acuerdo.
 
-> <small>(REFORMADO, S.J.F.G. TOMO XVIII, DICIEMBRE DE 2003, PAGINA 1483)</small>
+> <small>(ADICIONADO, S.J.F.G. TOMO XVIII, DICIEMBRE DE 2003, PAGINA 1483)</small>
 
 CUARTO.- Los expedientes relativos a los asuntos penales o familiares que antes del doce de junio de dos mil tres se encontraban bajo resguardo de la Suprema Corte, son de consulta pública una vez que haya transcurrido el plazo de treinta y seis años, contado a partir de la fecha en que se haya ordenado su archivo; sin menoscabo de que, respecto de los que no haya fenecido ese plazo, al ser público el acceso a las sentencias ejecutorias y a las demás resoluciones públicas contenidas en todos esos expedientes, para la consulta de éstas deberá generarse una versión de la cual se supriman los datos personales de las partes.
 
@@ -634,3 +636,15 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- En la medida en que beneficie a los solicitantes, este acuerdo rige la ejecución de las resoluciones emitidas por la comisión y por el comité antes de su entrada en vigor.
 
 TERCERO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación; y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; asimismo, hágase del conocimiento de los servidores públicos a los que corresponda su aplicación.
+
+D.O.F. 2 DE ABRIL DE 2004.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Reglamento en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Los órganos establecidos en los Acuerdos Generales 9/2003, del Pleno de la Suprema Corte de Justicia de la Nación, emitido el veintisiete de mayo de dos mil tres y 30/2003, del Consejo de la Judicatura Federal, aprobado el nueve de junio de dos mil tres, continuarán funcionando con las atribuciones que les fueron conferidas en esas disposiciones generales, en tanto se expiden los Acuerdos Generales a que se refiere el presente Reglamento.
+
+CUARTO. Con la salvedad establecida en el artículo transitorio que antecede, se derogan los Acuerdos Generales 9/2003, del Pleno de la Suprema Corte de Justicia de la Nación, emitido el veintisiete de mayo de dos mil tres y 30/2003, del Consejo de la Judicatura Federal, aprobado el nueve de junio de dos mil tres, así como las demás disposiciones derivadas de esos Acuerdos.
+
+QUINTO. La consulta física de los expedientes relativos a los asuntos jurisdiccionales o administrativos, que antes del doce de junio de dos mil tres habían concluido y se encontraban bajo resguardo de la Suprema Corte, del Consejo o de los Organos Jurisdiccionales se permitirá sin mayores restricciones que las necesarias para su conservación.
