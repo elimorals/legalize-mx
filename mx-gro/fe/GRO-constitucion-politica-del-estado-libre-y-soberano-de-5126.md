@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1986-09-30"
+last_updated: "1986-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1986.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -535,13 +535,11 @@ II.- Tener veintiún años de edad cumplidos el día de la elección.
 
 III.- Ser originario del Distrito que lo elija o vecino de él, con residencia no menor de tres años inmediatamente anteriores al día de la elección.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1986)</small>
 
 ###### ARTICULO 36.
 
-No pueden ser electos diputados:
-
-Los funcionarios federales, los miembros en servicio activo del Ejército y la Armada Nacionales y de las Fuerzas Públicas del Estado, los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia, los demás servidores públicos que señala la Ley Orgánica del Poder Ejecutivo y los Presidentes Municipales, a menos que se separen definitivamente de sus cargos sesenta días antes de la elección; y en general, todas las demás personas impedidas por las Leyes.
+No pueden ser electos Diputados los funcionarios federales, los miembros en servicio activo del Ejército y la Armada Nacionales y de las Fuerzas Públicas del Estado, los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia, los demás servidores públicos que señala la Ley Orgánica del Poder Ejecutivo y los Presidentes Municipales, a menos que se separen definitivamente de sus empleos o cargos cuarenta y cinco días antes de la elección y en general, todas las demás personas impedidas por las Leyes.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -887,7 +885,9 @@ IV.- Tener treinta años cumplidos al tiempo de ser electo.
 
 V.- No pertenecer al Estado eclesiástico ni ser ministro de algún culto.
 
-VI.- No ser funcionario federal, militar o miembro de la Armada en servicio activo, Magistrado del Tribunal Superior de Justicia, Presidente Municipal y no desempeñar cargo alguno de los que se señalen en la Ley Orgánica del Poder Ejecutivo, a menos que se hubiere separado definitivamente del cargo sesenta días antes de la elección o, a más tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1986)</small>
+
+VI.- No ser funcionario federal, militar o miembro de la Armada en servicio activo, Magistrado del Tribunal Superior de Justicia, Presidente Municipal y no desempeñar empleo o cargo alguno de los que se señalen en la Ley Orgánica del Poder Ejecutivo, a menos que se hubiere separado definitivamente del empleo o cargo cuarenta y cinco días antes de la elección o, a más tardar cinco días después de publicada la convocatoria cuando se trate de elecciones extraordinarias.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1325,19 +1325,19 @@ I.- Ser ciudadano guerrerense en ejercicio de sus derechos.
 
 II.- Ser originario del Municipio o tener, por lo menos tres años de residencia anteriores a la fecha de la elección.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1986)</small>
 
-III.- No tener empleo o cargo del Estado sesenta días antes de la fecha de su elección.
+III.- No tener empleo o cargo federal, estatal o municipal cuarenta y cinco días antes de la fecha de su elección.
 
 IV.- No haber sido sentenciado ni estar procesado por delito doloso que merezca pena corporal.
 
 V.- No ser ministro de algún culto religioso.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1986)</small>
 
 ###### ARTICULO 99.
 
-No pueden ser electos como integrantes de los Ayuntamientos, los miembros en servicio activo del Ejército y la Armada Nacionales, de las fuerzas públicas del Estado, y los Servidores Públicos del Estado o de la Federación, si no se separan del servicio activo los primeros o de sus cargos los últimos, sesenta días antes de la elección.
+No pueden ser electos como integrantes de los Ayuntamientos, los miembros en servicio activo del ejército y la armada nacionales, de las fuerzas públicas del Estado y los servidores públicos del Estado o de la Federación, si no se separan del servicio activo los primeros o de sus cargos los últimos, cuarenta y cinco días antes de la elección.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2192,3 +2192,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 30 DE SEPTIEMBRE DE 1986.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 1986.
+
+PRIMERO.- Para dar cumplimiento a lo dispuesto por la fracción III del artículo 125 Constitucional remítase el presente Decreto de Reformas a los Ayuntamientos de la Entidad, para que manifiesten si aprueban las Reformas en mención.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
