@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-al-activo-antes-ley-del-impuesto-al-activo-258
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "1993-12-03"
+last_updated: "1994-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-12-30"
 
 LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1988.
 
@@ -59,9 +59,11 @@ Las personas físicas que realicen actividades empresariales y las personas mora
 
 También están obligados al pago de este impuesto, los residentes en el extranjero por los inventarios que mantengan en territorio nacional para ser transformados o que ya hubieran sido transformados por algún contribuyente de este impuesto.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 2o.
 
-El contribuyente determinará el impuesto por ejercicios fiscales aplicando al valor de su activo en el ejercicio, la tasa del 2%.
+El contribuyente determinará el impuesto por ejercicios fiscales aplicando al valor de su activo en el ejercicio, la tasa del 1.8%.
 
 El valor del activo en el ejercicio se calculará sumando los promedios de los activos previstos en este artículo, conforme al siguiente procedimiento:
 
@@ -173,15 +175,15 @@ Para los efectos de este artículo, los contribuyentes deducirán el valor prome
 
 Las personas físicas podrán deducir del valor del activo en el ejercicio, además, un monto equivalente a quince veces el salario mínimo general del área geográfica del contribuyente levado al año. Cuando dicho monto sea superior al valor del activo del ejercicio, sólo se podrá efectuar la deducción hasta por una cantidad equivalente a dicho valor.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 5o-A.
 
-Los contribuyentes podrán determinar el impuesto del ejercicio, considerando el que resulte de actualizar el que les hubiera correspondido en el penúltimo ejercicio inmediato anterior de haber estado obligados al pago del impuesto en dicho ejercicio, sin incluir, en su caso, el beneficio que se deriva de la reducción a que se refiere la fracción I del artículo 23 del Reglamento de esta Ley. En el caso en que el penúltimo ejercicio haya sido irregular, el impuesto que se considerará para los efectos de este párrafo será el que hubiere resultado de haber sido éste un ejercicio regular.
+Los contribuyentes podrán determinar el impuesto del ejercicio, considerando el que resulte de actualizar el que les hubiera correspondido en el cuarto ejercicio inmediato anterior de haber estado obligados al pago del impuesto en dicho ejercicio, sin incluir, en su caso, el beneficio que se deriva de la reducción a que se refiere la fracción I del artículo 23 del Reglamento de esta Ley. En el caso en que el cuarto ejercicio inmediato anterior haya sido irregular, el impuesto que se considerará para los efectos de este párrafo será el que hubiere resultado de haber sido éste un ejercicio regular.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-El impuesto a que se refiere el párrafo anterior se actualizará por el periodo transcurrido desde el último mes de la primera mitad del penúltimo ejercicio inmediato anterior, hasta el último mes de la primera mitad del ejercicio por el que se determine el impuesto.
+El impuesto a que se refiere el párrafo anterior se actualizará por el periodo transcurrido desde el último mes de la primera mitad del cuarto ejercicio inmediato anterior, hasta el último mes de la primera mitad del ejercicio por el que se determine el impuesto.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -207,7 +209,9 @@ VI.- Quienes utilicen bienes destinados sólo a actividades deportivas, cuando d
 
 Las personas a que se refieren las fracciones I y II de este artículo que mantengan los inventarios a que se refiere el párrafo segundo del artículo 1o. de esta Ley, o que otorguen el uso o goce temporal de bienes que se utilicen en la actividad de un contribuyente de los mencionados en el artículo 1o. de esta Ley, a excepción de las que estén autorizadas para recibir donativos deducibles para efectos de la Ley del Impuesto sobre la Renta en los términos de la fracción I del artículo 24 y fracción IV del artículo 140 de dicha Ley, pagarán el impuesto por dichos bienes.
 
-No se pagará el impuesto por el periodo preoperativo, ni por los ejercicios de inicio de actividades, el siguiente y el de liquidación, salvo cuando este último dure más de dos años. Lo dispuesto en este párrafo no es aplicable a los ejercicios posteriores a fusión, transformación de sociedades o traspaso de negociaciones, ni a los contribuyentes que inicien actividades con motivo de la escisión de sociedades.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+No se pagará el impuesto por el periodo preoperativo, ni por los ejercicios de inicio de actividades, los dos siguientes y el de liquidación, salvo cuando este último dure más de dos años. Lo dispuesto en este párrafo no es aplicable a los ejercicios posteriores a fusión, transformación de sociedades o traspaso de negociaciones, ni a los contribuyentes que inicien actividades con motivo de la escisión de sociedades.
 
 Los contribuyentes cuya actividad preponderante consista en el otorgamiento del uso o goce temporal de los bienes a que se refieren las fracciones II y III del artículo 2o. de esta Ley, pagarán el impuesto incluso por los ejercicios de inicio de actividades y el siguiente. Estos contribuyentes no podrán ejercer la opción a que se refiere el artículo 5o-A durante los ejercicios mencionados.
 
@@ -305,49 +309,33 @@ Los contribuyentes a que se refiere el artículo 7o-A de esta Ley, acreditarán 
 
 En los casos en que los pagos provisionales y los ajustes que se acrediten en los términos del párrafo anterior excedan al impuesto sobre la renta del ejercicio, la diferencia se considerará impuesto sobre la renta pagado en exceso y se estará a lo dispuesto por el artículo 9o. de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 9o.
 
-Los contribuyentes podrán acreditar contra el impuesto del ejercicio una cantidad equivalente al impuesto sobre la renta que les correspondió en el mismo, en los términos de los Títulos II o II-A, o del Capítulo VI del Título IV de la Ley de la materia. El impuesto que resulte después del acreditamiento, será el impuesto a pagar conforme a esta Ley.
+Los contribuyentes podrán acreditar contra el impuesto del ejercicio una cantidad equivalente al impuesto sobre la renta que les correspondió en el mismo, en los términos de los Títulos II o II-A, o del Capítulo VI del Título IV de la Ley de la materia.
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+Adicionalmente, los contribuyentes podrán acreditar contra el impuesto del ejercicio, la diferencia que resulte en cada uno de los tres ejercicios inmediatos anteriores conforme al siguiente procedimiento y hasta por el monto que no se hubiera acreditado con anterioridad. Esta diferencia será la que resulte de disminuir al impuesto sobre la renta causado en los términos de los Títulos II o II-A o del Capítulo VI del Título IV de la Ley de la materia, el impuesto al activo causado, siempre que este último sea menor y ambos sean del mismo ejercicio. Para estos efectos, el impuesto sobre la renta causado en cada uno de los tres ejercicios citados deberá disminuirse con las cantidades que hayan dado lugar a la devolución del impuesto al activo conforme al cuarto párrafo de este artículo. Los contribuyentes también podrán efectuar el acreditamiento a que se refiere este párrafo contra los pagos provisionales del impuesto al activo.
 
-Cuando en el ejercicio se determine impuesto sobre la renta por acreditar en una cantidad que exceda al impuesto al activo del ejercicio, los contribuyentes podrán solicitar la devolución de las cantidades actualizadas que hubieran pagado en el impuesto al activo, en los diez ejercicios inmediatos anteriores, siempre que dichas cantidades no se hubieran devuelto con anterioridad. La devolución a que se refiere este párrafo en ningún caso podrá ser mayor a la diferencia entre ambos impuestos.
+El impuesto que resulte después de los acreditamientos a que se refieren los párrafos anteriores, será el impuesto a pagar conforme a esta Ley.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+Cuando en el ejercicio el impuesto sobre la renta por acreditar en los términos del primer párrafo de este artículo exceda al impuesto al activo del ejercicio, los contribuyentes podrán solicitar la devolución de las cantidades actualizadas que hubieran pagado en el impuesto al activo, en los diez ejercicios inmediatos anteriores, siempre que dichas cantidades no se hubieran devuelto con anterioridad. La devolución a que se refiere este párrafo en ningún caso podrá ser mayor a la diferencia entre ambos impuestos.
 
 El impuesto sobre la renta por acreditar a que se refiere esta Ley será el efectivamente pagado.
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-El impuesto al activo efectivamente pagado en los diez ejercicios inmediatos anteriores a que se refiere el segundo párrafo de este artículo, se actualizará por el período comprendido desde el sexto mes del ejercicio en que se pagó, hasta el sexto mes del ejercicio en el cual el impuesto sobre la renta exceda al impuesto al activo.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+Las diferencias del impuesto sobre la renta que resulten en los términos del segundo párrafo y el impuesto al activo efectivamente pagado en los diez ejercicios inmediatos anteriores a que se refiere el cuarto párrafo de este artículo, se actualizarán por el periodo comprendido desde el sexto mes del ejercicio al que corresponda el pago del impuesto sobre la renta o el impuesto al activo, respectivamente, hasta el sexto mes del ejercicio por el que se efectúe el acreditamiento a que se refiere el segundo párrafo de este artículo, o del ejercicio en el cual el impuesto sobre la renta exceda al impuesto al activo, según se trate.
 
 Los contribuyentes de esta Ley no podrán solicitar la devolución del impuesto sobre la renta pagado en exceso en los siguientes casos:
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+I.- Cuando en el mismo ejercicio, el impuesto establecido en esta Ley sea igual o superior a dicho impuesto. En este caso el impuesto sobre la renta pagado por el que se podría solicitar la devolución por resultar en exceso, se considerará como pago del impuesto al activo del mismo ejercicio, hasta por el monto que resulte a su cargo en los términos de esta Ley, después de haber efectuado el acreditamiento del impuesto sobre la renta a que se refieren el primero y segundo párrafos de este artículo. Los contribuyentes podrán solicitar la devolución de la diferencia que no se considere como pago del impuesto al activo del mismo ejercicio en los términos de esta fracción.
 
-I.- Cuando en el mismo ejercicio, el impuesto establecido en esta Ley sea igual o superior a dicho impuesto. En este caso el impuesto sobre la renta pagado por el que se podría solicitar la devolución por resultar en exceso, se considerará como pago del impuesto al activo del mismo ejercicio.
+II.- Cuando su acreditamiento dé lugar a la devolución del impuesto establecido en esta Ley, en los términos del cuarto párrafo de este artículo. En este caso, el impuesto sobre la renta pagado en exceso cuya devolución no proceda en los términos de esta fracción se considerará como impuesto al activo para efecto de lo dispuesto en el citado cuarto párrafo de este artículo.
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+Cuando el contribuyente no efectúe el acreditamiento o solicite la devolución en un ejercicio pudiéndolo haber hecho conforme a este artículo, perderá el derecho a hacerlo en ejercicios posteriores.
 
-II.- Cuando su acreditamiento dé lugar a la devolución del impuesto establecido en esta Ley, en los términos del segundo párrafo de este artículo. En este caso, el impuesto sobre la renta pagado en exceso cuya devolución no proceda en los términos de esta fracción se considerará como impuesto al activo para efecto de lo dispuesto en el segundo párrafo de este artículo.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-Cuando el contribuyente no efectúe el acreditamiento en un ejercicio, pudiendo haberlo hecho conforme a este artículo, perderá el derecho a hacerlo.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-Los contribuyentes podrán también acreditar contra los pagos provisionales que tengan que efectuar en el impuesto al activo, los pagos provisionales del impuesto sobre la renta. Cuando en la declaración de pago provisional el contribuyente no pueda acreditar la totalidad del impuesto sobre la renta efectivamente pagado, el remanente lo podrá acreditar contra los siguientes pagos provisionales o contra la cantidad que tuviera que pagar en la declaración del ejercicio.
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+Los contribuyentes podrán también acreditar contra los pagos provisionales que tengan que efectuar en el impuesto al activo, los pagos provisionales del impuesto sobre la renta. Cuando en la declaración de pago provisional el contribuyente no pueda acreditar la totalidad del impuesto sobre la renta efectivamente pagado, el remanente lo podrá acreditar contra los siguientes pagos provisionales.
 
 Las personas morales que tengan en su activo acciones emitidas por sociedades residentes en el extranjero podrán acreditar contra el impuesto al activo, el impuesto sobre la renta pagado en el extranjero por dichas sociedades, hasta por el monto que resulte conforme a lo previsto en el segundo párrafo del artículo 6o. de la Ley del impuesto mencionado.
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Los derechos al acreditamiento y a la devolución previstos en este artículo son personales del contribuyente y no podrán ser transmitidos a otra persona ni como consecuencia de fusión. En el caso de escisión, estos derechos se podrán dividir entre la sociedad escindente y las escindidas, en la proporción en que se divida el valor del activo de la escindente en el ejercicio en que se efectúa la escisión, determinado éste después de haber efectuado la disminución de las deudas deducibles en los términos del artículo 5o. de esta Ley.
 
@@ -405,13 +393,23 @@ La Secretaría de Hacienda y Crédito Público dará a conocer anualmente la tab
 
 Los contribuyentes a que se refiere este artículo, que obtengan ingresos exclusivamente por la realización de actividades agrícolas, ganaderas o silvícolas, considerarán como valor de su activo en el ejercicio, el valor catastral de sus terrenos que sirva de base para determinar el impuesto predial. El cálculo de este impuesto se hará sin incluir maquinaria y equipo.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 12-A.
 
-Los contribuyentes personas físicas a que se refiere el artículo anterior, que hayan obtenido en el año de calendario inmediato anterior ingresos que no excedieron de trescientos millones de pesos y que cumplan con la obligación establecida en la fracción III del artículo 119-I de la Ley del Impuesto sobre la Renta, llevando el cuaderno de entradas y salidas y de registro de bienes y deudas a que se refiere el Reglamento del Código Fiscal de la Federación, podrán determinar el impuesto al activo aplicando la tasa del 2%, considerando el valor de los bienes que hubieran asentado en la relación de bienes y deudas formulada para los efectos del impuesto sobre la renta al 31 de diciembre del ejercicio por el que se calcule el impuesto, sin deducción alguna.
+Los contribuyentes personas físicas a que se refiere el artículo anterior, que hayan obtenido en el año de calendario inmediato anterior ingresos que no excedieron de cuatrocientos sesenta y seis mil novecientos nuevos pesos y cumplan con la obligación establecida en la fracción III del artículo 119-I de la Ley del Impuesto sobre la Renta, llevando el cuaderno de entradas y salidas y el registro de bienes y deudas a que se refiere el Reglamento del Código Fiscal de la Federación, podrán determinar el impuesto al activo aplicando la tasa del 1.8%, al valor de los bienes que hubieran asentado en la relación de bienes y deudas formulada para los efectos del impuesto sobre la renta al 31 de diciembre del ejercicio por el que se calcule el impuesto, sin deducción alguna.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 El límite de ingresos a que se refiere el párrafo anterior se actualizará en los términos del artículo 7o-C de la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+###### ARTICULO 12-B.
+
+Para los efectos de la determinación del impuesto al activo, los contribuyentes que dejen de tributar conforme al régimen simplificado de las personas morales o al régimen simplificado a las actividades empresariales y estén a lo dispuesto por los artículos 67-G o 119-J de la Ley del Impuesto sobre la Renta, podrán optar por no incluir las inversiones que hubieran considerado en su saldo inicial de salidas conforme a los artículos 67-D o 119-F de la citada Ley, según corresponda, así como aquéllas que hubieran considerado como salidas en los citados regímenes. En este caso, no procederá la deducción a que se refiere el artículo 5o. de esta Ley, del saldo de las deudas derivadas de la adquisición de tales inversiones que se tenga a la fecha en que dejen de pagar el impuesto sobre la renta conforme al Título II-A o a la Sección II del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta.
+
+Al impuesto al activo pagado durante los ejercicios anteriores a aquél en que los contribuyentes se incorporaron a tributar conforme al Título II o Sección I del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta según corresponda, le será aplicable lo dispuesto en el artículo 9o. de esta Ley, a partir del ejercicio en que comiencen a pagar el impuesto sobre la renta conforme al Título II o al Título IV, Capítulo VI, Sección I de la mencionada Ley. En este caso, también se considerará como impuesto sobre la renta del ejercicio para los efectos del artículo 9o. antes mencionado, el monto que resulte a su cargo en dicho ejercicio en los términos de la fracción III de los artículos 67-G o de la fracción III del artículo 119-J, según corresponda.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -590,3 +588,35 @@ La reforma a la Ley del Impuesto al Activo, entrará en vigor a partir del 1o. d
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
+
+D.O.F. 28 DE DICIEMBRE DE 1994.
+
+DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO AL ACTIVO
+
+###### ARTICULO SEXTO.
+
+Para efectos de lo dispuesto por el artículo anterior, se aplicarán las siguientes disposiciones:
+
+I.- Los contribuyentes que con anterioridad al 1o. de enero de 1995 hubieran optado por determinar el impuesto de conformidad con el artículo 5o-A de la Ley del Impuesto al Activo, determinarán para el ejercicio de 1995 el impuesto que corresponda en los términos del citado artículo considerando, en lugar del penúltimo ejercicio, el que resulte de actualizar el que les hubiera correspondido en el ejercicio de 1992 de haber estado obligados al pago del impuesto en dicho ejercicio. En estos casos el impuesto se actualizará por el periodo transcurrido desde el último mes de la primera mitad del ejercicio de 1992, hasta el último mes de la primera mitad del ejercicio de 1995.
+
+II.- La cantidad establecida en el artículo 12-A de la Ley del Impuesto al Activo, se entiende actualizada por el mes de enero de 1995, debiéndose efectuar las posteriores actualizaciones en los términos que establece el artículo 7o-C de la Ley del Impuesto sobre la Renta a partir de la actualización prevista para el mes de julio de 1995.
+
+III.- Para los efectos de lo dispuesto en el artículo 7o. de la Ley del Impuesto al Activo, para determinar los pagos provisionales del ejercicio de 1995, los contribuyentes podrán disminuir en un 10% el impuesto que les correspondió en el ejercicio inmediato anterior.
+
+Durante los meses de enero y febrero de 1995, los contribuyentes podrán determinar sus pagos provisionales disminuyendo en 10% la cantidad que se hubiera determinado para los pagos provisionales del ejercicio inmediato anterior.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL ACTIVO
+
+###### ARTICULO SEXTO
+
+BIS.- Para los efectos del ARTICULO QUINTO de esta Ley, se estará a las siguientes disposiciones:
+
+I.- Los contribuyentes que hayan ejercido la opción prevista en el artículo 5o-A de la Ley del Impuesto al Activo con anterioridad al 1o. de enero de 1995, podrán por única vez y cumpliendo con los requisitos que establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, en lugar de aplicar lo previsto en la fracción I del ARTICULO SEXTO de la presente Ley, determinar para los ejercicios de 1995 y 1996, el impuesto que resulte de actualizar el que les hubiera correspondido en el ejercicio de 1993 de haber estado obligados al pago del impuesto en dicho ejercicio. Para el ejercicio de 1995, el impuesto correspondiente se actualizará por el periodo transcurrido desde el último mes de la primera mitad del ejercicio de 1993, hasta el último mes de la primera mitad del ejercicio de 1995; y para el ejercicio de 1996, el impuesto correspondiente se actualizará por el periodo transcurrido desde el último mes de la primera mitad del ejercicio de 1993, hasta el último mes de la primera mitad del ejercicio de 1996.
+
+II.- Los contribuyentes que ejerzan la opción a que se refiere el artículo 5o-A de la Ley del Impuesto al Activo, podrán disminuir en un 10% el impuesto que les hubiera correspondido en el ejercicio anterior de que se trate.
+
+Lo dispuesto en el párrafo anterior, sólo será aplicable en los casos en que el impuesto que les hubiera correspondido en el ejercicio anterior de que se trate se haya determinado aplicando la tasa a que se refiere el artículo 2o. de la Ley del Impuesto al Activo vigente hasta el 31 de diciembre de 1994.
+
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
