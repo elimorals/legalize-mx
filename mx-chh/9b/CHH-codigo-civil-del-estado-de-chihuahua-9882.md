@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2004-09-29"
+last_updated: "2004-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2004.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -11265,7 +11265,9 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 
 2819.- El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2810, se dé conocimiento al deudor y sea inscrito en el Registro.
 
-Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás instituciones financieras y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, ni escritura pública, ni de inscripción en el Registro, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, la cesión se inscribirá en el Registro Público y el cesionario deberá notificar por escrito la cesión al deudor.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2004)</small>
+
+Las Instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás instituciones financieras y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, ni escritura pública, ni de inscripción en el Registro, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá notificar por escrito la cesión al deudor.
 
 En el supuesto previsto en el párrafo anterior, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de el o los cesionarios referidos en dicho párrafo, quienes tendrán los derechos y acciones derivados de la hipoteca.
 
@@ -12218,3 +12220,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009.
+
+P.O. 6 DE OCTUBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
