@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-procuraduria-general-de-justicia-del-19695"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1987-06-30"
-last_updated: "1987-06-30"
+last_updated: "1995-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 30 de junio de 1987.
 
@@ -39,7 +39,7 @@ PRIMERO.- Que la vigente Ley Orgánica de la Procuraduría de Justicia del Estad
 
 SEGUNDO.- Que por otra parte, los artículos del 108 al 114 de la Constitución Federal, que regulan las responsabilidades de los Servidores Públicos, fueron reformados totalmente por decreto publicado en el Diario Oficial de la Federación el 28 de diciembre de 1982. Estas reformas motivaron la nueva redacción de los artículos del 110 al 116 de la Constitución Política del Estado, de fecha 31 de enero de 1984. Las reformas Constitucionales en cita, fueron el apoyo legal para la expedición de la Ley de Responsabilidades de los Servidores Públicos número 674, publicada en el Periódico Oficial el 3 de febrero de 1984, que derogó el Título Quinto de la Ley Orgánica de la Procuraduría General de Justicia vigente, que reglamenta las causas de responsabilidad de los Funcionarios del Ministerio Público.
 
-TERCERO.- Que las adiciones a la Constitución Política del Estado de abril de 1987, en relación al Ministerio Público, modificaron la estructura orgánica de la Procuraduría, al agregar el artículo 80 Bis, el cual contempla la figura del visitador general, quien tendrá las siguientes atribuciones: vigilar y evaluar los establecimientos destinados a la detención y custodia de indiciados, procesados, sentenciados, sujetos a arresto administrativo y menores infractores, velando por el respeto a los derechos humanos y a las garantías individuales, debiendo informar al Procurador los resultados de las visitas que realice; coadyuvar a que los preliberados o personas que hayan compurgado una pena, se reincorporen de una manera plena a la sociedad; sugerirá al Procurador General de Justicia las medidas que se requieran para mejorar o fortalecer el sistema penitenciario, de normas mínimas y de menores infractores; y promoverá la creación de foros de consulta en la ciudadanía y especialistas en la materia, con el objeto de mejorar los sistemas penitenciarios y detención en el Estado. Asimismo se agregó el adjetivo "General" a los sustantivos "Procuraduría"; "Procurador" y "SubProcurador"; por lo que la Ley que se propone se denominará "Ley Orgánica de la Procuraduría General de Justicia del Estado".
+TERCERO.- Que las adiciones a la Constitución Política del Estado de abril de 1987, en relación al Ministerio Público, modificaron la estructura orgánica de la Procuraduría, al agregar el artículo 80 Bis, el cual contempla la figura del visitador general, quien tendrá las siguientes atribuciones: vigilar y evaluar los establecimientos destinados a la detención y custodia de indiciados, procesados, sentenciados, sujetos a arresto administrativo y menores infractores, velando por el respeto a los derechos humanos y a las garantías individuales, debiendo informar al Procurador los resultados de las visitas que realice; coadyuvar a que los preliberados o personas que hayan compurgado una pena, se reincorporen de una manera plena a la sociedad; sugerirá al Procurador General de Justicia las medidas que se requieran para mejorar o fortalecer el sistema penitenciario, de normas mínimas y de menores infractores; y promoverá la creación de foros de consulta en la ciudadanía y especialistas en la materia, con el objeto de mejorar los sistemas penitenciarios y detención en el Estado. Asimismo se agregó el adjetivo "General" a los sustantivos "Procuraduría"; "Procurador" y "Sub Procurador"; por lo que la Ley que se propone se denominará "Ley Orgánica de la Procuraduría General de Justicia del Estado".
 
 CUARTO.- Que en el Periódico Oficial número 33 de fecha 21 de abril de 1987, fue publicada la Ley Orgánica de la Administración Pública Estatal, en la cual se suprime a la Contraloría del Estado, y en su artículo 32 Fracción VIII, establece como atribución de la Procuraduría la de "registrar las manifestaciones patrimoniales de los Servidores Públicos y mantenerlas actualizadas, en los términos de la legislación aplicable en el Estado".
 
@@ -90,6 +90,22 @@ VI.- Actuar como representante en juicio en todas las controversias en las que s
 VII.- Vigilar y evaluar las condiciones de los establecimientos penitenciarios, de arresto administrativo y para menores infractores, así como procurar la vigencia de los derechos humanos y garantías individuales, en los términos y condiciones previstos en el artículo 80 Bis de la Constitución Política del Estado;
 
 VIII.- Las demás que las leyes determinen.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 1995)</small>
+
+###### ARTICULO 2o.
+
+BIS.- Cuando se presente un caso excepcional, por la importancia de los hechos delictuosos, y por su trascendencia social, a juicio del Congreso del Estado, el propio Congreso decretará la creación de una Fiscalía Especial del Ministerio Público, que actuará con independencia, imparcialidad y autonomía jerárquica, técnica y operativa, no solo respecto del titular de la Procuraduría General de Justicia del Estado, sino aún respecto del propio Gobernador del Estado.
+
+El Fiscal Especial estará facultado para nombrar a los Agentes del Ministerio Público, Secretarios y demás personal administrativo necesario para que lo auxilien en el ejercicio de sus funciones; nombrar a los peritos que sean necesarios; solicitar la colaboración y apoyo de la Procuraduría General de Justicia del Estado de Guerrero y de otras Instituciones de procuración de justicia.
+
+En estos supuestos, el Congreso del Estado dispondrá los ajustes pertinentes al presupuesto del Gobierno del Estado.
+
+Lo dispuesto en los artículos 7o., 18 y 21 de esta Ley respecto del Procurador, será aplicable al Fiscal Especial, en relación con la Fiscalía Especial.
+
+El Fiscal Especial tendrá el mismo nivel jerárquico que el Procurador General de Justicia del Estado y deberá reunir los mismos requisitos que éste.
+
+Cuando el Honorable Congreso del Estado de Guerrero decida crear una Fiscalía Especial, el Fiscal Especial que se nombre deberá rendir la protesta ante el propio Congreso.
 
 ###### ARTICULO 3o.
 
@@ -314,3 +330,11 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 1995.
+
+PRIMERO.- Esta adición a la Ley Orgánica de la Procuraduría General de Justicia del Estado de Guerrero, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. En su oportunidad, procédase a reformar la Legislación Estatal correspondiente, en lo relativo a la creación de la figura del Fiscal Especial.
+
+SEGUNDO.- En los términos del Decreto Número 193, de esta LIV Legislatura del Estado y del presente Decreto, se crea la Fiscalía Especial para el caso de Aguas Blancas y se nombra como Fiscal Especial del Ministerio Público para este caso al Dr. Miguel Angel García Domínguez, quien en los términos del artículo 121 de la Constitución Política del Estado deberá rendir protesta ante este Honorable Congreso.
