@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2000-06-30"
+last_updated: "2001-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2001.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -139,17 +139,29 @@ Los particulares podrán impartir educación en todos sus tipos y modalidades. E
 
 La Universidad de San Luis Potosí es autónoma en todo lo que respecta a su régimen interior. Realizará sus fines de educar, investigar y difundir la cultura con base en la libertad de cátedra e investigación y en el libre examen y discusión de las ideas, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en su ley orgánica. El Estado, en la medida de sus posibilidades presupuestales, la dotará con un subsidio anual.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2001)</small>
 
 ###### ARTÍCULO 12.
 
-La familia constituye la base fundamental de la sociedad. La familia, las personas con discapacidad, los senectos y los menores serán objeto de especial protección por parte de las autoridades; y las disposiciones legales que al efecto se dicten serán de orden público e interés social.
+La Familia constituye la base fundamental de la sociedad. La familia, las personas con discapacidad, los senectos y los niños y las niñas serán objeto de especial protección por parte de las autoridades, y las disposiciones legales que al efecto se dicten serán de orden público e interés social.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 El Estado protegerá y promoverá el derecho fundamental a la salud de sus habitantes. La ley establecerá programas y estrategias basadas en la educación para la salud y en la participación comunitaria.
 
-El Estado, en la medida de sus posibilidades presupuestales, proveerá a la alimentación y salud de los menores, de las personas con discapacidad y de los senectos en estado de abandono.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2001)</small>
+
+El Estado en la medida de sus posibilidades presupuestales, proveerá a la alimentación y salud de los niños y las niñas, las personas con discapacidad y de los senectos en estado de abandono.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2001)</small>
+
+Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Los ascendientes, tutores y custodios tienen el deber de preservar estos derechos. Las autoridades proveerán lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos, y otorgarán facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 El Estado promoverá el bienestar social, así como la vivienda digna para las familias, preferentemente la destinada a las clases de escasos recursos económicos, de conformidad con lo establecido por las leyes relativas.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Las leyes regularán el patrimonio de la familia y los bienes que lo constituyan serán inalienables y no estarán sujetos a embargo ni a gravamen.
 
@@ -2134,3 +2146,7 @@ P.O. 30 DE JUNIO DE 2000.
 DECRETO NUMERO 543.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Estado.
+
+P.O. 12 DE JUNIO DE 2001.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
