@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-turismo-del-estado-de-queretaro-7845"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-12"
-last_updated: "2001-11-16"
+last_updated: "2004-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TURISMO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 12 de noviembre de 1992.
 
@@ -511,11 +511,95 @@ En los acuerdos y convenios que se celebren intervendrán, según el caso, las d
 
 La Secretaría promoverá la celebración de acuerdos de coordinación con la Secretaría de Turismo Federal con el objeto de establecer las bases de concurrencia de ambas entidades en materia de protección al turista y de verificación y vigilancia de los servicios turísticos que se presten en el Estado.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+### CAPITULO VIII (BIS). DEL TURISMO ALTERNATIVO
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 57 bis.- Para los efectos del presente Capítulo, se entiende por turismo alternativo, aquél que tiene como fin realizar actividades recreativas en contacto con la naturaleza y las expresiones culturales con una actitud y compromiso de conocer, respetar, disfrutar y participar de la preservación de los elementos y recursos naturales y culturales, lo que incluye el ecoturismo, el turismo de aventura y el turismo regional.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 57 bis 2.- El ecoturismo es la categoría de turismo alternativo basada en que la motivación principal del turista sea la observación, el conocimiento, interacción y apreciación de la naturaleza y de las manifestaciones culturales tradicionales de los habitantes de las zonas regionales, lo que implica tomar conciencia con respecto al aprovechamiento, conservación y restauración de los recursos naturales y las formas de producir el menor impacto negativo sobre el ambiente y el entorno sociocultural de las comunidades anfitrionas, y que genera beneficios económicos a dichas comunidades, ofreciendo oportunidades y alternativas de empleo.
+
+El turismo de aventura, es la categoría de turismo alternativo en la que se incluyen diferentes actividades deportivas y recreativas, donde se participa en armonía con el ambiente, respetando el patrimonio natural, cultural, turístico e histórico. Sus disposiciones se rigen por la presente Ley, las normas oficiales mexicanas y los reglamentos aplicables para el desarrollo de las actividades turísticas en el Estado.
+
+El turismo regional, es la categoría de turismo alternativo en la cual el turista participa en actividades propias de las comunidades, los ejidos y los pueblos indígenas, con fines culturales, educativos y recreativos, que le permiten conocer los valores culturales, forma de vida, manejo ambiental, usos y costumbres y aspectos de su historia, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la preservación de los ecosistemas en los que habitan.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 57 bis 3.- Los prestadores de servicios turísticos que esta Ley establece y a los cuales se refiere este Capítulo, así como toda persona, organización o institución pública o privada, que pretenda la creación de una empresa que brinde servicio en actividades de turismo alternativo en el Estado, requerirá de un permiso expedido por la Secretaria de Turismo, con la opinión de los ayuntamientos en cuyas jurisdicciones se pretenda realizar dicha actividad, el cual se sujetará a la observación estricta de los reglamentos y a los programas de manejo aplicables de las áreas destinadas para actividades ecoturísticas, autorizadas por la SEMARNAT.
+
+Cuando la prestación de servicios y actividades de turismo alternativo se pretendan desarrollar dentro de las áreas naturales protegidas, la Secretaría de Desarrollo Sustentable (SEDESU), con opinión de la Secretaria de Turismo, será la encargada de otorgar los permisos correspondientes, siguiendo el procedimiento que establezca el reglamento correspondiente y los programas de manejo aplicables para las áreas naturales protegidas, informando para efectos de su registro en la Comisión Nacional de Áreas Naturales Protegidas.
+
+En todos los casos, la Secretaría de Desarrollo Sustentable (SEDESU), en coordinación con la Secretaría de Turismo, definirá las áreas potenciales para el desarrollo del turismo alternativo, respetando los programas de manejo de las áreas naturales protegidas, las cuales se determinarán bajo la observación de las políticas y normas aplicables de esta Ley y las que se refieran a la protección ambiental.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 57 bis 4.- Para la autorización y prestación de servicios de turismo alternativo, deberá tomarse en cuenta el ordenamiento ecológico territorial, así como la competencia estatal o federal que corresponda, al efecto de que su realización sea acorde con la vocación natural de la región y las condiciones naturales de la misma.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 57 bis 5.- Para el otorgamiento del permiso, los interesados deberán presentar ante la autoridad correspondiente, un proyecto que incluya:
+
+I.- La solicitud en la cual se indique la o las categorías de turismo alternativo que desea prestar y los servicios que prestará;
+
+II.- El estudio de capacidad de carga de la zona, aprobado por la Secretaría de Desarrollo Sustentable (SEDESU);
+
+III.- La autorización de la evaluación de impacto ambiental, en las modalidades y condiciones que establezcan las disposiciones de la materia; y
+
+IV.- El programa de manejo de las actividades a realizar.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 57 bis 6.- La autoridad encargada de la expedición del permiso deberá, dentro de los tiempos establecidos por el reglamento que se expida al efecto:
+
+I.- Aprobarlos en los términos solicitados;
+
+II.- Aprobar parcialmente, haciendo las observaciones de las circunstancias que deberán subsanarse para aprobarlo en su integridad; o
+
+III.- Negar el permiso, debiendo fundar y motivar la resolución de la negativa.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 57 bis 7.- La autoridad encargada de expedir el permiso correspondiente, al momento de evaluar el proyecto, deberá observar que la actividad a realizar cumpla con los siguientes criterios:
+
+I.- La preservación y protección de la vida silvestre, sus especies, poblaciones y ecosistemas;
+
+II.- La compatibilidad entre la preservación de la biodiversidad y el desarrollo de la actividad turística;
+
+III.- La conservación de la imagen del entorno;
+
+IV.- El respeto a la libertad individual y colectiva y a la entidad sociocultural, especialmente de las comunidades rurales, ejidos y pueblos indígenas, para que permitan el acceso y disfrute del patrimonio turístico y natural a los visitantes;
+
+V.- La capacidad desarrollada de los habitantes de las comunidades rurales, ejidos y pueblos indígenas a explotar y ofertar sus servicios al turismo y disfrutar del patrimonio turístico;
+
+VI.- El derecho de quienes deseen realizar actividades de turismo alternativo a recibir información por parte de las autoridades competentes y de los prestadores de servicios involucrados, quienes deberán prevenirles de los riesgos y limitantes existentes para el goce y disfrute de las mismas; y
+
+VII.- El cuidado de la arquitectura de los inmuebles donde se presten los servicios turísticos, se regirá bajo los reglamentos correspondientes al tipo de construcción o zona en que se encuentra, para que no se altere la armonía de los elementos que conforman el ambiente natural, el respeto de la arquitectura vernácula, así como la utilización de materiales y tecnologías propias de la zona o adaptables a la misma, que proporcionen armonía estructural y estética con el lugar donde se desarrolle la actividad para su construcción, de modo que hagan posible la autosuficiencia y sustentabilidad de éstos.
+
+Para los efectos de este Capítulo, se entiende que las actividades reguladas por éste son incompatibles con toda actividad cinegética, la cual se ajustará a lo dispuesto en la Ley General de Vida Silvestre y la Ley Estatal de Protección Animal, así como la introducción de toda clase de especies de flora y fauna o de organismos genéticamente modificados ajena a los lugares en donde se presten los servicios de turismo alternativo.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+ARTÍCULO 57 bis 8.- Los prestadores de servicios turísticos alternativos, adicionalmente a lo establecido en el presente Capítulo, estarán obligados a cumplir por lo menos lo siguiente:
+
+I.- Presentar a las autoridades ambientales la manifestación del impacto ambiental en las modalidades y condiciones que establezcan las disposiciones de la materia, antes de iniciar o de proporcionar cualquier actividad o servicio turístico alternativo;
+
+II.- Contar con programas de manejo del desarrollo, mismos que deberán contener, cuando menos, según sea el caso, medidas para el re-uso, reciclaje, disposición y tratamiento de residuos y aguas, a fin de no producir impactos negativos en los ecosistemas propios del lugar;
+
+III.- Presentar informes periódicos avalados por el responsable técnico de la ejecución del desarrollo, así como de los programas de manejo del proyecto respectivo; dicho informe no podrá ser menor de un año, salvo en los casos de contingencias, dicha obligación se establecerá en la autorización correspondiente para la prestación de servicios respectivos y;
+
+IV.- Realizar funciones de guardias ecológicos en las regiones donde presten su servicio, por lo que estarán obligados a denunciar toda infracción a las disposiciones de la presente Ley, sus reglamentos o las disposiciones jurídicas aplicables, así como todo acto que afecte, o pudiera afectar, el ambiente o los ecosistemas de la región.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 57 bis 9.- La Secretaría de Turismo, formulará las declaratorias de desarrollo turístico prioritario, a efecto de que las autoridades competentes expidan, conforme a los planes y programas estatales y municipales de desarrollo urbano, el ordenamiento ecológico territorial, las declaratorias de uso de suelo turístico y proceder así a la creación o ampliación del centro de desarrollo turístico prioritario y creación de centros dedicados al turismo social y alternativo, en los términos de las leyes respectivas.
+
+Para la formulación de la declaratoria de desarrollo turístico prioritario, la Secretaría de Desarrollo Sustentable, presentará los estudios pertinentes, a fin de determinar los posibles efectos ambientales que tendrían en la zona la creación o la ampliación de centros de desarrollo turístico. La Secretaría de Turismo, para formular la mencionada declaratoria, deberá atender tanto al estudio formulado por la Secretaría de Desarrollo Sustentable, así como, en su caso, a las observaciones formuladas por los directamente interesados y los presuntos afectados.
+
 ### CAPITULO VIII. DE LA VIGILANCIA Y LA VERIFICACION
-
-### CAPITULO IX. DE LAS SANCIONES Y RECURSOS
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 58.
 
@@ -578,6 +662,10 @@ IX.- Nombre y firma del verificador, de quien atendió la visita y de las person
 ###### ARTICULO 67.
 
 El verificador, una vez elaborada el acta, proporcionará una copia de la misma a la persona con quien se entendió la visita, aún en el caso de que ésta se hubiera negado a firmarla, hecho que no desvirtuará su validez.
+
+### CAPITULO IX. DE LAS SANCIONES Y RECURSOS
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 68.
 
@@ -794,3 +882,11 @@ P.O. 16 DE NOVIEMBRE DE 2001
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 3 DE SEPTIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley iniciará su vigencia a los 30 días naturales siguientes a su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
