@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1999-11-12"
+last_updated: "2000-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -2663,7 +2663,7 @@ XIII.- Las acciones relativas a servidumbres legales o que consten en títulos p
 
 XIV.- Las rectificaciones y modificaciones de actas del Registro Civil, a que se refiere el artículo 130 del Código Civil.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 7 DE MAYO DE 1999)
+(EN SUSPENSO LA VIGENCIA, P.O. 14 DE ABRIL DE 2000)
 
 XV. Las solicitudes de inscripción en el Registro Civil, de los actos que no hubieran sido inscritos dentro de los plazos que el propio código señala para cada uno de ellos
 
@@ -2681,7 +2681,7 @@ En los casos de la Fracción XIV del artículo anterior se oirá al Ministerio P
 
 Si el Director del Registro Civil no contestase la demanda, se tendrá por presuntivamente confesados los hechos en que se funda el pedimento de rectificación o de modificación y luego de recibidas las pruebas y oídos los alegatos de los interesados si los formulasen por escrito dentro de tres días se dictará la resolución correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 12 DE NOVIEMBRE DE 1999)
+(EN SUSPENSO LA VIGENCIA, P.O. 14 DE ABRIL DE 2000)
 
 ###### ARTICULO 433.
 
@@ -3063,7 +3063,7 @@ III.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del p
 
 IV.- Si las dos partes exhibieren los avaluos en el plazo que se refiere la fracción I y los valores determinados de cada uno de ellos no coinciden, se tomará como base para el remate el promedio de ambos avaluos; siempre y cuando no exista un 30% de diferencia entre el mas bajo y el mas alto; en cuyo caso el juez ordenará que se practique nuevo avalúo nombrando perito tercero;
 
-V.- La vigencia del valor que se obtenga por los avaluos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediaron término mayor de seis meses se deberán actualizar los valores;
+V.- La vigencia del valor que se obtenga por los avaluos será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediaron termino mayor de seis meses se deberán actualizar los valores;
 
 VI.- Obtenido el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar la finca en los términos de la sección III del capítulo V del título VII de este ordenamiento, en todo lo que no contravenga a esta disposición;
 
@@ -6630,3 +6630,13 @@ Una vez concluida la vigencia de esta Ley, los artículos suspendidos, nuevament
 ###### ARTICULO QUINTO.
 
 La Dirección General del Registro Civil, instrumentará una campaña de información amplia, a fin de que las persona que puedan beneficiarse con esta Ley, la instrumenten.
+
+P.O. 14 DE ABRIL DE 2000
+
+###### ARTICULO PRIMERO.
+
+En el caso de las personas mayores de siete años respecto de quienes se esté tramitando juicio de registro de nacimiento al entrar en vigor esta Ley, podrá optarse por concluir ese procedimiento judicial o acudir ante el Oficial del Registro Civil respectivo, en los términos de lo dispuesto en este ordenamiento jurídico.
+
+###### ARTICULO SEGUNDO.
+
+Las demás disposiciones que se opongan a la presente Ley y pudieran impedir su aplicación respecto de quienes se acojan a ella en los lapsos a que se refiere su artículo primero, quedarán suspendidas en cuanto a su observancia en relación con ellos, durante esos lapsos.
