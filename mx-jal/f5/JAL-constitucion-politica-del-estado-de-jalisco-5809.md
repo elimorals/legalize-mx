@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1950-03-02"
+last_updated: "1954-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 1950.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1954.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -63,11 +63,15 @@ I. Los que se conceden a los habitantes de la República en el Capítulo 1º del
 
 II. Si son mexicanos, los que les concede la misma Constitución.
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1948)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1954)</small>
 
-III. Votar en las elecciones populares siempre que la persona sea ciudadano mexicano en el ejercicio de sus derechos, y no sea ministro de ningún culto ni pertenezca al estado eclesiástico. Las mujeres participarán en las elecciones Municipales de acuerdo con la facultad que les otorga la fracción I del Artículo 115 de la Constitución General de la República;
+III. Votar en las elecciones populares siempre que el individuo sea ciudadano mexicano en el ejercicio de sus derechos y no sea ministro de algún culto ni pertenezca al estado eclesiástico;
 
 IV. Ser votado en toda elección popular y desempeñar cualquier empleo del Estado, cuando además de los requisitos que fija el párrafo anterior, el individuo tenga las condiciones que la Ley exija para cada caso.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1954)</small>
+
+Para los efectos de las fracciones III y IV, el hombre y la mujer gozarán de igualdad política.
 
 ###### Art. 5º.
 
@@ -754,3 +758,7 @@ Se declara que las reformas a los Artículos 4o. fracción III, 8o. y 37o., apro
 P.O. 2 DE MARZO DE 1950.
 
 UNICO.- Esta reforma entrará en vigor a partir del día en que se declare que es parte integrante de la Constitución de acuerdo con lo que establece el Artículo 66 de la Constitución Política del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 1954.
+
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
