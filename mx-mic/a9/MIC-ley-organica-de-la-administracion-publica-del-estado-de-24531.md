@@ -1,0 +1,966 @@
+---
+title: "LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO"
+identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-24531"
+country: "mx"
+rank: "ley_organica"
+publication_date: "2002-04-12"
+last_updated: "2002-04-12"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24531&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mic"
+scjn_id: "24531"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "9-III"
+reform_count: "7"
+scjn_last_update: "2008-01-09"
+issue_date: "2002-04-11"
+state: "MIC"
+---
+# LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
+
+LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 12 de abril de 2002.
+
+LÁZARO CÁRDENAS BATEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+
+El H. Congreso del Estado, se ha servido dirigirme el siguiente
+
+DECRETO
+
+EL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
+
+DECRETA:
+
+NUMERO 2
+
+LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
+
+## TÍTULO PRIMERO. De la Administración Pública Estatal
+
+### CAPÍTULO ÚNICO. De la Administración Pública Estatal
+
+###### ARTÍCULO 1º.
+
+La presente Ley es de orden público e interés social y tiene por objeto regular la organización de la administración pública estatal, centralizada y paraestatal.
+
+###### ARTÍCULO 2°.
+
+La certeza, legalidad, objetividad, imparcialidad, equidad y profesionalismo, serán principios rectores en el ejercicio de la administración pública estatal, centralizada y paraestatal.
+
+###### ARTÍCULO 3º.
+
+El ejercicio del Poder Ejecutivo se deposita en un solo individuo denominado Gobernador del Estado, quien tendrá las facultades y obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, y las leyes que de ellas emanen.
+
+###### ARTÍCULO 4º.
+
+El Gobernador del Estado a través de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, promoverá y cuidará se cumplan los principios de equidad social mediante la promoción de igualdad de oportunidades, equidad de género, respeto a la cultura, usos y costumbres de los grupos indígenas del Estado, así como observar criterios de racionalidad ambiental y uso sustentable de los recursos naturales que preserven la integridad biológica de los ecosistemas y su biodiversidad.
+
+###### ARTÍCULO 5º.
+
+El Gobernador del Estado deberá expedir los reglamentos interiores de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal.
+
+Podrá reformar o derogar los reglamentos, acuerdos, circulares y demás disposiciones que tiendan a regular el funcionamiento o la estructura interna de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal
+
+###### ARTÍCULO 6º.
+
+El Gobernador del Estado podrá autorizar la creación, fusión o supresión de las unidades administrativas que requiera el desempeño de la función ejecutiva, asimismo contará con las unidades de asesoría y apoyo técnico que determine, de acuerdo con el Presupuesto de Egresos del Estado.
+
+###### ARTÍCULO 7º.
+
+El Gobernador del Estado podrá crear, modificar o extinguir, mediante decreto o acuerdo administrativos, conforme al Presupuesto de Egresos del Estado, organismos descentralizados y desconcentrados, así como empresas de participación estatal, fideicomisos, comisiones, comités, patronatos y entidades de la administración pública paraestatal, independientemente de la denominación que se les dé, y asignarles las funciones que estime conveniente.
+
+###### ARTÍCULO 8º.
+
+El Gobernador del Estado podrá convenir con el Ejecutivo Federal, Gobiernos de Entidades Federativas y Ayuntamientos de la Entidad, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
+
+###### ARTÍCULO 9º.
+
+El despacho de los asuntos que competen al Gobernador del Estado, se realizará a través de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, conforme a la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, y las leyes que de ellas emanen, de acuerdo con el Presupuesto de Egresos del Estado.
+
+###### ARTÍCULO 10.
+
+Cuando el Gobernador del Estado, sin abandonar sus funciones, salga del territorio del Estado, el Secretario de Gobierno quedará encargado del despacho, salvo el caso de falta temporal o impedimento en el que será reemplazado por el Oficial Mayor.
+
+###### ARTÍCULO 11.
+
+Los titulares de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, están obligados a coordinar entre sí sus acciones, cuando el desarrollo de las funciones encomendadas lo requieran.
+
+###### ARTÍCULO 12.
+
+Al frente de cada dependencia y entidad de la administración pública estatal, centralizada y paraestatal, habrá un titular, quien para el despacho de los asuntos de su competencia se auxiliará con los servidores públicos que se establezcan en su reglamento interior, los que serán nombrados y removidos libremente por el Gobernador del Estado, con excepción de los que estén determinados de otro modo en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo o en las leyes.
+
+###### ARTÍCULO 13.
+
+Las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, deberán conducir sus actividades conforme a los objetivos, programas, proyectos y políticas que defina el Gobernador del Estado.
+
+###### ARTÍCULO 14.
+
+Los titulares de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, ejercerán sus funciones de acuerdo con su reglamento interior, y dictarán las resoluciones que les competan, pudiendo delegar a sus subalternos, cualquiera de sus facultades para resolver asuntos, salvo en los casos en que la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, las leyes que de ella emanen y su reglamento interior, dispongan que deben ser resueltos por ellos.
+
+###### ARTÍCULO 15.
+
+Los organismos descentralizados, desconcentrados, empresas de participación estatal, fideicomisos, comisiones, comités, patronatos, juntas o entidades, son órganos auxiliares de la administración pública estatal, que deberán coordinar sus acciones con las dependencias y entidades que determine el Gobernador del Estado.
+
+###### ARTÍCULO 16.
+
+La promulgación y la orden de publicación de las leyes se harán constar mediante la firma del Gobernador del Estado y del Secretario de Gobierno.
+
+Todos los decretos, reglamentos, órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por el Gobernador del Estado, el Secretario de Gobierno y los titulares de las dependencias básicas a que el asunto corresponda, requisito sin el cual no serán obligatorios.
+
+###### ARTÍCULO 17.
+
+Los titulares de las dependencias de la administración pública estatal centralizada, podrán formular los proyectos de iniciativa de ley, reglamentos, decretos, acuerdos, circulares y demás disposiciones que correspondan a sus atribuciones, y los remitirán al Gobernador del Estado, por conducto del Secretario de Gobierno.
+
+###### ARTÍCULO 18.
+
+Al tomar posesión de su cargo, los titulares de las dependencias o entidades de la administración pública estatal, centralizada o paraestatal, deberán mediante acta de entrega recepción, con la intervención de la Secretaria de Contraloría y Desarrollo Administrativo, recibir y verificar el inventario de los bienes que tengan en posesión y la relación de los asuntos en trámite, asumiendo la responsabilidad administrativa y legal de lo que reciban de conformidad con las leyes de la materia.
+
+###### ARTÍCULO 19.
+
+Cuando para la atención de algún asunto exista duda respecto a la competencia entre dependencias y entidades, decidirá el Gobernador del Estado.
+
+## TÍTULO SEGUNDO. De la Administración Pública Centralizada
+
+### CAPÍTULO ÚNICO. De las Dependencias de la Administración Pública Estatal Centralizada
+
+###### ARTÍCULO 20.
+
+En el ejercicio de sus atribuciones y para el despacho de los negocios del orden administrativo encomendados al Gobernador del Estado, habrá las siguientes dependencias de la administración pública estatal centralizada:
+
+Secretaría de Gobierno;
+
+Secretaría de Planeación y Desarrollo Estatal;
+
+Secretaría de Educación;
+
+Secretaría de Salud;
+
+Secretaría de Desarrollo Social;
+
+Secretaría de Desarrollo Económico;
+
+Secretaría de Turismo;
+
+Secretaría de Desarrollo Agropecuario;
+
+Secretaría de Comunicaciones y Obras Públicas;
+
+Secretaría de Urbanismo y Medio Ambiente;
+
+Secretaría de Contraloría y Desarrollo Administrativo;
+
+Tesorería General;
+
+Oficialía Mayor; y
+
+Procuraduría General de Justicia.
+
+###### ARTÍCULO 21.
+
+A la Secretaría de Gobierno le corresponde, además de las atribuciones que expresamente le confiere la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, las siguientes:
+
+I. Conducir las relaciones del Poder Ejecutivo con los demás Poderes del Estado, Poderes Federales, con los Gobiernos de los Estados y con los Gobiernos Municipales;
+
+II. Conducir los asuntos del orden político interno del Estado;
+
+III. Cumplir y hacer cumplir los decretos, acuerdos, órdenes, circulares y demás disposiciones administrativas emitidas por el Gobernador del Estado;
+
+IV. Ejercer la vigilancia que en materia electoral le señalen las leyes o los convenios que para este efecto se celebren;
+
+V. Expedir, previo acuerdo del Gobernador del Estado las licencias gubernativas, autorizaciones, concesiones y permisos de su competencia;
+
+VI. Revisar los proyectos de ley, reglamento y cualquier ordenamiento jurídico que deba presentarse al Ejecutivo del Estado;
+
+VII. Ser el conducto para presentar al Congreso del Estado las iniciativas de ley y decreto del Gobernador del Estado, y realizar la publicación de leyes, decretos, reglamentos y demás disposiciones que deban regir en el Estado;
+
+VIII. Coadyuvar con las autoridades del Gobierno de la República en la vigilancia y cumplimiento de las leyes y reglamentos federales;
+
+IX. Representar al Gobernador del Estado, por sí o por medio de representante designado al efecto, en los juicios y procedimientos en que sea parte;
+
+X. Proponer al Gobernador del Estado los programas relativos a la protección de los habitantes, al orden público y a la prevención de los delitos;
+
+XI. Conservar y mantener en el Estado, el orden, la tranquilidad, la seguridad pública y la prevención social contra la delincuencia;
+
+XII. Formular, conducir y evaluar las políticas y programas relativos a la seguridad pública, de conformidad con el Sistema Nacional de Seguridad Pública, los Planes Nacional y Estatal de Desarrollo;
+
+XIII. Proponer al Gobernador del Estado, las políticas y medidas que propicien una conducta policial basada en los principios de legalidad, eficiencia, profesionalismo y honradez, combatir de manera enérgica y eficaz cualquier abuso o desviación en la conducta policial, así como aplicar y dirigir estas políticas en el ámbito de su competencia;
+
+XIV. Diseñar, implantar, impulsar y fortalecer la profesionalización del personal dedicado a las tareas de seguridad pública, a través de una rigurosa selección de los aspirantes, de su capacitación en instalaciones adecuadas, de manera sistemática y continua;
+
+XV. Promover en coordinación con la sociedad, campañas tendientes a la prevención de los delitos, diseñar, difundir, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención del delito, apoyándose, en medios eficaces de promoción y comunicación masiva;
+
+XVI. Coordinar dentro del Sistema Estatal de Seguridad Pública, los esfuerzos de los diversos sectores sociales para enfrentar los problemas de esta materia;
+
+XVII. Establecer y operar el Sistema Estatal de Información sobre Seguridad Pública, mediante la creación de bancos de información que permitan el establecimiento de programas especiales que conlleven a la formación de una estrategia de prevención y combate a la delincuencia, y a la coordinación de los diferentes cuerpos policiales;
+
+XVIII. Aplicar las normas, políticas y programas que deriven del Sistema Nacional de Seguridad Pública;
+
+XIX. Proveer los servicios de policía y vigilancia del tránsito en las carreteras y caminos de jurisdicción estatal;
+
+XX. Controlar en coordinación con la Procuraduría General de Justicia del Estado, la portación de armas, de acuerdo a las leyes de la materia y los convenios celebrados con las dependencias federales;
+
+XXI. Llevar el registro y control en el Estado de los Servicios Policiales y de los cuerpos de seguridad privados;
+
+XXII. Organizar, capacitar, supervisar y controlar, con acuerdo del Gobernador del Estado, el cuerpo de las fuerzas de seguridad pública;
+
+XXIII. Operar y coordinar el sistema de radiocomunicaciones de seguridad del Estado;
+
+XXIV. Regular las actividades del Sistema Estatal de Protección Civil mediante la coordinación e inducción de los sectores público, social y privado en materia de protección civil, de acuerdo con los programas de la Federación, el Estado y los Municipios;
+
+XXV. Organizar y operar mecanismos de capacitación para los organismos de protección civil;
+
+XXVI. Proporcionar asesoría jurídica a las dependencias y entidades de la Administración Pública Estatal;
+
+XXVII. Dirigir y publicar el Periódico Oficial del Estado;
+
+XXVIII. Publicar anualmente el calendario oficial cívico que regirá en el Estado;
+
+XXIX. Llevar el registro de autógrafos y legalizar las firmas de los funcionarios estatales y demás a quienes esté encomendada la fé pública;
+
+XXX. Organizar, dirigir y vigilar la Defensoría de Oficio;
+
+XXXI. Vigilar el desempeño de la función notarial, autorizar y llevar el control de los libros que deban utilizar los notarios y el Archivo General de Notarías;
+
+XXXII. Editar, compilar, coordinar y supervisar las ediciones oficiales de la legislación del Estado;
+
+XXXIII. Cumplir las disposiciones del Gobernador del Estado sobre las facultades que a éste le corresponden en materia de administración de trabajo y previsión social;
+
+XXXIV. Proporcionar los apoyos administrativos que requiera el funcionamiento de las Juntas Locales de Conciliación, la Junta Local de Conciliación y Arbitraje y el Tribunal de Conciliación y Arbitraje;
+
+XXXV. Proponer al Gobernador del Estado los programas relativos a la readaptación social de las personas sujetas a una pena de prisión;
+
+XXXVI. Ejecutar y evaluar los programas tendientes a la readaptación social de las personas sujetas a una pena de prisión en los centros de readaptación social, estatales y municipales;
+
+XXXVII. Administrar los centros de readaptación social estatales y coordinar la observancia de las normas y políticas relativas a la materia en los centros de readaptación social municipales;
+
+XXXVIII. Elaborar los proyectos de convenios para que los reos sentenciados por delitos del orden común extingan su condena en los establecimientos dependientes del Ejecutivo Federal, para que los reos de origen michoacano que se encuentren compurgando penas en países extranjeros, puedan ser trasladados a establecimientos situados en Michoacán;
+
+XXXIX. Conocer y resolver sobre el otorgamiento o revocación del beneficio de la preliberación, someter a la consideración del Gobernador del Estado, lo relativo a la libertad anticipada y la remisión parcial de la sanción;
+
+XL. Administrar las instituciones de internamiento para menores infractores y vigilar el establecimiento de instituciones y normas preventivas tutelares de menores infractores;
+
+XLI. Diseñar, implantar, impulsar y fortalecer la profesionalización del personal dedicado a las tareas de readaptación social, a través de una rigurosa selección de los aspirantes, de su capacitación de manera sistemática y continua;
+
+XLII. Coadyuvar con las autoridades competentes en la atención y solución de los asuntos agrarios en el Estado;
+
+XLIII. Aplicar las normas que al Estado se asignan en materia de excedentes de la pequeña propiedad;
+
+XLIV. Ejecutar los acuerdos del Gobernador del Estado relativos a la expropiación, ocupación temporal y limitación de dominio en los casos de utilidad pública;
+
+XLV. Vigilar los asuntos relativos a la demarcación y conservación de los límites territoriales del Estado;
+
+XLVI. Otorgar a los tribunales y autoridades judiciales el auxilio que soliciten para el debido ejercicio de sus funciones;
+
+XLVII. Hacer del conocimiento del Supremo Tribunal de Justicia del Estado, las quejas presentadas por deficiencias que acuse la administración de justicia, para que proceda conforme a la ley de la materia;
+
+XLVIII. Tramitar lo relacionado con la elección o reelección de los Magistrados del Supremo Tribunal de Justicia;
+
+XLIX. Formular y proponer al Gobernador del Estado la adopción de medidas y el establecimiento de mecanismos de coordinación entre el Estado y los Municipios;
+
+L. Intervenir en auxilio o coordinación con las autoridades federales, en los términos de las leyes en materia de cultos religiosos, detonantes y pirotecnia, portación de armas, loterías, rifas y juegos prohibidos, migración, prevención, combate y extinción de catástrofes públicas;
+
+LI. Organizar, dirigir y vigilar las funciones y archivos del Registro Civil en el Estado;
+
+LII. Organizar, dirigir y vigilar las funciones del Registro Público de la Propiedad Raíz y del Comercio;
+
+LIII. Auxiliar a las autoridades municipales cuando lo soliciten, en la realización de trámites y gestiones ante las autoridades federales y estatales; y
+
+LIV. Las demás que le confieran las leyes.
+
+###### ARTÍCULO 22.
+
+A la Secretaría de Planeación y Desarrollo Estatal le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Elaborar el Plan Estatal de Desarrollo y actualizarlo periódicamente, con la participación de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal;
+
+II. Elaborar el proyecto anual del Presupuesto de Egresos del Estado y someterlo a la consideración del Gobernador del Estado, del Poder Legislativo y del Judicial en la parte que a ellos corresponde;
+
+III. Diseñar, implementar y actualizar el sistema para el ejercicio presupuestal, asesorar y apoyar a las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, en la integración de sus programas específicos, con base en las políticas, objetivos y lineamientos que emita el Gobernador del Estado;
+
+IV. Autorizar los convenios o contratos que resulten de los programas de inversión del Estado, evaluando el cumplimiento de los mismos;
+
+V. Formular y proponer al Gobernador del Estado en coordinación con la Tesorería General del Estado, la celebración de convenios de coordinación con las dependencias y entidades de la administración pública federal y otras entidades federativas;
+
+VI. Diseñar, establecer, difundir y aplicar los criterios para la formulación, financiamiento y evaluación de los proyectos de inversión pública del Gobierno del Estado;
+
+VII. Formular, coordinar y autorizar los programas y presupuestos de inversión pública del Gobierno del Estado;
+
+VIII. Diseñar, establecer y aplicar los mecanismos de evaluación que requieran los programas de inversión pública estatal y federal convenidos, revisar el ejercicio del gasto público correspondiente y su congruencia con el Presupuesto de Egresos del Estado, en coordinación con la Secretaría de Contraloría y Desarrollo Administrativo;
+
+IX. Desarrollar, establecer, difundir y aplicar un sistema de seguimiento y evaluación del desempeño e impacto socioeconómico de los programas estatales;
+
+X. Orientar a las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
+
+XI. Representar al Gobierno del Estado ante el Comité de Planeación para el Desarrollo del Estado de Michoacán y fungir como Coordinador General del Organismo, en los términos del decreto correspondiente;
+
+XII. Coordinar e integrar en una programación con congruencia regional, las acciones que realice la administración pública estatal, centralizada y paraestatal, a través de sus diversas dependencias y entidades;
+
+XIII. Coordinar las acciones que la Federación y el Ejecutivo del Estado convengan con los gobiernos municipales para el desarrollo integral de las diversas regiones del Estado;
+
+XIV. Promover la construcción de la infraestructura y el equipamiento indispensables para el desarrollo de los municipios ejecutando las acciones que le correspondan;
+
+XV. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios, proyectos, obras, prestación de servicios públicos y en general cualquier propósito de beneficio común;
+
+XVI. Fortalecer el desarrollo en los municipios del Estado y mejorar la capacidad de gestión de las administraciones municipales;
+
+XVII. Participar en los comités, consejos y demás órganos de coordinación de la administración pública estatal, vinculados con la promoción del desarrollo municipal;
+
+XVIII. Proporcionar a los ayuntamientos cuando lo soliciten, asesoría y apoyo técnico para la elaboración de programas de inversión;
+
+XIX. Apoyar a los ayuntamientos a fin de que fortalezcan su capacidad administrativa y con ello estén en condiciones de que la Federación o el Estado les transfieran funciones o programas federales o estatales, así como los recursos financieros correspondientes, para que se consolide el proceso de descentralización;
+
+XX. Coordinar con las dependencias de la administración pública estatal y los ayuntamientos, la elaboración de los programas de capacitación para los servidores públicos municipales;
+
+XXI. Participar conjuntamente con la Tesorería General del Estado, en la evaluación anual del ejercicio del gasto público y del Presupuesto de Egresos del Estado, de acuerdo con las leyes de la materia;
+
+XXII. Integrar el inventario de programas, obras e inversiones que realicen en el Estado las dependencias y entidades de la Administración Pública Federal y Estatal, y obtener la información necesaria para la elaboración del informe de la administración pública estatal;
+
+XXIII. Establecer un sistema estatal de información, generar, procesar, presentar y difundir la información estadística y geográfica del Estado;
+
+XXIV. Elaborar, divulgar y actualizar los lineamientos y políticas para el desarrollo de la informática, vigilando se cumplan las normas técnicas mínimas de calidad y de seguridad en la materia y el adecuado mantenimiento a los sistemas informáticos de la administración pública estatal;
+
+XXV. Promover, normar y participar en los estudios para actualizar los sistemas e infraestructura de cómputo en las áreas administrativas y de servicios;
+
+XXVI. Proponer las medidas necesarias para estandarizar el uso de los bienes informáticos de todas las dependencias y entidades, en cuanto a personal, ubicación, equipo, recursos, sistemas y programas, así como para evaluar y poner en marcha un plan integral para la modernización del uso de tecnologías de información del Gobierno del Estado;
+
+XXVII. Las demás que le confieran las leyes.
+
+###### ARTÍCULO 23.
+
+A la Secretaría de Educación le corresponde, además de las atribuciones que expresamente le confiere la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, las siguientes:
+
+I. Planear, programar, desarrollar, supervisar y evaluar la educación a cargo del Estado, en todos los tipos y niveles, en los términos de las leyes de la materia;
+
+II. Proponer y ejecutar los convenios de coordinación que en materia educativa, científica y tecnológica celebre el Estado con la Federación y con los Municipios;
+
+III. Otorgar, negar o revocar autorizaciones a los particulares para impartir la educación primaria, secundaria, normal y demás niveles educativos, de conformidad con las leyes de la materia;
+
+IV. Expedir los certificados, otorgar las constancias, diplomas, revalidar los estudios, diplomas, grados o títulos equivalentes a la enseñanza que se imparta en el Estado, en los términos de la ley de la materia;
+
+V. Otorgar becas y subsidios de carácter educativo y gestionar ante las autoridades correspondientes su otorgamiento;
+
+VI. Integrar y mantener el registro de los planes y programas de estudio de las carreras profesionales y de los profesionistas en lo individual, de los colegios y asociaciones, llevando a cabo la vigilancia del ejercicio de su actividad;
+
+VII. Proponer al Gobernador del Estado los programas de difusión de la cultura, conservación e incremento del patrimonio artístico, y la promoción de actividades cívicas y sociales;
+
+VIII. Organizar espectáculos, exposiciones y cualquier evento que contribuya al esparcimiento y fortalecimiento de nuestra cultura;
+
+IX. Promover, coordinar y fomentar los programas educativos de salud pública y mejoramiento del ambiente aprobados para el Estado, y coordinar sus acciones con las autoridades federales y municipales para la realización de programas conjuntos;
+
+X. Promover y realizar en coordinación con las dependencias correspondientes, programas de capacitación técnica especializada en las ramas agropecuaria, industrial y de servicios;
+
+XI. Coordinar con las autoridades competentes la realización de campañas para prevenir y atacar la drogadicción y el alcoholismo en el Estado;
+
+XII. Difundir todos los géneros del arte y la cultura, la promoción de exposiciones y certámenes culturales;
+
+XIII. Fomentar y difundir las actividades artísticas y culturales entre los sectores de la población;
+
+XIV. Promover el intercambio cívico y cultural dentro y fuera del Estado; y,
+
+XV. Las demás que le confieran las leyes.
+
+###### ARTÍCULO 24.
+
+A la Secretaría de Salud le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Proponer y conducir la política estatal en materia de salud en los términos de la ley de la materia y demás disposiciones aplicables, de conformidad con la política del Sistema Nacional de Salud;
+
+II. Operar los programas, los servicios de salud y vigilancia sanitaria con sus respectivos procesos de planeación, programación, presupuestación, instrumentación, supervisión y evaluación;
+
+III. Coordinar los programas y servicios de salud de toda dependencia o entidad pública o privada, en los términos de las leyes de la materia y de los convenios de coordinación;
+
+IV. Asegurar en beneficio de la población:
+
+a) La adecuada organización y operación de los servicios de atención médica, materno infantil, planificación familiar, salud mental y educación para la salud;
+
+b) La orientación y vigilancia en materia de nutrición;
+
+c) La prevención y el control de los factores ambientales que puedan tener efectos en la salud humana;
+
+d) La salud ocupacional y el saneamiento básico;
+
+e) La prevención y el control de enfermedades transmisibles;
+
+f) La prevención y el control de enfermedades no transmisibles y accidentes;
+
+g) La prevención de la invalidez y la rehabilitación de los discapacitados;
+
+h) El programa contra el alcoholismo, el tabaquismo y las adicciones; y,
+
+i) Los programas de asistencia social en materia de salud.
+
+V. Promover, coordinar y realizar la evaluación de programas y servicios de salud que disponga el Gobernador del Estado;
+
+VI. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado;
+
+VII. Coordinar el proceso de programación y ejecución de las actividades en materia de salud en el Estado;
+
+VIII. Proponer a las dependencias competentes la asignación de los recursos que requieran los programas de salud;
+
+IX. Administrar los recursos que aporten tanto el Gobierno Federal como el Gobierno del Estado, conforme a las leyes de la materia;
+
+X. Impulsar las actividades científicas y tecnológicas en materia de salud;
+
+XI. Formar y capacitar recursos humanos en materia de su competencia y coadyuvar con otras dependencias y entidades para el mismo propósito;
+
+XII. Impulsar la participación ciudadana en la preservación de la salud;
+
+XIII. Normar, regular y fortalecer el desarrollo de los Servicios de Infraestructura de Salud; y,
+
+XIV. Las demás que le confieran las leyes.
+
+###### ARTÍCULO 25.
+
+A la Secretaría de Desarrollo Social le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Formular, fomentar y ejecutar políticas y programas generales para el desarrollo social con la participación ciudadana, que coadyuven al mejoramiento de las condiciones de vida de la población;
+
+II. Establecer los lineamientos generales y coordinar los programas específicos que en materia de su competencia se convengan con los municipios a través de la Secretaría de Planeación y Desarrollo Estatal;
+
+III. Establecer e instrumentar políticas y programas de apoyo, suministro y orientación en materia alimentaria, en coordinación con las dependencias de los diferentes niveles de gobierno;
+
+IV. Formular, fomentar, coordinar y ejecutar políticas y programas que promuevan la equidad y la igualdad de oportunidades y que eliminen los mecanismos de exclusión social de grupos de atención prioritaria;
+
+V. Promover y coordinar acciones y programas de combate a la pobreza que se ejecuten en el Estado;
+
+VI. Formular, fomentar, coordinar, ejecutar y vigilar la aplicación de políticas y programas de prevención y atención a grupos sociales altamente vulnerables;
+
+VII. Promover y fomentar en coordinación con el sistema para el desarrollo integral de la familia, acciones para prevenir y combatir la desintegración familiar;
+
+VIII. Vigilar que las instituciones de asistencia privada y sus patronatos cumplan con los ordenamientos jurídicos aplicables, con la coadyuvancia y en coordinación con la Junta de Asistencia Privada del Estado;
+
+IX. Proporcionar el servicio público de información, orientación, apoyo, asistencia médica, legal y psicológica a la población en general;
+
+X. Proponer, formular, instrumentar, evaluar y coordinar los programas de servicio social que le encomiende el Gobernador del Estado, con la participación de las dependencias y entidades federales, estatales y municipales, que por disposición de la ley o por convenio ejecuten acciones relacionadas con la materia;
+
+XI. Fomentar la participación de las organizaciones civiles y comunitarias, de las instituciones académicas y de investigación, y de la sociedad en general, en el diseño, instrumentación y operación de las políticas y programas que lleve a cabo;
+
+XII. Apoyar iniciativas y proyectos de la sociedad relacionados con las materias a su cargo;
+
+XIII. Definir las áreas o regiones territoriales del Estado que requieran atención inmediata, en materia de combate a la pobreza y marginación;
+
+XIV. Establecer los lineamientos y criterios para la evaluación de los programas sociales y acciones que realicen las unidades administrativas, sus órganos sectorizados y los gobiernos municipales, con los recursos federales, estatales y municipales relativos al desarrollo social;
+
+XV. Llevar a cabo estudios e investigaciones para la identificación de técnicas, metodologías y mecanismos de evaluación de los programas sociales;
+
+XVI. Colaborar en coordinación con las dependencias competentes, con los gobiernos municipales, mediante acciones de consulta, asesoría, asistencia técnica, capacitación y financiamiento que incidan en el desarrollo institucional, en materia de política social; y,
+
+XVII. Las demás que le confieran las leyes.
+
+###### ARTÍCULO 26.
+
+A la Secretaría de Desarrollo Económico le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Programar, desarrollar, dirigir, fomentar, coordinar y controlar en los términos de las leyes de la materia, la ejecución de las políticas y los programas para el desarrollo del Estado, relativos a las actividades industriales, comerciales, de abasto, de servicios, mineras y artesanales, así como promover estas mismas actividades a nivel nacional e internacional, procurando que invariablemente se preserve el equilibrio ecológico;
+
+II. Fomentar la creación de fuentes de empleo propiciando el establecimiento de la micro, pequeña y mediana industria, así como la creación de parques industriales y centros comerciales;
+
+III. Promover y fomentar la atracción de inversiones y coinversiones nacionales y extranjeras, con el fin de ampliar la planta productiva en la entidad;
+
+IV. Coordinar y organizar el Servicio Estatal de Empleo, a efecto de promover los servicios de asistencia técnica y capacitación, orientados al incremento de la calidad y productividad de las empresas;
+
+V. Apoyar y asesorar a los sectores, público, privado y social, en las gestiones de crédito y asistencia técnica que deban realizar ante las dependencias y organizaciones federales, cuando se trate de inversiones que contribuyan al fomento y desarrollo de la industria, turismo y del comercio;
+
+VI. Promover el desarrollo de la micro, pequeñas y medianas empresas, cooperativas y la organización de productores y prestadores de servicios;
+
+VII. Fomentar la generación y promoción de proyectos, así como los servicios y asistencia técnica y de capacitación para el desarrollo de empresas;
+
+VIII. Apoyar, fomentar y promover los programas de investigación y enseñanza tecnológica industrial, y la organización de los productores para facilitarles el acceso al crédito y a la tecnología, así como mejorar los sistemas de producción y comercialización;
+
+IX. Desarrollar y proponer esquemas de participación entre los sectores público, privado y social para concurrir de manera armónica en las propuestas de nuevos modelos de financiamiento para el desarrollo de proyectos productivos, y con ello se logre la generación de empleos;
+
+X. Coordinarse con las dependencias y entidades correspondientes de los gobiernos federal, estatal y municipales para lograr una simplificación de trámites en apoyo a la actividad industrial, comercial, minera, artesanal y de servicios;
+
+XI. Participar en la planeación y programación de las obras e inversiones tendientes a promover la racional explotación de los recursos minerales en el Estado;
+
+XII. Asesorar a entidades públicas y privadas que desarrollen actividades en el Estado en materias afines a su competencia;
+
+XIII. Proponer al Gobernador del Estado, los mecanismos y estímulos económico fiscales que faciliten el establecimiento de empresas cooperativas y otras formas de desarrollo y fomento económico;
+
+XIV. Proponer las medidas necesarias para la protección del comercio de primera mano en el Estado;
+
+XV. Coadyuvar en la organización y funcionamiento de centros de comercialización de productos básicos y actividades similares, para que toda la población acceda a ellos a los precios más bajos posibles, en coordinación con los sectores productivos y sociales y las dependencias competentes de la administración pública estatal;
+
+XVI. Promover la producción artesanal de las industrias familiares y proponer los estímulos necesarios para su desarrollo, así como la asociación y capacitación de los productores;
+
+XVII. Organizar y patrocinar congresos, seminarios, ferias, exposiciones y concursos, con alcance regional, nacional e internacional, sobre productos industriales, comerciales, mineros, de servicios, artesanales y pesqueros, con fines promocionales;
+
+XVIII. Fomentar en el medio rural en coordinación con la Secretaría de Desarrollo Agropecuario, la creación y el desarrollo de industrias y empresas;
+
+XIX. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial, comercial, minera, de servicios, artesanal, pesquero, de abasto y exportaciones, contengan los convenios celebrados con la Administración Pública Federal;
+
+XX. Evaluar conjuntamente con la Secretaría de Desarrollo Social, los programas de desarrollo económico y social del Estado y vigilar que sean integrales y armónicos, para que beneficien en forma equitativa a las diferentes regiones y a los distintos sectores de la población, revisando periódicamente los resultados obtenidos; y,
+
+XXI. Las demás que le confieran las leyes.
+
+###### ARTÍCULO 27.
+
+A la Secretaría de Turismo le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Programar, organizar, promover y coordinar proyectos, actividades e inversiones para desarrollar el potencial turístico del Estado, de acuerdo a los objetivos y metas del Plan Estatal de Desarrollo;
+
+II. Proponer al Gobernador del Estado, la celebración de convenios con la Federación y los Municipios, en materia turística;
+
+III. Proponer al Gobernador del Estado, la declaración de zonas turísticas y elaborar los proyectos de reglamentos correspondientes;
+
+IV. Controlar y supervisar de acuerdo con las leyes y reglamentos de la materia, los servicios turísticos de transporte, hospedaje, alimentación y similares que se presten en el Estado;
+
+V. Otorgar permisos y concesiones de acuerdo con la legislación, para la explotación y establecimiento de centros, zonas y lugares turísticos, así como negocios, guías y ayudas turísticas;
+
+VI. Elaborar y proponer al Gobernador del Estado, los estudios y proyectos de inversión, para la realización de los programas oficiales del sector turístico;
+
+VII. Instrumentar programas turísticos para beneficio de la población con menor posibilidad de acceso a este sector;
+
+VIII. Organizar y vigilar la adecuada prestación de los servicios de información, ayuda y protección al turista, así como promover y fomentar la preparación y actualización de los recursos humanos del sector;
+
+IX. Fomentar y mantener relaciones con organizaciones turísticas nacionales e internacionales, con el fin de dar a conocer los atractivos turísticos del Estado;
+
+X. Estimular la formación de organismos que tengan como objetivo fomentar el turismo en el Estado;
+
+XI. Coordinar las ediciones gubernamentales sobre información y difusión turística, y auxiliar a los organismos y empresas privadas que lo soliciten, en la preparación de materiales y difusión turística;
+
+XII. Promover e incrementar el desarrollo de actividades culturales y eventos tradicionales y folklóricos del Estado;
+
+XIII. Realizar una labor permanente de difusión de los centros y lugares turísticos, y de los valores culturales y naturales del Estado;
+
+XIV. Promover, proyectar, desarrollar y administrar los centros vacacionales y recreativos con que cuenta el Gobierno del Estado;
+
+XV. Intervenir conforme a la normatividad aplicable, en las actividades del fideicomiso administrador de los recursos financieros derivados de la recaudación del impuesto al hospedaje;
+
+XVI. Orientar y estimular las medidas de protección al turismo; y,
+
+XVII. Las demás que le confieran las leyes.
+
+###### ARTÍCULO 28.
+
+A la Secretaría de Desarrollo Agropecuario le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Elaborar y ejecutar los planes y programas estatales de desarrollo en materia agrícola y pecuaria, con la participación de los productores, y atendiendo a criterios de potencialidad en el uso de recursos, crear nuevas fuentes de ocupación, a efecto de elevar la productividad y mejorar los niveles de bienestar de la población;
+
+II. Participar en la planeación, programación, control, seguimiento y evaluación, de las obras e inversiones que promuevan el aprovechamiento sustentable de los recursos agropecuarios en el Estado;
+
+III. Fomentar y apoyar los programas de investigación agropecuaria, el desarrollo de la agricultura, ganadería, piscicultura, apicultura, avicultura, fruticultura, floricultura y divulgar las técnicas y sistemas que mejoren la producción en el sector;
+
+IV. Fomentar, promover, apoyar y coordinar, la organización de los productores, para facilitarles el acceso al crédito, la adopción de innovaciones tecnológicas, la comercialización adecuada de sus productos, y la mejora de los sistemas de producción y administración de sus recursos;
+
+V. Programar y promover en el medio rural la construcción y realización de obras públicas de pequeña irrigación, bordos, canales, tajos, abrevaderos y jagüeyes que le competa ejecutar al Gobierno Estatal, o en cooperación con los Gobiernos Federal y Municipales o con los particulares;
+
+VI. Proponer al Gobernador del Estado, la celebración de convenios, la realización de programas y acciones, con los Gobiernos Federal, Municipales y de otras Entidades Federativas, que fomenten el desarrollo en materia agropecuaria;
+
+VII. Promover la participación social en la realización de programas y acciones en el medio rural;
+
+VIII. Coordinar sus acciones con las autoridades federales, para lograr el mejor aprovechamiento de los recursos hidráulicos del Estado;
+
+IX. Vigilar la preservación de los recursos naturales renovables y desarrollar su potencial productivo;
+
+X. Realizar campañas permanentes para prevenir y combatir plagas y enfermedades que atacan las especies vegetales y animales en el Estado;
+
+XI. Vigilar la movilización de productos y subproductos agropecuarios en el Estado, por razones fitosanitarias y zoosanitarias;
+
+XII. Participar en la organización y patrocinio de ferias, exposiciones y concursos forestales, agrícolas, ganaderos, avícolas, apícolas y frutícolas en el Estado, en coordinación con las autoridades competentes;
+
+XIII. Fomentar, apoyar e impulsar la ampliación y mejoramiento operativo del seguro agrícola y ganadero;
+
+XIV. Fomentar la enseñanza de la actividad agropecuaria y de las demás actividades a su cargo, mediante la creación de escuelas, campos experimentales y centros de educación superior, en coordinación con las autoridades correspondientes;
+
+XV. Elaborar los estudios y proyectos de construcción y conservación de las obras públicas estatales en materia agropecuaria y realizarlos directamente o a través de terceros;
+
+XVI. Realizar directamente o a través de terceros, las obras públicas a cargo o convenidas por el Gobierno del Estado, que sean de su competencia;
+
+XVII. Participar en la vigilancia, prevención y combate de incendios, en el control del pastoreo en las zonas boscosas y en la realización de todas las labores de investigación, protección y repoblación que se estimen convenientes y necesarias para la conservación de los recursos forestales de la entidad y supervisar las que ejecuten los particulares en los términos de los convenios que se celebren con la Federación y los Municipios del Estado;
+
+XVIII. Fomentar en el medio rural la creación y el desarrollo de agroindustrias; y
+
+XIX. Las demás que le confieran las leyes.
+
+###### ARTÍCULO 29.
+
+A la Secretaría de Comunicaciones y Obras Públicas le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Coordinar la elaboración, ejecución, seguimiento y evaluación del Programa de Obra Pública del Gobierno del Estado, formulando sus estudios, proyectos y presupuestos;
+
+II. Elaborar los estudios y proyectos de construcción y conservación de las obras y edificios públicos estatales, de conformidad con lo dispuesto por la Ley de Obras Públicas del Estado de Michoacán de Ocampo y de sus Municipios;
+
+III. Coadyuvar con la Secretaría de Contraloría y Desarrollo Administrativo, en el establecimiento y expedición de las bases y normas a las que deben sujetarse los concursos para la ejecución de las obras públicas y servicios relacionados que realice el Gobierno del Estado;
+
+IV. Ejecutar las obras públicas convenidas por el Gobierno del Estado, que no sean de la competencia de otra dependencia;
+
+V. Promover lo conducente a efecto de que el Estado cuente con los servicios públicos necesarios en materia de comunicaciones;
+
+VI. Proporcionar los servicios públicos de telecomunicaciones que correspondan al Estado y dar cumplimiento a los convenios celebrados en la materia;
+
+VII. Planear, programar y presupuestar la construcción, conservación, mantenimiento y modernización de las carreteras, puentes, caminos vecinales y demás vías de comunicación terrestre del Estado;
+
+VIII. Definir, conservar, supervisar, promover y desarrollar las vías estatales de comunicación;
+
+IX. Construir y conservar en buen estado las carreteras, caminos vecinales, aeropistas y demás vías de jurisdicción estatal;
+
+X. Asesorar y apoyar a las autoridades municipales en la elaboración de estudios y proyectos del servicio de agua potable, alcantarillado y saneamiento;
+
+XI. Auxiliar a las autoridades municipales en la operación y organización administrativa de los sistemas de agua potable, alcantarillado y saneamiento, procurando la autosuficiencia técnica y financiera de los mismos;
+
+XII. Coadyuvar con la Secretaría de Urbanismo y Medio Ambiente, en la conservación del patrimonio histórico y cultural, en coordinación con las autoridades federales, estatales y municipales;
+
+XIII. Adjudicar y vigilar el cumplimiento de los contratos de obra pública y servicios relacionados de su competencia;
+
+XIV. Formular y proponer al Gobernador del Estado, la celebración de convenios de coordinación con los municipios para la realización de obras públicas;
+
+XV. Programar y promover la construcción y realización de obras públicas de pequeña irrigación, bordos, canales, tajos, abrevaderos y jagüeyes que competa ejecutar al Gobierno Estatal, o en cooperación con los Gobiernos Federal o Municipales o con los particulares;
+
+XVI. Ejecutar los programas de infraestructura educativa para la construcción de espacios educativos en el Estado, en los niveles básico, normal, medio superior y medio terminal;
+
+XVII. Proyectar y construir los centros vacacionales y recreativos del Gobierno del Estado; y
+
+XVIII. Las demás que le confieran las leyes.
+
+###### ARTÍCULO 30.
+
+A la Secretaría de Urbanismo y Medio Ambiente le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Aplicar y vigilar el cumplimiento de las disposiciones de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Michoacán, ejercer las atribuciones conferidas en la Ley de Desarrollo Urbano del Estado de Michoacán de Ocampo y en las normas federales que incidan en este ámbito de competencia del Estado;
+
+II. Elaborar, ejecutar, revisar y difundir los planes y programas estatales de protección al medio ambiente, desarrollo urbano y ordenamiento territorial e instrumentos relacionados en el marco del Plan Estatal de Desarrollo;
+
+III. Formular, conducir, evaluar y difundir las políticas ambientales de desarrollo urbano y ordenamiento territorial del Estado;
+
+IV. Conservar, preservar, restaurar y proteger los ecosistemas de jurisdicción estatal, en las materias que no estén expresamente reservadas a la federación;
+
+V. Prevenir, controlar y corregir la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales y por fuentes móviles que no sean de competencia de la federación;
+
+VI. Regular las actividades que se consideren de bajo riesgo para el ambiente, de conformidad con las atribuciones que otorga al Estado la Ley General del Equilibrio Ecológico y Protección al Ambiente;
+
+VII. Establecer, delimitar, regular, administrar, difundir y vigilar las áreas naturales protegidas previstas en la ley de la materia, con la participación de los Gobiernos Municipales;
+
+VIII. Regular y vigilar los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos e industriales, que no se consideren como peligrosos para el ambiente, de conformidad con lo dispuesto en la Ley General del Equilibrio Ecológico y Protección al Ambiente;
+
+IX. Prevenir y controlar la contaminación generada por la emisión de ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, provenientes de fuentes fijas que funcionen como establecimientos industriales y de fuentes móviles que no sean competencia de la federación;
+
+X. Prevenir y controlar la contaminación de las aguas de jurisdicción estatal, las aguas nacionales que estén asignadas al Estado, y regular el aprovechamiento sustentable;
+
+XI. Formular, fomentar, coordinar y ejecutar programas y acciones de ordenamiento ecológico y territorial del Estado;
+
+XII. Prevenir y controlar la contaminación generada por el aprovechamiento de las sustancias no reservadas a la federación, que constituyan depósitos de naturaleza similar a los componentes de estos suelos, que sólo puedan utilizarse para la fabricación de materiales de construcción u ornamento de obras;
+
+XIII. Asesorar y proponer políticas, programas y acciones, para asuntos que afecten al equilibrio ecológico o al ambiente de regiones que comprendan dos o más municipios;
+
+XIV. Participar y coadyuvar en las emergencias y contingencias ambientales conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+XV. Vigilar el cumplimiento de las Normas Oficiales Mexicanas en materia ambiental y las derivadas de las leyes y reglamentos de jurisdicción estatal;
+
+XVI. Realizar tareas de divulgación y participación ciudadana en materia ambiental y de desarrollo urbano;
+
+XVII. Promover en coordinación con las Secretarías de Educación y Desarrollo Social, la incorporación de contenidos ambientales, en la política educativa del Estado y en los planes y programas de estudio, encausadas hacia el desarrollo sustentable del Estado;
+
+XVIII. Participar con los municipios en el ámbito de su competencia y atribuciones, en la evaluación y dictaminación del impacto ambiental de obras, acciones y servicios que se proyecten ejecutar en el Estado, de conformidad con las normas oficiales mexicanas y las leyes de la materia;
+
+XIX. Expedir las autorizaciones para obras, acciones y servicios que de conformidad con lo dispuesto en la Ley General del Equilibrio Ecológico y Protección al Ambiente, sean de competencia estatal;
+
+XX. Emitir recomendaciones en materia ambiental a las autoridades estatales y municipales con el propósito de coadyuvar y facilitar el cumplimiento de las leyes de la materia;
+
+XXI. Asesorar a los municipios, comunidades, ejidos y pueblos indígenas, sobre el manejo y vigilancia de las áreas naturales protegidas, y para la realización de programas y acciones tendientes a cumplir y vigilar el cumplimiento de los fines previstos en la ley de la materia;
+
+XXII. Vigilar, supervisar y evaluar el cumplimiento y aplicación de las disposiciones legales en materia de desarrollo urbano;
+
+XXIII. Formular, instrumentar y difundir conjuntamente con los municipios y dependencias que corresponda, el Programa Estatal de Desarrollo Urbano, los programas de ordenación y regulación de zonas conurbadas y los que de ellos se deriven, dándoles seguimiento, vigilando y evaluando su cumplimiento conforme al Sistema Estatal de Desarrollo Urbano;
+
+XXIV. Fomentar, asesorar y apoyar a las autoridades municipales que lo soliciten en la formulación, ejecución, evaluación y actualización de los programas de desarrollo urbano municipales, de ordenación y regulación de zonas conurbadas, de los centros de población y los que de ellos se deriven;
+
+XXV. Fomentar y participar en la constitución y administración de reservas territoriales en el Estado, coadyuvando con las autoridades federales y municipales en la regularización de la tenencia de la tierra urbana, así como en la protección del patrimonio cultural y del equilibrio ecológico de los centros de población;
+
+XXVI. Inducir el desarrollo urbano ordenado a través de la incorporación de suelo en los centros de población, en coordinación con los municipios y las correspondientes dependencias y entidades de la Administración Pública Federal y Estatal;
+
+XXVII. Emitir opinión técnica ante los ayuntamientos respectivos sobre el proyecto de vías públicas en los centros de población que incidan en la vialidad e imagen urbana;
+
+XXVIII. Coordinar de acuerdo con las políticas, lineamientos, normas y mecanismos que al efecto se establezcan, el Programa Estatal de Vivienda y su ejecución, en la forma que se acuerde con el Gobierno Federal, los organismos descentralizados, los Municipios del Estado y los sectores social y privado;
+
+XXIX. Emitir opinión técnica y legal, y apoyar a solicitud de los ayuntamientos, en las regularizaciones de los fraccionamientos de interés social y popular de urbanización progresiva que realicen los grupos organizados, previo cumplimiento de los requisitos que señala la ley de la materia;
+
+XXX. Establecer dentro del ámbito de su competencia, las políticas, normas técnicas y procedimientos constructivos, la vigilancia y aplicación para la conservación, rescate o restauración de monumentos y sitios de carácter histórico patrimonial;
+
+XXXI. Estudiar, planear y controlar el servicio público de autotransporte de pasajeros y de carga de jurisdicción estatal;
+
+XXXII. Establecer la vialidad del transporte en el estado, así como participar en la elaboración de los reglamentos y en la determinación de las políticas de la materia;
+
+XXXIII. Otorgar permisos y concesiones para la prestación de servicios de autotransporte en las carreteras estatales, caminos vecinales y demás vías de jurisdicción estatal, en los términos de la ley de la materia;
+
+XXXIV. Formular los estudios y proyectos de construcción y conservación de los servicios públicos de su competencia;
+
+XXXV. Coadyuvar con la Secretaría de Contraloría y Desarrollo Administrativo, en la proposición de las bases a que deben sujetarse los concursos para la ejecución de servicios públicos y obras publicas de su competencia;
+
+XXXVI. Prestar directamente o a través de terceros las acciones, obras y servicios públicos de su competencia, convenidos por el Gobierno del Estado;
+
+XXXVII. Proponer al Gobernador del Estado la celebración de convenios con la Federación, entidades federativas y municipios del estado, con los sectores social y privado en materia de acciones e inversiones para el desarrollo urbano, mejoramiento de la imagen urbana, protección del patrimonio cultural y el aprovechamiento del territorio estatal de manera sustentable; y
+
+XXXVIII. Las demás que le confieran las leyes.
+
+###### ARTÍCULO 31.
+
+A la Secretaría de Contraloría y Desarrollo Administrativo le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Programar, promover, organizar y coordinar el desarrollo, modernización y simplificación administrativa integral en las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, a fin de que los recursos humanos, materiales, financieros y los procedimientos técnicos, sean aprovechados y aplicados con criterios de honestidad, eficacia, eficiencia, austeridad y racionalidad; para lo que podrá realizar o encomendar investigaciones, estudios y análisis necesarios sobre estas materias, y dictar las disposiciones administrativas necesarias al efecto;
+
+II. Coordinar la formulación y actualización permanente del programa de calidad, a fin de que en las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, los servidores públicos adquieran una nueva cultura de profesionalización, de trabajo eficiente y eficaz centrado en el servicio adecuado al ciudadano y con una determinación de mejora continua;
+
+III. Revisar las bases a que deben sujetarse las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, en las licitaciones para la adjudicación de adquisiciones, arrendamientos, servicios, obras públicas, y vigilar su cumplimiento;
+
+IV. Organizar, coordinar y vigilar el sistema de control gubernamental, evaluar en coordinación con la Tesorería General y la Secretaría de Planeación y Desarrollo Estatal, el avance y ejecución de los programas de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal;
+
+V. Fijar las normas de control, evaluación, fiscalización, contabilidad y auditoría, que deben observar las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, vigilar su cumplimiento y prestarles el apoyo y asesoramiento que éstas le soliciten;
+
+VI. Establecer lineamientos y bases generales para la realización de auditorías a las dependencias y entidades de la administración pública estatal, centralizada y paraestatal;
+
+VII. Vigilar el debido ejercicio del gasto público y su congruencia con el presupuesto de egresos, llevando a cabo revisiones, auditorías y peritajes, con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas;
+
+VIII. Comprobar el cumplimiento por parte de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores al cuidado del Gobierno del Estado;
+
+IX. Vigilar y supervisar directamente, o a través de los órganos de control internos, que las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+
+X. Vigilar, por sí o en coordinación con las autoridades federales competentes, que se cumplan en todos sus términos las disposiciones de los acuerdos y convenios celebrados entre la Federación y el Estado, que deriven de las inversiones de fondos federales en la entidad, supervisando la correcta aplicación de los mismos;
+
+XI. Vigilar el correcto cumplimiento de la inversión de fondos estatales, en los convenios de coordinación que el Estado celebre con los Municipios de la entidad;
+
+XII. Dar seguimiento a los resultados de las revisiones, inspecciones, fiscalizaciones, evaluaciones y auditorías practicadas en las dependencias o entidades de la administración pública estatal, centralizada y paraestatal, en forma directa por parte de los órganos de control o por conducto de auditores externos, a fin de asegurar que se corrijan las deficiencias detectadas;
+
+XIII. Informar al Gobernador del Estado, sobre el resultado de las evaluaciones y revisiones a las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, y turnar el resultado, cuando proceda, a las autoridades competentes o dictar las acciones para corregir las irregularidades;
+
+XIV. Designar a los auditores externos de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal a los comisarios o a sus equivalentes en los órganos de gobierno, normando y controlando su desempeño;
+
+XV. Coadyuvar con la Contaduría General de Glosa para el establecimiento de los procedimientos que les permitan el cumplimiento de sus responsabilidades;
+
+XVI. Coordinarse con las dependencias públicas federales competentes para el control y evaluación de los recursos, que el Ejecutivo Federal transfiera al Estado para su ejercicio;
+
+XVII. Registrar las declaraciones patrimoniales que deben presentar los servidores de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, y practicar las investigaciones que fueren pertinentes;
+
+XVIII. Atender las quejas y denuncias que sobre el desempeño de los servidores públicos, presenten los ciudadanos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán;
+
+XIX. Conocer e investigar las conductas de los servidores públicos que puedan constituir responsabilidades administrativas, y aplicar las sanciones que correspondan en los términos de ley;
+
+XX. Establecer las normas, lineamientos y controles para la entrega y recepción de los asuntos, bienes y valores propiedad o al cuidado del Gobierno del Estado, a cargo de servidores públicos, hasta el nivel y puesto que determine, en las dependencias y entidades de la administración pública estatal, centralizada y paraestatal;
+
+XXI. Vigilar y supervisar la entrega y recepción que se haga de los asuntos y bienes inventariados, en la toma de posesión de los titulares de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal; y
+
+XXII. Las demás que le confieran las leyes.
+
+###### ARTÍCULO 32.
+
+A la Tesorería General le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Elaborar y proponer al Gobernador del Estado, los proyectos de leyes, reglamentos y demás disposiciones, que se requieran para el manejo de los asuntos financieros y fiscales;
+
+II. Dictar las políticas, normas y lineamientos relacionados con el manejo de fondos y valores de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, y custodiar los documentos que constituyan valores, acciones y demás derechos que formen parte del patrimonio del Estado;
+
+III. Ejecutar y controlar el ejercicio del presupuesto del Gobierno del Estado, en materia de gasto corriente con base en los programas y presupuestos elaborados por la Secretaría de Planeación y Desarrollo Estatal, para cada una de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, de conformidad con las políticas, objetivos y lineamientos establecidos por el Gobernador del Estado;
+
+IV. Emitir los lineamientos que en materia contable deben observar las dependencias y entidades de la administración pública estatal, centralizada y paraestatales, en coordinación con la Secretaría de Contraloría y Desarrollo Administrativo;
+
+V. Vigilar que los funcionarios y empleados al servicio del Estado, que manejen fondos públicos, otorguen fianza que garantice debidamente su manejo;
+
+VI. Mantener el control, registro y seguimiento de la deuda pública del Gobierno del Estado, que permita vigilar su adecuado cumplimiento, informando al Gobernador del Estado periódicamente sobre el estado de la deuda pública, de las amortizaciones de capital y pago de intereses;
+
+VII. Llevar el control y seguimiento de la deuda pública contratada por los municipios y sus entidades paramunicipales, cuando estos cuenten con la responsabilidad solidaria del Gobierno del Estado;
+
+VIII. Intervenir en todas las operaciones en que el Estado haga uso del crédito público;
+
+IX. Efectuar los pagos de acuerdo a los programas y presupuestos aprobados;
+
+X. Emitir o autorizar, según el caso, los catálogos de cuentas para la contabilidad del gasto público del Estado, en coordinación con la Secretaría de Contraloría y Desarrollo Administrativo;
+
+XI. Organizar y mantener la contabilidad de la Hacienda Pública Estatal y formular las estadísticas financieras;
+
+XII. Formular mensualmente el estado de origen y aplicación de los fondos públicos del Gobierno del Estado;
+
+XIII. Formular los informes trimestrales de los ingresos y ejercicio del gasto;
+
+XIV. Formular la cuenta pública que debe rendir el Gobernador del Estado, en los términos de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
+
+XV. Proponer al Gobernador del Estado, la cancelación de créditos incobrables;
+
+XVI. Participar en el establecimiento de los criterios y montos de los estímulos fiscales, en coordinación con las dependencias a quienes corresponde el fomento de actividades productivas;
+
+XVII. Atender las observaciones emitidas por el Congreso del Estado, a través de la Contaduría General de Glosa;
+
+XVIII. Elaborar los proyectos anuales de Ley de Ingresos del Gobierno del Estado y someterlos a la consideración del Gobernador del Estado, en su caso, el proyecto de ley de ingresos para su aplicación en aquellos Municipios del Estado cuyos ayuntamientos no presenten sus iniciativas, conforme a la ley;
+
+XIX. Controlar las actividades de todas sus oficinas recaudadoras;
+
+XX. Recaudar los impuestos, derechos, productos, aprovechamientos, contribuciones especiales y demás conceptos que al Gobierno del Estado correspondan, tanto por ingresos propios como los que por ley o convenios reciba de la Federación y de los Municipios;
+
+XXI. Ejercer las atribuciones y funciones que en materia de administración fiscal federal y municipal contengan los convenios respectivos;
+
+XXII. Integrar y mantener actualizado el registro de contribuyentes que establezcan las leyes fiscales del Estado;
+
+XXIII. Ordenar y practicar visitas de auditoría a los contribuyentes;
+
+XXIV. Imponer y en su caso, condonar las multas por infracciones a las leyes y demás disposiciones fiscales aplicables;
+
+XXV. Ejercer la facultad económico coactiva, conforme a las leyes;
+
+XXVI. Ejercer la función catastral del Estado de conformidad con las leyes de la materia;
+
+XXVII. Proporcionar asesoría en materia de interpretación y aplicación de las leyes fiscales estatales que le sea solicitada por las dependencias, por las entidades, empresas del Estado y por los contribuyentes, y realizar una labor permanente de difusión, orientación y asistencia fiscal;
+
+XXVIII. Coadyuvar en la formulación del programa general de obras del Gobierno del Estado;
+
+XXIX. Formular y proponer al Gobernador del Estado, en coordinación con la Secretaría de Planeación y Desarrollo Estatal, la celebración de convenios de coordinación con las dependencias y entidades de la Administración Pública Federal y con los Municipios, tendientes a la realización de obras, prestación de servicios públicos y en general cualquier propósito de beneficio común;
+
+XXX. Conjuntamente con la Secretaría de Planeación y Desarrollo Estatal, participar en la evaluación del ejercicio del gasto público y del Presupuesto de Egresos del Estado, de acuerdo con las leyes de la materia;
+
+XXXI. Intervenir en los juicios y procedimientos que se ventilen ante cualquier tribunal o autoridad competente, cuando lo disponga la ley o tenga interés la Hacienda Pública del Estado y su atención no corresponda a otra dependencia;
+
+XXXII. Proporcionar a solicitud de parte, la asistencia técnica que requieran los municipios para la ejecución de sus programas de mejoramiento administrativo;
+
+XXXIII. Intervenir conjuntamente con la Secretaría de Planeación y Desarrollo Estatal y demás dependencias que correspondan, en la suscripción de los actos o convenios que se celebren con relación a los programas de inversión de la administración pública estatal; y,
+
+XXXIV. Las demás que le confieran las leyes.
+
+###### ARTÍCULO 33.
+
+A la Oficialía Mayor le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Vigilar el cumplimiento de las disposiciones jurídicas que rijan las relaciones entre el Gobierno del Estado y sus trabajadores;
+
+II. Contratar, controlar, disciplinar y coadyuvar en la selección y capacitación del personal de la administración pública estatal, proponer los sueldos y salarios, fijar los estímulos y demás prestaciones que deban percibir los trabajadores al servicio del Estado;
+
+III. Elaborar y difundir los acuerdos e instructivos derivados de las condiciones generales de trabajo y vigilar su cumplimiento;
+
+IV. Tramitar los nombramientos, remociones, renuncias, licencias, pensiones y jubilaciones de los funcionarios y empleados del Poder Ejecutivo;
+
+V. Ejecutar los acuerdos relativos a la creación de nuevas unidades administrativas que requieran las dependencias del Ejecutivo;
+
+VI. Elaborar y mantener actualizado el escalafón de los trabajadores del Poder Ejecutivo y del magisterio dependiente del Estado;
+
+VII. Tramitar la prestación de servicios médicos, asistenciales, sociales y culturales para el personal al servicio del Gobierno del Estado, a través de instituciones de seguridad social o de instituciones privadas;
+
+VIII. Ejecutar los acuerdos, de los titulares de las dependencias, relativos a la aplicación, reducción y revocación de las sanciones administrativas, en los términos de las disposiciones aplicables;
+
+IX. Coadyuvar con la Secretaría de Planeación y Desarrollo Estatal y la Tesorería General, en la formulación del programa general de gasto e inversión pública estatal;
+
+X. Vigilar la observancia del Calendario Oficial Cívico del Estado;
+
+XI. Organizar y promover los actos cívicos señalados en el Calendario Oficial;
+
+XII. Adquirir y proveer con oportunidad a las dependencias de la administración pública estatal, de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones;
+
+XIII. Contratar y administrar los seguros del Gobierno del Estado;
+
+XIV. Celebrar los contratos necesarios para el cumplimiento de sus funciones;
+
+XV. Establecer y mantener actualizado el registro de bienes muebles e inmuebles propiedad del Estado y asegurar su conservación;
+
+XVI. Organizar, dirigir y controlar la intendencia de las dependencias de la administración pública estatal;
+
+XVII. Organizar y controlar la recepción, despacho y archivo de la correspondencia oficial;
+
+XVIII. Organizar y administrar el Archivo General del Estado;
+
+XIX. Organizar y administrar el Archivo del Poder Ejecutivo;
+
+XX. Organizar, supervisar y acreditar el servicio social de pasantes; y
+
+XXI. Las demás que le confieran las leyes.
+
+###### ARTÍCULO 34.
+
+A la Procuraduría General de Justicia del Estado, le corresponde ejercer las atribuciones conferidas por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, la Ley Orgánica de la Procuraduría General de Justicia del Estado, su Reglamento y demás disposiciones legales aplicables.
+
+###### ARTÍCULO 35.
+
+Las dependencias de la administración pública estatal centralizada, además de las atribuciones que expresamente les señala esta ley, tendrán las siguientes:
+
+I. Ejercer, en el ámbito de su competencia, las que se deriven de convenios celebrados por el Gobernador del Estado o sus titulares;
+
+II. Administrar los recursos humanos, técnicos, financieros y materiales que se les asignen;
+
+III. Proporcionar en el ámbito de su competencia por disposición legal o a solicitud de parte, la asesoría que requieran los Municipios; y,
+
+IV. Hacer del conocimiento de la Secretaría de Contraloría y Desarrollo Administrativo, las conductas de los servidores públicos de su dependencia, que puedan constituir responsabilidad administrativa, para efectos de la aplicación, en su caso, de las sanciones que correspondan en los términos de ley.
+
+###### ARTÍCULO 36.
+
+La Junta Local de Conciliación y Arbitraje, es un tribunal administrativo con plena autonomía jurisdiccional, que imparte la justicia laboral en los términos de la competencia que le atribuye el artículo 123, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones aplicables.
+
+Las juntas especiales que la integran gozan de autonomía para dictar sus resoluciones, sin perjuicio de las atribuciones que corresponden por ley al Pleno y al Presidente de la Junta Local de Conciliación y Arbitraje.
+
+En lo administrativo, la Junta Local de Conciliación y Arbitraje, dependerá directamente de la Secretaría de Gobierno, la que atenderá las cuestiones relativas a los recursos materiales y humanos que requiera.
+
+El nombramiento y remoción del Presidente de la Junta Local de Conciliación y Arbitraje y de los Presidentes de las Juntas Especiales, corresponden libremente al Gobernador del Estado.
+
+## TÍTULO TERCERO. De la Administración Pública Paraestatal
+
+### CAPÍTULO ÚNICO. De la Administración Pública Paraestatal
+
+###### ARTÍCULO 37.
+
+La Administración Pública Paraestatal se integra por:
+
+I. Organismos públicos descentralizados;
+
+II. Empresas de participación estatal;
+
+III. Fideicomisos; y,
+
+IV. Los que se establezcan conforme a la ley de la materia.
+
+Son organismos descentralizados las entidades creadas por ley o decreto del Poder Legislativo o por decreto administrativo del Poder Ejecutivo, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten.
+
+Son Empresas de Participación Estatal mayoritaria las sociedades de cualquier naturaleza en las que el Gobierno del Estado, o una o más de sus entidades paraestatales tenga participación mayoritaria.
+
+Son Fideicomisos los contratos que celebre el Gobierno del Estado, destinando ciertos bienes a un fin lícito determinado, encomendando su realización a una institución fiduciaria.
+
+###### ARTÍCULO 38.
+
+Las entidades de la administración pública paraestatal, se integrarán, organizarán, y regirán por las disposiciones de la ley de la materia y conforme al decreto, acuerdo o acto jurídico de constitución que les dé origen.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los cinco días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Estado, de fecha 2 de diciembre de 1996, y se derogan sus posteriores reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones en lo que se opongan a la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+Las transferencias que por motivo de esta ley deban realizarse de una dependencia a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como las transferencias de recursos humanos y de los activos patrimoniales tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general, el equipo que la dependencia haya utilizado para los asuntos a su cargo. Los derechos laborales del personal que en virtud de lo dispuesto en la presente ley, pase de una dependencia a la otra, se respetarán conforme a la ley.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que con motivo de esta ley, deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los despachen se incorporen a la dependencia que señale el mismo, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por las dependencias que los venían despachando.
+
+###### ARTÍCULO SEXTO.
+
+El Gobernador del Estado, por conducto de la Secretaría de Gobierno, Oficialía Mayor, Tesorería General y la Secretaría de Contraloría y Desarrollo Administrativo, con la participación de las Secretarías correspondientes, serán responsables directos y deberán concluir aquellas adecuaciones presupuestarias y traspasos de personas, recursos materiales y financieros, así como activos patrimoniales, en un plazo no mayor de noventa días, a partir de la entrada en vigor de la presente ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando en esta ley se dé una denominación nueva o distinta a alguna dependencia cuyas funciones o asuntos estén establecidas en la ley que se abroga, dichas atribuciones o despacho de asuntos se entenderán concedidas a la dependencia que determine esta ley y demás disposiciones relativas.
+
+###### ARTÍCULO OCTAVO.
+
+Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías cuyas funciones se reforman por virtud de esta ley, se entenderán referidas a las dependencias que respectivamente asuman tales funciones.
+
+###### ARTÍCULO NOVENO.
+
+Hasta en tanto no se emitan los reglamentos interiores de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, seguirán aplicándose los anteriores siempre y cuando no se contrapongan a lo dispuesto en la presente ley.
+
+El Ejecutivo del Estado dispondrá se publique y observe.
+
+PALACIO DEL PODER LEGISLATIVO, Morelia, Michoacán., a 11 de abril de 2002.
+
+DIPUTADO PRESIDENTE.- LUIS PATIÑO POZAS.- DIPUTADO SECRETARIO.- RAYMUNDO ARREOLA ORTEGA.- DIPUTADO SECRETARIO.- ELESBAN APARICIO CUIRIZ. (Firmados).
+
+En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 11 once días del mes de abril del año 2002 dos mil dos.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- MTRO. LEONEL GODOY RANGEL. (Firmados).
