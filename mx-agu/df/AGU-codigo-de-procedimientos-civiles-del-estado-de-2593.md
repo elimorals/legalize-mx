@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "1995-05-14"
+last_updated: "1997-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1997.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -3415,11 +3415,11 @@ La demanda deberá contestarse negándola, confesándola u oponiendo excepciones
 
 Las excepciones dilatorias, cualesquiera que fueren, así como los incidentes, se resolverán precisamente en la Audiencia de Juicio, antes de proceder al desahogo de las pruebas pendientes.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 560-C.
 
-Contestada la demanda o transcurrido el término para ello, a petición de parte o de oficio, se recibirá el Juicio a prueba, salvo lo dispuesto por el Artículo 560-A, señalándose un término de tres días para que las partes las ofrezcan.
+Contestada la demanda o transcurrido el término para ello, a petición de parte o de oficio, se recibirá el juicio a prueba, salvo lo dispuesto por el Artículo 560-A, señalándose un término de seis días para que las partes las ofrezcan.
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 1995)</small>
 
@@ -5442,3 +5442,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 14 DE MAYO DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
