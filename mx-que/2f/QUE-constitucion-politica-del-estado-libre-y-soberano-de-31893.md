@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1985-12-26"
+last_updated: "1987-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 1985.
+ÚLTIMA REFORMA PUBLICADA EN EL PERÍODICO OFICIAL: 23 DE ABRIL DE 1987.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -1731,11 +1731,11 @@ Esta Constitución se publicará con la mayor solemnidad, y comenzará a regir e
 
 El Estado de Querétaro Arteaga es parte integrante de la Federación Mexicana. Es Libre y Soberano en lo que se refiere a su régimen interior, y sólo delega sus facultades en los Supremos Poderes Federales, para el bien procomunal de la Nación, en todos aquellos puntos que ha fijado o fije expresamente la Constitución Política de los Estado Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1974)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1987)</small>
 
 ###### Art. 2º.
 
-El territorio del Estado se divide en 18 Municipios que son: Amealco, Arroyo Seco, Cadereyta de Montes, Colón, Corregidora, Jalpan de Serra, Pinal de Amoles, Querétaro, San Juan del Río, Tequisquiapan, Toliman, El Marques, Pedro Escobedo, Huimilpan, San Joaquín, Landa de Matamoros, Ezequiel Montes y Peñamiller.
+El territorio del Estado se divide en 18 Municipios que son: Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Corregidora, Jalpan de Serra, Pinal de Amoles, Querétaro, San Juan del Río, Tequisquiapan, Toliman, El Marques, Pedro Escobedo, Huimilpan, San Joaquín, Landa de Matamoros, Ezequiel Montes y Peñamiller.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -2036,3 +2036,13 @@ Aprobada, en su caso la reforma propuesta al texto de la Constitución Política
 ###### ARTICULO TERCERO.
 
 Para los efectos de esta Ley, la Legislatura nombrará, en un término no mayor de quince días, a los dos magistrados Propietarios y a los dos Supernumerarios con los cuales se integrará el Tribunal Superior de Justicia, en la inteligencia de que durarán en su cargo hasta el 30 de septiembre de 1988, según lo previsto por el Artículo 105 de la Constitución Política del Estado.
+
+P.O. 23 DE ABRIL DE 1987
+
+###### ARTICULO PRIMERO.
+
+Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en los cartelones que señala el artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los Ayuntamientos de los Municipios de la Entidad para los efectos de lo previsto en el Artículo 163 de la Ley Suprema Invocada.
+
+###### ARTICULO SEGUNDO.
+
+Aprobadas, en su caso las reformas propuestas al texto constitucional, la presente Ley entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Estado, de la declaratoria que al respecto emita el Congreso del Estado.
