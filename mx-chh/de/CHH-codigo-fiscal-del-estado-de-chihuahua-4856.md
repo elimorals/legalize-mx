@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1995-02-18"
+last_updated: "1995-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1995.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1277,6 +1277,8 @@ El correspondiente a años anteriores, se comprobará con las copias de las mani
 
 111.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA, PUBLICADA EN P.O. 18 DE NOVIEMBRE DE 1995, LAS DISPOSICIONES DE LA PRESENTE SECCION SERAN APLICABLES DE MANERA SUPLETORIA, HASTA EN TANTO SE EXPIDA EL REGLAMENTO DE LA LEY EN MENCION.</small>
+
 ### CAPITULO IV. IMPUESTO SOBRE NOMINAS
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
@@ -1689,7 +1691,7 @@ VIII.- Naturaleza y valor de la operación;
 
 IX.- Fecha del otorgamiento y autorización de la escritura;
 
-X.- Nombre y numero del Notario o autoridad ante quien se celebre el contrato u operación.
+X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u operación.
 
 131.- Toda construcción, ampliación o modificación de la construcción ya existente, deberá ser manifestada por el sujeto del impuesto a la Tesorería General del Estado, en las formas que para el caso autorice la misma, dentro de los 15 días siguientes al de la terminación de la obra realizada.
 
@@ -4394,3 +4396,19 @@ El presente Decreto entrará en vigor a partir del día 1ero. de enero de 1995.
 ###### ARTICULO SEGUNDO.
 
 Las cantidades mencionadas en este Decreto, se refieren a pesos de 1995.
+
+P.O. 18 DE NOVIEMBRE DE 1995.
+
+Artículo Primero.- Esta ley entrará en vigor el día primero de enero de 1996, con excepción de lo dispuesto en el párrafo segundo del artículo 24, el cual entrará en vigor el primero de enero de 1997.
+
+Artículo Segundo. Las Disposiciones de el Código Fiscal del Estado de Chihuahua en su Libro Primero, Título tercero, Capítulo I, Sección Sexta, serán aplicables de manera supletoria, hasta en tanto se expida el Reglamento de la presente Ley.
+
+Artículo Tercero. En el Reglamento que se expida para regular las funciones del Comité Técnico de Apoyo al Catastro, se preverá la constitución de (sic) Instituto Estatal del Catastro.
+
+Artículo Cuarto. El Reglamento a que se refiere la presente Ley, deberá expedirse en un plazo máximo de seis meses, contados a partir de la fecha de entrada en vigor del presente decreto.
+
+Artículo Quinto. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+Artículo Sexto. Los propietarios o poseedores de bienes inmuebles ubicados en el territorio del Estado contarán con un plazo de un año a partir de la vigencia de esta Ley para inscribirse en el Padrón Catastral cuando no lo hayan hecho o habiéndolo hecho, ésta sea irregular, de lo contrario se harán acreedores a las sanciones previstas en este ordenamiento.
+
+Económico.- Aprobado que sea, túrnese a la Secretaría para que elabore la minuta proyecto de Decreto en los términos en que deba publicarse.
