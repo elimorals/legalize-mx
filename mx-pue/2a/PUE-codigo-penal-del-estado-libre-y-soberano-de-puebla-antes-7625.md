@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2001-07-20"
+last_updated: "2003-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 20 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2003.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -395,11 +395,11 @@ La amonestación se hará en público o en privado, a juicio del funcionario que
 
 ### CAPITULO DECIMO.- PRISION
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2003)</small>
 
 ###### Artículo 41.
 
-La sanción consistente en la privación de la libertad corporal será de tres días a cincuenta años y se compurgará de preferencia, en el Centro de Readaptación Social de la Zona a la que corresponda el Distrito Judicial donde se dictó sentencia. Sin embargo el Ejecutivo podrá ordenar que la sanción se compurgue en cualquier otro de los centros de reclusión del Estado.
+La sanción consistente en la privación de la libertad corporal será de tres días a setenta años, y se compurgará de preferencia, en el Centro de Readaptación Social de la Zona a la que corresponda el Distrito Judicial donde se dictó sentencia. Sin embargo el Ejecutivo podrá ordenar que la sanción se compurgue en cualquier otro de los centros de reclusión del Estado o bien en uno Federal de acuerdo con los convenios celebrados a este respecto.
 
 ###### Artículo 42.
 
@@ -849,11 +849,11 @@ b) Con ambas sanciones si el delito que se pretendía cometer se sanciona con mu
 
 #### SECCION QUINTA.- APLICACION DE SANCIONES
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2003)</small>
 
 ###### Artículo 95.
 
-En los casos de acumulación real, se aplicará la sanción del delito más grave, que podrá aumentarse hasta la suma de las sanciones correspondientes a los demás delitos, sin que en caso alguno pueda exceder de cincuenta años de prisión.
+En los casos de acumulación real, se aplicará la sanción del delito más grave, que podrá aumentarse hasta la suma de las sanciones correspondientes a los demás delitos, sin que en caso alguno pueda exceder de setenta años de prisión.
 
 ###### Artículo 96.
 
@@ -2233,7 +2233,7 @@ No se procederá contra el estuprador, sino por queja del ofendido, de sus padre
 
 #### SECCION QUINTA.- PLAGIO Y SECUESTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2003)</small>
 
 ###### Artículo 267.
 
@@ -2523,11 +2523,15 @@ Se impondrá prisión de dos a seis años y multa de diez a cien días de salari
 
 ###### Artículo 302.
 
-Se impondrán de dieciocho a cincuenta años de prisión y multa de cien a mil días de salario, cuando la detención arbitraria tenga el carácter de plagio o secuestro, en alguna de las formas siguientes:
+Se impondrán de dieciocho a cincuenta años de prisión y multa de cien a mil días de salario, cuando la privación arbitraria de la libertad, por cualquier lapso, tenga el carácter de plagio o secuestro, en alguna de las formas siguientes:
 
-I.- Cuando se trate de obtener rescate, o de causar daños y perjuicios al plagiado o a otras personas relacionadas con éste;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2003)</small>
 
-II.- Cuando, al perpetrarse el plagio o secuestro o mientras dura la detención arbitraria, se haga uso de amenazas graves, de maltrato y de tormento;
+I.- Cuando se trate de obtener beneficio económico o en especie, bajo amenaza de causar daños y perjuicios al plagiado o a otras personas relacionadas con éste;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2003)</small>
+
+II.- Cuando al perpetrarse el plagio o secuestro o mientras dura la privación arbitraria de la libertad, se haga uso de amenaza (sic) graves, de maltrato y de tormento;
 
 III.- Cuando la detención se haga en camino público o en paraje solitario; y
 
@@ -2536,6 +2540,16 @@ IV.- Cuando los plagiarios obren en grupo o banda.
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 V.- Cuando se cometa robo de infante.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+
+Si el secuestrado fallece en el tiempo en que se encuentra privado de la libertad, por causas directamente relacionadas con el ilícito que se comete en su contra, o es privado de la vida por su o sus secuestradores, se aplicarán las reglas del concurso de delitos.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2003)</small>
+
+###### Artículo 302
+
+Bis.- Se impondrá de dieciocho a setenta años de prisión y multa de doscientos a dos mil días de salario, cuando la privación arbitraria de la libertad, por cualquier lapso, que tenga el carácter de plagio o secuestro, se cometa en contra de: incapaces física y mentalmente, menores de dieciséis años, mujeres, mayores de sesenta años o cualesquiera que padezca una enfermedad que requiera del suministro de medicamentos, radicaciones o la evaluación mediante exámenes de laboratorio químico en su persona y que de ser suspendido alteren su salud o pongan en peligro su vida y a cualquier persona que padezca una enfermedad crónica o grave o tenga una discapacidad que requiera de cuidados especiales.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
@@ -4064,3 +4078,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE MARZO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
