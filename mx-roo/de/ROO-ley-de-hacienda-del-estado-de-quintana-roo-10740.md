@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "1999-12-31"
+last_updated: "2000-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -587,15 +587,13 @@ V.- Si la adjudicación al acreedor se hiciere por convenio, deberá considerars
 
 #### SECCION PRIMERA. DEL OBJETO Y SUJETO
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 39.
 
 Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección y dependencia de un patrón o terceros.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-Para los efectos de este impuesto, quedan comprendidas entre las erogaciones mencionadas anteriormente, aquellas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, incluyendo comisiones a trabajadores, premios, gratificaciones, rendimientos, primas vacacionales, dominicales, por antigüedad, así como cualquier otra erogación que en razón de su trabajo o por la relación laboral reciba el trabajador. Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+Para los efectos de este impuesto, quedan comprendidas entre las erogaciones mencionadas anteriormente, aquellas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, incluyendo honorarios asimilables a salarios, comisiones a trabajadores, premios, gratificaciones, rendimientos, primas vacacionales, dominicales, por antigüedad, así como cualquier otra erogación en razón de su trabajo o por la relación laboral reciba el trabajador. Son también objeto de este impuesto, las erogaciones por pagos realizados a los socios o accionistas, administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones.
 
 También quedan comprendidos los anticipos que reciban los miembros de sociedades y asociaciones civiles.
 
@@ -615,33 +613,13 @@ Será base de este impuesto, el total de las erogaciones efectuadas en términos
 
 El presente impuesto se causará y pagará a razón del 2% sobre la base gravable señalada en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 43.
 
-El pago deberá efectuarse mensualmente mediante declaración provisional en las formas aprobadas por la propia Secretaría, las que se presentarán en los siguientes plazos:
+Las personas Físicas y Morales deberán efectuar pagos mensualmente mediante declaración provisional en las formas aprobadas por la propia Secretaría, a más tardar el día 17 del mes siguiente a aquél en que se efectúo la erogación.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-a).- Cuando se trate de personas morales, cuyo Registro Federal de Contribuyentes inicie con las letras de la "A" a la "H", la presentarán a más tardar el día 7 del mes siguiente a aquél en que se efectuó la erogación.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-b).- Las personas morales cuyo Registro Federal de Contribuyentes inicie con las letras de la "I" a la "Z", a más tardar el día 10 del mes siguiente a aquél en que se efectuó la erogación.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-c).- Tratándose de personas físicas, cuyo Registro Federal de Contribuyentes inicie con las letras de la "A" a la "K", el plazo vence el día 13 del mes siguiente a aquél en que se efectuó la erogación.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-d).- Tratándose de personas físicas cuyo Registro Federal de Contribuyentes inicie con las letras de la "L" a la "Z", el plazo vence el día 15 del mes siguiente a aquél en que se efectuó la erogación.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-e).- Deberá efectuarse bimestralmente cuando el número de trabajadores por los que se declara sean hasta cinco, a mas tardar los días 17 de los meses de marzo, mayo, julio, septiembre y noviembre del mismo ejercicio fiscal y enero del siguiente. Los contribuyentes que al inicio de un ejercicio fiscal tengan la obligación de efectuar sus pagos mensuales, deberán continuar declarando en los mismos plazos hasta el término del ejercicio.
-
-Estos pagos, se efectuarán en la Oficina Recaudadora de Rentas o en las oficinas autorizadas por la Secretaría de Hacienda del Estado del domicilio del sujeto pasivo de este impuesto, salvo en el caso de contar con una o mas sucursales dentro del territorio del Estado de Quintana Roo, en cuyo caso se estará a lo establecido por el artículo 45 de la presente ley.
+EI pago deberá efectuarse bimestralmente cuando el número de trabajadores por los que se declara sean hasta cinco, a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre, y noviembre del mismo ejercicio fiscal y enero del siguiente. Los contribuyentes que al inicio de un Ejercicio Fiscal tengan la obligación de efectuar sus pagos mensuales, deberán continuar declarando en los mismos plazos hasta el término del ejercicio.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -655,13 +633,37 @@ El pago provisional será la cantidad que resulte de aplicar a los conceptos a q
 
 El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración, que se presentará ante las oficinas autorizadas, dentro de los cuatro meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que se les solicite en la forma que al efecto apruebe la Secretaría de Hacienda del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-###### ARTICULO 43-C.
+###### Artículo 43-C.
 
-Cuando se formulen declaraciones complementarias sustituyendo datos de la original, en virtud de las cuales resulten diferencias a cargo del contribuyente por declarar, o bien resulten diferencias a su favor, o se incrementan los ya declarados se procederá como sigue:
+Cuando se formulen declaraciones complementarias sustituyendo datos de la original, en virtud de las cuales resulten diferencias a cargo del contribuyente por declarar o bien resulten diferencias a su favor, o se incrementen los ya declarados, solo podrán ser modificados por el contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultadas de comprobación en los siguientes casos, no operará la anterior limitación:
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+a) Cuando solo incrementen sus ingresos, o el valor de sus actos o actividades.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+b) Cuando solo disminuyan sus deducciones o pérdidas o reduzcan las cantidades acreditables o compensadas o los pagos provisionales o de contribución a cuenta.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+c) Cuando el contribuyente haga dictaminar por Contador Público autorizado sus estados financieros, podrá corregir, en su caso, la declaración original como consecuencia de los resultados obtenidos en el dictamen respectivo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+d) Cuando la presentación de la declaración que modifica a la original se establezca como obligación por disposición expresa de la ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+Se procederá como sigue:
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 I.- Cuando se trate de declaraciones de pagos provisionales y no se haya presentado la declaración del ejercicio, la diferencia a su favor o su incremento podrá compensarse en la declaración de pago provisional siguiente al día en que se presente la declaración complementaria, sin que sea necesario modificar las demás declaraciones.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 II.- Cuando se modifique una declaración del ejercicio, el contribuyente podrá optar por solicitar devoluciones o compensar dicha diferencia a su favor, en la declaración de pago provisional, siguiente al día en que se presente la complementaria.
 
@@ -733,15 +735,15 @@ Quienes realicen pagos y erogaciones por cuentas de terceros gravados por este i
 
 Las personas a que se refiere el artículo anterior, están obligadas a presentar aviso de inscripción ante la Oficina Recaudadora de Rentas correspondiente a la jurisdicción del lugar donde se realicen los pagos por cuenta de terceros, debiendo proporcionar a ésta, comprobante de retención.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 47
 
-BIS.- Las dependencias y organismos auxiliares de la Administración Publica Estatal y los Municipios que contraen obra pública con empresas foráneas, tendrán la obligación de retener este impuesto a dichas empresas al efectuar el pago correspondiente de la obra y posteriormente deberán enterarlo en la Oficina Recaudadora de Rentas que corresponda a la ubicación de la obra.
+BIS.- Las dependencias y organismos auxiliares de la Administración Pública Estatal y los Municipios que contraten obra pública con empresas foráneas o locales, tendrán la obligación de retener este impuesto a dichas empresas al efectuar el pago correspondiente de la obra y posteriormente deberán enterarlo en la Oficina Recaudadora de Rentas que corresponda a la ubicación de la obra.
 
-Para determinar la cantidad a retener tomará como base del impuesto, la cantidad establecida por concepto de la mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el artículo 42 de la misma ley.
+Para determinar la cantidad a retener tomará como base del Impuesto, la cantidad establecida por concepto de la mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el artículo 42 de la misma ley, por cada anticipo que se otorgue a la empresa constructora a cuenta de pago final y hasta la terminación de la obra.
 
-El pago del impuesto retenido, deberá efectuarse dentro de los diez días siguientes a la fecha en que se efectuó la retención, mediante declaración definitiva en las formas aprobadas por la propia Secretaría.
+EI pago del impuesto retenido, deberá efectuarse dentro del (sic) los 10 días siguientes del mes en que se efectuó la retención, mediante declaración provisional en las formas aprobadas por la propia Secretaría.
 
 #### SECCION CUARTA. DE LAS EXENCIONES
 
@@ -797,9 +799,9 @@ X.- Remuneraciones al personal subordinado que acredite ser cónyuge o tener par
 
 XI.- Pagos efectuados por INFONAVIT, SAR, IMSS.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-XII.- La alimentación y habitación cuando no se proporcionen gratuitamente al trabajador, así como las despensas.
+XII.- La alimentación, la habitación y las despensas cuando se cobren al trabajador.
 
 #### SECCION QUINTA. DE LAS INFRACCIONES Y SANCIONES
 
@@ -2033,6 +2035,10 @@ El pago provisional será la cantidad que resulte de aplicar la tasa del impuest
 
 La obligación de presentar declaraciones de pagos provisionales subsistirá aún cuando no hubiese cantidad a cubrir.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+EI pago deberá efectuarse bimestralmente cuando el número de trabajadores que el contribuyente tengan (sic) sean hasta cinco, a más tardar a los 17 días de los meses de marzo, mayo, julio, septiembre y noviembre del mismo ejercicio fiscal y enero del siguiente. Los contribuyentes que al inicio de un ejercicio fiscal tengan la obligación de efectuar sus pagos en forma mensual, deberán continuar declarando en los mismos plazos hasta el término del ejercicio.
+
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 168-J.
@@ -2141,9 +2147,9 @@ La Secretaría de Hacienda del Estado en coordinación con la Secretaría de Gob
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-I.- Por la expedición de patentes en los municipios de Othón P. Blanco y Felipe Carrillo Puerto, para la:
+I.- Por la expedición de patentes en el municipio de Felipe Carrillo Puerto, para la:
 
 a).- Venta de cervezas exclusivamente con alimentos.
 
@@ -2315,9 +2321,9 @@ De primera hasta 525 S.M.G. 525 S.M.G.
 
 De segunda hasta 420 S.M.G. 315 S.M.G.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-III.- Por la expedición de patentes en el municipio de Isla Mujeres, por la:
+III.- Por la expedición de patentes en los municipios de Othón P. Blanco e Isla Mujeres, para la:
 
 a).- Venta de cervezas exclusivamente con los alimentos.
 
@@ -5403,7 +5409,7 @@ III.- Los certificados de supervivencia expedidos a los pensionistas de los Gobi
 
 Los derechos a que se refiere este capítulo, incluyendo la búsqueda de los documentos se pagarán en las Oficinas Recaudadoras de Rentas del estado, previamente a la prestación del servicio de que se trate.
 
-### CAPITULO XVII. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LA SECRETARIA ESTATAL DEL MEDIO AMBIENTE Y ORDENAMIENTO TERRITORIAL
+### CAPITULO XVII. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LA SECRETARIA DE DESARROLLO URBANO Y MEDIO AMBIENTE
 
 ###### ARTICULO 192.
 
@@ -5459,7 +5465,7 @@ II.- Que tengan acceso a la calle en que se hubieran ejecutado las obras si son 
 
 Están obligados a pagar los derechos de cooperación:
 
-I.- Los propietarios de los predios a que es (sic) refiere el artículo anterior,
+I.- Los propietarios de los predios a que (sic) es refiere el artículo anterior,
 
 II.- Los poseedores de dichos predios en los casos siguientes:
 
@@ -5537,6 +5543,10 @@ El pago de estos derechos deberá hacerse previamente a la prestación del servi
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
+#### SECCION DECIMA. RENDIMIENTOS FINANCIEROS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 201.
 
 Los servicios que se presten en el Registro Público de la Propiedad, causarán derechos conforme a la siguiente:
@@ -5555,9 +5565,9 @@ a).- Si el monto es hasta 907 S.M.G. se aplicará 9.20 S.M.G.
 
 b) Si el valor es más de 907 S.M.G. se aplicará el 1% resultante.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-Lo anterior sin perjuicio de que si al aplicarse a la cantidad que exceda de lo señalado en el inciso b) el 1.15%, resultare inferior a 9.2 veces el S.M.G. vigente en el estado, se aplicará este último.
+Lo anterior sin perjuicio de que si al aplicarse a la cantidad que excede de lo señalado en el inciso B, el 1.0%, resultará inferior a 9.2 veces el S.M.G. vigente en el Estado, se aplicará este último.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -5607,9 +5617,25 @@ La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, a
 
 V.- La inscripción de cualquier modificación a la escritura constitutiva de sociedades civiles, excepto la disminución de capital social, 5.75 S.M.G.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-VI.- La inscripción de gravámenes sobre bienes inmuebles, sea por contrato, por resolución judicial o por disposición testamentaria; la de los títulos por virtud de los derechos reales sobre inmuebles, distintos del dominio, de embargos, cédulas hipotecarias, servidumbre y fianzas, se causarán derechos conforme a la fracción II de este artículo.
+VI.- La inscripción de gravámenes sobre bienes inmuebles, sea por contratos, por resolución judicial o por disposición testamentaria; la de los títulos por virtud de los derechos reales sobre inmuebles, distintos del dominio, de embargos, cédulas hipotecarias, servidumbre y fianzas, se causarán derechos conforme a la fracción II de este artículo.
+
+Por la inscripción de gravámenes sobre bienes inmuebles derivados de créditos fiscales a favor de la Federación, Estado y Municipios, se pagará conforme a la siguiente:
+
+TARIFA
+
+A).- Cuando los actos a inscribir no tengan valor determinado o sea hasta de 906.98 salarios mínimos generales del área geográfica que corresponda. 9.20 S.M.G.
+
+B).- Cuando el valor de los actos a inscribir sea de más de 906.98 y hasta 1529.06 salarios mínimos generales del área geográfica que corresponda. 15 S.M.G.
+
+C).- Cuando el valor de los actos a inscribir sea de más de 1529.06 y hasta 3058.11 salarios mínimos generales del área geográfica que corresponda. 30 S.M.G.
+
+D).- Cuando el valor de los actos a inscribir sea de más de 3058.11 y hasta 15290.52 salarios mínimos generales del área geográfica que corresponda. 60 S.M.G.
+
+E).- Cuando el valor de los actos a inscribir sea de más de 15290.52 salarios mínimos generales del área geográfica que corresponda en adelante. 120 S.M.G.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 Por la cancelación de estos derechos................. 5.75 S.M.G.
 
@@ -6019,9 +6045,11 @@ V.- Los contratos en que se pacten prestaciones periódicas, se valuarán en la 
 
 VI.- Se exceptúan del pago de los derechos de inscripción en el Registro Público del Comercio, a las sociedades cooperativas escolares que se establezcan en las escuelas del Sistema Educativo Quintanarroense que estén bajo su vigilancia.
 
-### CAPITULO XIX. DERECHOS DEL SECTOR EDUCATIVO
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARIA DE EDUCACION Y CULTURA, A TRAVES DE LOS SERVICIOS EDUCATIVOS Y CULTURALES
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 206.
 
@@ -6137,193 +6165,123 @@ b).- Por el servicio de 24 horas de labores por 24 horas de descanso que preste 
 
 Las personas físicas o morales que requieran del servicio especial, lo solicitarán por escrito ante las oficinas recaudadoras indicando número de personal requerido, fecha de inicio y terminación del convenio, domicilio donde se prestará el servicio, nombre y denominación o razón social del solicitante, domicilio del mismo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO II. REZAGOS
 
 ###### ARTICULO 207-H.
 
-Los derechos por los servicios que presta la secretaría de Educación y Cultura, en materia de registro y ejercicio profesional, se pagarán conforme a la siguiente:
+Los derechos por los servicios que prestan la Secretaría de Educación y Cultura a través de los Servicios Educativos y Culturales, se pagarán conforme a la siguiente:
 
 TARIFA
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+I.- Autorización a particulares para impartir educación Primaria y Secundaria. 300 S.M.G.
 
-I.- Por el registro de una institución educativa, con fines censales y estadísticos exclusivamente. 50 S.M.G.
+II.- Autorización a particulares para impartir Educación Normal. 500 S.M.G.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+III.- Reconocimiento de validez oficial de estudios a particulares para impartir Educación Preescolar. 200 S.M.G.
 
-II.- Por la incorporación de una entidad educativa. 200 S.M.G.
+IV.- Reconocimiento de validez oficial de estudios a particulares para impartir educación media superior. 400 S.M.G.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+V.- Reconocimiento de validez oficial de estudios a particulares para impartir educación superior. 500 S.M.G.
 
-III.- Por la ratificación del acuerdo de incorporación anualmente 50 S.M.G.
+VI.- Inspección y vigilancia por cada ciclo escolar o semestre, por alumno:
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+a).- Preescolar 0.80 S.M.G.
 
-IV.- Por la compulsa de documentos originales con las copias de los mismos, necesarios en los casos de incorporación, el importe de 10 S.M.G.
+b).- Primaria 1.20 S.M.G.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+c).- Secundaria 1.80 S.M.G.
 
-V.- Reconocimiento de validez oficial de estudios a instituciones de carácter particular, medio superior, superior y de capacitación para el trabajo: ---- 200 S.M.G.
+d).- Bachillerato 3.00 S.M.G
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+e).- Licenciaturas 5.00 S.M.G
 
-VI.- Autorización a particulares para impartir educación básica y normal 200 S.M.G.
+VII.- Actualización del acuerdo de incorporación.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+a).- Preescolar 67 S.M.G.
 
-VII.- Registro para fines censales de particulares que imparten estudios sin reconocimiento de validez oficial. 50 S.M.G.
+b).- Primaria y secundaria 100 S.M.G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+c).- Bachillerato 133 S.M.G.
 
-VIII.- Rectificación del acuerdo de incorporación por cada ciclo escolar o semestre por alumno. 3 S.M.G.
+d).- Educación Normal 167 S.M.G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+e).- Licenciaturas 167 S.M.G.
 
-IX.- Por ratificación del registro con fines censales y estadísticos a particulares que imparten estudios sin reconocimiento de validez oficial, por alumno 3 S.M.G.
+VIII.- Certificaciones de estudios por alumno:
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+a).- Primaria 0.80 S.M.G.
 
-X.- Exámenes profesionales o de grado:
+b).- Secundaria 1.20 S.M.G.
 
-a).- De tipo superior 2.5 S.M.G.
+c).- Bachillerato 1.80 S.M.G.
 
-b).- De tipo medio superior 1.2 S.M.G.
+d).- Licenciaturas 5.00 S.M.G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+IX.- Exámenes extraordinarios por materia:
 
-XI.- Exámenes a título de suficiencia:
+a).- Secundaria 0.80 S.M.G.
 
-a).- De educación (básica) .5 S.M.G.
+b).- Bachillerato 1.20 S.M.G.
 
-b).- De tipo medio superior y superior por materia. .2 S.M.G.
+c).- Licenciaturas 2.20 S.M.G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+X.- Exámenes especiales por materia:
 
-XII.- Exámenes extraordinarios de tipo medio superior y superior por materia. .3 S.M.G.
+a).- Bachillerato 2.00 S.M.G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+b).- Licenciatura 3.00 S.M.G.
 
-XIII.- Examen especial. .3 S.M.G.
+XI.- Exámenes globales a título de suficiencia por grado de:
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+a).- Primaria 5.00 S.M.G.
 
-XIV.- Otorgamiento de diplomas, título o grado:
+b).- Secundaria 8.00 S.M.G.
 
-a).- De tipo superior. .5 S.M.G.
+XII.- Exámenes a título de suficiencia por materia:
 
-b).- De tipo medio superior. .2 S.M.G.
+a).- Bachillerato 10.00 S. M. G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+b).- Licenciatura 12.00 S.M.G.
 
-XV.- Expedición de duplicados de certificados de estudios: .25 S.M.G.
+XIII.- Exámenes profesionales o de grado:
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+a).- Bachillerato 12.00 S. M. G.
 
-XVI.- Revalidación de estudios:
+b).- Licenciaturas 15.00 S. M. G.
 
-a).- De educación básica. .25 S.M.G.
+XIV.- Expedición de diplomas de secundarias técnicas por alumno: 1.20 S.M.G.
 
-b).- De tipo medio superior y superior, por materia .12 S.M.G.
+XV.- Revalidación de estudios de:
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+a).- Primaria 1.00 S.M.G.
 
-XVII.- Revisión y convalidación de estudios, por grado escolar: .12 S.M.G.
+b).- Secundaria 8.00 S.M.G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+XVI.- Trámite de equivalencia o revalidación de estudios de:
 
-XVIII.- Equivalencia de estudios de tipo medio superior y superior, por materia .12 S.M.G.
+a).- Bachillerato 10.00 S. M. G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+b).- Licenciaturas 12.00 S.M.G.
 
-XIX.- Inscripción:
+XVII.- Equivalencias de estudios de secundaria: 8.00 S.M.G.
 
-a).- En curso de verano. 1.9 S.M.G.
+XVIII.- Cotejo de documentos por hoja: 0.27 S.M.G.
 
-b).- En curso de regularización. 1.9 S.M.G.
+XIX.- Instructivo para trámite de incorporación: 3.00 S.M.G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+XX.- Expedición de constancias de control escolar: 1.00 S.M.G.
 
-XX.- Cambio de carrera. .95 S.M.G.
+XXI.- Reposición de Boletas de Evaluación de Educación Básica: 0.40 S.M.G.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+XXII.- Reimpresión de certificado de Educación Básica: 0.40 S.M.G.
 
-XXI.- Registro de colegio de profesionistas:
+XXIII.- Reimpresión de formato de apoyo de control escolar: 0.40 S.M.G.
 
-a).- De 35 a 50 miembros 55 S.M.G.
+XXIV.- Legalización de firmas 2.00 S.M.G.
 
-b).- De 51 a 100 miembros 75 S.M.G.
-
-c).- De 100 miembros en adelante 95 S.M.G.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-XXII.- Registro de establecimiento educativo particular autorizado para expedir títulos profesionales o grado académico. 92 S.M.G.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-XXIII.- Revalidación de título profesional o grado académico. 18.3 S.M.G.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-XXIV.- Registro de título profesional o grado académico. 8.9 S.M.G.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-XXV.- Expedición de autorización para constituir un colegio de profesionistas 11 S.M.G.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-XXVI.- Enmienda del Registro Profesional:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-a).- En relación con colegio de profesionistas -- 11 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-b).- En relación con establecimiento educativo. 8.9 S.M.G.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-c).- En relación con título profesional o grado académico. 1.7 S.M.G.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-d).- Inscripción de un asociado a un Colegio de Profesionistas que no figure en el registro original 1 S.M.G.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-XXVII.- Expedición de autorización temporal de práctica profesional a persona que carece de título. 3.6 S.M.G.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-XXVIII.- Consulta de archivo 2 S.M.G.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-XXIX.- Constancia de antecedentes profesionales. 3.6 S.M.G.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-XXX.- Compulsa de documentos por hoja. 1 S.M.G.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-XXXI.- Legalización de firmas. 1.5 S.M.G.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-XXXII.- Por cualquier otra certificación o expedición de constancia distinta de las señaladas en las fracciones anteriores. 1.9 S.M.G
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-XXXIII.- Regularización por omisión de escolaridad de 1 a 5000 S.M.G.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-Para el pago de los derechos a que se refiere el Articulo 207-H, los plazos y sanciones estarán sujetos a lo que establezca la Ley de Profesiones del Estado y su Reglamento.
+Por llevar a cabo el control, vigilancia y evaluación de los recursos que se reciban por convenios o de Programas Federales, se retendrá, hasta el equivalente al 0.5% del monto total de los recursos aportados en efectivo; importe que será ejercido conforme a los lineamientos convenidos.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -6517,6 +6475,12 @@ Los productos no especificados en este capítulo se cobrarán conforme a las cuo
 
 (VEASE TABLA ANEXA)
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 218
+
+BIS.- Son todas las ganancias que en forma de intereses o por cambio de moneda perciba el Gobierno del Estado por las cuentas bancarias perteneciente a este.
+
 ## TITULO V. APROVECHAMIENTOS
 
 ###### ARTICULO 219.
@@ -6589,15 +6553,15 @@ El Gobierno del Estado percibirá las participaciones establecidas en las leyes 
 
 El Gobierno del Estado percibirá las participaciones establecidas en los convenios que celebren con los Gobiernos Municipales.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO VIII. CAUCIONES JUDICIALES
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 231.
 
 Las cauciones judiciales se recaudarán de conformidad con las resoluciones en que se ordene se hagan efectivas.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TRANSITORIOS
 
@@ -6784,5 +6748,11 @@ SEGUNDO: Se derogan las disposiciones dictadas con anterioridad que se opongan a
 P.O. 31 DE DICIEMBRE DE 1999.
 
 PRIMERO: El presente decreto entrará en vigor a partir del día primero del mes de Enero del año dos mil, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2000.
+
+PRIMERO: EI presente decreto entrará en vigor a partir del día primero del mes de Enero del año dos mil uno, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
