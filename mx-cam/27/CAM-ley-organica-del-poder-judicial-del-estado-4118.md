@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "1986-10-04"
+last_updated: "1987-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1987.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el día jueves 4 de diciembre de 1980.
 
@@ -167,17 +167,17 @@ V.- Los juzgados menores de Champotón y Hopelchén, con sede en las ciudades de
 
 ### CAPITULO PRIMERO. Del Tribunal Superior
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 13.
 
-El Tribunal Superior de Justicia estará integrado por siete magistrados numerarios y uno supernumerario, quienes serán designados en la forma y términos que previene el artículo 78 de la Constitución Política del Estado, y funcionará en Pleno y en Salas según lo determine la Ley.
+El Tribunal Superior de Justicia estará integrado por no menos de siete magistrados numerarios y dos supernumerarios, quienes serán designados en la forma y términos que previene el artículo 78 de la Constitución Política del Estado, y funcionará en Pleno y en Salas según lo determine la Ley.
 
 Uno de los magistrados numerarios será Presidente del Tribunal.
 
-El magistrado supernumerario formará parte del Pleno cuando sustituya a un magistrado numerario por ausencia temporal o permanente, o en caso de excusa o recusación para conocer de asuntos concernientes al Pleno.
+Los magistrados supernumerarios formarán parte del Pleno cuando sustituyan a un magistrado numerario por ausencia temporal o permanente, o en caso de excusa o recusación para conocer de asuntos concernientes al Pleno.
 
-El magistrado supernumerario percibirá sueldo igual al que señale el presupuesto para los numerarios.
+Los magistrados supernumerarios percibirán sueldo igual al que señale el presupuesto para los numerarios.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
@@ -225,7 +225,9 @@ VIII.- Elegir presidente del Tribunal Superior de Justicia entre los magistrados
 
 IX.- Asignar a los magistrados que deben integrar cada una de las salas;
 
-X.- Conferir al magistrado supernumerario, cuando no esté en ejercicio, las comisiones y representaciones que se estimen pertinentes, en beneficio de la administración de justicia;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+X.- Conferir a los magistrados supernumerarios, cuando no estén en ejercicio, las comisiones y representaciones que se estimen pertinentes, en beneficio de la administración de justicia;
 
 XI.- Distribuir anualmente a los magistrados para que practiquen visitas, cada trimestre, a los juzgados de primera instancia y menores del Estado;
 
@@ -261,7 +263,9 @@ XX.- Conocer de las denuncias o quejas que presenten en contra del presidente de
 
 XXI.- Imponer correcciones disciplinarias a las partes, abogados, procuradores y litigantes cuando falten el respeto al Tribunal, a sus miembros o a cualquier otro funcionario del Tribunal Superior de Justicia, independientemente de que se formule la denuncia respectiva al Ministerio Público en caso de la comisión de un delito;
 
-XXII.- Decretar las providencias necesarias para la mejor administración de justicia;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+XXII.- Crear nuevas salas, y ampliar o suprimir las ya existentes y decretar las providencias necesarias para la mejor administración de justicia;
 
 XXIII.- Conceder licencias a los magistrados que integren el Tribunal Superior de Justicia, cuando no excedan de un mes;
 
@@ -413,11 +417,11 @@ El presidente del Tribunal Superior será suplido en sus faltas accidentales o t
 
 ### CAPITULO CUARTO. De las Salas del Tribunal
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 29.
 
-El Tribunal Superior de Justicia funcionará en dos salas, designadas por número ordinal. Cada sala estará integrada por tres magistrados numerarios y fungirá uno de ellos como presidente de la misma. Las presidencias de las salas serán rotativas y durarán un año.
+El Tribunal Superior de Justicia funcionará en salas, designadas por número ordinal y materia. Cada sala estará integrada por no menos de 3 magistrados numerarios y fungirá uno de ellos como presidente de la misma. Los presidentes de las salas se elegirán por votación mayoritaria de los miembros del Tribunal Pleno en la última sesión que celebren anualmente y podrán ser reelectos. El cargo de presidente de sala durará un año.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
@@ -453,11 +457,13 @@ El Tribunal Pleno, a petición de alguno de los magistrados podrá dispensar del
 
 Las providencias y acuerdos del presidente pueden ser reclamadas ante la propia sala, siempre que la reclamación se presente por alguna de las partes, por escrito, con motivo fundado y dentro del término de tres días. La resolución se tomará por mayoría de votos de los magistrados integrantes de la sala.
 
-Cuando un magistrado sea recusado o se excuse, o faltara accidentalmente o estuviera ausente por un término no mayor de un mes, será suplido por el magistrado supernumerario.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+Cuando un magistrado sea recusado o se excuse o faltare accidentalmente o estuviere ausente por un término no mayor de un mes, será suplido por el magistrado supernumerario que al efecto designe el pleno.
 
-En los casos de excusa o recusación de un presidente de sala quien lo suplirá será el presidente de la otra sala y en su defecto el magistrado que el Tribunal Pleno indique.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+En los casos de excusa o recusación de un presidente de sala lo suplirá el presidente de la sala que al efecto designe el Pleno y en su defecto por el magistrado numerario que el Tribunal Pleno determine.
 
 ###### Artículo 33.
 
@@ -487,9 +493,11 @@ En los mismos términos, si uno de los magistrados estuviese conforme con los pu
 
 Si el proyecto presentado en segunda ocasión no alcanzase mayoría, se turnará al Pleno y el presidente del Tribunal, deberá designar a uno de los magistrados, integrantes de la otra sala, para que formule un nuevo proyecto, resolviéndose el negocio en la próxima sesión ordinaria del Tribunal en Pleno.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 39.
 
-Corresponde a la primera sala:
+Corresponde a las Salas en Materia Penal:
 
 I.- Conocer de las apelaciones y denegadas apelaciones que se interpongan en contra de las determinaciones dadas por los jueces penales, mixtos de primera instancia y menores en los asuntos del orden penal;
 
@@ -501,21 +509,33 @@ IV.- Intervenir en los asuntos de amparo que se promuevan en contra de las resol
 
 V.- Conocer de los demás asuntos que determinen las leyes.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 40.
 
-Corresponde a la segunda sala:
+Corresponde a las Salas en Materia Civil:
 
-I.- Conocer de los recursos de apelación y denegada apelación que se interponga contra las resoluciones dictadas por los jueces civiles, mixtos de primera instancia y menores, en asuntos de orden civil o mercantil;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
-II.- Conocer de los recursos de apelación y denegada apelación que se interpongan contra las resoluciones de los jueces familiares, con facultad para suplir la deficiencia o ausencia de agravios, cuando con ello se beneficien los intereses de quienes se encuentren afectados de incapacidad natural o legal;
+I.- Conocer de los recursos de apelación que se interpongan contra las resoluciones dictadas por los jueces civiles, mixtos de primera instancia y menores, en asuntos del orden civil o mercantil;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+II.- Conocer de los recursos de apelación que se interpongan contra las resoluciones de los jueces familiares, con facultad para suplir la deficiencia o ausencia de agravios, cuando con ello se beneficien los intereses de quienes se encuentren afectados de incapacidad natural o legal;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 III.- Conocer en segunda instancia de los asuntos en que proceda la revisión de oficio o forzosa;
 
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 IV.- Calificar las excusas y recusaciones del secretario de acuerdos de la sala;
 
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
+
 V.- Intervenir en los asuntos de amparo que se promuevan en contra de las resoluciones dictadas por la sala, y
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
 VI.- Conocer de los demás asuntos que determinen las leyes.
 
@@ -825,9 +845,11 @@ IV.- De la fecha en que hayan practicado la diligencia, notificación o acto que
 
 V.- De la fecha de la devolución del expediente.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 63.
 
-Los jueces y el magistrado supernumerario, en funciones de visitador, tendrán la obligación bajo su responsabilidad, de inspeccionar personalmente, cuando menos una vez al mes, el libro a que se refiere el artículo anterior, para convencerse de la eficacia del actuario respectivo y dictar las determinaciones que estimen pertinentes por las faltas leves, para corregirlas, y en su caso, dar cuenta al Pleno del Tribunal.
+Los jueces y magistrados supernumerarios, en funciones de visitadores, tendrán la obligación bajo su responsabilidad, de inspeccionar personalmente, cuando menos una vez al mes, el libro a que se refiere el artículo anterior, para convencerse de la eficacia del actuario respectivo y dictar determinaciones que estimen pertinentes por las faltas leves, para corregirlas, y en su caso, dar cuenta al Pleno del Tribunal.
 
 ###### Artículo 64.
 
@@ -905,13 +927,13 @@ Los secretarios, actuarios y personal subalterno de los juzgados menores tendrá
 
 ### CAPITULO QUINTO. De las visitas a los establecimientos de reclusión
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ### CAPITULO PRIMERO
 
 ###### Artículo 76.
 
-El último día hábil de cada mes los jueces de primera instancia del ramo penal y los jueces menores visitarán los establecimientos de reclusión ubicados dentro de su jurisdicción territorial, con asistencia de sus secretarios de acuerdos, del agente del ministerio público adscrito a su Juzgado, del jefe de la defensoría de oficio, y en su caso, del secretario del ayuntamiento o junta municipal. De la visita levantarán acta circunstanciada.
+El último día hábil de cada mes los jueces de primera instancia del ramo penal visitarán los establecimientos de reclusión ubicados dentro de su jurisdicción territorial, con asistencia de sus secretarios de acuerdos, del agente del ministerio público adscrito a su Juzgado, el jefe de la defensoría de oficio, y en su caso del secretario del ayuntamiento o junta municipal. De la visita levantarán un acta circunstanciada.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
 
@@ -971,11 +993,11 @@ El Presidente del Tribunal dará vista al Pleno para su información y análisis
 
 Artículo. 84.- El magistrado que el Tribunal Pleno designe para el caso, practicará cada tres meses visita ordinaria a los centros de reclusión existentes en la entidad, de acuerdo a los términos previstos en los artículos anteriores. A esa visita concurrirán uno de los subprocuradores, el jefe de la defensoría de oficio y el secretario del ayuntamiento o junta municipal de la ubicación del reclusorio. El magistrado será asistido por el secretario auxiliar del Pleno.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 85.
 
-El presidente de la sala penal practicará a los reclusorios las visitas extraordinarias previstas en la fracción XII del artículo 18 de esta Ley, asistido por el secretario de acuerdos de la sala y en unión de los funcionarios mencionados en el artículo anterior.
+El presidente de la Sala Penal que designe el Pleno practicará a los reclusorios las visitas extraordinarias previstas en la fracción XII del artículo 18 de esta ley, asistido por el secretario de acuerdos de la sala y en unión de los funcionarios mencionados en el artículo anterior.
 
 ## TITULO QUINTO. De los Auxiliares de la Administración de Justicia
 
@@ -1071,21 +1093,27 @@ IX.- Las demás que les señalen las leyes y reglamentos.
 
 Las faltas temporales y accidentales del presidente del Tribunal Superior se cubrirán en los términos a que alude el artículo 28 de esta ley.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 100.
 
-Las faltas accidentales o temporales de los demás magistrados se cubrirán por el magistrado supernumerario.
+Las faltas accidentales o temporales de los demás magistrados se cubrirán por el magistrado supernumerario que al efecto designe el Pleno.
 
 ###### Artículo 101.
 
 Las faltas temporales de los magistrados por más de un mes, serán cubiertas, mediante nombramiento que el C. Gobernador del Estado someta a la aprobación del H. Congreso local, y, en sus recesos, a la Diputación Permanente.
 
-Entretanto se hace la designación, la falta será suplida por el magistrado supernumerario.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+Entretanto se hace la designación, la falta será suplida por el magistrado supernumerario que al efecto designe el Pleno.
 
 ###### Artículo 102.
 
 Si por defunción, renuncia o incapacidad faltare algún magistrado, el Gobernador del Estado someterá nuevo nombramiento a la aprobación del Congreso y, en su defecto a la Diputación Permanente.
 
-Entretanto se hace la designación, la falta será suplida por el magistrado supernumerario.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
+Entretanto se hace la designación, la falta será suplida por el magistrado supernumerario que al efecto designe el Pleno.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 1986)</small>
 
@@ -1153,9 +1181,11 @@ Cuando el Presidente del Tribunal Superior se excuse o sea recusado será substi
 
 Cuando el presidente de una sala sea recusado o se excuse será substituido en la forma que dispone el artículo 32 de esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 114.
 
-Los demás magistrados numerarios integrantes de sala, cuando fueren recusados o se excusasen, serán sustituidos por el magistrado supernumerario.
+Los demás magistrados numerarios integrantes de Sala, cuando fueren recusados o se excusasen, serán sustituidos por el magistrado supernumerario que al efecto designe el Pleno.
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1986)</small>
 
@@ -1379,9 +1409,11 @@ V.- El procurador de la defensa del menor, en los juicios en que se afecten dere
 
 VI.- Los defensores en los procedimientos del orden penal.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 155.
 
-Para los efectos de la imposición de sanciones por la comisión de faltas oficiales, el titular del juzgado o el presidente del Tribunal formará expediente, en el que se mandará agregar el escrito de denuncia o el acta circunstanciada en la que conste la misma; pedirá al funcionario o empleado autorizado informe con justificación, señalando un plazo prudente para que lo rinda, el que no podrá exceder de 10 días y con el informe o sin él, concederá un término probatorio de cinco días y concluido el término, citará para audiencia en un lapso de cinco días en la que se desahogará la prueba, en su caso, y se dictará resolución. El magistrado visitador, el presidente del Tribunal y los titulares de los juzgados, al advertir una falta oficial levantará acta circunstanciada, la que surtirá efectos de denuncia.
+Para los efectos de la imposición de sanción por la comisión de faltas oficiales, el titular del juzgado o el Presidente del Tribunal formará expediente, en el que se mandará agregar el escrito de denuncia o el acta circunstanciada en la que conste la misma; pedirá al funcionario o empleado autorizado informe con justificación señalando un plazo prudente para que lo rinda, el que no podrá exceder de cinco días y, con el informe o sin él, concederá un término probatorio de diez días; concluido el término, citará a audiencia en un lapso de cinco días en la que se desahogarán las pruebas ofrecidas. No será admisible la prueba confesional. La resolución que corresponda se dictará en el plazo de cinco días. La omisión del informe establecerá la presunción de certeza de la falta denunciada, salvo prueba en contrario. En la tramitación del expediente se aplicarán las normas que procedan del Código de Procedimientos Civiles del Estado.
 
 ###### Artículo 156.
 
@@ -1590,3 +1622,7 @@ P.O. 4 DE OCTUBRE DE 1986.
 Artículo Primero.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 19 DE DICIEMBRE DE 1987.
+
+UNICO.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
