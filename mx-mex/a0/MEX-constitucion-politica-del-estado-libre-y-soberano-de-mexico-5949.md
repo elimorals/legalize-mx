@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1992-03-19"
+last_updated: "1992-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE MARZO DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE ABRIL DE 1992.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1763,6 +1763,14 @@ La Ley Orgánica correlativa determinará los requisitos necesarios para ser Age
 
 El desempeño de las funciones de Procurador General, Sub Procurador General, Sub Procurador y Agente del Ministerio Público, es incompatible con el ejercicio de la abogacía y con cualquier otro cargo, empleo o comisión que sean remunerados a excepción de los de carácter docente.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+###### Art. 125 Bis.
+
+En el Estado de México la protección de los derechos humanos que otorga el orden jurídico, será competencia del Organismo que la Legislatura establezca para tal efecto, el cual conocerá de quejas por violación a estos derechos por actos u omisiones de naturaleza administrativa de cualquier autoridad o servidor público estatal o municipal, con excepción de los del Poder Judicial. Este Organismo formulará recomendaciones públicas no vinculatorias así como denuncias y quejas ante las autoridades respectivas.
+
+El Organismo no será competente tratándose de asuntos electorales, laborales o jurisdiccionales.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ENERO DE 1955)</small>
 
 ### CAPITULO SEGUNDO. BASES DE LA ORGANIZACION DE LA HACIENDA PUBLICA DEL ESTADO
@@ -2640,3 +2648,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 19 DE MARZO DE 1992
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+P.O. 21 DE ABRIL DE 1992
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno del Estado.
