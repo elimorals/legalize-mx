@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1988-02-26"
+last_updated: "1988-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE FEBRERO DE 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE MARZO DE 1988.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -391,7 +391,7 @@ VI.- Examinar, y en su caso aprobar, la cuenta pública del Ejercicio. Aprobar l
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
-VII.- señalar las contribuciones y otros ingresos que deban formar la Hacienda Municipal, procurando sean suficientes a cubrir las necesidades de los municipios; determinar anualmente las bases, montos y plazos con que sean cubiertas las participaciones federales a los municipios;
+VII.- Señalar las contribuciones y otros ingresos que deban formar la Hacienda Municipal, procurando sean suficientes a cubrir las necesidades de los municipios; determinar anualmente las bases, montos y plazos con que sean cubiertas las participaciones federales a los municipios;
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 1987)</small>
 
@@ -537,11 +537,13 @@ XXXVII.- pedir, si no lo hubiese hecho antes el Ejecutivo del Estado, en caso de
 
 XXXVIII.- Fijar las modalidades que a la propiedad privada deban imponerse para beneficio público; ejercer los derechos que le confieren los artículos 27 y 28 de la Constitución Federal;
 
-XXXIX.- (DEROGADA, D.O.5 DE MARZO DE 1965)
+> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+
+XXXIX.- Conocer y resolver de las controversias que surjan entre el Ejecutivo y los Ayuntamientos del Estado, con motivo de los convenios de coordinación que celebren respecto de la Planeación del Desarrollo Integral del Estado;
 
 > <small>(REFORMADA, D.O. 22 DE FEBRERO DE 1988)</small>
 
-XL.- Suspender Ayuntamientos así como declarar, según el caso, que éstos han desaparecido o suspender o revocar el mandato de alguno de sus miembros por acuerdo de las dos terceras partes del número total de integrantes de la Legislatura respectiva, procediendo como disponga para estos casos la Ley Orgánica del Poder Legislativo del Estado de Yucatán y la Ley Orgánica de los Municipios del Estado;
+XL.- Suspender Ayuntamientos así como declarar, según el caso, que éstos han desaparecido o suspender o revocar el mandato de alguno de sus miembros por acuerdo de las dos terceras partes del número total de integrantes de la Legislatura respectiva, procediendo como disponga para estos casos la Ley Orgánica del Poder Legislativo del Estado de Yucatán y la Ley Orgánica de los Municipios del Estado,
 
 > <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
 
@@ -899,9 +901,17 @@ XX.- pedir la protección de los Poderes de la Unión en caso de sublevación o 
 
 XXI.- conceder primas y subsidios a los que establezcan en el Estado, industrias y cultivos nuevos, necesarios o ampliados;
 
-> <small>(REFORMADA, D.O.27 DE ENERO DE 1976)</small>
+> <small>(REFORMADA, D.O. 31 DE MARZO DE 1988)</small>
 
-XXII.- las demás que le confieren esta Constitución y otras leyes.
+XXII.- establecer los procedimientos de participación y consulta popular en el Sistema Estatal de Planeación Integral y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas sectoriales, especiales, institucionales y operativos;
+
+> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+
+XXIII.- elaborar y remitir el Plan Estatal de Desarrollo, sus actualizaciones, los programas mencionados en la fracción anterior así como los criterios que le sirven de base al Congreso del Estado para su conocimiento y consideración al ejercer sus atribuciones constitucionales; y
+
+> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+
+XXIV.- las demás que le confieren esta Constitución y otras Leyes.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1097,7 +1107,7 @@ VII.- formular el proyecto de Presupuesto de Egresos del Poder Judicial, atendie
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
-## TITULO OCTAVO. De la Función del Estado, como Forma de Convivencia
+## TITULO OCTAVO. De la Función del Estado, como Forma de Convivencia y de su Desarrollo Integral
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1181,7 +1191,11 @@ V.- nombrar y remover a todos los empleados de su dependencia y cubrir los emolu
 
 VI.- hacer uso del derecho de iniciar Leyes;
 
-VII.- ejercer las funciones que les encomienda, en materia de cultos, el párrafo once del artículo 130 de la Constitución Federal; y
+> <small>(REFORMADA, D.O. 31 DE MARZO DE 1988)</small>
+
+VII.- Organizar un sistema de Planeación Integral del Desarrollo Municipal, con la participación democrática de los grupos sociales; y
+
+> <small>(REFORMADA, D.O. 31 DE MARZO DE 1988)</small>
 
 VIII.- las demás que les confieren las Leyes.
 
@@ -1229,7 +1243,11 @@ III.- nombrar y remover a los empleados de su despacho, conforme a lo que establ
 
 IV.- disponer de la Policía Municipal, salvo lo dispuesto en las fracciones IV y V del artículo 55 de esta Constitución;
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+
+V.- Remitir, en su caso, los Planes Municipales de Desarrollo y los Programas anuales al Congreso del Estado para su conocimiento.
+
+(REFORMADA SU DENOMINACION, D.O. 31 DE MARZO DE 1988) (F. DE E., D.O. 5 DE ABRIL DE 1988)
 
 ## TITULO DECIMO. Disposiciones generales
 
@@ -1264,6 +1282,26 @@ VI.- evitar que por el acaparamiento de las fuentes o instrumentos de producció
 > <small>(ADICIONADA, D.O. 21 DE NOVIEMBRE DE 1962)</small>
 
 VII.- Propugnar el mejoramiento de los trabajadores a su servicio a fin de que alcancen metas de superación intelectual y beneficios de seguridad social y pensiones en los cauces del Estatuto de los Trabajadores al Servicio del Estado, que es la norma legal que rige las relaciones laborales sobre la materia.
+
+> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+
+VIII.- participar en lo concerniente a su régimen interior al desarrollo nacional, conforme a los principios que establece el Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+
+IX.- organizar un sistema de Planeación del Desarrollo Integral que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía de acuerdo con los lineamientos del Sistema Nacional de Planeación Democrática;
+
+> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+
+X.- coadyuvar con la Federación promoviendo las condiciones para el desarrollo rural integral, con el propósito de generar empleos y de garantizar el acceso de la población campesina al bienestar y justa incorporación y participación en el desarrollo del Estado;
+
+> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+
+XI.- fomentar la actividad agropecuaria y forestal para el mejor aprovechamiento de los recursos naturales con obras de infraestructura, créditos y servicios públicos de capacitación y extensionismo; y
+
+> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+
+XII.- apoyar e impulsar a las empresas del sector social y las del sector privado propiedad de nacionales, siempre y cuando contribuyan, en el marco de la planeación del desarrollo económico estatal, a los objetivos que en su caso se establezcan.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1313,15 +1351,13 @@ El matrimonio es una institución jurídica dirigida a organizar la reproducció
 
 Son indeseables las instituciones religiosas que difunden, teorías de premios y castigos ultraterrenos, compensadores de las injusticias sociales, y conceptos tendientes a erigir el dolor en norma de conducta apropiada para un bienestar ulterior. El Estado combatirá el fanatismo religioso y evitará que se tome como pretexto la asistencia social dada a título de caridad religiosa, para atraer prosélitos a favor de algún credo.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 31 DE MARZO DE 1988)</small>
 
 ###### Artículo 96.
 
-El Estado procurará reducir las contribuciones a su más simple expresión, a fin de que el pueblo no sea oprimido con impuestos innecesarios. Tenderá a eliminar las contribuciones indirectas que tan onerosas son para el consumidor, tratando de establecer como único impuesto el de la renta de la tierra.
+El Estado propugnará por una correcta aplicación de los recursos y al efecto elaborará un Plan de Desarrollo Integral con vigencia sexenal, al cual se sujetarán obligatoriamente los programas de la Administración Pública Estatal.
 
-> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 1978)</small>
-
-Para cumplir las obligaciones y hacer debido uso de las facultades que el Estado impone y otorga este título, los Diputados que integren el Congreso, como representantes del pueblo, deberán estar en contacto directo y continuo con los Ayuntamientos de sus Distritos y con las comunidades que forman los mismos, a fin de que puedan orientarlos y auxiliarlos en sus gestiones ante todas las autoridades estatales y federales, para que el ejercicio del Poder Municipal, en bien de los intereses de la comunidad, halle (sic) la más amplia cooperación de aquéllas.
+La Ley determinará cuales serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenio con los Gobiernos Federal y Municipal e induzca y concerte con los particulares, las acciones a realizar para la elaboración y ejecución del Plan Estatal de Desarrollo.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1764,3 +1800,7 @@ Este Decreto entrará en vigor el día de su publicación en el Diario Oficial d
 D.O. 26 DE FEBRERO DE 1988.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 31 DE MARZO DE 1988.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de Gobierno del Estado.
