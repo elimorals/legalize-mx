@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "1998-10-14"
+last_updated: "1999-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 1999.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -567,11 +567,23 @@ VII.- Turnar a la secretaría del Congreso los dictámenes aprobados para su dis
 
 VIII.- Las demás que les confieren esta Ley y otros ordenamientos legales aplicables.
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 1999)</small>
 
 ###### Art. 52.
 
-Las comisiones conocerán de los asuntos que les sean turnados por el Presidente del Congreso. Salvo que la ley disponga otro término, deberán dictaminarlos en un plazo máximo de dos meses, excepto aquellos en que el Pleno acuerde fijar un plazo diverso, atendiendo a la urgencia de la resolución.
+Las comisiones conocerán de los asuntos que les sean turnados por el Presidente del Congreso. Deberán dictaminarlos en un plazo máximo de dos meses, salvo que la Ley disponga otro término o que el Pleno acuerde fijar un plazo diverso, atendiendo a la urgencia de la resolución.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 1999)</small>
+
+Las iniciativas que se refieran a reformas o adicionales de la Constitución Política del Estado de Chihuahua, reformas o adiciones integrales a cualquier ordenamiento legal o bien, creación de un ordenamiento jurídico, deberán dictaminarse a más tardar dentro del Período Ordinario de Sesiones posterior inmediato, cuando para emitir el dictamen respectivo sea necesario someter el asunto a consulta pública o especializada.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 1999)</small>
+
+Para los efectos del párrafo anterior, las comisiones legislativas determinarán si existe la necesidad de someter a consulta pública la Iniciativa turnada y de ser afirmativo deberán cumplir con lo previsto en los artículos 152 y 153 de esta Ley. Cuando diversos sectores de la sociedad manifiesten su inquietud para opinar en torno a una Iniciativa, la comisión valorará sobre la necesidad de someterla a consulta.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 1999)</small>
+
+Cuando las comisiones determinen que una Iniciativa habrá de someterse a consulta pública, deberán hacerlo del conocimiento del Pleno o de la Junta de Coordinación Parlamentaria, dentro de los treinta días naturales siguientes a partir de la fecha que haya sido turnada por el Presidente.
 
 El Pleno, por medio del Presidente, hará los requerimientos que juzgue necesarios a las comisiones que se hallen en retardo, y no siendo esto bastante podrá emplazarlas para día determinado.
 
@@ -1526,3 +1538,7 @@ Artículo Unico.- El presente decreto entrará en vigor al día siguiente de su 
 P.O. 14 DE OCTUBRE DE 1998.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MAYO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
