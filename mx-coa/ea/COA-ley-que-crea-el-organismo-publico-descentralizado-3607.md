@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-3607"
 country: "mx"
 rank: "ley"
 publication_date: "1981-03-13"
-last_updated: "1981-03-13"
+last_updated: "2001-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE COAHUILA"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 13 de marzo de 1981.
 
@@ -57,11 +57,19 @@ El Comité de Planeación para el Desarrollo del Estado contará con los órgano
 
 I.- Por un Presidente, que será el C. Gobernador del Estado de Coahuila de Zaragoza;
 
-II.- Por un Vicepresidente, que será el C. Secretario del Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2001)</small>
 
-III.- Por un Coordinador General, que será el C. Director General de Planeación y Desarrollo del Estado;
+II.- Por dos Vicepresidentes, que serán los Secretarios de Gobierno y de Finanzas del Estado;
 
-IV.- Por un Secretario Técnico, que será el C. Delegado Regional de la Secretaría de Programación y Presupuesto de la Entidad;
+Cada uno de los Vicepresidentes tendrá a su cargo las atribuciones que determine el correspondiente reglamento interior;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2001)</small>
+
+III.- Por un Coordinador General, que será el Secretario de Planeación y Desarrollo del Estado;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2001)</small>
+
+IV.- Por un Secretario Técnico, que será el Subsecretario de Planeación de la Secretaría de Planeación y Desarrollo del Estado;
 
 V.- Por los delegados y representantes de las Dependencias y Entidades Paraestatales del Gobierno Federal en el Estado;
 
@@ -81,19 +89,29 @@ XI.- Los representantes de instituciones de educación superior y de centros de 
 
 XII.- Los senadores y diputados federales por el Estado, así como los diputados locales.
 
-Cada miembro propietario de los señalados a partir de la fracción V, en su caso, designará un suplente.
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2001)</small>
+
+Se integrará al Comité de Planeación para el Desarrollo del Estado como Vocal de Vigilancia, el titular de la Secretaría de la Contraloría y Modernización Administrativa.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2001)</small>
+
+Cada miembro propietario de los señalados a partir de la fracción V designará, en su caso, un suplente.
 
 ###### ARTICULO CUARTO.
 
 Los órganos directivos del Comité celebrarán sesiones ordinarias bimestralmente por lo menos y las extraordinarias que sean necesarias para la marcha eficaz del Organismo.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2001)</small>
+
 ###### ARTICULO QUINTO.
 
-Las remuneraciones de los integrantes del Comité quedarán a cargo de las dependencias, entidades y organismos que los hubiere designado.
+Los cargos que se desempeñen al seno del Comité de Planeación para el Desarrollo del Estado serán honoríficos. Sus miembros no percibirán remuneración alguna.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2001)</small>
 
 ###### ARTICULO SEXTO.
 
-Los órganos directivos del Comité coordinarán sus actividades con las de la Secretaría de Programación y Presupuesto del Gobierno Federal, a fin de que sus acciones sean coincidentes con las políticas generales de desarrollo nacional, estatal, regional y sectorial.
+Los órganos directivos del Comité coordinarán sus actividades con las de la dependencia o dependencias federales competentes, a fin de que sus acciones sean coincidentes con las políticas generales de desarrollo nacional, estatal, regional y sectorial.
 
 ### CAPITULO TERCERO. ATRIBUCIONES
 
@@ -109,19 +127,29 @@ III.- Coordinar el control de evaluación del plan estatal de desarrollo, para a
 
 IV.- Formular y proponer a los Ejecutivos Federal y Estatal, programas de inversión, gasto y financiamiento para la Entidad, a fin de enriquecer los criterios conforme a los cuales definan sus respectivos presupuestos de egresos;
 
-Las propuestas que se hagan al Ejecutivo Federal, deberán presentarse a través de la Secretaría de Programación y Presupuesto conforme a las normas que ésta establezca para ello, desglosadas a nivel de obras y servicios y claramente jerarquizadas;
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2001)</small>
 
-V.- Sugerir a los Ejecutivos Federal y Estatal, programas y acciones a concertar en el marco del Convenio Unico de Coordinación, con el propósito de coadyuvar a alcanzar los objetivos del desarrollo del Estado;
+Las propuestas que se hagan al Ejecutivo Federal, deberán presentarse por conducto de la dependencia federal competente. Estas propuestas deberán estar desglosadas a nivel de obras y servicios y claramente jerarquizadas;
 
-VI.- Evaluar el desarrollo de los programas y acciones concertados en el marco del Convenio Unico de Coordinación, entre la Federación y el Estado, e informar periódicamente al respecto al Ejecutivo Estatal y, por conducto de la Secretaría de Programación y Presupuesto, al Ejecutivo Federal;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2001)</small>
+
+V.- Sugerir a los Ejecutivos Federal y Estatal, programas y acciones a concertar en el marco de los convenios que correspondan, con la finalidad de alcanzar los objetivos del desarrollo del Estado;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2001)</small>
+
+VI.- Evaluar el desarrollo de los programas y acciones concertados en el marco de los convenios que se hubieren celebrado, entre la Federación y el Estado, e informar de ello periódicamente al Ejecutivo Estatal y al Ejecutivo Federal por conducto de la dependencia federal competente;
 
 VII.- Promover la celebración de acuerdos de cooperación entre el sector público y los sectores social y privado que actúen a nivel estatal, tendientes a orientar sus esfuerzos al logro de los objetivos del desarrollo de la Entidad;
 
-VIII.- Promover la coordinación con otros Comités para coadyuvar en la definición, instrumentación y evaluación de planes para el desarrollo de regiones interestatales, solicitando a través de la Secretaría de Programación y Presupuesto la intervención de la Federación para tales efectos;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2001)</small>
+
+VIII.- Promover la coordinación con otros Comités para coadyuvar en la definición, instrumentación y evaluación de planes para el desarrollo de regiones interestatales. Para tal efecto, solicitará por conducto de la dependencia federal competente, la intervención de la federación que corresponda;
 
 IX.- Fungir como órgano de consulta tanto del Gobierno Estatal como de los Gobiernos Federal y Municipales, sobre la situación socio-económica de la Entidad;
 
-X.- Proponer a los Gobiernos Federal, Estatal y Municipales, medidas de carácter jurídico, administrativo y financiero, necesarias para el cumplimiento de las funciones y la consecución de los objetivos del propio Comité. Las propuestas que se formulen al Gobierno Federal deberán canalizarse a través de la Secretaría de Programación y Presupuesto;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2001)</small>
+
+X.- Proponer a los gobiernos federal, estatal y municipales, medidas de carácter jurídico, administrativo y financiero, necesarias para el cumplimiento de las funciones y la consecución de los objetivos del propio Comité. Las propuestas que se formulen al gobierno federal deberán de canalizarse por conducto de la dependencia federal competente; y
 
 XI.- Acordar el establecimiento de subcomités sectoriales, regionales y especiales, así como de grupos de trabajo, los cuales actuarán como instancias auxiliares del Comité, y se integrarán conforme a lo que éste determine.
 
@@ -149,9 +177,11 @@ Los bienes muebles e inmuebles pertenecientes al Organismo, gozarán de las fran
 
 Dichos bienes, así como los actos y contratos que celebre el Organismo, estarán igualmente exentos de toda clase de impuestos y derechos estatales y municipales.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2001)</small>
+
 ###### ARTICULO DECIMO PRIMERO.
 
-La Secretaría de Gobierno, queda facultada para aplicar y vigilar el cumplimiento de esta Ley, así como para interpretarla administrativamente, por medio de disposiciones generales que deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+La Secretaría de Gobierno queda facultada para aplicar y vigilar el cumplimiento de esta Ley.
 
 T R A N S I T O R I O S
 
@@ -210,3 +240,15 @@ OSCAR FLORES TAPIA. (Rúbrica).
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO.
 
 LIC. ROBERTO OROZCO MELO. (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE MARZO DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Para los efectos de lo dispuesto en este Decreto, el Comité deberá reunirse en un plazo que no excederá de 30 días, contado a partir de la fecha en que entre en vigor el presente Decreto, levantándose el acta respectiva que se protocolizará ante notario público e inscribirá en el Registro Público.
+
+CUARTO. El Comité expedirá su reglamento interior dentro de los 30 días siguientes a la fecha en que entre en vigor este Decreto.
