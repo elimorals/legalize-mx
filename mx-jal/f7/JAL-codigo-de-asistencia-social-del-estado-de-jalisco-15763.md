@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "1998-01-15"
+last_updated: "1998-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1998.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -1101,33 +1101,45 @@ V. Las unidades técnicas y de administración que determinen las autoridades de
 
 #### Sección Primera. De la Junta de Gobierno
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1998)</small>
+
 ###### Artículo 78.
 
-La Junta de Gobierno es la máxima autoridad del Instituto Cabañas y se integra por:
+La Junta de Gobierno es la máxima autoridad del Instituto Cabañas y se integra por un máximo de 17 miembros y estará formada por:
 
-I. Un Presidente, que será designado por el Titular del Poder Ejecutivo del Estado;
+I. Un Presidente;
 
-II. Hasta ocho Consejeros, que serán designados por el Gobernador del Estado, entre los cuales se encontrarán los siguientes:
+II. Un Secretario Ejecutivo;
 
-a) Los titulares de la Secretaría de Salud, de la Secretaría de Educación y de la Procuraduría Social, o sus respectivos representantes;
+III. Hasta quince Consejeros.
 
-b) El Director General del Instituto Cabañas;
+El Presidente será designado por el Titular del Poder Ejecutivo del Estado; así como hasta ocho consejeros, entre los cuales se deberán de encontrar los siguientes:
 
-c) Un representante de alguna institución de asistencia social privada dedicada a la atención y protección de menores, inscrita, reconocida y propuesta por el Instituto;
+a) Los titulares de la Secretaría de Salud, de la Secretaría de Educación y de la Procuraduría Social, o sus respectivos representantes.
 
-d) Un secretario que será designado por la propia junta de gobierno a propuesta de la dirección general del Instituto Cabañas;
+b) El Director General del Instituto Cabañas.
 
-e) Los que en un futuro por necesidades del propio Instituto Cabañas, nombre su junta de gobierno.
+c) Un representante de alguna institución de asistencia social privada dedicada a la atención y protección de menores, con mayor mérito, inscrita, reconocida y propuesta por el Instituto Jalisciense de Asistencia Social.
 
-Los cargos de consejeros a que se refiere el presente artículo serán honoríficos; sus titulares no recibirán remuneración alguna, con excepción de los previstos en las fracciones b) y d) del presente artículo, que percibirán los emolumentos señalados en el presupuesto de egresos del propio Instituto Cabañas.
+d) Hasta tres consejeros que al (sic) Titular del Poder Ejecutivo, considere necesarios para la integración de la junta de gobierno.
 
-Para que los acuerdos de la Junta de Gobierno sean válidos se requiere que exista quórum legal, que se integrará con la asistencia de la mayoría de sus miembros efectivos.
+El Secretario Ejecutivo será designado por la propia junta de gobierno a propuesta de la Dirección General del Instituto Cabañas, así como hasta siete consejeros más que se nombren por necesidades del propio Instituto Cabañas.
 
-En caso de no existir quórum legal en la hora y fecha señalados para la sesión en primera convocatoria, se citará nuevamente para efectuarse con los que asistan requiriéndose para ello que la notificación respectiva se haga con una anticipación no menor de 24 horas.
+Los miembros nombrados deberán haberse significado por su inclinación y vocación al servicio de la comunidad, así como su probada y su reconocida honorabilidad.
+
+Los cargos de consejeros a que se refiere el presente artículo serán honoríficos; sus titulares no recibirán remuneración alguna, con excepción de los previstos en la fracción II, y el inciso b) del presente artículo, que percibirán los emolumentos señalados en el presupuesto de egresos del propio Instituto Cabañas.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1998)</small>
 
 ###### Artículo 79.
 
-Las sesiones de la Junta de Gobierno se llevarán a cabo en las instalaciones del Instituto Cabañas, previa convocatoria de su Presidente, pudiendo ser ordinarias y extraordinarias. Las primeras se celebrarán una vez al mes, en la fecha señalada en la convocatoria correspondiente y las extraordinarias, en la fecha señalada en la convocatoria respectiva.
+Las sesiones de la Junta de Gobierno se llevarán a cabo en las instalaciones del Instituto Cabañas, previa convocatoria de su presidente, pudiendo ser ordinarias o extraordinarias. Ambas deberán celebrarse en la fecha señalada por la convocatoria respectiva, debiendo las ordinarias celebrarse una vez al mes.
+
+Para que la junta de gobierno sesione, se requiere que exista el quórum legal, que se integrará con la asistencia de la mayoría de sus integrantes. Las decisiones se tomarán por mayoría de votos de los miembros presentes, y en caso de empate, el Presidente tendrá voto de calidad.
+
+Las convocatorias deberán notificarse a los miembros de la junta de gobierno, al menos con siete hábiles días (sic) de anticipación. Este plazo podrá reducirse a cuarenta y ocho horas en casos de comprobada urgencia.
+
+En caso de no existir quórum legal en la fecha y horas señalados para la sesión en primera convocatoria, se citará nuevamente para efectuarse con un número no menor de cinco miembros, requiriéndose para ello que la notificación respectiva se haga con una anticipación no menor de cuarenta y ocho horas de su celebración.
 
 ###### Artículo 80.
 
@@ -2012,3 +2024,9 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 21 DE JULIO DE 1998.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
