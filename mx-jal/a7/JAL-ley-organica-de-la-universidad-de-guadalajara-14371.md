@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-universidad-de-guadalajara-14371"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-01-15"
-last_updated: "1994-12-31"
+last_updated: "1995-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA UNIVERSIDAD DE GUADALAJARA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ABRIL DE 1995.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de enero de 1994.
 
@@ -1279,7 +1279,13 @@ X. Designar al Contralor del Sistema, de una terna propuesta por el Consejo Soci
 
 XI. Elegir a los nueve representantes académicos, directivos y alumnos ante el Consejo General Universitario, de acuerdo, a lo establecido en el Estatuto General, y
 
-XII. Las demás que establezca en su favor la normatividad universitaria.
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 1995)</small>
+
+XII. Proponer al Director General del Sistema, las ternas para la designación de los directores de las dependencias y escuelas adscritas al Sistema de Educación Media Superior, asimismo proponer en su caso, a los directores interinos o sustitutos;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1995)</small>
+
+XIII. Las demás que establesca (sic) en su favor la normatividad universitaria.
 
 ### CAPÍTULO III. Del Director General de Educación Media Superior
 
@@ -1301,7 +1307,9 @@ I. Convocar y presidir el Consejo Universitario de Educación Media Superior y l
 
 II. Proponer al Consejo Universitario de Educación Media Superior la designación de los miembros de las comisiones permanentes y especiales que se integren, actuando como presidente ex oficio de las mismas;
 
-III. Proponer al Rector General el nombramiento de los Secretarios Académico y Administrativo del Sistema, así como de los Directores de las dependencias y Escuelas del nivel, a partir de ternas propuestas por los Consejos de escuela; asimismo, la autorización de licencias, la aceptación de sus renuncias y su separación por causa grave;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1995)</small>
+
+III. Proponer al Rector el nombramiento de Secretario Académico, de Secretario Administrativo, de los Directores de las dependencias y escuelas adscritas al Sistema de Educación Media Superior, así como la autorización de licencias, la aceptación de renuncias y su separación por causa grave;
 
 IV. Promover todo lo que tienda al mejoramiento técnico, académico, administrativo y patrimonial del Sistema de Educación Media Superior de la Universidad, y
 
@@ -1357,7 +1365,7 @@ II. Proponer al Consejo Universitario de Educación Media Superior, la creación
 
 III. Aprobar los programas de desarrollo, docencia, investigación y difusión de la escuela;
 
-IV. Proponer al Director General de Educación Media Superior, las ternas para la designación de los Directores de Escuelas, y
+IV. (DEROGADA, P.O. 13 DE ABRIL DE 1995)
 
 V. Las demás que establezcan los ordenamientos aplicables.
 
@@ -1367,9 +1375,13 @@ V. Las demás que establezcan los ordenamientos aplicables.
 
 Los Directores de Escuela en el nivel medio superior serán los representantes de los planteles y autoridades responsables del desempeño de las labores académicas y administrativas, de conformidad con lo establecido en el Plan de Desarrollo Institucional y los programas de desarrollo correspondientes. Serán auxiliados por un Secretario, quien lo sustituirá en sus faltas no mayores de dos meses.
 
-Los Directores de Escuela, serán nombrados por el Rector General, a propuesta del Director General del Sistema, de una terna que remita el Consejo de Escuelas, cada tres años, contados a partir del día quince de mayo del año en que entre en funciones el Rector General, o cuando se requiera por estar vacante el puesto.
+(REFORMADO, P.O. 13 DE ABRIL DE 1995)(F. DE E., P.O. 27 DE ENERO DE 1996)
 
-Los Directores de Escuela pueden ser reelectos en forma indefinida. Sus atribuciones estarán especificadas en el Estatuto General y el Estatuto Orgánico correspondiente.
+Los directores de las dependencias y escuelas adscritas al Sistema de Educación Media Superior serán designados por el Director General, de las ternas propuestas por el Consejo Universitario de Educación Media Superior. Estos durarán en su cargo 3 años, contados a partir del 15 de mayo del año en que se renueve la Rectoría General, pudiendo ser reelectos. Los directores interinos y los sustitutos cubrirán el Periodo para el que sean designados y también podrán ser reelectos.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1995)</small>
+
+El procedimiento de integración de ternas para la designación de los directores a que se refiere el párrafo anterior, así como sus atribuciones, se regularán en los Estatutos General y Orgánico del Sistema.
 
 ###### Art. 83.
 
@@ -1656,5 +1668,9 @@ Lic. José Luis Leal Sanabria
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE DICIEMBRE DE 1994.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE ABRIL DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
