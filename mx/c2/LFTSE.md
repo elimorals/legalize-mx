@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1987-12-22"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -286,7 +286,7 @@ Los niveles de sueldo del tabulador que consignen sueldos equivalentes al salari
 
 > <small>(REFORMADO, D.O.F. 12 DE ENERO DE 1984)</small>
 
-La Secretaría de Programación y Presupuesto, tomando en cuenta la opinión de la Federación de Sindicatos de Trabajadores al Servicio del Estado, fijará las normas, lineamientos y políticas que permitan establecer las diferencias en las remuneraciones asignadas para los casos de alcances en los niveles de tabuIador que se originen con motivo de los incrementos a que se refiere el párrafo anterior.
+La Secretaría de Programación y Presupuesto, tomando en cuenta la opinión de la Federación de Sindicatos de Trabajadores al Servicio del Estado, fijará las normas, lineamientos y políticas que permitan establecer las diferencias en las remuneraciones asignadas para los casos de alcances en los niveles de tabulador que se originen con motivo de los incrementos a que se refiere el párrafo anterior.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -826,6 +826,8 @@ La huelga sólo suspende los efectos de los nombramientos de los trabajadores po
 
 La huelga deberá limitarse al mero acto de la suspensión del trabajo.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 97.
 
 Los actos de coacción o de violencia física o moral sobre las personas o de fuerza sobre las cosas cometidos por los huelguistas, tendrán como consecuencia, respecto de los responsables, la pérdida de su calidad de trabajador; si no constituyen otro delito cuya pena sea mayor, se sancionarán con prisión hasta de dos años y multa hasta de diez mil pesos, más la reparación del daño.
@@ -1072,7 +1074,9 @@ V.- Las demás que le confieran las Leyes.
 
 Para ser Magistrado del Tribunal Federal de Conciliación y Arbitraje se requiere:
 
-I.- Ser mexicano en pleno goce de sus derechos civiles;
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I.- Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
 
 II.- Ser mayor de veinticinco años, y
 
@@ -1306,6 +1310,8 @@ La demanda, la citación para absolver posiciones, la declaratoria de caducidad,
 
 Todos los términos correrán a partir del día hábil siguiente a aquél en que se haga el emplazamiento, citación notificación, y se contará en ellos el día del vencimiento.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 143.
 
 El Tribunal sancionará las faltas de respeto que se le cometan, ya sea por escrito o en cualquiera otra forma. Las sanciones consistirán en amonestación o multa. Esta no excederá de cincuenta pesos tratándose de trabajadores ni de quinientos tratándose de funcionarios.
@@ -1331,6 +1337,8 @@ Las autoridades civiles y militares están obligadas a prestar auxilio al Tribun
 ## TITULO OCTAVO. De los medios de Apremio y de la Ejecución de los Laudos
 
 ### CAPITULO I
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 148.
 
@@ -1414,6 +1422,8 @@ Las correcciones a que alude el artículo anterior serán:
 
 I.- Amonestación;
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 II.- Multa que no podrá exceder de cien pesos, y
 
 III.- Suspensión del empleo con privación de sueldos hasta por tres días.
@@ -1421,6 +1431,8 @@ III.- Suspensión del empleo con privación de sueldos hasta por tres días.
 ###### ARTICULO 164.
 
 Las correcciones disciplinarias se impondrán oyendo al interesado y tomando en cuenta las circunstancias en que tuvo lugar la falta cometida.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 165.
 
@@ -1605,3 +1617,7 @@ D.O.F. 22 DE DICIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
