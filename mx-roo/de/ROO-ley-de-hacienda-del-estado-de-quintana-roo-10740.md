@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "1997-12-15"
+last_updated: "1998-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -83,11 +83,11 @@ Las violaciones a las disposiciones expresas en este ordenamiento serán sancion
 
 #### SECCION PRIMERA. DEL OBJETO Y DEL SUJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 5o.
 
-Es objeto del impuesto, la enajenación de vehículos de motor usados, así como la enajenación de bienes muebles usados que realicen las personas físicas o morales.
+Es objeto del Impuesto, la enajenación de vehículos de motor usados, así como la enajenación de bienes muebles usados que realicen las personas físicas o morales, siempre que el enajenante no expida factura en la cual se traslade el impuesto al valor agregado.
 
 I.- Para los efectos de este impuesto, se considera enajenación de vehículos y bienes muebles:
 
@@ -105,7 +105,7 @@ f).- La permuta.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
-g).- Los demás supuestos comprendidos en el Código Fiscal del Estado.
+g) Los demás supuestos comprendidos en el Código Fiscal del Estado.
 
 Cuando se trate de permuta, se considera que existe doble enajenación.
 
@@ -113,9 +113,7 @@ II.- Se considera, salvo prueba en contrario, por lo que respecta a los vehícul
 
 a).- Que así conste en el endoso que aparece en el documento que ampare la propiedad del vehículo en cuestión.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-b).- Que el endoso a que se refiere el inciso anterior, no contenga lugar de operación, excepto cuando el particular acredite haber cubierto el impuesto en otra entidad federativa.
+b).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1998)
 
 c).- Que el vehículo en cuestión circule con placas del Estado de Quintana Roo, aún cuando el endoso haya sido fechado en otra entidad.
 
@@ -581,7 +579,9 @@ V.- Si la adjudicación al acreedor se hiciere por convenio, deberá considerars
 
 Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección y dependencia de un patrón o terceros.
 
-Para los efectos de este impuesto, quedan comprendidas entre las erogaciones mencionadas anteriormente, aquellas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, incluyendo comisiones a trabajadores, premios, gratificaciones, rendimientos, primas vacacionales, dominicales, por antigüedad, así como cualquier otra erogación en beneficio de los trabajadores en forma personal. Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+Para los efectos de este impuesto, quedan comprendidas entre las erogaciones mencionadas anteriormente, aquellas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, incluyendo comisiones a trabajadores, premios, gratificaciones, rendimientos, primas vacacionales, dominicales, por antigüedad, así como cualquier otra erogación que en razón de su trabajo o por la relación laboral reciba el trabajador. Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -624,6 +624,10 @@ c).- Tratándose de personas físicas, cuyo Registro Federal de Contribuyentes i
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 d).- Tratándose de personas físicas cuyo Registro Federal de Contribuyentes inicie con las letras de la "L" a la "Z", el plazo vence el día 15 del mes siguiente a aquél en que se efectuó la erogación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+e).- Deberá efectuarse bimestralmente cuando el número de trabajadores por los que se declara sean hasta cinco, a más tardar el día 17 del mes siguiente a aquél en que se efectuó la erogación.
 
 Estos pagos, se efectuarán en la Oficina Recaudadora de Rentas o en las oficinas autorizadas por la Secretaría de Hacienda del Estado del domicilio del sujeto pasivo de este impuesto, salvo en el caso de contar con una o mas sucursales dentro del territorio del Estado de Quintana Roo, en cuyo caso se estará a lo establecido por el artículo 45 de la presente ley.
 
@@ -685,11 +689,13 @@ IV.- Las sucursales, bodegas, agencias y otras dependencias de la matriz que se 
 
 V.- Las personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa, pero que efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, deberán registrar como domicilio fiscal estatal el lugar donde se origine dicha contraprestación, además deberán hacer sus pagos en la oficina recaudadora que corresponda a su jurisdicción.
 
-> <small>(REFORMADA. P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
-VI.- Conservar la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de diez años cuando menos.
+VI.- Conservar la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años contados, a partir de la fecha en que se presentaron o debieron haberse presentando las declaraciones con ellas relacionadas.
 
-VII.- (DEROGADA, P.O. 29 DE NOVIEMBRE DE 1995)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+VII.- Las personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra entidad, deberán mantener copia de su documentación contable fiscal relacionado con las contribuciones estatales, en la sucursal que corresponda en el Estado.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -729,7 +735,9 @@ II.- Jubilaciones y pensiones en caso de invalidez, vejez, cesantía y muerte.
 
 III.- Pagos por gastos funerarios.
 
-IV.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 1996)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+IV.- Los instrumentos de trabajo, tales como herramientas, ropa y otros similares.
 
 V.- Remuneraciones cubiertas por las dependencias de la Administración Pública Centralizada Federal, Estatal y Municipal.
 
@@ -755,7 +763,9 @@ g) Las asociaciones civiles organizadas con fines científicos, políticos, reli
 
 No se considerarán para estos fines las instituciones educativas a menos que sus servicios sean gratuitos.
 
-VIII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 1996)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+VIII.- El ahorro cuando se integre por un depósito de cantidad semanaria, quincenal o mensual igual del trabajador y de la empresa.
 
 IX.- Remuneraciones cubiertas a trabajadores domésticos.
 
@@ -764,6 +774,10 @@ X.- Remuneraciones al personal subordinado que acredite ser cónyuge o tener par
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XI.- Pagos efectuados por INFONAVIT, SAR, IMSS.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+XII.- La alimentación y habitación cuando no se proporcionen gratuitamente al trabajador, así como las despensas.
 
 #### SECCION QUINTA. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1023,7 +1037,9 @@ Quedan exceptuados del cumplimiento de las obligaciones referidas en esta fracci
 
 III.- Expedir facturas, notas de venta o documentos que amparen los ingresos que perciban, así como recabarlos por las compras y otros egresos que efectúen;
 
-IV.- Conservar cinco años la documentación y demás elementos contables y comprobatorios relativos a las operaciones efectuadas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+IV.- Conservar cinco años la documentación y demás elementos contables y comprobatorios relativos a las operaciones contables efectuadas, contados a partir de la fecha en que se presentaron o debieron haberse presentado;
 
 V.- Proporcionar a las autoridades fiscales los datos, informes o documentos que le soliciten dentro del plazo fijado para ello;
 
@@ -3235,6 +3251,502 @@ De primera hasta 1,156 578 S.M.G.
 
 De segunda hasta 1,050 525 S.M.G.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+IX.- Por los cambios de municipio de las patentes de Othón P. Blanco y Felipe Carrillo Puerto a Benito Juárez, Solidaridad y Cozumel, para la:
+
+a).- Venta de cervezas exclusivamente con alimentos..
+
+Loncherías, Marisquerías y Taquerías:
+
+ZONA HOTELERA
+
+De lujo hasta 1,523 S.M.G.
+
+De Primera hasta 1,470 S.M.G
+
+De segunda hasta 1,418 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,155 S.M.G.
+
+De primera hasta 998 S.M.G.
+
+De segunda hasta 840 S.M.G
+
+b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
+
+Restaurantes:
+
+ZONA HOTELERA
+
+De lujo hasta 2,521 S.M.G.
+
+De Primera hasta 2,467 S.M.G
+
+De segunda hasta 2,310 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 2,153 S.M.G.
+
+De primera hasta 2,100 S.M.G.
+
+De segunda hasta 2,048 S.M.G
+
+c).- Venta de cervezas, vinos y licores en envase cerrado.
+
+Autoservicios, minisuper y licorerías:
+
+ZONA HOTELERA
+
+De lujo hasta 1,891 S.M.G.
+
+De Primera hasta 1,837 S.M.G
+
+De segunda hasta 1,680 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,838 S.M.G.
+
+De primera hasta 1,785 S.M.G.
+
+De segunda hasta 1,733 S.M.G
+
+d).- Venta de cervezas en envase cerrado.
+
+Subagencias, depósitos y abarrotes:
+
+ZONA HOTELERA
+
+De lujo hasta 1,575 S.M.G.
+
+De Primera hasta 1,523 S.M.G
+
+De segunda hasta 1,470 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,732 S.M.G.
+
+De primera hasta 1,576 S.M.G.
+
+De segunda hasta 1,417 S.M.G
+
+e).- Venta de cervezas, vinos y licores al copeo.
+
+Bares, discotecas, centros nocturnos y piano-bar:
+
+ZONA HOTELERA
+
+De lujo hasta 3,518 S.M.G.
+
+De Primera hasta 3,413 S.M.G
+
+De segunda hasta 3,308 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 3,308 S.M.G.
+
+De primera hasta 3,203 S.M.G.
+
+De segunda hasta 3,150 S.M.G
+
+f).- Venta de cervezas en envase abierto.
+
+Cervecerías:
+
+ZONA HOTELERA
+
+De lujo hasta 1,522 S.M.G.
+
+De Primera hasta 1,478 S.M.G
+
+De segunda hasta 1,417 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,417 S.M.G.
+
+De primera hasta 1,366 S.M.G.
+
+De segunda hasta 1,312 S.M.G
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+X.- Por los cambios de municipio de las patentes de Othón P. Blanco y Felipe Carrillo Puerto a Isla Mujeres, para la:
+
+a).- Venta de cervezas exclusivamente con alimentos.
+
+Loncherías, Marisquerías y Taquerías:
+
+ZONA HOTELERA
+
+De lujo hasta 315 S.M.G.
+
+De Primera hasta 263 S.M.G
+
+De segunda hasta 210 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 211 S.M.G.
+
+De primera hasta 200 S.M.G.
+
+De segunda hasta 158 S.M.G
+
+b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
+
+Restaurantes:
+
+ZONA HOTELERA
+
+De lujo hasta 1,786 S.M.G.
+
+De Primera hasta 1,732 S.M.G
+
+De segunda hasta 1,675 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,470 S.M.G.
+
+De primera hasta 1,418 S.M.G.
+
+De segunda hasta 1,365 S.M.G
+
+c).- Venta de cervezas, vinos y licores en envase cerrado.
+
+Autoservicios, minisuper y licorerías:
+
+ZONA HOTELERA
+
+De lujo hasta 1,156 S.M.G.
+
+De Primera hasta 1,102 S.M.G.
+
+De segunda hasta 945 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 840 S.M.G.
+
+De primera hasta 788 S.M.G.
+
+De segunda hasta 735 S.M.G
+
+d).- Venta de cervezas en envase cerrado.
+
+Subagencias, depósitos y abarrotes:
+
+ZONA HOTELERA
+
+De lujo hasta 1,129 S.M.G.
+
+De Primera hasta 1,000 S.M,G
+
+De segunda hasta 895 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 815 S.M.G.
+
+De primera hasta 750 S.M.G.
+
+De segunda hasta 690 S.M.G
+
+e).- Venta de cervezas, vinos y licores al copeo.
+
+Bares, discotecas, centros nocturnos y piano-bar:
+
+ZONA HOTELERA
+
+De lujo hasta 2,625 S.M.G.
+
+De Primera hasta 2,520 S.M.G
+
+De segunda hasta 2,363 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 2,415 S.M.G.
+
+De primera hasta 2,310 S.M.G.
+
+De segunda hasta 2,100 S.M.G
+
+f).- Venta de cervezas en envase abierto.
+
+Cervecerías:
+
+ZONA HOTELERA
+
+De lujo hasta 682 S.M.G.
+
+De Primera hasta 578 S.M.G
+
+De segunda hasta 551 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 604 S.M.G.
+
+De primera hasta 578 S.M.G.
+
+De segunda hasta 525 S.M.G.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+XI.- Por los cambios de municipio de las patentes de José Ma. Morelos y Lázaro Cárdenas a Benito Juárez, Solidaridad y Cozumel, para la:
+
+a).- Venta de cervezas exclusivamente con alimentos.
+
+Loncherías, Marisquerías y Taquerías:
+
+ZONA HOTELERA
+
+De lujo hasta 1,785 S.M.G.
+
+De Primera hasta 1,733 S.M.G
+
+De segunda hasta 1,523 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,418 S.M.G.
+
+De primera hasta 1,208 S.M.G.
+
+De segunda hasta 998 S.M.G
+
+b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
+
+Restaurantes:
+
+ZONA HOTELERA
+
+De lujo hasta 2,572 S.M.G.
+
+De Primera hasta 2,521 S.M.G.
+
+De segunda hasta 2,467 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 2,415 S.M.G.
+
+De primera hasta 2,258 S.M.G.
+
+De segunda hasta 2,048 S.M.G
+
+c).- Venta de cervezas, vinos y licores en envase cerrado.
+
+Autoservicios, minisuper y licorerías:
+
+ZONA HOTELERA
+
+De lujo hasta 2,205 S.M.G.
+
+De Primera hasta 2,153 S.M.G.
+
+De segunda hasta 2,100 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 2,100 S.M.G.
+
+De primera hasta 2,048 S.M.G.
+
+De segunda hasta 1,943 S.M.G.
+
+d).- Venta de cervezas en envase cerrado.
+
+Subagencias, depósitos y abarrotes:
+
+ZONA HOTELERA
+
+De lujo hasta 2,100 S.M.G.
+
+De Primera hasta 1,943 S.M.G.
+
+De segunda hasta 1,838 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,890 S.M.G.
+
+De primera hasta 1,786 S.M.G.
+
+De segunda hasta 1,575 S.M.G.
+
+e).- Venta de cervezas, vinos y licores al copeo.
+
+Bares, discotecas, centros nocturnos y piano-bar:
+
+ZONA HOTELERA
+
+De lujo hasta 3,833 S.M.G.
+
+De Primera hasta 3,676 S.M.G.
+
+De segunda hasta 3,518 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 3,571 S.M.G.
+
+De primera hasta 3,518 S.M.G.
+
+De segunda hasta 3,412 S.M.G.
+
+f).- Venta de cervezas en envase abierto.
+
+Cervecerías:
+
+ZONA HOTELERA
+
+De lujo hasta 2,677 S.M.G.
+
+De Primera hasta 2,521 S.M.G.
+
+De segunda hasta 2,310 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 2,100 S.M.G.
+
+De primera hasta 1,891 S.M.G.
+
+De segunda hasta 1,785 S.M.G.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+XII.- Por los cambios de municipio de las patentes de José Ma. Morelos y Lázaro Cárdenas a Isla Mujeres, para la:
+
+a).- Venta de cervezas exclusivamente con alimentos..
+
+Loncherías, Marisquerías y Taquerías:
+
+ZONA HOTELERA
+
+De lujo hasta 577 S.M.G.
+
+De Primera hasta 526 S.M.G.
+
+De segunda hasta 315 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 473 S.M.G.
+
+De primera hasta 421 S.M.G.
+
+De segunda hasta 310 S.M.G
+
+b).- Venta de cervezas, vinos y licores exclusivamente con los alimentos.
+
+Restaurantes:
+
+ZONA HOTELERA
+
+De lujo hasta 1,937 S.M.G.
+
+De Primera hasta 1,786 S.M.G
+
+De segunda hasta 1,732 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,732 S.M.G.
+
+De primera hasta 1,576 S.M.G.
+
+De segunda hasta 1,365 S.M.G
+
+c).- Venta de cervezas, vinos y licores en envase cerrado.
+
+Autoservicios, minisuper y licorerías:
+
+ZONA HOTELERA
+
+De lujo hasta 1,470 S.M.G.
+
+De Primera hasta 1,418 S.M.G.
+
+De segunda hasta 1,365 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,102 S.M.G.
+
+De primera hasta 1,051 S.M.G.
+
+De segunda hasta 945 S.M.G.
+
+d).- Venta de cervezas en envase cerrado.
+
+Subagencias, depósitos y abarrotes:
+
+ZONA HOTELERA
+
+De lujo hasta 1,254 S.M.G.
+
+De Primera hasta 1,123 S.M.G.
+
+De segunda hasta 1,070 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,208 S.M.G.
+
+De primera hasta 1,103 S.M.G.
+
+De segunda hasta 893 S.M.G.
+
+e).- Venta de cervezas, vinos y licores al copeo.
+
+Bares, discotecas, centros nocturnos y piano-bar:
+
+ZONA HOTELERA
+
+De lujo hasta 2,888 S.M.G.
+
+De Primera hasta 2,783 S.M.G.
+
+De segunda hasta 2,625 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 2,940 S.M.G.
+
+De primera hasta 2,678 S.M.G.
+
+De segunda hasta 2,362 S.M.G.
+
+f).- Venta de cervezas en envase abierto.
+
+Cervecerías:
+
+ZONA HOTELERA
+
+De lujo hasta 1,837 S.M.G.
+
+De Primera hasta 1,628 S.M.G.
+
+De segunda hasta 1,444 S.M.G.
+
+ZONA COMERCIAL
+
+De lujo hasta 1,287 S.M.G.
+
+De primera hasta 1,103 S.M.G.
+
+De segunda hasta 998 S.M.G
+
 ### CAPITULO VI. DEL REGISTRO Y CONTROL DE VEHICULOS
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
@@ -3251,9 +3763,11 @@ I.- Las personas morales residentes en México, a partir de que se firme su acta
 
 II.- Las personas físicas, así como las morales residentes en el extranjero, desde que se realicen las situaciones jurídicas o de hecho. U obtengan ingresos derivados de sus actividades.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 172.
 
-Las personas a que hace referencia el artículo anterior deberán solicitar en el mismo plazo la expedición de LICENCIA DE FUNCIONAMIENTO, para lo cual deberán acompañar a su solicitud los siguientes documentos:
+Las personas a que hace referencia el Artículo anterior deberán solicitar en el mismo plazo la expedición de licencia de funcionamiento que corresponda, según sea su actividad y por cada establecimiento o sucursal, para lo cual deberán acompañar a su solicitud los siguientes documentos:
 
 I.- Copia de su inscripción en el Registro Federal de Contribuyentes.
 
@@ -3270,6 +3784,10 @@ VI.- Patente original y copia, si expenden bebidas alcohólicas.
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 VII.- Y demás documentos que a juicio de la Secretaría de Hacienda del Estado se juzguen necesarios, previa publicación que la misma haga con diez días hábiles de anticipación a la entrada en vigor del aumento de requisitos, en uno de los periódicos de mayor circulación en el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+Cuando en un mismo establecimiento se realicen varias actividades, deberán solicitar en el mismo plazo la expedición de las licencias de funcionamiento, por cada uno de los giros o actividades, a excepción de los giros comerciales denominados Super ó Minisupers.
 
 ###### ARTICULO 173.
 
@@ -3845,11 +4363,11 @@ Los contribuyentes que no se hayan inscrito en el Padrón Estatal de contribuyen
 
 Simultánea o sucesivamente al requerimiento, la autoridad impondrá las sanciones que correspondan en los términos que para el efecto señala el Código Fiscal del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 175.
 
-Las licencias a que se refiere este capítulo, deberán tenerse en lugar visible en el establecimiento para el cual fueron expedidas y tienen vigencia durante el ejercicio fiscal en que se expidan, debiendo renovarse dentro de los dos primeros meses del ejercicio fiscal siguiente a su expedición, para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría de Hacienda del Estado, a la que acompañarán los siguientes documentos.
+Las licencias a que se refiere este capítulo, deberán tenerse en lugar visible en el establecimiento para la cual fueron expedidas y, tienen vigencia durante el ejercicio fiscal en que se expidan y el siguiente, debiendo renovarse dentro de los dos primeros meses del ejercicio fiscal a su vencimiento a excepción de las licencias a que se refiere, el Artículo 173-A de esta ley; para lo cual presentarán la solicitud en las formas que al efecto apruebe la Secretaría de Hacienda del Estado, a la que acompañarán los siguientes documentos:
 
 I.- Licencia de funcionamiento del año inmediato anterior.
 
@@ -4643,6 +5161,14 @@ V.- Copias certificadas derivadas de Convenios transaccionales, exhortos y autor
 
 VI.- Por expedición de copias certificadas a cargo del Poder Judicial, 1 s.m.g.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+VII.- Por expedición de Copias simples:
+
+a).- Por la primera hoja 0.5 S.M.G.
+
+b).- Por cada hoja excedente 0.06 S.M.G.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO XVI. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
@@ -4843,7 +5369,13 @@ a).- El de la ejecución material de la obra, considerando exclusivamente el pre
 
 b).- Los gastos de financiamiento para la ejecución de la misma incluyendo los que se eroguen para obtenerlo, los de administración en su caso y los intereses que devenguen.
 
-Los notarios no autorizarán actos de traslación de dominio ni el personal del Registro Publico de la Propiedad harán la (sic) inscripciones respectivas, si no se comprueba que se han pagado los derechos de cooperación para obras públicas y serán solidariamente responsables con el contribuyente del pago de los derechos que se hubieren omitido.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+Los notarios no autorizarán actos de traslación de dominio ni el personal del Registro Publico de la Propiedad harán las inscripciones respectivas, si no se comprueba que se han pagado los derechos de cooperación para obras públicas mediante la respectiva constancia de no adeudo expedida por la Recaudadora de Rentas correspondiente y serán solidariamente responsables con el contribuyente del pago de los derechos que se hubieren omitido.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+La vigencia de la constancia de no adeudo de cooperación por obras públicas será de un año, estando obligados los contribuyentes en renovar su constancia vencido dicho término.
 
 ###### ARTICULO 197.
 
@@ -4917,11 +5449,9 @@ b).- Si el valor es más de 907 S.M.G. se aplicará el 1.15 % resultante.
 
 Lo anterior sin perjuicio de que si al aplicarse a la cantidad que exceda de lo señalado en el inciso b) el 1.15%, resultare inferior a 9.2 veces el S.M.G. vigente en el estado, se aplicará este último.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
-Por la inscripción de documentos donde conste la enajenación de vivienda de interés social y
-
-popular, siempre y cuando la superficie total de construcción no exceda de 55 metros cuadrados y la superficie del terreno no exceda de 110 metros cuadrados, 4 S.M.G.
+Por la inscripción de documentos donde conste la enajenación de terrenos otorgados por Corett; y la enajenación de vivienda de interés social y popular, siempre y cuando la superficie total de construcción no exceda de 55 metros cuadrados y la superficie del terreno no exceda de 200 metros cuadrados, 4.0 S.M.G.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -4935,7 +5465,17 @@ Para efectos de esta fracción se consideran transmisión de bienes todos los su
 
 Cuando se trate de la constitución y/o ejecución de fideicomisos traslativos de dominio 0.575% sobre el valor señalado en el artículo 202, Fracción l, Inciso b), con excepción de los casos de enajenación señalados en la Fracción XI del artículo 15 del Código Fiscal del Estado.
 
-III.- Por inscripción de la escritura constitutiva del régimen de la propiedad en condominio se aplicará lo dispuesto en la fracción anterior, tomando en cuenta el valor total del inmueble.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+Por la extinción de fideicomiso traslativo de dominio se deberá cobrar 5.75 S.M.G.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+El cobro de derechos por sustitución de fiduciario, fideicomisario, incremento de patrimonio de familia, será por 5.75 S.M.G.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+III.- Por inscripción de la escritura constitutiva del régimen de la propiedad en condominio se aplicará lo dispuesto en la fracción anterior, tomando en cuenta el valor total del inmueble, en términos del Artículo 202 fracción I inciso b), de la ley de Hacienda Estado.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -4985,17 +5525,31 @@ b).- Cuando exceda de $ 5,000.01............ 9.20 S.M.G.
 
 c).- Cuando el gravamen se trate de la vivienda de interés social o popular de construcción reciente............ 2.30 S.M.G.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+Por la inscripción de la dación en pago derivada de un crédito, se deberá pagar 20 S.M.G.
+
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-VIII- La inscripción de las demandas, el 50% de las cuotas que correspondan conforme a la fracción II del presente artículo.
+VIII.- La inscripción de las demandas, el 50% de las cuotas que correspondan conforme a la fracción II del presente artículo.
 
 La anotación marginal de las demandas relativas a los juicios que se tramiten en las distintas instancias....... 5.75 S.M.G.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+Por la cancelación de estos conceptos --- 5.75. S.M.G.
+
 IX.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
-X.- La inscripción de la constitución del patrimonio de familia y de las informaciones ad perpetuam causarán derechos conforme a la fracción II del este artículo. Por la cancelación de estos conceptos....................... 5.75 S.M.G.
+X.- La inscripción de la constitución del patrimonio de familia y de las informaciones ad perpetuam causarán los siguientes derechos:
+
+a).- En los Municipios de Benito Juárez, Isla Mujeres, Cozumel y Solidaridad 10 S.M.G.
+
+b).- En los Municipios de Othón P. Blanco, Felipe Carrillo Puerto, José Ma. Morelos y Lázaro Cárdenas 5 S.M.G.
+
+Por la cancelación de estos conceptos 5.75 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5125,13 +5679,17 @@ XXVI.- La inscripción de fideicomisos de administración causará derechos conf
 
 XXVII.- Por la anotación marginal que se realiza respecto a la compraventa con gravamen 5.75 S.M.G.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 202.
 
 Para el cobro de los derechos que establece el artículo anterior, se observarán las reglas siguientes:
 
 I.- Se tendrá como valor para los efectos de la aplicación de las tasas, en los casos a que se refieren las fracciones II, III, IV, VI, VII, VIII, IX, XII, XV, XVI, XVII, XVIII, del artículo anterior en sus respectivos casos:
 
-a).- Tratándose de patrimonio familiar, el de los bienes que lo constituyan.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+a).- Tratándose de patrimonio familiar, el de la zona en que se encuentren los bienes que lo constituyan.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -5221,7 +5779,9 @@ V.- Inscripción de actas de asambleas de socios o administradores..............
 
 VI.- Depósito del programa a que se refiere el artículo 92 de la Ley General de Sociedades Mercantiles............. 5.75 S.M.G.
 
-VII.- Inscripción del acta de emisión de bonos u obligaciones de las sociedades anónimas, así como en el caso de enajenación de acciones de dichas sociedades, el 100% de los derechos que correspondan conforme a la fracción II del artículo 201.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+VII.- Inscripción del acta de emisión de bonos u obligaciones de las sociedades anónimas, así como en el caso de enajenación de acciones de dichas sociedades...... 25 S.M.G.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5341,9 +5901,9 @@ V.- Los contratos en que se pacten prestaciones periódicas, se valuarán en la 
 
 VI.- Se exceptúan del pago de los derechos de inscripción en el Registro Público del Comercio, a las sociedades cooperativas escolares que se establezcan en las escuelas del Sistema Educativo Quintanarroense que estén bajo su vigilancia.
 
-### CAPITULO XIX. DERECHO POR CONTROL DE INSTITUCIONES PRIVADAS QUE PRESTAN SERVICION (SIC) DE EDUCACION
+### CAPITULO XIX. DERECHOS DEL SECTOR EDUCATIVO
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 206.
 
@@ -5433,27 +5993,35 @@ b).- Por el servicio de 24 horas de labores por 24 horas de descanso que preste 
 
 Las personas físicas o morales que requieran del servicio especial, lo solicitarán por escrito ante las oficinas recaudadoras indicando número de personal requerido, fecha de inicio y terminación del convenio, domicilio donde se prestará el servicio, nombre y denominación o razón social del solicitante, domicilio del mismo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ### CAPITULO II. REZAGOS
 
 ###### ARTICULO 207-H.
 
-Los particulares pagarán, en concepto de derechos por la incorporación, ratificación del acuerdo de incorporación y otros servicios que preste la Secretaría de Educación y Cultura, de conformidad con la siguiente:
+Los derechos por los servicios que presta la secretaría de Educación y Cultura, en materia de registro y ejercicio profesional, se pagarán conforme a la siguiente:
 
 TARIFA
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 I.- Por el registro de una institución educativa, con fines censales y estadísticos exclusivamente. 50 S.M.G.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 II.- Por la incorporación de una entidad educativa. 200 S.M.G.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 III.- Por la ratificación del acuerdo de incorporación anualmente 50 S.M.G.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 IV.- Por la compulsa de documentos originales con las copias de los mismos, necesarios en los casos de incorporación, el importe de 10 S.M.G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
-V.- Reconocimiento de validez oficial de estudios a particulares: preescolar, medio superior, superior y capacitación para el trabajo 200 S.M.G.
+V.- Reconocimiento de validez oficial de estudios a instituciones de carácter particular, medio superior, superior y de capacitación para el trabajo: ---- 200 S.M.G.
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -5535,9 +6103,15 @@ b).- En curso de regularización. 1.9 S.M.G.
 
 XX.- Cambio de carrera. .95 S.M.G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
-XXI.- Registro de colegio de profesionistas. 92 S.M.G.
+XXI.- Registro de colegio de profesionistas:
+
+a).- De 35 a 50 miembros 55 S.M.G.
+
+b).- De 51 a 100 miembros 75 S.M.G.
+
+c).- De 100 miembros en adelante 95 S.M.G.
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -5551,29 +6125,37 @@ XXIII.- Revalidación de título profesional o grado académico. 18.3 S.M.G.
 
 XXIV.- Registro de título profesional o grado académico. 8.9 S.M.G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
-XXV.- Expedición de autorización para constituir colegio de profesionista 8.9 S.M.G.
+XXV.- Expedición de autorización para constituir un colegio de profesionistas 11 S.M.G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
-XXVI.- Enmienda al registro profesional:
+XXVI.- Enmienda del Registro Profesional:
 
-a).- En relación con colegios de profesionistas. 8. 9 S. M. G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+a).- En relación con colegio de profesionistas -- 11 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 b).- En relación con establecimiento educativo. 8.9 S.M.G.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+
 c).- En relación con título profesional o grado académico. 1.7 S.M.G.
 
-d).- Inscripción de asociado a un colegio de profesionistas, que no figure en el registro original. .3 S.M.G.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+d).- Inscripción de un asociado a un Colegio de Profesionistas que no figure en el registro original 1 S.M.G.
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 XXVII.- Expedición de autorización temporal de práctica profesional a persona que carece de título. 3.6 S.M.G.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
-XXVIII.- Consulta de archivo. 1.7 S.M.G.
+XXVIII.- Consulta de archivo 2 S.M.G.
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
@@ -5595,9 +6177,89 @@ XXXII.- Por cualquier otra certificación o expedición de constancia distinta d
 
 XXXIII.- Regularización por omisión de escolaridad de 1 a 5000 S.M.G.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
+Para el pago de los derechos a que se refiere el Articulo 207-H, los plazos y sanciones estarán sujetos a lo que establezca la Ley de Profesiones del Estado y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1998)</small>
+
 ### CAPITULO III. MULTAS
 
 ### CAPITULO IV. CAUCIONES JUDICIALES
+
+###### ARTICULO 207-I.
+
+Los particulares pagarán en concepto de derechos por la incorporación, ratificación del acuerdo de incorporación y otros servicios que preste el Sistema Educativo Quintanarroense, de conformidad con la siguiente:
+
+TARIFA:
+
+I.- Autorización a particulares para impartir Educación Básica. ---300 S.M.G.
+
+II.- Autorización a particulares para impartir Educación Normal. ---500 S.M.G.
+
+III.- Reconocimiento de Validez Oficial de Estudios de Preescolar: --- 200 S.M.G.
+
+IV.- Ratificación del Acuerdo de Incorporación por cada ciclo escolar o semestre por alumno:
+
+a).- Preescolar ----0.80 S.M.G.
+
+b).- Primaria ----1.20 S.M.G.
+
+c).- Secundaria ----1.80 S.M.G.
+
+d).- Licenciaturas -----5.00 S.M.G.
+
+V.- Certificaciones de estudios por alumno:
+
+a).- Primaria ----0.80 S.M.G.
+
+b).- Secundaria ----1.20 S.M.G.
+
+c).- Bachillerato Pedagógico ----1.80 S.M.G.
+
+d).- Licenciaturas ----2.00 S.M.G.
+
+VI.- Exámenes extraordinarios por materia:
+
+a).- Secundaria --- 0.90 S.M.G.
+
+b).- Bachillerato Pedagógico ----1.20 S.M.G.
+
+c).- Licenciaturas ----2.20 S.M.G
+
+VII.- Exámenes globales o a título de suficiencia por grado de:
+
+a).- Primaria ---5.00 S.M.G.
+
+b).- Secundaria ----8.00 S.M.G.
+
+VIII.- Expedición de diplomas de secundarias técnicas por alumno: 1.20 S.M.G.
+
+IX.- Revalidación de estudios:
+
+a).- Primaria ----1.00 S.M.G.
+
+b).- Secundaria ----8.00 S.M.G.
+
+X.- Equivalencias de estudios de secundaria: ------8.00 S.M.G.
+
+XI.- Cotejo de documentos por hoja: -----0.27 S.M.G.
+
+XII.- Expedición de constancias de control escolar:---- 2.00 S.M.G.
+
+XIII.- Reposición de Boletas de Evaluación de Educación Básica: 0.40 S.M.G.
+
+XIV.- Reimpresión de cada Certificado de Educación Básica:---- 0.40 S.M.G.
+
+XV.- Reimpresión de cada formato de apoyo de control escolar: ---0.40 S.M.G.
+
+XVI.- Instructivo de incorporación por hoja:--- 3.00 S.M.G.
+
+XVII.- Registro de Instituciones educativas particulares autorizadas para expedir títulos profesionales: ---100 S.M.G.
+
+XVIII.- Registro de título profesional expedido por las escuelas particulares a cada alumno:---- 9.00 S.M.G.
+
+XIX.- Enmienda al registro de instituciones educativas particulares autorizadas para expedir títulos: ---- 9.00 S.M.G.
 
 ### CAPITULO V. DONACIONES DE PARTICULARES
 
@@ -5958,6 +6620,12 @@ Este decreto entrará en vigor a partir del día 1º de Enero de 1997, previa pu
 Quedan derogadas todas las disposiciones anteriormente establecidas en esta Ley, que contravengan a las presentes reformas.
 
 P.O. 15 DE DICIEMBRE DE 1997.
+
+PRIMERO: El presente decreto entrará en vigor a partir de la fecha en que se publique en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 1998.
 
 PRIMERO: El presente decreto entrará en vigor a partir de la fecha en que se publique en el Periódico Oficial del Estado.
 
