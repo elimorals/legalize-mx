@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "2003-12-30"
+last_updated: "2005-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
@@ -173,7 +173,7 @@ XXIX. Valuador es el servidor público dependiente de catastro municipal que ela
 
 a) En los municipios en los que el Ayuntamiento esté integrado hasta por once regidores, se requiere por lo menos, enseñanza media superior;
 
-b) En los municipios en los que el Ayuntamiento esté integrado pro catorce regidores o más, se requiere tener la educación técnica o profesional en la materia.
+b) En los municipios en los que el Ayuntamiento esté integrado por catorce regidores o más, se requiere tener la educación técnica o profesional en la materia.
 
 XXX. Registros catastrales: los documentos gráficos, escritos e información contenidos en las bases de datos, así como todos los demás elementos que integran el catastro;
 
@@ -1051,7 +1051,9 @@ Los peritos valuadores, para registrarse ante la Dirección de Catastro del Esta
 
 I. Formular solicitud de registro, aportando su curriculum vitae y los demás datos que le sean solicitados;
 
-II. Tener cédula profesional de ingeniero, arquitecto, expedida por la Dirección de Profesiones del Estado de Jalisco, o Corredor Público, que acredite conocimientos en la materia;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2005)</small>
+
+II. Tener cédula profesional de arquitecto, ingeniero civil, o cualquier otra profesión que tenga por objeto el diseño y construcción de obras de infraestructura, servicios y equipamiento, expedida por la Dirección de Profesiones del Estado de Jalisco, o ser corredor público, que acredite conocimientos en la materia;
 
 III. Demostrar su experiencia en la materia con trabajos de valuación realizados durante los últimos tres años; y
 
@@ -1361,9 +1363,9 @@ P.O. 26 DE JULIO DE 2001.
 
 P.O. 30 DE DICIEMBRE DE 2003.
 
-PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco", aplicándose lo dispuesto en los siguientes artículos transitorios .
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco", aplicándose lo dispuesto en los siguientes artículos transitorios.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente decreto.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO. La Auditoría Superior iniciará sus funciones a la entrada en vigor del presente decreto, y su titular será el actual Contador Mayor de Hacienda, hasta el 31 de julio del año 2004.
 
@@ -1375,6 +1377,10 @@ SEXTO. Todos los inmuebles, equipos, archivos, expedientes, papeles y, en genera
 
 Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar parte de la Auditoría Superior del Estado, respetándose sus derechos en los términos de ley.
 
-SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente decreto, continuarán tramitándose, por al Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
+SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente decreto, continuarán tramitándose, por la Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
 
 OCTAVO. Dentro del término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, deberá expedirse el Reglamento Interno de la Auditoría Superior del Estado de Jalisco.
+
+P.O. 10 DE MARZO DE 2005.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
