@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "1986-08-08"
+last_updated: "1993-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 1993.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -43,9 +43,11 @@ LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley reglamenta el derecho a la protección de la salud que toda persona tiene, contenido en el Artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, establece las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado con la concurrencia de sus municipios, en materia de salubridad general, y es de aplicación en todo el Estado, y sus disposiciones son de orden público e interés social.
+La presente Ley reglamenta el derecho a la protección de la salud que toda persona tiene, contenido en el artículo cuarto de la Constitución Política de los Estados Unidos Mexicanos. Establece las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado con la concurrencia de los municipios, en materia de salubridad local y sus disposiciones son de orden público e interés social.
 
 ###### ARTICULO 2.
 
@@ -71,7 +73,9 @@ En los términos de la Ley General de Salud y de la presente ley, corresponde al
 
 A).- En materia de salubridad general:
 
-I.- El control sanitario de expendios de alimentos, bebidas no alcohólicas y alcohólicas;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+I.- Ejercer la verificación y el control sanitario de los establecimientos que procesen, expendan o suministren al público alimentos y bebidas alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados para su consumo dentro y fuera del mismo establecimiento, aplicando las normas oficiales que al efecto se emitan;
 
 II.- La atención médica, en beneficio de la colectividad;
 
@@ -95,7 +99,9 @@ XI.- La prestación y vigilancia en materia de nutrición;
 
 XII.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
-XIII.- La salud ocupacional, en los términos del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+XIII.- La salud ocupacional, en los términos del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias y el saneamiento básico;
 
 XIV.- La prevención y el control de enfermedades transmisibles y accidentes;
 
@@ -105,9 +111,15 @@ XVI.- La prevención de la invalidez y la rehabilitación de los inválidos;
 
 XVII.- La asistencia social;
 
-XVIII.- Participar con las autoridades federales en el desarrollo de los programas contra inhalantes y substancias tóxicas que provoquen dependencia; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-XIX.- Las demás que establezca la Ley General de Salud.
+XVIII.- Participar con las autoridades federales en el desarrollo de los programas contra inhalantes y substancias tóxicas que provoquen dependencia;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+XIX.- El control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos, destinados a usos terapéuticos o de investigación, en los términos de la Ley General de Salud, sus reglamentos y los acuerdos de coordinación que celebre el Estado con la Federación; y
+
+XX.- Las demás que establezca la Ley General de Salud.
 
 B).- En materia de salubridad local, el control sanitario de:
 
@@ -115,7 +127,9 @@ I.- Mercados y centros de abastos;
 
 II.- Construcciones;
 
-III.- Panteones;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+III.- Panteones o cementerios, crematorios y funerarias;
 
 IV.- Limpieza pública;
 
@@ -127,19 +141,27 @@ VII.- Establos, granjas avícolas y porcícolas, apiarios y otros establecimient
 
 VIII.- Reclusorios o centros de readaptación social;
 
-IX.- Baños públicos;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+IX.- Baños públicos, balnearios que empleen aguas termales, manantiales o substancias sulfurosas, además los comprendidos en el catálogo de giros de salubridad local;
 
 X.- Centros de reunión y espectáculos;
 
 XI.- Establecimientos dedicados a la prestación de servicios como peluquerías, salones de belleza y otros;
 
-XII.- Establecimientos de hospedaje;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+XII.- Establecimientos para el hospedaje, y terminales de autobuses y ferroviarias;
 
 XIII.- Transporte estatal y municipal;
 
 XIV.- Gasolineras; y
 
-XV.- Las demás materias que determine esta ley y demás disposiciones generales aplicables.
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+XV.- Giros comerciales e industriales; y
+
+XVI.- Las demás materias que determine esta ley y demás disposiciones generales aplicables.
 
 ###### ARTICULO 4.
 
@@ -147,7 +169,9 @@ Son autoridades sanitarias estatales:
 
 I.- El C. Gobernador del Estado;
 
-II.- La Secretaría de Salud y Seguridad Social; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+II.- La Secretaría de Salud del Estado; y
 
 III.- Los Ayuntamientos y Consejos Municipales.
 
@@ -177,11 +201,15 @@ V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del 
 
 VI.- Impulsar en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; y
 
-VII.- Coadyuvar en la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+VII.- Coadyuvar en la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección, destacando el fomento del autocuidado de la salud.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 7.
 
-La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría de Salud y Seguridad Social correspondiéndole a ésta:
+La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría de Salud del Estado, correspondiéndole a ésta:
 
 I.- Establecer y conducir la política estatal en materia de salud en los términos de esta ley y demás disposiciones aplicables y de conformidad con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Ejecutivo Federal;
 
@@ -217,21 +245,27 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI.- Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 8.
 
-La Secretaría de Salud y Seguridad Social promoverá la participación, en el Sistema Estatal de Salud, de los prestadores de servicio de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se emitan.
+La Secretaría de Salud del Estado promoverá la participación, en el Sistema Estatal de Salud, de los prestadores de servicio de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se emitan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 9.
 
-La concertación de acciones entre la Secretaría de Salud y Seguridad Social y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre la Secretaría de Salud del Estado y los integrantes de los sectores social y privado, se realizará mediante convenios, contratos y constitución de comités y consejos consultivos, los cuales se ajustarán a las siguientes bases:
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
 
 II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría;
 
-III.- Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad de la Secretaría de Salud y Seguridad Social; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+III.- Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad de la Secretaría de Salud del Estado; y
 
 IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
 
@@ -245,9 +279,11 @@ El Gobierno del Estado, con la participación que corresponda al Comité de Plan
 
 ### CAPITULO II. Distribución de Competencias
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 12.
 
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Salud y Seguridad Social:
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Salud de la Entidad:
 
 A).- En materia de salubridad general:
 
@@ -275,17 +311,23 @@ III.- Vigilar, en la esfera de su competencia, el cumplimiento de esta ley y dem
 
 IV.- La sanidad en los límites con otras Entidades.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 13.
 
-Para los efectos de esta ley, se entiende por norma técnica el conjunto de reglas científicas y tecnológicas de carácter obligatorio, emitidas por la entidad administrativa correspondiente, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
+Para los efectos de esta Ley, se entiende por norma oficial el conjunto de reglas científicas y tecnológicas de carácter obligatorio para los sectores público, social y privado, emitidas por la Secretaría de Salud del Ejecutivo Federal, en materia de salubridad general, y por la Secretaría de Salud del Estado, en materia de salubridad local, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades, con el objeto de uniformar principios, criterios, políticas y estrategias.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 14.
 
-El Ejecutivo Estatal, a través de la Secretaría de Salud y Seguridad Social podrá convenir con los Ayuntamientos la prestación, por parte de éstos, de los servicios de salubridad general concurrente y salubridad local cuando su desarrollo económico y social lo haga necesario.
+El Ejecutivo Estatal, por conducto de la Secretaría de Salud de la Entidad, podrá convenir con los Ayuntamientos la prestación por parte de éstos, de los servicios de salubridad general concurrente y salubridad local, cuando su desarrollo económico y social lo haga necesario y posible.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 15.
 
-Corresponde al Ejecutivo del Estado, a través de la Secretaría de Salud y Seguridad Social, en coordinación con el Ejecutivo Federal, organizar, administrar, operar y evaluar los servicios de salud a que se refiere el apartado "A" del Artículo 3 de esta ley.
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Salud Estatal, en coordinación con el Ejecutivo Federal, integrar, organizar, administrar, operar, evaluar y controlar los servicios de salud a que se refiere el Apartado "A" del Artículo 3o., de esta Ley.
 
 ###### ARTICULO 16.
 
@@ -293,21 +335,43 @@ Compete a los Ayuntamientos:
 
 I.- Asumir, en los términos de esta ley y de los convenios que suscriban con el Ejecutivo del Estado, los servicios de salud a que se refiere el Artículo 3 de este Ordenamiento;
 
-II.- Asumir la administración de los establecimientos de salud que descentralice en su favor el Gobierno Estatal en los términos de las leyes aplicables y de los convenios que al efecto se celebren;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+II.- Asumir la administración de los establecimientos de salud que descentralice en su favor el Gobierno Estatal, en los términos de las leyes aplicables y de los convenios respectivos, los cuales deberán precisar, en su caso, el nivel de alcance de la descentralización;
 
 III.- Formular y desarrollar programas municipales de Salud, en el marco del Sistema Nacional de Salud, del Sistema Estatal de Salud y de acuerdo con los principios y objetivos de los planes nacional, estatal y municipales de desarrollo;
 
 IV.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente ley y las demás disposiciones generales aplicables; y
 
-V.- Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de esta ley.
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+V.- Certificar la calidad del agua para uso y consumo humano, en los términos de los convenios que se celebren con el Ejecutivo del Estado y de conformidad con la normatividad que emita la Secretaría de Salud del Gobierno Federal;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+VI.- Incluir, en su caso, en los bandos de policía y buen gobierno, en sus reglamentos, circulares y demás disposiciones administrativas, normas relacionadas con los servicios de salud y asistencia social que estén a su cargo; y
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+VII.- Las demás acciones que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de esta Ley.
 
 ###### ARTICULO 17.
 
 Los ingresos que obtenga el Estado por la prestación de los servicios en materia de salubridad general, quedarán sujetos a lo que se disponga en los acuerdos de coordinación con la Secretaría de Salud y lo que determine la legislación fiscal aplicable.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 18.
 
-El Gobierno del Estado y los Municipios en los términos de los convenios que se celebren, darán prioridad a los problemas de salud pública que se presenten en la Entidad.
+El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias y en los términos de los convenios que celebren, darán prioridad a las siguientes acciones en materia de servicios sanitarios:
+
+I.- Proporcionar el servicio de agua potable para uso y consumo humano y certificar su calidad, de conformidad con la normatividad que emita la Secretaría de Salud del Ejecutivo Federal;
+
+II.- Establecer sistemas de alcantarillado;
+
+III.- Realizar la instalación, vigilancia y control de retretes y sanitarios públicos; y
+
+IV.- Prestar servicios de limpia y recolección de basura, clasificando los desechos sólidos y líquidos, y procediendo a la eliminación de los que sean susceptibles de transformarse sin deterioro del medio ambiente.
 
 ###### ARTICULO 19.
 
@@ -349,9 +413,11 @@ II.- De salud pública; y
 
 III.- De asistencia social.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 26.
 
-Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de las (sic) servicios de salud a la comunidad.
+Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud a la comunidad, preferentemente a los grupos vulnerables.
 
 ###### ARTICULO 27.
 
@@ -391,23 +457,29 @@ El Gobierno del Estado, de conformidad con las disposiciones legales aplicables,
 
 El Gobierno del Estado coadyuvará con las autoridades federales competentes, para que se garantice a la población del Estado la disponibilidad de medicamentos especiales.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 31.
 
-La Secretaría de Salud y Seguridad Social coadyuvará con las demás dependencias estatales para que los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establecen las leyes aplicables.
+La Secretaría de Salud del Estado coadyuvará con las demás dependencias estatales, para que los establecimientos de los sectores público, social y privado, dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a lo que al efecto establecen las leyes aplicables.
 
 ###### ARTICULO 32.
 
-El Gobierno del Estado, en coordinación con las dependencias competentes del Ejecutivo Federal, coadyuvará a asegurar en el Estado la adecuada distribución, comercialización y fijación de los precios máximos de venta al público de los medicamentos y demás insumos para la salud.
+(DEROGADO, P.O. 19 DE NOVIEMBRE DE 1993)
 
 ### CAPITULO II. De los Expendios de Alimentos, Bebidas no Alcohólicas y Alcohólicas
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 33.
 
-De conformidad con la norma técnica que expida la Secretaría de Salud, la Secretaría de Salud y Seguridad Social ejercerá el control sanitario de los establecimientos que expendan o suministren alimentos, bebidas alcohólicas y no alcohólicas en el Estado.
+De conformidad con las normas oficiales que emita la Secretaría de Salud del Ejecutivo Federal, la Secretaría de Salud del Estado ejercerá la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas y alcohólicas, ya sea en estado natural, mezclados, preparados, adicionados o acondicionados para su consumo dentro o fuera del mismo establecimiento.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 34.
 
-La Secretaría de Salud y Seguridad Social en los términos de esta ley y demás disposiciones aplicables, autorizará la ubicación, el funcionamiento y los horarios de los establecimientos a que se refiere este capítulo.
+La Secretaría de Salud del Estado, en los términos de esta Ley y demás disposiciones aplicables, determinará el funcionamiento de acuerdo a su ubicación y aspectos físicos sanitarios de los establecimientos a que se refiere este capítulo.
 
 ###### ARTICULO 35.
 
@@ -477,13 +549,21 @@ Los trabajadores de los establecimientos estatales de salud podrán participar e
 
 El Gobierno Estatal y los municipios podrán convenir con las instituciones federales de seguridad social, la prestación de servicios de salud para sus trabajadores.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 47.
 
-La Secretaría de Salud y Seguridad Social en coordinación con las autoridades educativas, vigilará en el Estado de Guanajuato el ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos, procurando la coordinación con la autoridad educativa federal.
+La Secretaría de Salud del Estado, en coordinación con las instituciones de educación superior, las autoridades educativas, colegios y asociaciones de profesionales, vigilará, en el Estado de Guanajuato, el ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
+
+La Secretaría de Salud Estatal establecerá un registro de quienes ejerzan estas actividades.
+
+Se concede acción popular para denunciar ante las autoridades sanitarias, a quienes ejerzan la profesión médica o, en su caso, de especialistas, sin el título o reconocimiento respectivo, debidamente registrados ante la Secretaría de Salud Estatal.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 48.
 
-La Secretaría de Salud y Seguridad Social coadyuvará con las autoridades educativas competentes para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud y estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+La Secretaría de Salud del Estado coadyuvará con las autoridades educativas competentes para promover y fomentar la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de salud, y estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, como promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
 
 ### CAPITULO V. Usuarios de los Servicios de Salud y Participación de la Comunidad
 
@@ -499,9 +579,11 @@ Los usuarios tendrán derecho a obtener prestaciones de salud oportunas y de cal
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 52.
 
-La Secretaría de Salud y Seguridad Social, establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población general y a los servicios sociales y privados, en el Estado de Guanajuato.
+La Secretaría de Salud del Estado establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos, sociales y privados de la población general, en materia de salud en el Estado de Guanajuato.
 
 ###### ARTICULO 53.
 
@@ -523,7 +605,9 @@ La participación de la comunidad en los programas de protección de la salud y 
 
 La comunidad podrá participar en los servicios de salud de los sectores público, social y privado a través de las siguientes acciones:
 
-I.- Promoción de hábitos de conducta que contribuyan a proteger la salud o a solucionar problemas de salud, e intervención de enfermedades y accidentes;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+I.- Promoción de hábitos de conducta que contribuyan a proteger la salud o a solucionar problemas de salud y la prevención de enfermedades y accidentes;
 
 II.- Colaboración en la prevención o tratamiento de problemas ambientales vinculados a la salud;
 
@@ -537,13 +621,17 @@ VI.- Información a las autoridades competentes de las irregularidades o deficie
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 58.
 
-La Secretaría de Salud y Seguridad Social y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de invalidez y de rehabilitación de inválidos.
+La Secretaría de Salud del Estado y las demás instituciones de salud de los sectores social y privado en la Entidad, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual y colectiva, así como en los de prevención de invalidez y de rehabilitación de inválidos.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 59.
 
-Para los efectos del artículo anterior, se constituirán comités de salud en las cabeceras municipales, delegaciones municipales, ejidos y comunidades, los cuales tendrán como objetivo participar en el mejoramiento y vigilancia de los servicios de salud en sus localidades y promover mejores condiciones ambientales que favorezcan la salud de la población.
+Para los efectos del artículo anterior, se constituirán grupos organizados de la comunidad en las cabeceras municipales, ejidos y núcleos de población, los cuales tendrán como objetivo participar en el mejoramiento y vigilancia de los servicios de salud en sus localidades, y promover mejores condiciones ambientales que favorezcan la salud de la población.
 
 ###### ARTICULO 60.
 
@@ -567,17 +655,29 @@ II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incl
 
 III.- La protección de la integración y del bienestar familiar.
 
+(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993
+
 ###### ARTICULO 63.
 
-En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+En los hospitales se integrarán comités para el estudio de la morbilidad y mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
 
 ###### ARTICULO 64.
 
 La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 65.
 
-En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado establecerán procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios.
+En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias competentes establecerán:
+
+I.- Procedimientos que permitan la participación de la familia en la prevención y atención oportuna de los padecimientos de la comunidad;
+
+II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil;
+
+III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones agudas en los menores de 5 años; y
+
+IV.- Las demás acciones que coadyuven a la salud materno-infantil.
 
 ###### ARTICULO 66.
 
@@ -589,7 +689,13 @@ II.- Las actividades recreativas, de esparcimiento y culturales destinadas a for
 
 III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas; y
 
-IV.- Las demás que coadyuven a la protección de la salud materno-infantil.
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+IV.- Acciones relacionadas con la educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excretas; y
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+V.- Las demás que coadyuven a la salud materno infantil.
 
 ###### ARTICULO 67.
 
@@ -599,9 +705,15 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 ### CAPITULO VII. Servicios de Planificación Familiar
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 68.
 
-La planificación familiar tiene carácter prioritario. Los servicios que, en los términos del párrafo segundo del Artículo 4 de la Constitución Política de los Estados Unidos Mexicanos y de la legislación aplicable en materia de población, se presten en la materia, constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, con pleno respeto a su dignidad.
+La planificación familiar tiene carácter prioritario. En dicha actividad se debe incluir la información y orientación educativas para los adolescentes y jóvenes. Asimismo, para disminuir el riesgo productivo, se debe informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los 20 años y después de los 35, así como la conveniencia de espaciar los embarazos y reducir su número. Todo ello mediante una correcta información anticonceptiva, la cual debe ser oportuno, eficaz y completa para la pareja.
+
+Los servicios que se presten en la materia, constituyen un medio para el ejercicio del derecho de toda persona para decidir de manera libre, responsable e informada, sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
+
+Quienes practiquen la esterilización o la colocación de instrumentos mecánicos anticonceptivos, sin el consentimiento del paciente o ejerzan presión para que éste la admita serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
 
 ###### ARTICULO 69.
 
@@ -617,9 +729,11 @@ IV.- El apoyo y fomento de la investigación en materia de anticoncepción, infe
 
 V.- La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 70.
 
-Los comités de salud a que se refiere el Artículo 59 de esta Ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales se impartan pláticas de orientación en materia de la planificación familiar. Las Instituciones de Salud y Educativas, brindarán al efecto el apoyo necesario.
+Los grupos organizados de las comunidades a que se refiere el artículo 59 de esta Ley, promoverán que en las poblaciones o núcleos de población semiurbanos y rurales, se impartan pláticas de orientación en materia de la planificación familiar, entre otros temas. Las instituciones de Salud y Educativas, brindarán al efecto el apoyo necesario.
 
 ###### ARTICULO 71.
 
@@ -631,9 +745,11 @@ El Gobierno del Estado coadyuvará con la Secretaría de Salud en las acciones d
 
 La prevención de las enfermedades mentales tienen carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros conceptos relacionalos (sic) con la salud mental.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 73.
 
-Para la promoción de la salud mental, la Secretaría de Salud y Seguridad Social y las instituciones de salud en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+Para la promoción de la salud mental, la Secretaría de Salud del Estado y las instituciones de salud, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
 I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
@@ -651,11 +767,13 @@ I.- La atención de personas con padecimientos mentales, la rehabilitación psiq
 
 II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 75.
 
-La Secretaría de Salud y Seguridad Social, conforme a las normas técnicas básicas que establezca la Secretaría de Salud, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
+La Secretaría de Salud de la Entidad, conforme a las normas oficiales básicas que establezca la Secretaría de Salud del Ejecutivo Federal, vigilará su aplicación en la atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
 
-A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+A estos efectos, se establecerá la coordinación necesaria mediante convenios entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
 ###### ARTICULO 76.
 
@@ -695,9 +813,13 @@ Las autoridades educativas del Estado proporcionarán a las autoridades sanitari
 
 En el caso en que exista convenio entre el Gobierno del Estado y el Ejecutivo Federal en materia de registro profesional y expedición de cédulas profesionales, el Gobierno del Estado cuidará que se proporcione la información a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 80.
 
-Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen a su respecto.
+Quienes ejerzan las actividades profesionales, técnicas y auxiliares, así como las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título o constancia de especialidad, en su caso, el número de su cédula profesional y de registro ante la Secretaría de Salud del Estado, así como profesión, horario y domicilio.
+
+Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
 ### CAPITULO UNICO
 
@@ -727,6 +849,8 @@ Las autoridades sanitarias del Estado, con la participación de las institucione
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 86.
 
 Las autoridades sanitarias, en coordinación con las autoridades educativas y con la participación de las instituciones de educación superior, recomendarán normas y criterios para la formación de recursos humanos para la salud.
@@ -745,17 +869,21 @@ III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro
 
 IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 88.
 
-La Secretaría de Salud y Seguridad Social, sugerirá a las autoridades e instituciones educativas, cuando éstas lo soliciten, criterios sobre:
+La Secretaría de Salud de la Entidad, sugerirá a las autoridades e instituciones educativas, cuando éstas lo soliciten, criterios sobre:
 
 I.- Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos; y
 
 II.- El perfil de los profesionales para la salud en sus etapas de formación.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 89.
 
-La Secretaría de Salud y Seguridad Social, en coordinación con las autoridades federales competentes, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
+La Secretaría de Salud de la Entidad, en coordinación con las autoridades federales competentes, impulsarán y fomentarán la información, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud en el Estado.
 
 ###### ARTICULO 90.
 
@@ -783,15 +911,21 @@ V.- Al estudio de las técnicas y métodos que se recomienden o empleen para la 
 
 VI.- A la producción nacional de insumos para la salud.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 92.
 
-La Secretaría de Salud y Seguridad Social, apoyará y estimulará el funcionamiento de establecimientos públicos y privados destinados a la investigación para la salud.
+La Secretaría de Salud del Estado apoyará y estimulará el funcionamiento de establecimientos públicos y privados dedicados a la investigación para la salud, por conducto del comité estatal de investigación para la salud.
 
 ###### ARTICULO 93.
 
 La investigación en seres humanos, se desarrollará conforme a las siguientes bases:
 
 I.- Deberá adaptarse a los principios científicos o éticos que justifican la investigación médica, especialmente en lo que se refiere a su posible contribución a la solución de problemas de salud y al desarrollo de nuevos campos de la ciencia médica;
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+Los establecimientos públicos y privados que realicen estudios de investigación en seres humanos, deberán ajustarse a las normas oficiales aplicables, incorporarse al sistema estatal de investigación para la salud y registrar, ante la Secretaría de Salud Estatal, las comisiones de ética y de bioseguridad. Esta última estará encargada de regular el uso de radiaciones ionizantes y de técnicas de ingeniería genética;
 
 II.- Podrá realizarse sólo cuando el conocimiento que se pretenda producir, no pueda obtenerse por otro método idóneo;
 
@@ -819,7 +953,7 @@ En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recu
 
 ###### ARTICULO 96.
 
-La Secretaría de Salud y Seguridad Social, de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional Estatal de Salud, así como sobre el estado y evolución de la salud pública de la Entidad.
+La Secretaría de Salud del Estado, de conformidad con la Ley de Información Estadística y Geográfica, y con los criterios de carácter general que emita el Ejecutivo Federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistemas Estatal de Salud, así como sobre el estado y evolución de la salud pública en la Entidad.
 
 La información se referirá, fundamentalmente, a los siguientes aspectos:
 
@@ -855,6 +989,8 @@ IV.- Salud ocupacional.
 
 ### CAPITULO IV. Efectos del Ambiente en la Salud
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 100.
 
 La educación para la salud tiene por objeto:
@@ -873,6 +1009,8 @@ El Gobierno del Estado, en coordinación con las autoridades federales competent
 
 ### CAPITULO V. Salud Ocupacional
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 102.
 
 El Gobierno del Estado, formulará y desarrollará programas de nutrición estatales promoviendo la participación en los mismos de los organismos cuyas atribuciones tengan relación con los mismos, así como de los sectores social y privado.
@@ -885,41 +1023,57 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 ###### ARTICULO 104.
 
-Las autoridades sanitarias del Estado tomarán las medidas y realizarán las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana ante los riesgos y daños dependientes de las condiciones del ambiente.
+Las autoridades sanitarias del Estado tomarán las medidas y realizarán las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 105.
 
-Corresponde a la Secretaría de Salud y Seguridad Social:
+Corresponde a la Secretaría de Salud del Estado:
 
 I.- Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
 
-II.- Vigilar la calidad del agua para uso y consumo humano; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de las fuentes de radiación, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+II.- Vigilar y certificar la calidad del agua para uso y consumo humano; y
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+III.- Vigilar la seguridad radiológica en el uso y aprovechamiento de las fuentes de radiación, para uso médico, sin perjuicio de la intervención que corresponda a otras autoridades.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 106.
 
-La Secretaría de Salud y Seguridad Social, se coordinará con las dependencias federales competentes, para la prestación de los servicios a que se refiere este Capítulo.
+La Secretaría de Salud del Estado se coordinará con las dependencias federales competentes, para la prestación de los servicios a que se refiere este Capítulo.
 
 ###### ARTICULO 107.
 
 Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicios de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 108.
 
-Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier cuerpo de agua superficial o subterráneo, cuyas aguas se destinen para uso o consumo humano.
+Queda prohibida la descarga de aguas residuales, sin el tratamiento que satisfaga los criterios sanitarios que rijan las condiciones particulares de descarga, tratamiento y uso de aguas de residuo. Las normas oficiales ecológicas que emitan las autoridades federales competentes, fijarán estas condiciones.
 
-Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas para uso o consumo de la población, estarán obligados a darles el tratamiento correspondiente a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones aplicables.
+Igualmente queda prohibido descargar residuos peligrosos que conlleven riesgos para la salud pública, a cuerpos de aguas superficiales o subterráneos que se destinen para uso y consumo humano.
+
+Todo ciudadano tiene la obligación de denunciar, ante las autoridades sanitarias, a la persona que transgreda estas prohibiciones, la cual será sancionada en los términos de esta Ley, sin perjuicio de lo que establezcan otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 109.
 
-La Secretaría de Salud y Seguridad Social, en coordinación con las autoridades federales competentes, con las autoridades ejidales y comunales correspondientes y con la autoridad estatal encargada de la administración del distrito de riego, orientarán a la población para evitar la contaminación de aguas de presas, pluviales, lagos, y otras que se utilicen para riego o para uso doméstico, originado por plaguicidas, substancias tóxicas y desperdicios o basura.
+La Secretaría de Salud del Estado, en coordinación con las autoridades federales competentes y con las autoridades ejidales y comunales, así como con la autoridad en el Estado encargada de la administración del distrito de riego, orientarán a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios de basura.
 
 ### CAPITULO II. Enfermedades Transmisibles
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 110.
 
-La Secretaría de Salud y Seguridad Social, tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollan actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberán reunir, de conformidad con lo que establezcan los reglamentos respectivos.
+La Secretaría de Salud Estatal, tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollan actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberán reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
 ###### ARTICULO 111.
 
@@ -941,9 +1095,11 @@ Asimismo, ejercerá el control sanitario sobre los establecimientos en los que s
 
 ### CAPITULO I. Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 113.
 
-Las autoridades sanitarias estatales, en coordinación con las autoridades sanitarias federales, elaborarán programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de la salubridad general de la República.
+El Gobierno del Estado, en coordinación con las autoridades sanitarias federales, estatales y municipales, elaborarán programas o campañas temporales y permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de la salud general de la población.
 
 Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
 
@@ -969,21 +1125,39 @@ X.- Micosis profundas;
 
 XI.- Helmintiasis intestinales y extraintestinales;
 
-XII.- Toxoplasmosis; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-XIII.- Las demás que determinen el Consejo de Salubridad General y los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
+XII.- Toxoplasmosis;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+XIII.- Síndrome de inmunodeficiencia adquirida (SIDA); y
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+XIV.- Las demás que determinen el Consejo de Salubridad General y los tratados y convenciones internacionales, en que los Estados Unidos Mexicanos sean parte.
 
 ###### ARTICULO 114.
 
 Es obligatoria la notificación a la autoridad sanitaria más cercana, de las siguientes enfermedades y en los términos que a continuación se especifican:
 
-I.- Inmediatamente, en los casos individuales de enfermedades objeto del Reglamento Sanitario Internacional: fiebre amarilla, peste y cólera;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+I.- Inmediatamente, en los casos de fiebre amarilla, peste, cólera, difteria, tosferina, tétanos, poliomelitis (sic) y sarampión;
 
 II.- Inmediatamente, en los casos de cualquier enfermedad que se presente en forma de brote o epidemia;
 
-III.- En un plazo no mayor de veinticuatro horas en los casos individuales de enfermedades objeto de vigilancia internacional: poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos humanos de encefalitis equina venezolana; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-IV.- En un plazo no mayor de veinticuatro horas de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada.
+III.- En un plazo no mayor de veinticuatro horas, en los casos individuales de enfermedades objeto de vigilancia internacional: meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, y los casos humanos de encefalitis equina venezolana;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+IV.- En un plazo no mayor de veinticuatro horas de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+V.- Notificación obligatoria inmediata a la autoridad sanitaria inmediata más cercana en los casos en que se detecte la presencia de virus de la inmunodeficiencia humana (VIH) o de anticuerpos a dicho virus en alguna persona.
 
 ###### ARTICULO 115.
 
@@ -1051,6 +1225,8 @@ Las autoridades sanitarias determinarán los casos en que se deba proceder a la 
 
 ### CAPITULO II. Programa contra el Tabaquismo
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 127.
 
 Las autoridades sanitarias del Estado, realizarán actividades de prevención y control de las enfermedades no transmisibles que las propias autoridades sanitarias determinen.
@@ -1095,11 +1271,15 @@ V.- La atención de los padecimientos que se produzcan como consecuencia de ello
 
 VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
 
-Para mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado, dicho consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacionales y Estatal de Salud.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+Para mayor eficacia de las acciones a las que se refiere este artículo, el Gobierno del Estado promoverá la creación de un Subcomité de Prevención de Accidentes, integrado por representantes de los sectores público, social y privado, el cual se coordinará con el organismo afín del Gobierno Federal, dentro del marco de los Sistemas Nacionales y Estatal de Salud.
 
 ## TITULO NOVENO. Asistencia Social, Prevención de Invalidez y Rehabilitación de Inválidos
 
 ### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 132.
 
@@ -1111,33 +1291,53 @@ Serán objeto de esta Ley los servicios asistenciales que presten tanto las inst
 
 Son actividades básicas de Asistencia Social:
 
-I.- La atención a personas que, por sus carencias socio-económicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+I.- La atención a personas que, por sus carencias socio-económicas, pobreza o ignorancia extrema, estado de desempleo o problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
 II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo e inválidos sin recursos;
 
 III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
-IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos e inválidos sin recursos;
+IV.- El ejercicio de la tutela de los menores e incapaces en estado de abandono, en los términos de las disposiciones legales aplicables;
 
-VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+V.- La prestación de servicios de asistencia jurídica oportuna y de orientación social, especialmente en problemas relacionados con menores, incapaces, inválidos y ancianos en estado de abandono o de indigencia;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios que justifican la asistencia social y la ejecución de programas viables de solución, viendo siempre por el respeto de la dignidad humana;
 
 VII.- La promoción de la participación consciente y organizada de la población con carencias en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio;
 
 VIII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socio-económicas; y
 
-IX.- La prestación de servicios funerarios.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+IX.- La prestación de servicios funerarios;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+X.- La atención al niño y al adolescente de la calle sometidos a problemas de subempleo, explotación o con adicción a bebidas alcohólicas, drogas y enervantes, por conducto de establecimientos especializados que logren su preparación, rescate y rehabilitación como personas productivas a la sociedad; y
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+XI.- Las demás contenidas en los objetivos señalados en el artículo 132 de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 134.
 
-Para fomentar el desarrollo de programas públicos de asistencia social, el Gobierno del Estado promoverá la canalización de recursos y apoyo técnico necesarios.
+Dentro del marco del Sistema Estatal de Salud, el Gobierno del Estado y los Ayuntamientos fomentarán el desarrollo de un Programa Estatal de Asistencia Social y de los programas municipales que sean necesarios, con la participación de los sectores público, social y privado, canalizando los recursos y apoyos técnicos que se requieran.
 
-Asimismo, procurará destinar los apoyos necesarios a los programas de asistencia social, públicos y privados, para fomentar su aplicación.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 135.
 
-Los menores en estado de desprotección social, tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+Los menores, incapaces, inválidos y los ancianos en estado de desprotección social, tienen derecho a recibir los servicios asistenciales que necesiten en cualquier establecimiento público dependiente del Estado o de los municipios al que sean enviados para su atención, sin perjuicio de la intervención que corresponda a otras autoridades u organismos.
 
 ###### ARTICULO 136.
 
@@ -1145,9 +1345,15 @@ Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente 
 
 En estos casos, las instituciones de salud del Estado, deberán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 137.
 
-El Gobierno del Estado contará con un organismo que tendrá entre sus objetivos, en coordinación con el organismo federal encargado de la asistencia social, la promoción de ésta en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que establezcan las disposiciones legales aplicables.
+El Gobierno del Estado contará con un organismo público descentralizado con personalidad jurídica y patrimonio propios, que se denominará Sistema Estatal para el Desarrollo Integral de la Familia.
+
+Dicho organismo coordinará el Sistema Estatal de Asistencia Social y establecerá en forma anual un Programa Estatal de Asistencia Social, con la intervención de la Secretaría de Salud del Estado, los organismos afines de los ámbitos federal y municipal y los sectores social privado.
+
+Este Programa se fincará sobre las bases que establece esta Ley, la Ley sobre el Sistema Estatal de Asistencia Social y demás ordenamientos aplicables, y se perseguirá como fines últimos la solidaridad social y la dignificación del ser humano.
 
 ###### ARTICULO 138.
 
@@ -1157,25 +1363,33 @@ El Gobierno del Estado y los Municipios proveerán la creación de establecimien
 
 El Gobierno del Estado y los Municipios, en coordinación con las dependencias y entidades públicas correspondientes, distribuirán raciones alimenticias en aquellas zonas de agudo retraso socio económico o en las que se padezcan desastres orinados (sic) por sequía, inundaciones, terremotos y otros fenómenos naturales o contingencias con efectos similares.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 140.
 
-La autoridad sanitaria del Estado podrá autorizar la constitución de instituciones privadas cuyo objeto sea la prestación de servicios asistenciales.
+La Secretaría de Salud del Estado, podrá reconocer como instituciones de asistencia privada a las personas morales cuyo objeto sea la prestación de servicios asistenciales, y autorizar su funcionamiento en los términos de esta Ley y de la Ley Sobre el Sistema Estatal de Asistencia Social.
 
 ###### ARTICULO 141.
 
-Serán consideradas instituciones de Asistencia Privada las que se constituyan conforme a esta Ley, al Reglamento correspondiente y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales sin propósito de lucro y sin designar individualmente a los beneficiarios.
+(DEROGADO, P.O. 19 DE NOVIEMBRE DE 1993)
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 142.
 
-Se crea la Junta de Asistencia Privada como órgano dependiente del organismo a que se refiere el Artículo 137 de esta Ley, a través del cual se ejercerá la vigilancia y promoción de las Instituciones de Asistencia Privada.
+Se crea la Junta Estatal de Asistencia Privada como órgano dependiente del Sistema Estatal para el Desarrollo Integral de la Familia, por conducto del cual se ejercerá la promoción, evaluación y vigilancia de las Instituciones de Asistencia Privada.
+
+La integración de la Junta, su funcionamiento y facultades, serán determinadas por el reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 143.
 
-Serán consideradas instituciones de Asistencia Privada, los asilos, los hospicios, las casas de cuna y las demás que determine el Reglamento correspondiente.
+Serán consideradas instituciones de Asistencia Privada, las personas morales que sin propósito de lucro y sin designar individualmente a sus beneficiarios, se constituyan conforme a las leyes aplicables y sean reconocidas por la Secretaría de Salud del Estado, al tenor de lo que dispone el artículo 140 de esta Ley; y cuyo objeto sea la prestación de los servicios asistenciales en el concepto establecido por los artículos 132 y 133 de la propia Ley y 4o., de la Ley Sobre el Sistema Estatal de Asistencia Social.
 
 ###### ARTICULO 144.
 
-La integración, funcionamiento y facultades de la Junta de Asistencia Privada, será determinada por el Reglamento correspondiente.
+(DEROGADO, P.O. 19 DE NOVIEMBRE DE 1993)
 
 ###### ARTICULO 145.
 
@@ -1185,9 +1399,11 @@ El organismo a que se refiere el Artículo 137 de esta Ley, coadyuvará con la J
 
 Las instituciones de Asistencia Privada se consideran de interés público y están exceptuadas del pago de los impuestos, derechos y aprovechamientos que establezcan las Leyes del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 147.
 
-Las reglas de constitución, operación, organización, liquidación y demás aspectos concernientes a las instituciones de Asistencia Privada serán establecidas en el Reglamento que al efecto se expida.
+La organización interna de las instituciones de Asistencia Privada, se regirán en los términos de sus estatutos, y su liquidación deberá, además, verificarse con la intervención de la Junta Estatal de Asistencia Privada.
 
 ###### ARTICULO 148.
 
@@ -1197,9 +1413,11 @@ Los servicios y acciones que presten y realicen las instituciones de Asistencia 
 
 Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitatoria, cuando, así se requiera.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 150.
 
-La Secretaría de Salud y Seguridad Social en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas inválidas.
+La Secretaría de Salud del Estado, en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas inválidas.
 
 ###### ARTICULO 151.
 
@@ -1243,15 +1461,27 @@ El organismo del Gobierno Estatal, previsto en el Artículo 137 de esta Ley, ten
 
 ### CAPITULO II. Mercados y Centros de Abasto
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 157.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución, en el Estado, del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
+El Gobierno del Estado se coordinará con las autoridades sanitarias federales y municipales para la ejecución, en el Estado, del programa contra el alcoholismo y el abuso de bebidas alcohólicas, que comprenderá las siguientes acciones:
 
 I.- La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
 
 II.- La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obretos (sic) y campesinos, a través de métodos individuales, sociales o de comunicación masiva; y
 
-III.- El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+III.- El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+IV.- El ejercicio de medidas de control en el expendio de alcohol y bebidas alcohólicas, para prevenir su adquisición y consumo por parte de menores de edad e incapaces; y
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+V.- Las demás que determine la legislación aplicable.
 
 ###### ARTICULO 158.
 
@@ -1269,11 +1499,21 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 ###### ARTICULO 159.
 
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del Programa contra el tabaquismo, que comprenderá, entre otras, las siguientes acciones:
+El Gobierno del Estado se coordinará con las autoridades sanitarias federales y municipales para la ejecución, en el Estado, del Programa contra el Tabaquismo, que comprenderá las siguientes acciones:
 
 I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo; y
 
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+II.- La educación sobre los efectos del tabaquismo en la salud mediante campañas permanentes de información y orientación en la población, especialmente a la familia, niños y adolescentes en edad escolar, por medio de estrategias individuales, colectivas y de comunicación masiva que desalienten el consumo de tabaco, especialmente en lugares públicos;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+III.- El ejercicio de medidas de control para prevenir la adquisición de tabaco, en cualquiera de sus presentaciones, a menores de edad; y
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+IV.- Las demás que determine la legislación aplicable.
 
 ###### ARTICULO 160.
 
@@ -1283,7 +1523,9 @@ I.- La investigación de las causas del tabaquismo y de las acciones para contro
 
 II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
 
-### CAPITULO IV. Panteones
+### CAPITULO IV. De los Panteones o Cementerios, Crematorios y Funerarias
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 161.
 
@@ -1305,53 +1547,77 @@ A los establecimientos que vendan o utilicen substancias inhalantes con efectos 
 
 ## TITULO DECIMO PRIMERO. Salubridad Local
 
-### CAPITULO V. Limpieza Pública
+### CAPITULO V. Limpia y Recolección de Basura
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 163.
 
-Compete al Gobierno del Estado, a través de la Secretaría de Salud y Seguridad Social y a los Ayuntamientos, en el ámbito de sus respectivas competencias, en los términos de esta Ley, de las demás disposiciones legales aplicables y de los convenios y acuerdos de coordinación que se suscriban, el control sanitario de las materias a que se refiere el artículo 3 apartado "B" de esta ley.
+Compete al Gobierno del Estado, por conducto de la Secretaría de Salud de la Entidad y de los Ayuntamientos, en el ámbito de sus respectivas competencias, en los términos de esta Ley, de las demás disposiciones aplicables y de los convenios y acuerdos de coordinación que se suscriban, el control sanitario de las materias a que se refiere el artículo 3o. apartado "B" de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 164.
 
-Se entiende por control y regulación sanitaria, el conjunto de actos que lleve a cabo la autoridad a fin de prevenir riesgos y daños a la salud de la población que comprende la autorización, vigilancia y la aplicación de sanciones y medidas de seguridad en las materias de salubridad local.
+Se entiende por regulación, control y fomento sanitarios, el conjunto de actos que lleva a cabo la autoridad a fin de prevenir riesgos y daños a la salud de la población, que comprende la autorización, vigilancia y aplicación de sanciones y medidas de seguridad que ejerce la Secretaría de Salud del Estado, con la participación de los productores, comercializadores y consumidores, con base en lo establecido por las normas oficiales y otras disposiciones en materia de salubridad local y salubridad general.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 165.
 
-La Secretaría de Salud y Seguridad Social del Estado, emitirá las normas técnicas a que quedará sujeto el control sanitario de las materias de salubridad local.
+La Secretaría de Salud del Estado, emitirá las normas oficiales a que quedará sujeto el control sanitario de las materias de salubridad local.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 166.
 
-Los establecimientos a que se refiere el artículo 3 apartado "B", requieren para su funcionamiento:
+Los establecimientos a que se refiere el artículo tercero, apartado "B", de esta Ley, requieren para su funcionamiento:
 
-I.- Licencia sanitaria, expedida por la Secretaría de Salud y Seguridad Social y la autoridad municipal en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-II.- Contar, en su caso, con un responsable que reúna los requisitos que se establecen en esta ley y en los reglamentos respectivos;
+I.- Dar aviso de apertura a la Secretaría de Salud del Estado, con treinta días de anticipación;
 
-III.- Contar, en su caso, con los auxiliares del responsable que determinen los reglamentos aplicables, tomando en cuenta la cantidad de los productos de que se trate, la diversidad de líneas de producción y la duración y horario de las operaciones. La autoridad sanitaria competente podrá dispensar de este requisito, previo estudio fundado y motivado; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+II.- Contar, en su caso, con un encargado que reúna los requisitos que se establecen en esta Ley y en sus reglamentos respectivos;
+
+III.- (DEROGADA, P.O. 19 DE NOVIEMBRE DE 1993)
 
 IV.- Reunir los demás requisitos y autorizaciones que establezcan otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 167.
 
-Todo cambio de propietario, ubicación, razón social o denominación y cesión de derechos notariales, de un establecimiento autorizado por la autoridad municipal y de la Secretaría de Salud y Seguridad Social, deberá ser comunicado a éstas, en un plazo no mayor de 30 días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
+Todo cambio de propietario, de ubicación, de razón social o denominación y, en general, toda cesión de derechos de los establecimientos a que se refiere el artículo anterior, deberán ser autorizados por la autoridad municipal, y notificado a la Secretaría de Salud del Estado, previa comunicación a éstas en un plazo no mayor de treinta días contados a partir de la fecha en que se hubiese realizado el cambio, sujetándose el trámite a las normas oficiales y a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 168.
 
-La Secretaría de Salud y Seguridad Social, de conformidad con lo dispuesto en esta Ley, deberá publicar en el Periódico Oficial del Gobierno del Estado las normas técnicas que expida, resoluciones sobre otorgamiento y revocación de autorizaciones sanitarias de establecimientos, así como notificaciones de resoluciones administrativas que señale esta Ley, e información que determine la mencionada dependencia, las que surtirán efecto a partir del día siguiente de su publicación.
+La Secretaría de Salud del Estado, de conformidad con lo dispuesto por esta Ley, deberá publicar en el Periódico Oficial del Gobierno del Estado, las normas oficiales que expida, en materia de salubridad local. Así como las modificaciones de las resoluciones administrativas que señale esta Ley, y todas las informaciones que por su importancia determine la mencionada dependencia. Mismas que surtirán efecto a partir del cuarto día siguiente al de su publicación.
 
 ### CAPITULO VI. Rastros
 
 ###### ARTICULO 169.
 
-Para los efectos de esta Ley, se entiende por mercados y centros de abasto, el sitio público destinado a la compra y venta de productos en general, preferentemente agrícolas y de primera necesidad, en forma permanente o en días determinados.
+Para los efectos de esta Ley, se entiende por:
+
+I.- Mercado: El sitio público destinado a la compra y venta de productos en general, preferentemente agrícolas y de primera necesidad, en forma permanente o en días determinados; y
+
+II.- Centros de Abasto: El sitio destinado al servicio público en maniobras de carga y descarga, la conservación en frío y demás operaciones relativas a la compra-venta al mayoreo y medio mayoreo de productos en general.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 170.
 
-Los mercados y centros de abasto para su funcionamiento, sea provisional o permanente, requerirán la autorización sanitaria expedida por la autoridad sanitaria competente, la cual se otorgará si reúne los requisitos que señale la Ley, el reglamento respectivo, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+La Secretaría de Salud del Estado verificará que los mercados y centros de abastos, sean provisionales o permanentes, cumplan con los requisitos que establece esta Ley, las disposiciones reglamentarias aplicables y las normas oficiales que emitan para tal efecto.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 171.
 
-Los mercados y centros de abasto, desde el punto de vista higiénico, estarán bajo la vigilancia de la autoridad sanitaria competente, la cual comprobará que se cumplan con los requisitos sanitarios establecidos.
+Los mercados y centros de abastos serán objeto de verificaciones sanitarias periódicas por la autoridad sanitaria competente, la cual comprobará que se cumplan con los requisitos sanitarios establecidos.
 
 ###### ARTICULO 172.
 
@@ -1367,65 +1633,95 @@ Para los efectos de esta Ley, se entiende por construcción toda edificación o 
 
 En los aspectos sanitarios, las construcciones, reconstrucciones, modificaciones y adaptaciones, deberán cumplir con las disposiciones de esta Ley, las demás disposiciones legales aplicables y las normas técnicas correspondientes.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 175.
 
-Cuando se trate de iniciar y realizar la construcción, reconstrucción, modificación y acondicionamiento total o parcial de un edificio o local se requerirá independientemente de los permisos que exijan otras disposiciones legales, de la autorización sanitaria del proyecto en cuanto la iluminación, ventilación, instalaciones sanitarias y contra accidentes, conforme a esta Ley y demás disposiciones aplicables.
+Cuando se trate de iniciar y realizar la construcción, reconstrucción, modificación y acondicionamiento total o parcial de un edificio o local, se requerirá, independientemente de los permisos que exijan otras disposiciones legales, el dictamen sanitario del proyecto en cuanto la iluminación, ventilación, instalaciones sanitarias y contra accidentes, conforme a esta Ley y demás disposiciones aplicables.
 
 ###### ARTICULO 176.
 
 Cuando el uso que se pretenda dar a un edificio o local sea para la atención del público, además de los requisitos previstos en otras disposiciones aplicables, se deberá contar con agua potable corriente y retretes públicos, los cuales deberán reunir los requisitos que establezcan las normas correspondientes.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 177.
 
-El responsable de la construcción, reconstrucción, modificación o acondicionamiento de cualquiera de los establecimientos a que se refiere este título, deberá dar aviso de inicio y terminación de obra a la autoridad sanitaria, quien vigilará el cumplimiento de los requisitos aprobados en el proyecto a que se refiere esta Ley, demás disposiciones sanitarias aplicables y las normas técnicas correspondientes.
+El responsable de la construcción, reconstrucción, modificación o acondicionamiento de cualquiera de los establecimientos a que se refiere este título, deberá dar aviso de inicio y terminación de obra a la autoridad sanitaria, correspondiéndole al Municipio la vigilancia en el cumplimiento de los requisitos aprobados en el proyecto a que se refiere el artículo 175 de esta Ley y demás disposiciones sanitarias aplicables y las normas oficiales que correspondan.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 178.
 
-Los edificios y locales terminados, podrán dedicarse al uso que se destinen, una vez inspeccionados y declarada la conformidad por parte de la autoridad sanitaria.
+Los edificios y locales terminados podrán dedicarse al uso que se destinen, una vez verificados y declarada la conformidad por parte de la autoridad sanitaria.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 179.
 
-Los edificios, locales, construcciones o terrenos urbanos, podrán ser inspeccionados por las autoridades sanitarias, quienes ordenarán las obras necesarias para satisfacer las condiciones higiénicas y de seguridad en los términos de esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+Los edificios, locales, construcciones o terrenos urbanos, podrán ser verificados por las autoridades sanitarias, quienes ordenarán las obras necesarias para satisfacer las condiciones higiénicas y de seguridad en los términos de esta Ley y de las normas oficiales correspondientes.
 
 ###### ARTICULO 180.
 
 Los propietarios o poseedores de los edificios o locales, o de los negocios en ellos establecidos, están obligados a ejecutar las obras que se requieren para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones legales aplicables y normas técnicas correspondientes.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 181.
 
-Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades municipales, en los términos de su competencia, podrán ejecutar las obras que estimen de urgencia, con cargo a sus propietarios o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
+Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes podrán ordenar la ejecución de las obras que estimen de urgencia, con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos, en cuya notificación se harán los apercibimientos que correspondan.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 182.
 
-Para la creación, ampliación o modificación de colonias o fraccionamientos, se requiere dictamen sanitario previo de la Secretaría de Salud y Seguridad Social, quien para expedirlo deberá tomar en consideración la disponibilidad de servicios adecuados de agua potable, alejamiento de excretas, recolección de basura, distribución de áreas verdes, habitacionales, comerciales, industriales, de esparcimiento, de servicios públicos, y demás que considere importantes, independientemente de lo que al respecto establezcan otras disposiciones legales aplicables, para el cumplimiento de lo previsto en este capítulo se coordinarán con las autoridades municipales, estatales y federales competentes en cada campo.
+Para la creación, ampliación o modificación de colonias o fraccionamientos, se requiere dictamen sanitario previo de la Secretaría de Salud del Estado, quien para expedirlo deberá tomar en consideración la disponibilidad de servicios adecuados de agua potable, alejamiento de excretas, recolección de basura, distribución de áreas verdes, habitacionales, comerciales, industriales, de esparcimiento, de servicios públicos, y demás que considere importantes, independientemente de lo que al respecto establezcan otras disposiciones legales aplicables, para el cumplimiento de lo previsto en este capítulo, se coordinarán con las autoridades municipales, estatales y federales, en el ámbito de su competencia.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ### CAPITULO VIII. Establos, Granjas Avícolas y Porcícolas, Apiarios y otros Establecimientos Pecuarios
 
 ###### ARTICULO 183.
 
-Para los efectos de esta Ley se considera como panteón, al lugar destinado a la inhumación e incineración, y en su caso, exhumación de restos humanos.
+Para los efectos de esta Ley se considera:
+
+I.- Panteón o cementerio: al lugar destinado a la inhumación, y en su caso, exhumación de restos humanos;
+
+II.- Crematorio: al lugar destinado a la incineración de cadáveres y restos humanos; y
+
+III.- Funeraria: el establecimiento dedicado a la venta de féretros y a la prestación de servicios de velación y traslado de cadáveres de seres humanos a los panteones, cementerios y crematorios.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 184.
 
-Para establecer un nuevo panteón se necesita licencia expedida por la Secretaría de Salud y Seguridad Social, quien la podrá conceder después de oída la opinión de la autoridad municipal.
+Para establecer un nuevo panteón, cementerio o unidad de cremación, se requiere haber cumplido con los requisitos legales correspondientes y previa autorización municipal, dar aviso de apertura a la autoridad sanitaria con un mínimo de treinta días de anticipación.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 185.
 
-Los panteones estarán sujetos a las condiciones que fija el reglamento respectivo y la inspección de la Secretaría de Salud y Seguridad Social.
+Los panteones o cementerios y crematorios estarán sujetos a las condiciones sanitarias que se fijen en esta Ley y demás ordenamientos aplicables, y a la verificación correspondiente por parte de la Secretaría de Salud del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 186.
 
-La autoridad sanitaria competente, podrá ordenar la ejecución de las obras o trabajos que estime necesario para satisfacer las condiciones de higiene y seguridad requeridas para los panteones, así como determinar la clausura temporal o definitiva de los mismos.
+La autoridad sanitaria competente podrá ordenar la ejecución de las obras o trabajos que estime necesarios para satisfacer las condiciones de higiene y seguridad requeridas para los panteones o cementerios y crematorios, así como determinar las medidas de seguridad sanitarias que considere procedentes.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 187.
 
-La autoridad sanitaria competente hará la declaración del momento en que se encuentre saturado un panteón y prohibirá que en él se realicen más inhumaciones.
+La autoridad sanitaria competente hará la declaración del momento en que se encuentre saturado un panteón o cementerio y podrá prohibir que en él se realicen más inhumaciones.
 
 ###### ARTICULO 188.
 
 Los cadáveres deberán inhumarse, incinerarse entre las doce y las cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la autoridad sanitaria competente o por disposiciones del Ministerio Público o de la autoridad judicial.
 
-Los administradores de los panteones darán aviso a la autoridad sanitaria del lugar, o si en éste no lo hubiere, a la del lugar próximo de los casos en que se haya violado esta disposición para que, previa investigación, se sancione a los que resulten responsables de la demora.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+Los administradores de los panteones o cementerios darán aviso a la autoridad sanitaria más próxima, de los casos en que se haya violado esta disposición para que, previa investigación, se sancione a los que resulten responsables de la demora.
 
 ###### ARTICULO 189.
 
@@ -1433,11 +1729,13 @@ Los reglamentos o a falta de ellos, la autoridad sanitaria competente, determina
 
 Mientras este plazo no termine sólo podrán efectuarse las exhumaciones autorizadas por las propias autoridades y las ordenadas por la autoridad judicial, mediante los requisitos que se fijen, en su caso, por las autoridades sanitarias.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ### CAPITULO IX. Reclusorios o Centros de Readaptación Social
 
 ###### ARTICULO 190.
 
-Para los efectos de esta Ley, se entiende por limpia, el servicio de recolección, transporte y disposición final de la basura que estará a cargo de los Ayuntamientos, los cuales estarán obligados a implantar este servicio de una manera regular y eficiente.
+Para los efectos de esta Ley, se entiende por servicio de limpia y recolección de basura, la recolección, manejo, disposición y tratamiento de residuos sólidos a cargo de los Ayuntamientos o de los organismos operadores, los que estarán obligados a prestar este servicio de una manera regular y eficiente.
 
 ###### ARTICULO 191.
 
@@ -1461,35 +1759,49 @@ La basura, por ningún motivo, se manipulará, excepto lo estrictamente indispen
 
 Para toda la actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO X. Baños Públicos
+### CAPITULO X. Baños Públicos y Balneario
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 196.
 
 Para los efectos de esta Ley, se entiende por rastro el lugar destinado al servicio de matanza de animales a cargo de los Ayuntamientos, los que están obligados a prestarlo en forma regular, higiénica y eficiente.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 197.
 
-El funcionamiento, aseo y conservación de los rastros municipales, quedará a cargo de la autoridad municipal competente. Si fueren particulares, quedará a cargo de las personas responsables de realizarlo y bajo la supervisión de las autoridades sanitarias, con el auxilio de autoridades municipales y el comité de salud municipal, quedando sujetos, en ambos casos, a la observancia de lo dispuesto por esta Ley y otras disposiciones legales aplicables. Queda prohibido el funcionamiento de rastros no autorizados por la Secretaría de Salud y Seguridad Social.
+El funcionamiento, aseo y conservación de los rastros municipales, quedará a cargo de la autoridad municipal competente. Si estuvieran concesionados a particulares, quedará a cargo de las personas responsables de realizarlo y bajo la supervisión de las autoridades sanitarias con el auxilio de autoridades municipales y del subcomité de salud municipal. En todo caso, quedarán sujetos a lo dispuesto por esta Ley y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 198.
 
-Los animales deberán ser examinados en pie 24 horas antes del sacrificio y posteriormente en canal por el Médico Veterinario Zootecnista autorizado por la autoridad sanitaria, dicho profesional señalará qué carne puede dedicarse a la venta pública, mediante la colocación del sello correspondiente bajo la supervisión de la autoridad sanitaria.
+Los animales deberán ser examinados en pie veinticuatro horas antes de ser sacrificados y, posteriormente, en canal, por un Médico Veterinario Zootecnista titulado. Dicho profesional señalará qué carne puede destinarse a la venta pública, colocando el sello correspondiente bajo la supervisión de la autoridad sanitaria.
 
 ###### ARTICULO 199.
 
 Queda prohibida la matanza de animales en casas o domicilios particulares, cuando las carnes sean destinadas al comercio y consumo público. Cuando por destinarse la carne y demás productos al consumo humano, la autoridad municipal concederá permiso para el sacrificio de ganado menor a domicilio, dicho permiso será concedido bajo la condición de que el animal y sus carnes sean inspeccionadas por autoridad sanitaria correspondiente.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 200.
 
-La Matanza de animales en los rastros autorizados se efectuará en los días y horas que fije la autoridad municipal, tomando en consideración las condiciones del lugar y los elementos de que disponga dicha autoridad y la autoridad sanitaria para realizar las inspecciones necesarias.
+La matanza de animales en los rastros autorizados se efectuará en los días y horas que fije la autoridad municipal, tomando en consideración las condiciones del lugar y los elementos de que disponga dicha autoridad municipal para realizar las verificaciones a que haya lugar.
+
+El sacrificio de los animales sujetos a aprovechamiento humano, en cualquiera de sus formas, se verificará mediante los métodos científicos y técnicos actualizados que señalen las disposiciones reglamentarias o las normas oficiales que al efecto se emitan, con el objeto de impedir toda crueldad que cause sufrimiento excesivo a los animales.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 201.
 
-Queda prohibida, en el Estado, la venta de carne para el consumo humano sin la previa autorización de la autoridad sanitaria competente.
+Queda prohibida en el Estado la venta de carnes para consumo humano, sin que esta haya sido revisada por la autoridad sanitaria competente.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 202.
 
-El transporte de carne, para el comercio dentro del territorio del Estado, deberá realizarse en los vehículos y por personal autorizado por la Secretaría de Salud y Seguridad Social del Estado, la que otorgará la autorización sanitaria correspondiente después de haber comprobado que se cumple con lo establecido por esta Ley, su reglamento y las normas técnicas aplicables.
+El transporte de carne, para el comercio dentro del territorio del Estado, deberá realizarse en los vehículos que cumplan con el reglamento sanitario vigente, previa verificación de la autoridad competente.
 
 ### CAPITULO XI. Centros de Reunión y Espectáculos
 
@@ -1505,41 +1817,55 @@ Los proyectos de abastecimiento de agua potable deberán ser sometidos a la cons
 
 La autoridad sanitaria estatal o municipal, en su caso, realizará análisis periódicos de la potabilidad de las aguas, en los términos de esta Ley, de otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 206.
 
-En las poblaciones sin sistema de agua potable, deberán protegerse las fuentes de abastecimiento para prevenir su contaminación, conforme a las normas técnicas correspondientes.
+En los poblados que carezcan del sistema de agua potable y alcantarillado, se deberán proteger las fuentes de abastecimiento para prevenir su contaminación, conforme a las normas oficiales correspondientes.
+
+Queda prohibido utilizar para el consumo humano, el agua de pozo o algibe (sic) que no se encuentre situado a una distancia mínima de quince metros, considerando la corriente o el flujo subterráneo de retretes, alcantarillados, estercoleros o depósitos de desperdicios que puedan contaminarlos.
 
 ###### ARTICULO 207.
 
 Todas las poblaciones del Estado deberán contar con sistemas para el desagüe rápido e higiénico de sus desechos, preferentemente por medio de alcantarillado o fosa séptica.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 208.
 
-En las poblaciones donde no haya sistemas de alcantarillado, las fosas sépticas deberán construirse conforme a los (sic) normas técnicas que emita la Secretaría de Salud y Seguridad Social.
+En las poblaciones donde no haya sistema de alcantarillado, las fosas sépticas y letrinas deberán construirse conforme a las normas oficiales que emita la Secretaría de Salud del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 209.
 
-Los proyectos para la implantación de sistemas de alcantarillado deberán ser estudiados y aprobados por el Gobierno del Estado, con la intervención que corresponda a la autoridad sanitaria y la obra se llevará a cabo bajo la inspección de la misma.
+Los proyectos para la construcción de sistemas de alcantarillado deberán ser aprobados por la autoridad municipal o por los organismos operadores con la intervención que corresponda al Gobierno del Estado, por conducto de la Secretaría de Salud de la Entidad, quien dictaminará, con base a las normas oficiales su procedencia y viabilidad.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 210.
 
-Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier cuerpo de agua superficial o subterráneo, cuyas aguas se destinen para uso o consumo humano.
+Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier cuerpo de agua superficial o subterráneo, donde fluyen aguas destinadas al uso o consumo humano; en todo caso deberán ser tratadas conforme a las disposiciones legales sanitarias, a las normas oficiales aplicables y a las disposiciones legales en materia de contaminación.
 
-Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas para uso o consumo de la población; estarán obligados a darles el tratamiento conforme a las disposiciones y normas técnicas aplicables, a fin de evitar riesgos para la salud humana.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 211.
 
-En caso de encontrarse anomalías en la calidad de agua de las fuentes de abastecimiento que pongan en peligro a la salud, la Secretaría de Salud y Seguridad Social, podrá cancelar de inmediato la utilización de esta fuente, hasta que se realicen las acciones necesarias que permitan recuperar la potabilización del agua.
+En caso de encontrarse anomalías en la calidad del agua de las fuentes de abastecimiento que pongan en peligro la salud, la Secretaría de Salud del Estado podrá cancelar de inmediato la utilización de esta fuente, hasta que se certifique por aquella la calidad del agua para el uso y consumo humano.
 
 ###### ARTICULO 212.
 
 Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicios de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 213.
 
-Los pozos o aljibes cuyas aguas se utilicen para el consumo humano, deberán cumplir con las disposiciones legales y los reglamentos y normas técnicas que fije la Secretaría de Salud y Seguridad Social.
+Los pozos y aljibes cuyas aguas se utilicen para el consumo humano, deberán cumplir con las disposiciones legales y los reglamentos y normas oficiales que fije la Secretaría de Salud de Estado.
 
 ### CAPITULO XII. Establecimientos dedicados a la prestación de servicios como Peluquerías, Salones de Belleza y Otros
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 214.
 
@@ -1551,7 +1877,13 @@ II.- Granjas avícolas: los establecimientos dedicados a la cría, reproducción
 
 III.- Granjas porcícolas: los establecimientos dedicados a la cría, reproducción, mejoramiento y explotación de cerdos; y
 
-IV.- Apiarios: el conjunto de colmenas destinadas a la cría, explotación y mejoramiento genético de las abejas.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+IV.- Apiarios: el conjunto de colmenas destinadas a la cría, explotación y mejoramiento genético de las abejas; y
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+V.- Establecimientos similares: todos aquellos dedicados a la cría reproducción, mejoramiento y explotación de especies animales no incluidas en las fracciones anteriores, pero aptas para el consumo humano.
 
 ###### ARTICULO 215.
 
@@ -1577,27 +1909,43 @@ Para los efectos de esta Ley, se entiende por reclusorio o centros de readaptaci
 
 Los reclusorios estarán sujetos al control sanitario del Gobierno del Estado, por conducto de la autoridad sanitaria municipal de conformidad con las disposiciones que se señalen en esta Ley y demás disposiciones generales aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 220.
 
-Los reclusorios deberán contar además de los previstos por las disposiciones legales aplicables y las normas técnicas correspondientes, con un departamento de baños de regadera, retrete, peluquería y otro de enfermería, éste para la atención de aquellos casos de enfermedad de los internos, en la que no sea necesario el paso de éstos a un hospital, de ser necesaria hospitalización, deberán ser trasladados a la sala de reclusos que estará provista de las medidas de seguridad necesarias que disponga el Ejecutivo del Estado.
+Los reclusorios y centros de readaptación social deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas oficiales que al respecto emita la autoridad sanitaria, con una sección de baños de regadera y retretes, una de peluquería y un consultorio médico que cuente con el personal y equipo necesario para la atención de aquellos casos de enfermedad de los internos, en los que no sea requerido su traslado a un hospital.
+
+Tratándose de enfermedades que por su gravedad o cuando así lo requiera el tratamiento a juicio del personal médico de la institución, sea necesario trasladar a un interno a una unidad hospitalaria, el Director del reclusorio o del centro de readaptación social deberá autorizar la transferencia, la cual se ejecutará bajo la vigilancia del médico tratante y del personal de custodia, dando aviso de ello en forma inmediata a la autoridad a cuya disposición se encuentre el enfermo, la cual dictará las medidas necesarias.
+
+Las personas encargadas de los servicios médicos de los reclusorios y de los centros de readaptación social, inmediatamente de que tengan conocimientos (sic) de alguna enfermedad transmisible deberán adoptar las medidas de seguridad sanitarias que procedan para evitar la propagación a otros internos, dando aviso a la autoridad sanitaria.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 221.
 
-La Secretaría de Salud y Seguridad Social, practicará visitas periódicas a los reclusorios, a fin de percatarse del estado en que se encuentren las instalaciones, proveyendo, en la esfera de su competencia y de conformidad con las normas aplicables, lo que corresponda.
+La Secretaría de Salud del Estado, practicará visitas de verificación periódica a los reclusorios, a fin de percatarse del estado en que se encuentran las instalaciones, proveyendo en la esfera de su competencia y de conformidad con las normas aplicables, lo que corresponda.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ### CAPITULO XIV. Transporte Estatal y Municipal
 
 ###### ARTICULO 222.
 
-Para los efectos de esta Ley, se entiende por baño público el establecimiento destinado a utilizar el agua para el aseo corporal, deporte o uso medicinal bajo la forma de baño, y al que pueda concurrir el público, quedando incluído en la denominación de baños, los llamados de vapor y de aire caliente.
+Para los efectos de esta Ley se entiende por:
+
+I.- Baño público: el establecimiento destinado a utilizar el agua para el aseo corporal, bajo la forma de baño y al que puede concurrir el público. Quedan incluidos en este rubro los llamados de vapor y de aire caliente; y
+
+II.- Balneario: el establecimiento destinado al deporte acuático o de uso medicinal de aguas con acceso del público.
 
 ###### ARTICULO 223.
 
-Para la apertura al servicio público estos establecimientos deberá obtenerse la licencia expedida por la Secretaría de Salud y Seguridad Social, oyendo previamente a la autoridad municipal correspondiente.
+(DEROGADO, P.O. 19 DE NOVIEMBRE DE 1993)
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 224.
 
-La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes que emita la Secretaría de Salud y Seguridad Social.
+La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas oficiales que emita la Secretaría de Salud del Estado.
 
 ###### ARTICULO 225.
 
@@ -1609,9 +1957,11 @@ Queda estrictamente prohibido la introducción, venta y consumo de bebidas alcoh
 
 Para los efectos de esta Ley, se entiende por centro de reunión todas aquellas edificaciones destinadas al agrupamiento de personas con fines recreativos, sociales, deportivos y culturales.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 227.
 
-La autoridad sanitaria, una vez terminada la edificación del centro de reunión y antes de abrirse al público hará la inspección y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no cumplan con las condiciones de seguridad e higiene suficiente para garantizar la vida y la salud de las personas que a ellos concurran. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
+La autoridad sanitaria, una vez terminada la edificación de un centro de reunión o de espectáculos verificará que reúnan las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran.
 
 ###### ARTICULO 228.
 
@@ -1621,15 +1971,17 @@ El funcionamiento de los establecimientos a que se refiere este capítulo, deber
 
 Queda estrictamente prohibida la entrada a niños menores de 5 años a salas cinematográficas, teatros, auditorios y establecimientos similares cubiertos.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 230.
 
-Queda estrictamente prohibido fumar dentro de los teatros, cines, auditorios y similares cubiertos, permitiéndose solamente en las salas de espera.
+Queda prohibido fumar dentro de los teatros, cines, auditorios, oficinas públicas y, en general, dentro de cualquier área cerrada a la que concurra el público.
 
 ### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 231.
 
-Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza, los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, arreglo estético de uñas, de manos y pies o aplique tratamiento capilar de belleza al público.
+Para los efectos de esta Ley, se entiende por peluquerías, salones de belleza y estéticas, los establecimientos dedicados a afeitar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, al arreglo estético de las uñas de las manos y de los pies, o a la aplicación de tratamientos de belleza en general al público.
 
 ###### ARTICULO 232.
 
@@ -1647,7 +1999,7 @@ III.- Lavadero público: el establecimiento al cual acuden los interesados para 
 
 ###### ARTICULO 234.
 
-Para su funcionamiento, dichos establecimientos deberán contar con la autorización expedida por autoridad sanitaria oyendo previamente a la autoridad municipal correspondiente.
+(DEROGADO, P.O. 19 DE NOVIEMBRE DE 1993)
 
 ###### ARTICULO 235.
 
@@ -1659,13 +2011,17 @@ La autorización a que se hace referencia en el artículo anterior se expedirá 
 
 Para los efectos de esta Ley, se entiende por establecimiento de hospedaje los hoteles, moteles, o casas de huéspedes, así como cualquier edificación que se destine a dar albergue a toda aquella persona que paga por ello.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 237.
 
-La autoridad sanitaria, realizará las inspecciones sanitarias que conforme a esta Ley y otras disposiciones legales aplicables que corresponda.
+La autoridad sanitaria realizará las verificaciones que conforme a esta Ley y otras disposiciones legales aplicables le correspondan.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 238.
 
-Para la construcción o acondicionamiento de un inmueble, que se pretenda destinar al servicio de hotel, motel o casa de huéspedes, así como para su funcionamiento, se requiere contar con la autorización sanitaria.
+Para la construcción o acondicionamiento de un inmueble, que se pretenda destinar al servicio de hotel, motel o casa de huéspedes, se requiere el dictamen técnico sanitario que cumpla con los requisitos que establece esta Ley, su reglamento y las normas oficiales que al efecto se emitan.
 
 ###### ARTICULO 239.
 
@@ -1681,21 +2037,29 @@ Queda prohibido dar cualquier otro uso a estos establecimientos sólo para lo qu
 
 Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo destinado al traslado de carga, alimentos o de pasajeros, sea cual fuere su medio de propulsión.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 242.
 
-Los transportes a que se refiere el artículo anterior y que circulen en el interior del Estado, deberán contar con autorización sanitaria correspondiente, una vez cubiertos los requisitos que marca esta Ley, las demás disposiciones legales aplicables y las normas técnicas correspondientes.
+Los transportes a que se refiere el artículo anterior y que circulen en el interior del Estado, deberán cumplir con los requisitos sanitarios que marca esta ley, las demás disposiciones aplicables y las normas oficiales correspondientes.
 
 ### CAPITULO UNICO. Vigilancia Sanitaria
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 243.
 
 Para los efectos de esta Ley, se entiende por gasolinera el establecimiento destinado al expendio o suministro de gasolina, aceites y demás productos derivados del petróleo.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 244.
 
-Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad que establezca el Reglamento correspondiente y otras disposiciones legales aplicables.
+Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad que establezca esta Ley, otras disposiciones legales aplicables y las normas oficiales relativas. Las instalaciones sanitarias deberán estar permanentemente limpias y en perfectas condiciones de funcionamiento.
 
 ### CAPITULO I. Medidas de Seguridad Sanitaria
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ## TITULO DECIMO SEGUNDO
 
@@ -1705,7 +2069,9 @@ Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad 
 
 La autorización sanitaria es el acto administrativo mediante el cual la autoridad sanitaria del Estado permite a una persona pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta Ley y demás disposiciones generales aplicables.
 
-Las autorizaciones sanitarias, tendrán el carácter de licencias, permisos o tarjetas de control sanitario, en su caso.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+Las autorizaciones sanitarias tendrán el carácter de licencias, permisos o registros, en su caso.
 
 ###### ARTICULO 246.
 
@@ -1731,25 +2097,17 @@ Solo procederá la revalidación, cuando se sigan cumpliendo los requisitos que 
 
 En el caso de las licencias sanitarias, la solicitud de revalidación deberá presentarse dentro de los treinta días anteriores a su vencimiento.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 250.
 
-Requieren de licencia sanitaria:
+Los establecimientos que procesen, expendan o suministren al público alimentos y bebidas alcohólicas y no alcohólicas en estado natural, mezclados, preparados, adicionados o acondicionados para su consumo dentro y fuera del mismo establecimiento, deberán de cumplir con lo dispuesto por los artículos 166 y 167 de esta Ley; en el caso de las bebidas alcohólicas, los establecimientos deberán contar con la conformidad de la Secretaría de Salud del Estado, en los términos de la Ley de la materia.
 
-I.- Giros industriales, comerciales y de servicio;
-
-II.- Los establecimientos dedicados al expendio de alimentos, bebidas alcohólicas y no alcohólicas;
-
-III.- Los mercados y centros de abasto;
-
-IV.- Los rastros, establos, baños públicos, centros de reunión y espectáculos; y
-
-V.- Los demás casos que se señalen en esta Ley y en otras disposiciones generales aplicables.
-
-Cuando los establecimientos a que se refiere este artículo, cambie de ubicación, propietario o razón social, modificación o ampliación de giro, denominación y reposición. (sic) requerirán nueva licencia sanitaria.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 251.
 
-La Secretaría de Salud y Seguridad Social expedirá la licencia sanitaria para el funcionamiento de establecimientos que presten servicio de asistencia social.
+La Secretaría de Salud del Estado, dictaminará sobre el cumplimiento de los requisitos de funcionamiento de los establecimientos en donde se presten servicios asistenciales.
 
 ###### ARTICULO 252.
 
@@ -1767,9 +2125,11 @@ III.- Vendedores ambulantes y semifijos; y
 
 VI (SIC).- Eventos temporales (circos, ferias regionales, carpas, bailes, etc.).
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 254.
 
-La autoridad sanitaria competente podrá requerir tarjeta de control sanitario a las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo las condiciones que se establezcan en las disposiciones aplicables.
+La autoridad sanitaria competente ejercerá control sanitario mediante actos de verificación, o actividades de orientación y, en su caso, la aplicación de las medidas de seguridad previstas en las fracciones VII, VIII, IX y XI del artículo 280 de esta Ley, a las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible.
 
 ###### ARTICULO 255.
 
@@ -1779,7 +2139,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los ingresos que se obtengan por los servicios de salubridad que se presten, se efectuarán en la forma que establezca la legislación aplicable.
 
-Requieren registro sanitario los documentos y productos que se determinen en esta Ley, sus Reglamentos y disposiciones en la materia, con excepción de los reservados a la Ley General de Salud y disposiciones generales aplicables.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
@@ -1867,9 +2227,11 @@ El certificado médico prenupcial, será requerido por las autoridades del Regis
 
 Los certificados de defunción y de muerte fetal serán expedidos una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por la autoridad sanitaria competente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 269.
 
-Los certificados a que se refiere este capítulo, se extenderán por la autoridad sanitaria estatal en los modelos aprobados por la Secretaría de Salud y Seguridad Social y de conformidad con las normas técnicas que la misma emita.
+Los certificados a que se refiere este capítulo, se extenderán en los modelos aprobados por la Secretaría de Salud del Estado y de conformidad con las normas oficiales que la misma emita.
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
@@ -1879,7 +2241,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ###### ARTICULO 270.
 
-Corresponde a las autoridades sanitarias del Estado, en sus respectivos ámbitos de su competencia, la vigilancia del cumplimiento de esta Ley y las demás disposiciones que dicten con base en ella, con respecto a las funciones de control y regulación sanitaria que se descentralicen a los municipios, éstos podrán desarrollar acciones para evitar riesgos o daños a la salud de la población. En todos los casos, la propia Secretaría dará conocimiento a las autoridades municipales de las acciones que lleve a cabo.
+Corresponde a las autoridades sanitarias del Estado, en sus respectivos ámbitos de competencia, la vigilancia del cumplimiento de esta Ley y las demás disposiciones que se dicten con base en ella, respecto a las funciones de regulación, control y fomento sanitarios que se descentralicen a los municipios. Estos podrán desarrollar acciones para evitar riesgos o daños a la salud de la población. En todos los casos, la propia Secretaría de Salud del Estado hará del conocimiento de las autoridades municipales, las acciones que lleve a cabo.
 
 ###### ARTICULO 271.
 
@@ -1889,53 +2251,115 @@ Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del c
 
 El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores con independencia de que se apliquen, si procedieren, las medidas de seguridad y a las sanciones correspondientes a esos casos.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 273.
 
-La vigilancia sanitaria se llevará a cabo mediante visitas de inspección a cargo de inspectores designados por la autoridad sanitaria estatal, quienes deberán realizar las respectivas diligencias, de conformidad con las prescripciones de esta Ley y demás disposiciones aplicables.
+La vigilancia sanitaria se llevará a cabo mediante visitas de verificación a cargo del personal expresamente autorizado por la Secretaría de Salud del Estado, quienes deberán realizar las respectivas diligencias, de conformidad con las prescripciones de esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 274.
 
-Las autoridades sanitarias del Estado podrán encomendar a sus inspectores, además, actividades de orientación, educación y aplicación, en su caso, de las medidas de seguridad a que se refiere el Artículo 299.
+Las autoridades sanitarias del Estado podrán también encomendar a sus verificadores, actividades de orientación, educación y, en su caso, de aplicación, de las medidas de seguridad a que se refiere el Artículo 280 de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 275.
 
-Las inspecciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicio, se considerarán horas hábiles las de su funcionamiento habitual o autorizados.
+Las verificaciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicio, se considerarán horas hábiles las de su funcionamiento habitual o autorizados.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 276.
 
-Los inspectores sanitarios, en el ejercicio de sus funciones, tendrán libre acceso a los edificios, establecimientos comerciales, y de servicio y; en general, a todos los lugares a que hace referencia esta Ley.
+Los verificadores sanitarios, en el ejercicio de sus funciones, tendrán libre acceso a los edificios, establecimientos comerciales y de servicio y, en general, a todos los lugares a que hace referencia esta Ley.
 
-Los propietarios, responsables, encargados y ocupantes de establecimientos objeto de inspección, estarán obligados a permitir el acceso y a dar facilidades e informes a los inspectores para el desarrollo de su labor.
+Los propietarios, responsables, encargados y ocupantes de establecimientos objeto de verificación, estarán obligados a permitir el acceso y dar facilidades a los verificadores para el desarrollo de su labor.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 277.
 
-Los inspectores, para practicar visitas, deberán estar provistos de órdenes escritas y credenciales autorizadas expedidas por la autoridad sanitaria local competente, en las que se deberá precisar el lugar o zona que ha de inspeccionarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+Los verificadores, para practicar visitas, deberán contar con órdenes escritas y credenciales que los identifiquen; dichas credenciales tendrán vigencia mínima de un año y serán expedidas por la autoridad sanitaria competente. En las órdenes deberá precisarse el nombre, denominación o razón social del titular del establecimiento o giro, el domicilio en que habrá de practicarse la visita, precisando el lugar o zona que ha de verificarse, el objeto de la visita y su alcance y las disposiciones legales que la funden y motiven.
 
-La orden de inspección deberá ser exhibida a la persona con quien se entienda la diligencia, a quien se le entregará una copia de la misma.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-Las órdenes podrán expedirse para visitar establecimientos de una rama determinada de actividades o señalar al inspector la zona en la que vigilará el cumplimiento, por todos los obligados de las disposiciones sanitarias.
+La orden de verificación deberá ser exhibida a la persona con quien se entiende la diligencia, a quien se le entregará una copia de la misma.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+Las órdenes podrán expedirse para visitar establecimientos de una misma rama de actividades o señalar al verificador la zona en la que se vigilará el cumplimiento de las disposiciones sanitarias por todos los obligados a observarlas.
 
 Tratándose de actividades que se realicen en la vía pública, las órdenes podrán darse para vigilar una rama determinada de actividades o una zona que se delimitará en la misma orden.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 278.
 
-En la diligencia de inspección sanitaria se deberán observar las siguientes reglas:
+En la diligencia de verificación sanitaria se deberán observar las siguientes reglas:
 
-I.- Al iniciar la visita, el inspector deberá exhibir la credencial vigente, expedida por la autoridad sanitaria competente, que lo acredite legalmente para desempeñar dicha función. Esta circunstancia se deberá anotar en el acta correspondiente;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-II.- Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, que proponga dos testigos que deberán permanecer durante el desarrollo de la visita; ante la negativa o ausencia del visitado, los designará la autoridad que practique la inspección, estas circunstancias, el nombre, domicilio y firma de testigos, se harán constar en el acta;
+I.- Al iniciar la visita, el verificador deberá exhibir la credencial vigente, que lo acredite legalmente para desempeñar dicha función, expedida por la autoridad sanitaria competente. Esta circunstancia deberá anotarse en el acta correspondiente;
 
-III.- En el acta que se levante con motivo de la inspección, se harán constar las circunstancias de la diligencia, las deficiencias o anomalías sanitarias observadas, y, en su caso, las medidas de seguridad que se ejecuten; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-IV.- Al concluir la inspección, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que se le entregará una copia.
+II.- Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, que proponga dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la verificación. Estas circunstancias, el nombre, domicilio y firma de testigos, se harán constar en el acta;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+III.- En el acta que se levante con motivo de la verificación, se harán constar las circunstancias, las deficiencias o anomalías sanitarias observadas, y, en su caso, las medidas de seguridad que se ejecuten; y
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+IV.- Al concluir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o al conductor del vehículo, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que se le entregará una copia.
 
 La negativa a firmar el acta o recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+ARTICULO 278 BIS.- La recolección de muestras se efectuará con la sujeción a las siguientes reglas:
+
+I.- Se observarán las formalidades y requisitos exigidos para las visitas de verificación;
+
+II.- La toma de muestras podrá realizarse en cualquiera de las etapas del proceso, pero deberán tomarse del mismo lote, producción o recipiente, procediéndose a identificar las muestras en envases que puedan ser cerrados y sellados;
+
+III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular; otra muestra podrá quedar en poder de la misma persona a disposición de la Secretaría de Salud Estatal y tendrá el carácter de muestra testigo; la última será enviada por la Secretaría al laboratorio autorizado y habilitado por esta para su análisis oficial;
+
+IV.- El resultado del análisis oficial se notificará en forma personal por correo certificado con acuse de recibo al interesado o titular de la autorización sanitaria de que, se trate, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
+
+V.- En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de quince días hábiles a partir de la notificación del análisis oficial. Transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial, éste quedará firme y la autoridad sanitaria procederá conforme a la fracción VII de este artículo, según corresponda;
+
+VI.- Con la impugnación a que se refiere la fracción anterior, el interesado deberá acompañar el original del análisis particular que se hubiere practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia de muestreo, así como, en su caso, la muestra testigo. Sin el cumplimiento de este requisito no se dará trámite a la impugnación el resultado del análisis oficial quedará firme;
+
+VII.- La impugnación presentada en términos de las fraccione anteriores dará lugar a que la Secretaría analice la muestra testigo en un laboratorio que la misma señale en presencia de las partes interesadas; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regularización sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
+
+VIII.- El resultado del análisis de la muestra testigo se notificará, en forma personal o por correo certificado con acuse de recibo, al interesado o titular de la autorización sanitaria de que se trate y en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado o a ordenar el levantamiento de la medida de seguridad que se hubiere ejecutado, según corresponda.
+
+Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarias, la autoridad sanitaria procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan o a confirmar las que se hubieren ejecutado, a imponer las sanciones que correspondan y a negar o revocar, en su caso, la autorización de que se trate.
+
+Si la diligencia se practica en un establecimiento que no sea titular del registro del producto objeto de la muestra, cuando proceda, se correrá traslado al titular, mediante notificación personal o por correo certificado con acuse de recibo, de una copia del acta de verificación que consigne el muestreo realizado, así como el resultado del análisis oficial, a efecto de que este tenga oportunidad de impugnar el resultado, dentro de los quince días hábiles siguientes.
+
+En este caso, el titular podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
+
+El depositario de la muestra testigo será responsable solidario con el titular si no conserva la muestra citada.
+
+El procedimiento de muestreo no impide que la Secretaría dicte y ejecute las medidas de seguridad sanitarias que procedan, en cuyo caso se asentará en el acta de verificación las que hubieren ejecutado y los productos que comprenda (sic).
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+ARTICULO 278 BIS-1.- En el caso de tomas de muestras de productos perecederos deberá conservarse en condiciones óptimas para evitar su descomposición, su análisis deberá iniciarse dentro de las cuarenta y ocho horas siguientes a la hora en que se recogieron. El resultado del análisis se notificará en forma personal al interesado dentro de los quince días hábiles siguientes contados a partir de la fecha en que se hizo la verificación. El particular podrá impugnar el resultado del análisis en un plazo de tres días contados a partir de la notificación, en cuyo caso se procederá en los términos de las fracciones VI y VII del artículo anterior. Transcurrido este plazo, sin que se haya impugnado el resultado del análisis oficial, este quedará firme.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+ARTICULO 278 BIS-2.- En el caso de los productos recogidos en procedimiento de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la Secretaría para tal efecto podrán determinar, por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
 ## TITULO DECIMO CUARTO. Medidas de Seguridad Sanitaria y Sanciones Administrativas
 
 ###### ARTICULO 279.
 
-Se consideran medidas de seguridad aquellas disposiciones de inmediata ejecución que dicte la Secretaría de Salud y Seguridad Social y los municipios de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
+Se consideran medidas de seguridad aquellas disposiciones de inmediata ejecución que dicte la Secretaría de Salud del Estado y los municipios de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
 
 Son competentes para ordenar y ejecutar medidas de seguridad las autoridades sanitarias del Estado, en el ámbito de sus competencias.
 
@@ -1999,9 +2423,11 @@ El Gobierno del Estado podrá ordenar o proceder a la vacunación de animales qu
 
 El Gobierno del Estado y los municipios, ejecutarán las medidas necesarias para la destrucción o control de insectos u otra fauna transmisora y nociva, cuando éstos constituyan un peligro grave para la salud de las personas, en todo caso, se dará a las dependencias encargadas de la sanidad animal la intervención que corresponda.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 287.
 
-La Secretaría de Salud y Seguridad Social y los municipios podrán ordenar la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando, de continuar aquellos se ponga en peligro la salud de las personas.
+La Secretaría de Salud del Estado y los municipios podrán ordenar la inmediata suspensión de trabajo o de servicios o la prohibición de actos de uso, cuando de continuar aquellos se pongan (sic) en peligro la salud de las personas.
 
 ###### ARTICULO 288.
 
@@ -2025,15 +2451,19 @@ La desocupación o desalojo de casas, edificios, establecimientos y, en general,
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones que emanen de ella, serán sancionadas administrativamente por las autoridades sanitarias del Estado, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 292.
 
 Las sanciones administrativas podrán ser:
 
-I.- Multa;
+I.- Amonestación con apercibimiento;
 
-II.- Clausura temporal o definitiva, que podrá ser parcial o total; y
+II.- Multa;
 
-III.- Arresto hasta por treinta y seis horas.
+III.- Clausura temporal o definitiva, que podrá ser parcial o total; y
+
+IV.- Arresto hasta por treinta y seis horas.
 
 ###### ARTICULO 293.
 
@@ -2047,21 +2477,29 @@ III.- Las condiciones socioeconómicas del infractor; y
 
 IV.- La calidad de reincidente del infractor.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 294.
 
-Se sancionará con multa equivalente hasta de cien veces el salario mínimo general vigente en la zona económica que se trate en el Estado, la violación a las disposiciones contenidas en los Artículos: 51, 54, 55, 80, 95, 97, 115, 116, 117, 129, 167, 171, 172, 174, 175, 176, 177, 180, 193, 199, 210, 211, 216, 223, 228, 232, 234, 244, 250, 252, 267, 268 y 269.
+Se sancionarán con multas equivalentes hasta cien veces el salario mínimo general diario vigente en el Estado, la violación a las disposiciones contenidas en los artículos: 51, 54, 55, 80, 95, 97, 115, 116, 117, 129, 167, 171, 172, 174, 175, 176, 177, 180, 193, 199, 210, 211, 216, 223, 228, 232, 244, 250, 252, 267, 268 y 269.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 295.
 
-Se sancionará con multa equivalente de diez hasta cien veces el salario mínimo general vigente en la zona económica de que se trate en el Estado, la violación a las disposiciones contenidas en los Artículos 107, 114, 119, 125, 162, 240, 276 y 287.
+Se sancionará con multa equivalente de cincuenta a trescientas veces del salario mínimo general diario vigente en el Estado, la violación a las disposiciones contenidas en los artículos 47, 68, 107, 114, 119, 125, 162, 240, 276 y 287.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 296.
 
-Se sancionará con multa equivalente de cincuenta a quinientas veces el salario mínimo general vigente en la zona económica que se trate en el Estado, la violación a las disposiciones contenidas en los Artículos 93, 94, 95 y 108.
+Se sancionará con multa equivalente de cien a quinientas veces de salario mínimo general diario vigente en el Estado, la violación a las disposiciones contenidas en los artículos 93, 94 y 108.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 297.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por quinientas veces el salario mínimo general vigente de la zona económica de que se trate en el Estado, atendiendo las reglas de calificación que se establecen en el Artículo 293 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por quinientas veces el salario mínimo general diario vigente en el Estado, atendiendo las reglas de clasificación que se establecen en el Artículo 293 de esta Ley.
 
 ###### ARTICULO 298.
 
@@ -2075,7 +2513,7 @@ La aplicación de las multas serán sin perjuicio de que la autoridad sanitaria 
 
 Procederá la clausura temporal o definitiva, parcial o total, según la gravedad de la infracción y las características de la actividad o establecimiento, en los siguientes casos:
 
-I.- Cuando los establecimientos a que se refiere el artículo (sic) de esta Ley, carezcan de la correspondiente licencia sanitaria;
+I.- (DEROGADA, P.O. 19 DE NOVIEMBRE DE 1993)
 
 II.- Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
 
@@ -2141,21 +2579,27 @@ X.- Jerarquía; y
 
 XI.- Buena fe.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 305.
 
-La Secretaría de Salud y Seguridad Social y los municipios, con base en el resultado de la inspección, dictarán las medidas necesarias para corregir, en su caso, las irregularidades que se hubieren encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización.
+La Secretaría de Salud del Estado y los Municipios con base en el resultado de la verificación, dictarán las medidas necesarias para corregir, en su caso, las irregularidades que hubieren encontrado, notificándolas al interesado y dándole un plazo adecuado para su corrección, apercibiéndole que de no acatar las medidas recomendadas, se aplicarán las sanciones que establece la Ley.
 
 ###### ARTICULO 306.
 
 Las autoridades sanitarias competentes harán uso de las medidas legales necesarias, incluyendo auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 307.
 
-Turnada un acta de inspección, las autoridades sanitarias competentes citarán al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no menor de cinco días, ni mayor de treinta, comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes, en relación con los hechos asentados en el acta de inspección.
+Turnada un acta de verificación, la autoridad sanitaria competente citará al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no menor de cinco días ni mayor de quince, comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes, en relación con los hechos asentados en la propia acta.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 308.
 
-El cómputo de los plazos que señalen para el cumplimiento de disposiciones sanitarias, se hará entendiendo los días como naturales, con las excepciones que esta ley establezca.
+El cómputo de los plazos que señale la autoridad sanitaria competente para el cumplimiento de sus disposiciones, se hará entendiendo los días como naturales, con las excepciones que esta ley establezca.
 
 ###### ARTICULO 309.
 
@@ -2165,13 +2609,17 @@ Una vez oído al presunto infractor o a su representante legal y desahogadas las
 
 En caso de que el presunto infractor no compareciera dentro del plazo fijado por el Artículo 307 se procederá a dictar, en rebeldía, la resolución definitiva y a notificarla personalmente o por correo certificado con acuse de recibo.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
 ###### ARTICULO 311.
 
-En los casos de suspensión de trabajos o de servicios o de clausura temporal o definitiva, parcial o total, el personal comisionado para su ejecución procederá a levantar acta detallada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las inspecciones.
+En los casos de suspensión de trabajos o de servicios o de clausura temporal o definitiva, parcial o total, el personal comisionado para su ejecución procederá a levantar el acta circunstanciada de la diligencia, siguiendo para ello los requisitos y lineamientos generales establecidos para las verificaciones.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 312.
 
-Cuando del contenido de un acta de inspección se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de las sanción administrativa que proceda.
+Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de las sanciones administrativas que procedan.
 
 ###### ARTICULO 313.
 
@@ -2300,3 +2748,9 @@ LIC. JOSE HUERTA ABOYTES.
 El Secretario de Salud y Seguridad Social,
 
 DR. DAVID CADENA BARQUIN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE NOVIEMBRE DE 1993.
+
+Artículo Único.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
