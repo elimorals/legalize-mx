@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2002-07-09"
+last_updated: "2002-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,29 +18,37 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO QUE REFORMA AL DIVERSO POR EL QUE SE ESTABLECEN LAS REGLAS DE MARCADO DE PAIS DE ORIGEN PARA DETERMINAR CUANDO UNA MERCANCIA IMPORTADA A TERRITORIO NACIONAL SE PUEDE CONSIDERAR UNA MERCANCIA ESTADOUNIDENSE O CANADIENSE DE CONFORMIDAD CON EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+DECRETO POR EL QUE SE ESTABLECE LA TASA APLICABLE DURANTE 2003, DEL IMPUESTO GENERAL DE IMPORTACION, PARA LAS MERCANCIAS ORIGINARIAS DE AMERICA DEL NORTE
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 9 de julio de 2002.
+Decreto publicado en la Edición Vespertina de el Diario Oficial de la Federación, el martes 31 de diciembre de 2002.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-LUIS ERNESTO DERBEZ BAUTISTA, Secretario de Economía, con fundamento en los artículos 34 fracción I de la Ley Orgánica de la Administración Pública Federal; 5 fracciones III, IV, VI y X, 9, 10 y 25 de la Ley de Comercio Exterior; y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89 fracción I de la Constitución Política de los Estados Unidos Mexicanos con fundamento en los artículos 131 de la propia Constitución, 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 2, 4 fracción I y 14 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el Anexo 311 del Tratado de Libre Comercio de América del Norte (TLCAN) prevé la obligación de las Partes de establecer reglas de marcado para determinar cuándo un bien podrá ser considerado como “bien de una Parte”, para los efectos de los Anexos 300-B, 302.2 y 311 del Tratado, así como para cualquier otro propósito que las Partes acuerden;
+Que el Tratado de Libre Comercio de América del Norte (TLCAN) fue aprobado el 8 de diciembre de 1993 y promulgado el 20 de diciembre de 1993 respectivamente en el Diario Oficial de la Federación;
 
-Que el 7 de enero de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las reglas de marcado de país de origen para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense de conformidad con el Tratado de Libre Comercio de América del Norte, que fue modificado el 24 de septiembre de 1997 mediante publicación en el mismo órgano de información;
+Que en el TLCAN se establecieron calendarios para la eliminación de aranceles aduaneros para el comercio entre los Estados Unidos Mexicanos, los de Estados Unidos de América y Canadá, sobre mercancías originarias de América del Norte, con reglas de origen y mecanismos específicos para definir tales mercancías;
 
-Que la Convención Internacional por la que se establece el Sistema Armonizado de Designación y Codificación de Mercancías, de la cual es parte los Estados Unidos Mexicanos, establece una nomenclatura común para agilizar los trámites aduaneros y facilitar el intercambio comercial internacional;
+Que en el anexo 401 del TLCAN se establecen los requisitos específicos para que una mercancía califique como originaria de América del Norte de conformidad con el “Acuerdo por el que se adoptan las rectificaciones técnicas a los anexos 300-B, 401 y 403.1 del Tratado de Libre Comercio de América del Norte, para adecuarlos a las modificaciones al sistema armonizado de designación y codificación de mercancías de 2002, según acuerdo de la Comisión de Libre Comercio del propio Tratado” publicado el 21 de diciembre de 2001 en el Diario Oficial de la Federación;
 
-Que el Consejo de Cooperación Aduanera (Organización Mundial de Aduanas), siguiendo el procedimiento establecido en el artículo 16 de la citada Convención, realizó modificaciones al Sistema Armonizado, a fin de asegurar su aplicación uniforme;
+Que en el “Acuerdo por el que se Establecen Reglas de Marcado de País de Origen, para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense, de conformidad con el Tratado de Libre Comercio de América del Norte”, publicado en el Diario Oficial de la Federación el 7 de enero de 1994 y sus adecuaciones mediante diversos publicados en el Diario Oficial de la Federación el 24 de septiembre de 1997 y 9 de julio de 2002, contienen las reglas para determinar cuando un bien podrá ser considerado como “bien de una parte”;
 
-Que el 18 de enero de 2002 se publicó en el Diario Oficial de la Federación la Ley de los Impuestos Generales de Importación y de Exportación que deroga a partir de su entrada en vigor el 1 de abril de 2002, la Ley del Impuesto General de Importación y la Ley del Impuesto General de Exportación publicadas en el mismo órgano de información el 18 y 22 de diciembre de 1995, respectivamente, así como sus reformas y adiciones correspondientes, y
+Que se estableció el 1 de enero de 2003 como fecha máxima para la eliminación de los aranceles para la mayor parte del universo de mercancías que conforman el comercio trilateral de bienes originarios de América del Norte, salvo un número reducido de productos considerados altamente sensibles;
 
-Que el 11 de junio del presente año la Comisión de Comercio Exterior, de conformidad con lo previsto en la Ley de Comercio Exterior, aprobó la modificación del Acuerdo por el que se establecen reglas de marcado de país de origen para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense de conformidad con el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 7 de enero de 1994 y modificado el 24 de septiembre de 1997, con objeto de reflejar en este Acuerdo las enmiendas acordadas en el marco del Convenio Internacional del Sistema Armonizado de Designación y Codificación de Mercancías, previstas en la Ley de los Impuestos Generales de Importación y de Exportación vigente, he tenido a bien expedir el siguiente:
+Que resulta sumamente conveniente y necesario para operadores y autoridades aduaneras, conocer con claridad las condiciones que para tal efecto prevalecerán en México a partir del 1 de enero de 2003, incluyendo los mecanismos que regirán el comercio de bienes altamente sensibles, mismos que no estarán libres de arancel para dicho año;
 
-ACUERDO QUE REFORMA AL DIVERSO POR EL QUE SE ESTABLECEN LAS REGLAS DE MARCADO DE PAIS DE ORIGEN PARA DETERMINAR CUANDO UNA MERCANCIA IMPORTADA A TERRITORIO NACIONAL SE PUEDE CONSIDERAR UNA MERCANCIA ESTADOUNIDENSE O CANADIENSE DE CONFORMIDAD CON EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE
+Que es conveniente y necesario hacer del conocimiento del público en general, que las disposiciones del TLCAN establecen claramente que la desgravación descrita con anterioridad, no impide el establecimiento de nuevos aranceles para el comercio trilateral, cuando ello derive de una salvaguarda, de una compensación contra una salvaguarda legítima impuesta por otra de las partes o de una suspensión de beneficios contra una de las partes;
+
+Que resulta conveniente dar a conocer al público en general, que las disposiciones de la Ley de Comercio Exterior permiten el establecimiento de cuotas compensatorias contra prácticas desleales de comercio internacional, aún después del 1 de enero de 2003, ya sea para compensar daños causados por subsidios otorgados por otra de las partes, o para compensar daños causados por mercancías que ingresen por debajo de los precios de su mercado de origen;
+
+Que la desgravación pactada en el TLCAN, no exime de las restricciones ni libera del cumplimiento de regulaciones no arancelarias, así como tampoco de los requisitos previos de importación impuestos por la Secretaría de Economía, o cualquier otra dependencia en el ámbito de sus facultades; de los requisitos de Normas Oficiales Mexicanas (NOM´s), o para tramitar el despacho aduanero de mercancías, entre otras, siempre que estén de conformidad con los compromisos internacionales adquiridos por México, y
+
+Que las condiciones descritas anteriormente permitirán un comercio más libre y ordenado en Norteamérica a partir del 1 de enero de 2003, abriendo así un campo de retos y oportunidades que coadyuvarán al desarrollo de nuestro país, he tenido ha bien expedir el siguiente
+
+DECRETO
 
 ###### ARTICULO PRIMERO.
 
@@ -350,172 +358,90 @@ II.- Para propósitos de determinar el carácter esencial de un bien de conformi
 
 Para propósitos de la aplicación del artículo cuarto, sólo los materiales nacionales y extranjeros que estén clasificados en las disposiciones arancelarias a partir de las cuales no está permitido el cambio arancelario en la regla dispuesta para el bien en el Anexo de Reglas Específicas, se tomarán en consideración al determinar las partes o materiales que confieren el carácter esencial del bien.
 
-###### Artículo 1
+###### ARTÍCULO 1.
 
-Objetivos
+La importación de mercancías originarias de América del Norte, independientemente de su clasificación en la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (LIGIE), estará exenta del pago de arancel, salvo aquellas mercancías en que se indique lo contrario en el presente Decreto, mismas que estarán sujetas al arancel preferencial indicado.
 
-1. Las Partes se comprometen a aplicar sus respectivas leyes en materia de competencia de modo que se evite que los beneficios de la decisión sean disminuidos o anulados por actividades anticompetitivas.
+###### ARTÍCULO 2.
 
-2. Los objetivos de este mecanismo son:
+Para los efectos del presente Decreto, se entiende por mercancías originarias de América del Norte, independientemente de su lugar de procedencia, las que cumplan con las reglas de origen contenidas en el Capítulo IV denominado "Reglas de Origen" del Tratado de Libre Comercio de América del Norte (TLCAN), y con otros requisitos y disposiciones aplicables de dicho tratado, incluyendo aquéllas que califiquen para ser marcadas como mercancías de los Estados Unidos Mexicanos, de acuerdo con las reglas de marcado previstas en el “Acuerdo por el que se Establecen Reglas de Marcado de País de Origen, para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense, de conformidad con el Tratado de Libre Comercio de América del Norte”, publicado en el Diario Oficial de la Federación el 7 de enero de 1994 y sus reformas posteriores.
 
-(a) promover la cooperación y coordinación entre las Partes en relación con la aplicación de sus leyes de competencia en sus respectivos territorios y proveerse asistencia mutua en cualquier campo de la competencia que consideren necesario;
+###### ARTÍCULO 3.
 
-(b) eliminar actividades anticompetitivas por medio de la aplicación de la legislación apropiada, con el fin de evitar efectos negativos sobre el comercio y el desarrollo económico, así como los posibles efectos adversos que esas restricciones puedan tener para los intereses de la otra Parte, y
+Estarán exentas del pago del arancel las mercancías no originarias de América del Norte, comprendidas en los capítulos 51 al 63 de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (LIGIE), o la subpartida 9404.90, que cumplan con las disposiciones del apéndice 6.b del anexo 300-B del TLCAN, siempre que el importador adjunte al pedimento de importación, para textiles y prendas de vestir procedentes de Estados Unidos de América y Canadá, un certificado de elegibilidad expedido por la Secretaría de Economía, o un certificado de elegibilidad expedido por el Gobierno de Canadá, respectivamente.
 
-(c) promover la cooperación a fin de aclarar cualquier diferencia en la aplicación de sus respectivas leyes de competencia.
+###### ARTÍCULO 4.
 
-3. Con el fin de prevenir distorsiones o restricciones a la competencia, que puedan afectar el comercio entre México y la Comunidad, las Partes prestarán particular atención a los siguientes aspectos al implementar este mecanismo:
+La importación de mercancías comprendidas en las fracciones arancelarias listadas en este artículo que provengan de Canadá o que no sean “productos calificados” de Estados Unidos de América, conforme a lo dispuesto en el anexo 703.2 “sección A” del Capítulo VII del TLCAN, estará sujeta a la tasa prevista en el artículo 1o. de la Ley de los Impuestos Generales de Importación y de Exportación, sin reducción alguna:
 
-(a) para la Comunidad: los acuerdos entre empresas, las decisiones para formar una asociación entre empresas y las prácticas concertadas entre empresas, el abuso de una posición dominante y las concentraciones, y
+(VEASE TABLA ANEXA)
 
-(b) para México: las prácticas monopólicas absolutas o relativas y las concentraciones.
+###### ARTÍCULO 5.
 
-###### Artículo 2
+La importación de mercancías originarias de América del Norte, comprendidas en las fracciones arancelarias que se señalan en este artículo, se sujetará al arancel preferencial indicado a continuación para cada una de ellas, del 1 de enero al 31 de diciembre de cada año indicado, y estará exenta de arancel a partir del 1 de enero de 2008:
 
-Definiciones
+(VEASE TABLA ANEXA)
 
-Para efectos de este anexo:
+Lo dispuesto en este artículo sólo será aplicable a "productos calificados" de los Estados Unidos de América, conforme a lo dispuesto en el Anexo 703.2 "Sección A" del capítulo VII del Tratado de Libre Comercio de América del Norte.
 
-(a) leyes de competencia incluye: (i) respecto de la Comunidad, los artículos 81, 82, 85 y 86 del Tratado Constitutivo de la Comunidad Europea, el Reglamento del Consejo (CEE) No. 4064/89 sobre el control de las operaciones de concentración entre empresas, los artículos 65 y 66 del Tratado Constitutivo de la Comunidad Europea del Carbón y del Acero (CECA) y los reglamentos para su aplicación, incluida la Decisión de Alta Autoridad No. 24/54; (ii) respecto de México, la Ley Federal de Competencia Económica del 24 de diciembre de 1992, el Reglamento Interior de la Comisión Federal de Competencia del 25 de agosto de 1998 y el Reglamento de la Ley Federal de Competencia Económica del 4 de marzo de 1998; y (iii) cualquier reforma que las leyes antes mencionadas puedan sufrir; y (iv) puede también incluir legislación adicional, en la medida que pueda tener efectos a la competencia en los términos de este mecanismo;
+Del 1 de enero de 2003 y hasta el 31 de diciembre de 2007, la importación de mercancías comprendidas en las fracciones arancelarias que se señalan en este artículo, estará exenta de arancel, siempre que se adjunte al pedimento de importación un certificado de cupo expedido por la Secretaría de Economía.
 
-(b) autoridad de competencia significa: (i) para la Comunidad Europea, la Comisión de las Comunidades Europeas; y (ii) para México, la Comisión Federal de Competencia.
+###### ARTÍCULO 6.
 
-(c) actividades de aplicación de la ley significa: cualquier acción a aplicar las leyes de competencia mediante investigaciones o procedimientos efectuados por las autoridades de competencia de una Parte, que pueda resultar en sanciones o medidas correctivas, y
+La importación de mercancías originarias de América del Norte, comprendidas en las fracciones arancelarias que se señalan en este artículo, se sujetará al arancel preferencial indicado a continuación para cada una de ellas, del 1 de enero al 31 de diciembre de cada año indicado, y estará exenta de arancel a partir del 1 de enero de 2008:
 
-(d) actividades anticompetitivas y conductas o prácticas que restringen la competencia significa: cualquier conducta, operación o acto, según lo definan las leyes de competencia de una Parte, sujetos a sanciones y medidas correctivas.
+(VEASE TABLA ANEXA)
 
-###### Artículo 3
+Del 1 de enero de 2003 y hasta el 31 de diciembre de 2007, la importación de mercancías comprendidas en las fracciones arancelarias que se señalan en este artículo, estará exenta de arancel, siempre que se adjunte al pedimento de importación un certificado de cupo expedido por la Secretaría de Economía.
 
-Notificación
+###### ARTÍCULO 7.
 
-1. Cada autoridad de competencia notificará a la autoridad de competencia de la otra Parte una actividad de aplicación de la ley si:
+La importación de mercancías originarias de América del Norte, comprendidas en las fracciones arancelarias que se señalan en este artículo, se sujetará al arancel preferencial indicado a continuación para cada una de ellas, del 1 de enero al 31 de diciembre de cada año indicado, y estará exenta de arancel a partir del 1 de enero de 2008:
 
-(a) es pertinente para las actividades de aplicación de la ley de la otra Parte;
+(VEASE TABLA ANEXA)
 
-(b) puede afectar intereses importantes de la otra Parte;
+###### ARTÍCULO 8.
 
-(c) se refiere a restricciones a la competencia que puedan afectar el territorio de la otra Parte, y
+La importación de las mercancías originarias de América del Norte comprendidas en las fracciones arancelarias que se señalan en este artículo, que califiquen para ser marcadas como mercancías de Estados Unidos de América, o que no califiquen para ser marcadas como mercancías de Canadá o de México, se sujetará al arancel preferencial indicado a continuación para cada una de ellas, del 1 de enero al 31 de diciembre de cada año indicado, y estará exenta de arancel a partir del 1 de enero de 2008. Los aranceles preferenciales a que se refiere este artículo se expresan en términos de centavos de dólar de Estados Unidos de América por litro importado.
 
-(d) puede llevar a adoptar decisiones que condicionen o prohíban acciones en el territorio de la otra Parte.
+(VEASE TABLA ANEXA)
 
-2. En la medida de lo posible, siempre que no sea contrario a las leyes de competencia de las Partes y no afecte adversamente a una investigación que se esté llevando a cabo, la notificación se realizará durante la fase inicial del procedimiento, a fin de permitir que la autoridad de competencia notificada manifieste su opinión. Las opiniones recibidas podrán ser tomadas en consideración por la autoridad de competencia de la otra Parte en su toma de decisiones.
+Del 1 de enero de 2003 y hasta el 31 de diciembre de 2005, la importación de mercancías comprendidas en la fracción arancelaria 2009.11.01 que se señala en este artículo, se sujetará a un arancel menor de 10% ad-valorem o 4.62 centavos de dólar de los Estados Unidos de América por litro, siempre que se adjunte al pedimento de importación un certificado de cupo expedido por la Secretaría de Economía.
 
-3. La notificación prevista en el párrafo 1 será lo suficientemente detallada, para permitir una evaluación a la luz de los intereses de la otra Parte. Las notificaciones incluirán, entre otra, la información siguiente:
+###### ARTÍCULO 9.
 
-(a) una descripción de los efectos restrictivos de la transacción en la competencia y el fundamento legal aplicable;
+Para efectos de diferenciar las mercancías que califiquen para ser marcadas como mercancías de los Estados Unidos de América o mercancías de Canadá, tanto en lo referente a los certificados de cupo emitidos por la Secretaría de Economía, como para las importaciones de mercancías al amparo de los artículos 6 y 8 de este Decreto se estará a lo dispuesto en el “Acuerdo por el que se Establecen Reglas de Marcado de País de Origen para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense o canadiense, de conformidad con el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 7 de enero de 1994 y sus respectivas modificaciones.
 
-(b) el mercado relevante del producto o servicio y su ámbito geográfico, las características del sector económico implicado y los datos de los agentes económicos involucrados en la transacción, y
+###### ARTÍCULO 10.
 
-(c) los plazos estimados de resolución, en los casos en que el procedimiento haya sido iniciado y, en la medida de lo posible, una indicación sobre el posible resultado así como las medidas que puedan ser adoptadas o contempladas.
+La importación de mercancías originarias de América del Norte comprendidas en las fracciones arancelarias identificadas en este artículo, estará sujeta a la tasa establecida en el artículo 1o. de la Ley de los Impuestos Generales de Importación y de Exportación, vigente para dichas mercancías al momento de la importación, multiplicado por un factor de 0.80 y estará libre de arancel a partir del 1 de enero de 2008.
 
-4. Considerando lo dispuesto en el párrafo 1, cada autoridad de competencia notificará a la autoridad de competencia de la otra Parte, tan pronto como sea posible, la existencia de medidas distintas a las actividades de aplicación de sus leyes, que puedan afectar los intereses importantes de la otra Parte.
+(VEASE TABLA ANEXA)
 
-En particular, lo harán en los casos siguientes:
+Lo dispuesto en este artículo será aplicable siempre que se trate de "productos calificados" de los Estados Unidos de América, conforme al Anexo 703.2, Sección A, del capítulo VII del Tratado de Libre Comercio de América del Norte, y que el importador cuente con una declaración escrita del exportador que certifique que las mercancías a importar no se han beneficiado del programa "Sugar Reexport Program" de los Estados Unidos de América. En caso de que no se cuente con la declaración correspondiente, la importación estará sujeta a la tasa establecida en el artículo 1o. de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (LIGIE), vigente al momento de su importación, sin reducción alguna.
 
-(a) procedimientos administrativos o judiciales, y
+###### ARTÍCULO 11.
 
-(b) medidas adoptadas por otras dependencias del gobierno, incluidas órganos reguladores existentes o futuros, que puedan tener un impacto en la competencia en sectores sujetos a una regulación específica.
+De conformidad con el Anexo 703.2 sección A, del capítulo VII del Tratado de Libre Comercio de América del Norte, la importación de mercancías originarias de América del Norte, comprendidas en las fracciones arancelarias identificadas en este artículo, estará sujeta a la tasa prevista en el artículo primero de este Decreto, únicamente cuando el importador cuente con una declaración escrita del exportador que certifique que las mercancías a importar no se han beneficiado del Programa "Sugar Reexport Program" de los Estados Unidos de América. En caso de que no se cuente con la declaración correspondiente, la importación estará sujeta a la tasa establecida en el artículo 1o. de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, vigente al momento de su importación, sin reducción alguna.
 
-###### Artículo 4
+(VEASE TABLA ANEXA)
 
-Intercambio de información
+###### ARTÍCULO 12.
 
-1. Con miras a facilitar la aplicación efectiva de sus leyes de competencia y promover un mejor entendimiento de sus respectivos marcos jurídicos, las autoridades de competencia intercambiarán la información siguiente:
+Lo dispuesto en el presente Decreto no libera del pago de arancel alguno establecido mediante Decreto del Ejecutivo Federal, de conformidad con los Capítulos VIII (Salvaguardas) y XX (Solución de Controversias) del TLCAN.
 
-(a) en la medida que sea factible, textos de doctrina jurídica, jurisprudencia o estudios públicos de mercado o, a falta de tales documentos, datos o resúmenes no confidenciales;
+###### ARTÍCULO 13.
 
-(b) información relacionada con la aplicación de la legislación de competencia, siempre que no afecte adversamente a la persona que suministre tal información y con el único propósito de ayudar a resolver el procedimiento, y
+Lo dispuesto en el presente ordenamiento no libera del pago de Cuotas Compensatorias por prácticas desleales de comercio internacional, establecidas conforme a la Ley de Comercio Exterior.
 
-(c) información sobre cualquier actividad anticompetitiva de que se tenga conocimiento, así como sobre cualesquier reformas a sus respectivos sistemas jurídicos con el propósito de mejorar la aplicación de sus leyes de competencia.
+###### ARTÍCULO 14.
 
-2. Si las circunstancias lo requieren, las autoridades de competencia se ayudarán para recopilar otro tipo de información en sus respetivos territorios.
+Las disposiciones del presente Decreto no liberan del cumplimiento de las restricciones y regulaciones no arancelarias en los términos de la Ley de Comercio Exterior, la Ley Aduanera y demás disposiciones aplicables.
 
-3. Los representantes de las autoridades de competencia efectuarán reuniones con el fin de promover el conocimiento de sus respectivas leyes y políticas de competencia, y para evaluar los resultados del mecanismo de cooperación. Podrán reunirse informalmente, así como en reuniones institucionales en el contexto multilateral, cuando las circunstancias lo permitan.
+## TRANSITORIOS
 
-###### Artículo 5
+PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 2003.
 
-Coordinación de las actividades de aplicación de la ley
+SEGUNDO.- De conformidad con los derechos y obligaciones internacionales de México, a partir del 1 de enero de 2003, la importación de mercancías originarias de Estados Unidos de América libres de arancel comprendidas en las fracciones arancelarias 1702.40.99, 1702.50.01, 1702.60.01, 1702.60.02 y 1702.60.99, estarán sujetas a un permiso de importación que se otorgará en los términos y condiciones que establezca la Secretaría de Economía mediante acuerdo publicado en el Diario Oficial de la Federación, según las disposiciones legales aplicables.
 
-1. Una autoridad de competencia podrá notificar su disposición para coordinar actividades de aplicación de la ley relativas a un caso específico. Esta coordinación no impedirá que las Partes tomen decisiones autónomas.
-
-2. Al determinar el alcance de la coordinación, las Partes considerarán:
-
-(a) los resultados efectivos que la coordinación produciría;
-
-(b) la información adicional a ser obtenida;
-
-(c) la reducción en los costos para las autoridades de competencia y los agentes involucrados, y
-
-(d) los términos aplicables de acuerdo con sus respectivas legislaciones.
-
-###### Artículo 6
-
-Consultas cuando intereses importantes de una de las Partes se vean afectados adversamente en el territorio de la otra Parte
-
-1. Cuando una autoridad de competencia considere que una investigación o un procedimiento que la otra autoridad de competencia de la otra Parte lleve a cabo pueda afectar sus intereses importantes enviará su opinión sobre el asunto a la otra autoridad de competencia o le solicitará consultas. Sin perjuicio de continuar con cualquier acción conforme a su ley de competencia y a su total autonomía en cuanto a la resolución final, la autoridad de competencia receptora de la solicitud mencionada debería considerar de manera plena y favorable las opiniones de la autoridad de competencia solicitante y, en particular, a cualquier sugerencia sobre un medio alternativo para cumplir con sus necesidades o lograr los objetivos de la investigación o procedimientos en materia de competencia.
-
-2. Cuando una autoridad de competencia de una Parte considere que una o más empresas situadas en la otra Parte están o han estado incurriendo en prácticas anticompetitivas, cualquiera que sea su origen, que puedan afectar de manera sustancial y adversa a los intereses de la primera, podrá solicitar consultas a la otra autoridad de competencia, reconociendo que la celebración de esas consultas es sin perjuicio de cualquier acción que pueda tomar conforme a su ley de competencia y de la total libertad de la autoridad de competencia respectiva para tomar la decisión final. La autoridad de competencia receptora debería considerar plena y favorablemente las opiniones y el sustento fáctico presentados por la autoridad de competencia solicitante y, en particular, la naturaleza de las prácticas anticompetitivas en cuestión, las empresas involucradas y los supuestos efectos perjudiciales sobre los intereses de la autoridad investigadora solicitante.
-
-###### Artículo 7
-
-Prevención de conflictos
-
-1. Cuando sea posible y de conformidad con su legislación, cada Parte tomará en consideración los intereses importantes de la otra Parte en el curso de actividades de aplicación de la ley.
-
-2. Cuando resulten efectos adversos para una Parte, aun cuando se haya respetado las consideraciones referidas en el párrafo anterior, las autoridades de competencia buscarán una solución mutuamente aceptable. Para estos efectos podrá considerarse:
-
-(a) la importancia de la medida y los efectos que tenga sobre los intereses de una Parte, comparándolos con los beneficios que la otra Parte pueda obtener;
-
-(b) la presencia o ausencia de la intención de afectar a los consumidores, proveedores o competidores en las acciones de los agentes económicos implicados;
-
-(c) el grado de incompatibilidad entre la legislación de una Parte y las medidas que la otra Parte vaya a adoptar;
-
-(d) si los agentes económicos implicados serán sometidos a requerimientos incompatibles por ambas Partes;
-
-(e) el inicio del procedimiento o la imposición de sanciones o medidas correctivas;
-
-(f) la ubicación de los activos de los agentes económicos implicados, y
-
-(g) la importancia de la sanción a ser impuesta en el territorio de la otra Parte.
-
-###### Artículo 8
-
-Confidencialidad
-
-El intercambio de información estará sujeto a las normas de confidencialidad aplicables en cada Parte. No podrá ser suministrada sin el expreso consentimiento de quien la suministra, la información confidencial cuya divulgación esté expresamente prohibida o que, de divulgarse, pudiere afectar adversamente a las Partes. Cada autoridad de competencia mantendrá la confidencialidad de cualquier información que la otra autoridad de competencia le suministre en confidencia conforme a este mecanismo, y se opondrá a cualquier solicitud para revelar esa información, de una tercera parte no autorizada por la autoridad de competencia que la suministró.
-
-###### Artículo 9
-
-Cooperación técnica
-
-1. Las Partes se prestarán asistencia técnica mutua, a fin de aprovechar sus experiencias y reforzar la implementación de sus políticas y leyes de competencia.
-
-2. La cooperación incluirá las siguientes actividades:
-
-(a) capacitación para funcionarios de las autoridades de competencia de ambas Partes, a fin de permitirles ampliar su experiencia práctica;
-
-(b) seminarios, en particular para funcionarios del servicio civil.
-
-3. Con el fin de promover su desarrollo, las Partes podrán realizar estudios conjuntos sobre competencia o políticas y leyes de competencia.
-
-4. Las Partes reconocen que los avances en los sistemas de comunicación y de computación son pertinentes a las actividades que desean desarrollar y que deberían ser utilizados para fomentar la comunicación y facilitar el acceso a la información sobre políticas de competencia, tanto como sea posible. A tal fin, buscarán:
-
-(a) ampliar sus páginas en internet, para suministrar información sobre los desarrollos de sus actividades;
-
-(b) promover la difusión de temas relacionados con estudios sobre competencia a través de publicaciones como el Boletín Latinoamericano de Competencia, la Competition Policy Newsletter de la Dirección General de Competencia de la Comunidad Europea, los informes anuales y la Gaceta de Competencia Económica publicados por la Comisión Federal de Competencia de México, y
-
-(c) desarrollar un archivo electrónico sobre precedentes, relacionados con los casos investigados, que permita la identificación de casos particulares, la naturaleza de la práctica o conducta analizada, su marco jurídico y los resultados y fechas de resolución.
-
-###### Artículo 10
-
-Enmiendas
-
-El Comité Conjunto podrá modificar este anexo.
-
-TRATADO DE LIBRE COMERCIO ENTRE LOS ESTADOS UNIDOS MEXICANOS Y EL ESTADO DE ISRAEL
-
-## TRANSITORIO
-
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-México, D.F., a 24 de junio de 2002.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario de Economía, Luis Ernesto Derbez Bautista.- Rúbrica.
