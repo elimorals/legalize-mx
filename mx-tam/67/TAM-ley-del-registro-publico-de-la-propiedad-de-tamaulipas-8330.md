@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-de-tamaulipas-8330"
 country: "mx"
 rank: "ley"
 publication_date: "1927-02-02"
-last_updated: "1928-03-14"
+last_updated: "1935-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1935.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, los días 2, 5 y 9 de febrero de 1927.
 
@@ -39,7 +39,7 @@ Disposiciones Generales.
 
 ###### Art. 1o.
 
-Se establece en la Capital del Estado una Oficina especial con el nombre de Registro Público de la Propiedad.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 2o.
 
@@ -53,7 +53,7 @@ Los documentos, actas y contratos que conforme a esta Ley deben registrarse, no 
 
 ###### Art. 4o.
 
-En cada Sección se llevarán cinco grupos de libros que servirán para los registros relativos a bienes ubicados respectivamente en los Municipios correspondientes a cada sección judicial establecida por la Ley Orgánica de Tribunales.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 5o.
 
@@ -101,11 +101,13 @@ El Índice del Libro de embargos expresará en la primera columna el número de 
 
 En cada Sección se llevará además un cuaderno de "documentos generales", en él coleccionarán originales los oficios que se reciben del Gobierno y autoridades judiciales, los que sirven de comprobación a algún hecho o que sean resoluciones superiores sobre puntos dudosos o que tengan relación con los documentos que se inscriban en los libros, las solicitudes de certificaciones de particulares, planos, croquis, etc.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 14.
 
-Cada documento llevará su número de orden y la firma del Jefe de la Sección; con la nota de "cumplimentado" al pié del acuerdo de la Dirección que le haya dado curso, cuando se trata de órdenes superiores, y se hará referencia del libro y del número del documento, de las notas, inscripciones o asuntos que se mencionen.
+Cada documento llevará su número de orden y firma del Director, con la nota de "cumplimentado", haciéndose referencia al libro, número de documento, inscripciones o asuntos que se mencionen.
 
-Cuando se hayan llenado doscientos documentos se empastarán para ir formando libros que llevarán esta portada: "Libro número tantos de documentos Generales del Registro Público de la Propiedad, Sección tal que comprende de tal fecha a tal fecha, el número de tantos documentos con tantas fojas;" en cada libro se comenzará nueva numeración.
+Cuando se hayan llenado doscientos documentos se empastarán para ir formando libros que llevarán esta portada: "Libro número “tantos” de documentos Generales del Registro Público de la Propiedad, Sección “tal”, que comprende de tal fecha a tal fecha, conteniendo tantos documentos, con tantas fojas." En cada libro se comenzará nueva numeración.
 
 ###### Art. 15.
 
@@ -121,109 +123,91 @@ La oficina del Registro deberá permanecer abierta precisamente seis horas en lo
 
 ###### Art. 18.
 
-La oficina del Registro Público de la Propiedad tendrá la planta de servicio siguiente: Un Director Jefe de la Oficina, cinco jefes encargados de cada una de las Secciones del Registro Público de la Propiedad. El número de oficinas y escribientes que señalen los presupuestos relativos. Las faltas del Director serán suplidas por el Sub-Director que se nombre en cada caso y que tendrá las mismas facultades que el Director.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 19.
 
-Para ser Director del Registro Público son requisitos indispensables: I.- Ser abogado con título oficial con cinco años de práctica por lo menos, ya en el ejercicio de la profesión o en la judicatura. II.- Ser de reconocida providad y de buenas costumbres; y III.- No haber sido sentenciado en causa criminal.
-
-Para ser Sub-Director o Jefe de Sección del Registro se requieren los mismos requisitos que para ser Director. En este caso el título de abogado puede ser dispensado por el Ejecutivo.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 20.
 
-Para poder desempeñar el puesto de Oficial auxiliar o escribiente se necesita además de los requisitos de las fracciones II y III del artículo 19, acreditar por medio de un exámen práctico ante el Director del Registro el tener conocimientos generales sobre los títulos notariales y sobre las inscripciones en los libros del Registro.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 21.
 
 Son obligaciones del Director del Registro:
 
-I.- Vigilar por el exacto cumplimiento de las prescripciones del Código Civil y las de esta Ley.
+I.- Vigilar por el exacto cumplimiento de las prescripciones del Código Civil y de las de esta Ley.
 
-II.- Resolver las dudas que ocurran a los Jefes de Sección.
+II.- Resolver las dudas que los interesados le consulten respecto del Registro, haciéndoles saber los requisitos que falten a los documentos que presenten para su inscripción y el modo de cumplirlos.
 
-III.- Resolver las que los interesados le consulten respecto del Registro y hacerles saber los requisitos que falten a los documentos que presenten para su inscripción y el modo de cumplirlos.
+III.- Revisar los títulos presentados para el efecto de lo mandado en la fracción anterior.
 
-IV.- Revisar los títulos presentados para el efecto de lo mandado en la fracción anterior y pasar a las diversas secciones los que encontrare sin observación.
+IV.- Autorizar con su firma todos los cerificados que se pidan de datos o inscripciones que obren en los libros del Registro.
 
-V.- Encargarse personalmente del despacho de cualquiera Sección que quede vacante entre tanto se provee.
+V.- Autorizar con su firma todas las inscripciones que verifiquen, las notas que pongan al margen de ellas y las que se hagan al calce de los títulos registrados.
 
-VI.- Autorizar con su firma todos los certificados que se pidan de datos o inscripciones que obren en los libros del Registro rubricados previamente por el Jefe de la Sección respectiva.
+VI.- Fijar el monto de los derechos que deba causar cada documento que se presente para cada inscripción.
 
-VII.- Autorizar con media firma las anotaciones puestas al calce de los documentos registrados y que hayan sido firmados por el Jefe que corresponda.
+VII.- Autorizar la correspondencia que se relacione con los asuntos oficiales de la Oficina.
 
-VIII.- Hacer la cuotización (sic) de los derechos que cada documento que se presente debe causar.
+VIII.- Remitir mensualmente al Gobierno del Estado una noticia de todas las operaciones que se lleven a cabo.
 
-IX.- Autorizar la correspondencia que mantenga la oficina sobre asuntos oficiales de la misma.
+IX.- Rendir por escrito al Gobierno del Estado todos los informes que éste le pida, en relación con la Oficina y conducta de los empleados.
 
-X.- Remitir mensualmente al Gobierno del Estado una noticia de todas las operaciones registradas.
+X.- Cuidar de que los títulos que deben registrarse se despachen por riguroso turno y en el plazo que esta Ley señala.
 
-XI.- Rendir por escrito al Gobierno del Estado todos los informes que éste le pida sobre el estado de la oficina o sobre la conducta de los empleados.
+XI.- Autorizar las boletas de pago de los derechos del registro.
 
-XII.- Practicar cada mes una visita a cada una de las Secciones, haciendo constar en acta formal el estado en que las encuentre, del cual acompañará copia al estado que menciona la fracción X.
+XII.- Asistir con puntualidad y estar al frente del despacho en las horas que se fijen en el reglamento económico de la Oficina.
 
-XIII.- Cuidar de que los títulos que deben registrarse se despachen por los respectivos Jefes de la Sección por riguroso turno y en el plazo que esta Ley señala.
+XIII.- Cotejar y rubricar los certificados de constancias que se soliciten.
 
-XIV.- Autorizar las inscripciones que por causa de enfermedad u otro motivo no pueden hacerse por el Jefe de la Sección.
+XIV.- Vigilar la conducta de sus subalternos y exigir de ellos puntualidad y eficacia de los servicios que se les encomienden.
 
-XV.- Autorizar las boletas de pago de los derechos del Registro.
+XV.- Verificar las inscripciones de los títulos con riguroso orden de presentación y obligación de responder a los interesados de los daños y perjuicios que por su culpa u omisión se originares.
+
+XVI.- Hacer dichas inscripciones dentro de los tres días siguientes al pago de los derechos respectivos, sin contar los días feriados, salvo el caso de que, por estarse haciendo otras, no haya tiempo de hacer aquellas. En tal caso se hará constar que el título de que se trate se inscribió después del término reglamentario por estarse haciendo otras inscripciones, indicando el número, libro y sección correspondiente. Esa constancia será autorizada por el Director y entregada al interesado al devolverle el título correspondiente.
 
 ###### Art. 22.
 
-Son facultades del Director del Registro:
-
-I.- Suspender provisionalmente a los Jefes de Sección, oficiales y escribientes en caso de faltas graves, levantando sobre ellas una información sumaria que remitirá al Gobierno del Estado para que éste determine lo conveniente; y,
-
-II.- Hacer la designación de las secciones que deben estar a cargo de los jefes nombrados por la superioridad, de los oficiales y escribientes que deben auxiliarlos en sus labores.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 23.
 
-Son obligaciones de los Jefes de Sección:
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
-I.- Asistir con puntualidad y estar al frente del despacho en las horas que se fijen en el reglamento económico de la oficina.
-
-II.- Consultar con el Director todas las dudas que les ocurran.
-
-III.- Verificar las inscripciones de los títulos con riguroso orden de presentación de las boletas de pago, con obligación de responder de los daños o perjuicios que por su culpa u omisión se originen a los interesados.
-
-IV.- Hacer dichas inscripciones dentro de los tres días siguientes al pago de los derechos respectivos; sin contar los días feriados, salvo el caso de que por estar haciendo otro no haya tiempo de ejecutar aquellos, en este caso al poner la nota de que hablará la fracción siguiente, extenderá una constancia expresando que el título de que se trata se inscribió después de el término reglamentario por estarse haciendo otras inscripciones indicando el número, libro y sección correspondiente. Esta constancia la autorizará con su firma que se entregará al interesado al devolverle el documento respectivo.
-
-V.- Autorizar con su firma todas las inscripciones que verifiquen y las notas que pongan al margen de ellas así como las que se inscriban al calce de los títulos registrados.
-
-VI.- Cotejar y rubricar los certificados de los datos o instrucciones que se soliciten y que deben ser autorizados por el Director.
-
-VII.- Formar a fin de cada mes un estado completo de todos los actos registrados en su respectiva sección y entregarlos al Director para los efectos que expresa la fracción X del artículo 21.
-
-VIII- Suministrar al Director siempre que lo pida todos los datos que solicitare.
-
-IX.- Vigilar la conducta de sus subalternos y exigir de ellos puntualidad y eficacia en las labores que se les encomienden.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 24.
 
-Son obligaciones de los oficiales auxiliares y de los escribientes:
+Son obligaciones de los escribientes:
 
-I.- El estar puntualmente y permanecer en sus labores durante las horas señaladas en el reglamente interior.
+I.- Asistir puntualmente y permanecer en sus labores durante las horas señaladas en el reglamente interior.
 
-II.- Desempeñar todos los trabajos que le sean encomendados por el Jefe de la Sección y por el Director de la oficina.
+II.- Desempeñar todos los trabajos que les sean encomendados por el Director de la Oficina.
 
-III.- Abstenerse en lo absoluto de tratar con el público sobre negocios de la oficina remitiendo a los interesados con el Jefe de la Sección o al Director en su caso.
+III.- Consultar con el mismo, de quien dependen, la mejor manera de cumplir las funciones que se les encomendaren.
 
-IV.- Contar directamente con la anuencia del Director para su ausencia de carácter urgente y en general depender de él en todos los servicios generales de la oficina.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 25.
 
-Además de la responsabilidad señalada en la fracción III del artículo 23 los Jefes de Sección incurrirán así mismo en ella:
+Además de la responsabilidad señalada en la fracción XV del artículo 21, los Encargados del Registro incurrirán en ella:
 
-I.- Por no inscribir en el término de tres días los títulos que se presenten y cuyos derechos hayan sido pagados o por no ponerles en su caso la nota de que habla la fracción IV del artículo 23.
+I.- Por no inscribir, dentro del término de tres días, los títulos que se presenten y cuyos derechos hayan sido pagados o por no ponerles, en su caso, la nota de que habla la fracción XVI del mismo Art. 21.
 
 II.- Por inexactitud o error sustancial cometido en las inscripciones, cancelaciones o anotaciones.
 
-III.- Por no cancelar sin motivo fundado alguna inscripción a solicitud de los interesados.
+III.- Por no cancelar sin motivo fundado alguna inscripción, a solicitud de los interesados.
 
-IV.- Por cancelar una inscripción o anotación sin el título correspondiente y sin los requisitos legales.
+IV.- Por cancelar una inscripción o anotación, sin el título correspondiente, o sin los requisitos legales.
 
-V.- Por error, inexactitud omisión o retardo en los informes para la certificación de liberación o gravamen de los inmuebles o derechos reales que se soliciten al Director.
+V.- Por error, inexactitud, omisión o retardo en los informes para la certificación de liberación o gravamen de los inmuebles o derechos reales que se soliciten del Director.
 
-VI.- En general por faltar al cumplimiento de las obligaciones que les impone la presente Ley, siempre que con su omisión resultare perjuicio alguno a tercero.
+VI.- Por faltar al cumplimiento de las obligaciones que les impone esta Ley, siempre que con su omisión resultare perjuicio a los directamente interesados o a tercera persona.
 
 ###### Art. 26.
 
@@ -231,15 +215,19 @@ La responsabilidad de que habla el artículo anterior se reducirá a la indemniz
 
 ###### Art. 27.
 
-El Director del registro y los Jefes de Sección serán nombrados por el Ejecutivo del Estado y los auxiliares y escribientes por el Director dando aviso al Gobierno.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 28.
 
-La infracción de las disposiciones de esta Ley será castigada por el Ejecutivo del Estado con destitución de empleo y multa de diez a cien pesos, sin perjuicio de lo que habla el artículo 26, según la gravedad de la falta y previa acusación formal e informe que el interesado debe rendir al Gobierno dentro de diez días de recibir el oficio en que se transcribe la acusación, quedando sujeto además a las responsabilidades en que haya incurrido conforme al derecho común si la infracción llegare a constituir delito, pero sin que la calificación del Gobierno pueda servir de base a la autoridad judicial ni visiversa (sic) para el efecto de imponer pena al acusado.
+La infracción de las disposiciones de esta Ley será castigada por el Ejecutivo del Estado con multa de diez a quinientos pesos, sin perjuicio de lo prevenido por el artículo 26, según la gravedad de la falta y previa acusación formal e informe que rinda el acusado dentro de diez días que se contarán a partir de la fecha en que reciba el oficio en que se transcribe la acusación.
+
+Si a juicio del Ejecutivo se hubiere cometido un delito se turnará el expediente relativo al Procurador General de Justicia para que proceda con arreglo a sus facultades; pero si resultare en definitiva que no hay delito que perseguir, volverá el expediente al Gobierno del Estado para que se resuelva si ha o no lugar a imponer la pena gubernativa a que este artículo se refiere.
 
 ###### Art. 29.
 
-Cuando falte acusación formal si se trata del Director o la sumaria que éste debe instruir si se trata de los oficiales, el Ejecutivo sólo podrá castigar las faltas por medio de oficio en que manifieste el desagrado que le causa la conducta del infractor de esta Ley.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ### CAPITULO II.
 
@@ -253,29 +241,35 @@ Ninguna inscripción podrá hacerse si no consta que el que la pretende es actua
 
 Se reputa dueño de los bienes el que figura como tal en el título o en la inscripción anterior. Tiene derecho a exigir el registro en favor de una persona el que trasmite el derecho, el que lo adquiere, aquel en cuyo favor se reserva, y el representante legítimo de cualquiera de ellos, como el tutor por el pupilo, el marido por la mujer, el que ejerce la patria potestad por el que está sometido a ella y el administrador de bienes de menores incapacitados o ausentes por estos: los síndicos por los Ayuntamientos, los directores por los establecimientos públicos comprendiéndose en este número las fincas destinadas a los cultos, el Ejecutivo por el Estado.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 32.
 
-Solo podrán inscribirse los títulos que constan de escritura pública, las sentencias y providencia judicial certificada legalmente, con excepción de lo dispuesto en la fracción IX del artículo 99 de esta Ley.
+Solo podrán inscribirse los títulos que constan en escritura pública, y las sentencias y providencia judiciales legalmente certificadas, con excepción de lo dispuesto en los artículos 61, 82, 83 y fracción 9 (sic) y parte final del 99 de esta misma Ley.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 33.
 
-Se entenderá por título, para todos los efectos de la inscripción, el documento público que asiente entre vivos o por causa de muerte, en que funde su derecho en el inmueble o derecho real la persona a cuyo favor deba hacerse la inscripción misma.
+Se entenderá por título, para los efectos de la inscripción, el instrumento público entre vivos o por causa de muerte, en que funde su derecho en un inmueble o derecho real la persona a cuyo favor deba hacerse la inscripción.
 
 ###### Art. 34.
 
 Se inscribirán asimismo los documentos auténticos expedidos por la autoridad competente, que deben hacer fé por sí solos y que sirven de títulos de dominio o derecho real, tales como los documentos y certificados en que se haga constar la adjudicación de los terrenos Municipales o el reparto de los comunales, los títulos del Municipio, los derechos de paso de los caminos de hierro, las escrituras de adjudicación otorgadas por la autoridad política y las certificaciones de las autoridades judiciales en que por convenio de las partes se constituyan un derecho real sobre bienes determinados.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 35.
 
-Los actos ejecutados, los contratos celebrados y las sentencias en países extranjeros, sólo se inscribirán concurriendo las circunstancias siguientes:
+Los actos ejecutados, los contratos celebrados y las sentencias dadas en países extranjeros, sólo se inscribirán si concurrieren las circunstancias siguientes:
 
-I.- Que si están redactados en idioma distinto al español hayan sido oficialmente traducidos por peritos nombrados por los jueces de primera instancia del Ramo Civil, quien declarará (si así fuere) que no tiene nada contrario a nuestras leyes.
+I.- Cuando estando redactadas en idioma distinto del español hayan sido oficialmente traducidas por peritos nombrados por los Jueces de Primera Instancia del Ramo Civil, quienes declararán, si así procediere, que los actos o contratos de que se trate no tienen nada contrario a nuestras leyes.
 
-II.- Que si los actos o contratos hubiesen sido celebrados por sentencia pronunciada en el Estado de Tamaulipas habría sido necesaria la inscripción.
+II.- Cuando los actos ejecutados, contratos celebrado o sentencias pronunciadas requieran inscripción, si hubieran sido consumados en el Estado de Tamaulipas.
 
-III.- Que estén legalizados como previene el Código de Procedimientos Civiles; y,
+III.- Cuando estén legalizados los documentos respectivos de acuerdo con el Código de Procedimientos Civiles.
 
-IV.- Si fuesen sentencias cuya ejecución fuese ordenada por el Tribunal Superior de Justicia del Estado.
+IV.- Cuando, tratándose de sentencias hubiere sido ordenada su ejecución por el Suprema Tribunal de Justicia del Estado.
 
 ###### Art. 36.
 
@@ -287,7 +281,7 @@ El propietario que careciendo de título de dominio escrito, desee inscribir su 
 
 ###### Art. 38.
 
-Las inscripciones se harán en la sección a la que corresponda la operación por su naturaleza y en el libro de la demarcación dentro de la cual estuvieren ubicados los bienes de que se trata.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 39.
 
@@ -319,15 +313,17 @@ Cuando el encargado de registro no encontrare legalmente comprobado el título o
 
 La calificación que se haga de la legalidad de los títulos o de la representación según lo prevenido en el artículo 31 se entenderá limitada para el efecto de negar o admitir la inscripción y no impedirá ni preocupará el juicio que pueda seguirse en los tribunales sobre la nulidad del mismo título o sobre la falta de representación, a menos que llegue a dictarse sentencia que cause ejecutoria.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 43.
 
-El Director del Registro considerará como falta de legalidad en las formas extrínsecas, todas las escrituras o documentos que carezcan de los requisitos determinados en esta Ley o por el derecho común, siempre que esas faltas resulten de los mismos documentos o escritos.
+El Director del Registro considerará como carentes de formalidad intrínseca o extrínseca todas las escrituras o documentos que carezcan de los requisitos determinados en esta Ley o por el derecho común, siempre que los vicios de fondo o forma aparezcan en los mimos documentos o escrituras.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 1928)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 44.
 
-Cuando se haya devuelto un título sin inscribirse por no estar legalmente comprobado o por defectos de las representaciones del solicitante, el interesado podrá ocurrir al Juez de Primera Instancia de la fracción judicial en que el inmueble esté ubicado, para que éste, rectifique o ratifique según el caso, la resolución del Director del Registro. El Juez previo el informe del Director del Registro, resolverá de pleno la solicitud Esta calificación se entenderá limitada a efecto de conceder o negar nuevamente la inscripción y no preocupará en manera alguna el juicio que pueda seguirse ante los tribunales sobre la titularidad del mismo título o sobre la falta de representación legal. En contra de dicha resolución, no habrá más recurso que el de responsabilizar.
+Cuando se haya devuelto un título sin inscribirse, por no estar arreglado a derecho o por falta de personalidad del solicitante, el interesado podrá ocurrir al Ejecutivo del Estado para que confirme o revoque la resolución del Director del Registro, previo el informe relativo. Esta resolución superior no tendrá otro efecto que el de conceder o negar nuevamente la inscripción; y no preocupará en manera alguna el juicio que pueda seguirse ante los tribunales en cuanto a la nulidad o ineficacia del título o falta de personalidad.
 
 ###### Art. 45.
 
@@ -335,19 +331,25 @@ No se procederá a verificar inscripción alguna ni se expedirá certificado de 
 
 ###### Art. 46.
 
-Una vez que se haya hecho el reparto de los títulos a las secciones respectivas y que hayan sido estudiados detenidamente por quien corresponda sin encontrar que en ellos falten algunos de los requisitos que impidan el registro, se procederá a la inscripción o registro correspondiente.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 47.
 
-En todas las inscripciones debe expresarse la fecha y la hora de la presentación de la boleta de pago de los derechos de registro y tanto en ella como en las anotaciones constarán por letras las cantidades que se mencionen y las fechas.
+En toda inscripción, anotación o certificación debe de tomarse nota, con número y letra de la fecha y hora de la presentación de la boleta de pago de los derechos de registro con expresión de la suma que se hubiere pagado.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 48.
 
-En cada libro de cada Sección las inscripciones irán numeradas progresivamente. Al finalizar cada libro se pondrá la siguiente nota: "Hoy cierro este libro, número tantos de la Sección tal, del Registro Público de la Propiedad, de fracción judicial tal, certificando que contiene tantas inscripciones". (Lugar, fecha, firma del Jefe de la Sección respectiva y sello).
+En cada libro de cada Sección las inscripciones irán numeradas progresivamente. Al finalizar cada libro se pondrá la siguiente nota: "hoy cierro este Libro, número tantos de tal Sección del Registro Público de la Propiedad, de tal Distrito judicial, certificando que contiene tantas inscripciones. (Lugar, fecha y, firma del Director de la Oficina.)
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 49.
 
-Inmediatamente que se haga la inscripción se pondrá al calce del título inscrito una nota, en estos términos: "Registrado bajo el número tantos, del libro tantos de la Sección tal, de la Capital o Municipalidad tal, a fojas tantas, y se pagó tanto por derechos, conforme a la boleta número tantos." (Lugar, fecha y firma entera del Jefe de la Sección y media firma del Director.)
+Al hacerse una inscripción se pondrá al calce del título inscrito una nota, en los siguientes términos: "Registrado bajo el número tantos de tal Sección del Registro Público de la Propiedad de tal Distrito judicial, a fojas tantas, habiéndose pagado tanto por derechos, conforme a la boleta número tantos. (Lugar, fecha y firma entera del Director.)
 
 ###### Art. 50.
 
@@ -469,9 +471,11 @@ V.- El valor de la finca o derecho inscrito se expresará si constare en el tít
 
 VI.- Los nombres que deban consignarse en la inscripción, se expresarán según resulten del título sin que sea permitido al Registrador, ni aun con acuerdo de las partes añadir ni quitar ninguno. Al nombre se añadirán la edad, la profesión y el domicilio. Las sociedades o establecimientos públicos se designarán con el nombre con que fueren conocidos y además con el de la persona que en su representación pida la inscripción, si no fuere una sociedad conocida únicamente por su razón, también deberá añadirse, si constare, el título, en cuya virtud posea el que transfiere el derecho.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 72.
 
-Cuando se trasladare el dominio de una finca ya inscrita, se inscribirá el título de traslación bajo el número de inscripción que le corresponda, pero con el mismo número de la finca, anotando la primera inscripción en estos términos. "La finca a que ésta inscripción se refiere pasó a la propiedad de N.N. según consta de la inscripción número tantos del libro X, de esta de fincas inscritas se hará referencia a la inscripción anterior; y se pondrán los números y linderos que en el nuevo título constan, cuando sean distintos de los de aquella, relacionando unos con otros y se anotarán al margen todos los gravámenes y cargas con que pase la propiedad enajenada.
+Cuando se transfiere el dominio de una finca ya inscrita se inscribirá el título de traslación bajo el número de inscripción que le corresponda; pero con el mismo número de la finca, anotando la primera inscripción en estos términos: "La finca a que esta inscripción se refiere pasó a la propiedad de N.N., según consta de la inscripción número tantos del Libro….” Al hacerse referencia a la inscripción anterior, se harán constar los números y linderos que en el nuevo título consten, cuando sean distintos de los de aquella, relacionando unos con otros, anotándose al margen todos los gravámenes y cargas que pese sobre la propiedad enagenada (sic).
 
 ###### Art. 73.
 
@@ -531,9 +535,11 @@ I.- Las hipotecas de cualquiera clase que sean, constituidas legalmente sea sobr
 
 II.- Las cesiones, adjudicaciones, cancelaciones y permutas de créditos hipotecarios.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 85.
 
-La hipoteca no surtirá efecto alguno legal sino el de la fecha y hora en que fuere debidamente registrado.
+La hipoteca no surtirá efecto alguno legal sino desde la fecha y hora en que fuere debidamente registrada.
 
 ###### Art. 86.
 
@@ -683,9 +689,11 @@ II.- En caso de nulidad del Registro.
 
 III.- En los demás casos que lo establezca la ley.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 115.
 
-La acción para cancelar o rectificar el registro, se intentará ante el Juez de Primera Instancia de la Demarcación en que estén ubicados los bienes.
+La acción para cancelar o rectificar el registro se intentará ante el Juez de Primera Instancia que corresponda, en los términos de este Decreto.
 
 ### CAPITULO VII.
 
@@ -783,9 +791,11 @@ Las inscripciones de embargo solo se llevarán a efecto cuando el predio embarga
 
 Del archivo general del Registro.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 130.
 
-Los índices de que habla el artículo 12 de esta Ley y los que ordena este Capítulo están a cargo del Jefe de la Sección Quinta del Registro Público de la Propiedad. Además, de los índices de que habla el artículo 12 se llevará un índice para poseedores y otro de deudores y acreedores hipotecarios para cada una de las fracciones judiciales existentes. Estos índices tendrán los mismos datos en lo que cabe que los indicados en el artículo 12.
+Además de los índices de que trata el artículo 12 de esta Ley se llevará otro para poseedores y otro más para deudores y acreedores hipotecarios, en la misma forma, en cuanto fuere posible, que la indicada en el artículo 12.
 
 ###### Art. 131.
 
@@ -793,27 +803,29 @@ Una vez que en las demás secciones del Registro se haya hecho la inscripción c
 
 ###### Art. 132.
 
-Una vez que se han anotado los libros índices, con presencia del título que motivó la inscripción deberá ser rubricada la nota de ésta por el Jefe de la Sección y solo entonces se presentará el título para ser autorizado por el Director.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 133.
 
 Cuando sufran modificaciones los nombres de las calles de las distintas Municipalidades, al recibirse la nota oficial en la que comunique la nueva nomenclatura, se procederá de oficio a hacer las anotaciones que procedan en los índices de predios de la Municipalidad a que afecte.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 134.
 
-El Archivo General del Registro será público pero los interesados en consultar los libros, se sujetarán a las siguientes prescripciones;
+El Archivo General del Registro será público; pero los interesados en consultar los libros se sujetarán a las siguientes prescripciones;
 
-I.- Deberá solicitarse verbalmente del Jefe de la Sección o del Oficial Auxiliar, el libro o libros que deseen consultar, indicando claramente las fincas o los derechos cuyo estado pretendan consultar.
+I.- Deberá solicitarse verbalmente el libro o libros que se deseé consultar, indicándose claramente las fincas o los derechos cuyo estado se quiera tener a la vista.
 
-II.- Solo podrá mostrarse los libros cuando el Registrador no los necesite para el servicio de la Oficina;
+II.- Solo podrá mostrarse los libros cuando el Registrador no los necesite para el servicio de la Oficina.
 
-III.- Los particulares que consulten el registro, podrán sacar del él las notas que juzguen conveniente para su propio uso, pero sin copiar los asientos;
+III.- Los particulares que consulten el Registro podrán obtener del él las notas que les convengan, para su propio uso; pero sin copiar los asientos.
 
-IV.- No se podrá exigir de la Oficina otro auxilio distinto que el de la manifestación de los libros;
+IV.- No se podrá exigir de la Oficina otro servicio distinto que el de la manifestación de los libros.
 
-V.- Los particulares son directamente responsables de los daños que sufran los libros por los malos tratamientos que les den;
+V.- Los particulares son directamente responsables de los daños que sufran los libros por los malos tratamientos que les den, sin perjuicio de la acción penal que corresponda.
 
-VI.- El Jefe o el Oficial Auxiliar, pueden negar la consulta de los libros a las personas que no cumplan con las anteriores prescripciones.
+VI.- El Director puede negar la consulta de los libros a las personas que no cumplan con las anteriores prescripciones.
 
 ### CAPITULO XI.
 
@@ -859,9 +871,11 @@ Fuera del caso del artículo anterior, la cédula hipotecaria solo se cancelará
 
 La cancelación de los embargos, secuestros o intervenciones de inmuebles, solo se hará por orden escrita de la misma autoridad que ordenó dicho embargo, secuestro o intervención, o por el consentimiento del acreedor hecho constar en forma auténtica.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 144.
 
-La cancelación de que habla el artículo anterior, además de la tildación de la partida respectiva en las Secciones Segunda y Cuarta, se hará al pie de la nota marginal que se hizo al inscribir el embargo, secuestro o intervención en el libro de la propiedad y aquella, en su caso, se referirá a la orden que se reciba, la cual, debidamente anotada, se agregará al libro de "Documentos Generales". Dicha nota se firmará por el Jefe de la Sección.
+La cancelación de que trata el artículo anterior, además de la tildación de la partida respectiva en las Secciones Segunda y Cuarta, se hará al pie de la nota marginal que se hizo al inscribir el embargo, secuestro o intervención en el Libro de la Propiedad; y aquella, en su caso, se referirá a la orden que se reciba, la cual, debidamente anotada, se agregará al Libro de "Documentos Generales". Dicha nota se firmará por el Jefe de la Oficina.
 
 ###### Art. 145.
 
@@ -887,9 +901,11 @@ Cuando se verifiquen por la Sección Cuarta inscripciones de información ad-per
 
 De las Certificaciones.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 150.
 
-El Director del Registro está en la obligación de dar, a quien lo solicite, certificaciones, ya literales o ya en relación de las inscripciones o constancias hechas en los libros del Registro.
+El Director del Registro tiene obligación de dar, a quien lo solicite, certificaciones literales o en relación de las inscripciones o constancias hechas en los libros de Registro.
 
 ###### Art. 151.
 
@@ -935,17 +951,23 @@ Cuando los asientos que deban certificarse se refieran a diferentes fincas o per
 
 Las solicitudes para obtener las certificaciones de que hablan los artículos anteriores, deberán ser dirigidas al Director, por duplicado, quien pondrá al margen de la solicitud original, el acuerdo que proceda.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 162.
 
-Las solicitudes acordadas en la forma que se expresa, se pasarán a los Jefes de las Secciones correspondientes para las buscas que proceden y aquellos en el mismo día, informarán en la copia duplicada sobre los puntos a que se refiera el certificado que se solicita, autorizando con su firma dichos informes.
+Las solicitudes acordadas en la forma que se expresa se pasarán a los escribientes respectivos, para las buscas que proceden; y aquellos, en el mismo día, informarán en la copia duplicada, sobre los puntos a que se refiera el solicitante, autorizando con su firma dichos informes.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 163.
 
-Con los informes a que se refiere el artículo anterior, se hará por el Director el certificado en forma legal, conforme al pedimento ya los puntos informados, autorizándolo con su firma y con el sello de la Dirección.
+Con los informes a que el artículo anterior se refiere, se expedirá el certificado con mención del pedimento y haciéndose constar los puntos informados, con la firma del Director y sello respectivo.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 164.
 
-Los informes dados por los Jefes deben ser conservados, formándose con ellos libros minutarios que periódicamente se empastarán, debiendo pasar al Archivo General de la Oficina.
+Los informes dados por los escribientes serán conservados, formándose con ellos legajos que periódicamente se empastarán, para formar parte del Archivo General de la Oficina.
 
 > <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2005)</small>
 
@@ -963,17 +985,23 @@ Habrá en el Registro Público de la Propiedad un empleado para que por su condu
 
 Al recibirse los documentos de cualquiera naturaleza que sean por el empleado respectivo se sellarán con el sello marcador, con la fecha y hora de su presentación y se numerarán progresivamente en el orden en que sean presentados. Se dará al que los presente, una boleta con las indicaciones que procedan, número de orden que le correspondió, naturaleza del título o documento, hora y fecha de entrada y con especificación del número de anexos que se han acompañado a cada uno firmando dicha boleta el empleado encargado.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 167.
 
-Inmediatamente después de anotados los documentos en la forma prescripta en el Artículo anterior, y de darles entrada en el libro respectivo, se pasará a la Dirección para que sean revisados, y para ser debidamente repartidos en las secciones a que correspondan.
+Inmediatamente después de anotados los documentos en la forma prevenida en el artículo anterior y de darles entrada en el libro respectivo, se pasará a la Dirección para que sean revisados y se acuerde lo que correspondan.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 168.
 
-Después de llenarse por las Secciones del Registro los trámites que ha señalado este Reglamento, se devolverán los títulos y documentos al empleado encargado de las entradas y éste anotará en el libro el día y hora en que esto se hace, entregándolo solamente al interesado a la presentación de la boleta firmada por éste con la nota de "recibo" y la fecha y hora en que se verificó dicha devolución.
+Si no hubiere observación que hacer al pedimento de inscripción, se devolverán los títulos y sus anexos al empleado receptor, con la tasación de los derechos respectivos, cuyo recibo será otorgado por el Director, en la forma que se detallará más adelante, a fin de que, a la presentación de dicho recibo se proceda a hacer la inscripción que se solicite.
+
+Si se tratare de la expedición de un certificado, fijados que sean los derechos, también procederá el empleado que haya recibido el pedimento, previa exhibición del recibo que acredite el pago correspondiente y que esté firmado por el Director, a pasar el escrito a la Sección en que deban de ser suministrados los necesarios datos para que se proceda en los términos de los artículos 162 y 163.
 
 ###### Art. 169.
 
-El mismo procedimiento señalado en el final del artículo anterior, se seguirá cuando, por cualquier motivo sea retirado un título o documento por el interesado sin verificarse su registro.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ### CAPITULO XIV.
 
@@ -1043,49 +1071,81 @@ Por los registros, anotaciones, cancelaciones y certificados relativos a varias 
 
 El Gobierno, los Municipios y la Beneficencia Pública, están exceptuados del pago de los derechos establecidos en los artículos precedentes, salvo los casos de embargo, fijación de cédula hipotecaria, o remate de bienes, en los cuales casos (sic) los derechos respectivos se pagarán a cargo del ejecutado o cuando interviniere en la operación algún particular a quien incumba la obligación de hacer el pago.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
+
 ###### Art. 183.
 
-El Jefe de la Sección respectiva del Registro Público llevará un libro talonario de boletas numeradas progresivamente, las cuales se dividirán en tres secciones verticales, separadas por líneas de puntos perforados, y la última Sección de la derecha se subdividirá en dos partes iguales por medio de una línea horizontal de puntos también perforados. Cada división y subdivisión irá marcada con el mismo número progresivo que la boleta, y con el título y número de la correspondiente Sección del Registro. La Primera parte o Sección de la izquierda, constituirá el talón de la boleta que debe quedar adherido al libro, y en ella se expresará el título y número de la Sección respectiva del Registro; el nombre y apellido de la persona que deba satisfacer los derechos; el acto, contrato u operación que los motive; el monto de éstos, consignando la cantidad en guarismo y en letra y la fecha en que se expida la boleta, la cual será firmada por el Jefe de la Sección que la expida.
+El Director de la Oficina estará dotado de un libro talonario, cuyas hojas, debidamente foliadas, estarán divididas en dos partes iguales por una línea perforada, constando en cada una de ellas el nombre del solicitante, el de la persona que haya hecho el pago de derechos correspondientes, el concepto del cobro con expresión del capítulo o capítulos de la tarifa que hayan sido aplicados, fecha del pago y firma del Director. La hoja de la derecha será desprendida, para ser entregada al solicitante de la inscripción o certificado y la de la izquierda, adherida al libro talonario será conservada en la Oficina, para que con presencia de ella sea hecha la aplicación de dichos derechos en la forma que determina esta misma Ley.
 
 ###### Art. 184.
 
-En la Segunda división de la boleta se copiará el texto de la Primera, se firmará también por el Jefe de la Sección y se desprenderá de un libro talonario juntamente con la tercera división para que el interesado las presente al Director del Registro, quien después de cerciorarse de la exactitud de la liquidación de los derechos, desprenderá y recogerá la parte de la boleta que contenga dicha copia, y devolverá la restante al interesado poniendo el Vo. Bo. en la subdivisión que ha de servir de comprobante de Caja.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 185.
 
-En la subdivisión superior de la tercera sección de la boleta, se consignará el nombre y apellido de la persona que ha de satisfacer los derechos, y el importe de éstos expresado en guarismo y en letra. Se firmará por el Jefe de la Sección respectiva, y una vez que haya sido visada, como se ha dicho, por el Director del Registro, la presentará el causante al Encargado de la Recaudación, quien recibirá el pago de la cantidad que en ella se exprese. EI Recaudador desprenderá y conservará esa parte del documento como comprobante del ingreso a la Caja, y devolverá al interesado la segunda subdivisión, la cual contendrá el recibo de la cantidad enterada, expresándose también ésta en guarismo y en letra, la fecha del pago y la firma del Recaudador.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 186.
 
-En vista de ese recibo se entregará el certificado que se hubiere solicitado, o se devolverán los títulos registrados con la razón correspondiente, consignando al pié del mismo certificado o de la razón "el importe de los derechos con la expresión de "pagado" y haciendo referencia al número del recibo. La nota de que se han pagado los derechos, será autorizada con la firma del Jefe de la Sección y con la rúbrica del Director. En los casos en que no se causen derechos, se pondrá al pié del certificado o de la inscripción, la razón "exceptuado de derechos conforme al artículo 182 de esta Ley," autorizándose tal razón con la forma referida.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 187.
 
-Las boletas de liquidación recogidas por el Director, como se previene en el artículo 184, se guardarán cuidadosamente y se ordenarán en legajos que mensualmente se remitirán por el mismo Director del Registro a la Tesorería General del Estado, con una relación o estado de todas las operaciones verificadas dentro del mes anterior y que hayan causado derechos.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 188.
 
-El total de lo recaudado se remitirá a la Tesorería General del Estado los días 15 y último de cada mes, o los inmediatos anteriores si aquellos fueren festivos. Se remitirá, además el Corte de Caja correspondiente que intervendrá y visará el Director del Registro.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 189.
 
-El mismo Director tendrá obligación de sobrevigilar la pureza y exactitud en la recaudación, así como la fidelidad en el manejo de los derechos de registro. A ese fin practicará indistintamente, por lo menos una vez cada quincena, por sí o por medio del Sub-director un Corte de Caja extraordinario, comprobando los ingresos con las boletas y con los documentos de Caja que se hayan expedido. Esta sobrevigilancia no excluye la que con arreglo a las disposiciones vigentes corresponde a la Tesorería General respecto de todos los empleados que manejan fondos públicos.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 190.
 
-En todo lo que se refiere a contabilidad y manejo de fondos, el empleado recaudador dependerá inmediatamente de la Tesorería General y se sujetará a las órdenes e instrucciones que sobre el particular le comunique.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
 
 ###### Art. 191.
 
-Las infracciones de este Reglamento constituirán directa y pecuniariamente responsable de los derechos causados, al empleado o empleados a quienes deba atribuirse la falta u omisión en el cumplimiento de las obligaciones que se les impone esta misma Ley.
+(DEROGADO, P.O. 15 DE AGOSTO DE 1935)
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 192.
 
-Los Recaudadores, además de las responsabilidades generales que tienen con arreglo alas leyes por el manejo de fondos, tendrá especial responsabilidad pecuniaria por lo que el Fisco dejare de percibir, si no reciben el pago de los derechos con entera sujeción a las cantidades expresadas en los documentos de Caja.
+Los Directores de las Oficinas, además de las responsabilidades penales en que pudieran incurrir por manejo indebido de fondos públicos, tendrán especial responsabilidad pecuniaria por lo que el Fisco dejare de percibir si no reciben el pago de los derechos con estricta sujeción a las tarifas aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1935)</small>
 
 ###### Art. 193.
 
-Las visitas que la Tesorería General mande practicar en uso de sus atribuciones a las Oficinas del Registro Público se limitarán a comprobar si el cobre de los derechos se ha hecho con sujeción a la Tarifa y en los términos prevenidos por la Ley así como a verificar las existencias en Caja, mediante los Cortes respectivos, como está prevenido para todas las Oficinas de Rentas.
+Las visitas que los Tesoreros Municipales manden practicar en las Oficinas de que se trata se limitarán a comprobar si los cobros se han hecho conforme a la tarifa y en los términos prevenidos por esta Ley.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO DEL DECRETO No. 78, PUBLICADO EN EL P.O. EL 15 DE AGOSTO DE 1935, SE ADICIONA LA PRESENTE LEY, EN LOS TERMINOS QUE SE ESPECIFICAN A CONTINUACION.</small>
+
+(a).- El Registro Público de la Propiedad en el Estado queda a cargo de ocho Directores o Encargados del mismo, que lo serán: el Juez de Primera Instancia y del Ramo Civil residente en Ciudad Victoria; el Juez de Primera Instancia y Segunda del Ramo Civil, residente en Tampico; el Juez Mixto de Primera Instancia, residente en Tula; el Juez Mixto de Primera Instancia, residente en Xicoténcatl; el Juez Mixto de Primera Instancia, residente en San Carlos; el Juez Mixto de Primera Instancia, residente en Nuevo Laredo; y el Juez Mixto de Primera Instancia, residente en Ciudad Madero.
+
+(b).- Estos Directores o Encargados de las Oficinas respectivas ejercerán sus funciones dentro de la misma demarcación que abarca los distritos judiciales en que actúan como Jueces de Primera Instancia y que está claramente determinada por el artículo 4o. de la Ley Orgánica del Poder Judicial del Estado.
+
+(c).- Lo que se recaudare como derechos de inscripción y demás previstos en la tarifa correspondiente, será aplicado, por mitad, al Director o Encargado de la Oficina y al Erario Municipal de la población en donde tenga un asiento la Oficina de Registro. Para el efecto, el día última de cada mes, como presencia del libro talonario de que trata al artículo 163, se hará la liquidación correspondiente, otorgando el Tesorero Municipal un recibo, que será archivado en la Oficina registradora.
+
+(d).- Cada Encargado podrá nombrar, a su costa, los escribientes que sean requeridos por el despacho, a fin de que éste sea archivo y eficaz. A uno de dichos empleados se encomendarán las funciones de que tratan los artículos 165 y relativos de esta Ley.
+
+(e).- Los Directores de las Oficinas de que se trata podrán ser corregidos disciplinariamente por el Ejecutivo del Estado, según el artículo 28, pero no podrán ser suspendidos en sus funciones si no se dictare auto de formal prisión en su contra, ni cesados definitivamente si no fuere dictada en contra suya sentencia ejecutoria que le condene a la pérdida de su empleo.
+
+(f).- Los escribientes serán nombrados y removidos libremente por el Director, quien podrá corregirles en sus faltas leves, con multas que no excederán de veinticinco pesos y con suspensiones que no excedan de treinta días.
+
+Si se tratare de alguna acción u omisión delictuosa, el Encargado tiene el deber de dar inmediato conocimiento de ella al Agente del Ministro Público a quien corresponda, para que proceda a lo que hubiere lugar.
+
+Cuando el Ejecutivo del Estado pida a algún Director del Registro el informe prevenido por la última parte de la fracción IX del artículo 21, se limitará a hacer al inferior las recomendaciones que fueren del caso.
+
+(g).- La nulidad o cancelación de una inscripción sólo puede ser decretada por la autoridad judicial, en juicio sumario, verbal o escrito, según la cuantía del negocio, en el que además de todos los interesados, será oído, como demandado, el Director de la Oficina que hubiere hecho la inscripción, tomándose en cuenta también el parecer del Ministerio Público. Todos lostérminos (sic) serán comunes, siendo admisible y debiendo tramitarse la apelación que se interponga, de acuerdo con el Código de Procedimientos Civiles.
+
+(h).- Cuando se trate de error material o de concepto o de cualquiera otra causa no comprendida en el inciso que antecede, el procedimiento que se siga se sustanciará con la demanda escrita que se proponga contra el Director de la Oficina que hubiere hecho la inscripción o anotación, oyéndose a todos los interesados y al Agente del Ministerio Público dentro de un término común de tres días y citándose luego para una audiencia en la que se rendirán las pruebas que fueren del caso, dictándose en ella misma la resolución que corresponda, que no admitirá otro recurso que el de responsabilidad.
+
+(i).- Es Juez competente para conocer en los casos a que los dos anteriores incisos se refieren, el de Primera Instancia a quien corresponda sustituir al que, en funciones de Encargado de la Oficina de Registro, hubiere hecho la inscripción o anotación, en los casos de excusa, de acuerdo con las disposiciones legales relativas.
+
+(j).- En el caso del artículo 44 se seguirá el mismo procedimiento indicado en el inciso (h) del artículo 3o. de este Decreto.
 
 ## TRANSITORIOS
 
@@ -1138,3 +1198,37 @@ Artículo Unico.- Esta Ley empezará a regir desde su publicación en el Periód
 P.O. 14 DE MARZO DE 1928.
 
 Art. Unico.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE AGOSTO DE 1935.
+
+###### Art. 1o.
+
+Además De las disposiciones legales citadas en el artículo 1o. de este Decreto se derogan todas las demás que a este mismo Decreto se opusieren.
+
+###### Art. 2o.
+
+Se derogan las partidas números 127, 128, 129, 130, 131 y 132 comprendidas en la Sección 20a. del Ramo II de la Ley de Ingresos y Presupuesto de Egresos vigente en el Estado.
+
+###### Art. 3o.
+
+Se adicionan los Presupuestos Municipales de Ciudad Victoria, Tampico, Matamoros, Tula, Xicoténcatl, San Carlos, Nuevo Laredo y Ciudad Madero, quedando incluidos en ellos los ingresos de que trata el inciso (c) del artículo 3o. que antecede.
+
+###### Art. 4o.
+
+Este Decreto entrará en vigor desde el día primero de Octubre del año en curso. Para el efecto, el día anterior, el Director de la Oficina del Registro Público de la Propiedad, en esta Capital, pondrá al calce de la última inscripción en cada uno de los libros no terminados, una nota que exprese el número de hojas útiles y el de inscripciones que contenga cada uno de ellos.
+
+###### Art. 5o.
+
+Desde luego se procederá a hacer un inventario general de cuantos volúmenes y documentos integren el Registro Público, con especificación de lo que corresponda a cada uno de los distrito a que se refiere el inciso )b) del artículo 3o. de este Decreto.
+
+###### Art. 6o.
+
+Una copia de dicho inventario, en la parte relativa, será enviada a los nuevos Directores del Registro Público de que se trata, juntamente con el archivo y demás libros y documentos que les correspondan, debiendo acusar recibo de conformidad los nuevos Encargados, tres días después de la entrega o hacer las observaciones que fueren procedentes, para los efectos a que hubiere lugar.
+
+###### Art. 7o.
+
+Los Nuevos Encargados podrán razonar en cada uno de los libros no incluidos, del día en que los reciban, debiendo, a partir de esa fecha, quedar a su exclusivo cuidado y bajo su responsabilidad.
+
+###### Art. 8o.
+
+A partir del día primero de Octubre del corriente año, los Directores de las nuevas Oficinas creadas por este Decreto, principiarán a recibir las solicitudes de inscripción o de cualquiera otra índole, tomándose nota del día y hora de su presentación para su oportuno despacho, por turno riguroso, en los términos que esta Ley establece.
