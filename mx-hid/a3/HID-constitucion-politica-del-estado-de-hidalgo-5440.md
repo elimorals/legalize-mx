@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1927-05-16"
+last_updated: "1927-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1927.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 1927.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -40,6 +40,10 @@ CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 ## TITULO I
 
 ### CAPITULO I. DEL TERRITORIO DEL ESTADO Y DE SU DIVISION POLITICA
+
+###### Artículo 2º.
+
+Este decreto comenzará a surtir sus efectos desde el año de 1928.
 
 ###### Artículo 3º.
 
@@ -116,6 +120,8 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 16 DE MAYO DE 1927.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 16 DE NOVIEMBRE DE 1927.
 
 ###### Artículo 5º.
 
@@ -317,7 +323,7 @@ En todo caso se dará aviso al Ejecutivo, del día señalado para la discusión 
 
 ###### Artículo 35.
 
-Aprobado un proyecto de ley o de decreto por el Congreso, se remitirá al Gobernador para su sanción y publicación. El Gobernador puede dentro de diez días útiles, devolverlo con observaciones. El proyecto de ley o de decreto devueltos al Congreso, deberá ser discutido de nuevo y si fuese confirmado por las dos tercios del número total de Diputados, volverá al Gobernador, quien deberá promulgarlo sin más tramite.
+Aprobado un proyecto de ley o de decreto por el Congreso, se remitirá al Gobernador para su sanción y publicación. El Gobernador puede dentro de diez días útiles, devolverlo con observaciones. El proyecto de ley o de decreto devueltos al Congreso, deberá ser discutido de nuevo y si fuese confirmado por las dos tercios del número total de Diputados, volverá al Gobernador, quien deberá promulgarlo sin más trámite.
 
 ###### Artículo 36.
 
@@ -539,7 +545,9 @@ XXIV. Nombrar Jueces del Registro Civil donde lo crea oportuno, de acuerdo con l
 
 XXV. Cuidar de los distintos ramos de la Administración, procurando que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las leyes.
 
-XXVI. Dar cuenta a cada nuevo Congreso por medio de memorias presentadas inmediatamente después de que éste quede instalado, del estado que guardan los diversos ramos de la Administración.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 1927)</small>
+
+XXVI.- Asistir al Congreso el día 1º de marzo de cada año, para dar cuenta del estado que guardan los diversos ramos de la Administración Pública.
 
 XXVII. Solicitar del Congreso autorización para el arreglo de límites con los estados limítrofes; y una vez aprobado el arreglo por el Congreso, dirigirse al Congreso de la Unión para los efectos de los artículos 73 fracción IV y 116 de la Constitución General.
 
@@ -653,13 +661,13 @@ Para ser Agente, las que determine la ley.
 
 Son atribuciones del Ministerio Público:
 
-I. Ejercitar ante los Tribunales del Estado, las acciones que corresponden contra los violadores de las leyes de interés público.
+I. Ejercitar ante los Tribunales del Estado, las acciones que corresponden contra los violadores de las leyes de interés publico.
 
 II. Intervenir en la forma y términos que la ley disponga, en los juicios que afecten a personas a quienes la ley otorga especial protección.
 
 III. Defender los intereses del Estado ante los Tribunales.
 
-La ley organizará el Ministerio Público, determinará las atribuciones respectivas de las personas que lo formen y fijará el tiempo que cada una de ellas deba durar en sus funciones.
+La ley organizará el Ministerio Público, determinaraá las atribuciones respectivas de las personas que lo formen y fijará el tiempo que cada una de ellas deba durar en sus funciones.
 
 ###### Artículo 70.
 
@@ -841,7 +849,7 @@ Cuando el mismo hecho tenga otra pena señalada en la ley, el propio Tribunal la
 
 ###### Artículo 93.
 
-De los delitos comunes y oficiales cometidos por los Jueces de Primera Instancia y agentes del Ministerio Publico, el Tribunal Superior declarará en la forma que determine la ley, si ha o no lugar a proceder. En caso negativo, el acusado continuará en el ejercicio de su encargo, cesando todo procedimiento en su contra. En el afirmativo, quedará suspenso el acusado y sujeto a los Tribunales comunes.
+De los delitos comunes y oficiales cometidos por los Jueces de Primera Instancia y agentes del Ministerio Público, el Tribunal Superior declarará en la forma que determine la ley, si ha o no lugar a proceder. En caso negativo, el acusado continuará en el ejercicio de su encargo, cesando todo procedimiento en su contra. En el afirmativo, quedará suspenso el acusado y sujeto a los Tribunales comunes.
 
 ###### Artículo 94.
 
@@ -887,7 +895,7 @@ Todo funcionario y empleado público, tendrá derecho a percibir el sueldo o emo
 
 ###### Artículo 1°.
 
-Esta Constitución se protestará con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
+Esta Constitución se protestarwá con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
 
 ###### Artículo 1°.
 
@@ -905,4 +913,4 @@ Las autoridades y funcionarios del Estado no tienen mas facultades que las que e
 
 ###### Artículo 3°.
 
-El período Constitucional de la actual Legislatura, terminarrá el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
+El período Constitucional de la actual Legislatura, terminará el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
