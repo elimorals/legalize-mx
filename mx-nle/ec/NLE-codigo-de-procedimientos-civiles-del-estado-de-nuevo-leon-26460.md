@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1984-12-26"
+last_updated: "1985-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 1985.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -4025,7 +4025,7 @@ Si se declare infundada la oposición, el opositor será condenado en las costas
 
 DEL JUICIO DE MENOR CUANTIA.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 692.
 
@@ -4323,11 +4323,13 @@ DE LAS TESTAMENTARIAS.
 
 ###### ARTICULO 743.
 
-Serán objeto del juicio de menor cuantía:
+Serán objeto del Juicio de menor cuantía:
 
-I.- Los negocios cuyo interés no exceda de CINCUENTA MIL PESOS.
+I.- Los negocios cuyo interés no exceda de ciento cincuenta cuotas diarias de salario mínimo general.
 
-II.- Los que tengan por objeto el ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, excepto las que provengan de alimentos, con tal de que el monto anual de aquéllas no excedan de VEINTICINCO MIL PESOS. En los casos en que se demande solamente el pago o cumplimento de las prestaciones adeudadas, o del capital o gravamen por los que éstas se adeuden, se estará a lo dispuesto en la fracción I de este artículo.
+II.- Los que tengan por objeto el ejercicio de acciones derivadas de actos o contratos en que se pacten prestaciones o pensiones periódicas, excepto las que provengan de alimentos, con tal de que el monto anual de aquéllas no exceda de cien cuotas diarias de salario mínimo general. En los casos en que se demande solamente el pago o cumplimento de las prestaciones adecuadas, o del capital o gravamen por los que éstas se adeuden, se estará a lo dispuesto en la fracción I de este Artículo.
+
+Para determinar la cuantía de las cuotas diarias del salario mínimo general, se entenderá por éste, el más bajo de los diversos que puedan regir en la entidad.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 1981)</small>
 
@@ -5831,9 +5833,11 @@ DE LA JUSTICIA DE PAZ.
 
 Los alcaldes judiciales a que se refiere al artículo 94 de la Constitución Política del Estado, a quienes también se les denomina jueces menores, tendrán competencia para conocer de los negocios que se mencionan en este Título.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 1985)</small>
+
 ###### Artículo 2.
 
-Conocerán los alcaldes judiciales letrados de los juicios cuya cuantía no exceda de trescientos pesos; y los demás de los que no excedan de cien pesos.
+Conocerán los Alcaldes Judiciales de los juicios cuya cuantía no excede de veinticinco cuotas diarias del salario mínimo general, entendiéndose por éste, el más bajo de los diversos que puedan regir la Entidad.
 
 Para estimar el interés del negocio se atenderá a lo que el actor demande. Los réditos, daños y perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda aún cuando se reclamen en ella.
 
@@ -6212,3 +6216,9 @@ P.O. 26 DE DICIEMBRE DE 1984.
 DECRETO NUM. 240, QUE REFORMA EL ARTICULO 935.
 
 UNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE FEBRERO DE 1985.
+
+###### ARTICULO UNICO
+
+- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
