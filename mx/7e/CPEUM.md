@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1962-11-02"
+last_updated: "1962-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE NOVIEMBRE DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1962.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1426,7 +1426,7 @@ Podrá también suplirse la deficiencia de la queja en materia penal y la de la 
 
 > <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 1962)</small>
 
-En los juicios de amparo en que se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas pastos y montes a los ejidos y a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a los ejidatarios y comuneros, deberá suplirse la deficiencia de la queja de acuerdo con lo que disponga la ley reglamentaria; y no procederán el desistimiento, el sobreseimiento por inactividad, ni la caducidad de la instancia, cuando se afecten derechos de los ejidos o núcleos de población comunal.
+En los juicios de amparo en que se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas pastos y montes a los ejidos y a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a los ejidatarios y comuneros, deberá suplirse la deficiencia de la queja de acuerdo con lo que disponga la ley reglamentaria; y no procederán el desistimiento, el sobreseimiento por inactividad, ni la caducidad de la instancia, cuando se afecten derechos de los ejidos o núcleos de población comuna.
 
 III.- En materias judicial, civil o penal y del trabajo el amparo sólo procederá:
 
@@ -1498,7 +1498,7 @@ XIV.- Cuando el acto reclamado proceda de autoridades civiles o administrativas 
 
 XV.- El Procurador General de la República o el Agente del Ministerio Público Federal que al efecto designare, será parte en todos los juicios de amparo; pero podrán abstenerse de intervenir en dichos juicios, cuando el caso de que se trate carezca a su juicio, de interés público.
 
-XVI.- Si concedido el amparo la autoridad responsable insistiere en la repetición del acto reclamado o tratare de eludir la sentencia de la autoridad federal, será inmediatamente separada de su cargo y consignada ante el Juez de Distrito que corresponda.
+XVI.- Si concedido el amparo la autoridad responsable insistiere en la repetición del acto reclamado o tratare de eludir la sentencia de la autoridad federal, será inmediatamente separada de su cargo y consignada ante el Juez de Distrito que corresponda;.
 
 XVII.- La autoridad responsable será consignada a la autoridad correspondiente, cuando no suspenda el acto reclamado debiendo hacerlo, y cuando admita fianza que resulte ilusoria o insuficiente, siendo en estos dos últimos casos, solidaria la responsabilidad civil de la autoridad con el que ofreciere la fianza y el que la prestare.
 
@@ -1716,23 +1716,47 @@ A.- Entre los obreros, jornaleros, empleados domésticos, artesanos y de una man
 
 I.- La duración de la jornada máxima será de ocho horas.
 
-II.- La jornada máxima de trabajo nocturno será de siete horas. Quedan prohibidas las labores insalubres o peligrosas para las mujeres en general y para los jóvenes menores de diez y seis años. Queda también prohibido a unas y otros el trabajo nocturno industrial; y en los establecimientos comerciales no podrán trabajar después de las diez de la noche.
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
 
-III.- Los jóvenes mayores de doce años y menores de diez y seis, tendrán como jornada máxima la de seis horas. El trabajo de los niños menores de doce años no podrá ser objeto de contrato.
+II.- La jornada máxima de trabajo nocturno será de siete horas. Quedan prohibidas: las labores insalubres o peligrosas para las mujeres y los menores de dieciséis años, el trabajo nocturno industrial para unas y otros; el trabajo en los establecimientos comerciales, después de las diez de la noche para la mujer y el trabajo después de las diez de la noche, de los menores de dieciséis años.
+
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
+
+III.- Queda prohibida la utilización del trabajo de los menores de catorce años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas.
 
 IV.- Por cada seis días de trabajo deberá disfrutar el operario de un día de descanso, cuando menos.
 
 V.- Las mujeres, durante los tres meses anteriores al parto, no desempeñarán trabajos físicos que exijan esfuerzo material considerable. En el mes siguiente al parto disfrutarán forzosamente de descanso, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por su contrato. En el período de la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
 
-VI.- El salario mínimo que deberá disfrutar el trabajador será el que se considere suficiente, atendiendo las condiciones de cada región, para satisfacer las necesidades normales de la vida del obrero, su educación y sus placeres honestos, considerándolo como jefe de familia. En toda empresa agrícola, comercial, fabril o minera, los trabajadores tendrán derecho a una participación en las utilidades, que será regulada como indica la fracción IX.
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
+
+VI.- Los salarios mínimos que deberán disfrutar los trabajadores serán generales o profesionales. Los primeros regirán en una o en varias zonas económicas; los segundos se aplicarán en ramas determinadas de la industria o del comercio o en profesiones, oficios o trabajos especiales.
+
+Los salarios mínimos generales deberán ser suficientes para satisfacer las necesidades normales de un jefe de familia, en el orden material, social y cultural y para proveer a la educación obligatoria de los hijos. Los salarios mínimos profesionales se fijarán considerando, además las condiciones de las distintas actividades industriales y comerciales.
+
+Los trabajadores del campo disfrutarán de un salario mínimo adecuado a sus necesidades.
+
+Los salarios mínimos se fijarán por Comisiones Regionales, integradas con Representantes de los Trabajadores, de los Patronos y del Gobierno y serán sometidos para su aprobación a una Comisión Nacional que se integrará en la misma forma prevista para las Comisiones Regionales.
 
 VII.- Para trabajo igual debe corresponder salario igual, sin tener en cuenta sexo ni nacionalidad.
 
 VIII.- El salario mínimo quedará exceptuado de embargo, compensación o descuento.
 
-> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 1933)</small>
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
 
-IX.- La fijación del tipo de Salario Mínimo, y de la participación en las utilidades a que se refiere la fracción VI, se hará por Comisiones Especiales que se formarán en cada Municipio, subordinadas a la Junta Central de Conciliación y Arbitraje que se establecerá en cada Estado. En defecto de esas Comisiones, el Salario Mínimo será fijado por la Junta Central de Conciliación y Arbitraje respectiva.
+IX.- Los trabajadores tendrán derecho a una participación en las utilidades de las empresas, regulada de conformidad con las siguientes normas:
+
+a).- Una Comisión Nacional, integrada con representantes de los trabajadores, de los patronos y del Gobierno, fijará el porcentaje de utilidades que deba repartirse entre los trabajadores;
+
+b).- La Comisión Nacional practicará las investigaciones y realizará los estudios necesarios y apropiados para conocer las condiciones generales de la economía nacional. Tomará asimismo en consideración la necesidad de fomentar el desarrollo industrial del País, el interés razonable que debe percibir el capital y la necesaria reinversión de capitales;
+
+c).- La misma Comisión podrá revisar el porcentaje fijado cuando existan nuevos estudios e investigaciones que los justifiquen;
+
+d).- La Ley podrá exceptuar de la obligación de repartir utilidades a las empresas de nueva creación durante un número determinado y limitado de años, a los trabajos de exploración y a otras actividades cuando lo justifique su naturaleza y condiciones particulares;
+
+e).- Para determinar el monto de las utilidades de cada empresa se tomará como base la renta gravable de conformidad con las disposiciones de la Ley del Impuesto sobre la Renta. Los trabajadores podrán formular ante la Oficina correspondiente de la Secretaría de Hacienda y Crédito Público las objeciones que juzguen convenientes, ajustándose al procedimiento que determine la ley;
+
+f).- El derecho de los trabajadores a participar en las utilidades no implica la facultad de intervenir en la dirección o administración de las empresas.
 
 X.- El salario deberá pagarse precisamente en moneda de curso legal, no siendo permitido hacerlo efectivo con mercancías, ni con vales, fichas o cualquier otro signo representativo con que se pretenda substituir la moneda.
 
@@ -1758,9 +1782,13 @@ XIX.- Los paros serán lícitos únicamente cuando el exceso de producción haga
 
 XX.- Las diferencias o los conflictos entre el capital y el trabajo, se sujetarán a la decisión de una Junta de Conciliación y Arbitraje, formada por igual número de representantes de los obreros y de los patronos, y uno del Gobierno.
 
-XXI.- Si el patrono se negare a someter sus diferencias al Arbitraje o a aceptar el laudo pronunciado por la Junta, se dará por terminado el contrato de trabajo y quedará obligado a indemnizar al obrero con el importe de tres meses de salario, además de la responsabilidad que le resulte del conflicto. Si la negativa fuere de los trabajadores, se dará por terminado el contrato de trabajo.
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
 
-XXII.- El patrono que despida a un obrero sin causa justificada, o por haber ingresado a una asociación o sindicato, o por haber tomado parte en una huelga lícita, estará obligado, a elección del trabajador, a cumplir el contrato o a indemnizarlo con el importe de tres meses de salario. Igualmente tendrá esta obligación cuando el obrero se retire del servicio por falta de probidad de parte del patrono o por recibir de él malos tratamientos, ya sea en su persona o en la de su cónyuge, padres, hijos o hermanos. El patrono no podrá eximirse de esta responsabilidad, cuando los malos tratamientos provengan de dependientes o familiares que obren con el consentimiento o tolerancia de él.
+XXI.- Si el patrono se negare a someter sus diferencias al arbitraje o a aceptar el laudo pronunciado por la Junta, se dará por terminado el contrato de trabajo y quedará abligado (sic) a indemnizar al obrero con el importe de tres meses de salario, además de la responsabilidad que le resulte del conflicto. Esta disposición no será aplicable en los casos de las acciones consignadas en la fracción siguiente. Si la negativa fuere de los trabajadores, se dará por terminado el contrato de trabajo.
+
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
+
+XXII.- El patrono que despida a un obrero sin causa justificada o por haber ingresado a una asociación o sindicato, o por haber tomado parte en una huelga lícita, estará obligado, a elección del trabajador, a cumplir el contrato o a indemnizarlo con el importe de tres meses de salario. La Ley determinará los casos en que el patrono podrá ser eximido de la obligación de cumplir el contrato, mediante el pago de una indemnización. Igualmente tendrá la obligación de indemnizar al trabajador con el importe de tres meses de salario, cuando se retire del servicio por falta de probidad del patrono o por recibir de él malos tratamientos, ya sea en su persona o en la de su cónyuge, padres, hijos o hermanos. El patrono no podrá eximirse de esta responsabilidad, cuando los malos tratamientos provengan de dependientes o familiares que obren con el consentimieto (sic) o tolerancia de él.
 
 XXIII.- Los créditos en favor de los trabajadores por salario o sueldos devengados en el último año, y por indemnizaciones, tendrán preferencia sobre cualquiera otros en los casos de concurso o de quiebra.
 
@@ -1796,9 +1824,9 @@ XXIX.- Se considera de utilidad pública la expedición de la Ley del Seguro Soc
 
 XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativas para la construcción de casas baratas e higiénicas, destinadas a ser adquiridas en propiedad, por los trabajadores en plazos determinados.
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 1942)</small>
+> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
 
-XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales, en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera y azucarera, minería, hidrocarburos, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el Gobierno Federal; empresas que actúen en virtud de un contrato o concesión federal, y las industrias que le sean conexas; a empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que afecten a dos o más entidades federativas; a contratos colectivos que hayan sido declarados obligatorios en más de una entidad federativa y, por último, las obligaciones que en materia educativa corresponden a los patrones, en la forma y términos que fija la ley respectiva.
+XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera, azucarera, minería, petroquímica, metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos, hidrocarburos, cemento, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el Gobierno Federal; empresas que actúen en virtud de un contrato o concesión federal y las industrias que le sean conexas; empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que afecten a dos o más Entidades Federativas; a contratos colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa, y por último las obligaciones que en materia educativa corresponden a los patronos, en la forma y términos que fija la Ley respectiva.
 
 > <small>(ADICIONADO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
@@ -2451,3 +2479,9 @@ UNICO.- Esta reforma entrará en vigor a partir de su publicación en el "Diario
 D.O.F. 2 DE NOVIEMBRE DE 1962.
 
 UNICO.- La presente ley entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 21 DE NOVIEMBRE DE 1962.
+
+###### ARTICULO UNICO.
+
+Esta Ley principiará a regir al día siguiente de su publicación en el "Diario Oficial" de la Federación.
