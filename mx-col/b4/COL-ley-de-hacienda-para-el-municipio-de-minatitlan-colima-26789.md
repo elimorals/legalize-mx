@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-minatitlan-colima-26789"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2003-12-31"
+last_updated: "2004-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MINATITLAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2004.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -64,6 +64,10 @@ El Municipio de Minatitlán, para cubrir su gasto público, percibirá en cada e
 Únicamente el Congreso del Estado, mediante disposición de carácter general, podrá condonar o eximir total o parcialmente del cumplimiento de obligaciones fiscales cuando por causas graves se afecte la situación de alguna región o rama de actividad económica del municipio, con excepción de lo previsto por el artículo 115, fracción IV, inciso c), párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos.
 
 El Cabildo, de conformidad con la reglamentación correspondiente, podrá otorgar incentivos y apoyos para promover la inversión, a fin de impulsar el crecimiento económico de los sectores productivos, de manera integral, sostenido y sustentable del Municipio e incrementar el bienestar social de sus habitantes.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+Para determinar el pago de las contribuciones se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en las oficinas ó módulos de atención automatizados se deberá observar la regla de ajuste prevista en el artículo 12 del Código Fiscal Municipal del Estado de Colima. No se considerará como error en la determinación y liquidación de contribuciones o créditos fiscales, cuando se aplique la regla de ajuste correspondiente a que se refiere el citado precepto.
 
 ###### ARTICULO 3º.
 
@@ -211,9 +215,13 @@ Los contribuyentes podrán hacer pagos anticipados de este impuesto respecto a t
 
 Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicarse la base definitiva se cobrarán o reintegrarán las diferencias que resulten.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 16.
 
-El pago de este impuesto deberá efectuarse en la Tesorería Municipal o donde ésta lo disponga.
+El pago de este impuesto deberá efectuarse en la Tesorería Municipal o donde ésta lo disponga mediante autorización expresa. También se efectuará en las oficinas o módulos de atención automatizados, permanentes o temporales, establecidos fuera de las instalaciones de la Tesorería.
+
+Para determinar el pago de este impuesto se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en las oficinas o módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
 ###### ARTICULO 17.
 
@@ -621,9 +629,13 @@ Son solidariamente responsables del pago de esta contribución los adquirentes d
 
 Los derechos por la prestación de servicios que proporcionen las diversas dependencias del Ayuntamiento, se causarán en el momento en que el particular reciba el servicio.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 57.
 
-El importe de las tasas, cuotas o tarifas que para cada derecho se señale en los siguientes Capítulos deberá ser cubierto previamente a la prestación del servicio, cuando así proceda, en la Tesorería Municipal o en el lugar que ésta designe.
+El importe de las tasas, cuotas o tarifas que para cada derecho se señale en los siguientes capítulos deberá ser cubierto previamente a la prestación del servicio, cuando así proceda, en la Tesorería Municipal o en el lugar que ésta designe. También se efectuará en las oficinas o módulos de atención automatizados, permanentes o temporales, establecidos fuera de las instalaciones de la Tesorería.
+
+Para determinar el pago de los derechos se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
 ###### ARTICULO 58.
 
@@ -1801,7 +1813,7 @@ c).- Por la expedición de permisos para el funcionamiento temporal de estableci
 
 10.- Depósitos de cerveza 5.00
 
-11.- Depósitos de cerveza, vinos y licores 8.00
+11.- Depósito de cerveza, vinos y licores 8.00
 
 12.- Discotecas 5.00
 
@@ -1809,9 +1821,9 @@ c).- Por la expedición de permisos para el funcionamiento temporal de estableci
 
 14.- Locales para fiesta 5.00
 
-15.- Marisquería 5.00
+15.- Marisquerías 5.00
 
-16.- Menudería 5.00
+16.- Menuderías 5.00
 
 17.- Parianes 30.00
 
@@ -1840,6 +1852,152 @@ con venta de cerveza, vinos y licores 8.00
 27.- Tiendas departamentales 10.00
 
 28.- Otros giros no especificados 2.00 a 30.00
+
+d).- Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos en los que expendan bebidas alcohólicas, por cada hora:
+
+1.- Agencias 0.50 a 2.50
+
+2.- Bares 0.50 a 1.50
+
+3.- Birrierías 0.25 a 1.50
+
+4.- Cabaretes 2.50 a 50
+
+5.- Casinos y similares 2.50 a 150
+
+6.- Cenadurías 0.25 a 1.00
+
+7.- Centro botanero 0.50 a 1.50
+
+8.- Centros nocturnos 0.50 a 1.50
+
+9.- Clubes sociales 2.5 a 15.00
+
+10.- Depósitos de cerveza 0.25 a 1.50
+
+11.- Depósito de cerveza, vinos y licores 0.50 a 1.50
+
+12.- Discotecas 1.00 a 2.50
+
+13.- Hoteles y moteles 2.50 a 5.00
+
+14.- Locales para fiesta 1.50 a 2.50
+
+15.- Marisquerías 0.25 a 1.50
+
+16.- Menuderias 0.25 a 1.50
+
+17.- Parianes 2.50 a 15.00
+
+18.- Pizzerías 0.50 a 1.50
+
+19.- Restaurante clasificación "A" 0.50 a 1.50
+
+20.- Restaurante clasificación "B" 0.50 a 1.50
+
+21.- Restaurnate (sic) clasificación "C" 0.50 a 1.50
+
+22.- Restaurante-Bar 0.50 a 2.50
+
+23.- Rosticerías 0.50 a 1.50
+
+24.- Taquerías 0.50 a 1.50
+
+25.- Tienda de abarrotes con venta
+
+de cerveza 0.25 a 1.50
+
+26.- Tienda de autoservicio y departamentales
+
+con venta de cerveza, vinos y licores 0.50 a 1.50
+
+27.- Tiendas departamentales 1.50 a 5.00
+
+28.- Otros giros no especificados 0.25 a 15.00
+
+e).- Por autorización de:
+
+CAMBIO DE DOMICILIO:
+
+1.- Agencias 50.00 a 80.00
+
+2.- Bares 25.00 a 60.00
+
+3.- Birrierías 2.00 a 5.00
+
+4.- Cabaretes 100.00 a 150.00
+
+5.- Casinos y similares 120.00
+
+6.- Cenadurías 2.00 a 5.00
+
+7.- Centro botanero 25.00 a 60.00
+
+8.- Centros nocturnos 100.00 a 240.00
+
+9.- Clubes sociales 5.00 a 50.00
+
+10.- Depósitos de cerveza 5.00 a 10.00
+
+11.- Depósito de cerveza, vinos y licores 15.00 a 35.00
+
+12.- Discotecas 100.00
+
+13.- Hoteles y moteles 25.00 a 50.00
+
+14.- Locales para fiesta tipo "A" 90.00
+
+15.- Locales para fiesta tipo "B" 50.00
+
+16.- Locales para fiesta tipo "C" 20.00
+
+17.- Marisquerías 2.00 a 10.00
+
+18.- Menuderías 2.00 a 10.00
+
+19.- Parianes 60.00
+
+20.- Pizzerías 20.00 a 36.00
+
+21.- Restaurante clasificación "A" 35.00 a 60.00
+
+22.- Restaurante clasificación "B" 40.00 a 42.00
+
+23.- Restaurante clasificación "C" 10.00 a 15.00
+
+24.- Restaurante-Bar 15.00 a 30.00
+
+25.- Rosticerías 5.00 a 18.00
+
+26.- Taquerías 2.00 a 5.00
+
+27.- Tienda de abarrotes con venta
+
+de cerveza 3.00 a 8.00
+
+28- Tienda de autoservicio con venta
+
+de cerveza, vinos y Licores 10.00 a 20.00
+
+29.- Tiendas departamentales 125.00
+
+30.- Otros giros no especificados 2.00 a 240.00
+
+En zona rural, por cada uno:
+
+1.- Tienda de abarrotes con venta de
+
+cerveza y mezcal 5.00
+
+2.- Autoservicio 10.00
+
+3.- Cenadurías 5.00
+
+4.- Taquerías 3.00
+
+5.- Salón para fiestas 15.00
+
+6.- Ramadas 10.00
 
 CAMBIO DE PROPIETARIO
 
@@ -2043,7 +2201,7 @@ a).- Certificaciones de documentos
 
 catastrales 1.80
 
-b) Certificación catastral de un predio
+b).- Certificación catastral de un predio
 
 para tramitar juicio a favor del poseedor 9.00
 
@@ -2695,6 +2853,10 @@ Los servicios públicos que de conformidad con la Ley del Municipio Libre del Es
 
 Son productos los ingresos que perciba el municipio por actividades que no corresponden al desarrollo de sus funciones propias de derecho público o por la explotación de sus bienes patrimoniales.
 
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+El importe de los ingresos por concepto de productos que se señale en los siguientes capítulos deberá ser cubierto en la Tesorería Municipal o en el lugar que ésta designe. También se efectuará en las oficinas o módulos de atención automatizados, permanentes o temporales, establecidos fuera de las instalaciones de la Tesorería. Para determinar el pago por concepto de productos se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
+
 ### CAPITULO III. RENDIMIENTOS FINANCIEROS DE CAPITAL Y VALORES
 
 ###### ARTICULO 108.
@@ -2951,6 +3113,14 @@ XII. Otros no especificados.
 
 Las multas de orden administrativo que en uso de sus facultades imponga la autoridad municipal, serán aplicadas conforme a los ordenamientos correspondientes.
 
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+El importe de los ingresos por concepto de multas deberá ser cubierto en la Tesorería Municipal o en el lugar que ésta designe. También se efectuará en las oficinas o módulos de atención automatizados, permanentes o temporales, establecidos fuera de las instalaciones de la Tesorería.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
+
+Para determinar el pago por concepto de multas se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
+
 ## TITULO SEPTIMO. DE LAS PARTICIPACIONES FEDERALES
 
 ### CAPITULO UNICO
@@ -3040,3 +3210,7 @@ P.O. 31 DE DICIEMBRE DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día 1° de enero del año 2004, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
