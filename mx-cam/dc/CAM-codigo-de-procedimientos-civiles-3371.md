@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "1975-06-17"
+last_updated: "1975-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1975.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -4443,7 +4443,9 @@ Quedan exceptuados de embargo:
 
 I.- Los bienes que constituyen el patrimonio de familia desde su inscripción en el Registro Público de la Propiedad en los términos establecidos por el Código Civil;
 
-II.- El lecho cotidiano, los vestidos y los muebles del uso ordinario del deudor, de su mujer o de sus hijos, no siendo de lujo, a juicio del juez;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1975)</small>
+
+II.- El lecho cotidiano, los vestidos y los muebles del uso ordinario del deudor, de su cónyuge o de sus hijos, no siendo de lujo, a juicio del juez;
 
 III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
 
@@ -5457,7 +5459,7 @@ La junta se verificará dentro de los ocho días siguientes a la citación, si l
 
 ###### Art. 1105.
 
-Si la mayoría recidiere fuera de lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias.
+Si la mayoría residiere fuera de lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias.
 
 ###### Art. 1106.
 
@@ -6491,9 +6493,11 @@ Cuando ambos cónyuges convengan en la disolución de su matrimonio, conforme al
 
 El juez competente para decretar la disolución del matrimonio por mutuo consentimiento, es el del domicilio de cualquiera de los cónyuges, o aquél a quien los interesados se sometan expresamente.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1975)</small>
+
 ###### Art. 1320.
 
-Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta, que se efectuará después de los ocho y antes de los quince días siguientes y si asistieren los interesados los exhortará para procurar su reconciliación. Si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores e incapacitados y de la mujer y a los alimentos de aquellos y de los que un cónyuge debe dar al otro mientras dura el procedimiento, dictando las medidas necesarias de aseguramiento.
+Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta en la que se identificarán plenamente, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación; si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquellos y de los que un cónyuge debe dar al otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
 
 ###### Art. 1321.
 
@@ -6585,9 +6589,11 @@ Verificado el depósito en el caso de los artículos que preceden, se hará sabe
 
 Inmediatamente que tuviere noticia el juez de que algún huérfano, menor e incapacitado se haya en el caso de que trata la fracción II del artículo 1329, procederá a depositarlo donde y como estime conveniente, adoptando respecto de sus bienes las precauciones oportunas para evitar abusos de todo género, y disponiendo que se provea al interesado de tutor conforme a derecho.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1975)</small>
+
 ###### Art. 1339.
 
-La mujer menor de edad que trate de contraer matrimonio contra la voluntad de los que deban otorgar su consentimiento para celebrarlo, puede solicitar su depósito, que se decretará sin formalidades de ninguna clase, bastando hacer constar, en las actas que al efecto se extiendan, las diligencias que se practiquen.
+El menor de edad que trate de contraer matrimonio contra la voluntad de los que deban otorgar su consentimiento para celebrarlo, puede solicitar su depósito que se decretará sin formalidades de ninguna clase, bastando hacer constar, en las actas que al efecto se extiendan, las diligencias que se practiquen.
 
 ###### Art. 1340.
 
@@ -6595,15 +6601,19 @@ El depósito cesará:
 
 I.- Si se denegare la licencia para el matrimonio por la autoridad correspondiente;
 
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1975)</small>
+
 II.- Si el interesado desiste de sus pretensiones.
 
 ###### Art. 1341.
 
 Se tramitará en forma de incidente, que habrá de seguirse en todo caso con el Ministerio Público, la calificación de la excusa de la patria potestad, en los casos a que se refiere el artículo 462 del Código Civil.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1975)</small>
+
 ###### Art. 1342.
 
-Para otorgar el permiso que solicite la mujer casada a fin de contratar con su marido, o para obligarse solidariamente con él, o para ser su fiadora, deberá demostrarse, a juicio del juez, que la celebración del acto por el cual se obliga la mujer, conviene a sus intereses.
+El permiso para que los cónyuges celebren contratos entre ellos o para obligarse solidariamente a ser fiador uno del otro, en los casos del artículo 186 del Código Civil, se tramitará también como dispone el artículo anterior.
 
 ###### Art. 1343.
 
@@ -6615,7 +6625,7 @@ Las informaciones para obtener dispensa de ley se recibirán oyendo al Ministeri
 
 ###### Art. 1345.
 
-Cuando se pida al juez que supla el consentimiento de los ascendientes o tutores para contraer matrimonio, deberá acreditarse que no existe ninguna de las personas que conforme al Código Civil deben prestar su consentimiento, o que éstas se hallan en lugares lejanos y no sea posible obtener su respuesta en el plazo de sesenta días, o que se ignora su paradero. El juez, oyendo al Ministerio Público, otorgará la licencia si no hubiere obstáculo que legalmente impida el matrimonio.
+Cuando se pida al juez que supla el consentimiento de los ascendientes o tutores para contraer matrimonio, deberá acreditarse que no existe ninguna de las personas que conforme al Código Civil deben prestar su consentimiento, o que éstas se hayan en lugares lejanos y no sea posible obtener su respuesta en el plazo de sesenta días, o que se ignora su paradero. El juez, oyendo al Ministerio Público, otorgará la licencia si no hubiere obstáculo que legalmente impida el matrimonio.
 
 Si antes de celebrarse éste se presentare el ascendiente o tutor, el juez revocará la licencia.
 
@@ -6820,3 +6830,9 @@ PRIMERO.- El presente decreto iniciará su vigencia quince días después de su 
 SEGUNDO.- Los asuntos que se encuentren en trámite ante los juzgados de Primera Instancia de lo Civil y que de acuerdo con las presentes reformas, su conocimiento sea de la competencia de los juzgados de paz, continuarán tramitándose ante aquéllos hasta su terminación.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan a las presentes reformas.
+
+P.O. 24 DE JUNIO DE 1975.
+
+PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales que se opongan a las presentes reformas.
