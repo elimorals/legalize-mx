@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-plenario-numero-6-1998-de-la-suprema-corte-de-41030"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-11-17"
-last_updated: "2000-01-28"
+last_updated: "2002-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41030&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1998-11-10"
 
 ACUERDO GENERAL 6/1998, DEL TRIBUNAL PLENO DEL DIA NUEVE DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y OCHO RELATIVO AL TRAMITE DE LOS INCIDENTES DE INEJECUCION, LAS INCONFORMIDADES Y LAS DENUNCIAS DE REPETICION DEL ACTO RECLAMADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE ENERO DE 2002.
 
-Acuerdo publicado en el Diario Oficial de la Federacion, el martes 17 de noviembre de 1998 y en el Semanario Judicial de la Federación y su Gaceta, Tomo VIII, Noviembre de 1998, página 623.
+Acuerdo publicado en el Diario Oficial de la Federacion, el martes 17 de noviembre de 1998.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
 
@@ -71,15 +71,13 @@ SEXTO.-Mensualmente, la Subsecretaría General de Acuerdos y los secretarios de 
 
 SÉPTIMO.-Los oficios de las autoridades responsables que informen a este Alto Tribunal sobre el cumplimiento de las sentencias de amparo, deberán remitirse de inmediato al Ministro ponente, por conducto del secretario de estudio y cuenta que tenga a su cargo el asunto.
 
-OCTAVO.-El secretario general de Acuerdos, cuando reciba un proyecto de resolución en el que se proponga aplicar la sanción prevista en la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, notificará por medio de oficio a las autoridades responsables contra las que se hubiese concedido el amparo, la fecha señalada para la vista del asunto.
+> <small>(REFORMADO POR EL ARTICULO UNICO DEL ACUERDO 2/2002 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. DE 31 DE ENERO DE 2002)</small>
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+OCTAVO.-Cuando la Secretaría General de Acuerdos reciba un proyecto de resolución en el que se proponga aplicar la sanción prevista en la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, de inmediato se deberá:
 
-D.O.F. DE 28 DE ENERO DE 2000.
+1. Hacer llegar a todos los señores Ministros copia del proyecto, de manera que el Tribunal Pleno pueda resolver el asunto dentro de los diez días hábiles siguientes; y
 
-PRIMERO.-Este acuerdo entrará en vigor el día de su aprobación.
-
-SEGUNDO.-Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+2. Notificar personalmente a las autoridades responsables respecto de las cuales se concedió el amparo y a quienes, de acuerdo con las propuestas del proyecto, deban tener alguna participación, con la finalidad de que en el caso de que estuviera cumplida la sentencia, procedan a acreditarlo directamente ante la Suprema Corte de Justicia de la Nación.
 
 TRANSITORIOS:
 
@@ -92,3 +90,17 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Acuerdo Plenario 6/1998 relativo al trámite de los incidentes de inejecución, las inconformidades y las denuncias de repetición del acto reclamado, fue emitido por el Tribunal Pleno en sesión privada de nueve de noviembre de mil novecientos noventa y ocho, por unanimidad de nueve votos de los señores Ministros: presidente en funciones Juventino V. Castro y Castro, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juan Díaz Romero, Genaro David Góngora Pimentel, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga María Sánchez Cordero y Juan N. Silva Meza.-México, Distrito Federal, a diez de noviembre de mil novecientos noventa y ocho (D.O.F. DE 17 DE NOVIEMBRE DE 1998).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. DE 28 DE ENERO DE 2000.
+
+PRIMERO.-Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. DE 31 DE ENERO DE 2002.
+
+PRIMERO.-Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.-Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
