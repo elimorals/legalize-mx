@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2002-10-03"
+last_updated: "2003-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-> <small>N. DE E. PARA LA ENTRADA EN VIGOR DEL PRESENTE CODIGO, REMITASE A LOS ARTICULOS TRANSITORIOS.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE ABRIL DE 2003.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -72,7 +70,7 @@ ARTÍCULO 6 (Principio de la jurisdiccionalidad). Sólo podrán imponerse pena o
 
 ### CAPÍTULO I. APLICACIÓN ESPACIAL DE LA LEY
 
-ARTÍCULO 7 (Principio de territorialidad). Este Código se aplicará en el Distrito Federal por los delitos del fuero común que se cometan en su territorio.
+ARTÍCULO 7 ( Principio de territorialidad). Este Código se aplicará en el Distrito Federal por los delitos del fuero común que se cometan en su territorio.
 
 ARTÍCULO 8 (Principio de aplicación extraterritorial de la ley penal). Este Código se aplicará, asimismo, por los delitos cometidos en alguna entidad federativa, cuando:
 
@@ -116,11 +114,11 @@ ARTÍCULO 15 (Principio de acto). El delito sólo puede ser realizado por acció
 
 ARTÍCULO 16 (Omisión impropia o comisión por omisión). En los delitos de resultado material será atribuible el resultado típico producido a quien omita impedirlo, si éste tenía el deber jurídico de evitarlo, si:
 
-I. Es garante del bien jurídico;
+I . Es garante del bien jurídico;
 
-II. De acuerdo con las circunstancias podía evitarlo; y
+II . De acuerdo con las circunstancias podía evitarlo; y
 
-III. Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
+III . Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
 
 Es garante del bien jurídico el que:
 
@@ -364,7 +362,9 @@ ARTÍCULO 40 (Exigibilidad de la multa). La autoridad ejecutora iniciará el pro
 
 En atención a las características del caso, el juez podrá fijar plazos razonables para el pago de la multa en exhibiciones parciales. Si el sentenciado omite sin causa justificada cubrir el importe de la multa en el plazo que se haya fijado, la autoridad competente la exigirá mediante el procedimiento económico coactivo. En cualquier momento podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo prestadas en beneficio de la víctima del delito, en favor de la comunidad o el tiempo de prisión que se hubiere cumplido.
 
-ARTÍCULO 41 (Fondo para la reparación de daño). Se establecerá un Fondo para la Reparación del Daño a las Víctimas del Delito, en los términos de la legislación correspondiente.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
+
+ARTÍCULO 41 (Fondo para la Atención y Apoyo a las Víctimas del Delito). Se establecerá un Fondo para la Atención y Apoyo a las Víctimas del Delito en los términos de la legislación correspondiente.
 
 El importe de la multa y la sanción económica impuestas se destinará preferentemente a la reparación del daño ocasionado por el delito, pero si éstos se han cubierto o garantizado, su importe se entregará al Fondo para la Reparación del Daño a las Víctimas del Delito.
 
@@ -420,11 +420,15 @@ Cuando sean varios los ofendidos y no resulte posible satisfacer los derechos de
 
 En todo caso, el afectado podrá optar en cualquier momento por el ejercicio de la acción civil correspondiente.
 
-ARTÍCULO 50 (Aplicación de las garantías de la libertad caucional). Cuando el inculpado se sustraiga a la acción de la justicia, las garantías relacionadas con la libertad caucional se aplicarán de manera inmediata al Fondo para la Reparación del Daño a las Víctimas del Delito.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
+
+ARTÍCULO 50 (Aplicación de las garantías de la libertad caucional). Cuando el inculpado se sustraiga a la acción de la justicia, las garantías relacionadas con la libertad caucional se aplicarán de manera inmediata al Fondo para la Atención y Apoyo a las Víctimas del Delito.
 
 Al ordenarse que se hagan efectivas esas garantías, el Juez prevendrá a la autoridad competente que ponga su importe a disposición del Tribunal para los efectos de este artículo.
 
-ARTÍCULO 51 (Renuncia a la reparación del daño). Si el ofendido o sus derechohabientes renuncian o no cobran la reparación del daño, el importe de éste se entregará al Fondo para la Reparación del Daño a las Víctimas del Delito, en los términos de la legislación aplicable.
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+ARTÍCULO 51 (Renuncia a la Reparación del Daño). Si el ofendido o sus derechohabientes renuncian o no cobran la reparación del daño, el importe de éste se entregará al Fondo para la Atención y Apoyo a las Víctimas del Delito, en los términos de la legislación aplicable.
 
 ARTÍCULO 52 (Sanción económica). En los delitos cometidos por servidores públicos a que se refieren los Títulos Décimo Octavo y Vigésimo del Libro Segundo de este Código, la sanción económica consiste en la aplicación de hasta tres tantos del lucro obtenido y de los daños y perjuicios causados.
 
@@ -448,7 +452,9 @@ Trascurrido dicho plazo sin que sean reclamados, se le notificará por segunda o
 
 Si trascurridos seis meses desde la segunda notificación, los objetos o valores no han sido reclamados, se enajenarán en subasta pública y el producto de la venta se pondrá a disposición de quien esté facultado para recibirlo, previas las deducciones de los gastos ocasionados en los términos de las disposiciones legales aplicables.
 
-Si el facultado no se presenta a recogerlo dentro de los seis meses siguientes a la subasta, el producto de la venta se destinará al Fondo para la Reparación del Daño a las Víctimas del Delito.
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
+
+Si el facultado no se presenta a recoger el producto a que se refiere el párrafo anterior, dentro de los noventa días siguientes a la realización de la subasta, dicho producto se destinará al Fondo para la Atención y Apoyo a las Víctimas del Delito.
 
 En el caso de bienes que no se deban destruir ni se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho a recibirlo, por seis meses contados a partir de la notificación que se le haga. Si transcurrido dicho plazo no se presentare, se estará a lo previsto por el cuarto párrafo del presente artículo.
 
@@ -3080,9 +3086,9 @@ PRIMERO: Este Código, con excepción de lo señalado en estos artículos transi
 
 SEGUNDO: La Asamblea Legislativa del Distrito Federal, previa a la expedición del Nuevo Código de Procedimientos Penales para el Distrito Federal, realizará la modificación a los ordenamientos correspondientes para la adecuada aplicación de la legislación penal.
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
 
-TERCERO: La Asamblea Legislativa del Distrito Federal, expedirá la legislación que establezca el Fondo para la Reparación del Daño a la Víctima del Delito.
+TERCERO: La Asamblea Legislativa del Distrito Federal, expedirá la legislación para la Atención y Apoyo a las Víctimas del Delito y la aplicación del fondo correspondiente.
 
 CUARTO: A partir de la entrada en vigor de este Decreto, para el caso en que este Código contemple una descripción legal de una conducta delictiva que en el anterior Código Penal del Distrito Federal se contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
 
@@ -3107,3 +3113,9 @@ G.O. 3 DE OCTUBRE DE 2002.
 PRIMERO: Túrnese al ciudadano Jefe de Gobierno para su publicación y debida promulgación.
 
 SEGUNDO: El presente Decreto entrara en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 22 DE ABRIL DE 2003.
+
+Primero.- El presente Decreto entrará vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
