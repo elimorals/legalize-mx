@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1982-12-30"
+last_updated: "1984-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1984.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -172,15 +172,27 @@ Los patrones están obligados a:
 
 I.- Registrarse e inscribir a sus trabajadores en el Instituto Mexicano del Seguro Social, comunicar sus altas y bajas, las modificaciones de su salario y los demás datos que señalen esta Ley y sus reglamentos, dentro de plazos no mayores de cinco días;
 
-II.- Llevar registros de sus trabajadores, tales como nóminas y listas de raya, y conservarlos durante los cinco años siguientes a su fecha, haciendo constar en ellos los datos que exijan los reglamentos de la presente Ley;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
+II.- Llevar registros, tales como nóminas y listas de raya en las que se asiente invariablemente el número de días trabajados y los salarios percibidos por sus trabajadores, además de otros datos que exija la presente Ley y sus reglamentos. Es obligatorio conservar estos registros durante los cinco años siguientes al de su fecha;
 
 III.- Enterar al Instituto Mexicano del Seguro Social el importe de las cuotas obreropatronales;
 
 IV.- Proporcionar al Instituto los elementos necesarios para precisar la existencia, naturaleza y cuantía de las obligaciones a su cargo establecidas por esta Ley, decretos y reglamentos respectivos;
 
-V.- Facilitar las inspecciones y visitas domiciliarias que practique el Instituto, las que se sujetarán a lo establecido por esta Ley, sus reglamentos y el Código Fiscal de la Federación; y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
+V.- Permitir las inspecciones y visitas domiciliarias que practique el Instituto, las que se sujetarán a lo establecido por esta Ley, el Código Fiscal de la Federación y los reglamentos respectivos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
+V bis.- En tratándose de patrones que se dediquen en forma permanente o esporádica a la actividad de la construcción, deberán expedir y entregar a cada trabajador constancia escrita del número de días trabajados y del salario percibido, semanal o quincenalmente, conforme a los períodos de pago establecidos; en la inteligencia de que deberán cubrir las cuotas obrero-patronales, aun en el caso de que no sea posible determinar el o los trabajadores a quienes se deban aplicar, por incumplimiento de su parte de las obligaciones previstas en las fracciones anteriores, en cuyo caso su monto se destinará a los servicios sociales de beneficio colectivo previstos en el Capítulo Unico del Título Cuarto de esta Ley;
 
 VI.- Cumplir con las demás disposiciones de esta Ley y sus reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
+Las disposiciones contenidas en las fracciones I, II, III, y V bis, no son aplicables en los casos de construcción, ampliación o reparación de casas habitación, cuando los trabajos se realicen en forma personal por el propietario, o bien, por cooperación comunitaria, debiéndose comprobar este hecho a satisfacción del Instituto.
 
 ###### ARTICULO 20.
 
@@ -208,21 +220,7 @@ Las empresas industriales, comerciales o financieras, que sean parte en los cont
 
 ###### ARTICULO 25.
 
-El Instituto está facultado para:
-
-I.- Registrar a los patrones, inscribir a los trabajadores y precisar los grupos de salarios, sin previa gestión. Tal decisión no libera a los obligados de las responsabilidades y sanciones en que hubiesen incurrido;
-
-II.- Dar de baja en el régimen a los trabajadores asegurados verificada la extincion de una empresa, aun cuando el patron omitiere presentar los avisos correspondientes;
-
-III.- Establecer los procedimientos para la inscripción, cobro de cuotas y otorgamiento de prestaciones;
-
-IV.- Determinar la existencia, contenido y alcance de las obligaciones incumplidas por los patrones y demás obligados, así como estimar su cuantía, cuando no observen lo dispuesto por las fracciones I, II, IV y V del articulo 19;
-
-V.- Determinar y hacer efectivo el monto de los capitales constitutivos en los términos de esta Ley;
-
-VI.- Practicar inspecciones y visitas domiciliarias y requerir la exhibición de libros y documentos a efecto de comprobar el cumplimiento de las obligaciones legales; y
-
-VII.- Ejercer las demás atribuciones que le otorguen esta Ley y sus reglamentos.
+(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1984)
 
 ###### ARTICULO 26.
 
@@ -272,43 +270,15 @@ e) Los premios por asistencia; y
 
 f) Los pagos por tiempo extraordinario, salvo cuando este tipo de servicios esté pactado en forma de tiempo fijo.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 33.
 
-De acuerdo con el salario base de cotización que perciban los asegurados, quedarán comprendidos en alguno de los siguientes grupos:
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE 1974)</small>
-
-Salario
-
-Diario
-
-Grupo Más de Promedio Hasta
-
-M $-.- $45.00 $50.00
-
-N 50.00 60.00 70.00
-
-O 70.00 75.00 80.00
-
-P 80.00 90.00 100.00
-
-R 100.00 115.00 130.00
-
-S 130.00 150.00 170.00
-
-T 170.00 195.00 220.00
-
-U 220.00 250.00 280.00
-
-W 280.00 … …
-
-En el caso de sujetos no asalariados comprendidos en el artículo 12, la base de cotización se determinará en razón al ingreso promedio anual.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE 1974)</small>
+Los asegurados quedarán inscritos con el salario base de cotización que perciban en el momento de su afiliación, estableciéndose como límite superior el equivalente a diez veces el salario mínimo general que fija (sic) en el Distrito Federal y como límite inferior el salario mínimo regional respectivo, salvo lo dispuesto en la fracción III del artículo 35.
 
 ###### ARTICULO 34.
 
-En el caso de salarlos de $280.00 diarios en adelante, comprendidos en el grupo “W”, se establece un límite superior equivalente a diez veces el salar mínimo general que fija en el Distrito Federal.
+(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1984)
 
 ###### ARTICULO 35.
 
@@ -378,13 +348,11 @@ III.- En los casos previstos en la fracción III del Artículo 36, si se modific
 
 En todos los casos previstos en este artículo, si la modificación se origina por revisión del contrato colectivo, se comunicará al Instituto dentro de los treinta y cinco días siguientes a su otorgamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 41.
 
-Los cambios de grupo de cotización derivados de las modificaciones del salarlo señaladas en el Artículo anterior, surtirán efectos, tanto para la cotización como para las prestadores en dinero, a partir del siguiente bimestre a la fecha en que ocurrió el cambio, con excepción de las modificaciones que por Ley deben efectuarse al salario mínimo las cuales surtirán efectos a partir de la fecha en que entren en vigor.
-
-En el caso de los trabajadores inscritos en el grupo "W", el patrón estará obligado a comunicar al Instituto cualquier cambio de salario, hasta el límite superior señalado en el artículo 34, dentro de los cinco días siguientes a dicha modificación.
+Los cambios en el salario base de cotización derivados de las modificaciones señaladas en el artículo anterior, así como aquellos que por Ley deben efectuarse al salario mínimo, surtirán efectos a partir de la fecha en que ocurrió el cambio, tanto para la cotización como para las prestaciones en dinero.
 
 ###### ARTICULO 42.
 
@@ -394,23 +362,33 @@ Corresponde al patrón pagar íntegramente la cuota señalada para los trabajado
 
 En tanto el patrón no presente al Instituto el aviso de baja del trabajador, subsistirá su obligación de cubrir las cuotas obreropatronales respectivas; sin embargo, si se comprueba que dicho trabajador fue inscrito por otro patrón, el Instituto devolverá al patrón omiso, a su solicitud, el importe de las cuotas obreropatronales pagadas en exceso.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 44.
 
-El patrón al efectuar el pago de salarios a sus trabajadores, podrá descontar las cuotas que a éstos corresponde cubrir. Cuando no lo haga en tiempo oportuno, sólo podrá descontar al trabajador cuatro cotizaciones semanales acumuladas, quedando las restantes a su cargo.
+El patrón al efectuar el pago de salarios a sus trabajadores, podrá retener las cuotas que a éstos les corresponde cubrir.
 
-El patrón será depositario de las cuotas que descuente a sus trabajadores y deberá enterarlas al Instituto en los términos señalados por esta Ley y sus reglamentos.
+Cuando no lo haga en tiempo oportuno, sólo podrá descontar al trabajador cuatro cotizaciones semanales acumuladas, quedando las restantes a su cargo.
+
+El patrón tendrá el carácter de retenedor de las cuotas que descuente a sus trabajadores y deberá enterarlas al Instituto en los términos señalados por esta Ley y sus reglamentos.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 45.
 
-Si el patrón no cumple con la obligación de comunicar los avisos de alta, reingresos y cambios de grupos de salarios de cotización, en los términos previstos por esta Ley y sus reglamentos, el Instituto al formular la liquidación de adeudo está facultado para aplicar los datos que tuviere en su poder sobre esos movimientos, o los que de acuerdo con sus experiencias considera como probables.
+El pago de las cuotas obrero patronales será por bimestres vencidos, a más tardar el día quince de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+Los patrones y demás sujetos obligados, efectuarán enteros provisionales a cuenta de las cuotas bimestrales a más tardar el día quince de cada uno de los meses de febrero, abril, junio, agosto, octubre y diciembre de cada año. El entero provisional de que se trate, será el equivalente al cincuenta por ciento del monto de las cuotas obrero patronales correspondientes al bimestre inmediato anterior.
+
+Tratándose de iniciación de actividades, la obligación de efectuar el entero de pagos provisionales se diferirá al bimestre siguiente a aquél dentro del cual se haya dado dicho supuesto. Los capitales constitutivos deberán pagarse al Instituto en un término no mayor de quince días contados a partir de aquel día en que se haya hecho la notificación del monto de los mismos.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 46.
 
-Cuando no se entreguen las cuotas o los capitales constitutivos dentro del plazo señalado en las disposiciones respectivas, el patrón cubrirá a partir de la fecha en que los créditos se hicieren exigibles, los recargos correspondientes en los términos del artículo 22 del Código Fiscal de la Federación, sin perjuicio de las sanciones que procedan.
+Cuando no se enteren las cuotas, los enteros provisionales o los capitales constitutivos dentro del plazo señalado en las disposiciones respectivas, el patrón cubrirá a partir de la fecha en que los créditos se hicieren exigibles, los recargos moratorios correspondientes en los términos del Código Fiscal de la Federación, sin perjuicio de las sanciones que procedan.
 
-El Instituto podrá conceder prorroga para el pago de los créditos derivados de cuotas o de capitales constitutivos. Durante los plazos concedidos se causaran recargos conforme a lo establecido en el artículo 20 del Código Fiscal de la Federación.
+El Instituto podrá conceder prórroga para el pago de los créditos derivados de cuotas o de capitales constitutivos. Durante los plazos concedidos se causarán recargos conforme a lo establecido para este supuesto en el propio Código Fiscal de la Federación.
 
 ###### ARTICULO 47.
 
@@ -618,7 +596,11 @@ El Instituto podrá celebrar convenios con los patrones para el efecto de facili
 
 Si el riesgo de trabajo trae como consecuencia la muerte del asegurado, el Instituto otorgará a las personas señaladas en este precepto las siguientes prestaciones:
 
-I.- El pago de una cantidad igual a dos meses del salario promedio del grupo de cotización correspondiente al asegurado en la fecha de su fallecimiento. Este pago se hará a la persona, preferentemente familiar del asegurado, que presente copia del acta de defunción y la cuenta original de los gastos de funeral. En ningún caso esta prestación será inferior a $1,500.00, ni excederá de la cantidad de $12,000.00;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
+I.- El pago de una cantidad igual a dos meses del salario mínimo general que rija en el Distrito Federal en la fecha de fallecimiento del asegurado.
+
+Este pago se hará a la persona preferentemente familiar del asegurado, que presente copia del acta de defunción y la cuenta original de los gastos de funeral;
 
 II.- A la viuda del asegurado se le otorgará una pensión equivalente al cuarenta por ciento de la que hubiese correspondido a aquél, tratándose de incapacidad permanente total. La misma pensión corresponde al viudo que estando totalmente incapacitado, hubiera dependido económicamente de la asegurada;
 
@@ -694,11 +676,283 @@ Las prestaciones del Seguro de Riesgos de Trabajo, inclusive los capitales const
 
 Las cuotas que por el seguro de Riesgos de Trabajo deban pagar los patrones, se determinarán en relación con la cuantía de la cuota obreropatronal que la propia empresa entere por el mismo período, en el ramo de Invalidez, vejez, cesantía en edad avanzada y muerte, y con los riesgos inherentes a la actividad de la negociación de que se trate, en los términos que establezca el reglamento relativo.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 79.
 
-Para los efectos de la fijación de las cuotas del seguro de Riegos de Trabajo, las empresas serán clasificadas y agrupadas de acuerdo con su actividad, en clases, cuyos grados de riesgo mínimo, medio y máximo y las primas que correspondan se expresarán en el reglamento correspondiente, conforme a las reglas que se determinan en el presente capítulo.
+Para los efectos de la fijación de las primas a cubrir por el seguro de riesgos de trabajo, las empresas serán clasificadas y agrupadas de acuerdo con su actividad, en clases, cuyos grados de riesgo se señalan para cada una de las clases que a continuación también se relacionan:
 
-Al inscribirse por primera vez en el Instituto o al cambiar de clase por modificación en sus actividades, las empresas invariablemente serán colocadas en el grado medio de la clase que les corresponda y con apego a dicho grado pagarán la prima del seguro de Riesgos de Trabajo.
+Producto de
+
+los índices de Primas en por cientos
+
+Grado frecuencia y grave
+
+de dad por un Inferiores Grado Superiores
+
+Riesgo millón al medio medio al medio
+
+CLASE I
+
+1 454 1.67
+
+2 770 3.33
+
+3 1 086 5.00
+
+4 1 368 6.67
+
+5 757 8.33
+
+CLASE II
+
+4 1 368 6.67
+
+5 1 757 8.33
+
+6 2 146 10.00
+
+7 2 535 11.67
+
+8 2 924 13.33
+
+9 3 302 15.00
+
+10 3 667 16.67
+
+11 4 032 18.33
+
+12 4 397 20.00
+
+13 4 762 21.67
+
+14 5 127 23.33
+
+CLASE III
+
+11 4 032 18.33
+
+12 4 397 20.00
+
+13 4 762 21.67
+
+14 5 127 23.33
+
+15 5 676 25.00
+
+16 6 073 26.67
+
+17 6 470 28.33
+
+18 6 867 30.00
+
+19 7 264 31.67
+
+20 7 661 33.33
+
+21 8 058 35.00
+
+22 8 455 36.67
+
+23 8 852 38.33
+
+24 9 226 40.00
+
+25 9 583 41.67
+
+26 9 940 43.33
+
+27 10 297 45.00
+
+28 10 654 46.67
+
+29 11 011 48.33
+
+30 11 368 50.00
+
+31 11 725 51.67
+
+32 12 082 53.33
+
+33 12 439 55.00
+
+34 12 796 56.67
+
+35 13 153 58.33
+
+36 13 510 60.00
+
+37 13 867 61.67
+
+CLASE IV
+
+30 11 368 50.00
+
+31 11 725 51.67
+
+32 12 082 53.33
+
+33 12 439 55.00
+
+34 12 796 56.67
+
+35 13 153 58.33
+
+36 13 510 60.00
+
+37 13 867 61.67
+
+38 14 204 63.33
+
+39 14 540 65.00
+
+40 14 876 66.67
+
+41 15 212 68.33
+
+42 15 548 70.00
+
+43 15 884 71.67
+
+44 16 220 73.33
+
+45 16 552 75.00
+
+46 16 940 76.67
+
+47 17 328 78.33
+
+48 17 716 80.00
+
+49 18 104 81.67
+
+50 18 207 83.33
+
+51 18 565 85.00
+
+52 18 923 86.67
+
+53 19 281 88.33
+
+54 19 639 90.00
+
+55 19 997 91.67
+
+56 20 355 93.33
+
+57 20 713 95.00
+
+58 21 071 96.67
+
+59 21 429 98.33
+
+60 21 787 100.00
+
+CLASE V
+
+50 18 207 83.33
+
+51 18 565 85.00
+
+52 18 923 86.67
+
+53 19 281 88.33
+
+54 19 639 90.00
+
+55 19 997 91.67
+
+56 20 355 93.33
+
+57 20 713 95.00
+
+58 21 071 96.67
+
+59 21 429 98.33
+
+60 21 787 100.00
+
+61 22 145 101.67
+
+62 22 503 103.33
+
+63 22 861 105.00
+
+64 23 219 106.67
+
+65 23 577 108.33
+
+66 23 935 110.00
+
+67 24 293 111.67
+
+68 24 651 113.33
+
+69 25 009 115.00
+
+70 25 367 116.67
+
+71 25 725 118.33
+
+72 26 083 120.00
+
+73 26 441 121.67
+
+74 26 799 123.33
+
+75 26 810 125.00
+
+76 26 870 126.67
+
+77 27 278 128.33
+
+78 27 686 130.00
+
+79 28 094 131.67
+
+80 28 502 133.33
+
+81 28 910 135.00
+
+82 29 318 136.67
+
+83 29 726 138.33
+
+84 30 134 140.00
+
+85 30 542 141.67
+
+86 30 950 143.33
+
+87 31 358 145.00
+
+88 31 766 146.67
+
+89 32 174 148.33
+
+90 32 582 150.00
+
+91 32 990 151.67
+
+92 33 398 153.33
+
+93 33 806 155.00
+
+94 34 214 156.67
+
+95 34 622 158.33
+
+96 35 030 160.00
+
+97 35 438 161.67
+
+98 35 846 163.33
+
+99 36 254 165.00
+
+100 36 662 166.67
+
+Al inscribirse por primera vez en el Instituto o al cambiar de clase por modificación en sus actividades, las empresas invariablemente serán colocadas en el grado medio de la clase que les corresponda y con apego a dicho grado pagarán la prima del seguro de riesgos de trabajo.
 
 ###### ARTICULO 80.
 
@@ -1006,13 +1260,11 @@ El goce por parte de la asegurada del subsidio establecido en artículo 109, exi
 
 Cuando la asegurada no cumpla con lo establecido en la fracción I del artículo anterior, quedará a cargo del patrón el pago del salario íntegro.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 112.
 
-El Instituto pagará a la persona, preferentemente familiar del asegurado, que presente copia del acta de defunción y la cuenta original de los gastos de funeral, un mes del salario, promedio del grupo de cotización correspondiente, cuando el asegurado fallezca después de haber cubierto cuando menos doce cotizaciones semanales en los nueve meses anteriores al fallecimiento.
-
-En los casos de fallecimiento de los pensionados, el Instituto pagará por este concepto un mes de pensión.
-
-Esta prestación no será menor de $ 1,000.00 ni excederá de $ 6,000.00.
+Cuando fallezca un pensionado o un asegurado que tenga reconocidas cuando menos doce cotizaciones semanales en los nueve meses anteriores al fallecimiento, el Instituto pagará a la persona preferentemente familiar del asegurado o del pensionado, que presente copia del acta de defunción y la cuenta original de los gastos del funeral, una ayuda por este concepto, consistente en un mes del salario mínimo general que rija en el Distrito Federal en la fecha del fallecimiento.
 
 #### SECCION CUARTA. Del Régimen Financiero
 
@@ -1104,13 +1356,15 @@ El otorgamiento de las prestaciones establecidas en este capítulo requiere del 
 
 Para los efectos de este artículo, se considerarán como semanas de cotización las que se encuentren amparadas por certificados de incapacidad.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 123.
 
-El pago de las pensiones de invalidez, de vejez o de cesantía en edad avanzada, se suspenderá durante el tiempo que el pensionado desempeñe un trabajo comprendido en el régimen del Seguro Social.
+El pago de las pensiones de invalidez; de vejez y de cesantía en edad avanzada, se suspenderá durante el tiempo en que el pensionado desempeñe un trabajo comprendido en el régimen del Seguro Social.
 
-Cuando el pensionado reingrese a un trabajo sujeto al régimen obligatorio del Seguro Social y la suma de su pensión y su salario no sea mayor al que percibía al pensionarse, no regirá la suspensión del párrafo anterior.
+No regirá lo dispuesto en el párrafo anterior cuando el pensionado por invalidez ocupe con diverso salario un puesto distinto a aquél que desempeñaba al declararse ésta.
 
-En caso de que la suma de la pensión y el nuevo salario sea mayor al último que tuvo el pensionado, la pensión se disminuirá en la cuantía necesaria para igualar a éste.
+De igual forma no se suspenderá la pensión por vejez o cesantía en edad avanzada, cuando el pensionado reingrese a un trabajo sujeto al régimen obligatorio del Seguro Social con patrón distinto al que tenía al pensionarse y siempre y cuando hubiesen trascurrido seis meses de la fecha en que se haya otorgado la pensión.
 
 ###### ARTICULO 124.
 
@@ -1962,6 +2216,8 @@ El Instituto elaborará un balance actuarial relativo a los seguros facultativos
 
 ### CAPITULO I. De las Atribuciones, Recursos y Organos del Instituto Mexicano del Seguro Social
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 232.
 
 Los servicios sociales de beneficio colectivo a que se refiere el artículo 8o. de esta Ley, comprenden:
@@ -2032,29 +2288,49 @@ Los beneficiados por estos servicios contribuirán con aportaciones en efectivo 
 
 ###### ARTICULO 240.
 
-El Instituto Mexicano del Seguro Social tiene las atribuciones siguientes:
+El Instituto Mexicano del Seguro Social tiene las facultades y atribuciones siguientes:
 
-I.- Administrar los diversos ramos del Seguro Social y prestar los servicios de beneficio colectivo que señala esta Ley;
+l.- Administrar los diversos ramos del Seguro Social y prestar los servicios de beneficio colectivo que señala esta Ley;
 
-II.- Recaudar las cuotas y percibir los demás recursos del Instituto;
+II.- Satisfacer las prestaciones que se establecen en esta Ley;
 
-III.- Satisfacer las prestaciones que se establecen en esta Ley;
+III.- Invertir sus fondos de acuerdo con las disposiciones de esta Ley;
 
-IV.- Invertir sus fondos de acuerdo con las disposiciones de esta Ley;
+IV.- Realizar toda clase de actos jurídicos necesarios para cumplir con sus finalidades;
 
-V.- Realizar toda clase de actos jurídicos necesarios para cumplir sus finalidades;
+V.- Adquirir bienes muebles e inmuebles, para los fines que le son propios;
 
-VI.- Adquirir bienes muebles e inmuebles dentro de los límites legales;
+VI.- Establecer clínicas, hospitales, guarderías infantiles, farmacias, centros de convalecencia y vacacionales, velatorios, así como centros de capacitación, deportivos, de seguridad social para el bienestar familiar y demás establecimientos para el cumplimiento de los fines que le son propios, sin sujetarse a las condiciones salvo las sanitarias, que fijen las Leyes y reglamentos respectivos para empresas privadas, con actividades similares;
 
-VII.- Establecer clínicas, hospitales, guarderías infantiles, farmacias, centros de convalecencia y vacacionales, así como escuelas de capacitación y demás establecimientos para el cumplimiento de los fines que le son propios, sin sujetarse a las condiciones, salvo las sanitarias, que fijen las leyes y los reglamentos respectivos para empresas privadas con finalidades similares;
+VII.- Establecer y organizar sus dependencias;
 
-VIII.- Organizar sus dependencias;
+VIII.- Expedir sus reglamentos interiores;
 
 IX.- Difundir conocimientos y prácticas de previsión y seguridad social;
 
-X.- Expedir sus reglamentos interiores; y
+X.- Registrar a los patrones y demás sujetos obligados, inscribir a los trabajadores asalariados e independientes y precisar su base de cotización, aún sin previa gestión de los interesados, sin que ello libere a los obligados de las responsabilidades y sanciones por infracciones en que hubiesen incurrido;
 
-XI.- Las demás que le confieran esta Ley y sus reglamentos.
+XI.- Dar de baja del régimen a los sujetos asegurados, verificada la desaparición del presupuesto de hecho que dio origen a su aseguramiento, aún cuando el patrón o sujeto obligado hubiese omitido presentar el aviso de baja respectivo;
+
+XII.- Recaudar las cuotas, capitales constitutivos, sus accesorios y percibir los demás recursos del Instituto;
+
+XIII.- Establecer los procedimientos para la inscripción, cobro de cuotas y otorgamiento de prestaciones;
+
+XIV.- Determinar los créditos a favor del Instituto y las bases para la liquidación de cuotas y recargos, así como para fijarlos en cantidad líquida, cobrarlos y percibirlos, de conformidad con la presente Ley y demás disposiciones aplicables;
+
+XV.- Determinar la existencia, contenido y alcance de las obligaciones incumplidas por los patrones y demás sujetos obligados en los términos de esta Ley y demás disposiciones relativas, aplicando en su caso, los datos con los que cuente o los que de acuerdo con sus experiencias considere como probables;
+
+XVI.- Ratificar, rectificar y cambiar la clasificación y el grado de riesgo de las empresas para efectos de la cobertura de las cuotas del seguro de riesgos de trabajo;
+
+XVII.- Determinar y hacer efectivo el monto de los capitales constitutivos en los términos de esta Ley;
+
+XVIII.- Ordenar y practicar inspecciones domiciliarias con el personal que al efecto se designe y requerir la exhibición de libros y documentos a fin de comprobar el cumplimiento de las obligaciones que establece la Ley del Seguro Social y demás disposiciones aplicables;
+
+XIX.- Ordenar y practicar las investigaciones correspondientes en los casos de sustitución patronal y emitir los dictámenes respectivos;
+
+XX.- Establecer coordinación con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, para el cumplimiento de sus objetivos; y
+
+XXI.- Las demás que le otorguen esta Ley, sus reglamentos y cualesquier otra disposición aplicable.
 
 ###### ARTICULO 241.
 
@@ -2158,13 +2434,17 @@ I.- Decidir sobre las inversiones de los fondos del Instituto, con sujeción a l
 
 II.- Resolver sobre las operaciones del Instituto, exceptuando aquellas que por su importancia ameriten acuerdo expreso de la Asamblea General, de conformidad con lo que al respecto determinen esta Ley y el reglamento;
 
-III.- Establecer y clausurar Delegaciones del Instituto;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
+III.- Establecer y suprimir Delegaciones, Subdelegaciones y Oficinas para Cobros del Instituto, señalando su circunscripción territorial;
 
 IV.- Convocar a Asamblea General ordinaria o extraordinaria;
 
 V.- Discutir y, en su caso, aprobar el presupuesto de ingresos y egresos, así como el programa de actividades que elabore la Dirección General;
 
-VI.- Expedir los Reglamentos Interiores que menciona la fracción X del artículo 240 de esta Ley;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
+VI.- Expedir los reglamentos que menciona la fracción VIII del artículo 240 de esta Ley;
 
 VII.- Conceder, rechazar y modificar pensiones, pudiendo delegar estas facultades a las dependencias competentes;
 
@@ -2173,6 +2453,10 @@ VIII.- Nombrar y remover al Secretario General, a los Subdirectores, Jefes de Se
 IX.- Extender el régimen obligatorio del Seguro Social en los términos del artículo 14 de la Ley y autorizar la iniciación de servicios;
 
 X.- Proponer al Ejecutivo Federal las modalidades al régimen obligatorio a que se refiere el artículo 16 de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
+X bis.- Establecer los procedimientos para la inscripción, cobro de cuotas y otorgamiento de prestaciones;
 
 XI.- Autorizar la celebración de convenios relativos al pago de cuotas;
 
@@ -2238,6 +2522,70 @@ IX.- Las demás que señalen las disposiciones de esta Ley y sus reglamentos.
 
 El Director General tendrá derecho de veto sobre las resoluciones del Consejo Técnico, en los casos que fije el reglamento. El efecto del veto será suspender la aplicación de la resolución del Consejo, hasta que resuelva en definitiva la Asamblea General.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
+ARTICULO 258 A.- Los Consejos Consultivos Delegacionales estarán integrados por el Delegado que fungirá como presidente del mismo; un representante del gobierno de la entidad federativa sede de la Delegación; dos del sector obrero y dos del sector patronal, con sus respectivos suplentes. En el caso de las Delegaciones del Valle de México la representación del Gobierno se integrará con el titular de la Delegación respectiva. El Consejo Técnico podrá ampliar la representación de los sectores cuando lo considere conveniente.
+
+Los integrantes del Consejo Consultivo Delegacional representativos de los sectores permanecerán en su cargo seis años. Las organizaciones que los hubiesen designado, tendrán derecho a removerlos libremente.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
+ARTICULO 258 B.- Las facultades de los Consejos Consultivos Delegacionales del Instituto, son:
+
+I.- Vigilar el funcionamiento de los servicios del Seguro Social en la circunscripción de la Delegación y sugerir las medidas conducentes al mejor funcionamiento de los servicios médicos, técnicos, administrativos y sociales a cargo de la misma;
+
+II.- Opinar en todo aquello en que el Delegado o cualesquiera de los órganos del Instituto en este nivel, sometan a su consideración;
+
+III.- Ser el portavoz autorizado de la Delegacion ante los sectores representados y de éstos ante la Delegación, a fin de lograr las mejores relaciones y la colaboración de los sectores en las labores y servicios que el Instituto tiene a su cargo;
+
+IV.- Ventilar y resolver en el ámbito de la circunscripción territorial de la Delegación, el recurso de inconformidad establecido en el Artículo 274, en los términos autorizados por el Consejo Técnico; y
+
+V.- Las demás que le señalen el Consejo Técnico y la Dirección General.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
+ARTICULO 258 C.- Los Delegados del Instituto tendrán las facultades y atribuciones siguientes:
+
+I.- Presidir las sesiones del Consejo Consultivo Delegacional;
+
+II.- Autorizar las actas de las sesiones celebradas con el Consejo Consultivo Delegacional y vetar los acuerdos de éste cuando no observen lo dispuesto por la Ley del Seguro Social, sus reglamentos y demás disposiciones legales, no se ajusten a los criterios del Consejo Técnico o a las políticas institucionales;
+
+III.- Ejecutar los acuerdos y resoluciones emitidas por el Consejo Técnico, la Dirección General y los Consejos Consultivos Delegacionales;
+
+IV.- Conceder, rechazar y modificar pensiones que se deriven de los diversos ramos del Seguro Social;
+
+V.- Recibir los escritos de inconformidad y turnarlos al Consejo Consultivo Delegacional, con los antecedentes y documentos del caso, para su resolución;
+
+VI.- Autorizar las certificaciones que expida la Delegación;
+
+VII.- Ejercer en el ámbito de la circunscripción territorial de la Delegación, las facultades previstas en las fracciones X, XI, XII, XIV, XV, XVI, XVII, XVIII, XIX y XX del artículo 240. de esta Ley; y
+
+VIII.- Las demás que señalen esta Ley, sus reglamentos y demás disposiciones legales.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
+ARTICULO 258 D.- Los Subdelegados del Instituto, tendrán las siguientes facultades y atribuciones:
+
+I.- Ejecutar los acuerdos y resoluciones emitidas por el Consejo Técnico, la Dirección General, el Consejo Consultivo Delegacional y la Delegación;
+
+II.- Recibir los escritos de inconformidad y turnarlos a la Delegación con los antecedentes y documentos del caso, para su resolución por el Consejo Consultivo Delegacional;
+
+III.- Ejercer en el ámbito de la circunscripción territorial de la Subdelegación, las facultades previstas en las fracciones X, XII, XIV, XV y XVIII del artículo 240 de esta Ley; y
+
+IV.- Las demás que señalen esta Ley, sus reglamentos y demás disposiciones legales.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
+ARTICULO 258 E.- Los Jefes de las oficinas para cobros del Instituto Mexicano del Seguro Social, tendrán las siguientes facultades y atribuciones:
+
+I.- Hacer efectivos dentro del ámbito de su circunscripción territorial, los créditos a favor del Instituto por concepto de cuotas, capitales constitutivos y accesorios legales;
+
+II.- Aplicar el procedimiento administrativo de ejecución en los términos del Código Fiscal de la Federación;
+
+III.- Ventilar y resolver los recursos previstos en el Código Fiscal de la Federación relativos al procedimiento administrativo de ejecución que lleven a cabo; y
+
+IV.- Las demás que señalen esta Ley, sus reglamentos y demás disposiciones legales.
+
 ### CAPITULO I. Generalidades
 
 ### CAPITULO II. De los Procedimientos
@@ -2297,6 +2645,8 @@ Por excepción podrá invertirse en acciones de sociedades cuyo objeto tenga ín
 ## TITULO SEXTO. De los Procedimientos y de la Prescripción
 
 ### CAPITULO III. De la Prescripción
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 267.
 
@@ -2360,7 +2710,9 @@ Las controversias entre los asegurados o sus beneficiarios y el Instituto, sobre
 
 ###### ARTICULO 276.
 
-El derecho del Instituto a fijar en cantidad líquida los créditos a su favor, se extingue en el término de cinco años, no sujeto a interrupción ni suspensión, contado a partir de la fecha de la presentación por el patrón del aviso o liquidación o de aquella en que el propio Instituto tenga conocimiento del hecho generador de la obligación.
+El derecho del Instituto a fijar en cantidad líquida los créditos a su favor se extingue en el término de cinco años no sujeto a interrupción, contado a partir de la fecha de la presentación por el patrón o por cualquier otro sujeto obligado en términos de esta Ley, del aviso o liquidación o de aquella en que el propio Instituto tenga conocimiento del hecho generador de la obligación.
+
+El plazo señalado en este artículo sólo se suspenderá cuando se interponga el recurso de inconformidad o juicio.
 
 ###### ARTICULO 277.
 
@@ -2402,13 +2754,19 @@ El Director General del Instituto, los consejeros, los funcionarios y empleados,
 
 Las personas que desempeñen algún cargo en el Instituto aún en comisión por tiempo limitado, quedarán sujetas a lo dispuesto por los artículos 210 a 224 del Código Penal para el Distrito Federal en sus respectivos casos, salvo las que se encuentren comprendidas en el artículo 111 de la Ley de Responsabilidades de los funcionarios y Empleados de la Federación.
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
+
 ###### ARTICULO 283.
 
-Los actos u omisiones que en perjuicio de sus trabajadores o del Instituto cometan los patrones y demás personas obligadas en los términos de esta Ley, se castigarán con multa de $200.00 a $5,000.00. Estas sanciones serán impuestas por la Secretaría del Trabajo y Previsión Social, en los términos del Reglamento correspondiente.
+Los actos u omisiones que en perjuicio de sus trabajadores o del Instituto realicen los patrones y demás sujetos obligados en los términos de esta Ley, se sancionarán con multa de tres hasta trescientas cincuenta veces el importe del salario mínimo general que rija en el Distrito Federal. Estas sanciones serán impuestas por la Secretaría del Trabajo y Previsión Social, en los términos del reglamento correspondiente.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 284.
 
-Los patrones que oculten datos o que en virtud de informaciones falsas, evadan el pago de las cuotas obreropatronales que les corresponda pagar, o las paguen en una cuantía inferior a la debida, incurrirán en la sanciones establecidas en las fracciones II, IV y IX del artículo 42 del Código Fiscal de la Federación. La sanción será impuesta por la Secretaría del Trabajo y Previsión Social, sin perjuicio de que se exija al infractor el cumplimiento de sus obligaciones para con el Instituto.
+Cualquier conducta ilícita de los patrones que encuadre dentro de los supuestos previstos en el Código Fiscal de la Federación como delito fiscal, será sancionada en la forma y términos establecidos por dicho Código.
+
+Lo anterior, sin perjuicio de que se exija al patrón el cumplimiento de sus obligaciones para con el Instituto.
 
 ## TRANSITORIOS
 
@@ -2675,3 +3033,17 @@ D.O.F. 30 DE DICIEMBRE DE 1982.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 1984.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día veintinueve de diciembre de mil novecientos ochenta y cuatro.
+
+###### ARTICULO SEGUNDO.
+
+Para efectuar el primer entero provisional a que se refiere el artículo 45, los patrones y demás sujetos obligados lo harán sobre una base equivalente al 50% del monto de las cuotas obrero patronales correspondientes al sexto bimestre de 1984.
+
+###### ARTICULO TERCERO.
+
+Continuarán vigentes todas las disposiciones reglamentarias que no se opongan a lo dispuesto en el presente Decreto, en tanto se expiden los nuevos reglamentos.
