@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2001-07-25"
+last_updated: "2001-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2001.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -799,7 +799,7 @@ El cargo de Gobernador Constitucional del Estado solo es renunciable por causa g
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 51.
 
@@ -913,7 +913,7 @@ Los titulares de las Dependencias son responsables por el despacho de los asunto
 
 ###### ARTICULO 55.
 
-Se deposita el ejercicio del Poder Judicial del Estado, en un Tribunal Superior de Justicia, en el Consejo de la Judicatura, en Juzgados de Primera Instancia, en Juzgados de Paz y Arbitros, que administrarán de acuerdo con el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, justicia expedita y gratuita en los términos que fijen las leyes.
+Se deposita el ejercicio del Poder Judicial del Estado, en un Tribunal Superior de Justicia, en un Consejo de la Judicatura, en Juzgados de Primera Instancia, y en Juzgados de Paz, que administrarán de acuerdo con el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, justicia expedita y gratuita en los términos que fijen las leyes.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2000)</small>
 
@@ -927,11 +927,43 @@ En los términos que la Ley disponga, las sesiones del Pleno y de las Salas ser�
 
 Los Magistrados Numerarios serán nombrados en los términos del Artículo 56 de la Constitución Política Local y los Supernumerarios por el Pleno del propio Tribunal.
 
-(REFORMADO, P.O. 27 DE FEBRERO DE 1982) (F. DE E., P.O. 27 DE MARZO DE 1982)
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
+
+La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Tribunal Superior de Justicia, estarán a cargo del Consejo de la Judicatura, en los términos que establezcan las leyes secundarias conforme a las bases que señala esta Constitución. El Consejo de la Judicatura determinará la división del Estado en distritos judiciales, el número de éstos, su competencia territorial y, en su caso, la especialización por materia de los Juzgados de Primera Instancia y de los Juzgados de Paz.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 55 Bis.
+
+El Consejo de la Judicatura como órgano integrante del Poder Judicial del Estado, tendrá autonomía técnica, de gestión y de resolución, en el ámbito de su competencia. Contará en su estructura administrativa, para el cumplimiento de sus atribuciones, con las unidades de apoyo que requiera y las que se determinen en la Ley Orgánica.
+
+El Consejo, se integrará por siete miembros de los cuales, uno lo será el presidente del Tribunal Superior de Justicia, quien lo presidirá; dos Magistrados Numerarios nombrados por el Pleno del Tribunal Superior de Justicia mediante votación secreta; un Juez de Primera Instancia y un Juez de Paz, designados por elección directa y secreta, entre ellos mismos, conforme el listado que formulará el Pleno del Tribunal Superior de Justicia de aquellos jueces que hubieren sido ratificados en sus cargos; un consejero propuesto por el gobernador del Estado, y ratificado por el Congreso; y un consejero designado por éste, ambos por las dos terceras partes de los diputados presentes; quienes deberán satisfacer los mismos requisitos que se exigen para ser Magistrado.
+
+Los miembros del Consejo de la Judicatura no desempeñarán la función jurisdiccional, con excepción del presidente que integrará Pleno. Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
+
+El Consejo de la Judicatura funcionará en Pleno o en comisiones. En el primer caso, resolverá sobre la designación, adscripción, ratificación, licencias, renuncias y remoción de Jueces de Primera Instancia y de Paz, así como de los servidores públicos auxiliares de la función jurisdiccional. En el segundo supuesto, resolverá lo relativo al personal que desempeñe tareas administrativas o de apoyo. Los Consejeros a excepción del presidente, durarán en su cargo cinco años, pudiendo ser reelectos, de acuerdo a lo establecido en la ley secundaria.
+
+De conformidad con lo que establezca la ley, y sin perjuicio de las atribuciones jurisdiccionales del Pleno del Tribunal Superior de Justicia, el Consejo estará facultado para expedir acuerdos generales que sean necesarios para el debido ejercicio de sus funciones administrativas, incluyendo las relativas a la carrera judicial; estos podrán ser revisados por el Pleno del Tribunal Superior de Justicia y, en su caso, revocar los que el Consejo apruebe, por mayoría calificada de las dos terceras partes de sus integrantes de número. La ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
+
+Las decisiones del Consejo de la Judicatura, en la esfera exclusiva de su competencia, serán definitivas e inatacables y, por lo tanto, no procede juicio o recurso alguno, en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación y remoción de los Jueces de Primera Instancia y de Paz, las cuales podrán ser revisadas por el Pleno del Tribunal Superior de Justicia, únicamente, para verificar que fueron emitidas conforme a las reglas que establezca la ley respectiva.
+
+El Magistrado Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura, previo conocimiento de los integrantes de éste, habrá de elaborar y presentar a la consideración del Pleno de dicho Tribunal, el presupuesto del Poder Judicial del Estado, el cual una vez autorizado, en su proyección, será remitido al titular del Poder Ejecutivo para su inclusión en el proyecto del presupuesto general de egresos del Estado, que será sometido a la aprobación del Congreso. La ley determinará lo concerniente a la correcta administración y ejercicio de los recursos asignados a los órganos que conforman el Poder Judicial de la Entidad.
+
+El Poder Judicial administrará con autonomía su presupuesto y destinará, en renglones separados, los recursos para el Tribunal Superior de Justicia, Consejo de la Judicatura, Juzgados y demás órganos que lo integran, debiendo su Magistrado Presidente rendir informe anual ante el Congreso del Estado, acerca de su ejercicio.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 56.
 
-El Gobernador del Estado nombrará directamente a los Magistrados Numerarios del Tribunal Superior de Justicia, cuyos nombramientos serán sometidos a la aprobación del Congreso o de la Comisión Permanente, que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si el Congreso no resolviera dentro de dicho término, se tendrá por aprobado los nombramientos. En caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercero que surtirá sus efectos, desde luego, como provisional y que será sometido a la aprobación del Congreso en el siguiente periodo de sesiones dentro de los primeros diez días de ese periodo. El Congreso deberá aprobar o rechazar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, el Magistrado provisional cesará en sus funciones y el Gobernador someterá un nuevo nombramiento al Congreso, en los términos indicados.
+Los Magistrados Numerarios del Tribunal Superior de Justicia, conforme las necesidades de administración en el ramo, se elegirán en la forma siguiente:
+
+El Consejo de la Judicatura, encabezado por el Presidente del Tribunal Superior de Justicia, siguiendo el procedimiento de selección que su propia Ley Orgánica establezca, propondrá cinco candidatos al titular del Poder Ejecutivo del Estado, quien de entre ellos, formulará una terna la cual enviará al Congreso, para que previa comparecencia de estos ante la comisión correspondiente, designe a un Magistrado con la aprobación de las dos terceras partes de los diputados presentes.
+
+En un término de quince días hábiles, el Congreso deberá resolver y elegir entre los propuestos de la terna y lo comunicará al Consejo de la Judicatura. De no hacerlo, el Pleno del Tribunal Superior de Justicia, elegirá al magistrado dentro de los de la terna, por el voto de las dos terceras partes de sus integrantes de número.
+
+Los Jueces de Primera Instancia y de Paz, así como los servidores públicos que conforme las estructuras orgánicas se requieran y en términos de las previsiones presupuestales, serán nombrados y adscritos por el Consejo de la Judicatura, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezca la ley, la cual habrá de considerar el concurso de oposición y la carrera judicial.
+
+Los Jueces que en los términos de esta Constitución y de la ley en la materia fueren designados, protestaran en su orden, ante el Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -939,15 +971,33 @@ El Gobernador del Estado nombrará directamente a los Magistrados Numerarios del
 
 Para ser Magistrado del Tribunal Superior de Justicia se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2001)</small>
 
-II.- Tener treinta años de edad cumplidos, el día de la designación;
+I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos y civiles;
 
-III.- Ser abogado con título expedido y registrado por Instituciones legalmente autorizadas para ello y haber ejercido la profesión cuando menos cinco años o tres la judicatura;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2001)</small>
 
-IV.- No ser ministro de ningún culto religioso; y
+II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite sanción corporal.
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2001)</small>
+
+III.- Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2001)</small>
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2001)</small>
+
+V.- Haber residido en el país durante los dos años anteriores al día de la designación; y
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2001)</small>
+
+VI.- No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Procurador General de Justicia, Magistrado del Tribunal Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje o Diputado local, durante el año previo al día de su nombramiento.
+
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
+
+Los nombramientos de los Magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica. No será impedimento para considerar la residencia a que se contrae la fracción V de este artículo, cuando el interesado hubiere permanecido fuera del territorio del País, por motivos de la obtención de grados académicos en instituciones de nivel educativo superior o de postgrado.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -965,9 +1015,9 @@ Será Presidente del Tribunal Superior de Justicia del Estado, el Magistrado Num
 
 El Presidente del Tribunal Superior de Justicia concurrirá al Congreso del Estado en cualquier día hábil, dentro de los primeros cinco días, del mes de diciembre de cada año y rendirá ante la representación popular, un informe escrito acerca de la situación que guarda la Administración de Justicia del Estado; cuyo informe será contestado en el mismo acto por el Presidente del Congreso.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
 
-Actuando coordinadamente los dos organismos acordarán administrativamente cada año el día y hora precisos para la comparecencia.
+Actuando coordinadamente los dos poderes, acordarán administrativamente cada año el día y hora precisos para la comparecencia.
 
 Las faltas temporales del Presidente serán suplidas por otro Magistrado Numerario designado en la misma forma que el anterior, y las de los Presidentes de las Salas por el que éstas elijan.
 
@@ -989,13 +1039,15 @@ Son facultades del Tribunal Superior de Justicia, funcionando en pleno, dirimir 
 
 Erigirse en Jurado de sentencia para conocer en Juicio Político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 68 de esta constitución.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 62.
 
-Los Magistrados del Tribunal Superior de Justicia y demás funcionarios judiciales no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, del Estado, Municipio o de particulares, salvo los cargos honoríficos en asociaciones científicas, docentes, literarias o de beneficencia, así como las funciones electorales que les fueren encomendadas. La infracción de esta disposición, será castigada con la pérdida del cargo.
+Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y demás funcionarios judiciales no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, del Estado, Municipio o de particulares, salvo los cargos docentes, literarios, de beneficencia, y honoríficos en asociaciones científicas; así como las funciones electorales que les fueren encomendadas. La infracción de esta disposición, será castigada con la pérdida del cargo.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1980)</small>
+Las personas que hayan ocupado el cargo de Magistrado Numerario o Consejero de la Judicatura, no podrán, dentro del año siguiente a la fecha de su conclusión, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 63 Bis.
 
@@ -1033,13 +1085,11 @@ Las renuncias, ausencias y licencias de los Magistrados Electorales del Tribunal
 
 ###### ARTICULO 63.
 
-La competencia del Tribunal Superior de Justicia, los períodos de sesiones, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, el número y competencia de los Juzgados de Primera Instancia y de los Juzgados Menores y las responsabilidades en que incurran los funcionarios y empleados del Poder Judicial del Estado, se regirán por esta Constitución y lo que dispongan las Leyes y Reglamentos respectivos.
+La competencia del Tribunal Superior de Justicia, los períodos de sesiones, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, del Consejo de la Judicatura, el número y competencia de los Juzgados de Primera Instancia y de Paz; así como las responsabilidades en que incurran los funcionarios y empleados del Poder Judicial del Estado, se regirán por esta Constitución y demás leyes y reglamentos respectivos.
 
-La remuneración que perciban los Magistrados del Tribunal Superior de Justicia y los Jueces, por los servicios que presten al Poder Judicial, no podrá ser disminuída durante su encargo.
+La remuneración que perciban los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y los Jueces, por los servicios que presten al Poder Judicial, no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
-
-Los Magistrados y Jueces que integran el Poder Judicial del Estado, serán inamovibles en sus cargos en el tiempo que desempeñen su función y sólo podrán ser separados de ellos en los términos del título séptimo de esta constitución.
+Los Magistrados y Jueces que integran el Poder Judicial del Estado, durarán ocho y cinco años, respectivamente, en el ejercicio de su encargo, al término de los cuales, si fueran ratificados o promovidos los segundos a cargos superiores, solo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca esta Constitución y las leyes secundarias aplicables.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -2012,3 +2062,21 @@ TERCERO. El Congreso del Estado deberá realizar, en tiempo y formas las adecuac
 CUARTO. Se derogan las disposiciones legales que se opongan a la presente Constitución.
 
 QUINTO. En términos del artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, una vez que el Congreso del Estado, por el voto de las dos terceras partes de los diputados presentes, acuerden las referidas reformas o adiciones, remítase a los honorables ayuntamientos de la entidad, para su aprobación correspondiente, dentro del término de quince días, y vencido dicho término dése cuenta al pleno, para el cómputo de los votos de los Ayuntamientos y la declaración en su caso, de haber sido aprobadas las adiciones y reformas de nuestra Constitución.
+
+P.O. 14 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor, el día quince de noviembre del año dos mil uno, con la salvedad de la integración, instalación e inicio de funciones del Consejo de la Judicatura, que será dentro de los primeros quince días del mes de febrero siguiente.
+
+SEGUNDO.- Por esta única vez, el término del periodo de duración en el cargo de los Consejeros de la Judicatura, a excepción del Magistrado Presidente del Tribunal Superior de Justicia, y según su forma de nombramiento será para los designados por el Titular del Poder Ejecutivo, aprobado por el Congreso, y para el designado por éste, tres años, no pudiendo ser ratificados; para un magistrado y el juez de paz cuatro años; para el otro magistrado y el juez de primera instancia, cinco años, los cuales se contarán a partir del día de su designación en los términos de esta Constitución.
+
+Para los mismos fines, en el caso de los jueces, se entenderá que son ratificados, aquellos que acrediten una antigüedad mínima de cinco años ininterrumpidos en su encargo, salvo los de paz que será de cuatro años.
+
+Los Consejeros de la Judicatura que integren, por primera ocasión, al órgano de administración, vigilancia y disciplina del Poder Judicial del Estado, una vez designados, previo al inicio de sus funciones, rendirán en forma conjunta su protesta de ley ante el Congreso del Estado. Debiendo en lo subsecuente hacerlo ante el pleno del Tribunal Superior de Justicia.
+
+TERCERO.- El Magistrado de número que a la entrada en vigor del presente Decreto, se desempeñe como tal, continuará en su cargo y solo podrá ser removido por las causas que establece ésta Constitución y las leyes aplicables.
+
+CUARTO.- Para el presupuesto del ejercicio fiscal del año 2002, el Presidente del Tribunal Superior de Justicia, someterá oportunamente a la consideración del Pleno, las previsiones presupuestales correspondientes, debiendo considerar todo lo necesario para la integración, inicio e instalación del Consejo de la Judicatura. Asimismo dispondrá las medidas de carácter interno para que los asuntos administrativos que se estén conociendo y fueren de la competencia del Consejo de la Judicatura le sean turnados en tiempo y forma.
+
+QUINTO.- En consecuencia, se deberán expedir las disposiciones legales secundarias, que regulen los preceptos constitucionales que se reforman por el presente Decreto, a mas tardar el 30 de enero del año 2002; mientras tanto, seguirán aplicándose las disposiciones vigentes, en lo que no se opongan a estas. En caso de que a la entrada en vigor de estas reformas, se estuviere tramitando conforme al Código de Procedimientos Civiles alguna controversia ante árbitros deberán concluirse en todas sus etapas de acuerdo a las disposiciones vigentes en la época de su inicio.
+
+SEXTO.- En términos del artículo 83, de la Constitución Política del Estado Libre y Soberano de Tabasco, una vez que el Congreso del Estado, apruebe las referidas reformas o adiciones, remítase a los Honorables Ayuntamientos de la entidad, para su aprobación correspondiente, dentro del término de quince días, y vencido dicho término dése cuenta al pleno, para el cómputo de los votos de los Ayuntamientos y la declaración en su caso, de haber sido aprobadas las adiciones y reformas de nuestra Constitución.
