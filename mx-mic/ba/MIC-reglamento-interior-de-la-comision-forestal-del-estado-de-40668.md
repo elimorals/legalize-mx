@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-comision-forestal-del-estado-de-40668
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-11"
-last_updated: "2004-08-11"
+last_updated: "2004-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA COMISION FORESTAL DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 11 de agosto de 2004.
 
@@ -137,9 +137,15 @@ XVIII. Suscribir, en su caso, los contratos colectivos e individuales que regule
 
 XIX. Coordinar los programas que con motivo de la descentralización le transfiera al Estado la Federación en materia forestal;
 
-XX. Participar en la elaboración y permanente actualización del Plan Estatal de Desarrollo, en la materia de su competencia; y,
+XX. Participar en la elaboración y permanente actualización del Plan Estatal de Desarrollo, en la materia de su competencia; y (sic),
 
-XXI. Las demás que le señale la Junta y otras disposiciones normativas aplicables.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
+XXI. Emitir resoluciones que pongan fin a los procedimientos administrativos correspondientes, en términos de la Ley de (sic) Equilibrio Ecológico y Protección al Ambiente del Estado de Michoacán de Ocampo; y,
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
+XXII. Las demás que le señale la Junta y otras disposiciones normativas aplicables.
 
 ### CAPÍTULO III. DE LAS UNIDADES ADMINISTRATIVAS Y SUS ATRIBUCIONES GENERALES
 
@@ -486,3 +492,11 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE NOVIEMBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
