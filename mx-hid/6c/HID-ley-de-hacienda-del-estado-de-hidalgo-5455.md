@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-5455"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-29"
-last_updated: "2001-12-31"
+last_updated: "2002-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 29 de diciembre de 1990.
 
@@ -307,51 +307,59 @@ IMPUESTO SOBRE ENAJENACIION DE AUTOMOVILES, CAMIONES Y DEMAS VEHICULOS DE MOTOR 
 
 DEL OBJETO:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 17.
 
-Es objeto de este impuesto, la adquisición de automóviles y demás vehículos de motor usados, que se realice dentro del territorio del Estado, siempre que no cause el Impuesto al Valor Agregado.
+Es objeto de este impuesto, la adquisición por cualquier título de la propiedad de automóviles, camiones y motocicletas usados, que se realicen dentro del Territorio del Estado, siempre que no cause el Impuesto al Valor Agregado.
+
+Son también objeto de este impuesto, las operaciones que se realicen fuera del Territorio Estatal, cuando el vehículo usado de que se trate, sea inscrito en el Padrón Vehicular del Estado de Hidalgo.
+
+Se entiende por automóviles, camiones y motocicletas usados, los vehículos de cualquier tipo cuya propiedad sea transferida por segunda o ulteriores ocasiones por los medios que establecen las Leyes de la materia, inclusive cuando se pacte con reserva de dominio.
+
+Se considera efectuada la operación dentro del Estado, el sólo hecho de realizar los trámites de cambio de propietario o matriculación de un vehículo en el Padrón del Estado, en cualquiera de los Centros Regionales de Operación Fiscal o en los siguientes casos:
+
+I.- Se transmita total o parcialmente la propiedad del bien;
+
+II.- Se entregue el bien al adquirente o
+
+III.- Se endose la factura o documento que ampare la propiedad.
 
 DEL SUJETO:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 18.
 
-Son sujetos de este impuesto, quienes por cualquier titulo adquieran el dominio de bienes a que se refiere el artículo anterior.
+Son sujetos de este impuesto, las personas físicas, morales o las unidades económicas que adquieran la propiedad de vehículos usados, por cualquiera de los medios establecidos en el Artículo anterior.
 
 DE LA BASE:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 19.
 
-Se considera como monto de este Impuesto, lo establecido en el Artículo 20 de esta Ley.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+Se considera como base gravable de este Impuesto, la contraprestación pactada por la realización de cualquiera de las operaciones referidas en el Artículo 17 de esta Ley, sin estimar su monto.
 
 DE LA TASA:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 20.
 
-Este impuesto se causará y pagará a la tasa de 2 salarios mínimos vigentes en la entidad para el ejercicio fiscal correspondiente al en que se realice la operación.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+Este impuesto se causará y pagará a la tasa de cuatro salarios mínimos vigentes en la zona geográfica del Estado.
 
 ###### ARTICULO 21.
 
-Para los efectos de este impuesto, se considerará efectuada la operación dentro del Estado por el solo hecho de dar de alta un vehículo en cualquiera de los Centros Regionales de Operación Fiscal.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2002)
 
 DEL PAGO DEL IMPUESTO:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 22.
 
-El pago de este Impuesto, deberá efectuarse en las Sucursales Bancarias autorizadas por la Secretaría de Finanzas y Administración, dentro de los quince días siguientes a la celebración de la operación por la que se adquieran los vehículos.
+El impuesto se causará en el momento que se realice la adquisición de un vehículo usado y se pagará mediante declaraciones que deberán presentarse en cualquiera de las Instituciones Bancarias autorizadas, vía internet o en la forma que acuerde la Secretaría de Finanzas y Administración, dentro de los quince días siguientes al de la operación.
 
 DE LAS OBLIGACIONES:
 
@@ -359,13 +367,13 @@ DE LAS OBLIGACIONES:
 
 Para la recaudación de este impuesto, se observarán las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-I. Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar, en el centro regional de operación fiscal, una manifestación en las formas oficiales aprobadas, a efecto de proporcionar los datos y documentos relativos a la operación;
+I.- Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar en el Centro Regional de Operación Fiscal de su jurisdicción, en formato oficial aprobado por la Secretaría de Finanzas y Administración, los datos y documentos relativos a la operación;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-II. Los Centros Regionales de Operación Fiscal, se cerciorarán que se haya efectuado el pago de este Impuesto mediante la exhibición por parte del contribuyente, del comprobante expedido por la institución Bancaria autorizada.
+II.- Los Centros Regionales de Operación Fiscal, se cerciorarán de que se haya efectuado el pago de este impuesto, mediante la exhibición por parte del contribuyente, del comprobante expedido por la Institución Bancaria autorizada, los datos del pago efectuado vía internet o la forma aprobada por la Secretaría de Finanzas y Administración en la que conste el pago efectuado y
 
 III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2001)
 
@@ -373,13 +381,27 @@ III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2001)
 
 Son solidariamente responsables del pago de est e impuesto.
 
-I. Los adquirientes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-II. Los comisionistas o cualquiera otra persona que intervengan en las operaciones; y
+I.- Los enajenantes;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DEL 2002)</small>
+
+II.- Los comisionistas, consignatarios o cualquiera otra persona que intervenga en las operaciones, salvo que demuestren fehacientemente que presentaron el aviso y anexos respectivos en las formas oficiales aprobadas por la Secretaría de Finanzas y Administración y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 III. Los empleados o funcionarios públicos que autoricen cualesquiera de los trámites referidos en este Capítulo sin haber verificado y exigido el pago de este impuesto.
+
+DE LAS EXCEPCIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 24 BIS.- Quedan exceptuadas del pago de este impuesto:
+
+I.- Las operaciones sobre vehículos usados adquiridos por personas físicas, morales o unidades económicas que trasladen en forma expresa o por separado el Impuesto al Valor Agregado y
+
+II.- Las adquisiciones que realicen la Federación, el Estado y los Municipios, cuando se demuestre que los vehículos se dedicarán al desempeño de sus funciones de Derecho Público.
 
 ### CAPITULO CUARTO
 
@@ -797,51 +819,57 @@ III. Las personas físicas que causen el Impuesto al Valor Agregado, conforme a 
 
 DEL OBJETO:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 57.
 
-Es objeto de este impuesto, las erogaciones en dinero o en especie por concepto de remuneraciones al trabajo personal subordinado, independientemente de la designación que se le otorgue y que se realicen dentro del territorio del Estado.
+Son objeto de este impuesto, las erogaciones en efectivo o en especie, que tengan como fin remunerar el trabajo personal subordinado, efectuado bajo la dirección y dependencia de un patrón que se preste dentro del Territorio del Estado, independientemente de la designación que se les otorgue y del lugar en que se realicen.
 
-Para los efectos de este impuesto, se consideran erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás prestaciones que se deriven de una relación laboral.
+Las Erogaciones a que se refiere este Artículo, incluyen las que se efectúen a: Los obreros, empleados de confianza, empleados por honorarios, directores, gerentes, administradores, representantes, integrantes de consejos directivos, de vigilancia o consultivos, comisarios, intermediarios y demás personal que las reciba, de toda clase de empresas, negociaciones, sociedades o asociaciones.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE DICIEMBRE DE 1997)</small>
-
-Son también objeto de este impuesto, los pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia de toda clase de sociedades y asociaciones, así como, los rendimientos que se repartan de acuerdo al trabajo aportado, por cada socio, durante el año en las sociedades cooperativas de productores.
-
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1991)</small>
+Constituyen también el objeto del impuesto, los rendimientos o anticipos que obtengan los integrantes de sociedades cooperativas de producción o servicios, así como los de las sociedades civiles.
 
 DEL SUJETO:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 58.
 
-Son sujetos de este impuesto, quienes realicen los pagos a que se refiere el artículo anterior:
+Son sujetos de este impuesto, las personas físicas, morales o las unidades económicas que realicen los pagos a que se refiere el Artículo anterior.
 
 DE LA BASE.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 59.
 
-Es base de este impuesto, el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal subordinado.
+Es base gravable de este impuesto, el monto total de los pagos realizados por concepto de remuneraciones al trabajo personal subordinado a que se refiere el Artículo 57 de esta Ley.
+
+Para los efectos de este impuesto, se consideran erogaciones destinadas a remunerar el trabajo personal subordinado, a todas las contraprestaciones cualesquiera que sean los nombres con los que se les designe, ya sean ordinarias o extraordinarias, en las que se incluyen los pagos realizados por: Comisiones, premios, gratificaciones, donativos, primas, aguinaldo, tiempo extra, despensas, alimentación y los demás de naturaleza semejante.
 
 DE LA TASA:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 60.
 
-Las tasas aplicables a los sujetos de este impuesto, serán las siguientes:
+El Impuesto sobre Nóminas, se determinará mediante aplicación de la base que señala el Artículo anterior a las tasas siguientes:
 
-I. Las personas físicas o morales que tengan hasta veinte empleados…………………. 0.0%
+I.- De 1 a 20 trabajadores 0.5%
 
-II. Las personas físicas o morales que tengan hasta cien empleados…………………….. 0.5%
+II.- De 21 a 100 trabajadores 1.0%
 
-III. Las personas físicas o morales que tengan hasta trescientos empleados…………….. 1.0%
+III.- De 101 trabajadores en adelante 2.0%
 
-IV. Las personas físicas o morales que tengan más de trescientos empleados…………… 1.1%
+En los casos que la planta de trabajadores aumente o disminuya en un solo mes, se aplicará la tasa que corresponda al número mayor de trabajadores.
 
 DEL PAGO DEL IMPUESTO:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 61.
 
-El Impuesto sobre Nóminas, se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado y se pagará mediante declaraciones que se deberán presentar en la Sucursal Bancaria autorizada, a más tardar el día 20 del mes de calendario siguiente a la fecha de su causación, en las formas oficiales aprobadas por la Secretaría de Finanzas y Administración.
+El Impuesto sobre Nóminas, se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado y se pagará mediante declaraciones que deberán presentarse en las Sucursales Bancarias autorizadas, vía internet o en las formas que apruebe la Secretaría de Finanzas y Administración, a más tardar el día veinte del mes de calendario siguiente a la fecha de su causación.
 
 DE LAS OBLIGACIONES:
 
@@ -849,29 +877,87 @@ DE LAS OBLIGACIONES:
 
 Los contribuyentes de este impuesto están obligadas a :
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-I. Registrarse en el Centro Regional de Operación Fiscal de su jurisdicción, dentro del mes siguiente a la fecha del inició de sus operaciones, en las formas oficiales aprobadas por la Secretaría de Finanzas y Administración;
+I.- Registrarse en el Padrón del Impuesto sobre Nóminas de la Secretaría de Finanzas y Administración de Estado, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o en las formas oficiales aprobadas por la misma Secretaría;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
+Para los efectos de este capítulo, se entiende como empresa de nueva creación, aquélla que se constituya por primera vez en el Estado de Hidalgo y que no provengan de la escisión o fusión de sociedades en términos del Código Fiscal de la Federación y de la Ley General de Sociedades Mercantiles, así como las que realicen cambio de nombre o razón social, domicilio o actividad.
 
-II. Presentar las declaraciones y efectuar el pago del Impuesto en la Sucursal Bancaria autorizada, inclusive los contribuyentes sujetos a la tasa del 0%, los que deberán presentar declaraciones anuales y en su caso complementarias;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
+II.- En los casos de personas morales o unidades económicas, presentar declaración anual dentro de los tres primeros meses del Ejercicio Fiscal que corresponda y para el caso de personas físicas, dentro de los cuatro primeros meses de dicho ejercicio;
 
-III. En los casos de personas físicas o morales cuya casa matriz y sucursales se encuentren ubicadas en el territorio del Estado, deberán presentar una sola declaración en el Centro Regional de Operación Fiscal correspondiente a la jurisdicción del domicilio de la matriz, en la que acumularán el número de trabajadores que tengan en dichas sucursales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(ADICIONADO SEGUNDO PARRAFO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+III.- En los casos de personas físicas, morales o unidades económicas, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar una sola declaración en la que se acumulará la base gravable, el número de trabajadores y el impuesto a pagar por cada una de ellas;
 
-En el caso que el domicilio de la matriz, se encuentre fuera del Estado, y solo existan Sucursales o Distribuidoras en el Estado, deberán presentar una sola declaración en las Oficinas Rentísticas de la Jurisdicción donde se encuentre el domicilio del principal asiento de las actividades que se realicen dentro de la Entidad, acumulando el número de Trabajadores que tengan en todas las Sucursales del Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
+IV.- En los casos de las personas físicas, morales o unidades económicas, cuya casa matriz se encuentre ubicada fuera del Territorio del Estado, las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, deberán presentar una sola declaración, en razón del domicilio fiscal que manifiesten, en la que acumularán la base gravable de este impuesto y el número de trabajadores que tengan en todas las sucursales citadas, previo aviso vía internet o en las formas que apruebe la Secretaría de Finanzas y Administración y
 
-IV. En los casos de personas físicas o morales cuya casa matriz se encuentre ubicada fuera del territorio del Estado, las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, deberán presentar una sola declaración en la Sucursal Bancaria autorizada, en razón al domicilio fiscal que manifieste, en la que acumularán el número de trabajadores que tengan en todas las sucursales citadas y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2001)</small>
+V.- Presentar, en las formas aprobadas por la Secretaría de Finanzas y Administración, en el Centro Regional de Operación Fiscal de su Jurisdicción o por vía internet, los avisos respectivos de cambio de nombre o razón social, domicilio fiscal, suspensión o reanudación de actividades, cambio de tasa, apertura o cierre de establecimientos, fusión o escisión, dentro del término de treinta días en que ocurra el hecho.
 
-V.- Presentar en el Centro Regional de Operación Fiscal de su jurisdicción cualquier aviso de movimiento que realice y que modifique su inscripción inicial, en las formas aprobadas por la Secretaría de Finanzas y Administración.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 62 BIS.- Para el caso, de que el contribuyente se encuentre en estado de quiebra, el Titular del Poder Ejecutivo a través del Secretario de Finanzas y Administración, podrá exceptuarlo del pago del Impuesto sobre Nóminas, previa comprobación del hecho.
+
+DE LAS EXCEPCIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 62 BIS A.- No causarán este impuesto:
+
+I.- Las Erogaciones que se cubran por concepto de:
+
+a.- Indemnizaciones derivadas de la rescisión o terminación de las relaciones de trabajo, ya sean de manera voluntaria o por resolución de Autoridad competente;
+
+b.- Participaciones de los trabajadores en las utilidades de las empresas;
+
+c.- Indemnizaciones por riesgos o enfermedades profesionales, que se concedan de acuerdo con las Leyes o Contratos respectivos;
+
+d.- Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
+
+e.- Pagos por gastos funerarios;
+
+f.- Aportaciones a las Instituciones de Seguridad Social o de Fondos para el Retiro, constituidas conforme a las Leyes de la materia;
+
+g).- Contraprestaciones cubiertas a trabajadores domésticos;
+
+h.- Fondo de ahorro e
+
+i.- Despensas, alimentación y transporte, en los casos que sean cubiertos en su totalidad por el contribuyente.
+
+II.- Las Erogaciones que efectúen:
+
+a.- El Estado, los Municipios, los Organismos de la Administración Pública Descentralizada y los Fideicomisos donde no intervenga el Estado, así como sus Entidades;
+
+b.- Las Instituciones sin fines de lucro, que promuevan o realicen las actividades siguientes:
+
+1.- Asistencia social en cualquiera de sus formas:
+
+2.- Deportivas;
+
+3.- Culturales;
+
+4.- Sociales legalmente autorizadas que se encuentren debidamente registradas ante las Autoridades Estatales competentes;
+
+5.- Asociaciones de Padres de Familia, constituidas y registradas en los términos del Reglamento Federal de Asociaciones de Padres de Familia o
+
+6.- Asociaciones Civiles de Colonos y las Asociaciones Civiles que se dediquen exclusivamente a la administración de un inmueble, sujeto al Régimen de Propiedad en Condominio.
+
+c).- Los Partidos o Asociaciones Políticas y Religiosas, constituidos conforme a la Ley de la materia;
+
+d).- Las Uniones o Asociaciones de agricultores, ganaderos, piscicultores, silvicultores, obreros, profesionistas o comunidades;
+
+e).- Las Instituciones Educativas que realicen sus actividades con Presupuesto Federal, Estatal o Municipal;
+
+f).- Las Asociaciones Rurales de Interés colectivo;
+
+g).- De ejidos y
+
+h).- Cámaras de Comercio e Industria, así como los Organismos que las reúnan.
 
 ### CAPITULO SEPTIMO.
 
@@ -935,37 +1021,43 @@ III. 17% para el sostenimiento del Hospital del Niño DIF, del Estado.
 
 DEL OBJETO
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-ARTÍCULO 69 BIS.- Es objeto de este impuesto la prestación de servicios de hospedaje proporcionados dentro del territorio del Estado, ya sea de forma permanente o temporal, por hoteles, moteles, albergues, villas, bungalows, paraderos de casas rodantes, casas de huéspedes y otros establecimientos de similar naturaleza, en los que se incluyen prestadores de servicios bajo la modalidad de tiempo compartido.
+ARTICULO 69 BIS.- Es objeto de este impuesto, la prestación de servicios de hospedaje, alojamiento o albergue que se proporcione dentro del Territorio del Estado, ya sea de forma permanente o temporal, por personas físicas, morales o unidades económicas en hoteles, moteles, albergues, villas, bungalows, paraderos de casas rodantes, casas de huéspedes, ex haciendas y otros establecimientos de naturaleza similar o análoga, en los que se incluyen los prestadores de servicios bajo la modalidad de tiempo compartido, independientemente de la designación que se les otorgue, a cambio de una contraprestación.
 
-Para efectos de este impuesto, se entiende por prestación de servicios de hospedaje, el otorgamiento de alojamiento a cambio de una prestación en dinero o en especie.
+DE LOS SUJETOS
 
-DEL SUJETO:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-ARTÍCULO 69 BIS-A.- Son sujetos de este impuesto, las personas físicas o morales que presten los servicios a que se refiere el artículo anterior, incluyendo las agencias o sucursales cualquiera que sea su denominación, aún cuando tengan su domicilio fiscal en lugar distinto a la prestación del servicio.
+ARTICULO 69 BIS-A.- Son sujetos de este impuesto, las personas físicas, morales o unidades económicas que presten los servicios a que se refiere el Artículo anterior, así como las agencias o sucursales cualquiera que sea su denominación, aún cuando tengan su domicilio fiscal en lugar distinto al de la prestación del servicio.
 
 DE LA BASE:
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-ARTÍCULO 69 BIS-B.- Es base de este impuesto, el monto total de las contraprestaciones causadas, únicamente, por los servicios de hospedaje.
+ARTICULO 69 BIS-B.- Es base gravable de este impuesto, el monto total de las contraprestaciones causadas por los servicios de hospedaje, sin incluir alimentos y demás servicios accesorios.
+
+Se consideran contraprestaciones por la prestación de los servicios a que se refiere el presente capítulo, los pagos totales por la prestación de los servicios de hospedaje, los intereses, penas convencionales y cualquier otro concepto que se adicione, vinculado a los servicios prestados y que se realicen en efectivo o en especie con deducción de las devoluciones, descuentos, reducciones y bonificaciones correspondientes. El impuesto al Valor Agregado no se incluirán en el cálculo del impuesto.
+
+En los casos de servicios de hospedaje prestados bajo la modalidad de uso de tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
 
 DE LA TASA:
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-ARTÍCULO 69 BIS-C.- Este impuesto se pagará y determinará aplicando la taza del 2% a la base gravable.
+ARTICULO 69 BIS-C.- Este impuesto se pagará y determinará aplicando la tasa del 2% a la base gravable.
 
 DEL PAGO DE IMPUESTO:
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-ARTÍCULO 69 BIS-D.- Los contribuyentes de este impuesto, deberán pagarlo al momento de liquidar el importe de los servicios.
+ARTICULO 69 BIS-D.- El impuesto a que se refiere el presente capítulo, se causará en el momento en que se presten los servicios de hospedaje y se retendrá cuando se reciba el pago de dichos servicios.
 
-Los sujetos de este impuesto, deberán retener el mismo y enterarlo mensualmente dentro de los quince días siguientes al mes inmediato posterior al que se prestó el servicio, mediante los formatos aprobados por la Secretaría de Finanzas y Administración, que tendrá carácter de pagos provisionales a cuenta del entero anual que deberá presentar en el período del 1° al 30 de enero de cada año.
+Los contribuyentes trasladarán en forma expresa y por separado, el impuesto a las personas que reciban el servicio.
+
+Se entenderá por traslado del impuesto, el cobro a cargo que los contribuyentes deben hacer a las personas que reciban el servicio, por un monto equivalente al impuesto establecido en el presente capítulo.
+
+Los sujetos de este impuesto, deberán retenerlo y enterarlo mensualmente, dentro de los quince días siguientes al mes inmediato posterior al que se prestó el servicio, vía internet o mediante las formas aprobadas por la Secretaría de Finanzas y Administración, que tendrán carácter de pagos provisionales a cuenta del entero anual.
 
 DE LAS OBLIGACIONES:
 
@@ -973,29 +1065,141 @@ DE LAS OBLIGACIONES:
 
 ARTÍCULO 69 BIS-E.- Los sujetos de este impuesto, están obligados a:
 
-I.- Inscribirse en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Administración del Estado, dentro de los treinta días siguientes en que se coloquen en la hipótesis de causación del impuesto, mediante la utilización de las formas oficiales aprobadas por la misma Secretaría;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-II.- Trasladar a las personas usuarias del servicio de hospedaje, el impuesto a que se refiere este capítulo;
+I.- Inscribirse en el Padrón Estatal del Impuesto de la Secretaría de Finanzas y Administración del Estado, dentro de los treinta días siguientes al en que se realicen las situaciones jurídicas o de hecho que den lugar a la prestación de declaraciones periódicas, en el Centro Regional de Operación Fiscal de su jurisdicción, vía internet o en las formas aprobadas por la misma Secretaría;
 
-III.- Presentar ante la Secretaría de Finanzas y Administración del Estado, los avisos respectivos de cambio de nombre o razón social, domicilio fiscal, suspensión o reanudación de actividades, fusión o escisión y terminación de actividades, dentro del término de quince días a en que se ocurra el hecho y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+II.- Trasladar a las personas usuarias del servicio de hospedaje, el impuesto en forma expresa y por separado, en los comprobantes que señale el Código Fiscal del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+III.- Presentar ante la Secretaría de Finanzas y Administración del Estado, los avisos respectivos de cambio de nombre o razón social, domicilio fiscal, suspensión o reanudación de actividades, fusión o escisión, apertura o cierre de establecimientos dentro del término de treinta días al en que ocurra el hecho en el Centro Regional de Operación Fiscal de su Jurisdicción, vía internet o en las formas que apruebe la misma Secretaría;
 
 IV.- Expedir facturas desglosadas en las que se señale el monto del impuesto por la prestación del servicio de hospedaje
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-ARTÍCULO 69 BIS-F.- No se causará el impuesto de hospedaje por el alojamiento prestado en: hospitales, clínicas, sanatorios, asilos, conventos, seminarios, internados, instituciones de asistencia o beneficencia autorizadas por las leyes correspondientes, ya sean públicos o privados, así como el prestado a estudiantes cuyo servicio derive de contratos de arrendamiento.
+V.- Llevar un registro contable de los servicios que presten, de las contraprestaciones que perciban o se hagan exigibles y de los comprobantes de pago que expidan;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+VI.- Presentar declaraciones mensuales y efectuar los pagos que correspondan conforme a lo dispuesto en el Artículo 69 BIS-D de este capítulo;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+VII.- Tratándose de personas morales o unidades económicas, presentar la declaración anual que le corresponda, dentro de los tres meses siguientes a la fecha en que termine el Ejercicio Fiscal y para el caso de personas físicas, dentro de los cuatro meses siguientes a la fecha en que termine el Ejercicio Fiscal y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+VIII.- En los casos en que las personas físicas, morales o unidades económicas, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar una sola declaración en la que se acumulará la base gravable e impuestos a pagar por cada una de ellas.
+
+DE LAS EXCEPCIONES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 69 BIS-F.- No se causará el Impuesto sobre Hospedaje, por el alojamiento prestado en:
+
+I.- Hospitales;
+
+II.- Clínicas;
+
+III.- Sanatorios;
+
+IV.- Asilos;
+
+V.- Conventos;
+
+VI.- Seminarios;
+
+VII.- Internados;
+
+VIII.- Instituciones de Asistencia o Beneficencia autorizadas por las Leyes correspondientes, ya sean públicos o privados y
+
+IX.- El prestado a estudiantes, cuyo servicio derive de contratos de arrendamiento.
+
+> <small>(ADICIONADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+DE LA APLICACION
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ARTÍCULO 69 BIS-G.- El ingreso que perciba el Estado proveniente del impuesto a que se refiere este capítulo, se destinará al fomento, promoción y difusión del sector turismo de la entidad.
 
-### CAPITULO I. De las Dependencias de la Secretaría de Gobernación
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO NOVENO. IMPUESTO ESTATAL SOBRE TENENCIA DE VEHICULOS
+
+DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 69 BIS-H.- Es objeto de este impuesto, el uso o tenencia de vehículos automotores, cuyo año modelo sea de diez años anteriores o más al Ejercicio Fiscal en curso.
+
+Para los efectos de este Artículo, se consideran vehículos automotores: Los automóviles, camionetas, minibuses, microbuses, ómnibuses, autobuses, camiones, tractores no agrícolas tipo quinta rueda y motocicletas.
+
+Para efectos de este Artículo, la Autoridad Fiscal determinará los años de antigüedad del vehículo, con base en el documento oficial que ampare la propiedad.
+
+DEL SUJETO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 69 BIS-I.- Son sujetos del pago de este Impuesto, las personas físicas, morales o unidades económicas, usuarias o tenedoras de los vehículos de servicio público o privado a que se refiere este capítulo, con domicilio fiscal dentro de la Circunscripción Territorial del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 69 BIS-J.- Es responsable solidario del pago del impuesto establecido en este capítulo:
+
+I.- Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso, existiera aún cuando se trate de personas que no están obligadas directamente al pago de este impuesto;
+
+II.- Quienes reciban en consignación, comisión o por cualquier otro medio para su enajenación posterior, vehículos por el adeudo del impuesto que en su caso existiera;
+
+III.- Los copropietarios del vehículo y
+
+IV.- Las Autoridades competentes, que autoricen cualquier movimiento que afecte el Padrón Vehicular, sin haberse cerciorado de que no existan adeudos por este impuesto, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+
+DE LA BASE
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 69 BIS-K.- Para los efectos de este impuesto, se tomará en consideración para el cálculo de la base gravable, el cilindraje del motor, el año, modelo y la capacidad de carga del vehículo de que se trate.
+
+DE LA TASA
+
+ARTICULO 69 BIS-L.- VEASE TABLA ANEXA
+
+DEL PAGO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 69 BIS-M.- Este Impuesto se pagará por Ejercicio Fiscal, durante los tres primeros meses en las sucursales bancarias autorizadas, vía internet o de la forma que apruebe la Secretaría de Finanzas y Administración.
+
+DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 69 BIS-N.- Los contribuyentes de este impuesto, tendrán las siguientes obligaciones:
+
+I.- Registrase en el Centro Regional de Operación Fiscal correspondiente a su domicilio, dentro de los quince días siguientes al en que se ubicó en el supuesto de causación de este impuesto, de la manera que autorice la Secretaría de Finanzas y Administración y
+
+II.- Presentar las declaraciones y efectuar el pago del impuesto en la forma establecida en el Artículo 9 BIS M y conforme a la tarifa establecida en el Artículo 69 BIS L del presente capítulo.
+
+DE LAS EXCEPCIONES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 69 BIS-O.- Quedan exceptuados del pago de este impuesto:
+
+I.- Los vehículos importados temporalmente:
+
+II.- Los vehículos de la Federación, Estados y Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transporte de limpias, pipas de agua, servicios funerarios de cualquiera de estas Entidades o instituciones de Beneficencia, normados por la Ley de la materia y los destinados a los cuerpos de bomberos y
+
+III.- La maquinaria y equipos destinados a actividades agrícolas.
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO II. DE LAS DEPENDENCIAS DE LA SECRETARIA DE FINANZAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2001)</small>
+### CAPITULO I. De las Dependencias de la Secretaría de Gobernación
 
 ###### ARTICULO 70.
 
@@ -1917,9 +2121,9 @@ VI. Por expedición de constancias de inscripción o de no inscripción de testa
 
 ARTICULO 91 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1996)
 
-### CAPITULO III
+### CAPITULO II. DE LAS DEPENDENCIAS DE LA SECRETARIA DE FINANZAS
 
-DE LAS DEPENDENCIAS DE LA SECRETARIA DE OBRAS PUBLICAS.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 92.
 
@@ -1985,17 +2189,17 @@ VIII. De los vehículos particulares:
 
 A) Alta de placas. 5 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-b) Reposición del registro anual de control vehicular. 1.5 salarios mínimos
+b) Reposición del registro anual de control vehicular. 2 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 c) Bajas. 1 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-d) Reposición de tarjetas de circulación. 2 salarios mínimos
+d) Reposición de tarjetas de circulación. 3 salarios mínimos
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -2005,9 +2209,9 @@ e) Placas de remolque. 5 salarios mínimos
 
 f) Permiso anual para el uso de placas de demostración. 8 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-g) Expedición del registro anual de control vehicular 8 salarios mínimos
+g) Expedición del registro anual de control vehicular 2 salarios mínimos
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -2033,9 +2237,9 @@ IX. De los vehículos de servicio publico:
 
 A) Alta y canje de placas 5 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-b) Reposición del registro anual de control vehicular. 2 salarios mínimos
+b) Reposición del registro anual de control vehicular. 3 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2047,9 +2251,9 @@ d) (DEROGADA, P.O. 31 DE DICIEMBRE DE 1996)
 
 e) Reposición de tarjeta de circulación. 1 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-f) Expedición del registro anual de control vehicular. 2 salarios mínimos
+f) Expedición del registro anual de control vehicular 3 salarios mínimos
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -2087,7 +2291,9 @@ B) Por cada hoja excedente $ 5.00
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO IV. DE LAS DEPENDENCIAS DE LA SECRETARIA DE CONTRALORIA
+### CAPITULO III
+
+DE LAS DEPENDENCIAS DE LA SECRETARIA DE OBRAS PUBLICAS.
 
 ###### ARTÍCULO 94.
 
@@ -2099,35 +2305,7 @@ B) Por cada hoja excedente $ 5.00
 
 ((REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2001)
 
-### CAPITULO IV BIS. DE LAS DEPENDENCIAS DE LA SECRETARIA DE
-
-DESARROLLO REGIONAL
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-Articulo 96 bis.- Los derechos por la prestación de los servicios del estado, a través de la Dirección General de Conservación de Carreteras Estatales, se causarán y pagarán de la siguiente forma:
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-I.-Por la autorización para la construcción de accesos que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra; 80 salarios mínimos
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-II.-Por la autorización para la construcción de obras de paradores, que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra; 12 salarios mínimos.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-III.-Por cruzamiento de carretera; 12 salarios mínimos.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-IV.-Por instalación marginal, y 80 salarios mínimos
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
-
-V.-Por adosamiento en puentes. 12 salarios mínimos
-
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1994)</small>
+### CAPITULO IV. DE LAS DEPENDENCIAS DE LA SECRETARIA DE CONTRALORIA
 
 ###### ARTICULO 96.
 
@@ -2167,13 +2345,39 @@ Los contratistas con quienes se celebren contratos de obra pública y de servici
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
+### CAPITULO IV BIS. DE LAS DEPENDENCIAS DE LA SECRETARIA DE
+
+DESARROLLO REGIONAL
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Articulo 96 bis.- Los derechos por la prestación de los servicios del estado, a través de la Dirección General de Conservación de Carreteras Estatales, se causarán y pagarán de la siguiente forma:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+I.-Por la autorización para la construcción de accesos que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra; 80 salarios mínimos
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+II.-Por la autorización para la construcción de obras de paradores, que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra; 12 salarios mínimos.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+III.-Por cruzamiento de carretera; 12 salarios mínimos.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+IV.-Por instalación marginal, y 80 salarios mínimos
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+V.-Por adosamiento en puentes. 12 salarios mínimos
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
 ### CAPITULO V
 
 DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO SOCIAL.
-
-### CAPITULO VI
-
-DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO ECONOMICO.
 
 ###### ARTICULO 97.
 
@@ -2184,6 +2388,16 @@ DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO ECONOMICO.
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1994)
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1994)</small>
+
+### CAPITULO VI
+
+DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO ECONOMICO.
+
+###### ARTICULO 98.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1994)
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ### Capitulo VII. De las dependencias de la
 
@@ -2223,17 +2437,9 @@ V. Por la expedición de certificados de no antecedentes penales. 1.5 salarios m
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 98.
-
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1994)
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
 ### CAPITULO VIII. DE LOS ORGANISMOS DESCENTRALIZADOS
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-### CAPITULO UNICO
 
 ###### Articulo 98 Bis.
 
@@ -2263,79 +2469,81 @@ VI. Los productos por conceptos diversos de los señalados en este artículo, pa
 
 VII. Las publicaciones en el Periódico Oficial del Estado, se pagarán de acuerdo a la siguiente tarifa:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-A)Por publicación de avisos y documentos que deberán hacerse por disposición de Ley, (remates, edictos y avisos diversos). Por una sola vez 1.5 salarios mínimos.
+A.- Por publicación de avisos y documentos que deberán hacerse por disposición de Ley, (remates, edictos y avisos diversos) Por una sola vez.........3 salarios mínimos
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-B)Por las publicaciones en el Periódico Oficial, hasta media plana 5 salarios mínimos
+B.- Por las publicaciones en el Periódico Oficial, hasta media plana ..........6 salarios mínimos
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-C)Por la publicación en el Periódico Oficial, hasta una plana 10 salarios mínimos
+C.- Por la publicación en el Periódico Oficial, hasta una plana..........12 salarios mínimos.
 
-VIII. La venta del Periódico Oficial de Estado, se pagará de acuerdo a la siguiente tarifa:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+VIII.- La venta del Periódico Oficial del Estado, se pagará de acuerdo a la siguiente tarifa:
 
-A)Por la suscripción durante un año 17 salarios mínimos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+A.- Por la suscripción durante un año..........19 salarios mínimos
 
-B)Por la suscripción durante seis meses 9 salarios mínimos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+B.- Por la suscripción durante seis meses.........11 salarios mínimos
 
-C) Por la suscripción durante tres meses 5 salarios mínimos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+C.- Por la suscripción durante tres meses..........7 salarios mínimos
 
-D)Por la suscripción durante un mes 3 salarios mínimos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+D.- Por la suscripción durante un mes..........5 salarios mínimos
 
-E) El costo de un ejemplar a la fecha 0.5 salarios mínimos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+E.- El costo de un ejemplar a la fecha..........2.5 salarios mínimos
 
-F) El costo de un ejemplar atrasado hasta un año 1 salario mínimo
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+F.- El costo de un ejemplar atrasado hasta un año..........2.5 salarios mínimos
 
-G)El costo de un ejemplar del año inmediato anterior 1.5 salarios mínimos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+G.- El costo de un ejemplar del año inmediato anterior..........2 salarios mínimos
 
-H)Por cada año atrasado, se pagará el costo mas 1 salario mínimo
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+H.- Por cada año atrasado, se pagará el costo más..........1.5 salarios mínimos
 
-I).- El costo de cada uno de los tomos de la miscelánea fiscal, estatal o municipal.....................................................................................................1.5 salario mínimo
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+I.- El costo de cada uno de los tomos de la miscelánea fiscal, estatal o municipal..........2 salarios mínimos
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 IX.- Por la expedición de copias del Periódico Oficial del Estado:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-A) Por cada hoja simple $ 3.00
+A.- Por cada hoja simple..........$4.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-B) Por cada hoja excedente $ 2.00
+B.- Por cada hoja excedente..........$2.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-C) Por las primeras cinco hojas certificadas 1 salario mínimo
+C.- Por las primeras cinco hojas certificadas..........2 salarios mínimos
 
-D) Por cada hoja excedente $ 10.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+D.- Por cada hoja excedente..........$15.00
 
 ## TITULO V. DE LOS APROVECHAMIENTOS
 
 ### CAPITULO UNICO
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 100.
 
@@ -2365,11 +2573,15 @@ IX. Las Indemnizaciones.
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 101.
 
 Las participaciones por Ingresos Federales, se percibirán de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal Federal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos. Las cuales ingresarán íntegramente a la Secretaria de Finanzas y Administración
 
 ## TITULO VII. DE LOS INGRESOS EXTRAORDINARIOS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 102.
 
@@ -2512,3 +2724,7 @@ P.O 31 DE DICIEMBRE DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor el día 1° de Enero del año 2002, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de enero de 2003, previa su publicación en el Periódico Oficial del Estado.
