@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-registro-publico-de-la-propiedad-y-del-33481"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-01"
-last_updated: "1997-11-01"
+last_updated: "2004-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 1 de noviembre de 1997.
 
@@ -39,13 +39,15 @@ REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO EN EL ESTADO DE C
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 1.
+###### ARTICULO 1.
 
 El Registro Público de la Propiedad y del Comercio, es la Institución mediante la cual el Estado proporciona el servicio de publicitación de los actos jurídicos que, conforme a las leyes o en razón de la voluntad de las partes, requieren de dicho requisito para surtir efectos ante terceros.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 2.
 
-La Institución a que se refiere el artículo anterior, se encuentra a cargo de la "Dirección del Registro Público de la Propiedad y del Comercio", con adscripción a la Secretaría General de Gobierno y dependencia directa del titular de la misma.
+La Institución a que se refiere el artículo anterior, se encuentra a cargo de la "Dirección General del Registro Público de la Propiedad y del Comercio", con adscripción a la Secretaría General de Gobierno y dependencia directa del titular de la misma.
 
 ###### ARTICULO 3.
 
@@ -59,11 +61,17 @@ III. Secretaría, a la Secretaría General de Gobierno;
 
 IV. Registro Público, al Registro Público de la Propiedad y del Comercio; y (sic)
 
-V. Dirección, a la Dirección del Registro Público;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-VI. Director, al Director del Registro Público; y
+V.- Dirección General, a la Dirección General del Registro Público;
 
-VII. Registrador, al Director del Registro Público y a los Delegados del mismo.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+VI.- Director General, al Director General del Registro Público;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+VII.- Registrador, al Director General del Registro Público, los Oficiales Registradores y a los Delegados.
 
 ###### ARTICULO 4.
 
@@ -73,61 +81,103 @@ El Registro Público desempeñará las funciones registrales con estricto apego 
 
 El Registro Público tendrá su domicilio en la ciudad de Colima, pero podrán establecerse delegaciones del mismo en las cabeceras municipales que por su actividad inmobiliaria y económica en general lo justifiquen, a juicio del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 6.
 
-Para su buen funcionamiento, el Registro Público contará con la siguiente estructura organizacional:
+Para su funcionamiento eficiente, el Registro Público contará con la siguiente estructura organizacional:
 
-I. Dirección.
+I.- Dirección General.
 
-II. Departamento Jurídico.
+1.- Oficiales Registradores.
 
-a).- Sección de Calificación.
+2.- Delegados.
 
-b).- Sección de Inscripciones.
+II.- Dirección Jurídica.
 
-III. Departamento Administrativo.
+1.- Subdirección Jurídica de Procedimiento Registral.
 
 a).- Sección de Recepción y Entrega.
 
-b).- Sección de Resguardo.
+b).- Sección de Resguardo y Seguimiento.
 
-c).- Sección de Certificados, Copias y Constancias.
+1.1.- Coordinación Jurídica de Precalificación.
 
-d).- Sección de Consulta.
+c).- Sección de Precalificación.
 
-e).- Sección de Digitalización, Archivo e Indices.
+1.2.- Coordinación Jurídica de Calificación.
 
-IV. Departamento de Sistemas.
+d).- Sección de Calificación.
 
-### CAPÍTULO II. DE LA DIRECCION
+1.3.- Coordinación Jurídica de Inscripciones y Anotaciones.
+
+e).- Sección de Inscripciones y Anotaciones.
+
+1.4.- Coordinación Jurídica de Revisión y Control de Calidad.
+
+f).- Sección de Revisión y Control de Calidad.
+
+III. Dirección de Organización y Sistemas.
+
+1.- Subdirección de Información y Sistemas.
+
+a).- Sección de Certificados, Copias y Constancias.
+
+b).- Sección de Consulta.
+
+c).- Sección de Digitalización, Archivo e Índices.
+
+1.2.- Coordinador de Validación de Información y Teleconsulta.
+
+2.- Departamento de Recursos Humanos y Materiales.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO II. DE LA DIRECCION GENERAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 7.
 
-Para ser Director se requiere:
+Para ser Director General se requiere:
 
 I. Ser mexicano por nacimiento;
 
-II. Ser profesionista titulado, con cédula profesional y con la experiencia necesaria para dirigir la Institución; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+II.- Tener título de Licenciado en Derecho, con cédula profesional y con la experiencia mínima de cinco años para dirigir la Institución; y
 
 III. Contar con reconocida solvencia moral.
 
-###### ARTICULO 8.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO, EL CONTENIDO DEL ANTERIOR ARTICULO 8 INTEGRA EL AHORA 7 BIS.</small>
 
-Son atribuciones del Director:
+> <small>(ADICIONADO [N. DE. E. REFORMADO PRIMER PARRAFO], P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-I. Ejercer la depositaría de la fé pública registral, con el auxilio de los Jefes de Departamento y demás personal del Registro Público;
+ARTICULO 7 bis. - Son atribuciones del Director General:
 
-II. Planear, organizar, dirigir, coordinar y evaluar las actividades del personal a su cargo;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+I. Ejercer la depositaría de la fe pública registral, con el auxilio de los funcionarios y personal del Registro Público, con la facultad de delegarla a los oficiales registradores y delegados;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+II. Planear, organizar, dirigir, coordinar y evaluar las actividades de los funcionarios y personal del Registro Público;
 
 III. Vigilar que se reciban y atiendan diligentemente las solicitudes de los diversos servicios que presta el Registro Público;
 
-IV. Supervisar el proceso de inscripción de títulos en los medios electrónicos disponibles y a través de los sistemas computacionales instalados, autorizando con su firma los registros que se generen;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+IV. Supervisar el proceso de inscripción de títulos en los medios electrónicos disponibles y a través de los sistemas computacionales instalados, autorizando con su firma autógrafa los registros que se generen;
 
 V. Expedir las certificaciones, copias y constancias que sobre inscripciones, anotaciones y cancelaciones de los registros en general soliciten los interesados;
 
-VI. Ordenar que se realicen en los registros electrónicos, las anotaciones solicitadas por los Notarios Públicos y demás interesados, cuando sean procedentes de acuerdo con las disposiciones legales aplicables, autorizando con su firma las constancias que avalen dichas anotaciones;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-VII. Vigilar que las delegaciones y las distintas áreas de la Dirección se conduzcan con estricto apego al presente Reglamento y demás disposiciones legales y reglamentarias;
+VI. Ordenar que se realicen en los registros electrónicos, las anotaciones solicitadas por los Notarios Públicos y demás interesados, cuando sean procedentes de acuerdo con las disposiciones legales aplicables, autorizando con su firma autógrafa las constancias que avalen dichas anotaciones;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+VII. Vigilar que los servidores públicos que prestan sus servicios en las dependencias del Registro Público se conduzcan con estricto apego al presente Reglamento y demás disposiciones legales y reglamentarias;
 
 VIII. Conocer y resolver los recursos administrativos que se interpongan por los particulares en contra de las determinaciones del Registro Público;
 
@@ -141,131 +191,381 @@ XII. Atender a los usuarios de los servicios registrales en los problemas y plan
 
 XIII. Sustanciar el procedimiento administrativo para la reposición de documentos;
 
-XIV. Suscribir la correspondencia oficial del Registro Público;
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-XV. Realizar las demás actividades que le encomiende el Secretario General de Gobierno; y
+XIV. Evaluar y autorizar en su caso las solicitudes de tele consulta y registro en línea de los Notarios y dependencias gubernamentales que requieren estos servicios;
 
-XVI. Las demás que el Código le confiera.
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO III. DEL DEPARTAMENTO JURIDICO
+XV. Conceder en su caso a las organizaciones inmobiliarias, desarrolladores de vivienda e instituciones financieras el acceso remoto para la consulta y expedición de certificados sobre folios reales;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+XVI. Suscribir la correspondencia oficial del Registro Público;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+XVII. Realizar las demás actividades que le encomiende el Secretario General de Gobierno; y
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+XVIII. Las demás que el Código y el Reglamento Interno de la Secretaría le confiera.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 8.
+
+Para ser Oficial Registrador se requiere:
+
+I. Ser mexicano por nacimiento;
+
+II. Tener título de Licenciado en Derecho y una experiencia mínima de tres años en el ejercicio de la profesión;
+
+III. Ser de reconocida solvencia moral, y
+
+IV. Reunir el perfil que la ley de la materia establezca.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 8 bis. - Compete a los Oficiales Registradores:
+
+I. Ejercer por delegación la atribución del Director General, la depositaría de la fe pública registral de la propiedad o mercantil, que le asigne, con el auxilio de los funcionarios y personal del Registro Público;
+
+II. Revisar el proceso final de inscripción de títulos en los medios electrónicos disponibles y a través de los sistemas computacionales instalados, autorizando con su firma autógrafa los registros que se generen;
+
+III. Subscribir las certificaciones, copias y constancias que sobre inscripciones, anotaciones y cancelaciones de los registros en general soliciten los interesados;
+
+IV. Verificar que se realicen en los registros electrónicos, las anotaciones solicitadas por los Notarios Públicos y demás interesados, cuando sean procedentes de acuerdo con las disposiciones legales aplicables, autorizando con su firma autógrafa las constancias que avalen dichas anotaciones;
+
+V. Apoyar al Director General en la supervisión para que las delegaciones y las áreas de la Dirección General se conduzcan con estricto apego al Código Civil, al presente Reglamento y demás disposiciones legales y reglamentarias;
+
+VI. Realizar las demás actividades que le encomiende el Director General.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO III. DE LA DIRECCION JURIDICA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 9.
 
-Para ser Jefe del Departamento Jurídico se requiere:
+Para ser Director Jurídico, se requiere:
 
 I. Ser mexicano por nacimiento;
 
-II. Tener título de Licenciado en Derecho y una experiencia mínima de tres años en el ejercicio de la profesión; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+II. Tener título de Licenciado en Derecho y una experiencia mínima de cinco años en el ejercicio de la profesión; y
 
 III. Ser de reconocida solvencia moral.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO, EL CONTENIDO DEL ANTERIOR ARTICULO 10 INTEGRA EL AHORA 9 BIS.</small>
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 9 bis.- Compete al Director Jurídico:
+
+I.- Dirigir y coordinar las actividades de inscripción y anotación de los actos jurídicos y el asentamiento de los mismos en los medios electrónicos, a través de los sistemas computacionales diseñados para el efecto;
+
+II.- Establecer e instrumentar los sistemas de control de calidad de los servicios cuyo trámite corresponda realizar al personal de las secciones a su cargo, para que se presten en forma ágil, y con estricto apego a las normas legales y reglamentarias aplicables;
+
+III.- Aprobar los productos emanados de los trámites realizados por el personal a su cargo, previamente revisados por el Subdirector de Procedimiento Registral y los Coordinadores Jurídicos, y turnarlos al Director General para su autorización y firma;
+
+IV.- Suplir en todas sus funciones jurídicas al Director General en sus ausencias temporales. En el caso de autorizaciones y/o rúbrica de documentos que contengan resoluciones, determinaciones o certificaciones que puedan afectar intereses de terceros, deberá anotarse la leyenda: "En ausencia del Director General, firma el Director Jurídico";
+
+V.- Proponer al Director General los proyectos de resoluciones de recursos que se interpongan por los particulares en contra de las determinaciones del Registro Público;
+
+VI.- Formular los oficios de rechazo de solicitudes de inscripción, anotaciones y cancelaciones, debidamente fundados y motivados y turnarlos al Director General para su firma;
+
+VII.- Formular los informes previos y justificados, así como la contestación de demandas que se interpongan ante los tribunales competentes en contra del Registro Público y pasarlos para firma del Director General, y representar a éste en todos los juicios en que aquél sea parte, y
+
+VIII.- Realizar las demás actividades que le encomiende el Director General.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 10.
 
-Compete al Jefe del Departamento Jurídico:
+Para ser Subdirector Jurídico de Procedimiento Registral se requiere:
 
-I. Dirigir y coordinar las actividades de inscripción de los actos jurídicos y el asentamiento de las anotaciones a los mismos en los medios electrónicos, a través de los sistemas computacionales diseñados para el efecto;
+I.- Ser mexicano por nacimiento;
 
-II. Supervisar que los servicios cuyo trámite corresponda realizar al personal de las áreas a su cargo, se presten en forma ágil, y con estricto apego a las normas legales y reglamentarias aplicables;
+II.- Tener título de Licenciado en Derecho y una experiencia mínima de tres años en el ejercicio de la profesión; y
 
-III. Revisar los productos emanados de los trámites realizados por el personal a su cargo, otorgar su aprobación previa y turnarlos al Director para su autorización y firma;
+III.- Ser de reconocida solvencia moral.
 
-IV. Suplir en todas sus funciones al Director en sus ausencias temporales. En el caso de autorizaciones y/o rúbrica de documentos que contengan resoluciones, determinaciones o certificaciones que puedan afectar intereses de terceros, deberá anotarse la leyenda: "En ausencia del Director, firma el Jefe del Departamento Jurídico";
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-V. Proponer al Director los proyectos de resoluciones de recursos que se interpongan por los particulares en contra de las determinaciones del Registro Público;
+ARTICULO 10 bis.- Compete al Subdirector Jurídico de Procedimiento Registral:
 
-VI. Formular los oficios de rechazo de solicitudes de inscripción, anotaciones y cancelaciones, debidamente fundados y motivados y turnarlos al Director para su firma;
+I.- Revisar las actividades de inscripción y anotaciones de los actos jurídicos en los medios electrónicos, a través de los sistemas computacionales diseñados para tal efecto;
 
-VII. Asesorar y auxiliar en la materia técnica jurídica al personal del Registro Público;
+II.- Conducir el trabajo de las secciones a su cargo a través de los Coordinadores Jurídicos respectivos;
 
-VIII. Atender a los usuarios del Registro Público en las consultas de carácter jurídico registral que le planteen;
+III.- Supervisar, con el apoyo de los Coordinadores Jurídicos respectivos, que los servicios cuyo trámite corresponda realizar al personal de las secciones a su cargo, se presten en forma ágil, y con estricto apego a las normas legales y reglamentarias aplicables;
 
-IX. Formular los informes previos y justificados, así como la contestación de demandas que se interpongan ante los tribunales competentes en contra del Registro Público y pasarlos para firma del Director, y representar a éste en todos los juicios en que aquel sea parte; y
+IV.- Revisar, con el apoyo de los Coordinadores Jurídicos, los productos emanados de los trámites realizados por el personal a su cargo, otorgar su aprobación previa y turnarlos al Director General para su autorización y firma;
 
-X. Realizar las demás actividades que le encomiende el Director.
+V.- Suplir en todas sus funciones al Director Jurídico en sus ausencias temporales;
+
+VI.- Auxiliar al Director Jurídico en la elaboración de los proyectos de resoluciones de recursos que se interpongan por los particulares en contra de las determinaciones del Registro Público;
+
+VII.- Apoyar al Director Jurídico en la preparación de los oficios de rechazo de solicitudes de inscripción, anotaciones y cancelaciones, debidamente fundados y motivados y turnarlos al Director General para su firma;
+
+VIII.- Asesorar y auxiliar directamente en la materia técnica jurídica al personal del Registro Público, junto con los Coordinadores Jurídicos;
+
+IX.- Atender a los usuarios del Registro Público en las consultas de carácter jurídico registral que le planteen, apoyándose en los coordinadores jurídicos;
+
+X.- Apoyar al Director Jurídico en la formulación de los informes previos y justificados, así como la contestación de demandas que se interpongan ante los tribunales competentes en contra del Registro Público y pasarlos para firma del Director General;
+
+XI.- Realizar las demás actividades que le encomiende el Director Jurídico, o en su caso el Director General.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 11.
 
-Para ser Jefe del Departamento Administrativo se requiere:
+Para ser Coordinador Jurídico de las secciones registrales se requiere:
 
-I. Ser mexicano por nacimiento;
+I.- Ser mexicano por nacimiento;
 
-II. Ser profesionista titulado y tener experiencia administrativa de tres años como mínimo;
+II.- Tener título de Licenciado en Derecho y una experiencia mínima de dos años en el ejercicio de la profesión; y
 
-III. Ser de reconocida solvencia moral.
+III.- Ser de reconocida solvencia moral.
 
-### CAPÍTULO IV. DEL DEPARTAMENTO ADMINISTRATIVO
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 11 bis.- Compete a los Coordinadores Jurídicos de las secciones:
+
+A) De Precalificación:
+
+I) Supervisar las actividades del personal de la sección de recepción y entrega así como el personal de la sección de resguardo y seguimiento;
+
+II) Proporcionar Asesoría Jurídica al personal de recepción, resguardo y orientación a los usuarios del servicio;
+
+III) Auxiliar al Subdirector Jurídico de Procedimiento Registral en las labores que éste le encomiende;
+
+IV) Darle entrada a las solicitudes cuando éstas cumplan con los requisitos de forma exigidos por las disposiciones legales y reglamentarias;
+
+V) Supervisar que sean pagados los derechos fiscales correspondientes, a excepción de los trámites que por disposición de ley, no causen los citados derechos;
+
+VI) Turnar a la sección de calificación los asuntos que cubran los requisitos mínimos para su ingreso;
+
+VII) Las demás inherentes a su cargo que le asigne el Director Jurídico o Subdirector Jurídico de Procedimiento Registral.
+
+B) De Calificación:
+
+I) Supervisar que los servicios cuyo trámite corresponda realizar al personal de las áreas a su cargo, se presten en forma ágil, y con estricto apego a las normas legales y reglamentarias aplicables;
+
+II) Emitir dictamen en los asuntos que le sean turnados por el Director Jurídico o el Subdirector Jurídico de Procedimiento Registral;
+
+III) Determinar con estricto apego a la ley, la procedencia o improcedencia de las inscripciones, anotaciones o cancelaciones;
+
+IV) Formular los oficios de rechazo de solicitudes de inscripción, anotaciones y cancelaciones, debidamente fundados y motivados y turnarlos al Director General para su firma;
+
+V) Proporcionar asesoría técnica al personal de calificación, y orientación a los usuarios del servicio;
+
+VI) Determinar la inscripción de alguno o algunos inmuebles, actos o contratos cuando en un mismo título se refiera a diversos de éstos, y proceda la denegación del registro sólo en relación con alguno o algunos de ellos;
+
+VII) Proponer al Subdirector Jurídico de Procedimiento Registral la aplicación de medidas tendientes a hacer más expedita la calificación registral;
+
+VIII) Deberá supervisar que al ejercer la calificación se atiendan los precedentes, de prelación, judiciales y administrativos relacionados con la materia registral;
+
+IX) Las demás que le asigne el Director Jurídico o el Subdirector Jurídico de Procedimiento Registral.
+
+C) De Inscripciones y Anotaciones:
+
+I) Dirigir y Coordinar las actividades de Inscripción de los actos Jurídicos y el asentamiento de las anotaciones a los mismos en los medios electrónicos a través de los sistemas computacionales diseñados para el efecto;
+
+II) Supervisar que los servicios cuyo trámite corresponda realizar al personal de las áreas a su cargo, se presten en forma ágil, y con estricto apego a las normas legales y reglamentarias aplicables;
+
+III) Asesorar y auxiliar en la materia técnica jurídica al personal de registro de inscripciones y anotaciones;
+
+IV) Supervisar y controlar la sección de anotaciones e inscripciones;
+
+V) Supervisar que los documentos sean registrados por el orden de su prelación;
+
+VI) Ordenar que se realicen en las terminales de cómputo las anotaciones solicitadas por los Notarios Públicos y demás interesados cuando sean procedentes de acuerdo con las disposiciones legales aplicables, autorizando con su firma las constancias que avalen dichas anotaciones;
+
+VII) Autorizar con su firma las inscripciones, anotaciones y demás actos de su oficina, pudiendo usar antefirma para las anotaciones y las inscripciones;
+
+VIII) Remitir mensualmente un informe a la Subdirector Jurídico de Procedimiento Registral del funcionamiento de su oficina;
+
+IX) Las demás que le asigne el Director Jurídico o Subdirector Jurídico de Procedimiento Registral.
+
+D) De Revisión y Control de Calidad:
+
+I) Supervisar que los servicios cuyo trámite corresponda realizar al personal de las áreas a su cargo, se presten en forma ágil, y con estricto apego a las normas legales y reglamentarias aplicables;
+
+II) Revisar los productos emanados de los trámites realizados por el personal a su cargo, otorgar su aprobación previa y turnarlos al director para su autorización y firma;
+
+III) La Impresión de Sellos;
+
+IV) Supervisar el Proceso de Inscripción de títulos a través de las terminales de cómputo habilitadas para ello, autorizando con su firma las constancias de registro que se generen;
+
+V) Supervisar los productos de las inscripciones y anotaciones, para verificar que se hayan inscrito y anotado con total y estricto apego a las disposiciones de la ley;
+
+VI) Confirmar, modificar o revocar en su caso, las inscripciones o anotaciones hechas por los registradores;
+
+VII) Revisar las certificaciones, copias y constancias que sobre inscripciones, anotaciones y cancelaciones en los libros y folios se soliciten;
+
+VIII) Las demás que le asigne el Director Jurídico o Subdirector Jurídico de Procedimiento Registral.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO IV. DE LA DIRECCIÓN DE ORGANIZACIÓN Y SISTEMAS
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 12.
 
-Corresponde al Jefe del Departamento Administrativo:
+Para ser Director de Organización y Sistemas se requiere:
 
-I. Integrar, custodiar y controlar el archivo físico de libros, folios y demás documentos del Registro Público, así como el archivo electrónico;
+I.- Ser mexicano por nacimiento;
 
-II. Vigilar que el mobiliario y equipo del Registro Público se mantenga en óptimas condiciones;
+II.- Ser profesionista titulado y tener experiencia administrativa de cinco años como mínimo;
 
-III. Dotar oportunamente a las diversas áreas del Registro Público, los materiales y útiles de oficina que se requieran en su operación cotidiana;
+III.- Ser de reconocida solvencia moral.
 
-IV. Tramitar la adquisición de mobiliario, equipo, materiales y útiles de oficina que se requieran, de conformidad con los lineamientos administrativos vigentes y observando la disponibilidad presupuestal;
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-V. Vigilar la disponibilidad de las partidas presupuestales, para promover con oportunidad las transferencias necesarias;
+ARTICULO 12 bis.- Corresponde al Director de Organización y Sistemas:
 
-VI. Supervisar la recepción de solicitudes de servicios y la entrega de los productos derivados de las mismas, cuidando que ambas funciones se realicen con diligencia y cordialidad;
+I.- Fungir como administrador de personal y recursos materiales con el apoyo del Jefe de Departamento respectivo;
 
-VII. Cuidar que las solicitudes recibidas se distribuyan adecuadamente entre el personal de las secciones de "Calificación" y de "Inscripciones", de acuerdo con la prelación y asignación automática;
+II.- Controlar, integrar y custodiar el archivo físico de libros, folios físico y electrónicos y demás documentos del Registro Público, así como el archivo electrónico;
 
-VIII. Revisar los productos emanados de los trámites realizados por el personal a su cargo, otorgar su aprobación previa y turnarlos al Director para su autorización y firma;
+III.- Revisar los productos emanados de los trámites realizados por el personal a su cargo, otorgar su aprobación previa y turnarlos al Director General para su autorización y firma;
 
-IX. Vigilar que los productos derivados de las solicitudes de registro, sean incorporados de inmediato a los medios de almacenamiento óptico;
+IV.- Suplir en sus funciones administrativas al Director General en sus ausencias temporales. En el caso de autorizaciones y/o rúbrica de formatos y documentos que impliquen manejo de recursos humanos, materiales y financieros, en general que puedan afectar las actividades regulares del Registro Público, deberá anotarse la leyenda: "En Ausencia del Director General firma el Director de Organización y Sistemas"; informándole al Director General de todas ellas, al primer día de su presentación.
 
-X. Controlar el acceso a las áreas de trabajo de la Dirección, evitándolo a las personas ajenas al Registro Público;
+V.- Vigilar que los productos derivados de las solicitudes de registro, sean incorporados de inmediato a los medios de almacenamiento óptico;
 
-XI. Evaluar la producción de trámites por áreas y puestos y generar informes y estadísticas mensuales y anuales de recepción y solventación de solicitudes;
+VI.- Controlar el acceso a las áreas de trabajo del Registro Público, evitándolo a las personas ajenas a la oficina;
 
-XII. Vigilar que las solicitudes de servicio se atiendan con oportunidad, calidad y estricto orden de prelación, o de turno en el caso de la consulta electrónica;
+VII.- Evaluar la producción de trámites por áreas y puestos y generar informes y estadísticas mensuales y anuales de recepción y solventación de solicitudes;
 
-XIII. Tramitar la recepción de la nómina del Registro Público ante la Secretaría de Finanzas y entregar los cheques de sueldo al personal de acuerdo con las normas establecidas;
+VIII.-Recabar y revisar en su caso las solicitudes de tele consulta y registro en línea de los Notarios y dependencias gubernamentales que requieren estos servicios,
 
-XIV. Reportar y dar seguimiento a las diversas incidencias que surjan con el personal del Registro Público, sometiendo a la aprobación del Director las solicitudes de permisos y las propuestas de sustitución temporales y definitivas, cuidando que no afecten la buena marcha de la dependencia;
+IX.- Recabar y revisar en su caso a las organizaciones Inmobiliarias, desarrolladores de vivienda e instituciones financieras el acceso remoto para la consulta y expedición de certificados sobre folios reales;
 
-XV. Proponer medidas que simplifiquen y agilicen la prestación de los servicios a cargo del Registro Público;
+X.- Elaborar y proponer al Director General el proyecto de Presupuesto de Egresos anual del Registro Público;
 
-XVI. Cuidar que las áreas físicas del Registro Público se mantengan invariablemente limpias; y
+XI.- Supervisar la disponibilidad de las partidas presupuestales, para promover con oportunidad las transferencias necesarias con la aprobación del Director General;
 
-XVII. Realizar las demás actividades que le encomiende el Director.
+XII.- Elaborar y actualizar permanentemente el Manual de Organización y Procedimientos del Registro Público, proponiendo medidas que simplifiquen y agilicen la prestación de los servicios;
+
+XIII.-Realizar las demás actividades que le encomiende el Director General.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 13.
 
-Para ser Jefe del Departamento de Sistemas se requiere:
+Para ser Subdirector de Información y Sistemas se requiere:
 
-I. Ser mexicano por nacimiento;
+I.- Ser mexicano por nacimiento;
 
-II. Ser profesionista en el ramo de la computación; y
+II.- Ser profesionista en informática, telemática o sistemas con experiencia mínima de tres años; y
 
-III. Ser de reconocida solvencia moral.
+III.- Ser de reconocida solvencia moral.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 13 bis.- El Subdirector de Información y Sistemas tendrá las atribuciones siguientes:
+
+I.- Administrar los sistemas computacionales instalados en el Registro Público, orientándolos a la eficaz prestación de los servicios a cargo de la dependencia;
+
+II.- Mantener los sistemas y equipos de cómputo debidamente habilitados, para que el personal operativo del Registro Público esté en posibilidades de realizar sus labores con toda normalidad;
+
+III.- Vigilar que los equipos de cómputo tengan un óptimo aprovechamiento, resolviendo con toda oportunidad los problemas que puedan afectar su operación;
+
+IV.- Cuidar que los equipos de cómputo reciban los servicios de mantenimiento preventivos y correctivos, para su buen funcionamiento;
+
+V.- Elaborar y actualizar la página internet de servicios del Registro Público;
+
+VI.- Prestar la asesoría y asistencia necesaria al personal operativo, en el área de su competencia, para solucionar los problemas que se les presenten, y;
+
+VII.- Las demás que le confiera el Director de Organización y Sistemas, o el Director General en su caso.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 14.
 
-El Jefe del Departamento de Sistemas tendrá las atribuciones siguientes:
+Para ser Coordinador de Validación de la Información y Teleconsulta se requiere:
 
-I. Administrar los sistemas computacionales instalados en el Registro Público, orientándolos a la eficaz prestación de los servicios a cargo de la dependencia;
+I.- Ser mexicano por nacimiento;
 
-II. Mantener los sistemas y equipos de cómputo debidamente habilitados, para que el personal operativo del Registro Público esté en posibilidades de realizar sus labores con toda normalidad;
+II.- Ser profesionista en derecho con conocimientos en informática con experiencia mínima de dos años; y
 
-III. Vigilar que los equipos de cómputo tengan un óptimo aprovechamiento, resolviendo con toda oportunidad los problemas que puedan afectar su operación;
+III.- Ser de reconocida solvencia moral.
 
-IV. Cuidar que los equipos de cómputo reciban los servicios de mantenimiento preventivos y correctivos, para su buen funcionamiento;
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-V. Prestar la asesoría y asistencia necesaria al personal operativo, en el área de su competencia, para solucionar los problemas que se les presenten; y
+ARTICULO 14 bis.- El Coordinador de Validación de la Información y Teleconsulta tendrá las siguientes atribuciones:
 
-VI. Las demás que le confiera el Director.
+I.- Coordinar la revisión y cotejo de los datos contenidos en los folios electrónicos que coincidan con los folios físicos y modificar los electrónicos en su caso;
+
+II.- Dirigir la actualización y captura de información en los Folios Reales Electrónicos proveniente de los Folios Reales Físicos;
+
+III.- Supervisar la validación de los Folios Reales Electrónicos que permitan expedir certificados de existencia o inexistencia de gravámenes en los Centros de Servicios de Gobierno Electrónico del Estado de Colima;
+
+IV.- Revisar los asientos registrales ingresados en forma electrónica, cotejándolos con el Documento ingresado a su registro, modificando, confirmando o revocando el asiento;
+
+V.- Imprimir los productos de los asientos registrales correctos ingresados en forma electrónica, firmándolos de revisado y enviarlos al archivo;
+
+VI.- Revisar los registros formales de los documentos ingresados al registro en forma electrónica;
+
+VII.- Requerir a los interesados los documentos que de acuerdo al código, la ley, el reglamento o demás ordenamientos legales aplicables deban anexar al documento ingresado al Registro Público por vía electrónica;
+
+VIII.- Organizar, dirigir, coordinar y evaluar las actividades del personal a su cargo;
+
+IX.- Realizar las demás actividades que le encomiende el Subdirector de Información y Sistemas.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 15.
 
-El Ejecutivo determinará las poblaciones donde deban establecerse delegaciones del Registro Público y señalará la circunscripción territorial de cada una de ellas. Dichas Delegaciones estarán a cargo de un Delegado, que dependerá directamente del Director y que tendrá a su cargo el personal y equipo necesarios que garanticen la prestación eficaz de los servicios.
+Para ser Jefe del Departamento de Recursos Humanos y Materiales se requiere:
 
-### CAPÍTULO V. DEL DEPARTAMENTO DE SISTEMAS
+I.- Ser mexicano por nacimiento;
+
+II.- Ser profesionista o técnico con reconocida experiencia en administración de recursos, mínima de dos años; y
+
+III.- Ser de reconocida solvencia moral.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 15 bis.- El Jefe del Departamento Recursos Humanos y Materiales tendrá las siguientes atribuciones:
+
+I.- Fungir como administrador de personal y recursos materiales con el apoyo del Jefe de Departamento respectivo;
+
+II.- Vigilar que el mobiliario y equipo del Registro Público se mantenga en óptimas condiciones;
+
+III.- Dotar oportunamente a las diversas áreas del Registro Público, los materiales y útiles de oficina que se requieran en su operación cotidiana;
+
+IV.- Suplir en sus funciones administrativas al Director de Organización y Sistemas en sus ausencias temporales. En el caso de autorizaciones y/o rúbrica de formatos y documentos que impliquen manejo de recursos humanos, materiales y financieros, en general que puedan afectar las actividades regulares del Registro Público, deberá anotarse la leyenda: "En Ausencia del Director de Organización y Sistemas firma el Jefe del Departamento de Recursos Humanos y Materiales"; informándole al Director de Organización y Sistemas de todas ellas, al primer día de su presentación.
+
+V.- Tramitar la adquisición de mobiliario, equipo, materiales y útiles de oficina que se requieran, de conformidad con los lineamientos administrativos vigentes y observando la disponibilidad presupuestal;
+
+VI.- Vigilar la disponibilidad de las partidas presupuestales, para promover con oportunidad las transferencias necesarias, con la supervisión del Director de Organización y Sistemas, y la aprobación del Director General;
+
+VII.- Tramitar la recepción de la nómina del Registro Público ante la Secretaría de Finanzas y entregar los cheques de sueldo al personal de acuerdo con las normas establecidas;
+
+VIII.- Reportar y dar seguimiento a las diversas incidencias que surjan con el personal del Registro Público, sometiendo a la aprobación del Director General las solicitudes de permisos y las propuestas de sustitución temporales y definitivas, cuidando que no afecten la buena marcha de la dependencia;
+
+IX.- Implementar las medidas necesarias para la seguridad y protección civil del personal y usuarios del Registro Público;
+
+X.- Cuidar que las áreas físicas del Registro Público se mantengan invariablemente limpias; y
+
+XI.- Las demás que le confiera el Director de Organización y Sistemas, o el Director General en su caso.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO V. DE LAS DELEGACIONES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 16.
+
+El Ejecutivo determinará las poblaciones donde deban establecerse delegaciones del Registro Público y señalará la circunscripción territorial de cada una de ellas. Dichas Delegaciones estarán a cargo de un Delegado, que dependerá directamente del Director General y que tendrá a su cargo el personal y equipo necesarios que garanticen la prestación eficaz de los servicios.
 
 Las Delegaciones prestarán con base en los registros electrónicos disponibles, los mismos servicios que prestan las oficinas centrales del Registro Público. Las Delegaciones generarán sus propios archivos documentales a partir del momento de su apertura.
 
@@ -275,7 +575,9 @@ Para ser Delegado del Registro Público se requiere:
 
 I. Ser mexicano por nacimiento;
 
-II. Tener título de Licenciado en Derecho con experiencia mínima de tres años en el ejercicio de la profesión; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+II.- Tener título de Licenciado en Derecho con experiencia mínima de cinco años en el ejercicio de la profesión; y
 
 III. Ser de reconocida solvencia moral.
 
@@ -297,21 +599,29 @@ VI. Ordenar que se realicen en las terminales de cómputo las anotaciones solici
 
 VII. Resolver los recursos que se interpongan por los particulares en contra de las determinaciones del Registro Público;
 
-VIII. Informar mensualmente al Director del Registro Público, de los trámites realizados y las incidencias presentadas;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+VIII.- Informar mensualmente al Director General del Registro Público, de los trámites realizados y las incidencias presentadas;
 
 IX. Asesorar y auxiliar en la materia técnica jurídica al personal de la Delegación;
 
 X. Formular y suscribir los informes previos y justificados, así como contestar las demandas que se interpongan ante los tribunales competentes en contra de la Delegación; y
 
-XI. Las demás que le asigne el Director.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO VI. DE LAS DELEGACIONES
+XI.- Las demás que le asigne el Director General.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO VI. DE LAS SECCIONES Y DEL PERSONAL EN GENERAL
 
 ###### ARTICULO 19.
 
 Para formar parte de la planta de personal del Registro Público y sus Delegaciones, se requiere:
 
-I. Cumplir con los requisitos que establezca la Oficialía Mayor de Gobierno y los que disponga la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
+I. Cumplir con los requisitos que establezca la Secretaría de Administración y los que disponga la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado; y
 
 II. Ser de reconocida solvencia moral.
 
@@ -334,6 +644,8 @@ VI. Las demás que señalen el Código, reglamentos y demás disposiciones aplic
 ###### ARTICULO 21.
 
 El personal operativo adscrito a las diferentes secciones del Registro Público, así como de las Delegaciones, tendrá las funciones que se establezcan en los manuales administrativos aprobados, debiendo realizarlas conforme a los procedimientos plasmados en los mismos.
+
+> <small>(DEROGADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO VII. DE LAS SECCIONES Y DEL PERSONAL EN GENERAL
 
@@ -371,9 +683,11 @@ Se dará entrada a las solicitudes de servicios cuando se cumpla con los requisi
 
 A las solicitudes ingresadas se les asentará la fecha, hora de su ingreso y el número de prelación. Las solicitudes de servicio serán atendidas estrictamente de acuerdo a la prelación que se les asigne en forma automática.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 26.
 
-Las solicitudes que se reciban durante la jornada diaria de labores, conjuntamente con la copia del recibo de pago de derechos y los documentos entregados por los solicitantes, serán canalizadas a la Sección de "Resguardo", que será la responsable de su distribución al personal encargado de su atención.
+Las solicitudes que se reciban durante la jornada diaria de labores, conjuntamente con la copia del recibo de pago de derechos y los documentos entregados por los solicitantes, serán canalizadas a la Sección de "Resguardo y Seguimiento", que será la responsable de su distribución al personal encargado de su atención.
 
 ### CAPÍTULO III. DE LA CALIFICACION DE LAS SOLICITUDES
 
@@ -427,9 +741,11 @@ Los documentos que contengan los actos jurídicos presentados ante el Registro P
 
 Inmediatamente después de haberse realizado la inscripción, al calce del título inscrito se anotará la fecha de la misma y el número del folio en que quedó inscrito; asimismo se hará constar el monto de los derechos pagados y el número de recibo de pago, procediendo el registrador a la autorización de la inscripción con su firma y sello.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 36.
 
-El personal responsable capturará la información requisitando los diversos datos exigidos por el sistema computacional, los que se tomarán del documento presentado para su inscripción sin abreviaturas ni alteraciones. Terminado el proceso de captura en el sistema computacional, se ordenará la impresión en original y copia de los productos en los que conste la inscripción, mismos que se turnarán con los documentos base al Jefe del Departamento Jurídico para su revisión final, previa firma del empleado que hubiera operado el trámite. El Jefe del Departamento Jurídico revisará y validará la inscripción con su antefirma y la canalizará al Director para su firma y sello.
+El personal responsable capturará la información requisitando los diversos datos exigidos por el sistema computacional, los que se tomarán del documento presentado para su inscripción sin abreviaturas ni alteraciones. Terminado el proceso de captura en el sistema computacional, se ordenará la impresión en original y copia de los productos en los que conste la inscripción, mismos que se turnarán con los documentos base al Director Jurídico para su revisión final, previa firma del empleado que hubiera operado el trámite. El Director Jurídico revisará y validará la inscripción con su antefirma y la canalizará al Director General para su firma y sello.
 
 ###### ARTICULO 37.
 
@@ -449,9 +765,11 @@ Cuando algún acto o contrato inscribibles se hayan celebrado por medio de repre
 
 Las anotaciones y cancelaciones se harán invariablemente en el folio que contenga la inscripción del acto jurídico al que corresponda la anotación o cancelación.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 41.
 
-Calificada la solicitud de anotación o cancelación, el personal de la Sección de "Inscripciones" procederá a capturar la información que le requisite el módulo correspondiente del sistema computacional, con base en los documentos anexos a la solicitud, sin abreviaturas de ninguna especie ni alteraciones.
+Calificada la solicitud de anotación o cancelación, el personal de la Sección de "Inscripciones y Anotaciones" procederá a capturar la información que le requisite el módulo correspondiente del sistema computacional, con base en los documentos anexos a la solicitud, sin abreviaturas de ninguna especie ni alteraciones.
 
 ###### ARTICULO 42.
 
@@ -493,25 +811,27 @@ Las anotaciones que, conforme a la Ley deban practicarse y sean relativas a fian
 
 En el caso previsto por la fracción VII del artículo 2932 del Código, la anotación preventiva se practicará por mandato de autoridad competente y sólo servirá para que conste en el registro la afectación del bien sobre el que hubiere recaído la declaración.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 51.
 
-Las anotaciones que se practiquen por suspensión provisional o definitiva de actos reclamados al Director del Registro Público, señalado como autoridad responsable en juicio de amparo, se harán por orden de la autoridad competente y expresarán:
+Las anotaciones que se practiquen por suspensión provisional o definitiva de actos reclamados al Director General, señalado como autoridad responsable en juicio de amparo, se harán por orden de la autoridad competente y expresarán:
 
-I. El Juzgado o Tribunal que haya dictado la suspensión;
+I.- El Juzgado o Tribunal que haya dictado la suspensión;
 
-II. El número del expediente y el número y fecha del oficio en que se comunique al Registro la resolución respectiva;
+II.- El número del expediente y el número y fecha del oficio en que se comunique al Registro la resolución respectiva;
 
-III. El nombre del o de los quejosos;
+III.- El nombre del o de los quejosos;
 
-IV. La naturaleza y efectos de la suspensión;
+IV.- La naturaleza y efectos de la suspensión;
 
-V. El acto reclamado;
+V.- El acto reclamado;
 
-VI. Los nombres de los terceros perjudicados;
+VI.- Los nombres de los terceros perjudicados;
 
-VII. Las garantías otorgadas para que surta efectos la suspensión, y
+VII.- Las garantías otorgadas para que surta efectos la suspensión, y
 
-VIII. Las demás circunstancias relativas al incidente respectivo, cuando así lo disponga el Tribunal o el Juez del conocimiento.
+VIII.-Las demás circunstancias relativas al incidente respectivo, cuando así lo disponga el Tribunal o el Juez del conocimiento.
 
 ### CAPÍTULO VI. DE LA TELECONSULTA
 
@@ -519,9 +839,11 @@ VIII. Las demás circunstancias relativas al incidente respectivo, cuando así l
 
 Los Notarios Públicos, las instituciones financieras y de crédito y las dependencias y organismos descentralizados del poder público que lo soliciten, podrán disponer en su propio domicilio de la consulta permanente a la información del Registro Público, para lo cual deberán de contar previamente con el equipo de cómputo requerido y la línea telefónica correspondiente, así como efectuar el pago de los derechos respectivos.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 53.
 
-La información registral podrá ser consultada durante el horario de labores de la Dirección, debiéndose pagar los derechos de consulta en la forma, monto y con la periodicidad que determine la Ley de Hacienda del Estado.
+La información registral podrá ser consultada durante el horario de labores de la Dirección General, debiéndose pagar los derechos de consulta en la forma, monto y con la periodicidad que determine la Ley de Hacienda del Estado.
 
 ###### ARTICULO 54.
 
@@ -609,7 +931,7 @@ I. La perteneciente a una sola persona, comprendida dentro de unos mismos linder
 
 II. La perteneciente a varias personas en comunidad, mientras no se divida por virtud de título legal;
 
-III. La edificada que, aún teniendo dos o mas vías de acceso que se identifiquen con números o letras diferentes, constituyan en su interior, una unidad continua; y
+III. La edificada que, aún teniendo dos o más vías de acceso que se identifiquen con números o letras diferentes, constituyan en su interior, una unidad continua; y
 
 IV. La edificada que, perteneciendo a un mismo dueño, tenga entradas diferentes para dar acceso a los departamentos altos y bajos.
 
@@ -675,7 +997,7 @@ III. Toda inscripción relativa a fincas en las que el suelo pertenezca a una pe
 
 IV. La naturaleza del derecho que se constituya sobre una finca y la del acto o contrato constitutivo, se expresarán con el nombre que se les dé en el título, y si de este apareciesen innominados, así constará en la inscripción;
 
-V. El valor de la finca o en su caso, el monto del derecho a inscribir se harán constar en la misma forma consignada en el título. Cuando se trate de operaciones realizadas en conjunto respecto de fincas diversas, el título e inscripción deberán precisar el valor de cada una de ellas;
+V. El valor de la finca o en su caso, el monto del derecho a inscribir se harán (sic) constar en la misma forma consignada en el título. Cuando se trate de operaciones realizadas en conjunto respecto de fincas diversas, el título e inscripción deberán precisar el valor de cada una de ellas;
 
 VI. Las inscripciones relativas a hipotecas previstas en el artículo 2801 del Código, sólo se practicarán si el documento respectivo se ajusta a lo dispuesto por el precepto invocado;
 
@@ -887,9 +1209,11 @@ Los asientos y notas de presentación se cancelarán mediante nota que exprese l
 
 ### CAPÍTULO VII. DE LA PUBLICIDAD, DE LAS NOTIFICACIONES Y DE LOS TERMINOS
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 98.
 
-Los contenidos de los folios y documentos del Registro son públicos. Los datos y constancias que obren en los mismos serán proporcionados a quien lo solicite por el personal y a través de los sistemas y procedimientos que determine la dirección.
+Los contenidos de los folios y documentos del Registro son públicos. Los datos y constancias que obren en los mismos serán proporcionados a quien lo solicite por el personal y a través de los sistemas y procedimientos que determine la Dirección General.
 
 ###### ARTICULO 99.
 
@@ -921,47 +1245,61 @@ Cuando las certificaciones no concuerden con los asientos a que se refieran, se 
 
 ## TITULO CUARTO. DE LA REPOSICION DE DOCUMENTOS
 
-### CAPÍTULO UNICO
+### CAPÍTULO ÚNICO
 
 ###### ARTICULO 106.
 
 La reposición de documentos extraviados o destruidos se realizará de oficio por el Registro Público o a petición de parte interesada.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 107.
 
-Tratándose de folios reales o de cualquier otro documento que ampare derechos, el Director certificará la preexistencia y falta posterior del documento y ordenará la búsqueda en los archivos de la dependencia, para la localización de antecedentes de documentos que demuestren la existencia de gravámenes, limitaciones de dominio o cualquiera otro acto jurídico o cautelar que haya sido materia de anotación en el folio respectivo.
+Tratándose de folios reales o de cualquier otro documento que ampare derechos, el Director General certificará la preexistencia y falta posterior del documento y ordenará la búsqueda en los archivos de la dependencia, para la localización de antecedentes de documentos que demuestren la existencia de gravámenes, limitaciones de dominio o cualquiera otro acto jurídico o cautelar que haya sido materia de anotación en el folio respectivo.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 108.
 
-Para que proceda la reposición de folios a petición de parte interesada, bastará que la persona que tenga interés jurídico debidamente acreditado, solicite por escrito dicha reposición, declarando bajo protesta de decir verdad y conocimiento de las penas en que incurren los que declararan con falsedad, conforme a lo dispuesto por el artículo 115 del Código Penal del Estado, que el inmueble de su propiedad, relativo a su solicitud, tiene o no tiene gravámenes o limitaciones de dominio, aportando todos los elementos relativos a ellos en el primer caso. Asimismo deberá acompañar constancia certificada por las autoridades catastrales, relativa a la declaración de transmisión patrimonial a su favor respecto del inmueble de que se trata, así como aquellos otros documentos que acrediten sus derechos.
+Para que proceda la reposición de folios a petición de parte interesada, bastará que la persona que tenga interés jurídico debidamente acreditado, solicite por escrito dicha reposición, declarando bajo protesta de decir verdad y conocimiento de las penas en que incurren los que declararan (sic) con falsedad, conforme a lo dispuesto por el artículo 115 del Código Penal del Estado, que el inmueble de su propiedad, relativo a su solicitud, tiene o no tiene gravámenes o limitaciones de dominio, aportando todos los elementos relativos a ellos en el primer caso. Asimismo deberá acompañar constancia certificada por las autoridades catastrales, relativa a la declaración de transmisión patrimonial a su favor respecto del inmueble de que se trata, así como aquellos otros documentos que acrediten sus derechos.
 
-Recibida la solicitud, el Director ordenará dentro de los tres días hábiles siguientes y por tres días consecutivos, a costa del Gobierno del Estado, la publicación de la misma en un periódico de los de mayor circulación en la entidad.
+Recibida la solicitud, el Director General ordenará dentro de los tres días hábiles siguientes y por tres días consecutivos, a costa del Gobierno del Estado, la publicación de la misma en un periódico de los de mayor circulación en la entidad.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 109.
 
-Cuando se detecte la pérdida o destrucción de algún documento en el Registro Público, el Director dispondrá las medidas necesarias para lograr su reposición, notificando a quienes acrediten interés jurídico para que en un término de 15 días manifiesten lo que a su derecho convenga y en su caso aporten elementos que faciliten la reposición, aplicándose al efecto lo dispuesto en el artículo que antecede.
+Cuando se detecte la pérdida o destrucción de algún documento en el Registro Público, el Director General dispondrá las medidas necesarias para lograr su reposición, notificando a quienes acrediten interés jurídico para que en un término de 15 días manifiesten lo que a su derecho convenga y en su caso aporten elementos que faciliten la reposición, aplicándose al efecto lo dispuesto en el artículo que antecede.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 110.
 
-En la misma forma, el Director solicitará a las autoridades catastrales del Estado y del municipio correspondiente, a los Juzgados del fuero común y federal, al ISSSTE, al IMSS, a las autoridades fiscales federales, estatales y municipales, a las Juntas Local y Federal de Conciliación y Arbitraje, a la Procuraduría General de la República, a la Procuraduría General de Justicia del Estado, a la CORETT, al FOVISSSTE, al INFONAVIT, al IVECOL, a la Dirección de Pensiones Civiles del Estado, a la Comisión Federal de Electricidad, a los Notarios Públicos del Estado, a las Afianzadoras y a las Instituciones de Crédito que operen en la entidad, le proporcionen en un plazo de quince días hábiles información y la documentación que pudieran tener acerca de algún mandato judicial, administrativo o contrato que constituya algún gravamen, limitación de dominio y en general cualquier aspecto registral que tenga relación con los bienes o derechos materia del folio extraviado o destruido, proporcionando al efecto los datos respectivos.
+En la misma forma, el Director General solicitará a las autoridades catastrales del Estado y del municipio correspondiente, a los Juzgados del fuero común y federal, al ISSSTE, al IMSS, a las autoridades fiscales federales, estatales y municipales, a las Juntas Local y Federal de Conciliación y Arbitraje, a la Procuraduría General de la República, a la Procuraduría General de Justicia del Estado, a la CORETT, al FOVISSSTE, al INFONAVIT, al IVECOL, a la Dirección de Pensiones Civiles del Estado, a la Comisión Federal de Electricidad, a los Notarios Públicos del Estado, a las Afianzadoras y a las Instituciones de Crédito que operen en la entidad, le proporcionen en un plazo de quince días hábiles información y la documentación que pudieran tener acerca de algún mandato judicial, administrativo o contrato que constituya algún gravamen, limitación de dominio y en general cualquier aspecto registral que tenga relación con los bienes o derechos materia del folio extraviado o destruido, proporcionando al efecto los datos respectivos.
 
 ###### ARTICULO 111.
 
 Una vez vencido el plazo señalado en el artículo anterior, se procederá a elaborar el nuevo folio o documento con el mismo número que tenía el extraviado o destruido, haciendo la anotación de que se trata de un duplicado por reposición, el cual quedará elaborado con los datos que hayan sido recabados y sustentados documentalmente.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 112.
 
-El nuevo folio será inmediatamente digitalizado para su incorporación a los medios electrónicos de almacenamiento y del mismo se enviará copia certificada a quienes hayan acreditado interés jurídico para que se enteren de su contenido, y a efecto de que manifiesten lo que a su derecho convenga en un término de tres días hábiles. De existir alguna inconformidad será resuelta por el Director dentro de los tres días siguientes.
+El nuevo folio será inmediatamente digitalizado para su incorporación a los medios electrónicos de almacenamiento y del mismo se enviará copia certificada a quienes hayan acreditado interés jurídico para que se enteren de su contenido, y a efecto de que manifiesten lo que a su derecho convenga en un término de tres días hábiles. De existir alguna inconformidad será resuelta por el Director General dentro de los tres días siguientes.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 113.
 
-Cuando se reciba una orden de autoridad judicial o administrativa para que se lleve a cabo un movimiento registral en un folio que se encuentre en los supuestos del artículo 106 y no se haya realizado su reposición, el Director informará a la instancia correspondiente acerca de esa situación, enterándole que se efectuará anotación provisional de dicho movimiento en un registro especial.
+Cuando se reciba una orden de autoridad judicial o administrativa para que se lleve a cabo un movimiento registral en un folio que se encuentre en los supuestos del artículo 106 y no se haya realizado su reposición, el Director General informará a la instancia correspondiente acerca de esa situación, enterándole que se efectuará anotación provisional de dicho movimiento en un registro especial.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 114.
 
 Una vez que se haya efectuado la reposición del folio o del documento registral reportado como extraviado o destruido, en caso de ser procedente se efectuará la transcripción del registro provisional a que se refiere el artículo anterior y se procederá a la cancelación de éste.
 
-En el caso de no ser procedente la anotación registral por existir impedimentos de carácter legal, la Dirección emitirá la resolución correspondiente y procederá a la cancelación del registro provisional respectivo, notificando de ello a los interesados; y en el supuesto de que el registro provisional haya sido por mandato judicial, se procederá a informar al Juez dicha resolución de improcedencia de registro, para los efectos correspondientes.
+En el caso de no ser procedente la anotación registral por existir impedimentos de carácter legal, la Dirección General emitirá la resolución correspondiente y procederá a la cancelación del registro provisional respectivo, notificando de ello a los interesados; y en el supuesto de que el registro provisional haya sido por mandato judicial, se procederá a informar al Juez dicha resolución de improcedencia de registro, para los efectos correspondientes.
 
 ## TITULO QUINTO. DE LOS RECURSOS
 
@@ -971,21 +1309,29 @@ En el caso de no ser procedente la anotación registral por existir impedimentos
 
 El recurso de inconformidad procederá contra los actos o determinaciones del Registro Público, que nieguen o suspendan la inscripción o asiento de algún documento, aviso o cancelación.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 116.
 
-El recurso deberá presentarse por escrito ante el Director, dentro de los cinco días siguientes a aquel en que el particular afectado reciba el comunicado de denegación o suspensión.
+El recurso deberá presentarse por escrito ante el Director General, dentro de los cinco días siguientes a aquel en que el particular afectado reciba el comunicado de denegación o suspensión.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 117.
 
-El Director, con vista en los argumentos que haga valer el interesado y en las pruebas que ofrezca y exhiba, en su caso, resolverá en un plazo improrrogable de cinco días hábiles.
+El Director General, con vista en los argumentos que haga valer el interesado y en las pruebas que ofrezca y exhiba, en su caso, resolverá en un plazo improrrogable de cinco días hábiles.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 118.
 
-Si la resolución fuese favorable al recurrente, el Director ordenará la reincorporación del trámite sin pérdida del derecho de prelación adquirido. En caso contrario el documento será remitido a la ventanilla de entrega de productos, para su entrega al interesado.
+Si la resolución fuese favorable al recurrente, el Director General ordenará la reincorporación del trámite sin pérdida del derecho de prelación adquirido. En caso contrario el documento será remitido a la ventanilla de entrega de productos, para su entrega al interesado.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 119.
 
-Si el interesado se allana con la resolución del Director, podrá ocurrir ante la Dirección de Ingresos de la Secretaría de Finanzas a solicitar la devolución de los derechos pagados por el servicio solicitado, previo pago del que corresponda por la revisión del documento rechazado.
+Si el interesado se allana con la resolución del Director General, podrá ocurrir ante la Dirección de Ingresos de la Secretaría de Finanzas a solicitar la devolución de los derechos pagados por el servicio solicitado, previo pago del que corresponda por la revisión del documento rechazado.
 
 T R A N S I T O R I O S :
 
@@ -1006,3 +1352,13 @@ Por lo tanto mando se publique, difunda, circule y observe.
 Dado en la Residencia del Poder Ejecutivo, en Palacio de Gobierno a los 24 días del mes de Octubre de mil novecientos noventa y siete.
 
 A t e n t a m e n t e.- "SUFRAGIO EFECTIVO. NO REELECCION".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del primero de enero del año dos mil cinco.
+
+SEGUNDO.- Las plazas de nueva creación de la estructura organizacional del Registro Público de la Propiedad y del Comercio son de confianza y se ejercerán conforme a la disponibilidad presupuestal, los sueldos serán los que le fije el Presupuesto de Egresos del Gobierno del Estado.
+
+TRES (SIC).- El personal sindicalizado que labora en las secciones del Registro Público conservará las plazas que actualmente ocupan.
