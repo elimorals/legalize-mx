@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-el-registro-de-peritos-valuadores-en-el-estado-405
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-28"
-last_updated: "1992-11-28"
+last_updated: "1995-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE CREA EL REGISTRO DE PERITOS VALUADORES EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 28 de noviembre de 1992.
 
@@ -59,13 +59,23 @@ Se establece el registro de Peritos Valuadores del Estado de Colima, como un ins
 
 Para los fines de esta Ley, Perito Valuador es el profesionista que cuenta con los conocimientos necesarios para emitir dictámenes técnicos de valor.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 3.
 
-La función del Perito Valuador consiste en determinar el valor comercial de los bienes inmuebles y extender el documento denominado avalúo, que contenga el estudio que determine dicho valor.
+La función del Perito Valuador consiste en determinar el valor comercial de los bienes muebles e inmuebles, así como extender el documento denominado avalúo, que contenga el estudio y análisis que determine dicho valor.
+
+Quedan comprendidos en las categorías de bienes señalados en el párrafo anterior, todo tipo de bienes muebles e inmuebles de cualquier naturaleza, urbanos, agropecuarios, maquinaria y equipo, obras y joyas de arte, etc.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 4.
 
-Las dependencias del Gobierno del Estado, de los Municipios y sus organismos descentralizados sólo admitirán los avalúos que se requieran para trámites ante dichas dependencias, que hubieran sido expedidos por Peritos Valuadores inscritos en el registro objeto de esta Ley, quedando excluídos los avalúos catastrales.
+Las dependencias de los poderes Legislativo, Ejecutivo y Judicial del Gobierno del Estado, sus organismos descentralizados, los Ayuntamientos y sus organismos paramunicipales sólo admitirán los avalúos que se requieran para trámites ante dichas dependencias y entidades o en la substanciación de procesos, que hubieran sido expedidos por Peritos Valuadores inscritos en el registro objeto de esta Ley, quedando excluídos los avalúos catastrales.
+
+Cuando en una controversia jurisdiccional o administrativa se requiera valuar bienes de diversa naturaleza, no será necesario nombrar Perito de cada especialidad. En ese caso, las partes y la autoridad que conozca del asunto, podrán nombrar a cualquiera de los mencionados en el artículo 11 de la presente Ley. Sin embargo, el que dictamine deberá asistirse de aquellos que estén relacionados con las especialidades que corresponda a los bienes valuados, mencionando esta circunstancia en el documento, citando sus nombres y especialidad.
+
+Los Peritos que coadyuven en ese dictamen, deberán tener vigente su registro en los términos de este ordenamiento.
 
 ###### ARTICULO 5.
 
@@ -73,25 +83,49 @@ Quienes pretendan inscribirse en el Registro de Peritos Valuadores en el Estado 
 
 I.- Ser ciudadano mexicano;
 
-II.- Tener título profesional de Ingeniero en sus diferentes especialidades o Arquitecto;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1995)</small>
 
-III.- Poseer Cédula de la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública;
+II.- Tener título profesional en Ingeniería o Arquitectura en sus diferentes especialidades;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1995)</small>
+
+III.- Poseer cédula profesional expedida por la Dirección General de Profesiones dependiente de la Secretaría de Educación Pública o por la dependencia educativa competente en materia local;
 
 IV.- Estar en ejercicio activo de su profesión y tener mínimo tres años de práctica;
 
-V.- Contar con registro vigente otorgado por la Comisión Nacional Bancaria o por la Comisión de Avalúos de Bienes Nacionales o por la Comisión Nacional de Valores o acreditar la aprobación de cursos de capacitación de la especialidad instituidos por la Asociación Nacional de Institutos Mexicanos de Valuación, A. C.;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1995)</small>
+
+V.- Acreditar experiencia y conocimientos en la materia respectiva mediante registro ante la Comisión Nacional Bancaria y de Valores, la Comisión de Avalúos de Bienes Nacionales o mediante constancia de haber aprobado los cursos de capacitación en la especialidad otorgada por alguna Universidad o por organización de profesionales de valuación nacional o extranjera que gocen de pleno reconocimiento;
 
 VI.- Tener residencia efectiva en el Estado no menor de tres años inmediatamente anteriores a la fecha de su solicitud; y
 
-VII.- Ser miembro activo del cualquiera de los Colegios o Asociaciones de Peritos Valuadores legalmente constituidos en el Estado.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1995)</small>
+
+VII.- Ser miembro activo del Colegio de Profesionistas de su especialidad o de alguna asociación o agrupación de valuadores, cuando exista.
 
 ### CAPITULO II
 
 DE LA COMISION DE PERITOS VALUADORES.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1995)</small>
+
 ###### ARTICULO 6.
 
-Para los efectos de la administración del Registro de Peritos Valuadores, la Dirección de Catastro se auxiliará de la Comisión de Peritos Valuadores, que se integrará de la siguiente manera: Un presidente, que será el Director General de Gobierno; Un Secretario, que será el Director de Catastro y los vocales que serán los Presidentes de los Colegios o Asociaciones de Peritos Valuadores que se constituyan en el Estado.
+Para los efectos de la administración del Registro de Peritos Valuadores, se establece la Comisión de Peritos Valuadores, que se integrará de la siguiente manera:
+
+I.- Un presidente, que será el Director General de Gobierno;
+
+II.- Un Secretario, que será el Director de Catastro y que tendrá a su cargo el Registro;
+
+III.- Un representante por cada una de las siguientes entidades y dependencias:
+
+a).- Supremo Tribunal de Justicia del Estado;
+
+b).- Los Ayuntamientos de la entidad;
+
+c).- La Secretaría de Desarrollo Urbano del Gobierno del Estado.
+
+IV.- Los vocales, que serán los presidentes de los colegios o asociaciones de peritos valuadores que se constituyan en el Estado.
 
 ###### ARTICULO 7.
 
@@ -139,11 +173,27 @@ III.- Peritos Valuadores de Maquinaria y Equipo; y
 
 IV.- Peritos Valuadores de Empresas Industriales.
 
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 1995)</small>
+
+V.- Peritos Valuadores de joyas y obras de arte; y
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 1995)</small>
+
+VI.- Peritos Valuadores en mobiliario y enseres menores.
+
 La constancia de inscripción a que se refiere el presente artículo, deberá contener las firmas de autorización del Presidente y el Secretario de la Comisión de Peritos Valuadores, además de la del propio interesado, requisitos sin los cuales carecerá de validez.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 1995)</small>
+
+Los peritos valuadores de las especialidades que se refieren las fracciones V y VI de este artículo, quedan exentos de cumplir los requisitos señalados en las fracciones II, III, IV, V y VII del artículo 5o., de la presente Ley, debiendo acreditar conocimientos de su especialidad.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 12.
 
-En el mes de enero de cada año, la Secretaría General de Gobierno publicará en el Periódico Oficial del Estado y en por lo menos uno de los de mayor circulación de la localidad, el Directorio de Peritos Valuadores inscritos en el Registro, expresando sus nombres, direcciones y datos profesionales.
+En los meses de enero y febrero de cada dos años, los Peritos Valuadores refrendarán su registro, cumpliendo con los requisitos que para tal efecto se señalen.
+
+En el mes de marzo de cada año, la Comisión de Peritos Valuadores publicará en el Periódico Oficial del Estado y por lo menos en uno de los de mayor circulación de la localidad, el directorio de peritos inscritos en el Registro, expresando sus nombres, direcciones, especialidades y datos profesionales. Este directorio se pondrá a la vista en las dependencias mencionadas en el artículo 4o., del presente ordenamiento.
 
 ###### ARTICULO 13.
 
@@ -159,17 +209,27 @@ IV.- Abstenerse de intervenir en los asuntos en los que por cualquier circunstan
 
 V.- Abstenerse de intervenir en peritajes y en la expedición de avalúos que se requieran para trámites ante entidades gubernamentales, cuando ocupe algún cargo o empleo en el sector público.
 
-En relación a los numerales IV y V, los documentos emitidos por el Perito, no surtirán los efectos legales procedentes, ni serán reconocidos por las autoridades competentes.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 26 DE AGOSTO DE 1995)</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE AGOSTO DE 1995)</small>
+
+###### ARTICULO 14.
+
+En relación a los numerales IV y V del artículo anterior, los documentos emitidos por el Perito, no surtirán los efectos legales procedentes, ni serán reconocidos por las autoridades competentes.
 
 ### CAPITULO IV
 
 DE LAS SANCIONES.
 
-ARTICULO 15 (SIC).- La Comisión de Peritos Valuadores podrá imponer a los Peritos sanciones en los términos siguientes:
+###### ARTICULO 15.
+
+La Comisión de Peritos Valuadores podrá imponer a los Peritos sanciones en los términos siguientes:
 
 I.- Amonestación por escrito, por incumplir el artículo 13, en su fracción II;
 
-II.- Suspensión del registro de uno a tres meses, según la gravedad de la falta, por violación a las fracciones y III del artículo 13; (sic)
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1995)</small>
+
+II.- Suspensión del registro de uno a tres meses, según la gravedad de la falta por violación a las fracciones I y III del artículo 13. En caso de omisión del refrendo correspondiente, la suspensión del registro operará hasta que el Perito obtenga dicho refrendo, debiendo cubrir en este caso, además de la cuota correspondiente, el porcentaje adicional que establezca la Ley de Hacienda del Estado;
 
 III.- Suspensión del registro de tres a seis meses, según la gravedad de la falta por violación al artículo 13, fracciones IV y V de esta Ley; y
 
@@ -216,3 +276,17 @@ Dado en el Recinto Oficial del Poder Legislativo a los veinticuatro días del me
 Por tanto mando se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno a los 25 días del mes de octubre de 1992.- EL GOBERNADOR CONST. DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GRAL. DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE AGOSTO DE 1995.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Comisión de Peritos Valuadores deberá reestructurarse, a convocatoria de su Presidente, dentro de los noventa días a partir de la entrada en vigor del presente ordenamiento.
+
+TERCERO.- La publicación del directorio de peritos valuadores a que se refiere el artículo 12 que forma parte del articulo primero de este decreto, deberá hacerse por única vez, dentro de los 30 días siguientes a la publicación de este Decreto.
+
+CUARTO.- La exigencia y validez del refrendo bianual comenzará a surtir efectos a partir del mes de enero de 1996.
+
+Los Peritos registrados deberán acreditar haber cubierto los derechos correspondientes a los ejercicios de 1994 y 1995, previamente a la obtención del refrendo bianual a que se refiere el párrafo anterior.
