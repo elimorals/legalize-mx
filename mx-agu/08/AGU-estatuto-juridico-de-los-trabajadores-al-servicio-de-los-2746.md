@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "1992-06-07"
+last_updated: "1995-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURIDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -85,7 +85,9 @@ A).- En el Poder Legislativo, el Oficial Mayor, el Contador Mayor de Hacienda, l
 
 B).- En el Poder Ejecutivo, el Secretario y Subsecretario Generales de Gobierno; el Tesorero y Subtesorero Generales del Estado; el Secretario y Subsecretario de Administración; el Secretario y Subsecretario de Planeación y Desarrollo Estatal; el Secretario y Subsecretario de Obras Públicas; el Procurador General de Justicia; los Subprocuradores de Investigaciones y Procesos de la Procuraduría General de Justicia; el Secretario Ejecutivo de la Comisión Estatal de Seguridad Pública y Vialidad; el Contralor y Subcontralor General del Estado; el Procurador y Secretario de la Procuraduría de Protección Ciudadana; los Directores y Subdirectores Generales; el Presidente de la Junta Local de Conciliación y Arbitraje; los Secretarios de Acuerdos de la Junta Local de Conciliación y Arbitraje y del Tribunal de Arbitraje; el Procurador y Subprocurador del Trabajo; los Agentes del Ministerio Público; los Defensores de Oficio; los Inspectores del Trabajo; los Agentes de la Policía Judicial; los integrantes de los Cuerpos de Vigilancia de los Centros de Readaptación de Varones y de Mujeres, así como del Centro Tutelar de Menores; el Representante del Ejecutivo en la Ciudad de México; los Secretarios Privado y Particular del Gobernador; los empleados al servicio personal del Gobernador; y los Asesores Jurídicos y Administrativos del Gobernador y del Secretario General de Gobierno;
 
-C).- En el Poder Judicial, los Magistrados del Supremo Tribunal de Justicia en el Estado; los Jueces de Primera Instancia de los Ramos Civil, Penal, Familiar y Mixtos; el Secretario de Acuerdos del Supremo Tribunal de Justicia; y los Secretarios de Acuerdos de los Juzgados de Primera Instancia de los Ramos Civil, Penal, Familiar y Mixtos;
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
+C).- En el Poder Judicial, los Magistrados del Supremo Tribunal de Justicia del Estado; los Jueces de Primera Instancia de los Ramos Civil, Penal, Familiar y Mixtos; el Secretario de Acuerdos del Supremo Tribunal de Justicia del Estado; y los Secretarios de Estudio y Proyectos, Secretarios de Acuerdos, los Actuarios y Notificadores de los Juzgados de Primeras (sic) Instancia de los Ramos Civil, Penal, Familiar y Mixtos;
 
 D).- En los Municipios, los Regidores, Síndicos, los Delegados Municipales, los Sub-Delegados, los Comisarios, los Jefes de Demarcación, los Jefes de Manzana, el Director de Gobernación, los Directores Generales, los Subdirectores Generales, los Coordinadores, los Directores de Área, los Jefes de Departamento, los Técnicos Profesionales "A" y "B", y los Agentes de Tránsito y de Seguridad Pública;
 
@@ -141,9 +143,11 @@ Los trabajadores de base y los temporales prestarán sus servicios mediante nomb
 
 A falta de nombramiento, se presume la existencia de la relación laboral entre el Estado y sus servidores, por la prestación de un servicio personal subordinado, a cambio de un salario.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 12.
 
-Los trabajadores de base, por este solo hecho, serán inamovibles, salvo en los casos que prevenga esta Ley.
+Los trabajadores de base, por este solo hecho, serán inamovibles. Los trabajadores de nuevo ingreso obtendrán el derecho a la inamovilidad cuando hayan cumplido seis meses de servicios.
 
 ###### ARTICULO 13.
 
@@ -281,7 +285,9 @@ VII.- Por desobedecer sin justificación las órdenes que reciba de sus superior
 
 VIII.- Por concurrir al trabajo en estado de embriaguez o bajo la influencia de algún narcótico o droga enervante, salvo que este último caso medie prescripción médica, debiendo poner el hecho en conocimiento de sus superiores y presentar la prescripción suscrita por el médico;
 
-IX.- Por falta comprobada de cumplimiento a las condiciones generales de trabajo;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
+
+IX.- Por falta comprobada de cumplimiento a las condiciones generales de trabajo y a las obligaciones establecidas en el Artículo 58 de este Estatuto;
 
 X.- Por prisión que sea el resultado de una sentencia condenatoria;
 
@@ -371,11 +377,13 @@ Jornada nocturna es la comprendida entre las veinte y las seis horas.
 
 Jornada mixta es la comprendida en los períodos de tiempo de las jornadas diurna y nocturna, siempre que el período nocturno abarque menos de tres horas, pues en caso contrario se considerará como jornada nocturna.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 36.
 
-La duración máxima de la jornada será de seis horas, si es diurna; cinco horas si es nocturna, y tratándose de jornada mixta, cinco horas y media, si se trata de trabajo de oficina.
+La duración máxima de la jornada será de ocho horas, si es diurna; siete horas si es nocturna, y siete horas y media, si es mixta.
 
-En el caso de trabajos manuales, la duración máxima de la jornada será de ocho horas, si es diurna; siete horas si es nocturna, y siete horas y media, si es mixta.
+Se podrán establecer convencionalmente jornadas reducidas, mismas que serán retribuidas de manera proporcional a la jornada completa. Para facilitar el servicio al público la jornada completa deberá ser discontinua, estableciéndose horarios convencionales conforme a las necesidades del servicio.
 
 ###### ARTICULO 37.
 
@@ -1580,3 +1588,51 @@ Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Ing. José de Jesús Infante de Alba.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+P.O. 2 DE ABRIL DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, misma que deberá ser posterior a la publicación del Decreto de reformas a la Constitución Política Local, en Materia Judicial, expedido el 8 de marzo de 1995, por el H. Congreso del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos los Agentes del Ministerio Público del Estado, a excepción del Procurador General de Justicia, serán sometidos a un examen de conocimientos generales en el ramo, mismo que será aplicado por éste, quien podrá auxiliarse de la Comisión para la Reforma del Poder Judicial del Estado en caso de así requerirlo. Quienes no se presenten al examen aquí referido, o en su caso quienes no lo aprueben, serán tratados de conformidad con la ley respectiva.
+
+###### ARTICULO TERCERO.
+
+Los Defensores de Oficio dependientes del (sic) Procuraduría de Protección Ciudadana del Estado, que se encuentren laborando como tales en la actualidad, serán sometidos a un examen de conocimientos generales en el ramo, mismo que será aplicado por el Procurador de Protección Ciudadana, quien podrá auxiliarse de la Comisión para la Reforma del Poder Judicial del Estado en caso de así requerirlo. Quienes no se presenten a dicho examen o en su caso no lo aprueben, serán tratados de conformidad con la ley respectiva.
+
+###### ARTICULO CUARTO.
+
+La Contraloría General del Estado conocerá del recurso de revisión consignado en el Artículo 42 de la Ley Orgánica del Poder Ejecutivo del Estado, de manera temporal, hasta en tanto se constituya el Tribunal de lo Contencioso Administrativo del Estado, que asumirá esta responsabilidad.
+
+###### ARTICULO QUINTO.
+
+Los asuntos que actualmente se están ventilando ante los Tribunales del Estado conforme al Código de Procedimientos Civiles vigente antes de esta reforma aunque sea aplicado de manera supletoria, se seguirán ventilando conforme al mismo, pero si las partes de común acuerdo así lo manifiestan a la autoridad competente, podrán acogerse a las reformas del presente Decreto.
+
+###### ARTICULO SEXTO.
+
+Los asuntos que actualmente se estén ventilando ante los Tribunales del Estado conforme al Código de Procedimientos Penales vigente antes de esta reforma aunque sea aplicado de manera supletoria, se seguirán ventilando conforme al mismo, pero si las partes de común acuerdo así lo manifiestan a la autoridad competente, podrán acogerse a las reformas del presente Decreto.
+
+###### ARTICULO SEPTIMO.
+
+Los Partidos Judiciales del Estado previstos en el Artículo 35 de la Ley Orgánica del Poder Judicial del Estado, entrarán en funciones cuando el presupuesto del propio Poder lo permita y las necesidades lo requieran.
+
+###### ARTICULO OCTAVO.
+
+Para los efectos del Artículo 94 de la Ley Orgánica del Poder Judicial del Estado, por única vez, todos los jueces nombrados de acuerdo al procedimiento que establece la Constitución, podrán ser designados como miembros del Consejo de la Judicatura, sin necesidad de contar con tres años en el ejercicio de su encargo.
+
+###### ARTICULO NOVENO.
+
+Una vez instalada la Contraloría Interna, contará con un término de 30 días para elaborar su Reglamento.
+
+###### ARTICULO DECIMO.
+
+Los trabajadores al servicio de los Gobiernos del Estado, los Municipios, y Organismos Descentralizados, que actualmente laboran la jornada establecida en el Estatuto Jurídico anterior a la presente reforma, podrán optar entre seguir laborando en dicha jornada que tienen, o bien, adherirse a la jornada que se establece en el Artículo 36 de este Ordenamiento.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
