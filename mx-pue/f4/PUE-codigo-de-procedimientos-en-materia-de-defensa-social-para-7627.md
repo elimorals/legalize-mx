@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2004-01-21"
+last_updated: "2004-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2004.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -615,9 +615,13 @@ VIII.- Cuando la víctima o el ofendido sean menores de edad, no estarán obliga
 
 IX.- Solicitar a las autoridades competentes para sí o para los sujetos vinculados a ella, las medidas y providencias necesarias tendientes a proteger su integridad corporal, domicilio, posesiones o derechos; cuando existan datos fundados de que éstos puedan ser afectados por el o los responsables del delito o por terceros; y
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2002)</small>
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
-X.- Las demás que señalen las Leyes.
+X.- Interponer el recurso de apelación en contra de las sentencias de primera instancia, solo cuando la impugnación verse sobre las cuestiones relativas a la reparación del daño proveniente de delito, y
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+XI.- Las demás que señalen las Leyes.
 
 ###### Artículo 55.
 
@@ -843,9 +847,9 @@ R.- Enriquecimiento ilícito, previsto en el artículo 432, y
 
 S.- Tortura, prevista en los artículos 449, 450, 451 y 452.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
-Artículo 69 BIS.- En los casos de delito flagrante y en los urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada, que serán aquellos en los que tres o más personas se reúnen bajo las reglas de disciplina y jerarquía, para cometer de modo violento o reiterado o con fines predominantemente lucrativos alguno de los delitos mencionados en el artículo 69 de este Código.
+Artículo 69 BIS.- En los casos de delito flagrante y en los urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada, cuando se trate de la comisión de los delitos previstos en el artículo anterior.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -1821,9 +1825,11 @@ Los documentos públicos harán prueba plena, salvo el derecho de las partes par
 
 Los documentos privados sólo harán prueba plena contra su autor, si fueren judicialmente reconocidos por él, o no objetados, a pesar de saber que figuran en el proceso.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 198.
 
-Los documentos privados comprobados por testigos se considerarán como prueba testimonial; y los provenientes de un tercero serán estimados como presunciones.
+Tratándose de la acreditación del delito y la responsabilidad penal, los documentos privados comprobados por testigos se considerarán como prueba testimonial; y los provenientes de un tercero serán estimados como presunciones.
 
 ###### Artículo 199.
 
@@ -2385,9 +2391,11 @@ IX.- Las demás resoluciones que señale la Ley.
 
 La apelación suspende la ejecución de la resolución apelada, salvo cuando ésta sea el auto de libertad por falta de méritos para procesar, de no sujeción a proceso, de libertad por desvanecimiento de datos, de sobreseimiento o la sentencia absolutoria que únicamente involucre delitos de los considerados como no graves, dictada a favor de persona que carezca de antecedentes penales.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 275.
 
-Pueden apelar el Ministerio Público, el acusado, el o los defensores y, en su caso, el ofendido.
+Pueden apelar el Ministerio Público, el acusado, el o los defensores y el ofendido; este último, sólo cuando el motivo de la impugnación verse sobre cuestiones relativas a la reparación del daño proveniente del delito.
 
 ###### Artículo 276.
 
@@ -2559,21 +2567,21 @@ En los casos previstos en el artículo anterior, si el defensor fuere de oficio,
 
 Se ocurrirá en queja al inmediato superior, para corregir las infracciones de ley que cometan los Jueces Menores de Defensa Social y Municipales de lo Penal, en los siguientes casos:
 
-I.- Detención del acusado sin auto de formal prisión, fuera del término constitucional;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
-II.- Auto de formal prisión o de soltura por falta de méritos;
+I.- Por violación a los artículos 16, 19 y 20 de la Constitución Política de los Estados Unidos Mexicanos; y
 
-III.- Negativa de abrir la causa o de ordenar la aprehensión del acusado, exclusivamente por el Ministerio Público;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
-IV.- Violación a los artículos 8, 17, 18 y 20 de la Constitución General de la República, cometida durante la secuela;
+II.- Contra las sentencias interlocutorias.
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2004)</small>
+III.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2004)
 
-V.- En contra de las Sentencias Interlocutorias;
+IV.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2004)</small>
+V.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2004)
 
-VI.- Los autos que ratifiquen la constitucionalidad de una detención conforme al párrafo sexto del artículo 16 Constitucional;
+VI.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2004)
 
 > <small>(ADICIONADA, P.O. 21 DE ENERO DE 2004)</small>
 
@@ -2591,7 +2599,9 @@ I.- El recurso es procedente si se interpone ante el Superior, dentro de tres d�
 
 II.- Al interponerse el recurso deberá expresarse el hecho que constituye la violación, las leyes que se consideren violadas y el concepto de violación;
 
-III.- Si el recurrente no cumple con los requisitos que establece la fracción anterior, se desechara de plano el recurso, salvo que el recurrente sea el ofendido, caso en el cual el superior al que corresponda resolver la queja, deberá suplir la deficiencia de los agravios o la falta de ellos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2004)</small>
+
+III.- Si el recurrente no cumple con los requisitos que establece la fracción anterior, se desechará de plano el recurso, salvo que el recurrente sea el acusado, caso en el cual el superior al que corresponda resolver la queja, deberá suplir la deficiencia de los agravios o la falta de ellos;
 
 IV.- No cabe recurso contra el auto que admita o deseche la queja;
 
@@ -2599,11 +2609,13 @@ V.- Admitido el recurso, en el mismo auto se ordenará al Juez responsable remit
 
 VI.- El informe deberá rendirse dentro del término de tres días;
 
-VII.- Recibido el informe, se pondrá el expedientillo a la vista del recurrente y del Ministerio Público por el término de tres días para que aleguen lo que a su derecho convenga;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
-VIII.- Vencido el término de tres días a que se refiere el artículo (sic) anterior, el Superior, dictará dentro de otros tres días la resolución procedente que decida el recurso;
+VII.- Recibido el informe, a criterio de la autoridad citará o no a las partes para que aleguen lo que a su derecho convenga y dentro de los tres días dictará la resolución procedente que decida el recurso.
 
-IX.- Si el caso lo amerita, a juicio del Superior y bajo su responsabilidad, podrá decretarse la suspensión del acto recurrido, excepto en el caso de formal prisión, y
+VIII.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2004)
+
+IX.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2004)
 
 X.- La resolución que resuelve el recurso de queja es inatacable.
 
@@ -3574,5 +3586,11 @@ Se derogan todas las disposiciones que contravengan lo establecido en el present
 P.O. 21 DE ENERO DE 2004.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
