@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-contraloria-20017"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-26"
-last_updated: "2001-03-19"
+last_updated: "2002-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE CONTRALORIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el día 26 de febrero de 2001.
 
@@ -51,7 +51,25 @@ II.- Subsecretario;
 
 III.- Dirección General de Auditoría Gubernamental;
 
-IV.- Dirección General de Responsabilidades y Situación Patrimonial.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2002)</small>
+
+IV.- Dirección General de Normatividad en Licitaciones y Política Gubernamental;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2002)</small>
+
+V.- Dirección General de Inspección y Vigilancia;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2002)</small>
+
+VI.- Dirección General de Responsabilidades y Situación Patrimonial;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2002)</small>
+
+VII.- Unidad de Desarrollo Administrativo y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2002)</small>
+
+VIII.- Unidad de Seguimiento.
 
 ###### Artículo 3.
 
@@ -115,11 +133,19 @@ XXI.- Proponer a las dependencias y entidades del Gobierno del Estado, así como
 
 XXII.- Opinar previamente a su expedición, sobre los proyectos de las normas de contabilidad gubernamental y control en materia de planeación, presupuestación, programación del ingreso y el gasto público, administración de recursos humanos, materiales y financieros, así como en materia de contratación de deuda y manejo de fondos y valores que formulen las dependencias y entidades de la administración pública del Estado;
 
-XXIII.- Con el acuerdo del Gobernador del Estado, nombrar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la administración pública estatal; así como establecer los requisitos para la propuesta y designación de los mismos;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2002)</small>
+
+XXIII.- Nombrar y remover a los Titulares de los Organos Internos de Control de las Dependencias y Entidades de la Administración Pública del Estado y de la Procuraduría General de Justicia, los que quedarán adscritos administrativamente, junto con su personal a la Secretaría de la Contraloría;
 
 XXIV.- Expedir copias certificadas de los documentos que obran en los archivos de la Secretaría y
 
-XXV.- Las demás que otras disposiciones legales vigentes en el Estado expresamente le confieran, así como aquéllas que con el carácter de no delegables les señale el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2002)</small>
+
+XXV.- Celebrar Acuerdos, Convenios y Contratos de Coordinación y Colaboración con Dependencias, Organismos y Entidades de la Administración Pública Federal y estatal en Representación del Estado, así como con los Municipios del Estado, Instituciones Académicas, con Asociaciones y Colegios Profesionales, Organismos No Gubernamentales y Clubes de Servicio entre otros, en materia de capacitación, asesoría, apoyo técnico y humano y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2002)</small>
+
+XXVI.- Las demás que otras disposiciones legales vigentes en el Estado expresamente le confieran, así como aquéllas que con el carácter de no delegables les señale el Gobernador del Estado.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO DE 2001)</small>
 
@@ -273,9 +299,49 @@ XV.- Expedir las normas que regulen el funcionamiento de los auditores externos 
 
 XVI.- Las demás que le confiera el presente Reglamento, otras disposiciones legales vigentes y el Secretario en el ámbito de sus atribuciones.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### Artículo 12.
 
-(DEROGADO, P.O. 19 DE MARZO DE 2001)
+Corresponde la Dirección General de Normatividad en Licitaciones y Política Gubernamental:
+
+I.- Proponer al Secretario de acuerdo con las facultades que a esta Secretaría confiere la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con Bienes Muebles, la Ley de Obras Públicas y la Ley de Bienes, las normas de carácter general que respecto de la planeación, ejecución, conservación, mantenimiento y control de las adquisiciones de bienes muebles, la prestación de servicios de cualquier naturaleza, así como de las obras públicas y los servicios relacionados con las mismas, que contraten las Dependencias y Entidades de la Administración Pública Estatal y las enajenaciones de bienes que realice el Ejecutivo del Estado;
+
+II.- Establecer la uniformidad y congruencia de los criterios para la interpretación que para efectos administrativos corresponda a las Leyes y Normas Administrativas que regulan las materias de Adquisiciones, Arrendamientos, Prestación de Servicios, Obras Públicas y Enajenaciones;
+
+III.- Instrumentar Programas de Capacitación y Actualización sobre el Funcionamiento y Operación de los Comités de Adquisiciones y Licitaciones;
+
+IV.- Capacitar y dar orientación a las demás áreas de la Secretaría, a las Dependencias y Entidades de la Administración Pública del Estado, así como a los Ayuntamientos de los Municipios del Estado, cuando lo soliciten, en las materias de Adquisiciones, Arrendamientos, Prestación de Servicios, Obras Públicas y Enajenaciones;
+
+V.- Recibir y procesar la información que las Dependencias y Entidades de la Administración Pública Estatal, así como los Ayuntamientos deban remitir a la Secretaría, en los términos que disponen la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con Bienes Muebles, la Ley de Obras Públicas y la Ley de Bienes del Estado;
+
+VI.- Emitir los criterios normativos que regulan el funcionamiento de los instrumentos de control en materia de registro, contratación, pago de personal, registro de proveedores y contratistas, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles o inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Central, Paraestatal y Municipal;
+
+VII.- Coadyuvar en la vigilancia sobre el cumplimiento de la normatividad contenida en las diferentes legislaciones y ordenamientos competencia de la Secretaría;
+
+VIII.- Asistir a los procesos de licitación pública con la Representación de la Secretaría de Contraloría, a invitación de las Dependencias, Entidades y Ayuntamientos;
+
+IX.- Elaborar y actualizar permanentemente los Manuales de Organización de Procedimientos y de Trámites y Servicios al Público de la Secretaría de Contraloría;
+
+X.- Orientar y asesorar a las Dependencias y Entidades de la Administración Pública Central y Paraestatal, así como a los Ayuntamientos cuando lo soliciten, para que cuenten con los Manuales de Organización de Procedimientos y de Trámites y Servicios al Público;
+
+XI.- Vigilar que las Dependencias y Entidades de la Administración Pública Central y Paraestatal, cumplan con las políticas gubernamentales que se dicten en materia de licitaciones, contratación de servicios, adquisiciones, obra pública, arrendamientos, enajenaciones y baja de bienes muebles e inmuebles;
+
+XII.- Previo acuerdo con el Secretario, se verificará que las Dependencias, Entidades y Ayuntamientos cumplan las disposiciones legales en materia de Adquisiciones, Obra Pública y Enajenaciones;
+
+XIII.- En caso de incumplimiento a las normas en materia de Adquisiciones, Obra Pública y Enajenaciones, se turnará el asunto a la Dirección General de Responsabilidades y Situación Patrimonial para que inicie el procedimiento administrativo que corresponda;
+
+XIV.- Difundir todas las acciones de Gobierno competencia de la Secretaría, para que los sectores público, privado y social conozcan las actividades desarrolladas por la Dependencia para transparentar la aplicación de los recursos públicos;
+
+XV.- Llevar los Registros o Padrones de Contratistas de Obra Publica y de Proveedores de la Administración Pública Estatal, fijando los modelos y formatos, criterios y procedimientos para registrar y clasificar a las personas inscritas en él, de acuerdo con su especialidad, capacidad técnica y económica;
+
+XVI.- Hacer del conocimiento de las Dependencias, Entidades, Ayuntamientos y del Público en General, sobre las personas físicas y morales inscritas en el Registro de Contratistas de Obra Pública y de Proveedores de la Administración Pública del Estado;
+
+XVII.- Otorgar y en su caso, negar la inscripción o modificación del registro en el Padrón de Contratistas y Proveedores, así como suspender o cancelar dicho registro cuando legalmente proceda, substanciando los recursos que contra estos actos se interpongan;
+
+XVIII.- Expedir copia certificada de los documentos que obren en los Archivos de esta Dirección General y
+
+XIX.- Las demás que le confiera el presente Reglamento, otras disposiciones legales y vigentes y el Secretario de Contraloría en el ámbito de sus atribuciones.
 
 ###### Artículo 13.
 
@@ -335,11 +401,11 @@ XI.- Recibir y substanciar los recursos de inconformidad, que se presenten contr
 
 XII.- Hacer del conocimiento del agente del ministerio público correspondiente, los hechos que por su naturaleza pudieren constituir delito, aportando para ello los elementos de prueba con que cuente;
 
-XIII.- Llevar el padrón de contratistas de obra pública y de proveedores de la administración pública estatal, fijando los modelos y formatos, criterios y procedimientos para registrar y clasificar a las personas inscritas en él, de acuerdo con su especialidad, capacidad técnica, económica y ubicación;
+XIII.- (DEROGADA, P.O. 15 DE JULIO DE 2002)
 
-XIV.- Hacer del conocimiento de las dependencias, ayuntamientos, unidades administrativas, entidades y del público en general, de las personas registradas en el padrón de contratistas de obra pública y de proveedores de la Administración Pública Estatal;
+XIV.- (DEROGADA, P.O. 15 DE JULIO DE 2002)
 
-XV.- Otorgar y en su caso, negar la inscripción o modificación del registro, en el padrón de contratistas y proveedores, así como suspender o cancelar dicho registro cuando legalmente proceda, substanciando los recursos que contra estos actos se interpongan;
+XV.- (DEROGADA, P.O. 15 DE JULIO DE 2002)
 
 XVI.- Asesorar jurídicamente a las Direcciones y áreas de la Secretaría de Contraloría, estableciendo los criterios de interpretación y de aplicación de las disposiciones que normen el funcionamiento de la misma;
 
@@ -365,6 +431,52 @@ Para el despacho de los asuntos de su competencia la Secretaría podrá contar c
 
 De acuerdo con las disposiciones relativas el Secretario podrá revisar, confirmar, modificar o revocar las resoluciones dictadas por los órganos desconcentrados.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2002)</small>
+
+### CAPITULO V. DE LAS UNIDADES
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2002)</small>
+
+###### ARTICULO 16.
+
+Al frente de cada Unidad habrá un Titular, que se auxiliará del personal técnico y administrativo que se determine por acuerdo del Secretario, que las necesidades del servicio requieran y que figuren en el presupuesto.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2002)</small>
+
+###### ARTICULO 17.
+
+La Unidad de Desarrollo Administrativo estará adscrita al Titular de la Subsecretaría, acordará con éste el despacho de los asuntos de su competencia y tendrá las siguientes atribuciones:
+
+I.- Coordinar bajo la directriz del Subsecretario el diseño y los trabajos en que participen las demás Dependencias y Entidades de la Administración Pública del Estado, para proponer al Titular del Ejecutivo el Programa de Modernización y Desarrollo de la Administración Pública del Estado, en el que se establezcan compromisos y objetivos específicos por parte de las Dependencias y Entidades para la incorporación del servicio civil de carrera, para mejorar la calidad de los servicios al público, fomentando la desregulación y simplificación administrativas que a su vez propicien el ahorro presupuestal, el aumento de la productividad y el combate a la corrupción;
+
+II.- Proponer al Subsecretario los Lineamientos que deberán observar las Dependencias y Entidades de la Administración Pública Estatal en materia de Desarrollo Administrativo Integral, a fin de que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma sean aprovechados y aplicados con criterios de eficiencia y eficacia;
+
+III.- Realizar con la participación de otras áreas de la Secretaría y en coordinación con las Dependencias y Entidades de la Administración Pública Estatal, estudios y programas para el mejoramiento de la gestión gubernamental, la simplificación y automatización de trámites y procesos, así como la descentralización y desconcentración de funciones;
+
+IV.- Diseñar, coordinar y supervisar el sistema de evaluación del desempeño de la Administración Pública Estatal, a fin de coadyuvar en el cumplimiento del Programa de Modernización y Desarrollo Administrativo, así como del Servicio Civil de Carrera con la participación de otras áreas administrativas de la Secretaría y en coordinación con las Dependencias y Entidades de la Administración Pública del Estado;
+
+V.- Determinar los métodos y modelos para la evaluación del desempeño en los servicios que prestan a la ciudadanía las Dependencias y Entidades;
+
+VI.- Realizar estudios de medición de resultados de los objetivos de las Dependencias y Entidades de la Administración Pública Estatal y
+
+VII.- Las demás que le atribuya expresamente el Titular de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2002)</small>
+
+###### ARTICULO 18.
+
+La Unidad de Seguimiento estará adscrita al Titular de la Secretaría y tendrá las siguientes atribuciones:
+
+I.- Dar seguimiento por instrucción del Secretario a todos los Planes, Programas, Obras, acciones y asuntos del ramo de la Dependencia;
+
+II.- Turnar por instrucción del Secretario los asuntos que deban conocer la Subsecretaría y las Direcciones Generales que conforman la Dependencia;
+
+III.- Contestar y remitir la correspondencia del Secretario;
+
+IV.- Llevar la agenda de las giras y audiencias del Secretario y
+
+V.- Las demás que le atribuya expresamente el Titular de la Secretaría.
+
 ## TRANSITORIOS
 
 Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -388,3 +500,9 @@ P.O. 19 DE MARZO DE 2001.
 Primero.- El presente Decreto Gubernamental entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones que se opongan al presente Ordenamiento.
+
+P.O. 15 DE JULIO DE 2002.
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las áreas que tenían atribuciones en asuntos que correspondan ahora para su despacho a la Dirección General de Normatividad en Licitaciones y Política Gubernamental, serán adscritas a dicha Unidad Administrativa.
