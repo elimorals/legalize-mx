@@ -4,7 +4,7 @@ identifier: "FED-ley-reglamentaria-de-los-articulos-103-y-104-de-la-2579"
 country: "mx"
 rank: "ley"
 publication_date: "1919-10-22"
-last_updated: "1919-10-22"
+last_updated: "1924-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2579&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1919-10-18"
 ---
 # LEY REGLAMENTARIA DE LOS ARTICULOS 103 Y 104 DE LA CONSTITUCION FEDERAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE DICIEMBRE DE 1924 EN EL D.O.F, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 104 DE LA CONSTITUCIÓN FEDERAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 6 DE DICIEMBRE DE 1924.]</small>
 
 Ley publicada sucesivamente en los Diarios Oficiales Números 44, 45, 46 y 47 de fecha 22, 23, 24 y 25 de octubre de 1919, respectivamente.
 
@@ -1037,9 +1037,11 @@ Esta ley comenzará a regir, el día de su publicación, y todos los amparos que
 
 Los amparos pedidos antes del día primero de mayo de 1917, ante los Jueces de Distrito, seguirán tramitándose en la forma que establece el Código Federal de Procedimientos Civiles; pero su tramitación ante la Corte se sujetará a las disposiciones de esta ley.
 
+> <small>(F. DE E., D.O.F. 6 DE DICIEMBRE DE 1924)</small>
+
 ###### ARTICULO 3o.
 
-Todos los amparos pendientes de revisión ante la Suprema Corte, lo mismo que los incidentes de suspensión o sobreseimiento que están pendientes de resolución ante el mismo Tribunal y hubieren llegado a él antes del primero de mayo último, seguirán su curso conforme a las disposiciones de la presente ley, siempre que el quejoso se presente a continuarlo dentro de los treinta días siguientes a la publicación de la misma. De lo contrario, se le tendrá por desistido, sobreseyendo en los amparos, y declarando, en su caso, concluídos los incidentes de suspensión y de sobreseimiento.
+Todos los amparos pendientes de revisión ante la Suprema Corte, lo mismo que los incidentes de suspensión o sobreseimiento que están pendientes de resolución ante el mismo Tribunal y hubieren llegado a él antes del primero de mayo de 1917, seguirán su curso conforme a las disposiciones de la presente ley, siempre que el quejoso se presente a continuarlo dentro de los treinta días siguientes a la publicación de la misma. De lo contrario, se le tendrá por desistido, sobreseyendo en los amparos, y declarando, en su caso, concluídos los incidentes de suspensión y de sobreseimiento.
 
 ###### ARTICULO 4o.
 
