@@ -4,7 +4,7 @@ identifier: "CMX-codigo-electoral-del-distrito-federal-12957"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-01-05"
-last_updated: "1999-01-05"
+last_updated: "1999-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12957&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-30"
 
 CODIGO ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE SEPTIEMBRE DE 1999.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 5 de enero de 1999.
 
@@ -458,9 +458,13 @@ Los Partidos Políticos con representación en la Asamblea Legislativa del Distr
 
 I. Para el sostenimiento de actividades ordinarias permanentes:
 
-a) El Consejo General del Instituto Electoral del Distrito Federal determinará anualmente, con base en el número de ciudadanos inscritos en el Padrón Electoral del Distrito Federal, multiplicado por un factor del 65% del salario mínimo general vigente en el Distrito Federal, el financiamiento público, para sus actividades ordinarias permanentes;
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1999)</small>
 
-b) De acuerdo con el inciso anterior, el 30% de la cantidad total que resulte, se distribuirá en forma igualitaria. El 70% restante, se distribuirá según el porcentaje de la votación total emitida, que hubiese obtenido cada Partido Político, en la elección de Diputados a la Asamblea Legislativa del Distrito Federal, inmediata anterior; y
+a) El Consejo General del Instituto Electoral del Distrito Federal determinará anualmente, una bolsa, de acuerdo con el siguiente procedimiento de asignación: costo mínimo de los gastos de una campaña para diputados locales, costo mínimo de los gastos de una campaña para titulares de los órganos político-administrativos de las demarcaciones territoriales, y costo mínimo de los gastos de una campaña a Jefe de Gobierno del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 1999)</small>
+
+b) De acuerdo con el inciso anterior, el 30 por ciento de la cantidad total que resulte, se distribuirá en forma igualitaria entre los Partidos Políticos con derecho, descritos en el primer párrafo de este artículo. El 70 por ciento restante, se distribuirá según el porcentaje de la votación efectiva emitida, a los Partidos Políticos con derecho, descritos en el primer párrafo de este artículo, que hubiese obtenido cada uno, en la elección de diputados a la Asamblea Legislativa del Distrito Federal, inmediata anterior; y
 
 c) Cada Partido Político deberá destinar anualmente por lo menos el 2% del financiamiento público que reciba, para el desarrollo de sus fundaciones o institutos de investigación.
 
@@ -478,7 +482,9 @@ a) Se le otorgará a cada Partido Político el 2% del monto que por financiamien
 
 b) Se les otorgará el financiamiento público por sus actividades específicas como entidades de interés público.
 
-V. Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 1999)</small>
+
+V. Las cantidades que en su caso se determinen para cada Partido Político, salvo las referidas en la fracción II, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente. Las cantidades previstas en la fracción II de este artículo, serán entregadas en tres ministraciones, correspondientes al 50 por ciento, 25 por ciento, y 25 por ciento, en los meses de febrero, abril y junio, respectivamente, del año de la elección.
 
 ### Capítulo IV. Del régimen fiscal
 
@@ -1494,7 +1500,7 @@ e) Analizar, supervisar, evaluar y auditar el desarrollo y avance de los program
 
 f) Analizar los catálogos de cartografía básicos de secciones y localidades para su cotejo con la información del Padrón Electoral y las listas nominales de electores;
 
-g) Supervisar el centro de cómputo para conocer materiaImente los procedimientos para lograr la correspondencia de la base de datos, documentos fuente y ubicación geográfico-electoral del domicilio de los ciudadanos, la corrección de inconsistencias, la coordinación entre el operativo de campo y los sistemas informáticos y los sistemas de control. Para este efecto, deberá elaborarse un calendario de supervisión;
+g) Supervisar el centro de cómputo para conocer materialmente los procedimientos para lograr la correspondencia de la base de datos, documentos fuente y ubicación geográfico-electoral del domicilio de los ciudadanos, la corrección de inconsistencias, la coordinación entre el operativo de campo y los sistemas informáticos y los sistemas de control. Para este efecto, deberá elaborarse un calendario de supervisión;
 
 h) Conocer los avances del impacto de la campaña de comunicación social y en su caso proponer acciones que la hagan más eficiente;
 
@@ -4037,3 +4043,19 @@ DECIMO TERCERO.- El Reglamento Interior del Tribunal Electoral del Distrito Fede
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a quince de diciembre de mil novecientos noventa y ocho.- POR LA MESA DIRECTIVA.- DIP. JOSE NARRO CESPEDES, PRESIDENTE.- DIP. JOSE LUIS BENITEZ GIL, SECRETARIO.- DIP. ELVIRA ALBARRAN RODRIGUEZ, SECRETARIA.- RÚBRICAS.
 
 En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta días del mes de diciembre de mil novecientos noventa y ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO.- RÚBRICA.- LA SECRETARlA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 30 DE SEPTIEMBRE DE 1999.
+
+PRIMERO.- Por esta única ocasión, el proceso electoral ordinario por celebrarse en el año 2000 se iniciará el día 15 de enero del mismo año. A esta fecha se ajustarán los plazos correspondientes.
+
+SEGUNDO.- En tanto el Consejo General del Instituto Electoral del Distrito Federal fija los costos de los gastos de campaña para diputados locales, titulares de los órganos político-administrativos de las demarcaciones territoriales y para Jefe de Gobierno del Distrito Federal, se hará el cálculo de la siguiente forma:
+
+El costo mínimo de gastos de campaña para diputados locales, se determinará a partir del último costo de gastos de campaña para diputado federal, publicado por el Instituto Federal Electoral en el Diario Oficial de la Federación, multiplicado por el factor que resulte de dividir el índice nacional de precios al consumidor del mes de diciembre de 1999, entre el índice nacional de precios al consumidor que corresponda a la última publicación de dicho costo por el Instituto Federal Electoral; multiplicado por el número de distritos federales en el Distrito Federal, entre el número de distritos locales, por el número total de Diputados a la Asamblea Legislativa del Distrito Federal y multiplicado por el número de Partidos Políticos con representación en la Asamblea Legislativa del Distrito Federal.
+
+El costo mínimo de gastos de campaña para titulares de los órganos político administrativos, será el mismo que resulte de la operación anterior.
+
+El costo mínimo de gastos de campaña para Jefe de Gobierno del Distrito Federal, será el resultado de las operaciones realizadas en el segundo párrafo de este artículo; dividido su resultado entre el número de días de duración de la campaña para diputado local y el resultado se multiplicará por el número de días de duración establecidos por la ley para la campaña de Jefe de Gobierno del Distrito Federal.
+
+TERCERO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
