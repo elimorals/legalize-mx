@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "1994-06-09"
+last_updated: "2003-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2003.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -117,9 +117,15 @@ La presente Ley es de observancia general para los Titulares y Trabajadores al S
 
 Para los efectos de esta Ley, la relación jurídico – laboral, se entiende establecida entre los Poderes del Estado, los Organismos Públicos Descentralizados, las Empresas de Participación Estatal y los Fideicomisos y los trabajadores a su servicio; para una mejor interpretación de la misma, se denominarán Dependencias a los Poderes del Estado y Entidades Administrativas, a los Organismos Públicos Descentralizados, Empresas de Participación Estatal y Fideicomisos.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2003)</small>
+
 ###### Artículo 3o.
 
-El trabajo es un derecho y un deber social, en consecuencia, exige respeto para quien lo presta y debe efectuarse en condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia.
+El trabajo es un derecho y un deber social. No es articulo de comercio, exige respeto para las libertades y dignidad de quien lo presta y debe efectuarse en condiciones que aseguren la vida, la salud y un nivel económico decoroso para el trabajador y su familia.
+
+No podrán establecerse distinciones entre los trabajadores por motivo de raza, sexo, estado civil, edad, credo religioso, doctrina política o condición social.
+
+Por tanto, bajo ninguna circunstancia, en tratándose de mujeres trabajadoras, se condicionará su contratación a la presentación de certificado de no embarazo.
 
 ###### Artículo 4o.
 
@@ -1192,3 +1198,7 @@ P.O. 9 DE JUNIO DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE AGOSTO DE 2003
+
+UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
