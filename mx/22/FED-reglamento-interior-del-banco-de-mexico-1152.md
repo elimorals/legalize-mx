@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1997-07-24"
+last_updated: "1997-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1997.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -109,19 +109,23 @@ Dirección de Sistemas
 
 Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Emisión, Disposiciones de Banca Central, Organismos y Acuerdos Internacionales, Supervisión de Fideicomisos de Fomento, así como de Sistemas, dependerán del Gobernador.
 
-> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-A cargo de las Direcciones estará un Director, quien se auxiliará en el cumplimiento de sus funciones del Tesorero, Gerentes, Subgerentes, Superintendentes, Jefes de División, de Departamento, de Oficina, Intendentes, y por los demás empleados, previstos en la estructura correspondiente.
+A cargo de las Direcciones estará un Director, quien se auxiliará en el cumplimiento de sus funciones del Tesorero, Gerentes, Coordinadores Generales, Subgerentes, Superintendentes, Coordinadores, Jefes de Departamento, de Oficina, Intendentes, y por los demás empleados, previstos en la estructura correspondiente.
 
-El Gobernador, además, se auxiliará en el ejercicio de sus funciones por una Gerencia de Comunicación Social y una Oficina de Relaciones Públicas.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+El Gobernador, además, se auxiliará en el ejercicio de sus funciones por una Gerencia de Comunicación Social y una Subgerencia de Relaciones Públicas.
 
 ###### ARTICULO 5o.
 
 El Gobernador designará de entre los miembros de la Junta o de los funcionarios del Banco, a las personas que fungirán como representantes del Banco ante dependencias federales, organismos, órganos colegiados y demás entidades en las que éste participe.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 6o.
 
-Para los efectos previstos en las fracciones I y IV del artículo 47 de la Ley, el Gobernador contará con las más amplias facultades de dominio, administración y pleitos y cobranzas, así como todas aquellas que requieran cláusula especial, en los términos previstos por los artículos 2554 y 2587 del Código Civil para el Distrito Federal y los correlativos de los Estados que integran la Federación, excepto las de absolver posiciones; asimismo, tendrá las facultades necesarias para suscribir y endosar títulos de crédito y en general celebrar operaciones de crédito.
+Para los efectos previstos en las fracciones I y IV del artículo 47 de la Ley, el Gobernador contará con las más amplias facultades de dominio, administración y pleitos y cobranzas, así como todas aquellas que requieran cláusula especial, en los términos previstos por los artículos 2554 y 2587 del Código Civil para el Distrito Federal y los correlativos de los Estados que integran la Federación, excepto las de absolver posiciones por sí mismo. Además, tendrá las facultades necesarias para suscribir y endosar títulos de crédito y en general celebrar operaciones de crédito. Sin perjuicio de lo dispuesto en el artículo 7o., segundo párrafo, de este Reglamento, tratándose de la facultad para absolver posiciones, corresponderá a la Dirección Jurídica su ejercicio, en los términos de los artículos 8o. y 28 del presente Reglamento.
 
 El Gobernador podrá ejercer las facultades enunciadas en el párrafo anterior ante particulares y toda clase de autoridades, excepto tratándose de autoridades y tribunales, electorales y del trabajo.
 
@@ -143,9 +147,13 @@ La atribución aquí concedida incluye las facultades necesarias para la suscrip
 
 Tratándose de disposiciones, autorizaciones, opiniones y sanciones, que conforme a la Ley corresponda emitir al Banco, por su propio derecho o como fiduciario y respecto a consultas en materia de banca central, los documentos relativos deberán ser firmados por un funcionario de la Dirección de Disposiciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento, sea competente para atender y resolver el asunto de que se trate. Lo anterior con excepción de los asuntos sobre fabricación, distribución, canje, entrega, retiro, reproducción y destrucción de billetes y monedas metálicas, los cuales deberán estar suscritos conjuntamente por un funcionario de la Dirección de Emisión y uno de la Dirección Jurídica.
 
-> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-Para la expedición de disposiciones y la imposición de sanciones, los funcionarios a que se refiere el párrafo anterior, deberán ocupar puestos de Tesorero, Gerente o superior, o bien alguno de rango equivalente.
+Para la expedición de disposiciones y la imposición de sanciones, los funcionarios a que se refiere el párrafo anterior, deberán ocupar puestos de Tesorero, Gerente, Coordinador General, o bien alguno de rango superior o equivalente a los mencionados.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+La facultad para absolver posiciones a que se refieren los artículos 6o. y 28, fracción V de este Reglamento, será ejercida por cualquier abogado adscrito a la Dirección Jurídica, actuando individualmente.
 
 El acuerdo de adscripción de unidades administrativas deberá ser suscrito por el Gobernador y, en sus ausencias, por el Director General de Administración Interna.
 
@@ -487,7 +495,9 @@ III. Notificar y, en su caso ejecutar, los acuerdos, proveídos y demás resoluc
 
 IV. Atender y dar seguimiento a los juicios de amparo en los que intervengan el Banco, la Junta, sus miembros, los funcionarios o empleados del propio Banco, como autoridades responsables con motivo del ejercicio de su empleo, cargo o comisión;
 
-V. Representar al Banco, por su propio derecho o en su carácter de fiduciario, ante toda clase de autoridades, incluyendo las judiciales, administrativas y del trabajo.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
+
+V. Representar al Banco, por su propio derecho o en su carácter de fiduciario, ante toda clase de autoridades, incluyendo las judiciales, administrativas y del trabajo, quedando comprendida en esta atribución el ejercicio de la facultad para absolver posiciones a que se refiere el artículo 6o. de este Reglamento;
 
 VI. Atender y resolver los requerimientos, que le presenten las autoridades o particulares, derivados de juicios o de procedimientos administrativos tramitados como tales;
 
@@ -531,15 +541,17 @@ IV. Proporcionar, en el ámbito de cómputo y telecomunicaciones, los bienes y s
 
 ###### ARTICULO 30.
 
-La Gerencia de Comunicación Social tendrá a su cargo la relación con los medios de comunicación al público, auxiliando al Gobernador en las funciones establecidas en la fracción VI del artículo 47 de la Ley. Asimismo le corresponderá tener a su cuidado el archivo histórico del Banco.
+La Gerencia de Comunicación Social tendrá a su cargo la relación con los medios de comunicación al público, auxiliando al Gobernador en las funciones establecidas en la fracción VI del artículo 47 de la Ley. asimismo le corresponderá tener a su cuidado el archivo histórico del Banco.
 
-El titular de esta Gerencia y el de la oficina a que se refiere el artículo 31 podrán suscribir individualmente los documentos vinculados con sus atribuciones.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
-> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 1997)</small>
+El titular de esta Gerencia y el de la Subgerencia a que se refiere el artículo 31 podrán suscribir individualmente los documentos vinculados con sus atribuciones.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 31.
 
-La Oficina de Relaciones Públicas, atenderá las actividades protocolarias y sociales, que sean necesarias para el correcto desenvolvimiento de las funciones institucionales, correspondiéndole a su vez tener a su cuidado el acervo cultural del Banco.
+La Subgerencia de Relaciones Públicas, atenderá las actividades protocolarias y sociales, que sean necesarias para el correcto desenvolvimiento de las funciones institucionales, correspondiéndole a su vez tener a su cuidado el acervo cultural del Banco.
 
 ### CAPITULO II. DE LA COMISION DE RESPONSABILIDADES
 
@@ -814,3 +826,7 @@ SEGUNDO. Cuando en cualquier instrumento jurídico se haga referencia a la Geren
 D.O.F. 24 DE JULIO DE 1997.
 
 UNICO.- Las presentes reformas y adición entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE DICIEMBRE DE 1997.
+
+UNICO. Las presentes reformas y adición entrarán en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
