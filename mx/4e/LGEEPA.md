@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2003-06-13"
+last_updated: "2005-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 2005.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -164,11 +164,15 @@ XXXIV. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Pesca
 
 > <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2000)</small>
 
-XXXV. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y
+XXXV. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y (sic)
 
 > <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 2000)</small>
 
-XXXVI. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida.
+XXXVI. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XXXVII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -742,39 +746,67 @@ IX. La política ecológica debe buscar la corrección de aquellos desequilibrio
 
 #### SECCION V. Evaluación del Impacto Ambiental
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 28.
 
-La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría establece las condiciones a que se sujetará la realización de obras y actividades que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente. Para ello, en los casos que determine el Reglamento que al efecto se expida, quienes pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente la autorización en materia de impacto ambiental de la Secretaría:
+La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría establece las condiciones a que se sujetará la realización de obras y actividades que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el medio ambiente. Para ello, en los casos en que determine el Reglamento que al efecto se expida, quienes pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente la autorización en materia de impacto ambiental de la Secretaría:
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 I. Obras hidráulicas, vías generales de comunicación, oleoductos, gasoductos, carboductos y poliductos;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
 II. Industria del petróleo, petroquímica, química, siderúrgica, papelera, azucarera, del cemento y eléctrica;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 III. Exploración, explotación y beneficio de minerales y sustancias reservadas a la Federación en los términos de las Leyes Minera y Reglamentaria del Artículo 27 Constitucional en Materia Nuclear;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
 IV. Instalaciones de tratamiento, confinamiento o eliminación de residuos peligrosos, así como residuos radiactivos;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 V. Aprovechamientos forestales en selvas tropicales y especies de difícil regeneración;
 
 VI. (DEROGADA, D.O.F. 25 DE FEBRERO DE 2003)
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
 VII. Cambios de uso del suelo de áreas forestales, así como en selvas y zonas áridas;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 VIII. Parques industriales donde se prevea la realización de actividades altamente riesgosas;
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
 IX. Desarrollos inmobiliarios que afecten los ecosistemas costeros;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 X. Obras y actividades en humedales, manglares, lagunas, ríos, lagos y esteros conectados con el mar, así como en sus litorales o zonas federales;
 
-XI. Obras en áreas naturales protegidas de competencia de la Federación;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XI. Obras y actividades en áreas naturales protegidas de competencia de la Federación;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 XII. Actividades pesqueras, acuícolas o agropecuarias que puedan poner en peligro la preservación de una o más especies o causar daños a los ecosistemas, y
 
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
 XIII. Obras o actividades que correspondan a asuntos de competencia federal, que puedan causar desequilibrios ecológicos graves e irreparables, daños a la salud pública o a los ecosistemas, o rebasar los límites y condiciones establecidos en las disposiciones jurídicas relativas a la preservación del equilibrio ecológico y la protección del ambiente.
 
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
 El Reglamento de la presente Ley determinará las obras o actividades a que se refiere este artículo, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen o puedan causar desequilibrios ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente, y que por lo tanto no deban sujetarse al procedimiento de evaluación de impacto ambiental previsto en este ordenamiento.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 Para los efectos a que se refiere la fracción XIII del presente artículo, la Secretaría notificará a los interesados su determinación para que sometan al procedimiento de evaluación de impacto ambiental la obra o actividad que corresponda, explicando las razones que lo justifiquen, con el propósito de que aquéllos presenten los informes, dictámenes y consideraciones que juzguen convenientes, en un plazo no mayor a diez días. Una vez recibida la documentación de los interesados, la Secretaría, en un plazo no mayor a treinta días, les comunicará si procede o no la presentación de una manifestación de impacto ambiental, así como la modalidad y el plazo para hacerlo. Transcurrido el plazo señalado, sin que la Secretaría emita la comunicación correspondiente, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental.
 
@@ -1122,19 +1154,85 @@ En el establecimiento, administración y manejo de las áreas naturales protegid
 
 Para tal efecto, la Secretaría podrá suscribir con los interesados los convenios de concertación o acuerdos de coordinación que correspondan.
 
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+ARTICULO 47 BIS.- Para el cumplimiento de las disposiciones de la presente Ley, en relación al establecimiento de las áreas naturales protegidas, se realizará una división y subdivisión que permita identificar y delimitar las porciones del territorio que la conforman, acorde con sus elementos biológicos, físicos y socioeconómicos, los cuales constituyen un esquema integral y dinámico, por lo que cuando se realice la delimitación territorial de las actividades en las áreas naturales protegidas, ésta se llevará a cabo a través de las siguientes zonas y sus respectivas subzonas, de acuerdo a su categoría de manejo:
+
+I. Las zonas núcleo, tendrán como principal objetivo la preservación de los ecosistemas a mediano y largo plazo, en donde se podrán autorizar las actividades de preservación de los ecosistemas y sus elementos, de investigación y de colecta científica, educación ambiental, y limitarse o prohibirse aprovechamientos que alteren los ecosistemas. Estas zonas podrán estar conformadas por las siguientes subzonas:
+
+a) De protección: Aquellas superficies dentro del área natural protegida, que han sufrido muy poca alteración, así como ecosistemas relevantes o frágiles y fenómenos naturales, que requieren de un cuidado especial para asegurar su conservación a largo plazo.
+
+En las subzonas de protección sólo se permitirá realizar actividades de monitoreo del ambiente, de investigación científica que no implique la extracción o el traslado de especímenes, ni la modificación del hábitat.
+
+b) De uso restringido: Aquellas superficies en buen estado de conservación donde se busca mantener las condiciones actuales de los ecosistemas, e incluso mejorarlas en los sitios que así se requieran, y en las que se podrán realizar excepcionalmente actividades de aprovechamiento que no modifiquen los ecosistemas y que se encuentren sujetas a estrictas medidas de control.
+
+En las subzonas de uso restringido sólo se permitirán la investigación científica y el monitoreo del ambiente, las actividades de educación ambiental y turismo de bajo impacto ambiental que no impliquen modificaciones de las características o condiciones naturales originales, y la construcción de instalaciones de apoyo, exclusivamente para la investigación científica o el monitoreo del ambiente, y
+
+II. Las zonas de amortiguamiento, tendrán como función principal orientar a que las actividades de aprovechamiento, que ahí se lleven a cabo, se conduzcan hacia el desarrollo sustentable, creando al mismo tiempo las condiciones necesarias para lograr la conservación de los ecosistemas de ésta a largo plazo, y podrán estar conformadas básicamente por las siguientes subzonas:
+
+a) De preservación: Aquellas superficies en buen estado de conservación que contienen ecosistemas relevantes o frágiles, o fenómenos naturales relevantes, en las que el desarrollo de actividades requiere de un manejo específico, para lograr su adecuada preservación.
+
+En las subzonas de preservación sólo se permitirán la investigación científica y el monitoreo del ambiente, las actividades de educación ambiental y las actividades productivas de bajo impacto ambiental que no impliquen modificaciones sustanciales de las características o condiciones naturales originales, promovidas por las comunidades locales o con su participación, y que se sujeten a una supervisión constante de los posibles impactos negativos que ocasionen, de conformidad con lo dispuesto en los ordenamientos jurídicos y reglamentarios que resulten aplicables.
+
+b) De uso tradicional: Aquellas superficies en donde los recursos naturales han sido aprovechados de manera tradicional y continua, sin ocasionar alteraciones significativas en el ecosistema. Están relacionadas particularmente con la satisfacción de las necesidades socioeconómicas y culturales de los habitantes del área protegida.
+
+En dichas subzonas no podrán realizarse actividades que amenacen o perturben la estructura natural de las poblaciones y ecosistemas o los mecanismos propios para su recuperación. Sólo se podrán realizar actividades de investigación científica, educación ambiental y de turismo de bajo impacto ambiental, así como la infraestructura de apoyo que se requiera, utilizando ecotécnias y materiales tradicionales de construcción propios de la región, aprovechamiento de los recursos naturales para la satisfacción de las necesidades económicas básicas y de autoconsumo de los pobladores, utilizando métodos tradicionales enfocados a la sustentabilidad, conforme lo previsto en las disposiciones legales y reglamentarias aplicables.
+
+c) De aprovechamiento sustentable de los recursos naturales: Aquellas superficies en las que los recursos naturales pueden ser aprovechados, y que, por motivos de uso y conservación de sus ecosistemas a largo plazo, es necesario que todas las actividades productivas se efectúen bajo esquemas de aprovechamiento sustentable.
+
+En dichas subzonas se permitirán exclusivamente el aprovechamiento y manejo de los recursos naturales renovables, siempre que estas acciones generen beneficios preferentemente para los pobladores locales, la investigación científica, la educación ambiental y el desarrollo de actividades turísticas de bajo impacto ambiental.
+
+Asimismo, el aprovechamiento sustentable de la vida silvestre podrá llevarse a cabo siempre y cuando se garantice su reproducción controlada o se mantengan o incrementen las poblaciones de las especies aprovechadas y el hábitat del que dependen; y se sustenten en los planes correspondientes autorizados por la Secretaría, conforme a las disposiciones legales y reglamentarias aplicables.
+
+d) De aprovechamiento sustentable de los ecosistemas: Aquellas superficies con usos agrícolas y pecuarios actuales.
+
+En dichas subzonas se podrán realizar actividades agrícolas y pecuarias de baja intensidad que se lleven a cabo en predios que cuenten con aptitud para este fin, y en aquellos en que dichas actividades se realicen de manera cotidiana, y actividades de agroforestería y silvopastoriles, siempre y cuando sean compatibles con las acciones de conservación del área, y que contribuyan al control de la erosión y evitar la degradación de los suelos.
+
+La ejecución de las prácticas agrícolas, pecuarias, agroforestales y silvopastoriles que no estén siendo realizadas en forma sustentable, deberán orientarse hacia la sustentabilidad y a la disminución del uso de agroquímicos e insumos externos para su realización.
+
+e) De aprovechamiento especial: Aquellas superficies generalmente de extensión reducida, con presencia de recursos naturales que son esenciales para el desarrollo social, y que deben ser explotadas sin deteriorar el ecosistema, modificar el paisaje de forma sustancial, ni causar impactos ambientales irreversibles en los elementos naturales que conformen.
+
+En dichas subzonas sólo se podrán ejecutar obras públicas o privadas para la instalación de infraestructura o explotación de recursos naturales, que generen beneficios públicos, que guarden armonía con el paisaje, que no provoquen desequilibrio ecológico grave y que estén sujetos a estrictas regulaciones de uso sustentable de los recursos naturales.
+
+f) De uso público: Aquellas superficies que presentan atractivos naturales para la realización de actividades de recreación y esparcimiento, en donde es posible mantener concentraciones de visitantes, en los límites que se determinen con base en la capacidad de carga de los ecosistemas.
+
+En dichas subzonas se podrá llevar a cabo exclusivamente la construcción de instalaciones para el desarrollo de servicios de apoyo al turismo, a la investigación y monitoreo del ambiente, y la educación ambiental, congruentes con los propósitos de protección y manejo de cada área natural protegida.
+
+g) De asentamientos humanos: En aquellas superficies donde se ha llevado a cabo una modificación sustancial o desaparición de los ecosistemas originales, debido al desarrollo de asentamientos humanos, previos a la declaratoria del área protegida, y
+
+h) De recuperación: Aquellas superficies en las que los recursos naturales han resultado severamente alterados o modificados, y que serán objeto de programas de recuperación y rehabilitación.
+
+En estas subzonas deberán utilizarse preferentemente para su rehabilitación, especies nativas de la región; o en su caso, especies compatibles con el funcionamiento y la estructura de los ecosistemas originales.
+
+En las zonas de amortiguamiento deberá tomarse en consideración las actividades productivas que lleven a cabo las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva, basándose en lo previsto tanto en el Programa de Manejo respectivo como en los Programas de Ordenamiento Ecológico que resulten aplicables.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+ARTICULO 47 BIS 1.- Mediante las declaratorias de las áreas naturales protegidas, podrán establecerse una o más zonas núcleo y de amortiguamiento, según sea el caso, las cuales a su vez, podrán estar conformadas por una o más subzonas, que se determinarán mediante el programa de manejo correspondiente, de acuerdo a la categoría de manejo que se les asigne.
+
+En el caso en que la declaratoria correspondiente sólo prevea un polígono general, éste podrá subdividirse por una o más subzonas previstas para las zonas de amortiguamiento, atendiendo a la categoría de manejo que corresponda.
+
+En las reservas de la biosfera, en las áreas de protección de recursos naturales y en las áreas de protección de flora y fauna se podrán establecer todas las subzonas previstas en el artículo 47 Bis.
+
+En los parques nacionales podrán establecerse subzonas de protección y de uso restringido en sus zonas núcleo; y subzonas de uso tradicional, uso público y de recuperación en las zonas de amortiguamiento.
+
+En el caso de los parques nacionales que se ubiquen en las zonas marinas mexicanas se establecerán, además de las subzonas previstas en el párrafo anterior, subzonas de aprovechamiento sustentable de los recursos naturales.
+
+En los monumentos naturales y en los santuarios, se podrán establecer subzonas de protección y uso restringido, dentro de sus zonas núcleo; y subzonas de uso público y de recuperación en las zonas de amortiguamiento.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 48.
 
 Las reservas de la biosfera se constituirán en áreas biogeográficas relevantes a nivel nacional, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser preservados y restaurados, en los cuales habiten especies representativas de la biodiversidad nacional, incluyendo a las consideradas endémicas, amenazadas o en peligro de extinción.
 
-En tales reservas podrá determinarse la existencia de la superficie o superficies mejor conservadas, o no alteradas, que alojen ecosistemas, o fenómenos naturales de especial importancia, o especies de flora y fauna que requieran protección especial, y que serán conceptuadas como zona o zonas núcleo. En ellas podrá autorizarse la realización de actividades de preservación de los ecosistemas y sus elementos, de investigación científica y educación ecológica, y limitarse o prohibirse aprovechamientos que alteren los ecosistemas.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+En las zonas núcleo de las reservas de la biosfera sólo podrá autorizarse la ejecución de actividades de preservación de los ecosistemas y sus elementos, de investigación científica y educación ambiental, mientras que se prohibirá la realización de aprovechamientos que alteren los ecosistemas.
 
-En las propias reservas deberá determinarse la superficie o superficies que protejan la zona núcleo del impacto exterior, que serán conceptuadas como zonas de amortiguamiento, en donde sólo podrán realizarse actividades productivas emprendidas por las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva o con su participación, que sean estrictamente compatibles con los objetivos, criterios y programas de aprovechamiento sustentable, en los términos del decreto respectivo y del programa de manejo que se formule y expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-(DEROGADO TERCER (SIC) PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)
+Por su parte, en las zonas de amortiguamiento de las reservas de la biosfera sólo podrán realizarse actividades productivas emprendidas por las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva o con su participación, que sean estrictamente compatibles con los objetivos, criterios y programas de aprovechamiento sustentable, en los términos del decreto respectivo y del programa de manejo que se formule y expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3193,3 +3291,11 @@ D.O.F. 13 DE JUNIO DE 2003.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE FEBRERO DE 2005.
+
+Primero: El presente Decreto entrará en vigor a los 180 días siguientes a su publicación en el Diario Oficial de la Federación.
+
+Segundo: Con la entrada en vigor del presente Decreto, el Poder Ejecutivo Federal deberá revisar y modificar los reglamentos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Áreas Naturales Protegidas, y en materia de Evaluación del Impacto Ambiental, en relación con los artículos que reglamenten las disposiciones legales modificadas, en un término que no exceda a 60 días una vez que entre en vigor la presente iniciativa.
+
+Tercero: Los parques nacionales y los monumentos naturales que se hayan establecido con anterioridad a la expedición del presente decreto, podrán utilizar zonas alternativas, además de las exigidas en el artículo 47 Bis 1 de la presente Ley, que permitan compatibilizar los objetivos de conservación del área natural protegida, con las actividades que se han venido desarrollando hasta ese momento.
