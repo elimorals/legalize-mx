@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-las-actividades-de-los-23424"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-13"
-last_updated: "2004-04-07"
+last_updated: "2004-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO QUE REGULA LAS ACTIVIDADES DE LOS ESTABLECIMIENTOS DE VENTA Y/O CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de febrero de 2002.
 
@@ -1581,9 +1581,17 @@ B) Cuando el resultado de la impugnación referida sea contra los intereses del 
 
 C) Cuando el titular se allane con la sanción de clausura definitiva.
 
+> <small>(REFORMADO [N. DE E. REFORMADO], P.O. 10 DE MAYO DE 2004)</small>
+
 ###### ARTICULO 68.
 
-(DEROGADO, P.O. 7 DE ABRIL DE 2004)
+La imposición de las sanciones de multa y clausura temporal del establecimiento por las causas previstas en este Reglamento, se sujetarán al procedimiento siguiente:
+
+Recibida el acta de inspección, el titular de la Secretaría del R. Ayuntamiento, por conducto de la Dirección de Inspección y Vigilancia, desahogará dentro de los tres días hábiles siguientes a la recepción del acta, una audiencia de pruebas y alegatos con o sin la asistencia de la parte interesada, en la que calificará la infracción, y ordenará, en su caso, la imposición de la multa, enviándose copia al Tesorero Municipal para el cobro de la misma a través del procedimiento correspondiente.
+
+La clausura temporal o clausura definitiva se impondrá cuando se presenten los supuestos de los artículos 64 y 65 del presente reglamento.
+
+Cuando de la audiencia de pruebas y alegatos no se desprendan elementos para proceder a la calificación e imposición de sanciones, la Dirección de Inspección y Vigilancia, previa motivación del acto, dará por terminado el procedimiento sin la imposición de sanción alguna.
 
 ### CAPITULO XIII. DE LOS RECURSOS Y NOTIFICACIONES
 
@@ -1772,3 +1780,7 @@ Para los efectos de este artículo, se entenderá como primer cuadro de la ciuda
 OCTAVO.- Todos los procedimientos y los recursos interpuestos por los particulares y que se hayan iniciando durante la vigencia del Reglamento reformado, se regirán por las disposiciones contenidas hasta su conclusión.
 
 NOVENO.- Se envié al C. Presidente Municipal para que tenga a bien instruir al titular de la Secretaría del R. Ayuntamiento, se mande publicar en el Periódico Oficial del Estado y en la Gaceta Municipal para los efectos jurídicos conducentes, y se informe a la población sobre el contenido de estas disposiciones.
+
+P.O. 10 DE MAYO DE 2004.
+
+PRIMERO: La reforma al Reglamento que Regula las Actividades de los Establecimientos de Venta y/o Consumo de Bebidas Alcohólicas en el Municipio de Monterrey, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
