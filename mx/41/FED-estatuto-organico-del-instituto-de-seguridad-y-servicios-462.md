@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1995-03-24"
+last_updated: "1995-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MAYO DE 1995.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -133,6 +133,10 @@ B).- Unidades Administrativas:
 - Coordinación General de Comunicación Social.
 
 - Coordinación General de Delegaciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE MAYO DE 1995)</small>
+
+- Coordinación General de Atención al Derechohabiente
 
 - Fondo de la Vivienda.
 
@@ -1094,6 +1098,28 @@ XV.- Coadyuvar con la Subdirección General Jurídica en la actualización de lo
 
 XVI.- Las demás que señalen otras disposiciones aplicables o le encomiende el Director General.
 
+> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 1995)</small>
+
+###### ARTICULO 54
+
+Bis.- La Coordinación General de Atención al Derechohabiente, tendrá las funciones siguientes:
+
+I.- Planear, coordinar, normar, organizar, controlar y evaluar el sistema de orientación, información, quejas y sugerencias, así como operar la central de emergencias, para los derechohabientes del Instituto, que les permita recibir de manera oportuna, eficiente y personalizada, los seguros, prestaciones y servicios establecidos en la Ley del Instituto.
+
+II.- Constituir el conducto formal de comunicación, entre el derechohabiente y las diferentes unidades administrativas del Instituto, en materia de orientación, información, quejas y sugerencias.
+
+III.- Recibir, procesar, encauzar y dar seguimiento hasta su solución, en coordinación con las unidades administrativas competentes, a las quejas y sugerencias que se generen con motivo del otorgamiento de los seguros, prestaciones y servicios.
+
+IV.- Promover los mecanismos para dar atención preferencial a los derechohabientes discapacitados y de la tercera edad, en el otorgamiento de los seguros, prestaciones y servicios.
+
+V.- Recibir, procesar, encauzar y dar seguimiento hasta su solución, a las recomendaciones que emita la Comisión Nacional de Derechos Humanos respecto al otorgamiento de seguros, prestaciones y servicios.
+
+VI.- Coordinar con el área de capacitación del Instituto, el diseño, desarrollo e impartición de cursos dirigidos al personal de atención directa a la derechohabiencia, a fin de instruirlos sobre la importancia de su función para mejorar el desempeño de sus labores.
+
+VII.- Proponer al Director General las políticas, estrategias y líneas de acción que permitan optimar la atención que se proporciona al derechohabiente, y mejorar la imagen institucional.
+
+VIII.- Las demás que señalen otras disposiciones aplicables.
+
 ### CAPITULO SEPTIMO. DE LA DESCONCENTRACION ADMINISTRATIVA
 
 #### SECCION PRIMERA. DEL FONDO DE LA VIVIENDA
@@ -1325,3 +1351,11 @@ PRIMERO.- Publíquense las presentes adiciones y reformas en el Diario Oficial d
 SEGUNDO.- Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 TERCERO.- En un plazo de noventa días a partir de la fecha de publicación, deberán expedirse los manuales de organización y procedimientos correspondientes; y dentro de este mismo plazo, quedar constituidos los Consejos a que se refiere el artículo 59-Bis.
+
+D.O.F. 30 DE MAYO DE 1995.
+
+PRIMERO.- Publíquense en el Diario Oficial de la Federación las presentes reformas y adiciones y, en su oportunidad, inscríbanse en el Registro Público de Organismos Descentralizados.
+
+SEGUNDO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- En un plazo de noventa días a partir de la fecha de publicación del presente Acuerdo, deberán expedirse los manuales de organización y procedimientos correspondientes.
