@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-profesiones-del-estado-de-sinaloa-7359"
 country: "mx"
 rank: "ley"
 publication_date: "1955-05-03"
-last_updated: "1957-05-21"
+last_updated: "1959-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROFESIONES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1957.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 1959.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el 3 de mayo de 1955.
 
@@ -51,11 +51,13 @@ Las profesiones que en el Estado de Sinaloa necesitan título para su ejercicio 
 
 Igualmente, se exigirá el título para ejercer las profesiones que se consideren dentro de los planes de estudios de las Escuelas Superiores, Técnicas, Universitarias, oficiales u oficialmente reconocidas como carreras completas. Estas profesiones serán determinadas por las leyes que expidan las autoridades competentes con relación a los planes de estudios de dichas Escuelas.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1959)</small>
+
 ###### ARTICULO 4o.
 
-Para el ejercicio de una o varias Especialidades se requiere autorización de la Dirección de Profesiones del Estado, ante la cual deberá comprobarse previamente:
+Para el ejercicio de una o varias Especialidades se requiere autorización de la Sección de Títulos Profesionales en el Estado, ante la cual deberá comprobarse previamente:
 
-1o.- Haber obtenido título relativo a la profesión correspondiente, en los términos de la presente Ley.
+1o.- Haber obtenido Título relativo a la profesión correspondiente, en los términos de la presente Ley.
 
 2o.- Haber realizado en forma idónea, los estudios especiales de perfeccionamiento científico y técnico en la ciencia o rama de la ciencia de que se trate; o haber venido ejerciendo la especialidad por 5 años consecutivos.
 
@@ -117,9 +119,11 @@ Por ningún concepto se registrarán títulos ni se revalidarán estudios de aqu
 
 ### CAPITULO III.. DEL REGISTRO DE TITULOS PROFESIONALES
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1959)</small>
+
 ###### ARTICULO 11.
 
-Para el registro de Títulos Profesionales se creará una oficina que se denominará "DIRECCION GENERAL DE PROFESIONES DEL ESTADO" dependiente del Poder Ejecutivo que se integrará por tres miembros designados, respectivamente, uno por el Poder Ejecutivo del Estado que tendrá el carácter de Presidente, otro por el Supremo Tribunal de Justicia, otro por la Universidad de Sinaloa que tendrán el carácter de vocales debiendo ser todos profesionistas debidamente titulados.
+Para el registro de Títulos Profesionales se crea una Oficina que se denominará Sección de Títulos Profesionales en el Estado, dependiente del Poder Ejecutivo a través de la Dirección General de Educación Pública, que se integrará por tres miembros designados respectivamente, uno por el Poder Ejecutivo del Estado, que será el Director de Educación Pública y que tendrá el carácter de Presidente, otro por el Supremo Tribunal de Justicia y otro por la Universidad de Sinaloa, los que tendrán el carácter de Vocales, debiendo ser todos profesionistas legalmente titulados.
 
 ###### ARTICULO 12.
 
@@ -201,15 +205,11 @@ Las personas que actúan como profesionistas sin tener título profesional legal
 
 La representación jurídica en materia obrera, Agraria y cooperativa, se regirá por las disposiciones relativas a la Ley Federal del Trabajo, Código Agrario, Ley de Sociedades Cooperativas y en su defecto por las disposiciones conexas del derecho común.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1959)</small>
+
 ###### ARTICULO 21.
 
-La Dirección General de Profesiones del Estado, podrá extender la autorización a los Pasantes de las diversas profesiones para ejercer la práctica respectiva por un término no mayor de tres años, bajo la vigilancia y responsabilidad de un profesionista titulado.
-
-Se entiende por Pasante, además del que ha terminado todos los estudios profesionales, al estudiante que ha concluído el primer año de la carrera en las de dos años; el segundo en las de tres y cuatro años; y el tercero en las de mayor duración.
-
-Para los efectos de lo anterior, se demostrará la calidad del estudiante, la conducta y capacidad del mismo, con los informes de la Facultad o Escuela correspondiente.
-
-En cada caso se extenderá al interesado una credencial en que se precise el tiempo en que gozará de tal autorización. Al concluir dicho término quedará automáticamente anulada esa credencial.
+La Sección de Títulos Profesionales en el Estado, podrá extender la autorización a los Pasantes de las diversas profesiones para ejercer la práctica respectiva por un término no mayor de tres años, bajo la vigilancia y responsabilidad de un profesionista titulado.
 
 ###### ARTICULO 22.
 
@@ -291,13 +291,15 @@ El anuncio o la publicidad que un profesionistas (sic) haga de sus actividades n
 
 ### CAPITULO V.. COLEGIOS DE PROFESIONISTAS
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1959)</small>
+
 ###### ARTICULO 38.
 
-Todos los profesionistas de una misma profesión o rama profesional con título registado (sic) o en trámite de registro a juicio de la Dirección de Profesiones del Estado o con autorización definitiva de ejercicio en carreras de reciente creación, podrán constituír en el Estado de Sinaloa uno o varios Colegios, sin que exceda de 5 por cada profesión, ni de 3 por cada rama profesional, gobernados por un Consejo Directivo compuesto como mínimo por los siguientes miembros: Un Presidente, un Vice-Presidente, un Secretario Propietario y un Suplente, un Tesorero Propietario y un Suplente que durarán dos años en su ejercicio.
+Todos los profesionistas de una misma profesión o rama profesional con título registrado o en trámite de registro a juicio de la Sección de Títulos Profesionales en el Estado con autorización definitiva de ejercicio en carreras de reciente creación, podrán constituir en el Estado de Sinaloa uno o varios Colegios, sin que exceda de 5 por cada profesión, ni de 3 por cada rama profesional, gobernados por un Consejo Directivo compuesto como mínimo por los siguientes miembros: Un Presidente, un Vice-Presidente, un Secretario Propietario y un Suplente, un Tesorero Propietario y un Suplente que durarán dos años en sus (sic) Ejercicio.
 
-El Consejo será electo por mayoría mediante voto individual emitido en la Asamblea respectiva personalmente o por medio de apoderado, o enviado por escrito a la sede del Colegio desde el lugar en que se encuentre el profesionista, por correo certificado con acuse de recibo.
+El consejo será electo por mayoría mediante voto individual emitido en la Asamblea respectiva personalmente o por medio de apoderado, o enviado por escrito a la sede del Colegio desde el lugar en que se encuentre el profesionista, por correo certificado con acuse de recibo.
 
-Los Colegios se denominarán "Colegio de ......." indicándose la profesión o rama profesional que corresponda. Cada Colegio tendrá secciones locales regidas en igual forma que la anterior. Todo profesionista, cumpliendo con los requisitos que exijan los reglamentos respectivos, tendrá derecho para formar parte del Colegio de Profesionistas que corresponda, pero solamente podrán afiliarse a un Colegio.
+Los Colegios se denominarán "Colegio de ..." indicándose la profesión o rama profesional que corresponda. Cada Colegio tendrá secciones locales regidas en igual forma que la anterior. Todo profesionista, cumpliendo con los requisitos que exijan los reglamentos respectivos, tendrá derecho para formar parte del Colegio de Profesionistas que corresponda, pero solamente podrán afiliarse a un Colegio.
 
 ###### ARTICULO 39.
 
@@ -363,7 +365,9 @@ n.- Gestionar el registro de los títulos de sus miembros.
 
 ñ.- Fomentar la cultura y las relaciones con los Colegios similares del país o extranjeros.
 
-o.- Formular los estatutos del Colegio respectivo depositando un ejemplar en la propia Dirección de Profesiones.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 1959)</small>
+
+o.- Formular los estatutos del Colegio respectivo depositando un ejemplar en la propia Sección de Títulos Profesionales en el Estado.
 
 p.- Velar porque los puestos públicos en que se requieran conocimientos propios de determinada profesión, estén desempeñados por los técnicos respectivos con título legalmente expedido y debidamente registrado.
 
@@ -383,9 +387,11 @@ Todos los estudiantes de las profesiones a que se refiere esta Ley, así como lo
 
 Se entiende por servicio social el trabajo de carácter temporal y mediante retribución equitativa que ejecuten y presten los profesionistas y estudiantes en interés social y del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1959)</small>
+
 ###### ARTICULO 47.
 
-Para la prestación del servicio social, los Colegios de Profesionistas y la Dirección General de Profesiones del Estado determinarán la forma y condiciones en que deban los miembros prestar el servicio social.
+Para la prestación del servicio social, los Colegios de Profesionistas y la Sección de Títulos Profesionales en el Estado, determinarán la forma y condiciones en que deban los miembros prestar el servicio social.
 
 ###### ARTICULO 48.
 
@@ -419,11 +425,13 @@ No incurrirá en sanciones la persona que ejerza un acto propio de profesionista
 
 Tampoco se aplicará sanción alguna tratándose de las personas que ejerzan en asuntos propios, en el caso previsto por la Fracción (sic) del Artículo 20 Constitucional en los términos del artículo 20 de esta Ley a los gestores en asuntos obreros agrarios.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1959)</small>
+
 ###### ARTICULO 53.
 
-Al profesionista que tenga título legalmente expedido pero que no lo haya registrado y ejerza la profesión que ampara, se le aplicará por primera vez una multa de diez a cincuenta pesos, que se duplicará en cada reincidencia, sin que pueda exceder de dos mil pesos. Cuando el profesionista sea insolvente se conmutará por la de arresto que no podrá ser mayor de 15 días.
+Al profesionista que tenga título legalmente expedido pero que no lo haya registrado y ejerza la profesión que ampara, se le aplicará por primera vez una multa de diez a cincuenta pesos, que se duplicará en cada reincidencia, sin que pueda exceder de dos mil pesos. Cuando el profesionista sea insolvente se conmutará por la de arresto que no podrá ser mayor de quince días.
 
-Las sanciones que este artículo señala, serán impuestas por la Dirección General de Profesiones, oyendo siempre al infractor en los términos que dicha Dirección establezca.
+Las sanciones que este Artículo señala, serán impuestas por la Sección de Títulos Profesionales en el Estado, oyendo siempre al infractor en los términos que dicha Sección establezca.
 
 ###### ARTICULO 54.
 
@@ -461,9 +469,11 @@ Cualquiera otra infracción a esta Ley que no tenga señalada expresamente sanci
 
 Las sanciones administrativas a que se refiere este capítulo serán aplicadas por las autoridades encargadas en cada caso del registro del título profesional independientemente de las sanciones penales a que se hicieren acreedores por otro concepto.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1959)</small>
+
 ###### ARTICULO 63.
 
-Los médicos con título profesional debidamente registrado que con actos de cualquier especie ayaden (sic) o hagan posible que personas no tituladas ni autorizadas practifiuen (sic) o ejerzan la medicina, serán penalmente responsables, en los términos del Artículo 10 del Código Penal del Estado, del delito que estas personas cometan, tanto por usurpar la profesión como por los delitos emergentes que resulten, sin perjuicio de las demás sanciones que por el mismo hecho llegaren a aplicarle la Dirección General de Profesiones y Colegio a que pertenecen.
+Los médicos con título profesional debidamente registrado que con actos de cualquier especie ayuden o hagan posible que personas no tituladas ni autorizadas practiquen o ejerzan la medicina, serán penalmente responsables, en los términos del Artículo 10 del Código Penal del Estado, del delito que estas personas cometan, tanto por usurpar la profesión como por los delitos emergentes que resulten, sin perjuicio de las demáas (sic) sanciones que por el mismo hecho llegaren a aplicarle la Sección de Títulos Profesionales y Colegio a que pertenecen.
 
 El cobro de multas se hará de acuerdo con el procedimiento económico coactivo. En caso de insolvencia del infractor se conmutará con arresto de 15 días.
 
@@ -523,9 +533,11 @@ b.- Comprobar la existencia de la Ley o decreto que haya creado o reconocido la 
 
 c.- Si la destrucción o desaparición de los archivos fué posterior a la clausura de la Universidad, Facultad o Escuela, comprobará la existencia la Ley o Decreto que haya ordenado la clausura.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1959)</small>
+
 ###### ARTICULO 72.
 
-Las personas que hayan extraviado su título profesional o su patente de ejercicio, deberán comprobar esta circunstancia ante la Dirección General de Profesiones del Estado, a satisfacción de ella. Una vez comprobada, se ordenará la cancelación de la patente y la expedición de un duplicado, o si se trata del título, se solicitará de la escuela o Institución que lo hubiere expedido, una certificación que lo sustituya para los efectos del registro.
+Las personas que hayan extraviado su título profesional o su patente de ejercicio, deberán comprobar esta circunstancia ante la Sección de Títulos Profesionales en el Estado, a satisfacción de ella. Una vez comprobada, se ordenará la cancelación de la patente y la expedición de un duplicado, o si se trata del título, se solicitará de la escuela o Institución que lo hubiere expedido, una certificación que los sustituya para los efectos del registro.
 
 ###### ARTICULO 73.
 
@@ -537,17 +549,23 @@ PRIMERO.- Esta Ley entrará en vigor en todo el Estado después de su publicaci�
 
 SEGUNDO.- Esta Ley deroga todas aquellas disposiciones de carácter general que se opongan a ella o que se hayan expedido sobre esta materia.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1957)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1959)</small>
 
-TERCERO.- Los Títulos profesionales que con anterioridad a la Ley hayan sido legalmente expedidos, surtirán todos sus efectos pero, para que sus poseedores puedan seguir ejerciendo, deberán registrarlos ante la autoridad correspondiente, dentro de un término máximo de tres años contados a partir de la vigencia de esta Ley.
+TERCERO.- Los títulos profesionales que con anterioridad a esta Ley hayan sido legalmente expedidos, surtirán todos sus efectos legales, pero para que sus poseedores puedan seguir ejerciendo deberán registrarlos ante la autoridad correspondiente, dentro de un término máximo de seis meses, contados a partir de la vigencia de esta Ley. No será necesario el registro de los títulos expedidos en el Estado con arreglo a sus Leyes relativas, si por virtud de disposiciones anteriores a ésta hubieran sido ya inscritos en alguna Dependencia del Estado. La Sección de Títulos Profesionales en el Estado, expedirá la Cédula Profesional, en estos casos, al profesionista que la solicite exhibiendo el título para que se tome nota de él, pagando los derechos que fija la ley relativa.
 
-CUARTO.- La Dirección General de Profesiones, de acuerdo con la Reglamentación que se hiciere, podrá autorizar para los cargos públicos que exijan la posesión de un título profesional a persona que no lo posea, siempre que no hubiere profesionistas para desempeñarlos conforme a las disposiciones relativas del servicio social, o de manera voluntaria.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 1959)</small>
+
+CUARTO.- La Sección de Títulos Profesionales, de acuerdo con la Reglamentación que se hiciere, podrá autorizar para los cargos públicos que exijan la posesión de un título profesional a persona que no lo posea, siempre que no hubiere profesistas (sic) para desempeñarlos, conforme a las disposiciones relativas al servicio social, o de manera voluntaria.
 
 QUINTO.- Las personas que en el Estado han venido ejerciendo actividades propias de cualquiera de las profesiones a que se refiere el artículo segundo, con estudios completos y sin título; con título irregular no apto para el registro; sin estudios o con estudios insuficientes y en ambos supuestos sin título, se regirán por las siguientes reglas:
 
-I.- Si comprueban haber efectuado estudios completos de educación preparatoria o vocacional y profesional, conforme a las disposiciones vigentes en la época en que se hicieron dichos estudios, deberán solicitar de la Dirección de Educación Pública en el Estado, por conducto de la Dirección General de Profesiones, dentro del término de tres años a contar de la vigencia de esta Ley, su examen recepcional en la escuela que corresponda, el cual se les concederá sin que se les exija más estudios y prácticas. Entre tanto, se les otorga autorización de ejercicio sin título, por un tiempo prudente.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 1959)</small>
 
-II.- Las personas que habiendo realizado estudios efectivos posean un título profesional expedido con anterioridad a la vigencia de esta Ley y que no sea apto para el registro, podrán capacitarse como prácticos solicitando su capacitación. La autorización provisional de (sic) ejercicio durante la época de capacitación a que se refiere este caso se otorgará previa opinión de la Dirección General de Profesiones oyendo al Colegio de Profesionistas respectivo y bajo la vigilancia y responsabilidad de un profesionista con título registrado.
+I.- Si comprueban haber efectuado estudios completos de educación preparatoria o vocacional y profesional, conforme a las disposiciones vigentes en la época en que se hicieron dichos estudios deberán solicitar de la Dirección General de Educación Pública en el Estado, por conducto de la Sección de Títulos Profesionales, dentro del término de tres años a contar de la vigencia de esta Ley su examen recepcional en la escuela que corresponda, el cual se les concederá sin que se les exija más estudios y prácticas. Entre tanto, se les otorga a (sic) autorización de ejercicio sin título, por un tiempo prudente.
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 1959)</small>
+
+II.- Las personas que habiendo realizado estudios efectivos posean un título profesional expedido con anterioridad a la vigencia de esta Ley y que no sea apto para el registro, podrán capacitarse como prácticos solicitando su capacitación. La autorización provisional del Ejercicio durante la época de capacitación a que se refiere este caso se otorgará previa opinión de la Sección de Títulos Profesionales, oyendo al Colegio de Profesionistas respectivo y bajo la vigilancia y responsabilidad de un profesionista con título registrado.
 
 III.- Las personas que durante los diez últimos años anteriores a la vigencia de esta Ley hubieren ejercido sin título actividades propias de cualesquiera de las profesiones a que se refiere el artículo 2o. y solicitado dentro de los términos fijados por las leyes su capacitación para seguir ejerciendo esas actividades, se les concederá un plazo no mayor de cinco años a contar desde la vigencia de la presente Ley para que lleven a cabo los estudios teóricos y prácticos para capacitarse como "Prácticos" en el ejercicio de las actividades que venían realizando y obtener la correspondiente autorización definitiva.
 
@@ -555,7 +573,9 @@ Entre tanto se capacitan, podrán seguir ejerciendo mediante autorizaciones prov
 
 Si el tiempo de ejercicio fuere menor de 10 años, pero mayor de 3, se les concederá autorización de carácter provisional para el ejercicio de sus mismas actividades como "Prácticos" siempre bajo la vigilancia y responsabilidad de un profesionista titulado.
 
-IV. En todos los casos será requisito indispensable demostrar capacidad suficiente previo dictamen de la Dirección General de Profesiones, mediante examen y pruebas que se cumplan en un plazo máximo de 6 meses, llenándose los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 1959)</small>
+
+IV.- En todos los casos será requisito indispensable demostrar capacidad suficiente previo dictamen de la Sección de Títulos Profesionales, mediante examen y pruebas que se cumplan en un plazo máximo de 6 meses, llenándose los siguientes requisitos:
 
 a.- Demostrar el tiempo de ejercicio profesional mediante pruebas fehacientes, la sola prueba testimonial no será eficaz.
 
@@ -569,7 +589,9 @@ e.- Demostrar su capacidad en las ramas que ha venido ejerciendo mediante un exa
 
 f.- E- (sic) requisito de examen del párrafo anterior, no se exigirá a las personas mayores de 50 años.
 
-g.- En caso de resultar aprobado el sustentante en el examen obtendrá permiso de la Dirección de Profesiones del Estado, para ejercer con la obligación de anunciarse sin título y no usar ninguna abreviatura o signo distintivo de la profesión que va a ejercer. Deberá indicar siempre el número de la autorización concedida por la Dirección de Profesiones del Estado.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 1959)</small>
+
+g.- En caso de resultar aprobado el sustentante en el examen obtendrá permiso de la Sección de Títulos Profesionales en el Estado, para ejercer con la obligación de anunciarse sin título y no usar ninguna abreviatura o signo distintivo de la profesión que va a ejercer. Deberá indicar siempre el número de la autorización concedida por la Sección de Títulos Profesionales en el Estado.
 
 h.- Tratándose de Maestros de Instrucción Primaria, Pre-Escolar y Secundaria que tengan 10 años o más de ejercicio con una buena hoja de servicios, quedan exentos del requisito de examen.
 
@@ -616,3 +638,7 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondie
 P.O. 21 DE MAYO DE 1957.
 
 UNICO.- El presente Decreto surte sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE MAYO DE 1959.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes, a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
