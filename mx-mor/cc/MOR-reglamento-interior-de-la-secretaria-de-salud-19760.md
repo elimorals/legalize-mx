@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-salud-19760"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-07"
-last_updated: "2001-02-07"
+last_updated: "2004-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de febrero de 2001.
 
@@ -51,17 +51,47 @@ SECRETARIO.
 
 UNIDADES ADMINISTRATIVAS:
 
-SUBSECRETARIO DE COORDINACIÓN SECTORIAL.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-DIRECCIÓN GENERAL DE SERVICIOS DE APOYO ADMINISTRATIVO.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
-DIRECCIÓN GENERAL DE COORDINACIÓN Y SUPERVISIÓN.
+SUBSECRETARIO DE COORDINACIÓN SECTORIAL
 
-DIRECCIÓN GENERAL DE DESARROLLO HUMANO Y ORIENTACIÓN SOCIAL.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-COORDINACIÓN DE ASESORES.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
-La Coordinación de Asesores quedará integrada a la Oficina del Secretario.
+DIRECCIÓN GENERAL DE COORDINACIÓN ADMINISTRATIVA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+DIRECCIÓN GENERAL DE COORDINACIÓN Y SUPERVISIÓN
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+DIRECCIÓN GENERAL DE INNOVACIÓN Y CALIDAD EN SALUD
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+DIRECCIÓN GENERAL NORMATIVA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+DIRECCIÓN GENERAL DE PROTECCIÓN SOCIAL EN SALUD.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+Tanto la Dirección General Normativa, la Dirección General de Protección Social en Salud, como la Dirección General de Coordinación Administrativa, quedarán integradas a la Oficina del Secretario.
 
 La Dirección General de Servicios de Apoyo Administrativo, dependerá directamente del Secretario.
 
@@ -89,7 +119,11 @@ II.- Expedir, previo acuerdo del Titular del Poder Ejecutivo, las políticas de 
 
 III.- Someter a la aprobación del Titular del Poder Ejecutivo los programas y proyectos del sistema estatal de planeación democrática que, conforme a las bases del mismo, le corresponda sancionar y autorizar;
 
-IV.- Proponer, dirigir, coordinar y controlar la ejecución de programas de desarrollo, de salud y asistencia social de la entidad, así como todos aquellos de carácter sectorial que establezca el Plan Estatal de Desarrollo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+IV.- Proponer, dirigir, coordinar y controlar la ejecución de programas de desarrollo, de salud y asistencia social de la entidad, así como todos aquellos de carácter sectorial que establezca el Plan Estatal de Desarrollo, y el Acuerdo de Coordinación para la ejecución del Sistema de Protección Social en Salud;
 
 V.- Solicitar, cuando lo exija el interés público y de acuerdo con las leyes respectivas, la disposición de bienes que deban asignarse al desarrollo de los programas de la Secretaría;
 
@@ -119,9 +153,21 @@ XV.- Acordar los nombramientos de los titulares de las unidades administrativas 
 
 XVI.- Resolver para fines administrativos las dudas que susciten con motivo de la interpretación o aplicación de este Reglamento;
 
-XVII.- Realizar recomendaciones al Titular Ejecutivo Estatal, en relación a los profesionistas que serán nombrados para ocupar la titularidad de los organismos públicos descentralizados que se encuentren dentro del Sistema Estatal de Salud, y;
+XVII.- Realizar recomendaciones al Titular Ejecutivo Estatal, en relación a los profesionistas que serán nombrados para ocupar la titularidad de los organismos públicos descentralizados que se encuentren dentro del Sistema Estatal de Salud, y; (sic)
 
-XVIII.- Las demás que son este carácter le confieran las disposiciones jurídicas aplicables y el Titular del Ejecutivo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+XVIII.- Coordinar y dar seguimiento puntual a la relación entre el Régimen Estatal de Protección Social en Salud y otros establecimientos acreditados para la atención médica en la entidad, en otras entidades federativas, o con otras instituciones del Sistema Nacional de Salud;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+XIX.- Vigilar que se cumpla con la normatividad en la aplicación de los recursos y la evaluación trimestral del sistema, y
+
+XX.- Las demás que con este carácter le confieran las disposiciones jurídicas aplicables y el Titular del Ejecutivo.
 
 ### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES DEL SUBSECRETARIO
 
@@ -165,9 +211,15 @@ XV.- Proponer programas de difusión en las materias de su competencia; y (sic)
 
 XVI.- Vigilar que se cumpla con las leyes y disposiciones aplicables en los asuntos que les competan;
 
-XVII.- Normar las actividades tendientes al Registro Estatal de Agrupaciones para la Salud, y;
+XVII.- Normar las actividades tendientes al Registro Estatal de Agrupaciones para la Salud, y; (sic)
 
-XVIII.- Las demás que le confieran las disposiciones legales vigentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+XVIII.- Vigilar las acciones que en materia de Protección Social en Salud se realicen, y
+
+XIX.- Las demás que le confieran las disposiciones legales vigentes.
 
 ###### Artículo 8.
 
@@ -215,7 +267,11 @@ Se adscriben a la Subsecretaría de Coordinación Sectorial las siguientes Unida
 
 DIRECCIÓN GENERAL DE COOORDINACIÓN Y SUPERVISIÓN;
 
-DIRECCIÓN GENERAL DE DESARROLLO HUMANO Y ORIENTACIÓN SOCIAL.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+DIRECCIÓN GENERAL DE INNOVACIÓN Y CALIDAD EN SALUD.
 
 ### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES GENERALES DE LOS DIRECTORES GENERALES
 
@@ -273,13 +329,25 @@ XXII.- Resolver los recursos administrativos que se interpongan en asuntos de su
 
 XXIII.- Conceder audiencias al público y recibir en acuerdo a cualquier servidor público subalterno, conforme a los manuales administrativos que expida el Titular de la Dependencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 12.
 
-El Director General de Servicios de Apoyo Administrativo tendrá las siguientes atribuciones específicas:
+El Director General de Coordinación Administrativa tendrá las siguientes atribuciones específicas:
 
-I.- Integrar el Anteproyecto de programa y presupuesto anual de la dependencia, someterlo a consideración del Secretario y autorizar y vigilar su ejercicio de conformidad con las normas y lineamientos que establezcan la Secretaría de Hacienda y la Oficialía Mayor;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-II.- Integrar el programa anual de requerimientos de personal; material y equipo de trabajo, servicios de apoyo y en general, de todos aquellos aspectos necesarios para el funcionamiento administrativo de la Secretaría, informando a la Oficialía Mayor de los mismos, así como de su programación;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+I.- Integrar el anteproyecto de presupuesto anual de las Unidades Administrativas de la Secretaría, someterlo a consideración del Secretario y autorizar y vigilar su ejercicio de conformidad con las normas y lineamientos que establezcan la Secretaría de Finanzas y Planeación y la Oficialía Mayor;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+II.- Integrar el programa anual de requerimientos de personal; material y equipo de trabajo, servicios de apoyo y en general, de todos aquellos aspectos necesarios para el funcionamiento de las Unidades Administrativas de la Secretaría, informando a la Oficialía Mayor de los mismos, así como de su programación;
 
 III.- Administrar los recursos humanos y materiales de la dependencia en los términos conforme a las normas y lineamientos que determine la Oficialía Mayor;
 
@@ -289,7 +357,77 @@ V.- Coordinar, de conformidad con las normas y lineamientos que determine la Ofi
 
 VI.- Elaborar, conforme a las normas que establezca la Oficialía Mayor las propuestas de reorganización de la dependencia y proponerlas al Secretario para su gestión, y;
 
-VII.- Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+VII.- Supervisar la correcta elaboración y aplicación de los movimientos del personal e incidencias de acuerdo a los lineamientos que establezca la Oficialía Mayor;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+VIII.- Mantener actualizada la estructura orgánica y la plantilla del personal de la Secretaría;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+IX.- Elaborar y dar seguimiento al Programa Anual de Mantenimiento Vehicular;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+X.- Gestionar la autorización de fondos revolventes de las Unidades Administrativas adscritas a la Secretaría, y vigilar su ejercicio de conformidad con los montos y lineamientos que determine la Secretaría de Finanzas y Planeación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+XI.- Informar a las Unidades Administrativas del Programa de Capacitación y atenderlas (sic) necesidades que al respecto requieran conforme a dicho Programa;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+XII.- Revisar el ejercicio del gasto de las Unidades Administrativas de la Secretaría de conformidad a los reportes que envía la Secretaría de Finanzas y Planeación y a los registros internos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+XIII.- Informar al Secretario y a las unidades administrativas de la Secretaría del avance programático del presupuesto autorizado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+XIV.- Enviar a los organismos públicos descentralizados, adscritos a la Secretaría, los reportes que remite la Secretaría de Finanzas y Planeación y solicitarles el resultado de la conciliación entre dichos reportes y sus registros internos, a fin de informar al Secretario del avance programático del presupuesto autorizado a los Organismos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+XV.- Coordinarse con las Unidades Administrativas y Organismos en la solicitud o envío de información que requieran la Oficialía Mayor y la Secretaría de Finanzas y Planeación, a través de esta Dirección;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+XVI.- Coordinarse con la Dirección General de Coordinación y Supervisión para la elaboración del Programa Operativo Anual de la Secretaría, en lo referente al aspecto presupuestal e informar a dicha Dirección del avance del presupuesto para el seguimiento de los programas operativos de cada unidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+XVII.- Acordar con el Secretario los asuntos encomendados a la Dirección, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+XVIII.- Las demás que determinen las disposiciones legales aplicables.
 
 ###### Artículo 13.
 
@@ -299,29 +437,49 @@ I.- Asesorar y auxiliar a las unidades administrativas de la Secretaría en la e
 
 II.- Integrar los informes de evaluación general de los planes y programas del sector salud, así como coordinar la participación de la Secretaría en el informe anual de gobierno y los demás reportes de carácter global que determine el Titular de la Dependencia;
 
-III.- Planear, organizar y conducir programas de supervisión y evaluación al funcionamiento y operación de los organismos del sector paraestatal adscritos a la Secretaría;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-IV.- Planear, organizar, conducir y dirigir la creación y desarrollo del sistema estadístico de información de salud y asistencia social, estableciendo la coordinación necesaria con la Secretaría de Hacienda para efectos del Sistema Estatal de Información Estadística;
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
-V.- Elaborar y evaluar proyectos para el desarrollo de los servicios de salud y asistencia social;
+III.- Integrar el anteproyecto del Programa Operativo Anual de la Dependencia, y someterlo a consideración del Secretario;
 
-VI.- Coordinar la elaboración de publicaciones sobre el ámbito de competencia de la Secretaría, y;
+IV.- Planear, organizar y conducir programas de supervisión y evaluación al funcionamiento y operación de los organismos del sector paraestatal adscritos a la Secretaría;
 
-VII.- Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario.
+V.- Planear, organizar, conducir y dirigir la creación y desarrollo del sistema estadístico de información de salud y asistencia social, estableciendo la coordinación necesaria con la Secretaría de Hacienda para efectos del Sistema Estatal de Información Estadística;
+
+VI.- Elaborar y evaluar proyectos para el desarrollo de los servicios de salud y asistencia social;
+
+VII.- Coordinar la elaboración de publicaciones sobre el ámbito de competencia de la Secretaría, y; (sic)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+VIII.- Supervisar el desarrollo de las evaluaciones trimestrales del Régimen Estatal de Protección Social en Salud;
+
+IX.- Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 14.
 
-El Director General de Desarrollo Humano y Orientación Social tendrá las siguientes atribuciones específicas:
+El Director General de Innovación y Calidad en Salud tendrá las siguientes atribuciones específicas:
 
-I.- Planear, organizar, conducir y ejecutar en coordinación con el Sistema para el Desarrollo Integral de la Familia, programas integrales de atención a grupos de discapacitados, enfermos crónicos, niños, adolescentes y ancianos en estado de abandono, madres solteras, exconvictos y personas que ejerzan la prostitución, así como canalizar a la dependencia que corresponda sus requerimientos de orientación jurídica;
+I. Participar, en coordinación con las Dependencias y organismos de salud en el fomento de políticas tanto estatales como federales encaminadas a mejorar la calidad de la atención en los Servicios de Salud;
 
-II.- Planear, organizar, conducir y ejecutar programas de adiestramiento y capacitación para incorporara a la actividad productiva a discapacitados, ancianos, madres solteras, exconvictos y personas que ejerzan la prostitución;
+II. Coadyuvar en el diseño de estrategias de carácter estatal sectorial que se implementen con el objeto de mejorar la calidad de los servicios de salud de Morelos;
 
-III.- Crear, rehabilitar y administrar centros de albergue para la atención de niños, adolescentes, ancianos enfermos crónicos y discapacitados en estado de abandono, así como promover su desarrollo cultural, intelectual y laboral;
+III. Organizar y coordinar la participación ciudadana en la evaluación y seguimiento de las intervenciones que busquen elevar la calidad en la prestación de servicios hacia la población;
 
-IV.- Promover con los sectores social, público y privado la creación de centros de albergue y desarrollo integral para niños, adolescentes, ancianos, discapacitados y enfermos crónicos en estado de abandono, y;
+IV. Coordinar y gestionar con los Sectores Público, Social y Privado acciones relacionadas con la atención integral de grupos vulnerables y personas con capacidades diferentes enfocadas en el fomento y promoción de la asistencia social;
 
-V.- Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario directamente o a través del Subsecretario.
+V. Orientar y canalizar a las Dependencias correspondientes los requerimientos y soluciones que en materia de calidad se formulen y propongan a la Dirección;
+
+VI. Coordinarse con la Dirección General de Protección Social en Salud, en el fortalecimiento de la calidad de la prestación de los servicios médicos, de los establecimientos certificados por el Sistema de Protección Social en Salud, y
+
+VII. Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario; (sic)
 
 ### CAPÍTULO SEXTO. DE LOS ORGANISMOS ADMINISTRATIVOS DESCONCENTRADOS
 
@@ -357,23 +515,35 @@ Las ausencias temporales de los Directores Generales se cubrirán por el Subdire
 
 ### CAPÍTULO NOVENO. DE LA COORDINACIÓN DE ASESORES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 21.
 
-La Coordinación de Asesores tendrá las siguientes atribuciones:
+La Dirección General Normativa tendrá las siguientes atribuciones:
 
-Asesorar y apoyar al Secretario, Subsecretario de Coordinación Sectorial y a los Directores Generales, en la atención de todos los asuntos jurídicos, médicos y administrativos que sean responsabilidades de la Secretaría.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-Así como las atribuciones específicas:
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
-I.- Elaborar los anteproyectos de leyes, reglamentos, decretos y acuerdos relacionados con la competencia de la Secretaría de Salud;
+I.- Revisar los anteproyectos de Leyes, Reglamentos, Decretos y Acuerdos relacionados con la competencia de la Secretaría de Salud;
 
 II.- Compilar, estudiar, divulgar y aplicar, en el ámbito de su competencia las leyes, reglamentos, decretos, acuerdos, resoluciones, circulares, y ordenes de carácter federal y estatal vinculados con la Secretaria de Salud del Estado y con las dependencias relacionadas con la salud;
 
-III.- Recibir la información relativa a los nombramientos de funcionarios, que representen la Secretaría en órganos colegiados de entidades locales y comisiones creadas por el Ejecutivo del Estado, que funcionen en la entidad, para su registro;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+III.- Recibir la información relativa a juicios, procesos y procedimientos de los que forme parte la Secretaría;
 
 IV.- Revisar las resoluciones de los recursos que interpongan en contra de los actos de la Secretaría, con motivo de la aplicación de las Leyes General y Estatal de Salud y sus disposiciones reglamentarias;
 
-V.- Elaborar y en su caso validar los acuerdos, convenios y contratos que celebre la Secretaría de Salud, coordinándose con la Consejería Jurídica del Gobierno del estado de Morelos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
+V.- Elaborar los acuerdos, convenios y contratos que celebre la Secretaría de Salud, coordinándose con la Consejería Jurídica del Gobierno del Estado de Morelos;
 
 VI.- Atender la consulta jurídica, asesorando al Secretario y a los demás servidores públicos de la Secretaría;
 
@@ -383,7 +553,63 @@ VIII.- Las demás atribuciones que expresamente le confieran los ordenamientos l
 
 ### CAPÍTULO DÉCIMO. DEL CONSEJO ESTATAL DE SALUD
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 22.
+
+La Dirección General de Protección Social en Salud tendrá las siguientes atribuciones:
+
+Dirigir y controlar el Régimen Estatal de Protección Social en Salud, así como garantizar las acciones de protección social en salud mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los servicios de salud a la persona en el sistema, de manera independiente a la propia provisión de servicios de salud.
+
+Así como las siguientes atribuciones específicas:
+
+I. Llevar a cabo las acciones de identificación de grupos de familias a beneficiar así como su incorporación al Sistema, y verificar la vigencia y tutela de sus derechos;
+
+II. Administrar el padrón de beneficiarios del estado de Morelos en los términos de las disposiciones jurídicas aplicables, para a su vez coadyuvar a la integración del Padrón Nacional;
+
+III. Apoyar la gestión a los solicitantes de incorporación al Sistema de Protección Social en Salud en la obtención de las actas de nacimiento y del CURP para favorecer su afiliación;
+
+IV. Realizar la evaluación de la capacidad económica de las familias, para establecer el nivel de cuota familiar que les corresponda, e identificar aquellas familias sujetas al esquema no contributivo;
+
+V. Elaborar el informe de las familias incorporadas al Régimen Estatal de Protección Social en Salud, incluyendo el monto aportado por concepto de cuota familiar, con el objeto de que el Secretario lo remita a la Federación dentro de los 45 días naturales de cada trimestre del calendario;
+
+VI. Vigilar que los recursos transferidos al prestador de servicios por concepto de cuota social, aportación solidaria Federal y Estatal, cuota familiar e infraestructura sean aplicados responsablemente, de conformidad con lo señalado en la Ley General de Salud, su Reglamento, el Acuerdo de Coordinación para la ejecución del Sistema de Protección Social en Salud y los Convenios de Gestión respectivos;
+
+VII. Elaborar el Programa Operativo Anual de la Dirección General a su cargo;
+
+VIII. Administrar los recursos financieros, humanos y materiales que la Federación asigna al Régimen Estatal de Protección Social en Salud para su funcionamiento operativo;
+
+IX. Verificar que las quejas que presenten los beneficiarios del Sistema de Protección Social en Salud sean turnadas, atendidas, y en su caso informar al Secretario, para que se apliquen las medidas correctivas;
+
+X. Establecer las estrategias de promoción y registro de beneficiarios de acuerdo a la normatividad aplicable;
+
+XI. Identificar causales de cancelación o suspensión de servicios a los beneficiarios conforme a lo establecido en el Capítulo X del Título Tercero Bis de la Ley General de Salud, e informar en su caso a las instancias correspondientes;
+
+XII. Facilitar el intercambio de servicios con los Regímenes Estatales de Protección Social en Salud de otras entidades federativas que se adhieran al Sistema;
+
+XIII. Realizar los convenios de gestión necesarios con establecimientos para la atención médica acreditados que se incorporen como prestadores de servicios al Sistema;
+
+XIV. Fomentar y coadyuvar en la operación de los mecanismos de referencia y contrarreferencia de pacientes beneficiarios del Sistema;
+
+XV. Coordinar los esfuerzos de difusión y concientización para la población sobre los beneficios de la afiliación al Sistema;
+
+XVI. Proponer y promover recomendaciones a los prestadores de servicios para la atención médica con respecto a los servicios otorgados a los beneficiarios del Sistema;
+
+XVII. Autorizar previo acuerdo con el Secretario, la asignación de recursos o en su caso la reposición de fondos, al prestador de servicios para la atención a los beneficiarios del Sistema en base a lo estipulado en los convenios de gestión respectivos, y en el Plan Estratégico de Desarrollo del Sistema de Protección Social en Salud;
+
+XVIII. Verificar que los prestadores de servicios médicos cumplan con los requisitos que establece la Ley, el Reglamento, el Acuerdo de Coordinación, y los Convenios de Gestión del Sistema de Protección Social en Salud;
+
+XIX. Elaborar, y presentar al Secretario, los informes de evaluación y rendición de cuentas sobre el ejercicio de los recursos del Sistema de Protección Social en Salud, que le requiera el Gobierno del Estada (sic) o la Federación, y
+
+XX. Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+(REUBICADO [N. DE E. ANTES ARTICULO 22], P.O. 8 DE DICIEMBRE DE 2004)
+
+###### Artículo 23.
 
 De acuerdo con lo dispuesto en los artículos 20 a 23 de la Ley Estatal de Salud, el Consejo Estatal de Salud fungirá como un órgano de consulta que promoverá programas especiales de salud y tendrá las demás facultades que determine la legislación vigente.
 
@@ -420,3 +646,15 @@ SECRETARIO DE SALUD
 JESÚS LIMONCHI GÓMEZ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE DICIEMBRE DE 2004.
+
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de enero de dos mil cinco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Reglamento.
+
+TERCERO. La Secretaría de Finanzas y Planeación realizará las modificaciones presupuéstales necesarias para adecuar el presupuesto autorizado a la estructura definida en este Reglamento.
