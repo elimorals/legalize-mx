@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-registro-civil-6496"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1965-12-27"
-last_updated: "1965-12-27"
+last_updated: "2004-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY ORGANICA DEL REGISTRO CIVIL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LEY ORGANICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL PERIODICO OFICIAL EL 23 DE ABRIL DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial, el lunes 27 de diciembre de 1965.
 
@@ -474,3 +476,31 @@ PALACIO DEL PODER LEGISLATIVO.- Morelia, Mich., a 23 de diciembre de 1965.- DIPU
 Por tanto, mando se publique y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Mich., a 24 de diciembre de 1965.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. Agustín Arriaga Rivera.- EL PRIMER SECRETARIO GENERAL DE GOBIERNO LIC. Rafael García De León.- Firmados.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 23 DE ABRIL DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley, entrará en vigor a los sesenta días de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Registro Civil del Estado de Michoacán de Ocampo, contenida en el Decreto número 13, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 27 de diciembre de 1965, así como sus posteriores reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Toda denominación de juez del Registro Civil, juez del Estado Civil, encargado del Registro Civil u otra equivalente, hecha en cualquier ordenamiento del Estado de Michoacán de Ocampo, se entenderá referida al oficial del Registro Civil.
+
+###### ARTÍCULO CUARTO.
+
+Toda denominación u anotación de juez del Registro Civil, juez del Estado Civil, encargado del Registro Civil u otra equivalente, hecha en las actas del estado civil o formatos para certificación de actos del estado civil, se entenderá referida al oficial del Registro Civil.
+
+###### ARTÍCULO QUINTO.
+
+El Secretario de Gobierno expedirá y publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el texto epistolar que habrán de leer el Director, los Oficiales y los Auxiliares, en los actos de matrimonio que se celebren.
+
+###### ARTÍCULO SEXTO.
+
+El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, a más tardar dentro de los sesenta días siguientes a su entrada en vigor.
