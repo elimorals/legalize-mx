@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1960-01-19"
+last_updated: "1972-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1960.
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE RADIO Y TELEVISION PUBLICADA EN EL D.O.F. 19 DE ENERO DE 1960, SE DEROGA EL CAPITULO SEXTO DEL LIBRO QUINTO DE LA LEY DE VIAS GENERALES DE COMUNICACION, CON EXCEPCION DE LO RELATIVO A INSTALACIONES DE AFICIONADOS, CONSIGNADO EN SU ARTICULO 406. SE DEROGAN TAMBIEN TODAS AQUELLAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1972.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -568,7 +566,7 @@ V.- Las tarifas estarán en vigor durante el período que las mismas indiquen. S
 
 Todas las tarifas, ya sea que señalen o no el término de su vigencia, estarán sujetas a ser revisadas, modificadas o canceladas, en los términos que ordene la Secretaría de Comunicaciones de conformidad con esta ley y su reglamento.
 
-VI.- Las clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
+VI.- La clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
 
 ###### ARTICULO 56.
 
@@ -1042,11 +1040,17 @@ Los permisos para la ejecución de maniobras de servicio particular se otorgará
 
 Para el desarrollo de las vías generales de comunicación, el Gobierno Federal establecerá escuelas postales, telegráficas, ferrocarrileras, de aeronáutica civil, náuticas, etc. Para este efecto en el Presupuesto de Egresos de la Federación, figurarán las partidas necesarias para el sostenimiento de dichas escuelas. Los reglamentos de esta ley determinarán las materias de enseñanza, lugares en que las escuelas deberán establecerse y, en general, todas las condiciones referentes a su funcionamiento.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1972)</small>
+
 ###### ARTICULO 126.
 
-El personal que trabaje en las vías generales de comunicación y medios de transporte, de cuyas funciones dependa la seguridad y eficacia de los servicios, debe sujetarse a los exámenes médicos de aptitud que señalen los reglamentos interiores de trabajo.
+El personal que intervenga directamente en la operación de los medios de transporte establecidos en las vías generales de comunicación, deberá obtener y revalidar en su caso, la licencia respectiva que expida la Secretaría de Comunicaciones y Transportes.
 
-La Secretaría de Comunicaciones tendrá la facultad de exigir a las empresas de vías generales de comunicación, que apliquen a sus empleados las sanciones que correspondan, de acuerdo con los contratos y reglamentos de trabajo, cuando aquéllos cometan faltas que estén debidamente comprobadas.
+Para el efecto del párrafo anterior, la persona interesada debe sustentar los exámenes de aptitud, así como sujetarse a los reconocimientos médicos, que para cada ramo de servicios señale esta Ley, sus reglamentos y disposiciones legales aplicables.
+
+Los concesionarios o permisionarios de servicios de transportes federales, están obligados a vigilar que el personal a su servicio cumpla con lo previsto en el párrafo anterior, siendo solidariamente responsables por la violación a este precepto, con quienes tengan a su cargo la responsabilidad directa de la conducción de vehículos, incluyendo al personal auxiliar de los operadores.
+
+La infracción al presente artículo, será sancionada por la Secretaría de Comunicaciones y Transportes en los términos de esta Ley, sus reglamentos y las demás disposiciones legales aplicables.
 
 ###### ARTICULO 127.
 
@@ -5361,3 +5365,9 @@ La presente ley entrará en vigor al día siguiente de su publicación en el "Di
 ###### ARTICULO 2.
 
 Se deroga el capítulo sexto del libro quinto de la Ley de Vías Generales de Comunicación, con excepción de lo relativo a instalaciones de aficionados, consignado en su artículo 406. Se derogan también todas aquellas disposiciones que se opongan a la presente ley.
+
+D.O.F. 30 DE DICIEMBRE DE 1972.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
