@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1995-12-26"
+last_updated: "1996-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1517,9 +1517,9 @@ III.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1990)
 
 Cuando se trate de vivienda de interés social o popular, en los términos de la fracción II del artículo 3o. de la Ley de Vivienda para el Estado de Guanajuato, la base para el pago de éste impuesto será el setenta por ciento del valor que resulte de la aplicación de la tabla de valores que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato, siempre y cuando se trate de la única propiedad o posesión del contribuyente.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Tratándose de los inmuebles en los que se presten exclusivamente el servicio de educación de tipo medio-superior y superior, a que se refiere el artículo 164 inciso a) de esta Ley, la base será el 15% del valor determinado en los términos del párrafo anterior.
+Tratándose de los inmuebles en los que se presten exclusivamente el servicio de educación de tipo medio-superior y superior, a que se refiere el artículo 164 inciso a) de esta Ley, la base será el 15% del valor que resulte de la aplicación de la tabla de valores que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
 
 ###### ARTICULO 163.
 
@@ -1549,11 +1549,11 @@ B).- Los que perteneciendo a particulares, estén destinados a un servicio públ
 
 C).- Los que sean propiedad de asociaciones, fundaciones e instalaciones de beneficencia y asistencia social, siempre que estén destinados directamente a los fines de las mismas.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-D).- Las casas habitación, que pertenezcan a jubilados y pensionados o cónyuges, concubina o concubinario, viudos o viudas de éstos, así como las personas de sesenta años o más de edad, siempre que se trate del inmueble que habitan o sea su única propiedad, y el valor fiscal no exceda de cuarenta veces el salario mínimo general diario elevado al año, que corresponda al lugar donde se encuentre el inmueble.
+D).- Las casas-habitación que pertenezcan a jubilados y pensionados, o al cónyuge, concubina, concubinario, viudo o viuda de éstos, así como las personas de sesenta años o más edad. Este beneficio se otorgará a una sola casa-habitación y cuyo valor fiscal no exceda de cuarenta veces el salario mínimo general diario elevado al año, que corresponda al lugar donde se encuentre el inmueble.
 
-En caso de que el valor del inmueble exceda el límite señalado en el párrafo anterior, se deberá aplicar la tasa correspondiente sobre el excedente; y
+En caso de que el valor del inmueble exceda el límite señalado en el presente inciso, se deberá aplicar la tasa correspondiente sobre el excedente; y
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 1993)</small>
 
@@ -1563,9 +1563,9 @@ E).- Las casas habitación adquiridas con financiamiento otorgado por el Institu
 
 En relación al inciso anterior, no se considerará adquisición los créditos para mejora o ampliación de la casa habitación.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Para los efectos de este artículo, se requiere solicitud por escrito del contribuyente, a la cual deberá anexar la documentación que acredite cualquiera de las hipótesis previstas en los incisos anteriores; en relación a los incisos d) y e) el solicitante deberá acreditar, además, que se trata de su única propiedad o posesión.
+Para los efectos de este artículo, se requiere solicitud por escrito del contribuyente, a la cual deberá anexar la documentación que acredite cualquiera de las hipótesis previstas en los incisos anteriores; en relación al inciso e) el solicitante deberá acreditar, además, que se trata de su única propiedad o posesión.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 1993)</small>
 
@@ -1605,9 +1605,9 @@ El valor fiscal de los inmuebles, solo podrá ser modificado, por la manifestaci
 
 No habiendo alguna de las causas anteriores, el valor fiscal solo podrá ser modificado por avalúo, si han transcurrido cuando menos cuatro años fiscales desde la fecha en que haya surtido efectos el anterior. Dicho avalúo entrará en vigor a partir del bimestre siguiente a la fecha en que se notifique.
 
-(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992) (F. DE E., P.O. 26 DE MARZO DE 1993)
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Al término de la vigencia de los cuatro años, a que se refiere el párrafo anterior, en tanto se practica el nuevo avalúo, la Tesorería Municipal, incrementará la base del impuesto, aplicándole el factor que resulte de dividir el índice nacional de precios al consumidor que publique el Banco de México, del primer mes del bimestre en que haya vencido al avalúo anterior, entre el índice nacional de precios al consumidor del primer mes del bimestre en que se haya notificado.
+Al término de los cuatro años y en tanto se practica el nuevo avalúo, la base del impuesto predial seguirá siendo la del último valor fiscal.
 
 ###### ARTICULO 169.
 
@@ -1739,7 +1739,9 @@ Si el acto o contrato se hace constar en Escritura Pública, el Notario Público
 
 Están obligados al pago de este impuesto los propietarios o poseedores de inmuebles que los dividan o lotifiquen y no constituya fraccionamiento.
 
-La lotificación y división de inmuebles, se tramitarán de conformidad con las disposiciones contenidas en la Ley de Fraccionamientos y Conjuntos Habitacionales para el Estado de Guanajuato.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+La lotificación y división de inmuebles, se tramitarán de conformidad con las disposiciones contenidas en la Ley de Fraccionamientos para los Municipios del Estado de Guanajuato.
 
 ###### ARTICULO 187.
 
@@ -1765,7 +1767,7 @@ Este Impuesto se causará y liquidará de acuerdo con las tasas y cuotas que est
 
 ###### ARTICULO 190.
 
-En los casos de lotificación, se cobrará adicionalmente por metro cuadrado de superficie del impuesto de lotificación, cuando el inmueble simultánea o sucesivamente se divida o lotifique en varias fracciones, de acuerdo con las cuotas que señale anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato. Este cobro se calculará sobre la totalidad de la superficie original del terreno, cuando se hagan tres o más divisiones, pero la Tesorería Municipal, podrá según las características del inmueble y el destino del mismo, establecer concesiones sobre dicho pago.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 1996)
 
 ###### Artículo 191.
 
@@ -1781,9 +1783,11 @@ Están obligados al pago de este impuesto las personas físicas o morales que re
 
 Este Impuesto se causará por metro cuadrado de superficie vendible, conforme a las cuotas establecidas anualmente en la Ley de Ingresos para los Municipios del Estado de Guanajuato.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 194.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas enviará a la Tesorería Municipal el proyecto aprobado del fraccionamiento, adjuntando un plano autorizado que precise las superficies destinadas a las vías públicas, plazas, parques, jardines, mercados, escuelas, la superficie de donación y la superficie vendible.
+La Dirección de Obras Públicas del Municipio enviará a la Tesorería Municipal el proyecto aprobado del fraccionamiento, adjuntando un plano autorizado que precise las superficies destinadas a las vías públicas, plazas, parques, jardines, mercados, escuelas, la superficie de donación y la superficie vendible.
 
 ###### ARTICULO 195.
 
@@ -1795,9 +1799,11 @@ La Tesorería Municipal respectiva, una vez que reciba la documentación que se 
 
 El pago de la cuota anterior deberá hacerse dentro de los quince días siguientes a la fecha de la notificación.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 197.
 
-Una vez pagado o garantizado el Impuesto, la Tesorería Municipal, después de señalar la región y el número catastral que le corresponda a cada una de las manzanas de que se componga el fraccionamiento, devolverá los planos aprobados con la anotación anterior, la Secretaría de Desarrollo Urbano y Obras Públicas para que proceda, en su caso, a otorgar el permiso para la ejecución de las obras de urbanización.
+Una vez pagado o garantizado el Impuesto, la Tesorería Municipal, después de señalar la región y el número catastral que le corresponda a cada una de las manzanas de que se componga el fraccionamiento, entregará los planos aprobados con la anotación anterior al Ayuntamiento para que proceda, en su caso, a otorgar la licencia para la ejecución de las obras de urbanización.
 
 ###### ARTICULO 198.
 
@@ -1811,7 +1817,9 @@ En estos casos el adquirente de lotes de un fraccionamiento irregular será soli
 
 Están obligados al pago de este Impuesto las personas físicas o morales que exploten los establecimientos en que se practiquen:
 
-I.- Los juegos permitidos de billares, boliches, futbolitos y otros similares.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+I.- Los juegos permitidos de billares, boliches, futbolitos, máquinas de juegos de videos y otros simulares;
 
 II.- Las apuestas permitidas que se realicen en los frontones de cualquier modalidad, carreras de caballos, peleas de gallos y otros espectáculos, sobre el total de las apuestas que se crucen. Este se causará independientemente del Impuesto sobre Diversiones y Espectáculos Públicos.
 
@@ -1889,6 +1897,10 @@ Los patrocinadores, explotadores de diversiones y espectáculos públicos están
 
 Están obligados al pago de este impuesto, las personas físicas o morales que organicen rifas, sorteos, loterías y concursos que se celebren en los Municipios del Estado. Los beneficiados que hubieren obtenido los premios derivados de dichas actividades, deberán cubrir al Fisco un 2% sobre el valor de los mismos.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Se exceptúa de lo dispuesto en el párrafo anterior la obtención de ingresos derivados de premios por loterías, rifas, sorteos y concursos de toda clase, cuando tales eventos sean organizados por Organismos Públicos Descentralizados de la Administración Pública Federal, así como por la enajenación que realicen de billetes y demás comprobantes que permitan participar en los mismos.
+
 ###### ARTICULO 215.
 
 La base del impuesto serán los ingresos que se perciban sobre el total de los boletos vendidos o rifas, sorteos, loterías y concursos que se celebren en los Municipios del Estado; también será el monto del valor de los premios obtenidos.
@@ -1909,13 +1921,25 @@ Las personas físicas o morales que celebren la rifa, lotería o concurso, queda
 
 Los contribuyentes a que se refiere el artículo anterior están obligados a otorgar en favor de la Tesorería Municipal, antes de efectuar la lotería, rifa, sorteo o concurso, garantía especial para asegurar el premio y el pago del impuesto.
 
-### CAPITULO OCTAVO. DEL IMPUESTO SOBRE EXPLOTACION DE MARMOLES, CANTERAS, PIZARRAS, BASALTOS, CAL, CALIZAS, Y SUS DERIVADOS, ARENA, GRAVA Y OTROS SIMILARES
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO UNICO. REGLAS GENERALES
+### CAPITULO VIII (SIC). DEL FONDO PARA SEGURIDAD PUBLICA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 219 BIS.- De los ingresos provenientes de la recaudación de los impuestos sobre juegos y apuestas permitidas, sobre diversiones y espectáculos públicos y sobre rifas, sorteos, loterías y concursos que establece esta Ley; se destinará el porcentaje que determine la Ley de Ingresos para los Municipios del Estado de Guanajuato, a la constitución del Fondo para Seguridad Pública Municipal.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO IX (SIC)
+
+DEL IMPUESTO SOBRE EXPLOTACION DE BANCOS DE MARMOLES, CANTERAS, PIZARRAS, BASALTOS, CAL, CALIZAS, TEZONTLE, TEPETATE Y SUS DERIVADOS, ARENA, GRAVA Y OTROS SIMILARES
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 220.
 
-Están obligados al pago de este impuesto las personas físicas o morales que se dediquen a la explotación de mármoles, canteras, pizarras, basaltos, cal, calizas y sus derivados.
+Están obligados al pago de este impuesto las personas físicas o morales que se dediquen a la explotación de mármoles, canteras, pizarras, basaltos, cal, calizas tezontle y tepetate y sus derivados, arena, grava y otros similares.
 
 ###### ARTICULO 221.
 
@@ -1935,7 +1959,7 @@ Este impuesto se pagará mensualmente a más tardar el día 15 de cada uno de lo
 
 ## TITULO QUINTO. DE LOS DERECHOS
 
-### CAPITULO UNICO
+### CAPITULO UNICO. REGLAS GENERALES
 
 ###### ARTICULO 225.
 
@@ -1952,6 +1976,8 @@ La dependencia, funcionario o empleado que preste el servicio por el cual se pag
 ###### ARTICULO 228.
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable de su pago, sin perjuicio de las sanciones que en tal caso procedan.
+
+### CAPITULO UNICO
 
 ## TITULO SEXTO. DE LAS OBLIGACIONES ESPECIALES
 
@@ -2093,13 +2119,17 @@ Aprobada la realización de la obra de que se trate, se remitirá al Congreso de
 
 El objeto de esta contribución, será el servicio de alumbrado público que se preste en las calles, plazas, jardines y otros lugares de uso común, y su recaudación se destinará al pago del mismo, y en su caso, al mejoramiento de este servicio en colaboración con los contribuyentes beneficiados.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 246.
 
-El pago de esta contribución se hará con base en las tarifas generales números 1, 2, 3, 8 y 12 aprobadas y publicadas en los términos de la Ley Federal de Servicio Público de Energía Eléctrica y se liquidará en relación con las mismas, conforme a las tasas que señale anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+El pago de esta contribución se hará con base en las tarifas generales números 1, 2, 3, O-M, H-M, H-S y H-T aprobadas y publicadas en los términos de la Ley Federal de Servicio Público de Energía Eléctrica y se liquidará en relación con las mismas, conforme a las tasas que señale anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 247.
 
-El Gobierno del Estado se responsabilizará del pago por consumo de energía eléctrica para el servicio Público de Alumbrado de los Municipios, de conformidad con los convenios que celebre con la Comisión Federal de Electricidad, para el cobro de esta contribución. En caso de que la recaudación resultare insuficiente para cubrir el costo del consumo, la diferencia se cargará proporcionalmente a cada Municipio en relación a su factor de participaciones.
+El Gobierno del Estado se responsabilizará del pago por la prestación del servicio público de alumbrado de los Municipios, de conformidad con los convenios que celebre con la Comisión Federal de Electricidad, para el cobro de esta Contribución. En caso de que la recaudación resultare insuficiente para cubrir el costo del consumo, la diferencia se cargará proporcionalmente a cada Municipio en relación a su factor de participaciones.
 
 ## TITULO SEPTIMO. DE LOS PRODUCTOS
 
@@ -2346,3 +2376,9 @@ El presente decreto entrara en vigor el cuarto día siguiente al de su publicaci
 ###### ARTICULO SEGUNDO.
 
 Los bienes inmuebles que hayan sido adquiridos y registrados por los municipios hasta antes de la entrada en vigor del presente decreto, deberán permanecer en el rubro en que hayan sido registrados, independientemente de su valor original.
+
+P.O. 24 DE DICIEMBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el primero de enero de 1997 mil novecientos noventa y siete.
