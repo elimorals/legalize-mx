@@ -1,0 +1,1226 @@
+---
+title: "LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA"
+identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
+country: "mx"
+rank: "ley"
+publication_date: "1972-12-31"
+last_updated: "1972-12-31"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-bcn"
+scjn_id: "3578"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "37 SECCION XIII"
+reform_count: "83"
+scjn_last_update: "2026-06-18"
+issue_date: "1972-12-31"
+state: "BCN"
+---
+# LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
+
+LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
+
+Milton Castellanos Everardo
+
+Gobernador Constitucional del Estado Libre y Soberano de Baja California, a sus habitantes sabed:
+
+Que la H. Legislatura del Estado, me ha dirigido para su promulgación el Ordenamiento Legal que sigue:
+
+LA H. VII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCIONES I Y XXX DE LA CONSTITUCION POLITICA LOCAL,
+
+DECRETA:
+
+LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
+
+## TITULO I. GENERALIDADES
+
+### CAPITULO UNICO. Disposiciones Generales
+
+###### ARTICULO 1.
+
+La Hacienda Pública del Estado de Baja California, para cubrir los gastos de su administración y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los ingresos por concepto de impuestos, derechos, productos y aprovechamientos que anualmente establezcan las leyes Fiscales correspondientes, las participaciones en ingresos federales y municipales, y contribuciones de mejoras.
+
+###### ARTICULO 2.
+
+Las personas físicas, morales o unidades económicas domiciliadas en el Estado o fuera de él, que tuvieren bienes en su territorio o celebren actos que surtan efectos en el mismo, están obligados a contribuir para los gastos públicos de la entidad de la manera que dispongan las leyes y a cumplir con las disposiciones que establezca el Código Fiscal del Estado.
+
+###### ARTICULO 3.
+
+Los ingresos se dividen en ordinarios y extraordinarios. Son ordinarios los ingresos señalados en el Artículo 1o. de esta Ley. Son extraordinarios los que se decreten excepcionalmente.
+
+###### ARTICULO 4.
+
+Ninguna contribución podrá recaudarse si no está prevista por la Ley anual de ingresos correspondiente, o por una ley posterior que lo establezca. Las obligaciones fiscales derivadas de la Ley de Ingresos o de otras leyes, se originarán cuando se realicen las situaciones que coincidan con las que las leyes señalen, aún cuando dichas situaciones constituyan infracciones a otras disposiciones legales.
+
+En este último caso, la exigibilidad o cumplimiento de las obligaciones fiscales no legitimará esos hechos o circunstancias.
+
+## TITULO II. IMPUESTOS
+
+### CAPITULO I. Impuesto Predial
+
+###### ARTICULO 5.
+
+Es objeto del Impuesto Predial:
+
+I.- La propiedad de predios urbanos.
+
+II.- La propiedad de predios rústicos.
+
+III.- La propiedad de predios industriales.
+
+IV.- La posesión ejidal.
+
+V.- La posesión de predios urbanos, rústicos o industriales en los casos siguientes:
+
+a).- Cuando no exista propietario.
+
+b).- Cuando el propietario no éste definido.
+
+c).- Cuando el predio estuviere substraído a la posesión del propietario, por causas ajenas a su voluntad.
+
+d).- Cuando se derive de contratos de promesa de venta, con reserva de dominio y de promesa de venta o venta de certificados de participación inmobiliaria, de vivienda de simple uso o de cualquier otro título similar que autorice la ocupación material del inmueble y que origine algún derecho posesorio, aún cuando los mencionados contratos, certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso.
+
+e).- Cuando exista desmembración de la propiedad de manera que una persona tenga la nuda propiedad y otra el usufructo.
+
+f).- Cuando la ejerzan los particulares sobre inmuebles propiedad de la Federación, Estado, Municipios u Organismos descentralizados y sujetos a exención.
+
+###### ARTICULO 6.
+
+Son sujetos de este Impuesto:
+
+I.- Los propietarios de predios urbanos, industriales o rústicos.
+
+II.- Los poseedores de predios urbanos, rústicos o industriales, en el caso a que se refiere la Fracción V del Artículo 5 de esta Ley.
+
+III.- Los fideicomitentes, mientras sean poseedores del predio objeto del fideicomiso o los fideicomisarios que estén en posesión del predio, aún cuando todavía no se les transmita la propiedad.
+
+IV.- Tratándose de predios ejidales, quien posea provisional o definitivamente el predio o en su caso, al núcleo de ejidatarios.
+
+###### ARTICULO 7.
+
+La base del Impuesto es la siguiente:
+
+I.- El valor catastral de los predios, tratándose de urbanos, rústicos o industriales.
+
+En aquellos casos en que los predios no tengan valores catastrales, servirá de base el valor con que se encuentren fiscalmente empadronados, el valor de operación de transmisión de dominio que se registre, o el valor de capitalización, si alguno de éstos fuere mayor que aquél.
+
+II.- El valor a precio de venta de la producción agrícola, avícola o ganadera, natural o de cultivo, que se obtenga durante el año, de los predios ejidales ya sea que se explote individual o colectivamente.
+
+En aquellos casos que se desconozca el precio de venta, el Ejecutivo del Estado fijará el precio oficial de los diferentes productos en atención a sus calidades, el que servirá de base para los efectos de este Impuesto.
+
+III.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentre construído el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Secretaría de Finanzas fijará el Impuesto de acuerdo con los valores catastrales, y entrará en vigor a partir del bimestre siguiente a la fecha en que haya autorizado previamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el Impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos, la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado, girándose a cada cual el recibo de pago correspondiente.
+
+###### ARTICULO 8.
+
+La tasa del impuesto que corresponde pagar a los propietarios o poseedores de predios urbanos no edificados con servicio de agua, electricidad y drenaje, será ascendente partiendo de la tasa fijada por la Ley de Ingresos; entre tanto no se construya o enajene aumentará automáticamente el 25% sobre dicha tasa cada año hasta completar 10 años al final de los cuales se interrumpe.
+
+Los efectos de este Artículo no serán aplicables a los fraccionamientos debidamente autorizados, ni a los predios no edificados que formen parte de una unidad comercial o industrial.
+
+###### ARTICULO 9.
+
+La cuota del Impuesto que se fije con base en el primer avalúo catastral, reavalúos y modificaciones, entrará en vigor a partir del bimestre siguiente a la fecha en que se haya notificado.
+
+###### ARTICULO 10.
+
+El Impuesto Predial se causará y pagará conforme a los términos y las tasas que fije la Ley de Ingresos.
+
+###### ARTICULO 11.
+
+El Impuesto Predial Ejidal se causará según la tasa que determine la Ley de Ingresos y que en ningún caso excederá el 5% del total de la producción anual de los ejidos.
+
+###### ARTICULO 12.
+
+Tratándose de posesiones provisionales, los ejidatarios, pagarán, en el primer año, el 25% del Impuesto Predial que les corresponda, y en los años subsecuentes, el Impuesto aumentará en un 10% cada año hasta alcanzar la tasa total, o hasta que se ejecute la resolución presidencial.
+
+###### ARTICULO 13.
+
+El pago del Impuesto se hará en la Recaudación de Rentas que corresponda, en los plazos siguientes:
+
+I.- Por bimestres adelantados durante los primeros veinte días de cada bimestre.
+
+II.- Por anualidades adelantadas dentro del primer bimestre de cada año.
+
+III.- Tratándose de predios sujetos al régimen ejidal o comunal el pago deberá hacerse durante las cosechas o la venta de los productos.
+
+IV.- La Ley de Ingresos fijará los casos en que el pago del Impuesto sea anual o bimestral.
+
+El pago anticipado del Impuesto, no impide el cobro de diferencias que debe hacer la Secretaría de Finanzas por cambios en las bases gravables o variación de las cuotas del Impuesto.
+
+###### ARTICULO 14.
+
+Son solidariamente responsables del pago del Impuesto Predial:
+
+I.- Los adquirentes por cualquier título de predios urbanos, rústicos o industriales, por los créditos originados con anterioridad a su adquisición.
+
+II.- Los propietarios de los predios mencionados en el inciso anterior, cuando hayan otorgado la posesión en virtud de un contrato de promesa de venta, de compra-venta con reserva de dominio o cualquier otro por el cual no se transmita el dominio.
+
+III.- Los ejidatarios y los integrantes de colonias agrícolas y sociedades de crédito agrícola, en lo que respecta a los terrenos que posean mancomunadamente.
+
+IV.- En todos los casos de operaciones en las que no se transmita el dominio, son responsables solidarios los fraccionadores.
+
+V.- Los funcionarios y empleados del Gobierno del Estado, que dolosamente expidan constancias de que los causantes se encuentran al corriente en los pagos del Impuesto Predial.
+
+###### ARTICULO 15.
+
+Las sociedades, agrupaciones, empresas agrícolas, avícolas o ganaderas, o personas físicas que maquilen o compren de primera mano productos naturales o de cultivos ejidales, que conforme a esta Ley, está (sic) afectos al pago de este Impuesto, exigirán al vendedor que compruebe, con anticipación a la operación que realicen, que ha sido cubierto este Impuesto y si no se acredita, deberán retener y enterar su importe en la Recaudación de Rentas que corresponda, durante los primeros diez días del siguiente mes.
+
+###### ARTICULO 16.
+
+Las mismas personas a que se refiere al Artículo anterior, que por cualquier otro concepto reciban directamente de los ejidatarios productos agrícolas, avícolas o ganaderos, naturales o de cultivos ejidales, están obligados a la retención del Impuesto Predial Ejidal, en los términos establecidos en la presente Ley.
+
+###### ARTICULO 17.
+
+Los inmuebles responden preferentemente del pago del Impuesto Predial, aún cuando pasen a propiedad o posesión de terceros.
+
+###### ARTICULO 18.
+
+Están exentos del pago del Impuesto Predial:
+
+I.- Los predios pertenecientes a la Federación, al Estado y a los Municipios.
+
+II.- Los predios propiedad de las Instituciones de beneficencia privada siempre y cuando no se hagan distinciones entre los beneficiarios, y la atención a éstos sea gratuita.
+
+III.- Los lotes que adquieran los particulares en los cementerios y que sean dedicados exclusivamente a inhumaciones.
+
+IV.- Los inmuebles donde se encuentren establecidos consulados, cuando sean propiedad de sus respectivos gobiernos y siempre que para efecto de reciprocidad, lo requiera el caso.
+
+###### ARTICULO 19.
+
+La exención contenida en la Fracción II del Artículo anterior, se solicitará por escrito a la Secretaría de Finanzas, debiéndose acompañar todas las pruebas que demuestren la procedencia de la misma, o en su caso, ofrecer dichas pruebas, que serán calificadas por la propia Secretaría.
+
+###### ARTICULO 20.
+
+La vigencia de las exenciones en el pago del Impuesto Predial a que se refiere la Fracción II del Artículo 18 de esta Ley, se iniciará a partir del primer bimestre siguiente a la fecha en que se hubiera presentado la solicitud correspondiente, o a partir del último pago del Impuesto hecho con posterioridad a esa fecha si aquella es aprobada. Los beneficiarios de las exenciones deberán manifestar a la Secretaría de Finanzas, cualquier modificación de las circunstancias que hubieren fundado dichas exenciones. En este caso, la misma Secretaría de Finanzas dictará resolución nulificando la exención a partir del momento en que hubiere desaparecido el fundamento de la misma y ordenará el recobro de los impuestos, cuyo pago se hubiese omitido, así como los recargos, multas y accesorios que proceda.
+
+###### ARTICULO 21.
+
+Cuando a virtud de una Ley especial se obtenga exención total o parcial del Impuesto Predial por un plazo determinado, al vencimiento del plazo se procederá al cobro del Impuesto de acuerdo con el avalúo que a esa fecha practique la Dirección General de Catastro y en tanto no se hiciere, el impuesto se cobrará con base en el último avalúo practicado.
+
+###### ARTICULO 22.
+
+Los Notarios, jueces y demás funcionarios autorizados por la Ley para dar fé pública, no autorizarán ningún contrato o acto que tenga por objeto la enajenación o gravamen de un inmueble o derechos reales sobre el mismo, mientras no se les compruebe con el certificado respectivo que están al corriente en el pago del Impuesto Predial.
+
+Si por causas no imputables al enajenante, las autoridades fiscales del Estado no han empadronado o catastrado el predio, la Secretaría de Finanzas podrá permitir a los Notarios que otorguen la mencionada autorización definitiva, sin que le sea exhibido el certificado a que se refiere este Artículo.
+
+###### ARTICULO 23.
+
+Los notarios o las autoridades ante quienes se celebren contractos o actos por virtud de los cuales se transmita la propiedad de un predio, están obligados a dar aviso a la Oficina de Catastro y a la Recaudación de Rentas del lugar de su ubicación, dentro del término de quince días siguientes a la fecha de la celebración del acto o contrato respectivo.
+
+###### ARTICULO 24.
+
+Tratándose de construcciones no manifestadas, se hará el recobro del Impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo que el interesado pruebe que la omisión data de fecha posterior.
+
+###### ARTICULO 25.
+
+Para los efectos del Impuesto Predial, el causante está obligado a señalar domicilio y en caso de no hacerlo, se tendrá como tal para todos efectos legales, el predio que lo cause.
+
+###### ARTICULO 26.
+
+Las sociedades, agrupaciones, empresas o personas físicas que exploten bosques de comunidades agrarias o de sociedades cooperativas agrícolas, están obligados a exhibir a las autoridades Fiscales del Estado, las guías, contratos o documentos que sean necesarios para definir o establecer el Impuesto Predial correspondiente y su monto.
+
+###### ARTICULO 27.
+
+Para los efectos de este Impuesto se tomarán en cuenta las definiciones que sobre las distintas clases de predio y construcciones contiene la Ley de Catastro.
+
+### CAPITULO II. Impuesto Sobre Transmisión de Dominio
+
+###### ARTICULO 28.
+
+Es Objeto del Impuesto Sobre Transmisión de Dominio, la transmisión de bienes inmuebles, derechos reales o posesorios y la adquisición de los mismos por prescripción.
+
+Así mismo son objeto de este impuesto, las operaciones de fideicomiso, cuando en sí mismas impliquen la transmisión de dominio, derechos reales o posesorios de bienes inmuebles.
+
+###### ARTICULO 29.
+
+Son sujetos de este impuesto las personas físicas, morales o unidades económicas que transmitan la propiedad o el dominio de bienes inmuebles, derechos reales o posesorios, y las que lo adquieran por prescripción.
+
+Así mismo son sujetos de este impuesto los fideicomitentes cuando la fiduciaria transmita la posesión o el dominio de los bienes o derechos reales sobre ellos constituídos objeto del fideicomiso.
+
+###### ARTICULO 30.
+
+Para los efectos de este impuesto, la base gravable tratándose de bienes inmuebles urbanos será el valor que resulte más elevado de los valores fiscal, contractual y de avalúo comercial que practique una Institución de Crédito autorizada, avalúo que no podrá tener antigüedad mayor a un año a partir de la fecha en que se practique. En el caso de inmuebles rústicos la base gravable será el valor que resulte más elevado entre el fiscal y el contractual.
+
+Tratándose de remates practicados por las autoridades judiciales, del trabajo o administrativas, la base gravable será el valor que resulte más elevado entre el fiscal y el pericial.
+
+###### ARTICULO 31.
+
+Este impuesto se causará y pagará conforme a las tarifas que establezca la Ley de Ingresos del Estado.
+
+###### ARTICULO 32.
+
+Este impuesto deberá pagarse por los sujetos del mismo, dentro de los treinta días siguientes a la fecha de la escritura, adjudicación, acto o contrato respectivo, mediante la presentación de declaración que se menciona en el artículo 39 de esta Ley.
+
+###### ARTICULO 33.
+
+Los adquirentes de bienes inmuebles, derechos reales o posesorios, a excepción de los casos en que la adquisición se efectúe por prescripción, son responsables solidarios del pago de este impuesto y el bien quedará afecto preferentemente al pago del mismo.
+
+###### ARTICULO 34.
+
+El Impuesto Sobre Transmisión de Dominio no se causa:
+
+I.- En los casos en que la transmisión se efectúe por herencia.
+
+II.- En los casos de transmisión de derechos hereditarios a título contractual, entre coherederos.
+
+III.- En los casos de constitución, disolución o liquidación de sociedad conyugal.
+
+IV.- Por la aportación a sociedades o asociaciones o por distribución del haber social entre los socios.
+
+V.- Por división de la cosa común entre copropietarios, siempre que las partes que correspondan a los partícipes no excedan de sus respectivas porciones.
+
+VI.- Por resición (sic) del contrato, siempre que la operación se hubiere consignado en escritura pública, o en contrato privado registrado con anterioridad.
+
+VII.- En los casos de expropiación.
+
+VIII.- Tratándose de empresas fraccionadoras debidamente autorizadas y por operaciones realizadas a partir del 1o. de enero de 1972.
+
+###### ARTICULO 35.
+
+En los contratos con reserva de dominio, el Impuesto se causará como si fueran puros y simples.
+
+###### ARTICULO 36.
+
+Para los efectos del pago del Impuesto en caso de escrituras, adjudicaciones o contratos que se celebren fuera del Estado, de bienes ubicados en éste, el adquiriente dentro de los sesenta días siguientes, dará aviso por escrito acompañando copia de la adquisición o contrato, a las autoridades Fiscales en cuya jurisdicción se encuentren ubicados los inmuebles.
+
+###### ARTICULO 37.
+
+Las autoridades Judiciales, del Trabajo o Administrativas, están obligadas a dar aviso por anticipado, a la autoridad fiscal del Estado que se verificará remate de inmuebles y practicado éste enviarán copia certificada de la diligencia o acto del remate.
+
+###### ARTICULO 38.
+
+Los Notarios y Jueces no autorizarán escrituras, acto o contrato de transmisión o adquisición de propiedad o derechos reales y posesorios, ni los encargados el Registro Público de la Propiedad y del Comercio inscribirán las escrituras, actos o contratos que se otorguen, sin que previamente se acredite haber pagado el Impuesto a que se refiere el Artículo 28 de esta Ley. Además el inmueble objeto de la operación deberá estar al corriente en el pago de todas las obligaciones fiscales, lo cual se justificará únicamente con el certificado que expidan las autoridades respectivas.
+
+Estos comprobantes y justificaciones deberán comprender hasta el mes en que los jueces y notarios autoricen la escritura, acto o contrato.
+
+###### ARTICULO 39.
+
+Los causantes de este Impuesto presentarán en la Recaudación de Rentas correspondiente, una declaración que contendrá los datos solicitados en las formas aprobadas por la Secretaría de Finanzas del Estado.
+
+Las declaraciones se presentarán dentro de los 30 días hábiles siguientes a la fecha de las escrituras públicas o de los contratos privados respectivos; y dentro del mismo plazo cuando se trate de adjudicaciones laborales, judiciales o de cualquier otra autoridad competente.
+
+###### ARTICULO 40.
+
+Las declaraciones deberán ser firmadas y acompañadas de los documentos en su caso como se establece en las siguientes fracciones:
+
+I.- Por el Notario que hubiere autorizado si el acto o contrato se hace constar en escritura pública.
+
+II.- Por el causante, cuando se trate de actos o contratos que se hagan constar en documentos privados, o por resolución de autoridad judicial, del trabajo o administrativa.
+
+En estos casos deberán anexarse a la declaración, el certificado de libertad de gravamen fiscal, y copias de los actos, adjudicaciones o contratos respectivos.
+
+###### ARTICULO 41.
+
+Los Notarios, Jueces y demás funcionarios del Estado no certificarán las firmas de los contratos privados que celebren los particulares, sin que comprueben que se ha pagado este Impuesto.
+
+### CAPITULO III. Impuestos Sobre Actividades Mercantiles e Industriales
+
+###### ARTICULO 42.
+
+Es objeto del Impuesto Sobre Actividades Mercantiles e Industriales, el ingreso que se obtenga con motivo de:
+
+I.- Enajenación de bienes, promesa de venta y opción de venta;
+
+II.- Arrendamiento de bienes;
+
+III.- Prestación de servicios;
+
+IV.- Comisiones y mediaciones mercantiles;
+
+V.- Intereses provenientes de cualquier operación mercantil.
+
+###### ARTICULO 43.
+
+Es ingreso para los efectos de este Impuesto, toda percepción en efectivo, en bienes, en servicios, en valores, en títulos de crédito, en libros o en cualquier otra forma que se obtenga por los sujetos de este Impuesto, como resultado de las operaciones a que se refiere el Artículo anterior.
+
+###### ARTICULO 44.
+
+El Impuesto se causa sobre el ingreso total de las operaciones señaladas en el Artículo 42, en el momento en que se realicen aún cuando sean a plazos, a crédito o con reserva de dominio, incluyéndose el sobreprecio, los intereses o cualquier otra prestación que lo aumente, o sobre el ingreso determinado por la autoridad fiscal, en uso de sus facultades.
+
+Cuando la actividad del causante consista en la venta de inmuebles y realice operaciones en abonos, difiriéndose el pago del precio en un plazo no menor de cinco años, declarará sus ingresos tomando en cuenta los abonos recibidos, incluyendo además del capital amortizado, los intereses devengados y cobrados.
+
+El anticipo o pago inicial se considerará para los efectos del Impuesto, como ingreso percibido, aún cuando se cubra con documentos o mediante crédito en libros.
+
+###### ARTICULO 45.
+
+Para los efectos de este Impuesto la enajenación de bienes, promesas de venta y opción de venta son las de naturaleza mercantil por las cuales se perciba un ingreso.
+
+###### ARTICULO 46.
+
+Se entiende por arrendamiento de bienes para los efectos de este Impuesto, la concesión del uso o goce temporal de un bien que produzca un ingreso al arrendador.
+
+###### ARTICULO 47.
+
+La prestación de servicios, objeto de este Impuesto, es la de índole mercantil.
+
+###### ARTICULO 48.
+
+Comisión mercantil es el mandato otorgado al comisionista para efectuar actos de comercio por cuenta del comitente, y mediación mercantil es la actividad que desarrolla el mediador para relacionar a los contratantes.
+
+Quedan comprendidos en este precepto entre otras, las actividades que desarrollan por cuenta ajena los consignatarios, agentes, representantes, corredores y distribuidores, quienes deberán cumplir los requisitos que señala el Artículo siguiente; de no satisfacerlos, causarán el Impuesto sobre el total de la operación.
+
+###### ARTICULO 49.
+
+El ingreso de los comisionistas estará formado por la cantidad que perciban por concepto de remuneración por la comisión desempeñada, siempre que se satisfagan los requisitos siguientes:
+
+I.- Que exista contrato o comprobación escrita en el que se estipule la comisión, ya sea una cantidad fija o en un porcentaje sobre el precio de la operación.
+
+II.- Que el comisionista se encuentre registrado como tal en la Recaudación de Rentas correspondiente.
+
+III.- Que el comisionista ponga a disposición de las autoridades fiscales, cuando éstas lo soliciten, los comprobantes de las cuentas rendidas a su comitente, y de las comisiones percibidas.
+
+De no satisfacer los requisitos anteriores, se estimará que el comisionista ha operado en su nombre y por cuenta propia y el Impuesto se causará sobre el ingreso total de la operación.
+
+El ingreso gravable del propietario de las mercancías estará formado por el total de los ingresos obtenidos con motivo de las operaciones celebradas por el comisionista, agente, consignatario, representante, corredor o distribuidor, sin que sea deducible para este efecto la retribución estipulada a éstos últimos.
+
+###### ARTICULO 50.
+
+Son causantes de este Impuesto, las personas físicas o morales y las unidades económicas que obtengan ingresos provenientes de cualquier operación mercantil que se realice o surta sus efectos en el Estado de Baja California.
+
+Los causantes de este Impuesto podrán trasladarlo expresamente al comprador o usuario del servicio. Cuando lo hagan consignarán por separado en las facturas, notas de venta o cintas de la máquina registradora que expidan, el importe de la operación y el moonto (sic) del Impuesto que se calculará exclusivamente sobre dicho importe.
+
+El Impuesto no será trasladable por quienes obtengan ingresos provenientes de la explotación de hoteles, casas o apartamentos amueblados, campos turísticos, restaurantes, bares, cantinas, estacionamientos de casas autotransportables.
+
+###### ARTICULO 51.
+
+Para los efectos de este Impuesto, se considera percibido el ingreso en el lugar donde el contribuyente establezca su negocio, industria o comercio o el lugar donde se encuentre.
+
+Se considera que el ingreso se ha percibido en el Territorio del Estado:
+
+I.- Cuando se obtengan ingresos, objeto de este Impuesto, de bienes que en el momento de efectuarse la operación se encuentren dentro del Territorio del Estado, cualquiera que sea el domicilio de las partes y el destino de la mercancía.
+
+II.- Cuando se obtengan ingresos, objeto de este Impuesto, de bienes que en el momento de efectuarse la operación se encuentren dentro del Territorio del Estado, aún cuando el domicilio de alguna de las partes se encuentre fuera del mismo.
+
+III.- Cuando el ingreso se obtenga como resultado de operaciones mencionadas en el Artículo 42 fracción I de esta Ley y celebradas con la intervención directa o indirecta de sucursales, agencias, dependencias o comisionistas, establecidos en el Estado de Baja California, de negocios cuya matriz o sucursal proveedora esté radicada fuera del Estado. En este caso, se considera gravable el monto total de los ingresos resultantes de todas las operaciones en que haya intervenido la sucursal, agencia, dependencia o comisionista, aún cuando las mercancías se encuentren fuera del Estado y se remitan directamente al comprador.
+
+IV.- Cuando el ingreso se obtenga por servicios prestados, comisiones devengadas o intereses causados en el Estado, cualquiera que sea el domicilio de la persona que preste el servicio o el de aquella que lo reciba.
+
+###### ARTICULO 52.
+
+Los contribuyentes que tengan sucursales, despachos, bodegas, o dependencias que operen en lugares distintos al de la ubicación de la casa matriz, están obligados a efectuar el pago en la oficina Recaudadora de su jurisdicción conforme a las reglas siguientes:
+
+I.- La matriz declarará y pagará el Impuesto exclusivamente respecto de los ingresos que perciba directamente, es decir, sin mediación de ninguna de sus sucursales, despachos, bodegas o dependencias obligadas a pagar el gravamen.
+
+II.- Las sucursales, despachos, bodegas o dependencias que perciban ingresos, cubrirán el Impuesto que se cause sobre esos ingresos, en la oficina en que estén empadronados.
+
+III.- Los almacenes o bodegas que no perciban ingresos, presentarán por una sola vez una declaración manifestando que no obtienen ingresos gravables, al momento de su registro en la Oficina Recaudadora correspondiente.
+
+###### ARTICULO 53.
+
+El impuesto se causará y pagará conforme a las tasas y cuotas que fije anualmente la Ley de Ingresos del Estado.
+
+###### ARTICULO 54.
+
+El Impuesto se causará y pagará mensualmente en razón de los ingresos gravables que obtengan los causantes en atención a su giro; salvo aquellos casos en que este Impuesto se cause y se pague con base en el Activo Total, de conformidad con lo que establezca la Ley de Ingresos del Estado.
+
+Para los efectos de este Artículo se consideran como Activo Total, todos los recursos con que cuente el causante, incluyendo los bienes muebles que tenga en arrendamiento o comodato. Si el causante, persona física ejercita su actividad mercantil en el mismo local que le sirve de casa habitación, el inmueble que ocupa no se computará para la determinación del activo total.
+
+###### ARTICULO 55.
+
+Para los efectos de este Impuesto, regirá la clasificación de actividades que señala la Ley de Ingresos del Estado.
+
+###### ARTICULO 56.
+
+Están exentos del pago del Impuesto sobre Actividades Mercantiles e Industriales:
+
+I.- Los ingresos obtenidos por las Sociedades Cooperativas de Consumo, únicamente con motivo de las ventas hechas a sus socios.
+
+II.- Los ingresos obtenidos por establecimientos penitenciarios, de beneficencia y los de enseñanza pública o privada, reconocidos por la autoridad competente.
+
+III.- Los ingresos que procedan de la prestación de servicios profesionales. No favorece esta exención a las empresas formadas por socios profesionistas que se encuentren organizados en forma mercantil.
+
+IV.- Las empresas y sindicatos que perciban ingresos por la venta de productos alimenticios para el género humano, siempre que satisfagan los requisitos siguientes:
+
+a).- Que operen exclusivamente con sus trabajadores, si se trata de empresas, o con sus agremiados en el caso de sindicatos.
+
+b).- Que las ventas no se efectúen a precio mayor del costo.
+
+c).- Que el valor de las ventas de mercancías no exceda del 50% del importe total de los sueldos o salarios mensuales que se les paguen a los trabajadores de la empresa o a los agremiados del sindicato que se trate.
+
+d).- Que presenten solicitud a la Secretaría de Finanzas del Estado, acompañada de una relación de los artículos que pretendan vender.
+
+V.- Los ingresos que procedan de la venta de bienes que representen inversiones en activo fijo, salvo cuando esos bienes pertenezcan al género de artículos propios del giro; de la enajenación de partes sociales en las sociedades de personas y de la distribución entre los socios del haber social en los casos de disolución de sociedades.
+
+VI.- Los ingresos provenientes de las operaciones de segunda o ulteriores manos de varilla corrugada.
+
+VII.- Los ingresos que obtengan por venta de cemento, los productores y distribuidores de cemento debidamente establecidos y registrados en el Estado.
+
+VIII.- Los ingresos provenientes del arrendamiento de bienes inmuebles.
+
+No quedan comprendidos en esta exención, los ingresos provenientes del arrendamiento de casas o apartamentos amueblados, de campos o lugares destinados a estacionamientos de casas móviles o autotransportables, así como el de cualquier inmueble destinado al hospedaje.
+
+IX.- Los causantes, personas físicas, cuyo Activo Total sea hasta de $10,000.00 con excepción de:
+
+1).- Comisionistas y corredores.
+
+2).- Maquiladoras.
+
+3).- Casas de cambio.
+
+4).- Lotes de autos usados.
+
+5).- Empresas de bienes raíces.
+
+6).- Joyerías.
+
+7).- Farmacias.
+
+8).- Refaccionarias.
+
+9).- Estacionamientos.
+
+10).- Desmanteladoras de autos (Deshuesaderos).
+
+###### ARTICULO 57.
+
+En los casos en que los causantes se amparen en las exenciones señaladas en esta Ley u otorgadas por decreto, y obtengan ingresos gravables sin presentar sus declaraciones ni pagar el Impuesto que a ellos corresponde, se presumirá que el causante ha obtenido dichos ingresos gravables desde que inició sus operaciones o desde la fecha de vigencia de la exención, y deberán pagar el Impuesto sobre la totalidad de sus ingresos, incluyendo los que pudieron haber estado exentos.
+
+###### ARTICULO 58.
+
+Los causantes que gocen de exención total o parcial del Impuesto Sobre Actividades Mercantiles e Industriales, quedan obligados a presentar mensualmente las declaraciones de ingresos que para el pago de este Impuesto señala este Capítulo, en la forma y dentro de los plazos que el mismo fija.
+
+###### ARTICULO 59.
+
+Para los efectos de este Capítulo, no se consideran ingresos gravables, en los términos de la Fracción I del Artículo 42:
+
+I.- Los reembolsos de pagos hechos a terceros por concepto de gastos por seguros, acarreos, fletes, empaques, envolturas, envases exteriores, impuestos, derechos y otros semejantes que haga el vendedor con motivo del envío de las mercancías, siempre que éstos se carguen al comprador, sin que se altere su monto y siempre que los importes se expresen específicamente en las facturas o notas de ventas que se expidan. No se aplicará lo dispuesto en esta Fracción cuando el precio se pacte libre de gastos para el comprador.
+
+Se considerarán ingresos gravables los derivados de la enajenación de empaques, envolturas y envases que sean necesarios para la venta de mercancías al detalle.
+
+II.- Los descuentos y bonificaciones hechos por el vendedor al comprador, y
+
+III.- Los que se reintegren con motivo de la devolución de mercancías, en los casos en que las enajenaciones se rescindan total o parcialmente.
+
+###### ARTICULO 60.
+
+Los causantes que, como consecuencia de las operaciones que realicen, registren en sus libros autorizados, asientos que comprueben aumentos o disminuciones de los ingresos declarados, y, consecuentemente, afecten el monto del Impuesto pagado, podrán hacer el aumento a su cargo o la disminución a su favor del Impuesto rectificado en la declaración mensual siguiente al mes en que efectivamente hayan registrado dichos asientos.
+
+También podrán hacer rectificaciones cuando descubran errores en las declaraciones presentadas que motiven una diferencia de menos en el Impuesto pagado.
+
+###### ARTICULO 61.
+
+Cuando los contribuyentes no hayan hecho uso de las prerrogativas que les concede el Artículo anterior, si al finalizar su ejercicio fiscal determinan diferencias de Impuesto pagadas tanto de más como de menos, podrán hacer las compensaciones correspondientes y si de ellas resulta diferencia a su cargo, la cubrirán mediante declaración complementaria, con los recargos de Ley dentro de los tres meses siguientes al cierre del ejercicio; si por el contrario, la diferencia fuere a su favor, podrán solicitar su devolución.
+
+Fuera del plazo señalado en el párrafo anterior, no podrán hacerse las compensaciones de que se trata y en este caso los contribuyentes deberán pagar los créditos omitidos y recargos y pedir por separado la devolución del Impuesto cubierto en exceso.
+
+###### ARTICULO 62.
+
+Los contribuyentes por iniciativa propia no podrán hacer las rectificaciones a que se refieren los Artículos anteriores, cuando se descubra falsedad en los asientos de su contabilidad, cuando la omisión del Impuesto haya sido descubierta de antemano por alguna autoridad, funcionario o empleado, cuando con anterioridad se haya iniciado una auditoría al responsable o presunto responsable o haya sido requerido del pago de alguna prestación fiscal derivada de la aplicación de este Impuesto.
+
+###### ARTICULO 63.
+
+Los causantes de este Impuesto están obligados a registrarse en las Recaudaciones de Rentas de su jurisdicción. Cuando un mismo causante tenga diversos giros, sucursales, bodegas o dependencias deberá empadronarse cada uno de ellos por separado.
+
+###### ARTICULO 64.
+
+Los causantes presentarán sus solicitudes de empadronamiento dentro de los diez días siguientes a la fecha de iniciación de sus operaciones, haciendo uso de las formas oficialmente aprobadas, con los datos que en ellas se exijan.
+
+Para los efectos de este Impuesto se entiende como fecha de iniciación de operaciones, aquella en que se efectúe la apertura o en la que el causante obtenga el primer ingreso. Tratándose de personas morales, la iniciación de operaciones será la fecha de su constitución.
+
+###### ARTICULO 65.
+
+Los sujetos de este Impuesto que únicamente perciban ingresos exentos tienen obligación, excepción hecha de los comprendidos en las Fracciones II, III, V y VIII del Artículo 56 de esta Ley, de:
+
+I.- Registrarse dentro de los diez días siguientes a la fecha de iniciación de sus operaciones.
+
+II.- Los ya establecidos, registrarse dentro del término de dos meses contados a partir de la vigencia de esta Ley.
+
+###### ARTICULO 66.
+
+Los causantes de este Impuesto deberán manifestar por escrito a la Recaudación de Rentas correspondiente dentro de los diez días posteriores al en que ocurran los siguientes hechos:
+
+I.- Cambio de nombre o razón social.
+
+II.- Modificación del Capital.
+
+III.- Cambio de domicilio.
+
+IV.- Cambio de giros de la negociación o establecimiento;
+
+V.- Clausura.
+
+En caso de traspaso, la manifestación deberá hacerse con diez días de anticipación. No podrá efectuarse éste sin que previamente se compruebe que el establecimiento o negociación está al corriente en el pago de sus obligaciones fiscales.
+
+###### ARTICULO 67.
+
+Los causantes y retenedores de este Impuesto están obligados a presentar sus declaraciones y a efectuar su pago en las Oficinas Recaudadoras correspondientes dentro de los días comprendidos del primero al quince de cada mes.
+
+Asimismo, presentarán sus declaraciones aún cuando no haya obtenido ingresos gravables, expresando las causa de ello.
+
+No se admitirán las declaraciones si en el mismo acto de su presentación no se pagan íntegramente el Impuesto y recargos correspondientes en su caso.
+
+###### ARTICULO 68.
+
+La autoridad fiscal verificará la exactitud y veracidad de la declaración, exigiendo el pago que realmente corresponda e imponiendo las sanciones respectivas.
+
+###### ARTICULO 69.
+
+Las declaraciones deberán hacerse en las formas aprobadas por la Secretaría de Finanzas y en ellas se consignarán todos los datos que las mismas exijan.
+
+###### ARTICULO 70.
+
+Las declaraciones deberán ser firmadas:
+
+I.- Por el propietario o su apoderado y por el Contador si lo hubiere, cuando se trate de negociaciones propiedad de personas físicas.
+
+II.- Por el contador de la empresa y por el gerente, o por el director o administrador, y a falta de éstos, por el funcionario de la empresa autorizado por el Consejo de Administración, o si no existe Consejo por el Administrador Unico, cuando se trate de sociedades, y
+
+III.- Por el gerente o encargado de la sucursal y por el contador si lo hubiere, cuando se trate de sucursales ubicadas en jurisdicción fiscal distinta a la de la matriz. Si la sucursal se encuentra en la misma jurisdicción fiscal de la matriz, las declaraciones serán firmadas, en su caso, por las personas a que se refieren las dos Fracciones anteriores.
+
+###### ARTICULO 71.
+
+Son obligaciones de los causantes:
+
+I.- Llevar cuando menos los registros contables simplificados en la forma que para tal efecto disponen los preceptos fiscales federales respectivos.
+
+II.- Los asientos correspondientes a las operaciones efectuadas, deberán registrarse en los libros legalmente autorizados, dentro de los sesenta días siguientes a la fecha en que hayan sido realizadas, designando las circunstancias y carácter de cada operación y el resultado que produzca a su cargo o descargo.
+
+Los ingresos obtenidos de las operaciones antes mencionadas, deberán ser registrados dentro de los días 1o. al 15 del mes siguiente al que se haya percibido.
+
+III.- Conservar la documentación y demás elementos contables y comprobatorios en el domicilio señalado en la solicitud de empadronamiento;
+
+IV.- Proporcionar a las autoridades Fiscales los datos o informaciones que se les soliciten, dentro del plazo fijado para ello;
+
+V.- Aquellos causantes cuya actividad consista en la venta de automóviles y camiones usados deberán llevar un control de inventarios de los mismos mediante calcomanías oficiales que expida la Secretaría de Finanzas y que deberán adherirse a cada uno de aquellos dentro de las veinticuatro horas siguientes a su adquisición.
+
+VI.- Recibir las visitas de investigación y proporcionar a los auditores o a los investigadores los libros, datos, informes, documentos y demás registros que soliciten para el desempeño de sus funciones;
+
+VII.- Conservar cinco años la documentación y demás elementos contables y comprobatorios relativos a las operaciones efectuadas, para efectos de la prescripción que establece el Código Fiscal del Estado.
+
+###### ARTICULO 72.
+
+Los causantes de este Impuesto deberán tener comprobada la totalidad de sus ingresos provenientes de sus operaciones diarias con el documento fuente de contabilización, como son: facturas, notas de ventas o cintas de máquina registradora. En caso de que los ingresos se controlen a través de máquinas registradoras, éstas deberán contener los dispositivos necesarios para ejercer un control efectivo de los mismos.
+
+El documento fuente de contabilización deberá llenar los siguientes requisitos:
+
+I.- Nombre y razón social del causante.
+
+II.- Domicilio y fecha.
+
+III.- Número de cuenta.
+
+IV.- Folio progresivo. En los casos de facturas o notas de venta, deberá ser pre-numerado.
+
+Es obligación de las personas que obtengan los bienes o servicios consignados en el Artículo 43 de esta Ley, recabar los documentos correspondientes que deberán reunir los requisitos antes mencionados.
+
+En los casos de compras de mercancías facturadas en el extranjero, éstas deberán estar amparadas con la correspondiente relación aduanal de importación o boleta en su caso, a nombre del causante.
+
+En los casos en que no se recabe la documentación de referencia, el comprador deberá comunicarlo de inmediato a la Secretaría de Finanzas del Estado, y en caso de no hacerlo será solidariamente responsable del Impuesto omitido.
+
+###### ARTICULO 73.
+
+Los causantes a que se refiere el segundo párrafo del Artículo 44, tendrán además de las obligaciones señaladas en otros preceptos de esta Ley, las siguientes:
+
+I.- Presentar para su autorización, ante la Recaudación de Rentas del Estado, los contratos debidamente prenumerados.
+
+II.- Conservar copia de los contratos, facturas y recibos de cobranzas que originan las ventas.
+
+III.- Llevar un registro por cada operación, que consigne como mínimo los siguiente datos:
+
+a).- Nombre del comprador.
+
+b).- Domicilio.
+
+c).- Número de contrato.
+
+d).- Manzana y lote.
+
+e).- Monto de la operación e importe de las mensualidades.
+
+f).- Fecha y número del recibo de abono.
+
+g).- Saldo por amortizar, incluyendo capital e intereses, determinado mensualmente.
+
+###### ARTICULO 74.
+
+Los causantes que obtengan ingresos exentos y gravados, deberán llevar en su contabilidad registro por separado de los ingresos sujetos a cada tipo de tratamiento fiscal y en sus declaraciones mensuales:
+
+I.- Manifestarán el total de sus ingresos;
+
+II.- Deducirán del total de sus ingresos:
+
+a).- Los descuentos, devoluciones y bonificaciones, y
+
+b).- Los ingresos exentos.
+
+###### ARTICULO 75.
+
+En caso de que los causantes no lleven la separación de ingresos a que se refiere el Artículo anterior, el Impuesto se causará sobre la totalidad de los ingresos sin la deducción de los exentos.
+
+###### ARTICULO 76.
+
+Las actividades mercantiles e industriales que requieran licencia o permiso del Ejecutivo, no podrán iniciarse sin haberlo obtenido previamente; los que deberán revalidarse por la autoridad que los expidió durante el mes de junio de cada año, previa comprobación de que subsisten los requisitos que exigen las leyes y reglamentos respectivos.
+
+###### ARTICULO 77.
+
+Son retenedores y solidariamente responsables del pago del Impuesto:
+
+I.- Las personas físicas, morales o unidades económicas sobre las remuneraciones que cubran a sus comisionistas, agentes, consignatarios, representantes, corredores o distribuidores.
+
+II.- Los comisionistas, agentes, consignatarios, representantes, corredores o distribuidores; del pago del Impuesto que causa el propietario de las mercancías a que se refiere el Artículo 45 de esta Ley, en el caso de que el enajenante tenga el domicilio fuera del Estado de Baja California.
+
+III.- Los usuarios de servicios técnicos, cuando los ingresos se perciban por causantes radicados fuera del Territorio del Estado y dichos ingresos provengan de operaciones realizadas o que surtan sus efectos dentro del mismo.
+
+Los retenedores enterarán el Impuesto mediante una declaración adicional, en la que manifestarán los datos correspondientes a la operación y al causante directo del Impuesto.
+
+###### ARTICULO 78.
+
+Cuando el administrador único o los administradores de las sociedades autoricen al gerente, al director o apoderado de la empresa para que presenten las declaraciones mensuales sin previa aprobación expresa, asumirán, para todos los efectos legales, las responsabilidades que puedan derivarse de la falsedad o inexactitud de dichas declaraciones.
+
+###### ARTICULO 79.
+
+Para los efectos del artículo anterior, el administrador o los administradores deberán aprobar expresamente, dentro de los tres primeros meses de cada año natural, todas las declaraciones presentadas durante el año anterior.
+
+###### ARTICULO 80.
+
+Los terceros responsables de la contabilidad o del pago de los impuestos de los causantes son solidariamente responsables de las infracciones cometidas cuando no se hayan establecido los sistemas que para el control de los ingresos establece la presente Ley.
+
+###### ARTICULO 81.
+
+Los contadores, al firmar o rendir dictamen sobre el balance de los contribuyentes, harán constar si el ingreso ha sido declarado en los términos de esta Ley. En caso de falsedad, se harán acreedores a las sanciones correspondientes.
+
+###### ARTICULO 82.
+
+En el caso de translación de dominio, por cualquier título, de establecimientos en los cuales perciban ingresos gravados con este impuesto, con los mismos negocios se responderá objetivamente de los créditos fiscales insolutos.
+
+###### ARTICULO 83.
+
+Las personas físicas o morales que tengan relaciones mercantiles con alguno o algunos de los causantes de este Impuesto, deberán auxiliar a la Secretaría de Finanzas y a sus Dependencias, suministrándoles los informes y datos que soliciten en relación con la aplicación de este mismo Impuesto.
+
+###### ARTICULO 84.
+
+Las personas físicas o morales que mantengan o hayan tenido relaciones mercantiles con los contribuyentes de este Impuesto, están obligados a exhibir su contabilidad, la documentación y la correspondencia que se refiere a las operaciones realizadas con dichos causantes.
+
+###### ARTICULO 85.
+
+Son actividades mercantiles o industriales eventuales, aquellas que se realizan esporádicamente o en forma evidentemente transitoria, así como las que por su propia naturaleza o características deban durar por un término menor de tres meses.
+
+###### ARTICULO 86.
+
+Para el ejercicio eventual de actividades que generan ingresos gravados por este Impuesto se requerirá:
+
+I.- Dar aviso con 24 horas de anticipación a las autoridades fiscales correspondientes, indicando:
+
+a).- Nombre y domicilio del causante.
+
+b).- Naturaleza de la operación.
+
+c).- Monto probable de los ingresos que se deriven de ella.
+
+II.- Garantizar el interés fiscal.
+
+III.- Obtener licencia previa del Gobernador del Estado cuando se trate de actividades que consistan en la venta de bebidas alcohólicas al copeo o en botella cerrada, para el consumo dentro del establecimiento.
+
+###### ARTICULO 87.
+
+Los causantes eventuales que efectúen venta de bebidas alcohólicas en ferias, kermesses y diversiones análogas de carácter transitorio, causarán y pagarán el Impuesto diariamente. No causarán el Impuesto los negocios que en forma exclusiva vendan cerveza.
+
+###### ARTICULO 88.
+
+Para la vigilancia del Impuesto Sobre Actividades Mercantiles e Industriales, la Secretaría de Finanzas es la única autoridad fiscal facultada para exigir de los causantes la adopción y establecimiento de medios de control, ordenar la práctica de auditorías; efectuar las investigaciones que procedan; obtener los datos e informes que tengan relación con el objeto de auditoría, exigir en el domicilio de los contribuyentes, la exhibición de los libros de contabilidad debidamente autorizados y documentos comprobatorios de los asientos respectivos y, en general, solicitar los elementos necesarios para comprobar el cumplimiento de las disposiciones que rigen este Impuesto.
+
+La Secretaría de Finanzas podrá delegar el ejercicio de esta facultad en la autoridad que estime conveniente.
+
+Cuando el causante carezca de contabilidad, no cuente con la documentación que demuestre el ingreso gravable, no presente la declaración mensual de ingresos o se compruebe la falsedad de los mismos, la autoridad fiscal podrá determinar estimativamente el ingreso gravable tomando en cuenta lo dispuesto en el artículo 90 ya sea por medios indirectos de investigación económica, o de cualquier otra clase.
+
+Los contribuyentes a quienes se les practique una auditoría deberán dar aviso por escrito a la Secretaría de Finanzas o a la autoridad fiscal correspondiente, de cualquier acto indebido que cometan o pretendan cometer los funcionarios designados para efectuarla.
+
+###### ARTICULO 89.
+
+Cuando se solicite la suspensión provisional o definitiva de orden de clausura, además de garantizarse el interés fiscal, en algunas de las formas que establece el artículo 57 del Código Fiscal del Estado, la Secretaría de Finanzas podrá ordenar la inspección permanente del establecimiento, la que subsistirá hasta la terminación del juicio.
+
+Esta inspección estará a cargo de contadores designados y removidos libremente por la misma Secretaría; sus sueldos o remuneraciones serán pagados por el causante dentro de los diez días de cada mes y por conducto de la Recaudación de Rentas de la jurisdicción del contribuyente.
+
+Los contribuyentes tendrán derecho a la restitución de los sueldos o remuneraciones pagados en los casos en que se nulifique la resolución.
+
+###### ARTICULO 90.
+
+Para la mejor administración y control de este Impuesto, se procederán a revisar las declaraciones de los causantes cuando existan indicios de que no cubren el Impuesto de acuerdo con los ingresos realmente percibidos.
+
+Para tal revisión se tomarán en cuenta los siguientes elementos: Impuestos que hayan pagado a la Federación o a los Municipios, cantidades que cubran por concepto de renta del local que ocupen y energía eléctrica; número de los empleados que tengan a su servicio y sueldos que se les paguen; factor de utilidad bruta, activo total y los demás datos que puedan utilizarse para la determinación de los ingresos realmente percibidos.
+
+###### ARTICULO 91.
+
+Los causantes que no soliciten su registro dentro del término establecido, serán sancionados de conformidad con lo establecido en el Código Fiscal del Estado y podrá ordenarse la clausura de su negocio hasta que paguen total mente el Impuesto omitido, así como la multa impuesta, en su caso.
+
+###### ARTICULO 92.
+
+En caso de falta de presentación de las declaraciones mensuales de ingresos, dentro del plazo establecido en el Artículo 67 se estará a lo siguiente:
+
+I.- Transcurridos tres días contados a partir del día siguiente al de vencimiento de dicho plazo, la Recaudación de Rentas, requerirá al causante moroso para que, de conformidad con lo dispuesto en los Artículos 91 y 94 del Código Fiscal del Estado, presente en un plazo de tres días la declaración o declaraciones omitidas;
+
+II.- Tratándose de declaración o declaraciones omitidas que acusen Impuesto, si el causante las presenta de manera espontánea, pagará recargos de conformidad con lo previsto en la Ley de Ingresos en vigor;
+
+III.- Cuando la declaración o declaraciones omitidas no causen ingresos, el causante será sancionado, en todos los casos, en los términos que establece el Código Fiscal del Estado.
+
+###### ARTICULO 93.
+
+Cuando el causante haya sido requerido para presentar la declaración o declaraciones omitidas, correspondiente a tres meses consecutivos y no cumpla con esta prevención en el término de tres días que señala el Artículo anterior, la Recaudación de Rentas respectiva podrá proceder de inmediato a la clausura del establecimiento, pero si la naturaleza del giro o por la situación del local, no es posible efectuar la clausura, se secuestrarán bienes suficientes que garanticen el interés fiscal en los términos del Código Fiscal del Estado.
+
+###### ARTICULO 94.
+
+El procedimiento señalado en el Artículo anterior se aplicará en caso de cualquier prestación fiscal que resulte a cargo del contribuyente en los términos de este Capítulo, pero el procedimiento deberá iniciarse a partir del día siguiente al que venza el plazo concedido para el pago.
+
+###### ARTICULO 95.
+
+No se llevará a cabo la clausura a que se refiere el artículo 93 si el causante paga el importe del impuesto que adeude, más el monto de las sanciones y recargos a que se haya hecho acreedor.
+
+También serán a cargo del causante los gastos de ejecución ocasionados por estas diligencias.
+
+###### ARTICULO 96.
+
+La diligencia de clausura a que se refiere el Artículo 93 se ejecutará inmediatamente después de la fecha que se expidan las órdenes.
+
+Dichas clausuras deberán ser levantadas inmediatamente que se pague o garantice el adeudo fiscal que resulte a a (sic) cargo del contribuyente y que incluirá los gastos de ejecución.
+
+El Secretario de Finanzas y los Recaudadores de Rentas, son las únicas autoridades que podrán suspender las clausuras ordenadas, salvo órdenes de autoridad judicial al respecto.
+
+### CAPITULO IV. Impuesto Sobre Producción Agropecuaria
+
+###### ARTICULO 97.
+
+Es objeto del Impuesto Sobre Producción Agropecuaria, la producción agrícola, avícola y ganadera que se obtenga en el Estado.
+
+###### ARTICULO 98.
+
+Son causantes de este impuesto las personas físicas, morales o unidades económicas cuya actividad consista en la producción agrícola, avícola o ganadera.
+
+###### ARTICULO 99.
+
+El impuesto se causará y pagará de acuerdo con las bases, tasas o cuotas que señale la Ley de Ingresos.
+
+###### ARTICULO 100.
+
+Los causantes de este impuesto deberán cubrir su importe de la siguiente manera:
+
+I.- En la oficina Recaudadora de su jurisdicción antes de la salida del producto de su lugar de origen.
+
+II.- Ante la primera autoridad fiscal competente que requiera su pago.
+
+III.- Tratándose de producciones avícolas, deberá efectuarse el pago mensual o semestralmente presentando su declaración en las formas autorizadas por la Secretaría de Finanzas.
+
+###### ARTICULO 101.
+
+Por los productos en consignación, depósito o cualquier otra forma en la que no se transmita el dominio, deberá garantizarse el interés fiscal en la Recaudación de Rentas correspondiente en los términos que establece el Código Fiscal del Estado.
+
+###### ARTICULO 102.
+
+Son solidariamente responsables de este impuesto las personas físicas, morales o unidades económicas y agentes aduanales que operen o manejen productos gravados por este impuesto, quienes tendrán la obligación de cerciorarse de que los impuestos correspondientes han sido cubiertos, en caso contrario deberán retenerlos y enterarlos dentro de los días comprendidos del primero al quince de cada mes.
+
+###### ARTICULO 103.
+
+Todo tenedor de productos gravados por este impuesto, está obligado a comprobar el pago del impuesto en el momento en que sea requerido por las autoridades fiscales y la falta de comprobación dará lugar al cobro del impuesto y en caso de no liquidar su importe, se procederá a garantizar el interés fiscal.
+
+###### ARTICULO 104.
+
+Son obligaciones de los causantes:
+
+I.- Empadronarse en la oficina Recaudadora correspondiente.
+
+II.- Tratándose de producción avícola, deberá efectuarse el pago mensual o semestralmente, presentando su declaración en las formas autorizadas por la Secretaría de Finanzas.
+
+III.- Cumplir las que señale esta Ley y demás disposiciones fiscales relativas.
+
+###### ARTICULO 105.
+
+Las personas físicas o morales que adquieran o manejen productos agropecuarios, o los reciban para su guarda, están obligados a:
+
+I.- Cerciorarse al recibir el producto, de que se ha pagado el Impuesto o a retenerlo y enterarlo a la oficina Recaudadora.
+
+Tratándose de productos agrícolas de procedencia ejidal, que se produzcan en el Estado, deberá cerciorarse de que los productores sean ejidatarios.
+
+II.- A presentar a la Recaudación de Rentas de su Jurisdicción, dentro de los días comprendidos del primero al quince de cada mes, una declaración de los productos adquiridos o recibidos durante el mes anterior, enterando el importe del Impuesto retenido, expresando el nombre y número de registro del causante.
+
+###### ARTICULO 106.
+
+Queda exceptuada del pago de este Impuesto, la producción ejidal del Estado, en los términos que señala la Ley Federal de Reforma Agraria.
+
+### CAPITULO V. Impuesto Sobre Venta de Productos Agropecuarios
+
+###### ARTICULO 107.
+
+Son objeto del Impuesto Sobre Venta de Productos Agropecuarios, las operaciones por las cuales se trasmita el dominio de los productos agrícolas, avícolas o ganaderos que por primera vez se realicen o surtan sus efectos dentro del Estado.
+
+###### ARTICULO 108.
+
+Son causantes de este Impuesto las personas físicas, morales o unidades económicas que efectúen operaciones en las que se trasmita el dominio de productos agrícolas, avícolas y ganaderos, que se realicen o surtan sus efectos dentro del Estado. No son causantes de este impuesto los sujetos del Impuesto sobre Producción Agropecuaria.
+
+###### ARTICULO 109.
+
+El Impuesto se causará con base en las operaciones por las cuales se trasmita el dominio de productos agrícolas, avícolas y ganaderos, y se pagará de acuerdo con la tarifa que señale la Ley de Ingresos.
+
+###### ARTICULO 110.
+
+Los sujetos de este Impuesto deberán cubrir su importe en la forma siguiente:
+
+I.- En la oficina Recaudadora correspondiente.
+
+II.- Ante la primera autoridad fiscal que requiera de pago.
+
+###### ARTICULO 111.
+
+Por los productos en consignación, depósito o cualquier otra forma en la que no se trasmita el dominio, deberá garantizarse el interés fiscal en la Recaudación de Rentas correspondiente en los términos que establece el Código Fiscal del Estado.
+
+###### ARTICULO 112.
+
+Son solidariamente responsables del pago de este Impuesto las personas físicas, morales o unidades económicas y agentes aduanales que operen o manejen productos gravados por este Impuesto, quienes tendrán la obligación de cerciorarse de que los impuestos han sido cubiertos y en caso contrario deberán retenerlos y enterarlos dentro de los días comprendidos del primero al quince de cada mes.
+
+###### ARTICULO 113.
+
+Todo tenedor está obligado a comprobar el pago del Impuesto en el momento en que sea requerido por las autoridades fiscales y la falta de comprobación dará lugar al cobro del Impuesto y en caso de no liquidar su importe, se procederá a garantizar el interés fiscal.
+
+###### ARTICULO 114.
+
+Son obligaciones de los causantes de este Impuesto:
+
+I.- Empadronarse en la oficina Recaudadora correspondiente.
+
+II.- Pagar el Impuesto conforme lo que señale la Ley de Ingresos del Estado.
+
+III.- Cumplir las demás que señalen esta Ley y demás disposiciones fiscales relativas.
+
+### CAPITULO VI. Impuesto Sobre Despepite de Algodón
+
+###### ARTICULO 115.
+
+Es objeto del Impuesto Sobre Despepite de Algodón, el servicio de despepite de algodón que se realice en el Estado.
+
+###### ARTICULO 116.
+
+Este Impuesto no se causa, tratándose de despepite de algodón de procedencia ejidal, causándose en su lugar el Impuesto Sobre Actividades Mercantiles e Industriales que establece el Capítulo III de esta Ley .
+
+###### ARTICULO 117.
+
+Son sujetos de este Impuesto las personas físicas, morales o unidades económicas que presten el servicio de despepite de algodón.
+
+###### ARTICULO 118.
+
+Este Impuesto se causará con base en el volumen de algodón despepitado y se pagará conforme a la cuota que fije la Ley de Ingresos del Estado.
+
+###### ARTICULO 119.
+
+Los causantes de este Impuesto deberán pagarlo mensualmente dentro de los días del primero al diez de cada mes, conforme al volumen despepitado en el mes inmediato anterior, mediante la presentación en la Recaudación de Rentas correspondiente, de una declaración, la que deberá contener el dato de los kilos de algodón en pluma despepitados.
+
+###### ARTICULO 120.
+
+Las operaciones que grava este Impuesto, no causan el de actividades mercantiles e industriales a que se refiere el Capítulo III de esta Ley, salvo lo que señala el Artículo 116 de esta Ley.
+
+(SIC)
+
+Impuesto Sobre Adquisición de Algodón
+
+###### ARTICULO 121.
+
+Son objeto del Impuesto Sobre Adquisición de Algodón las operaciones de compra-venta de algodón en pluma y semilla de algodón producido en el Estado.
+
+###### ARTICULO 122.
+
+Son sujetos de este Impuesto las personas físicas, morales o unidades económicas que adquieran algodón en pluma y semilla de algodón.
+
+###### ARTICULO 123.
+
+Este Impuesto se causará con base en el precio de la operación de adquisición de algodón en pluma y el volumen de semilla de algodón adquirida, y se pagará conforme a la tasa que fije la Ley de Ingresos del Estado.
+
+###### ARTICULO 124.
+
+Los causantes de este Impuesto deberán pagarlo mensualmente dentro de los días del primero al veinte de cada mes, conforme a las compras efectuadas en el mes inmediato anterior, mediante la presentación de una declaración en la Recaudación de Rentas correspondiente.
+
+###### ARTICULO 125.
+
+Son responsables solidarios del pago de este Impuesto, los despepitadores de algodón, los molinos de semilla, y los intermediarios que intervengan en las operaciones de compra-venta.
+
+###### ARTICULO 126.
+
+El Ejecutivo del Estado fijará el precio oficial para la compra-venta de algodón en sus diversas calidades, cuando no se conozca el precio de la operación o los precios estipulados en el contrato de compraventa no correspondan a los reales del mercado.
+
+### CAPITULO VIII. Impuesto Sobre Hospedaje
+
+###### ARTICULO 127.
+
+Es objeto del Impuesto Sobre Hospedaje, el importe que se causa por:
+
+I.- Servicio de hospedaje que se reciban en hoteles, hospederías y otros similares.
+
+II.- Uso de campos destinados a estacionamiento de casas móviles o autotransportables.
+
+###### ARTICULO 128.
+
+Son sujetos de este Impuesto quienes reciban los servicios señalados con el Artículo anterior.
+
+###### ARTICULO 129.
+
+Este Impuesto se causará con base en el importe de los servicios y se pagará conforme a la tasa que fije la Ley de Ingresos del Estado.
+
+###### ARTICULO 130.
+
+Los causantes de este Impuesto deberán enterarlo al momento de liquidar el importe de los servicios, siendo solidariamente responsables del pago del Impuesto y retenedores del mismo, los que presten los servicios señalados en el Artículo 127 del presente Capítulo.
+
+###### ARTICULO 131.
+
+Los retenedores de este Impuesto, deberán enterarlo en la Recaudación de Rentas correspondiente, dentro de los días del primero al quince de cada mes, mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Finanzas.
+
+###### ARTICULO 132.
+
+Las personas que presten los servicios a que se refiere el Artículo 127 de esta Ley, deberán llevar un control prenumerado de registro de clientes, el que originará la facturación correspondiente, independientemente de los demás registros que están obligados a llevar.
+
+### CAPITULO IX. Impuesto Sobre Venta de Primera Mano de Gasolina y Demás Derivados del Petróleo
+
+###### ARTICULO 133.
+
+Son objeto de este Impuesto las ventas de primera mano de gasolina y demás derivados del petróleo realizadas en el Estado.
+
+###### ARTICULO 134.
+
+Son sujetos de este Impuesto los agentes o expendedores de gasolina y demás derivados del petróleo, establecidos en el Estado.
+
+###### ARTICULO 135.
+
+El Impuesto se causará con base en las ventas de primera mano de gasolina y demás derivados del petróleo, realizadas en el Estado y se pagará en el momento en que el causante adquiera los productos conforme a la tasa que establezca la Ley de Ingresos del Estado.
+
+###### ARTICULO 136.
+
+Este Impuesto será recaudado por Petróleos Mexicanos en los términos del reglamento del Artículo 21 de la Ley del Impuesto sobre Consumo de Gasolina.
+
+### CAPITULO X. Impuesto Sobre Diversiones y Espectáculos Públicos
+
+###### ARTICULO 137.
+
+Es objeto del Impuesto Sobre Diversiones y Espectáculos Públicos el ingreso que se obtenga por la explotación de las siguientes actividades: salas de teatro o de cinematógrafo, circos, luchas, corridas de toros, espectáculos deportivos, apuestas permitidas de todos tipos, agencias de apuestas sobre carreras y frontones, audiencias musicales y exhibiciones de cualquier tipo con cuota de admisión.
+
+###### ARTICULO 138.
+
+Son sujetos de este Impuesto las personas físicas, morales o unidades económicas, que obtengan ingresos por la explotación de las actividades señaladas en el Artículo anterior.
+
+###### ARTICULO 139.
+
+Este impuesto se causará con base en los ingresos que se obtengan por la explotación de las actividades que señala el Artículo 137 de este Capítulo, y se pagará conforme a las tarifas y cuotas que señala la Ley de Ingresos del Estado.
+
+###### ARTICULO 140.
+
+El Impuesto deberá pagarse en la Recaudación de Rentas correspondiente al día hábil siguiente de aquél en que se generó el ingreso, mediante una manifestación en las formas aprobadas por la Secretaría de Finanzas.
+
+###### ARTICULO 141.
+
+Los ingresos serán supervisados por un interventor que designará la autoridad Fiscal correspondiente, con las facultades que en el mismo nombramiento se le otorguen.
+
+###### ARTICULO 142.
+
+Ninguna de las actividades que señala el Artículo 137 de esta Ley, aunque sea en forma eventual, podrá practicarse sin avisar por escrito a la Recaudación de Rentas correspondiente, con 24 horas de anticipación a su celebración, indicando la naturaleza y características de aquellas.
+
+###### ARTICULO 143.
+
+Las facultades del interventor a que se refiere el Artículo 141 de esta Ley, son las siguientes:
+
+I.- Determinar el boletaje vendido, y el importe de los ingresos.
+
+II.- Formular liquidación que deberá ser firmada por un representante de la empresa.
+
+### CAPITULO XI. Impuesto Sobre Compraventa y Operaciones Similares
+
+###### ARTICULO 144.
+
+Son objeto del Impuesto Sobre Compraventa y Operaciones Similares:
+
+I.- Compra de vehículos automotores;
+
+II.- Venta de bienes muebles, y
+
+III.- Traspasos de establecimientos comerciales e industriales.
+
+###### ARTICULO 145.
+
+Son sujetos de este Impuesto, las personas físicas, morales o unidades económicas que celebren las operaciones mencionadas en el Artículo anterior que no estén gravadas por el Impuesto Sobre Actividades Mercantiles e Industriales.
+
+###### ARTICULO 146.
+
+Para los efectos de este Impuesto, la base gravable será:
+
+I.- Tratándose de vehículos automotores, los valores que señale el Tabulador Oficial de valores mínimos del Registro Federal de Automóviles;
+
+II.- En los demás casos, el valor de la operación.
+
+Cuando el valor de la operación sea notoriamente bajo en relación con el precio comercial, la Secretaría de Finanzas procederá a efectuar avalúo pericial para determinar su valor real.
+
+Tasas y Pago
+
+###### ARTICULO 147.
+
+El Impuesto se causará conforme las tasas que fije la Ley de Ingresos del Estado y deberá pagarse su importe en el momento de celebrarse la operación, en la Oficina Recaudadora correspondiente, mediante la presentación de una manifestación en las formas aprobadas por la Secretaría de Finanzas.
+
+###### ARTICULO 148.
+
+Para los efectos de la Fracción I del Artículo 144 de esta Ley se considerará efectuada la operación, objeto de este gravamen al darse de alta los vehículos en la Dirección de Tránsito y Transportes del Estado.
+
+###### ARTICULO 149.
+
+Los bienes transmitidos o adquiridos, quedan afectos preferentemente al pago del Impuesto a que se refiere este Capítulo.
+
+### CAPITULO XII. Impuesto Sobre Producción, Ampliación, Envasamiento o Transformación de Alcohol y Bebidas Alcohólicas
+
+###### ARTICULO 150.
+
+Este Impuesto se regulará por las disposiciones que al efecto señala la Ley del Impuesto Sobre Alcoholes y Bebidas Alcohólicas vigentes en el Estado.
+
+### CAPITULO XIII. Impuesto Sobre Compraventa de Alcohol y Bebidas Alcohólicas
+
+### CAPITULO XIV. Impuesto Adicional para la Educación Media y Superior
+
+###### ARTICULO 151.
+
+Este Impuesto se regulará por las disposiciones que al efecto señala la Ley del Impuesto Sobre Alcoholes y Bebidas Alcohólicas vigente en el Estado.
+
+###### ARTICULO 152.
+
+Son objeto del Impuesto Adicional para la Educación Media y Superior, los Impuestos, derechos y rezagos, de los mismos, que se causan conforme a las Leyes Fiscales del Estado.
+
+###### ARTICULO 153.
+
+La base gravable de este Impuesto será el importe de los impuestos, derechos o rezagos que se causen.
+
+###### ARTICULO 154.
+
+Este Impuesto se causará conforme la tasa que fije la Ley de Ingresos del Estado y se pagará en el momento en que se cubran las prestaciones fiscales, enterándolo en la Recaudación de Rentas correspondiente.
+
+###### ARTICULO 155.
+
+Son sujetos de este Impuesto, quienes causen los impuestos, derechos y rezagos a que se refiere el Artículo 152.
+
+###### ARTICULO 156.
+
+No causarán este Impuesto:
+
+I.- Los derechos de registro de escrituras relativas a créditos hipotecarios, refaccionarios o de habilitación o avío, destinados a actividades agropecuarias;
+
+II.- El Impuesto sobre compraventa de algodón;
+
+III.- Los Impuestos a cargo de los ejidatarios;
+
+IV.- El Impuesto sobre venta de primera mano de gasolina y derivados del petróleo destinados al consumo del Estado;
+
+V.- El Impuesto Sobre Hospedaje;
+
+VI.- Los ingresos a que se refiere el Artículo 56 de esta Ley.
+
+## TITULO III. DERECHOS
+
+###### ARTICULO 157.
+
+Los servicios que preste el Gobierno del Estado en forma directa o a través de organismos descentralizados obliga a quien los reciga (sic), al pago de su importe.
+
+###### ARTICULO 158.
+
+Los derechos se causarán y pagarán de conformidad con las tasas y cuotas que establezca la Ley de Ingresos del Estado y a falta de disposición expresa, la autoridad fiscal determinará su monto, teniendo en cuenta el costo que para el Gobierno tenga la prestación del servicio.
+
+###### ARTICULO 159.
+
+Los derechos se causan en el momento en que se presten los servicios, o en la forma que determina la Ley de Ingresos del Estado.
+
+###### ARTICULO 160.
+
+El Gobierno del Estado y sus organismos descentralizados; sólo podrán cobrar los derechos que señala la Ley de Ingresos del Estado.
+
+## TITULO IV. PRODUCTOS
+
+###### ARTICULO 161.
+
+Quedan comprendidos como productos, los ingresos que obtiene el Estado por actividades que no correspondan al desarrollo de sus funciones propias de Derecho Público, así como por la explotación o aprovechamiento de los bienes que constituyen su patrimonio.
+
+###### ARTICULO 162.
+
+Los productos que perciba el Estado se regularán por los contratos o convenios que se celebren y su importe deberá enterarse en la Recaudación de Rentas correspondiente, en los plazos, términos y condiciones que en los mismos se establezcan o por las disposiciones que al respecto señale la Ley de Ingresos del Estado.
+
+###### ARTICULO 163.
+
+Los productos provenientes de las ventas o arrendamientos de muebles e inmuebles del Estado u otros actos sobre los mismos, se originarán en los contratos que se celebren o en las concesiones que se otorguen al efecto por el Ejecutivo del Estado, en uso de sus atribuciones legales.
+
+###### ARTICULO 164.
+
+Los productos de los establecimientos dependientes del Gobierno del Estado, en los que se ejerzan actividades económicas lucrativas, que no correspondan a las funciones de Derecho Público, se regirán por las bases generales que fije el Ejecutivo del Estado y su cobro se sujetará a lo que en las mismas bases se disponga.
+
+###### ARTICULO 165.
+
+Los capitales impuestos a réditos, así como toda clase de acciones y valores que formen parte de la Hacienda Pública del Estado y los intereses o productos de los mismos, se regirán por los contratos o actos jurídicos de que se deriven. En caso de que se incurra en mora en el pago de los créditos, éstos se harán efectivos en la forma convenida en los propios actos o contratos, y a falta de éstos, en la vía judicial. En este caso, por acuerdo del Gobernador del Estado, podrá encomendarse el ejercicio de las acciones procedentes al Departamento Jurídico del Gobierno, cuyos honorarios se cubrirán con el importe de las costas que cubra el deudor, más el porcentaje que se estipule en el convenio respectivo.
+
+###### ARTICULO 166.
+
+Los rendimientos producidos por organismos descentralizados y empresas de participación estatal, se percibirán cuando lo decreten y exhiban, conforme a sus respectivos regímenes interiores, los organismos y empresas que los produzcan.
+
+## TITULO V. APROVECHAMIENTOS
+
+###### ARTICULO 167.
+
+Los aprovechamientos que perciba el Estado de (sic) regirán por las estipulaciones de los actos, convenios o contratos que se celebren o por las disposiciones que al respecto señalen esta Ley o la Ley de Ingresos del Estado; su importe deberá enterarse en la Recaudación de Rentas correspondiente en los plazos, términos y condiciones que se establezcan en los mismos o en las disposiciones legales.
+
+## TITULO VI. PARTICIPACIONES
+
+###### ARTICULO 168.
+
+Las participaciones se regirán por las disposiciones que al respecto establezcan las leyes y reglamentos correspondientes o por los convenios que al efecto se celebren.
+
+## TITULO VII. CONTRIBUCIONES DE MEJORAS
+
+###### ARTICULO 169.
+
+Las contribuciones de mejoras son tributos que el Poder Público fija a quienes independientemente de la utilidad general colectiva, obtengan beneficios diferenciales particulares derivados de obras públicas en los términos de las leyes respectivas.
+
+## TITULO VIII. INGRESOS EXTRAORDINARIOS
+
+###### ARTICULO 170.
+
+Son ingresos extraordinarios aquellos que la Hacienda Pública del Estado de Baja California perciba, cuando las circunstancias especiales coloquen al propio estado frente a necesidades imprevistas que lo obliguen a efectuar erogaciones extraordinarias.
+
+###### ARTICULO 171.
+
+Los ingresos a que se refiere el Artículo anterior, podrán ser los siguientes:
+
+I.- Empréstitos;
+
+II.- Impuestos Extraordinarios;
+
+III.- Derechos extraordinarios por la prestación de servicios;
+
+IV.- Expropiaciones;
+
+V.- Aportaciones extraordinarias de los Entes Públicos.
+
+TRANSITORIOS:
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan, la Ley de Hacienda vigente publicada en el Periódico Oficial del 20 de Mayo de 1955, sus posteriores modificaciones, reformas y adiciones; la Ley del Impuesto Predial publicada en el Periódico Oficial del 31 de Diciembre de 1969, sus posteriores modificaciones, reformas y adiciones, así como todas las disposiciones fiscales que contraríen lo dispuesto por la presente Ley.
+
+DADA en el Salón de Sesiones del H. Poder Legislativo, en la ciudad de Mexicali, Baja California, a los veintiocho días del mes de diciembre de mil novecientos setenta y dos.
+
+LIC. ROMAN CARDENAS GONZALEZ,
+
+Diputado Presidente.
+
+FERNANDO CANO MEDINA,
+
+Diputado Secretario.
+
+De conformidad con lo dispuesto por la Fracción I del Artículo 49 de la Constitución Política del Estado, mando se imprima, publique, observe y se le dé el debido cumplimiento.
+
+Mexicali, Capital del Estado de Baja California, a los treinta y un días del mes de diciembre de mil novecientos setenta y Dos.
+
+El Gobernador Constitucional del Edo.
+
+Lic. Milton Castellanos Everardo.
+
+(FIRMADO)
+
+El Srio. General de Gobierno
+
+Francisco Santana Peralta.
+
+(Firmado)
