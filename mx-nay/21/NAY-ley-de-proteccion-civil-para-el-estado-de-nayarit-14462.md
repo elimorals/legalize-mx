@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-civil-para-el-estado-de-nayarit-14462"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-24"
-last_updated: "1994-12-24"
+last_updated: "2003-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION CIVIL PARA EL ESTADO DE NAYARIT, PUBLICADA EN PERIODICO OFICIAL EL DIA 23 DE JULIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. ABROGADA.
 
 Ley Publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit el sábado 24 de diciembre de 1994.
 
@@ -364,3 +366,29 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno,
 
 C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE JULIO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor el día siguiente de su publicación, en el Periódico Oficial Órgano del Gobierno Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto número 7827 que contiene la Ley de Protección Civil del Estado, publicado con fecha 24 de Diciembre de 1994.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal de Protección Civil, se deberá instalar en un plazo no mayor de noventa días a partir del día siguiente al de la publicación de esta ley.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos dispondrán de un plazo de cuatro meses, a partir de la publicación de esta ley, a fin de integrar sus sistemas municipales de protección civil, expedir el programa y reglamento municipal de protección civil.
+
+Para tal efecto, los Cabildos de los Ayuntamientos aprobarán una partida presupuestal para dicha operación.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que contraríen a la presente ley.
