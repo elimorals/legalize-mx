@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2001-11-14"
+last_updated: "2002-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2002.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -487,9 +487,9 @@ Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras 
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO VII. CONTADURIA MAYOR DE HACIENDA
+### CAPITULO VII. DE LA FISCALIZACION SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 36.
 
@@ -533,7 +533,9 @@ XI.- Autorizar al Ejecutivo para que celebre contratos con los demás Estados o 
 
 XII.- Dar bases conforme a las cuales el Ejecutivo pueda celebrar empréstitos a nombre del Estado, con las limitaciones hechas a las facultades de los Estados en el Artículo 117 de la Constitución General; aprobar esos mismos empréstitos, y reconocer y mandar a pagar la deuda del Estado contraída;
 
-XIII.- Inspeccionar la Contaduría Mayor de Hacienda, designar y remover libremente al Contador Mayor y al Oficial Mayor del Congreso y, en los términos de la Ley aplicable, a los empleados administrativos;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2002)</small>
+
+XIII.- Supervisar, coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, al Órgano Superior de Fiscalización del Estado y expedir la Ley que regule su organización y atribuciones. Designar y remover al titular de dicho Órgano, al Oficial Mayor del Congreso, y a los demás servidores públicos al servicio del Poder Legislativo, en los términos que señalen las leyes aplicables;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
@@ -625,9 +627,9 @@ XXXIX.- Expedir las Leyes necesarias para hacer efectivas todas las anteriores f
 
 XL.- Legislar en materia de Justicia Administrativa, determinando la organización, competencia, funcionamiento y procedimientos para la defensa de los derechos de los Gobernados frente a los actos de las Autoridades Estatales, Municipales o de sus Organismos Descentralizados;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2002)</small>
 
-XLI.- Revisar, fiscalizar y calificar las cuentas públicas de los tres Poderes del Estado y de los Municipios, por períodos anuales, a más tardar en el segundo período de sesiones ordinario siguiente, con base en los informes técnicos, financieros y los demás soportes documentales suficientes que en términos de Ley, presente la Contaduría Mayor de Hacienda del Congreso;
+XLI.- Revisar, fiscalizar y calificar las cuentas públicas de los tres Poderes del Estado y de los Municipios, sin perjuicio de las evaluaciones trimestrales, por períodos anuales, a más tardar en el segundo período de sesiones ordinario siguiente, con base en los informes técnicos, financieros y los demás soportes documentales suficientes, que en términos de Ley, presente el Órgano Superior de Fiscalización del Estado;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE AGOSTO DE 1998)</small>
 
@@ -673,7 +675,7 @@ VII.- Convocar a elecciones extraordinarias de Ayuntamientos conforme a la ley r
 
 VIII.- Las demás que le imponga esta Constitución.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE OCTUBRE DE 2002)</small>
 
 ### CAPITULO II. FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
@@ -681,17 +683,77 @@ VIII.- Las demás que le imponga esta Constitución.
 
 ###### ARTICULO 40.
 
-La Contaduría Mayor de Hacienda dependerá directamente del Congreso, en ella se glosarán, sin excepción, las cuentas del erario estatal y de los municipios.
+El Órgano Superior de Fiscalización del Estado, dependerá del Congreso, y sin excepción revisará y fiscalizará las cuentas del erario estatal y de los Municipios. Será un órgano técnico auxiliar de naturaleza desconcentrada, que tendrá autonomía funcional y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
+El Órgano Superior de Fiscalización del Estado, tendrá las siguientes facultades:
+
+I.- Revisar y fiscalizar los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado y de los entes públicos locales, así como el cumplimiento de los objetivos contenidos en los programas estatales, a través de los informes técnicos y financieros, que se rendirán en los términos que disponga la ley;
+
+II.- Fiscalizará los recursos que como aportaciones del erario federal a la Hacienda estatal o municipal, administren y ejerzan las entidades del Gobierno del Estado, los municipios, y en su caso, los particulares, en los términos de la Constitución Política de los Estados Unidos Mexicanos, y demás leyes que de ella emanen;
+
+III.- Investigar los actos u omisiones que impliquen alguna irregularidad en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos públicos, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, documentos o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos;
+
+IV.- Entregar, sin perjuicio de las evaluaciones que por períodos trimestrales establece esta Constitución respecto al gasto público ejercido, el informe final técnico y financiero de la revisión de la Cuenta Pública que corresponda, a la Cámara de Diputados a más tardar el 1° de agosto del año siguiente al de su presentación. Dentro de dicho informe se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados, mismo que, después de su calificación, tendrá carácter público.
+
+V.- Determinar las responsabilidades administrativas, así como los daños o perjuicios que afecten la Hacienda Pública del Estado, de los Municipios o el patrimonio de los entes públicos locales, derivados de la fiscalización realizada y, sin detrimento de otras medidas disciplinarias o punitivas del órgano o autoridad competente, podrá fincar a los servidores públicos y demás sujetos obligados, mediante el pliego respectivo, las responsabilidades, indemnizaciones y sanciones pecuniarias procedentes, mismas que, para estos fines, las dos últimas se harán efectivas por conducto de la autoridad Hacendaria del Estado, en términos del Código Fiscal Local, reintegrándose las cantidades correspondientes a la entidad que haya sufrido directamente el perjuicio patrimonial; las demás sanciones, pasarán a favor del erario de que se trate.
+
+El Poder Ejecutivo a través de su dependencia competente, y en específico, para estos fines, como autoridad hacendaria para ambos casos del erario estatal y municipal, aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a que se refiere la fracción V del presente artículo, en los términos previstos por el Código Fiscal del Estado, debiendo reintegrar las cantidades respectivas al ente que sufrió directamente la afectación, con motivo de la conducta de que se trate;
+
+VI.- En las situaciones excepcionales determinadas por la ley, podrá requerir a los sujetos de fiscalización, que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe. Si dichos requerimientos no fueren atendidos en los plazos y términos señalados por la ley, dará lugar al fincamiento de las responsabilidades que correspondan;
+
+VII.- Promover, previa autorización del Congreso, ante las autoridades competentes las denuncias y querellas penales, en los asuntos derivados de la fiscalización de las cuentas públicas; en cuyos procedimientos tendrá la intervención que señale la ley; y
+
+VIII.- Suscribir sin detrimento de sus atribuciones, y para el mejor cumplimiento de sus deberes, convenios de colaboración con el ente público similar de la federación, para los fines de la fiscalización de los recursos que con respecto al Estado o municipios, sean convenidos, transferidos o reasignados por las entidades fiscalizadas del ámbito federal; así como con los órganos de control preventivo de los entes estatales y municipales, obligados a rendir cuenta pública.
+
+La mencionada entidad de fiscalización superior del Estado, deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+Los Poderes del Estado, los Municipios y los demás sujetos de fiscalización, facilitarán los auxilios que requiera el órgano superior, en el ejercicio de sus funciones.
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2002)</small>
+
+Para los fines de la revisión, fiscalización y calificación de las cuentas públicas, se entenderá a los Poderes del Estado, y dentro de éstos, en el ámbito del Poder Ejecutivo, como parte de la administración pública estatal, a los organismos descentralizados y autónomos, con personalidad jurídica y patrimonios propios, y demás entidades paraestatales creadas conforme esta Constitución y las Leyes que de ella emanen. En el Poder Judicial, serán sujetos además los organismos autónomos que en términos de ley estén sectorizados al mismo; de igual manera se considerará a las entidades paramunicipales que el Municipio constituyere acorde a las disposiciones de la Ley Orgánica Municipal.
+
+Para el debido cumplimiento de sus atribuciones, el Órgano Superior a través de su titular presentará oportunamente el proyecto de presupuesto que se integrará al que de igual forma elabore y autorice el órgano de gobierno del Poder Legislativo para su remisión al Poder Ejecutivo; el cual lo incluirá en el presupuesto anual de egresos del Gobierno del Estado, a efectos de su aprobación formal por el Congreso. La ley secundaria en la materia o la orgánica del Poder Legislativo, determinará la coordinación en las labores o programas de fiscalización y las del orden administrativo, que incluirán las de evaluación y control, que dicho órgano técnico tendrá con relación al Congreso del Estado.
+
+El titular de la entidad de fiscalización superior del Estado, será designado por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, a propuesta del órgano de gobierno, quien propondrá una terna en términos de la ley de la materia.
+
+Durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez.
+
+Para ser titular del Órgano Superior de Fiscalización del Estado, se requiere:
+
+a). Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos y civiles;
+
+b). Tener cuando menos treinta años de edad cumplidos, el día de la designación;
+
+c). Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+d). Poseer el día de la designación, cédula profesional, indistintamente, de Contador Público, Licenciado en Derecho, Licenciado en Economía, Licenciado en Administración o de cualquier otra profesión relacionada con las actividades de fiscalización, expedida por autoridad o institución legalmente facultada para ello con antigüedad mínima de diez años;
+
+e). Haber residido en el país durante los dos años anteriores al día de la designación;
+
+f). No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Procurador General de Justicia, Magistrado del Tribunal Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje o Diputado local, durante el año previo al día de su nombramiento; y
+
+g). Las demás que se señalen en la Ley de Fiscalización Superior del Estado.
+
+Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+Podrá ser sujeto de juicio político y en su caso, removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 41.
 
-Las cuentas públicas de los tres Poderes del Estado y de los Municipios, deberán ser entregadas al Congreso del Estado a más tardar el 31 de marzo del año siguiente. Dichas cuentas públicas deberán quedar glosadas y fiscalizadas, así como entregados los informes técnicos y financieros por el órgano técnico al Congreso del Estado a más tardar el primero de agosto del año siguiente de que se trate. El incumplimiento de este precepto imputable a los servidores públicos de la Contaduría Mayor de Hacienda, es causa de responsabilidad en los términos de las leyes aplicables.
+Las cuentas públicas de los tres Poderes del Estado y de los Municipios, deberán ser entregadas, por éstos, al Congreso del Estado a más tardar el 31 de marzo del año siguiente. Así mismo, el Órgano Superior de Fiscalización del Estado deberá concluir la glosa y fiscalización y entregar los informes técnicos y financieros, al Congreso del Estado, a más tardar el primero de agosto del año siguiente de que se trate. El incumplimiento de este precepto imputable a los servidores públicos del citado órgano, es causa de responsabilidad en los términos de las leyes aplicables.
 
-Sin perjuicio de lo dispuesto en el párrafo anterior, el Congreso del Estado por conducto de la Contaduría Mayor de Hacienda en el ejercicio de sus facultades y obligaciones, realizará evaluaciones que comprendan períodos trimestrales del ejercicio fiscal de que se trate, las cuales tendrán carácter de provisional y podrán iniciarse a partir del mes subsecuente al que procediere la evaluación correspondiente, con apoyo en los informes de autoevaluación que remitan dentro del término de treinta días las entidades ejecutoras del gasto. En el desarrollo de tal actividad, habrán de realizarse la revisión, fiscalización y auditoría del gasto público ejercido a dicha fecha. Cuando así lo requiera, el órgano técnico, podrá auxiliarse para el ejercicio de sus atribuciones, de despachos o profesionistas especializados en las diversas tareas de fiscalización que le competen.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
-De la evaluación que practique la Contaduría Mayor de Hacienda en forma trimestral, deberá hacer las observaciones para que se realicen las solventaciones correspondientes. De encontrarse irregularidades que ameriten la intervención del Congreso del Estado, dicho órgano técnico lo hará del conocimiento de éste, sin necesidad de esperar el examen y calificación anual; satisfaciéndose las formalidades legales se emitirá la resolución que en derecho procediere.
+Sin perjuicio de lo dispuesto en el párrafo anterior, el Congreso del Estado por conducto del Órgano Superior de Fiscalización del Estado en el ejercicio de sus facultades y obligaciones, realizará evaluaciones que comprendan períodos trimestrales del ejercicio fiscal de que se trate, las cuales tendrán carácter de provisional y podrán iniciarse a partir del mes subsecuente al que procediere la evaluación correspondiente, con apoyo en los informes de autoevaluación que remitan dentro del término de treinta días las entidades ejecutoras del gasto. En el desarrollo de tal actividad, habrán de realizarse la revisión, fiscalización y auditoría del gasto público ejercido a dicha fecha. Cuando así lo requiera, el órgano técnico, podrá auxiliarse para el ejercicio de sus atribuciones, de despachos o profesionistas especializados en las diversas tareas de fiscalización que le competen.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
+
+De la evaluación que practique el Órgano Superior de Fiscalización del Estado en forma trimestral, deberá hacer las observaciones para que se realicen las solventaciones correspondientes. De encontrarse irregularidades que ameriten la intervención del Congreso del Estado, dicho órgano técnico lo hará del conocimiento de éste, sin necesidad de esperar el examen y calificación anual; satisfaciéndose las formalidades legales se emitirá la resolución que en derecho procediere.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
 
 En los términos de la Ley de Responsabilidades de los Servidores Públicos, y con respecto a los informes que mensualmente, y con carácter obligatorio rinden las entidades sujetas a cuenta pública; los respectivos órganos internos de control o de vigilancia, según se trate, en cada nivel de gobierno, estarán obligados a remitir la información necesaria sobre el contenido de los mismos, proporcionando en igual término los pormenores de las acciones de control, evaluación y en su caso de autoevaluación que al efecto se hubieren realizado.
 
@@ -819,9 +881,9 @@ V.- Solicitar a la Comisión Permanente que convoque a sesiones extraordinarias;
 
 VI.- Facilitar al Poder Judicial los auxilios que necesite, para hacer expedito el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2002)</small>
 
-VII.- Mensualmente: Publicar los cortes de cajas de las oficinas recaudadoras del Estado y remitir a la Contaduría Mayor de Hacienda, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Asimismo, enviar anualmente a dicha Contaduría, a más tardar el 31 de marzo del año siguiente, la cuenta pública debidamente comprobada y con la información suficiente en los términos de la ley aplicable, para su examen y clasificación anual; la Contaduría Mayor de Hacienda podrá solicitar la documentación soporte de las acciones que consideren pertinentes durante el período de glosa, una vez calificada la cuenta y de no existir mandato en contrario, será devuelta oportunamente la documentación remitida, para su debida guarda y custodia;
+VII. Mensualmente: Publicar los cortes de cajas de las oficinas recaudadoras del Estado y remitir al Órgano Superior de Fiscalización del Estado dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Asimismo, enviar anualmente a dicho Órgano, a más tardar el 31 de marzo del año siguiente, la cuenta pública debidamente comprobada y con la información suficiente en los términos de la ley aplicable, para su examen y calificación anual. El Órgano Superior de Fiscalización del Estado, podrá solicitar la documentación soporte de las acciones que consideren pertinentes durante el período de glosa, una vez calificada la cuenta y de no existir mandato en contrario, será devuelta oportunamente la documentación remitida, para su debida guarda y custodia;
 
 VIII.- Otorgar los títulos profesionales conforme a las leyes que regulen los estudios correspondientes;
 
@@ -1237,9 +1299,9 @@ Los presupuestos de egresos serán aprobados por los Ayuntamientos, sobre la bas
 
 Para la aprobación de la Ley de Ingresos de los Ayuntamientos, éstos enviarán sus proyectos conforme a las disposiciones legales aplicables a la Legislatura Local, directamente o por conducto del Ejecutivo, a más tardar en el mes de octubre de cada año.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
-La cuenta pública de los Ayuntamientos o Concejos Municipales, se analizará, fiscalizará y calificará anualmente por el Congreso del Estado; para tal efecto aquellos, enviarán mensualmente a la Contaduría Mayor de Hacienda, dentro de los quince días del mes siguiente que corresponda, la cuenta comprobada y debidamente documentada del mes anterior, con los informes técnicos financieros que acrediten las erogaciones y el avance de las metas físicas de sus proyectos. Así mismo, y a más tardar el 31 de marzo del año siguiente, en complemento a la cuenta pública comprobada del último mes del período, deberán remitir la evaluación de su programa operativo anual, en relación al as metas que se establecieron por el año que corresponda y el avance de su Plan Municipal de Desarrollo, para su inclusión correspondiente.
+La cuenta pública de los Ayuntamientos o Concejos Municipales, se analizará, fiscalizará y calificará anualmente por el Congreso del Estado; para tal efecto aquellos, enviarán mensualmente al Órgano Superior de Fiscalización del Estado, dentro de los quince días del mes siguiente que corresponda, la cuenta comprobada y debidamente documentada del mes anterior, con los informes técnicos financieros que acrediten las erogaciones y el avance de las metas físicas de sus proyectos. Así mismo, y a más tardar el 31 de marzo del año siguiente, en complemento a la cuenta pública comprobada del último mes del período, deberán remitir la evaluación de su programa operativo anual, en relación a las metas que se establecieron por el año que corresponda y el avance de su Plan Municipal de Desarrollo, para su inclusión correspondiente.
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
@@ -2080,3 +2142,33 @@ CUARTO.- Para el presupuesto del ejercicio fiscal del año 2002, el Presidente d
 QUINTO.- En consecuencia, se deberán expedir las disposiciones legales secundarias, que regulen los preceptos constitucionales que se reforman por el presente Decreto, a mas tardar el 30 de enero del año 2002; mientras tanto, seguirán aplicándose las disposiciones vigentes, en lo que no se opongan a estas. En caso de que a la entrada en vigor de estas reformas, se estuviere tramitando conforme al Código de Procedimientos Civiles alguna controversia ante árbitros deberán concluirse en todas sus etapas de acuerdo a las disposiciones vigentes en la época de su inicio.
 
 SEXTO.- En términos del artículo 83, de la Constitución Política del Estado Libre y Soberano de Tabasco, una vez que el Congreso del Estado, apruebe las referidas reformas o adiciones, remítase a los Honorables Ayuntamientos de la entidad, para su aprobación correspondiente, dentro del término de quince días, y vencido dicho término dése cuenta al pleno, para el cómputo de los votos de los Ayuntamientos y la declaración en su caso, de haber sido aprobadas las adiciones y reformas de nuestra Constitución.
+
+P.O. 9 DE OCTUBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con sujeción a los requisitos y procedimientos que dispone el artículo 83 de la Constitución Política del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Legislatura expedirá, durante el segundo período ordinario de sesiones, del segundo año de su ejercicio constitucional, la Ley de Fiscalización Superior del Estado y el respectivo Reglamento del Órgano Superior de Fiscalización del Estado; asimismo efectuará en el mismo período las adecuaciones necesarias a los ordenamientos orgánicos del Poder Legislativo que tengan vinculación con las funciones del nuevo ente público.
+
+###### ARTÍCULO TERCERO.
+
+El primer titular del Órgano Superior de Fiscalización del Estado, será designado en los términos previstos en esta Constitución, y conforme a las disposiciones que para ese efecto se establezcan en la respectiva Ley de Fiscalización Superior, la cual señalará los demás requisitos que se fijen para tal nombramiento.
+
+###### ARTÍCULO CUARTO.
+
+La Legislatura, por medio de su órgano interno competente, determinará la inclusión en el Presupuesto de Egresos del próximo ejercicio fiscal, los rangos presupuestales necesarios para garantizar el funcionamiento del Órgano Superior de Fiscalización del Estado, considerando los recursos actualmente asignados a la Contaduría Mayor de Hacienda. Dicho presupuesto será revisado y, evaluado su ejercicio, dentro de los primeros seis meses contados a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expide la Ley de Fiscalización Superior, se seguirán aplicando las disposiciones normativas contenidas en la Ley Orgánica del Poder Legislativo, Ley de Presupuesto, Contabilidad y Gasto Público y en los demás ordenamientos de observancia obligatoria.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la entrada en vigor del presente Decreto, el Órgano Superior de Fiscalización del Estado, desahogará todos los asuntos que a la fecha se encuentren en proceso de revisión y análisis por la Contaduría Mayor de Hacienda. Los bienes muebles y demás recursos materiales y humanos, pasaran por ministerio legal al servicio del órgano citado para el desempeño de sus funciones públicas. Los servidores públicos conservaran aquellos derechos que en términos de las leyes aplicables tuvieren al efecto.
+
+###### ARTÍCULO SÉPTIMO.
+
+En todas las disposiciones legales o administrativas; resoluciones, convenios o actos expedidos durante la vigencia de la Contaduría Mayor de Hacienda como órgano técnico del Congreso del Estado, seguirán teniendo validez jurídica, en tanto no sean dejados sin efectos legales en los términos de los ordenamientos aplicables, y se entenderán referidos al Órgano Superior de Fiscalización del Estado. Cuando en las Leyes que emanen de la Constitución del Estado, se cite a la Contaduría Mayor de Hacienda, se considerará que se trata del Órgano Superior de Fiscalización del Estado.
