@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7590"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-29"
-last_updated: "1994-12-27"
+last_updated: "1995-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1995.
 
 Ley publicada en la Primera Sección del Periódico Oficial, el viernes 29 de junio de 1984.
 
@@ -403,9 +403,9 @@ VII.- Respetar a sus superiores, cumpliendo las disposiciones que éstos dicten 
 
 VIII.- Comunicar por escrito al titular las dudas fundadas que le suscite la procedencia de las órdenes que reciba;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 1995)</small>
 
-IX.- Abstenerse de ejercer las funciones de su empleo, cargo o comisión después de concluido el período para el cual se le asignó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones. Debiendo en todo caso entregar a quien su superior jerárquico designe, todos los recursos patrimoniales que haya tenido a su disposición, así como los documentos y asuntos relacionados con sus funciones en un término no mayor de cinco días hábiles, contados a partir de la fecha de su separación, debiendo levantarse acta administrativa circunstanciada ante el Organo de Control que corresponda.
+IX.- Abstenerse de ejercer las funciones de su empleo, cargo o comisión después de concluido el periodo para el cual se le asignó o después de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones. Debiendo en todo caso entregar a quien su superior jerárquico designe o a quien legalmente deba sustituirlo, todos los recursos patrimoniales que haya tenido a su disposición, así como los documentos y asuntos relacionados con sus funciones en un término no mayor de cinco días hábiles, contados a partir de la fecha de su separación, debiendo levantarse acta administrativa circunstanciada ante el órgano de control que corresponda.
 
 X.- Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores por más de tres días continuos o quince discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando no estén justificadas;
 
@@ -952,3 +952,7 @@ Conforme a lo que establece el Artículo 86 de la presente Ley, una vez que sean
 ###### ARTICULO QUINTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JULIO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
