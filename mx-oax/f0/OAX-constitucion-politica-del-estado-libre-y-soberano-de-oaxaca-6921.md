@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1999-08-21"
+last_updated: "1999-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1999.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -84,6 +84,14 @@ En los juicios del orden criminal queda prohibido imponer por simple analogía y
 ###### ARTICULO 6°.
 
 En el Estado, jamás se expedirá ley que imponga penas a personas determinadas, que pretenda surtir efecto retroactivo en perjuicio de alguien, que decrete la infamia de un hombre, una familia o una clase, o que establezca la confiscación de bienes o multas excesivas, entendiéndose por una y otras, las que afecten al patrimonio de familia.
+
+(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 19 DE FEBRERO DE 2000)
+
+No se considerará confiscación de bienes la aplicación total o parcial de los bienes de una persona hecha por la autoridad judicial, para el pago de la reparación del daño resultante de la comisión de un delito, responsabilidad civil o para el pago de impuestos o multas. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial, de los bienes, en caso del enriquecimiento ilícito, en los términos del artículo 109 de la Constitución Federal; ni el decomiso de los bienes propiedad del sentenciado, por delitos de los previstos como de delincuencia organizada, o el de aquéllos respecto de los cuáles éste se conduzca como dueño, si no acredita la legítima procedencia de dichos bienes.
+
+(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1999) (F. DE E., P.O. 19 DE FEBRERO DE 2000)
+
+No se considerará confiscación la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables. La Autoridad judicial resolverá que se apliquen a favor del Estado los bienes que hayan sido asegurados con motivo de una investigación o proceso que se sigan por delitos de delincuencia organizada, cuando se ponga fin a dicha investigación o proceso que se sigan por delitos de sin que haya un pronunciamiento sobre los bienes asegurados. La resolución judicial se dictará previo procedimiento en el que se otorgue audiencia a terceros y se acredite plenamente el cuerpo del delito previsto por la ley como de delincuencia organizada, siempre y cuando se trate de bienes respecto de los cuales el inculpado en la investigación o proceso citados haya sido poseedor, propietario o se haya conducido como tales, independientemente de que hubieran sido transferidos a terceros, salvo que éstos acrediten que son poseedores o adquirentes de buena fe.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1994)</small>
 
@@ -609,7 +617,7 @@ Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CER
 
 ## TITULO CUARTO. Del Gobierno del Estado
 
-### CAPITULO I. De la Forma de Gobierno y División de Poderes
+### CAPITULO II. Del Poder Legislativo
 
 ###### ARTICULO 29.
 
@@ -629,7 +637,7 @@ Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos
 
 El Poder Público del Estado se divide, para el ejercicio de sus funciones en Legislativo, Ejecutivo y Judicial, los cuales desarrollarán sus funciones en la forma y términos previstos en esta Constitución. No podrán reunirse en uno solo de ellos, cualesquiera de los otros dos, como tampoco delegarse o invadirse atribuciones, a excepción de los casos previstos en el Artículo 62 de este documento.
 
-### CAPITULO II. Del Poder Legislativo
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
 #### SECCION PRIMERA. De la Legislatura
 
@@ -763,27 +771,29 @@ Ese mismo carácter tendrán las resoluciones del Congreso del Estado erigido en
 
 Los diputados electos que cuenten con su constancia de mayoría y validez expedida por el Instituto Estatal Electoral o resolución a su favor del Tribunal Estatal Electoral, concurrirán a la instalación de la Legislatura del Estado de conformidad con lo dispuesto en el artículo 47 de esta Constitución y la Ley Orgánica del propio Congreso.
 
-Para tal efecto, deberán presentar dentro de los días diez y doce de noviembre del año de la elección, ante el Oficial Mayor de la Cámara de Diputados, la constancia o resolución de referencia, para su registro, de razón y entrega de la credencial de acceso a la sesión de instalación que tendrá verificativo a las once horas del día quince de noviembre del año de la elección, en cuya fecha se hará la elección de Presidente, Vicepresidente y Secretarios en los términos de su Ley Orgánica y Reglamento.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
+Para tal efecto, deberán presentar dentro de los días siete a nueve de Noviembre del año de la elección, ante el Oficial Mayor del Congreso del Estado, la constancia o resolución de referencia, para su registro, se de razón y entrega de la credencial de acceso a la sesión de instalación que tendrá verificativo el día trece de Noviembre del año de la elección, en cuya fecha se hará la elección de Presidente, Vicepresidente y Secretario en los términos de la Ley Orgánica y su Reglamento, empezando a fungir a partir del día quince de Noviembre.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
 
 ###### ARTICULO 42.
 
-La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el primer período de sesiones dará principio el día 15 de noviembre y el segundo, el 1o. de junio del año siguiente; y no podrán prolongarse más que hasta el día 30 de abril y 30 de septiembre respectivamente.
+La Legislatura tendrá períodos ordinarios de sesiones dos veces al año, el primer período de sesiones dará principio el día quince de Noviembre y concluirá el treinta y uno de Marzo del año siguiente; el segundo período, dará principio el primero de junio y concluirá el treinta de septiembre.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
 Se reunirá, además, en períodos extraordinarios siempre que sea convocada por la Diputación Permanente o por el Ejecutivo; pero si éste hiciere la convocatoria, no se efectuará antes de diez días de la fecha de la publicación de aquella.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
 
 ###### ARTICULO 43.
 
-A la apertura del Primer Período Ordinario de Sesiones, correspondiente al Primer Año de su Ejercicio Legal de toda Legislatura Local, que tendrá lugar el 16 de NOVIEMBRE, asistirán el C. Gobernador del Estado y el Titulas del Tribunal Superior de Justicia del Estado.
+El quince de noviembre, a las once horas, en sesión solemne, se declarará abierto el primer período de sesiones por parte del Presidente de la Legislatura.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+En la misma sesión, el Gobernador del Estado presentará un informe por escrito sobre el estado que guarda la Administración Pública del Estado.
 
-El día treinta de octubre de cada año, la misma Legislatura celebrará una sesión solemne en la cual el Gobernador del Estado presentará un informe sobre el estado que guarda la Administración Pública.
+Esta sesión no tendrá más objeto que celebrar la apertura del período de sesiones y que el Gobernador del Estado presente su informe.
 
 ###### ARTICULO 44.
 
@@ -823,7 +833,9 @@ I. A los Diputados;
 
 II. Al Gobernador del Estado;
 
-III. Al Tribunal Superior de Justicia en todo lo administrativo y orgánico judicial;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
+
+III. Al Tribunal Superior de Justicia en todo lo relativo a la Administración de Justicia y Orgánico Judicial;
 
 IV. A los Ayuntamientos en los asuntos que incumben a los Municipios, por lo que se refiere a sus respectivas localidades;
 
@@ -1711,7 +1723,7 @@ Los Concejales electos por el sistema de usos y costumbres también tomarán pos
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
 
 ### CAPITULO IV. Del Poder Judicial del Estado
 
@@ -2139,29 +2151,45 @@ El Poder Judicial se ejerce: por el Tribunal Superior de Justicia, por los Juece
 
 ###### ARTICULO 121.
 
-La Ley Orgánica del Poder Judicial del Estado, determinará el número de Magistrados Numerarios y Supernumerarios que deban integrar el Tribunal Superior de Justicia y la forma de su funcionamiento en razón de la materia.
+La Ley Orgánica del Poder Judicial del Estado, determinará el funcionamiento del mismo; garantizará también la independencia de los Magistrados y Jueces en el ejercicio de sus funciones y establecerá las condiciones para el ingreso, formación y permanencia de sus servidores públicos.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 Todos los Magistrados serán nombrados por el Gobernador del Estado y ratificados dichos nombramientos dentro del plazo improrrogable de diez días por la Legislatura del Estado, si no resolviere dentro de dicho plazo, se tendrán por ratificados. En el caso de que no los ratifique, el Gobernador hará nuevo nombramiento y si también se negare la ratificación, hará un tercer nombramiento que surtirá sus efectos inmediatamente a reserva de obtener la ratificación en el siguiente período ordinario de sesiones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
+
 ###### ARTICULO 122.
 
-Para ser Magistrado del Tribunal Superior, se requiere: ser ciudadano mexicano en el goce de sus derechos, mayor de treinta y cinco años de edad, abogado titulado oficialmente o en escuela libre reconocida, con cinco años de ejercicio profesional, y de honradez y probidad notorias.
+Para ser Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
+
+I.- Ser ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+
+II.- Tener cuando menos treinta y cinco años cumplidos el día de su nombramiento;
+
+III.- Poseer el día del nombramiento, con antigüedad mínima de diez años, título y cédula profesionales de licenciado en derecho, expedidas por la autoridad o institución legalmente facultada para ello;
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
+
+V.- Haber residido en la República Mexicana durante los dos años anteriores al día del nombramiento; y
+
+VI.- No haber sido Secretario de Despacho o su equivalente, Procurador General de Justicia o Diputado Local, en el año anterior a su nombramiento.
 
 No podrán reunirse en el Tribunal dos o más Magistrados que sean parientes entre sí por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1950)</small>
+(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1999) (F. DE E., P. O. 23 DE OCTUBRE DE 1999)
 
 ###### ARTICULO 123.
 
-El cargo de Magistrado del Tribunal es renunciable, por causa justificada que calificará el Ejecutivo, ante quien presentará la renuncia.
+Los Magistrados durarán en el ejercicio de su cargo quince años, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del artículo 141 de ésta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, y podrán jubilarse en los términos que señale la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1959)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
 
 ###### ARTICULO 124.
 
-El Tribunal Superior de Justicia del Estado funcionará en Pleno y en Salas o solamente en Pleno, según lo determine la Ley Orgánica respectiva, y será presidido por el Magistrado que elija la Corporación. El Presidente durará en su encargo un año y podrá ser reelecto.
+El Tribunal Superior de Justicia del Estado, será presidido por el Magistrado que elija el Pleno, durará en ejercicio de sus funciones un año, pudiendo ser reelecto. Tendrá la representación legal del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
 
 ## TÍTULO NOVENO. De los usuarios
 
@@ -2169,7 +2197,7 @@ El Tribunal Superior de Justicia del Estado funcionará en Pleno y en Salas o so
 
 ###### ARTICULO 125.
 
-Las faltas temporales de los Magistrados numerarios serán cubiertas por los supernumerarios, y en defecto de éstos, o por falta de dos o más magistrados numerarios, serán llamados los jueces de primera instancia que designe el Pleno del Honorable Tribunal superior de Justicia, tomando en consideración la antigüedad, eficiencia, capacidad t probidad en la impartición de justicia.
+Las faltas temporales de los Magistrados serán cubiertas por los Jueces de Primera Instancia que designe el Pleno del Honorable Tribunal Superior de Justicia, tomando en consideración la antigüedad, eficiencia, capacidad y probidad en la impartición de Justicia.
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
@@ -2187,7 +2215,9 @@ Se exceptúan de lo dispuesto en el párrafo anterior, las licencias que se conc
 
 Corresponde al Tribunal Superior de Justicia:
 
-I. Iniciar leyes en todo lo relativo a lo administrativo u orgánico judicial;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
+
+I. Iniciar leyes en todo lo relativo a la Administración de Justicia y Orgánico Judicial;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
@@ -2207,9 +2237,9 @@ VII. Hacer la revisión de todos los procesos del orden penal que designen las l
 
 VIII. Dirimir las competencias de jurisdicción que se susciten entre los jueces de primera instancia del Estado, o entre el alcalde de un distrito judicial y otro alcalde o juez de primera instancia de otro distrito;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
 
-IX. Nombrar a los Jueces de Primera Instancia;
+IX. Nombrar a los Jueces de Primera Instancia de conformidad con el tercer párrafo de la Fracción III del artículo 116 de la Constitución Política Federal;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
@@ -2225,11 +2255,11 @@ XII. Nombrar y remover, con las limitaciones que establezcan las leyes, a los Se
 
 Habrá jueces de primera instancia y jurados en todas las cabeceras de distrito judicial.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1999)</small>
 
 ###### ARTICULO 129.
 
-Los Jueces de Primera Instancia tendrán los mismos requisitos que los Magistrados, menos el de la edad y tiempo de ejercicio de la profesión, bastándoles ser de veinticinco años de edad y tener dos de práctica forense.
+Para ser Juez de Primera Instancia, se deberán reunir los requisitos que señale la Ley Orgánica del poder Judicial.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1950)</small>
 
@@ -2874,6 +2904,18 @@ P.O. 22 DE MAYO DE 1999.
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 21 DE AGOSTO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 1999.
+
+DECRETO No. 95, QUE REFORMA Y ADICIONA LOS ARTICULOS 6°, 50, 121, 122, 123, 124, 125, 127 Y 129 DE LA PRESENTE CONSTITUCION.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 1999.
+
+DECRETO No. 109, QUE REFORMA Y ADICIONA LOS ARTICULOS 41, 42 Y 43 DE LA PRESENTE CONSTITUCION.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
