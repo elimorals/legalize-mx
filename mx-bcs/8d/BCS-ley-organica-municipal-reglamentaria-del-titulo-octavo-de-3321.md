@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1980-05-10"
+last_updated: "1980-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MAYO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1980.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -193,7 +193,9 @@ V. Dividir el territorio municipal en Delegaciones, Subdelegaciones, Sectores o 
 
 VI. Convocar elecciones de los miembros de los Consejos de Colaboración Municipal.
 
-VII. Aprobar, en su caso, el nombramiento de Delegados y Subdelegados Municipales.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1980)</small>
+
+VII. Expedir la convocatoria para celebrar plebiscitos y calificarlos, conforme a lo establecido en la Fracción VI del Artículo 27 de esta Ley, así como aprobar, en su caso, el nombramiento de Sub-Delegados Municipales.
 
 VIII. Solicitar la expropiación de bienes para causas de utilidad pública.
 
@@ -283,7 +285,31 @@ IV. Representar al Ayuntamiento y rendir a su nombre, el informe anual sobre la 
 
 V. Proponer al Ayuntamiento los nombramientos de Secretario General, Tesorero y Jefes de Dependencias y Oficinas Municipales.
 
-VI. Nombrar y remover a los Delegados, Sub-delegados, Alcaides, personal de seguridad y tránsito, y administrativo, de acuerdo con las disposiciones aplicables; así como cuidar que las dependencias y Oficinas Municipales se integren y funcionen con eficiencia.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1980)</small>
+
+VI. Nombrar y remover a los Sub-Delegados, Alcaides, Personal de la Dirección de Seguridad y Tránsito y Personal Administrativo en general, de acuerdo a las disposiciones aplicables; así como cuidar que las dependencias y oficinas municipales se integren y funcionen con eficiencia.
+
+Los nombramientos de Delegados deberá hacerlos con la participación de los ciudadanos de las respectivas jurisdicciones, mediante la celebración de plebiscitos y de acuerdo con las normas que establezca la convocatoria que para tal efecto expida cada Ayuntamiento y que será publicada en la primera quincena del mes de enero del Primer Año de Gobierno Municipal a efecto de que los plebiscitos se desarrollen en la segunda quincena de ese mismo mes.
+
+Dicha convocatoria deberá establecer el número de participantes elegibles, quienes o qué órganos pueden proporcionarlos, requisitos de legibilidad, calendario de actividades y las demás circunstancias y normas que el Ayuntamiento estima que debe someterse la elección correspondiente. El Ayuntamiento calificará los plebiscitos celebrados, hará la declaratoria correspondiente y pasará ésta al Presidente Municipal para su ejecución, que surtirá sus efectos a partir del quince de febrero.
+
+Los Delegados Municipales podrán ser removidos por cualquiera de las siguientes causas:
+
+a).- Por pedimento fundado y motivado de 100 o más ciudadanos vecinos de la Delegación correspondiente.
+
+b).- Cuando se dicte en su contra orden de aprehensión, auto de formal prisión o de sujeción a proceso.
+
+c).- Por la realización de actos contrarios a los programas de trabajo del Ayuntamiento.
+
+d).- Cuando deje de satisfacer alguno de los requisitos de elegibilidad establecidos en la convocatoria.
+
+La solicitud de remoción deberá presentarse ante el Presidente Municipal e irá acompañada de las pruebas pertinentes dentro del plazo de 10 días el Presidente la hará del conocimiento del Cabildo, el cual designará un a comisión de su seno, que se avocará a la investigación de la misma para averiguar si está probada o no la causa de remoción y que propondrá al Cabildo el dictamen respectivo, dentro de un plazo no mayor de 20 días siguientes a la sesión en que se hubiere tenido conocimiento de la solicitud de remoción. A continuación el Ayuntamiento hará la declaratoria que procediere y el Presidente Municipal se encargará de su ejecución.
+
+La falta absoluta de los Delgados Municipales se cubrirá de la siguiente manera:
+
+a).- Si la falta ocurre en la primera mitad del Periodo Constitucional del Ayuntamiento, deberá celebrarse plebiscito extraordinario conforme a las reglas establecidas en este mismo Artículo.
+
+b).- Si la falta ocurriese dentro de la segunda mitad del mismo periodo constitucional, el Ayuntamiento nombrará el Delgado a propuesta del Presidente Municipal.
 
 VII. Vigilar la recaudación en todas las ramas de la Hacienda Municipal y que la inversión de los fondos municipales se aplique con estricto apego al presupuesto.
 
@@ -457,9 +483,11 @@ I. Los Delegados Municipales en los centros de población del Municipio; y
 
 II. Los Sub-Delegados Municipales, en los lugares comprendidos dentro de la jurisdicción de la Delegación, cuando sean necesarios.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 1980)</small>
+
 ###### Artículo 45.
 
-Los Delegados y Sub-Delegados, durarán en su encargo tres años, pudiendo ser removidos por el Ayuntamiento en cualquier tiempo, por justa causa.
+Los Delgados y Sub-Delegados durarán en su encargo tres años; los primeros sólo podrán ser removidos por las causas y conforme a lo establecido en la Fracción VI del Artículo 27 de esta Ley; los Sub-Delegados podrán ser removidos por el Ayuntamiento en cualquier tiempo por justa causa.
 
 ### CAPITULO SEGUNDO. DE LOS CONSEJOS DE COLABORACION MUNICIPAL
 
@@ -1030,3 +1058,13 @@ B.O. 10 DE MAYO DE 1980.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 1980.
+
+###### ARTICULO 1o.
+
+El presente Decreto entrará en vigor el día primero de enero de 1981, previa publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO 2º.
+
+Cada Presidente Municipal, con la aprobación del Cabildo, designará Delegados Provisionales que podrán ser los de la Administración anterior para cubrir el periodo comprendido del primero de enero a la toma de posesión de los Delegados electos mediante los plebiscitos.
