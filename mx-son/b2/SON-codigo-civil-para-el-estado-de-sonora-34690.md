@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1995-07-06"
+last_updated: "1996-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 6 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 4 DE ENERO DE 1996.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -4735,6 +4735,8 @@ El representante está obligado a promover la publicación de los edictos. La fa
 
 ### CAPITULO UNICO.
 
+> <small>(REFORMADO, B.O. 4 DE ENERO DE 1996)</small>
+
 ###### Art. 834.
 
 Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
@@ -5009,7 +5011,7 @@ Del Patrimonio de la Familia.
 
 ###### Art. 889.
 
-Son objeto del patrimonio de la familia: la casa en que ésta habita; o dicha casa y una fracción de terreno anexa o a distancia no mayor de un kilómetro, que sea cultivada por la misma familia.
+Son objeto del patrimonio de la familia: la casa en que ésta habita incluyendo el mobiliario y equipo de la vivienda; o dicha casa en la que se incluya el mobiliario y equipo mencionados y una fracción de terreno anexo o a distancia no mayor de un kilómetro, que sea cultivada por la misma familia.
 
 ###### Art. 890.
 
@@ -5037,11 +5039,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede construir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, B.O. 4 DE ENERO DE 1996)</small>
 
 ###### Art. 896.
 
-El valor máximo de los bienes afectos al patrimonio de la familia será el equivalente a cinco mil veces el salario mínimo diario general vigente en la zona económica de que se trate, en la época en que se constituya dicho patrimonio.
+El valor máximo de los bienes afectos al patrimonio de la familia será el equivalente a treinta mil veces el salario mínimo diario general vigente en la zona económica de que se trate, en la época en que se constituya dicho patrimonio.
 
 ###### Art. 897.
 
@@ -7965,25 +7967,43 @@ No obstante lo dispuesto en el artículo 1450, el hijo póstumo tendrá derecho 
 
 Testamento Público Simplificado.
 
-> <small>(ADICIONADO, B.O. 6 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE ENERO DE 1996)</small>
 
-Art. 1625 BIS.- Testamento público simplificado es aquel que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda para el adquirente en la misma escritura que consigne su adquisición o el que se otorgue en el mismo documento en que conste su adquisición proveniente de enajenaciones realizadas con dependencias o entidades de la Administración Pública o en acto posterior, de conformidad con lo siguiente:
+Art. 1625 BIS.- Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda para el adquiriente en la misma escritura que consigne su adquisición o el que se otorgue en el mismo documento en que conste su adquisición proveniente de enajenaciones realizadas con Dependencias o entidades de la Administración Pública Estatal o Federal o en acto posterior, de conformidad con lo siguiente:
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 1995)</small>
 
 I.- Que el precio del inmueble o su valor de avalúo catastral no exceda del equivalente a veinticinco veces el salario mínimo general vigente en la zona económica del lugar de su ubicación, elevado al año, al momento de la adquisición;
 
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 1995)</small>
+
 II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por los incapaces, e imprimirán su huella digital;
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 1995)</small>
 
 III.- Si hubiere pluralidad de adquirentes del inmueble, cada copropietario podrá instituir uno o más legatarios respecto de su porción.
 
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 1995)</small>
+
 Cuando el inmueble vaya a formar parte o se encuentre dentro del fondo del régimen de sociedad legal a que se encuentre sujeto el matrimonio, será necesaria la concurrencia de ambos cónyuges para la institución del legatario o legatarios.
+
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 1995)</small>
 
 Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda.
 
-En los supuestos a que se refiere este artículo no se aplicará los dispuesto por el artículo 1371 de este Código;
+> <small>(ADICIONADO, B.O. 6 DE JULIO DE 1995)</small>
+
+En los supuestos a que se refiere este artículo no se aplicará los dispuesto por el artículo 1371 de este Código.
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 1995)</small>
 
 IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
 
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 1995)</small>
+
 V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1794, 1876 y demás relativos de este Código; y
+
+> <small>(ADICIONADA, B.O. 6 DE JULIO DE 1995)</small>
 
 VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 835 BIS del Código de Procedimientos Civiles.
 
@@ -14691,7 +14711,7 @@ Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas o
 
 Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso o plazo, incumbe al comodatario.
 
-El comandante (sic) podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o sí éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
+El comandante (sic) odante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o sí éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
 
 ###### Art. 2785.
 
@@ -16107,7 +16127,7 @@ El cumplimiento voluntario de las deudas de juego o apuesta lícitos sobrepasand
 
 ###### Art. 3056.
 
-La deuda de juego o de apuesta prohibidos no puede compararse ni ser convertida por novación en una obligación civilmente eficaz.
+La deuda de juego o de apuesta prohibidos no puede comparar ni ser convertida por novación en una obligación civilmente eficaz.
 
 ###### Art. 3057.
 
@@ -18510,3 +18530,17 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Todas aquellas personas que adquirieron predios provenientes de enajenaciones de las dependencias y entidades de la Administración Pública podrán designar en escritura complementaria, el o los beneficiarios, en los términos de esta Ley, a través de Notario Público o ante la Comisión Estatal de Bienes y Concesiones de la Secretaría de Finanzas.
+
+B.O. 4 DE ENERO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado y deroga las disposiciones que se opongan a la aplicación de la presente Ley.
+
+###### ARTICULO SEGUNDO.
+
+Los procedimientos que se encuentren en trámite relativos a la constitución, ampliación, disminución o extinción del patrimonio de la familia, se continuarán hasta su total terminación, tomando en consideración lo previsto en los artículos que se reforman.
+
+###### ARTICULO TERCERO.
+
+Todas aquéllas personas que adquirieron predios provenientes de enajenaciones de las dependencias y entidades de la Administración Pública Estatal y Federal podrán designar en escritura complementaria, él o los beneficiarios, en los términos del Artículo 1625 Bis del Código Civil para el Estado de Sonora, a través de Notario Público o ante la Comisión Estatal de Bienes y Concesiones o ante las oficinas registrales jurisdiccionales de la Dirección General de Servicios Registrales del Instituto Catastral y Registral de la Secretaría de Finanzas.
