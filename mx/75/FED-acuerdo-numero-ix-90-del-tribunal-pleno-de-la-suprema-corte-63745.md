@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-ix-90-del-tribunal-pleno-de-la-suprema-corte-637
 country: "mx"
 rank: "acuerdo"
 publication_date: "1990-07-17"
-last_updated: "1990-07-17"
+last_updated: "1990-08-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63745&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1990-07-10"
 
 ACUERDO No. IX/90 DEL TRIBUNAL EN PLENO DEL DIA DIEZ DE JULIO DE MIL NOVECIENTOS NOVENTA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO, DEL ACUERDO No. XVIII/90 DEL TRIBUNAL EN PLENO DEL DIA VEINTIDOS DE AGOSTO DE MIL NOVECIENTOS NOVENTA, PUBLICADO EN EL S.J.F., TOMO VI, PRIMERA PARTE, JULIO A DICIEMBRE DE 1990, PAGINA 313, A PARTIR DEL VEINTISIETE DE AGOSTO DE MIL NOVECIENTOS NOVENTA EL PRESENTE ORDENAMIENTO DEJARA DE SURTIR LOS EFECTOS CORRESPONDIENTES.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: SIN EFECTO.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 17 de julio de 1990.
 
@@ -45,7 +47,7 @@ PRIMERO.- Se fija el día primero de agosto del mil novecientos noventa como fec
 
 SEGUNDO.- Los nuevos asuntos que la Oficina de Correspondencia Común reciba del primero al treinta y uno de agosto de mil novecientos noventa, serán del conocimiento del Tercer Tribunal Colegiado en Materia Penal del Primer Circuito, con residencia en la ciudad de México.
 
-TERCERO.- A partir del tres de septiembre de mil novecientos noventa la oficina de Correspondencia Común de los Tribunales Colegiados Primero, Segundo y Tercero en Materia Penal del Primer Circuito, con residencia en la ciudad de México, turnará los asuntos terminados en uno, cuatro y siete al Primero; los terminados en dos, cinco y ocho al Segundo; y los terminados en tres, seis y nueve al Tercero, en los terminados en cero, se atenderá el número anterior.
+TERCERO.- A partir del tres de septiembre de mil novecientos noventa la oficina de Correspondencia Común de los Tribunales Colegiados Primero, Segundo y Tercero en Materia Penal del Primer Circuito, con residencia en la ciudad de México, turnará los asuntos terminados en uno, cuatro y siete al Primero; los terminados en dos, cinco y ocho al Segundo; y los terminados en tres, seis y nueve al Tercero, en los terminos en cero, se atenderá el número anterior.
 
 TRANSITORIOS:
 
@@ -60,3 +62,15 @@ LIC. JOSE JAVIER AGUILAR DOMINGUEZ, SRIO. GRAL. DE ACUERDOS DE LA SUPREMA CORTE 
 CERTIFICA:
 
 Que este acuerdo IX/90, relativo a la fijación de la fecha de iniciación de funcionamiento y reglas de distribución de asuntos del Tercer Tribunal Colegiado en Materia Penal del Primer Circuito, con residencia en la ciudad de México, fue emitido por el Tribunal Pleno en Sesión Privada el martes diez de julio de mil novecientos noventa, por unanimidad de veinte votos de los señores ministros: Presidente Carlos del Río Rodríguez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, Samuel Alba Leyva, Mariano Azuela Güitrón, Salvador Rocha Díaz, Noé Castañón León, Felipe López Contreras, Luis Fernández Doblado, Clementina Gil de Lester, Santiago Rodríguez Roldán, José Martínez Delgado, José Antonio Llanos Duarte, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Carlos García Vázquez, Sergio Hugo Chapital Gutiérrez, Juan Díaz Romero y Ulises Schmill Ordóñez. México, Distrito Federal, a once de julio de mil novecientos noventa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F., TOMO VI, PRIMERA PARTE, JULIO A DICIEMBRE DE 1990, PAGINA 313.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A partir del veintisiete de agosto de mil novecientos noventa, el Acuerdo Plenario número IX/90, de diez de julio de mil novecientos noventa, dejará de surtir los efectos correspondientes.
+
+TERCERO.- La Comisión de Gobierno y Administración y el ministro inspector de los tribunales de Circuito comprendidos en este acuerdo, resolverán cualquier cuestión que pudiera suscitarse.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación, y hágase del conocimiento de los Tribunales Colegiados Primero, Segundo y Tercero en Materia Penal, y de los Tribunales Unitarios Primero, Segundo y Tercero del Primer Circuito, con residencia en la ciudad de México, para su cumplimiento, y de los juzgados del Distrito en Materia Penal en el Distrito Federal, con sede en la ciudad de México, para su conocimiento.
