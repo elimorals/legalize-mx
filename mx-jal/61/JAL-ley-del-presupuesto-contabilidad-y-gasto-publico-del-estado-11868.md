@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "1998-01-20"
+last_updated: "1999-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -205,9 +205,11 @@ En el caso de que alguna de las Dependencias o Entidades que en términos de est
 
 La Secretaría formulará el proyecto de presupuesto de Egresos del Gobierno del Estado en base a las directrices del titular del Poder Ejecutivo y a los anteproyectos de las unidades presupuestales y los preceptos contenidos en la presente ley.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 32.
 
-Dentro del Presupuesto de Egresos se considerarán como Unidades Presupuestales a los Poderes Legislativo y Judicial, así como a las Dependencias y Entidades del Poder Ejecutivo que tengan asignación financiera directa para el ejercicio de sus funciones. De lo anterior se exceptúan las Entidades cuya asignación financiera se realice por conducto de una Unidad Presupuestal que funja como coordinadora de sector. La Secretaría podrá proponer al titular del Poder Ejecutivo del Estado, la integración como Unidades Presupuestales en el Presupuesto, rubros distintos a los mencionados anteriormente, que por su importancia así lo justifiquen.
+Dentro del Presupuesto de Egresos se considerarán como Unidades Presupuestales a los Poderes Legislativo y Judicial, así como a las Dependencias y Entidades del Poder Ejecutivo que tengan asignación financiera directa para el ejercicio de sus funciones o aquellas que por su trascendencia deban ser consideradas como tales. De lo anterior se exceptúan las Entidades cuya asignación financiera se realice por conducto de una Unidad Presupuestal que funja como coordinadora de sector. La Secretaría podrá proponer al titular del Poder Ejecutivo del Estado, la integración como Unidades Presupuestales, de otros rubros distintos a los mencionados anteriormente, que por su importancia así lo justifiquen, para lo cual se requerirá la aprobación del Congreso del Estado.
 
 ###### Artículo 33.
 
@@ -301,35 +303,59 @@ Las Dependencias y Entidades que conforman las unidades presupuestales, no podr�
 
 El Congreso del Estado en pleno o a través de sus comisiones, podrá requerir del Titular de la Secretaría los datos e informes por escrito que sean necesarios para la mejor comprensión de las proposiciones contenidas en la iniciativa del presupuesto de Egresos, cuando el caso lo amerite, solicitará la comparecencia del mismo o de cualquiera de los titulares de las Unidades Presupuestales, Dependencias y Entidades para que aclaren las previsiones propuestas.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 46.
 
-Aprobado el presupuesto de Egresos del Estado, éste regirá para el ejercicio Fiscal que corresponda. Cuando por la aplicación de leyes, decretos o acuerdos posteriores a la aprobación del presupuesto impliquen erogaciones no autorizadas, el titular del Poder Ejecutivo, podrá someter a la consideración del Congreso del Estado, las iniciativas de reforma respectivas.
+Aprobado el presupuesto de Egresos del Estado, éste regirá para el ejercicio fiscal que corresponda. Cuando por la aplicación de leyes, decretos o acuerdos posteriores a la aprobación del presupuesto impliquen erogaciones no autorizadas, el titular del Poder Ejecutivo, deberá someter a la consideración del Congreso del Estado, las iniciativas de reforma respectivas, acompañadas de la opinión de la Secretaría sobre la viabilidad financiera de la propuesta.
 
-> <small>(F. DE E., P.O. 1 DE AGOSTO DE 1998)</small>
+En caso de que para el día 31 de diciembre no sea aprobado el Presupuesto de Egresos correspondiente, se aplicará el ejercido el año inmediato anterior, incluyendo sus modificaciones.
 
-En caso de para el día 31 de diciembre no sea aprobado el Presupuesto de egresos correspondiente, se aplicará el ejercido el año inmediato anterior, incluyendo sus modificaciones.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 47.
 
 A toda iniciativa de modificación al Presupuesto de Egresos que presente el Titular del Poder Ejecutivo al Congreso del Estado, que represente aumento del gasto público, deberá acompañarse la previsión de ingresos necesarios para sufragarlo.
 
-El Titular del Poder Ejecutivo del Estado, estará facultado para que previa petición de las Dependencias y Entidades, de manera excepcional, y una vez evaluado por la Secretaría, incorpore al Presupuesto de Egresos partidas presupuestales, siempre y cuando no se rebase con ello los techos financieros autorizados para cada capítulo por el Congreso del Estado, ni se altere el equilibrio presupuestal.
+El Titular del Poder Ejecutivo del Estado, estará facultado para que previa petición de las Dependencias y Entidades, de manera excepcional, y una vez evaluado por la Secretaría, incorpore al Presupuesto de Egresos partidas presupuestales, observando desde luego, para dotarlas de recursos, las normas relativas a la transferencia de recursos entre partidas presupuestales y siempre y cuando no se rebase con ello los techos financieros autorizados para cada capítulo por el Congreso del Estado, ni se altere el equilibrio presupuestal.
 
 ###### Artículo 48.
 
 Cuando las asignaciones fijadas en el presupuesto de Egresos resulten insuficientes para el cumplimiento de las funciones de las Unidades Presupuestales, las Dependencias y Entidades interesadas solicitarán a la Secretaría que se analice la factibilidad de proponer al Ejecutivo la formulación de iniciativas de reformas al presupuesto, observando lo dispuesto en los dos preceptos anteriores.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 49.
 
-El Titular del Poder Ejecutivo del Estado, cuidará en todo tiempo por conducto de la "Secretaría", que la aplicación de los recursos contenida en el presupuesto, cumpla de la manera más eficaz posible con el desarrollo de la programación oficial, evitando su uso inadecuado o deficiente, por lo que en casos de conveniencia general y previa comprobación de la disponibilidad de saldo, de acuerdo con los compromisos registrados por parte de la Secretaría, éste podrá autorizar las transferencias entre las partidas que a su juicio se justifiquen.
+El Titular del Poder Ejecutivo del Estado, cuidará en todo tiempo por conducto de la Secretaría, que la aplicación de los recursos contenida en el presupuesto, cumpla de la manera más eficaz posible con el desarrollo de la programación oficial, evitando su uso inadecuado o deficiente; por lo que en casos de conveniencia general, previa comprobación de la disponibilidad de saldo, de acuerdo con los compromisos registrados por parte de la Secretaría, el propio titular del Poder Ejecutivo o el Secretario de Finanzas podrán autorizar las transferencias entre las partidas que a su juicio se justifiquen conforme a las siguientes reglas:
+
+I. Se permiten las transferencias entre partidas presupuestales siempre y cuando en su conjunto no rebasen el 10% de los recursos presupuestados en la partida de origen;
+
+II. La partida de origen no debe ser partida de ampliación automática;
+
+III. A las partidas con destino a "Servicios Personales" podrán hacerse transferencias en los términos de la fracción I, exclusivamente cuando se destinen a educación, salud e inversión pública, aún cuando la partida de origen sea de ampliación automática;
+
+IV. Las transferencias entre partidas presupuestales de una misma unidad que conforme a las reglas anteriores se efectúen, se podrán aprobar por acuerdo del Secretario de Finanzas previa justificación del titular de la dependencia;
+
+V. Las transferencia (sic) entre partidas contenidas en distintas unidades presupuestales que conforme a las reglas anteriores se realicen, deberán ser aprobadas por el titular del Poder Ejecutivo del Estado previa consulta del titular de la dependencia de la partida de origen y mediando justificación del titular de la dependencia receptora de recursos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 50.
 
-Para los efectos del artículo anterior, las Dependencias y Entidades solicitarán al titular del Poder Ejecutivo por conducto de la Secretaría y justificando la medida, las transferencias entre partidas que consideren indispensables.
+Para los efectos del artículo anterior, las Dependencias y Entidades solicitarán a la propia Secretaría o al titular del Poder Ejecutivo por medio de la Secretaría, según el caso, las transferencias entre partidas que consideren indispensables, justificando la medida.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 51.
 
-Excepcionalmente, cuando la disponibilidad de recursos rebase la cobertura del gasto autorizado por el presupuesto, el titular del Poder Ejecutivo podrá aplicar el remanente, en forma directa al cumplimiento de la programación oficial, dando prioridad a aquellas que se consideren estratégicas, sin perjuicio de la revisión, glosa y control que deba practicar el Poder Legislativo a la Hacienda Pública del Estado, en los términos de lo dispuesto por el artículo 35 fracción IV de la Constitución Política de la entidad.
+En caso de siniestro o desastre que ponga en peligro a la población, sus bienes, los servicios públicos, la planta productiva o el medio ambiente, el titular del Poder Ejecutivo del estado tendrá la facultad para realizar de inmediato las gestiones, modificaciones y ajustes del gasto público que justificadamente lo ameriten a través de las siguientes prevenciones:
+
+I. Crear las partidas presupuestales necesarias en los montos de recursos que permitan poner en marcha los programas pertinentes para resolverlos;
+
+II. Girar instrucciones a las dependencias, tanto de la administración pública, como a los organismos descentralizados para que se integren las partidas de gasto necesarias y suficientes para su ejercicio; y
+
+III. Enviar al Congreso del Estado un informe detallado que justifique el uso de esta facultad debidamente motivado, dentro de los 30 días hábiles siguientes al de las modificaciones presupuestales para su revisión y aprobación en su caso, sin perjuicio de las atribuciones que tiene el Congreso del Estado en materia de cuenta pública.
 
 ## TÍTULO TERCERO. DEL GASTO PÚBLICO
 
@@ -344,6 +370,10 @@ El ejercicio del gasto público estatal comprende el manejo y aplicación de los
 Ningún gasto podrá efectuarse sin partida expresa del presupuesto que lo autorice. Para que proceda una erogación y esta sea lícita, deberá sujetarse al texto y suficiencia de la partida, en caso de duda sobre la partida a afectar, la Secretaría resolverá lo conducente.
 
 Lo dispuesto en este artículo, se aplicará con las salvedades que correspondan a las facultades del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Artículo 53 bis.- En ningún caso y bajo ninguna circunstancia podrán ejercerse recursos públicos en beneficio o perjuicio de la imagen de gobernante o persona, física o jurídica, alguna.
 
 ###### Artículo 54.
 
@@ -364,6 +394,14 @@ El titular del Poder Ejecutivo del Estado, determinará la forma en que deberán
 ###### Artículo 58.
 
 La Secretaría cuidará de la exacta aplicación y ejecución del presupuesto aprobado por el congreso del Estado, debiendo además llevar el registro de los compromisos establecidos, con el objeto de comprobar que la aplicación de los recursos se realice conforme a los programas autorizados y de conformidad con las disposiciones legales vigentes, sin perjuicio de las facultades de Inspección, revisión y comprobación que la Contraloría Estatal y el Congreso de la Entidad tengan al respecto.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+El Titular del Poder Ejecutivo, por conducto de la Secretaría, formulará mensualmente el estado de origen y aplicación de los recursos financieros y tributarios, mismo que se publicará cada mes en el Periódico Oficial "El Estado de Jalisco" y de manera bimestral en uno de los periódicos de mayor circulación en la entidad.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+
+Los Poderes Legislativo y Judicial elaborarán mensualmente los estados de origen y aplicación de sus recursos presupuestales, mismos que se publicarán cada mes en el Periódico Oficial "El Estado de Jalisco".
 
 ###### Artículo 59.
 
@@ -648,3 +686,11 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE DICIEMBRE DE 1999.
+
+Primero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Segundo. El presente Decreto entrará en vigor el día primero de enero del año 2000, previa publicación en el Periódico Oficial "El Estado de Jalisco".
