@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1962-05-12"
+last_updated: "1964-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE AGOSTO DE 1964.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -123,11 +123,11 @@ De los Diputados y de la Instalacion y Funciones del Congreso.
 
 El Congreso se compondrá de siete Diputados electos popular y directamente cada tres años. Al efecto el Estado se dividirá en siete Distritos Electorales, correspondiendo un Diputado Propietario y un Suplente por cada Distrito.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1948)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1964)</small>
 
 ###### Artículo 23.
 
-Los ciudadanos que hayan desempeñado el cargo de Diputado Propietario por más de un año, o siendo suplente (sic) lo hayan ejercido en sustitución del propietario, por el mismo lapso, no podrán ser electos para el PERIODO INMEDIATO.
+Los ciudadanos que hayan desempeñado el cargo de Diputado Propietario no podrán ser electos para el período inmediato. Los Diputados Suplentes podrán ser electos para el período inmediato siempre que no hubieren estado en ejercicio.
 
 ###### Artículo 24.
 
@@ -251,9 +251,9 @@ VI.- Calificar irrevocablemente la elección de sus miembros y resolver las duda
 
 VII.- Erigirse en Colegio Electoral para el escrutinio de votos emitidos en la elección de Gobernador; calificar éstas y declarar electo al ciudadano que hubiere obtenido mayoría de sufragios. En caso de empate, designar de entre los que hubieren obtenido igual número de votos, al que deba desempeñar el Poder Ejecutivo.
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 1964)</small>
 
-III (sic).- Resolver irrevocablemente las dudas y las cuestiones suscitadas con motivo de las elecciones Municipales.
+VIII.- Resolver y calificar las elecciones ordinarias y extraordinarias de los Ayuntamientos del Estado, y resolver las dudas y las cuestiones suscitadas con motivo de las mismas elecciones, irrevocablemente.
 
 (REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -941,7 +941,7 @@ III.- Los Ayuntamientos estarán integrados por cinco miembros excepto el de la 
 
 IV.- Los Ayuntamientos están obligados a rendir anualmente en el mes de septiembre, a la Legislatura, un informe circunstanciado de todos los asuntos que hayan estado a su conocimiento y acerca del estado general de la Municipalidad y a remitir por conducto del Ejecutivo su presupuesto de Egresos e Ingresos a la misma Legislatura.
 
-V.- Los Ayuntamientos califican la elección de sus miembros.
+V.- (DEROGADA, P.O. 22 DE AGOSTO DE 1964)
 
 ###### Artículo 92.
 
@@ -975,11 +975,11 @@ De la Administración Municipal.
 
 El Estado tiene el deber de impartir el servicio público de la Educación Primaria y Superior, conforme a las normas de nuestra Carta Magna, de la presente Constitución Política Local y de las Leyes y Reglamentos relativos a la materia. La Educación Primaria será obligatoria, y gratuita la que imparte el Estado.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1964)</small>
 
 ###### Artículo 98.
 
-La Universidad Popular de Colima, creada por el Estado el 16 de Septiembre de 1940 se destina a fines de servicio público dentro del campo de la cultura superior, pugnando porque la enseñanza de las profesiones se imparta con el espíritu de formar técnicos y profesionistas al servicio de la colectividad y prestando la mayor atención en la investigación científica y el descubrimiento de técnicas más eficaces, para coadyuvar al aumento de la capacidad productiva de la Nación.
+La Universidad de Colima, es un organismo público, descentralizado, con personalidad jurídica propia, capacidad para adquirir y administrar bienes y que tiene por fines impartir la enseñanza preparatoria y la profesional, en sus niveles medio y superior; fomentar la investigación científica y social, principalmente en relación con los problemas estatales y nacionales, y extender con la mayor amplitud, los beneficios de la cultura superior.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1942)</small>
 
@@ -991,11 +991,11 @@ Los Establecimientos Particulares de Enseñanza podrán funcionar de acuerdo con
 
 La Ley fijará los términos en que deba impartirse la enseñanza, así como los lugares en donde hayan de establecerse las escuelas y la categoría de éstas.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1964)</small>
 
 ###### Artículo 101.
 
-Para poder ser ejercidas en el Estado la Abogacía, Ingeniería, Medicina, Obstetricia, Farmacia, Química y Odontología, se requiere título oficial del Estado o legalmente reconocido. Serán sancionados quienes ejerzan las expresadas profesiones sin el título correspondiente.
+El ejercicio de las profesiones en el Estado de Colima se regirá por las disposiciones contenidas en la Ley Reglamentaria correspondiente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 1942)</small>
 
@@ -1019,7 +1019,9 @@ De la Educación Pública.
 
 El Estado se dividirá para su administración Política y Judicial en nueve Municipios, teniendo por cabeceras (sic) cada uno la población que lleva su nombre y son los siguientes: Colima, Manzanillo, Villa de Alvarez, Minatitlán, Comala, Tecomán, Ixtlahuacán, Coquimatlán y Cuauhtémoc.
 
-Tratándose de elecciones para Diputados Propietarios y Suplentes al Congreso Local, los Municipios de Villa de Alvarez y Minatitlán, formarán un solo Distrito Electoral, así como también los Municipios de Tecomán e Ixtlahuacán.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 1964)</small>
+
+Tratándose de elecciones para Diputados Propietarios y Suplentes al Congreso Local, los Municipios de Villa de Alvarez y Minatitlán, formarán un solo Distrito Electoral, así también los Municipios de Tecomán e Ixtlahuacán. A su vez, el Municipio de Cuauhtémoc y la Zona Rural del Municipio de Colima, integrarán un solo Distrito Electoral.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1949)</small>
 
@@ -1692,3 +1694,7 @@ Este Decreto entrará en vigor el día siguiente al de su publicación en el Per
 P.O. 12 DE MAYO DE 1962.
 
 Este Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 1964.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
