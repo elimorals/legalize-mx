@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-xv-93-del-tribunal-pleno-de-la-suprema-corte-630
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-11-26"
-last_updated: "1993-11-26"
+last_updated: "1995-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63010&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-11-16"
 
 ACUERDO No. XV/93 DEL TRIBUNAL EN PLENO DEL DIA DIECISEIS DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y TRES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1995.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 26 de noviembre de 1993.
 
@@ -43,11 +43,13 @@ ACUERDO:
 
 PRIMERO.- Se fija el trece de diciembre de mil novecientos noventa y tres como fecha en la que iniciará su funcionamiento el nuevo Juzgado de Distrito en el Estado de México, con residencia en la ciudad de Toluca, y, en los términos del punto Primero, inciso A), del Acuerdo Plenario número 4/1992, de tres de noviembre de mil novecientos noventa y dos, con igual jurisdicción a la de los dos que ya funcionan actualmente en dicha ciudad.
 
-SEGUNDO.- El nuevo órgano judicial será el Juzgado Tercero de Distrito en el Estado de México, con residencia en la ciudad de Toluca.
+SEGUNDO.- El nuevo órgano judicial será el Juzgado Tercero de Distrito en el estado de México, con residencia en la ciudad de Toluca.
 
-A partir del trece de diciembre de mil novecientos noventa y tres, los juzgados que actualmente son Tercero y Noveno de Distrito con residencia en el municipio de Naucalpan de Juárez pasarán a ser, respectivamente, los Juzgados Quinto y Sexto de Distrito en el Estado de México, con residencia en el municipio de Naucalpan de Juárez; el que actualmente es Quinto de Distrito con residencia en Tlalnepantla pasará a ser el Juzgado Séptimo de Distrito en el Estado de México, con residencia en Tlalnepantla; los que actualmente son Sexto y Séptimo de Distrito con residencia en Ciudad Nezahualcóyotl, pasarán a ser, respectivamente, los Juzgados Octavo y Noveno de Distrito en el Estado de México, con residencia en Ciudad Nezahualcóyotl.
+> <small>(REFORMADO POR LOS PUNTOS NOVENO Y SEXTO DEL ACUERDO GENERAL NUMERO 14/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE NOVIEMBRE DE 1995)</small>
 
-TERCERO.- Las demandas de amparo y demás asuntos no penales que se presenten del trece al diecinueve de diciembre de mil novecientos noventa y tres, corresponderán al Juzgado Tercero de Distrito en el estado de México, con residencia en la ciudad de Toluca.
+Los demás juzgados de Distrito en el Estado de México conservarán sus actuales jurisdicciones territoriales, competencias y sistemas de turno. Sus denominaciones serán las siguientes: los Juzgados de Distrito Cuarto, Quinto y Sexto en el Estado de México, con sede en el municipio de Naucalpan de Juárez, pasarán a ser los Juzgados de Distrito Primero, Segundo y Tercero en el Estado de México, con residencia en dicho municipio; el Juzgado Séptimo de Distrito en el Estado de México, con sede en Tlalnepantla, será el Juzgado Cuarto de Distrito en el Estado de México, con residencia en Tlalnepantla; y, los Juzgados de Distrito Octavo y Noveno en el Estado de México, con sede en Ciudad Nezahualcóyotl, pasarán a ser los Juzgados de Distrito Quinto y Sexto en el Estado de México, con residencia en la referida ciudad.
+
+TERCERO.- Las demandas de amparo y demás asuntos no penales que se presenten del trece al diecinueve de diciembre de mil novecientos noventa y tres, corresponderán al Juzgado Tercero de Distrito en el Estado de México, con residencia en la ciudad de Toluca.
 
 Cuando se presente un amparo en contra de actos de uno de los tres Juzgados de Distrito que se halle en turno, conocerá del mismo uno de los otros dos, mediante turno especial que guarde la equidad de ingresos.
 
@@ -74,3 +76,17 @@ TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Que este Acuerdo XV/93, relativo a la determinación de la fecha de iniciación de funcionamiento del nuevo Juzgado de Distrito en el Estado de México, con residencia en la ciudad de Toluca, y de la nueva numeración de los Juzgados de Distrito en el Estado de México, fue emitido por el Tribunal Pleno en Sesión Privada de dieciséis de noviembre de mil novecientos noventa y tres, por unanimidad de diecinueve votos de los señores ministros: Presidente Ulises Schmill Ordóñez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, José Trinidad Lanz Cárdenas, Miguel Montes García, Noé Castañón León, Felipe López Contreras, Luis Fernández Doblado, Victoria Adato Green, Samuel Alba Leyva, Ignacio Moisés Cal y Mayor Gutiérrez, Clementina Gil de Lester, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Carlos García Vázquez, Mariano Azuela Güitrón, Juan Díaz Romero y Sergio Hugo Chapital Gutiérrez.- México, Distrito Federal, a dieciséis de noviembre de mil novecientos noventa y tres.
 
 Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Que esta fotocopia constante de cuatro fojas útiles, concuerda fiel y exactamente con el original del Acuerdo número XV/93, que obra en el cuaderno de las actas relativas a las sesiones del Pleno de este alto Tribunal, y se certifica a fin de dar cumplimiento a lo ordenado en el punto tercero transitorio del acuerdo correspondiente.- México, Distrito Federal, a diecisiete de noviembre de mil novecientos noventa y tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 21 DE NOVIEMBRE DE 1995.
+
+PRIMERO.- Este Acuerdo entrará en vigor el primero de diciembre de mil novecientos noventa y cinco.
+
+SEGUNDO.- Se modifican los Acuerdos 1/1993, XV/93, I/94 y IX/94, todos del Pleno de la Suprema Corte de Justicia de la Nación, de fechas trece de enero y dieciséis de noviembre de mil novecientos noventa y tres, trece de enero y siete de abril de mil novecientos noventa y cuatro, respectivamente, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier problema administrativo que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
+
+QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
