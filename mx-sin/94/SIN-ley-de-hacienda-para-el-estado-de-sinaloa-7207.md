@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1983-01-31"
+last_updated: "1983-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1983.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -93,11 +93,29 @@ ART. 20.- La Dirección de la política Hacendaria del Estado corresponde al Gob
 
 ART. 21.- Son Autoridades Fiscales, además del Gobernador del Estado:
 
-I.- El Secretario de Finanzas;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
 
-II.- El Sub-Secretario de Ingresos; y,
+I.- El Secretario de Hacienda Pública y Tesorería;
 
-III.- Las demás autoridades a las que esta Ley y demás ordenamientos legales confieran atribuciones en materia Hacendaria.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+
+II.- El Sub-Secretario de Hacienda Pública y Tesorería;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+
+III.- El Sub-Secretario de Ingresos;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+
+IV.- El Director de Fiscalización;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+
+V.- El Director de Administración y Control Fiscal; y,
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 1983)</small>
+
+VI.- Las demás autoridades a que esta Ley y demás ordenamientos legales confieren atribuciones en materia hacendaria.
 
 ART. 22.- Son órganos auxiliares de las Autoridades Fiscales, todas las autoridades administrativas, judiciales y municipales del Estado, las que deberán prestar la colaboración que aquellas les soliciten, de acuerdo con la Legislación Fiscal.
 
@@ -5320,3 +5338,9 @@ P.O. 31 DE ENERO DE 1983.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 16 DE MAYO DE 1983.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
