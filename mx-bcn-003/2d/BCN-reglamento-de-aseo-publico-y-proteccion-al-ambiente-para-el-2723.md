@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-aseo-publico-y-proteccion-al-ambiente-para-el-272
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-03-10"
-last_updated: "1994-02-18"
+last_updated: "1994-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO DE ASEO PUBLICO Y PROTECCION AL AMBIENTE PARA EL MUNICIPIO DE TECATE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1994.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el martes 10 de marzo de 1992.
 
@@ -244,11 +244,11 @@ Los fraccionamientos que no hayan sido formalmente recibidos por el Ayuntamiento
 
 ### CAPITULO VII. RECOLECCION DE RESIDUOS SOLIDOS NO DOMESTICOS
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 31.
 
-Todo residuo sólido no doméstico que resulte de las actividades comerciales, industriales y de servicio, de las instituciones de servicio público, centros de espectáculos y similares, cuyos desechos excedan de 25 kilógramos a la semana, así como los de todas las actividades que se desarrollen en la vía pública, deberán ser transportados por los responsables de estos giros, a los sitios que les fije el Ayuntamiento y deberán obtener el recibo correspondiente, o en su caso deberán hacer uso del servicio especial del Departamento de Aseo, cubriendo la cuota que establece el tabulador correspondiente, conforme a la ley de Ingresos vigente.
+Todo residuo sólido no doméstico que resulte de las actividades comerciales, industriales y de servicios, de las instituciones de servicio público, centros de espectáculos, comerciantes ambulantes y ambulantes semifijos, deberán ser transportados y depositados por los responsables de esos giros, a los sitios de confinamiento que les fije el Ayuntamiento debiendo obtener el comprobante correspondiente, o en su caso deberán hacer uso del servicio especial del Departamento de Aseo Público del Municipio, cubriendo la tarifa o cuota que establezca la Ley de Ingresos del Ejercicio Fiscal correspondiente y a falta de este, el que determine el Ayuntamiento.
 
 ###### ARTICULO 32.
 
@@ -1221,3 +1221,17 @@ Rúbrica.
 P.O. 18 DE FEBRERO DE 1994.
 
 La presente Reforma al Reglamento de Aseo Público y Protección al Ambiente, entrará en vigor al siguiente día de su publicación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE JULIO DE 1994.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO: Se deroga el contenido del Artículo 31 del Reglamento de Aseo Público y Protección al Ambiente para el Municipio de Tecate, Baja California, que había sido publicado en el Periódico Oficial del Gobierno del Estado de fecha 18 de Febrero de 1994.
+
+TERCERO: Publiquese este Acuerdo en el periódico Oficial, Orgáno Oficial de Publicaciones del Gobierno del Estado.
+
+CUARTO: Este acuerdo entrará en vigor al día siguiente de su piblicación en el periódico Oficial del Gobierno del Estado.
+
+QUINTO: CUMPLASE.
