@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-12552"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-25"
-last_updated: "2001-07-17"
+last_updated: "2003-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 
 LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2003.
 
-Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 25 de julio de 1997.
+Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de julio de 1997.
 
 AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
 
@@ -2455,17 +2455,15 @@ VI.- La distribución equitativa y proporcional del presupuesto de egresos, en l
 
 ###### Artículo 198.
 
-Durante el mes de septiembre de cada año, la Tesorería municipal recibirá de las dependencias y entidades de la administración pública municipal, sus respectivos anteproyectos de presupuesto, los cuales servirán de base para el proyecto que formule la Tesorería municipal antes del diez de noviembre.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2003)
 
 ###### Artículo 199.
 
-El presupuesto deberá ser aprobado por mayoría calificada del Ayuntamiento. En el acta que se levante, se asentarán las cifras que por cada programa y ramo se hayan autorizado.
-
-El Ayuntamiento a más tardar el quince de diciembre, remitirá una copia autorizada del presupuesto con todos sus anexos al Congreso del Estado para su registro y publicación de un resumen del mismo, en el Periódico Oficial del Gobierno del Estado.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2003)
 
 ###### Artículo 200.
 
-Para cualquier modificación al presupuesto, se deberá seguir el mismo procedimiento que para su aprobación y ser sancionado por mayoría calificada del Ayuntamiento, remitiendo copia autorizada al Congreso del Estado, para los efectos de su competencia.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PUBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2003)
 
 ###### Artículo 201.
 
@@ -2766,3 +2764,17 @@ Artículo Cuarto.- Los Ayuntamientos deberán remitir al Congreso del Estado su 
 Artículo Quinto.- En los municipios que aún no cuenten con Juzgados Administrativos Municipales, los particulares afectados podrán acudir directamente ante el Tribunal de lo Contencioso Administrativo, para los efectos del último párrafo del artículo 206.
 
 Artículo Sexto.- Los Ayuntamientos contarán con un plazo de seis meses, contados a partir de la entrada en vigor del presente decreto, para adecuar su normatividad al contenido de la Ley.
+
+P.O. 12 DE AGOSTO DE 2003.
+
+Artículo Primero.- La presente Ley entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, salvo lo dispuesto en los Capítulos Primero, Tercero y Cuarto del Título Cuarto, y el Capítulo Único del Título Quinto, del presente decreto, que entrarán en vigor el 1º primero de enero del año 2004 dos mil cuatro.
+
+La obligación del Congreso del Estado de emitir a más tardar el quince de octubre de cada año, las recomendaciones de montos máximos de las remuneraciones de los integrantes de los Ayuntamientos, prevista en el artículo 81 del presente decreto, entrará en vigor el 1º primero de enero del año 2004 dos mil cuatro.
+
+Artículo Segundo.- Los Poderes Ejecutivo, Legislativo y Judicial, los Organismos Autónomos y los Ayuntamientos deberán emitir, en el ámbito de su competencia, las disposiciones administrativas necesarias para el cumplimiento de la presente Ley, en un plazo de noventa días contados a partir del inicio de la vigencia de la misma.
+
+Artículo Tercero.- Para efectos de los artículos 79 y 80 de esta Ley, el Comité de Estructuración Salarial tendrá la integración y funcionamiento del Comité Técnico de Reestructuración Salarial previsto en el artículo octavo transitorio de la Ley del Presupuesto General de Egresos del Estado de Guanajuato, para el Ejercicio Fiscal del 2003.
+
+Artículo Cuarto.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Guanajuato, expedido mediante el Decreto número 119 de la Quincuagésima Tercera Legislatura, y publicado en el Periódico Oficial del Gobierno del Estado número 71, segunda parte de fecha 4 cuatro de septiembre de 1987 mil novecientos ochenta y siete.
+
+Artículo Quinto.- Se derogan los artículos 198, 199 y 200 de la Ley Orgánica Municipal para el Estado de Guanajuato, así como todas las disposiciones que se opongan a la presente Ley.
