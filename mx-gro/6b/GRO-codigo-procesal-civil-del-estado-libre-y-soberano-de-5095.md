@@ -4,7 +4,7 @@ identifier: "GRO-codigo-procesal-civil-del-estado-libre-y-soberano-de-5095"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-26"
-last_updated: "1993-03-26"
+last_updated: "1995-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 364
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 26 de marzo de 1993.
 
@@ -5671,7 +5671,11 @@ II. Mandará pedir informes al archivo de notarías y al Registro Público de la
 
 III. Mandará recibir información testimonial supletoria cuando aparezca que sólo existen herederos colaterales, concubinario o concubina; y
 
-IV. Citará a los herederos y al Ministerio Público a una junta que se celebrará a los treinta días siguientes, para que en ella justifiquen sus derechos a la sucesión legítima los que no lo hubieren hecho antes, se haga la declaratoria de herederos y se designe albacea o interventor en su caso.
+IV. Citará a los herederos y al Ministerio Público a una junta que se celebrará a los treinta días siguientes, para que en ella justifiquen sus derechos a la sucesión legítima los que no lo hubieren hecho antes, se haga la declaratoria de herederos y se designe albacea o interventor en su caso;
+
+> <small>(ADICIONADA, P.O. 27 DE ENERO DE 1995)</small>
+
+V. Mandará notificar a la Beneficencia Pública para que conozca e intervenga, antes de que se dicte auto declaratorio de heredero, y en caso de que exista oposición sustanciarse conforme a derecho.
 
 ###### Artículo 673.
 
@@ -6662,3 +6666,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 C. CARLOS JAVIER VEGA MEMIJE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 27 DE ENERO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
