@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "1981-12-31"
+last_updated: "1983-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -805,7 +805,9 @@ I.- El monto de las reservas determinado conforme al artículo 53 de esta Ley, s
 
 II.- Las reservas para obligaciones pendientes de cumplir a que se refiere la fracción I del artículo 50, deberán calcularse y registrarse en los términos previstos por dicha fracción.
 
-Si la reserva fue constituida por orden de la Comisión Nacional Bancaria y de Seguros en el caso previsto en la fracción IV del artículo 135 de esta Ley, los productos de la inversión de la reserva quedarán siempre en beneficio del reclamante si el cobro resultare procedente, deduciendo de dichos productos el monto de los intereses que haya pagado la institución de acuerdo a la resolución correspondiente, si éste fuere menor; y
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+Si la reserva fue constituida por orden de la Comisión Nacional Bancaria y de Seguros en el caso previsto en la fracción I inciso c) del artículo 135 de esta Ley, los productos de la inversión de la reserva quedarán siempre en beneficio del reclamante si el cobro resultare procedente, deduciendo de dichos productos el monto de los intereses que haya pagado la institución de acuerdo a la resolución correspondiente, si éste fuere menor; y
 
 III.- La inversión de las reservas y de los incrementos periódicos, deberá ajustarse a las proporciones y demás requisitos que exige esta Ley, y efectuarse en el término que al efecto señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, oyendo la opinión de la Comisión Nacional Bancaria y de Seguros.
 
@@ -1095,9 +1097,9 @@ VI.- Cuando por causas imputables a la institución no aparezca debida y oportun
 
 VII.- Si la institución obra sin consentimiento de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional Bancaria y de Seguros, en los casos en que la ley exija ese consentimiento;
 
-> <small>(F. DE E., D.O.F. 26 DE MARZO DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
-VIII.- Si la institución no constituye, dentro de los diez días de haber sido notificada, las reservas para obligaciones pendientes de cumplir, que se ordenen de acuerdo con lo dispuesto por la fracción IV del artículo 135 de esta Ley; y
+VIII.- Si la institución no constituye, dentro de los diez días de haber sido notificada, las reservas para obligaciones pendientes de cumplir, que se ordenen de acuerdo con lo dispuesto por la fracción I inciso c) del artículo 135 de esta Ley; y
 
 IX.- Si se disuelve, quiebra o entra en estado de liquidación, salvo que el procedimiento respectivo termine por rehabilitación y la Comisión Nacional Bancaria y de Seguros opine favorablemente a que continúe con la concesión.
 
@@ -1473,7 +1475,9 @@ VI.- Cuando por causas imputables a la sociedad no aparezcan debida y oportuname
 
 VII.- Si la sociedad obra sin consentimiento de la Secretaría de Hacienda y Crédito Público o de la Comisión Nacional Bancaria y de Seguros, en los casos en que la Ley exija ese consentimiento;
 
-VIII.- Si la sociedad no constituye, dentro de los diez días de haber sido notificada, las reservas para obligaciones pendientes de cumplir, que se ordenen de acuerdo con lo dispuesto por la fracción IV del artículo 135 de esta Ley; y
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+
+VIII.- Si la sociedad no constituye, dentro de los diez días de haber sido notificada, las reservas para las obligaciones pendientes de cumplir, que se ordenen de acuerdo con lo dispuesto por la fracción I, inciso c) del artículo 135 de esta Ley; y
 
 IX.- Si se disuelve, quiebra o entra en estado de liquidación, salvo que el procedimiento respectivo termine por rehabilitación y la Comisión Nacional Bancaria y de Seguros opine favorablemente a que continúe con la autorización.
 
@@ -1799,7 +1803,7 @@ Si a la terminación del plazo de intervención o antes de él, la sociedad ha r
 
 ### CAPITULO II. De los procedimientos
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 126.
 
@@ -1875,35 +1879,67 @@ Lo dispuesto en este artículo aprovechará lo mismo a las instituciones que a l
 
 ###### ARTICULO 135.
 
-En caso de reclamación contra una institución de seguros, con motivo del contrato de seguro, deberán observarse las siguientes reglas:
+En caso de reclamación contra una institución o sociedad mutualista de seguros, con motivo del contrato de seguros, deberá observarse lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1974)</small>
+I.- Se deberá agotar el procedimiento conciliatorio, cumpliendo las reglas que a continuación se señalan:
 
-I.- El reclamante deberá ocurrir ante la Comisión Nacional Bancaria y de Seguros, la que pedirá un informe detallado a la institución contra la que hubiese presentado reclamación;
+a). El reclamante presentará un escrito ante la Comisión Nacional Bancaria y de Seguros, con el que se correrá traslado a la empresa de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1974)</small>
+La presentación de la reclamación ante la Comisión interrumpirá el plazo establecido en el artículo 81 de la Ley sobre el Contrato de Seguros.
 
-II.- La Comisión Nacional Bancaria y de Seguros citará a las partes a una junta en la que las exhortará a conciliar sus intereses, y si esto no fuera posible, para que voluntariamente y de común acuerdo la designen árbitro. El compromiso arbitral se hará constar en acta ante la citada Comisión.
+b). La empresa de seguros, dentro del término de cinco días contados a partir de aquél en que reciba el traslado, rendirá un informe por escrito a la Comisión Nacional Bancaria y de Seguros en el que responderá en forma detallada respecto a todos y cada uno de los hechos a que se refiere la reclamación, el cual deberá presentarse por conducto de un representante legítimo.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1974)</small>
+c). Al recibir la reclamación, la Comisión ordenará a la empresa de seguros que, dentro del término de diez días, constituya e invierta la reserva específica para obligaciones pendientes de cumplir, a menos de que a juicio de dicha Comisión fuere notoriamente improcedente dicha reclamación.
 
-El juicio arbitral se ajustará a esta Ley y al procedimiento que convencionalmente fijen las partes en acta ante la Comisión Nacional Bancaria y de Seguros, de acuerdo con las disposiciones relativas del Código de Comercio, mismo que se aplicará supletoriamente; a falta de disposición en dicho Código, serán aplicables las del Código de Procedimientos Civiles para el Distrito y Territorios Federales. Sin embargo, no tendrá aplicación lo dispuesto por los artículos 1247 y 1296 del Código de Comercio.
+d). La Comisión citará a las partes a una junta de avenencia, que se realizará dentro de los veinte días contados a partir de la fecha de recibo de la reclamación; si por cualquier circunstancia la junta no puede celebrarse en la fecha indicada, se verificará dentro de los ocho días siguientes.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+Si no comparece la reclamante, se entenderá que no desea la conciliación y que es su voluntad no someter sus diferencias al arbitraje de la Comisión. Si no comparece la empresa de seguros, se aplicarán las sanciones previstas en la fracción VI de este artículo. Sin embargo, en la audiencia relativa, la empresa de seguros podrá argumentar la imposibilidad de conciliar y su voluntad de no someter sus diferencias al arbitraje.
 
-El laudo arbitral no admitirá más recurso o medio de defensa que el juicio de amparo. Todas las demás resoluciones del árbitro en el curso del procedimiento, admitirán como único recurso el de la revocación.
+Si con motivo de no haber comparecido el reclamante a la junta de avenencia, la empresa de seguros solicita autorización a la Comisión para cancelar la reserva que se le hubiere ordenado constituir e invertir conforme al inciso anterior, mediante notificación personal se dará vista al reclamante, a fin de que dentro del término de cinco días manifieste lo que a su interés convenga. Una vez concluido dicho plazo, a solicitud de la empresa de seguros la Comisión, en su caso, le autorizará a cancelar la reserva que se le ordenó constituir.
 
-(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 4 DE FEBRERO DE 1964)
+e). En la junta de avenencia se exhortará a las partes a conciliar sus intereses, y si esto no fuere posible, la Comisión las invitará a que voluntariamente y de común acuerdo la designen árbitro, sea en amigable composición o en juicio arbitral de estricto derecho, a elección de las mismas. El compromiso correspondiente se hará constar en acta que al efecto se levante ante la citada Comisión.
 
-El laudo que condene a una institución de seguros a pagar, le otorgará para ello un plazo de 15 días hábiles. Si no hiciere el pago, la Comisión ejecutará su resolución, para lo cual podrá disponer de las inversiones de las reservas técnicas de la institución.
+f). Las Delegaciones Regionales de la Comisión tramitarán el procedimiento conciliatorio y, en su caso, el procedimiento arbitral escogido por las partes, hasta la formulación del proyecto de laudo.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1974)</small>
+II.- En el juicio arbitral con amigable composición, de manera breve y concisa se fijarán las cuestiones que deberán ser objeto del arbitraje.
 
-III.- Si alguna de las partes no estuviere de acuerdo en designar árbitro a la Comisión Nacional Bancaria y de Seguros, el reclamante podrá ocurrir desde luego ante los tribunales competentes.
+La Comisión resolverá en conciencia y a buena fe guardada, sin sujeción a formalidades especiales pero observando las esenciales del procedimiento. No habrá incidentes y la resolución sólo admitirá aclaración de la misma, a instancia de parte, presentada dentro de los tres días siguientes al de la notificación.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1974)</small>
+III.- El juicio arbitral de estricto derecho se apegará al procedimiento que convencionalmente determinen las partes en acta ante la Comisión, fijando las reglas para tal efecto; aplicándose supletoriamente el Código de Comercio, con excepción de sus artículos 1235, 1247 y 1296; falta de disposición de dicho Código, el Código de Procedimientos Civiles para el Distrito Federal, salvo lo dispuesto por el artículo 617.
 
-IV.- Al recibo de la reclamación de la Comisión Nacional Bancaria y de Seguros ordenará a la institución que constituya e invierta la reserva para obligaciones pendientes de cumplir, a menos que a juicio de dicha Comisión fuere notoriamente inprocedente (sic).
+Las notificaciones relativas al traslado de la reclamación, a la citación a la junta de avenencia, de la demanda y del laudo, deberán hacerse personalmente o por correo certificado con acuse de recibo y surtirán efecto al día siguiente de la notificación.
+
+Con independencia de lo anterior, en el compromiso arbitral de estricto derecho regirán los siguientes términos:
+
+a). Nueve días tanto para la presentación de la demanda, a partir del día siguiente de la celebración del compromiso, así como para producir la contestación a partir del día siguiente del emplazamiento a juicio.
+
+b). La Comisión dentro de los nueve días siguientes al vencimiento del último plazo señalado en el inciso anterior, dictará acuerdo fijando el término que crea suficiente para el ofrecimiento, admisión, recepción y desahogo de las pruebas, no pudiendo exceder de cuarenta días.
+
+c). Diez días comunes a las partes para formular alegatos.
+
+d). Tres días para los demás casos.
+
+Los términos serán improrrogables y se computarán en días hábiles y las notificaciones que no sean personales se harán a las partes por medio de lista que se fijará en los estrados de la Comisión o de la Delegación Regional correspondiente, y empezarán a surtir sus efectos al día siguiente de que sean fijadas.
+
+Una vez concluidos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el procedimiento su curso y se tendrá por perdido el derecho que, dentro de ellos, debió de ejercitarse.
+
+IV.- La Comisión tendrá la facultad de allegarse todos los elementos de juicio que estime necesarios para resolver las cuestiones que se le hayan sometido en arbitraje.
+
+V.- El proyecto de laudo deberá someterse a la consideración del Comité Permanente de la Comisión Nacional Bancaria y de Seguros, para su aprobación.
+
+El laudo que se dicte sólo admitirá como medio de defensa, el juicio de amparo.
+
+Todas las demás resoluciones en el juicio arbitral de estricto derecho, admitirán como único recurso el de revocación.
+
+VI.- El incumplimiento por parte de la empresa de seguros a los acuerdos o resoluciones dictados por la Comisión, en los procedimientos establecidos en el presente artículo, se castigará con multa administrativa que impondrá la Secretaría de Hacienda y Crédito Público de 50 a 100 veces el salario mínimo diario vigente en el Distrito Federal.
+
+VII.- El laudo que condene a una empresa de seguros, le otorgará para su cumplimiento un plazo de 15 días hábiles a partir de su notificación; si no lo efectuare, la Secretaría de Hacienda y Crédito Público impondrá a la empresa una multa hasta por el importe de lo condenado, sin perjuicio de lo previsto en la fracción siguiente.
+
+VIII.- Corresponde a la Comisión la ejecución del laudo que se pronuncie, para lo cual mandará pagar a la persona en cuyo favor se hubiere dictado el laudo, del monto de la reserva constituida e invertida en los términos de la fracción I de este artículo.
+
+Si no fuere suficiente el monto de dicha reserva, la Comisión propondrá a la Secretaría de Hacienda y Crédito Público la disposición de las reservas técnicas que la empresa de seguros tenga constituidas en los términos de Ley, a fin de que la propia Secretaría ordene el remate en bolsa de los valores depositados conforme a esta Ley y si ellos estuvieren afectos a las reservas de la empresa de seguros, ésta deberá reponerlos de acuerdo a lo que establece en esta Ley para la reconstitución de las reservas.
+
+IX.- Si alguna de las partes no estuviere de acuerdo en designar árbitro a la Comisión, el reclamante podrá ocurrir desde luego ante los tribunales competentes.
 
 > <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
 
@@ -1911,15 +1947,15 @@ IV.- Al recibo de la reclamación de la Comisión Nacional Bancaria y de Seguros
 
 En materia jurisdiccional:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
-I.- Los tribunales no darán entrada a demanda alguna contra una institución de seguros, si el actor en ella no afirma bajo protesta de decir verdad, que ante la Comisión Nacional Bancaria y de Seguros se sustanció y agotó el procedimiento conciliatorio a que se refiere la fracción III del artículo anterior.
+I.- Los tribunales no darán entrada a demanda alguna contra una empresa de seguros si el actor en ella no afirma bajo protesta de decir verdad, que ante la Comisión Nacional Bancaria y de Seguros se agotó el procedimiento conciliatorio a que se refiere la fracción I del artículo anterior.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1953)</small>
 
 En cualquier momento en que aparezca que no se agotó el procedimiento conciliatorio, deberá sobreseerse la instancia e imponer al actor las costas originadas por el procedimiento.
 
-> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 1946)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 1946)</small>
 
 II.- La omisión del procedimiento conciliatorio en la vía administrativa constituye además una excepción dilatoria que puede interponerse por la compañía demandada.
 
@@ -2478,3 +2514,13 @@ La presente Ley entrará en vigor el día 1o. de enero de 1982.
 ARTICULO TRIGESIMO.- Se derogan los artículos 70 de la Ley General de Población; 28 de la Ley Federal de Armas de Fuego y Explosivos; 160 párrafos tercero y cuarto de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares; 106 párrafos tercero a noveno de la Ley General de Instituciones de Seguros; 53 de la Ley del Mercado de Valores; 21 último párrafo y 49 de la Ley de Obras Públicas; 2o. de la Ley de Impuestos y Fomento a la Minería; 24 fracción VII de la Ley Reglamentaria del Artículo 27 Constitucional en materia Minera; 78, 203, 204, 205, 206, 207, 208 y 209 de la Ley de Invenciones y Marcas; 27 fracción V de la Leye (sic) sobre Adquisiciones, Arrendamientos y almacenes de la Administración Pública Federal; 14 último párrafo y 38 de la Ley General de Normas y de Pesas y Medidas; 184, 513, 514, 515, 516, 517, 520 y 521 de la Ley de Vías Generales de Comunicación; 18 primer párrafo de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos; 34 fracción VI de la Ley Federal de Derechos de Autor; 17 y 344 del Código Sanitario de los Estados Unidos Mexicanos; 32 fracción VII y 37 penúltimo párrafo de la Ley Federal para el Fomento de la Pesca y 399, 498, 499, 501, 502, 503, 504, 505, 506, 542, 545 párrafos primero y segundo y 546 segundo párrafo del Código Aduanero de los Estados Unidos Mexicanos.
 
 ...
+
+D.O.F. 27 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1o. de enero de 1984.
+
+###### ARTICULO SEGUNDO.
+
+Los juicios arbitrales que al momento de la iniciación de la vigencia del presente Decreto se estén tramitando ante la Comisión Nacional Bancaria y de Seguros conforme a lo dispuesto con el texto anterior del artículo 135 de la Ley General de Instituciones de Seguros, se continuarán conforme a lo dispuesto por éste, pero las partes, de común acuerdo, podrán solicitar a la Comisión Nacional Bancaria y de Seguros que a partir de la fase procesal siguiente a la que se esté desahogando, se apliquen los términos que para el juicio arbitral de estricto derecho señala el artículo 135 que se reforma.
