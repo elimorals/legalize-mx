@@ -4,7 +4,7 @@ identifier: "COL-reglamento-para-el-funcionamiento-del-consejo-consultivo-9210"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-05-26"
-last_updated: "1990-05-26"
+last_updated: "1992-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COL"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DEL CONSEJO CONSULTIVO ESTATAL DE PROTECCION CIUDADANA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1992.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 26 de mayo de 1990.
 
@@ -100,37 +100,17 @@ V.- Ser propuestos por una organización social o una asociación de voluntariad
 
 VI.- No haber sido condenado por ningún delito culposo o hallarse inhabilitado para el ejercicio de función pública.
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 12o.
 
-Los vocales serán nombrados por el Gobernador considerando al Secretario de Programación y Finanzas, al Secretario de la Contraloría, Secretario de Educación, Cultura y Deporte, el Director de Seguridad Pública y Vialidad, Director de la Policía Judicial, Director de Turismo, así como el Representante del Supremo Tribunal de Justicia y los Presidentes Municipales de la Entidad.
+Los Vocales del Consejo serán los señalados en el artículo 3o. del Decreto que crea a dicho organismo.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 13o.
 
-El Gobernador deberá invitar para que sean consejeros a:
-
-I.- Un representante de la Honorable Legislatura del Estado;
-
-II.- Un representante de la Universidad del Estado;
-
-III.- Un representante de los padres de familia;
-
-IV.- Un representante de las asociaciones de turismo;
-
-V.- Un representante del Colegio de Abogados;
-
-VI.- Un representante de los medios de comunicación;
-
-VII.- Representantes de la iniciativa privada;
-
-VIII.- Un representante del sector obrero;
-
-IX.- Un representante del sector campesino;
-
-X.- Un representante del sector popular;
-
-XI.- Un representante del magisterio;
-
-XII.- Representantes de asociaciones de de vecinos y profesionistas.
+Además de los Consejeros mencionados en el artículo 3o. que crea a este organismo, el Gobernador del Estado podrá invitar con tal carácter a los representantes de agrupaciones y organizaciones sociales que tengan interés en participar en las acciones de protección ciudadana.
 
 ### CAPITULO TERCERO.
 
@@ -547,3 +527,11 @@ TRANSITORIOS (SIC)
 UNICO.-El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional "EL ESTADO DE COLIMA".
 
 Sufragio Efectivo. No Reelección.- Colima, Col., a 29 de mayo de 1990.- El Gobernador Constitucional del Estado, LIC. ELlAS ZAMORA VERDUZCO.- Rúbrica.- El Secretario General de Gobierno, LIC. JORGE ARMANDO GAITAN GUDIÑO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE JULIO DE 1992.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado.
+
+SEGUNDO.- El Consejo Consultivo deberá celebrar una sesión, dentro de los treinta días siguientes a la entrada en vigor de Este decreto.
