@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1972-01-11"
+last_updated: "1974-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE AGOSTO DE 1974.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -998,37 +998,21 @@ Para la prescripción de las acciones penales, se tendrá como base el término 
 
 ## TITULO SEXTO. De los menores
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
-
 ###### ARTICULO 119.
 
-Los menores de dieciocho años que cometan infracciones a las leyes penales, serán internados por el tiempo que sea necesario para su corrección educativa.
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974)
 
 ###### ARTICULO 120.
 
-Según las condiciones peculiares del menor, y la gravedad del hecho, apreciadas en lo conducente, como lo dispone el artículo 52, las medidas aplicables a menores serán apercibimiento, e internamiento en la forma que sigue:
-
-I.- Reclusión a domicilio;
-
-II.- Reclusión escolar;
-
-III.- Reclusión en un hogar honrado, patronato o instituciones similares;
-
-IV.- Reclusión en establecimiento médico;
-
-V.- Reclusión en establecimiento especial de educación técnica, y
-
-VI.- Reclusión en establecimiento de educación correccional.
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974)
 
 ###### ARTICULO 121.
 
-Para autorizar la reclusión fuera del establecimiento oficial de educación correccional, los jueces podrán, cuando lo estimen necesario, exigir fianza de los padres o encargados de la vigilancia del menor.
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974)
 
 ###### ARTICULO 122.
 
-A falta de acta del Registro Civil, la edad se fijará por dictamen pericial, pero en casos dudosos, por urgencia o por condiciones especiales de desarrollo precoz o retardado, los jueces podrán resolver según su criterio.
-
-Cuando el menor llegue a los dieciocho años antes de terminar el período de reclusión que se le hubiere fijado, la autoridad encargada de la ejecución de sanciones decidirá si debe ser trasladado al establecimiento destinado a mayores.
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974)
 
 # LIBRO SEGUNDO
 
@@ -3753,6 +3737,14 @@ D.O.F. 11 DE ENERO DE 1972.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a los tres días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 2 DE AGOSTO DE 1974.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO 1o.
+
+Transitorio.- La presente Ley entrará en vigor a los treinta días de su publicación en el "Diario Oficial", y a partir de la misma fecha quedarán derogados los artículos 119 a 122 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal, de 13 de agosto de 1931, sólo por lo que se refiere al Distrito y Territorios Federales, la Ley Orgánica y Normas de Procedimiento de los Tribunales de Menores y sus Instituciones Auxiliares en el Distrito y Territorios Federales, de 22 de abril de 1941 y las demás disposiciones que se opongan al presente Ordenamiento.
 
 ###### ARTICULO 2o.
 
