@@ -4,7 +4,7 @@ identifier: "LCCBID"
 country: "mx"
 rank: "ley"
 publication_date: "1959-12-19"
-last_updated: "1963-12-30"
+last_updated: "1965-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=436&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCBID"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1965.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 19 de diciembre de 1959.
 
@@ -42,17 +42,17 @@ LEY que establece bases para la ejecución en México, por el Poder Ejecutivo Fe
 
 Se aprueba el Convenio Constitutivo del Banco Interamericano de Desarrollo, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 8 de abril de 1959.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1965)</small>
 
 ###### ARTICULO 2o.
 
-El Banco de México, S. A., hará, con la garantía del Gobierno Federal, la suscripción de acciones o partes sociales del Banco Interamericano de Desarrollo hasta por la cantidad de dólares 144.300,000.00 (ciento cuarenta y cuatro millones trescientos mil dólares, moneda de los Estados Unidos de Norteamérica), de acuerdo con la resolución A del Directorio Ejecutivo de dicho banco, aprobada por la asamblea de Gobernadores el 8 de abril de 1963.
+El Banco de México, S. A., queda autorizado para hacer, con la garantía del Gobierno Federal, la subscripción de acciones o partes sociales del Banco Interamericano de Desarrollo, hasta por la cantidad de doscientos veinticuatro millones cuatrocientos ochenta mil dólares de los Estados Unidos de Norteamérica.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1965)</small>
 
 ###### ARTICULO 3o.
 
-El Banco de México, S. A., aportará con la garantía del Gobierno Federal, la cantidad de dólares 9.945,000.00 (nueve millones novecientos cuarenta y cinco mil dólares, moneda de los Estados Unidos de Norteamérica), de acuerdo con la resolución B del Directorio Ejecutivo del Banco Interamericano de Desarrollo, aprobada por la asamblea de Gobernadores el 8 de abril de 1963, para cubrir la cuota de contribución de México al Fondo para Operaciones Especiales que estipula el artículo IV del Convenio Constitutivo de dicho organismo.
+El Banco de México, S. A., queda autorizado para aportar, con la garantía del Gobierno Federal, hasta la cantidad de cuarenta y ocho millones ochocientos setenta y tres mil dólares de los Estados Unidos de Norteamérica, para cubrir la cuota de contribución de México al Fondo para Operaciones Especiales, que estipula el artículo IV del Convenio Constitutivo de dicho organismo.
 
 ###### ARTICULO 4o.
 
@@ -109,3 +109,9 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 30 DE DICIEMBRE DE 1963.
 
 El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 13 DE ENERO DE 1965.
+
+PRIMERO.- Las aportaciones a que se refiere el artículo primero de este decreto, se realizarán de acuerdo con las resoluciones que adopte la Asamblea de Gobernadores del Banco, y con las gestiones que sobre el particular efectúe el Gobierno de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
