@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-a-la-industria-para-el-estado-de-coahuila-4490"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-09"
-last_updated: "1967-12-30"
+last_updated: "2002-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE FOMENTO A LA INDUSTRIA PARA EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1967.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO ECONOMICO DEL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. EL 5 DE JULIO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial, el miércoles 9 de noviembre de 1966.
 
@@ -324,3 +326,19 @@ P.O. 30 DE DICIEMBRE DE 1967.
 ###### ARTICULO UNICO
 
 - Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JULIO DE 2002.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Fomento a la Industria para el Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado Número 90 del 9 de noviembre de 1966.
+
+TERCERO. El Ejecutivo Estatal deberá expedir el reglamento de esta ley en un término no mayor de 180 días hábiles, contados a partir de la entrada en vigor del presente ordenamiento.
+
+Para tal efecto, la Secretaría deberá presentar el proyecto de reglamento correspondiente al Ejecutivo del Estado.
+
+CUARTO. Surtirá los efectos del Programa de Mejora Regulatoria a que se refiere el Artículo 19 de esta Ley, el acuerdo para la Mejora Regulatoria publicado en el Periódico Oficial del Gobierno del Estado Número 57 del 17 de julio de 2001, sin perjuicio de que el Ejecutivo del Estado, pueda ampliarlo o modificarlo, cuando así lo estime conveniente.
+
+De igual forma, serán validos hasta en tanto se celebre (sic) nuevos convenios, aquellos acuerdos de Coordinación para la Mejora Regulatoria suscritos por el Gobierno del Estado de Coahuila con los ayuntamientos de Acuña, Allende, Arteaga, Castaños, Frontera, Matamoros, Monclova, Múzquiz, Nava, Parras, Piedras Negras, Ramos Arizpe, Sabinas, San Buenaventura, Saltillo, San Juan de Sabinas, San Pedro y Torreón, publicados en el Periódico Oficial del Gobierno del Estado Número 22 del 16 de marzo de 2001.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
