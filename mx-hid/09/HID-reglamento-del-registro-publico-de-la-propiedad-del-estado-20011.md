@@ -4,7 +4,7 @@ identifier: "HID-reglamento-del-registro-publico-de-la-propiedad-del-estado-2001
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-02-26"
-last_updated: "2001-02-26"
+last_updated: "2003-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "HID"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2003.
 
-Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 26 de febrero de 2001.
+Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el 26 de febrero de 2001.
 
 LIC. MANUEL ANGEL NUÑEZ SOTO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, en ejercicio de las facultades que me confieren los Artículos 71 fracción II de la Constitución Política del Estado; 5 y 17 de la Ley Orgánica de la Administración Pública del Estado de Hidalgo, he tenido a bien expedir el siguiente:
 
-REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO
+REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD
+
+DEL ESTADO DE HIDALGO
 
 ## TITULO PRIMERO. REGISTRO PUBLICO DE LA PROPIEDAD
 
@@ -65,9 +67,13 @@ Corresponde a la Dirección del Registro Público de la Propiedad y del Comercio
 
 El Registro Público de la Propiedad llevará como base de la inscripción registral, un sistema de incorporación en libros y a través de medios electrónicos, ópticos o la tecnología que se adopte donde se establezcan.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 8.
 
-En el sistema de incorporación en libros, el original del documento inscrito se regresará al interesado con los datos de inscripción, una copia legible del mismo se agregará al legajo, que al completar un determinado grosor se formará un libro, otra copia se agregará al apéndice con los documentos anexos en su caso, salvo que la Oficina Registral se encuentre incorporada a la informática.
+En el Sistema de Incorporación en Libros, el original del documento inscrito se regresará al interesado con los datos de inscripción. Una copia legible del mismo, se agregará al libro y otra copia agregará al apéndice con los documentos anexos en su caso.
+
+Los libros se conformarán con 50 instrumentos en forma consecutiva.
 
 ###### ARTICULO 9.
 
@@ -75,9 +81,13 @@ Por cuanto a la incripción a través de medios electrónicos, ópticos o la tec
 
 Cuando la unidad de medida de un inmueble sea expresada en metros, centímetros, milímetros o más, la inscripción a través de medios electrónicos será capturada únicamente en metros y centímetros.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 10.
 
-Las Oficinas Registrales incorporadas a la informática, podrán expedir certificaciones o constancias de lo contenido en su base de datos o imágenes, sin perjuicio de lo que legalmente obre en los libros correspondientes, en caso de discrepancia.
+Las oficinas registrales incorporadas a la informática, podrán expedir certificaciones o constancias de lo contenido en su base de datos o imágenes.
+
+En caso de existir discrepancia entre la base de datos y los libros, se atenderá a los libros.
 
 ###### ARTICULO 11.
 
@@ -399,6 +409,10 @@ Las áreas de calificación e inscripción contarán con los calificadores, insc
 
 Para ser Calificador se deberán reunir los mismos requisitos exigidos para ser Registrador.
 
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2003)</small>
+
+El Director podrá a su criterio dispensar el requisito del Título de Licenciado en Derecho, en los casos que estime necesario,
+
 ###### ARTICULO 38.
 
 Son atribuciones de los Calificadores:
@@ -423,7 +437,9 @@ Para ser Inscriptor o Encargado del Area de Certificación se requiere:
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-II.- Tener título de Licenciado en Derecho o carta de pasante debidamente autorizados y;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2003)</small>
+
+II.- Haber cursado cuando menos seis semestres de la carrera de Licenciado en Derecho y
 
 III.- No tener antecedentes penales por delito doloso ni estar inhabilitado por resolución administrativa.
 
@@ -491,9 +507,11 @@ VII.- Observaciones, en su caso.
 
 La Oficialía de Partes, diariamente efectuará la distribución equitativa a los calificadores de los documentos presentados. En su caso, lo hará conforme a las características del programa de informática respectivo.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 47.
 
-Para efecto de recepción y entrega de documentos en la Oficialía de Partes, el horario de oficina será de nueve a catorce horas de lunes a viernes, salvo que las necesidades del servicio requieran mayor tiempo.
+Para efecto de recepción y entrega de documentos en la Oficialía de Partes, el horario de oficina será de nueve a quince horas de lunes a viernes, salvo que el Director disponga aumentar el horario por necesidades del servicio.
 
 ###### ARTICULO 48.
 
@@ -561,15 +579,19 @@ V.- La Quinta, al registro de bienes inmuebles del dominio público y
 
 VI.- La Sexta, al registro de Fedatarios Públicos con ejercicio en el Estado de Hidalgo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 54.
 
-Los libros que integren las diversas secciones del Registro Público de la Propiedad se formarán, con dos copias legibles, cotejadas y autorizadas por quien las emita. La primera copia se incorporará al libro de inscripción con los datos del registro correspondiente y la segunda será para el apéndice.
+Los libros de las diversas secciones del Registro Público de la Propiedad se formarán, con una copia del documento inscrito, perfectamente legible, debidamente cotejada y autorizada por quien las emita. Otra copia se incorporará al apéndice.
 
 Cuando la Oficina Registral de que se trate, se encuentre incorporada a la informática, sólo se exhibirá una copia del documento a inscribir para su incorparación al libro de inscripciones.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 55.
 
-Las copias a que se refiere el Artículo anterior, deberán ser en hojas tamaño oficio de 36 kilogramos, con un márgen izquierdo del anverso y reverso de 4 centímetros y 2.5 centímetros del lado derecho, que permita su adecuada encuadernación.
+Las copias a que se refiere el Artículo anterior, deberán ser en hojas tamaño oficio de 36 kilogramos, con márgenes: En el anverso del lado izquierdo de 4 centímetros, del lado derecho de 2.5 centímetros, en el reverso del lado izquierdo de 2.5 centímetros y del lado derecho de 4 centímetros, que permita su adecuada encuadernación y lectura.
 
 ###### ARTICULO 56.
 
@@ -617,7 +639,9 @@ Cada Oficina Registral Distrital contará con un tablero notificador para la pub
 
 Están facultados para solicitar el registro de un documento inscribible o anotable:
 
-I.- El titular del derecho en él consignado, sus causahabientes, apoderados o representantes legítimos;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2003)</small>
+
+I.- El titular del derecho en él consignado, sus causahabientes, apoderados o representantes legítimos y en general, toda persona que tenga interés en la inscripción del documento;
 
 II.- El Fedatario que hubiese autorizado el acto;
 
@@ -793,9 +817,25 @@ Cuando la Oficina Registral se encuentre incorporada a la informática, las anot
 
 ### CAPITULO III. INMATRICULACION ADMINISTRATIVA
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 94.
 
-El procedimiento para la inmatriculación administrativa se tramitará en los términos que establezca el Código Civil del Estado y demás Leyes aplicables.
+El procedimiento para la Inmatriculación Administrativa, se tramitará de la siguiente manera:
+
+I.- El interesado deberá ocurrir ante el Registrador Público de la Propiedad, mediante escrito en el que solicita la inmatriculación y deberá adjuntar los documentos previstos en las fracciones I, II, VI, VII del Artículo 3063 del Código Civil y del Certificado de no inscripción;
+
+II.- El Registrador dictará acuerdo de admisión de la solicitud y mandará hacerla saber a los colindantes, para que dentro de un término no mayor de cinco días hábiles, manifiesten lo que a su derecho convenga;
+
+III.- En forma inmediata, el Registrador enviará la solicitud con los documentos que se le adjuntaron, al Director del Registro Público de la Propiedad del Estado, para la continuación del procedimiento;
+
+IV.- El Director del Registro Público de la Propiedad, dictará acuerdo para que se remitan oficios a las Autoridades Ejidales o Comunales y Municipales, para que informen si el inmueble no se encuentra dentro de esos regímenes o es propiedad del Estado o del Municipio y
+
+V.- Recibidos los informes a que se refiere la fracción anterior, el Director dictará la resolución que corresponda, autorizando o negando la inscripción del documento solicitada.
+
+En caso de presentarse algún opositor, se dará por concluido el procedimiento, siempre y cuando la oposición sea fundada en documento fehaciente que haya sido inscrito en el Registro Público de la Propiedad.
+
+La resolución que se dicte en estos casos, no prejuzga en cuanto a la posesión ni a la propiedad.
 
 ### CAPITULO IV. RECTIFICACION DE ASIENTOS REGISTRALES
 
@@ -873,9 +913,11 @@ II.- Los datos de la inscripción o anotación que se cancela y
 
 III.- La cantidad específica o el derecho en su caso.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2003)</small>
+
 ###### ARTICULO 108.
 
-La cancelación de la anotación de una demanda, embargo, medida precautoria o cédula hipotecaria se hará, por mandamiento escrito de la misma autoridad que la hubiere ordenado o de la que legalmente la sustituya en el conocimiento del asunto, asentándose los datos relevantes de la orden respectiva y la referencia de donde se encuentra archivada.
+La cancelación de la anotación de una demanda, embargo, medida precautoria o cédula hipotecaria, se hará mediante oficio que deberá remitir la misma Autoridad que la hubiere ordenado o de la que legalmente la sustituya en el conocimiento del asunto, en el cual se expresarán los datos del expediente del que emana la orden y los de la inscripción que deba cancelarse.
 
 ###### ARTICULO 109.
 
@@ -983,9 +1025,19 @@ XI.- Las capitulaciones matrimoniales sobre inmuebles y lo relativo al régimen 
 
 XII.- El Patrimonio Familiar y
 
-XIII.- En general los demás títulos registrables sobre actos jurídicos de inmatriculación o que atribuyan o trasmitan el dominio de un bien inmueble.
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2003)</small>
 
-La inscripción del testimonio a que se refiere la fracción IX de este Artículo, se hará una vez que se haya efectuado el registro de la constitución de la persona moral que corresponda en razón de su domicilio social.
+XIII.- Las escrituras de protocolización de las actas de personas morales (Civiles), en cuanto afecten bienes inmuebles a los fines de la misma.
+
+La inscripción se hará una vez que se haya efectuado la inscripción de la persona mal (civil) en la Sección Tercera, debiendo relacionar ambas mediante anotaciones marginales y además, se cancelará la inscripción de propiedad que sirva de antecedente.
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2003)</small>
+
+XIV.- En general los demás títulos registrables sobre actos jurídicos de inmatriculación o que atribuyan o trasmitan el dominio de un bien inmueble.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2003)</small>
+
+La inscripción del testimonio a que se refiere la fracción IX de este Artículo, se hará una vez que se haya efectuado el registro de la constitución de la persona moral que corresponda, en razón de su domicilio social.
 
 ###### ARTICULO 125.
 
@@ -1002,6 +1054,10 @@ II.- El perteneciente a varias personas en copropiedad, mientras no se divida me
 III.- El urbano con una sola entrada, aún cuando los diferentes pisos o departamentos pertenezcan a distintos dueños y
 
 IV.- El urbano que aunque tenga dos o más entradas, números o letras, forme en su interior un espacio intercomunicado.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2003)</small>
+
+Para los efectos del registro, se presume que el dueño del terreno lo es de las edificaciones, mientras no conste ninguna inscripción en contrario.
 
 ###### ARTICULO 127.
 
@@ -1029,7 +1085,13 @@ VI.- Las resoluciones judiciales en que se decrete el concurso o estado de quieb
 
 VII.- La protocolización de la división, subdivisión, lotificación, relotificación o fraccionamiento de un predio en manzanas o lotes y la constitución del régimen de propiedad en condominio y
 
-VIII.- En general, los demás actos jurídicos en que por disposición del propietario o por resolución de autoridad competente, se grave o límite en cualquier forma el uso o disfrute de bienes inmuebles o se establezcan modificaciones al régimen de propiedad.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2003)</small>
+
+VIII.- Los fideicomisos en los que el fideicomitente se reserve expresamente la propiedad y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2003)</small>
+
+IX.- En general, los demás actos jurídicos en que por disposición del propietario o por resolución de Autoridad competente, se grave o límite en cualquier forma el uso o disfrute de bienes inmuebles o se establezcan modificaciones al régimen de propiedad.
 
 Para efecto de lo dispuesto en la fracción VII de este Artículo, el interesado y en su caso el fraccionador, deberán presentar la autorización de la autoridad competente, así como la pormenorización e individualización de los lotes y el plano general respectivo, tomándose en consideración para los efectos procedentes lo establecido por el Artículo 71 del presente Reglamento.
 
@@ -1220,3 +1282,9 @@ Dado en el Palacio del Poder Ejecutivo, en la Ciudad de Pachuca de Soto, Estado 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 20 DE ENERO DE 2003.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ATRTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.</small>
