@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2001-01-31"
+last_updated: "2001-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -361,11 +361,13 @@ Para el despacho de los asuntos que competen al Congreso, se designarán las Com
 
 Las Comisiones Permanentes de Dictamen Legislativo y la de Vigilancia de la Contaduría Mayor se designarán en la quinta sesión que lleve a efecto la Legislatura dentro del Primer Período de su Primer Año de Ejercicio y serán revisadas cada año, pudiendo los miembros de dichas comisiones ser reelectos, bien sea en lo personal o en su conjunto, exceptuando lo establecido en el segundo párrafo del artículo 67 de la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 39.
 
-Para la elaboración de los proyectos de dictámenes, las Comisiones de Dictamen Legislativo, establecidas en los términos del Artículo 70 de la Ley Orgánica del Poder Legislativo, conocerán de los siguientes asuntos:
+Para la elaboración de los Proyectos de Dictámenes, las Comisiones de Dictamen Legislativo, establecidas en los términos del Artículo 70 de la Ley Orgánica del Poder Legislativo, conocerán de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
 I.- Comisión de Gobernación y Organización Interna de los Poderes:
 
@@ -373,7 +375,7 @@ a) Los relacionados con la extensión territorial y límites municipales;
 
 b) Las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia, así como los conflictos entre autoridades del Estado;
 
-c) Las renuncias y licencias del Titular del Poder ejecutivo y de los Diputados;
+c) Las renuncias y licencias del Titular del Poder Ejecutivo y de los Diputados;
 
 d) La designación de Comisionados Ciudadanos de la Comisión Estatal Electoral y de los Magistrados del Tribunal Electoral del Estado;
 
@@ -401,6 +403,8 @@ n) Las iniciativas relacionadas con la organización y estructura de los Poderes
 
 o) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+
 II.- Comisión de Legislación y Puntos Constitucionales:
 
 a) Las reformas a la Constitución Política de los Estados Unidos Mexicanos;
@@ -427,11 +431,13 @@ k) La designación de los Comisionados Ciudadanos a la Comisión Estatal Elector
 
 l) Los relativos a la vigilancia del cumplimiento de la Constitución Política del Estado y de las leyes emanadas de la misma;
 
-m) Cuando el Pleno del Congreso lo determine, apoyar a otras comisiones en materia técnica legislativa, así como en lo relativo a fundamentación legal y constitucional;
+m) Cuando el Pleno del Congreso lo determine, apoyar a otras comisiones en materia de técnica legislativa, así como en lo relativo a fundamentación legal y constitucional;
 
 n) La expedición y reforma de disposiciones de carácter general que no estén comprendidas en la competencia de otra Comisión; y
 
 ñ) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
 III.- Comisión de Justicia y Seguridad Pública:
 
@@ -455,6 +461,8 @@ i) Las leyes que establezcan y regulen los temas integrales en materia de tratam
 
 j) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+
 IV.- Comisión de Desarrollo Humano:
 
 a) Las iniciativas relativas a la protección, defensa y conservación de los derechos humanos de los individuos y grupos sociales;
@@ -477,6 +485,8 @@ i) Dar cauce y contestación a las peticiones de personas que soliciten la inter
 
 j) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+
 V.- Comisión de Derechos de las Mujeres:
 
 a) Las iniciativas relacionadas al fortalecimiento de la igualdad jurídica del varón y la mujer;
@@ -486,6 +496,8 @@ b) Los asuntos relativos al fomento y promoción de los derechos de la mujer, as
 c) La Organización de foros y promoción de consultas sobre los asuntos concernientes a los derechos de la mujer; y
 
 d) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
 VI.- Comisión de Educación, Cultura y Deporte:
 
@@ -501,11 +513,15 @@ e) Las iniciativas relativas al fortalecimiento de actividades deportivas;
 
 f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+
 VII.- Comisión de Ecología:
 
 a) La legislación relativa a la protección y preservación del equilibrio ecológico; y
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
 VIII.- Comisión de Desarrollo Urbano y Transporte:
 
@@ -521,6 +537,8 @@ e) La legislación relativa a la construcción y funcionamiento de las vías de 
 
 f) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+
 IX.- Comisión de Fomento Económico:
 
 a) Las iniciativas relacionadas con el fortalecimiento, estímulo y desarrollo de los sectores productivos del Estado, así como el desarrollo regional del mismo;
@@ -531,13 +549,15 @@ c) Lo concerniente a los asuntos fronterizos del Estado que estimulen su desarro
 
 d) Las iniciativas que conlleven a un fortalecimiento en las actividades agrícolas, forestales y ganaderas;
 
-e) La expedición y reforma de las leyes relativas a la relación de trabajo entre los Poderes o Ayuntamiento del Estado y sus respectivos trabajadores;
+e) La expedición y reforma de las leyes relativas a la relación de trabajo entre los Poderes o Ayuntamientos del Estado y sus respectivos trabajadores;
 
 f) La legislación relativa a la seguridad social de los trabajadores al servicio del Estado y los Municipios;
 
 g) Las iniciativas en materia del desarrollo del servicio público de carrera; y
 
 h) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
 X.- Comisión de Hacienda del Estado:
 
@@ -555,23 +575,49 @@ f) La propuesta que haga el Ejecutivo para el nombramiento del Secretario de Fin
 
 g) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+
 XI.- Comisión Primera de Hacienda y Desarrollo Municipal:
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los Municipios, así como los asuntos relativos a los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas, de los municipios de: Monterrey, Guadalupe, General Escobedo, Apodaca, Juárez y Cadereyta Jiménez, Nuevo León; y
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2001)</small>
+
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, los Empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de Aramberri, Doctor Arroyo, Galeana, General Zaragoza, Gaudalupe, Iturbide, Mier y Noriega y Monterrey, Nuevo León.
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
 
 XII.- Comisión Segunda de Hacienda y Desarrollo Municipal:
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los Municipios, así como los asuntos relativos a los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas, de los municipios de: San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, García y Santiago, Nuevo León; y
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2001)</small>
+
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de, Allende, Apodaca, Cadereyta Jiménez, General Terán, Hualahuises, Linares, Montemorelos, Rayones y Santiago, Nuevo León.
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1999)</small>
+
 XIII.- Comisión Tercera de Hacienda y Desarrollo Municipal:
 
-a) Lo relativo a las leyes hacendarias y de ingresos de los Municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas, de los municipios de: Galena, Iturbide, Aramberri, General Zaragoza, Dr. Arroyo, Mier y Noriega, Linares, Hualahuises, Rayones, Montemorelos, General Terán, Allende, Pesquería, Marín Higueras, Dr. González, Los Ramones, Cerralvo, Melchor Ocampo, Ciénega de Flores, China, General Bravo, Dr. Coss, Los Aldamas, Los Herreras, General Treviño, Agualeguas, Parás, Sabinas Hidalgo, Vallecillo, General Zuazua, Mina, Abasolo, Hidalgo, El Carmen, Salinas Victoria, Villaldama, Bustamante, Lampazos de
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2001)</small>
 
-Naranjo y Anáhuac, Nuevo León; y
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de Anáhuac, Bustamante, General Escobedo, Lampazos de Naranjo, Sabinas Hidalgo, San Nicolás de los Garza, Vallecillo y Villaldama, Nuevo León.
+
+b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2001)</small>
+
+XIV.- Comisión Cuarta de Hacienda y Desarrollo Municipal:
+
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de Agualeguas, Cerralvo, China, Doctor Coss, Doctor González, General Bravo, General Treviño, Juárez, Los Aldamas, Los Herreras, Los Ramones, Marín, Melchor Ocampo, Parás, y Pesquería, Nuevo León.
+
+b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2001)</small>
+
+XV.- Comisión Quinta de Hacienda y Desarrollo Municipal:
+
+a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, los empréstitos que afecten en garantía los bienes inmuebles municipales, la desafectación de inmuebles municipales, así como la revisión y en su caso aprobación de las cuentas públicas de Abasolo, El Carmen, Ciénega de Flores, García, General Zuazua, Hidalgo, Higueras, Mina, Salinas Victoria, San Pedro Garza García y Santa Catarina, Nuevo León.
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
@@ -757,7 +803,7 @@ VIII.- Elaborar y custodiar las actas de las sesiones y el Diario de Debates del
 
 IX.- Informar a la Directiva, mensualmente y por escrito, sobre la asistencia de los Diputados a las sesiones del Pleno del Congreso, así como a las de las Comisiones y Comités de que formen parte;
 
-X.- Organizar y supervisar la realización de reuniones de información y audiencia, foros y consultas populares por instrucciones de la Directiva o de las Comisiones
+X.- Organizar y supervisar la realización de reuniones de información y audiencia, foros y consultas populares por instrucciones de la Directiva o de las Comisiones;
 
 XI.- Llevar la custodia, registro y control de expedientes e iniciativas, así como de las leyes, decretos y acuerdos que expida el Congreso;
 
@@ -1764,3 +1810,9 @@ Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente 
 P.O. 31 DE ENERO DE 2001.
 
 Único.- El presente Decreto entrará en vigor al momento de su aprobación.
+
+P.O. 8 DE OCTUBRE DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los asuntos que fueron turnados conforme a las disposiciones vigentes, serán inmediatamente turnados a las Comisiones que conforme al presente Decreto se crean, en caso de duda, se remitirá a la Directiva del Congreso del Estado para su turno.
