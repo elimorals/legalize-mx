@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1990-12-20"
+last_updated: "1991-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 1991.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -205,17 +205,29 @@ Los causantes no quedarán liberados de la obligación de presentar las manifest
 
 IMPUESTO SOBRE ADQUISICION DE INMUEBLES.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 14.
 
-Están obligados al pago del Impuesto sobre Adquisición de Inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en el suelo y las construcciones adheridas a él, ubicado en el Territorio de los Municipios, así como los derechos relacionados con los mismos, a que este Capítulo se refiere. El Impuesto se calculará aplicando la tasa del 10% al valor del Inmueble, después de reducirlo en cinco veces el salario mínimo general de la zona, elevado al año.
+Están obligados al pago del impuesto sobre adquisición de inmuebles establecidos en esta Ley, las personas físicas o morales que adquieran inmuebles que consitan (sic) en el suelo o en el suelo y las construcciones adheridas a él, ubicados en el territorio de los Municipios, así como los derechos relacionados con los mismos, a que este capítulo se refiere. El impuesto se calculará aplicando la tasa del 2% al valor del inmueble, después de reducirlo en cinco veces el salario mínimo general de la zona, elevado al año.
 
-En el caso de adquisición de casa habitación de interés social, mediante otorgamiento de créditos de Instituciones Oficiales o de Crédito, el Impuesto se calculará aplicando la tasa del 10% al valor del inmueble después de reducirlo en veinte veces el salario mínimo general de la zona, elevado al año. Esta misma disposición se observará para gravar la adquisición de casa habitación de interés social, entre particulares. En ambos casos se estará a lo dispuesto por el último párrafo de éste mismo artículo.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 1991)</small>
+
+En el caso de adquisición de casa habitación de interés social, mediante otorgamiento de créditos de instituciones oficiales o de crédito, el impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo en veinte veces el salario mínimo general de la zona elevado al año.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+
+Esta misma disposición se observará para gravar la adquisición de casa habitación de interés social, entre particulares. En ambos casos se estará a lo dispuesto por el último párrafo de este mismo artículo.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
 En el caso de adquisición por donación o sucesión entre cónyuges o parientes en línea directa ascendente o descendente, el Impuesto se calculará aplicando la tasa del 1% del valor del Inmueble, después de reducirlo en diez veces el salario mínimo general de la zona elevado al año. En el caso de donación, la regla anterior será aplicable a una sola operación dentro del término de un año.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
 Al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el Impuesto correspondiente a la adquisición por causa de muerte se calculará aplicando la tasa prevista en el primer párrafo de este Artículo, independientemente de que cause por el cesionario, por la sucesión o por el adquirente.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
 Se considera vivienda de interés social aquella que su costo de adquisición no rebase 7, 500 veces el salario mínimo general de la zona. Siempre y cuando el adquirente demuestre no tener en propiedad el o su cónyuge, otra propiedad.
 
@@ -2043,7 +2055,7 @@ V.- De organismos descentralizados o de participación Municipal.
 
 VI.- Otros no especificados.
 
-DISPOSICIONES GENERALES.
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
 
 ### CAPITULO SEGUNDO
 
@@ -2091,9 +2103,63 @@ PARTICIPACIONES.
 
 El incumplimiento del Artículo 110, será acrredor (sic) a una sanción de 3 a 50 días salario mínimo.
 
+### CAPITULO SEGUNDO
+
+DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES, MINERAS Y DE PRESTACION DE SERVICIOS.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+
+###### ARTICULO 106-B.
+
+Son objeto de las contribuciones especiales los ingresos que se obtengan por la realización de actividades comerciales, industriales, mineras y de prestación de servicios.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+
+###### ARTICULO 106-C.
+
+Son sujetos de la contribución especial, las personas físicas o las morales que realicen las actividades mencionadas en el artículo anterior, dentro de la jurisdicción municipal de Los Cabos.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+
+###### ARTICULO 106-D.
+
+La base de la contribución especial, serán todas aquellas percepciones en efectivo o en especie que reciban las personas físicas o las morales, por el ejercicio de las actividades señaladas en el artículo 106-B.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+
+###### ARTICULO 106-E.
+
+La tasa de la contribución especial será el 1.3% sobre la base mencionada en el artículo 106-D.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+
+###### ARTICULO 106-F.
+
+Los ingresos que se obtengan por la enajenación de los artículos integrantes de la canasta básica señalados por la Secretaría de Comercio y Fomento Industrial, estarán exentos al pago de la contribución especial.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 30 DE JUNIO DE 1991)</small>
+
 ###### ARTICULO 112.
 
 Los giros que no estén inscritos en el padrón correspondiente o por los que no se hubiera obtenido licencia para su funcionamiento y operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales sin perjuicio de las sanciones correspondientes.
+
+### CAPITULO PRIMERO
+
+DISPOSICIONES GENERALES.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+
+###### ARTICULO 106-G.
+
+El pago de la contribución especial se hará dentro de los quince días siguientes al mes en que se perciban los ingresos señalados en el artículo 106-B de esta Ley.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+
+###### ARTICULO 106-H.
+
+En caso de mora de los sujetos de la contribución especial serán aplicables las disposiciones contenidas en los Títulos II, IV, V, y VI del Código Fiscal para el Estado y Municipios de Baja California Sur.
+
+DISPOSICIONES GENERALES.
 
 ###### ARTICULO 113.
 
@@ -2162,6 +2228,24 @@ Todas las liquidaciones de créditos fiscales se elevarán a múltiples de $ 1.0
 El Tesorero Municipal tendrá todas las facultades para requerir a los contribuyentes el cumplimiento de los créditos y obligaciones fiscales, aplicar el procedimiento económico coactivo e imponer sanciones y todas las atribuciones que para el Secretario de Finanzas del Gobierno del Estado establece el Código Fiscal para el Estado y Municipios de Baja California Sur y demás Leyes tributarias.
 
 T R A N S I T O R I O S :
+
+## TITULO QUINTO BIS
+
+CONTRIBUCIONES ESPECIALES.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
+
+### CAPITULO TERCERO
+
+DISPOSICIONES COMUNES.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+
+###### ARTICULO 106-A.
+
+Se establece en el Municipio de Los Cabos la contribución especial para la obtención de recursos destinados a la modernización a cuatro carriles de la carretera transpeninsular en el tramo, aeropuerto Los Cabos-San José del Cabo-Cabo San Lucas.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 1o.
 
@@ -2250,3 +2334,27 @@ Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
 ###### ARTICULO TERCERO.
 
 El presente Decreto, surtirá efectos a partir del día primero de Enero de 1991.
+
+B.O. 30 DE JUNIO DE 1991.
+
+DECRETO NÚMERO 815
+
+###### ARTICULO PRIMERO.
+
+LA ADMINISTRACION DE LOS RECURSOS QUE SE RECAUDEN POR LA TESORERIA GENERAL MUNICIPAL DE LOS CABOS, PROVENIENTES DE LA CONTRIBUCION ESPECIAL SOBRE LOS INGRESOS QUE SE OBTENGAN DE LAS ACTIVIDADES SEÑALADAS EN EL ARTICULO 106-B, SE REALIZARA A TRAVES DE UN FIDEICOMISO IRREVOCABLE DE INVERSION QUE SE CONSTITUYA CON TAL PROPOSITO.
+
+###### ARTICULO SEGUNDO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA PRIMERO DE JULIO DE 1991, PREVIA PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 30 DE JUNIO DE 1991.
+
+DECRETO NUMERO 817
+
+###### ARTICULO PRIMERO
+
+DURANTE LOS AÑOS DE 1991, 1992 Y 1993 SE APLICARAN LAS TASAS DEL 8%, 6% Y 4% RESPECTIVAMENTE, EN LUGAR DE LA TASA ESTABLECIDA EN EL ARTICULO 14. TRATANDOSE DE CASA HABITACION DE INTERES SOCIAL, LA TASA APLICABLE PARA 1991 SERA EL 6%.
+
+###### ARTICULO SEGUNDO
+
+EL PRESENTE DECRETO, SURTIRA EFECTOS A PARTIR DEL DIA PRIMERO DE JULIO DE 1991, PREVIA PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
