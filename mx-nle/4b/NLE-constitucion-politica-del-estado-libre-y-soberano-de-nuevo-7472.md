@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1980-10-24"
+last_updated: "1980-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -513,11 +513,11 @@ Si por no haberse verificado las elecciones o por cualquiera otra causa el Congr
 
 Tiene la iniciativa de ley todo Diputado, Autoridad Pública en el Estado y cualquier Ciudadano Nuevoleonés.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1980)</small>
 
 ###### Art. 69.
 
-No podrán dejar de tomarse en consideración las Iniciativas de los Poderes Ejecutivo y Judicial del Estado, las que se presenten firmadas por cuatro Diputados y las que dirigiere algún Ayuntamiento sobre asuntos privados de su municipalidad.
+No podrán dejarse de tomar en consideración las Iniciativas de los Poderes Ejecutivo y Judicial del Estado, las que presente cualquier Diputado de la Legislatura del Estado y las que dirigiere algún Ayuntamiento sobre asuntos privados de su Municipalidad.
 
 ###### Art. 70.
 
@@ -1668,5 +1668,9 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 P.O. 24 DE OCTUBRE DE 1980.
 
 DECRETO QUE REFORMA EL ARTICULO 85, FRACCION XXII DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+
+UNICO:- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE OCTUBRE DE 1980.
 
 UNICO:- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
