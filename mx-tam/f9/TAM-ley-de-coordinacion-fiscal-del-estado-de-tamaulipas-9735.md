@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-9735"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-18"
-last_updated: "1995-12-30"
+last_updated: "1996-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 18 de diciembre de 1993.
 
@@ -73,11 +73,15 @@ VII.- 50% de los ingresos que correspondan al Estado por servicios de prevenció
 
 VIII.- 20% de los ingresos que perciba el Estado por concepto de incentivo por las acciones fiscalizadoras que éste realice de conformidad con el Anexo número 14 al Convenio de Colaboración Administrativa en materia fiscal federal celebrado por el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+
+IX.- 20% de los ingresos que correspondan al Estado, derivado de participaciones en el Impuesto Federal sobre Automóviles Nuevos.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 3o.
 
-Las participaciones que corresponden a los Municipios, previstas en las fracciones I, II, VI y VIII del Artículo anterior, se aplicarán en proporción directa al número de habitantes que tenga cada Municipio, en el ejercicio de que se trate. El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al iniciarse cada ejercicio.
+Las participaciones que corresponden a los Municipios, previstas en las fracciones I, II, VI, VIII y IX del artículo anterior, se aplicarán en proporción directa al número de habitantes que tenga cada Municipio, en el Ejercicio de que se trate. El número de habitantes se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al iniciarse cada ejercicio.
 
 ###### ARTICULO 4o.
 
@@ -208,3 +212,17 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los
 P.O. 30 DE DICIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor el 1o. de Enero de 1996.
+
+P.O. 25 DE DICIEMBRE DE 1996
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del 1o. de enero de 1997.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de lo dispuesto en el artículo 145 primer párrafo de la Ley de Hacienda del Estado, la declaración correspondiente al mes de enero de 1997, podrá presentarse a más tardar el día 17 de marzo sin la aplicación de la actualización y sin los recargos correspondientes.
+
+###### ARTICULO TERCERO.
+
+Para los efectos de lo dispuesto en el inciso a) de la fracción I del artículo 146 de la Ley de Hacienda del Estado, los sujetos que realicen actividades objeto del impuesto, podrán solicitar su inscripción a más tardar el día 17 de marzo de 1997, sin la aplicación de sanciones.
