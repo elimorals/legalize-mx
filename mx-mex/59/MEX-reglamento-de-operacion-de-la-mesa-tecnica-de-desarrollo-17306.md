@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-operacion-de-la-mesa-tecnica-de-desarrollo-17306"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-01"
-last_updated: "2000-03-01"
+last_updated: "2001-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE OPERACION DE LA MESA TECNICA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2001.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 1 de marzo de 2000.
 
@@ -37,9 +37,11 @@ REGLAMENTO DE OPERACION DE LA MESA TECNICA DE DESARROLLO SOCIAL
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento tiene por objeto regular la integración, funcionamiento y facultades de la Mesa Técnica de Desarrollo Social y sus órganos especializados, para resolver lo relativo al Acuerdo del Titular del Ejecutivo por el que se crea la Coordinación General de Desarrollo Social, así como aquéllas derivadas de la operación del Programa Social Mexiquense.
+El presente ordenamiento tiene por objeto regular la integración, funcionamiento y facultades de la Mesa Técnica de Desarrollo Social y sus órganos especializados, para resolver lo relativo al Acuerdo del Titular del Ejecutivo por el que se crea la Coordinación General de Desarrollo Social, así como aquéllas derivadas de la operación del Programa Social Mexiquense y los que determine la Mesa encaminados al fomento del Desarrollo Regional.
 
 ###### Artículo 2.
 
@@ -235,6 +237,172 @@ IX. Presentar propuestas de atención a acciones o proyectos que se sometan en l
 
 X. Las demás que le encomiende el presidente o el vicepresidente de la mesa.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE AGOSTO DE 2001)</small>
+
+### CAPITULO VIII. DE LAS MESAS TECNICAS DE COORDINACION REGIONAL
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
+###### Artículo 22.
+
+Las Mesas Técnicas de Coordinación Regional son órganos especializados de la Mesa Técnica de Desarrollo Social de Atención Directa y Permanente, que funcionarán a nivel regional, como instrumento articulador de acciones en el marco de los Programas Social Mexiquense y los que determine la Mesa para fomento del Desarrollo Regional y sesionarán con la periodicidad que señale el presidente de cada Mesa.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
+###### Artículo 23.
+
+Para el funcionamiento de las Mesas Técnicas de Coordinación Regional, deberá aprobarse por la Mesa Técnica de Desarrollo Social la distribución regional, debiendo existir un titular por cada región.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
+###### Artículo 24.
+
+Cada Mesa Técnica de Coordinación Regional se integrará por:
+
+I. Un Presidente, titular de región nombrado por el Gobernador del Estado;
+
+II. Un Secretario Técnico, nombrado por el titular de la región;
+
+III. El representante de la Secretaría General de Gobierno en cada región;
+
+IV. El representante de la Coordinación General de Desarrollo Social en la región;
+
+V. Un representante de cada dependencia de Gobierno Federal, del Estado y Municipal como enlace operativo, así como servidores públicos de oficinas desconcentradas de la Administración Pública en la Región.
+
+VI. Vocales, los cuales serán los representantes del Gobernador en cada Municipio, en el marco del Programa de Regionalización.
+
+VII. Servidores públicos de los tres niveles de Gobierno invitados y relacionados con los asuntos en el ámbito de su competencia.
+
+VIII. Los miembros de las Mesas Técnicas de Coordinación Regional, tendrán voz y voto y designarán a un suplente que los represente ante éstas, en caso de ausencias.
+
+Habrá quórum cuando concurra la mayoría de los integrantes pudiendo considerarse como mínimo un integrante, como lo establecen las fracciones V, VI y VII de éste artículo.
+
+Los acuerdos se tomarán por mayoría de votos y en caso de empate, el presidente tendrá el voto de calidad.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
+###### Artículo 25.
+
+Corresponde al Presidente de Mesa Técnica de Coordinación Regional de manera conjunta o separada:
+
+I. Presidir la Mesa Técnica de Coordinación Regional y representar a la Mesa Técnica de Desarrollo Social;
+
+II. Convocar por conducto del Secretario Técnico a Sesiones ordinarias y extraordinarias;
+
+III. Instrumentar las acciones necesarias y ejecutar los acuerdos que emanen de las sesiones,
+
+IV. Analizar y proponer los asuntos que serán sometidos a la mesa; y
+
+V. Elevar al pleno de la Mesa Técnica de Desarrollo Social, por conducto del Secretario Técnico, los asuntos para tal efecto.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
+###### Artículo 26.
+
+Corresponde al Secretario Técnico de la Mesa de Coordinación Regional:
+
+I. Convocar a los miembros de la Mesa Técnica de Coordinación Regional a sesiones ordinarias y extraordinarias;
+
+II. Preparar las sesiones de la mesa y elaborar las actas correspondientes;
+
+III. Dar seguimiento a los acuerdos y propuestas de la Mesa Técnica de Coordinación Regional;
+
+IV. Levantar actas y acuerdos y remitirlos al Secretario Técnico de la Mesa Técnica de Desarrollo Social;
+
+V. Asistir a las reuniones a que convoque la Mesa Técnica de Desarrollo Social;
+
+VI. Solicitar mensualmente a las dependencias de las diferentes esferas de gobierno participantes, un informe del avance físico y financiero de las obras, acciones y/o servicios derivados de los acuerdos de las mesas en cada región y enviarlo al Secretario Técnico de la Mesa Técnica de Desarrollo Social para el seguimiento de programas en el seno de la Coordinación General de Desarrollo Social.
+
+VI. Las demás que le encomiende la Mesa Técnica de Coordinación Regional y su titular.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
+###### Artículo 27.
+
+Corresponde a los representantes de la Secretaría General de Gobierno y Coordinación General de Desarrollo Social:
+
+I. Brindar la asesoría en el ámbito de su competencia;
+
+II. Coadyuvar en el seguimiento a los acuerdos y propuestas de la Mesa Técnica de Coordinación Regional;
+
+III. Implementar las acciones pertinentes en el ámbito de su competencia para el cumplimiento de los acuerdos; y
+
+IV. Las demás que les encomienden la Mesa Técnica de Coordinación Regional y su titular.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
+###### Artículo 28.
+
+Los representantes de las dependencias tendrán carácter operativo y serán el vínculo con las dependencias en los asuntos relacionados con su entidad administrativa para análisis, determinación y ejecución en la misma.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
+###### Artículo 29.
+
+Corresponde a los vocales de la Mesa Técnica de Coordinación Regional:
+
+I. Realizar el estudio preliminar de los asuntos que les sean turnados y preparar los proyectos de solución o soluciones a los mismos;
+
+II. Enviar al Secretario Técnico de la Mesa Técnica de Coordinación Regional, el avance de los asuntos en que esté interviniendo; y
+
+III. Las demás que le encomiende la Mesa Técnica de Coordinación Regional y su titular.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 31 DE AGOSTO DE 2001)</small>
+
+### CAPITULO IX. DEL SECRETARIADO TECNICO DE DESARROLLO SOCIAL
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
+###### Artículo 30.
+
+Es el órgano especializado cuyo objetivo será integrar y analizar temáticamente los asuntos y acuerdos de las Mesas Técnicas de Coordinación Regional con la consideración de los titulares de cada región y someterlos a la Mesa Técnica de Desarrollo Social y estará integrado por:
+
+I. Un Coordinador, que será el Titular de la Coordinación General de Desarrollo Social
+
+II. Un Secretario Técnico que será el Secretario Técnico de la Mesa Técnica de Desarrollo Social;
+
+III. Secretarios, que serán los Secretarios Técnicos de las Mesas Técnicas de Coordinación Regional;
+
+IV. Un representante de la Secretaría General de Gobierno.
+
+V. Representantes Municipales del Programa de Regionalización y servidores públicos invitados relacionados con los asuntos a tratar.
+
+Los miembros del secretariado, tendrán voz y voto y designarán a un suplente que los representará en caso de ausencias involuntarias.
+
+Habrá quórum cuando concurra la mayoría de los integrantes.
+
+Los acuerdos se tomarán por mayoría de votos y en caso de empate el voto del Coordinador tendrá el voto de calidad.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
+###### Artículo 31.
+
+El Secretariado Técnico de Desarrollo Social, podrá acordar el desahogo de asuntos de trámite y acciones que procedan conforme a sus atribuciones.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
+###### Artículo 32.
+
+El Coordinador, convocará a los Secretarios Técnicos de las Mesas Técnicas de Coordinación Regional en forma conjunta o separada, para integrar el Grupo de Análisis.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
+###### Artículo 33.
+
+Corresponde a los Secretarios, compilar las propuestas y clasificarlas temáticamente en materias de obras, acciones y/o servicios que presta la Administración Pública, así como levantar las actas y acuerdos correspondientes para la integración temática de los asuntos a tratar en la Mesa Técnica de Desarrollo Social y las de Coordinación Regional.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2001)</small>
+
+###### Artículo 34.
+
+Corresponde a los representantes de la Secretaría General de Gobierno, de la Coordinación General de Desarrollo Social y municipales:
+
+I. Coadyuvar en el seguimiento de actas y acuerdos;
+
+II. Implementar las acciones pertinentes en el ámbito de su competencia para el cumplimiento de los acuerdos; y
+
+III. Las demás que les encomiende el Coordinador del Secretariado.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -264,3 +432,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 31 DE AGOSTO DE 2001.
+
+PRIMERO.- Publíquese el presente acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Lo no previsto en el presente ordenamiento será resuelto de común acuerdo por la Mesa Técnica de Desarrollo Social.
