@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-9887"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-03-04"
-last_updated: "2001-10-17"
+last_updated: "2001-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2001.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de marzo de 1987.
 
@@ -2063,6 +2063,10 @@ LOS CAREOS DE LOS TESTIGOS ENTRE SI Y CON EL INCULPADO O DE AQUELLOS Y ESTE CON 
 
 CUANDO POR ALGUNA CIRCUNSTANCIA SE HUBIERA OMITIDO EN LA INSTRUCCION LA PRACTICA DE LOS CAREOS A QUE SE REFIERE ESTE ARTICULO, PODRAN PRACTICARSE DESPUES EN CUALQUIER ESTADO DEL PROCESO HASTA ANTES DE DICTARSE SENTENCIA DEFINITIVA EN PRIMERA INSTANCIA.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+CUANDO LA VICTIMA O EL OFENDIDO SEAN MENORES DE EDAD, NO ESTARAN OBLIGADOS A CAREARSE CON EL INCULPADO CUANDO SE TRATE DE LOS DELITOS DE VIOLACION O SECUESTRO.
+
 ###### ARTICULO 326.
 
 LOS CAREOS SE PRACTICARAN DANDO LECTURA, EN LO CONDUCENTE, A LAS DECLARACIONES QUE SE REPUTEN CONTRADICTORIAS Y LLAMANDO LA ATENCION DE LOS CAREADOS SOBRE SUS CONTRADICCIONES, A FIN DE QUE ENTRE SI SE RECONVENGAN PARA OBTENER LA ACLARACION DE LA VERDAD, CONSIGNANDOSE EN EL ACTA CON TODA PRECISION LOS PUNTOS SOBRE QUE VERSO EL CAREO Y LOS RESULTADOS DE ESTE.
@@ -3956,5 +3960,9 @@ En los delitos cometidos con anterioridad a la vigencia de la presente reforma, 
 La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
 
 P.O. 17 DE OCTUBRE DE 2001.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE OCTUBRE DE 2001.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
