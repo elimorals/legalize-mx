@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2000-12-26"
+last_updated: "2001-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2001.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -2075,7 +2075,9 @@ Para los efectos de este libro, se entiende por:
 
 I. Familia: Conjunto de personas unidas por parentesco, matrimonio o concubinato, que como célula fundamental de la sociedad es una institución de interés público y ámbito natural de convivencia propicio para el entendimiento, comunicación y desarrollo de los valores necesarios en la formación y perfeccionamiento de la persona y de la sociedad.
 
-Las relaciones familiares deben aspirar a servir al pleno entendimiento de los valores de la existencia humana. Por ello, tenderán a excluir toda subordinación o sometimiento vejatorio de la dignidad humana;
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+
+Las relaciones familiares deben aspirar a servir al pleno entendimiento de los valores de la existencia humana. Por ello, tenderán a excluir toda subordinación o sometimiento vejatorios de la dignidad humana;
 
 II. Violencia Intrafamiliar: Es la acción u omisión intencional que ponga en peligro o afecte su integridad física, psicológica o sexual, que se ejerce en contra de algún miembro de la familia, por otro integrante de la misma, independientemente de que pudiere constituir delito.
 
@@ -2087,7 +2089,9 @@ IV. Personas receptoras de Violencia Intrafamiliar: Quien recibe, o se le provoq
 
 V. Modelos de Atención: Los sistemas integrales y multidisciplinarios mediante los cuales se captan, atienden, da seguimiento, y se evalúan las situaciones de violencia intrafamiliar, sistematizando los resultados de los procesos, para retroalimentar los propios modelos;
 
-VI. Programa Permanente: Es el proyecto para la prevención y atención de la violencia intrafamiliar, el cual se integra con los planes y estrategias institucionales, públicas y privadas;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
+
+VI. Programa Permanente: Es el proyecto para la prevención y atención de la violencia intrafamiliar, el cual se integra con los programas y estrategias institucionales, públicas y privadas;
 
 VII. Prevención: La promoción de una cultura que favorezca y coadyuve a crear un marco objetivo de equidad, libertad e igualdad, entre las personas miembros de la familia, eliminando las causas y patrones que generan y refuerzan la violencia intrafamiliar, con el fin de erradicarla y promover la institución de la familia, en la forma definida en el presente Libro; y
 
@@ -2187,7 +2191,9 @@ III. Evaluar los logros y avances del Programa Permanente;
 
 IV. Celebrar por conducto de su Presidente, convenio o acuerdos, dentro del Programa Permanente para la Prevención y Atención de la Violencia Intrafamiliar, para la coordinación de acciones encaminadas al logro de los fines y objetivos del presente Libro;
 
-V. Incorporar a las acciones del Consejo a la sociedad civil organizada, estableciendo y manteniendo vínculos de trabajo específico, intercambio de información y propuestas de modelos de atención;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
+
+V. Incorporar en las acciones del Consejo a la sociedad civil organizada, estableciendo y manteniendo vínculos de trabajo específico, intercambio de información y propuestas de modelos de atención;
 
 VI. Promover el estudio e investigación sobre violencia intrafamiliar en el Estado y difundir los resultados que deriven de dichos estudios, así como avances logrados en el ámbito nacional e internacional;
 
@@ -2197,9 +2203,9 @@ VIII. La realización de campañas publicitarias para la concientización de la 
 
 IX. Las demás que le asignen otras leyes o sean necesarias para el cumplimiento de las anteriores.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO III. Del Presidente
+### CAPITULO IV. De la Secretaría Técnica
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2225,9 +2231,9 @@ VIII. Designar a los profesionistas y técnicos que integren las unidades de ate
 
 IX. Las demás que le encomiende el Consejo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-### CAPITULO IV. De la Secretaría Técnica
+### CAPITULO III. Del Presidente
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2255,13 +2261,13 @@ VII. Las demás funciones que le sean encomendadas, mediante acuerdo del Consejo
 
 Esta Secretaría dispondrá de la infraestructura necesaria para el desarrollo de sus funciones.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Artículo 204.
 
-El Secretario Técnico deberá ser Trabajador Social, Sociólogo Psicólogo titulado, con amplios conocimientos y experiencia en materia familiar y asistencia social.
+El Secretario Técnico deberá ser Trabajador Social, Sociólogo o Psicólogo, titulado, con amplios conocimientos y experiencia en materia familiar y asistencia social.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEPTIMO. DE LA RECREACION, DEPORTE Y CULTURA
 
@@ -2383,7 +2389,13 @@ I. Coordinarse con la Procuraduría General de Justicia para la atención de los
 
 II. Instaurar cursos de formación y capacitación sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+
+###### Artículo 215 Bis.
+
+Todos los servidores públicos de las dependencias y entidades del sector público que en el ejercicio de sus funciones tengan conocimiento de incidentes relacionados con la violencia intrafamiliar, deberán hacerlo del conocimiento del Consejo.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO DECIMO. DE LOS ESTIMULOS
 
@@ -2394,6 +2406,8 @@ II. Instaurar cursos de formación y capacitación sobre la dinámica y efectos 
 ###### Artículo 216.
 
 El procedimiento que se siga ante las unidades o los órganos municipales competentes deberá ser breve, sencillo y gratuito, sólo estará sujeto a las mínimas formalidades que se requieran para el trámite de la queja y la investigación de los hechos privilegiando la conciliación.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 El procedimiento se iniciará con una queja, que no requiere de ningún requisito de formalidad.
 
@@ -2415,15 +2429,15 @@ Las unidades de atención deberán conocer, tramitar y resolver a través del pr
 
 Todo el personal de las instituciones involucradas en la prevención y atención de la violencia intrafamiliar, deberán dar trato confidencial a la información o documentación de las personas atendidas. Lo anterior implica que el expediente en el que se integren las constancias relativas al planteamiento y a la resolución del problema, sólo podrán ser consultados por quienes intervengan en ellos, sus apoderados, y el Consejo, al que se le deberán mandar los informes a que se refiere este Libro.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO II. De los Conciliadores
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Artículo 219.
 
-Las partes en un conflicto intrafamiliar, podrán resolver sus diferencias en el área administrativa mediante el procedimiento conciliatorio, el cual se efectuará preferentemente en una sola audiencia.
+Las partes en un conflicto de violencia intrafamiliar, podrán resolver sus diferencias en el área administrativa mediante el procedimiento conciliatorio, el cual se efectuará preferentemente en una sola audiencia.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2437,11 +2451,11 @@ Recibida la queja, la autoridad encargada del trámite señalará una fecha para
 
 Si alguna de las partes no asiste a la audiencia, se les volverá a citar en un término igual al anterior, señalándoles los beneficios e importancia de la audiencia. Si de nueva cuenta no fuere posible la celebración de la audiencia por ausencia de alguna de las partes, al ausente se le impondrá multa por el importe que no exceda a un salario mínimo general y se turnará el asunto a la Unidad de Atención que corresponda para su estudio y determinación.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Artículo 222.
 
-Al iniciarse la audiencia de conciliación, el conciliador sin prejuicio alguno procederá a buscar la avenencia entre las partes, proporcionándoles toda clase de alternativas, exhortándolos a que lo hagan, dándoles a conocer las consecuencias en caso de continuar con su conflicto.
+Al iniciarse la audiencia de conciliación, el conciliador sin prejuicio alguno procederá a buscar la avenencia entre las partes, exhortándolos al reencuentro de la armonía, proponiendo alternativas pertinentes y dándoles a conocer las consecuencias en caso de continuar con su conflicto.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2455,11 +2469,11 @@ Si las partes llegaren a una conciliación, se celebrará el convenio correspond
 
 Una vez habida la conciliación, se dará el seguimiento que corresponda y se elaborará un registro de datos que podrá ser consultado por las autoridades competentes de la materia para los efectos de ley, cuidando la confidencialidad y reserva de los mismos.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Artículo 225.
 
-Cuando en forma espontánea, o por cualquier causa, se presenten las distintas partes involucradas en un conflicto de violencia intrafamiliar ante la presencia de la autoridad competente para iniciar el procedimiento conciliatorio, y es voluntad de éstos someterse a tal procedimiento, la conciliación deberá iniciarse de inmediato.
+Cuando en forma espontánea, o por cualquier causa, se presenten las distintas partes involucradas en un conflicto de violencia intrafamiliar ante la presencia de la autoridad competente para iniciar el procedimiento conciliatorio, y es voluntad de éstos someterse a tal procedimiento, éste deberá iniciarse de inmediato.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
@@ -2483,11 +2497,13 @@ IV. Derivar a los organismos correspondientes aquellos casos que no sean de su c
 
 V. Firmar en unión de los interesados, los convenios conciliatorios a los que se llegue;
 
-VI. Integrar los expedientes relativos a los casos puestos a su consideración, las actuaciones que se realicen, así como las constancias que se le presenten; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
+
+VI. Integrar los expedientes relativos a los casos puestos a su consideración, con todas las actuaciones que se realicen y las constancias que se le presenten; y
 
 VII. Enviar copias de los convenios al Consejo, en los términos del presente Libro.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO DECIMO PRIMERO. DE LAS INFRACCIONES, SANCIONES Y DEL RECURSO DE REVOCACION
 
@@ -2545,9 +2561,9 @@ Para los efectos de la presente ley, se consideran adultos mayores a las persona
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
+## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEGUNDO. DEL CONSEJO PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR
 
@@ -2625,9 +2641,9 @@ V. Los demás que establezcan los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO V (SIC). DE LA ESTADISTICA Y EVALUACION
+## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO TERCERO. DE LA PARTICIPACION DE LOS MUNICIPIOS
 
@@ -2667,7 +2683,7 @@ Corresponde a la familia procurar que sus miembros adopten pautas de conducta y 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2711,7 +2727,7 @@ Los establecimientos que presten servicio a los adultos mayores deberán habilit
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
+## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2777,9 +2793,9 @@ Las asociaciones civiles, fundaciones o patronatos de asistencia privada podrán
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
+## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2000)</small>
 
 ## TITULO SEXTO. DE LOS PROCEDIMIENTOS
 
@@ -2875,15 +2891,15 @@ Corresponde a la Secretaría de Salud expedir la cartilla de salud para los adul
 
 Es responsabilidad de la Dirección del Trabajo y Previsión Social ofrecer capacitación para el trabajo y adiestramiento adecuado a los adultos mayores que así lo soliciten y no cuenten con recursos económicos.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
+## TITULO V (SIC). DE LA ESTADISTICA Y EVALUACION
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 250.
 
@@ -2919,7 +2935,7 @@ La falta de decoro o respeto en el trato con los adultos mayores, por parte de i
 
 El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la violación a sus derechos por parte de sus familiares, ciudadanos en general o instituciones lucrativas o no, públicas o privadas, se sancionará conforme a la ley respectiva.
 
-## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3018,3 +3034,7 @@ P.O. 5 DE OCTUBRE DE 2000.
 P.O. 26 DE DICIEMBRE DE 2000.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE ENERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
