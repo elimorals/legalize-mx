@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "1987-09-12"
+last_updated: "1987-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1987.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -371,7 +371,7 @@ XI.- Coordinar el sistema estatal de salud;
 
 XII.- Ejercer las funciones que al Estado señala la Ley General de Salud, así como las que sean descentralizadas por la Secretaría de Salud al Gobierno del Estado,
 
-XIII.- Organizar y controlar los centros de salud y de asistencia social que le correspondan al Estado;
+XIII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD, P.O. 16 DE SEPTIEMBRE DE 1987)
 
 XIV.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones educativas, de salud y de fomento cultural y deportivo así como vigilar la organización y el funcionamiento de los departamentos que ejerzan las atribuciones anteriores; y
 
@@ -660,3 +660,15 @@ Los documentos del sector vivienda sujetos a trámite por parte de la "Direcció
 P.O. 12 DE SEPTIEMBRE DE 1987.
 
 UNICO: Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE SEPTIEMBRE DE 1987.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan el Libro Segundo, Título Uno de la Asistencia Pública, Capítulo Unico, del Patronato, artículos del 1091 al 1118 del Código Administrativo del Estado, fracción XIII del Artículo 29 de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua.
