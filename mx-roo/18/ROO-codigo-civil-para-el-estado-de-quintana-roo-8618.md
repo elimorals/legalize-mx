@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "1995-01-13"
+last_updated: "1997-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1997.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -16013,13 +16013,17 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 
 Todo hecho o convenio entre las partes, que pueda modificar o destruir la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el Registro por medio de una inscripción nueva, de una cancelación total o parcial o de una nota marginal, según los casos.
 
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 1997)</small>
+
 ###### Artículo 3108.
 
-El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 3096, se dé conocimiento al deudor y sea inscrita en el Registro.
+El crédito hipotecario puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca establecen los Artículos 3096 y 3097, se haga del conocimiento al deudor y sea inscrita en el Registro Público de la Propiedad.
 
-> <small>(ADICIONADO, P.O. 13 DE ENERO DE 1995)</small>
+Además de la hipoteca voluntaria o necesaria, ésta puede constituirse para garantizar obligaciones a la orden, transmitirse por endoso el título, sin necesidad de notificación al deudor ni de su registro. Asimismo, la hipoteca puede constituirse, para garantizar obligaciones al portador, en este caso se transmitirá por la simple entrega del título sin ningún otro requisito.
 
-Las entidades financieras podrán ceder créditos que tengan garantizados con hipoteca sin necesidad de notificación al deudor, ni de registro, cuando los mismos sean cedidos a una entidad financiera actuando a nombre propio o como fiduciaria y el propósito de la cesión sea la emisión y colocación de valores, y siempre que el cedente mantenga la administración de los créditos. En caso de que la entidad cedente deje de llevar la administración de los créditos, deberá únicamente notificarlo al deudor.
+Las instituciones del Sistema Bancario Mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras, los institutos de seguridad social, las autoridades y entes de la Administración Pública Estatal señaladas por el Artículo 3097, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro, siempre que la cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+
+En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de el o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
 
 ###### Artículo 3109.
 
@@ -16744,3 +16748,13 @@ P.O. 13 DE ENERO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE ABRIL DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abrogan todas aquellas disposiciones que se opongan al presente Decreto.
