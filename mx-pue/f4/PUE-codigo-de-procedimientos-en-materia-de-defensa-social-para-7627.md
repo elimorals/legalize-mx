@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "1994-07-01"
+last_updated: "1997-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1997.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -712,6 +712,10 @@ O.- Chantaje, previsto en el artículo 415; y
 P.- Peculado, previsto en el artículo 428.
 
 Q.- Enriquecimiento ilícito, previsto en el artículo 432.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 1997)</small>
+
+R.- Tortura, previsto los artículos 449, 450, 451 y 452.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -3114,6 +3118,16 @@ Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Pal
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 1 DE JULIO DE 1994
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE ABRIL DE 1997.
 
 ###### ARTICULO PRIMERO.
 
