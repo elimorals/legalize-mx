@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "1967-03-07"
+last_updated: "1970-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1970.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -260,9 +260,11 @@ La incompetencia puede promoverse por declinatoria o por inhibitoria que se sust
 
 La excepción de litispendencia procede cuando un Juez conoce ya del mismo negocio, sobre el cual es demandado el reo. El que la oponga debe señalar precisamente el juzgado donde se tramita el primer juicio. Del escrito en que se oponga se dará traslado por tres días a la contraria, y el Juez dictará resolución dentro de las veinticuatro horas siguientes, pudiendo previamente mandar inspeccionar el primer juicio. Si se declara procedente, se remitirán los autos al Juzgado que primero conoció del negocio, cuando ambos Jueces se encuentren dentro de la jurisdicción del mismo tribunal de apelación. Dará por concluido el procedimiento, si el primer juicio se tramita en Juzgado que no pertenezca a la misma jurisdicción de apelación.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 37.
 
-En los juicios ordinarios las excepciones de falta de personalidad o capacidad se sustanciarán como incidentes; en los sumarios se observará lo que previene el artículo 633.
+Las excepciones de falta de personalidad o capacidad, se substanciarán como incidentes.
 
 Las demás excepciones dilatorias se propondrán y tramitarán como se previene en el Capítulo I del Título Sexto.
 
@@ -410,9 +412,11 @@ El Secretario hará constar el día y hora en que se presente un escrito y si es
 
 Los Secretarios cuidarán de que los expedientes sean exactamente foliados al agregarse cada una de las hojas; rubricarán todas éstas en el centro de los escritos y pondrán el sello de la Secretaría en el fondo del cuaderno, de modo que queden selladas las dos caras.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 64.
 
-Sólo se entregarán los autos a las partes para formar o glosar cuentas y para que tomen apuntes antes de alegar; o cuando de común acuerdo lo pidieren. Los autos y copias, en su caso, se entregarán por el Secretario directamente a las partes, por medio de conocimiento que deberán firmar éstas. Las frases "dar vista" o "correr traslado", sólo significan que los autos quedan en la Secretaría para que se impongan de ellos los interesados, o para que se entreguen las copias. Las disposiciones de este artículo comprenden al Ministerio Público.
+Nunca se entregarán los autos a las partes aun cuando de común acuerdo lo pidieren, las frases "dar vista" o "correr traslado", sólo significan que los autos quedan en la Secretaría para que se impongan de ellos los interesados, o para que se entreguen las copias. Se exceptúan los casos en que sea necesaria la entrega del expediente al C. Agente del Ministerio Público o a los Representantes del Fisco, lo cual hará directamente el secretario mediante conocimiento que firmarán aquéllos.
 
 ###### ARTICULO 65.
 
@@ -426,9 +430,11 @@ Quedan los Jueces facultados para investigar de oficio la existencia de las piez
 
 Para sacar copia o testimonio de cualquier documento de los archivos o protocolos, se requiere decreto judicial, que no se dictará sino con conocimiento de causa y audiencia de parte; y si no la hay, con la del Ministerio Público, procediéndose incidentalmente en caos de oposición.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 67.
 
-Los tribunales no admitirán nunca recursos notoriamente frívolos o improcedentes; los desecharán de plano, sin necesidad de sustanciación alguna y, en su caso, consignarán el hecho al Ministerio Público para que se apliquen las sanciones del Código Penal.
+Los tribunales no admitirán nunca incidentes ni recursos notoriamente frívolos o improcedentes; los desecharán de plano, sin necesidad de sustanciación alguna y, en su caso, consignarán el hecho al Ministerio Público para que se apliquen las sanciones del Código Penal.
 
 Los incidentes ajenos al negocio principal deberán ser repelidos de oficio por los Jueces.
 
@@ -502,11 +508,11 @@ Todas las resoluciones pronunciadas por los Jueces y Magistrados serán autoriza
 
 Los decretos y los autos deberán dictarse dentro de tres días, después del último trámite o de la promoción correspondiente.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 78.
 
-Las sentencias deberán dictarse dentro de ocho días siguientes a la expiración del plazo para alegar en los juicios ordinarios.
-
-En los juicios sumarios, los puntos resolutivos se dictarán al finalizar la audiencia de pruebas y alegatos, debiéndose engrosar dentro de los cinco días siguientes. Sólo cuando hubiere necesidad de que el tribunal examine documentos voluminosos, podrá disfrutar de los ocho días siguientes a que se refiere el primer párrafo, para dictar sentencia.
+Las sentencias deberán dictarse dentro de ocho días siguientes a la expiración del plazo para alegar.
 
 ###### ARTICULO 79.
 
@@ -592,11 +598,13 @@ II.- Los anteriores respecto de los cuales, protestando decir verdad, asevere la
 
 III.- Los que no haya sido posible adquirir con anterioridad por causas que no sean imputables a la parte interesada y siempre que haya hecho oportunamente la designación expresada en el párrafo segundo del artículo 94.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 94.
 
-No se admitirá documento alguno después de la citación para sentencia en los juicios ordinarios o después de terminada la audiencia de pruebas y alegatos en los juicios sumarios. El juez repelará de oficio los que se le presenten y mandará devolverlos a la parte, sin ulterior recurso.
+No se admitirá documento alguno después de la citación para sentencia. El Juez repelará de oficio los que se le presenten y mandará devolverlos a la parte inferior (sic) recurso.
 
-Lo anterior se entenderá sin perjuicio de la facultad que tienen los tribunales para investigar la verdad sobre los puntos controvertidos, de acuerdo a las reglas generales de prueba.
+Lo anterior se entenderá sin perjuicio de la facultad que tienen los tribunales para investigar la verdad sobre los puntos controvertidos de acuerdo con las reglas generales de prueba.
 
 ###### ARTICULO 95.
 
@@ -688,9 +696,11 @@ V.- Cuando se haga saber el envío de los autos a otro tribunal o cuando el Juez
 
 VI.- En los demás casos que la ley lo disponga.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 110.
 
-Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictaré, después de ocurrido el cambio, se pondrán completos los nombres y apellidos de los nuevos funcionarios. Sólo que el cambio ocurriese cuando el negocio esté pendiente únicamente de sentencia, se mandará hacer saber a las partes, si fuere juicio ordinario.
+Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido el cambio, se pondrán completos los nombres y apellidos de los nuevos funcionarios. Sólo que el cambio ocurriese cuando el negocio esté pendiente únicamente de sentencia, se mandará hacer saber a las partes.
 
 ###### ARTICULO 111.
 
@@ -786,9 +796,11 @@ Los términos judiciales empezarán a correr desde el día siguiente a aquél en
 
 Cuando fueren varias las partes y el término común, se contará desde el día siguiente a aquel en el que todas hayan quedado notificadas.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 129.
 
-En ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales.
+En ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales, excepto en los casos de que habla el artículo 29.
 
 > <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 1938)</small>
 
@@ -856,15 +868,17 @@ Los funcionarios judiciales que por notoria torpeza ordenen la práctica de dili
 
 Los representantes del Fisco, de los Ayuntamientos, de la Beneficencia y del Ministerio Público, serán personalmente responsables de las costas que causaren, cuando no procedan obedeciendo instrucciones expresas o mandatos de la ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
 ###### ARTICULO 142.
 
 Siempre serán condenados en costas, cuando así lo solicite la contraria:
 
-I.- El litigante condenado en juicio y el que lo intente si no obtiene resolución favorable. Lo mismo se observará en los incidentes que surgieren;
+I.- El litigante condenado en juicio y el que lo intente si no obtiene resolución favorable; lo mismo se observará en los incidentes que surgieren;
 
-II.- El que fue condenado por dos sentencias conformes de toda conformidad en su parte resolutiva. En este caso como la condenación comprenderá las costas de ambas instancias.
+II.- El que fuere condenado por dos sentencias conformes de toda conformidad en su parte resolutiva. En este caso la condenación comprenderá las costas de ambas instancias;
+
+III.- El intente juicio en que se declare procedente la excepción de cosa juzgada, en cuyo caso, se duplicarán las costas a favor de la parte demandada.
 
 ###### ARTICULO 143.
 
@@ -1730,13 +1744,19 @@ VI.- Los fundamentos de derecho, procurando citar los preceptos legales o princi
 
 VII.- En su caso el valor de lo demandado.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 268.
 
-Presentada la demanda con los documentos y copias a que se refiere el Capítulo Tercero, del Título Segundo; de este Código se correrá traslado de ella a la persona o personas contra quienes se proponga, emplazándolas para que la contesten dentro de seis días.
+Presentada la demanda con los documentos y copias a que se refiere el Capítulo Tercero del Título Segundo, de este Código se correrá traslado de ella a la persona o personas contra quienes se proponga, emplazándolas para que la contesten dentro de ocho días, si el juicio fuere ordinario y dentro de cinco si fuera sumario.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
 ###### ARTICULO 269.
 
-Si el Juez encuentra que la demanda es obscura o irregular, prevendrá al actor que la aclare, corrija o complete de acuerdo con los artículos anteriores, señalándole en concreto sus defectos y una vez corregida le dará curso. El Juez hará esta prevención por una sola vez y verbalmente. Si no le da curso, podrá el promovente acudir en queja.
+Si el Juez encuentra que la demanda es obscura o irregular, prevendrá al actor para que dentro del término de tres días la aclare, corrija o complete de acuerdo con los artículos anteriores, señalándole en concreto sus defectos y una vez corregida le dará curso.
+
+Si el actor no enmendare su demanda, ésta le será devuelta, teniéndose por no presentada para todos los efectos legales. Esta determinación judicial es recurrible en queja.
 
 ###### ARTICULO 270.
 
@@ -1824,6 +1844,8 @@ Reglas Generales de la Prueba.
 
 Del Término Probatorio.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 283.
 
 Para conocer la verdad sobre los puntos controvertidos, puede el juzgador valerse de cualquiera persona, sea parte o tercero, o de cualquiera cosa o documento, ya sea que pertenezca a las partes o a un tercero, sin más limitación que la de que las pruebas no estén prohibidas por la Ley, ni sean contrarias a la moral.
@@ -1890,13 +1912,19 @@ Cuando con causa justificada alguno se oponga a exhibir documentos o cosas que t
 
 Las pruebas deberán ser ofrecidas relacionándolas con cada uno de los puntos controvertidos, declarando el nombre y domicilio de los testigos y peritos, y pidiendo la citación de la contra parte para absolver posiciones. No será necesario declarar el nombre y domicilio de los testigos y peritos cuando las partes por sí mismas ofrezcan presentarlos.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 296.
 
-Las partes deberán ofrecer sus pruebas dentro del término fatal de seis días que empezará a contarse desde el siguiente al en que se notifique la resolución en que se tiene por contestada la demanda.
+Las partes deberán ofrecer sus pruebas dentro de un término fatal de cinco días; la apertura de dicho término requiere de proveído expreso.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
 ###### ARTICULO 297.
 
-Al día siguiente en que termine el período de ofrecimiento de pruebas, el Juez dictará resolución en la que determinará las que se admitan sobre cada hecho, pudiendo limitar el número de testigos prudencialmente. No se admitirán diligencias de prueba contra derecho, contra la moral, o sobre hechos que no hayan sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles.
+Al día siguiente en que termine el período de ofrecimiento de pruebas, el Juez dictará resolución en la que determinará las que se admitan sobre cada hecho, pudiendo señalar día y hora para el desahogo de una o todas, sucesivamente y sin que la imposibilidad de rendir una de ellas impida la recepción de las restantes; igualmente podrá limitar el número de testigos prudencialmente.
+
+No se admitirán diligencias de prueba contra derecho, contra la moral, o sobre hechos que no hayan sido controvertidos por las partes, sobre hechos imposibles o notoriamente inverosímiles.
 
 ###### ARTICULO 298.
 
@@ -1932,7 +1960,9 @@ De la Confesión.
 
 ###### ARTICULO 299.
 
-El término probatorio es ordinario o extraordinario. El ordinario será de veinte días improrrogables, se abrirá por ministerio de ley al día siguiente del en que se notifique el auto de admisión de las pruebas ofrecidas.
+El término probatorio es ordinario o extraordinario. El ordinario será de treinta días si se trata de juicio ordinario y de quince días si se trata de juicio siendo tales términos improrrogables
+
+El término probatorio se abrirá por proveído expreso.
 
 ###### ARTICULO 300.
 
@@ -1990,9 +2020,11 @@ Del Valor de las Pruebas.
 
 Todo litigante está obligado a declarar bajo protesta, en cualquier estado del juicio, contestada que sea la demanda, hasta la citación para sentencia definitiva, cuando así lo exigiera el contrario, sin que por esto se suspenda el curso de los autos. En los mismos términos podrán articularse posiciones al abogado y al procurador sobre hechos personales y que tengan relación con el asunto.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 309.
 
-El que haya de absolver posiciones será citado personalmente, a más tardar el día anterior al señalado para la diligencia, bajo apercibimiento de que si dejare de comparecer sin justa causa, se tendrá por confeso.
+El que haya de absolver posiciones será citado personalmente, a más tardar con veinticuatro horas de anticipación a la hora señalada para la diligencia bajo; apercibimiento de que si se dejare de comparecer sin justa causa, será tenido por confeso.
 
 ###### ARTICULO 310.
 
@@ -2008,9 +2040,11 @@ Si el que debe absolver posiciones estuviere ausente, el juez librará el corres
 
 El Juez exhortado, recibirá la confesión, pero no podrá declararse confeso a ninguno de los litigantes, si no fuere expresamente facultado por el exhortante.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 311.
 
-La prueba de confesión se promoverá presentando el pliego que contenga las preguntas. Si éste se presenta cerrado deberá guardarse así en el secreto del juzgado, asentándose la razón respectiva en la misma cubierta. La prueba será admisible, aunque no se exhiba el pliego, pidiendo tan solo la citación; pero si no concurriere el absolvente a la diligencia, no podrá ser declarado confeso más que en aquellas posiciones que se hubieren formulado con anticipación.
+La prueba de confesión se promoverá presentando el pliego que contenga las preguntas. Si se presenta cerrado deberá guardarse así en el secreto del Juzgado, asentándose la razón respectiva en la misma cubierta.
 
 ###### ARTICULO 312.
 
@@ -2242,15 +2276,15 @@ Los peritos deberán tener título en la ciencia o arte a que pertenezca el punt
 
 Si la profesión o el arte no estuvieren legalmente reglamentados o estándolo, no hubiere peritos en el lugar, podrán ser nombradas personas entendidas, aún cuando no tengan título.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
 ###### ARTICULO 353.
 
-La parte litigante que promueva la prueba pericial, deberá nombrar su perito en el mismo escrito en que la proponga, formulando el cuestionario respectivo y obteniendo del mismo perito la aceptación, la protesta de cumplir fielmente con su encargo y el domicilio donde reciba notificaciones. La aceptación del perito debe ser ratificada ante el Juez al presentarse el escrito respectivo.
+La parte litigante que promueva la prueba pericial deberá nombrar su perito en el mismo escrito en que la proponga, formulando el cuestionario respectivo y obteniendo del mismo perito la aceptación, la protesta de cumplir fielmente con su cargo y el domicilio donde reciba notificaciones. La aceptación del perito debe ser ratificada ante el Juez o Secretario al presentarse el escrito respectivo.
 
 Igual procedimiento empleará la parte contraria en el nombramiento de su perito, debiéndolo designar dentro del tercer día a partir de la notificación del auto que ordene el dictamen pericial.
 
-El tercero en discordia siempre será nombrado por el Juez, mediante depósito de sus honorarios que deberá verificar el promovente de la prueba y cuyo monto será fijado por dicho funcionario, atendiendo a las reglas que sobre tasación fijen las leyes.
+El tercero en discordia siempre será nombrado por el Juez, mediante depósito de sus honorarios que deberá verificar el promovente de la prueba y cuyo monto será fijado por dicho funcionario, atendiendo a las reglas que sobre casación fijen las Leyes.
 
 ###### ARTICULO 354.
 
@@ -2488,6 +2522,8 @@ Contra las demás presunciones legales y contra las humanas es admisible la prue
 
 De los Alegatos y Citación para Sentencia.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 392.
 
 La confesión judicial hace prueba plena cuando concurren en ellas las siguientes condiciones:
@@ -2634,11 +2670,11 @@ La valorización de las pruebas se hará de acuerdo con el presente Capítulo, a
 
 De la Sentencia Ejecutoriada.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 419.
 
-Concluída la recepción de las pruebas ofrecidas, se entregarán los autos originales, primero al actor y después al reo por seis días para cada uno, para que aleguen.
-
-Pasado que sea el término para alegar, serán citadas las partes para sentencia, la que deberá pronunciars (sic) dentro de ocho días, observándose lo que se dispone en la parte relativa del Capítulo II, del Título Segundo.
+Concluida la recepción de las pruebas ofrecidas se mandarán poner los autos a disposición de las partes en la Secretaría del Juzgado, primero al actor y después del reo por cinco días a cada uno para que aleguen. En el mismo auto se citará para sentencia la que pronunciará el Tribunal dentro de los ocho días siguientes al en que concluya el término concedido para alegar.
 
 ### CAPITULO I.
 
@@ -2646,11 +2682,11 @@ De la Revocación.
 
 ###### ARTICULO 420.
 
-Hay cosa juzgada cuando la sentencia cause ejecutoria.
+Habrá cosa juzgada cuando la sentencia cause ejecutoria.
 
 Causan ejecutoria:
 
-I.- Las sentencias pronunciadas en juicios cuyo interés no exceda de doscientos pesos;
+I.- Las sentencias pronunciadas en juicios cuyo interés no exceda de mil pesos;
 
 II.- Las sentencias consentidas expresamente por las partes o por sus mandatarios con poder o cláusula especial;
 
@@ -2690,9 +2726,11 @@ Las demás resoluciones que no fueren apelables, pueden ser revocadas por el mis
 
 La revocación podrá pedirse en el acto de notificarse la resolución o dentro de las veinticuatro horas siguientes.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 425.
 
-Interpuesto el recurso, el Juez o Tribunal lo resolverá de plano, a menos que estime necesario oír a las partes. En este caso las citará a una audiencia verbal dentro de los tres días siguientes al de la citación, en la que se recibirán las pruebas, se oirán los alegatos y se pronunciará resolución, respecto de la cual no habrá más recurso que el de responsabilidad.
+Interpuesto el recurso, el Juez o Tribunal lo resolverá de plano; y solo por excepción, cuando considere que hay razón suficiente para ello, mandará correr traslado a la parte no recurrente para que en el término de tres días exprese lo que a su derecho convenga. Transcurrido este término, con contestación o sin ella al traslado, el Juez resolverá lo que corresponda.
 
 ###### ARTICULO 426.
 
@@ -2702,11 +2740,13 @@ En los juicios extraordinarios la revocación se resolverá siempre de plano.
 
 El recurso de apelación tiene por objeto que el tribunal de segunda instancia confirme, revoque o modifique la resolución dictada por el inferior.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 428.
 
-Pueden apelar: el litigante si creyere haber recibido algún agravio; los terceros que hayan salido al juicio; y los demás interesados a quienes perjudique la resolución judicial.
+Pueden apelar: El litigante si creyere haber recibido algún agravio; los terceros que hayan salido al juicio; y los demás interesados a quienes perjudique la resolución judicial.
 
-No puede apelar el que obtuvo todo lo que pidió; pero el vencedor que no obtuvo la restitución de frutos, la indemnización de daños y perjuicios o el pago de costas, podrá apelar también.
+No puede apelar el que obtuvo todo lo que pidió.
 
 ###### ARTICULO 429.
 
@@ -2834,9 +2874,11 @@ Los litigantes podrán pedir, sin necesidad de que el pleito se hubiere recibido
 
 Solicitado el término de prueba, puede la contraparte oponerse a que se conceda, al contestar los agravios o bien el traslado que se le dé a conocer de la petición del apelado y el tribunal resolverá de plano, dentro del tercer día, concediendo o negando el término y calificando las pruebas que deban admitirse con arreglo a los artículos 448 y 449.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 451.
 
-Expresados y contestados los agravios o transcurrido el término de la contestación, sin que ésta se hubiere presentado, se mandarán entregar los autos originales, primero al actor y después al reo, por cinco días a cada uno, para que aleguen. En el mismo auto se citará para sentencia, la que pronunciará el Tribunal dentro de los ocho días siguientes al en que concluya el término concedido para alegar.
+Expresados y contestados los agravios o transcurrido el término de la contestación, sin que ésta se hubiere presentado, se pondrán a disposición de las partes los autos en la Secretaría, primero del actor y después al reo, por cinco días a cada uno, para que aleguen. En el mismo auto se citará para sentencia, la que pronunciará el Tribunal dentro de los ocho días siguientes al en que concluya el término concedido para alegar.
 
 ### CAPITULO V.
 
@@ -3904,23 +3946,27 @@ La tramitación de estos juicios se sujetará a las disposiciones especiales de 
 
 En los negocios cuyo interés no exceda de cien pesos la tramitación se ajustará a las disposiciones relativas del Título Décimo Cuarto.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 621.
 
-El auto de emplazamiento, bajo la responsabilidad del Juez y del Secretario, se dictará en el acuerdo inmediato, dentro de las veinticuatro horas siguientes a la presentación de la demanda, ordenando correr traslado de ella a la parte demandada para que la conteste dentro de tres días.
+El auto de emplazamiento bajo la responsabilidad del Juez y del Secretario, se dictará en el acuerdo inmediato, dentro de las veinticuatro horas siguientes a la presentación de la demanda, ordenando correr traslado de ella a la parte demandada para que la conteste dentro de cinco días.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
 ###### ARTICULO 622.
 
 El mismo día deberá notificarse el auto en el domicilio que se indique en la demanda o en el lugar que señale, aún verbalmente, el interesado. Este tendrá derecho de acompañar al notificador para hacerle las indicaciones que faciliten la diligencia.
 
-Siempre se le entregará a la parte demandada copia simple de la demanda y de los documentos en que se funde y se le dejará cédula aun cuando se le haya encontrado personalmente. En el reverso se inscribirá el texto de los artículos 274, 629, 630, 631 y 635.
-
 ###### ARTICULO 623.
 
-La reconvención no se admitirá en estos juicios sino cuando la acción en que se funde estuviere también sujeta a juicio sumario.
+(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
 ###### ARTICULO 624.
 
-Sólo se tramitarán como de previo y especial pronunciamiento, las excepciones de incompetencia y de falta de personalidad o de capacidad.
+Sólo se tramitarán como de previo y especial pronunciamiento, las excepciones de incompetencia y de falta de personalidad o de capacidad. Las demás excepciones dilatorias se tramitarán con las perentorias y si fueren encontradas procedentes, a declararlo así se limitará la sentencia.
 
 ###### ARTICULO 625.
 
@@ -3928,89 +3974,65 @@ En esta clase de juicios las partes no tienen derecho de recusar al Juez, pero �
 
 ###### ARTICULO 626.
 
-El término para el ofrecimiento de pruebas será de tres días.
+(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
 
 ###### ARTICULO 627.
 
-Al día siguiente del en que termine el periodo de ofrecimiento de pruebas, el Juez dictará auto en el que determinará las que admitan sobre cada hecho, pudiendo limitar el número de testigos prudentemente y citará a las partes a la mayor brevedad, a una audiencia, para recibir en ella las pruebas, oír los alegatos y dictar la resolución que corresponda.
-
-Si de las pruebas admitidas, algunas hubieren de practicarse en el extranjero, señalará para la celebración de la audiencia un plazo no mayor de noventa días y al calificar el Juez, la admisibilidad de las pruebas, determinará la cantidad que deba depositarse para asegurar el pago de una multa, que impondrá, en caso de no rendirse la prueba. Sobre éste particular, rigen las disposiciones de los artículos 300 y 301.
+(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
 
 ###### ARTICULO 628.
 
-En el mismo auto el Juez procederá:
-
-I.- A citar a las partes a absolver las posiciones que hubiesen sido formuladas, bajo el apercibimiento de tenerlas por confesas si no se presentan a absolverlas;
-
-II.- A citar a los testigos y peritos bajo apercibimiento de multa o de ser conducidos por la policía, a no ser que la parte que los ofrece, se comprometa a su perjuicio a presentarlos;
-
-III.- A dar facilidades a los peritos para el examen de objetos, documentos, lugares o personas, para que puedan rendir su dictamen en la audiencia;
-
-IV.- A delegar o exhortar al Juez que corresponda, para que practique la inspección ocular y las compulsas que tengan que efectuarse fuera del lugar del juicio;
-
-V.- A exhortar al Juez que corresponda para que reciba las pruebas, cuando éstas tengan que practicarse fuera del lugar del juicio;
-
-VI.- A mandar traer copias, documentos, libros y demás instrumentos ofrecidos por las partes, ordenando las compulsas que fueren necesarias.
+(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
 
 ###### ARTICULO 629.
 
-El día y hora señalados en el auto a que se refiere el artículo 627, constituido el Tribunal en audiencia pública, el Secretario o quien haga sus veces dará lectura a los escritos que hubieren presentado las partes para plantear las cuestiones del juicio. A continuación el Juez oirá primero al actor y luego al demandado, pudiendo uno y otro aclarar o ampliar los puntos de la demanda y de la contestación y, si el demandado no concurriere asistido por abogado o hubiere omitido en su contestación referirse a alguno de los hechos de la demanda, el Juez le llamará la atención para que lo haga, haciéndole la prevención a que se refiere el artículo 274. Sólo se concederá el uso de la palabra por dos veces a cada una de las partes. Luego se abrirá el período de pruebas, procediéndose a recibir las admitidas, en el orden señalado en el artículo 298. La parte que objete un documento manifestará precisamente el motivo de la objeción y si ésta no entraña la denuncia de un delito, deberá justificarla, desde luego, cuando proceda, si no se acepta la objeción por la parte contraria.
-
-En lo general, en la misma audiencia se recibirán todas las pruebas admitidas, a menos que con causa justificada se solicite la suspensión o el Juez así lo disponga, en cuyo caso se señalará nuevo día y hora para reanudarla y recibir exclusivamente las pruebas pendientes.
+(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
 
 ###### ARTICULO 630.
 
-La audiencia se celebrará aun cuando no concurran las partes y estén o no presentes los abogados, peritos y testigos, a menos que aquéllas, de acuerdo, soliciten sea trasferida (sic), a lo cual podrá accederse por una sola vez.
-
-Si los peritos o testigos citados por el Juez dejaren de concurrir a la audiencia, se les hará efectiva la sanción con la que se les hubiere apercibido y se procederá como se dispone en el párrafo último del artículo anterior.
+(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
 
 ###### ARTICULO 631.
 
-Si a la audiencia concurre sólo el actor en ella se dará lectura a la contestación de la demanda si se hubiere producido y continuará el juicio por sus demás trámites.
-
-Si sólo concurre el demandado se le oirá previa lectura de la demanda observándose lo dispuesto en la parte final del párrafo anterior.
+(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
 
 ###### ARTICULO 632.
 
-Recibidas las pruebas se abrirá el período de alegatos y se oirán los que produzcan las partes verbalmente, primero el actor y luego el reo, pudiendo usar de la palabra durante media hora, hasta por dos veces cada una de ellas, procurando la mayor brevedad y precisión, limitándose a tratar sobre las cuestiones debatidas y pudiendo presentar sus conclusiones por escrito.
+(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
 
 ###### ARTICULO 633.
 
-Concluidos los alegatos, el Juez dictará cuando menos los puntos resolutivos de su sentencia, la que deberá engrosar dentro del tercer día. Sólo en las causas en que tuviere que examinar pruebas complejas, dictará su resolución ya engrosada, dentro de los cinco días que sigan a la celebración de la audiencia interrumpida con tal objeto.
-
-Si se hubiere opuesto excepción de incompetencia, se procederá como se dispone en el Capítulo Tercero, del Título Tercero de este Código.
-
-Cuando la excepción de previo y especial pronunciamiento consista en la falta de personalidad o capacidad se iniciará la audiencia recibiendo las pruebas relativas a esta excepción y oídos los alegatos, la sentencia resolverá sobre la procedencia o improcedencia de tal excepción. Si la declara procedente, reservará sus derechos a la parte para que los haga valer como corresponda y si la declaración es de improcedencia, continuará la audiencia recibiéndose las demás pruebas y alegatos para resolver en lo principal.
-
-Las demás excepciones dilatorias se tramitarán con las perentorias y si fueren encontradas procedentes, (sic) declararlo así se limitará la sentencia. Si no se hubieren opuesto o fueren encontradas improcedentes, lo que se declarará ante todo, el Juez entrará al estudio de la acción y de las excepciones perentorias, resolviendo el fondo del litigio.
+(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
 
 ###### ARTICULO 634.
 
-Todo lo practicado en la audiencia se hará constar en acta pormenorizada, que deberán autorizar el Juez y el Secretario o quien haga sus veces, en la cual se expresará, en forma clara y precisa, lo expuesto por las partes, lo relativo a las pruebas recibidas, los alegatos, las resoluciones pronunciadas y lo demás que el Juez estime necesario.
-
-Los peritos y testigos, evacuadas sus citas, podrán retirarse de la audiencia, firmando al margen del acta relativa en la parte correspondiente.
+(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
 
 ###### ARTICULO 635.
 
-La parte que no concurra a la audiencia o se retire antes de que concluya, se tendrá por notificada de las resoluciones que en ella se dicten; se entenderá que renuncia a los derechos que estando presente hubiere podido ejercitar y por confesa respecto de las posiciones previamente formuladas y que en la misma debiere absolver.
+(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
 ###### ARTICULO 636.
 
-En estos juicios no podrán ser recusados los peritos, pero las partes tendrán derecho de tacharlos conforme al artículo 357, para que el Juez lo tenga en cuenta al apreciar las pruebas.
+Los peritos que nombre el Juez, podrán ser recusados con causa; al hacerlo, las partes deben presentar las pruebas que la justifiquen y aquél resolverá de plano, sin más recurso que el de responsabilidad.
 
-Las tachas de los testigos, deberán proponerse con precisión hasta antes de los alegatos, presentando en el acto las pruebas de la existencia de aquellos u ofreceiendo (sic) presentarlas, en cuyo caso se suspenderá la audiencia para reanudarla el día y hora que señale el Juez.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
 ###### ARTICULO 637.
 
-Cualquier incidente o recurso de revocación que se suscite se decidirá de plano, a menos que el Juez crea necesario recibir las pruebas que se le ofrezcan, en cuyo caso se suspenderá la audiencia fallando al reanudarse ésta.
+Cualquier incidente o recurso de revocación que se suscite se decidirá de plano.
 
 ###### ARTICULO 638.
 
-Ninguna suspensión se concederá con término mayor de tres días para reanudar la audiencia, a menos que con causa justificada el Juez así lo disponga, pero en ningún caso tal término pdorá (sic) exceder de quince días.
+(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
 ###### ARTICULO 639.
 
-En estos juicios sólo será admisible la apelación cuando el interés del negocio exceda de doscientos pesos y se interponga contra la sentencia definitiva que en ellos se dicte o contra la interlocutoria que decida sobre la excepción de falta de personalidad o capacidad. En ambos casos el recurso se admitirá en el efecto devolutivo, y, si se interpone contra la resolución pronunciada en el incidente de falta de personalidad o de capacidad, una vez admitida cuando así proceda, se reservará la remisión de los autos hasta que se hallen en estado, pronunciada la definitiva. El tribunal de segunda instancia, para resolver en la apelación, procederá observando en lo conducente lo que se dispone en el artículo 633.
+En estos juicios sólo será admisible la apelación cuando el interés del negocio exceda de mil pesos y se interponga contra la sentencia definitiva o contra la interlocutoria que decida sobre las excepciones de falta de personalidad o de capacidad. En ambos casos, el recurso se admitirá en el efecto devolutivo.
 
 ###### ARTICULO 640.
 
@@ -4018,7 +4040,7 @@ El Juez y el Tribunal, en su caso, señalarán de oficio en la sentencia, el mon
 
 ###### ARTICULO 641.
 
-Los términos establecidos por disposiciones que, aun no comprendidas en este Capítulo, deban observarse y que no excedan de tres días, se tendrán por fijados en sus respectivos casos; los que excedan, se reducirán a la mitad, para cuyo efecto, los que fueren de un número impar, se aumentarán en un día más, pero de manera que en ningún caso la mitad que se tome pueda exceder de ocho días.
+(DEROGADO, P.O. 27 DE AGOSTO DE 1970)
 
 ### CAPITULO IV.
 
@@ -4170,9 +4192,11 @@ Si no se supiere el paradero del deudor ni tuviere casa en el lugar, se hará el
 
 Verificado el requerimiento de cualquiera de los modos indicados, se procederá al embargo en la forma prevenida en este Código, a no ser que se hubiere ya practicado con el carácter de provisional, pues entonces quedará éste como definitivo.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 667.
 
-Practicado el embargo o cuando el actor, por no haberse encontrado bienes en que trabar ejecución, se reserve el derecho de señalarlos, se emplazará al deudor para que conteste la demanda dentro de tres días y seguirá el juicio por los demás trámites señalados en el capítulo anterior.
+Practicado el embargo o cuando el actor, por no haberse encontrado bienes en que trabar ejecución, se reserva el derecho de señalarlos, se emplazará al deudor para que conteste la demanda, siguiendo el juicio por sus demás trámites, el término de contestación será de cinco días.
 
 ###### ARTICULO 668.
 
@@ -4192,9 +4216,11 @@ Cuando se trate del pago o prelación de un crédito hipotecario, es requisito i
 
 Cuando se entable pleito entre los que contrataron la hipoteca, procederá el juicio hipotecario sin necesidad del requisito del registro, siendo siempre condición indispensable, para inscribir la cédula que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen a favor de tercero.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 671.
 
-Presentada la demanda con el instrumento respectivo, si el Juez encuentra que se reúnen los requisitos señalados en los artículos anteriores, dispondrá la expedición, fijación y registro de la cédula hipotecaria y el emplazamiento del deudor para que conteste la demanda dentro de tres días, continuando el procedimiento con sujeción a las demás reglas generales del juicio sumario.
+Presentada la demanda con el instrumento respectivo, si el Juez encuentra que se reúnen los requisitos señalados en los artículos anteriores, dispondrá la expendición (sic), fijación y registro de la cédula hipotecaria y el emplazamiento del deudor para que conteste la demanda dentro de cinco días, continuando el procedimiento con sujeción a las demás reglas generales del juicio sumario.
 
 ###### ARTICULO 672.
 
@@ -4278,15 +4304,21 @@ Cuando no sea necesario conforme al Código Civil que el arrendamiento conste po
 
 Si en el acto de la diligencia el arrendatario hace entrega del valor de las pensiones reclamadas o justifica con los documentos correspondientes que las tiene pagadas, se asentará razón del hecho, se agregará el comprobante en su caso y se suspenderá la diligencia para dar cuenta al Juez. En el primer caso, éste mandará entregar al demandante el valor de las pensiones exhibidas y dará por concluido el juicio sin condenación en costas; en el segundo caso o cuando al contestar la demanda se presenten los justificantes del pago, se mandará dar vista de ellos al actor para que, dentro del término de 3 días manifieste, bajo protesta de decir verdad, si acepta o no tales justificantes. Si estuviere conforme, también se dará por concluído el negocio sin condenación en costas y, en caso contrario, continuará el procedimiento por sus demás trámites sin perjuicio de las acciones penales que procedan.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1946)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
 ###### ARTICULO 687.
 
-En cualquier estado del juicio hasta antes de practicarse el lanzamiento, si el demandado exhibe el recibo o el importe de las pensiones debidas, también dará el juez por terminado el negocio, pero impondrá al reo en el segundo caso, la condenación en costas, a menos que juntamente con la desocupación se hubiere demandado la rescisión del contrato de arrendamiento por otra diversa causal, en cuyo caso continuará el procedimiento.
+En cualquier estado del juicio hasta antes de practicarse el lanzamiento, si el demandado exhibe el recibo o el importe de las pensiones debidas, también dará el Juez por terminado el negocio, pero impondrá al reo en el segundo caso, la condenación en costas, a menos que juntamente con la desocupación se hubiere demandado la rescisión del contrato de arrendamiento por otra diversa causal, en cuyo caso continuará el procedimiento.
+
+Siempre que se decrete un lanzamiento, la sentencia que lo ordene, deberá declarar que dicho lanzamiento queda condicionado a lo dispuesto en el párrafo anterior y aunque no se haga esta declaración, se entenderá el lanzamiento sujeto a la condición expresada.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
 ###### ARTICULO 688.
 
-La sentencia dispondrá siempre cuando se declare procedente el lanzamiento y no se hubiere verificado la desocupación, que ésta se lleve a efecto hasta vencidos los términos señalados en el artículo 685, los que en ningún caso serán renunciables. Si ya estuvieren vencidos se procederá sin más trámite a ejecutar la sentencia, aún antes de engrosarla y sin que sea necesario el otorgamiento de fianza cuando se hubiere admitido apelación.
+La sentencia dispondrá siempre cuando se declare procedente el lanzamiento y si no se hubiere verificado la desocupación, que ésta se lleve a efecto hasta vencidos los términos señalados en el artículo 685, los que en ningún caso serán renunciables.
+
+En el caso a que se refiere el presente artículo la sentencia será apelable en ambos efectos.
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 1946)</small>
 
@@ -4328,9 +4360,11 @@ En vista de los títulos presentados para fundar la demanda y una vez justificad
 
 Contra la resolución en que se otorguen los alimentos provisionales, no habrá más recurso que el de responsabilidad del Juez y contra la que los deniegue procederá el de queja.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 697.
 
-Inmediatamente que se dicte sentencia otorgando los alimentos provisionales, se requerirá al que deba cubrirlos por el pago de la primera mensualidad y si no lo verifica en el acto de la diligencia, se procederá a embargarle bienes bastantes a cubrir su importe. Hecho el embargo se emplazará en forma al demandado para que conteste la demanda dentro del término de tres días y seguirá el juicio por los demás trámites.
+Inmediatamente que se dicte sentencia otorgando los alimentos provicionales (sic), se requerirá al que deba cubrirlos por el pago de la primera mensualidad y si no lo verifica en el acto de la diligencia, se procederá a embargarle bienes bastantes a cubrir su importe. Hecho el embargo se emplazará en forma al demandado para que conteste la demanda dentro del término de cinco días y seguirá el juicio por los demás trámites.
 
 ###### ARTICULO 698.
 
@@ -4452,9 +4486,11 @@ En toda clase de juicios, cuando se constituya en rebeldía un litigante, no se 
 
 Se tendrá por rebelde al litigante que después de citado en forma no comparezca al juicio y será declarado así a petición de la parte contraria. No será necesaria la petición cuando el que hubiere sido arraigado quebrante el arraigo sin dejar apoderado instruido y expensado.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
+
 ###### ARTICULO 724.
 
-En el caso a que se refiere la fracción II del artículo 117, los autos que ordenen que el negocio se reciba a prueba o señalen día para la audiencia de pruebas y alegatos, así como los puntos resolutivos de sentencia, se notificarán como se previene en la parte final del expresado artículo.
+En el caso a que se refiere la fracción II del artículo 117, el auto en que abre el período de ofrecimiento de pruebas, así como los puntos resolutivos de la sentencia, se notificarán como se previene en la parte final del expresado artículo.
 
 ###### ARTICULO 725.
 
@@ -6715,3 +6751,9 @@ P.O. 7 DE MARZO DE 1967.
 PRIMERO.- Quedan derogadas las disposiciones legales del orden común que se opongan a las reformas contenidas en esta Ley; consecuentemente, por depositario de numerario en asuntos que deban ventilarse ante los Tribunales del Estado, se entiende la Tesorería General o la Delegación Hacendaria respectiva.
 
 SEGUNDO.- La presente Ley, entrará en vigor quince días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE AGOSTO DE 1970.
+
+PRIMERO.- Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Los juicios cuya demanda haya sido admitida con anterioridad a la vigencia de las presentes reformas se tramitarán con base en los dispositivos que quedan abrogados o derogados por ellas.
