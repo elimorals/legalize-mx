@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2000-12-30"
+last_updated: "2002-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2002.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -333,11 +333,13 @@ Las facultades que este precepto otorga al juzgador, serán independientes del d
 
 ### CAPITULO IV. LOS OFENDIDOS
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 34.
 
-Durante las diligencias de preparación de la acción procesal penal, la persona ofendida por el delito podrá proporcionar al Ministerio Público, por sí, o por representante legal, todos aquéllos datos, indicios y medios de prueba que tenga y que puedan contribuir a que se acrediten los elementos del tipo penal, la probable responsabilidad del imputado y los daños y perjuicios ocasionados por aquél.
+Durante las diligencias de preparación de la acción procesal penal, la persona ofendida por el delito podrá proporcionar al Ministerio Público, por sí, o por representante legal todos aquéllos datos, indicios y medios de prueba que tenga y que puedan contribuir a que se acrediten los elementos del cuerpo del delito, la probable responsabilidad del imputado y los daños y perjuicios ocasionados por aquél.
 
-Una vez que se acrediten los elementos del tipo penal, el ofendido o su representante, podrá solicitar al Ministerio público que dicte las providencias necesarias para asegurar sus derechos o restituirlo en el goce de éstos, siempre que estén legalmente justificados.
+Una vez que se acredite el cuerpo del delito, el ofendido y su representante, podrá solicitar al Ministerio público que dicte las providencias necesarias para asegurar sus derechos o restituirlo en el goce de éstos, siempre que estén legalmente justificados.
 
 El Ministerio Público deberá notificar personalmente al ofendido, las determinaciones que tome sobre el ejercicio o no ejercicio de la acción penal.
 
@@ -861,17 +863,17 @@ El Ministerio Público solicitará y el juez librará orden de aprehensión cont
 
 Toda orden de aprehensión dictada se transcribirá inmediatamente al Ministerio Público para su ejecución por la Policía de Procuración de Justicia.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 118.
 
-Siempre que se realice una aprehensión en cumplimiento de orden judicial, salvo lo que se previene en el artículo siguiente, se deberá poner sin dilación alguna al aprehendido, a disposición del Organo Jurisdiccional respectivo, informando a éste acerca de la fecha, hora y lugar en que se efectuó.
+Siempre que se realice una aprehensión en cumplimiento de orden judicial, salvo lo que se previene en el artículo siguiente, cuando el imputado voluntariamente se ponga a disposición del Ministerio Público o del Juez, se deberá poner sin dilación alguna al aprehendido a disposición del Organo Jurisdiccional respectivo, informando a éste acerca de la fecha, hora y lugar en que se efectuó.
 
-Cuando se trate del cumplimiento de orden de aprehensión por delitos que permitan la libertad provisional bajo caución, en cuyo caso el Juez asentará esta circunstancia al transcribirse la orden respectiva; los agentes de la Policía de Procuración de Justicia prevendrán al imputado por escrito y con copia de la respectiva orden, para que dentro de los tres días hábiles siguientes se presente ante el Juez, y remitirán a este copia de la prevención firmada por el imputado.
+Entratándose de delitos que permitan libertad provisional bajo caución, el juez asentará esta circunstancia al transcribirse la orden respectiva. Se ejecutarán las órdenes de aprehensión, en forma que permita que el trámite del benéfico sea posible realizarlo sin tardanza y sin motivar que se prolongue la privación de la libertad.
 
-En caso de incumplimiento previa comunicación en tal sentido del juzgador, se ejecutarán las órdenes de aprehensión en forma que permita que el trámite del beneficio sea posible realizarlo sin tardanza y sin motivar que se prolongue la privación de la libertad.
+Se entenderá que el imputado queda a disposición del juzgador, para los efectos constitucionales y legales correspondientes, desde el momento en que sea puesto a su disposición en la prisión preventiva o en un centro hospitalario, si el imputado amerita atención médica urgente. El encargado del reclusorio o del centro hospitalario asentará en el documento que ordene la internación, el día y hora del recibo de detenido.
 
-Se entenderá que el imputado queda a disposición del Juzgador, para los efectos Constitucionales y legales correspondientes, desde el momento en que sea puesto a su disposición en la prisión preventiva o en un centro hospitalario, si el imputado amerita atención médica urgente. El encargado del reclusorio o del centro hospitalario asentará en el documento que ordene la internación, el día y hora del recibo del detenido.
-
-El encargado del reclusorio, en su caso, ordenará se practique de inmediato, por personal médico de la dependencia o legista, examen psico-físico del detenido, cuyo resultado remitirá al Juez que corresponda.
+El encargado del reclusorio, en su caso, ordenará se practique de inmediato, por personal médico de la dependencia o legista, examen psicofísico del detenido, cuyo resultado remitirá al Juez que corresponda.
 
 ###### ARTICULO 119.
 
@@ -1143,11 +1145,11 @@ Si son varios los ofendidos, éstos procurarán demandar conjuntamente y de no s
 
 Transcurrido el plazo fijado sin que se promueva el juicio civil o el incidente, se procederá en la forma indicada en el párrafo segundo del artículo anterior.
 
-> <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 157.
 
-El Ministerio Público, durante la averiguación previa y encontrándose acreditado los elementos de tipo penal, podrá, a solicitud del ofendido, ordenar y llevar a cabo el aseguramiento provisional y por un tiempo que no exceda de treinta días, de bienes muebles que por otra razón legal no se encuentren a su disposición, para garantizar el pago de la reparación del daño y puedan ser objeto de embargo precautorio por el juzgador. Dichos bienes quedarán en depósito bajo la responsabilidad de su poseedor o propietario.
+El Ministerio Público, durante la averiguación previa y encontrándose acreditado el cuerpo del delito, podrá a solicitud del ofendido, ordenar y llevar a cabo el aseguramiento provisional y por un tiempo que no exceda de treinta días, de bienes muebles que por otra razón legal no se encuentren a su disposición para garantizar el pago de la reparación del daño y puedan ser objeto de embargo precautorio por el juzgador. Dichos bienes quedarán en depósito bajo la responsabilidad de su poseedor o propietario.
 
 Si se trata de inmuebles, la medida se concretará a solicitar del Registro Público de la Propiedad, que no se efectúe la inscripción de ningún acto jurídico que afecte total o parcialmente el derecho de propiedad o constituya gravamen sobre los mismos.
 
@@ -1157,11 +1159,11 @@ La medida se dejará sin efectos si durante el lapso mencionado se paga o garant
 
 ### CAPITULO VI. RESTITUCION AL OFENDIDO EN SUS DERECHOS
 
-> <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 158.
 
-Una vez que se acrediten los elementos del tipo penal, el ofendido podrá solicitar al Ministerio Público, durante el período de preparación de la acción procesal penal o al Juzgador, en el proceso, que dicte las providencias necesarias para asegurar sus derechos o restituirlo en el goce de éstos, siempre que estén legalmente justificados.
+Una vez que se acredite el cuerpo del delito, el ofendido podrá solicitar al Ministerio Público, durante el periodo de preparación de la acción procesal penal o al juzgador en el proceso, que dicte las providencias necesarias par asegurar sus derechos o restituirlo en el goce de estos, siempre que estén legalmente justificados.
 
 El Ministerio público, durante la averiguación previa y cuando se trate de bienes inmuebles sólo podrá asegurarlos por el tiempo indicado en el párrafo primero y en la forma prevista en el párrafo segundo del artículo 157.
 
@@ -1715,9 +1717,13 @@ La autoridad expondrá en su resolución los razonamientos que haya tenido en cu
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 239.
 
-Las diligencias de preparación de la acción procesal penal consisten en la investigación de los hechos posiblemente delictuosos de que tenga conocimiento el Ministerio Público, con el objeto de acreditar los elementos del tipo penal y establecer por lo menos la probable responsabilidad del imputado como requisitos para proceder al ejercicio de la acción penal.
+Las diligencias de preparación de la acción procesal penal consisten en la investigación de las conductas o hechos posiblemente delictuosos de que tengan conocimiento el Ministerio Público, con el objeto de comprobar los elementos del tipo y la probable responsabilidad penal del inculpado.
+
+Para el ejercicio de la acción penal, será suficiente para proceder en el ejercicio de la acción penal que acredite la existencia del cuerpo del delito y establezca la probable responsabilidad penal del imputado.
 
 ###### ARTICULO 240.
 
@@ -1779,9 +1785,11 @@ Cuando el Ministerio Público tenga conocimiento, por llamada telefónica, del s
 
 En el caso del artículo anterior, se procederá a levantar el acta correspondiente, en la que se asentarán: la forma en que se tuvo conocimiento preventivo de los hechos, la denuncia formal de los mismos, la descripción de lo que haya sido objeto de inspección, y demás particularidades que se hayan notado, los nombres y domicilios u otros datos de identificación de los presuntos responsables y de los testigos que deban ser examinados; las medidas y providencias que se hayan tomado para la investigación de los hechos, así como los demás datos y circunstancias que se estime necesario hacer constar.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 250.
 
-Concluida el acta que se menciona, el Ministerio Público ordenará se tome declaración a los detenidos, sin perjuicio de ampliarla posteriormente, así como a los testigos; se recaben o practiquen los dictámenes periciales resultantes, y en general todas las diligencias que estimen necesarias para la comprobación de los elementos del tipo penal y la probable responsabilidad de los imputados.
+Concluida el acta que se menciona, el Ministerio Público ordenará se tome declaración a los detenidos, sin perjuicio de ampliarla posteriormente, así como a los testigos; se recaben o practiquen los dictámenes periciales resultantes, y en general, todas las diligencias que se estime necesarias para la acreditación del cuerpo del delito y la probable responsabilidad de los imputados.
 
 ###### ARTICULO 251.
 
@@ -1919,13 +1927,19 @@ Cuando para la localización y captura de indiciados contra quienes se haya dict
 
 Si la averiguación previa se consigna con detenido y el juez ratifica la detención en los términos del artículo 294, las intervenciones telefónicas o la vigilancia electrónica serán convalidadas, si procede, en el mismo acto; en caso contrario, serán nulas y no podrán ser utilizadas en contra del inculpado.
 
-### CAPITULO VII. COMPROBACION DE LOS ELEMENTOS DEL TIPO PENAL Y DE LA PROBABLE RESPONSABILIDAD DEL INCULPADO
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2002)</small>
+
+### CAPITULO VII. ELEMENTOS DEL TIPO, DEL CUERPO DEL DELITO Y SU DEMOSTRACION
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 278.
 
-El Ministerio Público acreditará los elementos del tipo penal del delito de que se trate y la probable responsabilidad del inculpado, como base del ejercicio de la acción penal; y la autoridad judicial, a su vez, examinará si ambos requisitos están acreditados en autos.
+Para ejercitar la acción penal, será suficiente que el Ministerio Público acredite la existencia del cuerpo del delito de que se trate y establezca la probable responsabilidad del inculpado; y la autoridad judicial, a su vez, examinará dentro del término que establece el articulo 19 de la Constitución General de la República si ambos requisitos están acreditados en autos.
 
-Los elementos del tipo son:
+Por cuerpo del delito se entiende la demostración de todos los elementos materiales que integran la infracción.
+
+Para la sentencia definitiva u otra resolución que ponga fin al proceso, se requerirá de la demostración, con prueba plena e indubitable, de la totalidad de los elementos del tipo, incluyendo en su caso los subjetivos y normativos. Son elementos del tipo:
 
 I.- La existencia de la correspondiente acción u omisión y de la lesión o, en su caso, el peligro a que ha sido expuesto el bien jurídico protegido;
 
@@ -1935,25 +1949,29 @@ III.- La realización dolosa o culposa de la acción u omisión.
 
 Asimismo, se acreditarán, si el tipo lo requiere:
 
-a).- las calidades del sujeto activo y del pasivo;
+a).- Las calidades del sujeto activo y del pasivo;
 
-b).- el resultado y su atribuibilidad a la acción u omisión;
+b).- El resultado y su atribuibilidad a la acción u omisión;
 
-c).- el objeto material;
+c ).- El objeto material;
 
-d).- los medios utilizados;
+d).- Los medios utilizados;
 
-e).- las circunstancias del lugar, tiempo, modo y ocasión;
+e).- Las circunstancias del lugar, tiempo, modo y ocasión;
 
-f).- los elementos normativos en general;
+f).- Los elementos normativos en general;
 
-g).- los elementos subjetivos específicos y
+g).- Los elementos subjetivos específicos y
 
-h).- las demás circunstancias que la ley prevea.
+h).- Las demás circunstancias que la ley prevea.
 
-Para resolver sobre la probable responsabilidad del imputado, la autoridad deberá constatar que obren datos suficientes para identificarlo como quien incurrió en la conducta típica de que se trate.
+Elementos subjetivos, son los que se derivan de la persona del delincuente o del ofendido.
 
-Los elementos del tipo penal y la probable responsabilidad, se acreditarán por cualquier medio probatorio que señale la ley.
+Elementos normativos, son todos aquellos que se derivan de la existencia de cualquier disposición legal relacionada con el delito.
+
+Para resolver sobre la probable responsabilidad del inculpado la autoridad deberá constatar que obren datos suficientes para identificarlo como quien incurrió en la conducta típica de que se trate.
+
+Los elementos del tipo, el cuerpo del delito y la probable responsabilidad penal, se acreditarán por cualquier medio probatorio que señale la ley.
 
 ###### ARTICULO 279.
 
@@ -1985,13 +2003,15 @@ Cuando se trate de lesiones externas, el Ministerio Público deberá realizar la
 
 ### CAPITULO I. EJERCICIO DE LA ACCION PENAL
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ## TITULO SEGUNDO. DETERMINACIONES CON LAS QUE CONCLUYE EL PERIODO DE PREPARACION DE LA ACCION PROCESAL PENAL
 
 ### CAPITULO II. NO EJERCICIO DE LA ACCION PENAL
 
 ###### ARTICULO 285.
 
-Para ejercitar la acción penal el Ministerio Público deberá tener por acreditados los elementos del tipo penal, y la probable responsabilidad del indiciado.
+Para ejercitar la acción penal el Ministerio Público deberá tener por acreditado el cuerpo del delito y la probable responsabilidad del indiciado.
 
 ###### ARTICULO 286.
 
@@ -2019,7 +2039,9 @@ II.- Cuando se compruebe plenamente una causa de inexistencia del delito;
 
 III.- Cuando se haya extinguido la acción persecutoria del delito, en los términos del Código Penal para el Estado;
 
-IV.- Cuando no se acrediten plenamente los elementos del tipo penal de que se trate; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
+
+IV.- Cuando no se acredite plenamente el cuerpo del delito de que se trate; y
 
 V.- Cuando no se acredite la probable responsabilidad del indiciado en la comisión del delito que se le impute.
 
@@ -2047,9 +2069,11 @@ Las averiguaciones previas serán consignadas a los jueces penales por riguroso 
 
 El Juzgador ante el cual se ejercite la acción penal radicará de inmediato el asunto. Sin más trámite, abrirá expediente, en el que resolverá lo que legalmente corresponda ordenando la práctica, sin demora alguna, de las diligencias que estime necesarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 294.
 
-Si los datos de la averiguación previa, son suficientes para tener por acreditados los elementos del tipo penal y la probable responsabilidad del indiciado, el juez deberá:
+Si los datos de la averiguación previa, son suficientes para tener por acreditado el cuerpo del delito y la probable responsabilidad del indiciado, el juez deberá:
 
 I.- Librar orden de aprehensión si el delito que se imputa tiene señalada pena privativa de libertad y no se concedió, durante las diligencias de averiguación previa, la libertad provisional administrativa;
 
@@ -2059,7 +2083,9 @@ III.- Analizar en caso de haber detenido, si la detención se ajustó o no a los
 
 IV.- Librar orden de comparecencia o de libertad, según proceda, cuando el detenido goce de la libertad provisional otorgada por el Ministerio Público y la detención se haya ajustado o no a los requisitos de flagrancia o urgencia. En caso afirmativo deberá legitimar la detención y proceder en los términos del artículo 133 de este Código. Notificado el inculpado de la radicación de la causa, se fijará día y hora para la declaración preparatoria.
 
-Si con los datos de la averiguación previa no se acreditan los elementos del tipo penal o la probable responsabilidad del indiciado, en los casos de las fracciones I y II se negarán las órdenes de aprehensión o comparecencia y en los casos de las fracciones III y IV se decretará la libertad con las reservas de ley. En los casos anteriores se devolverá la averiguación al Ministerio Público para los efectos que procedan, sin perjuicio del medio de impugnación correspondiente.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
+Si con los datos de la averiguación previa no se acredita el cuerpo del delito y la probable responsabilidad del indiciado, en los casos de las fracciones I y II se negarán las ordenes de aprehensión o comparecencia y en los casos de las fracciones III y IV se decretará la libertad con las reservas de ley. En los casos anteriores se devolverá la averiguación.
 
 Surtiéndose alguno de los supuestos que se mencionan en el artículo 310 al negarse la orden de aprehensión o comparecencia, se resolverá en los términos que se indican en el citado artículo.
 
@@ -2103,7 +2129,9 @@ Dentro de las setenta y dos horas siguientes al momento en que el inculpado qued
 
 I.- Que se haya tomado declaración preparatoria del inculpado, o bien que conste en el expediente que éste se rehuso a declarar o que no lo hizo por imposibilidad material insuperable;
 
-II.- Que estén acreditados los elementos del tipo penal y que éste tenga señalada sanción privativa de libertad;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
+
+II.- Que esté acreditado el cuerpo del delito y que éste tenga señalada sanción privativa de libertad;
 
 III.- Que esté acreditada la probable responsabilidad del inculpado; y
 
@@ -2115,9 +2143,11 @@ El Ministerio Público no podrá solicitar dicha ampliación ni el juez resolver
 
 La ampliación del plazo se deberá notificar al Director del reclusorio preventivo en donde, en su caso, se encuentre internado el inculpado, para los efectos a que se refiere la última parte del primer párrafo del artículo 19 de la Constitución Federal.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 303.
 
-Cuando el tipo penal cuyos elementos se hayan acreditado esté sancionado con pena alternativa o no privativa de libertad, el juez dictará auto, con todos los requisitos del de formal prisión, sujetando a proceso al probable responsable para el sólo efecto de señalar el delito que será objeto del mismo.
+Cuando el tipo penal cuyo cuerpo del delito se haya acreditado esté sancionado con pena alternativa o no privativa de libertad, el juez dictará auto, con todos los requisitos del de formal prisión, sujetando a proceso al probable responsable para el sólo efecto de señalar el delito que será objeto del mismo.
 
 ###### ARTICULO 304.
 
@@ -2151,9 +2181,11 @@ Además de los autos de libertad con las reservas de ley, que se previenen en el
 
 Cuando el auto de libertad se funde y motive en la comprobación plena de que la conducta imputada no es constitutiva de delito o que existe en favor del imputado causa de inexistencia del mismo o que se encuentra extinguida la acción persecutoria, se decretará el sobreseimiento de la causa.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 311.
 
-Si la libertad se decreta por no haberse acreditado los elementos del tipo o la probable responsabilidad del imputado, el juez, en la misma pieza de autos ordenará el desahogo de las diligencias que se encuentren pendientes o las que estime necesario practicar, dando vista a las partes para que dentro de los diez días siguientes promuevan las pruebas que estimen necesarias, las que, en su caso, deberán desahogarse, a más tardar en los treinta días siguientes al plazo anterior.
+Si la libertad se decreta por no haberse acreditado el cuerpo del delito, o la probable responsabilidad penal del imputado, el juez, en la misma pieza de autos ordenará el desahogo de las diligencias que se encuentran pendientes o las que estime necesario practicar, dando vista a las partes para que dentro de los diez días siguientes promuevan las pruebas que estimen necesarias, las que, en su caso, deberán desahogarse, a más tardar en los treinta días siguientes al plazo anterior.
 
 ###### ARTICULO 312.
 
@@ -2961,7 +2993,9 @@ En cualquier estado de la instrucción en que aparezca que se han desvanecido lo
 
 En consecuencia, la libertad por desvanecimiento de datos procede en los siguientes casos:
 
-I.- Cuando en el curso de la instrucción aparezcan desvanecidas, por prueba plena indubitable, las que sirvieron para acreditar el tipo del delito; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
+
+I.- Cuando en el curso del proceso, aparezcan desvanecidas, por prueba plena indubitable las que sirvieron para demostrar el cuerpo del delito y la probable responsabilidad penal del inculpado;
 
 II.- Cuando, sin que aparezcan datos posteriores de responsabilidad, se hayan desvanecido, por prueba plena indubitable, los señalados en el auto de formal prisión o sujeción a proceso, para tener al imputado como probable responsable.
 
@@ -3074,3 +3108,13 @@ Los juicios que se encuentren en trámite o pendientes de resolución a la fecha
 P.O. 30 DE DICIEMBRE DE 2000.
 
 UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 22 DE JUNIO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
