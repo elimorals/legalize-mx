@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "1994-10-23"
+last_updated: "1994-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,83 +23,19 @@ state: "AGU"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES -- ANTES LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DE 1986 --
 
-LEY QUE REGULA LOS SERVICIOS DE SEGURIDAD QUE SE OTORGAN A INSTITUCIONES Y PARTICULARES EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1994.
 
-Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz-Llave, el sábado 20 de julio de 1991.
+Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
+RODOLFO LANDEROS GALLEGOS, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 
-DANTE DELGADO, Gobernador del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes, sabed:
+Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 
-Que la H. Legislatura del Estado se ha servido expedir la siguiente:
+El H. Congreso del Estado en sesión ordinaria celebrada hoy, y en uso de la facultad que le concede la fracción II del Artículo 27 de la Constitución Política Local, tuvo a bien expedir la siguiente:
 
-LEY
-
-Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
-
-La Honorable Quincuagésima Quinta Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le conceden los artículos 68, fracción I y 71 fracción I, ambos de la Constitución Política del Estado; 47, 49 y 50 de la Ley Orgánica del Poder Legislativo del Estado de Veracruz y 57, 58, 59, 60, 61 y 64 del Reglamento Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
-
-> <small>(REFORMADA SU DENOMINACION POR ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. DE 18 DE MARZO DE 2003)</small>
-
-LEY N° 117
-
-QUE REGULA LOS SERVICIOS DE SEGURIDAD QUE SE OTORGAN A INSTITUCIONES Y PARTICULARES EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
-
-###### ARTICULO 1°.
-
-(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
-
-###### ARTICULO 2°.
-
-(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
-
-###### ARTICULO 3°.
-
-Las personas físicas o morales de carácter privado, sólo podrán prestar los siguientes servicios:
-
-I.- La custodia y traslado de valores.
-
-II.- Exclusivamente la vigilancia de inmuebles pertenecientes a particulares, realizada en el interior de los mismos. Lo dispuesto en esta fracción, no comprende los servicios de vigilancia que se realizan en inmuebles abiertos al público, con el objeto de guardar el orden de las personas que a ellos asistan.
-
-Quienes presten estos servicios no deberán tener antecedentes penales.
-
-###### ARTICULO 4°.
-
-En la prestación de los servicios regulados por esta Ley se observará lo siguiente:
-
-I.- Las personas físicas o morales que presten estos servicios, requerirán autorización de la Secretaría General de Gobierno y estarán sujetos a la supervisión de la Dirección General de Seguridad Pública para los efectos de esta Ley.
-
-II.- Los vehículos destinados al servicio, deberán ostentar visiblemente su denominación, logotipo o escudo, número que los identifique y placas de circulación.
-
-III.- Las personas encargadas de llevar a cabo la vigilancia, deberán portar uniforme, que satisfaga las características y especificaciones que determine la Dirección General de Seguridad Pública.
-
-IV.- El personal deberá identificarse con la credencial que al efecto le sea expedida, la que en su caso, tendrá inserta la autorización para la portación de armas de fuego expedida por la Secretaría de la Defensa Nacional.
-
-V.- Se deberán utilizar sistemas adecuados y apegados a derecho. Los titulares serán responsables de que se lleve a cabo una evaluación constante, que permita conocer con objetividad el comportamiento, eficiencia y preparación del personal encargado de prestar directamente el servicio.
-
-###### ARTICULO 5°.
-
-El personal que cuente con la credencial que se señala en la fracción IV del artículo anterior, en la que se autorice la portación de armas, no podrá portar éstas, cuando se encuentre fuera de servicio.
-
-###### ARTICULO 6°
-
-A quien preste los servicios a que se refiere esta Ley, en contravención a la misma, se le sancionará con multa hasta por la cantidad equivalente a mil días de salario mínimo general vigente en la capital del Estado, en caso de reincidencia la multa se duplicará y de persistir la violación se ordenará la clausura.
-
-Corresponderá a la Secretaría de Finanzas y Planeación, por conducto de la Dirección General de Ingresos, aplicar las multas; para ello, cuando tenga conocimiento de una violación, lo comunicará al presunto infractor, quien tendrá cinco días para alegar y probar lo que a su derecho convenga, concluido el plazo se dictará la resolución que proceda.
-
-###### ARTICULO 7°.
-
-(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
-
-###### ARTICULO 8°.
-
-(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
-
-###### ARTICULO 9°.
-
-(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
+LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -155,21 +91,27 @@ La Hacienda Pública Municipal no puede afectarse a un fin específico. En el ca
 
 ###### ARTICULO 10.
 
-(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
+A excepción de los ingresos provenientes de Aprovechamientos, ninguna autoridad fiscal del Municipio puede modificar la cuantía de los créditos hacendarios a favor del Ayuntamiento.
+
+Solo el Presidente Municipal está facultado para modificar el monto de un crédito fiscal proveniente de Aprovechamiento.
 
 ###### ARTICULO 11.
 
-(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
+Los créditos hacendarios a favor del Ayuntamiento, deberán liquidarse en los términos señalados por esta Ley. El presidente Municipal podrá acordar el otorgamiento de un plazo o plazos mayores a los previstos por este Ordenamiento sin que la concesión exceda al ejercicio fiscal correspondiente.
+
+También queda facultado para establecer mediante convenio, una cuota fija como importe del pago de un impuesto o un derecho que deba calcularse por medio de tasa, siempre y cuando no sea posible su liquidación en los términos previstos por esta Ley o cuando no compense el sostenimiento del interventor, inspector o recaudador que sea indispensable designar.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 1991)</small>
 
 ###### ARTICULO 12.
 
-(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
+El Tesorero y los Directores de los organismos fiscales autónomos quedan facultados para aplicar el procedimiento económico coactivo que previene el Código Fiscal del Estado.
 
 ###### ARTICULO 13.
 
-(DEROGADO, G. O. 12 DE AGOSTO DE 2005)
+En lo no previsto por este Ordenamiento, tanto sustantiva como adjetivamente, se estará a la Ley de Coordinación Fiscal y los convenios celebrados conforme a la misma por el Gobierno del Estado de Aguascalientes; a la Ley de Hacienda del Estado, Código Fiscal del Estado, los principios Generales del Derecho y la Jurisprudencia.
 
-TRANSITORIOS:
+Las autoridades fiscales del Municipio podrán aplicar la analogía para resolver situaciones de procedimiento fiscal.
 
 ###### ARTICULO 14.
 
@@ -727,11 +669,11 @@ III.- Por cualquiera de las circunstancias a que se refiere la Ley de Catastro d
 
 Este Impuesto se liquidará de conformidad con las cuotas y tasas, que al efecto señale la Ley de Ingresos del Municipio.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 49.
 
-El pago de este impuesto se efectuará a más tardar el último día hábil de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
-
-Los pagos pueden hacerse por anticipado sin perjuicio del cobro de diferencia en caso de que se modifique la base gravable.
+Este impuesto se pagará en forma anual dentro del periodo comprendido del mes de enero al último día hábil del mes de marzo.
 
 ###### ARTICULO 50.
 
@@ -950,6 +892,10 @@ No se pagará el impuesto establecido en esta ley:
 1.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
 
 2.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan estos al enajenante.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1994)</small>
+
+3.- Las asociaciones religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, siempre y cuando la adquisición se realice antes del 31 de diciembre de 1994.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
@@ -1655,11 +1601,71 @@ Impuestos, Derechos y demás ingresos causados en ejercicios fiscales anteriores
 
 ###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor el día siguiente a su publicación en la "Gaceta Oficial" del Estado.
+Se derogan todos los ordenamientos fiscales que se opongan a la presente Ley.
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan a esta Ley.
+La presente Ley de Hacienda se suspenderá en sus efectos en lo que contravengan a la Ley del Impuesto al Valor Agregado y al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos, celebrado entre el Estado de Aguascalientes y la Secretaría de Hacienda y Crédito Público.
+
+Al Ejecutivo para su sanción.
+
+Dada en el Salón de Sesiones del H. Congreso del Estado, a los veintiséis días del mes de diciembre de mil novecientos ochenta y cinco.- D.P.- Ing. Ignacio Ruelas Olvera.- D.S., Profra. Ofelia C. de Campillo.- D.S., Profr. Antonio Murillo Adame.- Rúbricas.
+
+Y tenemos el honor de comunicarlo a usted para su conocimiento y efectos legales consiguientes, reiterándole las seguridades de nuestra consideración distinguida.
+
+SUFRAGIO EFECTIVO. NO REELECCION.
+
+DIPUTADO PRESIDENTE,
+
+Ing. Ignacio Ruelas Olvera.
+
+DIPUTADA SECRETARIA,
+
+Profra. Ofelia C. de Campillo.
+
+DIPUTADO SECRETARIO,
+
+Profr. Antonio Murillo Adame.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Aguascalientes, Ags., diciembre 27 de 1985.
+
+Rodolfo Landeros Gallegos.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+Lic. Joaquín Cruz Ramírez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE AGOSTO DE 1988.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 21 DE OCTUBRE DE 1990.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 24 DE FEBRERO DE 1991.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 3 DE MARZO DE 1991.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 24 DE OCTUBRE DE 1993.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
