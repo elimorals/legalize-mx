@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1973-12-24"
+last_updated: "1975-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1973.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 1975.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -443,7 +443,9 @@ VII. Constituirse en Colegio Electoral a efecto de calificar la elección de Gob
 
 VIII. Ratificar los nombramientos de los Magistrados del Tribunal Superior de Justicia expedidos por el C. Gobernador del Estado. Si la Cámara no resolviere sobre la ratificación o no ratificación de dichos nombramientos, dentro del término de diez días, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara, no podrán tomar posesión los Magistrados nombrados por el C. Gobernador del Estado. En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de una misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego el Magistrado Provisional y el Gobernador someterá nuevo nombramiento a la aprobación del Congreso, en los términos señalados. Cuando por enfermedad o licencia de alguno de los Magistrados, no se pudiera integrar el Tribunal Superior de Justicia, los nombramientos provisionales que el C. Gobernador extienda para cubrir la vacante, no están sujetos a ratificación del Congreso, siempre que la ausencia del Magistrado Propietario no exceda de tres meses.
 
-IX. Recibir la protesta del Gobernador, Magistrados y Diputados.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 1975)</small>
+
+IX. Recibir la protesta del Gobernador, Magistrados y Diputados, hecha excepción del caso de desaparición de Poderes, conforme a la Fracción V del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos, en cuyo caso, el nuevo Gobernador rendirá la protesta ante los Presidentes Municipales presentes de las Cabeceras de los Distritos Electorales Locales; así como la de los Magistrados del H. Tribunal Superior de Justicia.
 
 X. Nombrar y remover al Contador Mayor de Glosa y aprobar los nombramientos que de los empleados subalternos haga el Contador.
 
@@ -497,9 +499,13 @@ IV. Conceder licencia hasta por seis meses al Gobernador, a los magistrados, dip
 
 V. Llamar a los diputados suplentes para las próximas sesiones en caso de muerte, inhabilidad o licencia de los propietarios;
 
-VI. Recibir la protesta del Gobernador y de los magistrados.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 1975)</small>
 
-VII. Convocar inmediatamente por sí sola, al Congreso a sesiones extraordinarias siempre que el Gobernador, los Diputados, los magistrados o el Procurador General de Justicia, hayan cometido algún delito grave de orden común y en los casos de falta absoluta del Gobernador;
+VI. Recibir la Protesta del Gobernador y Magistrados, salvo el caso de desaparición de Poderes previsto por la fracción IX del Artículo 41 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 1975)</small>
+
+VII. Convocar por sí sola, al Congreso a Sesiones Extraordinarias, para los efectos señalados en los Artículos 51, 91 y 92 de esta Constitución;
 
 VIII. Recibir dentro del receso del Congreso las iniciativas de Ley y proposiciones dirigidas a la Cámara y turnarlas para dictamen a las comisiones respectivas, a fin de que se despachen en el inmediato período de sesiones;
 
@@ -525,11 +531,11 @@ I. Ser ciudadano del Estado en ejercicio de sus derechos políticos, natural del
 
 II. Haber cumplido treinta años de edad al tiempo de la elección; (sic)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 1975)</small>
 
 ###### Artículo 48.
 
-No podrán ser electos Gobernadores:
+No podrá ser electo Gobernador:
 
 I. Los Ministros de cualquier culto.
 
@@ -537,9 +543,9 @@ I. Los Ministros de cualquier culto.
 
 II. El Gobernador Substituto Constitucional y el designado para concluir el período en caso de falta absoluta del Constitucional, aun cuando tenga distinta denominación, y el Gobernador Interino, el Provisional o el Ciudadano que, bajo cualquiera denominación, supla las faltas temporales del Gobernador siempre que desempeñe el cargo en los dos últimos años del período.
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1948)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 1975)</small>
 
-III. El Secretario General, el Oficial Mayor, los Magistrados del Tribunal Superior, el Procurador General de Justicia del Estado y los Funcionarios de la Federación con residencia y funciones dentro del mismo Estado, que no se hayan separado de sus respectivos cargos, cuando menos seis meses antes de la elección.
+III. El Oficial Mayor, los Magistrados del Tribunal Superior, el Procurador General de Justicia del Estado y los funcionarios de la Federación con residencia y funciones dentro del mismo Estado, que no se hayan separado de sus respectivos cargos, cuando menos seis meses antes de la elección.
 
 > <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 1932)</small>
 
@@ -549,13 +555,13 @@ IV.- Los militares que no se hayan separado del servicio, cuando menos noventa d
 
 El Gobernador será nombrado por elección popular directa y en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 1975)</small>
 
 ###### Artículo 50.
 
-El Gobernador entrará al ejercicio de sus funciones el 1o. de abril del año correspondiente, durará en su encargo seis años y nunca podrá ser reelecto. Los ciudadanos que hayan ocupado el cargo de Gobernador del Estado por elección popular directa ordinaria o extraordinaria, en ningún caso y por ningún motivo podrán volver a ocupar ese cargo ni aún con el carácter de interinos, provisionales, substitutos o encargados del despacho.
+El Gobernador entrará al ejercicio de sus funciones el 1o. de abril del año correspondiente, durará en su cargo 6 años y nunca podrá ser reelecto. Los ciudadanos que hayan ocupado el cargo de Gobernador del Estado por elección popular directa ordinaria o extraordinaria, en ningún caso, y por ningún motivo, podrán volver a ocupar ese cargo ni aún con el carácter de Interinos, Provisionales, Substitutos o Encargados del Despacho.
 
-El Gobernador al tomar posesión de su cargo rendirá ante el Congreso del Estado o a la Comisión Permanente en los recesos de aquél, la siguiente protesta: Protesto solemnemente, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las Leyes que de ellas emanen; desempeñar leal y patrióticamente, el cargo de Gobernador del Estado, mirando por la prosperidad y bienestar de esta propia Entidad, si así no lo hiciere, que el Estado me lo demande.
+El Gobernador al tomar posesión de su cargo rendirá ante el Congreso del Estado o a la Diputación Permanente en los recesos de aquél, la siguiente protesta: Protesto solemnemente guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las Leyes que de ellas emanen; desempeñar leal y patrióticamente, el cargo de Gobernador del Estado, mirando por la prosperidad y bienestar de esta propia Entidad, y si así no lo hiciere, que el Estado me lo demande. Tratándose del Gobernador Provisional o Substituto, elevado a virtud de la desaparición de Poderes, la protesta se rendirá en los mismos términos, pero ante las Autoridades indicadas por el Artículo 41 Fracción IX de esta Constitución. Los Presidentes Municipales para los anteriores efectos se reunirán por única vez en el Recinto Oficial de la Cámara de Diputados.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
@@ -574,6 +580,14 @@ Si la falta absoluta ocurriere no encontrándose el Gobernador en el ejercicio d
 Si la falta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Presiente del Tribunal se encargará del Despacho del Gobierno, hasta la toma de posesión del Gobernador Provisional o del Substituto, en sus respectivos casos.
 
 El Presidente del Tribunal se encargará además, del Despacho del Gobierno, siempre que por cualquier motivo no precisados por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
+
+> <small>(ADICIONADO, 1 DE MARZO DE 1975)</small>
+
+Si la falta absoluta del Gobernador se debiere a la desaparición de Poderes en el Estado, ocupará inmediatamente el cargo de Gobernador, el Presidente Municipal de Pachuca de Soto, Hidalgo; el Gobernador tendrá el carácter de Provisional si la falta ocurriere dentro de los dos primeros años, debiendo de expedir dentro de los diez días siguientes, convocatoria en que citará a elecciones para Diputados Propietarios y Suplentes que integren el Congreso del Estado por el resto el período, mediando entre la fecha de la convocatoria y la que se señale para la celebración de las elecciones, a efecto de integrar el Poder Legislativo, un plazo no menor de un mes ni mayor de seis meses. El Gobernador Provisional deberá expedir dentro del año siguiente, convocatoria para la elección de Gobernador Substituto, quien deberá de concluir el período, mediando entre la fecha de la convocatoria y la que se señale para la celebración de las elecciones un plazo no menor de 4 meses, ni mayor de 6 meses. Cuando la desaparición de Poderes sea declarada dentro de los cuatro últimos años del mandato, también asumirá el cargo de Gobernador el Presidente Municipal de Pachuca de Soto, quien terminará el período correspondiente con carácter de Substituto, y expedirá convocatoria para integrar el Poder Legislativo en los términos citados, que durará en su encargo el resto del período. La iniciación y duración de las Legislaturas que sucedan a la desaparición de Poderes, deberán ajustarse a las fechas que resultaren reformándose en este evento las Leyes que así procedieren.
+
+> <small>(ADICIONADO, 1 DE MARZO DE 1975)</small>
+
+Tratándose de Gobernador Provisional que asuma el poder a virtud de lo establecido en el párrafo anterior, el Poder Judicial del Estado será integrado por nombramientos que expida el Gobernador y quedarán definitivamente designados si el Gobernador electo para terminar el período los ratifica, en caso contrario, el Poder Judicial se integrará conforme a lo preceptuado en las Fracciones XIV y XV del Artículo 53 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1970)</small>
 
@@ -1234,3 +1248,7 @@ Unico.- Este Decreto entrará en vigor el día 3 de junio del presente año, en 
 P.O. 24 DE DICIEMBRE DE 1973.
 
 Unico.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE MARZO DE 1975.
+
+Unico.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
