@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2002-12-27"
+last_updated: "2003-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2003.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -990,6 +990,32 @@ VI. Fomentar la conservación, generación y aprovechamiento de los recursos pes
 VII. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
 
 VIII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2003)</small>
+
+###### Artículo 47 Bis.
+
+La Comisión de Asuntos Indígenas tendrá las siguientes funciones:
+
+I. Coadyuvar con las instancias y áreas competentes al impulso del desarrollo regional de las zonas indígenas, con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, buscando las acciones coordinadas entre los tres niveles de gobierno federal, estatal y municipal, y con la participación de las comunidades, buscar sus justas y equitativas medidas para mejorar las condiciones de vida de las mismas;
+
+II. Vigilar que las diferentes instancias de gobierno garanticen e incrementen los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior, buscando un sistema de becas para estudiantes indígenas en todos los niveles;
+
+III. Buscar las medidas de apoyo a la nutrición de los indígenas mediante programas de alimentación, en especial para las madres en lactancia y población infantil;
+
+IV. Participar en la organización de la creación de los mecanismos para mejorar las condiciones de las comunidades indígenas y de los espacios para la convivencia y recreación;
+
+V. Promover la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
+
+VI. Impulsar los mecanismos adecuados para extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación;
+
+VII. Participar en la organización de las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, así como la incorporación de tecnologías para incrementar su propia capacidad productiva, procurando asegurar el acceso equitativo a los sistemas de abasto y comercialización;
+
+VIII. Buscar mecanismos de consulta a los pueblos indígenas, para que sean tomados en cuenta en la elaboración del Plan Municipal de Desarrollo, y en su caso incorporar las recomendaciones y propuestas que ellos realicen;
+
+IX. Establecer políticas para mejorar las condiciones de salud de las mujeres, apoyar los programas especiales de educación y nutrición a niños y jóvenes de las familias migrantes y velar por el respeto a los derechos humanos y promover la difusión de sus culturas; y,
+
+X. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
 ###### Artículo 48.
 
@@ -2256,3 +2282,9 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 13 DE MARZO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
