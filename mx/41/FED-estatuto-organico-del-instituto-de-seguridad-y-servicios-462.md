@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-462"
 country: "mx"
 rank: "estatuto"
 publication_date: "1988-06-06"
-last_updated: "1999-03-30"
+last_updated: "1999-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2008-12-31"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE AGOSTO DE 1999.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 6 de junio de 1988.
 
@@ -102,35 +102,45 @@ Para el estudio, planeación, atención y ejecución de los asuntos y actos que 
 
 I. Unidades Administrativas Centrales:
 
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
+
 A. Subdirección General Médica
 
-B. Subdirección General de Prestaciones Económicas
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
-C. Subdirección General de Servicios Sociales y Culturales
+B. Subdirección General de Prestaciones Económicas, Sociales y Culturales
 
-D. Subdirección General Jurídica
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
-E. Subdirección General de Administración
+C. Subdirección General Jurídica y de Relaciones Laborales
 
-F. Subdirección General de Obras y Mantenimiento
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
-G. Subdirección General de Finanzas
+D. Subdirección General de Obras y Mantenimiento
 
-H. Subdirección General de Abastecimientos
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1999)</small>
+E. Subdirección General de Finanzas
 
-I. Coordinación General de Comunicación Social
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1999)</small>
+F. Subdirección General de Abasto y Servicios Generales
+
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
+
+G. Coordinación General de Comunicación Social
+
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
+
+H. Coordinación General de Delegaciones
+
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
+
+I. Coordinación General de Atención al Derechohabiente
 
 J. Coordinación General de Delegaciones
 
-> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1999)</small>
-
 K. Coordinación General de Atención al Derechohabiente
-
-> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 1999)</small>
 
 El Instituto contará con una Contraloría General, órgano de control interno, que se regirá conforme al artículo 52 de este Estatuto Orgánico.
 
@@ -151,8 +161,6 @@ F. Gerencias Regionales
 G. Escuela de Dietética y Nutrición
 
 H. Sistema de Agencias Turísticas TURISSSTE
-
-> <small>(ADICIONADO, D.O.F. 30 DE MARZO DE 1999)</small>
 
 Asimismo, el Fondo de la Vivienda y el Sistema Integral de Tiendas y Farmacias del Instituto contarán, respectivamente, con una Contraloría Interna, órgano de control interno, que se regirá conforme al artículo 52 A de este Estatuto Orgánico.
 
@@ -449,6 +457,10 @@ Tratándose del Comité Técnico del Sistema de Ahorro para el Retiro que establ
 ###### ARTICULO 24.
 
 El Director General podrá delegar cualquiera de sus facultades en otros servidores públicos del Instituto, sin perjuicio de ejercerlas directamente, con excepción de aquellas que por disposición legal expresa o determinación de la Junta le correspondan exclusivamente.
+
+> <small>(ADICIONADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
+
+Para los efectos anteriores, el Director General podrá otorgar poderes generales y especiales con las facultades que le competan, entre ellas las que requieran autorización o cláusula especial, así como sustituirlos y revocarlos.
 
 ### CAPITULO CUARTO. DE LA COMISION EJECUTIVA
 
@@ -776,15 +788,13 @@ VII.- Conceder licencias e incapacidades médicas en los términos y condiciones
 
 VIII.- Las demás que señalen otras disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 46.
 
-La Subdirección General de Prestaciones Económicas tendrá las funciones siguientes:
+La Subdirección General de Prestaciones Económicas, Sociales y Culturales, tendrá las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1997)</small>
-
-I.- Planear, organizar, normar, coordinar, controlar y evaluar las actividades en materia del sistema integral de retiro; de seguridad, higiene y medicina en el trabajo; del otorgamiento y recuperación de préstamos a corto y mediano plazos; de la afiliación y vigencia de derechos de los trabajadores; y del sistema de ahorro para el retiro de los trabajadores al servicio del Estado, en el ámbito de su competencia;
+I.- Planear, organizar, normar, coordinar, controlar y evaluar las actividades en materia del sistema integral de retiro; de seguridad, higiene, y medicina en el trabajo; del otorgamiento y recuperación de préstamos a corto y mediano plazo; de la afiliación y vigencia de derechos de los trabajadores, y del sistema de ahorro para el retiro de los trabajadores al servicio del Estado; la operación de sistemas de alimentación económica en el trabajo, de estancias para el bienestar y desarrollo infantil, de centros turísticos, de servicios funerarios, culturales, deportivos y recreativos para los derechohabientes del Instituto, así como de los talleres de terapia ocupacional para pensionados y jubilados; en el ámbito de su competencia;
 
 II.- Conceder, negar, suspender, modificar o revocar las jubilaciones y pensiones en los términos de la Ley y resolver las inconformidades que se presenten en relación con las mismas;
 
@@ -796,13 +806,11 @@ V.- Dictaminar los asuntos relativos a accidentes y enfermedades del trabajo, as
 
 VI.- Coordinar el Programa de Servicios Integrales de Retiro a Jubilados y Pensionistas;
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
-
 VII.- Promover la integración y funcionamiento de las Comisiones Mixtas de Seguridad e Higiene de las dependencias y entidades sujetas al régimen de la Ley y de una Comisión Consultiva Nacional y de Comisiones Consultivas Estatales de Seguridad e Higiene del Sector Público Federal;
 
-VIII.- Realizar estudios, investigaciones y estadísticas sobre accidentes y enfermedades del trabajo; sugerir en el ámbito de competencia del Instituto las medidas preventivas de seguridad e higiene en el trabajo y desarrollar en coordinación con la Subdirección General Médica las acciones inherentes a medicina del trabajo.
+VIII.- Realizar estudios, investigaciones y estadísticas sobre accidentes y enfermedades del trabajo; sugerir en el ámbito de competencia del Instituto las medidas preventivas de seguridad e higiene en el trabajo y desarrollar en coordinación con la Subdirección General Médica las acciones inherentes a medicina del trabajo;
 
-IX.- Dar trámite a las solicitudes y, en su caso, autorizar los créditos a mediano plazo para la adquisición, por parte de los trabajadores o pensionistas sujetos al régimen de la Ley, de bienes de uso duradero, preferentemente los que tengan en venta los centros comerciales y las tiendas del Instituto.
+IX.- Dar trámite a las solicitudes y, en su caso, autorizar los créditos a mediano plazo para la adquisición, por parte de los trabajadores o pensionistas sujetos al régimen de la Ley, de bienes de uso duradero, preferentemente los que tengan en venta los centros comerciales y las tiendas del Instituto;
 
 X.- Dar trámite a las solicitudes y, en su caso, autorizar los créditos a corto plazo;
 
@@ -824,57 +832,39 @@ XVIII.- Establecer y operar un mecanismo de afiliación de las dependencias, ent
 
 XIX.- Establecer y operar el mecanismo de vigencia de derechos para los asegurados y sus familiares beneficiarios, demandantes de los seguros, servicios y prestaciones;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1997)</small>
-
 XX.- Planear, organizar, dirigir y controlar las acciones para el debido cumplimiento de las disposiciones legales y administrativas relacionadas con el Sistema de Ahorro para el Retiro, en el ámbito de su competencia, así como para identificar las aportaciones a favor de los trabajadores al servicio del Estado;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1997)</small>
-
-XXI.- Representar al Instituto ante las dependencias y entidades de la Administración Pública Federal y demás instituciones públicas o privadas, en las relaciones interdisciplinarias en materia del Sistema de Ahorro para el Retiro, así como promover las bases de simplificación administrativa en los trámites y operaciones derivadas de dicha prestación;
-
-> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+XXI.- Representar al Instituto ante las dependencias y entidades de la Administración Pública Federal y demás Instituciones públicas o privadas, en las relaciones interdisciplinarias en materia del Sistema de Ahorro para el Retiro, así como promover las bases de simplificación administrativa en los trámites y operaciones derivadas de dicha prestación;
 
 XXII.- Formular, verificar y, en su caso, proporcionar los informes relativos al manejo y operación del Sistema de Ahorro para el Retiro, así como establecer los procedimientos de inspección y vigilancia necesarios para asegurar el correcto y oportuno empleo de dicha información;
 
-> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
-
 XXIII.- Definir el proceso de supervisión que realicen las autoridades competentes respecto de las actividades relacionadas con el Sistema de Ahorro para el Retiro, en el ámbito de competencia del Instituto, con base en la información recabada por el Instituto;
 
-> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 1997)</small>
+XXIV.- Proponer e instrumentar, en su caso, las políticas y lineamientos para autorizar los retiros que efectúen los trabajadores derechohabientes o sus beneficiarios, de fondos de las subcuentas que integran la cuenta individual del Sistema de Ahorro para el Retiro, y establecer los mecanismos de conciliación del importe de las autorizaciones otorgadas;
 
-XXIV.- Proponer e instrumentar, en su caso, las políticas y lineamientos para autorizar los retiros que efectúen los trabajadores derechohabientes o sus beneficiarios, de fondos de las subcuentas que integran la cuenta individual del Sistema de Ahorro para el Retiro, y establecer los mecanismos de conciliación del importe de las autorizaciones otorgadas; y
+XXV.- Estudiar, proponer y aplicar las normas que se aprueben para el funcionamiento de los servicios sociales y culturales que proporciona el Instituto a sus derechohabientes;
 
-XXV.- Las demás que señalen otras disposiciones aplicables.
+XXVI.- Contribuir al apoyo asistencial de los derechohabientes sujetos al régimen de la Ley;
+
+XXVII.- Elaborar programas culturales para los derechohabientes, y
+
+XXVIII.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 47.
 
 (DEROGADO, D.O.F. 30 DE AGOSTO DE 1995)
 
-> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 1989)</small>
-
 ###### ARTICULO 48.
 
-La Subdirección General de Servicios Sociales y Culturales tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 23 DE AGOSTO DE 1999)
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1997)</small>
-
-I.- Planear, organizar, normar, coordinar y controlar la operación de sistemas de alimentación económica en el trabajo, de estancias para el bienestar y desarrollo infantil, de centros turísticos, de servicios funerarios, culturales, deportivos y recreativos para los derechohabientes del Instituto, así como de los talleres de terapia ocupacional para pensionados y jubilados;
-
-II.- Estudiar, proponer y aplicar las normas que se aprueben para el funcionamiento de los servicios sociales y culturales que proporciona el Instituto a sus derechohabientes;
-
-III.- Contribuir al apoyo asistencial de los derechohabientes sujetos al régimen de la Ley;
-
-IV.- Elaborar programas culturales para los derechohabientes; y
-
-V.- Las demás que señalen otras disposiciones aplicables.
-
-> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 49.
 
-La Subdirección General Jurídica, tendrá las funciones siguientes:
+La Subdirección General Jurídica y de Relaciones Laborales, tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar, coordinar, supervisar y evaluar los servicios jurídicos y la aplicación de las disposiciones jurídicas relacionadas con el Instituto.
+I.- Planear, organizar, normar, coordinar, supervisar y evaluar los servicios jurídicos y la aplicación de las disposiciones jurídicas relacionadas con el Instituto así como las funciones de administración de recursos humanos, capacitación y desarrollo organizacional;
 
 II.- Representar al Instituto para su defensa jurídica en las gestiones judiciales, extrajudiciales y administrativas, en los términos de los poderes otorgados; en las Delegaciones del Instituto, dicha defensa jurídica estará a cargo del titular de la Unidad Jurídica respectiva;
 
@@ -886,7 +876,7 @@ V.- Establecer los mecanismos de comunicación y coordinación con las unidades 
 
 VI.- Conocer de los procedimientos administrativos correspondientes a los recursos previstos en la Ley del Instituto, en coordinación con las áreas sustantivas sobre las que versen los mismos;
 
-VII.- Certificar y expedir copia de los documentos que obren en poder del Instituto, para ser exhibidos en asuntos judiciales y contencioso-administrativos, relativos al ámbito de su competencia;
+VII.- Certificar y expedir copias de los documentos que obren en poder del Instituto, para ser exhibidos en asuntos judiciales y contencioso-administrativos, relativos al ámbito de su competencia;
 
 VIII.- Sistematizar el marco jurídico e instrumentos normativos relacionados con las atribuciones, funcionamiento y actividades de las distintas áreas del Instituto y mantenerlo actualizado;
 
@@ -902,63 +892,29 @@ XIII.- Atender los asuntos relativos a las relaciones del Instituto con los Sind
 
 XIV.- Realizar los actos necesarios para legalizar la adquisición, destino o enajenación de los bienes inmuebles del Instituto, así como intervenir en los asuntos de los que se deriven derechos y obligaciones a cargo del mismo;
 
-> <small>(REFORMADA, D.O.F. 5 DE JUNIO DE 1997)</small>
-
 XV.- Supervisar los actos y operaciones que requieran la formalización ante fedatario público e inscripción de los mismos ante el Registro Público de la Propiedad y del Comercio de cada Entidad y del Distrito Federal, excepto los relacionados con el fondo de la vivienda, así como autorizar el pago de los honorarios correspondientes a los notarios públicos;
 
-XVI.- (DEROGADA, D.O.F. 5 DE JUNIO DE 1997)
+XVI.- (DEROGADA, D.O.F. 23 DE AGOSTO DE 1999)
 
 XVII.- Formular los convenios de incorporación, continuación voluntaria y reconocimiento de antigüedad a que se refiere la Ley;
 
 XVIII.- Promover el desarrollo de las relaciones institucionales en el ámbito nacional e internacional;
 
-XIX.- Supervisar y evaluar las actividades y procedimientos que realizan las Unidades Jurídicas Delegacionales; y
+XIX.- Supervisar y evaluar las actividades y procedimientos que realicen las Unidades Jurídicas Delegacionales;
 
-XX.- Las demás que señalen otras disposiciones aplicables.
+XX.- Proponer Políticas en materia de personal en Coordinación con el Sindicato del Instituto y conjuntamente en los términos de las disposiciones legales aplicables, intervenir en su selección, nombramiento, ubicación y reubicación así como intervenir en todas las cuestiones relacionadas con la administración del personal del Instituto;
 
-> <small>(REFORMADO, D.O.F. 4 DE MAYO DE 1989)</small>
+XXI.- Diseñar y operar el sistema de capacitación interna para los trabajadores del Instituto;
+
+XXII.- Proporcionar y difundir programas de capacitación para los derechohabientes del Instituto;
+
+XXIII.- Normar, controlar y coordinar la operación interna del Sistema de Ahorro para el Retiro establecido en favor de los trabajadores del Instituto; y
+
+XXIV.- Las demás que señalen otras disposiciones aplicables.
 
 ###### ARTICULO 50.
 
-La Subdirección General de Administración tendrá las funciones siguientes:
-
-> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 1993)</small>
-
-I.- Planear, organizar, normar, coordinar y controlar las funciones de administración de recursos humanos, informática, capacitación, servicios generales, sistemas y organización, así como el sistema de seguridad y vigilancia del Instituto y lo concerniente a sus comités de protección civil, y vigilar la observancia de las normas técnicas aplicables en cada caso;
-
-II.- Promover, coordinar y vigilar las acciones de mejoramiento, modernización y simplificación administrativa;
-
-III.- Proponer políticas en materia de personal en coordinación con el Sindicato del Instituto y conjuntamente en los términos de las disposiciones legales aplicables, intervenir en su selección, nombramiento, ubicación y reubicación así como intervenir en todas las cuestiones relacionadas con la administración del personal del Instituto;
-
-IV.- Diseñar y operar el sistema de capacitación interna para los trabajadores del Instituto;
-
-> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
-
-V.- Prestar los servicios de limpieza interior y exterior de los inmuebles del Instituto, así como formular y operar el programa de conservación de áreas verdes y plantas de ornato de los citados inmuebles, con base en la legislación aplicable;
-
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1994)</small>
-
-VI.- Formular y operar el programa de mantenimiento de vehículos propiedad del Instituto y proponer la baja o reemplazo de los mismos;
-
-VII.- Establecer normas para el control del inventario de los bienes muebles que integran el activo fijo del Instituto;
-
-VIII.- Proporcionar los servicios necesarios a las diferentes unidades operativas del Instituto, relativos a la recepción y despacho de la correspondencia, archivo y registro de expedientes;
-
-IX.- Diseñar los sistemas para captar, analizar, procesar y difundir la información que se genere en el Instituto;
-
-X.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a informática;
-
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
-
-XI.- Representar al Instituto ante la Secretaría de Hacienda y Crédito Público, en asuntos de informática;
-
-XII.- Proporcionar y difundir programas de capacitación para los derechohabientes del Instituto;
-
-> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 1994)</small>
-
-XIII.- Normar, controlar y coordinar la operación interna del Sistema de Ahorro para el Retiro establecido en favor de los trabajadores del Instituto; y
-
-XIV.- Las demás que señalen otras disposiciones aplicables.
+(DEROGADO, D.O.F. 23 DE AGOSTO DE 1999)
 
 ###### ARTICULO 51.
 
@@ -992,21 +948,17 @@ VIII.- Llevar a cabo los procedimientos administrativos de rescisión de los con
 
 IX.- Las demás que señalen otras disposiciones aplicables.
 
-> <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
 
-ARTICULO 51 A.- La Subdirección General de Finanzas tendrá las funciones siguientes:
+ARTICULO 51 A.- La Subdirección General de Finanzas, tendrá las funciones siguientes:
 
-I.- Planear, organizar, normar, coordinar y controlar los sistemas institucionales de programación, presupuestación, contabilidad, tesorería y evaluación programática;
-
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+I.- Planear, organizar, normar, coordinar y controlar los sistemas institucionales de programación, presupuestación, contabilidad, tesorería, informática y evaluación programática;
 
 II.- Coordinar la formulación, implantación y evaluación del programa institucional, de conformidad con los lineamientos sectoriales y globales establecidos, así como proponer los ajustes que resulten necesarios;
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
+III.- Representar al Instituto ante la Secretaría de Hacienda y Crédito Público en asuntos de planeación, programación, presupuestación, contabilidad, tesorería, informática y evaluación programática;
 
-III.- Representar al Instituto ante la Secretaría de Hacienda y Crédito Público en asuntos de planeación, programación, presupuestación, contabilidad, tesorería y evaluación programática;
-
-IV.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a planeación, programación, presupuestación, contabilidad, tesorería y evaluación programática;
+IV.- Intervenir en los cuerpos colegiados institucionales y en los mecanismos de participación sectorial relativos a planeación, programación, presupuestación, contabilidad, tesorería, informática y evaluación programática;
 
 V.- Realizar de manera sistemática y permanente los estudios actuariales y financieros sobre el manejo de las reservas del Instituto, con objeto de definir las bases cuantitativas de la suficiencia de recursos y facilitar la programación institucional;
 
@@ -1018,31 +970,43 @@ VIII.- Coordinar la formulación y adecuación del presupuesto de egresos del In
 
 IX.- Determinar la cuantificación de los adeudos al Instituto y promover su oportuna recuperación, así como vigilar su aplicación de acuerdo a los programas y prioridades autorizados;
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1994)</small>
-
 X.- Diseñar y operar en los términos del artículo 22 de la Ley del Instituto los sistemas de recuperación de adeudos, previa autorización de la Junta. En el caso de adeudos por concepto de cuotas y aportaciones al Instituto, solicitar a la Tesorería de la Federación la correspondiente retención sobre transferencias y participaciones a entidades paraestatales, gobiernos estatales y municipales, respectivamente, de acuerdo con los convenios de incorporación voluntaria;
 
 XI.- Proponer y operar los sistemas para el control de las operaciones derivadas tanto de la captación de ingresos como de la movilización de fondos;
 
 XII.- Captar los ingresos provenientes de aportaciones y cuotas, los derivados de la prestación de los servicios médicos, asistenciales y sociales, así como formular, consolidar y controlar el presupuesto de ingresos del Instituto;
 
-XIII.- Diseñar y operar las estrategias de inversión de las disponibilidades y reservas del Instituto, buscando la racionalización y eficiencia en el uso de los recursos disponibles, previa aprobación de la Junta;
+XIII.- Diseñar y operar las estrategias de inversión de las disponibilidades y reservas del Instituto, buscando la racionalidad y eficiencia en el uso de los recursos disponibles, previa aprobación de la Junta;
 
-XIV.- Promover el establecimiento de sistemas para captar, procesar, analizar y publicar las estadísticas que se generen en el Instituto; y
+XIV.- Promover el establecimiento de sistemas para captar, procesar, analizar y publicar las estadísticas que se generen en el Instituto;
 
-XV.- Las demás que señalen otras disposiciones aplicables.
+XV.- Diseñar los sistemas para captar, analizar, procesar y difundir la información que se genere en el Instituto;
 
-> <small>(ADICIONADO, D.O.F. 4 DE MAYO DE 1989)</small>
+XVI.- Promover, coordinar y vigilar las acciones de mejoramiento, modernización y simplificación administrativa, y
 
-ARTICULO 51 B.- La Subdirección General de Abastecimientos tendrá las funciones siguientes:
+XVII.- Las demás que señalen otras disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 1999)</small>
+
+ARTICULO 51 B.- La Subdirección General de Abasto y Servicios Generales, tendrá las funciones siguientes:
 
 I.- Planear, organizar, normar, coordinar y controlar la administración de los recursos materiales del Instituto, en los términos de las disposiciones aplicables;
 
-II.- Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá los bienes requeridos para su operación y funcionamiento e intervenir en los concursos relacionados con la adquisición de bienes y en los contratos o convenios de suministros respectivos;
+II.- Planear, organizar, normar, coordinar y controlar las funciones de administración de servicios generales, así como el sistema de seguridad y vigilancia del Instituto y lo concerniente a sus comités de protección civil, y vigilar la observancia de las normas técnicas aplicables en cada caso;
 
-III.- Almacenar, custodiar y proporcionar a las diversas áreas del Instituto, los bienes y servicios que requieran para su funcionamiento, así como establecer normas y control de inventarios de almacenamiento, conforme a las disposiciones relativas; y
+III.- Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá los bienes requeridos para su operación y funcionamiento e intervenir en los concursos relacionados con la adquisición de bienes y en los contratos o convenios de suministros respectivos;
 
-IV.- Las demás que señalen otras disposiciones aplicables.
+IV.- Almacenar, custodiar y proporcionar a las diversas áreas del Instituto, los bienes y servicios que requieran para su funcionamiento, así como para establecer normas y control de inventarios de almacenamiento, conforme a las disposiciones relativas;
+
+V.- Prestar los servicios de limpieza interior y exterior de los inmuebles del Instituto, así como formular y operar el programa de conservación de áreas verdes y plantas de ornato de los citados inmuebles, con base en la legislación aplicable;
+
+VI.- Formular y operar el programa de mantenimiento de vehículos propiedad del Instituto y proponer la baja o reemplazos de los mismos;
+
+VII.- Establecer normas para el control del inventario de los bienes muebles que integran el activo fijo del Instituto;
+
+VIII.- Proporcionar los servicios necesarios a las diferentes unidades operativas del Instituto, relativos a la recepción y despacho de la correspondencia, archivo y registro de expedientes, y
+
+IX.- Las demás que señalen otras disposiciones aplicables.
 
 ARTICULO 51 C.- (DEROGADO, D.O.F. 19 DE NOVIEMBRE DE 1992)
 
@@ -1735,3 +1699,13 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO TERCERO.
 
 Los asuntos que se encuentren en trámite en la Contraloría General, en la fecha de entrada en vigor del presente Acuerdo, serán resueltos por las Contralorías Internas en el Fondo de la Vivienda y en el Sistema Integral de Tiendas y Farmacias, según sea el caso y la competencia.
+
+D.O.F. 23 DE AGOSTO DE 1999.
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Cuando en este Estatuto se dé una denominación nueva o distinta a alguna unidad administrativa cuyas funciones estén establecidas por una norma anterior, dichas atribuciones se entenderán concedidas a la unidad administrativa que determine este Estatuto.
+
+TERCERO.- En su oportunidad, inscríbanse las presentes reformas, adiciones y derogaciones en el Registro Público de Organismos Descentralizados.
+
+CUARTO.- En un plazo máximo de sesenta días a partir de la fecha de publicación de las presentes reformas, adiciones y derogaciones, deberán expedirse los manuales de organización y procedimientos correspondientes.
