@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1966-07-16"
+last_updated: "1971-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1971.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -5451,9 +5451,13 @@ Los gastos generales del apeo se harán por el que lo promueva. Los que importen
 
 Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
 
-I. La habilitación para comparecer en juicio que solicite el menor de más de dieciocho (sic) años cuando compruebe que los padres o ascendientes que ejerzan la patria potestad están ausentes, se ignore su paradero o se nieguen a representarlo. Sólo se le concederá autorización cuando fuere demandado o se le siguiere perjuicio grave de no promover juicio, y comprobare buena conducta y aptitud para el manejo de sus negocios;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 1971)</small>
 
-II. La solicitud de emancipación o habilitación de edad que hagan los mayores de dieciocho (sic) años sujetos a patria potestad o tutela, si hubieren demostrado buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
+I. La habilitación para comparecer en juicio que solicite el menor de más de dieciséis años cuando compruebe que los padres o ascendientes que ejerzan la patria potestad están ausentes, se ignore su paradero o se nigue (sic) a representarlo. Sólo se le concederá autorización cuando fuere demandado o se le siguiere perjuicio grave de no promover juicio, y comprobarse buena conducta y aptitud para el manejo de sus negocios;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 1971)</small>
+
+II. La solicitud de emancipación o habilitación de edad que hagan los mayores de 16 años sujetos a patria potestad o tutela, si hubieren demostrado buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
 
 III. La autorización judicial que soliciten los habilitados de edad o los emancipados en el caso de la fracción II del artículo 657 del Código Civil, para enajenar o gravar bienes raíces o para comparecer en juicio; en este último caso se les nombrará un tutor especial;
 
@@ -5708,3 +5712,7 @@ Segundo.- La substanciación de los negocios de jurisdicción contenciosa que es
 P.O. 16 DE JULIO DE 1966.
 
 Unico.- La presente reforma a que se refiere el Artículo anterior entrará en vigor a partir de la fecha de la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 1971.
+
+UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
