@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2004-10-30"
+last_updated: "2005-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2005.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -8261,11 +8261,11 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
@@ -8321,9 +8321,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 ###### ARTICULO 1502.
 
@@ -8333,9 +8333,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION QUINTA. DE LA VIVIENDA
 
 ###### ARTICULO 1504.
 
@@ -8383,7 +8383,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
 ###### ARTICULO 1515.
 
@@ -8411,7 +8411,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1521.
 
@@ -8429,9 +8429,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 ###### ARTICULO 1525.
 
@@ -8451,7 +8451,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 ###### ARTICULO 1529.
 
@@ -8471,7 +8471,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 ###### ARTICULO 1533.
 
@@ -8481,9 +8481,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 ###### ARTICULO 1535.
 
@@ -8513,13 +8513,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO VII. DE LAS CONURBACIONES
 
 ###### ARTICULO 1542.
 
@@ -8545,7 +8541,11 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -9993,7 +9993,7 @@ Acordada la destrucción de un mueble inútil para el servicio se dará de baja 
 
 ### CAPITULO UNICO. DE LAS EXPROPIACIONES
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1691.
 
@@ -10083,13 +10083,25 @@ Un reglamento determinará las secciones de que habrá de componerse el Registro
 
 ###### ARTICULO 1701.
 
+La propiedad privada en el Estado podrá ser expropiada únicamente por causa de utilidad pública, mediante la declaratoria correspondiente y cubriendo la indemnización respectiva.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
+###### ARTICULO 1702.
+
+Es atribución del Ejecutivo del Estado emitir por sí, o a solicitud de los titulares de sus dependencias y entidades; de los ayuntamientos y sus entidades a través de sus respectivos Presidentes Municipales, la declaratoria de expropiación, ocupación temporal, total o parcial, o la simple limitación del dominio de bienes muebles o inmuebles, por causa de utilidad pública.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
+
+###### ARTICULO 1703.
+
 Se consideran causas de utilidad pública:
 
 I.- El establecimiento, explotación o conservación de un servicio público;
 
 II.- La apertura, ampliación o alineamiento de calles, la construcción de calzadas, puentes, caminos y túneles para facilitar el tránsito urbano municipal y del Estado;
 
-III.- El embellecimiento, ampliación y saneamiento de las poblaciones, la construcción de hospitales, escuelas, centros infantiles, jardines, campos deportivos o de aterrizaje o de cualquier obra destinada a prestar servicios de beneficio colectivo;
+III.- El embellecimiento, ampliación y saneamiento de las poblaciones, la construcción de hospitales, escuelas, centros infantiles, jardines, campos deportivos o de aterrizaje, o de cualquier obra destinada a prestar servicios de beneficio colectivo;
 
 IV.- La conservación de los lugares de belleza panorámica, de las antigüedades y objetos de arte, de los edificios y monumentos arqueológicos o históricos y de las cosas que se consideren como características notables de la cultura del Estado;
 
@@ -10105,155 +10117,265 @@ IX.- Las medidas necesarias para evitar la destrucción de los elementos natural
 
 X.- La creación o mejoramiento de centros de población o de sus fuentes propias de vida y la dotación de terrenos para viviendas a familias humildes;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1998)</small>
+XI.- El ordenamiento de los asentamientos humanos irregulares en zonas urbanas, así como la regularización de las tenencias de la tierra del régimen de propiedad privada de predios destinados a la producción agropecuaria.
 
-XI.- El ordenamiento de los asentamientos humanos irregulares en zonas urbanas, así como la regularización de la tenencia de la tierra del régimen de propiedad privada de predios destinados a la producción agropecuaria.
+XII.- La prevención de cualquier tipo de alteración de la paz pública, la tranquilidad o seguridad sociales.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
-
-###### ARTICULO 1702.
-
-En los casos comprendidos en la enumeración del artículo 1556 previa declaración del Ejecutivo del Estado, procederá la expropiación, la ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio, para los fines del Estado en interés de la colectividad.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
-
-###### ARTICULO 1703.
-
-El Ejecutivo del Estado, por conducto de la Dirección de Gobernación, tramitará el expediente de expropiación, de ocupación temporal o de limitación de dominio, y en su caso hará la declaratoria respectiva.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1704.
 
-La declaratoria a que se refiere el artículo anterior se hará mediante acuerdo que se publicará en el Periódico Oficial del Estado y será notificado personalmente a los interesados. En caso de ignorarse el domicilio de éstos, surtirá efectos de notificación personal una segunda publicación del acuerdo en el Periódico Oficial del Estado.
+La solicitud de expropiación deberá señalar claramente la causa de utilidad pública que la justifique, así como los fines a que pretenda destinarse el bien y las obras o inversiones que vayan a realizarse.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+El escrito por el que se solicite la expropiación, contendrá los siguientes requisitos:
+
+I.- Nombre y domicilio del solicitante;
+
+II.- Los motivos que sustenten su solicitud;
+
+III.- Las causas de utilidad pública que considere aplicables;
+
+IV.- Los beneficios sociales derivados de la expropiación;
+
+V.- Las características del bien que se pretenda expropiar, las que tratándose de inmuebles serán, además, las relativas a ubicación, superficie, medidas y colindancias;
+
+VI.- Nombre y domicilio del propietario o posesionario del bien objeto de la expropiación, así como los documentos que acrediten tal derecho;
+
+VII.- Tratándose de la ejecución de obras, los proyectos y presupuestos respectivos.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1705.
 
-Los propietarios afectados podrán interponer, dentro de los quince días hábiles siguientes a la notificación del acuerdo, recurso administrativo de revocación contra la declaratoria correspondiente.
+Cuando la expropiación sea solicitada por una Entidad, deberá anexarse copia del acta de sesión de su Junta de Gobierno, Directiva, Consejo de Administración o Comité Técnico, en la que se apruebe o autorice la solicitud de expropiación.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1706.
 
-El recurso administrativo de revocación se interpondrá directamente ante el Gobernador del Estado y se tramitará por conducto de la Dirección de Gobernación, dentro de un plazo no mayor de quince días, dando a los interesados amplia oportunidad para que aporten pruebas y aleguen lo que a sus intereses convenga.
+El Ejecutivo del Estado, por conducto de la Dirección de Gobernación, integrará el expediente de expropiación, de ocupación temporal o de limitación de dominio y, en su caso, hará la declaratoria respectiva.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1707.
 
-Cuando no se haya hecho valer el recurso administrativo de revocación a que se refiere el artículo 1560 o en su caso de que éste haya sido resuelto en contra de las pretensiones del recurrente, la autoridad administrativa que corresponde procederá desde luego a la ocupación del bien de cuya expropiación u ocupación temporal se trate, o a emprender la ejecución inmediata de las disposiciones de limitación de dominio que procedan.
+El expediente deberá contener lo siguiente:
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+I.- El escrito por el cual se solicite la expropiación o, en su caso, expresar si se realiza de oficio por parte de la autoridad expropiante;
+
+II.- La constancia expedida por el Registro Público de la Propiedad y del Notariado, en la que se indique a nombre de quién se encuentra inscrito el predio o predios cuya expropiación se solicita, o la circunstancia de no encontrarse inscrito.
+
+En el caso que el objeto sea un bien inmueble, el plano que contenga la descripción por el perito autorizado, que indique plenamente el bien o bienes a expropiar;
+
+III.- La constancia expedida por la oficina catastral municipal, en la que se indique a nombre de quien se encuentra registrado el predio o predios cuya expropiación se solicita, o la circunstancia de no encontrarse registrado, clave catastral, superficie y las medidas y colindancias correspondientes.
+
+IV.- Las constancias públicas que acrediten que se desconoce el nombre o domicilio de los afectados, en su caso;
+
+V.- El deslinde o levantamiento topográfico en el que se delimite el predio o predios objeto de la expropiación.
+
+En el supuesto que no sea necesario expropiar la totalidad de un predio, deberá anexarse levantamiento topográfico de la superficie o superficies de terreno cuya expropiación se solicita;
+
+VI.- El proyecto de la obra que se pretende ejecutar en el bien cuya expropiación se solicita, acompañando el plano autorizado por la autoridad competente;
+
+VII.- Avalúo del bien o bienes objeto de la expropiación.
+
+No será necesario la integración del expediente en los casos comprendidos en las fracciones V, VI, IX y XII del artículo 1703 de este Código.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1708.
 
-En los casos a que se refieren las fracciones V y IX del artículo 1556 de este Código, el Ejecutivo del Estado, hecha la declaratoria, podrá ordenar la ocupación de los bienes objeto de la expropiación o de la ocupación temporal o imponer la ejecución inmediata de las disposiciones de limitación de dominio, sin que la interposición del recurso administrativo de revocación suspenda la ocupación del bien o bienes de que se trata o la ejecución de las disposiciones de limitación de dominio.
+La declaratoria a que se refiere el artículo anterior se hará mediante acuerdo que se publicará en el Periódico Oficial del Estado y será notificado personalmente a los interesados. En caso de ignorarse el domicilio de éstos, surtirá efectos de notificación personal una segunda publicación del acuerdo en el Periódico Oficial del Estado.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1709.
 
-Si los bienes que han originado una declaratoria de expropiación, de ocupación temporal o de limitación de dominio, no fueren destinados al fin que dio causa a la declaratoria respectiva, dentro del término de tres años, el propietario afectado podrá reclamar la reversión del bien de que se trata o la insubsistencia del acuerdo sobre ocupación temporal o limitación de dominio.
+La autoridad encargada de integrar el expediente, solicitará de las oficinas rentísticas correspondientes, el valor catastral del bien cuya expropiación se solicita y si tienen conocimiento de que el referido bien haya sufrido deterioros o mejoras con posterioridad a la fecha de asignación del valor catastral.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1710.
 
-El precio que se fijará como indemnización a la cosa expropiada se basará en la cantidad que como valor catastral de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base.
+La propia autoridad recabará los informes necesarios para decidir sobre la existencia de la causa de utilidad pública, en el término no mayor de treinta días. Al tener suficientes elementos de juicio para decidir sobre este punto, se llevará el asunto al acuerdo del Gobernador, para que resuelva declarando o negando la expropiación.
 
-El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor catastral, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
-
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1711.
 
-Cuando se controvierta el monto de la indemnización a que se refiere al artículo anterior, se hará la consignación al juez que corresponda, quien fijará a las partes el término de tres días para que designen sus peritos con apercibimiento de designarlos el Juez en rebeldía, si aquéllos no lo hacen. También se les prevendrá designen de común acuerdo un tercer perito para el caso de discordia y si no lo nombraren serán designado por el Juez.
+El acuerdo de expropiación deberá contener lo siguiente:
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+I.- Precisar si la expropiación se realiza a solicitud de parte, o de manera oficiosa por la Autoridad Expropiante;
+
+II.- Nombre y domicilio del propietario o poseedor, o la circunstancia de ser desconocidos;
+
+III.- Declaratoria de utilidad pública en que se sustenta la expropiación, expresando las consideraciones necesarias para demostrar la existencia de la causa de dicha utilidad;
+
+IV.- Clave catastral, valor, ubicación, superficie, medidas y colindancias del bien o bienes que se expropian: Tratándose de bienes muebles se deberán proporcionar sus características y demás datos que faciliten su identificación;
+
+V.- Declaratoria de expropiación y la indicación a favor de quien se expropia;
+
+VI.- Monto, forma y tiempo de pago de la indemnización, la que deberá hacerse antes de la ocupación del bien. En su caso, se establecerá que la determinación del monto de la indemnización se hará por la autoridad judicial, previo peritaje rendido en los casos previstos por el artículo 1720 y 1727 de este Código;
+
+VII.- Autoridad que deberá realizar el pago de la indemnización;
+
+VIII.- Si el bien expropiado formará parte del patrimonio del dominio público o privado del Estado o Municipio, según el destino o uso que se le vaya a dar;
+
+IX.- Orden de publicación del Acuerdo Expropiatorio en el Periódico Oficial del Estado;
+
+X.- Autoridad que ejecutará el Acuerdo Expropiatorio para poner en posesión del bien expropiado al beneficiario;
+
+XI.- Orden de inscripción en el Registro Público de la Propiedad y del Notariado y en la oficina catastral correspondiente;
+
+XII.- Orden de notificación personal al afectado o a quien legalmente lo represente en los términos de la presente ley.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1712.
 
-Contra el auto del Juez que haga la designación de peritos no procederá ningún recurso.
+Los acuerdos de expropiación se ejecutarán por conducto de la Dirección de Gobernación, siempre que los expropiados se nieguen a cumplirlos voluntariamente. Deberán inscribirse en el Registro Público de la Propiedad.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1713.
 
-En los casos de renuncia, excusa o incapacidad de alguno de los peritos designados, se hará nueva designación dentro del término de tres días por quienes corresponda.
+Los efectos de la expropiación serán:
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+I.- Los bienes expropiados pasarán al patrimonio del beneficiario, libres de gravamen, sin necesidad de formalidad alguna;
+
+II.- En caso de bienes inmuebles, deberá ordenarse en su caso la extinción de las hipotecas que existan sobre los mismos, de conformidad con lo dispuesto por el Código Civil para el Estado;
+
+III.- Los contratos de arrendamiento o de cualquier otra clase, por los que se haya transmitido a terceros la posesión derivada, el uso o el aprovechamiento de inmuebles expropiados, quedarán extinguidos.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1714.
 
-Los honorarios de cada perito serán pagados por la parte que deba nombrarlo y los del tercero por ambas.
+Los propietarios afectados podrán interponer, dentro de los quince días hábiles siguientes a la notificación del acuerdo, recurso administrativo de revocación contra la declaratoria correspondiente, en los términos de este Código.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1715.
 
-El Juez fijará un plazo que no excederá de sesenta días para que los peritos rindan su dictamen.
+El recurso administrativo de revocación referido en el artículo anterior se interpondrá directamente ante el Gobernador del Estado, y se tramitará por conducto de la Dirección de Gobernación, en los términos del artículo 1644 de este Código.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1716.
 
-Si los peritos estuvieren de acuerdo en la fijación del valor de las mejoras o del demérito, el Juez de plano fijará el monto de la indemnización; en caso de inconformidad, llamará al tercero para que, dentro del plazo que le fije, que no excederá de treinta días, rinda su dictamen. Con vista de los dictámenes de los peritos, el Juez resolverá dentro del término de diez días, lo que estime procedente.
+El escrito de interposición del recurso deberá contener lo siguiente:
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+I.- El nombre, domicilio y firma de quien lo promueve;
+
+II.- La personalidad con que se actúa;
+
+III.- Los datos del bien o cosa afectada;
+
+IV.- La fecha del Periódico Oficial del Estado en que se haya publicado la declaratoria;
+
+V.- Los hechos en que se sustente;
+
+VI.- Los agravios que cause el acuerdo impugnado;
+
+VII.- En su caso, la solicitud de que se suspenda la ejecución del Acuerdo expropiatorio; y
+
+VIII.- Las pruebas que se ofrezcan para acreditar los hechos, incluyendo la confesional de las autoridades.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1717.
 
-Contra la resolución judicial que fije el monto de la indemnización no cabrá ningún recurso.
+Cuando no se haya hecho valer el recurso administrativo de revocación a que se refiere el artículo 1714, o en caso de que éste haya sido resuelto en contra de las pretensiones del recurrente, la autoridad administrativa que corresponde procederá desde luego a la ocupación del bien de cuya expropiación u ocupación temporal se trate, o a emprender la ejecución inmediata de las disposiciones de limitación de dominio que procedan.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1718.
 
-Si la ocupación fuere temporal, el monto de la indemnización quedará a juicio de peritos y a resolución judicial, en el caso de limitación de dominio.
+En los casos a que se refieren las fracciones V, VI, IX y XII del artículo 1703 de este Código, el Ejecutivo del Estado, hecha la declaratoria, podrá ordenar la ocupación de los bienes objeto de la expropiación o de la ocupación temporal o imponer la ejecución inmediata de las disposiciones de limitación de dominio, sin que la interposición del recurso administrativo de revocación suspenda la ocupación del bien o bienes de que se trata o la ejecución de las disposiciones de limitación de dominio.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1719.
 
-El importe de la indemnización será cubierto por el Estado cuando la cosa expropiada pase a su patrimonio. Cuando la cosa expropiada pase al patrimonio de persona distinta del Estado, esa persona cubrirá el importe de la indemnización. Estas disposiciones se aplicarán en lo conducente, a los casos de ocupación temporal o de limitación al derecho de dominio.
+Si los bienes que han originado una declaratoria de expropiación, de ocupación temporal o de limitación de dominio, no fueren destinados al fin que dio causa a la declaratoria respectiva, dentro del término de tres años, el propietario afectado podrá reclamar la reversión del bien de que se trata o la insubsistencia del acuerdo sobre ocupación temporal o limitación de dominio.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1720.
 
-El Ejecutivo del Estado fijará la forma y los plazos en que la indemnización deberá pagarse. En caso de que el mismo Ejecutivo no obtenga autorización del Congreso del Estado para cubrir la indemnización en un plazo mayor, éste no excederá del término que falte al mismo Ejecutivo para cumplir su período gubernativo.
+El precio que se fijará como indemnización al bien expropiado, se basará en la cantidad que como valor catastral de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito, por haber pagado el Impuesto Predial con esta base.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1721.
 
-La solicitud de expropiación deberá señalar claramente la causa de utilidad pública que la justifique, así como los fines a que pretenda destinarse el bien y las obras o inversiones que vayan a realizarse.
+El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor catastral, será lo único que podrá quedar sujeto a juicio pericial y a resolución judicial, cuando no hubiere acuerdo sobre el particular. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1722.
 
-La Dirección de Gobernación solicitará de las oficinas rentísticas correspondientes, informe sobre el valor catastral del bien cuya expropiación se solicita, pidiéndoles informen si tienen conocimiento de que el referido bien haya sufrido deterioros o mejoras con posteridad a la fecha de asignación del valor catastral.
+Cuando se controvierta el monto de la indemnización a que se refiere el artículo anterior, se hará la consignación al Juez que corresponda, quien fijará a las partes el término de tres días para que nombren sus peritos, con apercibimiento de designarlos el Juez en rebeldía, si aquellos no lo hacen. También se les prevendrá nombren de común acuerdo un tercer perito para el caso de discordia y si no lo hacen será designado por el Juez.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+Contra el auto del Juez que haga la designación de peritos no procederá ningún recurso.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1723.
 
-La propia Dirección recabará los informes necesarios para decidir sobre la existencia de la causa de utilidad pública, en el término no mayor de treinta días. Al tener suficientes elementos de juicio para decidir sobre este punto, se llevará el asunto al acuerdo del Gobernador para que resuelva declarando o negando la expropiación.
+En los casos de renuncia, excusa o incapacidad de alguno de los peritos designados, se hará nueva designación dentro del término de tres días por quienes corresponda.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+Los honorarios de cada perito serán pagados por la parte que deba nombrarlo y los del tercero por ambas.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1724.
 
-El acuerdo de expropiación deberá contener las consideraciones necesarias para demostrar la existencia de la causa de utilidad pública y para determinar el monto de la indemnización conforme a lo dispuesto por el artículo 27 Constitucional. Concluirá con los puntos resolutivos en que se declare la procedencia de la expropiación, determinando con exactitud el bien que se expropia y la persona jurídica en cuyo favor se decreta la expropiación; el monto de la indemnización o la determinación de que ésta debe hacerse por la autoridad judicial previo peritaje rendido en los casos previstos por los artículos 1565 y 1573 de este Código y la determinación de que el acuerdo respectivo se notifique, publique y ejecute.
+El Juez fijará un plazo que no excederá de sesenta días para que los peritos rindan su dictamen.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1725.
 
-Los acuerdos de expropiación se ejecutarán por conducto de la Dirección de Gobernación, siempre que los expropiados se nieguen a cumplirlos voluntariamente. Deberán inscribirse en el Registro Público de la Propiedad.
+Si los peritos estuvieren de acuerdo en la fijación del valor de las mejoras o del demérito, el Juez de plano fijará el monto de la indemnización; en caso de inconformidad, llamará al tercero para que, dentro del plazo que le fije, que no excederá de treinta días, rinda su dictamen. Con vista de los dictámenes de los peritos, el Juez resolverá dentro del término de diez días, lo que estime procedente.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2005)</small>
+
+###### ARTICULO 1726.
+
+Contra la resolución judicial que fije el monto de la indemnización no cabrá ningún recurso.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2005)</small>
+
+###### ARTICULO 1727.
+
+Si la ocupación fuere temporal, o en el caso de limitación de dominio, el monto de la indemnización quedará a juicio de peritos, procediendo la autoridad judicial en la forma prevista en los artículos 1725 y 1726.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2005)</small>
+
+###### ARTICULO 1728.
+
+El importe de la indemnización será cubierto por el Estado cuando la cosa expropiada pase a su patrimonio. Cuando la cosa expropiada pase al patrimonio de persona distinta del Estado, esa persona cubrirá el importe de la indemnización. Estas disposiciones se aplicarán en lo conducente, a los casos de ocupación temporal o de limitación al derecho de dominio.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2005)</small>
+
+###### ARTICULO 1729.
+
+El Ejecutivo del Estado fijará las formas y los plazos en que la indemnización deberá pagarse. En caso de que el mismo Ejecutivo no obtenga autorización del Congreso del Estado para cubrir la indemnización en un plazo mayor, éste no excederá del término que falte al mismo Ejecutivo para cumplir su período administrativo.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2005)</small>
+
+###### ARTICULO 1730.
+
+La indemnización podrá ser en:
+
+I.- Dinero;
+
+II.- Especie;
+
+III.- Compensación en el pago de contribuciones que debe efectuar el titular de los derechos del bien expropiado;
+
+IV.- La combinación de cualquiera de las anteriores.
 
 ## TRANSITORIOS
 
@@ -10822,3 +10944,13 @@ P.O. 30 DE OCTUBRE DE 2004.
 PRIMERO. Conforme lo dispone el artículo 202 de la Constitución Política Estatal, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución local.
 
 SEGUNDO. Realizado que sea el procedimiento del artículo 202 de la Constitución Política Estatal, publíquese el presente Decreto en el Periódico Oficial del Estado, para que entre en vigor al día siguiente de su publicación.
+
+P.O. 1 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los expedientes que estén en trámite hasta antes de la entrada en vigor de estas disposiciones, se resolverán conforme a las mismas hasta su conclusión.
