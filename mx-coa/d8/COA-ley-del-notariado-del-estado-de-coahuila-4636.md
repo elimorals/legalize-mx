@@ -4,7 +4,7 @@ identifier: "COA-ley-del-notariado-del-estado-de-coahuila-4636"
 country: "mx"
 rank: "ley"
 publication_date: "1979-02-06"
-last_updated: "1993-08-31"
+last_updated: "1996-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL NOTARIADO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 6 de febrero de 1979.
 
@@ -107,6 +107,10 @@ Se exceptuan de las incompatibilidades señaladas, la impartición de cátedra y
 
 El Notario residirá, y sólo podrá ejercer sus funciones dentro del Distrito de su adscripción. Los actos que autorice pueden referirse a cualquier otro lugar.
 
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 1996)</small>
+
+Cuando se trate de actos por los cuales se constituya, modifique o extinga algún derecho real sobre bienes inmuebles localizados en el Distrito Notarial de su adscripción, el Notario personalmente y bajo su más estricta responsabilidad, podrá recabar las firmas de los interesados en lugar distinto a su Distrito, haciendo constar esta circunstancia en el instrumento correspondiente.
+
 ###### ARTICULO 8o.
 
 Los Notarios no serán remunerados por el erario, sino que cobrarán a los interesados, en cada caso los honorarios que devenguen.
@@ -139,7 +143,15 @@ XI.- Legalizar firmas;
 
 XII.- Enviar a la oficina respectiva el aviso a que se refiere el artículo 48 de la Ley Reglamentaria del Registro Público de la Propiedad;
 
-XIII.- Las demás que establezcan las leyes.
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 1996)</small>
+
+XIII.- Intervenir, en sustitución de la autoridad judicial respectiva, en aquellos procedimientos a que se refieren los capítulos V y VI del Título Décimo Quinto del Código de Procedimientos Civiles del Estado.
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 1996)</small>
+
+XIV.- tramitar extrajudicialmente sucesiones testamentarias e intestamentarias, en tanto no surja desacuerdo entre las partes interesadas; y
+
+XV.- Las demás que establezcan las leyes.
 
 ### CAPITULO SEGUNDO. DEL PROTOCOLO
 
@@ -243,9 +255,11 @@ En el protocolo no puede haber raspaduras ni enmendaduras de lo escrito; en caso
 
 Los documentos relativos a cada escritura formarán el apéndice, el que, a su vez, se considerará parte integrante del protocolo.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 25.
 
-En cada documento de los mencionados en el artículo anterior, el Notario asentará en forma manuscrita, a máquina, por medio de sellos, o por una combinación de ésos medios, una razón donde constará el número de escritura a la cual se refiere el documento respectivo, el número de documentos relativos a dicha escritura, y el número particular de cada documento, además de su sello de autorizar y su rúbrica.
+En cada documento de los mencionados en el artículo anterior, el Notario asentará en forma manuscrita, a máquina, por medio de sellos, o por una combinación de estos medios, una razón donde constará el número de la escritura correspondiente, y un inciso, alfabético o numérico, con el cual se identificará particularmente el documento respectivo, además de su sello de autorizar y su rúbrica.
 
 ###### ARTICULO 26.
 
@@ -281,6 +295,10 @@ Toda escritura se extenderá sujetándose a las reglas siguientes:
 
 I.- Se redactará en castellano, escribiéndose sin abreviaturas, guarismos, raspaduras, enmendaduras y sin dejar huecos. Cuando existan éstos, se llenarán precisamente antes de firmar la escritura con líneas de tinta fuertemente grabados;
 
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 1996)</small>
+
+A solicitud de alguna de las partes y a su costa, se podrá incluir en las escrituras, una versión de su contenido redactado en idioma distinto del castellano, con la intervención de un perito traductor designado por el Notario, de entre aquellos que se encuentren registrados como tales ante los Tribunales de la localidad;
+
 II.- Los Notarios firmarán la razón de autorización y únicamente rubricarán las razones marginales;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 1980)</small>
@@ -313,7 +331,11 @@ XIII.- Cuando el otorgante sea ciego, mudo, sordo o no sepa leer y escribir se e
 
 XIV.- La parte que no supiere el idioma español, se hará acompañar de un intérprete elegido por ella, que hará protesta formal ante el Notario de cumplir lealmente a su cargo. La parte que conozca el idioma español podrá también llevar otro intérprete para lo que a su derecho convenga;
 
-XV.- Firmarán los otorgantes, testigos de identidad y los demás que intervengan, los intérpretes y por último el Notario, quien además pondrá su sello. Cuando alguno de los otorgantes no pueda o no sepa firmar, lo hará a su ruego otra persona. En los casos de protestas, interpelaciones, requerimientos y demás diligencias notariales de la misma índole, en que se niegue a firmar la persona con quien se entienda la diligencia, lo hará constar así el Notario;
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 1996)</small>
+
+XV.- Firmarán los otorgantes, testigos de identidad y los demás que intervengan, los intérpretes y por último el Notario, quien además pondrá su sello. Cuando alguno de los otorgantes no pueda o no sepa firmar, lo hará a su ruego otra persona. Las firmas de las partes podrán ser recabadas por el Notario aun cuando aquéllas no estén conjuntamente presentes ante él.
+
+En los casos de protestas, interpelaciones, requerimientos y demás diligencias notariales de la misma índole, en que se niegue a firmar la persona con quien se entienda la diligencia, lo hará constar así el Notario;
 
 XVI.- Si las partes quisieren hacer alguna adición o modificación antes de que firme el Notario, se asentarán aquellas, sin dejar espacio en blanco, mediante declaración de que se leyeron, la cual será suscrita por los interesados y el Notario, quien sellará al pie la adición o variación verificada;
 
@@ -561,11 +583,13 @@ También se inutilizarán por esa dependencia el sello del Notario que fallezca 
 
 Los Notarios sólo podrán ser suspendidos o cesados en los términos de la presente ley y previo el cumplimiento de todas y cada una de las formalidades que señala.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1996)</small>
 
 ###### ARTICULO 70.
 
-El Ejecutivo del Estado, atendiendo entre otros indicadores, a las condiciones socio-económicas de las poblaciones; al volumen de los actos que requieran la intervención notarial; a la permanencia, regularidad y continuidad de la misma función, fijará el número de Notarías y su residencia para cada Distrito, procurando que exista cuando menos un Notario en cada población de más de diez mil habitantes.
+El Ejecutivo del Estado, atendiendo entre otros indicadores, a las condiciones socioeconómicas de las poblaciones; al volumen de los actos que requieran la intervención notarial; a la permanencia, regularidad y continuidad de la misma función, fijará el número de Notarías y su residencia para cada Distrito, procurando que exista un Notario por cada veinte mil habitantes, en las poblaciones que excedan de esa cantidad. En aquellas cuya población sea menor, pero mayor de diez mil, procurará que cuenten con cuando menos un Notario, en atención a los mismos indicadores.
+
+Para evitar la concentración de Notarios en una sola ciudad dentro de un Distrito, el propio Ejecutivo adoptará las providencias que, a su juicio correspondan, a fin de que, las notarías sean distribuidas proporcionalmente entre las poblaciones y municipios de un mismo Distrito que lo ameriten conforme a lo dispuesto en el presente artículo.
 
 ### CAPITULO SEGUNDO. DE LAS NOTARIAS, DISTRITOS NOTARIALES Y ACTUACION DE JUECES POR RECEPTORIA
 
@@ -727,9 +751,11 @@ Unicamente en el caso de que al aspirante se le dispense del requisito a que se 
 
 En los demás casos se observará lo dispuesto en los artículos siguientes.
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 93.
 
-Transcurridos los plazos que se refiere el artículo anterior, el Ejecutivo del Estado señalará día y hora para la celebración del examen de selección, informando de ello al Consejo de Notarios del Estado y a los Aspirantes cuando menos con 15 días hábiles de anticipación a la fecha del examen, por medio de Oficio enviado al domicilio que al efecto hubieren designado en su solicitud, mediante pieza postal certificada y con acuse de recibo o personalmente.
+A efecto de cubrir las vacantes a que se refiere el artículo anterior, el Ejecutivo del Estado señalará día y hora para la celebración del examen de selección, informando de ello al Consejo de Notarios del Estado y a los aspirantes cuando menos con 15 días hábiles de anticipación a la fecha del examen, por medio de oficio enviado al domicilio que al efecto hubieren designado en su solicitud, mediante pieza postal certificada y con acuse de recibo.
 
 ###### ARTICULO 94.
 
@@ -1544,3 +1570,21 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ENERO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+Para los efectos del artículo 70 de la presente reforma, el Ejecutivo del Estado, tomará las medidas necesarias a efecto de que en aquellos Distritos Notariales donde se exceda el número de Notarios con relación a la población de un municipio, se adscriban a otra población dentro del mismo Distrito que carezca de Notario.
+
+###### ARTICULO CUARTO.
+
+Las reformas al artículo 9o. en sus fracciones XIII y XIV entrarán en vigor una vez que se realicen las correspondientes al Código adjetivo de la materia.
