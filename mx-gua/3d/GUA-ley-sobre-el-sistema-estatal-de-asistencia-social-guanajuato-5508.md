@@ -4,7 +4,7 @@ identifier: "GUA-ley-sobre-el-sistema-estatal-de-asistencia-social-guanajuato-55
 country: "mx"
 rank: "ley"
 publication_date: "1986-09-19"
-last_updated: "1986-09-19"
+last_updated: "1994-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1994.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de septiembre de 1986.
 
@@ -313,9 +313,11 @@ V.- Las demás que sean necesarias para el ejercicio de las facultades anteriore
 
 El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 26.
 
-La Junta de Gobierno estará integrada por los Titulares de las siguientes dependencias: Secretaría de gobierno, Secretaría de Salud y Seguridad Social, Secretaría de Educación, Cultura y Recreación, Secretaría de Planeación, Secretaría de Administración Financiera, Procuraduría General de Justicia, Dirección del Instituto de Seguridad Social del Estado de Guanajuato y por el Director del Sistema para el Desarrollo Integral de la Familia Guanajuato.
+La Junta de Gobierno estará integrada por los titulares de las siguientes dependencias: Secretaría de Salud, Secretaría de Educación, Cultura y Recreación, Procuraduría General de Justicia del Estado y por el Director del Sistema Estatal para el Desarrollo Integral de la Familia.
 
 Los miembros de la Junta de Gobierno serán suplidos por los Representantes que al efecto designen cada uno de los miembros propietarios de la misma.
 
@@ -325,11 +327,15 @@ La Junta de Gobierno contará con un Secretario Técnico, designado por la misma
 
 La Junta de Gobierno tendrá las siguientes facultades:
 
-I.- Representar al Organismo con las facultades que establezcan las leyes para actos de dominio, de administración y para pleitos y cobranzas;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
+
+I.- Otorgar al Director General, poder para ejercer actos de dominio;
 
 II.- Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales;
 
-III.- Aprobar el Reglamento Interior, la organización general del Organismo y los Manuales de Procedimientos y de Servicios al Público;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1994)</small>
+
+III.- Aprobar los Reglamentos Interiores, que le presente para tal efecto el Director General; así como la organización general del Organismo y los Manuales de Procedimientos y Servicio al Público;
 
 IV.- Designar y remover, a propuesta del Director General del Organismo, a los servidores públicos superiores;
 
@@ -381,7 +387,15 @@ VII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensabl
 
 VIII.- Actuar en representación de Organismo con facultades generales para actos de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes; y
 
-IX.- Las demás que sean necesarias para el ejercicio de las anteriores.
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1994)</small>
+
+IX.- Representar jurídicamente al Organismo como apoderado general para pleitos y cobranzas, con facultades de administración y aquéllas que requieran cláusula especial de acuerdo con la Ley; así como para ejercer actos de dominio, con autorización expresa de la Junta de Gobierno;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 1994)</small>
+
+X.- Formular los proyectos de Reglamentos Interiores del Organismo y someterlos, para su aprobación, a la Junta de Gobierno; y
+
+XI.- Las demás que sean necesarias para el ejercicio de las anteriores.
 
 ###### ARTICULO 32.
 
@@ -421,37 +435,167 @@ Las relaciones de trabajo entre el Organismo y sus trabajadores se sujetarán a 
 
 Los trabajadores del Organismo estarán incorporados al régimen de Seguridad Social que corresponda a los trabajadores al servicio del Gobierno del Estado.
 
-### CAPITULO TERCERO. De la Coordinación, Concertación e Inducción
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1994)</small>
+
+### CAPITULO TERCERO. De la Procuraduría en Materia de Asistencia Social
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 39.
 
-Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más desprotegidos, el Gobierno del Estado, con la participación del Organismo, celebrará convenios o acuerdos dentro del marco del Convenio Unico de Desarrollo para la coordinación de acciones a nivel estatal o municipal, con las entidades y dependencias de la Administración Pública Federal, en los términos de la Ley de Planeación y de la Ley General de Salud.
+Para los efectos de la fracción V del Artículo 13 de esta Ley, el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, contará con una Procuraduría que tendrá por objeto la prestación de servicios jurídicos en favor de las personas a que se refiere el Artículo 4 de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 40.
+
+La Procuraduría en Materia de Asistencia Social estará a cargo de un Procurador General designado por la Junta de Gobierno, a propuesta del Director General.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 41.
+
+La Procuraduría en Materia de Asistencia Social, contará con los Procuradores Auxiliares que sean necesarios para el cumplimiento de sus funciones, los cuales serán designados por el Procurador General.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 42.
+
+Los requisitos para ser Procurador General y Procurador Auxiliar, así como sus funciones, se establecerán en el Reglamento Interior que para el efecto expida la Junta de Gobierno.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 43.
+
+La Procuraduría en Materia de Asistencia Social, tendrá las siguientes atribuciones:
+
+I.- Otorgar la asistencia jurídica que soliciten las personas a que se refiere el Artículo 4 de esta Ley; de conformidad con la legislación aplicable y en los términos del reglamento interior;
+
+II.- Dar seguimiento a las asesorías y orientaciones jurídicas para evaluar resultados e incrementar la eficiencia del servicio;
+
+III.- Atender con oportunidad y eficacia los juicios en los cuales tengan la representación del interés jurídico de las personas referidas en la fracción I de este Artículo;
+
+IV.- Recibir, investigar y atender, o en su caso, canalizar ante las autoridades competentes las quejas y denuncias de la ciudadanía en materia de asistencia social;
+
+V.- Promover la participación y responsabilidad de la sociedad en la formulación y aplicación de la política y de las acciones en materia de asistencia social;
+
+VI.- Coadyuvar con las autoridades federales, estatales o municipales, en el ámbito de su competencia, respecto de los programas de asistencia jurídica en favor de los beneficiarios de la asistencia social;
+
+VII.- Resolver sobre las consultas planteadas por la ciudadanía, en asuntos de su competencia;
+
+VIII.- Promover y procurar, cuando esto sea posible, la conciliación de intereses entre particulares y en sus relaciones con las autoridades, en asuntos que de acuerdo con esta Ley le competan;
+
+IX.- Denunciar ante el Ministerio Público los actos, omisiones o hechos ilícitos que impliquen la comisión de delitos de los que tenga conocimiento en el cumplimiento de sus funciones, así como coadyuvar y representar, en su caso, los intereses de las personas presuntas víctimas de los delitos;
+
+X.- Denunciar ante la Procuraduría de los Derechos Humanos del Estado de Guanajuato, los actos, omisiones o hechos que pudieran significar violación a los derechos humanos de las personas tuteladas por esta Ley y de los cuales tengan conocimiento;
+
+XI.- Coadyuvar, en los términos que se convenga, con la Dirección de Atención a las Víctimas del Delito de la Procuraduría General de Justicia del Estado, para eficientar el servicio respecto de las personas beneficiarias de la asistencia social, que requieran del mismo; y
+
+XII.- Las demás que le otorgue el Reglamento Interior y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 44.
+
+La Procuraduría en Materia de Asistencia Social, contará con las unidades administrativas necesarias para el cumplimiento de sus atribuciones, en los términos del Reglamento Interior.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 45.
+
+En el Reglamento Interior de la Procuraduría en Materia de Asistencia Social, se establecerán, además, las disposiciones generales, los mecanismos, instancias y procedimientos administrativos que procuren el cumplimiento de las atribuciones que le señala este capítulo y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+### CAPITULO CUARTO. De la Orientación Familiar
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 46.
+
+Con el objeto de contribuir al establecimiento de bases sólidas para el desarrollo integral de la familia, se promoverá la creación de centros de orientación familiar, los cuales encauzarán sus actividades a la investigación de las causas de desintegración familiar y a la promoción de los valores que deben prevalecer en la relación entre los cónyuges y los hijos.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 47.
+
+Los centros de orientación familiar, de acuerdo con las posibilidades del sistema para el desarrollo integral de la familia, se instalarán en aquellos lugares que decida la Junta de Gobierno por sí, o en coordinación con los sistemas municipales.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 48.
+
+Los centros de orientación familiar tendrán los objetivos siguientes:
+
+I.- Procurar el bienestar familiar, en una relación de respeto y convivencia mutua;
+
+II.- Promover la comunicación constante dentro del núcleo familiar;
+
+III.- Sensibilizar al padre y a la madre, o a quienes ejerzan la patria potestad o tengan la custodia, respecto de la función educativa para los hijos y menores a su cargo;
+
+IV.- Contribuir a la integración conyugal, a través de la información y la educación;
+
+V.- Fomentar la paternidad y la maternidad responsable;
+
+VI.- Asesorar a los padres de familia para atender problemas de alcoholismo, drogadicción y otros semejantes, que atenten contra la integridad de la familia tanto de alguno de los cónyuges como de los hijos; y
+
+VII.- En general, brindar la atención a todas aquellas cuestiones indispensables para el bienestar del núcleo familiar.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 49.
+
+Los centros de orientación familiar se sujetarán en cuanto a su integración, organización y funcionamiento a las disposiciones contenidas en el Reglamento Interior, que para tal efecto expida la Junta de Gobierno.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 50.
+
+Los Sistemas Municipales para el Desarrollo Integral de la Familia, procurarán la creación, en el ámbito de su competencia, de centros de orientación familiar de conformidad con lo que dispone el presente Capítulo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 1994)</small>
+
+### CAPITULO QUINTO. De la Coordinación, Concertación e Inducción
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 51.
+
+Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más desprotegidos, el Gobierno del Estado, con la participación del Organismo, celebrará convenios o acuerdos dentro del marco del Convenio Unico de Desarrollo para la Coordinación de Acciones a Nivel Estatal o Municipal, con las Entidades y Dependencias de la Administración Pública Federal, en los términos de la Ley de Planeación y de la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 52.
 
 Con el objeto de ampliar la cobertura y la calidad de los servicios en materia de asistencia social a nivel estatal y municipal, el Gobierno del Estado a través del Organismo, promoverá la celebración de convenios entre éste y los Gobiernos Municipales a fin de:
 
 I.- Establecer programas conjuntos;
 
-II.- Promover la conjunción de los dos niveles de gobierno en la aportación de recursos financieros;
+II.- Promover la conjunción de dos niveles de gobierno en la aportación de recursos financieros;
 
-III.- Distribuir y coordinar acciones entre las partes, de manera proporcional y equitativa;
+III.- Distribuir y coordinar acciones entre las partes de manera proporcional y equitativa;
 
 IV.- Coordinar y proponer programas para el establecimiento y apoyo de la Beneficencia Pública y la Asistencia Privada, Estatal y Municipal; y
 
 V.- Fortalecer el patrimonio de los Sistemas Municipales para el Desarrollo Integral de la Familia.
 
-###### ARTICULO 41.
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
 
-El Organismo, promoverá ante los Gobiernos Municipales, el establecimiento de mecanismos idóneos que permitan una interrelación sistemática a fin de conocer las demandas de servicios en materia de asistencia social, para los grupos sociales desprotegidos y coordinar su oportuna atención.
+###### ARTICULO 53.
 
-###### ARTICULO 42.
+El Organismo promoverá ante los Gobiernos Municipales, el establecimiento de mecanismos idóneos que permitan una interrelación sistemática a fin de conocer las demandas de servicios en materia de asistencia social, para los grupos sociales desprotegidos y coordinar su oportuna atención.
 
-El Organismo, celebrará convenios o contratos para la concertación de acciones de asistencia social con los sectores social y privado con objeto de coordinar su participación en la concertación de acciones de asistencia social que coadyuve a la realización de los objetivos a que se refiere esta Ley.
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
 
-###### ARTICULO 43.
+###### ARTICULO 54.
 
-El Organismo, con la participación de las dependencias y entidades estatales que correspondan, propiciará que la concertación de acciones en materia de asistencia social con los sectores social y privado a que se refiere al Artículo anterior, se lleve a cabo mediante la celebración de convenios o contratos que en todo caso deberán ajustarse a las siguientes bases:
+El Organismo celebrará convenios o contratos para la concertación de acciones de asistencia social con los sectores social y privado con objeto de coordinar su participación en la concertación de acciones de asistencia social que coadyuven a la realización de los objetivos a que se refiere esta Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 55.
+
+El Organismo, con la participación de las dependencias y entidades estatales que correspondan, propiciará que la concertación de acciones en materia de asistencia social con los sectores social y privado a que se refiere al artículo anterior, se lleve a cabo mediante la celebración de convenios o contratos que en todo caso deberán ajustarse a las siguientes bases:
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
 
@@ -461,37 +605,47 @@ III.- Fijación del objeto, materia y alcances jurídicos de los compromisos que
 
 IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
 
-###### ARTICULO 44.
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
 
-El Organismo, con el objeto de ampliar la cobertura de los servicios de asistencia social, fincados en la solidaridad ciudadana, promoverá en toda la entidad, la creación de instituciones de asistencia privada, fundaciones, asociaciones civiles y otras similares, las que, con sus propios recursos o con liberalidades de cualquier naturaleza que aporte la sociedad en general, presten dichos servicios con sujeción a los ordenamientos que las rijan.
+###### ARTICULO 56.
 
-El Organismo, aplicará, difundirá y adecuará las normas técnicas que dichas instituciones deberán observar en la prestación de los servicios en materia de asistencia social, prestándoles la asesoría técnica necesaria y los apoyos conducentes.
+El Organismo, con el objeto de ampliar la cobertura de los servicios de asistencia social, fincados en la solidaridad ciudadana, promoverá en toda la Entidad, la creación de instituciones de asistencia privada, fundaciones, asociaciones civiles y otras similares, las que, con sus propios recursos o con liberalidades de cualquier naturaleza que aporte la sociedad en general, presten dichos servicios con sujeción a los ordenamientos que las rijan.
 
-###### ARTICULO 45.
+El Organismo aplicará, difundirá y adecuará las normas técnicas que dichas instituciones deberán observar en la prestación de los servicios en materia de asistencia social, prestándoles la asesoría técnica necesaria y los apoyos conducentes.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 57.
 
 A propuesta del Organismo, el Gobierno del Estado dictaminará el otorgamiento de estímulos fiscales para inducir las acciones de los sectores social y privado en la prestación de servicios en materia de asistencia social.
 
-###### ARTICULO 46.
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
 
-El Organismo mediante la inducción, promoverá la organización y participación activa de la comunidad en la atención de aquellos casos de salud, que por sus características requieran de acciones de asistencia social basadas en el apoyo y solidaridad social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
+###### ARTICULO 58.
+
+El Organismo mediante la inducción promoverá la organización y participación activa de la comunidad en la atención de aquellos casos de salud, que por sus características requieran de acciones de asistencia social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
 
 El Organismo pondrá especial atención en la promoción de acciones de la comunidad en beneficio de menores en estado de abandono, minusválidos, inválidos e incapaces física o mentalmente.
 
-###### ARTICULO 47.
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
 
-El Gobierno del Estado directamente o a través del Organismo, promoverá la Organización y participación de la comunidad para que, en base al apoyo y la solidaridad social, coadyuve en la prestación de servicios asistenciales para el desarrollo Integral de la Familia.
+###### ARTICULO 59.
 
-###### ARTICULO 48.
+El Gobierno del Estado directamente o a través del Organismo, promoverá la organización y participación de la comunidad para que, en base al apoyo y la solidaridad social, coadyuve en la prestación de servicios asistenciales para el desarrollo Integral de la Familia.
 
-La participación de la comunidad a que se refiere el artículo anterior, tiene por objeto fortalecer su estructura, propiciando la solidaridad ante las necesidades reales de la población.
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 60.
+
+La participación de la comunidad a que se refiere el artículo anterior, tiene por objeto fortalecer su estructura propiciando la solidaridad ante las necesidades reales de la población.
 
 Dicha participación será a través de las siguientes acciones:
 
-I.- Promoción de hábitos de conducta y de valores que contribuyan a la protección de los grupos desprotegidos, a su superación y a la prevención de invalidez;
+I.- Promoción de hábitos de conducta y valores que contribuyan a la protección de los grupos desprotegidos, a su superación y a la prevención de invalidez;
 
 II.- Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social y participación en determinadas actividades de operación de los servicios en materia de asistencia social, bajo la Dirección y control de las autoridades correspondientes;
 
-III.- Notificación de la existencia de personas que requieran de asistencia social cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
+III.- Notificación de la existencia de personas que requieran la asistencia social cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
 
 IV.- Formulación de sugerencias para mejorar los servicios de asistencia social; y
 
@@ -526,3 +680,11 @@ LIC. JOSE HUERTA ABOYTES.
 El Secretario de Salud y Seguridad Social,
 
 DR. DAVID CADENA BARQUIN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 17 DE JUNIO DE 1994.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
