@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1999-05-14"
+last_updated: "1999-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 1999.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -821,7 +821,9 @@ XXXII.- Ejercer ante la Suprema Corte de Justicia de la Nación, la representaci
 
 XXXIII.- Autorizar al Ejecutivo para negociar empréstitos sobre el crédito del Estado, aprobarlos y decretar la manera de pagar la deuda.
 
-XXXIV.- Nombrar y remover al Oficial Mayor del Congreso y al Contador Mayor de Glosa, en los términos que marque la Ley respectiva.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 1999)</small>
+
+XXXIV.- Nombrar y remover al Oficial Mayor del Congreso del Estado y al Contador Mayor de Hacienda, en los términos que marque la ley respectiva.
 
 XXXV.- Cambiar la residencia de los Poderes del Estado.
 
@@ -837,9 +839,9 @@ XL.- Expedir las Leyes que rijan las relaciones laborales del Estado, los Munici
 
 XLI.- Legislar en materia del Patrimonio Familiar.
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 1999)</small>
 
-XLII.- Expedir su Ley Orgánica, misma que determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de Partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en la Cámara de Diputados.
+XLII.- Expedir su Ley Orgánica, misma que determinará las formas y procedimientos para la agrupación de los diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso, la cual no podrá ser objeto de veto ni requerirá para su vigencia de la promulgación del titular del Poder Ejecutivo Estatal, así como también éste tendrá la facultad de aprobar y ejercer su presupuesto en forma autónoma.
 
 XLIII.- Establecer en favor de los Municipios las contribuciones, rendimientos de los bienes que les pertenezcan y otros ingresos que a su juicio deban incorporar a su patrimonio.
 
@@ -851,7 +853,15 @@ XLV.- Expedir la Ley de Planeación del Estado.
 
 XLVI.- Expedir leyes en materia de fomento al turismo y de regulación de sistemas de tiempo compartido y multipropiedad.
 
-XLVII.- Expedir las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores, así como cualesquiera otras concedidas por esta Constitución a los Poderes del Estado y a los Municipios.
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 1999)</small>
+
+XLVII.- Expedir la Ley Orgánica de la Contaduría Mayor de Hacienda, misma que determinará su estructura, organización y funciones que le competen como órgano técnico de fiscalización y control gubernamental auxiliar de la legislatura, encargado de la revisión, análisis y dictamen de la Cuenta Pública que el Ejecutivo del Estado y los Ayuntamientos deberán presentar en los plazos y términos que dispone esta Constitución.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 1999)</small>
+
+XLVIII.- Expedir la Ley Orgánica del Poder Judicial del Estado, misma que determinará su estructura, organización y funcionamiento. Esta Ley no podrá ser objeto de veto ni requerirá para su vigencia de la promulgación del titular del Poder Ejecutivo del Estado.
+
+XLIX.- Expedir las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores, así como cualesquiera otras concedidas por esta Constitución a los Poderes del Estado y a los Municipios.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1109,7 +1119,7 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1215,9 +1225,9 @@ XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así 
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 75.
 
@@ -1247,9 +1257,9 @@ El Presidente presentará anualmente al Congreso un informe sobre las actividade
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 77.
 
@@ -1371,7 +1381,7 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1463,7 +1473,7 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1661,7 +1671,7 @@ Ninguna cuenta perteneciente a caudales públicos dejará de concluirse y glosar
 
 Todo Funcionario Público o empleado que tenga que manejar fondos, ya sea del Estado o del Municipio, deberá otorgar caución en términos de Ley.
 
-> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 108.
 
@@ -1673,7 +1683,7 @@ La educación que proporcione el Estado será gratuita y lo puede hacer por sí 
 
 El sistema estatal de enseñanza ajustará sus planes y programas de estudio al sistema federal, estableciendo para el efecto la coordinación necesaria con las autoridades educativas federales. Tratándose de la educación superior, se procurará el desarrollo del Estado o la región, sin perjuicio de aprovechar los conocimientos, las experiencias o los medios de las instituciones federales o de otras entidades.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 110.
 
@@ -1789,7 +1799,57 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a (sic) naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 111. Cuando dichos actos u omisiones fuesen graves, los plazos de prescripción no serán inferiores a tres años.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 16 DE OCTUBRE DE 1920.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUERRERO.
+
+P.O. 10 DE JUNIO DE 1922.
+
+Las anteriores adiciones y reformas a la Constitución, serán publicadas desde luego con la solemnidad debida en todas las poblaciones del Estado.
+
+P.O. 12 DE MAYO DE 1923.
+
+Las anteriores reformas a la Constitución Política local, serán publicadas con la solemnidad debida, en todas las poblaciones del Estado y entrarán desde luego en vigor.
+
+P.O. 3 DE ABRIL DE 1926.
+
+La duración del período y la no reelección a que se refiere el artículo reformado, se aplicarán a los Diputados que integren de la XXVIII Legislatura en adelante.
+
+P.O. 19 DE JUNIO DE 1926.
+
+Surtirá sus efectos el presente Decreto, a partir de la fecha de su publicación.
+
+P.O. 27 DE NOVIEMBRE DE 1926.
+
+El presente Decreto surtirá sus efectos desde la fecha de su publicación.
+
+P.O. 21 DE MAYO DE 1927.
+
+Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación.
+
+P.O. 2 DE FEBRERO DE 1929.
+
+Este Decreto surtirá sus efectos, a partir de la fecha de su publicación.
+
+P.O. 14 DE AGOSTO DE 1929.
+
+Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
+
+P.O. 22 DE ENERO DE 1930.
+
+Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
+
+P.O. 9 DE ABRIL DE 1930.
+
+Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
+
+P.O. 13 DE AGOSTO DE 1930.
+
+Este decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
+
+P.O. 2 DE SEPTIEMBRE DE 1931.
 
 ###### ARTICULO 117.
 
@@ -1869,7 +1929,7 @@ Los particulares podrán exigir el cumplimiento de las responsabilidades de la A
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 125.
 
@@ -1913,11 +1973,11 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO Y SU ADMINISTRACION
+## TITULO DECIMO. DEL MUNICIPIO LIBRE
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1937,31 +1997,31 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-## TITULO NOVENO. DEL PODER JUDICIAL
+## TITULO DECIMO PRIMERO. DE LA HACIENDA PUBLICA DEL ESTADO Y SU ADMINISTRACION
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1987)</small>
-
-## TITULO DECIMO. DEL MUNICIPIO LIBRE
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ## TITULO DECIMO SEGUNDO. DE LA EDUCACION PUBLICA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 1984)</small>
 
 ## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+## TITULO NOVENO. DEL PODER JUDICIAL
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -2019,57 +2079,7 @@ El Secretario General,
 
 J. Adams.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
-
-P.O. 16 DE OCTUBRE DE 1920.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUERRERO.
-
-P.O. 10 DE JUNIO DE 1922.
-
-Las anteriores adiciones y reformas a la Constitución, serán publicadas desde luego con la solemnidad debida en todas las poblaciones del Estado.
-
-P.O. 12 DE MAYO DE 1923.
-
-Las anteriores reformas a la Constitución Política local, serán publicadas con la solemnidad debida, en todas las poblaciones del Estado y entrarán desde luego en vigor.
-
-P.O. 3 DE ABRIL DE 1926.
-
-La duración del período y la no reelección a que se refiere el artículo reformado, se aplicarán a los Diputados que integren de la XXVIII Legislatura en adelante.
-
-P.O. 19 DE JUNIO DE 1926.
-
-Surtirá sus efectos el presente Decreto, a partir de la fecha de su publicación.
-
-P.O. 27 DE NOVIEMBRE DE 1926.
-
-El presente Decreto surtirá sus efectos desde la fecha de su publicación.
-
-P.O. 21 DE MAYO DE 1927.
-
-Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación.
-
-P.O. 2 DE FEBRERO DE 1929.
-
-Este Decreto surtirá sus efectos, a partir de la fecha de su publicación.
-
-P.O. 14 DE AGOSTO DE 1929.
-
-Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
-
-P.O. 22 DE ENERO DE 1930.
-
-Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación.
-
-P.O. 9 DE ABRIL DE 1930.
-
-Este Decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
-
-P.O. 13 DE AGOSTO DE 1930.
-
-Este decreto comenzará a surtir sus efectos, a partir de la fecha de su publicación.
-
-P.O. 2 DE SEPTIEMBRE DE 1931.
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### Art. 1°
 
@@ -2095,13 +2105,13 @@ P.O. 23 DE DICIEMBRE DE 1931.
 
 DECRETO NUMERO 27.
 
-Este Decreto comenzará a surtir sus efectos, a partir del día 1° de enero del año de 1932.
+Este Decreto comenzará a surtir sus efectos a partir del día 1° de enero del año de 1932.
 
 P.O. 23 DE DICIEMBRE DE 1931.
 
 DECRETO NUMERO 29.
 
-Este Decreto comenzará a surtir sus efectos a partir del día 1° de enero del año de 1932.
+Este Decreto comenzará a surtir sus efectos, a partir del día 1° de enero del año de 1932.
 
 P.O. 28 DE DICIEMBRE DE 1932.
 
@@ -2700,3 +2710,7 @@ P.O. 14 DE MAYO DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- En un plazo no mayor de treinta días hábiles a la puesta en vigor del presente Decreto, deberá adecuarse la legislación reglamentaria de la materia, a fin de mantener actualizados los procedimientos respectivos.
+
+P.O. 28 DE MAYO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
