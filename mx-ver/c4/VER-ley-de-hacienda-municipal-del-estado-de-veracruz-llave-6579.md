@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1991-02-07"
+last_updated: "1991-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE FEBRERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -359,15 +359,17 @@ El impuesto predial se determinará, liquidará y pagará de acuerdo con la sigu
 
 TARIFA TASA AL MILLAR ANUAL
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-I.- Predios Urbanos ………………………………………………………………………………….2
+I.- Predios Urbanos 2
 
-Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior al importe de un salario mínimo diario de la zona económica en que se encuentre ubicado el predio, esta cantidad será la que se cobre por cada predio.
+Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior al importe de dos salarios mínimos diarios de la zona económica en que se encuentre ubicado el predio, esta cantidad será la que se cobre por cada predio.
 
-II.-Predios rústicos.. 10
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior a un salario mínimo diario de la zona económica en que se encuentre ubicado el predio, esta cantidad será la que se cobre por cada predio.
+II.- Predios Rústicos 4
+
+Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior al importe de dos salarios mínimos diarios de la zona económica en que se encuentre ubicado el predio, esta cantidad será la que se cobre por cada predio.
 
 III.- 5
 
@@ -375,7 +377,7 @@ Predios en que se ubiquen plantas de beneficio y establecimientos metalúrgicos 
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
-IV.- Predios Baldíos ………………………………………………………………………………….7.5
+IV.- Predios Baldíos ……………………………………………………………………….7.5
 
 Por predio baldío se entiende el urbano sin edificaciones, en los términos de la Ley de Catastro del Estado.
 
@@ -689,13 +691,17 @@ Este impuesto se causará, liquidará y pagará sobre la base que en cada caso s
 
 T A R I F A
 
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-I.- Carpas de representaciones teatrales, de fantoches, títeres, óptica, fenómenos animales, enanos bufos, etc., sobre la entrada bruta, el 10%
+I.- Carpas de representaciones teatrales, de fantoches, títeres, óptica, fenómenos animales, enanos, bufos, etc., sobre la entrada bruta, el 3%;
 
-II.- Cinematógrafos, sobre la entrada, bruta, hasta el 12%;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
-III. Circos, sobre la entrada bruta, el 10%;
+II.- Cinematógrafos, sobre la entrada bruta, el 3%;
+
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+
+III. Circos, sobre la entrada bruta, el 3%;
 
 IV.- Espectáculos deportivos;
 
@@ -3142,3 +3148,13 @@ A las operaciones que se hayan realizado del día 1o de enero del año en curso 
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+G.O. 24 DE DICIEMBRE DE 1991.
+
+###### ARTICULO PRIMERO.
+
+Este ordenamiento entrará en vigor el día primero de enero de mil novecientos noventa y dos, previa su publicación en la "Gaceta Oficial" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
