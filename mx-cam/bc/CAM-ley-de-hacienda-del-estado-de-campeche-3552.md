@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-3552"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-11"
-last_updated: "2001-12-24"
+last_updated: "2002-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de diciembre de 1992.
 
@@ -391,7 +391,7 @@ El traslado del impuesto a que se refiere este artículo no se considerará viol
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION CUARTA. DE LA TASA
+#### SECCION TERCERA. DE LA BASE
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -405,7 +405,7 @@ En dicha contraprestación quedan incluidos los depósitos, anticipos, gastos de
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE JUNIO DE 1998)</small>
 
-#### SECCION TERCERA. DE LA BASE
+#### SECCION CUARTA. DE LA TASA
 
 > <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1998)</small>
 
@@ -1177,7 +1177,7 @@ II.- Por el ingreso que perciban por los servicios que prestan los organismos, d
 
 a) (DEROGADO, P.O. 9 DE JUNIO DE 1999)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2002)</small>
 
 b) INSTITUTO CAMPECHANO
 
@@ -1189,39 +1189,39 @@ Preparatoria Licenciatura
 
 Inscripción
 
-165 170
+180 190
 
 Colegiatura Mensual
 
-120 130
+130 150
 
 Servicio Deportivo
 
-65
+70
 
 Material de Apoyo
 
-65
+70
 
 Servicio Médico Dental
 
-75 75
+80 80
 
 Credencial
 
-40 40
+50 50
 
 Seguro de Vida
 
-35 35
+40 40
 
 Mantenimiento y Reparación de Equipo de Cómputo
 
-70 70
+80 80
 
 Curso de Introducción
 
-150 200
+170 220
 
 Exámenes
 
@@ -1231,39 +1231,39 @@ Preparatoria Licenciatura Postgrado
 
 Examen de Admisión
 
-255 255 510
+280 280 560
 
 Extraordinario
 
-140 150
+160 170
 
 Título de Suficiencia
 
-150 160
+170 180
 
 Profesional
 
-700 2000
+770 2200
 
 Semiescolarizado
 
-130
+140
 
 Especial de Regularización Plan Estudio
 
-190 255
+210 280
 
 Remediales
 
-255 380
+280 420
 
 Recuperación de Pasantía
 
-300
+330
 
 Asesoría
 
-45
+50
 
 Certificado, Constancia y Carta de Buena Conducta
 
@@ -1273,15 +1273,15 @@ Preparatoria Licenciatura Postgrado
 
 Expedición de Certificado de Estudios
 
-200 250 600
+220 280 660
 
 Expedición de Constancia de Estudios y Carta de Buena Conducta
 
-130 140 190
+150 160 210
 
 Constancia Provisional
 
-30 30
+30 30 30
 
 Expedición de Títulos y Grados
 
@@ -1291,19 +1291,19 @@ Licenciatura Postgrado
 
 Expedición Acta de Grado
 
-180 320
+200 350
 
 Trámite de Firmas
 
-200 400
+220 440
 
 Derecho Hoja de Piel
 
-200 220
+220 250
 
 Elaboración de Título
 
-275 370
+300 400
 
 Revisión de Tesis, Carta de Pasantes, Diplomas y Servicio Social
 
@@ -1313,21 +1313,21 @@ Preparatoria Licenciatura Postgrado
 
 Derecho Revisión de Tesis
 
-500 1000
+550 1000
 
 Derecho Expedición de Diploma
 
-130
+150
 
 Derecho Expedición de Carta de Pasante
 
-160 510
+180 560
 
 Derecho Expedición de Servicio Social
 
-130 380
+150 420
 
-Cotejo de Planes, Revalidación de Estudios
+Revalidación de Estudios
 
 Concepto
 
@@ -1335,19 +1335,19 @@ Preparatoria Licenciatura
 
 Alumnos Foráneos
 
-220 220
+240 240
 
 Procedimiento de Titulación
 
 Concepto Costo
 
-*Examen General de Conocimiento 3000
+*Examen General de Conocimiento 3300
 
 Seminarios:
 
-Inscripción 1000
+Inscripción 1100
 
-Costo por materia (mínimo 3) 1000
+Costo por materia (mínimo 3) 1100
 
 *El alumno que cubra este costo, queda exento de pago del examen profesional.
 
@@ -1377,15 +1377,15 @@ Inglés (Laboratorio)
 
 Inscripción
 
-80 160
+90 180
 
 Colegiatura
 
-55 110
+60 120
 
 Credencial (Opcional)
 
-40 40
+50 50
 
 Difusión Cultural
 
@@ -1393,19 +1393,19 @@ Cursos Talleres
 
 Inscripción
 
-55 110
+60 120
 
 Colegiatura
 
-45 90
+50 100
 
 Credencial
 
-40 40
+50 50
 
 Seguro de Vida
 
-35 35
+40 40
 
 Servicios de Cómputo
 
@@ -1493,19 +1493,19 @@ Constancia de Pago
 
 Duplicado de Credencial
 
-40 40 40
+50 50 50
 
 Escuelas Incorporadas
 
 Concepto Costo
 
-Incorporación de escuelas 5000
+Incorporación de escuelas 5500
 
-Registro de inscripción por alumno 100
+Registro de inscripción por alumno 110
 
-Legalización de firmas en Certificado 200
+Legalización de firmas en Certificado 220
 
-Legalización de firmas en Carta de Buena Conducta 160
+Legalización de firmas en Carta de Buena Conducta 180
 
 Alquiler de Areas Culturales
 
@@ -1517,27 +1517,27 @@ Base de 3 horas máxima, de excederse por ensayos se cobrará las horas adiciona
 
 Aula Magna "Benito Juárez", usando todo el servicio eléctrico
 
-250 1300
+290 1500
 
 Sala de Arte "Domingo Pérez Piña", servicio eléctrico de entrada y 1 sala
 
-100 750
+120 850
 
 Sala de Arte "Domingo Pérez Piña", servicio de todas las salas
 
-200 1500
+230 1800
 
 Teatro "Ricardo Hernández Cárdenas", usando todo el servicio eléctrico
 
-300 2000
+350 2300
 
 Derecho de Piso
 
-300
+350
 
 Extemplo de "San José"
 
-2000
+2300
 
 En el caso del Ex Templo San José y la Sala de Arte Domingo Pérez Piña, tratándose de exhibiciones que excedan las 24 hrs. y con un mínimo de 7 días, se aplicará el costo diario y a partir del segundo día en adelante se aplicará una tarifa convencional de $200.00 cuota diaria sin derecho a aire acondicionado.
 
@@ -1553,7 +1553,7 @@ Edificio Central 3000
 
 Areas de Guadalupe 2700
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2002)</small>
 
 El pago de los derechos antes mencionados, deberán ser cubiertos en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previamente a la obtención del servicio.
 
@@ -2070,3 +2070,11 @@ DECRETO No. 129
 Primero.- El presente decreto entrará en vigor el día 1 de enero del año 2002, previa su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al contenido del presente decreto, así como el Artículo Tercero del Acuerdo del Ejecutivo del Estado, expedido el día 29 de octubre de 1997, publicado en el Periódico Oficial del Estado, el día 5 de noviembre de ese mismo año, quedando dicho Acuerdo intocado en sus demás partes.
+
+P.O. 23 DE DICIEMBRE DE 2002.
+
+Primero.- El presente decreto entrará en vigor el día 1 de enero de 2003, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las cuotas que han quedado establecidas en el inciso b) de la fracción II del Apartado M del artículo 52 de la Ley de Hacienda del Estado de Campeche, que son objeto de la presente reforma entrarán en vigor el día 1 de enero de 2003, con excepción de las relativas a las colegiaturas de las preparatorias y licenciaturas, que entrarán en vigor el día 1 de febrero de 2003.
+
+Tercero.- Se derogan todas aquellas disposiciones legales o reglamentarias en lo que se opongan al contenido del presente decreto.
