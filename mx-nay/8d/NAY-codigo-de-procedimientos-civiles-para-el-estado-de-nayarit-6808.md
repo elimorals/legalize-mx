@@ -1,0 +1,4404 @@
+---
+title: "CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT"
+identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808"
+country: "mx"
+rank: "codigo"
+publication_date: "1992-11-21"
+last_updated: "1992-11-21"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-nay"
+scjn_id: "6808"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "CODIGO"
+original_gazette_section: "42 SEGUNDA SECCION"
+reform_count: "28"
+scjn_last_update: "2022-06-13"
+issue_date: "1992-11-04"
+state: "NAY"
+---
+# CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
+
+CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
+
+TEXTO ORIGINAL.
+
+Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
+
+DECRETO NUMERO 7519.- Código de Procedimientos Civiles para el Estado de Nayarit.
+
+LIC. CELSO HUMBERTO DELGADO RAMIREZ. Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
+
+Que el H. Congreso Local, se ha servido dirigirme para su promulgación el siguiente:
+
+DECRETO NUMERO 7519
+
+El H. Congreso del Estado Libre y Soberano de Nayarit, representado por su XXIII Legislatura:
+
+D E C R E T A:
+
+CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
+
+# LIBRO PRIMERO. DISPOSICIONES GENERALES
+
+## TITULO PRIMERO. ACTIVIDAD JURISDICCIONAL
+
+###### ARTICULO 1.
+
+En este código se regulan los juicios con sus formas esenciales que los órganos jurisdiccionales competentes del Estado utilizan para solucionar las controversias que se susciten en el orden civil.
+
+###### ARTICULO 2.
+
+Son irrenunciables los derechos de acción, defensa e impugnación. Las normas procesales no están sujetas a convenio ni podrán alterarse, variarse o modificarse, salvo en los casos que establece este código.
+
+###### ARTICULO 3.
+
+Todo juicio civil se inicia a instancia de parte con interés legítimo, es público, rápido, escrito u oral, sencillo, económico, de fases preclusivas, a impulso de parte o de oficio y con facultades de dirección del Juez.
+
+###### ARTICULO 4.
+
+A falta o insuficiencia de las disposiciones del presente código, el Juzgador aplicará, por analogía, los principios constitucionales, los tratados internacionales, los principios generales del derecho y en su defecto, integrará la norma tomando como base las mismas fuentes.
+
+###### ARTICULO 5.
+
+Para que el juicio tenga existencia jurídica y validez formal, se requiere:
+
+I.- El ejercicio de una acción;
+
+II.- Personalidad y capacidad, o representación y legitimación de la partes; y
+
+III.- Competencia del Juzgador.
+
+### CAPITULO UNICO. ACCION
+
+###### ARTICULO 6.
+
+Para iniciar un juicio no es necesario que se exprese el nombre de la acción, con tal de que se determine con claridad el título o causa en que se apoya y la prestación que se exija al demandado.
+
+###### ARTICULO 7.
+
+Cuando haya varias acciones contra una persona, respecto de una cosa, que provenga de una misma causa, deben intentarse en una sola demanda. Por el ejercicio de una o más quedan extinguidas las otras.
+
+Si llegaren a plantearse simultánea o subsidiariamente, acciones contrarias o contradictorias, el Juez, antes de admitir la demanda, requerirá al promovente para que precise cual es la que deduce.
+
+###### ARTICULO 8.
+
+A nadie puede obligarse a intentar o proseguir una acción contra su voluntad, excepto en los casos siguientes:
+
+I.- Cuando por haberse interpuesto tercería ante un Juez Menor por cuantía mayor de la que fija la Ley para los negocios de su competencia, se hubieren remitido los autos a otro juzgado y el tercero opositor no ocurre a continuar la tercería y si requerido para ello no lo hace, se le tendrá por desistido de su acción a petición de parte interesada;
+
+II.- Cuando alguno tenga acción o excepción que dependa del ejercicio de la acción de otro, a quien pueda exigir que la deduzca, oponga o continúe desde luego, y si excitado para ello se rehusare, lo podrá hacer aquél.
+
+## TITULO SEGUNDO. SUJETOS PROCESALES
+
+### CAPITULO I. PARTES
+
+###### ARTICULO 9.
+
+Solo puede iniciar un procedimiento judicial o intervenir en él, quien tenga interés legítimo en que la autoridad judicial declare o constituya un derecho o imponga una condena y quien tenga interés contrario.
+
+Los interesados o sus representantes legítimos podrán comparecer en el juicio por sí o por otro con mandato judicial otorgado conforme a la Ley Sustantiva Civil.
+
+###### ARTICULO 10.
+
+El tribunal examinará la personalidad de las partes bajo su responsabilidad, en cualquier estado del juicio.
+
+###### ARTICULO 11.
+
+Siempre que una de las partes o ambas estén compuestas de dos o más personas, deberán tener una sola representación, para lo cual nombrarán un representante común, con las facultades necesarias para la continuación del juicio.
+
+Si se tratara de la actora, el nombramiento será hecho en el primer escrito, sin lo cual no se le dará curso; si fuere la demandada se hará a más tardar dentro de los tres días siguientes al vencimiento del término para contestar la demanda del último emplazado, en caso contrario, lo hará de oficio el Juez.
+
+Mientras continúa el representante común en su encargo, las notificaciones que se le hagan tendrán la misma fuerza que si se hicieran a sus representados, sin que les sea permitido pedir que se entiendan con éstos.
+
+###### ARTICULO 12.
+
+Cuando la pluralidad de personas surja en cualquier otro momento del juicio, o en actos de jurisdicción voluntaria, el nombramiento de representante común deberá hacerse dentro de los tres días siguientes al primer acto procesal en el que aparezca esta figura y en su defecto lo hará de oficio quien conozca del asunto.
+
+###### ARTICULO 13.
+
+Por los que no estuvieren presentes en el lugar del juicio ni tuvieren persona que legalmente los represente, podrá comparecer un gestor judicial sujetándose a las disposiciones relativas del Código Civil, otorgando previamente garantía a criterio del Tribunal.
+
+###### ARTICULO 14.
+
+No obstante lo dispuesto en el artículo anterior, cuando a juicio del Tribunal fuere urgente la diligencia de que se trata o perjudicial la dilación, por el que no estuviere presente en el lugar del juicio comparecerá el Ministerio Público y si éste debiere ejercer conforme a la Ley otra representación en el mismo juicio, se nombrará un representante interino.
+
+###### ARTICULO 15.
+
+El Juez admitirá o no de plano la representación legítima o voluntaria de las partes sin perjuicio del derecho de éstas de impugnarla.
+
+###### ARTICULO 16.
+
+Las partes, sus representantes o asesores, deben conducirse con lealtad y probidad en el proceso. La infracción a esta disposición será valorada al calificar la conducta procesal en la sentencia definitiva.
+
+###### ARTICULO 17.
+
+El Ministerio Público tendrá, dentro del procedimiento judicial, la misma situación que cualquiera de las otras partes, salvo las disposiciones de la Ley estará exento de prestar las garantías que este código y otras leyes impongan a aquéllas.
+
+###### ARTICULO 18.
+
+Contra el Estado, los Municipios o cualquier otra entidad de derecho público no podrá dictarse mandamiento de ejecución ni providencia de embargo. Las resoluciones que impongan una obligación a dichas entidades serán cumplimentadas por la autoridad correspondiente dentro de los límites de sus atribuciones.
+
+### CAPITULO II. AUTORIDAD JUDICIAL
+
+#### SECCION PRIMERA. ATRIBUCIONES Y DEBERES
+
+###### ARTICULO 19.
+
+El magistrado en turno o el Juez recibirán bajo su responsabilidad las pruebas y podrán encomendar al Secretario la recepción de éstas y que presida las diligencias en las cuales se desahoguen las mismas, sin perjuicio de que cualquiera de las partes, o ambas, solicite que sean aquéllos personalmente.
+
+###### ARTICULO 20.
+
+Los Magistrados y los Jueces, antes de acordar sobre lo solicitado, tendrán la facultad de exigir la ratificación de firmas que calcen los ocursos presentados, cuando por su trascendencia se dude de su autenticidad.
+
+La falta de ratificación o la manifestación del interesado de que la firma no es de su puño y letra, salvo prueba en contrario, producirá el efecto de que se tenga por no presentado el ocurso.
+
+###### ARTICULO 21.
+
+El Secretario, además de las que ésta y otras Leyes señalen, tendrá las siguientes atribuciones y deberes:
+
+I.- Hará constar el día y la hora en que se presente un escrito y si éste contiene o no la firma del promovente, dando cuenta dentro de las veinticuatro horas siguientes con proyecto del acuerdo respectivo;
+
+II.- Cuidará de que los expedientes sean exactamente foliados al agregarse cada una de las hojas, rubricando todas éstas en el centro e imprimiendo el sello de la secretaría en el fondo del cuaderno de manera que queden selladas las dos caras, inutilizando lo que quedare en blanco;
+
+III.- Autorizará con su firma las actuaciones judiciales;
+
+IV.- Asentará en autos el día en que comiencen los términos y aquél en que deben concluir; y
+
+V.- Permitirá que las partes o sus abogados tengan acceso a los expedientes.
+
+El Secretario podrá delegar bajo su responsabilidad las atribuciones y deberes consignados en las fracciones de este precepto, a excepción de la III al personal que esté a su mando.
+
+#### SECCION SEGUNDA. COMPETENCIA
+
+###### ARTICULO 22.
+
+Toda demanda debe formularse ante el Juez competente.
+
+###### ARTICULO 23.
+
+La competencia de los Tribunales se determinará por la materia, la cuantía, el grado y el territorio.
+
+###### ARTICULO 24.
+
+Ningún Tribunal puede negarse a conocer de un asunto sino por considerarse incompetente.
+
+###### ARTICULO 25.
+
+Ningún Juez puede sostener competencia con un Tribunal Superior bajo cuya jurisdicción se halle, pero sí con otro que aunque sea superior no la ejerzan sobre él.
+
+###### ARTICULO 26.
+
+La competencia por razón del territorio es la única que se puede prorrogar. Se exceptúa el caso en que conociendo el Tribunal Superior de apelación contra interlocutoria, resuelta que sea, las partes estén de acuerdo en que conozca de la cuestión principal. El juicio se tramitará conforme a las reglas de su clase, prosiguiéndose éste ante el superior.
+
+> <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
+
+###### ARTICULO 27.
+
+Es Juez competente aquel al que los litigantes se hubiesen sometido expresa o tácitamente, cuando se trate de fuero renunciable.
+
+###### ARTICULO 28.
+
+Hay sumisión expresa cuando los interesados renuncian clara y terminantemente al fuero que la Ley les concede y designan con toda precisión al Juez a quien se someten.
+
+No se considerará válido el convenio o cláusula de elección de fuero, cuando la facultad de elegirlo opere en beneficio exclusivo de alguna de las partes pero no de todas.
+
+###### ARTICULO 29.
+
+Se entienden sometidos tácitamente:
+
+I.- El demandante por el hecho de ocurrir al Juez entablando su demanda;
+
+II.- El demandado por contestar la demanda o reconvenir, salvo cuando invoque la incompetencia;
+
+III.- El que habiendo promovido una cuestión de incompetencia se desiste de ella;
+
+IV.- El que por cualquier motivo viniere a juicio; y
+
+V.- El que interpusiere algún recurso, salvo el caso de que éste se promueva impugnando la incompetencia del Juez.
+
+###### ARTICULO 30.
+
+Es Juez competente:
+
+I.- El del lugar que el deudor haya designado para ser requerido judicialmente de pago;
+
+II.- El del lugar señalado en el contrato;
+
+III.- El de la ubicación del inmueble. Cuando estuvieren comprendidos en dos o más territorios jurisdiccionales lo será el que elija el actor siempre y cuando sea competente por razón de la cuantía;
+
+IV.- El del domicilio del demandado si se trata del ejercicio de una acción sobre bienes muebles o de acciones personales o del estado civil;
+
+V.- En los juicios hereditarios el Juez en cuya jurisdicción haya tenido su último domicilio el autor de la herencia; a falta de ese domicilio, lo será el de la ubicación de los bienes raíces que forman la herencia; y en defecto de uno y otros, el del lugar del fallecimiento del autor de la herencia. Lo mismo se observará en casos de ausencia;
+
+VI.- En los concursos de acreedores, el Juez del domicilio del deudor;
+
+VII.- En los actos de jurisdicción voluntaria, el del domicilio del que promueve, pero si se tratara de bienes raíces, lo será el del lugar donde estén ubicados;
+
+VIII.- En los asuntos relativos a la tutela de los menores e incapacitados, el Juez de la residencia de éstos;
+
+IX.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimento para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
+
+X.- En los juicios de divorcio, el Tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado;
+
+XI.- En los casos de responsabilidad civil que provenga de causa extracontractual, el Juez del lugar en que se originan;
+
+XII.- El del domicilio del acreedor alimentario en la reclamación de alimentos; y
+
+XIII.- El del domicilio del actor en la reclamación de honorarios.
+
+###### ARTICULO 31.
+
+Para determinar la competencia por razón de la cuantía, se tendrá en cuenta lo que demanda el actor. Los réditos, daños o perjuicios, no serán tenidos en consideración si son anteriores a la presentación de la demanda, aún cuando se reclamen en ella.
+
+Cuando se trate de prestaciones periódicas se computará el importe de las pensiones en un año a no ser que se trate de las ya vencidas en cuyo caso se estará a lo dispuesto en la primera parte del párrafo anterior.
+
+###### ARTICULO 32.
+
+De los juicios relacionados con la posesión o derechos reales sobre inmuebles, conocerán siempre los Jueces de Primera Instancia de la ubicación de la cosa.
+
+###### ARTICULO 33.
+
+De las cuestiones sobre el estado o capacidad de las personas y en general de las cuestiones familiares que requieran intervención judicial, cualquiera que fuere el interés pecuniario, conocerán los Jueces de lo Familiar y a falta de éstos los Jueces de Primera Instancia del ramo.
+
+###### ARTICULO 34.
+
+En la reconvención y tercería, es Juez competente el que lo sea para conocer de la demanda generadora del juicio, aunque el valor de aquella sea inferior a la cuantía de su competencia, pero no a la inversa, en cuyo caso conocerá el superior en grado.
+
+###### ARTICULO 35.
+
+Para los actos preparatorios del Juicio, será competente el Juez que lo fuere para el asunto principal.
+
+En las providencias precautorias, regirá lo dispuesto en el párrafo anterior. Si los autos estuvieren en Segunda Instancia, será competente el Juez que conozca de ellos, a menos que esté suspensa su jurisdicción en que lo será su superior.
+
+En caso de urgencia, podrá conocer el del lugar en donde se halle la persona o la cosa objeto de la diligencia y efectuada se remitirán las actuaciones al competente.
+
+#### SECCION TERCERA. SUBSTANCIACION Y DECISION DE COMPETENCIAS
+
+###### ARTICULO 36.
+
+Las cuestiones de competencia podrán promoverse solo por inhibitoria, que deberá intentarse dentro del término del emplazamiento ante el Juez a quien se considere competente, pidiéndole que dirija oficio al que estime no serlo, para que se inhiba y remita los autos.
+
+###### ARTICULO 37.
+
+Si por los documentos que se hubieren presentado, apareciere que las partes que promueven la inhibitoria se han sometido a la jurisdicción del Tribunal que conoce del asunto, se desechará de plano.
+
+###### ARTICULO 38.
+
+El Juez ante quien se promueva la inhibitoria y que resuelva estimando ser competente, mandará librar oficio dentro de las veinticuatro horas siguientes, requiriendo al Juez que considere incompetente para que se abstenga de conocer el asunto.
+
+Recibido el oficio inhibitorio, el Juez requerido decretará la suspensión en el asunto relativo, ordenando dar vista a la contraparte para que dentro de veinticuatro horas manifieste lo que a sus intereses convenga y si estuviere conforme, o transcurrido el término sin que nada haya manifestado, resolverá mandando remitir los autos al Juez requiriente.
+
+###### ARTICULO 39.
+
+En caso de inconformidad, el Juez requerido remitirá los autos originales al superior mandando hacerlo saber a las partes y al Juez requiriente, quien a su vez, luego que reciba el oficio respectivo, remitirá las actuaciones que hubiere practicado con motivo de la inhibitoria ante él planteada.
+
+###### ARTICULO 40.
+
+Llegados los autos en el Tribunal que deba decidir la competencia, citará a las partes a una audiencia dentro de los tres días siguientes en la que recibirá pruebas y pronunciará resolución. En los asuntos en que se afecten los derechos de familia, será imprescindible oír al Ministerio Público y al Procurador de la Defensa del Menor.
+
+Decidida la competencia, enviará los autos y testimonio de la sentencia al Juez declarado competente, de la cual remitirá otro tanto al Juez contendiente.
+
+En el caso que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, multa hasta de veinte días de salario, sin perjuicio de la condenación en costas.
+
+#### SECCION CUARTA. CUESTIONES DE COMPETENCIA ENTRE JUECES DEL ESTADO DE NAYARIT Y OTROS ORGANOS JURISDICCIONALES
+
+###### ARTICULO 41.
+
+Si un Juez del Estado que esté conociendo de un asunto, recibe oficio inhibitorio de autoridades jurisdiccionales del fuero común de cualquier Entidad Federativa de la República Mexicana, sea cual fuere el ámbito competencial, o de esta Entidad, que sean distintas a las del Poder Judicial, procederá en los términos del párrafo segundo del artículo 38 y, en caso de inconformidad, en los del 39.
+
+Lo dispuesto en el párrafo que antecede se observará también en aquellos en que el oficio inhibitorio proceda de autoridad jurisdiccional del fuero federal.
+
+###### ARTICULO 42.
+
+Cuando el superior resuelva que continúe sosteniendo su competencia el Juez requerido, éste remitirá los autos al Tribunal que conforme a las Leyes Federales corresponda decidir la cuestión, haciéndolo saber a las partes y a la autoridad jurisdiccional requiriente.
+
+###### ARTICULO 43.
+
+Si un juez de este Estado recibe las actuaciones de un asunto en que otra autoridad jurisdiccional del fuero federal o del fuero común haya resuelto declarándose incompetente, y revisados los autos considera que tampoco es de su competencia, los remitirá al superior para que éste resuelva lo conducente y le ordene proceda en consecuencia.
+
+#### SECCION QUINTA. IMPEDIMENTOS Y EXCUSAS
+
+###### ARTICULO 44.
+
+Todo Magistrado, Juez o Secretario se tendrá forzosamente impedido para conocer de los asuntos en que tenga algún motivo justificado que no le permita actuar con imparcialidad, caso en el cual deberá excusarse aún cuando las partes no lo recusen expresando concretamente la causa en que se funda.
+
+###### ARTICULO 45.
+
+Cuando un Magistrado estime que está impedido para conocer de un asunto determinado, planteará su excusa ante el Presidente del Tribunal Superior de Justicia y éste llamará conforme al turno al que deba de sustituirlo con el que quedará integrado el Pleno, quien hará la calificación procedente.
+
+De la excusa del Juez o Secretario conocerán quienes señale la Ley Orgánica del Poder Judicial y en lo no previsto, el superior inmediato.
+
+De encontrarse infundada la excusa, aplicará las sanciones que correspondan
+
+## TITULO TERCERO. ACTOS PROCESALES
+
+### CAPITULO I. PRESENTACION DE DOCUMENTOS
+
+###### ARTICULO 46.
+
+A toda demanda o contestación deberá acompañarse necesariamente: 1o.- El Poder que acredite la personería del que comparece en nombre de otro; 2o.- El documento o documentos que justifiquen el carácter con el que el litigante se presente en juicio en el caso de tener representación legal de alguna persona o corporación o cuando el derecho que reclame provenga de habérsele transmitido; 3o.- Copia del escrito y de los documentos para correr traslado al colitigante, pudiendo ser un papel común, fotostática o cualquier otra, siempre que sea legible.
+
+###### ARTICULO 47.
+
+También deberá acompañarse a toda demanda o contestación, el documento o documentos en que la parte interesada funde su derecho.
+
+Si no los tuviere a su disposición, designará el archivo o lugar en que se encuentren los originales, para que a su costa se mande expedir copia de ello en la forma que prevenga la Ley.
+
+Se entenderá que las partes tienen a su disposición los documentos y deberán acompañarlos precisamente en la demanda o contestación, siempre que existan los originales en un protocolo o archivo público del que puedan pedir y obtener copia autorizada de ellos.
+
+###### ARTICULO 48.
+
+Las copias de los escritos y documentos se entregarán a la parte contraria al notificarle la providencia que haya recaído al escrito respectivo, o al hacerle la citación o emplazamiento que proceda.
+
+### CAPITULO II. FORMALIDADES JUDICIALES
+
+###### ARTICULO 49.
+
+Las actuaciones judiciales y los escritos deberán escribirse en español. Los documentos redactados en idioma extranjero deberán acompañarse con la correspondiente traducción al español. Las fechas y cantidades se escribirán con letra, y los artículos con su número.
+
+###### ARTICULO 50.
+
+Para la validez de las actuaciones judiciales es necesario que éstas se practiquen en días y horas hábiles.
+
+Son días hábiles todos los del año, menos sábados y domingos y aquéllos que las Leyes declaren festivos, además en los que por cualquier motivo no tengan lugar actuaciones judiciales.
+
+> <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
+
+Son horas hábiles las comprendidas de las siete a las diecinueve horas, pero cuando alguna diligencia se prolongue de tal manera que haya necesidad de continuarla en horas inhábiles, no se requerirá mandamiento de habilitación y cuando haya necesidad de diferirla, se continuará en la primera hora hábil siguiente.
+
+###### ARTICULO 51.
+
+No obstante lo dispuesto en el artículo anterior, en los juicios sobre alimentos, impedimentos de matrimonio, servidumbres legales, interdictos posesorios, diferencias familiares y los demás que determinen las Leyes, no hay días ni horas inhábiles. En los demás casos podrán habilitarse días y horas inhábiles para actuar o para que se practiquen diligencias cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse
+
+###### ARTICULO 52.
+
+En las actuaciones judiciales no se emplearán abreviaturas ni se borrarán las frases equivocadas sobre las que solo se pondrá una línea delgada que permita la lectura, salvándose al final con toda precisión el error cometido.
+
+###### ARTICULO 53.
+
+Las audiencias serán públicas, exceptuándose las que se refieran a divorcio, nulidad de matrimonio y las demás en que a juicio del Tribunal convenga que sean secretas.
+
+###### ARTICULO 54.
+
+Los Magistrados y Jueces tienen el deber de mantener el buen orden y de exigir que se les guarde respeto y consideración debida, corrigiendo en el acto las faltas que cometieren con multas que podrán ser hasta de tres, cinco y ocho días de salario, por los Juzgados Menores, de Primera Instancia y Sala Civil del Tribunal Superior de Justicia, respectivamente; pueden también emplear el auxilio de la fuerza pública.
+
+###### ARTICULO 55.
+
+Para imponer y hacer efectivas multas, se observarán las reglas siguientes:
+
+I.- En ningún caso será inferior al mínimo ni superior al máximo fijados en el artículo anterior, salvo tratándose de jornaleros, asalariados y obreros, en que se deberá estar a lo ordenado en la Constitución Política de los Estados Unidos Mexicanos; y
+
+II.- Se harán efectivas a través del procedimiento económico-coactivo y por conducto de la autoridad exactora correspondiente.
+
+###### ARTICULO 56.
+
+Las copias simples de los documentos que se presenten, confrontadas y autorizadas por el Secretario del Tribunal correrán en los autos, quedando los originales en los secretos del mismo, donde podrá verlos la parte que lo pidiere.
+
+###### ARTICULO 57.
+
+En ningún caso se entregarán los autos a las partes, incluyendo a los representantes del Ministerio Público y de la Procuraduría de la Defensa del Menor, para que los lleven fuera del tribunal.
+
+La frase "dar vista" significa dejar los autos en la Secretaría para que las partes se enteren de los mismos.
+
+La frase "correr traslado" significa que se entreguen las copias en los casos en que la Ley lo disponga o lo ordene la autoridad judicial.
+
+###### ARTICULO 58.
+
+Si se perdiere un expediente, se aplicarán las reglas siguientes:
+
+I.- El Secretario hará constar la existencia anterior y la falta posterior del expediente;
+
+II.- La autoridad que estuviere conociendo del negocio, inmediatamente que se entere de la pérdida ordenará la reposición y que se haga saber a las partes para que aporten los datos que tuvieren;
+
+III.- Concluida la reposición, el Juez o Tribunal dictará resolución expresando el estado en que se encuentra el negocio;
+
+IV.- Quedan los Tribunales facultados para investigar de oficio la existencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho;
+
+V.- Será repuesto a costa del responsable de la pérdida; y
+
+VI.- El responsable pagará los daños y perjuicios, quedando sujeto además a las disposiciones del Código Penal vigente.
+
+###### ARTICULO 59.
+
+Para obtener copia o testimonio de cualquier documento de los archivos y protocolos, se requiere su autorización judicial que se dictará de plano
+
+###### ARTICULO 60.
+
+Los Jueces y Magistrados podrán ordenar que se subsane toda omisión que notaren en la substanciación, para el efecto de regularizar el procedimiento
+
+###### ARTICULO 61.
+
+Los Tribunales para hacer cumplir sus determinaciones pueden emplear, sin sujetarse al orden, cualquiera de los siguientes medios de apremio que estimen eficaz:
+
+I.- Multa hasta por las cantidades a que se refiere el artículo 54, la cual podrá duplicarse en caso de reincidencia;
+
+II.- Auxilio de la fuerza Pública y la ruptura de cerraduras si fuese necesario;
+
+III.- El cateo por orden escrita; y
+
+IV.- El arresto hasta por treinta y seis horas.
+
+### CAPITULO III. RESOLUCIONES JUDICIALES
+
+###### ARTICULO 62.
+
+Las resoluciones judiciales son autos o sentencias.
+
+Estas últimas son definitivas o interlocutorias, según resuelvan la cuestión de fondo o incidental, respectivamente, y autos, todas las demás.
+
+###### ARTICULO 63.
+
+Todas las resoluciones de primera y segunda instancia serán autorizadas por quienes corresponda con firma entera.
+
+### CAPITULO IV. NOTIFICACIONES
+
+###### ARTICULO 64.
+
+Las notificaciones se harán a más tardar el día siguiente a aquél en que se dicten las resoluciones que las prevengan, cuando el Tribunal o la Ley no dispusieren en otro sentido. Para tal efecto, los interesados deben señalar domicilio en el lugar del juicio, así como en el que haya de hacerse la primera notificación a aquellos a quienes sea necesario se les practique y mientras subsista la omisión, en el primer caso se entenderán en los estrados y en el segundo no se efectuará diligencia alguna.
+
+###### ARTICULO 65.
+
+Las partes podrán autorizar para oír y recibir notificaciones en su nombre a una persona capaz.
+
+###### ARTICULO 66.
+
+Cuando la autorización a que se refiere el artículo anterior, se otorga a un abogado con título registrado en el Tribunal Superior de Justicia, salvo las limitaciones que expresamente le imponga el autorizante, podrá:
+
+I.- Interponer, y en su caso proseguir, recursos o incidentes;
+
+II.- Ofrecer o rendir pruebas y absolver posiciones, cuando conozca los hechos y no se oponga la contraria; y
+
+III.- Seguir el juicio hasta ejecutar la sentencia.
+
+La autorización para recibir notificaciones no confiere facultades extrajudiciales, de administración o de dominio.
+
+###### ARTICULO 67.
+
+Cuando se señale nuevo domicilio para oír notificaciones, se entenderá que se revocan los anteriores, a menos que se manifieste en el mismo ocurso que aquéllas pueden practicarse en cualquiera de los señalados.
+
+#### SECCIÓN PRIMERA. NOTIFICACIONES PERSONALES
+
+###### ARTICULO 68.
+
+Siempre se notificará personalmente:
+
+I.- La primera resolución;
+
+II.- El auto que se tome como base para abrir el período de ofrecimiento de pruebas;
+
+III.- La citación para absolución de posiciones o reconocimiento de firmas;
+
+IV.- Cuando se deje de actuar por más de dos meses consecutivos;
+
+V.- Cuando se estime que se trate de un caso urgente y así se ordene;
+
+VI.- El requerimiento de un acto a la parte que deba cumplirlo;
+
+VII.- Todas las sentencias;
+
+VIII.- Las resoluciones que ordenen la ejecución de un lanzamiento de casa-habitación;
+
+IX.- La primera resolución dictada por Tribunal distinto al que previno en el conocimiento; y
+
+X.- En los demás casos que la Ley disponga.
+
+###### ARTICULO 69.
+
+En la hipótesis de la fracción I del artículo anterior, si la primera resolución es favorable al promovente, se hará la notificación a ambas partes, si las hubiere, de lo contrario únicamente a aquél, observándose las siguientes disposiciones:
+
+I.- Quien haga la notificación deberá cerciorarse previamente que la casa designada para hacer la(sic) es el domicilio de la persona que ha de ser notificada y asentará en la razón correspondiente, los medios de que se valió para ese efecto;
+
+II.- Encontrando presente al interesado o a su autorizado, le entregará copia de la resolución que notifica y en su caso, de la demanda y documentos que con ésta se hubieren exhibido;
+
+III.- Si no se encontrare al interesado o a su autorizado, se le dejará citatorio para hora y fecha dentro de un término comprendido entre las seis y las veinticuatro horas posteriores, y si no espera, se le hará la notificación por cédula a la que se anexarán las copias señaladas en la fracción anterior. Tanto el citatorio como la cédula, en su caso, deberán ser entregados a la persona capaz que se encuentre en el domicilio o en el del vecino más próximo;
+
+IV.- Si se negare la persona a que se entienda con ella la diligencia, se fijará en cualquier parte visible del domicilio el original del citatorio o cédula, asentando en éste último caso que las copias de traslado quedan a disposición del notificado en la Secretaría del Tribunal respectivo.
+
+###### ARTICULO 70.
+
+La segunda y ulteriores notificaciones se harán personalmente a los interesados si concurren al Tribunal respectivo con ese objeto, ya sea el mismo día en que se dicten las resoluciones en que hayan de practicárseles o al día siguiente.
+
+###### ARTICULO 71.
+
+Cuando variare el personal de un Tribunal, no se proveerá haciendo saber el cambio, sino que al calce del primer proveído que se dictare después de ocurrido, se escribirán completos los nombres y apellidos de los nuevos servidores públicos. Solo que el cambio ocurriere cuando el asunto esté pendiente únicamente de la sentencia, se mandará hacerlo saber a las partes.
+
+#### SECCION SEGUNDA. NOTIFICACIONES POR EDICTOS
+
+###### ARTICULO 72.
+
+Cuando se trate de personas cuyo nombre, domicilio o lugar de residencia se ignore, las notificaciones personales se le harán por edictos que se publiquen por dos veces con un mínimo de tres y un máximo de ocho días entre una y otra en el periódico oficial del Estado, y otro medio de comunicación a elección del promovente. A criterio del Tribunal, podrá emplearse otro medio de comunicación de cobertura regional o nacional.
+
+###### ARTICULO 73.
+
+Para que proceda la notificación conforme al artículo anterior, el promovente deberá justificar que hizo gestiones para averiguar lo conducente, bastando como principio de prueba el certificado de las autoridades administrativas correspondientes y constancia de búsqueda por parte de la policía municipal.
+
+#### SECCION TERCERA. NOTIFICACIONES POR LISTA
+
+###### ARTICULO 74.
+
+Sin perjuicio de efectuar las notificaciones por otro de los medios que procediere conforme al presente capítulo, se harán por listas observando las siguientes disposiciones:
+
+I.- De los asuntos que se acuerden diariamente se hará por triplicado una lista, autorizada por el notificador que contendrá número de toca o expediente, nombre de los interesados y clase de juicio, sin incluir los que por su naturaleza y estado requieran que se guarden en secreto;
+
+II.- El original de los ejemplares se publicará fijándose en lugar visible de los estrados del Tribunal, el duplicado en el boletín judicial cuando apareciere, siempre y cuando se facilite la remisión de aquél al lugar en que éste se imprima y con el triplicado, cotejado por el Secretario, se formará un legajo que éste conservará bajo su más estricta responsabilidad para cualquier aclaración por el término que estime prudente, al final del cual será archivado definitivamente;
+
+III.- En todos los tocas o expedientes que aparezcan publicados, se asentará razón de haberse fijado la lista, la cual permanecerá dos días;
+
+IV.- Al tercer día de que se publique la lista, se pondrá razón en los asuntos que procediere que la notificación se hizo por ese medio y, retirando el ejemplar de los estrados, integrará un legajo por mes, al término del cual se remitirá al archivo provisional a efecto de que cuando concluya el año se forme uno solo que comprenda los doce meses y se archive definitivamente.
+
+#### SECCION CUARTA. COMUNICACIONES POR OTROS MEDIOS
+
+###### ARTICULO 75.
+
+Si los interesados solicitan que se les hagan las notificaciones por cualquier otro medio usual y a su costa, deberán proporcionar los elementos necesarios y, practicadas que sean, el notificador asentará la hora, fecha y medio empleado, describiendo éste con la mayor precisión posible, de tal manera que permita su identificación y localización.
+
+### CAPITULO V. EXHORTOS
+
+###### ARTICULO 76.
+
+El Magistrado en turno podrá encomendar mediante oficio comisorio a los Jueces de Primera Instancia la práctica de diligencias necesarias cuando deban verificarse en un lugar que no sea el de su residencia pero dentro del Estado. La misma facultad corresponde a los Jueces respecto a los de igual o menor categoría que ellos.
+
+###### ARTICULO 77.
+
+Las diligencias que hayan de practicarse fuera del Estado, deberán encomendarse por exhorto al Juez del lugar en que hayan de efectuarse.
+
+###### ARTICULO 78.
+
+Los exhortos y oficios comisorios que reciban las autoridades judiciales de este Estado se proveerán dentro de las veinticuatro horas a su recepción, y se diligenciarán dentro de los tres días siguientes a no ser que lo que haya de practicarse exija necesariamente mayor tiempo.
+
+###### ARTICULO 79.
+
+En los oficios y exhortos no se requiere la legalización de las firmas del Tribunal que los expide, a menos que la exija el Tribunal requerido por ordenarle la ley de su jurisdicción, como requisito para obsequiarlos.
+
+Para que los exhortos de los Tribunales de las demás Entidades de la Federación sean diligenciados por los de Nayarit, no será necesaria la legalización de las firmas de los funcionarios que los expidan.
+
+###### ARTICULO 80.
+
+Pueden los Tribunales acordar que los exhortos y oficios que manden expedirse se entreguen para hacerlos llegar a su destino y diligenciarlos en su caso a la parte que demuestre mayor interés, la cual devolverá la copia de recibo y en su oportunidad el exhorto u oficio a no ser que el Tribunal requerido lo envíe directamente al exhortante. Cuando sin causa justificada sean retenidos, se impondrá multa hasta de veinte días de salario al responsable.
+
+Los enviados al extranjero o que se reciban de él, se sujetarán al Código Federal de Procedimientos Civiles.
+
+### CAPITULO VI. TERMINOS
+
+###### ARTICULO 81.
+
+Los términos procesales que establece este código, empezarán a surtir sus efectos desde el día siguiente a aquél en que se hubiera hecho la notificación.
+
+###### ARTICULO 82.
+
+En ningún término se contarán los días inhábiles.
+
+###### ARTICULO 83.
+
+Una vez concluidos los términos fijados a las partes sin necesidad de que se acuse rebeldía, seguirá el juicio su curso y se tendrá por perdido el derecho que, dentro de ellos, debió ejercitarse.
+
+###### ARTICULO 84.
+
+Siempre que la práctica de un acto judicial requiera citación de las personas que estén fuera del lugar del juicio, para que concurran ante el Tribunal, al término legal, el Juez aumentará el que considere necesario, atendidas las distancias y a la mayor o menor facilidad de las comunicaciones.
+
+###### ARTICULO 85.
+
+Los términos que por disposición expresa de la Ley o por la naturaleza del caso no son individuales, se tienen por comunes para las partes.
+
+###### ARTICULO 86.
+
+Cuando este código no señale términos para la práctica de un acto judicial, o para el ejercicio de un derecho, se tendrán por señalados los siguientes:
+
+I.- Ocho días para dictar sentencia de fondo, contados a partir de la citación, a menos que haya necesidad de examinar documentos voluminosos podrá disfrutarse de ocho días más.
+
+II.- Tres días para los demás casos, incluso para interponer por escrito recurso de apelación.
+
+## TITULO CUARTO. MEDIOS PREPARATORIOS Y MEDIDAS CAUTELARES
+
+### CAPITULO I. MEDIOS PREPARATORIOS DE JUICIO EN GENERAL
+
+###### ARTICULO 87.
+
+El juicio podrá prepararse:
+
+I.- Pidiendo declaración bajo protesta el que pretenda demandar, de aquél contra quien se propone dirigir la demanda acerca de algún hecho relativo a su personalidad o a la calidad de su posesión o tenencia;
+
+II.- Pidiendo la exhibición de la cosa mueble que haya de ser objeto de juicio y que se trate de entablar;
+
+III.- Pidiendo el legatario o cualquier otro que tenga el derecho de elegir una o más cosas entre varias, la exhibición de ellas;
+
+IV.- Pidiendo el que se crea heredero o legatario, la exhibición de un testamento;
+
+V.- Pidiendo el comprador al vendedor, o éste a aquél, la exhibición de títulos u otros documentos que se refieran a la cosa vendida;
+
+VI.- Pidiendo un socio o comunero la presentación de los documentos y cuentas a quien se considere que los tenga en su poder o deba rendir las cuentas;
+
+VII.- Pidiendo el examen de testigos, cuando éstos sean de edad avanzada o se hallen en peligro inminente de perder la vida, o próximos a ausentarse a un lugar con el cual sean tardías o difíciles las comunicaciones, y no pueda deducirse aún la acción, por depender su ejercicio de un plazo o de una condición que no se haya cumplido todavía;
+
+VIII.- Pidiendo el examen de testigos para probar alguna excepción, siempre que la prueba sea indispensable y los testigos se hallen en alguno de los casos señalados en la fracción anterior y;
+
+IX.- Pidiendo la inspección judicial sobre hechos que se relacionen con el juicio que se pretenda intentar.
+
+###### ARTICULO 88.
+
+El Tribunal puede disponer lo que crea conveniente, ya para cerciorarse de la personalidad del que solicita los medios preparatorios, ya de la urgencia que los mismos se practiquen.
+
+###### ARTICULO 89.
+
+La acción puede ejercitarse conforme a las fracciones II, III y IV del artículo 87, contra cualquier persona que tenga en su poder las cosas que en ellas se mencionan.
+
+###### ARTICULO 90.
+
+Cuando se pida la exhibición de un protocolo o de cualquier otro documento archivado, la diligencia se practicará en la oficina respectiva, sin que en ningún caso salgan de ella los documentos originales.
+
+###### ARTICULO 91.
+
+Los medios preparatorios de que se trata en las fracciones VII y VIII del artículo 87, se practicarán con citación de la parte contraria, a quien correrá traslado y se aplicarán las reglas establecidas para la práctica de la prueba testimonial.
+
+###### ARTICULO 92.
+
+Si el tenedor del documento o cosa mueble fuere el mismo a quien se va a demandar, y sin causa alguna se negare a exhibirlos, se le apremiará por los medios legales, y si aún así resistiere la exhibición o destruyere, deteriorare u ocultare aquéllos, o con dolo o malicia dejare de poseerlos, satisfará todos los daños y perjuicios que se hayan seguido, quedando, además, sujeto a la responsabilidad criminal en que hubiere incurrido. Si alegare alguna causa para no hacer la exhibición se le oirá incidentalmente.
+
+### CAPITULO II. MEDIOS PREPARATORIOS DE JUICIO EJECUTIVO
+
+###### ARTICULO 93.
+
+Puede prepararse el juicio ejecutivo pidiendo al deudor confesión judicial bajo protesta de decir verdad y el Juez señalará día y hora para la comparecencia. En la notificación que se le haga, deberá expresarse el objeto de la diligencia, la cantidad reclamada y la causa de la obligación.
+
+Si la notificación se hiciere personalmente al deudor, el notificador tendrá la obligación de prevenirle que si no comparece a la hora señalada, se le tendrá por confeso de la obligación que se le reclama. Si la notificación se entiende con otras personas y no comparece el deudor en la hora que se le indique, se le notificará por segunda vez, haciéndose constar en la cédula el apercibimiento. Si a pesar de éste no compareciere ni alegare justa causa que se lo impida, se le tendrá por confeso en la certeza de la deuda.
+
+###### ARTICULO 94.
+
+Si es instrumento público o privado y contiene deuda ilíquida, puede prepararse la acción ejecutiva tramitando su liquidación como incidente.
+
+### CAPITULO III. OFRECIMIENTO DE PAGO, SEGUIDO DE CONSIGNACION
+
+###### ARTICULO 95.
+
+Si el acreedor rehusare recibir la prestación debida o dar el documento justificativo de pago o si fuere persona incierta o incapaz de recibir, podrá el deudor preparar la liberación de su obligación haciendo consignación de aquélla.
+
+###### ARTICULO 96.
+
+Si el acreedor fuere cierto y conocido, se le citará para día, hora y lugar determinados, a fin de que reciba o vea depositar la cosa debida. Si ésta fuere mueble de difícil conducción, la diligencia se practicará en el lugar donde se encuentre, siempre que fuere dentro de la jurisdicción territorial; si estuviere fuera, se le notificará y, en su caso, se librará el exhorto u oficio correspondiente al Juez del lugar para que en su presencia el acreedor reciba o vea depositar la cosa debida.
+
+###### ARTICULO 97.
+
+Si el acreedor fuere desconocido, se le notificará por edictos y por el plazo que designe el Juez
+
+###### ARTICULO 98.
+
+Si el acreedor o su representante no comparece en el día, hora y lugar señalados, se extenderá certificación en la que consten la no comparecencia, la descripción de la cosa ofrecida y que quedó constituido el depósito en la persona o establecimiento designado por el promovente bajo su responsabilidad.
+
+###### ARTICULO 99.
+
+Si la cosa debida fuese cierta y determinada que debiere ser consignada en el lugar en donde se encuentre y el acreedor no la retirara ni la transportara, el deudor puede obtener del Juez la autorización para depositarla en otro lugar.
+
+###### ARTICULO 100.
+
+Cuando el acreedor no haya estado presente en la oferta y depósito, debe ser notificado de esas diligencias, entregándole copias simples de ellas.
+
+###### ARTICULO 101.
+
+Si el bien o bienes fuesen dinero, valores, alhajas o muebles de fácil conducción, la consignación se hará mediante entrega directa al Juzgado o exhibición del documento que acredite su depósito en institución o establecimiento autorizado por la Ley
+
+###### ARTICULO 102.
+
+Las mismas diligencias se practicarán si el acreedor fuere conocido, pero dudosos sus derechos, con la salvedad de que el depósito solo podrá hacerse con intervención judicial y bajo la condición de que el interesado justifique sus derechos por medios legales.
+
+###### ARTICULO 103.
+
+Cuando el acreedor se rehusare en el acto de la diligencia a recibir la cosa, con la certificación a que se refiere el artículo 98, podrá pedir el deudor la declaración de liberación en contra del acreedor mediante el juicio correspondiente, salvo lo dispuesto por el artículo 1820 letra "E" del Código Civil.
+
+### CAPITULO IV. MEDIDAS CAUTELARES
+
+###### ARTICULO 104.
+
+Las medidas cautelares podrán dictarse para impedir:
+
+I.- Que una persona se ausente del lugar donde ha de ser o ha sido demandada, sin dejar apoderado instruido y expensado para seguir el juicio hasta su terminación;
+
+II.- Que el deudor eluda el cumplimiento de sus obligaciones o el resultado del juicio que se ha promovido o se pretende promover en su contra; y
+
+III.- Provisionalmente que se efectúe el traslado de dominio de bienes determinados.
+
+###### ARTICULO 105.
+
+El que pida la medida cautelar expresará el valor de la prestación que intente reclamar o reclame, a menos que no sea susceptible de valorización pecuniaria, justificar la necesidad de la misma, resolviéndose lo procedente dentro del término de Ley.
+
+Decretada procedente, no se ejecutará sin que previamente se garantice a criterio del Tribunal los daños y perjuicios que pudieren causarse.
+
+###### ARTICULO 106.
+
+En el caso de la fracción I del artículo 104, la medida se reducirá a prevenir al demandado que no se ausente del lugar del juicio sin dejar representante instruido y expensado, para responder a las resultas del juicio.
+
+###### ARTICULO 107.
+
+El que quebrante el arraigo, será castigado con la pena que señala el Código Penal al delito de desobediencia a un mandato legítimo de autoridad pública, sin perjuicio de ser compelido, por los medios de apremio que correspondan, a volver al lugar del juicio.
+
+###### ARTICULO 108.
+
+El aseguramiento de bienes decretados por providencia precautoria se regirá por lo dispuesto en las reglas generales del secuestro
+
+###### ARTICULO 109.
+
+Para cumplir con el objeto de la fracción III del artículo 104, al decretar la providencia se ordenará a quien corresponda que no efectúe ningún traslado de dominio en relación al bien de que se trate sino hasta que se le mande otra cosa, y que se remita testimonio autorizado de la misma, en los tantos necesarios, para su inscripción en el Registro Público.
+
+###### ARTICULO 110.
+
+En la ejecución de las providencias no se admitirá excepción alguna.
+
+###### ARTICULO 111.
+
+Ejecutada la providencia precautoria antes de ser entablada la demanda, el que la pidió deberá promoverla dentro de tres días, si el juicio hubiere de tramitarse en el lugar en que aquélla se dictó. Si debiere seguirse en otro lugar, el Juez aumentará a los tres días señalados uno por cada doscientos kilómetros o fracción que exceda de la mitad.
+
+###### ARTICULO 112.
+
+Si el promovente no cumple con lo dispuesto en el artículo que precede, se le impondrá multa hasta de veinte días de salario y, luego que lo pida la parte interesada, la providencia precautoria se revocará.
+
+###### ARTICULO 113.
+
+La persona contra quien se haya dictado una providencia precautoria, podrá reclamarla hasta antes de la sentencia ejecutoria, para cuyo efecto se le notificará dicha providencia, en caso de no haberse ejecutado con su persona o con su representante legítimo.
+
+Igualmente podrá reclamarla en cualquier tiempo un tercero, cuando sus bienes hayan sido objeto de secuestro.
+
+También podrá otorgar contragarantías que se fijarán a criterio del Tribunal para suspender los efectos de la providencia.
+
+# LIBRO SEGUNDO. JURISDICCION VOLUNTARIA
+
+## TÍTULO PRIMERO
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+###### ARTICULO 114.
+
+La jurisdicción voluntaria comprende todos los actos en que por disposición de la Ley o por solicitud de los interesados se requiere la intervención del Juez, sin que esté promovida ni se promueva controversia alguna entre partes determinadas.
+
+###### ARTICULO 115.
+
+Cuando fuere necesaria la audiencia de alguna persona, se le citará conforme a derecho, advirtiéndole que quedan por tres días las actuaciones en la secretaría del Juzgado para que se imponga de ellas y señalándole día y hora para la audiencia, a la que concurrirá el promovente, sin que sea obstáculo para la celebración de ella, la falta de asistencia de parte interesada.
+
+###### ARTICULO 116.
+
+Se oirá precisamente al Ministerio Público, cuando:
+
+I.- La solicitud promovida afecte los intereses públicos;
+
+II.- Se refiera a la persona o bienes de menores o incapacitados;
+
+III.- Tenga relación con los derechos o bienes de un ausente;
+
+IV.- Lo dispusieren las Leyes.
+
+###### ARTICULO 117.
+
+Si a la solicitud promovida se opusiere parte legítima, se seguirá el negocio en la jurisdicción contenciosa.
+
+Si la oposición se hiciere por quien no tenga personalidad ni interés para ello, el Juez la desechará de plano. Igualmente desechará las oposiciones presentadas después de efectuado el acto de jurisdicción voluntaria, reservando el derecho al opositor.
+
+###### ARTICULO 118.
+
+El Juez podrá variar o modificar las providencias que dictare sin sujeción estricta a los términos y formas establecidas respecto de la jurisdicción contenciosa.
+
+No se comprenden en esta disposición los autos que tengan fuerza de definitivos y contra los que no se hubiere interpuesto recursos (sic) alguno, a no ser que se demostrara que cambiaron las circunstancias que afectan el ejercicio de la acción.
+
+## TITULO SEGUNDO. JURISDICCION VOLUNTARIA POR DISPOSICIÓN DE LA LEY
+
+### CAPITULO I. DILIGENCIAS DE INFORMACION TESTIMONIAL
+
+#### SECCION PRIMERA. INFORMACIONES DE DOMINIO
+
+###### ARTICULO 119.
+
+En los casos del artículo 2394 del Código Civil, además de los requisitos a que el mismo se refiere, el promovente deberá satisfacer los siguientes:
+
+I.- En la solicitud mencionará el origen de la posesión, el nombre de la persona de quien en su caso la obtuvo, del causante de aquella si fuere conocido y los nombres y domicilios de los propietarios de los predios colindantes, la ubicación precisa del bien y sus colindancias, medidas y partes de que se componga; y
+
+II.- Acompañar un plano autorizado por ingeniero titulado, constancia de las autoridades correspondientes, de que el inmueble no pertenece a la Federación, Estado o Municipio, ni al régimen agrario y certificado de antecedentes catastrales, con las copias necesarias para el traslado.
+
+###### ARTICULO 120.
+
+En la resolución de admisión del trámite, se ordenará citar a las personas que puedan considerarse perjudicadas, por edictos en los términos del artículo 72 y sin necesidad de que se cumpla previamente con lo ordenado en el 73.
+
+###### ARTICULO 121.
+
+Terminada la publicidad, se correrá traslado de la solicitud y documentación con ella exhibida a la persona de quien obtuvo la posesión si su causante fuere conocido, al Ministerio Público, a los colindantes, al Registrador de la Propiedad y al Jefe del Departamento de Catastro para que dentro del término de nueve días manifiesten lo que a sus respectivos intereses convenga.
+
+###### ARTICULO 122.
+
+Si a la solicitud hubiere oposición de parte legítima, se estará a lo ordenado en el artículo 117, y en caso contrario, previa petición, se recibirá la información testimonial, con citación de las personas que resulten interesadas, pero en todo caso será indispensable la asistencia del representante del Ministerio Público, concluida la cual se dictará la providencia que proceda dentro del término legal.
+
+#### SECCION SEGUNDA
+
+OTRAS INFORMACIONES TESTIMONIALES.
+
+###### ARTICULO 123.
+
+La información testimonial podrá decretarse cuando no tenga interés más que el promovente y se trate:
+
+I.- De justificar algún hecho o acreditar un derecho; y
+
+II.- De comprobar la posesión de un derecho real.
+
+En el caso de la primera fracción, la información se recibirá con citación del Ministerio Público, y en el de la segunda, con la del propietario o de lo (sic) demás partícipes del derecho real.
+
+El Ministerio Público y las personas con cuya citación se reciba la información, puede tachar a los testigos por circunstancias que afecten su credibilidad, en el acto de la diligencia o dentro de los tres días siguientes.
+
+###### ARTICULO 124.
+
+El Juez está obligado a ampliar el examen de los testigos con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho.
+
+###### ARTICULO 125.
+
+Si los testigos no fueren conocidos del Juez o del Secretario, se recibirá su declaración previa identificación.
+
+###### ARTICULO 126.
+
+Las informaciones se protocolizarán ante el Notario que designe el promovente, quien dará al interesado el testimonio respectivo para su inscripción en el Registro Público de la Propiedad.
+
+### CAPITULO II. APEO Y DESLINDE
+
+###### ARTICULO 127.
+
+El apeo y deslinde procederá cuando fundadamente se crea que no son exactos los límites que separan los fundos, porque:
+
+I.- Se hayan confundido naturalmente;
+
+II.- Están destruidas las señales que los marcaban; y
+
+III.- Se encuentren estas señales colocadas en lugar distinto del primitivo.
+
+###### ARTICULO 128.
+
+Tiene derecho para promover el apeo:
+
+I.- El propietario;
+
+II.- El poseedor con título bastante para transferir el dominio; y
+
+III.- El usufructuario.
+
+###### ARTICULO 129.
+
+La petición de apeo debe contener:
+
+I.- El nombre y ubicación de la finca que debe deslindarse;
+
+II.- La parte o partes en que el acto debe ejecutarse;
+
+III.- Los nombres de los colindantes que puedan tener interés en el apeo;
+
+IV.- El sitio donde están y donde deben colocarse las señales y si éstas no existen, el lugar donde estuvieron; y
+
+V.- Los planos y demás documentos que vengan a servir para la diligencia y designación de un perito por parte del promovente.
+
+###### ARTICULO 130.
+
+Hecha la promoción, el Juez la mandará hacer saber a los colindantes para que dentro del término de tres días, presenten los títulos o documentos de su posesión y nombren peritos si quisieran hacerlo, y se señalará el día, hora y lugar para que dé principio la diligencia de deslinde.
+
+Si fuere necesario identificar alguno o algunos de los puntos del deslinde, los interesados podrán presentar dos testigos de identificación cada uno, a la hora de la diligencia.
+
+###### ARTICULO 131.
+
+El día y hora señalados, el Juez acompañado del Secretario, peritos, testigos de identificación e interesados que asistan al lugar designado, dará principio a la diligencia conforme a las reglas siguientes:
+
+I.- Practicará el apeo, asentándose acta en que constarán todas las observaciones que hicieren los interesados;
+
+II.- La diligencia no se suspenderá por virtud de las observaciones, sino en el caso de que alguna persona presente en el acto un documento debidamente registrado que pruebe que el terreno que se trata de deslindar es de su propiedad;
+
+III.- El Juez, al ir demarcando los límites del fundo deslindado, otorgará posesión al promovente de la propiedad que quede comprendida dentro de ellos, si ninguno de los colindantes se opusiera, o mandará que se le mantenga en la que esté disfrutando;
+
+IV.- Si hay oposición de alguno de los colindantes respecto de un punto determinado, por considerar que conforme a sus títulos quede comprendido dentro de los límites de su propiedad, el Juez oirá a los testigos de identificación y a los peritos, e invitará a los interesados a que se pongan de acuerdo. Si esto se lograre, se hará constar y se otorgará la posesión según su sentido. Si no se lograre el acuerdo, se abstendrá el Juez de hacer declaración alguna en cuanto a la posesión, respetando en ella a quien la disfrute, y mandará reservar sus derechos a los interesados para que los hagan valer en el juicio correspondiente; y
+
+V.- El Juez mandará que se fijen las señales convenientes en los puntos deslindados, las que quedarán como límites legales.
+
+Los puntos respecto a los cuales hubiere oposición no quedarán deslindados ni se fijará en ellos señal alguna, mientras no haya sentencia ejecutoria que resuelva la cuestión, dictada en el juicio correspondiente.
+
+###### ARTICULO 132.
+
+Los gastos generales del apeo se harán por el que los promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
+
+### CAPITULO III. APROVECHAMIENTO DE LOS BIENES VACANTES, MOSTRENCOS O TESOROS
+
+###### ARTICULO 133.
+
+Para adquirir la parte que la Ley señala al descubridor de bienes vacantes, mostrencos o tesoros, el interesado deberá, sin demora, hacer la denuncia al Ministerio Público del lugar en que se encontrara el bien
+
+###### ARTICULO 134.
+
+El ministerio Público, teniendo como coadyuvante al denunciante, inmediatamente ejercitará acción ante el Juez competente, quien ordenará que el bien sea tasado por el perito, anunciando enseguida su venta por edictos y señalando un plazo que no excederá de quince días después de la última publicación para reclamarlo y, en su caso, sea depositado en el establecimiento o persona designados por el Ministerio Público bajo su responsabilidad, pudiendo ser de preferencia el denunciante.
+
+###### ARTICULO 135.
+
+Si se presentare reclamación, concluirá de plano la jurisdicción voluntaria y la controversia que surgiere deberá tramitarse en juicio contencioso en que el Ministerio Público tendrá el carácter de demandado.
+
+###### ARTICULO 136.
+
+Transcurrido el plazo de la publicidad sin que se haya presentado oposición o reclamación alguna, se procederá a la venta en subasta pública, practicándose las que sean necesarias hasta lograrla, sin que sea permitido que en la segunda y ulteriores baje el precio del valor fijado pericialmente
+
+###### ARTICULO 137.
+
+Aprobada la venta, se ordenará que el precio se distribuya, aplicando una tercera parte al fondo auxiliar de la administración de justicia y el resto conforme al Código Civil.
+
+## TITULO TERCERO. JURISDICCION VOLUNTARIA A SOLICITUD DE PARTE INTERESADA
+
+### CAPITULO I. INTERPELACION
+
+###### ARTICULO 138.
+
+Cuando el cumplimiento de la obligación no esté sujeto a término, el acreedor podrá solicitar al Juez que ordene interpelar al deudor para que la cumpla.
+
+###### ARTICULO 139.
+
+En el escrito en que solicite la interpelación, el acreedor mencionará la obligación, el nombre y domicilio del deudor.
+
+###### ARTICULO 140.
+
+Si el Juez encuentra ajustada a derecho la solicitud, ordenará que se interpele al deudor, para que cumpla su obligación y que se entregue al promovente la copia certificada de la interpelación.
+
+### CAPITULO II. HOMOLOGACIÓN DE CONVENIOS CELEBRADOS FUERA DE JUICIO
+
+###### ARTICULO 141.
+
+Las partes que celebren extrajudicialmente un convenio, podrán comparecer de común acuerdo ante el Juez competente a efecto de que éste, observando el trámite que regula el presente capítulo dicte providencia dándole firmeza, elevándolo al rango de cosa juzgada.
+
+###### ARTICULO 142.
+
+Recibida la solicitud, se fijará día y hora para que, previa identificación de los interesados, ratifiquen, o en su caso, modifiquen el convenio.
+
+###### ARTICULO 143.
+
+Si éste es ratificado o las partes son conformes en las modificaciones, se les citará para oír resolución, la que se pronunciará dentro del término de Ley.
+
+###### ARTICULO 144.
+
+Si los interesados no ratifican o no se ponen de acuerdo en las modificaciones al convenio, se dará por concluida la jurisdicción voluntaria, dejando a salvo sus derechos para que los hagan valer como corresponda.
+
+# LIBRO TERCERO. JURISDICCIION (SIC) CONTENCIOSA
+
+## TITULO PRIMERO. JUICIO ORDINARIO
+
+### CAPITULO I. LITIS
+
+#### SECCION PRIMERA. DEMANDA
+
+###### ARTICULO 145.
+
+Todo juicio contencioso principiará por demanda, en la cual se expresará:
+
+I.- El Tribunal ante el que se promueve;
+
+II.- El nombre del actor y domicilio procesal;
+
+III.- El nombre del demandado y su domicilio, o en su caso, manifestación del actor, bajo protesta de decir verdad, que ignora ese domicilio o que es persona incierta o desconocida, acompañando las constancias a que se refiere el artículo 73;
+
+IV.- La prestación o prestaciones que se reclamen con sus accesorios;
+
+V.- La narración de hechos en que el actor funde su petición, enumerándolos y relatándolos sucintamente con claridad y precisión, de tal manera que el demandado pueda preparar su contestación y defensa; y
+
+VI.- Los fundamentos de derecho, procurando enunciar preceptos legales o principios jurídicos aplicables y, si se cita jurisprudencia, los datos necesarios para su localización y consulta.
+
+###### ARTICULO 146.
+
+Presentada la demanda con los documentos y copias prevenidos, se correrá traslado a la parte demandada y se le emplazará para que la conteste dentro de nueve días.
+
+###### ARTICULO 147.
+
+Si la demanda fuere obscura o irregular, el Juez debe prevenir al actor que la aclare, corrija o complemente de acuerdo a los artículos anteriores, señalando en concreto sus defectos; hecho lo cual, le dará curso. El Juez puede hacer esta prevención por una sola vez, si no la acatare, se le tendrá por no interpuesta.
+
+###### ARTICULO 148.
+
+Los efectos de la presentación de la demanda son:
+
+I.- Señalar el principio de la instancia;
+
+II.- Determinar el valor de las prestaciones exigidas cuando no pueda referirse a otro tiempo;
+
+III.- Fijar el momento para cuantificar los valores que deben tomarse en cuenta para determinar la competencia del Juez en razón de la cuantía;
+
+IV.- Interrumpir la prescripción, si no lo está por otros medios.
+
+###### ARTICULO 149.
+
+Los efectos del emplazamiento son:
+
+I.- Prevenir el juicio en favor del Juez que lo hace;
+
+II.- Obligar al demandado a contestar al Juez que ordenó el emplazamiento, quedando a salvo su derecho para gestionar la competencia en los términos de este código; y
+
+III.- Producir todas las consecuencias de la interpelación judicial, si por otros medios no se hubiera constituido en mora el demandado.
+
+#### SECCION SEGUNDA. CONTESTACION
+
+###### ARTICULO 150.
+
+El demandado formulará la contestación en los términos prevenidos para la demanda.
+
+###### ARTICULO 151.
+
+En el escrito de contestación la parte demandada deberá referirse a cada uno de los hechos aducidos por la parte actora, confesándolos o negándolos y expresando los que ignore por no ser propios. El silencio y las evasivas harán que se tengan por confesados o admitidos los hechos sobre los que no se suscite controversia, salvo aquellos que afecten las relaciones familiares o el estado civil de las personas, pues entonces la demanda se tendrá por contestada en sentido negativo.
+
+###### ARTICULO 152.
+
+Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, a no ser que fueren supervenientes y procederán en juicio aún cuando no se exprese su nombre o se exprese equivocadamente, con tal que se determinen con claridad y precisión los hechos que las motiven.
+
+###### ARTICULO 153.
+
+Pueden oponerse excepciones contrarias, siempre y cuando se hagan valer subsidiariamente.
+
+#### SECCION TERCERA. RECONVENCION
+
+###### ARTICULO 154.
+
+En los casos en que proceda, deberá proponerse la reconvención simultáneamente a la contestación, conteniendo los requisitos de la demanda.
+
+###### ARTICULO 155.
+
+De la reconvención se correrá traslado a la parte reconvenida para que dentro de nueve días presente la contestación.
+
+#### SECCION CUARTA. RECUSACION
+
+###### ARTICULO 156.
+
+Cuando los Magistrados, Jueces o Secretarios no se excusen en los asuntos en los que tengan impedimento, las partes podrán recusarlos en cualquier estado del juicio hasta antes de citar para sentencia, a menos que entre la citación para oír sentencia y el pronunciamiento de ésta hubiere cambio de personal y en éste exista impedimento, podrán hacerlo en ese lapso.
+
+En los procedimientos de ejecución, no se dará curso a ninguna recusación antes de practicar el aseguramiento o de hacer el embargo o desembargo, en su caso. Tampoco se dará curso a la recusación cuando se interponga en el momento de estarse practicando una diligencia, sino hasta que se termine.
+
+###### ARTICULO 157.
+
+De la recusación conocerán quienes señala la Ley Orgánica del Poder Judicial del estado y en lo no previsto, el superior inmediato.
+
+###### ARTICULO 158.
+
+Interpuesta la recusación, se suspenderá el juicio mientras que sea resuelta, para que se prosiga el negocio ante quien deba seguir conociendo de él. Se substanciará y se resolverá en forma de incidente.
+
+###### ARTICULO 159.
+
+La parte que interponga la recusación, no podrá alzarla en ningún tiempo, ni variar la causa, a menos que sea superveniente.
+
+###### ARTICULO 160.
+
+Los Magistrados y Jueces que conozcan de una recusación, son irrecusables para ese solo efecto.
+
+###### ARTICULO 161.
+
+Declarada procedente, quedará definitivamente separado para conocer del asunto el Magistrado, Juez o Secretario recusado, designándose quien debe sustituirlo; en caso contrarío, se impondrá al recusante una multa hasta por veinte días de salario.
+
+###### ARTICULO 162.
+
+No se dará curso a la recusación si no exhibe el recusante recibo oficial por el máximo de la multa, la que, en caso de no proceder aquélla, se hará efectiva.
+
+#### SECCION QUINTA. SITUACIONES ESPECIALES
+
+###### ARTICULO 163.
+
+Si entre las excepciones opuestas al contestar la demanda o la reconvención, hubiere de previo y especial pronunciamiento, se substanciarán incidentalmente, dejando en suspenso el principal. Resueltas que sean, continuará en su caso el curso del juicio.
+
+###### ARTICULO 164.
+
+Transcurrido el término del emplazamiento, sin haber sido contestada la demanda o la reconvención en su caso, se hará la declaración de rebeldía con los efectos señalados en la parte final del artículo 151, abriéndose el período de ofrecimiento de pruebas sin necesidad de que medie petición de parte. Para hacer la declaración en rebeldía el Juez examinará la legalidad del emplazamiento a la parte demandada o reconvenida según el caso y si encontrare que no se hizo correctamente, mandará reponerlo e impondrá una corrección disciplinaría a quien lo hubiere practicado cuando aparezca responsable.
+
+###### ARTICULO 165.
+
+En toda clase de juicios, cuando se constituya en rebeldía un litigante no se volverá a practicar diligencia alguna en su busca y las resoluciones que de ahí en adelante recaigan y cuantas citaciones deban hacérsele se notificarán y se practicarán respectivamente por listas, a excepción de las que deban notificarse personalmente.
+
+###### ARTICULO 166.
+
+Cualquiera que sea el estado del pleito en que el litigante rebelde comparezca, será admitido como parte y se entenderá con él la substanciación.
+
+###### ARTICULO 167.
+
+Confesada la demanda en todas sus partes o manifestándose la conformidad con la contestación o reconvención o si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se citará para sentencia, excepto en los asuntos concernientes a las cuestiones familiares y del estado civil, en los que deberá seguirse el juicio en todas sus etapas.
+
+###### ARTICULO 168.
+
+Las excepciones supervenientes se harán valer hasta antes de la sentencia y dentro del tercer día en que tenga conocimiento la parte y se substanciarán incidentalmente de acuerdo con su naturaleza.
+
+### CAPITULO II. PRUEBAS
+
+#### SECCION PRIMERA. REGLAS GENERALES
+
+###### ARTICULO 169.
+
+Para conocer la verdad sobre los puntos controvertidos, puede el Juzgador valerse de personas o de cualquier otro medio de prueba, ya sea que pertenezca a las partes o a un tercero, sin más limitaciones que las de que las pruebas no estén prohibidas por la Ley ni sean contrarias a la moral.
+
+###### ARTICULO 170.
+
+Ni la prueba en general ni los medios de prueba establecidos por la Ley son renunciables.
+
+###### ARTICULO 171.
+
+Sólo los hechos están sujetos a prueba; el derecho lo estará únicamente cuando se funde en leyes, usos, costumbres o jurisprudencias extranjeras.
+
+###### ARTICULO 172.
+
+Los hechos notorios no necesitan ser probados, y el Juez puede invocarlos, aunque no hayan sido alegados por las partes.
+
+###### ARTICULO 173.
+
+El actor debe probar los hechos constitutivos de su acción y el demandado los de sus excepciones.
+
+###### ARTICULO 174.
+
+El que niega solo está obligado a probar:
+
+I.- Cuando la negación envuelva la afirmación expresa de un hecho;
+
+II.- Cuando se desconozca la presunción legal que tenga en su favor la contraparte;
+
+III.- Cuando se desconozca la capacidad; y
+
+IV.- Cuando la negativa fuere elemento constitutivo de la acción.
+
+###### ARTICULO 175.
+
+La Ley reconoce como prueba:
+
+I.- Confesional;
+
+II.- Documental;
+
+III.- Pericial;
+
+IV.- Reconocimiento o inspección judicial;
+
+V.- Testimonial;
+
+VI.- Y demás medios que produzcan convicción en el Juzgador, siempre que la parte que los ofrezca, ministre al Tribunal los aparatos o elementos necesarios para su desahogo y valoración.
+
+###### ARTICULO 176.
+
+Los documentos son públicos o privados:
+
+I.- Son públicos:
+
+a) Aquellos cuya formación está encomendada por la Ley, dentro de los límites de su competencia, a un servidor público revestido de la fe pública y los expedidos por servidores públicos en el ejercicio de sus funciones;
+
+b) Las certificaciones de constancias existentes en los archivos parroquiales que se refieren a actos pasados antes del establecimiento del Registro Civil, siempre que fueren cotejadas por Notario Público o quien haga sus veces con arreglo a derecho; y
+
+c) Los demás a los que se le reconozca igual carácter por la Ley.
+
+II. Son documentos privados los que no reúnan las condiciones previstas en la fracción anterior.
+
+###### ARTICULO 177.
+
+Podrá pedirse el cotejo de firmas y letras siempre que se niegue o porque se ponga en duda la autenticidad de un documento público que carezca de matriz o de un documento privado.
+
+###### ARTICULO 178.
+
+La persona que pida el cotejo solicitará al Tribunal cite al interesado para que en su presencia, ponga la firma o letras que servirán para el cotejo o designará el documento o documentos indubitables con que debe hacerse.
+
+###### ARTICULO 179.
+
+Se consideran indubitables para el cotejo:
+
+I.- Los documentos que las partes reconozcan como tales de común acuerdo;
+
+II.- Los documentos privados cuya letra o firma haya sido reconocida en juicio por aquel a quien se atribuyó la dudosa;
+
+III.- Los documentos privados cuya letra o firma ha sido judicialmente declarada propia de aquél a quien se atribuye la dudosa;
+
+IV.- El escrito impugnado en la parte en que reconozca la letra como suya aquél a quien perjudique;
+
+V.- Las firmas puestas en actuaciones judiciales en presencia del Secretario del Tribunal por la parte cuya firma o letra se trata de comprobar.
+
+###### ARTICULO 180.
+
+De la traducción de los documentos que se presenten en idioma extranjero, se mandará dar vista a la parte contraria para que, dentro del tercer día manifieste si está conforme. Si lo estuviere o no dijere nada, se pasará por la traducción; en caso contrario, el Tribunal nombrará traductor
+
+###### ARTICULO 181.
+
+Los terceros están obligados, en todo tiempo, a prestar auxilio a los Tribunales en la averiguación de la verdad. En consecuencia, deben sin demora, exhibir documentos y cosas que tengan en su poder, cuando para ello fueren requeridos y rendir su declaración cuando se les exija.
+
+Los Tribunales tienen la atribución y el deber de compeler a terceros, por los apremios más eficaces, para que cumplan con esta obligación; y en caso de oposición, oír las razones en que la funden y resolverán sin ulterior recurso.
+
+De la mencionada obligación están exentos los ascendientes, cónyuges y personas que deban guardar secreto profesional en los casos en que se trate de probar contra la parte con la que están relacionados, pero si manifestare su voluntad de hacerlo, se les permitirá que la cumplan, haciéndose constar ésta circunstancia.
+
+###### ARTICULO 182.
+
+Presunción es la consecuencia que la ley o el juez deducen de un hecho conocido para averiguar la verdad de otro desconocido; la primera se llama legal y la segunda humana.
+
+###### ARTICULO 183.
+
+Hay presunción legal cuando la ley la establece expresamente y cuando la consecuencia nace inmediata y directamente de la ley; hay presunción humana cuando de un hecho debidamente probado se deduce otro que es consecuencia ordinaria de aquél.
+
+###### ARTICULO 184.
+
+Los Tribunales podrán decretar en todo tiempo, sea cual fuere la naturaleza del negocio, la práctica o ampliación de cualquier diligencia probatoria, siempre que sea conducente para el conocimiento de la verdad sobre los puntos cuestionados. En la práctica de éstas diligencias, el juez obrará como estime procedente para obtener el mejor resultado de ellas, sin lesionar el derecho de las partes oyéndolas y procurando en todo igualdad.
+
+#### SECCION SEGUNDA. OFRECIMIENTO
+
+###### ARTICULO 185.
+
+El periodo de ofrecimiento de pruebas es de diez días comunes y perentorios que empezarán a contarse desde el día siguiente al de la notificación del auto que tuvo por contestada la demanda o la reconvención, o declaró la rebeldía en su caso.
+
+###### ARTICULO 186.
+
+Desde que se abra el período de ofrecimiento de pruebas hasta tres días antes de la celebración de la audiencia, salvo lo dispuesto por el artículo 212 podrá ofrecerse la prueba confesional, debiendo presentar ineludiblemente el pliego que contenga las posiciones en sobre cerrado que se guardará en el secreto del Tribunal.
+
+###### ARTICULO 187.
+
+Las partes están obligadas, al ofrecer la prueba de documentos que no tengan en su poder, a expresar el archivo en que se encuentren, o si se encuentran en poder de terceros y si son propios o ajenos.
+
+###### ARTICULO 188.
+
+Si el documento se encuentra en libros o papeles de casa de comercio o de algún establecimiento industrial, el que pida el documento o la constancia, deberá fijar con precisión cual sea, y la copia testimoniada se tomará en el escritorio del establecimiento sin que los directores de él estén obligados a llevar al tribunal los libros de cuentas, sólo presentarán las partidas o documentos designados.
+
+###### ARTICULO 189.
+
+Los documentos privados se presentarán originales, y cuando formen parte de un libro, expediente o legajo, se exhibirán para que se compulse la parte que señalen los interesados.
+
+###### ARTICULO 190.
+
+La prueba pericial se ofrece proporcionando nombre y domicilio de la persona que se designe como perito con conocimientos especiales en la ciencia, arte o técnica a que pertenezca la cuestión sobre la que ha de oírse su parecer, si estuvieren legalmente reglamentadas, expresando los puntos sobre los que versará.
+
+Si la ciencia, arte o técnica no estuvieren legalmente reglamentados, o estándolo, no hubiere peritos en el lugar, podrá ser nombrado cualquier persona entendida.
+
+###### ARTICULO 191.
+
+Si los que deben nombrar un perito no pudieren ponerse de acuerdo, el juez designará uno entre los que propongan los interesados, y el que fuere designado practicará la diligencia.
+
+###### ARTICULO 192.
+
+Al ofrecerse la inspección judicial se determinarán los puntos sobre los que deba de versar.
+
+###### ARTICULO 193.
+
+Las partes tendrán obligación de presentar sus propios testigos. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo la protesta de decir verdad al juez y pedirán que los cite, proporcionando nombre y domicilio.
+
+###### ARTICULO 194.
+
+Cuando la persona resida fuera del lugar en que esté instaurado el juicio en que sea propuesta como testigo, su oferente deberá acompañar con el escrito de ofrecimiento el interrogatorio con las copias necesarias para la otra parte, que podrá presentar pliego de repreguntas en relación a las directas previamente calificadas de legales y conforme a las cuales, de admitirse, se recibirá el testimonio mediante exhorto u oficio comisorio que según el caso se gire para ese efecto, autorizando al juez requerido que, de estimarlo pertinente, haga uso de los medios de apremio que establezca la ley de su jurisdicción hasta lograr la comparecencia.
+
+###### ARTICULO 195.
+
+Cuando las pruebas hubieren de practicarse fuera del Estado de Nayarit, o del País, se recibirán a petición de parte dentro de un término extraordinario de sesenta y noventa días respectivamente, siempre que se llenen los siguientes requisitos: 1o.- Que se solicite durante el ofrecimiento de pruebas; 2o.- Que se indique los nombres y residencia de los testigos que hayan de ser examinados cuando las pruebas sean testificales; 3o.- Que se designe en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que han de testimoniarse, o presentarse los originales.
+
+#### SECCION TERCERA. ADMISION
+
+###### ARTICULO 196.
+
+Al día siguiente en que se termine el período de ofrecimiento de pruebas, el Juez dictará resolución en la que determinará las pruebas que se admitan sobre cada hecho, siempre que estén permitidas por la Ley y satisfagan los requisitos que para cada una de ellas se exija, pudiendo limitar el número de testigos, prudencialmente, quedando al arbitrio del oferente la elección; señalará día y hora para la audiencia de recepción que deberá efectuarse dentro de los veinte días siguientes, tomando en consideración el tiempo para su preparación y ordenará lo conducente para esto.
+
+No se admitirán diligencias de prueba contra derecho, contra la moral o sobre hechos que no han sido controvertidos por las partes, imposibles o notoriamente inverosímiles.
+
+###### ARTICULO 197.
+
+El Juez, al calificar la admisibilidad de las pruebas en los casos que se solicite el término extraordinario, determinará el monto de la cantidad que el promovente deposite para garantizar la multa, que será hasta de veinte días de salario, en caso de no rendirse la prueba. Si este depósito no se efectúa dentro de los tres días siguientes al en que se notifique el auto admisorio, no surtirá efectos la dilación.
+
+Si el litigante al que se hubiera concedido el término extraordinario no rindiere las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante, se le impondrá multa que se hará efectiva del depósito que se hubiera otorgado para garantizar.
+
+###### ARTICULO 198.
+
+Después del período de ofrecimiento de pruebas no se admitirán otros documentos que los que se hallen en alguno de los casos siguientes:
+
+I.- Ser de fecha posterior a dicho período;
+
+II.- Los anteriores respecto de los cuales protestando decir verdad, asevere la parte que los presente no haber tenido conocimiento de su existencia; y
+
+III.- Los que no haya sido posible adquirir antes por causa que no sea imputable a la parte interesada o hubieren sido pedidos con anterioridad y no fueren remitidos al Juzgado sino hasta después.
+
+En estos casos se dará traslado a la otra parte, para que dentro del tercer día manifieste lo que a su derecho convenga.
+
+#### SECCION CUARTA. PREPARACION
+
+###### ARTICULO 199.
+
+Antes de la celebración de la audiencia, las pruebas deberán ser preparadas con toda oportunidad para que en ella puedan recibirse y al efecto se procederá:
+
+I.- A citar al absolvente personalmente, cuando menos veinticuatro horas antes de la señalada para la audiencia, bajo el apercibimiento que si no se presenta a declarar, se le tendrá por confeso.
+
+Si el que debe absolver posiciones no radica en el lugar del juicio, recibirá la prueba confesional el Juez del lugar en que reside, librando exhorto si es fuera del Estado u oficio comisorio dentro de él, acompañando, cerrado y sellado el pliego en que constan aquellas que previamente deberán ser calificadas y sacar copia que autorizada con la firma del Juez y Secretario exhortantes quedará en la Secretaría del Tribunal;
+
+II.- A citar a los testigos desde la primera vez bajo el apercibimiento de multa hasta por veinte días de salario o de ser conducidos por la policía, en caso de no comparecer sin causa justificada, a no ser que la parte que los ofreció se hubiera comprometido a presentarlos y sin perjuicio de su derecho a sustituirlos, condicionando esto último a una sola vez y a que no se haya recibido su testimonio;
+
+III.- A dar todas las facilidades necesarias al perito para el examen de objetos, documentos, lugares o personas, para que rinda su dictamen a la hora de la audiencia y ordenará se le cite con el mismo apercibimiento que a los testigos;
+
+IV.- A delegar o exhortar al Juez que corresponda para que practique la inspección ocular, las compulsas que tengan que efectuarse fuera del lugar del juicio;
+
+V.- A delegar o a exhortar al Juez que corresponda para que reciba la información de testigos cuando no radiquen en el lugar del juicio, incluyendo en pliego cerrado las preguntas y repreguntas previamente calificadas, dejando copia certificada de las mismas; y
+
+VI.- A mandar traer copias, documentos, libros y demás instrumentos ofrecidos por las partes ordenando las compulsas que fueren necesarias.
+
+###### ARTICULO 200.
+
+El perito que nombre el Juez puede ser recusado dentro de las cuarenta y ocho horas siguientes a las en que se notifique su nombramiento a los litigantes, debiendo presentar las pruebas siempre que concurra alguna de las siguientes causas:
+
+I.- Consanguinidad dentro del cuarto grado con alguna de las partes;
+
+II.- Interés directo o indirecto en el pleito; y
+
+III.- Ser socio, inquilino, arrendador o amigo de alguna de las partes.
+
+El Juez calificará de plano la recusación. Contra el auto en que se admita o se deseche la recusación, no procede recurso alguno. Admitida, nombrará nuevo perito.
+
+###### ARTICULO 201.
+
+En caso de ser desechada la recusación, se impondrá al recusante una multa hasta de veinte días de salario.
+
+#### SECCION QUINTA. AUDIENCIA DE RECEPCION
+
+###### ARTICULO 202.
+
+Constituido el Tribunal en audiencia pública, el día y hora señalados al efecto, serán llamados por el Secretario, los litigantes, peritos, testigos y demás personas que por disposición de la Ley deban permanecer en el salón, en lugar separado para ser introducidos en su oportunidad, si no se hallaran presentes, decidirá cuales deben ser inmediatamente citados o traídos para que concurran a la diligencia.
+
+La audiencia se celebrará concurran o no las partes y estén o no presentes los testigos, peritos y los abogados siempre que hayan sido enterados debidamente, de la cual se deberá levantar el acta circunstanciada.
+
+###### ARTICULO 203.
+
+Los tribunales bajo su más estricta responsabilidad, al celebrar la audiencia de pruebas deben observar las siguientes reglas:
+
+I.- Procurar que no se suspenda ni se interrumpa, en consecuencia, desecharán de plano las recusaciones y los incidentes que pudieran tener algunos de estos efectos, salvo los casos previstos por la Ley;
+
+II.- Mantener la mayor igualdad entre las partes; y
+
+III.- Evitar digresiones, actuando con energía respecto de la conducta o promociones de las partes, que tiendan a suspender o retardar el procedimiento.
+
+###### ARTICULO 204.
+
+Iniciada la audiencia, las pruebas se recibirán en el orden fijado en el auto de admisión. Sin perjuicio de que se desahoguen las ya preparadas, se dejarán pendientes para la continuación las que no lo hubieren estado, señalando de oficio para este efecto día y hora dentro de los quince días siguientes.
+
+###### ARTICULO 205.
+
+La prueba de confesión, se recibirá protestando previamente el absolvente y tomando sus generales, se asentarán las contestaciones en que vaya implícita la posición. Las partes pueden hacerse recíprocamente preguntas y formularse posiciones, teniendo el Juez la facultad de asentar o el resultado de este careo o bien las contestaciones conteniendo las preguntas.
+
+###### ARTICULO 206.
+
+Las posiciones deberán reunir los siguientes requisitos:
+
+I.- Articularse en términos precisos;
+
+II.- Concretarse a hechos que sean objeto del debate;
+
+III.- No han de ser insidiosas. Se tendrá por insidiosas las que se dirijan a ofuscar la inteligencia del absolvente con el objeto de inducirlo a error y obtener una declaración contraria a la verdad;
+
+IV.- No ha de contener cada una más que un solo hecho, salvo cuando éste sea complejo, compuesto de dos o más actos, podrá comprenderse en una sola, si por la íntima relación que exista entre ellos, no puede afirmarse o negarse uno sin afirmar o negar el otro; y
+
+V.- El hecho ha de ser propio del absolvente, excepto cuando éste sea procurador, cesionario o subrogatario.
+
+###### ARTICULO 207.
+
+Podrán articularse posiciones relativas a hechos negativos que envuelvan una abstención o que implique un hecho o consecuencia de carácter positivo, siempre que se formulen en términos que no den lugar a respuestas confusas.
+
+Es permitido articular posiciones al procurador que tenga poder especial para absolverlas o general, con cláusula para hacerlo.
+
+El cesionario y el subrogatario se consideran como apoderados para los efectos del párrafo que precede.
+
+###### ARTICULO 208.
+
+En ningún caso se permitirá que la parte que ha de absolver posiciones esté asistida por su abogado, procurador u otra persona, no se le dará traslado ni copia de las posiciones o término para que se aconseje; pero si el absolvente fuere extranjero, podrá ser asistido por un intérprete en cuyo caso el Juez lo nombrará.
+
+###### ARTICULO 209.
+
+Si el citado a absolver posiciones comparece, el Juez abrirá el pliego e impuesto de ellas, las calificará y aprobará solo las que reúnan los requisitos de Ley.
+
+###### ARTICULO 210.
+
+Si fueren varios los que hayan de absolver posiciones y al tenor de un mismo interrogatorio, las diligencias se practicarán separadamente y en un mismo acto, evitando que los que absuelvan primero se comuniquen con los que han de absolver después
+
+###### ARTICULO 211.
+
+Las contestaciones deberán ser categóricas en sentido afirmativo o negativo, pudiendo el que las dé, agregar las explicaciones que estime convenientes, o las que el Juez pida.
+
+En el caso de que el absolvente se negare a contestar, respondiere con evasivas o dijere ignorar los hechos propios, el Juez lo apercibirá en el acto, de tenerlo por confeso sobre los hechos de los cuáles sus respuestas no fueren catagóricas (sic) o terminantes.
+
+###### ARTICULO 212.
+
+Absueltas las posiciones, el absolvente tiene derecho a su vez, cuando se desahoguen sus pruebas, de formularlas al articulante si hubiere asistido. El Tribunal puede, libremente, interrogar a las partes sobre los hechos y circunstancias que sean conducentes a la averiguación de la verdad.
+
+###### ARTICULO 213.
+
+Cuando el absolvente al enterarse de su declaración, manifieste no estar conforme con los términos asentados, el Juez decidirá en el acto lo que proceda acerca de las rectificaciones que deban hacerse. Una vez firmadas las declaraciones, no pueden variarse ni en la substancia ni en la redacción.
+
+###### ARTICULO 214.
+
+En caso de enfermedad legalmente comprobada del que deba absolver, el Tribunal se trasladará al domicilio de aquél, donde se efectuará la diligencia con presencia de la otra parte, si asistiere.
+
+###### ARTICULO 215.
+
+El que deba absolver posiciones será declarado confeso:
+
+I.- Cuando sin causa justa no comparezca;
+
+II.- Cuando se niegue a declarar; y
+
+III.- Cuando al hacerlo insista en no responder afirmativa o negativamente o lo haga con evasivas. En el primer caso, el Juez abrirá el pliego y calificará las posiciones antes de hacer la declaración.
+
+###### ARTICULO 216.
+
+No podrá ser declarado confeso el citado a absolver posiciones, si no hubiere sido apercibido legalmente.
+
+La declaración de confeso se hará de oficio por el juez en el mismo acto de la diligencia.
+
+###### ARTICULO 217.
+
+Las autoridades, las corporaciones oficiales y los establecimientos que formen parte de la administración pública, no absolverán posiciones en la forma que establecen los artículos anteriores, pero la parte contraria, podrá pedir que se libre oficio, insertando las preguntas que quieran hacérseles para que, por vía de informe, sean contestadas dentro del término que designe el Tribunal, y que no excederá de cinco días hábiles. En el oficio se apercibirá a la parte absolvente de tenerla por confesa si no contestare dentro del término que se le haya fijado, y si no lo hiciere categóricamente afirmando o negando los hechos.
+
+###### ARTICULO 218.
+
+Se relatarán los documentos presentados, poniéndose de manifiesto planos, croquis o esquemas. Las partes con sencillez pueden explicar al Juez los documentos en que se funde su derecho, mostrándolos y leyéndolos en la parte conducente. El Juez puede hacer todas las preguntas necesarias sobre el contenido de los instrumentos.
+
+Durante la audiencia no se puede redargüir de falso ni desconocer documento que no lo fue en su oportunidad. Cuando se hubiere hecho la impugnación de falsedad de un documento, de acuerdo con lo que dispone el artículo 630 fracción IV, se recibirán las pruebas y contrapruebas relativas a la objeción, asentándose solo el resultado de ellas.
+
+> <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
+
+###### ARTICULO 219.
+
+No se recibirá documento alguno después de iniciada la audiencia de pruebas; se repelerán de oficio los que se presenten, mandando devolverlos sin ulterior recurso. Lo dispuesto en este artículo, en el párrafo segundo del anterior y en la fracción IV del 630, es sin perjuicio del 198.
+
+###### ARTICULO 220.
+
+En el reconocimiento de documentos se observará lo dispuesto por los artículos 199 fracción I, 210 y 213.
+
+###### ARTICULO 221.
+
+Solo pueden reconocer un documento privado el que lo firma, el que lo manda extender o el legítimo representante de ellos, con poder o cláusula especial, excepto en los casos en que la ley permita que se haga por personas distintas.
+
+###### ARTICULO 222.
+
+El perito dictaminará por escrito que presentará en la audiencia. Las partes y el Juez podrán formular observaciones y hacer preguntas que éste último estime pertinentes.
+
+El perito citado oportunamente será sancionado con multa hasta de veinte días de salario en caso de que no concurra, salvo causa grave que calificará el Juez.
+
+###### ARTICULO 223.
+
+Estando los testigos separados convenientemente, pasarán uno por uno a declarar y después de tomarle la protesta de conducirse con verdad y advertirle las penas en que incurren los testigos falsos, se hará constar el nombre, edad, estado civil, domicilio y ocupación, si es pariente por consanguinidad o afinidad y en qué grado de alguno de los litigantes, si es dependiente o empleado del que lo presente, si tiene con él sociedad alguna u otra relación de interés, si tiene interés directo o indirecto en el pleito, si es amigo íntimo o enemigo de alguno de los litigantes; procediéndose a continuación al examen.
+
+###### ARTICULO 224.
+
+Los testigos primero declararán espontáneamente sobre los hechos, pudiendo el Juez interrogarlos ampliamente y luego las partes, limitándose a los puntos dudosos, obscuros u omitidos. El Juez impedirá estrictamente preguntas ociosas e impertinentes.
+
+Deben asentarse en el acta literalmente preguntas, repreguntas y sus respuestas
+
+###### ARTICULO 225.
+
+Si el señalamiento del domicilio de los testigos resultare inexacto y de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa hasta de veinte días de salario.
+
+Asimismo deberá declararse desierta la prueba testimonial. Esta norma se aplicará también cuando, sin causa justificada, el oferente no presente a sus testigos.
+
+###### ARTICULO 226.
+
+A los testigos de más de sesenta años y a los enfermos podrá el Juez según las circunstancias, recibirles la declaración en sus casas en presencia de las partes si asistieren.
+
+###### ARTICULO 227.
+
+Al Presidente de la República, Secretarios de Estado, Gobernadores, Senadores, Diputados, Magistrados, Jueces, Generales con mando y a las primeras autoridades municipales del Estado de Nayarit, se pedirá su declaración por oficio, y en esa forma la rendirán, en un plazo que fije el Juez no mayor de cinco días hábiles. En casos urgentes, podrán rendir declaración personalmente.
+
+###### ARTICULO 228.
+
+Si el testigo no sabe el idioma español, rendirá su declaración por medio de intérprete, que será nombrado por el Juez. Si el testigo lo pidiere, además de asentarse su declaración en español, podrá escribirse en su propio idioma por él o por el intérprete.
+
+###### ARTICULO 229.
+
+Los testigos están obligados a dar la razón de su dicho, y el Juez deberá exigirla en todo caso, al final de la declaración.
+
+###### ARTICULO 230.
+
+En el acto del examen de un testigo o dentro de los tres días siguientes, pueden las partes atacar el dicho de aquél por cualquier circunstancia que en su concepto afecte su credibilidad, cuando esa circunstancia no se haya expresado en su declaración.
+
+###### ARTICULO 231.
+
+No es admisible en el incidente de tachas la prueba testimonial para tachar a los testigos que hayan declarado.
+
+###### ARTICULO 232.
+
+Las partes, sus representantes o abogados pueden concurrir a la inspección judicial y hacer las observaciones que estimen prudentes.
+
+También concurrirán a ella los testigos de identificación o perito, si fuere necesario.
+
+###### ARTICULO 233.
+
+Del reconocimiento se levantará acta que firmarán los que a él concurran, asentándose los puntos que lo provocaron, las observaciones, declaraciones de perito y todo lo necesario para esclarecer la verdad.
+
+Cuando fuere necesario, se levantarán planos o se sacarán vistas fotográficas del lugar u objetos inspeccionados o reconocidos.
+
+###### ARTICULO 234.
+
+El perito y testigos pueden retirarse de la audiencia después de desempeñar su cometido, firmando al margen del acta en la parte correspondiente a ellos.
+
+###### ARTICULO 235.
+
+Concluida la audiencia, una vez firmada el acta, no puede variarse ni en la sustancia ni en la redacción.
+
+###### ARTICULO 236.
+
+Las partes están facultadas para presentar un proyecto de sentencia, el cual podrá ser considerado por el Juez
+
+#### SECCION SEXTA. VALORACION
+
+###### ARTICULO 237.
+
+La valoración de las pruebas se hará de acuerdo con la presente sección, a menos que por el enlace interior de las rendidas, el Tribunal adquiera convicción distinta respecto de los hechos materia del litigio.
+
+###### ARTICULO 238.
+
+Se concederá valor probatorio pleno a los siguientes elementos de convicción:
+
+I.- La confesión hecha en la demanda, en la contestación o en cualquier otro acto del juicio, sin necesidad de ratificación ni ser ofrecida como prueba;
+
+II.- La confesión judicial, cuando concurran en ella los siguientes requisitos:
+
+a).- Que sea hecha por persona capaz de obligarse;
+
+b).- Con pleno conocimiento y sin violencia;
+
+c).- De hecho propio, o en su caso del representado o causante, y concerniente al negocio; y
+
+d).- Que se haga conforme a la Ley.
+
+III.- La confesión extrajudicial si el Juez incompetente ante quien se hizo era competente en el momento en que la recibió, o las dos partes lo reputaban como tal, o se hizo en la demanda, contestación o reconvención;
+
+IV.- La confesión extrajudicial hecha en un testamento, salvo en los casos señalados por el Código Civil;
+
+V.- La confesión en los casos del artículo 215 y la del articulante respecto a los hechos propios que afirmare en las posiciones;
+
+VI.- Los documentos públicos;
+
+VII.- Las partidas registradas por los párrocos, cuando por cualquier caso no se encuentren en el Registro Civil, cotejadas por Notario Público o inspección judicial;
+
+VIII.- Los documentos privados, sólo contra su autor, cuando fueren legalmente reconocidos por éste;
+
+IX.- Los documentos provenientes de terceros, cuando no fueren objetados o habiéndolo sido, no se demostrare;
+
+X.- El reconocimiento o inspección judicial cuando se haya practicado en objetos que no requieran conocimientos especiales o científicos;
+
+XI.- Las actuaciones judiciales;
+
+XII.- Las presunciones legales; y
+
+XIII.- El reconocimiento hecho por el albacea o por un heredero en lo que a él concierne.
+
+###### ARTICULO 239.
+
+Serán valorados por el prudente arbitrio del Juez:
+
+I.- Los documentos simples;
+
+II.- El dictamen de perito;
+
+III.- La declaración de testigos;
+
+IV.- La presunción humana; y
+
+V.- Las fotografías, copias fotostáticas y demás medios que produzcan convicción.
+
+###### ARTICULO 240.
+
+No obstante lo dispuesto en las fracciones I a V del artículo 238, tratándose de cuestiones familiares o del estado civil, la confesión no es un medio de prueba suficiente si no se encuentra adminiculado con otro fehaciente.
+
+###### ARTICULO 241.
+
+Los documentos que ya se exhibieron antes del período de ofrecimiento y las constancias de autos, se tomarán como prueba aunque no se ofrezcan, dándoseles el valor que corresponda.
+
+###### ARTICULO 242.
+
+A los documentos públicos expedidos por autoridades federales, estatales o municipales, se les dará el valor probatorio que corresponda, sin necesidad de legalización.
+
+###### ARTICULO 243.
+
+Para que tengan valor probatorio los documentos públicos procedentes del extranjero, deberán llenar los requisitos que fija el Código Federal de Procedimientos Civiles.
+
+###### ARTICULO 244.
+
+Los instrumentos públicos que hayan venido a juicio sin citación contraria, se tendrán por legítimos y eficaces, salvo que su impugnación haya sido demostrada.
+
+###### ARTICULO 245.
+
+Los documentos privados y la correspondencia procedente de uno de los interesados, presentados en juicio por vía de prueba y no objetados por la parte contraria, se tendrán por admitidos y surtirán sus efectos como si hubieren sido reconocidos expresamente
+
+###### ARTICULO 246.
+
+Cuando la impugnación del documento nuevo se refiera a su admisión por no hallarse en ninguno de los casos expresados en el artículo 198, el Juez resolverá en la sentencia definitiva lo que estime procedente.
+
+###### ARTICULO 247.
+
+Si hubiere documentos impugnados de falsos, solo da competencia al juez para conocer y decidir en lo principal la fuerza probatoria del documento impugnado, sin que pueda hacerse declaración alguna que afecte al instrumento y sin perjuicio del procedimiento penal a que hubiere lugar.
+
+Si en el momento de la celebración de la audiencia se tramitare juicio penal sobre la falsedad del documento en cuestión, el tribunal sin suspender el procedimiento y según las circunstancias, determinará al dictar sentencia si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad o bien pueda subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
+
+###### ARTICULO 248.
+
+Cuando una de las partes se oponga a la inspección o reconocimiento ordenados por el Tribunal, para conocer sus condiciones físicas o mentales, o no conteste a las preguntas que el tribunal le dirija, éste debe tener por ciertas las afirmaciones de la contraparte, salvo prueba en contrario. Lo mismo se hará si una de las partes no exhibe a la inspección del Tribunal la cosa o documento que tiene en su poder.
+
+### CAPITULO III. SENTENCIAS
+
+#### SECCION PRIMERA. FORMA Y EFECTOS
+
+###### ARTICULO 249.
+
+Las sentencias deben tener lugar, fecha y tribunal que las pronuncie, los nombres de las partes contendientes, el carácter con que litiguen y el objeto del juicio; ser claras, precisas, exhaustivas, motivadas, fundadas y congruentes con lo deducido oportunamente, condenando o absolviendo o en su caso dejando a salvo sus derechos.
+
+> <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
+
+###### ARTICULO 250.
+
+Los tribunales no podrán, bajo ningún pretexto, dilatar ni negar la resolución de las cuestiones que hayan sido discutidas en el juicio, salvo lo dispuesto por el artículo 652 fracción VII.
+
+###### ARTICULO 251.
+
+Las resoluciones dictadas con el carácter de provisionales pueden modificarse en sentencia interlocutoria o definitiva.
+
+Las resoluciones judiciales firmes dictadas en asuntos de alimentos, ejercicio, suspensión o pérdida de la patria potestad, interdicción, jurisdicción voluntaria y demás que prevengan las leyes, pueden alterarse o modificarse cuando cam-bien(sic) las circunstancias que afecten al ejercicio de la acción que se dedujo en el juicio correspondiente.
+
+###### ARTICULO 252.
+
+Cuando hubiere condena de frutos, intereses, daños o perjuicios, se fijará el importe en cantidad líquida o se establecerán, por lo menos, las bases con arreglo a las cuales debe hacerse la liquidación.
+
+###### ARTICULO 253.
+
+Cuando en la sentencia definitiva se declare procedente alguna excepción dilatoria, que no fuere de previo y especial pronunciamiento, se abstendrá el Juez de fallar la cuestión principal, reservando el derecho del actor.
+
+#### SECCION SEGUNDA. ACLARACION
+
+###### ARTICULO 254.
+
+La aclaración procede solo contra sentencias definitivas, cuando en su texto se advierta contradicción, obscuridad o ambigüedad.
+
+La aclaración se interpondrá por escrito ante el mismo Juez que hubiere dictado la resolución o el que lo sustituya, dentro del día siguiente a la notificación y su solicitud suspende para las partes el término señalado para interponer el recurso de apelación.
+
+###### ARTICULO 255.
+
+Del escrito de aclaración se dará vista a la parte contraria, para que dentro del día siguiente al de la notificación, exponga lo que a sus intereses convenga, transcurrido el cual, el Juez resolverá en el término de Ley.
+
+###### ARTICULO 256.
+
+La resolución que aclare una sentencia se considera parte de ésta, sin que varíe su sustancia.
+
+###### ARTICULO 257.
+
+La improcedencia de la aclaración motiva que se sancione a quien la hubiere solicitado con una multa de hasta veinte días de salario.
+
+#### SECCION TERCERA. EJECUTORIEDAD
+
+###### ARTICULO 258.
+
+Causan ejecutoria las sentencias definitivas:
+
+I.- Cuando fueren expresamente consentidas por las partes;
+
+II.- Cuando la Ley no concede recurso alguno;
+
+III.- Cuando transcurran los términos para recurrirla sin que las partes hagan uso de ese derecho;
+
+IV.- Cuando hubieren sido recurridas y no continuare el recurso en el término legal; y
+
+V.- Las pronunciadas en segunda instancia.
+
+En relación a las fracciones II a V, se entiende cuando no se promoviere juicio de amparo o que habiéndose planteado no se concediere.
+
+###### ARTICULO 259.
+
+Para que la sentencia cause ejecutoria se requiere declaración judicial, que será de oficio o a petición de parte, sin sustanciar incidente alguno. La declaración de ejecutoriedad es irrecurrible.
+
+###### ARTICULO 260.
+
+Cuando la sentencia ha causado ejecutoria, hay cosa juzgada y contra ella no se admite recurso ni prueba de ninguna clase.
+
+###### ARTICULO 261.
+
+La cosa juzgada excluye la posibilidad de volver a tratar la cuestión ya resuelta por sentencia firme, y puede invocarse a petición de parte o de oficio en cualquier estado del juicio.
+
+Para que la cosa juzgada surta efectos en otro juicio, es necesario que entre el caso resulto(sic) por la sentencia y aquél en que ésta sea invocada, concurran identidad en las cosas, en las causas, en la persona de los litigantes, y en la calidad con que lo fueren.
+
+Se entiende que hay identidad de persona también cuando los litigantes del segundo juicio sean causahabientes de los que contendieron en el anterior, o estén unidos a ellos por solidaridad o indivisibilidad de las prestaciones entre los que tienen derecho a exigirlas u obligación de satisfacerlas.
+
+###### ARTICULO 262.
+
+La sentencia firme produce acción y excepción contra los litigantes y contra terceros llamados legalmente a juicio.
+
+###### ARTICULO 263.
+
+El tercero extraño puede excepcionarse contra la sentencia firme, pero no contra la que recayó en el juicio del estado civil o sobre validez o nulidad de las disposiciones testamentarias, casos en los cuales la cosa juzgada es eficaz contra tercero aunque no hubiere litiga-do(sic), a menos que alegue colusión de los litigantes para perjudicarlo
+
+### CAPITULO IV. OTRAS FORMAS DE EXTINCION DEL JUICIO
+
+#### SECCION PRIMERA. DESISTIMIENTO
+
+###### ARTICULO 264.
+
+El procedimiento judicial puede terminar por desistimiento de la acción o de la demanda.
+
+###### ARTICULO 265.
+
+El desistimiento de la acción extingue ésta aún sin consentir el demandado, resolviéndose de plano su procedencia.
+
+###### ARTICULO 266.
+
+El desistimiento de la demanda solo importa la pérdida de la instancia y requiere el consentimiento del demandado, salvo que no haya sido emplazado.
+
+Con el escrito en que se promueva se le dará vista al demandado para que al día siguiente manifieste lo que estime conveniente, y una vez transcurrido dicho plazo, se resolverá lo que en derecho proceda.
+
+###### ARTICULO 267.
+
+En todos los casos en que se declare el desistimiento, produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obliga al que lo haga después del emplazamiento, a liquidar a su contraparte las costas procesales y los daños y perjuicios que hubiere ocasionado, salvo convenio en contrario.
+
+#### SECCION SEGUNDA. CADUCIDAD
+
+###### ARTICULO 268.
+
+La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio, desde el emplazamiento hasta antes de citación para sentencia, si transcurridos ciento ochenta días naturales contados a partir de la notificación de la última determinación judicial no hubiere promoción de cualquiera de las partes, tendiente a impulsar el procedimiento. Los efectos y formas de su declaración se sujetarán a las siguientes normas:
+
+I.- La caducidad de la instancia es de orden público, irrenunciable y no puede ser materia de convenio entre las partes. La declaración se hará de oficio o a petición de parte, cuando concurran las circunstancias a que se refiere el presente artículo;
+
+II.- La caducidad extingue el proceso, pero no la acción, en consecuencia, se puede iniciar un nuevo juicio sin perjuicio de lo dispuesto en la fracción V de este artículo;
+
+III.- La caducidad de la primera instancia convierte en ineficaces las actuaciones del juicio y las cosas deben volver al estado que tenían antes de la presentación de la demanda y se levantarán los embargos preventivos y cautelares. Se exceptúan de la ineficacia susodicha las resoluciones firmes sobre incompetencia, litispendencia, conexidad, personalidad y capacidad de los litigantes, que regirán en el juicio ulterior si se promoviere. Las pruebas rendidas en el proceso extinguido por caducidad podrán ser invocadas en el nuevo, siempre que se ofrezcan y precisen en forma legal;
+
+IV.- La caducidad de la segunda instancia deja firmes las resoluciones apeladas. Así lo declarará el tribunal de apelación;
+
+V.- La caducidad de los incidentes se causa por el transcurso de cuarenta y cinco días naturales contados a partir de la notificación de la última determinación judicial, sin promoción. La declaración respectiva sólo afectará a las actuaciones del incidente sin abarcar las de la instancia principal, aunque haya quedado en suspenso ésta por la interposición de aquél;
+
+VI.- No tiene lugar la declaración de caducidad en los juicios universales de concursos y sucesiones, pero sí en los juicios con ellos relacionados, que se tramiten independientemente, que de aquellos surjan o por ellos se motiven;
+
+VII.- El término de la caducidad sólo se interrumpirá por promociones de las partes, o por actos de las mismas realizados ante autoridad judicial diversa, siempre que tengan relación inmediata y directa con la instancia; y
+
+VIII.- La suspensión o interrupción del juicio produce la suspensión o interrupción del término de la caducidad.
+
+###### ARTICULO 269.
+
+Cuando se pruebe ante el Juez que se consumó la caducidad por maquinaciones hechas por una de las partes en perjuicio de otra, se dejará sin efecto la declaratoria de caducidad, continuándose el procedimiento.
+
+#### SECCION TERCERA. SOBRESEIMIENTO
+
+###### ARTICULO 270.
+
+Procede el sobreseimiento de oficio o a petición de parte, en los siguientes casos:
+
+I.- Por haberse alcanzado el objeto del juicio en cualquier etapa del mismo, pero antes de sentencia ejecutoriada;
+
+II.- Por pérdida o destrucción por caso fortuito o fuerza mayor de la cosa materia del juicio;
+
+III.- Porque la cosa objeto del juicio quede fuera del comercio o sea expropiada; y
+
+IV.- Por el fallecimiento de cualquiera de las partes cuando el derecho o la obligación se extingan por esta causa.
+
+###### ARTICULO 271.
+
+Cuando una de las partes invoque el sobreseimiento, se dará traslado a la contraria por tres días, resolviéndose enseguida lo que en derecho corresponda, salvo el caso de la fracción IV del artículo anterior, en que se oirá a la sucesión, o en su defecto, a la representación social.
+
+#### SECCION CUARTA. CONCILIACION
+
+###### ARTICULO 272.
+
+En todos los juicios cuya naturaleza así lo permita, la autoridad judicial de oficio o a petición de cualquiera o de ambas partes, mandará citar a éstas a una audiencia de conciliación.
+
+###### ARTICULO 273.
+
+La audiencia se desarrollará conforme a las siguientes reglas:
+
+I.- Las partes comparecerán personalmente ante el órgano jurisdiccional, sin abogados patronos, asesores o apoderados;
+
+II.- El juzgador intervendrá exhortándolos para que procuren llegar a un arreglo conciliatorio;
+
+III.- Si las partes no llegan a un acuerdo o no asisten, se les tendrá por inconformes, siguiendo el juicio, el curso que corresponda.
+
+### CAPITULO V. SUSPENSION E INTERRUPCION DEL PROCEDIMIENTO
+
+###### ARTICULO 274.
+
+Se suspenderá el procedimiento en los siguientes casos:
+
+I.- Cuando por fuerza mayor el Juez o las partes no pueden actuar;
+
+II.- En los casos en que sea necesario esperar la resolución de una cuestión previa o conexa por el mismo Juez, o por otras autoridades; y
+
+III.- En los demás casos previstos por la ley.
+
+###### ARTICULO 275.
+
+El estado de suspensión o el de la desaparición de la causa, se hará constar mediante declaración judicial, a instancia de parte o de oficio.
+
+###### ARTICULO 276.
+
+El procedimiento se interrumpe cuando fallezca una de las partes o su representante.
+
+###### ARTICULO 277.
+
+La interrupción cesará tan pronto se acredite la existencia de representante.
+
+> <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
+
+###### ARTICULO 278.
+
+Si transcurren quince días hábiles sin que se acredite la existencia de representante, se mandará citar por edictos. Si aún no compareciere representante, se reanudará con la intervención del Ministerio Público o del representante interino según el caso.
+
+###### ARTICULO 279.
+
+El tiempo de la suspensión o de la interrupción no se computará en ningún término.
+
+###### ARTICULO 280.
+
+Con excepción de las medidas urgentes y de aseguramiento, todo acto procesal verificado durante la suspensión o la interrupción es ineficaz, sin que sea necesario pedir o declarar su nulidad.
+
+### CAPITULO VI. COSTAS PROCESALES
+
+###### ARTICULO 281.
+
+Por ningún acto judicial se cobrarán costas.
+
+###### ARTICULO 282.
+
+Cada parte será inmediatamente responsable de las costas que originen las diligencias que promueva; en caso de condenación de costas, la parte condenada indemnizará a la otra de todas las que hubiere anticipado. La condenación no comprenderá la remuneración del procurador ni la del patrono, sino cuando fueren abogados con título debidamente requisitado.
+
+Los abogados extranjeros no cobrarán costas, sino cuando estén autorizados legalmente para ejercer su profesión y haya reciprocidad internacional con el país de su origen en el ejercicio de la abogacía.
+
+###### ARTICULO 283.
+
+La condenación en costas se hará cuando así lo prevenga la ley, o cuando, a juicio del Juez, se haya procedido con temeridad o mala fe.
+
+Siempre serán condenados:
+
+I.- El que ninguna prueba rinda para justificar su acción o su excepción, si se funda en hechos disputados;
+
+II.- El que presentare documentos o testigos sobornados;
+
+III.- El que fuere condenado en los juicios ejecutivo, hipotecario y el que intente alguno de ellos si no obtiene sentencia favorable. En estos casos, la condenación se hará en la primera instancia, observándose en la segunda lo dispuesto en la fracción siguiente;
+
+IV.- Cuando en la sentencia de segunda instancia se confirme la de primera, sin tomar en cuenta la declaración sobre costas. En este caso, la condenación comprenderá las de ambas instancias.
+
+###### ARTICULO 284.
+
+No habrá condenación de costas cuando las partes celebren un convenio mediante el cual se resuelva el litigio, pero en caso de incumplimiento, al ordenar su ejecución, se podrá decretar el pago de costas a cargo de la parte que incumpla.
+
+## TITULO SEGUNDO. JUICIOS DE TRAMITACION ESPECIAL
+
+### CAPITULO I. EJECUTIVO
+
+###### ARTICULO 285.
+
+Para que el juicio ejecutivo tenga lugar se necesita un título que genere ejecución.
+
+Genera ejecución:
+
+I.- La primera copia de una escritura pública expedida por el juez o notario ante quien se otorgó;
+
+II.- Las ulteriores copias dadas por mandato judicial con citación de la persona a quien interesa;
+
+III.- Los demás instrumentos públicos que conforme a este Código hacen prueba plena;
+
+IV.- Cualquier documento privado después de reconocido por quien lo hizo o lo mandó extender; basta con que se reconozca la firma aún cuando se niegue la deuda;
+
+V.- La confesión de la deuda hecha ante el Juez competente por el deudor o por su representante con facultades para ello;
+
+VI.- Los convenios celebrados en el curso de un juicio, ya sea de las partes entre sí o de un tercero que se hubiere obligado en cualquier forma; y
+
+VII.- El juicio uniforme de contadores si las partes ante el Juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieran aprobado.
+
+###### ARTICULO 286.
+
+El documento privado que contenga deuda líquida y sea de plazo cumplido, dará mérito para que el Juez ordene intimar al deudor el reconocimiento de firma ante el personal del Juzgado que practique la diligencia y que, hecho el reconocimiento o cuando intimidado dos veces rehuse contestar si es o no suya la firma, caso en el cual se tendrá por reconocida, se procederá al requerimiento de pago, ejecución y emplazamiento, conforme a este capítulo. Si el deudor manifestare que no es suya la firma, se concluirá la diligencia, reservando el derecho al promovente para que, si lo estima pertinente, lo haga valer en la vía y forma que corresponda
+
+###### ARTICULO 287.
+
+Las sentencias que causen ejecutoria y los convenios judiciales, los convenios celebrados ante la Procuraduría Federal del Consumidor, los laudos que emita ésta y los laudos o juicios de contadores, motivarán ejecución si el interesado no intentare la vía de apremio.
+
+###### ARTICULO 288.
+
+Cuando la confesión judicial se haga durante la secuela del juicio ordinario, cesará éste si el actor lo pidiere y procederá la vía ejecutiva.
+
+Si la confesión sólo afecta a una parte de lo demandado, procederá la vía ejecutiva por lo reconocido si el actor lo pidiere así.
+
+###### ARTICULO 289.
+
+Si el título ejecutivo contiene obligaciones recíprocas, la parte que solicite la ejecución, al presentar la demanda hará la consignación de las prestaciones debidas al demandado o comprobará fehacientemente haber cumplido con su obligación.
+
+Si el título ejecutivo o las diligencias preparatorias determinan una cantidad líquida en parte e ilíquida en otra, por aquélla se decretará la ejecución, reservándose por el resto los derechos del promovente.
+
+###### ARTICULO 290.
+
+El contrato de compraventa concertado bajo condición resolutoria, da lugar al juicio ejecutivo, para que el vendedor rescate la cosa vendida si consigna las prestaciones recibidas del comprador, con la reducción correspondiente al demérito de la cosa, calculada en el contrato o a juicio de perito o para que el comprador recupere el precio o la parte que hubiere enterado, más la cantidad que resulte de aplicar el interés pactado y en defecto de éste el legal, consignando lo que a su vez hubiere recibido.
+
+###### ARTICULO 291.
+
+Procede también la acción ejecutiva para recuperar bajo las mismas condiciones indicadas en el primer supuesto del artículo anterior, el bien que se enajenó con reserva de dominio hasta la total solución del precio.
+
+###### ARTICULO 292.
+
+Para que proceda en la vía ejecutiva las acciones a que se refieren los tres artículos que preceden, se necesita que los contratos se hayan inscrito en el Registro Público.
+
+###### ARTICULO 293.
+
+Las obligaciones sujetas a condición suspensiva o a plazo, no serán ejecutivas sino cuando aquélla o éste se hayan cumplido, salvo lo dispuesto por los artículos 1318 y 1332 del Código Civil.
+
+###### ARTICULO 294.
+
+Admitida la demanda en esta vía, se ordenará requerir al deudor para que cumpla con la obligación, tomando en cuenta la clase de la misma y de acuerdo con los siguientes artículos.
+
+###### ARTICULO 295.
+
+Si la demanda fuere por cantidad líquida, se requerirá al obligado por el pago inmediato y no haciéndolo en el momento de la diligencia, se le embargarán bienes de su propiedad para cubrir lo reclamado y sus costas, salvo que se haya practicado el embargo con el carácter de provisional, pues entonces, éste quedará como definitivo.
+
+###### ARTICULO 296.
+
+Cuando el título ejecutivo contenga la obligación de entregar cosas que sin ser dinero haya que contarlas, pesarlas o medirlas, se observarán las reglas siguientes:
+
+I.- Si no se designa la calidad de la cosa y existieren de varias clases en poder del deudor, se elegirán las de mediana calidad;
+
+II.- Si hubiere solo calidades diferentes a la estipulada, se ejecutará sobre lo que elija el actor, sin perjuicio de que en la sentencia definitiva se hagan los abonos recíprocos correspondientes; y
+
+III.- Si no hubiere en poder del demandado de ninguna calidad, se despachará ejecución por la cantidad de dinero que prudentemente modere el juez de la señalada por el actor, de acuerdo con los precios corrientes en plaza, sin menoscabo de los que señale por daños y perjuicios, moderables también.
+
+###### ARTICULO 297.
+
+Cuando la acción ejecutiva se ejercita sobre cosa cierta y determinada o en especie, si hecho el requerimiento de entrega, el demandado no lo hace, se pondrá en secuestro judicial
+
+Si la cosa ya no existe se procederá en los términos de la fracción III del artículo anterior.
+
+###### ARTICULO 298.
+
+Si la cosa especificada se halla en poder de un tercero, la acción ejecutiva no podrá ejercitarse contra éste, sino en los casos siguientes:
+
+I.- Cuando la acción sea real; y
+
+II.- Cuando se haya declarado judicialmente que la enajenación o lo que adquirió el tercero está en los casos de los artículos 1536 y 1541 del Código Civil, y los demás preceptos en que expresamente se establezca esa responsabilidad.
+
+###### ARTICULO 299.
+
+Si el título ejecutivo contiene obligaciones de hacer, se observarán las reglas siguientes:
+
+I.- Si el actor exige la prestación del hecho por el obligado o por un tercero conforme al artículo 1437 del Código Civil, el Juez, atendidas las circunstancias del hecho, señalará un término para que se cumpla la obligación.
+
+II.- Si en el contrato se estableció alguna pena, por el importe de ésta se decretará ejecución;
+
+III.- Si no se fijó la pena, el importe de los daños y perjuicios será fijado por el actor cuando transcurrido el plazo para la prestación del hecho por el obligado mismo, el demandante optare por el resarcimiento de aquéllos; en este caso el Juez debe moderar prudentemente la cantidad señalada; y
+
+IV.- Hecho el acto por el tercero o efectuado el embargo por los daños y perjuicios o la pena, puede oponerse el demandado de la misma manera que en las demás ejecuciones.
+
+###### ARTICULO 300.
+
+La ejecución se suspenderá cuando el demandado presente certificado legalmente expedido en que conste que se encuentra declarado su estado de quiebra, concurso o suspensión de pago.
+
+También suspenderá la ejecución cuando el deudor consigne la cantidad reclamada para evitar los gastos y molestias del embargo reservándose el derecho de oponerse y la cantidad se depositará conforme a la ley; si no fuere suficiente para cubrir la deuda principal y las costas, se practicará el embargo por lo que falte.
+
+Cualquier defensa que se alegue o recurso que se interponga, solo se hará constar en la diligencia.
+
+###### ARTICULO 301.
+
+En el mismo auto de admisión se mandará emplazar al ejecutado para que dentro de cinco días concurra a oponerse a su ejecución, si para ello tuviere excepciones que hacer valer.
+
+###### ARTICULO 302.
+
+En los escritos de demanda o contestación deberán ofrecerse las pruebas pertinentes, las que se admitirán y desahogarán en su caso, dentro de los quince días.
+
+###### ARTICULO 303.
+
+Si el demandado no se opusiere a la ejecución o concluida la dilación probatoria en su caso, se citará a las partes para oír sentencia.
+
+###### ARTICULO 304.
+
+La sentencia debe declarar si ha procedido o no la vía ejecutiva, decidiendo también los derechos controvertidos y si procede o no, en su caso, hacer remate de los bienes embargados y pago al acreedor.
+
+Si la sentencia declarase que no procede el juicio ejecutivo, reservará al actor sus derechos para que los ejercite en la vía y forma que corresponda.
+
+###### ARTICULO 305.
+
+En lo no previsto, se aplicarán las normas del juicio ordinario en lo conducente.
+
+### CAPITULO II. HIPOTECARIO
+
+###### ARTICULO 306.
+
+Se tramitará en la vía especial hipotecaria, todo juicio que tenga por objeto la constitución, ampliación o división y registro de una hipoteca, así como su cancelación, o bien el pago o prelación del crédito que la hipoteca garantice.
+
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas del presente capítulo, es requisito indispensable que el crédito conste en escritura debidamente registrada y que sea de plazo cumplido o que deba anticiparse conforme a lo previsto en los artículos 1332 y 2278 del Código Civil.
+
+###### ARTICULO 307.
+
+Cuando se entable juicio entre los que contrataron la hipoteca, procederá la vía hipotecaria si necesidad del requisito del registro, siendo siempre condición indispensable para inscribir la cédula, que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen a favor de tercero
+
+###### ARTICULO 308.
+
+Presentada la demanda con el instrumento respectivo, el Juez, si encuentra que se reúnen los requisitos señalados en los artículos anteriores, dispondrá la expedición, fijación y registro de la cédula hipotecaria y el emplazamiento del deudor para que conteste la demanda dentro de cinco días, continuando el juicio con sujeción a las demás reglas del juicio ejecutivo civil, siendo improcedente la reconvención.
+
+###### ARTICULO 309.
+
+El demandado podrá alegar todas las excepciones que tuviere, pero las de pago de capital o réditos, las de compensación y novación solo podrán probarse con confesión judicial o con documental.
+
+###### ARTICULO 310.
+
+Si en el título con que se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios anteriores, el Juez mandará notificarles la cédula hipotecaria para que hagan valer sus derechos conforme a la Ley.
+
+Si comenzado el juicio se presenta alguno o algunos acreedores hipotecarios, se procederá como está previsto para las tercerías en este código.
+
+###### ARTICULO 311.
+
+La cédula hipotecaria contendrá una relación sucinta de la escritura y concluirá en estos términos: "en virtud de las constancias que preceden queda sujeta la finca.... de la propiedad de .... a juicio hipotecario, lo que se hace saber a las autoridades y al público para que no se practiquen en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por le C. (aquí el nombre del actor)".
+
+###### ARTICULO 312.
+
+La cédula hipotecaria se fijará en los estrados del juzgado y en un lugar visible de la finca; y se inscribirá en el Registro Público de la Propiedad correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de aquélla. Una copia quedará en el registro y la otra, ya registrada, se agregará a los autos.
+
+###### ARTICULO 313.
+
+La fijación de la cédula hipotecaria, produce también efecto de secuestro judicial y se regirá por las disposiciones relativas de este código
+
+###### ARTICULO 314.
+
+Expedida la cédula hipotecaria, no podrá verificarse en la finca hipotecada ninguno de los actos en ella expresados, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la demanda que ha motivado la expedición de la cédula o de la providencia dictada a petición de acreedor de mejor derecho
+
+###### ARTICULO 315.
+
+Desde el día del emplazamiento, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y todos los objetos que con arreglo a la escritura y conforme al Código Civil deban considerarse como inmuebles y formando parte de la misma finca, de los cuales se realizará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
+
+###### ARTICULO 316.
+
+El secuestro de la finca hipotecada se regirá por las disposiciones de los embargos, debiendo quedar el deudor en posesión de la finca cuando habite en ella en calidad de depositario.
+
+###### ARTICULO 317.
+
+El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
+
+###### ARTICULO 318.
+
+La sentencia debe declarar si procede o no la vía hipotecaria y si ha lugar al remate de los bienes sujetos a cédula. Si decida que no procede la vía, reservará al actor sus derechos para que los haga valer en la forma correspondiente, mandará desde luego retirar y cancelar la cédula hipotecaria, y en su caso, que se devuelva la finca al demandado, ordenando al depositario que rinda cuentas en un término que no exceda de treinta días.
+
+### CAPITULO III. DESAHUCIO
+
+###### ARTICULO 319.
+
+El juicio de desahucio, procede cuando se funda en la falta de pago de:
+
+I.- Tres o más mensualidades si se trata de casa-habitación;
+
+II.- Dos o más mensualidades en los casos de arrendamiento para comercio o industria; y
+
+III.- Una o más pensiones en el caso de arrendamiento de predio rústico.
+
+###### ARTICULO 320.
+
+Presentada la demanda con el contrato de arrendamiento o con la justificación de su existencia, el Juez dictará auto, mandando requerir al arrendatario para que en el acto de la diligencia acredite estar al corriente en el pago de las rentas y no haciéndolo, se le emplazará para que dentro del término de cinco días ocurra a oponer las excepciones que se permiten en este capítulo, siendo improcedente la reconvención.
+
+###### ARTICULO 321.
+
+Si en el acto de la diligencia se exhibiere el importe, se justificare con los recibos correspondientes haber hecho el pago, o presentare copia sellada por un Juzgado de escritos de ofrecimiento de pago a los que se hubiere acompañado los certificados de depósito de la pensiones reclamadas, se suspenderá la diligencia levantándose constancia de esta circunstancia, se agregarán a autos los justificantes y se dará cuenta al Juez.
+
+###### ARTICULO 322.
+
+En los casos que se señalan en el artículo anterior, el Juez deberá proceder de oficio conforme a las siguientes reglas:
+
+I.- Si se exhibiere el importe, se mandará entregar al actor sin más trámite y se dará por terminado el juicio;
+
+II.- En el caso de la presentación de recibos de pago, se dará vista al actor por tres días y si no lo objeta, se dará por concluido el juicio. En caso contrario, se seguirá éste; y
+
+III.- Si se exhibieren copias de escritos de ofrecimiento de pago, acompañando en ellos el documento que ampare el depósito, se pedirán los originales por oficio al juzgado en que se encuentren, así como los certificados y recibidos éstos se entregarán al arrendador previo recibo correspondiente y se dará por terminado el juicio.
+
+En cualquiera de los casos en que conforme a este artículo se dé por terminado el juicio, no habrá lugar a condenación en costas.
+
+###### ARTICULO 323.
+
+Solo serán admisibles las excepciones previstas por los artículos 1803 y 1817 del Código Civil y la de pago, siempre y cuando se opongan ofreciendo pruebas de lo que se dará vista al actor, citándolos para la audiencia de pruebas dentro de los ocho días siguientes. Celebrada la audiencia, o si no se opusieren excepciones conforme a lo aquí previsto, se dictará sentencia.
+
+###### ARTICULO 324.
+
+Si ésta es condenatoria, se mandará prevenir al demandado desocupe la localidad dentro de los treinta, sesenta o noventa días siguientes si fuere habitación, giro mercantil o comercial, o predio rústico, respectivamente, apercibido de lanzamiento a su costa si no lo efectuare
+
+###### ARTICULO 325.
+
+En cualquier estado del juicio hasta antes que cause ejecutoria la resolución de desahucio, podrá el demandado evitar el lanzamiento, pagando las pensiones reclamadas, las que se hubieren causado hasta el momento de hacer el pago, más gastos y costas del juicio.
+
+###### ARTICULO 326.
+
+Si el demandado no desocupa el local, dentro del término señalado en la sentencia, se aplicarán las siguientes disposiciones:
+
+I.- Se efectuará el lanzamiento pudiéndose romper las cerraduras si fuere necesario;
+
+II.- Los muebles y objetos que se encuentren en lo (sic) localidad o fincas arrendadas, se entregarán al demandado, a sus familiares o a personas autorizadas para recibirlos y en caso de no encontrarse en ese lugar, tales personas, se remitirán a la autoridad municipal, dejándose constancia de la diligencia en las actuaciones, con inventario pormenorizado de esos bienes.
+
+Si al ejecutarse el lanzamiento, el inquilino, su esposa o alguno de sus hijos se encontrare gravemente enfermo, el actuario suspenderá la diligencia dando cuenta al Juez para que éste obre prudencialmente e igual juicio seguirá cuando en el inmueble cuyo desahucio va a efectuarse, no se hallaren en el acto el jefe de la familia o persona que haga sus veces y dentro hubiera niños o personas inválidas; y
+
+III.- Al ejecutarse el lanzamiento, podrán embargarse bienes suficientes para cubrir las pensiones reclamadas y las que se hayan causado hasta la ejecución de la sentencia, así como las costas y gastos, observándose las disposiciones que sobre aseguramiento y ejecución de sentencia establece este código.
+
+###### ARTICULO 327.
+
+Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la finca o departamento de cuya desocupación se trata.
+
+### CAPITULO IV. SUMARISIMO
+
+###### ARTICULO 328.
+
+Los juicios que se intenten para retener o recuperar la posesión interina de un bien o derechos paterno-filiales, o tomar las medidas necesarias para evitar un daño, se tramitarán conforme al presente capítulo
+
+###### ARTICULO 329.
+
+Al perturbado o despojado ilegalmente de la posesión en los supuestos del artículo anterior, le compete acción para mantenerla o recuperarla en contra de quien ha ejecutado, mandado ejecutar o esté ejecutando los actos constitutivos de la perturbación o despojo y será procedente aún entre comuneros, siempre que se compruebe de parte del accionante, que su posesión ha sido con exclusión de sus demás copartícipes en la propiedad de la cosa común.
+
+Cuando se trate de la posesión de estado de hijos menores de siete años, éstos deberán permanecer al lado de su madre, salvo que ésta realice actos inmorales que tiendan a la corrupción de aquéllos o tenga hábito de embriaguez o el uso indebido y persistente de drogas enervantes que amenacen causar la ruina de sus hijos.
+
+###### ARTICULO 330.
+
+Las acciones referidas en el precepto inmediato anterior, no pueden ser:
+
+I.- Ejercitadas después de un año de los actos constitutivos de la perturbación o desposesión ni por el que ha sido vencido en juicio plenario o ha obtenido la posesión de su contrario por fuerza, clandestinamente o a ruego; y
+
+II.- Acumuladas a los juicios plenarios o para reclamar cuestiones que sean materia de éstos, consecuentemente, no se admitirán pruebas sobre la propiedad o posesión definitiva, sino solo las que versen sobre los hechos de la posesión interina y de la perturbación o despojo.
+
+###### ARTICULO 331.
+
+El objeto de las mismas acciones es poner término a la perturbación o reponer al despojado en la posesión, se le indemnice de los daños y perjuicios, que el demandado afiance su abstención y sea conminado con multa o arresto para el caso de reincidencia.
+
+###### ARTICULO 332.
+
+Todas las excepciones y defensas que se opongan e incidentes que se susciten, cualquiera que sea su naturaleza, serán resueltos en sentencia, y no se admitirá la reconvención.
+
+El vencido en este juicio, después puede hacer uso del plenario si es que aún no lo hubiere intentado.
+
+###### ARTICULO 333.
+
+Al poseedor de predio o quien tenga derecho real sobre él compete la acción para suspender la conclusión de una obra perjudicial a sus posesiones, su demolición o modificación, en su caso, y la restitución de las cosas al estado anterior a la obra nueva. Compete también al vecino del lugar, cuando la obra nueva se construya en bienes de uso común.
+
+Se da contra quien la mandó construir, sea poseedor o detentador de la heredad donde se construye.
+
+Para los efectos de esta acción por obra nueva, se entiende no solo la construcción de nueva planta, sino también la que se realiza sobre edificio antiguo, añadiéndole, quitándole o dándole una forma distinta.
+
+El Juez que conozca del negocio podrá, mediante garantía que otorgue el actor para responder de los daños y perjuicios que se causen al demandado, ordenar la suspensión de la construcción hasta que el juicio se resuelva
+
+La suspensión quedará sin efecto si el propietario de la obra nueva da, a su vez, contragarantía bastante para restituir las cosas al estado que guardaban antes y pagar los daños y perjuicios que sobrevengan al actor, en caso que se declare procedente su acción, salvo que la restitución se haga físicamente imposible con la conclusión de la obra o, con ésta, se siga perjuicio al interés social o se contravengan disposiciones de orden público.
+
+###### ARTICULO 334.
+
+La acción de obra peligrosa se da al poseedor jurídico o derivado de una propiedad contigua o cercana que pueda resentirse o padecer por la ruina o derrumbe de la otra, caída de un árbol u otro objeto análogo, y su finalidad es adoptar medidas urgentes para evitar los riesgos que ofrezcan el mal estado de los objetos referidos; obtener la demolición total o parcial de la obra o la destrucción de objeto peligroso. Compete la misma acción a quienes tengan derecho privado o público de paso por las inmediaciones de la obra, árbol u otro objeto peligroso.
+
+El juez que conozca del negocio podrá, mediante garantía que otorgue el actor para responder de los daños y perjuicios que se causen al demandado, ordenar desde luego y sin esperar la sentencia, que éste suspenda la obra o realice las obras indispensables para evitar daños al actor.
+
+###### ARTICULO 335.
+
+Recibida la demanda, se ordenará emplazar al demandado, para que dentro de tres días produzca contestación y oponga excepciones y defensas si las hubiere, y se fijará día y hora dentro de un término inferior a quince días, para la audiencia de pruebas.
+
+Las pruebas deberán ser ofrecidas en los escritos de demanda y contestación, admitidas o desechadas en los acuerdos que a cada uno de dichos escritos recaiga, y desahogadas, las que fueren admitidas, en la audiencia que concluirá con citación para sentencia, que se pronunciará dentro del término de Ley y será apelable en el efecto devolutivo
+
+### CAPITULO V. RESPONSABILIDAD DE JUECES Y MAGISTRADOS
+
+###### ARTICULO 336.
+
+La responsabilidad civil en que puedan incurrir jueces y magistrados cuando en el desempeño de sus cargos infrinjan las leyes por negligencia, ignorancia inexcusable, arbitrariedad o mala fe, solamente podrá exigirse a petición de la parte que se considere perjudicada o de sus causahabientes, en juicio que se tramitará en única instancia conforme a las siguientes reglas:
+
+I.- Sólo podrá promoverse hasta que quede terminado por sentencia o auto firmes el juicio en que se suponga causada la responsabilidad;
+
+II.- Será improcedente cuando no se presente dentro del año siguiente al día en que hubiere quedado firme la sentencia o auto que puso término al juicio, o cuando el que la promueva no haya utilizado en tiempo los recursos legales ordinarios contra la resolución en que se suponga generada la responsabilidad;
+
+III.- Del dirigido contra jueces menores y de primera instancia conocerá la sala del ramo si fuere apelable la sentencia pronunciada en el juicio en que se estime se haya originado la responsabilidad y del que se intente contra los magistrados el Pleno del Tribunal Superior de Justicia;
+
+IV.- A la demanda se acompañará certificado o testimonio que contenga:
+
+a).- La resolución en que se suponga causada la responsabilidad;
+
+b).- Las actuaciones que en concepto de la parte interesada conduzcan a demostrar la infracción de la ley o del trámite o solemnidad inobservado y la constancia de que oportunamente se interpusieron los medios de impugnación procedentes; y
+
+c).- La sentencia o auto firmes que hayan puesto término al juicio.
+
+V.- Se sustanciará en los términos del artículo anterior, con la salvedad de que la sentencia que se pronuncie será irrecurrible; y
+
+VI.- Si en ésta se condena a pagar la responsabilidad, determinará la cantidad con que deba ser indemnizada la parte reclamante por los daños y perjuicios que hubiere sufrido, pero en ningún caso alterará la resolución firme que haya recaído en el juicio en que se hubiere ocasionado aquélla. Si fuera absolutoria, en la misma se condenará en costas al demandante y se le impondrá una multa hasta de veinte días de salario.
+
+### CAPITULO VI
+
+#### SECCION PRIMERA. EJECUCION FORZOSA
+
+###### ARTICULO 337.
+
+Procede la ejecución forzosa a instancia de parte, siempre que se trate de exigir el cumplimiento de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido a éste por cualquier motivo que sea.
+
+Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y los laudos emitidos por dicha dependencia e incluso, sentencias penales entratándose de la reparación de daños provenientes de delito.
+
+###### ARTICULO 338.
+
+La ejecución de sentencia irrevocable o que deba llevarse adelante por estar otorgada la fianza correspondiente, se hará por el Juez que hubiere conocido del negocio en primera instancia.
+
+La de los convenios celebrados en juicio se hará por el que conozca del negocio en que tuvieron lugar.
+
+Los convenios celebrados ante la Procuraduría Federal del Consumidor y de los laudos dictados por ésta, se hará por el Juez competente designado por las partes, en su defecto por el juez del lugar del juicio y si hubiere varios, por turno.
+
+Las transacciones o los convenios que se celebren en segunda instancia, serán ejecutados por el Juez que conoció en la primera, a cuyo efecto el superior remitirá los autos al inferior, acompañándole testimonio del convenio.
+
+Cuando por cualquier circunstancia no pueda llevarse a cabo la ejecución por los jueces mencionados en este precepto, lo hará el sustituto.
+
+###### ARTICULO 339.
+
+Antes de proceder a la ejecución forzosa, el Juez señalará al que deba de cumplirla, el término improrrogable de cinco días para el efecto, si en ella no se hubiere fijado alguno para ese fin.
+
+###### ARTICULO 340.
+
+Si la sentencia condenare al pago de cantidad líquida, se procederá al embargo de bienes en los términos prevenidos en la siguiente sección.
+
+###### ARTICULO 341.
+
+Solo hasta después de asegurados los bienes por medio del secuestro, podrán tener efecto los términos de gracia concedidos por el Juez o por la Ley.
+
+###### ARTICULO 342.
+
+Si la sentencia contuviere condena al pago de cantidad líquida y de otra ilíquida, a criterio del Juez podrá procederse a hacer efectiva la primera, sin esperar a que se liquide la segunda.
+
+###### ARTICULO 343.
+
+Si la sentencia no contiene en su condena cantidad líquida, la parte a cuyo favor se pronunció, al promover la ejecución presentará su liquidación incidentalmente.
+
+###### ARTICULO 344.
+
+Si la sentencia condena a hacer alguna cosa, el Juez señalará al que fue condenado un plazo prudente para el cumplimiento, atendidas las circunstancias del hecho y de las personas.
+
+Si pasado el plazo el obligado no cumpliere, se observarán las reglas siguientes:
+
+I.- Si el hecho fuere personal del obligado y no pudiere prestarse por otro, se le compelerá empleando los medios de apremio más eficaces, sin perjuicio del derecho para exigirle la responsabilidad civil;
+
+II.- Si el hecho pudiere prestarse por otro, el Juez nombrará persona que lo ejecute a costa del obligado en el término que le fije; y
+
+III.- Si el hecho consiste en el otorgamiento de algún instrumento o la celebración de un acto jurídico, el Juez lo ejecutará por el obligado expresándose en el documento que se otorgó en rebeldía.
+
+###### ARTICULO 345.
+
+Si el ejecutante optare, en cualquiera de los casos enumerados en el artículo anterior, por el resarcimiento de daños y perjuicios, el Juez oyendo incidentalmente a las partes resolverá lo conducente. En caso que proceda, determinará la forma y cuantía de la restitución.
+
+###### ARTICULO 346.
+
+Cuando la sentencia condene a rendir cuentas, el Juez señalará un término prudente al obligado para que lo haga.
+
+###### ARTICULO 347.
+
+El obligado, en el término que se le fije, rendirá sus cuentas presentando los documentos que tenga en su poder y los que el acreedor tenga en el suyo y que debe presentar poniéndolos a la disposición del deudor en la secretaría. Solo podrá prorrogarse una vez y por causa grave a juicio del Tribunal.
+
+Las cuentas deben contener un preámbulo con la exposición sucinta de los hechos que dieron lugar a la gestión y a la resolución judicial que ordena la rendición de cuentas, la indicación de las sumas recibidas y gastadas y el balance de las entradas y salidas, acompañándose de los documentos justificativos.
+
+###### ARTICULO 348.
+
+Si el deudor presenta sus cuentas en el término señalado, quedarán éstas por tres días a la vista de las partes en el Tribunal y dentro del mismo tiempo harán sus objeciones determinando las partidas no consentidas.
+
+La impugnación de algunas partidas no impide que se despache ejecución a solicitud de parte respecto de aquellas cantidades que confiese tener en su poder el deudor, sin perjuicio de que se substancien en la misma forma que los incidentes para liquidación de sentencias las oposiciones a las partidas objetadas.
+
+###### ARTICULO 349.
+
+Si el obligado no rindiere cuentas en el plazo que se le señaló, puede el actor pedir que se despache ejecución contra el deudor si durante el juicio comprobó que éste tuviera ingresos. El obligado puede impugnar el monto de la ejecución, substanciándose el incidente en la misma forma a que se refiere el artículo anterior.
+
+En el mismo caso, podrá el acreedor pedir al Juez que, en vez del obligado, preste el hecho un tercero que el Tribunal nombre al efecto.
+
+###### ARTICULO 350.
+
+Cuando la sentencia condene a dividir una cosa común y no dé las bases para ello, se convocará a los interesados a una junta, para que en la presencia judicial las determinen o nombren un partidor, y si no se pusieren de acuerdo en una u otra cosa, el Juez designará a persona que haga la partición y que sea perito en la materia si fuere menester conocimientos especiales. Señalará a éste el término prudente para que presente el proyecto partitorio.
+
+Presentado el plan de partición, quedará en la Secretaría a la vista de los interesados por tres días comunes, para que formulen las objeciones dentro de ese mismo tiempo y de las que se correrá traslado al partidor y se substanciarán en la misma forma que los incidentes de liquidación de sentencia. El Juez, al resolver, mandará hacer las adjudicaciones.
+
+###### ARTICULO 351.
+
+Si la sentencia condena a no hacer, su infracción se resolverá en el pago de daños y perjuicios al actor, quien tendrá el derecho de señalarlos para que de ellos se despache ejecución, independientemente de la pena que se hubiere fijado.
+
+###### ARTICULO 352.
+
+Cuando en virtud de la sentencia o de la determinación del Juez deba entregarse alguna cosa inmueble, se procederá inmediatamente a poner en posesión de la misma a la persona en cuyo favor se haya resuelto, practicando a este fin todas las diligencias conducentes que solicite el interesado.
+
+Si la cosa fuere mueble y pudiere ser habida, se le mandará entregar al actor o al interesado que indicare la resolución. Si el obligado se resistiere, lo hará el ejecutor, quien podrá emplear el uso de la fuerza pública y aún mandar romper cerraduras.
+
+En caso de no poderse entregar los bienes señalados en la sentencia, se despachará la ejecución por la cantidad que señale el actor, que puede ser moderada prudentemente por el Juez, sin perjuicio de que se oponga al monto el deudor.
+
+Tratándose de las sentencias a que se refiere la fracción VIII del artículo 68, solo procederá el lanzamiento, treinta días después de haberse notificado personalmente el auto de ejecución a quien haya de lanzarse.
+
+###### ARTICULO 353.
+
+Cuando la sentencia ordene la entrega de personas, el Juez dictará las disposiciones más conducentes para que no quede incumplido el fallo.
+
+###### ARTICULO 354.
+
+Todos los gastos y costas que se originen en la ejecución de una sentencia, serán a cargo del que fue condenado en ella.
+
+###### ARTICULO 355.
+
+La acción para pedir la ejecución, durará diez años contados desde el día en que se venció el término judicial para el cumplimiento voluntario.
+
+###### ARTICULO 356.
+
+Contra la ejecución de las sentencias y convenios judiciales, no se admitirá más excepción que la de pago, si la ejecución se pide dentro de ciento ochenta días; pasado este término, pero no más de un año, se admitirán, además, las de transacción, compensación y compromiso en árbitros; y transcurridos más de un año, serán admisibles también las de novación, espera, quita, pacto de no pedir y cualquier otro arreglo que modifique la obligación, y la de falsedad del instrumento, siempre que la ejecución no se pida en virtud de ejecutoria o convenio que conste en autos. Todas estas excepciones, sin comprender la de falsedad, deberán constar en instrumento público o documento privado judicialmente reconocido o por confesión judicial y se substanciarán en forma de incidente, con suspensión de la ejecución, sin proceder ésta cuando se promueva en la demanda respectiva el reconocimiento o la confesión.
+
+###### ARTICULO 357.
+
+Los términos fijados en el artículo anterior se contarán desde la fecha de la sentencia o convenio; a no ser que en ellos se fije el plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo o desde que pudo exigirse la última prestación vencida si se tratare de prestaciones periódicas.
+
+#### SECCION SEGUNDA. EMBARGOS
+
+###### ARTICULO 358.
+
+Pasado el plazo del artículo 339 sin haberse cumplido la sentencia, se procederá al embargo en los casos a que haya lugar.
+
+###### ARTICULO 359.
+
+Decretado el auto de ejecución, el cual tendrá fuerza de mandamiento en forma, el actuario requerirá de pago al deudor, y no verificándolo éste en el acto, se procederá a embargar bienes suficientes a cubrir las prestaciones demandadas si se tratare de juicio ejecutivo o las fijadas en la sentencia. El actor podrá asistir a la práctica de la diligencia.
+
+###### ARTICULO 360.
+
+Si el deudor no fuere encontrado en su domicilio, se le dejará citatorio para hora fija, dentro de las veinticuatro horas siguientes y si no espera, se practicará la diligencia con cualquier persona que se encuentre en la casa o a falta de ella con el vecino inmediato.
+
+Si no se supiere el paradero del deudor, ni tuviere casa en el lugar, se hará el requerimiento por tres días consecutivos en el boletín judicial y se fijará cédula en los lugares públicos de costumbre. Verificado por cualquiera de los modos indicados el requerimiento, se procederá enseguida al embargo.
+
+###### ARTICULO 361.
+
+El derecho de designar los bienes que han de embargarse, corresponde al deudor y solo podrá ejercerlo el actor o su representante en cualquiera de los siguientes casos:
+
+I.- Si estuviere convenido;
+
+II.- Si los señalados por éste no fueren bastantes;
+
+III.- Si el deudor se rehusare a hacerlo o estuviera ausente; y
+
+IV.- Si los bienes estuvieren en diversos lugares.
+
+###### ARTICULO 362.
+
+El embargo solo subsiste en cuanto que los bienes objetos de él, basten a cubrir la suerte principal y costas, incluidos los nuevos vencimientos y réditos hasta la total solución, a menos que la Ley disponga expresamente lo contrario.
+
+###### ARTICULO 363.
+
+Cualquier dificultad suscitada en la diligencia de embargo, no la impedirá ni suspenderá; el actuario la allanará prudentemente, a reserva de lo que determine el Juez.
+
+###### ARTICULO 364.
+
+Si los bienes embargados fueren dinero, sueldos, pensiones o créditos realizables en el acto, se hará el pago al acreedor inmediatamente después del embargo, a menos que el señalamiento se haya hecho a resultas del juicio antes de sentencia.
+
+###### ARTICULO 365.
+
+Podrá pedirse la ampliación del embargo:
+
+I.- En cualquier caso en que a juicio del Juez no basten los bienes secuestrados para cubrir la deuda y las costas;
+
+II.- Cuando no se embarguen bienes suficientes por no tenerlos el deudor y después aparecen o los adquiere; y
+
+III.- En los casos de tercería, conforme a lo dispuesto en el título tercero de este libro.
+
+###### ARTICULO 366.
+
+De todo secuestro se tendrá como depositario a la persona que nombre el acreedor, bajo su responsabilidad, mediante formal inventario.
+
+Se exceptúan de lo dispuesto en este precepto:
+
+I.- El embargo de dinero o de créditos fácilmente realizables, que se efectúe en virtud de sentencia ejecutoriada, porque entonces se hace entrega inmediata al actor en pago; en cualquier otro caso, el depósito se hará en el fondo auxiliar del Tribunal Superior de Justicia del Estado y el comprobante se conservará en el secreto del Juzgado;
+
+II.- El secuestro de bienes que han sido objeto de embargo judicial anterior, en cuyo caso el depositario primero en tiempo lo será respecto de todos los embargos subsecuentes mientras subsista, a no ser que el reembargo sea por virtud de cédula hipotecaria, derecho de prenda u otro privilegio real; porque entonces éste prevalecerá; y
+
+III.- El secuestro de alhajas y demás muebles preciosos que se hará depositándolos en la institución autorizada al efecto por la Ley o en monte de piedad.
+
+###### ARTICULO 367.
+
+Quedan exceptuados de embargo:
+
+I.- Los bienes que constituyen el patrimonio de familia desde su inscripción en el Registro Público de la Propiedad, en los términos establecidos por el Código Civil;
+
+II.- El lecho cotidiano, los vestidos y los muebles de uso ordinario del deudor, de su cónyuge o de sus hijos, no siendo de lujo, a juicio del Juez;
+
+III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
+
+IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola, en cuanto fueren necesarios para el servicio de la finca a que estén destinados, a juicio del Juez, a cuyo efecto oirá el informe de un perito nombrado por él;
+
+V.- Los libros, aparatos, instrumentos y útiles de las personas que ejerzan o se dediquen al estudio de profesiones liberales;
+
+VI.- Los efectos, maquinaria e instrumentos propios para el fomento y giro de las negociaciones mercantiles o industriales, en cuanto fueren necesarias para su servicio y movimiento, a juicio del Juez, a cuyo efecto oirá el dictamen de un perito nombrado por él, pero podrán ser intervenidos juntamente con la negociación a que estén destinados;
+
+VII.- Las mieses antes de ser cosechadas, pero no los derechos sobre las siembras; el cincuenta por ciento de los créditos que resultaren a favor de ejidatarios, comuneros o campesinos, con motivo de la liquidación de sus cosechas agrícolas;
+
+VIII.- El derecho de usufructo, pero no los frutos de éste:
+
+IX.- Los derechos de uso y habitación;
+
+X.- Las servidumbres, a no ser que se embargue en el fundo a cuyo favor están constituidas, excepto la de aguas, que es embargable independientemente;
+
+XI.- La renta vitalicia, en los términos establecidos en los artículos 2156 y 2158 del Código Civil;
+
+XII.- Los sueldos y el salario de los trabajadores en los términos que establece la Ley Federal del Trabajo, siempre que no se trate de deudas alimenticias; y
+
+XIII.- Las asignaciones a los pensionados del erario o de particulares.
+
+###### ARTICULO 368.
+
+De todo embargo de bienes raíces se tomará razón en el Registro Público de la Propiedad, librándose al efecto, por duplicado, copia certificada de la diligencia de embargo; uno de los ejemplares, después del registro, se unirá a los autos y el otro quedará en la expresada oficina.
+
+###### ARTICULO 369.
+
+Cuando se aseguren créditos, el secuestro se reducirá a notificar al deudor o a quien deba pagarlos que no verifique el pago, sino que retenga la cantidad o cantidades correspondientes, a disposición del Juzgado, apercibido de doble pago en caso de desobediencia y al acreedor contra quien se haya dictado el secuestro, que no disponga de esos créditos, bajo las penas que señala el Código Penal. Si llegare a asegurarse el título mismo del crédito, se nombrará un depositario que lo conserve en guarda, quien tendrá obligación de hacer todo lo necesario para que no se altere ni menoscabe el derecho que el título represente, y de intentar todas las acciones y recursos que la Ley conceda para hacer efectivo el crédito quedando sujeto, además, a las obligaciones que establece para el depósito y secuestro el Código Civil.
+
+###### ARTICULO 370.
+
+Si los créditos a que se refiere el artículo anterior fueren litigiosos, la providencia de secuestro se notificará al Juez de los autos respectivos, dándole a conocer el depositario nombrado a fin de que éste pueda sin obstáculo alguno desempeñar las obligaciones que le impone la parte final del artículo anterior.
+
+###### ARTICULO 371.
+
+Recayendo el secuestro sobre bienes muebles que no sean dinero, alhajas, ni créditos, el depositario que se nombre solo tendrá el carácter de simple custodio de los objetos puestos a su cuidado, los que conservará a disposición del Juez respectivo. Si los muebles fueren fructíferos, rendirá cuentas en los términos del artículo 379 de este Código.
+
+###### ARTICULO 372.
+
+El depositario, en el caso del artículo anterior, pondrá en conocimiento del Juzgado el lugar en que quede constituido el depósito, y recabará la autorización para hacer, en caso necesario, los gastos de almacenaje. Si no pudiere el depositario hacer los gastos que demande el depósito, lo hará saber al Juez, para que éste oyendo a las partes en una junta que celebrará dentro de tres días, decrete el modo de hacer los gastos, según lo que en la junta se acordare, de no haber acuerdo, se impondrá esa obligación al que obtuvo la providencia de secuestro.
+
+###### ARTICULO 373.
+
+Si los muebles depositados, fueren cosas fungibles, el depositario tendrá, además, la obligación de imponerse del precio que en la plaza tengan los efectos confiados a su guarda, a fin de que si encuentra ocasión favorable para la venta, lo ponga desde luego en conocimiento del Juez, con objeto de que éste determine lo que fuere conveniente.
+
+###### ARTICULO 374.
+
+Si los muebles depositados fueren cosas fáciles de deteriorarse o demeritarse, el depositario deberá examinar frecuentemente su estado y poner en conocimiento del Juez el deterioro o demérito que en ellos observe o tema fundadamente que sobrevenga, a fin de que éste dicte la providencia oportuna para evitar el mal, o acuerde su venta con las mejores condiciones, en vista de los precios de plaza y el demérito que hayan sufrido o estén expuestos a sufrir los objetos secuestrados.
+
+###### ARTICULO 375.
+
+Si el secuestro recayere en finca urbana y sus rentas o sobre éstas solamente, se nombrará un administrador, con las facultades y obligaciones siguientes:
+
+I.- Podrá contratar los arrendamientos sobre la base de que las rentas no sean menores de las que al tiempo de verificarse el secuestro rindiere la finca o departamento de ésta que estuviera arrendando; para el efecto, si ignorase cual era en ese tiempo la renta, lo pondrá en conocimiento del Juez para que recabe la noticia de la oficina que corresponda. Exigirá para asegurar el arrendamiento las garantías de estilo, bajo su responsabilidad; si no quiere aceptar éstas, recabará la autorización judicial;
+
+II.- Recaudará las pensiones que por arrendamiento rinda la finca, en sus términos y plazos; procediéndose en su caso contra los inquilinos morosos, con arreglo a la ley;
+
+III.- Hará sin previa autorización los gastos ordinarios de la finca, como el pago de contribuciones y los de mera conservación, servicio de aseo, no siendo excesivo su monto, cuyos gastos incluirá en la cuenta mensual que deberá rendir;
+
+IV.- Presentará a la Oficina de Contribuciones, en tiempo oportuno las manifestaciones que la ley de la materia previene; y de no hacerlo así, serán de su responsabilidad los daños y perjuicios que su omisión origine;
+
+V.- Para hacer los gastos de reparación o de construcción ocurrirá al Juez solicitando la licencia para ello y acompañando al efecto los presupuestos respectivos; y
+
+VI.- Pagará, previa autorización judicial, los rendimientos de los gravámenes reconocidos sobre la finca.
+
+###### ARTICULO 376.
+
+Pedida la autorización a que se refiere la fracción V del artículo anterior, el Juez citará a una audiencia que se verificará dentro de tres días para que las partes en vista de los documentos que se acompañan, resuelvan de común acuerdo si se autoriza o no el gasto. No lográndose el acuerdo, el Juez dictará la resolución que corresponda.
+
+###### ARTICULO 377.
+
+Si el embargo se efectúa en una finca rústica o en una negociación mercantil o industrial, el depositario será mero interventor con cargo a la caja, vigilando la contabilidad, y tendrá las siguientes atribuciones:
+
+I.- Inspeccionará el manejo de la negociación o finca rústica en su caso, y las operaciones que en ellas respectivamente se hagan, a fin de que produzcan el mejor rendimiento posible;
+
+II.- Vigilará en las fincas rústicas la recolección de los frutos y su venta, y recogerá el producto de ésta;
+
+III.- Vigilará las compras y ventas de las negociaciones mercantiles, recogiendo bajo su responsabilidad el numerario;
+
+IV.- Vigilará la compra de materia prima, su elaboración y la venta de los productos, en las negociaciones industriales, recogiendo el numerario y efectos de comercio para hacerlos efectivos en su vencimiento;
+
+V.- Ministrará los fondos para los gastos de la negociación o finca rústica y cuidará de que la inversión de esos fondos se haga convenientemente;
+
+VI.- Después de cubiertos los gastos necesarios y ordinarios, depositará el dinero que resultare sobrante, como se previene en la parte última de la fracción I del artículo 366; y
+
+VII.- Tomará provisionalmente las medidas que la prudencia aconseje para evitar los abusos y malos manejos en los administradores; dando inmediata cuenta al Juez para su ratificación y en su caso, para que determine lo conducente.
+
+###### ARTICULO 378.
+
+Si en el cumplimiento de los deberes que el artículo anterior impone al interventor, éste encontrare que la administración no se hace convenientemente, o puede perjudicar los derechos del que pidió y obtuvo el embargo, lo pondrá en conocimiento del juez, para que oyendo a las partes y al interventor, determine lo procedente.
+
+###### ARTICULO 379.
+
+Los que tengan administración o intervención presentarán al juzgado, cada mes, una cuenta de los esquilmos y demás frutos de la finca, y de los gastos erogados, no obstante cualquier recurso interpuesto en el principal.
+
+###### ARTICULO 380.
+
+El Juez, con audiencia de las partes aprobará o reprobará la cuenta mensual y determinará los fondos que deban quedar para los gastos necesarios, mandando depositar el sobrante líquido.
+
+###### ARTICULO 381.
+
+Será removido de plano el depositario en los siguientes casos:
+
+I.- Si dejare de rendir cuenta mensual o la presentada no fuere aprobada;
+
+II.- Cuando no haya manifestado su domicilio o el cambio de éste;
+
+III.- Cuando tratándose de bienes muebles no pusiere en conocimiento del Juzgado, el lugar en donde quede constituido el depósito; y
+
+IV.- Por causas graves a juicio del Juez y a petición de cualquiera de las partes.
+
+Si el removido fuere el deudor, el ejecutante nombrará nuevo depositario. Si lo fuere el acreedor o la persona por él nombrada, la nueva elección se hará por el Juez.
+
+###### ARTICULO 382.
+
+El depositario y el actor, cuando éste lo hubiere nombrado, son responsables solidariamente de los bienes embargados.
+
+#### SECCION TERCERA. REMATES
+
+###### ARTICULO 383.
+
+Si los bienes embargados no estuvieren valuados anteriormente o estándolo hubiere variado el precio por el transcurso del tiempo o por mejoras, se procederá al avalúo y venta en los términos prevenidos por este Código.
+
+###### ARTICULO 384.
+
+El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial.
+
+###### ARTICULO 385.
+
+La venta que de los bienes embargados deba llevarse a cabo, se hará de la siguiente manera:
+
+I.- Si fueren inmuebles, en subasta que deberá celebrarse en el Juzgado conforme a los siguientes preceptos; y
+
+> <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
+
+II.- Si fueren muebles se observará lo dispuesto por el artículo 412.
+
+###### ARTICULO 386.
+
+No podrá procederse al remate de bienes raíces sin que previamente se haya pedido al Registro Público de la Propiedad, certificado de libertad de gravámenes del predio y sin que se haya citado a los acreedores que aparezcan de dicho certificado; éste comprenderá los últimos diez años, pero si en autos obrare ya otro certificado, sólo se pedirá al registro el relativo al periodo transcurrido desde la fecha de aquél, hasta en la que se decrete la venta.
+
+En defecto de los datos que pueda ministrar el Registro Público de la Propiedad, recabará el Juez previamente, constancia de la Oficina Catastral respectiva para cerciorarse al menos por este medio, de que la persona contra quién se pretende fincar el remate es la misma en cuyo favor estuviere empadronada la finca de que se trata; si esto no fuere así, el remate no se llevará a efecto.
+
+###### ARTICULO 387.
+
+Si del certificado aparecieron gravámenes, se hará saber a los acreedores el estado de la ejecución para que intervengan en la subasta de los bienes, si les conviniere.
+
+La citación de los acreedores se hará personalmente en su domicilio, que deberá indicar el ejecutante si le fuere conocido; en caso contrario, se llevará a efecto en las mismas convocatorias de remate.
+
+###### ARTICULO 388.
+
+Los acreedores citados conforme al artículo anterior tendrán derecho:
+
+I.- Para intervenir en el acto del remate, pudiendo hacer al Juez las observaciones que estimen oportunas para garantizar sus derechos; y
+
+II.- Para nombrar el perito como lo previenen los artículos 190 y 191. No disfrutarán de este derecho después de practicado el avalúo o cuando la valorización conste por otros medios
+
+###### ARTICULO 389.
+
+La subasta pública se anunciará por medio de edictos que se fijarán por dos veces en los estrados del Juzgado, debiendo mediar entre una y otra publicación cuando menos siete días hábiles, y entre la última y la fecha del remate igual plazo. A petición de cualquiera de las partes y a su costa podrá usarse además algún otro medio de publicidad para convocar postores
+
+###### ARTICULO 390.
+
+Si el bien o los bienes raíces estuvieran situados en lugares distintos al del juicio, en todos ellos se publicarán los edictos en los sitios de costumbre y en los estrados de los Juzgados respectivos. En el caso a que este artículo se refiere, se ampliará el término de los edictos, concediéndose un día más por cada doscientos kilómetros o por una fracción que exceda de la mitad, y se calculará para designarlo la distancia mayor a que se hallen los bienes.
+
+###### ARTICULO 391.
+
+Es postura legal la que cubra el setenta y cinco por ciento del avalúo o del precio fijado por los contratantes
+
+###### ARTICULO 392.
+
+Para tomar parte en la subasta deberán los licitadores consignar previamente en el establecimiento destinado al efecto por la Ley, una cantidad igual por lo menos al diez por ciento del valor de los bienes que sirvan de base para el remate, sin cuyo requisito no serán admitidos.
+
+Se devolverán dichas consignaciones a sus respectivos dueños acto continuo al remate, excepto la que corresponda al mejor postor, la cual se reservará en depósito como garantía del cumplimiento de su obligación y en su caso, como parte del precio de la venta.
+
+###### ARTICULO 393.
+
+El ejecutante podrá tomar parte en la subasta y mejorar las posturas que se hicieren, sin consignar el depósito prevenido en el artículo anterior
+
+###### ARTICULO 394.
+
+El postor no puede rematar para un tercero sino con poder y cláusula especial, quedando prohibido hacer postura, reservándose la facultad de declarar después el nombre de la persona para quien se hizo.
+
+###### ARTICULO 395.
+
+Desde que se anuncie el remate y durante éste, se pondrán de manifiesto los planos que hubiere y estarán a la vista los avalúos.
+
+###### ARTICULO 396.
+
+Antes de aprobarse el remate o declararse la adjudicación, podrá el deudor liberar sus bienes pagando principal e interés y exhibiendo depósito por la cantidad que prudentemente califique el Juez, para garantizar el pago de las costas.
+
+###### ARTICULO 397.
+
+El Juez revisará escrupulosamente el expediente antes de dar inicio al remate, y decidirá de plano cualquier cuestión que se suscite durante la subasta, siendo irrecurrible su decisión a menos que la Ley disponga otra cosa.
+
+###### ARTICULO 398.
+
+El día del remate, a la hora señalada, pasará el Juez personalmente lista de los postores presentados, concederá media hora para admitir a los nuevos que pudieren presentarse y concluida, declarará que se procederá al remate y ya no se admitirán nuevos postores. Enseguida, revisará las propuestas presentadas, desechando desde luego, las que no se ajusten a la Ley.
+
+###### ARTICULO 399.
+
+Calificadas de buenas las posturas se leerán en voz alta, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, el Juez decidirá como preferente la más alta.
+
+Hecha la declaración de la postura considerada preferente, el Juez preguntará si alguno de los licitadores la mejora. En caso de que alguno la mejore dentro de los cinco minutos que sigan a la pregunta, interrogará de nuevo si algún postor puja la mejora y así sucesivamente con respecto a las que se hagan; en cualquier momento en que, pasados cinco minutos de hecha la pregunta correspondiente, no se mejorare la última postura, declarará fincado el remate en favor de quien la hubiere hecho.
+
+###### ARTICULO 400.
+
+No habiendo postor quedará al arbitrio del ejecutante pedir en el momento de la diligencia que se le adjudiquen los bienes por el setenta y cinco por ciento que sirvió de base para el remate o que se saquen de nuevo a pública subasta con rebaja del diez por ciento de la tasación.
+
+Esta segunda subasta se anunciará y celebrará en igual forma que la anterior.
+
+###### ARTICULO 401.
+
+Si en ella tampoco hubiere licitadores, el actor podrá pedir o la adjudicación por el sesenta y cinco por ciento que sirvió de base para la segunda subasta, o que se le entreguen en administración los bienes para aplicar sus productos al pago de los intereses, extinción del capital y de las costas.
+
+###### ARTICULO 402.
+
+No conviniendo al ejecutante ninguno de los dos medios expresados en el artículo que precede, podrá pedir que se celebre una tercera subasta en los mismos términos que la segunda, tomando como base el sesenta y cinco por ciento y si nuevamente no hubiere postores, se adjudicará al acreedor con una reducción de un diez por ciento de la tasación anterior.
+
+###### ARTICULO 403.
+
+Fincado el remate se prevendrá al postor que consigne ante el propio Juzgado el precio del remate.
+
+Si no consignare el precio en el plazo que el Juez señale, o por su culpa dejare de tener efecto la venta, se procederá a nueva subasta como si no se hubiere celebrado, perdiendo el postor el depósito a que se refiere el artículo 392 que se aplicará por vía de indemnización por partes iguales al ejecutante y al ejecutado.
+
+###### ARTICULO 404.
+
+Consignado el precio en su caso se aprobará el remate, se ordenará requerir al deudor para que dentro del tercer día entregue los antecedentes de propiedad y otorgue la escritura a favor de quien se haya fincado el remate, apercibido que de no hacerlo, el Juez lo hará en su rebeldía haciéndolo constar así.
+
+###### ARTICULO 405.
+
+Otorgada la escritura, se darán al comprador los títulos de antecedentes de propiedad, apremiando en su caso al deudor para que los entregue, y se pondrán los bienes a disposición del mismo comprador dándose para ello las órdenes necesarias, aún las de desocupación de fincas habitadas por el deudor o terceros que no tuvieren contrato para acreditarse el uso en los términos que fija el Código Civil, se le dará a conocer como dueño a las personas que el mismo designe.
+
+###### ARTICULO 406.
+
+Con el precio se pagará al acreedor hasta donde alcance y si hubiere costas pendientes que liquidar, se mantendrá en depósito la cantidad que se estime bastante para cubrirlas hasta que sean aprobadas las que faltaren de pagarse; pero si el ejecutante no formula su liquidación dentro de los ocho días de hecho el depósito, perderá el derecho de reclamarlas.
+
+El reembargo produce su efecto en lo que resulte líquido el precio del remate después de pagarse al primer embargante, salvo el caso de preferencia de derechos. El reembargante para obtener el remate, si éste no se hubiere verificado, puede obligar al primer ejecutante a que continúe su acción.
+
+###### ARTICULO 407.
+
+Si la ejecución se hubiere despachado a instancia de acreedor de segundo o ulterior grado, el importe de los créditos preferentes de que responda la finca rematada se consignará ante el Juzgado correspondiente y el resto se entregará sin dilación al ejecutante si notoriamente fuere inferior a su crédito o lo cubriere.
+
+Si excediere, se le entregará capital e intereses y las costas liquidadas. El remanente quedará a disposición del deudor, a no ser que se hubiere retenido judicialmente para el pago de otras deudas.
+
+###### ARTICULO 408.
+
+El acreedor que se adjudique la cosa reconocerá los créditos preferentes no vencidos para pagarlos al vencimiento de sus escrituras y entregará al deudor, de contado, lo que resulte libre del precio después de cuantificado el pago.
+
+###### ARTICULO 409.
+
+Cuando se hubiere seguido la vía de apremio en virtud de títulos al portador con hipoteca inscrita sobre la finca vendida, si existieren otros títulos con igual derecho, se prorrateará entre ellos el valor líquido de la venta, entregando al ejecutante lo que le corresponda y depositándose la parte correspondiente a los demás títulos hasta su cancelación.
+
+###### ARTICULO 410.
+
+En los casos a que se refieren los artículos 406 y 407, salvo lo dispuesto en el siguiente párrafo, se cancelarán las inscripciones de los gravámenes a que estuviere afectada la finca vendida, expidiéndose para ello mandamiento en el que se exprese que el importe de la venta no fue suficiente para cubrir el crédito del ejecutante, y en su caso, haberse consignado el importe del crédito del acreedor preferente o el sobrante, si lo hubiere a disposición de los interesados.
+
+En los casos del artículo 407, si el precio de la venta fuere insuficiente para pagar hipotecas anteriores y posteriores, solo se cancelarán éstas conforme a lo prevenido en la primera parte de este artículo.
+
+###### ARTICULO 411.
+
+Cuando conforme a lo prevenido en el artículo 375 el acreedor hubiere optado por la administración de la finca embargada, se observarán las siguientes reglas:
+
+I.- El Juez mandará que se le haga entrega de ella bajo el correspondiente inventario y que se les dé a conocer a las personas que el mismo acreedor designe;
+
+II.- El acreedor y el deudor podrán establecer por acuerdos particulares las condiciones y término de la administración, forma y época de rendir las cuentas; si así no lo hicieren, se entenderá que la finca ha de ser administrada según la costumbre del lugar, debiendo el acreedor rendir cuentas cada seis meses;
+
+III.- Si la finca fuere rústica podrá el deudor intervenir en las operaciones de la recolección;
+
+IV.- La rendición de cuentas y las diferencias que de ellas surgieren se substanciarán incidentalmente;
+
+V.- Cuando el ejecutante se haya pagado su crédito, intereses y costas con los frutos de la finca, volverá ésta a poder del ejecutado; y
+
+VI.- El acreedor podrá cesar en la administración de la finca cuando lo crea conveniente y pedir se saque a la pública subasta que corresponda o que, en su caso, se le adjudique, deduciendo lo que hubiere percibido a cuenta.
+
+###### ARTICULO 412.
+
+Cuando los bienes cuyo remate se haya decretado fueren muebles, el ejecutante podrá optar por la adjudicación o venta conforme a las reglas siguientes:
+
+I.- Después de ordenado el remate puede el ejecutante pedir la adjudicación por el precio que tuvieren señalado al tiempo de su petición, eligiendo los que basten para cubrir su crédito, según lo sentenciado;
+
+II.- Si optare por la venta, ésta se efectuará siempre de contado, por medio de corredor o casa de comercio que expenda objetos o mercancías similares, quienes harán saber, para la busca de compradores el precio fijado, pericialmente y al Juzgado la fecha en que sean puestos a la venta.
+
+Si pasados diez días de puestos a la venta no se hubiere logrado ésta, el Tribunal ordenará una rebaja del diez por ciento del valor fijado, y conforme a ella comunicará al corredor o casa de comercio su nuevo precio de venta. Transcurridos diez días sin realizarse la venta, se adjudicará al acreedor con una reducción del diez por ciento.
+
+Los gastos de corretaje o comisión serán de cuenta del deudor y se deducirán preferentemente del precio de venta que se obtenga;
+
+III.- Hecha la adjudicación o la venta, se ordenará requerir al ejecutado para que otorgue la factura debidamente firmada, apercibiéndolo que en caso contrarío el Juez lo hará en su rebeldía; y
+
+IV.- En todo lo demás se estará a las disposiciones de esta sección.
+
+#### SECCION CUARTA. EJECUCION DE RESOLUCIONES DICTADAS POR TRIBUNALES DISTINTOS DE LOS DEL PODER JUDICIAL DEL ESTADO
+
+###### ARTICULO 413.
+
+El Juez que reciba exhorto para la ejecución de una sentencia u otra resolución, cumplirá con lo que disponga la autoridad requeriente, siempre que contenga los insertos que estime necesarios conforme a las disposiciones de esta sección y lo que haya de ejecutarse no fuere contrario a las Leyes de este Estado.
+
+###### ARTICULO 414.
+
+Los Jueces requeridos no podrán oír ni conocer de excepciones cuando fueren opuestas por alguna de las partes que litigan ante la requeriente, salvo el caso de competencia legalmente interpuesta por alguno de los interesados.
+
+###### ARTICULO 415.
+
+Si al ejecutarse la resolución se opusiere algún tercero, el Juez requerido oirá incidentalmente y calificará las excepciones opuestas conforme a las reglas siguientes:
+
+I.- Cuando un tercero que no hubiere sido oído por la autoridad requeriente poseyere en nombre propio la cosa en que debe ejecutarse la resolución, no se llevará adelante la ejecución, devolviéndose el exhorto con inserción del auto en que así se resolviere y de las constancias en que se haya fundado; y
+
+II.- Si el tercer opositor que se presente ante el Juez requerido no probare que posee con cualquier título traslativo de dominio la cosa sobre que verse la ejecución, será condenado a satisfacer las costas, daños y perjuicios.
+
+###### ARTICULO 416.
+
+Los jueces requeridos ejecutarán las resoluciones siempre que la parte condenada haya sido emplazada personalmente para ocurrir a juicio y reunieren, en su caso, las siguientes condiciones:
+
+I.- Que verse sobre cantidad líquida o cosa determinada individualmente;
+
+II.- Que si tratare de derechos reales sobre inmuebles, o bienes inmuebles ubicados en el Estado, fueren conforme a las Leyes del lugar; y
+
+III.- Si tratándose de derechos personales o del estado civil, la persona condenada se sometió expresamente o por razón de domicilio a la requeriente que la pronunció.
+
+###### ARTICULO 417.
+
+Las resoluciones dictadas en países extranjeros, tendrán en el Estado la fuerza que establezcan los tratados respectivos o en su defecto, se estará a la reciprocidad internacional.
+
+###### ARTICULO 418.
+
+Solo tendrán fuerza en el Estado las ejecutorias extranjeras que reúnan las siguientes circunstancias:
+
+I.- Que se apoyen en preceptos legales o principios jurídicos de acuerdo al artículo 14 constitucional;
+
+II.- Que hayan sido dictadas a consecuencia del ejercicio de una acción personal;
+
+III.- Que la obligación para cuyo cumplimiento se haya procedido sea lícita en el Estado;
+
+IV.- Que haya sido emplazado personalmente el demandado para ocurrir al juicio;
+
+V.- Que sean ejecutorias conforme a las Leyes de la nación en que se hayan dictado; y
+
+VI.- Que llenen los requisitos necesarios para ser consideradas como auténticas.
+
+###### ARTICULO 419.
+
+Es competente para ejecutar la resolución dictada en el extranjero el Juez que lo sería para seguir el juicio en que se dictó, conforme a las reglas de la competencia establecidas en este Código.
+
+###### ARTICULO 420.
+
+Ni el Juez inferior, ni el Tribunal Superior podrán examinar ni decidir sobre lo justo o injusto del fallo, ni sobre los fundamentos de hecho y de derecho en que se apoye, limitándose tan solo a examinar su autenticidad y si debe o no ejecutarse conforme a las leyes del Estado.
+
+## TITULO TERCERO. TERCERIAS
+
+### CAPITULO I. COADYUVANTES
+
+###### ARTICULO 421.
+
+Las tercerías coadyuvantes se harán valer en cualquier juicio, sea cual fuere la acción que en él se ejercite y cualquiera que sea el estado en que se encuentre, con tal de que aún no haya causado ejecutoria la sentencia pronunciada.
+
+###### ARTICULO 422.
+
+La tercería coadyuvante produce el efecto de asociar a quien la interpone con la parte a cuyo derecho coadyuve, a fin de que se le admita y se substancien las ulteriores diligencias con el tercero y el litigante coadyuvado. No obstante lo anterior, podrá continuar su acción y defensa aún cuando el principal desistiere.
+
+###### ARTICULO 423.
+
+El demandado debe denunciar el pleito al obligado al saneamiento antes o en la contestación de la demanda y el Juez, según las circunstancias ampliará el término del emplazamiento para que el tercero pueda disfrutar del plazo completo
+
+### CAPITULO II. EXCLUYENTES
+
+###### ARTICULO 424.
+
+La tercería excluyente puede oponerse en todo negocio, cualquiera que sea su estado, con tal de que si son de dominio no se haya dado posesión de los bienes al adjudicatario, por vía de ejecución y si son de preferencia, que no se haya hecho pago al actor, tramitándose incidentalmente.
+
+###### ARTICULO 425.
+
+La tercería excluyente de dominio debe fundarse en el derecho que, sobre los bienes en cuestión o sobre la acción ejercitada, alegue el tercero.
+
+No podrá interponer tercería excluyente de dominio aquel que consintió en la constitución del gravamen o del derecho real en garantía de la obligación del demandado.
+
+###### ARTICULO 426.
+
+La tercería excluyente de preferencia debe fundarse en el mejor derecho que el tercero deduzca para ser pagado.
+
+###### ARTICULO 427.
+
+Si el actor y el demandado se allanaren o ambos dejaren de contestar la demanda de tercería, el Juez sin más trámites mandará, si fuere excluyente de dominio, cancelar los embargos y, en su caso, se entreguen los bienes al actor tercerista, y si fuere excluyente de preferencia, dictará sentencia.
+
+###### ARTICULO 428.
+
+Cuando el demandado esté conforme con la reclamación del tercero opositor, solo se seguirá la tercería entre éste y el demandante.
+
+###### ARTICULO 429.
+
+Cuando se presenten tres o más opositores, si estuvieren conformes se seguirá un solo incidente, graduándose en la misma sentencia; pero si no lo estuvieren, se aplicarán en lo conducente las reglas de los concursos de acreedores.
+
+###### ARTICULO 430.
+
+Si la tercería fuere excluyente de dominio, el juicio principal en que se interponga seguirá su trámite que se suspenderá desde que esté por ordenarse la ejecución forzosa hasta que se decida aquélla únicamente respecto de los bienes que fueren objeto de la misma.
+
+###### ARTICULO 431.
+
+Si la tercería fuere de preferencia, se seguirán los procedimientos del juicio principal en que se interponga, hasta la realización del remate de los bienes embargados, suspendiéndose el pago que se hará, definida la tercería, al acreedor que tenga mejor derecho. Entre tanto se decida ésta, se depositará el precio de la venta conforme al artículo 366 y relativos.
+
+###### ARTICULO 432.
+
+No ocurrirán en tercería de preferencia:
+
+I.- El acreedor que tenga hipoteca u otro derecho real accesorio en finca distinta de la embargada;
+
+II.- El acreedor que sin tener derecho real no haya embargado el objeto de la ejecución;
+
+III.- El acreedor a quien el deudor señale bienes bastantes a solventar el crédito; y
+
+IV.- El acreedor a quien la Ley prohiba en estos casos.
+
+## TITULO CUARTO. CONCURSOS
+
+### CAPITULO I. REGLAS GENERALES
+
+###### ARTICULO 433.
+
+El concurso del deudor no comerciante o sociedades civiles puede ser voluntario o necesario. Es voluntario, cuando el deudor se desprende de sus bienes para pagar a sus acreedores, presentándose por escrito acompañando un estado del activo y pasivo con expresión del nombre y domicilio de sus deudores y acreedores, así como una explicación de las causas que hayan motivado su presentación en concurso. Sin estos requisitos no se admitirá la solicitud. No se incluirán en el activo los bienes que no puedan embargarse.
+
+Es necesario, además del caso previsto por el Código Civil, cuando dos o más acreedores de plazo cumplido han demandado o ejecutado ante uno o diversos jueces a un mismo deudor y no haya bienes bastantes para que cada uno embargue lo suficiente para cubrir su crédito y costas.
+
+###### ARTICULO 434.
+
+Declarado el concurso, el Juez resolverá:
+
+I.- Notificar personalmente al deudor y a sus acreedores la formación del concurso;
+
+II.- Hacer saber por edictos a los acreedores que no residan en el lugar del juicio;
+
+III.- Nombrar síndico provisional;
+
+> <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
+
+IV.- Decretar el aseguramiento de todos los bienes del deudor, susceptibles de embargo, así como sus libros, correspondencia y documentos, ya se encuentren en su despacho, en sus almacenes o en su domicilio. La diligencia deberá practicarse en un solo acto, manteniéndose selladas las puertas de los lugares donde se encuentren los bienes entre tanto se terminen los inventarios y se da posesión de ellos al síndico;
+
+V.- Se haga saber a los deudores la prohibición de efectuar pagos o entregar efectos al concursado bajo apercibimiento de segunda paga en caso de desobediencia;
+
+VI.- Ordenar al concursado entregue los bienes al síndico, apercibiéndolo de procederse penalmente en su contra si ocultare cosas de su propiedad;
+
+VII.- Señalar un término no menor de ocho días ni mayor de veinte, para que los acreedores presenten en el Juzgado los títulos justificativos de sus créditos, con copia para hacer entregada al síndico;
+
+VIII.- Señalar día y hora para la junta de rectificación y graduación de créditos, que deberá celebrarse diez días después de que expire el plazo fijado en la fracción anterior.
+
+El día de esta junta y el nombre y domicilio del síndico se harán saber al notificarse la formación del concurso; y
+
+IX.- Pedir a los jueces ante quienes se tramiten juicios contra el concursado, los envíen para su acumulación al universal. Se exceptúan los hipotecarios que estén pendientes y los que se promuevan después y los juicios que se hubiesen fallado en primara(sic) instancia; estos se acumularán una vez que se decida definitivamente. Se exceptúan igualmente los que procedan de créditos prendarios y los que no sean acumulables por disposición expresa de la ley
+
+###### ARTICULO 435.
+
+El concursado puede oponerse al concurso necesario dentro del tercer día al en que se le notifique la declaración. La oposición se substanciará por cuerda separada, sin suspenderse las medidas a que se refiere el artículo anterior y en forma incidental.
+
+Revocado el auto que declaró abierto el concurso deberán reponerse las cosas al estado que tenían antes. El síndico, en el caso de haber realizado actos de administración, deberá rendir cuentas al interesado.
+
+###### ARTICULO 436.
+
+Los acreedores, aún los garantizados con privilegio, hipoteca o prenda, podrán pedir que se revoque la declaración del concurso aún cuando el concursado haya manifestado ya su estado o consentido el auto judicial respectivo.
+
+El concursado que hubiese hecho cesión de bienes no podrá pedir la revocación de la declaración respectiva, a no ser que alegue algún error en la apreciación de sus negocios.
+
+En estos casos, la revocación se solicitará dentro del término y se tramitará como lo previene el artículo anterior.
+
+###### ARTICULO 437.
+
+El concursado, en el caso del concurso forzoso, deberá presentar al juzgado dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo con nombres y domicilios de acreedores y deudores, privilegiados y avalistas; si no lo presentaré, lo hará el síndico.
+
+### CAPITULO II
+
+RECTIFICACION Y GRADUACION DE CREDITOS.
+
+###### ARTICULO 438.
+
+Todo acreedor podrá, hasta tres días antes de la fecha designada para la junta, presentarse por escrito impugnando todos o algunos de los créditos reconocidos por el deudor o denunciando cualquier acto culpable o fraudulento del mismo, precisando al ofrecerlas, las pruebas de su dicho. Todo acreedor que no haya sido incluido en el estado presentado por el deudor, podrá comparecer al juzgado dentro del término fijado por el artículo 434 fracción VII, expresando el monto, origen y naturaleza de su crédito, presentando en su caso la prueba de sus afirmaciones.
+
+Los acreedores pueden examinar los papeles y documentos del concursado en la Secretaría antes de la rectificación de créditos.
+
+###### ARTICULO 439.
+
+En la junta de rectificación y graduación se procederá al examen de los créditos, previa lectura por el síndico en un breve informe sobre el estado general activo y pasivo y documentos que prueben la existencia de cada uno de ellos. En este informe estarán contenidos los dictámenes que rinda sobre cada uno de los créditos presentados y de los cuales con anticipación se le corrió traslado.
+
+En el informe deberá también clasificar los créditos de acuerdo con sus privilegios según el Código Civil.
+
+###### ARTICULO 440.
+
+Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios y será removido imponiéndosele además una multa hasta de veinte días de salario.
+
+###### ARTICULO 441.
+
+El acreedor cuyo crédito no resultare del estado, libros o papeles del deudor, será admitido en la junta siempre que dentro del término fijado en la fracción VII del artículo 434 haya presentado al juzgado los justificantes del mismo.
+
+###### ARTICULO 442.
+
+Los acreedores podrán hacerse representar por apoderado, siendo bastante el poder ordinario de administración. Las mayorías se computarán por capital, pero quien represente a más de un acreedor solo podrá hacer valer, llegado el caso, el correspondiente a cinco como máximo.
+
+###### ARTICULO 443.
+
+Si el crédito no es objetado por el síndico, concursado o acreedor que no represente la mayoría a que se refiere el artículo anterior, se tendrá por bueno y verdadero y se inscribirá en la lista de créditos reconocidos.
+
+Esa lista contendrá los nombres de los acreedores e importe de cada crédito. El crédito verificado puede ser objetado por cualquier acreedor en incidente.
+
+###### ARTICULO 444.
+
+Si uno o más de los créditos admitidos por la mayoría fuesen objetados por el deudor, por el síndico o por alguno de los acreedores, se tendrán por verificados provisionalmente, sin perjuicio de que incidentalmente pueda seguirse la cuestión sobre legitimidad del crédito.
+
+El mismo trámite procederá si los objetantes fuesen acreedores, sin perjuicio de ser indemnizados hasta la concurrencia de la suma en que su gestión hubiere enriquecido su concurso.
+
+###### ARTICULO 445.
+
+Los acreedores que no presenten documentos justificativos de sus créditos, no serán admitidos a la masa sin que previamente se efectúe la rectificación que se hará judicialmente a su costa en incidente por cuerda separada. Solo tomarán parte en los dividendos que estuviesen aún por hacerse en el momento de presentar su reclamación sin que les sea admitido en ningún caso reclamar su parte en los dividendos anteriores.
+
+Si cuando se presenten los acreedores morosos a reclamar sus créditos estuviese ya repartida la masa de bienes no serán oídos, salvo su acción personal contra el deudor que debe reservárseles.
+
+###### ARTICULO 446.
+
+Si en la primera reunión no fuere posible rectificar todos los créditos presentados, el Juez suspenderá la audiencia para continuarla al día siguiente, haciéndolo constar en el acta sin necesidad de una nueva convocatoria.
+
+###### ARTICULO 447.
+
+En la misma junta, una vez terminada la rectificación y graduación, los acreedores por mayoría de créditos y de personas asistentes, designarán síndico definitivo, o en su caso, lo hará el Juez.
+
+Podrán también por mayoría y a solicitud del concursado, celebrar arreglos con éste, o pedir a todos los acreedores comunes cuyos créditos hayan sido verificados, la adjudicación en copropiedad de los bienes de aquél, dándole carta de pago, debiendo pagar previamente las costas y los créditos privilegiados.
+
+La oposición de los acreedores disidentes y los que no hubieren concurrido a la junta, así como la del deudor común, se substanciará incidentalmente y, respecto de la de aquéllos, se observará, además, el contenido de los artículos 2341 a 2343 del Código Civil.
+
+###### ARTICULO 448.
+
+Después de esta junta y en ausencia de convenios, resueltas las apelaciones y oposiciones que se hubieren suscitado, el síndico procurará la venta de los bienes del concursado conforme a las reglas del remate.
+
+###### ARTICULO 449.
+
+El producto de los bienes se distribuirá proporcionalmente entre los acreedores de acuerdo con su privilegio y graduación.
+
+Si al efectuarse la distribución hubiere algún crédito pendiente de verificarse, su dividendo se depositará en el establecimiento destinado al efecto por la ley hasta la resolución definitiva del juicio.
+
+###### ARTICULO 450.
+
+El acreedor hipotecario, el prendario y el que tenga privilegio especial respecto del que no haya habido oposición, así como el que hubiere obtenido sentencia firme, no estará obligado a esperar el resultado final del concurso general y será pagado con el producto de los bienes afectados a la hipoteca, prenda o privilegio, sin perjuicio de obligarlo a dar caución de acreedor de mejor derecho.
+
+Si antes de establecido el derecho de preferencia de algún acreedor se distribuyera algún dividendo, se considerará como acreedor común, reservándose el precio del bien afectado hasta la concurrencia del importe de su crédito por si esa preferencia quedase reconocida.
+
+En los casos del acreedor que tenga privilegio especial o del que hubiere obtenido sentencia firme, si no existieren bienes afectos, se venderán de los de la masa, a lo que únicamente podrá oponerse el hipotecario o prendario cuando resultare afectado, oposición que se tramitará incidentalmente
+
+###### ARTICULO 451.
+
+Cuando se hubiere pagado íntegramente a los acreedores, celebrado convenio o adjudicado los bienes del concurso, se dará este por terminado. Si el precio en que se vendiere no bastare a cubrir todos los créditos, o hubiere un saldo en favor de los adjudicatarios, se reservarán los derechos de los acreedores para cuando el deudor mejore de fortuna.
+
+###### ARTICULO 452.
+
+Los acreedores listados en el estado del deudor o que presentaren sus documentos justificativos, tienen derecho de nombrar interventor que vigile los actos de los síndicos, pudiendo hacer al juez las observaciones que estimen pertinentes y a la junta de acreedores en su oportunidad.
+
+###### ARTICULO 453.
+
+Cuando al hacerse una cesión de bienes solo hubiere acreedores hipotecarios, se observarán las disposiciones relativas a "DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS", contenidas en el artículo 2335 y siguientes del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo, quien litigará en representación de los demás acreedores y se observará lo dispuesto en los artículos precedentes.
+
+### CAPITULO III. ADMINISTRACION DEL CONCURSO
+
+###### ARTICULO 454.
+
+Aceptado el cargo por el síndico, se le pondrá bajo inventario, desde el día siguiente del aseguramiento, en posesión de los bienes y libros del deudor. Si éstos estuvieren fuera del lugar del juicio, se inventariarán con intervención de la autoridad judicial exhortada al efecto y se citará al deudor para la diligencia por medio de correo certificado.
+
+El dinero se depositará en el establecimiento destinado al efecto por la Ley, dejándose en poder del síndico lo indispensable para atender a los gastos de administración.
+
+###### ARTICULO 455.
+
+El síndico es el administrador de los bienes del concurso, debiendo entenderse con él las operaciones ulteriores a toda cuestión judicial o extrajudicial que el concursado tuviere pendiente o que hubiere de iniciarse.
+
+Ejecutará personalmente las funciones del cargo a menos que tuviera que desempeñarlas fuera del asiento del juzgado, caso en el cual podrá valerse de mandatario.
+
+###### ARTICULO 456.
+
+No puede ser síndico el pariente del concursado o del Juez dentro del cuarto grado de consanguinidad ni segundo de afinidad, ni su amigo, ni su socio, ni el enemigo, ni con quien tenga comunidad de intereses.
+
+El que se halle en algunos de estos casos deberá excusarse y ser sustituido inmediatamente
+
+###### ARTICULO 457.
+
+El síndico deberá otorgar fianza dentro de los primeros quince días que siguen a la aceptación del cargo
+
+> <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
+
+###### ARTICULO 458.
+
+Si el síndico considera que hay necesidad de realizar efectos, bienes o valores que pudieran perderse, disminuir su precio o deteriorarse o fuere muy costosa su conservación, podrá enajenarlos con autorización del Juez, quien la dará previa audiencia del Ministerio Público, en el plazo que le señale según la urgencia del caso.
+
+Esto mismo se hará cuando fuere estrictamente indispensable para cubrir gastos urgentes de administración y conservación.
+
+###### ARTICULO 459.
+
+El síndico deberá presentar dentro de los primeros diez días de cada mes, en cuaderno por separado, un estado de la administración, previo depósito en el establecimiento respectivo del dinero que hubiere percibido. Estas cuentas estarán a disposición de los interesados hasta el fin del mes, dentro de cuyo término podrán ser objetadas. Las objeciones se substanciarán con la contestación del síndico y la resolución judicial dentro del tercer día.
+
+### CAPITULO IV. DEUDOR COMUN
+
+###### ARTICULO 460.
+
+El deudor es parte para litigar en los incidentes relativos referentes a rectificación de créditos y en las cuestiones inherentes a enajenación de los bienes. En todas las demás será representado por el síndico, aún en los juicios hipotecarios.
+
+###### ARTICULO 461.
+
+El deudor de buena fe tiene derecho a alimentos, siempre que esté sujeto a patria potestad o tutela, esté impedido físicamente para trabajar o carezca de profesión u oficio.
+
+# LIBRO CUARTO. DERECHO PROCESAL FAMILIAR
+
+## TITULO PRIMERO. CONTROVERSIAS DE ORDEN FAMILIAR
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### ARTICULO 462.
+
+Todos los problemas inherentes a la familia se consideran de orden público, por constituir aquélla la base de la integración de la sociedad, en consecuencia, los juicios se tramitarán con intervención del Ministerio Público y del Procurador de la Defensa del Menor y la Familia. Y cuando sea necesaria la celebración de una junta o audiencia de pruebas, deberá efectuarse dentro de un término no mayor de quince días a partir del auto en que así se ordene
+
+###### ARTICULO 463.
+
+El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+
+###### ARTICULO 464.
+
+No se requieren formalidades especiales para acudir ante el Juez de lo Familiar, tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposición de maridos, padres y tutores y en general todas las cuestiones familiares similares que reclaman la intervención judicial.
+
+###### ARTICULO 465.
+
+Podrá acudirse al Juez de lo Familiar por comparecencia personal en los casos urgentes a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate, o por escrito. En el primer caso, el Juez levantará acta y con lo actuado y los documentos que se hubieren presentado se correrá traslado a la parte demandada, la que deberá contestar en la misma forma dentro del término de cinco días, de lo cual levantará acta el Juez, agregándose al expediente juntamente con los documentos que se exhibieren. En tales comparecencias las partes deberán ofrecer sus pruebas. Al ordenarse ese traslado, el Juez deberá señalar día y hora para la celebración de la audiencia respectiva en la que se admitirán y desahogarán las pruebas y se citará para sentencia.
+
+Será optativo para las partes acudir asesoradas y en este supuesto, los asesores necesariamente deberán ser licenciados en derecho, con cédula profesional, salvo si es defensor de oficio. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitará de inmediato los servicios de un defensor de oficio, el que deberá de acudir, desde luego, a enterarse del asunto, disfrutando de un término que no podrá exceder de tres días para hacerlo, por cuya razón se diferirá la audiencia en un término igual.
+
+###### ARTICULO 466.
+
+Si la comparecencia es por escrito, se correrá traslado por cinco días al demandado para que conteste, debiendo las partes ofrecer sus pruebas en sus respectivos escritos, señalándose desde el auto inicial la fecha de la audiencia en la que se admitirán las pruebas que procedan, se desahogarán las mismas y se citará para sentencia.
+
+###### ARTICULO 467.
+
+La audiencia se practicará con o sin asistencia de las partes. El Juez, para resolver el problema que se le plantee, podrá cerciorarse personalmente de la veracidad de los hechos o con el auxilio de trabajadores sociales, quienes presentarán antes o en la audiencia el trabajo desarrollado, pudiendo ser interrogados por el Juez y por las partes. Su intervención tendrá el valor de un testimonio.
+
+Si por cualquier circunstancia la audiencia no puede celebrarse, ésta se verificará dentro de los cinco días siguientes.
+
+###### ARTICULO 468.
+
+El Juez tendrá en los procedimientos a que se refiere este libro, amplias facultades para investigar la verdad real y podrá ordenar la recepción de cualquier prueba aunque no la ofrezcan las partes.
+
+###### ARTICULO 469.
+
+Cuando las cuestiones a que se refiere este libro, no impliquen controversia entre los interesados, se aplicarán en lo conducente, las disposiciones relativas a la jurisdicción voluntaria. En caso contrario, en lo no previsto, las de la contenciosa.
+
+###### ARTICULO 470.
+
+La sentencia se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los ocho días siguientes.
+
+### CAPITULO II. SUPLENCIA DEL CONSENTIMIENTO PARA CONTRAER MATRIMONIO
+
+###### ARTICULO 471.
+
+En los casos del artículo 147 del Código Civil, cuando se solicite que el Juez supla el consentimiento para que menores de edad puedan contraer matrimonio, se aplicarán las siguientes disposiciones:
+
+I.- Declarará el estado de minoridad disponiendo la designación de un tutor dativo especial;
+
+II.- Oirá a los interesados en una junta en la que recibirá las pruebas y dictará resolución levantándose una sola acta con las diligencias; y
+
+III.- Si la resolución fuere favorable, se expedirá desde luego copia certificada para su presentación en el Registro Civil; en caso contrario se remitirá de oficio el expediente a la Sala Civil del Tribunal Superior de Justicia, la que, oyendo a los interesados dentro de tres días, resolverá lo que en derecho proceda.
+
+###### ARTICULO 472.
+
+El menor que tenga la edad requerida para contraer matrimonio y que necesite acudir a la autoridad competente, para suplir el consentimiento de quienes corresponda darlo, puede solicitar que se suspenda temporalmente la obligación a su cargo de habitar con el que se opusiere.
+
+###### ARTICULO 473.
+
+El Juez, sin formalidades especiales, decretará o negará la suspensión a que se refiere el artículo anterior, oyendo previamente a los interesados.
+
+### CAPITULO III. CALIFICACION DE IMPEDIMENTOS Y OBTENCION DE DISPENSA PARA EL MATRIMONIO
+
+#### SECCION PRIMERA. CALIFICACION DE IMPEDIMENTO
+
+###### ARTICULO 474.
+
+Al recibir el Juez el acta levantada con motivo de la denuncia de un impedimento para el matrimonio, citará a los interesados a una audiencia en la que se recibirán las pruebas y se dictará resolución.
+
+###### ARTICULO 475.
+
+Si fuere necesario recibir pruebas fuera de lugar del juicio, se desahogarán las conducentes en la audiencia, suspendiéndose ésta y concediéndose a los interesados hasta veinte días para ello y desahogadas que fueren, el Juez dictará resolución.
+
+###### ARTICULO 476.
+
+Una vez que cause ejecutoria la sentencia, se enviará testimonio autorizado al Archivo General del Estado, de donde deberá de comunicarse a las Oficinas del Registro Civil
+
+#### SECCION SEGUNDA. OBTENCION DE DISPENSA
+
+> <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
+
+###### ARTICULO 477.
+
+Para que se conceda dispensa de impedimento para contraer matrimonio, en los casos permitidos por la ley, sea previa o posterior a su celebración, el Juez oirá a los interesados en una audiencia en la que recibirá las pruebas y dictará resolución.
+
+### CAPITULO IV. AUTORIZACION A LOS CONYUGES PARA LA REALIZACION DE DETERMINADOS ACTOS
+
+###### ARTICULO 478.
+
+Cuando se solicite la autorización judicial a que se refieren los artículos 167 al 169 del Código Civil, citará el Juez a las partes a una audiencia en la que éstas podrán probar que el acto que pretenden realizar, es necesario o conveniente para la familia.
+
+###### ARTICULO 479.
+
+El Juez otorgará, negará o condicionará la autorización solicitada en atención a lo que sea conveniente o necesario para los menores integrantes de la familia de las partes, y a falta de éstos, a lo que sea más conveniente para los demás miembros de esa familia.
+
+### CAPITULO V. SEPARACION DEL DOMICILIO FAMILIAR
+
+###### ARTICULO 480.
+
+Cualquiera de los cónyuges puede pedir al Juez que ordene suspender la obligación de vivir juntos en el domicilio familiar, siendo aplicables a esta petición los siguientes artículos.
+
+###### ARTICULO 481.
+
+Solo los Jueces de lo Familiar pueden decretar la separación de que habla el artículo anterior, a no ser que por circunstancias especiales no pueda ocurrirse ante él, pues entonces el Juez incompetente podrá realizarla provisionalmente, remitiendo las diligencias al competente, quien si la confirmare, seguirá el procedimiento o, de lo contrario, proveerá lo conducente.
+
+###### ARTICULO 482.
+
+La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funda, el domicilio para su habitación, la existencia de hijos menores y las demás circunstancias del caso.
+
+###### ARTICULO 483.
+
+Presentada la solicitud, el Juez sin más trámite, salvo cuando estime conveniente practicar antes diligencias que a su juicio sean necesarias, en cuyo caso podrá llevarlas a cabo, resolverá sobre la procedencia y si la concediere, dictará las disposiciones pertinentes para que se efectúe materialmente la separación, atendiendo a las circunstancias de cada caso.
+
+En la misma resolución señalará el término de que dispondrá el solicitante para presentar la demanda o la denuncia, que podrá ser hasta de quince días hábiles contados a partir del siguiente de efectuada la separación, prorrogable a criterio del Juez por una sola vez por igual término; ordenará la notificación al otro cónyuge, previniéndole que se abstenga de impedir la separación o causarle molestias bajo apercibimiento de procederse en su contra en los términos a que hubiere lugar, y de terminará la situación de los hijos menores, atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el artículo 161 del Código Civil y las propuestas, si las hubiere, de los cónyuges.
+
+###### ARTICULO 484.
+
+Si al vencimiento del plazo concedido no se acredita al Juez que se ha presentado la demanda, la denuncia o la querella, cesarán los efectos de la separación, quedando obligado el cónyuge a regresar al domicilio conyugal dentro de las veinticuatro horas siguientes
+
+###### ARTICULO 485.
+
+El Juez podrá variar las disposiciones decretadas cuando exista causa justa que lo amerite o en vista de lo que los cónyuges, de común acuerdo o individualmente le soliciten, si lo estima pertinente según las circunstancias del caso
+
+###### ARTICULO 486.
+
+El Cónyuge que se separó, tendrá en todo tiempo el derecho de volver al domicilio conyugal.
+
+### CAPITULO VI. SUSTITUCION DEL ADMINISTRADOR DE LA SOCIEDAD CONYUGAL O TERMINACION DE ESTA
+
+###### ARTICULO 487.
+
+Si un cónyuge demanda la administración o terminación de la sociedad conyugal, el Juez decretará todas las medidas provisionales que estime convenientes para la conservación de bienes. Para dictar estas medidas no es necesario que quien la solicite otorgue garantía.
+
+###### ARTICULO 488.
+
+Hecho lo anterior, se emplazará al demandado, tramitándose el procedimiento de acuerdo con los artículos 463, 465 a 467 y 470 en su caso.
+
+### CAPITULO VII. DIFERENCIAS ENTRE CONYUGES
+
+###### ARTICULO 489.
+
+Se aplicarán los preceptos de este capítulo cuando surja alguna diferencia entre los cónyuges sobre:
+
+I.- Las cuestiones que deben decidir de común acuerdo a que se refiere el artículo 164 del Código Civil; y
+
+II.- Cualquier otra relativa a cuestiones económicas
+
+###### ARTICULO 490.
+
+En los casos previstos por el artículo anterior, son aplicables las siguientes determinaciones:
+
+I.- Recibida la petición de uno de los cónyuges el Juez citará a ambos a una audiencia en la que los oirá y procurará avenirlos;
+
+II.- Si el Juez no lograra avenir a los cónyuges, emplazará al demandado y continuará el procedimiento según el caso conforme a los artículos 463, 465 a 467 y 470; y
+
+III.- Independientemente de las pruebas ofrecidas por las partes, puede el Juez decretar los medios de investigación que estime conducentes.
+
+### CAPITULO VIII. PATRIMONIO DE LA FAMILIA
+
+###### ARTICULO 491.
+
+La constitución, ampliación, reducción o extinción del patrimonio de familia, puede realizarse voluntaria o forzosamente.
+
+###### ARTICULO 492.
+
+Para la voluntaria, se observarán las siguientes reglas:
+
+I.- El interesado, una vez reunidos los requisitos señalados por el Código Civil para la constitución, ampliación, reducción o extinción, según el caso, del patrimonio de familia, podrá comparecer por escrito o personalmente ante el Juez competente; y
+
+II.- Este dictará auto o levantará el acta respectiva, señalando día y hora donde se recibirán las pruebas pertinentes y resolverá lo que en derecho proceda dentro del término de ley.
+
+> <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
+
+###### ARTICULO 493.
+
+La forzosa se tramitará conforme las siguientes disposiciones:
+
+I.- El Juez citará a los interesados a una junta en la que procurará que el obligado, si se tratare de la constitución o ampliación, o los beneficiados, cuando fuere de reducción o extinción acepten voluntariamente, y los prevendrá para que en la misma junta presenten las pruebas que estimen pertinentes;
+
+II.- Si en la junta a que se refiere la fracción anterior, no se lograre el avenimiento de los interesados, se desahogarán las pruebas que éstos presenten, sin perjuicio de los informes que el Juez recabe al respecto, resolviéndose dentro del término de ley lo que en derecho procediere; y
+
+III.- En los casos a que se refiere el artículo 722 del Código Civil del Estado, si fuere urgente, puede el Juez asegurar precautoriamente sin necesidad de fianza, bienes bastantes del deudor alimentista para constituir el patrimonio de familia.
+
+### CAPITULO IX. JUICIO DE ALIMENTOS
+
+###### ARTICULO 494.
+
+Podrá el Juez decretar alimentos a quienes tengan derecho de exigirlos y contra quienes deban pagarlos, observándose las disposiciones del capítulo I de este título y, en su caso, las siguientes.
+
+###### ARTICULO 495.
+
+A petición de parte o de oficio el Juez podrá ordenar a quien corresponda, informe sobre los bienes inscritos a nombre del deudor alimentista o ingresos que perciba.
+
+###### ARTICULO 496.
+
+En la demanda de alimentos podrá pedirse que se acuerden provisionalmente éstos.
+
+###### ARTICULO 497.
+
+Para los efectos del artículo anterior se necesita:
+
+I.- Que se exhiban documentos comprobantes del parentesco o en que conste la obligación de dar alimento; y
+
+II.- Que se justifique la posibilidad económica del demandado con cualquier medio de prueba.
+
+El que demanda alimentos tiene a su favor la presunción de necesitarlos.
+
+###### ARTICULO 498.
+
+Satisfechos los requisitos de los artículos que preceden, el Juez fijará prudentemente una pensión provisional que comunicará de inmediato a la persona física o moral de quien perciba ingresos el deudor alimentista, para que se haga entrega de la misma al acreedor, con el apercibimiento de doble pago en caso de desobediencia.
+
+Lo mismo se observará respecto de cualquier otro emolumento o crédito que exista en favor del demandado.
+
+Fuera de los casos anteriores, se ordenará requerir al deudor sobre el pago de dicha pensión provisional o la constitución de una caución garante de su pago por tres años cuando menos, embargando en su caso, bienes de su propiedad que la garanticen.
+
+La pensión provisional subsistirá mientras no se cumpla la sentencia que en su caso, fije la pensión definitiva.
+
+###### ARTICULO 499.
+
+Si el deudor de alimentos no verifica el pago:
+
+I.- Se procederá al remate de los bienes embargados;
+
+II.- Si el embargo y remate tienen por objeto bienes raíces, el Juez a petición del acreedor o de oficio, ordenará oportunamente al Registrador público de la propiedad que inscriba el embargo y que le remita el certificado de gravámenes y al encargado del Periódico Oficial, que publique el o los edictos necesarios;
+
+III.- El registrador público de la propiedad y el encargado del Periódico Oficial respectivamente, cumplirán sin demora lo dispuesto en la fracción anterior e informarán al Juez sobre el importe de la inscripción del certificado de gravámenes y de la publicación del o de los edictos; y
+
+IV.- El Juez, una vez recibida por él la constancia de haberse inscrito el embargo, el certificado de gravámenes y el ejemplar del Periódico Oficial en que se haya hecho la publicación, remitirá la cuenta de esos derechos a la oficina de Recaudación de Rentas correspondiente, para que la cobre al deudor de alimentos en la vía económica coactiva.
+
+### CAPITULO X. JUICIOS SOBRE PATERNIDAD Y MATERNIDAD
+
+###### ARTICULO 500.
+
+Los asuntos sobre paternidad y maternidad, solo podrán decidirse mediante sentencia declarativa que se dicte en juicio.
+
+###### ARTICULO 501.
+
+Las acciones de contradicción de paternidad o de investigación de ésta, serán ejercidas únicamente por las personas a quienes expresamente les concede la ley y dentro de los plazos establecidos por la misma.
+
+###### ARTICULO 502.
+
+Los herederos de los titulares de las acciones sobre paternidad y maternidad solo podrán:
+
+I.- Intentar las acciones a que se refieren los artículos 340 y 341 del Código Civil;
+
+II.- Continuar el juicio intentado por su causante en el caso previsto por el artículo 342 del Código Civil.
+
+###### ARTICULO 503.
+
+En los asuntos a que se refiere este capítulo se aplicarán las siguientes disposiciones:
+
+I.- El Juez podrá tener en cuenta hechos no alegados por las partes y ordenar de oficio la recepción de pruebas;
+
+II.- Si una de las partes fallece, el juicio se dará por concluido, excepto en los casos en que la ley disponga otra cosa;
+
+III.- La sentencia producirá efectos de cosa juzgada aún cuando sea en contra de quienes no litigaron, excepto respecto de aquellos que no habiendo sido citados a juicio, pretendan para sí de la existencia de la relación paterno-filial; y
+
+IV.- El tribunal podrá dictar de oficio o a petición de parte, en cualquier estado del juicio, las medidas precautorias que juzgue adecuadas para que no se causen perjuicios a los hijos.
+
+###### ARTICULO 504.
+
+Cuando la acción sea la de contradicción de paternidad y el demandado se allane a la demanda, deberá abrirse el juicio a prueba y tramitarse en todas sus etapas procesales.
+
+###### ARTICULO 505.
+
+Tratándose de las acciones de investigación de la paternidad o de la maternidad, con el allanamiento de la demanda concluye la controversia y se dictará sentencia que declare la filiación.
+
+### CAPITULO XII. ADOPCION
+
+#### SECCION PRIMERA. DECLARACION DE INCAPACIDAD
+
+###### ARTICULO 506.
+
+La pérdida de la patria potestad se decretará en juicio de acuerdo con las disposiciones de este capítulo, salvo cuando esa pérdida sea consecuencia de divorcio, de nulidad de matrimonio o de una sanción de carácter penal.
+
+###### ARTICULO 507.
+
+En cualquier estado del juicio el Juez podrá ordenar que la custodia de los hijos quede al cuidado de uno de los padres o de otra persona, y podrá además, de oficio o a petición de parte, acordar las medidas precautorias que juzgue adecuadas
+
+###### ARTICULO 508.
+
+La suspensión y la calificación de las excusas para ejercer la patria potestad, que no hayan sido objeto de una resolución judicial, se tramitarán y decidirán en una audiencia en la que se oiga a las partes y se reciban las pruebas que se ofrezcan.
+
+#### SECCION SEGUNDA. NOMBRAMIENTO DE TUTORES Y CURADORES Y DISCERNIMIENTO DE ESTOS CARGOS
+
+### CAPITULO XI
+
+CUESTIONES SOBRE PATRIA POTESTAD.
+
+###### ARTICULO 509.
+
+El que pretenda adoptar, deberá acreditar los requisitos señalados por el artículo 382 del Código Civil.
+
+En la promoción inicial deberá manifestar el nombre y domicilio de quienes ejerzan sobre el adoptable la patria potestad o la tutela, o de las personas o institución pública que lo hayan acogido y acompañar certificado médico de buena salud. Las pruebas pertinentes se recibirán sin dilación en cualquier día y hora hábil.
+
+Cuando el menor hubiere sido acogido por una institución pública, el adoptante recabará constancia del tiempo de exposición o abandono para los efectos de la pérdida de la patria potestad.
+
+Si hubieren transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito del menor con el presunto adoptante, entre tanto se consuma dicho plazo.
+
+Si el menor no tuviere padres conocidos y no hubiere sido acogido por institución pública, se decretará el depósito con el presunto adoptante por el término de seis meses para los mismos efectos.
+
+###### ARTICULO 510.
+
+Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 389 y 390 del Código Civil, se resolverá dentro del tercer día lo que proceda sobre la adopción.
+
+###### ARTICULO 511.
+
+Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el Juez los citará a una audiencia verbal dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 399 del Código Civil.
+
+Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al artículo 389 del Código Civil, cuando fuere conocido su domicilio o en su caso, se oirá al Ministerio Público y al Consejo de Tutelas.
+
+Para acreditar cualquier hecho relativo a la conveniencia de la revocación en los casos del artículo anterior pueden rendirse toda clase de pruebas permitidas por la Ley.
+
+### CAPITULO XIII. NULIDAD DEL MATRIMONIO
+
+###### ARTICULO 512.
+
+La nulidad del matrimonio se decidirá observando las disposiciones del capítulo I de éste título y además las siguientes:
+
+I.- Los cónyuges no podrán celebrar transacción ni comprometerse en árbitro acerca de la nulidad de matrimonio; y
+
+II.- La muerte de uno de los cónyuges pone fin al juicio, salvo el derecho de los herederos para continuar la acción cuando la ley lo autorice.
+
+###### ARTICULO 513.
+
+Al resolver la nulidad del matrimonio, la sentencia decidirá además los siguientes puntos aunque no hubieren sido propuestos por las partes:
+
+I.- Si el matrimonio nulo se celebró o no de buena fe respecto de ambos cónyuges o solo de alguno de ellos;
+
+II.- Efectos civiles del matrimonio;
+
+III.- La situación y cuidado de los hijos;
+
+IV.- Se atribuirá definitivamente la propiedad de los bienes objeto de las donaciones prenupciales, de acuerdo con lo dispuesto por el artículo 255 del Código Civil y se establecerá la forma en que deben dividirse los bienes comunes y efectos patrimoniales de la nulidad; y
+
+V.- Precauciones que deben adaptarse respecto de la mujer que quede embarazada al declararse la nulidad.
+
+### CAPITULO XIV. DIVORCIO
+
+###### ARTICULO 514.
+
+El divorcio necesario se tramitará en juicio civil ordinario; el voluntario administrativo, cuando no haya hijos menores o incapacitados, como lo prevee el Código Civil y el voluntario judicial, cuando si los haya, de acuerdo con las siguientes disposiciones.
+
+###### ARTICULO 515.
+
+Cuando ambos cónyuges convengan en divorciarse por mutuo consentimiento, en el último supuesto del artículo anterior, deberán ocurrir al tribunal competente, presentando solicitud con el convenio respectivo, copia certificada del acta de matrimonio y sendas de las de nacimiento de los hijos menores o incapaces. Se considerará que los cónyuges tienen hijos cuando la esposa se encuentre embarazada.
+
+###### ARTICULO 516.
+
+Citará el tribunal a los cónyuges a una junta que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren, previa su plena identificación, los exhortará para procurar su reconciliación. Si no logra avenirlos, oyendo al Ministerio Público y a la Procuraduría de la Defensa del Menor y la Familia, resolverá si son de aprobarse o no en forma provisional los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquellos y de los que un cónyuge deba dar a otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
+
+###### ARTICULO 517.
+
+Si insistieren los cónyuges en su propósito de divorciarse, se citarán a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada; y en ella volverá a exhortar a aquellos con el propio fin que en la anterior. Si tampoco se lograre la reconciliación y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, oyendo el parecer del representante del Ministerio Público, y a la Procuraduría de la Defensa del Menor y la Familia, sobre éste punto, dictará sentencia en que quedará disuelto el vínculo matrimonial y decidirá sobre el convenio presentado.
+
+###### ARTICULO 518.
+
+Los cónyuges no pueden hacerse representar por procurador en las juntas a que se refieren los dos artículos que preceden, sino que deben comparecer personalmente y, en su caso, acompañados del representante legal
+
+###### ARTICULO 519.
+
+Cuando haya oposición a la aprobación del convenio, quien se oponga propondrá las modificaciones que estime pertinentes y el tribunal lo hará del conocimiento al otro cónyuge o a ambos según el caso, para que dentro de los tres días manifiesten si aceptan las modificaciones y, aceptadas o no, resolverá en la sentencia lo que proceda, procurando que siempre queden debidamente garantizados los derechos de los hijos.
+
+Cuando el convenio no se aprobare, no podrá decretarse la disolución del matrimonio.
+
+###### ARTICULO 520.
+
+Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Juez del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del en que se registró el nacimiento de los divorciados para los efectos de los artículos 110, 112 y 284 del Código Civil.
+
+### CAPITULO XV. INCAPACIDAD
+
+#### SECCION PRIMERA. DELACION
+
+A) TESTAMENTARIAS.
+
+###### ARTICULO 521.
+
+La declaración de incapacidad por cualquiera de sus causas, puede solicitarse por quien pretenda la protección, cuidado y vigilancia de la persona o bienes del incapaz o bien, seguir un procedimiento en favor o en contra de éste, o por el menor si ha cumplido los catorce años.
+
+###### ARTICULO 522.
+
+Si a la petición de declaración de minoridad se acompaña copia certificada del acta de nacimiento, se hará la declaración de plano. En caso contrario se citará a una audiencia que se verificará dentro del tercer día, a la que concurrirá el menor, si fuere posible; en ella, por la documental del Registro Civil si hasta ese momento se presentare, por el aspecto del menor y a falta de aquélla o de la presencia de éste, por medio de dictamen de perito, se hará la declaración correspondiente. La resolución que la declare procedente es apelable en ambos efectos y la que la deniegue solo en el devolutivo.
+
+###### ARTICULO 523.
+
+Presentada la solicitud de declaración de incapacidad por causa distinta a la de minoridad, el Juez proveerá auto, ordenando que dentro de los tres días siguientes sea reconocido el presunto incapaz por tres peritos médicos que nombrará, prefiriendo alienistas.
+
+###### ARTICULO 524.
+
+Si del dictamen resultare comprobada o por lo menos duda fundada acerca de la incapacidad de la persona cuya interdicción se pide, el Tribunal dictará las siguientes medidas:
+
+I.- Nombrará tutor y curador dativo, sujetándose a las disposiciones de este capítulo, pero sin que pueda ser nombrada la persona que haya promovido la interdicción;
+
+II.- Mandará poner los bienes del presunto incapacitado bajo la administración del tutor dativo; los de la sociedad conyugal, si los hubiere, bajo la administración del cónyuge, a falta de éste en la del mismo tutor; y
+
+III.- Proveerá legalmente a la patria potestad o tutela de las personas que tuviere bajo su guarda el presunto incapacitado.
+
+###### ARTICULO 525.
+
+Una vez que cause estado la resolución que haya declarado provisionalmente la incapacidad, dentro del mismo expediente se seguirá el procedimiento contencioso, sujetándose a las siguientes normas:
+
+I.- Durante dicho procedimiento subsistirán las medidas decretadas conforme al artículo anterior, pero podrán ser modificadas por cambio de circunstancias debidamente probadas;
+
+II.- Quien esté legitimado para intentarlo, deberá presentar un escrito que reúna los requisitos de una demanda, ofreciendo además sus pruebas, con lo que se ordenará correr traslado al tutor dativo que haya designado el Juez, para que en un término no mayor de cinco días presente contestación en la misma forma;
+
+III.- Para probar el estado de incapacidad siempre será necesario dictamen pericial y también podrán admitirse testigos o documentos;
+
+> <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
+
+IV.- Transcurrido el término a que se refiere la fracción II, de oficio o a petición de parte se dictará auto en que se determinen las pruebas que se admitan y ordene citar a las partes a una audiencia que deberá celebrarse dentro de los diez días siguientes, en la que se desahogarán las pruebas admitidas y se pronunciará la sentencia que proceda conforme a derecho. En tratándose de la pericial, el examen del presunto incapaz se hará en esta audiencia y el Juez podrá hacer al examinado, al perito, a las partes o a los testigos en su caso, cuantas preguntas estime convenientes para valorar las pruebas;
+
+V.- Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado;
+
+Si ocurriese urgente necesidad de otros actos, el tutor podrá obrar prudentemente, previa autorización judicial;
+
+VI.- El tutor interino deberá rendir cuentas al tutor definitivo con intervención del curador;
+
+VII.- Las mismas reglas se observarán en lo conducente para el juicio que tenga por objeto hacer cesar la interdicción; y
+
+VIII.- El que dolosamente promueva juicio de incapacidad será responsable de los daños y perjuicios que con ello ocasione, independientemente de la responsabilidad penal que fije la Ley de la materia.
+
+###### ARTICULO 526.
+
+La resolución que declare la incapacidad es apelable en ambos efectos, únicamente en el caso de que quien la solicite pretenda seguir un procedimiento contra el incapaz y, en todos los demás, solo en el devolutivo.
+
+#### SECCION SEGUNDA. INVENTARIOS Y AVALUOS
+
+###### ARTICULO 527.
+
+Luego que cause ejecutoria la sentencia de interdicción, se procederá a nombrar y discernir el cargo de tutor definitivo que corresponda conforme a la Ley; todo tutor, cualquiera que sea su clase, debe aceptar previamente y prestar las garantías exigidas por el Código Civil para que se le discierna el cargo, a no ser que la Ley lo exceptuare expresamente.
+
+El tutor debe manifestar si acepta o no el cargo dentro de los tres días que sigan a la notificación de su nombramiento. En igual término debe proponer sus impedimentos o excusas.
+
+Cuando el impedimento o la causa legal de excusa ocurriere después de la admisión de la tutela, los términos correrán desde el día en que el tutor conoció el impedimento o la causa legal de excusa.
+
+###### ARTICULO 528.
+
+El menor podrá oponerse, cuando tuviere dieciséis años o más, al nombramiento del tutor hecho por la persona que, no siendo ascendiente, le haya instituido heredero o legatario.
+
+###### ARTICULO 529.
+
+Siempre que el tutor nombrado no reúna los requisitos que la Ley exige para ser tutor o curador, el Juez denegará el discernimiento del cargo y proveerá el nombramiento en la forma y término prevenidos por el Código Civil.
+
+###### ARTICULO 530.
+
+En los Juzgados, bajo el cuidado y responsabilidad del Juez y a disposición del Consejo de Tutelas, habrá un registro en que se inscribirá testimonio simple de todos los discernimientos que se hicieren de los cargos de tutor y curador.
+
+###### ARTICULO 531.
+
+El último día hábil del mes de enero de cada año, en audiencia pública con citación del Consejo de Tutelas y del Ministerio Público, el Juez examinará dicho registro y dictará las siguientes medidas:
+
+I.- Si resultare haber fallecido algún tutor, hará que sea reemplazado con arreglo a la Ley;
+
+II.- Si hubiere alguna cantidad de dinero depositada para darle destino determinado, hará que desde luego tengan cumplido efecto las prescripciones del Código Civil;
+
+III.- Exigirá también que rindan cuenta los tutores que deban darla y que por cualquier motivo no hayan cumplido con la prescripción expresa del artículo 581 del Código Civil;
+
+IV.- Obligará a los tutores a que depositen en el establecimiento público destinado al efecto, los sobrantes de las rentas o productos del caudal de los menores, después de cubiertas las sumas señaladas con arreglo a los artículos 529, 530 y 532 del Código Civil y de pagado el tanto por ciento de administración;
+
+V.- Si lo creyere conveniente, decretará el depósito cuando se presenten dificultades insuperables para el inmediato cumplimiento de los artículos 545 y 546 del Código Civil; y
+
+VI.- Pedirá, a efecto, los informes qué estime necesarios del estado en que se halle la gestión de la tutela y adoptará las medidas que juzgue convenientes para evitar los abusos y remediar en lo posible, los que se hayan cometido.
+
+###### ARTICULO 532.
+
+En todos los casos de impedimento, separación o excusa del curador propietario, se nombrará interino mientras se decide el punto. Resuelto, se nombrará en su caso, otro conforme a derecho.
+
+###### ARTICULO 533.
+
+Sobre la rendición y aprobación de cuentas de los tutores regirán las disposiciones contenidas en los artículos 581 y siguientes del Código Civil con estas modificaciones:
+
+I.- No se requiere prevención judicial para que las rindan en el mes de enero de cada año;
+
+II.- Se requiere prevención judicial para que las rindan antes de llegar a ese término;
+
+III.- Las personas a quienes deban ser rendidas son: el mismo Juez, el curador, el Consejo Legal de Tutelas, el propio menor que haya cumplido dieciséis años de edad, el tutor que le reciba, el pupilo que dejare de serlo y las demás personas que fija el Código Civil; y
+
+IV.- La sentencia que desaprobare las cuentas indicará, si fuera posible, los alcances.
+
+###### ARTICULO 534.
+
+Cuando del examen de las cuentas resulten motivos graves para sospechar dolo, fraude o culpa en el tutor, se iniciará, desde luego, a petición de parte o del Ministerio Público, el juicio de separación, que se seguirá en la forma contenciosa, y si de los primeros actos de juicio resultaren confirmadas las sospechas, se nombrará desde luego un tutor interino, quedando en suspenso entretanto el tutor propietario, sin perjuicio de que se remita testimonio de lo conducente a las autoridades competentes.
+
+### CAPITULO XVI. ENAJENACION DE BIENES DE INCAPACES Y AUSENTES Y TRANSACCION SOBRE SUS DERECHOS
+
+###### ARTICULO 535.
+
+Cuando de conformidad con lo dispuesto por los artículos 428, 429, 528 fracción VI, 545, 552, 554 a 559, 562, 564, 566, 633 fracción II, 648, 674, 684 y 689 del Código Civil, se requiera autorización judicial para los efectos que de acuerdo con ellos procedan, el trámite será:
+
+I.- En la solicitud, que podrá ser verbal o escrita, siempre deberá expresarse el motivo del acto jurídico que pretenda llevarse a cabo y, en su caso, el objeto a que se aplicará la suma que se obtenga y se ofrecerán, sin perjuicio de las que el Juez estime pertinente recabar de oficio, las pruebas tendientes a justificar la absoluta necesidad o la evidente utilidad de la celebración del acto;
+
+II.- Recibida la solicitud, el Juez mandará dar vista a quien procediere según el caso y si no hubiere, al Ministerio Público, para que manifieste lo que estime conveniente; admitirá u ordenará la práctica de las pruebas que considere más eficaces, correspondiéndole la designación de perito valuador cuando sea necesario y señalará día y hora, dentro de un plazo no mayor de ocho días, para la celebración de una audiencia en que las desahogará; y
+
+III.- En la resolución, el Juez, si concede la autorización determinará la forma y modalidades del acto para el que haya sido solicitada y dictará las medidas que estime necesarias, procurando en todo el mayor beneficio y protección patrimonial del incapaz o ausente y que el autorizado justifique haber alcanzado el objeto.
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+## TITULO SEGUNDO. JUICIOS SUCESORIOS
+
+### CAPITULO II. CONTENIDO DE LOS JUICIOS SUCESORIOS
+
+###### ARTICULO 536.
+
+Luego que un tribunal tenga conocimiento de la muerte de una persona, mandará citar a quien crea necesario a una audiencia en la que nombrará un interventor especial para asegurar los bienes, sin perjuicio de lo dispuesto por el artículo 199 del Código Civil, en cuyo encargo deberá:
+
+I.- Reunir los papeles del difunto;
+
+II.- Solicitar al Juez ordene a la administración de correos que le entregue la correspondencia dirigida al autor de la sucesión; y
+
+III.- Depositar el dinero y alhajas en establecimiento autorizado por la ley.
+
+El Ministerio Público asistirá a la diligencia de aseguramiento de los bienes que se hallen en el lugar en que se tramite el juicio.
+
+###### ARTICULO 537.
+
+El interventor recibirá los bienes por inventario y tendrá el carácter de simple depositario sin poder desempeñar otras funciones administrativas que las de mera conservación y las que se refieren al pago de las deudas mortuorias con autorización judicial, salvo lo dispuesto por el artículo 583.
+
+Si los bienes estuvieren situados en lugares diversos o a largas distancias, bastará para la formación del inventario que se haga mención en él de los títulos de propiedad, si existen entre los papeles del difunto, o la descripción de ellos según las noticias que se tuvieren.
+
+###### ARTICULO 538.
+
+El interventor cesará luego que se le discierna el cargo al albacea; entregará a éste los bienes sin que pueda retenerlos bajo ningún pretexto.
+
+###### ARTICULO 539.
+
+Al promoverse el juicio sucesorio debe presentarse la partida de defunción del autor de la herencia, y no siendo esto posible, otro documento o prueba bastante.
+
+###### ARTICULO 540.
+
+Cuando con fundamento en la declaración de presunción de muerte de un ausente se haya abierto sucesión, si durante la tramitación del juicio se hace constar la fecha de la muerte, desde ella se entenderá abierta la sucesión y se procederá al nombramiento del interventor o albacea, cesando en sus funciones el representante.
+
+###### ARTICULO 541.
+
+En los juicios sucesorios en que haya herederos o legatarios menores o incapaces que no tuvieren representante legítimo o tutor o éstos tuvieren interés en la herencia, se nombrará tutor especial cuya intervención se limitará solo a aquello en que tengan incompatibilidad.
+
+Si los menores han cumplido dieciséis años, designarán su tutor especial y si aún no llegaren a esa edad, o los incapaces no tuvieren tutor, será nombrado por el Juez.
+
+###### ARTICULO 542.
+
+En las sucesiones de extranjeros se dará a los cónsules o agentes consulares la intervención que les conceda la ley.
+
+###### ARTICULO 543.
+
+Son acumulables a los sucesorios:
+
+I.- Los juicios ejecutivos incoados contra el autor de la herencia antes de su fallecimiento;
+
+II.- Las demandas ordinarias por acción personal, pendientes en primera instancia contra el mismo;
+
+III.- Los juicios incoados contra el referido autor de la sucesión por acción real que se hallen en primera instancia, cuando no se sigan en el Juzgado del lugar en que esté ubicado el inmueble o donde se hubieren hallado los muebles sobre que se litigue;
+
+IV.- Todas las demandas ordinarias y ejecutivas que se deduzcan contra los herederos del difunto en su calidad de tales después de denunciado el intestado;
+
+V.- Los juicios que sigan los herederos deduciendo la acción de petición de herencia, impugnando el testamento o la capacidad de los herederos presentados o reconocidos, siempre que esto último fuere antes de la adjudicación; y
+
+VI.- Las acciones de los legatarios reclamando sus legados, siempre que sean posteriores a la sección de inventarios y antes de la adjudicación, excepto los legados de alimentos, de pensiones, de educación y de uso y habitación, que podrán reclamarse en cualquier sección.
+
+###### ARTICULO 544.
+
+En los juicios sucesorios, el Ministerio Público representará a los herederos ausentes mientras no se presenten o no se acredite representante legítimo, a los menores o incapaces que no tengan representante legítimo o tutor y a la beneficencia pública cuando no haya herederos legítimos dentro del grado de ley y mientras no se haga reconocimiento o declaración de herederos.
+
+###### ARTICULO 545.
+
+En todo juicio sucesorio se formarán cuatro secciones compuestas de los cuadernos necesarios. Una vez concluida la primera, podrán tramitarse simultáneamente las tres siguientes, cuando no hubiere impedimento de hecho.
+
+###### ARTICULO 546.
+
+La primera sección se llamará de delación y contendrá en sus respectivos casos:
+
+I.- La declaración y probanza en que se apoye;
+
+II.- Las citaciones a los herederos y la convocación a los que se crean con derecho a la herencia;
+
+III.- Las resoluciones que se pronuncien sobre la validez de testamento, la capacidad legal para heredar, reconocimiento de derechos hereditarios y su preferencia; y
+
+IV.- Lo relativo al nombramiento y remoción de albacea, interventores o tutores.
+
+###### ARTICULO 547.
+
+La sección segunda se denominará de inventario y avalúo, comprendiendo:
+
+I.- El inventario provisional del interventor;
+
+II.- Las memorias del inventario y avalúo;
+
+III.- Los incidentes de oposición, y
+
+IV.- La resolución sobre el inventario y avalúo.
+
+###### ARTICULO 548.
+
+La tercera sección se nombrará de administración, formándose con:
+
+I.- Todo lo relativo a la administración;
+
+II.- Las cuentas, su glosa y calificación; y
+
+III.- La comprobación de haberse cubierto el impuesto fiscal
+
+###### ARTICULO 549.
+
+La cuarta sección se titulará de partición y quedará integrada con:
+
+I.- El proyecto de partición de los bienes;
+
+II.- Los convenios relativos;
+
+III.- Las resoluciones sobre el proyecto mencionado; y
+
+IV.- Lo referente a la aplicación de los bienes.
+
+###### ARTICULO 550.
+
+Durante la substanciación del juicio sucesorio se podrán enajenar los bienes en los casos previstos en los artículos 2830 y 2871 del Código Civil, y en los siguientes:
+
+I.- Cuando los bienes puedan deteriorarse;
+
+II.- Cuando sean de difícil y costosa conservación; y
+
+III.- Cuando para la enajenación de los frutos se presenten condiciones ventajosas.
+
+###### ARTICULO 551.
+
+Siendo los herederos mayores de edad, después del reconocimiento de sus derechos, podrán separarse del procedimiento judicial para seguir ante notario las secciones que faltaren, procediendo en todo de común acuerdo, que constará en una o varias actas.
+
+###### ARTICULO 552.
+
+El albacea manifestará dentro de los tres días de que se le haga saber el nombramiento, si lo acepta o no. Si acepta y entra en la administración, le prevendrá el Juez que garantice su manejo con sujeción a lo dispuesto en los artículos 2821 a 2823 del Código Civil.
+
+###### ARTICULO 553.
+
+La remoción de albacea siempre será por resolución judicial que se pronunciará de plano o en el incidente que para el efecto se tramite.
+
+Será de plano, de oficio o a petición de parte interesada, por cualquiera de las siguientes causas:
+
+I.- No cumplir, dentro de los términos que la Ley establece, con las obligaciones previstas en los artículos 552, 570 y 588;
+
+II.- Cuando no concluya con el inventario;
+
+III.- Cuando no se apruebe alguna de las cuentas de administración en su totalidad; y
+
+IV.- En los demás casos previstos por la Ley.
+
+Será a petición de parte interesada en el incidente respectivo, fuera de los supuestos antes señalados.
+
+###### ARTICULO 554.
+
+Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquél para abrir el juicio de testamentaría, a no ser que las disposiciones testamentarias se refieran solo a una parte de los bienes hereditarios.
+
+En este caso, se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su facción.
+
+### CAPITULO III. TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR
+
+#### SECCION TERCERA. ADMINISTRACION
+
+###### ARTICULO 555.
+
+El que promueva el juicio de testamentaría debe presentar el testamento respectivo. El Juez, sin más trámites lo tendrá por radicado y en el mismo auto convocará a los interesados a una junta para que si hubiere albacea nombrado en el testamento, se les dé a conocer y si no lo hubiere, procedan a elegirlo con arreglo a lo prescrito en los artículos 2795, 2796, 2797 y 2801 del Código Civil.
+
+###### ARTICULO 556.
+
+La junta se verificará dentro de los ocho días siguientes a la citación si la mayoría de los herederos está en el lugar del juicio. Si residiere fuera de éste, el Juez señalará el plazo que crea prudente, atendidas las distancias.
+
+###### ARTICULO 557.
+
+Si no se conociere el domicilio de los herederos, se mandará publicar edictos en el lugar del juicio, en los sitios de costumbre, en el de nacimiento del testador, en el de su último domicilio y en el de su fallecimiento.
+
+Estando ausentes los herederos y sabiéndose su residencia, se les citará según proceda.
+
+###### ARTICULO 558.
+
+Si el testamento no es impugnado ni se objeta la capacidad de los interesados, el Juez en la misma junta reconocerá como herederos a los que estén nombrados en las porciones que les correspondan.
+
+Si se impugnara la validez del testamento o la capacidad legal de algún heredero, se substanciará el juicio ordinario correspondiente con el albacea o el heredero respectivamente, sin que por ello se suspenda otra cosa que la adjudicación de los bienes en la partición.
+
+B) INTESTADOS.
+
+###### ARTICULO 559.
+
+Los juicios intestamentarios podrán ser denunciados por quien tenga interés en su radicación. Si el denunciante manifestare tener parentesco u otro lazo con el autor de la herencia, deberá precisar el grado por el que pueda considerarse heredero legítimo y justificarlo con la prueba que sea legalmente posible.
+
+Debe el denunciante, si los conoce, indicar los nombres y domicilios de los parientes en línea recta y del cónyuge supérstite, o a falta de ellos, de los parientes colaterales dentro del cuarto grado. De ser posible, se presentarán las partidas del registro civil que acrediten la relación.
+
+###### ARTICULO 560.
+
+El Juez tendrá por radicada la sucesión y mandará notificar a los presuntos herederos, haciéndoles saber el nombre del finado con las demás particulares que lo identificare y la fecha y el lugar de fallecimiento para que si lo estiman conveniente, deduzcan sus derechos y los justifiquen en un término no mayor de veinte días.
+
+###### ARTICULO 561.
+
+Transcurrido el término señalado en el artículo anterior, el Juez sin más trámite dictará auto haciendo la declaración de herederos ab-intestato, si la estimare procedente, o denegándola, con reserva de su derecho a los que la hayan pretendido y de aquellos que aún cuando no comparecieron, pudieren tenerlo mejor o igual que a los que se les haya reconocido. Cuando hubiere viuda, no se admitirá promoción de la concubina, devolviéndole la que hiciere sin ulterior recurso.
+
+###### ARTICULO 562.
+
+En la declaratoria de herederos el Juez designará el albacea si se tratare de heredero único o si los interesados dieron su voto por escrito o en comparecencia con anterioridad, recayendo el nombramiento en dicho heredero o en la persona propuesta por éste o por la mayoría de aquéllos y fuera de estos casos, citará a una junta dentro de los ocho días siguientes para el efecto. Este albacea tiene carácter definitivo.
+
+###### ARTICULO 563.
+
+Si la declaración de herederos la solicitaren parientes colaterales del cuarto grado o subsecuentes, el Juez después de recibir los justificantes del entroncamiento, mandará publicar edictos en los lugares a que se refiere el artículo 557 anunciando la muerte del heredante sin testar, los nombres, grado de parentesco de los que reclaman la herencia y llamando a los que se crean con igual o mejor derecho para que comparezcan a reclamarla dentro de los cuarenta días.
+
+El Juez, prudentemente podrá ampliar el plazo anterior, cuando, por el origen del autor de la sucesión u otras circunstancias, se presuma que pueda haber parientes fuera de la República.
+
+> <small>(F. DE E., P.O. 17 DE MARZO DE 1993)</small>
+
+Los edictos se publicarán además como lo previene el artículo 72, si el valor de los bienes hereditarios excediera de dos mil veces el salario,
+
+###### ARTICULO 564.
+
+Si dentro del mes de iniciado el juicio sucesorio no se presentaren descendientes, cónyuge, ascendientes, concubina o colaterales dentro del cuarto grado, el Juez mandará fijar edictos como se establece en el artículo 563.
+
+###### ARTICULO 565.
+
+Los que comparezcan a consecuencia de dichos llamamientos, deberán satisfacer en lo conducente lo dispuesto por el artículo 559 acompañando además el árbol genealógico.
+
+###### ARTICULO 566.
+
+Después de los plazos a que se refieren los artículos 560 y 563 no serán admitidos los que se presenten deduciendo derechos hereditarios, pero se les dejarán a salvo para que los hagan valer en los términos de Ley.
+
+###### ARTICULO 567.
+
+Transcurrido el término, el Juez procederá conforme lo disponen los artículos 561 y 562.
+
+A falta absoluta de sucesores, en cualquier caso, declarará heredera a la beneficencia pública y nombrará albacea.
+
+###### ARTICULO 568.
+
+La declaración de herederos de un intestado surte el efecto de tenerle por legítimo poseedor de los bienes, derechos y acciones del difunto a la persona en cuyo favor se hizo.
+
+#### SECCION CUARTA. PARTICION
+
+###### ARTICULO 569.
+
+Declarada abierta la sección segunda, dentro de los diez días siguientes se procederá a practicar simultáneamente, siempre que no fuera imposible por la naturaleza de los bienes, las diligencias de inventario y avalúo y, para el efecto, los herederos designarán, por mayoría de votos, perito valuador y si no lo hicieren o no se pusieren de acuerdo, lo nombrará el Juez
+
+###### ARTICULO 570.
+
+Discernido el cargo al perito, dentro de los tres días siguientes el albacea dará aviso con toda oportunidad al Juzgado del lugar, domicilio, día y hora en que se practicarán los inventarios y avalúos, debiendo ser citados por correo o cédula el cónyuge que sobreviva, los herederos, legatarios, acreedores que se hubieran presentado y el perito.
+
+El Juez puede ocurrir cuando lo estime conveniente.
+
+###### ARTICULO 571.
+
+El inventario se practicará por el actuario del Juzgado o por un notario nombrado por la mayoría de los herederos cuando ésta la constituyan menores de edad o cuando los establecimientos de beneficencia tuvieren interés en la sucesión como herederos o legatarios.
+
+###### ARTICULO 572.
+
+El albacea, el actuario del Juzgado, o el notario en su caso, procederán en el día señalado, con los que concurran, a hacer la descripción de los bienes con toda claridad y precisión por el orden siguiente: dinero, alhajas, efectos de comercio o industria, semovientes, frutos, muebles, inmuebles, créditos, documentos y papeles de importancia, bienes ajenos que tenía en su poder el autor de la herencia en comodato, depósito, prenda, o bajo cualquier otro título, expresándose éste.
+
+El perito valuará todos los bienes inventariados
+
+###### ARTICULO 573.
+
+Las diligencias de inventario serán firmadas por todos los concurrentes y en ellas se expresará cualquier inconformidad que se manifieste, designando los bienes sobre cuya inclusión o exclusión recae.
+
+###### ARTICULO 574.
+
+Los títulos y acciones que se coticen en la bolsa de comercio podrán valuarse por informe de la misma.
+
+###### ARTICULO 575.
+
+El albacea debe presentar los inventarios y avalúos dentro de los sesenta días contados a partir de la fecha en que aceptó su cargo, serán agregados a los autos y se pondrán de manifiesto en la secretaría por cinco días, para que los interesados puedan examinarlos, citándoseles al efecto por cédula o correo.
+
+Transcurridos los cinco días sin haberse hecho oposición, el Juez los aprobará sin más trámite. En caso contrario, se substanciará el incidente respectivo siempre y cuando se exprese concretamente cuales son los bienes omitidos o que deban de excluirse o el valor que se atribuye a cada uno de los inventariados correctamente, aportando pruebas.
+
+Si los reclamantes fueren varios e idénticas sus oposiciones, deberán nombrar representante común en la audiencia, conforme lo dispone el artículo 11.
+
+Si los que dedujeron oposición no asistieren a la audiencia, se les tendrá por desistidos. Si dejaren de presentarse los peritos, perderán el derecho de cobrar honorarios por los trabajos practicados.
+
+En la tramitación de este incidente cada parte es responsable de la asistencia de los peritos propuestos, de manera que la audiencia no se suspenderá por la ausencia de todos, algunos o alguno.
+
+###### ARTICULO 576.
+
+El inventario hecho por el albacea o por heredero aprovecha a todos los interesados, aunque no hayan sido citados incluso los sustitutos y los herederos por intestado y perjudica a los que lo hicieron y a los que lo aprobaron.
+
+Aprobado el inventario por el Juez, o por el consentimiento de todos los interesados, solo puede reformarse por error o dolo declarados por sentencia definitiva pronunciada en juicio ordinario, salvo que aparecieren otros bienes caso en el cual procederá la formación de uno suplementario, aplicándose las reglas de esta sección.
+
+###### ARTICULO 577.
+
+Si pasados los términos de diez y sesenta días que señalan los artículos 569 y 575 respectivamente, el albacea no promoviere o no concluyere el inventario, se estará a lo dispuesto por los artículos 2864 y 2865 del Código Civil
+
+###### ARTICULO 578.
+
+Los gastos de inventario y avalúo son a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
+
+#### SECCION PRIMERA. TESTAMENTO PUBLICO ABIERTO
+
+###### ARTICULO 579.
+
+El cónyuge supérstite tendrá la posesión y administración de los bienes de la sociedad conyugal con intervención del albacea, conforme al artículo 199 del Código Civil, y si no las tuviere será puesto en ellas en cualquier momento en que lo pida, aunque antes las haya tenido el albacea u otra persona, sin que por esto pueda suscitarse cuestión alguna.
+
+###### ARTICULO 580.
+
+En el caso del artículo anterior, la intervención del albacea se concretará a vigilar la administración del cónyuge y en cualquier momento en que observe que no se hace convenientemente, dará cuenta al tribunal, quien citará a ambos a una audiencia dentro de los tres días siguientes y dentro de otros tres resolverá lo que proceda.
+
+###### ARTICULO 581.
+
+Si la falta de herederos de que trata el artículo 2800 del Código Civil depende de que el testador declare no ser suyos los bienes, o de otra causa que impida la sucesión por intestado, el albacea judicial durará en su encargo hasta que se entreguen los bienes a su legítimo dueño.
+
+###### ARTICULO 582.
+
+Si la falta de herederos depende de incapacidad legal del nombrado o de renuncia, el albacea judicial durará en su encargo el tiempo señalado en el artículo 2802 del Código Civil.
+
+###### ARTICULO 583.
+
+Si por cualquier motivo no hubiere albacea después de un mes de iniciado el juicio sucesorio, podrá el interventor intentar las demandas que tengan por objeto recobrar bienes o hacer efectivos derechos pertenecientes a aquellos, y contestar las demandas que contra ellos se promuevan.
+
+En los casos muy urgentes podrá el Juez, aún antes de que se cumpla el término que se fija en el párrafo que antecede, autorizar al interventor para que demande y conteste a nombre de la sucesión. La falta de autorización no podrá ser invocada por terceros.
+
+###### ARTICULO 584.
+
+El interventor no podrá deducir en juicio las acciones que por razón de mejoras, manutención o reparación tenga contra la testamentaría o en el intestado, sino cuando haya hecho esos gastos con autorización previa.
+
+La autorización requerida conforme a los artículos 537, 583 y éste, se concederá o se negará de plano, sin ulterior recurso.
+
+###### ARTICULO 585.
+
+Todas las disposiciones relativas al interventor regirán respecto del albacea judicial, siempre que no se contrapongan con la función de éste.
+
+###### ARTICULO 586.
+
+Los libros de cuenta y papeles del autor de la sucesión, se entregarán al albacea y hecha la partición a los herederos reconocidos, observándose respecto a los títulos, lo prescrito en la sección siguiente. Los demás papeles quedarán en poder del que haya desempeñado el albaceazgo.
+
+###### ARTICULO 587.
+
+Si nadie se hubiere presentado alegando derecho a la herencia, o no fueren reconocidos los que se presentaron y se haya declarado heredera a la beneficencia pública, se entregará a ésta los bienes, los libros y papeles que tengan relación con ella. Los demás se archivarán con los autos del intestado, en un sobre cerrado y sellado, cuya cubierta rubricará el Juez, el Secretario y el Agente del Ministerio Público adscrito.
+
+###### ARTICULO 588.
+
+El interventor, el cónyuge en el caso del artículo 579 y el albacea, ya sea provisional, judicial o definitivo, están obligados a rendir dentro de los cinco primeros días de cada año del ejercicio de su cargo, la cuenta de su administración correspondiente al año anterior, pudiendo el Juez, de oficio, exigir el cumplimiento de este deber
+
+###### ARTICULO 589.
+
+Las cantidades que resulten líquidas se depositarán a disposición del Juzgado, en el establecimiento designado por la Ley.
+
+###### ARTICULO 590.
+
+Cuando el que administre no rinda dentro del término legal su cuenta anual o alguna de las cuentas no fuere aprobada en su totalidad, será removido de plano a petición de cualquier interesado.
+
+###### ARTICULO 591.
+
+Cuando no alcancen los bienes para pagar las deudas y legados, el albacea debe dar cuenta de su administración a los acreedores y legatarios.
+
+###### ARTICULO 592.
+
+Concluidas las operaciones de liquidación, dentro de los ocho días siguientes presentará el albacea su cuenta general de albaceazgo; si no lo hace se le apremiará por los medios legales, siendo aplicables las reglas de ejecución de sentencia, sin perjuicio de que sea removido de su cargo.
+
+###### ARTICULO 593.
+
+Presentada la cuenta mensual, anual o general de administración, se mandará poner en la Secretaría a disposición de los interesados por un término de diez días para que se impongan de la misma.
+
+###### ARTICULO 594.
+
+Si todos los interesados aprobaren la cuenta o no la impugnaren, el Juez la aprobará; si alguno o algunos no estuvieren conformes, se tramitará el incidente respectivo, pero es indispensable para que se le dé curso, precisar la objeción y que los que sostengan la misma pretensión nombren representante común.
+
+###### ARTICULO 595.
+
+La garantía otorgada por el interventor o el albacea se cancelará hasta que haya sido aprobada la cuenta general de administración.
+
+#### SECCION SEGUNDA. TESTAMENTO PUBLICO CERRADO
+
+###### ARTICULO 596.
+
+Aprobada la cuenta general de administración, dentro de los quince días siguientes presentará el albacea el proyecto de partición de los bienes, en los términos que dispone el Código Civil y con sujeción a este capítulo. Si no hiciere por sí mismo la partición, lo manifestará al Juez dentro de los tres días de aprobada la cuenta, quien convocará a los herederos, por medio del correo o cédula, a una junta dentro de los tres días siguientes, a fin de que se efectúe en su presencia la elección de perito que la haga.
+
+Si no hubiere mayoría el Juez nombrará partidor eligiéndolo entre los propuestos.
+
+El cónyuge aunque no tenga el carácter de heredero, será tenido como parte si entre los bienes hereditarios hubiere bienes de la sociedad conyugal, respetándole lo que le corresponde por gananciales de acuerdo con las disposiciones legales aplicables y en su defecto, el cincuenta por ciento.
+
+###### ARTICULO 597.
+
+Tiene derecho a pedir la partición de la herencia:
+
+I.- El heredero que tenga libre disposición de sus bienes en cualquier tiempo en que la solicite; puede sin embargo, hacerse la partición antes de la rendición de cuentas o de su aprobación si así lo conviniere la mayoría de los herederos;
+
+II.- Los herederos bajo condición luego que se haya cumplido ésta;
+
+III.- El cesionario del heredero y el acredor (sic) de un heredero que haya trabado ejecución en los derechos que tenga en la herencia, siempre que hubiere obtenido sentencia de remate y no haya otros bienes con que hacer el pago;
+
+IV.- Los coherederos del heredero condicional, siempre que se asegure el derecho de éste para el caso de que se cumpla la condición hasta saberse que ésta ha faltado o no puede ya cumplirse y sólo por lo que respecta a la parte en que consista el derecho pendiente y a las cauciones con que se haya asegurado. El albacea o el perito partidor, en su caso, proveerá al aseguramiento del derecho pendiente; y
+
+V.- Los herederos del heredero que falleciere antes de la partición.
+
+###### ARTICULO 598.
+
+Todo legatario de cantidad tiene derecho a pedir que se le apliquen en pago, bienes de la herencia y a ser considerado como interesado en la diligencia de partición.
+
+###### ARTICULO 599.
+
+Pueden oponerse a que se lleve a efecto la partición:
+
+I.- Los acreedores hereditarios legalmente reconocidos mientras no se pague su crédito si ya estuviere vencido, y si no lo estare, mientras no se les asegure debidamente el pago; y
+
+II.- Los legatarios de cantidad, de alimentos, de educación y de pensiones, mientras no se les pague o garantice legalmente el derecho.
+
+###### ARTICULO 600.
+
+El Juez pondrá a disposición del partidor los autos, y bajo inventario los papeles y documentos relativos al caudal, para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder el derecho de cobrar los honorarios que pudiera devengar y ser separado de plano de su encargo
+
+###### ARTICULO 601.
+
+El proyecto de partición se sujetará en su caso, a la designación de partes que hubiere hecho el testador o a lo convenido entre los interesados.
+
+A falta de convenio entre los interesados, se incluirán en cada porción bienes de la misma especie si fuere posible.
+
+Si hubiere bienes gravados, se especificarán los gravámenes, indicando el modo de redimirlos o dividirlos entre los herederos.
+
+###### ARTICULO 602.
+
+El partidor pedirá a los interesados las instrucciones que juzgue necesarias a fin de hacer las adjudicaciones de conformidad con ellos, en todo lo que estén de acuerdo, o de conciliar en lo posible, sus pretensiones.
+
+Puede ocurrir al Juez, para que por correo o cédula los cite a una junta, a fin de que en ella los interesados fijen, de común acuerdo, las bases de la partición, que se considerará como un convenio. Si no hubiere conformidad, el partidor se sujetará a los principios legales.
+
+En todo caso, al hacerse la división, se separarán los bienes que correspondan al cónyuge que sobreviva, conforme a las capitulaciones matrimoniales o a las disposiciones que regulan la sociedad conyugal y en su defecto, a las del contrato de sociedad.
+
+###### ARTICULO 603.
+
+Concluido el proyecto de partición, el Juez mandará ponerlo a la vista de los interesados en la Secretaría por un término de diez días.
+
+Vencido éste sin haber oposición, el Juez aprobará el proyecto y dictará sentencia de adjudicación, mandando entregar a cada interesado los bienes que le hubieren sido aplicados con los títulos de propiedad, después de ponerse en ellos, por el Secretario, una nota en que haga constar la adjudicación.
+
+La sentencia que apruebe o repruebe la partición es apelable en ambos efectos cuando el monto del caudal exceda de ciento ochenta y dos días de salario.
+
+###### ARTICULO 604.
+
+La escritura de partición, cuando haya lugar a su otorgamiento, deberá contener, además de los requisitos legales, los siguientes:
+
+I.- Los nombres, medidas y linderos de los predios adjudicados, con expresión de la parte que cada heredero adjudicatario tenga obligación de devolver si el precio de la cosa excede al de su porción o de recibir si falta;
+
+II.- La garantía especial que para la devolución del exceso constituya el heredero en el caso de la fracción que precede;
+
+III.- La enumeración de los muebles o cantidades repartidas;
+
+IV.- Noticia de la entrega de los títulos de las propiedades adjudicadas o repartidas; y
+
+V.- Expresión de las cantidades que algún heredero quede reconociendo a otro y de la garantía que se haya constituido.
+
+###### ARTICULO 605.
+
+La adjudicación de bienes hereditarios se otorgará con las formalidades que por su cuantía la ley exige para su venta. El notario que otorgará la escritura será designado por el albacea.
+
+### CAPITULO IV. DECLARACION DE SER FORMAL EL TESTAMENTO
+
+###### ARTICULO 606.
+
+En todo lo relativo a la sucesión de los bienes del patrimonio familiar, se observarán las disposiciones de este título, que no se opongan a las siguientes reglas:
+
+I.- Con la certificación de la defunción del autor de la herencia, se acompañarán los comprobantes, de la constitución del patrimonio familiar y su registro, así como el testamento o la denuncia del intestado;
+
+II.- El inventario y avalúo se harán por el cónyuge que sobreviva o el albacea si estuviere designado y, en su defecto, por el heredero que sea de más edad; el avalúo deberá ser firmado por un perito oficial o bien, por cualquier comerciante de honorabilidad reconocida;
+
+III.- El Juez convocará a junta a los interesados, nombrará en ella tutores especiales para los menores que no tuvieren representante legítimo o cuando el interés de éstos fuere opuesto al de aquéllos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. De no lograrlo nombrará un partidor entre los peritos oficiales a cargo del erario, quien en el término de cinco días presentará el proyecto de partición, que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o correo, en ésta se oirán y decidirán las oposiciones, mandando hacer la adjudicación cuando procediere;
+
+IV.- Todas las resoluciones se harán constar en actas y no se requieren peticiones escritas de parte interesada para la tramitación del juicio; y
+
+V.- El acta o actas en que consten las adjudicaciones pueden servir de título de propiedad a los interesados.
+
+### CAPITULO V. TRAMITACION ANTE NOTARIO
+
+###### ARTICULO 607.
+
+Para la tramitación de toda testamentaría, se requiere que previamente se declare judicialmente que el testamento respectivo es formalmente válido conforme a las disposiciones contenidas en la sección primera, capítulo II de éste título y de las siguientes.
+
+#### SECCION TERCERA. TESTAMENTO OLOGRAFO
+
+###### ARTICULO 608.
+
+No será necesaria la declaración judicial, cuando todos los herederos instituidos en un testamento público abierto sean capaces al momento de la delación y sean conformes con la tramitación extrajudicial, caso en el cual los herederos, exhibiendo la partida de defunción del testador y un testimonio del testamento, podrán presentarse ante un notario manifestándole que reconocen la validez de éste, la capacidad y derechos hereditarios de las personas instituidas y su voluntad unánime de que se tramite la testamentaría, designando en el acto, si no lo hubiere, al albacea o pidiéndole llame, si no estuviere presente, al testamentario.
+
+#### SECCION CUARTA. TESTAMENTO PRIVADO
+
+###### ARTICULO 609.
+
+Para la apertura del testamento público cerrado, los testigos reconocerán separadamente sus firmas y el pliego que las contenga.
+
+###### ARTICULO 610.
+
+Cumplido lo prescrito en los artículos 2676 a 2681 del Código Civil, en sus respectivos casos, el Juez, en presencia del notario, testigos y partes interesadas, abrirá el testamento, lo leerá para sí y después le dará lectura en voz alta, omitiendo todo lo que deba permanecer en secreto.
+
+Enseguida, firmarán al margen del testamento las personas que hayan intervenido en la diligencia, y se le pondrá el sello del Juzgado, asentándose acta de todo ello.
+
+###### ARTICULO 611.
+
+Si se presentaren dos o más testamentos cerrados, de una misma persona, sean de igual o diversa fecha, el Juez procederá respecto a cada uno de ellos como se previene en esta sección y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 2628 y 2630 del Código Civil.
+
+#### SECCION PRIMERA. EXCEPCION DE COSA JUZGADA
+
+###### ARTICULO 612.
+
+El Tribunal competente para conocer de una sucesión, que tenga noticia de que el autor de la herencia depositó su testamento ológrafo, como se dispone en el artículo 2687 del Código Civil, dirigirá oficio al Encargado del Registro Público en que se hubiere hecho el depósito a fin de que le remita el sobre cerrado en que el testador declaró que se contiene su última voluntad.
+
+###### ARTICULO 613.
+
+Recibido el sobre, procederá el Tribunal como se dispone en el artículo 2695 del Código Civil.
+
+###### ARTICULO 614.
+
+Si para la debida identificación fuere necesario reconocer la firma por no existir los testigos que hubieren intervenido, o por no estimarse bastante sus declaraciones, el Tribunal nombrará un perito para que confronte la firma con las indubitadas que existan del testador, y teniendo en cuenta su dictamen, hará la declaración que corresponda.
+
+#### SECCION SEGUNDA. LITISPENDENCIA
+
+###### ARTICULO 615.
+
+A solicitud de parte interesada, puede declararse formal el testamento privado, sea que conste por escrito o solo de palabra en el caso del artículo 2702 del Código Civil.
+
+###### ARTICULO 616.
+
+Hecha la solicitud, se señalará día y hora para el examen de los testigos que hayan concurrido al otorgamiento.
+
+Para la información se citará al representante del Ministerio Público, quien tendrá obligación de asistir y repreguntar a los testigos para asegurarse de su veracidad.
+
+Los testigos declararán sujetándose estrictamente a lo dispuesto en el artículo 2708 del Código Civil.
+
+Recibidas las declaraciones, se procederá conforme al artículo 2709 del Código Civil.
+
+#### SECCION TERCERA. CONEXIDAD
+
+### CAPITULO I. DE PREVIO Y ESPECIAL PRONUNCIAMIENTO
+
+###### ARTICULO 617.
+
+La separación del procedimiento judicial, para continuar el trámite ante el nota-notario (sic), tendrá lugar en los siguientes casos:
+
+I.- Cuando todos los herederos sean capaces y hubieren sido instituidos en testamento;
+
+II.- Cuando todos los herederos intestamentarios sean capaces, después del reconocimiento de sus derechos; y
+
+III.- Cuando, en cualquiera de las dos hipótesis anteriores, habiendo incapaces, estén debidamente representados y se cuente con la conformidad del Ministerio Público y del Procurador de la Defensa del Menor y la Familia.
+
+###### ARTICULO 618.
+
+En el supuesto del artículo 608 o hecha la declaración judicial de ser formal un testamento o de la declaratoria de herederos en los intestamentarios, podrá continuarse la tramitación ante notario, conforme a la Ley del Notariado y, en lo que no prevea, se aplicarán en lo conducente las disposiciones de éste título
+
+###### ARTICULO 619.
+
+Siempre que haya oposición, en el momento en que surgiere, el notario suspenderá su intervención hasta que sea resuelta.
+
+# LIBRO QUINTO. INCIDENTES Y RECURSOS
+
+## TITULO PRIMERO. INCIDENTES
+
+###### ARTICULO 620.
+
+Los incidentes ajenos al negocio principal o notoriamente frívolos o improcedentes, deberán ser repelidos de oficio por los tribunales, aplicando lo dispuesto por los artículos 54 y 55.
+
+###### ARTICULO 621.
+
+Los incidentes se tramitarán, cualquiera que sea su naturaleza, con un escrito de cada parte.
+
+Si no se promovieren pruebas, se citará para interlocutoria o se reservará para la definitiva, según procediere. En caso contrario, las pruebas se ofrecerán en los escritos respectivos, precisando los hechos que con ellas se pretenda demostrar y que no serán ajenos a la cuestión incidental, las cuales, si estuvieren ajustadas a derecho, se admitirán y desahogarán en una audiencia que se celebrará dentro del término de cinco días, y cuyo efecto también será el de citar para resolución.
+
+### CAPITULO II. QUE NO SUSPENDEN EL PROCEDIMIENTO Y DEBEN SER RESUELTOS UNA VEZ SUSTANCIADOS
+
+###### ARTICULO 622.
+
+Formarán artículo de previo y especial pronunciamiento y por ello impiden el curso del juicio las excepciones de cosa juzgada, litispendencia, conexidad y falta de personalidad, personaría o capacidad en cualquiera de las partes, así como los incidentes de nulidad de actuaciones por falta o defecto en el emplazamiento, de citación para absolución de posiciones o para el reconocimiento de documentos.
+
+La nulidad de actuaciones por falta o defecto en el emplazamiento, es la única que no se convalida.
+
+#### SECCION CUARTA. FALTA DE PERSONALIDAD
+
+###### ARTICULO 623.
+
+Cuando de conformidad con lo dispuesto en los artículos 260 a 263 se haga valer a petición de parte la cosa juzgada, se dará forma al incidente respectivo y, si es declarado procedente, además de los efectos contemplados en los dispositivos antes citados, se condenará en costas a quien promoviere el nuevo juicio y se le impondrá una multa de hasta veinte días de salario.
+
+#### SECCION PRIMERA. UN SOLO EFECTO: DEVOLUTIVO
+
+###### ARTICULO 624.
+
+La litispendencia podrá plantearse cuando un Juez conoce ya de un mismo asunto. El que la haga valer debe señalar el juzgado donde se tramita el primer juicio; si se declara procedente, se remitirán los autos al juzgado que primero conoció del asunto cuando ambos jueces se encuentren dentro de la jurisdicción del mismo tribunal de apelación. Dará por concluído el procedimiento si el primer juicio se tramita en juzgado que no pertenezca a la misma jurisdicción de apelación o en diversa instancia.
+
+#### SECCION SEGUNDA. AMBOS EFECTOS: DEVOLUTIVO Y SUSPENSIVO
+
+###### ARTICULO 625.
+
+La conexidad tiene por objeto, si es declarada procedente, la acumulación de los autos en que se opone, a los más antiguos. Hay conexidad de causa cuando hay identidad de personas y acciones, aunque las cosas sean distintas, y cuando las acciones provengan de una misma causa.
+
+###### ARTICULO 626.
+
+No procede la excepción de conexidad:
+
+I.- Cuando los juicios están en diversas instancias;
+
+II.- Cuando se trata de juicios especiales; y
+
+III.- Cuando los juzgados que conozcan respectivamente de los juicios pertenezcan a tribunales de alzada diferentes.
+
+#### SECCION TERCERA. SUBSTANCIACION
+
+###### ARTICULO 627.
+
+En cualquier etapa del juicio las partes pueden impugnar la personalidad, personería o capacidad de su contraria, fundándose en que ésta carece de las calidades necesarias para comparecer en juicio o en no acreditar el carácter o representación que ostenta.
+
+Declarada procedente, el efecto será, si es contra el actor, que las cosas vuelvan a su estado que tenían antes de la presentación de la demanda y si es contra cualquiera de las otras partes negarles su intervención desde el primer escrito en que hayan comparecido, mientras no acrediten su calidad, carácter o representación conforme a derecho.
+
+Sin embargo, cuando una excepción se funde en la falta de personalidad o en cualquier defecto procesal que pueda subsanarse, para encauzar legalmente el desarrollo del juicio, podrá el interesado corregirlo en cualquier estado del mismo.
+
+###### ARTICULO 628.
+
+Similar trámite seguirá la falta de legitimación pasiva que en su defensa alegue quien haya sido emplazado sin tener realmente la calidad de demandado, siempre y cuando lo haga antes o al contestar la demanda.
+
+###### ARTICULO 629.
+
+Esta clase de incidentes tendrá lugar en cualquiera de los casos siguientes:
+
+I.- La nulidad de actuación distintas a las precisadas como de previo y especial pronunciamiento, observándose las siguientes reglas:
+
+a).- La nulidad establecida en beneficio de una de las partes no puede ser invocada por la otra ni por la que dio lugar a ella;
+
+b).- Debe reclamarse en la actuación subsecuente, pues de los (sic) contrario, queda revalidada de pleno derecho;
+
+c).- Las notificaciones hechas en forma distinta a la prevenida por la Ley serán nulas; pero si la persona afectada se hubiere manifestado en juicio sabedora de la resolución mal notificada, la notificación surtirá desde entonces sus efectos como si estuviere legítimamente hecha.
+
+II.- La reclamación contra una medida cautelar;
+
+III.- Cuando se alegue justa causa para no exhibir alguna cosa por la que haya sido requerido judicialmente;
+
+IV.- Para hacer liquidación de cantidad ilíquida contenida en instrumento público o privado reconocido, con la finalidad de preparar la acción ejecutiva;
+
+V.- La remoción del depositario fuera de los casos del artículo 381;
+
+VI.- Cuestiones relativas al depósito de sobrante líquido y sus cuentas, rendición de éstas por el depositario judicial y diferencias o por el síndico en los concursos;
+
+VII.- Acreditar el impedimento insuperable para comparecer a juicio llevado en rebeldía a efecto de que, si se promoviere después de la etapa de ofrecimiento de pruebas, declarado procedente se le reciban las que aporte conforme a derecho;
+
+VIII.- La oposición de tercero a la ejecución de sentencias pronunciadas por los tribunales de otros estados y del extranjero en obsequio de exhorto;
+
+IX.- La oposición del deudor al concurso y la de sus acreedores; créditos verificados provisional o definitivamente objetados, según el caso, por el deudor, síndico, acreedor o acreedores; oposición del concursado a la petición que para la adjudicación en copropiedad de sus bienes hagan los acreedores comunes, cuyos créditos hayan sido verificados; las objeciones a las cuentas de administración rendidas por el síndico y la remoción de éste por cualquier causa;
+
+X.- La oposición a que alude el artículo 528 y la objeción de falsas de algunas partidas de la rendición de cuentas por el tutor;
+
+XI.- Los que se susciten durante la tramitación de los juicios sucesorios, salvo que se disponga otra cosa;
+
+XII.- Para probar que se consumó la caducidad por maquinaciones hechas por una de las partes en perjuicio de la otra. Declarado procedente, se dejará sin efecto la resolución de caducidad, continuando el procedimiento;
+
+XIII.- Las tercerías excluyentes; y
+
+XIV.- Las demás previstas por la Ley.
+
+### CAPITULO III. QUE SE RESUELVEN AL DICTAR SENTENCIA
+
+###### ARTICULO 630.
+
+Se resolverán en sentencia definitiva los siguientes incidentes:
+
+I.- Los relativos a las excepciones supervenientes que se hagan valer hasta antes de la sentencia;
+
+II.- El de nulidad de la confesión proveniente de error o violencia;
+
+III.- El de tachas de testigos;
+
+IV.- El de impugnación de falsedad de un documento que puede hacerse desde la contestación de la demanda hasta seis días antes de la celebración de la audiencia de pruebas. La parte que redarguye de falso un documento debe indicar específicamente los motivos y las pruebas; cuando se impugne la autenticidad del documento privado o público sin matriz, deben señalarse los documentos indubitables para el cotejo y promover la prueba pericial correspondiente. Sin estos requisitos se tienen por no redargüído o impugnado el instrumento.
+
+V.- En los juicios ejecutivos, la oposición del ejecutado a los valores fijados por el ejecutante a la cosa reclamada que ya no exista y la liquidación de cantidades que por intereses o daños y perjuicios formen parte de la deuda cuando no lo estuvieren al despacharse la ejecución; y
+
+VI.- Los demás que indique la Ley.
+
+### CAPITULO IV. QUE SE TRAMITAN PARA LOGRAR LA EJECUCIÓN DE SENTENCIA
+
+###### ARTICULO 631.
+
+Se tramitarán en ejecución de sentencia, los siguientes:
+
+I.- El de regulación de costas;
+
+II.- Los que se promuevan para fijar el importe en cantidad líquida cuando la sentencia condene por ilíquida o daños y perjuicios sin fijar su importe;
+
+III.- Los mencionados en los artículos 345, 348 párrafo segundo, 349, 350 y 411 fracción IV;
+
+IV.- Los de las excepciones admisibles contra la ejecución de las sentencias y convenios judiciales; y
+
+V.- La liquidación que tenga que hacerse de los gravámenes que afecten a los inmuebles vendidos, gastos de ejecución y demás.
+
+### CAPITULO I. REVOCACION
+
+###### ARTICULO 632.
+
+Los tribunales no admitirán nunca recursos notoriamente frívolos o improcedentes; los desecharán de plano, aplicando lo dispuesto en los artículos 54 y 55.
+
+Son irrecurribles, además de los casos expresamente determinados por la ley, las resoluciones que se dicten:
+
+I.- Ordenando el trámite a cualquier medio preparatorio;
+
+II.- Otorgando la posesión y administración al cónyuge supérstite de los bienes de la sociedad conyugal;
+
+III.- Mandando abrir a prueba un juicio o admitiéndola;
+
+IV.- Decidiendo los incidentes a que se refieren los artículos 620 y 629 fracciones II, III, IV, VII, VIII, X y XII;
+
+V.- Decidiendo el recurso de revocación;
+
+VI.- Las que se dicten con carácter provisional, excepto aquellas en que se disponga otra cosa;
+
+VII.- Decidiendo el fondo del asunto cuya suerte principal no exceda del equivalente a ciento ochenta y dos días de salario vigente en la fecha en que se pronuncie la sentencia;
+
+VIII.- Declarando ejecutoriada una sentencia;
+
+IX.- En ejecución de sentencia, salvo los casos previstos por la ley;
+
+X.- Decidiendo de plano cualquier cuestión que se suscite durante la subasta; y
+
+XI.- Aprobando el remate o declarando la adjudicación de bienes embargados.
+
+## TITULO SEGUNDO. RECURSOS
+
+###### ARTICULO 633.
+
+Las resoluciones que no sean irrecurribles ni apelables, podrán ser revocadas por el Juez que las dicte o por el que lo sustituya en el conocimiento del asunto.
+
+### CAPITULO II. APELACION
+
+###### ARTICULO 634.
+
+Los autos que se dicten en segunda instancia, aún aquellos que en primera instancia serían apelables, pueden ser revocados por la sala o por la que la sustituya.
+
+###### ARTICULO 635.
+
+La revocación debe pedirse dentro de las veinticuatro horas siguientes a la notificación, por escrito, del que se ordenará correr traslado a la contraria por igual término, y transcurrido el mismo se resolverá dentro de los tres días siguientes.
+
+###### ARTICULO 636.
+
+El recurso de apelación tiene por objeto que en segunda instancia se reparen, en su caso, las violaciones cometidas en las resoluciones contra las cuales sea admisible.
+
+###### ARTICULO 637.
+
+Son casos de improcedencia de la apelación:
+
+I.- La extemporaneidad;
+
+II.- La irrecurribilidad;
+
+III.- Que la resolución sea revocable;
+
+IV.- Que la resolución haya sido combatidas (sic) por otro medio de impugnación; y
+
+V.- Haber obtenido todo lo que se pidió.
+
+###### ARTICULO 638.
+
+Las resoluciones apelables distintas a la sentencia de fondo, lo serán a condición de que ésta también fuere apelable.
+
+###### ARTICULO 639.
+
+Pueden apelar todos los interesados a quienes perjudique la resolución judicial, pero no el que obtuvo todo lo que pidió.
+
+###### ARTICULO 640.
+
+La apelación puede interponerse en el acto de notificarse o por escrito.
+
+###### ARTICULO 641.
+
+El litigante al interponer la apelación debe usar la moderación, absteniéndose de denostar al Juez, de lo contrario se aplicará en su contra lo dispuesto en los artículos 54 y 55.
+
+###### ARTICULO 642.
+
+El recurso de apelación procede en uno o en ambos efectos. En el primer caso no suspende el procedimiento ni la ejecución del auto o sentencia y en el segundo sí, hasta que sea resuelto.
+
+Si la apelación devolutiva fuere de sentencia definitiva, se dejará en el juzgado, para ejecutarla, copia certificada de ella y de las constancias que el juez estime necesarias y si fuere de auto o interlocutoria, solo se remitirá al superior testimonio de lo que señalare de los autos el apelante, con las adiciones que haga la parte interesada y con las que el Juez estime necesarias, a no ser que el apelante prefiera esperar la remisión de los autos originales cuando estén en estado. Si dentro de los tres días siguientes al en que se le notifique la admisión del recurso, el apelante no señala las constancias para integrar el testimonio ni manifiesta que prefiere esperar, se le negará dicho testimonio y se tendrá por firme la resolución apelada.
+
+###### ARTICULO 643.
+
+Interpuesta la apelación, el juez la admitirá sin substanciación alguna si fuere procedente, expresando si la admite en uno o en ambos efectos y ordenará prevenir a las partes que deberán señalar domicilio para oír notificaciones en la residencia del Tribunal de Alzada a más tardar el día siguiente al en el que se notifique dicho auto.
+
+###### ARTICULO 644.
+
+Se admitirán en el efecto devolutivo las apelaciones que se hagan valer impugnando:
+
+I.- El auto admisorio de demanda;
+
+II.- La negativa de admisión de demanda o de un medio preparatorio de juicio;
+
+III.- El auto que deseche pruebas;
+
+IV.- La desestimación de posiciones, preguntas o repreguntas;
+
+V.- Los autos o determinaciones en que se declare confeso al absolvente o en que se niegue;
+
+VI.- Interlocutorias con fuerza de definitivas que no paralizan ni ponen término al juicio;
+
+VII.- Sentencias definitivas que se pronuncien en juicios de desahucio, alimentos o diferencias conyugales;
+
+VIII.- La negativa a la ejecución de resoluciones de tribunales de otros estados o del extranjero en cumplimiento de un exhorto;
+
+IX.- El auto que niegue a un cónyuge supérstite la posesión y administración de los bienes de la sociedad conyugal;
+
+X.- La resolución que declare la sustitución del administrador de la sociedad conyugal y la terminación de dicha sociedad;
+
+XI.- La concesión de separación del domicilio familiar;
+
+XII.- La declaratoria de herederos y el reconocimiento o desconocimiento de esa calidad o de la validez de testamento; y
+
+XIII.- Las demás resoluciones contra las que expresamente así lo señala la ley.
+
+###### ARTICULO 645.
+
+No obstante lo dispuesto por el artículo anterior, si el apelante en un plazo que no exceda de tres días, presta garantía a satisfacción del tribunal de alzada para responder, en su caso, de las costas, daños y perjuicios que pueda ocasionar a la parte contraria, se admitirá la apelación en ambos efectos, excepto cuando se trate de alimentos.
+
+Si el tribunal confirmase la resolución apelada, condenará al apelante al pago de dichas indemnizaciones, además de lo que importen las costas.
+
+###### ARTICULO 646.
+
+Admitida la apelación en el efecto devolutivo, no se ejecutará la resolución impugnada si no se otorga previamente la garantía que podrá consistir en:
+
+I.- Depósito de dinero en efectivo;
+
+II.- Hipoteca sobre bienes inmuebles bastantes a juicio del tribunal, ubicados dentro del territorio del estado; y
+
+III.- Fianza en la que deberán renunciarse los beneficios de orden y excusión.
+
+###### ARTICULO 647.
+
+La garantía otorgada por el ejecutante deberá ser suficiente para responder de la devolución o entrega de la cosa que haya de serlo, sus frutos y la indemnización de daños y perjuicios. El ministerio Público y el acreedor alimentario no están obligados a prestarla.
+
+###### ARTICULO 648.
+
+El condenado podrá otorgar la contragarantía para evitar la ejecución de la resolución, la que comprenderá el pago de lo juzgado y sentenciado y gastos erogados por el ejecutante. Este derecho no lo tendrá el deudor alimentista.
+
+###### ARTICULO 649.
+
+En los juicios relativos a cuestiones no pecuniarias, el señalamiento quedará a criterio del tribunal.
+
+###### ARTICULO 650.
+
+Además de los casos determinados expresamente en la ley, se admitirán en ambos efectos las apelaciones que se interpongan en contra de:
+
+I.- Las providencias dictadas en jurisdicción voluntaria;
+
+II.- La resolución en que un juez se inhibe del conocimiento de un asunto;
+
+III.- Las interlocutorias o autos definitivos en que se declare procedente un incidente de previo y especial pronunciamiento o que paralicen o pongan término al juicio haciendo imposible su continuación;
+
+IV.- Autos o determinaciones dictadas en las audiencias denegando la admisión de pruebas, desechándolas o declarándolas desiertas totalmente;
+
+V.- Sentencias definitivas, salvo los casos de excepción;
+
+VI.- La declaración de caducidad;
+
+VII.- La resolución que declare o niegue el sobreseimiento;
+
+VIII.- La concesión de la ejecución de una resolución de tribunales de otros estados o del extranjero en obsequio de un exhorto;
+
+IX.- La resolución que se dicte con carácter de definitiva decidiendo cualquier cuestión de índole familiar, salvo las referidas a alimentos, diferencias conyugales y en las fracciones IX a XI del artículo 644;
+
+X.- La resolución que apruebe la partición, siempre y cuando exceda de dos mil días de salario; y
+
+XI.- Resoluciones dictadas en incidentes de liquidación o similares.
+
+###### ARTICULO 651.
+
+La apelación admitida en ambos efectos suspende desde luego la ejecución de las resoluciones recurridas y entretanto se decide, solo podrán dictarse las que se refieran a la administración, custodia y conservación de los bienes embargados o intervenidos judicialmente, siempre que la apelación no versare sobre uno de estos actos.
+
+###### ARTICULO 652.
+
+La tramitación de la apelación se sujetará a las siguientes reglas:
+
+I.- Se confirmará, revocará o modificará por la sala respectiva, el auto dictado por el inferior, en el que se admitió el recurso y se hizo la calificación del grado;
+
+II.- Confirmado el auto, de oficio se pondrán los autos a la vista del apelante para que dentro de cinco días presente sus agravios y se mandará requerirlo para que proporcione, si antes no lo hubiere hecho, nombre y domicilio de su abogado patrono si lo tuviere, con apercibimiento de que en caso de ocultamiento, la multa que se impusiere de conformidad con la fracción VI de este precepto, será única y exclusivamente a su cargo. Revocado o modificado, se ordenará lo que corresponda;
+
+III.- Expresados los agravios en tiempo, se correrá traslado a la parte apelada para que dentro del término de tres días los conteste, o manifieste lo que a sus intereses convenga.
+
+Transcurrido el término señalado sin que la parte apelante haya expresado agravios, de oficio o a petición de parte, se declarará desierto el recurso procediendo en consecuencia;
+
+IV.- En los escritos de expresión de agravios y contestación, las partes pueden ofrecer pruebas especificando los puntos sobre los que deben de versar, que nunca serán extraños a la cuestión debatida, y se esté en cualquiera de estos casos: cuando por cualquier causa no imputable al que solicita la prueba, no haya podido practicarse en la primera instancia toda o en parte de la que hubiera previsto u ocurriere algún hecho que importe excepción superveniente;
+
+V.- Dentro del día siguiente al que haya concluido el término para la contestación de agravios y si se hubieren ofrecido pruebas, se resolverá admitiendo las que necesariamente procedieren y se fijará día y hora para su recepción;
+
+VI.- Si no contestaren los agravios, no se ofrecieron pruebas, las ofrecidas no fueren admitidas o concluida su recepción, según el caso, se citará a las partes para sentencia y ésta se pronunciará dentro del término de ley;
+
+Si se encontraren violaciones al procedimiento que dejaren sin defensa a cualquier persona con interés legítimo, se ordenará la reposición de aquél siempre que sea trascendente en el resultado del fallo, debiendo precisar el efecto o efectos y hacer un extrañamiento al inferior.
+
+Podrá suplirse la deficiencia de los agravios y si al hacerlo el tribunal de alzada encontrare que se debe no a la ignorancia, sino a la negligencia, irresponsabilidad o falta de ética del apelante o de su abogado patrono, impondrá a cada uno o a ambos según el caso, una multa de hasta veinte días de salario;
+
+VII.- Si se tuviere conocimiento de oficio o a petición de parte sobre la existencia de apelación devolutivo pendiente de resolver cuando ya haya citación para decidir el fondo en primera o segunda instancia, se suspenderá el pronunciamiento de la sentencia definitiva mientras la apelación devolutiva pendiente no sea resuelta; y
+
+VIII.- La sala del ramo declarará improcedente la apelación, sin entrar al estudio de los agravios, cuando encontrare que fue indebidamente admitida.
+
+TRANSITORIOS:
+
+###### ARTICULO 1o.
+
+Este Código empezará a regir noventa días después de su publicación en el Periódico Oficial del Estado y a partir de la misma fecha quedará abrogado el que fue aprobado mediante Decreto número 6434 de este Congreso, representado por su XIX Legislatura, publicado el 22 de Agosto de 1981, y todas aquellas disposiciones que se le opongan.
+
+###### ARTICULO 2o.
+
+La substanciación de los asuntos que estén pendientes en primera o única instancia al entrar en vigor este Código, se sujetarán al inmediato anterior hasta pronunciarse sentencia. La tramitación de la apelación contra el fallo que se dicte en esos asuntos, se sujetará al presente ordenamiento pero para su procedencia regirán las del abrogado.
+
+###### ARTICULO 3o.
+
+La tramitación y resolución de las apelaciones pendientes al entrar en vigor este Código se sujetarán a las prescripciones del artículo anterior.
+
+###### ARTICULO 4o.
+
+Si para la interposición de un recurso o para el ejercicio de algún otro derecho en la tramitación de los negocios pendientes al entrar en vigor este Código, estuviere corriendo un término y el señalado en él fuere menor que el fijado en la Ley anterior, se observará lo dispuesto en esta última.
+
+###### ARTICULO 5o.
+
+Cuando en este Código se cite artículos por su número sin mencionar otra Ley, se entenderá que corresponden a este mismo ordenamiento; se tome como base el salario, será el mínimo general vigente en la fecha de la resolución en que se invoque o concretice y si desaparece, el sistema por el que sea sustituido, y se establezca sanción pecuniaria sin precisar su aplicación, ésta se hará en favor del Fondo Auxiliar del Poder Judicial.
+
+###### ARTICULO 6o.
+
+Cuando el Código Civil o alguna otra ley establezca un procedimiento especial, se seguirá éste en todo lo que no contradiga las disposiciones del presente ordenamiento.
+
+D A D O En la sala de sesiones "Benito Juárez" del Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los treinta y un días del mes de Julio de Mil Novecientos Noventa y Dos.
+
+Dip. Presidente
+
+VICTOR M. PINEDA DAVILA.- Rúbrica.
+
+Dip. Secretario.
+
+ANTONIO LOPEZ ARENAS.- Rúbrica.
+
+Dip. Secretario.
+
+ADAN ZAMORA TOVAR.- Rúbrica.
+
+Y EN CUMPLIMIENTO DE LO DISPUESTO EN LA FRACCION II DEL ARTICULO 69 DE LA CONSTITUCION POLITICA DEL ESTADO Y PARA SU DEBIDA OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DE NAYARIT, EN TEPIC, SU CAPITAL, A LOS CUATRO DIAS DEL MES DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y DOS.
+
+EL SRIO. GENERAL DE GOBIERNO.
+
+LIC. JAVIER GERMAN RODRIGUEZ JIMENEZ.- Rúbrica.
