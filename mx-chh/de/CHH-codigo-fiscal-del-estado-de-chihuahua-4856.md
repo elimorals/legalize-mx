@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2000-12-23"
+last_updated: "2002-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -53,7 +53,9 @@ CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
 6o.- A la Tesorería General y sus dependencias ingresarán todos los caudales públicos del Estado.
 
-Los ingresos destinados a la Universidad Autónoma de Chihuahua, serán recaudados por las oficinas receptoras simultáneamente con las demás contribuciones y se concentrarán en la Tesorería General del Estado, la que los entregará al Patronato de la Universidad Autónoma de Chihuahua.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
+
+Los ingresos destinados a la Universidad Autónoma de Chihuahua y a la Universidad Autónoma de Ciudad Juárez, serán recaudados por las oficinas receptoras simultáneamente con las demás contribuciones y se concentrarán en la Secretaría de Finanzas y Administración de Gobierno del Estado, la que los entregará a dichas instituciones educativas.
 
 7o.- Todo egreso deberá hacerse por acuerdo del Gobernador del Estado dado por escrito a la Oficialía Mayor, para que ésta expida las órdenes de pago correspondientes.
 
@@ -209,9 +211,9 @@ III.- Si ambos o todos los acreedores públicos poseen garantías reales, la pre
 
 28.- Los ingresos ordinarios son aquellos que se obtienen normalmente para la atención del gasto público.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1980)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
 
-Con este mismo carácter se establece a cargo de los contribuyentes, el Impuesto Adicional del 4% sobre todos los impuestos ordinarios y derechos a que se refiere este artículo, cuyo rendimiento será destinado única y exclusivamente al sostenimiento de la Universidad Autónoma de Chihuahua.
+Con este mismo carácter se establece a cargo de los contribuyentes, el impuesto adicional del 4% sobre todos los impuestos ordinarios y derechos a que se refiere este artículo, cuyo rendimiento será destinado al sostenimiento de la Universidad Autónoma de Chihuahua y de la Universidad Autónoma de Ciudad Juárez, por partes iguales.
 
 29.- Son ingresos extraordinarios, aquellos cuya percepción se decreta excepcionalmente para proveer al pago de gastos o inversiones eventuales o extraordinarios del Estado.
 
@@ -3719,7 +3721,7 @@ Los ingresos que el Estado obtenga por contribuciones especiales, se fijarán y 
 
 314.- Quedan comprendidas en este Capítulo, las participaciones a Municipios derivadas de los ingresos provenientes de la Participación Federal al Estado, correspondientes al Fondo General de Participaciones y al Impuesto sobre Tenencia o Uso de Vehículos, así como las derivadas de los Impuestos Estatales.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
 
 315.- Las participaciones a los Municipios del Estado se integrarán de la siguiente forma:
 
@@ -3739,7 +3741,7 @@ B).- El 50% (cincuenta por ciento) restante, de acuerdo a los factores de increm
 
 316.- Como resultado de los procedimientos de distribución de participaciones, a que se refiere el Artículo anterior, anualmente fijará el Congreso del Estado, en la Ley de Ingresos para los Municipios, los porcentajes de participación sobre el producto total que les corresponda.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
 
 317.- El importe de las participaciones a que se contrae la fracción II del artículo 315, se destinará en un ciento por ciento a programas de obra pública. En condiciones excepcionales plenamente justificadas ante la Comisión de Gasto y Financiamiento, podrán destinarse a otros fines.
 
@@ -4650,3 +4652,13 @@ P.O. 23 DE DICIEMBRE DE 2000.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el primero de enero del dos mil uno.
+
+P.O. 25 DE MAYO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año 2003.
+
+###### ARTÍCULO SEGUNDO.
+
+Los municipios recaudarán los ingresos provenientes de la tasa adicional a que se refiere el Artículo Primero del presente Decreto, a partir de la entrada en vigor del mismo.
