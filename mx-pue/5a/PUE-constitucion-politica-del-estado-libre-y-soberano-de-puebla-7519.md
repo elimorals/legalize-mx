@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1990-06-15"
+last_updated: "1990-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 1990.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 1990.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -1113,7 +1113,9 @@ El Municipio libre constituye la base de la división territorial y de la organi
 
 I.- Los Ayuntamientos se complementarán:
 
-a).- En el Municipio Capital del Estado, hasta con cinco Regidores, que serán acreditados conforme al principio de representación proporcional.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1990)</small>
+
+a).- En el Municipio Capital del Estado, hasta con 6 Regidores, que serán acreditados conforme al principio de representación proporcional.
 
 b).- En los Municipios que conforme al último censo general de población tengan cien mil o más habitantes, hasta con tres Regidores que serán acreditados de acuerdo con el mismo principio.
 
@@ -1655,7 +1657,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -1663,7 +1665,7 @@ Transitorio.- Esta disposición comenzará a surtir sus efectos desde la fecha d
 
 P.O. 2 DE JUNIO DE 1944.
 
-Este decreto surtirá sus efectos desde la fecha de su publicación en el "Periódico Oficial" .
+Este decreto surtirá sus efectos desde la fecha de su publicación en el "Periódico Oficial".
 
 P.O. 24 DE SEPTIEMBRE DE 1954.
 
@@ -1742,3 +1744,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 15 DE JUNIO DE 1990.
 
 El presente Decreto entrará en vigor al día sguiente (sic) de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 1990.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
