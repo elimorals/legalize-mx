@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-medicina-antes-48"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "1993-04-13"
+last_updated: "2001-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MEDICO MILITAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
 
 Reglamento Publicado en la Segunda Sección del Diario Oficial de la Federación el martes 13 de abril de 1993.
 
@@ -41,9 +41,11 @@ La Escuela Médico Militar es un establecimiento de educación militar de nivel 
 
 ### CAPITULO II. Dependencia
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 2o.
 
-La Escuela Médico Militar depende del Alto Mando del Ejército y Fuerza Aérea a través de la Universidad del Ejército y Fuerza Aérea.
+La Escuela Médico Militar depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO III. Objetivos
 
@@ -57,7 +59,9 @@ II. Formar médicos cirujanos militares capaces de ejercer el mando en las unida
 
 III. Promover y desarrollar la investigación en la ciencia médica para contribuir a conservar el organismo del ser humano en estado de óptimo funcionamiento según lo requieran el Ejército y Fuerza Aérea; y
 
-IV. Desarrollar en el personal en instrucción una formación moral sólida que le permita lograr la afirmación de su ética profesional y de los valores nacionales y tradicionales del Ejército y Fuerza Aérea.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Desarrollar en el personal en instrucción una formación militar y moral sólidas que le permitan lograr la afirmación de su ética profesional y de los valores nacionales y tradicionales del Ejército y Fuerza Aérea.
 
 ###### ARTICULO 4o.
 
@@ -105,9 +109,13 @@ B. Subsección de Planes y Programas;
 
 C. Subsección Psicopedagógica;
 
-D. Subsección de Difusión Científica y Cultural;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-E. Subsección de Investigación Clínica y Epidemiológica; y
+D. Subsección de Evaluación Educativa;
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+E. Subsección de Investigación, Difusión y Doctrina Militar, y
 
 F. Subsección de Informática
 
@@ -117,7 +125,9 @@ A. Jefatura
 
 B. Subsección de Control Académico;
 
-C. Subsección de Evaluación Educativa;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+C. Subsección de Evaluación del Aprendizaje;
 
 D. Subsección de Materias Militares;
 
@@ -127,7 +137,13 @@ F. Subsección de Materias Clínicas;
 
 G. Subsección de Materias de Salud Pública y Complementarias:
 
-VI. Sección de Apoyos Didácticos:
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+H. Subsección de Educación Física.
+
+> <small>(REFORMADA D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Sección de Laboratorios y Apoyos Didácticos;
 
 A. Jefatura;
 
@@ -138,6 +154,10 @@ C. Subsección de Apoyos Audiovisuales;
 D. Subsección de Impresión, Diseño y Fotografía; y
 
 E. Subsección de Laboratorios y Bioterio;
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+F. Subsección de Salud Pública.
 
 VII. Ayudantía General:
 
@@ -193,9 +213,11 @@ V. Los vocales de la Junta Técnico-Consultiva, serán suplidos en sus ausencias
 
 La Dirección, es el órgano rector de la Escuela Médico Militar a cargo de un General o Coronel Médico Cirujano, egresado del propio plantel, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 9o.
 
-El Director tiene las atribuciones y responsabilidades que señalan las leyes y reglamentos militares para los Comandantes de Cuerpo de Tropa y además las siguientes:
+El Director del plantel tiene las atribuciones y responsabilidades correspondientes a un Comandante de Cuerpo de tropa de conformidad con lo establecido en las leyes y reglamentos militares y además las siguientes:
 
 I. Representar a la Escuela Médico Militar;
 
@@ -205,17 +227,25 @@ III. Coordinar las labores derivadas del sistema educativo militar, comprendidas
 
 IV. Supervisar el seguimiento del proceso enseñanza-aprendizaje;
 
-V. Presentar a la Universidad del Ejército y Fuerza Aérea los planes y programas de estudio y proyecto de calendario escolar;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-VI. Proponer a la Universidad del Ejército y Fuerza Aérea las modificaciones a los planes y programas de estudio para cubrir las características y rasgos del perfil de egreso requerido por la Dirección- General de Sanidad;
+V. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea los planes y programas de estudio y proyecto de calendario escolar;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, las modificaciones a los planes y programas de estudio para cubrir las características y rasgos del perfil de egreso requerido por la Dirección General de Sanidad;
 
 VII. Convocar a la Junta Técnico-Consultiva;
 
 VIII. Promover la investigación científica relacionada con la ciencia médica;
 
-IX. Proponer a la Universidad del Ejército y Fuerza Aérea el intercambio científico y cultural con otros centros educativos similares;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-X. Someter a consideración de la Universidad del Ejército y Fuerza Aérea el proyecto de convocatoria y el instructivo de admisión;
+IX. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea el intercambio científico y cultural con otros centros educativos similares;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+X. Someter a consideración de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea el proyecto de convocatoria y el instructivo de admisión;
 
 XI. Conferir los cargos que desempeñe el personal académico, docente, del cuerpo de cadetes y oficiales en instrucción, administrativo y de la planta de la escuela, excepto aquellos que sean designados por el Alto Mando;
 
@@ -225,15 +255,25 @@ XIII. Proponer y opinar los movimientos de alta y baja de personal para cubrir l
 
 XIV. Administrar los recursos humanos, económicos y materiales puestos a su disposición;
 
-XV. Presentar a la Universidad del Ejército y Fuerza Aérea un informe general de actividades al término de cada ciclo escolar;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-XVI. Proponer a la Universidad del Ejército y Fuerza Aérea el proyecto de presupuesto de su competencia;
+XV. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea un informe general de actividades al término de cada ciclo escolar;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea el proyecto de presupuesto de su competencia;
 
 XVII. Proponer la actualización permanente del Manual de Organización y Funcionamiento del plantel cuando corresponda;
 
 XVIII. Promover la afiliación del personal militar y sus derechohabientes conforme a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; y
 
-XIX. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIX. Investigar, difundir, fomentar y mantener la unidad de doctrina militar en el plantel, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XX. Las que le sean asignadas por la Secretaría de la Defensa Nacional.
 
 ### CAPITULO II. De la Subdirección
 
@@ -285,9 +325,11 @@ XVII. Las que le sean asignadas por la superioridad.
 
 El Cuerpo de Cadetes y Oficiales en Instrucción de la Escuela Médico Militar, está a cargo de un Teniente Coronel o Mayor de Arma Diplomado de Estado Mayor, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Comandante del Cuerpo de Cadetes y Oficiales en Instrucción.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 13.
 
-El Comandante del Cuerpo de Cadetes y Oficiales en Instrucción tiene las siguientes funciones y responsabilidades:
+El Comandante del Cuerpo de Cadetes y Oficiales en Instrucción del plantel tiene las atribuciones y responsabilidades siguientes:
 
 I. Ejercer el mando del Cuerpo de Cadetes y Oficiales en Instrucción;
 
@@ -337,9 +379,11 @@ I. Tener experiencia académica;
 
 II. Tener experiencia docente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 15.
 
-El Jefe de la Sección Pedagógica tiene las siguientes funciones y responsabilidades:
+El Jefe de la Sección Pedagógica del plantel tiene las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades pedagógicas del plantel;
 
@@ -357,9 +401,11 @@ VII. Coordinar, supervisar, y participar en los programas de capacitación y act
 
 VIII. Seleccionar y especificar los métodos y técnicas de enseñanza por aplicarse en el plantel;
 
-IX. Concentrar, procesar y controlar en archivo las calificaciones del personal en instrucción;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-X. Generar la información estadística del plantel;
+IX. Organizar, controlar, supervisar y conducir los trabajos relacionados con las tesis y exámenes profesionales;
+
+X. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
 XI. Controlar el archivo pedagógico;
 
@@ -369,7 +415,9 @@ XIII. Proponer y coordinar los proyectos de trabajos de investigación del perso
 
 XIV. Participar en el proceso de admisión al plantel;
 
-XV. Difundir la producción científica y cultural del plantel, por conducto de la Universidad del Ejército y Fuerza Aérea;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Difundir la producción científica y cultural del plantel, por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea;
 
 XVI. Participar en las actividades de investigación que desarrolle el plantel en forma conjunta con otras instituciones militares y civiles de conformidad con las directivas de la superioridad;
 
@@ -381,17 +429,31 @@ XIX. Investigar las causas de bajo rendimiento escolar y proponer soluciones;
 
 XX. Coordinar sus actividades con los demás órganos del plantel; y
 
-XXI. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXI. Atender asuntos de educación, cultura y doctrina militar, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXII. Las que le sean asignadas por la Dirección del plantel.
 
 ### CAPITULO V. De la Sección Académica
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 16.
 
-La Sección Académica es el órgano de ejecución y control de los planes y programas de estudio, de la Escuela Médico Militar, a cargo de un Teniente Coronel o Mayor del Servicio de Sanidad, a quien se denomina Jefe de la Sección Académica.
+La Sección Académica es el órgano de ejecución y materialización de los planes y programas de estudio de la Escuela Médico Militar, a cargo de un Teniente Coronel del Servicio de Sanidad o Médico Cirujano egresado del plantel, a quien se denomina Jefe de la Sección Académica, mismo que además debe reunir cualquiera de los requisitos siguientes:
+
+I. Tener experiencia docente, o
+
+II. Tener experiencia académica.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 17.
 
-El Jefe de la Sección Académica tiene las siguientes funciones y responsabilidades:
+El Jefe de la Sección Académica del plantel tiene las atribuciones y responsabilidades siguientes:
 
 I. Coordinar y supervisar la aplicación y desarrollo de los planes y programas de estudio del plantel;
 
@@ -399,17 +461,25 @@ II. Controlar el avance programático de las diferentes asignaturas del plan de 
 
 III. Coordinar y supervisar las actividades que realice el personal en instrucción en las instituciones civiles, estadías, visitas y congresos como parte del desarrollo programático correspondiente;
 
-IV. Coordinar la elaboración oportuna de los títulos, certificados, diplomas y constancias, así como la remisión a la Universidad del Ejército y Fuerza Aérea para su aprobación y legalización;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-V. Coordinar y supervisar las evaluaciones parciales y finales que se hagan en los grupos pedagógicos del plantel;
+IV. Coordinar la elaboración oportuna de los títulos, certificados, diplomas y constancias, así como la remisión a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea para su aprobación y legalización;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Coordinar y supervisar las evaluaciones parciales y finales que se aplican en los grupos pedagógicos del plantel;
 
 VI. Elaborar la documentación estadística en relación con el rendimiento académico de cada grupo pedagógico y de cada alumno en particular;
 
-VII. Coordinar y controlar al personal docente del plantel;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VII. Generar la información estadística del plantel;
 
 VIII. Supervisar la aplicación de los instrumentos de evaluación;
 
-IX. Organizar, controlar, supervisar y conducir los trabajos relacionados con las tesis y exámenes profesionales;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IX. Concentrar, procesar y controlar en archivo las calificaciones del personal en instrucción;
 
 X. Controlar el archivo académico del plantel;
 
@@ -421,17 +491,27 @@ XIII. Coordinar sus actividades con los demás órganos del plantel;
 
 XIV. Desarrollar funciones de enlace para actividades académicas fuera del plantel; y
 
-XV. Las que le sean asignadas por la superioridad.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Supervisar y elaborar las historias académicas del personal en instrucción, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Las que le sean asignadas por la Dirección del plantel.
 
 ### CAPITULO VI. De la Sección de Apoyos Didácticos
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 18.
 
-La Sección de Apoyos Didácticos es el órgano encargado de proveer, controlar y mantener el material didáctico necesario para la materialización del proceso educativo en la Escuela Médico Militar, a cargo de un Teniente Coronel o Mayor del Servicio de Sanidad, a quien se denomina Jefe de la Sección de Apoyos Didácticos.
+La Sección de Laboratorios y Apoyos Didácticos es el órgano encargado de proveer, controlar y mantener el material didáctico necesario para la materialización del proceso educativo de la Escuela Médico Militar, a cargo de un Teniente Coronel del Servicio de Sanidad o Médico Cirujano, egresado del plantel, a quien se denomina Jefe de la Sección de Laboratorios y Apoyos Didácticos.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 19.
 
-El Jefe de la Sección de Apoyos Didácticos tiene las siguientes funciones y responsabilidades:
+El Jefe de la Sección de Laboratorios y Apoyos Didácticos del plantel tiene las atribuciones y responsabilidades siguientes:
 
 I. Coordinar la selección, diseño, producción y adquisición de los apoyos didácticos necesarios para el proceso enseñanza-aprendizaje;
 
@@ -445,13 +525,17 @@ V. Las que le sean asignadas por la superioridad.
 
 ### CAPITULO VII. De la Ayudantía General
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 20.
 
-La Ayudantía General de la Escuela Médico Militar, es el órgano encargado de satisfacer las necesidades de vida interna del plantel, a cargo de un Teniente Coronel o Mayor de Arma, a quien se denomina Ayudante General.
+La Ayudantía de la Escuela Médico Militar, es el órgano encargado de satisfacer las necesidades de vida interna del plantel a cargo de un Teniente Coronel de arma o servicio, a quien se denomina Ayudante General.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 21.
 
-El Ayudante General tiene las siguientes funciones y responsabilidades:
+El Ayudante General del plantel tiene las atribuciones y responsabilidades siguientes:
 
 I. Las correspondientes a un Ayudante y a un Jefe de Instrucción de un Cuerpo de Tropa, respecto al personal de la planta;
 
@@ -479,13 +563,17 @@ XII. Las que le sean asignadas por la superioridad.
 
 ### CAPITULO VIII. De la Sección Administrativa
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 22.
 
-La Sección Administrativa de la Escuela Médico Militar, es el órgano de apoyo administrativo del plantel a cargo de un Jefe u Oficial de Administración, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa del plantel es el órgano de apoyo administrativo del mismo, a cargo de un Teniente Coronel o Mayor del Servicio de Sanidad u oficinista, a quien se denomina Jefe de la Sección Administrativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 23.
 
-El Jefe de la Sección Administrativa tiene las siguientes funciones y responsabilidades:
+El Jefe de la Sección Administrativa del plantel tiene las atribuciones y responsabilidades siguientes:
 
 I. Reclutar al personal que se requiera para cubrir las necesidades del plantel;
 
@@ -525,13 +613,15 @@ XVI. Las que le sean asignadas por la superioridad.
 
 La Unidad Ejecutora de Pago de la Escuela Médico Militar, está a cargo de un Jefe u Oficial Pagador a quien se denomina Jefe de la Unidad Ejecutora de Pago, nombrado por el Alto Mando del Ejército y Fuerza Aérea.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 25.
 
-El Jefe de la Unidad Ejecutora de Pago de la Escuela Médico Militar, tiene la responsabilidad de proporcionar el servicio de pago de haberes y demás percepciones al personal de la misma, de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
+El Jefe de la Unidad Ejecutora de Pago del plantel tiene la responsabilidad de proporcionar el servicio de pago de haberes, Percepción Recreativa Estudiantil (PRE) y demás percepciones al personal del mismo, de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
 
 ###### ARTICULO 26.
 
-La Unidad Ejecutora de Pago, normará su estructura y funcionamiento de conformidad con las disposiciones legales respectivas.
+(DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
 ### CAPITULO X. De la Junta Técnico-Consultiva
 
@@ -539,9 +629,27 @@ La Unidad Ejecutora de Pago, normará su estructura y funcionamiento de conformi
 
 La Junta Técnico-Consultiva es el órgano colegiado que asesora al Director en materia Pedagógica y Académica.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 28.
 
-Las funciones y responsabilidades de la Junta Técnico-Consultiva son analizar, evaluar y proponer lo necesario en relación con el proceso enseñanza-aprendizaje.
+La Junta Técnica Consultiva tiene las atribuciones y responsabilidades siguientes:
+
+I. Analizar y proponer soluciones a problemas de carácter pedagógico y académico que surjan en el plantel;
+
+II. Analizar los planes y programas de estudio del plantel recomendando cuando corresponda su actualización, para que respondan al perfil profesional de egreso del personal en instrucción;
+
+III. Recomendar los cambios necesarios al Manual de Organización y Funcionamiento del plantel;
+
+IV. Evaluar la actuación del personal académico, docente y en instrucción;
+
+V. Analizar los resultados de la evaluación académica para mejorar el proceso enseñanza-aprendizaje;
+
+VI. Proponer al personal directivo, académico, docente y en instrucción que se haga acreedor a recibir alguna recompensa;
+
+VII. Proponer normas y disposiciones orientadas a la mejor organización y funcionamiento académico y pedagógico del establecimiento, y
+
+VIII. Las que en materia pedagógica y académica le asigne el Director del plantel.
 
 ## TITULO CUARTO. Del personal
 
@@ -589,7 +697,9 @@ A. Ayudante General;
 
 B. Jefe de la Sección Administrativa;
 
-C. Jefe de la Sección de Apoyos Didácticos;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+C. Jefe de la Sección de Laboratorios y Apoyos Didácticos;
 
 D. Jefe de la Unidad Ejecutora de Pago; y
 
@@ -597,7 +707,9 @@ E. Jefes de las Subsecciones respectivas; y
 
 VI. De la Planta:
 
-Integrado por el personal de los servicios técnicos, administrativos y generales y aquel otro no incluido en la clasificación anterior.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Está constituido por el personal de los servicios técnicos, administrativos y generales y aquel otro no incluido en la clasificación anterior.
 
 ### CAPITULO II. Del Personal Directivo y Académico
 
@@ -607,29 +719,57 @@ El personal directivo y académico tiene las atribuciones y responsabilidades qu
 
 ### CAPITULO III. Del Personal Docente
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 31.
 
-Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje. Tiene las atribuciones y responsabiIidades que establecen las leyes y reglamentos militares para su jerarquía, las estipuladas en el presente reglamento y las disposiciones aplicables que emita la superioridad. Este personal puede ser profesor o instructor.
+Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las prescritas en el presente Reglamento, disposiciones aplicables que emita la superioridad y contrato respectivo, este personal puede ser profesor o instructor.
 
 ###### ARTICULO 32.
 
 Son profesores, los elementos militares o civiles que habiendo cubierto los requisitos establecidos por el plantel, imparten materias militares, profesionales o culturales, pudiendo ser:
 
-I. Titular;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II. Asociado;
+I. Titular:
 
-III. Adjunto; y
+Es el más caracterizado por sus conocimientos y experiencia, así como su capacidad docente e imparte como mínimo el 60 % de las clases programadas.
 
-IV. Ayudante.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Asociado:
+
+Colabora directamente con el profesor titular, lo sustituye en sus ausencias e imparte el 40% de las clases programadas y está en condiciones de asumir la titularidad cuando sea necesario.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Adjunto:
+
+Desarrolla las funciones que le asigne el profesor titular, asimismo sustituye al profesor titular o asociado.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Ayudante:
+
+Desempeña las distintas comisiones o trabajos técnicos que le son designados por el profesor titular o adjunto.
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Emérito:
+
+Son profesores titulares que cumplan 60 años de edad, con carrera docente de 20 años o más y con labor especialmente meritoria en la escuela.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 33.
 
-Son instructores, los elementos militares o civiles a quienes se encomienda la impartición de materias que sólo requieran habilidad, pericia o destreza.
+Son instructores los militares a quienes se encomienda la impartición de conocimientos sobre materias que requieren habilidad, pericia o destreza y que acrediten previamente ante la Sección Académica el conocimiento que vayan a impartir.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 34.
 
-Son profesores o instructores honorarios, los que imparten conocimientos o prácticas y no perciben remuneración por este hecho.
+Los profesores o instructores honorarios son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho, debiendo extendérseles un nombramiento como estímulo a dichas actividades.
 
 ### CAPITULO IV. Del Personal del Cuerpo de Cadetes y Oficiales en instrucción
 
@@ -659,9 +799,11 @@ II. El personal procedente de tropa del Ejército y Fuerza Aérea y los civiles,
 
 Los militares y civiles de nacionalidad extranjera que ingresen al plantel, lo harán en calidad de becarios y se regirán durante su estancia en él, por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos en las partes aplicables y en el presente Reglamento; no estarán sujetos al fuero de guerra que comprende faltas y delitos contra la disciplina militar, regulándose su situación disciplinaria en cada caso, como lo determine la Secretaría de la Defensa Nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 39.
 
-El personal en instrucción además de lo establecido en la legislación militar y disposiciones aplicables que emita la superioridad, tiene las siguientes obligaciones:
+El personal en instrucción además de lo establecido en la legislación militar y disposiciones aplicables que emita la superioridad, tiene las responsabilidades siguientes:
 
 I. Asistir puntualmente a las actividades que le señalen las distribuciones de tiempo respectivas;
 
@@ -671,7 +813,13 @@ III. Participar en actividades oficiales programadas;
 
 IV. Desempeñar servicios y comisiones inherentes a su jerarquía; y
 
-V. Conocer y observar el contenido del presente Reglamento en las partes correspondientes.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Observar el mayor respeto a sus superiores, subalternos e iguales, evitando relaciones interpersonales que puedan ocasionar una causal de baja por contravenir los preceptos ya establecidos en este Reglamento, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. Conocer y observar el contenido del presente Reglamento en las partes correspondientes.
 
 ###### ARTICULO 40.
 
@@ -745,17 +893,21 @@ II. Aplicación de diversos exámenes.
 
 Los exámenes que se aplican en la Escuela Médico Militar son los siguientes:
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 I. Parciales:
 
-Son aquellos que realiza el personal en instrucción de una o varias partes del programa de estudios de cualquier asignatura durante el semestre correspondiente. Para cada materia debe aplicarse un mínimo de tres exámenes;
+Son aquellos que realiza el personal en instrucción de una o varias partes del programa de estudio de cualquier asignatura durante el semestre correspondiente; para cada materia debe aplicarse un mínimo de tres exámenes en ese lapso.
 
 II. Final Ordinario:
 
 Es aquel que se aplica al personal en instrucción al término del semestre correspondiente y cubre la totalidad del programa de cada asignatura;
 
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 III. Extraordinario:
 
-Es aquel que se aplica al personal en instrucción que repruebe un examen final ordinario o que no alcance promedio aprobatorio al termino del programa de alguna asignatura;
+Es aquel que se aplica al personal en instrucción cuya calificación final de la asignatura es menor de seis puntos, calculado de acuerdo a lo establecido en el artículo 56 de este Reglamento.
 
 IV. Profesional:
 
@@ -777,13 +929,17 @@ III. Prácticos; o
 
 IV. Una combinación de los anteriores.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 54.
 
-Para calificar todos los exámenes excepto el profesional, se utiliza la escala numérica de CERO a CIEN PUNTOS, sin incluir decimales.
+Para calificar todos los exámenes excepto el profesional se utiliza la escala numérica de cero a diez puntos incluyendo decimales.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 55.
 
-La calificación mínima aprobatoria es de SESENTA PUNTOS.
+La calificación mínima aprobatoria es de seis puntos.
 
 ###### ARTICULO 56.
 
@@ -805,9 +961,23 @@ El personal en instrucción que utilice medios fraudulentos para la resolución 
 
 El examen profesional se califica en los términos siguientes:
 
-I. APROBADO POR UNANIMlDAD;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II. APROBADO POR MAYORIA; O
+I. Práctico:
+
+A. Aprobado por unanimidad;
+
+B. Aprobado por mayoría, o
+
+C. Reprobado.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Escrito:
+
+A. Aprobado, o
+
+B. Reprobado.
 
 III. REPROBADO.
 
@@ -819,7 +989,9 @@ I.- Haber elaborado una tesis de alta calidad académica y originalidad.
 
 II.- No haber presentado exámenes extraordinarios durante la carrera; y
 
-III.- Tener un promedio mínimo de 85 puntos.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III.- Tener un promedio mínimo de 8.5 puntos.
 
 ### CAPITULO V. De los Jurados
 
@@ -885,7 +1057,9 @@ VII. Acumular el 30% o más de faltas justificadas en una sola asignatura o en e
 
 VIII. Acumular 500 puntos de demérito durante el año lectivo, previa determinación de mala conducta por el Consejo de Honor;
 
-IX. Violar las cláusulas establecidas en el contrato filiación;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IX. Infringir cualquiera de las cláusulas establecidas en el compromiso filiación;
 
 X. Existir irregularidades en la documentación presentada al ingresar al plantel;
 
@@ -895,15 +1069,35 @@ XII. Quedar comprendido en alguna de las causales de baja establecidas en la Ley
 
 XIII. Para el personal becario extranjero, faltar injustificadamente a sus labores académicas durante tres días consecutivos.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Adquirir otra nacionalidad;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Solicitud del interesado que sea aceptada por la superioridad, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XVI. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal.
+
 ###### ARTICULO 71.
 
 El personal en instrucción que cause baja del plantel quedará a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
 
+> <small>(ADICIONADO D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 71 Bis.
+
+Al personal en instrucción que por cualquier motivo vaya a ser dado de baja del plantel, se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales, contados a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular.
+
 ### CAPITULO III. De los Reingresos
+
+> <small>(REFORMADO D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 72.
 
-Para efectos del presente reglamento, se considera como reingreso, al acto mediante el cual el personal en instrucción que habiendo causado baja del plantel antes de terminar sus estudios, es admitido nuevamente para continuarlos.
+Para efectos del presente Reglamento se considera como reingreso, el acto mediante el cual el personal en instrucción que habiendo causado baja del plantel antes de terminar sus estudios es admitido nuevamente para continuarlos.
 
 ###### ARTICULO 73.
 
@@ -917,9 +1111,11 @@ III. De salud; o
 
 IV. Haberse encontrado sujeto a proceso en el fuero de guerra, en el orden común o federal y haya resultado absuelto.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 74.
 
-El personal en instrucción que encontrándose cursando el 3/er. año de la carrera o subsiguientes, cause baja del plantel por los motivos citados en el artículo anterior, será puesto a disposición de la Secretaría de la Defensa Nacional para que sea destinado a prestar sus servicios donde ésta lo determine y por el tiempo necesario para regresar al siguiente período de exámenes extraordinarios o al inicio del semestre que cursaba en el siguiente año lectivo como a continuación se indica:
+El personal en instrucción que encontrándose cursando el 3/er. año de la carrera o subsiguientes cause baja del plantel por los motivos citados en el artículo anterior, será puesto a disposición de la Secretaría de la Defensa Nacional para que sea destinado a prestar sus servicios donde ésta lo determine como oficial o clase del servicio de Sanidad y por el tiempo necesario para regresar al siguiente periodo de exámenes extraordinarios o al inicio del semestre que cursaba en el siguiente año lectivo como a continuación se indica:
 
 El personal que se sitúe en lo establecido en el artículo 70 fracciones III ó IV del presente Reglamento, podrá reingresar al inicio del siguiente semestre correspondiente, siempre y cuando apruebe examen especial de la o las asignaturas que originaron su baja del plantel;
 
@@ -937,9 +1133,11 @@ El personal en instrucción que cause baja del plantel en 1/o. ó 2/o. año de l
 
 El personal que repruebe un examen especial, no podrá reingresar al plantel.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 77.
 
-El personal en instrucción que cause baja por situarse en lo establecido en el ARTICULO 70 fracciones VI, VIII, IX, X, XI, XII ó XIII del presente Reglamento, no podrá reingresar al plantel.
+El personal en instrucción que cause baja por situarse en lo establecido en el artículo 70, fracciones VI, VIII, IX, X, XI, XII, XIII, XIV, XV (por falta de vocación), del presente Reglamento no podrá reingresar al plantel.
 
 ## TITULO OCTAVO. De los Reconocimientos Académicos
 
@@ -949,15 +1147,31 @@ El personal en instrucción que cause baja por situarse en lo establecido en el 
 
 El personal en instrucción que termine satisfactoriamente sus estudios y apruebe el examen profesional en el Plantel obtendrá:
 
-I. Título de Médico Cirujano;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II. Certificado de Estudios; y
+I. Personal Nacional:
+
+A. Título de Médico Cirujano;
+
+B. Certificado de estudios, y
+
+C. Patente correspondiente.
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Personal de Nacionalidad Extranjera:
+
+A. Título de Médico Cirujano, y
+
+B. Certificado de estudios.
 
 III. Patente correspondiente.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 79.
 
-Al personal en instrucción que no concluya satisfactoriamente sus estudios, se le expedirá a solicitud del interesado, certificado parcial de estudios, previa aprobación de la Universidad del Ejército y Fuerza Aérea.
+Al personal en instrucción que no concluya satisfactoriamente sus estudios se le expedirá a solicitud del interesado certificado parcial de estudios, previa aprobación de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO II. De los Premios y Recompensas
 
@@ -965,15 +1179,29 @@ Al personal en instrucción que no concluya satisfactoriamente sus estudios, se 
 
 Los precios y recompensas que se otorgan al personal en instrucción de la Escuela Médico Militar por el aprovechamiento en sus estudios son los siguientes:
 
-I. Premio y Diploma de Primero, Segundo o Tercer lugar: a quienes obtengan los tres promedios más altos en toda la carrera según corresponda;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-Estos premios sólo serán otorgados siempre y cuando los promedios obtenidos no sean menores de 85 puntos;
+I. Premio y diploma de primero, segundo o tercer lugar a quienes obtengan los tres promedios más altos en toda la carrera según corresponda; estos premios sólo serán otorgados siempre y cuando los promedios obtenidos no sean menores de 8.5 puntos;
 
 II. Diploma de Primero, Segundo o Tercer lugar: a quienes obtengan los tres promedios más altos al termino de cada año lectivo de la carrera según corresponda;
 
-III. Figurar en el Cuadro de Honor, durante el mes siguiente al período de evaluación en que haya obtenido un promedio de 85 puntos o más; y.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-IV. Otros que determine la Secretaría de la Defensa Nacional.
+III. Figurar en el cuadro de honor durante el mes siguiente al periodo de evaluación en que haya obtenido un promedio de 8.5 puntos o más;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Exento de realizar el examen final ordinario el personal en instrucción que obtenga un promedio mínimo de 9.0 puntos en una materia, después de haber sustentado los exámenes parciales de la misma, asentándose la calificación obtenida en el promedio, quedando a elección del alumno la opción de presentar o no dicha evaluación para incrementar su promedio general;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. El personal nacional en instrucción que termine satisfactoriamente el quinto año de estudios, recibirá el grado de Capitán Primero Pasante de Medicina mientras permanezca en la escuela; al causar baja del plantel por situarse en lo establecido en el artículo 70, fracciones I, II, III, IV, V y VII, del presente Reglamento podrá ser reclasificado y asignado al organismo que determine la Secretaría de la Defensa Nacional;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+VI. El personal extranjero que termine satisfactoriamente el quinto año de estudios, permanecerá con el grado que ostente o el que le otorgue su país y si es de procedencia civil con el de cadete pero en las dos situaciones se les denominará pasantes de medicina, y
+
+VII. Otros que determine la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 81.
 
@@ -991,13 +1219,17 @@ Los arrestos que se impongan al personal de Oficiales en Instrucción, serán gr
 
 La graduación de arrestos impuestos al personal en instrucción se contabilizará con puntos de demérito, los que sirven de base para el control y registro de su conducta.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
 ###### ARTICULO 84.
 
-Los arrestos impuestos al personal en instrucción, se computarán con veinte puntos de demérito por cada veinticuatro horas.
+Los arrestos impuestos al personal de oficiales en instrucción se computarán con veinte puntos de demérito por cada veinticuatro horas.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
 ###### ARTICULO 85.
 
-El Director de la Escuela Médico Militar podrá graduar los arrestos que se impongan al personal de Cadetes hasta por quince días en el interior del Plantel.
+El Director del plantel podrá graduar los arrestos que se impongan al personal de cadetes hasta por 300 puntos de demérito en el interior del mismo.
 
 ###### ARTICULO 86.
 
@@ -1007,13 +1239,21 @@ El personal de Cadetes cumplirá su arresto los sábados y domingos de franquici
 
 Los Cadetes cumplirán sus arrestos en las semanas laborables de la siguiente manera:
 
-I. A partir de la hora de franquicia del sábado hasta las veinticuatro horas del mismo, 10 puntos de demérito;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II. A partir de la hora de franquicia del sábado hasta las doce horas del domingo, 20 puntos de. demérito;
+I. A partir de la hora de franquicia del sábado hasta las 0800 horas del domingo, 20 puntos de demérito;
 
-III. Sin disfrutar la franquicia del sábado y domingo, 30 puntos de demérito; y
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-IV. Los arrestos graduados con más de 72 horas, más de 60 puntos, se cumplirán alternando dos fines de semana continuos de reclusión, por uno de franquicia.
+II. De las 0800 horas del domingo hasta la hora que termine la franquicia, 20 puntos de demérito;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Sin disfrutar la franquicia del sábado y domingo, 40 puntos de demérito, y
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+IV. Los arrestos graduados con más de 80 puntos de demérito, se cumplirán alternando dos fines de semana continuos de reclusión por uno de franquicia.
 
 ###### ARTICULO 88.
 
@@ -1054,3 +1294,11 @@ SEGUNDO.- Se abroga el Reglamento de la Escuela Médico Militar de 16 de febrero
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal a los doce días del mes de abril de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Defensa Nacional, Antonio Rivello Bazán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE JUNIO DE 2001.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
