@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1925-12-27"
+last_updated: "1926-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1925.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1926.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -345,7 +345,7 @@ En caso de falta absoluta del Ayuntamiento de una Municipalidad, el Ejecutivo no
 
 DEL PODER LEGISLATIVO.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1923)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1926)</small>
 
 ###### Artículo 50.
 
@@ -383,17 +383,15 @@ El Congreso, por una ley especial, determinará lo conducente a este ramo, y a l
 
 ###### Artículo 54.
 
-El Poder Legislativo se deposita en una Asamblea que se denomina Legislatura del Estado de Durango, compuesta de Diputados electos directamente por el pueblo.
+El Poder Legislativo se deposita en una Asamblea que se denomina LEGISLATURA DEL ESTADO DE DURANGO, compuesta de Diputados electos directamente por el pueblo. Cada Diputado durará en su enargo (sic) cuatro años, renovándose la Legislatura por mitad cada dos años.
 
-Cada Diputado durará en su encargo cuatro años y no podrá ser reelecto para el período inmediato.
+Por cada Distrito Electoral se elegirán un Diputado Propietario y un Suplente, en la forma y términos que señale la Ley Electoral respectiva.
 
-Por cada Distrito Electoral se elegirá un Diputado Propietario y un Suplente en la forma y términos que señale la Ley Electoral respectiva.
+Cada Distrito Electoral quedará formado por veinte mil habitantes y si hubiere una fracción mayor de diez mil, ésta formará un Distrito Electoral.
 
-Cada Distrito Electoral, quedará formado por veinte mil habitantes y si hubiere una fracción mayor de diez mil, ésta formará un Distrito Electoral.
+Los Distritos Electorales, se formarán tomando como base el último Censo efectuado, y serán numerados progresivamente.
 
-Los Distritos Electorales se formarán tomando como base el último censo efectuado y serán numerados progresivamente.
-
-La Legislatura se renovará parcialmente cada dos años y para tal fin se efectuarán elecciones en los Distritos pares e impares alternativamente.
+Para renovarse la Legislatura parcialmente cada dos años, se efectuarán elecciones en los Distritos pares e impares alternativamente y según corresponda.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 1923)</small>
 
@@ -967,6 +965,14 @@ El actual Tribunal de Justicia, funcionará durante el período constitucional p
 
 En tanto no se reforme la Ley orgánica de la Administración de Justicia en lo referente a lo prevenido en la fracción VI del artículo 19 de esta Constitución, los Jueces del Ramo Penal, seguirán conociendo de todos los negocios criminales.
 
+###### Artículo 1o.
+
+Los Diputados de número par electos en las elecciones de 6 de junio del corriente año, durarán en sus funciones los cuatro años para los que fueron electos. En consecuencia, las próximas elecciones que tendrán verificativo el año de 1928, para la renovación del Poder Legislativo, sólo se verificarán en los Distritos de número impar, estableciéndose así la renovación parcial en la forma prevenida por el artículo 54 reformado.
+
+###### Artículo 2o.
+
+Esta disposición surtirá sus efectos desde el día de su promulgación en el Periódico Oficial del Estado.
+
 ###### Artículo 3º.
 
 Queda derogada la Constitución Política anterior, así como también quedan derogadas todas las demás leyes del Estado, en todo aquello que se opongan a la presente Constitución, y a la General de la República de 1917.
@@ -1010,3 +1016,5 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 27 DE DICIEMBRE DE 1925.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+
+P.O. 5 DE DICIEMBRE DE 1926.
