@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2004-05-04"
+last_updated: "2004-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -339,7 +339,7 @@ VI. El visitado o la persona con quien se entienda la diligencia, los testigos y
 
 VII. Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión; y
 
-VIII.. El visitado, o quien lo represente, podrán inconformarse con los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cuarenta y cinco días siguientes a la conclusión de las mismas, ante la Tesorería Municipal, en el que expresará las razones de su inconformidad, y acompañará las pruebas documentales pertinentes. El plazo para inconformarse podrá ampliarse a instancia justificada del interesado, a juicio de la Tesorería Municipal. En caso de que no se formule inconformidad, no se ofrezcan pruebas o no se rindan las ofrecidas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en las actas.
+VIII. El visitado, o quien lo represente, podrán inconformarse con los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cuarenta y cinco días siguientes a la conclusión de las mismas, ante la Tesorería Municipal, en el que expresará las razones de su inconformidad, y acompañará las pruebas documentales pertinentes. El plazo para inconformarse podrá ampliarse a instancia justificada del interesado, a juicio de la Tesorería Municipal. En caso de que no se formule inconformidad, no se ofrezcan pruebas o no se rindan las ofrecidas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en las actas.
 
 ###### Art. 26.
 
@@ -965,7 +965,7 @@ VI. Los poseedores que, por cualquier título, tengan la concesión del uso y go
 
 VII. Los poseedores de bienes vacantes, mientras los detenten;
 
-VIII.. Los usufructuarios; y
+VIII. Los usufructuarios; y
 
 IX. Los propietarios de predios donde se ubiquen plantas de beneficio, establecimientos mineros y metalúrgicos, en los términos de la legislación federal de la materia.
 
@@ -2225,9 +2225,9 @@ El presidente municipal, dentro de los treinta días que sigan a la aprobación 
 
 Mientras no se hubiere realizado la publicación, tales servidores públicos no podrán percibir ningún pago que no tengan expresamente asignado conforme a la última publicación efectuada.
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2004)</small>
 
-Las partidas destinadas al pago de prestaciones económicas distintas al sueldo se aplicarán atendiendo a previsto en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y demás normatividad aplicable.
+Las partidas destinadas al pago de prestaciones económicas distintas al sueldo se aplicarán atendiendo lo previsto en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios y demás normatividad aplicable, sin que se realice la incorporación, bajo ninguna circunstancia, de bonos anuales o con cualquier otra periodicidad, gratificaciones por fin del encargo u otras percepciones de similar naturaleza, adicionales a la remuneración que deben recibir legalmente los servidores públicos, cualquiera que sea su denominación.
 
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
 
@@ -3400,3 +3400,9 @@ DECRETO NUMERO 20440.
 P.O. 4 DE MAYO DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 26 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
