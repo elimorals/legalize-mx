@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2004-10-06"
+last_updated: "2004-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
+CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2004.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -429,7 +429,7 @@ Además de los nombres de los padres, se hará constar en el acta de nacimiento 
 
 72.- Cuando ocurriere un parto múltiple, el nacimiento de cada menor será registrado en acta individual, en la que se hará constar además, las particularidades que los distingan y el orden del parto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE MAYO DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 1981)</small>
 
 ### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS
 
@@ -1347,7 +1347,7 @@ El marido, en todo caso, sólo tendrá derecho a alimentos cuando esté imposibi
 
 268.- La situación de los hijos a que se refiere el artículo anterior, puede ser modificada por el juez en interés justificado de ellos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
 ## TITULO SEXTO. DEL PARENTESCO, DE LOS ALIMENTOS Y DE LA VIOLENCIA FAMILIAR
 
@@ -1475,7 +1475,7 @@ V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abando
 
 300.- La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, podrá pedir al Juez de Primera Instancia o de lo Familiar del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación y a que le ministre todos los que haya dejado de darle desde que la abandonó. El Juez, según las circunstancias del caso, fijará la suma que el marido debe ministrar periódicamente dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
 ### CAPITULO III. DE LA VIOLENCIA FAMILIAR
 
@@ -1539,7 +1539,7 @@ IV.- Si el hijo no nació capaz de vivir.
 
 I.- Se presume que el hijo es del primer matrimonio si nace dentro de los trescientos días siguientes a su disolución y antes de ciento ochenta días de la celebración del segundo, salvo que al celebrarse éste se haya demostrado que la mujer no estaba embarazada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 1981)</small>
 
 II.- Se presume que el hijo es del segundo si nace después de ciento ochenta días de la celebración de éste, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primero, salvo que se haya demostrado, con motivo de la celebración del segundo que la mujer se encontraba embarazada.
 
@@ -2193,7 +2193,7 @@ II.- Por falta o incapacidad de los hermanos, a los demás colaterales dentro de
 
 468.- El tutor del incapacitado que tenga hijos menores bajo su patria potestad será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO V. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICENCIA
 
@@ -3957,7 +3957,7 @@ VIII.- Las demás que se deriven de este Código, de la escritura constitutiva y
 
 970.- Con relación a los bienes comunes o de copropiedad, tendrá todas las facultades y obligaciones de un apoderado general de los condóminos para administrar bienes, así como para pleitos y cobranzas, con la facultad de articular y absolver posiciones. Las medidas que adopte y las disposiciones que dicte el administrador, dentro de sus atribuciones, serán obligatorias para todos los condóminos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
 ### CAPITULO X. DEL REGLAMENTO DE CONDOMINIO Y ADMINISTRACION
 
@@ -4033,7 +4033,7 @@ La inscripción de este gravamen en el Registro Público de la Propiedad y del C
 
 ### CAPITULO XIII. DESTRUCCION, RUINA Y RECONSTRUCCION DEL CONDOMINIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2003)</small>
 
 980.- Si el condominio se destruyere en su totalidad o en una proporción que represente por lo menos las tres cuartas partes de su valor, según peritaje practicado por las autoridades competentes, por institución de crédito o por un especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones, una mayoría que represente el 51 por ciento de los votos totales de los condominios (sic) podrá acordar la reconstrucción o la división del terreno y de los bienes comunes que queden con arreglo a las disposiciones legales, sobre construcción, planificación, desarrollo o regeneración urbana y demás que fueren aplicables o, en su caso la venta.
 
@@ -5045,7 +5045,7 @@ III.- De tomar o dejar de tomar estado. Podrá, sin embargo dejarse a alguien el
 
 1271.- En el caso del artículo anterior, si el legado consistiere en prestación periódico el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO V. DEL CONTENIDO DE LOS TESTAMENTOS Y DE LOS TESTAMENTOS INOFICIOSOS
 
@@ -5571,7 +5571,7 @@ DEL LEGADO A FAVOR DE ACREEDOR
 
 1376.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO VIII. DE LAS SUBSTITUCIONES TESTAMENTARIAS
 
@@ -5981,7 +5981,7 @@ Si el testador retira el testamento porque lo revoca, deberá informarlo así al
 
 1454.- Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está previsto en el artículo 1414, o lo sustraiga dolosamente de los bienes del finado, si fuere heredero por intestado perderá el derecho que pudiera tener, sin perjuicio de las penas que le correspondan conforme al Código Penal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO IV. DEL TESTAMENTO PUBLICO SIMPLIFICADO
 
@@ -6145,7 +6145,7 @@ VII.- Si saben que el testador falleció o no de la enfermedad, o en el peligro 
 
 1483.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO VI. DEL TESTAMENTO MILITAR Y MARITIMO
 
@@ -6317,7 +6317,7 @@ Si hubiere varios parientes en un mismo grado, y alguno o algunos no quisieren o
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO VI. DE LA SUCESION EN EL CONCUBINATO
 
@@ -6327,7 +6327,7 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Ca
 
 Si varias personas se encuentran en el supuesto previsto en el párrafo que antecede, ninguna de ellas tendrá derecho a heredar.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
@@ -6383,7 +6383,7 @@ Si varias personas se encuentran en el supuesto previsto en el párrafo que ante
 
 1540.- Lo dispuesto en esta sección es aplicable a la mujer que al morir el autor de la herencia viviese con éste en la situación prevista por el artículo 1527 de este Código.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO I BIS. DEL DERECHO DE ACRECER
 
@@ -6433,7 +6433,7 @@ III.- Que la ley así lo establezca.
 
 1540-J.- En la sucesión legítima, si hubiere varios parientes en un mismo grado y alguno o algunos no quisieren o no pudieren heredar, su parte acrecerá a la de los otros del mismo grado, si es que no tiene descendientes, pues teniéndolos, éstos heredarán por estirpe.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO II. DE LA APERTURA Y DE LA RECLAMACION DE LA HERENCIA
 
@@ -6575,7 +6575,7 @@ En su caso, se observará lo dispuesto en el artículo 1553.
 
 1570.- La herencia se entiende aceptada a beneficio de inventario. Por tanto, en ningún caso produce confusión de los bienes del autor de la sucesión y de los herederos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION PRIMERA. DE LOS ALBACEAS
 
@@ -7581,7 +7581,13 @@ En todo caso, quien demanda la reparación del daño moral por responsabilidad c
 
 1812.- El que paga el daño causado por sus sirvientes, empleados u operarios, puede repetir de ellos lo que hubiere pagado.
 
-1813.- El Estado tiene obligación de responder de los daños causados por sus funcionarios en el ejercicio de las funciones que les están encomendadas. Esta responsabilidad es subsidiaria y sólo podrá hacerse efectiva contra el Estado, cuando el funcionario directamente responsable no tenga bienes, o los que tenga no sean suficientes para responder del daño causado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+
+1813.- La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa, salvo que el daño se ocasione por culpa inexcusable de la víctima. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
+El Estado tiene derecho a exigir al servidor público responsable del daño que reintegre el monto pagado a los particulares cuando haya obrado ilícitamente.
 
 1814.- El dueño de un animal pagará el daño causado por éste, si no probare alguna de estas circunstancias:
 
@@ -8509,7 +8515,7 @@ DE LAS DIVERSAS ESPECIES DE CONTRATOS
 
 ## TITULO PRIMERO. DE LOS CONTRATOS PREPARATORIOS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 2002)</small>
 
 ### CAPITULO IV. DE LA NOVACION
 
@@ -8749,7 +8755,7 @@ Si no pudiera determinarse esto último, se aplicará el artículo 1965.
 
 2179.- Si ocurre duda sobre cuál de los contratantes deberá hacer primero la entrega, uno y otro harán el depósito en manos de un tercero.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2000)</small>
 
 2180.- El comprador debe intereses por el tiempo que medie entre la entrega de la cosa y el pago del precio, en los casos siguientes:
 
@@ -8773,7 +8779,7 @@ III.- (DEROGADA, P.O. 26 DE ENERO DE 2000)
 
 2185.- Si el comprador se constituyó en forma mora de recibir, abonará al vendedor el alquiler de las bodegas, graneros o vasijas en que se contenga lo vendido y el vendedor quedará descargado del cuidado ordinario de conservar la cosa, y solamente será responsable de dolo o de la culpa grave.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ABRIL DE 2003)</small>
 
 ### CAPITULO VII. DE LA FORMA DEL CONTRATO DE COMPRAVENTA
 
@@ -8801,7 +8807,7 @@ III.- (DEROGADA, P.O. 26 DE ENERO DE 2000)
 
 2191.- El contrato de compraventa de bienes inmuebles, producirá efectos contra terceros a partir de la fecha de su inscripción en el Registro Público de la Propiedad, en los términos prescritos en este Código.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 30 DE ABRIL DE 2003)</small>
 
 ### CAPITULO VIII. DE ALGUNAS MODALIDADES DEL CONTRATO DE COMPRAVENTA
 
@@ -8905,7 +8911,7 @@ Cuando los bienes vendidos son de los mencionados en los artículos 2203 y 2204,
 
 2213.- En la compraventa con reserva de dominio a que se refiere el artículo 2210, mientras que no pasa la propiedad de la cosa vendida al comprador, si éste recibe la cosa será considerado como arrendatario de la misma, salvo que las partes hubieren pactado otra cosa.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 30 DE ABRIL DE 2003)</small>
 
 ### CAPITULO IX. DE LAS VENTAS JUDICIALES
 
@@ -9553,7 +9559,7 @@ Lo dispuesto en el párrafo que antecede, también se aplicará al arrendamiento
 
 2376.- Lo dispuesto en el artículo anterior se aplicará siempre que no haya pacto en contrario.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ABRIL DE 2003)</small>
 
 ### CAPITULO VII. DEL SUBARRENDAMIENTO
 
@@ -9585,7 +9591,7 @@ Al celebrarse el subarrendamiento autorizado especialmente, el arrendatario qued
 
 2381.- El subarrendamiento debe otorgarse con las mismas formalidades requeridas por la ley para el arrendamiento.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 30 DE ABRIL DE 2003)</small>
 
 ### CAPITULO VIII. DEL MODO DE TERMINAR EL ARRENDAMIENTO
 
@@ -10485,7 +10491,7 @@ Si no se inscribe, el contrato de la sociedad sólo surtirá efectos entre los s
 
 2599.- No quedan comprendidas en este Título las sociedades cooperativas, ni las mutualistas, que se regirán por las respectivas leyes especiales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE ABRIL DE 2003)</small>
 
 ### CAPITULO III. DE LA ASAMBLEA
 
@@ -10563,7 +10569,7 @@ El término para hacer uso del derecho del tanto, será de 8 días, contados a p
 
 El nombramiento de administradores, hecho después de constituida la sociedad, es revocable por mayoría de votos. Toda revocación o nombramiento deberá anotarse en el Registro Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2003)</small>
 
 2610.- Los socios administradores ejercerán las facultades que fueren necesarias al giro y desarrollo de los negocios que formen el objeto de la sociedad; pero salvo convenio en contrario necesitan autorización expresa de la asamblea:
 
@@ -11635,7 +11641,7 @@ III.- Si fueren resoluciones judiciales, que se ordene su ejecución por la auto
 
 Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2003)</small>
 
 2899.- No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de persona o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho. Esta disposición no será aplicable en los casos en que la cancelación registral tan sólo sea una consecuencia de la acción principal, siempre que todos los terceros hubiesen sido llamados a juicio.
 
@@ -11855,7 +11861,7 @@ EL SECRETARIO GENERAL DE GBNO.
 
 LIC. RAMIRO COTA MARTINEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 10 DE MARZO DE 1979.
 
@@ -11885,7 +11891,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día s
 
 P.O. 12 DE SEPTIEMBRE DE 1987.
 
-SE TRANSCRIBE UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBE ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO:- Este Decreto entrará en vigor veinte días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -12027,7 +12033,7 @@ P.O. 9 DE MARZO DE 2002.
 
 P.O. 15 DE MAYO DE 2002.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
@@ -12226,3 +12232,15 @@ P.O. 6 DE OCTUBRE DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor en un plazo de ciento ochenta días, contados a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Por lo que se refiere a la modificación del artículo 178 de la Constitución Política del Estado, y conforme lo dispone el artículo 202 de dicho ordenamiento, remítase copia del Dictamen, de la Iniciativa y de los debates del Congreso, a los sesenta y siete Municipios del Estado, para efectos de su aprobación, en su caso, cuya resolución deberán hacer llegar al Congreso o a la Diputación Permanente, a más tardar dentro de los cuarenta y cinco días siguientes a la fecha en que reciban la comunicación.
+
+TERCERO.- Una vez en vigor, el Estado y los Municipios incluirán en sus Presupuestos de Egresos la partida presupuestal correspondiente para hacer frente a su responsabilidad patrimonial, conforme a los siguientes criterios:
+
+a. El pago de la indemnización se efectuaría después de seguir los procedimientos para determinar que al particular efectivamente le corresponde dicha indemnización, y
+
+b. El pago de la indemnización estará sujeto a la disponibilidad presupuestal del ejercicio fiscal de que se trate.
