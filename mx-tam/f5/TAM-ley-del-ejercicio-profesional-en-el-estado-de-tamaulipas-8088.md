@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-ejercicio-profesional-en-el-estado-de-tamaulipas-8088"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "1986-10-18"
+last_updated: "2001-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -47,7 +47,7 @@ Naturaleza y objeto de la Ley y autoridades que la aplicarán.
 
 ###### ARTICULO 1.
 
-Esta Ley es de orden público e interés social; sus disposiciones regirán en el Estado de Tamaulipas en asuntos del orden común y tiene por objeto determinar las profesiones que necesitan título para su ejercicio, los requisitos para expedirlos, las condiciones que deberán llenarse para obtenerlos, así como lineamientos generales del ejercicio profesional, proveyendo que el mismo se preste a la población con un alto contenido ético.
+Esta Ley es de orden público e interés social; sus disposiciones regirán en el Estado de Tamaulipas en asuntos del orden común y tienen por objeto determinar las profesiones que necesitan título para su ejercicio, los requisitos para expedirlos, las condiciones que deberán llenarse para obtenerlos, así como lineamientos generales del ejercicio profesional, proveyendo que el mismo se preste a la población con un alto contenido ético.
 
 ###### ARTICULO 2.
 
@@ -57,13 +57,13 @@ Cuando determinados aspectos relacionados con alguna rama o especialidad profesi
 
 La aplicación de esta Ley corresponde al Ejecutivo del Estado, por conducto del Departamento de Profesiones y Legalizaciones de la Secretaría General de Gobierno, al que, para los efectos de esta Ley, se aludirá en su texto como "El Departamento".
 
-### CAPITULO II
-
-Del Título Profesional y de las Profesiones que lo requieran para su ejercicio.
+### CAPITULO II. Del Título Profesional y de las Profesiones que lo requieran para su ejercicio
 
 ###### ARTICULO 4.
 
 Para los efectos de esta Ley, Título Profesional es el documento expedido por el Gobierno del Estado, la Universidad Autónoma de Tamaulipas o instituciones de Enseñanza Superior legalmente reconocidas en favor de la persona que, concluidos los estudios, haya demostrado tener los conocimientos necesarios para el ejercicio de alguna profesión de las que señala el artículo siguiente, de conformidad con los planes y programas correspondientes.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 5.
 
@@ -71,41 +71,41 @@ Las profesiones que necesitan título para su ejercicio en el Estado de Tamaulip
 
 ACTUARIO.
 
-ABOGADO O LICENCIADO EN DERECHO O EN CIENCIAS JURIDICAS.
+ABOGADO O LICENCIADO EN DERECHO O EN CIENCIAS JURÍDICAS.
 
 ARQUITECTO.
 
-BIOLOGO.
+BIÓLOGO.
 
 BIOQUIMICO.
 
 ADMINISTRADOR TRONCO COMUN.
 
-CONTADOR PUBLICO.
+CONTADOR PÚBLICO.
 
-CONTADOR PUBLICO AUDITOR.
+CONTADOR PÚBLICO AUDITOR.
 
 HOMEOPATA.
 
-INGENIERO AGRONOMO.
+INGENIERO AGRÓNOMO.
 
-INGENIERO AGRONOMO TRONCO-COMUN.
+INGENIERO AGRÓNOMO TRONCO-COMUN.
 
-INGENIERO AGRONOMO ADMINISTRADOR.
+INGENIERO AGRÓNOMO ADMINISTRADOR.
 
-INGENIERO AGRONOMO ADMINISTRADOR DE EMPRESAS AGRICOLAS.
+INGENIERO AGRÓNOMO ADMINISTRADOR DE EMPRESAS AGRÍCOLAS.
 
-INGENIERO AGRONOMO ADMINISTRADOR DE EMPRESAS PECUARIAS.
+INGENIERO AGRÓNOMO ADMINISTRADOR DE EMPRESAS PECUARIAS.
 
-INGENIERO AGRONOMO EN PRODUCCION.
+INGENIERO AGRÓNOMO EN PRODUCCIÓN.
 
-INGENIERO AGRONOMO ESPECIALISTA EN SUELOS.
+INGENIERO AGRÓNOMO ESPECIALISTA EN SUELOS.
 
-INGENIERO AGRONOMO FITOTECNISTA.
+INGENIERO AGRÓNOMO FITOTECNISTA.
 
-INGENIERO AGRONOMO PARASITOLOGO.
+INGENIERO AGRÓNOMO PARASITOLOGO.
 
-INGENIERO AGRONOMO ZOOTECNISTA.
+INGENIERO AGRÓNOMO ZOOTECNISTA.
 
 INGENIERO EN AGROINDUSTRIAS.
 
@@ -117,11 +117,11 @@ INGENIERO ELECTRICISTA Y SUS DIVISIONES.
 
 INGENIERO ELECTRICISTA ADMINISTRADOR.
 
-INGENIERO ELECTRICISTA ESPECIALISTA EN PRODUCCION.
+INGENIERO ELECTRICISTA ESPECIALISTA EN PRODUCCIÓN.
 
 INGENIERO EN FERTILIZANTES ADMINISTRADOR.
 
-INGENIERO GEOFISICO.
+INGENIERO GEOFÍSICO.
 
 INGENIERO INDUSTRIAL.
 
@@ -131,13 +131,13 @@ INGENIERO INDUSTRIAL Y DE SISTEMAS.
 
 INGENIERO INDUSTRIAL ESPECIALISTA EN ELECTRICIDAD.
 
-INGENIERO INDUSTRIAL ESPECIALISTA EN ELECTRONICA.
+INGENIERO INDUSTRIAL ESPECIALISTA EN ELECTRÓNICA.
 
 INGENIERO INDUSTRIAL ESPECIALISTA EN MECANICA TERMICA.
 
-INGENIERO INDUSTRIAL ESPECIALISTA EN PRODUCCION.
+INGENIERO INDUSTRIAL ESPECIALISTA EN PRODUCCIÓN.
 
-INGENIERO EN IRRIGACION.
+INGENIERO EN IRRIGACIÓN.
 
 INGENIERO MECANICO.
 
@@ -147,19 +147,19 @@ INGENIERO MECANICO ESPECIALISTA EN ELECTRICIDAD.
 
 INGENIERO TOPOGRAFO E HIDROGRAFO.
 
-INGENIERO EN ELECTRONICA.
+INGENIERO EN ELECTRÓNICA.
 
 INGENIERO EN SISTEMAS COMPUTACIONALES.
 
-INGENIERO QUIMICO INDUSTRIAL.
+INGENIERO QUÍMICO INDUSTRIAL.
 
-LICENCIADO EN QUIMICA INDUSTRIAL.
+LICENCIADO EN QUÍMICA INDUSTRIAL.
 
-QUIMICO ANALITICO Y BACTERIOLOGO.
+QUÍMICO ANALÍTICO Y BACTERIÓLOGO.
 
-QUIMICO BACTERIOLOGO Y PARASITOLOGO.
+QUÍMICO BACTERIÓLOGO Y PARASITOLOGO.
 
-QUIMICO FARMACOBIOLOGO.
+QUÍMICO FARMACOBIOLOGO.
 
 INGENIERO EN ALIMENTOS.
 
@@ -171,9 +171,9 @@ INGENIERO PORTUARIO.
 
 INGENIERO MAQUINISTA NAVAL.
 
-INGENIERIA GEOFISICA.
+INGENIERIA GEOFÍSICA.
 
-INGENIERIA GEOLOGICA.
+INGENIERIA GEOLÓGICA.
 
 INGENIERO PETROLERO.
 
@@ -181,55 +181,53 @@ INGENIERO TOPOGRAFO.
 
 INGENIERO EN TRANSPORTE.
 
-LICENCIADO EN ADMINISTRACION AGROPECUARIA Y PESQUERA.
+LICENCIADO EN ADMINISTRACIÓN AGROPECUARIA Y PESQUERA.
 
-LICENCIADO EN ADMINISTRACION DE EMPRESAS.
+LICENCIADO EN ADMINISTRACIÓN DE EMPRESAS.
 
-LICENCIADO EN ADMINISTRACION.
+LICENCIADO EN ADMINISTRACIÓN.
 
-LICENCIADO EN ADMINISTRACION PUBLICA.
+LICENCIADO EN ADMINISTRACIÓN PÚBLICA.
 
-LICENCIADO EN ADMINISTRACION DE EMPRESAS TURISTICAS.
+LICENCIADO EN ADMINISTRACIÓN DE EMPRESAS TURÍSTICAS.
 
 LICENCIADO EN COMERCIO.
 
-LICENCIADO EN COMPUTACION.
+LICENCIADO EN COMPUTACIÓN.
 
-LICENCIADO EN COMPUTACION ADMINISTRATIVA.
+LICENCIADO EN COMPUTACIÓN ADMINISTRATIVA.
 
 LICENCIADO EN COMUNICACIONES.
 
-LICENCIADO EN CONTADURIA.
+LICENCIADO EN CONTADURÍA.
 
-LICENCIADO EN CONTADURIA PUBLICA.
+LICENCIADO EN CONTADURÍA PÚBLICA.
 
 LICENCIADO EN INFORMATICA.
 
 LICENCIADO EN ECONOMIA.
 
-LICENCIADO EN PSICOLOGIA.
+LICENCIADO EN PSICOLOGÍA.
 
 LICENCIADO EN RELACIONES INDUSTRIALES.
 
-LICENCIADO EN RELACIONES PUBLICAS.
+LICENCIADO EN RELACIONES PÚBLICAS.
 
-LICENCIADO EN SISTEMAS DE COMPUTACION ADMINISTRATIVA.
+LICENCIADO EN SISTEMAS DE COMPUTACIÓN ADMINISTRATIVA.
 
 LICENCIADO EN TRABAJO SOCIAL.
 
 LICENCIADO EN TURISMO.
 
-LICENCIADO EN CIENCIAS DE LA COMUNICACION.
+LICENCIADO EN CIENCIAS DE LA COMUNICACIÓN.
 
-LICENCIADO EN CIENCIAS POLITICAS Y SOCIALES.
+LICENCIADO EN CIENCIAS POLÍTICAS Y SOCIALES.
 
-LICENCIADO EN CIENCIAS DE LA COMPUTACION.
-
-LICIENCIADO EN COMPUTACION ADMINISTRATIVA.
+LICENCIADO EN CIENCIAS DE LA COMPUTACIÓN.
 
 LICENCIADO EN COMERCIALIZACION INDUSTRIAL.
 
-LICENCIADO EN EDUCACION FISICA.
+LICENCIADO EN EDUCACIÓN FÍSICA.
 
 LICENCIADO EN ENFERMERIA.
 
@@ -237,53 +235,51 @@ LICENCIADO EN FILOSOFIA Y LETRAS.
 
 LICENCIADO PROMOTOR DE VENTAS.
 
-LICIENCIADO EN TRABAJO SOCIAL.
-
 LICENCIADO EN TURISMO Y SUS DIVISIONES.
 
-LICENCIADO EN CIENCIAS DE LA EDUCACION.
+LICENCIADO EN CIENCIAS DE LA EDUCACIÓN.
 
-LICENCIADO EN CIENCIAS DE LA EDUCACION, ESPECIALIDAD QUIMICO BIOLOGICAS.
+LICENCIADO EN CIENCIAS DE LA EDUCACIÓN, ESPECIALIDAD QUÍMICO BIOLÓGICAS.
 
-LICENCIADO EN CIENCIAS DE LA EDUCACION, ESPECIALIDAD EN CIENCIAS SOCIALES.
+LICENCIADO EN CIENCIAS DE LA EDUCACIÓN, ESPECIALIDAD EN CIENCIAS SOCIALES.
 
-LICENCIADO EN PEDAGOGIA.
+LICENCIADO EN PEDAGOGÍA.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN BIOLOGIA.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN BIOLOGIA.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN CIENCIAS NATURALES.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN CIENCIAS NATURALES.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN CIENCIAS SOCIALES.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN CIENCIAS SOCIALES.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN EDUCACION BASICA.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN EDUCACIÓN BASICA.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN EDUCACION FISICA.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN EDUCACION FÍSICA.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN EDUCACION PREESCOLAR Y PRIMARIA.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN EDUCACIÓN PREESCOLAR Y PRIMARIA.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN ESPAÑOL.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN ESPAÑOL.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN FISICA Y QUIMICA.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN FÍSICA Y QUÍMICA.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN GEOGRAFIA.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN GEOGRAFIA.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN HISTORIA.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN HISTORIA.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN LENGUA EXTRANJERA (INGLES).
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN LENGUA EXTRANJERA (INGLES).
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN LENGUA Y LITERATURA ESPAÑOLA.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN LENGUA Y LITERATURA ESPAÑOLA.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN MATEMATICAS.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN MATEMÁTICAS.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN PSICOLOGIA Y ORIENTACION ESCOLAR.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN PSICOLOGÍA Y ORIENTACIÓN ESCOLAR.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN PSICOLOGIA Y ORIENTACION VOCACIONAL.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN PSICOLOGÍA Y ORIENTACIÓN VOCACIONAL.
 
-LICENCIADO EN PEDAGOGIA, ESPECIALIDAD EN PSICOPEDAGOGIA.
+LICENCIADO EN PEDAGOGÍA, ESPECIALIDAD EN PSICOPEDAGOGÍA.
 
-LICENCIADO EN ADMINISTRACION Y PLANIFICACION EDUCATIVA.
+LICENCIADO EN ADMINISTRACIÓN Y PLANIFICACIÓN EDUCATIVA.
 
-LICENCIADO EN FISICO MATEMATICAS, ESPECIALIDAD EN DOCENCIA UNIVERSITARIA.
+LICENCIADO EN FISICO MATEMÁTICAS, ESPECIALIDAD EN DOCENCIA UNIVERSITARIA.
 
 MEDICO CIRUJANO.
 
@@ -291,31 +287,33 @@ MEDICO CIRUJANO DENTISTA.
 
 MEDICO CIRUJANO PARTERO.
 
+MEDICO VETERINARIO ZOOTECNISTA.
+
 PROFESOR INSTRUMENTISTA.
 
 PROFESOR EN MUSICA ESCOLAR.
 
-PROFESOR EN EDUCACION MEDIA Y SUS DIVISIONES (CIENCIAS NATURALES, CIENCIAS SOCIALES, ESPAÑOL, LENGUA EXTRANJERA, MATEMATICAS, PEDAGOGIA Y PSICOLOGIA).
+PROFESOR EN EDUCACIÓN MEDIA Y SUS DIVISIONES (CIENCIAS NATURALES, CIENCIAS SOCIALES, ESPAÑOL, LENGUA EXTRANJERA, MATEMÁTICAS, PEDAGOGÍA Y PSICOLOGÍA).
 
-TECNICO SUPERIOR EN ADMINISTRACION DE IMPUESTOS.
+TÉCNICO SUPERIOR EN ADMINISTRACIÓN DE IMPUESTOS.
 
-TECNICO SUPERIOR EN EDUCACION BANCARIA.
+TÉCNICO SUPERIOR EN EDUCACIÓN BANCARIA.
 
-TECNICO EN ANALISIS PROGRAMADOR.
+TÉCNICO EN ANÁLISIS PROGRAMADOR.
 
-TECNICO CAPTURISTA DE DATOS.
+TÉCNICO CAPTURISTA DE DATOS.
 
-TECNICO EN ENFERMERIA.
+TÉCNICO EN ENFERMERIA.
 
-TECNICO SUPERIOR EN EMPRESAS AGROPECUARIAS.
+TÉCNICO SUPERIOR EN EMPRESAS AGROPECUARIAS.
 
-TECNICO PERFORISTA VERIFICADOR.
+TÉCNICO PERFORISTA VERIFICADOR.
 
-TECNICO EN TRABAJO SOCIAL.
+TÉCNICO EN TRABAJO SOCIAL.
 
-TECNICO FORESTAL.
+TÉCNICO FORESTAL.
 
-TECNICO SUPERIOR EN ORGANIZACION DEPORTIVA.
+TÉCNICO SUPERIOR EN ORGANIZACION DEPORTIVA.
 
 ### CAPITULO III
 
@@ -381,7 +379,7 @@ No se reputará ejercicio profesional el acto realizado en casos graves con prop
 
 ###### ARTICULO 13.
 
-Para efectos de esta Ley, se considerarán "Pasantes":
+Para efectos de esta Ley, se considerarán "Pasantes"
 
 I.- A los que, habiendo terminado sus estudios profesionales, no hayan presentado el examen profesional u obtenido el título profesional.
 
@@ -395,15 +393,13 @@ Se entiende por "práctico" aquella persona que sin contar con Título Profesion
 
 Se entiende por cédula profesional, el documento expedido por el Departamento con efectos de patente para ejercer alguna de las profesiones a que se refiere el Artículo 5o. de esta Ley en el Estado de Tamaulipas
 
-### CAPITULO II
-
-De las Condiciones para Ejercer una Profesión.
+### CAPITULO II. De las Condiciones para Ejercer una Profesión
 
 ###### ARTICULO 16.
 
 Para ejercer en el Estado, cualquiera de las profesiones a que se refiere el Artículo 5o. de esta Ley, se requiere:
 
-I.- Ser mexicano por nacimiento o naturalización;
+I.- Ser mexicano por nacimiento o naturalización:
 
 II.- Estar en pleno goce y ejercicio de los derechos civiles;
 
@@ -419,17 +415,17 @@ Respecto a los mexicanos no avecindados en el Estado, o aquellos que siendo avec
 
 Los extranjeros sólo podrán ejercer en el Estado las profesiones técnico científicas que son objeto de esta Ley, cuando no haya profesionales en el Estado, en alguna de las siguientes formas:
 
-l.- Ser profesores de especialidades, siempre y cuando a juicio del Departamento de Profesiones acusen competencia profesional;
+l.- Ser profesores de especialidades, siempre y cuando a juicio del Departamento de Profesiones acusen competencia profesional.
 
-II.- Actuar como investigadores en laboratorios o instituciones de carácter esencialmente académico o científico;
+II.- Actuar como investigadores en laboratorios o instituciones de carácter esencialmente académico o científico.
 
 III.- Ser directores técnicos en la explotación de recursos naturales del Estado, con las limitaciones que establecen los reglamentos y leyes relativas.
 
-Respecto al ejercicio de alguna profesión no regulada por esta Ley, los extranjeros podrán habilitarse por el Departamento, si en su país de origen hay reciprocidad para los mexicanos, sujetándose en todo caso a las leyes federales relativas.
+Respecto al ejercicio de alguna profesión no regulada por esta Ley, los extranjeros podrán habilitarse por el Departamento si en su país de origen hay reciprocidad para los mexicanos, sujetándose en todo caso a las leyes federales relativas.
 
 ###### ARTICULO 18.
 
-La autorización para ejercer en los términos del artículo anterior, se otorgará con carácter temporal por el Departamento, si se demuestra que las condiciones y calidad migratoria del extranjero le permite realizar dichas actividades y que posee el título correspondiente.
+La autorización para ejercer en los términos del artículo anterior, se otorgará con carácter temporal por el Departamento, si se demuestra que las condiciones y calidad migratoria del extranjero le permite realizar dichas actividades y que posee el título correspondiente
 
 #### SECCION I
 
@@ -469,9 +465,7 @@ Cualquier modificación a los datos proporcionados al Departamento deberán ser 
 
 El Ejecutivo del Estado podrá celebrar convenios con la Federación, a fin de coordinar y unificar el registro de los títulos profesionales y la expedición de cédulas de ejercicio con el objeto que dichos actos tengan reconocimiento y validez nacional, independientemente de que éstos hayan sido otorgados por la Federación o por los Estados en este caso, para efectos de control, los profesionistas radicados en Tamaulipas deberán inscribirse en el padrón a que se refiere el Artículo 22 de esta Ley.
 
-### CAPITULO III
-
-De los Profesionistas.
+### CAPITULO III. De los Profesionistas
 
 ###### ARTICULO 25.
 
@@ -501,13 +495,13 @@ III.- Dedicar todo el tiempo necesario para desempeñar correctamente el trabajo
 
 IV.- Rendir en debida forma al cliente, cuando éste lo solicite, las cuentas de su gestión;
 
-V.- Iniciar o proseguir las gestiones que le fueren encomendadas, sin incurrir en dilación injustificada;
+V.- Iniciar o proseguir las gestiones que le fueren encomendadas, sin incurrir en dilación injustificada,
 
 VI.- Avisar oportunamente al cliente para que éste pueda tomar las medidas convenientes, en caso de no poder concluir la gestión que le hubiera sido encomendada;
 
 VII.- Otorgar recibos por concepto de pago de honorarios o gasto; y
 
-VIII.- Cualquier otra derivada de las leyes o reglamentos aplicables a la materia.
+VIII.- Cualquier otra derivada de las leyes o reglamentos aplicables a la materia
 
 ###### ARTICULO 27.
 
@@ -529,7 +523,7 @@ VII.- Cualquier otra derivada de las leyes o reglamentos aplicables a la materia
 
 ###### ARTICULO 28.
 
-El pago por la prestación de servicios profesionales, se sujetará a lo pactado en el contrato que se haya celebrado con el cliente; a falta de éste, a lo que dispongan los aranceles; y en defecto de uno y otros, a lo dispuesto sobre dicha materia por el Código Civil del Estado.
+El pago por la prestación de servicios profesionales, se sujetará a lo pactado en el contrato que se haya celebrado con el cliente; a falta de éste, a lo que dispongan los aranceles; y en defecto de uno y otros, a lo dispuesto sobre dicha materia por el Código Civil del el Estado.
 
 ###### ARTICULO 29.
 
@@ -557,9 +551,7 @@ II.- Ser de reconocida buena conducta; y
 
 III.- Que actúen bajo la dirección o vigilancia de un profesional con título registrado conforme a las prevenciones legales.
 
-### CAPITULO V
-
-De los Prácticos.
+### CAPITULO V. De los Prácticos
 
 ###### ARTICULO 33.
 
@@ -575,7 +567,7 @@ Sólo se otorgarán autorizaciones para ejercer en calidad de práctico en regio
 
 ###### ARTICULO 34.
 
-Las autorizaciones expedidas por el Departamento para ejercer profesionalmente en calidad de práctico, no constituirán un derecho adquirido a favor del beneficiario.
+Las autorizaciones expedidas por el Departamento para ejercer profesionalmente en calidad de lo práctico, no constituirán un derecho adquirido a favor del beneficiario.
 
 ###### ARTICULO 35.
 
@@ -583,7 +575,7 @@ El examen a que se sujetarán los aspirantes consistirá en una prueba teórico 
 
 ###### ARTICULO 36.
 
-El Departamento designará a un jurado integrado por tres profesionales de la rama de que se trate, con título debidamente registrado ante el mismo y con cinco años de ejercicio profesional. Los integrantes de los jurados deberán pertenecer a los Colegios Profesionales respectivos, si es que los hay, y en su ausencia por profesionales de prestigio.
+El Departamento designará a un jurado integrado por tres profesionales de la rama de que se trata, con título debidamente registrado ante el mismo y con cinco años de ejercicio profesional. Los integrantes de los jurados deberán pertenecer a los Colegios Profesionales respectivos, si es que los hay, y en su ausencia por profesionales de prestigio.
 
 ###### ARTICULO 37.
 
@@ -619,7 +611,7 @@ Los servicios profesionales de índole social deberán ser prestados:
 
 I.- Por los estudiantes de las profesiones anotadas en el Artículo 5 de esta Ley, como requisito previo a la obtención de su título profesional durante un lapso no menor de seis meses ni mayor de dos años; los estudiantes o egresados de las instituciones universitarias o de educación superior existentes en la Entidad, deberán prestar preferente sus servicios en el Estado de Tamaulipas; la realización de éste o de actividades que con dicho carácter pudieren corresponder, según el tipo de profesión, sea por estudiantes, pasantes o graduados, que no hubieren cursado la carrera profesional en instituciones ubicadas en la Entidad, podrá autorizarse bajo circunstancias de reciprocidad;
 
-II.- Por los profesionistas cuando así le sea solicitado por las autoridades competentes, siempre que la naturaleza del servicio sea de carácter temporal y no resulte incompatible con sus actividades y se trate de casos de emergencia, epidemias, desastres y demás circunstancias graves que afecten a la comunidad;
+II.- Por los profesionistas cuando así le sea solicitado por las autoridades competentes, siempre que la naturaleza del servicio sea de carácter temporal y no resulte incompatible con sus actividades y se trate de casos de emergencia, epidemias, desastres y demás circunstancias graves que afecten a la comunidad.
 
 III.- Por los Colegios Profesionales.
 
@@ -633,7 +625,7 @@ De los Colegios de Profesionales.
 
 ###### ARTICULO 43.
 
-Los profesionales de una misma rama tendrán plena libertad de asociarse, ya sea entre sí o con los de ramas distintas, para fines sociales, culturales, de actualización y superación de la profesión y de salvaguarda o representación de sus intereses comunes; sin embargo, para que esas asociaciones tengan el carácter de "Colegio" y puedan actuar como organismos colaboradores de la Administración Pública Estatal en la medida que las leyes los faculten, será necesario que satisfagan las prescripciones establecidas en el presente capítulo. Sólo las asociaciones que cumplan tales requisitos tendrán derecho a utilizar en su denominación la expresión: "Colegio de........" y la rama profesional a la que pertenezcan.
+Los profesionales de una misma rama tendrán plena libertad de asociarse, ya sea entre sí o con los de ramas distintas, para fines sociales, culturales, de actualización y superación de la profesión y de salvaguarda o representación de sus intereses comunes; sin embargo, para que esas asociaciones tengan el carácter de "Colegio" y puedan actuar como organismos colaboradores de la Administración Pública Estatal en la medida que las leyes los faculten, será necesario que satisfagan las prescripciones establecidas en el presente capítulo. Sólo las asociaciones que cumplan tales requisitos tendrán derecho a utilizar en su denominación, la expresión: "Colegio de........" y la rama profesional a la que pertenezcan.
 
 ###### ARTICULO 44.
 
@@ -665,7 +657,7 @@ El Estado propiciará la formación de Colegios Profesionales en aquellas ramas 
 
 Cada "Colegio Profesional", sin contravenir las disposiciones de esta Ley, formulará y modificará sus propios estatutos y reglamentos, los que deberán incluir, como mínimo, las siguientes prevenciones:
 
-I.- Que la asamblea de asociados sea su máxima autoridad;
+I.- Que la asamblea de asociados sea su máxima autoridad.
 
 II.- Que sus actividades no tengan finalidades políticas, electorales o religiosas;
 
@@ -707,7 +699,7 @@ IV.- Presentar ponencias en los congresos, relacionadas con las ramas científic
 
 V.- Promover ante el Ejecutivo del Estado actividades sociales, culturales y académicas y modificaciones a las leyes y reglamentos;
 
-VI.- Actuar como cuerpos consultivos de la administración pública dentro de sus respectivas ramas y en la medida que las leyes los faculten;
+VI.- Actuar como cuerpos consultivos de la administración pública dentro de sus respectivas ramas y en la medida que las leyes los faculten.
 
 VII.- Formular sus propios estatutos;
 
@@ -767,7 +759,7 @@ Además de lo que establezcan otras leyes, se ofenden los derechos de la socieda
 
 I.- Cometa en la prestación de su servicio un hecho calificado como delito por la Ley Penal;
 
-II.- Ofrezca al público sus servicios en forma tan alejada de la realidad que sea considerado charlatanería;
+II.- Ofrezca al público sus servicios en forma tan alejada de la realidad que sea considerado charlatanería.
 
 III.- Se abstenga sin causa justificada de prestar los servicios profesionales de índole social, estando obligado a ello; y
 
@@ -853,7 +845,7 @@ El profesionista que se considere afectado por una sanción impuesta por el Depa
 
 ### CAPITULO UNICO
 
-Del Departamento de Profesiones y Legalizaciones.
+DEL DEPARTAMENTO DE PROFESIONES Y LEGALIZACIONES.
 
 ###### ARTICULO 67.
 
@@ -865,7 +857,7 @@ El Departamento tendrá las siguientes atribuciones:
 
 I.- Recabar los datos que considere necesarios para, en su caso, proceder a la legalización o al registro de los títulos profesionales;
 
-II.- Formar el Padrón de Profesionistas de la Entidad;
+II.- Formar el Padrón de Profesionistas de la Entidad,
 
 III.- Publicar a costa del interesado, en uno de los periódicos de mayor circulación del lugar de su residencia o en su defecto de la población más próxima, así como en el Periódico Oficial del Estado, las resoluciones denegatorias de registro o de cancelación de títulos profesionales, así como aquellas en que hubiere decretado la suspensión;
 
@@ -907,7 +899,7 @@ Se concede el término de 90 días a partir de la vigencia de este Decreto, a ef
 
 ###### ARTICULO CUARTO.
 
-Se abroga la Ley Reglamentaria del Artículo 4o. de la Constitución General de la República en el Estado de Tamaulipas, de fecha 2 de octubre de 1926, publicada en el Periódico Oficial No. 83, del día 16 del mismo mes y año.
+Se abroga la Ley de Reglamentaria del Artículo 4o. de la Constitución General de la República en el Estado de Tamaulipas, de fecha de 2 de octubre de 1926, publicada en el Periódico Oficial No. 83, del día 16 del mismo mes y año.
 
 ###### ARTICULO QUINTO.
 
@@ -922,3 +914,11 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 3 de septie
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los veinticinco días del mes de septiembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado, DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. ROBERTO PERALES MELENDEZ.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE DICIEMBRE DE 2001
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
