@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2002-04-01"
+last_updated: "2003-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2003.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -347,7 +347,9 @@ PORNOGRAFÍA INFANTIL, previsto por el artículo 195 Bis.
 
 LENOCINIO DE MENORES, previsto en el artículo 200 Bis.
 
-ABUSO DE AUTORIDAD, previsto en el artículo 208, fracciones XXIII, XXIV y XXXVIII.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+EL ABUSO DE AUTORIDAD, previsto en el artículo 208, fracciones XXIII, XXIV, XXXVIII y XLI, LA FALSIFICACION DE SELLOS, LLAVES, CUÑOS, TROQUELES Y MARCAS, previstos en los artículos 224 y 225, así como la FALSIFICACION DE DOCUMENTOS E INFORMES FALSOS DADOS A UNA AUTORIDAD, previstos por los artículos 226, 227, 228, 229 y 230; VARIACION DEL NOMBRE O DEL DOMICILIO previsto en el artículo 232; y USURPACION DE FUNCIONES previsto en el artículo 233, todo del Código Penal del Estado, CUANDO SE COMETAN POR EXTRANJEROS O SERVIDORES PÚBLICOS, conforme al artículo 235 BIS del Código Penal del Estado.
 
 VIOLACION, previsto en los artículos 246, 247 y 248.
 
@@ -384,6 +386,10 @@ EXTORSION, previsto en el artículo 383 BIS en relación con las fracciones II y
 TORTURA, previsto en los artículos 2, 3, 4, de la Ley Estatal para Prevenir y Sancionar la Tortura.
 
 DELITOS ELECTORALES, previstos en los artículos 395 y 398 del Código Penal para el Estado Libre y Soberano de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+LA INDUCCION DE MENORES A LA FARMACODEPENDENCIA, prevista en las fracciones I, II y III del artículo 195 BIS A.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 2002)</small>
 
@@ -1111,17 +1117,23 @@ La persona que tenga derecho a exigir la responsabilidad civil, sólo será cons
 
 El sistema de auxilio a la víctima del delito dependerá de la Procuraduría General de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 134.
 
-Las actuaciones podrán practicarse a toda hora y aún en días inhábiles, sin necesidad de previa habilitación. Todas se asentarán por escrito, y en cada una de ellas se expresarán el día, mes y año en que se practiquen. Todas las fechas y cantidades se escribirán con letra.
+Las actuaciones podrán practicarse a toda hora y aún en días inhábiles, sin necesidad de previa habilitación. Todas se asentarán por escrito por cualquier instrumento idóneo en el lugar de los hechos, y en cada una de ellas se expresarán la hora, el día, mes y año en que se practiquen. Todas las fechas y cantidades se escribirán con letra.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 135.
 
-El Juez y el Ministerio Público, estarán acompañados en las diligencias que practiquen, de secretarios, si los tuvieren, o de dos testigos de asistencia, que darán fe de todo lo que en aquéllas pase.
+El Juez y el Ministerio Público, estarán acompañados en las diligencias que practiquen, de sus secretarios, si los tuvieren, o de dos testigos de asistencia, que darán fe de todo lo que en aquellas pase. Cuando se actúe con testigos de asistencia, además de que en el acta respectiva se harán constar los datos generales de éstos, se agregarán copia del documento con el cual se hubiere identificado a los medios empleados para su identificación si no existiere documento; salvo que, por el lugar y la premura del tiempo, la autoridad ministerial no tenga a su alcance dichos medios, en tal caso, asentará razón motivada.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
 A las actuaciones de averiguación previa sólo podrán tener acceso el inculpado, su defensor, la víctima u ofendido y su representante leal, si los hubiere. Al servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos que obren en la averiguación, se les sujetará al procedimiento de responsabilidad administrativa o penal según corresponda.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
 En el proceso, el Juzgador presidirá los actos de prueba y recibirá, por sí mismo, las declaraciones.
 
@@ -1242,6 +1254,10 @@ Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plen
 Todos los términos que señala este Código son improrrogables, y se contarán desde el día siguiente al en que se hubiere hecho la notificación.
 
 Sólo los términos que señala este Código para tomar al inculpado su declaración preparatoria y para pronunciar el auto de reclusión preventiva, se contarán de momento a momento y desde que el procesado fuere puesto a disposición del Tribunal competente, sin perjuicio de la responsabilidad en que pueda haber incurrido la autoridad respectiva por no haber hecho en tiempo oportuno la consignación. En los casos de este párrafo, se incluirán en los términos, los domingos y demás días considerados como inhábiles.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+Cuando este Código no señale término para la práctica de alguna diligencia o para el cumplimiento de un mandamiento judicial o el ejercicio de un derecho, se tendrá por señalado el término de tres días.
 
 ###### Art. 160.
 
@@ -1665,6 +1681,10 @@ En el periodo de instrucción incumbe al Ministerio Público principalmente y a 
 
 Cuando se hubiere dictado auto de libertad al inculpado con las reservas legales, el Ministerio Público, de no haberse reservado un triplicado de la Averiguación Previa, o bien lo considere necesario, solicitará copia certificada de todo lo actuado a fin de continuar la investigación. Así mismo, cuando habiéndose reservado el triplicado de la averiguación previa para continuar la investigación en contra de terceros, de resultar comprobada la existencia de otro delito, al ejercitar acción penal en contra de los restantes, se ampliará el ejercicio de la acción penal en contra de quien ya estuviere procesado a efecto de que se le tome su declaración preparatoria por el nuevo ilícito y continúe la instrucción.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+Cuando el Ministerio Público amplíe el ejercicio de la acción penal, el auto de formal prisión que con motivo de ello se dicte, sobreseerá aquel otro por cuyos hechos se haya ampliado dicho ejercicio.
+
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
 ###### Art. 223.
@@ -1764,6 +1784,10 @@ DE LA LIBERTAD BAJO CAUCION.
 ###### Art. 239.
 
 Dentro de las cuarenta y ocho horas contadas desde que el indiciado ha quedado a disposición de la Autoridad judicial encargada de practicar la instrucción, se procederá a tomarle su declaración preparatoria; la misma se rendirá en forma oral o escrita, por el inculpado en presencia de su defensor para la asistencia jurídica que requiera. EL inculpado podrá dictar sus declaraciones, pero si no lo hiciere, el Juzgador que practique la diligencia las redactará con la mayor exactitud posible. Si fueren varios los inculpados por los mismos hechos se les tomará declaración por separado, en una sola audiencia. Cuando haya diversos inculpados que deban rendir declaración, el Juez adoptará las medidas legales.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+Cuando un inculpado se encuentre imposibilitado físicamente para rendir su declaración preparatoria se suspenderá el plazo constitucional hasta en tanto se encuentre en condiciones de hacerlo, de acuerdo con la opinión de un especialista.
 
 ###### Art. 240.
 
@@ -1934,6 +1958,10 @@ El auto de formal prisión no revoca libertad caucional concedida, excepto cuand
 ###### Art. 267.
 
 Si dentro del término legal no se reúnen los requisitos necesarios para dictar auto de formal prisión o de sujeción a proceso, se dictará auto de libertad sin fianza ni protesta, por falta de elementos para procesar, o de no sujeción a proceso en su caso, sin perjuicio de que por datos posteriores de prueba se proceda nuevamente en contra del mismo inculpado; en estos casos no procederá el sobreseimiento hasta en tanto prescriba la acción penal del delito o delitos de que se trate.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+Las pruebas que se soliciten después de dictado un auto de libertad por falta de elementos para procesar o de no sujeción a proceso, deberán practicarse con citación del liberado y su defensor.
 
 ###### Art. 268.
 
@@ -2933,6 +2961,14 @@ Los peritos practicarán todas las operaciones y experiencias que su ciencia o a
 
 Los peritos emitirán su dictamen por escrito y lo ratificarán en diligencia especial. Los peritos oficiales titulares no necesitarán ratificar sus dictámenes, sino cuando el funcionario que practique las diligencias lo estime necesario.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+El Juez, el Ministerio público, el defensor y el inculpado podrán interrogar a los peritos para esclarecer los términos de su dictamen; en este caso el juez o el tribunal tendrán la facultad de desechar las preguntas que a su juicio sean capciosas o inconducentes.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+Los peritos oficiales deberán abstenerse de conocer de los asuntos en los que tengan algún impedimento y podrán excusarse, o podrán ser recusados en los términos del Capítulo II del Titulo Segundo de este Código, en lo que le sea aplicable de acuerdo a la naturaleza de su función.
+
 ###### Art. 405.
 
 Cuando las opiniones de los peritos discordaren, el funcionario que practique las diligencias los citará a una junta en la que se discutirán los puntos diferentes, haciéndose constar en el acta el resultado a que en la discusión se llegare. Si los peritos no se pusieren de acuerdo, se nombrará por el funcionario respectivo, un perito tercero en discordia.
@@ -3073,9 +3109,15 @@ Si de lo actuado aparecieren indicios bastantes para suponer que algún testigo 
 
 CAREOS.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 432.
 
-Cuando exista contradicción en las declaraciones de dos personas, se practicarán entre ellas un careo que podrá repetirse cuando el Tribunal lo estime oportuno o cuando surjan nuevos puntos de contradicción.
+Cuando exista contradicción sustancial en las declaraciones de dos personas o más, se practicarán entre ellas un careo que podrá repetirse cuando el juez lo estime necesario o cuando surjan nuevos puntos de contradicción, excepto en los casos en que expresamente el inculpado lo solicite que no se lleven acabo y el juez estime innecesaria su práctica.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
+Los careos que establece la fracción IV del Artículo 20 de la Constitución Federal, se practicarán en presencia del juez siempre que el inculpado lo solicite.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -3225,6 +3267,8 @@ Es aplicable al acusado y a su defensor, lo dispuesto en el Artículo 454 de est
 
 DE LA CONDENA CONDICIONAL.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+
 ###### Art. 459.
 
 El mismo día en que el acusado o su defensor presenten sus conclusiones, o en el momento de hacer la declaración a que se refiere el Artículo 457 de este Código el Tribunal citará a las partes para la audiencia final, que deberá efectuarse dentro de los cinco días siguientes, o a más tardar dentro de veinte en el caso de que las partes en sus conclusiones hubieren promovido prueba, si se accediere a la solicitud.
@@ -3287,7 +3331,7 @@ SENTENCIA IRREVOCABLE.
 
 ###### Art. 470.
 
-Las pruebas que se ofrezcan para acreditar los requisitos que exige el Artículo 97 del Código Penal para la concesión de la condena condicional, se rendirán durante la instrucción sin que el ofrecimiento de esas pruebas por parte del procesado, signifique la aceptación de su responsabilidad en los hechos que se le imputan.
+Las pruebas que se ofrezcan para acreditar los requisitos que exige el artículo 83 del Código Penal para la concesión de la condena condicional, se rendirán durante la instrucción sin que el ofrecimiento de esas pruebas por parte del procesado, signifique la aceptación de su responsabilidad en los hechos que se le imputan.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 1995)</small>
 
@@ -4068,3 +4112,11 @@ SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de 
 P.O. 1 DE ABRIL DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2003.
+
+Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+Tercero.- La Exposición de Motivos se publicará en el Periódico Oficial junto con el Decreto.
