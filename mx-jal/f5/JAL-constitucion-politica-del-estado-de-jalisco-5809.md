@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1971-08-28"
+last_updated: "1972-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 1972.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -483,13 +483,15 @@ Los Munícipes durarán en su encargo tres años y se renovarán en su totalidad
 
 Los Ayuntamientos admitirán las renuncias y concederán las licencias que soliciten sus miembros.
 
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 1972)</small>
+
 ###### Art. 38.
 
-Los Municipios administrarán libremente su Hacienda, la cual se formará de las contribuciones que en cantidad suficiente, para atender a sus necesidades, le señale la Legislatura.
+Los Municipios administrarán libremente su Hacienda, la cual se formará de las contribuciones que en cantidad suficiente para atender a sus necesidades, les señale la Legislatura del Estado.
 
 Los Municipios tienen personalidad jurídica para todos los efectos legales.
 
-Su único superior gerárquico (sic) será el Gobierno del Estado, con quien se comunicarán sin ningún intermediario, las demás atribuciones y facultades de los Ayuntamientos, así como el número de los ciudadanos que los formen se determinarán en las Leyes respectivas.
+No habrá ninguna autoridad intermedia entre el Municipio y el Gobierno del Estado. Las demás atribuciones y facultades de los Ayuntamientos, así como el número de los ciudadanos que lo formen, se determinarán en las Leyes respectivas.
 
 ###### Art. 39.
 
@@ -786,3 +788,7 @@ UNICO.- Esta Ley que forma parte del texto de la Constitución Política del Est
 P.O. 28 DE AGOSTO DE 1971.
 
 UNICO.- Esta Ley entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE ENERO DE 1972.
+
+UNICO.- Esta Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Jalisco.
