@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-radio-y-television-470"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1960-01-19"
-last_updated: "1986-01-13"
+last_updated: "2000-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=470&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1960-01-08"
 
 LEY FEDERAL DE RADIO Y TELEVISION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de enero de 1960.
 
@@ -115,7 +115,7 @@ I.- Vigilar que las transmisiones de radio y televisión se mantengan dentro de 
 
 II.- Vigilar que las transmisiones de radio y televisión dirigidos a la población infantil propicien su desarrollo armónico, estimulen la creatividad y la solidaridad humana, procuren la comprensión de los valores nacionales y el conocimiento de la comunidad internacional. Promuevan el interés científico, artístico y social de los niños, al proporcionar diversión y coadyuvar a su proceso formativo;
 
-III.- Coordinar el funcionamiento de las estaciones de radio y televisión pertenecientes al Gobierno Federal;
+III.- (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2000)
 
 IV.- Vigilar la eficacia de las transmisiones a que se refiere el artículo 59 de esta ley;
 
@@ -143,7 +143,11 @@ VI.- Extender certificados de aptitud al personal de locutores que eventual o pe
 
 VII.- Informar a la Secretaría de Gobernación los casos de infracción que se relacionen con lo preceptuado en este artículo, con excepción de la fracción IV, a fin de que imponga las sanciones correspondientes, y
 
-VIII.- Las demás que le confiera la ley.
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+VIII.- Coordinar el funcionamiento de las estaciones de radio y televisión pertenecientes al Gobierno Federal, con apego al artículo tercero constitucional cuando se trate de cuestiones educativas; y
+
+IX.- Las demás que le confiera la ley.
 
 ###### ARTICULO 12.
 
@@ -199,6 +203,8 @@ III.- Información detallada de las inversiones en proyecto.
 
 La Secretaría de Comunicaciones y Transportes señalará al solicitante el monto del depósito o de la fianza que deberá constituir, para garantizar que se continuarán los trámites hasta que la concesión sea otorgada o negada.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 De acuerdo con la categoría de la estación radiodifusora en proyecto, el monto del depósito o de la fianza no podrá ser menor de 10,000 ni exceder de 30,000 pesos.
 
 Si el interesado abandona el trámite la garantía se aplicará en favor del erario federal.
@@ -214,6 +220,8 @@ En todo caso, el plazo real para el cumplimiento de la totalidad de los requisit
 Constituido el depósito u otorgada la fianza, el Ejecutivo Federal por conducto de la Secretaría de Comunicaciones y Transportes, estudiará cada solicitud que exista con relación a un mismo canal y calificando el interés social, resolverá a su libre juicio, si alguna de ellas debe seleccionarse para la continuación de su trámite, en cuyo caso dispondrá que se publique, a costa del interesado, una síntesis de la solicitud, con las modificaciones que acuerde, por dos veces y con intervalo de diez días, en el "Diario Oficial" y en otro periódico de los de mayor circulación en la zona donde debe operarse el canal, señalando un plazo de treinta días contados a partir de la última publicación, para que las personas o instituciones que pudieran resultar afectadas presenten objeciones.
 
 Si transcurrido el plazo de oposición no se presentan objeciones, previo cumplimiento de los requisitos técnicos, administrativos y legales que fije la Secretaría, se otorgará la concesión. Cuando se presenten objeciones, la Secretaría oirá en defensa a los interesados, les recibirá las pruebas que ofrezcan en un término de quince días y dictará la resolución que a su juicio proceda, en un plazo que no exceda de treinta días, oyendo a la Comisión Técnica Consultiva establecida por la Ley de Vías Generales de Comunicación.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 Otorgada la concesión, será publicada, a costa del interesado, en el "Diario Oficial" de la Federación y se fijará el monto de la garantía que asegure el cumplimiento de las obligaciones que imponga dicha concesión. Esta garantía no será inferior de diez mil pesos, ni excederá de quinientos mil.
 
@@ -777,11 +785,15 @@ XXIV.- Las demás infracciones que se originen del incumplimiento de esta Ley.
 
 Quienes dañen, perjudiquen o destruyan cualquier bien inmueble o mueble usado en la instalación u operación de una estación de radio o televisión, interrumpiendo sus servicios, serán castigados con tres días a cuatro años de prisión y multa de $1,000.00 a $50,000.00. Si el daño se causa empleando explosivos o materias incendiarias, la prisión será en ese caso de 5 a 10 años.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 103.
 
 Se impondrá multa de cinco mil a cincuenta mil pesos en los casos de las fracciones I, II, III, VIII, XIII, XXI, XXII y XXIII del artículo 101 de esta Ley.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -800,6 +812,8 @@ Cuando la Secretaría de Comunicaciones y Transportes tenga conocimiento de algu
 ###### ARTICULO 105.
 
 Para imponer las sanciones a que se refieren los artículos 103 y 104 de esta ley, la autoridad administrativa oirá previamente al o a los presuntos infractores. Cuando se encuentren irregularidades de carácter técnico durante las visitas de inspección a las radiodifusoras, se les concederá un plazo perentorio para corregirlas, sin perjuicio de formar el expediente de infracción que proceda, a que se refiere el párrafo antecedente y de que la autoridad administrativa dicte oportunamente la resolución que corresponda.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(ADICIONADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -878,3 +892,15 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Diario
 D.O.F. 13 DE ENERO DE 1986.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE NOVIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
