@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "1992-12-18"
+last_updated: "1993-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JULIO DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -1635,9 +1635,9 @@ Se pagará el derecho de trámite aduanero, por las operaciones aduaneras que se
 
 I.- Del 8 al millar, sobre el valor que tengan los bienes para los efectos del impuesto general de importación, en los casos distintos de los señalados en las siguientes fracciones.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 1993)</small>
 
-II.- Del 1.76 al millar sobre el valor que tengan los bienes, tratándose de la importación temporal de bienes de activo fijo que efectúen las maquiladoras.
+II.- Del 1.76 al millar sobre el valor que tengan los bienes, tratándose de la importación temporal de bienes de activo fijo que efectúen las maquiladoras o las empresas que tengan programas de exportación autorizados por las Secretarías de Comercio y Fomento Industrial y de Hacienda y Crédito Público.
 
 III.- Tratándose de importaciones temporales de bienes distintos de los señalados en la fracción anterior, siempre que sea para elaboración, transformación o reparación en programas de maquila o de exportación, así como en los retornos respectivos……….. $ 30.000.00
 
@@ -1649,11 +1649,17 @@ Cuando se trate de mercancías exentas conforme a las Leyes de los Impuestos Gen
 
 V.- En las operaciones de exportación............. $ 30,000.00
 
-VI.- Tratándose de las efectuadas por la Federación, Estados y Municipios, así como por los estados extranjeros........... $ 30,000.00
+> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 1993)</small>
+
+VI.- Tratándose de las efectuadas por los Estados extranjeros………… N$ 42.00
 
 > <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 VII.- Por aquellas operaciones en que se rectifique un pedimento y no se este en los supuestos de las fracciones anteriores $ 36,000.00.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 1993)</small>
+
+Cuando la cantidad que resulte de aplicar lo dispuesto en las fracciones I y II de este artículo sea inferior a la señalada en la fracción III, se aplicará esta última.
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -1671,17 +1677,19 @@ La recaudación de los derechos de trámite aduanero, incluyendo el adicional a 
 
 Tratándose de los derechos de trámite aduanero que se recauden en Colombia, Nuevo León, los mismos se destinarán al pago de la inversión que el Gobierno del Estado de Nuevo León hubiere hecho en la construcción de la garita y hasta por el monto de la misma.
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 26 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 50.
 
-Se pagará el derecho de trámite aduanero adicional por regulación de tráfico vehicular con una cuota de 8 al millar sobre el valor señalado en el artículo 49 de esta Ley, en las operaciones aduaneras consignadas en pedimentos que amparen mercancías que se transporten en vehículos bajo la responsabilidad de un agente o apoderado aduanal, cuando dichas mercancías se transporten en vehículos que transiten por la aduana en exceso al número de vehículos por hora que le corresponda a cada agente o apoderado aduanal en los términos del presente artículo.
+Se pagará el derecho de trámite aduanero adicional por regulación de tráfico vehicular en las operaciones aduaneras en las que se introduzcan mercancías a territorio nacional consignadas en pedimentos que las amparen, cuando dichas mercancías se transporten en vehículos que transiten por la aduana en exceso al número de vehículos por hora que le corresponda a cada agente o apoderado aduanal en los términos del presente artículo o en vehículos que transiten por la aduana fuera del horario ordinario de operación. Para los efectos de este artículo, se entenderá que el horario ordinario de operación comprende de lunes a viernes de 8:00 a 17:00 horas y sábados de 9:00 a 14:00 horas.
 
-El agente o apoderado aduanal determinará el número de vehículos por hora que le corresponde pasar por cada aduana sin el pago del derecho adicional a que se refiere este artículo, en los que se transportarán mercancías amparadas en pedimentos por él expedidos, distribuyendo en forma uniforme el número total de vehículos que pasará bajo su responsabilidad por la aduana de que se trate en ese día entre ocho horas. El promedio que determine será el número de vehículos por hora que le corresponderá transitar por la aduana. Cuando la distribución dé por resultado un número fraccionario, el agente o apoderado aduanal podrá distribuir los vehículos que den lugar a la fracción de vehículo distribuyendo uno por hora en cualquiera de las ocho horas mencionadas.
+El derecho a que se refiere este artículo será de un tanto igual al derecho de trámite aduanero que deba pagarse por la operación aduanera de que se trate, conforme a lo dispuesto por el artículo anterior.
 
-El derecho a que se refiere este artículo se enterará por el agente o apoderado aduanal, por cuenta del importador o exportador al día siguiente a aquél en que se hubieren efectuado las operaciones aduaneras sujetas al mismo.
+El agente o apoderado aduanal determinará el número de vehículos por hora que le corresponde pasar por cada aduana sin el pago del derecho de trámite aduanero adicional a que se refiere este artículo, en los que se transportarán mercancías amparadas en pedimentos por él expedidos, distribuyendo en forma uniforme el número total de vehículos que pasará por la aduana de que se trate en ese día, entre ocho horas. El promedio que determine será el número de vehículos por hora que le corresponderá transitar por la aduana durante el horario ordinario de operación. Cuando la distribución dé por resultado un número fraccionario, el agente o apoderado aduanal podrá distribuir los vehículos que den lugar a la fracción de vehículo distribuyendo uno por hora en cualquiera de las horas comprendidas en el horario ordinario de operación.
 
-La Secretaría de Hacienda y Crédito Público queda facultada para otorgar facilidades administrativas para la determinación y operación de los promedios de vehículos que les corresponda transitar por la aduana a los agentes o apoderados aduanales, cuando los agentes o apoderados aduanales de un determinado lugar lo soliciten, así como para establecer mediante reglas de carácter general las aduanas en las que no sea necesario la regulación del tráfico vehicular a que se refiere el derecho previsto en este artículo.
+El derecho a que se refiere este artículo lo enterará el agente o apoderado aduanal por cuenta del importador cuya mercancía haya sido transportada, los días martes de cada semana, por las operaciones realizadas durante la semana inmediata anterior.
+
+La Secretaría de Hacienda y Crédito Público queda facultada para otorgar facilidades administrativas para la determinación y operación de los promedios de vehículos que les corresponda transitar por la aduana a los agentes o apoderados aduanales, cuando dichos agentes o apoderados aduanales, el administrador portuario o el operador de una terminal portuaria de un determinado lugar lo soliciten, así como para establecer mediante reglas de carácter general las aduanas en las que no sea necesaria la regulación del tráfico vehicular a que se refiere el derecho previsto en este artículo, y los días, horas, circunstancias y mercancías que podrán desgravarse total o parcialmente del derecho de trámite aduanero adicional por regulación de tráfico vehicular.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -4647,7 +4655,7 @@ e).- Por modificación de cualesquiera de los anteriores permisos............ 3,
 
 IV.- De operación para aeronaves que se dedican a propaganda o publicidad, tales como: arrojar volantes, con equipo de sonido, letreros en lastre, globos cuativos, entre otros.
 
-a).- Con vigencia anual........... 12,000.00
+a) .- Con vigencia anual........... 12,000.00
 
 b).- Por un solo vuelo........... 2,000.00
 
@@ -7579,7 +7587,7 @@ Zona de disponibilidad 3 N$ 14.00
 
 Zona de disponibilidad 4 N$ 7.00
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 II.- Generación hidroeléctrica, por kilowatt hora:
 
@@ -7707,7 +7715,7 @@ IV.- El contribuyente no efectúe el pago del derecho en los términos del artí
 
 V.- Se opongan u obstaculicen la iniciación o desarrollo de las facultades de verificación y medición o no presenten la información o documentación que les solicite la Comisión Nacional del Agua.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 La determinación presuntiva a que se refiere este artículo procederá independientemente de las sanciones a que haya lugar.
 
@@ -10090,3 +10098,25 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del 1o. de enero de 199
 SEGUNDO.- Los cobros de derechos por el almacenaje de mercancías en los puertos marítimos del país a que se refiere el artículo 43 de la Ley Federal de Derechos, así como por el uso, goce o aprovechamiento de inmuebles en recintos portuarios que establecen los artículos 232, 232-A y 237 de la citada Ley, pasan al régimen de aprovechamientos, siempre y cuando los cobre el órgano desconcentrado en extinción Puertos Mexicanos de conformidad con lo dispuesto en el Decreto que abroga el diverso por el que se creó dicho órgano, publicado en el Diario Oficial de la Federación el 28 de septiembre de 1992; si los cobros de los citados preceptos los efectúan otras dependencias, seguirán conservando la naturaleza jurídica de derechos. Los mencionados aprovechamientos tendrán por el mes de enero los mismos montos que establezca esta Ley para el mes de diciembre de 1992, periodo en el cual el órgano en extinción Puertos Mexicanos efectuará su propuesta ante la Secretaría de Hacienda y Crédito Público, respecto de los montos que proceda cobrar como aprovechamientos a partir del mes de febrero de 1993.
 
 TERCERO.- Para efectos de lo dispuesto en el último párrafo del artículo 263 de esta Ley, se entenderá por área concesionada la que se tenía asignada al 1o. de noviembre de 1992.
+
+D.O.F. 26 DE JULIO DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, a excepción de lo siguiente:
+
+I.- Lo dispuesto en los incisos a), e) de la fracción I, y en el último párrafo del artículo 25 de la Ley Aduanera, entrará en vigor dos meses después de su publicación en el Diario Oficial de la Federación.
+
+II.- Lo dispuesto en el primer párrafo del artículo 25-A de la Ley Aduanera, entrará en vigor el 1o. de enero de 1994.
+
+III.- Lo dispuesto en el artículo 43 de la Ley Aduanera, entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
+
+IV.- Para efectos de lo dispuesto en el artículo 72, las empresas a que se refiere dicha disposición, que se inscriban por primera vez en el registro a que dicho artículo se refiere, podrán solicitar su inscripción en cualquier fecha.
+
+V.- Lo dispuesto en el artículo 93 de la Ley Aduanera, sólo se aplicará a las exportaciones que se realicen con posterioridad a la fecha en que las reformas a dicho artículo entren en vigor.
+
+VI.- Los fondos que se constituyeron conforme a los artículos 143, fracción IX y 144, inciso b) primero y segundo párrafos, se podrán recuperar en todos los casos, siempre que no exista reclamación de parte de la autoridad para hacer efectivas dichas garantías.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las demás disposiciones que se opongan al presente.
