@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-68-2001-del-pleno-del-consejo-de-la-62653"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-10-31"
-last_updated: "2001-10-31"
+last_updated: "2002-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62653&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-10-24"
 
 ACUERDO GENERAL 68/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, FECHA DE INICIO DE FUNCIONAMIENTO Y JURISDICCION TERRITORIAL DEL TERCER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL TERCER CIRCUITO, CON RESIDENCIA EN GUADALAJARA, JALISCO; ASI COMO A LAS REGLAS DE TURNO Y SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN MATERIA ADMINISTRATIVA DEL MENCIONADO CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ENERO DE 2002.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de octubre de 2001.
 
@@ -55,6 +55,8 @@ TERCERO.- Los dos Tribunales Colegiados en Materia Administrativa que están en 
 
 CUARTO.- Desde la fecha indicada en el punto segundo precedente la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Administrativa del Tercer Circuito, con residencia en Guadalajara, Jalisco, lo será también del nuevo órgano jurisdiccional.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/1/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 30 DE ENERO DE 2002, SE PRORROGA EL PLAZO DE EXCLUSION DE TURNO DE NUEVOS ASUNTOS AL SEGUNDO TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL TERCER CIRCUITO, POR UN MES, DEL 1 AL 28 DE FEBRERO DE 2002.</small>
+
 QUINTO.- Los nuevos asuntos que se presenten en la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Administrativa del Tercer Circuito, con sede en Guadalajara, Jalisco, del cinco de noviembre de dos mil uno al treinta y uno de diciembre de dos mil uno, serán del conocimiento del Tercer Tribunal Colegiado en Materia Administrativa del Circuito y residencia mencionados; y del uno al treinta y uno de enero de dos mil dos, serán del conocimiento de los Tribunales Colegiados Primero y Tercero en Materia Administrativa del Circuito y residencia mencionados; con excepción de aquellos asuntos que tengan relación con los que se encuentran en trámite en los Tribunales Colegiados Primero y Segundo del Circuito y residencia aludidos, en cuyo caso se turnarán a los respectivos órganos jurisdiccionales con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que procedan conforme a lo dispuesto en el Acuerdo General 50/2001 del Consejo de la Judicatura Federal. Concluido estos periodos, los nuevos asuntos que se reciban en la Oficina de referencia, se distribuirán entre los tres Tribunales Colegiados en Materia Administrativa del Tercer Circuito, con sede en Guadalajara, Jalisco, con las salvedades apuntadas, conforme al sistema computarizado que se utiliza para esos efectos.
 
 SEXTO.- Se modifica el Acuerdo General 23/2001 del Pleno del Consejo de la Judicatura Federal, de dieciséis de abril de dos mil uno, en el número 1, de su apartado III.- TERCER CIRCUITO, del punto SEGUNDO, para quedar como sigue:
@@ -74,3 +76,11 @@ PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 68/2001, del Pleno del Consejo de la Judicatura Federal, Relativo a la Denominación, Residencia, Competencia, Fecha de Inicio de Funcionamiento y Jurisdicción Territorial del Tercer Tribunal Colegiado en Materia Administrativa del Tercer Circuito, con Residencia en Guadalajara, Jalisco; así como a las Reglas de Turno y Sistema de Recepción y Distribución de Asuntos entre los Tribunales Colegiados en Materia Administrativa del Mencionado Circuito; fue aprobado por el propio Pleno, en sesión de veinticuatro de octubre de dos mil uno, por unanimidad de votos de los señores Consejeros: Presidente Ministro, Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a veinticuatro de octubre de dos mil uno.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE ENERO DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
