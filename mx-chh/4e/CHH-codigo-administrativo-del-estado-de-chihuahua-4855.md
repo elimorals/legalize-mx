@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1988-11-19"
+last_updated: "1988-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1988.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -539,7 +539,7 @@ Son días de descanso obligatorio:
 
 20 de noviembre,
 
-1o. de diciembre cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal.
+1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal.
 
 25 de diciembre,
 
@@ -3079,8 +3079,6 @@ IV.- Las demás que les confiera la ley.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
 ###### ARTICULO 465.
 
 Existirá en la Capital del Estado la Dirección General del Notariado y su Director será el Encargado del Registro Público de la Propiedad del Distrito Judicial de Morelos.
@@ -3135,1719 +3133,529 @@ En compensación por sus servicios percibirá el Director el sueldo que fije el 
 
 El Director será personalmente responsable de la custodia y conservación del archivo y tendrá la misma responsabilidad que los notarios en ejercicio.
 
-> <small>(REFORMADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 # LIBRO CUARTO. DE LOS PARTIDOS POLITICOS Y PROCESOS ELECTORALES
 
-> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ## TITULO PRIMERO. DE LOS ORGANISMOS ELECTORALES
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO II. DE LA COMISION ESTATAL ELECTORAL
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
 ###### ARTICULO 471.
 
-El presente Libro garantiza el ejercicio de los derechos políticos de los ciudadanos, la organización, funciones y prerrogativas de los partidos políticos nacionales y estatales y regula la preparación, desarrollo, vigilancia y calificación de los procesos electorales ordinarios y extraordinarios, que se celebren para elegir Gobernador, Diputados al Congreso del Estado y miembros de los Ayuntamientos.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 472.
 
-Las elecciones ordinarias de Gobernador se celebrarán cada seis años; la de Diputados y las de Ayuntamientos cada tres años, todas el primer domingo de julio del año en que corresponda.
-
-Las elecciones extraordinarias serán convocadas por el Congreso o por el Gobernador del Estado, según lo establecido en la Constitución y se celebrarán en las fechas que al efecto se señale en las convocatorias correspondientes.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 473.
 
-Los ciudadanos, los partidos políticos y el Gobierno son corresponsables de la preparación, desarrollo, vigilancia y calificación del proceso electoral, a través de los siguientes organismos:
-
-I.- Comisión Estatal Electoral;
-
-II.- Comités Distritales Electorales;
-
-III.- Comités Municipales Electorales;
-
-IV.- Mesas Directivas de Casilla;
-
-V.- Juntas Computadoras;
-
-VI.- Registro Estatal de Electores;
-
-VII.- El Colegio Electoral del Congreso del Estado.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 474.
 
-En cuanto a las elecciones municipales se estará a la división política que establece el Código Municipal.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 475.
 
-Para el efecto de la elección de Gobernador y Diputados, el Estado de Chihuahua se divide en catorce Distritos Electorales integrados de la siguiente manera:
-
-I.- Primer Distrito, con la Municipalidad de Chihuahua y cabecera en la Ciudad de Chihuahua;
-
-II.- Segundo Distrito, con las Municipalidades de Hidalgo del Parral, Matamoros y Valle de Zaragoza, con cabecera en la Ciudad de Hidalgo del Parral;
-
-III.- Tercer Distrito, con las Municipalidades de General Trías, Satevó, Gran Morelos, Dr. Belisario Domínguez, Cusihuiriáchic, Riva Palacio, Cuauhtémoc, Nonoava, San Francisco de Borja y Carichic, con cabecera en la Ciudad de Cuauhtémoc;
-
-IV.- Cuarto Distrito, con las Secciones Electorales comprendidas en la zona de Ciudad Juárez, que queda al Oeste del eje formado por la Avenida Cinco de Mayo, hasta su entronque con la línea de los Ferrocarriles Nacionales de México y la continuación de esta propia vía, con cabecera en aquella Ciudad;
-
-V.- Quinto Distrito, con las Municipalidades de Camargo, San Francisco de Conchos, La Cruz, Delicias, Saucillo, Rosales y Meoqui, con cabecera en Ciudad Camargo;
-
-VI.- Sexto Distrito, con las Municipalidades de Jiménez, López, Coronado y Allende, con cabecera en Ciudad Jiménez;
-
-VII.- Séptimo Distrito, con las Municipalidades de Guerrero, Matachic, Temósachic, Madera, Namiquipa, Gómez Farías y Bachíniva, con cabecera en Ciudad Guerrero;
-
-VIII.- Octavo Distrito, con las Municipalidades de Ojinaga, Coyame, Aldama, Julimes, Manuel Benavides y Aquiles Serdán, con cabecera en la Ciudad de Ojinaga;
-
-IX.- Noveno Distrito, con las Municipalidades de Casas Grandes, Nuevo Casas Grandes, Janos, Ascensión, Galeana, Buenaventura, Ahumada e Ignacio Zaragoza, con cabecera en la Ciudad de Nuevo Casas Grandes;
-
-X.- Décimo Distrito, con las Municipalidades de Batopilas, Guachochi, Urique y Morelos, con cabecera en la población de Guachochi;
-
-XI.- Décimo Primer Distrito, con las Municipalidades de Guadalupe y Calvo, Balleza y el Tule, con cabecera en la población de Guadalupe y Calvo;
-
-XII.- Décimo Segundo Distrito, con las Municipalidades de Bocoyna, Chínipas, Guazapares, Maguarichic, Moris, Ocampo y Uruachi, con cabecera en la población de Uruachi;
-
-XIII.- Décimo Tercer Distrito, con las Municipalidades de Santa Bárbara, San Francisco del Oro, Huejotitán y Rosario, con cabecera en la Ciudad de Santa Bárbara;
-
-XIV.- Décimo Cuarto Distrito con las Secciones Electorales comprendidas en la zona de Ciudad Juárez, que queda al Este del eje que forman la Avenida Cinco de Mayo hasta su entronque con la línea de los Ferrocarriles Nacionales de México, y la continuación de esta propia línea, más la Sección Municipal de Samalayuca y los Municipios de Guadalupe Distrito Bravos y Praxedis G. Guerrero, con cabecera en Ciudad Juárez.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 476.
 
-Los cuerpos de seguridad pública del Estado y de los Municipios deben prestar el auxilio que los organismos electorales requieran para asegurar el orden y garantizar el proceso electoral.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 477.
 
-Toda autoridad estatal y municipal está obligada a proporcionar sin demora, las informaciones que obren en su poder y las certificaciones de los hechos que le consten o de los documentos que existan en los archivos a su cargo, así como a practicar las diligencias correspondientes, cuando se lo demanden para fines electorales los organismos que este Código establece.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
-Igualmente harán del conocimiento de estos organismos, todo hecho que pueda motivar la incapacidad de los candidatos o alterar el resultado de la elección.
-
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO III. DE LOS COMITES ELECTORALES
 
 ###### ARTICULO 478.
 
-La Comisión Estatal Electoral es el organismo encargado de velar por el cumplimiento de las normas constitucionales, las contenidas en este Código y demás disposiciones que garanticen el derecho de organización política de los ciudadanos y responsable de la preparación, desarrollo y vigilancia del proceso electoral, y se integra con los siguientes comisionados:
-
-a).- Tres que designará y removerá libremente el Gobernador del Estado y que actuarán el primero como Presidente de la Comisión y los restantes como Primero y Segundo Vocal. La designación no podrá recaer en funcionarios públicos;
-
-b).- El Director de Gobernación;
-
-c).- Cuatro miembros del Poder Legislativo designados por el Congreso Local o la Diputación Permanente;
-
-d).- Uno por cada partido político sea nacional con registro definitivo, o local expedido que sea el certificado a que se refiere el artículo 506 de este Código;
-
-e).- Un notario en funciones, que será elegido por la mayoría de los otros miembros y que actuará con el carácter de Secretario del organismo.
-
-Por cada Comisionado Propietario habrá un Suplente.
-
-> <small>(DEROGADO PENULTIMO PARRAFO, P.O. 19 DE NOVIEMBRE DE 1988)</small>
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 19 DE NOVIEMBRE DE 1988)</small>
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 479.
 
-La Comisión Estatal Electoral tiene las siguientes atribuciones:
-
-I.- Dictar las normas y previsiones destinadas a hacer efectivas las disposiciones de este Libro;
-
-II.- Dictar los lineamientos a que se sujetará la depuración y actualización del padrón electoral;
-
-III.- Llevar a cabo la preparación, desarrollo y vigilancia del proceso electoral y cuidar del adecuado funcionamiento de los organismos electorales;
-
-IV.- Publicar en el Periódico Oficial la lista de los integrantes de la Comisión y de los Comités Distritales y Municipales Electorales;
-
-V.- Desahogar las dudas que se presenten sobre la aplicación e interpretación de este Libro y resolver los casos no previstos en el mismo;
-
-VI.- Registrar la candidatura a Gobernador del Estado;
-
-VII.- Investigar por los medios legales pertinentes, cualesquiera hechos relacionados con el proceso electoral y de manera especial los que denuncien los partidos políticos contra actos violatorios de la ley por parte de las autoridades o de otros partidos, en contra de su propaganda, candidatos o miembros;
-
-VIII.- Tener a sus órdenes, directamente o por medio de sus organismos y dependencias, la fuerza pública necesaria para garantizar el desarrollo del proceso electoral;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-IX.- Nombrar los funcionarios administrativos necesarios en cada Distrito y Municipio;
-
-X.- Desahogar las consultas que acerca de los asuntos de su competencia les formulen los ciudadanos, candidatos o partidos políticos;
-
-XI.- Resolver las peticiones que formulen los partidos políticos y los candidatos en relación a las inconformidades que se hagan valer por las decisiones tomadas por los Comités Distritales y Municipales Electorales;
-
-XII.- Proporcionar a los demás organismos electorales la documentación, las formas que apruebe para las actas del proceso electoral y los elementos necesarios;
-
-XIII.- Expedir el reglamento para su propio funcionamiento y para el de los Comités Distritales y Municipales;
-
-XIV.- Convocar a los partidos políticos para que de común acuerdo propongan al personal propietario y suplente que deba integrar los Comités Distritales y Municipales y en caso de que no se pongan de acuerdo, hacer las designaciones correspondientes;
-
-XV.- Informar al Congreso del Estado sobre los puntos que estime convenientes o que le fueren solicitados;
-
-XVI.- Recabar de los Comités Electorales Distritales y Municipales las informaciones y certificaciones que estime necesarias para el esclarecimiento de hechos relacionados con el proceso electoral.
-
-XVII.- Las demás que le confiere la ley.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-El Presidente de la Comisión Estatal Electoral nombrará los auxiliares necesarios en cada Distrito y Municipio y someterá a la consideración del Ejecutivo Local durante el mes de diciembre el proyecto del Presupuesto de egresos de la Comisión y sus dependencias y cuidará su ejercicio, vigilará además el cumplimiento de los acuerdos de la Comisión Estatal Electoral y tendrá las demás facultades que le confieren este Libro y demás disposiciones relativas.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 480.
 
-Para que la Comisión Estatal Electoral pueda sesionar, será necesario que estén presentes la mayoría de sus integrantes, entre los que deberán estar el Presidente, dos Comisionados del Poder Ejecutivo, tres del Legislativo, el Director de Gobernación y el notario. Las resoluciones se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá además voto de calidad.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
-Si los comisionados propietarios de los partidos políticos dejaren de asistir sin causa justificada, a juicio de la propia Comisión, se llamará a los suplentes y si éstos no concurriesen, se requerirá al partido que corresponda para que dentro del término de cinco días realice nuevas designaciones y si no lo hiciere se le tendrá por perdido el derecho.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
-Esta segunda designación será definitiva y el partido político no podrá remover a los designados a los que en caso de reiterada inasistencia se les tendrá por perdida la representación.
-
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO IV. DE LAS MESAS DIRECTIVAS DE CASILLA
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
 ###### ARTICULO 481.
 
-(DEROGADO, P.O. 14 DE DICIEMBRE DE 1985)
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 1985) (REPUBLICADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 482.
 
-Los Comités Distritales y Municipales Electorales funcionarán en cada una de las Cabeceras de Distrito o Municipio, se integrarán con nueve ciudadanos en pleno ejercicio de sus derechos políticos, sean residentes en el Distrito o Municipio, tengan un modo honesto de vivir, no desempeñen ningún cargo de elección popular y sean de reconocida probidad; y con un comisionado de cada partido político. Por cada miembro propietario de los Comités habrá un suplente.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 483.
 
-A más tardar el veinticinco de enero del año de la elección la Comisión Estatal Electoral convocará a los partidos políticos nacionales con registro definitivo o locales expedido que sea el certificado a que se refiere el artículo 506 de este Código, a través de sus representantes, a efecto de que en el plazo de los diez días siguientes, de común acuerdo propongan las personas que deban integrar los Comités Electorales Distritales y Municipales. Si no se pusieren de acuerdo, la Comisión Estatal Electoral hará la designación de dichas personas, debiendo quedar integrados los Comités Electorales, a más tardar el día quince de febrero.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 484.
 
-Para que los Comités Distritales y Municipales Electorales puedan sesionar, es necesaria la presencia de la mayoría de sus integrantes, entre los que deberán estar el Presidente, el Secretario y cinco vocales. Toda resolución se tomará por mayoría de votos y en caso de empate el Presidente tendrá voto de calidad.
-
-Los Presidentes de los Comités Distritales y Municipales Electorales estarán facultados para designar los auxiliares que se requieran.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 485.
 
-Los Comités Distritales y Municipales Electorales tendrán las atribuciones siguientes:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
-A).- Los Comités Distritales:
-
-I.- Vigilar la observancia de este Libro y demás disposiciones relativas.
-
-II.- Vigilar e intervenir en la preparación y desarrollo del proceso electoral del Distrito en que actúen;
-
-III.- Registrar a los Candidatos a Diputados;
-
-IV.- Desahogar las consultas que sobre asuntos de su competencia les formulen los ciudadanos, los Candidatos o los Partidos políticos;
-
-V.- Informar a la Comisión Estatal Electoral de todos los asuntos de su competencia y del resultado del proceso electoral;
-
-VI.- Acatar para su funcionamiento las normas que dicte la Comisión Estatal Electoral;
-
-VII.- Registrar los nombramientos de los representantes generales de los partidos políticos;
-
-VIII.- Constituirse en Juntas Computadoras, y
-
-IX.- Las demás que les confieren las leyes.
-
-B).- Los Comités Municipales:
-
-I.- Vigilar la observancia de este Libro y demás disposiciones relativas;
-
-II.- Vigilar e intervenir en la preparación y desarrollo del proceso electoral del Municipio en que actúen;
-
-III.- Registrar los Candidatos a miembros de Ayuntamientos;
-
-IV.- Desahogar las consultas que sobre los asuntos de su competencia les formulen los ciudadanos los Candidatos o los partidos políticos;
-
-V.- Informar a la Comisión Estatal Electoral de todos los asuntos de su competencia y del resultado del proceso electoral;
-
-VI.- Acatar para su funcionamiento las normas que dicte la Comisión Estatal Electoral;
-
-VII.- Hacer del conocimiento público la ubicación de las casillas y la lista de los funcionarios que las integren de acuerdo con este Código;
-
-VIII.- Designar a los ciudadanos que deban integrar las mesas directivas de las casillas, de conformidad con el artículo 486 de este Código;
-
-IX.- Entregar a los presidentes de las mesas directivas de casilla la documentación, formas aprobadas y útiles necesarios para el cumplimiento de sus funciones;
-
-X.- Recibir las peticiones que formulen los partidos políticos y los candidatos en relación a las inconformidades que se hagan valer en atención a las decisiones tomadas por las mesas directivas de las casillas;
-
-XI.- Registrar los nombramientos de los representantes de los partidos políticos ante las mesas directivas de las casillas;
-
-XII.- Constituirse en Juntas Computadoras, y
-
-XIII.- Las demás que les confieren las leyes.
-
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO V. DEL REGISTRO ESTATAL DE ELECTORES
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
 ###### ARTICULO 486.
 
-Los Comités Municipales Electorales convocarán a los representantes de los partidos políticos que participen legalmente en el proceso electoral dentro del Municipio a fin de que de común acuerdo, propongan las personas que deban integrar las mesas en las diferentes casillas electorales.
-
-Si no hubiere acuerdo, los Comités Municipales Electorales designarán al personal que deba integrar la mesa directiva. La designación deberá recaer en ciudadanos residentes en la circunscripción de la sección, en pleno ejercicio de sus derechos políticos, que sean de reconocida probidad y tengan un modo honesto de vivir.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 487.
 
-Las mesas directivas de casilla son los organismos que tienen a su cargo la recepción y escrutinio del sufragio de las secciones en que se divide el territorio de los Municipios.
-
-Se integrarán con un Presidente, un Secretario, dos Escrutadores y los suplentes respectivos.
-
-> <small>(DEROGADO TERCER PARRAFO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 488.
 
-Los funcionarios de las mesas directivas de casilla tienen las atribuciones siguientes:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
-A).- De la mesa directiva de casilla:
-
-I.- Instalar y clausurar la casilla en los términos de este Código;
-
-II.- Recibir la votación;
-
-III.- Efectuar el escrutinio de la votación;
-
-IV.- Permanecer en la casilla electoral, desde su instalación hasta su clausura;
-
-V.- Formular las actas de instalación, cierre de la votación y finales de escrutinio;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-VI.- Integrar en los paquetes respectivos la documentación correspondiente a cada elección, para hacerla llegar de inmediato a los Comités Municipales Electorales que correspondan, los que conservarán en su poder los paquetes relativos a la elección de Ayuntamiento y remitirán en un término de setenta y dos horas los paquetes de la elección de Diputados y Gobernador al Comité Distrital Electoral correspondiente.
-
-VII.- Las demás que le confieran este Código y disposiciones relativas.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
-B).- De los Presidentes:
-
-I.- Vigilar el cumplimiento de la ley sobre los aspectos relativos al funcionamiento de las casillas;
-
-II.- Recibir de los Comités Electorales la documentación, formas aprobadas, útiles y elementos necesarios para el funcionamiento de la casilla, debiendo conservarlos bajo su responsabilidad hasta su instalación. Recorrer y revisar cuarenta y ocho horas antes del día de la elección, los locales en que se instalarán las casillas, para constatar su funcionalidad, poniendo de inmediato en conocimiento del Comité Electoral respectivo, las irregularidades que encuentren en la visita;
-
-III.- Identificar a los electores;
-
-IV.- Comprobar que el nombre del elector figura en la lista nominal correspondiente;
-
-V.- Mantener el orden en la casilla, aún con el auxilio de la fuerza pública;
-
-VI.- Suspender la votación en caso de alteración del orden, notificándolo al Comité Electoral correspondiente. Restablecido el orden se reanudará la votación;
-
-VII.- Retirar de la casilla a cualquiera de los representantes que incurran en alteración del orden o realicen actos que lleven la intención manifiesta de entorpecer el proceso electoral. El Secretario lo comunicará de inmediato al Comité Electoral y levantará el acta correspondiente;
-
-VIII.- Concluidas las labores de la casilla, turnar oportunamente al Comité Electoral los paquetes electorales y las copias de la documentación respectiva en los términos de este Código;
-
-IX.- Las demás que les confieran esta Ley y disposiciones relativas.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
-C).- De los Secretarios:
-
-I.- Levantar las actas de instalación, cierre de votación, final de escrutinio y demás complementarias;
-
-II.- Recibir las protestas que procedan de acuerdo a la ley;
-
-III.- Tomar nota de los incidentes ocurridos en la votación, y
-
-IV.- Las demás que les confieran este Código y disposiciones relativas.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
-D).- De los Escrutadores:
-
-I.- Comprobar si la cantidad de boletas depositadas en cada urna corresponde al número de electores anotados en las listas nominal y adicional;
-
-II.- Verificar el número de votos emitidos en favor de cada candidato o fórmula;
-
-III.- Las demás que les confieran este Libro y las disposiciones relativas.
-
-E).- (DEROGADO, P.O. 14 DE DICIEMBRE DE 1985)
-
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO I. DE LOS PARTIDOS POLITICOS
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
 ###### ARTICULO 489.
 
-El Registro Estatal de Electores es un instituto con funciones técnicas para fines electorales, encargado de llevar a cabo y mantener actualizadas en forma permanente la inscripción de los ciudadanos, la formulación del padrón y listas electorales, así como su revisión y conservación.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 490.
 
-El Registro Estatal de Electores se integrará con un Director, un Secretario General y un Comité Técnico y de Vigilancia, nombrados y removidos libremente por el Gobernador del Estado.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 491.
 
-El Registro Estatal de Electores tendrá autonomía administrativa, se sujetará a las normas establecidas por la ley, y usará gratuitamente las vías telefónicas y radiotelefónicas del Estado en asuntos de su competencia.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 492.
 
-El Comité Técnico y de Vigilancia del Registro Estatal de Electores, se integrará con doce representantes de los órganos del Gobierno del Estado, relacionados con las funciones de estadística e informática.
-
-Los partidos políticos formará parte del Comité Técnico y de Vigilancia a través de un representante de cada uno de ellos.
-
-El Comité Técnico y de Vigilancia designará en cada uno de los Distritos o Municipios una comisión de vigilancia integrada por ocho miembros, que será presidida por el Delegado del Registro Estatal de Electores. Los partidos políticos podrán nombrar un representante por cada uno de ellos.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 493.
 
-El Registro Estatal de Electores estará estructurado:
-
-I.- Por una oficina central con residencia en la Capital del Estado;
-
-II.- Delegaciones en los Distritos Electorales;
-
-III.- Delegaciones en los Municipios.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 494.
 
-El Registro Estatal de Electores tiene las atribuciones siguientes:
-
-I.- Expedir la credencial permanente de elector;
-
-II.- Mantener al corriente y perfeccionar el registro de electores en todo el Estado a través del padrón único, para cuyo fin podrá demandar la colaboración de los ciudadanos, con fundamento en el artículo 5o. Constitucional y establecer las medidas que le permitan preservar su fidelidad;
-
-III.- Realizar la depuración y actualización del padrón único;
-
-IV.- Formular los padrones electorales, elaborar y entregar las listas nominales de elector a la Comisión Estatal Electoral para su distribución en cada Distrito y Municipio, por conducto de los Comités Distritales y Municipales;
-
-V.- Establecer los procedimientos técnicos adecuados para facilitar la inscripción y los cambios y anotaciones que deban hacerse;
-
-VI.- Proponer a los Comités Electorales, la división de su circunscripción para formar secciones electorales;
-
-VII.- Rendir los informes y extender las constancias que por conducto de la Comisión Estatal Electoral le soliciten ésta y los demás organismos electorales;
-
-VIII.- Proporcionar a los partidos políticos las listas nominales cuando las soliciten, en los términos que establezca la Comisión Estatal Electoral;
-
-IX.- Obtener una vez efectuada la votación, las constancias del número de votos emitidos por cada Distrito y Municipio, y formular las estadísticas que correspondan;
-
-X.- Las demás que le confiera este Código.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 495.
 
-El Comité Técnico y de Vigilancia deberá:
-
-I.- Asesorar a la Dirección del Registro Estatal de Electores en los aspectos que sean de su competencia, en los términos de su reglamento interior;
-
-II.- Desahogar las consultas que les formulen los organismos electorales, partidos políticos y ciudadanos;
-
-III.- Coadyuvar en la actualización del padrón único.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 496.
 
-El Ejecutivo del Estado podrá celebrar convenios con la Federación con el objeto de coordinarse en forma total o parcial, para que las funciones que este Código encomienda al Registro Estatal de Electores, las realice el Registro Nacional de Electores.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 497.
 
-Están obligados a inscribirse en el Registro Estatal de Electores todos los ciudadanos que se encuentren comprendidos dentro de lo establecido en el artículo 20 de la Constitución Política del Estado.
-
-Toda persona que cumpla dieciocho años de edad antes del día de la elección deberá solicitar su registro en el plazo previo que al efecto establezca la Comisión Estatal Electoral.
-
-Los ciudadanos deben solicitar su inscripción en el Registro Estatal de Electores, acudiendo a la Delegación correspondiente a su domicilio, siempre y cuando hayan residido seis meses o más en el Municipio correspondiente.
-
-Los ciudadanos residentes en el extranjero que se encuentren en ejercicio de sus derechos políticos, deberán solicitar su inscripción en la forma y modalidades que acuerde la Comisión Estatal Electoral.
-
-Los ciudadanos que sin estar fuera del territorio nacional, por imposibilidad física no puedan acudir a inscribirse en el Registro Estatal de Electores, deben solicitar por escrito su inscripción, acompañando las constancias que acrediten su ciudadanía y señalando las causas por las cuales se encuentran impedidos. Para la entrega de la credencial permanente de elector, en caso de continuar la situación, el Registro Estatal de Electores dictará las medidas pertinentes.
-
-Todos los ciudadanos inscritos en el Registro Estatal de Electores quedan obligados a comunicar su cambio de domicilio dentro de los treinta días siguientes a la fecha en que ocurra.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 498.
 
-Los ciudadanos inscritos en el Registro Estatal de Electores, tienen derecho a que se les entregue su credencial. Este documento de carácter permanente, acredita su calidad de elector y su derecho a votar.
-
-La credencial permanente de elector deberá contener los datos que hagan posible que el ciudadano pueda identificarse plenamente para ejercer los derechos políticos.
-
-El modelo de la credencial permanente de elector, será autorizado por la Comisión Estatal Electoral y llevará la firma impresa del Director del Registro Estatal de Electores, expidiéndose por cuadruplicado. El original se entregará al ciudadano cuya identidad acredita, las copias se invalidarán con la leyenda impresa "no da derecho a votar" y se destinarán: a la Dirección del Registro Estatal de Electores, a la Delegación de cada Distrito y a la Delegación Municipal respectiva.
-
-Los ciudadanos que extravíen su credencial o cuando ésta haya sufrido grave deterioro, deberán recabar un duplicado en la Delegación correspondiente a su domicilio. Cuando se hubiese vencido el término para el cual fue expedida la credencial, el elector tendrá derecho a que se le expida otra.
-
-Los ciudadanos a quienes les sea negado el registro en la delegación de su domicilio, se inconformarán ante la Delegación. Si ésta lo niega, recurrirán a la Oficina Central para que resuelva lo conducente.
-
-Toda credencial permanente de elector que sea objeto de alteración en los datos, será nula. El día de la elección los presidentes de las casillas las recogerán y acompañadas del acta que se levante por el secretario, las remitirán a la autoridad competente para que aplique al responsable las sanciones a que se haga acreedor.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 499.
 
-El Registro Estatal de Electores deberá depurar de manera permanente el padrón electoral, suspendiendo este procedimiento de la primera semana de junio del año de la elección al día de ésta. La Comisión Estatal Electoral, dictará las medidas extraordinarias que juzgue convenientes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
-Serán auxiliares del Registro Estatal de Electores en estas tareas los ciudadanos y los partidos políticos.
-
-La depuración tendrá por objeto excluir del padrón electoral la inscripción de los ciudadanos registrados cuando se encuentren comprendidos en los siguientes casos:
-
-I.- Hayan fallecido o sean declarados presuntamente fallecidos por resolución judicial;
-
-II.- Se encuentren suspendidos en el ejercicio de los derechos o prerrogativas ciudadanas;
-
-III.- Por pérdida de la nacionalidad;
-
-IV.- Haber perdido la ciudadanía; y
-
-V.- Los demás que señala la ley.
-
-También se depurará el padrón con las inscripciones que aparezcan duplicadas, dejándose sólo la efectuada en el último término.
-
-Los funcionarios del Registro Civil están obligados a comunicar al Registro Estatal de Electores en los formularios que les proporcione y con los datos que les solicite, los casos de fallecimiento cuyas actas autorice, relativas a personas mayores de dieciocho años, a fin de que se proceda a cancelar en el padrón dichas inscripciones.
-
-Los jueces comunicarán al Registro Estatal de Electores las resoluciones que dicten, en las que se declare la presunción de muerte del ausente, dentro de los diez días, a partir de la fecha en que la sentencia cause ejecutoria.
-
-Los jueces que dicten resoluciones que decreten la suspensión, pérdida o rehabilitación de los derechos ciudadanos o que afecten la capacidad civil, comunicarán estos hechos al Registro Estatal de Electores, en un plazo no mayor de diez días, a partir de la fecha en que quede firme la resolución o acuerdo de que se trate.
-
-Los funcionarios y empleados estatales y municipales auxiliarán al Registro Estatal de Electores y están obligados a prestarle su cooperación, cuando la solicite.
-
-Cualquier elector o partido político puede solicitar, previa aportación de los elementos probatorios correspondientes, que se cancele en el padrón único el registro de un elector, cuya inscripción deba ser depurada por alguna de las causas que este Código señala.
-
-Aquellos electores que sean excluidos del padrón electoral por cancelación de su inscripción en el Registro Estatal de Electores, podrán inconformarse ante el propio Registro para solicitar su inclusión.
-
-Cuando lo determine la Comisión Estatal Electoral, el Registro Estatal de Electores utilizará las técnicas censales electorales, por secciones, las que podrán ser parciales o totales, a fin de mantener actualizado el padrón único.
-
-Los procedimientos técnico censales electorales los llevarán a cabo el propio Registro y los organismos y funcionarios que la ley determine, quienes serán considerados como sus auxiliares.
-
-Para la realización de los procedimientos técnico censales, la Comisión Estatal Electoral solicitará a las autoridades estatales y municipales, por conducto del Registro Estatal de Electores, de conformidad con lo establecido en al artículo 5o. Constitucional, la colaboración de los ciudadanos, de los funcionarios y empleados que sean necesarios para la actualización del padrón único, que presten sus servicios en las dependencias que a continuación se indican:
-
-I.- Las del Registro Civil;
-
-II.- Las de escuelas estatales y municipales;
-
-III.- Otros funcionarios o empleados que a juicio de la Comisión Estatal Electoral, por las atribuciones que desempeñen, estén en aptitud de colaborar en la actualización del padrón.
-
-El Registro Estatal de Electores procederá al análisis de la información contenida en la aplicación de las técnicas censales electorales y hará las correcciones que procedan en el padrón único.
-
-La sección electoral es la demarcación territorial en que se dividen los Municipios para la recepción del sufragio, con base en la cual se elaboran las listas nominales de electores.
-
-Las listas nominales de electores de cada distrito deben clasificarse por municipios y secciones. Cuando sea necesario dividir un municipio en varios Distritos Electorales, las listas comprenderán a los electores de cada distrito.
-
-El Registro Estatal de Electores comunicará a la Comisión Estatal Electoral, a más tardar el veinte de enero del año de la elección ordinaria, el estado que guarda la división seccional, para que ésta a su vez lo haga del conocimiento de los demás organismos electorales.
-
-El Registro Estatal de Electores por conducto de la Comisión Estatal Electoral, entregará a las delegaciones distritales las listas nominales básicas y complementarias de electores de cada municipio, ordenadas alfabéticamente y clasificadas por secciones, para que aquéllas a su vez entreguen a más tardar el treinta y uno de enero las primeras, y las segundas, hasta que se cierre el registro en el año de la elección, a las delegaciones municipales correspondientes.
-
-Cada delegación municipal fijará la lista nominal de electores en la cabecera del municipio, en estrados fácilmente visibles; manteniendo exhibidas por un período de sesenta días naturales las básicas y quince días naturales las complementarias.
-
-Durante el lapso a que se refiere el artículo anterior los ciudadanos y partidos políticos, pueden acudir a las delegaciones municipales del Registro Estatal de Electores con las pruebas necesarias, solicitando la exclusión de personas en caso de incapacidad, inhabilitación o fallecimiento, o la inclusión cuando lo juzguen procedente. Estas remitirán las inconformidades a la delegación distrital respectiva, quien resolverá lo que corresponda. En caso de negativa, el interesado procederá en los términos de este Código.
-
-A más tardar el quince de mayo y treinta y uno de mayo respectivamente, del año de la elección ordinaria, las delegaciones municipales devolverán a la Comisión Estatal Electoral por conducto de los Comités Distritales, las listas electorales básicas y complementarias, con las correcciones procedentes.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-El Registro Estatal de Electores enviará las listas nominales definitivas de electores, las que comprenderán a los ciudadanos inscritos hasta el treinta de abril del año de la elección, a la Comisión Estatal Electoral para que las distribuya entre los Comités Municipales Electorales antes del quince de junio del año de la elección ordinaria y éstos procedan a su vez, de igual manera respecto de los Presidentes de Casillas.
-
-El día de la elección, cualquier elector, partido político o sus representantes, podrán presentar ante la mesa directiva de casilla, las protestas y observaciones a la inclusión o exclusión de electores.
-
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ## TITULO SEGUNDO. DE LOS PARTIDOS POLITICOS Y DEL DERECHO INDIVIDUAL DEL VOTO
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO II. DEL VOTO
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
 ###### ARTICULO 500.
 
-Los partidos políticos son asociaciones constituidas conforme a la ley por ciudadanos mexicanos, en pleno ejercicio de sus derechos políticos, quienes en el cumplimiento de sus funciones contribuyen a integrar la voluntad política del pueblo y mediante su actividad en los procesos electorales a coadyuvar en la constitución de la representación estatal y municipal.
-
-Para que una organización pueda ostentarse como partido político estatal, ejercer los derechos y gozar de las prerrogativas que le son propios, se requiere que se constituya y obtenga su registro en la Secretaría General de Gobierno, con arreglo a los requisitos y procedimientos que señala este Código. En el caso de los partidos políticos nacionales bastará que éstos hayan obtenido su registro definitivo como tales en la Comisión Federal Electoral.
-
-La acción de los partidos políticos tenderá a:
-
-I.- Propiciar la articulación social y la participación democrática de los ciudadanos;
-
-II.- Promover la formación ideológica de sus militantes;
-
-III.- Coordinar acciones políticas conforme a principios y programas; y
-
-IV.- Estimular discusiones sobre intereses comunes y deliberaciones sobre objetivos estatales y municipales a fin de establecer vínculos permanentes entre la opinión ciudadana y los poderes públicos.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 501.
 
-Toda organización que pretenda constituirse como partido político estatal, deberá formular una declaración de principios y en consonancia con ellos, su programa de acción y los estatutos que normen sus actividades.
-
-I.- La declaración de principios deberá contener:
-
-a).- La obligación de observar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, y de respetar las leyes e instituciones que de ellas emanen;
-
-b).- Las bases ideológicas de carácter político, económico y social que postulen;
-
-c).- La obligación de no aceptar pacto o acuerdo que los sujete o subordine a cualquier organización internacional o los haga depender de entidades o partidos políticos extranjeros;
-
-d).- La obligación de llevar a cabo sus actividades por medios políticos pacíficos y por la vía democrática.
-
-II.- El programa de acción determinará:
-
-a).- Las medidas que pretendan tomar para realizar sus principios, alcanzar sus objetivos, y las políticas propuestas para resolver los problemas nacionales, estatales y municipales;
-
-b).- Los medios que adopte con relación a sus fines de dirección ideológica, formación política y participación electoral de sus militantes.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 502.
 
-Los estatutos de los partidos políticos contendrán:
-
-I.- Una denominación propia y distinta a la de los otros partidos registrados, así como el emblema y color o colores que los caracterice y diferencie de otros partidos políticos, todo lo cual deberá estar exento de alusiones religiosas o raciales;
-
-II.- Los procedimientos de afiliación y los derechos y obligaciones de sus miembros;
-
-III.- Los procedimientos internos para la renovación de sus dirigentes y las formas que deberán revestir los actos para la postulación de sus candidatos;
-
-IV.- Las funciones, obligaciones y facultades de sus órganos;
-
-V.- Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 503.
 
-Los órganos de los partidos políticos serán por lo menos:
-
-I.- Una asamblea estatal;
-
-II.- Un comité ejecutivo que tendrá la representación del partido en todo el Estado;
-
-III.- Comités directivos en cada Distrito Electoral;
-
-IV.- Comités municipales constituidos por lo menos en la mitad de los Municipios del Estado.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 504.
 
-Para que una organización pueda constituirse como partido político estatal en los términos de este Código, es necesario que satisfaga los siguientes requisitos:
-
-I.- Que cuente con un mínimo de trescientos afiliados en cada uno cuando menos de las dos terceras partes de los Municipios en el Estado, siempre que el número total de sus miembros en la Entidad no sea menor de quince mil;
-
-II.- Haber celebrado en cada uno cuando menos de las dos terceras partes de los Municipios una asamblea en presencia de notario público o de quien haga sus veces por ministerio de ley, o funcionario acreditado por la Secretaría General de Gobierno para tal efecto, que certificará:
-
-a).- Que a la asamblea concurrieron por lo menos el número de afiliados a que se refiere la fracción I de este artículo; que aprobaron la declaración de principios, programas de acción, estatutos, y que suscribieron el documento de manifestación formal de afiliación;
-
-b).- Que con las personas mencionadas en el inciso anterior quedaron formadas las listas de afiliados con el nombre, los apellidos y el número de la credencial permanente de elector y el domicilio; y
-
-c).- Que igualmente se formaron listas de afiliados con los demás militantes con que cuenta la organización en el resto del Estado, con el objeto de satisfacer el requisito mínimo de quince mil miembros exigidos por este artículo. Estas listas contendrán los datos exigidos por el inciso anterior.
-
-III.- Haber celebrado una asamblea estatal constitutiva ante la presencia de cualquiera de los funcionarios a que se refiere la fracción II de este artículo, quien certificará:
-
-a).- Que asistieron los delegados propietarios o suplentes elegidos en las asambleas municipales;
-
-b).- Que acreditaron por medio de las actas correspondientes, que las asambleas se celebraron de conformidad con lo prescrito en la fracción II;
-
-c).- Que se comprobó la identidad y domicilio de los delegados a la asamblea estatal, por medio de la credencial permanente de elector u otro documento fehaciente; y
-
-d).- Que fueron aprobados su declaración de principios, programa de acción y estatutos.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 505.
 
-Para solicitar su registro como partido político estatal las organizaciones interesadas deberán haber satisfecho los requisitos a que se refiere este Código, presentando para tal efecto ante la Secretaría General de Gobierno las siguientes constancias:
-
-I.- Los documentos en los que conste la declaración de principios, el programa de acción y los estatutos;
-
-II.- Las listas nominales de afiliados por municipio, a que se refieren los incisos b) y c) de la fracción II del artículo 504;
-
-III.- Las actas de las asambleas celebradas en los municipios y la de la asamblea estatal constitutiva.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 506.
 
-Dentro del plazo de ciento veinte días naturales contados a partir de la fecha de presentación de la solicitud de registro, la Secretaría General de Gobierno, resolverá lo conducente.
-
-Cuando proceda, expedirá certificado haciendo constar el registro; en caso de negativa, fundará y motivará la resolución y la comunicará a los interesados, la que será definitiva y no admitirá recurso alguno. Toda resolución deberá publicarse en el Periódico Oficial del Estado.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 507.
 
-Al obtener el registro, la organización estatal adquirirá existencia como partido político, dotado de plena personalidad jurídica y gozará de todos los derechos.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 508.
 
-La Secretaría General de Gobierno informará a la Comisión Estatal Electoral cuales son los partidos legalmente registrados, así como sus características distintivas.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 509.
 
-El cambio de los documentos básicos de un partido, en su nombre y signos representativos deberá solicitarse por escrito a la Secretaría General de Gobierno, acompañándose los documentos correspondientes, la que en el plazo de ciento veinte días naturales acordará lo procedente. La resolución que recaiga no admitirá recurso alguno.
-
-Ningún partido podrá efectuar los cambios a que se refiere el párrafo anterior, hasta que no sea debidamente autorizado; la violación a este precepto se sancionará con la cancelación del registro respectivo.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 510.
 
-Los partidos políticos constituidos conforme a este Código tendrán los siguientes:
-
-I.- Derechos:
-
-a).- Postular candidatos en las elecciones estatales y municipales, cuando hayan obtenido su registro cuando menos con un año de anticipación al día de la elección;
-
-b).- Formar parte de los organismos electorales a que se refiere este Código;
-
-c).- Tener acceso en forma permanente y gratuita a los servicios radiotelefónicos propiedad del Gobierno del Estado;
-
-d).- Gozar de exención de impuestos y derechos;
-
-e).- Las demás que este Libro les otorga.
-
-II.- Obligaciones:
-
-a).- Mantener el mínimo requerido de afiliados en los Municipios para su constitución y registro;
-
-b).- Ostentarse con la denominación, emblema y color o colores que tengan registrados;
-
-c).- Cumplir sus normas de afiliación y obser-- (sic) los procedimientos que señalen en sus estatutos para la postulación de candidatos y mantener en funcionamiento efectivo a sus órganos de dirección;
-
-d).- Contar con domicilio social para sus órganos directivos;
-
-e).- Sostener un centro de formación política;
-
-f).- Todas las demás que establezca esta Ley.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 511.
 
-Para fines electorales los partidos políticos tienen el derecho de formar coaliciones a fin de postular candidatos en las elecciones estatales y municipales, debiendo suscribir un convenio que contendrá:
-
-a).- Elección que la motiva;
-
-b).- Nombre, apellidos, edad, lugar de nacimiento y domicilio de los candidatos;
-
-c).- Cargo para el que se les postula;
-
-d).- Emblema y color o colores propios de la coalición;
-
-e).- Forma en que convengan los integrantes de la coalición para ejercer en común los derechos de los partidos y de los candidatos, dentro de los señalamientos de este Código.
-
-El convenio de coalición deberá presentarse para su registro a la Comisión Estatal Electoral a más tardar la primera semana de marzo del año de la elección. En el caso de las elecciones extraordinarias, se estará al término que para el registro de candidatos señale la convocatoria.
-
-Los partidos políticos no podrán postular candidatos propios donde ya hubiere candidatos de coalición de la que ellos formen parte.
-
-Concluido el proceso electoral, automáticamente termina la coalición.
-
-Dos o más partidos políticos sin mediar coalición, pueden postular al mismo candidato, pero para ello es indispensable el consentimiento de éste, lo que se comunicará a la Comisión Estatal Electoral. Los votos se computarán en favor de cada uno de los partidos políticos que los hayan obtenido y se sumarán en favor del candidato.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 512.
 
-Los votos que obtengan los candidatos de una coalición serán para ésta, por considerársele para estos efectos como un solo partido, teniendo derecho a que le sean acreditados diputados de minoría y regidores proporcionales, de cumplir con lo establecido en los artículos 40 y 126 de la Constitución Política del Estado, y en los preceptos relativos de este Código.
-
-Para los efectos de reconocimiento de diputados de minoría y de regidores proporcionales, las coaliciones sólo podrán acumular los votos emitidos a favor de sus candidatos comunes.
-
-Los partidos políticos que para los fines mencionados convengan en coaligarse parcialmente, sosteniendo determinados candidatos, no tendrán derecho a acreditar diputados de minoría, con base en la votación que reciban sus candidatos no comunes.
-
-Cuando con el consentimiento de un candidato, su registro sea hecho por dos o más partidos políticos sin mediar coalición, los votos emitidos a su favor serán computables para el reconocimiento de diputados de minoría, a la organización política en cuyo favor se hayan emitido, salvo lo establecido en el artículo 551 fracción I, pues en este caso, el voto sólo contará para el candidato.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 513.
 
-Los partidos políticos registrados pueden solicitar ante la Secretaría General de Gobierno, que se investiguen las actividades de otros partidos cuando existan motivos fundados para considerar que incumplen alguna de sus obligaciones o que sus actividades no se apegan a este Libro.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 514.
 
-Los partidos políticos estatales perderán su registro por las siguientes causas:
-
-I.- Por haber dejado de reunir los requisitos necesarios para obtener el registro;
-
-II.- Por incumplir con las obligaciones que señala este Código;
-
-III.- Cuando haya sido declarado disuelto por acuerdo de la voluntad de sus miembros, conforme a lo que establezcan sus estatutos;
-
-IV.- Por haberse fusionado con otro partido político para lo cual deberá cumplir con los requisitos que exige este Código para la constitución de los mismos.
-
-Toda cancelación se acordará por la Secretaría General de Gobierno, previa citación del partido cuando las causas de aquélla sean las señaladas en las fracciones I y II de este artículo, a fin de que por conducto de sus representantes se le oiga en defensa y pueda aportar las pruebas que considere necesarias.
-
-Durante el desarrollo del proceso electoral, la cancelación del registro de las coaliciones se efectuará cuando cualquiera de los partidos políticos que la integren así lo solicite o cuando se violen las disposiciones de este Código por la propia coalición o sus integrantes.
-
-El acuerdo de cancelación se comunicará a los representantes del partido si procediere, y se publicará por una sola vez en el Periódico Oficial del Estado.
-
-Contra el acuerdo de cancelación no procede recurso alguno.
-
-La pérdida del registro definitivo de un partido político no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones, según el principio de mayoría relativa y en la designación de los diputados de minoría y regidores proporcionales.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 515.
 
-Los dirigentes y los representantes de los partidos políticos son responsables civil y penalmente por los actos que ejecuten en ejercicio de sus funciones.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 516.
 
-Los partidos políticos tendrán derecho a designar un solo representante ante los organismos electorales en que proceda, para formar parte de los mismos de acuerdo con este Código; los que tendrán asimismo y en su caso la representación de los candidatos.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 517.
 
-La propaganda electoral se sujetará a lo siguiente:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
-I.- Se prohibe el empleo de símbolos o signos, con motivos religiosos o raciales;
-
-II.- Se prohiben las expresiones verbales o escritas contrarias a la moral, a las buenas costumbres, inciten a la violencia o tiendan a obstruir el proceso electoral;
-
-III.- Se prohibe la fijación de propaganda en cualquier forma:
-
-a).- En el pavimento de las vías de comunicación locales o municipales y en sus aceras o cordones;
-
-b).- En los monumentos artísticos, edificios públicos y otros que tengan un valor histórico. En bienes de propiedad particular sólo podrá hacerse con la autorización de quien pueda otorgarla;
-
-IV.- Los partidos deberán cuidar que su propaganda no modifique el paisaje ni perjudique a los elementos que forman el entorno natural. En consecuencia se abstendrán de utilizar con estos fines, accidentes orográficos tales como cerros, colinas y montañas;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-V.- No se permitirá la celebración de mítines, reuniones públicas ni cualquier otro acto de propaganda pública en el día de la elección y los tres que le precedan. La infracción de esta disposición se sancionará por la Comisión Estatal Electoral con la cancelación del registro del o de los candidatos a cuyo favor se realicen estos actos.
-
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO I. DE LA PREPARACION
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
 ###### ARTICULO 518.
 
-Votar constituye una prerrogativa y una obligación del ciudadano. El voto es universal, libre, secreto y directo.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 519.
 
-En los términos del artículo 34 de la Constitución General de la República y 20 de la Constitución Política del Estado, ejercerán el voto activo los ciudadanos que hayan cumplido dieciocho años de edad, se encuentren en ejercicio de sus derechos políticos, estén inscritos en el padrón electoral y no se encuentren bajo impedimento legal.
-
-Ninguna autoridad puede la víspera o el día de la elección aprehender a un elector, sino hasta después de que haya votado, salvo los casos de flagrante delito o por orden especial del presidente de una casilla, tomándose las medidas necesarias para que el detenido sufrague.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 520.
 
-Son obligaciones de los ciudadanos:
-
-I.- Inscribirse en el padrón electoral;
-
-II.- Desempeñar en forma obligatoria y gratuita las funciones electorales para las que sean designados; sólo podrán admitirse excusas cuando se funden en causa justificada, que comprobará el interesado ante el organismo que haya hecho la designación;
-
-III.- Votar en la casilla que corresponda a su domicilio, salvo las excepciones que establece este Libro; y
-
-IV.- Desempeñar los cargos de elección popular para los que sean electos.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 521.
 
-Son impedimentos para ser elector:
-
-I.- Estar sujeto a proceso criminal por infracción antisocial que merezca medida corporal de defensa social, desde que se dicte auto de reclusión preventiva;
-
-II.- Estar extinguiendo medida defensiva de reclusión;
-
-III.- Estar sujeto a interdicción judicial o asilado en establecimientos para toxicómanos o enfermos mentales;
-
-IV.- Ser declarado vago o ebrio consuetudinario, en los términos de ley, en tanto no haya rehabilitación;
-
-V.- Estar prófugo de la justicia desde que se dicte la orden de aprehensión hasta la prescripción de la acción penal;
-
-VI.- Estar condenado por sentencia ejecutoria a la suspensión o pérdida de sus derechos políticos en tanto no haya rehabilitación; y
-
-VII.- Los demás que señala esta Ley.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 522.
 
-Son elegibles para los cargos de Gobernador y Diputados, los ciudadanos que teniendo la calidad de electores reúnan además los requisitos establecidos en la Constitución General de la República y la Particular del Estado.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 523.
 
-Son elegibles para el cargo de miembros de los Ayuntamientos los ciudadanos que teniendo la calidad de electores reúnan los requisitos establecidos en la Constitución Política del Estado y en el Código Municipal.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 524.
 
-Ningún ciudadano podrá aceptar o propagar su candidatura para desempeñar los cargos de Gobernador, Diputados o miembros de los Ayuntamientos si no es elegible.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ## TITULO TERCERO. DEL PROCESO ELECTORAL
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO II. DE LA JORNADA ELECTORAL
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
 ###### ARTICULO 525.
 
-El proceso electoral comprende el conjunto de decisiones, tareas y actividades que realicen los organismos electorales, los partidos políticos y los ciudadanos, con objeto de integrar los órganos de representación popular.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 19 DE NOVIEMBRE DE 1988)</small>
-
-Las fases básicas de dicho proceso son:
-
-I.- (DEROGADA, P.O. 19 DE NOVIEMBRE DE 1988)
-
-II.- Establecer a partir del mes de febrero el número de circunscripciones territoriales y sede de las secciones electorales;
-
-III.- Abrir en el mes de marzo los registros de candidatos;
-
-IV.- Realizar en los meses de marzo, abril, mayo y junio las demás actividades previas al día de la votación;
-
-V.- Recibir el sufragio el primer domingo de julio;
-
-VI.- Efectuar los cómputos el segundo domingo de julio;
-
-VII.- Registrar a partir del mes de agosto las constancias de mayoría así como calificar las elecciones ordinarias de Gobernador del Estado;
-
-VIII.- Calificar las elecciones de diputados de mayoría y asignar, en el mes de septiembre, los diputados de minoría y regidores proporcionales y expedir las constancias correspondientes.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 526.
 
-El registro de candidatos a Gobernador del Estado estará abierto del primero al quince de marzo inclusive, del año en que se celebre la elección ordinaria.
-
-El registro de candidatos a Diputados y miembros de los Ayuntamientos propietarios y suplentes, estará abierto del primero al quince de mayo inclusive, del año en que se celebre la elección ordinaria.
-
-Dentro de los plazos establecidos los partidos políticos podrán libremente sustituir a los candidatos que hubiere registrado. Concluidos aquéllos, sólo por acuerdo de la Comisión Estatal Electoral podrá hacerse sustitución de candidatos, por causa de fallecimiento, inhabilitación o incapacidad.
-
-Sin que se otorgue derecho a sustitución, los partidos podrán solicitar ante la Comisión Estatal Electoral fuera de los plazos establecidos, las cancelaciones de las inscripciones respectivas.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 527.
 
-Los partidos y coaliciones pueden pedir el registro de candidatos; en la solicitud se anotará:
-
-I.- Nombre y apellidos del candidato;
-
-II.- Edad, lugar de nacimiento y domicilio;
-
-III.- Cargo para el que se postula;
-
-IV.- Denominación, color o combinación de colores y emblema del partido o coalición que lo postula;
-
-V.- Ocupación, número de la credencial de elector y fecha de ésta.
-
-Los organismos electorales recibirán las solicitudes de registro, procediendo a inscribirlas en el caso de que las mismas y los candidatos postulados reúnan los requisitos establecidos en este Código.
-
-Las decisiones de los Comités Distritales y Municipales Electorales serán revisables ante la Comisión Estatal Electoral, a petición de los partidos políticos, dentro del plazo de setenta y dos horas contado a partir de la fecha de inscripción respectiva.
-
-La Comisión Estatal Electoral resolverá en igual plazo las impugnaciones presentadas y su decisión será irrecurrible.
-
-Las candidaturas de Gobernador se registrarán ante la Comisión Estatal Electoral.
-
-Las candidaturas a Diputados se registrarán por fórmulas integradas cada una por un propietario y un suplente ante el Comité Distrital Electoral respectivo.
-
-Las candidaturas para miembros del Ayuntamiento se registrarán por plantillas integradas cada una por un presidente municipal propietario y su respectivo suplente, así como el número de regidores que determine el Código Municipal propietarios y suplentes, ante el Comité Electoral Municipal que corresponda.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-La Comisión Estatal Electoral podrá exigir la comprobación de los requisitos constitucionales de elegibilidad de los candidatos y en su caso, cancelar dicho registro.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 528.
 
-Cada partido o coalición registrará un solo color o combinación de colores para todas las candidaturas que sostengan.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 529.
 
-Los Comités Distritales y Municipales Electorales comunicarán a la Comisión Estatal Electoral el registro de los candidatos que hubieren efectuado, dentro de las setenta y dos horas siguientes a la fecha en que se realizó el registro.
-
-Los organismos electorales publicarán y difundirán oportunamente en el Periódico Oficial del Gobierno del Estado y en los medios locales de comunicación social que estimen convenientes los nombres de los candidatos registrados, partidos, emblemas y colores respectivos.
-
-En la misma forma se publicarán y difundirán las cancelaciones de registros y sustituciones de candidatos.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 530.
 
-Los partidos políticos o coaliciones tienen derecho, desde que queden registrados sus candidatos a designar un solo representante ante las mesas directivas de casilla.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-Los nombramientos de los representantes se inscribirán ante los Comités Municipales Electorales a más tardar el cuarto domingo de junio del año de la elección ordinaria.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-Para ser representante deberán acreditarse los siguientes requisitos:
-
-I.- Ser residente, por lo menos seis meses anteriores a su designación, en la circunscripción de la sección electoral en la que hubiere sido designado;
-
-II.- Estar inscrito en el Padrón Electoral de la Sección electoral;
-
-III.- Tener credencial de elector;
-
-IV.- Estar en pleno ejercicio de sus derechos políticos;
-
-V.- Ser de reconocida probidad, y
-
-VI.- Tener un modo honesto de vivir.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-La solicitud para registrar los nombramientos de los representantes a que se refieren los párrafos anteriores deberá contener: Nombre y apellidos, ocupación, domicilio, copia de la credencial de elector y partido o coalición y candidatos representados.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-Los Comités Municipales Electorales podrán exigir la comprobación documentada de los requisitos para proceder a registrar el nombramiento de los representantes.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-La solicitud deberá estar firmada por el órgano del partido político o coalición, con facultades para efectuarla de acuerdo a sus estatutos y por los candidatos que participen en la elección y cuya representación ostente.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-Cuando un Comité Municipal Electoral niegue el registro de nombramiento de representantes ante las casillas, la Comisión Estatal Electoral, a solicitud de los partidos, podrá hacer el registro supletoriamente si se comprueba fehacientemente el cumplimiento de los requisitos exigidos en este artículo.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-El representante tiene las siguientes atribuciones:
-
-a).- Vigilar el cumplimiento de este Código;
-
-b).- Representar a los partidos, coaliciones y sus candidatos;
-
-c).- Presentar en forma respetuosa, pacífica y por escrito el recurso que legalmente proceda;
-
-d).- Auxiliar a la mesa de casilla en el ejercicio de sus atribuciones cuando se le solicite, y
-
-e).- Las demás que otras disposiciones le confieran.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-Los partidos políticos y coaliciones tienen derecho dentro del plazo señalado en este artículo a designar hasta tres representantes generales para un distrito electoral en el número que determine cada Comité Distrital.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-Los requisitos para ser designado representante general serán los mismos que los establecidos para los representantes, con excepción del domicilio, que deberá tenerlo dentro del distrito correspondiente. La función de los representantes generales será vigilar el cumplimiento de este Código, la efectividad del sufragio el día de la elección y de interponer recursos ante los organismos electorales.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-Los candidatos propietarios y suplentes no podrán figurar como representantes ante las mesas de las casillas ni como representantes generales.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 531.
 
-Las casillas de cada sección se numerarán progresivamente por Municipio o Distrito.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
-No podrán señalarse para la instalación de casillas las casas habitadas por funcionarios o empleados públicos, ni las fábricas.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 532.
 
-Los locales y lugares que se señalen para la ubicación de las casillas deberán reunir las condiciones que hagan posible, el fácil y libre acceso de los electores y la emisión secreta del sufragio.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-El tercer domingo de junio los Comités Municipales Electorales harán del conocimiento público las listas de las casillas electorales que hayan de instalarse en sus respectivas circunscripciones y los lugares para su instalación, así como de los ciudadanos designados como Presidente, Secretario o escrutadores propietarios y suplentes.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-Los partidos políticos, los candidatos y los ciudadanos en general podrán impugnar los nombramientos de los miembros de las mesas directivas de las casillas, cuando no reúnan los requisitos señalados en este Código, ante el Comité Electoral respectivo, dentro de los tres días siguientes a la publicación de las listas.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 533.
 
-Para la emisión del voto, se imprimirán las boletas electorales correspondientes conforme al modelo que apruebe la Comisión Estatal Electoral.
-
-Las boletas contendrán:
-
-a).- Los nombres y apellidos de los candidatos;
-
-b).- Entidad, Distrito Electoral y Municipio;
-
-c).- Cargo para el que se postula al candidato o candidatos;
-
-d).- Color o combinación de colores y emblema del partido político o coalición;
-
-e).- Un sólo círculo para cada fórmula de candidatos, propietarios y suplentes en su caso;
-
-f).- Las firmas impresas del Presidente y Secretario de la Comisión Estatal Electoral.
-
-En caso de cancelación o sustitución de uno o más candidatos, las boletas que ya estuvieran impresas serán corregidas en la parte relativa, o sustituidas por otras, conforme acuerde la Comisión Estatal Electoral.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 534.
 
-A más tardar ocho días antes de la elección deberán estar en poder de los Comités Municipales Electorales las boletas electorales para la votación, las que serán selladas al dorso. Los representantes de los partidos políticos tienen derecho a que se les expida constancia del número de boletas selladas.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 535.
 
-Los Comités Municipales Electorales entregarán a cada Presidente de casilla dentro de los cinco días anteriores al de la elección, lo siguiente:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1979)</small>
-
-I.- Lista nominal de electores de la sección;
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1979)</small>
-
-II.- Boletas para cada elección, en número igual al de los electores que figuren en la lista nominal de su sección más un 10%;
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1979)</small>
-
-III.- Las urnas para recibir la votación, una para Gobernador, otra para Diputados y una más para miembros de los Ayuntamientos, según la elección de que se trate;
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1979)</small>
-
-IV.- Documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
-En las secciones electorales que por razones de distancia o por el número de electores requieran del establecimiento de dos o más casillas, se estará a las disposiciones que dicte la Comisión Estatal Electoral.
-
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO III. DE LA VOTACION
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
 ###### ARTICULO 536.
 
-El primer domingo de julio del año de la elección ordinaria, a las 8:00 horas, los ciudadanos nombrados Presidente, Secretario y Escrutadores propietarios y suplentes de las casillas electorales, procederán a su instalación en presencia de los representantes de los partidos políticos, levantando el acta de instalación de la casilla, en la que deberá certificarse que se abrieron las urnas en presencia de los funcionarios, representantes y electores asistentes y que se comprobó que estaban vacías.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 537.
 
-De no instalarse la casilla conforme al artículo anterior se procederá a lo siguiente:
-
-I.- Si a las 8:15 horas no se presentare alguno o algunos de los propietarios, actuarán en su lugar los respectivos suplentes;
-
-II.- Si a las 8:30 horas no está integrada la mesa directiva conforme a la fracción anterior, pero estuviere el presidente o suplente, cualquiera de los dos, designará a los funcionarios necesarios para suplir a los ausentes y procederá a su instalación;
-
-III.- En ausencia del Presidente y de su suplente, la casilla deberá ser instalada por un auxiliar de la Comisión Estatal Electoral o de los Comités Distritales o Municipales Electorales, quien nombrará los funcionarios correspondientes;
-
-IV.- En ausencia del auxiliar, los representantes de los partidos políticos ante las casillas, designarán de común acuerdo, a los funcionarios necesarios para integrar la mesa directiva, en cuyo caso se requerirá:
-
-a).- La presencia del juez o notario público quienes tienen la obligación de acudir y dar fe de los hechos; y
-
-b).- En ausencia del juez o notario público bastará que los representantes expresen su conformidad para designar de común acuerdo, a los miembros de la mesa directiva.
-
-V.- De la instalación de la casilla se levantará acta de acuerdo al modelo aprobado por la Comisión Estatal Electoral, la que deberá ser firmada sin excepción, por todos los funcionarios y representantes.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 538.
 
-El día de la elección permanecerán cerrados todos los establecimientos que expendan bebidas embriagantes y estará prohibida la venta de las bebidas que contengan alcohol, bajo sanción de clausura definitiva que impondrá el Ayuntamiento respectivo.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 539.
 
-Los juzgados permanecerán abiertos durante el día de la elección. Igual obligación tienen las agencias del Ministerio Público y las oficinas que hagan sus veces.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 540.
 
-Los notarios públicos en ejercicio, los jueces y funcionarios autorizados para actuar por receptoría, mantendrán abiertas sus oficinas el día de la elección y deberán atender la solicitud de los funcionarios de casilla, de los representantes de los partidos políticos o de los ciudadanos para dar fe de hechos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO IV. DEL ESCRUTINIO Y LA COMPUTACION
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
 ###### ARTICULO 541.
 
-Los electores votarán en el orden en que se presenten ante la mesa directiva de la casilla, debiendo cumplir los siguientes requisitos:
-
-I.- Exhibir su credencial de elector;
-
-II.- Identificarse por cualquier medio apropiado como:
-
-a).- Credencial o documento diverso a satisfacción de la mesa directiva de la casilla;
-
-b).- Licencia para conducir vehículos de motor;
-
-c).- Cotejo de la firma que conste en su credencial permanente de elector con la que escriba en papel separado, en presencia de los funcionarios de la mesa y sin tener a la vista su credencial, o
-
-d).- Por el conocimiento personal que de él tengan los miembros de la mesa o cualquier otro medio idóneo.
-
-En ningún caso servirán para identificar al elector credenciales o documentos expedidos por organizaciones políticas;
-
-III.- El presidente de la mesa se cerciorará de que el nombre que aparece en la credencial de elector, figure en la lista nominal de electores;
-
-De esta regla se exceptuarán los ciudadanos que teniendo su credencial permanente de elector, estén comprendidos en los siguientes casos:
-
-a).- Que se encuentren transitoriamente en lugar distinto al de su sección electoral, por causas justificables, a satisfacción de los funcionarios de casilla. Para este caso se observará lo siguiente:
-
-1.- Si se encuentra fuera de su municipio, pero dentro de su distrito, podrá votar para diputados y para Gobernador;
-
-2.- Si se encuentra fuera de su municipio y distrito podrá votar sólo para Gobernador;
-
-b).- Que el elector sea militar en servicio activo, en cuyo caso votará en la casilla más próxima al lugar en donde desempeñe su servicio;
-
-c).- (DEROGADO, P.O. 14 DE DICIEMBRE DE 1985)
-
-d).- Que se trate de auxiliares designados por los organismos electorales.
-
-El secretario de la mesa hará la lista adicional con los votantes comprendidos en los incisos anteriores, anotando nombres y apellidos, domicilio, lugar de origen, ocupación y número de credencial permanente de elector. La lista adicional se integrará al paquete electoral.
-
-IV.- Cumplidos los requisitos para acreditar la calidad de elector, el presidente de la casilla le entregará las boletas según la elección de que se trate.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 542.
 
-La votación se efectuará en la forma siguiente:
-
-I.- El elector tiene derecho a marcar secretamente el círculo o algún lugar del cuadro que lo contiene, de cada una de las boletas de acuerdo con el color o combinación de colores y emblema del partido por el que sufraga.
-
-El elector podrá escribir en el lugar correspondiente el nombre de su candidato o fórmula de candidatos, si éstos no estuvieren registrados.
-
-Si el elector es ciego o se encuentra impedido para sufragar, podrá auxiliarse de otra persona.
-
-El elector que no sepa leer ni escribir, podrá manifestar a la mesa si desea votar por persona o fórmula distinta a las registradas, en cuyo caso podrá también auxiliarse de otra persona.
-
-El personal de las fuerzas armadas, tropa y policía, deben presentarse a votar individualmente, sin armas y sin vigilancia o mando superior alguno.
-
-II.- El elector, personalmente, o quien lo auxilie en caso de impedimento físico, introducirá la boleta electoral en la urna respectiva;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-III.- El secretario de la casilla anotará en la lista nominal electoral la palabra votó. El Presidente de la casilla devolverá al elector su credencial con la indicación de haber votado en la fecha de la elección.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 543.
 
-El ciudadano que no presentare su credencial de elector y su nombre se encuentre en la lista nominal electoral podrá sufragar, previa identificación a satisfacción del presidente de la casilla, anotándose esta circunstancia en el acta correspondiente.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 544.
 
-La votación podrá realizarse por medio de máquinas cuyo modelo sea aprobado previamente por la Comisión Estatal Electoral, siempre que se garantice la efectividad y secreto del sufragio.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 545.
 
-El presidente de la casilla tiene la responsabilidad de mantener el orden durante la elección con el auxilio de la fuerza pública si lo estimare conveniente, conforme a las disposiciones siguientes:
-
-I.- Sólo permanecerán en el lugar de la casilla, sus funcionarios, los representantes de los partidos políticos, notario público o juez en el ejercicio de sus funciones y el número de electores que pueden ser atendidos a fin de asegurar la libertad y el secreto del voto;
-
-II.- No se admitirán en la casilla:
-
-a).- A quienes se presenten armados;
-
-b).- A quienes andan en estado de ebriedad;
-
-c).- A quienes hagan propaganda; y
-
-d).- A quienes en cualquier forma pretendan coaccionar a los votantes.
-
-III.- Mandará retirar de la casilla a todo individuo que infrinja las disposiciones de este Código u obstaculice el desarrollo de la votación. A los que no acaten sus órdenes, los mandará detener por medio de la fuerza pública y los pondrá a disposición de la autoridad correspondiente; y
-
-IV.- Cuidará que se conserve el orden en la casilla y en el exterior inmediato a la misma y de que no se impida u obstaculice el acceso a los electores.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 546.
 
-El presidente de la mesa directiva de casilla suspenderá la votación en el caso de que alguna persona trate de intervenir por la fuerza, con el objeto de alterar el orden en la casilla. Cuando lo considere conveniente, dispondrá que se reanude la votación dejando constancia de los hechos en el acta de cierre de votación.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 547.
 
-El secretario de la casilla debe recibir los escritos y documentos que a los mismos se acompañen, exhibidos por los representantes de los partidos políticos. Los escritos deberán presentarse por triplicado: una copia será entregada al presidente de la mesa quien la acompañará con las copias de las actas del paquete electoral que por separado entregue al Comité Electoral correspondiente; otra copia se integrará al paquete electoral y una más le será entregada al interesado sellada o firmada por el secretario. Este hará constar los incidentes que se susciten en la casilla anotándolos en el acta de cierre de votación.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 548.
 
-A las seis de la tarde, o antes, se cerrará la votación si ya hubieren votado todos los electores inscritos en la lista nominal correspondiente. Si a la hora señalada aún se encontraren en la casilla electores sin votar, se continuará recibiendo la votación hasta que los electores presentes hayan sufragado.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 549.
 
-Concluida la votación, se levantará el acta de cierre de la misma de acuerdo con el modelo aprobado por la Comisión Estatal Electoral, la que será firmada por todos los funcionarios y representantes.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO I. DE LA NULIDAD DE LAS ELECCIONES
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
 ###### ARTICULO 550.
 
-Para el escrutinio y la computación, se observarán las siguientes reglas:
-
-I.- Se numerarán las boletas sobrantes inutilizándolas por medio de dos rayas diagonales con tinta;
-
-II.- Se abrirá la urna;
-
-III.- Se comprobará si el número de boletas depositadas corresponde al número de electores que sufragaron, para lo cual uno de los escrutadores sacará de la urna, una por una, las boletas, contándolas en voz alta, en tanto que el otro escrutador, al mismo tiempo irá sumando en la lista nominal de electores el número de ciudadanos que hayan votado, consignándose en el acta de escrutinio el resultado de estas operaciones;
-
-IV.- Se mostrará a todos los presentes que la urna quedó vacía;
-
-V.- Se tomará boleta por boleta y el primer escrutador leerá en voz alta los nombres en favor de los cuales se haya votado, lo que comprobará el otro escrutador;
-
-VI.- El secretario, al mismo tiempo, irá anotando los votos que el escrutador vaya leyendo;
-
-VII.- Se contará un voto por cada círculo marcado así como cuando el elector marque en algún lugar del cuadro que contiene el círculo o emblema del partido.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 551.
 
-Al hacer el escrutinio de los votos, se observará lo siguiente:
-
-I.- Cuando se marquen dos o más círculos contará el voto si los partidos cuyos círculos hayan sido marcados, postulan al mismo candidato o candidatos. En este caso el voto contará para los candidatos; y
-
-II.- Si vota por dos o más candidatos para un mismo cargo no se computarán los votos; salvo el caso establecido en la fracción I de este artículo.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 552.
 
-Si se encontrasen votos de una elección en una urna correspondiente a otra, se procederá a su escrutinio, consignándose el resultado en el acta complementaria correspondiente, que se anexará al paquete electoral respectivo.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 553.
 
-Concluido el escrutinio de cada una de las votaciones, se levantará el acta correspondiente conforme al modelo aprobado por la Comisión Estatal Electoral, la que firmarán funcionarios y representantes.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 554.
 
-Se formarán paquetes distintos para Gobernador, Diputados y miembros de los Ayuntamientos, integrándose cada uno de ellos con lo siguiente:
-
-I.- Un ejemplar de la lista electoral;
-
-II.- Un ejemplar del acta de instalación;
-
-III.- Un ejemplar del acta de cierre de votación;
-
-IV.- Un ejemplar del acta de escrutinio;
-
-V.- Las boletas que contengan los votos emitidos, los votos anulados y las sobrantes; y
-
-VI.- Los escritos y documentos anexos que se hayan presentado en relación con la elección.
-
-La lista nominal de electores se incluirá en el paquete de la elección de Gobernador, o en su caso, en la de Diputados.
-
-Los paquetes deberán estar cerrados y sobre su envoltura firmarán los miembros de la mesa directiva de la casilla y los representantes si lo desearen.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 555.
 
-En el procedimiento de escrutinio se seguirá el siguiente orden: elección de miembros de Ayuntamientos, de Diputados y en su caso, de Gobernador.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 556.
 
-Los representantes de los partidos tendrán derecho a que se les expidan copias de las actas levantadas en la casilla.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 557.
 
-Concluidas las labores se clausurará la casilla y el Presidente, bajo su responsabilidad, hará llegar los paquetes electorales sujetándose a lo dispuesto en el artículo 488 apartado A, fracción VI de este Código.
-
-Los presidentes de las casillas entregarán los paquetes electorales al Comité Municipal Electoral que corresponda en un plazo de veinticuatro horas si la casilla es urbana y de cuarenta y ocho horas, si es rural.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 558.
 
-El segundo domingo de julio del año de la elección los Comités Electorales se constituirán en Juntas Computadoras.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 559.
 
-Al erigirse el Comité Electoral en Junta Computadora serán presidente y secretario los del Comité Electoral respectivo y las personas que hubieren actuado como vocales del mismo, tendrán el carácter de escrutadores.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 560.
 
-Iniciada la sesión, la Junta procederá a hacer el cómputo general de la votación recogida en el Distrito o Municipio, practicando en su orden las operaciones siguientes:
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-I.- Se examinarán los paquetes electorales separando los que tengan muestras de alteración;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-II.- Se abrirán los que aparezcan sin muestra de alteración, siguiendo el orden numérico de las casillas y en el caso de los Comités Distritales además, el orden alfabético de sus Municipios, tomándose nota de los resultados que consten en las actas finales de escrutinio contenidas en el paquete y serán válidos sus resultados cuando dichas actas coincidan con las que obran en poder del Comité, haciéndose el cómputo con estos resultados y si no coincidieren, se hará constar en el acta que se levante sin computar los votos de estos expedientes, para que los mismos se califiquen en su caso por el Colegio Electoral;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-III.- En el caso de los paquetes separados por tener muestras de alteración, se compulsarán las actas de escrutinio siguiendo el orden numérico de las casillas y en el caso de los Comités Distritales además, el orden alfabético de sus Municipios y de existir discrepancias en los términos de la fracción anterior, no será computada la votación de la casilla en la que aparezcan, a efecto de que sean calificados por el Colegio Electoral;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-IV.- Levantará el acta de cómputo de acuerdo con el modelo aprobado por la Comisión Estatal Electoral, haciendo constar en ella las operaciones practicadas y el resultado de la elección, anexando los escritos de inconformidad que se hubieren presentado;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-V.- Extenderá la constancia de acuerdo con el modelo que apruebe la Comisión Estatal Electoral a los candidatos a diputados y miembros de los ayuntamientos propietarios y suplentes, que hayan obtenido mayor número de votos en la elección.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-El procedimiento señalado en las fracciones anteriores, se seguirá en las Juntas Computadoras Distritales en primer lugar, respecto de la elección de diputados y enseguida la de gobernador. Las Juntas Computadoras Municipales seguirán el procedimiento establecido en lo que corresponda a la elección de los ayuntamientos.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-Los organismos electorales que encontraren documentación que corresponda a otra jurisdicción, la enviarán de inmediato al órgano competente.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-Las Juntas Computadoras Distritales y las Municipales dentro de los ocho días siguientes enviarán al Congreso del Estado y a la Comisión Estatal Electoral un informe firmado por su Presidente y Secretario, para los efectos señalados en los artículos 40 y 126 de la Constitución Política del Estado, que deberá contener lo siguiente:
-
-1.- Los partidos políticos o coaliciones que participaron con los candidatos en la elección;
-
-2.- El nombre de los candidatos triunfantes y del partido o coalición que los ha postulado;
-
-3.- El número de votantes en la elección para Diputados y miembros de los ayuntamientos y el porcentaje obtenido por los candidatos y sus partidos o coaliciones;
-
-4.- El número de sufragios que obtuvo cada fórmula de candidatos, y
-
-5.- Una copia del acta de cómputo respectiva y de los recursos de inconformidad presentados.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 561.
 
-Los Comités Municipales Electorales formarán un paquete con el total de la documentación en relación a la elección de los miembros del ayuntamiento; los Comités Distritales Electorales formarán por separado un paquete con el total de la documentación en relación a la elección de Diputados y otro para la de Gobernador. Los Comités Electorales remitirán los paquetes, relativos a la elección de Gobernador, Diputados y los de los ayuntamientos siempre que estos fueran impugnados, debidamente sellados y cerrados dentro de los ocho días siguientes a la Oficialía Mayor del Congreso del Estado, expresando en la Cubierta los datos que permitan su identificación.
-
-Los paquetes que contengan la documentación de la elección de los ayuntamientos no impugnados se enviarán en la forma que establece el párrafo anterior a la Secretaría General de Gobierno, para el efecto de que ordene la publicación en el Periódico Oficial el Estado, de la planilla que haya obtenido mayoría de votos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 562.
 
-(DEROGADO, P.O. 14 DE DICIEMBRE DE 1985)
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 1985) (REPUBLICADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 563.
 
-La Junta realizará ininterrumpidamente sus labores y ningún miembro de ella, dejará de presentarse ni podrá separarse del lugar en que aquélla se encuentre instalada mientras no haya terminado sus trabajos.
-
-Si a pesar de esta prohibición se ausentaren de la Junta alguno o algunos de sus miembros o dejaren de presentarse, los trabajos se iniciarán y continuarán cualquiera que sea su número y su decisión será válida.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 564.
 
-Se exceptúa de lo dispuesto en el artículo anterior, cuando se ejerciere violencia sobre los miembros de la Junta, pues entonces ésta suspenderá sus trabajos hasta que obtenga plenas garantías, levantando acta de los hechos que motivaron la suspensión, haciéndolo del conocimiento de la autoridad competente.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
-El Presidente de la Junta tendrá el mando de la fuerza pública que se comisione para la custodia de la Computadora.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1985)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 565.
 
-Los representantes de los partidos políticos podrán interponer por escrito y por cuadruplicado el recurso de inconformidad contra los datos consignados en el acta final del cómputo distrital o municipal y la expedición de la constancia de mayoría respectiva. El recurso tiene por objeto hacer valer las causales de nulidad de la elección señaladas en esta Ley. Se interpondrá en el mismo acto ante la Junta Computadora o dentro de las setenta y dos horas siguientes a la terminación del cómputo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 566.
 
-(DEROGADO, P.O. 14 DE DICIEMBRE DE 1985)
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 1985) (REPUBLICADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 567.
 
-Los candidatos a Diputados que obtengan constancia de mayoría expedida por el Comité Distrital respectivo, tendrán la obligación de registrarla ante el Congreso del Estado a efecto de tener derecho a participar en el Colegio Electoral. La Dependencia que señale la Ley Orgánica del Poder Legislativo se abstendrá de hacer el registro y la remitirá al Colegio Electoral si de la referida constancia y en base a la documentación presentada se advierte alguna causa de nulidad.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 568.
 
-El Colegio Electoral del Congreso del Estado calificará las elecciones siguientes:
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
-I.- La elección de sus propios miembros Propietarios y Suplentes, electos por el principio de mayoría relativa;
-
-II.- Las de miembros de Ayuntamientos cuyo proceso o resultado haya sido reclamado de nulidad;
-
-III.- Las de Gobernador Constitucional del Estado en los términos del artículo 64 fracción XV inciso a) de la Constitución Política del Estado;
-
-IV.- La asignación de Diputados Propietarios y Suplentes de minoría en los términos del artículo 40 de la Constitución Política del Estado;
-
-V.- La asignación de Regidores de representación proporcional a que se refiere el artículo 126 de la Constitución Política del Estado.
-
-Las resoluciones que dicte en uso de las facultades anteriores serán definitivas.
-
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ## TITULO CUARTO. DE LO CONTENCIOSO ELECTORAL
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO II. DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
-
 ###### ARTICULO 569.
 
-El voto de un elector será nulo, cuando sea emitido contraviniendo las disposiciones de este Código.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 570.
 
-La votación recibida en una casilla electoral será nula:
-
-I.- Cuando se haya instalado en lugar distinto al señalado sin causa justificada o en condiciones diferentes a las establecidas por este Código;
-
-II.- Cuando se ejerza violencia física o exista cohecho, soborno o presión de alguna autoridad o particular sobre los funcionarios de la mesa directiva de la casilla o de los electores, de tal manera que se afecten la libertad o el secreto del voto y tengan relevancia en los resultados de la votación de la casilla;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-III.- Por haber mediado error grave o dolo manifiesto en el escrutinio o en la computación de votos que altere sustancialmente el resultado de la votación, y
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-IV.- Cuando el número de votantes anotados en la lista adicional en los términos del artículo 541 fracción III de este Código, exceda en un 10% al número de electores que tienen derecho a votar en la casilla.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 571.
 
-Una elección será nula:
-
-I.- Cuando los motivos de nulidad a que se refiere el artículo anterior se declaren existentes en un 20% de las secciones electorales del Municipio, Distrito o Estado, según corresponda y sean determinantes del resultado de la elección;
-
-II.- Cuando exista violencia generalizada en la circunscripción territorial donde se efectúe la elección;
-
-III.- Cuando se hayan cometido violaciones sustanciales en la preparación y desarrollo de la elección y se demuestre que las mismas son determinantes del resultado de la elección. Se entiende por violaciones sustanciales:
-
-a).- La realización de los escrutinios y cómputos en locales diferentes a los señalados conforme a este Código;
-
-b).- La recepción de la votación en fecha distinta a la de la elección;
-
-c).- La recepción de la votación por personas u organismos distintos a los facultados por este Código;
-
-IV.- Cuando en una forma generalizada, en la circunscripción territorial donde se efectúe la elección:
-
-a).- Se hubiere impedido el acceso a los representantes de los partidos políticos a las casillas;
-
-b).- No se hubieren instalado las casillas y consecuentemente la votación no hubiere sido recabada;
-
-La nulidad de una elección únicamente podrá ser declarada por el Colegio Electoral del Congreso del Estado.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 572.
 
-Cuando un candidato que ha participado en un proceso electoral no reúna los requisitos de elegibilidad, el Colegio Electoral declarará nulos los votos emitidos en su favor.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 573.
 
-La nulidad de la elección de un candidato no afectará la elección de los demás miembros de una planilla o fórmula.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 574.
 
-Los partidos políticos, los candidatos y los ciudadanos, tienen derecho a reclamar las nulidades que contiene este Título en la forma y términos que en este Código se señalan.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1979)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 575.
 
-Se impondrá reclusión hasta de un año o suspensión de derechos políticos por igual término o ambas a juicio del Juez, a quien:
-
-I.- Se niegue a desempeñar sin justa causa las funciones electorales que le sean encomendadas;
-
-II.- Se presente a una casilla electoral portando armas;
-
-III.- Vote por más de una vez, suplante u obligue a otro a votar por determinado candidato;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-IV.- Manifieste datos falsos al Registro Nacional o Estatal de Electores;
-
-V.- Ejecute actos de lucro con el voto, o presente boletas electorales falsas;
-
-VI.- Impida la instalación oportuna de la casilla electoral u obstaculice su funcionamiento o su clausura;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-VII.- Impida a un tercero su inscripción en el Registro Nacional o Estatal de Electores, la emisión de su voto o el desempeño de sus funciones electorales;
-
-VIII.- A quien reuniendo los requisitos para ello se abstenga de votar en las elecciones;
-
-IX.- Al que estando impedido por la Ley vote o intente votar;
-
-X.- Al que tres días antes de la elección o durante ésta realice mítines, reuniones públicas o cualquier otro acto de propaganda pública en favor de candidatos o partidos;
-
-XI.- Al que sin llenar los requisitos establecidos por este Código, use para una organización el nombre de partido o continúe usándolo para una organización cuyo registro haya sido cancelado temporal o definitivamente;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1985)</small>
-
-XII.- Ilícitamente obtenga la inscripción o cancelación de un tercero en el Registro Nacional o Estatal de Electores;;
-
-XIII.- Instale ilegalmente una casilla o usurpe funciones electorales.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 576.
 
-Se impondrán de mil pesos a diez mil pesos de multa y suspensión del cargo hasta por seis meses, a los Notarios Públicos en ejercicio, funcionarios que actúen por receptoría, Jueces de Primera Instancia, Menores y de Paz, Agentes del Ministerio Público o quienes hagan sus veces, que no mantengan abiertas sus oficinas el día de la elección, se encuentren presentes y no atiendan las solicitudes de los funcionarios electorales, de los representantes de los partidos políticos y coaliciones, o de los ciudadanos, para dar fe de hechos concernientes a la elección.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 577.
 
-Se impondrá multa hasta de cinco mil pesos o prisión hasta de dos años o ambas sanciones a juicio del Juez y destitución del cargo o empleo en su caso, o suspensión de derechos políticos hasta por tres años a los funcionarios electorales que:
-
-I.- No hagan constar oportunamente las violaciones de que hayan tenido conocimiento en el desarrollo del proceso electoral;
-
-II.- Siendo funcionarios del Registro Estatal de Electores no admitan la solicitud de inscripción de alguna persona cuando fuera procedente o se nieguen a ello;
-
-II.- Siendo funcionarios del Registro Estatal de Electores, alteren, oculten o sustraigan documentación relativa al padrón único, expidan credencial permanente de elector a quien no corresponda, no la expidan oportunamente o las entreguen en blanco a quienes no competa tenerlas en su poder;
-
-IV.- A los funcionarios electorales que incumplan con las atribuciones que establece este Código;
-
-V.- A las personas que ejerzan violencia sobre la Junta Computadora o sus miembros;
-
-VI.- Retengan o no entreguen al organismo electoral correspondiente el paquete electoral.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 578.
 
-Se impondrá multa hasta de cinco mil pesos o prisión hasta de tres años y destitución en su caso del cargo o empleo que desempeñe e inhabilitación para obtener algún cargo público hasta por tres años, al funcionario o empleado público que:
-
-I.- Abusando de sus funciones obligue o induzca a los electores a favor o en contra de algún candidato;
-
-II.- Prive de la libertad a los candidatos o a los representantes de los partidos políticos, pretextando delitos o faltas inexistentes; e
-
-III.- Impida la reunión de una asamblea o una manifestación pública o cualquier otro acto legal de propaganda electoral.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 579.
 
-Se hará del conocimiento de la autoridad competente, al extranjero que se inmiscuya en los asuntos políticos del Estado, independientemente de las sanciones a que se haga acreedor conforme a este Código.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 580.
 
-Se impondrá multa hasta de cinco mil pesos a los Ministros de Culto Religioso que por cualquier medio en los edificios destinados al culto público o en cualquier otro lugar, induzcan al electorado a favor o en contra de un candidato o a la abstención.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 581.
 
-Se suspenderá en sus derechos políticos hasta por tres años a los presuntos diputados que debiendo integrar el Colegio Electoral no se presenten sin justa causa a desempeñar las funciones que les correspondan en ese Cuerpo Colegiado en el plazo que señala la Constitución Política del Estado.
-
-Se impondrá la suspensión de derechos políticos hasta por seis años a quienes habiendo sido electos diputados en virtud del principio de mayoría relativa o minoría, no se presenten sin causa justificada a juicio de la Cámara a desempeñar el cargo dentro del plazo señalado en la Constitución Política del Estado.
-
-En igual sanción incurrirán los regidores electos por el principio de mayoría relativa o de representación proporcional, que sin causa justificada a juicio de la Cámara no se presenten a desempeñar el cargo.
-
-La Comisión Estatal Electoral podrá suspender hasta por dos elecciones a los partidos políticos cuando habiendo éstos postulado candidatos a diputado que resulten electos, acuerden que no formen parte del Colegio Electoral o no desempeñen su cargo.
-
-Igual sanción se impondrá a los partidos políticos que habiendo postulado candidatos a miembros de los Ayuntamientos, acuerden que no desempeñen el cargo.
-
-La Comisión Estatal Electoral podrá suspender hasta por dos elecciones o solicitar a la Secretaría General de Gobierno la cancelación del registro de un partido político estatal, cuando éste no acredite a sus comisionados ante los organismos electorales en los términos de este Código o bien previa notificación de la primera ausencia, quede sin representación durante dos sesiones consecutivas.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 582.
 
-Ninguna suspensión de derechos políticos, suspensión o cancelación de registro de que trata el artículo anterior, podrá acordarse sin que previamente se oiga en defensa al interesado, para lo cual deberá ser citado, a fin de que conteste los cargos y presente prueba.
-
-Toda suspensión o cancelación de registro se publicará en la misma forma que el registro.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 ###### ARTICULO 583.
 
-Cuando alguno de los actos señalados en el presente capítulo suponga la comisión de cualquiera de los delitos previstos en el Código de Defensa Social, independientemente de las sanciones previstas en éste, los organismos electorales deberán formular denuncia o querella ante la Procuraduría General de Justicia del Estado, a fin de que ejercite la acción persecutoria correspondiente.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, P.O. 31 DE DICIEMBRE DE 1988)
 
 # LIBRO QUINTO
 
@@ -11853,19 +10661,19 @@ Las demás sanciones administrativas deberán aplicarse por el Ejecutivo de acue
 
 Los trabajadores de base responderán también, conforme a las leyes aplicables, de las responsabilidades civiles y penales en que puedan incurrir, estando obligados a indemnizar los daños y perjuicios que causen tanto a los particulares como en las propiedades del Estado.
 
-(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
-
-# LIBRO UNICO. (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
-
-## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
-
 (REUBICADA, P.O. 28 DE AGOSTO DE 1982)
 
 DECIMA TERCERA PARTE
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO I. DISPOSICIONES GENERALES
+# LIBRO UNICO. (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
+
+(REUBICADO, P.O. 28 DE AGOSTO DE 1982)
+
+### CAPITULO II. DE LOS PROCEDIMIENTOS
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -11899,10 +10707,6 @@ El planteamiento de una cuestión de competencia podrá hacerlo cualquiera de la
 
 La cuestión de competencia se tramitará por la Secretaría General de Gobierno, dando un plazo de cinco días a las partes en conflicto para que expongan sus puntos de vista. Presentados éstos o transcurrido el término indicado, el Secretario General de Gobierno acordará con el Gobernador los términos de la resolución del conflicto dándola a conocer a las partes interesadas para su inmediato cumplimiento.
 
-(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
-
-DECIMA CUARTA PARTE
-
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 ###### ARTICULO 1636.
@@ -11921,11 +10725,11 @@ En los casos en que este Código no haya establecido recurso alguno para impugna
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO II. DE LOS PROCEDIMIENTOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
+### CAPITULO II. DEL DOMINIO PUBLICO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -11977,7 +10781,7 @@ La resolución del Gobernador deberá ir firmada también por el Secretario Gene
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
+### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -12003,6 +10807,10 @@ IV.- La resolución deberá contener las consideraciones legales que la funden o
 
 V.- Dicha resolución deberá notificarse por escrito al interesado, enviándose una copia de la misma a las dependencias competentes para que procedan inmediatamente a darle el debido cumplimiento.
 
+(REUBICADA, P.O. 28 DE AGOSTO DE 1982)
+
+DECIMA CUARTA PARTE
+
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
 # LIBRO UNICO. REGIMEN PATRIMONIAL DEL ESTADO
@@ -12013,7 +10821,7 @@ V.- Dicha resolución deberá notificarse por escrito al interesado, enviándose
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
+### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -12065,7 +10873,7 @@ Los bienes a que se refiere el artículo anterior pasarán a formar parte del do
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
-### CAPITULO II. DEL DOMINIO PUBLICO
+### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -12926,3 +11734,15 @@ P.O. 19 DE NOVIEMBRE DE 1988.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1988.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+ESTA LEY ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+SE DEROGA EL LIBRO CUARTO DE LA TERCERA PARTE, DE LOS PARTIDOS POLITICOS Y PROCESOS ELECTORALES, ARTICULOS 471 A 583, DEL CODIGO ADMINISTRATIVO DEL ESTADO.
