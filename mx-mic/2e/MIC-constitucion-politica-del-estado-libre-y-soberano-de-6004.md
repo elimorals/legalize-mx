@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1983-08-11"
+last_updated: "1983-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 1983.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -243,13 +243,13 @@ Por cada diputado propietario, se elegirá un suplente.
 
 Estará integrado por dieciocho diputados electos según el principio de votación mayoría relativa mediante el sistema de distritos electorales uninominales y hasta seis diputados más que serán electos según el principio de representación proporcional, mediante el sistema de listas de candidatos, votadas en una circunscripción plurinominal que comprenderá la totalidad de los distritos electorales del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
 ###### Artículo 21.
 
-Para la elección de los Diputados de mayoría relativa, el Estado se dividirá en dieciocho distritos electorales uninominales, cuya denominación y demarcación territorial señalará la Ley, teniendo en cuenta el último censo general de población.
+Para la elección de los Diputados de mayoría relativa, el Estado se dividirá en dieciocho distritos electorales, uninominales, cuya denominación y demarcación territorial señalará la Ley, teniendo en cuenta el último censo general de población.
 
-En relación con los seis Diputados, según el principio de representación proporcional y el sistema de listas de candidatos, se constituirá una circunscripción electoral plurinominal, integrada por la totalidad de los distritos electorales uninominales del Estado, sujetándose a las bases que establezca la Ley Electoral del Estado.
+En relación con los seis Diputados según el principio de representación proporcional y el sistema de listas de candidatos, se constituirá una circunscripción electoral plurinominal, integrada por la totalidad de los distritos electorales uninominales del Estado, sujetándose a las bases que establezca la Ley Electoral del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -529,25 +529,21 @@ XVII.- Conceder honores, premios y recompensas a las personas que presten servic
 
 XVIII.- Hacer el escrutinio de los votos emitidos en la elección de Gobernador, calificar dicha elección y declarar electo al que haya obtenido mayoría;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
-a) Cuando alguno de los integrantes del Ayuntamiento cometa un delito oficial o del orden común;
+XIX.- Separar de sus cargos a los miembros de los Ayuntamientos o declarar desaparecidos éstos, en su caso, a petición del Ejecutivo, cuando se llene cualquiera de los requisitos siguientes:
 
-b).- Cuando el cuerpo edilicio se encuentre desintegrado por licencia o desaparición de una mayoría de sus componentes;
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
-c).- Cuando se juzgue indispensable para la tranquilidad y beneficio del municipio;
+a).- Cuando alguno de los integrantes del Ayuntamiento cometa un delito oficial o del orden común.
 
-En el caso del inciso b) se requiere que la resolución del Congreso sea aprobada por una mayoría de las dos terceras partes de sus miembros presentes;
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 1983)</small>
+b).- Cuando el Cuerpo Edilicio se encuentre desintegrado por licencia o desaparición de una mayoría de sus componentes;
 
-XIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas siguientes:
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
 
-a) Cuando alguno de los miembros del Ayuntamiento cometa un delito;
-
-b) Cuando el Cuerpo Edilicio se encuentre desintegrado por licencia o desaparición de una mayoría de sus componentes;
-
-c) Cuando se juzgue indispensable para la tranquilidad y beneficio del municipio.
+c).- Cuando se juzgue indispensable ble (sic) para la tranquilidad y beneficio del municipio.
 
 Los miembros de los ayuntamientos tendrán siempre oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
@@ -881,7 +877,7 @@ El Gobernador podrá autorizar que comparezca ante el Congreso los titulares de 
 
 ###### Artículo 65.
 
-La promulgación y la orden de publicación de las leyes se harán constar mediante la firma del Gobernador del Estado y del Secretario de Gobierno. Todos los decretos, reglamentos, órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por el Gobernador del Estado, el Secretario de Gobierno y los titulares de las dependencias básicas a que el asunto corresponda; requisito sin el cual no será obligatorios.
+La promulgación y la orden de publicación de las leyes se harán constar mediante la firma del Gobernador del Estado y del Secretario de Gobierno. Todos los decretos, reglamentos, órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por el Gobernador del Estado, el Secretario de Gobierno y los titulares de las dependencias básicas a que el asunto corresponda; requisito sin el cual no serán obligatorios.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
 
@@ -1197,7 +1193,7 @@ El Ministerio Público es la institución encargada de velar por la exacta obser
 
 #### SECCION I. De la Tesorería General
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
 ###### Artículo 98.
 
@@ -1359,27 +1355,23 @@ Cada Municipio será representado y administrado por un Ayuntamiento de elecció
 
 El Ayuntamiento tendrá personalidad jurídica para todos los efectos legales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
 ###### Artículo 114.
 
-Los Ayuntamientos se integrarán por un Presidente, un Síndico y de tantos regidores como determine la Ley pero éstos no podrán ser menos de cinco.
+Los Ayuntamientos se integrarán por un Presidente, un Síndico y de tantos regidores como determine la Ley, pero éstos no podrán ser menos de cinco.
 
-Se introducirá el principio de representación proporcional en los Ayuntamientos del Estado conforme a los procedimientos que establezca la Ley Electoral.
+Se introducirá el principio de representación proporcional en los Ayuntamientos del Estado, conforme a los procedimientos que establezca la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
 ###### Artículo 115.
 
-El Presidente, el Síndico y los Regidores de los Ayuntamientos serán electos directamente por el pueblo; sus facultades, obligaciones y la manera de suplir sus faltas absolutas o temporales, serán determinados por la Ley.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JULIO DE 1983)</small>
+El Presidente, el Síndico y los Regidores de los Ayuntamientos, serán electos directamente por el pueblo; sus facultades, obligaciones y la manera de suplir sus faltas absolutas o temporales, serán determinados por la Ley.
 
 ###### Artículo 116.
 
-Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, serán electos simultáneamente y en su totalidad cada tres años y no podrán ser reelectos para el período inmediato. Por cada regidor propietario se elegirá un suplente.
-
-Las personas que por elección o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de los cargos de los Ayuntamientos, no podrán ser electos para el periodo inmediato. Todos funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos paro el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 1983)
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
 
@@ -1403,13 +1395,35 @@ IV. No ser ni haber sido ministro o delegado de algún culto religioso;
 
 V. No estar comprendido en ninguno de los casos que señala el artículo 116.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
 ###### Artículo 119.
 
-Todo Ayuntamiento tendrá un Secretario y un Tesorero, que serán nombrados por sus miemros (sic) por mayoría absoluta de votos a propuesta del Presidente Municipal.
+Para ser electo Presidente Municipal, Síndico o Regidor se requiere:
 
-Ningún regidor podrá desempeñar estos empleos y las personas designadas llenarán los mismos requisitos que los regidores, con excepción del de vecindad. El Tesorero deberá otorgar fianza para garantizar el manejo de fondos públicos.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+I.- Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos y no haber sido condenado por algún delito;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+II.- Ser originario del Estado o tener un año de residencia en el Municipio donde debe ejercer su encargo;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+III.- Saber leer y escribir;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+IV.- No ser funcionario de la Federación, del Estado o Municipal, ni tener mando de fuerza en el Municipio en que deba efectuarse la elección, durante los noventa días anteriores a la fecha en que aquélla se celebre; si se trata del Tesorero Municipal, es preciso que hayan sido aprobadas sus cuentas;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+
+V.- No ser, ni haber sido ministro o delegado de algún culto, y
+
+(REFORMADA, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
+
+VI.- No estar comprendido en ninguno de los casos que señala el artículo 117.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1491,29 +1505,63 @@ XV. Colaborar ampliamente con los organismos electorales, en los términos de la
 
 XVI. Las demás que les señalen las leyes.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 123.
 
-La administración pública, fuera de la cabecera municipal, estará a cargo de jefes de tenencia y encargados del orden; sus facultades y obligaciones serán determinadas por la ley. Por cada propietario habrá un suplente y serán nombrados en plebiscito.
+Son facultades y obligaciones de los Ayuntamientos:
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+I.- Representar jurídicamente al Municipio;
+
+II.- Administrar libremente su hacienda;
+
+III.- Someter sus presupuestos de Ingresos y Egresos a la aprobación del Congreso;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
+
+IV.- Expedir los Reglamentos de los servicios municipales.
+
+V.- Vigilar las escuelas públicas y las particulares;
+
+VI.- Enviar al Ejecutivo en el mes de diciembre de cada año, memoria general sobre las labores que hayan desarrollado;
+
+VII.- Conocer anualmente, en pleno, el estado que guarde la administración municipal, por informe que rendirá el Presidente;
+
+VIII.- Procurar que los pueblos de su jurisdicción tengan las tierras y aguas necesarias para su subsistencia, cuidando de la conservación de sus arbolados, ejidos, tierras comunales y patrimonios de familia;
+
+IX.- Cuidar de la repoblación y conservación de los bosques, sancionando severamente a los destructores de arbolados;
+
+> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
+
+X.- Cumplir o dictar disposiciones para difundir y propagar la agricultura e industrias rurales;
+
+XI.- Promover y fomentar el fraccionamiento de latifundios y procurar que se formen colonias urbanas;
+
+XII.- Nombrar y remover libremente a sus empleados, y concederles toda clase de licencias;
+
+XIII.- Formar sus cuerpos de policía;
+
+XIV.- Colaborar ampliamente con los organismos electorales, en los términos de la ley, y
+
+XV.- Las demás que les señalen las leyes.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
 ###### Artículo 124.
 
-El cargo de Presidente, Síndico o Regidores es obligatorio y sólo podrá renunciarse por causa grave que califique el Ayuntamiento.
+La administración pública, fuera de la cabecera municipal, estará a cargo de jefes de tenencia y encargados del orden; sus facultades y obligaciones serán determinadas por la Ley. Por cada propietario habrá un suplente y serán nombrados en plebiscito.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
 ###### Artículo 125.
 
-Los ayuntamientos distribuirán entre los regidores la atención de los servicios municipales, en comisiones unitarias permanentes, las que emitirán dictámenes en todo caso para que el pleno de aquellos dicte los acuerdos convenientes y oportunos. La ejecución de tales acuerdos estará a cargo de los presidentes municipales. Los regidores no tendrán mando directo sobre los empleados municipales.
+El cargo de Presidente, Síndico o Regidores es obligatorio y, sólo podrá renunciarse por causa grave que califique el Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
 ###### Artículo 126.
 
-Contra los actos de los presidentes municipales procede el recurso de queja ante los ayuntamientos respectivos.
+Los Ayuntamientos distribuirán entre los regidores la atención de los servicios municipales, en comisiones unitarias permanentes, las que emitirán dictámenes en todo caso para que el pleno de aquellos dicte los acuerdos convenientes y oportunos. La ejecución de tales acuerdos estará a cargo de los presidentes Municipales. Los Regidores no tendrán mando directo sobre los empleados municipales.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1561,7 +1609,7 @@ El Presupuesto formará siempre un sólo cuerpo distribuido en partidas, según 
 
 ###### Artículo 132.
 
-Habrá en el Estado una Tesorería General a la que ingresarán todos los caudales públicos. El Tesorero hará la distribución de ellos según el Presupuesto de Egresos. Cuando haya necesidad de exceder las cantidades señaladas en aquel, se solicitará la ampliación correspondiente al Congreso.
+Habrá en el Estado una Tesorería General a la que ingresarán todos los caudales públicos. El Tesorero hará la distribución de ellos, según el presupuesto de egresos.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1851,7 +1899,7 @@ VI.- Cualquiera adición o reforma que no fuere ratificada por el segundo Congre
 
 Si la proposición de adiciones o reformas no proviene del Gobernador del Estado, antes de discutirse y votarse se pasará al Ejecutivo para que dentro de un mes emita su opinión sobre ellas.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE SEPTIEMBRE DE 1983)</small>
 
 VII.- Cuando se trate de adecuar esta Constitución a las reformas y adiciones de la Constitución Federal, bastará con la aprobación de una sola Legislatura.
 
@@ -2058,3 +2106,7 @@ P.O. 11 DE AGOSTO DE 1983.
 PRIMERO. Este Decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Reserve la Secretaría del H. Congreso del Estado, el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Costitución Política del Estado de Michoacán.
+
+P.O. 28 DE SEPTIEMBRE DE 1983.
+
+UNICO. Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
