@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2003-11-07"
+last_updated: "2004-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2004.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -113,7 +113,9 @@ La ley aplicable es la vigente en el momento de la realización de la conducta p
 
 Cuando entre la comisión del delito y la sentencia que deba pronunciarse, entre en vigor una ley o un decreto que disminuya la sanción establecida en la norma vigente al cometerse el delito, se aplicará la nueva disposición legal.
 
-Si la nueva disposición entra en vigor durante la extinción de la pena o medida de seguridad, se estará a lo más favorable al reo. La autoridad ejecutora, de oficio, disminuirá proporcionalmente la sanción.
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
+Si la nueva disposición entra en vigor durante la extinción de la pena o medida de seguridad, se estará a lo más favorable al reo.
 
 Cuando la nueva norma deje de considerar una determinada conducta como delictuosa, se ordenará la libertad absoluta de los sujetos activos, cesando el procedimiento o los efectos de la sentencia pronunciada.
 
@@ -1561,7 +1563,9 @@ No servirá de excusa en los delitos contra el honor que el hecho imputado sea n
 
 A quien con ánimo de dominio, lucro o uso, se apodere de una cosa mueble, total o parcialmente ajena, sin consentimiento de quien legalmente pueda disponer de ella, se le sancionará de la siguiente manera:
 
-I. Si el apoderamiento fuere con ánimo de dominio o lucro, y el valor de lo robado no excediere de cien días de salario, con prisión de tres meses a seis años y multa hasta de ciento cincuenta días de salario.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE AGOSTO DE 2004)</small>
+
+I. Si el apoderamiento fuere con ánimo de dominio o lucro, y el valor de lo robado no excediere de cien días de salario, con prisión de tres meses a cinco años y multa hasta de ciento cincuenta días de salario.
 
 Cuando excediere de cien pero no de quinientos días de salario, la sanción será de cuatro a siete años de prisión y multa hasta de cuatrocientos días de salario.
 
@@ -2920,3 +2924,11 @@ Licenciado Miguel Alemán Velazco
 Gobernador del Estado.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 3 DE AGOSTO DE 2004.
+
+Primero.- El presente Decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
