@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2000-07-11"
+last_updated: "2000-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -377,7 +377,7 @@ IX. Autorizar la localización y características de los elementos que integran 
 
 X. Determinar, previo acuerdo con las autoridades competentes, las rutas de acceso y paso de vehículos del servicio público de transporte de pasajeros, suburbanos y foráneos, y de carga; así como los itinerarios para los vehículos de carga, y otorgar las autorizaciones correspondientes;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
 XI. Determinar la localización del equipamiento para el transporte público, tanto para la operación de las terminales de autobuses de pasajeros, como de las terminales de carga, a efecto de tramitar las respectivas concesiones y permisos;
 
@@ -1279,9 +1279,13 @@ Los titulares de concesiones y permisos de autos de alquiler, taxi o radio taxi 
 
 I. Prestar el servicio público de transporte, acatando las normas de calidad y operación correspondientes a su modalidad y clase, que se establecen en esta Ley y su reglamento;
 
-II. Proteger, orientar y respetar a los usuarios del servicio;
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
-III. Cobrar a los usuarios el precio que establezca la tarifa vigente, conforme a la modalidad y clase del servicio de que se trate;
+II. En el caso del transporte público, deberán destinar al menos dos asientos debidamente identificados para el uso preferente de personas con discapacidad, embarazo o de la tercera edad;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+III. Proteger, orientar y respetar a los usuarios del servicio;
 
 IV. Entregar al usuario en su caso contra el pago del precio, el boleto o comprobante correspondiente;
 
@@ -2658,3 +2662,7 @@ P.O. 7 DE MARZO DE 2000.
 P.O. 11 DE JULIO DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE SEPTIEMBRE DE 2000.
+
+UNICO: El presente decreto entrará en vigor treinta días después de su publicación en el periódico oficial "El Estado de Jalisco".
