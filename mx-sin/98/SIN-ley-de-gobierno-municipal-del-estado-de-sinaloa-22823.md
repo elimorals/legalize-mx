@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2001-11-26"
+last_updated: "2002-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -617,9 +617,17 @@ VIII. Trabajo y Previsión Social;
 
 IX. Acción Social y Cultural;
 
-X. Rastros, Mercados y Centrales de Abasto; y,
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2002)</small>
 
-XI. De Concertación Política.
+X. Rastros, Mercados y Centrales de Abasto;
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2002)</small>
+
+XI. De Concertación Política; y,
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2002)</small>
+
+XII. De Juventud y Deporte.
 
 Las Comisiones Permanentes tendrán la competencia que se derive de su denominación, en relación a las áreas respectivas de la administración pública municipal y en su caso, a la materia de su conocimiento.
 
@@ -1282,3 +1290,11 @@ Juan S. Millán Lizárraga
 El Secretario General de Gobierno
 
 Gonzalo M. Armienta Calderón
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE AGOSTO DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
