@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-49-2003-del-pleno-del-consejo-de-la-59932"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-08-21"
-last_updated: "2003-08-21"
+last_updated: "2003-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59932&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-13"
 
 ACUERDO GENERAL 49/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL LIBRO DE GOBIERNO QUE OBLIGATORIAMENTE DEBERAN LLEVAR LOS JUZGADOS DE DISTRITO ITINERANTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE SEPTIEMBRE DE 2003.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de agosto de 2003.
 
@@ -47,7 +47,11 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-PRIMERO.- Los Juzgados de Distrito Itinerantes deberán llevar oficialmente un libro de gobierno, a manera de mecanismo de control de los asuntos de sus respectivas competencias, como auxiliar en la supervisión de dichos órganos jurisdiccionales, por parte de los propios titulares y, a su vez, para los efectos de la rendición de estadística.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 58/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE SEPTIEMBRE DE 2003)</small>
+
+PRIMERO.- Los Juzgados de Distrito Itinerantes deberán llevar oficialmente un libro de gobierno, a manera de mecanismo de control de los asuntos de sus respectivas competencias, como auxiliar en la supervisión de dichos órganos jurisdiccionales y a su vez, para los efectos de la rendición de estadística.
+
+El libro de gobierno se llevará por duplicado. Uno de los tantos quedará en el juzgado al que presten auxilio, una vez que concluya el apoyo efectuado por el juzgado itinerante. El otro quedará en resguardo de este último.
 
 SEGUNDO.- El libro de gobierno señalado será para uso exclusivo de los Juzgados de Distrito Itinerantes, y su manejo deberá realizarse estrictamente por el personal de los mismos.
 
@@ -55,7 +59,9 @@ TERCERO.- En el manejo cotidiano de los libros, los titulares de los órganos ju
 
 I. La apertura del libro de gobierno que comprende este acuerdo general deberá hacerse constar en la primera foja útil antes de iniciar los registros. El cierre del libro se hará al concluirse la última de las fojas útiles;
 
-II. Al iniciar y concluir las labores de apoyo en cada uno de los órganos jurisdiccionales a que fueren asignados los Juzgados de Distrito Itinerantes, se hará la certificación correspondiente a dichas circunstancias, sin perjuicio de continuar con el mismo orden progresivo de registro de expedientes iniciado al asignarse como apoyo de un nuevo órgano jurisdiccional;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 58/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE SEPTIEMBRE DE 2003)</small>
+
+II. Al iniciar y concluir las labores de apoyo en cada uno de los órganos jurisdiccionales a que fueren asignados los Juzgados de Distrito Itinerantes, se hará la certificación correspondiente a dichas circunstancias. Lo anterior sin perjuicio de continuar, tratándose del libro en resguardo del juzgado itinerante, con el mismo orden progresivo de registro de expedientes iniciado al asignarse como apoyo de un nuevo órgano jurisdiccional;
 
 III. Al final de cada año calendario deberá asentarse la certificación de conclusión de éste, inmediatamente después del último registro del año concluido, para que a partir de dicha certificación se inicie la numeración de registros correspondiente al nuevo año.
 
@@ -84,3 +90,13 @@ LIBRO DE GOBIERNO PARA LOS JUZGADOS DE DISTRITO ITINERANTES
 (VEASE ARCHIVO ANEXO)
 
 EL MAESTRO EN DERECHO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 49/2003, del Pleno del Consejo de la Judicatura Federal, Relativo al Libro de Gobierno que Obligatoriamente Deberán Llevar los Juzgados de Distrito Itinerantes, fue aprobado por el Pleno del propio Consejo, en sesión de trece de agosto de dos mil tres, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Margarita Beatriz Luna Ramos, Jaime Manuel Marroquín Zaleta, Miguel A. Quirós Pérez y Sergio Armando Valls Hernández.- México, Distrito Federal, a trece de agosto de dos mil tres.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 12 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Los Juzgados de Distrito Itinerantes que actualmente apoyan a juzgados de Distrito que hayan sido inspeccionados, serán visitados conforme lo determine el Visitador General.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
