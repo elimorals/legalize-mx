@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidades-de-los-servidores-publicos-del-6838"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-01"
-last_updated: "1984-02-01"
+last_updated: "1984-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1984.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 1 de Febrero de 1984.
 
@@ -257,11 +257,11 @@ PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA.
 
 Cuando se presente denuncia o querella por particulares o a pedimento expreso del Procurador General de Justicia, en contra de algunos de los servidores públicos que se encuentren investidos de fuero constitucional a que se refiere el artículo 123 de la Constitución Política del Estado, por la comisión de hechos delictuosos, se actuará en lo pertinente de conformidad con el procedimiento establecido para el Juicio Político.
 
-En este caso, la Sección Instructora practicará todas las diligencias conducentes a establecer la existencia del delito y la probable responsabilidad del inculpado, así como la subsistencia del fuero constitucional cuya remoción se solicita. Concluida esta averiguación, la Sección dictaminará sobre si ha lugar a proceder penalmente en contra del inculpado.
+En este caso, la Sección Instructora practicará todas las diligencias conducentes a establecer la existencia del delito y la probable responsabilidad del inculpado, así como .la subsistencia del fuero constitucional cuya remoción se solicita. Concluida esta averiguación, la Sección dictaminará sobre si ha lugar a proceder penalmente en contra del inculpado.
 
 Si a juicio de la Sección, la imputación fuese notoriamente improcedente, lo hará saber de inmediato al Congreso para que éste resuelva si se continúa o deshecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
 
-Para los efectos del primer párrafo de este artículo, la comisión que integra la Sección Instructora, deberá rendir su dictamen en un plazo de sesenta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de la Sección. En este caso, se observarán las normas acerca de la ampliación de plazos para la recepción de pruebas en el procedimiento referente al juicio político.
+Para los efectos del primer párrafo de este artículo, la comisión que integra la Sección Instructora, deberá rendir su dictamen en un plazo de sesenta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de la Sección. En este caso, se observarán las normas acerca de la ampliación de plazos para la recepción de pruebas en el procedimiento referente al juicio Político.
 
 ###### ARTICULO 31.
 
@@ -609,6 +609,8 @@ Si el servidor público presunto responsable confesare su responsabilidad, se pr
 
 REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1984)</small>
+
 ###### ARTICULO 81.
 
 El procedimiento, recursos y ejecución de sanciones se aplicarán por los Ayuntamientos de la Entidad, cuando se tratare de servidores públicos de su Institución.
@@ -623,11 +625,13 @@ b) En los demás casos, en tres años.
 
 ###### ARTICULO 83.
 
-La Procuraduría General de Justicia del Estado, llevará el registro de la situación patrimonial de los servidores públicos, de conformidad con esta Ley y demás disposiciones aplicables.
+La Secretaría de la Contraloría General manejará el Registro, Control y Custodia de las declaraciones sobre la situación patrimonial de los Servidores Públicos, de conformidad con esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 1984)</small>
 
 ###### ARTICULO 84.
 
-Tienen la obligación de presentar declaración anual de situación patrimonial ante la Procuraduría General de Justicia, bajo protesta de decir verdad:
+La declaración de situación patrimonial se presentará anualmente, ante la Secretaría de la Contraloría General del Estado, y tienen obligación de hacerlo bajo Protesta de decir verdad:
 
 I.- Del Congreso del Estado: Los Diputados, Oficial Mayor y Contador Mayor de Hacienda.
 
@@ -653,9 +657,11 @@ III.- Durante el mes de Octubre de cada año, deberá presentarse la declaració
 
 Si dentro de los plazos referidos no se hubiere presentado la declaración correspondiente, sin causa justificada, la autoridad competente dictará las medidas del caso.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1984)</small>
+
 ###### ARTICULO 86.
 
-La Procuraduría General de Justicia expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+La Secretaría de la Contraloría General del Estado, expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial o de modificación en su caso, así como los manuales o instructivos que indicarán lo que es obligatorio declarar.
 
 ###### ARTICULO 87.
 
@@ -663,17 +669,21 @@ En la declaración inicial y final se manifestarán los bienes inmuebles, con la
 
 En las declaraciones anuales se manifestarán las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
 
-Tratándose de bienes muebles, la Procuraduría decidirá mediante acuerdo general, las características que deba traer la declaración.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1984)</small>
+
+Tratándose de bienes muebles, la Secretaría de la Contraloría General del Estado, decidirá mediante acuerdo general, las características que deba contener la declaración.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1984)</small>
 
 ###### ARTICULO 88.
 
-La Secretaría de la Contraloría General en función de lo dispuesto por la fracción XII del artículo 26 de la Ley Orgánica del Poder Ejecutivo, tendrá una coordinación estrecha con la Procuraduría General de Justicia.
+La Secretaría de la Contraloría General en función de lo dispuesto por la fracción XIII del Artículo 26-A de la Ley Orgánica del Poder Ejecutivo, tendrá una coordinación estrecha con la Procuraduría General de Justicia.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1984)</small>
 
 ###### ARTICULO 89.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera obtener un servidor público, la Procuraduría General de Justicia, podrá ordenar, fundando y motivando su acuerdo, la práctica de visitas de inspección y de auditorías, pudiéndose auxiliar para ello, de la Secretaría General de la Contraloría.
-
-Cuando el caso lo requiera, la Procuraduría solicitará la autorización judicial correspondiente.
+Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera obtener un servidor público, la Secretaría de la Contraloría General del Estado, podrá ordenar fundando y motivando su acuerdo, visitas de revisión e inspección y de auditorías, auxiliándose de las autoridades competentes y en su caso pedir la intervención judicial correspondiente.
 
 ###### ARTICULO 90.
 
@@ -700,6 +710,36 @@ La conducta de los servidores públicos que viole esta disposición, será sanci
 Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán de informar de ello a la autoridad que la Procuraduría determine a fin de ponerlos a su disposición. La autoridad correspondiente, llevará un registro de dichos bienes.
 
 TRANSITORIOS :
+
+Artículo Primero.- Se abroga el Decreto número 1367 publicado en el Periódico Oficial, Organo del Gobierno del Estado, en el Tomo XXXVIII, número 21 de fecha 11 de Septiembre de 1935.
+
+Artículo Segundo.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+D A D O en la Sala de Sesiones "Benito Juárez" del H. Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los treinta y un días del mes de Enero de mil novecientos ochenta y cuatro.
+
+Dip. Presidente,
+
+Lic. Javier R. Carrillo Casas.
+
+Dip. Primer Secretario,
+
+J. Elías Rodríguez Bañuelos
+
+Dip. Segundo Secretario,
+
+Victoria del Hoyo Rentería
+
+Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic, su Capital, a los treinta y un días del mes de enero de mil novecientos ochenta y cuatro.
+
+El Secretario Gral. de Gobierno.
+
+JOSÉ FÉLIX TORRES HARO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 1984.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno (sic) Estado.
 
 ###### ARTÍCULO PRIMERO.
 
