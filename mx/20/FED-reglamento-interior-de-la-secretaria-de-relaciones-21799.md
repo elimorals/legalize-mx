@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-relaciones-21799"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-10"
-last_updated: "2002-07-31"
+last_updated: "2002-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21799&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-08-08"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE RELACIONES EXTERIORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE NOVIEMBRE DE 2002.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 10 de agosto de 2001.
 
@@ -69,7 +69,9 @@ Subsecretaría de Relaciones Exteriores
 
 Subsecretaría para América Latina y el Caribe
 
-Subsecretaría para África, Asia Pacífico, Europa y Naciones Unidas
+> <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2002)</small>
+
+Subsecretaría para América del Norte
 
 Subsecretaría de Relaciones Económicas y Cooperación Internacional
 
@@ -1533,7 +1535,9 @@ Al frente del Órgano Interno de Control habrá un Titular designado en los tér
 
 Con sujeción a su presupuesto autorizado, los órganos desconcentrados contarán en su caso con un Órgano Interno de Control, en los términos del párrafo anterior. En el supuesto de que algún órgano desconcentrado no cuente con dicho Órgano, las facultades a que se refiere este artículo se ejercerán por el Órgano Interno de Control de la Dependencia.
 
-Los servidores públicos a que se refieren los párrafos anteriores, ejercerán, de conformidad con sus respectivas competencias en el ámbito de la Secretaría y de las representaciones de México en el exterior, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, en la Ley de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+
+Los servidores públicos a que se refieren los párrafos anteriores, ejercerán, de conformidad con sus respectivas competencias en el ámbito de la Secretaría y de las representaciones de México en el exterior, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
 En el caso específico de los miembros del Servicio Exterior Mexicano, el Titular del Órgano Interno de Control y el titular del área de responsabilidades únicamente actuarán en los términos que la propia Ley del Servicio Exterior Mexicano y su Reglamento determinen.
 
@@ -1541,11 +1545,11 @@ La Secretaría proporcionará al Titular del Órgano Interno de Control los recu
 
 ### CAPÍTULO IX. De la Suplencia de los Servidores Públicos de la Secretaría
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 46.
 
-El Secretario será suplido en sus ausencias temporales por el Subsecretario de Relaciones Exteriores. En caso de ausencia temporal del Secretario y del Subsecretario de Relaciones Exteriores, fungirán como encargados del despacho los Subsecretarios para América Latina y el Caribe; para África, Asia Pacífico, Europa y Naciones Unidas; de Relaciones Económicas y Cooperación Internacional; para Derechos Humanos y Democracia; para Temas Globales, o bien el Oficial Mayor, en el orden enunciado. En caso de ausencia temporal de todos los servidores públicos mencionados, el Secretario, previa autorización del Presidente de la República, designará al servidor público encargado del despacho.
+El Secretario será suplido en sus ausencias temporales por el Subsecretario de Relaciones Exteriores. En caso de ausencia temporal del Secretario y del Subsecretario de Relaciones Exteriores, fungirán como encargados del despacho los Subsecretarios para América Latina y el Caribe; para América del Norte; de Relaciones Económicas y Cooperación Internacional; para Derechos Humanos y Democracia; para Temas Globales, o bien el Oficial Mayor, en el orden enunciado. En caso de ausencia temporal de todos los servidores públicos mencionados, el Secretario, previa autorización del Presidente de la República, designará al servidor público encargado del despacho.
 
 En los juicios de amparo en que deba intervenir en representación del Presidente de la República o como Titular de la Secretaría, será suplido indistintamente por los servidores públicos antes señalados en el orden indicado o por el Director General de Asuntos Jurídicos. Así mismo, para efectos del artículo 34, fracciones XI y XII del presente Reglamento, podrá ser suplido por el Director General de Asuntos Jurídicos.
 
@@ -1648,3 +1652,9 @@ Cuando la competencia de alguna unidad administrativa establecida con anteriorid
 ###### ARTÍCULO CUARTO.
 
 Continuarán en vigor los acuerdos secretariales de delegación de facultades y demás que hayan sido expedidos con fundamento en el Reglamento que se reforma, en lo que no se opongan a las disposiciones del presente ordenamiento.
+
+D.O.F. 1 DE NOVIEMBRE DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el 1o. de noviembre del año 2002.
