@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1987-12-30"
+last_updated: "1990-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 1990.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -59,11 +59,11 @@ La porción del territorio nacional que corresponda al Estado, es la que ha sido
 
 La base de la división territorial y de la organización política y administrativa del Estado, es el Municipio Libre.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 4.
 
-El territorio del Estado comprende los Municipios que a continuación se expresan: Calkiní, Campeche, Carmen, Champotón, Hecelchakán, Hopelchén, Palizada y Tenabo, más el litoral que corresponde a las salinas denominadas del Real, la Herradura y las Desconocidas, islas adyacentes sobre las que ejerce jurisdicción y cuanto de hecho y por derecho le pertenece a la Entidad, sin perjuicio de las divisiones que, para su régimen judicial, fiscal y electoral determinen las leyes.
+El territorio del Estado comprende los Municipios de Calkiní, Campeche, Carmen, Champotón, Hecelchakán, Hopelchén, Palizada, Tenabo y Escárcega, más el litoral que corresponde a las salinas denominadas del Real, la Herradura y Las Desconocidas, islas adyacentes sobre las que ejerce jurisdicción y cuanto de hecho y por derecho le pertenece a la Entidad, sin perjuicio de las divisiones que, para su régimen judicial, fiscal y electoral determinen las leyes.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -211,7 +211,9 @@ I.- Votar en las elecciones populares;
 
 II.- Poder ser votado para todos los cargos de elección popular y nombrado para desempeñar cualquier empleo o comisión, si se tienen las cualidades que la ley establezca;
 
-III.- Asociarse para tratar de los asuntos políticos de la República y del Estado;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1990)</small>
+
+III.- Asociarse libre y pacíficamente para tomar parte en los asuntos políticos del Estado;
 
 IV.- Ejercer en toda clase de negocios, el derecho de petición;
 
@@ -229,7 +231,9 @@ II.- Votar en las elecciones populares, en el Distrito y Sección Electoral que 
 
 III.- Desempeñar los cargos de elección popular de la Federación, del Estado y del Municipio;
 
-IV.- Desempeñar las funciones electorales y las de jurado;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1990)</small>
+
+IV.- Desempeñar las funciones electorales y las de jurado. Las funciones electorales tendrán carácter obligatorio y gratuito, pero serán retribuidas aquéllas que se realicen profesionalmente, en los términos de esta Constitución y las leyes correspondientes;
 
 V.- Inscribirse en el Catastro, manifestando la propiedad que el mismo ciudadano tenga, así como la industria, profesión o trabajo de que subsista, e inscribirse en los Padrones Electorales del Municipio en que resida;
 
@@ -295,11 +299,35 @@ La soberanía del Estado reside esencial y originariamente en el pueblo campecha
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
-Para hacer posible el acceso de los ciudadanos al ejercicio del poder público, promover la participación del pueblo vida democrática y contribuir a la integración de la representación estatal, los ciudadanos campechanos podrán organizarse en los Partidos Políticos Registrados.
+Para hacer posible el acceso de los ciudadanos al ejercicio del poder público, promover la participación del pueblo en la vida democrática y contribuir a la integración de la representación estatal, los ciudadanos campechanos podrán organizarse en los Partidos Políticos Registrados.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
 Los Partidos Políticos son entidades de interés público, la ley determinará las formas específicas de su intervención en los procesos electorales estatales y municipales.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+
+La organización de las elecciones estatales y municipales es una función que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la ley. Esta función se realizará a través de un organismo público dotado de personalidad jurídica y patrimonio propio, denominado Instituto Electoral del Estado. La certeza, legalidad, imparcialidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+
+El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos de dirección, así como con órganos ejecutivos y técnicos. De igual manera, contará con órganos de vigilancia, que se integrarán mayoritariamente por representantes de los partidos políticos. El órgano superior de dirección se integrará por consejeros y consejeros magistrados designados por los Poderes Legislativo y Ejecutivo y por representantes nombrados por los partidos políticos. Los órganos ejecutivo y técnico dispondrán del personal calificado necesario para prestar el servicio electoral profesional. Los ciudadanos formarán las mesas directivas de casilla.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+
+El Instituto Electoral del Estado agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral y educación cívica o impresión de materiales electorales. Así mismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+
+La ley establecerá un sistema de medios de impugnación, de los que conocerán el Instituto y un Tribunal autónomo que será órgano jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+
+El Tribunal Electoral del Estado tendrá la competencia y organización que determine la ley; funcionará en pleno, resolverá en una sola instancia y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquéllas que se dicten con posterioridad a la jornada electoral podrán ser revisadas y en su caso modificadas por el Colegio Electoral, en los términos de los artículos 36 y 54, fracciones XVII y XVIII, de esta Constitución. Para el ejercicio de sus funciones, contará con un cuerpo de magistrados y jueces instructores, los cuales serán independientes y responderán sólo al mandato de la ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+
+Los consejeros magistrados y los magistrados del Tribunal deberán satisfacer los requisitos que señale la ley, que no podrán ser menores a los que señala esta Constitución para los magistrados del Tribunal Superior de Justicia del Estado. Serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por el Ejecutivo estatal. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos el número que corresponda de consejeros magistrados y magistrados del Tribunal Electoral. La ley señalará las reglas y el procedimiento correspondientes.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -357,19 +385,19 @@ Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se
 
 El Congreso del Estado se compondrá de representantes electos directamente en su totalidad cada tres años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 31.
 
-La Cámara de Diputados estará integrada por 21 diputados electos según el principio de votación mayoritaria relativa mediante el sistema de distritos electorales uninominales y hasta 7 diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas propuestas en una circunscripción plurinominal. Cada diputado propietario tendrá un suplente. Las vacantes de sus miembros electos por el principio de representación proporcional deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva.
+El Congreso estará integrado por veintiún diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales uninominales y por hasta siete diputados que serán asignados según el principio de representación proporcional, mediante el sistema de listas propuestas en una circunscripción plurinominal. Por cada diputado propietario de mayoría relativa se elegirá un suplente. Los diputados de representación proporcional no tendrán suplentes, sus vacantes serán cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva.
 
-La demarcación territorial de los veintiún distritos electorales uninominales será la que resulte de dividir la población total del estado entre los distritos señalados. Para el efecto de la elección de diputados según el principio de representación proporcional, el territorio del Estado se constituirá en una sola circunscripción electoral plurinominal.
+La demarcación territorial de los veintiún distritos electorales uninominales será la que resulte de dividir la población total del Estado entre los distritos señalados. Para el efecto de la asignación de diputados según el principio de representación proporcional, el territorio del Estado se constituirá en una sola circunscripción electoral plurinominal.
 
-La elección de los diputados según el principio de representación proporcional se sujetará a las bases generales siguientes y a lo que sobre el particular disponga la ley:
+La asignación de los diputados según el principio de representación proporcional se sujetará a las bases generales siguientes y a lo que sobre el particular disponga la ley:
 
-a).- Para obtener el registro de su lista de candidatos a diputados de representación proporcional el partido político que lo solicite deberá acreditar que participa con candidatos a diputados por mayoría relativa en, por lo menos, la tercera parte de los distritos uninominales de la entidad;
+a). Para obtener el registro de sus listas de candidatos a diputados, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en todos los distritos uninominales del Estado;
 
-b).- Tendrá derecho a que le sea atribuido un diputado electo según el principio de representación proporcional, todo aquel Partido Político que alcance, por lo menos, el 3% del total de la votación emitida en favor de las listas plurinominales.
+b). Todo partido político que alcance el 3 % del total de la votación emitida en la circunscripción plurinominal tendrá derecho a que le sea atribuido un diputado según el principio de representación proporcional.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -379,17 +407,21 @@ Los diputados no podrán ser reelectos para el período inmediato.
 
 Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, pero siempre que no hubieren estado en ejercicio; pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 33.
 
-Para ser electo diputado propietario o suplente se requiere:
+Para ser diputado se requiere:
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 I.- Ser mexicano por nacimiento y ciudadano campechano en ejercicio de sus derechos;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 II.- Tener 21 años cumplidos, el día de la elección;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 III.- Además de los requisitos anteriores, según el caso, se necesitarán los siguientes:
 
@@ -399,27 +431,37 @@ b).- Ser nativo del Estado, con residencia de un año en el distrito respectivo,
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
-c).- Si se es oriundo de otro Estado, tener residencia cuando menos de veinticinco años en el de Campeche y de seis meses en el distrito electoral de que se trate.
+c) Si se es oriundo de otro Estado, tener residencia cuando menos de veinticinco años en el de Campeche y de seis meses en el distrito electoral de que se trate.
 
 No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad de otro Estado.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 34.
 
-No podrán ser electos diputados propietarios o suplentes:
+No podrán ser diputados:
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 I.- Los ministros de cualquier culto;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 II.- Los Diputados y Senadores al Congreso de la Unión, que estén en ejercicio;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 III.- Los jefes militares del Ejército Nacional y los de la fuerza del Estado o de Policía, por el distrito o distritos en donde ejerzan mando, o en donde estuvieren en servicio;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 IV.- Los jefes de la Guardia Nacional que estuvieren en servicio activo, por el distrito o distritos en donde ejerzan mando;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 V.- El Gobernador del Estado, los Secretarios de los diversos Ramos de la Administración Pública Estatal, los Titulares de las Direcciones de la propia Administración, los Magistrados del Tribunal Superior de Justicia y el Procurador General de Justicia;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 VI.- Los Jueces de Primera Instancia, los Recaudadores de Rentas y los Presidentes Municipales, en los distritos electorales en donde ejerzan sus funciones.
 
@@ -429,15 +471,19 @@ VI.- Los Jueces de Primera Instancia, los Recaudadores de Rentas y los President
 
 Los ciudadanos comprendidos en las fracciones de la III a la VI del artículo anterior podrán ser electos, siempre que se separen de sus cargos cuando menos 45 días antes de la elección.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 36.
 
-El Congreso calificará las elecciones de sus miembros a través de un Colegio Electoral que se integrará con todos los presuntos diputados que hubieren obtenido constancia expedida por la Comisión Electoral del Estado, tanto con los electos por el principio de mayoría relativa como por los electos por el principio de representación proporcional. El Colegio Electoral será la última instancia en la calificación de las elecciones, sus resoluciones tendrán el carácter de definitivas e inapelables.
+El Congreso calificará, a través de un Colegio Electoral, la elegibilidad y la conformidad a la ley de las constancias de mayoría o de asignación proporcional, a fin de declarar, cuando proceda, la validez de la elección o asignación de sus miembros.
 
-Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de los procesos electorales. La ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además establecerá los medios de impugnación para garantizar que los actos de los organismos electorales, se ajusten a lo dispuesto por esta Constitución y por las leyes que de ella emanan.
+El Colegio Electoral del Congreso se integrará con diez presuntos diputados propietarios, quienes serán nombrados por los partidos políticos en la proporción que les corresponda respecto del total de las constancias otorgadas en la elección de que se trate.
 
-Se instituirá un Tribunal de lo Contencioso Electoral que se integrará, funcionará y tendrá la competencia que le determine la ley; sus resoluciones serán obligatorias y solo podrán ser modificadas por el Colegio Electoral.
+Las constancias otorgadas a presuntos legisladores cuya elección no haya sido impugnada ante el Tribunal serán dictaminadas y sometidas desde luego al Colegio Electoral para que sean aprobadas en sus términos, salvo que existiesen hechos supervenientes que obliguen a su revisión por el Colegio.
+
+Las resoluciones del Tribunal Electoral del Estado serán obligatorias y sólo podrán ser modificadas o revocadas por el Colegio Electoral, mediante el voto de las dos terceras partes de sus miembros presentes, cuando de su revisión se deduzca que existen violaciones a las reglas en materia de admisión y valoración de pruebas y de motivación del fallo, o cuando éste sea contrario a derecho.
+
+Las resoluciones del Colegio Electoral serán definitivas e inatacables.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -445,11 +491,13 @@ Se instituirá un Tribunal de lo Contencioso Electoral que se integrará, funcio
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos, y no podrán ser reconvenidos por ellas.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 38.
 
-El cargo de diputado propietario o suplente en ejercicio es incompatible con cualquier otro cargo o empleo federal, del Estado o del Municipio, en que se disfrute de sueldo, exceptuándose los de Instrucción Pública, Beneficencia y Salubridad.
+El desempeño del cargo de diputado es incompatible con cualquier otro cargo o empleo público, ya sea federal, estatal o municipal, en que se disfrute de sueldo, exceptuados los de instrucción pública, beneficencia y salubridad.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
 Los diputados sólo podrán desempeñar estos empleos o cargos con licencia de la Legislatura y en su receso, de la Diputación Permanente cuando se trate de alguno de sus miembros, pero entonces cesarán en sus funciones legislativas mientras dure su nuevo cargo, empleo o comisión.
 
@@ -501,11 +549,11 @@ Las sesiones del Congreso tendrán el carácter de públicas o secretas, en los 
 
 ### CAPITULO XII. De la Iniciativa y Formación de las Leyes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 1965)</small>
 
 ###### ARTICULO 46.
 
-El derecho de iniciar leyes o decretos compete:
+El derecho de iniciar Leyes o Decretos compete:
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -781,11 +829,13 @@ II.- Los que tengan mando alguno de fuerza pública dentro de los 45 días antes
 
 III.- Los que tengan algún cargo o comisión del Gobierno Federal o de otro u otros Estados, dentro de los 45 días antes de la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 63.
 
-El Gobernador entrará a ejercer su cargo el 16 de octubre y durará en él seis años.
+El Gobernador del Estado entrará a ejercer su cargo el 16 de septiembre del año de la elección y durará en él seis años.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
 El ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese puesto, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
@@ -803,11 +853,11 @@ Si el Congreso estuviere en receso, la Diputación Permanente nombrará desde lu
 
 Cuando la falta de gobernador ocurriese después de los dos primeros años del período para el cual fué electo, si el Congreso del Estado se encontrare en sesiones ordinarias, elegirá al gobernador substituto que deberá concluír el período respectivo; pero si el Congreso no estuviese reunido, la Diputación Permanente nombrará un gobernador provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación de un gobernador substituto. Si se tratare de renuncia del gobernador y el Congreso estuviese en sesiones ordinarias, procederá con las formalidades del caso a elegir al gobernador substituto que haya de terminar el período constitucional, previa la calificación de la renuncia. Si el Congreso estuviese en receso, la Diputación Permanente lo convocará a sesiones extraordinarias para que calificando la renuncia, proceda en la forma ya señalada.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 66.
 
-Si al comenzar un período constitucional no se presentase el gobernador electo o la elección no estuviese hecha y declarada el 16 de octubre, cesará sin embargo el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo en calidad de Gobernador Interino, el que designe el Congreso del Estado, o, en su caso, con el carácter de provisional el que designe la Diputación Permanente, procediéndose como disponen los artículos 64 y 65.
+Si al comenzar un período constitucional no se presentase el Gobernador electo, o la elección no estuviese hecha y declarada el 16 de septiembre, se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el ciudadano que designe el Congreso del Estado o, en su caso, con el carácter de provisional, el que designe la Diputación Permanente, de acuerdo con lo dispuesto en los artículos 64 y 65 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -1037,9 +1087,9 @@ Para ser Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
 
 I.- Ser ciudadano campechano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- No tener más de 65 años de edad, ni menos de 35, el día del nombramiento;
+II.- No tener más de 65 años de edad, ni menos de 35, el día del nombramiento.
 
-III.- Poseer el día del nombramiento, con antigüedad mínima de cinco años, título profesional de Abogado o Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello;
+III.- Poseer el día del nombramiento, con antigüedad mínima de cinco años, título profesional de Abogado o Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello.
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
@@ -1275,7 +1325,7 @@ I.- Cada Municipio será administrado por un Ayuntamiento de elección popular d
 
 II.- Los Ayuntamientos de los Municipios de la Entidad, tendrán tantos Regidores y Síndicos como determine la Ley Orgánica respectiva, electos por el principio de mayoría relativa y adicionalmente hasta dos Regidores y Síndicos electos por el sistema de representación proporcional.
 
-De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuído un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
+De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
 
 a) Que hubiere registrado fórmula de candidatos en las elecciones municipales respectivas;
 
@@ -1737,17 +1787,9 @@ UNICO.- El presente decreto iniciará su vigencia al día siguiente de su public
 
 P.O. 29 DE MAYO DE 1965.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO 104, EMITIDO POR LA LIII LEGISLATURA DEL CONGRESO DEL ESTADO PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 1990, SE DEROGA EL ARTICULO SEGUNDO DEL DECRETO NUMERO 104 EXPEDIDO POR LA LII LEGISLATURA DEL CONGRESO DEL ESTADO, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 1987, MOTIVO POR EL QUE SE PRESENTA EL TEXTO ORIGINAL.</small>
 
-PRIMERO.- El presente Decreto de adiciones y reformas de la Constitución Política del Estado entrará en vigor el día 10 de julio de 1965.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
-
-SEGUNDO.- Para elegir al gobernador que ejerza el cargo durante el período 1991-1997, se celebrarán elecciones el primer domingo de julio de 1991.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
-
-TERCERO.- El Gobernador electo para el periodo 1991-1997 iniciará el ejercicio de su cargo el 16 de septiembre de 1991 y durará en él hasta el 15 de septiembre de 1997, debiendo el Congreso del Estado, por esta única ocasión nombrar Gobernador interino que durará en su encargo del 16 de septiembre de 1997 al 15 de octubre del mismo año.
+UNICO.- El presente Decreto de adiciones y reformas de la Constitución Política del Estado entrará en vigor el día 10 de julio de 1965.
 
 P.O. 11 DE ABRIL DE 1970.
 
@@ -1812,3 +1854,9 @@ P.O. 30 DE DICIEMBRE DE 1987.
 ###### ARTICULO PRIMERO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1990.
+
+Primero.- El presente decreto entrará en vigor el día de su publicación en el periódico oficial del Estado.
+
+Segundo.- Se derogan el Artículo Segundo del decreto número 104 expedido por la LII Legislatura del Congreso del Estado el 28 de diciembre de 1987 y publicado el día 30 de ese mismo mes y año en el periódico oficial del Estado, y las demás disposiciones legales que se opongan al presente decreto.
