@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1971-12-28"
+last_updated: "1976-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1976.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -205,7 +205,7 @@ Los individuos que desempeñen algún cargo concejil quedarán exentos, durante 
 
 DEL PODER LEGISLATIVO.
 
-> <small>(REFORMADO, G.O. 10 DE NOVIEMBRE DE 1931)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1976)</small>
 
 ###### Artículo 20.
 
@@ -367,21 +367,35 @@ Los padrones electorales se sacarán de los de las Municipalidades y no se exped
 
 ###### Artículo 46.
 
-La H. Legislatura del Estado se compondrá cuando menos, de once miembros nombrados por los Distritos Electorales que establezca la Ley, según lo dispuesto en el artículo 39 reformado o por los que fuere necesario para alcanzar ese mínimo. Por cada Diputado propietario se nombrará un suplente.
+La Legislatura del Estado se compondrá cuando menos de once miembros, nombrados popularmente en elección directa, en los distritos electorales que establece la Ley, según lo dispuesto en el artículo 39 de este Código Fundamental y se complementará con Diputados de Partido, sujetándose en ambos casos a lo dispuesto por la Ley Estatal Electoral. En lo referente a Diputados de Partido regirán, además, las reglas siguientes:
+
+I. Los Partidos Políticos Nacionales y los Estatales, registrados en la Secretaría de Gobierno del Estado, al obtener el uno y medio por ciento o más de la votación total para la renovación de la Legislatura, tendrán derecho a que se les acredite como Diputados de Partido a uno de sus candidatos.
+
+II. Si logran la mayoría en uno o más distritos electorales, no tendrán derecho a Diputados de Partido.
+
+III. El Diputado de Partido se acreditará, en riguroso orden de acuerdo con el mayor porcentaje de votos que haya logrado en relación a los demás candidatos del mismo Partido.
+
+IV. Los Diputados de Mayoría y los de Partido, como representantes del pueblo, tienen la misma categoría e iguales derechos y obligaciones.
+
+Por cada Diputado propietario se nombrará un suplente.
 
 ###### Artículo 47.
 
 Los Diputados no podrán ser electos para el período siguiente a aquel en que estén funcionando.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1976)</small>
+
 ###### Artículo 48.
 
-Para ser electo Diputado propietario o suplente, se requiere:
+Para ser electo diputado propietario o suplente, se requiere:
 
 I. Ser ciudadano veracruzano en ejercicio de sus derechos;
 
 II. Saber leer y escribir;
 
-III. Haber cumplido veinticinco años; y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 1976)</small>
+
+III. Haber cumplido 21 años, y
 
 IV. Ser natural del Estado o vecino de él, con cinco años de residencia, por lo menos, el día de la elección.
 
@@ -1470,3 +1484,13 @@ Envíese al Ejecutivo del Estado para su publicación en la "Gaceta Oficial".
 ###### ARTICULO SEGUNDO.
 
 La presente Ley comenzará a surtir sus efectos legales a partir de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 30 DE DICIEMBRE DE 1976.
+
+###### ARTICULO PRIMERO.
+
+Esta ley entrará en vigor el día primero de enero de 1977.
+
+###### ARTICULO SEGUNDO.
+
+Envíese al Ejecutivo del Estado para su publicación en la "Gaceta Oficial" órgano del Gobierno de la Entidad.
