@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "1990-03-26"
+last_updated: "1990-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 1990.
 
 Ley Publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -691,11 +691,17 @@ Bebidas Embriagantes. 65.50 59.00 52.50
 
 ###### ARTICULO 36.
 
-Las cuotas anteriores amparan el funcionamiento de los negocios a que se refiere este impuesto de acuerdo con las disposiciones establecidas en la Ley sobre Operación y Funcionamiento de Establecimientos destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Sinaloa y en ninguna forma autoriza su funcionamiento fuera de los horarios señalados en dicho precepto legal.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
 ###### ARTICULO 37.
 
 Los infractores a este Capítulo se sancionarán de acuerdo a lo estipulado por el Código Fiscal Municipal.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+###### ARTICULO 37 Bis.
+
+Mientras se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público en materia de Derechos, no se causarán los cobros por los conceptos contenidos en el Artículo 35 de este Capítulo.
 
 ###### ARTICULO 38.
 
@@ -786,6 +792,12 @@ IV.- Los periódicos o sumarios de ellos expuestos en el interior de sus oficina
 V.- Los anuncios cuando éstos constituyan un ornato y orientación civil para la población y se conserven en servicio las horas necesarias a juicio del H. Ayuntamiento.
 
 El Ejecutivo Municipal extenderá la licencia respectiva y las infracciones a las disposiciones serán penadas de acuerdo a lo estipulado por el Código Fiscal Municipal, sin perjuicio de que los infractores paguen el impuesto que hubiera causado desde la fecha de la fijación, pintura o instalación del anuncio en el caso de no haber dado previamente el aviso a que están obligados.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+###### ARTICULO 42 Bis.
+
+Los cobros por los conceptos contenidos en el Artículo 40, no se causarán mientras se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público en materia de Derechos.
 
 ###### ARTICULO 43.
 
@@ -1143,7 +1155,9 @@ Los Notarios no podrán autorizar definitivamente ninguna escritura en la que ha
 
 Los Ayuntamientos por conducto de sus Tesorerías Municipales quedan facultados para inspeccionar o revisar los libros, protocolos y contabilidad de los contribuyentes, retenedores y fedatarios, a efecto de comprobar el pago del impuesto que establece este capítulo.
 
-### CAPITULO II. DE LA PRESTACION DE SERVICIOS SANITARIOS PARA EL CONTROL DE ENFERMEDADES TRANSMISIBLES
+### CAPITULO II. POR LA PRESTACION DE SERVICIOS SANITARIOS PARA EL CONTROL DE ENFERMEDADES TRANSMISIBLES
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 67.
 
@@ -1279,11 +1293,63 @@ por metro lineal). 0.04 0.04 0.04
 
 7.5. Otros. 0.18 0.14 0.11
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+8.- La obstrucción temporal de la vía pública con escombros, materiales, equipo de construcción zanjas u otros obstáculos, dará lugar al pago de un Derecho equivalente al número de veces el salario mínimo diario de la zona, por día y por metro cuadrado según su ubicación, conforme a la siguiente:
+
+CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
+
+1. Cabecera Municipal y poblaciones con
+
+más de 50,000 habitantes.
+
+1.1. Zonas pavimentadas con concreto
+
+hidráulico. 0.21 0.12 0.10
+
+1.2. Zonas pavimentadas con asfalto
+
+o empedradas. 0.14 0.11 0.08
+
+1.3. Zonas turísticas. 0.24 0.18 0.14
+
+1.4. Otras zonas. 0.10 0.07 0.05
+
+2. Poblaciones de 20,000 a 50,000 habitantes.
+
+2.1. Zonas pavimentadas con concreto
+
+hidráulico. 0.14 0.12 0.10
+
+2.2. Zonas pavimentadas con asfalto
+
+o empedradas. 0.10 0.07 0.05
+
+2.3. Otras zonas. 0.07 0.04 0.02
+
+3. Poblaciones con menos de 20,000 habitantes.
+
+3.1. Zonas pavimentadas con concreto
+
+hidráulico. 0.10 0.08 0.06
+
+3.2. Zonas pavimentadas con asfalto o
+
+empedradas. 0.07 0.06 0.05
+
+3.3 Otras zonas. 0.05 0.04 0.02
+
 El pago de los derechos a cargo de los urbanizadores contenido en el punto número 1 de la presente tarifa se deberá enterar a la Tesorería Municipal antes de dar principio a las obras, en caso de autorización para realizar las obras por etapas, el pago se hará proporcionalmente a la inversión correspondiente de cada etapa.
 
 El valor de la construcción se determinará en base a las Tablas del Instituto Mexicano de Valuación de Sinaloa, actualizados en los meses de enero, mayo y septiembre de cada año.
 
 El porcentaje a que se refiere el inciso C) del punto 6.1. de la presente tarifa, se aplicará sobre el costo del Derecho de Licencias originales cuando ésta no tenga más de 3 años de antiguedad (sic), de otra manera se cobrará dicho porcentaje sobre el costo de los derechos actuales.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+###### ARTICULO 71 Bis.
+
+Para ocupar la vía pública con obstáculos es necesaria la autorización de la Presidencia Municipal de manera que la infracción al punto 8 que antecede, será sancionada de conformidad con lo previsto por el Código Fiscal Municipal.
 
 ### CAPITULO IV. LEGALIZACION DE FIRMAS, CERTIFICADOS Y FICHAS DACTILOSCOPICAS
 
@@ -1313,13 +1379,17 @@ IV.- La falta de cumplimiento de las disposiciones contenidas en este capítulo,
 
 La Dirección de Obras y Servicios Públicos Municipales, elaborará el acta o actas donde se asiente la infracción o infracciones incurridas turnando al día siguiente hábil a la Tesorería Municipal la primera copia para su cuantificación, para cuyo cobro se atenderá lo previsto en el Código Fiscal Municipal.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 1990)</small>
+
 ###### ARTICULO 75.
 
-Es objeto de este derecho, el servicio de control médico que se debe realizar en el ejercicio del comercio sexual.
+Es objeto de este Derecho la prestación de servicios médicos para el control de enfermedades transmisibles.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 76.
 
-Son sujetos de este derecho, las mujeres que ejerzan el comercio sexual y están obligadas a pagar por el registro de sus actividades y por exámenes médicos a que deben someterse semanal y bimestralmente. El derecho se causará de acuerdo al equivalente al número de veces el salario mínimo diario de la zona, como sigue:
+Son sujetos de este Derecho, las mujeres a quienes se les preste el servicio médico mencionado en el Artículo anterior, y se causará de acuerdo al equivalente al número de veces el salario mínimo diario como sigue:
 
 TARIFA:
 
@@ -1327,7 +1397,9 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 1.- Por tarjeta de control (por año). 3.50 3.00 2.00
 
-2.- Por inspección sanitaria semanal. 1.00 1.00 1.00
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+2.- Por servicio médico semanal. 1.00 1.00 1.00
 
 3.- Por exámenes serológicos bimestral. 1.00 1.00 1.00
 
@@ -1336,6 +1408,12 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 ###### ARTICULO 77.
 
 Los propietarios o encargados de centros nocturnos serán solidariamente responsables en los casos de incumplimiento a las disposiciones del presente capítulo.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+###### ARTICULO 77 Bis.
+
+En tanto se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público en materia de Derechos, no se causará el cobro por el concepto contenido en el punto 1 de la Tarifa del Artículo 76 de este Capítulo.
 
 ### CAPITULO V. DE REGISTRO Y LICENCIA PARA EL FUNCIONAMIENTO DE APARATOS FONOELECTRICOS Y LICENCIA PARA ESPECTACULOS Y DIVERSIONES PUBLICAS Y SUPERVISION
 
@@ -1365,7 +1443,9 @@ G) Valor total de la mercancía almacenada si es bodega (promedio anual).
 
 Satisfechos los requisitos anteriores se entregará la copia de la solicitud al interesado y aprobada ésta se procederá a entregar la tarjeta o placa de identidad correspondiente.
 
-### CAPITULO VI. DE INSPECCION Y VIGILANCIA EXTRAORDINARIA
+### CAPITULO VI. SERVICIOS DE SEGURIDAD PUBLICA
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 80.
 
@@ -1398,6 +1478,12 @@ En caso de cambio de domicilio, de giro, razón social, denominación o clausura
 Las infracciones de las disposiciones que contiene este Capítulo, se sancionarán conforme a lo establecido por el Código Fiscal Municipal.
 
 Quedan exceptuados del pago de este Derecho, las sucursales o bodegas de negociaciones cuya casa matriz esté ya empadronada en el Municipio en cuya jurisdicción se encuentren establecidas éstas, sin perjuicio de la obligación que tienen de cumplir con todos los demás requisitos que señala este Capítulo.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+###### ARTICULO 82 Bis.
+
+Los cobros por los conceptos contenidos en el Artículo 80, no se cobrarán mientras se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público en materia de Derechos.
 
 ###### ARTICULO 83.
 
@@ -1569,15 +1655,25 @@ d.1. Cabecera Municipal. 2.00 1.50 1.50
 
 d.2. Resto Poblaciones del Municipio 1.50 1.00 1.00
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+###### ARTICULO 88 Bis.
+
+En tanto se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público en materia de Derechos, no se causarán los cobros por los conceptos contenidos en la tarifa del Artículo 88 de esta Ley.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 1990)</small>
+
 ###### ARTICULO 89.
 
-Es objeto de este derecho, el servicio extraordinario de inspección y vigilancia diurna y nocturna que preste el H. Ayuntamiento a toda clase de establecimientos de servicio al público.
+Es objeto de este Derecho el servicio extraordinario de Seguridad Pública diurna y nocturna que preste el H. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
 ### CAPITULO X. POR LA PRESTACION DE SERVICIOS DE MATANZA EN LOS RASTROS MUNICIPALES
 
 ###### ARTICULO 90.
 
-Son sujetos de este derecho las personas físicas o morales que tienen establecimientos y se les dá el servicio extraordinario de inspección y vigilancia ya sea a solicitud de éstos o cuando la Autoridad Municipal lo juzgue necesario o conveniente.
+Son sujetos de este Derecho, las personas físicas o morales a quienes se les da el servicio extraordinario de Seguridad Pública, ya sea a solicitud de éstos o cuando la Autoridad Municipal lo juzgue conveniente o necesario; debiendo cubrir una cuota equivalente a tres salarios mínimos por elemento policiaco, cuando el servicio sea diurno, y cinco salarios mínimos cuando el servicio sea nocturno o mixto; siempre y cuando no exceda de siete horas el servicio prestado, en cuyo caso se pagará una cuota equivalente a un salario mínimo diario por hora excedente.
 
 ### CAPITULO XI. REGISTRO Y EXPEDICION DE PLACAS DE VEHICULOS QUE CIRCULEN EN LA VIA PUBLICA CON EXCLUSION DE LOS DE MOTOR
 
@@ -1585,93 +1681,15 @@ Son sujetos de este derecho las personas físicas o morales que tienen estableci
 
 ### CAPITULO XIII. MERCADOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPITULO XIV. DE LOS DERECHOS POR COOPERACION PARA OBRAS PUBLICAS
 
 ###### ARTICULO 91.
 
-Este derecho se causará y pagará cada mes conforme a la siguiente equivalencia al número de veces el salario mínimo diario de la zona conforme a la siguiente:
-
-TARIFA:
-
-CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
-
-1.- Billares y Boliches (por cada mesa). 0.30 0.30 0.30
-
-2.- Expendios fijos de vino y licores por
-
-botella cerrada. 18.00 14.50 12.00
-
-3.- Supermercados con venta de mayoreo y/o menudeo de vinos y licores y bebidas alcohólicas por botella cerrada.
-
-3.1. Clasificación "A" 24.00 18.00 12.00
-
-3.2. Clasificación "B" 12.00 6.50 7.00
-
-4.- Cantinas, bares o expendios de bebidas
-
-alcohólicas por envase abierto. 18.00 13.00 12.00
-
-5.- Clubes sociales y casinos. 14.50 10.50 9.50
-
-6.- Expendios eventuales de bebidas
-
-embriagantes y alcohólicas por día. 18.00 13.00 12.00
-
-7.- Expendios fijos, depósitos o agencias
-
-de cerveza. 19.00 15.50 14.50
-
-8.- Cervecerías. 18.00 13.00 12.00
-
-9.- Restaurantes con venta de cerveza. 8.50 7.00 6.50
-
-10.- Restaurantes con ventas de cerveza y
-
-vinos de mesa. 10.50 9.00 7.50
-
-11.- Restaurantes con venta de cerveza y
-
-vinos y licores. 12.00 10.00 9.00
-
-12.- Restaurant Bar. 18.00 15.50 14.50
-
-13.- Centros nocturnos y cabarets. 41.50 33.50 31.00
-
-14.- Casas de asistencia o de huéspedes. 10.50 8.50 7.00
-
-15.- Hoteles y moteles.
-
-15.1. Clasificación "A" 12.00 9.00 7.00
-
-15.2. Clasificación "B" 9.50 7.00 5.00
-
-15.3. Clasificación "C" 8.50 6.00 3.50
-
-16.- Salones de Bailes. 7.00 6.50 6.00
-
-17.- Negociaciones con venta de bebidas
-
-embriagantes no especificadas
-
-anteriormente. 6.50 6.00 5.00
-
-18.- Cines permanentes.
-
-18.1. Cabecera Municipal. 4.00 4.00 3.50
-
-18.2. Resto poblaciones del Municipio. 3.50 3.00 2.50
-
-19.- Establecimientos comerciales.
-
-19.1. Contribuyentes Mayores. 4.00 4.00 4.00
-
-19.2. Contribuyentes Menores. 3.50 3.50 3.50
-
-20.- Vigilancia a establecimientos en particular
-
-(por agente y por turno). 6.50 5.00 4.50
+(DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
 ###### ARTICULO 92.
 
@@ -1687,7 +1705,7 @@ Es objeto de este derecho, la concesión de terrenos, la prestación de servicio
 
 Son sujetos de este Derecho, las personas físicas o morales que adquieran concesiones de terrenos en los predios propiedad del Municipio, destinados a la inhumación de cadáveres y quienes soliciten autorización para efectuar inhumaciones y construcción de monumentos y lápidas.
 
-### CAPITULO II. POR ARRENDAMIENTO Y CONCESION DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+### CAPITULO II. POR ARRENDAMIENTO, CONCESIONES Y TRASPASOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ###### ARTICULO 95.
 
@@ -1723,6 +1741,12 @@ cadáver (por permiso). 2.50 2.50 2.50
 
 cadáver (por permiso). 3.50 3.00 2.50
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+###### ARTICULO 95 Bis.
+
+En tanto se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público en materia de Derechos, bajo ninguna circunstancia se hará cobro alguno por los conceptos contenidos en los puntos 2, 3, 4 y 5 de la tarifa del Artículo 95 de esta Ley.
+
 ## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
 ### CAPITULO III. POR LA VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
@@ -1752,6 +1776,12 @@ o lugares habilitados (por año). 5.00 4.00 3.50
 2.- Puesto semifijo interior de mercado
 
 o lugares habilitados (por año). 3.50 3.00 3.00
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+###### ARTICULO 98 Bis.
+
+Los cobros por los conceptos contenidos en el Artículo 98, no se causarán mientras se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público en materia de Derechos.
 
 ### CAPITULO V. POR EL USO DE PISO EN LA VIA PUBLICA Y SITIOS PUBLICOS
 
@@ -1790,6 +1820,12 @@ régimen o condominios (al millar de acuerdo
 al valor del inmueble). 1.0 1.0 1.0
 
 4.- Constructores en general (por año). 7.00 6.50 6.00
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+###### ARTICULO 101 Bis.
+
+Los cobros por los conceptos contenidos en el Artículo 101, no se causarán mientras se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público en materia de Derechos.
 
 ### CAPITULO I. MULTAS
 
@@ -1881,6 +1917,12 @@ El sacrificio de semovientes para el consumo de carnes en el Municipio, se efect
 
 Por cualquier violación a lo estipulado en los artículos concernientes al sacrificio de ganado en esta Ley, se sancionarán de conformidad con lo estipulado en el Código Fiscal Municipal.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+###### ARTICULO 109 Bis.
+
+En tanto se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público en materia de Derechos, bajo ninguna circunstancia se hará cobro alguno por el concepto contenido en la tarifa del Artículo 107 de esta Ley.
+
 ###### ARTICULO 110.
 
 El derecho sobre registro y expedición de placas de vehículos que circulen en la vía pública, con exclusión de los de motor, se causará anualmente de acuerdo al número de veces el salario mínimo diario de la zona, conforme a la siguiente:
@@ -1937,6 +1979,12 @@ para transporte de carga. 0.46 0.46 0.46
 
 Es facultad de la Tesorería Municipal exigir en todo tiempo a las personas que manejen los vehículos a que se refiere este capítulo, la constancia de estar al corriente en el pago del derecho y refrendar sus placas del año anterior, las infracciones a este capítulo serán sancionadas con multa de uno hasta tres tantos del derecho omitido, sin perjuicio de pago del derecho correspondiente.
 
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+###### ARTICULO 111 Bis.
+
+Los cobros por los conceptos contenidos en el punto 1 de la tarifa del Artículo 110, no se cobrará en tanto se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público en materia de Derechos.
+
 ### CAPITULO VI. OTROS APROVECHAMIENTOS
 
 ###### ARTICULO 112.
@@ -1967,15 +2015,19 @@ Para la mejor administración de este derecho, la Tesorería Municipal, podrá c
 
 ###### ARTICULO 114.
 
-Es objeto de este derecho, la prestación de los servicios de autorización por los Ayuntamientos para ejercer el libre comercio en los Mercados Públicos y lugares de uso común.
+Es objeto de este derecho la prestación de servicios de administración otorgados por los Ayuntamientos en los mercados públicos y lugares de uso común.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 115.
 
-Son sujetos de este derecho, las personas físicas o morales que gocen de autorización por parte de las Autoridades Municipales para ejercer el libre comercio en los Mercados Públicos.
+Son sujetos de este derecho las personas físicas o morales que gocen de los servicios de administración, prestados por las autoridades municipales en los mercados públicos.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
 ###### ARTICULO 116.
 
-Los locatarios de Mercados Municipales pagarán por concepto de servicio de administración, mantenimiento, vigilancia, aseo y limpieza, la cantidad mensual equivalente en salarios mínimos de la zona que corresponda de acuerdo al número de veces el salario mínimo diario de la zona conforme a la siguiente:
+Los locatarios de Mercados Municipales pagarán por concepto de servicios de administración, mantenimiento, seguridad pública, aseo y limpieza, la cantidad mensual equivalente en salarios mínimos de la zona que corresponda de acuerdo al número de veces al salario mínimo diario de la zona conforme a la siguiente:
 
 TARIFA:
 
@@ -1983,21 +2035,11 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 1.- Los locatarios pagarán por administración,
 
-mantenimiento, vigilancia, aseo y
+mantenimiento, seguridad pública, aseo y
 
 limpia (por mes). de 2.00 de 1.50 de 1.50
 
 a 5.00 a 3.50 a 3.00
-
-2.- Por autorización de traspaso de local en mercados municipales (por autorización).
-
-2.1. Clasificación "A" de 89.00 de 65.50 de 41.50
-
-a 178.50 a 143.00 a 107.00
-
-2.2. Clasificación "B de 35.50 de 30.00 de 24.00
-
-a 65.50 a 59.50 a 53.50
 
 ###### ARTICULO 117.
 
@@ -2033,9 +2075,25 @@ Si por cuestiones económicas o de cualquier índole, los arrendatarios clausura
 
 Son causas de multa y rescisión de contrato las violaciones al Reglamento correspondiente.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 1990)</small>
+
 ###### ARTICULO 121.
 
 Tendrán el carácter de Productos, los arrendamientos y concesiones de bienes muebles e inmuebles propiedad del Municipio, así como la concesión de servicios municipales, se cobrará de acuerdo con los contratos que para el efecto celebre el Ayuntamiento en los términos de la Ley Orgánica Municipal del Estado de Sinaloa, la Ley sobre Inmuebles del Estado y Municipios de Sinaloa y los Reglamentos relacionados.
+
+###### ARTICULO 121 Bis.
+
+Los traspasos de locales ubicados en mercados municipales cubrirán la siguiente tarifa:
+
+GRUPO 1 GRUPO 2 GRUPO 3
+
+1.- Clasificación "A" de 89.00 de 65.50 de 41.50
+
+a 178.50 a 143.00 a 107.00
+
+2.- Clasificación "B" de 35.50 de 30.00 de 24.00
+
+a 65.50 a 59.50 a 53.50
 
 ### CAPITULO UNICO
 
@@ -2185,61 +2243,19 @@ La Tesorería Municipal podrá celebrar convenio con los contribuyentes de este 
 
 Los infractores a los preceptos de este Capítulo, se sancionarán de conformidad con lo estipulado en el Código Fiscal Municipal.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE OCTUBRE DE 1990)</small>
+
 ###### ARTICULO 129.
 
-Es objeto de este producto, la obstrucción temporal de la vía pública.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
 ###### ARTICULO 130.
 
-Son sujetos de este producto, las personas físicas o morales que por necesidad y en forma temporal previo permiso de la Autoridad Municipal, ocupen la vía pública con escombros, materiales, equipo de construcción, zanjas u otros obstáculos.
-
-El pago de este producto se causará por el equivalente al número de veces el salario mínimo diario de la zona por día y por metro cuadrado según su ubicación y área de obstrucción de acuerdo con la siguiente:
-
-TARIFA:
-
-CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
-
-1.- Cabecera Municipal y Poblaciones con más de 50,000 habitantes.
-
-1.1. Zonas pavimentadas con concreto
-
-hidráulico. 0.21 0.12 0.10
-
-1.2. Zonas pavimentadas con asfalto
-
-o empedradas. 0.14 0.11 0.08
-
-1.3. Zonas turísticas. 0.24 0.18 0.14
-
-1.4. Otras zonas. 0.10 0.07 0.05
-
-2.- Poblaciones de 20,000 a 50,000 habitantes.
-
-2.1. Zonas pavimentadas con concreto
-
-hidráulico. 0.14 0.12 0.10
-
-2.2. Zonas pavimentadas con asfalto o
-
-empedradas. 0.10 0.07 0.05
-
-2.3. Otras zonas. 0.07 0.04 0.02
-
-3.- Poblaciones con menos de 20,000 habitantes.
-
-3.1. Zonas pavimentadas con concreto
-
-hidráulico. 0.10 0.08 0.06
-
-3.2. Zonas pavimentadas con asfalto o
-
-empedradas. 0.07 0.06 0.05
-
-3.3. Otras zonas. 0.05 0.04 0.02
+(DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
 ###### ARTICULO 131.
 
-Para ocupar la vía pública con obstáculos es necesaria la autorización de la Presidencia Municipal de manera que la infracción al presente capítulo, será sancionada de conformidad con lo previsto por el Código Fiscal Municipal.
+(DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
 
 ###### ARTICULO 132.
 
@@ -2448,3 +2464,29 @@ LIC. JUAN BURGOS PINTO
 EL SECRETARIO DE HACIENDA PUBLICA Y TESORERIA
 
 LIC. RENATO MORESCHI OVIEDO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE OCTUBRE DE 1990.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de la adición del Capítulo XXVI al Título Segundo de la Ley de Hacienda del Estado; se concede un plazo de 30 días contados a partir de la fecha en que entre en vigor el presente Decreto para que los contribuyentes obligados al pago de este impuesto, que hubieran iniciado operaciones con anterioridad a la vigencia del mismo, presenten su aviso de inscripción ante la Oficina Recaudadora de su domicilio, sin la aplicación de sanciones.
+
+###### ARTICULO TERCERO.
+
+El Impuesto Sobre Nóminas se causará por las erogaciones que se realicen a partir del primero de noviembre de 1990.
+
+###### ARTICULO CUARTO.
+
+Sin perjuicio de cumplir con las demás obligaciones que el Artículo 292 Bis-E les impone, no están obligados al pago de este impuesto las negociaciones de nueva creación durante su primer año de operación.
+
+Se entiende como negociación de nueva creación, aquella que ha contribuído a aumentar el capital social de la economía del Estado. Por lo que, para los efectos de este impuesto no será considerada negociación de nueva creación aquella que efectúe cambio de nombre o razón social, cambio de domicilio, actividad o traspaso de la misma.
+
+###### ARTICULO QUINTO.
+
+El monto de lo recaudado de este impuesto se integrará a un Fondo de Solidaridad, que será destinado a inversión pública en aquellos renglones que acuerde el organismo que se constituya para tal efecto y por decreto.
