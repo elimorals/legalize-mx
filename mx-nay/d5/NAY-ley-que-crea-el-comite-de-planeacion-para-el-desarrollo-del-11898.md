@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-crea-el-comite-de-planeacion-para-el-desarrollo-del-118
 country: "mx"
 rank: "ley"
 publication_date: "1981-03-11"
-last_updated: "1984-06-06"
+last_updated: "1984-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY QUE CREA EL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1984.
 
 Ley Publicada en la Primera Sección del Periódico Oficial del Estado de Nayarit el Miércoles 11 de Marzo de 1981.
 
@@ -91,25 +91,31 @@ III.- Los Titulares de las Dependencias del Ejecutivo Estatal que señale el C. 
 
 IV.- Los Titulares de los órganos que actúen en el Estado, de las Dependencias y Entidades de la Administración Pública Federal que tengan participación en el cumplimiento de los objetivos del Comité;
 
-V.- Los Titulares de las Comisiones donde participen los sectores Público, Social y Privado, cuyas acciones interesan al Desarrollo socioeconómico de la Entidad;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1984)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+V.- El Titular de la Secretaría de la Contraloría General del Estado, los Representantes de la Secretaría de la Contraloría General de la Federación, de la Delegación de la Secretaría de Programación y Presupuesto, de las Unidades de Control de las Dependencias y Entidades Ejecutoras y de los Ayuntamientos, cuando éstas existan se integrarán en una unidad de control y evaluación con las atribuciones que se señalan en el Artículo 17 de esta ley.
 
-VI.- Los Ciudadanos Presidentes Municipales;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1984)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+VI.- Los Titulares de las Comisiones donde participen los Sectores Público, Social y Privado, cuyas acciones interesen al Desarrollo Socio-económico de la Entidad.
 
-VIII.- El Titular de la Delegación Regional de la Secretaría de Programación y Presupuesto del Gobierno Federal en el Estado, quien actuará como Secretario Técnico del Comité.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1984)</small>
 
-IX.- Los Representantes de las Organizaciones Mayoritarias de Trabajadores, de Campesinos de Profesionales, de Técnicos, así como de las Sociedades Cooperativas que actúen a nivel Estatal y estén debidamente registradas ante las Autoridades correspondientes;
+VII.- El Titular de la Delegación Regional de la Secretaría de Programación y Presupuesto del Gobierno Federal en el Estado, actuará como Secretario Técnico del Comité. Asimismo, a invitación expresa del C. Gobernador podrán participar:
 
-X.- Los Representantes de las Organizaciones Mayoritarias de empresas que actúen a nivel Estatal y estén debidamente registradas ante las autoridades correspondientes.
+a).- Los CC. Presidentes Municipales.
 
-XI.- Los Representantes de Instituciones de Educación Superior y de Centros de Investigación que operen en el Estado;
+b).- Los CC. Diputados a la Honorable Legislatura Local.
 
-XII.- Los Senadores y Diputados Federales por el Estado.
+c).- Los Representantes de las Organizaciones mayoritarias de trabajadores, de campesinos, de profesionales, de técnicos, así como de las sociedades cooperativas que actúen a nivel estatal y estén debidamente registradas ante las Autoridades correspondientes.
 
-Por cada miembro propietario de los señalados en las fracciones III a la X, con excepción de la VI, de designará un suplente.
+d).- Los Representantes de las Organizaciones mayoritarias de Empresas que actúen a nivel Estatal y estén debidamente registradas ante las Autoridades correspondientes.
+
+e).- Los Representantes de Instituciones de Educación Superior y de Centros de Investigación que operen en el Estado.
+
+f).- Los Senadores y Diputados Federales por el Estado.
+
+Por cada Miembro Propietario de los señalados en las Fracciones III a la VI, se designará un suplente.
 
 ###### ARTICULO 4o.
 
@@ -159,7 +165,7 @@ b).- Dirección de Operación y Control Financiero; y
 
 c).- Dirección de Supervisión.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 11.
 
@@ -185,7 +191,9 @@ IX.- Promover la aceptación de las obras con los beneficiarios.
 
 X.- Elaborar los programas especiales que fije el Presidente del Comité de Planeación para el Desarrollo del Estado de Nayarit.
 
-XI.- Evaluar los programas operativos anuales y especiales.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1984)</small>
+
+XI.- Informar sobre el Desarrollo y los resultados de los Programas Operativos anuales y especiales.
 
 XII.- Presentar su programa de trabajo y el presupuesto correspondiente.
 
@@ -233,7 +241,9 @@ XV.- Las que le confiera expresamente el Presidente del Comité.
 
 Son atribuciones de la Dirección de Supervisión:
 
-I.- Vigilar y controlar el avance de las obras y la prestación de los servicios, en base a los proyectos y los expedientes técnicos unitarios autorizados por la Secretaría de Programación y Presupuesto.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1984)</small>
+
+I.- Vigilar y supervisar el avance de las obras y la prestación de los servicios, en base a los Proyectos y a expedientes técnicos unitarizados por la Secretaría de Programación y Presupuesto.
 
 II.- Dar el visto bueno a las estimaciones, órdenes de pago, nóminas y documentación en general presentada por la Dirección de Operación y Control Financiero, para la liberación de los recursos correspondientes.
 
@@ -245,7 +255,7 @@ V.- Realizar análisis de precios y dictámenes técnicos en las obras que sean 
 
 VI.- Apoyar a la Dirección de Planeación y Programación en la recepción de las obras autorizadas en el Programa de Desarrollo Regional, rubricando las actas correspondientes.
 
-VII.- Participar conjuntamente con las entidades ejecutoras del Gobierno Federal, del Gobierno del Estado y Ayuntamientos,, en el proceso de contratación de la Obra Pública, en los términos de la Ley de Obra Pública y su Reglamento.
+VII.- (DEROGADA, P.O. 10 DE NOVIEMBRE DE 1984)
 
 VIII.- Presentar su programa de trabajo y el presupuesto correspondiente.
 
@@ -272,6 +282,38 @@ La remuneración del personal que preste sus servicios en las áreas a que se re
 > <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1984)</small>
 
 Los servidores públicos de base, se regirán por los ordenamientos del Estatuto Jurídico de los Trabajadores al Servicio del Estado, Municipios e Instituciones Descentralizadas de carácter Estatal de Nayarit, y tendrán carácter retroactivo los beneficios inherentes a su antigüedad.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
+
+###### ARTICULO 17.
+
+La unidad de control y evaluación tendrá las siguientes funciones:
+
+I.- Realizar las funciones de control y evaluación asignadas al Copladenay.
+
+II.- Coordinar las acciones de evaluación y control de los Tres Ordenes de Gobierno.
+
+III.- Coordinar las Políticas y Acciones que requiera la operación del Sistema Estatal de Control.
+
+IV.- Fungir como grupo de apoyo del Presidente y del Coordinador General del Copladenay para la realización de sus tareas en materia de control y evaluación.
+
+V.- Efectuar las evaluaciones anuales de operaciones del Copladenay.
+
+VI.- Emitir reportes de evaluación del impacto económico y social de la inversión pública global, en base a la información que proporcionen los responsables del Control de los Tres Ordenes de Gobierno.
+
+VII.- Proporcionar elementos de Juicio para realizar las adecuaciones a los programas y presupuestos.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
+
+###### ARTICULO 18.
+
+La Unidad de control y evaluación dependerá directamente del Presidente del Comité de Planeación para el Desarrollo del Estado de Nayarit y estará coordinado por el Secretario de la Contraloría General del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 1984)</small>
+
+###### ARTICULO 19.
+
+La Unidad de Control y Evaluación del Copladenay funcionará con el apoyo que las diferentes Dependencias y Organismos representados en su seno le proporcionen en base a sus propios recursos, ámbitos de competencia y a los compromisos asumidos colegiadamente sin la renuncia a las atribuciones que las Leyes les asignen.
 
 TRANSITORIO :
 
@@ -302,3 +344,7 @@ El presente Decreto entrará en vigor a partir del día primero de enero de mil 
 P.O. 6 DE JUNIO DE 1984.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE NOVIEMBRE DE 1984.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, del Gobierno del Estado.
