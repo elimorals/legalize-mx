@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-sanidad-animal-60"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1993-06-18"
-last_updated: "2000-06-12"
+last_updated: "2001-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFSA"
 
 LEY FEDERAL DE SANIDAD ANIMAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2001.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 18 de junio de 1993.
 
@@ -856,8 +856,12 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 D.O.F. 12 DE JUNIO DE 2000.
 
-PRIMERO.- Las reformas respecto de los puntos de verificación e inspección de la Ley y en concordancia con lo dispuesto en el artículo 28 de la misma, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, dejando a salvo únicamente los derechos de los puntos de verificación e inspección autorizados por la Secretaría de Agricultura, Ganadería y Desarrollo Rural en el extranjero, por un plazo de 12 meses, siempre y cuando cumplan con las siguientes instalaciones: espacio libre de patio de maniobras para cuando menos 40 camiones y, con un piso con carpeta asfáltica y revestimiento de grava o su equivalente; deberán contar con un mínimo de 8 puertas para recepción de camiones en el andén de transferencia con túnel refrigerado y controlado a una temperatura de 4ºC como máximo: deberán tener una capacidad mínima de bodega de refrigeración de 250 metros cúbicos y una bodega de congelación de 300 metros cúbicos.
+> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
-Lo anterior, hasta en tanto se construya y se apruebe la infraestructura necesaria en el territorio nacional, que deberá de contar como mínimo con las mismas instalaciones arriba mencionadas; éstos serán los únicos puntos de verificación e inspección autorizados, mismos que deberán cumplir y hacer cumplir las especificaciones y requisitos contenidos en la Norma Oficial Mexicana: NOM-030-ZOO-1994, otras Normas Oficiales Mexicanas, los que indique la Secretaría de Agricultura, Ganadería y Desarrollo Rural y, demás entidades de la Administración Pública Federal en el ámbito de sus respectivas competencias.
+PRIMERO.- Las reformas respecto de los puntos de verificación e inspección de la Ley y en concordancia con lo dispuesto por el artículo 28 de la misma, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, dejando a salvo únicamente los derechos de los puntos de verificación e inspección autorizados por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en el extranjero, por un plazo que no excederá del doce de diciembre del 2001, siempre y cuando cumplan con las siguientes instalaciones: espacio libre de patio de maniobras para cuando menos 40 camiones y con un piso con carpeta asfáltica y revestimiento de grava o su equivalente; deberán contar con un mínimo de 8 puertas para recepción de camiones en el andén de transferencia con túnel refrigerado y controlado a una temperatura de 4º C. como máximo; deberán tener una capacidad mínima de bodega de refrigeración de 250 metros cúbicos y una bodega de congelación de 300 metros cúbicos.
 
 SEGUNDO.- Las disposiciones de la presente reforma y adiciones a la Ley, no aplicarán a lo referente a animales vivos, los cuales podrán seguir siendo verificados e inspeccionados en territorio extranjero en concordancia con los acuerdos interinstitucionales signados por la Secretaría de Agricultura, Ganadería y Desarrollo Rural con otros Gobiernos.
+
+D.O.F. 1 DE JUNIO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
