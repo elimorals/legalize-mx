@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1993-12-03"
+last_updated: "1993-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1993.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -452,11 +452,13 @@ g).- Reciban o paguen las instituciones públicas que emitan bonos y administren
 
 h).- Deriven de valores a cargo del Gobierno Federal e inscritos en el Registro Nacional de Valores e Intermediarios, siempre que se cumplan los requisitos que para tal efecto señala la fracción XXI del artículo 77 de la Ley del Impuesto sobre la Renta.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
-i).- Deriven de títulos de crédito que sean de los que se consideran como colocados entre el gran público inversionista, conforme a las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
+i).- Deriven de títulos de crédito que sean de los que se consideran como colocados entre el gran público inversionista, conforme a las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público o de operaciones de préstamo de títulos, valores y otros bienes fungibles a que se refiere la fracción III del artículo 14-A del Código Fiscal de la Federación.
 
-XI.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+
+XI.- Por los que se deriven de operaciones financieras derivadas a que se refiere el artículo 16-A del Código Fiscal de la Federación.
 
 XII.- Los proporcionados a sus miembros como contraprestación normal por sus cuotas y siempre que los servicios que presten sean únicamente los relativos a los fines que les sean propios, tratándose de:
 
@@ -608,9 +610,9 @@ I.- Las que, en los términos de la legislación aduanera, no lleguen a consumar
 
 II.- Las de equipajes y menajes de casa a que se refiere la legislación aduanera.
 
-> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
-III.- Las de bienes cuya enajenación en el país y las de servicios por cuya prestación en territorio nacional, no den lugar al pago del impuesto al valor agregado, salvo la de oro que no sean en lingotes, o se les aplique la tasa del 0% y las de bienes muebles usados, únicamente cuando éstos sean de los mencionados en el artículo 2o.-A, fracción I, inciso e) y 9o., fracción III, de esta Ley.
+III.- Las de bienes cuya enajenación en el país y las de servicios por cuya prestación en territorio nacional, no den lugar al pago del impuesto al valor agregado o se les aplique la tasa del 0% y las de bienes muebles usados, únicamente cuando éstos sean de los mencionados en el artículo 2o-A, fracción I, inciso e) y 9o, fracción III de esta Ley.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -724,13 +726,17 @@ e).- Seguros y reaseguros, así como afianzamientos y reafianzamientos.
 
 f).- Operaciones de financiamiento.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
-V.- La transportación internacional de bienes prestada por residentes en el país.
+V.- La transportación internacional de bienes prestada por residentes en el país y los servicios portuarios de carga, descarga, alijo, almacenaje, custodia, estiba y acarreo dentro de los puertos e instalaciones portuarias, siempre que se presten en maniobras para la exportación de mercancías.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
 VI.- La transportación aérea de personas, prestada por residentes en el país, por la parte del servicio que en los términos del último párrafo del artículo 16 no se considera prestada en territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+
+Lo previsto en el primer párrafo de este artículo se aplicará a los residentes en el país que presten servicios personales independientes que sean aprovechados en su totalidad en el extranjero por residentes en el extranjero sin establecimiento o base fija en el país.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -908,9 +914,9 @@ II.- La enajenación de bienes o prestación de servicios cuando una u otra se e
 
 III.- Los bienes que integren el activo o sobre la utilidad o el capital de las empresas.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
-IV.- Intereses, los títulos de crédito y los productos o rendimientos derivados de su propiedad o enajenación.
+IV.- Intereses, los títulos de crédito, las operaciones financieras derivadas y los productos o rendimientos derivados de su propiedad o enajenación.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -1337,3 +1343,7 @@ D.O.F. 3 DE DICIEMBRE DE 1993.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
+
+D.O.F. 29 DE DICIEMBRE DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1994.
