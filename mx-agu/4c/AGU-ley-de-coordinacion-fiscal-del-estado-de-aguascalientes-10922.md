@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-coordinacion-fiscal-del-estado-de-aguascalientes-10922"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-03"
-last_updated: "1996-11-03"
+last_updated: "2004-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de noviembre de 1996.
 
@@ -77,19 +77,31 @@ XIII.- "Sistema", el Sistema de Coordinación Fiscal del Estado el cual consiste
 
 ### CAPITULO II. De las Participaciones e Incentivos a los Municipios en Ingresos Federales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTICULO 3o.
 
-Para efectos de esta Ley, son participaciones e incentivos, las asignaciones que correspondan al Estado y a los Municipios en los ingresos federales del Fondo General de Participaciones, del Fondo de Fomento Municipal, así como del Impuesto sobre Tenencia o Uso de Vehículos y del Impuesto Especial sobre Producción y Servicios, de conformidad con lo establecido en la Ley de Coordinación Fiscal de la Federación.
+Para efectos de esta Ley, son participaciones e incentivos, las asignaciones que correspondan al Estado y a los Municipios en los ingresos federales del Fondo General de Participaciones, del Fondo de Fomento Municipal, así como del Impuesto sobre Tenencia o Uso de Vehículos y del Impuesto Especial sobre Producción y Servicios y del Impuesto Especial sobre Automóviles Nuevos, de conformidad con lo establecido en la Ley de Coordinación Fiscal de la Federación.
 
 El Estado, por conducto de la Secretaría, partiendo de los Fondos establecidos en el Título Unico de esta Ley y de conformidad con lo establecido en esta normatividad, así como en la Ley de Coordinación Fiscal Federal, distribuirá a los municipios las participaciones e incentivos mencionados anteriormente, de la siguiente forma:
 
-I.- El 20% del Fondo General de Participaciones;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+
+I.- El 22% del Fondo General de Participaciones;
 
 II.- El 100% del Fondo de Fomento Municipal;
 
-III.- El 20% de la recaudación en el Estado del Impuesto Federal sobre Tenencia o Uso de Vehículos; y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
 
-IV.- El 20% de la recaudación que obtenga el Estado del Impuesto Especial sobre Producción y Servicios en los términos del Artículo 3-A de la Ley de Coordinación Fiscal Federal.
+III.- El 22% de la recaudación en el Estado del Impuesto Federal sobre Tenencia o Uso de Vehículos; y
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+
+IV.- El 22% de la recaudación que obtenga el Estado del Impuesto Especial sobre Producción y Servicios en los términos del artículo 3-A de la Ley de Coordinación Fiscal Federal; y
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+
+V.- El 22% de la recaudación en el Estado del Impuesto sobre automóviles Nuevos.
 
 Con el monto de las participaciones e incentivos mencionados anteriormente, se constituirán los fondos municipales que se mencionan en el Título Unico de este Capítulo.
 
@@ -131,11 +143,17 @@ III.- Cuando los Incentivos establecidos en las Constancias de Anticipo de la Fe
 
 El Fondo Complementario será distribuido entre los municipios de acuerdo a lo siguiente:
 
-I.- El 45% del mismo, en proporción directa al número de habitantes que tenga cada Municipio en el ejercicio fiscal de que se trate, calculado en base a la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, de acuerdo a sus fórmulas de actualización de habitantes por Municipio;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
 
-II.- El 45% del mismo, en razón directa a la recaudación de cada Municipio en materia de Impuesto Predial y Derechos por Consumo de Agua del año anterior para el cual se efectúa el cálculo. En caso de que el servicio de agua sea prestado por particulares, la recaudación será calculada en base a los criterios con los cuales la Secretaría de Hacienda y Crédito Público reconozca dicha recaudación al Estado; y
+I.- El 40% del mismo, en proporción directa al número de habitantes que tenga cada Municipio en el ejercicio fiscal de que se trate, calculado en base a la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, de acuerdo a sus fórmulas de actualización de habitantes por Municipio;
 
-III.- El 10% restante, calculado en forma inversamente proporcional a la suma de las operaciones efectuadas en los incisos I y II anteriores.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+
+II.- El 40% del mismo, en razón directa a la recaudación de cada Municipio en materia de Impuesto Predial y Derechos por Consumo de Agua del año anterior para el cual se efectúa el cálculo. En caso de que el servicio de agua sea prestado por particulares, la recaudación será calculada en base a los criterios con los cuales la Secretaría de Hacienda y Crédito Público reconozca dicha recaudación al Estado; y
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+
+III.- El 20% restante, calculado en forma inversamente proporcional a la suma de las operaciones efectuadas en los incisos I y II anteriores.
 
 Las cantidades que correspondan por este Fondo, serán calculadas de manera mensual y acumulativa, efectuando los ajustes en base a las proporciones y distribución del Fondo Básico Municipal.
 
@@ -149,9 +167,13 @@ Para obtener el remanente del Impuesto Especial sobre Producción y Servicios se
 
 La cantidad remanente que resulte será distribuida entre los municipios en base a lo siguiente:
 
-I.- El 90% del mismo, en proporción directa al número de habitantes que tenga cada Municipio en el ejercicio fiscal de que se trate, calculado en base a la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, de acuerdo a sus fórmulas de actualización de habitantes por Municipio; y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
 
-II.- El 10% restante calculado en forma inversamente proporcional a la suma de las operaciones efectuadas en el inciso anterior.
+I.- El 80% del mismo, en proporción directa al número de habitantes que tenga cada Municipio en el ejercicio fiscal de que se trate, calculado en base a la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, de acuerdo a sus fórmulas de actualización de habitantes por Municipio; y
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2004)</small>
+
+II.- El 20% restante calculado en forma inversamente proporcional a la suma de las operaciones efectuadas en el inciso anterior.
 
 Las cantidades que correspondan al excedente del Impuesto sobre Tenencia o Uso de Vehículos serán calculadas de manera mensual y acumulativa, efectuando los ajustes que correspondan en base a las proporciones y distribución del Fondo Básico Municipal.
 
@@ -334,3 +356,9 @@ Otto Granados Roldán.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jesús Orozco Castellanos.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 27 DE SEPTIEMBRE DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor el día 1º de enero del año 2005.
