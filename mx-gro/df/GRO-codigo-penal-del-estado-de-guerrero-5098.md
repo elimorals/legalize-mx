@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2003-12-05"
+last_updated: "2004-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1207,7 +1207,7 @@ II.- Al que realice cópula con persona, que independientemente de su edad se en
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
 
-141. Se aplicará de dieciocho a veintidos años de prisión y de ciento veinte a quinientos días multa:
+141. Se aplicará de dieciocho a veintidós años de prisión y de ciento veinte a quinientos días multa:
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1729,7 +1729,7 @@ No se impondrá pena alguna o quedarán sin efecto las que se hubiesen impuesto,
 
 > <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
 
-El agraviado o el representante podrá optar por demandar previamente ante las autoridades judiciales, el pago de la pensión alimenticia o podrá querellarse ante el Ministerio Público, por el delito que prevee este artículo.
+El agraviado o el representante podrá optar por demandar previamente ante las autoridades judiciales, el pago de la pensión alimenticia o podrá querellarse ante el Ministerio Público, por el delito que prevee (sic) este artículo.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1811,6 +1811,10 @@ VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
 193.- Al que contraiga nuevo matrimonio, sin hallarse legítimamente disuelto el anterior, se le impondrá prisión de 6 meses a 3 años o multa de 180 a 360 días de salario.
 
+### CAPITULO VI. INCESTO
+
+194.-A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que con conocimiento de su parentesco tengan cópula entre sí, se les impondrá prisión de tres meses a tres años.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 1999)</small>
 
 ### CAPITULO VII. VIOLENCIA INTRAFAMILIAR
@@ -1860,10 +1864,6 @@ En todos los casos se impondrán como medidas de seguridad, la separación del a
 Cuando exista reincidencia por parte del activo, se aumentará la pena en una tercera parte establecida entre el mínimo y el máximo.
 
 El delito de violencia intrafamiliar se perseguirá por querella, salvo que los ofendidos sean menores de edad o incapaces.
-
-### CAPITULO VI. INCESTO
-
-194.-A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que con conocimiento de su parentesco tengan cópula entre sí, se les impondrá prisión de tres meses a tres años.
 
 ### CAPITULO I. PELIGRO DE DEVASTACION
 
@@ -2691,17 +2691,9 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 289.- Al defensor de oficio que cometa alguno de los delitos a que se refiere el artículo anterior, se le sancionará, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por dos años.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 2004)</small>
 
-### CAPITULO UNICO. DELITOS AMBIENTALES
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
-
-300 (sic).- Se impondrá pena de uno a seis años de prisión y multa de cuarenta a doscientos días de salario, al que ponga en peligro la salud pública, la riqueza ecológica, provoque grave contaminación, degradación, esterilización o envenenamiento de tierras y aguas de jurisdicción local, dañe o contamine la atmósfera o difunda una enfermedad en las plantas o en los animales, con peligro de la economía rural o forestal o de la riqueza zoológica del Estado y de los ecosistemas, sin perjuicio de la imposición de las sanciones previstas por la Ley especial para estos ilícitos.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1996)</small>
-
-### CAPITULO UNICO. DELITOS ELECTORALES Y EN MATERIA DE REGISTRO ESTATAL DE CIUDADANOS
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
 
@@ -2713,41 +2705,85 @@ II.- Funcionarios partidistas, los dirigentes de los partidos políticos naciona
 
 III.- Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de cómputos distritales y, en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Consejo Estatal Electoral.
 
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+IV. Servidores públicos. Quienes se encuentren en los términos del artículo 110 de la Constitución Política del Estado.
+
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
 
 291.- Por la comisión de cualquiera de los delitos comprendidos en el presente capítulo se podrá imponer además la pena señalada, la inhabilitación de uno a cinco años y, en su caso, la destitución del cargo.
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
 
-292.- Se impondrá multa de diez a cien días de salario mínimo diario general vigente en el Estado o prisión de seis meses a dos años o ambas sanciones, a juicio del juez, a quien:
+292.- Se impondrá multa de veinte a doscientos días de salario mínimo diario general vigente en el Estado o prisión de seis meses a dos años o ambas sanciones a juicio del juez, a quien:
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
 
 I.- Vote a sabiendas que no cumple con los requisitos de ley;
 
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+
 II.- Vote más de una vez en una misma elección;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
 
 III.- Haga proselitismo o presione a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes;
 
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+
 IV.- Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
 
 V.- Recoja sin causa prevista por la ley, credenciales de elector de los ciudadanos;
 
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+
 VI.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
 
 VII.- Viole de cualquier manera el secreto del voto;
 
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+
 VIII.- Vote o pretenda votar con una credencial de la que no sea titular;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
 
 IX.- El día de la elección organice la reunión y traslado de votantes con el objeto de llevarlos a votar y de influir en el sentido de su voto;
 
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
+
 X.- Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales; destruya o altere boletas o documentos electorales;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1996)</small>
 
 XI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa; o
 
-XII.- Impida en forma violenta la instalación de una casilla.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+XII.- Impida la instalación de una casilla u obstaculice su funcionamiento o su clausura.
 
-293.- Se impondrá multa de hasta 500 días de salario mínimo diario general vigente en el Estado, a los ministros de cultos religiosos que, por cualquier medio, en el desarrollo de actos propios de su ministerio induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención.
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+XIII.- Durante los cinco días previos a la elección y hasta el cierre de las casillas, publique o difunda por cualquier medio, los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+XIV.- Retenga o destruya la credencial de elector el día de la jornada electoral, sin causa justificada;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+XV.- Teniendo fe pública, certifique hechos falsos relativos a la función electoral o sin causa justificada, se niegue a dar fe de los actos en que deba intervenir en los términos de ley, y
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+XVI.- Fije o haga propaganda electoral en lugares o días no permitidos por el Código Electoral del Estado.
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+293.- Se impondrá multa de cien a quinientos días de salario mínimo diario general vigente en el Estado o prisión de seis meses a dos años o ambas sanciones a juicio del juez, a los ministros de cultos religiosos que, por cualquier medio, en el desarrollo de actos propios de su ministerio induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención.
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
 
@@ -2775,6 +2811,14 @@ X.- Permita o tolere, a sabiendas, que un ciudadano emita su voto cuando no cump
 
 XI.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
 
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+XII.- Retuviere la credencial de elector el día de las elecciones sin causa justificada; y
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+XIII. Induzca la realización del escrutinio y cómputo en lugar distinto al señalado para tal efecto.
+
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
 
 295.- Se impondrá multa de cien a doscientos días de salario mínimo diario general vigente en el Estado y prisión de uno a seis años, al funcionario partidista que:
@@ -2791,6 +2835,10 @@ V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada ele
 
 VI.- Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la ley de la materia.
 
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2004)</small>
+
+VII.- Fije o haga propaganda electoral en lugares o días no permitidos por el Código Electoral del Estado.
+
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
 
 296.- Se impondrá multa de doscientos a cuatrocientos días de salario mínimo diario general vigente en el Estado y prisión de uno a nueve años, al servidor público que:
@@ -2801,21 +2849,45 @@ II.- Condicione la prestación de un servicio público, el cumplimiento de progr
 
 III.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo tales como vehículos, inmuebles y equipos, al apoyo de un candidato o partido político, sin perjuicio de las penas que puedan corresponder por el delito de peculado; o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicio a un partido político o a un candidato.
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
-
-297.- Se impondrá multa de setenta a doscientos días de salario mínimo diario general vigente en el Estado y prisión de tres a siete años, a quien de manera dolosa y por cualquier medio participe en la alteración del registro de electores, el padrón electoral y los listados nominales o la expedición ilícita de credenciales para votar.
+297.- (DEROGADO, P.O. 13 DE FEBRERO DE 2004)
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
 
 298.- Se impondrá prisión de uno a nueve años, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 296 de este Código.
 
-## TITULO V. DELITOS ELECTORALES Y EN MATERIA DE REGISTRO ESTATAL DE CIUDADANOS
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+299.- Se impondrá pena de 5 a 10 años de prisión y multa de 200 a 500 días de salario mínimo diario general vigente en el Estado, a quién:
+
+I.- Impida sin causa justificada, de cualquier forma, la distribución o entrega de la documentación oficial electoral a la autoridad electoral correspondiente antes de la jornada o al término de ésta;
+
+II.- Retenga, sustraiga o se apodere de la documentación a que alude la fracción III del artículo 290 de este Código antes, durante o después de la jornada electoral; y
+
+Se aplicará hasta en una mitad más de la sanción contenida en este artículo, si el agente activo es servidor público, funcionario partidista o electoral.
+
+III.- Siendo servidor público ya sea estatal o municipal, realice proselitismo o participe en la apertura o cierre de campañas a favor de un partido político o candidato a ocupar un cargo de elección popular, en días u horas de jornada laboral, en las que esté obligado a permanecer en su oficina.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2004)</small>
+
+299 Bis.- Se impondrá multa de cien a doscientos días de salario mínimo diario general vigente en el Estado y suspensión de sus derechos ciudadanos por un año, a quien habiendo sido electo para desempeñar cargo de elección popular del Estado o del Municipio, no se presente a desempeñarlo, en los plazos, términos y condiciones que establecen la Constitución Política del Estado y las Leyes Secundarias respectivas.
+
+Igual pena se aplicará a quien sin mediar resolución de autoridad competente, impida por cualquier medio, que la persona electa popularmente inicie el desempeño de su cargo.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 1999)</small>
+
+### CAPITULO UNICO. DELITOS AMBIENTALES
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
+
+300.- Se impondrá pena de uno a seis años de prisión y multa de cuarenta a doscientos días de salario, al que ponga en peligro la salud pública, la riqueza ecológica, provoque grave contaminación, degradación, esterilización o envenenamiento de tierras y aguas de jurisdicción local, dañe o contamine la atmósfera o difunda una enfermedad en las plantas o en los animales, con peligro de la economía rural o forestal o de la riqueza zoológica del Estado y de los ecosistemas, sin perjuicio de la imposición de las sanciones previstas por la Ley especial para estos ilícitos.
+
+## TITULO V. DELITOS ELECTORALES
 
 > <small>(ADICIONADA CON EL CAPITULO Y ARTICULO QUE LA INTEGRAN, P.O. 20 DE ABRIL DE 1999)</small>
 
 #### SECCION QUINTA
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACION, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2932,3 +3004,9 @@ P.O. 5 DE DICIEMBRE DE 2003.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE FEBRERO DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para sus efectos constitucionales y publicación en el Periódico Oficial del Gobierno del Estado.
