@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1985-01-31"
+last_updated: "1985-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1985.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -203,7 +203,13 @@ Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se 
 
 En todo juicio del orden criminal tendrá el acusado las siguientes garantías:
 
-I.- Inmediatamente que lo solicite será puesto en libertad bajo fianza que fijaráel (sic) juez, previstas sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito merezca ser castigado con pena corporal cuyo término medio aritmético no sea mayor de cinco años de prisión y sin más requisitos que poner la suma de dinero respectivo a disposición de la autoridad u otorgar caución hipetacaria (sic) o personal bastante para asegurarla, bajo la responsabilidad del juez en su aceptación. en ningún caso la fianza o caución será mayor de $250,000.00 a no ser que se trate de un delito que revista para su autor un beneficio económico o cause a la víctima un daño patrimonial, casos éstos en que la garantía será, cuando menos, tres veces mayor al beneficio obtenido o al daño ocasionado.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1985)</small>
+
+I.- Inmediatamente que lo solicite será puesto en libertad provisional bajo caución, que fijará el juzgador, previstas sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito, incluyendo sus modalidades, merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión y sin más requisitos que poner la suma de dinero respectiva, a disposición de la autoridad judicial u otorgar otra caución bastante para asegurarla, bajo la responsabilidad del juzgador en su aceptación.
+
+La caución no excederá de la cantidad equivalente a la percepción durante dos años del salario mínimo general vigente, en el lugar en que se cometió el delito. Sin embargo, la autoridad judicial, en virtud de la especial gravedad del delito, las particulares circunstancias personales del imputado o de la víctima, mediante resolución motivada, podrá incrementar el monto de la caución hasta la cantidad equivalente a la percepción durante cuatro años del salario mínimo vigente en el lugar en que se cometió el delito.
+
+Si el delito es intencional y representa para su autor un beneficio económico o causa a la víctima daño y perjuicio patrimonial, la garantía será cuando menos tres veces mayor al beneficio obtenido o a los daños y perjuicios patrimoniales causados. Si el delito es preterintencional o imprudencial, bastará que se garantice la reparación de los daños y perjuicios patrimoniales, y se estará a lo dispuesto en los dos párrafos anteriores.
 
 II.- No podrá ser compelido a declarar en su contra, por lo cual estáprohibida (sic) la incomunicación o cualquier otro medio que tienda a aquel objeto.
 
@@ -1894,3 +1900,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 31 DE ENERO DE 1985.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE FEBRERO DE 1985.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 15 de Julio de 1985.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
