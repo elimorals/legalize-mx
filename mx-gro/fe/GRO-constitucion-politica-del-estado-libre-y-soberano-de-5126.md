@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1931-12-23"
+last_updated: "1932-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1931.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1932.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -173,9 +173,9 @@ La Capital del Estado es la Ciudad de Chilpancingo de los Bravos, donde deben re
 
 El territorio del Estado comprende el que le señaló la ley de su creación, con la modificación contenida en el Decreto número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1931)</small>
+> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1932)</small>
 
-Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Xochixtlahuaca, Tlacoachixtlahuaca, Cuajinicuilapa, Taxco de Alarcón, Tetipac, Teloloapan, Cuetzala del Progreso, Ixcateopan, Pedro Ascencio Alquisiras, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyu, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo, Atenango del Río, Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo, Tlacotepec, Tecpan de Galeana, Atoyac de Alvarez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco de Trujano, Cocula, Huitzuco, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, Arcelia, La Unión, Coahuayutla de Guerrero, Tlapa, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomixtlahuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlauhac, Malinaltepec, Tenango Tepexi, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Alpoyeca, Xochihuehuetlán; Cualac y Olinalá; Pilcaya.
+Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Tlacoachixtlahuaca, Cuajinicuilapa, Taxco de Alarcón, Tetipac, Teloloapan, Cuetzala del Progreso, Ixcateopan, Pedro Ascencio Alquisiras, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyu, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo, Atenango del Río, Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo, Tlacotepec, Tecpan de Galeana, Atoyac de Alvarez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco de Trujano, Cocula, Huitzuco, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, Arcelia, La Unión, Coahuayutla de Guerrero, Tlapa, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomixtlahuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlauhac, Malinaltepec, Tenango Tepexi, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Alpoyeca, Xochihuehuetlán; Cualac y Olinalá; Pilcaya.
 
 Las Municipalidades expresadas, conservan la integridad territorial que hasta ahora han reconocido, a reserva de ampliarla o reducirla y de suprimir las que no tengan viabilidad, según lo exijan los intereses generales del Estado.
 
@@ -429,7 +429,7 @@ XIII. Autorizarlo así mismo para que celebre toda clase de contratos relativos 
 
 XIV. Decretar los arbitrios Municipales, teniendo en cuenta las proposiciones que sobre el particular hagan los Ayuntamientos respectivos; revisar y aprobar las cuentas que éstos presenten por el ejercicio económico anterior, y aprobar y revisar los Presupuestos para el año siguiente.
 
-XV. Resolver sobre la validez o nulidad de las elecciones de Ayuntamientos, cuando haya dudas acerca de ellas, previo informe del Ejecutivo.
+XV. (DEROGADA, P. O. 28 DE DICIEMBRE DE 1932)
 
 XVI. Habilitar a los menores de edad, en quienes concurran los requisitos necesarios, para que administren libremente sus bienes.
 
@@ -679,15 +679,13 @@ IX. Arrestar a cualquiera persona cuando lo exija la tranquilidad pública, y as
 
 X. Imponer gubernativamente las penas correccionales, pecuniarias o de reclusión, a que se refiere el artículo 21 de la Constitución general.
 
-XI. Suspender con causa justificada, a los Ayuntamientos o alguno de sus miembros, dando cuenta al Congreso o a la Diputación Permanente, en su caso, con el expediente, respectivo para que determine lo conveniente.
+XI. (DEROGADA, P.O. 28 DE DICIEMBRE DE 1932)
 
 XII. Celebrar los contratos que deban hacerse en el Estado para la apertura y construcción de caminos, puentes, calzadas y demás obras públicas que fueren necesarias para el mejoramiento y progreso material del mismo; prefiriendo para la ejecución de dichos contratos la forma de subasta pública, siempre que el contrato sea de mil pesos en adelante, mediante convocatorias que al efecto expida en demanda de postores.
 
 XIII. Informar al Tribunal Superior de Justicia de las faltas que cometan los Jueces inferiores.
 
-XIV. Mandar visitar los Ayuntamientos cuando notare irregularidades, faltas o graves deficiencias en el funcionamiento y marcha administrativa de dichas corporaciones.
-
-Las visitas respectivas podrá encomendarlas a comisionados accidentales de reconocida justificación y probidad, los que se sujetarán en todo caso, a las instrucciones que por escrito les diere el Ejecutivo.
+XIV. (DEROGADA, P.O. 28 DE DICIEMBRE DE 1932)
 
 > <small>(REFORMADA P.O. 22 DE ENERO DE 1930)</small>
 
@@ -971,7 +969,9 @@ La presente Constitución puede ser adicionada o reformada por el H. Congreso de
 
 I. Presentar una iniciativa, suscrita cuando menos por dos Diputados o por el Gobernador.
 
-IV (SIC). Discutir el dictamen y aprobado que sea por la mayoría absoluta de los Diputados que forman el H. Congreso, enviarlo a los Ayuntamientos para que manifiesten si aprueban o no las reformas, adiciones o supresiones propuestas. Es obligación de los Ayuntamientos manifestar su conformidad o inconformidad con las reformas o adiciones propuestas y se tendrán por conformes con ellas a los que, en el término de sesenta días, no contestaren en sentido afirmativo o en el negativo.
+> <small>(DEROGADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 1932)</small>
+
+II. Discutir el dictamen y aprobado que sea por la mayoría absoluta de los Diputados que forman el H. Congreso, enviarlo a los Ayuntamientos para que manifiesten si aprueban o no las reformas, adiciones o supresiones propuestas. Es obligación de los Ayuntamientos manifestar su conformidad o inconformidad con las reformas o adiciones propuestas.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 1931)</small>
 
@@ -1166,3 +1166,15 @@ P.O. 23 DE DICIEMBRE DE 1931.
 DECRETO NUMERO 29.
 
 Este Decreto comenzará a surtir sus efectos a partir del día 1° de enero del año de 1932.
+
+P.O. 28 DE DICIEMBRE DE 1932.
+
+DECRETO NUMERO 79, DE LA LEY QUE ESTABLECE LA AUTONOMIA MUNICIPAL Y REFORMA A LA CONSTITUCION POLITICA DEL ESTADO.
+
+El presente Decreto comenzará a surtir sus efectos a partir del día primero de enero de 1933.
+
+P.O. 28 DE DICIEMBRE DE 1932.
+
+DECRETO NUMERO 80.
+
+El presente Decreto entrará en vigor desde la fecha de su publicación.
