@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1997-04-25"
+last_updated: "1997-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1997
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1157,7 +1157,17 @@ Es objeto de este Impuesto la realización de pagos en efectivo o en especie por
 
 Para los efectos de este gravamen se consideran remuneraciones al trabajo personal, todas las contraprestaciones, cualquiera que sea el nombre con el que se les designe, ya sea ordinarias o extraordinarias, incluyendo viáticos, gastos de representación, comisiones, premios, gratificaciones, fondo de ahorro, donativos, primas, aguinaldo, tiempo extra, despensas, alimentación y otros conceptos de naturaleza semejante, aún cuando se eroguen en favor de personas que, teniendo su domicilio en Nuevo León, por motivo de su trabajo, presten trabajo personal subordinado fuera del Estado. Son también objeto de este impuesto los pagos realizados a los Directores, Gerentes, Administradores, Comisarios, Miembros del (sic) los Consejos Directivos o de Vigilancia de Sociedades o Asociaciones.
 
-Son también objeto de este impuesto los pagos realizados a los Directores, Gerentes, Administradores, Comisarios, miembros de los consejos directivos o de vigilancia de sociedades o asociaciones.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+También son objeto de este impuesto, los pagos que se realicen por concepto de honorarios a personas que presten servicios preponderantemente a un prestatario, siempre que los mismos se lleven a cabo en las instalaciones de este último.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+Para los efectos del párrafo anterior se entiende que una persona presta servicios preponderantemente a un prestatario, cuando los ingresos que hubiera percibido de dicho prestatario en el año de calendario inmediato anterior, representen más del 50% del total de los obtenidos por la prestación de servicios independientes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+Antes de que se efectúe el primer pago de honorarios en el año de calendario de que se trate, las personas a que se refiere el párrafo anterior, deberán comunicar por escrito al prestatario en cuyas instalaciones se realice la prestación del servicio, si los ingresos que obtuvieron de dicho prestatario en el año inmediato anterior excedieron del 50% del total de los percibidos en dicho año de calendario. En caso de que se omita dicha comunicación, el prestatario estará obligado a efectuar el pago del impuesto.
 
 ###### ARTICULO 155.
 
@@ -1180,6 +1190,14 @@ El pago del impuesto deberá efectuarse a más tardar el día quince del mes sig
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas, excepto cuando el contribuyente presente el aviso de suspensión respectivo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+Los contribuyentes que en el año inmediato anterior hayan efectuado pagos mensuales, cuyo monto anual globalizado del impuesto no hubiere excedido de 100 cuotas, podrán realizar el pago del impuesto en forma trimestral a más tardar el día quince de los meses de Abril, Julio, Octubre y Enero.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+Los contribuyentes que se encuentren en los supuestos a que se refiere el párrafo anterior, para ejercer la opción de pago trimestral deberán presentar previamente un aviso por escrito ante la Secretaría de Finanzas y Tesorería General del Estado, manifestando que efectuarán los pagos del impuesto en forma trimestral, respecto del trimestre siguiente a aquél en que se presente el aviso. En tanto no se inicie la obligación de pago trimestral de acuerdo al aviso, deberán realizarse los pagos mensuales en los términos del primer párrafo de este artículo.
 
 ###### ARTICULO 159.
 
@@ -1220,6 +1238,10 @@ d).- Indemnizaciones por rescición (sic) o terminación, que tengan su origen e
 e).- Pagos por gastos funerarios;
 
 f).- Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+g) Fondos de ahorro, despensas y alimentación.
 
 II.- Las erogaciones que efectúen:
 
@@ -1262,6 +1284,66 @@ a) Las erogaciones realizadas, declaradas en los últimos doce meses.
 b) Las manifestaciones presentadas por concepto de Impuesto sobre la Renta, Sobre Productos del Trabajo en los últimos doce meses.
 
 c) Las actividades realizadas por el causante, y otros datos que puedan utilizarse, a través de prácticas de visitas domiciliarias.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 160 Bis
+
+1. - Las personas físicas con actividades empresariales y las morales a que se refiere el artículo 155, podrán dictaminar por contador público registrado sus estados financieros, con relación al Impuesto Sobre Nóminas.
+
+Para tal efecto y mediante escrito libre, podrán dar aviso a la Secretaría de Finanzas y Tesorería General del Estado, que optan por dictaminar sus estados financieros en materia del Impuesto sobre Nóminas y presentar el dictamen respectivo, en un plazo no mayor de 15 días hábiles, contados a partir de la fecha del escrito respectivo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 160 Bis
+
+2. - Las visitas domiciliarias ordenadas para verificar el cumplimiento del Impuesto Sobre Nóminas podrán concluirse anticipadamente, cuando el visitado antes del inicio de la auditoría hubiere presentado el aviso que consigna el artículo anterior, siempre que el escrito correspondiente cumpla los requisitos indicados en dicho precepto.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 160 Bis
+
+3.- El contador público registrado que desee dictaminar estados financieros con relación al Impuesto Sobre Nóminas, deberá reunir los siguientes requisitos:
+
+I.- Mediante escrito libre, solicitar la inscripción de su cédula profesional en el libro que para tal efecto se lleve en la Secretaría de Finanzas y Tesorería General del Estado y anexar constancia de la autorización para dictaminar estados financieros expedida por la Secretaría de Hacienda y Crédito Público.
+
+II.- Comunicar a la Secretaría de Finanzas y Tesorería General del Estado, lo siguiente:
+
+a) El nombre o denominación social de las personas físicas con actividades empresariales o morales por las cuales dictamina sus estados financieros; así como el número de su registro al padrón estatal en materia del Impuesto Sobre Nóminas.
+
+b) Número de registro asignable por la autoridad federal competente, al despacho contable en que preste sus servicios y en su caso, el nombre de los contadores públicos autorizados para dictaminar, que prestan sus servicios a las personas físicas con actividades empresariales o morales, señaladas en la relación que presente con base al inciso anterior.
+
+El contador público registrado, se compromete a informar a la Secretaría de Finanzas y Tesorería General del Estado, en un plazo no mayor de 15 días hábiles, los cambios que hubiere a los datos asentados en los puntos que anteceden. X
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 160 Bis
+
+4.- El dictamen que practique el contador público registrado, deberá reunir los requisitos del Artículo 52 del Código Fiscal del Estado y su revisión se sujetará a las siguientes formalidades del procedimiento:
+
+I.- La autoridad fiscal en el ejercicio de sus facultades de comprobación, requerirá indistintamente al contador público registrado que elaboró el dictamen, al contribuyente revisado, o a los terceros relacionados con el contribuyente o responsable solidario.
+
+a) Tratándose del contador público registrado, la autoridad fiscal podrá solicitarle, por escrito con copia al contribuyente, lo siguiente:
+
+1.-Cualquier información que, conforme al Código deberá de estar incluida en los estados financieros dictaminados para efectos fiscales.
+
+2.- La exhibición de los papeles de trabajo elaborados con motivo de la auditoría practicada; los cuales, en todo caso, se entiende que son propiedad del contador público.
+
+3.- La información que se considere pertinente para cerciorarse del cumplimiento de las obligaciones fiscales del contribuyente.
+
+4.- La exhibición de los sistemas y registros contables y documentación original.
+
+b) Por lo que se refiere al contribuyente, la autoridad fiscalizadora estará facultada para requerir por escrito, con copia al contador público registrado, la información que se considere pertinente para cerciorarse del cumplimiento de sus obligaciones fiscales, así como la exhibición de sus sistemas y registros contables y documentación original correspondiente.
+
+c) Por lo que respecta a los terceros relacionados con los contribuyentes o responsables solidarios en los términos del Artículo 27 del Código Fiscal del Estado, la información y documentación que consideren necesaria para verificar si son ciertos los datos consignados en el dictamen.
+
+II.- En los términos del último párrafo del artículo 44 del Código Fiscal del Estado, se considera que se inicia el ejercicio de facultades de comprobación en relación con los contribuyentes que hayan presentado sus estados financieros dictaminados, cuando la autoridad fiscal competente lleve a cabo alguno de los actos señalados en los incisos b) y c) de la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 160 Bis
+
+5. - Cuando este notificada una orden de visita domiciliaria pero no se haya iniciado la revisión documental, tomando en cuenta los antecedentes del contribuyente, respecto del cumplimiento de las obligaciones en materia de este impuesto, se le podrá autorizar el dictaminarse por los dos ejercicios anteriores a la fecha de la visita. En este caso se le notificará dicha autorización dentro de un plazo de 30 días naturales siguientes a la solicitud respectiva.
 
 ###### ARTICULO 161.
 
@@ -2079,6 +2161,10 @@ En ningún caso la cantidad a pagar será inferior a ….. 4 cuotas
 
 IX.- Por certificado de no inscripción de inmuebles ….. $40.00
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+Por certificado de inscripción de inmuebles, por cada inmueble o lote………………..… 1 cuota
+
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 X.- Por certificado de gravámenes o de libertad de gravámenes, por cada inmueble o lote ….. $52.00
@@ -2130,6 +2216,10 @@ XVII.- Por la presentación de aviso testamentario ….. 3 cuotas
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 XVIII.- Por la expedición de informes sobre la existencia o inexistencia de Testamentos ….. 3 cuotas
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+Las inscripciones que se realicen con motivo de aseguramientos o embargos ordenados por las autoridades judiciales federales, la Procuraduría General de la República o las Agencias del Ministerio Público Federales, no generarán pago de los derechos a que se refiere este artículo. Así mismo, no se pagarán los derechos previstos en la fracción IV de este artículo, tratándose de resoluciones judiciales o de Tribunales de Conciliación y Arbitraje, ya sea federales o estatales, que ordenen la cancelación de la inscripción de un embargo trabado sobre bienes o derechos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2465,9 +2555,9 @@ Tratándose de establecimientos ubicados en los demás municipios, cubrirán el 
 
 II.- Por la inscripción de contratos de arrendamiento de bienes inmuebles, a solicitud del particular, cada uno:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-a) Si el importe de la renta calculado al mes no excede de $500.00 ….. $18.00
+a) Si el importe de la renta calculado al mes no excede de 20 Cuotas …… $ 18.00
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2589,9 +2679,13 @@ XVI.- Por alta en el padrón vehicular, a los vehículos mencionados en la fracc
 
 XVII.- Por baja de vehículos del padrón vehicular 2.5 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-Tratándose de vehículos por los cuales deba pagarse el Impuesto Sobre Tenencia o uso de Vehículos, no se dará ningún trámite si no se acredita estar al corriente en el pago del referido impuesto, debiendo acreditarse además que no existe infracción alguna por violación al Reglamento de Tránsito en vigor.
+XVIII.- Por expedición de constancias y certificaciones……………. 1 cuota
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+Tratándose de vehículos por los cuales deba pagarse el Impuesto Sobre Tenencia o Uso de Vehículos, no se dará ningún trámite si no se acredita estar al corriente en el pago del referido impuesto.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2749,6 +2843,8 @@ X.- Por expedición de certificaciones relativas a los derechos patrimoniales de
 
 ## TITULO CUARTO. De los Productos
 
+(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
+
 ### CAPITULO SEXTO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Urbano y Obras Públicas
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
@@ -2767,9 +2863,9 @@ Por los predios resultantes de hasta 250 metros cuadrados de superficie y los qu
 
 Por información de factibilidad y lineamientos de los usos de suelo urbanos y de las edificaciones 2 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-II.- Por inicio de trámite de licencia de uso de suelo o de edificación, por metro cuadrado de construcción, conforme a la siguiente tarifa:
+II.- Por inicio de trámite de licencia de uso de suelo o de edificación, por unidad de edificación o vivienda o por superficie de terreno, conforme a la siguiente tarifa:
 
 a) Hasta 100 m2. ….. 6 cuotas
 
@@ -2781,9 +2877,9 @@ d) Mayor de 500 m2 y hasta 1,000 m2 ….. 24 cuotas
 
 e) Mayor de 1,000 m2. ….. 30 cuotas
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-III.- Por la licencia de uso de suelo o de edificaciones, por metro cuadrado de construcción, excluyendo los estacionamientos, conforme a la siguiente tarifa:
+III.- Por la licencia de uso de suelo o de edificaciones, por unidad de edificación o vivienda o por superficie de terreno, conforme a la siguiente tarifa:
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2805,9 +2901,9 @@ d) Mayor de 500 m2 y hasta 1,000 m2. ….. 24 cuotas
 
 e) Mayor de 1,000 m2. ….. 30 cuotas
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-Adicionalmente se cubrirá una cantidad adicional, por metro cuadrado de construcción, conforme a la siguiente tarifa:
+Adicionalmente se cubrirá una cantidad complementaria, por metro cuadrado de construcción, excluyendo estacionamientos, conforme a la siguiente tarifa:
 
 a) Hasta 100 m2 ….. $2.50
 
@@ -2865,17 +2961,21 @@ C. Lotes con superficie mayor de 300 metros cuadrados $6.00
 
 3.- Industriales ubicados en los Municipios de Apodaca, Escobedo, Guadalupe y Juárez $1.95
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-4.- Campestres ubicados en los Municipios de San Pedro Garza García, Monterrey y Santiago $3.75
+4.- Campestres ubicados en los Municipios de Monterrey, San Pedro Garza García, Santa Catarina y Santiago……………………………………………………………………………………$ 3.75
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 5.- Campestres ubicados en el resto del Estado $.25
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
-6.- Otros $3.75
+6.- Otros ubicados en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santiago y Santa Catarina ...$ 3.75
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+
+7.- Otros ubicados en el resto del Estado…$.25
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2916,8 +3016,6 @@ VIII.- Por la expedición de diversas constancias y certificaciones 2.5 cuotas
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 IX.- Por información de alineamiento de la vialidad 1.5 cuotas
-
-(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 31 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 278.
 
@@ -3338,3 +3436,25 @@ Durante el año de 1997, los derechos por servicios prestados en el Registro Pú
 P.O. 25 DE ABRIL DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1º de Enero de 1998.
+
+###### ARTICULO SEGUNDO.
+
+Los contribuyentes que ejerzan la opción a que se refiere el tercer párrafo del Artículo 158 de la Ley de Hacienda del Estado, que presenten el aviso a que se refiere el cuarto párrafo de dicho Artículo a mas tardar el 31 de Enero de 1998, deberán realizar el pago trimestral respecto del primer trimestre de 1998.
+
+###### ARTICULO TERCERO.
+
+Durante el año de 1998, los Derechos por Servicios prestados en el Registro Público de la Propiedad y del Comercio se cubrirán a una tarifa especial de 50 cuotas, en la inscripción de documentos en los que se consignen adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, realizadas por contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
+
+###### ARTICULO CUARTO.
+
+Los derechos previstos en el Artículo 276 bis, fracción V, inciso b), numeral 7, se aplicarán exclusivamente a los trámites urbanísticos que se inicien a partir de la vigencia de este Decreto.
+
+###### ARTICULO QUINTO.
+
+Durante 1998 no se cubrirán los ingresos previstos en los Artículos 281 y 282 de la Ley de Hacienda del Estado.
