@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2001-11-09"
+last_updated: "2002-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -203,9 +203,15 @@ De la zonificación.- Para la expedición de permisos que autoricen cualesquiera
 
 ### CAPÍTULO TERCERO. DE LOS PERMISOS MUNICIPALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2002)</small>
+
 ###### ARTÍCULO 10.
 
-De los Permisos Municipales.- Para realizar bajo cualesquier concepto, alguna de las actividades a que se refiere la presente Ley, se requiere permiso previo, otorgado mediante acuerdo de Cabildo del Ayuntamiento correspondiente, expedido bajo la modalidad de eventual o permanente y conforme a la clasificación establecida por esta Ley y el Reglamento.
+De los Permisos Municipales.- Para realizar bajo cualesquier concepto, alguna de las actividades a que se refiere la presente Ley, se requiere permiso previo, el cual podrá ser otorgado en la modalidad de permanente o eventual y conforme a la clasificación establecida por esta Ley y el Reglamento.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Los permisos permanentes serán otorgados por acuerdo de Cabildo del Ayuntamiento correspondiente, y para el caso del otorgamiento de permisos eventuales, el Ayuntamiento designará a la autoridad municipal que se encargará de expedir los mismos, la cual deberá rendir un informe al Cabildo de los permisos que se hubieren otorgado, en los términos que señale el reglamento.
 
 La expedición de los permisos y la autorización de servicios adicionales, así como la modificación y revalidación anual de los mismos y los demás trámites que se generen con motivo de la aplicación de esta Ley y los reglamentos Municipales, causarán los derechos que determinen las Leyes de Ingresos Municipales correspondientes, excepto cuando la actividad solicitada se refiera exclusivamente al establecimiento o giro de restaurante con venta para consumo con alimentos, de vinos de mesa de producción nacional. En este caso, el permiso que se otorgue contendrá la condición de que el permisionario únicamente venda para consumo o almacene en el establecimiento, vinos de mesa que lleven impreso en su etiqueta la leyenda "Hecho en México", perdiendo el beneficio al momento de vender, almacenar o permitir el consumo de cualquier otro tipo de bebida alcohólica o vinos de mesa de origen distinto al Mexicano.
 
@@ -498,3 +504,9 @@ LIC. ALEJANDRO GONZALEZ ALCOCER
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P. JORGE RAMOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE ABRIL DE 2002.
+
+UNICO.- La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
