@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "1991-01-19"
+last_updated: "1992-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1992.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -177,35 +177,35 @@ Cuando alguna dependencia necesite informes, datos o la cooperación técnica de
 
 Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo del Estado contará con las siguientes dependencias:
 
-Secretaría de Gobierno.
+Secretaría de Gobierno
 
-Dirección General de Finanzas.
+Dirección General de Finanzas
 
-Dirección General de Administración.
+Dirección General de Administración
 
-Dirección General de Fomento Económico.
+Dirección General de Fomento Económico
 
-Dirección General de Desarrollo Social.
+Dirección General de Desarrollo Social
 
-Dirección General de Comunicaciones y Obras Públicas.
+Dirección General de Comunicaciones y Obras Públicas
 
-Dirección General de Desarrollo Urbano y Vivienda.
+Dirección General de Desarrollo Urbano y Ecología
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+Dirección General de Desarrollo Rural
 
-Dirección General de Desarrollo Rural.
-
-Procuraduría General de Justicia.
+Procuraduría General de Justicia
 
 Adscritas directamente al Ejecutivo existirán las siguientes unidades de apoyo y asesoría:
 
-Coordinación de Planeación y Evaluación.
+Coordinación de Planeación y Evaluación
 
-Coordinación de Fortalecimiento Municipal.
+Coordinación de Fortalecimiento Municipal
 
-Coordinación de Comunicación Social.
+Coordinación de Comunicación Social
 
 ### CAPITULO II. DE LA COMPETENCIA DE LA SECRETARIA DE GOBIERNO, PROCURADURIA GENERAL DE JUSTICIA Y DIRECCIONES GENERALES
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 25.
 
@@ -405,11 +405,11 @@ X.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relació
 
 XI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 31.
 
-A la Dirección General de Desarrollo Urbano, corresponde el despacho de los siguientes asuntos:
+A la Dirección General de Desarrollo Urbano y Ecología corresponde el despacho de los siguientes asuntos:
 
 I.- Elaborar y mantener actualizado el Plan Estatal para el Desarrollo Urbano;
 
@@ -427,15 +427,21 @@ VII.- Regularizar los asentamientos humanos y urbanizar los que sean susceptible
 
 VIII.- Estudiar y aprobar en su caso, los expedientes relativos al denuncio y enajenación de terrenos municipales y proyectar la dotación de fundos legales a las poblaciones del Estado;
 
-IX.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 1992)</small>
 
-X.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
+IX.- Proponer al titular del Ejecutivo la política que rija al Estado en materia ecológica, lo que deberá hacer atendiendo los principios normadores relativos a la protección del ambiente;
 
-XI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 1992)</small>
 
-> <small>(REFORMADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE LA VIVIENDA DEL ESTADO DE CHIHUAHUA, P.O. 8 DE AGOSTO DE 1987)</small>
+X.- Ejecutar la política ecológica aprobada, tendiendo siempre a la protección del agua, suelo y atmósfera de acuerdo a la delimitación legal de competencia, respetando los medios para ello previstos;
 
-XII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de Desarrollo Urbano, así como vigilar la organización y funcionamiento de los Departamentos que ejerzan las atribuciones anteriores; y
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 1992)</small>
+
+XI.- Proponer la celebración de acuerdos de coordinación con la Federación, Entidades Federativas o Municipios, y concertar acciones con los diversos sectores sociales en las materias de la Ley Ecológica para el Estado de Chihuahua;
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 1992)</small>
+
+XII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de Desarrollo Urbano y Ecología, así como vigilar la organización y funcionamiento de los Departamentos que ejerzan las atribuciones anteriores;
 
 XIII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
@@ -686,3 +692,9 @@ Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico
 ###### ARTICULO SEGUNDO.
 
 Se modifica la fracción VI del artículo 29 de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua ...
+
+P.O. 8 DE ENERO DE 1992.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el 24 de enero de 1992.
