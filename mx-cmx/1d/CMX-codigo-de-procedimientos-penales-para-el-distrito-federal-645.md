@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1965-12-06"
+last_updated: "1971-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO Y TERRITORIOS FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE DICIEMBRE DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE MARZO DE 1971.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -120,6 +120,8 @@ En el segundo caso del artículo 6° el Agente del Ministerio Público presentar
 
 ### CAPITULO II. Competencia
 
+(REFORMADO, D.O.F. 19 DE MARZO DE 1971) (F. DE E., D.O.F. 7 DE MAYO DE 1971)
+
 ###### ARTICULO 9º.
 
 La persona ofendida por un delito, podrá poner a disposición del Ministerio Público y del Juez Instructor todos los datos que conduzcan a establecer la culpabilidad del acusado y a justificar la reparación del daño.
@@ -134,7 +136,15 @@ El Ejecutivo, a medida que lo permitan las condiciones económicas de las Delega
 
 ###### ARTICULO 10.
 
-Los Jueces de Paz en el Ramo Penal conocerán de los delitos que tengan como sanción apercibimiento, caución de no ofender, multa cuyo máximo sea de cincuenta pesos o prisión cuyo máximo sea de seis meses. De todos los demás delitos conocerán las Cortes Penales o Jueces de Primera Instancia del Distrito y Territorios Federales. Estas reglas se entienden salvo los casos de la competencia del Jurado, señalados en la Constitución Federal.
+Los Jueces Mixtos de Paz del Primer Partido Judicial y los Jueces Menores Mixtos de los restantes Partidos Judiciales, conocerán en materia penal, en procedimiento sumario, de los delitos que tengan como sanción apercibimiento, caución de no ofender, multa, independientemente de su monto, o prisión cuyo máximo sea de un año. En caso de que se trate de varios delitos, se estará a la pena del delito mayor.
+
+Fuera de la competencia a que se refiere el párrafo anterior, los jueces penales conocerán tanto de los procedimientos ordinarios como de los sumarios.
+
+En los Territorios Federales tanto el procedimiento ordinario como el sumario se llevarán a cabo ante los Jueces de Primera Instancia, salvo la competencia que resulte en favor de los Jueces Menores por razón de la pena aplicable al delito de que se trate.
+
+Cuando se trate de varios delitos, el juez mixto de paz o menor, en su caso, serán competentes para dictar la sentencia correspondiente, aunque ésta pueda ser mayor de un año de prisión, a virtud de las reglas contenidas en los artículos 58, 64 y 65 del Código Penal.
+
+Estas reglas se entienden con la salvedad de los casos de competencia del jurado, señalados en la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 11.
 
@@ -1582,6 +1592,22 @@ Si el acusado o su defensor solicitare la libertad caucional, los funcionarios m
 
 En todo caso, el funcionario que conozca de un hecho delictuoso, hará que tanto el ofendido como el presunto responsable, sean examinados inmediatamente por los médicos legistas, para que éstos dictaminen con carácter provisional, acerca de su estado psico-fisiológico.
 
+> <small>(ADICIONADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
+En las averiguaciones que se practiquen por delitos de imprudencia ocasionados con motivo del tránsito de vehículos, siempre que no se abandone a quien hubiese resultado lesionado, no procederá la detención del presunto responsable, si éste garantiza suficientemente ante el Ministerio Público el no sustraerse a la acción de la justicia y, en su caso, el pago de la reparación del daño.
+
+> <small>(ADICIONADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
+Cuando el Ministerio Público deje libre al presunto responsable, lo prevendrá para que comparezca ante él mismo para la práctica de diligencias de averiguación, en su caso, y, concluida ésta, ante el Juez a quien se consigne la causa, quien ordenará su presentación y si no comparece a la primera cita, ordenará su aprehensión, mandando hacer efectiva la garantía otorgada.
+
+> <small>(ADICIONADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
+El Ministerio Público podrá hacer efectiva la garantía si el presunto responsable desobedeciere, sin causa justificada, las órdenes que dictare.
+
+> <small>(ADICIONADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
+La garantía se cancelará y en su caso se devolverá cuando se resuelva el no ejercicio de la acción penal, o una vez que se haya presentado el presunto responsable ante el Juez de la causa.
+
 ###### ARTICULO 272.
 
 Cuando el acusado sea aprehendido, el Ministerio Público estará obligado bajo su más estricta responsabilidad, a poner inmediatamente al detenido a disposición de la autoridad judicial, remitiéndole, al efecto, el acta correspondiente.
@@ -1714,7 +1740,9 @@ Recibida la declaración preparatoria, o en su caso, la manifestación del reo d
 
 Todo acusado tendrá derecho a ser asistido en su defensa por sí o por la persona o personas de su confianza. Si fueren varios los defensores, estarán obligados a nombrar un representante común o en su defecto lo hará el juez.
 
-### CAPITULO I. Procedimiento ante los Jueces de Paz
+### CAPITULO I. Procedimiento Sumario
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 297.
 
@@ -1774,89 +1802,131 @@ El auto de libertad es apelable en el efecto devolutivo.
 
 ## TITULO TERCERO. Juicio
 
-### CAPITULO II. Procedimiento ante las Cortes Penales y Jueces de Primera Instancia
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MARZO DE 1971)</small>
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+### CAPITULO II. Procedimiento Ordinario
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 305.
 
-El Ministerio Público hará la consignación del acta respectiva, señalando el delito por el cual ejercita la acción penal y pedirá que se practique la averiguación en los términos de este Capítulo.
+Se seguirá procedimiento sumario cuando no exceda de cinco años de prisión la pena máxima aplicable al delito de que se trate. Cuando fueren varios delitos, se estará a la penalidad máxima del delito mayor, observándose, además, lo previsto en el penúltimo párrafo del artículo 10.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 306.
 
-Tan pronto como el juez reciba la consignación, procederá sin necesidad de formal sustanciación a practicar una averiguación sumaria para comprobar la existencia del delito, del daño causado con éste y su importe, así como la responsabilidad del inculpado.
+Reunidos los requisitos a que se refiere el artículo anterior, el juez, de oficio, declarará abierto el procedimiento sumario al dictar la formal prisión del inculpado, haciéndolo saber a las partes. En el mismo auto se ordenará poner el proceso a la vista de éstas, para los efectos del artículo siguiente.
 
-La averiguación se practicará en audiencia pública, en presencia del inculpado y se limitará a las diligencias que el juez estime necesarias para el esclarecimiento de la verdad y a todas las que el inculpado o su defensor, pidan que se practiquen, siempre que esto pueda hacerse dentro del término de diez días.
+Sin embargo, necesariamente se revocará la declaración de apertura del procedimiento sumario, para seguir el ordinario que señalan los artículos 314 y siguientes, cuando así lo soliciten el inculpado o su defensor, en este caso con ratificación del primero, dentro de los tres días siguientes de notificado el auto relativo, que incluirá la información del derecho aquí consignado. Al revocarse la declaración, la vista del proceso se ampliará en cinco días más, para los efectos del artículo 314.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 307.
 
-En todo caso se hará saber al inculpado el motivo del procedimiento, el nombre de la persona o personas que le imputen la comisión del delito, se le tomará declaración, se le careará con los que depongan en su contra, podrá presenciar todas las diligencias y se le oirá alegar en defensa, por sí, por medio de su defensor o por ambos, según su voluntad.
+Abierto el procedimiento sumario, las partes dispondrán de diez días comunes, contados desde el siguiente a la notificación del auto de formal prisión, para proponer pruebas, que se desahogarán en la audiencia principal. Para los efectos de esta disposición se estará a lo prescrito en los párrafos segundo y tercero del artículo 314.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 308.
 
-Concluida la instrucción dentro del plazo indicado en el artículo 306, se pronunciará inmediatamente la sentencia que corresponda, previo el pedimento del Ministerio Público, formulado en la audiencia respectiva.
+La audiencia se realizará dentro de los diez días siguientes al auto que resuelva sobre la admisión de pruebas, en el que se hará, además, fijación de fecha para aquélla.
+
+Una vez terminada la recepción de pruebas, las partes podrán formular verbalmente sus conclusiones, cuyos puntos esenciales se harán constar en el acta relativa. Cualquiera de las partes podrá reservarse el derecho de formular por escrito sus conclusiones, para lo cual contará con un término de tres días.
+
+Si es el Ministerio Público el que hace dicha reserva, al concluir el término señalado, se iniciará el concedido a la defensa.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 309.
 
-Si las conclusiones del Ministerio Público hubieren sido no acusatorias, el juez mandará desde luego los autos al Procurador de Justicia para que revise las conclusiones en el improrrogable término de tres días. Si el pedimento del Procurador fuese acusatorio, se verificará nuevamente la audiencia de que habla el artículo 308.
+Si las conclusiones se presentan verbalmente, el juez podrá dictar sentencia en la misma audiencia o disponer de un término de cinco días. El mismo término regirá posteriormente a los que se fijan para presentar conclusiones por escrito.
+
+> <small>(F. DE E., D.O.F. 7 DE MAYO DE 1971)</small>
+
+No procede recurso alguno contra las sentencias que en estos procesos dicten los Jueces Menores y de Paz.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 310.
 
-La averiguación a que se refieren los artículos anteriores, se hará constar breve y sucintamente en una sola acta, así como los motivos y fundamentos de la sentencia que se dicte, contra la cual no procede recurso alguno.
+En lo relativo a la asistencia de las partes a la audiencia, la celebración de ésta y la formulación de conclusiones, se estará a lo prevenido, en su caso, por los artículos 320, 322, 323, 326 y 327.
 
-En el caso de que se suspenda la audiencia, se hará constar así y se cerrará el acta respectiva, debiendo levantarse otra cuando aquélla se reanude.
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 311.
 
-En las sentencias condenatorias en que se imponga pena corporal, dictadas de acuerdo con el procedimiento anterior, se ordenará que el reo sea identificado.
+La audiencia se desarrollará en un solo día ininterrumpidamente, salvo que sea necesario suspenderla para permitir el desahogo de pruebas o por otras causas que lo ameriten, a criterio del juez. En este caso, se citará para continuarla al día siguiente o dentro de ocho días, a más tardar, si no bastare aquel plazo para la desaparición de la causa que hubiere motivado la suspensión.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 312.
 
-Los jueces de paz deberán observar en lo que no se oponga a las disposiciones de este Capítulo, todo lo preceptuado en el presente Código.
+Se observará en el procedimiento sumario en lo que no se oponga a las disposiciones de este capítulo, todo lo preceptuado en el presente Código.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ### CAPITULO III. Del procedimiento ante el Jurado Popular
 
 ###### ARTICULO 313.
 
-Los procesos de la competencia de las Cortes Penales serán instruidos por los jueces que integran éstas, a las que se consignarán por riguroso turno para ser repartidos entre aquellos por el primer secretario respectivo.
+Los procesos de la competencia de los jueces penales serán consignados a éstos por riguroso turno.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 314.
 
-Cuando el juez instructor creyere indispensable recibir pruebas diversas de las propuestas por las partes, para aclarar la obscuridad de las rendidas o para comprobar algún punto que estime de importancia, acordará se practiquen las diligencias que considere necesarias.
+En el auto de formal prisión se ordenará poner el proceso a la vista de las partes para que propongan, dentro de quince días contados desde el siguiente a la notificación de dicho auto, las pruebas que estimen pertinentes, las que se desahogarán en los treinta días posteriores, término dentro del cual se practicarán, igualmente, todas aquellas que el Juez estime necesarias para el esclarecimiento de la verdad y las diligencias relativas.
+
+En caso que dentro del término señalado en este artículo, y al desahogar las pruebas aparezcan de las mismas nuevos elementos probatorios, el Juez podrá ampliar el término por diez días más a efecto de recibir los que a su juicio considere necesarios para el esclarecimiento de la verdad.
+
+Para asegurar el desahogo de las pruebas propuestas, los jueces harán uso de los medios de apremio y de las medidas que consideren oportunas, pudiendo disponer la presentación de personas por medio de la fuerza pública en los términos del artículo 33.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 315.
 
-Cuando a juicio del juez instructor esté agotada la averiguación por haberse practicado, en lo que fuere posible, las diligencias solicitadas por las partes o decretadas por el mismo, mandará poner la causa a la vista de las partes para que promuevan, dentro de ocho días, las pruebas que estimen pertinentes y que puedan practicarse en el término de quince días.
+Transcurridos o renunciados los plazos a que se refiere el artículo anterior, o si no se hubiere promovido prueba, el Juez declarará cerrada la instrucción y mandará poner la causa a la vista del Ministerio Público y de la Defensa, durante cinco días por cada uno, para la formulación de conclusiones. Si el expediente excediera de cincuenta fojas, por cada veinte de exceso o fracción se aumentará un día más.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 316.
 
-Transcurridos o renunciados los plazos a que se refiere el artículo anterior o si no se hubiere promovido prueba, el juez declarará cerrada la instrucción y mandará poner la causa a la vista del Ministerio Público y de la defensa, sucesivamente, para que, en el término improrrogable de tres días por cada uno, formulen sus conclusiones. Si el expediente excediere de cincuenta fojas, por cada veinte de exceso o fracción, se aumentará un día más al término señalado.
+El Ministerio Público, al formular sus conclusiones, hará una exposición sucinta y metódica de los hechos conducentes, propondrá las cuestiones de derecho que de ellos surjan, citará las leyes, ejecutorias o doctrinas aplicables y terminará su pedimento en proposiciones concretas.
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 317.
 
-El Ministerio Público, al formular sus conclusiones, hará una exposición sucinta y metódica de los hechos conducentes, propondrá las cuestiones de derecho que de ellas surjan, citará las leyes, ejecutorias o doctrinas aplicables y terminará su pedimento en proposiciones concretas.
+Las conclusiones se presentarán por escrito y podrán ser sostenidas verbalmente en la audiencia principal.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 318.
 
-La defensa debe presentar sus conclusiones por escrito; pero sin sujeción a ninguna regla especial.
+La exposición de las conclusiones de la defensa no se sujetará a ninguna regla especial. Si aquélla no formula conclusiones en el término que establece el artículo 315, se tendrán por formuladas las de inculpabilidad y se impondrá al o a los defensores una multa hasta de quinientos pesos o un arresto hasta de tres días, salvo que el acusado se defienda por sí mismo.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 319.
 
-Las conclusiones definitivas del Ministerio Público no pueden modificarse en ningún sentido sino por causas supervenientes y en beneficio del acusado. La defensa puede libremente retirar o modificar sus conclusiones en cualquier tiempo, antes de que se declare visto el proceso.
+Las conclusiones definitivas del Ministerio Público sólo pueden modificarse por causas supervenientes y en beneficio del acusado. La defensa puede libremente retirar y modificar sus conclusiones en cualquier tiempo, antes de que se declare visto el proceso.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 320.
 
-Si las conclusiones del Ministerio Público fueren de no acusación o contrarias a las constancias procesales, el juez, señalando en qué consiste la contradicción, cuando ésta sea el motivo de la remisión, las mandará con el proceso respectivo, al Procurador de Justicia para que éste las modifique o las confirme.
+Si las conclusiones del Ministerio Público fueren de no acusación o contrarias a las constancias procesales, el Juez, señalando en qué consiste la contradicción, cuando ésta sea el motivo de la remisión, dará vista de ellas con el proceso respectivo al Procurador de Justicia, para que éste las confirme, modifique o revoque.
 
 ###### ARTICULO 321.
 
 Para los efectos del artículo anterior, el Procurador de Justicia oirá el parecer de sus Agentes Auxiliares y decidirá si son o no de confirmarse o modificarse las conclusiones formuladas por el Agente.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 322.
 
-Si el proceso no excede de cincuenta fojas, el Procurador de Justicia dictará la resolución a que se refiere el artículo anterior dentro de los quince días siguientes a la recepción de la causa con las conclusiones objetadas. Por cada veinte fojas más o fracción, se aumentarán tres días a los que aquí se señalan. Si el Procurador confirma las conclusiones no acusatorias, la resolución se comunicará inmediatamente al juez de la causa para los efectos del precepto siguiente.
+Si el proceso no excede de cincuenta fojas, el Procurador de Justicia dictará la resolución a que se refiere el artículo anterior, dentro de los quince días siguientes a la recepción de la causa, con las conclusiones objetadas. Por cada veinte fojas más o fracción, se aumentará un día a los que aquí se señalan. Si el Procurador no resuelve dentro del plazo a que se refiere este precepto, se tendrán por confirmadas las conclusiones.
 
 ###### ARTICULO 323.
 
@@ -1866,41 +1936,47 @@ Si el pedimento del Procurador fuere de no acusación, el juez, al recibir aqué
 
 El auto de sobreseimiento producirá los mismos efectos que una sentencia absolutoria.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 325.
 
-Si la defensa no formula conclusiones en el término señalado en el artículo 316 de este Código, se tendrán por formuladas las de inculpabilidad, sin perjuicio de lo dispuesto por el artículo 319.
+Exhibidas las conclusiones de la defensa, o en el caso de que se le tengan por formuladas las de inculpabilidad, conforme al artículo 318, el Juez fijará día y hora para la celebración de la vista, que se llevará a cabo dentro de los cinco días siguientes.
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 326.
 
-Recibidas las conclusiones definitivas y acusatorias del Ministerio Público y las de la defensa, en su caso, el juez instructor pasará la causa a la presidencia de su respectiva Corte para que éste fije el día y hora para la celebración de la vista, dentro del término de quince días.
+Las partes deberán estar presentes en la audiencia. En caso de que el Ministerio Público o el defensor no concurran, se citará para nueva audiencia dentro de ocho días. Si la ausencia fuere injustificada, se aplicará una corrección disciplinaria al defensor particular y se informará al Procurador y al Jefe de la Defensoría de Oficio, en su caso, para que impongan la corrección que proceda a sus respectivos subalternos y puedan nombrar sustituto que asista a la nuevamente citada.
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+La audiencia a que se hubiere convocado por segunda cita se llevará a cabo aun cuando no asista el Ministerio Público, sin perjuicio de la responsabilidad en que éste incurra. También incurrirá en responsabilidad el defensor faltista, pero en este caso se substituirá por uno de oficio, suspendiéndose la vista a efecto de que éste se imponga debidamente de la causa y pueda preparar su defensa. Lo dispuesto en este artículo no obsta para que el acusado nombre para que lo defienda a cualquiera de las personas que se encuentren en la audiencia y que legalmente no estén impedidas para hacerlo.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 327.
 
-La audiencia se verificará concurran o no las partes; pero el Ministerio Público no podrá de dejar de asistir a ella. Si el defensor fuere particular y no asistiere a la audiencia sin contar para ello con la autorización expresa del procesado, se impondrá al primero una corrección disciplinaria y se dará al acusado un defensor de oficio, que será designado por aquél, si está presente. Si el faltista fuere defensor de oficio, se comunicará el hecho a su superior inmediato para que éste le imponga la corrección disciplinaria procedente y se le sustituirá por otro. Lo dispuesto en este artículo se entiende sin perjuicio del derecho que el acusado, si está presente, tiene de nombrar, para que lo defienda, a cualquiera de las personas que se encuentren en la audiencia y que legalmente no estén impedidas para hacerlo.
+Si el Ministerio Público no formula conclusiones dentro del plazo legal, se dará vista con la causa al Procurador, para que éste, sin perjuicio de la responsabilidad en que aquél hubiera incurrido, las formule en un plazo que no excederá de 15 días, contados desde la fecha en que se hubiese dado vista.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 328.
 
-El presidente de la Corte, después de recibir las pruebas que legalmente puedan presentarse, de la lectura de las constancias que las partes señalen y de oír los alegatos de las mismas, declarará visto el proceso, con lo que terminará la diligencia.
+Después de recibir las pruebas que legalmente puedan presentarse, de la lectura de las constancias que las partes señalen y de oír los alegatos de las mismas, el juez declarará visto el proceso, con lo que termina la diligencia.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 329.
 
-La sentencia se redactará por el juez instructor y se pronunciará por mayoría de votos, dentro de los quince días siguientes a la vista, autorizándose por los jueces que la hayan votado.
+La sentencia se pronunciará dentro de los quince días siguientes a la vista. Si el expediente excediera de cincuenta fojas, por cada veinte de exceso o fracción se aumentará un día más.
 
 ###### ARTICULO 330.
 
 La sentencia condenatoria será apelable en ambos efectos.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 331.
 
-Cuando la causa sea de la competencia del jurado popular, la Corte o el Juez de Paz, en su caso, remitirán el proceso al juez Presidente de Debates que corresponda, por conducto del Ministerio Público.
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
-Los jueces mixtos de primera instancia observarán en su caso en lo conducente las disposiciones de este Capítulo.
+Cuando la causa sea de la competencia del jurado popular, se estará a lo previsto para el procedimiento respectivo.
 
 ### CAPITULO IV. Procedimientos ante el Tribunal de Menores
 
@@ -2286,6 +2362,8 @@ En todo lo demás relativo a la policía de la audiencia, se observarán las dis
 
 ### CAPITULO V. Procedimientos para el juicio de responsabilidades
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 389.
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
@@ -2366,7 +2444,7 @@ En todo lo demás relativo a la policía de la audiencia, se observarán las dis
 
 ###### ARTICULO 408.
 
-El procedimiento en los juicios de responsabilidades oficiales, se sujetará, para la averiguación, instrucción y fallo, a las reglas establecidas para los asuntos de la competencia de las Cortes Penales, y para las audiencias del juicio, a las reglas establecidas para los asuntos de la competencia del Jurado.
+El procedimiento en los juicios de responsabilidades oficiales se sujetará, para la averiguación, instrucción y fallo, a las reglas establecidas para los asuntos de la competencia de los jueces penales, y para las audiencias del juicio, a las reglas establecidas para los asuntos de la competencia del jurado.
 
 ## TITULO CUARTO. Recursos
 
@@ -2508,7 +2586,9 @@ I. Por no haber procedido el Juez durante la instrucción y después de ésta ha
 
 II. Por no haberse hecho saber al acusado durante la instrucción ni al celebrarse el juicio, el motivo del procedimiento y el nombre de su acusador si lo hubiere;
 
-III. Por no haberse permitido al acusado nombrar defensor en los términos que establece la Ley o por no haberse cumplido con lo dispuesto en los artículos 294, 327, 338 y 339;
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
+
+III. Por no haberse permitido al acusado nombrar defensor, en los términos que establece la ley, o por no haberse cumplido con lo dispuesto en los artículos 294, 326, 338 y 339;
 
 IV. Por no haberse practicado las diligencias pedidas por alguna de las partes;
 
@@ -3092,9 +3172,11 @@ Toda recusación que no se interponga en tiempo y forma será desechada de plano
 
 Interpuesta la recusación en tiempo y forma, se suspenderá todo procedimiento y se calificará conforme a lo dispuesto en los artículos siguientes.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 525.
 
-Las recusaciones de los jueces de paz, serán calificadas por las Cortes Penales; las de los de éstas, por la Sala Penal del Tribunal Superior a quien corresponda en turno, y la de los magistrados, por el mismo tribunal, integrado en los términos legales para que el recusado no intervenga en la calificación.
+Las recusaciones de los jueces de paz serán calificadas por los jueces penales; las de los de éstos, por la sala penal del Tribunal Superior a quien corresponda en turno, y la de los magistrados, por el mismo tribunal, integrado en los términos legales para que el recusado no intervenga en la calificación.
 
 ###### ARTICULO 526.
 
@@ -3128,7 +3210,7 @@ De esta multa será solidariamente responsable el que hubiere patrocinado al rec
 
 ### CAPITULO I. De la libertad por desvanecimiento de datos
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 532.
 
@@ -3176,7 +3258,7 @@ El fallo en este incidente será apelable en ambos efectos, pudiendo interponer 
 
 ### CAPITULO II. Libertad provisional bajo protesta
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 541.
 
@@ -3204,7 +3286,7 @@ Si el juez lo creyere conveniente, o alguna de las partes lo pidiere, citará a 
 
 ###### ARTICULO 546.
 
-En cualquier estado del proceso en que aparezca que se han desvanecido los fundamentos que hayan servido para decretar la formal prisión o preventiva, podrá decretarse la libertad del reo, por el juez o Corte, a petición de parte y con audiencia del Ministerio Público, a la que éste no podrá dejar de asistir.
+En cualquier estado del proceso en que aparezca que se han desvanecido los fundamentos que hayan servido para decretar la formal prisión o preventiva, podrá decretarse la libertad del reo, por el juez, a petición de parte y con audiencia del Ministerio Público, a la que éste no podrá dejar de asistir.
 
 ###### ARTICULO 547.
 
@@ -3214,19 +3296,21 @@ I. Cuando en el curso del proceso aparezcan, por prueba plena indubitable, desva
 
 II. Cuando, sin que aparezcan datos posteriores de responsabilidad, se hayan desvanecido, por prueba plena indubitable, los señalados en el auto de formal prisión para tener al detenido como presunto culpable.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 548.
 
-Para substanciar el incidente a que se refieren los artículos anteriores, hecha la petición por el interesado, el juez citará a la Corte a una audiencia dentro del término de cinco días. En dicha audiencia se oirá a las partes y sin más trámite la Corte dictará la resolución que proceda, dentro de setenta y dos horas.
-
-En los casos en que el juez instructor deba fallar unitariamente, la audiencia se verificará ante él en la forma preceptuada por este artículo.
+Para substanciar el incidente a que se refieren los artículos anteriores, hecha la petición por el interesado, el juez citará a una audiencia dentro del término de cinco días. En dicha audiencia se oirá a las partes y sin más trámite el juez dictará la resolución que proceda, dentro de 72 horas.
 
 ###### ARTICULO 549.
 
 La resolución es apelable en ambos efectos.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 550.
 
-Cuando en opinión del Ministerio Público se hayan desvanecido los datos que sirvieron para dictar la formal prisión, no podrá expresar opinión en la audiencia, sin previa autorización del Procurador, quien deberá resolver con toda oportunidad.
+Cuando en opinión del Ministerio Público se hayan desvanecido los datos que sirvieron para dictar la formal prisión, no podrá expresar opinión en la audiencia, sin previa autorización del Procurador, quien deberá resolver dentro de cinco días de formulada la consulta. Si no resuelve en este plazo, el Ministerio Público expresará libremente su opinión.
 
 ###### ARTICULO 551.
 
@@ -3234,29 +3318,23 @@ En el caso de la fracción II del artículo 547, la resolución que conceda la l
 
 ### CAPITULO I. De la ejecución de sentencias
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 552.
 
-Libertad protestatoria es: la que se concede bajo la palabra de honor del procesado, siempre que se llenen los requisitos siguientes:
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+Libertad protestatoria es la que se concede al procesado siempre que se llenen los requisitos siguientes:
 
 I. Que el acusado tenga domicilio fijo y conocido en el lugar en que se siga el proceso;
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+II. Que su residencia en dicho lugar sea de un año cuando menos;
 
-II. Que su residencia en dicho lugar sea de dos años, cuando menos;
+III. Que a juicio del Juez, no haya temor de que se fugue;
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+IV. Que proteste presentarse ante el Tribunal o Juez que conozca de su causa, siempre que se le ordene;
 
-III.- Que a juicio del juez, no haya temor de que se fugue;
+V. Que sea la primera vez que delinque el inculpado; y
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
-IV. Que proteste presentarse al tribunal o juez que conozca de su causa, siempre que se le ordene; y
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
-
-V.- Que se trate de delitos cuya pena máxima no exceda de seis meses.
+VI. Que se trate de delitos cuya pena máxima no exceda de dos años de prisión.
 
 ###### ARTICULO 553.
 
@@ -3281,6 +3359,8 @@ I. En los casos del inciso II de la fracción X del artículo 20 constitucional;
 II. Cuando habiéndose pronunciado sentencia condenatoria en Primera Instancia, la cumpla íntegramente el acusado, y esté pendiente el recurso de apelación.
 
 ### CAPITULO II. De la libertad preparatoria
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 556.
 
@@ -3420,7 +3500,7 @@ En los casos de revocación de la libertad caucional, se deberá oír previament
 
 ###### ARTICULO 575.
 
-La ejecución de las sentencias irrevocables en materia penal, corresponde al Departamento de Prevención Social. Este designará los lugares en que los reos deban extinguir las sanciones privativas de libertad, ejercerá todas las funciones que le señalen las leyes y reglamentos, practicará todas las diligencias para que las sentencias se cumplan estrictamente y reprimirá todos los abusos que cometan sus subalternos, en pro y en contra de los sentenciados.
+La ejecución de las sentencias ejecutoriadas en materia penal, corresponde a la Dirección General de Servicios Coordinados de Prevención y Readaptación Social. Esta designará los lugares en que los reos deban extinguir las sanciones privativas de libertad, ejercerá todas las funciones que le señalen las leyes y reglamentos, practicará todas las diligencias para que las sentencias se cumplan estrictamente y reprimirá todos los abusos que cometan sus subalternos, en pro o en contra de los sentenciados.
 
 ###### ARTICULO 576.
 
@@ -3430,43 +3510,59 @@ Entiéndese por sentencia irrevocable: aquella contra la cual no se concede ning
 
 En toda sentencia condenatoria se prevendrá que se amoneste al reo para que no reincida, advirtiéndole las sanciones a que se expone, y de ello se extenderá diligencia, pero sin que la falta de ésta obste para hacer efectivas las sanciones de la reincidencia y la de la habitualidad.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 578.
 
-Pronunciada una sentencia irrevocable condenatoria, el juez o el tribunal que la pronuncie, expedirá, dentro de cuarenta y ocho horas, una copia certificada para el Departamento de Prevención Social, con los datos de identificación del reo.
+Pronunciada una sentencia ejecutoriada condenatoria, el juez o el tribunal que las pronuncie expedirá dentro de cuarenta y ocho horas, una copia certificada para la Dirección General de Servicios Coordinados de Prevención y Readaptación Social, con los datos de identificación del reo.
 
 ###### ARTICULO 579.
 
 Los Agentes del Ministerio Público comunicarán por escrito al Procurador de Justicia la sentencia que se pronuncie en los negocios en que hayan intervenido, expresando los datos que crean que puedan servir para la formación de la estadística criminal.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 580.
 
-El juez o tribunal estará obligado a tomar de oficio, todas las providencias conducentes para que el reo sea puesto a disposición del Departamento de Prevención Social.
+El juez o tribunal estará obligado a tomar de oficio todas las providencias conducentes para que el reo sea puesto a disposición de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 581.
 
-Recibida por el Departamento Prevención Social la copia de la sentencia y puesto a su disposición el reo, destinará a éste al lugar en que deba extinguir la sanción privativa de la libertad.
+Recibida por la Dirección General de Servicios Coordinados de Prevención y Readaptación Social la copia de la sentencia y puesto a su disposición el reo, destinará a éste el lugar en que deba extinguir la sanción privativa de libertad.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 582.
 
-Para la ejecución de las sanciones, el Departamento de Prevención Social se sujetará a lo prevenido en el Código Penal, en éste y en los reglamentos respectivos.
+Para la ejecución de las sanciones, la Dirección General de Servicios Coordinados de Prevención y Readaptación Social se sujetará a lo prevenido en el Código Penal, en éste y en las leyes y los reglamentos respectivos.
 
 ### CAPITULO IV. De la conmutación de sanciones
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 583.
 
-Cuando algún reo que esté compurgando una sanción privativa de libertad, crea tener derecho a la libertad preparatoria por haber cumplido con los requisitos que exigen los artículos 84 y siguientes del Código Penal, ocurrirá al Departamento de Prevención Social, o a las autoridades que designe el Ejecutivo de los Territorios solicitándola y acompañando los certificados y demás pruebas conducentes.
+Cuando algún reo que esté compurgando una sanción privativa de libertad, crea tener derecho a la libertad preparatoria por haber cumplido con los requisitos que exigen los artículos 84 y siguientes del Código Penal, ocurrirá a la Dirección General de Servicios Coordinados de Prevención y Readaptación Social, o a las autoridades que designe el Ejecutivo de los Territorios, solicitándola y acompañando los certificados y demás pruebas conducentes.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 584.
 
-Recibida la petición, el Departamento de Prevención Social deberá recabar informes de tres comisiones unitarias, integradas respectivamente por el Ministerio Público, el juez o magistrado y el director del establecimiento de reclusión que hubieren intervenido en el caso del solicitante. El mismo Departamento podrá hacer uso, además de los medios que crea pertinentes, para investigar la verdad acerca del arrepentimiento y enmienda o curación del reo.
+Recibida la solicitud se recabarán los datos e informes y se practicarán los estudios necesarios para acreditar los requisitos a que se refiere el Código Penal. Igualmente se pedirá informe pormenorizado al director del reclusorio, acerca de la vida del reo en el lugar de reclusión.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 585.
 
-El Departamento de Prevención Social tomará en consideración las pruebas suministradas del informe del comisionado que designe el mismo Departamento y concederá o negará la libertad, sujetándose en el primer caso a lo dispuesto en la fracción I del artículo 84 del Código Penal.
+La Dirección de Servicios Coordinados de Prevención y Readaptación Social resolverá sobre la solicitud.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 586.
 
-Cuando se conceda la libertad preparatoria, el comisionado del Departamento de Prevención Social recibirá una información sobre la solvencia e idoneidad del fiador propuesto. En vista de la información, el Departamento resolverá si es o no de admitirse el fiador. Si se tratare de los Territorios, el Delegado del Departamento recibirá la información.
+Cuando se conceda la libertad preparatoria, el comisionado de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social investigará la solvencia e idoneidad del fiador propuesto. En vista de la información, la Dirección resolverá si es o no de admitirse el fiador. Si se tratare de los Territorios, el delegado de la Dirección recibirá la información.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -3474,17 +3570,23 @@ Cuando se conceda la libertad preparatoria, el comisionado del Departamento de P
 
 Admitido el fiador, se otorgará la fianza respectiva en los términos del artículo 562, y se extenderá al reo un salvo-conducto para que pueda comenzar a disfrutar de libertad. Esta concesión se comunicará al director del establecimiento respectivo, a la autoridad administrativa y al juez de la causa.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 588.
 
-Cuando el agraciado incurriere en alguna de las faltas que menciona el artículo 86 del Código Penal, la autoridad administrativa dará parte al Departamento de Prevención Social, para que éste revoque la libertad preparatoria.
+Cuando el agraciado incurriera en alguno de los casos previstos por el artículo 86 del Código Penal, la autoridad que tenga conocimiento, dará parte a la Dirección de Servicios Coordinados de Prevención y Readaptación Social, para que resuelva si revoca o no la libertad preparatoria.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 589.
 
-Cuando el agraciado cometiere un nuevo delito, la libertad preparatoria quedará revocada de pleno derecho y el juez de la causa lo comunicará al Departamento de Prevención Social, para los efectos legales correspondientes.
+Cuando el agraciado cometiere un nuevo delito, se estará a lo dispuesto en el artículo 86 del Código Penal, y el juez de la causa lo comunicará a la Dirección de Servicios Coordinados de Prevención y Readaptación Social, para los efectos legales correspondientes.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 590.
 
-El salvo-conducto a que se refiere el artículo 587, será firmado por el C. Jefe del Departamento de Prevención Social.
+El salvoconducto a que se refiere el artículo 587, será firmado por el C. Director General de Servicios Coordinados de Prevención y Readaptación Social.
 
 ###### ARTICULO 591.
 
@@ -3494,9 +3596,11 @@ Cuando se revoque la libertad preparatoria, se recogerá e inutilizará el salvo
 
 El portador del salvo-conducto lo presentará siempre que sea requerido para ello por un Magistrado, Juez o Agente de la Policía Judicial.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 593.
 
-Cuando hubiere expirado el término de la condena que debiera haberse compurgado, de no concederse la libertad preparatoria, el agraciado ocurrirá al Tribunal Superior de Justicia para que éste, en vista de la sentencia y de los informes del Departamento de Prevención Social, haga de plano la declaración de quedar el reo en absoluta libertad.
+Cuando hubiere expirado el término de la condena que debiera haberse compurgado, de no concederse la libertad preparatoria, el agraciado ocurrirá al Tribunal Superior de Justicia para que éste, en vista de la sentencia y de los informes de la Dirección de Servicios Coordinados de Prevención y Readaptación Social, haga de plano la declaración de quedar el reo en absoluta libertad.
 
 ### CAPITULO V. De la rehabilitación
 
@@ -3504,33 +3608,45 @@ Cuando hubiere expirado el término de la condena que debiera haberse compurgado
 
 La retención podrá aplicarse a iniciativa:
 
-I.- Del Departamento de Prevención Social, y
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
+
+I.- De la Dirección General de Servicios Coordinados de Prevención y Readaptación Social, y
 
 II.- De los jefes o encargados de los establecimientos penales.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 595.
 
-Siempre que llegare a conocimiento del Departamento de Prevención Social cualquiera noticia que pueda motivar la aplicación de la retención, comisionará a uno de sus miembros para que compruebe los datos que tuviere y haga una investigación.
+Siempre que llegare a conocimiento de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social cualquiera noticia que pueda motivar la aplicación de la retención, comisionará a uno de sus miembros para que compruebe los datos que tuviere y haga una investigación.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 596.
 
-El Departamento de Prevención Social, en vista de la denuncia, de los informes recabados y del dictamen de su comisionado, decretará si procede o no la aplicación de la retención.
+La Dirección General de Servicios Coordinados de Prevención y Readaptación Social, en vista de la denuncia, de los informes recabados y del dictamen de su comisionado, decretará si procede o no la aplicación de la retención.
 
 ###### ARTICULO 597.
 
 En caso de ser procedente, comunicará su resolución al interesado, al jefe del establecimiento en que compurgue su condena y al juez o tribunal respectivos.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 598.
 
-En la resolución del Departamento se harán constar los motivos que fundamenten la retención y el tiempo que deba durar, de acuerdo con lo dispuesto en el Código Penal.
+En la resolución de la Dirección se harán constar los motivos que fundamenten la retención y el tiempo que deba durar, de acuerdo con lo dispuesto en el Código Penal.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 599.
 
-Cuando el fallo del Departamento considere inaplicable la retención, no impedirá que éste la decrete posteriormente por causas supervenientes.
+Cuando el fallo de la Dirección considere inaplicable la retención, no impedirá que éste la decrete posteriormente por causas supervenientes
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 600.
 
-El Departamento de Prevención Social estará obligado a resolver sobre la retención, en todo caso, dos meses antes de la fecha de extinción de la condena, sin perjuicio de lo dispuesto en el artículo anterior.
+La Dirección General de Servicios Coordinados de Prevención y Readaptación Social estará obligada a resolver sobre la retención, en todo caso, dos meses antes de la fecha de la extinción de la condena, sin perjuicio de lo dispuesto en el artículo anterior.
 
 ### CAPITULO VI. Del indulto
 
@@ -3538,7 +3654,7 @@ El Departamento de Prevención Social estará obligado a resolver sobre la reten
 
 ###### ARTICULO 601.
 
-Al que hubiera sido condenado por sentencia irrevocable y se encontrare en alguno de los casos de los artículos 56, 57 y 73 del Código Penal, podrá ocurrir al Ejecutivo, por conducto del Departamento de Prevención Social, solicitando la conmutación de la sanción que se le hubiere impuesto.
+El que hubiera sido condenado por sentencia ejecutoriada y se encontrare en alguno de los casos de los artículos 56, 57 y 73 del Código Penal, podrá ocurrir al Ejecutivo, por conducto de la Dirección General de Servicios Coordinados de Prevención y Readaptación Social, solicitando la conmutación de la sanción que se le hubiere impuesto.
 
 A su solicitud acompañará el condenado testimonio de la sentencia, y en su caso, las constancias que acrediten plenamente los motivos que tuviere para pedir la conmutación.
 
@@ -3590,7 +3706,7 @@ Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá co
 
 ### CAPITULO II. De la división jurisdiccional
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 611.
 
@@ -3650,7 +3766,9 @@ La justicia penal del orden común se administrará:
 
 I. Por los Jueces de Paz del Orden Penal;
 
-II. Por las Cortes Penales;
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
+
+II. Por los jueces penales;
 
 III. Por los Jueces Presidentes de Debates;
 
@@ -3682,7 +3800,7 @@ El Ejecutivo de la Unión y demás autoridades de su dependencia facilitarán a 
 
 ###### ARTICULO 622.
 
-El Distrito Federal se divide, para los efectos de la presente ley, en los Partidos Judiciales de México, San Angel, Coyoacán y Xochimilco, integrados de acuerdo con el artículo 11 transitorio, teniendo en cuenta los límites geográficos que señale la ley respectiva de organización y división política y administrativa del mismo Distrito Federal.
+El Distrito Federal se divide, para los efectos de la presente ley, en los partidos judiciales que señala en artículo 5o. de la Ley Orgánica de los Tribunales de Justicia del Fuero Común del Distrito y Territorios Federales.
 
 ###### ARTICULO 623.
 
@@ -3708,9 +3826,11 @@ b) El de Santa Rosalía, con la comprensión político-administrativa de ese nom
 
 El territorio de Quintana Roo formará un solo partido judicial.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 625.
 
-Las cabeceras de los partidos judiciales del Distrito Federal serán: respectivamente, las poblaciones de México, San Angel, Coyoacán y Xochimilco.
+Las sedes de los juzgados en los Partidos Judiciales del Distrito Federal serán las que señale el pleno del Tribunal Superior.
 
 ###### ARTICULO 626.
 
@@ -3721,6 +3841,8 @@ Las cabeceras de los partidos de los Distritos Norte y Sur de la Baja California
 Del partido judicial de Quintana Roo la cabecera será la población de Payo Obispo.
 
 ### CAPITULO V. De la organización interior
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 628.
 
@@ -3736,57 +3858,51 @@ II. Practicar a petición del Ministerio Público las primeras diligencias, con 
 
 III. Practicar las diligencias que les encomienden los jueces de Primera Instancia, Menores y Penales de sus respectivos partidos y que deban verificarse dentro de su respectiva jurisdicción territorial.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ### CAPITULO VI. De los Presidentes de Debates
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 630.
 
-Habrá en la Ciudad de México ocho Cortes Penales numeradas progresivamente, formadas por tres jueces cada una.
+(DEROGADO, D.O.F. 19 DE MARZO DE 1971)
 
 ###### ARTICULO 631.
 
-Las Cortes Penales tendrán las atribuciones que les confieran las leyes.
-
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+(DEROGADO, D.O.F. 19 DE MARZO DE 1971)
 
 ###### ARTICULO 632.
 
-La planta de cada Corte Penal será de tres jueces y, como mínimo, de diez secretarios, numerados progresivamente, de nueve mecanógrafos y de cuatro comisarios.
+(DEROGADO, D.O.F. 19 DE MARZO DE 1971)
 
 ###### ARTICULO 633.
 
-Los nombramientos y remociones de los secretarios y demás personal de las Cortes Penales, se harán por los Jueces respectivos con aprobación del Tribunal Superior.
-
-Cada juez de Corte Penal, tendrá adscritos tres de los secretarios y tres de los taquimecanógrafos a que se refiere el artículo anterior.
+(DEROGADO, D.O.F. 19 DE MARZO DE 1971)
 
 ###### ARTICULO 634.
 
-Habrá cuatro jueces supernumerarios de las Cortes Penales que suplirán las excusas y las faltas temporales de los propietarios, que no excedan de quince días; las faltas de mayor tiempo serán suplidas por nombramientos provisionales que hará el Tribunal Superior de Justicia.
+(DEROGADO, D.O.F. 19 DE MARZO DE 1971)
 
 ###### ARTICULO 635.
 
-En caso de faltas absolutas se hará la designación del sustituto por medio de nombramiento definitivo.
+(DEROGADO, D.O.F. 19 DE MARZO DE 1971)
 
 ###### ARTICULO 636.
 
-Para ser juez de Corte Penal y de Juzgado de Paz del Ramo Penal, se requiere: ser mexicano, abogado con título oficial, con cinco años de práctica profesional y buena conducta, comprobada ante la autoridad que expida el nombramiento antes de otorgar la protesta respectiva.
-
-Deberá comprobar además, a juicio del Tribunal Superior de Justicia que ha estudiado y practicado especialmente Derecho Penal. La especialización se comprobará por certificados universitarios y la práctica por medio de documentos fehacientes.
+(DEROGADO, D.O.F. 19 DE MARZO DE 1971)
 
 ###### ARTICULO 637.
 
-Para ser Secretario de Corte Penal, se requiere: ser mexicano, abogado con título oficial, con dos años de práctica profesional y buena conducta, comprobada ante la autoridad que expida el nombramiento, antes de otorgar la protesta respectiva.
-
-El Primer Secretario tendrá carácter de Secretario del Tribunal en Pleno.
+(DEROGADO, D.O.F. 19 DE MARZO DE 1971)
 
 ###### ARTICULO 638.
 
-Las Cortes Penales estarán de turno por su orden.
+(DEROGADO, D.O.F. 19 DE MARZO DE 1971)
 
 ###### ARTICULO 639.
 
-Será Presidente de cada Corte Penal el juez que resulte electo por mayoría de votos, el que durará en su encargo cuatro meses. Los demás jueces de la Corte irán ocupando la presidencia por igual periodo y en riguroso turno.
+(DEROGADO, D.O.F. 19 DE MARZO DE 1971)
 
 ### CAPITULO VII. Del Jurado
 
@@ -3794,21 +3910,25 @@ Será Presidente de cada Corte Penal el juez que resulte electo por mayoría de 
 
 ###### ARTICULO 640.
 
-Para el despacho de los negocios de las Cortes Penales habrá el número de secretarios y demás personal que fije la Ley.
+Para el despacho de los negocios de los juzgados penales habrá el número de secretarios y demás personal que fije la ley.
 
 ###### ARTICULO 641.
 
 El Primer Secretario deberá tener los requisitos que fija la presente Ley, para los Jueces.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 642.
 
-El Primer Secretario tendrá el carácter de jefe inmediato administrativo de la Corte Penal; dirigirá las labores interiores de la oficina, de acuerdo con las instrucciones y determinaciones de los jueces, a los cuales dará cuenta de los asuntos que se presenten y las faltas que se cometan, para que obren de acuerdo con sus facultades, y tendrá, además, las obligaciones siguientes:
+El primer secretario tendrá el carácter de jefe inmediato administrativo del juzgado penal; dirigirá las labores interiores de la oficina, de acuerdo con las instrucciones y determinaciones del juez, al que dará cuenta de los asuntos que se presenten y las faltas que se cometan, para que obre de acuerdo con sus facultades, y tendrá, además, las obligaciones siguientes:
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-I. Dar cuenta diariamente y acordar con el juez, los escritos y promociones de las partes, los oficios que se dirijan a la Corte y los negocios que tenga en trámite la misma y hacer las notificaciones respectivas.
+I. Dar cuenta diariamente y acordar con el juez, los escritos y promociones de las partes, los oficios que se dirijan al juzgado y los negocios que tenga en trámite el mismo, y hacer las notificaciones respectivas;
 
-II. Distribuir entre los demás secretarios, las consignaciones que se hagan a la Corte.
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
+
+II. Distribuir entre los demás secretarios las consignaciones que se hagan al juzgado;
 
 III. Llevar los libros del Juzgado, por él o con intervención de alguno de los empleados de la oficina, y
 
@@ -3832,7 +3952,9 @@ VI. Hacer notificaciones, practicar aseguramientos o cualquiera otra diligencia 
 
 VII. Auxiliar al Primer Secretario en las demás labores de la oficina, y
 
-VIII. Las demás que la ley o los jueces les encomienden, relativas a asuntos de la oficina.
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
+
+VIII. Las demás que la ley o el juez les encomienden relativas a los asuntos de la oficina.
 
 > <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
 
@@ -3864,11 +3986,11 @@ El jurado tiene por misión resolver, por medio de un veredicto, las cuestiones 
 
 El Jurado se formará de siete individuos escogidos por sorteo, en la forma y términos que establece este Código.
 
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1965)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 647.
 
-Todo ciudadano residente en el Partido Judicial de México en los Partidos Foráneos del Distrito y Territorios Federales que reúna los requisitos que exige la ley tiene la obligación de desempeñar el cargo de Jurado.
+Todo ciudadano residente en los Partidos Judiciales del Distrito y Territorios Federales que reúna los requisitos que exige la ley, tiene la obligación de desempeñar el cargo de Jurado.
 
 ###### ARTICULO 648.
 
@@ -3898,25 +4020,33 @@ IX. No ser ministro de ningún culto, ni tener ninguna de las incompatibilidades
 
 El cargo del jurado es incompatible con cualquier otro cargo o empleo de la Federación, del Distrito y Territorios Federales y de los Municipios. Tampoco pueden desempeñarlo los profesores de instrucción primaria en ejercicio, ni los mayores de sesenta años, ni aquellos que, dentro del tercio del año que les haya correspondido, hubieren intervenido en otro jurado.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 650.
 
-El Departamento de Prevención Social formará cada año una lista de los individuos que reúnan los requisitos indispensables para desempeñar el cargo de jurado, y mandará que se publique el día primero de noviembre.
+La Dirección General de Servicios Coordinados de Prevención y Readaptación Social formará cada año una lista de los individuos que reúnan los requisitos indispensables para desempeñar el cargo de jurado, y mandará que se publique el día primero de noviembre.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 651.
 
-Los individuos comprendidos en la lista y que carecieren de los requisitos señalados en el artículo 648, están en la obligación de manifestarlo así al Departamento de Prevención Social.
+Los individuos comprendidos en la lista y que carecieren de los requisitos señalados en el artículo 648, están en la obligación de manifestarlo así a la Dirección General de Servicios Coordinados de Prevención y Readaptación Social.
 
 Esta manifestación deberá hacerse por escrito y presentarse personalmente, acompañada del justificante respectivo que, a falta de otro legal, podrá consistir en declaración de dos testigos, vecinos del lugar en que resida el interesado, de probidad y arraigo, que podrá rendirse ante la autoridad política de su localidad.
 
 Dichas manifestaciones deberán presentarse dentro de los primeros veinte días del mes de noviembre.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 652.
 
-Dentro de este término, las personas incluidas en las listas tendrán derecho para presentar ante el Departamento de Prevención Social, las manifestaciones a que se refiere el artículo anterior, así como las excusas que tuvieren.
+Dentro de este término, las personas incluidas en las listas tendrán derecho para presentar, ante la Dirección General de Servicios Coordinados de Prevención y Readaptación Social, las manifestaciones a que se refiere el artículo anterior, así como las excusas que tuvieren.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 653.
 
-El veinticinco de noviembre, a más tardar, se reunirán el Presidente del Supremo Tribunal de Justicia, el Jefe del Departamento Prevención Social y el Procurador de Justicia del Distrito y Territorios Federales, para resolver, sin recurso alguno, sobre las manifestaciones y solicitudes que se hubieren presentado. Corregida así la primera lista, se formará la definitiva que publicará el Departamento de Prevención Social.
+El veinticinco de noviembre, a más tardar, se reunirán el Presidente del Tribunal Superior de Justicia, el Director General de Servicios Coordinados de Prevención y Readaptación Social y el Procurador del Distrito y Territorios Federales, para resolver, sin recurso alguno, sobre las manifestaciones y solicitudes que se hubieren presentado. Corregida así la primera lista, se formará la definitiva que publicará la Dirección General de Servicios Coordinados de Prevención y Readaptación Social.
 
 ###### ARTICULO 654.
 
@@ -3926,9 +4056,11 @@ La lista se dividirá en cuatro secciones. Los individuos listados en las tres p
 
 Las listas a que se refiere el artículo anterior se publicarán, a más tardar, el treinta de noviembre, en uno o más periódicos del Distrito y Territorios, si los hubiere, y en todo caso en los lugares de costumbre, remitiéndose ejemplares de ella al Procurador de Justicia del Distrito Federal y a cada uno de los jueces penales del Distrito y Territorios Federales.
 
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 656.
 
-Al principio de cada tercio del año, el Jefe del Departamento de Prevención Social y los delegados de éste en los Territorios, harán publicar en la cabecera de cada Partido Judicial, la lista de los jurados que han de funcionar en este periodo y comunicarán los nombramientos a las personas comprendidas en ella, remitiéndoles un cuadernillo que contenga los artículos de este Código, relativos al desempeño de las funciones de jurado.
+Al principio de cada tercio de año, el Director General de Servicios Coordinados de Prevención y Readaptación Social y los delegados de ésta en los Territorios, harán publicar en la cabecera de cada Partido Judicial la lista de los jurados que han de funcionar en este período y comunicarán los nombramientos a las personas comprendidas en ella, remitiéndoles un cuadernillo que contenga los artículos de este Código, relativos al desempeño de las funciones de jurado.
 
 ###### ARTICULO 657.
 
@@ -3948,7 +4080,9 @@ Cuando se efectúe un jurado de algún otro Partido Judicial, del Distrito Feder
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)</small>
 
-### CAPITULO X. Del Departamento de Prevención Social y otras dependencias
+### CAPITULO X. De la Dirección General de Servicios Coordinados de Prevención y Readaptación Social y otras Dependencias
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 660.
 
@@ -3998,9 +4132,9 @@ I. Por turno, los Magistrados de las Salas Penales del Tribunal Superior de Just
 
 II. El Magistrado Unitario de un Distrito Judicial del Territorio de la Baja California, cuando se trate de delitos en que haya incurrido los jueces y agentes del Ministerio Público de la misma jurisdicción o el magistrado del Distrito Judicial inmediato, salvo el caso de que el Tribunal Superior del Distrito Federal estime conveniente que alguno de sus miembros intervenga directamente en el asunto; y
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+> <small>(REFORMADA, D.O.F. 19 DE MARZO DE 1971)</small>
 
-III. Por turno, los jueces de Cortes Penales y los de Primera Instancia de aquellos en que hayan incurrido los Secretarios y demás funcionarios, empleados y auxiliares de la Administración de Justicia dentro del mismo partido.
+III. Por turno, los jueces penales, de aquellos en que hayan incurrido los secretarios y demás funcionarios, empleados y auxiliares de la Administración de Justicia dentro del mismo partido.
 
 ###### ARTICULO 670.
 
@@ -4016,55 +4150,53 @@ El Jurado, tratándose de delitos oficiales será, presidido por el Juez o Magis
 
 Cuando un magistrado, juez o Agente del Ministerio Público fuere acusado por delito del orden común, el juez que conozca del proceso respectivo pedirá al Tribunal Superior de Justicia del Distrito Federal, que lo ponga a su disposición, y éste lo decretará así, siempre que se reúnan los requisitos que para dictar una orden de aprehensión exige el artículo 16 de la Constitución General de la República.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 673.
 
-El Ejecutivo tendrá un órgano dependiente de la Secretaría de Gobernación, dejando a salvo las funciones administrativas del Departamento del Distrito Federal, encargado de vigilar la ejecución de las sanciones (prevención especial) y de la prevención general de la delincuencia en el Distrito y en los Territorios Federales, el que se denominará Departamento de Prevención Social.
+La Dirección General de Servicios Coordinados de Prevención y Readaptación Social, dependiente de la Secretaría de Gobernación, tendrá a su cargo la prevención general de la delincuencia y el tratamiento de los adultos delincuentes y los menores infractores en los términos a que alude el artículo siguiente.
+
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 674.
 
-Compete al Departamento de Prevención Social:
+Compete a la Dirección General de Servicios Coordinados de Prevención y Readaptación Social:
 
 I. Dirigir y ordenar la prevención social de la delincuencia en el Distrito y Territorios Federales, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
 
-II. Crear y organizar: museos criminológicos, laboratorios, talleres penales, lugares de segregación, colonias penales, de relegación, granjas y campamentos penales, reformatorios, hospitales, manicomios y demás lugares para delincuentes sanos y anormales;
+II. Orientar técnicamente la prevención de la delincuencia y el tratamiento de adultos delincuentes, alienados que hayan incurrido en conductas antisociales y menores infractores así como crear y manejar instituciones para el internamiento de estos sujetos;
 
-III. Crear y organizar el Instituto de reeducación profesional;
+III. Investigar las situaciones en que queden los familiares y dependientes económicamente de quienes fueron sometidos a proceso o cumplieren sentencias y en su caso gestionar las medidas preventivas y asistenciales que procedieren;
 
-IV. Crear y organizar una Sociedad de Prisiones, un Patronato de Reos Libertados, y una Sociedad de Legislación Criminal;
+IV. Celebrar convenios con instituciones de asistencia pública o de asistencia privada, para coadyuvar a la protección de familiares y dependientes económicamente de quienes hayan sido segregados de la sociedad como procesados o sentenciados, o como sujetos de medidas de seguridad;
 
-V. Conceder permiso a los reos que se encuentren en las condiciones de la fracción III del artículo 84 del Código Penal, para salir a buscar trabajo o para recibir una atención médica que no pueda ser proporcionada dentro de la prisión;
+V. Vigilar la ejecución de las sanciones impuestas por las autoridades judiciales y determinar, previa clasificación de los sentenciados, el lugar en que deben ser recibidos;
 
-VI. Gestionar de la Jefatura de Policía, que se haga efectiva la vigilancia sobre los infractores menores, los enfermos mentales y los que disfruten de libertad preparatoria;
+VI. Crear, organizar y manejar museos criminológicos, laboratorios, lugares de segregación, colonias, granjas y campamentos penales, reformatorios, establecimientos médicos y demás instituciones para delincuentes sanos y anormales;
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+VII. Crear, organizar y manejar el sistema de selección y formación del personal que preste sus servicios en las instituciones de readaptación social;
 
-VII. Vigilar la ejecución de las sanciones impuestas por el Poder Judicial del orden común en el Distrito y Territorios Federales;
+VIII. Crear y organizar una o más sociedades que funjan como patronatos para liberados, o agencias de las mismas o procurarles corresponsales, sea por diversos partidos judiciales, sea por delegaciones, sea por municipios, así como una federación de dichas sociedades;
 
-VIII. Resolver las agravaciones y las atenuaciones a que se hagan acreedores los reos y reglamentar las relaciones sexuales de los delincuentes;
+IX. Conceder y revocar la libertad preparatoria; así como aplicar la disminución de pena privativa de la libertad o aplicar la retención, en uno y en otro (sic) casos, en los términos previstos por el Código Penal;
 
-IX.- Resolver en los casos del artículo 75 del Código Penal sobre la modificación de la sanción impuesta, cuando haya incompatibilidad entre esa sanción y la edad, sexo, salud, o constitución física del reo;
+X. Ejercer orientación y vigilancia sobre los menores externados, los enfermos mentales sometidos a medidas de seguridad por la jurisdicción penal y los sujetos a libertad preparatoria o a condena condicional;
 
-X.- Aplicar la retención y conceder la libertad preparatoria previo estudio que se haga en cada caso de la conducta del reo y del efecto producido en él por el tratamiento;
+XI. Resolver, en los casos del artículo 75 del Código Penal, sobre la modificación de las modalidades de ejecución de la sanción impuesta, cuando haya incompatibilidad entre esas modalidades y la edad, sexo, salud o constitución física del reo;
 
-> <small>(F. DE E., D.O.F. 11 DE SEPTIEMBRE DE 1931)</small>
+XII. Resolver sobre la distribución y aplicación de los objetos e instrumentos del delito, disponiendo la destrucción de los de uso prohibido y la venta de aquéllos que no sean aprovechables en instituciones oficiales o de beneficencia, utilizando el producto en beneficio de las funciones de la propia Dirección;
 
-XI.- Vigilar que en los lugares de prisión preventiva y en los demás establecimientos penales se cumpla estrictamente con los reglamentos respectivos;
+XIII. Formar listas de jurados para el Distrito y Territorios Federales;
 
-> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 1938)</small>
+XIV. Formular los reglamentos interiores de la Dirección y de los establecimientos a que se refiere la fracción VI de este artículo, y someterlos al Secretario de Gobernación, para su aprobación;
 
-XII.- Hacer la designación de los lugares en que los reos deban extinguir la pena de prisión.
+XV. Las demás que fijen las leyes y los reglamentos.
 
-XIII.- Resolver sobre la distribución y aplicación de los objetos e instrumentos del delito y aquéllos que no sean aprovechables en instituciones oficiales o de beneficencia, remitirlos a la Tesorería General de la Nación, para que sean vendidos y el valor de ellos ingrese a la referida Tesorería.
-
-XIV.- Formar listas de Jurados para el Distrito y Territorios Federales;
-
-XV.- Formular el reglamento interior del Departamento y someterlo a la aprobación del C. Secretario de Gobernación; y
-
-XVI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 675.
 
-El Departamento de Prevención Social tendrá Delegados en los Territorios Federales. Dichos Delegados estarán bajo su dirección técnica, dependiendo administrativamente de los Gobiernos respectivos.
+La Dirección General de Servicios Coordinados de Prevención y Readaptación Social tendrá delegados en los Territorios Federales. Dichos delegados estarán bajo su dirección técnica, dependiendo administrativamente de los gobiernos respectivos.
 
 ###### ARTICULO 676.
 
@@ -4195,3 +4327,29 @@ Artículo Transitorio.- El presente Decreto entrará en vigor tres días despué
 D.O.F. 6 DE DICIEMBRE DE 1965.
 
 TRANSITORIO.- La presente reforma entrará en vigor 3 días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 19 DE MARZO DE 1971.
+
+###### ARTICULO PRIMERO.
+
+Estas reformas entrarán en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Para los procesos que se encuentren en trámite ante los juzgados menores y de paz, así como para aquellos que se originen por hechos delictuosos de competencia de los mismos, acontecidos antes de que este decreto entre en vigor, se seguirá el procedimiento sumario cuando corresponda en los términos del presente decreto, si los inculpados manifiestan expresamente su voluntad de acogerse a él. En caso contrario, se seguirá el procedimiento que establecen los artículos 305 a 312, según el texto vigente antes de las presentes reformas.
+
+###### ARTICULO TERCERO.
+
+Los procesos que se encuentren en trámite ante las Cortes y los juzgados penales y cuyo conocimiento corresponda a jueces menores o de paz en los términos del artículo 10 reformado, continuarán bajo la competencia de aquellos jueces, conforme al procedimiento establecido por las presentes reformas; pero antes de señalar fecha para la vista a que se refieren el artículo 325 reformado y el 326 antes de la presente reforma, el juez requerirá personalmente al procesado para que manifieste, siempre que esté presente su defensor, si opta por que continúe el procedimiento conforme a estas reformas o conforme a las disposiciones que ahora se modifican.
+
+###### ARTICULO CUARTO.
+
+Los procesos que se encuentren en trámite ante las Cortes y los juzgados penales y cuyo conocimiento siga siendo de su competencia en los términos de las presentes reformas, así como aquéllos a los que corresponda igual competencia y que se originen por hechos acaecidos antes de que las mismas entren en vigor, se seguirán tramitando o se tramitarán conforme al procedimiento que ahora se establece; pero antes de fijarse fecha para la vista, se observará lo dispuesto en el artículo anterior.
+
+###### ARTICULO QUINTO.
+
+Las solicitudes y los procedimientos sobre libertad preparatoria que se encuentren pendientes al iniciarse la vigencia de estas reformas, se resolverán en los términos previstos por las mismas.
+
+###### ARTICULO SEXTO.
+
+Quedan derogadas todas las disposiciones que se opongan al presente decreto.
