@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1978-07-18"
+last_updated: "1978-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 1978.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE SEPTIEMBRE DE 1978.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -901,7 +901,7 @@ De las sanciones que impongan las autoridades municipales, resolverá definitiva
 
 De los Municipios del Estado.
 
-> <small>(REFORMADO, D.O. 26 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 1978)</small>
 
 ###### Artículo 74.
 
@@ -939,53 +939,35 @@ VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administra
 
 ###### Artículo 76.
 
-El Estado de Yucatán adopta para su régimen interior la forma de Gobierno republicano, democrático, representativo y popular y tendrá como base de su división territorial y de su organización política y administrativa los Municipios, regidos por Ayuntamientos, sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermedia; los Ayuntamientos se compondrán de Concejales, que serán electos en su totalidad por votación popular directa, cada tres años, en la forma que la Ley prescribe. Por cada Concejal Propietario se elegirá un Suplente. Uno de los Concejales será electo con el carácter de Presidente.
+El Estado de Yucatán adopta para su régimen interior la forma de Gobierno republicano, democrático, representativo y popular y tendrá como base de su división territorial y de su organización política y administrativa los Municipios, regidos por Ayuntamientos, sin que haya entre éstos y el Gobierno del Estado ninguna autoridad intermedia; los Ayuntamientos se compondrán de Concejales, que serán electos en su totalidad por votación popular directa cada tres años, en la forma que la Ley prescribe. Por cada Concejal Propietario se elegirá un Suplente. Uno de los Concejales será electo con carácter de Presidente.
 
-> <small>(REFORMADO, D.O. 18 DE JULIO DE 1978)</small>
-
-En las elecciones municipales participarán las mujeres con igualdad de condiciones.
-
-> <small>(ADICIONADO, D.O. 18 DE JULIO DE 1978)</small>
+En las elecciones municipales participarán las mujeres con igualdad de condiciones que los varones, con el derecho de votar y ser votadas.
 
 Para ser Concejal se requiere:
 
-I.- Ser ciudadano mexicano.
+I.- Ser ciudadano mexicano;
 
-II.- Haber residido en el Municipio como vecino del mismo cinco años inmediatamente anteriores al día de la elección.
+II.- Haber residido en el Municipio como vecino del mismo cinco años inmediatamente anteriores al día de la elección;
 
-III.- Tener dieciocho años cumplidos en la fecha de los comicios, con excepción del Concejal Presidente, que deberá tener veinticinco años.
+III.- Tener dieciocho años cumplidos en la fecha de los comicios, con excepción del Concejal Presidente, que deberá tener veinticinco años;
 
-IV.- Estar en pleno goce de sus derechos civiles y políticos; y
+IV.- Estar en pleno goce de sus derechos civiles y políticos, y
 
 V.- Saber leer y escribir.
 
-> <small>(ADICIONADO, D.O. 18 DE JULIO DE 1978)</small>
+En ausencia del electo, sólo podrá ejercer las funciones de Presidente el Concejal que haya cumplido veinticinco años de edad el día de la elección.
 
-En ausencia del electo, sólo podrá ejercer las funciones de Presidente el Concejal que ya haya cumplido veinticinco años de edad el día de la elección.
+Las personas que hubieren desempeñado las funciones de Concejal en los Ayuntamientos, no serán elegibles para integrar los mismos, en el periodo inmediato siguiente. Si podrán serlo con el carácter de propietarios, los Concejales suplentes que no hubieren estado en ejercicio, pero los propietarios no serán elegibles para el siguiente periodo ni con el carácter de suplentes.
 
-> <small>(ADICIONADO, D.O. 18 DE JULIO DE 1978)</small>
+En el Municipio en cuya demarcación territorial se encuentre la capital del Estado y en aquellos cuya población sea de doscientos mil o más habitantes, se adopta el sistema mixto de mayoría relativa y de representación proporcional para la elección de sus Ayuntamientos, con apego a las normas siguientes y a lo que en lo particular disponga la Ley.
 
-Las personas que hubieren desempañado las funciones de Concejal en los Ayuntamientos, no serán elegibles para integrar los mismos, en el periodo inmediato siguiente. Si podrán serlo con el carácter de propietarios, los Concejales sumplentes (sic) que no hubieren estado en ejercicio, pero los propietarios no serán elegibles para el siguiente periodo ni con el carácter de suplentes.
+a) Los Ayuntamientos se integrarán con un Concejal Presidente y doce Concejales Propietarios, electos por el principio de mayoría relativa y hasta tres Concejales Propietarios por el de representación proporcional;
 
-> <small>(REFORMADO, D.O. 26 DE JUNIO DE 1978)</small>
+b) Para acreditar Concejales Propietarios de representación proporcional y a sus suplentes, los partidos registrados deberán obtener un mínimo del uno y medio por ciento de la votación total en el Municipio.
 
-En el Municipio en cuya demarcación territorial se encuentra la capital del Estado y en aquellos cuya población sea de doscientos mil o más habitantes, se adopta el sistema mixto de mayoría relativa y de representación proporcional para la elección de sus Ayuntamientos, con apego a las normas siguientes y a lo que en lo particular disponga la Ley.
+c) Los Partidos Políticos podrán acreditar hasta dos Concejales propietarios de representación proporcional, quienes serán los que encabecen la planilla;
 
-> <small>(REFORMADO, D.O. 26 DE JUNIO DE 1978)</small>
-
-a) los Ayuntamientos se integrarán con un Concejal Presidente y diez Concejales Propietarios, electos por el principio de mayoría relativa y hasta tres Concejales Propietarios por el de representación proporcional;
-
-> <small>(REFORMADO, D.O. 26 DE JUNIO DE 1978)</small>
-
-b) para acreditar Concejales Propietarios de representación proporcional y a sus suplentes, los partidos registrados deberán obtener un mínimo del uno y medio por ciento de la votación total en el Municipio.
-
-> <small>(REFORMADO, D.O. 26 DE JUNIO DE 1978)</small>
-
-c) los partidos políticos podrán acreditar hasta dos Concejales propietarios de representación proporcional, quienes serán los que encabecen la planilla.
-
-> <small>(REFORMADO, D.O. 26 DE JUNIO DE 1978)</small>
-
-d) los Concejales de mayoría y los de representación proporcional tendrán los mismos derechos y obligaciones.
+d) Los Concejales de mayoría y los de representación proporcional tendrán los mismos derechos y obligaciones.
 
 > <small>(REFORMADO, D.O. 2 DE OCTUBRE DE 1946)</small>
 
@@ -1387,7 +1369,7 @@ D.O. 8 DE AGOSTO DE 1932.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
-D.O. 20 DE AGOSTO DE 1932
+D.O. 20 DE AGOSTO DE 1932.
 
 EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS.
 
@@ -1554,6 +1536,10 @@ UNICO.- Este Decreto comenzará a regir el día siguiente al de su publicación 
 D.O. 18 DE JULIO DE 1978.
 
 UNICO.- El presente Decreto entrará en vigor el dia siguiente del de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 15 DE SEPTIEMBRE DE 1978.
+
+UNICO.- Este Decreto comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 ###### ARTICULO PRIMERO.
 
