@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1996-12-17"
+last_updated: "1997-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 1997.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -141,9 +141,11 @@ Todo hombre tiene el deber de acatar las leyes, disposiciones y reglamentos expe
 
 El Estado de Veracruz tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas. La Ley protegerá y promoverá el desarrollo de sus lenguas, culturas, usos, costumbres, recursos y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado. En los juicios y procedimientos en que aquellos sean parte, se tomarán en cuenta sus prácticas y costumbres jurídicas en los términos que establezca la Ley.
 
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
+
 ###### Artículo 7o.
 
-A nadie podrá privarse del derecho de terminar sus diferencias por medio de jueces árbitros o de arbitradores, nombrados por ambas partes, sea cual fuere el estado del juicio.
+Todos los habitantes del Estado, tienen derecho, en la forma y términos establecidos por esta Constitución y la Ley, a resolver sus diferencias mediante la conciliación o el arbitraje que podrán tener lugar antes de iniciarse un juicio o durante su tramitación. Cuando los interesados así lo determinen, habrá lugar a la conciliación en la fase de ejecución.
 
 ###### Artículo 8o.
 
@@ -219,9 +221,9 @@ Los individuos que desempeñen algún cargo concejil quedarán exentos, durante 
 
 ### CAPITULO II.
 
-DE LOS PARTIDOS POLÍTICOS, ORGANISMOS ELECTORALES Y TRIBUNAL ESTATAL DE ELECCIONES.
+DE LOS PARTIDOS POLÍTICOS Y ORGANISMOS ELECTORALES.
 
-> <small>(REFORMADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 20.
 
@@ -279,23 +281,25 @@ También lo serán los que del Poder Legislativo obtengan carta de ciudadanía; 
 
 Son derechos del ciudadano veracruzano:
 
-> <small>(REFORMADA, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-I. Votar en las elecciones populares. El sufragio será universal, libre, secreto y directo. Sólo podrán votar los ciudadanos que posean credencial de elector. Los padrones electorales se obtendrán en términos de la Ley Electoral respectiva;
+I. Votar en las elecciones populares. El sufragio será universal, libre, secreto y directo. Sólo podrán votar los ciudadanos que posean credencial de elector. Los padrones electorales se obtendrán en términos de la Ley respectiva;
 
 > <small>(REFORMADA, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
 
 II. Poder ser votado en dichas elecciones y nombrado para cualquier cargo o comisión, siempre que reúna los requisitos que exijan las leyes. El ciudadano que resulte electo popularmente para dos o más cargos, estará en libertad de optar por el que estime conveniente;
 
-> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-III. Ejercer en toda clase de negocios el derecho de petición; y
+III. Ejercer en toda clase de negocios el derecho de petición;
 
-> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-IV. Reunirse pacíficamente para tratar los asuntos públicos del Estado.
+IV. Asociarse o reunirse pacíficamente para tratar los asuntos públicos del Estado, y
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 1997)</small>
+
+V. Afiliarse libre e individualmente a los partidos políticos.
 
 ###### Artículo 28.
 
@@ -305,9 +309,17 @@ I. Inscribirse en el Catastro de la Municipalidad, manifestando la propiedad que
 
 II. Alistarse en la Guardia Nacional;
 
-III. Votar en las elecciones populares, en la sección electoral que le corresponda; y
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-IV. Desempeñar los cargos de elección popular del Estado, siempre que tenga los requisitos que la ley determina para cada uno de ellos.
+III. Votar en las elecciones populares en los términos que señale la Ley;
+
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
+
+IV. Desempeñar los cargos de elección popular del Estado, siempre que tenga los requisitos que la Ley determina para cada uno de ellos, y
+
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 1997)</small>
+
+V. Desempeñar las funciones electorales para las que fueren designados, en los términos y condiciones que fije la Ley.
 
 ###### Artículo 29.
 
@@ -351,11 +363,31 @@ El Poder Legislativo, se deposita en una Asamblea denominada: "Legislatura del E
 
 El Poder Ejecutivo es ejercido por una sola persona, bajo la denominación de: "Gobernador del Estado."
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 36.
 
-El ejercicio del Poder Judicial, se deposita: en un Tribunal Superior de Justicia, en los Jueces de Primera Instancia, en los Menores, en los Municipales y en los demás que establezca la Ley.
+El ejercicio del Poder Judicial se deposita en los órganos siguientes:
+
+I. El Tribunal Superior de Justicia, que se integrará con: los Tribunales colegiados en materia penal, los Tribunales colegiados en materia civil, los Tribunales Regionales, el Tribunal de lo Contencioso Administrativo y el Tribunal de conciliación y Arbitraje;
+
+II. El Tribunal Estatal de Elecciones;
+
+II. Los Juzgados de Primera Instancia;
+
+IV. Los Juzgados Menores;
+
+V. Los Juzgados Auxiliares de los de Primera Instancia y los Menores;
+
+VI. Los Juzgados de Paz;
+
+VII. Los Juzgados de Comunidad;
+
+VIII. La Comisión Jurisdiccional de Menores Infractores;
+
+IX. El Consejo de la Judicatura; y,
+
+X. Los demás que cree la ley.
 
 ###### Artículo 37.
 
@@ -369,19 +401,23 @@ El Gobernador del Estado, será electo popularmente en forma directa por el sist
 
 No podrán ser reelectos para el período inmediato siguiente, los funcionarios de elección popular que hayan ejercido su cargo, excepción hecha de los casos previstos por los artículos 86 y 89 de esta Constitución. La misma regla será aplicable al caso de los integrantes de los Concejos Municipales.
 
-> <small>(REFORMADO, G.O. 11 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-Los Magistrados del Tribunal Superior de Justicia y los del Tribunal de lo Contencioso Administrativo del Estado, serán designados por el Gobernador y los nombramientos respectivos se someterán para su aprobación a la Legislatura o la Diputación Permanente en su caso.
+Los Magistrados del Tribunal Superior serán propuestos por el Consejo de la Judicatura y serán nombrados por la Legislatura del Estado, requiriéndose el voto favorable de las dos terceras partes de los diputados presentes.
 
-> <small>(ADICIONADO, G.O. 11 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-Los Magistrados del Tribunal de lo Contencioso Administrativo durarán en su cargo tres años, al término de los cuales si fueren ratificados sólo podrán ser privados de sus puestos en los términos del Título Sexto de esta Constitución.
+Los Jueces de Primera Instancia, los Jueces Menores, Los Jueces Auxiliares de los de Primera Instancia y los Menores, y los Jueces de Paz, así como los integrantes de la Comisión Jurisdiccional de Menores Infractores serán designados por el Consejo de la Judicatura.
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 1997)</small>
+
+Los integrantes del Consejo de la Judicatura serán designados en los términos establecidos en el Artículo 95, fracción V de esta Constitución.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 39.
 
-Para las elecciones de Diputados, se dividirá al Estado en veinticuatro Distritos Electorales Uninominales y toda la Entidad constituirá una Circunscripción Plurinominal, en la que serán electos hasta dieciséis Diputados, según el principio de representación proporcional mediante el sistema de listas.
+Para las elecciones de Diputados se dividirá al Estado en veinticuatro Distritos Electorales Uninominales y toda la entidad constituirá una Circunscripción Plurinominal, en la que serán electos hasta veintiún Diputados, según el principio de representación proporcional mediante el sistema de listas.
 
 > <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
 
@@ -389,101 +425,103 @@ Para las elecciones de Diputados, se dividirá al Estado en veinticuatro Distrit
 
 La demarcación de cada uno de los veinticuatro Distritos Electorales Uninominales, se señalará en la Ley respectiva.
 
-> <small>(ADICIONADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 41.
 
-Los partidos políticos son entidades de interés público que tienen como finalidad promover la participación de los ciudadanos en la vida democrática, contribuir a la integración de la representación municipal y estatal; y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre secreto y directo.
+Los partidos políticos son entidades de interés público que tienen como finalidad promover la participación de los ciudadanos en la vida democrática, contribuir a la integración de la representación municipal y estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
 
-En los procesos electorales locales, los partidos políticos contarán, en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
+Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
 
-Los partidos políticos tendrán derecho al acceso permanente a los medios de comunicación social, de acuerdo con las formas y procedimientos que establezca la Ley.
+Los partidos políticos nacionales tendrán derecho a participar en las elecciones municipales y estatales.
 
-La Ley establecerá las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales.
+Los partidos políticos recibirán en forma equitativa financiamiento público para su sostenimiento y contarán durante los procesos electorales con apoyos para sus actividades tendientes a la obtención del sufragio universal. Tendrán además acceso permanente a los medios de comunicación social en condiciones de equidad, de acuerdo con las formas y procedimientos que establezca la Ley.
 
-Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
+El financiamiento a los partidos políticos se sujetará a las siguientes bases:
 
-> <small>(REFORMADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+I. El financiamiento público ordinario para el sostenimiento de sus actividades permanentes se fijará cada año por la Comisión Estatal Electoral al elaborar su presupuesto. El monto total se determinará multiplicando una quinta parte del salario mínimo vigente en la capital del estado por el número de ciudadanos inscritos en la lista nominal de electores de la entidad;
+
+II. El financiamiento público extraordinario para las actividades de los partidos tendientes a la obtención del voto se otorgará durante el año en que se celebren elecciones locales y consistirá en una cantidad igual a la que corresponda por concepto de financiamiento ordinario;
+
+III. El financiamiento público, ordinario y extraordinario, se distribuirá entre los partidos políticos que hubiesen obtenido al menos el dos por ciento de la votación total emitida en la elección anterior de Diputados, de acuerdo con las siguientes bases:
+
+a) Un treinta por ciento del monto total del financiamiento público estatal se distribuirá en partes iguales, y
+
+b) Un sesenta por ciento se distribuirá según el porcentaje de la votación estatal que hubiese obtenido cada uno de los partidos en la elección mencionada;
+
+IV. Los partidos políticos que hubiesen obtenido su registro con fecha posterior a la última elección, o los que no hubieren alcanzado el dos por ciento de la votación total emitida en el Estado en la elección anterior de Diputados, recibirán financiamiento público de carácter especial, otorgándose a cada uno de ellos, para el sostenimiento de sus actividades ordinarias, el dos por ciento del monto total que en forma igualitaria corresponda distribuir al conjunto de los partidos políticos, y una cantidad igual adicional para gastos de campaña en año de elecciones, y
+
+V. El financiamiento público prevalecerá sobre el privado; por lo tanto, las aportaciones que los partidos políticos reciban de sus militantes y simpatizantes no podrán exceder del equivalente al diez por ciento del monto total de recursos que reciban por concepto de financiamiento público ordinario.
+
+La Ley establecerá los criterios para fijar límites a los gastos de campaña y precisará los mecanismos y procedimientos para el control y vigilancia del origen y uso de los recursos con que cuenten los partidos y demás organizaciones políticas, así como las sanciones por el incumplimiento de las disposiciones que se expidan en la materia.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ### CAPITULO I.
 
 DEL PODER LEGISLATIVO.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 42.
 
-La organización de las elecciones es una función estatal que se realizará por un organismo público autónomo, de carácter permanente, dotado de personalidad jurídica y patrimonio propio.
+La organización, vigilancia y desarrollo de las elecciones es una función estatal que se realiza a través de un organismo público autónomo, de carácter permanente, dotado de personalidad jurídica y patrimonio propio, denominado Comisión Estatal Electoral.
 
-> <small>(REFORMADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 43.
 
-El organismo público depositario de la autoridad electoral, agrupará para su desempeño, en forma integral, las actividades relativas al padrón electoral, la preparación de la jornada electoral, los cómputos, la expedición y registro de constancias, la capacitación electoral y la educación cívica, así como la impresión de materiales electorales.
+La Comisión Estatal Electoral tendrá a su cargo las actividades relativas a la capacitación y educación cívica, la geografía electoral, los derechos y prerrogativas de los partidos y demás organizaciones políticas, el padrón y la lista de electores, la impresión de materiales electorales, la preparación de la jornada electoral, los cómputos en los términos que señale la Ley, la declaración de validez y el otorgamiento de constancias en las elecciones de Diputados y Ayuntamientos, así como la regulación de la observación electoral y de las encuestas y sondeos de opinión con fines electorales.
 
-Este organismo atenderá también lo relativo a los derechos y prerrogativas de los partidos políticos.
-
-> <small>(REFORMADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 44.
 
-El organismo público encargado de la función electoral, se regirá por los principios de certeza, legalidad, independencia, imparcialidad y objetividad.
+La Comisión Estatal Electoral se regirá por los principios de certeza, legalidad, independencia, imparcialidad, equidad y objetividad.
 
-Contará en su estructura con órganos de dirección, ejecutivos y desconcentrados que se conformarán en los términos que disponga la Ley.
+Contará en su estructura con órganos de dirección, ejecutivos y desconcentrados.
 
-El órgano superior de dirección se integrará por representantes de los partidos políticos y ciudadanos.
+El órgano superior de dirección se denominará Consejo General y estará conformado por Comisionados de los partidos políticos y por Comisionados Electorales, de acuerdo con las siguientes bases;
 
-Los órganos ejecutivos dispondrán del personal calificado necesario para desempeñar el servicio electoral profesional.
+I. Cada partido político que participe en el proceso electoral respectivo contará con un Comisionado, que tendrá derecho a voz y voto en las sesiones del Consejo General, salvo que el partido correspondiente no hubiere obtenido al menos el dos por ciento de la votación total emitida a nivel estatal en la elección inmediata anterior, en cuyo caso su Comisionado sólo tendrá derecho a voz, y
 
-Los órganos electorales desconcentrados serán distritales y municipales y en su integración y funcionamiento participarán representantes de los partidos políticos y ciudadanos.
+II. La Legislatura del Estado, por el voto de las dos terceras partes de sus miembros presentes y a propuesta de los partidos políticos, designará en los términos de la Ley respectiva a los Comisionados Electorales, eligiendo entre los mismos al Presidente del Consejo General de la Comisión Estatal electoral. Estos tendrán derecho a voz y voto en las sesiones del Consejo General.
 
-Las mesas directivas de casillas estarán integradas por ciudadanos.
+Los Comisionados Electorales del Consejo General no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación de este organismo y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados. Tendrán asignada una retribución en el presupuesto de la Comisión Estatal Electoral que será igual a la de los Magistrados del Tribunal Estatal de elecciones.
 
-Las sesiones de todos los órganos colegiados electorales serán públicas.
+Los órganos ejecutivos de la Comisión Estatal electoral serán la Dirección General, La Secretaría General y las Coordinaciones Ejecutivas, mismas que conformarán la Junta General Ejecutiva, que será presidida por el Presidente del Consejo General, con las atribuciones y facultades que determine la Ley de la materia. Dichos órganos serán profesionales en su desempeño y dispondrán del personal calificado necesario para desarrollar el servicio electoral.
 
-> <small>(REFORMADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+Los órganos electorales desconcentrados serán las Comisiones Distritales Electorales y las Comisiones Municipales Electorales; en su conformación y funcionamiento participarán representantes de los partidos políticos y Comisionados Electorales, en los términos que fije la Ley.
+
+Las mesas directivas de casillas estarán integradas por ciudadanos que serán seleccionados y capacitados conforme a las disposiciones de Ley.
+
+Las sesiones de todos los órganos electorales colegiados serán públicas.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 45.
 
-La Ley establecerá un sistema de medios de impugnación, de los que conocerán el organismo público encargado de la función electoral en el Estado y el Tribunal Estatal de Elecciones. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
+Para garantizar los principios de legalidad, imparcialidad, objetividad, certeza e independencia de las resoluciones y actos electorales, se establecerá un sistema de medios de impugnación de los que conocerán la Comisión Estatal Electoral y el Tribunal Estatal de Elecciones, en los términos que señale esta Constitución y la Ley respectiva.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 1995)</small>
+La Comisión Estatal Electoral y el Tribunal Estatal de Elecciones gozarán de autonomía en su funcionamiento e independencia en sus decisiones. El sistema de medios de impugnación dará definitividad a las distintas etapas en los procesos electorales y garantizará los derechos políticos de los ciudadanos de votar, ser votado y de libre asociación.
 
-El Tribunal Estatal de Elecciones será órgano autónomo, de carácter permanente, y máxima autoridad jurisdiccional en el ámbito de su competencia. Resolverá, en los términos de esta Constitución y de la Ley de la materia, las impugnaciones que se presenten en la elección de Gobernador, así como las que se presenten en las elecciones de Diputados a la Legislatura del Estado y en las de los Ayuntamientos; teniendo sus resoluciones en estos dos últimos casos, el carácter de definitivas e inatacables.
+En el ámbito electoral, la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
-El Tribunal Estatal de Elecciones se organizará en los términos que señale la Ley y expedirá su propio Reglamento interior.
+La Ley de la materia establecerá los delitos, procedimientos y sanciones en materia electoral.
 
 ###### Artículo 46.
 
-La Legislatura del Estado se compondrá de veinticuatro miembros nombrados popularmente en elección directa, por la mayoría relativa en los Distritos Electorales Uninominales que establece la Ley y hasta con dieciséis Diputados que serán electos por representación proporcional, mediante el sistema de listas votadas en la circunscripción Plurinominal, que se sujetarán a las bases generales siguientes y a lo que en lo particular disponga la Ley:
+La Legislatura del Estado se compondrá de veinticuatro miembros nombrados popularmente en elección directa, por el principio de mayoría relativa, en los Distritos Electorales Uninominales que establece la Ley, y hasta con veintiún Diputados que serán electos por el principio de representación proporcional, mediante el sistema de listas votadas en la Circunscripción Plurinominal, conforme a las bases generales siguientes y a lo que en particular disponga la Ley:
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
+I. Para obtener el registro de su lista regional, el partido político que lo solicite deberá acreditar que participa con candidatos a Diputados por el principio de mayoría relativa en por lo menos quince de los veinticuatro distritos electorales uninominales;
 
-I. Para tener el registro de su lista regional el Partido Político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa, en por lo menos doce de los veinticuatro Distritos Uninominales.
+II. Tendrán derecho a ser considerados en el cálculo para la asignación de Diputados electos por el principio de representación proporcional únicamente los partidos que alcancen por lo menos el dos por ciento del total de la votación emitida en la Circunscripción Plurinominal;
 
-> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
+III. A los partidos que cumplan con los supuestos señalados en las fracciones I y II de este artículo, de corresponderles, les serán asignados por el principio de representación proporcional el número de Diputados de su lista regional que alcancen conforme al porcentaje de votos obtenidos en la Circunscripción Plurinominal, y
 
-II. Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que alcance por lo menos el uno y medio por ciento del total de la votación emitida en la circunscripción plurinominal;
+IV. La Ley determinará la fórmula electoral y los procedimientos que se observarán en la asignación de Diputados por el principio de representación proporcional.
 
-> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
-
-III. El partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo le serán asignados, por el principio de representación proporcional, el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal;
-
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 1995)</small>
-
-IV. La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación;
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
-
-V. Los Partidos Políticos tendrán derecho a que les sean reconocidos hasta veintiocho Diputados, sumando los electos por mayoría relativa y por representación proporcional; y
-
-> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
-
-VI. Los diputados de mayoría relativa y de representación proporcional, como representantes del pueblo, tienen la misma categoría e iguales derechos y obligaciones.
-
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
-
-Por cada diputado propietario se nombrará un suplente.
+Ningún partido político podrá contar con más de veintisiete Diputados en la Legislatura del Estado, sumando los electos por mayoría relativa y los que conforme a su votación tenga derecho a obtener por el principio de representación proporcional.
 
 > <small>(REFORMADO, G.O. 21 DE ENERO DE 1984)</small>
 
@@ -491,11 +529,11 @@ Por cada diputado propietario se nombrará un suplente.
 
 Los diputados no podrán ser reelectos para el período inmediato a aquél en que estén en funciones, los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 1976)</small>
+REFORMADO PRIMER PARRAFO, G.O. 20 DE MARZO DE 1997)
 
 ###### Artículo 48.
 
-Para ser electo diputado propietario o suplente, se requiere:
+Por cada Diputado propietario se elegirá a un suplente. En ambos casos se requiere:
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
 
@@ -521,9 +559,9 @@ VI. No tener antecedentes penales por la comisión de delitos realizados con dol
 
 No pueden ser electos Diputados:
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-I. El Gobernador, los Secretarios del Despacho, los Magistrados del Tribunal Superior de Justicia y el Procurador General de Justicia del Estado;
+I. El Gobernador, los Secretarios de Despacho, los Magistrados del Poder Judicial, los Consejeros de la Judicatura y el Procurador General de Justicia del Estado;
 
 II. Los Diputados al Congreso General, estén o no en ejercicio;
 
@@ -537,15 +575,15 @@ V. Los Presidentes Municipales por los Distritos en que ejerzan autoridad; y
 
 VI. Los Jefes de las Rentas Federales y los Administradores de Rentas por los Distritos en donde ejerzan sus funciones.
 
-> <small>(REFORMADO, G.O. 22 DE OCTUBRE DE 1994)</small>
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 50.
 
-La Legislatura se eregirá en Colegio Electoral para calificar la elección de Gobernador.
+Los Diputados de mayoría relativa y de representación proporcional, como representantes del pueblo, tienen la misma categoría e iguales derechos y obligaciones.
 
 ###### Artículo 51.
 
-La Legislatura se renovará en su totalidad cada tres años y comenzará a funcionar, en cada trienio, el 1° de octubre inmediato posterior a las elecciones.
+La Legislatura se renovará en su totalidad cada tres años y comenzará a funcionar, en cada trienio, el día 1º de diciembre inmediato posterior a las elecciones.
 
 > <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
@@ -567,17 +605,19 @@ Se reunirá la Legislatura en sesiones extraordinarias cada vez que fuere convoc
 
 DE LA INSTALACIÓN DE LA LEGISLATURA Y DE SUS SESIONES.
 
-> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 55.
 
 Si las sesiones extraordinarias se prolongan hasta el tiempo en que deban comenzar las ordinarias, cesarán aquéllas; y, durante éstas, se despacharán, de preferencia, los asuntos que motivaron la convocatoria y que hayan quedado pendientes.
 
-> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 56.
 
-Ni el Colegio Electoral, ni la Legislatura pueden ejercer sus funciones sin la concurrencia de más de la mitad del número total de diputados; pero los presentes, cualquiera que sea el número, deberán reunirse los días señalados por el reglamento para compeler a los ausentes a que concurran dentro de los ocho días siguientes, con la advertencia de que si no lo hicieren, se entenderá por ese solo hecho, excepto caso justificado, que no aceptan el cargo llamándose luego a los suplentes, los que deberán presentarse en un plazo igual; y si tampoco lo hicieren se declarará vacante el puesto y se convocará a nuevas elecciones en tratándose de diputados electos por mayoría relativa. Se llamará al que sigue en el orden de la lista regional votada en la circunscripción plurinominal cuando se trate de diputados electos según el principio de representación proporcional.
+La Legislatura, ni el Colegio Electoral cuando se constituya conforme al Artículo 86 de esta Constitución, pueden ejercer sus funciones sin la concurrencia de más de la mitad del número total de diputados; pero los presentes, cualquiera que sea el número, deberán reunirse los días señalados por el reglamento para compeler a los ausentes a que concurran dentro de los ocho días siguientes, con la advertencia de que si no lo hicieren, se entenderá por ese solo hecho, excepto caso justificado, que no aceptan el cargo llamándose luego a los suplentes, los que deberán presentarse en un plazo igual; y si tampoco lo hicieren se declarará vacante el puesto y se convocará a nuevas elecciones en tratándose de diputados electos por mayoría relativa. Se llamará al que sigue en el orden de la lista regional votada en la circunscripción plurinominal cuando se trate de diputados electos según el principio de representación proporcional.
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
 Se entiende también que los diputados que falten diez días consecutivos sin causa justificada o sin previa licencia del Presidente de la Legislatura -con la cual se dará conocimiento a ésta- renuncian a concurrir durante ese período llamándose desde luego a los suplentes. Si no hubiere quórum para instalar la Legislatura o para que ejerza sus funciones, una vez instalada, se convocará inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempeñar su cargo, entretanto transcurren los ocho días de que antes se habla.
 
@@ -597,11 +637,11 @@ Los trabajos para la instalación de la Legislatura, en su primer período de se
 
 El día de la instalación y antes del acto, los Diputados harán formal protesta de guardar esta Constitución y la General de la República, mirando en todo por el bien del Estado. Igual protesta se exigirá a los que no hayan asistido a la instalación, cuando se presenten a desempeñar su encargo.
 
-> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 60.
 
-El Gobernador del Estado presentará, ante la legislatura, el día 30 de noviembre, un informe por escrito de las actividades realizadas por el Poder Ejecutivo en el año correspondiente. Este informe será analizado por la Legislatura en sesiones subsecuentes, a las que deberán concurrir los Secretarios del Despacho, el Procurador General de Justicia, el Contralor General del Estado y el Coordinador General de Comunicación Social para ampliar o detallar aspectos relacionados con sus ramos.
+El Gobernador del Estado presentará ante la Legislatura el día 1º de diciembre, un informe por escrito de las actividades realizadas por el Poder Ejecutivo en el año correspondiente, excepto en el último año de su mandato, en que dicho documento deberá presentarse el día 31 de octubre. Este informe será analizado por la Legislatura en sesiones subsecuentes, a las que deberán concurrir los Secretarios de Despacho, el Procurador General de Justicia, el Contralor General del Estado y el Coordinador General de Comunicación Social, para ampliar o detallar aspectos relacionados con sus ramos.
 
 > <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
@@ -671,15 +711,17 @@ II. Iniciar ante el Congreso General las leyes y decretos que sean de la compete
 
 III. Reclamar, ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gobierno Federal constituya un ataque a la soberanía o independencia del Estado o de la Constitución General;
 
-> <small>(REFORMADA, G.O. 25 DE MAYO DE 1995)</small>
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 1997)</small>
 
-IV. Hacer el cómputo estatal de la votación en las elecciones de Gobernador y declarar electo al que haya obtenido la mayoría de votos;
+IV. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Tribunal Estatal de elecciones;
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-V. Calificar la validez de estas elecciones y resolver sobre la renuncia que presente este funcionario, así como otorgar o negar su aprobación a las renuncias de los Magistrados del Tribunal Superior, que le someta el Gobernador;
+V. Conceder al Gobernador y a los Diputados licencia temporal para separase de su cargo; concederla al Gobernador para salir del Estado, licencia que puede ser global hasta por un año, y otorgar o negar su aprobación a las solicitudes de licencia de los Magistrados del Poder Judicial que les someta el Consejo de la Judicatura, así como, en los mismos términos, al Consejero que hubiera designado;
 
-VI. (DEROGADA, G.O. 22 DE SEPTIEMBRE DE 1994)
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 1997)</small>
+
+VI. Designar, a propuesta de los partidos políticos y con el voto aprobatorio de las dos terceras partes de los diputados presentes, a los Comisionados Electorales y, de entre éstos, al Presidente del Consejo General de la Comisión Estatal Electoral, en los términos que fije la Ley;
 
 > <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -687,9 +729,9 @@ VII. Por acuerdo de las dos terceras partes de sus integrantes, suspender ayunta
 
 VIII. Hacer la división del Estado en Distritos electorales, de acuerdo con el último censo, y fijar la circunscripción y cabecera de ellos;
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-IX. Conceder licencia temporal para separarse de su cargo al Gobernador y a los Diputados; concederla al Gobernador para salir del Estado, y otorgar o negar su aprobación a las solicitudes de licencia de los Magistrados, que le someta el Gobernador;
+IX. Resolver sobre la renuncia que presente el Gobernador del Estado; sobre las renuncias de los Magistrados del Poder Judicial que les someta el Consejo de la Judicatura; y sobre la renuncia del Consejero que hubiera designado la Legislatura;
 
 X. Recibir a los mismos funcionarios la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ambas emanen;
 
@@ -709,9 +751,9 @@ XIV. Fijar anualmente los gastos públicos y decretar las contribuciones con que
 
 La Legislatura, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley; y en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el Presupuesto anterior o en la ley que estableció el empleo;
 
-> <small>(ADICIONADO, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
-Este presupuesto considerará igualmente las partidas necesarias para el desarrollo de las funciones del organismo autónomo depositario de la autoridad electoral y del Tribunal Estatal de Elecciones; debiendo éstos rendir cuentas anualmente a la Legislatura del Estado, acerca de su ejercicio;
+Este presupuesto considerará igualmente las partidas necesarias para el desarrollo de las funciones de la Comisión Estatal Electoral, debiendo ésta rendir cuentas anualmente a la Legislatura del Estado acerca de su ejercicio.
 
 XV. Tomar cuentas al Gobierno, cada año, o cuando le parezca oportuno, de la recaudación o inversión de los caudales públicos;
 
@@ -755,7 +797,9 @@ XXV. Decretar el modo de cubrir el contingente de hombres que toque dar al Estad
 
 XXVI. Autorizar al Ejecutivo para poner sobre las armas la Guardia Nacional;
 
-XXVII. Dirimir los conflictos que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
+
+XXVII. Dirimir los conflictos que se susciten entre los Poderes Ejecutivo y Judicial;
 
 XXVIII. Conceder dispensas de ley por causas justificadas o por razones de conveniencia y utilidad pública;
 
@@ -763,9 +807,9 @@ XXIX. Conceder cartas de ciudadanía a los vecinos de otros Estados que fueren a
 
 XXX. Reahabilitar (sic), con arreglo a las leyes, a los que por sentencia pronunciada en el Estado hayan perdido los derechos de ciudadanía, civiles o de familia;
 
-> <small>(REFORMADA, G.O. 22 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-XXXI. Otorgar o negar su aprobación a los nombramientos de magistrados que le someta el Gobernador, así como designar a los magistrados del Tribunal Estatal de Elecciones;
+XXXI. Nombrar por el voto de las dos terceras partes de los Diputados presentes; a los Magistrados del Poder Judicial, a propuesta del Consejo de la Judicatura;
 
 XXXII. Constituirse en Colegio Electoral y elegir al ciudadano que deba substituir al Gobernador del Estado, ya sea con el carácter de substituto o de provisional, en los términos del artículo 86 de esta Constitución;
 
@@ -891,9 +935,9 @@ LIV. Nombrar inspectores, interventores o auditores, con el objeto de examinar l
 
 LV. Expedir las leyes que regulen el ámbito de competencia del Gobierno del Estado y de los Municipios en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico;
 
-> <small>(ADICIONADA, G.O. 11 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-LVI. Instituir el Tribunal de lo Contencioso Administrativo, dotado de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal y Municipal y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones;
+LVI. Designar, con la aprobación de las dos terceras partes de los Diputados presentes; a los Magistrados del Poder Judicial, a propuesta del Consejo de la Judicatura;
 
 > <small>(REFORMADA, G.O. 11 DE FEBRERO DE 1989)</small>
 
@@ -959,11 +1003,15 @@ DE LOS MUNICIPIOS.
 
 El municipio libre es la base de la división territorial y de la organización política del Estado. Cada municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 111.
 
-Para la aplicación del principio de representación proporcional, en la elección de los Ayuntamientos del Estado, el Partido que alcance el mayor número de votos obtendrá la Presidencia Municipal y las Sindicaturas. Las Regidurías serán asignadas a cada Partido, incluyendo aquel que obtuvo la mayor votación, de acuerdo con las fórmulas electorales y procedimientos que establezca la Ley.
+En la elección de los Ayuntamientos del Estado, el partido político que alcance el mayor número de votos obtendrá la Presidencia Municipal y la Sindicatura. Las regidurías serán asignadas a cada partido, incluyendo a aquel que obtuvo la mayor votación, de acuerdo al principio de representación proporcional, tomando como base las fórmulas electorales y procedimientos que establezcan las leyes de la materia.
+
+La Legislatura del Estado, antes de cada elección de Ayuntamientos, decretará el número de ediles que deben integrarlos, con base en los datos del último censo de población y lo dispuesto por la Ley de la materia.
+
+No podrán crearse ni suprimirse cargos edilicios después de celebradas las elecciones respectivas.
 
 Los Agentes Municipales se elegirán de acuerdo al procedimiento que señala la Ley Orgánica del Municipio Libre.
 
@@ -1087,7 +1135,7 @@ II. Ser mayor de 25 años.
 
 III. No haber sido condenado por sentencia ejecutoria, por la comisión de delitos de naturaleza intencional.
 
-Para ocupar el puesto de Secretario General de Gobierno, son necesarios los mismos requisitos que para ser electo Gobernador, siendo indispensable, además, que la persona designada sea titulada en la ciencia del Derecho. El Subsecretario de Gobierno deberá reunir los mismos requisito que el Secretario General de Gobierno.
+Para ocupar el puesto de Secretario General de Gobierno, son necesarios los mismos requisitos que para ser electo Gobernador, siendo indispensable, además, que la persona designada sea titulada en la ciencia del Derecho. El Subsecretario de Gobierno deberá reunir los mismos requisitos que el Secretario General de Gobierno.
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
@@ -1121,193 +1169,427 @@ Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con obser
 
 DEL PODER JUDICIAL.
 
-> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 95.
 
 El ejercicio del Poder Judicial del Estado se deposita en los órganos a que se refiere el Artículo 36 de esta Constitución.
 
-> <small>(REFORMADO, G.O. 12 DE OCTUBRE DE 1993)</small>
+I. El Tribunal Superior de Justicia funcionará en pleno, en Tribunales Colegiados que residirán en la capital del Estado, así como en Tribunales Regionales, según lo determine la Ley Orgánica.
 
-El Tribunal Superior de Justicia estará integrado por 16 Magistrados Numerarios y 4 Supernumerarios; funcionará en Pleno o en Salas, según lo determine la Ley Orgánica; y será presidido por un Magistrado que no integrará Sala sino en los casos expresamente establecidos en la propia ley y designado por el Tribunal en Pleno, en la segunda sesión del mes de diciembre de cada año, pudiendo ser reelecto; en sus faltas temporales no mayores de treinta días, será sustituido por el Magistrado que él designe, pero si excediere de ese término, la designación la hará el Tribunal en Pleno. Los Magistrados Supernumerarios suplirán en sus ausencias a los Numerarios y además, tendrán el carácter de Visitadores Judiciales. Cada Magistrado del Tribunal Superior, al entrar a ejercer su cargo, protestará ante la Legislatura y, en los recesos de ésta, ante la Diputación Permanente: guardar y hacer guardar la Constitución Federal, la Particular del Estado y las leyes que de ella emanen, mirando en todo por la prosperidad y bienestar del Estado, así como impartir recta y pronta justicia.
+Se integrará por los Tribunales Colegiados en materia penal, los Tribunales Colegiados en materia civil, el Tribunal de lo Contencioso Administrativo, el Tribunal Estatal de Conciliación y Arbitraje, y los Tribunales Regionales.
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
+Los Tribunales a que se refiere el párrafo anterior podrán tener el carácter de mixtos, de acuerdo con lo que disponga la Ley.
 
-Los Jueces de Primera Instancia y los Menores, protestarán en los mismos términos ante el Presidente del Tribunal Superior o ante la Autoridad Judicial que el mismo Presidente designe.
+El Tribunal Superior de Justicia se compondrá por el número de Magistrados Numerarios, Supernumerarios e Interino que determine el Consejo de la Judicatura, de acuerdo con el presupuesto autorizado por la Legislatura y será presidido por un Magistrado que no integrará ninguno de los Tribunales que lo constituyan, sino en los casos expresamente establecidos en la propia Ley y electo por el Tribunal en Pleno, en la primera semana de diciembre de cada tres años pudiendo ser reelecto; en sus faltas temporales no mayores de treinta días, será sustituido por el Magistrado que él designe, pero si excediere de ese término, la designación la hará el Tribunal en Pleno.
 
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 1988)</small>
+Los Magistrados Supernumerarios podrán suplir en sus ausencias a los Numerarios y, tendrán el carácter de visitadores judiciales.
 
-Los Jueces Municipales protestarán ante los Jueces Primeros o únicos Menores o de Primera Instancia, y los auxiliares ante los Jueces Municipales.
+Los Tribunales Colegiados en materia penal, civil y mercantil, contará con un Presidente, que designará, los Plenos de cada Tribunal.
 
-> <small>(ADICIONADO, G.O. 12 DE OCTUBRE DE 1993)</small>
+Los Tribunales Regionales Colegiados, contarán con un Presidente, que designen sus propios Plenos.
 
-El Magistrado Presidente del Tribunal Superior de Justicia presentará ante el Pleno de este Organismo y demás integrantes del Poder Judicial, en la primera sesión de diciembre, un informe por escrito de las actividades realizadas por este Poder en el año correspondiente. Este informe se entregará a la Legislatura del Estado.
+El Tribunal de lo Contencioso Administrativo se integrará por tres y lo presidirá uno de sus integrantes, elegido por el Pleno de dicho Tribunal.
 
-> <small>(REFORMADO, G.O. 21 y 23 DE DICIEMBRE DE 1944)</small>
+El Tribunal Estatal de Conciliación y Arbitraje se integrará por Magistrados designados a propuesta del Consejo de la Judicatura, de acuerdo con las modalidades siguientes:
+
+A) El que fungirá como Presidente será propuesto en forma directa por el Consejo de la Judicatura.
+
+B) El Gobernador del Estado, enviará al Consejo de la Judicatura, el nombre y antecedentes de las personas que representen a las entidades públicas para que lo proponga a la Legislatura.
+
+C) La Federación mayoritaria de los sindicatos de trabajadores al servicio del Estado que se halle debidamente registrada en el Estado, enviará el nombre y antecedentes de la persona que los represente para que los proponga a la Legislatura.
+
+Si la Federación mayoritaria de los sindicatos de los trabajadores al servicio del Estado, no ejerciere el derecho señalado en el párrafo anterior, en el término que establezca la Ley, el Consejo de la Judicatura propondrá a la Legislatura, el nombramiento correspondiente.
+
+Los candidatos propuestos deberán cumplir los requisitos establecidos en el Artículo 97 de esta Constitución.
+
+II. El Tribunal Estatal de Elecciones, es un órgano autónomo especializado del Poder Judicial del Estado y máxima autoridad jurisdiccional en el ámbito de su competencia. Se instalará en la fecha en que de acuerdo con la Ley deba iniciarse el proceso electoral respectivo, o antes cuando así se requiera, debiendo concluir sus funciones cuando termine el proceso electoral de que se trate, sus sesiones serán públicas o secretas, en los términos que señale la ley respectiva y contará con el personal necesario para su adecuado funcionamiento.
+
+El Tribunal Estatal de Elecciones se integrará por tres Magistrados Numerarios y dos Supernumerarios, quienes al entrar a ejercer su cargo protestarán ante la Legislatura o Diputación Permanente en la forma y términos establecidos en la fracción VII del Artículo 99 de esta Constitución.
+
+Fungirá como Presidente del Tribunal, el Magistrado Numerario que designe el Pleno del mismo, durará en el cargo el período correspondiente al proceso electoral para el cual se instale dicho órgano y podrá ser reelecto.
+
+La organización del Tribunal y los procedimientos para resolver los asuntos de su competencia, serán los que determinen esta Constitución y las Leyes respectivas.
+
+La disciplina de Tribunal Estatal de Elecciones corresponderá, en los términos que señale la Ley, a un Comité que se integrará por el Presidente del Tribunal Estatal de Elecciones, quien la presidirá; un Magistrado Electoral y un miembro del Consejo de la Judicatura designados por la insaculación. Dicho Comité también tendrá facultades para substanciar y resolver en forma definitiva las diferencias o conflictos laborales que se presenten entre el organismo público encargado de la función electoral y sus servidores, así como también las que se presente entre el propio Tribunal Estatal de Elecciones y sus servidores.
+
+El Tribunal propondrá oportunamente sus presupuestos al Presidente del Tribunal Superior de Justicia para su inclusión en el proyecto del presupuesto del Poder Judicial del estado.
+
+Los Magistrados Electorales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado, a propuesta del Consejo de la Judicatura.
+
+Las propuestas serán presentadas al Pleno de la Legislatura, para que expida el nombramiento en un plazo no mayor de quince días. Si no se objetaren las propuestas dentro de dicho término, se tendrá por hecho el nombramiento; si se rechazaren se seguirá el procedimiento a que se refiere el Artículo 98 fracción I, de esta Constitución.
+
+Los Magistrados Electorales durarán en su encargo tres años, pudiendo ser reelectos, pero sólo actuarán en el ejercicio de estas atribuciones durante los procesos electorales.
+
+El personal del Tribunal regirá sus relaciones de trabajo conforme a las reglas especiales y de excepción dispuestas por la Ley Estatal del Servicio Civil en el Título correspondiente;
+
+III. Los Juzgados de Primera Instancia, Menores, Auxiliares, de Paz y de Comunidad, se integrarán por Jueces, Secretarios, funcionarios y empleados que requiera la prestación del servicio. Su número se determinará atendiendo alas necesidades sociales y a las disposiciones presupuestales;
+
+IV. La Comisión Jurisdiccional de Menores Infractores, se integrará y funcionará de acuerdo con lo que disponga la Ley;
+
+V. El Consejo de la Judicatura será el órgano encargado de conducir la administración, vigilancia y disciplina del Poder Judicial y estará integrado por los cinco miembros siguientes: El Presidente del Tribunal Superior de Justicia quien lo presidirá, un Magistrado y un Juez de Primera Instancia, ambos designados por el Pleno del Tribunal Superior mediante la insaculación del total de Magistrados y Jueces de Primera Instancia respectivamente, un Consejero designado por el Gobernador del Estado y un consejero designado por la Legislatura. Los tres últimos deberán satisfacer los mismos requisitos que se exigen para ser Magistrados y que se hayan distinguido por su capacidad y honestidad en el ejercicio de las actividades jurídicas.
+
+Los Consejeros, durarán en su cargo tres años y no podrán ser designados para otro período inmediato a excepción del Presidente;
+
+VI. La Ley establecerá las bases para la formación y actualización de los funcionarios del Poder Judicial, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 96.
 
-Para ser Magistrado se requiere:
+El Poder Judicial del Estado tendrá las atribuciones y competencia siguientes:
 
-I. Ser veracruzano conforme lo determina el artículo 13 de esta Ley, o mexicano por nacimiento con vecindad mínima de cinco años en el Estado.
+I. Aplicar las Leyes en asuntos civiles, así como penales del fuero común y mercantiles en jurisdicción concurrente, por medio de los Juzgados y Tribunales correspondientes.
 
-II. Ser mayor de treinta años y menor de sesenta y cinco, el día de la designación.
+En los asuntos civiles y penales, habrá dos instancias, cuando se impugne la resolución de la primera instancia o la Ley exija la revisión de ella;
 
-III. No ser ministro de ningún culto religioso.
+II. Resolver, mediante el Tribunal Estatal de Elecciones, las impugnaciones que se presenten en las elecciones de Gobernador, de Diputados a la Legislatura del Estado y de los Ayuntamientos, así como los demás recursos que señale la Ley de la materia, teniendo sus resoluciones el carácter de definitivas:
 
-IV. Ser abogado, con título oficial expedido por autoridad o corporación legalmente facultada, con antigüedad mínima de cinco años anteriores al día de la designación, y tener una práctica profesional no menor de ese lapso.
+III. Dirimir, a través del Tribunal de lo Contencioso Administrativo, las controversias que se susciten entre la administración pública estatal y municipal y los particulares.
 
-V. Ser de notoria moralidad y gozar de buena reputación.
+IV. Conocer a través del Tribunal Estatal de Conciliación y Arbitraje, de los asuntos laborales de la administración pública y sus trabajadores, sean de base o de confianza, en los términos que fije la Ley Estatal del Servicio Civil;
 
-VI. No haber sido condenado por sentencia ejecutoria, dictada por los Tribunales Penales.
+V. Resolver las controversias laborales que se susciten entre el Poder Judicial y sus trabajadores, sean de base o de confianza, las que se regirán por las reglas especiales y de excepción que disponga la Ley Estatal del Servicio Civil en el título correspondiente, de acuerdo con lo dispuesto por el Artículo 116, fracción VI, de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+VI. Tramitar y resolver mediante los procedimientos que señale la Ley, los asuntos de menores infractores.
+
+La representación legal del Poder Judicial la tendrán el Pleno del Tribunal Superior y el Pleno del Tribunal Estatal de elecciones, que se ejercerán por conducto de sus presidentes, respectivamente en la materia de su competencia y tendrán facultades para celebrar todo tipo de actos jurídicos y administrativos que se requieran para el buen funcionamiento del mismo.
+
+A. Al Pleno del Tribunal Superior le corresponde:
+
+I. Erigirse en Jurado de Sentencia conforme a lo dispuesto en el Artículo 123 de esta Constitución, para conocer en juicio político, cuando los servidores públicos incurran en actos u omisiones que constituyan perjuicio a los intereses públicos fundamentales y a su correcto despacho;
+
+II. Conocer, en los términos que fije la Ley respectiva, de los juicios de responsabilidad civil derivada del ejercicio del cargo respectivo, que se instauren a instancia de parte agraviada o de sus causahabientes en contra de Magistrados, Consejeros, Procurador General de Justicia, Secretarios de Despacho, y demás funcionarios subalternos de los Poderes Ejecutivo y Judicial. Esta disposición no rige para los Magistrados del Tribunal Estatal de Elecciones;
+
+III. Dictaminar sobre la probable responsabilidad administrativa de los Consejeros de la Judicatura;
+
+IV. Dirimir conflictos que surjan entre los Municipios y cualquiera de los Poderes del Estado, y de los Poderes entre sí, siempre que tales conflictos no sean de la competencia de la Suprema Corte de Justicia de la Nación, conforme al Artículo 105, fracción I de la Constitución General de la República;
+
+V. Procurar la unificación del criterio sustentando en las resoluciones en materia penal, civil, mercantil, administrativa o laboral, cuando las mismas sean contradictorias;
+
+VI. Resolver los conflictos de competencia que surjan entre los Tribunales;
+
+VII. Iniciar ante la Legislatura las Leyes que tengan por objeto mejorar la legislación civil, penal, administrativa, laboral y procesal, así como la organización de los tribunales;
+
+VIII. Expedir la reglamentación interior del Poder Judicial;
+
+IX. Designar, mediante insaculación, a un Magistrado y aun Juez de Primera Instancia para que se integren el consejo de la Judicatura y, en su caso, resolver sobre la solicitud de licencia o renuncia que presenten dichos funcionarios; y
+
+X. Las demás atribuciones que les señalen esta Constitución y las Leyes.
+
+A. 1. A los Tribunales en materia penal les corresponde conocer de los asuntos siguientes:
+
+I. En última instancia, de los recursos que se interpongan en contra de las resoluciones dictadas por los Jueces de Primera y auxiliares en asuntos del orden penal;
+
+II. De, conflictos de competencia que se susciten, en la materia, entre los diversos Juzgados del Estado;
+
+III. De la calificación de las excusas y recusaciones de los Jueces de Primera Instancia en materia penal; y
+
+IV. Las demás atribuciones que le confiera esta Constitución y las Leyes.
+
+A.2. A los Tribunales en materia Civil les corresponde conocer de los asuntos siguientes:
+
+I. De los recursos de apelación que se interpongan en contra de las resoluciones dictadas por los Jueces de Primera Instancia y Auxiliares en materia civil y mercantil en jurisdicción concurrente;
+
+II. Del recurso de queja y del juicio de responsabilidad civil, de acuerdo con lo que disponga la Ley;
+
+III. De los conflictos de competencia que se susciten, en la materia, entre los diversos Juzgados del Estado;
+
+IV. De la calificación de las excusas y de las recusaciones de los Jueces de Primera Instancia y Auxiliares en materia civil y mercantil en jurisdicción concurrente;
+
+V. De la revisión de oficio en los juicios donde está proceda; y
+
+VI. Las demás atribuciones que les confiera esta Constitución y las Leyes.
+
+A.3. Los Tribunales Regionales Colegiados, ejercerán las facultades a que se refieren los apartados A1, A2, A5 y A6, de este Artículo. Residirán en la cabecera del distrito judicial y tendrán competencia en la circunscripción territorial que señale el acuerdo de su creación y en los términos que disponga la Ley.
+
+A.4. A los Tribunales Regionales Unitarios les corresponde conocer de los asuntos siguientes:
+
+I. De la materia administrativa en primera instancia, en los términos establecidos en la Ley de la materia;
+
+II. De los recursos que se interpongan en materia civil, mercantil o penal, contra resoluciones distintas de las sentencias, cuando el Consejo de la Judicatura los autorice para ello, y
+
+III. Las demás atribuciones que le confieran esta Constitución y las Leyes.
+
+A.5. Al Tribunal Contencioso Administrativo le corresponde conocer de los asuntos siguientes:
+
+I. De los recursos de revisión que se interpongan en contra de las resoluciones de los Tribunales Regionales Unitarios en esta materia;
+
+II. De los recursos de reclamación que se interpongan en contra de los acuerdos de trámite dictados por el Presidente del Tribunal de lo Contencioso Administrativo; y
+
+III. De las demás que le confiera esta Constitución y las Leyes.
+
+A.6. Al Tribunal Estatal de Conciliación y arbitraje le corresponde conocer de los asuntos siguientes:
+
+I. De los conflictos individuales que se susciten entre las entidades públicas y sus trabajadores, sean de base o de confianza;
+
+II. De los conflictos colectivos que surjan entre las organizaciones de trabajadores de las entidades públicas y éstas; y
+
+III. De las demás que le confiera ésta Constitución y las Leyes.
+
+A.7. Los Tribunales mencionados en los apartados anteriores y los Juzgados del Estado, por acuerdo del Consejo de la Judicatura, en base a lo dispuesto por la Ley, podrán conocer en razón de su competencia en las materias correspondientes, con el carácter de mixtos.
+
+A.8. Los Tribunales a que se refieren los apartados anteriores, gozarán de plena autonomía para dictar sus fallos en la esfera de su competencia y ente ellos existirá igual jerarquía.
+
+B. Al Tribunal Estatal de Elecciones le corresponde en forma exclusiva:
+
+I. Conocer de las impugnaciones
+
+II. Realizar el cómputo final de la elección de Gobernador y una vez resueltas, las impugnaciones que se hubieren interpuesto, procederá a formular la declaración de validez de la elección y la de Gobernador electo respecto del candidato que hubiese obtenido el mayor número de votos; y
+
+III. Substanciar y resolver en forma definitiva, los recursos que se interpongan;
+
+a) Durante el proceso electoral en contra de los actos o resoluciones de los órganos electorales;
+
+b) En procesos electorales extraordinarios;
+
+c) Durante el tiempo que transcurra entre dos procesos electorales ordinarios, por actos o resoluciones de los órganos electorales.
+
+IV. Expedir su reglamento interior y los acuerdos generales para su adecuado funcionamiento;
+
+V. Realizar tareas de capacitación, investigación y difusión en materia de derecho electoral;
+
+VI. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades; y
+
+VII. Conocer de los demás asuntos que determine la Ley.
+
+C. Al Consejo de la Judicatura le corresponde:
+
+I. Conducir las Administración, vigilancia y disciplina del Poder Judicial y sus integrantes;
+
+II. Formar y actualizar a los funcionarios del Poder Judicial, así como el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia, de acuerdo con lo que disponga la Ley;
+
+III. Erigir, de acuerdo con la Ley de Egresos, los Tribunales y Juzgados en las materias que se requieran, pudiendo haber Tribunales o Juzgados Mixtos o Auxiliares; determinar la cabecera de distrito o ciudad donde deban residir, y adscribir a los Magistrados y Jueces que deban integrar cada uno de ellos;
+
+IV. Nombrar y cambiar de adscripción a los Jueces de primera Instancia, Menores y Auxiliares de ambos y a los de Paz, a los Secretarios de dichos Juzgados; así como resolver sobre las renuncias que le presenten estos servidores y demás funcionarios y empleados del Poder Judicial;
+
+V. Disponer que los Magistrados del Tribunal Estatal de Elecciones, en los períodos en que no esté instalado se integren al Tribunal Superior, de acuerdo con lo que disponga la Ley;
+
+VI. Tramitar las denuncias o quejas en contra de Magistrados del Tribunal Superior; investigar las mismas, respetando la garantía de audiencia, desahogar probanzas y dictaminar si hay o no responsabilidad y, en su caso, turnar el asunto al Poder Legislativo para la resolución definitiva;
+
+VII. Resolver los instructivos de responsabilidad por quejas o denuncias presentadas en contra de Jueces, Secretarios, actuarios y demás funcionarios y empleados del Poder Judicial, cuando incurran en el incumplimiento de obligaciones o en las faltas administrativas, previa garantía, fundando y motivando su resolución:
+
+VIII. Firmar y llevar al cabo convenios con las Instituciones de Educación superior a efecto de que la carrera judicial se desarrolle a nivel de excelencia y practicar los exámenes de oposición.
+
+IX. Elaborar el proyecto de presupuesto de egresos del Poder Judicial y someterlo a la aprobación del Pleno del Tribunal superior. Una vez acordado, el Presidente del Tribunal, lo enviará, junto con el del Tribunal Estatal de Elecciones, al Gobernador del Estado para su inclusión en el proyecto de presupuesto de Egresos del Estado.
+
+El presupuesto del tribunal Superior de Justicia y demás órganos del Poder Judicial, así como el del Tribunal Estatal de elecciones, se manejarán en renglones separados, pero bajo una sola unidad administrativa que será la del Poder Judicial, debiendo éste rendir cuentas anualmente a la Legislatura del estado, acerca de su ejercicio.
+
+El Poder Judicial administrará con autonomía su presupuesto.
+
+X. Administrar el fondo auxiliar para la impartición de justicia, que se integrará con los productos y rendimientos que se generen por las inversiones de los depósitos en dinero o valores que se efectúen ante los tribunales judiciales, y además con los ingresos por el pago de multas, cauciones o por cualquier otra prestación autorización autorizada por la Ley, en ejercicio de las atribuciones del Poder Judicial, que serán aplicados íntegramente al mejoramiento de la impartición de justicia;
+
+XI. Conocer de los avisos que los Magistrados le den de sus ausencias hasta por cinco días; y otorgar permisos económicos por el mismo término, a los Jueces del Estado. Asimismo, podrá delegar esa facultad en los Presidentes de los Tribunales y Jueces para que la ejerzan respecto de las solicitudes que presenten los secretarios y empleados de dichos órganos jurisdiccionales;
+
+XII. Nombrar, respetando el principio de la carrera judicial, y de preferencia por el sistema de oposición, a los Secretarios de los Tribunales y de los Juzgados, a los Defensores de Oficio, y demás funcionarios y empleados del Poder Judicial;
+
+XIII. Conceder a jueces, Secretarios, Defensores de Oficio, licencias con goce o sin goce de sueldo, de acuerdo a lo que disponga la Ley. Las licencias de los demás funcionarios y empleados del Poder Judicial se otorgarán por la autoridad y en los términos que disponga la Ley;
+
+XIV. Expedir los reglamentos en materia administrativa, de carrera judicial, de escalafón y régimen disciplinario; así como dictar acuerdos de carácter general, obligatorios para el ejercicio de sus atribuciones.
+
+XV. Las resoluciones del Consejo serán definitivas e inatacables y el ejercicio de las atribuciones a que se refieren las fracciones III, VI y VII de este Artículo son formalmente jurisdiccionales y materialmente administrativas; y
+
+XVI. Las demás atribuciones que les señalen las Leyes.
+
+D. Al Presidente del Tribunal Superior de Justicia le corresponde:
+
+I. Ejercer la representación legal de acuerdo con lo dispuesto en el segundo párrafo del Artículo 96 de esta Constitución. Podrá designar como su representante para asuntos concretos a otro Magistrado o funcionario del Poder Judicial;
+
+II. Presentar ante el Pleno del Tribunal Superior y demás integrantes del Poder Judicial, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por este Tribunal en el año correspondiente. Este informe se entregará a la Legislatura del Estado;
+
+III. Turnar a los Tribunales los asuntos de su competencia, conforme al sistema aleatorio determinado en la ley, con excepción de las controversias electorales;
+
+IV. Acordar en materia penal, la prórroga de jurisdicción, conjuntamente con los Presidentes de los Tribunales Colegiados de la materia, con residencia en la capital del Estado;
+
+V. Acordar sobre la sustitución de los Magistrados que se excusen de conocer de los asuntos turnados a los Tribunales correspondientes, cuidando de nivelar los llamados con el número de las excusas; y dar cuenta al consejo de la Judicatura de los casos en que se encuentren impedidos, o en los que se excusen sin motivo legal, a efecto de que, verificada la irregularidad, se proceda conforme a la Ley;
+
+VI. Imponer correcciones disciplinarias a los promoventes, litigantes o particulares, que en sus escritos falten al respecto a los Presidentes, Magistrados o Consejeros, o cuando de viva voz incurran en la misma falta, o interrumpan cualquier Sesión del Pleno del Tribunal Superior, de los Plenos de los Tribunales o del Pleno del Consejo de la Judicatura. También podrá imponer medios de apremios a cualquier funcionario o empleado, que no atienda los requerimientos que por escrito le formulen los Presidentes, Magistrados o Consejeros, con motivo del ejercicio de sus atribuciones;
+
+VII. Vigilar que los servidores públicos del Poder Judicial, cumplan con sus deberes oficiales, exhortándolos para que administren pronta y cumplida justicia. Si sus exhortaciones resultaren ineficaces, dará cuenta al Consejo de la Judicatura para que acuerde lo procedente;
+
+VIII. Disponer, en casos urgentes, lo necesario para el funcionamiento normal de la impartición de justicia, informando de las medidas adoptadas en la próxima sesión el Pleno del Tribunal Superior o del Consejo de la Judicatura, según corresponda, para los efectos procedentes; y
+
+IX. Las demás atribuciones que determinen esta Constitución y otras Leyes.
+
+E. A los jueces de primera Instancia les corresponde:
+
+I. El ejercicio de las facultades que les señales las Leyes;
+
+II. Efectuar concursos de oposición para ocupar los puestos vacantes de empleados y, en vista del resultado y de los antecedentes de carrera judicial de los aspirantes, hacer la propuesta respectiva al consejo de la Judicatura, para que se expida el nombramiento correspondiente; y
+
+III. Tramitar o en su caso resolver de acuerdo a lo que disponga la Ley, las solicitudes de licencias.
+
+F. A los Jueces Menores les corresponde:
+
+I. El ejercicio de las facultades que les señalen las leyes;
+
+II. Efectuar concursos de oposición para ocupar los puestos vacantes de empleados y, en vista del resultado y de los antecedentes de carrera judicial de los aspirantes, hacer la propuesta respectiva al consejo de la Judicatura, para que se expida el nombramiento correspondiente; y
+
+III. Tramitar o en su caso resolver de acuerdo a lo que disponga la Ley, las solicitudes de licencias.
+
+G. A los Jueces Auxiliares de los de Primera Instancia de los Menores, les corresponderá:
+
+I. Constituirse legalmente, por acuerdo del consejo de la Judicatura y en base a lo que disponga la ley, en cualquier localidad del Distrito Judicial correspondiente y conocer a plenitud de jurisdicción de los asuntos judiciales de los integrantes de los pueblos indígenas, tomando en cuenta sus prácticas y costumbres jurídicas y de los demás asuntos que disponga la Ley;
+
+II. Actuar dentro de un mismo juzgado, por acuerdo del consejo de la Judicatura, en base a lo que disponga la Ley, de conformidad con las siguientes reglas;
+
+1. Conocer como instructores, sentenciadores y ejecutores en la jurisdicción y competencia del Juez del Juzgado en que se encuentren temporalmente adscritos.
+
+2. La distribución de asuntos entre el juez titular y el Juez Auxiliar se realizará de acuerdo a lo que disponga la Ley tomando en consideración en lo aplicable, el orden numérico, fecha de radicación o la materia de los asuntos.
+
+III. Los demás asuntos que señalen las leyes.
+
+H. A los Jueces de Paz les corresponde:
+
+I. El ejercicio de las facultades que les señales las leyes;
+
+II. Efectuar concursos de oposición para ocupar los puestos vacantes de empleados y, en vista del resultado y de los antecedentes de carrera judicial de los aspirantes, hacer la propuesta respectiva al Consejo de la Judicatura, para que se expida el nombramiento correspondiente; y
+
+III. Tramitar o en su caso resolver de acuerdo a lo que dispongan la Ley, las solicitudes de licencias.
+
+I. A los Jueces de la Comunidad les corresponde el ejercicio de las atribuciones que les señalen las Leyes.
+
+J. A la Comisión Jurisdiccional de Menores Infractores le corresponde el ejercicio de las atribuciones que les señalen las leyes.
+
+K. Todos los jueces tienen obligación de ejecutar sus sentencias y laudos, de cuyo cumplimiento deban conocer o cuidar de que se ejecuten por las autoridades a quienes corresponda.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 97.
 
-Los nombramientos de los Magistrados del Tribunal Superior de Justicia, serán hechos directamente por el Gobernador, quedando encomendados los trámites relativos a la Secretaría General de Gobierno.
+Para ser Magistrado se requiere:
 
-> <small>(REFORMADO, G.O. 13 DE DICIEMBRE DE 1947)</small>
+I. Ser veracruzano conforme lo determina el artículo 13 de esta Constitución y haber residido en la Entidad durante los dos años anteriores al día de la designación, o mexicano por nacimiento con vecindad mínima de cinco años en el Estado, en pleno uso de sus derechos políticos y civiles;
 
-Las designaciones de Magistrados serán sometidas a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, la que otorgará o denegará esa aprobación dentro del improrrogable término de diez días. Si no se objetare la designación dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación expresa o tácita de la Legislatura, o en su caso, de la Diputación Permanente, no podrán tomar posesión de sus cargos los Magistrados nombrados por el Gobernador. En el caso de que no se aprueben dos nombramientos sucesivos respecto de la misma vacante, el Gobernador, hará un nombramiento, que surtirá efectos desde luego como provisional y que será sometido a la aprobación de la Legislatura en el siguiente período ordinario de sesiones. En este período, dentro de los primeros diez días, la Legislatura deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Legislatura desecha el nombramiento provisional, cesará desde luego en sus funciones de Magistrado y el Gobernador hará una nueva proposición en los términos señalados.
+II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-> <small>(REFORMADO, G.O. 21 y 23 DE NOVIEMBRE DE 1944)</small>
+III. Poseer título de licenciado en Derecho, expedido por autoridad o institución legalmente facultada, con antigüedad mínima de diez años anteriores al día de la designación, y tener una práctica profesional no menor de ese lapso;
 
-Los Jueces de Primera Instancia y los Agentes del Ministerio Público que reúnan los requisitos prevenidos para ser nombrados Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez en el ejercicio de sus funciones, serán preferidos a cualquier otro abogado para ser designados Magistrados.
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 1988)</small>
+No podrán ser Magistrados las personas que hayan ocupado el cargo de Secretario del Despacho o su equivalente, Procurador General de Justicia, Senador, Diputado Local o Federal ni Presidente Municipal, durante el año previo al día de su nombramiento; y
+
+Tampoco podrán ser Magistrados los ministros de cultos religiosos.
+
+Los Magistrados que integren el Tribunal Estatal de elecciones, deberán además, cumplir los requisitos que señale el Código de la materia.
+
+Nunca habrá dos o más Magistrados que sean parientes consanguíneos dentro del cuarto grado. Si hubiere Magistrados ligados entre sí por parentesco de afinidad deberán estar en Tribunales distintos.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 98.
 
-Los Jueces de Primera Instancia y los Jueces Menores, serán nombrados por el Tribunal Superior de Justicia en pleno mediante concurso de oposición. Será requisito previo para concursar en el citado examen de oposición, acreditar las materias del plan de estudios del Instituto de Especialización del Poder Judicial y satisfacer las cualidades de reconocido prestigio profesional, honradez, capacidad y buenos antecedentes dentro del Poder Judicial, en su caso.
+Los nombramientos de los Magistrados del Tribunal Superior serán hechos por la Legislatura del estado, con el voto de las dos terceras partes de los diputados presentes, a propuesta del consejo de la Judicatura. En los recesos de la Legislatura, la Diputación Permanente hará el nombramiento con el carácter de provisional, mientras se reúne la Legislatura y da la aprobación definitiva, o en su caso, se observará lo dispuesto en la fracción I, siguiente:
 
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+I. Las propuestas del Consejo de la Judicatura serán analizadas por la Legislatura del Estado, la que nombrará como Magistrado a la persona de que se trate o rechazará la propuesta, dentro del improrrogable término de diez días. Si no se objetare dentro de dicho término, se tendrá por hecho el nombramiento. En el caso de que se rechacen dos propuestas sucesivas respecto de la misma vacante, la Legislatura hará un nombramiento, que surtirá efectos desde luego como provisional. Dentro de los primeros diez días del siguiente período ordinario de sesiones, el Consejo de la Judicatura podrá proponer al designado provisionalmente o a otro; en el primer caso, el Magistrado nombrado provisionalmente seguirá en sus funciones con el carácter de definitivo; en el segundo caso, si el Consejo de la Judicatura hace una propuesta, el nombrado provisionalmente cesará en sus funciones como Magistrado, una vez que la Legislatura del Estado resuelva sobre la misma en los términos señalados en esta Constitución; y
 
-Podrán quedar exentos de examen de oposición, a juicio del Tribunal en Pleno, quienes hayan fungido como Magistrados, Jueces de Primera Instancia o Procurador General de Justicia, en el supuesto de que reúnan las cualidades antes apuntadas.
+II. Los jueces de Primera Instancia y los Agentes del Ministerio Público que reúnan los requisitos establecidos para ser nombrados Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez en el ejercicio de sus funciones serán preferidos a cualquier otro para tal cargo.
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
-
-El Tribunal Superior podrá designar Jueces de Primera Instancia o Menores Interinos, hasta por un año improrrogable para ocupar las vacantes que dejen los titulares en los casos que señale la Ley respectiva.
-
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
-
-Los Jueces Municipales serán nombrados por el Tribunal Superior de Justicia, a propuesta en terna del Juez o Jueces de Primera Instancia del Distrito Judicial respectivo.
-
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
-
-Los Jueces Auxiliares serán designados por el Juez Municipal de su Jurisdicción o por el Juez Menor en su caso, oyendo a la comunidad.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 99.
 
-Los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y los Jueces Menores durarán en su cargo tres años, al término de los cuales si fueren ratificados, sólo podrán ser privados de sus puestos, en los términos del Título Cuarto de la Constitución Federal o del Título Sexto de esta Constitución.
+Los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y los Jueces Menores durarán en su cargo tres años, al término de los cuales si fueren ratificados por la Legislatura en el caso de los Magistrados, o por el Consejo de la Judicatura, en lo que se refiere a los Jueces, sólo podrán ser privados de sus cargos, en base a lo dispuesto en el Título Cuarto de la Constitución Federal, y con fundamento en este Capítulo y en el Título Sexto de esta Constitución.
 
-> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
+I. Los Magistrados del Tribunal Estatal de elecciones, durarán en su cargo el término que establece el Artículo 95 fracción II, párrafo noveno, de esta Constitución;
 
-Los jueces municipales durarán indefinidamente en sus funciones, siempre que desempeñen correctamente sus atribuciones legales; pero podrán ser destituidos cuando lo estime conveniente el Tribunal Superior, o en los casos que determine la Ley.
+II. Los Jueces de Primera Instancia y los Jueces Menores, serán nombrados por el consejo de la Judicatura mediante concurso de oposición. Será requisito previo para concursar en el citado examen de oposición, acreditar las materias del plan de estudios del Instituto de Capacitación y de especialización del Poder Judicial y satisfacer las cualidades de reconocido prestigio profesional, honradez, capacidad y, en su caso, buenos antecedentes dentro del Poder Judicial;
 
-> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
+III. Podrán quedar exentos de examen de oposición, a juicio del Consejo de la Judicatura, quienes hayan fungido en el estado como Magistrados o Procurador General de Justicia, en el supuesto de que reúnan las cualidades antes señaladas;
 
-Los jueces auxiliares durarán en sus funciones un año, pudiendo ser nombrados nuevamente para el siguiente, pero sin exceder de este término.
+IV. El Consejo de la Judicatura podrá designar con el carácter de interino a Jueces de Primera Instancia, Jueces Menores o Jueces Auxiliares de Primera Instancia y de los Menores, hasta por el término de un año improrrogable para ocupar las vacantes que dejen los titulares en los casos que señale la Ley respectiva;
 
-> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
+V. Los Jueces de Paz serán nombrados por el Consejo de la Judicatura, a propuesta, en terna del Juez de Primera Instancia del Distrito Judicial respectivo, a quien el citado Consejo haya solicitado dicha propuesta. Durarán indefinidamente en sus funciones y sólo podrán ser destituidos cuando incurran en falta, de acuerdo con el Artículo 100 de esta Constitución o Leyes aplicables;
 
-El límite máximo de edad para el ejercicio de los cargos anteriores, será el de setenta años, cumplidos los cuales deberán retirarse forzosamente, para cuyo efecto el Tribunal en Pleno, a instancia del interesado o de oficio, hará la declaración correspondiente.
+VI. Los Jueces de Comunidad serán designados por el Juez de Paz de su jurisdicción o por el Juez Menor, en su caso, oyendo a la comunidad y en donde existan etnias se nombrará a un integrante de ellas. Durarán en sus funciones un año, pudiendo ser nombrados nuevamente para el siguiente, pero sin exceder de este término; y
+
+VII. Todos los Magistrados del Tribunal Superior, antes de ejercer su cargo, protestarán ante la Legislatura y, en los recesos de ésta, ante la Diputación Permanente, en la forma siguiente:
+
+Presidente: "¿Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Poder Judicial que se os ha conferido y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, así como la (sic) leyes que de ambas emanen, y cumplir bien y fielmente las obligaciones de su encargo?".
+
+Magistrado: "Sí protesto".
+
+Presidente: "Si no lo hiciereis así, que esta Representación Popular os lo demande".
+
+Los Jueces de Primera Instancia, los Menores y los Auxiliares, protestarán en los mismos términos ante el Consejo de la Judicatura o ante la autoridad judicial que el mismo Consejo designe.
+
+Los Jueces de Paz protestarán ante los Jueces Menores o de Primera Instancia, y los Jueces de Comunidad ante los jueces que los designaron.
+
+Todos los integrantes del Consejo de la Judicatura antes de tomar posesión de su cargo protestarán en los términos establecidos en este artículo.
+
+Los miembros de la Comisión Jurisdiccional de Menores Infractores rendirán su protesta ante el Consejo de la Judicatura, en los términos de este Artículo.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 100.
 
-El Tribunal residirá en la Capital del Estado, y, en ningún caso, ejercerá sus funciones fuera de ella, a no ser que sea autorizado legalmente por la Legislatura.
+De acuerdo con lo dispuesto en este capítulo y en el Título Sexto de esta Constitución se expedirá la ley reglamentaria en materia de responsabilidades de los Servidores Públicos del Poder Judicial en que se considere el juicio político para Magistrados, Consejeros, y Jueces de Primera Instancia; la declaración para proceder penalmente en contra de Magistrados y Consejeros y el procedimiento para aplicar las sanciones en los casos de faltas administrativas, cometidas por Magistrados, Consejeros, Jueces, Secretarios y demás funcionarios y empleados de dicho Poder.
 
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+I. En el juicio político y en la declaración de procedencia en contra de servidores públicos del Poder Judicial se aplicarán los Artículos respectivos del Título Sexto de esta Constitución;
+
+II. Podrán ser privados de sus cargos los Magistrados del Poder Judicial, en los términos que señale la Ley, por actos u omisiones, contrarios a la legalidad, honradez, lealtad, imparcialidad y eficacia que caracteriza el ejercicio de las funciones del alto cargo que desempeñan;
+
+III. A petición del Gobernador del Estado, del Procurador General de Justicia, de persona agraviada o de su causahabiente, el Consejo de la Judicatura o el Comité iniciará en forma directa la investigación correspondiente, cuando se presente alguno de los supuestos a que se refiere el párrafo anterior;
+
+IV. El Consejo de la Judicatura y el Comité al que hacer referencia el quinto párrafo de la fracción II del artículo 95 de esta Constitución según sea el caso, otorgarán la garantía de audiencia al Magistrado; desahogará las probanzas, y dictaminará sobre si hay o no responsabilidad. En el primer supuesto, enviará el dictamen y el expediente completo ala Legislatura del Estado o a la Diputación Permanente, con objeto de que dicho Poder resuelva si ha lugar o no a la destitución del o los Magistrados, y en el segundo mandará archivar el expediente;
+
+V. Cuando los integrantes del Consejo de la Judicatura incurran en responsabilidad administrativa podrán ser privados de sus cargos de acuerdo a lo dispuesto en esta Constitución. El Pleno del Tribunal Superior dictaminará sobre si hay o no responsabilidad y, en su caso, turnará el expediente y el dictamen al Gobernador del Estado o al Poder Legislativo, según corresponda, para que emita la resolución definitiva, según corresponda, para que emita la resolución definitiva. En el caso de los Consejeros designados por el Pleno, éste emitirá la resolución definitiva.
+
+VI. Los Jueces, Secretarios, Actuarios y demás funcionarios y empleados del Poder Judicial, que incurran en incumplimiento de sus obligaciones o en las faltas a que se refieren los supuestos señalados en esta Constitución, Códigos, Leyes y reglamentos, podrán ser destituidos por el consejo de la Judicatura, cuando el caso lo amerite, mediante el procedimiento que señale la Ley, previa garantía de audiencia fundando y motivando su resolución;
+
+VII. La ley de la materia señalará los premios, estímulos y recompensas a los servidores públicos del Poder Judicial, que se hagan acreedores a ellos, por su buen desempeño.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 101.
 
-En el Tribunal Superior de Justicia nunca habrá dos o más Magistrados que sean parientes consanguíneos dentro del cuarto grado. Si hubiere Magistrados ligados entre sí por parentesco de afinidad, deberán estar en Salas distintas.
+El Pleno del Tribunal Superior, el Consejo de la Judicatura, el Tribunal Estatal de Elecciones y los Tribunales Colegiados en materia Penal, Civil, Administrativa y Laboral residirán en la capital del Estado.
 
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+Los Magistrados de los Tribunales Colegiados que residan en la capital del Estado, integrarán el Pleno del Tribunal Superior, el que no podrá ejercer sus funciones sin la concurrencia de las dos terceras partes de sus integrantes.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 102.
 
-Las renuncias de los Magistrados solamente procederán por causas graves; serán sometidas al Gobernador y si éste las acepta, las enviará a su vez para su aprobación a la H. Legislatura o a la Diputación Permanente en su caso.
+El Poder Judicial deberá cubrir todos los salarios de sus servidores. Los Magistrados, los Consejeros de la Judicatura y los Jueces, percibirán un sueldo presupuestal básico e irrenunciable, el cual no podrá ser disminuido durante su encargo. Los Magistrados, cuando tengan que retirarse por alcanzar el tiempo que fije la Ley para jubilarse, recibirán una pensión de acuerdo con lo que disponga la Ley. Esta última disposición también rige, para los Magistrados del Tribunal Estatal de Elecciones, que hayan acumulado la antigüedad en el servicio, de acuerdo con la Ley aplicable a los demás Magistrados.
 
-> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 1924)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 103.
 
-Los Magistrados propietarios del Tribunal Superior de Justicia en sus faltas temporales que excedieren de cinco días y no pasaren de dos meses, serán substituídos por los supernumerarios en el orden de la elección de éstos, llamándose por consiguiente en primer término al primero; si éste estuviere en funciones o no pudiera acudir por cualquier circunstancia, al segundo, y así sucesivamente, pero una vez que haya entrado a funcionar alguno de ellos, continuará haciéndolo durante todo el término de la licencia del propietario que substituya. En sus excusas o impedimentos se substituirán recíprocamente en el orden que lo determina la Ley; pero los supernumerarios deberán ser llamados a integrar Sala cuando lo acordare el Presidente del Tribunal o la mayoría de los Magistrados propietarios estuviere impedida. En estos casos deberán ser llamados por el mismo Presidente. En las faltas de los Magistrados que no excedan de cinco días, serán, a ser posible, substituídos por el Presidente, quien también integrará las Salas mientras se presente el supernumerario respectivo.
+Las renuncias de los Magistrados solamente procederán por causas graves; serán presentadas al Consejo de la Judicatura, al que las someterá a la consideración de la Legislatura del Estado o de la Diputación Permanente.
 
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+Las renuncias de los Consejeros de la Judicatura, sólo procederá por causas graves y será sometida para su consideración al Gobernador del Estado, a la Legislatura o Diputación Permanente, o al Pleno del Poder Judicial, de acuerdo con el origen de su designación.
 
-Si faltare algún Magistrado Propietario por defunción, renuncia, suspensión definitiva, incapacidad o por cualquiera otra circunstancia dentro de los seis meses restantes para cumplir su período, la falta será suplida por el Supernumerario que corresponda; y en caso contrario, el Gobernador hará nuevo nombramiento en los términos prevenidos por el artículo 97.
-
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
-
-Las licencias de los Magistrados, cuando no excedan de un mes serán concedidas por el Tribunal Superior; las que excedan de este tiempo, las concederá el Gobernador con aprobación de la Legislatura o, en sus recesos, de la Diputación Permanente.
-
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 104.
 
-Los Magistrados Numerarios y Supernumerarios del Tribunal Superior, el Procurador General de Justicia del Estado, los Jueces de Primera Instancia, los Jueces Menores y los respectivos Secretarios, no podrán servir o desempeñar al mismo tiempo otro empleo o cargo de la Federación, del Estado, del Municipio o de particulares, salvo los cargos honoríficos en asociaciones científicas, literarias o de beneficencia y lo señalado en el artículo 133 de esta Constitución. La infracción a esta disposición será castigada con la pérdida del cargo.
+Los Magistrados numerarios del Tribunal Superior de Justicia en sus faltas temporales que excedieren de cinco días y no pasaren de dos meses, serán sustituidos por los supernumerarios en el orden de la designación de éstos, pero una vez que haya entrado a ejercer la función alguno de ellos, continuará haciéndolo durante todo el término de la licencia del numerario a quien sustituya. En sus excusas o impedimentos su sustituirán recíprocamente en el orden que determine la Ley; pero los supernumerarios deberán ser llamados a integrar el Tribunal que corresponda cuando así lo acordare el Consejo de la Judicatura o cuando la mayoría de los Magistrados numerarios estuviere impedida. En las faltas de los Magistrados que no excedan de dos meses, si no es posible que entren a funcionar los Supernumerarios, serán sustituidos por el Secretario de Acuerdos del Tribunal correspondiente, a excepción del Tribunal Estatal de Elecciones. El Secretario al entrar a ejercer las funciones de Magistrados rendirá la protesta de Ley ante el Consejo de la Judicatura.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+I. Si faltare algún Magistrado numerario por defunción, renuncia, destitución, incapacidad o por cualquier otra circunstancia dentro de los seis meses restantes para cumplir su período, la falta será suplida por el supernumerario que corresponda, y en caso contrario, se hará nuevo nombramiento en los términos previstos por esta Constitución;
+
+II. En caso de faltas temporales de los Magistrados numerarios del Tribunal Estatal de Elecciones, que no excedan de dos meses, el Consejo de la Judicatura llamará al supernumerario de dicho Tribunal en el orden de elección de éstos y cuando la falta sea definitiva lo comunicará a la Legislatura o Diputación Permanente para que resuelva lo procedente;
+
+III. Las licencias de los Magistrados del Poder Judicial, cuando no excedan de dos meses serán concedidas por el Consejo de la Judicatura; las que excedan de este tiempo, se someterán a la consideración de la Legislatura o la Diputación Permanente
+
+IV. En el caso que se acepte la licencia a que se refiere la última parte del párrafo anterior, el Consejo de la Judicatura propondrá a la Legislatura designe, un Magistrado Supernumerario interino, para cubrir temporalmente la ausencia del propietario, o en su caso, la Diputación Permanente hará la designación con el carácter de provisional;
+
+V. Las licencias de los Consejeros de la Judicatura, a excepción del Presidente, que no excedan de quince días, serán concedidas por el Presidente del Tribunal superior; en el caso de que excedan de dicho término o se produzca ausencia definitiva por retiro, defunción o destitución, lo resolverá, según sea el caso, el Gobernador del Estado, la Legislatura, o el Pleno del Tribunal Superior, para que se designe a la persona que lo sustituya.
+
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 105.
 
-Corresponde al Tribunal Superior:
+Los Magistrados Numerarios y Supernumerarios del Poder Judicial del Estado, el Procurador General de Justicia del Estado, Los Consejeros de la Judicatura, los Jueces de Primera Instancia, Menores y los Jueces Auxiliares de ambos; Los Jueces de Paz, así como los respectivos Secretarios de cada Tribunal o Juzgado, no podrán servir o desempeñar al mismo tiempo otro empleo, cargo o comisión de la Federación, del Estado, del Municipio o de particulares, salvo los cargos honoríficos en las instituciones públicas o privadas, asociaciones o sociedades científicas, literarias o de beneficencia y lo señalado en el Artículo 133 de esta Constitución. La infracción a lo dispuesto en este Artículo, implicará la pérdida del cargo.
 
-I. Iniciar ante la Legislatura las Leyes y Decretos que tengan por objeto mejorar la Legislación civil, penal y de organización de Tribunales;
-
-> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
-
-II. Erigirse en Jurado de Sentencia, conforme a lo dispuesto en el artículo 123 de esta Constitución, para conocer en juicio político, cuando los servidores públicos incurran en actos u omisiones que constituyan perjuicio a los intereses públicos fundamentales y a su correcto despacho;
-
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 1986)</small>
-
-III. Conocer, en los términos que fije la ley respectiva, en pleno, de los instructivos de responsabilidad que hayan de formarse a sus miembros, a los Secretarios del Despacho, al Procurador General de Justicia y a los Jueces de Primera Instancia, hasta resolver si ha lugar o no a formación de causas;
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
-
-IV. Nombrar a los Jueces de Primera Instancia y a los Jueces Menores conforme a lo dispuesto en el artículo 98;
-
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
-
-V. Nombrar a los Jueces Municipales en los términos establecidos en el artículo 98;
-
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 1988)</small>
-
-VI. Conceder licencias sin goce de sueldo a sus empleados y cuando excedieren de tres meses a los de los Juzgados de Primera Instancia y Menores, a los Jueces Municipales, así como a los defensores de oficio y a los Visitadores Judiciales;
-
-> <small>(REFORMADA, G.O. 5 DE ABRIL DE 1984)</small>
-
-VII. Nombrar y remover conforme a la Ley a los Defensores de Oficio, Médicos Legistas y demás servidores públicos del Tribunal Superior, así como sancionar sus faltas con multa o suspensión y admitir sus renuncias;
-
-> <small>(REFORMADA, G.O. 5 DE ABRIL DE 1984)</small>
-
-VIII. Formular y aplicar los exámenes de oposición conforme a lo señalado por el artículo 98;
-
-IX. Formar su Reglamento Interior;
-
-X. Dirimir los conflictos que surjan entre los Municipios y cualquiera de los Poderes del Estado; y los de los demás poderes entre sí, siempre que tales conflictos no sean de la competencia de la Suprema Corte de Justicia de la Nación, conforme al artículo 105, de la Constitución General de la República; y
-
-XI. Ejercer las demás atribuciones que les señalen las leyes.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 106.
 
-Los cargos de Juez de Primera Instancia y de Juez Menor son renunciables y sólo por motivos fundados no aceptará el Tribunal su renuncia.
+En cumplimiento a lo dispuesto en el artículo 7º de esta Constitución, la Ley establecerá sistemas alternativos de solución de controversias, a través de conciliadores, mediadores o árbitros, cuyos convenios o laudos tendrán la calidad de sentencia con autoridad de cosa juzgada, siempre que no sean contrarios al derecho, a la moral o al orden público y sean aprobados judicialmente.
 
-> <small>(REFORMADO, G.O. 5 DE ABRIL DE 1984)</small>
-
-Los Jueces de Primera Instancia tendrán las atribuciones que les señalen las Leyes; nombrarán y removerán conforme a la Ley a sus empleados y podrán conceder a éstos, a los Jueces Municipales y a los Auxiliares, licencias sin goce de sueldo, a los que lo devenguen, hasta por tres meses, dando aviso al Tribunal. El nombramiento de Secretario de los Juzgados de Primera Instancia se hará con aprobación del Presidente del Tribunal, quien podrá retirarlo cuando existiere causa grave para ello.
-
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 1988)</small>
-
-El nombramiento de Secretario de los Juzgados de Primera Instancia y de los Juzgados Menores, se hará con la aprobación del Presidente del Tribunal, quien podrá destituirlo cuando existiere causa grave para ello.
-
-> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 74.
 
@@ -1323,9 +1605,11 @@ Aprobado el proyecto en los términos que disponen los artículos anteriores, es
 
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 1986)</small>
 
-### CAPITULO I.
+### CAPITULO IX.
 
-DE LA HACIENDA Y CRÉDITO DEL ESTADO.
+DE LA PROTECCIÓN DE LOS DERECHOS HUMANOS.
+
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 1992)</small>
 
 ###### Artículo 107.
 
@@ -1333,7 +1617,7 @@ La protección de los Derechos Humanos que otorga el orden jurídico mexicano, e
 
 Este Organismo no será competente, tratándose de asuntos electorales, laborales o jurisdiccionales.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+> <small>(ADICIONADO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 76.
 
@@ -1379,11 +1663,11 @@ Los procedimientos para la aplicación de las sanciones mencionadas, se desarrol
 
 La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente por causa del enriquecimiento ilícito a los servidores públicos, señalando las bases para el Registro Patrimonial de éstos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 123.
 
-Podrán ser sujetos de juicio político, los Diputados, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia, los Secretarios del Despacho, el Subsecretario de Gobierno, el Procurador General de Justicia, los Agentes del Ministerio Público, los Directores, Subdirectores, Jefes de Departamento, del Poder Ejecutivo, los Magistrados del Tribunal de lo Contencioso Administrativo, los Directores, Gerentes o Encargados de organismos descentralizados o desconcentrados, empresas de participación estatal, sociedades, asociaciones o fideicomisos constituídos por el Estado.
+Podrán ser sujetos de juicio político los Diputados, los Magistrados del Poder Judicial, los Consejeros de la Judicatura, los Jueces de Primera Instancia, los Secretarios del Despacho y Subsecretarios, el Procurador General de Justicia y los Subprocuradores, los Directores, Subdirectores y Jefes de Departamento del Poder Ejecutivo, los Directores, Gerentes o encargados de Organismos descentralizados o desconcentrados, empresas de participación estatal, sociedades, asociaciones o fideicomisos constituidos por el Estado, así como los Comisionados Electorales del Consejo General de la comisión Estatal electoral, el Director General, el Secretario General y los Coordinadores Ejecutivos de este organismo.
 
 > <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1405,11 +1689,11 @@ Conociendo de la acusación, el Pleno del Tribunal Superior de Justicia erigido 
 
 Las declaraciones de la Legislatura y del Tribunal Superior de Justicia son inimpugnables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 124.
 
-Para proceder penalmente en contra de los Diputados, los Magistrados del Tribunal Superior de Justicia, el Gobernador del Estado, los Secretarios del Despacho, el Subsecretario de Gobierno, el Procurador General de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo o los Presidentes Municipales, por la comisión de delitos durante el tiempo de su encargo, la Legislatura del Estado, por las dos terceras partes de los votos de la totalidad de sus integrantes, declarará si ha lugar a proceder contra el inculpado. En el procedimietno (sic) que se siga, se respetarán las garantías de audiencia y legalidad.
+Para Proceder penalmente en contra de los Diputados, los Magistrados del Poder Judicial, los Consejeros de la Judicatura, el Gobernador del Estado, los Secretarios del Despacho, el Subsecretario de Gobierno, el Procurador General de Justicia, el Contralor General del Estado o los Presidentes Municipales, por la comisión de delitos durante el tiempo de su encargo, la Legislatura del Estado, por las dos terceras partes de los votos de la totalidad de sus integrantes, declarará si ha ligar a proceder contra el inculpado. En el procedimiento que se siga, se respetarán las garantías de audiencia y legalidad.
 
 > <small>(REFORMADO, G.O. 9 DE FEBRERO DE 1984)</small>
 
@@ -1605,11 +1889,11 @@ La disposición que aumente o disminuya la remuneración que perciben los servid
 
 Todos los funcionarios y empleados del Estado y del Municipio, al entrar a desempeñar sus cargos, harán protesta formal de guardar y cumplir la Constitución General de la República, la particular del Estado y todas las leyes que de ambas emanen.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE MARZO DE 1997)</small>
 
 ###### Artículo 136.
 
-El Gobernador, los Magistrados Propietarios, los Supernumerarios cuando estén en funciones, el Procurador General de Justicia del Estado, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios del Despacho, los Secretarios del Tribunal, los Visitadores Judiciales permanentes y los Secretarios de los Juzgados, no podrán intervenir como árbitros o arbitradores, ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios intereses o los correspondientes a su cónyuge, concubina o concubinario, parientes por consanguinidad en línea recta sin limitación de grado, colateral consanguíneo hasta el cuarto grado y por afinidad hasta el segundo, así como el civil y cuando exista relación de tutela o curatela. La infracción de este artículo será causa de responsabilidad.
+El Gobernador, Los Magistrados del Poder Judicial, los Consejeros de la Judicatura, el Procurador General de Justicia del Estado, los Jueces de Primera Instancia, Menores, Auxiliares y de Paz, Los Presidentes Municipales, Los Secretarios del Tribunal, los Visitadores Judiciales y los Secretarios de los Juzgados, no podrán intervenir como árbitros ni conciliadores ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios intereses o los correspondientes a su cónyuge, concubina o concubinario, pariente por consanguinidad en línea recta sin límite de grado, colateral consanguíneo hasta el cuarto grado y por afinidad hasta el segundo, así como el civil y cuando exista relación de tutela o curatela. La infracción de este Artículo causa de responsabilidad.
 
 > <small>(REFORMADO, G.O. 21 DE SEPTIEMBRE DE 1922)</small>
 
@@ -1617,11 +1901,11 @@ Esta prohibición comprende a los funcionarios o empleados que no estén en el e
 
 ###### Artículo 137.
 
-En los negocios civiles que no se sometan a árbitros o arbitradores y en los asuntos criminales, habrá dos instancias, cuando se apele de la primera sentencia o la ley exija la revisión de ella.
+(DEROGADO, G.O. 20 DE MARZO DE 1997)
 
 ###### Artículo 138.
 
-Todos los jueces tienen la obligación de ejecutar sus sentencias, o cuidar de que se ejecuten por las autoridades a quienes corresponda.
+(DEROGADO, G.O. 20 DE MARZO DE 1997)
 
 ###### Artículo 139.
 
@@ -1647,6 +1931,12 @@ IV. El último Presidente del Tribunal Superior.
 
 La persona que asuma el Poder Ejecutivo, convocará, desde luego, a elecciones sujetándose, en lo posible, a la forma y términos prescritos por esta Constitución.
 
+### CAPITULO X.
+
+DEL MINISTERIO PÚBLICO.
+
+> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+
 ###### Artículo 108.
 
 El Ministerio Público a cuyo cargo está velar por la exacta observancia de las leyes de interés general, será desempeñado en el Estado por el Procurador General y los Agentes de dicho Ministerio.
@@ -1664,6 +1954,10 @@ Las faltas temporales del Procurador General de Justicia, que no excedan de cinc
 ###### Artículo 80.
 
 La víspera del día en que deben terminar las sesiones ordinarias, la Legislatura mediante votación secreta nombrará para el tiempo de su receso una Diputación Permanente, compuesta por dieciocho Diputados en ejercicio, de los cuales nueve funcionarán como propietarios y nueve quedarán como suplentes.
+
+### CAPITULO I.
+
+DE LA HACIENDA Y CRÉDITO DEL ESTADO.
 
 ###### Artículo 115.
 
@@ -1715,21 +2009,23 @@ I. Convocar a la Legislatura a sesiones extraordinarias, en los casos que la mis
 
 II. Llamar a los Diputados suplentes de la misma Diputación, cuando por muerte, renuncia, inhabilidad o licencia por más de dos meses, falte alguno de los propietarios;
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-III. Otorgar o negar su aprobación a los nombramientos de los magistrados, así como a las solicitudes de Licencia de los mismos, que le someta el Gobernador, ejercer las mismas facultades de la Legislatura en los casos de las fracciones IX, X y XXXI del artículo 68;
+III. Nombrar provisionalmente a los Magistrados del Tribunal Superior, así como conceder o negar las solicitudes de licencia o renuncia de los mismos que les someta el Consejo de la Judicatura y ejercer las mismas facultades de la Legislatura en los casos de las fracciones V y X, del Artículo 68;
 
 IV. Emitir su opinión en todos los asuntos que se presenten en el tiempo de su período y sobre los que quedaren pendientes al clausurarse las sesiones. Cuando se trate de asuntos de la competencia de la Legislatura, se reservarán los dictámenes para que sean discutidos por ésta;
 
 V. Acordar el llamamiento de los suplentes, en caso de muerte, separación o impedimento que no fuere transitorio, de los Diputados que hubieren de funcionar en las sesiones próximas;
 
-VI. Decretar, a iniciativa del Tribunal Superior de Justicia, la creación de Juzgados Auxiliares de Primera Instancia;
+VI. (DEROGADA, G.O. 20 DE MARZO DE 1997)
 
-VII. Aprobar, a propuesta del Tribunal Superior, el nombramiento de Visitadores Judiciales, cuando éstos deban disfrutar sueldo;
+VII. (DEROGADA, G.O. 20 DE MARZO DE 1997)
 
 VIII. Convocar a elecciones extraordinarias, cuando falten, a la vez, un Diputado propietario y el suplente respectivo, y siempre que hayan de transcurrir más de seis meses para que concluya el período;
 
-IX. (DEROGADA, G.O. 9 DE FEBRERO DE 1984)
+> <small>(ADICIONADA, G.O. 20 DE MARZO DE 1997)</small>
+
+IX. Designar provisionalmente a un miembro del Consejo de la Judicatura y resolver sobre la solicitud de licencia o renuncia que presente dicho funcionario;
 
 X. Autorizar al Ejecutivo para poner sobre las armas la Guardia Nacional; y
 
@@ -1805,7 +2101,9 @@ VI. Fomentar, por todos los medios posibles, la educación popular y procurar el
 
 VII. Convocar, de acuerdo con la Diputación permanente, a la Legislatura a sesiones extraordinarias;
 
-VIII. Visitar a los Municipios del Estado, cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo y dando cuenta a la Legislatura o al Tribunal Superior de las faltas que notare y cuyo remedio corresponda a los Poderes Legislativo o Judicial;
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
+
+VIII. Visitar a los municipios del Estado cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo y comunicar a la Legislatura o al Consejo de la Judicatura, las faltas que notare y cuya corrección corresponda a los Poderes Legislativo o Judicial;
 
 IX. Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos el auxilio que necesiten para el ejercicio expedito de sus funciones;
 
@@ -1831,9 +2129,9 @@ XIV. Nombrar y remover libremente a los Secretarios del Despacho y a los emplead
 
 XV. Nombrar y remover libremente al Procurador General de Justicia y a todos los funcionarios y empleados dependientes del poder ejecutivo;
 
-> <small>(REFORMADA, G.O. 11 DE FEBRERO DE 1989)</small>
+> <small>(REFORMADA, G.O. 20 DE MARZO DE 1997)</small>
 
-XVI. Hacer la designación de Magistrados del Tribunal Superior de Justicia y del Tribunal Contencioso Administrativo del Estado, sometiendo los nombramientos para su aprobación a la Legislatura o a la Diputación Permanente en su caso;
+XVI. Designar al miembro del Consejo de la Judicatura que le corresponda, y resolver sobre la solicitud de licencia o renuncia, que presente dicho funcionario;
 
 > <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
@@ -2249,16 +2547,6 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
 
-G.O. 12 DE OCTUBRE DE 1993.
-
-###### ARTICULO PRIMERO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial", Órgano del Gobierno del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan a las reformas a que se refiere el presente decreto.
-
 G.O. 16 DE DICIEMBRE DE 1993.
 
 ###### ARTICULO PRIMERO.
@@ -2324,3 +2612,165 @@ DECRETO No. 30.
 ###### ARTICULO PRIMERO.
 
 LA PRESENTE LEY ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACIÓN EN LA 'GACETA OFICIAL' DEL ESTADO.
+
+G.O. 20 DE MARZO DE 1997.
+
+DECRETO No. 57.
+
+###### ARTICULO SEGUNDO.
+
+El Presidente del Tribunal Superior, continuará en funciones y ejercerá las atribuciones que esta Constitución le otorga hasta en tanto se elige al Presidente de acuerdo con lo dispuesto en el artículo décimo tercero transitorio.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+###### ARTICULO TERCERO.
+
+Los Magistrados adscritos antes de esta reforma a la Primera, Tercera y Quinta Salas en Materia Penal y a la Segunda y Cuarta Salas en Materia Civil, del tribunal superior de Justicia, quedan adscritos en la misma forma, en el Primero, Tercero y Quinto Tribunales Colegiados en Materia Penal y Segundo y Cuarto Tribunales Colegiados en Materia Civil, hasta en tanto el Consejo de la Judicatura, ratifica o modifica dicha adscripción.
+
+###### ARTICULO CUARTO.
+
+El Presidente de la Sala Superior del Tribunal de lo contencioso Administrativo, así como los Magistrados que integran dicha Sala, continuarán adscritos en el Tribunal de lo Contencioso Administrativo, hasta en tanto el consejo de la Judicatura resuelva lo procedente, respecto a su integración y adscripción.
+
+###### ARTICULO QUINTO.
+
+Los Magistrados adscritos antes de esta reforma, a las Salas Regionales del Tribunal de lo Contencioso Administrativo, serán adscritos a los Tribunales Regionales Unitarios, hasta en tanto el Consejo de la Judicatura resuelva lo procedente.
+
+###### ARTICULO SEXTO.
+
+Los Magistrados adscritos al Tribunal Estatal de Conciliación y Arbitraje, incluido el Presidente del mismo, continuarán con la misma adscripción y si el Consejo de la Judicatura lo determina, podrá asumir dicho Tribunal el carácter de Mixto.
+
+###### ARTICULO SEPTIMO.
+
+Los Magistrados del Tribunal Estatal de Conciliación y Arbitraje que actualmente se encuentran en funciones, si tienen más de tres años de servicio y son ratificados por la Legislatura del Estado o la Diputación Permanente, a propuesta del Consejo de la Judicatura, del titular del Poder Ejecutivo y por la Federación Mayoritaria de Sindicatos registrada o, en su caso, por el Poder Legislativo, sólo podrán ser privados de sus cargos por la violación de lo dispuesto en los artículos 99, 100 y 105 de esta Constitución. Los Magistrados que no sean ratificados, continuarán en ejercicio hasta el término para el que fueron designados, que vence el día último de diciembre de 1998.
+
+###### ARTICULO OCTAVO.
+
+El Gobernador del Estado y la Legislatura o la Diputación Permanente, en su caso, designarán dentro de los primeros cinco días a partir de la vigencia de esta Ley, a un Consejero de la Judicatura, respectivamente.
+
+###### ARTICULO NOVENO.
+
+El Pleno del Tribunal Superior se reunirá dentro de los cinco primeros días a partir de la vigencia de esta Ley, a efecto de que insaculen a un Magistrado y a un Juez de Primera Instancia del total de ellos como integrantes del Consejo de la Judicatura.
+
+###### ARTICULO DECIMO.
+
+Los integrantes del Consejo de la Judicatura, durarán en su encargo, por esta única vez, hasta el 30 de noviembre de 1998.
+
+###### ARTICULO DECIMO PRIMERO.
+
+El Consejo de la Judicatura expedirá el acuerdo correspondiente para erigir e integrar los Tribunales y determinar su competencia territorial, así como la adscripción de los Magistrados que integrarán cada uno de ellos, con excepción de los Tribunales Electorales y Laboral, dentro de los treinta días siguientes a la entrada en vigor de esta ley.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+Una vez que el Consejo de la Judicatura determine la adscripción de los Magistrados a los distintos Tribunales, los integrantes de cada uno de ellos procederán a la elección de su Presidente, que estará en funciones hasta que se publique la Ley Orgánica del Poder Judicial, en donde se determinen las reglas de elección y duración de dichos Presidentes, a excepción de los que presidan el Tribunal Estatal de Elecciones y el Tribunal Estatal de Conciliación y Arbitraje.
+
+###### ARTICULO DECIMO TERCERO.
+
+El Pleno del Tribunal Superior del Estado, se reunirá a los treinta días siguientes, a la entrada en vigor de este Decreto, para elegir al Presidente de dicho Tribunal. que durará en su cargo hasta el 2 de diciembre de 1998, fecha en la que deberá rendir el informe respectivo.
+
+###### ARTICULO DECIMO CUARTO.
+
+El Presupuesto de Egresos del Estado, se reformará a electo de que los recursos asignados a los Tribunales de lo Contencioso Administrativo, de Conciliación y Arbitraje, Estatal de Elecciones y las partidas destinadas al Consejo Tutelar de Menores, en lo que corresponde a la función jurisdiccional, pasen a formar parte del Presupuesto de Egresos del Poder Judicial y asimismo, para señalar las ampliaciones a las partidas correspondientes para instrumentar la reforma del Poder Judicial a que se refiere esta Ley.
+
+###### ARTICULO DECIMO QUINTO.
+
+Las partidas contempladas en los planes de arbitrios del ejercicio 1997 para el pago de los empleados de los Juzgados Menores y de los Jueces, Secretarios y Empleados de los Juzgados Municipales, que mediante esta reforma se transforman en Juzgados de Paz, se transferirán al Presupuesto de Egresos del Poder Judicial, para que las ejerza de manera directa, conforme a los fines a que están destinadas.
+
+###### ARTICULO DECIMO SEXTO.
+
+La Secretaría de Finanzas y Planeación entregará al Consejo de la Judicatura, en el término de los treinta días posteriores a la iniciación de la vigencia de este Decreto, el monto que corresponda hasta la fecha de los depósitos en dinero o valores que se hayan efectuado ante los tribunales judiciales, por concepto de multas, cauciones o por cualquier otra prestación autorizada por la Ley, con objeto de que se constituya de inmediato el fondo auxiliar para la impartición de justicia.
+
+###### ARTICULO DECIMO SEPTIMO.
+
+La legislación vigente sobre materia penal, civil, administrativa, laboral, electoral, de menores infractores y de organización de Tribunales, deberá ser reformada en un plazo no mayor de nueve meses a partir de la entrada en vigor de este Decreto, para hacerla concordante con las nuevas disposiciones constitucionales. En tanto entran en vigor las citadas reformas, los Tribunales y Juzgados tendrán las atribuciones que a continuación se determinan.
+
+I. El Tribunal de lo Contencioso Administrativo seguirá conociendo de dicha materia de acuerdo con las disposiciones vigentes aplicables y también tendrá competencia para conocer de materia civil o penal en los términos que señalen los acuerdos que expida el Consejo de la Judicatura, sobre el particular, en cuyo caso, aplicarán los Códigos y Leyes de la materia;
+
+II. El Tribunal Estatal de Conciliación y Arbitraje, seguirá conociendo de la materia laboral, de acuerdo a las disposiciones vigentes y tendrá competencia para conocer de la materia civil o penal en los términos que señalen los acuerdos que expida el Consejo de la Judicatura, sobre el particular, en cuyo caso, aplicarán los Códigos y Leyes de la materia.
+
+Las demandas laborales planteadas con anterioridad a la vigencia de esta reforma por los trabajadores, en contra de los Tribunales que integran el Tribunal Superior de Justicia y los Juzgados del Estado, continuarán su trámite en el Tribunal Estatal de Conciliación y Arbitraje, hasta su resolución definitiva y el laudo correspondiente cause estado.
+
+Las demandas y asuntos en materia laboral entre el Tribunal Estatal de Elecciones y sus empleados, que se encuentran en trámite, continuarán desahogándose en el propio Tribunal hasta su resolución final.
+
+Las demandas y asuntos en materia laboral que presenten los trabajadores en forma individual o su Sindicato en contra del Poder Judicial, o en contra del Tribunal Estatal de Elecciones, que se inicien después de la entrada en vigor de esta Reforma y hasta antes de la instalación del nuevo órgano jurisdiccional que le competa resolver estos asuntos, se tramitarán en el Tribunal Estatal de Conciliación y Arbitraje, o en el Tribunal Estatal de Elecciones, según corresponda, hasta su resolución final;
+
+III. Los Tribunales o Juzgados de competencia civil, penal o mixta que actualmente funcionan, seguirán conociendo de sus respectivas materias y podrán conocer de asuntos administrativos, según lo resuelva el Consejo de la Judicatura, en cuyo caso, aplicarán los códigos y leyes de la materia; y
+
+IV. Los Tribunales Unitarios Regionales continuarán conociendo de los asuntos de su materia y podrán también conocer de los recursos interpuestos contra las resoluciones interlocutorias en materia penal, civil y mercantil dictadas por los Jueces de Primera Instancia, según lo resuelva el Consejo de la Judicatura, de acuerdo a las necesidades del servicio y al número de asuntos radicados.
+
+###### ARTICULO DECIMO OCTAVO.
+
+El apartado A.3 del Artículo 96 de esta Constitución, entrará en vigor en la fecha que disponga la Ley. Los Tribunales Regionales Colegiados se establecerán en forma gradual, en una circunscripción territorial determinada por las necesidades del servicio y en base a la disponibilidad presupuestaria.
+
+###### ARTICULO DECIMO NOVENO.
+
+En relación a las facultades del Pleno del Poder Judicial para propiciar la unificación de criterios, por lo que se refiere a la materia laboral esta disposición entrará en vigor hasta que se constituyan los Tribunales Regionales en materia laboral.
+
+###### ARTICULO VIGESIMO.
+
+Toda referencia en las disposiciones legales que atribuyen competencia al Tribunal de lo Contencioso Administrativo o al Tribunal Estatal de Conciliación y Arbitraje, se entenderá referida dicha competencia al Tribunal de lo Contencioso Administrativo o al Tribunal Estatal de Conciliación y Arbitraje, integrantes del Tribunal Superior de Justicia, hasta en tanto se expidan las reformas correspondientes en las Leyes que reglamenten dichas materias.
+
+###### ARTICULO VIGESIMO PRIMERO.
+
+El desahogo de los asuntos administrativos, laborales, penales, civiles, mercantiles y electorales que se encuentran en trámite continuarán con su desarrollo en términos de los Códigos y Leyes aplicables, en los Tribunales competentes, en donde se encuentren.
+
+###### ARTICULO VIGESIMO SEGUNDO.
+
+Hasta que entren en vigor las Leyes o reformas, que reglamenten las nuevas disposiciones constitucionales, se continuarán aplicando la Ley Orgánica del Poder Judicial, el Reglamento Interior del Poder Judicial, la Ley de Justicia Administrativa, la Ley del Servicio Civil, el Código de Elecciones y Derechos de los Ciudadanos y las Organizaciones Políticas del Estado, y demás ordenamientos legales aplicables, en lo que no se opongan a las presentes reformas.
+
+###### ARTICULO VIGESIMO TERCERO.
+
+Las quejas en contra de Servidores Públicos Judiciales que a la fecha de la entrada en vigor de la presente reforma, se encuentren en trámite, serán resueltas aplicando las disposiciones que se encontraban vigentes en el momento de la presentación de la queja y por el Pleno de Magistrados integrado de acuerdo con las mencionadas disposiciones legales.
+
+###### ARTICULO VIGESIMO CUARTO.
+
+Los recursos humanos y materiales de los Tribunales Contencioso Administrativo, Estatal de Elecciones y Estatal de Conciliación y Arbitraje, pasarán al Poder Judicial. La entrega y recepción de dichos recursos se hará con todas las formalidades del caso, levantando las actas correspondientes. Los Tribunales en materia Electoral, Administrativa y Laboral, continuarán funcionando en los inmuebles destinados a dichos órganos jurisdiccionales.
+
+###### ARTICULO VIGESIMO QUINTO.
+
+Los derechos laborales de los trabajadores de base de dichos Tribunales, no sufrirán ninguna afectación.
+
+###### ARTICULO VIGESIMO SEXTO.
+
+Los Jueces municipales que se encuentran en ejercicio quedan designa dos provisionalmente Jueces de Paz, y cualquier referencia en las Leyes aplicables a las atribuciones de los primeros se entenderán ahora referidas a los segundos.
+
+###### ARTICULO VIGESIMO SEPTIMO.
+
+Los Juzgados de Paz, funcionarán en los locales que ocupan los Juzgados Municipales. El Consejo de la Judicatura, llevará al cabo (sic) los trámites necesarios para que los Juzgados de Paz cuenten con locales propios.
+
+###### ARTICULO VIGESIMO OCTAVO.
+
+Los Jueces de Paz o los Jueces Menores procederán a designar a los Jueces de Comunidad en base a lo dispuesto en esta Constitución.
+
+###### ARTICULO VIGESIMO NOVENO.
+
+Los actuales integrantes del Consejo Tutelar de Menores, a partir de la entrada en vigor de esta reforma, quedan designados como miembros de la Comisión Jurisdiccional de Menores Infractores, que ejercerán únicamente las facultades relativas al procedimiento jurisdiccional que prevé la Ley de Adaptación Social y de los Consejos Tutelares para Menores Infractores, respecto de las demás prevenciones sobre tratamiento y adaptación social, la autoridad competente continuará aplicando lo que dispone la Ley antes citada.
+
+G.O. 20 DE MARZO DE 1997.
+
+DECRETO No. 59.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A efecto de garantizar el desahogo de los medios de impugnación previstos en la Constitución local y en la federal, los Ayuntamientos del Estado que iniciarán su período constitucional el día 1º de enero de 1998 serán electos el domingo 19 de octubre de 1997, debiendo ajustarse en este sentido el calendario y los términos electorales correspondientes, dentro del marco de la Ley de la materia.
+
+TERCERO. A partir del año 2000, las elecciones de Diputados y de Ayuntamientos, así como, cuando corresponda, la de Gobernador del Estado, se realizarán en la misma jornada electoral, el primer domingo de septiembre del año electoral respectivo. Para este efecto, se establecen las siguientes bases:
+
+I. Por única vez, y en relación con lo dispuesto por el artículo 51 de esta Constitución, los Diputados que integrarán la LVIII Legislatura del Estado durarán en su encargo dos años y dos meses, debiendo dicha Legislatura comenzar sus funciones el día 1º de octubre de 1998, para concluirlas el día 30 de noviembre del año 2000.
+
+Los Diputados que integrarán la LVIII Legislatura serán electos el domingo 2 de agosto de 1998, en la misma jornada electoral en que se realizarán elecciones de Gobernador del Estado para el período constitucional comprendido del día 1º de diciembre de 1998 al día 30 de noviembre del año 2004;
+
+II. Por única vez, y en relación con lo dispuesto por el artículo 51 de esta Constitución, los Diputados que integrarán la LIX Legislatura del Estado durarán en su encargo cuatro años, debiendo esta misma Legislatura comenzar sus funciones el día 1º de diciembre del año 2000, para concluirlas el día 30 de noviembre del año 2004. Al efecto, las elecciones se desarrollarán el domingo 3 de septiembre del año 2000;
+
+III. Por única vez, y en relación con lo dispuesto por el artículo 113 de esta Constitución, los Ayuntamientos cuyo período constitucional se inicia el día 1º de enero del año 2001 serán electos el domingo 3 de septiembre del año 2000 y durarán en su encargo cuatro años, concluyendo su período el día 31 de diciembre del año 2004, y
+
+IV. El domingo 5 de septiembre del año 2004 se elegirán en la misma jornada electoral Gobernador, Diputados y Ayuntamientos del Estado, que iniciarán sus funciones en las fechas establecidas en la presente Constitución.
+
+CUARTO. En relación con lo dispuesto por el artículo 41 reformado de esta Constitución, el financiamiento público a los partidos políticos en los procesos electorales que tendrán lugar para la renovación de los Ayuntamientos del estado, en 1997, y para las elecciones de Gobernador y Diputados, en 1998, se sujetarán a lo siguiente:
+
+I. En el año electoral de 1997, el financiamiento público ordinario y extraordinario a los partidos políticos que tengan derecho a ello se calculará mediante la división entre doce del monto total anual que les corresponda conforme a las disposiciones del artículo mencionado, otorgando mensualmente a cada partido, a partir de abril, la cantidad resultante de dicha operación.
+
+La misma regla se seguirá para calcular y otorgar el financiamiento público que corresponda a los partidos que hubiesen obtenido su registro con fecha posterior a la última elección de Diputados o los que no hubieren alcanzado en la misma el dos por ciento de la votación total emitida en el estado; y,
+
+II. En el año electoral de 1998, se tomará como base para el cálculo del financiamiento público que corresponda a cada partido político el resultado de las elecciones de Ayuntamientos que se celebrarán en el año de 1997.
