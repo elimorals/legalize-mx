@@ -4,7 +4,7 @@ identifier: "FED-codigo-agrario-de-los-estados-unidos-mexicanos-1515"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-04-12"
-last_updated: "1937-08-12"
+last_updated: "1937-08-31"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-03-22"
 
 CODIGO AGRARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE AGOSTO DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1937.
 
 Código publicado en el Diario Oficial de la Federación, el jueves 12 de abril de 1934.
 
@@ -439,29 +439,25 @@ I.- Las tierras tituladas en los repartimientos hechos conforme a la Ley de 25 d
 
 II.- Hasta cincuenta hectáreas que hayan sido poseídas a nombre propio, a título de dominio y por más de diez años, contados hasta la fecha de la publicación de la solicitud correspondiente; en la inteligencia de que cuando deba tomarse el exceso sobre tal superficie, se localizarán las cincuenta hectáreas en el lugar que designe el afectado al formarse el plano-proyecto correspondiente.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1937)</small>
+
 ###### ARTICULO 51.
 
 Serán inafectables por vía de dotación:
 
-I.- Las superficies que no excedan de ciento cincuenta hectáreas en terrenos de riego;
+I.- Las superficies que no excedan de ciento cincuenta hectáreas de terrenos de riego;
 
-II.- Las que no excedan de trescientas hectáreas en tierras de temporal; Cuando dentro del radio de siete kilómetros a que se refiere el artículo 34, no hubiere las tierras suficientes para dotar a un núcleo de población, la extensión fijada de las dos fracciones anteriores, podrá reducirse hasta cien y doscientas hectáreas, respectivamente;
+II.- Las que no excedan de trescientas hectáreas de tierras de temporal.
 
-III.- Las superficies cultivadas con caña de azúcar en fincas azucareras donde haya instalaciones de ingenios propiedad del dueño de aquéllas, destinadas a la elaboración de azúcar, y hasta por la extensión necesaria para alimentar la molienda media de los mismos ingenios durante los últimos cinco años.
+Cuando dentro del radio de afectación no hubiere las tierras suficientes para dotar a un núcleo de población, la extensión fijada en las dos fracciones anteriores, se reducirá hasta cien y doscientas hectáreas, respectivamente;
 
-No subsistirá la inafectabilidad, cuando por cualquier causa desaparezcan las plantas industriales, y se reducirá proporcionalmente a la disminución de la capacidad de elaboración de los ingenios;
+III.- Hasta trescientas hectáreas ocupadas con plantaciones ordenadas de plátano, café, cacao, árboles frutales o henequén.
 
-IV.- Hasta trescientas hectáreas ocupadas con plantaciones ordenadas de plátano, café, cacao y árboles frutales;
+Tratándose de plantaciones de henequén, cuando las necesidades agrarias de la región así lo demanden, se respetarán ciento cincuenta hectáreas cultivadas y ciento cincuenta hectáreas de terrenos incultos para que el propietario amplíe el cultivo hasta el límite de la inafectabilidad de trescientas hectáreas;
 
-V.- Las superficies sujetas a proceso de reforestación conforme a la Ley y Reglamentos Forestales. En este caso, será indispensable que los terrenos sometidos a reforestación, por su pendiente y demás características, no pueden ser objeto de explotación agrícola-económica. Para que sean inafectables las plantaciones y superficies a que se refieren estas dos fracciones, se requerirá que la existencia de aquéllas y los trabajos de reforestación, tengan una anticipación cuando menos de seis meses anteriores a la solicitud de ejidos, y la inafectabilidad quedará sujeta al mantenimiento de las plantaciones o de los trabajos de reforestación, pues en caso de abandono o destrucción de ellos, sólo se respetarán las superficies establecidas en las fracciones I y II de este artículo;
+IV.- Las superficies sujetas a proceso de reforestación, conforme a la ley y reglamentos forestales. En este caso, será indispensable que los terrenos sometidos a reforestación, por su pendiente y demás características, no puedan ser objeto de explotaciones agrícola-económicas.
 
-VI.- Hasta quinientas hectáreas de tierras de riego o sus equivalentes en las escuelas de agricultura del Gobierno Federal.
-
-> <small>(ADICIONADA, D.O.F. 12 DE AGOSTO DE 1937)</small>
-
-VII.- Hasta 150 hectáreas sembradas con henequén.
-
-Cuando la finca de que se trate tenga además extensiones sin henequén, se le respetarán las hectáreas que sean necesarias para completar los límites que se señalan en la fracción II de este artículo, en terrenos incultos.
+Para que sean inafectables las plantaciones y superficies a que se refieren estas dos fracciones, se requerirá que la existencia de aquéllas y los trabajos de reforestación, tengan una anticipación cuando menos de seis meses anteriores a la solicitud de ejidos, y la inafectabilidad quedará sujeta al mantenimiento de las plantaciones o de los trabajos de reforestación, pues en caso de abandono o destrucción de ellos, sólo se respetarán las superficies establecidas en las fracciones I y II de este artículo”.
 
 ###### ARTICULO 52.
 
@@ -481,21 +477,7 @@ Inciso II.- En todos los casos en que hubiera necesidad de afectar una explotaci
 
 ###### ARTICULO 53.
 
-En las comarcas donde se practiquen cultivos cuya técnica agrícola, eventualidad de cosechas o requisitos de organización, no aseguren rendimientos económicos dentro del régimen agrícola ejidal que estatuye normalmente este Código, la necesidad de tierras, bosques y aguas de los solicitantes, podrá satisfacerse mediante el establecimiento de uno o más distritos ejidales, si se logra la conformidad de la mayoría de ejidatarios del núcleo o núcleos de población, así como la de los propietarios de los predios afectables, quienes aportarán de acuerdo con las proporcionalidades que establece el artículo 35, las tierras, bosques y aguas suficientes para las necesidades de los núcleos y los elementos indispensables para la instalación conveniente de los ejidatarios.
-
-Las Comisiones Agrarias Mixtas, en la tramitación de estos expedientes, cuidarán de que se beneficien todos los individuos que tengan derecho a dotación, y de que las tierras, bosques y aguas que se entreguen, satisfagan las necesidades de los ejidatarios.
-
-Los dictámenes de las Comisiones Agrarias Mixtas se elevarán a los Gobernadores, quienes formularán su opinión y dictarán su mandamiento de posesión, después de haber conocido el parecer que sobre el particular emita el Departamento Agrario.
-
-Los plazos y demás requisitos de la tramitación normal que señala este Código, podrán ser modificados, con autorización del Departamento Agrario, en lo que fuere necesario.
-
-Ejecutados los mandamientos de los gobernadores, se continuará la tramitación en los términos ordinarios de este Código.
-
-> <small>(F. DE E., D.O.F. 4 DE JULIO DE 1934)</small>
-
-En caso de incumplimiento total o parcial de las condiciones que, en los términos del párrafo primero, se estipulen para el establecimiento de los distritos ejidales, quedarán expeditos los derechos de los núcleos de población de que se trate y, para los efectos de este Código, se considerarán corridos todos los plazos de notificación.
-
-La declaratoria de incumplimiento será dictada por acuerdo presidencial.
+(DEROGADO, D.O.F. 31 DE AGOSTO DE 1937)
 
 ###### ARTICULO 54.
 
@@ -1295,23 +1277,29 @@ II.- La explotación comercial o industrial de los propios terrenos o de sus pro
 
 III.- La inobservancia de las disposiciones de este artículo dará lugar a que el Comisariado Ejidal aperciba a sus infractores en dos ocasiones y si reincidieren por tercera vez, someterá el caso a la asamblea, para que ésta acuerde el tiempo durante el cual quedará privado de sus derechos el infractor. El término de esta privación no podrá ser nunca por tiempo mayor de seis meses.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1937)</small>
+
 ###### ARTICULO 148.
 
-De acuerdo con la Ley de Crédito Agrícola, queda a cargo del Banco Nacional de Crédito Agrícola la organización social y económica de los ejidatarios, en las zonas donde el Banco opere, y al efecto, el Departamento Agrario le entregará los ejidos que comprendan dichas zonas, y en ellos los empleados del Banco ejercerán las funciones de organizadores, agentes o cualesquiera otras denominaciones que tuvieren los empleados del Departamento Agrario, quienes serán sustituidos por aquéllos con todas las facultades que legalmente les corresponda.
+Compete el Departamento Agrario fijar la organización que deba darse a cada ejido para que su producción rinda lo más posible en beneficio de sus componentes.
 
-En las zonas donde no opere aún el Banco Nacional de Crédito Agrícola, el Departamento Agrario, por medio de su personal de organización y control ejidales, estudiará y formulará el plan de explotación y fomento del ejido, el cual se referirá:
+El Banco Nacional de Crédito Ejidal intervendrá en la organización de las sociedades de crédito ejidal con las cuales opere, para realizar todos los actos que tiendan a lograr inversiones adecuadas y a garantizar las recuperaciones.
 
-a).- A definir los cultivos o procedimientos prohibidos por ser agotantes de las tierras o antieconómicos.
+Tanto los empleados del Banco Nacional de Crédito Ejidal, cuanto los del Departamento Agrario, dentro de sus respectivas competencias, ejercerán las funciones de dirección y vigilancia de la economía ejidal, complementando mutuamente su actuación.
 
-b).- Al establecimiento de cultivos o técnica mejores, para obtener la máxima ventaja de los recursos naturales o humanos.
+En los ejidos donde no se hayan constituído sociedades locales de crédito ejidal, el Departamento Agrario formulará planes de explotación y fomento de los ejidos, planes que tendrán por objeto:
 
-c).- A la forma de organización de las actividades de los ejidatarios, ya sea para la producción o para el comercio.
+a).- Definir los cultivos o procedimientos prohibidos por ser agotantes de las tierras o antieconómiocos;
 
-d).- Al más conveniente aprovechamiento de los recursos comunales forestales, pecuarios, de magueyeras o de cualquier otra clase de que disponga el poblado.
+b).- Establecer cultivos o técnica mejores, para obtener la máxima ventaja de los recursos naturales o humanos;
 
-e).- A cualquier otro concepto social o económico importante para la comunidad.
+c).- Determinar la forma de organización de las actividades de los ejidatarios, para la producción, para el comercio, o para ambos fines;
 
-El plan mencionado será sometido a la aprobación de la Asamblea y, aprobado por ella, se hará obligatorio y se ejecutará bajo la vigilancia y dirección del personal a que se hace referencia en este artículo.
+d).- Buscar el más conveniente aprovechamiento de los recursos comunales forestales, pecuarios, de magueyeras o de cualquiera otra clase de que disponga el poblado;
+
+c).- Definir cualquier otro concepto social o económico importante para la comunidad.
+
+El plan mencionado será sometido a la aprobación de la Asamblea y de ejidatarios y, aprobado por ella, se hará obligatorio y se ejecutará bajo la vigilancia y dirección del personal a que se hace referencia en este artículo.
 
 ###### ARTICULO 149.
 
@@ -1658,3 +1646,13 @@ UNICO.- El presente Decreto entrará en vigor a partir de la fecha de su publica
 D.O.F. 12 DE AGOSTO DE 1937.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+D.O.F. 31 DE AGOSTO DE 1937.
+
+###### ARTICULO 1
+
+3...
+
+###### ARTICULO 4°.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
