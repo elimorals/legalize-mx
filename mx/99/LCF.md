@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1992-07-20"
+last_updated: "1993-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -56,13 +56,13 @@ La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estad
 
 El Fondo General de Participaciones se constituirá con el 18.51% de la recaudación federal participable que obtenga la Federación en un ejercicio.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-La recaudación federal participable será la que obtenga la Federación por todos sus impuestos, así como por los derechos sobre hidrocarburos y de minería disminuidos con el total de las devoluciones por los mismos conceptos.
+La recaudación federal participable será la que obtenga la Federación por todos sus impuestos, así como por los derechos sobre la extracción de petróleo y de minería, disminuidos con el total de las devoluciones por los mismos conceptos.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-No se incluirán en la recaudación federal participable, los impuestos adicionales del 3% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados y del 2% en las demás exportaciones; ni tampoco los derechos adicionales o extraordinarios, sobre los hidrocarburos.
+No se incluirán en la recaudación federal participable, los impuestos adicionales del 3% sobre el impuesto general de exportación de petróleo crudo, gas natural y sus derivados y del 2% en las demás exportaciones; ni tampoco los derechos adicionales o extraordinarios, sobre la extracción de petróleo.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -88,9 +88,9 @@ II. El 45.17%, en los términos del artículo 3o. de esta Ley.
 
 III.- El 9.66% restante, se distribuirá en proporción inversa a las participaciones por habitante que tenga cada entidad, éstas son el resultado de la suma de las participaciones a que se refieren las fracciones I y II de este artículo en el ejercicio de que se trate.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-El Fondo General de Participaciones se adicionará con un 0.5% de la recaudación federal participable en el ejercicio. Del 0.5% participarán las Entidades Federativas y los Municipios, cuando aquéllas se coordinen en materia de derechos, distribuyéndose entre dichas entidades conforme al coeficiente efectivo del Fondo General de Participaciones que le corresponda para el ejercicio en que se calcula. El Fondo no se adicionará con la parte que correspondería a las entidades no coordinadas en Derechos. Asimismo, el Fondo se incrementará con el porciento que represente, en la recaudación federal participable, los ingresos en un ejercicio de las contribuciones locales o municipales que las entidades convengan con la Secretaría de Hacienda y Crédito Público, en derogar o dejar en suspenso.
+El fondo general de participaciones se adicionará con un 1% de la recaudación federal participable en el ejercicio, que corresponderá a las Entidades Federativas y los Municipios cuando éstas se coordinen en materia de derechos y, previa comprobación de la Secretaría de Hacienda y Crédito Público de que se ajustan estrictamente a los lineamientos establecidos en el artículo 10-A de esta Ley. El porcentaje citado será distribuido entre las Entidades mencionadas conforme al coeficiente efectivo del Fondo General de Participaciones que les corresponda para el ejercicio en el que se calcula. El fondo no se adicionará con la parte que correspondería a las Entidades no coordinadas en derechos. Asimismo, el Fondo se incrementará con el por ciento que representen en la recaudación federal participable, los ingresos en un ejercicio de las contribuciones locales o municipales que las Entidades convengan con la Secretaría de Hacienda y Crédito Público, en derogar o dejar en suspenso.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -98,7 +98,7 @@ También se adicionará al Fondo General un monto equivalente al 80% del impuest
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-Adicionalmente, las entidades participarán en los accesorios de las contribuciones que forman parte de la recaudación federal participable, que se señalen en los convenios respectivos. En los productos de la Federación relacionados con bienes o bosques, que las leyes definen como nacionales, ubicados en el territorio de cada entidad, ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de la explotación de tales terrenos o de bosques nacionales.
+Adicionalmente las entidades participarán en los accesorios de las contribuciones que forman parte de la recaudación federal participable que se señalen en los convenios respectivos. En los productos de la Federación relacionados con bienes o bosques que las leyes definen como nacionales ubicados en el territorio de cada entidad ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de la explotación de tales terrenos o de bosques nacionales.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -114,21 +114,31 @@ En el rendimiento de las contribuciones que a continuación se señalan, partici
 
 I.- 95% del 2.8% de los impuestos general de importación y 2% adicional sobre el impuesto general de exportación, a aquellos municipios colindantes con la frontera o los litorales por los que se realice materialmente la entrada al país o la salida de él de los bienes que se importen o exporten.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-II.- 3.17% del derecho adicional sobre hidrocarburos que se exporten, excluyendo el derecho extraordinario sobre los mismos y, en su caso, del impuesto adicional del 3% sobre el impuesto general en exportaciones de petróleo crudo, gas natural y sus derivados a los municipios colindantes con la frontera o litorales, por los que se realice materialmente la salida del país de dichos productos.
+II.- 3.17% del derecho adicional sobre la extracción de petróleo, excluyendo el derecho extraordinario sobre el mismo y, en su caso, del impuesto adicional del 3% sobre el impuesto general en exportaciones de petróleo crudo, gas natural y sus derivados a los municipios colindantes con la frontera o litorales, por los que se realiza materialmente la salida del país de dichos productos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+Petróleos Mexicanos y sus organismos subsidiarios, por conducto de Petróleos Mexicanos, informará mensualmente a la Secretaría de Hacienda y Crédito Público los montos y municipios a que se refiere el párrafo anterior.
 
-III.- 0.42% de la recaudación federal participable que obtenga la Federación por concepto de impuestos, así como por los derechos sobre minería y sobre hidrocarburos con exclusión del derecho extraordinario sobre los mismos en la siguiente forma:
+> <small>(REFORMADO PARRAFO PRIMERO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+III.- 1% de la recaudación federal participable que obtenga la Federación por concepto de impuestos, así como por los derechos sobre minería y sobre la extracción de petróleo, con exclusión del derecho extraordinario sobre el mismo, en la siguiente forma:
+
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+a).- El 0.56 % del mismo, conforme a lo siguiente:
+
+> <small>(ADICIONADO, D .O. 31 DE DICIEMBRE DE 1986)</small>
 
 1.- El 30% se destinará a formar un Fondo de Fomento Municipal.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-2.- El 70% incrementará dicho Fondo de Fomento Municipal y sólo corresponderá a las entidades que se coordinen en materia de Derechos.
+2.- El 70% incrementará dicho Fondo de Fomento Municipal y sólo corresponderá a las Entidades que se coordinen en materia de derechos, siempre que se ajusten estrictamente a los lineamientos establecidos en el artículo 10-A de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+b).- El 0.44% restante, sólo corresponderá a las entidades federativas que se coordinen en materia de derechos y será distribuido conforme a los resultados de su participación en el programa para el reordenamiento del comercio urbano, en los términos del procedimiento que se ha determinado conjuntamente por dichas entidades y la Secretaría de Hacienda y Crédito Público. Las cantidades percibidas por este concepto, serán entregadas íntegramente por los Estados a sus Municipios.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -160,13 +170,23 @@ Los impuestos asignables a que se refiere este artículo son los impuestos feder
 
 Se crea una reserva de contingencia consistente en un monto equivalente al 0.25% de la recaudación federal participable de cada ejercicio. El 50% de dicha reserva será distribuida cuatrimestralmente y el 50% restante se entregará al cierre del ejercicio fiscal, y se utilizará para apoyar a aquellas entidades cuya participación total en los Fondos General y de Fomento Municipal no alcance el crecimiento experimentado por la recaudación federal participable del año respecto a la de 1990. La reserva se distribuirá para garantizar un crecimiento en las participaciones igual a la de la recaudación federal participable.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
 La distribución de la reserva de contingencia comenzará con la entidad que tenga el coeficiente de participación efectiva menor y continuará hacia la que tenga el mayor, hasta agotarse.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 El coeficiente de participación efectiva a que se refiere el párrafo anterior será el que resulte de dividir las participaciones efectivamente percibidas por cada entidad, entre el total de las participaciones pagadas en el ejercicio de que se trate.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
 De la reserva a que se refiere el primer párrafo de este artículo, los Estados participarán a su (sic) municipios, como mínimo, una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus municipios del total de participaciones de la entidad. En el conjunto de participaciones a los municipios, no se incluirán aquéllas a que se refieren las fracciones I y II del artículo 2o-A de esta Ley.
 
-Adicionalmente, se crea una reserva de compensación para las entidades federativas que sean afectadas por el cambio en la fórmula de participaciones. Esta reserva se formará con el remanente del 0.5% de la recaudación federal participable, a la que hace referencia el párrafo siguiente a la fracción III del artículo 2o., así como con el que se deriva de la parte del Fondo de Fomento Municipal, a que se refiere el artículo 2o-A fracción III, inciso 2, de esta Ley.
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+Adicionalmente, se crea una reserva de compensación para las entidades federativas que sean afectadas por el cambio en la fórmula de participaciones. Esta reserva se formará con el remanente del 1% de la recaudación federal participable, a la que hace referencia el párrafo siguiente a la fracción III del artículo 2o., así como con el que se deriva de la parte del Fondo de Fomento Municipal, a que se refiere el artículo 2o-A, fracción III, inciso a), subinciso 2, e inciso b) de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 El monto en que la entidad federativa de que se trate se vea afectada, se determinará restando de las participaciones que le hubieran correspondido, de conformidad con las disposiciones en vigor al 31 de diciembre de 1990, la participación efectiva de la entidad en el año que corresponda. La distribución de la reserva de compensación se hará de la entidad que se vea menos afectada hacia aquélla más afectada hasta agotarse, aplicándose anualmente al cierre de cada ejercicio fiscal.
 
@@ -276,17 +296,27 @@ Los Estados que no deseen adherirse al Sistema Nacional de Coordinación Fiscal,
 
 Las entidades federativas que opten por coordinarse en derechos, no mantendrán en vigor derechos estatales o municipales por:
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-I.- Licencias y en general concesiones, permisos o autorizaciones, inclusive los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de las siguientes:
+I.- Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de las siguientes:
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 a).- Licencias de construcción.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
 b).- Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 c).- Licencias para fraccionar o lotificar terrenos.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
 d).- Licencias para conducir vehículos.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 e).- Expedición de placas y tarjeta para la circulación de vehículos.
 
@@ -300,7 +330,7 @@ b).- Registro de la Propiedad y del Comercio.
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-III.- Uso de las vías públicas o la tenencia de bienes sobre las mismas incluyendo, cualquier tipo de derechos por el uso o tenencia de anuncios. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos ni de uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos en la vía pública.
+III. Uso de las vías públicas o la tenencia de bienes sobre las mismas incluyendo, cualquier tipo de derechos por el uso o tenencia de anuncios. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos ni de uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos en la vía pública.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -314,13 +344,17 @@ Los derechos locales o municipales no podrán ser diferenciales considerando el 
 
 Las certificaciones de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-En ningún caso lo dispuesto en este artículo se entenderá limitativo de la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia.
+En ningún caso lo dispuesto en este artículo, se entenderá que limita la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 Para los efectos de coordinación con las Entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derecho conforme al Código Fiscal de la Federación y la Ley de Ingresos de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -332,9 +366,13 @@ El Distrito Federal queda coordinado en esta materia.
 
 Los Estados podrán no coordinarse en derechos sin perjuicio de continuar adheridos al Sistema Nacional de Coordinación Fiscal.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
 La Secretaría de Hacienda y Crédito Público hará la declaratoria de los Estados que no tienen establecido o suspendan el cobro de los derechos a que se refiere el artículo anterior y que, por lo tanto, están coordinados en esta materia, la cual se publicará en el Periódico Oficial del Estado y en el Diario Oficial de la Federación.
 
-Si posteriormente en la Entidad o en los Municipios se establecen derechos contrarios a lo dispuesto en el artículo que antecede, la citada Secretaría así lo declarará, dándolo a conocer mediante declaratoria que se publicará en el Diario Oficial de la Federación, la cual empezará a regir treinta días después de la fecha de esta publicación, quedando sin efectos la coordinación en materia de derechos; en el caso de que el Estado esté inconforme con esta declaratoria, se podrá ocurrir ante la Suprema Corte de Justicia de la Nación en los términos del artículo 12 de esta Ley.
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+
+Cuando en la legislación de alguna entidad o municipio se establezcan derechos que contravengan lo dispuesto en el artículo que antecede, la Secretaría de Hacienda y Crédito Público hará del conocimiento de la entidad de que se trate la violación específica, para que en un plazo de cinco días manifieste lo que a su derecho convenga. Transcurrido dicho plazo la propia Secretaría, en su caso, emitirá la declaratoria correspondiente, misma que se publicará en el Diario Oficial de la Federación y empezará a regir a partir del día siguiente al de su publicación, quedando sin efectos la coordinación en materia de derechos en esta última fecha. En el caso de que el Estado esté inconforme con esta declaratoria, podrá acudir ante la Suprema Corte de Justicia de la Nación en los términos del artículo 12 de esta Ley.
 
 ###### ARTICULO 11.
 
@@ -882,6 +920,18 @@ PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991. .
 
 D.O.F. 20 DE DICIEMBRE DE 1991.
 
+###### ARTICULO TERCERO.
+
+Las entidades federativas contarán con un plazo de cuatro meses a partir de la entrada en vigor de lo dispuesto en el ARTICULO SEGUNDO de esta Ley, para proponer a la Reunión Nacional de Funcionarios Fiscales, previo dictamen de la Comisión Permanente de Funcionarios Fiscales y conforme a las facultades establecidas en los artículos 19 y 21 de la Ley de Coordinación Fiscal, un programa de reordenamiento del comercio urbano en el ámbito de su competencia y jurisdicción, en los términos y plazos que determinen de mutuo acuerdo las citadas entidades federativas y el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público.
+
+Durante el periodo comprendido del 1o. de enero al 30 de junio de 1994, el porcentaje a que se refiere el artículo 2o.-A fracción III, inciso b) de la Ley de Coordinación Fiscal, será distribuido a las entidades federativas coordinadas en derechos, conforme a lo dispuesto en el citado artículo 2o.-A fracción III, inciso a) de la citada Ley.
+
+La propia Secretaría y las entidades federativas, por conducto de la Comisión Permanente de Funcionarios Fiscales, revisarán periódicamente los resultados de dichos programas y determinarán a partir de julio de 1994, la procedencia del otorgamiento de la participación adicional a que se refiere la fracción III, inciso b) del artículo 2o-A de la Ley de Coordinación Fiscal.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
+
 ## TRANSITORIO
 
 ## TRANSITORIO
@@ -893,3 +943,7 @@ D.O.F. 20 DE JULIO DE 1992.
 ## TRANSITORIO
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DICIEMBRE DE 1993.
+
+DISPOSICION TRANSITORIA
