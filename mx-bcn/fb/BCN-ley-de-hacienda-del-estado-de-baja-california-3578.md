@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1999-11-12"
+last_updated: "2000-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2000.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1787,9 +1787,11 @@ IV.- Expropiaciones;
 
 V.- Aportaciones extraordinarias de los Entes Públicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA] SU DENOMINACION, P.O. 25 DE FEBRERO DE 2000)</small>
 
-## TITULO IX. EXENCIONES PARA JUBILADOS, PENSIONADOS E INDIGENTES MAYORES DE SESENTA AÑOS Y DISCAPACITADOS
+## TITULO IX
+
+EXENCIONES PARA JUBILADOS, PENSIONADOS E INDIGENTES MAYORES DE SESENTA AÑOS, PERSONAS VIUDAS EN SITUACION DE INDIGENCIA MAYORES DE CINCUENTA AÑOS Y DISCAPACITADOS
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1991)</small>
 
@@ -1807,9 +1809,9 @@ IV.- INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LAS FUERZAS ARMADAS MEXICANA
 
 V.- OTRAS INSTITUCIONES DE SEGURIDAD SOCIAL QUE PRESTEN ESTOS SERVICIOS EN LAS DIVERSAS ENTIDADES FEDERATIVAS DEL PAIS, O A DIVERSAS AGRUPACIONES SINDICALES.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2000)</small>
 
-Tratándose de personas indigentes mayores de sesenta años, las que comprueben su edad con acta de nacimiento, o bien que se identifiquen con credencial expedida por el Instituto Nacional de la Senectud, y la indigencia, previo estudio socioeconómico con vigencia anual que realice el Sistema para el Desarrollo Integral de la Familia del Estado. Este mismo Organismo expedirá la constancia para acreditar en el caso de personas discapacitadas, que no son económicamente productivas o que siéndolo, sus ingresos no rebasan el equivalente a 5 veces el salario mínimo y, el estado de discapacidad será acreditado mediante certificado médico, expedido por cualquier Institución pública de salud, con domicilio en el Estado.
+Tratándose de personas indigentes mayores de sesenta años y personas viudas en situación de indigencia mayores de 50 años, las que comprueben su edad con acta de nacimiento, o bien que se identifiquen con credencial expedida por el Instituto Nacional de la Senectud, la viudez con el acta de defunción del cónyuge, y la indigencia, previo estudio socioeconómico con vigencia anual que realice el Sistema para el Desarrollo Integral de la Familia del Estado. Este mismo Organismo expedirá la constancia para acreditar en el caso de personas discapacitadas, que no son económicamente productivas o que siéndolo, sus ingresos no rebasan el equivalente a 5 veces el salario mínimo y, el estado de discapacidad será acreditado mediante certificado médico, expedido por cualquier Institución Pública de Salud, con domicilio en el Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1819,19 +1821,19 @@ Las exenciones que este Título otorga a los jubilados y pensionados, así como 
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
 
-I. IMPUESTO SOBRE COMPRAVENTA Y OPERACIONES SIMILARES que no excedan de un año de salario mínimo vigente en esta zona;
+I.- IMPUESTO SOBRE COMPRAVENTA Y OPERACIONES SIMILARES que no excedan de un año de salario mínimo vigente en esta zona;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2000)</small>
+
+II.- DERECHOS POR LA PRESTACION DEL SERVICIO PUBLICO DE AGUA PARA USO DOMESTICO EN LOS MUNICIPIOS DE MEXICALI, TECATE, ENSENADA, TIJUANA Y PLAYAS DE ROSARITO, únicamente un inmueble de su propiedad o donde habite;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2000)</small>
+
+III.- DERECHOS DE CONEXION AL SISTEMA DE AGUA POTABLE EN LOS MUNICIPIOS DE MEXICALI, TECATE, ENSENADA, TIJUANA Y PLAYAS DE ROSARITO, el contribuyente deberá ser el propietario o posesionario del inmueble en que habite;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
 
-II. DERECHOS POR LA PRESTACION DEL SERVICIO PUBLICO DE AGUA PARA USO DOMESTICO EN LOS MUNICIPIOS DE MEXICALI, TECATE, TIJUANA Y ENSENADA, únicamente un inmueble de su propiedad o donde habite;
-
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
-
-III. DERECHOS DE CONEXION AL SISTEMA DE AGUA POTABLE EN LOS MUNICIPIOS DE MEXICALI, TECATE, TIJUANA Y ENSENADA, el contribuyente deberá ser el propietario o posesionario del inmueble en que habite;
-
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
-
-IV. DERECHOS POR SERVICIOS DE CONTROL VEHICULAR:
+IV.- DERECHOS POR SERVICIOS DE CONTROL VEHICULAR:
 
 A.- LICENCIAS PARA CONDUCIR.
 
@@ -1841,7 +1843,7 @@ C.- OTROS SERVICIOS.
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
 
-V. DERECHOS POR SERVICIOS DE LA DIRECCION DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO; únicamente a los servicios que preste el Registro Público de la Propiedad.
+V.- DERECHOS POR SERVICIOS DE LA DIRECCION DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO; únicamente a los servicios que preste el Registro Público de la Propiedad.
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1991)</small>
 
@@ -1851,23 +1853,21 @@ VI.- DERECHOS POR LA LEGALIZACION DE FIRMAS, EXPEDICION DE CERTIFICADOS Y CERTIF
 
 VII.- IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 174.
 
-En el caso de las personas indigentes mayores de
-
-sesenta años y de discapacitados que no desempeñen actividades productivas, respecto a las contribuciones estatales señaladas en el Artículo 173 de esta Ley estarán exentas al 100%.
+En el caso de las personas indigentes mayores de sesenta años, personas viudas en situación de indigencia mayores de 50 años, y de discapacitados que no desempeñen actividades productivas, respecto a las contribuciones estatales señaladas en el Artículo 173 de esta Ley estarán exentas al 100%.
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1991)</small>
 
 Para los efectos del Impuesto de Plusvalía se estará a lo dispuesto en el Artículo 9o. de la Ley de Urbanización del Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 175.
 
-Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito fiscal por infracciones a las disposiciones fiscales, a cargo de jubilados, pensionados e indigentes mayores de 60 años y discapacitados, se causará sobre la cantidad que éstos deban cubrir, según lo estipulado en los Artículos 173 y 174 de esta Ley.
+Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito fiscal por infracciones a las disposiciones fiscales, a cargo de jubilados, pensionados e indigentes mayores de 60 años, personas viudas en situación de indigencia mayores de 50 años, y discapacitados, se causará sobre la cantidad que éstos deban cubrir, según lo estipulado en los Artículos 173 y 174 de esta Ley.
 
 TRANSITORIOS:
 
@@ -2168,3 +2168,13 @@ UNICO.- El presente Decreto entrará en vigor el día primero de enero de 1998.
 P.O. 12 DE DICIEMBRE DE 1999.
 
 ARTICULO TRANSITORIO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 25 DE FEBRERO DE 2000.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
