@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1996-07-06"
+last_updated: "1996-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE -ANTES CONSTITUCION POLITICO-SOCIAL DEL ESTADO DE CAMPECHE-
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE SEPTIEMBRE DE 1996 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -341,7 +343,7 @@ La soberanía del Estado reside esencial y originariamente en el pueblo campecha
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
-Para hacer posible el acceso de los ciudadanos al ejercicio del poder público, promover la participación del pueblo vida democrática y contribuir a la integración de la representación estatal, los ciudadanos campechanos podrán organizarse en los Partidos Políticos Registrados.
+Para hacer posible el acceso de los ciudadanos al ejercicio del poder público, promover la participación del pueblo en la vida democrática y contribuir a la integración de la representación estatal, los ciudadanos campechanos podrán organizarse en los Partidos Políticos Registrados.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
@@ -349,7 +351,7 @@ Los Partidos Políticos son entidades de interés público, la ley determinará 
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-La organización de las elecciones estatales y municipales es una función que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la ley. Esta función se realizará a través de un organismo público dotado de personalidad jurídica y patrimonio propio, denominado Consejo Electoral del Estado. La certeza, legalidad, imparcialidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+La organización de las elecciones estatales y municipales es una función que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la ley. Esta función se realizará a través de un organismo público dotado de personalidad jurídica y patrimonio propio, denominado Consejo Electoral del Estado. La certeza, legalidad, imparcialidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esa función estatal.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -357,7 +359,7 @@ El organismo público será autoridad en la materia, profesional en su desempeñ
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-El Consejo Electoral del Estado agrupará para su desempeño, en forma integral y directa, además de las que determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la ley.
+El Consejo Electoral del Estado agrupará para su desempeño, en forma integral y directa, además de las que determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales, asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la ley.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -443,7 +445,7 @@ La asignación de los diputados según el principio de representación proporcio
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-a).- Para obtener el registro de sus listas de candidatos a diputados de representación proporcional, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en cuando menos catorce de los distritos uninominales del Estado.
+a) Para obtener el registro de sus listas de candidatos a diputados de representación proporcional, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en cuando menos 14 de los distritos uninominales del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -569,11 +571,11 @@ Si no hubiere quórum para instalar el Congreso o para que ejerza sus funciones 
 
 El faltar a tres sesiones consecutivas sin causa justificada, o sin previa licencia del Presidente del Congreso, provocará la pérdida del derecho del diputado faltista a ejercer el cargo por lo que reste del período de sesiones.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 41.
 
-El Congreso tendrá dos períodos ordinarios de sesiones; el primero comenzará el día 2 de Octubre y concluirá el día 31 de Diciembre; el segundo se iniciará el día 1o. de abril y concluirá el día 30 de junio. Ambos períodos podrán prorrogarse hasta por quince días cada uno.
+El Congreso tendrá dos períodos ordinarios de sesiones; el primero comenzará el día 1º de Octubre y concluirá el día 31 de Diciembre; el segundo se iniciará el día 1º de Abril y concluirá el día 30 de Junio. Ambos períodos podrán prorrogarse hasta por quince días cada uno.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -676,6 +678,10 @@ I.- Crear nuevos Municipios libres, dentro de los límites de los existentes, si
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 a).- Que la fracción o fracciones que pidan erigirse en municipio cuenten con una población de más de veinticinco mil habitantes;
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
+Excepcionalmente, por razones de orden político, social o económico que lo hagan aconsejable, la Legislatura podrá dar trámite y aprobar, si los demás requisitos que se señalan en los incisos siguientes se satisfacen, solicitudes que provengan de fracción o fracciones con población menor de veinticinco mil habitantes pero mayor de seis mil habitantes;
 
 b).- Que se compruebe ante el Congreso que la fracción o fracciones que pretenden formar Municipios libres, tienen los elementos bastantes para proveer a su existencia política y económica, así como que el Municipio libre del cual se pretenden segregar, puede continuar subsistiendo sin sufrir con la desmembración perjuicio grave alguno;
 
@@ -805,7 +811,7 @@ Durante los períodos de receso del Congreso, su Gran Comisión funcionará como
 
 ###### ARTICULO 56.
 
-Diez días antes de concluir el segundo período de receso, de cada uno de los años de ejercicio de una Legislatura, en sesión solemne de la Diputación Permanente, a la cual asistirán todos los demás miembros de la Legislatura y se invitará a concurrir, al Gobernador del Estado y a los Magistrados integrantes del Tribunal Superior de Justicia de la entidad, el presidente de dicha Diputación rendirá al pueblo campechano un informe de las actividades realizadas durante el correspondiente ejercicio anual por el Congreso del Estado, como asamblea legislativa, y de las efectuadas en lo particular, por cada uno de sus miembros en cumplimiento de lo que dispone el tercer párrafo del artículo 38 de esta Constitución.
+Diez días antes de concluir el segundo período de receso, de cada uno de los años de ejercicio de una Legislatura, en sesión solemne de la Diputación Permanente, a la cual asistirán todos los demás miembros de la Legislatura y se invitará a concurrir, al Gobernador del Estado y a los Magistrados integrantes del Tribunal Superior de Justicia de la entidad, el presidente de dicha Diputación rendirá al pueblo campechano un informe de las actividades realizadas durante el correspondiente ejercicio anual por el Congreso del Estado, como asamblea legislativa, y de las efectuadas, en lo particular, por cada uno de sus miembros en cumplimiento de lo que dispone el tercer párrafo del artículo 38 de esta Constitución.
 
 Cuando la celebración de la sesión prevista en el párrafo anterior coincida en fecha con la sesión previa que establece la Ley Orgánica del Congreso, esta última antecederá a la primera.
 
@@ -893,11 +899,11 @@ II.- Los que tengan mando alguno de fuerza pública dentro de los 45 días antes
 
 III.- Los que tengan algún cargo o comisión del Gobierno Federal o de otro u otros Estados, dentro de los 45 días antes de la elección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 63.
 
-El Gobernador del Estado entrará a ejercer su cargo el 16 de octubre y durará en él seis años.
+El Gobernador del Estado entrará a ejercer su cargo el día 16 de Septiembre del año de la elección y durará en él seis años.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -957,7 +963,7 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 71.
 
@@ -1131,7 +1137,7 @@ Los magistrados y los jueces percibirán una remuneración adecuada e irrenuncia
 
 Los nombramientos de los magistrados y jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia; que los merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 78.
 
@@ -1195,7 +1201,7 @@ Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas
 
 Los magistrados del Tribunal Superior de Justicia, los jueces de primera instancia y sus respectivos secretarios, no podrán desempeñar empleo o cargo de la Federación, de otro Poder del Estado, del Municipio ni de particulares, por el cual reciban remuneración, exceptuados los cargos en los ramos de instrucción y asistencia públicas. La infracción de esta disposición será castigada con la pérdida del cargo de magistrado, juez o secretario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 84.
 
@@ -1421,7 +1427,7 @@ II.- No haber sido condenado por algún delito que merezca pena corporal;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 1994)</small>
 
-III.- Tener 21 años cumplidos, el día de la elección;
+III.- Tener 21 años cumplidos, el día de la elección.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1955,7 +1961,9 @@ Primero.- El presente Decreto iniciará su vigencia al día siguiente de su publ
 
 Segundo.- La disposición contenida en el artículo 41 de este Decreto de reformas entrará en vigor el día 1 de enero del año de 1993.
 
-Tercero.- La LIV Legislatura del Congreso del Estado ejercerá su encargo del día 7 de agosto de 1992 al 30 de septiembre de 1994. La LV Legislatura ejercerá sus funciones del día 1 de octubre de 1994 al 30 de septiembre de 1997.
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 10 DE JULIO DE 1996)</small>
+
+Tercero.- La LIV Legislatura del Congreso del Estado ejercerá su encargo del día 7 de agosto de 1992 al 30 de septiembre de 1994.
 
 Cuarto.- El Gobernador electo para fungir durante el sexenio 1991 - 1997, concluirá su encargo el día 15 de septiembre de 1997. Dentro de la primera semana de septiembre de 1997, el Congreso del Estado elegirá un Gobernador Interino que fungirá del 16 de septiembre al 15 de octubre de 1997.
 
@@ -1965,11 +1973,11 @@ P.O. 30 DE DICIEMBRE DE 1993.
 
 ###### ARTICULO UNICO.
 
-El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+EL PRESENTE DECRETO INICIARA SU VIGENCIA AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
 
 P.O. 14 DE ENERO DE 1994.
 
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 24 DE MARZO DE 1994.
 
@@ -1982,3 +1990,9 @@ Tercero.- El informe a que se contrae el artículo 56 Constitucional, por esta �
 P.O. 6 DE JULIO DE 1996.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 1996.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se deroga la segunda parte del Artículo Tercero Transitorio del Decreto 264 expedido por la LIII Legislatura de este Congreso, que se publicó en el Periódico Oficial del Estado el día 1° de Abril de 1992, al desaparecer la necesidad de designación de un Gobernador interino para fungir del 16 de Septiembre al 15 de Octubre de 1997, por la reforma que al primer párrafo del artículo 63 se contiene en este decreto.
