@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establecen-las-normas-para-la-63645"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-08-30"
-last_updated: "2000-06-30"
+last_updated: "2001-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63645&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,175 +19,25 @@ issue_date: "1994-08-28"
 ---
 # ACUERDO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-ACUERDO QUE MODIFICA EL SIMILAR QUE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE COMERCIO Y FOMENTO INDUSTRIAL
+ACUERDO QUE REFORMA EL ANEXO V DEL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de junio de 2000.
+Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el jueves 1 de marzo de 2001.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comercio y Fomento Industrial.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
 
-HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 4o. fracción III, 5o. fracciones III y X, 15, 16, 17, 20 y 21 de la Ley de Comercio Exterior; 36 fracción I inciso c) y 104 fracción II de la Ley Aduanera; 21 del Reglamento de la Ley de Comercio Exterior; 1, 2 y 5 del Acuerdo sobre Procedimientos para el Trámite de Licencias de Importación, y 1, 4, 5 fracción XVI, 40 y 41 del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, 16 fracciones I y VII del Acuerdo Delegatorio de Facultades de la Secretaría de Comercio y Fomento Industrial, y
+LUIS ERNESTO DERBEZ BAUTISTA, Secretario de Economía, con fundamento en los artículos 34 fracciones I y XXX de la Ley Orgánica de la Administración Pública Federal; 2o., 5o. fracción IV, 9o., 10 y 66 de la Ley de Comercio Exterior, y 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y quinto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Radio y Televisión, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, de la Ley de la Policía Federal Preventiva y de la Ley de Pesca, y
 
 CONSIDERANDO
 
-Que el 29 de agosto de 1997 fue publicado en el Diario Oficial de la Federación el Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Comercio y Fomento Industrial, reformado mediante diversos dados a conocer en el mismo órgano informativo el 31 de diciembre de 1997, 3 de abril de 1998, 27 de julio de 1998, 12 de agosto de 1998, 23 de diciembre de 1998, 26 de enero de 1999, 6 de septiembre de 1999, 31 de diciembre de 1999, 21 de enero de 2000, 13 de marzo de 2000 y 15 de junio de 2000;
+Que con fecha 30 de agosto de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, el cual fue reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, 30 de junio de 1999 y 30 de junio de 2000, respectivamente, el cual tiene por objeto establecer las normas para la determinación y certificación del país de origen de las mercancías que se importen al territorio de los Estados Unidos Mexicanos para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior;
 
-Que el 26 de junio de 2000 fue publicada en el Diario Oficial de la Federación la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre Comercio y Cuestiones Relacionadas con el Comercio entre la Comunidad Europea y los Estados Unidos Mexicanos, para entrar en vigor el 1 de julio del mismo año; Que con objeto de facilitar la consulta en materia de permisos previos de importación y de exportación, resulta conveniente reflejar en el Acuerdo mencionado, las reformas realizadas en fechas recientes a la Tarifa contenida en el artículo 1 de la Ley del Impuesto General de Importación;
+Que el artículo cuarto fracción I inciso c) del citado Acuerdo, establece que para efectos de lo dispuesto en el artículo 66 de la Ley de Comercio Exterior, el importador de mercancías idénticas o similares a aquéllas por las que, de conformidad con la resolución respectiva, deba pagarse una cuota compensatoria, provisional o definitiva, no estará obligado a pagarla si comprueba que el país de origen de las mercancías es distinto del país que exporta mercancías en las condiciones de prácticas desleales al comercio internacional, para lo cual, en el caso de mercancías por las que se solicite trato arancelario preferencial al amparo de algún tratado internacional listado en el anexo V, deberá contar con el Certificado de Origen emitido de conformidad con dicho tratado;
 
-Que la Comisión de Comercio Exterior aprobó la modificación de las regulaciones no arancelarias aplicables a la importación de las mercancías sujetas al requisito de permiso previo por parte de la Secretaría de Comercio y Fomento Industrial, para su inclusión en el presente Acuerdo, conforme al procedimiento señalado en la ley de la materia, he tenido a bien expedir el siguiente:
+Que para fortalecer y ampliar las relaciones comerciales con la República Oriental del Uruguay se adoptó el Decimoquinto Protocolo Adicional del Acuerdo de Complementación Económica No. 5 entre los Estados Unidos Mexicanos y la República Oriental del Uruguay que aprobó el Senado de la República el 21 de diciembre de 2000, el decreto de aprobación fue publicado en el Diario Oficial de la Federación el 26 de enero de 2001, y
 
-ACUERDO QUE MODIFICA EL SIMILAR QUE ESTABLECE LA CLASIFICACION Y CODIFICACION DE MERCANCIAS CUYA IMPORTACION Y EXPORTACION ESTA SUJETA AL REQUISITO DE PERMISO PREVIO POR PARTE DE LA SECRETARIA DE COMERCIO Y FOMENTO INDUSTRIAL
+Que es necesario actualizar y dar a conocer las disposiciones referentes a la determinación y certificación del país de origen de mercancías importadas en materia de cuotas compensatorias, he tenido a bien expedir el siguiente:
 
-###### ARTICULO 1.
-
-Se reforma el artículo 1o. del Acuerdo que establece la clasificación y codificación de mercancías cuya importación y exportación está sujeta al requisito de permiso previo por parte de la Secretaría de Comercio y Fomento Industrial, publicado en el Diario Oficial de la Federación el 29 de agosto de 1997, reformado mediante diversos publicados los días 31 de diciembre de 1997, 3 de abril de 1998, 27 de julio de 1998, 12 de agosto de 1998, 23 de diciembre de 1998, 26 de enero de 1999, 6 de septiembre de 1999, 31 de diciembre de 1999, 21 de enero de 2000, 13 de marzo de 2000 y 15 de junio de 2000, únicamente respecto de las fracciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación que a continuación se indican:
-
-FRACCION DESCRIPCION
-
-8701.20.01 Tractores de carretera para semirremolques.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
-
-8702.10.01 Con carrocería montada sobre chasis, excepto lo comprendido en la fracción 8702.10.03.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
-
-8702.10.02 Con carrocería integral, excepto lo comprendido en la fracción 8702.10.04.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
-
-8702.10.03 Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería montada sobre chasis.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
-
-8702.10.04 Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería integral.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
-
-8702.90.02 Con carrocería montada sobre chasis, excepto lo comprendido en la fracción 8702.90.04.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
-
-8702.90.03 Con carrocería integral, excepto lo comprendido en la fracción 8702.90.05.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
-
-8702.90.04 Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería montada sobre chasis.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
-
-8702.90.05 Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería integral.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
-
-8704.22.05 De peso total con carga máxima superior a 8,845 kilogramos, pero inferior o igual a 11,793 kilogramos.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
-
-8704.22.06 De peso total con carga máxima superior 11,793 kilogramos, pero inferior o igual a 14,968 kilogramos.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
-
-8704.22.99 Los demás.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
-
-8704.23.99 Los demás.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
-
-8704.32.05 De peso total con carga máxima superior a 8,845 kilogramos, pero inferior o igual a 11,793 kilogramos.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
-
-8704.32.06 De peso total con carga máxima superior a 11,793 kilogramos, pero inferior o igual a 14,968 kilogramos.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
-
-8704.32.99 Los demás.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
-
-8705.20.01 Con equipos hidráulicos de perforación destinados a programas de abastecimiento de agua potable en el medio rural.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
-
-8705.40.01 Camiones hormigonera.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y que tengan un peso bruto vehicular superior a 8,864 kilogramos.
-
-8706.00.99 Los demás.
-
-Excepto: Nuevos que hayan sido fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
-
-###### ARTICULO 2.
-
-Se reforma el artículo 4o. apartado A del Acuerdo que se señala en el artículo 1 del presente ordenamiento, únicamente respecto de la fracción arancelaria de la Tarifa de la Ley del Impuesto General de Importación que a continuación se indica:
-
-FRACCION DESCRIPCION
-
-8704.31.05 Denominados “Pick Up”, de peso total con carga máxima inferior o igual a 3,200 kilogramos, y cuyo número de serie o año-modelo sea al menos 10 años anterior al vigente, que no sean de doble rodada.
-
-Excepto: Fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea.
-
-###### ARTICULO 3.
-
-Se reforma el primer párrafo del artículo 7o. Bis del Acuerdo que se señala en el artículo 1 del presente ordenamiento, para quedar como sigue:
-
-###### ARTICULO 7o. Bis.
-
-Se sujetan al requisito de Constancia de Producto Nuevo por parte de la Secretaría de Comercio y Fomento Industrial, la introducción al territorio nacional de los vehículos de autotransporte comprendidos en las fracciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación que a continuación se indican, únicamente cuando se destinen a los regímenes aduaneros de importación definitiva o depósito fiscal y se trate de vehículos nuevos fabricados en los Estados Unidos de América, Canadá o la Comunidad Europea y tengan un peso bruto vehicular superior a 8 864 kilogramos o estén destinados para el transporte de mercancías mediante el arrastre de remolques o semirremolques y dotados con dos o tres ejes, con equipo integrado, de conformidad con el Tratado de Libre Comercio de América del Norte, o con la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre comercio y cuestiones relacionadas con el comercio, según corresponda:
-
-. . . . . .
-
-###### ARTICULO 4.
-
-Se adiciona la fracción III al artículo 7o. del Acuerdo que se señala en el artículo 1 del presente ordenamiento, para quedar como sigue:
-
-###### ARTICULO 7o.
-
-. . . . .
-
-. . . . .
-
-III.- La Comunidad Europea, que califiquen como originarias conforme a la Decisión 2/2000 del Consejo Conjunto del Acuerdo Interino sobre comercio y cuestiones relacionadas con el comercio entre la Comunidad Europea y los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 26 de junio de 2000,
-
-###### ARTICULO 5.
-
-Se adicionan a la fracción I del artículo 10 del Acuerdo que se señala en el artículo 1 del presente ordenamiento, las fracciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación que a continuación se indican:
-
-FRACCION DESCRIPCION
-
-1604.14.01 Atunes (del género “Thunnus”), excepto lo comprendido en la fracción 1604.14.02.
-
-1604.14.02 Filetes (“lomos”) de atunes (del género “Thunnus”).
-
-1604.14.03 Filetes (“lomos”) de barrilete del género “Euthynnus” variedad “Katsuwonus pelamis”.
-
-1604.20.02 De atún, barrilete, u otros pescados del género “Euthynnus”.
-
-###### ARTICULO 6.
-
-Se adiciona la fracción IV al artículo 10 del Acuerdo que se señala en el artículo 1 del presente ordenamiento, para quedar como sigue:
-
-###### ARTICULO 10.
-
-. . . . .
-
-. . . . .
-
-IV. Cuando sean originarias de los Estados Unidos de América:
-
-FRACCION DESCRIPCION
-
-0210.90.03 Aves, saladas o en salmuera.
-
-1604.14.01 Atunes (del género “Thunnus”), excepto lo comprendido en la fracción 1604.14.02.
-
-1604.14.02 Filetes (“lomos”) de atunes (del género “Thunnus”).
-
-1604.14.03 Filetes (“lomos”) de barrilete del género “Euthynnus” variedad “Katsuwonus pelamis”.
-
-1604.20.02 De atún, barrilete, u otros pescados del género “Euthynnus”.
+ACUERDO QUE REFORMA EL ANEXO V DEL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
 ###### ARTICULO 1o.
 
@@ -775,19 +625,21 @@ p) Del Capítulo 96 la siguiente:
 
 ###### ARTICULO UNICO.
 
-Se adiciona a la lista contenida en el Anexo V del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 30 de agosto de 1994, el cual fue reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996 y 12 de octubre de 1998, respectivamente, el siguiente Tratado Internacional:
+Se reforma el primer párrafo del Anexo V del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias publicado el 30 de agosto de 1994 en el Diario Oficial de la Federación y reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996, 12 de octubre de 1998, el 30 de junio de 1999 y 30 de junio de 2000, respectivamente, y se adiciona la lista contenida en el mismo, para quedar como sigue:
 
-“. . .
+“ANEXO V
 
-. . .
-
-. . .
+Los siguientes tratados de libre comercio y los Acuerdos Comerciales que otorgan a la autoridad mexicana facultades de comprobación en el extranjero respecto del Certificado de Origen:
 
 . . .
 
 . . .
 
-Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Chile.”
+. . .
+
+. . .
+
+Decimoquinto Protocolo Adicional del Acuerdo de Complementación Económica No. 5 entre los Estados Unidos Mexicanos y la República Oriental del Uruguay.”
 
 ###### ARTICULO CUARTO.
 
@@ -889,10 +741,8 @@ El Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias de
 
 A partir de la entrada en vigor de esta Ley, quedará abrogada la Ley para la Integración de Personas con Discapacidad del Estado de Yucatán publicada en el Diario Oficial del Estado de fecha 16 de mayo de 1996.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Acuerdo entrará en vigor el día 1 de julio de 2000, con excepción de lo dispuesto en el artículo segundo transitorio de este ordenamiento.
+UNICO.- El presente Acuerdo entrará en vigor el día de su publicación.
 
-SEGUNDO.- Las disposiciones de los artículos 5 y 6 del presente Acuerdo entrarán en vigor a los 30 días de su publicación en el Diario Oficial de la Federación.
-
-México, D.F., a 19 de junio de 2000.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+México, D.F., a 28 de febrero de 2001.- Con fundamento en el artículo 40 del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial y quinto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Radio y Televisión, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, de la Ley de la Policía Federal Preventiva y de la Ley de Pesca, y por ausencia del Secretario de Economía, del Subsecretario de Negociaciones Comerciales Internacionales y del Subsecretario de Promoción de la Industria y el Comercio Exterior, firma el Subsecretario de Normatividad y Servicios a la Industria y al Comercio Exterior, Juan Antonio García Villa.- Rúbrica.
