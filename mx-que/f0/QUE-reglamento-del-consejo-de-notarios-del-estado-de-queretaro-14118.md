@@ -1,0 +1,374 @@
+---
+title: "REGLAMENTO DEL CONSEJO DE NOTARIOS DEL ESTADO DE QUERETARO -- ANTES REGLAMENTO DEL CONSEJO DE NOTARIOS DEL ESTADO DE QUERETARO ARTEAGA --"
+identifier: "QUE-reglamento-del-consejo-de-notarios-del-estado-de-queretaro-14118"
+country: "mx"
+rank: "reglamento"
+publication_date: "1997-05-29"
+last_updated: "1997-05-29"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14118&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-que"
+scjn_id: "14118"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "REGLAMENTO"
+original_gazette_section: "22"
+reform_count: "1"
+scjn_last_update: "2015-02-13"
+issue_date: "1997-05-26"
+state: "QUE"
+---
+# REGLAMENTO DEL CONSEJO DE NOTARIOS DEL ESTADO DE QUERETARO -- ANTES REGLAMENTO DEL CONSEJO DE NOTARIOS DEL ESTADO DE QUERETARO ARTEAGA --
+
+REGLAMENTO DEL CONSEJO DE NOTARIOS DEL ESTADO DE QUERETARO ARTEAGA
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el jueves 29 de mayo de 1997.
+
+LICENCIADO ENRIQUE BURGOS GARCIA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA, EN USO DE LAS FACULTADES QUE ME CONFIERE (SIC) LOS ARTÍCULOS 57 FRACCION I DE LA CONSTITUCION POLITICA DEL ESTADO, 7 DE LA LEY ORGANICA DE LA ADMINISTRACIÓN DEL ESTADO, Y 127 DE LA LEY DEL NOTARIADO PARA EL ESTADO, Y
+
+CONSIDERANDO...
+
+Por todo lo anterior, he tenido a bien expedir el siguiente:
+
+REGLAMENTO DEL CONSEJO DE NOTARIOS DEL ESTADO DE QUERETARO ARTEAGA
+
+## TÍTULO PRIMERO. GENERALIDADES
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 1.
+
+El presente ordenamiento reglamenta el funcionamiento del Consejo de Notarios del Estado de Querétaro, y regula su estructura y facultades.
+
+###### ARTÍCULO 2.
+
+Los casos y situaciones no contemplados en el presente reglamento, serán resueltos por el Consejo de Notarios, conforme a la interpretación legal de la Ley y los principios Generales del Derecho.
+
+## TÍTULO SEGUNDO. DE LAS ASAMBLEAS DEL CONSEJO DE NOTARIOS
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 3.
+
+El órgano supremo del Consejo de Notarios reside en su asamblea en la que se tratarán todos los asuntos concernientes al gremio.
+
+###### ARTÍCULO 4.
+
+Las asambleas siempre serán convocadas por la Directiva del Consejo. Esta deberá citar a asamblea cuando sea necesario adoptar algún acuerdo de carácter general, o cuando se lo soliciten los notarios que representen por lo menos el veinticinco por ciento del total en ejercicio. La convocatoria se hará por medio de circular, dirigida a cada Notario a su oficina con tres días hábiles de anticipación a la fecha en que deba llevarse a cabo, salvo caso urgente. En la circular se especificará el lugar, la hora y el orden del día establecidos para la asamblea. Para el envío de la circular, la Directiva podrá usar el medio de comunicación que considere mas idóneo.
+
+###### ARTÍCULO 5.
+
+Para la instalación y validez de las resoluciones de la asamblea, en primera convocatoria, será necesaria la concurrencia personal de la mitad más uno de los notarios en ejercicio. Si no hubiere el quórum indicado, la Directiva del Consejo de Notarios convocará por segunda vez, haciendo saber esta circunstancia, así como el que la asamblea se instalará y sus acuerdos serán válidos, sea cual fuere el número de notarios que a ella concurran. En este último caso la citación deberá hacerse a más tardar, el día anterior al de la fecha de la Asamblea.
+
+Los acuerdos adoptados por la asamblea surtirán efecto aun para los ausentes o disidentes.
+
+###### ARTÍCULO 6.
+
+El quórum para las asambleas será constatado, por un escrutador que designará el presidente. Las actas de las mismas se asentarán en el libro respectivo y serán firmadas por el presidente, el secretario y los dos escrutadores.
+
+## TÍTULO TERCERO. DE LA DIRECTIVA DEL CONSEJO DE NOTARIOS
+
+### CAPÍTULO I. DE LA ELECCIÓN
+
+###### ARTÍCULO 7.
+
+Una vez constituida la asamblea a que se refiere el artículo 121 de la Ley del Notariado, el presidente designará dos escrutadores; la elección de Presidente de la Directiva se hará por mayoría de votos mediante sufragio personal de cada notario presente.
+
+El Presidente así electo nombrará a los demás integrantes de la Directiva de entre los integrantes del Consejo.
+
+###### ARTÍCULO 8.
+
+Concluida la elección, se dará lectura al informe que sobre los trabajos realizados en un año natural, rinda la Directiva que estuvo en funciones en ese periodo, así como el informe financiero correspondiente al mismo. En ese acto, la asamblea podrá elegir de entre sus miembros dos comisarios, a efecto de que glosen las cuentas relacionadas con el informe financiero rendido, los cuales quedarán facultados para hacer las observaciones pertinentes y expedir los finiquitos que procedan.
+
+###### ARTÍCULO 9.
+
+El presidente y el secretario, si continúan en funciones, o en su caso los que los que concluyan en estos cargos, comunicarán el resultado de la elección a la Secretaría de Gobierno del Estado, al Archivo General de Notarías, a la Dirección del Registro Público de la Propiedad y a todas aquellas dependencias con las que los notarios tengan mayor relación en el ejercicio de su función.
+
+###### ARTÍCULO 10.
+
+La Directiva electa entrará en funciones el día primero de febrero del año de su elección, excepto en el supuesto del artículo 124 de la Ley del Notariado, en cuyo caso entrará en funciones el día de la elección.
+
+###### ARTÍCULO 11.
+
+El resultado de la elección será publicado en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+### CAPÍTULO II. DE LAS SESIONES
+
+###### ARTÍCULO 12.
+
+La Directiva electa celebrará su primera sesión ordinaria dentro de los cinco días hábiles siguientes a aquel en que entre en funciones, fijando en esa sesión el día y hora en que deban celebrarse las subsecuentes ordinarias.
+
+###### ARTÍCULO 13.
+
+La Directiva del Consejo de Notarios celebrará sesiones extraordinarias cuando lo acuerden el Secretario de Gobierno del Estado, el Presidente de la Directiva del Consejo, o lo soliciten dos miembros de ella. La citación para las sesiones será hecha por cualquier medio, dirigida a los integrantes de la Directiva.
+
+###### ARTÍCULO 14.
+
+Para celebrar válidamente una sesión, se necesita, por lo menos, la concurrencia de tres directivos.
+
+###### ARTÍCULO 15.
+
+Toda sesión de la Directiva debe comenzar sometiendo a consideración de los presentes, aprobación del acta precedente, y si la redacción de dicha acta suscitara discusión, la resolverá la misma Directiva, haciéndose mención en el acta respectiva. En seguida el secretario informará acerca del cumplimiento de los acuerdos adoptados por la Directiva con anterioridad y de los económicos emitidos por el Presidente, y dará cuenta de los asuntos en el orden que les corresponda. El notario o notarios a quienes se hubiere encomendado algún asunto para estudio o comisión, informarán del curso o resultado de ellos.
+
+###### ARTÍCULO 16.
+
+Los notarios podrán presentar proposiciones por escrito para su discusión, de las cuales dará cuenta el secretario, o en la misma sesión, previa autorización de la Directiva, podrán formularlas verbalmente. En el primer caso se hará una relación o extracto de las proposiciones en el acta correspondiente, a la cual se agregará el original; en el segundo caso, tomará nota el secretario de las proposiciones verbales, para que queden asentadas en el acta.
+
+###### ARTÍCULO 17.
+
+Todos los asuntos que se presenten serán tratados desde luego, si son de obvia resolución; en caso contrario, el presidente nombrará en comisión a uno o varios notarios, para que dictaminen dentro del plazo que el mismo presidente les señale. Tanto el nombramiento del notario o notarios designados, como el término del desempeño de la comisión, pueden ser modificados por la Directiva, si lo juzgare conveniente.
+
+###### ARTÍCULO 18.
+
+La Directiva del Consejo de Notarios resolverá las consultas que le hicieren los notarios en ejercicio, relativa a asuntos concernientes al notariado.
+
+###### ARTÍCULO 19.
+
+Toda resolución sujeta a votación se adoptará por mayoría de votos de los presentes, teniendo el presidente, en caso de empate, voto de calidad. Esta disposición será aplicable al título anterior.
+
+### CAPÍTULO III. DEL PRESIDENTE
+
+###### ARTÍCULO 20.
+
+En los términos del artículo 129 de la Ley del Notariado, la representación legal del Consejo de Notarios del Estado como persona jurídica, corresponde al Presidente de la Directiva, quien en ejercicio de su cargo, gozará de las facultades generales más amplias para pleitos y cobranzas, y actos de administración de conformidad con la legislación aplicable, en todos los actos en que aquél deba intervenir. Además tendrá las siguientes atribuciones:
+
+I. Presidir las asambleas del Consejo y las sesiones de la Directiva;
+
+II. Controlar la impresión y venta de los folios que deberán usar los notarios de acuerdo con el artículo 42 de la Ley del Notariado;
+
+III. Designar las comisiones que sean necesarias, de entre los integrantes del Consejo;
+
+IV. Citar, por sí o por conducto del Secretario, a las sesiones y asambleas que sean necesarias;
+
+V. Dirigir las discusiones, concediendo el uso de la palabra a los miembros del Consejo;
+
+VI. Autorizar con su firma las actas de las Asambleas del Consejo y de las sesiones de la Directiva;
+
+VII. Autorizar las erogaciones que deban pagarse con fondos del Consejo;
+
+VIII. Delegar o sustituir sus facultades y otorgar poderes para actos concretos, y
+
+IX. Todas las demás que establezca la Ley y este Reglamento, y las que sean necesarias para la buena marcha del Consejo de Notarios.
+
+### CAPÍTULO IV. DEL SECRETARIO
+
+###### ARTÍCULO 21.
+
+El secretario del Consejo tendrá las siguientes atribuciones:
+
+I. Cumplir con los acuerdos de la presidencia;
+
+II. Despachar la correspondencia;
+
+III. Hacer las citaciones para las asambleas del Consejo y las sesiones de la Directiva;
+
+IV. Levantar y firmar las actas de las asambleas del Consejo y de las sesiones de la Directiva;
+
+V. Informar al Consejo o a la Directiva, según corresponda, acerca de los acuerdos adoptados con anterioridad y de los económicos dictados por el presidente;
+
+VI. Dar cuenta a la Directiva con los asuntos pendientes;
+
+VII. Expedir copias certificadas de las constancias que obren en los archivos del Consejo, previo acuerdo con el Presidente, y
+
+VIII. Realizar todas aquellas funciones inherentes a su cargo.
+
+### CAPÍTULO V. DEL TESORERO
+
+###### ARTÍCULO 22.
+
+Son atribuciones del tesorero del Consejo las siguientes:
+
+I. Recaudar los fondos;
+
+II. Hacer los pagos, previo acuerdo del presidente;
+
+III. Llevar la contabilidad;
+
+IV. Exigir a los notarios el puntual pago de las cuotas que deban cubrir, extendiéndoles el recibo correspondiente;
+
+V. Dar cuenta cada mes a la Directiva del Consejo, de los notarios morosos en el pago de sus cuotas, para que ésta resuelva lo que proceda;
+
+VI. Presentar en la primera sesión del año siguiente un informe financiero del periodo;
+
+VII. Cumplir con todos los acuerdos emanados del Consejo y de la Directiva para asuntos de su incumbencia;
+
+VIII. Ejecutar los acuerdos del Presidente respecto de la impresión y suministro de los folios del protocolo que los Notarios soliciten, y
+
+IX. Realizar todas aquellas funciones inherentes a su cargo.
+
+## TÍTULO CUARTO. DEL PATRIMONIO DEL CONSEJO DE NOTARIOS
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 23.
+
+El patrimonio del Consejo se conforma con los bienes que actualmente son de su propiedad, así como los que en el futuro adquiera por cualquier título, con las contraprestaciones que por la provisión de folios obtenga y con las cuotas ordinarias y extraordinarias que acuerde la asamblea, así como con cualquier otro ingreso que perciba por cualquier concepto, que no tenga un destino expresamente previsto en este reglamento.
+
+###### ARTÍCULO 24.
+
+El tesorero del Consejo, en los primeros diez días de cada mes, remitirá una nota al secretario del mismo, de los notarios en ejercicio que no hubieren pagado alguna cuota ordinaria o extraordinaria. En vista de ese informe, el secretario exhortará, por medio de oficio, al notario moroso para que cubra la cuota o cuotas que adeude dentro de los diez días siguientes, advirtiéndole que en caso de no hacerlo se le suspenderá la provisión de folios, hasta que se ponga al corriente con la o las cuotas omitidas, para su correspondiente actualización.
+
+###### ARTÍCULO 25.
+
+Cada mes el tesorero presentará a la Directiva un corte de caja de los ingresos y egresos habidos durante el mes anterior, con expresión del dinero disponible. Con éste se acompañará la lista de las cuentas pendientes de pagos.
+
+###### ARTICULO 26.
+
+Los recibos que el tesorero extienda a los notarios por sus cuotas, serán numerados progresivamente, debiendo éste conservar los talones o copias de los comprobante (sic), así como los principales de los no pagados o cancelados.
+
+###### ARTÍCULO 27.
+
+Los fondos del Consejo de Notarios deberán ser depositados en una institución bancaria en una o más cuentas de cheques o de inversión abiertas a nombre del Consejo de Notarios del Estado, y de dichos fondos no se podrá disponer sino mediante cheques firmados por el Tesorero, con la autorización del Presidente.
+
+## TÍTULO QUINTO. DE LA MUTUALIDAD DEL CONSEJO DE NOTARIOS
+
+### CAPÍTULO I. DE LA COMISIÓN DE MUTUALIDAD
+
+###### ARTÍCULO 28.
+
+Se crea en forma permanente la Comisión de Mutualidad para el efecto de con ella buscar beneficios para todos los Notarios del Estado y que tendrá como objetivo el formar un fondo pecuniario que permita otorgar una ayuda económica a los familiares del Notario que fallezca o en forma directa al Notario en su incapacidad total permanente en los términos que señale su manual de operaciones.
+
+Igualmente como objetivo será el ampliar estos beneficios y establecer otros de acuerdo a la capacidad financiera de la mutualidad. La Asamblea del Consejo acordará, en su caso, la ampliación de los beneficios y el establecimiento de otros, a propuesta de la Comisión o de la Directiva del Consejo.
+
+###### ARTÍCULO 29.
+
+Será obligatorio para los Notarios en ejercicio pertenecer a la mutualidad que reglamenta el presente y gozarán de los beneficios que acuerde la Comisión, sin distinción. Los notarios que no estén en ejercicio de sus funciones podrán también pertenecer a la mutualidad si pagan las cuotas correspondientes y reúnen los demás requisitos que fije el manual de operaciones.
+
+###### ARTÍCULO 30.
+
+La Comisión de mutualidad se integrará por el Presidente de la Directiva en funciones, y por cuatro notarios propietarios que elegirá libremente el Consejo en pleno, en asamblea que al efecto se convoque y durarán en su cargo cuatro años. Por cada Notario nombrado como propietarios, en la misma asamblea se deberá designar a un suplente, que sólo formará parte de la Comisión cuando sustituya al propietario conforme a este Reglamento.
+
+Los cuatro notarios propietarios elegidos y el Presidente de la Directiva formarán un cuerpo colegiado que será coordinado por la persona que de entre ellos se elija, por el periodo de un año; el Presidente de la Directiva no podrá ser electo como Coordinador de la Comisión.
+
+###### ARTÍCULO 31.
+
+Los integrantes de la Comisión de Mutualidad con excepción del Presidente de la Directiva, podrán ser reelectos hasta por un periodo más; en ningún caso podrán cobrar emolumento alguno toda vez que se desempeño será honorífico.
+
+###### ARTÍCULO 32.
+
+El Estado no asume ninguna responsabilidad vinculada a la subsistencia de la comisión o a la financiación de las obligaciones pecuniarias que la mutualidad deba cubrir, pero dará toda clase de facilidades para que la Comisión pueda allegarse recursos mediante actividades específicas que tengan como finalidad el incremento de su fondo.
+
+### CAPÍTULO II. DE LAS ATRIBUCIONES DE LA COMISIÓN
+
+###### ARTÍCULO 33.
+
+Corresponde a la Comisión de Mutualidad:
+
+I. Someter a la consideración del Consejo su manual de operaciones para ser aprobado y en su caso aplicado;
+
+II. Proponer a la Directiva del Consejo las reformas al presente título que la experiencia aconseje como convenientes o necesarias y, aprobadas que sean por la Asamblea del Consejo, aquélla las proponga al Ejecutivo del Estado;
+
+III. Aprobar el pago de los beneficios previamente acordado conforme a las disposiciones del presente Reglamento y del Manual de Operación, a favor de los Notarios o sus beneficiarios, según proceda;
+
+IV. Rendir al Consejo de Notarios, un informe completo de la situación financiera de la mutualidad acompañada de los estados y datos complementarios pertinentes, en la misma Asamblea en que lo haga la Directiva;
+
+V. Acordar, conforme al Manual de Operación, la colocación de los saldos del fondo de mutualidad, luego de realizar sus servicios y hacer las reservas que la prudencia aconseje, en contratos de renta fija con instituciones de crédito buscando obtener el mejor rendimiento, y conforme al mismo, destinarlos a la adquisición de inmuebles o préstamos hipotecarios, con el voto unánime de todos los miembros de la Comisión de Mutualidad y el asesoramiento de la Directiva del Consejo, cuidando en todo momento conservar la liquidez necesaria para el cumplimiento de sus fines;
+
+VI. Nombrar, suspender o destituir al personal de su dependencia;
+
+VII. Realizar eventos que tengan como finalidad el incremento patrimonial de la Mutualidad, con el apoyo del Estado, los Municipios y de los particulares, y
+
+VIII. Realizar los actos, gestiones o diligencias de administración necesarios al funcionamiento regular de la mutualidad.
+
+###### ARTÍCULO 34.
+
+Los gastos de administración anual de la mutualidad no podrán ser superiores al cinco por ciento de los ingresos brutos anuales.
+
+###### ARTÍCULO 35.
+
+La Comisión de Mutualidad sólo podrá sesionar válidamente con la presencia de cuando menos tres de sus miembros y sus resoluciones se adoptarán por simple mayoría, salvo los casos para los que se requieran quórum o votación especial.
+
+###### ARTÍCULO 36.
+
+La falta de asistencia a tres sesiones consecutivas, sin licencia concedida o causa justificada dará derecho a la Comisión para separar de la misma al Notario omiso y convocar al suplente respectivo.
+
+### CAPÍTULO III. DEL FONDO
+
+###### ARTÍCULO 37.
+
+El fondo de la mutualidad se formará con los siguientes recursos:
+
+I. Con las cuotas ordinarias o extraordinarias que acuerde el pleno del Consejo con ese destino;
+
+II. Con el porcentaje que respecto del valor de cada folio, se le destine por acuerdo del pleno del Consejo;
+
+III. Con los intereses de los fondos acumulados o de los préstamos que haga o el producto de otros bienes que la mutualidad adquiera;
+
+IV. Con el cincuenta por ciento del importe de las multas que con fundamento en la Ley del Notariado imponga la Secretaría de Gobierno a los notarios, y
+
+V. Con las donaciones, herencias y legados con que fuere beneficiada.
+
+###### ARTÍCULO 38.
+
+Las cuotas ordinarias o extraordinarias que acuerde el Consejo, deberán pagarlas los Notarios dentro del plazo que al efecto se señale y en caso de no hacerlo, la Comisión comunicará tal hecho a la Directiva del Consejo, para que se abstenga de proveer de folios al Notario omiso, hasta que pague la cuota para su correspondiente actualización.
+
+###### ARTÍCULO 39.
+
+Las cantidades que por cualquier concepto aporten los Notarios al fondo de la Mutualidad no serán reembolsables en ningún caso.
+
+###### ARTÍCULO 40.
+
+Cuando se otorgue el nombramiento de un nuevo Notario, para que éste tenga derecho a la totalidad de los beneficios de la mutualidad, deberá pagar la cuota que la Comisión le señale, en los términos del Manual de Operaciones. Dicho Notario podrá optar por cubrir la cuota en parcialidades actualizadas al momento en que realice el pago, en cuyo caso, de colocarse en alguno de los supuestos en que la Mutualidad deba otorgar en su favor o en el de sus familiares alguno de los beneficios previstos, sólo tendrá derecho a una parte del mismo, en idéntica proporción a la que haya hecho el pago de la cuota.
+
+###### ARTÍCULO 41.
+
+El otorgamiento del beneficio por incapacidad total permanente será pagado cuando presentándose el supuesto, el Notario haya cesado en el ejercicio de sus funciones de manera irreversible.
+
+###### ARTÍCULO 42.
+
+Cuando el Notario o sus beneficiarios se encuentren en condiciones de obtener algún beneficio de los que otorgue la mutualidad, deberán ejercer su derecho dentro del plazo de un año, contado a partir de que el mismo se origine; en caso de que no lo haga, el importe del beneficio se aplicará en favor de la Mutualidad.
+
+###### ARTÍCULO 43.
+
+El derecho a los beneficios acordados conforme a este reglamento es intransferible y sus importes no estarán sujetos a deducciones o gravámenes, con excepción de las sumas adeudadas por créditos al fondo de mutualidad y los demás casos que establece la Ley.
+
+###### ARTÍCULO 44.
+
+El derecho a los beneficios establecidos conforme a este reglamento, lo adquieren todos los Notarios actualmente nombrados, los que en el futuro se nombren, a partir de la fecha en que entren en el ejercicio de su función, siempre y cuando estén al corriente en el pago de sus cuotas al momento de ocurrir el evento que genere el beneficio.
+
+###### ARTÍCULO 45.
+
+La tramitación de los beneficios se hará ante la Comisión de Mutualidad, la cual deberá resolver dentro de los tres días naturales siguientes al en que se presente la petición. La resolución que ésta adopte será recurrible ante la Directiva del Consejo, dentro de los quince días hábiles siguientes de la notificación al interesado; en este caso, la Directiva deberá resolver dentro de los tres días naturales siguientes a la fecha de interposición del recurso. El pago del importe del beneficio deberá ser hecho dentro de los tres días naturales siguientes a la fecha de la resolución definitiva, sin perjuicio de que la Comisión autorice el pago de la cantidad acordada por ella, en caso de que se interponga el recurso contra su resolución.
+
+## TÍTULO SEXTO. DE LA COMISIÓN DE HONOR Y JUSTICIA
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 46.
+
+La Comisión de Honor y Justicia del Consejo de Notarios se instalará cada dos años, dentro de los sesenta días naturales siguientes a la fecha en que la Directiva electa entre en funciones.
+
+###### ARTÍCULO 47.
+
+Las sesiones de la Comisión de Honor y Justicia serán convocadas por el Presidente del Consejo, en su carácter de Presidente de la propia Comisión. En la primera sesión, se elegirá al Secretario de la misma y se fijarán las fechas en que habrán de llevarse a cabo las subsecuentes reuniones ordinarias. De dichas sesiones se levantará el acta correspondiente por el Secretario.
+
+###### ARTÍCULO 48.
+
+La Comisión de Honor y Justicia tomará sus resoluciones por mayoría de votos de los presentes, de acuerdo al procedimiento previsto por la Ley del Notariado.
+
+###### ARTÍCULO 49.
+
+Los Notarios del Estado estarán obligados a rendir a la Comisión de Honor Justicia los informes que ésta solicite, así como a brindarle el auxilio y cooperación que requiera, dentro del ámbito de sus funciones y para el correcto ejercicio y cumplimiento de las mismas.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- El Consejo de Notarios, dentro de los treinta días naturales siguientes a la fecha de publicación de este reglamento, instalará formalmente la Comisión de Mutualidad, la cual, dentro de los noventa días siguientes a su instalación, elaborará el manual de operaciones que rija su funcionamiento, mismo que se aplicará previa aprobación del Consejo de Notarios del Estado.
+
+DADO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE SANTIAGO DE QUERÉTARO, QRO., A LOS 26 VEINTISÉIS DÍAS DEL MES DE MAYO DE 1997 MIL NOVECIENTOS NOVENTA Y SIETE.
+
+A T E N TA M EN T E
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN
+
+LICENCIADO ENRIQUE BURGOS GARCÍA
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+LICENCIADO ALEJANDRO ESPINOSA MEDINA
+
+SECRETARIO DE GOBIERNO
