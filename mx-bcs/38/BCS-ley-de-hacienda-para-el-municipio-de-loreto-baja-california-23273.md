@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-loreto-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2001-11-05"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -345,7 +345,7 @@ Los empresarios a que se refiere el artículo 26, tendrán las siguientes obliga
 
 I. Obtener la licencia respectiva antes de anunciar una función o serie de estas.
 
-II. Anotar en la solicitud de licencia la naturaleza del espectáculo, fecha, hora y lugar en que haya de efectuarse su periodicidad, la clasificación y cantidad de asíentos, el máximo de espectadores que deba contener el local y acompañar tres ejemplares del programa respectivo, así como la totalidad de los boletos emitidos para el evento, debidamente foliados para su aprobación y resello de la Tesorería General Municipal.
+II. Anotar en la solicitud de licencia la naturaleza del espectáculo, fecha, hora y lugar en que haya de efectuarse su periodicidad, la clasificación y cantidad de asientos, el máximo de espectadores que deba contener el local y acompañar tres ejemplares del programa respectivo, así como la totalidad de los boletos emitidos para el evento, debidamente foliados para su aprobación y resello de la Tesorería General Municipal.
 
 III. Permitir que la autoridad o su representante vigile el cumplimiento de los preceptos de esta ley y demás disposiciones en vigor.
 
@@ -975,6 +975,8 @@ El ayuntamiento solo concederá licencias para la exhumación y traslado de cad�
 
 ### CAPITULO DECIMO PRIMERO. RECOLECCION DE BASURA
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
+
 ###### Artículo 76.
 
 Los derechos relativos al uso de maquinaria, matanza, inspección sanitaria, traslado de animales sacrificados, serán pagados conforme a la siguiente:
@@ -1049,7 +1051,7 @@ II. De morada conyugal……1 salario mínimo.
 
 ###### Artículo 84.
 
-Los comercios, hoteles, restaurantes, hospitales privados, oficinas administrativas e industriales, deberán contratar individualmente los servicios de recolección de basura o comprobar la eliminación de estos desperdicios o residuos en forma tal que no afecten la salud o contaminen el medio ambiente y pagarán una cuota mensual o anual que será convenida con la Autoridad Municipal correspondiente.
+Los comercios, hoteles, restaurantes, hospitales privados, oficinas administrativas e industriales, deberán contratar individualmente con el ayuntamiento, los servicios de limpia, recolección, traslado, tratamiento y disposición final de residuos y pagarán una cuota mensual o anual que será convenida con la autoridad municipal correspondiente, o comprobar la eliminación de estos desperdicios o residuos, siempre y cuando, no afecten la salud o contaminen el medio ambiente.
 
 ###### Artículo 85.
 
@@ -1207,7 +1209,7 @@ DESCRIPCION COMERCIAL...SALARIOS MINIMOS
 
 Hoteles y moteles por cada establecimiento…830
 
-Super mercado (sic) con venta de licor y cerveza…830
+Super mercado con venta de licor y cerveza…830
 
 Abarrotes con venta de cerveza…660
 
@@ -1872,3 +1874,15 @@ C. LIC. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) los efectos de lo dispuesto por los artículos 26, 90, 91, 92, y 94 de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, reformados por este Decreto, en lo que se refiere a los bandos de policía y gobierno y reglamentos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
