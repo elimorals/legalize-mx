@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1931-08-29"
+last_updated: "1938-05-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO Y TERRITORIOS FEDERALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1938.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -64,7 +64,7 @@ II. Pedir la libertad de los procesados, en la forma y términos que previene la
 
 III. Pedir la reparación del daño en los términos especificados en el Código Penal.
 
-## TITULO PRIMERO. Reglas Generales
+## TITULO PRIMERO. R e g l a s G e n e r a l e s
 
 ### CAPITULO I. Acción Penal
 
@@ -4062,7 +4062,9 @@ X.- Aplicar la retención y conceder la libertad preparatoria previo estudio que
 
 XI.- Vigilar que en los lugares de prisión preventiva y en los demás establecimientos penales se cumpla estrictamente con los reglamentos respectivos;
 
-XII.- Hacer la designación de los reos que deban ingresar a las colonias de relegación y a los campamentos penales.
+> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 1938)</small>
+
+XII.- Hacer la designación de los lugares en que los reos deban extinguir la pena de prisión.
 
 XIII.- Resolver sobre la distribución y aplicación de los objetos e instrumentos del delito y aquéllos que no sean aprovechables en instituciones oficiales o de beneficencia, remitirlos a la Tesorería General de la Nación, para que sean vendidos y el valor de ellos ingrese a la referida Tesorería.
 
@@ -4175,3 +4177,13 @@ Sufragio Efectivo. No Reelección.
 México, D.F., a 27 de agosto de 1931.- El Subsecretario de Gobernación, Encargado del Despacho, Octavio Mendoza González.- Rúbrica.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O.F. 12 DE MAYO DE 1938.
+
+SE TRANSCRIBE EL PUNTO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+
+###### ARTICULO 4°.
+
+Esta Ley entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial".
