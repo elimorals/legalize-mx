@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1973-02-03"
+last_updated: "1975-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1º. DE FEBRERO DE 1975.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -601,9 +601,11 @@ Toda demanda o gestión debe interponerse ante juez competente.
 
 La competencia de los tribunales se determinará por la materia, la cuantía, el grado y el territorio.
 
+> <small>(REFORMADO, P.O. 1º. DE FEBRERO DE 1975)</small>
+
 ###### Artículo 100.
 
-Cuando en el lugar donde se ha de seguir el juicio hubiere varios jueces competentes, conocerá del negocio el que elijo (sic) el actor.
+Sin perjuicio del derecho sobre recusación y de la obligación de excusarse; de la acumulación; de la competencia por prevención, para el supuesto de promociones relativas a actos prejudiciales o a interposición de tercerías, cuando en el lugar donde se inició un juicio o un procedimiento en jurisdicción voluntaria o mixta hubiere varios Jueces competentes, conocerá del negocio aquél a quien se aplique el mismo en los términos que dispon (sic) la Ley Orgánica del Poder Judicial del Estado.
 
 ###### Artículo 101.
 
@@ -679,7 +681,9 @@ II.- El del lugar señalado en el contrato para el cumplimiento de la obligació
 
 III.- El de la ubicación de la cosa, si se ejercita una acción real sobre bienes inmuebles. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Cuando estuvieren comprendidos en dos o más jurisdicciones, será a prevención;
 
-IV.- El del domicilio del demandado, si se trata del ejercicio de una acción sobre bienes inmuebles, o de acciones personales o del estado civil.
+> <small>(REFORMADA, P.O. 1º. DE FEBRERO DE 1975)</small>
+
+IV.- Cuando sean varios los demandados y tuvieren diversos domicilios, será competente el Juez del domicilio que escoja el actor, sin perjuicio de los que disponga la Ley Orgánica del Poder Judicial del Estado, para el caso de que hubiere varios Jueces competentes.
 
 Cuando sean varios los demandados y tuvieren diversos domicilios será competente el juez del domicilio que escoja el actor;
 
@@ -2573,9 +2577,11 @@ Si no se hubiere formulado ningún agravio se declarará desierto el recurso, a 
 
 Del escrito de expresión de agravios se correrá traslado a la parte contraria por el término de seis días.
 
+> <small>(REFORMADO, P.O. 1º. DE FEBRERO DE 1975)</small>
+
 ###### Artículo 448.
 
-Evacuado el traslado de que se habla en el artículo anterior o transcurrido el término para realizarlo, previa certificación de la secretaría, la sala formulará dentro de quince días, la ponencia de la que habrá de enterar al Pleno en los términos y para los efectos previstos por la Ley Orgánica del Poder Judicial del Estado si la apelación fuere de sentencia definitiva, o dictará resolución dentro de cinco, si fuere de interlocutoria o de auto.
+Evacuado el traslado de que se habla o transcurrido el término para realizarlo, previa certificación de la Secretaría, la Sala dictará resolución, que se pronunciará dentro de quince días, si la apelación fuere de sentencia definitiva o dentro de cinco días si fuere de interlocutoria o de auto.
 
 ###### Artículo 449.
 
@@ -2591,9 +2597,11 @@ En cualquier estado de la segunda instancia podrá separarse de la apelación el
 
 Todas las notificaciones de la segunda instancia, se harán en la forma que previenen los artículos 75 y 76, excepción hecha de las sentencias que se notificarán personalmente, si las partes tienen designado domicilio.
 
+> <small>(REFORMADO, P.O. 1º. DE FEBRERO DE 1975)</small>
+
 ###### Artículo 452.
 
-La revisión de las sentencias recaídas en los juicios sobre ratificación de actas del estado civil y sobre nuulidad (sic) de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público y aunque las partes no expresaren agravios el tribunal Pleno examinará la legalidad de la sentencia de primera instancia, observándose en lo conducente las formalidades previstas por el artículo 448 de este Código, quedando entre tanto sin ejecutarse ésta.
+La revisión de las sentencias pronunciadas en los Juicios sobre rectificación de actas del Estado Civil y sobre nulidad del matrimonio por las causas expuestas en los artículos 241, 242 y del 248 al 251 del Código Civil, abre de oficio la segunda instancia, con la intervención del Ministro Público y aunque las partes no expresen agravios, el tribunal examinará la legalidad de la sentencia de Primera Instancia, observándose en lo conducente las formalidades previstas por el artículo 448 de este Código, quedando, entre tanto, sin ejecutarse la sentencia que se revisa.
 
 ### CAPITULO II
 
@@ -2635,9 +2643,11 @@ DE LOS INCIDENTES EN GENERAL.
 
 Debe ejecutar las sentencias el juzgado que haya conocido del negocio en primera instancia.
 
+> <small>(REFORMADO, P.O. 1º. DE FEBRERO DE 1975)</small>
+
 ###### Artículo 460.
 
-La Sala que haya proyectado la ponencia que resultare aprobada por el Pleno o dictado la sentencia que cause ejecutoria, devolverá los autos al inferior, dentro de los tres días siguientes a la notificación, acompañándole testimonio de la sentencia y de las notificaciones. Dicho testimonio se llama ejecutoria y en él debe hacerse constar este carácter tomándose nota de su expedición en los autos.
+La Sala que haya pronunciado la sentencia, devolverá los autos al inferior, dentro de los tres días siguientes a la notificación, acompañándole testimonio, de la sentencia y de las notificaciones. Dicho testimonio se llamará ejecutoria debiendo hacerse constar ese carácter en el mismo, tomándose nota de su expedición en los autos.
 
 ###### Artículo 461.
 
@@ -5836,3 +5846,21 @@ LIC. LUIS M. FARIAS.
 EL SECRETARIO GENERAL DE GOBIERNO:
 
 LIC. ARTURO SUAREZ LUNA.
+
+P.O. 1º. DE FEBRERO DE 1975.
+
+###### Artículo 1º.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### Articulo 2º.
+
+El actual Presidente del Tribunal Superior de Justicia del Estado, continuará con igual carácter hasta el día primero de octubre de mil novecientos setenta y seis, fecha en la cual se procederá a la elección correspondientes en los términos indicados por esta Ley; lo anterior para efecto de garantizar la continuidad en la aplicación de la presente reforma.
+
+###### Artículo 3º.
+
+Los negocios actualmente en trámite en la Salas del Tribunal Superior de Justicia, serán controlados y vueltos a distribuir por el Presidente del mismo, de acuerdo con la competencia por materia que a cada Sala corresponda.
+
+###### Artículo 4º.
+
+Se derogan todas las disposiciones que se opongan a la presente reforma.
