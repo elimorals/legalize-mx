@@ -4,7 +4,7 @@ identifier: "COA-ley-de-aparceria-rural-del-estado-de-coahuila-3987"
 country: "mx"
 rank: "ley"
 publication_date: "1935-08-14"
-last_updated: "1935-08-14"
+last_updated: "1945-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE APARCERIA RURAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1945.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 14 de agosto de 1935.
 
@@ -227,6 +227,8 @@ El propietario proporcionará al aparcero una superficie no menor de una hectár
 
 De la Terminación del Contrato de Aparcería.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1945)</small>
+
 ###### Artículo 34.
 
 Los contratos de aparcería pueden darse por terminados:
@@ -235,17 +237,21 @@ I.- Por vencimiento, salvo lo que respecto del derecho de preferencia establece 
 
 II.- Por mutuo consentimiento.
 
-III.- Por rescisión.
+III.- Por rescisión, y
+
+IV.- Por enajenación del predio motivo del contrato cuando el adquiriente lo vaya a cultivar directamente.
 
 ###### Artículo 35.
 
 Es causa de rescisión, la infracción de las cláusulas que contenga el contrato.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1945)</small>
+
 ###### Artículo 36.
 
 La rescisión de los contratos de aparcería deberá ser resuelta por el Juzgado Local en cuya jurisdicción se encuentre el predio objeto del contrato.
 
-En todo caso la rescisión tendrá el efecto de que se dé por terminado al levantarse la cosecha, que esté pendiente.
+En todo caso la conclusión de un contrato tendrá el efecto de que el mismo se dé por terminado al levantarse la cosecha que esté pendiente.
 
 ###### Artículo 37.
 
@@ -402,3 +408,9 @@ Jesús Valdés Sánchez.
 El Srio. Int. del Ejecutivo del Estado.
 
 Profr. Manuel Mijares V.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE NOVIEMBRE DE 1945.
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE, PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
