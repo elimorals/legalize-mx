@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "1997-11-18"
+last_updated: "1998-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
@@ -173,7 +173,9 @@ XLV. Registrar: es el empadronamiento que se realiza ante la autoridad catastral
 
 Para los efectos de esta Ley, los predios se clasifican en:
 
-I. Predio urbano: el que se encuentre dentro del área de influencia de un centro de población, cuando se localice sobre calles trazadas y cuente cuando menos con dos de los tres servicios municipales, que son: agua, drenaje y electricidad, ya sea directamente o en alguna de sus colindancias. En las localidades que carezcan de estos servicios, bastará con que se localicen sobre calles trazadas;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1998)</small>
+
+I. Predio Urbano. El que se encuentre dentro del área de influencia de un centro de población, cuando se localice sobre la vialidad trazada y cuente cuando menos con dos de los tres servicios públicos, que son: agua, drenaje y electricidad, ya sea directamente o en alguna de sus colindancias. En las localidades que carezcan de estos servicios, bastará con que se localicen sobre calles trazadas;
 
 II. Predio improductivo urbano: aquel que siendo urbano:
 
@@ -189,7 +191,9 @@ IV. Predio edificado: aquel que tenga construcciones permanentes.
 
 Si un predio baldío es colindante de uno edificado, podrá clasificarse con las características del predio construido si su uso se destina como accesorio del segundo, previo dictamen de la autoridad catastral, que tomará en cuenta la suma de las dos superficies, en los términos del inciso d), de la fracción V de este artículo;
 
-V. Predio no edificado o baldío: al predio que:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 1998)</small>
+
+V. Predio no edificado o baldío. Al predio que:
 
 a) No tenga construcciones y se encuentre improductivo;
 
@@ -197,11 +201,15 @@ b) Teniendo construcciones, éstas sean de carácter provisional y se encuentre 
 
 c) Teniendo construcciones de carácter permanente, estén en proceso, suspendidas o en estado ruinoso y se encuentre improductivo, y
 
-d) Estando ubicado dentro de las áreas conurbadas, tenga construcciones permanentes en una área inferior al 25% de la superficie útil construible autorizada, o que, al practicar el avalúo de las edificaciones, éstas resulten con un valor menor al cincuenta por ciento del valor del terreno.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 1998)</small>
+
+d) Siendo urbano y tenga construcciones permanentes en una área inferior al veinticinco por ciento de la superficie útil construible autorizada, o que, al practicar el avalúo de las edificaciones, éstas resulten con un valor menor al cincuenta por ciento del valor del terreno.
 
 Se exceptuarán del tratamiento indicado en este inciso, cuando se acredite respecto del predio, mediante dictamen de la autoridad catastral, alguno de los siguientes supuestos:
 
-1. Se utilice con fines habitacionales, educativos, comerciales, industriales y de prestación de servicios;
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1998)</small>
+
+1. Se utilice la mayor parte del predio y la mayor parte del año con fines agrícolas, habitacionales, educativos, comerciales, industriales y de prestación de servicios;
 
 2. Las áreas no construidas sean utilizadas para actividades deportivas, siempre que cuenten con la infraestructura, equipamiento e instalaciones adecuadas;
 
@@ -537,7 +545,9 @@ I. Se modifiquen las características o condiciones del predio;
 
 II. Considere que la clasificación determinada por la autoridad catastral, no corresponde a las características y condiciones del predio; y
 
-III. En el caso de predios ubicados dentro de la zona conurbada de Guadalajara, les resulte aplicable alguna de las excepciones previstas en el artículo 5° fracción V inciso d) de esta Ley.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1998)</small>
+
+III. En el caso de predios ubicados dentro de las zonas conurbadas, les resulte aplicable alguna de las excepciones previstas en el artículo 5 fracción V inciso d) de esta Ley.
 
 ###### Artículo 33.
 
@@ -783,7 +793,7 @@ En aquellos casos en que aún no se hayan obtenido los elementos técnicos para 
 
 ###### Artículo 72.
 
-Las construcciones que no estén contenidas dentro de la clasificación comprendida en los valores unitarios, deberán valuarse con los valores unitarios que correspondan a edificaciones análogas en valores.
+Las construcciones que no estén contenidas dentro de la clasificación comprendida en los valores unitarios deberán valuarse con los valores unitarios que correspondan a edificaciones análogas en valores.
 
 ###### Artículo 73.
 
@@ -827,9 +837,11 @@ No se exime de la obligación indicada en el artículo anterior, a los propietar
 
 Dentro de los dos meses siguientes a la fecha en que causen ejecutoria, los órganos judiciales competentes deberán dar aviso a la autoridad catastral, y además remitirle copia certificada de sus resoluciones, cuando por virtud de las mismas se opere el traslado del dominio, de derechos o la adquisición de uno o más predios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 1998)</small>
+
 ###### Artículo 79.
 
-Al celebrarse contratos privados traslativos de dominio de algún predio, o de contratos y actos celebrados fuera del Estado respecto a predios ubicados en algún municipio de Jalisco, éstos deberán ser manifestados por el adquirente a la autoridad catastral, dentro de los dos meses siguientes a la fecha de su celebración, en las formas que para tal efecto se aprueben, anexando copia de la escritura pública o del contrato privado según corresponda.
+Al celebrarse contratos traslativos de dominio de algún predio, o de contratos y actos celebrados fuera del Estado respecto a predios ubicados en algún Municipio de Jalisco, éstos deberán ser manifestados en los términos que establece el libro segundo, título I, capítulo VII, de la Ley de Hacienda Municipal del Estado de Jalisco, a la autoridad catastral, dentro de los dos meses siguientes a la fecha de su celebración en las formas que para tal efecto se aprueben, así como anexar copia de la escritura pública o del contrato privado según corresponda.
 
 Respecto a la consolidación, acrecentamiento o extinción del usufructo, el plazo para dar el aviso a que se refiere este artículo será de dos meses a partir de la fecha en que se dé el suceso u ocurra el supuesto preestablecido en el documento constitutivo del usufructo.
 
@@ -1134,3 +1146,11 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 18 DE AGOSTO DE 1998.
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente ley.
