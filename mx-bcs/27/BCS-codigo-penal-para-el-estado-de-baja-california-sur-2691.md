@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-2691"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-01-15"
-last_updated: "2000-06-20"
+last_updated: "2002-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 7 DE ENERO DE 2002.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 15 de enero de 1991.
 
@@ -505,9 +505,11 @@ I.- La restitución de la cosa obtenida por el delito, con sus frutos y accesion
 
 II.- La indemnización del daño material y moral y de los perjuicios causados, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 07 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 44.
 
-La reparación será fijada por los jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas en el proceso.
+La reparación será fijada por el juez, según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas en el proceso.
 
 La reparación del daño moral será fijada al prudente arbitrio del Juez o del Tribunal, tomando en consideración las características del delito, las posibilidades económicas del obligado, la lesión moral sufrida por la víctima y las circunstancias personales de ésta, tales como su educación, sensibilidad, efectos, cultura y demás similares que tengan relevancia para la fijación del daño causado.
 
@@ -1373,6 +1375,10 @@ Al que padezca una enfermedad grave y trasmisible ponga en peligro la salud de o
 
 Si el peligro de contagio es violando un deber de cuidado entre cónyuges o concubinos sólo se procederá por querella del ofendido.
 
+> <small>(ADICIONADO, B.O. 07 DE ENERO DE 2002)</small>
+
+ARTICULO 169 BIS.- A quien sabiendo que padece una enfermedad incurable, transmisible por vía sexual, contagie a la víctima del delito se le impondrá una pena de tres a nueve años de prisión.
+
 ## TITULO TERCERO
 
 DELITOS CONTRA LA LIBERTAD.
@@ -1549,9 +1555,11 @@ El delito de atentado al pudor sólo se castigará cuando se haya consumado y se
 
 ESTUPRO.
 
+> <small>(REFORMADO, B.O. 07 DE ENERO DE 2002)</small>
+
 ###### ARTICULO 193.
 
-Al que tenga cópula con mujer púber menor de dieciséis años, casta y honesta, obteniendo su consentimiento por medio de seducción o engaño, se le aplicará de seis meses a tres años de prisión y hasta sesenta días multa.
+Al que tenga cópula con mujer menor de dieciséis años, honesta, obteniendo su consentimiento por medio de seducción o engaño se le aplicará de seis meses a tres años de prisión y hasta sesenta días multa.
 
 ###### ARTICULO 194.
 
@@ -3205,13 +3213,13 @@ Es ultraje el uso indebido de las insignias del Estado o de los Municipios, o la
 
 Al responsable de ultraje se impondrá de tres días a seis meses de prisión y multa hasta de noventa días salario.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
 ## TITULO VIGESIMO
 
 DE LOS DELITOS ELECTORALES.
 
-T R A N S I T O R I O S :
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
 ### CAPITULO UNICO
 
@@ -3357,7 +3365,7 @@ II.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de la
 
 La pena a que se refiere este Artículo se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Estatal de Electores.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+T R A N S I T O R I O S :
 
 ###### ARTICULO PRIMERO.
 
@@ -3442,3 +3450,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Las adiciones a los artículos 317 fracción V y 341 fracción VII del Código Penal para el Estado de Baja California Sur, entrarán en vigor a los 90 días siguientes de su publicación en el Boletín Oficial del Gobierno del Estado, para que en ese lapso de tiempo se informe ampliamente al personal de los servicios de emergencia, a los auxiliares indirectos del Ministerio Público y a los medios de comunicación sobre el contenido de los mismos.
+
+B.O. 7 DE ENERO DE 2002.
+
+###### ARTICULO UNICO
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
