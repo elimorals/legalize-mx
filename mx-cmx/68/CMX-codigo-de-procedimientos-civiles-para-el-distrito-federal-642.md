@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1986-01-10"
+last_updated: "1987-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,9 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1987.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
-
-CODIGO de Procedimientos Civiles para el Distrito Federal y Territorios.
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -36,7 +34,7 @@ El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido d
 
 Que en uso de las facultades extraordinarias que me fueron concedidas por Decreto del H. Congreso de la Unión de 31 de diciembre de 1931, he tenido a bien expedir el siguiente
 
-(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974) (REPUBLICADA, D.O.F. 31 DE DICIEMBRE DE 1974)
+(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974) (REPUBLICADA, D.O.F. 31 DE DICIEMBRE DE 1973)
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
@@ -306,11 +304,11 @@ ARTICULO 45
 
 Por los que no se hallen en el caso del artículo anterior, comparecerán sus representantes legítimos, o los que deban suplir su incapacidad, conforme a derecho. Los ausentes e ignorados serán representados como se previene en el título XI, Libro Primero del Código Civil.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 46
 
-Será optativo para las partes acudir asesoradas a las audiencias previa y de conciliación y de pruebas y alegatos, y en este supuesto los asesores necesariamente deberán ser licenciados en Derecho, con cédula profesional y en legal ejercicio de su profesión. En caso de que una de las partes se encuentre asesorada y la otra no, a solicitud de esta última se podrán requerir de inmediato los servicios de un defensor de oficio, que deberá acudir a enterarse del asunto, en un plazo que no podrá exceder de tres días para hacerlo, en cuyo caso se diferirá la audiencia de que se trate por un igual período.
+Será optativo para las partes acudir asesoradas a las audiencias previas y de conciliación y de pruebas y alegatos, y en este supuesto los asesores necesariamente deberán ser licenciados en derecho, con cédula profesional y en legal ejercicio de su profesión. En caso de que una de las partes se encuentre asesorada y la otra no, el juez celebrará la audiencia correspondiente y suplirá la deficiencia de la parte que no se encuentre asesorada, procurando la mayor equidad, y lo hará del conocimiento de la defensoría de oficio para que provea a la atención de dicha parte en los trámites subsecuentes del juicio.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -482,11 +480,11 @@ La reposición se substanciará incidentalmente y sin necesidad de acuerdo judic
 
 Quedan los jueces facultados para investigar de oficio la existencia de las piezas de autos desaparecidos, valiéndose para ello de todos los medios, que no sean contrarios a la moral o al derecho.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 71
 
-Para sacar copia o testimonio de cualquier documento de los archivos o protocolos, que vayan a obrar en juicio, se requiere decreto judicial, que no se dictará sino con conocimiento de causa y audiencia de parte, y si no la hay, con la del Ministerio Público, procediéndose incidentalmente, en caso de oposición.
+Para obtener copia certificada de cualquier documento que obre en juicio, se requiere decreto judicial y sólo se expedirá conforme a lo dispuesto por el artículo 331 de este código.
 
 ARTICULO 72
 
@@ -532,9 +530,11 @@ ARTICULO 77
 
 La nulidad de una actuación debe de reclamarse en la actuación subsecuente, pues de lo contrario, aquélla queda revalidada de pleno derecho; con excepción de la nulidad por defecto en el emplazamiento.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 78
 
-Sólo formará artículo de previo y especial pronunciamiento la nulidad de actuaciones por falta de emplazamiento, por falta de citación para la absolución de posiciones y para reconocimiento de documentos; y en los demás casos en que la ley expresamente lo determine. Los incidentes que se susciten con motivo de otras nulidades de actuaciones o de notificaciones, se fallarán en la sentencia definitiva.
+Sólo formará artículo de previo y especial pronunciamiento la nulidad de actuaciones por falta de emplazamiento. Los incidentes que se susciten con motivo de otras nulidades de actuaciones o de notificaciones se tramitarán y resolverán en los términos de lo dispuesto por el artículo 88.
 
 ARTICULO 79
 
@@ -568,13 +568,15 @@ ARTICULO 83
 
 Los jueces y tribunales no podrán, bajo ningún pretexto, aplazar, dilatar ni negar la resolución de las cuestiones que hayan sido discutidas en el pleito.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 84
 
-Tampoco podrán los jueces y tribunales variar ni modificar sus sentencias después de firmadas; pero sí aclarar algún concepto o suplir cualquiera omisión que contengan sobre punto discutido en el litigio.
+Tampoco podrán los jueces y tribunales variar ni modificar sus sentencias o autos después de firmados, pero sí aclarar algún concepto o suplir cualquier omisión que las primeras contengan sobre punto discutido en el litigio, o los segundos cuando sean obscuros o imprecisos sin alterar su esencia.
 
-Estas aclaraciones podrán hacerse de oficio dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte presentada dentro del día siguiente al de la notificación.
+Estas aclaraciones podrán hacerse de oficio dentro del día hábil siguiente al de la publicación de la resolución correspondiente, o a instancia de parte presentada dentro del día siguiente al de la notificación.
 
-En este último caso, el juez o tribunal resolverá lo que estime procedente dentro del día siguiente al de la presentación del escrito en que se solicita la aclaración.
+En este último caso, el juez o tribunal resolverá lo que estime procedente dentro del día siguiente al de la presentación del escrito en que se solicite la aclaración.
 
 ARTICULO 85
 
@@ -586,11 +588,11 @@ ARTICULO 86
 
 Las sentencias deben de tener el lugar, fecha y juez o tribunal que las pronuncie; los nombres de las partes contendientes y el carácter con que litiguen y el objeto del pleito.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 87
 
-Las sentencias deben dictarse dentro del plazo de ocho días contados a partir de la citación para sentencia. Sólo cuando hubiere necesidad de que el tribunal examine documentos voluminosos, podrá disfrutar del término de ocho días más para dicho efecto.
+Las sentencias deben dictarse dentro del plazo de quince días contados a partir de la citación para sentencia. Sólo cuando hubiere necesidad de que el tribunal examine documentos voluminosos, podrá disfrutar del término de ocho días más para dicho efecto.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -692,11 +694,11 @@ ARTICULO 104
 
 Los exhortos y despachos que reciban las autoridades judiciales del Distrito Federal, se proveerán dentro de las veinticuatro horas siguientes a su recepción, y se diligenciarán dentro de los cinco días siguientes, a no ser que lo que haya de practicarse exija, necesariamente, mayor tiempo.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 105
 
-Las diligencias que no puedan practicarse en el partido en que se sigue el juicio, deberán ancomendarse (sic) precisamente al tribunal de aquel en que han de ejecutarse.
-
-También puede un tribunal, aunque una diligencia deba practicarse dentro de su propia jurisdicción, encomendarla a otro de inferior categoría del mismo partido, si por razón de la distancia fuere más obvio que éste la practique.
+Las diligencias que deban practicarse fuera del Distrito Federal deberán encomendarse precisamente al tribunal del lugar en que han de realizarse.
 
 ARTICULO 106
 
@@ -720,15 +722,13 @@ Pueden los tribunales acordar que los exhortos y despachos que manden expedir se
 
 ### CAPITULO V. De las notificaciones
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 110
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+Los notificadores deberán practicar las notificaciones dentro de los tres días siguientes al en que reciban el expediente o las actuaciones correspondientes, salvo que el juez o la ley dispusieran otra cosa. Los infractores de esta disposición serán destituidos de su cargo cuando reincidan por más de tres ocasiones, sin responsabilidad para el Tribunal Superior de Justicia del Distrito Federal, previa audiencia de defensa ante el juez o magistrado correspondiente.
 
-Las notificaciones citaciones y emplazamientos se efectuarán dentro de los tres días siguientes al en que se dicten las resoluciones que las prevengan, cuando el juez o la ley no dispusieren otra cosa. Los infractores de esta disposición serán destituidos de su cargo cuando reincidan por más de tres ocasiones, sin responsabilidad para el Tribunal Superior de Justicia del Fuero Común del Distrito Federal, previa audiencia de defensa ante el Juez o Magistrado correspondiente.
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
-Para los anteriores efectos, se llevará un registro diario de los expedientes que se les entreguen, debiendo recibirlos bajo su firma y directamente del secretario de acuerdos, a quien se le devolverán dentro del plazo señalado.
+Para los anteriores efectos, se llevará un registro diario de los expedientes o actuaciones que se les entreguen debiendo recibirlos bajo su firma y devolverlos dentro del plazo señalado.
 
 ARTICULO 111
 
@@ -736,75 +736,83 @@ ARTICULO 111
 
 Las notificaciones se harán personalmente, por cédula, por el Boletín Judicial en los términos de los artículos 123 y 125, por edictos, por correo y por telégrafo, de acuerdo con lo que se dispone en los artículos siguientes.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 112
 
-Todos los litigantes en el primer escrito o en la primera diligencia judicial, deben designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias.
+Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deberán designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias.
 
 Igualmente deben designar la casa en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan.
 
-Cuando un litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aun las que conforme a las reglas generales deban hacerse personalmente, se le harán por el Boletín Judicial o por cédula fijada en las puertas del Juzgado en los lugares en donde no se publique el Boletín Judicial; si faltare a la segunda parte no se hará notificación alguna a la persona contra quien promueva hasta que se subsane la omisión.
+Cuando un litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aun las que, conforme a las reglas generales, deban hacerse personalmente, se le harán por el Boletín Judicial; si faltare la segunda parte, no se hará notificación alguna a la persona contra quien promueva hasta que se subsane la omisión.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 113
 
-Entre tanto que un litigante no hiciere nueva designación de la casa en donde se practiquen las diligencias y se hagan las notificaciones, seguirán haciéndosele en la que para ella hubiere designado y las diligencias en que debiere tener intervención, se practicarán en los estrados del juzgado.
+Entre tanto que un litigante no hiciere nueva designación de la casa en donde se practiquen las diligencias y se le hagan las notificaciones, seguirán haciéndosele en la que para ello hubiere designado. En caso de no existir dicho domicilio o de negativa a recibirlos en el señalado, le surtirán efectos por el Boletín Judicial, y las diligencias en que debiere tener intervención se practicarán en el local del juzgado sin su presencia.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 114
 
-Será notificado personalmente en el domicilio de los litigantes:
+Será notificado personalmente en el domicilio señalado por los litigantes:
 
-I.- El emplazamiento del demandado, y siempre que se trate de la primera notificación en el juicio aunque sean diligencias preparatorias;
+I.- El emplazamiento del demandado, y siempre que se trate de la primera notificación en el juicio, aunque sean diligencias preparatorias;
 
 II.- El auto que ordena la absolución de posiciones o reconocimiento de documentos;
 
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1967)</small>
+III.- La primera resolución que se dicte cuando se dejare de actuar por más de seis meses por cualquier motivo;
 
-III.- La primera resolución que se dicte cuando se dejare actuar más de tres meses por cualquier motivo;
-
-IV.- Cuando se estime que se trate de un caso urgente y así se ordene;
+IV.- Cuando se estime que se trata de un caso urgente y así ordene;
 
 V.- El requerimiento de un acto a la parte que deba cumplirlo;
 
-> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 1973)</small>
-
-VI.- La Sentencia que decrete el lanzamiento del inquilino de casa habitación y la resolución, que decrete su ejecución; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 14 DE MARZO DE 1973)</small>
+VI.- La sentencia que condene al inquilino de casa habitación a desocuparla y la resolución que decrete su ejecución; y
 
 VII.- En los demás casos que la ley disponga.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 115
 
-Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido, se pondrán completos los nombres y apellidos de los nuevos funcionarios. Sólo que ocurriere cuando el negocio esté pendiente únicamente de la sentencia, se mandará hacer saber a las partes.
+Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, salvo que éste ocurriere cuando el negocio esté pendiente únicamente de la sentencia, sino que al margen del primer proveído que se dictare, después de ocurrido, se podrán (sic) completos los nombres y apellidos de los nuevos funcionarios.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 116
 
-La primera notificación se hará personalmente al interesado, o a su representante o procurador en la casa designada; y no encontrándolo el notificador, le dejará cédula en la que hará constar la fecha y hora en que la entregue, el nombre y apellido del promovente, el juez o tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quien se entrega, recogiéndole la firma en la razón que se asentará del acto.
+La primera notificación se hará personalmente al interesado, o a su representante o procurador, en la casa designada; y no encontrándolo el notificador, le dejará cédula en la que hará constar la fecha y hora en que la entregue, el nombre y apellido del promovente, el juez o tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quien se entrega.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 117
 
-Si se tratare de la notificación de la demanda y a la primera busca no se encontrare al demandado, se le dejará citatorio para hora fija hábil dentro de un término comprendido entre las seis y las veinticuatro horas posteriores, y si no espera se le hará la notificación por cédula.
+Si se tratare del emplazamiento y no se encontrare al demandado, se le hará la notificación por cédula.
 
-La cédula, en los casos de este artículo y del anterior, se entregará a los parientes, empleados o domésticos del interesado o a cualquier otra persona que viva en el domicilio señalado, después de que el notificador se haya cerciorado de que ahí lo tiene la persona que debe ser citada; se expondrán en todo caso los medios por los cuales el notificador se haya cerciorado de que ahí tiene su domicilio la persona que debe ser notificada.
+La cédula, en los casos de este artículo y del anterior, se entregará a los parientes, empleados o domésticos del interesado o a cualquier otra persona que viva en el domicilio señalado, después de que el notificador se haya cerciorado de que ahí lo tiene la persona que debe ser notificada; se expondrán en todo caso los medios por los cuales el notificador se haya cerciorado de que ahí tiene su domicilio la persona buscada.
 
-Además de la cédula, se entregarán a la persona con quien se entienda la diligencia, copia simple de la demanda debidamente cotejada y sellada, más, en su caso, copia simple de los demás documentos que el actor haya exhibido con su libelo inicial.
+Además de la cédula, se entregará a la persona con quien se entienda la diligencia, copia simple de la demanda debidamente cotejada y sellada, más, en su caso, copias simples de los demás documentos que el actor haya exhibido con su libelo inicial.
 
 ARTICULO 118
 
 Si después que el notificador se hubiere cerciorado de que la persona por notificar vive en la casa y se negare aquel con quien se entiende la notificación a recibir ésta, se hará en el lugar en que habitualmente trabaje, sin necesidad de que el juez dicte una determinación especial para ello.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 119
 
 Cuando no se conociere el lugar en que la persona que debe notificarse tenga el principal asiento de sus negocios y en la habitación no se pudiere, conforme al artículo anterior, hacer la notificación, se podrá hacer ésta en el lugar en donde se encuentre.
 
-En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere. Si ésta no supiere o no pudiere firmar, lo hará a su ruego un testigo. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo la multa de tres a quince pesos.
+En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere. Si ésta no supiere o no pudiere firmar, lo hará a su ruego un testigo. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo pena de multa equivalente de tres a diez días de salario mínimo general vigente en el Distrito Federal.
+
+En caso de ocultamiento del demandado, a petición del actor y previa comprobación de este hecho, el emplazamiento podrá practicarse por edictos en los términos previstos por este código.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 120
 
-Cuando se trate de citar a peritos, terceros que sirvan de testigos y personas que no sean parte en el juicio, se puede hacer personalmente o por cédula en sobre cerrado y sellado conteniendo la determinación de juez o tribunal que mande practicar la diligencia. Estas cédulas pueden entregarse por conducto de la policía, de las partes mismas y de los notificadores, recogiendo la firma del notificado en el sobre que será devuelto para agregarse a los autos.
+Cuando se trate de citar a peritos y testigos, la citación se hará por conducto de la parte que la haya solicitado, salvo que esta ley o el juez dispongan otra cosa.
 
 ARTICULO 121
 
@@ -812,31 +820,31 @@ Cuando se trate de citar testigos o peritos o terceros que no constituyan parte,
 
 Cuando se haga por telegrama se enviará por duplicado a la oficina que haya de transmitirlo, la cual devolverá, con el correspondiente recibo, uno de los ejemplares que se agregará al expediente.
 
-> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 1964)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 122
 
 Procede la notificación por edictos:
 
-I.- Cuando se trate de personas inciertas.
+I.- Cuando se trate de personas inciertas;
 
-II.- Cuando se trate de personas cuyo domicilio se ignora; en este caso el juicio deberá seguirse con los trámites y solemnidades a que se refiere el título 9o.
+II.- Cuando se trate de personas cuyo domicilio se ignora, previo informe de la policía preventiva; en este caso el juicio deberá seguirse con los trámites y solemnidades a que se refiere el Título Noveno de este código.
 
-En los casos de las dos fracciones que preceden, los edictos se publicarán por tres veces, de tres en tres días, en el Boletín Judicial y otros periódicos de los de mayor circulación, haciéndose saber que debe presentarse el citado dentro de un término que no será inferior a 15 días ni excederá de 60 días.
+En los casos de las dos fracciones que preceden, los edictos se publicarán por tres veces, de tres en tres días, en el Boletín Judicial y en el periódico local que indique el juez, haciéndose saber que debe presentarse el citado dentro de un término que no será inferior a quince días ni excederá de sesenta días; y
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+III.- Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad conforme al artículo 3047 del Código Civil, para citar a las personas que puedan considerarse perjudicadas. Los edictos se publicarán por tres veces, de tres en tres días, en el Boletín Judicial, en el Boletín del Registro Público y en un periódico de los de mayor circulación si se tratare de bienes inmuebles urbanos situados en el Distrito Federal. Si los predios fueren rústicos se publicarán además en el Diario Oficial de la Federación en la misma forma y términos indicados. Los edictos se fijarán en lugares públicos. En la solicitud se mencionará el origen de la posesión, el nombre de la persona de quien en su caso la obtuviera el peticionario, del causahabiente de aquélla si fuere conocido; la ubicación precisa del bien y sus colindancias; un plano autorizado por ingeniero titulado si fuere predio rústico o urbano sin construir; el nombre y domicilio de los colindantes. Terminada la publicación se correrá traslado de la solicitud a la persona de quien obtuviera la posesión o su causahabiente si fuera conocido, al Ministerio Público, a los colindantes, al registrador de la propiedad por el términos (sic) de nueve días. Contesten o no y sin necesidad de acuse de rebeldía, el juez, al vencerse el último término del traslado, abrirá una dilación probatoria por treinta días. Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por medios legales y además por la información de tres testigos que tengan bienes raíces en el lugar de ubicación del predio de que se trata. La sentencia se pronunciará después del término de alegar, dentro de ocho días. En este juicio no se entregarán los autos originales para formular alegatos. La sentencia es apelable en ambos efectos y el recurso se substancia como en los juicios ordinarios.
 
-III.- Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad, conforme al artículo 3023 del Código Civil, para citar a las personas que puedan considerarse perjudicadas. Los edictos se publicarán por tres veces consecutivas, de diez en diez días, en el Boletín Judicial y en dos periódicos de los de mayor circulación si se tratare de inmuebles urbanos situados en el Distrito Federal. Si los predios fueren rústicos se publicarán además en el "Diario Oficial" de la Federación en la misma forma y términos indicados. Los edictos se fijarán en lugares públicos. En la solicitud se mencionará el origen de la posesión, el nombre de la persona de quien en su caso la obtuviera el peticionario del causahabiente de aquélla si fuere conocido; la ubicación precisa del bien y sus colindancias, un plano autorizado por ingeniero titulado si fuere predio rústico o urbano sin construir; el nombre y domicilio de los colindantes. Terminada la publicación se correrá traslado de la solicitud a la persona de quien obtuviera la posesión o su causahabiente si fuera conocido, al Ministerio Público a los colindantes, al registrador de la propiedad por el término de nueve días. Contesten o no y sin necesidad de acuse de rebeldía, el juez, al vencerse el término del traslado, abrirá una dilación probatoria de treinta días. Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por medios legales y además por la información de tres testigos que tengan bienes raíces en el lugar de ubicación del predio de que se trata. La sentencia se pronunciará después del término de alegar, dentro de ocho días. En este juicio no se entregarán los autos originales para formular alegatos. La sentencia es apelable en ambos efectos y el recurso de substancia como en los juicios ordinarios.
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 123
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
+La segunda y ulteriores notificaciones se harán personalmente a los interesados o a sus procuradores, si ocurren al tribunal o juzgado respectivo, en el mismo día en que se dicten las resoluciones que hayan de notificarse, al día siguiente o al tercer día antes de las doce horas.
 
-La segunda y ulteriores notificaciones se harán personalmente a los interesados o a sus procuradores si ocurren al tribunal o juzgado respectivo, en el mismo día en que se dicten las resoluciones que hayan de notificarse, al siguiente día de las ocho a las trece horas o al tercero día antes de las doce.
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 124
 
-Deben firmar las notificaciones las personas que las hacen y aquella a quien se hacen. Si ésta no supiere o no quisiere firmar, lo hará el Secretario o escribano, haciendo constar esta circunstancia. A toda persona se le dará copia simple de la resolución que se le notifique, si la pidiere.
+Deben firmar las notificaciones las personas que las hacen y aquélla a quien se hacen. Si ésta no supiere o no quisiere firmar, lo hará constar el secretario o notificador. A toda persona se le dará copia simple de la resolución que se le notifique, si la pidiere.
 
 ARTICULO 125
 
@@ -852,13 +860,15 @@ Se fijará en lugar visible de las oficinas del tribunal o juzgados, una lista d
 
 Sólo por errores u omisiones sustanciales que hagan no identificables los juicios, podrá pedirse la nulidad de las notificaciones hechas por Boletín Judicial. Además, se fijará diariamente en la puerta de la sala del Tribunal y juzgados un ejemplar del Boletín Judicial, coleccionándose dicho diario para resolver cualquier cuestión que se suscite sobre la falta de alguna publicación. En el archivo judicial se formarán dos colecciones, una de las cuales estará siempre a disposición del público.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 127
 
-En las salas del tribunal y en los juzgados, los empleados que determine el Reglamento, harán constar en los autos respectivos el número y fecha del Boletín en que se haya hecho la publicación a que se refiere el artículo anterior, bajo la pena de veinticinco pesos de multa por la primera falta, de cincuenta pesos por la segunda y de suspensión de empleo hasta por tres meses por la tercera; sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión.
+En las salas del tribunal y en los juzgados, los empleados que determine el reglamento harán constar en los autos respectivos el número y fecha del Boletín Judicial en que se haya hecho la publicación a que se refiere el artículo anterior, bajo la pena de multa equivalente a un día de sueldo por la primera falta, que se duplicará por la segunda y de suspensión de empleo hasta por tres meses por la tercera; sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión.
 
 ARTICULO 128
 
-En los lugares en donde no exista Boletín Judicial u otra publicación equivalente, la segunda y ulteriores notificaciones se harán como se determina en el artículo 112, último párrafo, y si los interesados no concurrieren al Tribunal, surtirá sus efectos la notificación al día siguiente de aquel en que se fije en el tablero de avisos del Juzgado, una cédula conteniendo el nombre del notificado, el del tribunal y la resolución que se hace saber, con la fecha en que se hace la fijación de la cédula. De todo lo cual se tomará razón en autos bajo las penas a que se refiere el artículo anterior.
+> <small>(DEROGADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ### CAPITULO VI. De los términos judiciales
 
@@ -1176,15 +1186,17 @@ En las providencias precautorias regirá lo dispuesto en el párrafo anterior. S
 
 ### CAPITULO III. De la substanciación y decisión de las competencias
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 163
 
 Las cuestiones de competencia podrán promoverse por inhibitoria o por declinatoria.
 
-La inhibitoria se intentará ante el juez a quien se considere competente, pidiéndole que dirija oficio al que se estima no serlo, para que se inhiba y remita los autos.
+La inhibitoria se intentará ante el juez a quien se considere competente, dentro del término de nueve días contados a partir de la fecha del emplazamiento, pidiéndole que dirija oficio al que se estima no serlo, para que remita testimonio de las actuaciones respectivas al superior, para que éste decida la cuestión de competencia.
 
-La declinatoria se propondrá ante el juez a quien se considere incompetente pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente. Se substanciará conforme al capítulo I del título sexto.
+La declinatoria se propondrá ante el juez a quien se considere incompetente, pidiéndole que se abstenga del conocimiento del negocio y remita los autos al considerado competente. Se substanciará conforme al capítulo I del Título Sexto.
 
-En ningún caso se promoverán de oficio las cuestiones de competencia; pero el juez que se estime incompetente puede inhibirse del conocimiento del negocio, siendo apelable en ambos efectos su resolución.
+En ningún caso se promoverán de oficio las cuestiones de competencia; pero el juez que se estime incompetente puede inhibirse del conocimiento del negocio, siendo apelable su resolución.
 
 ARTICULO 164
 
@@ -1206,17 +1218,17 @@ Una vez recibidos los autos por dicho tribunal, citará a las partes a una audie
 
 En los incidentes en que se afecten los derechos de familia, será imprescindible oír al Ministerio Público.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 166
 
-El juez ante quien se promueva la inhibitoria mandará librar oficio requiriendo al juez que estime incompetente para que se abstenga de conocer del negocio y remitirá desde luego las actuaciones respectivas al superior haciéndolo saber al interesado.
+El juez ante quien se promueva la inhibitoria mandará librar oficio requiriendo al juez que estime incompetente para que remita testimonio de las actuaciones respectivas al superior, y remitirá desde luego sus actuaciones al propio superior, haciéndolo saber al interesado.
 
-Luego que el juez requerido reciba el oficio inhibitorio acordará la suspensión del procedimiento y remitirá a su vez los autos originales al superior con citación de las partes.
+Luego que el juez requerido reciba el oficio inhibitorio, remitirá testimonio de las actuaciones correspondientes al superior, con citación de las partes.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+Recibidos los autos y el testimonio por el tribunal que deba decidir la competencia, citará a las partes a una audiencia verbal dentro de los tres días siguientes a la citación, en la que recibirá pruebas y alegatos y pronunciará la resolución. En los incidentes en que se afecten los derechos de familia, será imprescindible oír al Ministerio Público.
 
-Recibidos los autos en el tribunal que deba decidir la competentcia (sic), citará a las partes, a una audiencia verbal dentro de los tres días siguientes al de la citación, en la que recibirá pruebas y alegatos y pronunciará la resolución. En los incidentes en que afecten los derechos de familia, será imprescindible oír al Ministerio Público.
-
-Decidida la competencia enviará los autos al juez declarado competente, con testimonio de la sentencia, de la cual remitirá otro tanto al juez contendiente. De la resolución dictada por el tribunal no se da más recurso que el de responsabilidad.
+Decidida la competencia, el tribunal la comunicará a los jueces contendientes y, en su caso, ordenará al juez del conocimiento que remita los autos originales al juez declarado competente. De la resolución dictada por el Tribunal no se da más recurso que el de responsabilidad.
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
@@ -1226,15 +1238,17 @@ El litigante que hubiere optado por uno de los dos medios de promover una compet
 
 En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, una multa equivalente hasta 60 días de salario mínimo general diario vigente en el Distrito Federal, en beneficio de colitigante, siempre que se compruebe que el incidente respectivo fue promovido de mala fe.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 168
 
-Todo tribunal está obligado a suspender sus procedimientos al promoverse la declinatoria o luego que, en su caso, reciba la inhibitoria.
+El juez declarado competente por el superior declarará nulo todo lo actuado ante el juez incompetente, en los términos del artículo 154.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 169
 
-La infracción del artículo anterior producirá la nulidad de lo actuado. En este caso el tribunal será responsable de los daños y perjuicios originados a las partes, e incurrirá en la pena que señala la ley.
+Las cuestiones de competencia no suspenden el procedimiento principal.
 
 ## TITULO CUARTO. De los impedimentos, recusaciones y excusas
 
@@ -1342,9 +1356,11 @@ Las recusaciones pueden interponerse durante el juicio desde el escrito de la co
 
 ### CAPITULO V. De los efectos de la recusación
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 180
 
-Entre tanto se califica y decide, la recusación suspende la jurisdicción del tribunal o del juez, sin perjuicio de que se prosiga la sección de ejecución.
+Entre tanto se califica o decide, la recusación no suspende la jurisdicción del tribunal o del juez, por lo que se continuará con la tramitación del procedimiento. Si la recusación se declara fundada, será nulo lo actuado a partir de la fecha en que se interpuso la recusación.
 
 ARTICULO 181
 
@@ -1368,9 +1384,11 @@ I.- Cuando no estuviere hecha en tiempo;
 
 II.- Cuando no se funde en alguna de las causas a que se refiere el artículo 170.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 185
 
-Toda recusación se interpondrá ante el juez o tribunal que conozca del negocio expresándose con toda claridad y precisión, la causa en que se funde.
+Toda recusación se interpondrá ante el juez o tribunal que conozca del negocio, expresándose con toda claridad y precisión la causa en que se funde, quien remitirá de inmediato testimonio de las actuaciones respectivas a la autoridad competente para resolver sobre la recusación.
 
 ARTICULO 186
 
@@ -1384,13 +1402,11 @@ ARTICULO 188
 
 Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 189
 
-Cuando se declare improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta de treinta días del salario mínimo general diario vigente en el Distrito Federal, si fueren un secretario o juez de lo Civil, de lo Familiar, o del Arrendamiento Inmobiliario; y hasta de sesenta días de ese mismo, si fuere un Magistrado. Además, esta circunstancia se anotará en el Registro Judicial para acumularse según lo revisto (sic) en el artículo 61 de este cuerpo legal.
-
-No se dará curso a ninguna recusación si, al interponerla, el recusante no exhibe billete de depósito o fianza en efectivo por el máximo de la multa.
+Cuando se declare improcedente o no probada la causa de recusación, se impodrá (sic) el (sic) recusante una multa equivalente hasta de treinta días de salario mínimo general diario vigente en el Distrito Federal, si fueren un secretario o jueces de primera instancia y hasta de sesenta días de dicho salario, si fuere un magistrado. Además, esta circunstancia se anotará en el Registro Judicial, para acumularse según lo previsto por el artículo 61 de este código.
 
 ARTICULO 190
 
@@ -1398,17 +1414,19 @@ ARTICULO 190
 
 De la recusación de un magistrado conocerá la sala de que forma parte y que para tal efecto se integrará de acuerdo con la ley; de la de un juez, la Sala respectiva.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 191
 
-Si en la sentencia se declara que procede la recusación volverán los autos al juzgado de su origen con testimonio de dicha sentencia, para que éste a su vez los remita al juez que corresponda. En el tribunal queda el magistrado recusado separado del conocimiento del negocio y se completará la sala en la forma que determine la ley.
+Si en la sentencia se declara que procede la recusación, se comunicará al juzgado correspondiente, para que éste, a su vez, remita los autos al juez que corresponda. En el tribunal, el magistrado recusado queda separado del conocimiento del negocio y se completará la sala en la forma que determina la Ley.
 
-Si se declara no ser bastante la causa, se devolverán los autos con testimonio de la resolución al juzgado de su origen para que continúe el procedimiento. Si el funcionario recusado fuese un magistrado continuará conociendo del negocio la misma sala como antes de la recusación.
+Si se declara no ser bastante la causa, se comunicará la resolución al juzgado de su origen. Si el fncionario (sic) recusado fuese un magistrado, continuará conociendo del negocio la misma sala como antes de la recusación.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 192
 
-Las recusaciones de los secretarios del Tribunal Superior, de los Juzgados de lo Civil, de lo Familiar, del Arrendamiento Inmobiliario y de Paz, se substanciarán ante las salas o jueces con quienes actúen.
+Las recusaciones de los secretarios del tribunal superior y de los juzgados de primera instancia y de paz, se substanciarán ante las salas o jueces con quienes actúen. Las resoluciones de los jueces de primera instancia serán apelables en el efecto devolutivo.
 
 ## TITULO QUINTO. Actos prejudiciales
 
@@ -1690,11 +1708,17 @@ El que pida la providencia precautoria deberá acreditar el derecho que tiene pa
 
 La prueba puede consistir en documento o en testigos idóneos, que serán por lo menos tres.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 240
 
 Si el arraigo de una persona para que conteste en juicio, se pide al tiempo de entablar la demanda, bastará la petición del actor para que se haga al demandado la correspondiente notificación.
 
-En este caso, la providencia se reducirá a prevenir al demandado que no se ausente del lugar del juicio sin dejar representante legítimo, suficientemente instruído y expensado para responder a las resultas del juicio.
+En este caso, la providencia se reducirá a prevenir al demandado que no se ausente del lugar del juicio sin dejar representante legítimo, suficientemente instruido y expensado para responder a las resultas del juicio.
+
+El apoderado que se presente instruido y expensado quedará obligado solidariamente con el deudor, respecto del contenido de la sentencia.
+
+En el caso de que no obstante su afirmación resultare que no está expensado, además incurrirá en la pena aplicable a los que se producen con falsedad en declaraciones judiciales.
 
 ARTICULO 241
 
@@ -1734,9 +1758,11 @@ ARTICULO 249
 
 El aseguramiento de bienes decretados por providencia precautoria y la consignación a que se refiere el artículo 258 se rigen por lo dispuesto en las reglas generales del secuestro formándose la sección de ejecución que se previene en los juicios ejecutivos. El interventor y el depositario serán nombrados por el juez.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 250
 
-Ejecutada la providencia precautoria antes de ser entablada la demanda, el que la pidió deberá entablarla dentro de tres días, si el juicio hubiere de seguirse en el lugar en que aquella se dictó. Si debiere seguirse en otro lugar, el juez aumentará a los tres días señalados uno por cada cuarenta kilómetros.
+Ejecutada la providencia precautoria antes de ser entablada la demanda, el que la pidió deberá entablarla dentro de tres días, si el juicio hubiere de seguirse en el lugar en que aquella se dictó. Si debiera seguirse en otro lugar, el juez aumentará a los tres días señalados, uno por cada doscientos kilómetros.
 
 ARTICULO 251
 
@@ -1806,13 +1832,17 @@ IV.- Producir todas las consecuencias de la interpelación judicial, si por otro
 
 V.- Originar el interés legal en las obligaciones pecuniarias sin causa de réditos.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 260
 
 El demandado formulará la contestación en los términos prevenidos para la demanda.
 
 Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, a no ser que fueren supervenientes.
 
-En la misma contestación propondrán la reconvención en los casos en que proceda.
+En la misma contestación propondrá la reconvención en los casos en que proceda.
+
+De las excepciones de conexidad, litispendencia y cosa juzgada, se dará vista al actor para que rinda las pruebas que considere oportunas.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -1822,19 +1852,19 @@ Las excepciones y la reconvención se discutirán al propio tiempo y se decidir�
 
 EXCEPCIONES DILATORIAS
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 262
 
-Si entre las excepciones opuestas estuviere la de incompetencia por declinatoria del órgano jurisdiccional, se substanciará dejando en suspenso el principal. Resuelta que sea continuará, en su caso, el curso del juicio.
+Si entre las excepciones opuestas estuviere la de incompetencia por declinatoria del órgano jurisdiccional, se substanciará sin suspensión del procedimiento.
 
-La declinatoria de jurisdicción se propondrá ante el juez pidiéndole que se abstenga del conocimiento del negocio. El juez remitirá, desde luego, los autos a su inmediato superior, emplazando a los interesados para que en un plazo de diez días comparezcan ante éste, el cual, en una audiencia en que se reciban las pruebas y alegatos de las partes, resolverá la cuestión y mandará sin retardo los autos al juez que estime competente, el que deberá hacerlo saber a los litigantes. En este caso, la demanda y la contestación se tendrán como presentadas ante éste. En los casos en que se afecten los derechos de familia, será imprescindible oír al Ministerio Público.
+La declinatoria de jurisdicción se propondrá ante el juez pidiéndole que se abstenga del conocimiento del negocio. El Juez remitirá, desde luego, testimonio de las actuaciones respectivas a su inmediato superior, emplazando a los interesados para que en un plazo de diez días comparezcan ante éste, el cual en una audiencia en que se reciban las pruebas y alegatos de las partes, resolverá la cuestión y comunicará sin retardo su resolución al juez del conocimiento y al juez que estime competente, el que deberá hacerlo saber a los litigantes. El juez declarado incompetente remitirá los autos a quien ordene el superior y, en este caso, la demanda y la contestación se tendrán como presentadas ante éste y se declarará nulo lo actuado ante el juez incompetente en los términos del artículo 154. En los casos en que se afecten los derechos de familia, será imprescindible oir al Ministerio Público.
 
-(REFORMADO, D.O.F. 21 DE ENERO DE 1967) (F. DE E., D.O.F. 23 DE ENERO DE 1967)
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 263
 
-En el caso de que se declare infundada o improcedente la incompetencia, debe pagar las costas causadas el que la promovió y se le impondrá una multa hasta de tres mil pesos en beneficio del colitigante.
+En el caso de que se declare infundada o improcedente la declinatoria o el promovente se desista de ella, deberá pagar las costas causadas y se le impondrá la multa a que se refiere el segundo párrafo del artículo 167.
 
 ARTICULO 264
 
@@ -1844,11 +1874,11 @@ DE LA FIJACIÓN DE LA LITIS
 
 ARTICULO 265 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 266
 
-En el escrito de contestación el demandado deberá referirse a cada uno de los hechos aducidos por el actor, confesándolos o negándolos y expresando los que ignore por no ser propios. El silencio y las evasivas harán que se tengan por confesados o admitidos los hechos sobre los que no se suscite controversia, salvo lo previsto en la parte final del artículo 271 para los casos en que se afectan las relaciones familiares o el estado civil de las personas.
+En el escrito de contestación el demandado deberá referirse a cada uno de los hechos aducidos por el actor, confesándolos o negándolos y expresando los que ignore por no ser propios. El silencio y las evasivas harán que se tengan por confesados o admitidos los hechos sobre los que no se suscite controversia, salvo lo previsto en la parte final del artículo 271.
 
 ARTICULO 267
 
@@ -1864,17 +1894,17 @@ ARTICULO 270
 
 > <small>(DEROGADO, D.O.F. 21 DE ENERO DE 1967)</small>
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 271
 
-Transcurrido el plazo fijado en el emplazamiento sin haber sido contestada la demanda se hará declaración de rebeldía, sin que medie petición de parte y se procederá de acuerdo con lo prescrito por los artículos 272-A a 272-F, observándose las prescripciones del Título Noveno.
+Transcurrido el plazo fijado en el emplazamiento sin haber sido contestada la demanda se hará declaración de rebeldía, sin que medie petición de parte y se procederá de acuerdo con lo prescrito por los artículos 272-A a 272-F, observándose las disposiciones del Título Noveno.
 
 Para hacer la declaración en rebeldía, el juez examinará escrupulosamente y bajo su más estricta responsabilidad si las citaciones y notificaciones precedentes están hechas al demandado en la forma legal, si el demandante no señaló casa en el lugar del juicio, y si el demandado quebrantó el arraigo.
 
-Si el juez encontrare que el emplazamiento no se hizo correctamente, mandará reponerlo e impondrá una corrección disciplinaria al actuario, cuando aparezca responsable.
+Si el juez encontrara que el emplazamiento no se hizo correctamente, mandará reponerlo e impondrá una corrección disciplinaria al notificador, cuando aparezca responsable.
 
-Se presumirán confesados los hechos de la demanda que se deje de contestar. Sin embargo, se tendrá por contestada en sentido negativo cuando se trate de asuntos que afecten las relaciones familiares, del estado civil de las personas o de cuestiones de arrendamiento de fincas urbanas para habitación cuando el demandado sea el inquilino.
+Se presumirán confesados los hechos de la demanda que se deje de contestar. Sin embargo, se tendrá por contestada en sentido negativo cuando se trate de asuntos que afecten las relaciones familiares, el estado civil de las personas, cuestiones de arrendamiento de fincas urbanas para habitación, cuando el demandado sea el inquilino, y en los casos en que el emplazamiento se hubiere hecho por edictos.
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
 
@@ -1882,21 +1912,19 @@ ARTICULO 272
 
 El demandado que oponga reconvención o compensación, lo hará precisamente al contestar la demanda y nunca después; y se dará traslado del escrito al actor, para que conteste en el término de seis días.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ###### ARTICULO 272
 
 ARTICULO 272-A
 
-Una vez contestada la demanda, declarada la rebeldía o contestada la reconvención, el juez señalará de inmediato fecha y hora para la celebración de una audiencia previa y de conciliación dentro de los diez días siguientes, dando vista a la parte que corresponda, con las excepciones que se hubieren opuesto en su contra, por el término de tres días.
+Una vez contestada la demanda y, en su caso, la reconvención el juez señalará de inmediato fecha y hora para la celebración de una audiencia previa y de conciliación dentro de los diez días siguientes, dando vista a la parte que corresponda con las excepciones que se hubieren opuesto en su contra, por el término de tres días.
 
-Si una de las partes no concurre sin causa justificada, el juez la sancionará con multa hasta por los montos establecidos en la fracción II del artículo 62, de este Código. Si dejaren de concurrir ambas partes sin justificación, el juzgador las sancionará de igual manera. En ambos casos el juez se limitará a examinar las cuestiones relativas a la depuración del juicio.
+Si una de las partes no concurre sin causa justificada, el juez la sancionará con una multa hasta por los montos establecidos en la fracción II del artículo 62 de este código. Si dejaren de concurrir ambas partes sin justificación, el juzgador las sancionará de igual manera. En ambos casos el juez procederá a examinar las cuestiones relativas a la depuración del juicio.
 
-Si asistieren las dos partes, el juez examinará las cuestiones relativas a la legitimación procesal y luego se procederá a procurar la conciliación que estará a cargo del conciliador adscrito al juzgado. El conciliador preparará y propondrá a las partes, alternativas de solución al litigio.
+Si asistieran las dos partes, el juez examinará las cuestiones relativas a la legitimación procesal y luego se procederá a procurar la conciliación que estará a cargo del conciliador adscrito al juzgado. El conciliador preparará y propondrá a las partes, alternativas de solución al litigio. Si los interesados llegan a un convenio, el juez lo aprobará de plano si procede legalmente y dicho pacto tendrá fuerza de cosa juzgada.
 
-Si los interesados llegan a un convenio, el juez lo aprobará de plano si procede legalmente y dicho pacto tendrá fuerza de cosa juzgada.
-
-En caso de desacuerdo entre los litigantes la audiencia proseguirá y el juez, que dispondrá de amplias facultades de dirección procesal, examinará, en su caso, la regularidad de la demanda y de la contestación, la conexidad, la litispendencia y la cosa juzgada, con el fin de depurar el procedimiento.
+En caso de desacuerdo entre los litigantes, la audiencia proseguirá y el juez, que dispondrá de amplias facultades de dirección procesal, examinará, en su caso, las excepciones de conexidad, litispendencia y cosa juzgada, con el fin de depurar el procedimiento.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -1966,15 +1994,11 @@ ARTICULO 276
 
 Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se citará a la audiencia de alegatos que podrán ser escritos.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 277
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1967)</small>
-
-El juez mandará recibir el pleito a prueba en el caso de que los litigantes lo hayan solicitado, o de que él estime necesaria. Si el juez no decidiere sobre este particular, se entenderá que se recibe a prueba, corriendo, desde luego, el término para ofrecerlas.
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
-
-Del auto que manda abrir a prueba un juicio no hay más recurso que el de responsabilidad; aquel en que se niegue será apelable preventivamente si fuere apelable la sentencia definitiva.
+El juez mandará recibir el pleito a prueba en el caso de que los litigantes lo hayan solicitado, o de que él la estime necesaria. Del auto que manda abrir a prueba un juicio no hay más recurso que el de responsabilidad; aquél en que se niegue, será apelable en el efecto devolutivo.
 
 ### CAPITULO II. De la prueba
 
@@ -2052,11 +2076,11 @@ Son admisibles como medios de prueba aquellos elementos que puedan producir conv
 
 ### CAPITULO III. Del ofrecimiento y admisión de pruebas
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 290
 
-El período de ofrecimiento de pruebas es de diez días, que empezarán a contarse desde la notificación del auto que tuvo por contestada la demanda o por contestada la reconvención en su caso.
+El período de ofrecimiento de pruebas es de diez días, que empezarán a contarse desde el día siguiente al de la notificación del auto que manda abrir el juicio a prueba.
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
 
@@ -2124,11 +2148,11 @@ Cuando las pruebas hubieren de practicarse fuera del Distrito Federal o del paí
 
 El juez al calificar la admisibilidad de las pruebas, determinará el monto de la cantidad que el promovente deposite como multa, en caso de no rendirse la prueba. Sin este depósito no se hará el señalamiento para la recepción de la prueba.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 301
 
-Al litigante la (sic) que se le hubiere concedido la ampliación a que se refiere el artículo anterior y no rindiere las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante, se le impondrá una multa que fijará el juez hasta por los montos que señala la fracción II del artículo 62 de este Código, incluyendo la anotación en el Registro Judicial a que se refiere el artículo 61; asimismo, se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte, dejándose además de recibir la prueba.
+Al litigante al que se le hubiere concedido la ampliación a que se refiere el artículo anterior, se le entregarán los exhortos para su diligenciación y si no rindiere las pruebas que hubiere propuesto, sin justificar que para ello tuvo impedimento bastante, se le impondrá una multa que fijará el juez hasta por los montos que señala la fracción II del artículo 62 de este código, incluyendo la anotación en el Registro Judicial a que se refiere el artículo 61; asimismo se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte, y además se dejará de recibir la prueba.
 
 ARTICULO 302 (DEROGADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
@@ -2212,9 +2236,11 @@ De las declaraciones de las partes se levantarán actas en las que se hará cons
 
 Esta acta deberá ser firmada al pie de la última hoja y al margen de las demás en que se contengan las declaraciones producidas por los absolventes después de leerlas por sí mismos si quisieren hacerlo o de que les sean leídas por la Secretaría. Si no supieren firmar se hará constar esa circunstancia.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 320
 
-Cuando el absolvente al enterarse de su declaración manifieste no estar conforme con los términos asentados, el juez decidirá en el acto lo que proceda acerca de las rectificaciones que deban hacerse. Una vez firmadas las declaraciones, no pueden variarse ni en la substancia ni en la redacción. La nulidad proveniente de error o violencia se sustanciará sumariamente y la resolución se reserva para la definitiva.
+Cuando el absolvente al enterarse de su declaración manifieste no estar conforme con los términos asentados, el juez decidirá en el acto lo que proceda acerca de las rectificaciones que deban hacerse. Una vez firmadas las declaraciones, no pueden variarse ni en la substancia ni en la redacción. La nulidad proveniente de error o violencia se substanciará incidentalmente y la resolución se reservará para la definitiva.
 
 ARTICULO 321
 
@@ -2386,9 +2412,13 @@ Los peritos deben tener título en la ciencia o arte a que pertenezca el punto s
 
 Si la profesión o el arte no estuvieren legalmente reglamentos (sic) o estándolo, no hubiere peritos en el lugar, podrán ser nombradas cualesquiera personas entendidas, aun cuando no tengan título.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 347
 
-Cada parte dentro del tercero día nombrará un perito a no ser que se pusieren de acuerdo en el nombramiento de uno solo. El tercero en discordia será nombrado por el juez.
+Cada parte dentro del tercer día nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo. El tercero en discordia será nombrado por el juez.
+
+Las partes quedan obligadas a presentar a sus peritos para la aceptación del cargo, salvo que el perito sea de los que nombre el juez conforme al artículo 348, en cuyo caso deberá ser notificado por el tribunal.
 
 ARTICULO 348
 
@@ -2396,27 +2426,25 @@ El juez nombrará los peritos que correspondan a cada parte en los siguientes ca
 
 I.- Si alguno de los litigantes dejare de hacer el nombramiento en el término señalado en el artículo anterior;
 
-II.- Cuando el designado por las partes no aceptare dentro de las cuarenta y ocho horas que sigan a la notificación de su nombramiento;
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1987)</small>
 
-III.- Cuando habiendo aceptado no rindiere su dictamen dentro del término fijado o en la diligencia respectiva;
+II.- Cuando el designado por las partes no se presente a aceptar el cargo dentro de las cuarenta y ocho horas que sigan a la notificación a las partes del auto que tenga por admitida la prueba;
+
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1987)</small>
+
+III.- Cuando habiendo aceptado no rindiere su dictamen en la audiencia; y
 
 IV.- Cuando el que fue nombrado y aceptó el cargo lo renunciare después;
 
-V.- Si el designado por los litigantes no se encontrare en el lugar del juicio o en el que deba practicarse la prueba, o no se hubiere señalado su domicilio.
+V.- (DEROGADA, D.O.F. 14 DE ENERO DE 1987)
 
 ARTICULO 349
 
-El juez señalará lugar, día y hora para que la diligencia se practique, si debe presidirla. En cualquiera otro caso fijará a los peritos un término prudente para que presenten dictamen. Las partes pueden en todo caso formular a los peritos cuestiones que sean pertinentes.
+> <small>(DEROGADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 350
 
-En el caso de la primera parte del artículo anterior concurrirá al tercero en discordia y se observarán las reglas siguientes:
-
-I.- El perito que dejare de concurrir sin causa justa, calificada por el tribunal, incurrirá en una multa de diez a cincuenta pesos y será responsable de los daños causados por su culpa sin perjuicio de lo que previene el artículo 348.
-
-II.- Los peritos practicarán unidos la diligencia, pudiendo concurrir los interesados al acto y hacerles cuantas observaciones quieran, pero deberán retirarse para que los peritos discutan y deliberen solos;
-
-III.- Los peritos de las partes emitirán inmediatamente su dictamen, siempre que lo permita la naturaleza del asunto, de lo contrario, se les señalará un término prudente para que lo rindan. Cuando discordaren los peritos, dictaminará el tercero, solo o asociado de los otros.
+> <small>(DEROGADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 351
 
@@ -2430,11 +2458,11 @@ El perito que nombre el juez puede ser recusado dentro de las cuarenta y ocho ho
 
 El juez calificará de plano la recusación y las partes deben presentar las pruebas al hacerla valer. Contra el auto en que se admita o deseche la recusación no procede recurso alguno. Admitida se nombrará nuevo perito en los mismos términos que al recusado.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 352
 
-En caso de ser desechada la recusación, se impondrá al recusante una multa hasta de mil pesos, en favor del colitigante.
+En caso de ser desechada la recusación, se impondrá al recusante una multa hasta por el equivalente de quince días de salario mínimo general vigente en el Distrito Federal.
 
 ARTICULO 353
 
@@ -2446,7 +2474,9 @@ El honorario de cada perito será pagado por la parte que lo nombró, o en cuyo 
 
 ARTICULO 354
 
-El reconocimiento se practicará siempre previa citación de las partes, fijándose día, hora y lugar.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1987)</small>
+
+El reconocimiento se practicará el día, hora y lugar que se señalen.
 
 Las partes, sus representantes o abogados pueden concurrir a la inspección y hacer las observaciones que estimen oportunas.
 
@@ -2466,19 +2496,19 @@ ARTICULO 356
 
 Todos los que tengan conocimiento de los hechos que las partes deben de probar, están obligados a declarar como testigos.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 357
 
-Las partes tendrán obligación de presentar sus propios testigos. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad al juez y pedirán que los cite. El juez ordenará la citación con apercibimiento de arresto hasta de quince días o multa hasta de tres mil pesos, que aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
+Las partes tendrán obligación de presentar sus propios testigos para cuyo efecto se les entregarán las cédulas de notificación. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir la verdad y pedirán que se les cite. El juez ordenará la citación con apercibimiento de arresto hasta por quince días o multa equivalente hasta quince días de salario mínimo general diario vigente en el Distrito Federal, que aplicará al testigo que no comparezca sin causa justificada, o que se niegue a declarar.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+En caso de que el señalamiento de domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente hasta treinta días de salario mínimo general, vigente en el Distrito Federal en el momento de imponerse la misma, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, debiendo declararse desierta la prueba testimonial.
 
-Asimismo deberá declararse desierta la prueba testimonial.
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 358
 
-A los ancianos de más de sesenta años y a los enfermos podrá el juez, según las circunstancias, recibirles la declaración en sus casas en presencia de la otra parte, si asistiere.
+A los testigos de más de setenta años y a los enfermos podrá el juez, según las circunstancias, recibirles la declaración en sus casas en presencia de la otra parte, si asistiere.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -2486,9 +2516,11 @@ ARTICULO 359
 
 Al Presidente de la República, a los Secretarios de Estado, Senadores, Diputados, Magistrados, Jueces, Generales con mando, a las primeras autoridades políticas del Distrito Federal, se pedirá su declaración por oficio, y en esta forma la rendirán. En casos urgentes podrán rendir su declaración personalmente.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 360
 
-Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos procurando que en una sola no se comprenda más de un hecho. El juez debe cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen. Contra la desestimación de preguntas sólo cabe la apelación en el efecto preventivo.
+Para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El juez debe cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen. Contra la desestimación de preguntas sólo cabe la apelación en el efecto devolutivo.
 
 ARTICULO 361
 
@@ -2604,23 +2636,11 @@ ARTICULO 384 (DEROGADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
 #### SECCION X. De la Audiencia
 
-(REUBICADO, D.O.F. 14 DE MARZO DE 1973)
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 385
 
-Antes de la celebración de la audiencia las pruebas deberán prepararse con toda oportunidad para que en ella puedan recibirse y al efecto se procederá:
-
-I.- A citar a las partes a absolver posiciones que formulen las mismas, bajo el apercibimiento de que si no se presentan a declarar serán tenidos por confesos o de ser conducidos por la policía si el juez lo estima conveniente;
-
-II.- A citar a los testigos y peritos bajo el apercibimiento de multa o de ser conducidos por la policía, a no ser que la parte que los ofreció se comprometiera a su perjuicio a presentarlos;
-
-III.- A dar todas las facilidades necesarias a los peritos para el examen de objetos, documentos, lugares o personas para que rindan su dictamen a la hora de la audiencia;
-
-IV.- A delegar o exhortar al juez que corresponda para que practique la inspección ocular y las compulsas que tengan que efectuarse fuera del lugar del juicio;
-
-V.- A exhortar al juez que corresponda para que reciba la información de testigos cuando esta prueba tenga que practicarse fuera del lugar del juicio;
-
-VI.- A mandar traer copias, documentos, libros y demás instrumentos ofrecidos por las partes, ordenando las compulsas que fueren necesarias.
+Antes de la celebración de la audiencia, las pruebas deberán prepararse con toda oportunidad para que en ella puedan recibirse.
 
 (REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
@@ -2634,21 +2654,19 @@ Lo dispuesto en este artículo sólo da competencia al juez para conocer y decid
 
 Si en el momento de la celebración de la audiencia se tramitare proceso penal sobre la falsedad del documento en cuestión, el tribunal, sin suspender el procedimiento y según las circunstancias, determinará al dictar sentencia si se reservan los derechos del impugnador para el caso en que penalmente se demuestre la falsedad o bien puede subordinar la eficacia ejecutiva de la sentencia a la prestación de una caución.
 
-(REUBICADO, D.O.F. 14 DE MARZO DE 1973)
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 387
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
-
-Constituído el tribunal en audiencia pública el día y horas señalados al efecto, serán llamados por el secretario los litigantes, peritos, testigos y demás personas que por disposición de la ley deban de intervenir en el juicio y se determinará quiénes deben de permanecer en el salón, quiénes en lugar separado para ser introducidos en su oportunidad y quiénes deben ser inmediatamente citados o traídos para que concurran a la diligencia si no se hallaren presentes.
+Constituido el tribunal en audiencia pública el día y horas señalados al efecto, serán llamados por el secretario, los litigantes, peritos, testigos y demás personas que por disposición de la Ley deban de intervenir en el juicio y se determinará quiénes deben de permanecer en el salón, y quiénes en lugar separado, para ser introducidos en su oportunidad.
 
 La audiencia se celebrará concurran o no las partes y estén o no presentes los testigos y peritos y los abogados.
 
-(REFORMADO, D.O.F. 21 DE ENERO DE 1967) (REUBICADO, D.O.F. 14 DE MARZO DE 1973)
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 388
 
-El secretario o el relator que el juez designare, referirá oralmente la demanda y la contestación. A continuación las pruebas se recibirán en el orden fijado en el artículo 289. Sin perjuicio de que se reciban las pruebas ya preparadas, se dejarán pendientes para la continuación de la audiencia las que no lo hubieren sido.
+Las pruebas ya preparadas se recibirán, dejando pendientes para la continuación de la audiencia las que no lo hubieren sido.
 
 (REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
@@ -2674,23 +2692,19 @@ Los peritos dictaminarán por escrito u oralmente en presencia de las partes y d
 
 Los peritos citados oportunamente serán sancionados con multas hasta el equivalente de quince días del salario mínimo general vigente en el Distrito Federal en caso de que no concurran, salvo causa grave que calificará el juez.
 
-(REUBICADO, D.O.F. 14 DE MARZO DE 1973)
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 392
 
-Los testigos indicados en el auto de admisión de pruebas serán examinados en la audiencia, en presencia de las partes. El juez puede de oficio interrogar ampliamente a los testigos sobre los hechos objeto de esta prueba, para el mejor esclarecimiento de la verdad. Las partes también pueden interrogar a los testigos, limitándose a los hechos o puntos controvertidos; y el juez estrictamente debe impedir preguntas ociosas e impertinentes.
+Los testigos indicados en el auto de admisión de pruebas serán examinados en la audiencia, en presencia de las partes. El juez puede de oficio interrogar ampliamente a los testigos sobre loS hechos objeto de esta prueba, para el mejor esclarecimiento de la verdad. Las partes también pueden interrogar a los testigos, limitándose a los hechos o puntos controvertidos; y el juez estrictamente debe impedir preguntas ociosas e impertinentes.
 
-No deben asentarse en el acta literalmente preguntas ni respuestas y sólo en caso en que excepcionalmente, el juez estime prudente hacerlas constar, se asentarán las contestaciones implicando la pregunta. El secretario, bajo la vigilancia del juez, hará un extracto de la declaración de los testigos con relación a los puntos controvertidos, extracto que figurará en el acta de que más adelante se habla.
+No deben asentarse en el acta literalmente preguntas ni respuestas, y sólo en caso en que excepcionalmente el juez estime prudente hacerlas constar, se asentarán las contestaciones implicando la pregunta.
 
-En las causas apelables, además de este extracto, se agregarán a los autos las preguntas y declaraciones literales que los taquígrafos oficiales del tribunal hayan tomado. En las causas no apelables, el extracto basta.
-
-(REUBICADO, D.O.F. 14 DE MARZO DE 1973)
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 393
 
-Concluída la recepción de las pruebas, el tribunal dispondrá que las partes aleguen por sí o por sus abogados o apoderados, primero el actor y luego el reo; el Ministerio Público alegará también en los casos en que intervenga.
-
-Se concederá el uso de la palabra por dos veces a cada una de las partes, las que procurarán la mayor brevedad y concisión, evitando palabras injuriosas y alusiones a la vida privada y opiniones políticas o religiosas, limitándose a tratar de las acciones y excepciones que quedaron fijados en la clausura del debate preliminar y de las cuestiones incidentales que surgieran. No se podrá hacer uso de la palabra por más de un cuarto de hora cada vez en primera instancia y de media hora en segunda.
+Concluida la recepción de las pruebas, el tribunal dispondrá que las partes aleguen por sí o por sus abogados o apoderados, primero el actor y luego el demandado; el Ministerio Público alegará también en los casos en que intervenga, procurando la mayor brevedad y concisión. No se podrá hacer uso de la palabra por más de un cuarto de hora en primera instancia y de media hora en segunda.
 
 (REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
@@ -2846,9 +2860,9 @@ Hay cosa juzgada cuando la sentencia causa ejecutoria.
 
 Causan ejecutoria por ministerio de la (sic) ley:
 
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1967)</small>
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1987)</small>
 
-I.- Las sentencias pronunciadas en juicio cuyo interés no pase de cinco mil pesos;
+I.- Las sentencias pronunciadas en juicio cuyo interés no pase de 182 veces el salario mínimo diario general vigente en el Distrito Federal, a excepción de las dictadas en las controversias en materia de arrendamiento de fincas urbanas destinadas a habitación.
 
 II.- Las sentencias de segunda instancia;
 
@@ -2868,13 +2882,13 @@ II.- Las sentencias de que hecha notificación en forma, no se interpone recurso
 
 III.- Las sentencias de que se interpuso recurso pero no se continuó en forma y término legales o se desistió de él la parte o su mandatario con poder o cláusula especial.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 428
 
 En los casos a que se refiere la fracción I del artículo anterior, el juez de oficio hará la declaración correspondiente.
 
-En el caso de la fracción II, la declaración se hará sustanciando el artículo con un escrito de cada parte. Los términos serán tres días para contestar y otros tres para dictar la resolución.
-
-Si hubiere deserción o desistimiento del recurso, la declaración la hará el tribunal o el juez, en su caso.
+En el caso de la fracción II, la declaración se hará de oficio o a petición de parte, previa la certificación correspondiente de la Secretaría. Si hubiere deserción o desistimiento del recurso, la declaración la hará el tribunal o el juez, en su caso.
 
 ARTICULO 429
 
@@ -2998,7 +3012,9 @@ I.- Si no se designa la calidad de la cosa y existieren de varias clases en pode
 
 II.- Si hubiere sólo calidades diferentes a la estipulada, se embargarán si así lo pidiere el actor, sin perjuicio de que en la sentencia definitiva se hagan los abonos recíprocos correspondientes.
 
-III.- Si no hubiere en poder del demandado ninguna calidad, se despachará ejecución por la cantidad de dinero que señale el actor, debiendo prudentemente moderarla el ejecutor de acuerdo con los precios corrientes en plaza, sin perjuicio de lo que se señale por daños y perjuicios moderables también.
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1987)</small>
+
+III.- Si no hubiere en poder del demandado ninguna calidad, se despachará ejecución por la cantidad de dinero que señale el actor, debiendo prudentemente moderarla el juez, de acuerdo con los precios corrientes en plaza, sin perjuicio de lo que señale por daños y perjuicios moderables también.
 
 ARTICULO 451
 
@@ -3038,7 +3054,9 @@ La sección de ejecución se integrará con:
 
 I.- Copia cotejada de la demanda y en su caso de la sentencia.
 
-II.- Mandamiento en forma de ejecución dictado por el ejecutor en acatamiento al auto correspondiente dictado por el juez;
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1987)</small>
+
+II.- Copia simple del auto de ejecución dictado en el principal;
 
 III.- Nombramiento de depositario y otorgamiento de su fianza o caución;
 
@@ -3050,11 +3068,15 @@ VI.- Avalúos periciales y sus incidentes;
 
 VII.- Arrendamiento de bienes depositados;
 
-VIII.- Mandamiento de subastar los bienes secuestrados acatando las ordenes del juez correspondiente;
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1987)</small>
+
+VIII.- Mandamiento de subastar los bienes embargados;
 
 IX.- Remate, calificación de posturas y fincamiento del mismo;
 
-X.- Aprobación del remate mandada hacer por el juez;
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1987)</small>
+
+X.- Aprobación del remate; y
 
 XI.- Posesión de los bienes adjudicados y otorgamiento de las escrituras correspondientes en rebeldía de las partes.
 
@@ -3132,7 +3154,9 @@ Todo juicio hipotecario constará de dos secciones: la del principal conteniendo
 
 I .- Copia cotejada de la demanda que proporcionará el actor y de la sentencia en su caso;
 
-II.- Mandamiento en forma para la fijación de la cúdula (sic) hipotecaria en cumplimiento de la orden dictada por el juez;
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1987)</small>
+
+II.- Copia simple del auto que ordene la expedición y registro de la cédula hipotecaria;
 
 III.- Nombramiento de depositario y otorgamiento de fianza;
 
@@ -3144,11 +3168,13 @@ VI.- Remoción de depositarios y nombramiento de substitutos;
 
 VII.- Permisos para arrendar o para vender frutos;
 
-VIII.- Mandamiento de subastar los bienes hipotecados acatando órdenes correspondientes del juez;
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1987)</small>
+
+VIII.- Mandamiento de subastar los bienes hipotecados;
 
 IX.- Remate, convocación y calificación de postores y fincamiento del remate;
 
-X.- Posesión de los bienes adjudicados y otorgamientos de las escrituras correspondientes y demás actuaciones relativas a la ejecución;
+X.- Posición de los bienes adjudicados y otorgamientos de las escrituras correspondientes y demás actuaciones relativas a la ejecución;
 
 ARTICULO 472 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
@@ -3170,13 +3196,17 @@ ARTICULO 478
 
 La cédula hipotecaria contendrá una relación sucinta de la escritura y concluirá en estos términos: "En virtud de las constancias que preceden, queda sujeta la finca............de la propiedad de.............a juicio hipotecario, lo que se hace saber a las autoridades y al público, para que no se practique en la mencionada finca ningún embargo, toma de posesión, diligencia precautoria o cualquiera otra que entorpezca el curso del presente juicio o viole los derechos en él adquiridos por el C. (aquí el nombre del actor.)
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 479
 
-La cédula hipotecaria se fijará en un lugar aparente de la finca y se inscribirá en el registro público correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de la cédula. Una copia quedará en el Registro y la otra ya registrada se agregará a los autos.
+La cédula hipotecaria se inscribirá en el registro público correspondiente, a cuyo efecto se expedirá por duplicado copia certificada de la cédula. Una copia quedará en el registro y la otra, ya registrada, se agregará a los autos.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 480
 
-Si la finca no se halla en el lugar del juicio se librará exhorto al juez de la ubicación, para que mande fijar la cédula y la haga publicar colocándola en las tablas de las casas consistoriales procediendo en todo caso como se previene en la parte final del artículo anterior.
+Si la finca no se halla en el lugar del juicio, se librará exhorto al juez de la ubicación, para que ordene el registro de la cédula como se previene en el artículo anterior.
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
 
@@ -3210,9 +3240,11 @@ ARTICULO 486
 
 Agotado el procedimiento, si resulta probada la acción, al decidir los derechos controvertidos, la sentencia decretará el remate de los bienes hipotecados.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 487
 
-Si el superior revoca el fallo de primera instancia que declaró procedente el remate, luego que vuelvan los autos al juzgado de su origen, se mandará quitar la cédula hipotecaria y en su caso se devolverá la finca al demandado, ordenando al depositario que rinda cuentas con pago en el término que le fije el ejecutor, que no podrá exceder de treinta días. Si el remate se hubiere ya verificado, se hará efectiva la fianza en la vía de apremio.
+Si el superior revoca el fallo de primera instancia que declaró procedente el remate, luego que vuelvan los autos al juzgado de su origen, se mandará cancelar la inscripción de la cédula hipotecaria en el registro público y en su caso se devolverá la finca al demandado, ordenando al depositario que rinda cuentas con pago en el término que le fije el juez, que no podrá exceder de treinta días. Si el remate se hubiere ya verificado, se hará efectiva la fianza en la vía de apremio.
 
 ARTICULO 488
 
@@ -3236,13 +3268,15 @@ ARTICULO 490
 
 Presentada la demanda con el documento o la justificación correspondiente, dictará auto el juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo, se le prevenga que dentro de treinta días si la finca sirve para habitación, o dentro de cuarenta días si sirve para giro mercantil o industrial, o dentro de noventa si fuere rústica, proceda a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de nueve días ocurra a oponer las excepciones que tuviere.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 491
 
-Si en el acto de la diligencia justificare el arrendatario, con los recibos correspondientes, haber hecho el pago de las pensiones reclamadas, o exhibiere su importe o copia sellada por un juzgado de escritos de ofrecimiento de pago a los que hubiere acompañado los certificados de depósito respectivos, se suspenderá la diligencia, asentándose constancia de estas circunstancias en el acta y agregándose los justificantes que se presenten, para dar cuenta al juzgado. Si se exhibiere el importe, se mandará entregar al actor sin más trámite y se dará por terminado el procedimiento.
+Si en el acto de la diligencia justificare el arrendatario, con los recibos correspondientes, haber hecho el pago de las pensiones reclamadas, o exhibiere copia sellada por la Oficina Central de Consignaciones, por la Oficialía de Partes Común del Tribunal o por un juzgado, de los escritos de ofrecimiento de pago a los que hubiere acompañado los certificados de depósito respectivos, se pedirán los certificados, recibidos los cuales, se dará por terminado el procedimiento.
 
-Si se exhibieren copias de escritos de ofrecimiento de pago, se pedirán los originales por oficio al juzgado en que se encuentren, así como los correspondientes certificados. Recibidos éstos se dará por terminado el procedimiento y se entregarán los certificados al arrendador a cambio de los recibos correspondientes. En caso de presentarse recibos de pago, se mandará dar vista al actor por el término de tres días; si no los objeta, se dará por concluido el juicio; si los objeta, se citará para la audiencia de pruebas y alegatos a que se refiere el artículo 494.
+Si se exhibiere el importe, se mandará entregar al actor sin más trámite y se dará por terminado el procedimiento.
+
+Si se exhibieren copias de escritos de ofrecimiento de pago, se pedirán por oficio los certificados. Recibidos éstos se dará por terminado el procedimiento y se entregarán los certificados al arrendador a cambio de los recibos correspondientes. En caso de presentarse recibos de pago, se mandará dar vista al actor por el término de tres días; si no los objeta, se dará por concluido el juicio; si los objeta, se citará para la audiencia de pruebas y alegatos a que se refiere el artículo 494.
 
 ARTICULO 492
 
@@ -3254,15 +3288,15 @@ ARTICULO 493
 
 Los beneficios de los plazos que este artículo concede a los inquilinos, no son renunciables.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 494
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
+El juez debe desechar de plano las excepciones diversas a las que el Código Civil, en los artículos 2431 a 2434 y 2445, concede al inquilino para no pagar la renta, siendo éstas inadmisibles si no se ofrecen con sus pruebas.
 
-En caso de que se opongan otras excepciones por el inquilino, se mandará dar vista con ellas al actor citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes, teniendo en cuenta que esta audiencia debe de efectuarse antes del vencimiento del término fijado para el lanzamiento.
+Admitidas las excepciones, se mandará dar vista con ellas por tres días al actor, quien podrá ofrecer las pruebas que estime oportunas; admitidas las pruebas pertinentes, se citará para la audiencia de pruebas alegatos y sentencia.
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
-
-El juez debe desechar de plano las excepciones diversas a las que el Código Civil en los artículos 2,431 a 2,434 y 2,445 concede al inquilino para no pagar la renta, siendo estos inadmisibles si no se ofrecen con sus pruebas.
+Si no se ofrecen pruebas, se citará para resolución.
 
 Son improcedentes la reconvención y la compensación.
 
@@ -3580,13 +3614,17 @@ La ampliación del embargo se seguirá por cuerda separada sin suspensión de la
 
 ARTICULO 543
 
-De todo secuestro se tendrá como depositario a la persona que nombre el acreedor, bajo su responsabilidad, mediante formal inventario.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1987)</small>
+
+De todo secuestro se tendrá como depositario a la persona que bajo su responsabilidad nombre el acreedor, pudiendo ser él mismo o el deudor, mediante formal inventario.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 Se exceptúan de lo dispuesto en este precepto:
 
-(F. DE. E., D.O.F. 27 DE SEPTIEMBRE DE 1932)
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1987)</small>
 
-I.- El embargo de dinero o de créditos fácilmente realizables que se efectúa en virtud de sentencia porque entonces se hace entrega inmediata al actor en pago; en cualquier otro caso el depósito se hará en el Banco de México o en casa comercial de crédito reconocido en los lugares en que no esté establecido aquél; el billete de depósito se conservará en el seguro del juzgado.
+I.- El embargo de dinero o de créditos fácilmente realizables que se efectúa en virtud de sentencia, porque entonces se hace entrega inmediata al actor en pago; en cualquier otro caso, el depósito se hará en la Nacional Financiera; el billete de depósito se conservará en el seguro del juzgado;
 
 II.- El secuestro de bienes que han sido objeto de embargo judicial anterior en cuyo caso el depositario anterior en tiempo lo será respecto de todos los embargos subsecuentes mientras subsista el primero, a no ser que el reembargo sea por virtud de cédula hipotecaria, derecho de prenda u otro privilegio real; porque entonces este prevalecerá si el crédito de que procede es de fecha anterior al primer secuestro;
 
@@ -3728,11 +3766,13 @@ ARTICULO 561
 
 Los depositarios e interventores percibirán por honorario el que les señale el arancel.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 562
 
-Al ejecutarse las sentencias se formará la Sección de Ejecución y se integrará con el mandamiento de embargo; los incidentes relativos a ampliación y reducción del mismo; los de venta y remate de los bienes secuestrados; nombramientos, remociones y remuneración de peritos y depositarios y en general lo que comprenda la sección de ejecución en los juicios ejecutivos e hipotecarios, así como en las providencias precautorias.
+Al ejecutarse las sentencias se formará la sección de ejecución y se integrará con el mandamiento de embargo; los incidentes relativos a ampliación y reducción del mismo; los de venta y remate de los bienes secuestrados; nombramientos, remociones y remuneraciones de peritos y depositarios; y, en general, lo que comprenda la sección de ejecución en los juicios ejecutivos e hipotecarios, así como en las providencias precautorias.
 
-Los incidentes de liquidación de sentencia, rendición de cuentas y determinación de daños y perjuicios se seguirán en el cuaderno principal y de ellos conocerá el juez; así como del auto aprobatorio del remate.
+Los incidentes de liquidación de sentencia, rendición de cuentas y determinación de daños y perjuicios se seguirán en el cuaderno principal.
 
 ARTICULO 563
 
@@ -3770,17 +3810,23 @@ ARTICULO 569
 
 El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial. Si fueren más de dos los peritos valuadores no habrá necesidad de nombrar tercero en discordia.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 570
 
-Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por dos veces, de siete en siete días, fijándose edictos en los sitios públicos de costumbre y si el valor de la cosa pasare de cinco mil pesos se insertarán aquéllos en un periódico de información. A petición de cualquiera de las partes y a su costa el juez puede usar además de los dichos, algún otro medio de publicidad para convocar postores.
+Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por medio de edictos que se fijarán por dos veces en los tableros de avisos del juzgado y en los de la Tesorería del Distrito Federal, debiendo mediar entre una y otra publicación siete días hábiles y, entre la última y la fecha del remate, igual plazo. Si el valor de la cosa pasare del equivalente a ciento ochenta y dos días de salario mínimo general vigente en el Distrito Federal, se insertarán además los edictos en un periódico de información. A petición de cualquiera de las partes y a su costa el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 571
 
-Antes de fincarse el remate o declararse la adjudicación podrá el deudor librar sus bienes pagando principal y costas. Después de fincado quedará la venta irrevocable.
+Antes de aprobarse el remate, podrá el deudor librar sus bienes pagando principal e intereses y exhibiendo certificado de depósito por la cantidad que prudentemente califique el juez, para garantizar el pago de las costas. Después de aprobado quedará la venta irrevocable.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 572
 
-Si los bienes raíces estuvieren situados en diversos lugares, en todos estos se publicarán los edictos en los sitios de costumbre y en las puertas de los juzgados respectivos. En el caso a que este artículo se refiere, se ampliará el término de los edictos, concediéndose un día más por cada cuarenta kilómetros o por una fracción que exceda de la mitad y se calculará para designarlo la distancia mayor a que se hallen los bienes. Puede el juez usar, además de los dichos, algún otro medio de publicidad para llamar postores.
+Si el bien o los bienes raíces estuvieren situados en lugares distintos al del juicio, en todos ellos se publicarán los edictos en los sitios de costumbre y en las puertas de los juzgados respectivos. En el caso a que este artículo se refiere, se ampliará el término de los edictos, concediéndose un día más por cada doscientos kilómetros o por una fracción que exceda de la mitad, y se calculará para designarlo la distancia mayor a que se hallen los bienes. Puede el juez usar, además de los dichos, algún otro medio de publicidad para llamar postores.
 
 ARTICULO 573
 
@@ -3806,25 +3852,31 @@ ARTICULO 577
 
 Desde que se anuncie el remate y durante éste, se pondrán de manifiesto los planos que hubiere y estarán a la vista de los avalúos.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 578
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
-
-El juez que ejecuta decidirá de plano cualquiera cuestión que se suscite durante la subasta, y de sus resoluciones no se dará más recurso que el de responsabilidad; a menos que la ley disponga otra cosa.
+El juez revisará escrupulosamente el expediente antes de dar inicio al remate, y decidirá de plano cualquier cuestión que se suscite durante la subasta. De sus resoluciones no se dará más recurso que el de responsabilidad, a menos que la ley disponga otra cosa.
 
 ARTICULO 579
 
 El día del remate a la hora señalada, pasará el juez personalmente lista de los postores presentados y concederá media hora para admitir a los que de nuevo se presenten. Concluída la media hora el juez declarará que va a procederse al remate y ya no admitirá nuevos postores. Enseguida revisará las propuestas presentadas, desechando desde luego las que no tengan postura legal y las que no estuvieren acompañadas del billete de depósito a que se refiere el artículo 574.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 580
 
 Calificadas de buenas las posturas, el juez las leerá en alta voz por sí mismo o mandará darles lectura por la secretaría, para que los postores presentes puedan mejorarlas. Si hay varias posturas legales, el juez decidirá cuál sea la preferente.
 
-Hecha la declaración de la postura considerada preferente el juez preguntará si alguno de los licitadores la mejora. En caso de que alguno la mejore dentro de los cinco minutos que sigan a la pregunta, interrogará de nuevo si algún postor puja la mejora; y así sucesivamente con respecto a las pujas que se hagan. En cualquier momento en que pasados cinco minutos de hecha la pregunta correspondiente, no se mejorare la última postura o puja, declarará el tribunal fincado el remate en favor del postor que hubiere hecho aquélla.
+Hecha la declaración de la postura considerada preferente, el juez preguntará si alguno de los licitadores la mejora. En caso de que alguno la mejore dentro de los cinco minutos que sigan a la pregunta, interrogará de nuevo si algún postor puja la mejora; y así sucesivamente con respecto a las pujas que se hagan. En cualquier momento en que, pasados cinco minutos de hecha la pregunta correspondiente, no se mejorare la última postura o puja, declarará el tribunal fincado el remate en favor del postor que hubiere hecho aquélla y lo aprobará en su caso.
+
+La resolución que apruebe o desapruebe el remate será apelable en ambos efectos.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 581
 
-Al declarar fincado el remate mandará el juez que dentro de los tres días siguientes se otorgue a favor del comprador la escritura de adjudicación correspondiente en los términos de su postura y que se le entreguen los bienes rematados.
+Al declarar aprobado el remate, mandará el juez que dentro de los tres días siguientes, se otorgue a favor del comprador la escritura de adjudicación correspondiente, en los términos de su postura y que se le entreguen los bienes rematados.
 
 ARTICULO 582
 
@@ -3864,7 +3916,9 @@ Cualquier liquidación que tenga que hacerse de los gravámenes que afecten a lo
 
 ARTICULO 588
 
-Aprobado el remate al mandar el juez el otorgamiento de la escritura de adjudicación y la entrega de los bienes, se prevendrá al comprador que consigne, ya sea ante el propio juez o ante el notario que va a autorizar la escritura respectiva el precio del remate.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1987)</small>
+
+Aprobado el remate, se prevendrá al comprador que consigne ante el propio juez, el precio del remate.
 
 Si el comprador no consignare el precio en el plazo que el juez señale, o por su culpa dejare de tener efecto la venta, se procederá a nueva subasta como si no se hubiera celebrado, perdiendo el postor el depósito a que se refiere el artículo 574 que se aplicará por vía de indemnización por partes iguales, al ejecutante y al ejecutado.
 
@@ -4340,11 +4394,11 @@ Divorcio por mutuo consentimiento
 
 Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurir (sic) al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 675
 
-Hecha la solicitud, citará el Tribunal a los cónyuges y al representante del Ministerio Público a una junta en la que se identificarán plenamente, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación, si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquellos y de los que un cónyuge deba dar a otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
+Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta en la que se identificarán plenamente ante el juez, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación. Si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuge deba dar al otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
 
 ARTICULO 676
 
@@ -4400,9 +4454,11 @@ ARTICULO 684
 
 Los autos que no fueren apelables y los decretos pueden ser revocados por el juez que los dicta, o por el que lo substituya en el conocimiento del negocio.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 685
 
-La revocación debe pedirse por escrito dentro de las veinticuatro horas siguientes a la notificación, y se substancia con un escrito por cada parte y la resolución del juez que debe pronunciarse dentro del tercer día. Esta resolución no admite mas recurso que el de responsabilidad.
+La revocación debe pedirse por escrito dentro de las veinticuatro horas siguientes a la notificación, dándose vista a la contraria por un término igual y la resolución del juez deberá pronunciarse dentro del tercer día. Esta resolución no admite más recurso que el de responsabilidad.
 
 ARTICULO 686
 
@@ -4438,15 +4494,17 @@ ARTICULO 692
 
 El litigante al interponer la apelación debe usar de moderación, absteniéndose de denostar (sic) al juez; de lo contrario, quedará sujeto a la pena impuesta en los artículos 61 y 62.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 693
 
-Interpuesta una apelación el juez la admitirá sin substanciación ninguna si fuere procedente, expresando si la admite en ambos efectos o en un solo o bien preventivamente.
+Interpuesta una apelación, el juez la admitirá sin substanciación ninguna si fuere procedente, expresando si la admite en ambos efectos o en uno solo.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 694
 
-El recurso de apelación procede en un solo efecto o en ambos efectos. En el primer caso no se suspende la ejecución del auto o de la sentencia, y si ésta es definitiva se dejará en el juzgado, para ejecutarla, copia certificada de ella y de las demás constancias que el juez estime necesarias, remitiéndose desde luego los autos originales al Tribunal Superior. Si es auto, se remitirá al tribunal testimonio de lo que el apelante señalare en el escrito de apelación y a él se agregarán las constancias que el colitigante solicite dentro de tres días siguientes a la admisión del recurso.
+El recurso de apelación procede en un solo efecto o en ambos efectos. En el primer caso no se suspende la ejecución del auto o de la sentencia, y si ésta es definitiva se dejará en el juzgado, para ejecutarla, copia certificada de ella y de las demás constancias que el juez estime necesarias, remitiéndose desde luego los autos originales al Tribunal Superior.
 
 La apelación admitida en ambos efectos suspende desde luego la ejecución de la sentencia, hasta que ésta cause ejecutoria o la tramitación del juicio, cuando se interponga contra auto.
 
@@ -4454,29 +4512,31 @@ ARTICULO 695
 
 Se admitirán en un solo efecto las apelaciones en los casos en que no se halle prevenido que se admitan libremente o en ambos efectos.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 696
 
-De las sentencias interlocutorias con fuerza de definitivas, que no paralizan ni ponen término al juicio, se admitirán las apelaciones en el efecto devolutivo; pero si el apelante, en un plazo que no exceda de seis días, presta fianza a satisfacción del juez para responder, en su caso, de las costas, daños y perjuicios que pueda ocasionar a la parte contraria, se admitirá la apelación en ambos efectos.
+De los autos y de las sentencias interlocutorias de los que se derive una ejecución que pueda causar un daño irreparable o de difícil reparación y la apelación proceda en el efecto devolutivo, se admitirán en ambos efectos si el apelante lo solicita al interponer el recurso y, en un plazo que no exceda de seis días, otorga garantía a satisfacción del juez para responder, en su caso, de los daños y perjuicios que puedan ocasionarse con la suspensión. La garantía atenderá a la cuantía del asunto y no podrá ser inferior al equivalente a sesenta días del salario mínimo general diario vigente en el Distrito Federal.
 
-Si el tribunal confirmase resolución apelada, condenará al apelante al pago de dichas indemnizaciones, fijando, prudencialmente, el importe de los daños y perjuicios, que no bajarán de mil pesos ni podrán exceder de cinco mil, además de lo que importen las costas.
+Si el tribunal confirmase la resolución apelada, condenará al recurrente al pago de dichas indemnizaciones, fijando el importe de los daños y perjuicios que se hayan causado, además de lo que importen las costas.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 697
 
-Si la apelación devolutiva fuere de auto o sentencia interlocutoria sólo se remitirá al superior testimonio de lo que señalare de los autos el apelante con las adiciones que haga el colitigante y el juez estime necesarias, a no ser que el apelante prefiera esperar la remisión de los autos originales cuando estén en estado. El apelante deberá solicitar el testimonio dentro del tercer día de la admisión del recurso, expresando los particulares que deba contener. Transcurrido este término sin haberlo solicitado se le negará el testimonio y se tendrá por firme la resolución apelada.
+Si la apelación devolutiva fuere de auto o sentencia interlocutoria, el testimonio que haya de remitirse al superior, se formará con las constancias que señale el apelante al interponer el recurso, adicionadas con las que indique el colitigante dentro del término de tres días y las que el juez estime pertinentes, a no ser que el apelante prefiera esperar la remisión de los autos originales cuando estén en estado.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+De no hacerse el señalamiento por el apelante precisamente al interponer el recurso, éste no será admitido.
 
-Al recibirse las constancias ante el superior, se notificará personalmente a las partes para que comparezcan ante dicho tribunal, a menos de que de las constancias aparezca que no se ha dejado de actuar más de tres meses.
+Al recibirse las constancias ante el superior, se notificará personalmente a las partes para que comparezcan ante dicho tribunal, a menos que, de las constancias aparezca que no se ha dejado de actuar por más de seis meses.
 
-Para la remisión del testimonio regirá lo dispuesto en la parte final del artículo siguiente.
+Para la expedición del testimonio regirá lo dispuesto en la parte final del artículo siguiente.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 698
 
-No se suspenderá la ejecución de la sentencia, auto o providencia apelados, cuando haya sido admitida la apelación en el efecto devolutivo. En este caso, si la apelación fuere de sentencia definitiva, quedará en el juzgado testimonio de lo necesario para ejecutarla, remitiendo los autos al superior, como se previene en el artículo 694. Las copias certificadas que formen el testimonio de ejecución, no causan el impuesto del timbre.
+No se suspenderá la ejecución de la sentencia, auto o providencia apelados, cuando haya sido admitida la apelación en el efecto devolutivo. En este caso, si la apelación fuere de sentencia definitiva, quedará en el juzgado testimonio de lo necesario para ejecutarla, remitiendo los autos al superior, como se previene en el artículo 694. Las copias certificadas que formen el testimonio de ejecución, no causen el pago de derechos.
 
 ARTICULO 699
 
@@ -4508,9 +4568,11 @@ ARTICULO 701
 
 Admitida la apelación en ambos efectos el juez remitirá los autos originales desde luego, a la sala correspondiente del tribunal superior dentro del tercer día, citando a las partes para que comparezcan ante dicho tribunal.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 702
 
-En el caso del artículo anterior se suspenderá la ejecución de la sentencia o auto apelado hasta que recaiga el fallo del superior; mientras tanto, queda en suspenso la jurisdicción del juez para seguir conociendo de los autos principales desde el momento en que se admita la apelación en ambos efectos sin perjuicio de que la sección de ejecución continúe en poder del juez a quo, para resolver lo concerniente al depósito, a las cuentas, gastos y administración.
+En el caso del artículo anterior, se suspenderá la ejecución de la sentencia o auto apelado hasta que recaiga el fallo del superior; mientras tanto, queda en suspenso la jurisdicción del juez para seguir conociendo de los autos principales desde el momento en que se admita la apelación en ambos efectos, sin perjuicio de que la sección de ejecución continúe en poder del juez a quo, para resolver lo concerniente al depósito, a las cuentas, gastos y administración, y de que siga conociendo de las medidas provisionales decretadas durante el juicio.
 
 ARTICULO 703
 
@@ -4526,11 +4588,11 @@ ARTICULO 705
 
 En caso de que el apelante omitiera en el término de la ley expresar los agravios, se tendrá por desierto el recurso, haciendo la declaración el superior sin necesidad de acusarse la rebeldía correspondiente.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 706
 
-En los escritos de expresión de agravios y contestación, tratándose de apelación de sentencia definitiva la partes pueden ofrecer pruebas, espacificando (sic) los puntos sobre que deben versar, que nunca serán extraños a la cuestión debatida, y en las hipótesis de los artículos 708 y 709.
+En los escritos de expresión de agravios y contestación, tratándose de apelación de sentencia definitiva, las partes sólo podrán ofrecer pruebas cuando hubiere ocurrido algún hecho que importe excepción superviniente (sic), especificando los puntos sobre los que debe versar, que no serán extraños a la cuestión debatida.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -4538,19 +4600,13 @@ ARTICULO 707
 
 Dentro del tercer día, el tribunal resolverá la admisión de las pruebas.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
 ARTICULO 708
 
-Sólo podrá otorgarse el recibimiento de prueba en la segunda instancia.
-
-I.- Cuando por cualquier causa no imputable al que se solicite la prueba, no hubiere podido practicarse en la primera instancia toda o parte de la que hubiere propuesto;
-
-II.- Cuando hubiere ocurrido algún hecho que importe excepción superveniente.
+> <small>(DEROGADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 709
 
-Sin necesidad de recibir el pleito a prueba, podrán pedir los litigantes desde que se pongan los autos a su dispisición (sic) en la secretaría del tribunal, hasta antes de la celebración de la vista, que la parte contraria rinda confesión judicial por una sola vez con tal de que sea sobre hechos que relacionados con los puntos controvertidos, no fueron objeto de posiciones en la primera instancia, y que reciba la prueba documental de los instrumentos a que se refiere el artículo 98.
+> <small>(DEROGADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 710
 
@@ -4562,17 +4618,17 @@ ARTICULO 711
 
 En el auto de calificación de pruebas la Sala ordenará se reciban en forma oral y señalará la audiencia dentro de los veinte días siguientes.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 712
 
-Contestados los agravios o perdido el derecho de hacerlo, si no hubiere promovido prueba o concluída la recepción de las que se hubiere admitido, se darán cinco días comunes para alegar y pasados que sean, serán citadas las partes para sentencia, que se pronunciará en el término que señala el artículo 87.
+Contestados los agravios o perdido el derecho de hacerlo, si no se hubiere promovido prueba, serán citadas las partes para sentencia.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 713
 
-Cuando se ofrezcan pruebas en segunda instancia desde el auto de admisión, se fijará la audiencia dentro de los veinte días siguientes procediéndose desde luego, a la preparación de ellas. Regirá en este caso lo dispuesto en la sección I del capítulo IV del título sexto.
+Cuando se ofrezcan pruebas en segunda instancia, desde el auto de admisión, se fijará la audiencia dentro de los veinte días siguientes, procediéndose a su preparación y desahogo. Concluida la audiencia alegarán verbalmente las partes y se les citará para sentencia.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -4638,77 +4694,87 @@ A las controversias que versen sobre arrendamiento de fincas urbanas destinadas 
 
 El Juez tendrá las más amplias facultades para decidir en forma pronta y expedita lo que en derecho convenga.
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 958
 
-Para el ejercicio de cualesquiera de las acciones previstas en este artículo el arrendador deberá exhibir el contrato de arrendamiento correspondiente con el escrito inicial de demanda. A falta de este requisito no se dará curso a su acción.
+Para el ejercicio de cualesquiera de las acciones previstas en este título el arrendador deberá exhibir con su demanda, el contrato de arrendamiento correspondiente, en caso de haberse celebrado por escrito.
 
-(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 959
 
-Una vez presentada la demanda con los documentos y copias requeridas, se correrá traslado de ella a la parte demandada citando a las partes para que concurran en un término de tres días al Juzgado para que tenga verificativo la audiencia conciliatoria respectiva. Emplazándolo para que en los cinco días siguientes a la celebración de dicha audiencia conteste la demanda, oponga excepciones y haga valer su defensa en los términos del Capítulo I, Título Sexto de este ordenamiento.
+Una vez admitida la demanda con los documentos y copias requeridas, se correrá traslado de ella a la parte demandada, y se le emplazará para que la conteste dentro del término de cinco días.
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 960
 
-A la audiencia conciliatoria las partes deberán comparecer personalmente por medio de apoderado o representante legal, quien deberá acreditar tal carácter, así como facultades expresas para transigir, en los términos de ley. Si alguna de ellas fuese persona moral, deberá concurrir su administrador o quien legalmente la represente.
+El demandado formulará la contestación en los términos prevenidos por el artículo 260 de este código. Si opusiere excepciones de conexidad, litispendencia o cosa juzgada, se dará vista con ellas al actor para que ofrezca las pruebas que considere oportuno.
 
-En la audiencia conciliatoria, el Juez a través del conciliador escuchará las pretensiones de las partes y procurará una amigable composición. Si se obtiene el acuerdo entre las partes, se celebrará el convenio respectivo, que si reune los requisitos de ley, será aprobado por el Juez y tendrá efectos de sentencia ejecutoriada, dándose con ello, por terminado el juicio.
+En los casos en que el demandado oponga reconvención, se correrá traslado con ella al actor a fin de que conteste en un término de cinco días.
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+En caso de que el arrendatario no conteste la demanda o la reconvención, se entenderán en uno y otro casos negados los hechos.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 961
 
-Si el actor no concurre a la audiencia conciliatoria se le tendrá por desistido de la demanda.
+Una vez contestada la demanda y, en su caso, la reconvención el juez señalará de inmediato fecha y hora para la celebración de una audiencia previa y de conciliación dentro de los cinco días siguientes.
 
-Si el demandado no concurre a la audiencia conciliatoria, o en ella no se logra la avenencia de las partes, se asentará esto en autos, y en la misma audiencia el Juez citará al demandado para que, en el término de 5 días conteste la demanda, oponga excepciones y haga valer sus defensas conforme a lo dispuesto por el Capítulo Primero, Título Sexto de este ordenamiento.
+Si una de las partes no concurre sin causa justificada, el juez la sancionará con una multa hasta por los montos establecidos en la fracción II del artículo 62 de este código. Si dejaren de concurrir ambas partes sin justificación, el juzgador las sancionará de igual manera. En ambos casos el juez procederá a examinar las cuestiones relativas a la depuración del juicio.
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+Si asistieren las dos partes, el juez examinará las cuestiones relativas a la legitimación procesal y luego se procederá a procurar la conciliación que estará a cargo del conciliador adscrito al juzgado.
+
+El conciliador escuchará las pretensiones de las partes y propondrá alternativas de solución al litigio, procurando una amigable composición. Si se obtiene el acuerdo entre las partes, se celebrará el convenio respectivo, que si reúne los requisitos de ley, será aprobado por el juez y tendrá fuerza de cosa juzgada, dándose con ello, por terminado el juicio.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 962
 
-En los casos en que el demandado oponga reconvención se correrá traslado con ella al actor a fin de que conteste en un término de cinco días.
+En caso de desacuerdo entre los litigantes, el juez continuará con el desarrollo de la audiencia, y con las más amplias facultades de dirección procesal, examinará, en su caso, las excepciones de conexidad, litispendencia y cosa juzgada, con el fin de depurar el procedimiento.
 
-En caso de que el arrendatario no conteste la demanda o la reconvención se entenderá en uno y otro caso negados los hechos.
+La resolución que dicte el juez en la audiencia previa y de conciliación, será apelable en el efecto devolutivo.
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 963
 
-Una vez transcurridos los plazos señalados en los artículos anteriores se abrirá el juicio a prueba, siendo de diez días fatales el periodo para su ofrecimiento que empezarán a contar a partir de que surta efectos del auto que tuvo por contestada la demanda o la reconvención en su caso.
+Concluida la audiencia previa y de conciliación, el juez mandará recibir el pleito a prueba, por el término de diez días fatales para su ofrecimiento, que empezarán a contarse desde el día siguiente al de la notificación del auto que manda abrir el juicio a prueba.
 
-> <small>(F. DE E., D.O.F. 29 DE MARZO DE 1985)</small>
-
-Las partes aportarán las pruebas que hayan ofrecido y deberán presentar a sus testigos y peritos. De manifestar bajo protesta de decir verdad no estar en aptitud de hacerlo, se impondrá al actuario del Juzgado la obligación de citar a los primeros y de hacer saber su cargo a los segundos, citándolos para la audiencia respectiva en la que deberán rendir su testimonio o su dictamen pericial. En dicha citación se hará apercibimiento de arresto hasta por 3 días de no comparecer el testigo o el perito que haya aceptado el cargo, sin causa justificada. Al oferente se impondrá una multa de diez veces el salario mínimo diario general vigente en el Distrito Federal en caso de que el señalamiento del domicilio de los testigos o peritos resulte inexacto, sin perjuicio de que se denuncie la falsedad resultante.
-
-En caso de que por segunda vez no concurran los peritos o los testigos, sin justa causa, a pesar de haber sido legalmente citados, el Juez, bajo su responsabilidad podrá declarar la deserción de una u otras pruebas.
-
-Esta sanción se aplicará también en caso de comprobarse que la prueba se ofreció con el propósito de retardar el procedimiento.
-
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+Para el ofrecimiento, admisión, preparación y desahogo de pruebas, se seguirán las reglas establecidas para el juicio ordinario civil.
 
 ARTICULO 964
 
-Dentro de los ocho días siguientes al período de ofrecimiento de pruebas señalado en el artículo que antecede el Juez citará a las partes a la audiencia de pruebas y alegatos.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1987)</small>
 
-En dicha audiencia se observarán las reglas siguientes:
-
-I.- El Juez sólo admitirá las pruebas que se refieran a los hechos controvertidos;
-
-II.- Las pruebas se desahogarán en la audiencia en el orden que el Juez determine, atento su estado de preparación;
-
-III.- Se oirán los alegatos de ambas partes;
-
-IV.- El Juez pronunciará su sentencia de manera breve y concisa o a más tardar dentro de los ocho días siguientes a la celebración de la audiencia.
+Dentro de los ochos (sic) días siguientes a la conclusión del período de ofrecimiento de pruebas, el juez citará a las partes a la audiencia de pruebas, alegatos y sentencia.
 
 > <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
+En dicha audiencia se observarán las reglas siguientes:
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+I.- El Juez sólo admitirá las pruebas que se refieran a los hechos controvertidos;
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+II.- Las pruebas se desahogarán en la audiencia en el orden que el Juez determine, atento su estado de preparación;
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+III.- Se oirán los alegatos de ambas partes;
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
+
+IV.- El Juez pronunciará su sentencia de manera breve y concisa o a más tardar dentro de los ocho días siguientes a la celebración de la audiencia.
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
+
 ARTICULO 965
 
-Los incidentes no suspenderán el procedimiento. Se sustanciarán con un escrito de cada parte, en los cuales deberán ofrecerse las pruebas. En el plazo improrrogable de 8 días se celebrará la audiencia incidental en la que el Juez decidirá sobre la admisión de las pruebas, recibirá las que sean conducentes y escuchará los alegatos. La resolución deberá pronunciarse en la audiencia incidental.
+Los incidentes no suspenderán el procedimiento. Se substanciarán en los términos del artículo 88 de este código, pero la resolución deberá pronunciarse en la audiencia incidental.
 
 > <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
@@ -4966,9 +5032,7 @@ ARTICULO 35
 
 El tercero que considere perjudicados sus derechos al ejecutarse la sentencia ocurrirá al juez de paz, presentando sus pruebas y el juez, con audiencia inmediata de las partes, resolverá si subsiste o no el secuestro o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa ni sobre otros hechos controvertidos.
 
-ARTICULO 36
-
-> <small>(DEROGADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+ARTICULO 36 (DEROGADO, D.O.F. 7 DE FEBRERO DE 1985)
 
 Incidentes
 
@@ -5040,7 +5104,9 @@ El recurso de queja tiene lugar:
 
 I.- Contra el juez que se niega a admitir una demanda o desconoce de oficio la personalidad de un litigante antes del emplazamiento;
 
-II.- Respecto a las interlocutorias dictadas en la ejecución de sentencias;
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 1987)</small>
+
+II.- Respecto a las interlocutorias dictadas para la ejecución de sentencias;
 
 III.- Contra la denegación de apelación;
 
@@ -6863,3 +6929,21 @@ Si ya se hubiere resuelto la suspensión por tratarse de un artículo de previo 
 ###### ARTICULO TERCERO.
 
 Los conciliadores a que se refiere el artículo 272-A, serán designados en la medida de las posibilidades presupuestales. Entre tanto son nombrados los conciliadores, el Pleno del Tribunal podrá determinar que sus funciones sean desempeñadas por los secretarios judiciales o por pasantes en Derecho, fijándose en el presupuesto correspondiente los emolumentos reservados para el desempeño de este servicio.
+
+D.O.F. 14 DE ENERO DE 1987.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los noventa días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos que se encuentren en trámite al momento de entrar en vigor las reformas contenidas en el presente Decreto, continuarán su tramitación conforme a las normas del mismo.
+
+###### ARTICULO TERCERO.
+
+Las cuestiones de competencia y recusación con causa que se encuentren en trámite al momento de entrar en vigor las reformas contenidas en este Decreto, continuarán su tramitación conforme a las normas con que se iniciaron las mismas.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones legales que se opongan a lo dispuesto por el presente Decreto.
