@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1980-12-19"
+last_updated: "1981-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -2242,6 +2242,8 @@ El Director General tendrá derecho de veto sobre las resoluciones del Consejo T
 
 ### CAPITULO II. De los Procedimientos
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 259.
 
 La inversión de las reservas debe hacerse en las mejores condiciones de seguridad, rendimiento y liquidez.
@@ -2318,7 +2320,9 @@ Cuando los trabajadores de una empresa reciban los bienes de ésta en pago de pr
 
 ###### ARTICULO 271.
 
-El procedimiento administrativo de ejecución de las liquidaciones que no hubiesen sido cubiertas directamente al Instituto, se realizará por conducto de la Oficina Federal de Hacienda que corresponda, con sujeción a las normas del Código Fiscal de la Federación. Dichas oficinas procederán inmediatamente al requerimiento y cobro de los créditos, ajustándose a las bases señaladas por el Instituto. Obtenido el pago, los jefes de las Oficinas Ejecutoras, bajo su responsabilidad, entregarán al Instituto las sumas recaudadas.
+El procedimiento administrativo de ejecución para el cobro de las liquidaciones que no hubiesen sido cubiertas oportunamente al Instituto Mexicano del Seguro Social se aplicará por la Secretaría de Hacienda y Crédito Público, o por el propio Instituto a través de Oficinas para Cobros del citado Instituto Mexicano del Seguro Social.
+
+Las Oficinas para Cobros del Instituto Mexicano del Seguro Social aplicarán el procedimiento administrativo de ejecución, con sujeción a las normas del Código Fiscal de la Federación y demás disposiciones aplicables. Las propias oficinas conocerán y resolverán los recursos previstos en el Código Fiscal de la Federación relativos al procedimiento administrativo de ejecución que lleven a cabo.
 
 ###### ARTICULO 272.
 
@@ -2637,3 +2641,21 @@ El Instituto Mexicano del Seguro Social deberá efectuar el pago de las mejoría
 ###### ARTICULO QUINTO.
 
 El presente decreto entrará en vigor en toda la República el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1981.
+
+SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1982.
+
+...
+
+ARTICULO DECIMONOVENO.- Los recursos interpuestos en contra de procedimientos de ejecución que se encuentren en trámite en las Oficinas Federales de Hacienda para cobros del Seguro Social, al entrar en vigor esta Ley se seguirán tramitando y resolverán por dichas oficinas.
+
+Los trabajadores que se encuentren prestando sus servicios en las Oficinas Federales de Hacienda para cobros del Instituto Mexicano del Seguro Social, al iniciar la vigencia de esta Ley, dispondrán de un plazo de sesenta días para optar por su reubicación en alguna otra dependencia de la Secretaría de Hacienda y Crédito Público, o bien, por incorporarse como empleado del propio Instituto.
+
+En cualquier caso, no se afectarán sus percepciones económicas ni los derechos de antigüedad que hubieren adquirido.
+
+Las Oficinas Federales de Hacienda para Cobros del Seguro Social que se encuentren funcionando a la entrada en vigor de esta Ley, pasarán a depender del Instituto como Oficinas para Cobros del Seguro Social y continuarán ejecutando la cobranza que tienen encomendada. La Secretaría de Hacienda y Crédito Público y el Instituto tomarán las medidas necesarias para hacer dicha transferencia.
