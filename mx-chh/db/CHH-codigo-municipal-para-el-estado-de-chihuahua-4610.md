@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2001-06-06"
+last_updated: "2001-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2001.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1451,9 +1451,11 @@ El personal de los cuerpos de policía y bomberos se regirá por los reglamentos
 
 Los Municipios podrán celebrar convenios entre sí o con instituciones públicas o privadas para la prestación de los servicios de Seguridad Social a sus trabajadores.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 78.
 
-En cada Municipio existirá un tribunal de arbitraje, accidental o permanente, para resolver los conflictos de trabajo individuales o colectivos; integrándose por un representante del Municipio, uno de los trabajadores y otro, designado de común acuerdo entre ellos, que tendrá el carácter de Presidente. El tribunal de arbitraje se sujetará al procedimiento establecido en el Código Administrativo del Estado.
+En cada Municipio existirá un Tribunal de Arbitraje, el cual podrá funcionar accidental o permanentemente, para resolver los conflictos de trabajo individuales o colectivos; integrándose por un representante del municipio, uno de los trabajadores y otro, designado de común acuerdo entre ellos, quien tendrá el carácter de Presidente. El Tribunal de Arbitraje se constituirá dentro de los treinta días siguientes a aquel en que se haya presentado la demanda y se sujetará al procedimiento establecido en el Código Administrativo.
 
 ### CAPITULO III. DE LOS ORGANOS DE COLABORACION
 
@@ -3102,3 +3104,7 @@ SEXTO.- En la realización de las acciones conducentes al cumplimiento del prese
 P.O. 6 DE JUNIO DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE AGOSTO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
