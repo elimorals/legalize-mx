@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-los-sistemas-de-ahorro-para-el-8814"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-10-10"
-last_updated: "1998-01-20"
+last_updated: "2004-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8814&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-10-09"
 
 REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO, PUBLICADO EN EL D.O.F. DE 30 DE ABRIL DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el jueves 10 de octubre de 1996.
 
@@ -173,7 +175,7 @@ VIII. Informar a las administradoras sobre las tasas de rendimiento que deberán
 
 IX. Las demás que señalen la ley, el presente reglamento y su título de concesión.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE ENERO DE 1998)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 20 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 15.
 
@@ -191,7 +193,7 @@ III. Coordinar los procesos de traspaso y unificación, considerando como admini
 
 La recaudación de las cuotas de el seguro, de las aportaciones al Fondo Nacional de la Vivienda y, en su caso, de las aportaciones voluntarias, se llevará a cabo por las entidades receptoras, que actuarán por cuenta y orden de los institutos de seguridad social respectivos, mediante su previa autorización a través del convenio que celebren con éstos.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 20 DE ENERO DE 1998)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 20 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 17.
 
@@ -413,7 +415,7 @@ La administradora transferente deberá efectuar la transferencia de los recursos
 
 Las entidades receptoras, al recibir la información y los recursos relativos a las obligaciones obrero patronales, deberán depositar los recursos correspondientes a el seguro y, en su caso, las aportaciones voluntarias en la cuenta concentradora a que se refiere el artículo 75 de la ley, dentro de un plazo máximo de cuatro días hábiles contados a partir de su recepción. Además, deberán informar a las empresas operadoras las transacciones correspondientes, ajustándose a los formatos y características establecidos al efecto.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 20 DE ENERO DE 1998)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 20 DE ENERO DE 1998)</small>
 
 Tratándose de los recursos provenientes de las aportaciones al Fondo Nacional de la Vivienda y de los descuentos a los trabajadores por concepto de créditos otorgados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dichas entidades deberán transferirlos al Banco de México en los términos de la Ley del mencionado Instituto.
 
@@ -537,7 +539,7 @@ Cuando se detecte la existencia de una cuenta individual que debió ser utilizad
 
 Las administradoras deberán comunicar al Instituto Mexicano del Seguro Social las sumas de los recursos que retiren los trabajadores por los conceptos establecidos en los artículos 165 y 191 de la Ley del Seguro Social.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 20 DE ENERO DE 1998)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 20 DE ENERO DE 1998)</small>
 
 #### Sección XI. De las Pensiones en Curso de Pago
 
@@ -979,8 +981,28 @@ SEPTIMO.- Los artículos de la Ley del Seguro Social que se citan en este reglam
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de octubre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Guillermo Ortiz.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 20 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE ABRIL DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el párrafo siguiente.
+
+Lo previsto en el artículo 35, exclusivamente por lo que se refiere a las aportaciones complementarias de retiro, así como lo establecido en los artículos 59 al 132 del presente Reglamento, entrará en vigor conforme a lo establecido en el segundo párrafo del Artículo Primero Transitorio del decreto por el que se reforma y adiciona la Ley de los Sistemas de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el 10 de diciembre de 2002.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Ley de los Sistemas de Ahorro para el Retiro publicado en el Diario Oficial de la Federación el día 10 de octubre de 1996, salvo lo dispuesto en el artículo cuarto transitorio. Asimismo, se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los acuerdos, circulares, reglas de carácter general, acuerdos delegatorios y demás disposiciones y actos administrativos de carácter general, expedidos por la Comisión Nacional del Sistema de Ahorro para el Retiro antes de la entrada en vigor del presente Reglamento, continuarán en vigor y conservarán plena validez y eficacia jurídicas, en lo que no se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los trámites y procedimientos pendientes de resolución a la fecha de entrada en vigor del presente Reglamento, se resolverán conforme a las disposiciones del Reglamento de la Ley de los Sistemas de Ahorro para el Retiro publicado en el Diario Oficial de la Federación el día 10 de octubre de 1996.
