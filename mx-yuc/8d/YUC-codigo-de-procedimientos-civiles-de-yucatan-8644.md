@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "1999-12-13"
+last_updated: "2004-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 2004.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -395,7 +395,7 @@ II.- El auxilio de la fuerza pública.
 
 ###### ARTICULO 62.
 
-Siempre que cualquier ciudadano se rehúse a cumplir alguna disposición dictada por la autoridad judicial, después de haber sido requerido debidamente, el tribunal que conozca del negocio deberá de oficio consignar el hecho al Ministerio Público, con las constancias correspondientes, sin perjuicio de los medios de apremio que el artículo anterior establece.
+Siempre que cualquier ciudadano se rehuse a cumplir alguna disposición dictada por la autoridad judicial, después de haber sido requerido debidamente, el tribunal que conozca del negocio deberá de oficio consignar el hecho al Ministerio Público, con las constancias correspondientes, sin perjuicio de los medios de apremio que el artículo anterior establece.
 
 ### CAPITULO VI. De las costas
 
@@ -1495,6 +1495,10 @@ También podrán concurrir a ella los testigos de identidad o peritos que fueren
 
 Del reconocimiento se levantará acta que firmarán los que a él concurran, asentándose los puntos que lo provocaron, las observaciones, declaraciones de peritos y todo lo necesario para esclarecer la verdad. Cuando fuere preciso se levantarán planos o se sacarán vistas fotográficas del lugar u objeto inspeccionado.
 
+> <small>(ADICIONADO, D.O. 6 DE JULIO DE 2004)</small>
+
+Cuando una de las partes se oponga a la inspección o reconocimiento judicial ordenados por el tribunal, para conocer sus condiciones físicas o mentales, o no conteste las preguntas que le dirija el juez, deben de tenerse por ciertas las afirmaciones de la contraparte, salvo prueba en contrario. Lo mismo se hará si una de las partes no exhibe a la inspección del tribunal, la cosa o documento que tiene en su poder, siempre que esto esté debidamente acreditado, o que por disposición de la ley deba tenerlo.
+
 ### CAPITULO VII. De la prueba testimonial
 
 > <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
@@ -1515,7 +1519,7 @@ III.- Los ebrios consuetudinarios.
 
 IV.- El que haya sido declarado testigo falso o condenado por delito contra la propiedad o por falsedad.
 
-V.- El tahur.
+V.- El tahúr.
 
 VI.- Los parientes por consanguinidad dentro del cuarto grado, y por afinidad dentro del segundo, a no ser que el juicio verse sobre edad, parentesco, filiación, divorcio o nulidad de matrimonio.
 
@@ -1573,7 +1577,7 @@ Si el testigo no reside en el lugar del juicio, será examinado por el Juez del 
 
 ###### ARTICULO 280.
 
-Las partes pueden asistir al acto del interrogatorio de los testigos y formular las preguntas que deseen hacerles; pero no podrán interrumpirlos. Sólo cuando el testigo deje de contestar a algún punto o haya incurrido en contradicción, o se haya expresado con ambigiiedad, pueden las partes llamar la atención del Juez, para que éste exija al testigo las aclaraciones oportunas. El testigo que incurra en contradicción será consignado de oficio al Ministerio Público.
+Las partes pueden asistir al acto del interrogatorio de los testigos y formular las preguntas que deseen hacerles; pero no podrán interrumpirlos. Sólo cuando el testigo deje de contestar a algún punto o haya incurrido en contradicción, o se haya expresado con ambigüedad, pueden las partes llamar la atención del Juez, para que éste exija al testigo las aclaraciones oportunas. El testigo que incurra en contradicción será consignado de oficio al Ministerio Público.
 
 > <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
 
@@ -1977,7 +1981,7 @@ Procederá el juicio de revisión de sentencia ejecutoria, cuando el Juez o algu
 
 ###### ARTICULO 357.
 
-El recurso de aclaración de sentencia sólo procede, una vez, respecto de la definitivas.
+El recurso de aclaración de sentencia sólo procede, una vez, respecto de las definitivas.
 
 ###### ARTICULO 358.
 
@@ -2789,7 +2793,7 @@ Las tercerías son coadyuvantes o excluyentes. Es coadyuvante la tercería que a
 
 ###### ARTICULO 509.
 
-Las tercería deberá deducirse en los términos prescritos para formular una demanda, ante el Juez que conoce del juicio.
+La tercería deberá deducirse en los términos prescritos para formular una demanda, ante el Juez que conoce del juicio.
 
 ###### ARTICULO 510.
 
@@ -2823,7 +2827,7 @@ Cuando se presenten tres o más opositores, si estuvieren conformes, se seguirá
 
 ###### ARTICULO 517.
 
-La interposición de un tercería excluyente autoriza al demandante a pedir que se mejore la ejecución en otros bienes del deudor.
+La interposición de una tercería excluyente autoriza al demandante a pedir que se mejore la ejecución en otros bienes del deudor.
 
 ###### ARTICULO 518.
 
@@ -2919,7 +2923,7 @@ En las acciones mancomunadas, por título de herencia o legado, sean reales o pe
 
 I.- Si no se ha nombrado interventor ni albacea, puede ejercitarlas cualquiera de los herederos o legatarios.
 
-II.- Si se ha nombrado interventor o albacea, sólo a éstos compete la facultad de deducirlas en juicio, y únicamente podrán hacerlo los herederos o legatarios, cuando excitados por ellos, el albacea o el interventor se rehúsen a hacerlo.
+II.- Si se ha nombrado interventor o albacea, sólo a éstos compete la facultad de deducirlas en juicio, y únicamente podrán hacerlo los herederos o legatarios, cuando excitados por ellos, el albacea o el interventor se rehusen a hacerlo.
 
 ###### ARTICULO 532.
 
@@ -3463,7 +3467,7 @@ Lo dispuesto en las fracciones XI y XII del artículo anterior, no comprende el 
 
 ###### ARTICULO 620.
 
-Hecho el embargo, se emplazará al deudor en persona, conforme al artículo 611, o si se ignorare su paradero conforme al artículo 612, para que dentro de tres días, ocurra a hacer el pago o a oponerse a la ejecución contestando la demanda y nombrando perito avaluador; igualmente se notificará al acreedor nombre perito por su parte.
+Hecho el embargo, se emplazará al deudor en persona, conforme al artículo 611, o si se ignorare su paradero conforme al artículo 612, para que dentro de tres días, ocurra a hacer el pago o a oponerse a la ejecución contestando la demanda y nombrando perito avaluador (sic); igualmente se notificará al acreedor nombre perito por su parte.
 
 Si se embargaren bienes raíces servirá de base para el remate el avalúo catastral, y no será necesario el nombramiento de peritos.
 
@@ -4493,7 +4497,7 @@ Los negocios en que se interesen menores o establecimientos públicos, no pueden
 
 ###### ARTICULO 836.
 
-Lo dispuesto en el artículo anterior, se observará también en los concursos, testamentarías e intestados en que se interesen menores.
+Lo dispuesto en el artículo anterior, se observará también en los concursos, testamentarias e intestados en que se interesen menores.
 
 ###### ARTICULO 837.
 
@@ -4749,7 +4753,7 @@ Siempre que corresponda al Juez el nombramiento de tutor, conforme a lo prevenid
 
 ###### ARTICULO 881.
 
-Cuando expire el término de los edictos y transcurran cinco días más sin que se presente algún pariente del incapacitado, se procederá al nombramiento de tutor dativo. Se hará lo mismo en caso de suma urgencia, aun cuando no haya concluído dicho término.
+Cuando expire el término de los edictos y transcurran cinco días más sin que se presente algún pariente del incapacitado, se procederá al nombramiento de tutor dativo. Se hará lo mismo en caso de suma urgencia, aun cuando no haya concluido dicho término.
 
 ###### ARTICULO 882.
 
@@ -5837,7 +5841,7 @@ Debe indicar además los nombres y domicilio de los parientes en línea recta y 
 
 ###### ARTICULO 1076.
 
-El Juez tendrá por radicada la sucesión y mandará notificarlo por cédula o correo certificado a las personas señaladas como descendientes, ascendientes y cónyuge supérstite o en su defecto como parientes colaterales dentro del tercer grado, haciéndoles saber el nombre del finado con las demás particularidades que lo identificaren y la fecha y lugar del fallecimiento para que justifiquen sus derechos a la herencia y nombren albacea.
+El Juez tendrá por radicada la sucesión y mandará notificarlo por cédula o correo certificado a las personas señaladas como descendientes, ascendientes y cónyuge supérstite o en su defecto como parientes colaterales dentro del tercer grado, haciéndoles saber el nombre del finado con las demás particulares que lo identificaren y la fecha y lugar del fallecimiento para que justifiquen sus derechos a la herencia y nombren albacea.
 
 ###### ARTICULO 1077.
 
@@ -5917,7 +5921,7 @@ El Juez puede concurrir, cuando lo estime conveniente.
 
 ###### ARTICULO 1091.
 
-Los herederos, dentro de los diez días que sigan a la declaración o reconocimiento de sus derechos, designarán, a mayoría de votos, un perito avaluador, y si no lo hicieren o no se pusieren de acuerdo, el Juez lo designará.
+Los herederos, dentro de los diez días que sigan a la declaración o reconocimiento de sus derechos, designarán, a mayoría de votos, un perito avaluador (sic), y si no lo hicieren o no se pusieren de acuerdo, el Juez lo designará.
 
 ###### ARTICULO 1092.
 
@@ -6089,7 +6093,7 @@ El auto que apruebe o repruebe la cuenta es apelable.
 
 ###### ARTICULO 1125.
 
-Concluído y aprobado el inventario, el albacea procederá a la liquidación de la herencia.
+Concluido y aprobado el inventario, el albacea procederá a la liquidación de la herencia.
 
 ### CAPITULO VII. De la tramitación por Notarios
 
@@ -6401,7 +6405,7 @@ D.O. 19 DE MARZO DE 1970.
 
 ###### ARTICULO PRIMERO.
 
-Se derogan las disposiciones que se opongan a la reformas de los artículos 34 y 6 de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Local, respectivamente y a ese Decreto.
+Se derogan las disposiciones que se opongan a las reformas de los artículos 34 y 6 de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Local, respectivamente y a ese Decreto.
 
 ###### ARTICULO SEGUNDO.
 
@@ -6446,3 +6450,7 @@ D.O. 13 DE DICIEMBRE DE 1999.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 6 DE JULIO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
