@@ -4,7 +4,7 @@ identifier: "SON-ley-de-responsabilidades-de-los-servidores-publicos-del-8399"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-09"
-last_updated: "1993-04-26"
+last_updated: "1998-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE ABRIL DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el lunes 9 de abril de 1984.
 
@@ -43,9 +43,11 @@ DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS.
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 1o.
 
-Las responsabilidades de los servidores públicos del Estado y de los Municipios se norman por las disposiciones de esta Ley, la que tiene por objeto establecer:
+Las responsabilidades de los Servidores Públicos del Estado y de los Municipios se norman por las disposiciones de esta Ley, la que tiene por objeto establecer:
 
 I.- Los sujetos de responsabilidad en el servicio público.
 
@@ -55,7 +57,9 @@ III.- Las responsabilidades políticas y administrativas de los servidores públ
 
 IV.- Las autoridades competentes y las vías para declarar la procedencia del procesamiento penal de los servidores públicos mencionados en el primer párrafo del Artículo 146 de la Constitución Política del Estado.
 
-V.- El registro patrimonial de los servidores públicos.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
+V.- La inscripción y registro ante el Instituto Catastral y Registral del Estado para efectos de publicidad de la declaración patrimonial de los servidores públicos, en caso de ser necesario.
 
 ###### ARTICULO 2o.
 
@@ -457,7 +461,9 @@ XXII.- Abstenerse de intervenir o participar indebidamente en la selección, nom
 
 XXIII.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la dependencia encargada de organizar, coordinar y aplicar el sistema de control, conforme a la competencia de ésta.
 
-XXIV.- Presentar con toda oportunidad y veracidad la declaración de su situación patrimonial en los términos que señala esta ley.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
+XXIV.- Presentar con toda oportunidad y veracidad la declaración inicial y final de su situación patrimonial y las actualizaciones de la misma en los términos que establece la presente Ley, para efecto de su registro ante la Secretaría de la Contraloría General del Estado y su inscripción y registro ante el Instituto Catastral y Registral del Estado para conocimiento público.
 
 > <small>(REFORMADA, B.O. 26 DE ABRIL DE 1993)</small>
 
@@ -765,9 +771,11 @@ En todos los casos, la prescripción a que alude este precepto, se interrumpirá
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 92.
 
-La Contraloría General del Estado llevará el registro de la situación patrimonial de los servidores públicos, de conformidad con esta ley y demás disposiciones aplicables.
+La Contraloría General del Estado llevará el registro de la situación patrimonial de los Servidores Públicos, de conformidad con esta Ley y demás disposiciones aplicables, tanto del Estado y de los Municipios, del Poder Legislativo, del Poder Ejecutivo, de los Organismos Descentralizados de la Administración Pública Estatal y Municipal, de los Tribunales Administrativos y del Trabajo, cuyas declaraciones estarán a disposición pública en el Instituto Catastral y Registral para su consulta, copia o publicación, según sea el caso, y de estimarse necesario su publicación, deberá acreditarse el interés legítimo del solicitante que calificará el vocal ejecutivo del Instituto.
 
 ###### ARTICULO 93.
 
@@ -793,9 +801,11 @@ También harán la declaración de que se trata, los demás servidores públicos
 
 El servidor público que en su declaración de situación patrimonial faltase a la verdad, en relación con lo que es obligatorio manifestar en los términos de esta Ley, será suspendido, y cuando por su importancia lo amerite, destituido o inhabilitado de tres meses a tres años, sin perjuicio de las investigaciones que el caso pudiere ameritar.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 94.
 
-La declaración de situación patrimonial deberá presentarse en los siguientes plazos:
+La declaración de situación patrimonial deberá presentarse para su registro ante la Secretaría de la Contraloría General del Estado, en los siguientes plazos:
 
 I.- Dentro de los sesenta días naturales siguientes a la toma de posesión.
 
@@ -803,13 +813,19 @@ II.- Dentro de los treinta días naturales siguientes a la conclusión del emple
 
 III.- Durante el mes de junio de cada año deberá presentarse la actualización de la declaración de situación patrimonial a que se refiere este Artículo, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la Fracción I de este precepto.
 
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
+IV.- Presentadas las declaraciones de que se trate para su registro ante la Contraloría General del Estado, ésta deberá enviar copia fiel de la misma dentro de los próximos 30 días hábiles siguientes, al vencimiento que corresponda, al Instituto Catastral y Registral, para su debida inscripción y registro y demás actos de publicidad que correspondan, de conformidad a lo establecido en la presente Ley y la Ley Catastral y Registral del Estado de Sonora.
+
 ###### ARTICULO 95.
 
 Si transcurrido el plazo a que se refiere la fracción I del artículo que antecede, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efectos el nombramiento respectivo, previa declaración de la Contraloría. Lo mismo ocurrirá cuando se omita la declaración contemplada en la fracción III del artículo que antecede.
 
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 96.
 
-La Contraloría General del Estado expedirá las normas y los formatos bajo los cuales el servidor público deberá de presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+La Contraloría General del Estado expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar la declaración de situación patrimonial, así como los manuales e instructivos que indicarán los bienes que es obligatorio declarar, mismos que deberá entregar oportunamente, y durante los próximos 10 días hábiles a partir que se actualice cualquiera de los supuestos del artículo 94 de la presente Ley.
 
 ###### ARTICULO 97.
 
@@ -914,3 +930,13 @@ Los asuntos que se encuentren en trámite ante los Organos de Control Interno de
 ###### ARTICULO TERCERO
 
 Los asuntos que se encuentren en trámite ante las dependencias y entidades de los municipios, y que se refieren a las materias que les corresponda conocer a las Contralorías Municipales, conforme lo establece la Ley Orgánica de Administración Municipal, le serán turnados a ellas con la finalidad de continuar con los procedimientos correspondientes hasta su total terminación.
+
+B.O. 14 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones y preceptos que en lo conducente se opongan a la presente Ley.
