@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-las-actividades-agropecuarias-del-estado-16192
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-28"
-last_updated: "1977-12-28"
+last_updated: "1983-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LAS ACTIVIDADES AGROPECUARIAS DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de diciembre de 1977.
 
@@ -65,11 +65,11 @@ Las empresas comprendidas en el artículo anterior gozarán por el término máx
 
 I.- IMPUESTO SOBRE NOMINAS.- Reducción del 50% al 100% a las personas físicas o morales que en sus predios rústicos desarrollen actividades agropecuarias, excluyendo a las establecidas en los municipios de Guadalupe, Garza García, Monterrey y San Nicolás.
 
-II.- IMPUESTO PREDIAL.- Reducción del 100% a las personas físicas o morales que con sus predios rústicos realicen actividades agropecuarias, excluyendo las establecidas en los municipios de Guadalupe, Garza García, Monterrey y San Nicolás.
+II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1983)
 
-III.- IMPUESTO SOBRE TRASLACION DE DOMINIO.- Reducción del 50% al 100% a las personas físicas o morales que adquieran inmuebles rústicos para el desarrollo de actividades agropecuarias, siempre que destinen los inmuebles de referencia íntegramente al desarrollo de dichas actividades, excluyendo las establecidas en los municipios de Guadalupe, Garza García, Monterrey y San Nicolás.
+III.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1983)
 
-IV.- IMPUESTO SOBRE TRASLADO DE DOMINIO.- Reducción del 50% al 100% a las personas físicas o morales que adquieran inmuebles rústicos para el desarrollo de actividades agropecuarias en el Estado, siempre que destinen los inmuebles de referencia íntegramente al desarrollo de dichas actividades, excluyendo las establecidas en los municipios de Guadalupe, Garza García, Monterrey y San Nicolás.
+IV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1983)
 
 V.- DERECHO DE INSCRIPCION EN EL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO.- Exención del 100% por la inscripción o registro de títulos, por virtud de las cuales se adquiera o grave el dominio o la posesión de bienes inmuebles, así como de bienes muebles que deban registrarse conforme a la ley, a las personas físicas o morales que desarrollen actividades agropecuarias en el Estado, siempre que destinen los inmuebles de referencia íntegramente al desarrollo de dichas actividades, excluyendo las establecidas en los municipios de Guadalupe, Garza García, Monterrey y San Nicolás.
 
@@ -134,3 +134,11 @@ FRANCISCO VALDES TREVIÑO
 EL SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 LEOPOLDO ANDRADE COSSIO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 1983.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1984.
+
+SEGUNDO.- Las franquicias respecto de los impuestos municipales que se hubieren otorgado conforme a la presente Ley, continuarán vigentes hasta agotar su término.
