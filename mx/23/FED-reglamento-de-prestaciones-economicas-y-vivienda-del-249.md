@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-prestaciones-economicas-y-vivienda-del-249"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-06-28"
-last_updated: "1994-04-19"
+last_updated: "1994-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1988-06-14"
 
 REGLAMENTO DE PRESTACIONES ECONOMICAS Y VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ABRIL DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE SEPTIEMBRE DE 1994.
 
-Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el martes 28 de junio de 1988.
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 28 de junio de 1988.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
@@ -385,25 +385,15 @@ De los Servicios de Prevención; de las Pensiones por Accidentes y Enfermedades 
 
 ###### ARTICULO 36.
 
-El Instituto prestará permanente y sistemáticamente servicios de prevención en materia de accidentes y enfermedades de trabajo en los centros laborales de las Afiliadas, tales como:
-
-I.- Promoción y coordinación de actividades de capacitación en materia de seguridad e higiene en el trabajo;
-
-II.- Investigación y estudios sobre el medio ambiente laboral; y
-
-III.- Promoción para la integración y funcionamiento de las Comisiones Mixtas de Seguridad e Higiene, así como de las Comisiones Consultivas Nacional y Estatales de Seguridad e Higiene del Sector Público Federal.
+(DEROGADO, D.O.F. 26 DE SEPTIEMBRE DE 1994)
 
 ###### ARTICULO 37.
 
-El Instituto promoverá la integración y funcionamiento de las comisiones Mixtas de Seguridad e Higiene de las Afiliadas y proporcionará los formatos para su integración, los cuales deberán devolverse debidamente requisitados para que un plazo máximo de 30 días se les notifique el número de registro asignado a sus Comisiones o , en su caso, las observaciones y deficiencias que lo impidan para que se subsanen dentro de un término igual.
-
-El Instituto establecerá un procedimiento que permita evaluar las actas de recorrido, con objeto de proponer las recomendaciones que en su caso procedan.
-
-Las actividades de promoción que realice el Instituto en relación con las Comisiones Consultivas Nacional y Estatales de Seguridad e higiene, estarán encaminadas a coordinar los trabajos y difundir las recomendaciones que se propongan.
+(DEROGADO, D.O.F. 26 DE SEPTIEMBRE DE 1994)
 
 ###### ARTICULO 38.
 
-Previa solicitud que los trabajadores, Afiliadas o sindicatos presenten al Instituto por conducto de las respectivas Comisiones Mixtas de Seguridad e Higiene, se realizarán las investigaciones y estudios necesarios para conocer las condiciones y el medio ambiente labora, en los cuales se desarrollen las actividades, a fin de proponer las medidas preventivas necesarias; para tales efectos, deberán satisfacer los requisitos señalados en el siguiente artículo.
+(DEROGADO, D.O.F. 26 DE SEPTIEMBRE DE 1994)
 
 ###### ARTICULO 39.
 
@@ -761,7 +751,7 @@ Atentamente.
 
 México, Distrito Federal a catorce de junio de mil novecientos ochenta y ocho.- El Director General, Alejandro Carrillo Castro.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO:</small>
 
 D.O.F. 19 DE ABRIL DE 1994.
 
@@ -778,3 +768,15 @@ QUINTA.- El porcentaje a que se hace referencia en la regla décima sexta, será
 SEXTA.- La tasa de interés a que se refiere la Regla vigésima séptima será del cuatro por ciento sobre el saldo ajustado y tendrá vigencia hasta el treinta y uno de diciembre de mil novecientos noventa y cuatro.
 
 SEPTIMA.- El porcentaje del enganche a que se refiere la Regla sexta no será superior al cincuenta por ciento del valor de la vivienda.
+
+D.O.F. 26 DE SEPTIEMBRE DE 1994.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMA QUE SE RELACIONAN CON EL REGLAMENTO.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan los artículos 36, 37 y 38 del Capítulo III, Sección Primera del Reglamento de Prestaciones Económicas y Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el 28 de junio de 1988.
