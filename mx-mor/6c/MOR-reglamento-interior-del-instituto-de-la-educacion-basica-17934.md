@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-instituto-de-la-educacion-basica-17934"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-31"
-last_updated: "2000-05-31"
+last_updated: "2003-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA EDUCACION BASICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE LA EDUCACION BASICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 23 DE JULIO DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 31 de mayo de 2000.
 
@@ -746,3 +748,11 @@ DIRECTOR DEL GASTO ADMINISTRATIVO
 EN REPRESENTACIÓN DE LA OFICIAL MAYOR DE GOBIERNO
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE JULIO DE 2003.
+
+PRIMERO. Se abroga el Reglamento Interior del Instituto de Educación Básica del Estado de Morelos, publicado el 31 de mayo del 2000 en el Periódico Oficial del Estado número 4055, y se derogan todas las disposiciones reglamentarias que contravengan lo dispuesto en el presente Reglamento.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" del Estado de Morelos.
