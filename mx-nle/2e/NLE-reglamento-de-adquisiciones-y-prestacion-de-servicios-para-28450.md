@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-y-prestacion-de-servicios-para-2845
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-03"
-last_updated: "2003-03-14"
+last_updated: "2004-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES Y PRESTACIÓN DE SERVICIOS PARA EL MUNICIPIO DE GRAL. ZUAZUA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el viernes 3 de enero de 2003.
 
@@ -103,29 +103,29 @@ V.- Emitir opinión respecto a la adjudicación de los pedidos y contratos;
 
 Todas las adquisiciones que realice el Municipio y los organismos del sector municipal, así como los servicios que se requieran deberán sujetarse a as (sic) siguientes reglas:
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
-Por asignación directa hasta 1,500 cuotas
+Por asignación directa hasta 2,400
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2003)</small>
+cuotas (por evento)
 
-Asignación directa mediante cotización
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
-por escrito cuando menos a tres
+Asignación directa mediante cotización por escrito 14,400 cuotas
 
-proveedores cuando el monto de la
+Cuando menos a tres proveedores cuando el monto (por evento)
 
-adquisición no exceda de 6,000 cuotas
+De la adquisición no exceda de
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2004)</small>
 
-licitación publica que se publicará
+Licitación publica que se publicara en el de 24,000 en
 
-en el Periódico Oficial del Estado
+Periódico Oficial del Estado o por lo menos delante (sic)
 
-o por lo menos en uno de los Diarios
+en uno de los Diarios de mayor circulación (por evento)
 
-de mayor circulación en el Estado de 6,001 en adelante
+en el Estado
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2003)</small>
 
@@ -288,3 +288,11 @@ P.O. 14 DE MARZO DE 2003.
 ## [N. DE E. TRANSITORIO DE LA "MODIFICACIÓN AL ARTÍCULO 8 DEL REGLAMENTO DE ADQUISICIONES".]
 
 PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2004.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS AL REGLAMENTO DE ADQUISICIONES”.]
+
+PRIMERO.- El presente Reglamento entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones municipales que contravengan lo dispuesto en el presente Reglamento.
