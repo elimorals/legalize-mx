@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "1995-09-15"
+last_updated: "1999-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE ENERO DE 1999.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -797,7 +797,7 @@ El presidente, cuando las circunstancias lo requieran, podrá tomar las medidas 
 
 Al inicio de cada período de sesiones, el Presidente de la Legislatura hará la declaratoria solemne de apertura del período de sesiones, en los términos siguientes:
 
-"La Honorable (número ordinal que corresponda) Legislatura del Estado Libre y Soberano de México, siendo las... horas del (día, mes y año), abre su (período que corresponda) de sesiones (ordinarias o extraordinarias)."
+"La Honorable (número ordinal que corresponda) Legislatura del Estado Libre y Soberano de México, siendo las ... horas del (día, mes y año), abre su (período que corresponda) de sesiones (ordinarias o extraordinarias)."
 
 ###### Artículo 131.
 
@@ -851,23 +851,41 @@ Las sesiones en las que el Gobernador del Estado rinda informe sobre el estado q
 
 I.- Lista de asistencia y declaración de quórum;
 
-II.- Uso de la palabra hasta por quince minutos a un diputado por cada una de las fracciones legislativas que integren la Legislatura;
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
 
-III.- Designación de comisiones protocolarias para recibir y conducir al interior del recinto al Gobernador del Estado y al Presidente del Tribunal Superior de Justicia, y posteriormente acompañarles en su salida del salón de sesiones;
+II.- Designación de comisiones protocolarias para recibir y conducir al interior del recinto al Gobernador y al Presidente del Tribunal Superior de Justicia, y posteriormente acompañarles en su salida del salón de sesiones;
 
-IV.- Receso;
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
+
+III.- Receso;
+
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
+
+IV.- Reanudación de la sesión;
 
 V.- Himno Nacional;
 
 VI.- Declaratoria solemne de apertura del período ordinario;
 
-VII.- Uso de la palabra al Gobernador del Estado para que rinda el informe;
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
 
-VIII.- Uso de la palabra por el Presidente de la Legislatura;
+VII.- Uso de la palabra hasta por siete minutos a un diputado por cada una de las fracciones legislativas que integren la Legislatura;
 
-IX.- Himno al Estado de México;
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
 
-X.- Clausura de la sesión.
+VIII.- Uso de la palabra al Gobernador del Estado para que rinda el informe;
+
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
+
+IX.- Uso de la palabra por el Presidente de la Legislatura;
+
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
+
+X.- Himno del Estado de México;
+
+> <small>(ADICIONADA, G.G. 15 DE ENERO DE 1999)</small>
+
+XI.- Clausura de la sesión.
 
 ###### Artículo 137.
 
@@ -1130,3 +1148,11 @@ DIPUTADO PRESIDENTE
 C. C. P. JORGE ADALBERTO BECERRIL REYES
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 15 DE ENERO DE 1999.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el día quince de enero de mil novecientos noventa y nueve.
