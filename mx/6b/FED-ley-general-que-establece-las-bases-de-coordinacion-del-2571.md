@@ -4,7 +4,7 @@ identifier: "FED-ley-general-que-establece-las-bases-de-coordinacion-del-2571"
 country: "mx"
 rank: "ley_general"
 publication_date: "1995-12-11"
-last_updated: "1998-01-23"
+last_updated: "2000-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2571&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-12-08"
 
 LEY GENERAL QUE ESTABLECE LAS BASES DE COORDINACION DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 11 de diciembre de 1995.
 
@@ -133,7 +133,9 @@ Las políticas, lineamientos y acciones de coordinación se llevarán a cabo med
 
 El Consejo Nacional será la instancia superior de coordinación del Sistema Nacional y estará integrado por:
 
-I. El Secretario de Gobernación, quien lo presidirá;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
+I. El Secretario de Seguridad Pública, quien lo presidirá;
 
 II. Los Gobernadores de los Estados;
 
@@ -155,9 +157,11 @@ Para el conocimiento de las distintas materias de coordinación a que se refiere
 
 Con la misma finalidad, se invitará a expertos, instituciones académicas, de investigación y agrupaciones del sector social y privado relacionadas con la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 14.
 
-El Consejo designará, a propuesta de su presidente, al Secretario Ejecutivo del Sistema Nacional de Seguridad Pública.
+El Consejo designará, a propuesta de su Presidente, al Secretario Ejecutivo del Sistema Nacional de Seguridad Pública, quien podrá ser removido libremente por dicho Presidente.
 
 El Secretario Ejecutivo del Sistema Nacional de Seguridad Pública deberá cumplir con los siguientes requisitos:
 
@@ -471,9 +475,11 @@ Los consejos de coordinación promoverán que las instituciones de seguridad pú
 
 ## TITULO CUARTO. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+
 ###### Artículo 52.
 
-Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado; deberán obtener autorización previa de la Secretaría de Gobernación, cuando los servicios comprendan varias entidades federativas; o de la autoridad administrativa que establezcan las leyes locales, cuando los servicios se presten sólo en el territorio de una entidad. Conforme a las bases que esta ley dispone, las instancias de coordinación promoverán que dichas leyes locales prevean los requisitos y condiciones para la prestación del servicio, la denominación, los mecanismos para su supervisión y las causas y procedimientos para determinar sanciones.
+Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado; deberán obtener autorización previa de la Secretaría de Seguridad Pública, cuando los servicios comprendan dos o más entidades federativas; o de la autoridad administrativa que establezcan las leyes locales, cuando los servicios se presten sólo en el territorio de una entidad. Conforme a las bases que esta ley dispone, las instancias de coordinación promoverán que dichas leyes locales prevean los requisitos y condiciones para la prestación del servicio, la denominación, los mecanismos para la supervisión y las causas y procedimientos para determinar sanciones.
 
 ###### Artículo 53.
 
@@ -508,3 +514,15 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 30 DE NOVIEMBRE DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
