@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-colegio-de-estudios-cientificos-y-28463
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-29"
-last_updated: "2003-01-29"
+last_updated: "2003-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2003.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de enero de 2003.
 
@@ -325,17 +325,21 @@ El Departamento de Estadística y Control Escolar, tendrá a su cargo controlar 
 
 El Departamento de Planeación, Programación y Evaluación tendrá como finalidad evaluar las acciones y actividades enmarcadas en el Programa Operativo Anual del Colegio, así como realizar la evaluación institucional y planear las acciones derivadas tanto de la expansión natural del Colegio, como por la creación de nuevos centros educativos.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2003)</small>
+
 ###### ARTÍCULO 30.
 
-La Dirección Administrativa, de la que dependen los Departamentos de Recursos Financieros y de Recursos Humanos y otras áreas de apoyo, tiene a su cargo controlar, coordinar y validar todas las actividades administrativas y financieras que conlleven a la realización de los objetivos del CECyTEN y proponer al Director General las políticas, normas, criterios, procedimientos e instrumentos para la administración de los recursos humanos, financieros y materiales del Colegio, así como vigilar la estricta observancia de la normatividad establecida al respecto.
+La Dirección Administrativa, de la que dependen los Departamentos de Recursos Financieros y de Personal y de Recursos Materiales y servicios, tiene a su cargo controlar, coordinar y validar todas las actividades administrativas y financieras que conlleven a la realización de los objetivos del CECyTEN y proponer al Director General las políticas, normas, criterios, procedimientos e instrumentos para la administración de los recursos humanos, financieros y materiales del Colegio, así como vigilar la estricta observancia de la normatividad establecida al respecto.
 
 ###### ARTÍCULO 31.
 
 El Departamento de Recursos Financieros tendrá a su cargo operar, supervisar y controlar los presupuestos de ingresos y egresos del Colegio, vigilando el adecuado cumplimiento de la normatividad presupuestaria emitida para tal efecto, así como resguardar, controlar y vigilar la aplicación de los recursos financieros del mismo y tramitar los pagos que por los diversos conceptos deban efectuarse.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2003)</small>
+
 ###### ARTÍCULO 32.
 
-El Departamento de Recursos Humanos tendrá a su cargo llevar el control de los movimientos del personal que labora en el Colegio, manteniendo actualizadas las plantillas del mismo y los expedientes respectivos, así como elaborar las nóminas correspondientes.
+El Departamento de Personal y de Recursos Materiales y Servicios tendrá a su cargo llevar el control de los movimientos del personal que labora en el Colegio, manteniendo actualizadas las plantillas del mismo y los expedientes respectivos, así como elaborar las nóminas correspondientes. Asimismo, tiene a su cargo adquirir, distribuir y controlar los materiales, bienes muebles y servicios indispensables para la realización de las actividades del Colegio.
 
 ###### ARTÍCULO 33.
 
@@ -456,3 +460,9 @@ Rpte. de la Contraloría del Estado.
 MTRO. MOISÉS CORRALES ZAVALZA
 
 Director General del Colegio y Secretario Técnico.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE AGOSTO DE 2003.
+
+La presente reforma entrará en vigor, al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
