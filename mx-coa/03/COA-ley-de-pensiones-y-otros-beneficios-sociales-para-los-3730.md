@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-3730"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-10"
-last_updated: "1993-08-10"
+last_updated: "1995-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 10 de agosto de 1993.
 
@@ -669,9 +669,13 @@ II.- Un Director, que será designado por el Gobernador del Estado.
 
 El Consejo Directivo se integrará de la siguiente manera:
 
-I.- Un Presidente, que será el Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1995)</small>
 
-II.- Dos Representantes del Gobierno del Estado, que serán los titulares de la Secretaría de Finanzas y de la Secretaría de Programación y Desarrollo; y
+I.- Un Presidente, que será el Secretario de Finanzas;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1995)</small>
+
+II.- Dos representantes del Gobierno del Estado, que serán designados por los Secretarios de Gobierno y de Desarrollo Social, respectivamente;
 
 III.- Dos Representantes nombrados por los Trabajadores al Servicio del Estado.
 
@@ -838,3 +842,11 @@ LIC. MIGUEL ARIZPE JIMENEZ
 EL SECRETARIO DE PROGRAMACION Y DESARROLLO
 
 LIC. JESUS GARCIA LOPEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE ENERO DE 1995.
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
