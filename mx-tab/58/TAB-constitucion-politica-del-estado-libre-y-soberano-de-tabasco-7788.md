@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1943-11-20"
+last_updated: "1944-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1944.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -523,7 +523,9 @@ Los Diputados que acepten la renuncia del Gobernador Constitucional sin llenarse
 
 ###### Art. 67.
 
-Durante los recesos del Congreso funcionará una Comisión Permanente compuesta de cinco Diputados con el carácter de Propietarios y dos con el carácter de Suplentes, que cubrirán las faltas de los primeros.
+Durante los recesos del Congreso funcionará una Comisión Permanente compuesta de tres Diputados con el carácter de Propietarios y uno con el carácter de Suplente, que cubrirá las faltas de los primeros.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1944)</small>
 
 ### CAPITULO IV.
 
@@ -531,7 +533,7 @@ FACULTADES DEL CONGRESO.
 
 ###### Art. 68.
 
-La Comisión Permanente no podrá celebrar sesiones sin la concurrencia de tres de sus miembros.
+La Comisión Permanente no podrá celebrar sesiones sin la concurrencia de dos de sus miembros.
 
 ###### Art. 69.
 
@@ -569,7 +571,7 @@ La elección de Gobernador será directa, en los términos que disponga la ley r
 
 COMISION PERMANENTE Y SUS ATRIBUCIONES.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1942)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1944)</small>
 
 ###### Art. 72.
 
@@ -1350,3 +1352,7 @@ UNICO.- Este Decreto surte sus efectos legales desde la fecha de su publicación
 P.O. 20 DE NOVIEMBRE DE 1943.
 
 UNICO.- Este Decreto comienza a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 1944.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos legales a partir del día 16 de septiembre del año en curso.
