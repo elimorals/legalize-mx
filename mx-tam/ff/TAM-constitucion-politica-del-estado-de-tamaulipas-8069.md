@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1999-01-20"
+last_updated: "1999-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1999.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -299,7 +299,7 @@ d).- Declarará Gobernador electo al ciudadano que hubiese obtenido el mayor nú
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 1997)</small>
 
-III.- La Ley establecerá un sistema de medios de impugnación para garantizar la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, y que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad; y fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, incluyendo la establecida en la fracción IV del Artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. Del sistema de medios de impugnación conocerán, según la competencia, el Organismo Público Autónomo a que se refiere este Artículo y el Tribunal Estatal Electoral.
+III.- La Ley establecerá un sistema de medios de impugnación para garantizar la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, y que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad; y fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, incluyendo la establecida en lafracción IV del Artículo 99 de la Constitución Política de los Estados Unidos Mexicanos, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales. Del sistema de medios de impugnación conocerán, según la competencia, el Organismo Público Autónomo a que se refiere este Artículo y el Tribunal Estatal Electoral.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
 
@@ -547,7 +547,7 @@ El día primero de Enero siguiente, el Congreso procederá al nombramiento de un
 
 El Congreso tendrá dos períodos ordinarios de sesiones cada año: El primero, improrrogable, iniciará el uno de marzo y terminará el día treinta y uno de mayo, excepto al instalarse cada Legislatura, en cuyo caso será del uno de enero al treinta y uno de marzo; el segundo dará principio el uno de septiembre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre, exceptuándose el último año de la Legislatura, cuando podrá prorrogarse por los días de diciembre que sean necesarios.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1999)</small>
 
 ###### Art. 45.
 
@@ -667,7 +667,7 @@ X. Fijar las bases a los Ayuntamientos para la contratación de emprésitos;
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XI. Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respectiv;
+XI. Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respectiva;
 
 XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
 
@@ -699,7 +699,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución;
 
-XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General;
+XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -735,7 +735,7 @@ XXXII. Determinar lo que crea conveniente sobre la renuncia que sobre su cargo h
 
 XXXIII. Computar los votos y declarar electos Senadores al Congreso de la Unión, conforme a lo dispuesto en el artículo 56 de la Constitución General, a los ciudadanos que hayan obtenido mayoría absoluta de votos, erigiéndose para el efecto en Colegio Electoral;
 
-XXXIV. Solicitar del ciudadano Presidente de la República, conforme a lo dispuesto por el artículo 29 de la Constitución Federal, la suspención de las garantías que ella otorga a los habitantes del Estado, con excepción de las que aseguran la vida del hombre; pero deberá hacerlo a petición del Ejecutivo del Estado y solamente en los casos de invasión, pertubación grave de la paz pública y cualesquiera otro que pongan al Estado en grave peligro o conflicto. En los recesos del Congreso, si el caso fuere declarado urgentísimo por unanimidad de la Diputación Permanente, esta, llamando a los Diputados existentes en el lugar donde celebre sus sesiones, que tendrán voz y voto en las deliberaciones, podrá hacer la petición antes dicha, sin perjuicio de convocarlo inmediatamente para darle cuenta y para que resuelva lo conveniente;
+XXXIV.- Solicitar del ciudadano Presidente de la República, conforme a lo dispuesto por el artículo 29 de la Constitución Federal, la suspención de las garantías que ella otorga a los habitantes del Estado, con excepción de las que aseguran la vida del hombre; pero deberá hacerlo a petición del Ejecutivo del Estado y solamente en los casos de invasión, pertubación grave de la paz pública y cualesquiera otro que pongan al Estado en grave peligro o conflicto. En los recesos del Congreso, si el caso fuere declarado urgentísimo por unanimidad de la Diputación Permanente, esta, llamando a los Diputados existentes en el lugar donde celebre sus sesiones, que tendrán voz y voto en las deliberaciones, podrá hacer la petición antes dicha, sin perjuicio de convocarlo inmediatamente para darle cuenta y para que resuelva lo conveniente;
 
 XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corresponda al Estado para el Ejército de la Nación;
 
@@ -1133,9 +1133,9 @@ V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Est
 
 VI. Cuidar en los distintos ramos de la Administración de que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las leyes.
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1999)</small>
 
-VII.- Presentar al Congreso las iniciativas de leyes de ingresos del Estado y de los Municipios, el proyecto de Presupuesto de Egresos del Estado, así como las cuentas y comprobantes de recaudación y aplicación de los fondos públicos del Estado y de los Municipios en los términos que dispone esta Constitución;
+VII.- Presentar al Congreso la Iniciativa de Ley de Ingresos del Estado, el proyecto de Presupuesto de Egresos del Estado, así como las cuentas y comprobantes de recaudación y aplicación de los fondos públicos del Estado en los términos que dispone esta Constitución;
 
 VIII. Disponer de la Guardia Nacional y Policía Rural del Estado según la ley.
 
@@ -1579,13 +1579,13 @@ DE LA PROCURACION DE JUSTICIA Y PROTECCION DE LOS DERECHOS HUMANOS.
 
 ###### ARTICULO 45.
 
-El Congreso en ambos períodos de sesiones, se ocupará del estudio, discusión y votación de las iniciativas de ley, decreto y acuerdo que se le presenten; de la resolución de los asuntos que le corresponden conforme a la Constitución y a las Leyes; de examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos municipales y Estatal, correspondientes al año anterior y que serán remitidas por conducto del Ejecutivo en la segunda quincena del mes de marzo, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos; si se actuó de conformidad con las leyes de la materia; si los gastos están justificados y si ha lugar a exigir alguna responsabilidad.
+El Congreso en ambos períodos de sesiones, se ocupará del estudio, discusión y votación de las Iniciativas de ley, decreto y acuerdo que se le presenten; de la resolución de los asuntos que le corresponden conforme a la Constitución y a las Leyes; de examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos correspondientes al año anterior y que serán remitidas en la segunda quincena del mes de marzo, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos; si se actuó de conformidad con las leyes de la materia; si los gastos están justificados y si ha lugar a exigir alguna responsabilidad.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 46.
 
-El Congreso en el segundo período de sesiones, se ocupará en discutir y decretar la Ley de Ingresos y el Presupuesto de Egresos del Estado del año siguiente, mismos que le serán presentados durante los primeros diez días de diciembre de cada año por el Ejecutivo. Las Leyes de Ingresos de los Municipios deberán remitirse durante los primeros diez días del mes de noviembre de cada año por conducto del Ejecutivo. Sólo se podrán ampliar dichos plazos cuando medie solicitud del Ejecutivo, suficientemente justificada a juicio del Congreso. Las Cuentas Públicas correspondientes al última (sic) año de la elección constitucional de Gobernador y Ayuntamientos, deberán ser presentadas a más tardar el día quince de diciembre, para lo cual se prorrogará forzosamente el período de sesiones, por los días necesarios del mes de diciembre y procederá en la forma que establece el artículo que antecede.
+El Congreso en el segundo período de sesiones, se ocupará en discutir y decretar la Ley de Ingresos y el Presupuesto de Egresos del Estado del año siguiente, mismos que le serán presentados durante los primeros diez días de diciembre de cada año por el Ejecutivo. Las Leyes de Ingresos de los Municipios deberán remitirse durante los primeros diez días del mes de noviembre de cada año. Sólo se podrán ampliar dichos plazos cuando medie solicitud del Ejecutivo, o de los Ayuntamientos en su caso, suficientemente justificada a juicio del Congreso. Las Cuentas Públicas correspondientes al último año del período constitucional de Gobernador y Ayuntamientos, deberán ser presentadas a más tardar el día quince de diciembre, para lo cual se prorrogará forzosamente el período de sesiones, por los días necesarios del mes de diciembre.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
@@ -1921,7 +1921,7 @@ Las leyes determinarán los casos y circunstancias en los que se deba sancionar 
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O.25 DE OCTUBRE DE 1997)</small>
 
 ###### Art. 151.
 
@@ -1947,7 +1947,7 @@ Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en J
 
 Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O.25 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 1997)</small>
 
 ###### Art. 152.
 
@@ -2879,15 +2879,11 @@ El presente Decreto entrará en vigor a partir de su expedición.
 
 El Artículo 80 de la Constitución Política del Estado de Tamaulipas, en los términos que fue reformado mediante el Decreto número 329 de la Quincuagésima Quinta Legislatura de Tamaulipas, publicado en el Periódico Oficial de fecha 10 de junio de 1995, surtirá sus efectos como lo dispone su Artículo Segundo Transitorio.
 
+P.O. 27 DE FEBRERO DE 1999.
+
 ###### ARTICULO UNICO.
 
-La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 7 DE FEBRERO DE 1983.
-
-UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 14 DE ENERO DE 1985.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
