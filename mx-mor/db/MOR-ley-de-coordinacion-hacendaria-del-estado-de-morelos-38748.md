@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2004-04-07"
+last_updated: "2005-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE COORDINACION HACENDARIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -161,9 +161,11 @@ c) El resultado se divide entre la suma total de los montos invertidos,
 
 d) El factor obtenido se multiplica en cada municipio por el monto a distribuir por este concepto.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2005)</small>
+
 ###### Artículo 8.
 
-El Gobierno del Estado, por conducto de la Secretaría de Despacho encargada de la Hacienda Pública, entregará a los Municipios las participaciones, por los distintos fondos y conceptos participables que les correspondan, dentro de los cinco días siguientes a la fecha en que la Federación radique en cuenta de la Tesorería del Estado, cada uno de los anticipos; las participaciones no podrán ser objeto de deducciones, debiendo aplicar los ajustes que se deriven de la liquidación correspondiente en el pago inmediato siguiente que se realice a los Municipios. El retraso dará lugar al pago de intereses, las partes estarán sujetas a lo dispuesto en los Artículos 6, 7, 8, 9 y 10-A de la Ley de Coordinación Fiscal de la Federación. De las liquidaciones que haga la Secretaría de Despacho encargada de la Hacienda Pública a los Municipios les entregará constancia pormenorizando cada uno de los conceptos.
+El Gobierno del Estado, por conducto de la Secretaría de Despacho encargada de la Hacienda Pública, entregará a los municipios las participaciones, de los distintos fondos y conceptos participables que les correspondan, dentro de los cinco días siguientes a la recepción de los recursos de la federación. El retraso dará lugar al pago de intereses, a la tasa de recargo que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones y se sujetará a lo dispuesto en el artículo 6º de la Ley de Coordinación Fiscal de la Federación. De las liquidaciones que haga la Secretaría de Despacho encargada de la Hacienda Pública a los Municipios les entregará constancia pormenorizando cada uno de los conceptos.
 
 ###### Artículo 9.
 
@@ -372,3 +374,15 @@ SECRETARÍA DE FINANZAS Y PLANEACIÓN
 L. C. JOSÉ ALEJANDRO JESÚS VILLARREAL GASCA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 2 DE MARZO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
