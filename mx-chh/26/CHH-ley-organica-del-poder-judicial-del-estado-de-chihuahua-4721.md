@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "1989-01-04"
+last_updated: "1989-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1989.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -261,9 +261,11 @@ En la designación de los funcionarios y empleados del Poder Judicial, se tomar�
 
 Los Magistrados no podrán proponer y los Jueces nombrar, como funcionarios o empleados de las oficinas de su adscripción, a personas con las que tengan parentesco por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 34.
 
-Las vacantes de Jueces de Primera Instancia, Secretarios Proyectistas de los Juzgados, Notificadores y Defensores de Oficio, se cubrirán mediante concurso de méritos.
+Las vacantes de Jueces de Primera Instancia y Defensores de Oficio, se cubrirán mediante concurso de méritos.
 
 ###### ARTICULO 35.
 
@@ -297,7 +299,9 @@ I.- ABRAHAM GONZALEZ, integrado por los Municipios de Delicias, Julimes, Meoquí
 
 II.- ANDRES DEL RIO, integrado por los Municipios de Batopilas, Guachochi y Morelos, con cabecera en la población de Guachochi;
 
-III.- ARTEAGA, integrado por los Municipios de Chínipas, Guazapares y Urique, con cabecera en el poblado de Témoris;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
+
+III.- Arteaga, integrado por los Municipios de Chínipas, Guazapares y Urique, con cabecera en la población de Chínipas de Almada;
 
 IV.- BENITO JUAREZ, integrado por los Municipios de Bachíniva, Bocoyna, Carichí, Cuauhtémoc, Cusihuiriachi, Namiquipa, Nonoava y San Francisco de Borja, con cabecera en Ciudad Cuauhtémoc;
 
@@ -433,9 +437,13 @@ XVII.- Nombrar, remover o cambiar la adscripción de los Jueces del Estado;
 
 XVIII.- Nombrar, remover y cambiar libremente la adscripción de los funcionarios y empleados del Supremo Tribunal de Justicia;
 
-XIX.- Nombrar, remover y cambiar libremente la adscripción de los Secretarios Proyectistas y Notificadores de los Juzgados del Estado;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
 
-XX.- Aprobar los nombramientos que de Secretarios de Acuerdos, hagan los Jueces del Estado;
+XIX.- Nombrar, remover y cambiar libremente la adscripción de los notificadores de los Juzgados del Estado;
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
+
+XX.- Aprobar los nombramientos que de Secretarios de Acuerdos y proyectistas hagan los Jueces del Estado;
 
 XXI.- Disponer porque lo considere conveniente para el mejor servicio público, el cambio de ubicación de los Juzgados del Estado;
 
@@ -555,7 +563,9 @@ XX.- Calificar las excusas y recusaciones del Secretario General;
 
 XXI.- Resolver las quejas presentadas contra los funcionarios y empleados que le corresponda conocer conforme a la ley;
 
-XXII.- Tramitar y resolver todos aquellos asuntos que siendo meramente administrativos, no sean de la competencia del Pleno o de las Salas;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
+
+XXII.- Tramitar y resolver todos aquellos asuntos que siendo meramente administrativos, no sean de la competencia del pleno o de las salas. Igualmente dictar todas aquellas providencias que sean necesarias para dejar los asuntos competencia del pleno, en estado de resolución;
 
 XXIII.- Manejar, con la aprobación del Pleno, los recursos que obtenga el Poder Judicial por cualquier concepto;
 
@@ -1353,9 +1363,11 @@ Los emolumentos del Encargado serán los mismos que el Presupuesto de Egresos se
 
 Los empleados subalternos del Fondo deberán realizar todas las actividades que les encomienden el Encargado del mismo o el Presidente del Tribunal.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 143.
 
-Para amparar las cantidades recibidas en depósito, se emitirán los correspondientes certificados pagaderos a la vista, no negociables ni redituables, debidamente autenticados con sello y firma del Encargado del Departamento del Fondo, los que deberán guardarse en las cajas de valores correspondientes por las autoridades que recibieron los depósitos u ordenaron las cauciones respectivas, haciendo constar en autos tal circunstancia.
+Para amparar las cantidades recibidas se emitirán certificados pagaderos a la vista, no negociables ni redituables, los que se guardarán por la autoridad a favor de quien se hizo el depósito u ordenó la caución respectiva, debiendo hacer constar en autos tal circunstancia.
 
 ###### ARTICULO 144.
 
@@ -1401,9 +1413,11 @@ Los Jueces de Primera Instancia serán nombrados por el Pleno en la forma y tér
 
 En asuntos de su competencia y cuando su mejor despacho lo requiera, podrán los Jueces de Primera Instancia trasladarse del lugar de su residencia a otro punto de su Distrito, previa autorización del Presidente del Supremo Tribunal o cuando éste o el Pleno así lo dispongan. En casos de urgencia que se presenten en asuntos del ramo penal o del familiar y que el Juez calificará bajo su más estrecha responsabilidad, podrá disponer el traslado inmediato del personal del Juzgado del lugar de su ubicación a otro punto de su Distrito, previo aviso al Presidente del Tribunal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 150.
 
-Corresponde a los Jueces de Primera Instancia según sea el caso:
+Corresponde a los Jueces de Primera Instancia, según sea el caso:
 
 I.- Conocer de los asuntos civiles, familiares o, penales que no estén expresamente encomendados a otra autoridad judicial y los que en forma explícita les señalen las leyes;
 
@@ -1421,7 +1435,9 @@ VII.- Asesorar a los Jueces Menores y, en su caso, a los de Paz de sus respectiv
 
 VIII.- Practicar las diligencias que les encomienden el Tribunal Pleno, el Presidente o las Salas del Supremo Tribunal;
 
-IX.- Nombrar y remover, con aprobación del Pleno, a su Secretario de Acuerdos y con la aprobación del Presidente, a los escribientes y conserje del Juzgado de su adscripción y, en ambos casos, tomarles la protesta de ley;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 1989)</small>
+
+IX.- Nombrar y remover a los Secretarios, Escribientes y Conserje del Juzgado de su adscripción y tomarles la protesta de ley en su debida oportunidad;
 
 X.- Vigilar y controlar a todos los funcionarios y empleados adscritos a su Juzgado;
 
@@ -1647,13 +1663,15 @@ II.- Estar en pleno ejercicio de sus derechos; y
 
 III.- Ser de notoria probidad y buena conducta.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
+
 ###### ARTICULO 175.
 
-Los Secretarios de Acuerdos serán nombrados directamente por el Juez con la aprobación del Pleno; los empleados, sean escribientes o conserjes, lo serán con aprobación del Presidente del Supremo Tribunal. Los Secretarios Proyectistas y los Notificadores serán nombrados por el Pleno. En casos de urgencia y cuando el nombramiento sea facultad del Juez, podrá, bajo su responsabilidad, disponer que tomen posesión de sus cargos o empleos inmediatamente después de hecha la designación, dando aviso al Presidente.
+Los Secretarios de Acuerdos y Proyectistas serán nombrados directamente por el Juez con la aprobación del Pleno; los empleados, sean escribientes o conserjes, lo serán con aprobación del Presidente del Supremo Tribunal; los notificadores serán nombrados por el pleno. En casos de urgencia y cuando el nombramiento sea facultad del Juez, podrá, bajo su responsabilidad, disponer que tomen posesión de sus cargos o empleos, comunicándole al Presidente.
 
-Los funcionarios y empleados de los Juzgados rendirán su protesta de ley ante el Juez si por él fueron designados o ante el Presidente si el nombramiento correspondió al Pleno.
+Los funcionarios y empleados de los Juzgados rendirán la Protesta de Ley ante el Juez si por él fueron designados o ante el Presidente si el nombramiento correspondió al Pleno.
 
-Para los efectos de este artículo, tendrá el Juez la obligación de informar al Secretario General las vacantes en aquellos cargos cuyo nombramiento corresponda al Pleno y de informarle también, para los efectos de su aprobación, de los nuevos nombramientos que realice, enviando toda la documentación necesaria para dichos efectos.
+Para los efectos de este artículo, tendrá el Juez la obligación de informar al Secretario General las vacantes en aquellos cargos cuyo nombramiento corresponda al pleno y de informarle también, para los efectos de su aprobación, de los nuevos nombramientos que realice, enviando toda la documentación necesaria para dichos efectos.
 
 ###### ARTICULO 176.
 
@@ -2018,3 +2036,17 @@ LIC. FERNANDO BAEZA MELENDEZ.
 EL PROCURADOR GENERAL DE JUSTICIA ENCARGADO DE LA SECRETARIA DE GOBIERNO POR MINISTERIO DE LEY.
 
 LIC. JOSE R. MILLER HERMOSILLO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE MAYO DE 1989.
+
+DECRETO No. 667-89-X-P.E.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación.
+
+P.O. 17 DE MAYO DE 1989.
+
+DECRETO No. 668-89-X-P.E.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
