@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2003-02-14"
+last_updated: "2003-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2003.
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RIO, ESTADO DE VERACRUZ-LLAVE, EN TERMINOS DEL ARTICULO 1 DEL CODIGO NUMERO 302 HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ-LLAVE, PUBLICADO EN LA G.O. DE 22 DE NOVIEMBRE DE 2002, QUEDARA SIN APLICACION DICHO ORDENAMIENTO EN EL MUNICIPIO DE BOCA DEL RIO, VERACRUZ, A PARTIR DE LA VIGENCIA DEL CITADO CODIGO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE FEBRERO DE 2003.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -4083,7 +4085,7 @@ El Ayuntamiento tendrá los siguientes aprovechamientos:
 
 I. Multas administrativas: Todas las que no sean consideradas como multas fiscales en el presente Código;
 
-II. Reintegros e Indemnizaciones: Para el pago de reintegros e indemnizaciones se estará al dictamen de la autoridad correspondiente;
+II. Reintegros e Indemnizaciones: Para el pago de reintegros e indemnizaciones se estará al dictamen de la autoridad correspondiente.
 
 En el caso de que se cause un daño imprudencial o intencional a los bienes municipales, la autoridad determinará el monto de la indemnización atendiendo al valor comercial de los bienes dañados o al de su reparación;
 
@@ -5799,4 +5801,16 @@ Felipe Amadeo Flores Espinosa, diputado presidente.- Rúbrica. Natalio Alejandro
 
 G.O. 14 DE FEBRERO DE 2003.
 
-Único. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 19 DE FEBRERO DE 2003.
+
+PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- En términos del artículo 1 del Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, publicado en la Gaceta Oficial del Estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el Municipio de Boca del Río, Veracruz, a partir de la vigencia del presente Código.
+
+TERCERO.- Los ordenamientos que aludan a la Ley de Deuda Pública Municipal del Estado de Veracruz-Llave y a la Ley de Hacienda Municipal del Estado de Veracruz-Llave, abrogada y derogada, respectivamente, por el Código número 302 Hacendario Municipal para el Estado de Veracruz-Llave, así como a este último, se entenderán referidos al presente Código.
+
+CUARTO.- Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el Artículo Sexto Transitorio de la Ley de Catastro del Estado de Veracruz-Llave, entrarán en vigor a partir del 1 de enero del año 2004.
+
+QUINTO.- En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
