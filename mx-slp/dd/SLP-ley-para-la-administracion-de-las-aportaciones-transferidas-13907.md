@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "1999-03-16"
+last_updated: "2000-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACION DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -142,6 +142,10 @@ II. Elaboración de proyectos;
 III. Supervisión y control de las obras y acciones, y
 
 IV. Gastos administrativos relacionados con la ejecución de las obras financiadas con estos Fondos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+También se considerará gasto indirecto las erogaciones que el Gobierno del Estado y los municipios efectúen a favor de la Contaduría Mayor de Hacienda del Congreso del Estado, por concepto de vigilancia y fiscalización que ésta practique a su hacienda pública, de conformidad con lo previsto por el artículo 81 de esta Ley.
 
 ###### ARTICULO 11.
 
@@ -627,6 +631,10 @@ La supervisión y vigilancia no podrá implicar limitaciones, ni restricciones d
 
 La fiscalización de las cuentas públicas del Estado y de los municipios, será efectuada por la Contaduría Mayor de Hacienda del Congreso del Estado de conformidad a las disposiciones legales aplicables, a efecto de verificar que las dependencias del Ejecutivo del Estado y de los municipios, respectivamente, aplicaron los recursos de los Fondos Estatales y Municipales para los fines previstos en esta Ley.
 
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000) (F. DE E., P.O. 1 DE ENERO DE 2001)
+
+Asimismo, para realizar la fiscalización de los recursos, el Ejecutivo del Estado y los Ayuntamientos previo convenio entre las partes, entregarán a la Contaduría Mayor de Hacienda del Congreso del Estado, por conducto de la Secretaría de Finanzas, el 1.5 porciento (sic) del monto total de cada fondo, en el momento en que reciban las ministraciones respectivas en los términos de esta Ley.
+
 ###### ARTICULO 82.
 
 El Estado y los ayuntamientos serán los responsables de comprobar el correcto ejercicio de los recursos relativos a los Fondos Estatales y Municipales, al presentar su Cuenta Pública de cada ejercicio fiscal al Congreso del Estado.
@@ -696,3 +704,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. JUAN CARLOS BARRON CERDA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+UNICO. El presente Decreto entrará en vigor el 1 de enero de 2001.
