@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1936-07-09"
+last_updated: "1936-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 1936.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 1936.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -89,7 +89,7 @@ N. DE. E. EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES
 
 P.O. 9 DE ABRIL DE 1931
 
-Artículo único.- Se deroga la Ley número 29 de fecha 22 de octubre de 1928, en la parte que reforma el artículo 107 de la Constitución Política del Estado, el que volverá a regir conforme al texto con que primitivamente figuró en la citada Constitución.
+AArtículo único.- Se deroga la Ley número 29 de fecha 22 de octubre de 1928, en la parte que reforma el artículo 107 de la Constitución Política del Estado, el que volverá a regir conforme al texto con que primitivamente figuró en la citada Constitución.
 
 P.O. 28 DE MAYO DE 1931
 
@@ -309,11 +309,11 @@ Los Poderes Públicos del Estado sólo podrán hacer aquello para lo que expresa
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1936)</small>
 
 ###### Art. 31.
 
-El Poder Legislativo se deposita en una Asamblea que se denominará "LEGISLATURA DEL ESTADO". Esta se compondrá de representantes del pueblo que serán electos en su totalidad cada cuatro años, directamente por aquél, de acuerdo con la ley electoral.
+El Poder Legislativo se deposita en una Asamblea que se denominará Legislatura del Estado. Esa se compondrá de representantes del pueblo que serán electos en su totalidad cada dos años, directamente por aquél, de acuerdo con la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1929)</small>
 
@@ -1031,11 +1031,11 @@ Los Ayuntamientos residirán en las cabeceras de las Municipalidades.
 
 En las poblaciones que no sean cabeceras de Municipalidad, según la importancia del poblado, los Ayuntamientos respectivos, nombrarán Delegados o Subdelegados, con las facultades y obligaciones que se señalarán en la ley Orgánica Municipal, y los cuales serán sus representantes directos.
 
-> <small>(REFORMADO, P.O 24 DE ENERO DE 1929)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1936)</small>
 
 ###### Art. 147.
 
-Los Ayuntamientos se renovarán en su totalidad cada cuatro años, y los Regidores deberán entrar en funciones el día primero de octubre del año de su elección, previa protesta que otorgarán ante el Ayuntamiento saliente.
+Los Ayuntamientos se renovarán en su totalidad cada dos años y los Regidores deberán entrar en funciones el día primero de octubre del año de su elección, previa protesta que otorgarán ante el Ayuntamiento saliente.
 
 ###### Art. 148.
 
@@ -1614,3 +1614,7 @@ Esta Ley entrará en vigor desde la fecha de su publicación en el Periódico Of
 P.O. 9 DE JULIO DE 1936
 
 Esta Ley comenzará a surtir sus efectos legales, desde el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 1936
+
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
